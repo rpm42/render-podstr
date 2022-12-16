@@ -1,0 +1,2000 @@
+id: 485
+number: 9
+bookId: 21
+verseCount: 35
+title: Глава 9
+verses:
+  - id: 19921
+    number: 1
+    bookId: 21
+    text: "И отвечал Иов и сказал:"
+    chapter: 9
+    chapterId: 485
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Отвещав же иов, рече:"
+      averincev: "И отвечал Иов, и сказал:"
+      ungerov: "И отвечал Иов, и сказал:"
+      csya_old: "Tвэщaвъ же јwвъ, рече2:"
+      sovr_rbo: "Так отвечал Иов:"
+      latin: "Et respondens Job, ait:"
+      ukr: "А Йов відповів та й сказав:"
+      nkjv: "Then Job answered and said:"
+      desnitsky: "ТАК ОТВЕЧАЛ ИОВ:"
+      mt: ‫    וַיַּעַן אִיּוֹב וַיֹּאמַר׃ ‬
+      romana: "Atunci Iov a raspuns si a zis:"
+      francais: "Job prit la parole et dit:"
+      italian: "Giobbe rispose dicendo:"
+      old_georgian: "მიუგო იობ და ჰრქუა:"
+      portuguese: "Então Jó respondeu, dizendo:"
+      polish: "Hiob na to tak odpowiedział:"
+      turkish: "Eyüp şöyle yanıtladı:"
+      nrt: "Тогда Иов ответил:"
+      Macarius: "И начал Иов, и сказал:"
+      serbian: "А Јов одговори и рече:"
+      bulgarian: "Отговори Иов и рече:"
+      deutsch: "Hiob antwortete und sprach:"
+      ukr2: "Заговорив Іов і мовив:"
+      ukr3: "І відповів Йов і сказав:"
+      bel_syomukha: "І адказваў Ёў і сказаў:"
+      spbda: "И отвечал Иов, и сказал:"
+      lev-khv: "И отвечал Иов, и сказал:"
+      czech: "Job na to odpovedel:"
+      spanish: "Respondió Job, diciendo:"
+      greek-lxx: ὑπολαβὼν δὲ Ιωβ λέγει
+      st_text: "И отвечал Иов и сказал:"
+  - id: 19922
+    number: 2
+    bookId: 21
+    text: правда! знаю, что так; но как оправдается человек пред Богом?
+    chapter: 9
+    chapterId: 485
+    parallels:
+      - verseId: 19746
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 4
+        short: Иов:4:17
+      - verseId: 19299
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 25
+        short: Иов:25:4
+      - verseId: 31083
+        bookId: 22
+        bookCode: psaltir
+        chapter: 142
+        short: Пс:142:2
+      - verseId: 14326
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 6
+        short: Еккл:6:10
+      - verseId: 34756
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 7
+        short: Сир:7:5
+      - verseId: 1592
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 4
+        short: 1 Кор:4:4
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "воистинну вем, яко тако есть: како бо будет праведен человек у Господа?"
+      averincev: '"Воистину, знаю, что это так: но будет ли человек пред Богом прав?'
+      ungerov: Поистине знаю, что так, ибо как будет правым человек пред Господом?
+      csya_old: "вои1стинну вёмъ, ћкw тaкw є4сть: кaкw бо бyдетъ прaведенъ человёкъ ў
+        гDа;"
+      sovr_rbo: "«Воистину, я знаю: это так. Но как человеку пред Богом оправдаться?"
+      latin: Vere scio quod ita sit, et quod non justificetur homo compositus Deo.
+      ukr: Справді пізнав я, що так... Та як оправдатись людині земній перед Богом?
+      nkjv: '"Truly I know it is so, But how can a man be righteous before God?'
+      desnitsky: "– Воистину, я знаю: это так. Но как человеку пред Богом оправдаться?"
+      mt: ‫    אָמְנָם יָדַעְתִּי כִי־כֵן וּמַה־יִּצְדַּק אֱנוֹשׁ עִם־אֵל׃ ‬
+      romana: '"Stiu bine ca asa este; caci cum ar putea un om sa fie drept inaintea
+        lui Dumnezeu?'
+      francais: Je sais bien qu'il en est ainsi; Comment l'homme serait-il juste
+        devant Dieu?
+      italian: "In verità io so che è così: e come può un uomo aver ragione innanzi a
+        Dio?"
+      old_georgian: ჭეშმარიტად უწყი, რამეთუ ეგე ეგრე არს. ვითარმე უკუე იყოს კაცი
+        მართალი წინაშე უფლისა?
+      portuguese: Na verdade sei que assim é; mas como pode o homem ser justo para com
+        Deus?
+      polish: ”Istotnie. Ja wiem, że to prawda. Czy człowiek jest prawy przed Bogiem?
+      turkish: "«Biliyorum, gerçekten öyledir,\rAma Tanrı'nın önünde insan nasıl haklı
+        çıkabilir?"
+      nrt: – Воистину, знаю, что это так. Но будет ли смертный перед Богом прав?
+      Macarius: Правда! знаю, что так; но как человеку устоять правым на суде с Богом?
+      serbian: Заиста, знам да је тако; јер како би могао човјек бити прав пред Богом?
+      bulgarian: наистина, зная, че това е тъй; но как ще се оправдае човек пред Бога?
+      deutsch: Ja, ich weiß gar wohl, daß es also ist und daß ein Mensch nicht recht
+        behalten mag gegen Gott.
+      ukr2: «Правда! Я знаю, що воно так; | та й як би чоловік міг бути | справедливим
+        перед Богом?
+      ukr3: Правда! я знаю, що так; але як оправдаєсь чоловік перед Богом?
+      bel_syomukha: праўда! ведаю, што так; але як апраўдаецца чалавек прад Богам?
+      spbda: "Правда! знаю, что так;\r\rи как может человек препираться с Богом?"
+      lev-khv: Правда; знаю, что так; и как может человек препираться с Богом?
+      czech: '"Vskutku vim, je tomu tak, coz muze clovek byt pred Bohem spravedlivy?'
+      spanish: "<<En verdad, yo sé que es así: ¿Cómo justificarse un hombre frente a
+        Dios?"
+      greek-lxx: ἐπ᾿ ἀληθείας οἶδα ὅτι οὕτως ἐστίν πῶς γὰρ ἔσται δίκαιος βροτὸς παρὰ Κυρίῳ
+      st_text: правда! знаю, что так; но как оправдается человек пред Богом?
+  - id: 19923
+    number: 3
+    bookId: 21
+    text: Если захочет вступить в прение с Ним, то не ответит Ему ни на одно из
+      тысячи.
+    chapter: 9
+    chapterId: 485
+    parallels:
+      - verseId: 19652
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 37
+        short: Иов:37:23
+      - verseId: 31083
+        bookId: 22
+        bookCode: psaltir
+        chapter: 142
+        short: Пс:142:2
+      - verseId: 14326
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 6
+        short: Еккл:6:10
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: аще бо восхощет судитися с ним, не послушает его, да не преречет ко
+        единому словеси его от тысящи.
+      averincev: Если б захотели судиться с Ним, из тысячи ни один не даст ответ.
+      ungerov: Если он захочет судиться с Ним, то Он не послушает его и не ответит ему
+        ни на одно из тысячи слов его.
+      csya_old: ѓще бо восхо1щетъ суди1тисz съ ни1мъ, не послyшаетъ є3гw2, да не
+        пререче1тъ ко є3ди1ному словеси2 є3гw2 t ты1сzщи.
+      sovr_rbo: Если кто с Ним вздумает судиться, ни на один из тысячи вопросов не
+        ответит.
+      latin: Si voluerit contendere cum eo, non poterit ei respondere unum pro mille.
+      ukr: Якщо вона схоче на прю стати з Ним, Він відповіді їй не дасть ні на одне із
+        тисячі скаржень...
+      nkjv: If one wished to contend with Him, He could not answer Him one time out of
+        a thousand.
+      desnitsky: Если кто с Ним вздумает судиться, ни на один из тысячи вопросов не
+        ответит.
+      mt: ‫    אִם־יַחְפֹּץ לָרִיב עִמּוֹ לֹא־יַעֲנֶנּוּ אַחַת מִנִּי־אָלֶף׃ ‬
+      romana: Daca ar fi sa se certe cu El, din o mie de lucruri n-ar putea sa-I
+        raspunda nici la unul singur.
+      francais: S'il voulait contester avec lui, Sur mille choses il ne pourrait
+        répondre à une seule.
+      italian: Se uno volesse disputare con lui, non gli risponderebbe una volta su
+        mille.
+      old_georgian: დაღათუ უნდეს სასჯელად მისა, არავე ისმინოს მისი, რათა არა
+        სიტყუაუგოს მას ერთისა წილ სიტყჳსა მისისა ათასისაგან,
+      portuguese: Se alguém quisesse contender com ele, não lhe poderia responder uma
+        vez em mil.
+      polish: Gdyby się ktoś z Nim prawował, nie odpowie raz jeden na tysiąc.
+      turkish: "Biri O'nunla tartışmak istese,\rBinde bir bile O'na yanıt veremez."
+      nrt: Если бы он захотел с Ним спорить, не смог бы ответить ни на один из тысячи
+        вопросов.
+      Macarius: Если Он соизволит вступить с ним в дело, то не ответят Ему ни на одно
+        из тысячи.
+      serbian: Ако би се хтио прети с њим, не би му могао одговорити од тисуће на једну.
+      bulgarian: Ако поиска да влезе в препирня с Него, не ще му отговори нито на едно
+        от хиляда.
+      deutsch: Hat er Lust, mit ihm zu hadern, so kann er ihm auf tausend nicht eins
+        antworten.
+      ukr2: Коли б він захотів на прю з ним стати, | на тисячу ні разу йому не
+        відповів би.
+      ukr3: А хоч би схотїв стати з ним на прю, то з тисячі й на одно не з'умів би
+        одказати.
+      bel_syomukha: Калі захоча ўступіць у спрэчку зь Ім, дык не адкажа Яму ні на адно
+        з тысячы.
+      spbda: "Если Он и захочет вступить в прение с ним:\r\rто не ответят Ему ни на
+        одно из тысячи."
+      lev-khv: Если он и захочет вступить в прение с Ним, то не ответит Ему ни на одно
+        из тысячи.
+      czech: Kdo by s nim chtel vesti spor, z tisice otazek jedinou nezodpovi.
+      spanish: Si quisiera contender con Él, de mil cargos no podría responder a uno.
+      greek-lxx: ἐὰν γὰρ βούληται κριθῆναι αὐτῷ οὐ μὴ ὑπακούσῃ αὐτῷ ἵνα μὴ ἀντείπῃ
+        πρὸς ἕνα λόγον αὐτοῦ ἐκ χιλίων
+      st_text: Если захочет вступить в прение с Ним, то не ответит Ему ни на одно из
+        тысячи.
+  - id: 19924
+    number: 4
+    bookId: 21
+    text: Премудр сердцем и могущ силою; кто восставал против Него и оставался в
+      покое?
+    chapter: 9
+    chapterId: 485
+    parallels:
+      - verseId: 19652
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 37
+        short: Иов:37:23
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Премудр бо есть мыслию, крепок же и велик: кто жесток быв противу его,
+        пребысть?"
+      averincev: Мыслью мудр, силой могущ, - кто спорил с Ним и остался здрав?
+      ungerov: Ибо Он премудр разумом, силен и великъ; кто, будучи непокорен Ему,
+        устоял?
+      csya_old: "Премdръ бо є4сть мы1слію, крёпокъ же и3 вели1къ: кто2 же1стокъ бы1въ
+        проти1ву є3гw2, пребы1сть;"
+      sovr_rbo: Будь то мудрый, будь могучий — кто уцелеет, если воспротивится Богу?
+      latin: "Sapiens corde est, et fortis robore: quis restitit ei, et pacem habuit?"
+      ukr: Він мудрого серця й могутньої сили; хто був проти Нього упертий і цілим
+        зостався?
+      nkjv: God is wise in heart and mighty in strength. Who has hardened himself
+        against Him and prospered?
+      desnitsky: Будь то мудрый, будь могучий – кто уцелеет, если воспротивиться Богу?
+      mt: ‫    חֲכַם לֵבָב וְאַמִּיץ כֹּחַ מִי־הִקְשָׁה אֵלָיו וַיִּשְׁלָם׃ ‬
+      romana: A Lui este intelepciunea si atotputernicia; cine ar putea sa-I stea
+        impotriva si sa ramana teafar?
+      francais: "A lui la sagesse et la toute-puissance: Qui lui résisterait impunément?"
+      italian: Saggio di mente, potente per la forza, chi s'è opposto a lui ed è
+        rimasto salvo?
+      old_georgian: რამეთუ ბრძენ არს გონებითა, ძლიერ არს და დიდ. ვინმე უკუე ფიცხელ
+        იქმნა მის წინაშე და დაუთმო?
+      portuguese: Ele é sábio de coração e poderoso em forças; quem se endureceu
+        contra ele, e ficou seguro?
+      polish: Umysł to mądry, a siła potężna. Któż Mu przeciwny nie padnie?
+      turkish: O'nun bilgisi derin, gücü eşsizdir, Kim O'na direndi de ayakta kaldı?
+      nrt: Великий мудростью, крепкий силой – кто с Ним спорил и остался цел?
+      Macarius: Премудр сердцем, и могущ силою. Кто дерзнул стать против Него, и цел
+        остался?
+      serbian: Мудар је срцем и јак снагом; ко се опро њему и био срећан?
+      bulgarian: Той е мъдър по сърце и мощен по сила; кой е въставал против Него и е
+        оставал на покой?
+      deutsch: Er ist weise und mächtig; wem ist's je gelungen, der sich wider ihn
+        gelegt hat?
+      ukr2: Він мудрий серцем і силою могутній; | хто проти нього коли вперся й
+        зостався цілим?
+      ukr3: Він серцем премудрий і великий силою; хто проти його вставав та й бував
+        з'упокоєн?
+      bel_syomukha: Мудры сэрцам і магутны сілаю; хто паўставаў супроць Яго і
+        заставаўся ў спакоі?
+      spbda: "Премудр сердцем и могущ силою, —\r\rкто дерзнул стать против Него, и цел
+        остался?"
+      lev-khv: Премудр сердцем и могущ силою; кто дерзнул стать против Него и цел
+        остался?
+      czech: On ma srdce moudre a nesmirnou silu, coz dojde pokoje ten, kdo se mu
+        vzepre?
+      spanish: "El es sabio de corazón y robusto de fuerza: ¿Quién se le opondrá y
+        saldrá ileso?"
+      greek-lxx: σοφὸς γάρ ἐστιν διανοίᾳ κραταιός τε καὶ μέγας τίς σκληρὸς γενόμενος
+        ἐναντίον αὐτοῦ ὑπέμεινεν
+      st_text: Премудр сердцем и могущ силою; кто восставал против Него и оставался в
+        покое?
+  - id: 19925
+    number: 5
+    bookId: 21
+    text: "Он передвигает горы, и не узнают их: Он превращает их в гневе Своем;"
+    chapter: 9
+    chapterId: 485
+    parallels:
+      - verseId: 16427
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 51
+        short: Иер:51:25
+      - verseId: 25316
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 17
+        short: Мф:17:20
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Обетшаяй горы, и не ведят, превращаяй я гневом:"
+      averincev: Он горы движет, неслышно как, и рушит их во гневе Своем;
+      ungerov: Он делает ветхими горы, так что не узнают (их), превращает их во гневе.
+      csya_old: "Њбетшazй го1ры, и3 не вёдzтъ, превращazй | гнёвомъ:"
+      sovr_rbo: Никому не узнать, как Он двигает горы, как ворочает их в гневе;
+      latin: Qui transtulit montes, et nescierunt hi quos subvertit in furore suo.
+      ukr: Він гори зриває, й не знають вони, що в гніві Своїм Він їх перевернув.
+      nkjv: He removes the mountains, and they do not know When He overturns them in
+        His anger;
+      desnitsky: Никому не узнать, как Он двигает горы, как ворочает их в гневе;
+      mt: ‫    הַמַּעְתִּיק הָרִים וְלֹא יָדָעוּ אֲשֶׁר הֲפָכָם בְּאַפּוֹ׃ ‬
+      romana: El misca muntii din loc fara ca ei sa prinda de veste ca El i-a
+        rasturnat in mania Lui.
+      francais: Il transporte soudain les montagnes, Il les renverse dans sa colère.
+      italian: Sposta le montagne e non lo sanno, egli nella sua ira le sconvolge.
+      old_georgian: რომელი დააძუელებს მთათა და არა იციან, რომელმან დააქცინის იგინი რისხვითა.
+      portuguese: Ele é o que remove os montes, sem que o saibam, e os transtorna no
+        seu furor;
+      polish: W mgnieniu oka On przesunie góry i zniesie je w swoim gniewie,
+      turkish: "O dağları yerinden oynatır da,\rDağlar farkına varmaz,\rÖfkeyle altüst
+        eder onları."
+      nrt: Он передвигает горы без ведома людей и в Своем гневе рушит их.
+      Macarius: Он низводит горы в обветшание, так что не примечают; Он превращает их
+        в гневе Своем.
+      serbian: Он премјешта горе да нико и не опази; превраћа их у гњеву свом;
+      bulgarian: "Той преместя планините, и те са неузнаваеми: превръща ги в гнева Си;"
+      deutsch: Er versetzt Berge, ehe sie es innewerden, die er in seinem Zorn umkehrt.
+      ukr2: Він переносить гори, і вони не знають, | в своєму гніві їх перевертає.
+      ukr3: Він переносить гори й не пізнають їх; він перевертає їх в гнїву свойму;
+      bel_syomukha: "Ён перасоўвае горы, і не пазнаюць іх: Ён ператварае іх у гневе Сваім;"
+      spbda: "Движущий горы, так что не примечают,\r\rчто Он превратил их в гневе
+        Своем;"
+      lev-khv: Движущий горы, так что не примечают, что Он превратил их в гневе Своем;
+      czech: On prenasi hory, nez by se kdo nadal, prevraci je v hnevu;
+      spanish: El desplaza los montes sin que se den cuenta, y en su ira los trastorna.
+      greek-lxx: ὁ παλαιῶν ὄρη καὶ οὐκ οἴδασιν ὁ καταστρέφων αὐτὰ ὀργῇ
+      st_text: "Он передвигает горы, и не узнают их: Он превращает их в гневе Своем;"
+  - id: 19926
+    number: 6
+    bookId: 21
+    text: сдвигает землю с места ее, и столбы ее дрожат;
+    chapter: 9
+    chapterId: 485
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "трясый поднебесную из оснований, столпи же ея колеблются:"
+      averincev: Он сдвигает землю с места ее, и дрожат устои ее;
+      ungerov: Потрясает поднебесную в основаниях, и столбы ея колеблются.
+      csya_old: "трzсы1й поднебе1сную и3з8 њсновaній, столпи1 же є3S коле1блютсz:"
+      sovr_rbo: Он колеблет и смещает землю, потрясает ее основания;
+      latin: Qui commovet terram de loco suo, et columnae ejus concutiuntur.
+      ukr: Він землю трясе з її місця, і стовпи її трусяться.
+      nkjv: He shakes the earth out of its place, And its pillars tremble;
+      desnitsky: Он колеблет и смещает землю, потрясает ее основания;
+      mt: ‫    הַמַּרְגִּיז אֶרֶץ מִמְּקוֹמָהּ וְעַמּוּדֶיהָ יִתְפַלָּצוּן׃‪‬ ‬
+      romana: El zguduie pamantul din temelia lui, asa incat stalpii lui se clatina.
+      francais: Il secoue la terre sur sa base, Et ses colonnes sont ébranlées.
+      italian: Scuote la terra dal suo posto e le sue colonne tremano.
+      old_georgian: რომელმან შეძრის ცაჲ ქუეშე საფარველითურთ და სუეტნი მისნი იძრვიედ.
+      portuguese: o que sacode a terra do seu lugar, de modo que as suas colunas
+        estremecem;
+      polish: "On ziemię poruszy w posadach: i poczną trzeszczeć jej słupy."
+      turkish: "Dünyayı yerinden oynatır,\rDireklerini titretir."
+      nrt: Он колеблет землю и сдвигает с места, и основания ее дрожат.
+      Macarius: Он потрясает землю с места ее, так что столпы ее дрожат.
+      serbian: Он креће земљу с мјеста њезина да јој се ступови дрмају;
+      bulgarian: поместя земята от мястото й, и стълбовете й треперят;
+      deutsch: Er bewegt die Erde aus ihrem Ort, daß ihre Pfeiler zittern.
+      ukr2: Зрушує землю з її місця, | й її стовпи стрясаються.
+      ukr3: Він рушає землю з її місця, і стовпи її колихаються;
+      bel_syomukha: "зрушвае зямлю зь месца яе, і слупы яе дрыжаць:"
+      spbda: "Потрясающий землю с места ея,\r\rтак, что столпы ея дрожат;"
+      lev-khv: Потрясающий землю с места ея, так что столпы ея дрожат;
+      czech: zemi pohne z mista, az se jeji sloupy chveji.
+      spanish: El sacude la tierra en su sitio, estremécense sus columnas.
+      greek-lxx: ὁ σείων τὴν ὑπ᾿ οὐρανὸν ἐκ θεμελίων οἱ δὲ στῦλοι αὐτῆς σαλεύονται
+      st_text: сдвигает землю с места ее, и столбы ее дрожат;
+  - id: 19927
+    number: 7
+    bookId: 21
+    text: скажет солнцу, - и не взойдет, и на звезды налагает печать.
+    chapter: 9
+    chapterId: 485
+    parallels:
+      - verseId: 26920
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 10
+        short: Нав:10:13
+      - verseId: 9037
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 20
+        short: 4 Цар:20:11
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "глаголяй солнцу, и не восходит, звезды же печатствует:"
+      averincev: Он молвит солнцу, и не светит оно, и держит звезды под печатью Своей;
+      ungerov: Скажет солнцу, и оно не восходит, а на звезды налагает печать.
+      csya_old: "гlzй со1лнцу, и3 не восхо1дитъ, ѕвёзды же печaтствуетъ:"
+      sovr_rbo: Он прикажет — и солнце не встанет, Он на звезды налагает печать;
+      latin: Qui praecipit soli, et non oritur, et stellas claudit quasi sub
+        signaculo.
+      ukr: Він сонцеві скаже, й не сходить воно, і Він запечатує зорі.
+      nkjv: He commands the sun, and it does not rise; He seals off the stars;
+      desnitsky: Он прикажет – и солнце не встанет, Он на звезды налагает печать;
+      mt: ‫    הָאֹמֵר לַחֶרֶס וְלֹא יִזְרָח וּבְעַד כּוֹכָבִים יַחְתֹּם׃ ‬
+      romana: El porunceste soarelui si soarele nu se mai ridica. El pune pecetea Lui
+        asupra stelelor.
+      francais: Il commande au soleil, et le soleil ne paraît pas; Il met un sceau sur
+        les étoiles.
+      italian: Comanda al sole ed esso non sorge e alle stelle pone il suo sigillo.
+      old_georgian: რომელმან უბრძანოს მზესა და არა აღმოჰჴდეს და ვარსკულავთა ზედა დაჰბეჭდოს.
+      portuguese: o que dá ordens ao sol, e ele não nasce; o que sela as estrelas;
+      polish: On słońcu zabroni świecić, na gwiazdy pieczęć nałoży.
+      turkish: Güneşe buyruk verir, doğmaz güneş, Yıldızları mühürler.
+      nrt: Он солнцу велит, и оно не светит; печатью Он заключает звезды.
+      Macarius: Укажет солнцу, и не взойдет, и звезды запечатывает.
+      serbian: Он, кад запријети сунцу, не излази; он запечаћава звијезде;
+      bulgarian: каже на слънцето, - и то не изгрява, и на звездите туря печат.
+      deutsch: Er spricht zur Sonne, so geht sie nicht auf, und versiegelt die Sterne.
+      ukr2: Він велить сонцю, і воно не сходить; | кладе печать на звізди.
+      ukr3: Скаже сонцеві, - і не зійде, й на звізди печать покладає.
+      bel_syomukha: скажа сонцу, - і ня ўзыдзе, і на зоркі накладвае пячатку.
+      spbda: "Говорящий солнцу, и не взойдет,\r\rи звезды закрывает;"
+      lev-khv: Говорящий солнцу, — и не восходит, и звезды закрывает;
+      czech: Slunci rozkaze – a nesmi vzejit, zapecetuje i hvezdy,
+      spanish: El manda al sol, y éste no brilla, y guarda bajo sello las estrellas.
+      greek-lxx: ὁ λέγων τῷ ἡλίῳ καὶ οὐκ ἀνατέλλει κατὰ δὲ ἄστρων κατασφραγίζει
+      st_text: скажет солнцу, - и не взойдет, и на звезды налагает печать.
+  - id: 19928
+    number: 8
+    bookId: 21
+    text: Он один распростирает небеса и ходит по высотам моря;
+    chapter: 9
+    chapterId: 485
+    parallels:
+      - verseId: 16417
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 51
+        short: Иер:51:15
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "прострый един небо и ходяй но морю, яко по земли:"
+      averincev: Он один простирает небеса и превыше морей совершает путь;
+      ungerov: Он один распростер небо и ходит по морю, как по земле.
+      csya_old: "простры1й є3ди1нъ не1бо и3 ходsй но мо1рю, ћкw по земли2:"
+      sovr_rbo: Он один расстилает небеса и попирает хребты морей;
+      latin: Qui extendit caelos solus, et graditur super fluctus maris.
+      ukr: Розтягує небо Він Сам, і ходить по морських висотах,
+      nkjv: He alone spreads out the heavens, And treads on the waves of the sea;
+      desnitsky: Он один расстилает небеса и попирает хребты морей;
+      mt: ‫    נֹטֶה שָׁמַיִם לְבַדּוֹ וְדוֹרֵךְ עַל־בָּמֳתֵי יָם׃ ‬
+      romana: El singur este Cel ce intinde cerurile si umbla pe valurile marii.
+      francais: Seul, il étend les cieux, Il marche sur les hauteurs de la mer.
+      italian: Egli da solo stende i cieli e cammina sulle onde del mare.
+      old_georgian: რომელმან გარდაართხნა ცანი მხოლომან და ვალს იგი ზღუასა ზედა,
+        ვითარცა ჴმელსა.
+      portuguese: o que sozinho estende os céus, e anda sobre as ondas do mar;
+      polish: On sam rozciąga niebiosa, kroczy po morskich głębinach;
+      turkish: O'dur tek başına gökleri geren, Denizin dalgaları üzerinde yürüyen.
+      nrt: Он один простирает небеса и попирает волны морские.
+      Macarius: Преклоняет небеса Он един, и ходит по высотам моря.
+      serbian: Он разапиње небо сам, и гази по валима морским;
+      bulgarian: Той Сам простира небесата и ходи по морското висине;
+      deutsch: Er breitet den Himmel aus allein und geht auf den Wogen des Meeres.
+      ukr2: Він небеса нап'яв, сам він; | він ходить по морських висотах.
+      ukr3: Він самий напинає небеса й ходить по валах морських.
+      bel_syomukha: Ён адзін распасьцірае нябёсы і ходзіць па вышынях мора;
+      spbda: "Преклоняющий небеса Единый,\r\rи ходящий по высотам моря;"
+      lev-khv: Преклоняющий небеса Единый и ходящий по высотам моря;
+      czech: sam nebesa roztahuje, kraci po hrebenech morskych vln,
+      spanish: El solo tiende los cielos y camina sobre las crestas del mar.
+      greek-lxx: ὁ τανύσας τὸν οὐρανὸν μόνος καὶ περιπατῶν ὡς ἐπ᾿ ἐδάφους ἐπὶ θαλάσσης
+      st_text: Он один распростирает небеса и ходит по высотам моря;
+  - id: 19929
+    number: 9
+    bookId: 21
+    text: "сотворил Ас, Кесиль и Хима* и тайники юга; <i>//*Cозвездия,
+      соответствующие нынешним названиям: Медведицы, Ориона и Плеяд.</i>"
+    chapter: 9
+    chapterId: 485
+    parallels:
+      - verseId: 19684
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 38
+        short: Иов:38:31
+      - verseId: 33534
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 16
+        short: Сир:16:27
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "творяй плиады и еспера, и арктура и сокровища южная:"
+      averincev: Он создал Медведицу и Кесиль, Семизвездье и домы южных планет;
+      ungerov: Он сотворил плиады, и вечерния звезды и Арктур и тайники юга.
+      csya_old: "творsй плі†ды и3 є3спе1ра, и3 ґрктyра и3 сокрHвища ю4жнаz:"
+      sovr_rbo: Он сотворил Медведицу, Орион, Плеяды и Южные палаты.
+      latin: Qui facit Arcturum et Oriona, et Hyadas et interiora austri.
+      ukr: Він Воза створив, Оріона та Волосожара, та зорі південні.
+      nkjv: He made the Bear, Orion, and the Pleiades, And the chambers of the south;
+      desnitsky: Он сотворил Медведицу, Орион, Плеяды и Южные палаты.
+      mt: ‫    עֹשֶׂה־עָשׁ כְּסִיל וְכִימָה וְחַדְרֵי תֵמָן׃ ‬
+      romana: El a zidit Carul mare, Ralita, Pleiadele si camarile stelelor de miazazi.
+      francais: Il a créé la Grande Ourse, l'Orion et les Pléiades, Et les étoiles des
+        régions australes.
+      italian: Crea l'Orsa e l'Orione, le Pleiadi e i penetrali del cielo australe.
+      old_georgian: რომელმან შექმნა ჴომნი და მწუხრისა ვარსკვლავი და ურემ-ჴარნი და
+        საუნჯე სამხრისაჲ.
+      portuguese: o que fez a ursa, o Oriom, e as Plêiades, e as recâmaras do sul;
+      polish: On stworzył Niedźwiedzicę, Oriona, Plejady i Strefy Południa.
+      turkish: Büyük Ayı'yı, Oryon'u, Ülker'i, Güney takımyıldızlarını yaratan O'dur.
+      nrt: Он сотворил Большую Медведицу и Орион, Плеяды и южные созвездия.
+      Macarius: Он сокрывает Медведицу, Ориона, Плеяды, и тайны горницы Юга.
+      serbian: Он је начинио звијезде кола и штапе и влашиће и друге југу у дну;
+      bulgarian: "сътворил е Ас, Кесил и Хима * и скривалищата южни; //* Съзвездия,
+        известни днес с имената: Мечка, Орион и Плеади."
+      deutsch: Er macht den Wagen am Himmel und Orion und die Plejaden und die Sterne
+        gegen Mittag.
+      ukr2: Він створив Віз, Косарів, | Квочку і Комори Півдня.
+      ukr3: Він і Ведмедя саздав, Орийон і Плеяди, й зорі cкриті на полуднї;
+      bel_syomukha: стварыў Ас, Кесіль, і Хіма і тайнікі поўдня;
+      spbda: "Творящий Медведицу, Ориона, Плеяды,\r\rи тайныя горницы Юга;"
+      lev-khv: Сотворивший Медведицу, Ориона, и Плеяды, и внутренние чертоги Юга;
+      czech: on udelal souhvezdi Lva, Oriona i Plejady a souhvezdi jizni.
+      spanish: El creó la Osa, el Orión y las Pléyades y las cámaras del cielo austral.
+      greek-lxx: ὁ ποιῶν Πλειάδα καὶ ἕσπερον καὶ ἀρκτοῦρον καὶ ταμίεια νότου
+      st_text: "сотворил Ас, Кесиль и Хима* и тайники юга; <i>//*Cозвездия,
+        соответствующие нынешним названиям: Медведицы, Ориона и Плеяд.</i>"
+  - id: 19930
+    number: 10
+    bookId: 21
+    text: делает великое, неисследимое и чудное без числа!
+    chapter: 9
+    chapterId: 485
+    parallels:
+      - verseId: 19829
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 5
+        short: Иов:5:9
+      - verseId: 32877
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 11
+        short: Рим:11:33
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: творяй велия и неизследованная, славная же и изрядная, имже несть числа.
+      averincev: дивны и непостижны дела Его, и чудесам Его нет числа!
+      ungerov: Он творит великое и неизследимое, славное и дивное, чему нет числа.
+      csya_old: творsй вє1ліz и3 неизслёдwваннаz, сл†внаz же и3 и3зр‰днаz, и5мже нёсть
+        числA.
+      sovr_rbo: Дела его велики, непостижимы, не счесть Его чудес.
+      latin: Qui facit magna, et incomprehensibilia, et mirabilia, quorum non est
+        numerus.
+      ukr: Він чинить велике та недослідиме, предивне, якому немає числа!...
+      nkjv: He does great things past finding out, Yes, wonders without number.
+      desnitsky: Дела его велики, непостижимы, не счесть Его чудес.
+      mt: ‫    עֹשֶׂה גְדֹלוֹת עַד־אֵין חֵקֶר וְנִפְלָאוֹת עַד־אֵין מִסְפָּר׃ ‬
+      romana: El a facut lucruri mari si nepatrunse si minuni fara de numar.
+      francais: Il fait des choses grandes et insondables, Des merveilles sans nombre.
+      italian: Fa cose tanto grandi da non potersi indagare, meraviglie da non potersi
+        contare.
+      old_georgian: რომელმან ქმნნა დიდ-დიდნი და გამოუკულეველნი დიდებულნი და
+        საკჳრველნი, რომელთა არა არს რიცხჳ.
+      portuguese: o que faz coisas grandes e insondáveis, e maravilhas que não se
+        podem contar.
+      polish: On czyni cuda niezbadane, nikt nie zliczy Jego dziwów.
+      turkish: "Anlayamadığımız büyük işler,\rSayısız şaşılası işler yapan O'dur."
+      nrt: Творит Он великое и непостижимое, бессчетные чудеса.
+      Macarius: Творит великое непостижимо, и чудное без числа.
+      serbian: Он чини ствари велике и неиспитљиве и дивне, којима нема броја.
+      bulgarian: върши дела велики, неизследими и чудни, безброй.
+      deutsch: Er tut große Dinge, die nicht zu erforschen sind, und Wunder, deren
+        keine Zahl ist.
+      ukr2: Він творить діла великі, незбагненні | і чудеса без ліку!
+      ukr3: Творить великі дива, недовідні, безлїчні.
+      bel_syomukha: робіць вялікае, непаддасьледнае і цудоўнае бясконца!
+      spbda: "Творящий великое неизследимое,\r\rи чудное без числа!"
+      lev-khv: Творящий великое, неизследимое и чудное без числа.
+      czech: Dela veci velike a nevyzpytatelne, nescislne divy.
+      spanish: El obra cosas grandes e insondables, maravillas sin cuento.
+      greek-lxx: ὁ ποιῶν μεγάλα καὶ ἀνεξιχνίαστα ἔνδοξά τε καὶ ἐξαίσια ὧν οὐκ ἔστιν
+        ἀριθμός
+      st_text: делает великое, неисследимое и чудное без числа!
+  - id: 19931
+    number: 11
+    bookId: 21
+    text: Вот, Он пройдет предо мною, и не увижу Его; пронесется и не замечу Его.
+    chapter: 9
+    chapterId: 485
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Аще приидет ко мне, не имам видети: и аще мимоидет мене, никако
+        уразумех."
+      averincev: Вот, пройдет Он предо мной, и не увижу Его, пронесется мимо, и не
+        примечу Его;
+      ungerov: Если Он придет ко мне, я не увижу, и если пройдет мимо меня, я никак не
+        узнаю.
+      csya_old: "Ѓще пріи1детъ ко мнЁ, не и4мамъ ви1дэти: и3 ѓще мимои1детъ менє2,
+        никaкw ўразумёхъ."
+      sovr_rbo: Он пройдет рядом, а я и не увижу; поступи Его я не услышу.
+      latin: Si venerit ad me, non videbo eum; si abierit, non intelligam.
+      ukr: Ось Він надо мною проходить, та я не побачу, і Він перейде, а я не
+        приглянусь до Нього...
+      nkjv: If He goes by me, I do not see Him; If He moves past, I do not perceive
+        Him;
+      desnitsky: Он пройдет рядом, а я и не увижу; поступи Его я не услышу.
+      mt: ‫    הֵן יַעֲבֹר עָלַי וְלֹא אֶרְאֶה וְיַחֲלֹף וְלֹא־אָבִין לוֹ׃ ‬
+      romana: Iata, daca trece pe langa mine, eu nu-L vad, si daca se strecoara, eu
+        nu-I prind de veste.
+      francais: Voici, il passe près de moi, et je ne le vois pas, Il s'en va, et je
+        ne l'aperçois pas.
+      italian: Ecco, mi passa vicino e non lo vedo, se ne va e di lui non m'accorgo.
+      old_georgian: უკუეთუ ზედაგარდამჴდეს, მე ვერ ვიხილო, ანუ თუ თანაწარმჴდეს მე,
+        ვერცა ეგრეთ ვცნა.
+      portuguese: Eis que ele passa junto a mim, e, não o vejo; sim, vai passando
+        adiante, mas não o percebo.
+      polish: "Nie widzę Go, chociaż przechodzi: mija, a dostrzec nie mogę."
+      turkish: İşte, yanımdan geçer, O'nu göremem, Geçip gider, farkına bile varmam.
+      nrt: Вот, Он пройдет передо мной, а я Его не увижу, пронесется мимо, а я Его не
+        замечу.
+      Macarius: Вот, Он пройдет надо мною, и не увижу Его; пронесется, и не замечу Его.
+      serbian: Гле, иде мимо мене, а ја не видим; прође, а ја га не опазим.
+      bulgarian: Ето, Той ще мине пред мен, и аз не ще Го видя; ще отмине, и не ще Го
+        забележа.
+      deutsch: Siehe, er geht an mir vorüber, ehe ich's gewahr werde, und wandelt
+        vorbei, ehe ich's merke.
+      ukr2: Як пройде попри мене, я не побачу, | як промайне, я не помічу.
+      ukr3: Ось, він перейде попри мене, й не побачу його; промайне, й не замічу його.
+      bel_syomukha: Вось, Ён пройдзе перад мною, і ня ўбачу Яго; праімчыцца, і не
+        заўважу Яго.
+      spbda: "Вот, Он пройдет надо мною, и не увижу Его;\r\rпронесется, и не замечу
+        Его."
+      lev-khv: Вот, Он пройдет надо мною, и не увижу Его; пронесется, и не замечу Его.
+      czech: Jde-li mimo mne, nevidim ho, miji-li me, ani ho nepostrehnu.
+      spanish: Si pasa ante mí, yo no le veo; se desliza, y yo no lo advierto.
+      greek-lxx: ἐὰν ὑπερβῇ με οὐ μὴ ἴδω καὶ ἐὰν παρέλθῃ με οὐδ᾿ ὧς ἔγνων
+      st_text: Вот, Он пройдет предо мною, и не увижу Его; пронесется и не замечу Его.
+  - id: 19932
+    number: 12
+    bookId: 21
+    text: "Возьмет, и кто возбранит Ему? кто скажет Ему: что Ты делаешь?"
+    chapter: 9
+    chapterId: 485
+    parallels:
+      - verseId: 20001
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 10
+        short: Ис:10:15
+      - verseId: 20091
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 14
+        short: Ис:14:27
+      - verseId: 20707
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 43
+        short: Ис:43:13
+      - verseId: 12866
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 4
+        short: Дан:4:32
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Аще возмет, кто возвратит? или кто речет ему: что сотворил еси?"
+      averincev: 'вот, схватит, и кто возбранит Ему? Кто спросит Его: "Что творишь?"'
+      ungerov: "Если Он возьмет, кто (от Него) возвратит? или кто скажет Ему: что Ты
+        сделал?"
+      csya_old: "Ѓще во1зметъ, кто2 возврати1тъ; и3ли2 кто2 рече1тъ є3мY: что2
+        сотвори1лъ є3си2;"
+      sovr_rbo: "Он отнимет — никто не вернет, никто Ему не скажет: „Стой, что делаешь?”"
+      latin: "Si repente interroget, quis respondebit ei? vel quis dicere potest: Cur
+        ita facis?"
+      ukr: "Ось Він схопить кого, хто заверне Його, хто скаже Йому: що Ти робиш?"
+      nkjv: "If He takes away, who can hinder Him? Who can say to Him, 'What are You
+        doing?' "
+      desnitsky: "Он отнимет – никто не вернет, никто Ему не скажет: «Стой, что делаешь?»"
+      mt: ‫    הֵן יַחְתֹּף מִי יְשִׁיבֶנּוּ מִי־יֹאמַר אֵלָיו מַה־תַּעֲשֶׂה׃ ‬
+      romana: "Daca ia si ridica, cine va putea sa-L opreasca si cine-I va zice: Ce ai
+        facut?"
+      francais: "S'il enlève, qui s'y opposera? Qui lui dira: Que fais-tu?"
+      italian: 'Se rapisce qualcosa, chi lo può impedire? Chi gli può dire: "Che fai?".'
+      old_georgian: "უკუეთუ გარემიიქცეს, ვინ მოაქციოს? ანუ ვინ ჰრქუას მას ვითარმედ:
+        რაჲ ეგე ჰყავ?"
+      portuguese: "Eis que arrebata a presa; quem o pode impedir? Quem lhe dirá: Que é
+        o que fazes?"
+      polish: "Kto Mu zabroni, choć zniszczy? Kto zdoła powiedzieć: ”Co robisz?”"
+      turkish: "Evet, O avını kaparsa, kim O'nu durdurabilir?\rKim O'na, `Ne
+        yapıyorsun' diyebilir?"
+      nrt: "Вот, Он схватит, и кто Его остановит? Кто скажет Ему: «Что ты делаешь?»"
+      Macarius: "Вот схватит, кто возбранит Ему? кто скажет Ему: «что Ты делаешь»?"
+      serbian: "Гле, кад ухвати, ко ће га нагнати да врати? Ко ће му казати: Шта радиш?"
+      bulgarian: "Ще вземе, и кой ще му забрани? Кой ще Му каже: какво вършиш?"
+      deutsch: "Siehe, wenn er hinreißt, wer will ihm wehren? Wer will zu ihm sagen:
+        Was machst du?"
+      ukr2: "Як він щось забере, хто йому заборонить? | Хто йому скаже: Що чиниш?"
+      ukr3: "Візьме, та хто заборонить йому? Хто скаже йому: що се ти робиш?"
+      bel_syomukha: "Возьме, і хто забароніць Яму? хто скажа Яму: што Ты робіш?"
+      spbda: "Вот схватит, кто возбранит Ему?\r\rкто скажет Ему: «что Ты делаешь»?"
+      lev-khv: "Вот, схватит, — кто возбранит Ему? кто скажет Ему: чтó Ты делаешь?"
+      czech: "Jestlize co uchvati, kdo ho donuti to vratit, kdopak se ho zepta: ‚Co to
+        delas?'"
+      spanish: "Si toma una presa, ¿quién se la arrebatará? ¿Quién podrá decirle: Qué
+        es lo que haces?"
+      greek-lxx: ἐὰν ἀπαλλάξῃ τίς ἀποστρέψει ἢ τίς ἐρεῖ αὐτῷ τί ἐποίησας
+      st_text: "Возьмет, и кто возбранит Ему? кто скажет Ему: что Ты делаешь?"
+  - id: 19933
+    number: 13
+    bookId: 21
+    text: Бог не отвратит гнева Своего; пред Ним падут поборники гордыни.
+    chapter: 9
+    chapterId: 485
+    parallels:
+      - verseId: 26848
+        bookId: 41
+        bookCode: kniga-proroka-nauma
+        chapter: 1
+        short: Наум:1:6
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Сам бо отвращает гнев, слякошася под ним кити поднебеснии.
+      averincev: "Гнева Своего не сдержит Бог: слуги Рахава падут пред ним!"
+      ungerov: Ибо Он Сам отвращает гнев, пред Ним преклоняются чудовища поднебесной.
+      csya_old: Сaмъ бо tвращaетъ гнёвъ, слzко1шасz под8 ни1мъ ки1ти поднебе1сніи.
+      sovr_rbo: Бог во гневе не остановится, и служители Рахава перед Ним склонятся.
+      latin: Deus, cujus irae nemo resistere potest, et sub quo curvantur qui portant
+        orbem.
+      ukr: Бог гніву Свойого не спинить, під Ним гнуться Рагавові помічники,
+      nkjv: God will not withdraw His anger, The allies of the proud lie prostrate
+        beneath Him.
+      desnitsky: Бог во гневе не остановится, и служители Рахава перед Ним склонятся.
+      mt: ‫    אֱלוֹהַּ לֹא־יָשִׁיב אַפּוֹ *תחתו **תַּחְתָּיו שָׁחֲחוּ עֹזְרֵי רָהַב׃
+        ‬
+      romana: Dumnezeu nu-si infraneaza mania Sa si sub El se incovoaie toti
+        slujitorii mandriei.
+      francais: Dieu ne retire point sa colère; Sous lui s'inclinent les appuis de
+        l'orgueil.
+      italian: "Dio non ritira la sua collera: sotto di lui sono fiaccati i
+        sostenitori di Raab."
+      old_georgian: რამეთუ მან თავადმან გარემიიქციოს რისხვაჲ და მის მიერ დამდაბლდეს
+        ვეშაპნი იგი ცასა ქუეშე.
+      portuguese: Deus não retirará a sua ira; debaixo dele se curvaram os aliados de
+        Raabe;
+      polish: Bóg gniewu hamować nie musi, uległe są Mu służki Rahaba.
+      turkish: "Tanrı öfkesini dizginlemez,\rRahav'ın  yardımcıları bile\rO'nun
+        ayağına kapanır."
+      nrt: Бог не станет удерживать Свой гнев; Помощники Раава перед Ним падут.
+      Macarius: Бог! не обратят вспять гнева Его; согнутся под Ним помощники гордые.
+      serbian: Бог не устеже гњева својега, падају пода њ охоли помоћници.
+      bulgarian: Бог няма да отклони гнева Си; пред Него ще паднат поборниците на
+        гордостта.
+      deutsch: Er ist Gott; seinen Zorn kann niemand stillen; unter ihn mußten sich
+        beugen die Helfer Rahabs.
+      ukr2: Бог не одвертає свого гніву; | під ним лежать помічники Рагава!
+      ukr3: Коли Бог не одверне гнїву свого, впадуть перед ним володарі горді;
+      bel_syomukha: Бог не адверне гневу Свайго; прад Ім упадуць паборцы гардунства.
+      spbda: "Бог не оставит гнева Своего;\r\rпод Ним согнутся помощники Рахаба:"
+      lev-khv: Бог не остановит гнева Своего; под Ним согнутся помощники Рахаба.
+      czech: Buh, ten hnev svuj neodvraci, sami pomocnici Netvora se pred nim musi
+        shrbit.
+      spanish: Dios no reprime su cólera; bajo Él se encorvaron los auxiliares de Rahab.
+      greek-lxx: αὐτὸς γὰρ ἀπέστραπται ὀργήν ὑπ᾿ αὐτοῦ ἐκάμφθησαν κήτη τὰ ὑπ᾿ οὐρανόν
+      st_text: Бог не отвратит гнева Своего; пред Ним падут поборники гордыни.
+  - id: 19934
+    number: 14
+    bookId: 21
+    text: Тем более могу ли я отвечать Ему и приискивать себе слова пред Ним?
+    chapter: 9
+    chapterId: 485
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Аще же мя услышит, или разсудит глаголы моя?
+      averincev: Что я? Мне ли отвечать Ему, для спора с ним подбирать слова?
+      ungerov: Ужели Он услышит меня или разберет слова мои?
+      csya_old: Ѓще же мS ўслы1шитъ, и3ли2 разсyдитъ глаго1лы мо‰;
+      sovr_rbo: Как же я тогда Ему отвечу, какие слова для Него подберу?
+      latin: Quantus ergo sum ego, ut respondeam ei, et loquar verbis meis cum eo?
+      ukr: що ж тоді відповім я Йому? Які я слова підберу проти Нього,
+      nkjv: '"How then can I answer Him, And choose my words to reason with Him?'
+      desnitsky: Как же я тогда Ему отвечу, какие слова для Него подберу?
+      mt: ‫    אַף כִּי־אָנֹכִי אֶעֱנֶנּוּ אֶבְחֲרָה דְבָרַי עִמּוֹ׃ ‬
+      romana: Si eu atunci cum o sa-I raspund si ce cuvinte o sa aleg?
+      francais: Et moi, comment lui répondre? Quelles paroles choisir?
+      italian: Tanto meno io potrei rispondergli, trovare parole da dirgli!
+      old_georgian: უკუეთუ ისმინოს ჩემი უფალმან. ანუ თუ განსაჯნეს სიტყუანი ჩემნი?
+      portuguese: quanto menos lhe poderei eu responder ou escolher as minhas palavras
+        para discutir com ele?
+      polish: Jakże ja zdołam z Nim mówić? Dobiorę wyrazów właściwych?
+      turkish: «Nerde kaldı ki, ben O'na yanıt vereyim, O'nunla tartışmak için söz
+        bulayım?
+      nrt: Как же мне спорить с Ним? Где найти слова, чтобы Ему возразить?
+      Macarius: И я ли могу отвечать Ему, выбирать слова свои в состязании с Ним,
+      serbian: А како бих му ја одговарао и бирао ријечи против њега?
+      bulgarian: Толкоз повече мога ли аз да отговарям Нему и да пробирам думи пред Него?
+      deutsch: Wie sollte ich denn ihm antworten und Worte finden gegen ihn?
+      ukr2: Де вже мені йому відповідати | та проти нього слова підбирати?
+      ukr3: Як же менї відказувати йому та прибірати слова проти його?
+      bel_syomukha: Тым больш ці магу я адказваць Яму і шукаць сабе словаў прад Ім?
+      spbda: "тем более могу ли я отвечать Ему,\r\rвыбирать слова свои в состязании с
+        Ним,"
+      lev-khv: Тем более могу ли я отвечать Ему, прибирать слова свои <i><i>в
+        состязании</i></i> с Ним,
+      czech: Jak bych mu ja tedy mohl odpovidat? Jak bych pred nim volil svoje slova?
+      spanish: ¡Cuánto menos podría yo responderle y rebuscar razones contra Él!
+      greek-lxx: ἐὰν δέ μου ὑπακούσηται ἦ διακρινεῖ τὰ ῥήματά μου
+      st_text: Тем более могу ли я отвечать Ему и приискивать себе слова пред Ним?
+  - id: 19935
+    number: 15
+    bookId: 21
+    text: Хотя бы я и прав был, но не буду отвечать, а буду умолять Судию моего.
+    chapter: 9
+    chapterId: 485
+    parallels:
+      - verseId: 18914
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 10
+        short: Иов:10:7
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Аще бо и праведен буду, не услышит мене, суду его помолюся:"
+      averincev: Пусть правда - моя, но я смолчу, должен умолять Судью моего,
+      ungerov: Если я и прав буду, (и) буду умолять о суде Его, Он не услышит меня.
+      csya_old: "Ѓще бо и3 прaведенъ бyду, не ўслы1шитъ мене2, судY є3гw2 помолю1сz:"
+      sovr_rbo: Пусть я прав, но мне не ответить — могу лишь молить о справедливости.
+      latin: "Qui, etiam si habuero quippiam justum, non respondebo: sed meum judicem
+        deprecabor."
+      ukr: я, який коли б був справедливий, то не відповідав би, я, що благаю свойого
+        Суддю?
+      nkjv: For though I were righteous, I could not answer Him; I would beg mercy of
+        my Judge.
+      desnitsky: Пусть я прав, но мне не ответить – могу лишь молить о справедливости.
+      mt: ‫    אֲשֶׁר אִם־צָדַקְתִּי לֹא אֶעֱנֶה לִמְשֹׁפְטִי אֶתְחַנָּן׃ ‬
+      romana: Chiar daca as avea dreptate, nu-I voi raspunde, ci ma voi ruga
+        judecatorului.
+      francais: Quand je serais juste, je ne répondrais pas; Je ne puis qu'implorer
+        mon juge.
+      italian: Se avessi anche ragione, non risponderei, al mio giudice dovrei
+        domandare pietà.
+      old_georgian: ვიყოღა თუ მართალ, არავე ისმინოს ჩემი, სამართალთა მისთა ვევედრებოდი.
+      portuguese: Embora, eu seja justo, não lhe posso responder; tenho de pedir
+        misericórdia ao meu juiz.
+      polish: Choć słuszność mam, nie odpowiadam i tylko błagam o litość.
+      turkish: "Haklı olsam da O'na yanıt veremez,\rMerhamet etmesi için yargıcıma
+        yalvarırdım ancak."
+      nrt: Пусть я и невиновен, я не смог бы ответить; я бы мог лишь молить судью
+        моего о милости.
+      Macarius: Я, который, хотя бы прав был, не возражал бы, Судью моего умолял бы?
+      serbian: Да сам и прав, нећу му се одговорити, ваља да се молим Судији својему.
+      bulgarian: Дори и прав да бях, няма да отговарям, а ще моля моя Съдия.
+      deutsch: Wenn ich auch recht habe, kann ich ihm dennoch nicht antworten, sondern
+        ich müßte um mein Recht flehen.
+      ukr2: Я хоч би й правий був, не озвався б, | а радше милосердя в судді мого
+        благав би.
+      ukr3: Хоч би я й прав був, озиватись не буду, а вмоляти му суддю мого.
+      bel_syomukha: Хоць бы я і ў праўдзе быў, але ня буду адказваць, а буду ўмольваць
+        Судзьдзю майго.
+      spbda: "я, который, хотя бы прав был, не возражал бы,\r\rсудию моего умолял бы."
+      lev-khv: Я, который, хотя бы прав был, не возражал бы, Судию моего умолял бы?
+      czech: Jemu neumel bych odpovedet, i kdybych byl spravedlivy; sveho Soudce jenom
+        o milost bych prosil.
+      spanish: Aun teniendo razón, no podría responderle, y habría de implorar gracia
+        para mi causa.
+      greek-lxx: ἐάν τε γὰρ ὦ δίκαιος οὐκ εἰσακούσεταί μου τοῦ κρίματος αὐτοῦ δεηθήσομαι
+      st_text: Хотя бы я и прав был, но не буду отвечать, а буду умолять Судию моего.
+  - id: 19936
+    number: 16
+    bookId: 21
+    text: Если бы я воззвал, и Он ответил мне, - я не поверил бы, что голос мой
+      услышал Тот,
+    chapter: 9
+    chapterId: 485
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: аще же воззову, и услышит мя, не иму веры, яко услыша глас мой.
+      averincev: Если б знал я и явился Он, я не верю, что Он бы слушал меня.
+      ungerov: Если же я воззову, и Он услышит меня, то я не поверю, что Он услышал
+        голос мой.
+      csya_old: ѓще же воззовY, и3 ўслы1шитъ мS, не и3мY вёры, ћкw ўслы1ша глaсъ мо1й.
+      sovr_rbo: Даже если Он на зов мой ответит — не верю, что станет меня слушать.
+      latin: Et cum invocantem exaudierit me, non credo quod audierit vocem meam.
+      ukr: Коли б я взивав, а Він мені відповідь дав, не повірю, що вчув би мій голос,
+      nkjv: If I called and He answered me, I would not believe that He was listening
+        to my voice.
+      desnitsky: Даже если Он на зов мой ответит – не верю, что станет меня слушать.
+      mt: ‫    אִם־קָרָאתִי וַיַּעֲנֵנִי לֹא־אַאֲמִין כִּי־יַאֲזִין קוֹלִי׃ ‬
+      romana: Chiar daca m-ar asculta, cand Il chem, tot n-as putea sa cred ca asculta
+        glasul meu,
+      francais: Et quand il m'exaucerait, si je l'invoque, Je ne croirais pas qu'il
+        eût écouté ma voix,
+      italian: Se io lo invocassi e mi rispondesse, non crederei che voglia ascoltare
+        la mia voce.
+      old_georgian: უკუეთუ ვხადოდი და ისმინოს, არავე მრწმენეს, ვითარმედ ისმინა ჩემი.
+      portuguese: Ainda que eu chamasse, e ele me respondesse, não poderia crer que
+        ele estivesse escutando a minha voz.
+      polish: Proszę Go, by się odezwał, a nie mam pewności, że słucha.
+      turkish: O'nu çağırsam, O da bana yanıt verseydi, Yine de inanmazdım sesime
+        kulak verdiğine.
+      nrt: Если бы звал я, и Он ответил, я не поверил бы, что Он слушал бы меня.
+      Macarius: Если бы я воззвал, и Он ответствовал мне; я не поверил бы, что Он
+        услышал голос мой,
+      serbian: Да га зовем и да ми се одзове, још не могу вјеровати да је чуо глас мој.
+      bulgarian: Да бях извикал, и Той ми отговореше, - не щях да повярвам, че е чул
+        гласа ми Оня,
+      deutsch: Wenn ich ihn schon anrufe, und er mir antwortet, so glaube ich doch
+        nicht, daß er meine Stimme höre.
+      ukr2: Коли б я і покликав, і він озвався, | я не повірив би, що він мій голос
+        слухає.
+      ukr3: Як би я покликнув, а він відповів менї, то я не поняв би віри, що мій
+        голос вислухав той,
+      bel_syomukha: Калі б я паклікаў і Ён адказаў мне, - я не паверыў бы, што голас
+        мой пачуў Той,
+      spbda: "Если бы я воззвал, и Он ответствовал мне:\r\rя не поверил бы, что Он
+        услышал голос мой,"
+      lev-khv: Если бы я воззвал, и Он ответствовал мне; я не поверил бы, что Он
+        услышал голос мой,
+      czech: A kdybych i zavolal, aby mi odpovedel, neverim, ze pral by sluchu memu
+        hlasu.
+      spanish: Y aunque le hablara yo y Él me respondiese, no osaría creer que había
+        oído mi voz.
+      greek-lxx: ἐάν τε καλέσω καὶ ὑπακούσῃ οὐ πιστεύω ὅτι εἰσακήκοέν μου
+      st_text: Если бы я воззвал, и Он ответил мне, - я не поверил бы, что голос мой
+        услышал Тот,
+  - id: 19937
+    number: 17
+    bookId: 21
+    text: Кто в вихре разит меня и умножает безвинно мои раны,
+    chapter: 9
+    chapterId: 485
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Да не мглою мя потребит, многа же ми сотрения сотвори всуе,
+      averincev: В вихре налетел Он на меня, без вины умножил раны мои,
+      ungerov: "Да не погубит Он меня во мраке: много ран Он причинил мне безвинно."
+      csya_old: Да не мгло1ю мS потреби1тъ, мнHга же ми2 сотрє1ніz сотвори2 всyе,
+      sovr_rbo: Налетел на меня, словно вихрь, без вины множит мои раны;
+      latin: In turbine enim conteret me, et multiplicabit vulnera mea, etiam sine
+        causa.
+      ukr: Він, що бурею може розтерти мене та помножити рани мої безневинно...
+      nkjv: For He crushes me with a tempest, And multiplies my wounds without cause.
+      desnitsky: Налетел на меня, словно вихрь, без вины множит мои раны;
+      mt: ‫    אֲשֶׁר־בִּשְׂעָרָה יְשׁוּפֵנִי וְהִרְבָּה פְצָעַי חִנָּם׃ ‬
+      romana: Caci El ma sfarama ca sub furtuna si inmulteste fara cuvant ranile mele.
+      francais: Lui qui m'assaille comme par une tempête, Qui multiplie sans raison
+        mes blessures,
+      italian: Egli con una tempesta mi schiaccia, moltiplica le mie piaghe senza
+        ragione,
+      old_georgian: ნუ წყუდიადითა შემმუსროს მე? რამეთუ მრავალი შემუსრვაჲ ყო ჩემ ზედა ცუდად.
+      portuguese: Pois ele me quebranta com uma tempestade, e multiplica as minhas
+        chagas sem causa.
+      polish: On może zniszczyć mnie burzą, bez przyczyny pomnożyć mi rany.
+      turkish: "O beni kasırgayla eziyor,\rNedensiz yaralarımı çoğaltıyor."
+      nrt: Тот, Кто налетает на меня, словно вихрь, умножает мне раны безвинно;
+      Macarius: Он, который в вихре бурном дышет на меня гневом, и умножает раны мои
+        безотчетно;
+      serbian: Јер ме је вихором сатро и задао ми много рана ни за што.
+      bulgarian: Който ме във вихър поразява и безвинно умножава раните ми,
+      deutsch: Denn er fährt über mich mit Ungestüm und macht mir Wunden viel ohne
+        Ursache.
+      ukr2: Він, що торощить мене в хуртовині | і множить без причини мої рани, -
+      ukr3: Що в хуртовинї мене поражає, й без вини мої рани намножує,
+      bel_syomukha: Хто ў віхуры пабівае мяне і памнажае бязьвінна раны мае,
+      spbda: "Он, который может в бурном вихре сокрушить меня,\r\rи Который умножил
+        мои раны безвинно,"
+      lev-khv: Он, Который может в бурном вихре сокрушить меня, и умножил мои раны
+        безвинно,
+      czech: Vzdyt me zachvacuje vichrem, bezduvodne rozmnozuje moje rany,
+      spanish: Él es quien por un cabello me aplasta
+      greek-lxx: μὴ γνόφῳ με ἐκτρίψῃ πολλὰ δέ μου τὰ συντρίμματα πεποίηκεν διὰ κενῆς
+      st_text: Кто в вихре разит меня и умножает безвинно мои раны,
+  - id: 19938
+    number: 18
+    bookId: 21
+    text: не дает мне перевести духа, но пресыщает меня горестями.
+    chapter: 9
+    chapterId: 485
+    parallels:
+      - verseId: 33247
+        bookId: 8
+        bookCode: kniga-ruf
+        chapter: 1
+        short: Руф:1:20
+      - verseId: 28732
+        bookId: 30
+        bookCode: plac-ieremii
+        chapter: 3
+        short: Плач:3:15
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: не оставляет бо мя отдохнути, исполни же мя горести.
+      averincev: не дает мне перевести дух, но горечью пресыщает меня!
+      ungerov: Он не дает мне отдыха, пресытил меня горестью.
+      csya_old: не њставлsетъ бо мS tдохнyти, и3спо1лни же мS го1рести.
+      sovr_rbo: не дает перевести дух, горечью переполняет меня.
+      latin: Non concedit requiescere spiritum meum, et implet me amaritudinibus.
+      ukr: Не дає Він мені й звести духа мого, бо мене насичає гіркотою.
+      nkjv: He will not allow me to catch my breath, But fills me with bitterness.
+      desnitsky: не дает перевести дух, горечью переполняет меня.
+      mt: ‫    לֹא־יִתְּנֵנִי הָשֵׁב רוּחִי כִּי יַשְׂבִּעַנִי מַמְּרֹרִים׃ ‬
+      romana: El nu-mi da ragaz sa rasuflu si ma adapa cu amaraciune.
+      francais: Qui ne me laisse pas respirer, Qui me rassasie d'amertume.
+      italian: non mi lascia riprendere il fiato, anzi mi sazia di amarezze.
+      old_georgian: არა მიტევებს მე სულისა აღმოტევებად, რამეთუ აღმავსო მე სიმწარითა,
+      portuguese: Não me permite respirar, antes me farta de amarguras.
+      polish: Nawet odetchnąć mi nie da, tak mnie napełni goryczą.
+      turkish: "Soluk almama izin vermiyor,\rAncak beni acıya doyuruyor."
+      nrt: не дает мне дух перевести и насыщает меня бедой.
+      Macarius: Не дает мне дохнуть свободно, ибо пресыщает меня горестями.
+      serbian: Не да ми да одахнем, него ме сити грчинама.
+      bulgarian: не ми дава да си отдъхна, а ме изпълня с горчивини.
+      deutsch: Er läßt meinen Geist sich nicht erquicken, sondern macht mich voll
+        Betrübnis.
+      ukr2: він не дає мені й відідхнути | так насичує мене гіркотою.
+      ukr3: Та не дає менї спокійно й відотхнути, а без міри годує мене горем.
+      bel_syomukha: не дае мне перавесьці дух, а перапаўняе мяне гаротамі.
+      spbda: "не дает мне перевести духа,\r\rно пресыщает меня горестями."
+      lev-khv: Не дает мне перевести дух, но пресыщает меня горестями.
+      czech: ani oddechnout mi neda a jen horkostmi me syti.
+      spanish: y multiplica sin motivo mis heridas; que ni respirar me deja y me harta
+        de amarguras.
+      greek-lxx: οὐκ ἐᾷ γάρ με ἀναπνεῦσαι ἐνέπλησεν δέ με πικρίας
+      st_text: не дает мне перевести духа, но пресыщает меня горестями.
+  - id: 19939
+    number: 19
+    bookId: 21
+    text: Если <i>действовать</i> силою, то Он могуществен; если судом, кто сведет
+      меня с Ним?
+    chapter: 9
+    chapterId: 485
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Понеже силен есть крепостию: кто убо суду его воспротивится?"
+      averincev: Если дело в силе - могущ Он; а если дело в правде - кто рассудит меня?
+      ungerov: Так как Он владеет могуществом, то кто будет противостоять суду Его?
+      csya_old: "Поне1же си1ленъ є4сть крёпостію: кто2 ў2бо судY є3гw2 воспроти1витсz;"
+      sovr_rbo: Как мне меряться силой с Ним, могучим? Судиться ли — но как Его на суд
+        вызвать?
+      latin: Si fortitudo quaeritur, robustissimus est; si aequitas judicii, nemo
+        audet pro me testimonium dicere.
+      ukr: Коли ходить про силу, то Він Всемогутній, коли ж ходить про суд, хто
+        посвідчить мені?
+      nkjv: If it is a matter of strength, indeed He is strong; And if of justice, who
+        will appoint my day in court?
+      desnitsky: Меряться ли силой с Ним, могучим? Судиться ли – но как Его на суд
+        вызвать?
+      mt: ‫    אִם־לְכֹחַ אַמִּיץ הִנֵּה וְאִם־לְמִשְׁפָּט מִי יוֹעִידֵנִי׃ ‬
+      romana: Daca este vorba de putere, El este Cel puternic. Daca este vorba de
+        judecata, cine ma va apara?
+      francais: Recourir à la force? Il est Tout Puissant. A la justice? Qui me fera
+        comparaître?
+      italian: Se si tratta di forza, è lui che dà il vigore; se di giustizia, chi
+        potrà citarlo?
+      old_georgian: და რამეთუ ძალითა ძლიერ არს, ვინმე უკუე განკითხვათა მისთა წინააღუდგეს?
+      portuguese: "Se fosse uma prova de força, eis-me aqui, diria ele; e se fosse
+        questão de juízo, quem o citaria para\rcomparecer?"
+      polish: O siłę chodzi? To mocarz. O sąd? Kto da mi świadectwo?
+      turkish: "Sorun güç sorunuysa, O güçlüdür!\rAdalet sorunuysa, kim O'nu mahkemeye
+        çağırabilir?"
+      nrt: Если в силе дело, то Он могуч! А если в правосудии, то кто приведет Его на
+        суд?
+      Macarius: "Если действовать силою сильного — Он скажет: «вот Я!» если и судом —
+        Он скажет: «кто назначит Мне судный день?»"
+      serbian: Ако је на силу, гле, он је најсилнији; ако на суд, ко ће ми свједочити?
+      bulgarian: Ако е дума за сила, Той е могъщ; ако ли пък - за съд, кой ще ме
+        изправи пред Него?
+      deutsch: Will man Macht, so ist er zu mächtig; will man Recht, wer will mein
+        Zeuge sein?
+      ukr2: Коли йдеться про силу, він могутній! | Коли про суд, хто сміє його
+        позивати?
+      ukr3: Коли питати про силу, то він один могучий; коли же про суд, та хто зведе
+        мене з ним?
+      bel_syomukha: Калі дзеяць сілаю, дык Ён магутны; калі судом, хто зьвядзе мяне зь Ім?
+      spbda: "Если действовать силою, то Он могуществен!\r\rесли судом, кто будет
+        свидетельствовать за меня?"
+      lev-khv: Если <i><i>действовать</i></i> силою, то Он могуществен; если судом,
+        кто призовет меня к суду?
+      czech: Ma- li kdo nesmirnou silu, ma ji on, a co se tyce soudu, kdopak jiny me
+        predvola?
+      spanish: Si quisiera acudir a la fuerza, el robusto es Él; si al juicio, ¿quién
+        podrá emplazarle?
+      greek-lxx: ὅτι μὲν γὰρ ἰσχύι κρατεῖ τίς οὖν κρίματι αὐτοῦ ἀντιστήσεται
+      st_text: Если <i>действовать</i> силою, то Он могуществен; если судом, кто
+        сведет меня с Ним?
+  - id: 19940
+    number: 20
+    bookId: 21
+    text: Если я буду оправдываться, то мои же уста обвинят меня; <i>если</i> я
+      невинен, то Он признает меня виновным.
+    chapter: 9
+    chapterId: 485
+    parallels:
+      - verseId: 34756
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 7
+        short: Сир:7:5
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Аще бо буду праведен, уста моя нечестия сотворят: аще же буду непорочен,
+        стропотен буду."
+      averincev: Пусть прав я - осудят Его уста, пусть прост - но Он отыщет вину?
+      ungerov: Если я буду прав, то уста мои явят нечестие, и если буду непорочен, то
+        окажусь строптивым.
+      csya_old: "Ѓще бо бyду прaведенъ, ўстA мо‰ нечє1стіz сотворsтъ: ѓще же бyду
+        непоро1ченъ, стро1потенъ бyду."
+      sovr_rbo: Пусть я прав — обвинит меня собственный язык, пусть непорочен — Он
+        извратит мое дело.
+      latin: Si justificare me voluero, os meum condemnabit me; si innocentem
+        ostendero, pravum me comprobabit.
+      ukr: Якщо б справедливим я був, то осудять мене мої уста, якщо я безневинний, то
+        вчинять мене винуватим...
+      nkjv: Though I were righteous, my own mouth would condemn me; Though I were
+        blameless, it would prove me perverse.
+      desnitsky: Пусть я прав – обвинит меня собственный язык, пусть непорочен – Он
+        извратит мое дело.
+      mt: ‫    אִם־אֶצְדָּק פִּי יַרְשִׁיעֵנִי תָּם־אָנִי וַיַּעְקְשֵׁנִי׃ ‬
+      romana: Oricata dreptate as avea, gura mea ma va osandi si daca sunt fara
+        prihana ea ma scoate vinovat.
+      francais: Suis-je juste, ma bouche me condamnera; Suis-je innocent, il me
+        déclarera coupable.
+      italian: Se avessi ragione, il mio parlare mi condannerebbe; se fossi innocente,
+        egli proverebbe che io sono reo.
+      old_georgian: დაღათუ ვარ მართალ, პირი ჩემი უსჯულოვე არს, დაღათუ უბიწო ვარ,
+        ეგრეთცა დრკუდვე გამოვჩნდე?
+      portuguese: "Ainda que eu fosse justo, a minha própria boca me condenaria; ainda
+        que eu fosse perfeito, então ela me\rdeclararia perverso:"
+      polish: On i prawym zamknie usta, mam słuszność, a winnym mnie uzna.
+      turkish: "Suçsuz olsam ağzım beni suçlar,\rKusursuz olsam beni suçlu çıkarır."
+      nrt: Пусть я невиновен – мои уста осудят меня; если даже я безупречен, они
+        вынесут мне приговор.
+      Macarius: "Если бы я и прав был, то мои же уста осудили бы меня: если бы я и
+        непорочен был, то Он превратил бы меня."
+      serbian: Да се правдам, моја ће ме уста осудити; да сам добар, показаће да сам
+        неваљао.
+      bulgarian: Ако взема да се оправдавам, самите ми уста ще ме обвинят; ако съм
+        невинен, Той ще ме признае за виновен.
+      deutsch: Sage ich, daß ich gerecht bin, so verdammt er mich doch; bin ich
+        Unschuldig, so macht er mich doch zu Unrecht.
+      ukr2: Якщо виправдуватисьму, мої уста мене осудять, як об'явлю себе невинним,
+        мене обвинуватять.
+      ukr3: Буду я оправдуватись, то самі мої уста обвинуватять мене; як я безвинний,
+        то він вину в менї знайде.
+      bel_syomukha: Калі я буду апраўдвацца, дык мае ж вусны зьвінавацяць мяне; калі я
+        невінаваты, дык Ён прызнае мяне вінаватым.
+      spbda: "Если бы я и прав был, то мои-же уста осудили бы меня;\r\rесли бы и
+        непорочен я был, то Он признал бы виновным меня."
+      lev-khv: Еслибы я и прав был, то мои же уста осудили бы меня; <i><i>если
+        бы</i></i> и непорочен я был, то Он признал бы виновным меня;
+      czech: I kdybych byl spravedlivy, za svevolnika me prohlasi ma usta, a kdybych
+        byl bezuhonny, prohlasi me za kriveho.
+      spanish: Si soy justo, mi boca me condena; si me creo inocente, me declara
+        perverso.
+      greek-lxx: ἐὰν γὰρ ὦ δίκαιος τὸ στόμα μου ἀσεβήσει ἐάν τε ὦ ἄμεμπτος σκολιὸς
+        ἀποβήσομαι
+      st_text: Если я буду оправдываться, то мои же уста обвинят меня; <i>если</i> я
+        невинен, то Он признает меня виновным.
+  - id: 19941
+    number: 21
+    bookId: 21
+    text: Невинен я; не хочу знать души моей, презираю жизнь мою.
+    chapter: 9
+    chapterId: 485
+    parallels:
+      - verseId: 1592
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 4
+        short: 1 Кор:4:4
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Аще бо нечестие сотворих, не вем душею моею: обаче отъемлется ми живот."
+      averincev: Правда моя! Мне все равно, не нужна мне моя жизнь!
+      ungerov: Был ли я нечестив, (сего) не знаю душею моею, только (знаю, что)
+        отнимается у меня жизнь.
+      csya_old: "Ѓще бо нече1стіе сотвори1хъ, не вёмъ душе1ю мое1ю: nбaче tе1млетсz
+        ми2 живо1тъ."
+      sovr_rbo: Непорочен я! Но что мне до того, если жизнь опротивела?
+      latin: Etiam si simplex fuero, hoc ipsum ignorabit anima mea, et taedebit me
+        vitae meae.
+      ukr: Я невинний, проте своєї душі я не знаю, і не радий життям своїм я...
+      nkjv: '"I am blameless, yet I do not know myself; I despise my life.'
+      desnitsky: Непорочен я! Но что мне до того, если жизнь опротивела?
+      mt: ‫    תָּם־אָנִי לֹא־אֵדַע נַפְשִׁי אֶמְאַס חַיָּי׃ ‬
+      romana: Sunt oare desavarsit? Eu singur nu ma cunosc pe mine si viata mea o
+        dispretuiesc.
+      francais: Innocent! Je le suis; mais je ne tiens pas à la vie, Je méprise mon
+        existence.
+      italian: Sono innocente? Non lo so neppure io, detesto la mia vita!
+      old_georgian: უღმრთო თუ რაჲ ვქმენ, არა ვიცი სულითა ჩემითა, გარნა რამეთუ მიღებულ
+        არს ცხორებაჲ ჩემი.
+      portuguese: Eu sou inocente; não estimo a mim mesmo; desprezo a minha vida.
+      polish: Czym czysty? Nie znam sam siebie, potępiam swe własne życie.
+      turkish: «Kusursuz olsam da kendime aldırdığım yok, Yaşamımı hor görüyorum.
+      nrt: Я безвинен, но мне уже все равно; я презираю свою жизнь.
+      Macarius: Непорочен я!.. не хочу знать души моей, гнушаюсь моею жизнью.
+      serbian: Ако сам добар, нећу знати за то; омрзао ми је живот мој.
+      bulgarian: Невинен съм; не ща да зная за душата си, презирам живота си.
+      deutsch: Ich bin unschuldig! ich frage nicht nach meiner Seele, begehre keines
+        Lebens mehr.
+      ukr2: Невинний я? Я й сам не знаю! | Життя моє мені нінащо.
+      ukr3: Так! я не винен; байдуже менї жити; нїзащо менї життє.
+      bel_syomukha: Невінаваты я; не хачу ведаць душы маёй, пагарджаю жыцьцём маім.
+      spbda: "Непорочен я!... не буду щадить себя,\r\rгнушаюсь жизнию моею."
+      lev-khv: Непорочен я; не буду щадить себя, гнушаюсь жизнию моею.
+      czech: Jsem bezuhonny. Nic na sebe nevim. Protivi se mi uz zivot.
+      spanish: Si me declaro inocente, es que no me conozco. Yo desprecio mi vida.
+      greek-lxx: εἴτε γὰρ ἠσέβησα οὐκ οἶδα τῇ ψυχῇ πλὴν ὅτι ἀφαιρεῖταί μου ἡ ζωή
+      st_text: Невинен я; не хочу знать души моей, презираю жизнь мою.
+  - id: 19942
+    number: 22
+    bookId: 21
+    text: Все одно; поэтому я сказал, что Он губит и непорочного и виновного.
+    chapter: 9
+    chapterId: 485
+    parallels:
+      - verseId: 19552
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 34
+        short: Иов:34:9
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Темже рех: велика и сильна губит гнев."
+      averincev: "Да, все едино, говорю я: простец иль злодей - обоим казнь!"
+      ungerov: "Посему я сказал: великаго и сильнаго губит гнев:"
+      csya_old: "Тёмже рёхъ: вели1ка и3 си1льна губи1тъ гнёвъ."
+      sovr_rbo: "Все едино! Вот что скажу: и непорочных Он губит, и злодеев."
+      latin: "Unum est quod locutus sum: et innocentem et impium ipse consumit."
+      ukr: "Це одне, а тому я кажу: невинного як і лукавого Він вигубляє..."
+      nkjv: "It is all one thing; Therefore I say, 'He destroys the blameless and the
+        wicked.' "
+      desnitsky: "Все едино! Вот что скажу: и непорочных Он губит, и злодеев."
+      mt: ‫    אַחַת הִיא עַל־כֵּן אָמַרְתִּי תָּם וְרָשָׁע הוּא מְכַלֶּה׃ ‬
+      romana: "Pentru aceea am zis: Tot una este! El nimiceste pe cel desavarsit si pe
+        cel viclean."
+      francais: Qu'importe après tout? Car, j'ose le dire, Il détruit l'innocent comme
+        le coupable.
+      italian: "Per questo io dico: \"È la stessa cosa\": egli fa perire l'innocente e
+        il reo!"
+      old_georgian: "ამისთჳს ვთქუ: დიდი და ძლიერი წარწყმიდის რისხვამან."
+      portuguese: "Tudo é o mesmo, portanto digo: Ele destrói o reto e o ímpio."
+      polish: Na jedno więc, rzekłem, wychodzi, prawego ze złym razem zniszczy.
+      turkish: Hepsi bir, bu yüzden diyorum ki, `O suçluyu da suçsuzu da yok ediyor.'
+      nrt: "Да, все одно, поэтому и говорю: «Он губит и безвинного и нечестивого»."
+      Macarius: "Все одно; потому говорю: «непорочного и виновного Он разрушает»."
+      serbian: "Свеједно је; зато рекох: И доброга и безбожнога он потире."
+      bulgarian: Все едно; затова казах, че Той погубва и непорочния, и виновния.
+      deutsch: "Es ist eins, darum sage ich: Er bringt um beide, den Frommen und den
+        Gottlosen."
+      ukr2: "Тому й кажу: Усе одно | безвинного й грішника він губить."
+      ukr3: Все одно; тим то й сказав я, що він (як схоче) губить безвинного й
+        беззаконного.
+      bel_syomukha: Усё адно; таму я сказаў, што Ён губіць і беззаганнага і вінаватага.
+      spbda: "Поэтому, говорю я, все одно:\r\rнепорочнаго и виновнаго Он губит."
+      lev-khv: "Поэтому, говорю я, все одно: непорочнаго и виновнаго Он губит."
+      czech: "Je to jedno, proto rikam: On skoncuje s bezuhonnym jako se svevolnikem."
+      spanish: "¡Todo es uno! Por eso digo: << ¡Consume al íntegro y al culpable!>>"
+      greek-lxx: διὸ εἶπον μέγαν καὶ δυνάστην ἀπολλύει ὀργή
+      st_text: Все одно; поэтому я сказал, что Он губит и непорочного и виновного.
+  - id: 19943
+    number: 23
+    bookId: 21
+    text: Если этого поражает Он бичом вдруг, то пытке невинных посмевается.
+    chapter: 9
+    chapterId: 485
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Яко лукавии смертию лютою погибнут, обаче праведным посмеваются.
+      averincev: Когда убивает Его бич, ужасу невинных смеется Он.
+      ungerov: Ибо лукавые лютою смертью погибнут, но и над праведными они посмеваются.
+      csya_old: Ћкw лукaвіи сме1ртію лю1тою поги1бнутъ, nбaче прaвєднымъ посмэвaютсz.
+      sovr_rbo: Внезапная беда сеет смерть, а Он смеется над отчаяньем невинных;
+      latin: Si flagellat, occidat semel, et non de poenis innocentum rideat.
+      ukr: Якщо нагло бич смерть заподіює, Він з проби невинних сміється...
+      nkjv: If the scourge slays suddenly, He laughs at the plight of the innocent.
+      desnitsky: Внезапная беда сеет смерть, а Он смеется над отчаяньем невинных;
+      mt: ‫    אִם־שׁוֹט יָמִית פִּתְאֹם לְמַסַּת נְקִיִּם יִלְעָג׃ ‬
+      romana: Daca o nenorocire aduce moartea deodata, ce-I pasa Lui de deznadejdea
+        celor fara de vina?
+      francais: Si du moins le fléau donnait soudain la mort!... Mais il se rit des
+        épreuves de l'innocent.
+      italian: Se un flagello uccide all'improvviso, della sciagura degli innocenti
+        egli ride.
+      old_georgian: რამეთუ უკეთურნი იგი სიკუდილითა განსაკჳრვებელითა მოისრნენ, რამეთუ
+        მართალნი საცინელ იქმნეს.
+      portuguese: Quando o açoite mata de repente, ele zomba da calamidade dos inocentes.
+      polish: Gdy nagła powódź zabija, drwi z cierpień niewinnego;
+      turkish: "Kırbaç ansızın ölüm saçınca,\rO suçsuzların sıkıntısıyla eğlenir."
+      nrt: Когда внезапно разит беда, Он смеется отчаянию невинных.
+      Macarius: О, если бы вдруг убивал бич! При расплавке невинных Он осклабляется.
+      serbian: Кад би још убио бич наједанпут! Али се смије искушавању правијех.
+      bulgarian: Ако тогова Той поразява с бич изведнъж, то над изпитните над
+        невинните се подсмива.
+      deutsch: Wenn er anhebt zu geißeln, so dringt er alsbald zum Tod und spottet der
+        Anfechtung der Unschuldigen.
+      ukr2: А коли бич зненацька убиває, | з невинного розпуки він сміється.
+      ukr3: Як того вбиває одразу бичем, то з муки невинних сміється.
+      bel_syomukha: Калі гэтага пабівае Ён бічом раптам, дык з пыткі нявінных сьмяецца.
+      spbda: "Когда вдруг поражает бичь,\r\rОн при испытании невинных посмевается."
+      lev-khv: Когда вдруг поражает бич, Он при пытке невинных смеется.
+      czech: A kdyz bicem nahle usmrcuje, ze zoufalstvi nevinnych si cini posmech.
+      spanish: Cuando de repente una plaga trae la muerte, Él se ríe de la
+        desesperación de los inocentes.
+      greek-lxx: ὅτι φαῦλοι ἐν θανάτῳ ἐξαισίῳ ἀλλὰ δίκαιοι καταγελῶνται
+      st_text: Если этого поражает Он бичом вдруг, то пытке невинных посмевается.
+  - id: 19944
+    number: 24
+    bookId: 21
+    text: Земля отдана в руки нечестивых; лица судей ее Он закрывает. Если не Он, то
+      кто же?
+    chapter: 9
+    chapterId: 485
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Предана есть земля в руце нечестиваго, лица судий ея покрывает: аще же не
+        сам есть, кто есть?"
+      averincev: Предал Он землю во власть злых, завесил лица судей земли; а если не
+        Он, кто еще?
+      ungerov: Предана земля в руки нечестиваго, лица судей ея Он закрывает; если не
+        Он Сам, то кто-же?
+      csya_old: "Пре1дана є4сть землS въ рyцэ нечести1вагw, ли1ца судjй є3S
+        покрывaетъ: ѓще же не сaмъ є4сть, кто2 є4сть;"
+      sovr_rbo: отдана земля во власть нечестивцев, а Он закрывает глаза судьям — и
+        если не Он, то кто же?!
+      latin: Terra data est in manus impii, vultum judicum ejus operit. Quod si non
+        ille est, quis ergo est?
+      ukr: У руку безбожного дана земля, та Він лиця суддів її закриває... Як не Він,
+        тоді хто?
+      nkjv: The earth is given into the hand of the wicked. He covers the faces of its
+        judges. If it is not He, who else could it be?
+      desnitsky: отдана земля во власть нечестивцев, а Он закрывает глаза судьям – и
+        если не Он, то кто же?!
+      mt: ‫    אֶרֶץ נִתְּנָה בְיַד־רָשָׁע פְּנֵי־שֹׁפְטֶיהָ יְכַסֶּה אִם־לֹא אֵפוֹא
+        מִי־הוּא׃ ‬
+      romana: Daca o tara a incaput pe mana unui om viclean, El acopera fata
+        judecatorilor Sai. Si daca nu El, cine atunci?
+      francais: La terre est livrée aux mains de l'impie; Il voile la face des juges.
+        Si ce n'est pas lui, qui est-ce donc?
+      italian: "La terra è lasciata in balìa del malfattore: egli vela il volto dei
+        suoi giudici; se non lui, chi dunque sarà?"
+      old_georgian: მიცემულ არიან იგინი ჴელთა უღმრთოთასა, პირი მსაჯულთა მისთაჲ
+        დაფაროს, უკუეთუ არა, იგივე თავადი არს?
+      portuguese: A terra está entregue nas mãos do ímpio. Ele cobre o rosto dos
+        juízes; se não é ele, quem é, logo?
+      polish: "ziemię dał w ręce grzeszników, sędziom zakrywa oblicza. Jeśli nie On -
+        to kto\rwłaściwie?"
+      turkish: Dünya kötülerin eline verilmiş, Yargıçların gözünü kapayan O'dur. O
+        değilse, kimdir?
+      nrt: Когда страна в руках у нечестивых, Он ослепляет ее судей. Если не Он, то
+        кто же?
+      Macarius: Земля отдается в руки нечестивого; Он закрывает лице судей ее; если не
+        Он, то кто же?
+      serbian: Земља се даје у руке безбожнику; лице судија њезинијех заклања; ако не
+        он, да ко?
+      bulgarian: Земята е отдадена в ръце на нечестивци; лицата на нейните съдии Той
+        покрива. Ако това не е Той, то кой е?
+      deutsch: Das Land aber wird gegeben unter die Hand der Gottlosen, und der
+        Richter Antlitz verhüllt er. Ist's nicht also, wer anders sollte es tun?
+      ukr2: Коли якусь країну віддано в руки лиходія, | обличчя її правителів він
+        закриває. | Як же не він - хто інший?
+      ukr3: Земля оддана в руки безбожникам; він слїпить очі суддям її. А коли не він,
+        то хто ж инший?
+      bel_syomukha: Зямля аддадзена ў рукі бязбожных; твары судзьдзяў яе Ён засланяе.
+        Калі не Ён, тады хто ж?
+      spbda: "Земля отдана в руки нечестиваго;\r\rлице судей ея Он закрывает;\r\rесли
+        не Он, то кто же?"
+      lev-khv: Земля отдана в руку нечестиваго; лице судей ея Он закрывает; если не
+        Он, то кто же?
+      czech: Zeme byla vydana v moc svevolnika a on prikryva tvar jejich soudcu; kdyz
+        ne on, kdo tedy?
+      spanish: "La tierra es entregada a las manos de los impíos, y vela el rostro de
+        sus jueces. \rSi no es Él, ¿quién va a ser?"
+      greek-lxx: παραδέδονται γὰρ εἰς χεῖρας ἀσεβοῦς πρόσωπα κριτῶν αὐτῆς συγκαλύπτει
+        εἰ δὲ μὴ αὐτός τίς ἐστιν
+      st_text: Земля отдана в руки нечестивых; лица судей ее Он закрывает. Если не Он,
+        то кто же?
+  - id: 19945
+    number: 25
+    bookId: 21
+    text: Дни мои быстрее гонца, - бегут, не видят добра,
+    chapter: 9
+    chapterId: 485
+    parallels:
+      - verseId: 19884
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 7
+        short: Иов:7:7
+      - verseId: 32626
+        bookId: 22
+        bookCode: psaltir
+        chapter: 89
+        short: Пс:89:10
+      - verseId: 1671
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 7
+        short: 1 Кор:7:29
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Житие же мое есть легчае скоротечца: отбегоша и не видеша."
+      averincev: Быстрей гонцов бегут мои дни, доброго не видя, уходят прочь,
+      ungerov: "Жизнь моя (проходит) быстрее скорохода: прошли и не видят."
+      csya_old: "Житіе1 же мое2 є4сть легчaе скороте1чца: tбэго1ша и3 не ви1дэша."
+      sovr_rbo: Мчатся дни мои быстрей гонца, бегут, но добра не видно;
+      latin: Dies mei velociores fuerunt cursore; fugerunt, et non viderunt bonum.
+      ukr: А дні мої стали швидкіші, як той скороход, повтікали, не бачили доброго,
+      nkjv: '"Now my days are swifter than a runner; They flee away, they see no
+        good.'
+      desnitsky: Мчатся дни мои быстрей гонца, бегут, но добра не видно;
+      mt: ‫    וְיָמַי קַלּוּ מִנִּי־רָץ בָּרְחוּ לֹא־רָאוּ טוֹבָה׃ ‬
+      romana: Zilele mele sunt mai grabnice decat un aducator de vesti si au fugit
+        fara sa vada fericirea.
+      francais: Mes jours sont plus rapides qu'un courrier; Ils fuient sans avoir vu
+        le bonheur;
+      italian: I miei giorni passano più veloci d'un corriere, fuggono senza godere
+        alcun bene,
+      old_georgian: ხოლო ცხორებაჲ ჩემი უმალეს არს მსრბოლისა, წარივლტოდეს და არა იხილეს.
+      portuguese: Ora, os meus dias são mais velozes do que um correio; fogem, e não
+        vêem o bem.
+      polish: Szybsze me dni niźli biegacz, uciekają, nie zaznawszy szczęścia,
+      turkish: "«Günlerim koşucudan çabuk,\rİyilik görmeden geçmekte."
+      nrt: Бегут мои дни быстрее гонца; они улетают, не видя блага;
+      Macarius: А дни мои легче гонца; бегут, не видят добра;
+      serbian: Али дани моји бише бржи од гласника; побјегоше, не видјеше добра.
+      bulgarian: Дните ми са по-бързи от бързоходец, - бягат, не виждат добро,
+      deutsch: Meine Tage sind schneller gewesen denn ein Läufer; sie sind geflohen
+        und haben nichts Gutes erlebt.
+      ukr2: І мчать мої дні від гінця швидше, | біжать, щастя не бачать.
+      ukr3: Днї мої хутші од гонця, - мчаться, не бачивши долї;
+      bel_syomukha: Дні мае хутчэйшыя за ганца, - бягуць, ня бачаць дабра,
+      spbda: "Дни мои легче гонца, —\r\rубежали, не видели добра;"
+      lev-khv: Дни мои легче гонца, убежали, не видели добра;
+      czech: Me dny byly rychlejsi nez spesny posel, uprchly a neuzily dobra,
+      spanish: Mis días pasaron más veloces que un correo, huyeron sin ver la felicidad.
+      greek-lxx: ὁ δὲ βίος μού ἐστιν ἐλαφρότερος δρομέως ἀπέδρασαν καὶ οὐκ εἴδοσαν
+      st_text: Дни мои быстрее гонца, - бегут, не видят добра,
+  - id: 19946
+    number: 26
+    bookId: 21
+    text: несутся, как легкие ладьи, как орел стремится на добычу.
+    chapter: 9
+    chapterId: 485
+    parallels:
+      - verseId: 29228
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 5
+        short: Прем:5:10
+      - verseId: 29229
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 5
+        short: Прем:5:11
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Или есть кораблем след пути, или орла летяща, ищуща яди?
+      averincev: несутся, как легкие ладьи, как орел, что летит на добычу свою!
+      ungerov: Или есть след пути у кораблей, или у орла, летящаго, ищущаго добычи?
+      csya_old: И#ли2 є4сть кораблє1мъ слёдъ пути2, и3ли2 nрлA летsща, и4щуща ћди;
+      sovr_rbo: они скользят, как папирусные лодки, и падают, как коршун на добычу.
+      latin: Pertransierunt quasi naves poma portantes, sicut aquila volans ad escam.
+      ukr: проминули, немов ті човни очеретяні, мов орел, що несеться на здобич...
+      nkjv: They pass by like swift ships, Like an eagle swooping on its prey.
+      desnitsky: они скользят, как папирусные лодки и падают, как коршун на добычу.
+      mt: ‫    חָלְפוּ עִם־אֳנִיּוֹת אֵבֶה כְּנֶשֶׁר יָטוּשׂ עֲלֵי־אֹכֶל׃ ‬
+      romana: S-au strecurat ca niste barci de papura, ca un vultur care se napusteste
+        asupra prazii sale.
+      francais: Ils passent comme les navires de jonc, Comme l'aigle qui fond sur sa
+        proie.
+      italian: volano come barche di giunchi, come aquila che piomba sulla preda.
+      old_georgian: ანუ არს ნავისა კუალი გზისაჲ, ანუ თუ ორბისა მფრინვალისაჲ, რომელი
+        ეძიებნ საჭმელსა?
+      portuguese: Eles passam como balsas de junco, como águia que se lança sobre a presa.
+      polish: mkną jak łodzie z sitowia, gonią jak orzeł ofiarę.
+      turkish: Kamış sandal gibi kayıp gidiyor, Avının üstüne süzülen kartal gibi.
+      nrt: ускользают прочь, как быстрые папирусные лодки, как орлы, что падают на
+        добычу.
+      Macarius: Несутся, как корабли желания, как орел летит на снедь.
+      serbian: Прођоше као брзе лађе, као орао кад лети на храну.
+      bulgarian: летят като леки ладии, като орел, който се спуща върху плячка.
+      deutsch: Sie sind dahingefahren wie die Rohrschiffe, wie ein Adler fliegt zur
+        Speise.
+      ukr2: Линуть, мов чайки з очерету, | неначе яструб, що падає на здобич.
+      ukr3: Мчаться, мов човни легкі, мов орел, що кидаєсь на здобич.
+      bel_syomukha: імчацца, як лёгкія лодкі, як арол імкне на здабычу.
+      spbda: "несутся, как ладьи камышевыя,\r\rкак орел, летящий на корм."
+      lev-khv: Несутся, как ладьи камышевыя, как орел, летящий на корм.
+      czech: proletly jak rakosove cluny, jako orel na korist se vrhajici.
+      spanish: Se han deslizado como lancha de papiro, como águila que se lanza sobre
+        la presa.
+      greek-lxx: ἦ καὶ ἔστιν ναυσὶν ἴχνος ὁδοῦ ἢ ἀετοῦ πετομένου ζητοῦντος βοράν
+      st_text: несутся, как легкие ладьи, как орел стремится на добычу.
+  - id: 19947
+    number: 27
+    bookId: 21
+    text: "Если сказать мне: забуду я жалобы мои, отложу мрачный вид свой и
+      ободрюсь;"
+    chapter: 9
+    chapterId: 485
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Аще бо реку: забуду глаголя, приникнув лицем воздохну,"
+      averincev: 'Сказать ли: "Забуду мою печаль, изменю лицо и буду бодр"?'
+      ungerov: 'Если я скажу так: "забуду", то поникнув лицом буду вздыхать.'
+      csya_old: "Ѓще бо рекY: забyду глаго1лz, прини1кнувъ лице1мъ воздохнY,"
+      sovr_rbo: Хотел бы я забыть о печали, чтоб лицо озарилось улыбкой,
+      latin: "Cum dixero: Nequaquam ita loquar, commuto faciem meam, et dolore
+        torqueor."
+      ukr: "Якщо я скажу: Хай забуду своє нарікання, хай зміню я обличчя своє й
+        підбадьорюся,"
+      nkjv: "If I say, 'I will forget my complaint, I will put off my sad face and
+        wear a smile,' "
+      desnitsky: Хотел бы я забыть о печали, чтоб лицо озарилось улыбкой,
+      mt: ‫    אִם־אָמְרִי אֶשְׁכְּחָה שִׂיחִי אֶעֶזְבָה פָנַי וְאַבְלִיגָה׃ ‬
+      romana: "Daca zic: Vreau sa-mi uit suferinta, sa-mi schimb infatisarea si sa fiu
+        voios,"
+      francais: "Si je dis: Je veux oublier mes souffrances, Laisser ma tristesse,
+        reprendre courage,"
+      italian: 'Se dico: "Voglio dimenticare il mio gemito, cambiare il mio volto ed
+        essere lieto",'
+      old_georgian: დაღათუ ვიტყოდე, და-ვე-მავიწყდის სიტყუად, დავიკიდო პირი ჩემი და
+        სულთვითქუნე.
+      portuguese: "Se eu disser: Eu me esquecerei da minha queixa, mudarei o meu
+        aspecto, e tomarei alento;"
+      polish: "Gdy powiem: Zapomnę o męce, odmienię, rozjaśnię oblicze -"
+      turkish: "`Acılarımı unutayım,\rÜzgün çehremi değiştirip gülümseyeyim' desem,"
+      nrt: "И даже если скажу: «Я позабуду жалобы, изменю свой мрачный вид и
+        улыбнусь», –"
+      Macarius: "Если сказать мне: «забуду жалобу мою, отложу мрачный свой вид, и буду
+        весел;»"
+      serbian: "Ако речем: Заборавићу тужњаву своју, оставићу гњев свој и окријепићу
+        се;"
+      bulgarian: 'Ако си кажа: "ще забравя тъгите си, ще отмахна мрачния си вид и ще
+        се ободря",'
+      deutsch: "Wenn ich gedenke: Ich will meiner Klage vergessen und meine Gebärde
+        lassen fahren und mich erquicken,"
+      ukr2: "Як я скажу собі: Забуду мою скаргу, | скину хмурий вид, розвеселюся! -"
+      ukr3: "Як я скажу собі: забуду жалощі мої, виясню мій хмурий вид, підбодрю моє
+        серце,"
+      bel_syomukha: 'Калі сказаць мне: "забуду я скаргі мае, адкладу змрочны выгляд
+        свой і падбадзёруся",'
+      spbda: "Если сказать мне: забуду жалобу мою,\r\rотложу мрачный вид свой, и буду
+        весел;"
+      lev-khv: "Если сказать мне: забуду жалобу мою, оставлю мрачный вид свой и буду
+        весел:"
+      czech: "Reknu-li si: Zapomenu na sve lkani, smutku zanecham a pookreji,"
+      spanish: "Si me digo: <<Voy a olvidar mis cuitas, cambiaré mi semblante y me
+        pondré alegre>>,"
+      greek-lxx: ἐάν τε γὰρ εἴπω ἐπιλήσομαι λαλῶν συγκύψας τῷ προσώπῳ στενάξω
+      st_text: "Если сказать мне: забуду я жалобы мои, отложу мрачный вид свой и
+        ободрюсь;"
+  - id: 19948
+    number: 28
+    bookId: 21
+    text: то трепещу всех страданий моих, зная, что Ты не объявишь меня невинным.
+    chapter: 9
+    chapterId: 485
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "трясуся всеми удесы: вем бо, яко не безвинна мя оставиши."
+      averincev: Дрожь меня берет от моих бед - знаю, не оправдает Он меня!
+      ungerov: Трясусь всеми членами, ибо знаю, что Ты не оставишь меня невинным.
+      csya_old: "трzсyсz всёми ўдесы2: вёмъ бо, ћкw не безви1нна мS њстaвиши."
+      sovr_rbo: "но страшусь я новых несчастий, знаю: Ты меня не оставишь в покое."
+      latin: Verebar omnia opera mea, sciens quod non parceres delinquenti.
+      ukr: то боюся всіх смутків своїх, і я знаю, що Ти не очистиш мене...
+      nkjv: I am afraid of all my sufferings; I know that You will not hold me
+        innocent.
+      desnitsky: "но страшусь я новых несчастий, знаю: Ты меня не оставишь в покое."
+      mt: ‫    יָגֹרְתִּי כָל־עַצְּבֹתָי יָדַעְתִּי כִּי־לֹא תְנַקֵּנִי׃ ‬
+      romana: Sunt napadit de teama chinurilor mele, stiind bine ca Tu nu ma vei
+        scoate nevinovat.
+      francais: Je suis effrayé de toutes mes douleurs. Je sais que tu ne me tiendras
+        pas pour innocent.
+      italian: mi spavento per tutti i miei dolori; so bene che non mi dichiarerai
+        innocente.
+      old_georgian: და ვძრვიდე ყოველთა ასოთა ჩემთა. ვიცი, რამეთუ არა უბრალოდ განმიტეო მე.
+      portuguese: então tenho pavor de todas as minhas dores; porque bem sei que não
+        me terás por inocente.
+      polish: drżę na myśl o cierpieniu, pewny, że mnie nie uwolni.
+      turkish: "Bütün dertlerimden yılarım,\rÇünkü beni suçsuz saymayacağını biliyorum."
+      nrt: "я все равно боюсь своих страданий: так как я знаю, что Ты не признаешь
+        меня невинным."
+      Macarius: "То прихожу в ужас от всех страданий моих: знаю, что Ты не объявишь
+        меня невинным."
+      serbian: Страх ме је од свијех мука мојих, знам да ме нећеш оправдати.
+      bulgarian: то треперя от всичките си страдания, като зная, че Ти не ще ме обявиш
+        за невинен.
+      deutsch: so fürchte ich alle meine Schmerzen, weil ich weiß, daß du mich nicht
+        unschuldig sein lässest.
+      ukr2: то я тремчу перед усіма муками моїми, | бо знаю, що не визнаєш мене
+        безвинним.
+      ukr3: То знов муки мої лякають мене, знаю бо, що не признаєш мене безвинним;
+      bel_syomukha: дык трымчу ад усіх пакутаў маіх, ведаючы, што Ты не абвесьціш мяне
+        невінаватым.
+      spbda: "то трепещу от всех страданий моих,\r\rзнаю, что Ты не объявишь невинным
+        меня."
+      lev-khv: То трепещу от всех страданий моих; знаю, что Ты не объявишь невинным
+        меня.
+      czech: hned se vseho toho trapeni zas lekam, nebot vim, ze trest mi nepromines.
+      spanish: temo todos mis dolores, sabiendo que tú no me declaras inocente.
+      greek-lxx: σείομαι πᾶσιν τοῖς μέλεσιν οἶδα γὰρ ὅτι οὐκ ἀθῷόν με ἐάσεις
+      st_text: то трепещу всех страданий моих, зная, что Ты не объявишь меня невинным.
+  - id: 19949
+    number: 29
+    bookId: 21
+    text: Если же я виновен, то для чего напрасно томлюсь?
+    chapter: 9
+    chapterId: 485
+    parallels:
+      - verseId: 19897
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 7
+        short: Иов:7:20
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Аще же нечестив есмь, почто не умрох?
+      averincev: Все равно буду виновен я; для чего же напрасно томлюсь?
+      ungerov: А если я нечестив, почему не умер?
+      csya_old: Ѓще же нечести1въ є4смь, почто2 не ўмро1хъ;
+      sovr_rbo: Все равно я окажусь виновным, так к чему же зря стараться?
+      latin: Si autem et sic impius sum, quare frustra laboravi?
+      ukr: Все одно буду я винуватий, то нащо надармо я мучитися буду?
+      nkjv: If I am condemned, Why then do I labor in vain?
+      desnitsky: Все равно я окажусь виновным, так к чему же зря стараться?
+      mt: ‫    אָנֹכִי אֶרְשָׁע לָמָּה־זֶּה הֶבֶל אִיגָע׃ ‬
+      romana: Daca sunt vinovat, de ce sa ma mai trudesc zadarnic?
+      francais: Je serai jugé coupable; Pourquoi me fatiguer en vain?
+      italian: Se sono colpevole, perché affaticarmi invano?
+      old_georgian: და რამეთუ ვარ მე უღმრთოჲ, რაჲსა არა მოვკუედი?
+      portuguese: Eu serei condenado; por que, pois, trabalharei em vão?
+      polish: Jestem grzesznikiem, przyznaję. Więc po co się męczę na próżno?
+      turkish: "Madem suçlanacağım,\rNeden boş yere uğraşayım?"
+      nrt: А раз я уже обвинен, то зачем мне бороться впустую?
+      Macarius: "Я окажусь виновным: для чего же мне принимать этот труд по-пустому?"
+      serbian: Бићу крив; зашто бих се мучио узалуд?
+      bulgarian: Ако пък съм виновен, защо напразно да се измъчвам?
+      deutsch: Ich muß ja doch ein Gottloser sein; warum mühe ich mich denn so
+        vergeblich?
+      ukr2: Коли ж я винуватий, | чому маю томитися надармо?
+      ukr3: А скоро я винуватий, так чого надармо й силкуватись?
+      bel_syomukha: Калі ж я вінаваты, дык навошта марна пакутую?
+      spbda: "Я окажусь виновным:\r\rдля чего же напрасно томлюсь?"
+      lev-khv: Я окажусь виновным, для чего же напрасно томлюсь?
+      czech: Jestlize jsem si svevolne vedl, co se budu namahat pro nejaky prelud?
+      spanish: Si soy culpable, ¿a qué fatigarme en vano?
+      greek-lxx: ἐπειδὴ δέ εἰμι ἀσεβής διὰ τί οὐκ ἀπέθανον
+      st_text: Если же я виновен, то для чего напрасно томлюсь?
+  - id: 19950
+    number: 30
+    bookId: 21
+    text: Хотя бы я омылся и снежною водою и совершенно очистил руки мои,
+    chapter: 9
+    chapterId: 485
+    parallels:
+      - verseId: 32251
+        bookId: 22
+        bookCode: psaltir
+        chapter: 72
+        short: Пс:72:13
+      - verseId: 15510
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 2
+        short: Иер:2:22
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Аще бо измыюся снегом и очищуся руками чистыми,
+      averincev: Когда бы талым снегом омылся я и щелоком очистил руки мои,
+      ungerov: Если бы я омылся снегом и очистился чистыми руками,
+      csya_old: Ѓще бо и3змы1юсz снёгомъ и3 њчи1щусz рукaми чи1стыми,
+      sovr_rbo: Если водой снеговой омоюсь, если щелоком очищу ладони —
+      latin: Si lotus fuero quasi aquis nivis, et fulserit velut mundissimae manus
+        meae,
+      ukr: Коли б я умився сніговою водою, і почистив би лугом долоні свої,
+      nkjv: If I wash myself with snow water, And cleanse my hands with soap,
+      desnitsky: Если водой снеговой омоюсь, если щелочью очищу ладони –
+      mt: ‫    אִם־הִתְרָחַצְתִּי *במו־**בְמֵי־שָׁלֶג וַהֲזִכּוֹתִי בְּבֹר כַּפָּי׃ ‬
+      romana: Daca m-as spala cu zapada si mi-as curati mainile cu lesie,
+      francais: Quand je me laverais dans la neige, Quand je purifierais mes mains
+        avec du savon,
+      italian: Anche se mi lavassi con la neve e pulissi con la soda le mie mani,
+      old_georgian: გინა ღათუ ვიბანო თოვლითა და განვწმიდნე ჴელითა წმიდითა, ეგრეცა
+      portuguese: Se eu me lavar com água de neve, e limpar as minhas mãos com sabão,
+      polish: Choćbym się w śniegu wykąpał, a ługiem umył swe ręce;
+      turkish: "Sabun otuyla yıkansam,\rEllerimi kül suyuyla temizlesem,"
+      nrt: Даже если вымоюсь со снегом, руки отмою щелоком,
+      Macarius: Когда бы я омылся водою снежною, и очистил руки мои щелоком;
+      serbian: Да се измијем водом шњежаницом, и да очистим сапуном руке своје.
+      bulgarian: Да се умиех и със снежна вода и съвсем да очистех ръцете си,
+      deutsch: Wenn ich mich gleich mit Schneewasser wüsche und reinigte mein Hände
+        mit Lauge,
+      ukr2: Хоч би обмивсь я і снігом і вимив чисто мої руки лугом,
+      ukr3: Хоч би я й снїгом обмивсь і найчистїйше очистив руки мої,
+      bel_syomukha: Хоць бы я абмыўся і сьнежнаю вадою і цалкам ачысьціў рукі мае,
+      spbda: "Когда бы я омылся водою снежною,\r\rи щолоком очистил руки мои:"
+      lev-khv: "Когда бы я омылся водою снежною и щолоком очистил руки мои:"
+      czech: I kdybych se umyl snehem, dlane si ocistil louhem,
+      spanish: Aunque me lavase con agua de nieve y purificase mis manos con lejía,
+      greek-lxx: ἐὰν γὰρ ἀπολούσωμαι χιόνι καὶ ἀποκαθάρωμαι χερσὶν καθαραῖς
+      st_text: Хотя бы я омылся и снежною водою и совершенно очистил руки мои,
+  - id: 19951
+    number: 31
+    bookId: 21
+    text: то и тогда Ты погрузишь меня в грязь, и возгнушаются мною одежды мои.
+    chapter: 9
+    chapterId: 485
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: довольно во скверне омочил мя еси, возгнушася же мною одежда моя.
+      averincev: и тогда бы Ты в яму погрузил меня, и побрезговали мной одежды мои!
+      ungerov: То Ты (и тогда) погрузишь меня в глубокую грязь, так что возгнушается
+        мною одежда моя.
+      csya_old: дово1льнw во скве1рнэ њмочи1лъ мS є3си2, возгнушaсz же мно1ю nде1жда моS.
+      sovr_rbo: Ты погрузишь меня в сточную яму, и даже одежда мной побрезгует.
+      latin: tamen sordibus intinges me, et abominabuntur me vestimenta mea.
+      ukr: то й тоді Ти до гробу опустиш мене, і учинить бридким мене одіж моя...
+      nkjv: Yet You will plunge me into the pit, And my own clothes will abhor me.
+      desnitsky: Ты погрузишь меня в сточную яму, и даже одежда мной побрезгует.
+      mt: ‫    אָז בַּשַּׁחַת תִּטְבְּלֵנִי וְתִעֲבוּנִי שַׂלְמוֹתָי׃ ‬
+      romana: Atunci Tu tot m-ai cufunda in noroi, incat si vesmintele mele s-ar
+        scarbi de mine.
+      francais: Tu me plongerais dans la fange, Et mes vêtements m'auraient en horreur.
+      italian: allora tu mi tufferesti in un pantano e in orrore mi avrebbero le mie
+        vesti.
+      old_georgian: დიდად მწინკულითა შემღებე მე, მომიძაგა მე სამოსელმან ჩემმან,
+      portuguese: mesmo assim me submergirás no fosso, e as minhas próprias vestes me
+        abominarão.
+      polish: umieścisz mnie tam, na dole. Nawet mój płaszcz mną się brzydzi.
+      turkish: "Beni yine pisliğe batırırsın,\rGiysilerim bile benden tiksinir."
+      nrt: то и тогда Ты погрузишь меня в грязь, что даже моя одежда мной побрезгует.
+      Macarius: Тогда Ты в ров погрузил бы меня, и возгнушались бы мною ризы мои.
+      serbian: Тада ћеш ме замочити у јаму да се гаде на ме моје хаљине.
+      bulgarian: и тогава Ти ще ме потопиш в тиня, и ще се погнусят от мене дрехите ми.
+      deutsch: so wirst du mich doch tauchen in Kot, und so werden mir meine Kleider
+        greulich anstehen.
+      ukr2: навіть тоді ти вкинув би мене в багнисько, | мною гидилась би моя одежа.
+      ukr3: То й тодї ти трутиш мене в багно, та й одежа моя буде мною гидитись.
+      bel_syomukha: дык і тады Ты апусьціш мяне ў бруд, і пагардзіць мною вопратка мая.
+      spbda: "то и тогда Ты в ров погрузил бы меня,\r\rи возгнушались бы мною одежды
+        мои."
+      lev-khv: То и тогда Ты в ров погрузил бы меня, и возгнушались бы мною одежды мои;
+      czech: prece bys me vnoril do takove jamy, ze by si me hnusil i muj sat.
+      spanish: todavía me hundirás en el lodo, y mis vestidos me aborrecerían.
+      greek-lxx: ἱκανῶς ἐν ῥύπῳ με ἔβαψας ἐβδελύξατο δέ με ἡ στολή
+      st_text: то и тогда Ты погрузишь меня в грязь, и возгнушаются мною одежды мои.
+  - id: 19952
+    number: 32
+    bookId: 21
+    text: Ибо Он не человек, как я, чтоб я мог отвечать Ему и идти вместе с Ним на
+      суд!
+    chapter: 9
+    chapterId: 485
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Неси бо человек, якоже аз, емуже противопрюся, да приидем вкупе на суд.
+      averincev: Ведь не человек Он, как я, чтоб ответить Ему, чтобы вместе нам
+        предстать на суд.
+      ungerov: Ибо Ты не человек, как я, с коим я мог бы судиться, и мы вместе
+        пришли-бы на суд.
+      csya_old: Нёси бо человёкъ, ћкоже ѓзъ, є3мyже противопрю1сz, да пріи1демъ вкyпэ
+        на сyдъ.
+      sovr_rbo: Он не человек, чтобы мне с Ним тягаться, чтобы вместе нам идти на суд;
+      latin: Neque enim viro qui similis mei est, respondebo; nec qui mecum in judicio
+        ex aequo possit audiri.
+      ukr: Бо Він не людина, як я, й Йому відповіді я не дам, і не підемо разом на
+        суд,
+      nkjv: '"For He is not a man, as I am, That I may answer Him, And that we should
+        go to court together.'
+      desnitsky: Он не человек, чтобы мне с Ним тягаться, чтобы вместе нам идти на суд;
+      mt: ‫    כִּי־לֹא־אִישׁ כָּמֹנִי אֶעֱנֶנּוּ נָבוֹא יַחְדָּו בַּמִּשְׁפָּט׃ ‬
+      romana: Caci Dumnezeu nu este un om ca mine, ca sa stau cu El de vorba si ca sa
+        mergem impreuna la judecata.
+      francais: Il n'est pas un homme comme moi, pour que je lui réponde, Pour que
+        nous allions ensemble en justice.
+      italian: 'Poiché non è uomo come me, che io possa rispondergli: "Presentiamoci
+        alla pari in giudizio".'
+      old_georgian: რამეთუ არა ხარ კაცი ჩემებრი, რომელსამცა სიტყუა-უგე, რათა მოვიდეთ
+        ერთბამად სასჯელად.
+      portuguese: Porque ele não é homem, como eu, para eu lhe responder, para nos
+        encontrarmos em juízo.
+      polish: "Nie człowiek to, aby Mu odrzec: ”Razem stawajmy u sądu!”"
+      turkish: "O benim gibi bir insan değil ki, O'na yanıt vereyim,\rBirlikte
+        mahkemeye gideyim."
+      nrt: Он не смертный, как я, чтобы мне ответить Ему, чтобы сойтись нам в суде на
+        тяжбу.
+      Macarius: "Ибо он не человек, как я: могу ли я отвечать Ему? как нам идти вместе
+        на суд?"
+      serbian: Јер није човјек као ја да му одговарам, да идем с њим на суд;
+      bulgarian: Защото Той не е човек, както съм аз, та да мога да Му отговарям и да
+        отида заедно с Него на съд!
+      deutsch: Denn er ist nicht meinesgleichen, dem ich antworten könnte, daß wir vor
+        Gericht miteinander kämen.
+      ukr2: "Бо він не людина, як я, | щоб я міг йому відповісти: | Ходімо на суд
+        разом!"
+      ukr3: Він бо не людина, як я, щоб я міг одповідати йому й йти вкупі з ним на
+        суд!
+      bel_syomukha: Бо Ён не чалавек, як я, каб я мог адказваць Яму і ісьці разам зь
+        Ім на суд!
+      spbda: "Ибо Он не человек, как я, чтобь мог я отвечать Ему\r\rи идти с Ним
+        вместе на суд!"
+      lev-khv: Ибо Он не человек, как я, чтоб мог я отвечать Ему и идти с Ним вместе
+        на суд.
+      czech: On prec neni jako ja, abych mu odpovidal, abychom v soud vesli spolu.
+      spanish: "Que no es hombre como yo para responderle: ¡Vamos juntos a juicio!"
+      greek-lxx: οὐ γὰρ εἶ ἄνθρωπος κατ᾿ ἐμέ ᾧ ἀντικρινοῦμαι ἵνα ἔλθωμεν ὁμοθυμαδὸν
+        εἰς κρίσιν
+      st_text: Ибо Он не человек, как я, чтоб я мог отвечать Ему и идти вместе с Ним
+        на суд!
+  - id: 19953
+    number: 33
+    bookId: 21
+    text: Нет между нами посредника, который положил бы руку свою на обоих нас.
+    chapter: 9
+    chapterId: 485
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: о, дабы ходатай нам был, и обличаяй и разслушаяй между обема.
+      averincev: Между нами посредника нет, чтоб руку возложить на обоих нас.
+      ungerov: О если бы у нас был посредник, который разсудил бы и выслушал обоих!
+      csya_old: Q, дабы2 ходaтай нaмъ бы1лъ, и3 њбличazй и3 разслyшаzй междY nбёма.
+      sovr_rbo: нет между нами посредника, чьи руки легли бы на обоих,
+      latin: Non est qui utrumque valeat arguere, et ponere manum suam in ambobus.
+      ukr: поміж нами нема посередника, що поклав би на нас на обох свою руку...
+      nkjv: Nor is there any mediator between us, Who may lay his hand on us both.
+      desnitsky: нет между нами посредника, чьи руки легли бы на обоих,
+      mt: ‫    לֹא יֵשׁ־בֵּינֵינוּ מוֹכִיחַ יָשֵׁת יָדוֹ עַל־שְׁנֵינוּ׃ ‬
+      romana: Intre noi nu se afla un al treilea care sa-si puna mana peste noi amandoi
+      francais: Il n'y a pas entre nous d'arbitre, Qui pose sa main sur nous deux.
+      italian: Non c'è fra noi due un arbitro che ponga la mano su noi due.
+      old_georgian: იყო ხოლო თუმცა ვინ შუამდგომელ და მამხილებელ და რომელმანცა ისმინა
+        შორის ჩუენსა,
+      portuguese: Não há entre nós árbitro para pôr a mão sobre nós ambos.
+      polish: Czy jest między nami rozjemca, co rękę położy na obu?
+      turkish: Keşke aramızda bir hakem olsa da, Elini ikimizin üstüne koysa!
+      nrt: Нет посредника между нами, кто положил бы руку на нас обоих,
+      Macarius: Некому рассудить нас, положить руку свою на обоих нас.
+      serbian: Нити има међу нама кмета да би ставио руку своју међу нас двојицу.
+      bulgarian: Помежду ни няма посредник, който би сложил ръката си на нас двама ни.
+      deutsch: Es ist zwischen uns kein Schiedsmann, der seine Hand auf uns beide lege.
+      ukr2: Немає посередника між нами, | що поклав би на нас обох свою руку,
+      ukr3: І проміж нас нїякий посередник не стане, щоб положив руку на нас обох.
+      bel_syomukha: Няма паміж імі пасрэдніка, які паклаў бы руку сваю на абодвух нас.
+      spbda: "Нет между нами посредника,\r\rКоторый положил бы руку свою на обоих
+        нас."
+      lev-khv: Нет между нами посредника, который положил бы руку свою на обоих нас.
+      czech: Neni mezi nami rozhodciho, jenz by vlozil ruku na nas oba.
+      spanish: No hay entre nosotros arbitro que ponga su mano entre ambos.
+      greek-lxx: εἴθε ἦν ὁ μεσίτης ἡμῶν καὶ ἐλέγχων καὶ διακούων ἀνὰ μέσον ἀμφοτέρων
+      st_text: Нет между нами посредника, который положил бы руку свою на обоих нас.
+  - id: 19954
+    number: 34
+    bookId: 21
+    text: Да отстранит Он от меня жезл Свой, и страх Его да не ужасает меня, -
+    chapter: 9
+    chapterId: 485
+    parallels:
+      - verseId: 32596
+        bookId: 22
+        bookCode: psaltir
+        chapter: 88
+        short: Пс:88:33
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Да отъимет от мене жезл, страх же его да не смущает мене:"
+      averincev: Пусть уберет Он от меня розгу Свою, чтоб угроза Его не ужасала меня -
+      ungerov: Да отнимет Он от меня жезл, и страх Его да не смущает меня!
+      csya_old: "Да tи1метъ t менє2 же1злъ, стрaхъ же є3гw2 да не смущaетъ мене2:"
+      sovr_rbo: кто отвел бы от меня Его жезл, чтоб Он больше не внушал мне ужас,
+      latin: Auferat a me virgam suam, et pavor ejus non me terreat.
+      ukr: Нехай забере Він від мене Свойого бича, Його ж страх хай мене не жахає,
+      nkjv: Let Him take His rod away from me, And do not let dread of Him terrify me.
+      desnitsky: кто отвел бы от меня Его жезл, чтоб он больше не внушал мне ужас,
+      mt: ‫    יָסֵר מֵעָלַי שִׁבְטוֹ וְאֵמָתוֹ אַל־תְּבַעֲתַנִּי׃ ‬
+      romana: Si care sa departeze varga Sa de deasupra capului meu, asa incat groaza
+        Lui sa nu ma mai tulbure;
+      francais: Qu'il retire sa verge de dessus moi, Que ses terreurs ne me troublent
+        plus;
+      italian: "Allontani da me la sua verga sì che non mi spaventi il suo terrore:"
+      old_georgian: განმაშორენ ჩემგან კუერთხი მისი და შიში მისი ნუ შემაძრწუნებნ მე.
+      portuguese: Tire ele a sua vara de cima de mim, e não me amedronte o seu terror;
+      polish: Niech zdejmie ze mnie swą rózgę i strachem mnie nie napełnia,
+      turkish: Tanrı sopasını üzerimden kaldırsın, Dehşeti beni yıldırmasın.
+      nrt: нет того, кто отвел бы Его жезл от меня, чтобы Его ужас не терзал меня
+        больше.
+      Macarius: Да отстранит от меня скипетр свой; и страх Его да не ужасает меня;
+      serbian: Нека одмакне од мене прут свој, и страх његов нека ме не страши;
+      bulgarian: Нека отмахне Той от мене жезъла Си, и страхът Му да ме не ужасява, -
+      deutsch: Er nehme von mir seine Rute und lasse seinen Schrecken von mir,
+      ukr2: що відвернув би свій бич від мене, | щоб страх його не лякав мене більше.
+      ukr3: Нехай же відверне він від мене бича свого, й страх його нехай не лякає
+        мене, -
+      bel_syomukha: Хай адхіліць Ён ад мяне жазло Сваё і страх Ягоны хай не жахае мяне, -
+      spbda: "Да отстранит Он от меня жезл свой,\r\rи страх Его да не ужасает меня;"
+      lev-khv: Да отстранит Он от меня жезл Свой, и страх Его да не ужасает меня;
+      czech: Kez by odnal ode mne svou hul a neprepadal me jak postrach.
+      spanish: Que retire su vara de sobre mí, que no me espante su terror.
+      greek-lxx: ἀπαλλαξάτω ἀπ᾿ ἐμοῦ τὴν ῥάβδον ὁ δὲ φόβος αὐτοῦ μή με στροβείτω
+      st_text: Да отстранит Он от меня жезл Свой, и страх Его да не ужасает меня, -
+  - id: 19955
+    number: 35
+    bookId: 21
+    text: и тогда я буду говорить и не убоюсь Его, ибо я не таков сам в себе.
+    chapter: 9
+    chapterId: 485
+    parallels:
+      - verseId: 1592
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 4
+        short: 1 Кор:4:4
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и не убоюся, но возглаголю, ибо тако не вем сам себе.
+      averincev: "тогда стану говорить, не страшась Его: дело мое неладно идет!       "
+      ungerov: И я не убоюсь, а буду говорить, ибо таковым я не признаю самого себя.
+      csya_old: и3 не ўбою1сz, но возглаго1лю, и4бо тaкw не вёмъ сaмъ себе2.
+      sovr_rbo: чтобы я говорил без страха. Но я сам за себя — и все иначе.
+      latin: Loquar, et non timebo eum; neque enim possum metuens respondere.
+      ukr: тоді буду казати, й не буду боятись Його, бо я не такий сам з собою!...
+      nkjv: Then I would speak and not fear Him, But it is not so with me.
+      desnitsky: чтобы я говорил без страха. Но я сам за себя – и все иначе.
+      mt: ‫    אַדַבְּרָה וְלֹא אִירָאֶנּוּ כִּי לֹא־כֵן אָנֹכִי עִמָּדִי׃ ‬
+      romana: Atunci as vorbi si nu m-as mai teme de El. Dar nu este asa si eu sunt
+        singur cu mine insumi.
+      francais: Alors je parlerai et je ne le craindrai pas. Autrement, je ne suis
+        point à moi-même.
+      italian: allora io potrò parlare senza temerlo, perché così non sono in me stesso.
+      old_georgian: და არა მეშინოდის, არამედ ვიტყოდი, არა ეგრე შემიცნობიეს თავსა
+        ჩემსა, რავდენ ესე.
+      portuguese: então falarei, e não o temerei; pois eu não sou assim em mim mesmo.
+      polish: bym mówić zdołał bez lęku... A tak, ja nie mam śmiałości.
+      turkish: O zaman konuşur, O'ndan korkmazdım, Ama bu durumda bir şey yapamam.
+      nrt: Тогда я говорил бы, не страшась Его, потому что сам по себе я не такой.
+      Macarius: Тогда буду говорить, и перестану бояться Его; ибо я не таков сам в себе.
+      serbian: Тада ћу говорити, и нећу га се бојати; јер овако не знам за себе.
+      bulgarian: тогава ще говоря и не ще се боя от Него, понеже аз не съм такъв сам
+        по себе си.
+      deutsch: daß ich möge reden und mich nicht vor ihm fürchten dürfe; denn ich
+        weiß, daß ich kein solcher bin.
+      ukr2: Однак я говоритиму; я його не боюся, | бо не такий я перед самим собою.»
+      ukr3: А тодї я говорити му й не збоюсь його, бо я сам собою не такий.
+      bel_syomukha: і тады я буду гаварыць і не збаюся Яго, бо я не такі самы ў сабе.
+      spbda: "тогда буду говорить, и перестану пугаться Его:\r\rибо я не таков сам в
+        себе."
+      lev-khv: Тогда буду говорить и перестану пугаться Его, потому что я не таков сам
+        в себе.
+      czech: Mluvil bych a nebal se ho, ale v mem pripade tomu tak neni.
+      spanish: Yo hablaré sin temor, porque no soy tal a mis ojos.
+      greek-lxx: καὶ οὐ μὴ φοβηθῶ ἀλλὰ λαλήσω οὐ γὰρ οὕτω συνεπίσταμαι
+      st_text: и тогда я буду говорить и не убоюсь Его, ибо я не таков сам в себе.

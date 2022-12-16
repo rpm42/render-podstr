@@ -1,0 +1,476 @@
+id: 530
+number: 12
+bookId: 22
+verseCount: 6
+title: Глава 12
+verses:
+  - id: 30851
+    number: 1
+    bookId: 22
+    text: <i>Начальнику хора. Псалом Давида.</i>
+    chapter: 12
+    chapterId: 530
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: В конец, псалом давиду.
+      averincev: ""
+      ungerov: В конец. Псалом Давида.
+      csya_old: Въ коне1цъ, pало1мъ дв7ду,
+      sovr_rbo: "[Начальнику хора: псалом Давида.]"
+      latin: In finem. Psalmus David. Usquequo, Domine, oblivisceris me in finem?
+        usquequo avertis faciem tuam a me?
+      ukr: Для дириґента хору. На октаву. Псалом Давидів.
+      nkjv: To the Chief Musician. A Psalm of David.
+      desnitsky: ""
+      mt: ‫   לַמְנַצֵּחַ מִזְמוֹר לְדָוִד׃ ‬
+      romana: Al lui David. Pana cand, Doamne, ma vei uita pana in sfarsit? Pana cand
+        vei intoarce fata Ta de la mine?
+      italian: Al maestro del coro. Salmo. Di Davide.
+      old_georgian: ვიდრემდის, უფალო, დამივიწყებ მე სრულიად? ვიდრემდის გარემიიქცევ
+        პირსა შენსა ჩემგან?
+      portuguese: Até quando, ó Senhor, te esquecerás de mim? para sempre? Até quando
+        esconderás de mim o teu rosto?
+      polish: Kierownikowi chóru. Psalm. Dawidowy.
+      nrt: Дирижеру хора. Псалом Давида.
+      Macarius: Начальнику хора. Псалом Давидов.
+      bulgarian: Началнику на хора. Псалом Давидов.
+      pavskiy: Начальнику хора. Псалом Давидов.
+      deutsch: Ein Psalm Davids, vorzusingen. [2 Herr, wie lange willst du mein so gar
+        vergessen? Wie lange verbirgst du dein Antlitz vor mir?
+      ukr2: Провідникові хору. Псалом. Давида.
+      ukr3: "Проводиреві хора: Псальма Давидова. Д оки Господи, будеш мене все
+        забувати? Доки будеш ховати лице твоє від мене?"
+      bel_syomukha: Кіроўцу хору. Псальма Давідава.
+      sergievsky: Начальнику, Псалом Давидов.
+      lev-khv: Начальнику хора. Псалом Давидов.
+      czech: Pro predniho zpevaka, zalm Daviduv.
+      spanish: Al maestro del coro. Salmo de David.
+      mandelshtam: Начальнику, Псалом Давидов.
+      zertis-kamenskiy: Начальнейшему певцу песнь Давидова.
+      greek-lxx: εἰς τὸ τέλος ψαλμὸς τῷ Δαυιδ
+      st_text: <i>Начальнику хора. Псалом Давида.</i>
+  - id: 30852
+    number: 2
+    bookId: 22
+    text: Доколе, Господи, будешь забывать меня вконец, доколе будешь скрывать лице
+      Твое от меня?
+    chapter: 12
+    chapterId: 530
+    parallels:
+      - verseId: 35362
+        bookId: 7
+        bookCode: kniga-sudej-izrailevyh
+        chapter: 6
+        short: Суд:6:13
+      - verseId: 31743
+        bookId: 22
+        bookCode: psaltir
+        chapter: 43
+        short: Пс:43:25
+      - verseId: 32321
+        bookId: 22
+        bookCode: psaltir
+        chapter: 76
+        short: Пс:76:8
+      - verseId: 32512
+        bookId: 22
+        bookCode: psaltir
+        chapter: 84
+        short: Пс:84:6
+      - verseId: 28825
+        bookId: 30
+        bookCode: plac-ieremii
+        chapter: 5
+        short: Плач:5:20
+      - verseId: 9604
+        bookId: 42
+        bookCode: kniga-proroka-avvakuma
+        chapter: 1
+        short: Авв:1:2
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Доколе, Господи, забудеши мя до конца? доколе отвращаеши лице твое от
+        мене?
+      averincev: ""
+      ungerov: Доколе, Господи, будешь забывать меня до конца? Доколе будешь отвращать
+        лице Твое от меня?
+      csya_old: Доко1лэ, гDи, забyдеши мS до концA; доко1лэ tвращaеши лице2 твое2 t
+        менє2;
+      sovr_rbo: Надолго ли, Господь, Ты оставил меня? Неужели навсегда? Надолго ли
+        отвернулся Ты от меня?
+      latin: Quamdiu ponam consilia in anima mea, dolorem in corde meo per diem?
+      ukr: Доки, Господи, будеш мене забувати назавжди, доки будеш ховати від мене
+        обличчя Своє?
+      nkjv: How long, O Lord? Will You forget me forever? How long will You hide Your
+        face from me?
+      desnitsky: ""
+      mt: ‫   עַד־אָנָה יְהוָה תִּשְׁכָּחֵנִי נֶצַח עַד־אָנָה תַּסְתִּיר אֶת־פָּנֶיךָ
+        מִמֶּנִּי׃ ‬
+      romana: Pana cand voi gramadi ganduri in sufletul meu, durere in inima mea ziua
+        si noaptea?
+      italian: Fino a quando, Signore, continuerai a dimenticarmi? Fino a quando mi
+        nasconderai il tuo volto?
+      old_georgian: ვიდრე ვისთჳს დავისხნე ზრახვანი სულსა ჩემსა და სალმობანი გულსა
+        ჩემსა დღე და ღამე?
+      portuguese: "Até quando encherei de cuidados a minha alma, tendo tristeza no meu
+        coração cada dia? Até quando o meu\rinimigo se exaltará sobre mim?"
+      polish: "Jak długo, Panie, całkiem o mnie nie będziesz pamiętał? Dokąd kryć
+        będziesz\rprzede mną oblicze?"
+      nrt: Как долго, Господь? Неужели забыл Ты меня навеки? Как долго Ты будешь
+        скрывать от меня Свое лицо?
+      Macarius: Доколе, Господи, будешь забывать меня в конец, доколе будешь сокрывать
+        лице Твое от меня?
+      bulgarian: Докога, Господи, ще ме забравяш докрай, докога ще скриваш лицето Си
+        от мене?
+      pavskiy: Доколе, Господи, будешь забывать меня в конец, доколе будешь сокрывать
+        лице Твое от меня?
+      deutsch: "[3 Wie lange soll ich sorgen in meiner Seele und mich ängsten in
+        meinem Herzen täglich? Wie lange soll sich mein Feind über mich
+        erheben?"
+      ukr2: Доки, о Господи, зовсім будеш мене забувати? Доки ховатимеш лице твоє від
+        мене?
+      ukr3: Доки носити менї щодня думу в душі моїй, журбу в серцї моїм? Доки буде
+        підніматись ворог мій надо мною?
+      bel_syomukha: Дакуль, Госпадзе, зусім забывацьмеш мяне, дакуль аблічча хавацьмеш
+        Сваё ад мяне?
+      sergievsky: Доколе, Господь, Ты будешь забывать меня? Всевечный, доколе будешь
+        скрывать лице Твое от меня?
+      lev-khv: Доколе, Господи, будешь совершенно забывать меня? доколе будешь
+        скрывать лице Твое от меня?
+      czech: Dlouho jeste, Hospodine, na me ani nevzpomenes? Dlouho jeste chces mi
+        svou tvar skryvat?
+      spanish: ¿Hasta cuándo, por fin, te olvidarás, Yavé, de mí? ¿Hasta cuándo
+        esconderás de mí tu rostro?
+      mandelshtam: Доколе, Господь, Ты будешь забывать меня? Всевечный, доколе будешь
+        скрывать лице Твое от меня?
+      zertis-kamenskiy: Доколе Боже забудеши мя до конца? Доколе скрыеши лице Твое от мене?
+      pakazkiy: "Доколе, Господи, забудешь\rМеня смиреннаго в конец? Доколе отвращати
+        будешь Лице твое, О мой Творец!"
+      greek-lxx: ἕως πότε Κύριε ἐπιλήσῃ μου εἰς τέλος ἕως πότε ἀποστρέψεις τὸ πρόσωπόν
+        σου ἀπ᾿ ἐμοῦ
+      st_text: Доколе, Господи, будешь забывать меня вконец, доколе будешь скрывать
+        лице Твое от меня?
+  - id: 30853
+    number: 3
+    bookId: 22
+    text: Доколе мне слагать советы в душе моей, скорбь в сердце моем день [и ночь]?
+      Доколе врагу моему возноситься надо мною?
+    chapter: 12
+    chapterId: 530
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Доколе положу советы в души моей, болезни в сердцы моем день и нощь?
+        доколе вознесется враг мой на мя?
+      averincev: ""
+      ungerov: Доколе я буду слагать помыслы в душе моей, (а) печали в сердце моем
+        день и ночь? Доколе будет возноситься надо мною враг мой?
+      csya_old: Доко1лэ положY совёты въ души2 мое1й, бwлёзни въ се1рдцы мое1мъ де1нь
+        и3 но1щь; доко1лэ вознесе1тсz врaгъ мо1й на мS;
+      sovr_rbo: Сколько сетовать мне еще? Весь день в сердце боль! Долго ли глумиться
+        врагу надо мной?
+      latin: Usquequo exaltabitur inimicus meus super me?
+      ukr: Як довго я буду складати в душі своїй болі, у серці своїм щодня смуток? Як
+        довго мій ворог підноситись буде над мене?
+      nkjv: How long shall I take counsel in my soul, Having sorrow in my heart daily?
+        How long will my enemy be exalted over me?
+      desnitsky: ""
+      mt: ‫   עַד־אָנָה אָשִׁית עֵצוֹת בְּנַפְשִׁי יָגוֹן בִּלְבָבִי יוֹמָם עַד־אָנָה
+        יָרוּם אֹיְבִי עָלָי׃ ‬
+      romana: Pana cand se va inalta vrajmasul meu impotriva mea?
+      italian: Fino a quando nell'anima mia proverò affanni, tristezza nel cuore ogni
+        momento? Fino a quando su di me trionferà il nemico?
+      old_georgian: ვიდრემდის ამაღლდებოდის მტერი ჩემი ჩემ ზედა? მოიხილენ, შეგესემინ
+        ჩემი, უფალო ღმერთო ჩემო,
+      portuguese: Considera e responde-me, ó Senhor, Deus meu; alumia os meus olhos
+        para que eu não durma o sono da morte;
+      polish: "Dokąd w mej duszy będę przeżywał wahania, a w moim sercu
+        codzienną\rzgryzotę? Jak długo mój wróg nade mnie będzie się wynosił?"
+      nrt: Как долго мне муку в душе носить и целыми днями крушить болью сердце? Как
+        долго моему врагу надо мной кичиться?
+      Macarius: Доколе мне слагать в душе моей советы, томиться в сердце моем день [и
+        ночь]? Доколе врагу моему возноситься надо мною?
+      bulgarian: Докога ще измислям кроежи в душата си, и ще скърбя в сърцето си денем
+        (и нощем)? Докога врагът ми ще се издига над мене?
+      pavskiy: Доколе мне слагать в душе моей советы, томиться в сердце моем день [и
+        ночь]? Доколе врагу моему возноситься надо мною?
+      deutsch: "[4 Schaue doch und erhöre mich, Herr, mein Gott! Erleuchte meine
+        Augen, daß ich nicht dem Tode entschlafe,"
+      ukr2: Доки журбою буду терзати мою душу, тужити щодня серцем?
+      ukr3: Зглянься ж, дай відповідь, Господи, Боже мій! Просьвіти очі мої, щоб я не
+        заснув смертю.
+      bel_syomukha: Дакуль буду вагацца ў душы маёй, скруху ў сэрцы маім насіцьму
+        штодзённа? Дакуль вораг мой будзе ўзносіцца нада мною?
+      sergievsky: Доколе мне в душе моей слагать советы, в сердце моем печаль —
+        ежедневно? Доколе врагу моему возноситься надо мною?
+      lev-khv: Доколе мне слагать в душе моей советы, в сердце моем томление
+        ежедневно? Доколе будет возноситься враг мой надо мною?
+      czech: Dlouho jeste musim sam u sebe hledat rady, strastmi se den ze dne v srdci
+        souzit? Dlouho jeste se bude muj nepritel proti mne vyvysovat?
+      spanish: ¿Hasta cuándo tendré yo preocupaciones en mi alma y pesares diariamente
+        en mi corazón? ¿Hasta cuándo mis enemigos prevalecerán sobre mí?
+      mandelshtam: Доколе мне в душе моей слагать советы, в сердце моем печаль —
+        ежедневно? Доколе врагу моему возноситься надо мною?
+      zertis-kamenskiy: Доколе положу советы в души моей, болезнь в сердце моем
+        вседневно? Доколе вознесется враг мой на мя?
+      pakazkiy: "Доколь попустишь управляться Умом и волею своей;\rИ днем и нощью
+        утомляться Сердечной скорбиею моей?\rДоколе враг мой мне поносит
+        Неправой грубостью его;\rИ выю гордую возносит Противу друга своего."
+      greek-lxx: ἕως τίνος θήσομαι βουλὰς ἐν ψυχῇ μου ὀδύνας ἐν καρδίᾳ μου ἡμέρας ἕως
+        πότε ὑψωθήσεται ὁ ἐχθρός μου ἐπ᾿ ἐμέ
+      st_text: Доколе мне слагать советы в душе моей, скорбь в сердце моем день [и
+        ночь]? Доколе врагу моему возноситься надо мною?
+  - id: 30854
+    number: 4
+    bookId: 22
+    text: Призри, услышь меня, Господи Боже мой! Просвети очи мои, да не усну я
+      [<i>сном</i>] смертным;
+    chapter: 12
+    chapterId: 530
+    parallels:
+      - verseId: 1084
+        bookId: 15
+        bookCode: 1a-kniga-ezdry
+        chapter: 9
+        short: 1 Езд:9:8
+      - verseId: 16441
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 51
+        short: Иер:51:39
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Призри, услыши мя, Господи Боже мой: просвети очи мои, да не когда усну в
+        смерть:"
+      averincev: ""
+      ungerov: Призри, услышь меня, Господи, Боже мой, просвети очи мои, да не усну
+        смертно.
+      csya_old: "При1зри, ўслы1ши мS, гDи б9е мо1й: просвэти2 џчи мои2, да не когдA
+        ўснY въ сме1рть:"
+      sovr_rbo: Взгляни на меня, отзовись, о Господь, мой Бог! Дай глазам видеть свет,
+        сном смерти не дай уснуть!
+      latin: Respice, et exaudi me, Domine Deus meus. Illumina oculos meos, ne umquam
+        obdormiam in morte;
+      ukr: Зглянься, озвися до мене, о Господи, Боже мій! Просвітли мої очі, щоб на
+        смерть не заснув я!
+      nkjv: Consider and hear me, O Lord my God; Enlighten my eyes, Lest I sleep the
+        sleep of death;
+      desnitsky: ""
+      mt: ‫   הַבִּיטָה עֲנֵנִי יְהוָה אֱלֹהָי הָאִירָה עֵינַי פֶּן־אִישַׁן הַמָּוֶת׃
+        ‬
+      romana: Cauta, auzi-ma, Doamne, Dumnezeul meu, lumineaza ochii mei, ca nu cumva
+        sa adorm intru moarte,
+      italian: Guarda, rispondimi, Signore mio Dio, conserva la luce ai miei occhi,
+        perché non mi sorprenda il sonno della morte,
+      old_georgian: განანათლენ თუალნი ჩემნი, ნუუკუე დავიძინო მე სიკუდიდ.
+      portuguese: "para que o meu inimigo não diga: Prevaleci contra ele; e os meus
+        adversários não se alegrem, em sendo eu\rabalado."
+      polish: "Spojrzyj, wysłuchaj, Panie, mój Boże! Oświeć moje oczy, bym nie zasnął
+        w\rśmierci,"
+      nrt: Посмотри на меня и ответь, Господи, Боже мой. Глаза мои просветли, чтобы
+        мне не уснуть смертным сном,
+      Macarius: Призри, услыши меня, Господи, Боже мой! Дай свет очам моим, чтобы не
+        уснул я сном смертным;
+      bulgarian: Милостно погледни, чуй ме, Господи, Боже мой! Просвети очите ми, за
+        да не заспя сън смъртен;
+      pavskiy: Призри, услыши меня, Господи, Боже мой! Дай свет очам моим, чтобы не
+        уснул я сном смертным;
+      deutsch: "[5 daß nicht mein Feind rühme, er sei mein mächtig geworden, und meine
+        Widersacher sich nicht freuen, daß ich niederlage."
+      ukr2: Доки мій ворог буде зноситись надо мною? Зглянься і вислухай мене, о
+        Господи, мій Боже!
+      ukr3: "Щоб не сказав ворог мій: я подужав його. Щоб не зрадїли гонителї мої,
+        коли захитаюсь."
+      bel_syomukha: Глянь, пачуй мяне, Госпадзе Божа мой! Прасьвятлі мне вочы, каб не
+        заснуў я сном сьмерці;
+      sergievsky: Воззри, услышь меня, Господь, Бог мой; дай свет очам моим, — чтобы
+        не уснуть мне смертным сном!
+      lev-khv: Воззри, услышь меня, Господи, Боже мой! просвети очи мои, чтобы не
+        уснул я <i>сном</i> смертным;
+      czech: Shledni, Hospodine, Boze muj, a odpovez mi! Rozjasni me oci, at neusnu
+        spankem smrti,
+      spanish: ¡Mírame, respóndeme, Yavé, Dios mío! Alumbra mis ojos, no me duerma en
+        la muerte.
+      mandelshtam: Воззри, услышь меня, Господь, Бог мой; дай свет очам моим, — чтобы
+        не уснуть мне смертным сном!
+      zertis-kamenskiy: "Призри услыши мя Боже, Боже мой: просвети очи мои да не устну в смерть."
+      pakazkiy: "Я всею ослабев душею,\rК Тебе, Владыко, воспою:\rТы призри благостью
+        Твоею, Внуши молитву днесь мою,\rИ взор мне просвети сердечный: Да
+        некогда усну я в смерть,"
+      greek-lxx: ἐπίβλεψον εἰσάκουσόν μου Κύριε ὁ Θεός μου φώτισον τοὺς ὀφθαλμούς μου
+        μήποτε ὑπνώσω εἰς θάνατον
+      st_text: Призри, услышь меня, Господи Боже мой! Просвети очи мои, да не усну я
+        [<i>сном</i>] смертным;
+  - id: 30855
+    number: 5
+    bookId: 22
+    text: 'да не скажет враг мой: "я одолел его". Да не возрадуются гонители мои,
+      если я поколеблюсь.'
+    chapter: 12
+    chapterId: 530
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "да не когда речет враг мой: укрепихся на него. Стужающии ми возрадуются,
+        аще подвижуся."
+      averincev: ""
+      ungerov: 'Да не скажет враг мой: "я преодолел его!" Угнетающие меня обрадуются,
+        если я поколеблюсь.'
+      csya_old: "да не когдA рече1тъ врaгъ мо1й: ўкрэпи1хсz на него2. Стужaющіи ми2
+        возрaдуютсz, ѓще подви1жусz."
+      sovr_rbo: Пусть не думает враг, что осилил меня, и не веселится, что я упал.
+      latin: "nequando dicat inimicus meus: Praevalui adversus eum. Qui tribulant me
+        exsultabunt si motus fuero;"
+      ukr: "Щоб мій неприятель не сказав: Я його переміг! Щоб мої вороги не раділи, як
+        я захитаюсь!"
+      nkjv: Lest my enemy say, "I have prevailed against him"; Lest those who trouble
+        me rejoice when I am moved.
+      desnitsky: ""
+      mt: ‫   פֶּן־יֹאמַר אֹיְבִי יְכָלְתִּיו צָרַי יָגִילוּ כִּי אֶמּוֹט׃ ‬
+      romana: 'Ca nu cumva sa zica vrajmasul meu: "Intaritu-m-am asupra lui". Cei ce
+        ma necajesc se vor bucura de ma voi clatina.'
+      italian: "perché il mio nemico non dica: \"L'ho vinto!\" e non esultino i miei
+        avversari quando vacillo."
+      old_georgian: "ნუსადა თქუას მტერმან ჩემმან: მრე ვეყავ მას; მაჭირვებელნი ჩემნი
+        იხარებდენ, შე-თუ-ვიძრა."
+      portuguese: Mas eu confio na tua benignidade; o meu coração se regozija na tua
+        salvação.
+      polish: "by mój wróg nie mówił: ”Zwyciężyłem go”, niech się nie cieszą moi
+        przeciwnicy, gdy się zachwieję."
+      nrt: "чтобы враг не сказал: «Я его превозмог», – и когда я паду, не радовались
+        бы недруги."
+      Macarius: "Чтобы не сказал враг мой: я преодолел его; чтобы не обрадовались
+        гонители мои, если я поколеблюсь."
+      bulgarian: 'да не каже врагът ми: "надвих му". Да се не зарадват гонителите ми,
+        ако се поклатя.'
+      pavskiy: "Чтобы не сказал враг мой: я преодолел его; чтобы не обрадовались
+        гонители мои, естьли я поколеблюсь."
+      deutsch: "[6 Ich hoffe aber darauf, daß du so gnädig bist; mein Herz freut sich,
+        daß du so gerne hilfst."
+      ukr2: "Просвіти мої очі, щоб не заснути смертю, щоб не сказав мій ворог: “Я його
+        подужав!”,"
+      ukr3: Я же вповаю на доброту твою; серце моє нехай зрадується спасеннєм твоїм.
+        Сьпівати му Господеві, він бо сотворив добро менї.
+      bel_syomukha: 'хай ня скажа мой вораг: "Я адолеў яго". Хай ня радуюцца супастаты
+        мае, калі завагаюся.'
+      sergievsky: "Чтобы не сказал враг мой: «Я одолел его!», — чтобы не возрадовались
+        гонители мои, когда я поколеблюсь!"
+      lev-khv: "Чтобы не сказал враг мой: я одолел его; <i>чтобы</i> не обрадовались
+        гонители мои, если я поколеблюсь."
+      czech: 'at nepritel nerekne: "Zdolal jsem ho!" Moji protivnici budou jasat,
+        zhroutim-li se.'
+      spanish: "Que no pueda decir mi enemigo: <<Le vencí>>. Mis enemigos se
+        regocijarían si yo cayese."
+      mandelshtam: "Чтобы не сказал враг мой: «Я одолел его!», — чтобы не
+        возрадовались гонители мои, когда я поколеблюсь!"
+      zertis-kamenskiy: "Да не речет враг мой: премогох его, да не возрадуются врази
+        мои аще поколеблются."
+      pakazkiy: "И враг речет безчеловечный: Теперь его сведу я в персть;\rИ все,
+        которые мне стужали, Приидут в радостный восторг, Что вдруг победу
+        одержали Моих поползновеньем ног."
+      greek-lxx: μήποτε εἴπῃ ὁ ἐχθρός μου ἴσχυσα πρὸς αὐτόν οἱ θλίβοντές με
+        ἀγαλλιάσονται ἐὰν σαλευθῶ
+      st_text: 'да не скажет враг мой: "я одолел его". Да не возрадуются гонители мои,
+        если я поколеблюсь.'
+  - id: 30856
+    number: 6
+    bookId: 22
+    text: Я же уповаю на милость Твою; сердце мое возрадуется о спасении Твоем;
+      воспою Господу, облагодетельствовавшему меня [и буду петь имени Господа
+      Всевышнего].
+    chapter: 12
+    chapterId: 530
+    parallels:
+      - verseId: 30310
+        bookId: 22
+        bookCode: psaltir
+        chapter: 102
+        short: Пс:102:2
+      - verseId: 21168
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 66
+        short: Ис:66:14
+      - verseId: 9657
+        bookId: 42
+        bookCode: kniga-proroka-avvakuma
+        chapter: 3
+        short: Авв:3:18
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Аз же на милость Твою уповах. Возрадуется сердце мое о спасении Твоем,
+        воспою Господеви, Благодеявшему мне, и пою имени Господа Вышняго.
+      averincev: ""
+      ungerov: "Я же уповал на милость Твою: возрадуется сердце мое о спасении Твоем,
+        воспою Господу, благотворящему мне, и пою имени Господа Вышнего."
+      csya_old: "Ѓзъ же на млcть твою2 ўповaхъ: возрaдуетсz се1рдце мое2 њ спcніи
+        твое1мъ: воспою2 гDеви бlгодёzвшему мнЁ и3 пою2 и4мени гDа вы1шнzгw."
+      sovr_rbo: Я надеюсь на милость Твою! Ты даруешь мне радость — спасенье даешь, я
+        буду петь, как Господь меня спас!
+      latin: ego autem in misericordia tua speravi. Exsultabit cor meum in salutari
+        tuo. Cantabo Domino qui bona tribuit mihi; et psallam nomini Domini
+        altissimi.
+      ukr: Я надію на милість Твою покладаю, моє серце радіє спасінням Твоїм! Я буду
+        співати Господеві, бо Він добродійство для мене вчинив...
+      nkjv: But I have trusted in Your mercy; My heart shall rejoice in Your
+        salvation. I will sing to the Lord, Because He has dealt bountifully
+        with me.
+      desnitsky: ""
+      mt: ‫   וַאֲנִי בְּחַסְדְּךָ בָטַחְתִּי יָגֵל לִבִּי בִּישׁוּעָתֶךָ אָשִׁירָה
+        לַיהוָה כִּי גָמַל עָלָי׃ ‬
+      romana: Iar eu spre mila Ta am nadajduit; bucura-se-va inima mea de mantuirea
+        Ta; canta-voi Domnului, Celui ce mi-a facut bine si voi canta numele
+        Domnului Celui Preainalt.
+      italian: Nella tua misericordia ho confidato. Gioisca il mio cuore nella tua
+        salvezza e canti al Signore, che mi ha beneficato.
+      old_georgian: ხოლო მე წყალობასა შენსა ვესავ; იხარებდეს გული ჩემი მაცხოვარებითა
+        შენითა, უგალობდე უფალსა, კეთილისმყოფელსა ჩემსა და ვაქებდე სახელსა უფლისა
+        მაღლისასა.
+      portuguese: Cantarei ao Senhor, porquanto me tem feito muito bem.
+      polish: "Ja zaś zaufałem Twemu miłosierdziu; niech się cieszy me serce z
+        Twojej\rpomocy, chcę śpiewać Panu, który obdarzył mnie dobrem."
+      nrt: Я уповаю на Твою милость, мое сердце возрадуется спасению Твоему. Господу
+        буду петь, потому что Он ко мне благ.
+      Macarius: Я уже уповаю на милость Твою; сердце мое возрадуется о спасении Твоем;
+        воспою Господу, благодетельствующему мне, [и буду петь имени Господа
+        Всевышнего].
+      bulgarian: Аз пък се уповавам на Твоята милост; сърцето ми ще се зарадва за
+        спасението от Тебе; ще пея Господу, Който ме е облагодетелствувал (и ще
+        възпявам името на Господа Всевишни).
+      pavskiy: Я же уповаю на милость Твою; сердце мое возрадуется о спасении Твоем;
+        воспою Господу благодетельствующему мне, [и буду петь имени Господа
+        Всевышняго].
+      deutsch: Ich will dem Herrn singen, daß er so wohl an mir tut.
+      ukr2: щоб мої вороги не раділи, коли я захитаюсь. Я ж бо надіявся на твою ласку.
+        Нехай радіє моє серце твоїм спасінням! Заспіваю Господеві, добро бо мені
+        вдіяв.
+      bel_syomukha: А я спадзяюся на літасьць Тваю; хай сэрца маё суцешыцца
+        ратаваньнем Тваім; засьпяваю Госпаду, Які дабром надарыў мяне.
+      sergievsky: "Я же — уповаю на милость Твою: да возрадуется сердце мое спасением
+        Твоим, и воспою Господу, облагодетельствовавшему меня!..."
+      lev-khv: А я на милость Твою уповаю; возрадуется сердце мое о спасении Твоем;
+        воспою Господу, потому что Он сотворил мне благо.
+      czech: Ja v tve milosrdenstvi vsak doufam, moje srdce jasa nad tvou spasou. Budu
+        zpivat Hospodinu, nebot se me zastal.
+      spanish: Pero yo espero en tu piedad. Mi corazón se alegrará en tu salvación;
+        cantaré a Yavé, que me colmó de bienes.
+      mandelshtam: "Я же — уповаю на милость Твою: да возрадуется сердце мое спасением
+        Твоим, и воспою Господу, облагодетельствовавшему меня!..."
+      zertis-kamenskiy: "Аз же на милость Твою уповаю: возрадуется сердце мое о
+        спасении твоем: воспою Богу благодеявшему мне."
+      pakazkiy: "Мой дух надеждою живится На милость, Господи, Твою;\rИ ныне он
+        возвеселится,\rОтраду чувствуя свою.\rХвалить я сердцем и устами Благих
+        виновника начну,\rИ имя Вышняго над нами Прославить в век не премину."
+      greek-lxx: ἐγὼ δὲ ἐπὶ τῷ ἐλέει σου ἤλπισα ἀγαλλιάσεται ἡ καρδία μου ἐπὶ τῷ
+        σωτηρίῳ σου ᾄσω τῷ Κυρίῳ τῷ εὐεργετήσαντί με καὶ ψαλῶ τῷ ὀνόματι Κυρίου
+        τοῦ ὑψίστου
+      st_text: Я же уповаю на милость Твою; сердце мое возрадуется о спасении Твоем;
+        воспою Господу, облагодетельствовавшему меня [и буду петь имени Господа
+        Всевышнего].

@@ -1,0 +1,2000 @@
+id: 233
+number: 1
+bookId: 8
+verseCount: 22
+title: Глава 1
+verses:
+  - id: 33228
+    number: 1
+    bookId: 8
+    text: В те дни, когда управляли судьи, случился голод на земле. И пошел один
+      человек из Вифлеема Иудейского со своею женою и двумя сыновьями своими
+      жить на полях Моавитских.
+    chapter: 1
+    chapterId: 233
+    parallels:
+      - verseId: 36233
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 2
+        short: Втор:2:9
+      - verseId: 35183
+        bookId: 7
+        bookCode: kniga-sudej-izrailevyh
+        chapter: 2
+        short: Суд:2:16
+      - verseId: 35353
+        bookId: 7
+        bookCode: kniga-sudej-izrailevyh
+        chapter: 6
+        short: Суд:6:4
+      - verseId: 35355
+        bookId: 7
+        bookCode: kniga-sudej-izrailevyh
+        chapter: 6
+        short: Суд:6:6
+    translates:
+      kassian: ""
+      podstr: И случилось когда судили судьи и случился голод в земле, и пошёл человек
+        из Вифлеема Иуды пожить на поле Моава, он и жена его и сыновья его.
+      csya: "И бысть внегда судяху судии, бысть глад на земли. И иде муж от вифлеема
+        иудина обитати в селе моавли, сам и жена его, и два сыны его:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# бы1сть внегдA судsху судіи6, бы1сть глaдъ на земли2. И# и4де мyжъ
+        t виfлее1ма їyдина њбитaти въ селЁ мwaвли, сaмъ и3 женA є3гw2, и3 двA
+        сы1ны є3гw2:"
+      sovr_rbo: Некогда, во времена Судей, в стране случился голод, и один человек из
+        Вифлеема, что в Иудее, переселился в страну Моав вместе с женой и двумя
+        сыновьями.
+      latin: In diebus unius judicis, quando judices praeerant, facta est fames in
+        terra. Abiitque homo de Bethlehem Juda, ut peregrinaretur in regione
+        Moabitide cum uxore sua ac duobus liberis.
+      ukr: І сталось за часу, коли судді судили, то був голод у Краю. І пішов був
+        чоловік з Юдиного Віфлеєму мешкати в моавських полях, він і жінка та
+        двоє синів його.
+      nkjv: Now it came to pass, in the days when the judges ruled, that there was a
+        famine in the land. And a certain man of Bethlehem, Judah, went to dwell
+        in the country of Moab, he and his wife and his two sons.
+      desnitsky: ""
+      mt: ‫    וַיְהִי בִּימֵי שְׁפֹט הַשֹּׁפְטִים וַיְהִי רָעָב בָּאָרֶץ וַיֵּלֶךְ
+        אִישׁ מִבֵּית לֶחֶם יְהוּדָה לָגוּר בִּשְׂדֵי מוֹאָב הוּא וְאִשְׁתּוֹ
+        וּשְׁנֵי בָנָיו׃ ‬
+      romana: In zilele acelea, cand carmuiau in Israel judecatorii, s-a intamplat
+        foamete pe pamant. Atunci un om din Betleemul lui Iuda s-a dus cu femeia
+        Sa ti cu cei doi feciori ai sai sa locuiasca in sesul Moabitilor.
+      francais: Du temps des juges, il y eut une famine dans le pays. Un homme de
+        Bethléhem de Juda partit, avec sa femme et ses deux fils, pour faire un
+        séjour dans le pays de Moab.
+      italian: Al tempo in cui governavano i giudici, ci fu nel paese una carestia e
+        un uomo di Betlemme di Giuda emigrò nella campagna di Moab, con la
+        moglie e i suoi due figli.
+      old_georgian: და იყო, დღეთა მათ მსაჯულთა შჯასა იყო სიყმილი ქუეყანასა ზედა. და
+        წარვიდა კაცი ბეთლემის ჰურიასტანისაჲთ მწირობად სოფელსა მას მოაბასასა, იგი
+        და ცოლი მისი და ორნი ძენი მისნი.
+      portuguese: "Nos dias em que os juízes governavam, houve uma fome na terra; pelo
+        que um homem de Belém de Judá saiu a\rperegrinar no país de Moabe, ele,
+        sua mulher, e seus dois filhos."
+      polish: "W czasach, gdy rządzili sędziowie, nastał głód w kraju. Z Betlejem
+        judzkiego\rwyszedł pewien człowiek ze swoją żoną i swymi dwoma synami,
+        aby osiedlić\rsię w ziemi Moabu."
+      turkish: Hakimlerin egemenlik sürdüğü günlerde İsrail'de kıtlık başladı.
+        Yahuda'nın Beytlehem Kenti'nden bir adam, karısı ve iki oğluyla birlikte
+        geçici bir süre kalmak üzere Moav topraklarına doğru yola çıktı.
+      nrt: В дни, когда правили судьи, в стране случился голод, и один человек из
+        Вифлеема в Иудее вместе со своей женой и двумя сыновьями отправился жить
+        в страну Моав.
+      Macarius: В те дни, когда управляли Судьи, был голод на земле; и пошел один
+        человек из Вифлеема Иудейского с своею женою и двумя сыновьями своими,
+        жить на полях Моавитских.
+      serbian: "А по смрти Исусовој упиташе синови Израиљеви Господа говорећи: Ко ће
+        између нас ићи први на Хананеје да се бије с њима?"
+      bulgarian: В онова време, когато управляваха съдиите, настана глад в страната. И
+        един човек от Витлеем Иудейски отиде да живее в Моавските поля заедно с
+        жена си и двамата си сина.
+      pavskiy: В те дни, когда управляли судьи, был голод на земле; и пошел один
+        человек из Вифлеема иудейскаго с своею женою и двумя сыновьями своими
+        жить на полях моавитских.
+      deutsch: Zu der Zeit, da die Richter regierten, ward eine Teuerung im Lande. Und
+        ein Mann von Bethlehem-Juda zog wallen in der Moabiter Land mit seinem
+        Weibe und seinen zwei Söhnen.
+      ukr2: За часів, коли правили судді, настав у краю голод, і один чоловік з
+        Вифлеєму Юдейського пішов жити в Моав-край, сам він, жінка його й двоє
+        його синів.
+      ukr3: За тих часів, як правували суддї, раз якось був в краю голод. І один
+        чоловік з Юдейського Вефлеєма пійшов зо своєю жінкою та з двома синами
+        своїми жити в край Моабіїв.
+      bel_syomukha: У тыя дні, калі кіравалі судзьдзі, стаўся голад на зямлі. І пайшоў
+        адзін чалавек зь Віфляема Юдэйскага з сваёю жонкаю і двума сынамі жыць
+        на палях Маавіцкіх.
+      old_rbo: В те дни, когда управляли Судьи, был голод на земле; и пошел один
+        человек из Вифлеема Иудейскаго с своею женою и двумя сыновьями своими,
+        жить на полях Моавитских.
+      spbda: В те дни, когда управляли судьи, был голод на земле; и пошел один человек
+        из Вифлеема Иудейскаго жить на полях Моавитских, он и жена его и два
+        сына его.
+      lev-khv: В те дни, когда управляли судьи, был голод на земле; и пошел один
+        человек из Вифлеема Иудейскаго жить на полях Моавитских, он, и жена его,
+        и два сына его.
+      czech: Za dnu, kdy soudili soudcove, nastal v zemi hlad. Tehdy odesel jeden muz
+        z judskeho Betlema se svou zenou a dvema syny, aby pobyval jako host na
+        Moabskych polich.
+      spanish: Al tiempo en que gobernaban los jueces, hubo hambre en la tierra; y
+        salió de Belén de Judá un hombre con su mujer y dos hijos, para habitar
+        como extranjeros en los campos de Moab.
+      greek-lxx: καὶ ἐγένετο ἐν τῷ κρίνειν τοὺς κριτὰς καὶ ἐγένετο λιμὸς ἐν τῇ γῇ καὶ
+        ἐπορεύθη ἀνὴρ ἀπὸ Βαιθλεεμ τῆς Ιουδα τοῦ παροικῆσαι ἐν ἀγρῷ Μωαβ αὐτὸς
+        καὶ ἡ γυνὴ αὐτοῦ καὶ οἱ υἱοὶ αὐτοῦ
+      st_text: В те дни, когда управляли судьи, случился голод на земле. И пошел один
+        человек из Вифлеема Иудейского со своею женою и двумя сыновьями своими
+        жить на полях Моавитских.
+  - id: 33229
+    number: 2
+    bookId: 8
+    text: Имя человека того Елимелех, имя жены его Ноеминь, а имена двух сынов его
+      Махлон и Хилеон; <i>они были</i> Ефрафяне из Вифлеема Иудейского. И пришли
+      они на поля Моавитские и остались там.
+    chapter: 1
+    chapterId: 233
+    parallels:
+      - verseId: 10534
+        bookId: 1
+        bookCode: bytie
+        chapter: 35
+        short: Быт:35:19
+      - verseId: 35100
+        bookId: 7
+        bookCode: kniga-sudej-izrailevyh
+        chapter: 17
+        short: Суд:17:7
+      - verseId: 35101
+        bookId: 7
+        bookCode: kniga-sudej-izrailevyh
+        chapter: 17
+        short: Суд:17:8
+    translates:
+      kassian: ""
+      podstr: И имя человеку Елимелех, и имя жене его Ноеминь, и имя двум сыновьям его
+        Махлон и Хилеон, Ефрафяне из Вифлеема Иуды; и [они] пришли на поле Моава
+        и были там.
+      csya: имя же мужеви елимелех, имя же жене его ноемминь и имя двема сынома его
+        маалон и хелеон, ефрафейстии от вифлеема иудина. И приидоша в село
+        моавле, и беша тамо.
+      averincev: ""
+      ungerov: ""
+      csya_old: и4мz же мyжеви є3лімеле1хъ, и4мz же женЁ є3гw2 ноеммjнь и3 и4мz двэмA
+        сыно1ма є3гw2 маалHнъ и3 хелеHнъ, є3фраfе1йстіи t виfлее1ма їyдина. И#
+        пріидо1ша въ село2 мwaвле, и3 бёша тaмw.
+      sovr_rbo: Этого человека звали Элимелех, его жену — Нооми, а двух его сыновей —
+        Махлон и Килион. Они были родом из Эфраты — из Вифлеема, что в Иудее.
+        Придя в страну Моав, они поселились там.
+      latin: "Ipse vocabatur Elimelech, et uxor ejus Noemi: et duo filii, alter
+        Mahalon, et alter Chelion, Ephrathaei de Bethlehem Juda. Ingressique
+        regionem Moabitidem, morabantur ibi."
+      ukr: А ім'я тому чоловікові Елімелех, а ім'я жінці його Ноомі; і ім'я двох синів
+        його Махлон і Кілйон, ефратяни з Віфлеєму Юдиного. І прийшли вони на
+        моавські поля, та й залишилися.
+      nkjv: The name of the man was Elimelech, the name of his wife was Naomi, and the
+        names of his two sons were Mahlon and Chilion-Ephrathites of Bethlehem,
+        Judah. And they went to the country of Moab and remained there.
+      desnitsky: ""
+      mt: ‫    וְשֵׁם הָאִישׁ אֱלִימֶלֶךְ וְשֵׁם אִשְׁתּוֹ נָעֳמִי וְשֵׁם
+        שְׁנֵי־בָנָיו מַחְלוֹן וְכִלְיוֹן אֶפְרָתִים מִבֵּית לֶחֶם יְהוּדָה
+        וַיָּבֹאוּ שְׂדֵי־מוֹאָב וַיִּהְיוּ־שָׁם׃ ‬
+      romana: Numele omului aceluia era Elimelec; pe femeia sa o chema Noemina, iar
+        numele celor doi feciori ai lor erau Mahlon si Chilion. Acestia erau
+        Efrateni din Betleemul lui Iuda si, venind in sesul Moabitilor, au ramas
+        acolo.
+      francais: Le nom de cet homme était Élimélec, celui de sa femme Naomi, et ses
+        deux fils s'appelaient Machlon et Kiljon; ils étaient Éphratiens, de
+        Bethléhem de Juda. Arrivés au pays de Moab, ils y fixèrent leur demeure.
+      italian: Quest'uomo si chiamava Elimèlech, sua moglie Noemi e i suoi due figli
+        Maclon e Chilion; erano Efratei di Betlemme di Giuda. Giunti nella
+        campagna di Moab, vi si stabilirono.
+      old_georgian: "და სახელი მისი ელიმელექ და სახელი ცოლისა მისისაჲ ნოომინ, და
+        სახელი ორთა მათ ძეთა მისთა: მაალონ და ქელეონ ეფრათელი ბეთლემით
+        ჰურიასტანისაჲთ, და წარვიდეს ქუეყანასა მას მოაბისასა, იყოფოდეს მუნ."
+      portuguese: "Chamava-se este homem Elimeleque, e sua mulher Noêmi, e seus dois
+        filhos se chamavam Malom e Quiliom;\reram efrateus, de Belém de Judá.
+        Tendo entrado no país de Moabe, ficaram ali."
+      polish: "Nazywał się ten człowiek Elimelek, jego żona - Noemi, jego dwaj synowie
+        -\rMachlon i Kilion. Byli oni Efratejczykami z Betlejem judzkiego.
+        Przybyli na\rziemię Moabu i tam zamieszkali."
+      turkish: Adamın adı Elimelek, karısının adı Naomi, oğullarının adları da Mahlon
+        ve Kilyon'du. Yahuda'nın Beytlehem Kenti'nden, Efrat boyundan olan bu
+        kişiler, Moav topraklarına gidip orada yaşamaya başladılar.
+      nrt: Этого человека звали Элимелех, его жену – Ноеминь, а двоих его сыновей –
+        Махлон и Хилеон. Они были ефрафяне из Вифлеема, что находится в Иудее.
+        Они пришли в Моав и жили там.
+      Macarius: Имя человека того Елимелех, имя жены его Ноеминь, а имя двух сынов его
+        Махлон и Хилеон, они были Ефрафяне из Вифлеема Иудейского. И пришли они
+        на поля Моавитские, и жили там.
+      serbian: "И Господ рече: Јуда нека иде; ето, дао сам му земљу у руке."
+      bulgarian: "Името на тоя човек беше Елимелех, името на жена му - Ноемин, а
+        двамата му синове се наричаха Махлон и Хилеон: те бяха ефратци от
+        Витлеем Иудейски. И дойдоха в Моавските поля и останаха там."
+      pavskiy: Имя человека того Елимелех, а имя жены его Ноеминь, имя же двух сынов
+        его Махлон и Хилеон, они были ефрафяне из Вифлеема иудейскаго. И пришли
+        они на поля моавитския, и жили там.
+      deutsch: Der hieß Elimelech und sein Weib Naemi und seine zwei Söhne Mahlon und
+        Chiljon; die waren Ephrather von Bethlehem-Juda. Und da sie kamen ins
+        Land der Moabiter, blieben sie daselbst.
+      ukr2: На ім'я чоловікові було Елімелех, жінці ж його Ноема, а двом синам -
+        Махлон та Кілйон; ефратії з Вифлеєму Юдейського. Прибули вони в
+        Моав-край і там зосталися.
+      ukr3: Чоловік той на ймення Елимелех, жінка його на ймення Ноема, а два сини
+        його на ймення Махлон та Хілеон; були вони з Ефрату, з Юдейського
+        Вефлеєма. І прибули вони в край Моабіїв та й зістались там.
+      bel_syomukha: Імя таго чалавека Элімэлэх, імя жонкі ягонай Наэмінь, а імя двух
+        сыноў ягоных Махлон і Хілеон; яны былі Эфрафяне зь Віфляема Юдэйскага. І
+        прыйшлі яны на палі Маавіцкія і засталіся там.
+      old_rbo: Имя человека того Елимелех, имя жены его Ноеминь, а имя двух сынов его
+        Махлон и Хилеон; они были Ефраняне из Вифлеема Иудейскаго. И пришли они
+        на поля Моавитския, и жили там.
+      spbda: Имя же человека того Елимелех, имя жены его Ноеминь, а имя двух сынов его
+        Махлон и Хилеон; они были Ефрафяне из Вифлеема Иудейскаго. И пришли они
+        на поля Моавитския, и остались там.
+      lev-khv: "А имя человека того: Елимелех, и имя жены его: Ноеминь, а имя двух
+        сынов его: Махлон и Хилеон, Ефрафяне из Вифлеема Иудейскаго. И пришли
+        они на поля Моавитския, и остались там."
+      czech: Jmenoval se Elimelek, jeho zena Noemi a dva jeho synove Machlon a Kiljon.
+        Byli to Efratejci z judskeho Betlema. Prisli na Moabska pole a prebyvali
+        tam.
+      spanish: Llamábase el hombre Elimelec; la mujer, Noemí, y los dos hijos, Majalón
+        el uno y Quelyón el otro, efrateos, de Belén de Judá. Llegaron a la
+        tierra de Moab y habitaron allí.
+      greek-lxx: καὶ ὄνομα τῷ ἀνδρὶ Αβιμελεχ καὶ ὄνομα τῇ γυναικὶ αὐτοῦ Νωεμιν καὶ
+        ὄνομα τοῖς δυσὶν υἱοῖς αὐτοῦ Μααλων καὶ Χελαιων Εφραθαῖοι ἐκ Βαιθλεεμ
+        τῆς Ιουδα καὶ ἤλθοσαν εἰς ἀγρὸν Μωαβ καὶ ἦσαν ἐκεῖ
+      st_text: Имя человека того Елимелех, имя жены его Ноеминь, а имена двух сынов
+        его Махлон и Хилеон; <i>они были</i> Ефрафяне из Вифлеема Иудейского. И
+        пришли они на поля Моавитские и остались там.
+  - id: 33230
+    number: 3
+    bookId: 8
+    text: И умер Елимелех, муж Ноемини, и осталась она с двумя сыновьями своими.
+    chapter: 1
+    chapterId: 233
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И умер Елимелех муж Ноеминь, и была оставлена она и два сына её.
+      csya: "И умре елимелех муж ноемминин, и остася она и оба сыны ея:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# ќмре є3лімеле1хъ мyжъ ноеммjнинъ, и3 њстaсz nнA и3 џба сы1ны є3S:"
+      sovr_rbo: Элимелех, муж Нооми, умер, и она осталась одна с двумя сыновьями.
+      latin: "Et mortuus est Elimelech maritus Noemi: remansitque ipsa cum filiis."
+      ukr: І помер Елімелех, муж Ноомі, і зосталася вона та два їхні сини.
+      nkjv: "Then Elimelech, Naomi's husband, died; and she was left, and her two
+        sons. "
+      desnitsky: ""
+      mt: ‫    וַיָּמָת אֱלִימֶלֶךְ אִישׁ נָעֳמִי וַתִּשָּׁאֵר הִיא וּשְׁנֵי בָנֶיהָ׃
+        ‬
+      romana: Dupa un timp Elimelec, barbatul Noeminei, a murit ea a ramas cu cei doi
+        feciori ai sai.
+      francais: Élimélec, mari de Naomi, mourut, et elle resta avec ses deux fils.
+      italian: Poi Elimèlech, marito di Noemi, morì ed essa rimase con i due figli.
+      old_georgian: და მოკუდა ელიმელექ, ქმარი იგი ნოომინისი, და დაშთა იგი და ორნი ძენი მისნი.
+      portuguese: E morreu Elimeleque, marido de Noêmi; e ficou ela com os seus dois
+        filhos,
+      polish: Elimelek, mąż Noemi, zmarł, a Noemi pozostała ze swymi dwoma synami.
+      turkish: Naomi, kocası Elimelek ölünce iki oğluyla yalnız kaldı.
+      nrt: Элимелех, муж Ноемини, умер, и она осталась с двумя сыновьями.
+      Macarius: И умер Елимелех, муж Ноемини, и осталась она с двумя сынами своими.
+      serbian: "А Јуда рече Симеону, брату својему: Хајде са мном на мој дио да се
+        бијемо с Хананејима; пак ћу и ја ићи с тобом на твој дио. И пође Симеон
+        с њим."
+      bulgarian: Елимелех, мъжът на Ноемин, умря, и тя остана с двамата си сина.
+      pavskiy: И умер Елимелех, муж Ноемини, и осталась она с двумя сынами своими.
+      deutsch: Und Elimelech, der Naemi Mann, starb, und sie blieb übrig mit ihren
+        zwei Söhnen.
+      ukr2: Згодом помер Елімелех, чоловік Ноеми, і вона лишилася сама з двома синами.
+      ukr3: І помер Елимелех, чоловік Ноемин, і вона зісталась з двома своїми синами.
+      bel_syomukha: І памёр Элімэлэх, муж Наэміні, і засталася яна з двума сынамі сваімі.
+      old_rbo: И умер Елимелех, муж Ноемини, и осталась она с двумя сынами своими.
+      spbda: И умер Елимелех, муж Ноемини, и осталась она с двумя сыновьями своими.
+      lev-khv: И умер Елимелех, муж Ноемини, и осталась она с двумя сыновьями своими.
+      czech: Ale Noemin muz Elimelek zemrel a ona zustala s obema syny sama.
+      spanish: Murió Elimelec, marido de Noemí, y se quedó la mujer con los dos hijos,
+      greek-lxx: καὶ ἀπέθανεν Αβιμελεχ ὁ ἀνὴρ τῆς Νωεμιν καὶ κατελείφθη αὐτὴ καὶ οἱ
+        δύο υἱοὶ αὐτῆς
+      st_text: И умер Елимелех, муж Ноемини, и осталась она с двумя сыновьями своими.
+  - id: 33231
+    number: 4
+    bookId: 8
+    text: Они взяли себе жен из Моавитянок, имя одной Орфа, а имя другой Руфь, и
+      жили там около десяти лет.
+    chapter: 1
+    chapterId: 233
+    parallels:
+      - verseId: 27706
+        bookId: 16
+        bookCode: kniga-neemii
+        chapter: 13
+        short: Неем:13:23
+    translates:
+      kassian: ""
+      podstr: И [они] взяли себе жён Моавитянок, имя одной Орфа, и имя второй Руфь; и
+        жили там приблизительно десять лет.
+      csya: "и пояста себе жены моавитския: имя единей орфа и имя вторей руфь: и жиша
+        тамо до десяти лет."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 поsста себЁ жєны2 мwав‡тскіz: и4мz є3ди1нэй nрфA и3 и4мz вторёй
+        рyfь: и3 жи1ша тaмw до десzти2 лётъ."
+      sovr_rbo: Они взяли себе в жены моавитянок; одну звали Орпа, а другую — Руфь.
+        Прожив там около десяти лет,
+      latin: Qui acceperunt uxores Moabitidas, quarum una vocabatur Orpha, altera vero
+        Ruth. Manseruntque ibi decem annis,
+      ukr: І взяли вони собі за жінок моавітянок, ім'я одній Орпа, а ім'я другій Рут.
+        І сиділи вони там близько десяти літ.
+      nkjv: "Now they took wives of the women of Moab: the name of the one was Orpah,
+        and the name of the other Ruth. And they dwelt there about ten years."
+      desnitsky: ""
+      mt: ‫    וַיִּשְׂאוּ לָהֶם נָשִׁים מֹאֲבִיּוֹת שֵׁם הָאַחַת עָרְפָּה וְשֵׁם
+        הַשֵּׁנִית רוּת וַיֵּשְׁבוּ שָׁם כְּעֶשֶׂר שָׁנִים׃ ‬
+      romana: "Acestia si-au luat sotii dintre moabitence: numele uneia era Orfa, iar
+        numele celeilalte era Rut. Acestia au trait acolo ca la zece ani."
+      francais: Ils prirent des femmes Moabites, dont l'une se nommait Orpa, et
+        l'autre Ruth, et ils habitèrent là environ dix ans.
+      italian: Questi sposarono donne di Moab, delle quali una si chiamava Orpa e
+        l'altra Rut. Abitavano in quel luogo da circa dieci anni,
+      old_georgian: და მოიყვანნეს ძეთა მათ მისთა თავისა თჳსისა ცოლნი მოაბელნი, სახელი
+        ერთისა მის ურიფა და სახელი მეორისა მის რუთ. და იყოფოდეს მუნ ვიდრე ათად
+        წლადმდე.
+      portuguese: "os quais se casaram com mulheres moabitas; uma destas se chamava
+        Orfa, e a outra Rute; e moraram ali quase\rdez anos."
+      polish: "Oni wzięli sobie za żony Moabitki: jedna nazywała się Orpa, druga
+        nazywała\rsię Rut. Mieszkali tam około dziesięciu lat."
+      turkish: İki oğul Moav kızlarından kendilerine birer eş aldılar. Kızlardan
+        birinin adı Orpa, ötekinin adı Rut'tu. Orada on yıl kadar yaşadıktan
+        sonra,
+      nrt: Они женились на моавитянках – одну из них звали Орфа, а другую Руфь. После
+        того как они прожили там около десяти лет,
+      Macarius: Они взяли себе жен из Моавитянок; имя одной Орфа, а имя другой Руфь; и
+        жили там около десяти лет.
+      serbian: И изиде Јуда; и даде им Господ Хананеје и Ферезеје у руке, и побише их
+        у Везеку десет тисућа људи.
+      bulgarian: Те си взеха за жени моавки, - на едната името беше Орфа, а на другата
+        - Рут; и живяха там около десет години.
+      pavskiy: "Они взяли себе жен из моавитянок; имя одной Орфа, а имя другой Руфь: и
+        жили там около десяти лет."
+      deutsch: Die nahmen moabitische Weiber; eine hieß Orpa, die andere Ruth. Und da
+        sie daselbst gewohnt hatten ungefähr zehn Jahre,
+      ukr2: "Одружились вони з моавитянками: одній було на ім'я Орпа, а другій - Рута.
+        І жили вони там трохи не 10 років."
+      ukr3: "І одружились вони з Моабитянками: одна на ймя Орфа, а другу звали Рут; і
+        жили там трохи не десять років."
+      bel_syomukha: Яны ўзялі сабе жонак з Маавіцянак, - імя адной Орфа, а імя другой
+        Рут, - і жылі там каля дзесяці гадоў.
+      old_rbo: Они взяли себе жен из Моавитянок; имя одной Орфа, а имя другой Руфь; и
+        жили там около десяти лет.
+      spbda: И взяли они себе жен из Моавитянок; имя одной Орфа, а имя другой Руфь; и
+        жили там около десяти лет.
+      lev-khv: "И взяли они себе жен из Моавитянок; имя одной: Орфа, а имя другой:
+        Руфь; и жили там около десяти лет."
+      czech: Ti se ozenili s Moabkami. Jedna se jmenovala Orpa, druha Rut. Sidlili tam
+        asi deset let.
+      spanish: que habían tomado mujeres moabitas, una de nombre Orfa y la otra Rut.
+        Permanecieron allí por unos diez años,
+      greek-lxx: καὶ ἐλάβοσαν ἑαυτοῖς γυναῖκας Μωαβίτιδας ὄνομα τῇ μιᾷ Ορφα καὶ ὄνομα
+        τῇ δευτέρᾳ Ρουθ καὶ κατῴκησαν ἐκεῖ ὡς δέκα ἔτη
+      st_text: Они взяли себе жен из Моавитянок, имя одной Орфа, а имя другой Руфь, и
+        жили там около десяти лет.
+  - id: 33232
+    number: 5
+    bookId: 8
+    text: Но потом и оба [сына ее], Махлон и Хилеон, умерли, и осталась та женщина
+      после обоих своих сыновей и после мужа своего.
+    chapter: 1
+    chapterId: 233
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И умерли и даже оба, Махлон и Хилеон, и была оставлена жена от мужа её и
+        от двух сыновей её.
+      csya: И умроста оба сыны ея, маалон и хелеон, и остася жена от мужа своего и от
+        обоих сынов ея.
+      averincev: ""
+      ungerov: ""
+      csya_old: И# ўмро1ста џба сы1ны є3S, маалHнъ и3 хелеHнъ, и3 њстaсz женA t мyжа
+        своегw2 и3 t nбои1хъ сынHвъ є3S.
+      sovr_rbo: Махлон и Килион тоже умерли. Нооми пережила обоих своих сыновей и мужа.
+      latin: "et ambo mortui sunt, Mahalon videlicet et Chelion: remansitque mulier
+        orbata duobus liberis ac marito."
+      ukr: І повмирали й вони обоє, Махлон та Кілйон. І позосталася та жінка по двох
+        дітях своїх та по чоловікові своєму.
+      nkjv: Then both Mahlon and Chilion also died; so the woman survived her two sons
+        and her husband.
+      desnitsky: ""
+      mt: ‫    וַיָּמוּתוּ גַם־שְׁנֵיהֶם מַחְלוֹן וְכִלְיוֹן וַתִּשָּׁאֵר הָאִשָּׁה
+        מִשְּׁנֵי יְלָדֶיהָ וּמֵאִישָׁהּ׃ ‬
+      romana: Dupa aceea au murit amandoi feciorii ei, Mahlon si Chilion si a ramas
+        femeia aceea si fara barbatul sau si fara cei doi feciori ai sai.
+      francais: Machlon et Kiljon moururent aussi tous les deux, et Naomi resta privée
+        de ses deux fils et de son mari.
+      italian: quando anche Maclon e Chilion morirono tutti e due e la donna rimase
+        priva dei suoi due figli e del marito.
+      old_georgian: და მოსწყდეს ორნივე იგი ძენი მისი, მალონ და ქალეონ. და დაშთა მარტო
+        დედაკაცი იგი ქმრისაგან თჳსისა და ორთაგან ძეთა მისთა.
+      portuguese: "E morreram também os dois, Malom e Quiliom, ficando assim a mulher
+        desamparada de seus dois filhos e de seu\rmarido."
+      polish: "Obaj - tak Machlon, jak i Kilion - również zmarli, a kobieta
+        pozostała,\rprzeżywszy obu swych synów i swego męża."
+      turkish: Mahlon da, Kilyon da öldü. Böylece kocasıyla iki oğlunu yitiren Naomi
+        yapayalnız kaldı.
+      nrt: Махлон и Хилеон тоже умерли, и Ноеминь осталась без своих сыновей и мужа.
+      Macarius: Но потом и оба [сына ее,] Махлон и Хилеон, умерли; и осталась та
+        женщина после обоих своих детей и после мужа своего.
+      serbian: Јер нађоше Адони-Везека у Везеку и ударише на њ, и побише Хананеје и
+        Ферезеје.
+      bulgarian: Но сетне и двамата (й сина), Махлон и Хилеон, умряха, и остана тая
+        жена след двамата си сина и след мъжа си.
+      pavskiy: Но потом и оба сына ея Махлон и Хилеон умерли; и осталась та женщина
+        после обоих своих детей и после мужа своего.
+      deutsch: starben sie alle beide, Mahlon und Chiljon, daß das Weib überlebte
+        beide Söhne und ihren Mann.
+      ukr2: Але згодом померли й вони обидва, Махлон і Кілйон, і лишилась вона сама по
+        смерті обох синів і свого чоловіка.
+      ukr3: Але згодом обидва сини її, Махлон і Хілеон, померли, і зісталась та жінка
+        після обох своїх синів і після свого чоловіка.
+      bel_syomukha: Але пасьля і абодва сыны яе, Махлон і Хілеон, памерлі, і засталася
+        тая жанчына пасьля абодвух сваіх сыноў і пасьля мужа свайго.
+      old_rbo: Но потом и оба [сына ея,] Махлон и Хилеон, умерли; и осталась та
+        женщина после обоих своих детей и после мужа своего.
+      spbda: Умерли и они оба, Махлон и Хилеон; и осталась та женщина после обоих
+        детей своих и после мужа своего.
+      lev-khv: Умерли и они оба, Махлон и Хилеон; и осталась та женщина после обоих
+        детей своих и после мужа своего.
+      czech: Oba, Machlon i Kiljon, rovnez zemreli, a tak ta zena zustala sama, bez
+        deti i bez muze.
+      spanish: y murieron ambos, Majalón y Quelyón, quedándose la mujer sin hijos y
+        sin marido.
+      greek-lxx: καὶ ἀπέθανον καί γε ἀμφότεροι Μααλων καὶ Χελαιων καὶ κατελείφθη ἡ
+        γυνὴ ἀπὸ τοῦ ἀνδρὸς αὐτῆς καὶ ἀπὸ τῶν δύο υἱῶν αὐτῆς
+      st_text: Но потом и оба [сына ее], Махлон и Хилеон, умерли, и осталась та
+        женщина после обоих своих сыновей и после мужа своего.
+  - id: 33233
+    number: 6
+    bookId: 8
+    text: И встала она со снохами своими и пошла обратно с полей Моавитских, ибо
+      услышала на полях Моавитских, что Бог посетил народ Свой и дал им хлеб.
+    chapter: 1
+    chapterId: 233
+    parallels:
+      - verseId: 9334
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 8
+        short: 4 Цар:8:3
+    translates:
+      kassian: ""
+      podstr: И встала она и две невестки её и обратились они с поля Моава, потому что
+        они услышали на поле Моава что посетил Господь народ Его [чтобы] дать им
+        хлеба.
+      csya: "И воста она и обе снохи ея, и возвратишася с села моавля: зане услыша на
+        селе моавли, яко присети Господь людий своих дати им хлебы."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# востA nнA и3 џбэ снwхи2 є3S, и3 возврати1шасz съ селA мwaвлz:
+        зане2 ўслы1ша на селЁ мwaвли, ћкw присэти2 гDь людjй свои1хъ дaти и5мъ
+        хлёбы."
+      sovr_rbo: Узнав, что Господь вспомнил о своем народе и дал ему пропитание, Нооми
+        решила вернуться на родину, а с нею пошли и обе ее снохи.
+      latin: "Et surrexit ut in patriam pergeret cum utraque nuru sua de regione
+        Moabitide: audierat enim quod respexisset Dominus populum suum, et
+        dedisset eis escas."
+      ukr: І встала вона та невістки її, і вернулися з моавських піль, бо почула на
+        моавському полі, що Господь згадав про народ Свій, даючи їм хліба.
+      nkjv: Then she arose with her daughters-in-law that she might return from the
+        country of Moab, for she had heard in the country of Moab that the Lord
+        had visited His people by giving them bread.
+      desnitsky: ""
+      mt: ‫    וַתָּקָם הִיא וְכַלֹּתֶיהָ וַתָּשָׁב מִשְּׂדֵי מוֹאָב כִּי שָׁמְעָה
+        בִּשְׂדֵה מוֹאָב כִּי־פָקַד יְהוָה אֶת־עַמּוֹ לָתֵת לָהֶם לָחֶם׃ ‬
+      romana: Atunci s-a hotarat ea cu nurorile sale sa se intoarca din sesul
+        Moabitilor, caci auzise ea in sesul Moabitilor ca Dumnezeu a cercetat pe
+        poporul Sau si i-a dat paine.
+      francais: Puis elle se leva, elle et ses belles-filles, afin de quitter le pays
+        de Moab, car elle apprit au pays de Moab que l'Éternel avait visité son
+        peuple et lui avait donné du pain.
+      italian: Allora si alzò con le sue nuore per andarsene dalla campagna di Moab,
+        perché aveva sentito dire che il Signore aveva visitato il suo popolo,
+        dandogli pane.
+      old_georgian: და აღდგა დედაკაცი იგი და ორნივე იგი ძის ცოლნი მისნი და მოიქცეს
+        იგინი ქუეყანით მოაბისაჲთ სოფლად ჰურიასტანისა, რამეთუ ესმა მათ ქუეყანასა
+        მას მოაბისასა, ვითარმედ მოჰხედა უფალმან ერსა თჳსსა მოცემად ნაყოფისა.
+      portuguese: "Então se levantou ela com as suas noras, para voltar do país de
+        Moabe, porquanto nessa terra tinha ouvido que e\rSenhor havia visitado o
+        seu povo, dando-lhe pão."
+      polish: "Wyruszyła więc Noemi i z nią jej synowe, aby wrócić z ziemi Moabu,
+        ponieważ\rusłyszała w ziemi Moabu, że Pan nawiedził swój lud, dając mu
+        chleb."
+      turkish: Naomi, Moav topraklarındayken RAB'bin kendi halkının yardımına yetişip
+        yiyecek sağladığını duyunca gelinleriyle oradan dönmeye hazırlandı.
+      nrt: Услышав в Моаве, что Господь пришел на помощь Своему народу, дав им пищу,
+        Ноеминь со своими снохами приготовилась вернуться домой.
+      Macarius: И встала она с снохами своими, и пошла обратно с полей Моавитских; ибо
+        услышала на полях Моавитских, что Бог посетил народ Свой и дал им хлеб.
+      serbian: И побјеже Адони-Везек, а они га потјераше и ухватише га, одсјекоше му
+        палце у руку и у ногу.
+      bulgarian: Тогава тя се дигна със снахите си и се върна от Моавските поля,
+        понеже бе чула в Моавските поля, че Бог посетил Своя народ и му дал
+        хляб.
+      pavskiy: И встала она с снохами своими, и пошла обратно с полей моавитских; ибо
+        услышала на полях моавитских, что Бог посетил народ Свой и дал им хлеб.
+      deutsch: Da machte sie sich auf mit ihren zwei Schwiegertöchtern und zog wieder
+        aus der Moabiter Lande; denn sie hatte erfahren im Moabiterlande, daß
+        der Herr sein Volk hatte heimgesucht und ihnen Brot gegeben.
+      ukr2: Тоді вибралася жінка з невістками в дорогу додому, з Моав-краю, бо почула
+        в Моав-краї, що Господь змилосердився над своїм народом і дав йому хліб.
+      ukr3: І вибралась вона з своїми невістками, та й пійшла з Моабійського краю
+        назад, бо перечула в краю Моабіїв, що Бог показав свою ласку для свого
+        народа й дав йому хлїб.
+      bel_syomukha: І ўстала яна зь нявесткамі сваімі і пайшла назад з палёў
+        Маавіцкіх, бо пачула на палях Маавіцкіх, што Бог наведаў народ Свой і
+        даў ім хлеб.
+      old_rbo: И встала она с снохами своими, и пошла обратно с полей Моавитских; ибо
+        услышала на полях Моавитских, что Бог посетил народ Свой и дал им хлеб.
+      spbda: И встала она с снохами своими, и пошла обратно с полей Моавитских; ибо
+        услышала на полях Моавитских, что Бог призрел на народ свой и дал им
+        хлеб.
+      lev-khv: И встала она с снохами своими, и пошла обратно с полей Моавитских,
+        потому что услышала на полях Моавитских, что Бог призрел на народ Свой и
+        дал им хлеб.
+      czech: Proto se prichystala se svymi snachami k navratu z Moabskych poli.
+        Uslysela totiz na Moabskych polich, ze Hospodin se opet priklonil ke
+        svemu lidu a dal mu chleb.
+      spanish: Levantóse la mujer con sus dos nueras para dejar la tierra de Moab,
+        pues había oído decir que había mirado Yavé a su pueblo, dándole pan.
+      greek-lxx: καὶ ἀνέστη αὐτὴ καὶ αἱ δύο νύμφαι αὐτῆς καὶ ἀπέστρεψαν ἐξ ἀγροῦ Μωαβ
+        ὅτι ἤκουσαν ἐν ἀγρῷ Μωαβ ὅτι ἐπέσκεπται Κύριος τὸν λαὸν αὐτοῦ δοῦναι
+        αὐτοῖς ἄρτους
+      st_text: И встала она со снохами своими и пошла обратно с полей Моавитских, ибо
+        услышала на полях Моавитских, что Бог посетил народ Свой и дал им хлеб.
+  - id: 33234
+    number: 7
+    bookId: 8
+    text: И вышла она из того места, в котором жила, и обе снохи ее с нею. Когда они
+      шли по дороге, возвращаясь в землю Иудейскую,
+    chapter: 1
+    chapterId: 233
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И вышла она из места, где была там, и две невестки её с ней; и они шли
+        по пути [чтобы] вернуться в землю Иуды.
+      csya: И отъиде от места, идеже бе, она и обе снохи ея с нею, и идяху в путь
+        возвратитися в землю иудину.
+      averincev: ""
+      ungerov: ""
+      csya_old: И# tи1де t мёста, и3дёже бЁ, nнA и3 џбэ снwхи2 є3S съ не1ю, и3 и3дsху
+        въ пyть возврати1тисz въ зе1млю їyдину.
+      sovr_rbo: Нооми пустилась в путь, и ее снохи отправились с ней. По дороге в Иудею
+      latin: "Egressa est itaque de loco peregrinationis suae, cum utraque nuru: et
+        jam in via revertendi posita in terram Juda,"
+      ukr: І вийшла вона з того місця, де була там, та обидві невістки з нею, та й
+        пішли дорогою, щоб вернутися до Юдиного краю.
+      nkjv: Therefore she went out from the place where she was, and her two
+        daughters-in-law with her; and they went on the way to return to the
+        land of Judah.
+      desnitsky: ""
+      mt: ‫    וַתֵּצֵא מִן־הַמָּקוֹם אֲשֶׁר הָיְתָה־שָׁמָּה וּשְׁתֵּי כַלֹּתֶיהָ
+        עִמָּהּ וַתֵּלַכְנָה בַדֶּרֶךְ לָשׁוּב אֶל־אֶרֶץ יְהוּדָה׃ ‬
+      romana: Deci a plecat ea din locul acela in care traia, impreuna cu cele doua
+        nurori ale sale. Dar mergand ele pe cale, pentru a se intoarce in
+        pamantul lui Iuda,
+      francais: Elle sortit du lieu qu'elle habitait, accompagnée de ses deux
+        bellesfilles, et elle se mit en route pour retourner dans le pays de
+        Juda.
+      italian: Partì dunque con le due nuore da quel luogo e mentre era in cammino per
+        tornare nel paese di Giuda
+      old_georgian: და გამოვიდა იგი მიერ ქუეყანით და ორნი ძის ცოლნი მისნი მის თანა. და
+        მოვიდეს იგინი გზასა მოქცევად ქუეყანას მას ჰურიასტანისასა.
+      portuguese: "Pelo que saiu de lugar onde estava, e com ela as duas noras. Indo
+        elas caminhando para voltarem para a terra de\rJudá,"
+      polish: "Wyszła z tej miejscowości, którą tam zamieszkiwała, obie jej synowe z
+        nią, i\rwyruszyły w drogę powrotną do ziemi Judy."
+      turkish: Onlarla birlikte bulunduğu yerden ayrıldı ve Yahuda ülkesine dönmek
+        üzere yola koyuldu.
+      nrt: Вместе со своими снохами она покинула место, где жила, и отправилась в
+        дорогу, которая должна была привести их обратно в землю Иуды.
+      Macarius: И вышла она из того места, в котором жила, и обе снохи ее с нею. Когда
+        они шли по дороге, возвращаясь в землю Иудейскую,
+      serbian: "Тада рече Адони-Везек: Седамдесет царева одсјеченијех палаца у руку и
+        у ногу купише што бјеше под мојим столом; како сам чинио, тако ми плати
+        Бог. И одведоше га у Јерусалим, и ондје умрије."
+      bulgarian: И тя тръгна от онова място, дето живееше, и двете й снахи с нея.
+        Когато вървяха по пътя, връщайки се в Иудейската земя,
+      pavskiy: И вышла она из того места, в котором жила, и обе снохи ея с нею. Когда
+        оне шли по дороге, возвращаясь в землю иудейскую,
+      deutsch: Und sie ging aus von dem Ort, da sie gewesen war, und ihre beiden
+        Schwiegertöchter mit ihr. Und da sie ging auf dem Wege, daß sie
+        wiederkäme ins Land Juda,
+      ukr2: От і пустилась вона з того місця, де жила, в дорогу, а з нею обидві її
+        невістки; і йшли вони шляхом назад у Юдейську землю.
+      ukr3: От вийшла вона з того місця, де жила, а з нею обидві її невістки; і йшли
+        вони шляхом, вертаючись в Юдейський край.
+      bel_syomukha: І выйшла яна з той мясьціны, у якой жыла, і абедзьве нявесткі яе
+        зь ёю. Калі яны ішлі па дарозе, вяртаючыся ў зямлю Юдэйскую,
+      old_rbo: И вышла она из того места, в котором жила, и обе снохи ея с нею. Когда
+        оне шли по дороге, возвращаясь в землю Иудейскую,
+      spbda: И вышла она из того места, в котором жила, и обе снохи ея с нею. Когда
+        оне шли по дороге, возвращаясь в землю Иудейскую,
+      lev-khv: И вышла она из того места, в котором жила, и обе снохи ея с нею. И оне
+        пошли по дороге, чтобы возвратиться в землю Иудейскую;
+      czech: Odesla tedy se svymi snachami z mista, kde prebyvala. Kdyz se vracely do
+        judske zeme,
+      spanish: Salió con las dos nueras del lugar donde estaba y emprendió el camino
+        para volver a la tierra de Judá.
+      greek-lxx: καὶ ἐξῆλθεν ἐκ τοῦ τόπου οὗ ἦν ἐκεῖ καὶ αἱ δύο νύμφαι αὐτῆς μετ᾿
+        αὐτῆς καὶ ἐπορεύοντο ἐν τῇ ὁδῷ τοῦ ἐπιστρέψαι εἰς τὴν γῆν Ιουδα
+      st_text: И вышла она из того места, в котором жила, и обе снохи ее с нею. Когда
+        они шли по дороге, возвращаясь в землю Иудейскую,
+  - id: 33235
+    number: 8
+    bookId: 8
+    text: "Ноеминь сказала двум снохам своим: пойдите, возвратитесь каждая в дом
+      матери своей; да сотворит Господь с вами милость, как вы поступали с
+      умершими и со мною!"
+    chapter: 1
+    chapterId: 233
+    parallels:
+      - verseId: 10834
+        bookId: 1
+        bookCode: bytie
+        chapter: 43
+        short: Быт:43:14
+      - verseId: 33260
+        bookId: 8
+        bookCode: kniga-ruf
+        chapter: 2
+        short: Руф:2:11
+    translates:
+      kassian: ""
+      podstr: "И сказала Ноеминь невесткам её: Идите поэтому вернитесь каждая в дом
+        матери её; пусть сотворит Господь с вами милость, как вы сделали с
+        умершими и со мной;"
+      csya: "И рече ноемминь обема снохама своима: идите убо, возвратитеся каяждо в
+        дом отца своего: да сотворит Господь с вами милость, якоже сотвористе со
+        умершими и со мною:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 ноеммjнь nбёма снохaма свои1ма: и3ди1те ў2бо, возврати1тесz
+        кazждо въ до1мъ nтцA своегw2: да сотвори1тъ гDь съ вaми ми1лость, ћкоже
+        сотвори1сте со ўме1ршими и3 со мно1ю:"
+      sovr_rbo: "Нооми сказала своим снохам: «Возвращайтесь домой, в ваши родные
+        семьи! Пусть Господь будет добр к вам, как и вы были добры к вашим
+        покойным мужьям и ко мне."
+      latin: "dixit ad eas: Ite in domum matris vestrae: faciat vobiscum Dominus
+        misericordiam, sicut fecistis cum mortuis et mecum."
+      ukr: "І сказала Ноомі до двох своїх невісток: Ідіть, верніться кожна до дому
+        своєї матері. І нехай Господь зробить із вами милість, як ви зробили з
+        померлими та зо мною."
+      nkjv: "And Naomi said to her two daughters-in-law, \"Go, return each to her
+        mother's house. The Lord deal kindly with you, as you have dealt with
+        the dead and with me. "
+      desnitsky: ""
+      mt: ‫    וַתֹּאמֶר נָעֳמִי לִשְׁתֵּי כַלֹּתֶיהָ לֵכְנָה שֹּׁבְנָה אִשָּׁה לְבֵית
+        אִמָּהּ *יעשה **יַעַשׂ יְהוָה עִמָּכֶם חֶסֶד כַּאֲשֶׁר עֲשִׂיתֶם
+        עִם־הַמֵּתִים וְעִמָּדִי׃ ‬
+      romana: 'Noemina a zis catre cele doua nurori ale sale: "Intoarceti-va si va
+        duceti fiecare la casa mamei voastre; si sa faca Domnul mila cu voi, cum
+        ati facut si voi cu cei morti si cu mine!'
+      francais: "Naomi dit alors à ses deux belles-filles: Allez, retournez chacune à
+        la maison de sa mère! Que l'Éternel use de bonté envers vous, comme vous
+        l'avez fait envers ceux qui sont morts et envers moi!"
+      italian: 'Noemi disse alle due nuore: "Andate, tornate ciascuna a casa di vostra
+        madre; il Signore usi bontà con voi, come voi avete fatto con quelli che
+        sono morti e con me!'
+      old_georgian: "და ჰრქუა ნოომინ ორთა მათ ძის ცოლთა მისთა: წარვედით და მიიქეცით
+        თქუენ სახიდ მამისა თჳსისა! და ყავნ უფალმან თქუენ თანა წყალობაჲ,
+        ვითარცა-იგი ჰყავთ მკუდართა მათ თანა და ჩემ თანა!"
+      portuguese: "disse Noêmi às suas noras: Ide, voltai, cada uma para a casa de sua
+        mãe; e o Senhor use convosco de\rbenevolência, como vós o fizestes com
+        os falecidos e comigo."
+      polish: "Powiedziała Noemi do obu swych synowych: ”Odejdźcie, wróćcie każda
+        do\rdomu swej matki, a Pan niech postępuje z wami według swej dobroci,
+        tak\rjak wy postępowałyście wobec zmarłych i wobec mnie!"
+      turkish: Yolda onlara, «Analarınızın evine dönün» dedi. «Ölmüşlerimize ve bana
+        nasıl iyilik ettinizse, RAB de size iyilik etsin.
+      nrt: "Ноеминь сказала своим снохам: – Возвратитесь каждая в дом своей матери.
+        Пусть Господь будет милостив к вам, как вы были милостивы к вашим
+        мертвым и ко мне."
+      Macarius: "Ноеминь сказала двум снохам своим: пойдите, возвратитесь каждая в дом
+        матери своей. Да сотворит Господь с вами милость, как вы поступали с
+        умершими и со мною."
+      serbian: Јер синови Јудини ударише на Јерусалим и узеше га, и исјекоше грађане
+        оштријем мачем, а град сажегоше огњем.
+      bulgarian: "Ноемин каза на двете си снахи: идете, върнете се всяка в майчината
+        си къща; нека Господ ви стори милост, според както сте постъпвали с
+        покойните и с мене!"
+      pavskiy: "Ноеминь сказала двум снохам своим: подите, возвратитесь каждая в дом
+        матери своей. Да сотворит Господь с вами милость, как вы поступали с
+        умершими и со мною."
+      deutsch: "sprach sie zu ihren beiden Schwiegertöchtern: Geht hin und kehrt um,
+        eine jegliche zu ihrer Mutter Haus. Der Herr tue an euch Barmherzigkeit,
+        wie ihr an den Toten und mir getan habt!"
+      ukr2: "І сказала Ноема двом своїм невісткам: “Ідіть, повертайтесь кожна до хати
+        своєї матері, і нехай Господь учинить вам ласку, як ви вчинили з
+        померлими й зо мною."
+      ukr3: "І каже Ноема двом своїм невісткам: Вернїться ви та йдїть кожна до хати до
+        своєї матері. Нехай Господь покаже вам ласку, як ви вчинили з помершими
+        й зо мною!"
+      bel_syomukha: "Наэмінь сказала дзьвюм нявесткам сваім: ідзеце, вярнецеся кожная
+        ў дом маці сваёй; хай даруе Гасподзь вам літасьць, як вы зрабілі з
+        памерлымі і са мною!"
+      old_rbo: "Ноеминь сказала двум снохам своим: подите, возвратитесь каждая в дом
+        матери своей. Да сотворит Господь с вами милость, как вы поступали с
+        умершими и со мною."
+      spbda: "То сказала Ноеминь двум снохам своим: подите, возвратитесь каждая в дом
+        матери своей; да сотворит Господь с вами милость, как вы поступали с
+        умершими и со мною;"
+      lev-khv: "И сказала Ноеминь двум снохам своим: подите, возвратитесь каждая в дом
+        матери своей. Да сотворит Господь с вами милость, как вы поступали с
+        умершими и со мною."
+      czech: 'vybidla cestou Noemi obe sve snachy: "Jdete, vratte se kazda do domu sve
+        matky. Necht vam Hospodin prokaze milosrdenstvi, jako jste je vy
+        prokazovaly zemrelym i mne.'
+      spanish: "Y dijo Noemí a sus dos nueras: <<Andad, volveos cada una a la casa de
+        vuestra madre, y que Yavé se muestre benévolo con vosotras, conforme a
+        vuestra conducta con los difuntos y conmigo."
+      greek-lxx: καὶ εἶπεν Νωεμιν ταῖς νύμφαις αὐτῆς πορεύεσθε δὴ ἀποστράφητε ἑκάστη
+        εἰς οἶκον μητρὸς αὐτῆς ποιήσαι Κύριος μεθ᾿ ὑμῶν ἔλεος καθὼς ἐποιήσατε
+        μετὰ τῶν τεθνηκότων καὶ μετ᾿ ἐμοῦ
+      st_text: "Ноеминь сказала двум снохам своим: пойдите, возвратитесь каждая в дом
+        матери своей; да сотворит Господь с вами милость, как вы поступали с
+        умершими и со мною!"
+  - id: 33236
+    number: 9
+    bookId: 8
+    text: да даст вам Господь, чтобы вы нашли пристанище каждая в доме своего мужа!
+      И поцеловала их. Но они подняли вопль и плакали
+    chapter: 1
+    chapterId: 233
+    parallels:
+      - verseId: 33273
+        bookId: 8
+        bookCode: kniga-ruf
+        chapter: 3
+        short: Руф:3:1
+    translates:
+      kassian: ""
+      podstr: пусть даст Господь вам и найдёте покой каждая в доме мужа её. И
+        поцеловала их, а они подняли голос их и плакали.
+      csya: "да даст Господь Бог вам обрести покой коейждо в дому мужа своего. И
+        целова я: они же воздвигоша гласы своя и плакашася,"
+      averincev: ""
+      ungerov: ""
+      csya_old: "да дaстъ гDь бг7ъ вaмъ њбрэсти2 поко1й ко1ейждо въ домY мyжа своегw2.
+        И# цэловA |: nни1 же воздвиго1ша глaсы сво‰ и3 плaкашасz,"
+      sovr_rbo: Пусть Господь поможет каждой из вас найти счастье в доме нового мужа».
+        Она поцеловала их на прощанье, но они заголосили, заплакали
+      latin: Det vobis invenire requiem in domibus virorum quos sortiturae estis. Et
+        osculata est eas. Quae elevata voce flere coeperunt,
+      ukr: Нехай Господь дасть вам, і ви знайдете відпочинок кожна в домі свого мужа!
+        І вона поцілувала їх, а вони підняли свій голос та плакали.
+      nkjv: The Lord grant that you may find rest, each in the house of her husband."
+        Then she kissed them, and they lifted up their voices and wept.
+      desnitsky: ""
+      mt: ‫    יִתֵּן יְהוָה לָכֶם וּמְצֶאןָ מְנוּחָה אִשָּׁה בֵּית אִישָׁהּ
+        וַתִּשַּׁק לָהֶן וַתִּשֶּׂאנָה קוֹלָן וַתִּבְכֶּינָה׃ ‬
+      romana: Domnul sa va ajute, ca sa va gasiti adapost fiecare in casa barbatului
+        sau!" Apoi le-a sarutat; iar ele, incepand a se tangui si a plange,
+      francais: Que l'Éternel vous fasse trouver à chacune du repos dans la maison
+        d'un mari! Et elle les baisa. Elles élevèrent la voix, et pleurèrent;
+      italian: Il Signore conceda a ciascuna di voi di trovare riposo in casa di un
+        marito". Essa le baciò, ma quelle piansero ad alta voce
+      old_georgian: და მოგაგენ თქუენ უფალმან კეთილისა მაგის წილ და პოვეთ თქუენ
+        განსუენებაჲ სახლსა შინა ქმრისა თჳსისასა! და ამბორს-უყო მათ და უჯმნიდა;
+        და აღიმაღლეს ჴმაჲ მათი და ტიროდეს.
+      portuguese: "O Senhor vos dê que acheis descanso cada uma em casa de seu marido.
+        Quando as beijou, porém, levantaram a\rvoz e choraram."
+      polish: "Niech Pan sprawi, abyście osiągnęły spokojne miejsce, każda w domu
+        swego\rmęża!” Ucałowała je, ale one zaczęły głośno płakać,"
+      turkish: "RAB her birinize evinde rahat edeceğiniz birer koca versin!»\rSonra
+        onları öptü. İki gelin hıçkıra hıçkıra ağlayarak,"
+      nrt: Пусть Господь даст каждой из вас найти пристанище в доме у нового мужа. Она
+        поцеловала их, и они громко заплакали
+      Macarius: Да даст вам Господь, чтобы вы нашли пристанище каждая в доме своего
+        мужа. И поцеловала их. Но они подняли вопль и плакали.
+      serbian: Потом изидоше синови Јудини да војују на Хананеје који живљаху у гори и
+        на југу и у равни.
+      bulgarian: Да ви даде Господ да намерите прибежище всяка в къщата на своя мъж! И
+        ги целуна. Но те викнаха, та заплакаха
+      pavskiy: Да даст вам Господь, чтобы вы нашли пристанище каждая в дому своего
+        мужа. И поцеловала их. Но оне подняли вопль и плакали.
+      deutsch: Der Herr gebe euch, daß ihr Ruhe findet, eine jegliche in ihres Mannes
+        Hause! Und küßte sie. Da hoben sie ihre Stimmen auf und weinten
+      ukr2: Нехай Господь допоможе вам знайти пристановище, кожній - у господі свого
+        чоловіка.” І поцілувала їх на прощання. Та вони стали плакати вголос
+      ukr3: Дай, Господи, щоб ви знайшли пристановище кожна в господї свого чоловіка!
+        І вона поцїлувала їх. Але вони загомонїли голосно та заплакали;
+      bel_syomukha: хай дасьць вам Гасподзь, каб вы знайшлі прытулак кожная ў доме ў
+        свайго мужа! І пацалавала іх. Але яны паднялі енк і плакалі
+      old_rbo: Да даст вам Господь, чтобы вы нашли пристанище каждая в дому своего
+        мужа. И поцеловала их. Но оне подняли вопль и плакали.
+      spbda: Да даст вам Господь, чтобы вы нашли пристанище каждая в доме мужа своего.
+        И поцеловала их. Но оне подняли вопль и плакали,
+      lev-khv: Да даст вам Господь, чтобы вы нашли пристанище каждая в доме мужа
+        своего. И поцеловала их. Но оне подняли вопль, и плакали,
+      czech: Kez vam Hospodin da, abyste kazda nasla odpocinuti v dome sveho muze." A
+        polibila je. Rozplakaly se hlasite
+      spanish: Que Yavé os conceda encontrar reposo cada una en la casa de su
+        marido>>. Y las besó. Alzando la voz, pusiéronse a llorar,
+      greek-lxx: δῴη Κύριος ὑμῖν καὶ εὕροιτε ἀνάπαυσιν ἑκάστη ἐν οἴκῳ ἀνδρὸς αὐτῆς καὶ
+        κατεφίλησεν αὐτάς καὶ ἐπῆραν τὴν φωνὴν αὐτῶν καὶ ἔκλαυσαν
+      st_text: да даст вам Господь, чтобы вы нашли пристанище каждая в доме своего
+        мужа! И поцеловала их. Но они подняли вопль и плакали
+  - id: 33237
+    number: 10
+    bookId: 8
+    text: "и сказали: нет, мы с тобою возвратимся к народу твоему."
+    chapter: 1
+    chapterId: 233
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "И они сказали ей: Вместе [с] тобой возвратимся в народ твой."
+      csya: "и рекоша ей: ни, но идем с тобою в люди твоя."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 реко1ша є4й: ни2, но и4демъ съ тобо1ю въ лю1ди тво‰."
+      sovr_rbo: "и сказали: «Мы пойдем с тобой, к твоему народу»."
+      latin: "et dicere: Tecum pergemus ad populum tuum."
+      ukr: "І вони сказали до неї: Ні, з тобою ми вернемось до народу твого!"
+      nkjv: And they said to her, "Surely we will return with you to your people."
+      desnitsky: ""
+      mt: ‫    וַתֹּאמַרְנָה־לָּהּ כִּי־אִתָּךְ נָשׁוּב לְעַמֵּךְ׃ ‬
+      romana: 'Au zis: "Nu, ci ne vom intoarce impreuna la poporul tau!"'
+      francais: "et elles lui dirent: Non, nous irons avec toi vers ton peuple."
+      italian: 'e le dissero: "No, noi verremo con te al tuo popolo".'
+      old_georgian: "და ჰრქუეს მას: არა ეგრე, არამედ შენ თანა მივიდეთ ერისა შენისა."
+      portuguese: "E disseram-lhe: Certamente voltaremos contigo para o teu povo."
+      polish: "mówiąc do niej: ”Nie, my wrócimy z tobą do twego narodu”."
+      turkish: «Hayır, seninle birlikte senin halkına döneceğiz» dediler.
+      nrt: "и сказали ей: – Мы вернемся с тобой к твоему народу."
+      Macarius: "И сказали: нет, мы с тобою возвратимся к народу твоему."
+      serbian: И Јуда изиде на Хананеје који живљаху у Хеврону, а Хеврону бијаше пређе
+        име Киријат-Арва; и побише Сесаја и Ахимана и Талмаја.
+      bulgarian: "и казаха: не, ние ще се върнем с тебе при твоя народ."
+      pavskiy: "И сказали: нет, мы с тобою возвратимся к народу твоему."
+      deutsch: "und sprachen zu ihr: Wir wollen mit dir zu deinem Volk gehen."
+      ukr2: "і промовили до неї: “Ні, ми підемо з тобою до твого народу!”"
+      ukr3: "І промовили до неї: Нї, ми підемо з тобою до твого народа!"
+      bel_syomukha: "і сказалі: не, мы з табою вернемся да народу твайго."
+      old_rbo: "И сказали: нет, мы с тобою возвратимся к народу твоему."
+      spbda: "И сказали ей: нет, мы с тобою возвратимся к народу твоему."
+      lev-khv: "И сказали ей: нет, но мы с тобою пойдем к народу твоему."
+      czech: 'a namitaly ji: " Nikoli, vratime se s tebou k tvemu lidu."'
+      spanish: "y le decían: <<No; nos iremos contigo a tu pueblo>>."
+      greek-lxx: καὶ εἶπαν αὐτῇ μετὰ σοῦ ἐπιστρέφομεν εἰς τὸν λαόν σου
+      st_text: "и сказали: нет, мы с тобою возвратимся к народу твоему."
+  - id: 33238
+    number: 11
+    bookId: 8
+    text: "Ноеминь же сказала: возвратитесь, дочери мои; зачем вам идти со мною?
+      Разве еще есть у меня сыновья в моем чреве, которые были бы вам мужьями?"
+    chapter: 1
+    chapterId: 233
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "И сказала Ноеминь: Вернитесь же, дочери мои; и для чего идти со мной?
+        Разве ещё [у] меня сыновья в утробе моей и они будут вам в мужей?"
+      csya: "И рече ноемминь: обратитеся убо, дщери мои, вскую идете со мною? или еще
+        мне сынове во утробе моей, и будут вам мужи?"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 ноеммjнь: њбрати1тесz ў2бо, дщє1ри мои2, вскyю и4дете со
+        мно1ю; и3ли2 є3ще2 мнЁ сы1нове во ўтро1бэ мое1й, и3 бyдутъ вaмъ м{жи;"
+      sovr_rbo: "Нооми сказала: «Дочки, возвращайтесь. Зачем вам идти со мной? Смогу
+        ли я родить еще сыновей, которые станут вам мужьями?"
+      latin: "Quibus illa respondit: Revertimini, filiae meae, cur venitis mecum? num
+        ultra habeo filios in utero meo, ut viros ex me sperare possitis?"
+      ukr: "А Ноомі сказала: Вертайтеся, дочки мої, чого ви підете зо мною? Чи я маю
+        ще в утробі своїй синів, а вони стануть вам за чоловіків?"
+      nkjv: But Naomi said, "Turn back, my daughters; why will you go with me? Are
+        there still sons in my womb, that they may be your husbands?
+      desnitsky: ""
+      mt: ‫    וַתֹּאמֶר נָעֳמִי שֹׁבְנָה בְנֹתַי לָמָּה תֵלַכְנָה עִמִּי הַעוֹד־לִי
+        בָנִים בְּמֵעַי וְהָיוּ לָכֶם לַאֲנָשִׁים׃ ‬
+      romana: 'Noemina insa a zis: "Intoarceti-va, fiicele mele, de ce sa mergeti voi
+        cu mine? Au doara mai am eu feciori in pantecele meu care sa va poata fi
+        barbati?'
+      francais: "Naomi, dit: Retournez, mes filles! Pourquoi viendriez-vous avec moi?
+        Ai-je encore dans mon sein des fils qui puissent devenir vos maris?"
+      italian: 'Noemi rispose: "Tornate indietro, figlie mie! Perché verreste con me?
+        Ho io ancora figli in seno, che possano diventare vostri mariti?'
+      old_georgian: "და ჰრქუა მათ ნოომინ: მიექეცით, ასულნო ჩემნო, და წარვედით!
+        რაჲსათჳს მოხუალთ თქუენ ჩემ თანა? ნუუკუე ამიერითგან შჳლნი არიან მუცელსა
+        ჩემსა და იგინი იყვნენ ქმარ თქუენდა?"
+      portuguese: "Noêmi, porém, respondeu: Voltai, minhas filhas; porque ireis
+        comigo? Tenho eu ainda filhos no meu ventre, para\rque vos viessem a ser
+        maridos?"
+      polish: "Noemi powiedziała: ”Wróćcie, moje córki, czemu idziecie ze mną? Czyż
+        mam\rjeszcze w swoim łonie synów, którzy mogliby zostać waszymi mężami?"
+      turkish: Naomi, «Geri dönün, kızlarım» dedi. «Niçin benimle gelesiniz? Size koca
+        olacak oğullarım olabilir mi bundan sonra?
+      nrt: "Но Ноеминь сказала: – Возвратитесь домой, мои дочери. Зачем вам идти со
+        мной? Разве у меня будут другие сыновья, которые смогут стать вам
+        мужьями?"
+      Macarius: "Ноеминь же сказала: пойдите обратно, дочери мои; зачем вам идти со
+        мною? Разве еще есть у меня сыны в моем чреве, которые бы были вам
+        мужьями?"
+      serbian: А одатле отидоше на Давиране, а Давиру прије бјеше име Киријат-Сефер.
+      bulgarian: "А Ноемин рече: върнете се, дъщери мои; защо ще дойдете с мене? Нима
+        имам още в утробата си синове, които да ви станат мъже?"
+      pavskiy: "Ноеминь же сказала: подите обратно, дочери мои; за чем вам идти со
+        мною? Разве еще есть у меня сыны в моем чреве, которые бы были вам
+        мужьями?"
+      deutsch: "Aber Naemi sprach: Kehrt um, meine Töchter! warum wollt ihr mit mir
+        gehen? Wie kann ich fürder Kinder in meinem Leibe haben, die eure Männer
+        sein könnten?"
+      ukr2: "Ноема ж сказала: “Вертайтеся, мої доні; навіщо вам іти зо мною?” Хіба в
+        моєму лоні ще є сини, щоб стали вам за чоловіків?"
+      ukr3: "А Ноема сказала: Вертайтесь, мої донї; навіщо вам йти зо мною? Хіба ж в
+        моєму лонї ще є сини, щоб стали вам за чоловіків?"
+      bel_syomukha: "А Наэмінь сказала: вярнецеся, доякі мае; навошта вам ісьці са
+        мною? хіба ж ёсьць у мяне яшчэ сыны ў маім чэраве, якія былі б вам
+        мужамі?"
+      old_rbo: "Ноеминь же сказала: подите обратно, дочери мои; зачем вам идти со
+        мною? Разве еще есть у меня сыны в моем чреве, которые бы были вам
+        мужьями?"
+      spbda: "Ноеминь же сказала: возвратитесь, дочери мои; за чем вам итти со мною?
+        Разве еще есть у меня сыны в чреве моем, которые были бы вам мужьями?"
+      lev-khv: "Ноеминь же сказала: возвратитесь, дочери мои; за чем вам идти со мною?
+        Разве еще есть у меня сыны в чреве моем, которые были бы вам мужьями?"
+      czech: 'Ale Noemi jim domlouvala: "Jen se vratte, me dcery! Proc byste se mnou
+        chodily? Cozpak mohu jeste zrodit syny, aby se stali vasimi muzi?'
+      spanish: "Noemí les dijo: <<Volveos, hijas mías; ¿para qué habéis de venir
+        conmigo? ¿Tengo, por ventura, todavía en mi seno hijos que puedan ser
+        maridos vuestros?"
+      greek-lxx: καὶ εἶπεν Νωεμιν ἐπιστράφητε δή θυγατέρες μου καὶ ἵνα τί πορεύεσθε
+        μετ᾿ ἐμοῦ μὴ ἔτι μοι υἱοὶ ἐν τῇ κοιλίᾳ μου καὶ ἔσονται ὑμῖν εἰς ἄνδρας
+      st_text: "Ноеминь же сказала: возвратитесь, дочери мои; зачем вам идти со мною?
+        Разве еще есть у меня сыновья в моем чреве, которые были бы вам
+        мужьями?"
+  - id: 33239
+    number: 12
+    bookId: 8
+    text: 'Возвратитесь, дочери мои, пойдите, ибо я уже стара, чтоб быть замужем. Да
+      если б я и сказала: "есть мне еще надежда", и даже если бы я сию же ночь
+      была с мужем и потом родила сыновей, -'
+    chapter: 1
+    chapterId: 233
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: вернитесь же, дочери мои, потому что состарилась [чтобы] не быть мужу;
+        что же скажу что есть мне основание [чтобы] быть сделанной мне [с] мужем
+        и рожу сыновей,
+      csya: "возвратитеся убо, дщери мои и отъидите, яко состарехся, и не буду мужу:
+        аще же бых и рекла, яко у мене есть надежда, да буду мужу и рожду сыны,"
+      averincev: ""
+      ungerov: ""
+      csya_old: "возврати1тесz ў2бо, дщє1ри мои2, и3 tиди1те, ћкw состарёхсz, и3 не
+        бyду мyжу: ѓще же бы1хъ и3 реклA, ћкw ў менє2 є4сть наде1жда, да бyду
+        мyжу и3 рождY сы1ны,"
+      sovr_rbo: "Возвращайтесь, дочки мои, я уже слишком стара, чтобы выйти замуж. А
+        даже если бы я и думала: „Еще есть надежда”, — даже если бы сегодняшнюю
+        ночь я провела с мужем и родила бы сыновей,"
+      latin: "Revertimini, filiae meae, et abite: jam enim senectute confecta sum, nec
+        apta vinculo conjugali: etiamsi possem hac nocte concipere, et parere
+        filios,"
+      ukr: "Верніться, дочки мої, ідіть, бо я занадто стара, щоб бути для мужа. А коли
+        б я й сказала: Маю надію, і коли б цієї ночі була з мужем, і також
+        породила синів,"
+      nkjv: Turn back, my daughters, go-for I am too old to have a husband. If I
+        should say I have hope, if I should have a husband tonight and should
+        also bear sons,
+      desnitsky: ""
+      mt: ‫    שֹׁבְנָה בְנֹתַי לֵכְןָ כִּי זָקַנְתִּי מִהְיוֹת לְאִישׁ כִּי
+        אָמַרְתִּי יֶשׁ־לִי תִקְוָה גַּם הָיִיתִי הַלַּיְלָה לְאִישׁ וְגַם
+        יָלַדְתִּי בָנִים׃ ‬
+      romana: Intoarceti-va, fiicele mele, intoarceri-va, caci eu sunt prea batrana ca
+        sa ma mai marit. Si chiar de v-as spune ca tot mai am nadejde si chiar
+        daca la noapte as avea barbat si apoi as naste fii,
+      francais: "Retournez, mes filles, allez! Je suis trop vieille pour me remarier.
+        Et quand je dirais: J'ai de l'espérance; quand cette nuit même je serais
+        avec un mari, et que j'enfanterais des fils,"
+      italian: "Tornate indietro, figlie mie, andate! Io sono troppo vecchia per avere
+        un marito. Se dicessi: Ne ho speranza, e se anche avessi un marito
+        questa notte e anche partorissi figli,"
+      old_georgian: არამედ აწ წარვედით, ასულნო ჩემნო, ამისთჳს, რამეთუ დავბერდი, და
+        არღარა შემძლებელ ვარ მე ქმრისა სუმად, უკუეთუმცა გარქუ თქუენ, ვითარმედ
+        შე-ღა-მძლებელ ვარ და შე-ღა-ვეყო ქმარსა, და ვშუნე მე ძენი?
+      portuguese: "Voltai, filhas minhas; ide-vos, porque já sou velha demais para me
+        casar. Ainda quando eu dissesse: Tenho\resperança; ainda que esta noite
+        tivesse marido e ainda viesse a ter filhos."
+      polish: "Wróćcie, córki moje, odejdźcie, jestem bowiem zbyt stara, aby wyjść za
+        mąż.\rA jeślibym nawet powiedziała: mam nadzieję, że jeszcze tej nocy
+        będę miała\rmęża i zrodzę synów,"
+      turkish: Dönün kızlarım, yolunuza gidin. Ben kocaya varamayacak kadar yaşlandım.
+        Umudum var desem, bu gece kocaya varıp oğullar doğursam,
+      nrt: Возвратитесь домой, мои дочери; я уже слишком стара, чтобы у меня был
+        другой муж. Даже если бы я думала, что у меня еще есть надежда – даже
+        если бы этой ночью я была с мужем, а потом родила сыновей, –
+      Macarius: "Возвратитесь, дочери мои, пойдите; ибо я уже стара, чтоб быть за
+        мужем. Да если б я и сказала: есть мне еще надежда, и даже если б я сию
+        же ночь была с мужем и потом родила сынов,"
+      serbian: "И рече Халев: Ко савлада Киријат-Сефер и узме га, даћу му Ахсу, кћер
+        своју за жену."
+      bulgarian: 'върнете се, дъщери мои, идете си, защото аз съм вече стара и не мога
+        да се омъжа; та и да кажех: "имам още надежда", и дори тая нощ да бих се
+        омъжила и сетне да бих родила синове,'
+      pavskiy: "Возвратитесь, дочери мои, подите: ибо я уже стара, чтоб быть за мужем.
+        Да еслиб я и сказала: есть мне еще надежда, и даже еслибы я сию же ночь
+        была с мужем и потом родила сынов;"
+      deutsch: "Kehrt um, meine Töchter, und geht hin! denn ich bin nun zu alt, daß
+        ich einen Mann nehme. Und wenn ich spräche: Es ist zu hoffen, daß ich
+        diese Nacht einen Mann nehme und Kinder gebäre,"
+      ukr2: Вертайтесь, мої доні, йдіть; бо я вже стара, годі мені вже думати про
+        чоловіка. Та навіть, якби я й подумала, що маю ще надію, і навіть тієї
+        ночі була з чоловіком і привела на світ синів,
+      ukr3: "Вертайтесь, донї мої, ідїть з Богом; бо я вже стара задля того, щоб вийти
+        заміж. Та коли б я й сказала: Я маю надїю, і коли б я навіть цїєї ж ночі
+        була з чоловіком і навіть породила синів,"
+      bel_syomukha: 'вярнецеся, доякі мае, ідзеце, бо я ўжо старая, каб быць замужам;
+        ды калі б я і сказала: "ёсьць мне яшчэ надзея", і нават калі б я гэтую
+        ноч была з мужам і потым нарадзіла сыноў, -'
+      old_rbo: "Возвратитесь, дочери мои, подите; ибо я уже стара, чтоб быть за мужем.
+        Да если б я и сказала: есть мне еще надежда, и даже если бы я сию же
+        ночь была с мужем и потом родила сынов;"
+      spbda: "Возвратитесь, дочери мои, подите; ибо я уже стара, чтобы быть за мужем.
+        Если бы даже я и сказала: есть мне еще надежда, и даже если бы и сию же
+        ночь была с мужем и потом родила сынов,"
+      lev-khv: "Возвратитесь дочери мои, подите; потому что я уже стара, чтобы быть за
+        мужем. Если бы даже я и сказала: есть мне еще надежда, и даже если бы я
+        сию же ночь была с мужем, и потом родила сынов:"
+      czech: Vratte se, me dcery, jdete! Vzdyt uz jsem na vdavani stara. I kdybych si
+        rekla, ze mam jeste nadeji, a kdybych se hned teto noci vdala a porodila
+        syny,
+      spanish: Volveos, hijas mías; andad. Soy yo demasiado vieja para volver a
+        casarme. Y aunque me quedara todavía esperanza y esta misma noche
+        estuviera casada y tuviera hijos, ¿ibais a esperar vosotras hasta que
+        fueran grandes?
+      greek-lxx: ἐπιστράφητε δή θυγατέρες μου διότι γεγήρακα τοῦ μὴ εἶναι ἀνδρί ὅτι
+        εἶπα ὅτι ἔστιν μοι ὑπόστασις τοῦ γενηθῆναί με ἀνδρὶ καὶ τέξομαι υἱούς
+      st_text: 'Возвратитесь, дочери мои, пойдите, ибо я уже стара, чтоб быть замужем.
+        Да если б я и сказала: "есть мне еще надежда", и даже если бы я сию же
+        ночь была с мужем и потом родила сыновей, -'
+  - id: 33240
+    number: 13
+    bookId: 8
+    text: то можно ли вам ждать, пока они выросли бы? можно ли вам медлить и не
+      выходить замуж? Нет, дочери мои, я весьма сокрушаюсь о вас, ибо рука
+      Господня постигла меня.
+    chapter: 1
+    chapterId: 233
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: разве их ждать [вам] до которого [времени] станут мужчинами? или [для]
+        них задерживаться [вам] [чтобы] не сделаться [с] мужем? нет же, дочери
+        мои, потому что было сделано горько мне за вас потому что вышла на меня
+        рука Господа.
+      csya: вы ли пождете их, дондеже возрастут? и вы ли удержитеся, да не будете
+        иному мужу? ни, дщери мои, яко горько бысть мне паче вас, яко изыде на
+        мя рука Господня.
+      averincev: ""
+      ungerov: ""
+      csya_old: вы1 ли пожде1те и4хъ, до1ндеже возрастyтъ; и3 вы1 ли ўдержите1сz, да
+        не бyдете и3но1му мyжу; ни2, дщє1ри мои2, ћкw го1рько бы1сть мнЁ пaче
+        вaсъ, ћкw и3зы1де на мS рукA гDнz.
+      sovr_rbo: "какой смысл вам ждать, пока они вырастут? Какой смысл оставаться во
+        вдовах?! Не надо, дочки. Моя участь слишком горька, незачем вам делить
+        ее со мной: Господь обрушил на меня Свою ярость»."
+      latin: "si eos expectare velitis donec crescant, et annos pubertatis impleant,
+        ante eritis vetulae quam nubatis. Nolite, quaeso, filiae meae: quia
+        vestra angustia magis me premit, et egressa est manus Domini contra me."
+      ukr: чи ж ви чекали б їх, аж поки повиростають? Чи ж ви зв'язалися б з ними, щоб
+        не бути замужем? Ні, дочки мої, бо мені значно гірше, як вам, бо
+        Господня рука знайшла мене.
+      nkjv: would you wait for them till they were grown? Would you restrain
+        yourselves from having husbands? No, my daughters; for it grieves me
+        very much for your sakes that the hand of the Lord has gone out against
+        me!"
+      desnitsky: ""
+      mt: ‫    הֲלָהֵן תְּשַׂבֵּרְנָה עַד אֲשֶׁר יִגְדָּלוּ הֲלָהֵן תֵּעָגֵנָה
+        לְבִלְתִּי הֱיוֹת לְאִישׁ אַל בְּנֹתַי כִּי־מַר־לִי מְאֹד מִכֶּם
+        כִּי־יָצְאָה בִי יַד־יְהוָה׃ ‬
+      romana: Ati putea voi oare astepta pana vor creste? Puteti voi oare sa
+        intarziati sa nu va maritati? Nu, fiicele mele; mie imi pare foarte rau
+        de voi, caci mana Domnului m-a apasat".
+      francais: attendriez-vous pour cela qu'ils eussent grandi, refuseriez-vous pour
+        cela de vous marier? Non, mes filles! car à cause de vous je suis dans
+        une grande affliction de ce que la main de l'Éternel s'est étendue
+        contre moi.
+      italian: vorreste voi aspettare che diventino grandi e vi asterreste per questo
+        dal maritarvi? No, figlie mie; io sono troppo infelice per po — tervi
+        giovare, perché la mano del Signore è stesa contro di me".
+      old_georgian: და ამათ ელოდით თქუენ, ვიდრემდე განორძნდენ, და დაგიყენნე თქუენ,
+        რათა არა ისხნეთ ქმარ? ნუ ეგრე, ასულნო ჩემნო, რამეთუ განმწარდა ჩემთჳს
+        უფროჲს თქუენსა, რამეთუ ჴელი უფლისაჲ გამოვიდა ჩემ ზედა.
+      portuguese: "esperá-los-íeis até que viessem a ser grandes? deter-vos-íeis por
+        eles, sem tomardes marido? Não, filhas\rminhas, porque mais amargo me é
+        a mim do que a vós mesmas; porquanto a mão do Senhor se descarregou
+        contra\rmim."
+      polish: "to czyż czekałybyście na nich aż dorosną, czyż dla nich wyrzekłybyście
+        się\rmałżeństwa? Nie, moje córki, jestem bowiem jeszcze nieszczęśliwsza
+        od was,\rgdyż podniosła się przeciw mnie dłoń Pana”."
+      turkish: onlar büyüyene kadar bekler miydiniz, kocaya varmaktan vazgeçer
+        miydiniz? Hayır, kızlarım! Benim acım sizinkinden de büyüktür. Çünkü RAB
+        beni felakete uğrattı.»
+      nrt: разве вам можно ждать, пока они вырастут? Можно ли вам оставаться все это
+        время незамужними? Нет, мои дочери. Моя горечь слишком тяжела для вас,
+        потому что рука Господня обратилась против меня!
+      Macarius: То можно ли вам ждать, пока бы они выросли? можно ли вам медлить и не
+        выходить замуж? Нет, дочери мои, я весьма сокрушаюсь о вас; ибо рука
+        Господня постигла меня.
+      serbian: И узе га Готонило, син Кенезов, млађи брат Халевов; и даде му Ахсу,
+        кћер своју, за жену.
+      bulgarian: ще можете ли чака, докле пораснат? Можете ли се удържа да се не
+        омъжите? Не, дъщери мои, много ми е жално за вас, защото ръката Господня
+        ме порази.
+      pavskiy: То можно ли вам ждать, пока бы они выросли? Можно ли вам медлить и не
+        выходить за муж? Нет, дочери мои, я весьма сокрушаюсь о вас; ибо рука
+        Господня постигла меня.
+      deutsch: wie könntet ihr doch harren, bis sie groß würden? wie wolltet ihr
+        verziehen, daß ihr nicht Männer solltet nehmen? Nicht, meine Töchter!
+        denn mich jammert euer sehr; denn des Herrn Hand ist über mich
+        ausgegangen.
+      ukr2: чи ви могли б ждати, аж поки вони підростуть, та стримуватись і не
+        виходити заміж? Ні, донечки мої! Мені було б вельми гірко задля вас, бо
+        рука Господня проти мене.”
+      ukr3: То чи ж можна вам ждати, доки б вони виросли? Чи можна ж вам для того не
+        виходити заміж? Нї, мої донечки! Менї бо далеко гірше жити як вам; бо
+        Господня рука проти мене.
+      bel_syomukha: дык ці ж можна вам чакаць, пакуль яны вырасьлі б? ці ж можна вам
+        марудзіць і ня выходзіць замуж? не, доякі мае, я вельмі маркочуся за
+        вас, бо рука Гасподняя спасьцігла мяне.
+      old_rbo: То можно ли вам ждать, пока бы они выросли? можно ли вам медлить и не
+        выходить замуж? Нет, дочери мои, я весьма сокрушаюсь о вас; ибо рука
+        Господня постигла меня.
+      spbda: То можете ли вы ждать их, пока они выростут? Можете ли вы для них
+        отказаться от замужества? Нет, дочери мои; я весьма скорблю о вас; ибо
+        рука Господня постигла меня.
+      lev-khv: То можете ли вы ждать их, пока они выростут? можете ли вы для них
+        отказаться от замужества? Нет, дочери мои, я весьма скорблю о вас;
+        потому что рука Господа постигла меня.
+      czech: 'cekaly byste proto, az by dospeli? Zdrahaly byste se proto vdat? Nikoli,
+        me dcery. Muj udel je pro vas prilis trpky: Dolehla na mne Hospodinova
+        ruka."'
+      spanish: ¿Ibais por eso a dejar de volver a casaros? No, hijas mías; mi pena es
+        más grande que la vuestra, porque la mano de Yavé se ha levantado contra
+        mí>>.
+      greek-lxx: μὴ αὐτοὺς προσδέξεσθε ἕως οὗ ἁδρυνθῶσιν ἢ αὐτοῖς κατασχεθήσεσθε τοῦ
+        μὴ γενέσθαι ἀνδρί μὴ δή θυγατέρες μου ὅτι ἐπικράνθη μοι ὑπὲρ ὑμᾶς ὅτι
+        ἐξῆλθεν ἐν ἐμοὶ χεὶρ Κυρίου
+      st_text: то можно ли вам ждать, пока они выросли бы? можно ли вам медлить и не
+        выходить замуж? Нет, дочери мои, я весьма сокрушаюсь о вас, ибо рука
+        Господня постигла меня.
+  - id: 33241
+    number: 14
+    bookId: 8
+    text: Они подняли вопль и опять стали плакать. И Орфа простилась со свекровью
+      своею [и возвратилась к народу своему], а Руфь осталась с нею.
+    chapter: 1
+    chapterId: 233
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И подняли голос их и плакали ещё; и поцеловала Орфа свекровь её и
+        возвратилась в народ её, Руфь же последовала ей.
+      csya: И воздвигоша гласы своя, и плакаша паки. И целова орфа свекровь свою, и
+        возвратися в люди своя, руфь же последова ей.
+      averincev: ""
+      ungerov: ""
+      csya_old: И# воздвиго1ша глaсы сво‰, и3 плaкаша пaки. И# цэловA nрфA свекро1вь
+        свою2, и3 возврати1сz въ лю1ди сво‰, рyfь же послёдова є4й.
+      sovr_rbo: Они снова заголосили и заплакали. Орпа поцеловала на прощанье
+        свекровь, а Руфь отказалась уходить.
+      latin: "Elevata igitur voce, rursum flere coeperunt: Orpha osculata est socrum,
+        ac reversa est: Ruth adhaesit socrui suae:"
+      ukr: І підняли вони голос свій, і заплакали ще. І поцілувала Орпа свою свекруху,
+        а Рут пригорнулася до неї.
+      nkjv: Then they lifted up their voices and wept again; and Orpah kissed her
+        mother-in-law, but Ruth clung to her.
+      desnitsky: ""
+      mt: ‫    וַתִּשֶּׂנָה קוֹלָן וַתִּבְכֶּינָה עוֹד וַתִּשַּׁק עָרְפָּה לַחֲמוֹתָהּ
+        וְרוּת דָּבְקָה בָּהּ׃ ‬
+      romana: Atunci ele din nou si-au ridicat glasul si au inceput a plange. Apoi
+        Orfa si-a luat ramas bun de la soacra sa si s-a intors la poporul sau,
+        iar Rut a ramas cu ea.
+      francais: Et elles élevèrent la voix, et pleurèrent encore. Orpa baisa sa belle-
+        mère, mais Ruth s'attacha à elle.
+      italian: Allora esse alzarono la voce e piansero di nuovo; Orpa baciò la suocera
+        e partì, ma Rut non si staccò da lei.
+      old_georgian: და აღიმაღლეს ჴმაჲ მათი და მერმეცა ტიროდეს-ვე. და ამბორს-უყო ურიფა
+        დედამთილსა თჳსსა და მიაქცია წარვიდა იგი ერისა თჳსისა. ხოლო რუთ შეუდგა და
+        მოსდევდა მას.
+      portuguese: Então levantaram a voz, e tornaram a chorar; e Orfa beijou a sua
+        sogra, porém Rute se apegou a ela.
+      polish: "Znowu zaczęły głośno płakać. Potem Orpa ucałowała swoją teściową, a
+        Rut\rpozostała przy niej."
+      turkish: Gelinler yine hıçkıra hıçkıra ağlamaya başladı. Sonunda Orpa
+        kaynanasını öpüp vedalaştı, Rut'sa ona sarılıp yanında kaldı.
+      nrt: И тут они снова громко заплакали. И Орфа поцеловала свою свекровь на
+        прощание, но Руфь осталась с ней.
+      Macarius: Они подняли вопль и опять стали плакать. И Орфа простилась с свекровью
+        своею, [и возвратилась в народ свой], а Руфь осталась с нею.
+      serbian: "И кад полажаше, наговараше га да иште у оца њезина поље; па скочи с
+        магарца. А Халев јој рече: Што ти је?"
+      bulgarian: Те викнаха и пак заплакаха. И Орфа се прости със свекърва си (и се
+        върна при народа си), а Рут остана с нея.
+      pavskiy: Оне подняли вопль и опять стали плакать. И Орфра простилась с свекровью
+        своею, и возвратилась, а Руфь осталась с нею.
+      deutsch: Da hoben sie ihre Stimme auf und weinten noch mehr. Und Opra küßte ihre
+        Schwiegermutter; Ruth aber blieb bei ihr.
+      ukr2: Ті знову зняли лемент і ридали вголос. Орпа поцілувала на прощання свою
+        свекруху, а Рута зосталася з нею.
+      ukr3: Вони підняли лемент і знов почали плакати. І Орфа поцїлувала на прощаннї
+        свою свекруху, а Рут зісталась з нею.
+      bel_syomukha: Яны паднялі енк і зноў заплакалі. І Орфа разьвіталася зь сьвякроўю
+        сваёю, а Рут засталася зь ёю.
+      old_rbo: Оне подняли вопль и опять стали плакать. И Орфа простилась с свекровью
+        своею, [и возвратилась в народ свой,] а Руфь осталась с нею.
+      spbda: И подняли оне вопль и опять стали плакать. И простилась Орфа с свекровью
+        своею, а Руфь осталась при ней.
+      lev-khv: И подняли оне вопль, и опять стали плакать. И простилась Орфа с
+        свекровью своею, а Руфь осталась при ней.
+      czech: Tu se rozplakaly jeste hlasiteji. Orpa polibila svou tchyni na
+        rozloucenou, avsak Rut se k ni primkla.
+      spanish: Y, alzando la voz, se pusieron otra vez a llorar. Después Orfa besó a
+        su suegra; pero Rut se abrazó a ella.
+      greek-lxx: καὶ ἐπῆραν τὴν φωνὴν αὐτῶν καὶ ἔκλαυσαν ἔτι καὶ κατεφίλησεν Ορφα τὴν
+        πενθερὰν αὐτῆς καὶ ἐπέστρεψεν εἰς τὸν λαὸν αὐτῆς Ρουθ δὲ ἠκολούθησεν
+        αὐτῇ
+      st_text: Они подняли вопль и опять стали плакать. И Орфа простилась со свекровью
+        своею [и возвратилась к народу своему], а Руфь осталась с нею.
+  - id: 33242
+    number: 15
+    bookId: 8
+    text: "[Ноеминь] сказала [Руфи]: вот, невестка твоя возвратилась к народу своему
+      и к своим богам; возвратись и ты вслед за невесткою твоею."
+    chapter: 1
+    chapterId: 233
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "И сказала Ноеминь к Руфи: Вот вернулась соневестка твоя к народу её и к
+        богам её; вернись поэтому и ты за соневесткой твоей."
+      csya: "И рече ноемминь к руфе: се, возвратися ятровь твоя к людем своим и к
+        богом своим, возвратися убо и ты вслед ятрове своея."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 ноеммjнь къ рyfэ: се2, возврати1сz ћтровь твоS къ лю1демъ
+        свои6мъ и3 къ богHмъ свои6мъ, возврати1сz ў2бо и3 ты2 в8слёдъ ћтрове
+        своеS."
+      sovr_rbo: "Нооми сказала: «Посмотри, невестка твоя возвращается к своему народу
+        и своим богам, иди и ты с ней…»"
+      latin: "cui dixit Noemi: En reversa est cognata tua ad populum suum, et ad deos
+        suos, vade cum ea."
+      ukr: "І сказала Ноомі: Ось зовиця твоя вернулася до народу свого та до богів
+        своїх, вернися й ти за зовицею своєю!"
+      nkjv: And she said, "Look, your sister-in-law has gone back to her people and to
+        her gods; return after your sister-in-law."
+      desnitsky: ""
+      mt: ‫    וַתֹּאמֶר הִנֵּה שָׁבָה יְבִמְתֵּךְ אֶל־עַמָּהּ וְאֶל־אֱלֹהֶיהָ שׁוּבִי
+        אַחֲרֵי יְבִמְתֵּךְ׃ ‬
+      romana: 'Si a zis Noemina catre Rut: "Iata cumnata ta s-a intors la poporul sau
+        si la dumnezeii sai. Intoarce-te si tu dupa cumnata ta!"'
+      francais: "Naomi dit à Ruth: Voici, ta belle-soeur est retournée vers son peuple
+        et vers ses dieux; retourne, comme ta belle-soeur."
+      italian: 'Allora Noemi le disse: "Ecco, tua cognata è tor — nata al suo popolo e
+        ai suoi dèi; torna indietro anche tu, come tua cognata".'
+      old_georgian: "და ჰრქუა ნოომინ რუთს: აჰა ეგერა, მიიქცა მოყუასი შენი ერისა თჳსისა
+        და ღმერთთა თჳსთა, მიიქეც შენცა მოყუსისა შენისა თანა!"
+      portuguese: "Pelo que disse Noêmi: Eis que tua concunhada voltou para o seu povo
+        e para os seus deuses; volta também tu\rapós a tua concunhada."
+      polish: "”Oto twoja szwagierka wróciła do swego narodu i do swego boga -
+        powiedziała\rNoemi do Rut - wracaj i ty za twą szwagierką”."
+      turkish: Naomi Rut'a, «Bak, eltin kendi halkına, kendi ilahına dönüyor. Sen de
+        onun ardından git» dedi.
+      nrt: – Смотри, – сказала Ноеминь, – твоя невестка возвращается к своему народу и
+        своим богам. Возвращайся и ты с ней.
+      Macarius: "[Ноеминь] сказала [Руфи]: вот, невестка твоя возвратилась в народ
+        свой и к своим богам; возвратись и ты вслед за невесткою твоею."
+      serbian: "А она му рече: Дај ми дар; кад си ми дао сухе земље, дај ми и извора
+        воденијех. И даде јој Халев изворе горње и изворе доње."
+      bulgarian: "Ноемин рече (на Рут): ето, етърва ти се върна при народа си и при
+        боговете си; върни се и ти след етърва си."
+      pavskiy: "Ноеминь сказала Руфи: вот невестка твоя возвратилась в народ свой и к
+        своим богам; возвратись и ты в след за невесткою твоею."
+      deutsch: "Sie aber sprach: Siehe, deine Schwägerin ist umgewandt zu ihrem Volk
+        und zu ihrem Gott; kehre auch du um, deiner Schwägerin nach."
+      ukr2: "Ноема й сказала: “Бачиш, твоя братова повернулась до свого народу й до
+        свого бога; вертайсь і ти слідом за братовою.”"
+      ukr3: "І сказала вона: Бачиш, твоя швагрова, жінка брата твого, вернулась до
+        свого народа і до своїх богів; вертайсь і ти слїдом за нею."
+      bel_syomukha: "Наэмінь сказала Руце: вось, ятроўка твая вярнулася да народу
+        свайго і да сваіх багоў; вярніся і ты сьледам за ятроўкаю тваёю,"
+      old_rbo: "[Ноеминь] сказала [Руфи]: вот, невестка твоя возвратилась в народ свой
+        и к своим богам; возвратись и ты в след за невесткою твоею."
+      spbda: "И сказала (Ноеминь): вот, невестка твоя возвратилась в народ свой и к
+        богам своим; возвратись и ты в след за невесткою твоею."
+      lev-khv: "И сказала <i>Ноеминь</i>: вот, невестка твоя возвратилась в народ свой
+        и к богам своим; возвратись и ты в след за невесткою твоею."
+      czech: 'Noemi ji rekla: "Hle, tva svagrova se vraci ke svemu lidu a ke svym
+        bohum. Vrat se take, nasleduj svou svagrovou!"'
+      spanish: "Noemí le dijo: <<Mira, tu cuñada se ha vuelto a su pueblo y a su dios;
+        vuélvete tú como ella>>."
+      greek-lxx: καὶ εἶπεν Νωεμιν πρὸς Ρουθ ἰδοὺ ἀνέστρεψεν ἡ σύννυμφός σου πρὸς λαὸν
+        αὐτῆς καὶ πρὸς τοὺς θεοὺς αὐτῆς ἐπιστράφητι δὴ καὶ σὺ ὀπίσω τῆς
+        συννύμφου σου
+      st_text: "[Ноеминь] сказала [Руфи]: вот, невестка твоя возвратилась к народу
+        своему и к своим богам; возвратись и ты вслед за невесткою твоею."
+  - id: 33243
+    number: 16
+    bookId: 8
+    text: "Но Руфь сказала: не принуждай меня оставить тебя и возвратиться от тебя;
+      но куда ты пойдешь, туда и я пойду, и где ты жить будешь, там и я буду
+      жить; народ твой будет моим народом, и твой Бог - моим Богом;"
+    chapter: 1
+    chapterId: 233
+    parallels:
+      - verseId: 4003
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 15
+        short: 2 Цар:15:21
+      - verseId: 9003
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 2
+        short: 4 Цар:2:2
+      - verseId: 33261
+        bookId: 8
+        bookCode: kniga-ruf
+        chapter: 2
+        short: Руф:2:12
+      - verseId: 37088
+        bookId: 45
+        bookCode: kniga-proroka-zaharii
+        chapter: 8
+        short: Зах:8:21
+    translates:
+      kassian: ""
+      podstr: "Сказала же Руфь: Не принуждай меня [чтобы] оставить тебя или вернуться
+        за тобой; потому что ты куда если пойдёшь, пойду, и где если будешь
+        жить, буду жить; народ твой народ мой, и Бог твой Бог мой;"
+      csya: "И рече руфь: не срящи мене то, еже оставити тебе или обратитися мне от
+        тебе, но идеже идеши ты, и аз пойду, и идеже водворишися ты, водворюся и
+        аз: людие твои людие мои, и Бог твой Бог мой:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 рyfь: не срsщи мене2 то2, є4же њстaвити тебе2 и3ли2
+        њбрати1тисz мнЁ t тебє2, но и3дёже и4деши ты2, и3 ѓзъ пойдY, и3 и3дёже
+        водвори1шисz ты2, водворю1сz и3 ѓзъ: лю1діе твои2 лю1діе мои2, и3 бг7ъ
+        тво1й бг7ъ мо1й:"
+      sovr_rbo: "Но Руфь сказала: «Не упрашивай меня оставить тебя и вернуться. Я
+        пойду туда, куда ты пойдешь, и останусь там, где ты останешься; твой
+        народ будет моим народом, твой Бог — моим Богом."
+      latin: "Quae respondit: Ne adverseris mihi ut relinquam te et abeam: quocumque
+        enim perrexeris, pergam, et ubi morata fueris, et ego pariter morabor.
+        Populus tuus populus meus, et Deus tuus Deus meus."
+      ukr: "А Рут відказала: Не силуй мене, щоб я покинула тебе, щоб я вернулася від
+        тебе, бо куди підеш ти, туди піду й я, а де житимеш ти, там житиму й я.
+        Народ твій буде мій народ, а Бог твій мій Бог."
+      nkjv: 'But Ruth said: "Entreat me not to leave you, Or to turn back from
+        following after you; For wherever you go, I will go; And wherever you
+        lodge, I will lodge; Your people shall be my people, And your God, my
+        God.'
+      desnitsky: ""
+      mt: ‫    וַתֹּאמֶר רוּת אַל־תִּפְגְּעִי־בִי לְעָזְבֵךְ לָשׁוּב מֵאַחֲרָיִךְ כִּי
+        אֶל־אֲשֶׁר תֵּלְכִי אֵלֵךְ וּבַאֲשֶׁר תָּלִינִי אָלִין עַמֵּךְ עַמִּי
+        וֵאלֹהַיִךְ אֱלֹהָי׃ ‬
+      romana: 'Iar Rut a zis: "Nu ma sili sa te parasesc si sa ma duc de la tine; caci
+        unde te vei duce tu, acolo voi merge si eu si unde vei trai tu, voi trai
+        si eu; poporul tau va fi poporul meu si Dumnezeul tau va fi Dumnezeul
+        meu;'
+      francais: "Ruth répondit: Ne me presse pas de te laisser, de retourner loin de
+        toi! Où tu iras j'irai, où tu demeureras je demeurerai; ton peuple sera
+        mon peuple, et ton Dieu sera mon Dieu;"
+      italian: "Ma Rut rispose: \"Non insistere con me perché ti abbandoni e torni
+        indietro senza di te; perché dove andrai tu andrò anch'io; dove ti
+        fermerai mi fermerò; il tuo popolo sarà il mio popolo e il tuo Dio sarà
+        il mio Dio;"
+      old_georgian: "მიუგო და ჰრქუა მას რუთ: ნუ შემემთხუევინ მე ეგე ყოფად, ვითარმცა
+        დაგიტევე მე შენ და მივიქეც და წარვედ შენგან, არამედ ვიდრეცა მიხჳდე,
+        მივიდე და სადაცა იყოფოდე, ვიყოფოდე მეცა შენ თანა, ერი შენი ერი ჩემი არს
+        და ღმერთი შენი ღმერთი ჩემი არს."
+      portuguese: "Respondeu, porém, Rute: Não me instes a que te abandone e deixe de
+        seguir-te. Porque aonde quer que tu fores,\rirei eu; e onde quer que
+        pousares, ali pousarei eu; o teu povo será o meu povo, o teu Deus será o
+        meu Deus."
+      polish: "Odpowiedziała Rut: ”Nie nalegaj na mnie, abym opuściła ciebie i
+        abym\rodeszła od ciebie, gdyż: gdzie ty pójdziesz, tam ja pójdę, gdzie
+        ty zamieszkasz,\rtam ja zamieszkam, twój naród będzie moim narodem, a
+        twój Bóg będzie\rmoim Bogiem."
+      turkish: "Rut şöyle karşılık verdi: «Seni bırakıp geri dönmemi isteme! Sen
+        nereye gidersen ben de oraya gideceğim, sen nerede kalırsan ben de orada
+        kalacağım. Senin halkın benim halkım, senin Tanrın benim Tanrım olacak."
+      nrt: "Но Руфь ответила: – Не уговаривай меня покинуть тебя или отвернуться от
+        тебя. Куда пойдешь ты, туда и я, и где ты остановишься, там остановлюсь
+        и я. Твой народ будет моим народом, и твой Бог – моим Богом."
+      Macarius: "Но Руфь сказала: не принуждай меня оставить тебя и возвратиться от
+        тебя; но куда ты пойдешь, туда и я пойду, и где ты жить будешь, там и я
+        буду жить; народ твой будет моим народом, и твой Бог моим Богом;"
+      serbian: А и синови Кенеја, таста Мојсијева, изидоше из града палмова са
+        синовима Јудинијем у пустињу Јудину, која је на југу од Арада. И дошавши
+        живљаху с народом.
+      bulgarian: "Но Рут отговори: не ме принуждавай да те оставя и да се отделя от
+        тебе; но където идеш ти, там ще дойда и аз, и дето живееш ти, там ще
+        живея и аз; твоят народ ще бъде мой народ, и твоят Бог - мой Бог;"
+      pavskiy: "Но Руфь сказала: не принуждай меня оставить тебя и возвратиться от
+        тебя; но куда ты пойдешь, туда и я пойду, и где ты жить будешь, там и я
+        буду жить; народ твой будет моим народом, и твой Бог моим Богом;"
+      deutsch: "Ruth antwortete: Rede mir nicht ein, daß ich dich verlassen sollte und
+        von dir umkehren. Wo du hin gehst, da will ich auch hin gehen; wo du
+        bleibst, da bleibe ich auch. Dein Volk ist mein Volk, und dein Gott ist
+        mein Gott."
+      ukr2: "Але Рута їй відказала: “Не силуй мене покидати тебе й не йти за тобою:
+        куди бо підеш, туди й я, і де житимеш ти, там і я; твій народ буде моїм
+        народом, і твій Бог моїм Богом."
+      ukr3: "Але Рут сказала: не силуй мене покинути тебе і вернутись од тебе; куди
+        підеш ти, туди й я піду, і де жити меш ти, там і я жити му; твій народ
+        буде моїм народом, і твій Бог моїм Богом;"
+      bel_syomukha: "але Рут сказала: ня прымушай мяне пакідаць цябе і вяртацца ад
+        цябе; а куды ты пойдзеш, туды і я пайду, і дзе ты жыць будзеш, там і я
+        жыць буду; народ твой будзе маім народам, і твой Бог - маім Богам;"
+      old_rbo: "Но Руфь сказала: не принуждай меня оставить тебя и возвратиться от
+        тебя; но куда ты пойдешь, туда и я пойду, и где ты жить будешь, там и я
+        буду жить: народ твой будет моим народом, и твой Бог моим Богом;"
+      spbda: "Руфь же сказала: не упрашивай меня оставить тебя и возвратиться от тебя;
+        но куда ты пойдешь, туда и я пойду, и где ты будешь жить, там и я буду
+        жить; твой народ — мой народ, и твой Бог — мой Бог;"
+      lev-khv: "Руфь же сказала: не упрашивай меня оставить тебя и возвратиться от
+        тебя; но куда ты пойдешь, туда и я пойду, и где ты будешь жить, там и я
+        буду жить; твой народ мой народ, и твой Бог мой Бог;"
+      czech: 'Ale Rut ji odvetila: "Nenalehej na mne, abych te opustila a vratila se
+        od tebe. Kamkoli pujdes, pujdu, kdekoli zustanes, zustanu. Tvuj lid bude
+        mym lidem a tvuj Buh mym Bohem.'
+      spanish: "Rut le respondió: <<No insistas en que te deje y me vaya lejos de ti;
+        donde vayas tú, iré yo; donde mores tú, moraré yo; tu pueblo será mi
+        pueblo, y tu Dios será mi Dios;"
+      greek-lxx: εἶπεν δὲ Ρουθ μὴ ἀπαντήσαι ἐμοὶ τοῦ καταλιπεῖν σε ἢ ἀποστρέψαι
+        ὄπισθέν σου ὅτι σὺ ὅπου ἐὰν πορευθῇς πορεύσομαι καὶ οὗ ἐὰν αὐλισθῇς
+        αὐλισθήσομαι ὁ λαός σου λαός μου καὶ ὁ Θεός σου Θεός μου
+      st_text: "Но Руфь сказала: не принуждай меня оставить тебя и возвратиться от
+        тебя; но куда ты пойдешь, туда и я пойду, и где ты жить будешь, там и я
+        буду жить; народ твой будет моим народом, и твой Бог - моим Богом;"
+  - id: 33244
+    number: 17
+    bookId: 8
+    text: и где ты умрешь, там и я умру и погребена буду; пусть то и то сделает мне
+      Господь, и еще больше сделает; смерть одна разлучит меня с тобою.
+    chapter: 1
+    chapterId: 233
+    parallels:
+      - verseId: 642
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 3
+        short: 1 Цар:3:17
+    translates:
+      kassian: ""
+      podstr: и где если умрёшь, умру и там буду погребена; это [чтобы] сделал мне
+        Господь и это добавит, потому что [только] смерть разделит по середине
+        [между] мной и тобой.
+      csya: "и идеже аще умреши, умру и тамо погребуся: тако да сотворит мне Господь,
+        и сия да приложит, яко смерть разлучит между мною и тобою."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 и3дёже ѓще ќмреши, ўмрY и3 тaмw погребyсz: тaкw да сотвори1тъ мнЁ
+        гDь, и3 сі‰ да приложи1тъ, ћкw сме1рть разлучи1тъ междY мно1ю и3
+        тобо1ю."
+      sovr_rbo: Где ты умрешь, там и я умру, и там пусть меня похоронят. Пусть так-то
+        и так-то покарает меня Господь — только смерть разлучит нас!»
+      latin: "Quae te terra morientem susceperit, in ea moriar: ibique locum accipiam
+        sepulturae. Haec mihi faciat Dominus, et haec addat, si non sola mors me
+        et te separaverit."
+      ukr: Де помреш ти, там помру й я, і там буду похована. Нехай Господь зробить
+        мені так, і так нехай додасть, і тільки смерть розлучить мене з тобою.
+      nkjv: Where you die, I will die, And there will I be buried. The Lord do so to
+        me, and more also, If anything but death parts you and me."
+      desnitsky: ""
+      mt: ‫    בַּאֲשֶׁר תָּמוּתִי אָמוּת וְשָׁם אֶקָּבֵר כֹּה יַעֲשֶׂה יְהוָה לִי
+        וְכֹה יֹסִיף כִּי הַמָּוֶת יַפְרִיד בֵּינִי וּבֵינֵךְ׃ ‬
+      romana: Unde vei muri tu, voi muri si eu si voi fi ingropata acolo. Orice-mi va
+        face Domnul, numai moartea ma va desparti de tine!"
+      francais: où tu mourras je mourrai, et j'y serai enterrée. Que l'Éternel me
+        traite dans toute sa rigueur, si autre chose que la mort vient à me
+        séparer de toi!
+      italian: dove morirai tu, morirò anch'io e vi sarò sepolta. Il Signore mi
+        punisca come vuole, se altra cosa che la morte mi separerà da te".
+      old_georgian: და სადაცა მოჰკუდე, მოვკუდე მეცა და მუნ დავეფლა. ესე მიყავნ მე
+        უფალმან და ესე შემძინენ, რამეთუ სიკუდილმან განმწვალოს შენ შორის და ჩემ
+        შორის.
+      portuguese: "Onde quer que morreres, morrerei eu, e ali serei sepultada. Assim
+        me faça o Senhor, e outro tanto, se outra\rcoisa que não seja a morte me
+        separar de ti."
+      polish: "Gdzie ty umrzesz, tam ja umrę i tam będę pogrzebana. Niech mi Pan
+        to\ruczyni i tamto dorzuci, jeśli coś innego niż śmierć oddzieli mnie od
+        ciebie!”"
+      turkish: Sen nerede ölürsen ben de orada öleceğim ve orada gömüleceğim. Eğer
+        ölümden başka bir nedenle senden ayrılırsam, RAB bana daha kötüsünü
+        yapsın.»
+      nrt: Где умрешь ты, умру и я, и там буду похоронена. Пусть Господь сурово
+        накажет меня, если что-нибудь кроме смерти разлучит меня с тобой.
+      Macarius: И где ты умрешь, там и я умру и погребена буду. Пусть то и то соделает
+        мне Господь, и пусть то и то прибавит! смерть одна разлучит меня с
+        тобою.
+      serbian: Потом изиде Јуда са Симеоном, братом својим, и побише Хананеје који
+        живљаху у Сефату, и раскопаше га, и прозва се град Орма.
+      bulgarian: и дето умреш ти, там и аз ще умра и ще бъда погребана; нека Господ ми
+        стори това и това, и нещо повече да стори; само една смърт ще ме раздели
+        от тебе.
+      pavskiy: И где ты умрешь, там и я умру и погребена буду. Пусть то и то соделает
+        мне Господь, и пусть то и то прибавит! смерть одна разлучит меня с
+        тобою.
+      deutsch: Wo du stirbst, da sterbe ich auch, da will ich auch begraben werden.
+        Der Herr tue mir dies und das, der Tod muß mich und dich scheiden.
+      ukr2: Де ти помреш, там і я помру, і там буду похована, і, що б Господь не
+        вчинив зо мною, одна смерть розлучить мене з тобою.”
+      ukr3: І де ти помреш, там і я помру, і бажаю, щоб і мене там поховали. Чи так,
+        чи сяк вчинить зо мною Господь, одна смерть розлучить мене з тобою!
+      bel_syomukha: "і дзе ты памрэш, там і я памру і пахаваная буду; хай тое і тое
+        зробіць мне Гасподзь, і яшчэ болей зробіць: адна сьмерць разьвядзе нас з
+        табою."
+      old_rbo: И где ты умрешь, там и я умру и погребена буду. Пусть то и то соделает
+        мне Господь и пусть то и то прибавит! смерть одна разлучит меня с тобою.
+      spbda: "Где ты умрешь, там и я умру и погребена буду; пусть то и то сделает со
+        мною Господь, пусть и еще больше сделает: смерть одна разлучит меня с
+        тобою."
+      lev-khv: Где ты умрешь, там и я умру и погребена буду. Пусть то и то сделает со
+        мною Господь, пусть и еще больше сделает; смерть одна разлучит меня с
+        тобою.
+      czech: Kde umres ty, umru i ja a tam budu pochovana. At se mnou Hospodin udela,
+        co chce! Rozdeli nas od sebe jen smrt."
+      spanish: donde mueras tú, allí moriré y seré sepultada yo. Que Yavé haga esto y
+        aun añada si no es la muerte la que nos separe a ti y a mí >>.
+      greek-lxx: καὶ οὗ ἐὰν ἀποθάνῃς ἀποθανοῦμαι κἀκεῖ ταφήσομαι τάδε ποιήσαι μοι
+        Κύριος καὶ τάδε προσθείη ὅτι θάνατος διαστελεῖ ἀνὰ μέσον ἐμοῦ καὶ σοῦ
+      st_text: и где ты умрешь, там и я умру и погребена буду; пусть то и то сделает
+        мне Господь, и еще больше сделает; смерть одна разлучит меня с тобою.
+  - id: 33245
+    number: 18
+    bookId: 8
+    text: "[Ноеминь,] видя, что она твердо решилась идти с нею, перестала
+      уговаривать ее."
+    chapter: 1
+    chapterId: 233
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Увидевшая же Ноеминь что утвердилась она [чтобы] идти с ней, утихла
+        [чтобы] произнести к ней уже.
+      csya: Видевши же ноемминь, яко укрепися она ити с нею, умолче глаголати к ней
+        ктому.
+      averincev: ""
+      ungerov: ""
+      csya_old: Ви1дэвши же ноеммjнь, ћкw ўкрэпи1сz nнA и3ти2 съ не1ю, ўмолче2
+        глаго1лати къ не1й ктомY.
+      sovr_rbo: Нооми поняла, что Руфь твердо решила идти с ней, и перестала
+        отговаривать ее.
+      latin: "Videns ergo Noemi quod obstinato animo Ruth decrevisset secum pergere,
+        adversari noluit, nec ad suos ultra reditum persuadere:"
+      ukr: І побачила Ноомі, що вона настоює йти за нею, і перестала вговорювати її.
+      nkjv: When she saw that she was determined to go with her, she stopped speaking
+        to her.
+      desnitsky: ""
+      mt: ‫    וַתֵּרֶא כִּי־מִתְאַמֶּצֶת הִיא לָלֶכֶת אִתָּהּ וַתֶּחְדַּל לְדַבֵּר
+        אֵלֶיהָ׃ ‬
+      romana: Vazand Noemina ca este asa de hotarata sa mearga cu ea, a incetat de a o
+        mai indemna sa se intoarca.
+      francais: Naomi, la voyant décidée à aller avec elle, cessa ses instances.
+      italian: Quando Noemi la vide così decisa ad accompagnarla, cessò di insistere.
+      old_georgian: ხოლო მან ვითარცა იხილა, რამეთუ დაამტკიცა ესრჱთ მისლვად მის თანა,
+        დასცხრა მიერითგან სიტყუად მის თანა.
+      portuguese: Vendo Noêmi que de todo estava resolvida a ir com ela, deixou de lhe
+        falar nisso.
+      polish: "Noemi widząc, że Rut uporczywie obstaje przy tym, aby iść z nią,
+        przestała\rmówić do niej o tym."
+      turkish: "Naomi, Rut'un kendisiyle gitmeye kesin kararlı olduğunu
+        görünce\rüstelemekten vazgeçti."
+      nrt: Когда Ноеминь поняла, что Руфь твердо решилась идти с ней, она перестала ее
+        уговаривать.
+      Macarius: "[Ноеминь] видя, что она твердо решилась идти с нею, перестала
+        уговаривать ее."
+      serbian: И Газу узе Јуда с међама њезинијем, и Аскалон с међама његовијем, и
+        Акарон с међама његовијем.
+      bulgarian: Ноемин, като видя, че тя твърдо е решена да отиде с нея, престана да
+        я придумва.
+      pavskiy: Ноеминь видя, что она твердо решилась идти с нею, перестала уговаравать
+        ее.
+      deutsch: Als sie nun sah, daß sie fest im Sinn war, mit ihr zu gehen, ließ sie
+        ab, mit ihr davon zu reden.
+      ukr2: Як же вона побачила, що та вперлася твердо йти за нею, перестала її
+        вмовляти.
+      ukr3: Як же вона побачила, що тая твердо постановила собі йти з нею, то й
+        перестала вмовляти її.
+      bel_syomukha: Наэмінь, бачачы, што яна цьвёрда рашылася ісьці зь ёю, перастала
+        ўгаворваць яе.
+      old_rbo: "[Ноеминь] видя, что она твердо решилась идти с нею, перестала
+        уговаривать ее."
+      spbda: (Ноеминь) увидев, что она твердо решилась итти с нею, перестала
+        уговаривать ее.
+      lev-khv: <i>Ноеминь</i>, увидев, что она твердо решилась идти с нею, перестала
+        уговаривать ее.
+      czech: Kdyz Noemi videla, ze Rut je odhodlana jit s ni, prestala ji premlouvat.
+      spanish: Viendo que Rut estaba decidida a seguirla, cesó Noemí en sus instancias.
+      greek-lxx: ἰδοῦσα δὲ Νωεμιν ὅτι κραταιοῦται αὐτὴ τοῦ πορεύεσθαι μετ᾿ αὐτῆς
+        ἐκόπασεν τοῦ λαλῆσαι πρὸς αὐτὴν ἔτι
+      st_text: "[Ноеминь,] видя, что она твердо решилась идти с нею, перестала
+        уговаривать ее."
+  - id: 33246
+    number: 19
+    bookId: 8
+    text: "И шли обе они, доколе не пришли в Вифлеем. Когда пришли они в Вифлеем,
+      весь город пришел в движение от них, и говорили: это Ноеминь?"
+    chapter: 1
+    chapterId: 233
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "Они пошли же вдвоём до [тех пор, пока] прийти им в Вифлеем. И вышел
+        весь город к ним и сказали: Эта есть Ноеминь?"
+      csya: "Идосте же обе, дондеже приидосте в вифлеем. И бысть егда приидосте они в
+        вифлеем, и возгласи весь град о них, и рекоша: еда сия есть ноемминь?"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И#до1стэ же џбэ, до1ндеже пріидо1стэ въ виfлее1мъ. И# бы1сть є3гдA
+        пріидо1стэ nни2 въ виfлее1мъ, и3 возгласи2 ве1сь грaдъ њ ни1хъ, и3
+        реко1ша: є3дA сіS є4сть ноеммjнь;"
+      sovr_rbo: Они шли вдвоем до самого Вифлеема. Их приход произвел большой шум в
+        городе. «Неужели это Нооми?!» — восклицали женщины.
+      latin: "profectaeque sunt simul, et venerunt in Bethlehem. Quibus urbem
+        ingressis, velox apud cunctos fama percrebruit: dicebantque mulieres:
+        Haec est illa Noemi."
+      ukr: "І пішли вони вдвох, аж прийшли до Віфлеєму. І сталося, коли вони входили
+        до Віфлеєму, то зашуміло все місто про них, і говорили: Чи це Ноомі?"
+      nkjv: Now the two of them went until they came to Bethlehem. And it happened,
+        when they had come to Bethlehem, that all the city was excited because
+        of them; and the women said, "Is this Naomi?"
+      desnitsky: ""
+      mt: ‫    וַתֵּלַכְנָה שְׁתֵּיהֶם עַד־בֹּאָנָה בֵּית לָחֶם וַיְהִי כְּבֹאָנָה
+        בֵּית לֶחֶם וַתֵּהֹם כָּל־הָעִיר עֲלֵיהֶן וַתֹּאמַרְנָה הֲזֹאת נָעֳמִי׃
+        ‬
+      romana: 'Si au plecat amandoua si au venit la Betleem. Iar daca au sosit aici,
+        s-a zvonit de ele in toata cetatea si se zicea: "Oare aceasta este
+        Noemina?"'
+      francais: "Elles firent ensemble le voyage jusqu'à leur arrivée à Bethléhem. Et
+        lorsqu'elles entrèrent dans Bethléhem, toute la ville fut émue à cause
+        d'elles, et les femmes disaient: Est-ce là Naomi?"
+      italian: "Così fecero il viaggio insieme fino a Betlemme. Quando giunsero a
+        Betlemme, tutta la città s'interessò di loro. Le donne dicevano: \"È
+        proprio Noemi!\"."
+      old_georgian: "და წარმოვიდეს მიერ ორნივე და მოვიდეს ბეთლემდ. და იყო, ვითარცა
+        მოიწინეს იგინი ბეთლემდ, ოხრიდა ყოველი იგი ქალაქი მათ ზედა და თქუეს:
+        უკუეთუ ნანდჳლ ნოომინ არს ესე?"
+      portuguese: "Assim, pois, foram-se ambas, até que chegaram a Belém. E sucedeu
+        que, ao entrarem em Belém, toda a cidade\rse comoveu por causa delas, e
+        as mulheres perguntavam: É esta, porventura, Noêmi?"
+      polish: "Poszły we dwie, aż doszły do Betlejem. A gdy weszły do Betlejem,
+        zawrzało\ro nich w całym mieście, a kobiety mówiły: ”Więc to jest
+        Noemi!”"
+      turkish: "Böylece ikisi Beytlehem'e kadar yola devam\rettiler. Dönüşleri bütün
+        kenti ayağa kaldırdı. Kadınlar birbirlerine, «Naomi bu\rmu?» diye
+        sordular."
+      nrt: "И обе женщины пошли дальше, пока не пришли в Вифлеем. Когда они пришли в
+        Вифлеем, весь город пришел в движение из-за них, и женщины восклицали: –
+        Неужели это Ноеминь?"
+      Macarius: "И пошли обе они и пришли в Вифлеем. Когда пришли они в Вифлеем, весь
+        город пришел в движение от них, и говорили: это Ноеминь?"
+      serbian: Јер Господ бјеше с Јудом, те освоји гору; али не изагна онијех који
+        живљаху у долини, јер имаху гвоздена кола.
+      bulgarian: "И вървяха те двете, докле стигнаха до Витлеем. Когато дойдоха във
+        Витлеем, цял град се раздвижи поради тях, и казваха: тая ли е Ноемин?"
+      pavskiy: "И пошли обе оне, и пришли в Вифлеем. Когда пришли оне в Вифлеем, весь
+        город пришел в движение от них, и говорили: это Ноеминь?"
+      deutsch: "Also gingen die beiden miteinander, bis sie gen Bethlehem kamen. Und
+        da sie nach Bethlehem hineinkamen, regte sich die ganze Stadt über ihnen
+        und sprach: Ist das die Naemi?"
+      ukr2: "І пішли вони обидві разом, поки не прийшли до Вифлеєму. І як увійшли у
+        Вифлеєм, то все місто з-за них загомоніло, і жінки питали: “Чи не Ноема
+        то?”"
+      ukr3: "От і йшли вони обидві вкупі, доки не прийшли до Вефлеєма. Як прийшли вони
+        у Вефлеєм, усе місто заворушилось через їх, і говорили: Чи не Ноема се?"
+      bel_syomukha: "І ішлі абедзьве яны, пакуль ня прыйшлі ў Віфляем. Калі яны
+        прыйшлі ў Віфляем, увесь горад прыйшоў у рух ад іх, і казалі: гэта
+        Наэмінь?"
+      old_rbo: "И пошли обе оне и пришли в Вифлеем. Когда пришли оне в Вифлеем, весь
+        город пришел в движение от них, и говорили: это Ноеминь?"
+      spbda: "И шли обе оне, пока не пришли в Вифлеем. И когда пришли оне в Вифлеем,
+        весь город пришел в движение от них, и говорил: это Ноеминь?"
+      lev-khv: "И шли обе оне, пока не пришли в Вифлеем. И было, когда пришли оне в
+        Вифлеем; весь город пришел в движение от них, и говорил: это Ноеминь?"
+      czech: 'Tak sly obe, az dosly do Betlema. Kdyz prisly do Betlema, shluklo se
+        kolem nich cele mesto. Zeny se ptaly: "Je toto Noemi?"'
+      spanish: "Juntas hicieron el camino hasta llegar a Belén; y cuando entraron,
+        toda la ciudad se conmovió al verlas, y las mujeres se decían: << ¿Es
+        ésta Noemí?>>"
+      greek-lxx: ἐπορεύθησαν δὲ ἀμφότεραι ἕως τοῦ παραγενέσθαι αὐτὰς εἰς Βαιθλεεμ καὶ
+        ἤχησεν πᾶσα ἡ πόλις ἐπ᾿ αὐταῖς καὶ εἶπον αὕτη ἐστὶν Νωεμιν
+      st_text: "И шли обе они, доколе не пришли в Вифлеем. Когда пришли они в Вифлеем,
+        весь город пришел в движение от них, и говорили: это Ноеминь?"
+  - id: 33247
+    number: 20
+    bookId: 8
+    text: "Она сказала им: не называйте меня Ноеминью*, а называйте меня Марою**,
+      потому что Вседержитель послал мне великую горесть; <i>//*Приятная</i>.
+      <i>/**Горькая</i>."
+    chapter: 1
+    chapterId: 233
+    parallels:
+      - verseId: 19938
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 9
+        short: Иов:9:18
+    translates:
+      kassian: ""
+      podstr: "и она сказала к ним: Не поэтому зовите меня Ноеминь, зовите меня
+        Горькой, потому что было сделано горько на мне достаточно очень;"
+      csya: "И рече к ним: не зовите убо мене ноемминь, но зовите мене горька: яко
+        исполни мя горести вседержитель зело:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 къ ни6мъ: не зови1те ў2бо мене2 ноеммjнь, но зови1те мене2
+        горькA: ћкw и3спо1лни мS го1рести вседержи1тель ѕэлw2:"
+      sovr_rbo: "Нооми отвечала им: «Не зовите меня больше Нооми , а называйте Мара ,
+        потому что горе послал мне Всесильный!"
+      latin: "Quibus ait: Ne vocetis me Noemi (id est, pulchram), sed vocate me Mara
+        (id est, amaram), quia amaritudine valde replevit me Omnipotens."
+      ukr: "А вона сказала їм: Не кличте мене: Ноомі, кличте мене: Мара, бо велику
+        гіркоту зробив мені Всемогутній."
+      nkjv: But she said to them, "Do not call me Naomi; call me Mara, for the
+        Almighty has dealt very bitterly with me.
+      desnitsky: ""
+      mt: ‫    וַתֹּאמֶר אֲלֵיהֶן אַל־תִּקְרֶאנָה לִי נָעֳמִי קְרֶאןָ לִי מָרָא
+        כִּי־הֵמַר שַׁדַּי לִי מְאֹד׃ ‬
+      romana: 'Iar ea zicea: "Nu ma mai numiti Noemina, ci numiti-ma Mara, pentru ca
+        amaraciune mare mi-a trimis Atottiitorul.'
+      francais: "Elle leur dit: Ne m'appelez pas Naomi; appelez-moi Mara, car le Tout
+        Puissant m'a remplie d'amertume."
+      italian: "Essa rispondeva: \"Non mi chiamate Noemi, chiamatemi Mara, perché
+        l'Onnipotente mi ha tanto amareggiata!"
+      old_georgian: "და ჰრქუა მათ: ნუ მრქუათ მე ნოომინ, არამედ მარქუთ მე სიმწარე,
+        რამეთუ განამწარა ძლიერმან ჩემ ზედა,"
+      portuguese: "Ela, porém, lhes respondeu: Não me chameis Noêmi; chamai-me Mara,
+        porque o Todo-Poderoso me encheu de\ramargura."
+      polish: "Powiedziała do nich: ”Nie nazywajcie mnie Noemi, ale nazywajcie mnie
+        Mara,\rbo Wszechmogący napełnił mnie goryczą."
+      turkish: Naomi onlara, «Beni, Naomi değil, Mara diye çağırın» dedi. «Çünkü Her
+        Şeye Gücü Yeten Tanrı bana çok acı verdi.
+      nrt: – Не зовите меня Ноеминь, – сказала она им. – Зовите меня Мара, потому что
+        Всемогущий сделал мою жизнь очень горькой.
+      Macarius: "Она сказала им: не называйте меня Ноеминью, а называйте меня Марою;
+        поелику Вседержитель послал мне великую горесть."
+      serbian: И дадоше Халеву Хеврон, као што бјеше заповједио Мојсије, а он изагна
+        оданде три сина Енакова.
+      bulgarian: "Тя им рече: не ме наричайте Ноемин *, наричайте ме Мара **, защото
+        Вседържителят ми прати голяма горчивина; // * Приятна. ** Горчива."
+      pavskiy: "Она сказала им: не называйте меня Ноеминью, а называйте меня Марою*:
+        поелику Вседержитель послал мне великую горесть. //*Огорченная"
+      deutsch: "Sie aber sprach: Heißt mich nicht Naemi, sondern Mara; denn der
+        Allmächtige hat mich sehr betrübt."
+      ukr2: "Вона ж до них: “Не звіть мене Ноема, звіть мене Мара, бо Всемогутній
+        послав на мене велике горе."
+      ukr3: "Вона сказала їм: не звіть мене Ноемою*, а звіть Марою**, бо Всемогущий
+        послав на мене велике горе."
+      bel_syomukha: "Яна сказала ім: не называйце мяне Наэмінь, а называйце мяне
+        Мараю, бо Ўсемагутны спаслаў мне вялікую гароту;"
+      old_rbo: "Она сказала им: не называйте меня Ноеминью, а называйте меня Марою;
+        поелику Вседержитель послал мне великую горесть."
+      spbda: "Она сказала им: не называйте меня Ноеминью: а называйте меня Марою; ибо
+        Всемогущий послал мне великую горесть;"
+      lev-khv: "Она сказала им: не называйте меня Ноеминью, а называйте меня Марою;
+        потому что Всемогущий послал мне великую горесть."
+      czech: 'Odvetila jim: "Nenazyvejte me Noemi (to je Rozkosna). Nazyvejte me Mara
+        (to je Trpka), nebot Vsemohouci mi pripravil velmi trpky udel.'
+      spanish: "Y ella les contestaba: <<No me llaméis más Noemí; llamadme Mara,
+        porque el Omnipotente me ha llenado de amargura."
+      greek-lxx: καὶ εἶπεν πρὸς αὐτάς μὴ δὴ καλεῖτέ με Νωεμιν καλέσατέ με Πικράν ὅτι
+        ἐπικράνθη ἐν ἐμοὶ ὁ ἱκανὸς σφόδρα
+      st_text: "Она сказала им: не называйте меня Ноеминью*, а называйте меня Марою**,
+        потому что Вседержитель послал мне великую горесть; <i>//*Приятная</i>.
+        <i>/**Горькая</i>."
+  - id: 33248
+    number: 21
+    bookId: 8
+    text: я вышла отсюда с достатком, а возвратил меня Господь с пустыми руками;
+      зачем называть меня Ноеминью, когда Господь заставил меня страдать, и
+      Вседержитель послал мне несчастье?
+    chapter: 1
+    chapterId: 233
+    parallels:
+      - verseId: 10442
+        bookId: 1
+        bookCode: bytie
+        chapter: 32
+        short: Быт:32:10
+    translates:
+      kassian: ""
+      podstr: я полной вышла, и пустой возвратил меня Господь; и что [же есть] что
+        зовёте меня Ноеминь и Господь принизил меня, и достаточно причинил зло
+        мне.
+      csya: "аз исполнь отъидох, и ныне тщу мя возврати Господь: и вскую мя нарицаете
+        ноемминь, Господь смири мя и вседержитель озлоби мя?"
+      averincev: ""
+      ungerov: ""
+      csya_old: "ѓзъ и3спо1лнь tидо1хъ, и3 нн7э тщY мS возврати2 гDь: и3 вскyю мS
+        нарицaете ноеммjнь, гDь смири1 мz и3 вседержи1тель њѕло1би мS;"
+      sovr_rbo: Когда я уходила, у меня было все, но Господь привел меня обратно ни с
+        чем. Зачем же вы называете меня Нооми? Господь осудил меня, Всесильный
+        послал мне несчастье».
+      latin: Egressa sum plena, et vacuam reduxit me Dominus. Cur ergo vocatis me
+        Noemi, quam Dominus humiliavit, et afflixit Omnipotens?
+      ukr: "Я заможною пішла була, та порожньою вернув мене Господь. Чого кличете
+        мене: Ноомі, коли Господь свідчив проти мене, а Всемогутній послав мені
+        горе?"
+      nkjv: I went out full, and the Lord has brought me home again empty. Why do you
+        call me Naomi, since the Lord has testified against me, and the Almighty
+        has afflicted me?"
+      desnitsky: ""
+      mt: ‫    אֲנִי מְלֵאָה הָלַכְתִּי וְרֵיקָם הֱשִׁיבַנִי יְהוָה לָמָּה תִקְרֶאנָה
+        לִי נָעֳמִי וַיהוָה עָנָה בִי וְשַׁדַּי הֵרַע‪‬‪‬ לִי׃ ‬
+      romana: Indestulata am iesit eu de aici, iar Domnul m-a intors cu mainile goale.
+        La ce sa ma mai numiti Noemina, cand Domnul m-a facut sa sufar si
+        Atottiitorul mi-a trimis necaz?"
+      francais: J'étais dans l'abondance à mon départ, et l'Éternel me ramène les
+        mains vides. Pourquoi m'appelleriez-vous Naomi, après que l'Éternel
+        s'est prononcé contre moi, et que le Tout Puissant m'a affligée?
+      italian: Io ero partita piena e il Signore mi fa tornare vuota. Perché chiamarmi
+        Noemi, quando il Signore si è dichiarato contro di me e l'Onnipotente mi
+        ha resa infelice?".
+      old_georgian: რამეთუ მე სავსე წარვედ და ცალიერი მომაქცია მე უფალმან, რაჲსათჳს
+        მრქუათ მე ნოომინ? და უფალმან დამამდაბლა მე და ძლიერმან ბოროტი მიყო მე.
+      portuguese: "Cheia parti, porém vazia o Senhor me fez tornar. Por que, pois, me
+        chamais Noêmi, visto que o Senhor\rtestemunhou contra mim, e o
+        Todo-Poderoso me afligiu?"
+      polish: "Pełna wyszłam, a pustą sprowadził mnie Pan. Czemu nazywacie mnie
+        Noemi,\rgdy Pan wydał świadectwo przeciw mnie, a Wszechmogący uczynił
+        mnie\rnieszczęśliwą?”"
+      turkish: Giderken her şeyim vardı, ama RAB beni eli boş döndürdü. Beni niçin
+        Naomi diye çağırasınız ki? Görüyorsunuz, RAB beni sıkıntıya soktu, Her
+        Şeye Gücü Yeten Tanrı başıma felaket getirdi.»
+      nrt: Я вышла отсюда в достатке, но Господь вернул меня обратно ни с чем. Зачем
+        звать меня Ноеминь? Господь заставил меня страдать; Всемогущий навел на
+        меня беду.
+      Macarius: Я вышла отсюда с достатком, а возвратил меня Господь с пустыми руками.
+        Зачем называть меня Ноеминью, когда Господь заставил меня страдать, и
+        Вседержитель послал мне несчастие?
+      serbian: А синови Венијаминови не изагнаше Јевусеја који живљаху у Јерусалиму,
+        него Јевусеји осташе у Јерусалиму са синовима Венијаминовијем до овога
+        дана.
+      bulgarian: "аз излязох оттука заможна, а Господ ме върна с празни ръце: защо ще
+        ме наричате Ноемин, когато Господ ме накара да страдам, и Вседържителят
+        ми прати нещастие?"
+      pavskiy: Я вышла отсюда с достатком, а возвратил меня Господь с пустыми руками.
+        За чем называть меня Ноеминью, когда Господь заставил меня страдать, и
+        Вседержитель послал мне несчастие?
+      deutsch: Voll zog ich aus, aber leer hat mich der Herr wieder heimgebracht.
+        Warum heißt ihr mich denn Naemi, so mich doch der Herr gedemütigt und
+        der Allmächtige betrübt hat?
+      ukr2: Я вийшла звідсіль повна, а Господь повернув мене з порожніми руками.
+        Навіщо ви звете мене Ноема, коли Господь виступив проти мене, і
+        Всемогутній зробив мене безталанною?”
+      ukr3: Я вийшла звідсїль заможна, а Господь вернув мене сюди з порожнїми руками.
+        Навіщо ви звете мене Ноемою, коли Господь напустив на мене допуст, і
+        Всемогущий послав на мене смуток?
+      bel_syomukha: я выйшла адсюль у дастатку, а вярнуў мяне Гасподзь з пустымі
+        рукамі; навошта называць мяне Наэміньню, калі Гасподзь прымусіў мяне
+        пакутаваць, і ‹семагутны паслаў мне няшчасьце?
+      old_rbo: Я вышла отсюда с достатком, а возвратил меня Господь с пустыми руками.
+        Зачем навывать меня Ноеминью, когда Господь заставил меня страдать, и
+        Вседержитель послал мне несчастие?
+      spbda: Я пошла с достатком, а возвратил меня Господь с пустыми руками; зачем
+        называть меня Ноеминью, когда Господь заставил меня страдать и
+        Всемогущий послал мне несчастие?
+      lev-khv: Я пошла с достатком, а возвратил меня Господь с пустыми руками. Зачем
+        называть меня Ноеминью, когда Господь заставил меня страдать, и
+        Всемогущий послал мне несчастие?
+      czech: Odchazela jsem s plnou naruci, ale Hospodin me privadi zpet s prazdnou.
+        Jak byste me mohly nazyvat Noemi, kdyz je Hospodin proti mne a kdyz mi
+        Vsemohouci urcil zly udel?"
+      spanish: Salí con las manos llenas, y Yavé me ha hecho volver con las manos
+        vacías. ¿Por qué, pues, habríais de llamarme más Noemí, una vez que Yavé
+        da testimonio contra mí y me ha afligido el Omnipotente>>?
+      greek-lxx: ἐγὼ πλήρης ἐπορεύθην καὶ κενὴν ἀπέστρεψέν με ὁ Κύριος καὶ ἵνα τί
+        καλεῖτέ με Νωεμιν καὶ Κύριος ἐταπείνωσέν με καὶ ὁ ἱκανὸς ἐκάκωσέν με
+      st_text: я вышла отсюда с достатком, а возвратил меня Господь с пустыми руками;
+        зачем называть меня Ноеминью, когда Господь заставил меня страдать, и
+        Вседержитель послал мне несчастье?
+  - id: 33249
+    number: 22
+    bookId: 8
+    text: И возвратилась Ноеминь, и с нею сноха ее Руфь Моавитянка, пришедшая с
+      полей Моавитских, и пришли они в Вифлеем в начале жатвы ячменя.
+    chapter: 1
+    chapterId: 233
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И возвратилась Ноеминь и Руфь Моавитянка невестка её вернувшись с поля
+        Моава; эти же пришли в Вифлеем в начале жатвы ячменя.
+      csya: "И возвратися ноемминь и руфь моавитиня сноха ея с нею, обращающыяся с
+        села моавля: и приидосте в вифлеем в начале жатвы ячменя."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# возврати1сz ноеммjнь и3 рyfь мwавjтінz снохA є3S съ не1ю,
+        њбращaющыzсz съ селA мwaвлz: и3 пріидо1стэ въ виfлее1мъ въ начaлэ жaтвы
+        kчме1нz."
+      sovr_rbo: Так вернулась Нооми, и с нею из страны Моав пришла ее сноха,
+        моавитянка Руфь. Когда они прибыли в Вифлеем, как раз начиналась жатва
+        ячменя .
+      latin: "Venit ergo Noemi cum Ruth Moabitide nuru sua, de terra peregrinationis
+        suae: ac reversa est in Bethlehem, quando primum hordea metebantur."
+      ukr: І вернулася Ноомі та з нею моавітянка Рут, невістка її, що верталася з
+        моавських піль. І прийшли вони до Віфлеєму на початку жнив ячменю.
+      nkjv: So Naomi returned, and Ruth the Moabitess her daughter-in-law with her,
+        who returned from the country of Moab. Now they came to Bethlehem at the
+        beginning of barley harvest.
+      desnitsky: ""
+      mt: ‫    וַתָּשָׁב נָעֳמִי וְרוּת הַמּוֹאֲבִיָּה כַלָּתָהּ עִמָּהּ הַשָּׁבָה
+        מִשְּׂדֵי מוֹאָב וְהֵמָּה בָּאוּ בֵּית לֶחֶם בִּתְחִלַּת קְצִיר
+        שְׂעֹרִים׃ ‬
+      romana: Asa s-a intors Noemina cu nora sa Rut moabiteanca, venind din sesul
+        Moabitilor si au intrat in Betleem pe la inceputul secerisului orzului.
+      francais: Ainsi revinrent du pays de Moab Naomi et sa belle-fille, Ruth la
+        Moabite. Elles arrivèrent à Bethléhem au commencement de la moisson des
+        orges.
+      italian: Così Noemi tornò con Rut, la Moabita, sua nuora, venuta dalle campagne
+        di Moab. Esse arrivarono a Betlemme quando si cominciava a mietere
+        l'orzo.
+      old_georgian: და მოიქცა ნოომინ და მოვიდა და რუთ მოაბელი, ძის ცოლი მისი მის თანა,
+        მოვიდეს ქუეყანით მოაბისაჲთ. და ესენი მოვიდეს ბეთლემდ დასაბამსა ოდენ
+        მკისასა ქრთილისასა.
+      portuguese: "Assim Noêmi voltou, e com ela Rute, a moabita, sua nora, que veio
+        do país de Moabe; e chegaram a Belém no\rprincipio da sega da cevada."
+      polish: "Wróciła więc Noemi, a z nią była Rut Moabitka, jej synowa, która
+        przyszła\rz ziemi Moabu. Przyszły zaś do Betlejem na początku żniw
+        jęczmienia."
+      turkish: İşte Naomi, Moavlı gelini Rut'la birlikte Moav topraklarından böyle
+        döndü. Beytlehem'e gelişleri, arpanın biçilmeye başlandığı zamana
+        rastlamıştı.
+      nrt: Так Ноеминь вернулась из Моава с моавитянкой Руфью, своей снохой. Они
+        пришли в Вифлеем в начале жатвы ячменя.
+      Macarius: И таким образом возвратилась Ноеминь, и с нею сноха ее Руфь
+        Моавитянка, пришедшая с полей Моавитских, и пришли они в Вифлеем в
+        начале жатвы ячменя.
+      serbian: Изидоше и синови Јосифови на Ветиљ, и Господ бијаше с њима.
+      bulgarian: И Ноемин се върна, а заедно с нея и снаха й, моавката Рут, която
+        дойде от Моавските поля; те пристигнаха във Витлеем, когато се бе
+        наченала ечемичната жетва.
+      pavskiy: И таким образом возвратилась Ноеминь, и с нею сноха ея Руфь,
+        моавитянка, пришедшая с полей моавитских, и пришли оне в Вифлеем в
+        начале жатвы ячменя.
+      deutsch: Es war aber um die Zeit, daß die Gerstenernte anging, da Naemi mit
+        ihrer Schwiegertochter Ruth, der Moabitin, wiederkam vom Moabiterlande
+        gen Bethlehem.
+      ukr2: І повернулись Ноема, а з нею Рута, її невістка, моавитянка, що прийшла з
+        моавських піль, і прибули вони у Вифлеєм, саме на початку ячмінних жнив.
+      ukr3: І вернулась Ноема, і з нею її невістка Рут, Моабитянка, що прийшла з
+        Моабських полів, і прибули вони до Вефлеєма саме перед ячмінними
+        жнивами.
+      bel_syomukha: І вярнулася Наэмінь, і зь ёю нявестка яе Рут Маавіцянка, якая
+        прыйшла з палёў Маавіцкіх, і прыйшлі яны ў Віфляем на пачатку жніва
+        ячменю.
+      old_rbo: И таким образом возвратилась Ноеминь, и с нею сноха ея Руфь Моавитянка,
+        пришедшая с полей Моавитских; и пришли оне в Вифлеем в начале жатвы
+        ячменя.
+      spbda: Итак возвратилась Ноеминь, и с нею сноха ея Руфь Моавитянка,
+        возвращавшаяся с полей Моавитских; и пришли оне в Вифлеем в начале жатвы
+        ячменя.
+      lev-khv: И так возвратилась Ноеминь, и с нею сноха ея Руфь, Моавитянка,
+        пришедшая с полей Моавитских, и пришли оне в Вифлеем в начале жатвы
+        ячменя.
+      czech: Tak se Noemi vratila a s ni se navratila z Moabskych poli jeji snacha,
+        moabska Rut. Prisly do Betlema, kdyz zacinala sklizen jecmene.
+      spanish: Así se volvió Noemí con Rut la moabita, su nuera, y vino de la tierra
+        de Moab, llegando de los campos de Moab a Belén cuando comenzaba la
+        siega de las cebadas.
+      greek-lxx: καὶ ἐπέστρεψεν Νωεμιν καὶ Ρουθ ἡ Μωαβῖτις ἡ νύμφη αὐτῆς ἐπιστρέφουσα
+        ἐξ ἀγροῦ Μωαβ αὐταὶ δὲ παρεγενήθησαν εἰς Βαιθλεεμ ἐν ἀρχῇ θερισμοῦ
+        κριθῶν
+      st_text: И возвратилась Ноеминь, и с нею сноха ее Руфь Моавитянка, пришедшая с
+        полей Моавитских, и пришли они в Вифлеем в начале жатвы ячменя.

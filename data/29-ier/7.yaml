@@ -1,0 +1,3202 @@
+id: 873
+number: 7
+bookId: 29
+verseCount: 34
+title: Глава 7
+verses:
+  - id: 16531
+    number: 1
+    bookId: 29
+    text: "Слово, которое было к Иеремии от Господа:"
+    chapter: 7
+    chapterId: 873
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Слово, еже бысть ко иеремии от Господа, глаголющее:"
+      averincev: ""
+      ungerov: "Слово, которое было к Иеремии от Господа:"
+      csya_old: "Сло1во, є4же бы1сть ко їеремjи t гDа, гlющее:"
+      sovr_rbo: "Вот слово, которое было Иеремии от Господа:"
+      latin: "Verbum quod factum est ad Jeremiam a Domino, dicens:"
+      ukr: "Слово, що було до Єремії від Господа, говорячи:"
+      nkjv: The word that came to Jeremiah from the Lord, saying,
+      desnitsky: ""
+      mt: ‫    הַדָּבָר אֲשֶׁר הָיָה אֶל־יִרְמְיָהוּ מֵאֵת יְהוָה לֵאמֹר׃ ‬
+      romana: 'Cuvantul ce a fost de la Domnul catre Ieremia: "Stai in usa templului
+        Domnului si rosteste acolo cuvantul acesta si zi:'
+      francais: "La parole qui fut adressée à Jérémie de la part de l'Éternel, en ces
+        mots:"
+      italian: "Questa è la parola che fu rivolta dal Signore a Geremia:"
+      old_georgian: "სიტყუა, რომელი იყო იერემიას მიმართ უფლისა მიერ და ჰრქუა:"
+      portuguese: "A palavra que da parte do Senhor veio a Jeremias, dizendo:"
+      polish: "Słowo, które Pan skierował do Jeremiasza:"
+      turkish: "RAB Yeremya'ya şöyle seslendi:"
+      nrt: "Слово Господа, которое было к Иеремии:"
+      Macarius: "Слово, которое было к Иеремии от Иеговы, глаголившего:"
+      serbian: "Ријеч која дође Јеремији од Господа говорећи:"
+      bulgarian: "Слово, което биде към Иеремия от Господа:"
+      Olesn: "Слово, бывшее в Иеремии, от Иеговы, такое:"
+      deutsch: "Dies ist das Wort, welches geschah zu Jeremia vom Herrn, und sprach:"
+      ukr2: "Слово, що надійшло до Єремії від Господа:"
+      ukr3: "Слово, що надійшло до Еремії від Господа:"
+      bel_syomukha: "Слова, якое было Ераміі ад Госпада:"
+      czech: "Slovo, ktere se stalo od Hospodina k Jeremjasovi:"
+      spanish: "Palabra de Yavé que llegó a Jeremías, diciéndole:"
+      greek-lxx: ""
+      st_text: "Слово, которое было к Иеремии от Господа:"
+  - id: 16532
+    number: 2
+    bookId: 29
+    text: "стань во вратах дома Господня и провозгласи там слово сие и скажи:
+      слушайте слово Господне, все Иудеи, входящие сими вратами на поклонение
+      Господу."
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 20372
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 29
+        short: Ис:29:21
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "стани во вратех дому Господня и проповеждь тамо слово то и глаголи:
+        слышите слово Господне, вся иудеа, ходящии сквозе врата сия, да
+        поклонитеся Господу:"
+      averincev: ""
+      ungerov: "Стань во вратах дома Господня и возвести там слово сие, и скажи:
+        слушайте слово Господне, все Иудеи, входящие сими воротами на поклонение
+        Господу."
+      csya_old: "стaни во вратёхъ до1му гDнz и3 проповёждь тaмw сло1во то2 и3
+        глаго1ли: слы1шите сло1во гDне, всS їуде1а, ходsщіи сквозЁ вратA сі‰, да
+        покло1нитесz гDу:"
+      sovr_rbo: "«Встань у ворот Храма Господа и возвести там такое слово, скажи:
+        слушай слово Господа, вся Иудея! Слушайте все, кто входит в эти ворота,
+        чтобы поклониться Господу!»"
+      latin: "Sta in porta domus Domini, et praedica ibi verbum istud, et dic: Audite
+        verbum Domini, omnis Juda, qui ingredimini per portas has ut adoretis
+        Dominum."
+      ukr: "Стань у брамі Господнього дому, і прокажеш там слово оце та промовиш:
+        Послухайте слово Господнє, ввесь Юдо, що ходите брамами цими вклонятися
+        Господу."
+      nkjv: "\"Stand in the gate of the Lord's house, and proclaim there this word,
+        and say, 'Hear the word of the Lord, all you of Judah who enter in at
+        these gates to worship the Lord!' \" "
+      desnitsky: ""
+      mt: ‫    עֲמֹד בְּשַׁעַר בֵּית יְהוָה וְקָרָאתָ שָּׁם אֶת־הַדָּבָר הַזֶּה
+        וְאָמַרְתָּ שִׁמְעוּ דְבַר־יְהוָה כָּל־יְהוּדָה הַבָּאִים בַּשְּׁעָרִים
+        הָאֵלֶּה לְהִשְׁתַּחֲוֺת לַיהוָה׃ ס ‬
+      romana: Ascultati cuvantul Domnului, toti barbatii lui Iuda, care intrati pe
+        aceasta poarta ca sa va inchinati Domnului!
+      francais: "Place-toi à la porte de la maison de l'Éternel, Et là publie cette
+        parole, Et dis: Écoutez la parole de l'Éternel, Vous tous, hommes de
+        Juda, qui entrez par ces portes, Pour vous prosterner devant l'Éternel!"
+      italian: '"Fermati alla porta del tempio del Signore e là pronunzia questo
+        discorso dicendo: Ascoltate la parola del Signore, voi tutti di Giuda
+        che attraversate queste porte per prostrarvi al Signore.'
+      old_georgian: "დადეგ ბჭეთა სახლისა უფლისათა და აღმოიკითხე სიტყუა ესე და არქუ:
+        ისმინეთ სიტყუაჲ უფლისაჲ ყოველმან იუდეამან, რომელნი შეხუალთ ბჭეთა ამათ
+        თაყუანის-ცემად უფლისა."
+      portuguese: "Põe-te à porta da casa do Senhor, e proclama ali esta palavra, e
+        dize: Ouvi a palavra do Senhor, todos de Judá, os\rque entrais por estas
+        portas, para adorardes ao Senhor."
+      polish: "”Stań w bramie świątyni i głoś następujące słowa: Słuchajcie słowa
+        Pańskiego, wszyscy z Judy, którzy wchodzicie tymi bramami, aby oddać
+        pokłon\rPanu."
+      turkish: "«RAB'bin Tapınağı'nın kapısında durup şu sözü duyur. De ki,\r«`RAB'bin
+        sözünü dinleyin, ey RAB'be tapınmak için bu kapılardan giren Yahuda
+        halkı!"
+      nrt: "– Встань у ворот дома Господа и возвещай там вот что: – Слушай слово
+        Господа, весь народ Иудеи, входящий через эти ворота поклоняться
+        Господу."
+      Macarius: "Стань во вратах дома Иеговы, и провозгласи там слово сие, и скажи:
+        слушайте слово Иеговы все иудеи, ходящие сими вратами на поклонение
+        Иегове."
+      serbian: "Стани на вратима дома Господњега, и огласи ондје ову ријеч, и реци:
+        Чујте ријеч Господњу, сви Јудејци, који улазите на ова врата да се
+        поклоните Господу."
+      bulgarian: "застани при вратата на дома Господен и обяви там това слово и кажи:
+        чуйте словото Господне, всички иудеи, които влизате през тия врата да се
+        покланяте на Господа."
+      Olesn: "Стань в воротах дома Иеговы,\rИ возгласи там слово сие,\rИ скажи:
+        выслушайте слово Иеговы,\rВсе Иудеи, вступающие в ворота эти Чтобы
+        поклониться Иегове."
+      deutsch: "Tritt ins Tor im Hause des Herr und predige daselbst dies Wort und
+        sprich: Höret des Herrn Wort, ihr alle von Juda, die ihr zu diesen Toren
+        eingehet, den Herrn anzubeten!"
+      ukr2: "«Стань у дверях дому Господнього і промов там оце слово, скажи:
+        Вислухайте слово Господнє, ви всі юдеї, що входите в ці двері
+        поклонитись Господеві!»"
+      ukr3: "Увійди в двері дому Господнього й промов там оце слово, й скажи:
+        Вислухайте слово Господнє, ви всї Юдеї, що ввіходите в цї двері
+        поклонитись Господеві."
+      bel_syomukha: "стань у браме дома Гасподняга і абвясьці там слова гэтае і скажы:
+        слухайце слова Гасподняе, усе Юдэі, якія ўваходзяць праз гэтую браму на
+        пакланеньне Госпаду."
+      czech: '"Postav se do brany Hospodinova domu a volej tam toto slovo. Reknes:
+        Slyste slovo Hospodinovo, vsichni Judejci, kteri vchazite temito branami
+        klanet se Hospodinu."'
+      spanish: "Ponte a la puerta del templo y pronuncia estas palabras y di: Oíd la
+        palabra de Yavé todos los de Judá que entráis por estas puertas para
+        adorar a Yavé."
+      greek-lxx: ἀκούσατε λόγον Κυρίου πᾶσα ἡ Ιουδαία
+      st_text: "стань во вратах дома Господня и провозгласи там слово сие и скажи:
+        слушайте слово Господне, все Иудеи, входящие сими вратами на поклонение
+        Господу."
+  - id: 16533
+    number: 3
+    bookId: 29
+    text: "Так говорит Господь Саваоф, Бог Израилев: исправьте пути ваши и деяния
+      ваши, и Я оставлю вас жить на сем месте."
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 8899
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 17
+        short: 4 Цар:17:13
+      - verseId: 15461
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 18
+        short: Иер:18:11
+      - verseId: 15688
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 26
+        short: Иер:26:13
+      - verseId: 15966
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 35
+        short: Иер:35:15
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "сия глаголет Господь сил, Бог израилев: исправити пути вашя и начинания
+        ваша, и вселю вы на месте сем."
+      averincev: ""
+      ungerov: "Так говорит Господь сил, Бог Израилев: исправьте пути ваши и дела
+        ваши, и поселю вас на месте сем."
+      csya_old: "сі‰ гlетъ гDь си1лъ, бг7ъ ї}левъ: и3спрaвите пути6 вaшz и3 начин†ніz
+        в†ша, и3 вселю1 вы на мёстэ се1мъ."
+      sovr_rbo: "Так говорит Господь Воинств, Бог Израиля: «Сделайте добрыми ваши пути
+        и деяния, и тогда Я оставлю вас жить на этом месте."
+      latin: "Haec dicit Dominus exercituum, Deus Israel: Bonas facite vias vestras,
+        et studia vestra, et habitabo vobiscum in loco isto."
+      ukr: "Так говорить Господь Саваот, Бог Ізраїлів: Поправте дороги свої й свої
+        вчинки, й Я зроблю, що ви житимете на цім місці!"
+      nkjv: 'Thus says the Lord of hosts, the God of Israel: "Amend your ways and your
+        doings, and I will cause you to dwell in this place.'
+      desnitsky: ""
+      mt: ‫    כֹּה־אָמַר יְהוָה צְבָאוֹת אֱלֹהֵי יִשְׂרָאֵל הֵיטִיבוּ דַרְכֵיכֶם
+        וּמַעַלְלֵיכֶם וַאֲשַׁכְּנָה אֶתְכֶם בַּמָּקוֹם הַזֶּה׃ ‬
+      romana: "Asa zice Domnul Savaot, Dumnezeul lui Israel: Indreptati-va caile si
+        faptele voastre si va voi lasa sa traiti in locul acesta!"
+      francais: "Ainsi parle l'Éternel des armées, le Dieu d'Israël: Réformez vos
+        voies et vos oeuvres, Et je vous laisserai demeurer dans ce lieu."
+      italian: "Così dice il Signore degli eserciti, Dio di Israele: Migliorate la
+        vostra condotta e le vostre azioni e io vi farò abitare in questo
+        luogo."
+      old_georgian: "ამათ იტყჳს უფალი ძალთა, ღმერთი ისრაჱლისა: განჰმართლენით გზანი
+        თქუენნი და სიმარჯუენი თქუენნი, და დაგამკჳდრნე თქუენ შორის ადგილსა ამას."
+      portuguese: "Assim diz o Senhor dos exércitos, o Deus de Israel: Emendai os
+        vossos caminhos e as vossas obras, e vos farei\rhabitar neste lugar."
+      polish: "To mówi Pan Zastępów, Bóg Izraela: Poprawcie postępowanie i wasze
+        uczynki, a pozwolę wam mieszkać na tym miejscu."
+      turkish: "İsrail'in Tanrısı, Her Şeye Egemen RAB diyor ki: Yaşantınızı ve
+        uygulamalarınızı düzeltin. O zaman burada kalmanızı sağlarım."
+      nrt: "Так говорит Господь Сил, Бог Израиля: «Исправьте свои пути и дела, и Я
+        позволю вам жить на этом месте."
+      Macarius: "Так говорит Иегова воинств, Бог Израилев: исправьте пути свои и нравы
+        свои; тогда оставлю вас жить на сем месте."
+      serbian: "Овако говори Господ над војскама, Бог Израиљев: Поправите своје путове
+        и дјела своја, па ћу учинити да станујете на овом мјесту."
+      bulgarian: "Тъй казва Господ Саваот, Бог Израилев: изправете вашите пътища и
+        вашите дела, и Аз ще ви оставя да живеете на това място."
+      Olesn: "Так говорит Иегова воинств,\rБог израилев:\rУлучшите пути ваши и
+        поступки ваши,\rИ Я буду жить с вами на месте сем."
+      deutsch: "So spricht der Herr Zebaoth, der Gott Israels: Bessert euer Leben und
+        Wesen, so will ich bei euch wohnen an diesem Ort."
+      ukr2: "Так говорить Господь сил, Бог Ізраїля: «Направте путі ваші й ваші вчинки,
+        і я дам вам жити на цьому місці."
+      ukr3: "Так говорить Господь Саваот, Бог Ізраїля: Направте путї ваши і вчинки
+        ваші, тодї дам я вам жити на сьому займищі."
+      bel_syomukha: "Так кажа Гасподзь Саваоф, Бог Ізраілеў: выпраўце шляхі вашыя і
+        дзеі вашыя, і Я пакіну вас жыць на гэтым месцы."
+      czech: 'Toto pravi Hospodin zastupu, Buh Izraele: "Napravte sve cesty a sve
+        skutky a necham vas prebyvat na tomto miste.'
+      spanish: "Así dice Yavé de los ejércitos, Dios de Israel: Mejorad vuestros
+        caminos y vuestras obras, y yo moraré con vosotros en este lugar."
+      greek-lxx: τάδε λέγει Κύριος ὁ Θεὸς Ισραηλ διορθώσατε τὰς ὁδοὺς ὑμῶν καὶ τὰ
+        ἐπιτηδεύματα ὑμῶν καὶ κατοικιῶ ὑμᾶς ἐν τῷ τόπῳ τούτῳ
+      st_text: "Так говорит Господь Саваоф, Бог Израилев: исправьте пути ваши и деяния
+        ваши, и Я оставлю вас жить на сем месте."
+  - id: 16534
+    number: 4
+    bookId: 29
+    text: 'Не надейтесь на обманчивые слова: "здесь храм Господень, храм Господень,
+      храм Господень".'
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 15357
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 13
+        short: Иер:13:25
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Не надейтеся на себе во словесех лживых, понеже весьма не упользуют вас,
+        глаголюще: храм Господень, храм Господень, храм Господень есть."
+      averincev: ""
+      ungerov: 'Не обнадеживайте себя лживыми словами, — ибо они совершенно безполезны
+        вам, — когда вы говорите: "Храм Господень, храм Господень, храм
+        Господень есть".'
+      csya_old: "Не надёйтесz на себе2 во словесёхъ лжи1выхъ, поне1же весьмA не
+        ўпо1льзуютъ вaсъ, глаго1люще: хрaмъ гDень, хрaмъ гDень, хрaмъ гDень
+        є4сть."
+      sovr_rbo: "Не доверяйте лживым словам: „Вот он, Храм Господень, Храм Господень,
+        Храм Господень!”"
+      latin: "Nolite confidere in verbis mendacii, dicentes: Templum Domini, templum
+        Domini, templum Domini est!"
+      ukr: "Не надійтесь собі на слова неправдиві, щоб казати: Храм Господній, храм
+        Господній, храм Господній отут!"
+      nkjv: "Do not trust in these lying words, saying, 'The temple of the Lord, the
+        temple of the Lord, the temple of the Lord are these.' "
+      desnitsky: ""
+      mt: ‫    אַל־תִּבְטְחוּ לָכֶם אֶל־דִּבְרֵי הַשֶּׁקֶר לֵאמֹר הֵיכַל יְהוָה הֵיכַל
+        יְהוָה הֵיכַל יְהוָה הֵמָּה׃ ‬
+      romana: 'Nu va incredeti in cuvintele mincinoase care zic: "Acesta este templul
+        Domnului, templul Domnului, templul Domnului".'
+      francais: "Ne vous livrez pas à des espérances trompeuses, en disant: C'est ici
+        le temple de l'Éternel, le temple de l'Éternel, Le temple de l'Éternel!"
+      italian: "Per tanto non confidate nelle parole menzognere di coloro che dicono:
+        Tempio del Signore, tempio del Signore, tempio del Signore è questo!"
+      old_georgian: "ნუ ესავთ თავთა თჳსთა სიტყუათა ზედა მტყუართა, ვითარმედ რაჲთურთით
+        არას მარგებენ ჩუენ მეტყველნი: ტაძარი უფლისაჲ, ტაძარი უფლისაჲ, ტაძარი
+        უფლისაჲ არს,"
+      portuguese: "Não vos fieis em palavras falsas, dizendo: Templo do Senhor, templo
+        do Senhor, templo do Senhor são estes."
+      polish: "Nie ufajcie słowom kłamliwym, głoszącym: ”Świątynia Pańska,
+        świątynia\rPańska, świątynia Pańska!”"
+      turkish: «RAB'bin Tapınağı, RAB'bin Tapınağı, RAB'bin Tapınağı buradadır!» gibi
+        aldatıcı sözlere güvenmeyin.
+      nrt: "Не полагайтесь на лживые слова: “Здесь храм Господень, храм Господень,
+        храм Господень!“"
+      Macarius: "Не надейтесь на слова лжи, когда говорят: «храм Иеговы, храм Иеговы,
+        храм Иеговы здесь»."
+      serbian: "Не уздајте се у лажне ријечи говорећи: Црква Господња, црква Господња,
+        црква Господња ово је."
+      bulgarian: 'Не се уповавайте на лъжливите думи: "тук е храмът Господен, храмът
+        Господен, храмът Господен".'
+      Olesn: "Не полагайте надежды для себя\rНа слова обманщиков, говорящих:\r«Храм
+        Иеговы, храм Иеговы,\rХрам Иеговы это»."
+      deutsch: "Verlaßt euch nicht auf die Lügen, wenn sie sagen: Hier ist des Herrn
+        Tempel, hier ist des Herrn Tempel, hier ist des Herrn Tempel!"
+      ukr2: "Не покладайтесь на слова оманні, а саме: Храм Господній! Храм Господній!
+        Храм Господній!"
+      ukr3: 'Не покладайте надїї тілько в лестивих словах: "Храм Господень, храм
+        Господень, храм Господень!"'
+      bel_syomukha: 'Не спадзявайцеся на словы манлівыя: "тут храм Гасподні, храм
+        Гасподні, храм Гасподні".'
+      czech: "Nespolehejte na klamna slova: ‚Je to chram Hospodinuv, chram Hospodinuv,
+        chram Hospodinuv.'"
+      spanish: "No pongáis vuestra confianza en palabras engañosas, diciendo: ¡Oh el
+        templo de Yavé, el templo de Yavé! ¡Éste es el templo de Yavé!"
+      greek-lxx: μὴ πεποίθατε ἐφ᾿ ἑαυτοῖς ἐπὶ λόγοις ψευδέσιν ὅτι τὸ παράπαν οὐκ
+        ὠφελήσουσιν ὑμᾶς λέγοντες ναὸς Κυρίου ναὸς Κυρίου ἐστίν
+      st_text: 'Не надейтесь на обманчивые слова: "здесь храм Господень, храм
+        Господень, храм Господень".'
+  - id: 16535
+    number: 5
+    bookId: 29
+    text: Но если совсем исправите пути ваши и деяния ваши, если будете верно
+      производить суд между человеком и соперником его,
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 16353
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 5
+        short: Иер:5:28
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Яко аще исправляюще исправите пути ваша и умышления ваша, и творяще
+        сотворите суд посреде мужа и посреде искренняго его,
+      averincev: ""
+      ungerov: Ибо если совершенно исправите пути ваши и дела ваши, верно будете
+        производить суд между человеком и его ближним.
+      csya_old: Ћкw ѓще и3справлsюще и3спрaвите пути6 вaшz и3 ўмышлє1ніz в†ша, и3
+        творsще сотворите2 сyдъ посредЁ мyжа и3 посредЁ и4скреннzгw є3гw2,
+      sovr_rbo: Если вы сделаете добрыми ваши пути и деяния, если будете вершить
+        правый для каждого суд,
+      latin: "Quoniam si bene direxeritis vias vestras, et studia vestra: si feceritis
+        judicium inter virum et proximum ejus:"
+      ukr: Бо якщо ви насправді поправите ваші дороги та ваші діла, якщо один одному
+        будете справді чинити справедливо,
+      nkjv: For if you thoroughly amend your ways and your doings, if you thoroughly
+        execute judgment between a man and his neighbor,
+      desnitsky: ""
+      mt: ‫    כִּי אִם־הֵיטֵיב תֵּיטִיבוּ אֶת־דַּרְכֵיכֶם וְאֶת־מַעַלְלֵיכֶם
+        אִם־עָשׂוֹ תַעֲשׂוּ מִשְׁפָּט בֵּין אִישׁ וּבֵין רֵעֵהוּ׃ ‬
+      romana: Iar daca va veti indrepta cu totul caile si faptele voastre, daca veti
+        face judecata cu dreptate intre om si parasul lui,
+      francais: Si vous réformez vos voies et vos oeuvres, Si vous pratiquez la
+        justice envers les uns et les autres,
+      italian: Poiché, se veramente emenderete la vostra condotta e le vostre azioni,
+        se realmente pronunzierete giuste sentenze fra un uomo e il suo
+        avversario;
+      old_georgian: რამეთუ უკუეთუ განმმართებელთა განჰმართნეთ გზანი თქუენნი და
+        სიმარჯუენი თქუენნი, და მყოფელთა ჰყოთ მსჯავრი შორის კაცისა და შორის
+        მოყუსისა მისისა,
+      portuguese: "Mas, se deveras emendardes os vossos caminhos e as vossas obras; se
+        deveras executardes a justiça entre um\rhomem e o seu próximo;"
+      polish: "Albowiem jeżeli naprawdę poprawicie wasze postępowanie i jeżeli
+        będziecie\rsię kierować wyłącznie sprawiedliwością jeden wobec
+        drugiego,"
+      turkish: Eğer yaşantınızı ve uygulamalarınızı gerçekten düzeltir, birbirinize
+        karşı adil davranır,
+      nrt: Если вы действительно исправите свои пути и дела и будете справедливо
+        поступать друг с другом,
+      Macarius: Ибо если исправите пути свои и нравы свои; если будете производить суд
+        между человеком и соперником его;
+      serbian: Него доиста поправите своје путове и дјела своја, и судите право између
+        човјека и ближњега његова.
+      bulgarian: Но ако изправите напълно вашите пътища и вашите дела, ако вярно
+        извършвате съд между човека и съперника му,
+      Olesn: "Но улучшите вполне \rПути ваши и поступки ваши,\rНо на деле устройте
+        правосудие Между человевом и между ближним его;"
+      deutsch: sondern bessert euer Leben und Wesen, daß ihr recht tut einer gegen den
+        andern
+      ukr2: Бо як ви цілковито направите путі ваші й учинки ваші, як будете чинити
+        праведний суд мій між собою;
+      ukr3: Бо тілько тодї, як цїлком поправите путї ваші й учинки ваші, коли чинити
+        мете праведний суд між чоловіком а його супротивником,
+      bel_syomukha: Але калі зусім выправіце шляхі вашыя і дзеі вашыя, калі будзеце
+        правільна чыніць суд паміж чалавекам і супернікам ягоным,
+      czech: Jestlize napravite sve cesty a sve skutky, budete-li mezi sebou
+        zachovavat pravo,
+      spanish: Pues si mejoráis vuestros caminos y acciones, si hacéis justicia entre
+        unos y otros,
+      greek-lxx: ὅτι ἐὰν διορθοῦντες διορθώσητε τὰς ὁδοὺς ὑμῶν καὶ τὰ ἐπιτηδεύματα
+        ὑμῶν καὶ ποιοῦντες ποιήσητε κρίσιν ἀνὰ μέσον ἀνδρὸς καὶ ἀνὰ μέσον τοῦ
+        πλησίον αὐτοῦ
+      st_text: Но если совсем исправите пути ваши и деяния ваши, если будете верно
+        производить суд между человеком и соперником его,
+  - id: 16536
+    number: 6
+    bookId: 29
+    text: не будете притеснять иноземца, сироты и вдовы, и проливать невинной крови
+      на месте сем, и не пойдете во след иных богов на беду себе, -
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 19988
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 10
+        short: Ис:10:2
+      - verseId: 15560
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 22
+        short: Иер:22:3
+      - verseId: 15643
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 25
+        short: Иер:25:6
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и пришельцу и сиру и вдовице не сотворите насилия, и крове неповинныя не
+        излиете на месте сем, и вслед богов чуждих не пойдете на зло вам,
+      averincev: ""
+      ungerov: И пришельцу, и сироте, и вдове не будете делать насилия, и невинной
+        крови не будете проливать на этом месте, и в след чужих богов не пойдете
+        во вред вам,
+      csya_old: и3 прише1льцу и3 си1ру и3 вдови1цэ не сотвори1те наси1ліz, и3 кро1ве
+        непови1нныz не и3зліе1те на мёстэ се1мъ, и3 в8слёдъ богHвъ чужди1хъ не
+        по1йдете на ѕло2 вaмъ,
+      sovr_rbo: если чужеземца, сироту и вдову не будете притеснять и кровь невинную
+        не будете проливать на месте этом, если не будете поклоняться богам иным
+        во зло себе, —
+      latin: "advenae, et pupillo, et viduae non feceritis calumniam, nec sanguinem
+        innocentem effuderitis in loco hoc, et post deos alienos non
+        ambulaveritis in malum vobismetipsis:"
+      ukr: не будете тиснути чужинця, сироту та вдову, не будете лити невинної крови
+        на місці цьому, і за іншими богами вслід не підете собі на біду,
+      nkjv: if you do not oppress the stranger, the fatherless, and the widow, and do
+        not shed innocent blood in this place, or walk after other gods to your
+        hurt,
+      desnitsky: ""
+      mt: ‫    גֵּר יָתוֹם וְאַלְמָנָה לֹא תַעֲשֹׁקוּ וְדָם נָקִי אַל־תִּשְׁפְּכוּ
+        בַּמָּקוֹם הַזֶּה וְאַחֲרֵי אֱלֹהִים אֲחֵרִים לֹא תֵלְכוּ לְרַע לָכֶם׃ ‬
+      romana: Daca nu veti stramtora pe strain, pe orfan si pe vaduva, nu veti varsa
+        sange nevinovat in locul acesta si nu veti merge dupa alti dumnezei spre
+        pieirea voastra,
+      francais: Si vous n'opprimez pas l'étranger, l'orphelin et la veuve, Si vous ne
+        répandez pas en ce lieu le sang innocent, Et si vous n'allez pas après
+        d'autres dieux, pour votre malheur,
+      italian: se non opprimerete lo straniero, l'orfano e la vedova, se non
+        spargerete il sangue innocente in questo luogo e se non seguirete per
+        vostra disgrazia altri dèi,
+      old_georgian: და მწირსა და ობოლსა და ქურივსა არა ჰმძლავრობდეთ, და სისხლსა
+        უბრალოსა არა დასთხევდეთ ადგილსა ამას შინა, და შემდგომად ღმერთთა უცხოთასა
+        არა ხჳდოდით განბოროტებად თქუენდა.
+      portuguese: "se não oprimirdes o estrangeiro, e o órfão, e a viúva, nem
+        derramardes sangue inocente neste lugar, nem\randardes após outros
+        deuses para vosso próprio mal,"
+      polish: "jeśli nie będziecie uciskać cudzoziemca, sieroty i wdowy ”i jeśli krwi
+        niewinnej nie będziecie rozlewać na tym miejscu” i jeżeli nie pójdziecie
+        za obcymi\rbogami na waszą zgubę,"
+      turkish: yabancıya, öksüze, dula haksızlık etmez, burada suçsuz kanı akıtmaz,
+        sizi yıkıma götüren başka ilahların ardınca gitmezseniz,
+      nrt: если не будете притеснять чужеземцев, сирот и вдов и проливать невинную
+        кровь на этом месте, если себе же во вред не будете следовать за чужими
+        богами,
+      Macarius: "Иноземца, сироту и вдову обижать не будете, и невинной крови на сем
+        месте не прольете, и за другими богами не пойдете на беду себе:"
+      serbian: Иностранцу, сироти и удовици не чините криво, и крви праве не
+        прољевајте на овом мјесту, и не идите за другим боговима на своје зло.
+      bulgarian: не притеснявате другоземец, сирак и вдовица, не проливате невинна
+        кръв на това място и не тръгнете след други богове за ваша беда,
+      Olesn: "Пришельца, сироту и вдову не угнетайте \rИ крови неповинной Не
+        проливайте на месте сем,\rИ вслед богов иных не ходите На зло себе
+        самим.\rТогда Я останусь жить с вами на месте сем,"
+      deutsch: "und den Fremdlingen, Waisen und Witwen keine Gewalt tut und nicht
+        unschuldiges Blut vergießt an diesem Ort, und folgt nicht nach andern
+        Göttern zu eurem eigenen Schaden:"
+      ukr2: чужинця, сироту й удову не утискатимете, безвинної крови не проливатимете
+        на цьому місці, й за чужими богами не ходитимете, собі на лихо,
+      ukr3: Не тїснити мете чуженицї, сироти й удови, та не проливати мете безвинної
+        крови на сьому місцї й не ходити мете слїдом за чужими богами собі на
+        лихо,
+      bel_syomukha: ня будзеце прыгнятаць іншаземца, сіраты і ўдавы, і праліваць
+        нявіннай крыві на месцы гэтым, і ня пойдзеце сьледам за іншымі багамі на
+        бяду сабе,
+      czech: nebudete-li utlacovat bezdomovce, sirotka a vdovu, nebudete-li na tomto
+        miste prolevat nevinnou krev a nebudete-li chodit ke sve skode za jinymi
+        bohy,
+      spanish: si no oprimís al peregrino, al huérfano y a la viuda; si no vertéis en
+        este lugar sangre inocente, si no os vais tras de dioses extraños para
+        vuestro mal,
+      greek-lxx: καὶ προσήλυτον καὶ ὀρφανὸν καὶ χήραν μὴ καταδυναστεύσητε καὶ αἷμα
+        ἀθῷον μὴ ἐκχέητε ἐν τῷ τόπῳ τούτῳ καὶ ὀπίσω θεῶν ἀλλοτρίων μὴ πορεύησθε
+        εἰς κακὸν ὑμῖν
+      st_text: не будете притеснять иноземца, сироты и вдовы, и проливать невинной
+        крови на месте сем, и не пойдете во след иных богов на беду себе, -
+  - id: 16537
+    number: 7
+    bookId: 29
+    text: то Я оставлю вас жить на месте сем, на этой земле, которую дал отцам вашим
+      в роды родов.
+    chapter: 7
+    chapterId: 873
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: вселю вас на месте сем, в земли, юже дах отцем вашым от века даже и до
+        века.
+      averincev: ""
+      ungerov: Вселю вас на месте сем, в (этой) земле, которую Я дал отцам вашим, от
+        века и до века.
+      csya_old: вселю2 вaсъ на мёстэ се1мъ, въ земли2, ю4же дaхъ nтцє1мъ вaшымъ t вёка
+        дaже и3 до вёка.
+      sovr_rbo: тогда навечно Я оставлю вас жить на этом месте, на земле, которую Я
+        дал вашим отцам.
+      latin: habitabo vobiscum in loco isto, in terra quam dedi patribus vestris a
+        saeculo et usque in saeculum.
+      ukr: то зроблю, що ви пробуватимете на цім місці, у Краю, що його дав Я вашим
+        батькам відвіку навіки!
+      nkjv: then I will cause you to dwell in this place, in the land that I gave to
+        your fathers forever and ever.
+      desnitsky: ""
+      mt: ‫    וְשִׁכַּנְתִּי אֶתְכֶם בַּמָּקוֹם הַזֶּה בָּאָרֶץ אֲשֶׁר נָתַתִּי
+        לַאֲבוֹתֵיכֶם לְמִן־עוֹלָם וְעַד־עוֹלָם׃ ‬
+      romana: Atunci va voi lasa sa traiti in locul acesta si pe pamantul acesta, pe
+        care l-am dat parintilor vostri din neam in neam.
+      francais: Alors je vous laisserai demeurer dans ce lieu, Dans le pays que j'ai
+        donné à vos pères, D'éternité en éternité.
+      italian: io vi farò abitare in questo luogo, nel paese che diedi ai vostri padri
+        da lungo tempo e per sempre.
+      old_georgian: და დაგამკჳდრნე თქუენ ადგილსა შინა თქუენსა, ქუეყანასა ზედა, რომელი
+        მივეც მამათა თქუენთა საუკუნითგან და ვიდრე საუკუნომდე.
+      portuguese: então eu vos farei habitar neste lugar, na terra que dei a vossos
+        pais desde os tempos antigos e para sempre.
+      polish: "wtedy pozwolę wam mieszkać na tym miejscu w ziemi, którą dałem
+        przodkom\rwaszym od dawna i na zawsze."
+      turkish: burada, sonsuza dek atalarınıza vermiş
+      nrt: то Я позволю вам жить на этом месте, на земле, которую Я дал вашим отцам
+        навеки.
+      Macarius: То Я оставлю вас жить на месте сем, на земле, которую дал отцам вашим
+        из века в век.
+      serbian: Тада ћу учинити да станујете од вијека до вијека на овом мјесту, у
+        земљи коју сам дао оцима вашим.
+      bulgarian: Аз ще ви оставя да живеете на това място, в тая земя, която дадох на
+        вашите отци от века до века.
+      Olesn: "В земле, которую дал отцам вашим,\rОт века и до века."
+      deutsch: so will ich immer und ewiglich bei euch wohnen an diesem Ort, in dem
+        Lande, das ich euren Vätern gegeben habe.
+      ukr2: тоді я дам вам жити на цьому місці, на землі, що я приділив батькам вашим
+        на вічні віки.
+      ukr3: Тілько тодї дам вам жити на сьому займищі, в землї, що надїлив отцям вашим
+        од роду та й до роду.
+      bel_syomukha: дык я пакіну вас жыць на месцы гэтым, на гэтай зямлі, якую даў
+        бацькам вашым у роды родаў.
+      czech: pak vas necham prebyvat na tomto miste, v zemi, kterou jsem dal vasim
+        otcum na veky veku.
+      spanish: entonces yo permaneceré con vosotros en este lugar, en la tierra que di
+        a vuestros padres por los siglos de los siglos.
+      greek-lxx: καὶ κατοικιῶ ὑμᾶς ἐν τῷ τόπῳ τούτῳ ἐν γῇ ᾗ ἔδωκα τοῖς πατράσιν ὑμῶν
+        ἐξ αἰῶνος καὶ ἕως αἰῶνος
+      st_text: то Я оставлю вас жить на месте сем, на этой земле, которую дал отцам
+        вашим в роды родов.
+  - id: 16538
+    number: 8
+    bookId: 29
+    text: Вот, вы надеетесь на обманчивые слова, которые не принесут вам пользы.
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 21023
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 59
+        short: Ис:59:4
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Аще же вы надеетеся на словеса лживая, отонудуже не будет вам пользы,
+      averincev: ""
+      ungerov: Если же вы надеетесь на ложныя слова, от коих не будет вам пользы,
+      csya_old: Ѓще же вы2 надёетесz на словесA лжи6ваz, toнyдуже не бyдетъ вaмъ по1льзы,
+      sovr_rbo: Но полагаетесь вы на ложь, и не будет от этого пользы!
+      latin: "Ecce vos confiditis vobis in sermonibus mendacii, qui non proderunt
+        vobis:"
+      ukr: "Ось собі ви надієтеся на слова неправдиві, які не допоможуть:"
+      nkjv: '"Behold, you trust in lying words that cannot profit.'
+      desnitsky: ""
+      mt: ‫    הִנֵּה אַתֶּם בֹּטְחִים לָכֶם עַל־דִּבְרֵי הַשָּׁקֶר לְבִלְתִּי
+        הוֹעִיל׃ ‬
+      romana: Iata, va incredeti in cuvinte mincinoase, care nu va vor aduce folos.
+      francais: Mais voici, vous vous livrez à des espérances trompeuses, Qui ne
+        servent à rien.
+      italian: "Ma voi confidate in parole false e ciò non vi\tgioverà:"
+      old_georgian: ხოლო უკუეთუ თქვენ ესვიდეთ სიტყვათა მიმართ ცუდთა, ვინაჲ არას ირგებთ.
+      portuguese: Eis que vós confiais em palavras falsas, que para nada são proveitosas.
+      polish: Oto wy na próżno pokładacie ufność w zwodniczych słowach.
+      turkish: Ne var ki, sizler işe yaramaz aldatıcı sözlere güveniyorsunuz.
+      nrt: Но вот, вы полагаетесь на лживые слова, в которых нет прока.
+      Macarius: Вот, вы надеетесь на слова лжи, не получая никакой пользы.
+      serbian: Ето, ви се уздате у ријечи лажне, које не помажу.
+      bulgarian: Ето, вие се уповавате на лъжливи думи, които не ще ви принесат полза.
+      Olesn: "Вот вы положили надежду свою \rНа обещания обманщиков?.\rНи в чему это
+        не послужит."
+      deutsch: Aber nun verlasset ihr euch auf Lügen, die nichts nütze sind.
+      ukr2: Ось ви покладаєтесь на слова оманні, але воно вам не допоможе!
+      ukr3: Ви ж уповаєте на лестиві речі, що не принесуть вам нїякого пожитку.
+      bel_syomukha: Вось, вы спадзеяцеся на падманлівыя словы, якія не дадуць вам карысьці.
+      czech: Ale vy spolehate na klamna slova, jez nejsou k uzitku.
+      spanish: He aquí que confiabais en palabras engañosas, que de nada sirven.
+      greek-lxx: εἰ δὲ ὑμεῖς πεποίθατε ἐπὶ λόγοις ψευδέσιν ὅθεν οὐκ ὠφεληθήσεσθε
+      st_text: Вот, вы надеетесь на обманчивые слова, которые не принесут вам пользы.
+  - id: 16539
+    number: 9
+    bookId: 29
+    text: Как! вы крадете, убиваете и прелюбодействуете, и клянетесь во лжи и кадите
+      Ваалу, и ходите во след иных богов, которых вы не знаете,
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 35270
+        bookId: 7
+        bookCode: kniga-sudej-izrailevyh
+        chapter: 3
+        short: Суд:3:7
+      - verseId: 29033
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 14
+        short: Прем:14:23
+      - verseId: 29035
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 14
+        short: Прем:14:25
+      - verseId: 19978
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 1
+        short: Ис:1:23
+      - verseId: 16588
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 9
+        short: Иер:9:2
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и крадете и убиваете, и блудствуете и кленетеся лживо, и жрете ваалу и
+        ходите вслед богов чуждих, ихже не весте, яко во зло вам суть,
+      averincev: ""
+      ungerov: И крадете и убиваете, и прелюбодействуете, и клянетесь лживо, и служите
+        Ваалу, и ходите в след богов чужих, о коих вы не знаете, что они вам —
+        во зло,
+      csya_old: и3 крaдете и3 ўбивaете, и3 блyдствуете и3 клене1тесz лжи1вw, и3 жрете2
+        ваaлу и3 хо1дите в8слёдъ богHвъ чужди1хъ, и4хже не вёсте, ћкw во ѕло2
+        вaмъ сyть,
+      sovr_rbo: Крадете вы, убиваете, прелюбодействуете, клянетесь ложно, воскуряете
+        Ваалу, поклоняетесь богам иным, которых вы не знали,
+      latin: "furari, occidere, adulterari, jurare mendaciter, libare Baalim, et ire
+        post deos alienos quos ignoratis:"
+      ukr: Чи ви будете красти, вбивати й перелюб чинити, і присягати фальшиво, й
+        кадити Ваалові, і ходити за іншими богами, яких ви не знаєте,
+      nkjv: Will you steal, murder, commit adultery, swear falsely, burn incense to
+        Baal, and walk after other gods whom you do not know,
+      desnitsky: ""
+      mt: ‫    הֲגָנֹב רָצֹחַ וְנָאֹף‪‬ וְהִשָּׁבֵעַ לַשֶּׁקֶר וְקַטֵּר לַבָּעַל
+        וְהָלֹךְ אַחֲרֵי אֱלֹהִים אֲחֵרִים אֲשֶׁר לֹא־יְדַעְתֶּם׃ ‬
+      romana: Cum? Voi furati, ucideti si faceti adulter; jurati mincinos, tamaiati pe
+        Baal si umblati dupa alti dumnezei, pe care nu-i cunoasteti,
+      francais: Quoi! dérober, tuer, commettre des adultères, Jurer faussement, offrir
+        de l'encens à Baal, Aller après d'autres dieux que vous ne connaissez
+        pas!...
+      italian: rubare, uccidere, commettere adulterio, giurare il falso, bruciare
+        incenso a Baal, seguire altri dèi che non conoscevate.
+      old_georgian: და ჰმკლველობდეთ და იმრუშებდეთ და იპარვიდეთ. და ჰფუცვიდეთ
+        უსამართლოსა ზედა, და უკუმევდეთ ბაალსა, და ხჳდოდით შემდგომად ღმერთთა
+        უცხოთა, რომელთა არა უწყით (ბოროტ-ყოფაჲ თქუენდად).
+      portuguese: "Furtareis vós, e matareis, e cometereis adultério, e jurareis
+        falsamente, e queimareis incenso a Baal, e andareis\rapós outros deuses
+        que não conhecestes,"
+      polish: "Nieprawda? Kraść, zabijać, cudzołożyć, przysięgać fałszywie, palić
+        kadzidło\rBaalowi, chodzić za obcymi bogami, których nie znacie..."
+      turkish: ""
+      nrt: Вы крадете и убиваете, нарушаете супружескую верность и
+        лжесвидетельствуете, возжигаете благовония Баалу и следуете за чужими
+        богами, которых прежде не знали,
+      Macarius: Крадете, убиваете и прелюбодействуете, и клянетесь во лжи, и кадите
+        Ваалу, и ходите за другими богами, которых вы не знали.
+      serbian: Крадете, убијате и чините прељубу, кунете се криво, и кадите Валима, и
+        идете за другим боговима, којих не знате;
+      bulgarian: Как! вие крадете и убивате, прелюбодействувате и се кълнете в лъжа,
+        кадите Ваалу и ходите след други богове, които не познавате,
+      Olesn: "Как? Воровать убивать и прелюбодействовать, И клясться во лжу, и курить
+        Ваалу,\rИ гоняться в след богов иных,\rКоторых сами вы не знаете,"
+      deutsch: Daneben seid ihr Diebe, Mörder, Ehebrecher und Meineidige und räuchert
+        dem Baal und folgt fremden Göttern nach, die ihr nicht kennt.
+      ukr2: Як то? Ви крадете, вбиваєте, чужоложите, кривоприсягаете, кадите перед
+        Ваалом, бігаєте слідом за чужими богами, що їх не знали,
+      ukr3: Як то? ви крадете, вбиваєте, перелюбкуєте й присягаєте криво, кадите перед
+        Баалом й бігаєте слїдом за чужими богами, що їх не знаєте,
+      bel_syomukha: Як! вы крадзяце, забіваеце і пералюбы чыніце, і божыцеся ў ілжы і
+        кадзіце Ваалу і ходзіце сьледам за іншымі багамі, якіх вы ня ведаеце,
+      czech: Smi se krast, vrazdit, cizolozit, krive prisahat, palit kadidlo baalum a
+        chodit za jinymi neznamymi bohy?
+      spanish: Pues ¿qué? ¡Robar, matar, adulterar, perjurar, quemar incienso a Baal e
+        irse tras dioses ajenos que no conocíais,
+      greek-lxx: καὶ φονεύετε καὶ μοιχᾶσθε καὶ κλέπτετε καὶ ὀμνύετε ἐπ᾿ ἀδίκῳ καὶ
+        ἐθυμιᾶτε τῇ Βααλ καὶ ἐπορεύεσθε ὀπίσω θεῶν ἀλλοτρίων ὧν οὐκ οἴδατε τοῦ
+        κακῶς εἶναι ὑμῖν
+      st_text: Как! вы крадете, убиваете и прелюбодействуете, и клянетесь во лжи и
+        кадите Ваалу, и ходите во след иных богов, которых вы не знаете,
+  - id: 16540
+    number: 10
+    bookId: 29
+    text: 'и потом приходите и становитесь пред лицем Моим в доме сем, над которым
+      наречено имя Мое, и говорите: "мы спасены", чтобы впредь делать все эти
+      мерзости.'
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 19967
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 1
+        short: Ис:1:12
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и приидосте и стасте предо мною в дому сем, в немже призвано есть имя
+        мое, и рекли есте: удалихомся, еже не творити вся мерзости сия:"
+      averincev: ""
+      ungerov: "И приходите и становитесь предо Мною в доме сем, на котором наречено
+        имя Мое, и говорите: мы удаляемся от совершения всех сих мерзостей,"
+      csya_old: "и3 пріидо1сте и3 стaсте предо мно1ю въ домY се1мъ, въ не1мже
+        при1звано є4сть и4мz мое2, и3 рекли2 є3сте2: ўдали1хомсz, є4же не
+        твори1ти вс‰ ме1рзwсти сі‰:"
+      sovr_rbo: "а потом приходите, встаете предо Мной в этом Храме, который именем
+        Моим осенен, и говорите: „Мы спасены!” — чтобы и дальше творить все эти
+        мерзости."
+      latin: "et venistis, et stetistis coram me in domo hac, in qua invocatum est
+        nomen meum, et dixistis: Liberati sumus, eo quod fecerimus omnes
+        abominationes istas."
+      ukr: "а потім ви прийдете й станете перед обличчям Моїм у цім домі, що зветься
+        Ім'ям Моїм, і скажете: Урятовані ми, щоб чинити гидоти всі ці?"
+      nkjv: "and then come and stand before Me in this house which is called by My
+        name, and say, 'We are delivered to do all these abominations'? "
+      desnitsky: ""
+      mt: ‫    וּבָאתֶם וַעֲמַדְתֶּם לְפָנַי בַּבַּיִת הַזֶּה אֲשֶׁר נִקְרָא־שְׁמִי
+        עָלָיו וַאֲמַרְתֶּם נִצַּלְנוּ לְמַעַן עֲשׂוֹת אֵת כָּל־הַתּוֹעֵבוֹת
+        הָאֵלֶּה׃ ‬
+      romana: 'Si apoi veniti sa va infatisati inaintea Mea in templul Meu, asupra
+        caruia s-a chemat numele Meu, si ziceti: "Suntem izbaviti", ca apoi sa
+        faceti iar toate ticalosiile acelea?'
+      francais: "Puis vous venez vous présenter devant moi, Dans cette maison sur
+        laquelle mon nom est invoqué, Et vous dites: Nous sommes délivrés!... Et
+        c'est afin de commettre toutes ces abominations!"
+      italian: "Poi venite e vi presentate alla mia presenza in questo tempio, che
+        prende il nome da me, e dite: Siamo salvi! per poi compiere tutti questi
+        abomini."
+      old_georgian: "და მოხუედით და დასდეგით წინაშე ჩემსა სახლსა შინა, სადა წოდებულ
+        არს სახელი ჩემი მას ზედა და სთქუთ: განვეშორენით ქმნად ყოველთა ამათ
+        საძაგელებათა."
+      portuguese: "e então vireis, e vos apresentareis diante de mim nesta casa, que
+        se chama pelo meu nome, e direis: Somos\rlivres para praticardes ainda
+        todas essas abominações?"
+      polish: "A potem przychodzicie i stajecie przede Mną w tym domu, nad którym
+        wzywano mojego imienia, i mówicie: ”Oto jesteśmy bezpieczni”, by móc
+        nadal\rpopełniać te wszystkie występki."
+      turkish: «`Çalmak, adam öldürmek, zina etmek, yalan yere ant içmek, Baal'a buhur
+        yakmak, tanımadığınız başka ilahların ardınca gitmek, bütün bu
+        iğrençlikleri yapmak için mi bana ait olan tapınağa gelip önümde
+        duruyor, güvenlikteyiz diyorsunuz?
+      nrt: "а потом приходите, встаете предо Мной в этом доме, который называется Моим
+        Именем, и говорите: “Мы спасены“ – лишь для того, чтобы вновь совершать
+        все эти мерзости?"
+      Macarius: "И приходите, и становитесь пред лицом Моим в доме сем, который
+        называется Моим именем, и говорите: «будем целы», чтобы впредь делать
+        все мерзости сии."
+      serbian: "Па онда доходите и стајете преда мном у овом дому, који се зове мојим
+        именом, и говорите: Избависмо се, да чините све ове гадове."
+      bulgarian: 'и после дохождате и се изправяте пред лицето Ми в тоя дом, над който
+        е призовано Моето име, и казвате: "спасени сме", та занапред да вършите
+        всички тия гнусотии!'
+      Olesn: "И после этого приходить вам \rИ становиться пред лицем Моим,\rВ доме
+        сем, на который призвано имя Мое,\rИ говорить: спасены мы?... \rРазве
+        для того, чтобы повторять Все мерзости эти?."
+      deutsch: "Darnach kommt ihr dann und tretet vor mich in diesem Hause, das nach
+        meinem Namen genannt ist, und sprecht: Es hat keine Not mit uns, weil
+        wir solche Greuel tun."
+      ukr2: "а так приходите й стаєте передо мною в цьому домі, що носить моє ім'я, та
+        й говорите: Ми у безпеці! - лише щоб далі коїти всі ці гидоти?"
+      ukr3: 'А тодї йдете й приступаєте перед мене в сьому дому, названому моїм імям,
+        та й говорите: "Ми спасені," хоч вперед коїли всї ті гидоти.'
+      bel_syomukha: 'і потым прыходзіце і становіцеся перад абліччам Маім у доме
+        гэтым, над якім названа імя Маё, і кажаце: "мы выратаваны", каб і далей
+        рабіць усе гэтыя мярзоты.'
+      czech: "A pritom prichazite a stavite se prede mne v tomto dome, ktery je
+        nazyvan mym jmenem, a rikate: ‚Jsme vysvobozeni.' To proto, abyste mohli
+        pachat vsechny tyto ohavnosti?"
+      spanish: "y venir luego a mi presencia en esta casa, en que se invoca mi nombre,
+        diciendo: Ya estamos salvos,"
+      greek-lxx: καὶ ἤλθετε καὶ ἔστητε ἐνώπιον ἐμοῦ ἐν τῷ οἴκῳ οὗ ἐπικέκληται τὸ ὄνομά
+        μου ἐπ᾿ αὐτῷ καὶ εἴπατε ἀπεσχήμεθα τοῦ μὴ ποιεῖν πάντα τὰ βδελύγματα
+        ταῦτα
+      st_text: 'и потом приходите и становитесь пред лицем Моим в доме сем, над
+        которым наречено имя Мое, и говорите: "мы спасены", чтобы впредь делать
+        все эти мерзости.'
+  - id: 16541
+    number: 11
+    bookId: 29
+    text: Не соделался ли вертепом разбойников в глазах ваших дом сей, над которым
+      наречено имя Мое? Вот, Я видел это, говорит Господь.
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 20979
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 56
+        short: Ис:56:7
+      - verseId: 25458
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 21
+        short: Мф:21:13
+      - verseId: 26278
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 11
+        short: Мк:11:17
+      - verseId: 24276
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 19
+        short: Лк:19:46
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: еда вертеп разбойником есть дом мой, в немже призвася имя мое тамо во очию
+        вашею? И се, аз видех, глаголет Господь.
+      averincev: ""
+      ungerov: Ужели дом Мой, — на котором наречено имя Мое, — не стал вертепом
+        разбойников в глазах ваших? И вот Я (это) вижу, говорит Господь.
+      csya_old: є3дA верте1пъ разбо1йникwмъ є4сть до1мъ мо1й, въ не1мже призвaсz и4мz
+        мое2 тaмw во џчію вaшєю; И# се2, ѓзъ ви1дэхъ, гlетъ гDь.
+      sovr_rbo: Храм, который именем Моим осенен, вы считаете, стал притоном
+        разбойничьим?! Я все это вижу! — говорит Господь. —
+      latin: "Numquid ergo spelunca latronum facta est domus ista, in qua invocatum
+        est nomen meum in oculis vestris? Ego, ego sum: ego vidi, dicit
+        Dominus."
+      ukr: Чи вертепом розбійників став оцей дім, що Ім'я Моє кличеться в ньому, на
+        ваших очах? І Я оце бачу, говорить Господь...
+      nkjv: Has this house, which is called by My name, become a den of thieves in
+        your eyes? Behold, I, even I, have seen it," says the Lord.
+      desnitsky: ""
+      mt: ‫    הַמְעָרַת פָּרִצִים הָיָה הַבַּיִת הַזֶּה אֲשֶׁר־נִקְרָא־שְׁמִי עָלָיו
+        בְּעֵינֵיכֶם גַּם אָנֹכִי הִנֵּה רָאִיתִי נְאֻם־יְהוָה׃ ס ‬
+      romana: Templul acesta, asupra caruia s-a chemat numele Meu, n-a ajuns el oare,
+        in ochii vostri pestera de talhari? Iata, Eu am vazut aceasta, zice
+        Domnul.
+      francais: Est-elle à vos yeux une caverne de voleurs, Cette maison sur laquelle
+        mon nom est invoqué? Je le vois moi-même, dit l'Éternel.
+      italian: Forse è una spelonca di ladri ai vostri occhi questo tempio che prende
+        il nome da me? Anch'io, ecco, vedo tutto questo. Parola del Signore.
+      old_georgian: ნუ ქუაბ ავაზაკთა სახლი ჩემი? რომელსა ზედა წოდებულ არს სახელი ჩემი
+        მას ზედა მუნ წინაშე თქუენსა, და, აჰა, ვიხილე, - იტყჳს უფალი,
+      portuguese: "Tornou-se, pois, esta casa, que se chama pelo meu nome, uma caverna
+        de salteadores aos vossos olhos? Eis\rque eu, eu mesmo, vi isso, diz o
+        Senhor."
+      polish: Może jaskinią zbójców stał się w waszych oczach ten dom, nad którym
+        wzywano mojego imienia? Ja [to] dobrze widzę - wyrocznia Pana.
+      turkish: Bana ait olan bu tapınak sizin için bir haydut ini mi oldu? Ama ben
+        görüyorum neler yaptığınızı!' diyor RAB.
+      nrt: Разве этот дом, который называется Моим Именем, не стал у вас разбойничьим
+        логовом? Вот, Я все это вижу, – возвещает Господь. –
+      Macarius: Разве вертепом разбойников стал в ваших глазах сей дом, который
+        именуется Моим именем? Вот и Я вижу, говорит Иегова.
+      serbian: Је ли овај дом, који се зове мојим именом, у вашим очима пећина
+        хајдучка? Гле, и ја видим, вели Господ.
+      bulgarian: Не обърна ли се във вашите очи на разбойнишки вертеп тоя дом, над
+        който е призовано Моето име? Ето, Аз видях това, казва Господ.
+      Olesn: "Разве вертепом разбойников \rСтал дом сей, на который призвано имя
+        Мое,\rВ глазах ваших?.\rИ Мне на это смотреть спокойно? — \r — Говорит
+        Иегова."
+      deutsch: Haltet ihr denn dies Haus, das nach meinem Namen genannt ist, für eine
+        Mördergrube? Siehe, ich sehe es wohl, spricht der Herr.
+      ukr2: Чи не зробився в очах ваших дім цей, що носить ім'я моє, вертепом
+        розбишак? Ось я, сам я це бачив, - слово Господнє!
+      ukr3: Чи не зробився ж вертепом розбишак ув очах у вас дом сей, що названий моїм
+        імям? Я, я сам бачу се, говорить Господь.
+      bel_syomukha: Ці не зрабіўся кублом разбойнікаў у вачах вашых дом гэты, над якім
+        названа імя Маё? Вось, Я бачыў гэта, кажа Гасподзь.
+      czech: Coz se stal ve vasich ocich tento dum, ktery je nazyvan mym jmenem,
+        ukrytem lupicu? Hle, take ja vidim, je vyrok Hospodinuv.
+      spanish: para luego hacer todas estas abominaciones! ¿Es acaso a vuestros ojos
+        esta casa, donde se invoca mi nombre, una cueva de bandidos? Mirad,
+        también yo lo veo, oráculo de Yavé.
+      greek-lxx: μὴ σπήλαιον λῃστῶν ὁ οἶκός μου οὗ ἐπικέκληται τὸ ὄνομά μου ἐπ᾿ αὐτῷ
+        ἐκεῖ ἐνώπιον ὑμῶν καὶ ἐγὼ ἰδοὺ ἑώρακα λέγει Κύριος
+      st_text: Не соделался ли вертепом разбойников в глазах ваших дом сей, над
+        которым наречено имя Мое? Вот, Я видел это, говорит Господь.
+  - id: 16542
+    number: 12
+    bookId: 29
+    text: Пойдите же на место Мое в Силом, где Я прежде назначил пребывать имени
+      Моему, и посмотрите, что сделал Я с ним за нечестие народа Моего Израиля.
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 27137
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 18
+        short: Нав:18:1
+      - verseId: 15684
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 26
+        short: Иер:26:9
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Сего ради идите к месту моему, еже в силоме, идеже вселих имя мое от
+        начала, и видите, что сотворих ему лукавств ради людий моих израиля.
+      averincev: ""
+      ungerov: Посему идите на место Мое, что в Силоме, где Я поселил имя Мое с
+        начала, и посмотрите, что Я сделал с ним, за лукавства народа Моего,
+        Израиля.
+      csya_old: Сегw2 рaди и3ди1те къ мёсту моемY, є4же въ силHмэ, и3дёже всели1хъ
+        и4мz мое2 t начaла, и3 ви1дите, что2 сотвори1хъ є3мY лукaвствъ рaди
+        людjй мои1хъ ї}лz.
+      sovr_rbo: Идите же в Силом, на то место, где Я сперва назначил пребывать Моему
+        имени, и посмотрите, что Я сделал с Силомом из-за злодейства Израиля,
+        народа Моего.
+      latin: Ite ad locum meum in Silo, ubi habitavit nomen meum a principio, et
+        videte quae fecerim ei propter malitiam populi mei Israel.
+      ukr: Бо підіть но до місця Мого, що в Шіло, де Я спочатку вчинив був перебування
+        для Ймення Свого, і побачите, що вчинив Я йому через лукавство Мого
+        народу Ізраїлевого...
+      nkjv: '"But go now to My place which was in Shiloh, where I set My name at the
+        first, and see what I did to it because of the wickedness of My people
+        Israel.'
+      desnitsky: ""
+      mt: ‫    כִּי לְכוּ־נָא אֶל־מְקוֹמִי אֲשֶׁר בְּשִׁילוֹ אֲשֶׁר שִׁכַּנְתִּי
+        שְׁמִי שָׁם בָּרִאשׁוֹנָה וּרְאוּ אֵת אֲשֶׁר־עָשִׂיתִי לוֹ מִפְּנֵי
+        רָעַת עַמִּי יִשְׂרָאֵל׃ ‬
+      romana: Mergeri deci la locul Meu din Silo, unde facusem altadata sa locuiasca
+        numele Meu, si vedeti ce am facut Eu cu el, pentru necredinta poporului
+        Meu Israel!
+      francais: Allez donc au lieu qui m'était consacré à Silo, Où j'avais fait
+        autrefois résider mon nom. Et voyez comment je l'ai traité, A cause de
+        la méchanceté de mon peuple d'Israël.
+      italian: Andate, dunque, nella mia dimora che era in Silo, dove avevo da
+        principio posto il mio nome; considerate che cosa io ne ho fatto a causa
+        della malvagità di Israele, mio popolo.
+      old_georgian: რამეთუ ხჳდოდით ადგილსამი ჩემსა სილომსშინაჲსა, რომელსა დაიკარგა
+        სახელმან ჩემმან მის ზედა მუნ უწინარეს, და იხილეთ, რანი უყვენ მას
+        პირისაგან უკეთურებისა ერისა ჩემისა ისრაჱლისა.
+      portuguese: "Mas ide agora ao meu lugar, que estava em Siló, onde, ao princípio,
+        fiz habitar o meu nome, e vede o que lhe fiz,\rpor causa da maldade do
+        meu povo Israel."
+      polish: "Idźcie, proszę, do mojego przybytku w Szilo, gdzie dawniej do obrałem
+        mieszkanie dla mojego imienia, i patrzcie, co mu uczyniłem z powodu
+        przewrotności\rmojego ludu, Izraela."
+      turkish: «`Daha önce adımı yerleştirmiş olduğum Şilo'daki yerime gidin. Halkım
+        İsrail'in kötülüğü yüzünden ona ne yaptığımı görün.
+      nrt: Пойдите на Мое место в Шило, где Я прежде устроил жилище для Моего Имени, и
+        посмотрите, что Я с ним сделал за злодеяния Моего народа Ефрема.
+      Macarius: Ибо пойдите на место Мое в Силом, где имени Моему Я назначил жилище
+        прежде, и посмотрите, что Я сделал с ним за пороки народа Моего Израиля?
+      serbian: Него идите сада на моје мјесто, које је било у Силому, гдје намјестих
+        име своје испочетка, и видите  што сам му учинио за злоћу народа својега
+        Израиља.
+      bulgarian: Но идете на Моето място в Силом, дето по-преди бях отредил да
+        пребъдва Моето име, и вижте, какво направих с него поради нечестието на
+        Моя народ Израил.
+      Olesn: "Вот подите на место Мое, что в Силоме,\rГде Я вселил было имя Мое там, в
+        начале,\rИ посмотрите, что Я сделал ему\rЗа зло народа Моего, Израиля."
+      deutsch: Gehet hin an meinen Ort zu Silo, da vormals mein Name gewohnt hat, und
+        schauet, was ich daselbst getan habe um der Bosheit willen meines Volkes
+        Israel.
+      ukr2: Підіть лишень до мого житла, що в Шіло, де я спочатку оселив був моє ім'я,
+        та й подивітесь, що я вчинив з ним за ледарство мого народу Ізраїля.
+      ukr3: Ійдїте ж до місця мого в Сило, де я у давні часи призначив пробуток іменні
+        мойму, та й подивітесь, що вдїяв я йому за ледарство людей моїх,
+        Ізраїля.
+      bel_syomukha: Ідзеце ж на месца Маё ў Сілом, дзе Я раней назначыў быць імю
+        Майму, і паглядзеце, што зрабіў Я зь ім за бязбожнасьць народа Майго
+        Ізраіля.
+      czech: Jen jdete do Sila, na misto, kde jsem dal zpocatku prebyvat svemu jmenu,
+        a podivejte se, jak jsem s nim pro zlobu sveho izraelskeho lidu nalozil.
+      spanish: Id, pues, a mi lugar de Silo, donde al principio establecí mi nombre, y
+        ved lo que hice con él por las impiedades de mi pueblo Israel.
+      greek-lxx: ὅτι πορεύθητε εἰς τὸν τόπον μου τὸν ἐν Σηλωμ οὗ κατεσκήνωσα τὸ ὄνομά
+        μου ἐκεῖ ἔμπροσθεν καὶ ἴδετε ἃ ἐποίησα αὐτῷ ἀπὸ προσώπου κακίας λαοῦ μου
+        Ισραηλ
+      st_text: Пойдите же на место Мое в Силом, где Я прежде назначил пребывать имени
+        Моему, и посмотрите, что сделал Я с ним за нечестие народа Моего
+        Израиля.
+  - id: 16543
+    number: 13
+    bookId: 29
+    text: И ныне, так как вы делаете все эти дела, говорит Господь, и Я говорил вам
+      с раннего утра, а вы не слушали, и звал вас, а вы не отвечали, -
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 29363
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 1
+        short: Притч:1:24
+      - verseId: 21141
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 65
+        short: Ис:65:12
+      - verseId: 21158
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 66
+        short: Ис:66:4
+      - verseId: 15299
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 11
+        short: Иер:11:7
+      - verseId: 15300
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 11
+        short: Иер:11:8
+      - verseId: 15680
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 26
+        short: Иер:26:5
+      - verseId: 15965
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 35
+        short: Иер:35:14
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И ныне, понеже сотвористе вся дела сия, рече Господь, и глаголах к вам
+        рано востающь и глаголющь, и не услышасте мене, и звах вас, и не
+        отвещасте:"
+      averincev: ""
+      ungerov: И ныне, так как вы делаете все эти дела, говорит Господь, и Я говорил
+        вам, с ранняго утра говорил и вы не слушали Меня, и звал вас, и вы не
+        отвечали Мне,
+      csya_old: "И# нн7э, поне1же сотвори1сте вс‰ дэлA сі‰, рече2 гDь, и3 гlахъ къ
+        вaмъ рaнw востаю1щь и3 гlющь, и3 не ўслы1шасте мене2, и3 звaхъ вaсъ, и3
+        не tвэщaсте:"
+      sovr_rbo: А теперь, за то, что вы творите все это, — говорит Господь, — хотя Я
+        говорил вам, говорил снова и снова, но вы не слушали, звал вас, но вы не
+        отвечали, —
+      latin: "Et nunc, quia fecistis omnia opera haec, dicit Dominus, et locutus sum
+        ad vos mane consurgens, et loquens, et non audistis: et vocavi vos, et
+        non respondistis:"
+      ukr: Тепер же за те, що ви робите всі оці вчинки, говорить Господь, і що Я
+        говорив був до вас, промовляючи пильно, але ви не слухали, і кликав Я
+        вас, та ви не відказали,
+      nkjv: And now, because you have done all these works," says the Lord, "and I
+        spoke to you, rising up early and speaking, but you did not hear, and I
+        called you, but you did not answer,
+      desnitsky: ""
+      mt: ‫    וְעַתָּה יַעַן עֲשׂוֹתְכֶם אֶת־כָּל־הַמַּעֲשִׂים הָאֵלֶּה נְאֻם־יְהוָה
+        וָאֲדַבֵּר אֲלֵיכֶם הַשְׁכֵּם וְדַבֵּר וְלֹא שְׁמַעְתֶּם וָאֶקְרָא
+        אֶתְכֶם וְלֹא עֲנִיתֶם׃ ‬
+      romana: Si acum, de vreme ce ati facut toate faptele acestea, zice Domnul, si Eu
+        v-am grait dis-de-dimineata si n-ati ascultat, v-am chemat si n-ati
+        raspuns,
+      francais: Et maintenant, puisque vous avez commis toutes ces actions, Dit
+        l'Éternel, Puisque je vous ai parlé dès le matin et que vous n'avez
+        pas  écouté, Puisque je vous ai appelés et que vous n'avez pas répondu,
+      italian: Ora, poiché avete compiuto tutte queste azioni — parola del Signore —
+        e, quando vi ho parlato con premura e sempre, non mi avete ascoltato e,
+        quando vi ho chiamato, non mi avete risposto,
+      old_georgian: და აწ ამის წილ, რომელ ჰქმნენით ყოველნი ესე საქმენი, და ვიტყოდე
+        თქუენდამი, განთიად ვიტყოდი, და არა ისმინეთ ჩემი, - თქუა უფალმან, - და
+        გიწოდეთ თქუენ, და არა მომიგეთ.
+      portuguese: "Agora, pois, porquanto fizestes todas estas obras, diz o Senhor, e
+        quando eu vos falei insistentemente, vós não\rouvistes, e quando vos
+        chamei, não respondestes,"
+      polish: "A teraz, ponieważ popełniliście te występki - wyrocznia Pana - i mimo
+        że\rmówiłem do was nieustannie i niezmordowanie, nie usłuchaliście, a
+        gdy wołałem, nie odpowiedzieliście,"
+      turkish: Bütün bunları yaptınız, diyor RAB, size defalarca seslendim ama
+        dinlemediniz; sizi çağırdım ama yanıt vermediniz.
+      nrt: Пока вы предавались всему этому, – возвещает Господь, – Я снова и снова
+        говорил с вами, а вы не слушали; Я звал вас, а вы не отвечали.
+      Macarius: И ныне за то, что вы делаете все дела сии, говорит Иегова, и тогда,
+        как Я говорю вам так часто и усердно, а вы не слушаете, и зову вас, а вы
+        не отвечаете;
+      serbian: Зато сада, што чините сва она дјела, вели Господ, и што вам говорим
+        зарана једнако, а ви не слушате, и кад вас зовем, а ви се не одзивате,
+      bulgarian: И сега, понеже вършите всички тия работи, казва Господ, и Аз ви
+        говорих от ранно утро, а вие не слушахте, и виках ви, а вие не
+        отговаряхте, -
+      Olesn: "И теперь, так как дела ваши — все дела такия же — Говорит Иегова,\rТак
+        что Я говорю в вам заботливо и повторяю,\rА вы не слушаете,\rЯ зову вас,
+        а вы не отвечаете;"
+      deutsch: "Weil ihr denn alle solche Stücke treibt, spricht der Herr, und ich
+        stets euch predigen lasse, und ihr wollt nicht hören, ich rufe euch, und
+        ihr wollt nicht antworten:"
+      ukr2: Тож і тепер - за те, що ви допускались усіх тих учинків, - слово
+        Господнє,- хоч і говорив я до вас раз-по-раз, часто, та ви не послухали,
+        хоч закликав я до вас, та ви не озвались, -
+      ukr3: От і нинї, за те ж саме, що коїте таке ж беззаконство, говорить Господь, і
+        хоч я раз-пораз говорив до вас, а ви не слухали мене, і кликав вас, а ви
+        не озивались, -
+      bel_syomukha: І сёньня, як бо вы робіце ўсё гэта, кажа Гасподзь, і Я казаў вам з
+        самае раніцы, а вы ня слухалі, і клікаў вас, а вы не адказвалі,
+      czech: Nyni tedy, protoze jste se dopustili vsech tech cinu, je vyrok
+        Hospodinuv, mluvil jsem k vam, nepretrzite jsem mluvil, ale
+        neposlouchali jste, volaval jsem vas, ale neodpovidali jste,
+      spanish: Pues ahora, por haber hecho estas cosas — oráculo de Yavé — y porque os
+        amonesté a tiempo repetidas veces y no me escuchasteis, os llamé y no
+        respondisteis,
+      greek-lxx: καὶ νῦν ἀνθ᾿ ὧν ἐποιήσατε πάντα τὰ ἔργα ταῦτα καὶ ἐλάλησα πρὸς ὑμᾶς
+        καὶ οὐκ ἠκούσατέ μου καὶ ἐκάλεσα ὑμᾶς καὶ οὐκ ἀπεκρίθητε
+      st_text: И ныне, так как вы делаете все эти дела, говорит Господь, и Я говорил
+        вам с раннего утра, а вы не слушали, и звал вас, а вы не отвечали, -
+  - id: 16544
+    number: 14
+    bookId: 29
+    text: то Я так же поступлю с домом [сим], над которым наречено имя Мое, на
+      который вы надеетесь, и с местом, которое Я дал вам и отцам вашим, как
+      поступил с Силомом.
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 23534
+        bookId: 3
+        bookCode: levit
+        chapter: 26
+        short: Лев:26:31
+      - verseId: 702
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 4
+        short: 1 Цар:4:12
+      - verseId: 32394
+        bookId: 22
+        bookCode: psaltir
+        chapter: 77
+        short: Пс:77:60
+      - verseId: 15681
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 26
+        short: Иер:26:6
+      - verseId: 28702
+        bookId: 30
+        bookCode: plac-ieremii
+        chapter: 2
+        short: Плач:2:7
+      - verseId: 17806
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 5
+        short: Иез:5:8
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: убо и аз сотворю дому сему, в немже призвано есть имя мое, на негоже вы
+        уповасте, и месту, еже дах вам и отцем вашым, якоже сотворих силому.
+      averincev: ""
+      ungerov: То и Я (так-же) поступлю с домом сим, на котором наречено имя Мое, на
+        который вы надеетесь, и с местом, которое Я дал вам и отцам вашим, как
+        поступил с Силомом.
+      csya_old: ў2бо и3 ѓзъ сотворю2 до1му семY, въ не1мже при1звано є4сть и4мz мое2,
+        на него1же вы2 ўповaсте, и3 мёсту, є4же дaхъ вaмъ и3 nтцє1мъ вaшымъ,
+        ћкоже сотвори1хъ силHму.
+      sovr_rbo: за это с Храмом, который именем Моим осенен, с Храмом, на который вы
+        уповаете, с местом, которое Я дал вам и отцам вашим, Я сделаю то же, что
+        и с Силомом!
+      latin: "faciam domui huic, in qua invocatum est nomen meum, et in qua vos
+        habetis fiduciam, et loco quem dedi vobis et patribus vestris, sicut
+        feci Silo:"
+      ukr: то зроблю цьому домові, що кликалось в ньому Ім'я Моє, що на нього
+        надієтесь ви, і місцю цьому, що Я дав його вам та вашим батькам, так
+        само, як Я був зробив для Шіло,
+      nkjv: therefore I will do to the house which is called by My name, in which you
+        trust, and to this place which I gave to you and your fathers, as I have
+        done to Shiloh.
+      desnitsky: ""
+      mt: ‫    וְעָשִׂיתִי לַבַּיִת אֲשֶׁר נִקְרָא־שְׁמִי עָלָיו אֲשֶׁר אַתֶּם
+        בֹּטְחִים בּוֹ וְלַמָּקוֹם אֲשֶׁר־נָתַתִּי לָכֶם וְלַאֲבוֹתֵיכֶם
+        כַּאֲשֶׁר עָשִׂיתִי לְשִׁלוֹ׃ ‬
+      romana: De aceea si cu templul acesta, asupra caruia s-a chemat numele Meu si in
+        care voi va puneti increderea, si cu locul pe care vi l-am dat voua si
+        parintilor vostri, voi face tot asa, cum am facut cu Silo;
+      francais: Je traiterai la maison sur laquelle mon nom est invoqué, Sur laquelle
+        vous faites reposer votre confiance, Et le lieu que j'ai donné à vous et
+        à vos pères, De la même manière que j'ai traité Silo;
+      italian: io tratterò questo tempio che porta il mio nome e nel quale confidate e
+        questo luogo che ho concesso a voi e ai vostri padri, come ho trattato
+        Silo.
+      old_georgian: მეცა უკუე უყო სახლსა ამას, რომელსა წოდებულ არს სახელი ჩემი მას
+        ზედა, რომლისამი თქუენ ესავთ მის ზედა და ადგილისა, რომელი მიგეც თქუენ და
+        მამათა თქუენთა, ვითარ-იგი უყავ სილომსა.
+      portuguese: "farei também a esta casa, que se chama pelo meu nome, na qual
+        confiais, e a este lugar, que vos dei a vós e a\rvossos pais, como fiz a
+        Siló."
+      polish: "uczynię temu domowi, nad którym wzywano mojego imienia, a w którym\rwy
+        pokładacie ufność, i temu miejscu, danemu wam i waszym przodkom,
+        to\rsamo, co uczyniłem Szilo."
+      turkish: Bu yüzden Şilo'ya ne yaptımsa, bana ait olan, güvendiğiniz bu tapınağa
+        da -sizlere, atalarınıza vermiş olduğum bu yere de- aynısını yapacağım.
+      nrt: То же, что Я сделал с Шило, Я сделаю и с домом, который называется Моим
+        Именем, храмом, на который вы полагаетесь, местом, которое Я дал вам и
+        вашим отцам.
+      Macarius: Я поступлю с домом, который Моим именем именуется, на который вы
+        надеетесь, и с местом сим, которое Я дал вам и отцам вашим, так же, как
+        поступил с Силомом.
+      serbian: Зато ћу учинити тому дому, који се зове мојим именом, у који се ви
+        уздате, и овому мјесту, које дадох вама и оцима вашим, као што сам
+        учинио Силому.
+      bulgarian: то Аз също тъй ще постъпя с тоя дом, над който е призовано Моето име,
+        на който вие се уповавате, и с мястото, което дадох вам и на бащите ви,
+        както постъпих със Силом.
+      Olesn: "То Я сделаю дому, на который призвано имя \rМое,\rНа который вы
+        положились,\rИ месту, которое Я дал вам и отцам вашим,\rТоже что сделал
+        Силому."
+      deutsch: so will ich dem Hause, das nach meinem Namen genannt ist, darauf ihr
+        euch verlaßt, und den Ort, den ich euren Vätern gegeben habe, eben tun,
+        wie ich zu Silo getan habe,
+      ukr2: учиню так само з цим домом, що носить моє ім'я і що ви на нього
+        покладаєтесь, та й з тим місцем, що я дав вам і батькам вашим, як учинив
+        з Шіло.
+      ukr3: Вчиню так само з сим домом, що його названо моїм імям, і що на його
+        вповаєте, та й з тим місцем, що надїлив вам і вашим отцям, - як учинив
+        із Силомом.
+      bel_syomukha: дык Я так зраблю з домам гэтым, над якім названа імя Маё, на які
+        вы спадзеяцеся, і зь месцам, якое Я даў вам і бацькам вашым, як зрабіў
+        зь Сіломам.
+      czech: proto nalozim s domem, ktery je nazyvan mym jmenem a na ktery spolehate,
+        s mistem, jez jsem dal vam a vasim otcum, stejne, jako jsem nalozil se
+        Silem.
+      spanish: haré de esta casa en que se invoca mi nombre, en que confiáis vosotros,
+        y de este lugar que di a vosotros y a vuestros padres, lo que hice de
+        Silo;
+      greek-lxx: καὶ ποιήσω τῷ οἴκῳ τούτῳ ᾧ ἐπικέκληται τὸ ὄνομά μου ἐπ᾿ αὐτῷ ἐφ᾿ ᾧ
+        ὑμεῖς πεποίθατε ἐπ᾿ αὐτῷ καὶ τῷ τόπῳ ᾧ ἔδωκα ὑμῖν καὶ τοῖς πατράσιν ὑμῶν
+        καθὼς ἐποίησα τῇ Σηλωμ
+      st_text: то Я так же поступлю с домом [сим], над которым наречено имя Мое, на
+        который вы надеетесь, и с местом, которое Я дал вам и отцам вашим, как
+        поступил с Силомом.
+  - id: 16545
+    number: 15
+    bookId: 29
+    text: И отвергну вас от лица Моего, как отверг всех братьев ваших, все семя
+      Ефремово.
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 8904
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 17
+        short: 4 Цар:17:18
+      - verseId: 6597
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 7
+        short: 2 Пар:7:20
+      - verseId: 31870
+        bookId: 22
+        bookCode: psaltir
+        chapter: 50
+        short: Пс:50:13
+      - verseId: 32819
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 1
+        short: Рим:1:28
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И отвергу вас от лица моего, якоже отвергох всю братию вашу, все семя
+        ефремово.
+      averincev: ""
+      ungerov: И отвергну вас от лица Моего, как отверг всех братьев ваших, все семя
+        Ефремово.
+      csya_old: И# tве1ргу вaсъ t лицA моегw2, ћкоже tверго1хъ всю2 брaтію вaшу, все2
+        сёмz є3фре1мово.
+      sovr_rbo: Я отвергну вас, как отверг ваших братьев, потомков Ефрема.
+      latin: et projiciam vos a facie mea sicut projeci omnes fratres vestros,
+        universum semen Ephraim.
+      ukr: і відкину Я вас від обличчя Свого, як відкинув усіх ваших братів, усе
+        насіння Єфремове!...
+      nkjv: And I will cast you out of My sight, as I have cast out all your
+        brethren-the whole posterity of Ephraim.
+      desnitsky: ""
+      mt: ‫    וְהִשְׁלַכְתִּי אֶתְכֶם מֵעַל פָּנָי כַּאֲשֶׁר הִשְׁלַכְתִּי
+        אֶת־כָּל־אֲחֵיכֶם אֵת כָּל־זֶרַע אֶפְרָיִם׃ ס ‬
+      romana: Va voi lepada de la fata Mea, cum am lepadat pe toti fratii vostri,
+        toata semintia lui Efraim.
+      francais: Et je vous rejetterai loin de ma face, Comme j'ai rejeté tous vos
+        frères, Toute la postérité d'Éphraïm.
+      italian: Vi scaccerò davanti a me come ho scacciato tutti i vostri fratelli,
+        tutta la discendenza di Èfraim.
+      old_georgian: და განგყარნე თქუენ პირისაგან ჩემისა, ვითარცა განვყარენ ძმანი
+        თქუენნი, - ყოველი თესლი ეფრემისი.
+      portuguese: E eu vos lançarei da minha presença, como lancei todos os vossos
+        irmãos, toda a linhagem de Efraim.
+      polish: Odrzucę was sprzed mego oblicza, podobnie jak odrzuciłem wszystkich
+        waszych braci, całe pokolenie Efraima.
+      turkish: Kardeşlerinizi, bütün Efrayim soyunu nasıl attıysam, sizleri de öyle
+        atacağım huzurumdan.'
+      nrt: Я отвергну вас от Себя, как отверг ваших братьев, народ Ефрема».
+      Macarius: И отвергну вас от лица Моего, как отверг всех братьев ваших, все семя
+        Ефремово.
+      serbian: И одбацићу вас од лица својега, као што сам одбацио сву браћу вашу, све
+        сјеме Јефремово.
+      bulgarian: И ще ви отхвърля от лицето Си, както отхвърлих всички ваши братя,
+        цялото Ефремово семе.
+      Olesn: "И удалю вас от Себя, \rКак удалил всех братьев ваших,\rВсех потомков
+        Ефрема."
+      deutsch: und will euch von meinem Angesicht wegwerfen, wie ich weggeworfen habe
+        alle eure Brüder, den ganzen Samen Ephraims.
+      ukr2: Я вас відкину з-перед мого обличчя, як був відкинув усіх братів ваших,
+        саме - усе потомство Ефраїма.
+      ukr3: І відопхну вас ізперед мене, як відопхнув браттє ваше, усе потомство
+        Ефраїмове.
+      bel_syomukha: І адкіну вас ад аблічча Майго, як адкінуў усіх братоў вашых, усё
+        семя Яфрэмавае.
+      czech: Odmrstim vas od sve tvare, jako jsem odmrstil vsechny vase bratry,
+        vsechno potomstvo Efrajimovo."
+      spanish: y os arrojaré de mi presencia, como arrojé a vuestros hermanos, a toda
+        la progenie de Efraím.
+      greek-lxx: καὶ ἀπορρίψω ὑμᾶς ἀπὸ προσώπου μου καθὼς ἀπέρριψα τοὺς ἀδελφοὺς ὑμῶν
+        πᾶν τὸ σπέρμα Εφραιμ
+      st_text: И отвергну вас от лица Моего, как отверг всех братьев ваших, все семя
+        Ефремово.
+  - id: 16546
+    number: 16
+    bookId: 29
+    text: Ты же не проси за этот народ и не возноси за них молитвы и прошения, и не
+      ходатайствуй предо Мною, ибо Я не услышу тебя.
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 21986
+        bookId: 2
+        bookCode: ishod
+        chapter: 32
+        short: Исх:32:10
+      - verseId: 15306
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 11
+        short: Иер:11:14
+      - verseId: 1280
+        bookId: 59
+        bookCode: 1oe-poslanie-ap-ioanna
+        chapter: 5
+        short: 1 Ин:5:16
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Ты же не молися о людех сих и не проси еже помилованым быти им, и не моли,
+        ниже приступай ко мне о них, яко не услышу тя.
+      averincev: ""
+      ungerov: А ты не молись о народе сем, и не проси о помиловании их, и не молись и
+        не ходатайствуй предо Мною о них, ибо Я не услышу тебя.
+      csya_old: Ты1 же не моли1сz њ лю1дехъ си1хъ и3 не проси2 є4же поми1лwванымъ
+        бы1ти и5мъ, и3 не моли2, ниже2 приступaй ко мнЁ њ ни1хъ, ћкw не ўслы1шу
+        тS.
+      sovr_rbo: А ты за народ этот не молись, не плачь о нем, не возноси мольбу, не
+        проси Меня! Я не стану тебя слушать.
+      latin: Tu ergo, noli orare pro populo hoc, nec assumas pro eis laudem et
+        orationem. et non obsistas mihi, quia non exaudiam te.
+      ukr: А ти не молись за народ цей, і благання й молитви за них не здіймай, і Мене
+        не проси, бо не вислухаю Я тебе!
+      nkjv: '"Therefore do not pray for this people, nor lift up a cry or prayer for
+        them, nor make intercession to Me; for I will not hear you.'
+      desnitsky: ""
+      mt: ‫    וְאַתָּה אַל־תִּתְפַּלֵּל בְּעַד־הָעָם הַזֶּה וְאַל־תִּשָּׂא בַעֲדָם
+        רִנָּה וּתְפִלָּה וְאַל־תִּפְגַּע־בִּי כִּי־אֵינֶנִּי שֹׁמֵעַ אֹתָךְ׃ ‬
+      romana: Tu insa nu te ruga pentru acest popor si nu inalta rugaciune si cerere
+        pentru dansii, nici nu mijloci inaintea Mea, ca nu te voi asculta.
+      francais: Et toi, n'intercède pas en faveur de ce peuple, N'élève pour eux ni
+        supplications ni prières, Ne fais pas des instances auprès de moi; Car
+        je ne t'écouterai pas.
+      italian: Tu poi, non pregare per questo popolo, non innalzare per esso suppliche
+        e preghiere né insistere presso di me, perché non ti ascolterò.
+      old_georgian: და შენ ნუ ილოცავ მწედ ერისა ამის და ნუ იოხ შეწყალებად მათდა, და ნუ
+        ილოცავ და ნუ მოხუალ ჩემდა ამათთჳს, რამეთუ არა ვისმინო.
+      portuguese: "Tu, pois, não ores por este povo, nem levantes por ele clamor ou
+        oração, nem me importunes; pois eu não te\rouvirei."
+      polish: Ty zaś nie wstawiaj się za tym narodem, nie zanoś za niego błagań ani
+        modłów, ani też nie nalegaj na Mnie, bo cię nie wysłucham.
+      turkish: "«Sana gelince, ey Yeremya, bu halk için yalvarma; onlar için ne
+        yakar\rne de dilekte bulun; bana yalvarıp yakarma, çünkü seni
+        dinlemeyeceğim. Onların Yahuda kentlerinde, Yeruşalim sokaklarında neler
+        yaptıklarını\rgörmüyor musun?"
+      nrt: – А ты не молись за этот народ, не возноси за них ни прошения, ни молитвы;
+        не умоляй Меня, Я не стану тебя слушать.
+      Macarius: А ты не молись за народ сей, и не возноси за них прошения и молитвы, и
+        не ходатайствуй предо Мною, ибо Я не послушаю тебя.
+      serbian: Ти се, дакле, не моли за тај народ, и не подижи вике ни молбе за њих, и
+        не говори ми за њих; јер те нећу услишити.
+      bulgarian: А ти не се моли за тоя народ и не възнасяй заради него молитви и
+        просби, и не ходатайствувай пред Мене, защото няма да те чуя.
+      Olesn: "И ты не проси за народ сей \rИ не возноси за них плача и молитвы,\rНе
+        наскучай Мне,\rПотому что Я не послушаю тебя."
+      deutsch: Und du sollst für dies Volk nicht bitten und sollst für sie keine Klage
+        noch Gebet vorbringen, auch nicht sie vertreten vor mir; denn ich will
+        dich nicht hören.
+      ukr2: Ти, отже, не заступайся за народ цей, не благай і не молися за них ревно,
+        не наполягай на мене, бо я не вислухаю тебе.
+      ukr3: Ти ж не благай мене за сих людей, не молись гаряче за них, й не всиловуйся
+        передо мною, бо не вислухаю тебе.
+      bel_syomukha: А ты не прасі за народ гэты і ня ўзнось за іх малітвы і просьбы, і
+        не хадайнічай перад Мною, бо Я не пачую цябе.
+      czech: '"Nemodli se za tento lid, nepozvedej svuj hlas k bedovani a modlitbe za
+        ne a nenalehej na me, nebot te nevyslysim.'
+      spanish: Y tú no me ruegues por este pueblo ni eleves por ellos clamor y
+        súplica, no me porfíes, porque no te oiré.
+      greek-lxx: καὶ σὺ μὴ προσεύχου περὶ τοῦ λαοῦ τούτου καὶ μὴ ἀξίου τοῦ ἐλεηθῆναι
+        αὐτοὺς καὶ μὴ εὔχου καὶ μὴ προσέλθῃς μοι περὶ αὐτῶν ὅτι οὐκ εἰσακούσομαι
+      st_text: Ты же не проси за этот народ и не возноси за них молитвы и прошения, и
+        не ходатайствуй предо Мною, ибо Я не услышу тебя.
+  - id: 16547
+    number: 17
+    bookId: 29
+    text: Не видишь ли, что они делают в городах Иудеи и на улицах Иерусалима?
+    chapter: 7
+    chapterId: 873
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Еда не видиши, что сии творят во градех иудиных и на путех Иерусалимских?
+      averincev: ""
+      ungerov: Ужели не видишь, что они делают в городах Иуды и на улицах Иерусалима?
+      csya_old: є3дA не ви1диши, что2 сjи творsтъ во градёхъ їyдиныхъ и3 на путе1хъ
+        їеrли1мскихъ;
+      sovr_rbo: Разве не видишь, что творят они в городах Иудеи, на улицах Иерусалима?
+      latin: Nonne vides quid isti faciunt in civitatibus Juda, et in plateis
+        Jerusalem?
+      ukr: "Хіба ти не бачиш, що роблять вони в містах Юдиних та на вулицях
+        Єрусалиму:"
+      nkjv: Do you not see what they do in the cities of Judah and in the streets of
+        Jerusalem?
+      desnitsky: ""
+      mt: ‫    הַאֵינְךָ רֹאֶה מָה הֵמָּה עֹשִׂים בְּעָרֵי יְהוּדָה וּבְחֻצוֹת
+        יְרוּשָׁלִָם׃ ‬
+      romana: Nu vezi tu ce fac ei prin cetatile lui Iuda si pe ulitele Ierusalimului?
+      francais: Ne vois-tu pas ce qu'ils font dans les villes de Juda Et dans les rues
+        de Jérusalem?
+      italian: Non vedi che cosa fanno nelle città di Giuda e nelle strade di
+        Gerusalemme?
+      old_georgian: ანუ არა ჰხედავ, რასა ეგენი ჰყოფენ ქალაქთა შორის იუდაჲსთა და გზათა
+        შორის იერუსალჱმისათა?
+      portuguese: Não vês tu o que eles andam fazendo nas cidades de Judá, e nas ruas
+        de Jerusalém?
+      polish: Czy nie widzisz, co czynią w miastach Judy i na ulicach Jerozolimy?
+      turkish: olduğum ülkede kalmanızı sağlarım.
+      nrt: Разве ты не видишь, что они делают в городах Иудеи и на улицах Иерусалима?
+      Macarius: Разве ты не видишь, что они делают в городах Иудеи, и на улицах
+        Иерусалима?
+      serbian: Зар не видиш шта чине по градовима Јудинијем и по улицама Јерусалимским?
+      bulgarian: Не виждаш ли, какво вършат те в градовете на Иудея и по улиците
+        иерусалимски?
+      Olesn: "Разве ты не видишь, \rЧто они делают в городах Иуды И на улицах
+        Иерусалима?"
+      deutsch: Denn siehst du nicht, was sie tun in den Städten Juda's und auf den
+        Gassen zu Jerusalem?
+      ukr2: Хіба не бачиш сам, що вони коять по містах Юдеї, по вулицях Єрусалиму?
+      ukr3: Хиба не бачиш сам, що вони коять по городах Юдиних й по улицях
+        Ерусалимських?
+      bel_syomukha: Ці ж ня бачыш, што яны робяць у гарадах Юдэі і на вуліцах Ерусаліма?
+      czech: Coz sam nevidis, ceho se v judskych mestech a na ulicich Jeruzalema
+        dopousteji?
+      spanish: Porque ¿no ves lo que ellos hacen en las ciudades de Judá y en las
+        plazas de Jerusalén?
+      greek-lxx: ἦ οὐχ ὁρᾷς τί αὐτοὶ ποιοῦσιν ἐν ταῖς πόλεσιν Ιουδα καὶ ἐν ταῖς ὁδοῖς
+        Ιερουσαλημ
+      st_text: Не видишь ли, что они делают в городах Иудеи и на улицах Иерусалима?
+  - id: 16548
+    number: 18
+    bookId: 29
+    text: Дети собирают дрова, а отцы разводят огонь, и женщины месят тесто, чтобы
+      делать пирожки для богини неба и совершать возлияния иным богам, чтобы
+      огорчать Меня.
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 21140
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 65
+        short: Ис:65:11
+      - verseId: 15478
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 19
+        short: Иер:19:5
+      - verseId: 16184
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 44
+        short: Иер:44:15
+      - verseId: 16186
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 44
+        short: Иер:44:17
+      - verseId: 16188
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 44
+        short: Иер:44:19
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Сынове их собирают дрова, и отцы их зажигают огнь, и жены их месят муку,
+        да сотворят опресноки воинству небесному, и возлияша возлияния богом
+        чуждим, да прогневают мя.
+      averincev: ""
+      ungerov: Сыновья их собирают дрова, отцы разводят огонь, а жены их месят тесто,
+        чтобы печь пирожки воинству небесному, и совершают возлияния чужим
+        богам, чтобы огорчать Меня.
+      csya_old: "Сы1нове и4хъ собирaютъ дровA, и3 nтцы2 и4хъ зажигaютъ џгнь, и3 жєны2
+        и4хъ мёсzтъ мукY, да сотворsтъ њпрэсно1ки во1инству небе1сному [є3вр.:
+        цари1цэ небе1снэй], и3 возліsша возлі‰ніz богHмъ чужди6мъ, да
+        прогнёваютъ мS."
+      sovr_rbo: Дети дрова собирают, отцы огонь разжигают, женщины месят тесто, чтобы
+        приготовить жертвенный хлеб Владычице неба ! Богам иным возлияния они
+        совершают, чтобы Меня уязвить.
+      latin: Filii colligunt ligna, et patres succendunt ignem, et mulieres
+        conspergunt adipem, ut faciant placentas reginae caeli, et libent diis
+        alienis, et me ad iracundiam provocent.
+      ukr: Діти дрова збирають, а батьки розкладають огонь, жінки ж місять тісто, щоб
+        спекти калачів тих жертовних небесній цариці, і ллють литі жертви для
+        інших богів, на досаду Мені...
+      nkjv: The children gather wood, the fathers kindle the fire, and the women knead
+        dough, to make cakes for the queen of heaven; and they pour out drink
+        offerings to other gods, that they may provoke Me to anger.
+      desnitsky: ""
+      mt: ‫    הַבָּנִים מְלַקְּטִים עֵצִים וְהָאָבוֹת מְבַעֲרִים אֶת־הָאֵשׁ
+        וְהַנָּשִׁים לָשׁוֹת בָּצֵק לַעֲשׂוֹת כַּוָּנִים לִמְלֶכֶת הַשָּׁמַיִם
+        וְהַסֵּךְ נְסָכִים לֵאלֹהִים אֲחֵרִים לְמַעַן הַכְעִסֵנִי׃ ‬
+      romana: Copiii aduna lemne, iar parintii atata focul si femeile framanta aluatul
+        ca sa faca turte pentru zeita cerului si sa savarseasca turnari in
+        cinstea altor dumnezei, ca sa Ma raneasca pe Mine.
+      francais: Les enfants ramassent du bois, Les pères allument le feu, Et les
+        femmes pétrissent la pâte, Pour préparer des gâteaux à la reine du ciel,
+        Et pour faire des libations à d'autres dieux, Afin de m'irriter.
+      italian: I figli raccolgono la legna, i padri accendono il fuoco e le donne
+        impastano la farina per preparare focacce alla Regina del cielo; poi si
+        compiono libazioni ad altri dèi per offendermi.
+      old_georgian: ძენი მათნი შეჰკრებენ შეშათა და მამანი მათნი აღატყინებენ ცეცხლსა,
+        და ცოლნი მათნი ნაყენ ცმელსა ქმნად ხავონანი ძალთა ცისათასა, და უგნეს
+        საგებნი ღმერთთა უცხოთა, რაჲთა განმარისხონ მე.
+      portuguese: "Os filhos apanham a lenha, e os pais acendem o fogo, e as mulheres
+        amassam a farinha para fazerem bolos à\rrainha do céu, e oferecem
+        libações a outros deuses, a fim de me provocarem à ira."
+      polish: "Synowie zbierają drewno, ojcowie rozpalają ogień, a kobiety ugniatają
+        ciasto, by robić pieczywo ofiarne dla ”królowej nieba”, a nadto wylewają
+        ofiary\rz płynów dla obcych bogów, by Mnie obrażać."
+      turkish: Çocuklar odun topluyor, babalar ateş yakıyor, kadınlar Gök Kraliçesi'ne
+        pide pişirmek için hamur yoğuruyor. Beni öfkelendirmek için başka
+        ilahlara dökmelik sunular sunuyorlar.
+      nrt: Дети собирают дрова, отцы разводят огонь, а женщины месят тесто и пекут
+        лепешки для богини неба. Они приносят жертвенные возлияния чужим богам,
+        чтобы разгневать Меня.
+      Macarius: Дети собирают дрова, а отцы разводят огонь, и женщины месят тесто,
+        чтоб делать пирожки царице небесной, и возливать возлияния другим богам,
+        к Моему огорчению.
+      serbian: Синови купе дрва, а оцеви ложе огањ, и жене мијесе тијесто, да пеку
+        колаче царици небеској, и да љевају наљеве другим боговима, да би мене
+        дражили.
+      bulgarian: Децата събират дърва, а бащите кладат огън, и жените месят тесто, за
+        да правят банички за богинята на небето и да извършват възлияние на
+        други богове, за да Ме огорчават.
+      Olesn: "Дети собирают дрова, \rОтцы зажигают огонь,\rА жены месят тесто, \rДля
+        приготовления лепешек царице неба \rИ совершения возлияний богам
+        иным,\rЧтобы огорчить Меня..."
+      deutsch: Die Kinder lesen Holz, so zünden die Väter das Feuer an, und die Weiber
+        kneten den Teig, daß sie der Himmelskönigin Kuchen backen, und geben
+        Trankopfer den fremden Göttern, daß sie mir Verdruß tun.
+      ukr2: Діти збирають дрова, а батьки запалюють вогонь; жінки ж місять тісто, щоб
+        напекти медяників небесній цариці та возлити ливні жертви чужим богам,
+        щоб мене ображати.
+      ukr3: Дїтвора збірає дрова, а батьки запалюють огонь, жіноцтво ж замішує тїсто,
+        щоб напекти пирожків небесній царицї та приносити ливну жертву чужим
+        богам, на досаду менї.
+      bel_syomukha: Дзеці зьбіраюць дровы, а бацькі разводзяць агонь, і жанчыны месяць
+        цеста, каб рабіць піражкі багіні неба і ўчыняць выліваньні іншым багам,
+        каб засмуціць Мяне.
+      czech: Synove sbiraji drivi, otcove zapaluji ohen a zeny hnetou testo, delaji
+        obetni kolac pro kralovnu nebes a prinaseji ulitby jinym bohum, aby me
+        urazeli.
+      spanish: Los hijos recogen la leña, los padres prenden el fuego, y las mujeres
+        amasan la harina para hacer tortas a la reina del cielo y libar a los
+        dioses extraños para ofenderme.
+      greek-lxx: οἱ υἱοὶ αὐτῶν συλλέγουσιν ξύλα καὶ οἱ πατέρες αὐτῶν καίουσι πῦρ καὶ
+        αἱ γυναῖκες αὐτῶν τρίβουσιν σταῖς τοῦ ποιῆσαι χαυῶνας τῇ στρατιᾷ τοῦ
+        οὐρανοῦ καὶ ἔσπεισαν σπονδὰς θεοῖς ἀλλοτρίοις ἵνα παροργίσωσίν με
+      st_text: Дети собирают дрова, а отцы разводят огонь, и женщины месят тесто,
+        чтобы делать пирожки для богини неба и совершать возлияния иным богам,
+        чтобы огорчать Меня.
+  - id: 16549
+    number: 19
+    bookId: 29
+    text: Но Меня ли огорчают они? говорит Господь; не себя ли самих к стыду своему?
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 19586
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 35
+        short: Иов:35:6
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Мене ли тии прогневляют? глаголет Господь: еда не себе самих? да
+        постыдятся лица их."
+      averincev: ""
+      ungerov: Меня-ли они огорчают? говорит Господь; не себя ли самих к стыду своему?
+      csya_old: "Мене1 ли тjи прогнэвлsютъ; гlетъ гDь: є3дA не себе2 сами1хъ; да
+        постыдsтсz ли1ца и4хъ."
+      sovr_rbo: Но Меня ли они уязвят? — говорит Господь. — Самих себя уязвят, себе на
+        позор!»
+      latin: Numquid me ad iracundiam provocant? dicit Dominus; nonne semetipsos in
+        confusionem vultus sui?
+      ukr: Та хіба ображають Мене, говорить Господь? Хіба не себе самих, щоб сором
+        покрив їхні обличчя?
+      nkjv: Do they provoke Me to anger?" says the Lord. "Do they not provoke
+        themselves, to the shame of their own faces?"
+      desnitsky: ""
+      mt: ‫    הַאֹתִי הֵם מַכְעִסִים נְאֻם־יְהוָה הֲלוֹא אֹתָם לְמַעַן בֹּשֶׁת
+        פְּנֵיהֶם׃ ס ‬
+      romana: Dar oare pe Mine Ma ranesc ei - zice Domnul - si nu pe ei insisi, spre
+        rusinea lor?"
+      francais: Est-ce moi qu'ils irritent? dit l'Éternel; N'est-ce pas eux-mêmes, A
+        leur propre confusion?
+      italian: Ma forse costoro offendono me — oracolo del Signore — o non piuttosto
+        se stessi a loro vergogna?".
+      old_georgian: ნუ მე განმარისხებენა იგინი? - თქუა უფალმან, - არა თავთა თჳსთა,
+        რაჲთა ჰრცხუენნეს პირთა მათთა.
+      portuguese: "Acaso é a mim que eles provocam à ira? diz o Senhor; não se
+        provocam a si mesmos, para a sua própria\rconfusão?"
+      polish: "Czy Mnie obrażają - wyrocznia Pana - czy raczej siebie samych, na
+        własną\rhańbę?”"
+      turkish: İncittikleri ben miyim, diyor RAB. Hayır, kendilerini inciterek utanca
+        boğuyorlar.
+      nrt: Но Мне ли они досаждают? – возвещает Господь. – Не себе ли, к своему стыду?
+      Macarius: Но Меня ли они огорчают, говорит Иегова? Не себя ли самих к стыду своему?
+      serbian: Мене ли драже, говори Господ; еда ли не себе, на срамоту лицу својему?
+      bulgarian: Но Мене ли огорчават те? казва Господ; не себе си ли - за техен срам?
+      Olesn: "Меня ли они огорчали,\r — Говорит Иегова,\rНе себя ли самих,\rПокрывши
+        позором лица свой?"
+      deutsch: Aber sie sollen nicht mir damit, spricht der Herr, sondern sich selbst
+        Verdruß tun und müssen zu Schanden werden.
+      ukr2: Та чи ж мені вони допікають, -слово Господнє, - а не самим собі на свій же
+        власний сором?»
+      ukr3: Та чи менї ж вони допікають, говорить Господь, - а не самим собі на свій
+        сором?
+      bel_syomukha: "Але ці Мяне засмучаюць яны? кажа Гасподзь: ці не саміх сябе сабе
+        на сорам?"
+      czech: Urazeji tim opravdu mne? je vyrok Hospodinuv. Coz nedelaji ostudu sami
+        sobe?"
+      spanish: Pero ¿me ofenden a mí, oráculo de Yavé? ¿No es más bien a ellos, para
+        su vergüenza?
+      greek-lxx: μὴ ἐμὲ αὐτοὶ παροργίζουσιν λέγει Κύριος οὐχὶ ἑαυτούς ὅπως καταισχυνθῇ
+        τὰ πρόσωπα αὐτῶν
+      st_text: Но Меня ли огорчают они? говорит Господь; не себя ли самих к стыду
+        своему?
+  - id: 16550
+    number: 20
+    bookId: 29
+    text: "Посему так говорит Господь Бог: вот, изливается гнев Мой и ярость Моя на
+      место сие, на людей и на скот, и на дерева полевые и на плоды земли, и
+      возгорится и не погаснет."
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 9090
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 22
+        short: 4 Цар:22:17
+      - verseId: 16073
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 4
+        short: Иер:4:4
+      - verseId: 16511
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 6
+        short: Иер:6:11
+      - verseId: 16152
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 42
+        short: Иер:42:18
+      - verseId: 28794
+        bookId: 30
+        bookCode: plac-ieremii
+        chapter: 4
+        short: Плач:4:11
+      - verseId: 16960
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 20
+        short: Иез:20:48
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Сего ради тако глаголет Господь: се, гнев и ярость моя лиется на место
+        сие и на люди, и на скоты и на всяко древо страны их и на плоды земныя,
+        и возжжется и не угаснет."
+      averincev: ""
+      ungerov: "Посему так говорит Господь: вот гнев и ярость Моя изливается на место
+        сие, и на людей, и на скот, и на всякое дерево страны их, и на плоды
+        земные, и возжжется, и не угаснет."
+      csya_old: "Сегw2 рaди тaкw гlетъ гDь: се2, гнёвъ и3 ћрость моS ліе1тсz на мёсто
+        сіе2 и3 на лю1ди, и3 на скоты2 и3 на всsко дре1во страны2 и4хъ и3 на
+        плоды2 земны6z, и3 возжже1тсz и3 не ўгaснетъ."
+      sovr_rbo: "Потому так говорит Господь Бог: «Яростный гнев Мой изольется на это
+        место, на людей и животных, на деревья полевые и на плоды земли! Будет
+        он пылать, не погаснет»."
+      latin: "Ideo haec dicit Dominus Deus: Ecce furor meus et indignatio mea
+        conflatur super locum istum, super viros, et super jumenta, et super
+        lignum regionis, et super fruges terrae: et succendetur, et non
+        extinguetur."
+      ukr: "Тому Господь Бог промовляє отак: Ось ллється Мій гнів і Моя лють на це
+        місце, на людину й худобу, і на польові дерева та на земні плоди, і
+        палатиме він, і не згасне!"
+      nkjv: 'Therefore thus says the Lord God: "Behold, My anger and My fury will be
+        poured out on this place-on man and on beast, on the trees of the field
+        and on the fruit of the ground. And it will burn and not be quenched."'
+      desnitsky: ""
+      mt: ‫    לָכֵן כֹּה־אָמַר אֲדֹנָי יְהֹוִה הִנֵּה אַפִּי וַחֲמָתִי נִתֶּכֶת
+        אֶל־הַמָּקוֹם הַזֶּה עַל־הָאָדָם וְעַל־הַבְּהֵמָה וְעַל־עֵץ הַשָּׂדֶה
+        וְעַל־פְּרִי הָאֲדָמָה וּבָעֲרָה וְלֹא תִכְבֶּה׃ ס ‬
+      romana: 'De aceea, asa zice Domnul Dumnezeu: Iata se revarsa mania Mea asupra
+        locului acestuia, asupra oamenilor si dobitoacelor, asupra copacilor,
+        asupra tarinii si asupra roadelor pamantului, si se vor aprinde si nu se
+        vor mai stinge".'
+      francais: "C'est pourquoi ainsi parle le Seigneur, l'Éternel: Voici, ma colère
+        et ma fureur se répandent sur ce lieu, Sur les hommes et sur les bêtes,
+        Sur les arbres des champs et sur les fruits de la terre; Elle brûlera,
+        et ne s'éteindra point."
+      italian: 'Pertanto, dice il Signore Dio: "Ecco il mio furore, la mia ira si
+        riversa su questo luogo, sugli uomini e sul bestiame, sugli alberi dei
+        campi e sui frutti della terra e brucerà senza estinguersi".'
+      old_georgian: "ამისთჳს ამათ იტყჳს უფალი: აჰა, რისხვა და გულისწყრომაჲ ჩემი
+        განეფინოს ადგილსა ამას ზედა და კაცთა ზედა საცხოვართა და ყოველსა ზედა
+        ხესა ველისასა და ყოველთა ზედა ნაშრომთა ქუეყანისათა, და აღეგზნას და არა
+        დაშრტეს."
+      portuguese: "Portanto assim diz o Senhor Deus: Eis que a minha ira e o meu furor
+        se derramarão sobre este lugar, sobre os\rhomens e sobre os animais,
+        sobre as árvores do campo e sobre os frutos da terra; sim, acender-se-á,
+        e não se\rapagará."
+      polish: "Dlatego to mówi Pan: ”Oto się żar gniewu mojego rozlewa na to miejsce,
+        na\rludzi i na zwierzęta, na drzewa polne i na owoce ziemi - płonie i
+        nie zagaśnie”."
+      turkish: «Bu yüzden Egemen RAB diyor ki, `Buranın üzerine, insanın, hayvanın,
+        kırdaki ağaçların, toprağın ürününün üzerine kızgın öfkemi yağdıracağım.
+        Yakıp yok edecek her şeyi, sönmeyecek.'
+      nrt: "Поэтому так говорит Владыка Господь: – Мой яростный гнев обрушится на эту
+        землю, на людей и скот, на деревья в поле и на плоды земли, он будет
+        пылать, не угасая."
+      Macarius: "Посему, так говорит Господь Иегова: се, изливается гнев Мой и ярость
+        Моя на место сие, на людей, и на скот, и на дерево полевое, и на плоды
+        земли, и разгорится и не потухнет."
+      serbian: "Зато овако говори Господ Господ: Гле, гњев мој и јарост моја излиће се
+        на ово мјесто, на људе и на стоку и на дрвета пољска и на род земаљски,
+        и распалиће се, и неће се угасити."
+      bulgarian: "Затова тъй казва Господ Бог: ето, излива се Моят гняв и Моята ярост
+        върху това място, върху люде и върху добитък, върху полски дървета и
+        върху земни плодове, ще се запали и не ще угасне."
+      Olesn: "Посему так говорит Господь Иегова: Вот гнев Мой и ярость Моя Прольются
+        на место сие,\rНа человека и на животное,\rИ на дерево полевое,\rИ на
+        плоды земли;\rИ сгорит, и никто не потушит."
+      deutsch: "Darum spricht der Herr: Siehe, mein Zorn und mein Grimm ist
+        ausgeschüttet über diesen Ort, über Menschen und Vieh, über Bäume auf
+        dem Felde und über die Früchte des Landes; und der soll brennen, daß
+        niemand löschen kann."
+      ukr2: "Тим то так говорить Господь Бог: «Ось виллється мій гнів і моє обурення
+        на це місце, на людей і на скотину, на польові дерева й на плоди землі,
+        і загориться та й не згасне.»"
+      ukr3: "Тим то ось як говорить Господь Бог: Оце виливається гнїв мій й досада моя
+        на се місце, на людей і на скотину, на дерева польові й на земляні
+        плоди, й загориться та й не згасне."
+      bel_syomukha: "Таму так кажа Гасподзь Бог: вось, выліваецца гнеў Мой і лютасьць
+        Мая на месца гэтае, на людзей і на быдла, і на дрэвы польныя і на плады
+        зямлі, і загарыцца і не патухне."
+      czech: 'Proto pravi Panovnik Hospodin toto: "Hle, muj hnev a me rozhorceni se
+        vyleje na toto misto, na lidi i dobytek, na stromovi na poli i na plody
+        zeme a bude horet a neuhasne."'
+      spanish: "Por tanto, así dice el Señor Yavé: He aquí que mi ira y furor se
+        derramarán sobre este lugar, sobre hombres y animales, sobre arboledas y
+        campos y sobre los frutos de la tierra, y arderán y no se extinguirán."
+      greek-lxx: διὰ τοῦτο τάδε λέγει Κύριος ἰδοὺ ὀργὴ καὶ θυμός μου χεῖται ἐπὶ τὸν
+        τόπον τοῦτον καὶ ἐπὶ τοὺς ἀνθρώπους καὶ ἐπὶ τὰ κτήνη καὶ ἐπὶ πᾶν ξύλον
+        τοῦ ἀγροῦ αὐτῶν καὶ ἐπὶ πάντα τὰ γενήματα τῆς γῆς καὶ καυθήσεται καὶ οὐ
+        σβεσθήσεται
+      st_text: "Посему так говорит Господь Бог: вот, изливается гнев Мой и ярость Моя
+        на место сие, на людей и на скот, и на дерева полевые и на плоды земли,
+        и возгорится и не погаснет."
+  - id: 16551
+    number: 21
+    bookId: 29
+    text: "Так говорит Господь Саваоф, Бог Израилев: всесожжения ваши прилагайте к
+      жертвам вашим и ешьте мясо;"
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 16520
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 6
+        short: Иер:6:20
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Сия глаголет Господь сил, Бог израилев: всесожжения ваша соберите со
+        жертвами вашими и изъядите мяса:"
+      averincev: ""
+      ungerov: "Так говорит Господь сил, Бог Израилев: всесожжения ваши присоединяйте
+        к жертвам вашим, и ешьте мяса,"
+      csya_old: "Сі‰ гlетъ гDь си1лъ, бг7ъ ї}левъ: всесожжє1ніz в†ша собери1те со
+        же1ртвами вaшими и3 и3з8zди1те мzсA:"
+      sovr_rbo: "Так говорит Господь Воинств, Бог Израиля: «Приносите жертвы,
+        всесожжения совершайте, ешьте жертвенное мясо!"
+      latin: "Haec dicit Dominus exercituum, Deus Israel: Holocautomata vestra addite
+        victimis vestris, et comedite carnes:"
+      ukr: "Так говорить Господь Саваот, Бог Ізраїлів: Додайте свої цілопалення до
+        жертов ваших, і їжте м'ясо,"
+      nkjv: 'Thus says the Lord of hosts, the God of Israel: "Add your burnt offerings
+        to your sacrifices and eat meat.'
+      desnitsky: ""
+      mt: ‫    כֹּה אָמַר יְהוָה צְבָאוֹת אֱלֹהֵי יִשְׂרָאֵל עֹלוֹתֵיכֶם סְפוּ
+        עַל־זִבְחֵיכֶם וְאִכְלוּ בָשָׂר׃ ‬
+      romana: 'Asa zice Domnul Savaot, Dumnezeul lui Israel: "Arderile de tot ale
+        voastre adaugati-le la jertfele voastre si mancati carne;'
+      francais: "Ainsi parle l'Éternel des armées, le Dieu d'Israël: Ajoutez vos
+        holocaustes à vos sacrifices, Et mangez-en la chair!"
+      italian: 'Dice il Signore degli eserciti, Dio di Israele: "Aggiungete pure i
+        vostri olocausti ai vostri sacrifici e mangiatene la carne!'
+      old_georgian: "ამათ იტყჳს უფალი ძალთა, ღმერთი ისრაჱლისა: ყოვლადდასაწუელნი
+        თქუენნი შეკრიბენით მსხუერპლთა თქვენთა თანა და ჭამეთ ჴორცი."
+      portuguese: "Assim diz o Senhor dos exércitos, o Deus de Israel: Ajuntai os
+        vossos holocaustos aos vossos sacrifícios, e\rcomei a carne."
+      polish: "To mówi Pan Zastępów, Bóg Izraela: ”Dodawajcie wasze ofiary całopalne
+        do\rwaszych ofiar krwawych i spożywajcie mięso!"
+      turkish: «İsrail'in Tanrısı, Her Şeye Egemen RAB diyor ki, `Yakmalık
+        sunularınızı öbür kurbanlarınıza ekleyin de et yiyin.
+      nrt: "Так говорит Господь Сил, Бог Израиля: – Прилагайте ваши всесожжения к
+        прочим жертвам и ешьте мясо."
+      Macarius: "Так говорит Иегова воинств, Бог Израилев: всесожжения свои прилагайте
+        к жертвам своим, и ешьте мясо;"
+      serbian: "Овако вели Господ над војскама Бог Израиљев: Жртве своје паљенице
+        саставите са приносима својим, и једите месо."
+      bulgarian: "Тъй казва Господ Саваот, Бог Израилев: вашите всесъжения слагайте
+        при вашите жертви и яжте месото;"
+      Olesn: "Так говорит Иегова воинств,\rБог Израилев:\rВсесожжения ваши приложите к
+        жертвам \rвашим \rИ ешьте мясо."
+      deutsch: "So spricht der Herr Zebaoth, der Gott Israels: Tut eure Brandopfer und
+        anderen Opfer zuhauf und esset Fleisch."
+      ukr2: "Так говорить Господь сил, Бог Ізраїля: «Додавайте всепалення ваші до
+        ваших жертв і їжте м'ясо;"
+      ukr3: "Так говорить Господь сил, Бог Ізраїля: Прибавляйте собі всепалення ваші
+        до кожної жертви вашої, та й їжте мясиво її;"
+      bel_syomukha: "Так кажа Гасподзь Саваоф, Бог Ізраілеў: цэласпаленьні вашыя
+        дадавайце да ахвяраў вашых і ежце мяса;"
+      czech: 'Toto pravi Hospodin zastupu, Buh Izraele: "Pridejte sve zapalne obeti ke
+        svym obetnim hodum a jezte maso!'
+      spanish: "Así dice Yavé de los ejércitos, Dios de Israel: Añadid vuestros
+        holocaustos a los sacrificios y comed la carne."
+      greek-lxx: τάδε λέγει Κύριος τὰ ὁλοκαυτώματα ὑμῶν συναγάγετε μετὰ τῶν θυσιῶν
+        ὑμῶν καὶ φάγετε κρέα
+      st_text: "Так говорит Господь Саваоф, Бог Израилев: всесожжения ваши прилагайте
+        к жертвам вашим и ешьте мясо;"
+  - id: 16552
+    number: 22
+    bookId: 29
+    text: ибо отцам вашим Я не говорил и не давал им заповеди в тот день, в который
+      Я вывел их из земли Египетской, о всесожжении и жертве;
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 34145
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 35
+        short: Сир:35:1
+      - verseId: 19967
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 1
+        short: Ис:1:12
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: яко не глаголах ко отцем вашым и не заповедах им в день, в оньже изведох
+        их от земли египетския, о всесожжениих и жертвах,
+      averincev: ""
+      ungerov: Ибо Я не говорил отцам вашим, и не заповедал им в день, в который вывел
+        их из земли Египетской, о всесожжениях и жертвах.
+      csya_old: ћкw не гlахъ ко nтцє1мъ вaшымъ и3 не заповёдахъ и5мъ въ де1нь, во1ньже
+        и3зведо1хъ и5хъ t земли2 є3гv1петскіz, њ всесожже1ніихъ и3 же1ртвахъ,
+      sovr_rbo: Но когда Я вывел вас из Египта, не говорил Я вашим отцам об этом, не
+        давал им заповедей о всесожжениях и жертвах.
+      latin: "quia non sum locutus cum patribus vestris, et non praecepi eis, in die
+        qua eduxi eos de terra Aegypti, de verbo holocautomatum et victimarum:"
+      ukr: бо Я не говорив батькам вашим, і не наказував їм того дня, як виводив їх із
+        краю єгипетського, про справи цілопалення й жертви.
+      nkjv: For I did not speak to your fathers, or command them in the day that I
+        brought them out of the land of Egypt, concerning burnt offerings or
+        sacrifices.
+      desnitsky: ""
+      mt: ‫    כִּי לֹא־דִבַּרְתִּי אֶת־אֲבוֹתֵיכֶם וְלֹא צִוִּיתִים בְּיוֹם *הוציא
+        **הוֹצִיאִי אוֹתָם מֵאֶרֶץ מִצְרָיִם עַל־דִּבְרֵי עוֹלָה וָזָבַח׃ ‬
+      romana: Ca parintilor vostri nu le-am vorbit si nu le-am dat porunca in ziua
+        aceea, in care i-am scos din pamantul Egiptului, pentru arderea de tot
+        si pentru jertfa;
+      francais: Car je n'ai point parlé avec vos pères et je ne leur ai donné aucun
+        ordre, Le jour où je les ai fait sortir du pays d'Égypte, Au sujet des
+        holocaustes et des sacrifices.
+      italian: In verità io non parlai né diedi comandi sull'olocausto e sul
+        sacrificio ai vostri padri, quando li feci uscire dal paese d'Egitto.
+      old_georgian: "რამეთუ არა ვთქუ მამათა მიმართ თქუენთა და არა ვამცენ მათ: დღესა,
+        რომელსა შინა აღმოვიყუანენ იგინი ქუეყანისაგან ეგჳპტისა
+        ყოვლადდასაწუელთათჳს და მსხუერპლთა,"
+      portuguese: "Pois não falei a vossos pais no dia em que os tirei da terra do
+        Egito, nem lhes ordenei coisa alguma acerca de\rholocaustos ou
+        sacrifícios."
+      polish: Bo nic nie powiedziałem ani nie nakazałem waszym przodkom, gdy
+        wyprowadzałem ich z Egiptu, co do ofiar całopalnych i krwawych,
+      turkish: Çünkü atalarınızı Mısır'dan çıkardığımda, yakmalık sunularla kurbanlar
+        hakkında onlara seslenip buyruk vermedim.
+      nrt: Ведь когда Я вывел ваших предков из Египта, Я не просто говорил и давал им
+        повеления о всесожжениях и жертвах,
+      Macarius: Ибо отцам вашим Я не говорил, и в день изведения их из земли
+        Египетской не давал заповеди о всесожжении и жертве.
+      serbian: Јер не говорих оцима вашим, нити им заповједих, кад их изведох из земље
+        Мисирске, за жртве паљенице ни за приносе.
+      bulgarian: защото Аз не говорих на бащите ви и не им давах заповеди за
+        всесъжения и жертви в оня ден, когато ги изведох из Египетската земя,
+      Olesn: "Но Я не говорил отцам вашим \rИ не приказывал им ничего,\rВ день, когда
+        вывел их из земли египетской\rПо поводу такого всесожжения и жертвы."
+      deutsch: Denn ich habe euren Vätern des Tages, da ich sie aus Ägyptenland
+        führte, weder gesagt noch geboten von Brandopfer und anderen Opfern;
+      ukr2: бо я не говорив і не заповідав батькам вашим про всепалення, жертву, в той
+        день, як я виводив їх з Єгипту,
+      ukr3: Я бо не говорив і не заповідав отцям вашим про всепаленнє й жертву, як
+        виводив їх із Египту,
+      bel_syomukha: бо бацькам вашым Я не казаў і не даваў ім запаведзі ў той дзень, у
+        які Я вывеў іх зь зямлі Егіпецкай, пра цэласпаленьне і ахвяру;
+      czech: Nemluvil jsem k vasim otcum o zapalne obeti a obetnim hodu v den, kdy
+        jsem je vyvedl ze zeme egyptske; zadny takovy prikaz jsem jim nedal.
+      spanish: Cuando yo saqué de Egipto a vuestros padres, no fue de holocaustos y
+        sacrificios de lo que les hablé y ordené,
+      greek-lxx: ὅτι οὐκ ἐλάλησα πρὸς τοὺς πατέρας ὑμῶν καὶ οὐκ ἐνετειλάμην αὐτοῖς ἐν
+        ἡμέρᾳ ᾗ ἀνήγαγον αὐτοὺς ἐκ γῆς Αἰγύπτου περὶ ὁλοκαυτωμάτων καὶ θυσίας
+      st_text: ибо отцам вашим Я не говорил и не давал им заповеди в тот день, в
+        который Я вывел их из земли Египетской, о всесожжении и жертве;
+  - id: 16553
+    number: 23
+    bookId: 29
+    text: 'но такую заповедь дал им: "слушайтесь гласа Моего, и Я буду вашим Богом,
+      а вы будете Моим народом, и ходите по всякому пути, который Я заповедаю
+      вам, чтобы вам было хорошо".'
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 15296
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 11
+        short: Иер:11:4
+      - verseId: 17464
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 37
+        short: Иез:37:23
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "но (токмо) слово сие заповедах им, рекий: услышите глас мой, и буду вам в
+        Бога, и вы будете мне в люди, и ходите во всех путех моих, в нихже
+        повелех вам, да благо будет вам."
+      averincev: ""
+      ungerov: "Но (только) такую заповедь дал им: слушайте голоса Моего, и буду вашим
+        Богом, а вы будете Моим народом, и ходите во всех путях Моих, коими
+        (ходить) Я повелел вам, чтобы благо было вам."
+      csya_old: "но (то1кмw) сло1во сіе2 заповёдахъ и5мъ, рекjй: ўслы1шите глaсъ мо1й,
+        и3 бyду вaмъ въ бг7а, и3 вы2 бyдете мнЁ въ лю1ди, и3 ходи1те во всёхъ
+        путе1хъ мои1хъ, въ ни1хже повелёхъ вaмъ, да блaго бyдетъ вaмъ."
+      sovr_rbo: "Лишь одно Я им заповедал: „Голосу Моему повинуйтесь, и буду Я вашим
+        Богом, вы будете Моим народом. Во всем поступайте так, как Я повелю вам,
+        и будете вы благополучны”."
+      latin: "sed hoc verbum praecepi eis, dicens: Audite vocem meam, et ero vobis
+        Deus, et vos eritis mihi populus: et ambulate in omni via quam mandavi
+        vobis, ut bene sit vobis."
+      ukr: "Бо лиш справу оцю Я звелів їм, говорячи: Слухайтеся Мого голосу, і Я буду
+        вам Богом, а ви будете народом Моїм, і ходіть усією дорогою, про яку
+        накажу вам, щоб вам було добре."
+      nkjv: "But this is what I commanded them, saying, 'Obey My voice, and I will be
+        your God, and you shall be My people. And walk in all the ways that I
+        have commanded you, that it may be well with you.' "
+      desnitsky: ""
+      mt: ‫    כִּי אִם־אֶת־הַדָּבָר הַזֶּה צִוִּיתִי אוֹתָם לֵאמֹר שִׁמְעוּ בְקוֹלִי
+        וְהָיִיתִי לָכֶם לֵאלֹהִים וְאַתֶּם תִּהְיוּ־לִי לְעָם וַהֲלַכְתֶּם
+        בְּכָל־הַדֶּרֶךְ אֲשֶׁר אֲצַוֶּה אֶתְכֶם לְמַעַן יִיטַב לָכֶם׃ ‬
+      romana: "Ci iata porunca pe care ti-am dat-o: Sa ascultati glasul Meu, si Eu voi
+        fi Dumnezeul vostru, iar voi Imi veti fi poporul Meu, si sa umblati pe
+        toata calea pe care va poruncesc Eu, ea sa va fie bine."
+      francais: "Mais voici l'ordre que je leur ai donné: Écoutez ma voix, Et je serai
+        votre Dieu, Et vous serez mon peuple; Marchez dans toutes les voies que
+        je vous prescris, Afin que vous soyez heureux."
+      italian: "Ma questo comandai loro: Ascoltate la mia voce! Allora io sarò il
+        vostro Dio e voi sarete il mio popolo; e camminate sempre sulla strada
+        che vi prescriverò, perché siate felici."
+      old_georgian: "არამედ ესე სიტყუაჲ ვამცენ მათ მეტყუელმან: დღესა, რომელსა შინა
+        აღმოვიყვანენ, ისმინეთ ჴმისა ჩემისა, და ვიყო მე თქვენდა ღმრთად, და თქუენ
+        იყუნეთ ჩემდა ერად. და ვიდოდეთ ყოველთა ზედა გზათა ჩემთა, რომელნიცა
+        გამცნენ თქუენ, რაჲთა იყოს თქუენდა."
+      portuguese: "Mas isto lhes ordenei: Dai ouvidos à minha voz, e eu serei o vosso
+        Deus, e vós sereis o meu povo; andai em\rtodo o caminho que eu vos
+        mandar, para que vos vá bem."
+      polish: "lecz dałem im tylko przykazanie: Słuchajcie głosu mojego, a będę wam
+        Bogiem, wy zaś będziecie Mi narodem. Chodźcie każdą drogą, którą wam
+        rozkażę, aby się wam dobrze powodziło."
+      turkish: "Onlara şunu buyurdum: Sözümü dinlerseniz, ben sizin Tanrınız, siz de
+        benim halkım olursunuz. İyilik bulmanız için her konuda size buyurduğum
+        yolda yürüyün."
+      nrt: "но и повелел им: «Слушайтесь Меня, и Я буду вашим Богом, а вы – Моим
+        народом. Исполняйте то, что я вам велю, и тогда вы будете
+        благополучны»."
+      Macarius: "Но сию заповедь Я завещал им, говоря: слушайте слово Мое, и Я буду
+        вашим Богом, а вы будете Моим народом, и ходите всяким путем, который Я
+        укажу вам, чтобы вам благоденствовать."
+      serbian: "Него им ово заповједих говорећи: Слушајте глас мој и бићу вам Бог и ви
+        ћете ми бити народ, и идите свијем путовима које вам заповједих, да би
+        вам добро било."
+      bulgarian: "а такава заповед им дадох: слушайте Моя глас и Аз ще бъда ваш Бог, а
+        вие ще бъдете Мой народ, и ходете по всякой път, който ви заповядвам, за
+        да ви е добре."
+      Olesn: "Но слово такое Я заповедал им: \rВнимайте голосу Моему И Я буду вам Бог
+        А вы будете мне народ.\rИ ходите во всех путях, которые Я заповедаю
+        вам.\rДля того, чтобы хорошо было вам."
+      deutsch: "sondern dies gebot ich ihnen und sprach: Gehorchet meinem Wort, so
+        will ich euer Gott sein, und ihr sollt mein Volk sein; und wandelt auf
+        allen Wegen, die ich euch gebiete, auf daß es euch wohl gehe."
+      ukr2: "лише дав їм таку заповідь: Слухайте мій голос, бо я буду Богом вашим, а
+        ви будете людьми моїми. Ходіте кожною дорогою, що я вам вказую, щоб вам
+        було добре."
+      ukr3: "Но дав їм таку заповідь: Слухайте голосу мого, то я буду Богом вашим, а
+        ви будете людьми моїми; і ходїте кожною дорогою, що я вказую вам, щоб
+        вам було добре."
+      bel_syomukha: "а такую запаведзь даў ім: слухайцеся голасу Майго, і Я буду вашым
+        Богам, і вы будзеце Маім народам, і хадзеце па ўсякім шляху, які Я
+        запавядаю вам, каб вам было добра."
+      czech: "Prikazal jsem jim jedine toto: ‚Poslouchejte me a budu vam Bohem a vy
+        budete mym lidem, chodte po vsech cestach, jak jsem vam prikazal, a
+        povede se vam dobre.'"
+      spanish: "sino que les di este mandato: Oíd mi voz y seré vuestro Dios y
+        vosotros seréis mi pueblo, y seguid los caminos que yo os mando, y os
+        irá bien."
+      greek-lxx: ἀλλ᾿ ἢ τὸ ῥῆμα τοῦτο ἐνετειλάμην αὐτοῖς λέγων ἀκούσατε τῆς φωνῆς μου
+        καὶ ἔσομαι ὑμῖν εἰς Θεόν καὶ ὑμεῖς ἔσεσθέ μοι εἰς λαόν καὶ πορεύεσθε ἐν
+        πάσαις ταῖς ὁδοῖς μου αἷς ἂν ἐντείλωμαι ὑμῖν ὅπως ἂν εὖ ᾖ ὑμῖν
+      st_text: 'но такую заповедь дал им: "слушайтесь гласа Моего, и Я буду вашим
+        Богом, а вы будете Моим народом, и ходите по всякому пути, который Я
+        заповедаю вам, чтобы вам было хорошо".'
+  - id: 16554
+    number: 24
+    bookId: 29
+    text: Но они не послушали и не приклонили уха своего, и жили по внушению и
+      упорству злого сердца своего, и стали ко Мне спиною, а не лицом.
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 15300
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 11
+        short: Иер:11:8
+      - verseId: 15414
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 16
+        short: Иер:16:12
+      - verseId: 15446
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 17
+        short: Иер:17:23
+      - verseId: 15943
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 34
+        short: Иер:34:14
+      - verseId: 16174
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 44
+        short: Иер:44:5
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И не услышаша мене, и не внят ухо их: но поидоша в похотех и стропотстве
+        сердца своего лукаваго, и сотворишася на задняя, а не на предняя,"
+      averincev: ""
+      ungerov: И не послушали Меня, и не вняло ухо их, но пошли по желаниям и упорству
+        сердца своего лукаваго, и обратились (ко Мне) спиною, а не лицем,
+      csya_old: "И# не ўслы1шаша мене2, и3 не внsтъ ќхо и4хъ: но поидо1ша въ по1хотехъ
+        и3 стро1потствэ се1рдца своегw2 лукaвагw, и3 сотвори1шасz на з†днzz, ґ
+        не на прє1днzz,"
+      sovr_rbo: Но не слушали они, не внимали, поступали по своему разумению, по
+        упрямству злых сердец своих — повернулись ко Мне не лицом, а спиною.
+      latin: "Et non audierunt, nec inclinaverunt aurem suam: sed abierunt in
+        voluntatibus et in pravitate cordis sui mali: factique sunt retrorsum,
+        et non in ante,"
+      ukr: Та не слухали й не нахилили вони свого вуха, а ходили за радами та за
+        упертістю серця лихого свого, і стали до Мене плечима, а не обличчям.
+      nkjv: Yet they did not obey or incline their ear, but followed the counsels and
+        the dictates of their evil hearts, and went backward and not forward.
+      desnitsky: ""
+      mt: ‫    וְלֹא שָׁמְעוּ וְלֹא־הִטּוּ אֶת־אָזְנָם וַיֵּלְכוּ בְּמֹעֵצוֹת
+        בִּשְׁרִרוּת לִבָּם הָרָע וַיִּהְיוּ לְאָחוֹר וְלֹא לְפָנִים׃ ‬
+      romana: Dar ei n-au ascultat glasul Meu si nu si-au plecat urechea lor, ci au
+        trait dupa pofta si indaratnicia inimii lor rele si s-au intors cu
+        spatele catre Mine, iar nu cu fata.
+      francais: Et ils n'ont point écouté, ils n'ont point prêté l'oreille; Ils ont
+        suivi les conseils, les penchants de leur mauvais coeur, Ils ont été en
+        arrière et non en avant.
+      italian: Ma essi non ascoltarono né prestarono orecchio; anzi procedettero
+        secondo l'ostinazione del loro cuore malvagio e invece di voltarmi la
+        faccia mi han voltato le spalle,
+      old_georgian: და არა ისმინეს ჩემი, არცა მოყვეს ყური მათი, არამედ ვიდოდეს
+        მოგონებათა შინა გულისა მათისა ბოროტისათა, და იქმნეს უკუმართთამი და არა
+        წამართთამი.
+      portuguese: "Mas não ouviram, nem inclinaram os seus ouvidos; porém andaram nos
+        seus próprios conselhos, no propósito\rdo seu coração malvado; e andaram
+        para trás, e não para diante."
+      polish: "Ale nie usłuchali ani nie chcieli słuchać i poszli według
+        zatwardziałości swego\rprzewrotnego serca; odwrócili się plecami, a nie
+        twarzą."
+      turkish: Ne var ki, dinlemediler, kulak asmadılar; kendi isteklerinin, kötü
+        yüreklerinin inadı doğrultusunda yürüdüler. İleri değil, geri gittiler.
+      nrt: Но они не послушали и не вняли Моим словам, и по своему упрямству жили по
+        собственным замыслам, шли назад, а не вперед.
+      Macarius: Но они не слушали, и не приклонили уха своего, и жили по своим мыслям,
+        по упорству испорченного своего сердца, и стали задом, а не лицом.
+      serbian: Али не послушаше, нити уха својега пригнуше, него идоше по савјетима и
+        мислима злога срца својега, и отидоше натраг а не напријед.
+      bulgarian: Но те не послушаха и не наклониха ухо, и живяха по внушението и по
+        упорството на злото си сърце, и обърнаха Ми гръб, а не лице.
+      Olesn: "Но они не слушали, и не склонили уха своего И пошли, куда вздумалось,\rВ
+        ожесточении сердца своего злаго,\rИ стали последними, а не первыми"
+      deutsch: Aber sie wollen nicht hören noch ihre Ohren zuneigen, sondern wandelten
+        nach ihrem eigenen Rat und nach ihres bösen Herzens Gedünken und gingen
+        hinter sich und nicht vor sich.
+      ukr2: Вони ж не слухали й не нахиляли вуха свого, а йшли за власними думками в
+        запеклості свого злого серця, та й пішли назад, а не наперед,
+      ukr3: Вони ж не слухали й не нахиляли уха свого, а жили по думцї й упрямостї
+        ледачого серця свого, й повернулись до мене плечима, не лицем.
+      bel_syomukha: Але яны не паслухаліся і ня прыхілілі вуха свайго, і жылі паводле
+        намовы і ўпартасьці ліхога сэрца свайго, і сталі да Мяне плячыма, а ня
+        тварам.
+      czech: Ale neposlechli, sve ucho nenaklonili, zili podle zameru sveho
+        zarputileho a zleho srdce, obraceli se ke mne zady, a ne tvari,
+      spanish: Pero ellos no (me) escucharon, no (me) dieron oídos, y siguieron sus
+        consejos en la dureza de su mal corazón, y se pusieron detrás, no
+        delante de mí.
+      greek-lxx: καὶ οὐκ ἤκουσάν μου καὶ οὐ προσέσχεν τὸ οὖς αὐτῶν ἀλλ᾿ ἐπορεύθησαν ἐν
+        τοῖς ἐνθυμήμασιν τῆς καρδίας αὐτῶν τῆς κακῆς καὶ ἐγενήθησαν εἰς τὰ
+        ὄπισθεν καὶ οὐκ εἰς τὰ ἔμπροσθεν
+      st_text: Но они не послушали и не приклонили уха своего, и жили по внушению и
+        упорству злого сердца своего, и стали ко Мне спиною, а не лицом.
+  - id: 16555
+    number: 25
+    bookId: 29
+    text: С того дня, как отцы ваши вышли из земли Египетской, до сего дня Я посылал
+      к вам всех рабов Моих - пророков, посылал всякий день с раннего утра;
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 15641
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 25
+        short: Иер:25:4
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "от дне, в оньже изыдоша отцы их от земли египетския, и даже до дне сего:
+        и послах к вам вся рабы моя пророки, в день и рано востая и посылая:"
+      averincev: ""
+      ungerov: С того дня, в который вышли отцы их из земли Египетской, до сего дня. И
+        Я посылал к вам всех рабов Моих, пророков, (вставая) всякий день с
+        ранняго утра посылал.
+      csya_old: "t дне2, во1ньже и3зыдо1ша nтцы2 и4хъ t земли2 є3гv1петскіz, и3 дaже
+        до дне2 сегw2: и3 послaхъ къ вaмъ вс‰ рабы6 мо‰ прbро1ки, въ де1нь и3
+        рaнw востаS и3 посылaz:"
+      sovr_rbo: С того дня, когда вышли ваши отцы из Египта, и доныне Я посылал к вам
+        рабов Моих, пророков, посылал снова и снова.
+      latin: "a die qua egressi sunt patres eorum de terra Aegypti usque ad diem hanc.
+        Et misi ad vos omnes servos meos prophetas per diem consurgens diluculo,
+        et mittens:"
+      ukr: Від того дня, коли ваші батьки вийшли з краю єгипетського, аж до дня цього,
+        посилав Я до вас усіх Своїх рабів пророків, посилав щодня пильно.
+      nkjv: Since the day that your fathers came out of the land of Egypt until this
+        day, I have even sent to you all My servants the prophets, daily rising
+        up early and sending them.
+      desnitsky: ""
+      mt: ‫    לְמִן־הַיּוֹם אֲשֶׁר יָצְאוּ אֲבוֹתֵיכֶם מֵאֶרֶץ מִצְרַיִם עַד הַיּוֹם
+        הַזֶּה וָאֶשְׁלַח אֲלֵיכֶם אֶת־כָּל־עֲבָדַי הַנְּבִיאִים יוֹם הַשְׁכֵּם
+        וְשָׁלֹחַ׃ ‬
+      romana: Din ziua cand parintii vostri au iesit din pamantul Egiptului si pana in
+        ziua aceasta am trimis la voi pe toti robii Mei - proorocii - si i-am
+        trimis in fiecare zi dis-de-dimineata;
+      francais: Depuis le jour où vos pères sont sortis du pays d'Égypte, Jusqu'à ce
+        jour, Je vous ai envoyé tous mes serviteurs, les prophètes, Je les ai
+        envoyés chaque jour, dès le matin.
+      italian: da quando i loro padri uscirono dal paese d'Egitto fino ad oggi. Io
+        inviai a voi tutti i miei servitori, i profeti, con premura e sempre;
+      old_georgian: დღითგან, რომლით გამოვიდეს მამანი მათნი ქუეყანით ეგჳპტით და ვიდრე
+        დღისამდე ამის, და გამოვავლინენ თქუენდამო ყოველნი მონანი ჩემნი
+        წინაწარმეტყუელნი დღისი და ცისკარსა მივავლინე.
+      portuguese: "Desde o dia em que vossos pais saíram da terra do Egito, até hoje,
+        tenho-vos enviado insistentemente todos os\rmeus servos, os profetas,
+        dia após dia;"
+      polish: "Od dnia, kiedy przodkowie wasi wyszli z ziemi egipskiej, do dnia
+        dzisiejszego\rposyłałem do was wszystkich moich sług, proroków, każdego
+        dnia, bezustannie,"
+      turkish: Atalarınızın Mısır'dan çıktığı günden bu yana, size her gün defalarca
+        peygamber kullarımı gönderdim.
+      nrt: С того дня, как ваши предки покинули Египет, и до этого дня, день за днем,
+        снова и снова Я посылал к вам Моих слуг пророков.
+      Macarius: От того дня, как отцы ваши вышли из земли Египетской, до сего дня, Я
+        посылал к вам всяких рабов Моих пророков, посылал всякий день с раннего
+        утра;
+      serbian: Откад изиђоше оци ваши из земље Мисирске до данас, слах к вама све
+        слуге своје пророке сваки дан зарана и без престанка.
+      bulgarian: От оня ден, когато бащите ви излязоха из Египетската земя, до днес
+        пращах при вас всичките Мои раби - пророците, пращах всеки ден от ранно
+        утро;
+      Olesn: "От дня, в который вышли отцы ваши из\rземли египетской, \rДаже до дня
+        сего,\rЯ посылал к вам всех рабов Моих,\rпророков\rБудил их рано каждый
+        день и посылал."
+      deutsch: Ja, von dem Tage an, da ich eure Väter aus Ägyptenland geführt habe,
+        bis auf diesen Tag habe ich stets zu euch gesandt alle meine Knechte,
+        die Propheten.
+      ukr2: від того часу, як вийшли батьки ваші з Єгипетського краю та й по цей день;
+        і хоч я посилав до вас усіх слуг моїх пророків, часто, день-у-день,
+      ukr3: З того часу, як вийшли батьки ваші з Египту, та й по сей час, посилав я
+        всїх слугів моїх, - пророків, день у день, без устанку;
+      bel_syomukha: "З таго дня, як бацькі вашыя выйшлі зь зямлі Егіпецкай, да гэтага
+        дня Я пасылаў да вас усіх рабоў Маіх - прарокаў, пасылаў кожны дзень з
+        самае раніцы:"
+      czech: a to ode dne, kdy vasi otcove vysli z egyptske zeme, az dodnes. Posilaval
+        jsem k nim nepretrzite vsechny sve sluzebniky proroky, posilal jsem je
+        denne,
+      spanish: Desde el día que vuestros padres salieron de Egipto hasta hoy, os he
+        enviado a mis siervos, los profetas día tras día sin cesar,
+      greek-lxx: ἀφ᾿ ἧς ἡμέρας ἐξήλθοσαν οἱ πατέρες αὐτῶν ἐκ γῆς Αἰγύπτου καὶ ἕως τῆς
+        ἡμέρας ταύτης καὶ ἐξαπέστειλα πρὸς ὑμᾶς πάντας τοὺς δούλους μου τοὺς
+        προφήτας ἡμέρας καὶ ὄρθρου καὶ ἀπέστειλα
+      st_text: С того дня, как отцы ваши вышли из земли Египетской, до сего дня Я
+        посылал к вам всех рабов Моих - пророков, посылал всякий день с раннего
+        утра;
+  - id: 16556
+    number: 26
+    bookId: 29
+    text: но они не слушались Меня и не приклонили уха своего, а ожесточили выю
+      свою, поступали хуже отцов своих.
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 21984
+        bookId: 2
+        bookCode: ishod
+        chapter: 32
+        short: Исх:32:8
+      - verseId: 22016
+        bookId: 2
+        bookCode: ishod
+        chapter: 33
+        short: Исх:33:5
+      - verseId: 36880
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 9
+        short: Втор:9:13
+      - verseId: 16510
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 6
+        short: Иер:6:10
+      - verseId: 15302
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 11
+        short: Иер:11:10
+      - verseId: 15414
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 16
+        short: Иер:16:12
+      - verseId: 15488
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 19
+        short: Иер:19:15
+      - verseId: 16905
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 2
+        short: Иез:2:3
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и не услышаша мя, ни приклониша ухо свое, но ожесточиша выю свою паче отец
+        своих.
+      averincev: ""
+      ungerov: И не слушали Меня, и не приклоняли уха своего, но ожесточали выю свою
+        более, чем отцы их.
+      csya_old: и3 не ўслы1шаша мS, ни приклони1ша ќхо свое2, но њжесточи1ша вы1ю
+        свою2 пaче nтє1цъ свои1хъ.
+      sovr_rbo: Но не слушали вы Меня, не внимали, сделались вы упрямы, стали еще
+        хуже, чем ваши отцы.
+      latin: "et non audierunt me, nec inclinaverunt aurem suam: sed induraverunt
+        cervicem suam, et pejus operati sunt quam patres eorum."
+      ukr: Та вони не слухалися Мене, і вуха свого не схиляли, і показали себе
+        твердошийними, зло чинили ще більш від батьків своїх...
+      nkjv: Yet they did not obey Me or incline their ear, but stiffened their neck.
+        They did worse than their fathers.
+      desnitsky: ""
+      mt: ‫    וְלוֹא שָׁמְעוּ אֵלַי וְלֹא הִטּוּ אֶת־אָזְנָם וַיַּקְשׁוּ אֶת־עָרְפָּם
+        הֵרֵעוּ מֵאֲבוֹתָם׃ ‬
+      romana: Dar ei nu M-au ascultat si nu si-au plecat urechea lor, ci si-au
+        invartosat cerbicia si s-au purtat mai rau decat parintii lor.
+      francais: Mais ils ne m'ont point écouté, ils n'ont point prêté l'oreille; Ils
+        ont raidi leur cou, Ils ont fait le mal plus que leurs pères.
+      italian: eppure essi non li ascoltarono e non prestarono orecchio. Resero dura
+        la loro nuca, divennero peggiori dei loro padri.
+      old_georgian: და არა ისმინეს ჩემი, და არა მოყვეს ყური მათი და განიფიცხეს ქედი
+        მათი უფროს მამათა მათთასა.
+      portuguese: "contudo não me deram ouvidos, nem inclinaram os seus ouvidos, mas
+        endureceram a sua cerviz. Fizeram pior\rdo que seus pais."
+      polish: "lecz nie usłuchali Mnie ani nie nadstawiali swych uszu. Uczynili
+        twardym\rswój kark, stali się gorszymi niż ich przodkowie."
+      turkish: Ama beni dinlemediniz, kulak asmadınız. İnat ederek atalarınızdan daha
+        çok kötülük yaptınız.'
+      nrt: Но они не слушали и не внимали им. Они были упрямыми и делали еще больше
+        зла, чем их предки.
+      Macarius: Но они Меня не слушали, и не приклонили уха своего, и шею свою сделали
+        упругою, поступали хуже отцов своих.
+      serbian: Али не послушаше ме, нити уха својега пригнуше, него бијаху тврдоврати
+        и чинише горе него оци њихови.
+      bulgarian: но те не Ме послушаха и не наклониха ухо, а станаха твърдоглави,
+        постъпваха по-зле от бащите си.
+      Olesn: "А вы не слушали Меня \rИ не склонили уха своего,\rКолом поставили шею
+        свою.\rВы оказались хуже, чем отцы ваши."
+      deutsch: Aber sie wollen mich nicht hören noch ihre Ohren neigen, sondern waren
+        halsstarrig und machten's ärger denn ihre Väter.
+      ukr2: ви ж не слухали мене, не нахиляли свого вуха; ні, ставали дедалі більш
+        тугошиїми, чинили гірше, ніж батьки їхні.
+      ukr3: Та вони не слухали мене, не нахиляли уха свого; нї, показували себе що раз
+        більш тугошиїми, гірш як отцї їх.
+      bel_syomukha: але яны ня слухаліся Мяне і не прыхілілі вуха, а зжарсьцьвілі
+        карак свой, рабілі горш за бацькоў сваіх.
+      czech: ale neuposlechli me, sve ucho nenaklonili, zustali tvrdosijni a jednali
+        hur nez jejich otcove.
+      spanish: pero no me escucharon, no me prestaron oído, y endurecieron su cerviz y
+        obraron peor que sus padres.
+      greek-lxx: καὶ οὐκ ἤκουσάν μου καὶ οὐ προσέσχεν τὸ οὖς αὐτῶν καὶ ἐσκλήρυναν τὸν
+        τράχηλον αὐτῶν ὑπὲρ τοὺς πατέρας αὐτῶν
+      st_text: но они не слушались Меня и не приклонили уха своего, а ожесточили выю
+        свою, поступали хуже отцов своих.
+  - id: 16557
+    number: 27
+    bookId: 29
+    text: И когда ты будешь говорить им все эти слова, они тебя не послушают; и
+      когда будешь звать их, они тебе не ответят.
+    chapter: 7
+    chapterId: 873
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И речеши к ним вся словеса сия, и не услышат тя, и воззовеши их, и не
+        отвещают тебе.
+      averincev: ""
+      ungerov: И скажи им все слова эти, и не послушают тебя, и будешь звать их, и не
+        ответят тебе.
+      csya_old: И# рече1ши къ ни6мъ вс‰ словесA сі‰, и3 не ўслы1шатъ тS, и3 воззове1ши
+        и5хъ, и3 не tвэщaютъ тебЁ.
+      sovr_rbo: Ты скажешь им все это, но они тебя не послушают, будешь звать их, но
+        они тебе не ответят.
+      latin: "Et loqueris ad eos omnia verba haec, et non audient te: et vocabis eos,
+        et non respondebunt tibi."
+      ukr: І ти будеш казати їм ці всі слова, та не будуть вони тебе слухати, і будеш
+        ти кликати до них, та вони тобі відповіді не дадуть...
+      nkjv: '"Therefore you shall speak all these words to them, but they will not
+        obey you. You shall also call to them, but they will not answer you.'
+      desnitsky: ""
+      mt: ‫    וְדִבַּרְתָּ אֲלֵיהֶם אֶת־כָּל־הַדְּבָרִים הָאֵלֶּה וְלֹא יִשְׁמְעוּ
+        אֵלֶיךָ וְקָרָאתָ אֲלֵיהֶם וְלֹא יַעֲנוּכָה׃ ‬
+      romana: Si cand le vei vorbi cuvintele acestea, ei nu te vor asculta; si cand ii
+        vei chema, nu-ti vor raspunde.
+      francais: Si tu leur dis toutes ces choses, ils ne t'écouteront pas; Si tu cries
+        vers eux, ils ne te répondront pas.
+      italian: Tu dirai loro tutte queste cose, ma essi non ti ascolteranno; li
+        chiamerai, ma non ti risponderanno.
+      old_georgian: და ჰრქუა მათ სიტყუაჲ ესე და არა ისმინონ შენი, ხადოდი მათ და არარაი
+        მიგიგონ შენ.
+      portuguese: Dir-lhes-ás pois todas estas palavras, mas não te darão ouvidos;
+        chamá-los-ás, mas não te responderão.
+      polish: "Powiesz im wszystkie te słowa, ale cię nie usłuchają; będziesz wołał do
+        nich,\rlecz nie dadzą ci odpowiedzi."
+      turkish: «Onlara bütün bunları söyleyeceksin ama seni dinlemeyecekler. Onları
+        çağıracaksın ama yanıt vermeyecekler.
+      nrt: Когда ты будешь говорить им все это, они не станут тебя слушать и, когда
+        будешь звать их, не ответят.
+      Macarius: И когда ты будешь говорить им все сии речи, они тебя не послушают; и
+        когда позовешь их, они тебе не ответят.
+      serbian: Говорићеш им све ове ријечи, али те неће послушати; и зваћеш их, али ти
+        се неће одазвати.
+      bulgarian: И когато ще им говориш всички тия думи, те не ще те послушат; и
+        когато ще ги викаш, не ще ти отговорят.
+      Olesn: "Ты говоришь в ним все слова эти,\rА они не слушают тебя...\rТы подаешь
+        голос к ним,\rА они не отвечают..."
+      deutsch: Und wenn du ihnen dies alles schon sagst, so werden sie dich doch nicht
+        hören; rufst du ihnen, so werden sie dir nicht antworten.
+      ukr2: Ти промовлятимеш до них усі ці слова, але вони тебе слухати не будуть; ти
+        кликатимеш їх, але вони до тебе озиватися не будуть.
+      ukr3: Та як і ти промовляти меш до них сї слова, то вони тебе не будуть слухати;
+        як їх кликати меш, вони до тебе не будуть озиватись.
+      bel_syomukha: "І калі ты будзеш казаць ім усе гэтыя словы, яны цябе не
+        паслухаюцца: і калі будзеш клікаць іх, яны табе не адкажуць."
+      czech: Vyridis jim vsechna tato slova, ale oni te neposlechnou, budes k nim
+        volat, a neodpovedi ti.
+      spanish: Dirás todo esto, y no escucharán; los llamarás, y no te responderán.
+      greek-lxx: καὶ ἐρεῖς αὐτοῖς τὸν λόγον τοῦτον τοῦτο τὸ ἔθνος ὃ οὐκ ἤκουσεν τῆς
+        φωνῆς Κυρίου οὐδὲ ἐδέξατο παιδείαν ἐξέλιπεν ἡ πίστις ἐκ στόματος αὐτῶν
+      st_text: И когда ты будешь говорить им все эти слова, они тебя не послушают; и
+        когда будешь звать их, они тебе не ответят.
+  - id: 16558
+    number: 28
+    bookId: 29
+    text: "Тогда скажи им: вот народ, который не слушает гласа Господа Бога своего и
+      не принимает наставления! Не стало у них истины, она отнята от уст их."
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 28062
+        bookId: 35
+        bookCode: kniga-proroka-osii
+        chapter: 4
+        short: Ос:4:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И речеши к ним: сей язык, иже не послуша гласа Господа Бога своего, ни
+        восприят наказания: погибе вера и отъята есть от уст их."
+      averincev: ""
+      ungerov: "И скажи им: вот народ, который не слушает голоса Господа, Бога своего,
+        не принимает наставления, погибла вера и отнята от уст их."
+      csya_old: "И# рече1ши къ ни6мъ: се1й kзы1къ, и4же не послyша глaса гDа бг7а
+        своегw2, ни воспріsтъ наказaніz: поги1бе вёра и3 tsта є4сть t ќстъ
+        и4хъ."
+      sovr_rbo: "Тогда скажи им: „Вот народ, что не повинуется голосу Господа, Бога
+        Своего, не принимает наставления! Погибла правда, уста этого народа
+        отвергли ее!"
+      latin: "Et dices ad eos: Haec est gens quae non audivit vocem Domini Dei sui,
+        nec recepit disciplinam; periit fides, et ablata est de ore eorum."
+      ukr: "І скажеш до них: Оце той народ, що не слухався голосу Господа, Бога свого,
+        і поуки не брав, загинула правда, і зникла з їхніх уст..."
+      nkjv: "\"So you shall say to them, 'This is a nation that does not obey the
+        voice of the Lord their God nor receive correction. Truth has perished
+        and has been cut off from their mouth. "
+      desnitsky: ""
+      mt: ‫    וְאָמַרְתָּ אֲלֵיהֶם זֶה הַגּוֹי אֲשֶׁר לוֹא־שָׁמְעוּ בְּקוֹל יְהוָה
+        אֱלֹהָיו וְלֹא לָקְחוּ מוּסָר אָבְדָה הָאֱמוּנָה וְנִכְרְתָה מִפִּיהֶם׃
+        ס ‬
+      romana: "Atunci sa le zici: Iata un popor care nu asculta glasul Domnului
+        Dumnezeului sau si nu primeste invatatura! Credinta nu mai este; ea a
+        disparut din gura lor."
+      francais: "Alors dis-leur: C'est ici la nation qui n'écoute pas la voix de
+        l'Éternel, son Dieu, Et qui ne veut pas recevoir instruction; La vérité
+        a disparu, elle s'est retirée de leur bouche."
+      italian: "Allora dirai loro: Questo è il popolo che non ascolta la voce del
+        Signore suo Dio né accetta la correzione. La fedeltà è sparita, è stata
+        bandita dalla loro bocca."
+      old_georgian: "და ჰრქუა მათ: ესე ნათესავი, რომელმან არა ისმინა ჴმისა უფლისა
+        ღმრთისა მისისა, არცა შეიწყნარა წურთილებაჲ, მოაკლდა სარწმუნოება და
+        მოღებულ არს ჭეშმარიტებაჲ პირისაგან მათისა."
+      portuguese: "E lhes dirás: Esta é a nação que não obedeceu a voz do Senhor seu
+        Deus e não aceitou a correção; já pereceu a\rverdade, e está exterminada
+        da sua boca."
+      polish: "I odezwiesz się do nich: ”To jest naród, który nie usłuchał głosu Pana,
+        swego\rBoga, i nie przyjął pouczenia. Przepadła wierność, znikła z ich
+        ust”."
+      turkish: Bunun için onlara de ki, `Tanrısı RAB'bin sözünü dinlemeyen, ders
+        almayan ulus işte budur. Bana bağlılıkları yok oldu, bağlılıktan söz
+        etmez oldular.
+      nrt: "Поэтому скажи им: «Вот народ, который не слушается Господа, своего Бога, и
+        не принимает наставлений. Истина погибла, она исчезла с их уст."
+      Macarius: "Тогда скажешь им: вот народ, который не слушает гласа Иеговы, Бога
+        своего, и не приемлет наставления! Не стало истины, и исчезла из уст
+        их."
+      serbian: "Зато им реци: Ово је народ који не слуша гласа Господа Бога својега,
+        нити прима науке; пропада вјера и неста је из уста њиховијех."
+      bulgarian: "Тогава им кажи: ето народ, който не слуша гласа на Господа, своя
+        Бог, и не приема поука! Няма у тях истина, тя е отнета от устата им."
+      Olesn: "Ты говоришь к ним: «вот народ,\rКоторый не слушает голоса Иеговы, Бога
+        своего!» А они не принимают внушения.... \rПогибла правда,\rИ исчезла из
+        среды их."
+      deutsch: "Darum sprich zu ihnen: Dies ist das Volk, das den Herrn, seinen Gott,
+        nicht hören noch sich bessern will. Der Glaube ist untergegangen und
+        ausgerottet von ihrem Munde."
+      ukr2: "Тому скажеш до них: Це народ, що не слухає голосу Господа, Бога свого, й
+        науки не приймає! Зникла правда, пропала з уст у них!"
+      ukr3: "Тодї казати меш до них: Ой ти, люде, що не слухаєш повелїння Господа,
+        Бога свого, і не приймаєш науки його! зникла правда в них, наче б
+        віднято її від уст їх."
+      bel_syomukha: "Тады скажы ім: вось народ, які ня слухае голасу Госпада Бога
+        свайго і ня прымае настаўленьняў! Ня стала ў іх ісьціны, - яна адабрана
+        ад вуснаў іх."
+      czech: 'Reknes jim: Toto je pronarod, ktery neposloucha Hospodina, sveho Boha, a
+        neda se napomenout. Ztratila se vernost, je odtata od jejich ust."'
+      spanish: "Diles, pues: Es una nación que no oye la voz de Yavé, su Dios; que no
+        acepta corrección; ha perecido la fidelidad y ha desaparecido de su
+        boca."
+      greek-lxx: ""
+      st_text: "Тогда скажи им: вот народ, который не слушает гласа Господа Бога
+        своего и не принимает наставления! Не стало у них истины, она отнята от
+        уст их."
+  - id: 16559
+    number: 29
+    bookId: 29
+    text: Остриги волоса твои и брось, и подними плач на горах, ибо отверг Господь и
+      оставил род, [<i>навлекший</i>] гнев Его.
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 36640
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 32
+        short: Втор:32:19
+      - verseId: 36641
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 32
+        short: Втор:32:20
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Остризи главу твою и отметни, и восприими во устне рыдание, яко отверже
+        Господь и отрину род творяй сия.
+      averincev: ""
+      ungerov: Остриги голову свою, и брось (волоса), и подними устами плач, ибо
+        отверг Господь и отринул род, делающий это.
+      csya_old: Њстризи2 главY твою2 и3 tме1тни, и3 воспріими2 во ўстнЁ рыдaніе, ћкw
+        tве1рже гDь и3 tри1ну ро1дъ творsй сі‰.
+      sovr_rbo: Косы свои отрежь и выбрось, огласи холмы похоронным плачем, ибо отверг
+        Господь и покинул поколение это, на которое Он разгневан.
+      latin: "Tonde capillum tuum, et projice, et sume in directum planctum, quia
+        projecit Dominus et reliquit generationem furoris sui:"
+      ukr: Обстрижи ти волосся своє та й відкинь, на лисих горах здійми жалісний спів,
+        бо відкинув Господь і покинув плем'я Свого гніву!
+      nkjv: "Cut off your hair and cast it away, and take up a lamentation on the
+        desolate heights; for the Lord has rejected and forsaken the generation
+        of His wrath.' "
+      desnitsky: ""
+      mt: ‫    גָּזִּי נִזְרֵךְ וְהַשְׁלִיכִי וּשְׂאִי עַל־שְׁפָיִם קִינָה כִּי מָאַס
+        יְהוָה וַיִּטֹּשׁ אֶת־דּוֹר עֶבְרָתוֹ׃ ‬
+      romana: Tunde-ti parul tau si-l arunca, si ridica plangere pe munti, ca a
+        lepadat Domnul si a parasit pe neamul care si-a atras mania Sa.
+      francais: Coupe ta chevelure, et jette-la au loin; Monte sur les hauteurs, et
+        prononce une complainte! Car l'Éternel rejette Et repousse la génération
+        qui a provoqué sa fureur.
+      italian: Taglia la tua chioma e gettala via e intona sulle alture un canto
+        lugubre, perché il Signore ha rigettato e abbandonato la generazione che
+        è oggetto della sua ira.
+      old_georgian: აღპარსე თავი შენი და განაგდე და აღიღე ბჭეთა ზედა გლოაჲ, რამეთუ
+        აგამოუცდელა უფალმან და განიშორა ნათესავი მოქმედი ამათი.
+      portuguese: "Corta os teus cabelos, Jerusalém, e lança-os fora, e levanta um
+        pranto sobre os altos escalvados; porque o\rSenhor já rejeitou e
+        desamparou esta geração, objeto do seu furor."
+      polish: Ostrzyż swe włosy i odrzuć je i podnieś lament żałobny na wyżynach,
+        ponieważ Pan odrzucił i odepchnął pokolenie zasługujące na Jego gniew.
+      turkish: "«`Saçını kes ve at, ey Yeruşalim,\rÇıplak tepeler üzerinde ağıt
+        yak.\rÇünkü RAB, öfkesine uğramış kuşağı\rReddedip terk etti.'»"
+      nrt: Обрей свои волосы и выбрось; подними на голых вершинах плач, потому что
+        Господь отверг и покинул поколение, которое Его разгневало».
+      Macarius: Остриги, дщерь Сиона, волоса свои, и брось, и пой плачевную песнь на
+        горах, ибо презрел Иегова, и отверг род гнева Своего.
+      serbian: Остризи косу своју и баци је, и заридај иза гласа на високим мјестима,
+        јер одбаци Господ и остави род на који се разгњеви.
+      bulgarian: Острижи косата си и я хвърли, и надай плач по планините, защото
+        Господ отхвърли и остави рода, който навлече гнева Му.
+      Olesn: "Сними венок свой и брось И подними на высотах вопль,\rПотому что презрел
+        Иегова И отверг род, прогневавший Его,"
+      deutsch: Schneide deine Haare ab und wirf sie von dir und wehklage auf den
+        Höhen; denn der Herr hat dies Geschlecht, über das er zornig ist,
+        verworfen und verstoßen.
+      ukr2: Обстрижи твоє волосся й відкинь його геть. Затягни по узвишшях жалобну
+        пісню; Господь бо відштовхнув, відкинув народ, який викликає гнів його.
+      ukr3: Обстрижи ж волоссє твоє та відкинь геть, і заголоси плачем голосним по
+        горах, бо відкинув Господь і відопхнув кодло, що стягнуло на себе досаду
+        його.
+      bel_syomukha: Абстрыжы валасы свае і кінь, і падымі плач на горах, бо адкінуў
+        Гасподзь і пакінуў род, які наклікаў гнеў Ягоны.
+      czech: '"Odstrihni si vlasy sveho zasveceni a odhod je, zapej na holych navrsich
+        zalozpev, protoze Hospodin zavrhl a odmrstil pokoleni, na nez se hneva.'
+      spanish: Córtate tu larga cabellera y tírala, y entona por las desoladas alturas
+        una lamentación, pues ha echado Yavé de sí y repudiado a la generación
+        que provocó su ira.
+      greek-lxx: κεῖραι τὴν κεφαλήν σου καὶ ἀπόρριπτε καὶ ἀνάλαβε ἐπὶ χειλέων θρῆνον
+        ὅτι ἀπεδοκίμασεν Κύριος καὶ ἀπώσατο τὴν γενεὰν τὴν ποιοῦσαν ταῦτα
+      st_text: Остриги волоса твои и брось, и подними плач на горах, ибо отверг
+        Господь и оставил род, [<i>навлекший</i>] гнев Его.
+  - id: 16560
+    number: 30
+    bookId: 29
+    text: Ибо сыновья Иуды делают злое пред очами Моими, говорит Господь; поставили
+      мерзости свои в доме, над которым наречено имя Мое, чтобы осквернить его;
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 17861
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 8
+        short: Иез:8:5
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Понеже сотвориша сынове иудины лукавое во очию моею, рече Господь:
+        поставиша мерзости своя в дому, в немже призвано есть имя мое, да
+        осквернят его,"
+      averincev: ""
+      ungerov: Поелику сыновья Иуды делают лукавое пред очами Моими, говорит Господь,
+        поставили мерзости свои в доме, на котором наречено имя Мое, чтобы
+        осквернить его.
+      csya_old: "Поне1же сотвори1ша сы1нове ї{дины лукaвое во џчію моє1ю, рече2 гDь:
+        постaвиша ме1рзwсти сво‰ въ домY, въ не1мже при1звано є4сть и4мz мое2,
+        да њсквернsтъ є3го2,"
+      sovr_rbo: Сыны Иуды творят дела, ненавистные Мне, — говорит Господь. — Они
+        поставили мерзости свои в Храме, который именем Моим осенен, и он теперь
+        осквернен.
+      latin: "quia fecerunt filii Juda malum in oculis meis, dicit Dominus. Posuerunt
+        offendicula sua in domo in qua invocatum est nomen meum, ut polluerent
+        eam:"
+      ukr: Бо Юдині сини чинять зло в Моїх очах, говорить Господь, поклали гидоти свої
+        в тому домі, що в нім кликалося Моє Ймення, щоб збезчестити його...
+      nkjv: For the children of Judah have done evil in My sight," says the Lord.
+        "They have set their abominations in the house which is called by My
+        name, to pollute it.
+      desnitsky: ""
+      mt: ‫    כִּי־עָשׂוּ בְנֵי־יְהוּדָה הָרַע בְּעֵינַי נְאֻום־יְהוָה שָׂמוּ
+        שִׁקּוּצֵיהֶם בַּבַּיִת אֲשֶׁר־נִקְרָא־שְׁמִי עָלָיו לְטַמְּאוֹ׃ ‬
+      romana: Ca fiii lui Iuda fac rele inaintea ochilor Mei, zice Domnul, si si-au
+        pus uraciunile lor in templul asupra caruia s-a chemat numele Meu ca
+        sa-l pangareasca;
+      francais: Car les enfants de Juda ont fait ce qui est mal à mes yeux, Dit
+        l'Éternel; Ils ont placé leurs abominations Dans la maison sur laquelle
+        mon nom est invoqué, Afin de la souiller.
+      italian: Perché i figli di Giuda hanno commesso ciò che è male ai miei occhi,
+        oracolo del Signore. Hanno posto i loro abomini nel tempio che prende il
+        nome da me, per contaminarlo.
+      old_georgian: რამეთუ ქმნეს ძეთა იუდაჲსთა ბოროტი წინაშე ჩემსა, - იტყჳს უფალი, -
+        და აწ ესმნეს საძაგელნი მათნი შორის სახლისა, რომლისა წოდებულ არს სახელი
+        ჩემი მის ზედა შეგინებად მისსა.
+      portuguese: "Porque os filhos de Judá fizeram o que era mau aos meus olhos, diz
+        o Senhor; puseram as suas abominações\rna casa que se chama pelo meu
+        nome, para a contaminarem."
+      polish: "Albowiem synowie Judy czynili nieprawość przed moimi oczami -
+        wyrocznia\rPana - umieścili swe obrzydliwe bożki w domu, nad którym
+        wzywano mojego\rimienia, aby go zbezcześcić."
+      turkish: «`Yahuda halkı gözümde kötü olanı yaptı, diyor RAB. Bana ait olan bu
+        tapınağa iğrenç putlarını yerleştirerek onu kirlettiler.
+      nrt: – Народ Иудеи делал зло в Моих глазах, – возвещает Господь. – Они поставили
+        свои мерзости в доме, который называется Моим Именем, осквернив его.
+      Macarius: Поелику сыны Иудины делают злое пред очами Моими, говорит Иегова,
+        внесли мерзости свои в дом, который именуется Моим именем, к осквернению
+        его;
+      serbian: Јер синови Јудини учинише што је зло преда мном, говори Господ, метнуше
+        гадове своје у дом који се зове мојим именом, да би га оскврнили.
+      bulgarian: Защото синовете на Иуда вършат зло пред Моите очи, казва Господ;
+        поставиха своите гнусотии в дома, над който е призовано Моето име, за да
+        го осквернят;
+      Olesn: "За то, что делали сыны Иуды зло в глазах \rМоих,\r — Говорит
+        Иегова,\rПоставили мерзости свои в доме,\rНа который призвано имя
+        Мое,\rЧтобы осввернить его."
+      deutsch: Denn die Kinder Juda tun übel vor meinen Augen, spricht der Herr. Sie
+        setzen ihre Greuel in das Haus, das nach meinem Namen genannt ist, daß
+        sie es verunreinigen,
+      ukr2: Бо сини Юди вчинили зло перед очима моїми слово Господнє. Поставили свої
+        гидоти в домі, який носить моє ім'я щоб його осквернити.
+      ukr3: Синове бо Юдині коять зло перед очима моїми, говорить Господь, у дому,
+        названому моїм імям, поставили гидоту свою, щоб опоганити його.
+      bel_syomukha: Бо сыны Юды робяць ліхое перад вачыма Маімі, кажа Гасподзь,
+        паставілі мярзоты свае ў доме, над якім названа імя Маё, каб апаганіць
+        яго;
+      czech: Judsti synove se dopousteli toho, co je zle v mych ocich, je vyrok
+        Hospodinuv. V dome, ktery je nazyvan mym jmenem, postavili ohyzdne
+        modly, a tak jej poskvrnili.
+      spanish: Pues hicieron los hijos de Judá la maldad ante mis ojos, oráculo de
+        Yavé. Han instalado sus abominaciones en la casa en que se invoca mi
+        nombre, profanándola.
+      greek-lxx: ὅτι ἐποίησαν οἱ υἱοὶ Ιουδα τὸ πονηρὸν ἐναντίον ἐμοῦ λέγει Κύριος
+        ἔταξαν τὰ βδελύγματα αὐτῶν ἐν τῷ οἴκῳ οὗ ἐπικέκληται τὸ ὄνομά μου ἐπ᾿
+        αὐτόν τοῦ μιᾶναι αὐτόν
+      st_text: Ибо сыновья Иуды делают злое пред очами Моими, говорит Господь;
+        поставили мерзости свои в доме, над которым наречено имя Мое, чтобы
+        осквернить его;
+  - id: 16561
+    number: 31
+    bookId: 29
+    text: и устроили высоты Тофета в долине сыновей Енномовых, чтобы сожигать
+      сыновей своих и дочерей своих в огне, чего Я не повелевал и что Мне на
+      сердце не приходило.
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 23235
+        bookId: 3
+        bookCode: levit
+        chapter: 18
+        short: Лев:18:21
+      - verseId: 9103
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 23
+        short: 4 Цар:23:10
+      - verseId: 29033
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 14
+        short: Прем:14:23
+      - verseId: 15475
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 19
+        short: Иер:19:2
+      - verseId: 15479
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 19
+        short: Иер:19:6
+      - verseId: 17061
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 23
+        short: Иез:23:37
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и создаша требище тафефу, еже есть во юдоли сына енномля, да сожигают
+        сыны своя и дщери своя огнем, егоже не повелех им, ниже помыслих в
+        сердцы моем:"
+      averincev: ""
+      ungerov: И устроили капище Тафефу, что в долине сына Енномова, чтобы сожигать
+        сыновей своих и дочерей своих на огне, чего Я не повелевал им и не
+        приходило на сердце Мне.
+      csya_old: "и3 создaша тре1бище тафе1fу, є4же є4сть во ю3до1ли сы1на є3нно1млz,
+        да сожигaютъ сы1ны сво‰ и3 дщє1ри сво‰ nгне1мъ, є3гHже не повелёхъ и5мъ,
+        ниже2 помы1слихъ въ с®цы мое1мъ:"
+      sovr_rbo: Построили они капища в Тофете , что в долине Бен-Хинном, чтобы сжигать
+        своих сыновей и дочерей. Этого Я не заповедовал, сердцу Моему это не
+        угодно.
+      latin: et aedificaverunt excelsa Topheth, quae est in valle filii Ennom, ut
+        incenderent filios suos et filias suas igni, quae non praecepi, nec
+        cogitavi in corde meo.
+      ukr: І побудували ті жертовні пагірки Тофета, що в долині Бен-Гіннома, щоб
+        палити синів своїх та дочок своїх на огні, чого Я не наказував, і що на
+        серце Мені не приходило...
+      nkjv: And they have built the high places of Tophet, which is in the Valley of
+        the Son of Hinnom, to burn their sons and their daughters in the fire,
+        which I did not command, nor did it come into My heart.
+      desnitsky: ""
+      mt: ‫    וּבָנוּ בָּמוֹת הַתֹּפֶת אֲשֶׁר בְּגֵיא בֶן־הִנֹּם לִשְׂרֹף
+        אֶת־בְּנֵיהֶם וְאֶת־בְּנֹתֵיהֶם בָּאֵשׁ אֲשֶׁר לֹא צִוִּיתִי וְלֹא
+        עָלְתָה עַל־לִבִּי׃ ס ‬
+      romana: Si au zidit locurile inalte la Tofet, in valea fiilor lui Hinom, ca
+        sa-si arda fiii si fiicele cu foc, ceea ce Eu nu le-am poruncit si ceea
+        ce Mie nu Mi-a trecut prin minte.
+      francais: "Ils ont bâti des hauts lieux à Topheth dans la vallée de Ben Hinnom,
+        Pour brûler au feu leurs fils et leurs filles: Ce que je n'avais point
+        ordonné, Ce qui ne m'était point venu à la pensée."
+      italian: Hanno costruito l'altare di Tofet, nella valle di Ben—Hinnòn, per
+        bruciare nel fuoco i figli e le figlie, cosa che io non ho mai comandato
+        e che non mi è mai venuta in mente.
+      old_georgian: და აღაშენეს ბომონი ტაფეთისი, რომელ არს ჴევსა შინა ძისა ენნომისსა,
+        დაწუად ძეთა მათთა და ასულთა მათთა ცეცხლისა მიერ, რომელი არა ვამცენ მათ,
+        არცა მოვიდა გულსა შინა ჩემსა.
+      portuguese: "E edificaram os altos de Tofete, que está no Vale do filho de
+        Hinom, para queimarem no fogo a seus filhos e a\rsuas filhas, o que
+        nunca ordenei, nem me veio à mente."
+      polish: "I zbudowali wyżynę Tofet w dolinie Ben-Hinnom, aby palić w ogniu
+        swoich\rsynów i córki, czego nie nakazałem i co nie przyszło Mi nawet na
+        myśl."
+      turkish: Oğullarını, kızlarını ateşte kurban etmek için Ben-Hinnom Vadisi'nde,
+        Tofet'te puta tapılan yerler kurdular. Böyle bir şeyi ne buyurdum ne de
+        aklımdan geçirdim.
+      nrt: Они построили святилища на возвышенностях горы Тофет в долине Бен-Гинном,
+        чтобы сжигать своих сыновей и дочерей, чего Я не повелевал, о чем даже
+        не думал.
+      Macarius: "И устроили возвышенности Тофетские на долине сынов Енномовых, чтоб
+        сожигать сыновей своих и дочерей своих в огне, чего Я не предписывал, и
+        что на ум Мне не приходило:"
+      serbian: И саградише висине Тофету, који је у долини сина Еномова, да сажижу
+        синове своје и кћери своје огњем, што нијесам заповједио нити ми је
+        дошло на ум.
+      bulgarian: и наредиха оброчища на Тофет в долината на Еномовите синове, за да
+        изгарят в огън синовете си и дъщерите си, което не съм заповядал и което
+        на ум не Ми е идвало.
+      Olesn: "И построили курганы Тофета,\rЧто в долине сынов Еннома,\rДля сожжения
+        сынов своих и дочерей своих \rна огне, \r \r \rЧего не заповедал Я И что
+        не всходило на сердце Мое."
+      deutsch: und bauen die Altäre des Thopheth im Tal Ben-Hinnom, daß sie ihre Söhne
+        und Töchter verbrennen, was ich nie geboten noch in den Sinn genommen
+        habe.
+      ukr2: Звели узвишшя Тофету, що у долині Бен-Гіннома, щоб там палити синів своїх
+        і дочок своїх, чого я не заповідував і чого я й на мислі не мав.
+      ukr3: І построїли висоти Тофет в долинї потомків Енномових, щоб там палити синів
+        своїх і дочки свої, чого я не заповідував, і що на думку менї не
+        приходило.
+      bel_syomukha: і зладзілі вышыні ў даліне Тафэта, у даліне сыноў Эномавых, каб
+        паліць сыноў сваіх і дачок сваіх у агні, чаго Я не загадваў, і што мне
+        на сэрца ня прыходзіла.
+      czech: V Tofetu, ktery je v Udoli syna Hinomova, postavili posvatna navrsi a
+        spalovali sve syny a sve dcery ohnem. To jsem jim neprikazal, ani mi to
+        neprislo na mysl.
+      spanish: Y edificaron los altos de Tofet, que está en el valle de Ben-Hinón para
+        quemar allí sus hijos y sus hijas, cosa que ni yo les mandé ni pasó
+        siquiera por mi pensamiento.
+      greek-lxx: καὶ ᾠκοδόμησαν τὸν βωμὸν τοῦ Tαφεθ ὅς ἐστιν ἐν φάραγγι υἱοῦ Εννομ τοῦ
+        κατακαίειν τοὺς υἱοὺς αὐτῶν καὶ τὰς θυγατέρας αὐτῶν ἐν πυρί ὃ οὐκ
+        ἐνετειλάμην αὐτοῖς καὶ οὐ διενοήθην ἐν τῇ καρδίᾳ μου
+      st_text: и устроили высоты Тофета в долине сыновей Енномовых, чтобы сожигать
+        сыновей своих и дочерей своих в огне, чего Я не повелевал и что Мне на
+        сердце не приходило.
+  - id: 16562
+    number: 32
+    bookId: 29
+    text: За то вот, приходят дни, говорит Господь, когда не будут более называть
+      [<i>место сие</i>] Тофетом и долиною сыновей Енномовых, но долиною
+      убийства, и в Тофете будут хоронить по недостатку места.
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 15511
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 2
+        short: Иер:2:23
+      - verseId: 15479
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 19
+        short: Иер:19:6
+      - verseId: 15484
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 19
+        short: Иер:19:11
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "сего ради се, дние грядут, глаголет Господь, и не рекут ктому: требище
+        тафефово и юдоль сына енномля, но юдоль закланых: и погребутся во
+        тафефе, занеже несть места."
+      averincev: ""
+      ungerov: "За то вот приходят дни, говорит Господь, и не будут говорить: \"капище
+        Тафефа и долина сына Енномова\", но \"долина закланныхъ', и будут
+        хоронить в Тафефе, по недостатку места.\r"
+      csya_old: "сегw2 рaди се2, днjе грzдyтъ, гlетъ гDь, и3 не рекyтъ ктомY: тре1бище
+        тафе1fово и3 ю3до1ль сы1на є3нно1млz, но ю3до1ль заклaныхъ: и3
+        погребyтсz во тафе1fэ, зане1же нёсть мёста."
+      sovr_rbo: Потому настанут дни, — говорит Господь, — когда это место будет
+        называться не Тофет и не долина Бен-Хинном, а долина Резни, и для могил
+        в Тофете уже не хватит места.
+      latin: "Ideo ecce dies venient, dicit Dominus, et non dicetur amplius Topheth,
+        et vallis filii Ennom, sed vallis interfectionis: et sepelient in
+        Topheth, eo quod non sit locus."
+      ukr: Тому то приходять ось дні, говорить Господь, що не буде вже кликатись Тофет
+        місце це чи Долина Бен-Гіннома, а тільки Долина вбивства, і будуть
+        ховати у Тофеті через брак місця на погреб.
+      nkjv: '"Therefore behold, the days are coming," says the Lord, "when it will no
+        more be called Tophet, or the Valley of the Son of Hinnom, but the
+        Valley of Slaughter; for they will bury in Tophet until there is no
+        room.'
+      desnitsky: ""
+      mt: ‫    לָכֵן הִנֵּה־יָמִים בָּאִים נְאֻם־יְהוָה וְלֹא־יֵאָמֵר עוֹד הַתֹּפֶת
+        וְגֵיא בֶן־הִנֹּם כִּי אִם־גֵּיא הַהֲרֵגָה וְקָבְרוּ בְתֹפֶת מֵאֵין
+        מָקוֹם׃ ‬
+      romana: De aceea, iata vin zile, zice Domnul, cand locul acesta nu se va mai
+        chema Tofet si valea fiilor lui Hinom, ci valea uciderii, si in Tofet se
+        vor face inmormantari din pricina lipsei de loc.
+      francais: C'est pourquoi voici, les jours viennent, dit l'Éternel, Où l'on ne
+        dira plus Topheth et la vallée de Ben Hinnom, Mais où l'on dira la
+        vallée du carnage; Et l'on enterrera les morts à Topheth par défaut de
+        place.
+      italian: Perciò verranno giorni — oracolo del Signore — nei quali non si
+        chiamerà più Tofet né valle di Ben—Hinnòn, ma valle della Strage. Allora
+        si seppellirà in Tofet, perché non ci sarà altro luogo.
+      old_georgian: ამისთჳს, აჰა, დღენი მოვლენ, - იტყჳს უფალი, - და არღა თქუან მერმე
+        ბომონი ტაფეთისი და ჴევი ძისა ენნომესი, არამედ ჴევი მოწყუედილთა და
+        დაჰფლნენ ტაფეთს შინა არყოფისათჳს ადგილისა.
+      portuguese: "Portanto, eis que vêm os dias, diz o Senhor, em que não se chamará
+        mais Tofete, nem Vale do filho de Hinom,\rmas o Vale da Matança; pois
+        enterrarão em Tofete, por não haver mais outro lugar."
+      polish: "Dlatego przyjdą dni - wyrocznia Pana - że nie będzie się już mówić o
+        Tofet lub\rdolinie Ben-Hinnom, lecz o Dolinie Mordu; w Tofet będą
+        grzebać zmarłych\rz braku innego miejsca."
+      turkish: Bundan ötürü oraya artık Tofet ya da Ben-Hinnom Vadisi değil, Kıyım
+        Vadisi deneceği günler geliyor, diyor RAB. Tofet'te yer kalmayana dek
+        gömecekler ölüleri.
+      nrt: За это приближаются дни, – возвещает Господь, – когда это место будет
+        называться не Тофет и не долина Бен-Гинном, а долина Бойни, так как в
+        Тофете будут хоронить мертвых до тех пор, пока там не останется места.
+      Macarius: За то вот, приходят дни, говорит Иегова, когда не будут уже называть
+        сие место Тофетом, и долиною сынов Енномовых, но долиною убиения, и в
+        Тофете будут хоронить за недостатком места.
+      serbian: Зато, ево, иду дани, вели Господ, кад се више неће звати Тофет ни
+        долина сина Еномова, него долина крвна, и погребаваће се у Тофету, јер
+        неће бити мјеста.
+      bulgarian: Затова ето, идат дни, казва Господ, когато това място не ще се вече
+        нарича Тофет и долина на синовете Еномови, но долина на убийство, и в
+        Тофет ще погребват по нямане на място.
+      Olesn: "Посему вот дни наступают, \r — Говорит Иегова,\rИ никто не скажет больше
+        «Тофет»\rИ «долина сынов Еннома»,\rНо «долина убийства».\rИ будут
+        устроять гробницы на Тофете,\rОт недостатка места."
+      deutsch: Darum siehe, es kommt die Zeit, spricht der Herr, daß man's nicht mehr
+        heißen soll Thopheth und das Tal Ben-Hinnom, sondern Würgetal; und man
+        wird im Thopheth müssen begraben, weil sonst kein Raum mehr sein wird.
+      ukr2: Тому ось прийдуть дні, - слово Господнє, - коли це місце не зватиметься
+        більше Тофет і долиною Бен-Гіннома, лише долиною Різанини, бо вони
+        ховатимуть у Тофеті, - бо не стане місця.
+      ukr3: За те надходить уже час, говорить Господь, що се місце не звати муть
+        Тофетом і долиною синів Енномових, а долиною душогубною, та й ховати
+        муть в Тофетї, бо не буде місця.
+      bel_syomukha: За тое вось, прыходзяць дні, кажа Гасподзь, калі ня будуць болей
+        называць месца гэтае Тафэтам і далінаю сыноў Эномавых, а далінаю
+        забойства, і ў Тафэце будуць хаваць ад недахопу месца.
+      czech: "Proto hle, prichazeji dny, je vyrok Hospodinuv, kdy se uz nebude rikat:
+        ‚Tofet' ani ‚Udoli syna Hinomova', nybrz ‚Udoli vrazdeni'. V Tofetu se
+        bude pohrbivat, a az nebude misto,"
+      spanish: Por eso he aquí que vienen días — oráculo de Yavé — en que no se le
+        llamará más Tofet y valle de Ben-Hinón, sino valle de la mortandad, y se
+        enterrará en Tofet por falta de lugar,
+      greek-lxx: διὰ τοῦτο ἰδοὺ ἡμέραι ἔρχονται λέγει Κύριος καὶ οὐκ ἐροῦσιν ἔτι βωμὸς
+        τοῦ Tαφεθ καὶ φάραγξ υἱοῦ Εννομ ἀλλ᾿ ἢ φάραγξ τῶν ἀνῃρημένων καὶ
+        θάψουσιν ἐν τῷ Tαφεθ διὰ τὸ μὴ ὑπάρχειν τόπον
+      st_text: За то вот, приходят дни, говорит Господь, когда не будут более называть
+        [<i>место сие</i>] Тофетом и долиною сыновей Енномовых, но долиною
+        убийства, и в Тофете будут хоронить по недостатку места.
+  - id: 16563
+    number: 33
+    bookId: 29
+    text: И будут трупы народа сего пищею птицам небесным и зверям земным, и некому
+      будет отгонять их.
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 36471
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 28
+        short: Втор:28:26
+      - verseId: 20981
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 56
+        short: Ис:56:9
+      - verseId: 16608
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 9
+        short: Иер:9:22
+      - verseId: 15406
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 16
+        short: Иер:16:4
+      - verseId: 15480
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 19
+        short: Иер:19:7
+      - verseId: 15670
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 25
+        short: Иер:25:33
+      - verseId: 15949
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 34
+        short: Иер:34:20
+      - verseId: 17205
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 29
+        short: Иез:29:5
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И будут трупие людий сих во снедь птицам небесным и зверем земным, и не
+        будет отгоняющаго.
+      averincev: ""
+      ungerov: И будут трупы народа сего в пищу птицам небесным и зверям земным, и
+        некому будет отгонять (их).
+      csya_old: И# бyдутъ трyпіе людjй си1хъ во снёдь пти1цамъ небє1снымъ и3 ѕвэрє1мъ
+        зємны1мъ, и3 не бyдетъ tгонsющагw.
+      sovr_rbo: И трупы людей из этого народа станут пищей для птиц небесных и зверей
+        земных, и некому будет отогнать птиц и зверей.
+      latin: Et erit morticinum populi hujus in cibos volucribus caeli, et bestiis
+        terrae, et non erit qui abigat.
+      ukr: І стане труп цього народу за стерво небесному птаству та земній звірині, і
+        не буде, хто б їх відстрашив!...
+      nkjv: The corpses of this people will be food for the birds of the heaven and
+        for the beasts of the earth. And no one will frighten them away.
+      desnitsky: ""
+      mt: ‫    וְהָיְתָה נִבְלַת הָעָם הַזֶּה לְמַאֲכָל לְעוֹף הַשָּׁמַיִם וּלְבֶהֱמַת
+        הָאָרֶץ וְאֵין מַחֲרִיד׃ ‬
+      romana: Si vor fi trupurile poporului acestuia hrana pasarilor cerului si
+        fiarelor pamantului, si nu va fi cine sa le alunge.
+      francais: Les cadavres de ce peuple seront la pâture Des oiseaux du ciel et des
+        bêtes de la terre; Et il n'y aura personne pour les troubler.
+      italian: I cadaveri di questo popolo saranno pasto agli uccelli dell'aria e alle
+        bestie selvatiche e nessuno li scaccerà.
+      old_georgian: და იყვნენ მკუდარნი ამის ერისანი საჭმელ მფრინველთა ცისათა და მჴეცთა
+        ქუეყანისათა, და არა იყოს წარმდევნელი.
+      portuguese: E os cadáveres deste povo servirão de pasto às aves do céu e aos
+        animais da terra; e ninguém os enxotará.
+      polish: "Trupy tego narodu staną się pożywieniem ptactwa drapieżnego w
+        powietrzu\ri dzikich zwierząt na ziemi, których nikt nie odpędzi."
+      turkish: Bu halkın ölüleri yırtıcı kuşlara, yabanıl hayvanlara yem olacak;
+        onları korkutup kaçıran kimse olmayacak.
+      nrt: Трупы этого народа станут пищей птицам в небе и зверям на земле, и некому
+        будет их отпугнуть.
+      Macarius: И будут трупы народа сего пищею птицам небесным и зверям земным, и
+        некому будет отогнать.
+      serbian: И мртва ће тјелеса народа овога бити храна птицама небеским и звијерју
+        земаљском, и неће бити никога да их плаши.
+      bulgarian: И труповете на тоя народ ще бъдат храна на небесни птици и на земни
+        зверове, и не ще има кой да ги пропъжда.
+      Olesn: "И будут трупы народа сего в пищу \rПтицам небесным и зверям земным И
+        никто не будет пугать их."
+      deutsch: Und die Leichname dieses Volkes sollen den Vögeln des Himmels und den
+        Tieren auf Erden zur Speise werden, davon sie niemand scheuchen wird.
+      ukr2: А труп людей отих буде поживою птаству небесному й звіреві, що на землі, і
+        нікому буде їх відганяти.
+      ukr3: І буде труп сих людей поживою птаству піднебесному й дикому зьвіррю, й
+        нїкому буде їх відганяти.
+      bel_syomukha: І будуць трупы народа гэтага ежаю птушкам нябесным і зьвярам
+        зямным, і ня будзе каму адганяць іх.
+      czech: stanou se mrtvoly tohoto lidu pokrmem nebeskemu ptactvu a zemskemu
+        zvirectvu, jez nikdo nevyplasi.
+      spanish: y los cadáveres de este pueblo serán pasto de las aves del cielo y de
+        las bestias de la tierra, sin que haya quien las espante.
+      greek-lxx: καὶ ἔσονται οἱ νεκροὶ τοῦ λαοῦ τούτου εἰς βρῶσιν τοῖς πετεινοῖς τοῦ
+        οὐρανοῦ καὶ τοῖς θηρίοις τῆς γῆς καὶ οὐκ ἔσται ὁ ἀποσοβῶν
+      st_text: И будут трупы народа сего пищею птицам небесным и зверям земным, и
+        некому будет отгонять их.
+  - id: 16564
+    number: 34
+    bookId: 29
+    text: И прекращу в городах Иудеи и на улицах Иерусалима голос торжества и голос
+      веселия, голос жениха и голос невесты; потому что земля эта будет
+      пустынею.
+    chapter: 7
+    chapterId: 873
+    parallels:
+      - verseId: 15411
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 16
+        short: Иер:16:9
+      - verseId: 15647
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 25
+        short: Иер:25:10
+      - verseId: 35841
+        bookId: 32
+        bookCode: kniga-proroka-varuha
+        chapter: 2
+        short: Вар:2:23
+      - verseId: 17130
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 26
+        short: Иез:26:13
+      - verseId: 28044
+        bookId: 35
+        bookCode: kniga-proroka-osii
+        chapter: 2
+        short: Ос:2:11
+      - verseId: 28328
+        bookId: 77
+        bookCode: otkrovenie-ap-ioanna-bogoslova
+        chapter: 18
+        short: Откр:18:23
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И упраздню от градов иудиных и от путий Иерусалимлих глас радующихся и
+        глас веселящихся, глас жениха и глас невесты, во опустении бо будет вся
+        земля.
+      averincev: ""
+      ungerov: И прекращу в городах Иуды и на улицах Иерусалима голос радующихся и
+        голос веселящихся, голос жениха и голос невесты, ибо пустынею будет вся
+        земля.
+      csya_old: И# ўпраздню2 t градHвъ їyдиныхъ и3 t путjй їеrли1млихъ глaсъ
+        рaдующихсz и3 глaсъ веселsщихсz, глaсъ женихA и3 глaсъ невёсты, во
+        њпустёніи бо бyдетъ всS землS.
+      sovr_rbo: Я заставлю умолкнуть в городах Иудеи, на улицах Иерусалима голос
+        радости и голос веселья, голос жениха и голос невесты, ибо эта земля
+        обратится в пустыню.
+      latin: "Et quiescere faciam de urbibus Juda, et de plateis Jerusalem, vocem
+        gaudii et vocem laetitiae, vocem sponsi et vocem sponsae: in
+        desolationem enim erit terra."
+      ukr: І спиню в містах Юдиних та на вулицях Єрусалиму голос радісний і голос
+        веселий, голос молодого та голос молодої, бо руїною стане цей Край!
+      nkjv: Then I will cause to cease from the cities of Judah and from the streets
+        of Jerusalem the voice of mirth and the voice of gladness, the voice of
+        the bridegroom and the voice of the bride. For the land shall be
+        desolate.
+      desnitsky: ""
+      mt: ‫    וְהִשְׁבַּתִּי מֵעָרֵי יְהוּדָה וּמֵחֻצוֹת יְרוּשָׁלִַם קוֹל שָׂשׂוֹן
+        וְקוֹל שִׂמְחָה קוֹל חָתָן וְקוֹל כַּלָּה כִּי לְחָרְבָּה תִּהְיֶה
+        הָאָרֶץ׃ ‬
+      romana: Si voi curma in cetatile lui Iuda si pe ulitele Ierusalimului glasul de
+        bucurie si glasul de veselie, glasul mirelui si glasul miresei, pentru
+        ca pamantul acesta va fi pustiu".
+      francais: Je ferai cesser dans les villes de Juda et dans les rues de Jérusalem
+        Les cris de réjouissance et les cris d'allégresse, Les chants du fiancé
+        et les chants de la fiancée; Car le pays sera un désert.
+      italian: Io farò cessare nelle città di Giuda e nelle vie di Gerusalemme le
+        grida di gioia e la voce dell'allegria, la voce dello sposo e della
+        sposa, poiché il paese sarà ridotto un deserto".
+      old_georgian: და მოვაკლო ქალაქთაგან იუდაჲსთა და საგზაურთაგან იერუსალიმისათა ჴმაჲ
+        კეთილმშუებიარისა და ჴმაჲ მოხარულისა, ჴმაჲ სიძისა და ჴმაჲ სძლისაჲ, რამეთუ
+        მოსაოჴრებელად იყოს ყოველი ქვეყანა.
+      portuguese: "E farei cessar nas cidades de Judá, e nas ruas de Jerusalém, a voz
+        de gozo e a voz de alegria, a voz de noivo e a\rvoz de noiva; porque a
+        terra se tornará em desolação."
+      polish: "I sprawię, że zniknie z miast judzkich i z ulic Jerozolimy głos wesela,
+        głos\rradości, nawoływanie oblubieńca i oblubienicy, bo pustynią stanie
+        się ziemia."
+      turkish: Yahuda kentlerinde, Yeruşalim sokaklarında sevinç ve neşe sesine, gelin
+        güvey sesine son vereceğim; ülke viraneye dönecek.
+      nrt: Я положу конец крикам радости и веселья, голосам невесты и жениха в городах
+        Иудеи и на улицах Иерусалима, потому что страна будет опустошена.
+      Macarius: И удалю от городов Иудеи и с улиц Иерусалима голос торжества и голос
+        радости, голос жениха и голос невесты; ибо земля сия будет пустынею.
+      serbian: И учинићу, те ће из градова Јудинијех и с улица Јерусалимских нестати
+        гласа радосна и гласа весела, гласа женикова и гласа невјестина; јер ће
+        земља опустјети.
+      bulgarian: В градовете на Иудея и по улиците иерусалимски ще прекратя глас на
+        тържество и глас на веселие, глас на младоженец и глас на невеста;
+        защото тая земя ще стане пустиня.
+      Olesn: "И прекращу в городах Иуды \rИ на улицах иерусалимских Голос веселия и
+        голос радости,\rГолос жениха и голос невесты; \rВ пустыню обратится
+        страна."
+      deutsch: Und ich will in den Städten Juda's und auf den Gassen zu Jerusalem
+        wegnehmen das Geschrei der Freude und Wonne und die Stimme des
+        Bräutigams und der Braut; denn das Land soll wüst sein.
+      ukr2: Тоді я спиню по містах Юдеї і по вулицях єрусалимських звук радощів та
+        звук веселощів, спів молодого й спів молодої, - бо край стане пустинею.»
+      ukr3: І перерву по городах Юдиних і по улицях Ерусалимських сьпіви радостї й
+        веселощів, сьпіви про молодого князя й про молоду княгиню, бо земля тая
+        стане пустинею.
+      bel_syomukha: І спыню ў гарадах Юдэі і на вуліцах Ерусаліма голас перамогі і
+        голас радасьці, голас жаніха і голас нявесты; бо зямля гэтая будзе
+        пустыняю.
+      czech: Zpusobim, ze v judskych mestech a na ulicich Jeruzalema prestane hlas
+        veseli, hlas radosti, hlas zenicha i hlas nevesty, nebot zeme bude
+        obracena v trosky."
+      spanish: Y haré que deje de oírse en las ciudades de Judá y en las plazas de
+        Jerusalén el son de los cantos de alegría y de regocijo, los cantos del
+        esposo y de la esposa, porque no habrá más que desolación en esta
+        tierra.
+      greek-lxx: καὶ καταλύσω ἐκ πόλεων Ιουδα καὶ ἐκ διόδων Ιερουσαλημ φωνὴν
+        εὐφραινομένων καὶ φωνὴν χαιρόντων φωνὴν νυμφίου καὶ φωνὴν νύμφης ὅτι εἰς
+        ἐρήμωσιν ἔσται πᾶσα ἡ γῆ
+      st_text: И прекращу в городах Иудеи и на улицах Иерусалима голос торжества и
+        голос веселия, голос жениха и голос невесты; потому что земля эта будет
+        пустынею.

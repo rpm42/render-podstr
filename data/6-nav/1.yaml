@@ -1,0 +1,1616 @@
+id: 188
+number: 1
+bookId: 6
+verseCount: 18
+title: Глава 1
+verses:
+  - id: 26890
+    number: 1
+    bookId: 6
+    text: "По смерти Моисея, раба Господня, Господь сказал Иисусу, сыну Навину,
+      служителю Моисееву:"
+    chapter: 1
+    chapterId: 188
+    parallels:
+      - verseId: 21483
+        bookId: 2
+        bookCode: ishod
+        chapter: 17
+        short: Исх:17:9
+      - verseId: 11863
+        bookId: 4
+        bookCode: cisla
+        chapter: 27
+        short: Чис:27:18
+      - verseId: 36598
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 31
+        short: Втор:31:7
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И бысть по скончании моисеа раба Господня, и рече Господь иисусу сыну
+        навину, служителю моисеову, глаголя:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# бы1сть по скончaніи мwmсе1а рабA гDнz, и3 рече2 гDь їисyсу сы1ну
+        наvи1ну, служи1телю мwmсе1ову, гlz:"
+      sovr_rbo: "После того как Моисей, раб Господа, умер, Господь сказал его
+        помощнику — Иисусу Навину:"
+      latin: "Et factum est post mortem Moysi servi Domini, ut loqueretur Dominus ad
+        Josue filium Nun, ministrum Moysi, et diceret ei:"
+      ukr: "І сталося по смерті Мойсея, раба Божого, і сказав Господь до Ісуса, сина
+        Навинового, Мойсеєвого слуги, говорячи:"
+      nkjv: "After the death of Moses the servant of the Lord, it came to pass that
+        the Lord spoke to Joshua the son of Nun, Moses' assistant, saying: "
+      desnitsky: ""
+      mt: ‫    וַיְהִי אַחֲרֵי מוֹת מֹשֶׁה עֶבֶד יְהוָה וַיֹּאמֶר יְהוָה
+        אֶל־יְהוֹשֻׁעַ בִּן־נוּן מְשָׁרֵת מֹשֶׁה לֵאמֹר׃ ‬
+      romana: "Dupa moartea lui Moise, robul Domnului, a grait Domnul cu Iosua, fiul
+        lui Navi, slujitorul lui Moise, si a zis:"
+      francais: "Après la mort de Moïse, serviteur de l'Éternel, l'Éternel dit à
+        Josué, fils de Nun, serviteur de Moïse:"
+      italian: "Dopo la morte di Mosè, servo del Signore, il Signore disse a Giosuè,
+        figlio di Nun, servo di Mosè:"
+      old_georgian: და იყო, შემდგომად აღსასრულისა მის მოსესი, მონისა მის უფლისა, ჰრქუა
+        უფალმან ისოს, ძესა ნავესა, მსახურსა მოსესა.
+      portuguese: "Po śmierci Mojżesza, sługi Pana, rzekł Pan do Jozuego, syna Nuna,
+        pomocnika Mojżesza:"
+      turkish: "RAB, kulu Musa'nın ölümünden sonra onun yardımcısı Nun oğlu Yeşu'ya
+        şöyle seslendi:"
+      nrt: "После смерти слуги Господнего, Моисея, Господь сказал Иисусу, сыну Навина,
+        помощнику Моисея:"
+      Macarius: "По смерти Моисея, раба Господня, Господь сказал Иисусу, сыну Навину,
+        служителю Моисееву:"
+      serbian: "А по смрти Мојсија, слуге Господњега, рече Господ Исусу сину Навину,
+        слузи Мојсијеву, говорећи:"
+      bulgarian: "След смъртта на Моисея, раб Господен, Господ каза на Навиновия
+        Иисуса, служител Моисеев:"
+      pavskiy: "По смерти Моисея, раба Господня, Господь сказал Иисусу, сыну Навину,
+        служителю Моисееву, так и так:"
+      deutsch: "Nach dem Tode Mose's, des Knechts des Herrn, sprach der Herr zu Josua,
+        dem Sohn Nuns, Mose's Diener:"
+      ukr2: "Після смерти Мойсея, Господнього раба, сказав Господь Ісусові Навинові
+        (синові Нуна), слузі Мойсея: 2“Мойсей, слуга мій, помер; тож устань,
+        перейди оцей Йордан, ти й увесь цей народ, у землю, що я дам їм (синам
+        Ізраїля). 3 Усяке місце, де ступите підошвою ноги вашої, я дам вам, як
+        сказав був Мойсеєві."
+      ukr3: "Як же вмер Мойсей, раб Господень, сказав Господь Йозейові Нуненкові,
+        слузї Мойсейовому:"
+      bel_syomukha: "Пасьля сьмерці Майсея, раба Гасподняга, Гасподзь сказаў Ісусу,
+        сыну Нава, слузе Майсееваму:"
+      spbda: "По смерти Моисея, раба Господня, сказал Господь Иисусу, сыну Нунову,
+        слуге Моисееву:"
+      lev-khv: "И было, после смерти Моисея, раба Господня, сказал Господь Иисусу,
+        сыну Навину, слуге Моисееву, так:"
+      czech: "Po smrti Mojzise, sluzebnika Hospodinova, rekl Hospodin Jozuovi, synu
+        Nunovu, ktery Mojzisovi prisluhoval:"
+      spanish: "Después de la muerte de Moisés, siervo de Yavé, habló Yavé a Josué,
+        hijo de Nun, ministro de Moisés, diciendo:"
+      greek-lxx: καὶ ἐγένετο μετὰ τὴν τελευτὴν Μωυσῆ εἶπεν Κύριος τῷ Ἰησοῖ υἱῷ Ναυη τῷ
+        ὑπουργῷ Μωυσῆ λέγων
+      st_text: "По смерти Моисея, раба Господня, Господь сказал Иисусу, сыну Навину,
+        служителю Моисееву:"
+  - id: 26891
+    number: 2
+    bookId: 6
+    text: Моисей, раб Мой, умер; итак встань, перейди через Иордан сей, ты и весь
+      народ сей, в землю, которую Я даю им, сынам Израилевым.
+    chapter: 1
+    chapterId: 188
+    parallels:
+      - verseId: 36707
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 34
+        short: Втор:34:5
+      - verseId: 2224
+        bookId: 47
+        bookCode: 1a-kniga-makkavejskaa
+        chapter: 2
+        short: 1 Мак:2:55
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "моисей раб мой скончася: ныне убо востав прейди иордан ты и вси людие сии
+        в землю, юже аз даю им:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "мwmсе1й рaбъ мо1й скончaсz: нн7э ў2бо востaвъ прейди2 їoрдaнъ ты2 и3
+        вси2 лю1діе сjи въ зе1млю, ю4же ѓзъ даю2 и5мъ:"
+      sovr_rbo: «Моисей, Мой раб, умер. Теперь переведи народ Израиля через Иордан — в
+        страну, которую Я дарую этому народу.
+      latin: "Moyses servus meus mortuus est: surge, et transi Jordanem istum tu et
+        omnis populus tecum, in terram, quam ego dabo filiis Israel."
+      ukr: Мойсей, раб Мій, помер. А тепер уставай, перейди цей Йордан ти та ввесь
+        народ цей до того Краю, що Я даю їм, Ізраїлевим синам.
+      nkjv: '"Moses My servant is dead. Now therefore, arise, go over this Jordan, you
+        and all this people, to the land which I am giving to them-the children
+        of Israel.'
+      desnitsky: ""
+      mt: ‫    מֹשֶׁה עַבְדִּי מֵת וְעַתָּה קוּם עֲבֹר אֶת־הַיַּרְדֵּן הַזֶּה אַתָּה
+        וְכָל־הָעָם הַזֶּה אֶל־הָאָרֶץ אֲשֶׁר אָנֹכִי נֹתֵן לָהֶם לִבְנֵי
+        יִשְׂרָאֵל׃ ‬
+      romana: '"Moise, robul Meu, a murit. Scoala dar si treci Iordanul tu si tot
+        poporul acesta, in tara pe care o voi da fiilor lui Israel.'
+      francais: Moïse, mon serviteur, est mort; maintenant, lève-toi, passe ce
+        Jourdain, toi et tout ce peuple, pour entrer dans le pays que je donne
+        aux enfants d'Israël.
+      italian: '"Mosè mio servo è morto; orsù, attraversa questo Giordano tu e tutto
+        questo popolo, verso il paese che io do loro, agli Israeliti.'
+      old_georgian: მოსე, მონაჲ ჩემი, აღესრულა. აწ შენ აღდეგ და წიაღვედ იორდანესა, შენ
+        და ყოველი ერი ესე ქუეყანასა მას, რომელსა მე მიგცემ თქუენ.
+      portuguese: "”Mojżesz, sługa mój, umarł; teraz więc wstań, przepraw się przez
+        ten oto\rJordan, ty i cały ten lud, do ziemi, którą Ja daję Izraelitom."
+      turkish: «Kulum Musa öldü. Şimdi kalk, bütün halkla birlikte Şeria Irmağı'nı
+        geç. Size, İsrail halkına vereceğim ülkeye girin.
+      nrt: – Мой слуга Моисей умер. Итак, приготовься вместе со всем этим народом
+        переправиться через реку Иордан в землю, которую Я даю им –
+        израильтянам.
+      Macarius: "Моисей, раб Мой, умер: и так встань, перейди через Иордан сей, ты и
+        весь народ сей, в землю, которую Я даю им, сынам Израилевым."
+      serbian: Мојсије, слуга мој, умрије; зато сада устани, пријеђи преко тога
+        Јордана ти и сав тај народ у земљу коју ја дајем синовима Израиљевијем.
+      bulgarian: Моисей, Моят раб, умря; затова стани, мини през този Иордан, ти и
+        целият този народ, в земята, която Аз давам тям, на синовете Израилеви.
+      pavskiy: "Моисей, раб Мой, умер: итак встань, перейди через Иордан сей, ты и
+        весь народ сей, в землю, которую Я даю им, сынам Израилевым."
+      deutsch: Mein Knecht Mose ist gestorben; so mache dich nun auf und zieh über den
+        Jordan, du und dies ganze Volk, in das Land, das ich ihnen, den Kindern
+        Israel, gegeben habe.
+      ukr3: Мойсей, мій раб, умер; оце ж рушай та й переходь із усїм народом сим через
+        Йордань, у ту землю, що дам їм, синам Ізраїля.
+      bel_syomukha: Майсей, раб Мой, памёр; дык вось, устань, перайдзі цераз Ярдан
+        гэты і ўвесь народ гэты, у зямлю, якую Я даю ім, сынам Ізраілевым.
+      spbda: "Моисей, раб Мой, умер: итак встань, перейди за Иордан сей, ты и весь
+        народ сей, в землю, которую Я даю им, сынам Израилевым."
+      lev-khv: Моисей, раб Мой, умер; и так встань, перейди за этот Иордан, ты и весь
+        этот народ, в землю, которую Я даю им, сынам Израилевым.
+      czech: '"Mojzis, muj sluzebnik, zemrel. Nyni tedy vstan a prejdi s veskerym
+        timto lidem pres tento Jordan do zeme, kterou davam Izraelcum.'
+      spanish: <<Moisés, mi siervo, ha muerto. Álzate ya, pues, y pasa ese Jordán, tú
+        y tu pueblo, a la tierra que yo doy a los hijos de Israel.
+      greek-lxx: Μωυσῆς ὁ θεράπων μου τετελεύτηκεν νῦν οὖν ἀναστὰς διάβηθι τὸν
+        Ιορδάνην σὺ καὶ πᾶς ὁ λαὸς οὗτος εἰς τὴν γῆν ἣν ἐγὼ δίδωμι αὐτοῖς
+      st_text: Моисей, раб Мой, умер; итак встань, перейди через Иордан сей, ты и весь
+        народ сей, в землю, которую Я даю им, сынам Израилевым.
+  - id: 26892
+    number: 3
+    bookId: 6
+    text: "Всякое место, на которое ступят стопы ног ваших, Я даю вам, как Я сказал
+      Моисею:"
+    chapter: 1
+    chapterId: 188
+    parallels:
+      - verseId: 36029
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 11
+        short: Втор:11:24
+      - verseId: 27039
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 14
+        short: Нав:14:9
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "всякое место, по немуже прейдете стопою ног ваших, вам дам е, якоже
+        глаголах моисею:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "всsкое мёсто, по немyже пре1йдете стопо1ю но1гъ вaшихъ, вaмъ дaмъ є5,
+        ћкоже гlахъ мwmсе1ю:"
+      sovr_rbo: Я отдам вам все земли, куда ступит ваша нога, — так Я обещал Моисею.
+      latin: Omnem locum, quem calcaverit vestigium pedis vestri, vobis tradam, sicut
+        locutus sum Moysi.
+      ukr: Кожне місце, що стопа ноги вашої ступить на ньому, Я дав вам, як Я говорив
+        був Мойсеєві.
+      nkjv: Every place that the sole of your foot will tread upon I have given you,
+        as I said to Moses.
+      desnitsky: ""
+      mt: ‫    כָּל־מָקוֹם אֲשֶׁר תִּדְרֹךְ כַּף־רַגְלְכֶם בּוֹ לָכֶם נְתַתִּיו
+        כַּאֲשֶׁר דִּבַּרְתִּי אֶל־מֹשֶׁה׃ ‬
+      romana: "Tot locul pe care vor calca talpile picioarelor voastre, il voi da
+        voua, cum am spus lui Moise:"
+      francais: Tout lieu que foulera la plante de votre pied, je vous le donne, comme
+        je l'ai dit à Moïse.
+      italian: Ogni luogo che calcherà la pianta dei vostri piedi, ve l'ho assegnato,
+        come ho promesso a Mosè.
+      old_georgian: ყოველსა ადგილსა რომელსაცა დასდგათ კუალი ფერჴთა თქუენთაჲ, თქუენ
+        მიგცე იგი, ვითარცა-იგი ვარქუ მოსეს,
+      portuguese: "Każde miejsce, na które zstąpi wasza noga, Ja wam daję, jak
+        zapowiedziałem\rMojżeszowi."
+      turkish: Musa'ya söylediğim gibi, ayak basacağınız her yeri size veriyorum.
+      nrt: Я отдам вам всякое место, на которое ступит ваша нога, как Я обещал Моисею.
+      Macarius: "Всякое место, на которое ступит стопа ноги вашей, Я даю вам, как Я
+        сказал Моисею:"
+      bulgarian: "Всяко място, на което стъпят стъпалата на вашите нозе, ви давам,
+        както казах на Моисея:"
+      pavskiy: "Всякое место, на которое ступит стопа ноги вашей, Я даю вам, как Я
+        говорил Моисею:"
+      deutsch: Alle Stätten, darauf eure Fußsohlen treten werden, habe ich euch
+        gegeben, wie ich Mose geredet habe.
+      ukr3: "Усяке місце, де ступите підошвою ноги вашої, надїлю вам, як обітував
+        Мойсейові:"
+      bel_syomukha: Любое месца, на якое ступяць ступакі ног вашых, Я даю вам, як Я
+        сказаў Майсею
+      spbda: "Всякое место, на которое вступит стопа ноги вашей, Я даю вам, как Я
+        сказал Моисею:"
+      lev-khv: "Всякое место, на которое вступит стопа ноги вашей, Я даю вам, как Я
+        сказал Моисею:"
+      czech: Dal jsem vam kazde misto, na ktere vase noha slapne, jak jsem prislibil
+        Mojzisovi.
+      spanish: Cuantos lugares pise la planta de vuestros pies, os los doy, como
+        prometí a Moisés.
+      greek-lxx: πᾶς ὁ τόπος ἐφ᾿ ὃν ἂν ἐπιβῆτε τῷ ἴχνει τῶν ποδῶν ὑμῶν ὑμῖν δώσω αὐτόν
+        ὃν τρόπον εἴρηκα τῷ Μωυσῇ
+      st_text: "Всякое место, на которое ступят стопы ног ваших, Я даю вам, как Я
+        сказал Моисею:"
+  - id: 26893
+    number: 4
+    bookId: 6
+    text: от пустыни и Ливана сего до реки великой, реки Евфрата, всю землю Хеттеев;
+      и до великого моря к западу солнца будут пределы ваши.
+    chapter: 1
+    chapterId: 188
+    parallels:
+      - verseId: 21691
+        bookId: 2
+        bookCode: ishod
+        chapter: 23
+        short: Исх:23:31
+      - verseId: 969
+        bookId: 15
+        bookCode: 1a-kniga-ezdry
+        chapter: 4
+        short: 1 Езд:4:20
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "пустыню и антиливан сей даже до реки великия реки евфрата, всю землю
+        ефеоню, и даже до моря последняго: от запада солнца будут пределы ваши:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "пусты1ню и3 ґнтілівaнъ се1й дaже до рэки2 вели1кіz рэки2 є3vфрaта,
+        всю2 зе1млю є3fеHню, и3 дaже до мо1рz послёднzгw: t зaпада со1лнца
+        бyдутъ предёлы вaши:"
+      sovr_rbo: От Пустыни и от Ливанских гор, до Великой Реки — Евфрата (включая всю
+        землю хеттов) и до Великого моря на западе — все это будет ваша страна.
+      latin: A deserto et Libano usque ad fluvium magnum Euphraten, omnis terra
+        Hethaeorum usque ad mare magnum contra solis occasum erit terminus
+        vester.
+      ukr: Від пустині й цього Ливану й аж до Великої Річки, річки Ефрату, увесь край
+        хіттеян, і аж до Великого моря на захід буде ваша границя.
+      nkjv: From the wilderness and this Lebanon as far as the great river, the River
+        Euphrates, all the land of the Hittites, and to the Great Sea toward the
+        going down of the sun, shall be your territory.
+      desnitsky: ""
+      mt: ‫    מֵהַמִּדְבָּר וְהַלְּבָנוֹן הַזֶּה וְעַד־הַנָּהָר הַגָּדוֹל
+        נְהַר־פְּרָת כֹּל אֶרֶץ הַחִתִּים וְעַד־הַיָּם הַגָּדוֹל מְבוֹא
+        הַשָּׁמֶשׁ יִהְיֶה גְּבוּלְכֶם׃ ‬
+      romana: De la pustie si de la Libanul acesta pana la raul cel mare, pana la raul
+        Eufratului si pana la marea cea mare spre asfintitul soarelui vor fi
+        hotarele voastre.
+      francais: Vous aurez pour territoire depuis le désert et le Liban jusqu'au grand
+        fleuve, le fleuve de l'Euphrate, tout le pays des Héthiens, et jusqu'à
+        la grande mer vers le soleil couchant.
+      italian: "Dal deserto e dal Libano fino al fiume grande, il fiume Eufrate, tutto
+        il paese degli Hittiti, fino al Mar Mediterraneo, dove tramonta il sole:
+        tali saranno i vostri confini."
+      old_georgian: უდაბნოჲ და წინაჲ ლიბანე, მიმდინარედმდე დიდად მდინარედ ევფრატისად
+        და ყოველი ქუეყანა ქეტელთა ვიდრე ზღუადმდე დასასრულისად, მზისა დასავლადმდე
+        იყვნენ საზღვარნი თქუენნი.
+      portuguese: "Od pustyni i od Libanu aż do Wielkiej Rzeki, rzeki Eufrat, cała
+        ziemia Chetytów aż do Wielkiego Morza, w stronę zachodzącego słońca,
+        będzie waszą\rkrainą."
+      turkish: Sınırlarınız çölden Lübnan'a, büyük Fırat Irmağı'ndan -bütün Hitit
+        ülkesi dahil-batıdaki Akdeniz'e kadar uzanacak.
+      nrt: Ваша земля будет простираться от пустыни до Ливана, от великой реки, реки
+        Евфрата (включая всю землю хеттов) до Великого моря на западе.
+      Macarius: От пустыни и Ливана сего до реки великой, реки Евфрата, всю землю
+        Хеттеев; и до великого моря к западу солнца будут простираться пределы
+        ваши.
+      serbian: Од пустиње и од овога Ливана до ријеке велике, ријеке Ефрата, сва земља
+        Хетејска до Великога мора на западу, биће међа ваша.
+      bulgarian: от пустинята и от тоя Ливан до голямата река, река Ефрат, цялата земя
+        Хетейска, и до голямото море към залез-слънце ще бъдат вашите предели.
+      pavskiy: От пустыни и Ливана до реки великой, реки Евфрата, всю землю хеттеев; и
+        до великаго моря, к закату солнца будут простираться пределы ваши.
+      deutsch: Von der Wüste an und diesem Libanon bis an das große Wasser Euphrat,
+        das ganze Land der Hethiter, bis an das große Meer gegen Abend sollen
+        eure Grenzen sein.
+      ukr2: Від пустині до цього Ливану й від великої ріки, ріки Ефрату, уся земля
+        хеттитська, аж до Великого моря на захід сонця, буде вашим краєм.
+      ukr3: Від степу і Ливану та й до великої ріки, ріки Евфрата, уся земля Гетїйська
+        аж до великого моря на захід сонця буде ваше займище.
+      bel_syomukha: ад пустыні і Лівана гэтага да ракі вялікай, ракі Еўфрата, усю
+        зямлю Хэтэяў; і да вялікага мора на захад сонца будуць межы вашыя.
+      spbda: От пустыни и Ливана сего до реки великой, реки Евфрата, всю землю
+        Хеттеев; и до великаго моря к закату солнца будут пределы ваши.
+      lev-khv: От пустыни и Ливана сего до реки великой, реки Евфрата, всю землю
+        Хеттеев; и до великаго моря к закату солнца будут пределы ваши.
+      czech: Vase pomezi povede od stepi a tohoto Libanonu az k velike rece, rece
+        Eufratu, podel cele zeme Chetejcu az k Velkemu mori, kde zapada slunce.
+      spanish: Desde el desierto hasta el Líbano y el río grande, el Éufrates, y hasta
+        el mar grande, a occidente, será vuestro territorio.
+      greek-lxx: τὴν ἔρημον καὶ τὸν Ἀντιλίβανον ἕως τοῦ ποταμοῦ τοῦ μεγάλου ποταμοῦ
+        Εὐφράτου καὶ ἕως τῆς θαλάσσης τῆς ἐσχάτης ἀφ᾿ ἡλίου δυσμῶν ἔσται τὰ ὅρια
+        ὑμῶν
+      st_text: от пустыни и Ливана сего до реки великой, реки Евфрата, всю землю
+        Хеттеев; и до великого моря к западу солнца будут пределы ваши.
+  - id: 26894
+    number: 5
+    bookId: 6
+    text: "Никто не устоит пред тобою во все дни жизни твоей; и как Я был с Моисеем,
+      так буду и с тобою: не отступлю от тебя и не оставлю тебя."
+    chapter: 1
+    chapterId: 188
+    parallels:
+      - verseId: 36599
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 31
+        short: Втор:31:8
+      - verseId: 14686
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 13
+        short: Евр:13:5
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "не супротивится человек пред вами во вся дни живота твоего, и якоже бех с
+        моисеом, тако буду и с тобою: и не оставлю тебе, ниже презрю тя:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "не супроти1витсz человёкъ пред8 вaми во вс‰ дни6 животA твоегw2, и3
+        ћкоже бёхъ съ мwmсе1омъ, тaкw бyду и3 съ тобо1ю: и3 не њстaвлю тебе2,
+        ниже2 пре1зрю тS:"
+      sovr_rbo: "Никто не сможет тебе противостоять, до самого конца твоих дней. Я был
+        с Моисеем — и точно так же Я буду с тобою: Я не оставлю тебя и не
+        покину."
+      latin: "Nullus poterit vobis resistere cunctis diebus vitae tuae: sicut fui cum
+        Moyse, ita ero tecum: non dimittam, nec derelinquam te."
+      ukr: Не встоїть ніхто перед тобою по всі дні життя твого. Як був Я з Мойсеєм,
+        так буду з тобою, не залишу тебе й не покину тебе.
+      nkjv: No man shall be able to stand before you all the days of your life; as I
+        was with Moses, so I will be with you. I will not leave you nor forsake
+        you.
+      desnitsky: ""
+      mt: ‫    לֹא־יִתְיַצֵּב אִישׁ לְפָנֶיךָ כֹּל יְמֵי חַיֶּיךָ כַּאֲשֶׁר הָיִיתִי
+        עִם־מֹשֶׁה אֶהְיֶה עִמָּךְ לֹא אַרְפְּךָ וְלֹא אֶעֶזְבֶךָּ׃ ‬
+      romana: Nimeni nu se va putea impotrivi tie, in toate zilele vietii tale. Precum
+        am fost cu Moise, asa voi fi si cu tine; nu Ma voi departa de tine si nu
+        te voi parasi.
+      francais: Nul ne tiendra devant toi, tant que tu vivras. Je serai avec toi,
+        comme j'ai été avec Moïse; je ne te délaisserai point, je ne
+        t'abandonnerai point.
+      italian: Nessuno potrà resistere a te per tutti i giorni della tua vita; come
+        sono stato con Mosè, così sarò con te; non ti lascerò né ti abbandonerò.
+      old_georgian: არა დაგიდგეს კაცი წინაშე თქუენსა ყოველთა დღეთა ცხორებისა შენისათა.
+        და ვითარ ვიყავ მოსეს თანა, ეგრეცა შენ თანა ვიყო. და არა დაგაგდო შენ და
+        არცა უგულებელს-გყო შენ.
+      portuguese: "Nikt się nie ostoi przed tobą przez wszystkie dni twego życia. Jak
+        byłem z\rMojżeszem, tak będę z tobą, nie opuszczę cię ani porzucę."
+      turkish: Yaşamın boyunca hiç kimse sana karşı koyamayacak; nasıl Musa ile
+        birlikte oldumsa, seninle de birlikte olacağım. Seni terk etmeyeceğim,
+        seni yüzüstü bırakmayacağım.
+      nrt: Никто не сможет противостоять тебе во все дни твоей жизни. Как Я был с
+        Моисеем, так буду и с тобой; Я никогда тебя не оставлю и никогда не
+        покину.
+      Macarius: Никто не устоит пред тобою во все дни жизни твоей; [и] как Я был с
+        Моисеем, так буду [и] с тобою; не отступлю от тебя и не оставлю тебя.
+      serbian: Нико се неће одржати пред тобом свега вијека твојега; с тобом ћу бити
+        као што сам био с Мојсијем, нећу одступити од тебе нити ћу те оставити.
+      bulgarian: "Никой не ще устои пред тебе през всички дни на твоя живот; и както
+        бях с Моисея, тъй ще бъда и с тебе: няма да отстъпя от тебе и няма да те
+        оставя."
+      pavskiy: Никто не устоит пред тобою во все дни жизни твоей; как Я был с Моисеем,
+        так буду и с тобою; не отступлю от тебя и не оставлю тебя.
+      deutsch: Es soll dir niemand widerstehen dein Leben lang. Wie ich mit Mose
+        gewesen bin, also will ich auch mit dir sein. Ich will dich nicht
+        verlassen noch von dir weichen.
+      ukr2: Ніхто не встоїть перед тобою, поки віку твого; як був я з Мойсеєм, так
+        буду з тобою; я не полишу тебе і не покину.
+      ukr3: Нїхто не встоїть перед тобою поки й віку твого. Як був я з Мойсейом, так
+        буду й з тобою; не відхилю від тебе руки моєї і не полишу тебе.
+      bel_syomukha: "Ніхто ня ўстоіць перад табою: не адступлюся ад цябе і не пакіну цябе."
+      spbda: Не устоит никто пред тобою во все дни жизни твоей; как Я был с Моисеем,
+        так буду и с тобою; не отступлю от тебя и не оставлю тебя.
+      lev-khv: Не устоит никто пред тобою во все дни жизни твоей; как Я был с Моисеем,
+        <i>так</i> буду и с тобою; не отступлю от тебя и не оставлю тебя.
+      czech: Po vsechny dny tveho zivota se proti tobe nikdo nepostavi. Jako jsem byl
+        s Mojzisem, budu i s tebou. Nenecham te klesnout a neopustim te.
+      spanish: Nadie podrá resistir ante ti por todos los días de tu vida; yo seré
+        contigo como fui con Moisés; no te dejaré ni te abandonaré.
+      greek-lxx: οὐκ ἀντιστήσεται ἄνθρωπος κατενώπιον ὑμῶν πάσας τὰς ἡμέρας τῆς ζωῆς
+        σου καὶ ὥσπερ ἤμην μετὰ Μωυσῆ οὕτως ἔσομαι καὶ μετὰ σοῦ καὶ οὐκ
+        ἐγκαταλείψω σε οὐδὲ ὑπερόψομαί σε
+      st_text: "Никто не устоит пред тобою во все дни жизни твоей; и как Я был с
+        Моисеем, так буду и с тобою: не отступлю от тебя и не оставлю тебя."
+  - id: 26895
+    number: 6
+    bookId: 6
+    text: Будь тверд и мужествен; ибо ты народу сему передашь во владение землю,
+      которую Я клялся отцам их дать им;
+    chapter: 1
+    chapterId: 188
+    parallels:
+      - verseId: 35975
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 1
+        short: Втор:1:38
+      - verseId: 36570
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 3
+        short: Втор:3:28
+      - verseId: 36598
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 31
+        short: Втор:31:7
+      - verseId: 36614
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 31
+        short: Втор:31:23
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "крепися и мужайся: ты бо разделиши людем сим землю, еюже кляхся отцем
+        вашым дати им:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "крэпи1сz и3 мужaйсz: ты1 бо раздэли1ши лю1демъ си6мъ зе1млю, є4юже
+        клsхсz nтцє1мъ вaшымъ дaти и5мъ:"
+      sovr_rbo: Будь твердым и стойким! Ты сделаешь эту страну владением сынов
+        Израилевых — Я отдаю им эту страну, как поклялся их отцам!
+      latin: "Confortare, et esto robustus: tu enim sorte divides populo huic terram,
+        pro qua juravi patribus suis, ut traderem eam illis."
+      ukr: Будь сильний та відважний, бо ти зробиш, що народ цей посяде той Край, що Я
+        присягнув був їхнім батькам дати їм.
+      nkjv: Be strong and of good courage, for to this people you shall divide as an
+        inheritance the land which I swore to their fathers to give them.
+      desnitsky: ""
+      mt: ‫    חֲזַק וֶאֱמָץ כִּי אַתָּה תַּנְחִיל אֶת־הָעָם הַזֶּה אֶת־הָאָרֶץ
+        אֲשֶׁר־נִשְׁבַּעְתִּי לַאֲבוֹתָם לָתֵת לָהֶם׃ ‬
+      romana: Fii tare si curajos, ca tu vei imparti poporului acestuia, prin sorti,
+        tara pe care M-am jurat parintilor lor sa le-o dau.
+      francais: Fortifie-toi et prends courage, car c'est toi qui mettras ce peuple en
+        possession du pays que j'ai juré à leurs pères de leur donner.
+      italian: Sii coraggioso e forte, poiché tu dovrai mettere questo popolo in
+        possesso della terra che ho giurato ai loro padri di dare loro.
+      old_georgian: განძლიერდი და მჴნე იყავ, რამეთუ შენ განუყო ერსა მას ქუეყანაჲ იგი,
+        რომლისათჳს-იგი ვეფუცე მამათა თქუენთა მიცემად მათა.
+      portuguese: "Bądź mężny i mocny, ponieważ ty rozdasz temu ludowi w posiadanie
+        ziemię,\rktórą poprzysiągłem dać ich przodkom."
+      turkish: «Güçlü ve yürekli ol. Çünkü halkı, atalarına vereceğime ant içtiğim
+        ülkeyi miras almaya sen götüreceksin.
+      nrt: Будь тверд и мужествен, потому что ты поведешь этих людей, чтобы им
+        унаследовать землю, которую Я клялся дать их отцам.
+      Macarius: "Будь тверд и мужествен: ибо ты народу сему разделишь в удел землю,
+        которую Я клялся отцам их, дать им."
+      serbian: Буди слободан и храбар, јер ћеш ти предати томе народу у нашљедство
+        земљу за коју сам се заклео оцима њиховијем да ћу им је дати.
+      bulgarian: Бъди твърд и храбър, защото ти ще предадеш на тоя народ за владение
+        земята, за която се клех на отците им да им я дам;
+      pavskiy: "Будь тверд и мужествен: ибо ты народу сему разделишь в удел землю,
+        которую Я клялся отцам их дать им."
+      deutsch: Sei getrost und unverzagt; denn du sollst diesem Volk das Land
+        austeilen, das ich ihren Vätern geschworen habe, daß ich's ihnen geben
+        wollte.
+      ukr2: "Будь мужнім і хоробрим: ти бо маєш передати цьому народові в посілість
+        землю, про яку я клявся їхнім батькам, що дам їм."
+      ukr3: "Стій твердо й мужно: мусиш бо подїлити між сей народ сю землю, що я
+        клявсь отцям їх надїлити у наслїдню державу."
+      bel_syomukha: Буду цьвёрды і мужны; бо ты народу гэтаму перадаеш у валоданьне
+        зямлю, якую Я прысягаўся бацькам іхнім даць ім;
+      spbda: Будь тверд и мужествен; ибо ты передашь во владение народу сему землю,
+        которую Я клялся отцам их дать им.
+      lev-khv: Будь тверд и мужествен; потому что ты передашь во владение этому народу
+        землю, которую Я клялся отцам их дать им.
+      czech: Bud rozhodny a udatny, nebot ty rozdelis tomuto lidu zemi v dedictvi, jak
+        jsem se prisezne zavazal jejich otcum, ze jim ji dam.
+      spanish: Esfuérzate y ten ánimo, porque tú has de introducir a este pueblo a
+        posesionarse de la tierra que a sus padres juré darles.
+      greek-lxx: ἴσχυε καὶ ἀνδρίζου σὺ γὰρ ἀποδιαστελεῖς τῷ λαῷ τούτῳ τὴν γῆν ἣν ὤμοσα
+        τοῖς πατράσιν ὑμῶν δοῦναι αὐτοῖς
+      st_text: Будь тверд и мужествен; ибо ты народу сему передашь во владение землю,
+        которую Я клялся отцам их дать им;
+  - id: 26896
+    number: 7
+    bookId: 6
+    text: только будь тверд и очень мужествен, и тщательно храни и исполняй весь
+      закон, который завещал тебе Моисей, раб Мой; не уклоняйся от него ни
+      направо ни налево, дабы поступать благоразумно во всех предприятиях твоих.
+    chapter: 1
+    chapterId: 188
+    parallels:
+      - verseId: 36181
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 17
+        short: Втор:17:20
+      - verseId: 36459
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 28
+        short: Втор:28:14
+      - verseId: 3073
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 22
+        short: 1 Пар:22:13
+      - verseId: 14729
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 3
+        short: Евр:3:5
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "крепися убо, и мужайся зело, хранити и творити, якоже тебе заповеда
+        моисей раб мой, и не уклонися от них ни на десно, ни на лево, да
+        смыслиши во всех, яже твориши:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "крэпи1сz ў2бо, и3 мужaйсz ѕэлw2, храни1ти и3 твори1ти, ћкоже тебЁ
+        заповёда мwmсе1й рaбъ мо1й, и3 не ўклони1сz t ни1хъ ни на де1сно, ни на
+        лёво, да смы1слиши во всёхъ, ±же твори1ши:"
+      sovr_rbo: Будь же твердым и стойким! Строго соблюдай и исполняй Закон, который
+        тебе велел соблюдать Мой раб Моисей. Ни на шаг не отступай от этого
+        Закона — и тебе повсюду будет сопутствовать успех.
+      latin: "Confortare igitur, et esto robustus valde: ut custodias, et facias omnem
+        legem, quam praecepit tibi Moyses servus meus: ne declines ab ea ad
+        dexteram vel ad sinistram, ut intelligas cuncta quae agis."
+      ukr: Тільки будь дуже сильний та відважний, щоб додержувати чинити за всім тим
+        Законом, що наказав був тобі Мойсей, Мій раб, не відхилишся від нього ні
+        праворуч, ні ліворуч, щоб щастило тобі в усьому, де ти будеш ходити.
+      nkjv: Only be strong and very courageous, that you may observe to do according
+        to all the law which Moses My servant commanded you; do not turn from it
+        to the right hand or to the left, that you may prosper wherever you go.
+      desnitsky: ""
+      mt: ‫    רַק חֲזַק וֶאֱמַץ מְאֹד לִשְׁמֹר לַעֲשׂוֹת כְּכָל־הַתּוֹרָה אֲשֶׁר
+        צִוְּךָ מֹשֶׁה עַבְדִּי אַל־תָּסוּר מִמֶּנּוּ יָמִין וּשְׂמֹאול לְמַעַן
+        תַּשְׂכִּיל בְּכֹל אֲשֶׁר תֵּלֵךְ׃ ‬
+      romana: Fii dar tare si foarte curajos, ca sa pazesti si sa implinesti toata
+        legea pe care ti-a incredintat-o Moise, robul Meu; sa nu te abati de la
+        ea nici la dreapta nici la stanga, ca sa pricepi toate cate ai de facut.
+      francais: Fortifie-toi seulement et aie bon courage, en agissant fidèlement
+        selon toute la loi que Moïse, mon serviteur, t'a prescrite; ne t'en
+        détourne ni à droite ni à gauche, afin de réussir dans tout ce que tu
+        entreprendras.
+      italian: Solo sii forte e molto coraggioso, cercando di agire secondo tutta la
+        legge che ti ha prescritta Mosè, mio servo. Non deviare da essa né a
+        destra né a sinistra, perché tu abbia successo in qualunque tua impresa.
+      old_georgian: აწ განძლიერდი და მჴნე იყავ დამარხვად და ყოფად, რაჲ-იგი გამცნო შენ
+        მოსე, მონამან ჩუენმან. და არა გარდააქციო შენ მათგან მარჯულ, არცაღა
+        მარცხულ, რათა გულისხმა-ჰყო ყოველი, რასაცა იქმოდი.
+      portuguese: "Tylko bądź mężny i mocny, przestrzegając wypełniania całego Prawa,
+        które\rnakazał ci Mojżesz, sługa mój. Nie odstępuj od niego ani w prawo,
+        ani w\rlewo, aby się okazała twoja roztropność we wszystkich
+        przedsięwzięciach."
+      turkish: Yeter ki, güçlü ve yürekli ol. Kulum Musa'nın sana buyurduğu Kutsal
+        Yasa'nın tümünü yerine getirmeye dikkat et. Gittiğin her yerde başarılı
+        olmak için bu yasadan ayrılma, sağa sola sapma.
+      nrt: Будь тверд и очень мужествен. Тщательно исполняй весь Закон, который дал
+        тебе Мой слуга Моисей. Не уклоняйся от него ни вправо, ни влево, чтобы
+        тебе иметь успех везде, куда бы ты ни пошел.
+      Macarius: Только будь тверд и весьма мужествен, и тщательно исполняй весь закон,
+        который завещал тебе Моисей, раб Мой; не отступай от него ни направо, ни
+        налево, дабы поступать благоразумно везде, куда ни пойдешь.
+      serbian: Само буди слободан и храбар да држиш и твориш све по закону који ти је
+        заповједио Мојсије, слуга мој, не одступај од њега ни надесно ни
+        налијево да би напредовао куда год пођеш.
+      bulgarian: само бъди твърд и много храбър, и грижливо пази и изпълнявай целия
+        закон, който ти завеща Моят раб Моисей; не се отклонявай от него ни
+        надясно, ни наляво, та да постъпваш благоразумно във всичките си
+        предприятия.
+      pavskiy: Только будь тверд и весьма мужествен, и тщательно исполняй весь закон,
+        который преподал тебе Моисей, раб Мой; не отступай от него ни на право,
+        ни на лево, дабы поступать благоразумно везде, куда ни пойдешь.
+      deutsch: Sei nur getrost und sehr freudig, daß du haltest und tust allerdinge
+        nach dem Gesetz, das dir Mose, mein Knecht, geboten hat. Weiche nicht
+        davon, weder zur Rechten noch zur Linken, auf daß du weise handeln
+        mögest in allem, was du tun sollst.
+      ukr2: Лише будь мужнім і вельми хоробрим, щоб достеменно чинити за законом, як
+        наказав тобі Мойсей, слуга мій. Не звертай від нього ні праворуч, ні
+        ліворуч, щоб тобі щастило в кожній твоїй справі.
+      ukr3: Стій тілько твердо і ревно думай про те, щоб чинити притьма все по закону,
+        що заповідав тобі мій раб Мойсей; не звертай з його нї праворуч, нї
+        лїворуч; держи в голові добрий розум, що б нї задумав.
+      bel_syomukha: толькі будзь цьвёрды і вельмі мужны, і старанна захоўвай і
+        выконвай увесь закон, які наказаў табе Майсей, раб Мой; ня ўхіляйся ад
+        яго ні направа, ні налева, каб чыніць разумна ва ўсіх пачынаньнях тваіх.
+      spbda: Только будь тверд и весьма мужествен в тщательном исполнении всего
+        закона, который завещал тебе Моисей, раб Мой; не отступай от него ни на
+        право, ни на лево, чтобы тебе иметь успех везде, куда ни пойдешь.
+      lev-khv: Толъко будь тверд и весьма мужествен в тщательном исполнении всего
+        закона, который завещал тебе Моисей, раб Мой; не отступай от него ни на
+        право, ни на лево, чтобы тебе иметь успех везде, куда ни пойдешь.
+      czech: Jen bud rozhodny a velmi udatny, bedlive pln vse, co je v zakone, ktery
+        ti prikazal Mojzis, muj sluzebnik. Neodchyluj se od neho napravo ani
+        nalevo; tak budes jednat prozirave vsude, kam pujdes.
+      spanish: Esfuérzate, pues, y ten gran valor para cumplir cuidadosamente cuanto
+        Moisés, mi siervo, te ha prescrito. No te apartes ni a la derecha ni a
+        la izquierda, para que triunfes en todas tus empresas.
+      greek-lxx: ἴσχυε οὖν καὶ ἀνδρίζου φυλάσσεσθαι καὶ ποιεῖν καθότι ἐνετείλατό σοι
+        Μωυσῆς ὁ παῖς μου καὶ οὐκ ἐκκλινεῖς ἀπ᾿ αὐτῶν εἰς δεξιὰ οὐδὲ εἰς
+        ἀριστερά ἵνα συνῇς ἐν πᾶσιν οἷς ἐὰν πράσσῃς
+      st_text: только будь тверд и очень мужествен, и тщательно храни и исполняй весь
+        закон, который завещал тебе Моисей, раб Мой; не уклоняйся от него ни
+        направо ни налево, дабы поступать благоразумно во всех предприятиях
+        твоих.
+  - id: 26897
+    number: 8
+    bookId: 6
+    text: "Да не отходит сия книга закона от уст твоих; но поучайся в ней день и
+      ночь, дабы в точности исполнять все, что в ней написано: тогда ты будешь
+      успешен в путях твоих и будешь поступать благоразумно."
+    chapter: 1
+    chapterId: 188
+    parallels:
+      - verseId: 36181
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 17
+        short: Втор:17:20
+      - verseId: 30260
+        bookId: 22
+        bookCode: psaltir
+        chapter: 1
+        short: Пс:1:2
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и да не отступит книга закона сего от уст твоих, и да поучаешися в ней
+        день и нощь, да уразумееши творити вся писанная: тогда благоуспееши и
+        исправиши пути твоя, и тогда уразумееши:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 да не tстyпитъ кни1га зако1на сегw2 t ќстъ твои1хъ, и3 да
+        поучaешисz въ не1й де1нь и3 но1щь, да ўразумёеши твори1ти вс‰ пи6саннаz:
+        тогдA благоуспёеши и3 и3спрaвиши пути6 тво‰, и3 тогдA ўразумёеши:"
+      sovr_rbo: Пусть слова из свитка Закона непрестанно будут у тебя на устах.
+        Повторяй их днем и ночью, строго соблюдай и исполняй все, что написано в
+        этом свитке, — и тебе будут сопутствовать удача и успех.
+      latin: "Non recedat volumen legis hujus ab ore tuo: sed meditaberis in eo diebus
+        ac noctibus, ut custodias et facias omnia quae scripta sunt in eo: tunc
+        diriges viam tuam, et intelliges eam."
+      ukr: Нехай книга цього Закону не відійде від твоїх уст, але будеш роздумувати
+        про неї вдень та вночі, щоб додержувати чинити все, що написано в ній,
+        бо тоді зробиш щасливими дороги свої, і тоді буде щастити тобі.
+      nkjv: This Book of the Law shall not depart from your mouth, but you shall
+        meditate in it day and night, that you may observe to do according to
+        all that is written in it. For then you will make your way prosperous,
+        and then you will have good success.
+      desnitsky: ""
+      mt: ‫    לֹא־יָמוּשׁ סֵפֶר הַתּוֹרָה הַזֶּה מִפִּיךָ וְהָגִיתָ בּוֹ יוֹמָם
+        וָלַיְלָה לְמַעַן תִּשְׁמֹר לַעֲשׂוֹת כְּכָל־הַכָּתוּב בּוֹ כִּי־אָז
+        תַּצְלִיחַ אֶת־דְּרָכֶךָ וְאָז תַּשְׂכִּיל׃ ‬
+      romana: Sa nu se pogoare cartea legii acesteia de pe buzele tale, ci
+        calauzeste-te de ea ziua si noaptea, ca sa plinesti intocmai tot ce este
+        scris in ea; atunci vei fi cu izbanda in caile tale si vei pasi cu spor.
+      francais: Que ce livre de la loi ne s'éloigne point de ta bouche; médite-le jour
+        et nuit, pour agir fidèlement selon tout ce qui y est écrit; car c'est
+        alors que tu auras du succès dans tes entreprises, c'est alors que tu
+        réussiras.
+      italian: Non si allontani dalla tua bocca il libro di questa legge, ma mèditalo
+        giorno e notte, perché tu cerchi di agire secondo quanto vi è scritto;
+        poiché allora tu porterai a buon fine le tue imprese e avrai successo.
+      old_georgian: და არა განგეშოროს შენ წიგნი ესე ამის შჯულისა პირისაგან შენისა და
+        იწურთიდე მას დღე და ღამე, რათა გულისხმა-ჰყო ყოფად ყოველი წერილი. მაშინ
+        წარგემართოს და წარჰმართნე გზანი შენნი და მაშინ გულისხმა-ჰყო.
+      portuguese: "Niech ta Księga Prawa będzie zawsze na twych ustach: rozważaj ją w
+        dzień i\rw nocy, abyś ściśle spełniał wszystko, co w niej jest napisane,
+        bo tylko wtedy\rpowiedzie ci się i okaże się twoja roztropność."
+      turkish: Yasa Kitabı'nda yazılanları dilinden düşürme. Tümünü özenle yerine
+        getirmek için gece gündüz onu düşün. O zaman başarılı olacak ve amacına
+        ulaşacaksın.
+      nrt: Пусть слова книги Закона всегда будут у тебя на устах; размышляй над ними
+        день и ночь, чтобы в точности исполнять все, что написано. Тогда ты
+        будешь процветать и иметь успех.
+      Macarius: Пусть не отходит сия книга закона от уст твоих; но учись из ней день и
+        ночь, дабы в точности исполнять все, что в ней написано; ибо тогда ты
+        будешь успешен в путях твоих, и тогда будешь поступать благоразумно.
+      serbian: Нека се не раставља од уста твојих књига овога закона, него размишљај о
+        њему дан и ноћ, да држиш и твориш све како је у њему написано; јер ћеш
+        тада бити срећан на путовима својим и тада ћеш напредовати.
+      bulgarian: "Да се не отделя от устата ти тая книга на закона; но се поучавай от
+        нея дене и ноще, за да изпълняваш точно всичко, написано в нея: тогава
+        ти ще имаш сполука в пътищата си и ще постъпваш благоразумно."
+      pavskiy: Пусть не отходит сия книга закона от уст твоих; но учись из ней день и
+        ночь, дабы в точности исполнять все, что в ней написано; ибо тогда ты
+        будешь успешен в путях твоих, и тогда будешь поступать благоразумно.
+      deutsch: Und laß dieses Buch des Gesetzes nicht von deinem Munde kommen, sondern
+        betrachte es Tag und Nacht, auf daß du haltest und tust allerdinge nach
+        dem, was darin geschrieben steht. Alsdann wird es dir gelingen in allem,
+        was du tust, und wirst weise handeln können.
+      ukr2: Нехай книга цього закону ніколи від твоїх уст не віддалиться, і
+        розважатимеш над нею день і ніч, щоб пильно виконати все, що в ній
+        написано; тоді бо матимеш успіх у твоїх справах і тоді буде тобі
+        щастити.
+      ukr3: "Сю книгу закону повсячасно мусиш держати в устах і міркувати про неї день
+        і ніч, щоб зважувати нею все, що в нїй визначено: тодї щаститись ме тобі
+        у всїх задумах твоїх і будеш поступати розумно."
+      bel_syomukha: "Хай не адыходзіць гэтая кніга закона ад вуснаў тваіх: а павучайся
+        ў ёй дзень і ноч, каб дакладна выконваць усё, што ў ёй напісана: тады ты
+        мецьмеш посьпех на шляхах тваіх і будзеш дзеяць разумна."
+      spbda: Пусть не отходит сия книга закона от уст твоих, но поучайся в ней день и
+        ночь, дабы тебе в точности исполнять все, что в ней написано; ибо тогда
+        ты будешь благополучен в путях твоих, и тогда будешь иметь успех.
+      lev-khv: Пусть не отходит эта книга закона от уст твоих; но поучайся в ней день
+        и ночь, чтобы тебе тщательно исполнять все, чтó в ней написано; потому
+        что тогда ты будешь благополучен в путях твоих, и тогда будешь иметь
+        успех.
+      czech: Kniha tohoto zakona at se nevzdali od tvych ust. Rozjimej nad nim ve dne
+        v noci, abys mohl bedlive plnit vse, co je v nem zapsano. Potom te bude
+        na tve ceste provazet zdar, potom budes jednat prozirave.
+      spanish: Que ese libro de la Ley no se aparte nunca de tu boca; tenlo presente
+        día y noche, para procurar hacer cuanto en él está escrito, y así
+        prosperarás en todos tus caminos y tendrás buen suceso.
+      greek-lxx: καὶ οὐκ ἀποστήσεται ἡ βίβλος τοῦ νόμου τούτου ἐκ τοῦ στόματός σου καὶ
+        μελετήσεις ἐν αὐτῷ ἡμέρας καὶ νυκτός ἵνα συνῇς ποιεῖν πάντα τὰ
+        γεγραμμένα τότε εὐοδωθήσῃ καὶ εὐοδώσεις τὰς ὁδούς σου καὶ τότε συνήσεις
+      st_text: "Да не отходит сия книга закона от уст твоих; но поучайся в ней день и
+        ночь, дабы в точности исполнять все, что в ней написано: тогда ты будешь
+        успешен в путях твоих и будешь поступать благоразумно."
+  - id: 26898
+    number: 9
+    bookId: 6
+    text: "Вот Я повелеваю тебе: будь тверд и мужествен, не страшись и не ужасайся;
+      ибо с тобою Господь Бог твой везде, куда ни пойдешь."
+    chapter: 1
+    chapterId: 188
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "се, заповедаю тебе: крепися и мужайся, ни ужасайся, ниже убойся: яко с
+        тобою Господь Бог твой во всех, аможе аще пойдеши."
+      averincev: ""
+      ungerov: ""
+      csya_old: "се2, заповёдаю тебЁ: крэпи1сz и3 мужaйсz, ни ўжасaйсz, ниже2 ўбо1йсz:
+        ћкw съ тобо1ю гDь бг7ъ тво1й во всёхъ, ѓможе ѓще по1йдеши."
+      sovr_rbo: "Я повелеваю тебе: будь твердым и стойким! Не робей и не бойся: с
+        тобою везде будет Господь, твой Бог»."
+      latin: "Ecce praecipio tibi: confortare, et esto robustus. Noli metuere, et noli
+        timere: quoniam tecum est Dominus Deus tuus in omnibus ad quaecumque
+        perrexeris."
+      ukr: "Чи ж не наказав Я тобі: будь сильний та відважний? Не бійся й не лякайся,
+        бо з тобою Господь, Бог твій, у всьому, де ти будеш ходити."
+      nkjv: Have I not commanded you? Be strong and of good courage; do not be afraid,
+        nor be dismayed, for the Lord your God is with you wherever you go."
+      desnitsky: ""
+      mt: ‫    הֲלוֹא צִוִּיתִיךָ חֲזַק וֶאֱמָץ אַל־תַּעֲרֹץ וְאַל־תֵּחָת כִּי עִמְּךָ
+        יְהוָה אֱלֹהֶיךָ בְּכֹל אֲשֶׁר תֵּלֵךְ׃ פ ‬
+      romana: 'Iata iti poruncesc: Fii tare si curajos, sa nu te temi, nici sa te
+        spaimantezi, caci Domnul Dumnezeul tau este cu tine pretutindenea,
+        oriunde vei merge".'
+      francais: "Ne t'ai-je pas donné cet ordre: Fortifie-toi et prends courage? Ne
+        t'effraie point et ne t'épouvante point, car l'Éternel, ton Dieu, est
+        avec toi dans tout ce que tu entreprendras."
+      italian: 'Non ti ho io comandato: Sii forte e coraggioso? Non temere dunque e
+        non spaventarti, perché è con te il Signore tuo Dio, dovunque tu vada".'
+      old_georgian: "აჰა, ესერა, მე გამცნებ შენ: განძლიერდი და მჴნე იყავ, ნუ
+        შესძრწუნდები, ნუცაღა გეშინინ. რამეთუ მე შენ თანა ვარ, უფალი ღმერთი შენი,
+        ყოველსა ადგილსა, ვიდრეცა ხჳდოდი."
+      portuguese: "Czyż ci nie rozkazałem: Bądź mężny i mocny? Nie bój się i nie
+        lękaj, ponieważ\rz tobą jest Pan, Bóg twój, wszędzie, gdziekolwiek
+        pójdziesz”."
+      turkish: Sana güçlü ve yürekli ol demedim mi? Korkma, yılma. Çünkü Tanrın RAB
+        gideceğin her yerde seninle birlikte olacak.»
+      nrt: "Итак, Я повелеваю тебе: будь тверд и мужествен. Не страшись, не падай
+        духом, потому что Господь, твой Бог, будет с тобой, куда бы ты ни
+        пошел."
+      Macarius: "Я повелеваю тебе: будь тверд и мужествен, не страшись и не ужасайся!
+        ибо с тобою Иегова, Бог твой, везде, куда ни пойдешь."
+      serbian: "Нијесам ли ти заповједио: Буди слободан и храбар? Не бој се и не плаши
+        се; јер је с тобом Господ Бог твој куда год идеш."
+      bulgarian: "Ето, Аз ти заповядвам: бъди твърд и храбър, не се страхувай и не се
+        ужасявай; защото Господ, Бог твой, е с тебе навред, където и да идеш."
+      pavskiy: "Так Я повелеваю тебе: будь тверд и мужествен, не страшись и не робей!
+        ибо с тобою Иегова, Бог твой, везде, куда ни пойдешь."
+      deutsch: Siehe, ich habe dir geboten, daß du getrost und freudig seist. Laß dir
+        nicht grauen und entsetze dich nicht; denn der Herr, dein Gott, ist mit
+        dir in allem, was du tun wirst.
+      ukr2: "Отож наказую тобі: будь мужнім і хоробрим; не лякайся й не падай духом,
+        бо Господь, Бог твій, з тобою, куди б ти не подався.”"
+      ukr3: "Я ж завітую тобі: Стій твердо й мужно, не лякайсь і не вдавайсь в тугу:
+        бо Господь, Бог твій з тобою, куди б ти нї повернувсь."
+      bel_syomukha: "Вось Я загадваю табе: будзь цьвёрды і мужны, ня бойся і не
+        жахайся; бо з табою Гасподзь Бог твой усюды, куды ні пойдзеш."
+      spbda: "Вот Я заповедаю тебе: будь тверд и мужествен, не страшись и не ужасайся;
+        ибо с тобою Господь, Бог Твой, везде, куда ни пойдешь."
+      lev-khv: "Вот, Я заповедаю тебе: будь тверд и мужествен, не страшись и не
+        ужасайся; потому что с тобою Господь, Бог твой, везде, куда ни пойдешь."
+      czech: 'Neprikazal jsem ti snad: Bud rozhodny a udatny, nemej strach a nedes se,
+        nebot Hospodin, tvuj Buh, bude s tebou vsude, kam pujdes?"'
+      spanish: ¿No te mando yo? Esfuérzate, pues, y ten valor; nada te asuste, nada
+        temas, porque Yavé, tu Dios, irá contigo adondequiera que tú vayas>>.
+      greek-lxx: ἰδοὺ ἐντέταλμαί σοι ἴσχυε καὶ ἀνδρίζου μὴ δειλιάσῃς μηδὲ φοβηθῇς ὅτι
+        μετὰ σοῦ Κύριος ὁ Θεός σου εἰς πάντα οὗ ἐὰν πορεύῃ
+      st_text: "Вот Я повелеваю тебе: будь тверд и мужествен, не страшись и не
+        ужасайся; ибо с тобою Господь Бог твой везде, куда ни пойдешь."
+  - id: 26899
+    number: 10
+    bookId: 6
+    text: "И дал Иисус повеление надзирателям народа и сказал:"
+    chapter: 1
+    chapterId: 188
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И заповеда иисус книгочиям людским, глаголя:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# заповёда їисyсъ книго1чіzмъ людски6мъ, глаго1лz:"
+      sovr_rbo: Иисус велел старостам
+      latin: "Praecepitque Josue principibus populi, dicens: Transite per medium
+        castrorum, et imperate populo, ac dicite:"
+      ukr: "І наказав Ісус урядникам народу, говорячи:"
+      nkjv: Then Joshua commanded the officers of the people, saying,
+      desnitsky: ""
+      mt: ‫    וַיְצַו יְהוֹשֻׁעַ אֶת־שֹׁטְרֵי הָעָם לֵאמֹר׃ ‬
+      romana: "Atunci a poruncit Iosua capeteniilor poporului si a zis:"
+      francais: "Josué donna cet ordre aux officiers du peuple:"
+      italian: "Allora Giosuè comandò agli scribi del popolo:"
+      old_georgian: "და უბრძანა ისო მწიგნობართა ერისათა და ჰრქუა: შევედით შორის
+        ბანაკსა ამას ერისასა და ამცენით ერსა ამას და არქუთ:"
+      portuguese: "Jozue rozkazał wówczas zwierzchnikom ludu, mówiąc:"
+      turkish: "Bunun üzerine Yeşu, halkın görevlilerine şöyle buyurdu:"
+      nrt: "И Иисус приказал начальникам народа:"
+      Macarius: "Иисус дал повеление надзирателям народа и сказал:"
+      serbian: "Тада заповједи Исус управитељима народнијем говорећи:"
+      bulgarian: "Тогава Иисус заповяда на народните надзорници и рече:"
+      pavskiy: "Затем Иисус дал повеление надзирателям народа, и сказал:"
+      deutsch: "Da gebot Josua den Hauptleuten des Volks und sprach:"
+      ukr2: "І повелів Ісус начальникам народу:"
+      ukr3: "Тодї дав Йозей начальникам народнїм такий наказ:"
+      bel_syomukha: "І даў Ісус наказ наглядчыкам народу і сказаў:"
+      spbda: "И повелел Иисус надзирателям народа, сказав:"
+      lev-khv: "И повелел Иисус надзирателям народа, сказав:"
+      czech: "I prikazal Jozue spravcum lidu:"
+      spanish: "Dio, pues, Josué a los oficiales del pueblo esta orden:"
+      greek-lxx: καὶ ἐνετείλατο Ἰησοῦς τοῖς γραμματεῦσιν τοῦ λαοῦ λέγων
+      st_text: "И дал Иисус повеление надзирателям народа и сказал:"
+  - id: 26900
+    number: 11
+    bookId: 6
+    text: "пройдите по стану и дайте повеление народу и скажите: заготовляйте себе
+      пищу для пути, потому что, спустя три дня, вы пойдете за Иордан сей, дабы
+      придти взять землю, которую Господь Бог [отцов] ваших дает вам в
+      наследие."
+    chapter: 1
+    chapterId: 188
+    parallels:
+      - verseId: 27381
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 3
+        short: Нав:3:2
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "внидите посреде полка людий и заповедайте людем, глаголюще: уготовайте
+        брашно, яко еще три дни, и вы прейдете иордан сей, вшедше прияти землю,
+        юже Господь Бог отец ваших дает вам в причастие."
+      averincev: ""
+      ungerov: ""
+      csya_old: "вни1дите посредЁ полкA людjй и3 заповёдайте лю1демъ, глаго1люще:
+        ўгото1вайте брaшно, ћкw є3ще2 три2 дни6, и3 вы2 пре1йдете їoрдaнъ се1й,
+        вше1дше пріsти зе1млю, ю4же гDь бг7ъ nтє1цъ вaшихъ дае1тъ вaмъ въ
+        причaстіе."
+      sovr_rbo: "обойти весь стан и передать народу приказ: «Готовьте еду в дорогу.
+        Через три дня вы перейдете Иордан, чтобы овладеть страной, которую вам
+        дарует Господь, ваш Бог»."
+      latin: "Praeparate vobis cibaria: quoniam post diem tertium transibitis
+        Jordanem, et intrabitis ad possidendam terram, quam Dominus Deus vester
+        daturus est vobis."
+      ukr: "Перейдіть посеред табору, і накажіть народові, говорячи: Приготуйте собі
+        поживу на дорогу, бо по трьох днях ви переходите цей Йордан, щоб увійти
+        посісти той Край, що Господь, Бог ваш, дає вам його на спадщину."
+      nkjv: "\"Pass through the camp and command the people, saying, 'Prepare
+        provisions for yourselves, for within three days you will cross over
+        this Jordan, to go in to possess the land which the Lord your God is
+        giving you to possess.' \" "
+      desnitsky: ""
+      mt: ‫    עִבְרוּ בְּקֶרֶב הַמַּחֲנֶה וְצַוּוּ אֶת־הָעָם לֵאמֹר הָכִינוּ לָכֶם
+        צֵידָה כִּי בְּעוֹד שְׁלֹשֶׁת יָמִים אַתֶּם עֹבְרִים אֶת־הַיַּרְדֵּן
+        הַזֶּה לָבוֹא לָרֶשֶׁת אֶת־הָאָרֶץ אֲשֶׁר יְהוָה אֱלֹהֵיכֶם נֹתֵן לָכֶם
+        לְרִשְׁתָּהּ׃ ס ‬
+      romana: '"Treceti prin tabara si porunciti poporului si-i ziceti: Pregatiti-va
+        merinde de drum, ca dupa trei zile veti trece peste Iordanul acesta, ca
+        sa mergeti si sa luati in stapanire pamantul pe care Domnul Dumnezeul
+        parintilor vostri are sa vi-l dea".'
+      francais: "Parcourez le camp, et voici ce que vous commanderez au peuple:
+        Préparez-vous des provisions, car dans trois jours vous passerez ce
+        Jourdain pour aller conquérir le pays dont l'Éternel, votre Dieu, vous
+        donne la possession."
+      italian: "\"Passate in mezzo all'accampamento e comandate al popolo: Fatevi
+        provviste di viveri, poiché fra tre giorni voi passerete questo
+        Giordano, per andare ad occupare il paese che il Signore vostro Dio vi
+        da' in possesso\"."
+      old_georgian: აღჰმზადეთ საგზალი, რამეთუ შემდგომად სამისა დღისა წიაღსლვად ხართ
+        იორდანესა ამას. შეხჳდეთ დაპყრობად ქუეყანისა მის, რომელი უფალმან ღმერთმან
+        მამათა თქუენთამან მოგცეს თქუენ სამკჳდრებელად.
+      portuguese: "”Przejdźcie przez obóz i nakażcie ludowi: Przygotujcie sobie
+        żywność, gdyż po\rtrzech dniach przeprawicie się przez ten Jordan,
+        abyście zajęli ziemię, którą\rPan, Bóg wasz, daje wam w posiadanie”."
+      turkish: "«Ordugahın ortasından geçip halka şu buyruğu verin: `Kendinize kumanya
+        hazırlayın. Çünkü Tanrınız RAB'bin size vereceği ülkeye girip orayı mülk
+        edinmek için üç gün sonra Şeria Irmağı'nı geçeceksiniz.'»"
+      nrt: "– Пройдите по лагерю и скажите народу: «Запаситесь едой, потому что через
+        три дня вы переправитесь здесь через Иордан, чтобы войти и завладеть
+        землей, которую Господь, ваш Бог, дает вам во владение»."
+      Macarius: "Пройдите по стану и дайте повеление народу, и скажите: заготовляйте
+        себе пищу для пути: потому что спустя три дня вы пойдете за Иордан сей,
+        дабы пойти, взять в наследие землю, которую Иегова, Бог [отцев] ваших,
+        дает вам в наследие."
+      serbian: "Прођите кроз око и заповједите народу говорећи: Спремите себи
+        брашњенице; јер ћете до три дана пријећи преко Јордана да уђете и узмете
+        земљу коју вам Господ Бог ваш даје у нашљедство."
+      bulgarian: "идете по стана и дайте заповед на народа и кажете: приготвяйте си
+        храна за път, защото след три дни ще преминете този Иордан, и ще влезете
+        да превземете земята, която Господ, Бог на вашите отци, ви дава за
+        наследство."
+      pavskiy: "Пройдите по стану, и дайте повеление народу, и скажите: заготовляйте
+        себе пищу для пути: потому что, спустя три дня, вы пойдете за Иордан
+        сей, дабы пойти взять в наследие землю, которую Иегова, Бог ваш, дает
+        вам в наследие."
+      deutsch: "Geht durch das Lager und gebietet dem Volk und sprecht: Schafft euch
+        Vorrat; denn über drei Tage werdet ihr über diesen Jordan gehen, daß ihr
+        hineinkommt und das Land einnehmt, daß euch der Herr, euer Gott, geben
+        wird."
+      ukr2: "“Перейдіть посеред народу й накажіть народові: Заготуйте собі живности,
+        бо через три дні ви перейдете через оцей Йордан, щоб увійти і зайняти
+        землю, що Господь, Бог ваш, дає вам у посілість.”"
+      ukr3: "Пройдїте через табір та звелїть народові: Заготуйте живности: бо через
+        три днї переходити меш через Йордань сю, щоб увійти й осягти землю в
+        державу, що Господь, Бог ваш, дає вам в наслїддє."
+      bel_syomukha: "прайдзеце па табары і дайце наказ народу і скажэце: назапашвайце
+        сабе ежы на дарогу, бо праз тры дні вы пройдзеце за Ярдан гэты, каб
+        прыйсьці ўзяць зямлю, якую Гасподзь Бог бацькоў вашых дае вам у
+        спадчыну."
+      spbda: "Пройдите по стану и дайте повеление народу, говоря: заготовляйте себе
+        пищу: ибо спустя три дня вы перейдете Иордан сей, дабы пойти овладеть
+        землею, которую Господь, Бог вашь, дает вам во владение."
+      lev-khv: "Пройдите посреди стана и дайте повеление народу, говоря: заготовляйте
+        себе пищу; потому что, спустя три дня, вы перейдете этот Иордан, чтобы
+        пойти овладеть землею, которую Господь, Бог ваш, дает вам во владение."
+      czech: '"Projdete taborem a prikazte lidu: Pripravte si zasobu potravin, nebot
+        po trech dnech prejdete tento Jordan a pujdete obsadit zemi, kterou vam
+        Hospodin, vas Buh, dava do vlastnictvi."'
+      spanish: "<<Recorred el campamento y dad esta orden al pueblo: Preparaos y
+        proveeos, porque dentro de tres días pasaréis ese Jordán para ir a
+        ocupar la tierra que Yavé, vuestro Dios, os da en posesión>>."
+      greek-lxx: εἰσέλθατε κατὰ μέσον τῆς παρεμβολῆς τοῦ λαοῦ καὶ ἐντείλασθε τῷ λαῷ
+        λέγοντες ἑτοιμάζεσθε ἐπισιτισμόν ὅτι ἔτι τρεῖς ἡμέραι καὶ ὑμεῖς
+        διαβαίνετε τὸν Ιορδάνην τοῦτον εἰσελθόντες κατασχεῖν τὴν γῆν ἣν Κύριος ὁ
+        Θεὸς τῶν πατέρων ὑμῶν δίδωσιν ὑμῖν
+      st_text: "пройдите по стану и дайте повеление народу и скажите: заготовляйте
+        себе пищу для пути, потому что, спустя три дня, вы пойдете за Иордан
+        сей, дабы придти взять землю, которую Господь Бог [отцов] ваших дает вам
+        в наследие."
+  - id: 26901
+    number: 12
+    bookId: 6
+    text: "А колену Рувимову, Гадову и половине колена Манассиина Иисус сказал:"
+    chapter: 1
+    chapterId: 188
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И рувиму и гаду и полуплемени манассиину рече иисус:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# руви1му и3 гaду и3 полупле1мени манассjину рече2 їисyсъ:"
+      sovr_rbo: "А племени Рувима, племени Гада и половине племени Манассии Иисус
+        сказал:"
+      latin: "Rubenitis quoque et Gaditis, et dimidiae tribui Manasse, ait:"
+      ukr: "А Рувимовому й Ґадовому та половині племени Манасіїного Ісус сказав,
+        говорячи:"
+      nkjv: And to the Reubenites, the Gadites, and half the tribe of Manasseh Joshua
+        spoke, saying,
+      desnitsky: ""
+      mt: ‫    וְלָראוּבֵנִי וְלַגָּדִי וְלַחֲצִי שֵׁבֶט הַמְנַשֶּׁה אָמַר יְהוֹשֻׁעַ
+        לֵאמֹר׃ ‬
+      romana: "Iar semintiei lui Ruben si semintiei lui Gad si la jumatate din
+        semintia lui Manase, Iosua le-a zis:"
+      francais: "Josué dit aux Rubénites, aux Gadites et à la demi-tribu de Manassé:"
+      italian: "Poi Giosuè disse ai Rubeniti, ai Gaditi e alla metà della tribù di
+        Manàsse:"
+      old_georgian: "და რუბენს და გადს და ზოგსა ნათესავსა მანასესსა ჰრქუა ისო:"
+      portuguese: "Następnie Jozue przemówił do Rubenitów, Gadytów i połowy pokolenia
+        Manassesa:"
+      turkish: "Yeşu, Ruben ve Gad oymaklarına ve Manaşşe oymağının yarısına da\rşöyle
+        dedi:"
+      nrt: "Но рувимитам, гадитам и половине рода Манассии Иисус сказал:"
+      Macarius: "А колену Рувимову, Гадову и половине колена Манассиина Иисус сказал:"
+      serbian: "А племену Рувимову и Гадову и половини племена Манасијина рече Исус
+        говорећи:"
+      bulgarian: "А на коляното Рувимово, Гадово и на полуколяното Манасиево Иисус каза:"
+      pavskiy: "А колену Рувимову, Гадову и половине колена Манассиина Иисус сказал:"
+      deutsch: "Und zu den Rubenitern, Gaditern und dem halben Stamm Manasse sprach
+        Josua:"
+      ukr2: "До рувимлян же та гадіїв та до півколіна манассіян Ісус промовив:"
+      ukr3: "До Рубенїїв же, Гадїїв та до пів поколїня роду Манассієвого промовив
+        Йозей так:"
+      bel_syomukha: "А племю Рувімаваму, Гадаваму і палавіне племя Манасіінага Ісус сказаў:"
+      spbda: "А колену Рувимову, Гадову и половине колена Манассиина Иисус сказал:"
+      lev-khv: "А <i>колену</i> Рувимову, Гадову и половине колена Манасиина сказал
+        Иисус так:"
+      czech: "Rubenovcum, Gadovcum a polovine kmene Manasesova pak Jozue rekl:"
+      spanish: "A los rubenitas y gaditas y a la media tribu de Manasés les dijo:"
+      greek-lxx: καὶ τῷ Ρουβην καὶ τῷ Γαδ καὶ τῷ ἡμίσει φυλῆς Μανασση εἶπεν Ἰησοῦς
+      st_text: "А колену Рувимову, Гадову и половине колена Манассиина Иисус сказал:"
+  - id: 26902
+    number: 13
+    bookId: 6
+    text: "вспомните, что заповедал вам Моисей, раб Господень, говоря: Господь Бог
+      ваш успокоил вас и дал вам землю сию;"
+    chapter: 1
+    chapterId: 188
+    parallels:
+      - verseId: 12080
+        bookId: 4
+        bookCode: cisla
+        chapter: 32
+        short: Чис:32:20
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "помяните слово, еже заповеда вам моисей раб Господень, глаголя: Господь
+        Бог ваш упокои вас и даде вам землю сию:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "помzни1те сло1во, є4же заповёда вaмъ мwmсе1й рaбъ гDень, глаго1лz:
+        гDь бг7ъ вaшъ ўпоко1и вaсъ и3 даде2 вaмъ зе1млю сію2:"
+      sovr_rbo: «Помните, какой наказ вам дал Моисей, раб Господа? Господь, ваш Бог,
+        отдал вам эти земли, даровал мирную жизнь.
+      latin: "Mementote sermonis, quem praecepit vobis Moyses famulus Domini, dicens:
+        Dominus Deus vester dedit vobis requiem, et omnem terram."
+      ukr: "Пам'ятайте те слово, що вам наказав був Мойсей, раб Господній, говорячи:
+        Господь, Бог ваш, що відпочинок дає вам, дав вам цей Край."
+      nkjv: "\"Remember the word which Moses the servant of the Lord commanded you,
+        saying, 'The Lord your God is giving you rest and is giving you this
+        land.' "
+      desnitsky: ""
+      mt: ‫    זָכוֹר אֶת־הַדָּבָר אֲשֶׁר צִוָּה אֶתְכֶם מֹשֶׁה עֶבֶד־יְהוָה לֵאמֹר
+        יְהוָה אֱלֹהֵיכֶם מֵנִיחַ לָכֶם וְנָתַן לָכֶם אֶת־הָאָרֶץ הַזֹּאת׃ ‬
+      romana: '"Aduceti-va aminte ce v-a poruncit Moise, sluga Domnului, cand v-a zis:
+        Domnul Dumnezeul vostru v-a linistit si v-a dat pamantul acesta.'
+      francais: "Rappelez-vous ce que vous a prescrit Moïse, serviteur de l'Éternel,
+        quand il a dit: L'Éternel, votre Dieu, vous a accordé du repos, et vous
+        a  donné ce pays."
+      italian: '"Ricordatevi di ciò che vi ha ordinato Mosè, servo del Signore: Il
+        Signore Dio vostro vi concede riposo e vi dà questo paese;'
+      old_georgian: "მოიჴსენეთ სიტყუაჲ, რომელ გამცნო თქუენ მოსე, მონამან უფლისამან, და
+        გრქუა: უფალმან ღმერთმან თქუენმან დაგადგინა თქუენ და მიგცა ქუეყანა ესე."
+      portuguese: "”Przypomnijcie sobie rozkaz, jaki dał wam Mojżesz, sługa Pana, gdy
+        rzekł:\rPan, Bóg wasz, strzeże waszego pokoju i oddaje wam tę ziemię."
+      turkish: "«RAB'bin kulu Musa'nın, `Tanrınız RAB bu ülkeyi size verip\rsizi
+        rahata erdirecek' dediğini anımsayın."
+      nrt: "– Помните повеление, которое дал вам Моисей, слуга Господа: «Господь, ваш
+        Бог, дал вам покой и даровал эту землю»."
+      Macarius: "Вспомните, что заповедал вам Моисей, раб Господень, говоря: Иегова,
+        Бог ваш, успокоил вас и дал вам землю сию."
+      serbian: "Опомените се шта вам је заповједио Мојсије, слуга Господњи, рекав:
+        Господ Бог ваш смири вас и даде вам ову земљу."
+      bulgarian: "спомнете си, що ви заповяда Моисей, раб Господен, думайки: Господ,
+        Бог ваш, ви успокои и ви даде тази земя;"
+      pavskiy: "Вспомните, что заповедал вам Моисей, раб Господень, говоря: Иегова,
+        Бог ваш, успокоил вас, и дал вам землю сию."
+      deutsch: "Gedenket an das Wort, das euch Mose, der Knecht des Herrn, sagte und
+        sprach: Der Herr, euer Gott, hat euch zur Ruhe gebracht und dies Land
+        gegeben."
+      ukr2: "“Спогадайте слово, що вам заповідав Мойсей, слуга Господній, коли сказав:
+        Господь, Бог ваш, дав вам спокій і дав вам цю землю."
+      ukr3: "Спогадайте слово, що вам заповідав раб Господень Мойсей: Господь, Бог
+        ваш, провів вас на певне місце і надїлив вам сю землю."
+      bel_syomukha: "успомніце, што наказаў вам Майсей, раб Гасподні, кажучы: Гасподзь
+        Бог ваш супакоіў вас і даў вам зямлю гэтую;"
+      spbda: "Вспомните, чтó заповедал вам Моисей, раб Господень, говоря: Господь, Бог
+        ваш, успокоил вас и дал вам землю сию."
+      lev-khv: "Вспомните, чтó заповедал вам Моисей, раб Господень, говоря: Господь,
+        Бог ваш, успокоил вас и дал вам эту землю."
+      czech: "\"Pamatujte na to, co vam prikazal Mojzis, sluzebnik Hospodinuv. Rekl:
+        ‚Hospodin, vas Buh, vas privede do odpocinuti a da vam tuto zemi.'"
+      spanish: "<<Acordaos de lo que os mandó Moisés, siervo de Yavé, diciéndoos:
+        Yavé, vuestro Dios, os ha concedido el reposo, dándoos esta tierra."
+      greek-lxx: μνήσθητε τὸ ῥῆμα Κυρίου ὃ ἐνετείλατο ὑμῖν Μωυσῆς ὁ παῖς Κυρίου λέγων
+        Κύριος ὁ Θεὸς ὑμῶν κατέπαυσεν ὑμᾶς καὶ ἔδωκεν ὑμῖν τὴν γῆν ταύτην
+      st_text: "вспомните, что заповедал вам Моисей, раб Господень, говоря: Господь
+        Бог ваш успокоил вас и дал вам землю сию;"
+  - id: 26903
+    number: 14
+    bookId: 6
+    text: жены ваши, дети ваши и скот ваш пусть останутся в земле, которую дал вам
+      Моисей за Иорданом; а вы все, могущие сражаться, вооружившись идите пред
+      братьями вашими и помогайте им,
+    chapter: 1
+    chapterId: 188
+    parallels:
+      - verseId: 12089
+        bookId: 4
+        bookCode: cisla
+        chapter: 32
+        short: Чис:32:29
+      - verseId: 27408
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 4
+        short: Нав:4:12
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "жены ваши и дети ваши и скоти ваши да живут на земли, юже даде вам моисей
+        у иордана: вы же прейдете вооружени пред братиею вашею, всяк крепок, и
+        споборствуете им,"
+      averincev: ""
+      ungerov: ""
+      csya_old: "жєны2 вaши и3 дёти вaши и3 ско1ти вaши да живyтъ на земли2, ю4же
+        даде2 вaмъ мwmсе1й ў їoрдaна: вы1 же пре1йдете воwруже1ни пред8 брaтіею
+        вaшею, всsкъ крёпокъ, и3 спобо1рствуете и5мъ,"
+      sovr_rbo: Пусть же теперь ваши жены, дети и скот остаются здесь, за Иорданом, на
+        землях, которые вам дал Моисей, — а вы, воины, идите в боевом строю в
+        первых рядах сынов Израилевых. Помогайте им,
+      latin: "Uxores vestrae, et filii, ac jumenta manebunt in terra, quam tradidit
+        vobis Moyses trans Jordanem: vos autem transite armati ante fratres
+        vestros, omnes fortes manu, et pugnate pro eis,"
+      ukr: Ваші жінки, діти ваші та ваша худоба зостануться в Краї, що дав вам Мойсей
+        по той бік Йордану, а ви перейдете озброєні перед вашими братами, усі
+        сильні військові, і допоможете їм,
+      nkjv: Your wives, your little ones, and your livestock shall remain in the land
+        which Moses gave you on this side of the Jordan. But you shall pass
+        before your brethren armed, all your mighty men of valor, and help them,
+      desnitsky: ""
+      mt: ‫    נְשֵׁיכֶם טַפְּכֶם וּמִקְנֵיכֶם יֵשְׁבוּ בָּאָרֶץ אֲשֶׁר נָתַן לָכֶם
+        מֹשֶׁה בְּעֵבֶר הַיַּרְדֵּן וְאַתֶּם תַּעַבְרוּ חֲמֻשִׁים לִפְנֵי
+        אֲחֵיכֶם כֹּל גִּבּוֹרֵי הַחַיִל וַעֲזַרְתֶּם אוֹתָם׃ ‬
+      romana: Femeile voastre, copiii vostri si vitele voastre sa ramana in pamantul
+        pe care vi l-a dat Moise dincoace de Iordan, iar voi toti cati puteti
+        lupta, inarmandu-va, duceti-va inaintea fratilor vostri si le ajutati,
+      francais: Vos femmes, vos petits enfants et vos troupeaux resteront dans le pays
+        que vous a donné Moïse de ce côté-ci du Jourdain; mais vous tous, hommes
+        vaillants, vous passerez en armes devant vos frères, et vous les
+        aiderez,
+      italian: le vostre mogli, i vostri bambini e il vostro bestiame rimarranno nella
+        terra che vi ha assegnata Mosè oltre il Giordano; voi tutti invece,
+        prodi guerrieri, passerete ben armati davanti ai vostri fratelli, e li
+        aiuterete,
+      old_georgian: დედა-წული თქუენი და საცხოვარი თქუენი შეიყვანენ ქუეყანასა მას,
+        რომელ მიგცე თქუენ. ხოლო თქუენ წიაღხჳდეთ, ჭაბუკნი, პირველად ძმათა თქუენთა
+        ყოველსა, რომელსა უძლავს, და შეეწინეთ მათ,
+      portuguese: "Wasze żony, dzieci i trzody mogą pozostać w kraju, który dał wam
+        Mojżesz\rza Jordanem. Wy jednak musicie wyruszyć uzbrojeni na czele
+        swych braci,\rwszyscy zdolni do boju mężczyźni, i musicie im pomóc,"
+      turkish: Kadınlarınız, çocuklarınız ve hayvanlarınız Şeria Irmağı'nın doğusunda,
+        Musa'nın size verdiği topraklarda kalsın. Ama sizler, bütün yiğit
+        savaşçılar, silahlı olarak kardeşlerinizden önce ırmağı geçip onlara
+        yardım edin.
+      nrt: Ваши жены, дети и скот могут остаться в земле, которую Моисей дал вам к
+        востоку от Иордана, но все ваши воины в полном вооружении должны
+        переправиться впереди ваших братьев. Вы должны помогать вашим братьям,
+      Macarius: "Жены ваши, и дети ваши и скот ваш пусть останутся в земле, которую
+        дал вам Моисей за Иорданом: а вы все, могущие сражаться, вооружившись,
+        идите пред братьями вашими и помогайте им,"
+      serbian: Жене ваше, дјеца ваша, и стока ваша нека остану у земљи коју вам даде
+        Мојсије с ову страну Јордана; ви пак пријеђите под оружјем пред браћом
+        својом, који сте год за војску, и помозите им,
+      bulgarian: жените ви, децата ви и добитъкът ви нека останат в земята, която
+        Моисей ви даде отсам Иордан; а вие всички, които можете да воювате,
+        въоръжени тръгнете пред братята си и им помагайте,
+      pavskiy: "Жены ваши, дети ваши и скот ваш пусть останутся в земле, которую дал
+        вам Моисей за Иорданом: а вы все, могущие сражаться, вооружившись, идите
+        пред братьями вашими, и помогайте им:"
+      deutsch: Eure Weiber und Kinder und Vieh laßt in dem Lande bleiben, das euch
+        Mose gegeben hat, diesseit des Jordans; ihr aber sollt vor euren Brüdern
+        her ziehen gerüstet, was streitbare Männer sind, und ihnen helfen,
+      ukr2: Жінки ваші, діти ваші й ваша скотина зостануться в землі, що Мойсей дав
+        вам по цім боці Йордану; ви ж усі, боєздатні люди, виступите збройно на
+        чолі з братами вашими і допоможете їм,
+      ukr3: Ваші жени, ваша малеча й ваша скотина зіставати муться в землї, що Мойсей
+        вам дав по тім боцї Йорданї; та ви, ввесь боєвий люд, ідїть перед браттю
+        вашим збройно, та й помагайте їм,
+      bel_syomukha: жонкі вашыя, дзеці вашыя і быдла ваша няхай застануцца ў зямлі,
+        якую даў вам Майсей за Ярданам; а вы ўсе, хто можа змагацца,
+        узброіўшыся, ідзеце перад братамі вашымі і пасабляйце ім.
+      spbda: "Жены ваши, дети ваши и скот ваш пусть останутся в земле, которую дал вам
+        Моисей за Иорданом; а вы пройдите вооруженными пред братьями вашими, все
+        храбрые воины из вас, и помогайте им:"
+      lev-khv: Жены ваши, дети ваши и скот ваш пусть останутся в земле, которую дал
+        вам Моисей за Иорданом; а вы пройдите вооруженными пред братьями вашими,
+        все храбрые воины <i>из вас</i>, и помогайте им,
+      czech: Vase zeny, deti a stada necht zustanou v zemi, kterou vam dal Mojzis v
+        Zajordani. Ale vy ostatni, udatni bohatyri, vojensky serazeni prejdete
+        pred svymi bratrimi reku a budete jim pomahat,
+      spanish: Vuestras mujeres, vuestros niños y vuestros ganados quedarán en la
+        tierra que Moisés os dio de este lado del Jordán; pero vosotros,
+        armados, iréis delante de vuestros hermanos, todos vuestros hombres
+        fuertes y valientes, y los auxiliaréis,
+      greek-lxx: αἱ γυναῖκες ὑμῶν καὶ τὰ παιδία ὑμῶν καὶ τὰ κτήνη ὑμῶν κατοικείτωσαν
+        ἐν τῇ γῇ ᾗ ἔδωκεν ὑμῖν ὑμεῖς δὲ διαβήσεσθε εὔζωνοι πρότεροι τῶν ἀδελφῶν
+        ὑμῶν πᾶς ὁ ἰσχύων καὶ συμμαχήσετε αὐτοῖς
+      st_text: жены ваши, дети ваши и скот ваш пусть останутся в земле, которую дал
+        вам Моисей за Иорданом; а вы все, могущие сражаться, вооружившись идите
+        пред братьями вашими и помогайте им,
+  - id: 26904
+    number: 15
+    bookId: 6
+    text: доколе Господь [Бог ваш] не успокоит братьев ваших, как и вас; доколе и
+      они не получат в наследие землю, которую Господь Бог ваш дает им; тогда
+      возвратитесь в наследие ваше и владейте землею, которую Моисей, раб
+      Господень, дал вам за Иорданом к востоку солнца.
+    chapter: 1
+    chapterId: 188
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "дондеже упокоит Господь Бог ваш братию вашу, якоже и вас, и наследят и
+        сии землю, юже Господь Бог ваш дает им: и отъидете кийждо в наследие
+        свое, и наследите е, еже даде вам моисей об ону страну иордана от
+        востоков солнца."
+      averincev: ""
+      ungerov: ""
+      csya_old: "до1ндеже ўпоко1итъ гDь бг7ъ вaшъ брaтію вaшу, ћкоже и3 вaсъ, и3
+        наслёдzтъ и3 сjи зе1млю, ю4же гDь бг7ъ вaшъ дае1тъ и5мъ: и3 tи1дете
+        кjйждо въ наслёдіе свое2, и3 наслёдите є5, є4же даде2 вaмъ мwmсе1й њб8
+        nнY странY їoрдaна t восто1кwвъ со1лнца."
+      sovr_rbo: пока Господь не дарует им мирную жизнь, как даровал ее вам. А когда
+        они овладеют той страной, которую им дарует Господь, ваш Бог, вы
+        вернетесь в свои владения — в земли, которые вам дал Моисей, раб
+        Господа, к востоку от Иордана» .
+      latin: "donec det Dominus requiem fratribus vestris sicut et vobis dedit, et
+        possideant ipsi quoque terram, quam Dominus Deus vester daturus est eis:
+        et sic revertimini in terram possessionis vestrae, et habitabitis in ea,
+        quam vobis dedit Moyses famulus Domini trans Jordanem contra solis
+        ortum."
+      ukr: аж поки Господь не дасть відпочинку вашим братам, як вам, і посядуть і вони
+        той Край, що Господь, Бог ваш, дає їм. І ви вернетеся до Краю вашого
+        спадку, і посядете його, що дав вам Мойсей, раб Господній, по той бік
+        Йордану на схід сонця.
+      nkjv: "until the Lord has given your brethren rest, as He gave you, and they
+        also have taken possession of the land which the Lord your God is giving
+        them. Then you shall return to the land of your possession and enjoy it,
+        which Moses the Lord's servant gave you on this side of the Jordan
+        toward the sunrise.\" "
+      desnitsky: ""
+      mt: ‫    עַד אֲשֶׁר־יָנִיחַ יְהוָה לַאֲחֵיכֶם כָּכֶם וְיָרְשׁוּ גַם־הֵמָּה
+        אֶת־הָאָרֶץ אֲשֶׁר־יְהוָה אֱלֹהֵיכֶם נֹתֵן לָהֶם וְשַׁבְתֶּם לְאֶרֶץ
+        יְרֻשַּׁתְכֶם וִירִשְׁתֶּם אוֹתָהּ אֲשֶׁר נָתַן לָכֶם מֹשֶׁה עֶבֶד
+        יְהוָה בְּעֵבֶר הַיַּרְדֵּן מִזְרַח הַשָּׁמֶשׁ׃ ‬
+      romana: Pana ce Domnul Dumnezeul vostru va linisti si pe fratii vostri, cum va
+        linistit si pe voi, si pana ce vor primi si ei de mostenire pamantul pe
+        care Domnul Dumnezeul vostru il da lor. Atunci va veti intoarce in
+        mostenirea voastra si veti stapani pamantul pe care Moise, sluga
+        Domnului, vi l-a dat dincolo de Iordan, spre rasaritul soarelui".
+      francais: jusqu'à ce que l'Éternel ait accordé du repos à vos frères comme à
+        vous, et qu'ils soient aussi en possession du pays que l'Éternel, votre
+        Dieu, leur donne. Puis vous reviendrez prendre possession du pays qui
+        est votre propriété, et que vous a donné Moïse, serviteur de l'Éternel,
+        de ce côté-ci du Jourdain, vers le soleil levant.
+      italian: finché il Signore conceda riposo ai vostri fratelli, come a voi, e
+        anch'essi siano entrati in possesso del paese che il Signore Dio vostro
+        assegna loro. Allora ritornerete e possederete la terra della vostra
+        eredità, che Mosè, servo del Signore, diede a voi oltre il Giordano, ad
+        oriente".
+      old_georgian: ვიდრემდის დაფუძნეს უფალმან ღმერთმან თქუენმან ძმანი ეს თქუენნი,
+        ვითარცა-ეგე თქუენ. და დაიმკჳდრონ მათცა ქუეყანა იგი, რომელ უფალმან
+        ღმერთმან თქუენმან მოსცეს მათ. და მაშინ წარხჳდეთ კაცად-კაცად
+        სამკჳდრებელად თჳსად, რომელი მიგცა თქუენ მოსე წიაღ იორდანესა მზის
+        აღმოსავალით.
+      portuguese: "aż Pan użyczy pokoju braciom waszym, jak i wam, i aż oni również
+        posiądą\rziemię, którą da im Pan, Bóg wasz. Wtedy możecie wrócić do
+        kraju, który do\rwas należy i który dał wam Mojżesz, sługa Pana, po
+        drugiej stronie Jordanu,\rku wschodowi słońca”."
+      turkish: RAB sizi rahata erdirdiği gibi, onları da rahata erdirecek. Onlar
+        Tanrınız RAB'bin vereceği ülkeyi mülk edindikten sonra siz de mülk
+        edindiğiniz topraklara, RAB'bin kulu Musa'nın Şeria Irmağı'nın doğusunda
+        size verdiği topraklara dönüp oraya yerleşin.»
+      nrt: пока Господь не даст им покой, как Он сделал для вас самих, и пока они тоже
+        не завладеют землей, которую Господь, ваш Бог, дает им. После этого вы
+        сможете вернуться и занять свою землю, которую слуга Господа, Моисей,
+        дал вам к востоку от Иордана на восходе солнца.
+      Macarius: Пока Господь [Бог ваш] не успокоит братьев ваших, как и вас, пока и
+        они не получат в наследие землю, которую Иегова, Бог ваш, дает им. Тогда
+        возвратитесь в наследственную землю вашу и владейте ею, которую Моисей,
+        раб Господень, дал вам за Иорданом к востоку солнца.
+      serbian: Докле не смири Господ и браћу вашу као вас, и наслиједе и они земљу
+        коју им даје Господ Бог ваш; па се онда вратите на нашљедство своје које
+        вам је дао Мојсије, слуга Господњи, с ову страну Јордана к истоку, и
+        држите га.
+      bulgarian: докле Господ (Бог ваш) успокои братята ви, както и вас; докле и те
+        наследят земята, която Господ, Бог ваш, им дава; тогава се върнете в
+        наследството си и владейте земята, която Моисей, раб Господен, ви даде
+        отсам Иордан, към изгрев-слънце.
+      pavskiy: Пока Господь не успокоит братьевь ваших, как и вас, — пока и они не
+        получат в наследие землю, которую Иегова, Бог ваш, даст им. Тогда
+        возвратитесь в землю наследия вашего, и владейте сею землею, которую
+        Моисей, раб Господень, дал вам за Иорданом, к востоку солнца.
+      deutsch: bis daß der Herr eure Brüder auch zur Ruhe bringt wie euch, daß sie
+        auch einnehmen das Land, das ihnen der Herr, euer Gott, geben wird.
+        Alsdann sollt ihr wieder umkehren in euer Land, das euch Mose, der
+        Knecht des Herrn, gegeben hat zu besitzen diesseit des Jordans, gegen
+        der Sonne Aufgang.
+      ukr2: аж поки Господь не дасть спокою вашим братам, як і вам, і вони теж не
+        заволодіють землею, що Господь, Бог ваш, дасть їм. Тоді повернетесь собі
+        у вашу спадкоємну землю й володітимете нею, у землю, що Мойсей, раб
+        Господній, дав вам по цім боці Йордану, на схід сонця.”
+      ukr3: "Аж покіль і ваше браттє приведе Господь на певне займище, так само як оце
+        вас, і покіль вони також осягнуть землю, що надїлить їм Господь, Бог
+        ваш. Тодї вернетесь у вашу наслїдню землю та й возьмете її в державу: бо
+        Мойсей, Господень раб, указав її вам по тім боцї Йорданї на схід сонця."
+      bel_syomukha: пакуль Гасподзь не супакоіць братоў вашых, як і вас; пакуль і яны
+        не атрымаюць у спадчыну зямлю, якую Гасподзь Бог ваш дае ім; тады
+        вернецеся ў спадчыну вашую і валодайце зямлёю, якую Майсей, раб
+        Гасподні, даў вам за Ярданам на ўсход сонца.
+      spbda: Пока Господь не успокоит братьев ваших, как и вас, пока и они не овладеют
+        землею, которую Господь, Бог ваш, дает им. Тогда возвратитесь в
+        наследственную землю вашу и владейте ею, которую Моисей, раб Господень,
+        дал вам за Иорданом в востоку солнца.
+      lev-khv: Пока Господь не даст покоя братьям вашим, как и вам, <i>пока</i> и они
+        не овладеют землею, которую Господь, Бог ваш, дает им. Тогда
+        возвратитесь в наследственную землю вашу и владейте ею, которую дал вам
+        Моисей, раб Господень, за Иорданом к востоку солнца.
+      czech: dokud Hospodin neprivede do odpocinuti vase bratry jako vas. Az i oni
+        obsadi zemi, kterou jim dava Hospodin, vas Buh, vratite se do sve zeme a
+        obsadite ji; tu vam dal Mojzis, sluzebnik Hospodinuv, v Zajordani na
+        vychode."
+      spanish: hasta que Yavé haya dado a vuestros hermanos el reposo, como a
+        vosotros, tomando también ellos posesión de la tierra que Yavé, vuestro
+        Dios, les da. Después volveréis a la tierra que Moisés, siervo de Yavé,
+        os dio al lado de acá del Jordán, a oriente>>.
+      greek-lxx: ἕως ἂν καταπαύσῃ Κύριος ὁ Θεὸς ὑμῶν τοὺς ἀδελφοὺς ὑμῶν ὥσπερ καὶ ὑμᾶς
+        καὶ κληρονομήσωσιν καὶ οὗτοι τὴν γῆν ἣν Κύριος ὁ Θεὸς ἡμῶν δίδωσιν
+        αὐτοῖς καὶ ἀπελεύσεσθε ἕκαστος εἰς τὴν κληρονομίαν αὐτοῦ ἣν δέδωκεν ὑμῖν
+        Μωυσῆς εἰς τὸ πέραν τοῦ Ιορδάνου ἀπ᾿ ἀνατολῶν ἡλίου
+      st_text: доколе Господь [Бог ваш] не успокоит братьев ваших, как и вас; доколе и
+        они не получат в наследие землю, которую Господь Бог ваш дает им; тогда
+        возвратитесь в наследие ваше и владейте землею, которую Моисей, раб
+        Господень, дал вам за Иорданом к востоку солнца.
+  - id: 26905
+    number: 16
+    bookId: 6
+    text: "Они в ответ Иисусу сказали: все, что ни повелишь нам, сделаем, и куда ни
+      пошлешь нас, пойдем;"
+    chapter: 1
+    chapterId: 188
+    parallels:
+      - verseId: 21525
+        bookId: 2
+        bookCode: ishod
+        chapter: 19
+        short: Исх:19:8
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И отвещавше иисусу, реша: вся, елика заповеси нам, сотворим, и во всякое
+        место, аможе послеши нас, пойдем:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# tвэщaвше їисyсу, рёша: вс‰, є3ли6ка заповёси нaмъ, сотвори1мъ, и3
+        во всsкое мёсто, ѓможе по1слеши нaсъ, по1йдемъ:"
+      sovr_rbo: "Они ответили Иисусу: «Мы выполним все, что ты повелишь. Мы пойдем
+        туда, куда ты прикажешь."
+      latin: "Responderuntque ad Josue, atque dixerunt: Omnia, quae praecepisti nobis,
+        faciemus: et quocumque miseris, ibimus."
+      ukr: "А вони відповіли Ісусові, говорячи: Усе, що накажеш нам, ми зробимо, і до
+        всього, куди пошлеш нас, підемо."
+      nkjv: So they answered Joshua, saying, "All that you command us we will do, and
+        wherever you send us we will go.
+      desnitsky: ""
+      mt: ‫    וַיַּעֲנוּ אֶת־יְהוֹשֻׁעַ לֵאמֹר כֹּל אֲשֶׁר־צִוִּיתָנוּ נַעֲשֶׂה
+        וְאֶל־כָּל־אֲשֶׁר תִּשְׁלָחֵנוּ נֵלֵךְ׃ ‬
+      romana: 'Iar ei au raspuns lui Iosua si au zis: "Toate, oricate ne vei porunci,
+        vom face si oriunde ne vei trimite, vom merge.'
+      francais: "Ils répondirent à Josué, en disant: Nous ferons tout ce que tu nous
+        as ordonné, et nous irons partout où tu nous enverras."
+      italian: 'Essi risposero a Giosuè: "Faremo quanto ci hai ordinato e noi andremo
+        dovunque ci manderai.'
+      old_georgian: "და მიუგეს ისოს და ჰრქუეს: ყოველი, რავდენიცა გუამცნო, ჩუენ ვყოთ."
+      portuguese: "Odpowiedzieli więc Jozuemu tymi słowami: ”Wszystko, coś nam
+        rozkazał,\ruczynimy i gdziekolwiek nas poślesz, pójdziemy."
+      turkish: Önderler Yeşu'ya, «Bize ne buyurduysan yapacağız» diye karşılık
+        verdiler, «Bizi nereye gönderirsen gideceğiz.
+      nrt: "Они ответили Иисусу: – Мы исполним все, что бы ты ни приказал нам, и куда
+        бы ты ни направил нас, мы пойдем."
+      Macarius: "Они в ответ Иисусу сказали: все, что ни повелишь нам, сделаем, и куда
+        ни пошлешь нас, пойдем."
+      serbian: "А они одговорише Исусу говорећи: Што си нам год заповједио чинићемо, и
+        куда нас год пошљеш ићи ћемо."
+      bulgarian: "Те отговориха на Иисуса и казаха: всичко, що ни заповядаш, ще
+        сторим, и където и да ни пратиш, ще отидем;"
+      pavskiy: "Они в ответ Иисусу сказали: все, что ни повелишь нам, будем делать, и
+        куда ни пошлешь нас, пойдем."
+      deutsch: "Und sie antworteten Josua und sprachen: Alles, was du uns geboten
+        hast, das wollen wir tun; und wo du uns hinsendest, da wollen wir hin
+        gehen."
+      ukr2: "І відповіли вони Ісусові: “Усе, що повелів єси нам, зробимо, і куди б ти
+        нас не післав, підемо."
+      ukr3: "І відказали вони Йозейові так: Все, що звелїв єси нам, чинити мем, і куди
+        нї посилати меш нас, ходити мем."
+      bel_syomukha: "Яны адказалі Ісусу кажучы: усё, што ні загадаеш нам, зробім, і
+        куды ні пашлеш нас, пойдзем;"
+      spbda: "И отвечали они Иисусу, говоря: все, чтó ни повелишь нам, сделаем, и куда
+        ни пошлешь нас, пойдем."
+      lev-khv: "И отвечали они Иисусу, говоря: все, чтó ни повелишь нам, сделаем, и
+        куда ни пошлешь нас, пойдем."
+      czech: 'Odpovedeli Jozuovi: "Ucinime vsechno, co jsi nam prikazal, a pujdeme
+        vsude, kam nas posles.'
+      spanish: "Ellos respondieron a Josué, diciendo: <<Cuanto nos mandas lo haremos,
+        y adondequiera que nos envíes iremos."
+      greek-lxx: καὶ ἀποκριθέντες τῷ Ἰησοῖ εἶπαν πάντα ὅσα ἂν ἐντείλῃ ἡμῖν ποιήσομεν
+        καὶ εἰς πάντα τόπον οὗ ἐὰν ἀποστείλῃς ἡμᾶς πορευσόμεθα
+      st_text: "Они в ответ Иисусу сказали: все, что ни повелишь нам, сделаем, и куда
+        ни пошлешь нас, пойдем;"
+  - id: 26906
+    number: 17
+    bookId: 6
+    text: "как слушали мы Моисея, так будем слушать и тебя: только Господь, Бог
+      твой, да будет с тобою, как Он был с Моисеем;"
+    chapter: 1
+    chapterId: 188
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "по всем, елика слушахом моисеа, тебе послушаем: токмо да будет Господь
+        Бог наш с тобою, якоже бе с моисеем:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "по всBмъ, є3ли6ка слyшахомъ мwmсе1а, тебе2 послyшаемъ: то1кмw да
+        бyдетъ гDь бг7ъ нaшъ съ тобо1ю, ћкоже бЁ съ мwmсе1емъ:"
+      sovr_rbo: Мы будем повиноваться тебе, как повиновались Моисею, — только пусть
+        Господь, твой Бог, будет с тобою, как Он был с Моисеем.
+      latin: "Sicut obedivimus in cunctis Moysi, ita obediemus et tibi: tantum sit
+        Dominus Deus tuus tecum, sicut fuit cum Moyse."
+      ukr: Усе так, як слухалися ми Мойсея, так будемо слухатися тебе, тільки нехай
+        буде Господь, Бог твій, з тобою, як був Він із Мойсеєм.
+      nkjv: Just as we heeded Moses in all things, so we will heed you. Only the Lord
+        your God be with you, as He was with Moses.
+      desnitsky: ""
+      mt: ‫    כְּכֹל אֲשֶׁר־שָׁמַעְנוּ אֶל־מֹשֶׁה כֵּן נִשְׁמַע אֵלֶיךָ רַק יִהְיֶה
+        יְהוָה אֱלֹהֶיךָ עִמָּךְ כַּאֲשֶׁר הָיָה עִם־מֹשֶׁה׃ ‬
+      romana: Cum am ascultat pe Moise, asa te vom asculta si pe tine, numai sa fie
+        Domnul Dumnezeul tau cu tine cum a fost cu Moise.
+      francais: Nous t'obéirons entièrement, comme nous avons obéi à Moïse. Veuille
+        seulement l'Éternel, ton Dieu, être avec toi, comme il a été avec Moïse!
+      italian: Come abbiamo obbedito in tutto a Mosè, così obbediremo a te; ma il
+        Signore tuo Dio sia con te come è stato con Mosè.
+      old_georgian: და ყოველსა ადგილსა, რომელსა მიგუავლინნე ჩუენ, მივიდეთ; ყოვლითა,
+        რავდენითა ვერჩდით მოსეს, გერჩდეთ შენცა, გარნა უფალი ღმერთი ჩუენი იყავნ
+        შენ თანა, ვითარცა იყო მოსეს თანა.
+      portuguese: "Jak posłuszni byliśmy we wszystkim Mojżeszowi, tak będziemy
+        posłuszni i\rtobie. Oby tylko Pan, Bóg twój, był z tobą, jak był z
+        Mojżeszem."
+      turkish: Her durumda Musa'nın sözünü dinlediğimiz gibi, senin sözünü de
+        dinleyeceğiz. Yeter ki, Musa'yla birlikte olmuş olan Tanrın RAB seninle
+        de birlikte olsun.
+      nrt: Как мы слушались Моисея, так будем слушаться и тебя. Только пусть Господь,
+        твой Бог, будет с тобой, как Он был с Моисеем.
+      Macarius: Как слушали мы Моисея, так будем слушать и тебя; только Иегова, Бог
+        твой, да будет с тобою, как Он был с Моисеем.
+      serbian: Слушаћемо те како смо слушали Мојсија; само нека Господ Бог твој буде с
+        тобом као што је био с Мојсијем.
+      bulgarian: както слушахме Моисея, тъй ще слушаме и тебе; само Господ, Бог твой,
+        да бъде с тебе, както беше с Моисея;
+      pavskiy: Как слушали мы Моисея, так будем слушать и тебя; только Иегова, Бог
+        твой, да будет с тобою, как Он был с Моисеем.
+      deutsch: Wie wir Mose gehorsam sind gewesen, so wollen wir dir auch gehorsam
+        sein; allein, daß der Herr, dein Gott, nur mit dir sei, wie er mit Mose
+        war.
+      ukr2: Так, як слухалися ми в усьому Мойсея, так слухатимемо й тебе, аби тільки
+        Господь, Бог твій, був з гобою, як був з Мойсеєм.
+      ukr3: Так як слухали Мойсея у всьому, так слухати мемо й тебе, аби тільки
+        Господь, Бог твій, бував з тобою, як він бував із Мойсейом.
+      bel_syomukha: "як слухалі мы Майсея, так будзем слухаць і цябе: толькі Гасподзь
+        Бог твой хай будзе з табою, як Ён быў з Майсеем;"
+      spbda: Как слушали мы Моисея, так будем слушать и тебя; только Господь, Бог
+        твой, да будет с тобою, как Он был с Моисеем.
+      lev-khv: Как слушали мы Моисея, так будем слушать и тебя; только Господь, Бог
+        твой, да будет с тобою, как Он был с Моисеем.
+      czech: Budeme te poslouchat stejne, jako jsme poslouchali Mojzise. Jen at
+        Hospodin, tvuj Buh, je s tebou, jako byl s Mojzisem.
+      spanish: Como en todo obedecimos a Moisés, así te obedeceremos a ti. Que quiera
+        Yavé, tu Dios, estar contigo, como estuvo con Moisés.
+      greek-lxx: κατὰ πάντα ὅσα ἠκούσαμεν Μωυσῆ ἀκουσόμεθα σοῦ πλὴν ἔστω Κύριος ὁ Θεὸς
+        ἡμῶν μετὰ σοῦ ὃν τρόπον ἦν μετὰ Μωυσῆ
+      st_text: "как слушали мы Моисея, так будем слушать и тебя: только Господь, Бог
+        твой, да будет с тобою, как Он был с Моисеем;"
+  - id: 26907
+    number: 18
+    bookId: 6
+    text: всякий, кто воспротивится повелению твоему и не послушает слов твоих во
+      всем, что ты ни повелишь ему, будет предан смерти. Только будь тверд и
+      мужествен!
+    chapter: 1
+    chapterId: 188
+    parallels:
+      - verseId: 303
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 18
+        short: 1 Цар:18:17
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "человек же, иже аще не покорится тебе и иже не послушает словес твоих,
+        якоже заповеси ему, да умрет: точию крепися и мужайся."
+      averincev: ""
+      ungerov: ""
+      csya_old: "человёкъ же, и4же ѓще не покори1тсz тебЁ и3 и4же не послyшаетъ
+        слове1съ твои1хъ, ћкоже заповёси є3мY, да ќмретъ: то1чію крэпи1сz и3
+        мужaйсz."
+      sovr_rbo: Что бы ты ни повелел нам, — всякий, кто тебя ослушается и не
+        подчинится твоему приказу, будет предан смерти. Только ты сам будь
+        твердым и стойким!»
+      latin: Qui contradixerit ori tuo, et non obedierit cunctis sermonibus, quos
+        praeceperis ei, moriatur. Tu tantum confortare, et viriliter age.
+      ukr: Кожен, хто буде неслухняний наказам твоїм, і не буде слухатися слів твоїх
+        щодо всього, що накажеш йому, нехай буде вбитий. Тільки будь сильний та
+        відважний!
+      nkjv: Whoever rebels against your command and does not heed your words, in all
+        that you command him, shall be put to death. Only be strong and of good
+        courage."
+      desnitsky: ""
+      mt: ‫    כָּל־אִישׁ אֲשֶׁר־יַמְרֶה אֶת־פִּיךָ וְלֹא־יִשְׁמַע אֶת־דְּבָרֶיךָ
+        לְכֹל אֲשֶׁר־תְּצַוֶּנּוּ יוּמָת רַק חֲזַק וֶאֱמָץ׃ פ ‬
+      romana: Tot cel ce se va impotrivi poruncilor tale si nu va asculta cuvintele
+        tale, in toate cate vei porunci, sa moara. Dar fii tare si curajos!"
+      francais: Tout homme qui sera rebelle à ton ordre, et qui n'obéira pas à tout ce
+        que tu lui commanderas, sera puni de mort. Fortifie-toi seulement, et
+        prends courage!
+      italian: Chiunque disprezzerà i tuoi ordini e non obbedirà alle tue parole in
+        quanto ci comanderai, sarà messo a morte. Solo, sii forte e coraggioso".
+      old_georgian: ხოლო კაცმან, რომელმან გაცილოს შენ, და რომელმან არა ისმინოს
+        სიტყუათა შენთა, ამცნებდეთ თუ რასმე მას, მოკუედინ იგი, არამედ განძლიერდი
+        და მჴნე იყავ.
+      portuguese: "Ktokolwiek sprzeciwi się twojemu głosowi i nie będzie posłuszny
+        twemu słowu\rwe wszystkim, co mu rozkażesz, musi umrzeć. Tylko ty bądź
+        mężny i mocny”."
+      turkish: Sözünü dinlemeyen, buyruklarına karşı gelip başkaldıran ölümle
+        cezalandırılacaktır. Yeter ki, sen güçlü ve yürekli ol.»
+      nrt: Всякий, кто воспротивится твоему приказу и не послушается твоих слов – что
+        бы ты ни приказал, – будет предан смерти. Только будь тверд и мужествен!
+      Macarius: Всяк, кто воспротивится повелению твоему и не послушает слов твоих во
+        всем, что ты ни повелишь ему, будет предан смерти. Только будь тверд и
+        мужествен!
+      serbian: Ко би се противио твојој заповијести и не би слушао ријечи твојих у
+        свему што му заповиједиш, нека се погуби; само буди слободан и храбар.
+      bulgarian: всеки, който се противи на твоята заповед и не послуша думите ти във
+        всичко, каквото и да му заповядаш, ще бъде погубен. Само бъди твърд и
+        храбър!
+      pavskiy: Всяк, кто воспротивится повелению твоему, и не послушает слов твоих во
+        всем, что ты ни повелишь ему, будет предан смерти. Только будь тверд и
+        мужествен!
+      deutsch: Wer deinem Mund ungehorsam ist und nicht gehorcht deinen Worten in
+        allem, was du uns gebietest, der soll sterben. Sei nur getrost und
+        unverzagt!
+      ukr2: Кожний, що ставитиме спротив твоєму повелінню й не слухатиметься твого
+        наказу в усьому, буде покараний смертю. Будь тільки мужнім і хоробрим.”
+      ukr3: "Хто б нї ставив опір проти повелїння твого, і не послухав наказу твого у
+        всьому, що повелївати меш йому, тому смерть: тільки стій твердо й
+        мужно!"
+      bel_syomukha: кожны, хто ўсупрацівіцца загаду твайму і не паслухаецца слоў тваіх
+        ва ўсім, што ты ні загадаеш яму, будзе аддадзены сьмерці. Толькі будзь
+        цьвёрды і мужны!
+      lev-khv: Всякий, кто воспротивится повелению твоему и не послушает слов твоих во
+        всем, чтó ты ни повелишь ему, будет предан смерти. Только будь тверд и
+        мужествен.
+      czech: Kdo se tvemu rozkazu postavi na odpor a tvych slov neuposlechne ve vsem,
+        co mu prikazes, je hoden smrti. Jen bud rozhodny a udatny."
+      spanish: Quien rebelándose contra tus órdenes te desobedezca, morirá. Esfuérzate
+        y ten valor>>.
+      greek-lxx: ὁ δὲ ἄνθρωπος ὃς ἐὰν ἀπειθήσῃ σοι καὶ ὅστις μὴ ἀκούσῃ τῶν ῥημάτων σου
+        καθότι ἂν αὐτῷ ἐντείλῃ ἀποθανέτω ἀλλὰ ἴσχυε καὶ ἀνδρίζου
+      st_text: всякий, кто воспротивится повелению твоему и не послушает слов твоих во
+        всем, что ты ни повелишь ему, будет предан смерти. Только будь тверд и
+        мужествен!

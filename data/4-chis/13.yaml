@@ -1,0 +1,2346 @@
+id: 130
+number: 13
+bookId: 4
+verseCount: 34
+title: Глава 13
+verses:
+  - id: 11332
+    number: 1
+    bookId: 4
+    text: После сего народ двинулся из Асирофа, и остановился в пустыне Фаран.
+    chapter: 13
+    chapterId: 130
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И после этих [дней] удалился народ из Асерофа и остановились в пустыне
+        Фарана.
+      csya: И по сих воздвигошася людие от асирофа и ополчишася в пустыни фарани.
+      averincev: ""
+      ungerov: ""
+      csya_old: И# по си1хъ воздвиго1шасz лю1діе t ґсирHfа и3 њполчи1шасz въ пусты1ни
+        фарaни.
+      sovr_rbo: Затем они покинули Хацерот, пришли в пустыню Паран, и там сделали
+        остановку.
+      latin: Profectusque est populus de Haseroth, fixis tentoriis in deserto Pharan.
+      ukr: А потім рушив народ із Гацероту, і таборував у пустині Паран.
+      nkjv: And afterward the people moved from Hazeroth and camped in the Wilderness
+        of Paran.
+      desnitsky: ""
+      mt: ‫   וְאַחַר נָסְעוּ הָעָם מֵחֲצֵרוֹת וַיַּחֲנוּ בְּמִדְבַּר פָּארָן׃ פ ‬
+      romana: Dupa aceasta a pornit poporul de la Haserot si a poposit in pustiul
+        Paran.
+      francais: "L'Éternel parla à Moïse, et dit:"
+      italian: "Il Signore disse a Mosè:"
+      old_georgian: და მისა შემდგომად წარიძრა ერი იგი ასეროთით კერძო და დაიბანაკეს
+        უდაბნოსა მას ფარანისასა.
+      portuguese: "Então disse o Senhor a Moisés:"
+      polish: "Odezwał się znowu Pan do Mojżesza tymi słowami:"
+      turkish: ""
+      nrt: Затем народ покинул Хацерот и разбил лагерь в пустыне Паран.
+      Macarius: После сего народ отправился из Асирофа, и остановился в пустыне Фаран.
+      serbian: А потом пође народ од Асирота, и стадоше у пустињи Фаранској.
+      bulgarian: След това народът потегли от Асирот и се разположи на стан в пустиня
+        Фаран.
+      deutsch: "Und der Herr redet mit Mose und sprach:"
+      ukr2: "Промовив Господь до Мойсея:"
+      ukr3: "І рече Господь Мойсейові:"
+      bel_syomukha: Пасьля гэтага народ рушыў з Асірота і спыніўся ў пустыні Фаран.
+      lev-khv: "И сказал Господь Моисею, говоря:"
+      czech: "Hospodin promluvil k Mojzisovi:"
+      spanish: Partióse después el pueblo de Jaserot y acampó en el desierto de Farán.
+      greek-lxx: καὶ μετὰ ταῦτα ἐξῆρεν ὁ λαὸς ἐξ Ασηρωθ καὶ παρενέβαλον ἐν τῇ ἐρήμῳ
+        τοῦ Φαραν
+      st_text: После сего народ двинулся из Асирофа, и остановился в пустыне Фаран.
+  - id: 11333
+    number: 2
+    bookId: 4
+    text: "И сказал Господь Моисею, говоря:"
+    chapter: 13
+    chapterId: 130
+    parallels:
+      - verseId: 35959
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 1
+        short: Втор:1:22
+      - verseId: 36890
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 9
+        short: Втор:9:23
+    translates:
+      kassian: ""
+      podstr: "И сказал Господь к Моисею говорящий:"
+      csya: "И рече Господь к моисею, глаголя:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 гDь къ мwmсе1ю, гlz:"
+      sovr_rbo: "Господь сказал Моисею:"
+      latin: "Ibique locutus est Dominus ad Moysen, dicens:"
+      ukr: "І промовляв Господь до Мойсея, говорячи:"
+      nkjv: And the Lord spoke to Moses, saying,
+      desnitsky: ""
+      mt: ‫   וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה לֵּאמֹר׃ ‬
+      romana: "Acolo a grait Domnul cu Moise si i-a zis:"
+      francais: Envoie des hommes pour explorer le pays de Canaan, que je donne aux
+        enfants d'Israël. Tu enverras un homme de chacune des tribus de leurs
+        pères; tous seront des principaux d'entre eux.
+      italian: '"Manda uomini a esplorare il paese di Canaan che sto per dare agli
+        Israeliti. Mandate un uomo per ogni tribù dei loro padri; siano tutti
+        dei loro capi".'
+      old_georgian: "და ეტყოდა უფალი მოსეს და ჰრქუა: წარავლინენ შენ კაცნი."
+      portuguese: "Envia homens que espiem a terra de Canaã, que eu hei de dar aos
+        filhos de Israel. De cada tribo de seus pais\renviarás um homem, sendo
+        cada qual príncipe entre eles."
+      polish: "”Poślij ludzi, aby zbadali kraj Kanaan, który chcę dać synom Izraela.
+        Wyślecie po jednym z każdego pokolenia ich przodków, tych wszystkich,
+        którzy\rsą w nich książętami”."
+      turkish: RAB Musa'ya, «İsrail halkına vereceğim Kenan ülkesini araştırmak için
+        bazı adamlar gönder» dedi, «Ataların her oymağından bir önder gönder.»
+      nrt: "Господь сказал Моисею:"
+      Macarius: "Там говорил Господь Моисею, и сказал:"
+      serbian: "И Господ рече Мојсију говорећи:"
+      bulgarian: "И рече Господ на Моисея, думайки:"
+      deutsch: Sende Männer aus, die das Land Kanaan erkunden, das ich den Kindern
+        Israel geben will, aus jeglichem Stamm ihrer Väter einen vornehmen Mann.
+      ukr2: “Пошли людей та нехай розглянуть Ханаан-землю, що ось я хочу дати її синам
+        Ізраїля; пошлете їх по одному з батьківського коліна та щоб усі з них
+        були князями.”
+      ukr3: Пішли людей на розглядини в Канаан землю, що дам її синам Ізрайлевим; по
+        одному чоловікові з батьківських поколїнь їх пошлете їх, кожного князя
+        спроміж їх.
+      bel_syomukha: "І сказаў Гасподзь Майсею, кажучы:"
+      lev-khv: Пошли людей, чтобы они обозрели землю Ханаанскую, которую Я даю сынам
+        Израилевым; по одному человеку от колена отцов их пошлите, всех из
+        старейшин между ними.
+      czech: „Posli muze, aby prozkoumali kenaanskou zemi, kterou davam Izraelcum.
+        Poslete po jednom muzi z jejich otcovskych pokoleni, vzdy jejich
+        predaka!“
+      spanish: "Yavé habló a Moisés, diciendo: <<Manda a algunos hombres a explorar la
+        tierra de Canán que voy a daros:"
+      greek-lxx: καὶ ἐλάλησεν Κύριος πρὸς Μωυσῆν λέγων
+      st_text: "И сказал Господь Моисею, говоря:"
+  - id: 11334
+    number: 3
+    bookId: 4
+    text: пошли от себя людей, чтобы они высмотрели землю Ханаанскую, которую Я даю
+      сынам Израилевым; по одному человеку от колена отцов их пошлите, главных
+      из них.
+    chapter: 13
+    chapterId: 130
+    parallels:
+      - verseId: 12068
+        bookId: 4
+        bookCode: cisla
+        chapter: 32
+        short: Чис:32:8
+      - verseId: 35959
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 1
+        short: Втор:1:22
+    translates:
+      kassian: ""
+      podstr: Отправь себе мужчин, и осмотрят землю Хананеев, которую Я даю сыновьям
+        Израиля во владение, мужчину одного согласно племени согласно народу
+        отцов их пошли их, всякого предводителя из них.
+      csya: "посли от себе мужы, и да соглядают землю ханаанску, юже аз даю сыном
+        израилевым во одержание: мужа единаго от племене, по сонмом отечеств их,
+        да послеши их всякаго старейшину от них."
+      averincev: ""
+      ungerov: ""
+      csya_old: "посли2 t себє2 мyжы, и3 да соглsдаютъ зе1млю ханаaнску, ю4же ѓзъ даю2
+        сынHмъ ї}лєвымъ во њдержaніе: мyжа є3ди1наго t пле1мене, по со1нмwмъ
+        nте1чествъ и4хъ, да по1слеши и5хъ всsкаго старёйшину t ни1хъ."
+      sovr_rbo: «Пошли людей осмотреть Ханаан — страну, которую я отдаю сынам
+        Израилевым. Отправьте по одному человеку от племени, и пусть это будут
+        вожди».
+      latin: Mitte viros, qui considerent terram Chanaan, quam daturus sum filiis
+        Isra&#235;l, singulos de singulis tribubus, ex principibus.
+      ukr: Пошли людей, і вони розвідають ханаанський Край, що Я даю Ізраїлевим синам;
+        пошлете по одному чоловікові від племени своїх батьків, кожного
+        начальника в них.
+      nkjv: '"Send men to spy out the land of Canaan, which I am giving to the
+        children of Israel; from each tribe of their fathers you shall send a
+        man, every one a leader among them."'
+      desnitsky: ""
+      mt: ‫   שְׁלַח־לְךָ אֲנָשִׁים וְיָתֻרוּ אֶת־אֶרֶץ כְּנַעַן אֲשֶׁר־אֲנִי נֹתֵן
+        לִבְנֵי יִשְׂרָאֵל אִישׁ אֶחָד אִישׁ אֶחָד לְמַטֵּה אֲבֹתָיו תִּשְׁלָחוּ
+        כֹּל נָשִׂיא בָהֶם׃ ‬
+      romana: '"Trimite din partea ta oameni ca sa iscodeasca pamantul Canaanului pe
+        care am sa-l dau Eu fiilor lui Israel spre mostenire; cate un om de
+        fiecare semintie sa trimiti; insa acestia sa fie toti capetenii intre
+        ei".'
+      francais: Moïse les envoya du désert de Paran, d'après l'ordre de l'Éternel;
+        tous ces hommes étaient chefs des enfants d'Israël.
+      italian: Mosè li mandò dal deserto di Paran, secondo il comando del Signore;
+        quegli uomini erano tutti capi degli Israeliti.
+      old_georgian: და განიმსტრვედ ქუეყანა იგი ქანანელთაჲ, რომელი მივეც მე ძეთა
+        ისრაჱლისათა სამკჳდრებელად. კაცი თითოჲ ტომისაგან, სახლისაგან მამათა
+        მათთაჲსა, წარავლინნე ყოველნივე იგინი მთავარნი მათგანი.
+      portuguese: "Moisés, pois, enviou-os do deserto de Parã, segundo a ordem do
+        Senhor; eram todos eles homens principais\rdentre os filhos de Israel."
+      polish: "Wysłał ich więc Mojżesz zgodnie z rozkazem Pana z pustyni Paran, a byli
+        ci\rmężowie wodzami Izraelitów."
+      turkish: "Musa RAB'bin buyruğu uyarınca Paran Çölü'nden adamları
+        gönderdi.\rHepsi İsrail halkının önderlerindendi."
+      nrt: – Пошли людей разведать землю Ханаана, которую Я отдаю израильтянам. Из
+        каждого их рода пошли по одному вождю.
+      Macarius: Пошли от себя людей, чтобы они обозрели землю Ханаанскую, которую Я
+        даю сынам Израилевым, по одному человеку от колена отцев их пошлите,
+        всех начальников их.
+      serbian: Пошљи људе да уходе земљу Хананску, коју ћу дати синовима Израиљевијем;
+        по једнога човјека од свакога племена отаца њиховијех пошљите, све
+        главаре између њих.
+      bulgarian: прати от себе си люде да разгледат Ханаанската земя, която Аз давам
+        на синовете Израилеви; по един човек от всяко коляно на бащите им
+        изпратете, първенците измежду тях.
+      deutsch: Mose, der sandte sie aus der Wüste Pharan nach dem Wort des Herrn, die
+        alle vornehme Männer waren unter den Kindern Israel.
+      ukr2: І послав Мойсей їх із Паран-пустині за Господнім наказом; самих таких
+        чоловіків послав, що були головами в синів Ізраїля.
+      ukr3: І післав їх Мойсей із Паран степу, по слову Господньому, саміх таких людей
+        що були голови в синів Ізрайлевих.
+      bel_syomukha: Пашлі ад сябе людзей, каб яны агледзелі зямлю Ханаанскую, якую Я
+        дам сынам Ізраілевым; па адным чалавеку ад племені бацькоў іхніх
+        пашлеце, галоўных зь іх.
+      lev-khv: И послал их Моисей из пустыни Фаран, по повелению Господню; все они
+        мужи главные у сынов Израилевых.
+      czech: Mojzis je tedy na rozkaz Hospodinuv poslal z Paranske pouste. Vsichni ti
+        muzi byli nacelnici Izraelcu.
+      spanish: manda a uno por cada tribu y que sean todos de los principales entre
+        ellos>>.
+      greek-lxx: ἀπόστειλον σεαυτῷ ἄνδρας καὶ κατασκεψάσθωσαν τὴν γῆν τῶν Χαναναίων ἣν
+        ἐγὼ δίδωμι τοῖς υἱοῖς Ισραηλ εἰς κατάσχεσιν ἄνδρα ἕνα κατὰ φυλὴν κατὰ
+        δήμους πατριῶν αὐτῶν ἀποστελεῖς αὐτούς πάντα ἀρχηγὸν ἐξ αὐτῶν
+      st_text: пошли от себя людей, чтобы они высмотрели землю Ханаанскую, которую Я
+        даю сынам Израилевым; по одному человеку от колена отцов их пошлите,
+        главных из них.
+  - id: 11335
+    number: 4
+    bookId: 4
+    text: И послал их Моисей из пустыни Фаран, по повелению Господню, и все они мужи
+      главные у сынов Израилевых.
+    chapter: 13
+    chapterId: 130
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И послал их Моисей из пустыни Фаран через голос Господа; все мужчины
+        главные сыновей Израиля эти.
+      csya: "И посла я моисей от пустыни фарани глаголом Господним: вси мужи
+        старейшины сынов израилевых сии, и сия имена их:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# послA | мwmсе1й t пусты1ни фарaни гlго1ломъ гDнимъ: вси2 м{жи
+        старBйшины сынHвъ ї}левыхъ сjи, и3 сі‰ и3менA и4хъ:"
+      sovr_rbo: И Моисей, по велению Господа, послал вперед из пустыни Паран несколько
+        человек; все они были предводителями сынов Израилевых.
+      latin: Fecit Moyses quod Dominus imperaverat, de deserto Pharan mittens
+        principes viros, quorum ista sunt nomina.
+      ukr: І послав їх Мойсей з пустині Паран за Господнім наказом. Усі вони мужі
+        достойні, вони голови Ізраїлевих синів.
+      nkjv: So Moses sent them from the Wilderness of Paran according to the command
+        of the Lord, all of them men who were heads of the children of Israel.
+      desnitsky: ""
+      mt: ‫   וַיִּשְׁלַח אֹתָם מֹשֶׁה מִמִּדְבַּר פָּארָן עַל־פִּי יְהוָה כֻּלָּם
+        אֲנָשִׁים רָאשֵׁי בְנֵי־יִשְׂרָאֵל הֵמָּה׃ ‬
+      romana: Si i-a trimis pe acestia Moise din pustiul Paran, dupa porunca Domnului,
+        si erau toti capetenii.
+      francais: "Voici leurs noms. Pour la tribu de Ruben: Schammua, fils de Zaccur;"
+      italian: "Questi erano i loro nomi: per la tribù di Ruben, Sammua figlio di
+        Zaccur;"
+      old_georgian: "და წარავლინნა იგინი მოსე უდაბნოჲთ ფარანისაჲთ სიტყჳთა უფლისაჲთა,
+        ყოველნი კაცნი მთავარნი ძეთა ისრაჱლისათანი. და ესე არს სახელები მათი:"
+      portuguese: "E estes são os seus nomes: da tribo de Rúben, Samua, filho de Zacur;"
+      polish: "A oto ich imiona: Z pokolenia Rubena Szammua, syn Zakkura;"
+      turkish: "Adları şöyleydi:\rRuben oymağından Zakkur oğlu Şammua;"
+      nrt: Моисей послал их из пустыни Паран, как повелел Господь. Все они были
+        вождями израильтян.
+      Macarius: Моисей послал их из пустыни Фаран, по повелению Господню, и все сии
+        мужи были главные у сынов Израилевых.
+      serbian: И посла их Мојсије из пустиње Фаранске по заповијести Господњој; и сви
+        људи бјеху главари синова Израиљевијех.
+      bulgarian: Тогава Моисей ги изпрати от пустиня Фаран, по заповед Господня, и те
+        всички бяха мъже първенци между синовете Израилеви.
+      deutsch: "Und hießen also: Sammua, der Sohn Sakkurs, des Stammes Ruben;"
+      ukr2: "Ось їхні ймення: від коліна Рувима Шаммуа, син Заккура."
+      ukr3: "А се ймення їх: Від поколїння Рубенового, Шамуа Сакуренко;"
+      bel_syomukha: І паслаў іх Майсей з пустыні Фаран, па загадзе Гасподнім, і ўсе
+        яны мужы галоўныя ў сыноў Ізраілевых.
+      lev-khv: "И вот имена их: из колена Рувимова Шаммуа, сын Заккуров,"
+      czech: "Toto jsou jejich jmena: z Rubenova pokoleni Samua, syn Zakuruv,"
+      spanish: Mandólos Moisés desde el desierto de Farán, según el mandato de Yavé,
+        todos de los jefes de los hijos de Israel.
+      greek-lxx: καὶ ἐξαπέστειλεν αὐτοὺς Μωυσῆς ἐκ τῆς ἐρήμου Φαραν διὰ φωνῆς Κυρίου
+        πάντες ἄνδρες ἀρχηγοὶ υἱῶν Ισραηλ οὗτοι
+      st_text: И послал их Моисей из пустыни Фаран, по повелению Господню, и все они
+        мужи главные у сынов Израилевых.
+  - id: 11336
+    number: 5
+    bookId: 4
+    text: "Вот имена их: из колена Рувимова Саммуа, сын Закхуров,"
+    chapter: 13
+    chapterId: 130
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "И эти имена их: племени Рувина Саламиил сын Дзакхура;"
+      csya: "от племене рувимля самуил сын закхуров:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "t пле1мене руви1млz самуи1лъ сы1нъ закхyровъ:"
+      sovr_rbo: "Вот их имена: от племени Рувима — Шаммуа, сын Заккура;"
+      latin: De tribu Ruben, Sammua filium Zechur.
+      ukr: "А оце ймення їх: для Рувимового племени Шаммуа, син Заккурів;"
+      nkjv: "Now these were their names: from the tribe of Reuben, Shammua the son of
+        Zaccur;"
+      desnitsky: ""
+      mt: ‫   וְאֵלֶּה שְׁמוֹתָם לְמַטֵּה רְאוּבֵן שַׁמּוּעַ בֶּן־זַכּוּר׃ ‬
+      romana: "Iata acum si numele lor: Sammua, fiul lui Zahur, din semintia lui
+        Ruben."
+      francais: "pour la tribu de Siméon: Schaphath, fils de Hori;"
+      italian: per la tribù di Simeone, Safat figlio di Cori;
+      old_georgian: ტოჰმისა რუბენისი - სალამიელ, ძე ზაქურისი.
+      portuguese: da tribo de Simeão, Safate, filho de Hori;
+      polish: z pokolenia Symeona Szafat, syn Choriego;
+      turkish: Şimon oymağından Hori oğlu Şafat;
+      nrt: "Вот их имена: из рода Рувима – Шаммуа, сын Заккура;"
+      Macarius: "Вот имена их: из колена Рувимова Шаммуй, сын Закхуров,"
+      serbian: "А ово су им имена: од племена Рувимова Самуило, син Захуров;"
+      bulgarian: "Ето имената им: от Рувимово коляно - Самуа, Закхуров син,"
+      deutsch: Saphat, der Sohn Horis, des Stammes Simeon;
+      ukr2: Від коліна Симеона Шафат, син Хорі.
+      ukr3: Від поколїння Симеонового, Шафат Хоріенко;
+      bel_syomukha: "Вось імёны іхнія: з племені Рувімавага Самуа, сын Закхураў,"
+      lev-khv: Из колена Симеонова Шафат, сын Хориев,
+      czech: z Simeonova pokoleni Safat, syn Choriuv,
+      spanish: "Sus nombres son: de la tribu de Rubén, Samua, hijo de Zecur;"
+      greek-lxx: καὶ ταῦτα τὰ ὀνόματα αὐτῶν τῆς φυλῆς Ρουβην Σαλαμιηλ υἱὸς Ζακχουρ
+      st_text: "Вот имена их: из колена Рувимова Саммуа, сын Закхуров,"
+  - id: 11337
+    number: 6
+    bookId: 4
+    text: из колена Симеонова Сафат, сын Хориев,
+    chapter: 13
+    chapterId: 130
+    parallels:
+      - verseId: 27037
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 14
+        short: Нав:14:7
+    translates:
+      kassian: ""
+      podstr: племени Симеона Сафат сын Сурия;
+      csya: "от племене симеоня сафат сын сурин:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "t пле1мене сmмеHнz сафaтъ сы1нъ сурjнъ:"
+      sovr_rbo: от племени Симеона — Шафат, сын Хори
+      latin: De tribu Simeon, Saphat filium Huri.
+      ukr: для Симеонового племени Шафат, син Хоріїв;
+      nkjv: from the tribe of Simeon, Shaphat the son of Hori;
+      desnitsky: ""
+      mt: ‫   לְמַטֵּה שִׁמְעוֹן שָׁפָט בֶּן־חוֹרִי׃ ‬
+      romana: Safat, fiul lui Hori, din semintia lui Simeon;
+      francais: "pour la tribu de Juda: Caleb, fils de Jephunné;"
+      italian: per la tribù di Giuda, Caleb figlio di Iefunne;
+      old_georgian: სჳმეონისი ნათესავისაჲ - ზაფატია, ძე სურისი.
+      portuguese: da tribo de Judá, Calebe, filho de Jefoné;
+      polish: z pokolenia Judy Kaleb, syn Jefunnego;
+      turkish: Yahuda oymağından Yefunne oğlu Kalev;
+      nrt: из рода Симеона – Шафат, сын Хори;
+      Macarius: Из колена Симеонова Шафат, сын Хориев,
+      serbian: Од племена Симеонова Сафат, син Сурин;
+      bulgarian: от Симеоново коляно - Сафат, Хориев син,
+      deutsch: Kaleb, der Sohn Jephunnes, des Stammes Juda;
+      ukr2: Від коліна Юди Калев, син Єфунне.
+      ukr3: Від поколїння Юдиного, Калеб Єфуненко;
+      bel_syomukha: з племені Сымонавага Сафат, сын Харыеў,
+      lev-khv: Из колена Иудина Халев, сын Иефонниин,
+      czech: z Judova pokoleni Kaleb, syn Jefunuv,
+      spanish: de la tribu de Simeón, Safat, hijo de Jurit;
+      greek-lxx: τῆς φυλῆς Συμεων Σαφατ υἱὸς Σουρι
+      st_text: из колена Симеонова Сафат, сын Хориев,
+  - id: 11338
+    number: 7
+    bookId: 4
+    text: из колена Иудина Халев, сын Иефонниин,
+    chapter: 13
+    chapterId: 130
+    parallels:
+      - verseId: 27037
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 14
+        short: Нав:14:7
+    translates:
+      kassian: ""
+      podstr: племени Иуды Халев сын Иефоннии;
+      csya: "от племене иудина халев сын иефонниин:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "t пле1мене їyдина хале1въ сы1нъ їефоннjинъ:"
+      sovr_rbo: от племени Иуды — Калев, сын Иефунне
+      latin: De tribu Juda, Caleb filium Jephone.
+      ukr: для Юдиного племени Калев, син Єфуннеїв;
+      nkjv: from the tribe of Judah, Caleb the son of Jephunneh;
+      desnitsky: ""
+      mt: ‫   לְמַטֵּה יְהוּדָה כָּלֵב בֶּן־יְפֻנֶּה׃ ‬
+      romana: Caleb, fiul lui Iefone, din semintia lui Iuda;
+      francais: "pour la tribu d'Issacar: Jigual, fils de Joseph;"
+      italian: per la tribù di Issacar, Igheal figlio di Giuseppe; per la tribù di
+        Efraim,
+      old_georgian: ძეთაგან იუდაჲსთა - ქალებ, ძე იეფონესი.
+      portuguese: da tribo de Issacar, Ioal, filho de José;
+      polish: z pokolenia Issachara Jigeal, syn Józefa;
+      turkish: İssakar oymağından Yusuf oğlu Yigal;
+      nrt: из рода Иуды – Халев, сын Иефонниин;
+      Macarius: Из колена Иудина Халев, сын Иефонниин,
+      serbian: Од племена Јудина Халев, син Јефонијин;
+      bulgarian: от Иудино коляно - Халев, Иефониев син,
+      deutsch: Jigeal, der Sohn Josephs, des Stammes Isaschar;
+      ukr2: Від коліна Іссахара Їгал, син Йосифа.
+      ukr3: Від поколїння Іссахарового, Їгаль, син Йосифа;
+      bel_syomukha: з племені Юдавага Халеў, сын Ефаніін,
+      lev-khv: Из колена Иссахарова Игал, сын Иосифов,
+      czech: z Isacharova pokoleni Jigal, syn Josefuv,
+      spanish: de la tribu de Judá, Caleb, hijo de Jefoné;
+      greek-lxx: τῆς φυλῆς Ιουδα Χαλεβ υἱὸς Ιεφοννη
+      st_text: из колена Иудина Халев, сын Иефонниин,
+  - id: 11339
+    number: 8
+    bookId: 4
+    text: из колена Иссахарова Игал, сын Иосифов,
+    chapter: 13
+    chapterId: 130
+    parallels:
+      - verseId: 11309
+        bookId: 4
+        bookCode: cisla
+        chapter: 11
+        short: Чис:11:28
+    translates:
+      kassian: ""
+      podstr: племени Иссахара Игаал сын Иосифа;
+      csya: "от племене иссахаря игал сын иосифль:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "t пле1мене їссахaрz їгaлъ сы1нъ їHсифль:"
+      sovr_rbo: от племени Иссахара — Игал, сын Иосифа;
+      latin: De tribu Issachar, Igal filium Joseph.
+      ukr: для Іссахарового племени °ґ'ал, син Йосипів;
+      nkjv: from the tribe of Issachar, Igal the son of Joseph;
+      desnitsky: ""
+      mt: ‫   לְמַטֵּה יִשָּׂשכָר יִגְאָל בֶּן־יוֹסֵף׃ ‬
+      romana: Igal, fiul lui Iosif, din semintia lui Isahar;
+      francais: "pour la tribu d'Éphraïm: Hosée, fils de Nun;"
+      italian: Osea figlio di Nun;
+      old_georgian: ძეთაგან ისაქარისთა - გალაამ, ძე იოსეფისი.
+      portuguese: da tribo de Efraim, Oséias, filho de Num;
+      polish: z pokolenia Efraima Ozeasz, syn Nuna;
+      turkish: Efrayim oymağından Nun oğlu Hoşea;
+      nrt: из рода Иссахара – Игал, сын Иосифа;
+      Macarius: Из колена Иссахарова Игал, сын Иосифов,
+      serbian: Од племена Исахарова Игал, син Јосифов;
+      bulgarian: от Исахарово коляно - Игал, Иосифов син,
+      deutsch: Hosea, der Sohn Nuns, des Stammes Ephraim;
+      ukr2: Від коліна Ефраїма Ошеа, син Нуна.
+      ukr3: Від поколїння Ефраїмового, Гозей Нуненко;
+      bel_syomukha: з племені Ісахаравага Ігал, сын Язэпаў,
+      lev-khv: Из колена Ефремова Осия, сын Навина,
+      czech: z Efrajimova pokoleni Hosea, syn Nunuv,
+      spanish: de la tribu de Isacar, Jigal, hijo de José;
+      greek-lxx: τῆς φυλῆς Ισσαχαρ Ιγααλ υἱὸς Ιωσηφ
+      st_text: из колена Иссахарова Игал, сын Иосифов,
+  - id: 11340
+    number: 9
+    bookId: 4
+    text: из колена Ефремова Осия, сын Навин,
+    chapter: 13
+    chapterId: 130
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: племени Эфраима Аиси сын Навина;
+      csya: "от племене ефремля авсис сын навин:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "t пле1мене є3фре1млz ґvси1съ сы1нъ наvи1нъ:"
+      sovr_rbo: от племени Ефрема — Осия Навин;
+      latin: De tribu Ephraim, Osee filium Nun.
+      ukr: для Єфремового племени Осія, син Навинів;
+      nkjv: from the tribe of Ephraim, Hoshea the son of Nun;
+      desnitsky: ""
+      mt: ‫   לְמַטֵּה אֶפְרָיִם הוֹשֵׁעַ בִּן־נוּן׃ ‬
+      romana: Osia, fiul lui Navi, din semintia lui Efraim;
+      francais: "pour la tribu de Benjamin: Palthi, fils de Raphu;"
+      italian: per la tribù di Beniamino, Palti figlio di Rafu;
+      old_georgian: ძეთაგან ეფრემისთა - ისო, ძე ნავესი.
+      portuguese: da tribo de Benjamim, Palti, filho de Rafu;
+      polish: z pokolenia Beniamina Palti, syn Rafu;
+      turkish: Benyamin oymağından Rafu oğlu Palti;
+      nrt: из рода Ефрема – Осия, сын Навин;
+      Macarius: Из колена Ефремова Осия, сын Навин,
+      serbian: Од племена Јефремова Авсије, син Навин;
+      bulgarian: от Ефремово коляно - Осия, Навинов син,
+      deutsch: Palti, der Sohn Raphus, des Stammes Benjamin;
+      ukr2: Від коліна Веніямина Палті, син Рафу.
+      ukr3: Від поколїння Беняминового, Пальтїй Рафуенко;
+      bel_syomukha: з племені Яфрэмавага Асія, сын Наваў,
+      lev-khv: Из колена Вениаминова Фалтий, сын Рафуев,
+      czech: z Benjaminova pokoleni Palti, syn Rafuuv,
+      spanish: de la tribu de Efraím, Osea, hijo de Nun;
+      greek-lxx: τῆς φυλῆς Εφραιμ Αυση υἱὸς Ναυη
+      st_text: из колена Ефремова Осия, сын Навин,
+  - id: 11341
+    number: 10
+    bookId: 4
+    text: из колена Вениаминова Фалтий, сын Рафуев,
+    chapter: 13
+    chapterId: 130
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: племени Вениамина Фалти сын Рафу;
+      csya: "от племене вениаминя фалтий сын рафуов:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "t пле1мене веніамjнz фалтjй сы1нъ рафyовъ:"
+      sovr_rbo: от племени Вениамина — Палти, сын Рафу
+      latin: De tribu Benjamin, Phalti filium Raphu.
+      ukr: для Веніяминового племени Палті, син Рафуїв;
+      nkjv: from the tribe of Benjamin, Palti the son of Raphu;
+      desnitsky: ""
+      mt: ‫   לְמַטֵּה בִנְיָמִן פַּלְטִי בֶּן־רָפוּא׃ ‬
+      romana: Falti, fiul lui Rafu, din semintia lui Veniamin;
+      francais: "pour la tribu de Zabulon: Gaddiel, fils de Sodi;"
+      italian: per la tribù di Zàbulon, Gaddiel figlio di Sodi;
+      old_georgian: ძეთაგან ბენიამისთა - ფალტი, ძე რაფუჲსი.
+      portuguese: da tribo de Zebulom, Gadiel, filho de Sódi;
+      polish: z pokolenia Zabulona Gaddiel, syn Sodiego;
+      turkish: Zevulun oymağından Sodi oğlu Gaddiel;
+      nrt: из рода Вениамина – Фалтий, сын Рафу;
+      Macarius: Из колена Вениаминова Фалтий, сын Рафуев,
+      serbian: Од племена Венијаминова Фалтије, син Рафујев;
+      bulgarian: от Вениаминово коляно - Фалтий, Рафуев син,
+      deutsch: Gaddiel, der Sohn Sodis, des Stammes Sebulon;
+      ukr2: Від коліна Завулона Гаддієл, син Соді.
+      ukr3: Від поколїння Зебулонового, Гаддієль Содіенко;
+      bel_syomukha: з племені Веньямінавага Фалтый, сын Рафуеў,
+      lev-khv: Из колена Завулонова Гаддиил, сын Содиев,
+      czech: ze Zabulonova pokoleni Gadiel, syn Sodiuv,
+      spanish: de la tribu de Benjamín, Falti, hijo de Rafu;
+      greek-lxx: τῆς φυλῆς Βενιαμιν Φαλτι υἱὸς Ραφου
+      st_text: из колена Вениаминова Фалтий, сын Рафуев,
+  - id: 11342
+    number: 11
+    bookId: 4
+    text: из колена Завулонова Гаддиил, сын Содиев,
+    chapter: 13
+    chapterId: 130
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: племени Завулона Гудиил сын Судия;
+      csya: "от племене завулоня гудиил сын судин:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "t пле1мене завулHнz гудіи1лъ сы1нъ судjнъ:"
+      sovr_rbo: от племени Завулона — Гаддиэл, сын Соди
+      latin: De tribu Zabulon, Geddiel filium Sodi.
+      ukr: для Завулонового племени Ґаддіїл, син Содіїв;
+      nkjv: from the tribe of Zebulun, Gaddiel the son of Sodi;
+      desnitsky: ""
+      mt: ‫   לְמַטֵּה זְבוּלֻן גַּדִּיאֵל בֶּן־סוֹדִי׃ ‬
+      romana: Gadiel, fiul lui Sodi, din semintia lui Zabulon;
+      francais: "pour la tribu de Joseph, la tribu de Manassé: Gaddi, fils de Susi;"
+      italian: per la tribù di Giuseppe, cioè per la tribù di Manàsse, Gaddi figlio di
+        Susi;
+      old_georgian: ძეთაგან ზაბულონისთა - იულიელ, ძე სუდისი. ძეთაგან იოსეფისთა,
+      portuguese: da tribo de José, pela tribo de Manassés, Gadi, filho de Susi;
+      polish: "z pokolenia Józefa: z pokolenia Manassesa Gaddi, syn Susiego;"
+      turkish: Yusuf oymağından -Manaşşe oymağından- Susi oğlu Gaddi;
+      nrt: из рода Завулона – Гаддиил, сын Соди;
+      Macarius: Из колена Завулонова Гаддиил, сын Содиев,
+      serbian: Од племена Завулонова Гудило, син Судин;
+      bulgarian: от Завулоново коляно - Гадиил, Содиев син,
+      deutsch: Gaddi, der Sohn Susis, des Stammes Joseph von Manasse;
+      ukr2: Від коліна Йосифа, коліна Манассії, Гадді, син Сусі.
+      ukr3: Від поколїння Йосифового, роду Манассеєвого, Гаддій Сузіенко;
+      bel_syomukha: з племені Завулонавага Гадыіл, сын Садыеў,
+      lev-khv: Из колена Иосифова, из колена Манассиина Гаддий, сын Сусиев,
+      czech: z Josefova pokoleni, z pokoleni Manasesova, Gadi, syn Susiuv,
+      spanish: de la tribu de Zabulón, Gadiel, hijo de Sodí;
+      greek-lxx: τῆς φυλῆς Ζαβουλων Γουδιηλ υἱὸς Σουδι
+      st_text: из колена Завулонова Гаддиил, сын Содиев,
+  - id: 11343
+    number: 12
+    bookId: 4
+    text: из колена Иосифова от Манассии Гаддий, сын Сусиев,
+    chapter: 13
+    chapterId: 130
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: племени Иосифа [из] сыновей Манассии Гадд сын Сусия;
+      csya: "от племене иосифля сынов манассииных гадди сын сусин:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "t пле1мене їHсифлz сынHвъ манассjиныхъ гадді2 сы1нъ сусjнъ:"
+      sovr_rbo: от племени Иосифа — от племени Манассии — Гадди, сын Суси
+      latin: De tribu Joseph, sceptri Manasse, Gaddi filium Susi.
+      ukr: для Йосипового племени, для племени Манасіїного Ґадді, син Сусіїв;
+      nkjv: from the tribe of Joseph, that is, from the tribe of Manasseh, Gaddi the
+        son of Susi;
+      desnitsky: ""
+      mt: ‫   לְמַטֵּה יוֹסֵף לְמַטֵּה מְנַשֶּׁה גַּדִּי בֶּן־סוּסִי׃ ‬
+      romana: Gadi, fiul lui Susi, din Manase, semintia lui Iosif;
+      francais: "pour la tribu de Dan: Ammiel, fils de Guemalli;"
+      italian: per la tribù di Dan, Ammiel figlio di Ghemalli;
+      old_georgian: ძეთა მანასესთა - გადი, ძე სურისი.
+      portuguese: da tribo de Dã, Amiel, filho de Gemali;
+      polish: z pokolenia Dana Ammiel, syn Gemalliego;
+      turkish: Dan oymağından Gemalli oğlu Ammiel;
+      nrt: из рода Иосифа (через Манассию) – Гаддий, сын Суси;
+      Macarius: Из колена Иосифова, из колена Манассиина, Гаддий, сын Сусиев,
+      serbian: Од племена Јосифова, од племена Манасијина Гадије, син Сусин;
+      bulgarian: от Иосифово коляно от Манасия - Гадий, Сусиев син,
+      deutsch: Ammiel, der Sohn Gemallis, des Stammes Dan;
+      ukr2: Від коліна Дана Аммієл, син Гемаллі.
+      ukr3: Від поколїння Данового, Аммієль Гемалїенко;
+      bel_syomukha: з племені Язэпавага ад Манасіі Гадый, сын Сусіеў,
+      lev-khv: Из колена Данова Аммиил, сын Гемаллиев,
+      czech: z Danova pokoleni Amiel, syn Gemaliuv,
+      spanish: de la tribu de José, de Manasés, Gadí, hijo de Susi;
+      greek-lxx: τῆς φυλῆς Ιωσηφ τῶν υἱῶν Μανασση Γαδδι υἱὸς Σουσι
+      st_text: из колена Иосифова от Манассии Гаддий, сын Сусиев,
+  - id: 11344
+    number: 13
+    bookId: 4
+    text: из колена Данова Аммиил, сын Гемаллиев,
+    chapter: 13
+    chapterId: 130
+    parallels:
+      - verseId: 11195
+        bookId: 4
+        bookCode: cisla
+        chapter: 1
+        short: Чис:1:4
+    translates:
+      kassian: ""
+      podstr: племени Дана Амиил сын Гамалия;
+      csya: "от племене данова амиил сын гамалин:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "t пле1мене дaнова ґміи1лъ сы1нъ гамалjнъ:"
+      sovr_rbo: от племени Дана — Аммиэл, сын Гемалли
+      latin: De tribu Dan, Ammiel filium Gemalli.
+      ukr: для Данового племени Амміїл, син Ґемалліїв;
+      nkjv: from the tribe of Dan, Ammiel the son of Gemalli;
+      desnitsky: ""
+      mt: ‫   לְמַטֵּה דָן עַמִּיאֵל בֶּן־גְּמַלִּי׃ ‬
+      romana: Amiel, fiul lui Ghemali, din semintia lui Dan;
+      francais: "pour la tribu d'Aser: Sethur, fils de Micaël;"
+      italian: per la tribù di Aser, Setur figlio di Michele;
+      old_georgian: და ძეთაგან გადისთა - ამისე, ძე გამესი.
+      portuguese: da tribo de Aser, Setur, filho de Micael;
+      polish: z pokolenia Asera Setur, syn Miszaela;
+      turkish: Aşer oymağından Mikael oğlu Setur;
+      nrt: из рода Дана – Аммиил, сын Гемалли;
+      Macarius: Из колена Данова Аммиил, сын Гемаллиев,
+      serbian: Од племена Данова Амило, син Гамалин;
+      bulgarian: от Даново коляно - Амиил, Гемалиев син,
+      deutsch: Sethur, der Sohn Michaels, des Stammes Asser;
+      ukr2: Від коліна Ашера Сетур, син Міхаела.
+      ukr3: Від поколїння Ассерового, Сефур Михайленко;
+      bel_syomukha: з племені Данавага Амііл, сын Гемаліеў,
+      lev-khv: Из колена Асирова Сефур, сын Михаилов,
+      czech: z Aserova pokoleni Setur, syn Mikaeluv,
+      spanish: de la tribu de Dan, Amiel, hijo de Guemalí;
+      greek-lxx: τῆς φυλῆς Αμιηλ υἱὸς Γαμαλι
+      st_text: из колена Данова Аммиил, сын Гемаллиев,
+  - id: 11345
+    number: 14
+    bookId: 4
+    text: из колена Асирова Сефур, сын Михаилев,
+    chapter: 13
+    chapterId: 130
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: племени Асира Сафур сын Михаила;
+      csya: "от племене асирова сафур сын михаиль:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "t пле1мене ґси1рова саfyръ сы1нъ міхаи1ль:"
+      sovr_rbo: от племени Асира — Сетур, сын Михаила;
+      latin: De tribu Aser, Sthur filium Micha&#235;l.
+      ukr: для Асирового племени Сетур, син Михаїлів;
+      nkjv: from the tribe of Asher, Sethur the son of Michael;
+      desnitsky: ""
+      mt: ‫   לְמַטֵּה אָשֵׁר סְתוּר בֶּן־מִיכָאֵל׃ ‬
+      romana: Setur, fiul lui Mihael, din semintia lui Aser;
+      francais: "pour la tribu de Nephthali: Nachbi, fils de Vophsi;"
+      italian: per la tribù di Nèftali, Nacbi figlio di Vofsi;
+      old_georgian: ძეთაგან ასერისთა - სათურ, ძე მიქაელისი.
+      portuguese: da tribo de Naftali, Nabi, filho de Vofsi;
+      polish: z pokolenia Neftalego Nachbi, syn Wafsiego;
+      turkish: Naftali oymağından Vofsi oğlu Nahbi;
+      nrt: из рода Асира – Сефур, сын Михаила;
+      Macarius: Из колена Асирова Сефур, сын Михаилов,
+      serbian: Од племена Асирова Сатур, син Михаилов;
+      bulgarian: от Асирово коляно - Сетур, Михаилев син,
+      deutsch: Nahebi, der Sohn Vaphsis, des Stammes Naphthali;
+      ukr2: Від коліна Нафталі Нахбі, син Вофсі.
+      ukr3: Від поколїння Нефталїєвого, Нагбій Вафсіенко;
+      bel_syomukha: з племені Асіравага Сэтур, сын Міхаілеў,
+      lev-khv: Из колена Неффалимова Нахбий, сын Вофсиев,
+      czech: z Neftaliova pokoleni Nachbi, syn Vofsiuv,
+      spanish: de la tribu de Aser, Setur, hijo de Micael;
+      greek-lxx: τῆς φυλῆς Ασηρ Σαθουρ υἱὸς Μιχαηλ
+      st_text: из колена Асирова Сефур, сын Михаилев,
+  - id: 11346
+    number: 15
+    bookId: 4
+    text: из колена Неффалимова Нахбий, сын Вофсиев,
+    chapter: 13
+    chapterId: 130
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: племени Неффалима Нави сын Иавия;
+      csya: "от племене неффалимля навий сын савинь:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "t пле1мене нефfалjмлz навjй сы1нъ савjнь:"
+      sovr_rbo: от племени Неффалима — Нахби, сын Вафси
+      latin: De tribu Nephthali, Nahabi filium Vapsi.
+      ukr: для Нефталимового племени Нахбі, син Вофсіїв;
+      nkjv: from the tribe of Naphtali, Nahbi the son of Vophsi;
+      desnitsky: ""
+      mt: ‫   לְמַטֵּה נַפְתָּלִי נַחְבִּי בֶּן־וָפְסִי׃ ‬
+      romana: Nahbi, fiul lui Vofsi, din semintia lui Neftali;
+      francais: "pour la tribu de Gad: Guéuel, fils de Maki."
+      italian: per la tribù di Gad, Gheuel figlio di Machi.
+      old_georgian: ძეთაგან ლეფთალემისთა - აბი, ძე იაბისი.
+      portuguese: da tribo de Gade, Geuel, filho de Maqui.
+      polish: z pokolenia Gada Geuel, syn Makiego.
+      turkish: Gad oymağından Maki oğlu Geuel.
+      nrt: из рода Неффалима – Нахбий, сын Вофси;
+      Macarius: Из колена Неффалимова Нахбий, сын Вофсиев,
+      serbian: Од племена Нефталимова Навија, син Савин;
+      bulgarian: от Нефталимово коляно - Нахбий, Вофсиев син,
+      deutsch: Guel, der Sohn Machis, des Stammes Gad.
+      ukr2: Від коліна Гада Реуел, син Махі.
+      ukr3: Від поколїння Гадового, Геуель Махізенко.
+      bel_syomukha: з племені Нэфталімавага Нахбій, сын Вофсіеў,
+      lev-khv: Из колена Гадова Геуил, сын Махиев.
+      czech: z Gadova pokoleni Geuel, syn Makiuv.
+      spanish: de la tribu de Neftalí, Najbí, hijo de Vapsí;
+      greek-lxx: τῆς φυλῆς Νεφθαλι Ναβι υἱὸς Ιαβι
+      st_text: из колена Неффалимова Нахбий, сын Вофсиев,
+  - id: 11347
+    number: 16
+    bookId: 4
+    text: из колена Гадова Геуил, сын Махиев.
+    chapter: 13
+    chapterId: 130
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: племени Гада Гудиил сын Макхия.
+      csya: от племене гадова гудиил сын махииль.
+      averincev: ""
+      ungerov: ""
+      csya_old: t пле1мене гaдова гудіи1лъ сы1нъ махіи1ль.
+      sovr_rbo: от племени Гада — Геуэл, сын Махи.
+      latin: De tribu Gad, Guel filium Machi.
+      ukr: для Ґадового племени Ґеуїл, син Махіїв.
+      nkjv: from the tribe of Gad, Geuel the son of Machi.
+      desnitsky: ""
+      mt: ‫   לְמַטֵּה גָד גְּאוּאֵל בֶּן־מָכִי׃ ‬
+      romana: Gheuel, fiul lui Machi, din semintia lui Gad.
+      francais: Tels sont les noms des hommes que Moïse envoya pour explorer le pays.
+        Moïse donna à Hosée, fils de Nun, le nom de Josué.
+      italian: Questi sono i nomi degli uomini che Mosè mandò a esplorare il paese.
+        Mosè diede ad Osea, figlio di Nun, il nome di Giosuè.
+      old_georgian: ძეთაგან გადისთა - ტოელ, ძე მაქისი.
+      portuguese: "Estes são os nomes dos homens que Moisés enviou a espiar a terra.
+        Ora, a Oséias, filho de Num, Moisés\rchamou Josué."
+      polish: Oto imiona mężów, których Mojżesz posłał celem rozpoznania kraju.
+        Ozeaszowi, synowi Nuna, dał [później] Mojżesz imię Jozue.
+      turkish: "Ülkeyi araştırmak üzere Musa'nın gönderdiği adamlar bunlardı.\rMusa
+        Nun oğlu Hoşea'ya  Yeşu adını verdi."
+      nrt: из рода Гада – Геуил, сын Махи.
+      Macarius: Из колена Гадова Геуил, сын Махиев.
+      serbian: Од племена Гадова Гудило, син Махилов.
+      bulgarian: от Гадово коляно - Геуил, Махиев син.
+      deutsch: Das sind die Namen der Männer, die Mose aussandte, zu erkunden das
+        Land. Aber Hosea, den Sohn Nuns, nannte Mose Josua.
+      ukr2: Це ймення мужів, яких послав Мойсей, щоб розглянули землю. Ошеу ж, сина
+        Нуна, назвав Мойсей - Єгошуа (Ісус).
+      ukr3: Се імення мужів громадських, що їх післав Мойсей розгледїти землю. Гозейю
+        ж Нуненка назвав Мойсей Йозуа.
+      bel_syomukha: з племені Гадавага Геуіл, сын Махіеў.
+      lev-khv: Вот имена мужей, которых послал Моисей для обозрения земли. И назвал
+        Моисей Осию, сына Навина, Иисусом.
+      czech: To jsou jmena muzu, ktere poslal Mojzis prozkoumat zemi. Hoseu, syna
+        Nunova, nazval Mojzis Jozue.
+      spanish: de la tribu de Gad, Güel, hijo de Maquí.
+      greek-lxx: τῆς φυλῆς Γαδ Γουδιηλ υἱὸς Μακχι
+      st_text: из колена Гадова Геуил, сын Махиев.
+  - id: 11348
+    number: 17
+    bookId: 4
+    text: Вот имена мужей, которых посылал Моисей высмотреть землю. И назвал Моисей
+      Осию, сына Навина, Иисусом.
+    chapter: 13
+    chapterId: 130
+    parallels:
+      - verseId: 12068
+        bookId: 4
+        bookCode: cisla
+        chapter: 32
+        short: Чис:32:8
+      - verseId: 27037
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 14
+        short: Нав:14:7
+    translates:
+      kassian: ""
+      podstr: Эти имена мужчин, которых послал Моисей высмотреть землю. И назвал
+        Моисей Аисия сына Навина Иисусом.
+      csya: "Сия имена мужей, ихже посла моисей соглядати землю: и прозва моисей авсиа
+        сына навина иисус."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Сі‰ и3менA муже1й, и5хже послA мwmсе1й соглsдати зе1млю: и3 прозвA
+        мwmсе1й ґvсjа сы1на наvи1на їисyсъ."
+      sovr_rbo: Это имена людей, которых Моисей отправил осмотреть страну. (А Осии
+        Навину Моисей дал новое имя — Иисус.)
+      latin: "H&#230;c sunt nomina virorum, quos misit Moyses ad considerandam terram:
+        vocavitque Osee filium Nun, Josue."
+      ukr: "Оце ймення тих людей, що Мойсей послав був розвідати той Край. І назвав
+        Мойсей Осію, Навинового сина: Ісус."
+      nkjv: These are the names of the men whom Moses sent to spy out the land. And
+        Moses called Hoshea the son of Nun, Joshua.
+      desnitsky: ""
+      mt: ‫   אֵלֶּה שְׁמוֹת הָאֲנָשִׁים אֲשֶׁר־שָׁלַח מֹשֶׁה לָתוּר אֶת־הָאָרֶץ
+        וַיִּקְרָא מֹשֶׁה לְהוֹשֵׁעַ בִּן־נוּן יְהוֹשֻׁעַ׃ ‬
+      romana: Acestea sunt numele barbatilor pe care i-a trimis Moise sa iscodeasca
+        tara. Insa pe Osia, fiul lui Navi, Moise l-a numit Iosua.
+      francais: "Moïse les envoya pour explorer le pays de Canaan. Il leur dit: Montez
+        ici, par le midi; et vous monterez sur la montagne."
+      italian: 'Mosè dunque li mandò a esplorare il paese di Canaan e disse loro:
+        "Salite attraverso il Negheb; poi salirete alla regione montana'
+      old_georgian: ესე არს სახელები კაცთაჲ მათ, რომელნი წარავლინნა მოსე განხილვად
+        ქუეყანისა მის ქანანელთაჲსა და დასდვა ასეს, ძესა ნავესსა, სახელი მისი
+        ისუ.
+      portuguese: "Enviou-os, pois, Moisés a espiar: a terra de Canaã, e disse-lhes:
+        Subi por aqui para o Negebe, e penetrai nas\rmontanhas;"
+      polish: "Mojżesz posłał ich celem zbadania ziemi Kanaan, mówiąc: ”Idźcie przez
+        Negeb, a następnie wstąpcie na góry."
+      turkish: Musa, Kenan ülkesini araştırmak üzere onları gönderirken, «Negev'e,
+        dağlık bölgeye gidin» dedi,
+      nrt: Таковы имена тех, кого Моисей послал разведать землю. (Раньше Моисей дал
+        Осии, сыну Навина, имя Иисус.)
+      Macarius: Вот имена мужей, коих посылал Моисей для обозрения земли. И назвал
+        Моисей Осию, сына Навина, Иисусом.
+      serbian: То су имена људима које посла Мојсије да уходе земљу. И назва Мојсије
+        Авсија, сина Навина, Исус.
+      bulgarian: Това са имената на мъжете, които Моисей изпрати да разгледат земята.
+        И нарече Моисей Осия, Навинов син, Иисус.
+      deutsch: "Da sie nun Mose sandte, das Land Kanaan zu erkunden, sprach er zu
+        ihnen: Ziehet hinauf ins Mittagsland und geht auf das Gebirge"
+      ukr2: "Послав їх Мойсей, щоб розглянули Ханаан-землю і мовив: “Здійміться
+        звідсіль у Негев та й зійдіть на гору,"
+      ukr3: "І післав їх Мойсей розгледїти Канаан землю, кажучи їм: Ідїте сюди на
+        полудне, та й зійдете на гору."
+      bel_syomukha: Вось імёны мужоў, якіх пасылаў Майсей агледзець зямлю. І назваў
+        Майсей Асію, сына Нававага, Ісусам.
+      lev-khv: "И послал их Моисей обозреть землю Ханаанскую, и сказал им: подите в
+        эту южную страну и взойдите на гору;"
+      czech: "Mojzis je poslal prozkoumat kenaanskou zemi a rekl jim: „Jdete vzhuru
+        Negebem, vystupte pak na pohori"
+      spanish: ")Mandólos, pues, Moisés a explorar la tierra de Canán, diciéndoles:
+        <<Subid de aquí al Negueb; después subid a la montaña,"
+      greek-lxx: ταῦτα τὰ ὀνόματα τῶν ἀνδρῶν οὓς ἀπέστειλεν Μωυσῆς κατασκέψασθαι τὴν
+        γῆν καὶ ἐπωνόμασεν Μωυσῆς τὸν Αυση υἱὸν Ναυη Ἰησοῦν
+      st_text: Вот имена мужей, которых посылал Моисей высмотреть землю. И назвал
+        Моисей Осию, сына Навина, Иисусом.
+  - id: 11349
+    number: 18
+    bookId: 4
+    text: "И послал их Моисей [из пустыни Фаран] высмотреть землю Ханаанскую и
+      сказал им: пойдите в эту южную страну, и взойдите на гору,"
+    chapter: 13
+    chapterId: 130
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "И послал их Моисей высмотреть землю Ханаан и сказал к ним: взойдите
+        этой пустыней и восходите на гору"
+      csya: "И посла я моисей от пустыни фарани соглядати земли ханаанския, и рече к
+        ним: взыдите пустынею сею, и взыдете на гору."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# послA | мwmсе1й t пусты1ни фарaни соглsдати земли2 ханаaнскіz, и3
+        рече2 къ ни6мъ: взы1дите пусты1нею се1ю, и3 взы1дете на го1ру"
+      sovr_rbo: "Отправляя их осмотреть Ханаан, Моисей сказал им: «Идите через Негев в
+        нагорную страну!"
+      latin: "Misit ergo eos Moyses ad considerandam terram Chanaan, et dixit ad eos:
+        Ascendite per meridianam plagam. Cumque veneritis ad montes,"
+      ukr: "І послав їх Мойсей розвідати Край ханаанський, та й промовив до них:
+        Підіть тут на південь, і ввійдете на гору,"
+      nkjv: Then Moses sent them to spy out the land of Canaan, and said to them, "Go
+        up this way into the South, and go up to the mountains,
+      desnitsky: ""
+      mt: ‫   וַיִּשְׁלַח אֹתָם מֹשֶׁה לָתוּר אֶת־אֶרֶץ כְּנָעַן וַיֹּאמֶר אֲלֵהֶם
+        עֲלוּ זֶה בַּנֶּגֶב וַעֲלִיתֶם אֶת־הָהָר׃ ‬
+      romana: "Trimitandu-i pe acestia din pustiul Paran ca sa iscodeasca pamantul
+        Canaanului, Moise le-a zis:"
+      francais: Vous verrez le pays, ce qu'il est, et le peuple qui l'habite, s'il est
+        fort ou faible, s'il est en petit ou en grand nombre;
+      italian: e osserverete che paese sia, che popolo l'abiti, se forte o debole, se
+        poco o molto numeroso;
+      old_georgian: "და წარავლინნა იგინი მოსე უდაბნოჲთ ფარანისაჲთ განმსტრობად
+        ქუეყანისა მის ქანანელთაჲსა და ჰრქუა მათ:"
+      portuguese: e vede a terra, que tal é; e o povo que nela habita, se é forte ou
+        fraco, se pouco ou muito;
+      polish: "Zobaczcie, jaki jest kraj, a mianowicie jaki lud w nim mieszka, czy
+        jest silny\rczy też słaby, czy jest liczny, czy też jest go mało."
+      turkish: "«Nasıl bir ülke olduğunu, orada\ryaşayan halkın güçlü mü zayıf mı, çok
+        mu az mı olduğunu öğrenin."
+      nrt: "Посылая их разведать Ханаан, Моисей сказал: – Идите через Негев в
+        нагорья."
+      Macarius: "Когда посылал их Моисей [из пустыни Фаран] обозревать землю
+        Ханаанскую, тогда сказал им: подите в южную страну и взойдите на гору;"
+      serbian: "И шаљући их Мојсије да уходе земљу Хананску, рече им: Идите овуда на
+        југ, па изидите на гору;"
+      bulgarian: "Изпрати ги Моисей (от пустиня Фаран) да разгледат Ханаанската земя и
+        им рече: идете в тая южна страна и се качете на планината,"
+      deutsch: und besehet das Land, wie es ist, und das Volk, das darin wohnt, ob's
+        stark oder schwach, wenig oder viel ist;
+      ukr2: та огляньте землю, яка вона, і люд, що в ній живе, сильний він чи слабий,
+        мало його чи багато,
+      ukr3: І подивитесь на землю, яка вона; і люд, що живе в їй, чи міцний, чи
+        слабовитий, малий, чи великий;
+      bel_syomukha: "І паслаў іх Майсей агледзець зямлю Ханаанскую і сказаў ім: ідзеце
+        ў гэтую паўднёвую краіну, і падымецеся на гару,"
+      lev-khv: И осмотрите землю, какова она, и народ живущий на ней, силен ли он или
+        слаб, малочислен он или многочислен?
+      czech: a zjistete, jaka to je zeme a jaky lid v ni sidli; zda je silny nebo
+        slaby, zda ho je malo nebo mnoho;
+      spanish: )y observad la tierra cómo es, qué gente la habita, si fuerte o floja,
+        si poca o mucha;
+      greek-lxx: καὶ ἀπέστειλεν αὐτοὺς Μωυσῆς κατασκέψασθαι τὴν γῆν Χανααν καὶ εἶπεν
+        πρὸς αὐτούς ἀνάβητε ταύτῃ τῇ ἐρήμῳ καὶ ἀναβήσεσθε εἰς τὸ ὄρος
+      st_text: "И послал их Моисей [из пустыни Фаран] высмотреть землю Ханаанскую и
+        сказал им: пойдите в эту южную страну, и взойдите на гору,"
+  - id: 11350
+    number: 19
+    bookId: 4
+    text: и осмотрите землю, какова она, и народ живущий на ней, силен ли он или
+      слаб, малочислен ли он или многочислен?
+    chapter: 13
+    chapterId: 130
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и увидите землю, какая она есть, и народ пребывающий на ней, ли сильный
+        он есть или слабый, ли немногие они есть или многие;
+      csya: и узрите землю, какова есть, и люди седящыя на ней, аще сильни суть, или
+        немощни, мало ли их есть, или много?
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 ќзрите зе1млю, каковA є4сть, и3 лю1ди сэдsщыz на не1й, ѓще си1льни
+        сyть, и3ли2 не1мощни, мaлw ли и4хъ є4сть, и3ли2 мно1гw;
+      sovr_rbo: "Осмотрите эту землю и узнайте, какова она. Каков живущий там народ:
+        силен он или слаб, малочислен или многочислен?"
+      latin: "considerate terram, qualis sit: et populum qui habitator est ejus, utrum
+        fortis sit an infirmus: si pauci numero an plures:"
+      ukr: та й побачите той Край який він, і народ, що сидить у ньому, чи сильний
+        він, чи слабий, чи малий він, чи численний?
+      nkjv: "and see what the land is like: whether the people who dwell in it are
+        strong or weak, few or many;"
+      desnitsky: ""
+      mt: ‫   וּרְאִיתֶם אֶת־הָאָרֶץ מַה־הִוא וְאֶת־הָעָם הַיֹּשֵׁב עָלֶיהָ הֶחָזָק
+        הוּא הֲרָפֶה הַמְעַט הוּא אִם־רָב׃ ‬
+      romana: '"Suiti-va din pustiul acesta si va urcati pe munte si cercetati ce
+        pamant este si ce popor locuieste in el; de este tare sau slab, mult la
+        numar sau putin;'
+      francais: ce qu'est le pays où il habite, s'il est bon ou mauvais; ce que sont
+        les villes où il habite, si elles sont ouvertes ou fortifiées;
+      italian: come sia la regione che esso abita, se buona o cattiva, e come siano le
+        città dove abita, se siano accampamenti o luoghi fortificati;
+      old_georgian: აღვედით ამიერ უდაბნოჲთ და აღხჳდეთ თქუენ მთასა მას. და იხილეთ
+        ქუეყანა იგი, რაბამ-რაჲ არს და ერი იგი, რომელ მსხდომ არს მას ზედა, ანუ თუ
+        ძლიერ არს, ანუ თუ უძლურ, ანუ თუ მცირედ არიან, ანუ თუ მრავალ.
+      portuguese: que tal é a terra em que habita, se boa ou má; que tais são as
+        cidades em que habita, se arraiais ou fortalezas;
+      polish: "Jaki jest kraj, w którym on mieszka: dobry czy zły, i jakie miasta, w
+        których\ron mieszka: obronne czy bez murów?"
+      turkish: Yaşadıkları ülke iyi mi kötü mü, kentleri nasıl, surlu mu değil mi
+        anlayın.
+      nrt: Посмотрите, что это за земля и что за народ живет там, силен он или слаб,
+        мал или велик?
+      Macarius: И осмотрите землю, какова она, и народ живущий на ней, силен ли он или
+        слаб, малочислен ли он или многочислен?
+      serbian: И видите земљу каква је и какав народ живи у њој, је ли јак или слаб,
+        је ли мали или велик;
+      bulgarian: и обгледайте земята каква е, и народа, който живее там, силен ли е,
+        или е слаб, малоброен ли е, или е многоброен?
+      deutsch: und was es für ein Land ist, darin sie wohnen, ob's gut oder böse sei;
+        und was für Städte sind, darin sie wohnen, ob sie in Gezelten oder
+        Festungen wohnen;
+      ukr2: і який той край, де він живе, чи добрий чи поганий, і які міста, що в них
+        живе він, чи відкриті чи укріплені,
+      ukr3: І яка земля та, де вони живуть, добра, чи зла, і які міста, що в їх живуть
+        вони, табори, чи утвержені міста?
+      bel_syomukha: і агледзьце зямлю, якая яна, і народ, які жыве на ёй, ці моцны ён,
+        ці слабы, ці малы ён лікам, ці вялікі?
+      lev-khv: И какова земля, на которой он живет, хороша ли она или худа? и каковы
+        города, в которых он живет, в станах ли, или в городах укрепленных?
+      czech: a zda je zeme, v niz sidli, dobra nebo zla, tez zda jsou mesta, v nichz
+        sidli, otevrena nebo opevnena;
+      spanish: )qué tal es la tierra habitada, si buena o mala; cuáles son sus
+        ciudades, si abiertas o amuralladas;
+      greek-lxx: καὶ ὄψεσθε τὴν γῆν τίς ἐστιν καὶ τὸν λαὸν τὸν ἐγκαθήμενον ἐπ᾿ αὐτῆς
+        εἰ ἰσχυρότερός ἐστιν ἢ ἀσθενής εἰ ὀλίγοι εἰσὶν ἢ πολλοί
+      st_text: и осмотрите землю, какова она, и народ живущий на ней, силен ли он или
+        слаб, малочислен ли он или многочислен?
+  - id: 11351
+    number: 20
+    bookId: 4
+    text: и какова земля, на которой он живет, хороша ли она или худа? и каковы
+      города, в которых он живет, в шатрах ли он живет или в укреплениях?
+    chapter: 13
+    chapterId: 130
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и какая земля, в которой эти пребывают на ней, ли хорошая она есть или
+        дурная; и которые города, в которых эти обитают в них, ли в окружении
+        стен или в не окружении стен;
+      csya: и какова земля, на нейже сии седят, добра ли есть, или зла? и какови
+        гради, в нихже живут сии, ограждени ли суть, или не ограждени?
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 каковA землS, на не1йже сjи сэдsтъ, добрa ли є4сть, и3ли2 ѕлA; и3
+        какови2 грaди, въ ни1хже живyтъ сjи, њгражде1ни ли сyть, и3ли2 не
+        њгражде1ни;
+      sovr_rbo: "Какова страна этого народа: хороша она или плоха? Где живут эти люди:
+        в селах или в укрепленных городах?"
+      latin: "ipsa terra, bona an mala: urbes quales, murat&#230; an absque muris:"
+      ukr: І який той Край, що він сидить у ньому, чи він добрий чи злий? І які ті
+        міста, що він сидить у них, чи в таборах, чи в твердинях?
+      nkjv: whether the land they dwell in is good or bad; whether the cities they
+        inhabit are like camps or strongholds;
+      desnitsky: ""
+      mt: ‫   וּמָה הָאָרֶץ אֲשֶׁר־הוּא יֹשֵׁב בָּהּ הֲטוֹבָה הִוא אִם־רָעָה וּמָה
+        הֶעָרִים אֲשֶׁר־הוּא יוֹשֵׁב בָּהֵנָּה הַבְּמַחֲנִים אִם בְּמִבְצָרִים׃
+        ‬
+      romana: "Cum este tara pe care o locuieste: buna sau rea, cum sunt orasele in
+        care traieste el: cu ziduri sau fara ziduri;"
+      francais: ce qu'est le terrain, s'il est gras ou maigre, s'il y a des arbres ou
+        s'il  n'y en a point. Ayez bon courage, et prenez des fruits du pays.
+        C'était le temps des premiers raisins.
+      italian: come sia il terreno, se fertile o sterile, se vi siano alberi o no.
+        Siate coraggiosi e portate frutti del paese". Era il tempo in cui
+        cominciava a maturare l'uva.
+      old_georgian: და ვითარ არს ქუეყანა იგი, რომელსა ზედა დამკჳდრებულ არიან იგინი,
+        გინათუ კეთილ არს, ანუ ბოროტ, ანუ ვითარ არიან ქალაქნი იგი, რომელსა შინა
+        დამკჳდრებულ არიან იგინი, ანუ თუ მოზღუდვილ არიან, ანუ თუ უზღუდო.
+      portuguese: "e que tal é a terra, se gorda ou magra; se nela há árvores, ou não;
+        e esforçai-vos, e tomai do fruto da terra. Ora, a\restação era a das
+        uvas temporãs."
+      polish: "Dalej, jaka jest ziemia: urodzajna czy nie, zalesiona czy bez drzew?
+        Bądźcie\rodważni i przynieście coś z owoców tej ziemi”. A był to właśnie
+        czas dojrzewania winogron."
+      turkish: "Toprak nasıl? Verimli mi, kıraç mı? Çevre ağaçlık mı, değil
+        mi?\rElinizden geleni yapıp orada yetişen meyvelerden getirin.» Mevsim
+        üzümün olgunlaşmaya başladığı zamandı."
+      nrt: "Какова земля, на которой он живет, хорошая или плохая? В каких городах он
+        живет: без стен они или укреплены?"
+      Macarius: Какова земля, на которой он живет, хороша ли она или худа? и каковы
+        города, в коих он живет, в станах ли он живет или в крепостях?
+      serbian: И каква је земља у којој живи, је ли добра или рђава; и каква су мјеста
+        у којима живи, еда ли под шаторима или у тврдим градовима;
+      bulgarian: Каква е земята, дето той живее, добра ли е, или лоша? и какви са
+        градовете, в които живее, в шатри ли той живее, или в укрепления?
+      deutsch: und was es für Land sei, ob's fett oder mager sei und ob Bäume darin
+        sind oder nicht. Seid getrost und nehmet die Früchte des Landes. Es war
+        aber eben um die Zeit der ersten Weintrauben.
+      ukr2: і яка земля, родюча вона чи ялова, чи е на ній дерево а чи ні. Та будьте
+        сміливі й принесіть плоди землі.” А була саме пора дозрівання винограду.
+      ukr3: "І яка земля: родюща вона, чи скуповата; чи є по їй дерево, чи нема? І
+        бувайте сьміливі, та принесїть з плоду землї. А був тодї саме час, що
+        дозрів виноград."
+      bel_syomukha: і якая зямля, на якой ён жыве, ці добрая яна, ці благая? і якія
+        гарады, у якіх ён жыве? ці ў намётах ён жыве, ці ва ўмацаваньнях?
+      lev-khv: И какова земля, тучна ли она или тоща? Есть ли на <i>ней</i> дерева или
+        нет? будьте же смелы, и возьмите от плодов земли. А тогда было время
+        созревания винограда.
+      czech: tez zda je zeme urodna ci neurodna, zda v ni jsou stromy nebo ne. Budte
+        odvazni a prineste neco z ovoce te zeme!“ Byl totiz cas ranych hroznu.
+      spanish: )Cual es su terreno, si fértil o pobre, si con árboles o sin ellos.
+        Animaos y traed algunos frutos de esa tierra>>. Era esto al tiempo de
+        las primeras uvas.
+      greek-lxx: καὶ τίς ἡ γῆ εἰς ἣν οὗτοι ἐγκάθηνται ἐπ᾿ αὐτῆς εἰ καλή ἐστιν ἢ πονηρά
+        καὶ τίνες αἱ πόλεις εἰς ἃς οὗτοι κατοικοῦσιν ἐν αὐταῖς εἰ ἐν τειχήρεσιν
+        ἢ ἐν ἀτειχίστοις
+      st_text: и какова земля, на которой он живет, хороша ли она или худа? и каковы
+        города, в которых он живет, в шатрах ли он живет или в укреплениях?
+  - id: 11352
+    number: 21
+    bookId: 4
+    text: и какова земля, тучна ли она или тоща? есть ли на <i>ней</i> дерева или
+      нет? будьте смелы, и возьмите от плодов земли. Было же это ко времени
+      созревания винограда.
+    chapter: 13
+    chapterId: 130
+    parallels:
+      - verseId: 4479
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 8
+        short: 2 Цар:8:9
+    translates:
+      kassian: ""
+      podstr: и какая земля, ли плодородная или не плодородная, ли есть на ней деревья
+        или нет; и продолжившие возьмёте от плодов земли. и [во] дни дней весны,
+        начаток виноградной грозди.
+      csya: и какова земля, изобильна ли, или не изобильна? суть ли на ней древеса,
+        или ни? и укрепившеся, возмите от плодов земли. Дние же бяху весенни,
+        предваряющии ягоды.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 каковA землS, и3з8oби1льна ли, и3ли2 не и3з8oби1льна; сyть ли на
+        не1й древесA, и3ли2 ни2; и3 ўкрэпи1вшесz, возми1те t плодHвъ земли2.
+        Днjе же бsху дни6 весє1нни, предварsющіи ћгwды.
+      sovr_rbo: "Какова там земля: плодородна она или бесплодна? Растут ли там
+        деревья? Непременно постарайтесь принести с собою плоды этой земли». (То
+        была пора, когда собирают первый урожай винограда.)"
+      latin: humus, pinguis an sterilis, nemorosa an absque arboribus. Confortamini,
+        et afferte nobis de fructibus terr&#230;. Erat autem tempus quando jam
+        pr&#230;coqu&#230; uv&#230; vesci possunt.
+      ukr: І яка та земля, чи масна вона, чи пісна? Чи є на ній дерево, чи ні? І
+        будьте відважні, і візьміть з плоду землі; а дні ці дні виноградного
+        первоплоду.
+      nkjv: whether the land is rich or poor; and whether there are forests there or
+        not. Be of good courage. And bring some of the fruit of the land." Now
+        the time was the season of the first ripe grapes.
+      desnitsky: ""
+      mt: ‫   וּמָה הָאָרֶץ הַשְּׁמֵנָה הִוא אִם־רָזָה הֲיֵשׁ־בָּהּ עֵץ אִם־אַיִן
+        וְהִתְחַזַּקְתֶּם וּלְקַחְתֶּם מִפְּרִי הָאָרֶץ וְהַיָּמִים יְמֵי
+        בִּכּוּרֵי עֲנָבִים׃ ‬
+      romana: 'Cum este pamantul: gras sau slab, de sunt pe el copaci sau nu. Fiti
+        curajosi si luati din roadele pamantului aceluia". Aceasta se petrecea
+        pe vremea coacerii strugurilor.'
+      francais: Ils montèrent, et ils explorèrent le pays, depuis le désert de Tsin
+        jusqu'à Rehob, sur le chemin de Hamath.
+      italian: Quelli dunque salirono ed esplorarono il paese dal deserto di Sin, fino
+        a Recob, in direzione di Amat.
+      old_georgian: და რაჲ არს ქუეყანა იგი, ანუ თუ პოხილ არს, ანუ მჭლე, ანუ თუ არს ხე
+        მას ზედა, ანუ თუ არა, და განეკრძალენით და მოიღეთ ნაყოფისა მისგან მის
+        ქუეყანისა. და დღენი იგი იყუნეს დღენი ზაფხულისანი და ჟამი მსთჳსა
+        ყურძნისა.
+      portuguese: Assim subiram, e espiaram a terra desde o deserto de Zim, até Reobe,
+        à entrada de Hamate.
+      polish: "Wyruszyli więc i badali kraj od pustyni Sin aż do Rechob, u Wejścia
+        do\rChamat."
+      turkish: Böylece adamlar yola çıkıp ülkeyi Zin Çölü'nden Levo-Hamat'a doğru
+        Rehov'a dek araştırdılar.
+      nrt: Какова там почва, плодородная или бесплодная? Есть там деревья или нет?
+        Будьте смелы, возьмите с собой плодов этой земли. (Как раз настала пора
+        созревания винограда.)
+      Macarius: Какова земля, тучна ли она или суха? Есть ли на ней дерева или нет?
+        Будьте смелы и возьмите плодов земли. А в то время созревал первый
+        виноград.
+      serbian: И каква је сама земља, је ли родна или неродна, има ли у њој дрвета или
+        нема; будите слободни, и узмите рода оне земље. А тада бјеше вријеме
+        првом грожђу.
+      bulgarian: Каква е земята, тучна ли е, или слаба, има ли по нея дървета, или
+        няма? Бъдете смели и вземете от плодовете на земята. А това беше, когато
+        зрее гроздето.
+      deutsch: Sie gingen hinauf und erkundeten das Land von der Wüste Zin bis gen
+        Rehob, da man gen Hamath geht.
+      ukr2: То й пішли вони й розглянули землю від Сін-пустині до Рехову, що в напрямі
+        Хамату.
+      ukr3: І пійшли вони, розгледїли землю від Зин степу до Регобу, як ійти до
+        Гамату.
+      bel_syomukha: і якая зямля, ці тлустая яна, ці пустая? ці ёсьць на ёй дрэвы, ці
+        няма? будзьце адважныя і вазьмеце ад пладоў зямлі. І было гэта ў пару
+        пасьпяваньня вінаграду.
+      lev-khv: Они пошли и обозрели землю от пустыни Цин до Рехова, близь Емафа.
+      czech: Sli tedy a prozkoumali zemi od pouste Sinu az k Rechobu pri ceste do
+        Chamatu.
+      spanish: )Subieron y reconocieron la tierra desde el desierto de Sin hasta
+        Rejob, camino de Emat.
+      greek-lxx: καὶ τίς ἡ γῆ εἰ πίων ἢ παρειμένη εἰ ἔστιν ἐν αὐτῇ δένδρα ἢ οὔ καὶ
+        προσκαρτερήσαντες λήμψεσθε ἀπὸ τῶν καρπῶν τῆς γῆς καὶ αἱ ἡμέραι ἡμέραι
+        ἔαρος πρόδρομοι σταφυλῆς
+      st_text: и какова земля, тучна ли она или тоща? есть ли на <i>ней</i> дерева или
+        нет? будьте смелы, и возьмите от плодов земли. Было же это ко времени
+        созревания винограда.
+  - id: 11353
+    number: 22
+    bookId: 4
+    text: Они пошли и высмотрели землю от пустыни Син даже до Рехова, близ Емафа;
+    chapter: 13
+    chapterId: 130
+    parallels:
+      - verseId: 9791
+        bookId: 1
+        bookCode: bytie
+        chapter: 13
+        short: Быт:13:18
+      - verseId: 35965
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 1
+        short: Втор:1:28
+      - verseId: 36234
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 2
+        short: Втор:2:10
+      - verseId: 6585
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 7
+        short: 2 Пар:7:8
+      - verseId: 6602
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 8
+        short: 2 Пар:8:3
+      - verseId: 20532
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 36
+        short: Ис:36:19
+    translates:
+      kassian: ""
+      podstr: И взошедшие исследуйте землю от пустыни Син до Раав входящих Эфаафы.
+      csya: И шедше соглядаша землю от пустыни син даже да роова, до входов емаф.
+      averincev: ""
+      ungerov: ""
+      csya_old: И# ше1дше соглsдаша зе1млю t пусты1ни сjнъ дaже да роHва, до вхо1дwвъ
+        є3мafъ.
+      sovr_rbo: Посланные осмотрели страну, от пустыни Цин до Рехова, что близ
+        Лево-Хамата.
+      latin: Cumque ascendissent, exploraverunt terram a deserto Sin, usque Rohob
+        intrantibus Emath.
+      ukr: І знялися вони, і розвідали той Край від пустині Цін аж до Рехова, у
+        напрямі до Хамоту.
+      nkjv: So they went up and spied out the land from the Wilderness of Zin as far
+        as Rehob, near the entrance of Hamath.
+      desnitsky: ""
+      mt: ‫   וַיַּעֲלוּ וַיָּתֻרוּ אֶת־הָאָרֶץ מִמִּדְבַּר־צִן עַד־רְחֹב לְבֹא חֲמָת׃
+        ‬
+      romana: Si s-au dus ei si au cercetat pamantul de la pustiul Tin pana la Rehob,
+        care vine langa Hamat.
+      francais: Ils montèrent, par le midi, et ils allèrent jusqu'à Hébron, où étaient
+        Ahiman, Schéschaï et Talmaï, enfants d'Anak. Hébron avait été bâtie sept
+        ans avant Tsoan en Égypte.
+      italian: Salirono attraverso il Negheb e andarono fino a Ebron, dove erano
+        Achiman, Sesai e Talmai, figli di Anak. Ora Ebron era stata edificata
+        sette anni prima di Tanis in Egitto.
+      old_georgian: და აღვიდეს და განიმსტურეს ქუეყანა უდაბნოჲთ სინაჲსაჲთ ვიდრე რააბად
+        შესავალთაჲთ ეფრაათისაჲთ.
+      portuguese: "E subindo para o Negebe, vieram até Hebrom, onde estavam Aimã,
+        Sesai e Talmai, filhos de Anaque. (Ora,\rHebrom foi edificada sete anos
+        antes de Zoã no Egito. )"
+      polish: "Ciągnęli przez Negeb i przybyli do Hebronu, gdzie przebywali
+        Achiman,\rSzeszaj i Talmaj - Anakici. Hebron został zbudowany siedem lat
+        wcześniej\rniż Soan w Egipcie."
+      turkish: Negev'den geçip Anakoğulları'ndan Ahiman, Şeşay ve Talmay'ın yaşadığı
+        Hevron'a vardılar. -Hevron Mısır'daki Soan Kenti'nden yedi yıl önce
+        kurulmuştu.-
+      nrt: Они пошли и разведали землю от пустыни Цин до самого Рехова, что у
+        Лево-Хамата.
+      Macarius: Они пошли и обозрели землю от пустыни Цин даже до Рехова, при входе в
+        Емаф.
+      serbian: И отишавши уходише земљу од пустиње Синске до Реова како се иде у Емат.
+      bulgarian: Те отидоха и обгледаха земята от пустиня Син дори до Рехов, близо до
+        Емат;
+      deutsch: Sie gingen auch hinauf ins Mittagsland und kamen bis gen Hebron; da
+        waren Ahiman, Sesai und Thalmai, die Kinder Enaks. Hebron aber war
+        sieben Jahre gebaut vor Zoan in Ägypten.
+      ukr2: Зійшли вони у Негев і дійшли до Хеврону, а там же були Ахіман, Шешай і
+        Талмай, діти Анакові. Хеврон же збудовано сім років перед Цоаном в
+        Єгипті.
+      ukr3: І повернули на полудне, і дійшли до Геброну, а там Ахіман, Сесай і
+        Тальмай, дїти Енакові. Геброн же збудовано за сїм років перед Зоаном в
+        Египтї.
+      bel_syomukha: Яны пайшлі і агледзелі зямлю ад пустыні Сін нават да Рэхова,
+        непадалёк ад Эмата;
+      lev-khv: И пошли в южную страну, и дошли до Хеврона, где <i>жили</i> Ахиман,
+        Шешай и Фалмай, дети Энаковы; Хеврон же построен был семью годами прежде
+        Цоана Египетскаго.
+      czech: Sli vzhuru Negebem a jeden z nich prisel az do Chebronu, kde zili
+        Achiman, Sesaj a Talmaj, zplozenci Anakovi; Chebron byl vystaven sedm
+        let pred egyptskym Soanem.
+      spanish: )Subieron al Negueb y llegaron a Hebrón, donde estaban Ajiman, Sesaí y
+        Tolmai, hijos de Enac. Hebrón fue fundada siete años antes que Tanis, en
+        Egipto.
+      greek-lxx: καὶ ἀναβάντες κατεσκέψαντο τὴν γῆν ἀπὸ τῆς ἐρήμου Σιν ἕως Ρααβ
+        εἰσπορευομένων Εφααθ
+      st_text: Они пошли и высмотрели землю от пустыни Син даже до Рехова, близ Емафа;
+  - id: 11354
+    number: 23
+    bookId: 4
+    text: "и пошли в южную страну, и дошли до Хеврона, где жили Ахиман, Сесай и
+      Фалмай, дети Енаковы: Хеврон же построен был семью годами прежде Цоана,
+      [города] Египетского;"
+    chapter: 13
+    chapterId: 130
+    parallels:
+      - verseId: 12069
+        bookId: 4
+        bookCode: cisla
+        chapter: 32
+        short: Чис:32:9
+      - verseId: 35961
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 1
+        short: Втор:1:24
+      - verseId: 36248
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 2
+        short: Втор:2:24
+      - verseId: 36869
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 9
+        short: Втор:9:2
+      - verseId: 26971
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 11
+        short: Нав:11:21
+      - verseId: 20151
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 19
+        short: Ис:19:11
+    translates:
+      kassian: ""
+      podstr: И они поднялись по пустыне и пришли до Хеврона, и там [жили] Ахиман и
+        Сэсси и Фэламин поколения Энаха; и Хеврон [за] семь лет был построен
+        прежде Танина Египта.
+      csya: "И идоша по пустыни, и приидоша до хеврона: и тамо (живяше) ахиман и
+        сессий и феламин, роды енаковы: и хеврон создася седмию леты прежде
+        танина (града) египетскаго."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# и3до1ша по пусты1ни, и3 пріидо1ша до хеврHна: и3 тaмw (живsше)
+        ґхімaнъ и3 сессjй и3 fеламjнъ, ро1ды є3нaкwвы: и3 хеврHнъ создaсz
+        седмію2 лёты пре1жде танjна (грaда) є3гv1петскагw."
+      sovr_rbo: Пройдя Негев, они достигли Хеврона, где обитали Ахиман, Шешай и
+        Талмай, сыны Анака. (Хеврон был основан на семь лет раньше, чем город
+        Цоан в Египте.)
+      latin: "Ascenderuntque ad meridiem, et venerunt in Hebron, ubi erant Achiman et
+        Sisai et Tholmai filii Enac: nam Hebron septem annis ante Tanim urbem
+        &#198;gypti condita est."
+      ukr: І пішли вони на південь, і прибули аж до Хеврону, а там були Ахіман, Шешай
+        та Талмай, нащадки велетня. А Хеврон був збудований за сім літ перед
+        Цоаном єгипетським.
+      nkjv: And they went up through the South and came to Hebron; Ahiman, Sheshai,
+        and Talmai, the descendants of Anak, were there. (Now Hebron was built
+        seven years before Zoan in Egypt.)
+      desnitsky: ""
+      mt: ‫   וַיַּעֲלוּ בַנֶּגֶב וַיָּבֹא עַד־חֶבְרוֹן וְשָׁם אֲחִימַן שֵׁשַׁי
+        וְתַלְמַי יְלִידֵי הָעֲנָק וְחֶבְרוֹן שֶׁבַע שָׁנִים נִבְנְתָה לִפְנֵי
+        צֹעַן מִצְרָיִם׃ ‬
+      romana: De acolo au trecut in partea de miazazi a Canaanului si au mers pana la
+        Hebron, unde traiau Ahiman, Sesai, si Talmai, copiii lui Enac. Hebronul
+        fusese zidit cu sapte ani inaintea orasului egiptean Toan.
+      francais: Ils arrivèrent jusqu'à la vallée d'Eschcol, où ils coupèrent une
+        branche de vigne avec une grappe de raisin, qu'ils portèrent à deux au
+        moyen d'une perche; ils prirent aussi des grenades et des figues.
+      italian: Giunsero fino alla valle di Escol, dove tagliarono un tralcio con un
+        grappolo d'uva, che portarono in due con una stanga, e presero anche
+        melagrane e fichi.
+      old_georgian: და აღვიდეს უდაბნოჲთ და მოვიდეს ქებრონადმდე და მუნ იყუნეს აქიმან და
+        სესი და თალმი ნათესავნი ენაკისნი. და ქებრონი შჳდით წლით შენებულ იყო
+        უწინარეს ტანისა, რომელ არს ეგჳპტისაჲ.
+      portuguese: "Depois vieram até e vale de Escol, e dali cortaram um ramo de vide
+        com um só cacho, o qual dois homens\rtrouxeram sobre uma verga;
+        trouxeram também romãs e figos."
+      polish: "Przybyli aż do doliny Eszkol. Tam odcięli gałąź krzewu winnego razem
+        z\rwinogronami i ponieśli ją we dwóch na drągu; do tego [zabrali]
+        jeszcze nieco\rjabłek granatu i fig."
+      turkish: Eşkol Vadisi'ne varınca, üzerinde bir salkım üzüm olan bir asma dalı
+        kestiler. Adamlardan ikisi dalı bir sırıkta taşıdılar. Yanlarına nar,
+        incir de aldılar.
+      nrt: Они пошли в Негев и пришли в Хеврон, где жили Ахиман, Шешай и Талмай,
+        потомки Анака. (Хеврон был построен за семь лет до Цоана в Египте.)
+      Macarius: "Потом пошли в южную страну и дошли до Хеврона, где жили Ахиман, Шешай
+        и Фалмай, дети Энаковы: Хеврон же построен был семью годами прежде
+        Цоана, [города] Египетского."
+      serbian: И идоше на југ, и дођоше до Хеврона, где бијаху Ахиман и Сесије и
+        Телиман, синови Енакови. А Хеврон бјеше сазидан на седам година прије
+        Соана Мисирскога.
+      bulgarian: "и отидоха в южната страна и стигнаха до Хеврон, дето живееха Ахиман,
+        Сесай и Талмай, Енакови деца: а Хеврон бе построен седем години по-рано
+        от египетския (град) Цоан;"
+      deutsch: Und sie kamen bis an den Bach Eskol und schnitten daselbst eine Rebe ab
+        mit einer Weintraube und ließen sie zwei auf einem Stecken tragen, dazu
+        auch Granatäpfel und Feigen.
+      ukr2: І дійшовши до Ешкол-долини, зрізали вони там вітку з однією виноградною
+        китицею та й несли її удвох на жердині, опріч ґранат і смоков.
+      ukr3: І дійшли до Єсколь долини, і зрізали там вітку з однією гроною ягод, та й
+        несли її два на жердцї, також і гранати і смокви.
+      bel_syomukha: "і пайшлі ў паўднёвую краіну і дайшлі да Хэўрона, дзе жылі Ахіман,
+        Сэсай і Талмай, дзеці Энакавы: а Хэўрон пабудаваны быў на сем гадоў
+        раней за Цоан Егіпецкі;"
+      lev-khv: И пришли к долине Ешкол, и срезали там виноградную ветвь с одною кистью
+        ягод, и понесли ее на шесте двое; <i>взяли</i> также гранатовых яблоков
+        и смокв.
+      czech: Prisli az k uvalu Eskolu, kde urizli ratolest s jednim vinnym hroznem,
+        dva ji museli nest na sochoru, a nekolik granatovych jablek a fiku.
+      spanish: )Llegaron hasta el valle de Escol, cortaron un sarmiento con racimos de
+        uvas, que trajeron dos en un palo, y granadas e higos.
+      greek-lxx: καὶ ἀνέβησαν κατὰ τὴν ἔρημον καὶ ἦλθον ἕως Χεβρων καὶ ἐκεῖ Αχιμαν καὶ
+        Σεσσι καὶ Θελαμιν γενεαὶ Εναχ καὶ Χεβρων ἑπτὰ ἔτεσιν ᾠκοδομήθη πρὸ τοῦ
+        Tάνιν Αἰγύπτου
+      st_text: "и пошли в южную страну, и дошли до Хеврона, где жили Ахиман, Сесай и
+        Фалмай, дети Енаковы: Хеврон же построен был семью годами прежде Цоана,
+        [города] Египетского;"
+  - id: 11355
+    number: 24
+    bookId: 4
+    text: и пришли к долине Есхол, [и осмотрели ее,] и срезали там виноградную ветвь
+      с одною кистью ягод, и понесли ее на шесте двое; <i>взяли</i> также
+      гранатовых яблок и смокв;
+    chapter: 13
+    chapterId: 130
+    parallels:
+      - verseId: 12069
+        bookId: 4
+        bookCode: cisla
+        chapter: 32
+        short: Чис:32:9
+      - verseId: 35961
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 1
+        short: Втор:1:24
+    translates:
+      kassian: ""
+      podstr: И [они] пришли до Фараггоса винограда и осмотрели его; и срезали оттуда
+        ветвь и кисть виноградной грозди одну от неё и взяли её на шесты и от
+        гранатов и от смокв.
+      csya: "И приидоша до дебри гроздныя, и соглядаша ю: и урезаша оттуду ветвь, и
+        грозд винограда един на ней, и воздвигоша ю на жердь, и от шипков, и от
+        смоквей."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# пріидо1ша до де1бри гро1здныz, и3 соглsдаша ю5: и3 ўрёзаша tтyду
+        вётвь, и3 гро1здъ віногрaда є3ди1нъ на не1й, и3 воздвиго1ша ю5 на
+        же1рдь, и3 t ши1пкwвъ, и3 t смо1квей."
+      sovr_rbo: Они пришли в долину Эшкол и срезали там виноградную лозу с одной
+        гроздью — но такой, что требовалось двое человек, чтобы нести ее на
+        шесте! Они также набрали там гранатов и смокв.
+      latin: "Pergentesque usque ad Torrentem botri, absciderunt palmitem cum uva sua,
+        quem portaverunt in vecte duo viri. De malis quoque granatis et de ficis
+        loci illius tulerunt:"
+      ukr: І прибули вони аж до долини Ешколу, і витяли там галузку з одним гроном
+        винограду, і вдвох понесли його на жердині; також узяли із гранатів та з
+        фіґ.
+      nkjv: Then they came to the Valley of Eshcol, and there cut down a branch with
+        one cluster of grapes; they carried it between two of them on a pole.
+        They also brought some of the pomegranates and figs.
+      desnitsky: ""
+      mt: ‫   וַיָּבֹאוּ עַד־נַחַל אֶשְׁכֹּל וַיִּכְרְתוּ מִשָּׁם זְמוֹרָה
+        וְאֶשְׁכּוֹל עֲנָבִים אֶחָד וַיִּשָּׂאֻהוּ בַמּוֹט בִּשְׁנָיִם
+        וּמִן־הָרִמֹּנִים וּמִן־הַתְּאֵנִים׃ ‬
+      romana: Apoi au venit pana in valea Escol, au cercetat-o si au taiat de acolo o
+        vita de vie cu un strugure de poama si au dus-o doi pe parghie. Au mai
+        luat de asemenea rodii si smochine.
+      francais: On donna à ce lieu le nom de vallée d'Eschcol, à cause de la grappe
+        que les enfants d'Israël y coupèrent.
+      italian: Quel luogo fu chiamato valle di Escol a causa del grappolo d'uva che
+        gli Israeliti vi tagliarono.
+      old_georgian: და მოვიდეს იგინი ჴევადმდე ტევნისა და განიმსტურეს იგი და მოჰკუეთეს
+        მიერ რქაჲ და ტევანი ყურძნისაჲ მას ზედა ერთი და წარიღეს იგი მჴრითა აღებით
+        და ბროწეულისაგან და ლეღჳსა.
+      portuguese: Chamou-se aquele lugar o vale de Escol, por causa do cacho que dali
+        cortaram os filhos de Israel.
+      polish: "Miejsce to nazwano doliną Eszkol, ze względu na winogrona, które tam
+        Izra\relici odcięli."
+      turkish: İsrailliler'in kestiği üzüm salkımından dolayı oraya Eşkol Vadisi adı
+        verildi.
+      nrt: Придя в долину Эшкол, они срезали виноградную ветку с одной гроздью ягод, и
+        двое из них понесли ее на шесте. Еще они взяли гранатов и инжира.
+      Macarius: И пришли к долине Есхол, [и осмотрели ее,] и срезали там виноградную
+        ветвь с кистью ягод, которую несли на носилках двое, также взяли
+        гранатовых яблок и смокв.
+      serbian: Потом дођоше до потока Есхола, и ондје одсјекоше лозу с гроздом
+        једнијем, и понесоше га двојица на моци; тако и шипака и смокава.
+      bulgarian: и стигнаха долина Есхол, (и я обгледаха) и там отрязаха лозова пръчка
+        с един грозд, и двама я понесоха на върлина; взеха и нарове и смокини;
+      deutsch: Der Ort heißt Bach Eskol um der Traube willen, die die Kinder Israel
+        daselbst abschnitten.
+      ukr2: Місце ж те названо Ешкол-долиною з-за грон, що зрізали там сини Ізраїля.
+      ukr3: Урочище те названо Єсколь* долиною через виноград, що зрізали там сини
+        Ізрайлеві.
+      bel_syomukha: і прыйшлі да даліны Эсхол, і зрэзалі там вінаградную галінку з
+        адной гронкаю ягад, і панесьлі яе на жардзіне двое; узялі таксама
+        гранатавых яблыкаў і смокваў;
+      lev-khv: Место это назвали долиною Ешкол, по причине виноградной кисти, которую
+        срезали там сыны Израилевы.
+      czech: To misto se nazyva Eskolsky uval (to je Uval hroznu) podle hroznu, ktery
+        tam Izraelci odrizli.
+      spanish: )Llamaron a aquel lugar Najal-Escol (Valle del Racimo), por el
+        sarmiento de vid que allí hallaron los hijos de Israel.
+      greek-lxx: καὶ ἤλθοσαν ἕως Φάραγγος βότρυος καὶ κατεσκέψαντο αὐτήν καὶ ἔκοψαν
+        ἐκεῖθεν κλῆμα καὶ βότρυν σταφυλῆς ἕνα ἐπ᾿ αὐτοῦ καὶ ἦραν αὐτὸν ἐπ᾿
+        ἀναφορεῦσιν καὶ ἀπὸ τῶν ῥοῶν καὶ ἀπὸ τῶν συκῶν
+      st_text: и пришли к долине Есхол, [и осмотрели ее,] и срезали там виноградную
+        ветвь с одною кистью ягод, и понесли ее на шесте двое; <i>взяли</i>
+        также гранатовых яблок и смокв;
+  - id: 11356
+    number: 25
+    bookId: 4
+    text: место сие назвали долиною Есхол*, по причине виноградной кисти, которую
+      срезали там сыны Израилевы. <i>//*Виноградная кисть.</i>
+    chapter: 13
+    chapterId: 130
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Место то назвали ущелье грозди из-за кисти, которую срезали оттуда
+        сыновья Израиля.
+      csya: И место оно назваша дебрь гроздная, грозда ради, егоже урезаша оттуду
+        сынове израильтестии.
+      averincev: ""
+      ungerov: ""
+      csya_old: И# мёсто џно назвaша де1брь гро1зднаz, гро1зда рaди, є3го1же ўрёзаша
+        tтyду сы1нове ї}льтестіи.
+      sovr_rbo: (Это место было названо долиной Эшкол в память о грозди, которую
+        срезали там сыны Израилевы.)
+      latin: qui appellatus est Nehelescol, id est Torrens botri, eo quod botrum
+        portassent inde filii Isra&#235;l.
+      ukr: "Те місце назвали: Нахал-Ешкол, через те гроно, що Ізраїлеві сини витяли
+        були там."
+      nkjv: The place was called the Valley of Eshcol, because of the cluster which
+        the men of Israel cut down there.
+      desnitsky: ""
+      mt: ‫   לַמָּקוֹם הַהוּא קָרָא נַחַל אֶשְׁכּוֹל עַל אֹדוֹת הָאֶשְׁכּוֹל
+        אֲשֶׁר־כָּרְתוּ מִשָּׁם בְּנֵי יִשְׂרָאֵל׃ ‬
+      romana: Locul acesta l-au numit ei valea Escol, adica valea strugurelui, de la
+        strugurele de poama pe care l-au taiat de acolo fiii lui Israel.
+      francais: Ils furent de retour de l'exploration du pays au bout de quarante jours.
+      italian: Alla fine di quaranta giorni tornarono dall'esplorazione del paese
+      old_georgian: და უწოდეს სახელი ადგილისაჲ მის „ჴევ ტევნის“ - ტევნისა მისთჳს,
+        რომელ მოჰკუეთეს ძეთა ისრაჱლისათა.
+      portuguese: Ao fim de quarenta dias voltaram de espiar a terra.
+      polish: Po czterdziestu dniach wrócili z rozpoznania kraju.
+      turkish: Kırk gün dolaştıktan sonra adamlar ülkeyi araştırmaktan döndüler.
+      nrt: Это место было названо долиной Эшкол из-за грозди, которую срезали там
+        израильтяне.
+      Macarius: Место сие назвали долиною Есхол, по причине виноградной кисти, которую
+        срезали там сыны Израилевы.
+      serbian: И прозва се оно мјесто поток Есхол од грозда, који ондје одсјекоше
+        синови Израиљеви.
+      bulgarian: те нарекоха това място долина Есхол *, поради грозда, що отрязаха там
+        синовете Израилеви. //* Грозд.
+      deutsch: Und sie kehrten um, als sie das Land erkundet hatten, nach vierzig Tagen,
+      ukr2: Повернулися вони з розглядин краю під кінець сорока днів.
+      ukr3: І вернулись вони після розглядин під конець сорока днїв;
+      bel_syomukha: мясьціну гэтую назвалі далінаю Эсхол, з прычыны вінаграднай
+        гронкі, якую зрэзалі там сыны Ізраілевыя.
+      lev-khv: И возвратились они, по обозрении земли, чрез сорок дней.
+      czech: Po ctyriceti dnech pruzkumu zeme se vratili zpet.
+      spanish: )Volvieron de explorar la tierra al cabo de cuarenta días,
+      greek-lxx: τὸν τόπον ἐκεῖνον ἐπωνόμασαν Φάραγξ βότρυος διὰ τὸν βότρυν ὃν ἔκοψαν
+        ἐκεῖθεν οἱ υἱοὶ Ισραηλ
+      st_text: место сие назвали долиною Есхол*, по причине виноградной кисти, которую
+        срезали там сыны Израилевы. <i>//*Виноградная кисть.</i>
+  - id: 11357
+    number: 26
+    bookId: 4
+    text: И высмотрев землю, возвратились они через сорок дней.
+    chapter: 13
+    chapterId: 130
+    parallels:
+      - verseId: 9798
+        bookId: 1
+        bookCode: bytie
+        chapter: 14
+        short: Быт:14:7
+      - verseId: 35956
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 1
+        short: Втор:1:19
+    translates:
+      kassian: ""
+      podstr: И обратились они оттуда исследовавшие землю после сорока дней
+      csya: И возвратишася оттуду, соглядавше землю по четыредесяти днех.
+      averincev: ""
+      ungerov: ""
+      csya_old: И# возврати1шасz tтyду, соглsдавше зе1млю по четы1редесzти дне1хъ.
+      sovr_rbo: Через сорок дней посланцы вернулись, осмотрев всю страну.
+      latin: Reversique exploratores terr&#230; post quadraginta dies, omni regione
+        circuita,
+      ukr: І вернулися вони з розвідки того Краю по сорока днях.
+      nkjv: And they returned from spying out the land after forty days.
+      desnitsky: ""
+      mt: ‫   וַיָּשֻׁבוּ מִתּוּר הָאָרֶץ מִקֵּץ אַרְבָּעִים יוֹם׃ ‬
+      romana: Si dupa ce au cercetat ei pamantul, s-au intors dupa patruzeci de zile
+      francais: A leur arrivée, ils se rendirent auprès de Moïse et d'Aaron, et de
+        toute l'assemblée des enfants d'Israël, à Kadès dans le désert de Paran.
+        Ils leur firent un rapport, ainsi qu'à toute l'assemblée, et ils leur
+        montrèrent les fruits du pays.
+      italian: e andarono a trovare Mosè e Aronne e tutta la comunità degli Israeliti
+        nel deserto di Paran, a Kades; riferirono ogni cosa a loro e a tutta la
+        comunità e mostrarono loro i frutti del paese.
+      old_georgian: და მიიქცეს მიერ და განემსტურო ქუეყანა შემდგომად ორმეოცისა დღისა.
+      portuguese: "E, chegando, apresentaram-se a Moisés e a Arão, e a toda a
+        congregação dos filhos de Israel, no deserto de\rParã, em Cades; e
+        deram-lhes notícias, a eles e a toda a congregação, e mostraram-lhes o
+        fruto da terra."
+      polish: "Przyszli na pustynię Paran do Kadesz i stanęli przed Mojżeszem i
+        Aaronem\roraz przed całą społecznością Izraelitów, złożyli przed nimi
+        sprawozdanie\roraz pokazali owoce kraju."
+      turkish: Paran Çölü'ndeki Kadeş'e, Musa'yla Harun'un ve İsrail topluluğunun
+        yanına geldiler. Onlara ve bütün topluluğa gördüklerini anlatıp ülkenin
+        ürünlerini gösterdiler.
+      nrt: Через сорок дней они вернулись из разведки.
+      Macarius: По прошествии сорока дней возвратились они, обозрев землю,
+      serbian: И послије четрдесет дана вратише се из земље коју уходише.
+      bulgarian: И като обгледаха земята, върнаха се след четирийсет дена.
+      deutsch: gingen hin und kamen zu Mose und Aaron und zu der ganzen Gemeinde der
+        Kinder Israel in die Wüste Pharan gen Kades und sagten ihnen wieder und
+        der ganzen Gemeinde, wie es stände, und ließen sie die Früchte des
+        Landes sehen.
+      ukr2: І, прибувши, прийшли вони до Мойсея та Арона й усієї громади синів Ізраїля
+        в Паран-пустині, у Кадеші, і принесли вістку їм та всій громаді й
+        показали їм плоди землі.
+      ukr3: І йдучи прийшли до Мойсея та Арона, до всієї громади синів Ізрайлевих, у
+        Паран степу, до Кадесу; і принесли вістку їм і всїй громадї і показали
+        їм плоди землї.
+      bel_syomukha: І агледзеўшы зямлю, вярнуліся яны праз сорак дзён.
+      lev-khv: И пошли, и пришли к Моисею, и Аарону, и ко всему обществу сынов
+        Израилевых в пустыню Фаран, в Кадеш, и принесли им и всему обществу
+        ответ, и показали им плоды земли.
+      czech: Prisli konecne k Mojzisovi a Aronovi a k cele pospolitosti Izraelcu na
+        Paranskou poust do Kadese, podali jim a cele pospolitosti zpravu a
+        ukazali jim ovoce te zeme.
+      spanish: )y, llegados, se presentaron a Moisés y a Arón y a toda la asamblea de
+        los hijos de Israel en el desierto de Farán, en Cades;
+      greek-lxx: καὶ ἀπέστρεψαν ἐκεῖθεν κατασκεψάμενοι τὴν γῆν μετὰ τεσσαράκοντα ἡμέρας
+      st_text: И высмотрев землю, возвратились они через сорок дней.
+  - id: 11358
+    number: 27
+    bookId: 4
+    text: И пошли и пришли к Моисею и Аарону и ко всему обществу сынов Израилевых в
+      пустыню Фаран, в Кадес, и принесли им и всему обществу ответ, и показали
+      им плоды земли;
+    chapter: 13
+    chapterId: 130
+    parallels:
+      - verseId: 21906
+        bookId: 2
+        bookCode: ishod
+        chapter: 3
+        short: Исх:3:8
+      - verseId: 11373
+        bookId: 4
+        bookCode: cisla
+        chapter: 14
+        short: Чис:14:8
+      - verseId: 35962
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 1
+        short: Втор:1:25
+    translates:
+      kassian: ""
+      podstr: и пошедшие пришли к Моисею и Аарону и ко всему собранию сыновей Израиля
+        в пустыню Фаран [в] Кадес и они ответили им слово и всему собранию и
+        показали плод земли.
+      csya: "И ходивше приидоша к моисею и аарону и ко всему сонму сынов израилевых в
+        пустыню фараню в кадис: и поведаша им слово и всему сонму, и показаша им
+        плод земный.,"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# ходи1вше пріидо1ша къ мwmсе1ю и3 ґарHну и3 ко всемY со1нму сынHвъ
+        ї}левыхъ въ пусты1ню фарaню въ кaдисъ: и3 повёдаша и5мъ сло1во и3 всемY
+        со1нму, и3 показaша и5мъ пло1дъ земны1й,"
+      sovr_rbo: Придя в Кадеш, что в пустыне Паран, к Моисею, Аарону и всей общине
+        сынов Израилевых, они рассказали Моисею, Аарону и всей общине о том, что
+        видели, и показали плоды той земли.
+      latin: "venerunt ad Moysen et Aaron et ad omnem c&#339;tum filiorum Isra&#235;l
+        in desertum Pharan, quod est in Cades. Locutique eis et omni multitudini
+        ostenderunt fructus terr&#230;:"
+      ukr: І пішли, і прийшли вони до Мойсея й до Аарона та до всієї громади
+        Ізраїлевих синів, до пустині Паран, до Кадешу, і здали справу їм та всій
+        тій громаді, і показали плід того Краю.
+      nkjv: Now they departed and came back to Moses and Aaron and all the
+        congregation of the children of Israel in the Wilderness of Paran, at
+        Kadesh; they brought back word to them and to all the congregation, and
+        showed them the fruit of the land.
+      desnitsky: ""
+      mt: ‫   וַיֵּלְכוּ וַיָּבֹאוּ אֶל־מֹשֶׁה וְאֶל־אַהֲרֹן וְאֶל־כָּל־עֲדַת
+        בְּנֵי־יִשְׂרָאֵל אֶל־מִדְבַּר פָּארָן קָדֵשָׁה וַיָּשִׁיבוּ אוֹתָם
+        דָּבָר וְאֶת־כָּל־הָעֵדָה וַיַּרְאוּם אֶת־פְּרִי הָאָרֶץ׃ ‬
+      romana: Si, mergand, au venit la Moise si la Aaron si la toata obstea fiilor lui
+        Israel, la Cades, in pustiul Paran, si le-au adus lor si intregii obsti
+        vita si le-au aratat roadele pamantului aceluia.
+      francais: "Voici ce qu'ils racontèrent à Moïse: Nous sommes allés dans le pays
+        où tu nous as envoyés. A la vérité, c'est un pays où coulent le lait et
+        le miel, et en voici les fruits."
+      italian: 'Raccontarono: "Noi siamo arrivati nel paese dove tu ci avevi mandato
+        ed è davvero un paese dove scorre latte e miele; ecco i suoi frutti.'
+      old_georgian: "და წარვიდეს მიერ და მოვიდეს მოსესა და აჰრონისა და ყოვლისა მის
+        კრებულისა ძეთა ისრაჱლისათა - უდაბნოდ ფარანისა, რომელ არს კადსაჲ, და
+        მიუთხრეს მათ სიტყუაჲ ყოველსა მას კრებულსა, და უჩუენეს ნაყოფი იგი
+        ქუეყანისაჲ მის, და უთხრეს მათ და ჰრქუეს მათ:"
+      portuguese: "E, dando conta a Moisés, disseram: Fomos à terra a que nos
+        enviaste. Ela, em verdade, mana leite e mel; e este é\ro seu fruto."
+      polish: "I tak im opowiedzieli: ”Udaliśmy się do kraju, do którego nas posłałeś.
+        Jest\rto kraj rzeczywiście opływający w mleko i miód, a oto jego owoce."
+      turkish: Musa'ya, «Bizi gönderdiğin ülkeye gittik» dediler, «Gerçekten süt ve
+        bal akıyor orada! İşte ülkenin ürünleri!
+      nrt: Они вернулись к Моисею, Аарону и обществу израильскому в Кадеш в пустыне
+        Паран. Там они отчитывались перед ними и народом и показали им плоды
+        этой земли.
+      Macarius: И пошли и пришли к Моисею и Аарону, и ко всему обществу сынов
+        Израилевых в пустыню Фаран, в Кадес, и принесли им и всему обществу
+        ответ, и показали им плоды земли.
+      serbian: И вративши се дођоше к Мојсију и Арону и ка свему збору синова
+        Израиљевијех у пустињу Фаранску, у Кадис; и приповједише њима и свему
+        збору ствар, и показаше им род оне земље.
+      bulgarian: И като пристигнаха и дойдоха при Моисея и Аарона и при цялото
+        общество синове Израилеви в пустиня Фаран, в Кадес, те донесоха тям и на
+        целия народ отговор и показаха им плодовете от оная земя;
+      deutsch: "Und erzählten ihnen und sprachen: Wir sind in das Land gekommen, dahin
+        ihr uns sandtet, darin Milch und Honig fließt, und dies ist seine
+        Frucht;"
+      ukr2: "Тож оповіли йому, кажучи: “Прийшли ми в землю, куди ти посилав нас; вона
+        таки й справді молоком та медом тече, ось і плоди її."
+      ukr3: "І оповідали йому кажучи: Прийшли ми в землю, де ти посилав нас, і
+        справдї: тече вона молоком та медом, і се плоди її."
+      bel_syomukha: І пайшлі і прыйшлі да Майсея і Аарона і ад усяго супольства сыноў
+        Ізраілевых у пустыню Фаран, у Кадэс, і прынесьлі ім і ўсяму супольству
+        адказ, і паказалі ім плады зямлі;
+      lev-khv: "И разсказывали ему и говорили: мы ходили в землю, в которую ты посылал
+        нас; и подлинно в ней течет молоко и мед, и вот плоды ея;"
+      czech: "Ve svem vypraveni mu rekli: „Vstoupili jsme do zeme, do niz jsi nas
+        poslal. Vskutku oplyva mlekem a medem. A toto je jeji ovoce."
+      spanish: ")e hicieron relación a ellos y a toda la asamblea, mostrando los
+        frutos de la tierra, y contaron así: <<Hemos llegado a la tierra adonde
+        nos mandasteis; en verdad mana leche y miel; ved sus frutos."
+      greek-lxx: καὶ πορευθέντες ἦλθον πρὸς Μωυσῆν καὶ Ααρων καὶ πρὸς πᾶσαν συναγωγὴν
+        υἱῶν Ισραηλ εἰς τὴν ἔρημον Φαραν Καδης καὶ ἀπεκρίθησαν αὐτοῖς ῥῆμα καὶ
+        πάσῃ τῇ συναγωγῇ καὶ ἔδειξαν τὸν καρπὸν τῆς γῆς
+      st_text: И пошли и пришли к Моисею и Аарону и ко всему обществу сынов Израилевых
+        в пустыню Фаран, в Кадес, и принесли им и всему обществу ответ, и
+        показали им плоды земли;
+  - id: 11359
+    number: 28
+    bookId: 4
+    text: "и рассказывали ему и говорили: мы ходили в землю, в которую ты посылал
+      нас; в ней подлинно течет молоко и мед, и вот плоды ее;"
+    chapter: 13
+    chapterId: 130
+    parallels:
+      - verseId: 35962
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 1
+        short: Втор:1:25
+    translates:
+      kassian: ""
+      podstr: "И рассказали ему и сказали: Мы пришли в землю, в которую ты послал нас,
+        землю текущую молоком и мёдом, и это плод её;"
+      csya: "и поведаша ему, и рекоша: ходихом на землю, на нюже посылал еси нас, на
+        землю кипящую млеком и медом, и сий плод ея:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 повёдаша є3мY, и3 реко1ша: ходи1хомъ на зе1млю, на ню1же посылaлъ
+        є3си2 нaсъ, на зе1млю кипsщую млеко1мъ и3 ме1домъ, и3 сjй пло1дъ є3S:"
+      sovr_rbo: "Так говорили посланцы Моисею: «Мы побывали в той стране, в которую ты
+        нас отправил. Эта земля поистине источает молоко и мед. Вот ее плоды!"
+      latin: "et narraverunt, dicentes: Venimus in terram, ad quam misisti nos,
+        qu&#230; revera fluit lacte et melle, ut ex his fructibus cognosci
+        potest:"
+      ukr: "І вони розповіли йому та й сказали: Прибули ми до Краю, куди ти послав був
+        нас, а він тече молоком та медом, а оце плід його!"
+      nkjv: 'Then they told him, and said: "We went to the land where you sent us. It
+        truly flows with milk and honey, and this is its fruit.'
+      desnitsky: ""
+      mt: ‫   וַיְסַפְּרוּ־לוֹ וַיֹּאמְרוּ בָּאנוּ אֶל־הָאָרֶץ אֲשֶׁר שְׁלַחְתָּנוּ
+        וְגַם זָבַת חָלָב וּדְבַשׁ הִוא וְזֶה־פִּרְיָהּ׃ ‬
+      romana: 'Apoi le-au povestit si au zis: "Am fost in pamantul in care ne-ai
+        trimis, pamantul in care curge miere si lapte si iata roadele lui.'
+      francais: Mais le peuple qui habite ce pays est puissant, les villes sont
+        fortifiées, très grandes; nous y avons vu des enfants d'Anak.
+      italian: Ma il popolo che abita il paese è potente, le città sono fortificate e
+        immense e vi abbiamo anche visto i figli di Anak.
+      old_georgian: მივიდეთ ჩუენ ქუეყანასა მას, რომელსა მიმავლინენ ჩუენ ქუეყანასა,
+        მდინარესა სძისა და თაფლისასა, და ესე არს, ნაყოფი მისი.
+      portuguese: "Contudo o povo que habita nessa terra é poderoso, e as cidades são
+        fortificadas e mui grandes. Vimos também\rali os filhos de Anaque."
+      polish: "Jednakże lud, który w nim mieszka, jest silny, a miasta są obwarowane
+        i\rbardzo wielkie. Widzieliśmy tam również Anakitów."
+      turkish: Ancak orada yaşayan halk güçlü, kentler de surlu ve çok büyük. Orada
+        Anak soyundan gelen insanları bile gördük.
+      nrt: "Они сказали Моисею: – Мы были в краю, куда ты нас посылал: там на самом
+        деле течет молоко и мед! Вот его плоды."
+      Macarius: "И рассказывали ему и говорили: мы ходили в землю, в которую ты
+        посылал нас, в ней течет молоко и мед, и вот плоды ее;"
+      serbian: "И приповиједајући им, рекоше: Идосмо у земљу у коју си нас послао;
+        доиста тече у њој млијеко и мед, и ево рода њезина."
+      bulgarian: "и разказаха му и думаха: ходихме в земята, в която ни изпрати; в нея
+        наистина тече мед и мляко, и ето плодовете й;"
+      deutsch: nur, daß starkes Volk darin wohnt und sehr große und feste Städte sind;
+        und wir sahen auch Enaks Kinder daselbst.
+      ukr2: Тільки ж народ, що в ній живе, сильний та й міста укріплені, вельми
+        великі; бачили ми там і потомків Анака.
+      ukr3: Тільки що потужен люд, що живе в тій землї, і утверджені міста вельми
+        великі; та й Енакових дїтей баn&gt;
+      bel_syomukha: "і расказвалі яму і казалі: мы хадзілі ў зямлю, у якую ты пасылаў
+        нас; у ёй сапраўды цячэ малако і мёд, і вось плады яе;"
+      lev-khv: Но народ, живущий на земле той, силен; и город&#225; укрепленные,
+        весьма большие; и сынов Энаковых мы видели там.
+      czech: Jenomze lid, ktery v te zemi sidli, je mocny a mesta jsou opevnena a
+        nesmirne velika. Dokonce jsme tam videli potomky Anakovy.
+      spanish: )Pero la gente que la habita es fuerte, y sus ciudades son muy grandes
+        y están amuralladas; hemos visto también allí a los hijos de Enac.
+      greek-lxx: καὶ διηγήσαντο αὐτῷ καὶ εἶπαν ἤλθαμεν εἰς τὴν γῆν εἰς ἣν ἀπέστειλας
+        ἡμᾶς γῆν ῥέουσαν γάλα καὶ μέλι καὶ οὗτος ὁ καρπὸς αὐτῆς
+      st_text: "и рассказывали ему и говорили: мы ходили в землю, в которую ты посылал
+        нас; в ней подлинно течет молоко и мед, и вот плоды ее;"
+  - id: 11360
+    number: 29
+    bookId: 4
+    text: но народ, живущий на земле той, силен, и города укрепленные, весьма
+      большие, и сынов Енаковых мы видели там;
+    chapter: 13
+    chapterId: 130
+    parallels:
+      - verseId: 26953
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 11
+        short: Нав:11:3
+    translates:
+      kassian: ""
+      podstr: но скорее потому что отважный народ живущий на ней, и города укреплённые
+        ограждённые и большие очень, и род Энаха мы увидели там,
+      csya: "кроме яко людие сильни зело, иже на ней живут, и гради утверждени
+        ограждением велицы зело, и род енаков видехом тамо:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "кромЁ ћкw лю1діе си1льни ѕэлw2, и5же на не1й живyтъ, и3 грaди
+        ўтвержде1ни њгражде1ніемъ вели1цы ѕэлw2, и3 ро1дъ є3нaковъ ви1дэхомъ
+        тaмw:"
+      sovr_rbo: Однако народ, живущий там, силен, а города большие и укрепленные. Мы
+        даже видели там сынов Анака!
+      latin: sed cultores fortissimos habet, et urbes grandes atque muratas. Stirpem
+        Enac vidimus ibi.
+      ukr: Та народ той, що сидить у тім Краї, міцний, а міста укріплені, дуже великі.
+        А також бачили ми там нащадків велетня…
+      nkjv: Nevertheless the people who dwell in the land are strong; the cities are
+        fortified and very large; moreover we saw the descendants of Anak there.
+      desnitsky: ""
+      mt: ‫   אֶפֶס כִּי־עַז הָעָם הַיֹּשֵׁב בָּאָרֶץ וְהֶעָרִים בְּצֻרוֹת גְּדֹלֹת
+        מְאֹד וְגַם־יְלִדֵי הָעֲנָק רָאִינוּ שָׁם׃ ‬
+      romana: Dar poporul care locuieste in el, este indraznet si orasele sunt
+        intarite si foarte mari, ba si pe fiii lui Enac i-am vazut acolo.
+      francais: Les Amalécites habitent la contrée du midi; les Héthiens, les
+        Jébusiens et les Amoréens habitent la montagne; et les Cananéens
+        habitent près de la mer et le long du Jourdain.
+      italian: Gli Amaleciti abitano la regione del Negheb; gli Hittiti, i Gebusei e
+        gli Amorrei le montagne; i Cananei abitano presso il mare e lungo la
+        riva del Giordano".
+      old_georgian: არამედ ფიცხელ არს ნათესავი იგი, რომელი მყოფ არს მას ზედა და
+        ქალაქნი ძნელ და მოზღუდვილ და დიდად, და ნათესავიცა ენაკისი ვიხილეთ მუნ.
+      portuguese: "Os amalequitas habitam na terra do Negebe; os heteus, os jebuseus e
+        os amorreus habitam nas montanhas; e\ros cananeus habitam junto do mar,
+        e ao longo do rio Jordão."
+      polish: "Amalekici zajmują okolice Negebu; w górach mieszkają Chetyci, Jebusyci
+        i\rAmoryci, Kananejczycy wreszcie mieszkają nad morzem i nad brzegami
+        Jordanu”."
+      turkish: Amalekliler Negev'de; Hititler, Yevuslular ve Amorlular dağlık bölgede;
+        Kenanlılar da denizin yanında ve Şeria Irmağı'nın kıyısında yaşıyor.»
+      nrt: Но народ, который живет там, силен, а его города укреплены и очень велики.
+        Мы даже видели там потомков Анака.
+      Macarius: Только народ, живущий на земле той, силен, и города укрепленные,
+        весьма большие; да и сынов Энаковых мы видели там.
+      serbian: Али је јак народ који живи у оној земљи, и градови су им тврди и врло
+        велики; а видјесмо ондје и синове Енакове.
+      bulgarian: но народът, който живее в оная земя, е силен, и градовете са укрепени
+        и твърде големи; там видяхме и синовете Енакови;
+      deutsch: So wohnen die Amalekiter im Lande gegen Mittag, die Hethiter und
+        Jebusiter und Amoriter wohnen auf dem Gebirge, die Kanaaniter aber
+        wohnen am Meer und um den Jordan.
+      ukr2: Амалек живе в землі Негев; а Хеттит і Євусій та Аморій живуть у горах,
+        Ханаан же живе при морі і здовж берегів Йордану.”
+      ukr3: Амалик живе в землї полуденнїй, а Гетії, і Євузії, і Аморії живуть по
+        горах, а Канаанїї живуть над морем і здовж берегів Іорданських.
+      bel_syomukha: але народ, які жыве на зямлі той, моцны, і гарады ўмацаваныя,
+        даволі вялікія, і сыноў Энакавых мы бачылі там.
+      lev-khv: Амалик живет на южной части земли, а Хеттеи, и Иевусеи, и Аморреи живут
+        на горе, Хананеи же живут при море и на берегу Иордана.
+      czech: Na jihu zeme sidli Amalek, na pohori jsou usazeni Chetejci, Jebusejci a
+        Emorejci, pri mori a podel Jordanu Kenaanci.“
+      spanish: )Los amalecitas habitan la región del Negueb; los jeteos, jebuseos y
+        amorreos, la parte montuosa; los cananeos, las costas del mar y a lo
+        largo del Jordán>>.
+      greek-lxx: ἀλλ᾿ ἢ ὅτι θρασὺ τὸ ἔθνος τὸ κατοικοῦν ἐπ᾿ αὐτῆς καὶ αἱ πόλεις ὀχυραὶ
+        τετειχισμέναι καὶ μεγάλαι σφόδρα καὶ τὴν γενεὰν Εναχ ἑωράκαμεν ἐκεῖ
+      st_text: но народ, живущий на земле той, силен, и города укрепленные, весьма
+        большие, и сынов Енаковых мы видели там;
+  - id: 11361
+    number: 30
+    bookId: 4
+    text: Амалик живет на южной части земли, Хеттеи, [Евеи,] Иевусеи и Аморреи живут
+      на горе, Хананеи же живут при море и на берегу Иордана.
+    chapter: 13
+    chapterId: 130
+    parallels:
+      - verseId: 11371
+        bookId: 4
+        bookCode: cisla
+        chapter: 14
+        short: Чис:14:6
+      - verseId: 11389
+        bookId: 4
+        bookCode: cisla
+        chapter: 14
+        short: Чис:14:24
+      - verseId: 27038
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 14
+        short: Нав:14:8
+    translates:
+      kassian: ""
+      podstr: и Амалик обитает на земле которая к югу, и Хеттей и Эвей и Иевусей и
+        Аморрей обитают в горной [местности], и Хананей обитает у моря и у
+        Иордана реки.
+      csya: "и амалик живет в земли к югу: и хеттей и евей, и иевусей и аморрей живут
+        в горах: и хананей живет при мори и при иордане реце."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 ґмали1къ живе1тъ въ земли2 къ ю4гу: и3 хетте1й и3 є3vе1й, и3
+        їевусе1й и3 ґморре1й живyтъ въ горaхъ: и3 ханане1й живе1тъ при мо1ри и3
+        при їoрдaнэ рэцЁ."
+      sovr_rbo: Амалекитяне живут в Негеве, хетты, евусеи и амореи — в горах, а
+        ханаанеи — у моря и вдоль Иордана».
+      latin: "Amalec habitat in meridie, Heth&#230;us et Jebus&#230;us et
+        Amorrh&#230;us in montanis: Chanan&#230;us vero moratur juxta mare et
+        circa fluenta Jordanis."
+      ukr: Амалик сидить у краї південнім, а хіттеянин, і євусеянин, і амореянин
+        сидять на горі, а ханаанеянин сидить над морем та при Йордані.
+      nkjv: The Amalekites dwell in the land of the South; the Hittites, the
+        Jebusites, and the Amorites dwell in the mountains; and the Canaanites
+        dwell by the sea and along the banks of the Jordan."
+      desnitsky: ""
+      mt: ‫   עֲמָלֵק יוֹשֵׁב בְּאֶרֶץ הַנֶּגֶב וְהַחִתִּי וְהַיְבוּסִי וְהָאֱמֹרִי
+        יוֹשֵׁב בָּהָר וְהַכְּנַעֲנִי יֹשֵׁב עַל־הַיָּם וְעַל יַד הַיַּרְדֵּן׃ ‬
+      romana: Amalec locuieste in partea de miazazi a tarii; Heteii, Heveii, Iebuseii
+        si Amoreii locuiesc in munti, iar Canaaneii locuiesc pe langa mare si pe
+        langa raul Iordanului".
+      francais: "Caleb fit taire le peuple, qui murmurait contre Moïse. Il dit:
+        Montons, emparons-nous du pays, nous y serons vainqueurs!"
+      italian: 'Caleb calmò il popolo che mormorava contro Mosè e disse: "Andiamo
+        presto e conquistiamo il paese, perché certo possiamo riuscirvi".'
+      old_georgian: და ამალეკი დამკჳდრებულ არს ქუეყანასა მას სამხრით კერძო და ქეტელი
+        იგი, და ეველი, და იებოლელი და ამორეველი დამკჳდრებულ არიან მთით კერძო. და
+        ქანანელი იგი მკჳდრ არს ზღჳსკიდესა და იორდანით კერძო.
+      portuguese: "Então Calebe, fazendo calar o povo perante Moisés, disse: Subamos
+        animosamente, e apoderemo-nos dela;\rporque bem poderemos prevalecer
+        contra ela."
+      polish: "Wtedy próbował Kaleb uspokoić lud, [który zaczął się burzyć] przeciw
+        Mojżeszowi, i rzekł: ”Trzeba ruszyć i zdobyć kraj - na pewno zdołamy go
+        zająć”."
+      turkish: Kalev, Musa'nın önünde halkı susturup, «Oraya gidip ülkeyi ele
+        geçirelim. Kesinlikle buna yetecek gücümüz var» dedi.
+      nrt: Амаликитяне живут в Негеве, хетты, иевусеи и аморреи – в нагорьях, а
+        хананеи – у моря и по Иордану.
+      Macarius: Амалик живет на южной части земли, Хеттеи, [Евеи,] Иевусеи и Аморреи
+        живут на горе, Хананеи же живут подле моря и подле Иордана.
+      serbian: Амалик живи на јужној страни; а Хетеји и Јевусеји и Амореји живе у
+        планини, а Хананеји живе на мору и на Јордану.
+      bulgarian: Амалик живее в южната част на земята, хетейци, (евейци,) иевусейци и
+        аморейци живеят по планината, хананейците пък живеят край морето и по
+        брега на Иордан.
+      deutsch: "Kaleb aber stillte das Volk gegen Mose und sprach: Laßt uns
+        hinaufziehen und das Land einnehmen; denn wir können es überwältigen."
+      ukr2: "Тоді Калев заходився втихомирювати людей, що були проти Мойсея, і
+        промовив: “Ми таки підемо й посядемо її, стане бо сили в нас її
+        підбити.”"
+      ukr3: "І втихомирив Калеб людей, що противились Мойсейові, та й промовив:
+        Пійдемо таки та й займем її, стане бо сили в нас впокорити її."
+      bel_syomukha: Амалік жыве на паўднёвай частцы зямлі, Хэтэі, Евусэі і Амарэі
+        жывуць на гары, Хананэі жывуць каля мора і на беразе Ярдана.
+      lev-khv: "Но Халев успокоивал народ пред Моисеем, говоря: мы можем взойти и
+        завладеть ею, потому что мы одолеем ее."
+      czech: "Kaleb vsak uklidnoval lid bourici se proti Mojzisovi. Rikal: „Vzhuru!
+        Pojdme! Obsadime tu zemi a jiste se ji zmocnime.“"
+      spanish: ")Caleb, imponiendo silencio al pueblo, que murmuraba contra Moisés,
+        clamó: << ¡Subamos, subamos luego! ¡La conquistaremos, seremos más
+        fuertes que ellos!>>"
+      greek-lxx: καὶ Αμαληκ κατοικεῖ ἐν τῇ γῇ τῇ πρὸς νότον καὶ ὁ Χετταῖος καὶ ὁ
+        Ευαῖος καὶ ὁ Ιεβουσαῖος καὶ ὁ Αμορραῖος κατοικεῖ ἐν τῇ ὀρεινῇ καὶ ὁ
+        Χαναναῖος κατοικεῖ παρὰ θάλασσαν καὶ παρὰ τὸν Ιορδάνην ποταμόν
+      st_text: Амалик живет на южной части земли, Хеттеи, [Евеи,] Иевусеи и Аморреи
+        живут на горе, Хананеи же живут при море и на берегу Иордана.
+  - id: 11362
+    number: 31
+    bookId: 4
+    text: "Но Халев успокаивал народ пред Моисеем, говоря: пойдем и завладеем ею,
+      потому что мы можем одолеть ее."
+    chapter: 13
+    chapterId: 130
+    parallels:
+      - verseId: 27038
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 14
+        short: Нав:14:8
+    translates:
+      kassian: ""
+      podstr: "И утишил Халев народ против Моисея и сказал ему: Нет, но взошедшие
+        взойдём и унаследуем её, потому что сильные сможем против них."
+      csya: "И утиши халев люди пред моисеом, и рече ему: никакоже, на восходя взыдем
+        и приимем ю в наследие, яко сильни есмы преодолети им."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# ўтиши2 хале1въ лю1ди пред8 мwmсе1омъ, и3 рече2 є3мY: никaкоже, но
+        восходS взы1демъ и3 пріи1мемъ ю5 въ наслёдіе, ћкw си1льни є3смы2
+        преwдолёти и5мъ."
+      sovr_rbo: Калев пытался успокоить народ, окружавший Моисея. «Пойдемте и овладеем
+        этой страной! — говорил он. — Мы сможем победить их!»
+      latin: "Inter h&#230;c Caleb compescens murmur populi, qui oriebatur contra
+        Moysen, ait: Ascendamus, et possideamus terram, quoniam poterimus
+        obtinere eam."
+      ukr: "А Калев утихомирював народ перед Мойсеєм та й сказав: Конче ввійдемо ми й
+        заволодіємо ним, бо ми справді переможем його!"
+      nkjv: Then Caleb quieted the people before Moses, and said, "Let us go up at
+        once and take possession, for we are well able to overcome it."
+      desnitsky: ""
+      mt: ‫   וַיַּהַס כָּלֵב אֶת־הָעָם אֶל־מֹשֶׁה וַיֹּאמֶר עָלֹה נַעֲלֶה
+        וְיָרַשְׁנוּ אֹתָהּ כִּי־יָכוֹל נוּכַל לָהּ׃ ‬
+      romana: 'Caleb insa a linistit poporul inaintea lui Moise, zicand: "Nu, ci sa
+        mergem si sa-l cuprindem, pentru ca il vom putea birui!"'
+      francais: "Mais les hommes qui y étaient allés avec lui dirent: Nous ne pouvons
+        pas monter contre ce peuple, car il est plus fort que nous."
+      italian: 'Ma gli uomini che vi erano andati con lui dissero: "Noi non saremo
+        capaci di andare contro questo popolo, perché è più forte di noi".'
+      old_georgian: "და დაადუმა ქალებ ერი იგი მოსესა მიმართ და ჰრქუა მათ: არა, არამედ
+        აღსლვით აღვიდე და დავიმკჳდროთ ქუეყანა იგი, რამეთუ შეძლებით შეუძლოთ მათ."
+      portuguese: "Disseram, porém, os homens que subiram com ele: Não poderemos subir
+        contra aquele povo, porque é mais\rforte do que nos."
+      polish: "Lecz mężowie, którzy razem z nim byli, rzekli: ”Nie możemy wyruszyć
+        przeciw temu ludowi, bo jest silniejszy od nas”."
+      turkish: Ne var ki, kendisiyle oraya giden adamlar, «Bu halka saldıramayız,
+        onlar bizden daha güçlü» dediler.
+      nrt: "Халев успокоил народ перед Моисеем и сказал: – Идем и овладеем землей,
+        ведь нам это по силам."
+      Macarius: "Халев между тем успокаивал народ пред Моисеем, говоря: пойдем и
+        завладеем ею, потому что мы можем преодолеть ее."
+      serbian: "А Халев утишаваше народ пред Мојсијем; и говораше: Хајде да идемо да
+        је узмемо, јер је можемо покорити."
+      bulgarian: "Но Халев успокояваше народа пред Моисея, думайки: да идем и да я
+        превземем, защото можем я завладя."
+      deutsch: "Aber die Männer, die mit ihm waren hinaufgezogen, sprachen: Wir
+        vermögen nicht hinaufzuziehen gegen das Volk; denn sie sind uns zu
+        stark,"
+      ukr2: "Чоловіки ж, які ходили з ним (на розглядини), твердили: “Ні, мовляв, не в
+        силі ми напасти на той народ; він від нас сильніший.”"
+      ukr3: "Ті ж чоловіки, що з ним ходили у гори, мовляли: Не буде в нас сили увійти
+        між сїх людей, вони бо сильнїйші, як ми."
+      bel_syomukha: "Але Халеў супакойваў народ перад Майсеем, кажучы: пойдзем і
+        завалодаем ёю, бо мы можам адолець яе."
+      lev-khv: "А те, которые ходили с ним, говорили: не можем мы взойти к этому
+        народу, потому что он сильнее нас."
+      czech: "Ale muzi, kteri sli spolu s nim, tvrdili: „Nemuzeme vytahnout proti tomu
+        lidu, vzdyt je silnejsi nez my.“"
+      spanish: ")Pero los que habían subido con él dijeron: <<No debemos subir contra
+        aquella gente; es más fuerte que nosotros>>."
+      greek-lxx: καὶ κατεσιώπησεν Χαλεβ τὸν λαὸν πρὸς Μωυσῆν καὶ εἶπεν αὐτῷ οὐχί ἀλλὰ
+        ἀναβάντες ἀναβησόμεθα καὶ κατακληρονομήσομεν αὐτήν ὅτι δυνατοὶ
+        δυνησόμεθα πρὸς αὐτούς
+      st_text: "Но Халев успокаивал народ пред Моисеем, говоря: пойдем и завладеем ею,
+        потому что мы можем одолеть ее."
+  - id: 11363
+    number: 32
+    bookId: 4
+    text: "А те, которые ходили с ним, говорили: не можем мы идти против народа
+      сего, ибо он сильнее нас."
+    chapter: 13
+    chapterId: 130
+    parallels:
+      - verseId: 12069
+        bookId: 4
+        bookCode: cisla
+        chapter: 32
+        short: Чис:32:9
+    translates:
+      kassian: ""
+      podstr: "А люди взошедшие вместе с ним сказали: Не восходим, потому что нет не
+        можем взойти на народ, потому что сильнее есть нас более."
+      csya: "И человецы ходившии с ним рекоша: не идем, яко не можем изыти противу
+        языку (сему), яко крепльший есть паче нас."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# человёцы ходи1вшіи съ ни1мъ реко1ша: не и4демъ, ћкw не мо1жемъ
+        и3зы1ти проти1ву kзы1ку (семY), ћкw крёпльшій є4сть пaче нaсъ."
+      sovr_rbo: "Но те, кто ходил туда вместе с Калевом, возражали: «Не можем мы
+        воевать с этим народом, он сильнее нас!»"
+      latin: "Alii vero, qui fuerant cum eo, dicebant: Nequaquam ad hunc populum
+        valemus ascendere, quia fortior nobis est."
+      ukr: "Та люди, що ходили з ним, сказали: Ми не зможемо ввійти до того народу, бо
+        він сильніший за нас…"
+      nkjv: But the men who had gone up with him said, "We are not able to go up
+        against the people, for they are stronger than we."
+      desnitsky: ""
+      mt: ‫   וְהָאֲנָשִׁים אֲשֶׁר־עָלוּ עִמּוֹ אָמְרוּ לֹא נוּכַל לַעֲלוֹת אֶל־הָעָם
+        כִּי־חָזָק הוּא מִמֶּנּוּ׃ ‬
+      romana: 'Iar oamenii cei ce fusesera cu el au zis: "Nu putem sa mergem impotriva
+        poporului aceluia, pentru ca e mult mai puternic decat noi".'
+      francais: "Et ils décrièrent devant les enfants d'Israël le pays qu'ils avaient
+        exploré. Ils dirent: Le pays que nous avons parcouru, pour l'explorer,
+        est un pays qui dévore ses habitants; tous ceux que nous y avons vus
+        sont des hommes d'une haute taille;"
+      italian: 'Screditarono presso gli Israeliti il paese che avevano esplorato,
+        dicendo: "Il paese che abbiamo attraversato per esplorarlo è un paese
+        che divora i suoi abitanti; tutta la gente che vi abbiamo notata è gente
+        di alta statura;'
+      old_georgian: "და კაცნი იგი, რომელნი აღსრულ იყუნეს მის თანა, თქვეს: არა აღვიდეთ,
+        რამეთუ ვერ შემძლებელ ვართ აღსლვად ერისა მის, რამეთუ უძლიერეს ჩუენსა
+        არიან ფრიად."
+      portuguese: "Assim, perante os filhos de Israel infamaram a terra que haviam
+        espiado, dizendo: A terra, pela qual passamos\rpara espiá-la, é terra
+        que devora os seus habitantes; e todo o povo que vimos nela são homens
+        de grande estatura."
+      polish: "I rozgłaszali złe wiadomości o kraju, który zbadali, mówiąc do
+        Izraelitów:\r”Kraj, któryśmy przeszli, aby go zbadać, jest krajem, który
+        pożera swoich\rmieszkańców. Wszyscy zaś ludzie, których tam widzieliśmy,
+        są wysokiego\rwzrostu."
+      turkish: Araştırdıkları ülke hakkında İsrailliler arasında kötü haber yayarak,
+        «Boydan boya araştırdığımız ülke, içinde yaşayanları yiyip bitiren bir
+        ülkedir» dediler, «Üstelik orada gördüğümüz herkes uzun boyluydu.
+      nrt: "Но те, кто ходил с ним, сказали: – Мы не можем напасть на этот народ – он
+        сильнее нас."
+      Macarius: "А те, которые ходили с ним, говорили: не можем идти к народу сему,
+        поелику он сильнее нас."
+      serbian: "Али други људи који идоше с њим говораху: Не можемо ићи на онај народ,
+        јер је јачи од нас."
+      bulgarian: "А ония, които бяха ходили заедно с него, рекоха: не можем да отидем
+        против тоя народ, защото е по-силен от нас."
+      deutsch: "und machten dem Lande, das sie erkundet hatten, ein böses Geschrei
+        unter den Kindern Israel und sprachen: Das Land, dadurch wir gegangen
+        sind, es zu erkunden, frißt seine Einwohner, und alles Volk, das wir
+        darin sahen, sind Leute von großer Länge."
+      ukr2: "І рознесли вони між синами Ізраїля недобрі вістки про землю, яку
+        розслідили, кажучи: “Земля, що нею ми пройшли, щоб розвідати її, то така
+        земля, яка пожирає своїх мешканців, а всі люди, що їх ми бачили там,
+        великі на зріст."
+      ukr3: "І рознесли вони між синами Ізрайлевими недобрі вісти про землю, що
+        розглядували самі, мовляючи: Земля, що нею проходили ми, щоб розвідати,
+        така земля, що жере осадників своїх, і ввесь люд, що ми бачили серед
+        неї, се люде великого росту."
+      bel_syomukha: "А тыя, якія хадзілі зь ім, казалі: ня можам мы ісьці супроць
+        народу гэтага, бо ён мацнейшы за нас."
+      lev-khv: "И распускали худую молву о земле, которую они осматривали, между
+        сынами Израилевыми, говоря: земля, которую мы проходили для обозрения,
+        есть земля, поядающая живущих на ней, и весь народ, который видели мы
+        среди ея, люди великорослые."
+      czech: "Pomluvami zhaneli Izraelcum zemi, kterou prozkoumali: „Zeme, kterou jsme
+        pri pruzkumu prosli, je zeme, ktera pozira sve obyvatele, a vsechen lid,
+        ktery jsme v ni spatrili, jsou muzi obrovite postavy."
+      spanish: ")Y desacreditaban entre los hijos de Israel la tierra que habían
+        explorado, diciendo: <<Es una tierra que devora a sus habitantes, y
+        todos cuantos de ella hemos visto de ellos eran de gran talla."
+      greek-lxx: καὶ οἱ ἄνθρωποι οἱ συναναβάντες μετ᾿ αὐτοῦ εἶπαν οὐκ ἀναβαίνομεν ὅτι
+        οὐ μὴ δυνώμεθα ἀναβῆναι πρὸς τὸ ἔθνος ὅτι ἰσχυρότερόν ἐστιν ἡμῶν μᾶλλον
+      st_text: "А те, которые ходили с ним, говорили: не можем мы идти против народа
+        сего, ибо он сильнее нас."
+  - id: 11364
+    number: 33
+    bookId: 4
+    text: "И распускали худую молву о земле, которую они осматривали, между сынами
+      Израилевыми, говоря: земля, которую проходили мы для осмотра, есть земля,
+      поедающая живущих на ней, и весь народ, который видели мы среди ее, люди
+      великорослые;"
+    chapter: 13
+    chapterId: 130
+    parallels:
+      - verseId: 11098
+        bookId: 1
+        bookCode: bytie
+        chapter: 6
+        short: Быт:6:4
+      - verseId: 27038
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 14
+        short: Нав:14:8
+    translates:
+      kassian: ""
+      podstr: "И вынесли изумление земли, которую осмотрели её, к сыновьям Израиля
+        говорящие: Землю, которую прошли её разведывая, земля пожирающая живущих
+        на ней есть; всякий народ, который мы увидели в ней, мужчины чрезвычайно
+        высокие."
+      csya: "И изнесоша ужас земли, юже соглядаша, к сыном израилевым, глаголюще:
+        землю юже проидохом соглядающе, земля есть поядающи живущыя на ней, и
+        вси люди, ихже видехом на ней, мужи превысоцыи:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# и3знесо1ша ќжасъ земли2, ю4же соглsдаша, къ сынHмъ ї}лєвымъ,
+        глаго1люще: зе1млю ю4же проидо1хомъ соглsдающе, землS є4сть поzдaющи
+        живyщыz на не1й, и3 вси2 лю1ди, и5хже ви1дэхомъ на не1й, м{жи
+        превысо1цыи:"
+      sovr_rbo: Они стали распускать среди сынов Израилевых дурную молву о земле,
+        которую осматривали. «Земля, по которой мы прошли, — говорили они, —
+        пожирает тех, кто поселится на ней! Все люди, которых мы там видели,
+        были огромного роста.
+      latin: "Detraxeruntque terr&#230;, quam inspexerant, apud filios Isra&#235;l,
+        dicentes: Terra, quam lustravimus, devorat habitatores suos: populus,
+        quem aspeximus, procer&#230; statur&#230; est."
+      ukr: "І пустили вони між Ізраїлевими синами злу вістку про той Край, що
+        розвідали його, говорячи: Той Край, що ми перейшли по ньому, щоб
+        розвідати його, це край, який поїдає своїх мешканців. А ввесь той народ,
+        що ми бачили в ньому, люди високі на зріст."
+      nkjv: And they gave the children of Israel a bad report of the land which they
+        had spied out, saying, "The land through which we have gone as spies is
+        a land that devours its inhabitants, and all the people whom we saw in
+        it are men of great stature.
+      desnitsky: ""
+      mt: ‫   וַיּוֹצִיאוּ דִּבַּת הָאָרֶץ אֲשֶׁר תָּרוּ אֹתָהּ אֶל־בְּנֵי יִשְׂרָאֵל
+        לֵאמֹר הָאָרֶץ אֲשֶׁר עָבַרְנוּ בָהּ לָתוּר אֹתָהּ אֶרֶץ אֹכֶלֶת
+        יוֹשְׁבֶיהָ הִוא וְכָל־הָעָם אֲשֶׁר־רָאִינוּ בְתוֹכָהּ אַנְשֵׁי מִדּוֹת׃
+        ‬
+      romana: 'Si au imprastiat printre fiii lui Israel zvonuri rele despre pamantul
+        pe care-l cercetasera, zicand: "Pamantul pe care l-am strabatut noi, ca
+        sa-l vedem, este un pamant care mananca pe cei ce locuiesc in el si tot
+        poporul, pe care l-am vazut acolo, sunt oameni foarte mari.'
+      francais: "et nous y avons vu les géants, enfants d'Anak, de la race des géants:
+        nous étions à nos yeux et aux leurs comme des sauterelles."
+      italian: vi abbiamo visto i giganti, figli di Anak, della razza dei giganti, di
+        fronte ai quali ci sembrava di essere come locuste e così dovevamo
+        sembrare a loro".
+      old_georgian: "და განთქუეს გმობაჲ მის ქუეყანისაჲ, როელ-იგი განიმსტურეს ძეთა
+        მიმართ ისრაელისათა და იტყოდეს: ქუეყანა იგი, რომელ ჩუენ განვლეთ და
+        ვიხილეთ, ქუეყანაჲ იგი შემჭამელი მკჳდრთა მისთაჲ არს და ერი იგი, რომელი
+        ვიხილეთ, მას ზედა, კაცნი ჰასაკგრძელნი არიან მუნ."
+      portuguese: "Também vimos ali os nefilins, isto é, os filhos de Anaque, que são
+        descendentes dos nefilins; éramos aos\rnossos olhos como gafanhotos; e
+        assim também éramos aos seus olhos."
+      polish: "Widzieliśmy tam nawet olbrzymów - Anakici pochodzą od olbrzymów - a
+        w\rporównaniu z nimi wydaliśmy się sobie jak szarańcza i takimi byliśmy
+        w ich\roczach”."
+      turkish: Nefiller'i, Nefiller'in soyundan gelen Anaklılar'ı gördük. Onların
+        yanında kendimizi çekirge gibi hissettik, onlara da öyle göründük.»
+      nrt: "Они порочили перед израильтянами землю, которую разведали, говоря: –
+        Земля, которую мы разведали, пожирает своих обитателей. Все люди,
+        которых мы там видели, огромного роста."
+      Macarius: "Притом распускали худую молву о земле, которую они осматривали, между
+        сынами Израилевыми, говоря: земля, которую проходили мы для обозрения,
+        есть земля поядающая живущих на ней, и весь народ, который видели мы
+        среди ее, суть люди великорослые."
+      serbian: "И просуше зао глас о земљи коју уходише међу синовима Израиљевијем
+        говорећи: Земља коју прођосмо и уходисмо земља је која прождире своје
+        становнике, и сав народ који видјесмо у њој јесу људи врло велики."
+      bulgarian: "И пръснаха ужасни слухове между синовете Израилеви за земята, що
+        бяха обгледали, и думаха: земята, която изходихме, за да я обгледаме, е
+        земя, която гълта своите жители, и всички, които видяхме по нея, са
+        много едри човеци;"
+      deutsch: Wir sahen auch Riesen daselbst, Enaks Kinder von den Riesen; und wir
+        waren vor unsern Augen wie Heuschrecken, und also waren wir auch vor
+        ihren Augen.
+      ukr2: Бачили ми там і велетнів, синів Анака, з роду велетнів; і самим нам
+        здавалось, наче ми та сарана, і такими, певно, й були ми в їхніх очах.”
+      ukr3: І бачили ми там велетнїв, синів Енакових, з роду велетнїв; і самим нам
+        здавалось, наче ми тая сараньча, і такими ж були в очах їх.
+      bel_syomukha: "І распускалі благія чуткі пра зямлю, якую яны аглядалі, сярод
+        сыноў Ізраілевых, кажучы: зямля, якую праходзілі мы для агляду, ёсьць
+        зямля, якая паядае тых, што жывуць на ёй, і ўвесь народ, які мы бачылі
+        сярод яе, людзі рослыя;"
+      lev-khv: И там мы видели исполинов, сынов Энаковых, от исполинскаго рода; и были
+        мы в глазах наших <i>пред ними</i>, как саранча, такими же были мы в
+        глазах их.
+      czech: Videli jsme tam zrudy – Anakovci totiz patri ke zrudam – a zdalo se nam,
+        ze jsme nepatrni jako kobylky, vskutku jsme v jejich ocich byli takovi.“
+      spanish: )Hasta gigantes hemos visto allí, ante los cuales nos pareció a
+        nosotros que éramos como langostas; así les parecíamos nosotros a
+        ellos>>.
+      greek-lxx: καὶ ἐξήνεγκαν ἔκστασιν τῆς γῆς ἣν κατεσκέψαντο αὐτήν πρὸς τοὺς υἱοὺς
+        Ισραηλ λέγοντες τὴν γῆν ἣν παρήλθομεν αὐτὴν κατασκέψασθαι γῆ κατέσθουσα
+        τοὺς κατοικοῦντας ἐπ᾿ αὐτῆς ἐστιν πᾶς ὁ λαός ὃν ἑωράκαμεν ἐν αὐτῇ ἄνδρες
+        ὑπερμήκεις
+      st_text: "И распускали худую молву о земле, которую они осматривали, между
+        сынами Израилевыми, говоря: земля, которую проходили мы для осмотра,
+        есть земля, поедающая живущих на ней, и весь народ, который видели мы
+        среди ее, люди великорослые;"
+  - id: 11365
+    number: 34
+    bookId: 4
+    text: там видели мы и исполинов, сынов Енаковых, от исполинского рода; и мы были
+      в глазах наших <i>пред ними</i>, как саранча, такими же были мы и в глазах
+      их.
+    chapter: 13
+    chapterId: 130
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И там мы увидели исполинов и мы были перед ними будто саранча, но и
+        такие мы были перед ними.
+      csya: и тамо видехом исполины, сыны енаковы, и бехом пред ними яко прузи, и тако
+        бехом пред ними.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 тaмw ви1дэхомъ и3споли1ны, сы1ны є3нaкwвы, и3 бёхомъ пред8 ни1ми
+        ћкw прyзи, и3 тaкw бёхомъ пред8 ни1ми.
+      sovr_rbo: Мы видели там исполинов (сыны Анака — из рода исполинов). Рядом с ними
+        мы чувствовали себя кузнечиками, и они смотрели на нас, как на
+        кузнечиков».
+      latin: "Ibi vidimus monstra qu&#230;dam filiorum Enac de genere giganteo: quibus
+        comparati, quasi locust&#230; videbamur."
+      ukr: І там ми бачили велетнів, синів Енака, з роду велетнів, і були ми в своїх
+        очах немов та сарана, і такими були ми і в їхніх очах.
+      nkjv: There we saw the giants (the descendants of Anak came from the giants);
+        and we were like grasshoppers in our own sight, and so we were in their
+        sight."
+      desnitsky: ""
+      mt: ‫   וְשָׁם רָאִינוּ אֶת־הַנְּפִילִים בְּנֵי עֲנָק מִן־הַנְּפִלִים וַנְּהִי
+        בְעֵינֵינוּ כַּחֲגָבִים וְכֵן הָיִינוּ בְּעֵינֵיהֶם׃ ‬
+      romana: Acolo am vazut noi si uriasi, pe fiii lui Enac, din neamul uriasilor; si
+        noua ni se parea ca suntem fata de ei ca niste lacuste si tot asa le
+        paream si noi lor".
+      old_georgian: და მუნ ვიხილენით გმირნიცა და ვიყვენით ჩუენ მათ წინაშე, ვითარცა
+        მკალნი, არამედ ესრეთ ვიყვენით მათ წინაშე.
+      nrt: Мы видели там исполинов (анакиты происходят от исполинов). Рядом с ними мы
+        казались себе кузнечиками, да и в их глазах были такими же.
+      Macarius: Там видели мы и исполинов, сынов Энаковых, от исполинского рода; в
+        глазах наших мы были пред ними, как саранча, таковыми же были и в глазах
+        их.
+      serbian: Видјесмо ондје и дивове, синове Енакове, рода дивовскога, и чињаше нам
+        се да смо према њима као скакавци, такви се и њима чињасмо.
+      bulgarian: там видяхме и исполините, Енакови синове от исполински род; ние
+        изглеждахме пред тях като скакалци, такива бяхме и в техните очи.
+      bel_syomukha: там бачылі мы і волатаў, сыноў Энакавых, ад валатоўскага роду; і
+        мы былі ў вачах нашых перад імі, як саранча, такімі самымі былі мы і ў
+        вачах іхніх.
+      spanish: (
+      greek-lxx: καὶ ἐκεῖ ἑωράκαμεν τοὺς γίγαντας καὶ ἦμεν ἐνώπιον αὐτῶν ὡσεὶ ἀκρίδες
+        ἀλλὰ καὶ οὕτως ἦμεν ἐνώπιον αὐτῶν
+      st_text: там видели мы и исполинов, сынов Енаковых, от исполинского рода; и мы
+        были в глазах наших <i>пред ними</i>, как саранча, такими же были мы и в
+        глазах их.

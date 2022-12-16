@@ -1,0 +1,1582 @@
+id: 1273
+number: 6
+bookId: 64
+verseCount: 20
+title: Глава 6
+verses:
+  - id: 1623
+    number: 1
+    bookId: 64
+    text: Как смеет кто у вас, имея дело с другим, судиться у нечестивых, а не у
+      святых?
+    chapter: 6
+    chapterId: 1273
+    parallels: []
+    translates:
+      kassian: Как смеет кто у вас, имея тяжбу с другим, судиться у неправедных, а не
+        у святых?
+      podstr: Осмеливается кто-либо [из] вас дело имеющий к другому быть судимым у
+        неправедных, а не у святых?
+      csya: Смеет ли кто от вас, вещь имея ко иному, судитися от неправедных, а не от
+        святых?
+      averincev: ""
+      ungerov: ""
+      csya_old: Смёетъ ли кто2 t вaсъ, ве1щь и3мёz ко и3но1му, суди1тисz t
+        непрaведныхъ, ґ не t с™ы1хъ;
+      sovr_rbo: ""
+      latin: Audet aliquis vestrum habens negotium adversus alterum, judicari apud
+        iniquos, et non apud sanctos?
+      ukr: Чи посміє хто з вас, маючи справу до іншого, судитися в неправедних, а не в
+        святих?
+      nkjv: Dare any of you, having a matter against another, go to law before the
+        unrighteous, and not before the saints?
+      desnitsky: И если кто из вас что имеет против другого, как смеет он обращаться
+        за правосудием не к святому Божьему народу, а к нечестивым язычникам?
+      tex_rec: Τολμᾷ τις ὑμῶν πρᾶγμα ἔχων πρὸς τὸν ἕτερον κρίνεσθαι ἐπὶ τῶν ἀδίκων,
+        καὶ οὐχὶ ἐπὶ τῶν ἁγίων;
+      deutsch: Wie darf jemand unter euch, so er einen Handel hat mit einem andern,
+        hadern vor den Ungerechten und nicht vor den Heiligen?
+      spanish: ¿Y osa alguno de vosotros que tiene un litigio con otro acudir en
+        juicio ante los injustos y no ante los santos?
+      peshitta: ܡܰܡܪܰܚ ܐ݈ܢܳܫ ܡܶܢܟ݂ܽܘܢ ܟ݁ܰܕ݂ ܐܺܝܬ݂ ܠܶܗ ܕ݁ܺܝܢܳܐ ܥܰܡ ܐܰܚܽܘܗ݈ܝ ܕ݁ܰܢܕ݂ܽܘܢ
+        ܩܕ݂ܳܡ ܥܰܘܳܠܶܐ ܘܠܳܐ ܩܕ݂ܳܡ ܩܰܕ݁ܺܝܫܶܐ܂
+      bel_syomukha: Як можа каторы з вас, маючы зыскі да іншага, судзіцца перад
+        бязбожнымі, а ня перад сьвятымі?
+      nrt: Далее, как вы смеете выносить свои споры на решение суда, состоящего из
+        неверующих людей, вместо того, чтобы ваше дело разбирали святые?
+      romana: Indrazneste, oare, cineva dintre voi, avand vreo para impotriva altuia,
+        sa se judece inaintea celor nedrepti si nu inaintea celor sfinti?
+      francais: Quelqu'un de vous, lorsqu'il a un différend avec un autre, ose-t-il
+        plaider devant les injustes, et non devant les saints?
+      italian: V'è tra voi chi, avendo una questione con un altro, osa farsi giudicare
+        dagli ingiusti anziché dai santi?
+      old_georgian: იკადროს-მე ვინ თქუენ შორის, რომელსამცა საქმე აქუნდა მოყუსისა
+        მიმართ, განშჯად ცრუთა წინაშე და არა უფროისღა წმიდათა წინაშე?
+      portuguese: Ousa algum de vós, tendo uma queixa contra outro, ir a juízo perante
+        os injustos, e não perante os santos?
+      polish: "Czy odważy się ktoś z was, gdy zdarzy się nieporozumienie z drugim,
+        szukać\rsprawiedliwości u niesprawiedliwych, zamiast u świętych?"
+      new_text: И как смеет тот из вас, у кого тяжба с другим братом, судиться у
+        грешников, вместо того чтобы передать дело на решение святого народа
+        Божьего?
+      serbian: Усуђује ли се неко од вас, имајући жалбу на другога, да се суди код
+        неправедних а не код светих?
+      bulgarian: Смее ли някой от вас, кога има тъжба с другиго, да се съди пред
+        нечестивците, а не пред светиите?
+      ukr2: Чи сміє хтось із вас, мавши справу до іншого, судитися перед неправедними,
+        замість перед святими?
+      ukr3: Не вже ж із вас хто сьміє, мавши дїло з другим, судитись перед
+        неправедними, а не перед сьвятими?
+      czech: Jak to, ze se nekdo z vas opovazuje, ma-li spor s druhym, jit k pohanskym
+        soudcum misto k bratrim?
+      st_text: Как смеет кто у вас, имея дело с другим, судиться у нечестивых, а не у
+        святых?
+  - id: 1624
+    number: 2
+    bookId: 64
+    text: Разве не знаете, что святые будут судить мир? Если же вами будет судим
+      мир, то неужели вы недостойны судить маловажные <i>дела</i>?
+    chapter: 6
+    chapterId: 1273
+    parallels:
+      - verseId: 29187
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 3
+        short: Прем:3:8
+      - verseId: 25386
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 19
+        short: Мф:19:28
+      - verseId: 24445
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 22
+        short: Лк:22:30
+      - verseId: 28383
+        bookId: 77
+        bookCode: otkrovenie-ap-ioanna-bogoslova
+        chapter: 20
+        short: Откр:20:4
+    translates:
+      kassian: Или вы не знаете, что святые будут судить мир? И если вами судится мир,
+        неужели вы недостойны выносить суд в делах гораздо меньших?
+      podstr: Или не знаете что святые мир будут судить? И если в вас судится мир,
+        [разве] недостойны вы есть судов наименьших?
+      csya: Не весте ли, яко святии мирови имут судити? и аще вами суд приимет мир,
+        недостойни есте судищем худым?
+      averincev: ""
+      ungerov: ""
+      csya_old: Не вёсте ли, ћкw с™jи мjрови и4мутъ суди1ти; и3 ѓще вaми сyдъ
+        пріи1метъ мjръ, недосто1йни є3сте2 суди1щємъ худы6мъ;
+      sovr_rbo: ""
+      latin: an nescitis quoniam sancti de hoc mundo judicabunt? et si in vobis
+        judicabitur mundus, indigni estis qui de minimis judicetis?
+      ukr: Хіба ви не знаєте, що святі світ судитимуть? Коли ж будете ви світ судити,
+        то чи ж ви негідні судити незначні справи?
+      nkjv: Do you not know that the saints will judge the world? And if the world
+        will be judged by you, are you unworthy to judge the smallest matters?
+      desnitsky: Разве не знаете, что святому народу предстоит судить весь мир? А если
+        вам подсуден весь мир, неужели вы недостойны быть судьями в мелких
+        делах?
+      tex_rec: ἢ οὐκ οἴδατε ὅτι οἱ ἅγιοι τὸν κόσμον κρινοῦσιν; καὶ εἰ ἐν ὑμῖν κρίνεται
+        ὁ κόσμος, ἀνάξιοί ἐστε κριτηρίων ἐλαχίστων;
+      deutsch: Wißt ihr nicht, daß die Heiligen die Welt richten werden? So nun die
+        Welt von euch soll gerichtet werden, seid ihr denn nicht gut genug,
+        geringe Sachen zu richten?
+      spanish: ¿Acaso no sabéis que los santos han de juzgar al mundo? Y si habéis de
+        juzgar al mundo, ¿seréis incapaces de juzgar esas otras causas más
+        pequeñas?
+      peshitta: ܐܰܘ ܠܳܐ ܝܳܕ݂ܥܺܝܢ ܐܢ݈ܬ݁ܽܘܢ ܕ݁ܩܰܕ݁ܺܝܫܶܐ ܠܥܳܠܡܳܐ ܢܕ݂ܽܘܢܽܘܢ ܘܶܐܢ ܥܳܠܡܳܐ
+        ܒ݁ܟ݂ܽܘܢ ܡܶܬ݁ܕ݂ܺܝܢ ܠܳܐ ܫܳܘܶܝܢ ܐܢ݈ܬ݁ܽܘܢ ܠܰܡܕ݂ܳܢ ܕ݁ܺܝܢܶܐ ܕ݁ܰܩܕ݁ܩܶܐ܂
+      bel_syomukha: Хіба ня ведаеце, што сьвятыя будуць судзіць сьвет? А калі вы
+        будзеце судзіць сьвет, дык ці ж вы ня вартыя судзіць менш важныя справы?
+      nrt: Разве вы не знаете, что святые будут судить мир? И если вам предстоит
+        судить мир, то неужели вы не можете разрешить более мелкие дела?
+      romana: Au nu stiti ca sfintii vor judeca lumea? Si daca lumea este judecata de
+        voi, oare sunteti voi nevrednici sa judecati lucruri atat de mici?
+      francais: Ne savez-vous pas que les saints jugeront le monde? Et si c'est par
+        vous que le monde est jugé, êtes-vous indignes de rendre les moindres
+        jugements?
+      italian: O non sapete che i santi giudicheranno il mondo? E se è da voi che
+        verrà giudicato il mondo, siete dunque indegni di giudizi di minima
+        importanza?
+      old_georgian: არა უწყითა, რამეთუ წმიდათა სოფელი განიკითხონ? და უკუეთუ თქუენგან
+        განიკითხვის სოფელი, არა ჰღირთა სამსჯავროჲსა მის საწუნელისა?
+      portuguese: "Ou não sabeis vós que os santos hão de julgar o mundo? Ora, se o
+        mundo há de ser julgado por vós, sois\rporventura indignos de julgar as
+        coisas mínimas?"
+      polish: "Czy nie wiecie, że święci będą sędziami tego świata? A jeśli świat
+        będzie przez\rwas sądzony, to czyż nie jesteście godni wyrokować w tak
+        błahych sprawach?"
+      new_text: Или вы не знаете, что народ Божий будет судить мир? И если вам судить
+        мир, неужели вы не способны разрешить мелкие тяжбы?
+      serbian: Не знате ли да ће свети судити свијету? А ако ћете ви судити свијету,
+        зар сте недостојни пресуђивања о ситницама?
+      bulgarian: Не знаете ли, че светиите ще съдят света? И ако светът бъде съден от
+        вас, то вие недостойни ли сте да съдите най-малките работи?
+      ukr2: Хіба не знаєте, що святі будуть світ судити? А коли ви будете світ судити,
+        то чи ж не достойні ви судити куди менші справи?
+      ukr3: Хиба не знаєте, що сьвяті сьвіт судити муть? а коли сьвіт судити меть ся
+        од вас, то хиба ви не достойні найменших річей судити?
+      czech: Coz nevite, ze Bozi lid bude soudit svet? Jestlize budete soudit svet,
+        nejste snad schopni rozsuzovat takove malickosti?
+      st_text: Разве не знаете, что святые будут судить мир? Если же вами будет судим
+        мир, то неужели вы недостойны судить маловажные <i>дела</i>?
+  - id: 1625
+    number: 3
+    bookId: 64
+    text: Разве не знаете, что мы будем судить ангелов, не тем ли более <i>дела</i>
+      житейские?
+    chapter: 6
+    chapterId: 1273
+    parallels:
+      - verseId: 28376
+        bookId: 77
+        bookCode: otkrovenie-ap-ioanna-bogoslova
+        chapter: 2
+        short: Откр:2:26
+    translates:
+      kassian: Не знаете ли вы, что мы будем судить ангелов? Не тем ли более дела
+        житейские?
+      podstr: "[Разве] не знаете что ангелов будем судить, не то что житейское?"
+      csya: Не весте ли, яко аггелов судити имамы, а не точию житейских?
+      averincev: ""
+      ungerov: ""
+      csya_old: Не вёсте ли, ћкw ѓггелwвъ суди1ти и4мамы, ґ не то1чію жите1йскихъ;
+      sovr_rbo: ""
+      latin: Nescitis quoniam angelos judicabimus? quanto magis saecularia?
+      ukr: Хіба ви не знаєте, що ми будем судити Анголів, а не тільки життєве?
+      nkjv: Do you not know that we shall judge angels? How much more, things that
+        pertain to this life?
+      desnitsky: Разве не знаете, что мы будем судить и ангелов – что и говорить о
+        житейских делах!
+      tex_rec: οὐκ οἴδατε ὅτι ἀγγέλους κρινοῦμεν, μήτιγε βιωτικά;
+      deutsch: Wisset ihr nicht, daß wir über die Engel richten werden? Wie viel mehr
+        über die zeitlichen Güter.
+      spanish: ¿No sabéis que hemos de juzgar aún a los ángeles? Pues mucho más las
+        naderías de esta vida.
+      peshitta: ܠܳܐ ܝܳܕ݂ܥܺܝܢ ܐܢ݈ܬ݁ܽܘܢ ܕ݁ܰܠܡܰܠܰܐܟ݂ܶܐ ܕ݁ܳܝܢܺܝܢܰܢ ܚܰܕ݂ ܟ݁ܡܳܐ ܐܰܝܠܶܝܢ
+        ܕ݁ܰܕ݂ܥܳܠܡܳܐ ܐܶܢܶܝܢ ܗܳܢܳܐ܂
+      bel_syomukha: Хіба ня ведаеце, што мы будзем судзіць анёлаў, дык ці ня тым болей
+        справы жыцьцёвыя?
+      nrt: Разве вы не знаете, что мы будем судить ангелов? Неужели же мы не можем
+        сами разобраться в наших житейских вопросах?
+      romana: Nu stiti, oare, ca noi vom judeca pe ingeri? Cu cat mai mult cele
+        lumesti?
+      francais: Ne savez-vous pas que nous jugerons les anges? Et nous ne jugerions
+        pas, à plus forte raison, les choses de cette vie?
+      italian: Non sapete che giudicheremo gli angeli? Quanto più le cose di questa
+        vita!
+      old_georgian: არა უწყითა, რამეთუ ანგელოზნი განვიკითხნეთ, ნუუკუე ამის სოფლისაჲცა?
+      portuguese: Não sabeis vós que havemos de julgar os anjos? Quanto mais as coisas
+        pertencentes a esta vida?
+      polish: Czyż nie wiecie, że będziemy sądzili także aniołów? O ileż przeto więcej
+        sprawy doczesne!
+      new_text: Неужели не знаете, что мы будем судить даже ангелов? Что уж говорить о
+        житейских делах!
+      serbian: Не знате ли да ћемо анђелима судити, а камоли у стварима овога свијета?
+      bulgarian: Не знаете ли, че ангели ще съдим? А колко повече житейски работи?
+      ukr2: Хіба не знаєте, що ангелів будемо судити? Оскільки більше життєві справи!
+      ukr3: Хиба не знаєте, що ми ангелів судити мем, а не тільки житейські речі?
+      czech: Nevite, ze budeme soudit andely? Tim spise veci vsedniho zivota!
+      st_text: Разве не знаете, что мы будем судить ангелов, не тем ли более
+        <i>дела</i> житейские?
+  - id: 1626
+    number: 4
+    bookId: 64
+    text: А вы, когда имеете житейские тяжбы, поставляете <i>своими судьями</i>
+      ничего не значащих в церкви.
+    chapter: 6
+    chapterId: 1273
+    parallels: []
+    translates:
+      kassian: Итак, если вы судитесь по делам житейским, то непризнаваемых церковью -
+        вот кого вы садите судьями.
+      podstr: Житейские ведь итак суды если будете иметь, уничиженных в церкви этих
+        сажаете?
+      csya: Житейская бо судища аще имате, уничиженных в Церкви, сих посаждаете.
+      averincev: ""
+      ungerov: ""
+      csya_old: Житє1йскаz бо суди6ща ѓще и4мате, ўничиже1нныхъ въ цRкви, си1хъ
+        посаждaете.
+      sovr_rbo: ""
+      latin: "Saecularia igitur judicia si habueritis: contemptibiles, qui sunt in
+        ecclesia, illos constituite ad judicandum."
+      ukr: А ви, коли маєте суд за життєве, то ставите суддями тих, хто нічого не
+        значить у Церкві.
+      nkjv: If then you have judgments concerning things pertaining to this life, do
+        you appoint those who are least esteemed by the church to judge?
+      desnitsky: А вы в житейских спорах избираете таких судей, которые для церкви
+        ничего не значат.
+      tex_rec: βιωτικὰ μὲν οὖν κριτήρια ἐὰν ἔχητε, τοὺς ἐξουθενημένους ἐν τῇ ἐκκλησίᾳ
+        τούτους καθίζετε;
+      deutsch: Ihr aber, wenn ihr über zeitlichen Gütern Sachen habt, so nehmt ihr
+        die, so bei der Gemeinde verachtet sind, und setzet sie zu Richtern.
+      spanish: Cuando tengáis diferencias sobre estas nonadas de la vida, poned por
+        jueces a los más despreciables de la Iglesia.
+      peshitta: ܐܶܠܳܐ ܐܶܢ ܐܺܝܬ݂ ܠܟ݂ܽܘܢ ܕ݁ܺܝܢܳܐ ܥܰܠ ܕ݁ܥܳܠܡܳܐ ܠܰܐܝܠܶܝܢ ܕ݁ܰܒ݂ܣܶܝܢ
+        ܒ݁ܥܺܕ݈݁ܬ݁ܳܐ ܐܰܘܬ݁ܶܒ݂ܘ ܠܟ݂ܽܘܢ ܒ݁ܕ݂ܺܝܢܳܐ܂
+      bel_syomukha: А вы, калі маеце жыцьцёвыя цяжбіны, ставіце за судзьдзяў тых, хто
+        за нішто не ўважаецца ў царкве.
+      nrt: В этом случае лучше ставьте судьями над собой самых незначительных в вашем
+        собрании.
+      romana: Deci daca aveti judecati lumesti, puneti pe cei nebagati in seama din
+        Biserica, ca sa va judece.
+      francais: Quand donc vous avez des différends pour les choses de cette vie, ce
+        sont des gens dont l'Église ne fait aucun cas que vous prenez pour
+        juges!
+      italian: Se dunque avete liti per cose di questo mondo, voi prendete a giudici
+        gente senza autorità nella Chiesa?
+      old_georgian: უკუეთუ ამის სოფლისა სამშჯავროჲ რაჲმე გაქუნდეს, შეურაცხნი იგი
+        კრებულისა შორის, ესენი დასხენით?
+      portuguese: "Então, se tiverdes negócios em juízo, pertencentes a esta vida,
+        constituís como juízes deles os que são de menos\restima na igreja?"
+      polish: "Wy zaś, gdy macie sprawy doczesne do rozstrzygnięcia, sędziami
+        waszymi\rczynicie ludzi za nic uważanych w Kościele!"
+      new_text: И если возникли споры о таких делах, зачем вы отдаете их на суд людям,
+        не принадлежащим к церкви?
+      serbian: А ви кад имате суђења за ствари овога свијета, узимате за судије оне
+        који у Цркви не значе ништа.
+      bulgarian: Ако, прочее, имате съд за житейски работи, поставяйте за съдии
+        унижените в църквата.
+      ukr2: Коли, отже, маєте суди про життєві справи, настановляєте (суддями) таких,
+        що за ніщо вважаються у Церкві.
+      ukr3: Коли ж маєте судитись про житейські речі, то хоч би упослїджених у церкві
+        беріть за суддїв.
+      czech: Mate-li spory o tyto vsedni zalezitosti, proc se obracite k tem, kdo
+        nemaji s cirkvi nic spolecneho?
+      st_text: А вы, когда имеете житейские тяжбы, поставляете <i>своими судьями</i>
+        ничего не значащих в церкви.
+  - id: 1627
+    number: 5
+    bookId: 64
+    text: "К стыду вашему говорю: неужели нет между вами ни одного разумного,
+      который мог бы рассудить между братьями своими?"
+    chapter: 6
+    chapterId: 1273
+    parallels: []
+    translates:
+      kassian: К стыду вашему говорю. Значит нет среди вас ни одного мудрого, который
+        мог бы рассудить между братьями своими.
+      podstr: К стыду вам говорю. Так не есть у вас никто мудрый который сможет
+        рассудить по середине брата его?
+      csya: "К сраму вам глаголю: тако ли несть в вас мудр ни един, иже может
+        разсудити между братий своих?"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Къ срaму вaмъ глаго1лю: тaкw ли нёсть въ вaсъ мyдръ ни є3ди1нъ, и4же
+        мо1жетъ разсуди1ти междY брaтій свои1хъ;"
+      sovr_rbo: ""
+      latin: Ad verecundiam vestram dico. Sic non est inter vos sapiens quisquam, qui
+        possit judicare inter fratrem suum?
+      ukr: Я на сором це вам говорю. Чи ж між вами немає ні одного мудрого, щоб він
+        міг розсудити між братами своїми?
+      nkjv: I say this to your shame. Is it so, that there is not a wise man among
+        you, not even one, who will be able to judge between his brethren?
+      desnitsky: "Хочу вас пристыдить: неужели нет среди вас никого достаточно
+        мудрого, чтобы рассудить спор собратьев?"
+      tex_rec: πρὸς ἐντροπὴν ὑμῖν λέγω. οὕτως οὐκ ἔνι ἐν ὑμῖν οὐδεὶς σοφὸς ὃς
+        δυνήσεται διακρῖναι ἀνὰ μέσον τοῦ ἀδελφοῦ αὐτοῦ;
+      deutsch: "Euch zur Schande muß ich das sagen: Ist so gar kein Weiser unter euch,
+        auch nicht einer, der da könnte richten zwischen Bruder und Bruder?"
+      spanish: Para vuestra confusión os hablo de este modo. ¿No hay entre vosotros
+        ningún prudente capaz de ser juez entre hermanos?
+      peshitta: ܠܟ݂ܽܘܳܐܪܳܐ ܗܽܘ ܕ݁ܶܝܢ ܐܳܡܰܪ ܐ݈ܢܳܐ ܠܟ݂ܽܘܢ ܗܳܟ݂ܰܢܳܐ ܠܰܝܬ݁ ܒ݁ܟ݂ܽܘܢ ܐܳܦ݂ܠܳܐ
+        ܚܰܕ݂ ܚܰܟ݁ܺܝܡܳܐ ܕ݁ܢܶܫܟ݁ܰܚ ܢܰܫܘܶܐ ܒ݁ܶܝܬ݂ ܐܰܚܳܐ ܠܰܐܚܽܘܗ݈ܝ܂
+      bel_syomukha: "На сорам ваш кажу: няўжо няма сярод вас ніводнага разумнага, які
+        мог бы рассудзіць братоў сваіх?"
+      nrt: Какой позор! Неужели среди вас не найдется разумного человека, который мог
+        бы рассудить споры между верующими?
+      romana: O spun spre rusinea voastra. Nu este, oare, intre voi nici un om
+        intelept, care sa poata judeca intre frate si frate?
+      francais: Je le dis à votre honte. Ainsi il n'y a parmi vous pas un seul homme
+        sage qui puisse prononcer entre ses frères.
+      italian: Lo dico per vostra vergogna! Cosicché non vi sarebbe proprio nessuna
+        persona saggia tra di voi che possa far da arbitro tra fratello e
+        fratello?
+      old_georgian: "საკდემელად თქუენდა გეტყჳ: ეგოდენ არავინ არს თქუენ შორის ბრძენ,
+        რომელმანმცა შეუძლო განკითხვად შორის ძმისა თჳსისა?"
+      portuguese: Para vos envergonhar o digo. Será que não há entre vós sequer um
+        sábio, que possa julgar entre seus irmãos?
+      polish: "Mówię to, aby was zawstydzić. Bo czyż nie znajdzie się wśród was ktoś
+        na\rtyle mądry, by mógł rozstrzygać spory między swymi braćmi?"
+      new_text: Как вам не стыдно! Неужели нет среди вас ни одного мудрого человека,
+        который мог бы рассудить братьев?
+      serbian: На срамоту вама говорим. Зар нема међу вама ниједнога мудра који ће
+        моћи пресудити међу браћом својом?
+      bulgarian: "За ваш срам казвам: тъй ли няма помежду ви ни един мъдър, който да
+        може да отсъжда между братята си?"
+      ukr2: Кажу це вам на сором! Хіба нема між вами ні одного мудрого, що міг би
+        розсуджувати між братами своїми?
+      ukr3: "На сором вам глаголю: Хиба нема між вами й одного мудрого, котрий зміг би
+        розсудити між братами своїми?"
+      czech: K vasemu zahanbeni to rikam. Cozpak neni mezi vami nikdo rozumny, kdo by
+        dovedl rozsoudit spor mezi bratrimi?
+      st_text: "К стыду вашему говорю: неужели нет между вами ни одного разумного,
+        который мог бы рассудить между братьями своими?"
+  - id: 1628
+    number: 6
+    bookId: 64
+    text: Но брат с братом судится, и притом перед неверными.
+    chapter: 6
+    chapterId: 1273
+    parallels: []
+    translates:
+      kassian: Но брат с братом судится, и притом у неверных.
+      podstr: Но брат с братом судится, и это у неверных?
+      csya: Но брат с братом судится, и то пред неверными.
+      averincev: ""
+      ungerov: ""
+      csya_old: Но брaтъ съ брaтомъ сyдитсz, и3 то2 пред8 невёрными.
+      sovr_rbo: ""
+      latin: "Sed frater cum fratre judicio contendit: et hoc apud infideles?"
+      ukr: Та брат судиться з братом, і то перед невірними!
+      nkjv: But brother goes to law against brother, and that before unbelievers!
+      desnitsky: А то ведь брат судится с братом, и притом у неверных.
+      tex_rec: ἀλλὰ ἀδελφὸς μετὰ ἀδελφοῦ κρίνεται, καὶ τοῦτο ἐπὶ ἀπίστων;
+      deutsch: sondern ein Bruder hadert mit dem andern, dazu vor den Ungläubigen.
+      spanish: En vez de esto, ¿pleitea el hermano con el hermano, y esto ante los
+        infieles?
+      peshitta: ܐܶܠܳܐ ܐܰܚܳܐ ܥܰܡ ܐܰܚܽܘܗ݈ܝ ܡܶܬ݁ܕ݂ܺܝܢ ܘܬ݂ܽܘܒ݂ ܩܕ݂ܳܡ ܐܰܝܠܶܝܢ ܕ݁ܠܳܐ ܡܗܰܝܡܢܺܝܢ܂
+      bel_syomukha: Але брат з братам судзіцца, і да таго ж перад няверуючымі.
+      nrt: Вы же подаете в суд друг на друга, и вас судят неверующие!
+      romana: Ci frate cu frate se judeca, si aceasta inaintea necredinciosilor?
+      francais: Mais un frère plaide contre un frère, et cela devant des infidèles!
+      italian: No, anzi, un fratello viene chiamato in giudizio dal fratello e per di
+        più davanti a infedeli!
+      old_georgian: არამედ ძმაჲ ძმისა თანა განისჯების, და ესე ურწმუნოთა წინაშე.
+      portuguese: Mas vai um irmão a juízo contra outro irmão, e isto perante incrédulos?
+      polish: A tymczasem brat oskarża brata, i to przed niewierzącymi.
+      new_text: Так нет, брат судится с братом, и притом у неверующих!
+      serbian: Него се брат са братом суди, и то код невјерних!
+      bulgarian: А брат с брата се съди, и то пред неверници!
+      ukr2: А то брат з братом судиться, а й перед невірними!
+      ukr3: Нї, брат з братом судить ся, та ще й перед невірними!
+      czech: Ale bratr se soudi s bratrem, a to pred nevericimi!
+      st_text: Но брат с братом судится, и притом перед неверными.
+  - id: 1629
+    number: 7
+    bookId: 64
+    text: И то уже весьма унизительно для вас, что вы имеете тяжбы между собою. Для
+      чего бы вам лучше не оставаться обиженными? для чего бы вам лучше не
+      терпеть лишения?
+    chapter: 6
+    chapterId: 1273
+    parallels:
+      - verseId: 25915
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 5
+        short: Мф:5:39
+      - verseId: 25916
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 5
+        short: Мф:5:40
+      - verseId: 24745
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 6
+        short: Лк:6:29
+      - verseId: 32899
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 12
+        short: Рим:12:19
+      - verseId: 1167
+        bookId: 70
+        bookCode: 1oe-poslanie-k-fessalonikijcam-ap-pavla
+        chapter: 5
+        short: 1 Фес:5:15
+    translates:
+      kassian: Во всяком случае, уже то - поражение для вас, что вы имеете судебные
+        дела между собою. Почему не предпочитаете вы терпеть обиду? Почему не
+        предпочитаете вы, чтобы вас обирали?
+      podstr: Уже ведь итак вовсе поражение вам есть что суды имеете с собой; из-за
+        чего не более бываете обижаемы? Из-за чего не более бываете лишаемы?
+      csya: Уже убо отнюд вам срам есть, яко тяжбы имате между собою. Почто не паче
+        обидими есте? почто не паче лишени бываете?
+      averincev: ""
+      ungerov: ""
+      csya_old: Ўже2 ў2бо tню1дъ вaмъ срaмъ є4сть, ћкw т‰жбы и4мате междY собо1ю.
+        Почто2 не пaче њби1дими є3сте2; почто2 не пaче лише1ни бывaете;
+      sovr_rbo: ""
+      latin: Jam quidem omnino delictum est in vobis, quod judicia habetis inter vos.
+        Quare non magis injuriam accipitis? quare non magis fraudem patimini?
+      ukr: Тож уже для вас сором зовсім, що суди між собою ви маєте. Чому краще не
+        терпите кривди? Чому краще не маєте шкоди?
+      nkjv: Now therefore, it is already an utter failure for you that you go to law
+        against one another. Why do you not rather accept wrong? Why do you not
+        rather let yourselves be cheated?
+      desnitsky: Если вы судитесь друг с другом – в этом уже ваше поражение. Чем
+        судиться, может, лучше стерпеть обиду? Может, лучше понести ущерб?
+      tex_rec: ἤδη μὲν [οὖν] ὅλως ἥττημα ὑμῖν ἐστιν ὅτι κρίματα ἔχετε μεθ᾽ ἑαυτῶν· διὰ
+        τί οὐχὶ μᾶλλον ἀδικεῖσθε; διὰ τί οὐχὶ μᾶλλον ἀποστερεῖσθε;
+      deutsch: Es ist schon ein Fehl unter euch, daß ihr miteinander rechtet. Warum
+        laßt ihr euch nicht lieber Unrecht tun? warum laßt ihr euch nicht lieber
+        übervorteilen?
+      spanish: Ya es una mengua que tengáis pleitos unos con otros. ¿Por qué no
+        preferís sufrir la injusticia? ¿Por qué no el ser despojados?
+      peshitta: ܡܶܢ ܟ݁ܰܕ݁ܽܘ ܗܳܟ݂ܺܝܠ ܩܢܽܘܡܟ݂ܽܘܢ ܚܳܒ݂ܬ݁ܽܘܢ ܠܟ݂ܽܘܢ ܕ݁ܕ݂ܺܝܢܳܐ ܚܰܕ݂ ܥܰܡ
+        ܚܰܕ݂ ܐܺܝܬ݂ ܠܟ݂ܽܘܢ ܡܶܛܽܠ ܡܳܢܳܐ ܓ݁ܶܝܪ ܠܳܐ ܡܶܬ݂ܥܰܠܒ݂ܺܝܢ ܐܢ݈ܬ݁ܽܘܢ ܘܡܶܛܽܠ
+        ܡܳܢܳܐ ܠܳܐ ܡܶܬ݂ܓ݁ܰܠܙܺܝܢ ܐܢ݈ܬ݁ܽܘܢ܂
+      bel_syomukha: І тое ўжо даволі вас прыніжае, што вы маеце цяжбіны паміж сабою.
+        Ці ня лепей было б вам заставацца ў крыўдзе? ці ня лепей было б вам
+        цярпець нягоды?
+      nrt: Уже одно то, что вы подаете друг на друга в суд, является полным поражением
+        для вас. Не лучше ли остаться пострадавшими? Не лучше ли остаться
+        обманутыми?
+      romana: Negresit, si aceasta este o scadere pentru voi, ca aveti judecati unii
+        cu altii. Pentru ce nu suferiti mai bine strambatatea? Pentru ce nu
+        rabdati mai bine paguba?
+      francais: C'est déjà certes un défaut chez vous que d'avoir des procès les uns
+        avec les autres. Pourquoi ne souffrez-vous pas plutôt quelque injustice?
+        Pourquoi ne vous laissez-vous pas plutôt dépouiller?
+      italian: E dire che è già per voi una sconfitta avere liti vicendevoli! Perché
+        non subire piuttosto l'ingiustizia? Perché non lasciarvi piuttosto
+        privare di ciò che vi appartiene?
+      old_georgian: აწ უკუე ყოვლითურთ ძლეულება არს თქუენდა ესე, რამეთუ სასჯელი გიც
+        ურთიერთას. რაჲსათჳს არა უფროჲსღა თქუენ გევნების? რაჲსათჳს არა უფროჲსად
+        თქუენ მიგეხუეჭების?
+      portuguese: "Na verdade já é uma completa derrota para vós o terdes demandadas
+        uns contra os outros. Por que não sofreis\rantes a injustiça? Por que
+        não sofreis antes a fraude?"
+      polish: "Już samo to jest godne potępienia, że w ogóle zdarzają się wśród was
+        sądowe\rsprawy. Czemuż nie znosicie raczej niesprawiedliwości? Czemuż
+        nie ponosicie\rraczej szkody?"
+      new_text: Полный провал уже одно то, что у вас есть тяжбы друг с другом! Не
+        лучше ли остаться несправедливо обиженным? Не лучше ли остаться
+        обкраденным?
+      serbian: И то вам је већ сасвим на срамоту што имате парнице међу собом. Зашто
+        радије не претрпите неправду? Зашто радије не поднесете штету?
+      bulgarian: Твърде срамотно е за вас вече това, че имате съдби помежду си; защо
+        по-добре не си останете обидени? Защо по-добре не претърпите щета?
+      ukr2: Вже це взагалі для вас пониження, що судитеся між собою. Чого б вам радше
+        не стерпіти кривди? Чого б вам радніш не зазнавати здирства?
+      ukr3: І се вже зовсїм сором вам, що ви судитесь між собою. Чом би вам раднїщ
+        кривди не терпіти? чом лучче не терпіти шкоди?
+      czech: Jiz to je vase prohra, ze se vubec mezi sebou soudite. Proc radeji
+        netrpite krivdu? Proc radeji nenesete skodu?
+      st_text: И то уже весьма унизительно для вас, что вы имеете тяжбы между собою.
+        Для чего бы вам лучше не оставаться обиженными? для чего бы вам лучше не
+        терпеть лишения?
+  - id: 1630
+    number: 8
+    bookId: 64
+    text: Но вы <i>сами</i> обижаете и отнимаете, и притом у братьев.
+    chapter: 6
+    chapterId: 1273
+    parallels: []
+    translates:
+      kassian: Но вы обижаете и обираете, и притом братьев.
+      podstr: Но вы обижаете и лишаете, и это братьев.
+      csya: Но вы (сами) обидите и лишаете, да еще братию.
+      averincev: ""
+      ungerov: ""
+      csya_old: Но вы2 (сaми) њби1дите и3 лишaете, да є3ще2 брaтію.
+      sovr_rbo: ""
+      latin: "Sed vos injuriam facitis, et fraudatis: et hoc fratribus."
+      ukr: Але ви самі кривду чините та обдираєте, та ще братів...
+      nkjv: No, you yourselves do wrong and cheat, and you do these things to your
+        brethren!
+      desnitsky: А вы сами обижаете и наносите ущерб, и притом братьям по вере!
+      tex_rec: ἀλλὰ ὑμεῖς ἀδικεῖτε καὶ ἀποστερεῖτε, καὶ τοῦτο ἀδελφούς.
+      deutsch: Sondern ihr tut Unrecht und übervorteilt, und solches an den Brüdern!
+      spanish: Y en vez de esto sois vosotros los que hacéis injusticias y cometéis
+        fraudes, y esto con hermanos.
+      peshitta: ܐܶܠܳܐ ܐܰܢ݈ܬ݁ܽܘܢ ܥܳܠܒ݁ܺܝܢ ܐܢ݈ܬ݁ܽܘܢ ܘܓ݂ܳܠܙܺܝܢ ܐܢ݈ܬ݁ܽܘܢ ܐܳܦ݂ ܠܰܐܚܰܝܟ݁ܽܘܢ܂
+      bel_syomukha: Але вы самі крыўду ўчыняеце і адбіраеце, да таго ж у братоў.
+      nrt: А вы сами обманываете и обворовываете своих братьев.
+      romana: Ci voi insiva faceti strambatate si aduceti paguba, si aceasta, fratilor!
+      francais: Mais c'est vous qui commettez l'injustice et qui dépouillez, et c'est
+        envers des frères que vous agissez de la sorte!
+      italian: Siete voi invece che commettete ingiustizia e rubate, e ciò ai fratelli!
+      old_georgian: არამედ თქუენ ავნებთ და მოჰხუეჭთ, და ამას ძმათა.
+      portuguese: Mas vós mesmos é que fazeis injustiça e defraudais; e isto a irmãos.
+      polish: "Tymczasem wy dopuszczacie się niesprawiedliwości i szkody wyrządzacie,
+        i\rto właśnie braciom."
+      new_text: А вы и обижаете, и обкрадываете… И кого? Собственных братьев!
+      serbian: Него ви чините неправду и наносите штету, и то браћи!
+      bulgarian: Но вие сами обиждате и ощетявате, и то братя.
+      ukr2: Ви ж, навпаки, самі кривдите та обдираєте, та ще й братів!
+      ukr3: Нї, ви самі кривдите, та обдираєте, та ще й братів.
+      czech: Vy vsak krivdite a skodite, a to bratrim!
+      st_text: Но вы <i>сами</i> обижаете и отнимаете, и притом у братьев.
+  - id: 1631
+    number: 9
+    bookId: 64
+    text: "Или не знаете, что неправедные Царства Божия не наследуют? Не
+      обманывайтесь: ни блудники, ни идолослужители, ни прелюбодеи, ни малакии,
+      ни мужеложники,"
+    chapter: 6
+    chapterId: 1273
+    parallels:
+      - verseId: 23236
+        bookId: 3
+        bookCode: levit
+        chapter: 18
+        short: Лев:18:22
+      - verseId: 23309
+        bookId: 3
+        bookCode: levit
+        chapter: 20
+        short: Лев:20:12
+      - verseId: 23310
+        bookId: 3
+        bookCode: levit
+        chapter: 20
+        short: Лев:20:13
+      - verseId: 15115
+        bookId: 66
+        bookCode: k-galatam-poslanie-ap-pavla
+        chapter: 5
+        short: Гал:5:19
+      - verseId: 15117
+        bookId: 66
+        bookCode: k-galatam-poslanie-ap-pavla
+        chapter: 5
+        short: Гал:5:21
+      - verseId: 14118
+        bookId: 67
+        bookCode: k-efesanam-poslanie-ap-pavla
+        chapter: 5
+        short: Еф:5:5
+      - verseId: 22887
+        bookId: 69
+        bookCode: k-kolossanam-poslanie-ap-pavla
+        chapter: 3
+        short: Кол:3:6
+      - verseId: 28402
+        bookId: 77
+        bookCode: otkrovenie-ap-ioanna-bogoslova
+        chapter: 21
+        short: Откр:21:8
+    translates:
+      kassian: "Или вы не знаете, что неправедные Божьего Царства не наследуют? Не
+        заблуждайтесь: ни блудники, ни идолослужители, ни прелюбодеи, ни
+        рукоблудники, ни мужеложники,"
+      podstr: Или не знаете что неправедные Бога Царство не унаследуют? Не
+        заблуждайтесь; и не развратники и не идолопоклонники и не прелюбодеи и
+        не сластолюбцы и не мужеложцы
+      csya: "Или не весте, яко неправедницы Царствия Божия не наследят? Не льстите
+        себе: ни блудницы, ни идолослужителе, ни прелюбодее, (ни сквернителе,)
+        ни малакии, ни мужеложницы,"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И#ли2 не вёсте, ћкw непрaвєдницы цrтвіz б9іz не наслёдzтъ; Не
+        льсти1те себе2: ни блудницы2, ни їдwлослужи1телє, ни прелюбодёє, (ни
+        скверни1телє,) ни малак‡и, ни мужело1жницы,"
+      sovr_rbo: ""
+      latin: "An nescitis quia iniqui regnum Dei non possidebunt? Nolite errare: neque
+        fornicarii, neque idolis servientes, neque adulteri,"
+      ukr: "Хіба ви не знаєте, що неправедні не вспадкують Божого Царства? Не
+        обманюйте себе: ні розпусники, ні ідоляни, ні перелюбники, ні
+        блудодійники, ні мужоложники,"
+      nkjv: Do you not know that the unrighteous will not inherit the kingdom of God?
+        Do not be deceived. Neither fornicators, nor idolaters, nor adulterers,
+        nor homosexuals, nor sodomites,
+      desnitsky: "Разве не знаете, что нечестивые не имеют доли в Царстве Божьем? Не
+        обманывайте себя: ни развратники, ни идолопоклонники, ни распутники, ни
+        гомосексуалисты (ложись они снизу или сверху),"
+      tex_rec: ἢ οὐκ οἴδατε ὅτι ἄδικοι θεοῦ βασιλείαν οὐ κληρονομήσουσιν; μὴ πλανᾶσθε·
+        οὔτε πόρνοι οὔτε εἰδωλολάτραι οὔτε μοιχοὶ οὔτε μαλακοὶ οὔτε ἀρσενοκοῖται
+      deutsch: Wisset ihr nicht, daß die Ungerechten das Reich Gottes nicht ererben
+        werden? Lasset euch nicht verführen! Weder die Hurer noch die
+        Abgöttischen noch die Ehebrecher noch die Weichlinge noch die
+        Knabenschänder
+      spanish: "¿No sabéis que los injustos no poseerán el reino de Dios? No os
+        engañéis: ni los fornicarios, ni los idólatras, ni los adúlteros, ni los
+        afeminados, ni los sodomitas,"
+      peshitta: ܐܰܘ ܠܳܐ ܝܳܕ݂ܥܺܝܢ ܐܢ݈ܬ݁ܽܘܢ ܕ݁ܥܰܘܳܠܶܐ ܡܰܠܟ݁ܽܘܬ݂ܶܗ ܕ݁ܰܐܠܳܗܳܐ ܠܳܐ ܝܳܪܬ݁ܺܝܢ
+        ܠܳܐ ܬ݁ܶܛܥܽܘܢ ܠܳܐ ܙܰܢܳܝܶܐ ܘܠܳܐ ܦ݁ܳܠܚܰܝ ܦ݁ܬ݂ܰܟ݂ܪܶܐ ܘܠܳܐ ܓ݁ܰܝܳܪܶܐ ܘܠܳܐ
+        ܡܚܰܒ݁ܠܶܐ ܘܠܳܐ ܫܳܟ݂ܒ݁ܰܝ ܥܰܡ ܕ݁ܶܟ݂ܪܶܐ܂
+      bel_syomukha: "Хіба ня ведаеце, што няправедныя Царства Божага не спадкуюць? Не
+        ашуквайце саміх сябе: ні блудадзеі, ні балвахвалы, ні пералюбцы, ні
+        ганебцы, ні рукаблуды, ні мужаложцы,"
+      nrt: Разве вы не знаете, что неправедные не наследуют Царства Божьего? Смотрите,
+        чтобы вам не обмануться. Никакие развратники, никакие идолопоклонники,
+        нарушители супружеской верности, пассивные и активные
+        гомосексуалисты-мужчины,
+      romana: "Nu stiti, oare, ca nedreptii nu vor mosteni imparatia lui Dumnezeu? Nu
+        va amagiti: Nici desfranatii, nici inchinatorii la idoli, nici
+        adulterii, nici malahienii, nici sodomitii,"
+      francais: "Ne savez-vous pas que les injustes n'hériteront point le royaume de
+        Dieu? Ne vous y trompez pas: ni les impudiques, ni les idolâtres, ni les
+        adultères,"
+      italian: "O non sapete che gli ingiusti non erediteranno il regno di Dio? Non
+        illudetevi: né immorali, né idolàtri, né adùlteri,"
+      old_georgian: "ანუ არა უწყითა, რამეთუ ცრუთა სასუფეველი ღმრთისაჲ ვერ დაიმკჳდრონ?
+        ნუ სცთებით: არცა მეძავთა, არცა კერპთმსახურთა, არცა მემრუშეთა, არცა
+        ჩუკენთა, არცა მამათ-მავალთა, არცა ანგაჰრთა,"
+      portuguese: "Não sabeis que os injustos não herdarão o reino de Deus? Não vos
+        enganeis: nem os devassos, nem os\r
+
+        idólatras, nem os adúlteros, nem os efeminados, nem os
+        sodomitas,"
+      polish: "Czyż nie wiecie, że niesprawiedliwi nie posiądą królestwa Bożego? Nie
+        łudźcie\r
+
+        się! Ani rozpustnicy, ani bałwochwalcy, ani cudzołożnicy, ani
+        rozwięźli, ani\r
+
+        mężczyźni współżyjący z sobą,"
+      new_text: Неужели вы не знаете, что люди порочные не получат наследия в Царстве
+        Бога? Не обманывайте себя! Развратники, идолопоклонники, неверные мужья
+        и жены, извращенцы, педерасты,
+      serbian: "Или не знате да неправедници неће наслиједити Царства Божијега? Не
+        варајте се: ни блудници, ни идолопоклоници, ни прељубници, ни
+        рукоблудници, ни мужеложници,"
+      bulgarian: "Или не знаете, че неправедници няма да наследят царството Божие? Не
+        се лъжете: нито блудници, ни идолослужители, ни прелюбодейци, нито
+        малакийци, ни мъжеложници,"
+      ukr2: Чи ж не знаєте, що неправедні царства Божого не успадкують? Не обманюйте
+        себе! Ані розпусники, ані ідолопоклонники, ані перелюбники, ані
+        розгнуздані, ані мужоложники,
+      ukr3: "Або хиба не знаєте, що неправедні царства Божого не настлїдять? Не
+        обманюйте себе: нї блудники, нї ідолослужителї, нї перелюбники, нї
+        пещені, нї мужоложники,"
+      czech: "Coz nevite, ze nespravedlivi nebudou mit ucast v Bozim kralovstvi?
+        Nemylte se: Ani smilnici, ani modlari, ani cizoloznici, ani nemravni,
+        ani zvraceni,"
+      st_text: "Или не знаете, что неправедные Царства Божия не наследуют? Не
+        обманывайтесь: ни блудники, ни идолослужители, ни прелюбодеи, ни
+        малакии, ни мужеложники,"
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 1632
+    number: 10
+    bookId: 64
+    text: ни воры, ни лихоимцы, ни пьяницы, ни злоречивые, ни хищники - Царства
+      Божия не наследуют.
+    chapter: 6
+    chapterId: 1273
+    parallels: []
+    translates:
+      kassian: ни воры, ни любостяжатели, ни пьяницы, ни хулители, ни грабители -
+        Царства Божия не наследуют.
+      podstr: и не воры и не стяжатели, не пьяницы, не ругатели, не хищные царство
+        Бога унаследуют.
+      csya: ни лихоимцы, ни татие, ни пияницы, ни досадителе, ни хищницы Царствия
+        Божия не наследят.
+      averincev: ""
+      ungerov: ""
+      csya_old: ни лихои1мцы, ни тaтіе, ни пі‰ницы, ни досади1телє, ни хи6щницы цrтвіz
+        б9іz не наслёдzтъ.
+      sovr_rbo: ""
+      latin: neque molles, neque masculorum concubitores, neque fures, neque avari,
+        neque ebriosi, neque maledici, neque rapaces regnum Dei possidebunt.
+      ukr: ні злодії, ні користолюбці, ні п'яниці, ні злоріки, ні хижаки Царства
+        Божого не вспадкують вони!
+      nkjv: nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners
+        will inherit the kingdom of God.
+      desnitsky: ни воры, ни хапуги, ни пьяницы, ни клеветники, ни грабители не имеют
+        доли в Царстве Божьем.
+      tex_rec: οὔτε κλέπται οὔτε πλεονέκται, οὐ μέθυσοι, οὐ λοίδοροι, οὐχ ἅρπαγες
+        βασιλείαν θεοῦ κληρονομήσουσιν.
+      deutsch: noch die Diebe noch die Geizigen noch die Trunkenbolde noch die
+        Lästerer noch die Räuber werden das Reich Gottes ererben.
+      spanish: ni los ladrones, ni los avaros, ni los ebrios, ni los maldicientes, ni
+        los rapaces poseerán el reino de Dios.
+      peshitta: ܘܠܳܐ ܥܳܠܽܘܒ݂ܶܐ ܘܠܳܐ ܓ݁ܰܢܳܒ݂ܶܐ ܘܠܳܐ ܪܰܘܳܝܶܐ ܘܠܳܐ ܡܨܰܥܪܳܢܶܐ ܘܠܳܐ
+        ܚܳܛܽܘܦ݂ܶܐ ܗܳܠܶܝܢ ܡܰܠܟ݁ܽܘܬ݂ܶܗ ܕ݁ܰܐܠܳܗܳܐ ܠܳܐ ܝܳܪܬ݁ܺܝܢ܂
+      bel_syomukha: ні ліхазьдзірцы, ні зладзеі, ні п'яніцы, ні ліхасловы, ні
+        драпежнікі - Царства Божага не спадкуюць.
+      nrt: воры, корыстолюбцы или пьяницы, клеветники или мошенники Царства Божьего не
+        наследуют.
+      romana: Nici furii, nici lacomii, nici betivii, nici batjocoritorii, nici
+        rapitorii nu vor mosteni imparatia lui Dumnezeu.
+      francais: ni les efféminés, ni les infâmes, ni les voleurs, ni les cupides, ni
+        les ivrognes, ni les outrageux, ni les ravisseurs, n'hériteront le
+        royaume de Dieu.
+      italian: né effeminati, né sodomiti, né ladri, né avari, né ubriaconi, né
+        maldicenti, né rapaci erediteranno il regno di Dio.
+      old_georgian: არცა მპარავთა, არცა მომთრვალეთა, არცა მაგინებელთა, არცა მტაცებელთა
+        სასუფეველი ღმრთისაჲ არა დაიმკჳდრონ.
+      portuguese: "nem os ladrões, nem os avarentos, nem os bêbedos, nem os
+        maldizentes, nem os roubadores herdarão o reino\rde Deus."
+      polish: "ani złodzieje, ani chciwi, ani pijacy, ani oszczercy, ani zdziercy nie
+        odziedziczą\rkrólestwa Bożego."
+      new_text: воры, стяжатели, пьяницы, клеветники, мошенники — никому из них не
+        получить наследия в Царстве Бога!
+      serbian: Ни лакомци, ни лопови, ни пијанице, ни опадачи, ни отимачи, неће
+        наслиједити Царство Божије.
+      bulgarian: нито крадци, ни користолюбци, ни пияници, нито хулители, ни грабители
+        няма да наследят царството Божие.
+      ukr2: ані злодії, ані зажерливі, ані п'яниці, ані злоріки, ані грабіжники -
+        царства Божого не успадкують.
+      ukr3: нї злодїї, нї зажерливі, нї пяницї, нї злоріки, нї хижаки царства Божого
+        не наслїдять.
+      czech: ani zlodeji, ani lakomci, opilci, utrhaci, lupici nebudou mit ucast v
+        Bozim kralovstvi.
+      st_text: ни воры, ни лихоимцы, ни пьяницы, ни злоречивые, ни хищники - Царства
+        Божия не наследуют.
+  - id: 1633
+    number: 11
+    bookId: 64
+    text: И такими были некоторые из вас; но омылись, но освятились, но оправдались
+      именем Господа нашего Иисуса Христа и Духом Бога нашего.
+    chapter: 6
+    chapterId: 1273
+    parallels:
+      - verseId: 14040
+        bookId: 67
+        bookCode: k-efesanam-poslanie-ap-pavla
+        chapter: 2
+        short: Еф:2:2
+      - verseId: 35540
+        bookId: 74
+        bookCode: k-titu-poslanie-ap-pavla
+        chapter: 3
+        short: Тит:3:3
+    translates:
+      kassian: И такими были некоторые из вас; но омылись, но были освящены, но были
+        оправданы именем Господа Иисуса Христа и Духом Бога нашего.
+      podstr: И это некоторые вы были; но вы отмылись, но вы были освящены, но вы были
+        оправданы в имени Господа Иисуса Христа и в Духе Бога нашего.
+      csya: И сими (убо) нецыи бесте, но омыстеся, но освятистеся, но оправдистеся
+        именем Господа нашего Иисуса Христа и духом Бога нашего.
+      averincev: ""
+      ungerov: ""
+      csya_old: И# си1ми (ќбw) нёцыи бёсте, но њмы1стесz, но њс™и1стесz, но
+        њправди1стесz и4менемъ гDа нaшегw ї}са хrтA и3 д¦омъ бг7а нaшегw.
+      sovr_rbo: ""
+      latin: "Et haec quidam fuistis: sed abluti estis, sed sanctificati estis, sed
+        justificati estis in nomine Domini nostri Jesu Christi, et in Spiritu
+        Dei nostri."
+      ukr: І такими були дехто з вас, але ви обмились, але освятились, але
+        виправдались Іменем Господа Ісуса Христа й Духом нашого Бога.
+      nkjv: And such were some of you. But you were washed, but you were sanctified,
+        but you were justified in the name of the Lord Jesus and by the Spirit
+        of our God.
+      desnitsky: Да и среди вас были точно такие же, но теперь вы омыты Духом нашего
+        Бога и приняты как святые и праведные во имя Господа Иисуса Христа.
+      tex_rec: καὶ ταῦτά τινες ἦτε· ἀλλὰ ἀπελούσασθε, ἀλλὰ ἡγιάσθητε, ἀλλὰ ἐδικαιώθητε
+        ἐν τῷ ὀνόματι τοῦ κυρίου ᾽Ιησοῦ Χριστοῦ καὶ ἐν τῷ πνεύματι τοῦ θεοῦ
+        ἡμῶν.
+      deutsch: Und solche sind euer etliche gewesen; aber ihr seid abgewaschen, ihr
+        seid geheiligt, ihr seid gerecht geworden durch den Namen des Herrn Jesu
+        und durch den Geist unsers Gottes.
+      spanish: Y alguno esto erais, pero habéis sido lavados; habéis sido
+        santificados, habéis sido justificados en el nombre de Señor Jesucristo
+        y por el Espíritu de nuestro Dios.
+      peshitta: ܘܗܳܠܶܝܢ ܐܺܝܬ݂ ܗ݈ܘܰܝ ܒ݁ܐ݈ܢܳܫ ܐ݈ܢܳܫ ܡܶܢܟ݂ܽܘܢ ܐܶܠܳܐ ܣܚܰܝܬ݁ܽܘܢ
+        ܘܶܐܬ݂ܩܰܕ݁ܰܫܬ݁ܽܘܢ ܘܶܐܙܕ݁ܰܕ݁ܰܩܬ݁ܽܘܢ ܒ݁ܰܫܡܶܗ ܕ݁ܡܳܪܰܢ ܝܶܫܽܘܥ ܡܫܺܝܚܳܐ
+        ܘܰܒ݂ܪܽܘܚܶܗ ܕ݁ܰܐܠܳܗܰܢ܂
+      bel_syomukha: І такімі былі некатроыя з вас, але абмыліся, але асьвяціліся, але
+        апраўдаліся імем Госпада нашага Ісуса Хрыста і Духам Бога нашага.
+      nrt: А некоторые из вас именно такими и были, но вы были омыты, освящены и
+        оправданы Духом нашего Бога во Имя Господа Иисуса Христа.
+      romana: Si asa erati unii dintre voi. Dar v-ati spalat, dar v-ati sfintit, dar
+        v-ati indreptat in numele Domnului Iisus Hristos si in Duhul Dumnezeului
+        nostru.
+      francais: Et c'est là ce que vous étiez, quelques-uns de vous. Mais vous avez
+        été lavés, mais vous avez été sanctifiés, mais vous avez été justifiés
+        au nom du Seigneur Jésus Christ, et par l'Esprit de notre Dieu.
+      italian: E tali eravate alcuni di voi; ma siete stati lavati, siete stati
+        santificati, siete stati giustificati nel nome del Signore Gesù Cristo e
+        nello Spirito del nostro Dio!
+      old_georgian: და ესრეთ ოდესმე იყვენით, არამედ განიბანენით, არამედ განიწმიდენით,
+        არამედ განჰმართლდით სახელითა უფლისა იესუჲსითა და სულითა ღმრთისა
+        ჩუენისაჲთა.
+      portuguese: "E tais fostes alguns de vós; mas fostes lavados, mas fostes
+        santificados, mas fostes justificados em nome do\rSenhor Jesus Cristo e
+        no Espírito do nosso Deus."
+      polish: A takimi byli niektórzy z was. Lecz zostaliście obmyci, uświęceni i
+        usprawiedliwieni w imię Pana naszego Jezusa Chrystusa i przez Ducha Boga
+        naszego.
+      new_text: А такие среди вас были! Но вы омыты, вы освящены, вы оправданы именем
+        Господа Иисуса Христа и Духом Бога нашего!
+      serbian: И такви бијасте неки; али се опрасте и посветисте и оправдасте именом
+        Господа Исуса Христа и Духом Бога нашега.
+      bulgarian: И такива бяхте някои от вас; но се умихте, но се осветихте, но се
+        оправдахте в името на Господа нашего Иисуса Христа и чрез Духа на нашия
+        Бог.
+      ukr2: І такими з вас деякі були; але ви обмились, але ви освятились, але ви
+        оправдались іменем Господа Ісуса Христа та Духом нашого Бога.
+      ukr3: А такими з вас деякі були; та ви обмились, та осьвятились, та оправдились
+        імям Господа Ісуса і Духом Бога нашого.
+      czech: A to jste nekteri byli. Dali jste se vsak obmyt, byli jste posveceni,
+        byli jste ospravedlneni ve jmenu Pana Jezise Krista a Duchem naseho
+        Boha.
+      st_text: И такими были некоторые из вас; но омылись, но освятились, но
+        оправдались именем Господа нашего Иисуса Христа и Духом Бога нашего.
+  - id: 1634
+    number: 12
+    bookId: 64
+    text: Все мне позволительно, но не все полезно; все мне позволительно, но ничто
+      не должно обладать мною.
+    chapter: 6
+    chapterId: 1273
+    parallels:
+      - verseId: 14259
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 3
+        short: Еккл:3:1
+      - verseId: 34227
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 37
+        short: Сир:37:31
+      - verseId: 1339
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 10
+        short: 1 Кор:10:23
+    translates:
+      kassian: Всё мне позволено, но не всё на пользу. Всё мне позволено, но ничто да
+        не обладает мною.
+      podstr: Всё мне позволяется, но не всё приносит пользу. Всё мне позволяется, но
+        не я буду сделан подвластен чем-либо.
+      csya: "Вся ми леть суть, но не вся на пользу: вся ми леть суть, но не аз обладан
+        буду от чего."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Вс‰ ми2 лёть сyть, но не вс‰ на по1льзу: вс‰ ми2 лёть сyть, но не ѓзъ
+        њбладaнъ бyду t чегw2."
+      sovr_rbo: ""
+      latin: "Omnia mihi licent, sed non omnia expediunt: omnia mihi licent, sed ego
+        sub nullis redigar potestate."
+      ukr: Усе мені можна, та не все на пожиток. Усе мені можна, але мною ніщо
+        володіти не повинно.
+      nkjv: All things are lawful for me, but all things are not helpful. All things
+        are lawful for me, but I will not be brought under the power of any.
+      desnitsky: Всё мне позволено, но не всё полезно. Да, всё мне позволено, но ничто
+        не должно управлять мной.
+      tex_rec: Πάντα μοι ἔξεστιν, ἀλλ᾽ οὐ πάντα συμφέρει. πάντα μοι ἔξεστιν, ἀλλ᾽ οὐκ
+        ἐγὼ ἐξουσιασθήσομαι ὑπό τινος.
+      deutsch: Ich habe alles Macht; es frommt aber nicht alles. Ich habe alles Macht;
+        es soll mich aber nichts gefangen nehmen.
+      spanish: «Todo me es lícito», pero no todo conviene. «Todo me es lícito», pero
+        yo no me dejaré dominar de nada.
+      peshitta: ܟ݁ܽܠ ܫܰܠܺܝܛ ܠܺܝ ܐܶܠܳܐ ܠܳܐ ܟ݁ܽܠ ܦ݁ܰܩܳܚ ܠܺܝ ܟ݁ܽܠ ܫܰܠܺܝܛ ܠܺܝ ܐܶܠܳܐ ܥܠܰܝ
+        ܐ݈ܢܳܫ ܠܳܐ ܢܶܫܬ݁ܰܠܰܛ܂
+      bel_syomukha: Усё мне можна, ды ня ўсё на карысьць; усё мне можна, але нішто не
+        павінна валодаць мною.
+      nrt: "Вы говорите: «Мне все позволено». Да, но не все мне полезно. «Мне все
+        позволено», но ничто не должно иметь власти надо мной."
+      romana: Toate imi sunt ingaduite, dar nu toate imi sunt de folos. Toate imi sunt
+        ingaduite, dar nu ma voi lasa biruit de ceva.
+      francais: Tout m'est permis, mais tout n'est pas utile; tout m'est permis, mais
+        je ne me laisserai asservir par quoi que ce soit.
+      italian: '"Tutto mi è lecito!". Ma non tutto giova. "Tutto mi è lecito!". Ma io
+        non mi lascerò dominare da nulla.'
+      old_georgian: ყოველივე ჯერ-არს ჩემდა, არამედ არა ყოველი უმჯობეს არს; ყოველივე
+        ჯერ-არს ჩემდა, არამედ მე არავისსა ჴელმწიფებასა დავემორჩილო.
+      portuguese: "Todas as coisas me são lícitas, mas nem todas as coisas convêm.
+        Todas as coisas me são lícitas; mas eu não\rme deixarei dominar por
+        nenhuma delas."
+      polish: "Wszystko mi wolno, ale nie wszystko przynosi korzyść. Wszystko mi
+        wolno,\rale ja niczemu nie oddam się w niewolę."
+      new_text: "Вы говорите: «Мне все позволено!» Но не все мне на пользу! «Мне все
+        позволено!» Но ничто не должно завладеть мной!"
+      serbian: Све ми је дозвољено, али све не користи; све ми је дозвољено, али не
+        дам да ишта овлада мноме.
+      bulgarian: Всичко ми е позволено, ала не всичко е полезно; всичко ми е
+        позволено, но няма да бъда аз обладан от нещо.
+      ukr2: «Все мені можна», та не все корисне. «Все мені можна», та я не дам нічому
+        заволодіти надо мною.
+      ukr3: Все менї можна, та не все користне; все менї можна, та нїчому не дам
+        орудувати мною.
+      czech: ‚Vsechno je mi dovoleno‘ – ano, ale ne vsechno prospiva. ‚Vsechno je mi
+        dovoleno‘ – ano, ale nicim se nedam zotrocit.
+      st_text: Все мне позволительно, но не все полезно; все мне позволительно, но
+        ничто не должно обладать мною.
+  - id: 1635
+    number: 13
+    bookId: 64
+    text: Пища для чрева, и чрево для пищи; но Бог уничтожит и то и другое. Тело же
+      не для блуда, но для Господа, и Господь для тела.
+    chapter: 6
+    chapterId: 1273
+    parallels:
+      - verseId: 25521
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 22
+        short: Мф:22:30
+      - verseId: 33120
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 6
+        short: Рим:6:13
+      - verseId: 33126
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 6
+        short: Рим:6:19
+    translates:
+      kassian: Пища для чрева и чрево для пищи. А Бог и то и другое упразднит. Тело же
+        не для блуда, но для Господа, и Господь для тела.
+      podstr: Пища утробе, и утроба еде; же Бог и эту и это упразднит. Же тело не
+        блуду но Господу, и Господь телу;
+      csya: "Брашна чреву, и чрево брашном: Бог же и сие и сия упразднит. Тело же не
+        блужению, но Господеви, и Господь телу."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Бр†шна чре1ву, и3 чре1во брaшнwмъ: бг7ъ же и3 сіе2 и3 сі‰
+        ўпраздни1тъ. Тёло же не блуже1нію, но гDеви, и3 гDь тёлу."
+      sovr_rbo: ""
+      latin: "Esca ventri, et venter escis: Deus autem et hunc et has destruet: corpus
+        autem non fornicationi, sed Domino: et Dominus corpori."
+      ukr: Їжа для черева, і черево для їжі, але Бог одне й друге понищить. А тіло не
+        для розпусти, але для Господа, і Господь для тіла.
+      nkjv: Foods for the stomach and the stomach for foods, but God will destroy both
+        it and them. Now the body is not for sexual immorality but for the Lord,
+        and the Lord for the body.
+      desnitsky: Пища нужна для желудка, и желудок нужен для пищи, но Бог и то, и
+        другое уничтожит. И тело нужно не для разврата, а для Господа, как и
+        Господь – для тела.
+      tex_rec: τὰ βρώματα τῇ κοιλίᾳ, καὶ ἡ κοιλία τοῖς βρώμασιν· ὁ δὲ θεὸς καὶ ταύτην
+        καὶ ταῦτα καταργήσει. τὸ δὲ σῶμα οὐ τῇ πορνείᾳ ἀλλὰ τῷ κυρίῳ, καὶ ὁ
+        κύριος τῷ σώματι·
+      deutsch: Die Speise dem Bauche und der Bauch der Speise; aber Gott wird diesen
+        und jene zunichte machen. Der Leib aber nicht der Hurerei, sondern dem
+        Herrn, und der Herr dem Leibe.
+      spanish: «Los manjares para el vientre, y el vientre para los manjares»; pero
+        Dios destruirá el uno y los otros. El cuerpo no es para la fornicación,
+        sino para el Señor, y el Señor, para el cuerpo;
+      peshitta: ܡܶܐܟ݂ܽܘܠܬ݁ܳܐ ܕ݁ܟ݂ܰܪܣܳܐ ܘܟ݂ܰܪܣܳܐ ܕ݁ܡܶܐܟ݂ܽܘܠܬ݁ܳܐ ܐܰܠܳܗܳܐ ܕ݁ܶܝܢ
+        ܠܬ݂ܰܪܬ݁ܰܝܗܶܝܢ ܡܒ݂ܰܛܶܠ ܦ݁ܰܓ݂ܪܳܐ ܕ݁ܶܝܢ ܠܳܐ ܠܙܳܢܝܽܘܬ݂ܳܐ ܐܶܠܳܐ ܠܡܳܪܰܢ ܘܡܳܪܰܢ
+        ܠܦ݂ܰܓ݂ܪܳܐ܂
+      bel_syomukha: Ежа для чэрава, а чэрава для ежы; але Бог зьнішчыць і тое і
+        другое. А цела не для распусты, а для Госпада, і Гасподзь для цела.
+      nrt: "Вы также говорите: «Пища – для желудка, и желудок – для пищи». Да, это
+        так, но Бог уничтожит и то и другое. Но тело предназначено не для
+        разврата, а для Господа, а Господь – для тела."
+      romana: Bucatele sunt pentru pantece si pantecele pentru bucate si Dumnezeu va
+        nimici si pe unul si pe celelalte. Trupul insa nu e pentru desfranare,
+        ci pentru Domnul, si Domnul este pentru trup.
+      francais: Les aliments sont pour le ventre, et le ventre pour les aliments; et
+        Dieu détruira l'un comme les autres. Mais le corps n'est pas pour
+        l'impudicité. Il est pour le Seigneur, et le Seigneur pour le corps.
+      italian: "\"I cibi sono per il ventre e il ventre per i cibi!\". Ma Dio
+        distruggerà questo e quelli; il corpo poi non è per l'impudicizia, ma
+        per il Signore, e il Signore è per il corpo."
+      old_georgian: საზრდელი მუცლისათჳს და მუცელი საზრდელისათჳს. ხოლო ღმერთმან იგიცა
+        და ესეცა განაქარვოს. ხოლო ჴორცნი ესე არა სიძვისათჳს, არამედ უფლისათჳს,
+        და უფალი ჴორცთათჳს.
+      portuguese: "Os alimentos são para o estômago e o estômago para os alimentos;
+        Deus, porém aniquilará, tanto um como os\routros. Mas o corpo não é para
+        a prostituição, mas para o Senhor, e o Senhor para o corpo."
+      polish: "Pokarm dla żołądka, a żołądek dla pokarmu. Bóg zaś unicestwi jedno i
+        drugie.\rAle ciało nie jest dla rozpusty, lecz dla Pana, a Pan dla
+        ciała."
+      new_text: «Пища для брюха и брюхо для пищи!» Да, Бог уничтожит и то, и другое.
+        Но тело не для разврата, а для Господа. И Господь для тела.
+      serbian: Јела су за стомак и стомак за јела, али ће Бог и једно и друго укинути.
+        А тијело није за блуд него за Господа, и Господ за тијело.
+      bulgarian: Храната е за корема, и коремът за храната; но Бог ще погуби и едното
+        и другото. Ала тялото не е за блудство, а за Господа, а Господ - за
+        тялото.
+      ukr2: «їжа для живота, і живіт для їжі!» Бог же одне і друге знищить. Тіло ж не
+        для розпусти, але для Господа, і Господь для тіла.
+      ukr3: Їжа про черево, й черево про їжу; Бог же те й те зруйнує. Тїло ж не про
+        перелюб, а про Господа, а Господь про тїло.
+      czech: Jidlo je pro zaludek a zaludek pro jidlo; Buh vsak jednou ucini konec
+        obojimu. Telo vsak neni pro smilstvo, nybrz pro Pana, a Pan pro telo.
+      st_text: Пища для чрева, и чрево для пищи; но Бог уничтожит и то и другое. Тело
+        же не для блуда, но для Господа, и Господь для тела.
+  - id: 1636
+    number: 14
+    bookId: 64
+    text: Бог воскресил Господа, воскресит и нас силою Своею.
+    chapter: 6
+    chapterId: 1273
+    parallels:
+      - verseId: 33112
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 6
+        short: Рим:6:5
+      - verseId: 5160
+        bookId: 65
+        bookCode: 2oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 4
+        short: 2 Кор:4:14
+      - verseId: 1148
+        bookId: 70
+        bookCode: 1oe-poslanie-k-fessalonikijcam-ap-pavla
+        chapter: 4
+        short: 1 Фес:4:14
+    translates:
+      kassian: А Бог и Господа воздвиг и нас воздвигнет силой Своей.
+      podstr: же Бог и Господа воскресил и нас воскресит через силу Его.
+      csya: Бог же и Господа воздвиже, и нас воздвигнет силою своею.
+      averincev: ""
+      ungerov: ""
+      csya_old: Бг7ъ же и3 гDа воздви1же, и3 нaсъ воздви1гнетъ си1лою свое1ю.
+      sovr_rbo: ""
+      latin: "Deus vero et Dominum suscitavit: et nos suscitabit per virtutem suam."
+      ukr: Бог же й Господа воскресив, воскресить Він і нас Своєю силою!
+      nkjv: And God both raised up the Lord and will also raise us up by His power.
+      desnitsky: А Бог и Господа воскресил, и нас воскресит Своей силой.
+      tex_rec: ὁ δὲ θεὸς καὶ τὸν κύριον ἤγειρεν καὶ ἡμᾶς ἐξεγερεῖ διὰ τῆς δυνάμεως
+        αὐτοῦ.
+      deutsch: Gott aber hat den Herrn auferweckt und wird uns auch auferwecken durch
+        seine Kraft.
+      spanish: y Dios, que resucito al Señor, nos resucitará también a nosotros por su
+        poder.
+      peshitta: ܐܰܠܳܗܳܐ ܕ݁ܶܝܢ ܘܰܠܡܳܪܰܢ ܐܰܩܺܝܡ ܘܠܰܢ ܡܩܺܝܡ ܒ݁ܚܰܝܠܶܗ܂
+      bel_syomukha: Бог уваскрэсіў Госпада, уваскрэсіць і нас сілаю Сваёю.
+      nrt: Бог Своей силой воскресил Господа, и нас тоже воскресит.
+      romana: Iar Dumnezeu, Care a inviat pe Domnul, ne va invia si pe noi prin
+        puterea Sa.
+      francais: Et Dieu, qui a ressuscité le Seigneur, nous ressuscitera aussi par sa
+        puissance.
+      italian: Dio poi, che ha risuscitato il Signore, risusciterà anche noi con la
+        sua potenza.
+      old_georgian: ხოლო ღმერთმან უფალიცა აღადგინა და ჩუენცა აღმადგინნეს ძალითა თჳსითა.
+      portuguese: Ora, Deus não somente ressuscitou ao Senhor, mas também nos
+        ressuscitará a nós pelo seu poder.
+      polish: Bóg zaś i Pana wskrzesił i nas również swą mocą wskrzesi z martwych.
+      new_text: Бог воскресил Господа и нас воскресит Своей силой.
+      serbian: А Бог и Господа васкрсе, и нас ће васкрснути силом својом.
+      bulgarian: Бог и Господа възкреси, и нас ще възкреси със силата Си.
+      ukr2: Бог же і Господа був воскресив - та й нас воскресить своєю силою.
+      ukr3: Бог же Господа підняв, то й нас підійме силою своєю.
+      czech: Buh, ktery vzkrisil Pana, vzkrisi svou moci i nas.
+      st_text: Бог воскресил Господа, воскресит и нас силою Своею.
+  - id: 1637
+    number: 15
+    bookId: 64
+    text: Разве не знаете, что тела ваши суть члены Христовы? Итак отниму ли члены у
+      Христа, чтобы сделать <i>их</i> членами блудницы? Да не будет!
+    chapter: 6
+    chapterId: 1273
+    parallels:
+      - verseId: 13238
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 15
+        short: Деян:15:20
+      - verseId: 14143
+        bookId: 67
+        bookCode: k-efesanam-poslanie-ap-pavla
+        chapter: 5
+        short: Еф:5:30
+      - verseId: 14668
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 12
+        short: Евр:12:16
+      - verseId: 14685
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 13
+        short: Евр:13:4
+    translates:
+      kassian: Разве вы не знаете, что тела ваши - члены Христовы. Итак, взяв члены у
+        Христа, сделаю ли их членами блудницы? Отнюдь нет.
+      podstr: "[Разве] не знаете что тела ваши члены Христа есть? Взявший итак члены
+        Христа сделаю развратницы члены? Не пусть осуществится."
+      csya: Не весте ли, яко телеса ваша удове Христовы суть? Вземь ли убо уды
+        Христовы, сотворю уды блудничи? Да не будет.
+      averincev: ""
+      ungerov: ""
+      csya_old: Не вёсте ли, ћкw тэлесA в†ша ќдове хrтHвы сyть; Взе1мь ли ў2бо ќды
+        хrтHвы, сотворю2 ќды блудни6чи; Да не бyдетъ.
+      sovr_rbo: ""
+      latin: Nescitis quoniam corpora vestra membra sunt Christi? Tollens ergo membra
+        Christi, faciam membra meretricis? Absit.
+      ukr: Хіба ви не знаєте, що ваші тіла то члени Христові? Отож, узявши члени
+        Христові, зроблю їх членами розпусниці? Зовсім ні!
+      nkjv: Do you not know that your bodies are members of Christ? Shall I then take
+        the members of Christ and make them members of a harlot? Certainly not!
+      desnitsky: Разве не знаете, что ваши тела – части тела Христова? Отняв у Христа
+        часть тела, можно ли присоединить ее к телу падшей женщины? Ни в коем
+        случае!
+      tex_rec: οὐκ οἴδατε ὅτι τὰ σώματα ὑμῶν μέλη Χριστοῦ ἐστιν; ἄρας οὖν τὰ μέλη τοῦ
+        Χριστοῦ ποιήσω πόρνης μέλη; μὴ γένοιτο.
+      deutsch: Wisset ihr nicht, daß eure Leiber Christi Glieder sind? Sollte ich nun
+        die Glieder Christi nehmen und Hurenglieder daraus machen? Das sei
+        ferne!
+      spanish: ¿No sabéis que vuestros cuerpos son miembros de Cristo? ¿Y voy a tomar
+        yo los miembros de Cristo para hacerlos miembros de una meretriz? ¡No lo
+        quiera Dios!
+      peshitta: ܠܳܐ ܝܳܕ݂ܥܺܝܢ ܐܢ݈ܬ݁ܽܘܢ ܕ݁ܦ݂ܰܓ݂ܪܰܝܟ݁ܽܘܢ ܗܰܕ݁ܳܡܶܐ ܐܶܢܽܘܢ ܕ݁ܰܡܫܺܝܚܳܐ
+        ܢܶܣܰܒ݂ ܗܰܕ݁ܳܡܳܐ ܕ݁ܰܡܫܺܝܚܳܐ ܢܶܥܒ݁ܕ݂ܺܝܘܗ݈ܝ ܗܰܕ݁ܳܡܳܐ ܕ݁ܙܳܢܺܝܬ݂ܳܐ ܚܳܣ܂
+      bel_syomukha: Хіба ня ведаеце, што целы вашыя - чэлесы Хрыстовыя? Дык вось, ці
+        адны чэлесы ў Хрыста, каб зрабіць іх чэлесамі распусьніцы? Хай ня будзе!
+      nrt: Разве вы не знаете, что ваши тела являются частью тела Христа? Так как же я
+        могу взять то, что принадлежит Христу, и отдать блуднице? Не бывать
+        тому!
+      romana: Au nu stiti ca trupurile voastre sunt madularele lui Hristos? Luand deci
+        madularele lui Hristos le voi face madularele unei desfranate?
+        Nicidecum!
+      francais: Ne savez-vous pas que vos corps sont des membres de Christ?
+        Prendrai-je donc les membres de Christ, pour en faire les membres d'une
+        prostituée?
+      italian: Non sapete che i vostri corpi sono membra di Cristo? Prenderò dunque le
+        membra di Cristo e ne farò membra di una prostituta? Non sia mai!
+      old_georgian: არა უწყითა, რამეთუ ჴორცნი ეგე თქუეენნი ასონი ქრისტესნი არიან?
+        აღ-უკუე-ვიხუნეა ასონი იგი ქრისტესნი და ვყვნე ასო მეძვის? ნუ იყოფინ!
+      portuguese: "Não sabeis vós que os vossos corpos são membros de Cristo? Tomarei
+        pois os membros de Cristo, e os farei\rmembros de uma meretriz? De modo
+        nenhum."
+      polish: Czyż nie wiecie, że ciała wasze są członkami Chrystusa? Czyż wziąwszy
+        członki Chrystusa będę je czynił członkami nierządnicy? Przenigdy!
+      new_text: Разве вы не знаете, что ваши тела — части тела Христа? И ты часть тела
+        Христа хочешь превратить в тело проститутки? Боже упаси!
+      serbian: Не знате ли да су тјелеса ваша удови Христови? Хоћу ли, дакле, узети
+        удове Христове и од њих начинити удове блуднице? Никако!
+      bulgarian: Нима не знаете, че телата ви са Христови членове? И тъй, да взема ли
+        членовете на Христа и да ги направя членове на блудница? Съвсем не!
+      ukr2: Хіба не знаєте, що тіла ваші - члени Христові? Узявши, отже, члени
+        Христові, - зроблю їх членами блудниці? Хай так не буде!
+      ukr3: Хиба не знаєте, що тїла ваші члени Христові? Узявши ж члени Христові,
+        невже зроблю (їх) членами перелюбницї? Нехай не буде!
+      czech: Nevite, ze vase tela jsou udy Kristovymi? Mam tedy z udu Kristovych
+        ucinit udy nevestky? Rozhodne ne!
+      st_text: Разве не знаете, что тела ваши суть члены Христовы? Итак отниму ли
+        члены у Христа, чтобы сделать <i>их</i> членами блудницы? Да не будет!
+  - id: 1638
+    number: 16
+    bookId: 64
+    text: "Или не знаете, что совокупляющийся с блудницею становится одно тело <i>с
+      нею</i>? ибо сказано: два будут одна плоть."
+    chapter: 6
+    chapterId: 1273
+    parallels:
+      - verseId: 9974
+        bookId: 1
+        bookCode: bytie
+        chapter: 2
+        short: Быт:2:24
+      - verseId: 25363
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 19
+        short: Мф:19:5
+      - verseId: 26216
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 10
+        short: Мк:10:7
+      - verseId: 14144
+        bookId: 67
+        bookCode: k-efesanam-poslanie-ap-pavla
+        chapter: 5
+        short: Еф:5:31
+    translates:
+      kassian: "Или вы не знаете, что прилепляющийся к блуднице - с нею одно тело? Ибо
+        сказано: будут двое плотью единою."
+      podstr: Или не знаете что склеивающийся [с] блудницею одно тело есть? Будут
+        ведь, говорит, два в плоть одну.
+      csya: Или не весте, яко прилепляяйся сквернодейце едино тело есть (с
+        блудодейцею)? будета бо, рече, оба в плоть едину.
+      averincev: ""
+      ungerov: ""
+      csya_old: И#ли2 не вёсте, ћкw прилэплszйсz сквернодёйцэ є3ди1но тёло є4сть (съ
+        блудодёйцею); бyдета бо, рече2, џба въ пло1ть є3ди1ну.
+      sovr_rbo: ""
+      latin: An nescitis quoniam qui adhaeret meretrici, unum corpus efficitur? Erunt
+        enim (inquit) duo in carne una.
+      ukr: "Хіба ви не знаєте, що той, хто злучується з розпусницею, стає одним тілом
+        із нею? Бо каже: Обидва ви будете тілом одним."
+      nkjv: Or do you not know that he who is joined to a harlot is one body with her?
+        For "the two," He says, "shall become one flesh."
+      desnitsky: "Разве не знаете: кто соединился с падшей женщиной, стал с ней одним
+        телом, как сказано: «двое станут одной плотью»."
+      tex_rec: "[ἢ] οὐκ οἴδατε ὅτι ὁ κολλώμενος τῇ πόρνῃ ἓν σῶμά ἐστιν; ῎Εσονται γάρ,
+        φησίν, οἱ δύο εἰς σάρκα μίαν."
+      deutsch: Oder wisset ihr nicht, daß, wer an der Hure hangt, der ist ein Leib mit
+        ihr? Denn "es werden", spricht er, "die zwei ein Fleisch sein."
+      spanish: ¿No sabéis que quien se allega a una meretriz se hace un cuerpo con
+        ella? Porque serán dos, dice, en una carne.
+      peshitta: ܐܰܘ ܠܳܐ ܝܳܕ݂ܥܺܝܢ ܐܢ݈ܬ݁ܽܘܢ ܕ݁ܡܰܢ ܕ݁ܢܳܩܶܦ݂ ܠܙܳܢܺܝܬ݂ܳܐ ܚܰܕ݂ ܗ݈ܽܘ ܦ݁ܓ݂ܰܪ
+        ܐܰܡܺܝܪ ܓ݁ܶܝܪ ܕ݁ܢܶܗܘܽܘܢ ܬ݁ܪܰܝܗܽܘܢ ܚܰܕ݂ ܦ݁ܓ݂ܰܪ܂
+      bel_syomukha: 'Альбо ня ведаеце, што той, хто паруецца з распусьніцаю, робіцца
+        адным целам зь ёю; бо сказана: "двое будуць адна плоць".'
+      nrt: "Неужели вы не знаете, что тот, кто соединяется с блудницей, становится с
+        ней одним телом? Ведь написано: «Двое станут одной плотью»."
+      romana: Sau nu stiti ca cel ce se alipeste de desfranate este un singur trup cu
+        ea? "Caci vor fi - zice Scriptura - cei doi un singur trup".
+      francais: Loin de là! Ne savez-vous pas que celui qui s'attache à la prostituée
+        est un seul corps avec elle? Car, est-il dit, les deux deviendront une
+        seule chair.
+      italian: O non sapete voi che chi si unisce alla prostituta forma con essa un
+        corpo solo? I due saranno, è detto, un corpo solo.
+      old_georgian: "არა უწყითა, რამეთუ რომელი შეეყოს მეძავსა, ერთ ჴორც არიან, რამეთუ
+        იტყჳს: იყვნენ ორნივე ერთ ჴორც."
+      portuguese: "Ou não sabeis que o que se une à meretriz, faz-se um corpo com ela?
+        Porque, como foi dito, os dois serão uma\rsó carne."
+      polish: "Albo czyż nie wiecie, że ten, kto łączy się z nierządnicą, stanowi z
+        nią jedno\rciało? Będą bowiem - jak jest powiedziane - dwoje jednym
+        ciałem."
+      new_text: А разве вам неизвестно, что тот, кто соединился с проституткой, стал
+        одним с ней телом? Ведь «двое станут одной плотью».
+      serbian: "Или не знате, да ко се са блудницом свеже, једно је тијело с њом? Јер
+        је речено: Биће двоје једно тијело."
+      bulgarian: 'Или не знаете, че, който се съединява с блудница, става едно тяло с
+        нея? Защото казано е: "ще бъдат двамата една плът".'
+      ukr2: Чи не знаєте, що той, хто пристає до блудниці, є з нею одним тілом? Бо
+        «будуть, - каже, - двоє одним тілом.»
+      ukr3: Хиба не знаєте, що, хто пригорнеть ся до перелюбницї, той одно (з нею)
+        тїло? Будуть бо, рече, вдвох одно тїло.
+      czech: Coz nevite, ze kdo se odda nevestce, je s ni jedno telo? Je prece receno
+        ‚budou ti dva jedno telo‘.
+      st_text: "Или не знаете, что совокупляющийся с блудницею становится одно тело
+        <i>с нею</i>? ибо сказано: два будут одна плоть."
+  - id: 1639
+    number: 17
+    bookId: 64
+    text: А соединяющийся с Господом есть один дух с Господом.
+    chapter: 6
+    chapterId: 1273
+    parallels:
+      - verseId: 28642
+        bookId: 25
+        bookCode: pesn-pesnej-solomona
+        chapter: 6
+        short: Песн:6:9
+    translates:
+      kassian: А прилепляющийся к Господу - один с Ним дух.
+      podstr: Же склеивающийся [с] Господом один дух есть.
+      csya: Прилепляяйся же Господеви един дух есть (с Господем).
+      averincev: ""
+      ungerov: ""
+      csya_old: Прилэплszйсz же гDеви є3ди1нъ дyхъ є4сть (съ гDемъ).
+      sovr_rbo: ""
+      latin: Qui autem adhaeret Domino, unus spiritus est.
+      ukr: А хто з Господом злучується, стає одним духом із Ним.
+      nkjv: But he who is joined to the Lord is one spirit with Him.
+      desnitsky: А тот, кто соединился с Господом, един с Ним в духе.
+      tex_rec: ὁ δὲ κολλώμενος τῷ κυρίῳ ἓν πνεῦμά ἐστιν.
+      deutsch: Wer aber dem Herrn anhangt, der ist ein Geist mit ihm.
+      spanish: Pero el que se allega al Señor se hace un espíritu con El.
+      peshitta: ܡܰܢ ܕ݁ܢܳܩܶܦ݂ ܕ݁ܶܝܢ ܠܡܳܪܰܢ ܗܳܘܶܐ ܥܰܡܶܗ ܚܕ݂ܳܐ ܪܽܘܚ܂
+      bel_syomukha: А хто яднаецца з Госпадам, ёсьць адзін дух (з Госпадам).
+      nrt: Тот же, кто соединяется с Господом, является одним духом с Ним.
+      romana: Iar cel ce se alipeste de Domnul este un duh cu El.
+      francais: Mais celui qui s'attache au Seigneur est avec lui un seul esprit.
+      italian: Ma chi si unisce al Signore forma con lui un solo spirito.
+      old_georgian: ხოლო რომელი შეეყოს უფალსა, ერთ სულ არს.
+      portuguese: Mas, o que se une ao Senhor é um só espírito com ele.
+      polish: Ten zaś, kto się łączy z Panem, jest z Nim jednym duchem.
+      new_text: А тот, кто соединился с Господом, один дух с Ним.
+      serbian: А ко се сједини са Господом, један је дух с Њиме.
+      bulgarian: А който се съединява с Господа, един дух е с Него.
+      ukr2: Хто ж пристає до Господа, є одним духом.
+      ukr3: Хто ж пригорнеть ся до Господа, той один (з Ним) дух.
+      czech: Kdo se odda Panu, je s nim jeden duch.
+      st_text: А соединяющийся с Господом есть один дух с Господом.
+  - id: 1640
+    number: 18
+    bookId: 64
+    text: Бегайте блуда; всякий грех, какой делает человек, есть вне тела, а блудник
+      грешит против собственного тела.
+    chapter: 6
+    chapterId: 1273
+    parallels:
+      - verseId: 1138
+        bookId: 70
+        bookCode: 1oe-poslanie-k-fessalonikijcam-ap-pavla
+        chapter: 4
+        short: 1 Фес:4:4
+    translates:
+      kassian: "Бегайте блуда. Всякий грех, какой ни сотворит человек, - вне тела: а
+        совершающий блуд, грешит против собственного тела."
+      podstr: Избегайте разврата; всякий грех который если сделает человек снаружи
+        тела есть, же развратничающий на собственное тело грешит.
+      csya: "Бегайте блудодеяния: всяк (бо) грех, егоже аще сотворит человек, кроме
+        тела есть: а блудяй во свое тело согрешает."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Бёгайте блудодэsніz: всsкъ (бо) грёхъ, є3го1же ѓще сотвори1тъ
+        человёкъ, кромЁ тёла є4сть: ґ блудsй во свое2 тёло согрэшaетъ."
+      sovr_rbo: ""
+      latin: "Fugite fornicationem. Omne peccatum, quodcumque fecerit homo, extra
+        corpus est: qui autem fornicatur, in corpus suum peccat."
+      ukr: Утікайте від розпусти. Усякий бо гріх, що його чинить людина, є поза тілом.
+        А хто чинить розпусту, той грішить проти власного тіла.
+      nkjv: Flee sexual immorality. Every sin that a man does is outside the body, but
+        he who commits sexual immorality sins against his own body.
+      desnitsky: Избегайте разврата! Всякий прочий грех, который совершает человек,
+        происходит вне его тела, а развратник грешит против собственного тела.
+      tex_rec: φεύγετε τὴν πορνείαν· πᾶν ἁμάρτημα ὃ ἐὰν ποιήσῃ ἄνθρωπος ἐκτὸς τοῦ
+        σώματός ἐστιν, ὁ δὲ πορνεύων εἰς τὸ ἴδιον σῶμα ἁμαρτάνει.
+      deutsch: Fliehet der Hurerei! Alle Sünden, die der Mensch tut, sind außer seinem
+        Leibe; wer aber hurt, der sündigt an seinem eigenen Leibe.
+      spanish: Huid la fornicación. Cualquier pecado que cometa un hombre, fuera de su
+        cuerpo queda; pero el que fornica, peca contra su propio cuerpo.
+      peshitta: ܥܪܽܘܩܘ ܡܶܢ ܙܳܢܝܽܘܬ݂ܳܐ ܟ݁ܽܠ ܚܛܺܝܬ݂ܳܐ ܕ݁ܢܶܥܒ݁ܶܕ݂ ܒ݁ܰܪܢܳܫܳܐ ܠܒ݂ܰܪ ܡܶܢ
+        ܦ݁ܰܓ݂ܪܶܗ ܗ݈ܺܝ ܡܰܢ ܕ݁ܰܡܙܰܢܶܐ ܕ݁ܶܝܢ ܒ݁ܦ݂ܰܓ݂ܪܶܗ ܗ݈ܽܘ ܚܳܛܶܐ܂
+      bel_syomukha: Унікайце распусты; усякі грэх, які ўчыняе чалавек, ёсьць па-за
+        целам, а распусьнік грэшыць супраць свайго цела.
+      nrt: Бегите от разврата. Все другие грехи человек совершает не по отношению к
+        своему собственному телу, а половое распутство – это грех против своего
+        же тела.
+      romana: Fugiti de desfranare! Orice pacat pe care-l va savarsi omul este in
+        afara de trup. Cine se deda insa desfranarii pacatuieste in insusi
+        trupul sau.
+      francais: Fuyez l'impudicité. Quelque autre péché qu'un homme commette, ce péché
+        est hors du corps; mais celui qui se livre à l'impudicité pèche contre
+        son propre corps.
+      italian: Fuggi — te la fornicazione! Qualsiasi peccato l'uomo commetta, è fuori
+        del suo corpo; ma chi si dà alla fornicazione, pecca contro il proprio
+        corpo.
+      old_georgian: ევლტოდეთ სიძვასა, ყოველი ცოდვაჲ, რომელი ქმნეს კაცმან, გარეშე
+        ჴორცთა არს; ხოლო რომელი ისიძვიდეს, თჳსთა მიმართ ჴორცთა ცოდავს.
+      portuguese: "Fugi da prostituição. Qualquer outro pecado que o homem comete, é
+        fora do corpo; mas o que se prostitui peca\rcontra o seu próprio corpo."
+      polish: Strzeżcie się rozpusty; wszelki grzech popełniony przez człowieka jest
+        na zewnątrz ciała; kto zaś grzeszy rozpustą, przeciwko własnemu ciału
+        grzeszy.
+      new_text: Бегите от разврата! Какой бы грех ни совершил человек, грех не
+        касается тела. Но развратник грешит против собственного тела!
+      serbian: Бјежите од блуда. Сваки гријех који човјек учини ван тијела је, а који
+        блудничи своме тијелу гријеши.
+      bulgarian: Избягвайте блудството; всеки грях, що прави човек, е извън тялото, а
+        блудникът против собственото си тяло греши.
+      ukr2: Утікайте від розпусти! Усякий гріх, що його чинить людина, єе поза її
+        тілом; а хто чинить розпусту, грішить супроти власного тіла.
+      ukr3: Утїкайте від перелюбу. Усякий гріх, що робить чоловік, осторонь тїла; хто
+        ж робить перелюб, проти свого тїла грішить.
+      czech: Varujte se smilstva! Zadny jiny hrich, ktereho by se clovek dopustil,
+        netyka se jeho tela; kdo se vsak dopousti smilstva, hresi proti
+        vlastnimu telu.
+      st_text: Бегайте блуда; всякий грех, какой делает человек, есть вне тела, а
+        блудник грешит против собственного тела.
+  - id: 1641
+    number: 19
+    bookId: 64
+    text: Не знаете ли, что тела ваши суть храм живущего в вас Святаго Духа,
+      Которого имеете вы от Бога, и вы не свои?
+    chapter: 6
+    chapterId: 1273
+    parallels:
+      - verseId: 3618
+        bookId: 57
+        bookCode: 1oe-poslanie-ap-petra
+        chapter: 2
+        short: 1 Пет:2:5
+      - verseId: 1581
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 3
+        short: 1 Кор:3:16
+      - verseId: 5201
+        bookId: 65
+        bookCode: 2oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 6
+        short: 2 Кор:6:16
+    translates:
+      kassian: Или вы не знаете, что тело ваше есть храм Святого Духа, Который в вас,
+        Которого вы имеете от Бога, и что вы себе не принадлежите?
+      podstr: Или не знаете что тело ваше храм Которого в вас Святого Духа есть,
+        Которого имеете от Бога, и не есть вы свои?
+      csya: Или не весте, яко телеса ваша храм живущаго в вас святаго духа суть, егоже
+        имате от Бога, и несте свои?
+      averincev: ""
+      ungerov: ""
+      csya_old: И#ли2 не вёсте, ћкw тэлесA в†ша хрaмъ живyщагw въ вaсъ с™aгw д¦а сyть,
+        є3го1же и4мате t бг7а, и3 нёсте свои2;
+      sovr_rbo: ""
+      latin: An nescitis quoniam membra vestra, templum sunt Spiritus Sancti, qui in
+        vobis est, quem habetis a Deo, et non estis vestri?
+      ukr: Хіба ви не знаєте, що ваше тіло то храм Духа Святого, що живе Він у вас,
+        якого від Бога ви маєте, і ви не свої?
+      nkjv: Or do you not know that your body is the temple of the Holy Spirit who is
+        in you, whom you have from God, and you are not your own?
+      desnitsky: Разве не знаете, что ваши тела – храм Святого Духа, Который обитает в
+        вас по воле Божьей? Вы уже не принадлежите себе,
+      tex_rec: ἢ οὐκ οἴδατε ὅτι τὸ σῶμα ὑμῶν ναὸς τοῦ ἐν ὑμῖν ἁγίου πνεύματός ἐστιν,
+        οὗ ἔχετε ἀπὸ θεοῦ, καὶ οὐκ ἐστὲ ἑαυτῶν;
+      deutsch: Oder wisset ihr nicht, daß euer Leib ein Tempel des heiligen Geistes
+        ist, welchen ihr habt von Gott, und seid nicht euer selbst.
+      spanish: ¿O no sabéis que vuestro cuerpo es templo del Espíritu Santo, que está
+        en vosotros y habéis recibido de Dios, y que, por tanto, no os
+        pertenecéis?
+      peshitta: ܐܰܘ ܠܳܐ ܝܳܕ݂ܥܺܝܢ ܐܢ݈ܬ݁ܽܘܢ ܕ݁ܦ݂ܰܓ݂ܪܟ݂ܽܘܢ ܗܰܝܟ݁ܠܳܐ ܗܽܘ ܕ݁ܪܽܘܚܳܐ
+        ܕ݁ܩܽܘܕ݂ܫܳܐ ܕ݁ܥܳܡܪܳܐ ܒ݁ܟ݂ܽܘܢ ܗܳܝ ܕ݁ܩܰܒ݁ܶܠܬ݁ܽܘܢ ܡܶܢ ܐܰܠܳܗܳܐ ܘܠܳܐ ܗܘܰܝܬ݁ܽܘܢ
+        ܕ݁ܢܰܦ݂ܫܟ݂ܽܘܢ܂
+      bel_syomukha: Ці ня ведаеце, што целы вашыя - храм Сьвятога Духа, Які ў вас
+        жыве, Якога маеце вы ад Бога, і вы не належыце сабе?
+      nrt: Разве вы не знаете, что ваше тело является храмом Святого Духа, Который
+        живет в вас и Которого вы получили от Бога? Вы уже не принадлежите самим
+        себе,
+      romana: Sau nu stiti ca trupul vostru este templu al Duhului Sfant care este in
+        voi, pe care-L aveti de la Dumnezeu si ca voi nu sunteti ai vostri?
+      francais: Ne savez-vous pas que votre corps est le temple du Saint Esprit qui
+        est en vous, que vous avez reçu de Dieu, et que vous ne vous appartenez
+        point à vous-mêmes?
+      italian: O non sapete che il vostro corpo è tempio dello Spirito Santo che è in
+        voi e che avete da Dio, e che non appartenete a voi stessi?
+      old_georgian: არა უწყითა, რამეთუ ჴორცნი ეგე თქუენნი ტაძარნი თქუენ შორის სულისა
+        წმიდისანი არიან, რომელ-ეგე გაქუს ღმრთისაგან, და არა ხართ თჳსთა თავთანი?
+      portuguese: "Ou não sabeis que o vosso corpo é santuário do Espírito Santo, que
+        habita em vós, o qual possuís da parte de\rDeus, e que não sois de vós
+        mesmos?"
+      polish: "Czyż nie wiecie, że ciało wasze jest świątynią Ducha Świętego, który w
+        was\rjest, a którego macie od Boga, i że już nie należycie do samych
+        siebie?"
+      new_text: Разве вам неизвестно, что ваше тело — храм, в котором живет Святой
+        Дух, полученный вами от Бога, и вы не принадлежите себе?
+      serbian: Или не знате да је тијело ваше храм Светога Духа који је у вама, којега
+        имате од Бога и нисте своји?
+      bulgarian: Или не знаете, че тялото ви е храм на Духа Светаго, Който живее във
+        вас и Когото имате от Бога, и че не принадлежите на себе си?
+      ukr2: Хіба ж не знаєте, що ваше тіло - храм Святого Духа, який живе у вас? Його
+        ви маєте від Бога, тож уже не належите до себе самих.
+      ukr3: Хиба не знаєте, що тїло ваше храм Духа сьвятого, що (живе) в вас, котрого
+        маєте від Бога, і ви не свої?
+      czech: Ci snad nevite, ze vase telo je chramem Ducha svateho, ktery ve vas
+        prebyva a jejz mate od Boha? Nepatrite sami sobe!
+      st_text: Не знаете ли, что тела ваши суть храм живущего в вас Святаго Духа,
+        Которого имеете вы от Бога, и вы не свои?
+  - id: 1642
+    number: 20
+    bookId: 64
+    text: Ибо вы куплены <i>дорогою</i> ценою. Посему прославляйте Бога и в телах
+      ваших и в душах ваших, которые суть Божии.
+    chapter: 6
+    chapterId: 1273
+    parallels:
+      - verseId: 13476
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 20
+        short: Деян:20:28
+      - verseId: 3607
+        bookId: 57
+        bookCode: 1oe-poslanie-ap-petra
+        chapter: 1
+        short: 1 Пет:1:19
+      - verseId: 1665
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 7
+        short: 1 Кор:7:23
+      - verseId: 15049
+        bookId: 66
+        bookCode: k-galatam-poslanie-ap-pavla
+        chapter: 3
+        short: Гал:3:13
+      - verseId: 28242
+        bookId: 77
+        bookCode: otkrovenie-ap-ioanna-bogoslova
+        chapter: 14
+        short: Откр:14:4
+    translates:
+      kassian: Ибо вы были куплены дорого. Прославьте же Бога в теле вашем.
+      podstr: Вы были куплены ведь [по] цене; прославьте поэтому Бога в теле вашем.
+      csya: куплени бо есте ценою. Прославите убо Бога в телесех ваших и в душах
+        ваших, яже суть Божия.
+      averincev: ""
+      ungerov: ""
+      csya_old: кyплени бо є3сте2 цэно1ю. Прослaвите ў2бо бг7а въ тэлесёхъ вaшихъ и3
+        въ душaхъ вaшихъ, ±же сyть б9іz.
+      sovr_rbo: ""
+      latin: Empti enim estis pretio magno. Glorificate, et portate Deum in corpore
+        vestro.
+      ukr: Бо дорого куплені ви. Отож прославляйте Бога в тілі своєму та в дусі
+        своєму, що Божі вони!
+      nkjv: For you were bought at a price; therefore glorify God in your body and in
+        your spirit, which are God's.
+      desnitsky: ведь Христос выкупил вас, уплатив великую цену – так прославьте Бога
+        в собственном теле!
+      tex_rec: ἠγοράσθητε γὰρ τιμῆς· δοξάσατε δὴ τὸν θεὸν ἐν τῷ σώματι ὑμῶν.
+      deutsch: Denn ihr seid teuer erkauft; darum so preist Gott an eurem Leibe und in
+        eurem Geiste, welche sind Gottes.
+      spanish: Habéis sido comprados a precio. Glorificad, pues, a Dios en vuestro
+        cuerpo.
+      peshitta: ܐܶܙܕ݁ܒ݂ܶܢܬ݁ܽܘܢ ܓ݁ܶܝܪ ܒ݁ܰܕ݂ܡܰܝܳܐ ܗܘܰܝܬ݁ܽܘܢ ܗܳܟ݂ܺܝܠ ܡܫܰܒ݁ܚܺܝܢ ܠܰܐܠܳܗܳܐ
+        ܒ݁ܦ݂ܰܓ݂ܪܟ݂ܽܘܢ ܘܰܒ݂ܪܽܘܚܟ݂ܽܘܢ ܗܳܢܽܘܢ ܕ݁ܺܐܝܬ݂ܰܝܗܽܘܢ ܕ݁ܰܐܠܳܗܳܐ܂
+      bel_syomukha: Бо вы куплены дарагою цаною. Таму ўслаўляйце Бога і ў целах вашых
+        і ў душах вашых, якія - Божыя.
+      nrt: потому что вы были куплены дорогой ценой. Поэтому прославьте Бога в ваших
+        телах.
+      romana: Caci ati fost cumparati cu pret! Slaviti, dar, pe Dumnezeu in trupul
+        vostru si in duhul vostru, care sunt ale lui Dumnezeu.
+      francais: Car vous avez été rachetés à un grand prix. Glorifiez donc Dieu dans
+        votre corps et dans votre esprit, qui appartiennent à Dieu.
+      italian: Infatti siete stati comprati a caro prezzo. Glorificate dunque Dio nel
+        vostro corpo!
+      old_georgian: რამეთუ სასყიდლით სყიდულ ხართ. ადიდეთ უკუე ღმერთი ჴორცითა მაგით
+        თქუენითა და სულითა მაგით თქუენითა, რომელი-იგი არს ღმრთისაჲ.
+      portuguese: Porque fostes comprados por preço; glorificai pois a Deus no vosso corpo.
+      polish: "Za [wielką] bowiem cenę zostaliście nabyci. Chwalcie więc Boga w
+        waszym\rciele!"
+      new_text: Вас купили за большую цену. Так славьте Бога своими телами!
+      serbian: Јер сте купљени скупо. Прославите, дакле, Бога тијелом својим и духом
+        својим, јер су Божији.
+      bulgarian: Защото вие сте скъпо купени. Затова прославете Бога в телата си и в
+        душите си, които са Божии.
+      ukr2: Ви бо куплені високою ціною! Тож прославляйте Бога у вашому тілі!
+      ukr3: Ви бо куплені цїною; тим прославляйте Бога в тїлї вашому і в дусї вашому;
+        вони Божі.
+      czech: Bylo za vas zaplaceno vykupne. Proto svym telem oslavujte Boha.
+      st_text: Ибо вы куплены <i>дорогою</i> ценою. Посему прославляйте Бога и в телах
+        ваших и в душах ваших, которые суть Божии.

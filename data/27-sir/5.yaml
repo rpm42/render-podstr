@@ -1,0 +1,813 @@
+id: 754
+number: 5
+bookId: 27
+verseCount: 18
+title: Глава 5
+verses:
+  - id: 34628
+    number: 1
+    bookId: 27
+    text: 'Не полагайся на имущества твои и не говори: "станет на жизнь мою".'
+    chapter: 5
+    chapterId: 754
+    parallels:
+      - verseId: 33400
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 11
+        short: Сир:11:24
+      - verseId: 23977
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 12
+        short: Лк:12:19
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Не уповай на имения твоя и не и рцы: довольна ми суть."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Не ўповaй на и3мBніz тво‰ и3 не и3 рцы2: довHльна ми2 сyть."
+      sovr_rbo: ""
+      latin: "Noli attendere ad possessiones iniquas, et ne dixeris: Est mihi
+        sufficiens vita: nihil enim proderit in tempore vindictae et
+        obductionis."
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: "Nu nadajdui in avutiile tale si sa nu zici: Am destule."
+      italian: 'Non confidare nelle tue ricchezze e non dire: "Questo mi basta".'
+      old_georgian: ნუ გეიმედება შენი ქონება და ნუ იტყვი, საკმარისი მაქვსო.
+      polish: "Nie polegaj na swoich bogactwach i nie mów: ”Jestem samowystarczalny”."
+      serbian: "Не ослањај се на своја богатства, и не говори: Довољна су ми!"
+      bulgarian: 'Не се облягай на имотите си и не казвай: "стигат ми, докле живея!"'
+      ukr2: Не покладайся на власні багатства, не кажи, - я самодостатній!
+      Agafangel: "Не надейся на свое богатство, и не говори: у меня довольно."
+      czech: "Nespolehej se na svuj majetek a nerikej: „Niceho mi neni treba.“"
+      spanish: "No te apoyes sobre las riquezas y no digas: <<Me basto a mí mismo>>."
+      rozhdestvensky: "Не надейся на богатство твое\rи не говори: «есть у меня средства!»"
+      greek-lxx: μὴ ἔπεχε ἐπὶ τοῖς χρήμασίν σου καὶ μὴ εἴπῃς αὐτάρκη μοί ἐστιν
+      st_text: 'Не полагайся на имущества твои и не говори: "станет на жизнь мою".'
+  - id: 34629
+    number: 2
+    bookId: 27
+    text: Не следуй влечению души твоей и крепости твоей, чтобы ходить в похотях
+      сердца твоего,
+    chapter: 5
+    chapterId: 754
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Не последуй души твоей и крепости твоей, еже ходити в похотех сердца
+        твоего,
+      averincev: ""
+      ungerov: ""
+      csya_old: Не послёдуй души2 твое1й и3 крёпости твое1й, є4же ходи1ти въ по1хотехъ
+        се1рдца твоегw2,
+      sovr_rbo: ""
+      latin: Ne sequaris in fortitudine tua concupiscentiam cordis tui,
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Nu urma dorintelor si tariei tale, ca sa umbli in poftele inimii tale.
+      italian: Non seguire il tuo istinto e la tua forza, assecondando le passioni del
+        tuo cuore.
+      old_georgian: ნუ აყვები შენს სულსა და შენს შეძლებას, ნუ ივლი გულისთქმის კვალზე.
+      polish: Nie daj się uwieść żądzom i sile, by iść za zachciankami swego serca.
+      serbian: Не допусти души својој и снази својој да ходи по жељама срца твога.
+      bulgarian: Не отивай по влечението на душата си и на силата си, за да ходиш по
+        пощевките на сърцето си,
+      ukr2: Не потурай своїй душі та потузі своїй, щоб не ввели тебе в пожадання твого
+        серця.
+      Agafangel: Не следуй душе своей и силе своей, чтобы поступать по влечению сердца
+        своего.
+      czech: Nehovej svym choutkam a silactvi a nejednej podle zadostivosti sveho
+        srdce.
+      spanish: No te apoyes en ti mismo y en tu fuerza para vivir según los deseos de
+        tu corazón.
+      rozhdestvensky: "не надейся на силу твою,\rчтобы следовать желаниям души своей;
+        не следуй влечениям сердца твоего и глаз твоих,  чтобы предаваться
+        дурным удовольствиям,"
+      greek-lxx: μὴ ἐξακολούθει τῇ ψυχῇ σου καὶ τῇ ἰσχύι σου πορεύεσθαι ἐν ἐπιθυμίαις
+        καρδίας σου
+      st_text: Не следуй влечению души твоей и крепости твоей, чтобы ходить в похотях
+        сердца твоего,
+  - id: 34630
+    number: 3
+    bookId: 27
+    text: 'и не говори: "кто властен в делах моих?", ибо Господь непременно отмстит
+      за дерзость твою.'
+    chapter: 5
+    chapterId: 754
+    parallels:
+      - verseId: 30268
+        bookId: 22
+        bookCode: psaltir
+        chapter: 10
+        short: Пс:10:4
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и не рцы: кто мя преможет? Господь бо мстяй отмстит ти."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 не рцы2: кто1 мz премо1жетъ; гDь бо мстsй tмсти1тъ ти2."
+      sovr_rbo: ""
+      latin: "et ne dixeris: Quomodo potui? aut, Quis me subjiciet propter facta mea?
+        Deus enim vindicans vindicabit."
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: "si sa nu zici: Cine ma va smeri sau cine ma va supune? Ca Domnul nu va
+        intarzia sa te pedepseasca."
+      italian: 'Non dire: "Chi mi dominerà?", perché il Signore senza dubbio farà
+        giustizia.'
+      old_georgian: ნუ იტყვი, ვინ გამიბატონდებაო? რადგან უფალია შენი დამსჯელი.
+      polish: "Nie mów: ”Któż mi ma coś do rozkazywania?” Albowiem Pan z całą
+        pewnością wymierzy ci sprawiedliwość."
+      serbian: "И не говори: Ко ће ме надвладати? Јер Господ освећујући – осветиће ти
+        се."
+      bulgarian: 'и не казвай: "кой ще ми заповядва в работите ми?" - защото Господ
+        бездруго ще отмъсти за твоята дързост.'
+      ukr2: і не кажи, хто, мовляв, мій володар, - бо каригідне Господь таки скарає.
+      Agafangel: "Не говори: кто может указывать мне в делах моих? Ибо Господь
+        отмщающий отмстит тебе."
+      czech: "Nerikej: „Jsem svym vlastnim panem,“ jinak te Hospodin urcite ztresta."
+      spanish: "No digas: << ¿Quién me dominará?>> porque sin duda te castigará el
+        Señor."
+      rozhdestvensky: "Не говори: «кто устоит против силы моей?»\rибо Господь отмстит
+        за преследуемых."
+      greek-lxx: καὶ μὴ εἴπῃς τίς με δυναστεύσει ὁ γὰρ Κύριος ἐκδικῶν ἐκδικήσει
+      st_text: 'и не говори: "кто властен в делах моих?", ибо Господь непременно
+        отмстит за дерзость твою.'
+  - id: 34631
+    number: 4
+    bookId: 27
+    text: 'Не говори: "я грешил, и что мне было?", ибо Господь долготерпелив.'
+    chapter: 5
+    chapterId: 754
+    parallels:
+      - verseId: 33005
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 2
+        short: Рим:2:4
+      - verseId: 33108
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 6
+        short: Рим:6:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Не рцы: согреших, и что ми бысть? Господь бо есть долготерпелив."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Не рцы2: согрэши1хъ, и3 что1 ми бы1сть; гDь бо є4сть долготерпэли1въ."
+      sovr_rbo: ""
+      latin: "Ne dixeris: Peccavi: et quid mihi accidit triste? Altissimus enim est
+        patiens redditor."
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: "Sa nu zici: Am pacatuit si ce mi s-a facut mie? Ca Domnul este
+        indelung-rabdator."
+      italian: 'Non dire: "Ho peccato, e che cosa mi è successo?", perché il Signore è
+        paziente.'
+      old_georgian: ნუ იტყვი, შევცოდე და რა დამემართაო, რადგან სულგრძელია უფალი.
+      polish: "Nie mów: ”Zgrzeszyłem i cóż mi się stało?” Albowiem Pan jest cierpliwy."
+      serbian: "Не говори: Сагријеших, и шта ми је било? Јер Господ је дуготрпјељив."
+      bulgarian: 'Не казвай: "греших, и що ми стана?" - защото Господ е дълготърпелив.'
+      ukr2: "Не говори: «Згрішив, а що мені сталось?» - Господь бо довготерпеливий."
+      Agafangel: "Не говори: я уже грешил, и что случилось со мною? Ибо Господь
+        долготерпелив."
+      czech: "Nerikej: „Zhresil jsem, a co se mi stalo?“; to jen proto, ze Hospodin je
+        nekonecne shovivavy."
+      spanish: "No digas: <<He pecado, ¿y qué me ha sucedido?>> porque el Señor es
+        paciente."
+      rozhdestvensky: "Не говори: «я согрешил, — и что мне сделалось?»\rибо Бог
+        долготерпелив. (в). Не говори: «милостив Господь, и все грехи мои
+        очистит»."
+      greek-lxx: μὴ εἴπῃς ἥμαρτον καὶ τί μοι ἐγένετο ὁ γὰρ κύριός ἐστιν μακρόθυμος
+      st_text: 'Не говори: "я грешил, и что мне было?", ибо Господь долготерпелив.'
+  - id: 34632
+    number: 5
+    bookId: 27
+    text: При мысли об умилостивлении не будь бесстрашен, чтобы прилагать грех ко
+      грехам
+    chapter: 5
+    chapterId: 754
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: О очищении безстрашен не буди, прилагати грехи на грехи,
+      averincev: ""
+      ungerov: ""
+      csya_old: Њ њчище1ніи безстрaшенъ не бyди, прилагaти грэхи2 на грэхи2,
+      sovr_rbo: ""
+      latin: De propitiatio peccato noli esse sine metu, neque adjicias peccatum super
+        peccatum.
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Pentru curatie sa nu fii fara de frica, ca sa nu adaugi pacate peste
+        pacate.
+      italian: Non esser troppo sicuro del perdono tanto da aggiungere peccato a
+        peccato.
+      old_georgian: შეწყალების იმედით უშიშარი ნუ იქნები და ცოდვას ცოდვაზე ნუ დაურთავ.
+      polish: Nie bądź tak pewny darowania ci win, byś miał dodawać grzech do grzechu.
+      serbian: При нади у милост не буди пресмио додајући гријех на гријех,
+      bulgarian: Кога мислиш за умилостивение, не бивай безстрашен, за да не прибавяш
+        грях към грях,
+      ukr2: Не покладайсь на прощення занадто, гріхи до гріхів додававши,
+      Agafangel: Надеясь на умилостивление, не будь безстрашен, чтобы прилагать грехи
+        ко грехам.
+      czech: Nespolehej opovazlive na odpusteni a nehromad jeden hrich na druhy.
+      spanish: Aun del pecado expiado no vivas sin temor, y no añadas pecados a pecados.
+      rozhdestvensky: "На прощение Его не полагайся беззаботно,\rприбавляя грех ко греху,"
+      greek-lxx: περὶ ἐξιλασμοῦ μὴ ἄφοβος γίνου προσθεῖναι ἁμαρτίαν ἐφ᾿ ἁμαρτίαις
+      st_text: При мысли об умилостивлении не будь бесстрашен, чтобы прилагать грех ко
+        грехам
+  - id: 34633
+    number: 6
+    bookId: 27
+    text: 'и не говори: "милосердие Его велико, Он простит множество грехов моих";'
+    chapter: 5
+    chapterId: 754
+    parallels:
+      - verseId: 34119
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 34
+        short: Сир:34:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "не рцы: щедрота его многа есть, множество грехов моих очистит:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "не рцы2: щедро1та є3гw2 мно1га є4сть, мно1жество грэхHвъ мои1хъ
+        њчcтитъ:"
+      sovr_rbo: ""
+      latin: "Et ne dicas: Miseratio Domini magna est, multitudinis peccatorum meorum
+        miserebitur:"
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: "Si sa nu zici: Mila Lui este mare, va curati multimea pacatelor mele."
+      italian: 'Non dire: "La sua misericordia è grande; mi perdonerà i molti
+        peccati", perché presso di lui ci sono misericordia e ira, il suo sdegno
+        si riverserà sui peccatori.'
+      old_georgian: ნუ იტყვი, გულმოწყალება მისი დიდია და მრავალ ცოდვებს შემინდობსო,
+        რადგან შეწყალებაცა და რისხვაც მასთანაა და ცოდვილებზე გადმოვა მისი
+        გულისწყრომა.
+      polish: "Nie mów: ”Jego miłosierdzie zgładzi mnóstwo moich grzechów”. U Niego
+        jest\rmiłosierdzie, ale i zapalczywość, a na grzeszników spadnie Jego
+        gniew karzący."
+      serbian: "И не говори: Милосрђе његово је велико, мноштво гријехова мојих
+        очистиће; јер милост и гњев су код Њега, и на грјешнике починуће јарост
+        Његова."
+      bulgarian: 'и не казвай: "Неговото милосърдие е голямо - Той ще прости многото
+        ми грехове";'
+      ukr2: "і не кажи: «А що милосердя йото велике, то й безліч гріхів мені він
+        відпустить», - бо й милосердя, і гнів є у нього, тож на грішних спаде
+        його обурення."
+      Agafangel: "Не говори: Его милосердие велико; Он простит мне множество грехов моих."
+      czech: "Nerikej: „ Bozi slitovani je tak velike, ze mi odpusti hrichy jakkoli
+        pocetne.“ Vzdyt u neho je nejen slitovnost, ale i rozhorleni, a hrisnici
+        pociti tihu jeho odplaty."
+      spanish: "Y no digas: <<Grande es su misericordia; Él perdonará mis muchos
+        pecados>>."
+      rozhdestvensky: "[И ты говоришь: велики милости Его, Он простит многочисленные
+        грехи мои]"
+      greek-lxx: καὶ μὴ εἴπῃς ὁ οἰκτιρμὸς αὐτοῦ πολύς τὸ πλῆθος τῶν ἁμαρτιῶν μου
+        ἐξιλάσεται
+      st_text: 'и не говори: "милосердие Его велико, Он простит множество грехов моих";'
+  - id: 34634
+    number: 7
+    bookId: 27
+    text: ибо милосердие и гнев у Него, и на грешниках пребывает ярость Его.
+    chapter: 5
+    chapterId: 754
+    parallels:
+      - verseId: 36643
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 32
+        short: Втор:32:22
+      - verseId: 31309
+        bookId: 22
+        bookCode: psaltir
+        chapter: 2
+        short: Пс:2:12
+      - verseId: 15395
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 15
+        short: Иер:15:14
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: милость бо и гнев у него, и на грешницех почиет ярость его.
+      averincev: ""
+      ungerov: ""
+      csya_old: млcть бо и3 гнёвъ ў негw2, и3 на грёшницэхъ почjетъ ћрость є3гw2.
+      sovr_rbo: ""
+      latin: misericordia enim et ira ab illo cito proximant, et in peccatores
+        respicit ira illius.
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Ca mila si mania de la El sunt si peste cei pacatosi va odihni mania Lui.
+      italian: Non aspettare a convertirti al Signore e non rimandare di giorno in
+        giorno, poiché improvvisa scoppierà l'ira del Signore e al tempo del
+        castigo sarai annientato.
+      old_georgian: ნუ აყოვნებ მოქცევას უფლისაკენ და სახვალიოდ ნუ გადადებ, რადგან
+        მყისვე გადმოვა უფლის რისხვა და შურისგების ჟამს წარიწყმედები.
+      polish: "Nie zwlekaj z nawróceniem do Pana ani nie odkładaj tego z dnia na
+        dzień:\rnagle bowiem gniew Jego przyjdzie i zginiesz w dniu wymiaru
+        sprawiedliwości."
+      serbian: Не чекај да се повратиш ка Господу и не одлажи дан за даном; јер
+        изненада ће изаћи гњев Господњи, и у вријеме освете погинућеш.
+      bulgarian: защото милосърдие и гняв са у Него, и яростта Му пребъдва върху
+        грешниците.
+      ukr2: Не гайся повернутися до Господа, не відкладай з днини на днину, бо
+        зненацька вибухне гнів Господній, то й загинеш у годині помсти.
+      Agafangel: Ибо милость и гнев у Него, и на грешников падет ярость Его.
+      czech: Neotalej obratit se k Hospodinu, neodkladej to ze dne na den! Nebot
+        Hospodinuv hnev te znicehonic vyhleda, a dojdes zahuby v den odplaty.
+      spanish: Porque en Él hay misericordia y cólera, y sobre los pecadores
+        desahogará su furor.
+      rozhdestvensky: "потому что у Него милость и гнев,\rи на грешников падет ярость Его."
+      greek-lxx: ἔλεος γὰρ καὶ ὀργὴ παρ᾿ αὐτῷ καὶ ἐπὶ ἁμαρτωλοὺς καταπαύσει ὁ θυμὸς αὐτοῦ
+      st_text: ибо милосердие и гнев у Него, и на грешниках пребывает ярость Его.
+  - id: 34635
+    number: 8
+    bookId: 27
+    text: "Не медли обратиться к Господу и не откладывай со дня на день:"
+    chapter: 5
+    chapterId: 754
+    parallels:
+      - verseId: 33591
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 18
+        short: Сир:18:22
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Не медли обратитися ко Господу и не отлагай день от дне:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Не ме1дли њбрати1тисz ко гDу и3 не tлагaй де1нь t дне2:"
+      sovr_rbo: ""
+      latin: "Non tardes converti ad Dominum, et ne differas de die in diem:"
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Nu intarzia a te intoarce la Domnul si nu amana din zi in zi.
+      italian: Non confidare in ricchezze ingiuste, perché non ti gioveranno nel
+        giorno della sventura.
+      old_georgian: ნუ გეიმედება უსამართლოდ მონახვეჭი, რადგან განსაცდელის დღეს
+        სარგებლობას ვერ მოგიტანს.
+      polish: Nie polegaj na bogactwach niesprawiedliwie nabytych, nic ci bowiem nie
+        pomogą w nieszczęściu.
+      serbian: Не ослањај се на богатства неправедна, јер ништа ти неће користити у
+        дан посјете.
+      bulgarian: "Не се бави да се обърнеш към Господа и не отлагай от ден на ден:"
+      ukr2: "Не звіряйсь на багатства, несправедливо набуті: не допоможуть тобі в день
+        нещастя."
+      Agafangel: "Не медли обратиться к Господу, и не отлагай со дня на день:"
+      czech: Nespolehej na majetek nespravedlive nabyty, nebude ti uzitecny v den
+        pohromy.
+      spanish: No difieras convertirte al Señor y no lo dejes de un día para otro;
+      rozhdestvensky: "Не медли же обратиться к Нему\rи не отлагай со дня на день:"
+      greek-lxx: μὴ ἀνάμενε ἐπιστρέψαι πρὸς Κύριον καὶ μὴ ὑπερβάλλου ἡμέραν ἐξ ἡμέρας
+      st_text: "Не медли обратиться к Господу и не откладывай со дня на день:"
+  - id: 34636
+    number: 9
+    bookId: 27
+    text: ибо внезапно найдет гнев Господа, и ты погибнешь во время отмщения.
+    chapter: 5
+    chapterId: 754
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: внезапу бо изыдет гнев Господень, и во время мести погибнеши.
+      averincev: ""
+      ungerov: ""
+      csya_old: внезaпу бо и3зы1детъ гнёвъ гDень, и3 во вре1мz мє1сти поги1бнеши.
+      sovr_rbo: ""
+      latin: subito enim veniet ira illius, et in tempore vindictae disperdet te.
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Ca fara de veste va izbucni mania Domnului si in vremea razbunarii vei
+        fi dat pieirii.
+      italian: Non ventilare il grano a qualsiasi vento e non camminare su qualsiasi
+        sentiero.
+      old_georgian: ნუ აჰყვები ყველა ქარს და ყოველი გზით ნუ ივლი, როგორც ორპირი
+        ცოდვილები იქცევიან.
+      polish: "Nie przewiewaj zboża przy każdym wietrze ani nie chodź po każdej
+        ścieżce -\rtakim jest bowiem grzesznik dwujęzyczny."
+      serbian: Не повијај се сваком вјетру и не ходи сваком стазом, као – двојезични
+        грјешник.
+      bulgarian: защото неочаквано ще налети гняв Господен, и ти ще загинеш във време
+        на отмъщението.
+      ukr2: "Не війся у кожному вітрі і не ступай усякою стежкою: так бо робить
+        грішник двоязичний."
+      Agafangel: ибо гнев Господень постигает внезапно, и ты погибнешь во время мщения.
+      czech: Neprovivej obili, kdyz je vitr promenlivy, a nechod po kazde pesine; tak
+        totiz jedna obojaky hrisnik.
+      spanish: Porque de repente se desfoga su ira, y en el día de la venganza
+        perecerás.
+      rozhdestvensky: "потому что внезапно придет гнев Его,\rи во время наказания ты
+        погибнешь."
+      greek-lxx: ἐξάπινα γὰρ ἐξελεύσεται ὀργὴ Κυρίου καὶ ἐν καιρῷ ἐκδικήσεως ἐξολῇ
+      st_text: ибо внезапно найдет гнев Господа, и ты погибнешь во время отмщения.
+  - id: 34637
+    number: 10
+    bookId: 27
+    text: Не полагайся на имущества неправедные, ибо они не принесут тебе пользы в
+      день посещения.
+    chapter: 5
+    chapterId: 754
+    parallels:
+      - verseId: 19180
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 20
+        short: Иов:20:20
+      - verseId: 29408
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 11
+        short: Притч:11:4
+      - verseId: 17848
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 7
+        short: Иез:7:19
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Не уповай на имения неправедна: ни чимже бо упользуют в день наведения."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Не ўповaй на и3мBніz непрaвєдна: ничи1мже бо ўпо1льзуютъ въ де1нь
+        наведе1ніz."
+      sovr_rbo: ""
+      latin: "Noli anxius esse in divitiis injustis: non enim proderunt tibi in die
+        obductionis et vindictae."
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Nu te increde in avutiile castigate pe nedrept, ca nimic nu-ti vor
+        folosi in ziua judecatii.
+      italian: Sii costante nel tuo sentimento, e unica sia la tua parola.
+      old_georgian: იყავი მტკიცე შენს ცოდნაში და ერთი იყოს სიტყვა შენი.
+      polish: Twardo stój przy swym przekonaniu i jedno miej tylko słowo!
+      serbian: Буди утврђен у разборитости својој, и једна да буде ријеч твоја.
+      bulgarian: Не се облягай на неправедни имоти, защото те не ще ти принесат полза
+        в деня на посещението.
+      ukr2: Стій твердо при своїй думці, і хай одне буде твоє слово.
+      Agafangel: Не надейся на неправедное богатство, ибо оно не принесет тебе никакой
+        пользы в день посещения.
+      czech: Bud pevny ve svem smysleni a tve slovo at je jednoznacne.
+      spanish: No te apoyes en las riquezas mal adquiridas, porque nada te
+        aprovecharán en el día de la ira.
+      rozhdestvensky: "Не полагайся на богатство суетное,\rпотому что не поможет оно в
+        день гнева."
+      greek-lxx: μὴ ἔπεχε ἐπὶ χρήμασιν ἀδίκοις οὐδὲν γὰρ ὠφελήσει σε ἐν ἡμέρᾳ ἐπαγωγῆς
+      st_text: Не полагайся на имущества неправедные, ибо они не принесут тебе пользы
+        в день посещения.
+  - id: 34638
+    number: 11
+    bookId: 27
+    text: "Не вей при всяком ветре и не ходи всякою стезею: таков двоязычный
+      грешник."
+    chapter: 5
+    chapterId: 754
+    parallels:
+      - verseId: 14095
+        bookId: 67
+        bookCode: k-efesanam-poslanie-ap-pavla
+        chapter: 4
+        short: Еф:4:14
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Не вей себе всяким ветром и не ходи всяким путем: сице грешник
+        двоязычен."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Не вёй себе2 всsкимъ вётромъ и3 не ходи2 всsкимъ путе1мъ: си1це
+        грёшникъ двоzзы1ченъ."
+      sovr_rbo: ""
+      latin: "Non ventiles te in omnem ventum, et non eas in omnem viam: sic enim
+        omnis peccator probatur in duplici lingua."
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Nu vantura la orice vant si nu umbla pe orice cale; asa este pacatosul
+        cel cu doua limbi.
+      italian: Sii pronto nell'ascoltare, lento nel proferire una risposta.
+      old_georgian: იყავი სწრაფი მოსასმენად და პასუხი სულგრძელობით გაეცი.
+      polish: Bądź skory do słuchania, a odpowiadaj po namyśle!
+      serbian: Буди брз у слушању своме, и стрпљиво припреми одговор.
+      bulgarian: Не отвявай при всеки вятър и не ходи по всяка пътека - такъв е
+        двуезичният грешник.
+      ukr2: Слухавши, будь скорий, а відповідавши - повільний.
+      Agafangel: Не вей на всяком ветру, и не ходи всякою тропою. Так поступает
+        двоязычный грешник.
+      czech: Neotalej nekoho vyslechnout, ale s odpovedi nepospichej.
+      spanish: No te dejes llevar de todo viento y no camines por una senda
+        cualquiera, que así es como obra el pecador de doble corazón.
+      rozhdestvensky: "Не вей по всякому ветру\rи не ходи по всякой дороге:"
+      greek-lxx: μὴ λίκμα ἐν παντὶ ἀνέμῳ καὶ μὴ πορεύου ἐν πάσῃ ἀτραπῷ οὕτως ὁ
+        ἁμαρτωλὸς ὁ δίγλωσσος
+      st_text: "Не вей при всяком ветре и не ходи всякою стезею: таков двоязычный
+        грешник."
+  - id: 34639
+    number: 12
+    bookId: 27
+    text: Будь тверд в твоем убеждении, и одно да будет твое слово.
+    chapter: 5
+    chapterId: 754
+    parallels:
+      - verseId: 19163
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 20
+        short: Иов:20:3
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Буди утвержден в разуме твоем, и едино буди слово твое.
+      averincev: ""
+      ungerov: ""
+      csya_old: Бyди ўтвержде1нъ въ рaзумэ твое1мъ, и3 є3ди1но бyди сло1во твое2.
+      sovr_rbo: ""
+      latin: "Esto firmus in via Domini, et in veritate sensus tui et scientia: et
+        prosequatur te verbum pacis et justitiae."
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Fii statornic in cugetul tau si unul sa fie cuvantul tau.
+      italian: Se conosci una cosa, rispondi al tuo prossimo; altrimenti mettiti la
+        mano sulla bocca.
+      old_georgian: თუ გაქვს ცოდნა, მოყვასს უპასუხე, თუ არა და, ბაგეზე გედოს ხელი.
+      polish: "Jeśli znasz się na rzeczy, odpowiedz bliźniemu, a jeśli nie, rękę twą
+        połóż na\rustach!"
+      serbian: Ако имаш разборитост, одговори ближњем; ако ли не, рука твоја нека буде
+        на устима твојим.
+      bulgarian: Бъди твърд в убеждението си, и думата ти да бъде една.
+      ukr2: Відповідай ближньому, коли відаєш, коли ж ні - поклади долоню на уста
+        собі!
+      Agafangel: Будь тверд в своих мыслях, и твое слово да будет одно.
+      czech: Rozumis-li necemu, odpovez bliznimu, ne-li, poloz si ruku na usta.
+      spanish: Sé firme en tus juicios y no tengas más que una palabra.
+      rozhdestvensky: "будь тверд в убеждении твоемъ\rи верен в слове твоем."
+      greek-lxx: ἴσθι ἐστηριγμένος ἐν συνέσει σου καὶ εἷς ἔστω σου ὁ λόγος
+      st_text: Будь тверд в твоем убеждении, и одно да будет твое слово.
+  - id: 34640
+    number: 13
+    bookId: 27
+    text: Будь скор к слушанию, и обдуманно давай ответ.
+    chapter: 5
+    chapterId: 754
+    parallels:
+      - verseId: 15159
+        bookId: 56
+        bookCode: poslanie-ap-iakova
+        chapter: 1
+        short: Иак:1:19
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Буди скор в слушании твоем, и с долготерпением отвещавай ответ.
+      averincev: ""
+      ungerov: ""
+      csya_old: Бyди ско1ръ въ слyшаніи твое1мъ, и3 съ долготерпёніемъ tвэщавaй tвётъ.
+      sovr_rbo: ""
+      latin: Esto mansuetus ad audiendum verbum, ut intelligas, et cum sapientia
+        proferas responsum verum.
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Fii grabnic la ascultat si zabavnic la dat raspunsul.
+      italian: Nel parlare ci può essere onore o disonore; la lingua dell'uomo è la
+        sua rovina.
+      old_georgian: პატივი და უპატიობა სიტყვებშია და კაცის დამღუპველი მისი ენაა.
+      polish: W mowie jest chwała i hańba człowieka, a język może sprowadzić jego
+        upadek.
+      serbian: Слава и бешчашће су у говорењу, и језик човјека пад његов.
+      bulgarian: Бъди бърз да слушаш и обмислено давай отговор.
+      ukr2: І слава, і неслава - в розмові; язик людини - її погибель.
+      Agafangel: Будь скор для слушания, и медлен на ответ.
+      czech: Slavu i hanbu prinasi mluveni a jazyk muze privest cloveka i k padu.
+      spanish: Sé pronto para oír y lento para responder.
+      rozhdestvensky: "Будь скор, когда слушаешь,\rи не спеши давать ответ;"
+      greek-lxx: γίνου ταχὺς ἐν ἀκροάσει σου καὶ ἐν μακροθυμίᾳ φθέγγου ἀπόκρισιν
+      st_text: Будь скор к слушанию, и обдуманно давай ответ.
+  - id: 34641
+    number: 14
+    bookId: 27
+    text: Если имеешь знание, то отвечай ближнему, а если нет, то рука твоя да будет
+      на устах твоих.
+    chapter: 5
+    chapterId: 754
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Аще есть в тебе разум, отвещай искреннему: аще же ни, то буди рука твоя
+        на устех твоих."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Ѓще є4сть въ тебЁ рaзумъ, tвэщaй и4скреннему: ѓще же ни2, то2 бyди
+        рукA твоS на ўстёхъ твои1хъ."
+      sovr_rbo: ""
+      latin: "Si est tibi intellectus, responde proximo: sin autem, sit manus tua
+        super os tuum, ne capiaris in verbo indisciplinato, et confundaris."
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: De stii, raspunde aproapelui tau, iar de nu, pune-ti mana peste gura.
+      italian: Non meritare il titolo di calunniatore e non tendere insidie con la
+        lingua, poiché la vergogna è per il ladro e una condanna severa per
+        l'uomo falso.
+      old_georgian: ნუ განითქმები დამსმენად და ენით ნუ იმზაკვრებ, რადგან ქურდს
+        სირცხვილი, ორპირს კი სასტიკი განაჩენი ერგება წილად.
+      polish: "Bacz, abyś nie był nazwany oszczercą i nie czyń swym językiem zasadzek.
+        Bo\rzłodziej doznaje hańby, a dwujęzyczny najgorszego napiętnowania."
+      serbian: Не буди назван дошаптачем, и језиком својим не прави засједу; јер на
+        лопову је стид, и пораженост злобна на двојезичнику.
+      bulgarian: Ако имаш знание, отговаряй на ближния, ако ли не, ръката ти да бъде
+        на устата ти.
+      ukr2: Не допусти, щоб тебе називали підшептувачем, і язиком своїм не наклеплюй,
+        бо на злодія сором спадає, і на двоязичного - осуд тяжкий.
+      Agafangel: Если знаешь, отвечай ближнему; если нет, то рука твоя да будет на
+        устах твоих.
+      czech: At nejsi nazyvan klevetnikem, ktery stroji uklady svym jazykem; nebot
+        jako lpi na zlodeji hanba, tak spatna povest na cloveku obojakem.
+      spanish: Si tienes que responder, responde; si no, pon la mano a la boca.
+      rozhdestvensky: "если имеешь что-либо, отвечай ближнему своему,\rа если нет, —
+        положи руку свою на уста свои."
+      greek-lxx: εἰ ἔστιν σοι σύνεσις ἀποκρίθητι τῷ πλησίον εἰ δὲ μή ἡ χείρ σου ἔστω
+        ἐπὶ τῷ στόματί σου
+      st_text: Если имеешь знание, то отвечай ближнему, а если нет, то рука твоя да
+        будет на устах твоих.
+  - id: 34642
+    number: 15
+    bookId: 27
+    text: В речах - слава и бесчестие, и язык человека бывает падением ему.
+    chapter: 5
+    chapterId: 754
+    parallels:
+      - verseId: 29448
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 12
+        short: Притч:12:13
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Слава и безчестие в беседе и язык человечь падение ему.
+      averincev: ""
+      ungerov: ""
+      csya_old: Слaва и3 безче1стіе въ бесёдэ и3 љзы1къ человёчь паде1ніе є3мY.
+      sovr_rbo: ""
+      latin: "Honor et gloria in sermone sensati: lingua vero imprudentis subversio
+        est ipsius."
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Marirea si batjocura sunt in vorba si limba omului ii face sa cada.
+      italian: Non far male né molto né poco, e da amico non divenire nemico,
+      old_georgian: ნურც დიდში და ნურც მცირეში უგუნური ნუ იქნები, თუ მოყვარე ხარ,
+        მტრულად ნუ მოიქცევი, რადგან აუგიანი სახელი სირცხვილსა და კიცხვას
+        დაგიმკვიდრებს ორპირი ცოდვილივით.
+      polish: "Nie uchybiaj ani w wielkich, ani w małych rzeczach, i nie stawaj się
+        wrogiem\rzamiast być przyjacielem; jak bowiem złe imię odziedziczy hańbę
+        i naganę,\rtak również grzesznik dwujęzyczny."
+      serbian: У великом и у малом не буди неуман, и умјесто пријатељ не буди
+        непријатељ.
+      bulgarian: В думите е слава и безчестие, и езикът на човека бива за него падение.
+      ukr2: Ні в великім, ні в малім не провинюйсь, і не ставай з друга ворогом.
+      Agafangel: Слава и безчестие в речи, и язык человека — орудие падения его.
+      czech: Neprohresuj se ve velkych ani v malych vecech a z pritele se nestavej
+        nepritelem.
+      spanish: En el hablar está la gloria o la deshonra, y la lengua del hombre es su
+        ruina.
+      rozhdestvensky: "В речах — слава и безчестие,\rи язык человека приводит его к падению:"
+      greek-lxx: δόξα καὶ ἀτιμία ἐν λαλιᾷ καὶ γλῶσσα ἀνθρώπου πτῶσις αὐτῷ
+      st_text: В речах - слава и бесчестие, и язык человека бывает падением ему.
+  - id: 34643
+    number: 16
+    bookId: 27
+    text: "Не прослыви наушником, и не коварствуй языком твоим:"
+    chapter: 5
+    chapterId: 754
+    parallels:
+      - verseId: 23260
+        bookId: 3
+        bookCode: levit
+        chapter: 19
+        short: Лев:19:16
+      - verseId: 31062
+        bookId: 22
+        bookCode: psaltir
+        chapter: 14
+        short: Пс:14:3
+      - verseId: 31063
+        bookId: 22
+        bookCode: psaltir
+        chapter: 14
+        short: Пс:14:4
+      - verseId: 29585
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 16
+        short: Притч:16:28
+      - verseId: 33710
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 21
+        short: Сир:21:31
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Не слови шепотник и языком твоим не уловляй:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Не слови2 шепотни6къ и3 љзы1комъ твои1мъ не ўловлsй:"
+      sovr_rbo: ""
+      latin: "Non appelleris susurro, et lingua tua ne capiaris et confundaris:"
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Sa nu te chemi barfitor si cu limba ta nu vicleni.
+      bulgarian: "Не минавай за клюкар и не клевети с езика си:"
+      Agafangel: "Не слыви наушником, и не строй козней языком своим:"
+      spanish: Que nadie te llame chismoso y no tiendas lazos con tu lengua;
+      rozhdestvensky: "не прослыви человеком двоедушным\rи не наушничай языком своим,"
+      greek-lxx: μὴ κληθῇς ψίθυρος καὶ τῇ γλώσσῃ σου μὴ ἐνέδρευε
+      st_text: "Не прослыви наушником, и не коварствуй языком твоим:"
+  - id: 34644
+    number: 17
+    bookId: 27
+    text: ибо на воре - стыд, и на двоязычном - злое порицание.
+    chapter: 5
+    chapterId: 754
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: на тати бо студ есть и зазор лукав над двоязычным.
+      averincev: ""
+      ungerov: ""
+      csya_old: на тaти бо стyдъ є4сть и3 зазо1ръ лукaвъ над8 двоzзы1чнымъ.
+      sovr_rbo: ""
+      latin: "super furem enim est confusio et poenitentia, et denotatio pessima super
+        bilinguem: susurratori autem odium, et inimicitia, et contumelia."
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Ca peste fur este rusine si o grea ocara peste cel cu doua limbi.
+      bulgarian: защото за крадец има срам, и за двуезичен - лош укор.
+      Agafangel: ибо вора преследует стыд, и злое порицание двоязычнаго.
+      spanish: Porque sobre el ladrón vendrá la confusión, y la condenación sobre el
+        de corazón doble.
+      rozhdestvensky: "потому что на воре лежит срам,\rа на двоедушном человеке еще
+        больший позор."
+      greek-lxx: ἐπὶ γὰρ τῷ κλέπτῃ ἐστὶν αἰσχύνη καὶ κατάγνωσις πονηρὰ ἐπὶ διγλώσσου
+      st_text: ибо на воре - стыд, и на двоязычном - злое порицание.
+  - id: 34645
+    number: 18
+    bookId: 27
+    text: Не будь неразумным ни в большом ни в малом.
+    chapter: 5
+    chapterId: 754
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: О велице и о мале не неразумевай.
+      averincev: ""
+      ungerov: ""
+      csya_old: Њ вели1цэ и3 њ мaлэ не неразумэвaй.
+      sovr_rbo: ""
+      latin: Justifica pusillum et magnum similiter.
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Sa nu gresesti nici in lucrurile mari, nici in cele mici.
+      bulgarian: Не бивай неразумен ни в голямо, ни в малко.
+      spanish: No ofendas a nadie ni en mucho ni en poco.
+      rozhdestvensky: Ни в малом, ни в великом не поступай дурно.
+      greek-lxx: ἐν μεγάλῳ καὶ ἐν μικρῷ μὴ ἀγνόει
+      st_text: Не будь неразумным ни в большом ни в малом.

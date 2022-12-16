@@ -1,0 +1,3015 @@
+id: 97
+number: 7
+bookId: 3
+verseCount: 38
+title: Глава 7
+verses:
+  - id: 23685
+    number: 1
+    bookId: 3
+    text: "Вот закон о жертве повинности: это великая святыня;"
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 23641
+        bookId: 3
+        bookCode: levit
+        chapter: 5
+        short: Лев:5:6
+    translates:
+      kassian: ""
+      podstr: И это закон барана о проступке; святое святых есть.
+      csya: "И сей закон овна иже о преступлении: святая святых суть:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# се1й зако1нъ nвнA и4же њ преступле1ніи: с™†z с™ы1хъ сyть:"
+      sovr_rbo: Вот правило для возместительного жертвоприношения. Это святыня святынь.
+      latin: "Haec quoque lex hostiae pro delicto, Sancta sanctorum est:"
+      ukr: А оце закон жертви за провину, Найсвятіше вона.
+      nkjv: "'Likewise this is the law of the trespass offering (it is most holy): "
+      desnitsky: ""
+      mt: ‫    וְזֹאת תּוֹרַת הָאָשָׁם קֹדֶשׁ קָדָשִׁים הוּא׃ ‬
+      romana: '"Iata si randuiala jertfei pentru vina: Aceasta este sfintenie mare.'
+      francais: "Voici la loi du sacrifice de culpabilité: c'est une chose très sainte."
+      italian: Questa è la legge del sacrificio di riparazione; è cosa santissima.
+      old_georgian: "და ესე არს შჯული ვერძისაჲ მის, რომელი იყოს ცოდვისათჳს: რამეთუ
+        წმიდაჲ წმიდათა არს."
+      portuguese: "Esta é a lei da oferta pela culpa: coisa santíssima é."
+      polish: "Oto prawo odnoszące się do ofiary zadośćuczynienia: jest ona rzeczą
+        bardzo\rświętą."
+      turkish: "«`Çok kutsal olan suç sunusunun yasası şudur:"
+      nrt: «Вот правила о жертве повинности, о великой святыне.
+      Macarius: "Вот закон о жертве повинности: это великая святыня."
+      bulgarian: "Този е законът за жертвата за вина: това е велика светиня."
+      deutsch: Und dies ist das Gesetz des Schuldopfers. Ein Hochheiliges ist es.
+      ukr2: "«А ось закон про жертву за відшкодування: пресвята це річ."
+      ukr3: А се закон про жертву за провину; велика се сьвятощ.
+      bel_syomukha: "І вось закон пра ахвяру павіннасьці: гэта вялікая сьвятыня;"
+      spbda: "Вот закон о жертве повинности: она — святыня великая."
+      lev-khv: "Вот закон о жертве повинности: она святыня великая."
+      czech: Toto je rad obeti za vinu; je to velesvate.
+      spanish: Esta es la ley del sacrificio por el delito. Es cosa santísima.
+      greek-lxx: καὶ οὗτος ὁ νόμος τοῦ κριοῦ τοῦ περὶ τῆς πλημμελείας ἅγια ἁγίων ἐστίν
+      st_text: "Вот закон о жертве повинности: это великая святыня;"
+  - id: 23686
+    number: 2
+    bookId: 3
+    text: жертву повинности должно заколать на том месте, где заколается
+      всесожжение, и кровью ее кропить на жертвенник со всех сторон;
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 22929
+        bookId: 3
+        bookCode: levit
+        chapter: 1
+        short: Лев:1:5
+      - verseId: 23679
+        bookId: 3
+        bookCode: levit
+        chapter: 6
+        short: Лев:6:25
+    translates:
+      kassian: ""
+      podstr: На месте, где закалывают всесожжение, [да] заколют барана проступка
+        перед Господом, и кровь нальют к ступени жертвенника вокруг.
+      csya: "на месте, на немже закалают всесожжение, да заколют овна иже о
+        преступлении пред Господем, и кровь да пролиют на стояла олтаря окрест:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "на мёстэ, на не1мже закалaютъ всесожже1ніе, да зако1лютъ nвнA и4же њ
+        преступле1ніи пред8 гDемъ, и3 кро1вь да пролію1тъ на стwsла nлтарS
+        њ1крестъ:"
+      sovr_rbo: Возместительную жертву режут на том же месте, что и жертву
+        всесожжения. Надо окропить жертвенник кровью со всех сторон
+      latin: "idcirco ubi immolabitur holocaustum, mactabitur et victima pro delicto:
+        sanguis ejus per gyrum altaris fundetur."
+      ukr: На місці, де ріжуть цілопалення, заріжуть жертву за провину, а кров її
+        священик покропить на жертівника навколо.
+      nkjv: In the place where they kill the burnt offering they shall kill the
+        trespass offering. And its blood he shall sprinkle all around on the
+        altar.
+      desnitsky: ""
+      mt: ‫    בִּמְקוֹם אֲשֶׁר יִשְׁחֲטוּ אֶת־הָעֹלָה יִשְׁחֲטוּ אֶת־הָאָשָׁם
+        וְאֶת־דָּמוֹ יִזְרֹק עַל־הַמִּזְבֵּחַ סָבִיב׃ ‬
+      romana: Jertfa pentru vina sa se junghie in locul unde se junghie jertfa arderii
+        de tot si cu sangele ei sa se stropeasca jertfelnicul de jur imprejur.
+      francais: C'est dans le lieu où l'on égorge l'holocauste que sera égorgée la
+        victime pour le sacrifice de culpabilité. On en répandra le sang sur
+        l'autel tout autour.
+      italian: Nel luogo, dove si immola l'olocausto, si immolerà la vittima di
+        riparazione; se ne spargerà il sangue attorno all'altare
+      old_georgian: ადგილსა მას, სადაცა დაკლიან ყოვლად დასაწველები იგი და დაკლან ვერძი
+        იგი ცოდვისაჲ წინაშე ღმრთისა და სისხლი მისი მოაპკურონ ხარისხსა თანა
+        საკურთხეველისასა.
+      portuguese: "No lugar em que imolam o holocausto, imolarão a oferta pela culpa,
+        e o sangue dela se espargirá sobre o altar em\rredor."
+      polish: "Na tym samym miejscu, na którym będą zabijać ofiarę całopalną, będą
+        także\rzabijać ofiarę zadośćuczynienia. Krew jej wyleją dokoła ołtarza,"
+      turkish: Suç sunusu yakmalık sununun kesildiği yerde kesilecek ve kanı sunağın
+        her yanına dökülecek.
+      nrt: Ее нужно закалывать там же, где и жертву всесожжения. Ее кровью нужно
+        окропить жертвенник со всех сторон.
+      Macarius: Жертву повинности должно закалать на том месте, где закалается
+        всесожжение, и кровью ее кропить на жертвенник со всех сторон.
+      bulgarian: Жертвата за вина трябва да се коли на онова място, дето се коли
+        всесъжението, и с кръвта й да се ръси жертвеникът околовръст.
+      deutsch: An der Stätte, da man das Brandopfer schlachtet, soll man auch das
+        Schuldopfer schlachten und sein Blut auf dem Altar umhersprengen.
+      ukr2: її заріжуть на тім самім місці, де ріжуть жертву всепалення, кров же
+        розбризкають по жертовнику з усіх боків.
+      ukr3: На тому місцї, де заколюють жертву всепалення, треба заколювати жертву за
+        пѿѿровину; і крові з неї треба набризкати на жертівник з усїх боків.
+      bel_syomukha: "ахвяру павіннасьці трэба калоць на тым месцы, дзе заколваецца
+        цэласпаленьне, і крывёю яе крапіць на ахвярнік з усіх бакоў:"
+      spbda: На том месте, где закалается всесожжение, должно закалать жертву
+        повинности, и кровию ея кропить на жертвенник со всех сторон.
+      lev-khv: На том месте, где закалается всесожжение, должно закалать жертву
+        повинности, и кровию ея кропить на жертвенник со всех сторон.
+      czech: Na miste, na nemz se porazi dobytce pro zapalnou obet, bude se porazet i
+        pro obet za vinu. Jeho krvi pokropi knez oltar dokola.
+      spanish: La víctima del sacrificio por el delito será degollada en el lugar
+        donde se degüella el holocausto. La sangre se derramará en torno del
+        altar.
+      greek-lxx: ἐν τόπῳ οὗ σφάζουσιν τὸ ὁλοκαύτωμα σφάξουσιν τὸν κριὸν τῆς
+        πλημμελείας ἔναντι Κυρίου καὶ τὸ αἷμα προσχεεῖ ἐπὶ τὴν βάσιν τοῦ
+        θυσιαστηρίου κύκλῳ
+      st_text: жертву повинности должно заколать на том месте, где заколается
+        всесожжение, и кровью ее кропить на жертвенник со всех сторон;
+  - id: 23687
+    number: 3
+    bookId: 3
+    text: <i>приносящий</i> должен представить из нее весь тук, курдюк и тук,
+      покрывающий внутренности,
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 23586
+        bookId: 3
+        bookCode: levit
+        chapter: 3
+        short: Лев:3:3
+    translates:
+      kassian: ""
+      podstr: И весь жир его [да] принесёт от него, и бедро и весь жир покрывающий
+        внутренности и весь жир на внутренностях
+      csya: и весь тук его да принесет от него, и чресла, и весь тук покрывающий
+        утробу, и весь тук иже на утробе,
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 ве1сь тyкъ є3гw2 да принесе1тъ t негw2, и3 чре1сла, и3 ве1сь тyкъ
+        покрывaющій ўтро1бу, и3 ве1сь тyкъ и4же на ўтро1бэ,
+      sovr_rbo: "и возложить на жертвенник весь жир: курдюк, жир с внутренностей,"
+      latin: "Offerent ex ea caudam et adipem qui operit vitalia:"
+      ukr: А ввесь її лій із неї він принесе, курдюка, і лій, що покриває нутрощі,
+      nkjv: And he shall offer from it all its fat. The fat tail and the fat that
+        covers the entrails,
+      desnitsky: ""
+      mt: ‫    וְאֵת כָּל־חֶלְבּוֹ יַקְרִיב מִמֶּנּוּ אֵת הָאַלְיָה וְאֶת־הַחֵלֶב
+        הַמְכַסֶּה אֶת־הַקֶּרֶב׃ ‬
+      romana: Cel ce o aduce sa osebeasca din ea toata grasimea, coada si grasimea de
+        pe maruntaie,
+      francais: On en offrira toute la graisse, la queue, la graisse qui couvre les
+        entrailles,
+      italian: "e se ne offrirà tutto il grasso: la coda, il grasso che copre le
+        viscere,"
+      old_georgian: და ცმელი მისი მოიღოს მისგან მუცლისა და ყოველივე ცმელი,
+        გარდაბურვილი შინაგან, და ყოველივე ცმელი, რომელ არს ნაწლევთაჲ.
+      portuguese: "Dela se oferecerá toda a gordura: a cauda gorda, e a gordura que
+        cobre a fressura,"
+      polish: "ale cały jej tłuszcz będzie złożony w ofierze: ogon, tłuszcz, który
+        okrywa\rwnętrzności,"
+      turkish: ""
+      nrt: "Весь жир из нее пусть будет принесен в жертву: курдюк и жир, покрывающий
+        внутренности,"
+      Macarius: Приносящий должен представить из ней весь тук, курдюк и тук,
+        покрывающий внутренности,
+      bulgarian: Приносителят трябва да представи всичката й тлъстина, опашката и
+        тлъстината, която обвива вътрешностите,
+      deutsch: Und all sein Fett soll man opfern, den Schwanz und das Fett, welches
+        das Eingeweide bedeckt,
+      ukr2: "Увесь тук від неї треба принести в офіру: і курдюк і сить, що вкриває
+        нутрощі,"
+      ukr3: І ввесь жир треба приносити від неї, курдюк і жир, що вкриває тельбухи.
+      bel_syomukha: ахвяравальнік павінен прынесьці зь яе ўвесь тлушч, курдзюк і лой
+        які пакрывае вантробы,
+      spbda: Приносящий должен представить из ней весь тук, курдюк, и тук покрывающий
+        внутренности,
+      lev-khv: Должно представить из ней весь тук, курдюк, и тук, покрывающий
+        внутренности,
+      czech: Pak prinese vsechen tuk z neho, tucny ocas a tuk pokryvajici vnitrnosti,
+      spanish: Se ofrecerá todo el sebo que recubre las entrañas,
+      greek-lxx: καὶ πᾶν τὸ στέαρ αὐτοῦ προσοίσει ἀπ᾿ αὐτοῦ καὶ τὴν ὀσφὺν καὶ πᾶν τὸ
+        στέαρ τὸ κατακαλύπτον τὰ ἐνδόσθια καὶ πᾶν τὸ στέαρ τὸ ἐπὶ τῶν ἐνδοσθίων
+      st_text: <i>приносящий</i> должен представить из нее весь тук, курдюк и тук,
+        покрывающий внутренности,
+  - id: 23688
+    number: 4
+    bookId: 3
+    text: и обе почки и тук, который на них, который на стегнах, и сальник, который
+      на печени; с почками пусть он отделит сие;
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 23587
+        bookId: 3
+        bookCode: levit
+        chapter: 3
+        short: Лев:3:4
+      - verseId: 23593
+        bookId: 3
+        bookCode: levit
+        chapter: 3
+        short: Лев:3:10
+    translates:
+      kassian: ""
+      podstr: и две почки и жир на них на бёдрах и часть на печени с почками удалит их,
+      csya: "и обе почки, и тук иже на них, иже на стегнах, и препонку, яже на печени,
+        с почками да отъимет я:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 џбэ пHчки, и3 тyкъ и4же на ни1хъ, и4же на сте1гнахъ, и3 препо1нку,
+        ћже на пе1чени, съ по1чками да tи1метъ |:"
+      sovr_rbo: а также обе почки и тот жир, что на них, у бедер, и отросток печени
+        (его надо извлечь вместе с почками).
+      latin: duos renunculos, et pinguedinem quae juxta ilia est, reticulumque jecoris
+        cum renunculis.
+      ukr: і обидві нирки, і лій, що на них, що на стегнах, а сальника на печінці
+        здійме з нирками,
+      nkjv: the two kidneys and the fat that is on them by the flanks, and the fatty
+        lobe attached to the liver above the kidneys, he shall remove;
+      desnitsky: ""
+      mt: ‫    וְאֵת שְׁתֵּי הַכְּלָיֹת וְאֶת־הַחֵלֶב אֲשֶׁר עֲלֵיהֶן אֲשֶׁר
+        עַל־הַכְּסָלִים וְאֶת־הַיֹּתֶרֶת עַל־הַכָּבֵד עַל־הַכְּלָיֹת
+        יְסִירֶנָּה׃ ‬
+      romana: "Amandoi rarunchii, grasimea cea de pe ei si seul de pe ficat: toate
+        acestea sa le osebeasca impreuna cu cei doi rarunchi."
+      francais: les deux rognons, et la graisse qui les entoure, qui couvre les
+        flancs, et le grand lobe du foie, qu'on détachera près des rognons.
+      italian: i due reni con il loro grasso e il grasso attorno ai lombi e al lobo
+        del fe gato che si distaccherà sopra i reni.
+      old_georgian: და ორნი იგი თირკუმელნი და ცმელი იგი მათ ზედა, რომელ არს ბარკალთაჲ,
+        და ღჳძლის ყური იგი თირკუმლითურთ მოჰჴადოს.
+      portuguese: "os dois rins e a gordura que está sobre eles, e a que está junto
+        aos lombos, e o redenho sobre o fígado,\rjuntamente com os rins, os
+        tirará;"
+      polish: "obie nerki i tłuszcz, który jest na nich, który sięga aż do lędźwi, a
+        także płat\rtłuszczu na wątrobie - przy nerkach będzie oddzielony."
+      turkish: Hayvanın bütün yağı alınacak, kuyruk yağı, bağırsak ve işkembe yağları,
+        böbrekleri, böbrek üstü yağları, karaciğerden böbreklere uzanan perde
+        ayrılacak.
+      nrt: обе почки с жиром, который на них и который возле бедер, и сальник с
+        печени; все это надо вынуть вместе с почками.
+      Macarius: И обе почки и тук, который на них, который на стегнах, и перепонку,
+        которая на печени; с почками пусть он отделит сие.
+      bulgarian: и двата бъбрека и тлъстината по тях, която е по бедрата, и булото на
+        черния дроб; нека отдели това заедно с бъбреците;
+      deutsch: die zwei Nieren mit dem Fett, das daran ist, an den Lenden, und das
+        Netz über der Leber, an den Nieren abgerissen.
+      ukr2: і обидві нирки з туком, що на них по боках, та чепець, що на печінці,
+        відділивши його зверху від нирок;
+      ukr3: "І обидві нирки, й жир, що на них, що на боках, і сальник, що на печінцї:
+        з нирками треба віддїляти його."
+      bel_syomukha: "і абедзьве ныркі і лой, што на іх, які на сьцёгнах, і сальнік,
+        што на печані; з ныркамі хай ён аддзеліць гэта:"
+      spbda: И обе почки и тук, который на них, который на стегнах, и сальник, который
+        на печени; с почками должен он отделить их.
+      lev-khv: И обе почки, и тук, который на них, который на стегнах, и сальник,
+        который на печени; с почками должен он отделить их.
+      czech: dale obe ledviny s tukem, ktery je na nich i na slabinach, a jaterni
+        lalok; odejme jej nad ledvinami.
+      spanish: los dos riñones, con el sebo que los cubre, y el que hay entre los
+        riñones y los lomos, y la redecilla del hígado sobre los riñones.
+      greek-lxx: καὶ τοὺς δύο νεφροὺς καὶ τὸ στέαρ τὸ ἐπ᾿ αὐτῶν τὸ ἐπὶ τῶν μηρίων καὶ
+        τὸν λοβὸν τὸν ἐπὶ τοῦ ἥπατος σὺν τοῖς νεφροῖς περιελεῖ αὐτά
+      st_text: и обе почки и тук, который на них, который на стегнах, и сальник,
+        который на печени; с почками пусть он отделит сие;
+  - id: 23689
+    number: 5
+    bookId: 3
+    text: "и сожжет сие священник на жертвеннике в жертву Господу: это жертва
+      повинности."
+    chapter: 7
+    chapterId: 97
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и [да] вознесёт их священник на жертвенник приношением Господу; о
+        проступке есть.
+      csya: "и вознесет я жрец на олтарь, принос в воню благовония Господу: о
+        преступлении (бо) есть:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 вознесе1тъ | жре1цъ на nлтaрь, прино1съ въ воню2 благово1ніz гDу:
+        њ преступле1ніи (бо) є4сть:"
+      sovr_rbo: Священник должен сжечь все это на жертвеннике как дар Господу. Это
+        возместительная жертва.
+      latin: "Et adolebit ea sacerdos super altare: incensum est Domini pro delicto."
+      ukr: та й спалить те священик на жертівнику, це огняна жертва для Господа,
+        жертва за провину вона.
+      nkjv: and the priest shall burn them on the altar as an offering made by fire to
+        the Lord. It is a trespass offering.
+      desnitsky: ""
+      mt: ‫    וְהִקְטִיר אֹתָם הַכֹּהֵן הַמִּזְבֵּחָה אִשֶּׁה לַיהוָה אָשָׁם הוּא׃ ‬
+      romana: Acestea sa le arda preotul pe jertfelnic, ca jertfa Domnului. Aceasta
+        este jertfa pentru vina.
+      francais: Le sacrificateur brûlera cela sur l'autel en sacrifice consumé devant
+        l'Éternel. C'est un sacrifice de culpabilité.
+      italian: Il sacerdote brucerà tutto questo sull'altare come sacrificio consumato
+        dal fuoco in onore del Signore. Questo è un sacrificio di riparazione.
+      old_georgian: და შეწიროს მღდელმან მან საკურთხეველსა ზედა ნაყოფად სულად სულნელად
+        ღმრთისა, რამეთუ ცოდვისაჲ არს.
+      portuguese: e o sacerdote os queimará sobre o altar em oferta queimada ao
+        Senhor; é uma oferta pela culpa.
+      polish: "Kapłan zamieni to wszystko w dym na ołtarzu jako ofiarę spalaną dla
+        Pana.\rTo jest ofiara zadośćuczynienia."
+      turkish: Kâhin bunların hepsini sunak üzerinde, RAB için yakılan sunu olarak
+        yakacak. Bu suç sunusudur.
+      nrt: Священник сожжет это на жертвеннике. Это огненная жертва Господу. Это –
+        жертва повинности.
+      Macarius: И сожжет сие священник на жертвеннике в жертву Господу. Это жертва
+        повинности.
+      bulgarian: "а свещеникът да изгори това на жертвеника в жертва Господу: това е
+        жертва за вина."
+      deutsch: Und der Priester soll's auf dem Altar anzünden zum Feuer dem Herrn. Das
+        ist ein Schuldopfer.
+      ukr2: "і священик нехай спалить їх на жертовнику як вогняну жертву Господеві: це
+        жертва за відшкодування."
+      ukr3: "І воскурить їх сьвященник на жертівнику як огняну жертву Господеві: се
+        жертва за провину."
+      bel_syomukha: і спаліць гэта сьвятар на ахвярніку ў ахвяру Госпаду; гэта ахвяра
+        за віну.
+      spbda: И сожжет сие священник на жертвеннике в жертву Господу. Это — жертва
+        повинности.
+      lev-khv: И сожжет это священник на жертвеннике в огненную жертву Господу. Это
+        жертва повинности.
+      czech: Knez to na oltari obrati v obetni dym jako ohnivou obet Hospodinu. To
+        bude obet za vinu.
+      spanish: El sacerdote lo quemará en el altar. Es combustión de Yavé, víctima por
+        el delito.
+      greek-lxx: καὶ ἀνοίσει αὐτὰ ὁ ἱερεὺς ἐπὶ τὸ θυσιαστήριον κάρπωμα τῷ Κυρίῳ περὶ
+        πλημμελείας ἐστίν
+      st_text: "и сожжет сие священник на жертвеннике в жертву Господу: это жертва
+        повинности."
+  - id: 23690
+    number: 6
+    bookId: 3
+    text: "Весь мужеский пол священнического рода может есть ее; на святом месте
+      должно есть ее: это великая святыня."
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 23672
+        bookId: 3
+        bookCode: levit
+        chapter: 6
+        short: Лев:6:18
+      - verseId: 11524
+        bookId: 4
+        bookCode: cisla
+        chapter: 18
+        short: Чис:18:10
+    translates:
+      kassian: ""
+      podstr: всякий мужского пола из священников съест их, на месте святом [да] съест
+        их; святое святых [они] есть.
+      csya: "всяк мужеск пол от жрец да снест я, на месте святе да снедят я: святая
+        святых суть:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "всsкъ мyжескъ по1лъ t жрє1цъ да снёстъ |, на мёстэ с™э да снэдsтъ |:
+        с™†z с™ы1хъ сyть:"
+      sovr_rbo: Все мужчины из священнического рода могут ее есть. Ее надо есть на
+        святом месте. Это святыня святынь.
+      latin: Omnis masculus de sacerdotali genere, in loco sancto vescetur his
+        carnibus, quia Sanctum sanctorum est.
+      ukr: Кожен чоловічої статі серед священиків буде їсти її, на місці святому буде
+        вона їджена, Найсвятіше вона.
+      nkjv: Every male among the priests may eat it. It shall be eaten in a holy
+        place. It is most holy.
+      desnitsky: ""
+      mt: ‫    כָּל־זָכָר בַּכֹּהֲנִים יֹאכְלֶנּוּ בְּמָקוֹם קָדוֹשׁ יֵאָכֵל קֹדֶשׁ
+        קָדָשִׁים הוּא׃ ‬
+      romana: Toti cei de parte barbateasca din neamul preotesc sa manance din ea, dar
+        s-o manance in locul cel sfant, ca aceasta este sfintenie mare.
+      francais: "Tout mâle parmi les sacrificateurs en mangera; il le mangera dans un
+        lieu saint: c'est une chose très sainte."
+      italian: Ogni maschio di famiglia sacerdotale ne potrà mangiare; lo si mangerà
+        in luogo santo; è cosa santissima.
+      old_georgian: ყოველივე წული მღდელთაგანი ჭამდეს მას, ადგილსა წმიდასა ჭამდენ მას,
+        რამეთუ წმიდაჲ წმიდათა არს.
+      portuguese: Todo varão entre os sacerdotes comerá dela; num lugar santo se
+        comerá; coisa santíssima é.
+      polish: Każdy mężczyzna z [rodu] kapłanów będzie z niej spożywał. Będzie
+        spożywana w miejscu poświęconym, to jest rzecz bardzo święta.
+      turkish: Kâhinler soyundan gelen her erkek bu sunuyu yiyebilir. Sunu kutsal bir
+        yerde yenecek, çünkü çok kutsaldır.
+      nrt: "Все мужчины в семье священников могут ее есть, но только в святом месте:
+        это – великая святыня."
+      Macarius: Весь мужеский пол священнического рода может есть ее. На святом месте
+        должно есть ее. Это великая святыня.
+      bulgarian: "Всяко мъжко от свещенически род може да я яде. Тя трябва да се яде
+        на свето място: това е велика светиня."
+      deutsch: Was männlich ist unter den Priestern, die sollen das essen an heiliger
+        Stätte; denn es ist ein Hochheiliges.
+      ukr2: "Кожен чоловік зо священиків їстиме її; однак, на святім місці треба її
+        споживати: це пресвята річ."
+      ukr3: "Увесь музький пол у сьвященників їсти ме її; на сьвятому місцї треба їсти
+        її: се велика сьвятощ."
+      bel_syomukha: "Увесь мужчынскі пол сьвятарскага роду можа есьці яе; на сьвятым
+        месцы павінен есьці яе: гэта вялікая сьвятыня."
+      spbda: Весь мужеский пол из священническаго рода может есть ее. На святом месте
+        должно есть ее. Она — святыня великая.
+      lev-khv: "Весь мужеский пол из священников может есть ее. На святом месте должно
+        есть ее: она святыня великая."
+      czech: Kazdy muzsky prislusnik knezskych rodin ji smi jist. Bude se jist na
+        svatem miste. Je to velesvate.
+      spanish: Comerán la carne los varones de entre los sacerdotes en lugar santo; es
+        cosa santísima.
+      greek-lxx: πᾶς ἄρσην ἐκ τῶν ἱερέων ἔδεται αὐτά ἐν τόπῳ ἁγίῳ ἔδονται αὐτά ἅγια
+        ἁγίων ἐστίν
+      st_text: "Весь мужеский пол священнического рода может есть ее; на святом месте
+        должно есть ее: это великая святыня."
+  - id: 23691
+    number: 7
+    bookId: 3
+    text: "Как о жертве за грех, так и о жертве повинности закон один: она
+      принадлежит священнику, который очищает посредством ее."
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 23603
+        bookId: 3
+        bookCode: levit
+        chapter: 4
+        short: Лев:4:3
+      - verseId: 23088
+        bookId: 3
+        bookCode: levit
+        chapter: 14
+        short: Лев:14:13
+    translates:
+      kassian: ""
+      podstr: Как которую о грехах, так и которую проступка, закон один [о] них;
+        священник, который помолится [с использованием] её, ему будет.
+      csya: "якоже греха ради, тако и преступления ради, закон един их: жрец иже
+        помолится о нем, ему да будет:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "ћкоже грэхA рaди, тaкw и3 преступле1ніz рaди, зако1нъ є3ди1нъ и4хъ:
+        жре1цъ и4же помо1литсz њ не1мъ, є3мY да бyдетъ:"
+      sovr_rbo: "И для возместительной, и для очистительной жертвы правило одно:
+        жертва принадлежит священнику, который совершает искупительный обряд."
+      latin: "Sicut pro peccato offertur hostia, ita et pro delicto: utriusque hostiae
+        lex una erit: ad sacerdotem, qui eam obtulerit, pertinebit."
+      ukr: "Як про жертву за гріх, так само про жертву за провини закон їм один:
+        священикові, що очистить нею, йому вона буде."
+      nkjv: "The trespass offering is like the sin offering; there is one law for them
+        both: the priest who makes atonement with it shall have it."
+      desnitsky: ""
+      mt: ‫    כַּחַטָּאת כָּאָשָׁם תּוֹרָה אַחַת לָהֶם הַכֹּהֵן אֲשֶׁר יְכַפֶּר־בּוֹ
+        לוֹ יִהְיֶה׃ ‬
+      romana: La jertfa pentru vina, ca si la jertfa pentru pacat, este aceeasi
+        randuiala; ele sunt partea preotului, care savarseste curatirea cu
+        ajutorul lor.
+      francais: "Il en est du sacrifice de culpabilité comme du sacrifice d'expiation;
+        la loi est la même pour ces deux sacrifices: la victime sera pour le
+        sacrificateur qui fera l'expiation."
+      italian: Il sacrificio di riparazione è come il sacrificio espiatorio; la stessa
+        legge vale per ambedue; la vittima sarà del sacerdote che avrà compiuta
+        l'espiazione.
+      old_georgian: "ვითარცა-იგი ცოდვისაჲ, ეგრეცა ბრალისაჲ შჯული ერთისა მათგანისა:
+        მღდელისა, რომელმან ყოს ლხინებაჲ, მისა იყავნ იგი."
+      portuguese: "Como é a oferta pelo pecado, assim será a oferta pela culpa; há uma
+        só lei para elas, a saber, pertencerá ao\rsacerdote que com ela houver
+        feito expiação."
+      polish: "Ofiary przebłagalne i ofiary zadośćuczynienia podlegają temu samemu
+        prawu:\rbędą one należały do tego kapłana, który dokonuje obrzędu
+        przebłagania."
+      turkish: «`Suç ve günah sunuları için aynı yasa geçerlidir. Et, sunuyu sunarak
+        günahı bağışlatan kâhinindir.
+      nrt: "Для жертвы за грех и для жертвы повинности закон один: они принадлежат
+        священнику, который совершает отпущение посредством их."
+      Macarius: "Как о жертве за грех, так и о жертве повинности закон один: она
+        принадлежит священнику, который очищает посредством ее."
+      bulgarian: "Един е законът както за жертвата за грях, тъй и за жертвата за вина:
+        тя принадлежи на свещеника, който чрез нея извършва очистянето."
+      deutsch: Wie das Sündopfer, also soll auch das Schuldopfer sein; aller beider
+        soll einerlei Gesetz sein; und sollen dem Priester gehören, der dadurch
+        versöhnt.
+      ukr2: "Щодо жертви за гріх і щодо жертви за відшкодування - закон один: вона
+        буде для того священика, хто нею відслужить покуту."
+      ukr3: Як про жертву за гріх, так і про жертву за провину закон один. Котрий
+        сьвященник покутує нею гріх, тому вона буде.
+      bel_syomukha: "Як пра ахвяру за грэх, так і пра ахвяру за віну закон адзін: яна
+        належыць сьвятару, які ачышчае ёю."
+      spbda: "Как о жертве за грех, так и о жертве повинности закон один: священнику,
+        который очищает посредством ея, принадлежит она."
+      lev-khv: "Как о жертве за грех, так и о жертве повинности закон один:
+        священнику, который очищает посредством ея, принадлежит она."
+      czech: Obet za vinu ma stejny rad jako obet za hrich; patri knezi, ktery ji
+        vykonava smirci obrady.
+      spanish: Como el sacrificio por el pecado, así será el sacrificio por el delito.
+        La ley para uno y para otro es la misma. La víctima será del sacerdote
+        que la ofrezca.
+      greek-lxx: ὥσπερ τὸ περὶ τῆς ἁμαρτίας οὕτω καὶ τὸ τῆς πλημμελείας νόμος εἷς
+        αὐτῶν ὁ ἱερεύς ὅστις ἐξιλάσεται ἐν αὐτῷ αὐτῷ ἔσται
+      st_text: "Как о жертве за грех, так и о жертве повинности закон один: она
+        принадлежит священнику, который очищает посредством ее."
+  - id: 23692
+    number: 8
+    bookId: 3
+    text: И когда священник приносит чью-нибудь жертву всесожжения, кожа от
+      <i>жертвы</i> всесожжения, которое он приносит, принадлежит священнику;
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 22930
+        bookId: 3
+        bookCode: levit
+        chapter: 1
+        short: Лев:1:6
+    translates:
+      kassian: ""
+      podstr: И священник приносящий всесожжение человека, кожу всесожжения, которое
+        он приносит, ему будет.
+      csya: "и жрец приносяй всесожжение человечо, кожа всесожжения, еже приносит он,
+        ему да будет:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 жре1цъ приносsй всесожже1ніе человёчо, ко1жа всесожже1ніz, є4же
+        прино1ситъ џнъ, є3мY да бyдетъ:"
+      sovr_rbo: Священник, совершивший всесожжение за другого человека, берет себе
+        шкуру животного, которое он принес в жертву.
+      latin: Sacerdos qui offert holocausti victimam, habebit pellem ejus.
+      ukr: А священик, що приносить чиєсь цілопалення, шкура цілопалення, яке приніс
+        він, священикові, йому вона буде.
+      nkjv: "And the priest who offers anyone's burnt offering, that priest shall have
+        for himself the skin of the burnt offering which he has offered. "
+      desnitsky: ""
+      mt: ‫    וְהַכֹּהֵן הַמַּקְרִיב אֶת־עֹלַת אִישׁ עוֹר הָעֹלָה אֲשֶׁר הִקְרִיב
+        לַכֹּהֵן לוֹ יִהְיֶה׃ ‬
+      romana: Cand preotul va aduce jertfa arderii de tot a cuiva, pielea jertfei
+        aduse va fi a preotului.
+      francais: Le sacrificateur qui offrira l'holocauste de quelqu'un aura pour lui
+        la peau de l'holocauste qu'il a offert.
+      italian: Il sacerdote, che avrà fatto l'olocausto per qualcuno, avrà per sé la
+        pelle dell'olocausto da lui offerto.
+      old_georgian: მღდელი იგი, რომელი შესწირვიდეს მსხუერპლსა მას კაცისასა, ტყავი იგი
+        ყოვლად დასაწველისაჲ მის, რომელი მან შეწიროს, მისაცა იყოს.
+      portuguese: Também o sacerdote que oferecer o holocausto de alguém terá para si
+        o couro do animal que tiver oferecido.
+      polish: Jeżeli zaś kapłan składa za kogoś ofiarę całopalną, to otrzyma skórę
+        zwierzęcia, które złożył w ofierze.
+      turkish: Yakmalık sununun derisi de sunuyu sunan kâhinindir.
+      nrt: Священник, который приносит чью-либо жертву всесожжения, может оставить
+        себе шкуру.
+      Macarius: Также, когда священник приносит чью-нибудь жертву всесожжения, кожа от
+        жертвы всесожжения, которое он приносит, принадлежит священнику.
+      bulgarian: И когато свещеникът принася чия да е жертва за всесъжение, кожата от
+        жертвата за всесъжението, която принася, принадлежи на свещеника.
+      deutsch: Welcher Priester jemandes Brandopfer opfert, des soll des Brandopfers
+        Fell sein, das er geopfert hat.
+      ukr2: Коли ж священик приноситиме чиєсь усепалення, шкура жертви всепалення, що
+        він її приніс, буде йому, священикові.
+      ukr3: І котрий сьвященник приносити ме чию жертву всепалення, кожа з усепалення,
+        що принесе він, буде йому, сьвященникові.
+      bel_syomukha: І калі сьвятар прыносіць чыю-небудзь ахвяру цэласпаленьня, скура
+        ад ахвяры цэласпаленьня, якую ён прыносіць, належыць сьвятару;
+      spbda: И когда священник приносит чью-нибудь жертву всесожжения, кожа от жертвы
+        всесожжения, которую он приносит, принадлежит священнику.
+      lev-khv: И когда священник приносит чью нибудь жертву всесожжения; кожа от
+        жертвы всесожжения, которую он приносит, принадлежит священнику.
+      czech: Knezi, ktery prinasi neci zapalnou obet, patri kuze z obeti, kterou
+        prinasi; je jeho.
+      spanish: Del sacerdote que ofrezca un holocausto será la piel de la víctima que
+        ha ofrecido.
+      greek-lxx: καὶ ὁ ἱερεὺς ὁ προσάγων ὁλοκαύτωμα ἀνθρώπου τὸ δέρμα τῆς ὁλοκαυτώσεως
+        ἧς αὐτὸς προσφέρει αὐτῷ ἔσται
+      st_text: И когда священник приносит чью-нибудь жертву всесожжения, кожа от
+        <i>жертвы</i> всесожжения, которое он приносит, принадлежит священнику;
+  - id: 23693
+    number: 9
+    bookId: 3
+    text: и всякое приношение хлебное, которое печено в печи, и всякое
+      приготовленное в горшке или на сковороде, принадлежит священнику,
+      приносящему его;
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 23284
+        bookId: 3
+        bookCode: levit
+        chapter: 2
+        short: Лев:2:3
+    translates:
+      kassian: ""
+      podstr: И всякая жертва, которую сделаешь в печи, и всякая, которую сделаешь на
+        костре или на сковороде, священника приносящего её, ему будет.
+      csya: "и всяка жертва, яже сотворится в пещи, и всяка, яже сотворится на огнищи,
+        или на сковраде, жерцу, иже приносит ю, тому да будет:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 всsка же1ртва, ћже сотвори1тсz въ пещи2, и3 всsка, ћже сотвори1тсz
+        на nгни1щи, и3ли2 на сковрадЁ, жерцY, и4же прино1ситъ ю5, томY да
+        бyдетъ:"
+      sovr_rbo: Хлебное приношение, испеченное в печи, приготовленное на противне или
+        на сковороде, принадлежит священнику, совершившему жертвоприношение.
+      latin: "Et omne sacrificium similae, quod coquitur in clibano, et quidquid in
+        craticula, vel in sartagine praeparatur, ejus erit sacerdotis a quo
+        offertur:"
+      ukr: І кожна жертва хлібна, що в печі буде печена, і кожна приготовлена в горшку
+        та на лопатці, священикові, що приносить її, йому вона буде.
+      nkjv: "Also every grain offering that is baked in the oven and all that is
+        prepared in the covered pan, or in a pan, shall be the priest's who
+        offers it. "
+      desnitsky: ""
+      mt: ‫    וְכָל־מִנְחָה אֲשֶׁר תֵּאָפֶה בַּתַּנּוּר וְכָל־נַעֲשָׂה בַמַּרְחֶשֶׁת
+        וְעַל־מַחֲבַת לַכֹּהֵן הַמַּקְרִיב אֹתָהּ לוֹ תִהְיֶה׃ ‬
+      romana: Tot prinosul de paine copt in cuptor si tot prinosul de paine gatit in
+        oala sau in tigaie va fi al preotului, care-l savarseste.
+      francais: Toute offrande cuite au four, préparée sur le gril ou à la poêle, sera
+        pour le sacrificateur qui l'a offerte.
+      italian: Così anche ogni oblazione, cotta nel forno o preparata nella pentola o
+        nella teglia, sarà del sacerdote che l'ha offerta.
+      old_georgian: და ყოველივე შესაწირავი, რომელი იქმნეს თორნესა და ყოველივე, რომელი
+        იქმნეს ლანძუსა, გინა ტაპაკსა, მღდელისა მის შემწირველისა იყოს იგი.
+      portuguese: "Igualmente toda oferta de cereais que se assar ao forno, como tudo
+        o que se preparar na frigideira e na assadeira,\rpertencerá ao sacerdote
+        que a oferecer."
+      polish: Także i każda ofiara pokarmowa upieczona w piecu albo przyrządzona w
+        kociołku lub na patelni będzie należeć do tego kapłana, który ją złożył.
+      turkish: Fırında, tavada ya da sacda pişirilen her tahıl sunusu onu sunan
+        kâhinin olacak.
+      nrt: Любое хлебное приношение, испеченное в печи или приготовленное на сковороде
+        или на противне, принадлежит священнику, который его приносит,
+      Macarius: И всякое приношение хлебное, которое печено в печи, и всякое
+        приготовленное в горшке или на сковороде, принадлежит священнику,
+        приносящему оное.
+      bulgarian: И всеки хлебен принос, печен в пещ, и всеки такъв, приготвен в
+        подница или в тава, принадлежи на свещеника, който я принася.
+      deutsch: Und alles Speisopfer, das im Ofen oder auf dem Rost oder in der Pfanne
+        gebacken ist, soll dem Priester gehören, der es opfert.
+      ukr2: А й усяка офіра, спечена в печі, і все зготовлене на мидниці чи на
+        сковороді, теж буде священикові, що її приносить, - йому буде вона.
+      ukr3: "І всякий хлїбний дар, що спечено в печі, й усе зготовлене в горшку і
+        пряжене на сковородї: сьвященникові, що його приносить, йому воно буде."
+      bel_syomukha: і любое прынашэньне хлебнае, якое печанае ў печы, і любое
+        гатаванае ў печы, і любое гатаванае ў горшчыку альбо на патэльні,
+        належыць сьвятару, які прыносіць яго;
+      spbda: И всякое мучное приношение, которое печено в печи, и всякое
+        приготовленное в горшке или на сковороде, принадлежит священнику,
+        приносящему его.
+      lev-khv: И всякое мучное приношение, которое печено в печи, и всякое
+        приготовленное в горшке или на сковороде, принадлежит священнику,
+        приносящему его.
+      czech: Rovnez kazda pridavna obet, ktera je pecena v peci, i kazda, ktera je
+        pripravena v kotliku nebo na panvi, patri knezi, ktery ji prinasi; je
+        jeho.
+      spanish: Toda minjá cocida al horno en sartén o en cazuela será del sacerdote
+        que la ofrece.
+      greek-lxx: καὶ πᾶσα θυσία ἥτις ποιηθήσεται ἐν τῷ κλιβάνῳ καὶ πᾶσα ἥτις
+        ποιηθήσεται ἐπ᾿ ἐσχάρας ἢ ἐπὶ τηγάνου τοῦ ἱερέως τοῦ προσφέροντος αὐτήν
+        αὐτῷ ἔσται
+      st_text: и всякое приношение хлебное, которое печено в печи, и всякое
+        приготовленное в горшке или на сковороде, принадлежит священнику,
+        приносящему его;
+  - id: 23694
+    number: 10
+    bookId: 3
+    text: и всякое приношение хлебное, смешанное с елеем и сухое, принадлежит всем
+      сынам Аароновым, как одному, так и другому.
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 23286
+        bookId: 3
+        bookCode: levit
+        chapter: 2
+        short: Лев:2:5
+      - verseId: 23646
+        bookId: 3
+        bookCode: levit
+        chapter: 5
+        short: Лев:5:11
+      - verseId: 23676
+        bookId: 3
+        bookCode: levit
+        chapter: 6
+        short: Лев:6:22
+    translates:
+      kassian: ""
+      podstr: И всякая жертва смешенная с маслом и не смешенная всем сыновьям Аарона
+        будет, каждому равно.
+      csya: и всяка жертва спряжена с елеем, и яже не спряжена, всем сыном аароним
+        комуждо равно да будет.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 всsка же1ртва спрsжена съ є3ле1емъ, и3 ћже не спрsжена, всBмъ
+        сынHмъ ґарw6нимъ комyждо рaвнw да бyдетъ.
+      sovr_rbo: Всякое хлебное приношение, смоченное оливковым маслом или сухое,
+        принадлежит всем потомкам Аарона в равной мере.
+      latin: sive oleo conspersa, sive arida fuerint, cunctis filiis Aaron mensura
+        aequa per singulos dividetur.
+      ukr: А кожна хлібна жертва, мішана в оливі й суха, буде вона всім синам
+        Аароновим, як одному, так і другому.
+      nkjv: Every grain offering, whether mixed with oil, or dry, shall belong to all
+        the sons of Aaron, to one as much as the other.
+      desnitsky: ""
+      mt: ‫    וְכָל־מִנְחָה בְלוּלָה־בַשֶּׁמֶן וַחֲרֵבָה לְכָל־בְּנֵי אַהֲרֹן
+        תִּהְיֶה אִישׁ כְּאָחִיו׃ פ ‬
+      romana: Orice dar de paine, framantat cu untdelemn sau uscat, va fi al tuturor
+        fiilor lui Aaron deopotriva.
+      francais: Toute offrande pétrie à l'huile et sèche sera pour tous les fils
+        d'Aaron, pour l'un comme pour l'autre.
+      italian: Ogni oblazione impastata con olio o asciutta sarà per tutti i figli di
+        Aronne in misura uguale.
+      old_georgian: და ყოველივე შესაწირავი ქმნილი ზეთითა, გინა უქმნელი ზეთითა,
+        ყოველთავე კაცად-კაცადისა სწორად.
+      portuguese: "Também toda oferta de cereais, seja ela amassada com azeite, ou
+        seja seca, pertencerá a todos os filhos de\rArão, tanto a um como a
+        outro."
+      polish: "Ale każda ofiara pokarmowa zaprawiona oliwą albo sucha będzie należeć
+        do\rwszystkich synów Aarona po równej części."
+      turkish: Zeytinyağıyla yoğrulmuş ya da kuru tahıl sunuları da Harunoğulları'na
+        aittir. Aralarında eşit olarak bölüşülecektir.'»
+      nrt: а любое хлебное приношение, смешанное с маслом или сухое, принадлежит в
+        равных долях всем сыновьям Аарона».
+      Macarius: И всякое приношение хлебное, облитое елеем и сухое, принадлежит всем
+        сынам Аароновым, как одному, так и другому.
+      bulgarian: И всеки хлебен принос, смесен с елей, както и сух, принадлежи на
+        всички синове Ааронови, по равен дял всекиму от тях.
+      deutsch: Und alles Speisopfer, das mit Öl gemengt oder trocken ist, soll aller
+        Kinder Aarons sein, eines wie des andern.
+      ukr2: Однак, усяка офіра, замішана з олією, або суха, буде всім синам Арона, так
+        одному, як і другому.
+      ukr3: І всякий хлїбний дар, змішаний з олїєю або сухий, про всї сини Аронові
+        буде, як про одного так і про другого.
+      bel_syomukha: і ўсякае прынашэньне хлебнае, зьмяшанае з алеем і сухое, належыць
+        усім сынам Ааронавым, як аднаму, так і другому.
+      spbda: И всякое мучное приношение, смешаннре с елеем, и сухое, принадлежит всем
+        сынам Аароновым, как одному, так и другому.
+      lev-khv: И всякое мучное приношение, смешанное с елеем и сухое, принадлежит всем
+        сынам Аароновым, как одному, так и другому.
+      czech: Kazda pridavna obet, zadelana olejem i sucha, patri vsem Aronovcum,
+        jednomu jako druhemu.
+      spanish: Toda ofrenda amasada con aceite o seca será para los hijos de Arón,
+        para todos.
+      greek-lxx: καὶ πᾶσα θυσία ἀναπεποιημένη ἐν ἐλαίῳ καὶ μὴ ἀναπεποιημένη πᾶσι τοῖς
+        υἱοῖς Ααρων ἔσται ἑκάστῳ τὸ ἴσον
+      st_text: и всякое приношение хлебное, смешанное с елеем и сухое, принадлежит
+        всем сынам Аароновым, как одному, так и другому.
+  - id: 23695
+    number: 11
+    bookId: 3
+    text: "Вот закон о жертве мирной, которую приносят Господу:"
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 23584
+        bookId: 3
+        bookCode: levit
+        chapter: 3
+        short: Лев:3:1
+      - verseId: 23585
+        bookId: 3
+        bookCode: levit
+        chapter: 3
+        short: Лев:3:2
+    translates:
+      kassian: ""
+      podstr: Это закон жертвы благодарственной жертвы, которую принесут Господу.
+      csya: "Сей закон жертвы спасения, юже принесут Господу:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Се1й зако1нъ же1ртвы спасе1ніz, ю4же принесyтъ гDу:"
+      sovr_rbo: Вот закон для пиршественной жертвы, которую человек приносит Господу.
+      latin: Haec est lex hostiae pacificorum quae offertur Domino.
+      ukr: А оце закон про мирну жертву, що хтось принесе її Господеві.
+      nkjv: "'This is the law of the sacrifice of peace offerings which he shall offer
+        to the Lord: "
+      desnitsky: ""
+      mt: ‫    וְזֹאת תּוֹרַת זֶבַח הַשְּׁלָמִים אֲשֶׁר יַקְרִיב לַיהוָה׃ ‬
+      romana: "Iar randuiala jertfei de impacare, care se aduce Domnului, este
+        aceasta:"
+      francais: Voici la loi du sacrifice d'actions de grâces, qu'on offrira à l'Éternel.
+      italian: Questa è la legge del sacrificio di comunione, che si offrirà al Signore.
+      old_georgian: ესე არს შჯული შესაწირავისა ცხორებისაჲ, რომელი შეწიროს ღმრთისა.
+      portuguese: "Esta é a lei do sacrifício das ofertas pacíficas que se oferecerá
+        ao Senhor:"
+      polish: "Oto prawo odnoszące się do ofiary biesiadnej, która będzie składana
+        Panu:"
+      turkish: "«`RAB'be sunulacak esenlik kurbanının yasası şudur:"
+      nrt: «Вот правила о жертве примирения, которую можно принести Господу.
+      Macarius: Вот закон о жертве благодарственной, которую приносят Господу.
+      bulgarian: "Този е пък законът за мирната жертва, която се принася Господу:"
+      deutsch: Und dies ist das Gesetz des Dankopfers, das man dem Herrn opfert.
+      ukr2: А ось закон про мирну жертву, що приноситиметься Господеві.
+      ukr3: "А се закон про жертву мирну, що приносять Господеві:"
+      bel_syomukha: "Вось закон пра ахвяру мірную, якую прыносяць Госпаду:"
+      spbda: Вот закон о жертве мирной, которую приносят Господу.
+      lev-khv: "А вот закон о жертве мирной, которую приносят Господу:"
+      czech: "Toto je rad hodu obeti pokojne, ktera se prinasi Hospodinu:"
+      spanish: "He aquí la ley del sacrificio pacífico que se ofrece a Yavé:"
+      greek-lxx: οὗτος ὁ νόμος θυσίας σωτηρίου ἣν προσοίσουσιν Κυρίῳ
+      st_text: "Вот закон о жертве мирной, которую приносят Господу:"
+  - id: 23696
+    number: 12
+    bookId: 3
+    text: если кто в благодарность приносит ее, то при жертве благодарности он
+      должен принести пресные хлебы, смешанные с елеем, и пресные лепешки,
+      помазанные елеем, и пшеничную муку, напитанную <i>елеем</i>, хлебы,
+      смешанные с елеем;
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 23679
+        bookId: 3
+        bookCode: levit
+        chapter: 6
+        short: Лев:6:25
+      - verseId: 23377
+        bookId: 3
+        bookCode: levit
+        chapter: 22
+        short: Лев:22:29
+      - verseId: 6276
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 29
+        short: 2 Пар:29:31
+      - verseId: 9486
+        bookId: 37
+        bookCode: kniga-proroka-amosa
+        chapter: 4
+        short: Ам:4:5
+    translates:
+      kassian: ""
+      podstr: Если ведь с хвалой принесёт её, и [да] принесёт на жертву хвалы хлебы из
+        муки смешанные с маслом, оладьи опресноки обмазанные в масле и муку
+        замешенную с маслом;
+      csya: "аще убо похваления ради принесет ю, и принесет на жертву хваления хлебы
+        от муки пшеничны пряжены в елеи, и опресноки помазаны елеем, и муку
+        пшеничну смешену с елеем:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "ѓще ќбw похвале1ніz рaди принесе1тъ ю5, и3 принесе1тъ на же1ртву
+        хвале1ніz хлёбы t муки2 пшени1чны прsжєны въ є3ле1и, и3 њпрэсно1ки
+        пом†заны є3ле1емъ, и3 мукY пшени1чну смёшену съ є3ле1емъ:"
+      sovr_rbo: Если она приносится в знак благодарности, то благодарственную жертву
+        должно сопровождать приношение пресного хлеба, смоченного оливковым
+        маслом, пресных коржей, промазанных маслом, и лепешек из пшеничной муки,
+        из хорошо замешенного теста, смоченных маслом.
+      latin: "Si pro gratiarum actione oblatio fuerit, offerent panes absque fermento
+        conspersos oleo, et lagana azyma uncta oleo, coctamque similam, et
+        collyridas olei admistione conspersas:"
+      ukr: Якщо принесе її на подяку, то він принесе на жертву подяки прісні калачі,
+        мішані в оливі, і прісні коржі, помазані оливою, і вимішана пшенична
+        мука, калачі, мішані в оливі.
+      nkjv: If he offers it for a thanksgiving, then he shall offer, with the
+        sacrifice of thanksgiving, unleavened cakes mixed with oil, unleavened
+        wafers anointed with oil, or cakes of blended flour mixed with oil.
+      desnitsky: ""
+      mt: ‫    אִם עַל־תּוֹדָה יַקְרִיבֶנּוּ וְהִקְרִיב עַל־זֶבַח הַתּוֹדָה חַלּוֹת
+        מַצּוֹת בְּלוּלֹת בַּשֶּׁמֶן וּרְקִיקֵי מַצּוֹת מְשֻׁחִים בַּשָּׁמֶן
+        וְסֹלֶת מֻרְבֶּכֶת חַלֹּת בְּלוּלֹת בַּשָּׁמֶן׃ ‬
+      romana: Daca se va aduce ca jertfa de multumire, atunci sa se aduca paini
+        framantate cu untdelemn, turte nedospite, unse cu untdelemn, faina de
+        grau, framantata cu untdelemn;
+      francais: Si quelqu'un l'offre par reconnaissance, il offrira, avec le sacrifice
+        d'actions de grâces, des gâteaux sans levain pétris à l'huile, des
+        galettes sans levain arrosées d'huile, et des gâteaux de fleur de farine
+        frite et pétris à l'huile.
+      italian: Se uno l'offre in ringraziamento, offrirà, con il sacrificio di
+        comunione, focacce senza lievito intrise con olio, schiacciate senza
+        lievito unte con olio e fior di farina cotta, in forma di focacce
+        intrise con olio.
+      old_georgian: უკუეთუ ქებისათჳს შესწირვიდე მას და შეწიროს მსხუერპლსა მას ზედა
+        ქებისასა პურნი სამინდოჲსაგან შესუარული ზეთითა და ლელანგოჲ უცომოჲ,
+        ცხებული ზეთითა, და სამიდოჲ აღდგინებული ზეთითა,
+      portuguese: "Se alguém o oferecer por oferta de ação de graças, com o sacrifício
+        de ação de graças oferecerá bolos ázimos\ramassados com azeite, e
+        coscorões ázimos untados com azeite, e bolos amassados com azeite, de
+        flor de farinha,\rbem embebidos."
+      polish: "Jeżeli kto składa ją jako ofiarę dziękczynną, to dołączy do tej ofiary
+        dziękczynnej także i placki przaśne rozczynione oliwą i przaśne
+        podpłomyki; z\rnajczystszej mąki, zaprawionej oliwą, będą przyrządzone
+        placki."
+      turkish: "Eğer\radam sunusunu RAB'be şükretmek için sunuyorsa, sunusunun
+        yanısıra\rzeytinyağıyla yoğrulmuş mayasız pideler, üzerine zeytinyağı
+        sürülmüş mayasız\ryufkalar ve iyice karıştırılmış ince undan yağla
+        yoğrulmuş mayasız pideler de\rsunacak."
+      nrt: Если кто-то приносит ее в знак благодарности, то вместе с этой
+        благодарственной жертвой пусть принесет пресные хлебы, замешенные на
+        масле, пресные коржи, помазанные маслом, и хлебы из лучшей муки, хорошо
+        замешенные на масле.
+      Macarius: Если кто в благодарность приносит ее, то при жертве благодарности он
+        должен принести пресные лепешки, замешенные на елее, и пресные блины,
+        мазанные елеем, и пшеничную муку, напитанную елеем, лепешки, облитые
+        елеем.
+      bulgarian: ако някой я принася от благодарност, то заедно с благодарствената
+        жертва, да принесе безквасни хлябове, месени с елей, и безквасни питки,
+        намазани с елей, и пшенично брашно, напоено с елей, хлябове, месени с
+        елей.
+      deutsch: Wollen sie ein Lobopfer tun, so sollen sie ungesäuerte Kuchen opfern,
+        mit Öl gemengt, oder ungesäuerte Fladen, mit Öl bestrichen, oder
+        geröstete Semmelkuchen, mit Öl gemengt.
+      ukr2: Коли хтось приносить її на подяку, то воднораз із подячною жертвою принесе
+        прісні коржі, замішані на олії, та прісні ладки, помащені олією, і
+        питльовану муку, приправлену олією, спечену на коржі.
+      ukr3: "Коли як подяку приносить її хто, так треба принести з жертвою подячною
+        коржі прісні, замішані на олїї, та ладки прісні, помащені олїєю, і муку
+        пшеничну, замішану на олїї: балабушки политі олїєю."
+      bel_syomukha: калі хто ў падзяку прыносіць яе, дык пры ахвяры падзякі ён павінен
+        прынесьці прэсныя хлябы, зьмяшаныя з алеем, і прэсныя ляпёшкі, памазаныя
+        алеем, і пшанічную муку, насычаную алеем, хлябы, зьмяшаныя з алеем;
+      spbda: Если кто в благодарность приносит ее, то он должен принести при жертве
+        благодарности пироги пресные, смешанные с елеем, и лепешки пресныя,
+        помазанныя елеем, и лучшую муку перемешанную, пироги смешанные с елеем.
+      lev-khv: Если кто в благодарность приносит ее; то он должен принести при жертве
+        благодарности пироги пресные, смешанные с елеем, и лепешки пресныя,
+        помазанныя елеем, и лучшую муку перемешанную, пироги, смешанные с елеем.
+      czech: Jestlize ji nekdo prinese jako projev vdecnosti, at prinese k dekovne
+        obeti nekvasene bochanky zadelane olejem a nekvasene oplatky pomazane
+        olejem. Bochanky budou z bile zasmazene mouky, zadelane olejem.
+      spanish: Si se ofrece en acción de gracias, con la víctima eucarística ofrecerán
+        panes ácimos amasados con aceite, tortas ácimas untadas de aceite,
+        frisuelos de flor de harina amasada con aceite.
+      greek-lxx: ἐὰν μὲν περὶ αἰνέσεως προσφέρῃ αὐτήν καὶ προσοίσει ἐπὶ τῆς θυσίας τῆς
+        αἰνέσεως ἄρτους ἐκ σεμιδάλεως ἀναπεποιημένους ἐν ἐλαίῳ λάγανα ἄζυμα
+        διακεχρισμένα ἐν ἐλαίῳ καὶ σεμίδαλιν πεφυραμένην ἐν ἐλαίῳ
+      st_text: если кто в благодарность приносит ее, то при жертве благодарности он
+        должен принести пресные хлебы, смешанные с елеем, и пресные лепешки,
+        помазанные елеем, и пшеничную муку, напитанную <i>елеем</i>, хлебы,
+        смешанные с елеем;
+  - id: 23697
+    number: 13
+    bookId: 3
+    text: кроме лепешек пусть он приносит в приношение свое квасный хлеб, при мирной
+      жертве благодарной;
+    chapter: 7
+    chapterId: 97
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: кроме хлебов квашеных [да] принесёт дары его сверх жертвы хвалы
+        благодарственной жертвы.
+      csya: "с хлебы квасными да принесет дар свой на жертву хваления спасительнаго:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "съ хлBбы квaсными да принесе1тъ дaръ сво1й на же1ртву хвале1ніz
+        спаси1тельнагw:"
+      sovr_rbo: Это приношение, к которому добавляется хлеб из дрожжевого теста,
+        должно сопровождать благодарственную пиршественную жертву.
+      latin: "panes quoque fermentatos cum hostia gratiarum, quae immolatur pro
+        pacificis:"
+      ukr: Разом із калачами квашеного хліба принесе він жертву свою, при мирній
+        жертві подяки його.
+      nkjv: Besides the cakes, as his offering he shall offer leavened bread with the
+        sacrifice of thanksgiving of his peace offering.
+      desnitsky: ""
+      mt: ‫    עַל־חַלֹּת לֶחֶם חָמֵץ יַקְרִיב קָרְבָּנוֹ עַל־זֶבַח תּוֹדַת שְׁלָמָיו׃
+        ‬
+      romana: Pe langa painile nedospite sa se mai aduca dar la jertfa de multumire si
+        paine dospita.
+      francais: A ces gâteaux il ajoutera du pain levé pour son offrande, avec son
+        sacrifice de reconnaissance et d'actions de grâces.
+      italian: Presenterà anche, come offerta, oltre le dette focacce, focacce di pan
+        lievitato, insieme con il sacrificio di ringraziamento.
+      old_georgian: პურთა თანა ცომოვანთა შეწიროს შესაწირავი იგი მისი მსხუერპლსა მას
+        ზედა ქებისასა. და მოართუას მისგანი თითოჲ ყოვლისა ამისგან შესაწირავისა
+        მისისა ნაყოფად პირველად უფალსა ღმერთსა.
+      portuguese: Com os bolos oferecerá pão levedado como sua oferta, com o
+        sacrifício de ofertas pacíficas por ação de graças.
+      polish: Obok placków z ciasta kwaszonego będzie złożony jego dar poza ofiarą
+        dziękczynną biesiadną.
+      turkish: "RAB'be şükretmek için, esenlik sunusunu mayalı ekmek\rpideleriyle
+        birlikte sunacak."
+      nrt: Пусть вместе с благодарственной жертвой примирения он принесет и хлебы,
+        приготовленные на закваске.
+      Macarius: Кроме лепешек пусть он приносит в приношение свое квасный хлеб, кроме
+        закалаемой жертвы благодарности.
+      bulgarian: При благодарствената мирна жертва, освен питки, нека принася като
+        свой принос квасен хляб.
+      deutsch: Sie sollen aber solches Opfer tun auf Kuchen von gesäuerten Brot mit
+        ihrem Lob-und Dankopfer,
+      ukr2: Разом із заквашеними хлібцями принесе свій дар, разом із своєю подячною
+        мирною жертвою.
+      ukr3: Опріч коржів з квашеного хлїба приносити мусить свій дар, вкупі з своєю
+        жертвою подячною мирною.
+      bel_syomukha: акрамя ляпёшак няхай ён прыносіць у прынашэньне сваё квашаны хлеб,
+        пры мірнай ахвяры падзякі;
+      spbda: Вместе с пирогами из кваснаго хлеба он должен приносить жертву свою при
+        мирной жертве благодарности.
+      lev-khv: Вместе с пирогами из кваснаго хлеба он должен приносить жертву свою,
+        при мирной жертве благодарности.
+      czech: Vedle bochanku prinese kvaseny chleb jako svuj dar ke svemu hodu diku
+        obeti pokojne.
+      spanish: También podrán ofrecerse con la víctima del sacrificio ofrecido en
+        acción de gracias, panes fermentados.
+      greek-lxx: ἐπ᾿ ἄρτοις ζυμίταις προσοίσει τὰ δῶρα αὐτοῦ ἐπὶ θυσίᾳ αἰνέσεως σωτηρίου
+      st_text: кроме лепешек пусть он приносит в приношение свое квасный хлеб, при
+        мирной жертве благодарной;
+  - id: 23698
+    number: 14
+    bookId: 3
+    text: "одно что-нибудь из всего приношения своего пусть принесет он в возношение
+      Господу: это принадлежит священнику, кропящему кровью мирной жертвы;"
+    chapter: 7
+    chapterId: 97
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И [пусть] принесёт один из всех даров его участие Господу; священнику
+        наливающему кровь благодарственной жертвы, ему будет.
+      csya: "и да принесет един от всех даров своих участие Господу: жерцу
+        возливающему кровь жертвы спасения, тому да будет:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 да принесе1тъ є3ди1нъ t всёхъ дарHвъ свои1хъ ўчaстіе гDу: жерцY
+        возливaющему кро1вь же1ртвы спасе1ніz, томY да бyдетъ:"
+      sovr_rbo: По одному хлебу каждого вида берется для подношения Господу; эта доля
+        принадлежит священнику, который совершал окропление кровью пиршественной
+        жертвы.
+      latin: ex quibus unus pro primitiis offeretur Domino, et erit sacerdotis qui
+        fundet hostiae sanguinem,
+      ukr: І принесе він щось одне з кожної жертви, приношення для Господа; це буде
+        священикові, що кропить кров мирної жертви, буде йому.
+      nkjv: And from it he shall offer one cake from each offering as a heave offering
+        to the Lord. It shall belong to the priest who sprinkles the blood of
+        the peace offering.
+      desnitsky: ""
+      mt: ‫    וְהִקְרִיב מִמֶּנּוּ אֶחָד מִכָּל־קָרְבָּן תְּרוּמָה לַיהוָה לַכֹּהֵן
+        הַזֹּרֵק אֶת־דַּם הַשְּׁלָמִים לוֹ יִהְיֶה׃ ‬
+      romana: Unul din toate aceste daruri ale sale sa-l aduca Domnului dar ridicat;
+        acesta va fi al preotului, care stropeste cu sangele jertfei de
+        mantuire.
+      francais: On présentera par élévation à l'Éternel une portion de chaque
+        offrande; elle sera pour le sacrificateur qui a répandu le sang de la
+        victime d'actions de grâces.
+      italian: Di ognuna di queste offerte una parte si presenterà come oblazione
+        prelevata in onore del Signore; essa sarà del sacerdote che ha sparso il
+        sangue della vittima del sacrificio di comunione.
+      old_georgian: მღდელმან მან, რომელმან აპკუროს სისხლი იგი ცხორებისაჲ, მისა იყოს
+        იგი და მსხუერპლი იგი და ჴორცი ქებისა ცხორებისა მისავე იყოს
+      portuguese: "E dele oferecerá um de cada oferta por oferta alçada ao Senhor, o
+        qual pertencerá ao sacerdote que espargir o\rsangue da oferta pacífica."
+      polish: Z każdego rodzaju darów ofiarnych będzie odłączony jeden jako dar
+        szczególny dla Pana. Otrzyma go kapłan, który pokropi krwią ofiary
+        biesiadnej.
+      turkish: "Her sunudan birini RAB'be bağış sunusu\rolarak sunacak ve o sunu
+        esenlik sunusunun kanını sunağa döken kâhinin\rolacak."
+      nrt: Он должен принести по одному хлебу каждого вида в дар Господу. Это
+        принадлежит священнику, который кропит кровью жертв примирения.
+      Macarius: Одну лепешку из всего приношения своего пусть принесет он в возношение
+        Господу; это принадлежит священнику, кропящему кровью благодарственной
+        жертвы.
+      bulgarian: "От всичкия си принос нека принесе едно кое и да е като възношение
+        Господу: това да принадлежи на свещеника, който ръси с кръвта от мирната
+        жертва."
+      deutsch: und sollen einen von den allen dem Herrn zur Hebe opfern, und es soll
+        dem Priester gehören, der das Blut des Dankopfers sprengt.
+      ukr2: З кожної офіри принесе частину як дань Господеві, і вона належатиме
+        священикові, що скроплював кров'ю мирної жертви; йому вона належить.
+      ukr3: І приносити мусить він одно з усього того дару як жертвоприношеннє
+        Господеві; се буде сьвященникові, що бризкає кров мирної жертви, йому
+        воно буде.
+      bel_syomukha: "адно што-небудзь з усяго прынашэньня свайго няхай прынясе ён у
+        парынашэньне Госпаду: гэта належыць сьвятару, які кропіць крывёю мірнай
+        ахвяры;"
+      spbda: "Одно что-нибудь из каждаго приношения своего пусть принесет он в
+        возношение Господу: это принадлежит священнику, кропящему кровию мирной
+        жертвы."
+      lev-khv: "Одно из каждаго приношения своего пусть принесет он в возношение
+        Господу: это принадлежит священнику, кропящему кровию мирной жертвы."
+      czech: Z kazdeho daru prinese po jednom kusu jako obet pozdvihovani pro
+        Hospodina. Patri knezi, ktery kropi krvi z pokojne obeti; je jeho.
+      spanish: De cada una de estas ofrendas se presentará por elevación una pieza,
+        reservada a Yavé, que será del sacerdote que haya hecho la aspersión de
+        la sangre de la víctima pacífica.
+      greek-lxx: καὶ προσάξει ἓν ἀπὸ πάντων τῶν δώρων αὐτοῦ ἀφαίρεμα Κυρίῳ τῷ ἱερεῖ τῷ
+        προσχέοντι τὸ αἷμα τοῦ σωτηρίου αὐτῷ ἔσται
+      st_text: "одно что-нибудь из всего приношения своего пусть принесет он в
+        возношение Господу: это принадлежит священнику, кропящему кровью мирной
+        жертвы;"
+  - id: 23699
+    number: 15
+    bookId: 3
+    text: мясо мирной жертвы благодарности должно съесть в день приношения ее, не
+      должно оставлять от него до утра.
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 23249
+        bookId: 3
+        bookCode: levit
+        chapter: 19
+        short: Лев:19:5
+      - verseId: 23378
+        bookId: 3
+        bookCode: levit
+        chapter: 22
+        short: Лев:22:30
+      - verseId: 1334
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 10
+        short: 1 Кор:10:18
+    translates:
+      kassian: ""
+      podstr: И мясо жертвы хвалы благодарственной жертвы ему будет и в который день
+        даруется, [да] будет съедена; не оставишь от него на утро.
+      csya: "и мяса жертвы хваления спасительнаго тому да будут, и в оньже день
+        принесутся, да снедятся: да не оставят от него на утрие:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 мzсA же1ртвы хвале1ніz спаси1тельнагw томY да бyдутъ, и3 во1ньже
+        де1нь принесyтсz, да снэдsтсz: да не њстaвzтъ t негw2 на ќтріе:"
+      sovr_rbo: Мясо благодарственной пиршественной жертвы должно быть съедено в тот
+        же день — ни одного кусочка нельзя оставлять до утра.
+      latin: cujus carnes eadem comedentur die, nec remanebit ex eis quidquam usque
+        mane.
+      ukr: А м'ясо мирної жертви подяки його буде їджене в дні його жертви, не
+        позоставить із нього нічого до ранку.
+      nkjv: "'The flesh of the sacrifice of his peace offering for thanksgiving shall
+        be eaten the same day it is offered. He shall not leave any of it until
+        morning. "
+      desnitsky: ""
+      mt: ‫    וּבְשַׂר זֶבַח תּוֹדַת שְׁלָמָיו בְּיוֹם קָרְבָּנוֹ יֵאָכֵל
+        לֹא־יַנִּיחַ מִמֶּנּוּ עַד־בֹּקֶר׃ ‬
+      romana: Si carnea jertfei de mantuire, ca dar de multumire, va fi tot a lui,
+        insa sa se manance in ziua aducerii ei si sa nu ramana din ea nimic pe a
+        doua zi.
+      francais: La chair du sacrifice de reconnaissance et d'actions de grâces sera
+        mangée le jour où il est offert; on n'en laissera rien jusqu'au matin.
+      italian: La carne del sacrificio di ringraziamento dovrà mangiarsi il gior no
+        stesso in cui esso viene offerto; non se ne lascerà nulla fino alla
+        mattina.
+      old_georgian: და რომელსა დღესა შეწიროს იგი, შეჭამოს, არა დაუტეონ იგი განთიადმდე.
+      portuguese: "Ora, a carne do sacrifício de ofertas pacíficas por ação de graças
+        se comerá no dia do seu oferecimento; nada se\rdeixará dela até pela
+        manhã."
+      polish: "Mięso dziękczynnych ofiar biesiadnych musi być zjedzone tego samego
+        dnia -\rnie wolno zostawiać z niego nic aż do rana."
+      turkish: "RAB'be şükretmek için sunulan esenlik kurbanının eti,
+        sununun\rsunulduğu gün yenecek, sabaha bırakılmayacak."
+      nrt: Мясо этой благодарственной жертвы примирения нужно съесть в тот же день,
+        когда ее принесли. Его нельзя оставлять до утра.
+      Macarius: Мясо благодарственной жертвы должно съесть в день приношения оной; не
+        должно оставлять его до утра.
+      bulgarian: Месото от благодарствената мирна жертва да се изяде в деня, когато се
+        принася; от него да се не оставя до сутринта.
+      deutsch: Und das Fleisch ihres Lob-und Dankopfers soll desselben Tages gegessen
+        werden, da es geopfert ist, und nichts übriggelassen werden bis an den
+        Morgen.
+      ukr2: М'ясо з подячної мирної жертви треба їсти в день приносин, нічого не
+        залишаючи з нього до ранку.
+      ukr3: І мясиво з жертви подячної, мирної, його треба їсти в день приносин; не
+        зоставить нїчого до ранку з його.
+      bel_syomukha: мяса мірнай ахвяры падзякі трэба зьесьці ў дзень прынашэньня яе,
+        нельга пакідаць зь яе да раніцы.
+      spbda: И мясо мирной жертвы благодарности должно съесть в день приношения ея; не
+        должно оставлять от него до утра.
+      lev-khv: И мясо мирной жертвы благодарности должно съесть в день приношения ея;
+        не должно оставлять от него до утра.
+      czech: Maso jeho hodu diku obeti pokojne se musi jist v den, kdy bylo prineseno;
+        nezustane z neho nic do rana.
+      spanish: La carne de la víctima del sacrificio pacífico eucarístico se comerá el
+        día mismo en que se ofrece, sin dejar nada para el día siguiente.
+      greek-lxx: καὶ τὰ κρέα θυσίας αἰνέσεως σωτηρίου αὐτῷ ἔσται καὶ ἐν ᾗ ἡμέρᾳ
+        δωρεῖται βρωθήσεται οὐ καταλείψουσιν ἀπ᾿ αὐτοῦ εἰς τὸ πρωί
+      st_text: мясо мирной жертвы благодарности должно съесть в день приношения ее, не
+        должно оставлять от него до утра.
+  - id: 23700
+    number: 16
+    bookId: 3
+    text: Если же кто приносит жертву по обету, или от усердия, то жертву его должно
+      есть в день приношения, и на другой день оставшееся от нее есть можно,
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 23250
+        bookId: 3
+        bookCode: levit
+        chapter: 19
+        short: Лев:19:6
+      - verseId: 23369
+        bookId: 3
+        bookCode: levit
+        chapter: 22
+        short: Лев:22:21
+      - verseId: 23378
+        bookId: 3
+        bookCode: levit
+        chapter: 22
+        short: Лев:22:30
+      - verseId: 11413
+        bookId: 4
+        bookCode: cisla
+        chapter: 15
+        short: Чис:15:3
+      - verseId: 11992
+        bookId: 4
+        bookCode: cisla
+        chapter: 30
+        short: Чис:30:3
+      - verseId: 6445
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 35
+        short: 2 Пар:35:8
+      - verseId: 941
+        bookId: 15
+        bookCode: 1a-kniga-ezdry
+        chapter: 3
+        short: 1 Езд:3:5
+    translates:
+      kassian: ""
+      podstr: Если обет, или волеизъявление совершить жертву дар его, [в] который день
+        он принёс жертву его, [да] будет съедена и завтра;
+      csya: "и аще обет будет, или вольный пожрет дар свой, в оньже аще день жертву
+        свою принесет, да снестся, и на утрие:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 ѓще њбётъ бyдетъ, и3ли2 во1льный пожре1тъ дaръ сво1й, во1ньже ѓще
+        де1нь же1ртву свою2 принесе1тъ, да снёстсz, и3 на ќтріе:"
+      sovr_rbo: Принося жертву по обету или добровольную жертву, нужно съедать ее в
+        тот же день, а остаток — на следующий день.
+      latin: "Si voto, vel sponte quispiam obtulerit hostiam, eadem similiter edetur
+        die: sed et si quid in crastinum remanserit, vesci licitum est:"
+      ukr: А якщо жертва його приношення обітниця, або добровільний дар, то вона буде
+        їджена в день принесення ним його жертви, а позостале з неї й назавтра
+        буде їджене.
+      nkjv: But if the sacrifice of his offering is a vow or a voluntary offering, it
+        shall be eaten the same day that he offers his sacrifice; but on the
+        next day the remainder of it also may be eaten;
+      desnitsky: ""
+      mt: ‫    וְאִם־נֶדֶר אוֹ נְדָבָה זֶבַח קָרְבָּנוֹ בְּיוֹם הַקְרִיבוֹ אֶת־זִבְחוֹ
+        יֵאָכֵל וּמִמָּחֳרָת וְהַנּוֹתָר מִמֶּנּוּ יֵאָכֵל׃ ‬
+      romana: Daca insa jertfa ce se aduce este din fagaduinta sau de bunavoie, jertfa
+        lui sa se manance in ziua aducerii si ceea ce va ramane se poate manca a
+        doua zi.
+      francais: Si quelqu'un offre un sacrifice pour l'accomplissement d'un voeu ou
+        comme offrande volontaire, la victime sera mangée le jour où il
+        l'offrira, et ce qui en restera sera mangé le lendemain.
+      italian: Ma se il sacrificio che uno offre è votivo o volontario, la vittima si
+        mangerà il giorno in cui verrà offerta, il resto dovrà esser mangiato il
+        giorno dopo;
+      old_georgian: და უკუეთუ აღთქმით, გინათუ ნეფსით შეწიროს მსხუერპლი მისი, რომელსაცა
+        დღესა შეწიროს მსხუერპლი იგი მისი, შეჭამონ ხვალისაგანცა.
+      portuguese: "Se, porém, o sacrifício da sua oferta for voto, ou oferta
+        voluntária, no dia em que for oferecido se comerá, e no\rdia seguinte se
+        comerá o que dele ficar;"
+      polish: "Jeżeli jednak ma to być ofiara wynikająca ze ślubu albo jako ofiara
+        dobrowolna, to [mięso żertwy] powinno się jeść tego samego dnia, ale
+        resztę z niego\rmożna zjeść następnego dnia."
+      turkish: «`Biri gönülden verilen bir sunu ya da dilediği adağı sunmak istiyorsa,
+        kurbanın eti sununun sunulduğu gün yenecek, artakalırsa ertesi güne
+        bırakılabilecek.
+      nrt: Но если жертва принесена по обету или как добровольное приношение, пусть ее
+        едят в тот день, когда ее принесли, а остаток можно будет есть и на
+        следующий.
+      Macarius: Если же кто приносит жертву по обету, или от усердия, то жертву его
+        должно есть в день приношения; но также и на другой день оставшееся от
+        нее есть можно.
+      bulgarian: Ако ли някой принася жертва по оброк или от усърдие, то жертвата му
+        се яде в деня, когато се принася; останалото от нея може да се яде и на
+        другия ден.
+      deutsch: Ist es aber ein Gelübde oder freiwilliges Opfer, so soll es desselben
+        Tages, da es geopfert ist, gegessen werden; so aber etwas übrigbleibt
+        auf den andern Tag, so soll man's doch essen.
+      ukr2: А якщо чийсь жертво-принос буде обітований або добровільний, то його треба
+        з'їсти в день офірування; другого дня можна ще їсти, що зостанеться;
+      ukr3: А коли приніс його буде обітниця чи добровільна жертва, так того ж дня
+        треба їсти його, а останок треба завтрішнього дня поїсти;
+      bel_syomukha: А калі хто прыносіць ахвяру па абяцаньні альбо ад руплівасьці, дык
+        ахвяру яго трэба есьці ў дзень прынашэньня, і на другі дзень рэшту яе
+        есьці можна,
+      spbda: Если же обетная или добровольная жертва его, то в день приношения жертвы
+        своей он должен есть ее и на другой день оставшееся он нея есть можно.
+      lev-khv: А если жертва его обетная или добровольная жертва; то в день приношения
+        жертвы своей он должен есть ее, и на другой день оставшееся от нея есть
+        можно.
+      czech: Jestlize se dar obetniho hodu tyka slibu nebo dobrovolneho zavazku, bude
+        se jist v den, kdy byl obetni hod prinesen, a pristiho dne se smi jist
+        zbytek.
+      spanish: Si la víctima se ofrece en cumplimiento de un voto, o como ofrenda
+        voluntaria, se comerá el día en que se ofrece,
+      greek-lxx: κἂν εὐχή ἢ ἑκούσιον θυσιάζῃ τὸ δῶρον αὐτοῦ ᾗ ἂν ἡμέρᾳ προσαγάγῃ τὴν
+        θυσίαν αὐτοῦ βρωθήσεται καὶ τῇ αὔριον
+      st_text: Если же кто приносит жертву по обету, или от усердия, то жертву его
+        должно есть в день приношения, и на другой день оставшееся от нее есть
+        можно,
+  - id: 23701
+    number: 17
+    bookId: 3
+    text: а оставшееся от жертвенного мяса к третьему дню должно сжечь на огне;
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 23250
+        bookId: 3
+        bookCode: levit
+        chapter: 19
+        short: Лев:19:6
+    translates:
+      kassian: ""
+      podstr: и оставшееся от мяса жертвы до дня третьего в огне будет сожжено.
+      csya: "и оставшееся от мяс жертвы до дне третияго на огни да сожжется:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 њстaвшеесz t мsсъ же1ртвы до дне2 тре1тіzгw на nгни2 да сожже1тсz:"
+      sovr_rbo: То мясо, что останется на третий день, надо сжечь.
+      latin: quidquid autem tertius invenerit dies, ignis absumet.
+      ukr: А позостале з м'яса кривавої жертви в третім дні буде спалене.
+      nkjv: the remainder of the flesh of the sacrifice on the third day must be
+        burned with fire.
+      desnitsky: ""
+      mt: ‫    וְהַנּוֹתָר מִבְּשַׂר הַזָּבַח בַּיּוֹם הַשְּׁלִישִׁי בָּאֵשׁ
+        יִשָּׂרֵף׃ ‬
+      romana: Iar ceea ce va mai ramane din carnea jertfei pe a treia zi sa se arda cu
+        foc.
+      francais: Ce qui restera de la chair de la victime sera brûlé au feu le
+        troisième jour.
+      italian: ma quel che sarà rimasto della carne del sacrificio fino al terzo
+        giorno, dovrà bruciarsi nel fuoco.
+      old_georgian: შესაწირავისაჲ, რომელი დაშთეს მესამედ დღედმდე, ცეცხლითა დაიწუეს.
+      portuguese: mas o que ainda ficar da carne do sacrifício até o terceiro dia será
+        queimado no fogo.
+      polish: "Jeżeli jednak część z tego mięsa pozostanie jeszcze na trzeci dzień, to
+        będzie\rspalona w ogniu."
+      turkish: Ancak üçüncü güne bırakılan kurban eti yakılacak.
+      nrt: Однако, мясо жертвы, которое останется к третьему дню, нужно сжечь.
+      Macarius: А оставшееся от жертвенного мяса к третьему дню, должно сжечь на огне.
+      bulgarian: А каквото от жертвеното месо остане до третия ден, да се изгори на огъня.
+      deutsch: Aber was vom geopferten Fleisch übrigbleibt am dritten Tage, soll mit
+        Feuer verbrannt werden.
+      ukr2: а що залишиться з жертвенного м'яса на третій день, треба спалити на
+        вогні.
+      ukr3: Що ж останеться з мясива жертви на третїй день, треба спалити на огнї.
+      bel_syomukha: а рэшту ахвярнага мяса да трэцяга дня трэба спаліць на агні;
+      spbda: А оставшееся от мяса жертвы к третьему дню должно сжечь на огне.
+      lev-khv: А оставшееся от мяса жертвы к третьему дню должно сжечь на огне.
+      czech: Zbytek masa z obetniho hodu at je vsak tretiho dne spalen ohnem.
+      spanish: y lo que reste se comerá el día siguiente; pero si algo queda para el
+        tercer día, se quemará.
+      greek-lxx: καὶ τὸ καταλειφθὲν ἀπὸ τῶν κρεῶν τῆς θυσίας ἕως ἡμέρας τρίτης ἐν πυρὶ
+        κατακαυθήσεται
+      st_text: а оставшееся от жертвенного мяса к третьему дню должно сжечь на огне;
+  - id: 23702
+    number: 18
+    bookId: 3
+    text: "если же будут есть мясо мирной жертвы на третий день, то она не будет
+      благоприятна; кто ее принесет, тому ни во что не вменится: это
+      осквернение, и кто будет есть ее, тот понесет на себе грех;"
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 23251
+        bookId: 3
+        bookCode: levit
+        chapter: 19
+        short: Лев:19:7
+    translates:
+      kassian: ""
+      podstr: Если же поев съешь от мяса этого [в] день третий, не будет воспринята
+        ему приносящему её, не будет засчитана ему, мерзость это есть; же душа,
+        которая если съест от него, грех получит.
+      csya: "аще же ядый снест от мяс в день третий, не приимется приносящему ю, ниже
+        вменится ему: осквернение есть: душа же, яже аще снест от них, грех
+        приимет:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "ѓще же kды1й снёстъ t мsсъ въ де1нь тре1тій, не пріи1метсz
+        приносsщему ю5, ниже2 вмэни1тсz є3мY: њскверне1ніе є4сть: душa же, ћже
+        ѓще снёстъ t ни1хъ, грёхъ пріи1метъ:"
+      sovr_rbo: Если мясо пиршественной жертвы едят и на третий день, эта жертва не
+        будет угодна, она не будет засчитана тому, кто ее принес. Это порченое
+        мясо, и кто его ест, на того ляжет вина.
+      latin: "Si quis de carnibus victimae pacificorum die tertio comederit, irrita
+        fiet oblatio, nec proderit offerenti: quin potius quaecumque anima tali
+        se edulio contaminaverit, praevaricationis rea erit."
+      ukr: А якщо справді буде їджене з м'яса мирної жертви його в третім дні, то не
+        буде вподобаний той, хто приносить її, це не буде залічене йому, буде
+        нечисть; а хто їстиме з неї, понесе свій гріх.
+      nkjv: And if any of the flesh of the sacrifice of his peace offering is eaten at
+        all on the third day, it shall not be accepted, nor shall it be imputed
+        to him; it shall be an abomination to him who offers it, and the person
+        who eats of it shall bear guilt.
+      desnitsky: ""
+      mt: ‫    וְאִם הֵאָכֹל יֵאָכֵל מִבְּשַׂר־זֶבַח שְׁלָמָיו בַּיּוֹם הַשְּׁלִישִׁי
+        לֹא יֵרָצֶה הַמַּקְרִיב אֹתוֹ לֹא יֵחָשֵׁב לוֹ פִּגּוּל יִהְיֶה
+        וְהַנֶּפֶשׁ הָאֹכֶלֶת מִמֶּנּוּ עֲוֺנָהּ תִּשָּׂא׃ ‬
+      romana: Daca insa carnea jertfei acesteia o va manca cineva a treia zi, jertfa
+        aceasta nu va fi primita si nu i se va tine in seama, ca este intinare
+        si cel ce o va manca va avea asupra sa pacat.
+      francais: Dans le cas où l'on mangerait de la chair de son sacrifice d'actions
+        de grâces le troisième jour, le sacrifice ne sera point agréé; il n'en
+        sera pas tenu compte à celui qui l'a offert; ce sera une chose infecte,
+        et quiconque en mangera restera chargé de sa faute.
+      italian: Se uno mangia la carne del sacrificio di comunione il terzo giorno,
+        l'offerente non sarà gradito; dell'offerta non gli sarà tenuto conto;
+        sarà un abominio; chi ne avrà mangiato subirà la pena della sua
+        iniquità.
+      old_georgian: უკუეთუ ჭამით ჭამოს დღესა მას მესამესა ჴორცისა მისგანი, არა შეიწირა
+        იგი, რამეთუ შეგინება არს, ხოლო კაცმან, რომელმან ჭამოს მისგანი, ცოდვაჲ
+        მოიღოს თავისა თჳსისა.
+      portuguese: "Se alguma parte da carne do sacrifício da sua oferta pacífica se
+        comer ao terceiro dia, aquele sacrifício não será\raceito, nem será
+        imputado àquele que o tiver oferecido; coisa abominável será, e quem
+        dela comer levará a sua\riniqüidade."
+      polish: "Jeżeli kto zje coś z mięsa ofiary biesiadnej na trzeci dzień, to ta
+        ofiara nie\rbędzie przyjęta, nie będzie ona policzona temu, który ją
+        złożył, bo jest to\rrzecz nieczysta, a ten, który ją spożyje, zaciągnie
+        winę."
+      turkish: Esenlik kurbanının eti üçüncü gün yenirse sunu kabul edilmeyecek,
+        geçerli sayılmayacak. Çünkü et kirlenmiş sayılır ve her yiyen suçunun
+        cezasını çekecektir.
+      nrt: Если мясо жертвы примирения будут есть на третий день, она не будет
+        принята. Она не будет засчитана тому, кто ее принес, потому что она
+        нечиста. Тот, кто будет ее есть, подлежит наказанию.
+      Macarius: Если же будут есть мясо благодарственной жертвы в третий день, то она
+        не будет принята. Кто ее принес, тому ни во что не поставится; это
+        осквернение, и кто будет есть ее, тот понесет на себе грех.
+      bulgarian: "Ако пък ядат месото от мирната жертва на третия ден, тя не ще бъде
+        благоприятна; на оногова, който я принесе, тя няма да се зачете за нищо:
+        това е осквернение, и който яде от нея, ще вземе грях върху си."
+      deutsch: Und wo jemand am dritten Tage wird essen von dem geopferten Fleisch
+        seines Dankopfers, so wird er nicht angenehm sein, der es geopfert hat;
+        es wird ihm auch nicht zugerechnet werden, sondern es wird ein Greuel
+        sein; und welche Seele davon essen wird, die ist einer Missetat
+        schuldig.
+      ukr2: Коли ж би хтось усе таки їв м'ясо з мирної жертви третього дня, то
+        жертвуючий не здобуде собі ласки, жертва зовсім йому не зачислиться,
+        гидотою стане; а той, хто їв, візьме на себе гріх.
+      ukr3: "А коли їсти муть мясиво з жертви мирної на третїй день, не прийметься
+        вона і нї за що поставиться тому, хто принїс її: гидота буде; і душа, що
+        їла її, візьме на себе гріх."
+      bel_syomukha: "а калі будуць есьці мяса мірнай ахвяры на трэці дзень, дык яна ня
+        будзе спрыяльная: хто яе прынясе, таму не залічыцца: гэта апаганьваньне,
+        і хто будзе есьці яе, той прыме на сябе грэх;"
+      spbda: Если же будут есть мясо мирной жертвы в третий день, то она не будет
+        благоугодною. Кто принес ее, тому ни во что не вменится; это —
+        осквернение, и кто будет есть ее, тот понесет на себе грех.
+      lev-khv: "Если же будут есть мясо мирной жертвы в третий день, то она не будет
+        благоугодною. Кто принесет ее, тому ни во что не вменится: это
+        осквернение; и кто будет есть ее, тот понесет на себе грех."
+      czech: Jestlize by se presto jedlo maso z hodu obeti pokojne tretiho dne,
+        nenalezne Hospodin zalibeni v tom, kdo jej prinesl; dar mu nebude
+        pripocten k dobru. Je zavadny a kazdy, kdo by z neho jedl, ponese
+        nasledky sve nepravosti.
+      spanish: Si alguno comiera carne del sacrificio pacífico el día tercero, el
+        sacrificio no será aceptado, no se le computará al que le ofreció, sino
+        que será abominación, y el que así comió contraerá reato.
+      greek-lxx: ἐὰν δὲ φαγὼν φάγῃ ἀπὸ τῶν κρεῶν τῇ ἡμέρᾳ τῇ τρίτῃ οὐ δεχθήσεται αὐτῷ
+        τῷ προσφέροντι αὐτό οὐ λογισθήσεται αὐτῷ μίασμά ἐστιν ἡ δὲ ψυχή ἥτις ἐὰν
+        φάγῃ ἀπ᾿ αὐτοῦ τὴν ἁμαρτίαν λήμψεται
+      st_text: "если же будут есть мясо мирной жертвы на третий день, то она не будет
+        благоприятна; кто ее принесет, тому ни во что не вменится: это
+        осквернение, и кто будет есть ее, тот понесет на себе грех;"
+  - id: 23703
+    number: 19
+    bookId: 3
+    text: мяса сего, если оно прикоснется к чему-либо нечистому, не должно есть, но
+      должно сжечь его на огне; а мясо чистое может есть всякий чистый;
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 402
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 20
+        short: 1 Цар:20:26
+    translates:
+      kassian: ""
+      podstr: И мясо, сколькое если коснулось всякого нечистого, не [да] будет
+        съедено, в огне будет сожжено. Всякий чистый будет есть мясо.
+      csya: "и мяса, яже аще прикоснутся всякому нечисту, да не снедятся, на огни да
+        сожгутся: всяк чистый да снест мяса:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 мzсA, ±же ѓще прико1снутсz всsкому нечи1сту, да не снэдsтсz, на
+        nгни2 да сожгyтсz: всsкъ чи1стый да снёстъ мzсA:"
+      sovr_rbo: Мясо, которое соприкоснулось с чем-либо нечистым, есть нельзя; его
+        нужно сжечь. Только тот, кто чист, может есть мясо.
+      latin: "Caro, quae aliquid tetigerit immundum, non comedetur, sed comburetur
+        igni: qui fuerit mundus, vescetur ex ea."
+      ukr: А те м'ясо, що доторкнеться до чогось нечистого, не буде їджене, на огні
+        буде спалене. А м'ясо чисте кожен чистий буде їсти м'ясо.
+      nkjv: "'The flesh that touches any unclean thing shall not be eaten. It shall be
+        burned with fire. And as for the clean flesh, all who are clean may eat
+        of it. "
+      desnitsky: ""
+      mt: ‫    וְהַבָּשָׂר אֲשֶׁר־יִגַּע בְּכָל־טָמֵא לֹא יֵאָכֵל בָּאֵשׁ יִשָּׂרֵף
+        וְהַבָּשָׂר כָּל־טָהוֹר יֹאכַל בָּשָׂר׃ ‬
+      romana: Carnea care a fost atinsa de ceva necurat sa nu se manance, ci sa se
+        arda cu foc; iar carnea curata sa se manance tot de cel curat.
+      francais: "La chair qui a touché quelque chose d'impur ne sera point mangée:
+        elle sera brûlée au feu."
+      italian: La carne che sarà stata in contatto con qualche cosa di immondo, non si
+        potrà mangiare; sarà bruciata nel fuoco.
+      old_georgian: და ჴორცსა, რომელმან შეახოს ყოვლისა არაწმიდებისასა, არა იჭამოს,
+        ცეცხლითა დაიწონ! ყოველი არაწმიდაჲ ჭამდეს ჴორცსა.
+      portuguese: "A carne que tocar alguma coisa imunda não se comerá; será queimada
+        no fogo; mas da outra carne, qualquer\rque estiver limpo comerá dela;"
+      polish: "Także i mięso, które się zetknęło z czymś nieczystym, nie może być
+        jedzone.\rPowinno być spalone w ogniu. Poza tym każdy, kto jest czysty,
+        może jeść\rmięso."
+      turkish: «`Kirli sayılan herhangi bir şeye dokunan et yenmemeli, yakılmalıdır.
+        Öteki etlere gelince, temiz sayılan bir insan o etlerden yiyebilir.
+      nrt: Мясо, которое прикоснулось к чему-либо нечистому, есть нельзя. Его нужно
+        сжечь. Чистое мясо может есть любой, кто чист.
+      Macarius: Мяса сего, если оно прикоснется к чему-либо нечистому, также не должно
+        есть, но сжечь на огне; мясо сие может есть всякий чистый.
+      bulgarian: Ако това месо се допре до нещо нечисто, да се не яде, а да се изгори
+        на огън; чистото пък месо може да яде всеки чист.
+      deutsch: Und das Fleisch, das von etwas Unreinem berührt wird, soll nicht
+        gegessen, sondern mit Feuer verbrannt werden. Wer reines Leibes ist,
+        soll von dem Fleisch essen.
+      ukr2: Коли якесь м'ясо доторкнеться до чогонебудь нечистого, не можна його їсти,
+        на вогні його треба спалити. А інше м'ясо кожен чистий може їсти.
+      ukr3: Мясива ж того, до котрого доторкнеться що нечистого, не треба їсти, на
+        огнї нехай згорить воно. Що ж до чистого мясива, то кожен чистий може
+        їсти його.
+      bel_syomukha: "мяса ад гэтага, калі яно дакранецца да чаго-небудзь нячыстага,
+        нельга есьці, а трэба спаліць яго на агні, а мяса чыстае можа есьці
+        кожны чысты:"
+      spbda: Мяса сего, если оно прикоснется к чему-нибудь нечистому, не должно есть;
+        на огне должно сжечь его; а мясо чистое может есть всякой чистый.
+      lev-khv: Мяса этого, если оно прикоснется к чему нибудь нечистому, не должно
+        есть, на огне должно сжечь его; а мясо <i>чистое</i> может есть всякий
+        чистый.
+      czech: Ani maso, ktere prislo do styku s necim necistym, nesmi se jist; bude
+        spaleno ohnem. Jine maso muze jist kazdy, kdo je cisty.
+      spanish: La carne que haya tocado una cosa impura no se comerá, se quemará.
+      greek-lxx: καὶ κρέα ὅσα ἂν ἅψηται παντὸς ἀκαθάρτου οὐ βρωθήσεται ἐν πυρὶ
+        κατακαυθήσεται πᾶς καθαρὸς φάγεται κρέα
+      st_text: мяса сего, если оно прикоснется к чему-либо нечистому, не должно есть,
+        но должно сжечь его на огне; а мясо чистое может есть всякий чистый;
+  - id: 23704
+    number: 20
+    bookId: 3
+    text: если же какая душа, имея на себе нечистоту, будет есть мясо мирной жертвы
+      Господней, то истребится душа та из народа своего;
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 9866
+        bookId: 1
+        bookCode: bytie
+        chapter: 17
+        short: Быт:17:14
+    translates:
+      kassian: ""
+      podstr: Же душа, которая если съест от мяса жертвы спасения, которое есть
+        Господа, и нечистота его на нём, погибнет душа та из народа её.
+      csya: "душа же, яже аще снест от мяс жертвы спасения, яже есть Господу, и
+        нечистота его на нем, погибнет душа она от людий своих:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "душa же, ћже ѓще снёстъ t мsсъ же1ртвы спасе1ніz, ћже є4сть гDу, и3
+        нечистотA є3гw2 на не1мъ, поги1бнетъ душA џна t людjй свои1хъ:"
+      sovr_rbo: Кто, будучи нечист, ест мясо пиршественной жертвы, принесенной
+        Господу, тот будет истреблен и отторгнут от народа своего.
+      latin: Anima polluta quae ederit de carnibus hostiae pacificorum, quae oblata
+        est Domino, peribit de populis suis.
+      ukr: А душа, що буде їсти м'ясо з мирної жертви, що вона Господня, а нечисть
+        його на ньому, то буде вона винищена з народу свого.
+      nkjv: But the person who eats the flesh of the sacrifice of the peace offering
+        that belongs to the Lord, while he is unclean, that person shall be cut
+        off from his people.
+      desnitsky: ""
+      mt: ‫    וְהַנֶּפֶשׁ אֲשֶׁר־תֹּאכַל בָּשָׂר מִזֶּבַח הַשְּׁלָמִים אֲשֶׁר לַיהוָה
+        וְטֻמְאָתוֹ עָלָיו וְנִכְרְתָה הַנֶּפֶשׁ הַהִוא מֵעַמֶּיהָ׃ ‬
+      romana: Daca insa vreun om, in stare de necuratie, va manca din carnea jertfei
+        de mantuire, adusa Domnului, acel suflet se va starpi din poporul sau.
+      francais: Tout homme pur peut manger de la chair; mais celui qui, se trouvant en
+        état d'impureté, mangera de la chair du sacrifice d'actions de grâces
+        qui appartient à l'Éternel, celui-là sera retranché de son peuple.
+      italian: Chiunque sarà mondo potrà mangiare la carne del sacrificio di
+        comunione; ma la persona che, immonda, mangerà la carne del sacrificio
+        di comunione offerto al Signore sarà eliminata dal suo popolo.
+      old_georgian: ხოლო კაცმან, რომელმან ჭამოს ჴორცისაგან შესაწირავისა ცხორებისაჲ,
+        რომელ არს ღმრთისა, არაწმიდებაჲ მისი მის ზედაცა იყოს, წარწყმდეს სული იგი
+        ერისაგან თჳსისა.
+      portuguese: "todavia, se alguma pessoa, estando imunda, comer a carne do
+        sacrifício da oferta pacífica, que pertence ao\rSenhor, essa pessoa será
+        extirpada do seu povo."
+      polish: "Jeżeli jednak kto, będąc w stanie nieczystości, będzie jadł mięso z
+        ofiary\rbiesiadnej, która jest dla Pana, będzie wykluczony spośród swego
+        ludu."
+      turkish: Ama biri kirli sayıldığı sürece RAB'be sunulan esenlik kurbanının etini
+        yerse, halkın arasından atılacak.
+      nrt: Но если мясо Господней жертвы примирения будет есть тот, кто нечист, он
+        должен быть исторгнут из своего народа.
+      Macarius: "Если же какая душа, имея на себе нечистоту, будет есть мясо
+        благодарственной жертвы Господней: то истребится душа та из народа
+        своего."
+      bulgarian: Ако ли някой има върху си нечистота и яде от месото на Господнята
+        мирна жертва, той да бъде изтребен из народа си.
+      deutsch: Und welche Seele essen wird von dem Fleisch des Dankopfers, das dem
+        Herrn zugehört, und hat eine Unreinigkeit an sich, die wird ausgerottet
+        werden von ihrem Volk.
+      ukr2: Хто з'їсть м'ясо з мирної жертви, принесеної Господеві, в стані нечистоти,
+        той викоріниться з-поміж людей своїх.
+      ukr3: А душа, що з'їла мясива від жертви мирної, що буде Господеві, і бувши сама
+        нечистою, викорениться душа та зміж людей своїх.
+      bel_syomukha: а калі якая душа, маючы на сабе нячыстасьць, будзе есьці мяса
+        мірнай ахвяры Гасподняй, дык зьнішчыцца душа тая з народу свайго;
+      spbda: "Если же кто, имея на себе нечистоту, будет есть мясо мирной жертвы
+        Господней: то истребится душа та из народа своего."
+      lev-khv: Если же кто, имея на себе нечистоту, будет есть мясо мирной жертвы
+        Господней; то истребится душа та из народа своего.
+      czech: Bude-li vsak nekdo jist maso Hospodinova hodu obeti pokojne a pritom bude
+        necisty, bude vyobcovan ze sveho lidu.
+      spanish: La carne podrá comerla quienquiera que esté puro; pero el que, estando
+        impuro, comiera la carne de la víctima pacífica ofrecida a Yavé, será
+        borrado de su pueblo,
+      greek-lxx: ἡ δὲ ψυχή ἥτις ἐὰν φάγῃ ἀπὸ τῶν κρεῶν τῆς θυσίας τοῦ σωτηρίου ὅ ἐστιν
+        Κυρίου καὶ ἡ ἀκαθαρσία αὐτοῦ ἐπ᾿ αὐτοῦ ἀπολεῖται ἡ ψυχὴ ἐκείνη ἐκ τοῦ
+        λαοῦ αὐτῆς
+      st_text: если же какая душа, имея на себе нечистоту, будет есть мясо мирной
+        жертвы Господней, то истребится душа та из народа своего;
+  - id: 23705
+    number: 21
+    bookId: 3
+    text: и если какая душа, прикоснувшись к чему-нибудь нечистому, к нечистоте
+      человеческой, или к нечистому скоту, или какому-нибудь нечистому гаду,
+      будет есть мясо мирной жертвы Господней, то истребится душа та из народа
+      своего.
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 22965
+        bookId: 3
+        bookCode: levit
+        chapter: 11
+        short: Лев:11:4
+    translates:
+      kassian: ""
+      podstr: И душа, которая если коснулась всякого дела нечистого или от нечистоты
+        человека или четвероногих нечистых или всякой мерзости нечистого и съест
+        от мяса жертвы спасения, которое есть Господа, погибнет душа та из
+        народа её.
+      csya: всякой вещи нечистей, или от нечистоты человечи или от четвероногих
+        нечистых, или всякой мерзости нечистей, и снест от мяс жертвы спасения,
+        яже есть Господня, погибнет душа та от людий своих.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 душA, ћже ѓще прико1снетсz всsкой ве1щи нечи1стэй, и3ли2 t
+        нечистоты2 человBчи и3ли2 t четвероно1гихъ нечи1стыхъ, и3ли2 всsкой
+        ме1рзости нечи1стэй, и3 снёстъ t мsсъ же1ртвы спасе1ніz, ћже є4сть гDнz,
+        поги1бнетъ душA тA t людjй свои1хъ.
+      sovr_rbo: Кто коснется чего-либо нечистого, будь то нечистота человека, или
+        нечистое животное, или нечистая мерзкая тварь, а затем поест мясо
+        пиршественной жертвы, принесенной Господу, тот будет истреблен и
+        отторгнут от народа своего».
+      latin: Et quae tetigerit immunditiam hominis, vel jumenti, sive omnis rei quae
+        polluere potest, et comederit de hujuscemodi carnibus, interibit de
+        populis suis.
+      ukr: А коли хто доторкнеться до чогось нечистого, до нечистоти людської, або до
+        нечистої худоби, або до всього нечистого плазуючого, та проте буде їсти
+        з м'яса мирної жертви, що Господня вона, то буде той винищений із народу
+        свого.
+      nkjv: "Moreover the person who touches any unclean thing, such as human
+        uncleanness, an unclean animal, or any abominable unclean thing, and who
+        eats the flesh of the sacrifice of the peace offering that belongs to
+        the Lord, that person shall be cut off from his people.' \" "
+      desnitsky: ""
+      mt: ‫    וְנֶפֶשׁ כִּי־תִגַּע בְּכָל־טָמֵא בְּטֻמְאַת אָדָם אוֹ בִּבְהֵמָה
+        טְמֵאָה אוֹ בְּכָל־שֶׁקֶץ טָמֵא וְאָכַל מִבְּשַׂר־זֶבַח הַשְּׁלָמִים
+        אֲשֶׁר לַיהוָה וְנִכְרְתָה הַנֶּפֶשׁ הַהִוא מֵעַמֶּיהָ׃ פ ‬
+      romana: Daca vreun om, care s-a atins de ceva necurat, de necuratenie omeneasca,
+        sau de dobitoc necurat, sau de vreo taratoare necurata, va manca din
+        carnea jertfei de izbavire, adusa Domnului, omul acela se va starpi din
+        poporul sau".
+      francais: Et celui qui touchera quelque chose d'impur, une souillure humaine, un
+        animal impur, ou quoi que ce soit d'impur, et qui mangera de la chair du
+        sacrifice d'actions de grâces qui appartient à l'Éternel, celui-là sera
+        retranché de son peuple.
+      italian: "Se uno tocche — rà qualsiasi cosa immonda: un'immondezza umana, un
+        animale immondo o qualsiasi cosa abominevole, immonda, e mangerà la
+        carne d'un sacrificio di comunione offerto al Signore, quel tale sarà
+        eliminato dal suo popolo\"."
+      old_georgian: და კაცი, რომელი შეეხოს საქმესა არაწმიდასა, არაწმიდებითგან
+        კაცისაჲთ, გინა თუ ოთხფერჴთა არაწმიდათა, გინა საძაგელსა, ყოველსა
+        არაწმიდასა და ჭამოს შესაწირავისაგან მის ჴორცისა ცხოვრებისა, რომელ არს
+        უფლისა, წარწყმდეს კაცი იგი ერისაგან თჳსისა.
+      portuguese: "E, se alguma pessoa, tendo tocado alguma coisa imunda, como
+        imundícia de homem, ou gado imundo, ou\rqualquer abominação imunda,
+        comer da carne do sacrifício da oferta pacífica, que pertence ao Senhor,
+        essa\rpessoa será extirpada do seu povo."
+      polish: "Jeżeli kto dotknie jakiejś nieczystości ludzkiej albo nieczystego
+        zwierzęcia,\ralbo jakiegoś nieczystego robactwa, i spożyje coś z mięsa
+        ofiary biesiadnej\rnależącej do Pana, będzie wykluczony spośród swego
+        ludu”."
+      turkish: Ayrıca kirli sayılan herhangi bir şeye, insandan kaynaklanan bir
+        kirliliğe, kirli bir hayvana ya da kirli ve iğrenç bir şeye dokunup da
+        RAB'be sunulan esenlik kurbanının etinden yiyen biri halkın arasından
+        atılacak.'»
+      nrt: Если кто-нибудь прикоснется к нечистому – к человеческой нечистоте, к
+        нечистому животному или любой нечистой твари, а потом станет есть мясо
+        Господней жертвы примирения, он должен быть исторгнут из своего народа».
+      Macarius: "И если какая душа прикоснувшись к чему-нибудь нечистому, к нечистоте
+        человеческой, или к нечистому скоту или какому-нибудь нечистому гаду,
+        будет есть мясо благодарственной жертвы Господней: то истребится душа та
+        из народа своего."
+      bulgarian: И ако някой, след като се е допрял до нещо нечисто, до човешка
+        нечистота, или до нечист добитък, или до някой нечист гад, яде от месото
+        на Господнята мирна жертва, той да бъде изтребен из народа си.
+      deutsch: Und wenn eine Seele etwas Unreines anrührt, es sei ein unreiner Mensch,
+        ein unreines Vieh oder sonst was greulich ist, und vom Fleisch des
+        Dankopfers ißt, das dem Herrn zugehört, die wird ausgerottet werden von
+        ihrem Volk.
+      ukr2: А як хтось доторкнеться до будь-чого нечистого, чи нечистої скотини, або
+        якого нечистого повзуна та й з'їсть м'яса з мирної жертви, принесеної
+        Господеві, той буде викорінений з-поміж людей своїх.»
+      ukr3: І коли душа доторкнеться до чого нечистого, до нечистоти людської, чи до
+        нечистої скотини, чи до нечистої огиди, та й попоїсть мясива з жертви
+        мирної, ся душа викорениться зміж людей своїх.
+      bel_syomukha: а калі якая душа, дакрануўшыся да чаго-небудзь нячыстага, да
+        нячыстасьці чалавечай, альбо да нячыстага быдла, альбо да якога-небудзь
+        нячыстага гада, будзе есьці мяса мірнай ахвяры Гасподняй, дык зьнішчыцца
+        душа тая з народу свайго.
+      spbda: "И если кто прикоснувшись к чему-нибудь нечистому, к нечистоте
+        человеческой, или к нечистому скоту, или какому-нибудь нечистому гаду,
+        будет есть мясо мирной жертвы Господней: то истребится душа та из народа
+        своего."
+      lev-khv: И если кто, прикоснувшись к чему нибудь нечистому, к нечистоте
+        человеческой, или к нечистому скоту, или к какому нибудь нечистому гаду,
+        будет есть мясо мирной жертвы Господней; то истребится душа та из народа
+        своего.
+      czech: Kdyz by se nekdo dotkl cehokoli necisteho, lidske necistoty nebo
+        necisteho zvirete nebo cehokoli necisteho, hodneho opovrzeni, a jedl by
+        z masa Hospodinova hodu obeti pokojne, bude vyobcovan ze sveho lidu.“
+      spanish: y todo aquel que tocare inmundicia de hombre, de animal o de cualquier
+        otra abominación inmunda, y comiera de esta carne, será borrado de su
+        pueblo>>.
+      greek-lxx: καὶ ψυχή ἣ ἂν ἅψηται παντὸς πράγματος ἀκαθάρτου ἢ ἀπὸ ἀκαθαρσίας
+        ἀνθρώπου ἢ τῶν τετραπόδων τῶν ἀκαθάρτων ἢ παντὸς βδελύγματος ἀκαθάρτου
+        καὶ φάγῃ ἀπὸ τῶν κρεῶν τῆς θυσίας τοῦ σωτηρίου ὅ ἐστιν Κυρίου ἀπολεῖται
+        ἡ ψυχὴ ἐκείνη ἐκ τοῦ λαοῦ αὐτῆς
+      st_text: и если какая душа, прикоснувшись к чему-нибудь нечистому, к нечистоте
+        человеческой, или к нечистому скоту, или какому-нибудь нечистому гаду,
+        будет есть мясо мирной жертвы Господней, то истребится душа та из народа
+        своего.
+  - id: 23706
+    number: 22
+    bookId: 3
+    text: "И сказал Господь Моисею, говоря:"
+    chapter: 7
+    chapterId: 97
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "И сказал Господь к Моисею говоря:"
+      csya: "И рече Господь к моисею, глаголя:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 гDь къ мwmсе1ю, гlz:"
+      sovr_rbo: "Господь сказал Моисею:"
+      latin: "Locutusque est Dominus ad Moysen, dicens:"
+      ukr: "І Господь промовляв до Мойсея, говорячи:"
+      nkjv: And the Lord spoke to Moses, saying,
+      desnitsky: ""
+      mt: ‫    וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה לֵּאמֹר׃ ‬
+      romana: "Si a grait Domnul cu Moise si a zis:"
+      francais: "L'Éternel parla à Moïse, et dit:"
+      italian: "Il Signore disse ancora a Mosè:"
+      old_georgian: "და ეტყოდა უფალი მოსეს და ჰრქუა:"
+      portuguese: "Depois disse o Senhor a Moisés:"
+      polish: "Dalej Pan powiedział do Mojżesza:"
+      turkish: "RAB Musa'ya şöyle dedi:"
+      nrt: "Господь сказал Моисею:"
+      Macarius: "И говорил Господь Моисею, и сказал:"
+      bulgarian: "И рече Господ на Моисея, думайки:"
+      deutsch: "Und der Herr redete mit Mose und sprach:"
+      ukr2: "І сказав Господь Мойсеєві:"
+      ukr3: "І рече Господь Мойсейові:"
+      bel_syomukha: "І наказаў Гасподзь Майсею сказаць:"
+      spbda: "И сказал Господь Моисею, говоря:"
+      lev-khv: "И сказал Господь Моисею, говоря:"
+      czech: "Hospodin promluvil k Mojzisovi:"
+      spanish: "Yavé habló a Moisés, diciendo: <<Habla a los hijos de Israel y diles:"
+      greek-lxx: καὶ ἐλάλησεν Κύριος πρὸς Μωυσῆν λέγων
+      st_text: "И сказал Господь Моисею, говоря:"
+  - id: 23707
+    number: 23
+    bookId: 3
+    text: "скажи сынам Израилевым: никакого тука ни из вола, ни из овцы, ни из козла
+      не ешьте."
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 23600
+        bookId: 3
+        bookCode: levit
+        chapter: 3
+        short: Лев:3:17
+    translates:
+      kassian: ""
+      podstr: "Скажи сыновьям Израиля говоря: Весь жир быков и овец и коз не будете
+        есть."
+      csya: "рцы сыном израилевым, глаголя: всякаго тука говяжа и овча и козия да не
+        снесте:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "рцы2 сынHмъ ї}лєвымъ, глаго1лz: всsкагw тyка говsжа и3 џвча и3 ко1зіz
+        да не снёсте:"
+      sovr_rbo: "«Возвести сынам Израилевым: жир коров, овец и коз не ешьте."
+      latin: "Loquere filiis Israel: Adipem ovis, et bovis, et caprae non comedetis."
+      ukr: "Кажи до Ізраїлевих синів, говорячи: жодного лою волового, ані овечого, ані
+        козиного не будете їсти."
+      nkjv: "\"Speak to the children of Israel, saying: 'You shall not eat any fat, of
+        ox or sheep or goat. "
+      desnitsky: ""
+      mt: ‫    דַּבֵּר אֶל־בְּנֵי יִשְׂרָאֵל לֵאמֹר כָּל־חֵלֶב שׁוֹר וְכֶשֶׂב וָעֵז
+        לֹא תֹאכֵלוּ׃ ‬
+      romana: '"Graieste fiilor lui Israel si le zi: Nici un fel de grasime, nici de
+        bou, nici de oaie, nici de tap sa nu mancati.'
+      francais: "Parle aux enfants d'Israël, et dis: Vous ne mangerez point de graisse
+        de boeuf, d'agneau ni de chèvre."
+      italian: '"Parla agli Israeliti e riferisci loro: Non mangerete alcun grasso, né
+        di bue, né di pecora, né di capra.'
+      old_georgian: "ეტყოდე შენ ძეთა ისრაჱლისათა და არქუ: ყოველივე ცმელი ზროხათაჲ და
+        ცხოვართაჲ და თხათაჲ არა ჰჭამოთ!"
+      portuguese: "Fala aos filhos de Israel, dizendo: Nenhuma gordura de boi, nem de
+        carneiro, nem de cabra comereis."
+      polish: "”Powiedz Izraelitom: Nie wolno wam jeść tłuszczu cielców, owiec i kóz!"
+      turkish: «İsrail halkına de ki, `İster sığır, ister koyun ya da keçi yağı olsun,
+        hayvan yağı yemeyeceksiniz.
+      nrt: "– Скажи израильтянам: «Не ешьте жир волов, овец или коз."
+      Macarius: "Скажи сынам Израилевым: никакого тука ни из вола, ни из овцы, ни из
+        козла не ешьте."
+      bulgarian: "кажи на синовете Израилеви: не яжте никаква тлъстина нито от вол,
+        нито от овца, нито от коза."
+      deutsch: "Rede mit den Kindern Israel und sprich: Ihr sollt kein Fett essen von
+        Ochsen, Lämmern und Ziegen."
+      ukr2: "«Промов до синів Ізраїля таке: Ніякого туку з вола, чи з вівці, чи з кози
+        не їстимете."
+      ukr3: "Промов до синів Ізрайлевих і скажи: Нїякого туку товарини, чи з овечок і
+        кіз, не їсти мете."
+      bel_syomukha: скажы сынам Ізраілевым, ніякага тлушчу ні з вала, ні з авечкі, ні
+        з казла ня ежце;
+      spbda: "Скажи сынам Израилевым: никакого тука ни из вола, ни из овцы, ни из
+        козла не ешьте."
+      lev-khv: "Скажи сынам Израилевым так: никакого тука ни из вола, ни из овцы, ни
+        из козла не ешьте."
+      czech: "„Mluv k Izraelcum: Nebudete jist zadny tuk z byka ani z ovce a kozy."
+      spanish: No comeréis sebo de buey, de oveja ni de cabra.
+      greek-lxx: λάλησον τοῖς υἱοῖς Ισραηλ λέγων πᾶν στέαρ βοῶν καὶ προβάτων καὶ αἰγῶν
+        οὐκ ἔδεσθε
+      st_text: "скажи сынам Израилевым: никакого тука ни из вола, ни из овцы, ни из
+        козла не ешьте."
+  - id: 23708
+    number: 24
+    bookId: 3
+    text: Тук из мертвого и тук из растерзанного зверем можно употреблять на всякое
+      дело; а есть не ешьте его;
+    chapter: 7
+    chapterId: 97
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: А жир трупов и растерзанного зверем сделаешь для всякого дела и в пищу
+        не [да] будет съеден.
+      csya: "и тук мертвечинен и звероядный да сотворится на всяко дело, в ядении же
+        да не снестся:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 тyкъ мертвечи1ненъ и3 ѕвэроsдный да сотвори1тсz на всsко дёло, въ
+        kде1ніи же да не снёстсz:"
+      sovr_rbo: Жир животных издохших или растерзанных зверями употребляйте для всяких
+        нужд, но только не в пищу.
+      latin: Adipem cadaveris morticini, et ejus animalis, quod a bestia captum est,
+        habebitis in varios usus.
+      ukr: А лій із падла й лій пошматованого буде вживаний для всякої потреби, але
+        їсти не будете їсти його.
+      nkjv: And the fat of an animal that dies naturally, and the fat of what is torn
+        by wild beasts, may be used in any other way; but you shall by no means
+        eat it.
+      desnitsky: ""
+      mt: ‫    וְחֵלֶב נְבֵלָה וְחֵלֶב טְרֵפָה יֵעָשֶׂה לְכָל־מְלָאכָה וְאָכֹל לֹא
+        תֹאכְלֻהוּ׃ ‬
+      romana: Grasimea de mortaciune si grasimea dobitocului sfasiat de fiara sa se
+        intrebuinteze la orice lucru, iar de mancat sa nu se manance.
+      francais: La graisse d'une bête morte ou déchirée pourra servir à un usage
+        quelconque; mais vous ne la mangerez point.
+      italian: Il grasso di una bestia che è morta naturalmente o il grasso d'una
+        bestia sbranata potrà servire per qualunque altro uso; ma non ne mangere
+        te affatto;
+      old_georgian: და ცმელი მკუდრისაჲ და ნამჴეცავისაჲ არა ემსახუროს ყოველსა საქმესა,
+        ჭამით არა იჭამოს.
+      portuguese: "Todavia pode-se usar a gordura do animal que morre por si mesmo, e
+        a gordura do que é dilacerado por feras,\rpara qualquer outro fim; mas
+        de maneira alguma comereis dela."
+      polish: Wolno się posługiwać dla różnych celów tłuszczem zwierząt padłych lub
+        rozszarpanych, ale nie wolno go jeść.
+      turkish: Kendiliğinden ölen ya da yabanıl hayvanların parçaladığı bir hayvanın
+        yağı başka şeyler için kullanılabilir, ama hiçbir zaman yenmemeli.
+      nrt: Жиром животного, которое пало или было растерзано дикими зверями, можно
+        пользоваться, но есть его нельзя.
+      Macarius: Тук из мертвого и тук из разтерзанного зверем можно употреблять на
+        всякое дело; а есть, не ешьте его.
+      bulgarian: Тлъстина от умряло и тлъстина от разкъсано от звяр може за всякакво
+        нещо да се употребява; а колкото за ядене, не я яжте;
+      deutsch: Aber das Fett vom Aas, und was vom Wild zerrissen ist, macht euch zu
+        allerlei Nutz; aber essen sollt ihr's nicht.
+      ukr2: Тук із стерва й тук з того, що розірве звір, можна вживати до кожної
+        потреби, їсти ж не смієте його.
+      ukr3: Тук із стерва і тук з того, що зьвір роздере, можна вам брати на потріб в
+        усякій роботї, а їсти зовсїм вам не можна.
+      bel_syomukha: "тлушч зь мёртвага і тлушч з разадранага зьверам можна ўжываць на
+        ўсякую справу; а есьці, ня ежце яго:"
+      spbda: Тук из мертваго и тук из растерзаннаго зверем можно употреблять на всякое
+        дело; а есть — не ешьте его.
+      lev-khv: А тук из мертваго и тук из растерзаннаго зверем можно употреблять на
+        всякое дело; но есть, не ешьте его;
+      czech: Tuku zdechleho nebo rozsapaneho zvirete se muze uzivat k ruznemu ucelu,
+        ale jist jej rozhodne nesmite.
+      spanish: Del sebo de un animal muerto o destrozado por una alimaña podréis
+        serviros para cualquier uso, pero de ninguna manera lo comeréis.
+      greek-lxx: καὶ στέαρ θνησιμαίων καὶ θηριάλωτον ποιηθήσεται εἰς πᾶν ἔργον καὶ εἰς
+        βρῶσιν οὐ βρωθήσεται
+      st_text: Тук из мертвого и тук из растерзанного зверем можно употреблять на
+        всякое дело; а есть не ешьте его;
+  - id: 23709
+    number: 25
+    bookId: 3
+    text: ибо, кто будет есть тук из скота, который приносится в жертву Господу,
+      истребится душа та из народа своего;
+    chapter: 7
+    chapterId: 97
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Всякий едящий жир от скота, [из] которых принесёт [из] них приношение
+        Господу, погибнет душа та из народа её.
+      csya: "всяк ядый тук от скотов, от нихже принесет дар Господу, погибнет душа та
+        от людий своих:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "всsкъ kды1й тyкъ t скотHвъ, t ни1хже принесе1тъ дaръ гDу, поги1бнетъ
+        душA тA t людjй свои1хъ:"
+      sovr_rbo: Кто ест жир животных, принесенных в дар Господу, тот будет истреблен и
+        отторгнут от народа своего.
+      latin: Si quis adipem, qui offerri debet in incensum Domini, comederit, peribit
+        de populo suo.
+      ukr: Бо кожен, хто їсть лій із худоби, що з неї приносить огняну жертву для
+        Господа, то душа та, що їсть, буде винищена з народу свого.
+      nkjv: For whoever eats the fat of the animal of which men offer an offering made
+        by fire to the Lord, the person who eats it shall be cut off from his
+        people.
+      desnitsky: ""
+      mt: ‫    כִּי כָּל־אֹכֵל חֵלֶב מִן־הַבְּהֵמָה אֲשֶׁר יַקְרִיב מִמֶּנָּה אִשֶּׁה
+        לַיהוָה וְנִכְרְתָה הַנֶּפֶשׁ הָאֹכֶלֶת מֵעַמֶּיהָ׃ ‬
+      romana: Tot cel ce va manca grasimea dobitocului, care se aduce jertfa mistuita
+        cu foc Domnului, acela sa se starpeasca din poporul sau.
+      francais: Car celui qui mangera de la graisse des animaux dont on offre à
+        l'Éternel des sacrifices consumés par le feu, celui-là sera retranché de
+        son peuple.
+      italian: perché chiunque mangerà il grasso di animali che si possono offrire in
+        sacrificio consumato dal fuoco in onore del Signore, sarà eliminato dal
+        suo popolo.
+      old_georgian: ყოველმან რომელმან ჭამოს ცმელისა ცხოვართაგან, რომელთა შესწირვიდეთ
+        მსხუერპლად ღმრთისა, წარწყმდეს კაცი იგი, რომელმან ჭამოს ერისაგან თჳსისა.
+      portuguese: "Pois quem quer que comer da gordura do animal, do qual se oferecer
+        oferta queimada ao Senhor, sim, a pessoa\rque dela comer será extirpada
+        do seu povo."
+      polish: "Każdy, kto je tłuszcz zwierząt składanych na ofiarę spalaną dla Pana,
+        będzie\rwykluczony spośród swego ludu."
+      turkish: Kim yakılan ve RAB'be sunulan hayvanlardan birinin yağını yerse,
+        halkımın arasından atılacak.
+      nrt: Любой, кто станет есть жир животного, которое приносится в огненную жертву
+        Господу, должен быть исторгнут из своего народа.
+      Macarius: Ибо кто будет есть тук из скота, который приносится в жертву Господу,
+        истребится душа та из народа своего.
+      bulgarian: защото, който яде тлъстина от добитък, принесен в жертва Господу, ще
+        бъде изтребен из народа си.
+      deutsch: Denn wer das Fett ißt von dem Vieh, davon man dem Herrn Opfer bringt,
+        dieselbe Seele soll ausgerottet werde von ihrem Volk.
+      ukr2: Хто їстиме сить із скотини, що її можна принести в огняну жертву
+        Господеві, такого викорінять з-поміж людей своїх.
+      ukr3: Всяка бо душа, що їсть тук із скотини, котру приносять в огняну жертву
+        Господеві, викорениться зміж людей своїх.
+      bel_syomukha: бо хто будзе есьці тлушч з быдла, якое прыносіцца ў ахвяру
+        Госпаду, зьнішчыцца душа тая з народу свайго;
+      spbda: Ибо кто будет есть тук из скота, от котораго приносится жертва Господу,
+        истребится евший из народа своего.
+      lev-khv: Потому что кто будет есть тук из скота, от котораго приносится огненная
+        жертва Господу, истребится евший из народа своего.
+      czech: Kazdy, kdo by jedl tuk z dobytcete, z nehoz prinesl ohnivou obet
+        Hospodinu, bude vyobcovan ze sveho lidu.
+      spanish: Y quienquiera que comiere sebo de animales de los que se ofrecen a Yavé
+        en holocausto, será borrado de su pueblo.
+      greek-lxx: πᾶς ὁ ἔσθων στέαρ ἀπὸ τῶν κτηνῶν ὧν προσάξει αὐτῶν κάρπωμα Κυρίῳ
+        ἀπολεῖται ἡ ψυχὴ ἐκείνη ἀπὸ τοῦ λαοῦ αὐτῆς
+      st_text: ибо, кто будет есть тук из скота, который приносится в жертву Господу,
+        истребится душа та из народа своего;
+  - id: 23710
+    number: 26
+    bookId: 3
+    text: и никакой крови не ешьте во всех жилищах ваших ни из птиц, ни из скота;
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 11166
+        bookId: 1
+        bookCode: bytie
+        chapter: 9
+        short: Быт:9:4
+      - verseId: 23600
+        bookId: 3
+        bookCode: levit
+        chapter: 3
+        short: Лев:3:17
+    translates:
+      kassian: ""
+      podstr: Всякую кровь не будете есть во всём селении вашем от птиц и от скота.
+      csya: "всякия крове да не снесте во всех селениих ваших и от скотов и от птиц:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "всsкіz кро1ве да не снёсте во всёхъ селе1ніихъ вaшихъ и3 t скотHвъ и3
+        t пти1цъ:"
+      sovr_rbo: Где бы вы ни жили, не употребляйте в пищу кровь птиц и животных.
+      latin: Sanguinem quoque omnis animalis non sumetis in cibo, tam de avibus quam
+        de pecoribus.
+      ukr: І жодної крови птаства та худоби не будете їсти по всіх ваших оселях.
+      nkjv: Moreover you shall not eat any blood in any of your dwellings, whether of
+        bird or beast.
+      desnitsky: ""
+      mt: ‫    וְכָל־דָּם לֹא תֹאכְלוּ בְּכֹל מוֹשְׁבֹתֵיכֶם לָעוֹף וְלַבְּהֵמָה׃ ‬
+      romana: Nici un fel de sange sa nu mancati in toate cetatile voastre, nici de
+        pasari, nici de dobitoace.
+      francais: Vous ne mangerez point de sang, ni d'oiseau, ni de bétail, dans tous
+        les lieux où vous habiterez.
+      italian: E non mangerete affatto sangue, né di uccelli né di animali domestici,
+        dovunque abitiate.
+      old_georgian: ყოველი ესე სისხლი არა ჰჭამოთ ყოველსავე სამკჳდრებელსა თქუენსა
+        მფრინველისაჲთგან ვიდრე საცხოვართამდე.
+      portuguese: E nenhum sangue comereis, quer de aves, quer de gado, em qualquer
+        das vossas habitações.
+      polish: "Gdziekolwiek będziecie mieszkać, nie wolno wam spożywać żadnej krwi:
+        ani\rkrwi ptaków, ani krwi bydląt."
+      turkish: Nerede yaşarsanız yaşayın, hiçbir kuşun ya da hayvanın kanını
+        yemeyeceksiniz.
+      nrt: Где бы вы ни жили, не ешьте кровь ни птиц, ни животных.
+      Macarius: И никакой крови не ешьте во всех жилищах ваших ни из птиц, ни из скота.
+      bulgarian: И никаква птича и добича кръв не яжте във всичките си жилища;
+      deutsch: Ihr sollt auch kein Blut essen, weder vom Vieh noch von Vögeln,
+        überall, wo ihr wohnt.
+      ukr2: Ніякої крови, ні крови з птаства, ні з чотироногих не їстимете, де б ви не
+        мешкали.
+      ukr3: І нїякої крові не їсти мете по всїх осадах ваших, чи з птаства чи із
+        скотини.
+      bel_syomukha: і ніякай крыві ня ежце ва ўсіх селішчах вашых ні з птушак, ні з быдла;
+      spbda: И никакой крови не ешьте во всех жилищах ваших ни из птиц, ни из скота.
+      lev-khv: "И никакой крови не ешьте во всех жилищах ваших ни из птиц, ни из скота:"
+      czech: Take nebudete jist zadnou krev, at se usadite kdekoli, ani krev ptactva
+        ani dobytcat.
+      spanish: No comeréis sangre, ni de ave ni de bestia, en ninguno de los lugares
+        en que habitéis.
+      greek-lxx: πᾶν αἷμα οὐκ ἔδεσθε ἐν πάσῃ τῇ κατοικίᾳ ὑμῶν ἀπό τε τῶν πετεινῶν καὶ
+        ἀπὸ τῶν κτηνῶν
+      st_text: и никакой крови не ешьте во всех жилищах ваших ни из птиц, ни из скота;
+  - id: 23711
+    number: 27
+    bookId: 3
+    text: а кто будет есть какую-нибудь кровь, истребится душа та из народа своего.
+    chapter: 7
+    chapterId: 97
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Всякая душа, которая если съест кровь, погибнет душа та из народа её.
+      csya: всяка душа, яже аще снест кровь, погибнет душа та от людий своих.
+      averincev: ""
+      ungerov: ""
+      csya_old: всsка душA, ћже ѓще снёстъ кро1вь, поги1бнетъ душA тA t людjй свои1хъ.
+      sovr_rbo: Кто употребляет в пищу кровь, тот будет истреблен и отторгнут от
+        народа своего».
+      latin: Omnis anima, quae ederit sanguinem, peribit de populis suis.
+      ukr: Кожна душа, що їстиме якубудь кров, то буде винищена душа та з-посеред
+        народу свого.
+      nkjv: "Whoever eats any blood, that person shall be cut off from his people.' \"
+        "
+      desnitsky: ""
+      mt: ‫    כָּל־נֶפֶשׁ אֲשֶׁר־תֹּאכַל כָּל־דָּם וְנִכְרְתָה הַנֶּפֶשׁ הַהִוא
+        מֵעַמֶּיהָ׃ פ ‬
+      romana: Tot cel ce va manca sange, acela se va starpi din poporul sau".
+      francais: Celui qui mangera du sang d'une espèce quelconque, celui-là sera
+        retranché de son peuple.
+      italian: Chiunque man — gerà sangue di qualunque specie sarà eliminato dal suo
+        popolo".
+      old_georgian: ყოველმან კაცმან, რომელმან ჭამოს სისხლი, წარწყმდეს სული იგი
+        ერისაგან თჳსისა.
+      portuguese: Toda pessoa que comer algum sangue será extirpada do seu povo.
+      polish: Ktokolwiek spożywa jakąkolwiek krew, będzie wykluczony spośród swego
+        ludu”.
+      turkish: Kan yiyen herkes halkımın arasından atılacak.'»
+      nrt: Любой, кто будет есть кровь, должен быть исторгнут из своего народа».
+      Macarius: А кто будет есть какую-нибудь кровь, истребится душа та из народа своего.
+      bulgarian: а който яде каква и да е кръв, ще бъде изтребен из народа си.
+      deutsch: Welche Seele würde irgend ein Blut essen, die soll ausgerottet werden
+        von ihrem Volk.
+      ukr2: Кожного, хто їстиме якусь кров, треба викорінити з-поміж людей своїх.»
+      ukr3: Всяка душа, що попоїсть якої крові, тая душа викорениться зміж людей
+        своїх.
+      bel_syomukha: а хто будзе есьці якую-небудзь кроў, зьнішчыцца душа тая з народу свайго.
+      spbda: А кто будет есть какую-нибудь кровь, истребится душа та из народа своего.
+      lev-khv: Кто будет есть какую нибудь кровь, истребится душа та из народа своего.
+      czech: Kdokoli by jedl jakoukoli krev, bude vyobcovan ze sveho lidu.“
+      spanish: El que comiere sangre de cualquier especie, será borrado de su pueblo>>.
+      greek-lxx: πᾶσα ψυχή ἣ ἄν φάγῃ αἷμα ἀπολεῖται ἡ ψυχὴ ἐκείνη ἀπὸ τοῦ λαοῦ αὐτῆς
+      st_text: а кто будет есть какую-нибудь кровь, истребится душа та из народа своего.
+  - id: 23712
+    number: 28
+    bookId: 3
+    text: "И сказал Господь Моисею, говоря:"
+    chapter: 7
+    chapterId: 97
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "И сказал Господь к Моисею говоря:"
+      csya: "И рече Господь к моисею, глаголя:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 гDь къ мwmсе1ю, гlz:"
+      sovr_rbo: "Господь сказал Моисею:"
+      latin: "Locutusque est Dominus ad Moysen, dicens:"
+      ukr: "І Господь промовляв до Мойсея, говорячи:"
+      nkjv: Then the Lord spoke to Moses, saying,
+      desnitsky: ""
+      mt: ‫    וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה לֵּאמֹר׃ ‬
+      romana: "Si a grait Domnul cu Moise si a zis:"
+      francais: "L'Éternel parla à Moïse, et dit:"
+      italian: "Il Signore aggiunse a Mosè:"
+      old_georgian: "და ეტყოდა უფალი მოსეს და ჰრქუა:"
+      portuguese: "Disse mais o Senhor a Moisés:"
+      polish: "Dalej Pan powiedział do Mojżesza: ”Powiedz Izraelitom:"
+      turkish: "RAB Musa'ya şöyle dedi:"
+      nrt: "Господь сказал Моисею:"
+      Macarius: "И говорил Господь Моисею, и сказал:"
+      bulgarian: "Говори още Господ на Моисея, думайки:"
+      deutsch: "Und der Herr redete mit Mose und sprach:"
+      ukr2: "І промовив Господь до Мойсея:"
+      ukr3: "І рече Господь Мойсейові:"
+      bel_syomukha: "І наказаў Гасподзь Майсею сказаць:"
+      spbda: "И сказал Господь Моисею, говоря:"
+      lev-khv: "И сказал Господь Моисею, говоря:"
+      czech: "Hospodin dale mluvil k Mojzisovi:"
+      spanish: "Yavé habló a Moisés, diciendo:"
+      greek-lxx: καὶ ἐλάλησεν Κύριος πρὸς Μωυσῆν λέγων
+      st_text: "И сказал Господь Моисею, говоря:"
+  - id: 23713
+    number: 29
+    bookId: 3
+    text: "скажи сынам Израилевым: кто представляет мирную жертву свою Господу, тот
+      из мирной жертвы часть должен принести в приношение Господу;"
+    chapter: 7
+    chapterId: 97
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "И сыновьям Израиля скажешь говоря: Приносящий жертву спасения Господу
+        [да] принесёт дар его Господу от жертвы спасения."
+      csya: "и сыном израилевым речеши, глаголя: приносяй жертву спасения Господу да
+        принесет дар свой Господу, и от жертвы спасения:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 сынHмъ ї}лєвымъ рече1ши, глаго1лz: приносsй же1ртву спасе1ніz гDу
+        да принесе1тъ дaръ сво1й гDу, и3 t же1ртвы спасе1ніz:"
+      sovr_rbo: "«Возвести сынам Израилевым: приносящий пиршественную жертву Господу
+        пусть часть ее отдает Господу."
+      latin: "Loquere filiis Israel, dicens: Qui offert victimam pacificorum Domino,
+        offerat simul et sacrificium, id est, libamenta ejus."
+      ukr: "Промовляй до Ізраїлевих синів, говорячи: Хто приносить свою мирну жертву
+        до Господа, той принесе своє приношення Господеві з своєї мирної
+        жертви."
+      nkjv: "\"Speak to the children of Israel, saying: 'He who offers the sacrifice
+        of his peace offering to the Lord shall bring his offering to the Lord
+        from the sacrifice of his peace offering. "
+      desnitsky: ""
+      mt: ‫    דַּבֵּר אֶל־בְּנֵי יִשְׂרָאֵל לֵאמֹר הַמַּקְרִיב אֶת־זֶבַח שְׁלָמָיו
+        לַיהוָה יָבִיא אֶת־קָרְבָּנוֹ לַיהוָה מִזֶּבַח שְׁלָמָיו׃ ‬
+      romana: '"Graieste fiilor lui Israel si le zi: Cel ce isi infatiseaza Domnului
+        jertfa sa de mantuire, acela din jertfa sa de mantuire sa aduca o parte
+        prinos Domnului,'
+      francais: "Parle aux enfants d'Israël, et dis: Celui qui offrira à l'Éternel son
+        sacrifice d'actions de grâces apportera son offrande à l'Éternel, prise
+        sur son sacrifice d'actions de grâces."
+      italian: "\"Parla agli Israeliti e di' loro: Chi offrirà al Signore il
+        sacrificio di comunione porterà una offerta al Signore, prelevandola dal
+        sacrificio di comunione."
+      old_georgian: "ეტყოდე შენ ძეთა ისრაჱლისათა და არქუ: რომელი შესწირვიდეს
+        მსხუერპლსა ცხორებისასა ღმრთისა, მოართუის შესაწირავი იგი მისი ღმერთსა
+        მსხუერპლისაგან ცხორებისა."
+      portuguese: "Fala aos filhos de Israel, dizendo: Quem oferecer sacrifício de
+        oferta pacífica ao Senhor trará ao Senhor a\rrespectiva oblação da sua
+        oferta pacífica."
+      polish: "Kto chce złożyć Panu ofiarę biesiadną, przyniesie dar swój Panu,
+        [wzięty] ze\rswej ofiary biesiadnej."
+      turkish: «İsrail halkına de ki, `RAB'be esenlik kurbanı sunmak isteyen biri,
+        esenlik kurbanının bir parçasını RAB'be sunmalı.
+      nrt: "– Скажи израильтянам: «Любой, приносящий Господу жертву примирения, должен
+        принести часть ее в дар Господу."
+      Macarius: "Скажи сынам Израилевым: кто представляет благодарственную жертву свою
+        Господу, тот из благодарственной жертвы часть должен принести в
+        приношение Господу."
+      bulgarian: "кажи на синовете Израилеви: който представя Господу мирната си
+        жертва, да принесе част от мирната жертва като принос Господу;"
+      deutsch: "Rede mit den Kindern Israel und sprich: Wer dem Herrn sein Dankopfer
+        tun will, der soll darbringen, was vom Dankopfer dem Herrn gehört."
+      ukr2: "«Скажи синам Ізраїля таке: Хто приносить Господеві свою мирну жертву,
+        нехай принесе Господеві свій дар, узятий від мирної своєї жертви."
+      ukr3: "Промов до синів Ізрайлевих і скажи: Хто приносить жертву мирну свою,
+        мусить подати Господеві свій дар від жертви мирної своєї."
+      bel_syomukha: "скажы сынам Ізраілевым: хто прыносіць мірную ахвяру сваю Госпаду,
+        той зь мірнай ахвяры частку павінен прынесьці ў прынашэньне Госпаду;"
+      spbda: "Скажи сынам Израилевым: кто представляет мирную жертву свою Господу, тот
+        должен принести сам дар свой Господу из мирной жертвы."
+      lev-khv: "Скажи сынам Израилевым так: кто представляет мирную жертву свою
+        Господу, тот должен принести дар свой Господу из мирной жертвы."
+      czech: "„Mluv k Izraelcum: Kdo pripravuje svuj hod obeti pokojne Hospodinu,
+        prinese Hospodinu dar ze sveho hodu obeti pokojne."
+      spanish: "<<Habla a los hijos de Israel y diles: El que ofreciere a Yavé una
+        víctima pacífica,"
+      greek-lxx: καὶ τοῖς υἱοῖς Ισραηλ λαλήσεις λέγων ὁ προσφέρων θυσίαν σωτηρίου
+        Κυρίῳ οἴσει τὸ δῶρον αὐτοῦ Κυρίῳ ἀπὸ τῆς θυσίας τοῦ σωτηρίου
+      st_text: "скажи сынам Израилевым: кто представляет мирную жертву свою Господу,
+        тот из мирной жертвы часть должен принести в приношение Господу;"
+  - id: 23714
+    number: 30
+    bookId: 3
+    text: "своими руками должен он принести в жертву Господу: тук с грудью должен он
+      принести [и сальник на печени], потрясая грудь пред лицем Господним;"
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 21876
+        bookId: 2
+        bookCode: ishod
+        chapter: 29
+        short: Исх:29:24
+    translates:
+      kassian: ""
+      podstr: Руки его [да] принесут приношения Господу; жир на груди и часть печени,
+        [да] принесёт их так чтобы возложить дар перед Господом.
+      csya: "руце его да принесут принос Господу: тук иже на грудех, и препонку печени
+        да принесет я, якоже возложити дар пред Господа:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "рyцэ є3гw2 да принесyтъ прино1съ гDу: тyкъ и4же на грyдехъ, и3
+        препо1нку пе1чени да принесе1тъ |, ћкоже возложи1ти дaръ пред8 гDа:"
+      sovr_rbo: "Своими руками он должен преподнести Господу свой дар: пусть отдаст
+        жир и грудь животного — чтобы эта грудь была вознесена пред Господом как
+        дар ."
+      latin: "Tenebit manibus adipem hostiae, et pectusculum: cumque ambo oblata
+        Domino consecraverit, tradet sacerdoti,"
+      ukr: Руки його принесуть огняні жертви Господні, лій із грудиною, принесе
+        грудину, щоб колихати її, як колихання перед Господнім лицем.
+      nkjv: His own hands shall bring the offerings made by fire to the Lord. The fat
+        with the breast he shall bring, that the breast may be waved as a wave
+        offering before the Lord.
+      desnitsky: ""
+      mt: ‫    יָדָיו תְּבִיאֶינָה אֵת אִשֵּׁי יְהוָה אֶת־הַחֵלֶב עַל־הֶחָזֶה
+        יְבִיאֶנּוּ אֵת הֶחָזֶה לְהָנִיף אֹתוֹ תְּנוּפָה לִפְנֵי יְהוָה׃ ‬
+      romana: "Si anume: Sa aduca Domnului jertfa cu mainile sale: grasimea de pe
+        pieptul jertfei si seul de pe ficat; sa aduca leganand pieptul jertfei
+        inaintea Domnului."
+      francais: Il apportera de ses propres mains ce qui doit être consumé par le feu
+        devant l'Éternel; il apportera la graisse avec la poitrine, la poitrine
+        pour l'agiter de côté et d'autre devant l'Éternel.
+      italian: "Porterà con le proprie mani ciò che deve essere offerto al Signore con
+        il fuoco: porterà il grasso insieme con il petto, il petto per
+        presentarlo con il rito d'agitazione davanti al Signore."
+      old_georgian: "ჴელითა თჳსითა მოართუას ნაყოფი იგი მისი ღმერთსა: ესე არს, ცმელი
+        მკრდისაჲ და ღჳძლის ყური. მოართვას იგი, რათა დადვას დასადებელად წინაშე
+        ღმრთისა."
+      portuguese: "Com as próprias mãos trará as ofertas queimadas do Senhor; o peito
+        com a gordura trará, para movê-lo por\roferta de movimento perante o
+        Senhor."
+      polish: "Własnoręcznie przyniesie ofiary spalane dla Pana: przyniesie tłuszcz z
+        mostka\ri mostek, aby wykonać nim gest kołysania przed Panem."
+      turkish: RAB için yakılan sunusunu kendi eliyle getirmeli. Hayvanın yağını
+        döşüyle birlikte getirecek ve döş RAB'bin huzurunda sallamalık bir sunu
+        olarak sallanacak.
+      nrt: Пусть он своими руками совершит Господу огненную жертву. Он должен принести
+        жир, вместе с грудиной, и потрясти грудину перед Господом, как
+        приношение потрясания.
+      Macarius: "Своими руками должен он принести в жертву Господу: тук с грудью
+        должен он принести [и перепонку печени], потрясая грудь пред лицем
+        Господним."
+      bulgarian: "с ръцете си да я принесе в жертва Господу: тлъстината заедно с
+        гърдите да принесе (и булото на черния дроб), като полюшва гърдите пред
+        лицето Господне."
+      deutsch: Er soll's aber mit seiner Hand herzubringen zum Opfer des Herrn;
+        nämlich das Fett soll er bringen samt der Brust, daß sie ein Webeopfer
+        werden vor dem Herrn.
+      ukr2: Він нехай подасть власними руками те, що має бути спалене в честь Господа;
+        тук подасть укупі з персами; перса, щоб принести як жертву коливальну
+        перед Господом,
+      ukr3: "Рука його подасть огняну жертву Господеві; тук з погруддєм мусить подати:
+        погруддє, щоб принести його як жертву гойдану перед Господом."
+      bel_syomukha: "сваімі рукамі павінен ён прынесьці ў ахвяру Госпаду: тлушч з
+        грудзінай павінен ён прынесьці ў ахвяру Госпаду: тлушч з грудзінай
+        павінен ён прынесьці, патрасаючы грудзінай перад абліччам Гасподнім;"
+      spbda: "Своими руками должен он принести жертву Господу: тук с грудью должен он
+        принести, чтобы потрясти грудь, как возношение пред лицем Господним."
+      lev-khv: "Своими руками должен он принести огненную жертву Господу: тук с грудью
+        должен он принести, чтобы потрясти грудь, как потрясение пред лицем
+        Господним."
+      czech: "Vlastni rukou prinese ohnive obeti Hospodinu: prinese tuk, ktery je na
+        hrudi, i hrudi, aby je podavanim nabidl Hospodinu jako obet podavani."
+      spanish: traerá él mismo a Yavé el don de su hostia pacífica, tomará con sus
+        manos el sebo de la víctima, y el pecho, balanceando éste ante Yavé;
+      greek-lxx: αἱ χεῖρες αὐτοῦ προσοίσουσιν τὰ καρπώματα Κυρίῳ τὸ στέαρ τὸ ἐπὶ τοῦ
+        στηθυνίου καὶ τὸν λοβὸν τοῦ ἥπατος προσοίσει αὐτὰ ὥστε ἐπιθεῖναι δόμα
+        ἔναντι Κυρίου
+      st_text: "своими руками должен он принести в жертву Господу: тук с грудью должен
+        он принести [и сальник на печени], потрясая грудь пред лицем Господним;"
+  - id: 23715
+    number: 31
+    bookId: 3
+    text: тук сожжет священник на жертвеннике, а грудь принадлежит Аарону и сынам
+      его;
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 12334
+        bookId: 4
+        bookCode: cisla
+        chapter: 6
+        short: Чис:6:20
+      - verseId: 353
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 2
+        short: 1 Цар:2:13
+    translates:
+      kassian: ""
+      podstr: И вознесёт священник жир на жертвеннике, и будет грудь Аарону и сыновьям
+        его.
+      csya: и да вознесет жрец тук иже на грудех, на олтарь, и груди да будут аарону и
+        сыном его,
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 да вознесе1тъ жре1цъ тyкъ и4же на грyдехъ, на nлтaрь, и3 гр{ди да
+        бyдутъ ґарHну и3 сынHмъ є3гw2,
+      sovr_rbo: Пусть священник сожжет жир на жертвеннике, а грудь жертвы принадлежит
+        Аарону и его потомкам.
+      latin: qui adolebit adipem super altare, pectusculum autem erit Aaron et
+        filiorum ejus.
+      ukr: І священик спалить той лій на жертівнику. А та грудина буде Ааронові та
+        синам його.
+      nkjv: "And the priest shall burn the fat on the altar, but the breast shall be
+        Aaron's and his sons'. "
+      desnitsky: ""
+      mt: ‫    וְהִקְטִיר הַכֹּהֵן אֶת־הַחֵלֶב הַמִּזְבֵּחָה וְהָיָה הֶחָזֶה לְאַהֲרֹן
+        וּלְבָנָיו׃ ‬
+      romana: Grasimea s-o arda preotul pe jertfelnic, iar pieptul va fi al lui Aaron
+        si al fiilor lui.
+      francais: Le sacrificateur brûlera la graisse sur l'autel, et la poitrine sera
+        pour Aaron et pour ses fils.
+      italian: Il sacerdote bru — cerà il grasso sopra l'altare; il petto sarà di
+        Aronne e dei suoi figli.
+      old_georgian: და შეწიროს მღდელმან ცმელი იგი საკურთხეველსა ზედა და მკერდი იგი
+        იყოს აჰრონისა და ძეთა მისთა.
+      portuguese: E o sacerdote queimará a gordura sobre o altar, mas o peito
+        pertencerá a Arão e a seus filhos.
+      polish: "Potem na ołtarzu kapłan tłuszcz zamieni w dym, a mostek będzie dla
+        Aarona\ri jego synów."
+      turkish: Kâhin yağı sunağın üzerinde yakacak, ama döş Harun'la oğullarının olacak.
+      nrt: Жир священник сожжет на жертвеннике, а грудина достанется Аарону и его
+        сыновьям.
+      Macarius: Тук сожжет священник на жертвеннике, а грудь принадлежит Аарону и
+        сынам его.
+      bulgarian: Свещеникът да изгори тлъстината върху жертвеника, а гърдите
+        принадлежат на Аарона и на синовете му.
+      deutsch: Und der Priester soll das Fett anzünden auf dem Altar, aber die Brust
+        soll Aarons und seiner Söhne sein.
+      ukr2: а сить священик воскурить на жертовнику; перса ж будуть Аронові й синам
+        його.
+      ukr3: І воскурить сьвященник тук на жертівнику, а погруддє буде Аронові й синам
+        його.
+      bel_syomukha: тлушч спаліць сьвятар на ахвярніку, а грудзіна належыць Аарону і
+        сынам ягоным;
+      spbda: И сожжет священник тук на жертвеннике, а грудь принадлежит Аарону и сынам
+        его.
+      lev-khv: И сожжет священник тук на жертвеннике; а грудь принадлежит Аарону и
+        сынам его.
+      czech: Knez obrati tuk na oltari v obetni dym. Hrudi pak pripadne Aronovi a jeho
+        synum.
+      spanish: el sacerdote quemará el sebo ante el altar, y el pecho será para Arón y
+        sus hijos.
+      greek-lxx: καὶ ἀνοίσει ὁ ἱερεὺς τὸ στέαρ ἐπὶ τοῦ θυσιαστηρίου καὶ ἔσται τὸ
+        στηθύνιον Ααρων καὶ τοῖς υἱοῖς αὐτοῦ
+      st_text: тук сожжет священник на жертвеннике, а грудь принадлежит Аарону и сынам
+        его;
+  - id: 23716
+    number: 32
+    bookId: 3
+    text: "и правое плечо, как возношение, из мирных жертв ваших отдавайте
+      священнику:"
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 21935
+        bookId: 2
+        bookCode: ishod
+        chapter: 30
+        short: Исх:30:15
+    translates:
+      kassian: ""
+      podstr: И плечо правое дадите участие священнику от жертв спасения ваших;
+      csya: "и рамо десное да дастся участие жерцу от жертв спасения вашего:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 рaмо десно1е да дaстсz ўчaстіе жерцY t же1ртвъ спасе1ніz вaшегw:"
+      sovr_rbo: Правое бедро ваших пиршественных жертв отдавайте священнику как
+        подношение.
+      latin: Armus quoque dexter de pacificorum hostiis cedet in primitias sacerdotis.
+      ukr: А праве стегно з мирних жертов ваших дасте священикові, як приношення.
+      nkjv: Also the right thigh you shall give to the priest as a heave offering from
+        the sacrifices of your peace offerings.
+      desnitsky: ""
+      mt: ‫    וְאֵת שׁוֹק הַיָּמִין תִּתְּנוּ תְרוּמָה לַכֹּהֵן מִזִּבְחֵי
+        שַׁלְמֵיכֶם׃ ‬
+      romana: Si spata dreapta din jertfele de izbavire ce aduceti sa o dati preotului.
+      francais: Dans vos sacrifices d'actions de grâces, vous donnerez au
+        sacrificateur l'épaule droite, en la présentant par élévation.
+      italian: Darete anche in tributo al sacerdote la coscia destra dei vostri
+        sacrifici di comunione.
+      old_georgian: და მჴარი იგი მარჯუენე მისცეთ შესაწირავისათჳს მღდელსა მას
+        შესაწირავთაგან ცხორებისა თქუენისათა.
+      portuguese: E dos sacrifícios das vossas ofertas pacíficas, dareis a coxa
+        direita ao sacerdote por oferta alçada.
+      polish: Także i prawą łopatkę oddacie kapłanowi, jako część kapłańską z ofiar
+        biesiadnych.
+      turkish: Esenlik kurbanlarınızın sağ budunu bağış olarak kâhine vereceksiniz.
+      nrt: Отдавайте правое бедро ваших жертв примирения в дар священнику.
+      Macarius: И правое плечо, как возношение, из благодарственных жертв ваших
+        отдавайте священнику.
+      bulgarian: И дясната плешка от вашите мирни жертви, като възношение, давайте на
+        свещеника.
+      deutsch: Und die rechte Schulter sollen sie dem Priester geben zur Hebe von
+        ihren Dankopfern.
+      ukr2: Праву лопатку теж священикові здасте - як данину з ваших мирних жертв.
+      ukr3: А лопатку праву вашої жертви мирної оддавати мете як дар гойданий
+        сьвященникові.
+      bel_syomukha: "і правы плячук, як паднашэньне, зь мірных ахвяраў вашых аддавайце
+        сьвятару:"
+      spbda: И правое бедро, как возношение из мирных жертв ваших отдавайте
+        священнику.
+      lev-khv: И правое бедро, как возношение, из мирных жертв ваших отдавайте
+        священнику.
+      czech: Pravou kytu date knezi jako obet pozdvihovani ze svych hodu obeti
+        pokojne.
+      spanish: Daréis también al sacerdote la pierna derecha como ofrenda reservada de
+        vuestras hostias pacíficas.
+      greek-lxx: καὶ τὸν βραχίονα τὸν δεξιὸν δώσετε ἀφαίρεμα τῷ ἱερεῖ ἀπὸ τῶν θυσιῶν
+        τοῦ σωτηρίου ὑμῶν
+      st_text: "и правое плечо, как возношение, из мирных жертв ваших отдавайте
+        священнику:"
+  - id: 23717
+    number: 33
+    bookId: 3
+    text: кто из сынов Аароновых приносит кровь из мирной жертвы и тук, тому и
+      правое плечо на долю;
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 23751
+        bookId: 3
+        bookCode: levit
+        chapter: 8
+        short: Лев:8:29
+    translates:
+      kassian: ""
+      podstr: приносящему кровь благодарственной жертвы и жир из сыновей Аарона, ему
+        будет плечо правое в часть.
+      csya: "приносящему кровь спасения и тук от сынов аароновых, тому да будет рамо
+        десное во участие:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "приносsщему кро1вь спасе1ніz и3 тyкъ t сынHвъ ґарHновыхъ, томY да
+        бyдетъ рaмо десно1е во ўчaстіе:"
+      sovr_rbo: Правое бедро — доля того из потомков Аарона, кто возлагает на
+        жертвенник кровь и жир пиршественной жертвы.
+      latin: Qui obtulerit sanguinem et adipem filiorum Aaron, ipse habebit et armum
+        dextrum in portione sua.
+      ukr: Хто з Ааронових синів приносить кров мирних жертов та лій, йому буде на
+        пайку праве стегно.
+      nkjv: He among the sons of Aaron, who offers the blood of the peace offering and
+        the fat, shall have the right thigh for his part.
+      desnitsky: ""
+      mt: ‫    הַמַּקְרִיב אֶת־דַּם הַשְּׁלָמִים וְאֶת־הַחֵלֶב מִבְּנֵי אַהֲרֹן לוֹ
+        תִהְיֶה שׁוֹק הַיָּמִין לְמָנָה׃ ‬
+      romana: Spata dreapta va fi partea aceluia din fiii lui Aaron, care va aduce pe
+        jertfelnic sangele si grasimea jertfei de izbavire;
+      francais: Celui des fils d'Aaron qui offrira le sang et la graisse du sacrifice
+        d'actions de grâces aura l'épaule droite pour sa part.
+      italian: Essa spetterà, come sua parte, al figlio di Aronne che avrà offerto il
+        sangue e il grasso dei sacrifici di comunione.
+      old_georgian: რომელი შესწირვიდეს სისხლსა მას ცხორებისასა და ცმელსა, ძეთაგანი
+        აჰრონისთაჲ, მისა იყოს მჴარი იგი მარჯუენე ნაწილად.
+      portuguese: "Aquele dentre os filhos de Arão que oferecer o sangue da oferta
+        pacífica, e a gordura, esse terá a coxa direita\rpor sua porção;"
+      polish: Ten spośród synów Aarona, który składa w ofierze krew i tłuszcz ofiar
+        biesiadnych, otrzyma jako swoją część prawą łopatkę.
+      turkish: Harunoğulları arasında esenlik sunusunun kanını ve yağını kim
+        sunuyorsa, sağ but onun payı olacak.
+      nrt: Долей сына Аарона, который приносит кровь и жир жертвы примирения, будет
+        правое бедро.
+      Macarius: Кто из сынов Аароновых приносит кровь из благодарственной жертвы и
+        тук, тому и правое плечо на долю.
+      bulgarian: Който от синовете Ааронови принася кръвта от мирната жертва и
+        тлъстината, нему и принадлежи като дял дясната плешка.
+      deutsch: Und welcher unter Aarons Söhnen das Blut der Dankopfer opfert und das
+        Fett, des soll die rechte Schulter sein zu seinem Teil.
+      ukr2: Вона буде як пайка тому з-поміж Аронових синів, хто принесе кров і сить
+        мирної жертви.
+      ukr3: Которий зміж синів Аронових приносить кров із мирної жертви і тук, тому
+        буде лопатка права як пай.
+      bel_syomukha: хто з сыноў Ааронавых прыносіць кроў зь мірнай ахвяры і тлушч,
+        таму і правая лапатка на долю;
+      spbda: Кто из сынов Аароновых приносит кровь из мирной жертвы и тук, тому и
+        правое бедро на долю.
+      lev-khv: Кто из сынов Аароновых приносит кровь из мирной жертвы и тук, тому и
+        правое бедро на долю;
+      czech: Tomu z Aronovcu, kdo prinese z pokojnych obeti krev a tuk, bude prava
+        kyta patrit jako podil.
+      spanish: La pierna será del sacerdote que ofrezca la sangre y el sebo,
+      greek-lxx: ὁ προσφέρων τὸ αἷμα τοῦ σωτηρίου καὶ τὸ στέαρ ἀπὸ τῶν υἱῶν Ααρων αὐτῷ
+        ἔσται ὁ βραχίων ὁ δεξιὸς ἐν μερίδι
+      st_text: кто из сынов Аароновых приносит кровь из мирной жертвы и тук, тому и
+        правое плечо на долю;
+  - id: 23718
+    number: 34
+    bookId: 3
+    text: ибо Я беру от сынов Израилевых из мирных жертв их грудь потрясания и плечо
+      возношения, и отдаю их Аарону священнику и сынам его в вечный участок от
+      сынов Израилевых.
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 21869
+        bookId: 2
+        bookCode: ishod
+        chapter: 29
+        short: Исх:29:17
+      - verseId: 11525
+        bookId: 4
+        bookCode: cisla
+        chapter: 18
+        short: Чис:18:11
+      - verseId: 11532
+        bookId: 4
+        bookCode: cisla
+        chapter: 18
+        short: Чис:18:18
+      - verseId: 354
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 2
+        short: 1 Цар:2:14
+      - verseId: 368
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 2
+        short: 1 Цар:2:28
+      - verseId: 1708
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 9
+        short: 1 Кор:9:13
+    translates:
+      kassian: ""
+      podstr: Ведь грудь возложения и плечо участия получил у сыновей Израиля из жертв
+        спасения ваших и Я дал их Аарону священнику и сыновьям его установление
+        вечное у сыновей Израиля.
+      csya: грудь бо возложения и рамо участия взях от сынов израилевых от жертв
+        спасения вашего, и дах я аарону жерцу и сыном его, законно вечно от
+        сынов израилевых.
+      averincev: ""
+      ungerov: ""
+      csya_old: грyдь бо возложе1ніz и3 рaмо ўчaстіz взsхъ t сынHвъ ї}левыхъ t же1ртвъ
+        спасе1ніz вaшегw, и3 дaхъ | ґарHну жерцY и3 сынHмъ є3гw2, зако1ннw вёчнw
+        t сынHвъ ї}левыхъ.
+      sovr_rbo: Ибо Я беру у сынов Израилевых, из их пиршественных жертв, грудь
+        жертвы, возносимую как дар, и бедро, подносимое в дар, и отдаю их
+        Аарону-священнику и его потомкам. Это доля, которая причитается им
+        вовеки от сынов Израилевых».
+      latin: Pectusculum enim elevationis, et armum separationis, tuli a filiis Israel
+        de hostiis eorum pacificis, et dedi Aaron sacerdoti, et filiis ejus,
+        lege perpetua, ab omni populo Israel.
+      ukr: Бо Я взяв від Ізраїлевих синів грудину колихання й стегно приношення з
+        мирних жертов їхніх, та й дав їх священикові Ааронові й синам його на
+        вічну постанову від Ізраїлевих синів.
+      nkjv: "For the breast of the wave offering and the thigh of the heave offering I
+        have taken from the children of Israel, from the sacrifices of their
+        peace offerings, and I have given them to Aaron the priest and to his
+        sons from the children of Israel by a statute forever.' \" "
+      desnitsky: ""
+      mt: ‫    כִּי אֶת־חֲזֵה הַתְּנוּפָה וְאֵת שׁוֹק הַתְּרוּמָה לָקַחְתִּי מֵאֵת
+        בְּנֵי־יִשְׂרָאֵל מִזִּבְחֵי שַׁלְמֵיהֶם וָאֶתֵּן אֹתָם לְאַהֲרֹן
+        הַכֹּהֵן וּלְבָנָיו לְחָק־עוֹלָם מֵאֵת בְּנֵי יִשְׂרָאֵל׃ ‬
+      romana: Caci Eu voi lua de la fiii lui Israel, din jertfele lor de izbavire,
+        pieptul leganat si spata dreapta si le voi da lui Aaron preotul si
+        fiilor lui ca venit vesnic de la fiii lui Israel.
+      francais: Car je prends sur les sacrifices d'actions de grâces offerts par les
+        enfants d'Israël la poitrine qu'on agitera de côté et d'autre et
+        l'épaule qu'on présentera par élévation, et je les donne au
+        sacrificateur Aaron et à ses fils, par une loi perpétuelle
+        qu'observeront les enfants d'Israël.
+      italian: Poiché, dai sacrifici di comunione offerti dagli Israeliti, io mi
+        riservo il petto della vittima offerta con l'agitazione di rito e la
+        coscia della vittima offerta con l'elevazione di rito e li dò al
+        sacerdote Aronne e ai suoi figli per legge perenne, che gli Israeliti
+        osserveranno.
+      old_georgian: რამეთუ მკერდი იგი დაგებისაჲ და მჴარი იგი შესაწირავისაჲ მოვიღე
+        ძეთაგან ისრაჱლისათა მსხუერპლთაგან ცხორებისა თქუენისათა და მივეც იგი
+        აჰრონს და ძეთა მისთა შჯულად საუკუნედ ძეთაგან ისრაჱლისათა.
+      portuguese: "porque o peito movido e a coxa alçada tenho tomado dos filhos de
+        Israel, dos sacrifícios das suas ofertas\rpacíficas, e os tenho dado a
+        Arão, o sacerdote, e a seus filhos, como sua porção, para sempre, da
+        parte dos filhos\rde Israel."
+      polish: "Bo mostek kołysania i łopatkę podniesienia biorę od Izraelitów z ich
+        ofiar\rbiesiadnych i daję je Aaronowi kapłanowi i jego synom, jako
+        należność wieczystą od Izraelitów”."
+      turkish: "İsrail halkının sunduğu\resenlik kurbanlarından sallamalık döşü ve
+        bağış olarak sunulan budu aldım. İsrail halkının payı olarak bunları
+        sonsuza dek Kâhin Harun'la oğullarına verdim.'»"
+      nrt: Из жертв примирения, которые приносят израильтяне, Я взял грудину
+        потрясания и бедро возношения, и отдал их священнику Аарону и его
+        сыновьям как их постоянную долю от приношений израильтян».
+      Macarius: Ибо Я беру от сынов Израилевых из благодарственных жертв их грудь
+        потрясания и плечо возношения, и отдаю их Аарону священнику и сынам его
+        в вечный участок от сынов Израилевых.
+      bulgarian: Защото Аз вземам от синовете Израилеви измежду мирните им жертви
+        полюлените гърди и плешката на възношението и ги давам на свещеник
+        Аарона и на синовете му за вечен дял от синовете Израилеви.
+      deutsch: Denn die Webebrust und die Hebeschulter habe ich genommen von den
+        Kindern Israel von ihren Dankopfern und habe sie dem Priester Aaron und
+        seinen Söhnen gegeben zum ewigen Recht.
+      ukr2: Я бо застерігаю собі в синів Ізраїлевих від мирних їхніх жертв груднину
+        коливальної жертви й лопатку жертви возношення та й віддаю їх Аронові,
+        священикові й синам його як вічне їхнє право від синів Ізраїля.»
+      ukr3: Погруддє бо гойданої жертви і лопатку жертвоприношення взяв я у синів
+        Ізрайлевих від мирних жертов їх, та й оддав їх Аронові сьвященникові і
+        синам його як вічну пайку їх від синів Ізрайлевих.
+      bel_syomukha: бо Я бяру ад сыноў Ізраілевых зь мірных ахвяраў іхніх грудзіну
+        патрасаньня і плячук паднашэньня, і аддаю іх Аарону сьвятару і сынам
+        ягоным як вечную дзялянку ад сыноў Ізраілевых.
+      spbda: Ибо грудь потрясения и бедро возношения Я беру от сынов Израилевых из
+        мирных жертв их, и отдаю их Аарону священнику и сынам его в вечный
+        участок от сынов Израилевых.
+      lev-khv: Потому что грудь потрясения и бедро возношения Я взял от сынов
+        Израилевых из мирных жертв их, и отдал их Аарону, священнику, и сынам
+        его в вечный участок от сынов Израилевых.
+      czech: Hrudi z obeti podavani a kytu z obeti pozdvihovani jsem totiz Izraelcum
+        odebral z jejich hodu obeti pokojne a davam je knezi Aronovi a jeho
+        synum. Budou je dostavat od Izraelcu podle provzdy platneho narizeni.
+      spanish: pues yo me he reservado de las víctimas pacíficas de los hijos de
+        Israel el pecho del balanceo y la pierna de separación de las hostias
+        pacíficas de los hijos de Israel y se los he dado a Arón y a sus hijos,
+        como ley perpetua para los hijos de Israel.
+      greek-lxx: τὸ γὰρ στηθύνιον τοῦ ἐπιθέματος καὶ τὸν βραχίονα τοῦ ἀφαιρέματος
+        εἴληφα παρὰ τῶν υἱῶν Ισραηλ ἀπὸ τῶν θυσιῶν τοῦ σωτηρίου ὑμῶν καὶ ἔδωκα
+        αὐτὰ Ααρων τῷ ἱερεῖ καὶ τοῖς υἱοῖς αὐτοῦ νόμιμον αἰώνιον παρὰ τῶν υἱῶν
+        Ισραηλ
+      st_text: ибо Я беру от сынов Израилевых из мирных жертв их грудь потрясания и
+        плечо возношения, и отдаю их Аарону священнику и сынам его в вечный
+        участок от сынов Израилевых.
+  - id: 23719
+    number: 35
+    bookId: 3
+    text: Вот участок Аарону и участок сынам его из жертв Господних со дня, когда
+      они предстанут пред Господа для священнодействия,
+    chapter: 7
+    chapterId: 97
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Это помазание Аарона и помазание сыновей его из приношений Господа в
+        который день приближу их священнодействовать Господу,
+      csya: "Сие помазание аароне и помазание сынов его от приносов Господних, в оньже
+        день приведе я жрети Господу:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Сіе2 помaзаніе ґарHне и3 помaзаніе сынHвъ є3гw2 t прино1сwвъ гDнихъ,
+        во1ньже де1нь приведе2 | жре1ти гDу:"
+      sovr_rbo: Такое вознаграждение получают Аарон и его сыновья со дня своего
+        посвящения в священники Господа — из даров, приносимых Господу.
+      latin: Haec est unctio Aaron et filiorum ejus in caeremoniis Domini die qua
+        obtulit eos Moyses, ut sacerdotio fungerentur,
+      ukr: Оце частка з помазання Аарона та частка з помазання синів його з огняних
+        жертов Господніх у день приношення їх на священнослуження Господеві,
+      nkjv: This is the consecrated portion for Aaron and his sons, from the offerings
+        made by fire to the Lord, on the day when Moses presented them to
+        minister to the Lord as priests.
+      desnitsky: ""
+      mt: ‫    זֹאת מִשְׁחַת אַהֲרֹן וּמִשְׁחַת בָּנָיו מֵאִשֵּׁי יְהוָה בְּיוֹם
+        הִקְרִיב אֹתָם לְכַהֵן לַיהוָה׃ ‬
+      romana: Acestea sunt partea lui Aaron si partea fiilor lui din jertfele
+        Domnului, pe care o vor primi din ziua cand se vor infatisa ei inaintea
+        Domnului, ca sa slujeasca,
+      francais: C'est là le droit que l'onction d'Aaron et de ses fils leur donnera
+        sur les sacrifices consumés par le feu devant l'Éternel, depuis le jour
+        où ils seront présentés pour être à mon service dans le sacerdoce.
+      italian: Questa è la parte dovuta ad Aronne e ai suoi figli, dei sacrifici
+        bruciati in onore del Signore, dal giorno in cui eserciteranno il
+        sacerdozio del Signore.
+      old_georgian: ესე არს ცხებაჲ აჰრონისი და ცხებაჲ ძეთა მისთაჲ შესაწირავთაგან
+        ღმრთისათა დღესა მას, რომელსა მოიყვანნა იგინი მღდელობად ღმრთისა,
+        ვითარცა-იგი ამცნო ღმერთმან მიცემად მათა
+      portuguese: "Esta é a porção sagrada de Arão e a porção sagrada de seus filhos,
+        das ofertas queimadas do Senhor, desde o\rdia em que ele os apresentou
+        para administrar o sacerdócio ao Senhor;"
+      polish: "To jest część z ofiar spalanych dla Pana, która należy się Aaronowi i
+        jego\rsynom od dnia wprowadzenia ich w czynności kapłanów Pana."
+      turkish: Harun'la oğulları kâhin atandıkları gün RAB için yakılan sunulardan
+        paylarına bu düştü.
+      nrt: Такова часть Аарона и его сыновей в огненных жертвах Господу, отведенная
+        им, когда они предстали, чтобы служить Господу как священники.
+      Macarius: Вот участок Аарону и участок сынам его из жертв Господних, когда они
+        предстанут пред Господа для священнодействия,
+      bulgarian: Ето дялът на Аарона и дялът на синовете му от жертвите Господни от
+        деня, когато застанат пред Господа да свещенодействуват,
+      deutsch: Dies ist die Gebühr Aarons und seiner Söhne von den Opfern des Herrn,
+        des Tages, da sie überantwortet wurden Priester zu sein dem Herrn,
+      ukr2: Ось уділ помазання Арона й синів його в жертвах, палених на честь Господа,
+        з дня помазання їх у священики на служіння Господеві,
+      ukr3: Се пай мировання Аронові і пай мировання синам його від огняних жертов
+        Господнїх, призначений їм з того дня, як допущено їх сьвященниками до
+        служби Господеві,
+      bel_syomukha: Вось дзялянка Аарону і дзялянка сынам ягоным з ахвяраў Гасподніх з
+        дня, калі яны стануць прад Госпадам дзеля сьвяшчэнадзеяньня,
+      spbda: Вот участок священнический Аарону и участок сынам его из жертв Господних
+        со дня, когда представил их Моисей для священнодействия пред Господом,
+      lev-khv: Вот участок священнический Аарону и участок священнический сынам его из
+        огненных жертв Господних со дня, когда представил их <i>Моисей</i> для
+        священнодействия пред Господом,
+      czech: To je pridel Aronuv i pridel jeho synu z ohnivych obeti Hospodinovych; v
+        den, kdy jim dovolil pristoupit, aby slouzili Hospodinu jako knezi,
+      spanish: Esa es la parte de Arón y de sus hijos en las combustiones a Yavé,
+        desde el día en que fueron promovidos a ejercer ante mí el sacerdocio.
+      greek-lxx: αὕτη ἡ χρῖσις Ααρων καὶ ἡ χρῖσις τῶν υἱῶν αὐτοῦ ἀπὸ τῶν καρπωμάτων
+        Κυρίου ἐν ᾗ ἡμέρᾳ προσηγάγετο αὐτοὺς τοῦ ἱερατεύειν τῷ Κυρίῳ
+      st_text: Вот участок Аарону и участок сынам его из жертв Господних со дня, когда
+        они предстанут пред Господа для священнодействия,
+  - id: 23720
+    number: 36
+    bookId: 3
+    text: который повелел Господь давать им со дня помазания их от сынов Израилевых.
+      <i>Это</i> вечное постановление в роды их. -
+    chapter: 7
+    chapterId: 97
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: как заповедал Господь дать им [в] который день помазал их, у сыновей
+        Израиля; закон вечный в поколения их.
+      csya: "якоже заповеда Господь дати им, в оньже день помаза я от сынов
+        израилевых: законно вечно в роды их."
+      averincev: ""
+      ungerov: ""
+      csya_old: "ћкоже заповёда гDь дaти и5мъ, во1ньже де1нь помaза | t сынHвъ
+        ї}левыхъ: зако1ннw вёчнw въ ро1ды и4хъ."
+      sovr_rbo: Когда Господь помазал их, Он повелел, чтобы сыны Израилевы отдавали им
+        это вознаграждение — из века в век, из рода в род.
+      latin: et quae praecepit eis dari Dominus a filiis Israel religione perpetua in
+        generationibus suis.
+      ukr: що наказав Господь давати їм у день їхнього помазання від Ізраїлевих синів,
+        вічна постанова на їхні покоління!
+      nkjv: The Lord commanded this to be given to them by the children of Israel, on
+        the day that He anointed them, by a statute forever throughout their
+        generations.
+      desnitsky: ""
+      mt: ‫    אֲשֶׁר צִוָּה יְהוָה לָתֵת לָהֶם בְּיוֹם מָשְׁחוֹ אֹתָם מֵאֵת בְּנֵי
+        יִשְׂרָאֵל חֻקַּת עוֹלָם לְדֹרֹתָם׃ ‬
+      romana: Si pe care a poruncit Domnul sa li se dea de catre fiii lui Israel din
+        ziua ungerii lor. Aceasta este hotarare vesnica in neamul lor".
+      francais: C'est ce que l'Éternel ordonne aux enfants d'Israël de leur donner
+        depuis le jour de leur onction; ce sera une loi perpétuelle parmi leurs
+        descendants.
+      italian: Agli Israeliti il Signo re ha ordinato di dar loro questo, dal giorno
+        della loro unzione. È una parte che è loro dovuta per sempre, di
+        generazione in generazione.
+      old_georgian: დღესა მას, რომელსა ეცხო მათ ძეთაგან ისრაჱლისათა, შჯულად საუკუნედ
+        ნათესავსა შორის მათსა.
+      portuguese: "a qual o Senhor, no dia em que os ungiu, ordenou que se lhes desse
+        da parte dos filhos de Israel; é a sua porção\rpara sempre, pelas suas
+        gerações."
+      polish: "W dniu, kiedy ich Pan namaścił, rozkazał Izraelitom im to dawać. To
+        jest\rustawa wieczysta dla ich pokoleń."
+      turkish: RAB onları meshettiği gün İsrail halkına buyruk vermişti. Adağın bu
+        parçaları gelecek kuşaklar boyunca onların payı olacaktı.
+      nrt: Когда они были помазаны, Господь повелел, чтобы израильтяне отдавали им
+        часть приношений как постоянную долю для грядущих поколений.
+      Macarius: Который повелел Господь давать им со дня помазания их от сынов
+        Израилевых. Это вечное постановление в роды их.
+      bulgarian: що Господ заповяда да им дават синовете Израилеви от деня на
+        помазването им. Това е вечна наредба в поколенията им.
+      deutsch: die der Herr gebot am Tage, da er sie salbte, daß sie ihnen gegeben
+        werden sollte von den Kindern Israel, zum ewigen Recht allen ihren
+        Nachkommen.
+      ukr2: як заповідав Господь синам Ізраїля давати їм з того дня, коли помазав їх;
+        це установа віковічна для їхніх поколінь.
+      ukr3: "Котрого заповідав Господь синам Ізрайлевим давати їм того дня, як
+        помазано їх: Установа віковічня в роди ваші."
+      bel_syomukha: якое загадаў Гасподзь даваць ім з дня памазаньня іх ад сыноў
+        Ізраілевых. Гэта вечная пастанова ў роды іхнія.
+      spbda: Участок, который повелел Господь давать им со дня помазания их от сынов
+        Израилевых. Это — вечный устав в роды их.
+      lev-khv: Который повелел Господь давать им со дня помазания их от сынов
+        Израилевых. Это вечный устав в роды их.
+      czech: v den, kdy je pomazanim oddelil od Izraelcu, prikazal Hospodin, aby jim
+        byl davan podle narizeni provzdy platneho pro vsechna jejich pokoleni.“
+      spanish: Por eso ha mandado Yavé a los hijos de Israel dársela desde el día de
+        su unción, y será ley perpetua de generación en generación.
+      greek-lxx: καθὰ ἐνετείλατο Κύριος δοῦναι αὐτοῖς ᾗ ἡμέρᾳ ἔχρισεν αὐτούς παρὰ τῶν
+        υἱῶν Ισραηλ νόμιμον αἰώνιον εἰς τὰς γενεὰς αὐτῶν
+      st_text: который повелел Господь давать им со дня помазания их от сынов
+        Израилевых. <i>Это</i> вечное постановление в роды их. -
+  - id: 23721
+    number: 37
+    bookId: 3
+    text: Вот закон о всесожжении, о приношении хлебном, о жертве за грех, о жертве
+      повинности, о жертве посвящения и о жертве мирной,
+    chapter: 7
+    chapterId: 97
+    parallels:
+      - verseId: 21874
+        bookId: 2
+        bookCode: ishod
+        chapter: 29
+        short: Исх:29:22
+      - verseId: 23170
+        bookId: 3
+        bookCode: levit
+        chapter: 16
+        short: Лев:16:6
+      - verseId: 23191
+        bookId: 3
+        bookCode: levit
+        chapter: 16
+        short: Лев:16:27
+      - verseId: 23198
+        bookId: 3
+        bookCode: levit
+        chapter: 16
+        short: Лев:16:34
+      - verseId: 6983
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 13
+        short: 3 Цар:13:33
+    translates:
+      kassian: ""
+      podstr: Этот закон всесожжений и жертвы и о грехе и проступка и совершенства и
+        жертвы спасения,
+      csya: "Сей закон всесожжений и жертвы, и о гресе и о преступлении, и совершении
+        и жертве спасения:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Се1й зако1нъ всесожже1ній и3 же1ртвы, и3 њ грэсЁ и3 њ преступле1ніи,
+        и3 соверше1ніи и3 же1ртвэ спасе1ніz:"
+      sovr_rbo: Таков закон для всесожжении, а также хлебных, очистительных,
+        возместительных, посвятительных и пиршественных жертвоприношений.
+      latin: Ista est lex holocausti, et sacrificii pro peccato atque delicto, et pro
+        consecratione et pacificorum victimis,
+      ukr: Оце закон про цілопалення, про хлібну жертву, і про жертву за гріх, і про
+        жертву за провину, і про посвячення, та про жертву мирну,
+      nkjv: This is the law of the burnt offering, the grain offering, the sin
+        offering, the trespass offering, the consecrations, and the sacrifice of
+        the peace offering,
+      desnitsky: ""
+      mt: ‫    זֹאת הַתּוֹרָה לָעֹלָה לַמִּנְחָה וְלַחַטָּאת וְלָאָשָׁם
+        וְלַמִּלּוּאִים וּלְזֶבַח הַשְּׁלָמִים׃ ‬
+      romana: Aceasta este randuiala arderii de tot, a darului de paine, a jertfei
+        pentru pacat, a jertfei pentru vina, a jertfei afierosirii si a jertfei
+        de mantuire,
+      francais: Telle est la loi de l'holocauste, de l'offrande, du sacrifice
+        d'expiation, du sacrifice de culpabilité, de la consécration, et du
+        sacrifice d'actions de grâces.
+      italian: "Questa è la legge per l'olocausto, l'oblazione, il sacrificio
+        espiatorio, il sacrificio di riparazione, l'investitura e il sacrificio
+        di comunione: legge che il Signore ha dato a Mosè sul monte Sinai,
+        quando ordinò agli Israeliti di presentare le offerte al Signore nel
+        deserto del Sinai\"."
+      old_georgian: ესე არს შჯული ყოვლად დასაწუელთაჲ მათ და შესაწირავთაჲ და რომელ
+        ცოდვათათჳს არნ და ბრალისათჳს და სრულებისათჳს და მსხუერპლთათჳს ცხორებისა.
+      portuguese: "Esta é a lei do holocausto, da oferta de cereais, da oferta pelo
+        pecado, da oferta pela culpa, da oferta das\rconsagrações, e do
+        sacrifício das ofertas pacíficas;"
+      polish: "To jest prawo dotyczące ofiary całopalnej, ofiary pokarmowej, ofiary
+        przebłagalnej, ofiary zadośćuczynienia, ofiary wprowadzenia w czynności
+        kapłańskie\ri ofiary biesiadnej."
+      turkish: Yakmalık, tahıl, suç, günah, atanma sunularının ve esenlik
+        kurbanlarının yasası budur.
+      nrt: Итак, вот правила о всесожжении, хлебном приношении, жертве за грех, жертве
+        повинности, освятительной жертве и жертве примирения,
+      Macarius: Вот закон о всесожжении, о приношении хлебном, о жертве за грех, о
+        жертве повинности, о наполнении рук и о жертве благодарственной,
+      bulgarian: Това е законът за всесъжение, хлебен принос, жертва за грях, жертва
+        за вина, жертва за посвещение и за мирна жертва,
+      deutsch: Dies ist das Gesetz des Brandopfers, des Speisopfers, des Sündopfers,
+        des Schuldopfers, der Füllopfer und der Dankopfer,
+      ukr2: Це закон про всепалення, про безкровну офіру, про жертву за гріх, про
+        жертву за відшкодування, про жертву висвячення і про мирну жертву,
+      ukr3: Се закон про жертву огняну, хлїбну і про жертву за гріх і про жертву за
+        провину, і про жертву благальну і жертву мирну,
+      bel_syomukha: Вось закон пра цэласпаленьне, пра прынашэньне хлебнае, пра ахвяру
+        за грэх, пра ахвяру за віну, пра ахвяру прысьвячэньня і пра ахвяру
+        мірную,
+      spbda: Вот закон о всесожжении, о мучном приношении, и о жертве за грех, и о
+        жертве повинности, и о жертве посвящения, и о жертве мирной,
+      lev-khv: Вот закон о всесожжении, о мучном приношении, и о жертве за грех, и о
+        жертве повинности, и о жертве посвящения, и о жертве мирной,
+      czech: To je rad pro zapalnou obet, pro pridavnou obet, pro obet za hrich a obet
+        za vinu, i pro obet pri vysvecovani knezi a pro hod obeti pokojne,
+      spanish: Tal es la ley del holocausto y de la minjá, del sacrificio por el
+        pecado y por el delito, del sacrificio de consagración y del sacrificio
+        pacífico,
+      greek-lxx: οὗτος ὁ νόμος τῶν ὁλοκαυτωμάτων καὶ θυσίας καὶ περὶ ἁμαρτίας καὶ τῆς
+        πλημμελείας καὶ τῆς τελειώσεως καὶ τῆς θυσίας τοῦ σωτηρίου
+      st_text: Вот закон о всесожжении, о приношении хлебном, о жертве за грех, о
+        жертве повинности, о жертве посвящения и о жертве мирной,
+  - id: 23722
+    number: 38
+    bookId: 3
+    text: который дал Господь Моисею на горе Синае, когда повелел сынам Израилевым,
+      в пустыне Синайской, приносить Господу приношения их.
+    chapter: 7
+    chapterId: 97
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: каким образом заповедал Господь Моисею на горе Синая [в] который день
+        заповедал сыновьям Израиля приносить дары их перед Господом в пустыне
+        Синая.
+      csya: якоже заповеда Господь моисею на горе синайстей, в оньже день заповеда
+        сыном израилевым приносити дары своя пред Господа, в пустыни синайстей.
+      averincev: ""
+      ungerov: ""
+      csya_old: ћкоже заповёда гDь мwmсе1ю на горЁ сінaйстэй, во1ньже де1нь заповёда
+        сынHмъ ї}лєвымъ приноси1ти дaры сво‰ пред8 гDа, въ пусты1ни сінaйстэй.
+      sovr_rbo: Все это Господь возвестил Моисею на горе Синай — когда повелел, чтобы
+        сыны Израилевы совершали приношения Господу, — в Синайской пустыне.
+      latin: quam constituit Dominus Moysi in monte Sinai, quando mandabit filiis
+        Israel ut offerrent oblationes suas Domino in deserto Sinai.
+      ukr: що Господь наказав був Мойсеєві на Сінайській горі в день наказу Його
+        Ізраїлевим синам приносити жертви свої Господеві в Сінайській пустині.
+      nkjv: which the Lord commanded Moses on Mount Sinai, on the day when He
+        commanded the children of Israel to offer their offerings to the Lord in
+        the Wilderness of Sinai.
+      desnitsky: ""
+      mt: ‫    אֲשֶׁר צִוָּה יְהוָה אֶת־מֹשֶׁה בְּהַר סִינָי בְּיוֹם צַוֺּתוֹ
+        אֶת־בְּנֵי יִשְׂרָאֵל לְהַקְרִיב אֶת־קָרְבְּנֵיהֶם לַיהוָה בְּמִדְבַּר
+        סִינָי׃ פ ‬
+      romana: Cum a dat-o Domnul lui Moise pe Muntele Sinai, cand a poruncit fiilor
+        lui Israel, in pustiul Sinai, sa-si aduca prinoasele lor Domnului.
+      francais: L'Éternel la prescrivit à Moïse sur la montagne de Sinaï, le jour où
+        il ordonna aux enfants d'Israël de présenter leurs offrandes à l'Éternel
+        dans le désert du Sinaï.
+      old_georgian: ვითარცა ამცნო ღმერთმან მოსეს მთასა სინასა დღესა მას, რომელსა
+        უბრძანა ძეთა ისრაჱლისათა შეწირვად მათა მსხუერპლები მათი წინაშე ღმრთისა
+        უდაბნოსა მას სინაჲსასა.
+      portuguese: "a qual o Senhor entregou a Moisés no monte Sinai, no dia em que
+        este estava ordenando aos filhos de Israel que\roferecessem as suas
+        ofertas ao Senhor, no deserto de Sinai."
+      polish: "To rozkazał Pan Mojżeszowi na górze Synaj w dniu, kiedy polecił
+        Izraelitom\rskładać dary dla Pana na pustyni synajskiej."
+      turkish: RAB, bu buyruğu çölde, Sina Dağı'nda İsrail halkından kendisine sunu
+        sunmalarını istediği gün Musa'ya vermişti.
+      nrt: которые Господь дал Моисею на горе Синай в день, когда Он повелел
+        израильтянам совершать приношения Господу в Синайской пустыне.
+      Macarius: Который дал Господь Моисею на горе Синае, когда сынам Израилевым, в
+        пустыне Синайской, повелел приносить Господу приношения их.
+      bulgarian: що Господ даде Моисею на Синай планина, когато заповяда на синовете
+        Израилеви в Синайската пустиня да принасят Господу своите приноси.
+      deutsch: das der Herr dem Mose gebot auf dem Berge Sinai des Tages, da er ihm
+        gebot an die Kinder Israel, zu opfern ihre Opfer dem Herrn in der Wüste
+        Sinai.
+      ukr2: що заповідав Господь Мойсеєві на Синай-горі, того дня, як велів синам
+        Ізраїля приносити дари Господеві в Синай-пустині.
+      ukr3: Що заповідав Господь Мойсейові на Синай горі того дня, як велїв синам
+        Ізрайлевим приносити дари Господеві, в степу Синай.
+      bel_syomukha: які даў Гасподзь Майсею на гары Сінай, калі загадаў сынам
+        Ізраілевым, у пустыні Сінайскай, прыносіць Госпаду прынашэньні іхнія.
+      spbda: Который дал Господь Моисею на горе Синае, когда повелел сынам Израилевым
+        в пустыне Синайской приносить приношения их Господу.
+      lev-khv: Который дал Господь Моисею на горе Синае, когда повелел сынам
+        Израилевым, в пустыне Синайской, приносить жертвы их Господу.
+      czech: jak to prikazal Hospodin Mojzisovi na hore Sinaji v den, kdy prikazal
+        synum Izraele, aby prinaseli sve dary Hospodinu na Sinajske pousti.
+      spanish: que dio Yavé a Moisés en el monte Sinaí, el día en que mandó a los
+        hijos de Israel que ofrecieran sus oblaciones a Yavé en el desierto del
+        Sinaí>>.
+      greek-lxx: ὃν τρόπον ἐνετείλατο Κύριος τῷ Μωυσῇ ἐν τῷ ὄρει Σινα ᾗ ἡμέρᾳ
+        ἐνετείλατο τοῖς υἱοῖς Ισραηλ προσφέρειν τὰ δῶρα αὐτῶν ἔναντι Κυρίου ἐν
+        τῇ ἐρήμῳ Σινα
+      st_text: который дал Господь Моисею на горе Синае, когда повелел сынам
+        Израилевым, в пустыне Синайской, приносить Господу приношения их.

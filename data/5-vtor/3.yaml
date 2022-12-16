@@ -1,0 +1,2722 @@
+id: 156
+number: 3
+bookId: 5
+verseCount: 29
+title: Глава 3
+verses:
+  - id: 36543
+    number: 1
+    bookId: 5
+    text: И обратились мы оттуда, и шли к Васану, и выступил против нас на войну Ог,
+      царь Васанский, со всем народом своим, при Едреи.
+    chapter: 3
+    chapterId: 156
+    parallels:
+      - verseId: 11664
+        bookId: 4
+        bookCode: cisla
+        chapter: 21
+        short: Чис:21:33
+      - verseId: 36520
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 29
+        short: Втор:29:7
+    translates:
+      kassian: ""
+      podstr: И обратившись мы взошли путём в Васан, и вышел Ог царь Васана чтобы
+        встретиться с нами, он и весь народ его, на войну в Едраине.
+      csya: "И обратившеся взыдохом путем иже к васану: и изыде ог царь васанский
+        противу нам, сам и вси людие его с ним на брань во едраим."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# њбрати1вшесz взыдо1хомъ путе1мъ и4же къ васaну: и3 и3зы1де њ1гъ
+        цaрь васaнскій проти1ву нaмъ, сaмъ и3 вси2 лю1діе є3гw2 съ ни1мъ на
+        брaнь во є3драjмъ."
+      sovr_rbo: Повернув, мы пошли по дороге, ведущей в Башан. Ог, царь башанский,
+        вышел нам навстречу со всем своим войском и вступил с нами в бой у
+        Эдреи.
+      latin: "Itaque conversi ascendimus per iter Basan: egressusque est Og rex Basan
+        in occursum nobis cum populo suo ad bellandum in Edrai."
+      ukr: І обернулися ми, та й пішли дорогою до Башану. І вийшов навперейми нас Оґ,
+        цар башанський, він та ввесь його народ, на війну до Едреї.
+      nkjv: '"Then we turned and went up the road to Bashan; and Og king of Bashan
+        came out against us, he and all his people, to battle at Edrei.'
+      desnitsky: ""
+      mt: ‫    וַנֵּפֶן וַנַּעַל דֶּרֶךְ הַבָּשָׁן וַיֵּצֵא עוֹג מֶלֶךְ־הַבָּשָׁן
+        לִקְרָאתֵנוּ הוּא וְכָל־עַמּוֹ לַמִּלְחָמָה אֶדְרֶעִי׃ ‬
+      romana: '"Ne-am intors apoi de acolo si am mers catre Vasan, insa ne-a iesit
+        inainte cu razboi Og, regele Vasanului, la Edrei, cu tot poporul sau.'
+      francais: Nous nous tournâmes, et nous montâmes par le chemin de Basan. Og, roi
+        de Basan, sortit à notre rencontre, avec tout son peuple, pour nous
+        combattre à Édréi.
+      italian: Poi ci voltammo e salimmo per la via di Basan. Og re di Basan, con
+        tutta la sua gente, ci venne incontro per darci battaglia a Edrei.
+      old_georgian: და მოვიქეცით და მივედით გზასა მას ბასანად კერძო და გამოვიდა ოლ,
+        მეფჱ ბასანისაჲ, შემთხუევად ჩუენდა, იგი და ყოველი ერი მისი ღუაწლით
+        ბრძოლისა ჰედრაინდ.
+      portuguese: "Depois nos viramos e subimos pelo caminho de Basã; e Ogue, rei de
+        Basã, nos saiu ao encontro, ele e todo o seu\rpovo, à peleja, em Edrei."
+      polish: "Następnie zwróciliśmy się i poszliśmy w kierunku Baszanu, którego król,
+        Og,\rwyszedł nam naprzeciw z całym swym ludem, by wydać nam bitwę w
+        Edrei."
+      turkish: «Bundan sonra dönüp Başan'a doğru ilerledik. Başan Kralı Og'la ordusu
+        bizimle savaşmak için Edrei'de karşımıza çıktı.
+      nrt: Потом мы повернули и поднялись по дороге к Башану. Ог, царь Башана,
+        выступил нам навстречу со всем своим войском для битвы у Эдреи.
+      Macarius: Обратившись оттуда, шли мы к Васану, и выступил против нас на войну
+        Ог, царь Васанский, со всем народом своим к Едреи.
+      serbian: Потом обративши се идосмо к Васану. И изиде пред нас Ог, цар Васански,
+        и сав народ његов на бој у Едрајин.
+      bulgarian: И обърнахме се оттам и вървяхме към Васан, и излезе на бой срещу нас
+        васанският цар Ог с целия си народ, при Едрея.
+      deutsch: Und wir wandten uns und zogen hinauf den Weg nach Basan. Und Og, der
+        König von Basan, zog aus uns entgegen, mit allem seinem Volk, zu
+        streiten bei Edrei.
+      ukr2: «І повернули ми й почали сходити вгору башанським шляхом; і виступив проти
+        нас Ог, цар башанський, він сам і ввесь його люд, до бою під Едреї.
+      ukr3: І повернули ми та й стали братись у гору по дорозї Базанській, і виступив
+        проти нас Ог, царь Базанський, сам з усїм людом своїм до бою при Едреї.
+      bel_syomukha: І павярнулі мы адтуль і йшлі да Васана, і выступіў супроць нас на
+        вайну Ог, цар Васанскі, з усім народам сваім каля Эдрэі.
+      sergievsky: «И повернули мы и стали подыматься путем Башана; и Ог, царь
+        Башанский, вышел на встречу нам, сам со всем народом своим для сраженья
+        при Эдрэи.
+      lev-khv: И обратились мы, и шли по дороге к Васану, и вышел Ог, царь Васанский,
+        против нас, сам и весь народ его, на сражение при Едреи.
+      czech: Potom jsme se obratili a tahli vzhuru cestou k Basanu. Tu vytrhl proti
+        nam k boji do Edrei basansky kral Og s veskerym svym lidem.
+      spanish: <<Volviéndonos, subimos por el camino de Basán; y Og rey de Basán, nos
+        salió al encuentro con toda su gente para darnos la batalla de Edraí.
+      vadim: «И повернули мы и стали подыматься путем Башана; и Ог, царь Башанский,
+        вышел на встречу нам, сам со всем народом своим для сраженья при Эдрэи.
+      greek-lxx: καὶ ἐπιστραφέντες ἀνέβημεν ὁδὸν τὴν εἰς Βασαν καὶ ἐξῆλθεν Ωγ βασιλεὺς
+        τῆς Βασαν εἰς συνάντησιν ἡμῖν αὐτὸς καὶ πᾶς ὁ λαὸς αὐτοῦ εἰς πόλεμον εἰς
+        Εδραϊν
+      st_text: И обратились мы оттуда, и шли к Васану, и выступил против нас на войну
+        Ог, царь Васанский, со всем народом своим, при Едреи.
+  - id: 36544
+    number: 2
+    bookId: 5
+    text: "И сказал мне Господь: не бойся его, ибо Я отдам в руку твою его, и весь
+      народ его, и всю землю его, и ты поступишь с ним так, как поступил с
+      Сигоном, царем Аморрейским, который жил в Есевоне."
+    chapter: 3
+    chapterId: 156
+    parallels:
+      - verseId: 11655
+        bookId: 4
+        bookCode: cisla
+        chapter: 21
+        short: Чис:21:24
+      - verseId: 11665
+        bookId: 4
+        bookCode: cisla
+        chapter: 21
+        short: Чис:21:34
+    translates:
+      kassian: ""
+      podstr: "И сказал Господь ко мне: Не сделайся устрашён его, потому что в руки
+        твои предам его и весь народ его и всю землю его, и сделаешь ему как ты
+        сделал Сеону царю Аморреев, который жил в Есевоне."
+      csya: "И рече Господь ко мне: не убойся его, яко в руце твои предах его, и вся
+        люди его, и всю землю его: и сотвориши ему, якоже сотворил еси сиону
+        царю аморрейску, иже живяше во есевоне."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 гDь ко мнЁ: не ўбо1йсz є3гw2, ћкw въ рyцэ твои2 предaхъ
+        є3го2, и3 вс‰ лю1ди є3гw2, и3 всю2 зе1млю є3гw2: и3 сотвори1ши є3мY,
+        ћкоже сотвори1лъ є3си2 сиHну царю2 ґморре1йску, и4же живsше во
+        є3севHнэ."
+      sovr_rbo: "Господь сказал мне: „Не бойся. Я отдаю в твои руки и его самого, и
+        все его войско, и его страну. Ты поступишь с ним так же, как с Сихоном,
+        аморейским царем, правившим в Хешбоне”."
+      latin: "Dixitque Dominus ad me: Ne timeas eum: quia in manu tua traditus est cum
+        omni populo ac terra sua: faciesque ei sicut fecisti Sehon regi
+        Amorrhaeorum, qui habitavit in Hesebon."
+      ukr: "І сказав Господь до мене: Не бійся його, бо в твою руку Я дав його, і
+        ввесь народ його та край його, і зробиш йому, як зробив ти Сигонові,
+        цареві амореян, що сидів у Хешбоні."
+      nkjv: "And the Lord said to me, 'Do not fear him, for I have delivered him and
+        all his people and his land into your hand; you shall do to him as you
+        did to Sihon king of the Amorites, who dwelt at Heshbon.' "
+      desnitsky: ""
+      mt: ‫    וַיֹּאמֶר יְהוָה אֵלַי אַל־תִּירָא אֹתוֹ כִּי בְיָדְךָ נָתַתִּי אֹתוֹ
+        וְאֶת־כָּל־עַמּוֹ וְאֶת־אַרְצוֹ וְעָשִׂיתָ לּוֹ כַּאֲשֶׁר עָשִׂיתָ
+        לְסִיחֹן מֶלֶךְ הָאֱמֹרִי אֲשֶׁר יוֹשֵׁב בְּחֶשְׁבּוֹן׃ ‬
+      romana: "Dar Domnul mi-a zis: Nu te teme de el, caci il voi da in mainile tale
+        pe el si tot poporul lui si tot pamantul lui, si vei face cu el ce-ai
+        facut cu Sihon, regele Amoreilor, care a trait in Hesbon."
+      francais: "L'Éternel me dit: Ne le crains point; car je le livre entre tes
+        mains, lui et tout son peuple, et son pays; tu le traiteras comme tu as
+        traité Sihon, roi des Amoréens, qui habitait à Hesbon."
+      italian: "Il Signore mi disse: Non lo temere, perché io darò in tuo potere lui,
+        tutta la sua gente e il suo paese; tu farai a lui quel che hai fatto a
+        Sicon, re degli Amorrei, che abitava a Chesbon."
+      old_georgian: "სიტყუად იწყო ჩემდა უფალმან და მრქუა მე: ნუ გეშინინ, ნუცა
+        შესძრწუნდები მისგან, რამეთუ ჴელთა შენთა მიმიცემიეს ყოვლითურთ ერით მისით
+        და ყოვლითურთ ქუეყანით მისით და უყო მას, რაჲცა-იგი უყავ სეონ, მეფესა მას
+        ამორეველთასა, რომელ-იგი დამკჳდრებულ იყოს ესობონს."
+      portuguese: "Então o Senhor me disse: Não o temas, porque to entreguei nas mãos,
+        a ele e a todo o seu povo, e a sua terra; e\rfarás a ele como fizeste a
+        Siom, rei dos amorreus, que habitava em Hesbom."
+      polish: "Wtedy rzekł do mnie Pan: ”Nie lękaj się go, gdyż dałem w twoje ręce
+        jego\rsamego, cały jego lud i ziemię. Postąpisz z nim jak z Sichonem,
+        królem Amorytów, który mieszka w Cheszbonie”."
+      turkish: RAB bana, `Ondan korkma!' dedi, `Çünkü onu da ordusuyla ülkesini de
+        senin eline teslim ettim. Amorlular'ın Heşbon'da yaşayan Kralı Sihon'a
+        yaptığının aynısını ona da yapacaksın.'
+      nrt: "Господь сказал мне: «Не бойся его, потому что Я предал его в твои руки со
+        всем его войском и землей. Сделай с ним то же, что и с Сигоном, царем
+        аморреев, который правил в Хешбоне»."
+      Macarius: "И сказал мне Господь: не бойся его; ибо Я отдам в руку твою его, и
+        весь народ его и всю землю его, и ты поступишь с ним так, как поступил с
+        Сигоном, царем Аморрейским, который жил в Есевоне."
+      serbian: "И Господ ми рече: Не бој га се, јер га дадох у твоје руке са свијем
+        народом његовијем и са земљом његовом, да учиниш с. њим онако како си
+        учинио са Сионом, царем Аморејским, који сјеђаше у Есевону."
+      bulgarian: "И рече ми Господ: не бой се от него, защото Аз ще предам в ръката ти
+        него и целия му народ и цялата му земя, и ти ще сториш с него тъй, както
+        стори с аморейския цар Сихона, който живееше в Есевон."
+      deutsch: "Aber der Herr sprach zu mir: Fürchte dich nicht vor ihm; denn ich habe
+        ihn und all sein Volk mit seinem Lande in deine Hände gegeben; und du
+        sollst mit ihm tun, wie du mit Sihon, dem König der Amoriter, getan
+        hast, der zu Hesbon saß."
+      ukr2: "Та Господь промовив до мене: Не лякайся його, бо я віддам тобі його в
+        руки, його й увесь люд його та всю землю; і вчиниш з ним те, що вчинив
+        єси з Сихоном, царем аморійським, який жив у Хешбоні."
+      ukr3: "І промовив до мене Господь: Не лякайсь його! Бо я віддаю його в руки тобі
+        і ввесь люд його й землю його; і вчиниш з ним те, що вчинив єси з
+        Сигоном, царем Аморійським, що жив у Гезбонї."
+      bel_syomukha: "І сказаў мне Гасподзь: ня бойся яго, бо Я аддам у руку тваю яго і
+        ўвесь народ ягоны і ўсю зямлю ягоную, і ты зробіш зь ім так, як зрабіў
+        зь Сігонам, царом Амарэйскім, які жыў у Эсэвоне."
+      sergievsky: "И сказал мне Сущий: ‘Не бойся его, ибо в руку твою я отдам его, и
+        весь народ его и землю его; и поступишь ты с ним как поступил с Сихоном,
+        царем Аморитским, который жил в Хешбоне.’"
+      lev-khv: "И сказал мне Господь: не бойся его; потому что Я отдаю в руку твою
+        его, и весь народ его, и землю его, и ты поступишь с ним так, как
+        поступил с Сихоном, царем Аморрейским, который жил в Есевоне."
+      czech: 'Ale Hospodin mi rekl: "Neboj se ho, nebot jsem ti ho vydal do rukou, i
+        vsechen jeho lid a jeho zemi. Nalozis s nim, jako jsi nalozil s
+        emorejskym kralem Sichonem, ktery sidlil v Chesbonu."'
+      spanish: "Yavé me dijo: No le temas; le he entregado en tus manos a él, a todo
+        su pueblo y su territorio; trátalo como trataste a Seón, rey de los
+        amorreos, que habitaba en Hesebón."
+      vadim: "И сказал мне Сущий: ‘Не бойся его, ибо в руку твою я отдам его, и весь
+        народ его и землю его; и поступишь ты с ним как поступил с Сихоном,
+        царем Аморитским, который жил в Хешбоне.’"
+      greek-lxx: καὶ εἶπεν Κύριος πρός με μὴ φοβηθῇς αὐτόν ὅτι εἰς τὰς χεῖράς σου
+        παραδέδωκα αὐτὸν καὶ πάντα τὸν λαὸν αὐτοῦ καὶ πᾶσαν τὴν γῆν αὐτοῦ καὶ
+        ποιήσεις αὐτῷ ὥσπερ ἐποίησας Σηων βασιλεῖ τῶν Αμορραίων ὃς κατῴκει ἐν
+        Εσεβων
+      st_text: "И сказал мне Господь: не бойся его, ибо Я отдам в руку твою его, и
+        весь народ его, и всю землю его, и ты поступишь с ним так, как поступил
+        с Сигоном, царем Аморрейским, который жил в Есевоне."
+  - id: 36545
+    number: 3
+    bookId: 5
+    text: И предал Господь, Бог наш, в руки наши и Ога, царя Васанского, и весь
+      народ его; и мы поразили его, так что никого не осталось у него в живых;
+    chapter: 3
+    chapterId: 156
+    parallels:
+      - verseId: 11666
+        bookId: 4
+        bookCode: cisla
+        chapter: 21
+        short: Чис:21:35
+    translates:
+      kassian: ""
+      podstr: И предал его Господь Бог наш в руки наши, и Ога царя Васана и весь народ
+        его, и мы поразили его пока не прекратилось его семя.
+      csya: "И предаде его Господь Бог наш в руце наши, и ога царя васанска, и вся
+        люди его: и избихом его, дондеже не остася от него семя:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# предаде2 є3го2 гDь бг7ъ нaшъ въ рyцэ нaши, и3 њ1га царS васaнска,
+        и3 вс‰ лю1ди є3гw2: и3 и3зби1хомъ є3го2, до1ндеже не њстaсz t негw2
+        сёмz:"
+      sovr_rbo: "Господь, наш Бог, отдал в наши руки и Ога, царя башанского, со всем
+        его войском: мы перебили их, всех до последнего!"
+      latin: "Tradidit ergo Dominus Deus noster in manibus nostris etiam Og regem
+        Basan, et universum populum ejus: percussimusque eos usque ad
+        internecionem,"
+      ukr: І дав Господь, Бог наш, у нашу руку також Оґа, царя башанського, та ввесь
+        його народ, і побили ми його, так що нікого не позосталося в нього.
+      nkjv: So the Lord our God also delivered into our hands Og king of Bashan, with
+        all his people, and we attacked him until he had no survivors remaining.
+      desnitsky: ""
+      mt: ‫    וַיִּתֵּן יְהוָה אֱלֹהֵינוּ בְּיָדֵנוּ גַּם אֶת־עוֹג מֶלֶךְ־הַבָּשָׁן
+        וְאֶת־כָּל־עַמּוֹ וַנַּכֵּהוּ עַד־בִּלְתִּי הִשְׁאִיר־לוֹ שָׂרִיד׃ ‬
+      romana: Domnul Dumnezeul nostru a dat in mainile noastre si pe Og, regele
+        Vasanului, cu tot poporul lui, si noi l-am batut, incat nimeni de la ei
+        n-a ramas viu.
+      francais: Et l'Éternel, notre Dieu, livra encore entre nos mains Og, roi de
+        Basan, avec tout son peuple; nous le battîmes, sans laisser échapper
+        aucun de ses gens.
+      italian: Così il Signore nostro Dio mise in nostro potere anche Og, re di Basan,
+        con tutta la sua gente; noi lo abbiamo sconfitto, senza lasciargli alcun
+        superstite.
+      old_georgian: მოგუცა უფალმან ღმერთმან ჩუენმან ოგ, მეფჱ იგი ბასანისაჲ, და ყოველი
+        იგი ერი მისი და მოვსართ იგი და ყოველი სოფელი მისი და არა დაშთა სოფელსა
+        მისსა ნათესავი.
+      portuguese: "Assim o Senhor nosso Deus nos entregou nas mãos também a Ogue, rei
+        de Basã, e a todo o seu povo; de\rmaneira que o ferimos, até que não lhe
+        ficou sobrevivente algum."
+      polish: "I Pan, Bóg nasz, dał nam w ręce również Oga, króla Baszanu, i cały jego
+        lud.\rI wytępiliśmy go tak, że nikt nie ocalał."
+      turkish: «Böylece Tanrımız RAB, Başan Kralı Og'u ve halkını da elimize teslim
+        etti. Hiçbirini sağ bırakmadan hepsini yok ettik.
+      nrt: Так Господь, наш Бог, отдал в наши руки еще и Ога, царя Башана, и все его
+        войско. Мы поразили их, не оставив в живых никого.
+      Macarius: И предал [его] Иегова, Бог наш, в руку нашу, и Ога, царя Васанского, и
+        весь народ его; и мы поразили его, так, что никого не осталось у него в
+        живых.
+      serbian: Тако нам даде Господ Бог наш у руке и Ога, цара Васанскога, са свијем
+        народом његовијем, и разбисмо га и не остависмо му ни једнога жива.
+      bulgarian: И Господ, Бог наш, предаде в ръцете ни и Ога, царя васански, и целия
+        му народ; и разбихме го, тъй че от него не остана никой жив.
+      deutsch: Also gab der Herr, unser Gott, auch den König Og von Basan in unsre
+        Hände mit allem seinem Volk, daß wir ihn schlugen, bis daß ihm nichts
+        übrigblieb.
+      ukr2: І віддав Господь, Бог наш, нам у руки так само Ога, башанського царя, і
+        ввесь його люд, і побили ми його так, що не зісталось нікого живим.
+      ukr3: І віддав Господь, Бог наш, в руки наші так само й Ога, царя Базанського, і
+        ввесь люд його, і побивали ми його, докіль нїхто з них не зістався.
+      bel_syomukha: І аддаў Гасподзь, Бог наш, у рукі нашыя і Ога, цара Васанскага, і
+        ўвесь народ ягоны; і мы пабілі яго, так што нікога не засталося ў яго
+        жывога;
+      sergievsky: И отдал Сущий Бог наш, в руку нашу также Ога, царя Башанскаго, и
+        весь народ его; и поражали мы его, пока никого у него не осталось.
+      lev-khv: И предал Господь, Бог наш, в руки наши и Ога, царя Васанскаго, и весь
+        народ его; и мы поразили его так, что никого не осталось у него.
+      czech: Tak nam Hospodin, nas Buh, vydal do rukou i basanskeho krale Oga s
+        veskerym jeho lidem. Pobili jsme je a nikdo z nich nevyvazl.
+      spanish: Y Yavé, nuestro Dios, entregó también en nuestras manos a Og, rey de
+        Basán, con todo su pueblo, y los derrotamos hasta destruirlos,
+      vadim: И отдал Сущий Бог наш, в руку нашу также Ога, царя Башанскаго, и весь
+        народ его; и поражали мы его, пока никого у него не осталось.
+      greek-lxx: καὶ παρέδωκεν αὐτὸν Κύριος ὁ Θεὸς ἡμῶν εἰς τὰς χεῖρας ἡμῶν καὶ τὸν Ωγ
+        βασιλέα τῆς Βασαν καὶ πάντα τὸν λαὸν αὐτοῦ καὶ ἐπατάξαμεν αὐτὸν ἕως τοῦ
+        μὴ καταλιπεῖν αὐτοῦ σπέρμα
+      st_text: И предал Господь, Бог наш, в руки наши и Ога, царя Васанского, и весь
+        народ его; и мы поразили его, так что никого не осталось у него в живых;
+  - id: 36546
+    number: 4
+    bookId: 5
+    text: "и взяли мы в то время все города его; не было города, которого мы не
+      взяли бы у них: шестьдесят городов, всю область Аргов, царство Ога
+      Васанского;"
+    chapter: 3
+    chapterId: 156
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И взяли все города его во время то, не был город, который не взяли мы у
+        них, шестьдесят городов, все окрестности Аргова царства Ога в Васане,
+      csya: "и одержахом вся грады его во время оно, не бысть града, егоже не взяхом
+        от них: шестьдесят градов, вся пределы аргова царя ога в васане,"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 њдержaхомъ вс‰ грaды є3гw2 во вре1мz џно, не бы1сть грaда, є3гHже
+        не взsхомъ t ни1хъ: шестьдесsтъ градHвъ, вс‰ предёлы ґрго1ва царS њ1га
+        въ васaнэ,"
+      sovr_rbo: В ту пору мы овладели всеми его городами. Мы захватили все города до
+        одного — это шестьдесят городов, вся область Аргов, башанское царство
+        Ога.
+      latin: "vastantes cunctas civitates illius uno tempore. Non fuit oppidum, quod
+        nos effugeret: sexaginta urbes, omnem regionem Argob regni Og in Basan."
+      ukr: І здобули ми всі міста його, і того часу не було міста, що не взяли б ми
+        від них, шістдесят міст, усю арґовську околицю, царство Оґа в Башані.
+      nkjv: "And we took all his cities at that time; there was not a city which we
+        did not take from them: sixty cities, all the region of Argob, the
+        kingdom of Og in Bashan."
+      desnitsky: ""
+      mt: ‫    וַנִּלְכֹּד אֶת־כָּל־עָרָיו בָּעֵת הַהִוא לֹא הָיְתָה קִרְיָה אֲשֶׁר
+        לֹא־לָקַחְנוּ מֵאִתָּם שִׁשִּׁים עִיר כָּל־חֶבֶל אַרְגֹּב מַמְלֶכֶת עוֹג
+        בַּבָּשָׁן׃ ‬
+      romana: In vremea aceea am luat toate cetatile lui, ca n-a fost cetate pe care
+        sa n-o luam de la ei. Am luat saizeci de cetati, toata latura Argob,
+        tara lui Og al Vasanului.
+      francais: "Nous prîmes alors toutes ses villes, et il n'y en eut pas une qui ne
+        tombât en notre pouvoir: soixante villes, toute la contrée d'Argob, le
+        royaume d'Og en Basan."
+      italian: "Gli prendemmo in quel tempo tutte le sue città; non ci fu città che
+        noi non prendessimo loro: sessanta città, tutta la regione di Argob, il
+        regno di Og in Basan."
+      old_georgian: დავიპყართ ყოველი ქალაქები მათი, მას ჟამსა შინა არა იყო ქალაქი,
+        რომელი არა ვიპყართ მათგანი, სამეოცი ქალაქი დავიპყართ სოფლებით მათით
+        არგობ, მეფისა მის ოგისი, ქუეყანისა მის ბასანელთაჲსა.
+      portuguese: "E naquele tempo tomamos todas as suas cidades; nenhuma cidade houve
+        que não lhes tomássemos: sessenta\rcidades, toda a região de Argobe, o
+        reino de Ogue em Basã,"
+      polish: "W tym czasie zdobyliśmy wszystkie jego miasta, nie było grodu nie
+        zajętego:\rsześćdziesiąt miast i cały obszar Argob, królestwo Oga w
+        Baszanie."
+      turkish: "Bütün kentlerini ele geçirdik. Ele geçirmediğimiz tek kent kalmadı.
+        Hepsi altmış kentti: Başan'da Og'un ülkesi olan bütün Argov bölgesi."
+      nrt: Тогда же мы взяли все его города. Из шестидесяти городов не было ни одного,
+        который бы мы не взяли, – вся область Аргов, царство Ога в Башане.
+      Macarius: "И взяли мы в то время все города его; не было города, которого бы мы
+        не взяли у них: шестьдесят городов, всю область Аргов, царство Ога
+        Васанского."
+      serbian: И узесмо тада све градове његове; не би града којега не узесмо,
+        шездесет градова, сав крај Арговски, царство Ога у Васану.
+      bulgarian: "Тогава превзехме всичките му градове, та не остана град, който да не
+        бяхме превзели от тях: шейсет града, цялата област Аргов, царството на
+        Ога васански."
+      deutsch: "Da gewannen wir zu der Zeit alle seine Städte (und war keine Stadt,
+        die wir ihm nicht nahmen): sechzig Städte, die ganze Gegend Argob, das
+        Königreich Ogs von Basan."
+      ukr2: "Зайняли ми тоді всі його міста; не було міста, щоб ми не взяли від них:
+        шістдесят міст, увесь край Аргов, царство Ога у Башані."
+      ukr3: І того часу попідневолювали ми всї міста його; не було міста, щоб ми не
+        заняли його; шістьдесять міст, вся полоса Аргоб, царство Огове в Базанї.
+      bel_syomukha: "і ўзялі мы ў той час усе гарады ягоныя; ня было горада, якога мы
+        не ўзялі б у іх: шэсьцьдзясят гарадоў, усю вобласьць Аргоў, царства Ога
+        Васанскага;"
+      sergievsky: "И завоевали мы все города его в это время: не было города, котораго
+        не взяли мы у них — шестьдесят городов вся полоса Аргоба, царство Ога в
+        Башане."
+      lev-khv: "И завоевали мы в то время все город&#225; его; не было гóрода,
+        котораго мы не взяли бы у них: шестьдесят городов, всю область Аргов,
+        царство Ога Васанскаго,"
+      czech: V one dobe jsme dobyli vsechna jeho mesta. Nebylo zadne tvrze, kterou
+        bychom jim nevzali, celkem sedesat mest, cely kraj Argob, Ogovo
+        kralovstvi v Basanu.
+      spanish: devastando todas sus ciudades, sin quedar lugar de habitación que nos
+        escapara; sesenta ciudades, toda la región de Argob, el reino de Og, en
+        Basán.
+      vadim: "И завоевали мы все города его в это время: не было города, котораго не
+        взяли мы у них — шестьдесят городов вся полоса Аргоба, царство Ога в
+        Башане."
+      greek-lxx: καὶ ἐκρατήσαμεν πασῶν τῶν πόλεων αὐτοῦ ἐν τῷ καιρῷ ἐκείνῳ οὐκ ἦν
+        πόλις ἣν οὐκ ἐλάβομεν παρ᾿ αὐτῶν ἑξήκοντα πόλεις πάντα τὰ περίχωρα Αργοβ
+        βασιλείας Ωγ ἐν Βασαν
+      st_text: "и взяли мы в то время все города его; не было города, которого мы не
+        взяли бы у них: шестьдесят городов, всю область Аргов, царство Ога
+        Васанского;"
+  - id: 36547
+    number: 5
+    bookId: 5
+    text: все эти города укреплены были высокими стенами, воротами и запорами, кроме
+      городов неукрепленных, весьма многих;
+    chapter: 3
+    chapterId: 156
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: все города укреплённые, стены высокие, ворота и запоры, кроме городов
+        Ферезайских многих очень.
+      csya: "вся грады тверды, стены высоки, врата и вереи, кроме градов ферезейских
+        многих зело:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "вс‰ грaды твє1рды, стёны высHки, вратA и3 верєи2, кромЁ градHвъ
+        ферезе1йскихъ мно1гихъ ѕэлw2:"
+      sovr_rbo: Все это были укрепленные города с высокими стенами и воротами на
+        запоре (а сверх того — множество неогражденных селений).
+      latin: Cunctae urbes erant munitae muris altissimis, portisque et vectibus,
+        absque oppidis innumeris, quae non habebant muros.
+      ukr: Усі ці міста укріплені, мур високий, ворота й засув, окрім дуже багатьох
+        відкритих міст.
+      nkjv: All these cities were fortified with high walls, gates, and bars, besides
+        a great many rural towns.
+      desnitsky: ""
+      mt: ‫    כָּל־אֵלֶּה עָרִים בְּצֻרוֹת חוֹמָה גְבֹהָה דְּלָתַיִם וּבְרִיחַ לְבַד
+        מֵעָרֵי הַפְּרָזִי הַרְבֵּה מְאֹד׃ ‬
+      romana: Toate cetatile acestea erau intarite cu ziduri inalte, cu porti si cu
+        incuietori, afara de cetatile neintarite care erau foarte multe.
+      francais: Toutes ces villes étaient fortifiées, avec de hautes murailles, des
+        portes et des barres; il y avait aussi des villes sans murailles en très
+        grand nombre.
+      italian: Tutte queste città erano fortificate, con alte mura, porte e sbarre,
+        senza contare le città aperte, che erano molto numerose.
+      old_georgian: ყოველი ესე ქალაქები ძნელოვანები და ზღუდე მათი მაღლები და მოქლონები
+        მათი განგებული, ხოლო ქალაქები იგი უზღუდოჲ ფრიად მრავალი მოვსართ,
+      portuguese: cidades estas todas fortificadas com altos muros, portas e
+        ferrolhos, além de muitas cidades sem muros.
+      polish: "To wszystko są miasta obwarowane wysokimi murami, potężnymi bramami
+        i\rzaworami, nie licząc wielu miast otwartych."
+      turkish: Bütün bu kentler yüksek surlarla, kapılarla, sürgülerle
+        sağlamlaştırılmıştı. Bunlardan başka surla çevrilmemiş birçok köy de
+        vardı.
+      nrt: Все эти города были укреплены высокими стенами, двойными воротами и
+        запорами, а кроме них было множество селений, не обнесенных стенами.
+      Macarius: Все сии города укреплены были высокими стенами, воротами и запорами,
+        кроме городов открытых, коих было весьма много.
+      serbian: Сви ти градови бјеху утврђени зидом високим, вратима и пријеворницама,
+        осим других мјеста без зидова врло много.
+      bulgarian: Всички тия градове бяха укрепени с високи стени, порти и заворници,
+        освен твърде многото неукрепени градове.
+      deutsch: Alle diese Städte waren fest mit hohen Mauern, Toren und Riegeln, außer
+        sehr vielen anderen Flecken ohne Mauern.
+      ukr2: Всі ці міста були укріплені високими мурами, брамами й засувами, крім того
+        ще багато інших неукріплених.
+      ukr3: Всї міста сї були укріплені високими мурами, брамами й засувами; окрім
+        того багацько міст неукріплених.
+      bel_syomukha: усе гэтыя гарады ўмацаваныя былі высокімі сьценамі, брамамі й
+        заваламі, апрача гарадоў неўмацаваных, даволі многіх;
+      sergievsky: Все эти города укреплены были высокими стенами, воротами и засовами,
+        кроме великаго множества незащищенных городов.
+      lev-khv: Все эти города, укрепленные высокими стенами, воротами и запорами,
+        кроме городов неукрепленных весьма многих.
+      czech: Vsechna tato mesta byla opevnena vysokymi hradbami s branami a zavorami;
+        mimoto jsme dobyli velmi mnoho otevrenych mest.
+      spanish: Todas estas ciudades, que estaban amuralladas con muy altas murallas,
+        con puertas y cerrojos, sin contar las ciudades abiertas, que eran en
+        gran número,
+      vadim: Все эти города укреплены были высокими стенами, воротами и засовами,
+        кроме великаго множества незащищенных городов.
+      greek-lxx: πᾶσαι πόλεις ὀχυραί τείχη ὑψηλά πύλαι καὶ μοχλοί πλὴν τῶν πόλεων τῶν
+        Φερεζαίων τῶν πολλῶν σφόδρα
+      st_text: все эти города укреплены были высокими стенами, воротами и запорами,
+        кроме городов неукрепленных, весьма многих;
+  - id: 36548
+    number: 6
+    bookId: 5
+    text: и предали мы их заклятию, как поступили с Сигоном, царем Есевонским,
+      предав заклятию всякий город с мужчинами, женщинами и детьми;
+    chapter: 3
+    chapterId: 156
+    parallels:
+      - verseId: 36258
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 2
+        short: Втор:2:34
+      - verseId: 36259
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 2
+        short: Втор:2:35
+      - verseId: 36277
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 20
+        short: Втор:20:16
+    translates:
+      kassian: ""
+      podstr: Истребили их, как мы сделали Сеону царю Есевона, и истребили всякий
+        город следующий и женщин и детей;
+      csya: "потребихом их, якоже сотворихом сиону царю есевоню, и потребихом вся
+        грады, вкупе и жены их и чада:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "потреби1хомъ и5хъ, ћкоже сотвори1хомъ сиHну царю2 є3севHню, и3
+        потреби1хомъ вс‰ грaды, вкyпэ и3 жєны2 и4хъ и3 ч†да:"
+      sovr_rbo: Мы предали их заклятью и уничтожили — поступили так же, как с Сихоном,
+        царем хешбонским. В этих городах мы истребили и мужчин, и женщин, и
+        детей.
+      latin: "Et delevimus eos, sicut feceramus Sehon regi Hesebon, disperdentes omnem
+        civitatem, virosque ac mulieres et parvulos:"
+      ukr: І вчинили ми їх закляттям, як зробили були Сигонові, цареві хешбонському,
+        учинили закляттям усе місто, чоловіків, жінок та дітей.
+      nkjv: And we utterly destroyed them, as we did to Sihon king of Heshbon, utterly
+        destroying the men, women, and children of every city.
+      desnitsky: ""
+      mt: ‫    וַנַּחֲרֵם אוֹתָם כַּאֲשֶׁר עָשִׂינוּ לְסִיחֹן מֶלֶךְ חֶשְׁבּוֹן
+        הַחֲרֵם כָּל־עִיר מְתִם הַנָּשִׁים וְהַטָּף׃ ‬
+      romana: Si le-am nimicit, cum facusem si cu Sihon, regele Hesbonului, pierzand
+        fiecare cetate cu barbati, femei si copii.
+      francais: Nous les dévouâmes par interdit, comme nous l'avions fait à Sihon, roi
+        de Hesbon; nous dévouâmes toutes les villes par interdit, hommes, femmes
+        et petits enfants.
+      italian: "Noi le votammo allo sterminio, come avevamo fatto di Sicon, re di
+        Chesbon: votammo allo sterminio ogni città, uomini, donne, bambini."
+      old_georgian: ვითარცა შევქმენით სეონ, მეფჱ ესებონელთაჲ, და მოვსართ ყოველი
+        ქალაქები ერთბამად და ცოლები მათი და შვილები მათი მოვსართ,
+      portuguese: "E destruímo-las totalmente, como fizéramos a Siom, rei de Hesbom,
+        fazendo perecer a todos, homens, mulheres e\rpequeninos."
+      polish: Obłożyliśmy je klątwą, jak uczyniliśmy Sichonowi, królowi Cheszbonu;
+        klątwie podlegało miasto, mężczyźni, kobiety i dzieci.
+      turkish: Heşbon Kralı Sihon'a yaptığımız gibi hepsini yok ettik. Her kenti,
+        kadın, erkek ve çocuklarla birlikte, tümüyle yok ettik.
+      nrt: Мы полностью истребили их, как сделали с Сигоном, царем Хешбона, истребляя
+        каждый город – мужчин, женщин и детей.
+      Macarius: И предали мы их заклятию, так как поступили с Сигоном, царем
+        Есевонским, предав заклятию всякой город с мужчинами, женщинами и
+        детьми.
+      serbian: И раскопасмо их као што учинисмо Сиону, цару Есевонском, побивши по
+        свијем мјестима и људе и жене и дјецу.
+      bulgarian: И ние ги предадохме на заклятие, както сторихме със Сихона, царя
+        есевонски, като предадохме на заклятие всеки град с мъжете, жените и
+        децата;
+      deutsch: Und wir verbannten sie, gleich wie wir mit Sihon, dem König zu Hesbon,
+        taten. Alle Städte verbannten wir, mit Männern, Weibern und Kindern.
+      ukr2: І піддали ми їх знищенню, як це ми зробили з Сихоном, царем хешбонським,
+        віддавши на смерть по всіх містах чоловіцтво, жіноцтво й дітей,
+      ukr3: І обрекли ми їх, як зробили з Сигоном, царем Гезбонським, обрікши по всїх
+        містах мужчин і жіноцтво і малолїтків.
+      bel_syomukha: і выклялі мы іх, як зрабілі зь Сігонам, царом Эсэвонскім, выкляўшы
+        кожны горад з мужчынамі, жанчынамі й дзецьмі;
+      sergievsky: И обрекли мы их, так как сделали это с Сихоном, царем Хешбона,
+        обрекши во всех городах, мужчин, и женщин и малолетков.
+      lev-khv: И истребили мы их так, как поступили с Сихоном, царем Есевонским,
+        истребив все города, мужчин, женщин и детей.
+      czech: Vyhubili jsme je jako klata, jako jsme ucinili chesbonskemu krali
+        Sichonovi; vyhubili jsme kazde mesto jako klate, muze, zeny i deti.
+      spanish: las dimos al anatema, como habíamos hecho con Seón, rey de Hesebón,
+        dando al anatema ciudades, hombres, mujeres y niños,
+      vadim: И обрекли мы их, так как сделали это с Сихоном, царем Хешбона, обрекши во
+        всех городах, мужчин, и женщин и малолетков.
+      greek-lxx: ἐξωλεθρεύσαμεν αὐτούς ὥσπερ ἐποιήσαμεν τὸν Σηων βασιλέα Εσεβων καὶ
+        ἐξωλεθρεύσαμεν πᾶσαν πόλιν ἑξῆς καὶ τὰς γυναῖκας καὶ τὰ παιδία
+      st_text: и предали мы их заклятию, как поступили с Сигоном, царем Есевонским,
+        предав заклятию всякий город с мужчинами, женщинами и детьми;
+  - id: 36549
+    number: 7
+    bookId: 5
+    text: но весь скот и захваченное в городах взяли себе в добычу.
+    chapter: 3
+    chapterId: 156
+    parallels:
+      - verseId: 36275
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 20
+        short: Втор:20:14
+    translates:
+      kassian: ""
+      podstr: а весь скот и добычу городов забрали себе.
+      csya: и вся скоты, и корысти градныя пленихом себе,
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 вс‰ скоты2, и3 кwры1сти гр†дныz плэни1хомъ себЁ,
+      sovr_rbo: А весь скот и захваченную в городах добычу мы оставили себе.
+      latin: jumenta autem et spolia urbium diripuimus.
+      ukr: А всю худобу й захоплене з міст забрали ми собі на здобич.
+      nkjv: But all the livestock and the spoil of the cities we took as booty for
+        ourselves.
+      desnitsky: ""
+      mt: ‫    וְכָל־הַבְּהֵמָה וּשְׁלַל הֶעָרִים בַּזּוֹנוּ לָנוּ׃ ‬
+      romana: Iar toate vitele si cele jefuite prin cetati ni le-am luat ca prada.
+      francais: Mais nous pillâmes pour nous tout le bétail et le butin des villes.
+      italian: Ma il bestiame e le spoglie delle città asportammo per noi come preda.
+      old_georgian: და საცხოვარი მათი და ფასი მონაგები მათი ნატყუენავსა თანა განვიყავთ
+        წილით და დავიპყართ ქვეყანა იგი მათი.
+      portuguese: Mas todo o gado e o despojo das cidades, tomamo-los por presa para nós.
+      polish: A wszystkie zwierzęta i łup z miasta zostawiliśmy dla siebie.
+      turkish: Hayvanlara ve kentlerdeki mallara ise el koyduk.
+      nrt: Но весь скот и добычу из их городов мы взяли себе.
+      Macarius: Но весь скот и захваченное в городах взяли себе в добычу.
+      serbian: А сву стоку и плијен по градовима заплијенисмо за се.
+      bulgarian: а всичкия добитък и плячките от градовете разграбихме.
+      deutsch: Aber alles Vieh und den Raub der Städte raubten wir für uns.
+      ukr2: а всю скотину й луп по містах забрали як здобич для себе.
+      ukr3: А всю скотину і всю здобичу по містах їх ми забрали про себе.
+      bel_syomukha: а ўсё быдла і захопленае ў гарадах узялі сабе здабычаю.
+      sergievsky: А всею скотиною и всею добычею их городов поживились мы для себя.
+      lev-khv: Но весь скот и захваченное в городах взяли себе в добычу.
+      czech: Vsechen dobytek vsak a korist z mest jsme si ponechali jako lup.
+      spanish: pero conservamos para nosotros todo el ganado y el botín de las ciudades.
+      vadim: А всею скотиною и всею добычею их городов поживились мы для себя.
+      greek-lxx: καὶ πάντα τὰ κτήνη καὶ τὰ σκῦλα τῶν πόλεων ἐπρονομεύσαμεν ἑαυτοῖς
+      st_text: но весь скот и захваченное в городах взяли себе в добычу.
+  - id: 36550
+    number: 8
+    bookId: 5
+    text: И взяли мы в то время из руки двух царей Аморрейских землю сию, которая по
+      эту сторону Иордана, от потока Арнона до горы Ермона, -
+    chapter: 3
+    chapterId: 156
+    parallels:
+      - verseId: 12165
+        bookId: 4
+        bookCode: cisla
+        chapter: 34
+        short: Чис:34:7
+      - verseId: 35266
+        bookId: 7
+        bookCode: kniga-sudej-izrailevyh
+        chapter: 3
+        short: Суд:3:3
+      - verseId: 30954
+        bookId: 22
+        bookCode: psaltir
+        chapter: 132
+        short: Пс:132:3
+    translates:
+      kassian: ""
+      podstr: И мы взяли во время то землю из рук двух царей Аморреев, которые были за
+        Иорданом от потока Арнон и до Аермона
+      csya: и взяхом в то время землю от рук двух царей аморрейских, иже быша об оны
+        пол иордана, от водотечи арнони, даже и до горы аермона.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 взsхомъ въ то2 вре1мz зе1млю t рyкъ двyхъ царе1й ґморре1йскихъ,
+        и5же бы1ша њб8 њ1нъ по1лъ їoрдaна, t водоте1чи ґрнHни, дaже и3 до горы2
+        ґермHна.
+      sovr_rbo: Итак, в ту пору мы завоевали земли двух аморейских царей, правивших за
+        Иорданом, — земли от Арнонской долины до горы Хермон
+      latin: "Tulimusque illo in tempore terram de manu duorum regum Amorrhaeorum, qui
+        erant trans Jordanem: a torrente Arnon usque ad montem Hernon,"
+      ukr: І взяли ми того часу той край з руки обох царів амореянина, що по другому
+        боці Йордану, від Арнонського потоку аж до гори Гермон,
+      nkjv: And at that time we took the land from the hand of the two kings of the
+        Amorites who were on this side of the Jordan, from the River Arnon to
+        Mount Hermon
+      desnitsky: ""
+      mt: ‫    וַנִּקַּח בָּעֵת הַהִוא אֶת־הָאָרֶץ מִיַּד שְׁנֵי מַלְכֵי הָאֱמֹרִי
+        אֲשֶׁר בְּעֵבֶר הַיַּרְדֵּן מִנַּחַל אַרְנֹן עַד־הַר חֶרְמוֹן׃ ‬
+      romana: Am luat in vremea aceea din mainile celor doi regi amorei pamantul
+        acesta care este dincoace de Iordan, de la raul Arnon pana la muntele
+        Hermon.
+      francais: C'est ainsi que, dans ce temps-là, nous conquîmes sur les deux rois
+        des Amoréens le pays de l'autre côté du Jourdain, depuis le torrent de
+        l'Arnon jusqu'à la montagne de l'Hermon
+      italian: In quel tempo, abbiamo preso ai due re degli Amorrei il paese che è
+        oltre il Giordano, dal torrente Arnon al monte Ermon
+      old_georgian: მიერ ჟამსა შინა ჴელთაგან ორთა მეფეთა ამორეველთაჲსა, რომელნი-იგი
+        იყვნეს წიაღ იორდანესა ნაღუარევითგან არნონით ვიდრე ჰერნონდმდე.
+      portuguese: "Assim naquele tempo tomamos a terra da mão daqueles dois reis dos
+        amorreus, que estavam além do Jordão,\rdesde o rio Arnom até o monte
+        Hermom"
+      polish: Przejęliśmy w owym czasie z rąk dwóch królów amoryckich ziemię za
+        Jordanem od potoku Arnon aż do gór Hermonu.
+      turkish: «Arnon Vadisi'nden Hermon Dağı'na kadar Şeria Irmağı'nın doğu
+        yakasındaki toprakları iki Amorlu kralın elinden aldık.
+      nrt: Итак, в то время, мы взяли у этих двух аморрейских царей землю к востоку от
+        Иордана, от потока Арнона до самой горы Хермон.
+      Macarius: Таким образом взяли мы в то время из руки двух царей Аморрейских землю
+        сию, которая по сю сторону Иордана, от потока Арнона до горы Ермона,
+      serbian: Тако узесмо онда земљу из руку двојице царева Аморејских, која је с ову
+        страну Јордана од потока Арнона до горе Ермона,
+      bulgarian: И тогава превзехме от ръцете на двамата аморейски царе земята отсам
+        Иордан, от поток Арнон до планина Ермон, -
+      deutsch: Also nahmen wir zu der Zeit das Land aus der Hand der zwei Könige der
+        Amoriter, jenseit des Jordans, von dem Bach Arnon an bis an den Berg
+        Hermon
+      ukr2: Отак забрали ми тоді з рук обох аморійських царів землю, що по той бік
+        Йордану, від Арнон-потоку до Хермон-гори.
+      ukr3: І взяли ми того часу із рук обох царів Аморійських землю, що по сїм боцї
+        Йорданї, від Арнон-ріки до Гермон-гори.
+      bel_syomukha: І ўзялі мы ў той час з рукі двух цароў Амарэйскіх зямлю гэтую,
+        якая па гэты бок Ярдана, ад патока Арнона да гары Эрмона, -
+      sergievsky: Таким образом взяли мы в то время из руки обоих царей Аморитских
+        землю, которая по сю сторону Jордэна, от потока Арнона до горы Хермона
+      lev-khv: И взяли мы в то время из руки двух царей Аморрейских эту землю, которая
+        по сю сторону Иордана, от потока Арнона до горы Хермона,
+      czech: Tak jsme v one dobe vzali z rukou dvou emorejskych kralu, kteri byli v
+        Zajordani, zemi od potoka Arnonu az k Chermonskemu pohori.
+      spanish: Tomamos, pues, entonces a los dos reyes de los amorreos toda la tierra
+        del lado de allá del Jordán, desde el torrente del Arnón hasta el monte
+        Hermón.
+      vadim: Таким образом взяли мы в то время из руки обоих царей Аморитских землю,
+        которая по сю сторону Jордэна, от потока Арнона до горы Хермона
+      greek-lxx: καὶ ἐλάβομεν ἐν τῷ καιρῷ ἐκείνῳ τὴν γῆν ἐκ χειρῶν δύο βασιλέων τῶν
+        Αμορραίων οἳ ἦσαν πέραν τοῦ Ιορδάνου ἀπὸ τοῦ χειμάρρου Αρνων καὶ ἕως
+        Αερμων
+      st_text: И взяли мы в то время из руки двух царей Аморрейских землю сию, которая
+        по эту сторону Иордана, от потока Арнона до горы Ермона, -
+  - id: 36551
+    number: 9
+    bookId: 5
+    text: Сидоняне Ермон называют Сирионом, а Аморреи называют его Сениром, -
+    chapter: 3
+    chapterId: 156
+    parallels:
+      - verseId: 36762
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 4
+        short: Втор:4:48
+      - verseId: 3380
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 5
+        short: 1 Пар:5:23
+      - verseId: 17143
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 27
+        short: Иез:27:5
+    translates:
+      kassian: ""
+      podstr: Финикиане называют Аермон Саниор, а Аморрей называет его Санир,
+      csya: Финикиане прозывают аермон саниором, аморрей же прозва его саниром.
+      averincev: ""
+      ungerov: ""
+      csya_old: Фінікjане прозывaютъ ґермHнъ саніHромъ, ґморре1й же прозвA є3го2
+        санjромъ.
+      sovr_rbo: (сидоняне называют ее Сирион, а амореи — Сенир) —
+      latin: "quem Sidonii Sarion vocant, et Amorrhaei Sanir:"
+      ukr: сидоняни кличуть на Гермон Сірйон, а амореяни кличуть на нього Сенір,
+      nkjv: (the Sidonians call Hermon Sirion, and the Amorites call it Senir),
+      desnitsky: ""
+      mt: ‫    צִידֹנִים יִקְרְאוּ לְחֶרְמוֹן שִׂרְיֹן וְהָאֱמֹרִי יִקְרְאוּ־לוֹ
+        שְׂנִיר׃ ‬
+      romana: (Sidonienii numesc Hermonul, Sirion, iar Amoreii il numesc Senir).
+      francais: (les Sidoniens donnent à l'Hermon le nom de Sirion, et les Amoréens
+        celui de Senir,)
+      italian: quelli di Sidone chiamano Sirion l'Ermon, gli Amorrei lo chiamano Senir
+        —,
+      old_georgian: რომელთა-იგი ტაიჭიკ სახელ-ედების ჰაერმონ, რომელ-იგი არს სანიორი,
+        რამეთუ ამორეველმან მან სანირ სახელი უწოდა მას.
+      portuguese: (ao Hermom os sidônios chamam Siriom, e os amorreus chamam-lhe Senir),
+      polish: "- Sydończycy nazywają Hermon Sirion, Amoryci zaś zwą go Senir. -"
+      turkish: -Saydalılar Hermon'a Siryon, Amorlular'sa Senir derler.-
+      nrt: (Сидоняне называют Хермон Сирионом, а аморреи – Сениром.)
+      Macarius: (Сидоняне Ермон называют Ширионом, а Аморреи называют его Сениром,)
+      serbian: (Сидонци зову Ермон Сирион, а Амореји га зову  Сенир,)
+      bulgarian: сидонци казват на Ермон Си'рион, а аморейци го наричат Сенир, -
+      deutsch: (welchen die Sidoniter Sirjon heißen, aber die Amoriter heißen ihn
+        Senir),
+      ukr2: Сидонії звуть Хермон Сірйоном; аморії ж називають його Сеніром;
+      ukr3: Зидонїї звуть Гермона Сирйон, Аморії ж звуть його Сенір.
+      bel_syomukha: Сіданяне Эрмон называюць Сірыёнам, а Амарэі называюць яго Сэнірам, -
+      sergievsky: (Цидониты называют Хермон — Сирjон, а Амориты называют его — Сенир);
+      lev-khv: (Сидоняне называют Хермон Сирионом, а Аморреи называют его Сениром,)
+      czech: Chermon nazyvaji Sidonci Sirjon a Emorejci jej nazyvaji Senir.)
+      spanish: Los sidonios al Hermón le llaman Sarión, y los amorreos Sanir.
+      vadim: (Цидониты называют Хермон — Сирjон, а Амориты называют его — Сенир);
+      greek-lxx: οἱ Φοίνικες ἐπονομάζουσιν τὸ Αερμων Σανιωρ καὶ ὁ Αμορραῖος ἐπωνόμασεν
+        αὐτὸ Σανιρ
+      st_text: Сидоняне Ермон называют Сирионом, а Аморреи называют его Сениром, -
+  - id: 36552
+    number: 10
+    bookId: 5
+    text: все города на равнине, весь Галаад и весь Васан до Салхи и Едреи, города
+      царства Ога Васанского;
+    chapter: 3
+    chapterId: 156
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: все города Мисора и весь Галаад и весь Васан до Селха и Едраин, города
+        царства Ога в Васане.
+      csya: "Вси грады мисоровы, и весь галаад, и весь васан даже до елхи и едраима,
+        грады царствия огова в васане:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Вси2 грaды місHрwвы, и3 ве1сь галаaдъ, и3 ве1сь васaнъ дaже до є4лхи
+        и3 є3драjма, грaды цaрствіz њ1гова въ васaнэ:"
+      sovr_rbo: все селения Плоскогорья, весь Галаад и весь Башан, вплоть до Салхи и
+        Эдреи, городов башанского царства Ога.
+      latin: omnes civitates, quae sitae sunt in planitie, et universam terram Galaad
+        et Basan usque ad Selcha, et Edrai civitates regni Og in Basan.
+      ukr: усі міста на рівнині, і ввесь Ґілеад, і ввесь Башан аж до Салхи й Едреї,
+        міст царства Оґа в Башані.
+      nkjv: all the cities of the plain, all Gilead, and all Bashan, as far as Salcah
+        and Edrei, cities of the kingdom of Og in Bashan.
+      desnitsky: ""
+      mt: ‫    כֹּל עָרֵי הַמִּישֹׁר וְכָל־הַגִּלְעָד וְכָל־הַבָּשָׁן עַד־סַלְכָה
+        וְאֶדְרֶעִי עָרֵי מַמְלֶכֶת עוֹג בַּבָּשָׁן׃ ‬
+      romana: Am luat adica toate cetatile din ses, tot Galaadul si tot Vasanul, pana
+        la Salca si Edrei, cetatile din tara lui Og al Vasanului.
+      francais: toutes les villes de la plaine, tout Galaad et tout Basan jusqu'à
+        Salca et Édréi, villes du royaume d'Og en Basan.
+      italian: tutte le città della pianura, tutto Gàlaad, tutto Basan fino a Salca e
+        a Edrei, città del regno di Og in Basan.
+      old_georgian: ყოველი ქალაქები ნისონისაჲ და ყოველი გალაადი და ყოველი ბასაანი
+        ვიდრე სელლქალდმდე და ედრაემდ, ესე ყოველი ქალაქები ოგისი, მეფისა მის
+        ბასანელთაჲსა.
+      portuguese: "todas as cidades do planalto, e todo o Gileade, e todo o Basã, até
+        Salca e Edrei, cidades do reino de Ogue em\rBasã."
+      polish: "Wszystkie miasta na równinie, cały Gilead, cały Baszan - aż do Salka i
+        Edrei,\rmiast w królestwie Oga w Baszanie,"
+      turkish: Ovadaki bütün kentleri, bütün Gilat'ı, Og'un ülkesine ait kentler olan
+        Salka ve Edrei'ye uzanan bütün Başan'ı ele geçirdik.»
+      nrt: Мы взяли все их города на плоскогорье, весь Галаад и весь Башан до Салхи и
+        Эдреи, городов царства Ога в Башане.
+      Macarius: Все города на равнине, весь Галаад и весь Васан до Салхи и Едреи,
+        города царства Ога Васанского.
+      serbian: Сва мјеста у равни и сав Галад и сав Васан до Салхе и Едрајина, градове
+        царства Ога у Васану.
+      bulgarian: всички градове на равнината, цял Галаад и цял Васан до Салха и Едрея,
+        градове от царството на Ога васански;
+      deutsch: alle Städte auf der Ebene und das ganze Gilead und das ganze Basan bis
+        gen Salcha und Edrei, die Städte des Königreichs Ogs von Basan.
+      ukr2: усі міста, що на рівнині, ввесь Гілеад і ввесь Башан до Салхи та й до
+        Едреї, міста в царстві Ога в Башані.
+      ukr3: Всї міста подільські й увесь Гілеад і ввесь Базан, до Св Блки та до Едреї,
+        міста в царстві Ога в Базанї.
+      bel_syomukha: усе гарады на раўніне, увесь Галаад і ўвесь Васан да Салхі й
+        Эдрэі, гарады царства Ога Васанскага;
+      sergievsky: все города плоскости, и весь Гилеад, и весь Башан, до Салехи и
+        Эдрэи, города царства Ога в Башане.
+      lev-khv: Все города на равнине, и весь Галаад, и весь Васан до Салхи и Едреи,
+        город&#225; царства Ога Васанскаго;
+      czech: Vzali jsme vsechna mesta nahorni roviny, cely Gilead, cely Basan az po
+        Salku a Edrei, mesta Ogova kralovstvi v Basanu.
+      spanish: Todas las ciudades del llano, todo Galaad y todo Basán, hasta Seija y
+        Edraí, capitales del reino de Og, en Basán,
+      vadim: все города плоскости, и весь Гилеад, и весь Башан, до Салехи и Эдрэи,
+        города царства Ога в Башане.
+      greek-lxx: πᾶσαι πόλεις Μισωρ καὶ πᾶσα Γαλααδ καὶ πᾶσα Βασαν ἕως Σελχα καὶ
+        Εδραϊν πόλεις βασιλείας τοῦ Ωγ ἐν τῇ Βασαν
+      st_text: все города на равнине, весь Галаад и весь Васан до Салхи и Едреи,
+        города царства Ога Васанского;
+  - id: 36553
+    number: 11
+    bookId: 5
+    text: "ибо только Ог, царь Васанский, оставался из Рефаимов. Вот, одр его, одр
+      железный, и теперь в Равве, у сынов Аммоновых: длина его девять локтей, а
+      ширина его четыре локтя, локтей мужеских."
+    chapter: 3
+    chapterId: 156
+    parallels:
+      - verseId: 11662
+        bookId: 4
+        bookCode: cisla
+        chapter: 21
+        short: Чис:21:31
+      - verseId: 11664
+        bookId: 4
+        bookCode: cisla
+        chapter: 21
+        short: Чис:21:33
+      - verseId: 26986
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 12
+        short: Нав:12:13
+      - verseId: 3905
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 12
+        short: 2 Цар:12:26
+    translates:
+      kassian: ""
+      podstr: Потому что однако Ог царь Васана остался от Рафаинов; вот кровать его
+        кровать железная, вот эта в крае сыновей Аммона, девять локтей длина её
+        и четыре локтя ширина её локтя мужчины.
+      csya: "яко точию ог царь васанский остася от рафаинов: се, одр его одр железен,
+        се, той есть в краеградии сынов аммановых: девять лакот долгота его и
+        четыри лакти широта его лактем мужеским."
+      averincev: ""
+      ungerov: ""
+      csya_old: "ћкw то1чію њ1гъ цaрь васaнскій њстaсz t рафаjнwвъ: се2, џдръ є3гw2
+        џдръ жєлёзенъ, се2, то1й є4сть въ краегрaдіи [Гре1ч.: ѓкра] сынHвъ
+        ґммaновыхъ: де1вzть лакHтъ долготA є3гw2 и3 четы1ри лaкти широтA є3гw2
+        лaктемъ мyжескимъ."
+      sovr_rbo: (Ог, царь башанский, был последним из рефаимов. А ложе его — железное.
+        Сейчас оно в Равве Аммонской; оно — девяти локтей в длину и четырех в
+        ширину, в обычных локтях.)
+      latin: Solus quippe Og rex Basan restiterat de stirpe gigantum. Monstratur
+        lectus ejus ferreus, qui est in Rabbath filiorum Ammon, novem cubitos
+        habens longitudinis, et quatuor latitudinis ad mensuram cubiti virilis
+        manus.
+      ukr: Бо тільки Оґ, цар башанський, позостав із решти рефаїв. Оце його ложе, ложе
+        залізне; чи ж не воно в Раббі Аммонових синів, дев'ять ліктів довжина
+        його, і чотири лікті ширина його, на міру ліктем чоловіка.
+      nkjv: For only Og king of Bashan remained of the remnant of the giants. Indeed
+        his bedstead was an iron bedstead. (Is it not in Rabbah of the people of
+        Ammon?) Nine cubits is its length and four cubits its width, according
+        to the standard cubit.
+      desnitsky: ""
+      mt: ‫    כִּי רַק־עוֹג מֶלֶךְ הַבָּשָׁן נִשְׁאַר מִיֶּתֶר הָרְפָאִים הִנֵּה
+        עַרְשׂוֹ עֶרֶשׂ בַּרְזֶל הֲלֹה הִוא בְּרַבַּת בְּנֵי עַמּוֹן תֵּשַׁע
+        אַמּוֹת אָרְכָּהּ וְאַרְבַּע אַמּוֹת רָחְבָּהּ בְּאַמַּת־אִישׁ׃ ‬
+      romana: "Caci numai Og, regele Vasanului, mai ramasese din Refaimi. Iata patul
+        lui, pat de fier, si astazi este in Rabat-Amon: lung de noua coti si lat
+        de patru coti, coti barbatesti."
+      francais: (Og, roi de Basan, était resté seul de la race des Rephaïm. Voici, son
+        lit, un lit de fer, n'est-il pas à Rabbath, ville des enfants d'Ammon?
+        Sa longueur est de neuf coudées, et sa largeur de quatre coudées, en
+        coudées d'homme.)
+      italian: Perché Og, re di Basan, era rimasto l'unico superstite dei Refaim.
+        Ecco, il suo letto, un letto di ferro, non è forse a Rabba degli
+        Ammoniti? È lungo nove cubiti secondo il cubito di un uomo.
+      old_georgian: რამეთუ ოგ, მეფჱ ბასანელთაჲ, მარტო დაშთა რაფანელთაგან. და იყო
+        ცხედარი მისი ცხედარი რკინისაჲ და ძნელოვანსა მას ძეთა ამონისთასა დადგომილ
+        იყო იგი, ცხრა წყრთაჲ სიგრძე მისი და ოთხ წყრთა სივრცე მისი წყრთა
+        მამაკაცისათა.
+      portuguese: "Porque só Ogue, rei de Basã, ficou de resto dos refains; eis que o
+        seu leito, um leito de ferro, não está\rporventura em Rabá dos amonitas?
+        o seu comprimento é de nove côvados, e de quatro côvados a sua
+        largura,\rsegundo o côvado em uso."
+      polish: "gdyż Og, król Baszanu, był ostatnim z Refaitów. Jego grobowiec żelazny
+        jest\rw Rabbat synów Ammona: dziewięć łokci długi, cztery łokcie
+        szeroki, [mierzony] według łokcia zwyczajnego."
+      turkish: -Refalılar'dan yalnız Başan Kralı Og sağ kalmıştı. Og'un Ammonlular'ın
+        Rabba Kenti'ndeki yatağı demirdendi. O gün kullanılan arşın ölçüsüne
+        göre uzunluğu dokuz, eni dört arşındı.-
+      nrt: (Ог, царь Башана, был одним из последних рефаимов, народа гигантов. Его
+        ложе было сделано из железа, девять локтей в длину и четыре локтя в
+        ширину. Оно и сейчас находится у аммонитян в Равве.)
+      Macarius: "Ибо только Ог, царь Васанский, оставался из Рефаимов. Вот, одр его,
+        одр железный, не находится ли и теперь в Раббе, у сынов Аммоновых: длина
+        его девять локтей, а ширина его четыре локтя, локтей мужеских."
+      serbian: Јер само Ог, цар Васански, бјеше остао од дивова. Гле, одар његов, одар
+        гвозден, није ли у Рави синова Амоновијех? Девет је лаката дуг а широк
+        четири лакта, лакта човјечија.
+      bulgarian: "защото само васанският цар Ог оставаше от рефаими. Ето, одърът му
+        беше железен одър, и сега е в Рава, у Амоновите синове: дълъг девет
+        лакти, а широк - четири лакти, мъжки лакти."
+      deutsch: (Denn allein der König Og von Basan war noch übrig von den Riesen.
+        Siehe, sein eisernes Bett ist zu Rabba der Kinder Ammon, neun Ellen lang
+        und vier Ellen breit nach eines Mannes Ellenbogen.)
+      ukr2: Тільки Ог, башанський цар, лишився живим з останніх рефаїв; ліжко його,
+        ліжко залізне, можна й досі бачити в Раббі, в синів Аммона; дев'ять
+        ліктів завдовжки й чотири лікті завширш, по звичайному людському ліктю.
+      ukr3: Бо тільки Ог, царь Базанський, зоставсь з останнїх велетнїв. Ось, ложе
+        його, желїзне ложе, не воно хиба в Рабатї, у синів Амона? Девять локот
+        воно завдовжки і чотирі ліктї завширшки, по ліктях людських.
+      bel_syomukha: "бо толькі Ог, цар Васанскі, заставаўся з Рэфаімаў. Вось, ложак
+        ягоны, ложак жалезны, і цяпер у Раве, у сыноў Амонавых: даўжыня яго
+        дзевяць локцяў, а шырыня яго чатыры локці, локцяў мужчынскіх."
+      sergievsky: "(Ибо только Ог, царь Башана, оставался из последков исполинов. Вот,
+        ложе его — железное ложе: не оно разве в Рабате, в земле сынов Амона?
+        девять локтей длина его и четыре локтя ширина его, по локтям
+        человеческим!)"
+      lev-khv: "Потому что только Ог, царь Васанский, оставался из остатка Рефаимов.
+        Вог одр его, одр железный, вот он в Раббе, у сынов Аммоновых: длина его
+        девять локтей, а ширина его четыре локтя, локтей мужеских."
+      czech: Nebot prave basansky kral Og zustal ze zbytku Refajcu. Hle, jeho loze,
+        loze zelezne, je v Rabe Amonovcu. Je dlouhe devet loket a siroke ctyri
+        lokte, mereno beznym loktem.
+      spanish: pues Og, rey de Basán, era el solo que de la raza de los refaím
+        quedaba; su lecho, un lecho de hierro, se ve en Rabat, de los hijos de
+        Ammón, de nueve codos de largo, y de cuatro codos ancho, codos humanos.
+      vadim: "(Ибо только Ог, царь Башана, оставался из последков исполинов. Вот, ложе
+        его — железное ложе: не оно разве в Рабате, в земле сынов Амона? девять
+        локтей длина его и четыре локтя ширина его, по локтям человеческим!)"
+      greek-lxx: ὅτι πλὴν Ωγ βασιλεὺς Βασαν κατελείφθη ἀπὸ τῶν Ραφαϊν ἰδοὺ ἡ κλίνη
+        αὐτοῦ κλίνη σιδηρᾶ ἰδοὺ αὕτη ἐν τῇ ἄκρᾳ τῶν υἱῶν Αμμων ἐννέα πηχῶν τὸ
+        μῆκος αὐτῆς καὶ τεσσάρων πηχῶν τὸ εὖρος αὐτῆς ἐν πήχει ἀνδρός
+      st_text: "ибо только Ог, царь Васанский, оставался из Рефаимов. Вот, одр его,
+        одр железный, и теперь в Равве, у сынов Аммоновых: длина его девять
+        локтей, а ширина его четыре локтя, локтей мужеских."
+  - id: 36554
+    number: 12
+    bookId: 5
+    text: Землю сию взяли мы в то время начиная от Ароера, который у потока Арнона;
+      и половину горы Галаада с городами ее отдал я <i>колену</i> Рувимову и
+      Гадову;
+    chapter: 3
+    chapterId: 156
+    parallels:
+      - verseId: 12079
+        bookId: 4
+        bookCode: cisla
+        chapter: 32
+        short: Чис:32:19
+      - verseId: 12093
+        bookId: 4
+        bookCode: cisla
+        chapter: 32
+        short: Чис:32:33
+      - verseId: 27033
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 14
+        short: Нав:14:3
+      - verseId: 27143
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 18
+        short: Нав:18:7
+      - verseId: 34975
+        bookId: 7
+        bookCode: kniga-sudej-izrailevyh
+        chapter: 11
+        short: Суд:11:33
+      - verseId: 674
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 30
+        short: 1 Цар:30:28
+    translates:
+      kassian: ""
+      podstr: И землю ту унаследовали во время то от Ароера, которая есть у берега
+        потока Арнон, и половину горы Галаад и городов его Я дал Рувину и Гаду.
+      csya: "И землю ту наследихом во оно время от ароира, иже есть у устия водотечи
+        ариони, и пол горы галаадовы: и грады его дах рувиму и гаду:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# зе1млю тY наслёдихомъ во џно вре1мz t ґрои1ра, и4же є4сть ў ќстіz
+        водоте1чи ґрнHни, и3 по1лъ горы2 галаaдовы: и3 грaды є3гw2 дaхъ руви1му
+        и3 гaду:"
+      sovr_rbo: Земли, которыми мы овладели в ту пору, начиная от Ароэра, что над
+        Арнонской долиной, и включая половину Галаадского нагорья с его
+        селениями, я отдал племенам Рувима и Гада.
+      latin: "Terramque possedimus tempore illo ab Aroer, quae est super ripam
+        torrentis Arnon, usque ad mediam partem montis Galaad: et civitates
+        illius dedi Ruben et Gad."
+      ukr: А Край той того часу посіли ми. Від Ароеру, що над Арнонським потоком, і
+        половину гори Ґілеад, і міста його я дав Рувимовим та Ґадовим.
+      nkjv: '"And this land, which we possessed at that time, from Aroer, which is by
+        the River Arnon, and half the mountains of Gilead and its cities, I gave
+        to the Reubenites and the Gadites.'
+      desnitsky: ""
+      mt: ‫    וְאֶת־הָאָרֶץ הַזֹּאת יָרַשְׁנוּ בָּעֵת הַהִוא מֵעֲרֹעֵר
+        אֲשֶׁר־עַל־נַחַל אַרְנֹן וַחֲצִי הַר־הַגִּלְעָד וְעָרָיו נָתַתִּי
+        לָרֻאוּבֵנִי‪‬ וְלַגָּדִי׃ ‬
+      romana: Pamantul acesta l-am luat atunci incepand de la Aroer, care este langa
+        raul Arnon; jumatate din muntele Galaadului cu cetatile lui l-am dat
+        semintiilor lui Ruben si Gad;
+      francais: Nous prîmes alors possession de ce pays. Je donnai aux Rubénites et
+        aux Gadites le territoire à partir d'Aroër sur le torrent de l'Arnon et
+        la moitié de la montagne de Galaad avec ses villes.
+      italian: "In quel tempo abbiamo preso in possesso questo paese: ai Rubeniti e ai
+        Gaditi diedi il territorio di Aroer, sul torrente Arnon, fino a metà
+        della montagna di Gàlaad con le sue città."
+      old_georgian: "და ქუეყანაჲ იგი მათი დავიმკჳდრეთ ჩუენ მას ჟამსა შინა, რომელ არს
+        კიდედმდე ნაღუარევისა მის არნონისა და ვიდრე ზოგადმდე მთისა მის
+        გალადელთაჲსა: და ქალაქები იგი მათი მივეც რუბენს და გაადს."
+      portuguese: "Naquele tempo, pois, tomamos essa terra por possessão. Desde Aroer,
+        que está junto do vale do Arnom, e a\rmetade da região montanhosa de
+        Gileade, com as suas cidades, dei aos nibenitas e gaditas;"
+      polish: "Posiedliśmy w tym czasie całą tę ziemię, od Aroeru nad potokiem
+        Arnon.\rPołowę gór Gileadu z jego miastami oddałem ludziom z pokolenia
+        Rubena i\rGada."
+      turkish: «O sırada ele geçirdiğimiz topraklardan Arnon Vadisi yakınındaki Aroer
+        Kenti'nin kuzeyini, Gilat dağlık bölgesinin yarısıyla oradaki kentleri
+        Ruben ve Gad oymaklarına verdim.
+      nrt: Из земли, которой мы завладели в то время, я отдал родам Рувима и Гада
+        область к северу от Ароера у потока Арнона, включая половину нагорий
+        Галаада вместе с городами.
+      Macarius: Землю сию взяли мы в то время в наследие, начиная от Ароира, который у
+        потока Арнона; и половину горы Галаада с городами ее отдал я колену
+        Рувимову и Гадову,
+      serbian: Тако наслиједисмо ту земљу онда; од Ароира, који је на потоку Арнону, и
+        половину горе Галада с градовима њезинијем дадох синовима Рувимовијем и
+        Гадовијем.
+      bulgarian: Тогава превзехме тая земя, като почнеш от Ароир, който е при поток
+        Арнон; а половината от планина Галаад с градовете й предадох на
+        Рувимовото и Гадовото колена;
+      deutsch: Solches Land nahmen wir ein zu derselben Zeit. Von Aroer an, das am
+        Bach Arnon liegt, gab ich's den Rubeniter und Gaditern samt dem halben
+        Gebirge Gilead mit seinen Städten.
+      ukr2: Тож цю землю ми зайняли з того часу. (Полосу) від Ароеру, що над Арнон -
+        потоком і половину Гілеад-гори; їхні міста віддав я рувимлянам та
+        гадіям;
+      ukr3: І землю сю заняли ми того ж часу. Від Ароеру, що над Арнон-рікою, і
+        половину гір Гілеад і міста їх віддав я Рубенїям та Гадїям;
+      bel_syomukha: Зямлю гэтую ўзялі мы ў той час, пачынаючы ад Араіра, які каля
+        патока Арнона; і палавіну гары Галаада з гарадамі яе аддаў я племю
+        Рувімаваму і Гадаваму;
+      sergievsky: И землю эту, которою овладели мы в то время, от Ароэра, что на
+        потоке Арнон, и пол горы Гилеад, и города ея отдал я Рубенитам и
+        Гадитам.
+      lev-khv: И этою землею овладели мы в то время. От Ароира, чтó у потока Арнона, и
+        половину горы Галаада с городами ея отдал я <i>колену</i> Рувимову и
+        Гадову;
+      czech: V one dobe jsme tedy obsadili toto uzemi od Aroeru pri potoku Arnonu.
+        Polovinu Gileadskeho pohori s tamnimi mesty jsem dal Rubenovcum a
+        Gadovcum.
+      spanish: <<Tornamos posesión de la tierra, que di a los rubenitas y a los
+        gaditas, a partir de Aroer, en el valle del Arnón, así como de la mitad
+        de la montaña de Galaad con sus ciudades.
+      vadim: И землю эту, которою овладели мы в то время, от Ароэра, что на потоке
+        Арнон, и пол горы Гилеад, и города ея отдал я Рубенитам и Гадитам.
+      greek-lxx: καὶ τὴν γῆν ἐκείνην ἐκληρονομήσαμεν ἐν τῷ καιρῷ ἐκείνῳ ἀπὸ Αροηρ ἥ
+        ἐστιν ἐπὶ τοῦ χείλους χειμάρρου Αρνων καὶ τὸ ἥμισυ ὄρους Γαλααδ καὶ τὰς
+        πόλεις αὐτοῦ ἔδωκα τῷ Ρουβην καὶ τῷ Γαδ
+      st_text: Землю сию взяли мы в то время начиная от Ароера, который у потока
+        Арнона; и половину горы Галаада с городами ее отдал я <i>колену</i>
+        Рувимову и Гадову;
+  - id: 36555
+    number: 13
+    bookId: 5
+    text: а остаток Галаада и весь Васан, царство Ога, отдал я половине колена
+      Манассиина, всю область Аргов со всем Васаном. [Она называется землею
+      Рефаимов.]
+    chapter: 3
+    chapterId: 156
+    parallels:
+      - verseId: 36258
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 2
+        short: Втор:2:34
+      - verseId: 26978
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 12
+        short: Нав:12:5
+    translates:
+      kassian: ""
+      podstr: И остальное Галаада и всё Васана, царство Ога, Я дал половине племени
+        Манассии и всю окрестность Аргов, всю Васана ту; земля Рафаинов [она]
+        будет засчитана.
+      csya: и оставшее галаадово, и все васанское царство огово дах полуплемени
+        манассиину, и весь предел аргова, весь васан оный, земля рафаиня
+        вменится.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 њстaвшее галаaдово, и3 все2 васaнское цaрство њ1гово дaхъ
+        полупле1мени манассjину, и3 ве1сь предёлъ ґрго1ва, ве1сь васaнъ џный,
+        землS рафаjнz вмэни1тсz.
+      sovr_rbo: Остальной Галаад, а также весь Башан, царство Ога, я отдал половине
+        племени Манассии. (Всю область Аргбов — весь Башан — прежде называли
+        землей рефаимов.
+      latin: "Reliquam autem partem Galaad, et omnem Basan regni Og, tradidi mediae
+        tribui Manasse, omnem regionem Argob: cunctaque Basan vocatur Terra
+        gigantum."
+      ukr: "А решту Ґілеаду та ввесь Башан, царство Оґа, віддав я половині племени
+        Манасіїного, усю околицю арґовську, на ввесь той Башан кличеться: Край
+        рефаїв."
+      nkjv: The rest of Gilead, and all Bashan, the kingdom of Og, I gave to half the
+        tribe of Manasseh. (All the region of Argob, with all Bashan, was called
+        the land of the giants.
+      desnitsky: ""
+      mt: ‫    וְיֶתֶר הַגִּלְעָד וְכָל־הַבָּשָׁן מַמְלֶכֶת עוֹג נָתַתִּי לַחֲצִי
+        שֵׁבֶט הַמְנַשֶּׁה כֹּל חֶבֶל הָאַרְגֹּב לְכָל־הַבָּשָׁן הַהוּא יִקָּרֵא
+        אֶרֶץ רְפָאִים׃ ‬
+      romana: Iar ramasita cealalta din Galaad si tot Vasanul, tara lui Og, le-am dat
+        la jumatate din semintia lui Manase; tot tinutul Argob, eu tot Vasanul
+        se numeste tara Refaimilor.
+      francais: "Je donnai à la moitié de la tribu de Manassé le reste de Galaad et
+        tout le royaume d'Og en Basan: toute la contrée d'Argob, avec tout
+        Basan, c'est ce qu'on appelait le pays des Rephaïm."
+      italian: Alla metà della tribù di Manàsse diedi il resto di Gàlaad e tutto il
+        regno di Og in Basan; tutta la regione di Argob con tutto Basan, che si
+        chiamava il paese dei Refaim.
+      old_georgian: და ნეშტი იგი გალადისაჲ და ყოველი იგი ბასანი მეფისა ოგისი მივეც
+        კერძოსა მას,
+      portuguese: "e dei à meia tribo de Manassés o resto de Gileade, como também todo
+        o Basã, o reino de Ogue, isto é, toda a\rregião de Argobe com todo o
+        Basã. (O mesmo se chamava a terra dos refains."
+      polish: "Resztę Gileadu i cały Baszan - królestwo Oga, dałem połowie pokolenia
+        Manassesa: cały obszar Argob i cały ten obszar Baszanu nosił nazwę
+        ziemia\rRefaitów."
+      turkish: Gilat'ın geri kalan bölümünü ve Og'un ülkesi Başan'ı Manaşşe oymağının
+        yarısına verdim. Başan'daki Argov bölgesi Refalılar ülkesi diye
+        bilinirdi.
+      nrt: Остальную часть Галаада, а также весь Башан, царство Ога, я отдал половине
+        рода Манассии. (Вся область Аргов в Башане прежде была известна как
+        земля рефаимов.
+      Macarius: А остаток Галаада и весь Васан, царство Ога, отдал я половине колена
+        Манассиина, всю область Аргов со всем Васаном. (она называется землею
+        Рефаимов).
+      serbian: И остатак Галада и сав Васан, царство Огово, дадох половини племена
+        Манасијина; сав крај Арговски по свему Васану зваше се земља дивовска.
+      bulgarian: остатъкът пък от Галаад и цял Васан, царството на Ога, предадох на
+        половината Манасиево коляно, цялата област Аргов, с цял Васан. (Тя се
+        нарича земя на рефаими.)
+      deutsch: Aber das übrige Gilead und das ganze Basan, das Königreich Ogs, gab ich
+        dem halben Stamm Manasse, die ganze Gegend Argob (dieses ganze Basan
+        heißt der Riesen Land).
+      ukr2: а що зосталося з Гілеаду й увесь Башан, царство Ога, віддав я половині з
+        покоління Манассії, весь край Аргов. Увесь цей Башан зветься землею
+        рефаїв.
+      ukr3: А що осталось з Гілеаду і ввесь Базан, царство Огове, віддав я половинї
+        поколїнню Манассії. Вся полоса Аргоб і ввесь Базан, се називається земля
+        велетнїв.
+      bel_syomukha: а рэшту Галаада і ўвесь Васан, царства Ога, аддаў я палавіне племя
+        Манасіінага, усю вобласьць Аргаў з усім Васанам.
+      sergievsky: А остаток Гилеада и весь Башан, царство Ога, отдал я полуколену
+        Менаше; всю полосу Аргоба со всем Башаном, что они называют Землей
+        Исполинов.
+      lev-khv: А остальную часть Галаада и весь Васан, царство Ога, отдал я половине
+        колена Манассиина, всю область Аргов со всем Васаном, чтó называется
+        землею Рефаимов.
+      czech: Zbytek Gileadu s celym Basanem, kralovstvim Ogovym, jsem dal polovine
+        kmene Manasesova, cely kraj Argob; cely Basan se nazyva zemi Refajcu.
+      spanish: Di a la mitad de la tribu de Manasés el resto de Galaad y toda la parte
+        de Basán que pertenecía al reino de Og; toda la región de Argob, todo el
+        Basán, lo que hoy se llama tierra de Refaím.
+      vadim: А остаток Гилеада и весь Башан, царство Ога, отдал я полуколену Менаше;
+        всю полосу Аргоба со всем Башаном, что они называют Землей Исполинов.
+      greek-lxx: καὶ τὸ κατάλοιπον τοῦ Γαλααδ καὶ πᾶσαν τὴν Βασαν βασιλείαν Ωγ ἔδωκα
+        τῷ ἡμίσει φυλῆς Μανασση καὶ πᾶσαν περίχωρον Αργοβ πᾶσαν τὴν Βασαν
+        ἐκείνην γῆ Ραφαϊν λογισθήσεται
+      st_text: а остаток Галаада и весь Васан, царство Ога, отдал я половине колена
+        Манассиина, всю область Аргов со всем Васаном. [Она называется землею
+        Рефаимов.]
+  - id: 36556
+    number: 14
+    bookId: 5
+    text: Иаир, сын Манассиин, взял всю область Аргов, до пределов Гесурских и
+      Маахских, и назвал Васан, по имени своему, селениями Иаировыми, что и
+      доныне;
+    chapter: 3
+    chapterId: 156
+    parallels:
+      - verseId: 12101
+        bookId: 4
+        bookCode: cisla
+        chapter: 32
+        short: Чис:32:41
+      - verseId: 3839
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 10
+        short: 2 Цар:10:6
+      - verseId: 7386
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 4
+        short: 3 Цар:4:13
+    translates:
+      kassian: ""
+      podstr: И Иаир сын Манассии взял всю окрестность Аргов до пределов Гаргаси и
+        Омахафи; назвал их по имени его Васан Ауоф Иаир до дня этого.
+      csya: "и иаир сын манассиин взя вся пределы аргова, даже до предел гаргасинских
+        и махафинских: прозва я по имени своему васан авоф иаир, даже до сего
+        дне:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# їаjръ сы1нъ манассjинъ взS вс‰ предёлы ґрго1ва, дaже до предBлъ
+        гаргасjнскихъ и3 махаfjнскихъ: прозвA | по и4мени своемY васaнъ ґvHfъ
+        їаjръ, дaже до сегw2 дне2:"
+      sovr_rbo: Но Яир, сын Манассии, овладел всей областью Аргов, вплоть до границ с
+        гешурцами и маахейцами, и назвал ее своим именем, так что и по сей день
+        Башан называют Яировыми Деревнями.)
+      latin: Jair filius Manasse possedit omnem regionem Argob usque ad terminos
+        Gessuri et Machati. Vocavitque ex nomine suo Basan, Havoth Jair, id est,
+        Villas Jair, usque in praesentem diem.
+      ukr: "Яір, син Манасіїн, узяв всю Арґову околицю аж до границі ґешурів та
+        маахатів, і він назвав їх своїм іменем: Башан, села Яіра, і так їх
+        кличуть аж до цього дня."
+      nkjv: Jair the son of Manasseh took all the region of Argob, as far as the
+        border of the Geshurites and the Maachathites, and called Bashan after
+        his own name, Havoth Jair, to this day.)
+      desnitsky: ""
+      mt: ‫    יָאִיר בֶּן־מְנַשֶּׁה לָקַח אֶת־כָּל־חֶבֶל אַרְגֹּב עַד־גְּבוּל
+        הַגְּשׁוּרִי וְהַמַּעֲכָתִי וַיִּקְרָא אֹתָם עַל־שְׁמוֹ אֶת־הַבָּשָׁן
+        חַוֺּת יָאִיר עַד הַיּוֹם הַזֶּה׃ ‬
+      romana: Iair, fiul lui Manase, a luat tot tinutul Argob, pana la hotarele
+        Ghesuritilor si Maacatitilor, si a numit Vasanul, dupa numele sau,
+        salasurile lui Iair, cum se cheama si astazi.
+      francais: Jaïr, fils de Manassé, prit toute la contrée d'Argob jusqu'à la
+        frontière des Gueschuriens et des Maacathiens, et il donna son nom aux
+        bourgs de Basan, appelés encore aujourd'hui bourgs de Jaïr.
+      italian: Iair, figlio di Manàsse, prese tutta la regione di Argob, sino ai
+        confini dei Ghesuriti e dei Maacatiti, e chiamò con il suo nome i
+        villaggi di Basan, che anche oggi si chiamano Villaggi di Iair.
+      old_georgian: ნათესავსა მანასესა და ყოველი იგი გარემო სოფლები არგობისი და ყოველი
+        ბასანი ქუეყანად რაფაინისა შერაცხილ არიან, და იაირ, ძემან მანასესმან,
+        დაიპყრა ყოველი იგი სოფლები არგობისაჲ ვიდრე საზღვრადმდე გარგასისა. და
+        მაქათი სახელი უწოდა მას სახელად თავისა თჳსისა ბასანა ვათაირ მოდღეინდელად
+        დღედმდე.
+      portuguese: "Jair, filho de Manassés, tomou toda a região de Argobe, até a
+        fronteira dos resuritas e dos maacatitas, e lhes\rchamou, inclusive o
+        Basã, pelo seu nome, Havote-Jair, até hoje)."
+      polish: "Jair, potomek Manassesa, zdobył cały obszar Argob aż po granicę
+        Geszurytów i Maakatytów i nazwał go swoim imieniem. I do dziś dnia zwą
+        tę część\rBaszanu ”Osiedlami Jaira”."
+      turkish: Manaşşe soyundan Yair, Geşur ile Maaka sınırına dek uzanan bütün Argov
+        bölgesini aldı. Başan denilen bölgeye kendi adını verdi. Orası bugün de
+        Havvot-Yair diye anılıyor.
+      nrt: Иаир, потомок Манассии, захватил всю область Аргов до самой границы
+        гешуритов и маахитов. Он назвал ее своим собственным именем, и до
+        сегодняшнего дня Башан называется Хаввот-Иаир.)
+      Macarius: Иаир, сын Манассиин, взял всю область Аргов, до пределов Гессурских и
+        Маахских, и назвал Васан, по имени своему, Селениями Иаировыми, которые
+        известны до сего дня.
+      serbian: "Јаир, син Манасијин, узе сав крај Арговски до међе Гесурске и
+        Махатске; и прозва Васанску својим именом: Села Јаирова до данашњега
+        дана."
+      bulgarian: Иаир, Манасиев син, превзе цялата област Аргов до пределите Гесурски
+        и Маахски, и нарече Васан, по своето име, Иаирови селища, както и
+        доднес;
+      deutsch: Jair, der Sohn Manasses, nahm die ganze Gegend Argob bis an die Grenze
+        der Gessuriter und Maachathiter und hieß das Basan nach seinem Namen
+        Dörfer Jairs bis auf den heutigen Tag.
+      ukr2: Яір, син Манассії, зайняв увесь край Аргов до границі гешуріїв та
+        маахатіїв і назвав ті місця башанські, за своїм іменем, «Села Яіра»,
+        посьогодні.
+      ukr3: Яір Манассієнко взяв усю полосу Аргоб до границї Гезуріїв і Маакатіїв, і
+        назвав землю Базан, по свому прізвищу, села Яірові, по сей день.
+      bel_syomukha: Яір, сын Манасіін, узяў усю вобласьць Аргаў да межаў Гесурскіх І
+        Маахскіх, і назваў Васан, паводле імя свайго, селішчамі Яіравымі, як і
+        да сёньня;
+      sergievsky: "Яир, сын Менаше, взял всю полосу Аргоба до пределов Гешуритов и
+        Маахатитов, и назвал их, то есть Башан, по своему имени: Села Яировы, по
+        ныне."
+      lev-khv: Иаир, сын Манассиин, взял всю область Аргов, до пределов Гешурских и
+        Маахских, и назвал Васан, по имени своему, селениями Иаировыми,
+        <i>чтó</i> и доныне.
+      czech: "Manasesovec Jair zabral cely kraj Argob az k pomezi gesurskemu a
+        maakatskemu a nazval jej – totiz Basan – svym jmenem: vesnice Jairovy;
+        jmenuji se tak dodnes."
+      spanish: Jair, hijo de Manasés, obtuvo toda la región de Argob hasta la frontera
+        de los guesuritas y de los macatitas, y dio su nombre a los burgos de
+        Basán, llamados hasta hoy Javot-Jair (Burgos de Jair).
+      vadim: "Яир, сын Менаше, взял всю полосу Аргоба до пределов Гешуритов и
+        Маахатитов, и назвал их, то есть Башан, по своему имени: Села Яировы, по
+        ныне."
+      greek-lxx: καὶ Ιαϊρ υἱὸς Μανασση ἔλαβεν πᾶσαν τὴν περίχωρον Αργοβ ἕως τῶν ὁρίων
+        Γαργασι καὶ Ομαχαθι ἐπωνόμασεν αὐτὰς ἐπὶ τῷ ὀνόματι αὐτοῦ τὴν Βασαν Αυωθ
+        Ιαϊρ ἕως τῆς ἡμέρας ταύτης
+      st_text: Иаир, сын Манассиин, взял всю область Аргов, до пределов Гесурских и
+        Маахских, и назвал Васан, по имени своему, селениями Иаировыми, что и
+        доныне;
+  - id: 36557
+    number: 15
+    bookId: 5
+    text: Махиру дал я Галаад;
+    chapter: 3
+    chapterId: 156
+    parallels:
+      - verseId: 11091
+        bookId: 1
+        bookCode: bytie
+        chapter: 50
+        short: Быт:50:23
+      - verseId: 12099
+        bookId: 4
+        bookCode: cisla
+        chapter: 32
+        short: Чис:32:39
+      - verseId: 36258
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 2
+        short: Втор:2:34
+    translates:
+      kassian: ""
+      podstr: И Махиру я дал Галаад.
+      csya: и махиру дах галаад,
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 махjру дaхъ галаaдъ,
+      sovr_rbo: Махиру я отдал Галаад.
+      latin: Machir quoque dedi Galaad.
+      ukr: А Махірові дав я Ґілеад.
+      nkjv: Also I gave Gilead to Machir.
+      desnitsky: ""
+      mt: ‫    וּלְמָכִיר נָתַתִּי אֶת־הַגִּלְעָד׃ ‬
+      romana: Lui Machir i-am dat Galaadul;
+      francais: Je donnai Galaad à Makir.
+      italian: Diedi Gàlaad a Machir.
+      old_georgian: და მაქირს მივეც გალაადი.
+      portuguese: E a Maquir dei Gileade.
+      polish: Makirowi oddałem Gilead,
+      turkish: Makir'e Gilat'ı verdim.
+      nrt: Я отдал Галаад клану Махира.
+      Macarius: Махиру дал я Галаад;
+      serbian: А Махиру дадох Галад.
+      bulgarian: на Махира дадох Галаад;
+      deutsch: Machir aber gab ich Gilead.
+      ukr2: Махірові ж дав я Гілеад.
+      ukr3: А Макірові дав я Гілеад.
+      bel_syomukha: Махіру даў я Галаад;
+      sergievsky: А Махиру я дал Гилеад.
+      lev-khv: А Махиру дал я Галаад;
+      czech: Makirovi jsem dal Gilead.
+      spanish: A Maquir le di Galaad;
+      vadim: А Махиру я дал Гилеад.
+      greek-lxx: καὶ τῷ Μαχιρ ἔδωκα τὴν Γαλααδ
+      st_text: Махиру дал я Галаад;
+  - id: 36558
+    number: 16
+    bookId: 5
+    text: а <i>колену</i> Рувимову и Гадову дал от Галаада до потока Арнона,
+      <i>землю</i> между потоком и пределом, до потока Иавока, предела сынов
+      Аммоновых,
+    chapter: 3
+    chapterId: 156
+    parallels:
+      - verseId: 10454
+        bookId: 1
+        bookCode: bytie
+        chapter: 32
+        short: Быт:32:22
+    translates:
+      kassian: ""
+      podstr: И Рувину и Гаду я дал от Галаада до потока Арнон посреди потока предел и
+        до Иавока; поток предел сыновьям Аммана;
+      csya: "и рувиму и гадови дах от галаада даже до водотечи арнони, среди водотечи
+        предел, и даже до иавока: водотеча предел сынов амманих:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 руви1му и3 гaдови дaхъ t галаaда дaже до водоте1чи ґрнHни, среди2
+        водоте1чи предёлъ, и3 дaже до їаво1ка: водоте1ча предёлъ сынHвъ
+        ґммaнихъ:"
+      sovr_rbo: Племенам же Рувима и Гада я отдал землю от Галаада до Арнонской
+        долины, с границей по дну долины, и до реки Яббок, за которой живут
+        аммонитяне.
+      latin: "Et tribubus Ruben et Gad dedi de terra Galaad usque ad torrentem Arnon
+        medium torrentis, et confinium usque ad torrentem Jeboc, qui est
+        terminus filiorum Ammon:"
+      ukr: А Рувимовим та Ґадовим дав я від Ґілеаду й аж до Арнонського потоку,
+        середину потоку та границю, і аж до потоку Яббоку, границі Аммонових
+        синів,
+      nkjv: And to the Reubenites and the Gadites I gave from Gilead as far as the
+        River Arnon, the middle of the river as the border, as far as the River
+        Jabbok, the border of the people of Ammon;
+      desnitsky: ""
+      mt: ‫    וְלָרֻאוּבֵנִי‪‬ וְלַגָּדִי נָתַתִּי מִן־הַגִּלְעָד וְעַד־נַחַל אַרְנֹן
+        תּוֹךְ הַנַּחַל וּגְבֻל וְעַד יַבֹּק הַנַּחַל גְּבוּל בְּנֵי עַמּוֹן׃ ‬
+      romana: Iar semintiilor lui Ruben si Gad le-am dat tara de la Galaad pana la
+        raul Arnon, pamantul dintre rau si hotar, pana la raul Iaboc, pana la
+        hotarul fiilor lui Amon.
+      francais: Aux Rubénites et aux Gadites je donnai une partie de Galaad jusqu'au
+        torrent de l'Arnon, dont le milieu sert de limite, et jusqu'au torrent
+        de Jabbok, frontière des enfants d'Ammon;
+      italian: Ai Rubeniti e ai Gaditi diedi da Gàlaad fino al torrente Arnon, fino
+        alla metà del torrente che serve di confine e fino al torrente Iabbok,
+        frontiera degli Ammoniti,
+      old_georgian: და რუბენს და გაადს მივეც ქუეყანისა მის გალაადისაჲ ვიდრე
+        ნაღუარევადმდე არნონისა შუა საზღვრითგან ნაღუარევისა მის ვიდრე იაბოკდმდე
+        ნაღუარევი იგი, რომელ არს საზღვარი ძეთა მათ ამონისთაჲ.
+      portuguese: "Mas aos rubenitas e gaditas dei desde Gileade até o vale do Arnom,
+        tanto o meio do vale como a sua borda, e\raté o ribeiro de Jaboque, o
+        termo dos amonitas;"
+      polish: "a Rubenitom i Gadytom dałem część Gileadu aż do potoku Arnon ze
+        środkiem\rpotoku jako granicą, potem aż do potoku Jabbok, do granic
+        synów Ammona\r-"
+      turkish: Gilat'la Arnon Vadisi arasında kalan toprakları Ruben ve Gad
+        oymaklarına verdim. Vadinin ortası onların sınırıydı; Ammonlular'la
+        sınırları ise Yabbuk Irmağı'ydı.
+      nrt: А рувимитам и гадитам я дал землю, что спускается от Галаада к потоку
+        Арнону (с границей на середине реки) и к реке Яббок, которая служит
+        границей аммонитян.
+      Macarius: А колену Рувимову и Гадову дал от Галаада до потока Арнона, землю
+        между потоком и пределом, до потока Иавока, предела сынов Аммоновых,
+      serbian: А Рувимову племену и Гадову племену дадох од Галада до потока Арнона,
+        како захвата поток с међама, па до потока Јавока, гдје је међа синова
+        Амоновијех,
+      bulgarian: а на коляното Рувимово и Гадово дадох от Галаад до поток Арнон,
+        земята между потока и предела, до поток Иавок, предела на Амоновите
+        синове,
+      deutsch: Und den Rubenitern und Gaditern gab ich des Gileads einen Teil bis an
+        den Bach Arnon, die Mitte des Bachs, der die Grenze ist, und bis an den
+        Bach Jabbok, der die Grenze ist der Kinder Ammon;
+      ukr2: А рувимлянам та гадіям я дав (землю) від Гілеаду аж до Арнон-річки разом з
+        її берегами і аж до Яббок - потоку, границі синів Аммона,
+      ukr3: А Рубенїям та Гадїям дав я землю від Гілеаду до Арнон ріки; до половини
+        ріки і помежної країни, і до Ябока ріки, гряницї синів Амона;
+      bel_syomukha: а племю Рувімаваму і Гадаваму даў ад Галаада да патока Арнона,
+        зямлю паміж патокам і мяжою, да патока Явока, мяжы сыноў Амонавых,
+      sergievsky: "А Рубенитам и Гадитам дал я землю от Гилеада и до потока Арнона: до
+        середины потока и сопредельную страну до потока Ябока, предела сынов
+        Амона;"
+      lev-khv: А <i>колену</i> Рувимову и Гадову дал от Галаада до потока Арнона,
+        <i>который есть</i> среди потока граница, и до потока Явока, границы
+        сынов Аммоновых,
+      czech: Rubenovcum a Gadovcum jsem dal cast Gileadu az k potoku Arnonu (hranici
+        tvori stred uvalu) a az k potoku Jaboku k hranici Amonovcu,
+      spanish: a los rubenitas y a los gaditas les di una parte de Galaad y hasta el
+        torrente Arnón, sirviendo de límite el medio del valle, y hasta el
+        torrente de Jaboc, frontera de los hijos de Ammón,
+      vadim: "А Рубенитам и Гадитам дал я землю от Гилеада и до потока Арнона: до
+        середины потока и сопредельную страну до потока Ябока, предела сынов
+        Амона;"
+      greek-lxx: καὶ τῷ Ρουβην καὶ τῷ Γαδ δέδωκα ἀπὸ τῆς Γαλααδ ἕως χειμάρρου Αρνων
+        μέσον τοῦ χειμάρρου ὅριον καὶ ἕως τοῦ Ιαβοκ ὁ χειμάρρους ὅριον τοῖς
+        υἱοῖς Αμμαν
+      st_text: а <i>колену</i> Рувимову и Гадову дал от Галаада до потока Арнона,
+        <i>землю</i> между потоком и пределом, до потока Иавока, предела сынов
+        Аммоновых,
+  - id: 36559
+    number: 17
+    bookId: 5
+    text: также равнину и Иордан, <i>который есть</i> и предел, от Киннерефа до моря
+      равнины, моря Соленого, при подошве <i>горы</i> Фасги к востоку.
+    chapter: 3
+    chapterId: 156
+    parallels:
+      - verseId: 12169
+        bookId: 4
+        bookCode: cisla
+        chapter: 34
+        short: Чис:34:11
+      - verseId: 12170
+        bookId: 4
+        bookCode: cisla
+        chapter: 34
+        short: Чис:34:12
+      - verseId: 26976
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 12
+        short: Нав:12:3
+    translates:
+      kassian: ""
+      podstr: и Арава и Иордан предел Маханарефу и до моря Арава, моря солёного, под
+        Аседофом Фасги [от] востока.
+      csya: и арава и иордан предел от махенерефа и даже до моря аравскаго, моря
+        сланаго, под асидофом фазги от востока.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 ѓрава и3 їoрдaнъ предёлъ t махенере1fа и3 дaже до мо1рz ґрaвскагw,
+        мо1рz слaнагw, под8 ґсидHfомъ фазги2 t восто1ка.
+      sovr_rbo: Кроме того, я отдал им Араву, с границей по Иордану, от Киннерета до
+        Аравского (Мертвого) моря — и до склонов горы Фасга на востоке.
+      latin: et planitiem solitudinis, atque Jordanem, et terminos Cenereth usque ad
+        mare deserti, quod est salsissimum, ad radices montis Phasga contra
+        orientem.
+      ukr: і степ, і Йордан, і границю його від Кіннерету аж до моря степу, моря
+        Солоного, у узбіччя Пісґі на схід.
+      nkjv: the plain also, with the Jordan as the border, from Chinnereth as far as
+        the east side of the Sea of the Arabah (the Salt Sea), below the slopes
+        of Pisgah.
+      desnitsky: ""
+      mt: ‫    וְהָעֲרָבָה וְהַיַּרְדֵּן וּגְבֻל מִכִּנֶּרֶת וְעַד יָם הָעֲרָבָה יָם
+        הַמֶּלַח תַּחַת אַשְׁדֹּת הַפִּסְגָּה מִזְרָחָה׃ ‬
+      romana: Precum si Arabah si Iordanul, care este hotar de la Chineret pana la
+        marea Arabah, Marea Sarata, la poalele Muntelui Fazga, spre rasarit.
+      francais: je leur donnai encore la plaine, limitée par le Jourdain, depuis
+        Kinnéreth jusqu'à la mer de la plaine, la mer Salée, au pied du Pisga
+        vers l'orient.
+      italian: e l'Araba il cui confine è costituito dal Giordano, da Genèsaret fino
+        al mare dell'Araba, cioè il Mar Morto, sotto le pendici del Pisga, verso
+        l'oriente.
+      old_georgian: და არაბიაჲ და იორდანე თჳთ საზღვარი არს მაქანარადმდე არაბიელთა და
+        ზღჳთ მარილოვნითგან და ასელოთით ვიდრე ჴევადმდე აღმოსავლითისა.
+      portuguese: "como também a Arabá, com o Jordão por termo, desde Quinerete até o
+        mar da Arabá, o Mar Salgado, pelas\rfaldas de Pisga para o oriente."
+      polish: w końcu jeszcze Arabę z Jordanem jako granicą, od Kinneret do Morza
+        Araby, Morza Słonego, do stoków Pisga od wschodu.
+      turkish: Arava'da da sınır Şeria Irmağı'ydı; Kinneret'ten Arava -Lut- Gölü'ne,
+        doğuda Pisga yamaçlarının aşağısına kadar uzanıyordu.
+      nrt: Ее западной границей был Иордан на иорданской долине, от Киннерета до
+        Аравского моря (Соленого моря), под склонами Фасги.
+      Macarius: Равнину и Иордан, который и есть предел, от Киннерета до моря равнины,
+        моря соленого, при подошве горы Фасги к востоку.
+      serbian: И поље и Јордан с међама од Хинерота до мора уз поље, до мора Сланога,
+        испод Фазге према истоку.
+      bulgarian: тъй също равнината и Иордан, който е и предел, от Кинерет до морето
+        на равнината, Солено море, при полите на планина Фасга към изток.
+      deutsch: dazu das Gefilde und den Jordan, der die Grenze ist, von Kinnereth an
+        bis an das Meer am Gefilde, das Salzmeer, unten am Berge Pisga gegen
+        Morgen.
+      ukr2: і Араву і Йордан як межу, від Кіннерета аж до Арава-моря, тобто до
+        Соляного моря, що на схилах Пізга - спадів на схід сонця.
+      ukr3: І рівнину і Йордань і побережню країну, від Кінерета і до моря
+        подільського, до моря Соляного, під узгірями Пізги гори од сходу соньця.
+      bel_syomukha: таксама раўніну і Ярдан, які ёсьць і мяжа, ад Кінэрата да мора
+        раўніны, мора Салёнага, каля падножжа гары Фасгі на ўсход.
+      sergievsky: и также равнину, и Jордэн и сопредельную страну от Кинерета и до
+        моря равнины, до Моря-Соленаго, под скатами Писги к восходу.
+      lev-khv: И равнину, и Иордан, <i>который есть</i> и граница, от Киннерета до
+        моря равнины, моря Соленаго, при подошве Фазги к востоку.
+      czech: a pustinu s Jordanem jako hranici od Kineretu po Puste more, more Solne,
+        na vychod od upati Pisgy.
+      spanish: como también el Arabá, con el Jordán por límite, desde Queneret hasta
+        el mar del Arabá, el mar de la Sal, al pie de las faldas del Pasga a
+        oriente.
+      vadim: и также равнину, и Jордэн и сопредельную страну от Кинерета и до моря
+        равнины, до Моря-Соленаго, под скатами Писги к восходу.
+      greek-lxx: καὶ ἡ Αραβα καὶ ὁ Ιορδάνης ὅριον Μαχαναρεθ καὶ ἕως θαλάσσης Αραβα
+        θαλάσσης ἁλυκῆς ὑπὸ Ασηδωθ τὴν Φασγα ἀνατολῶν
+      st_text: также равнину и Иордан, <i>который есть</i> и предел, от Киннерефа до
+        моря равнины, моря Соленого, при подошве <i>горы</i> Фасги к востоку.
+  - id: 36560
+    number: 18
+    bookId: 5
+    text: "И дал я вам в то время повеление, говоря: Господь, Бог ваш, дал вам землю
+      сию во владение; все способные к войне, вооружившись, идите впереди
+      братьев ваших, сынов Израилевых;"
+    chapter: 3
+    chapterId: 156
+    parallels:
+      - verseId: 12077
+        bookId: 4
+        bookCode: cisla
+        chapter: 32
+        short: Чис:32:17
+      - verseId: 12080
+        bookId: 4
+        bookCode: cisla
+        chapter: 32
+        short: Чис:32:20
+      - verseId: 12089
+        bookId: 4
+        bookCode: cisla
+        chapter: 32
+        short: Чис:32:29
+      - verseId: 27294
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 22
+        short: Нав:22:1
+    translates:
+      kassian: ""
+      podstr: "И [я] приказал вам во время то говоря: Господь Бог ваш дал вам землю
+        эту во владение; вооружённые пойдите перед лицом братьев ваших сыновей
+        Израиля, каждый сильный;"
+      csya: "И повелех вам во время оно, глаголя: Господь Бог ваш даде вам землю сию
+        во жребий: вооружени поидите пред лицем братии вашея сынов израилевых,
+        всяк сильный:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# повелёхъ вaмъ во вре1мz џно, глаго1лz: гDь бг7ъ вaшъ даде2 вaмъ
+        зе1млю сію2 во жре1бій: воwруже1ни поиди1те пред8 лице1мъ брaтіи вaшеz
+        сынHвъ ї}левыхъ, всsкъ си1льный:"
+      sovr_rbo: "В ту пору я дал этим племенам такой наказ: „Господь, ваш Бог, отдал
+        вам во владение эту землю. Но вы, воины, должны идти на бой впереди всех
+        сынов Израилевых!"
+      latin: "Praecepique vobis in tempore illo, dicens: Dominus Deus vester dat vobis
+        terram hanc in haereditatem: expediti praecedite fratres vestros filios
+        Israel omnes viri robusti,"
+      ukr: "І часу того наказав я вам, говорячи: Господь, Бог ваш, дав вам цей Край,
+        щоб ви посіли його; узброєні перейдете перед вашими братами, Ізраїлевими
+        синами, усі військові."
+      nkjv: "\"Then I commanded you at that time, saying: 'The Lord your God has given
+        you this land to possess. All you men of valor shall cross over armed
+        before your brethren, the children of Israel. "
+      desnitsky: ""
+      mt: ‫    וָאֲצַו אֶתְכֶם בָּעֵת הַהִוא לֵאמֹר יְהוָה אֱלֹהֵיכֶם נָתַן לָכֶם
+        אֶת־הָאָרֶץ הַזֹּאת לְרִשְׁתָּהּ חֲלוּצִים תַּעַבְרוּ לִפְנֵי אֲחֵיכֶם
+        בְּנֵי־יִשְׂרָאֵל כָּל־בְּנֵי־חָיִל׃ ‬
+      romana: "V-am mai dat in vremea aceea porunca si am zis: Domnul Dumnezeul vostru
+        v-a dat pamantul acesta in stapanire; toti cei buni de lupta,
+        inarmandu-va, mergeti inaintea fiilor lui Israel, fratii vostri;"
+      francais: En ce temps-là, je vous donnai cet ordre. L'Éternel, votre Dieu, vous
+        livre ce pays, pour que vous le possédiez. Vous tous, soldats, vous
+        marcherez en armes devant les enfants d'Israël.
+      italian: "Ora in quel tempo io vi diedi quest'ordine: Il Signore vostro Dio vi
+        ha dato questo paese in proprietà. Voi tutti, uomini vigorosi, passerete
+        armati alla testa degli Israeliti vostri fratelli."
+      old_georgian: "გამცენ თქუენ მას ჟამს შინა და გარქუ: უფალმან ღმერთმან თქუენმან
+        მოგცა თქუენ ქუეყანა ეგე ნაწილად მკჳდრობისა თქუენისა, შეიჭურენით,
+        განემზადენით, წარგუალეთ ძმათა თქუენთა თანა ძეთა მათ ისრაჱლისათა ყოველი
+        კაცი ძლიერი მოღუაწე."
+      portuguese: "No mesmo tempo também vos ordenei, dizendo: O Senhor vosso Deus vos
+        deu esta terra, para a possuirdes;\rvós, todos os homens valentes,
+        passareis armados adiante de vossos irmãos, os filhos de Israel."
+      polish: "W tym czasie dałem wam taki nakaz: Pan, Bóg wasz, dał wam w
+        posiadanie\rtę ziemię: wy wszyscy zdolni do noszenia broni pójdziecie
+        uzbrojeni na czele\rwaszych braci Izraelitów."
+      turkish: "«O zaman size şöyle buyruk verdim: `Tanrınız RAB mülk edinmek için bu
+        ülkeyi size verdi. Bütün savaşçılarınız silahlı olarak İsrailli
+        kardeşlerinizin önüsıra gitsin."
+      nrt: "В то время я повелел вам: «Господь, ваш Бог, отдал вам эту землю, чтобы вы
+        завладели ею. Все ваши мужчины, способные сражаться, вооруженные для
+        битвы, должны переправиться за реку перед вашими братьями
+        израильтянами."
+      Macarius: "И дал я вам в то время повеление и сказал: Иегова, Бог ваш, дал вам
+        землю сию в наследие, но все способные к войне, вооружившись, идите
+        впереди братьев своих, сынов Израилевых;"
+      serbian: "И заповједих вам онда и рекох: Господ Бог ваш дао вам је ову земљу у
+        нашљедство; наоружани хајдете пред браћом својом, синовима Израиљевијем,
+        ко је год за војску."
+      bulgarian: "Тогава ви дадох и заповед, думайки: Господ, Бог ваш, ви даде да
+        владеете тая земя; всички способни за война, след като се въоръжите,
+        вървете пред братята си, Израилевите синове;"
+      deutsch: "Und ich gebot euch zu der Zeit und sprach: Der Herr, euer Gott, hat
+        euch dies Land gegeben einzunehmen; so ziehet nun gerüstet vor euren
+        Brüder, den Kindern Israel, her, was streitbar ist,"
+      ukr2: "Ще заповідав я вам того часу таке: Господь, Бог ваш, дав вам цю землю в
+        посідання; тож виступайте збройно всі, здатні до війни, попереду своїх
+        братів, синів Ізраїля."
+      ukr3: "І заповідав я вам того часу мовляючи: Господь, Бог ваш, дав вам сю землю
+        в державу. Збройно й оружно мусите ви, всї удалї люде, ійти поперід
+        браття вашого, синів Ізрайлевих."
+      bel_syomukha: "І загадаў я вам у той час, кажучы: Гасподзь, Бог ваш, даў вам
+        зямлю гэтую ў валоданьне; усе здольныя да вайны, узброіўшыся, ідзеце
+        паперадзе братоў вашых, сыноў Ізраілевых,"
+      sergievsky: "И я вам в то время заповедал, говоря: ‘Сущий, Бог ваш, дал вам эту
+        землю, владеть ею: вооруженными должны вы, все сильные люди, пройти
+        вперед братьев ваших, сынов Jисраэля;"
+      lev-khv: "И заповедал я вам в то время, говоря: Господь, Бог ваш, дал вам эту
+        землю во владение; все способные к войне, вооруженные идите впереди
+        братьев своих, сынов Израилевых;"
+      czech: 'V one dobe jsem vam prikazal: "Hospodin, vas Buh, vam dal tuto zemi,
+        abyste ji obsadili. Vsichni, kteri jste schopni boje, potahnete ve
+        zbroji pred svymi bratry Izraelci.'
+      spanish: "Entonces os di yo esta orden: Yavé, vuestro Dios, os ha dado esa
+        tierra para que sea posesión vuestra; y vosotros todos, hombres
+        robustos, marcharéis delante de vuestros hermanos los hijos de Israel;"
+      vadim: "И я вам в то время заповедал, говоря: ‘Сущий, Бог ваш, дал вам эту
+        землю, владеть ею: вооруженными должны вы, все сильные люди, пройти
+        вперед братьев ваших, сынов Jисраэля;"
+      greek-lxx: καὶ ἐνετειλάμην ὑμῖν ἐν τῷ καιρῷ ἐκείνῳ λέγων Κύριος ὁ Θεὸς ὑμῶν
+        ἔδωκεν ὑμῖν τὴν γῆν ταύτην ἐν κλήρῳ ἐνοπλισάμενοι προπορεύεσθε πρὸ
+        προσώπου τῶν ἀδελφῶν ὑμῶν υἱῶν Ισραηλ πᾶς δυνατός
+      st_text: "И дал я вам в то время повеление, говоря: Господь, Бог ваш, дал вам
+        землю сию во владение; все способные к войне, вооружившись, идите
+        впереди братьев ваших, сынов Израилевых;"
+  - id: 36561
+    number: 19
+    bookId: 5
+    text: только жены ваши и дети ваши и скот ваш [<i>ибо</i> я знаю, что скота у
+      вас много,] пусть останутся в городах ваших, которые я дал вам,
+    chapter: 3
+    chapterId: 156
+    parallels:
+      - verseId: 12061
+        bookId: 4
+        bookCode: cisla
+        chapter: 32
+        short: Чис:32:1
+    translates:
+      kassian: ""
+      podstr: однако женщины ваши и дети ваши и скот кmЗn- знаю что многочислен скот
+        ваш- пребудет в городах ваших, которые я дал вам,
+      csya: "точию жены вашя и дети вашя и скоти вашя, вем, яко скот мног есть вам, да
+        пребудут во градех ваших, яже дах вам:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "то1чію жєны2 вaшz и3 дёти вaшz и3 ско1ти вaшz, вёмъ, ћкw ско1тъ
+        мно1гъ є4сть вaмъ, да пребyдутъ во градёхъ вaшихъ, ±же дaхъ вaмъ:"
+      sovr_rbo: А ваши жены, дети и скот — я знаю, как много у вас скота! — пусть
+        остаются в селениях, которые я дал вам.
+      latin: absque uxoribus, et parvulis, atque jumentis. Novi enim quod plura
+        habeatis pecora, et in urbibus remanere debebunt, quas tradidi vobis,
+      ukr: Тільки ваші жінки, і ваші діти та ваша худоба, я знаю, що худоба ваша
+        велика! будуть сидіти по ваших містах, що я дав вам,
+      nkjv: But your wives, your little ones, and your livestock (I know that you have
+        much livestock) shall stay in your cities which I have given you,
+      desnitsky: ""
+      mt: ‫    רַק נְשֵׁיכֶם וְטַפְּכֶם וּמִקְנֵכֶם יָדַעְתִּי כִּי־מִקְנֶה רַב לָכֶם
+        יֵשְׁבוּ בְּעָרֵיכֶם אֲשֶׁר נָתַתִּי לָכֶם׃ ‬
+      romana: Numai femeile voastre, copiii vostri si vitele voastre, ca stiu ca aveti
+        vite multe, sa ramana in cetatile voastre pe care vi le-am dat eu,
+      francais: Vos femmes seulement, vos petits enfants et vos troupeaux-je sais que
+        vous avez de nombreux troupeaux-resteront dans les villes que je vous ai
+        donnée,
+      italian: Soltanto le vostre mogli, i vostri fanciulli e il vostro bestiame (so
+        che di bestiame ne avete molto) rimarranno nelle città che vi ho date,
+      old_georgian: გარნა დედაწული თქუენი და საცხოვარი თქუენი და ნაყოფი თქუენ უწყი,
+        რამეთუ მრავალ არს საცხოვარი იგი თქუენი, დაუტევენით ქალაქთა მაგათ
+        თქუენთა, რომელ-ეგე მიგეც თქუენ.
+      portuguese: "Tão-somente vossas mulheres, e vossos pequeninos, e vosso gado
+        (porque eu sei que tendes muito gado)\rficarão nas cidades que já vos
+        dei;"
+      polish: "Tylko wasze żony, dzieci i trzody - gdyż macie wielkie stada - zostaną
+        w\rwaszych miastach, które wam oddałem,"
+      turkish: ""
+      nrt: Ваши жены, дети и скот (я знаю, у вас много скота) могут остаться в
+        городах, которые я вам дал,
+      Macarius: Только жены ваши и дети ваши и скот ваш, (ибо я знаю, что скота у вас
+        много,) пусть останутся в городах ваших, которые я дал вам;
+      serbian: А жене ваше и дјеца ваша и стока ваша (знам да имате много стоке) нека
+        остану у градовима вашим које вам дадох,
+      bulgarian: само жените ви, децата ви и добитъкът ви (понеже зная, че имате много
+        добитък), нека останат в градовете ви, които съм ви дал,
+      deutsch: allein eure Weiber und Kinder und das Vieh (denn ich weiß, daß ihr viel
+        Vieh habt) laßt in euren Städten belieben, die ich euch gegeben habe,
+      ukr2: Тільки ваші жінки й діти ваші та й скотина ваша - знаю, що в вас її багато
+        - залишаться у ваших містах, що їх я дав вам,
+      ukr3: Тільки жінки ваші і малеча ваша і скотина ваша - знаю я, що в вас багацько
+        скотини - позостаються в городах ваших, що дав я вам,
+      bel_syomukha: толькі жонкі вашыя і дзеці вашыя і быдла вашае няхай застануцца ў
+        гарадах вашых, якія я даў вам,
+      sergievsky: только жены ваши, и малолетки ваши и крупный скот ваш — знаю я, что
+        много у вас крупнаго скота — останутся в городах ваших, которые дал я
+        вам;
+      lev-khv: Только жены ваши, и дети ваши, и скот ваш, (я знаю, что скота у вас
+        много,) пусть останутся в городах ваших, которые я дал вам;
+      czech: Jen vase zeny, deti a stada, vim, ze mate cetna stada, zustanou ve vasich
+        mestech, ktera jsem vam dal.
+      spanish: sólo vuestras mujeres, vuestros niños y vuestros ganados — yo sé que
+        tenéis muchos ganados — se quedarán en las ciudades que os he dado
+      vadim: только жены ваши, и малолетки ваши и крупный скот ваш — знаю я, что много
+        у вас крупнаго скота — останутся в городах ваших, которые дал я вам;
+      greek-lxx: πλὴν αἱ γυναῖκες ὑμῶν καὶ τὰ τέκνα ὑμῶν καὶ τὰ κτήνη ὑμῶν οἶδα ὅτι
+        πολλὰ κτήνη ὑμῖν κατοικείτωσαν ἐν ταῖς πόλεσιν ὑμῶν αἷς ἔδωκα ὑμῖν
+      st_text: только жены ваши и дети ваши и скот ваш [<i>ибо</i> я знаю, что скота у
+        вас много,] пусть останутся в городах ваших, которые я дал вам,
+  - id: 36562
+    number: 20
+    bookId: 5
+    text: доколе Господь [Бог] не даст покоя братьям вашим, как вам, и доколе и они
+      не получат во владение землю, которую Господь, Бог ваш, дает им за
+      Иорданом; тогда возвратитесь каждый в свое владение, которое я дал вам.
+    chapter: 3
+    chapterId: 156
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: пока [не] упокоит Господь Бог ваш братьев ваших как и вас, и унаследуют
+        и эти землю, которую Господь Бог наш даёт им на противоположной стороне
+        Иордана, и возвратитесь каждый в наследство его, которое я дал вам.
+      csya: "дондеже упокоит Господь Бог наш братию вашу, якоже и вас, и наследят и
+        сии землю, юже Господь Бог ваш дает им об ону страну иордана: и
+        возвратитеся кийждо в наследие свое иже дах вам."
+      averincev: ""
+      ungerov: ""
+      csya_old: "до1ндеже ўпоко1итъ гDь бг7ъ нaшъ брaтію вaшу, ћкоже и3 вaсъ, и3
+        наслёдzтъ и3 сjи зе1млю, ю4же гDь бг7ъ вaшъ дае1тъ и5мъ њб8 nнY странY
+        їoрдaна: и3 возврати1тесz кjйждо въ наслёдіе свое2, є4же дaхъ вaмъ."
+      sovr_rbo: Когда Господь дарует братьям вашим мирную жизнь, как даровал ее вам, —
+        когда они овладеют страной на том берегу Иордана, которую отдает им
+        Господь, ваш Бог, — тогда вы вернетесь в свои наделы, которые я дал
+        вам”.
+      latin: "donec requiem tribuat Dominus fratribus vestris, sicut vobis tribuit: et
+        possideant ipsi etiam terram, quam daturus est eis trans Jordanem: tunc
+        revertetur unusquisque in possessionem suam, quam dedi vobis."
+      ukr: аж Господь дасть спочинок братам вашим, як вам, і посядуть також вони той
+        Край, що Господь, Бог ваш, дає вам по той бік Йордану, і вернетесь кожен
+        до спадку свого, що я дав вам.
+      nkjv: "until the Lord has given rest to your brethren as to you, and they also
+        possess the land which the Lord your God is giving them beyond the
+        Jordan. Then each of you may return to his possession which I have given
+        you.' "
+      desnitsky: ""
+      mt: ‫    עַד אֲשֶׁר־יָנִיחַ יְהוָה לַאֲחֵיכֶם כָּכֶם וְיָרְשׁוּ גַם־הֵם
+        אֶת־הָאָרֶץ אֲשֶׁר יְהוָה אֱלֹהֵיכֶם נֹתֵן לָהֶם בְּעֵבֶר הַיַּרְדֵּן
+        וְשַׁבְתֶּם אִישׁ לִירֻשָּׁתוֹ אֲשֶׁר נָתַתִּי לָכֶם׃ ‬
+      romana: Pana cand Domnul Dumnezeu va da liniste fratilor vostri, ca si voua, si
+        pana cand isi vor primi si ei in stapanire pamantul pe care Domnul
+        Dumnezeul vostru li-l va da peste Iordan; atunci va veti intoarce
+        fiecare la mosia sa pe care v-am dat-o eu.
+      francais: jusqu'à ce que l'Éternel ait accordé du repos à vos frères comme à
+        vous, et qu'ils possèdent, eux aussi, le pays que l'Éternel, votre Dieu,
+        leur donne de l'autre côté du Jourdain. Et vous retournerez chacun dans
+        l'héritage que je vous ai donné.
+      italian: finché il Signore abbia dato una dimora tranquilla ai vostri fratelli
+        come ha fatto per voi, e prendano anch'essi possesso del paese che il
+        Signore vostro Dio sta per dare a loro oltre il Giordano. Poi ciascuno
+        tornerà nel possesso che io vi ho dato.
+      old_georgian: ვიდრემდე განსასუენებელი სცეს უფალმან ღმერთმან თქუენმან ძმათა
+        თქუენთა, ვითარცა-ეგე თქუენ და დაემკჳდრნენ იგინიცა ქუეყანასა მას,
+        რომელ-იგი უფალმან ღმერთმან მისცეს მათ წილი იორდანესა მდინარესა დ მიიქცეს
+        კაცად-კაცადი თითოეულად სამკჳდრებელთავე თჳსთა, რომელ მიგეც თქუენ.
+      portuguese: "até que o Senhor dê descanso a vossos irmãos como a vós, e eles
+        também possuam a terra que o Senhor vosso\rDeus lhes dá além do Jordão:
+        Então voltareis cada qual à sua herança que já vos tenho dado."
+      polish: "aż Pan da odpoczynek [po wędrówce] waszych braci, jak i waszej, i oni
+        posiądą ziemię daną im przez Pana, Boga waszego, za Jordanem. Wtedy
+        wróci\rkażdy do swej posiadłości, którą wam przydzieliłem."
+      turkish: Ancak RAB sizi rahata erdirdiği gibi onları da rahata erdirene ve onlar
+        Tanrınız RAB'bin Şeria Irmağı'nın karşı yakasında kendilerine vereceği
+        toprakları ele geçirene kadar, kadınlarınız, çocuklarınız ve
+        hayvanlarınız -biliyorum, birçok hayvanınız var- size verdiğim kentlerde
+        kalsın. Ondan sonra, her biriniz size verdiğim toprağa dönebilir.'»
+      nrt: пока Господь не даст покой вашим братьям, как и вам, и пока они не примут
+        также во владение землю, которую Господь, ваш Бог, дает им за Иорданом.
+        После этого каждый из вас может вернуться к владению, которое я вам
+        дал».
+      Macarius: Доколе Иегова [Бог] не даст покоя братьям вашим, как вам, и доколе и
+        они не получат в наследие землю, которую Иегова, Бог ваш, даст им за
+        Иорданом; тогда возвратитесь всяк в свое наследие, которое я дал вам.
+      serbian: Докле не смири Господ и браћу вашу као вас, да и они наслиједе земљу,
+        коју ће им Господ Бог ваш дати с ону страну Јордана; онда се вратите
+        сваки на своје нашљедство које вам дадох.
+      bulgarian: докле Господ (Бог) не даде покой на вашите братя, както на вас, и
+        докле и те не наследят земята, която Господ, Бог ваш, им дава отвъд
+        Иордан; тогава завърнете се всякой в своето наследие, което съм ви дал.
+      deutsch: bis daß der Herr eure Brüder auch zu Ruhe bringe wie euch, daß sie auch
+        das Land einnehmen, das ihnen der Herr, euer Gott, geben wird jenseit
+        des Jordans; so sollt ihr dann wiederkehren zu eurer Besitzung, die ich
+        euch gegeben habe.
+      ukr2: аж поки Господь, Бог ваш, дасть вашим братам спокій, як вам, і вони
+        займуть і собі землю, що Господь, Бог ваш, хоче їм дати по той бік
+        Йордану; тоді вернеться кожен із вас до своєї власности, що її я вам
+        дав.
+      ukr3: Аж дасть Господь, Бог ваш, спокій браттю вашому, як вам, та й мати муть і
+        вони землю, що дає їм Господь, Бог ваш, по другім боцї Йорданї; тодї
+        можна вернутись кожному з вас у державу свою, що я вам дав.
+      bel_syomukha: пакуль Гасподзь ня дасьць спакою братам нашым, і пакуль і яны не
+        атрымаюць у валоданьне зямлю, якую Гасподзь, Бог ваш, дасьць ім за
+        Ярданам; тады вернецеся кожны ў сваё валоданьне, якое я даў вам.
+      sergievsky: пока, как вас, успокоит Сущий, Бог ваш, братьев ваших, и овладеют
+        они землею, которую отдал им Сущий, Бог ваш, по ту сторону Jордэна; и
+        тогда воротиться может каждый из вас во владенье свое, которое я вам
+        дал.’
+      lev-khv: Доколе Господь не даст покоя братьям вашим, как вам, и <i>доколе</i> и
+        они не получат во владение землю, которую Господь, Бог ваш, даст им за
+        Иорданом; тогда возвратитесь каждый в свое владение, которое я дал вам.
+      czech: Az Hospodin dopreje odpocinuti vasim bratrim jako vam, az i oni obsadi
+        zemi, kterou jim dava Hospodin, vas Buh, za Jordanem, pak se vratite
+        kazdy do sveho vlastnictvi, ktere jsem vam dal."
+      spanish: hasta que Yavé conceda quieta morada a vuestros hermanos, como a
+        vosotros, y tomen también ellos posesión de la tierra que Yavé, vuestro
+        Dios, les da al otro lado del Jordán. Volveréis entonces cada uno a la
+        heredad que os he dado.
+      vadim: пока, как вас, успокоит Сущий, Бог ваш, братьев ваших, и овладеют они
+        землею, которую отдал им Сущий, Бог ваш, по ту сторону Jордэна; и тогда
+        воротиться может каждый из вас во владенье свое, которое я вам дал.’
+      greek-lxx: ἕως ἂν καταπαύσῃ Κύριος ὁ Θεὸς ὑμῶν τοὺς ἀδελφοὺς ὑμῶν ὥσπερ καὶ ὑμᾶς
+        καὶ κατακληρονομήσουσιν καὶ οὗτοι τὴν γῆν ἣν Κύριος ὁ Θεὸς ἡμῶν δίδωσιν
+        αὐτοῖς ἐν τῷ πέραν τοῦ Ιορδάνου καὶ ἐπαναστραφήσεσθε ἕκαστος εἰς τὴν
+        κληρονομίαν αὐτοῦ ἣν ἔδωκα ὑμῖν
+      st_text: доколе Господь [Бог] не даст покоя братьям вашим, как вам, и доколе и
+        они не получат во владение землю, которую Господь, Бог ваш, дает им за
+        Иорданом; тогда возвратитесь каждый в свое владение, которое я дал вам.
+  - id: 36563
+    number: 21
+    bookId: 5
+    text: "И Иисусу заповедал я в то время, говоря: глаза твои видели все, что
+      сделал Господь, Бог ваш, с двумя царями сими; то же сделает Господь со
+      всеми царствами, которые ты будешь проходить;"
+    chapter: 3
+    chapterId: 156
+    parallels:
+      - verseId: 11863
+        bookId: 4
+        bookCode: cisla
+        chapter: 27
+        short: Чис:27:18
+      - verseId: 11867
+        bookId: 4
+        bookCode: cisla
+        chapter: 27
+        short: Чис:27:22
+      - verseId: 11868
+        bookId: 4
+        bookCode: cisla
+        chapter: 27
+        short: Чис:27:23
+    translates:
+      kassian: ""
+      podstr: "И Иесусу [я] приказал во время то говоря: Глаза ваши увидели всё,
+        сколькое сделал Господь Бог наш двум царям этим; так сделает Господь Бог
+        наш всем царствам, по которым ты пройдёшь там;"
+      csya: "и иисусу заповедах во время оно, глаголя: очи ваши видеша вся, елика
+        сотвори Господь Бог наш обоим царем сим, тако сотворит Господь Бог наш
+        всем царством, ихже сквозе ты пройдеши тамо:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# їисyсу заповёдахъ во вре1мz џно, глаго1лz: џчи вaши ви1дэша вс‰,
+        є3ли6ка сотвори2 гDь бг7ъ нaшъ nбои1мъ царє1мъ си6мъ, тaкw сотвори1тъ
+        гDь бг7ъ нaшъ всBмъ цaрствwмъ, и5хже сквозЁ ты2 про1йдеши тaмw:"
+      sovr_rbo: "В ту пору я сказал Иисусу: „Ты своими глазами видел, что сделал
+        Господь, ваш Бог, с этими двумя царями. То же самое Господь сделает со
+        всеми царствами, по которым ты будешь идти."
+      latin: "Josue quoque in tempore illo praecepi, dicens: Oculi tui viderunt quae
+        fecit Dominus Deus vester duobus his regibus: sic faciet omnibus regnis,
+        ad quae transiturus es."
+      ukr: "А Ісусові наказав я того часу, говорячи: Ото твої очі бачили все, що
+        зробив був Господь, Бог ваш, обом тим царям, так зробить Господь усім
+        царствам, куди ти переходиш."
+      nkjv: "And I commanded Joshua at that time, saying, 'Your eyes have seen all
+        that the Lord your God has done to these two kings; so will the Lord do
+        to all the kingdoms through which you pass. "
+      desnitsky: ""
+      mt: ‫    וְאֶת־יְהוֹשׁוּעַ צִוֵּיתִי בָּעֵת הַהִוא לֵאמֹר עֵינֶיךָ הָרֹאֹת אֵת
+        כָּל־אֲשֶׁר עָשָׂה יְהוָה אֱלֹהֵיכֶם לִשְׁנֵי הַמְּלָכִים הָאֵלֶּה
+        כֵּן־יַעֲשֶׂה יְהוָה לְכָל־הַמַּמְלָכוֹת אֲשֶׁר אַתָּה עֹבֵר שָׁמָּה׃ ‬
+      romana: "Iar lui Iosua i-am poruncit si am zis: Ochii tai au vazut tot ceea ce a
+        facut Domnul Dumnezeul vostru cu acesti doi regi; tot asa va face Domnul
+        si cu toate tarile ce le vei strabate tu."
+      francais: "En ce temps-là, je donnai des ordres à Josué, et je dis: Tes yeux ont
+        vu tout ce que l'Éternel, votre Dieu, a fait à ces deux rois: ainsi fera
+        l'Éternel à tous les royaumes contre lesquels tu vas marcher."
+      italian: "In quel tempo diedi anche a Giosuè quest'ordine: I tuoi occhi hanno
+        visto quanto il Signore vostro Dio ha fatto a questi due re; lo stesso
+        farà il Signore a tutti i regni nei quali tu stai per entrare."
+      old_georgian: "და ვამცენ ისოს, ძესა ნავესა, მას ჟამსა შინა და ვარქუ: თუალთა
+        თქუენთა იხილეს, რაჲ-იგი უყო უფალმან ღმერთმან თქუენმან ორთა მათ მეფეთა,
+        ეგრე უყოს უფალმან ღმერთმან თქუენმან ყოველთა მათ მეფეთა, რომელთა-იგი
+        მიხუალთ თქუენ მუნ."
+      portuguese: "Também dei ordem a Josué no mesmo tempo, dizendo: Os teus olhos
+        viram tudo o que o Senhor vosso Deus\rtem feito a esses dois reis; assim
+        fará o Senhor a todos os reinos a que tu estás passando."
+      polish: "W tym czasie poleciłem Jozuemu: Twoje oczy widziały wszystko, co
+        uczynił\rPan, Bóg wasz, dwom królom; tak samo Pan uczyni wszystkim
+        królestwom,\rdo których ty przejdziesz."
+      turkish: «O zaman Yeşu'ya, `Tanrın RAB'bin bu iki krala neler yaptığını
+        gözlerinle gördün' dedim, `RAB gideceğin bütün ülkelere aynısını
+        yapacak.
+      nrt: "В то время я повелел Иисусу: «Ты своими глазами видел все, что Господь,
+        твой Бог, сделал с этими двумя царями. Господь сделает то же самое со
+        всеми царствами, которые ты будешь проходить."
+      Macarius: "И Иисусу заповедал я в то время и сказал: глаза твои видели все, что
+        сделал Иегова, Бог ваш, двум царям сим: то же сделает Иегова, [Бог наш,]
+        всем царствам, которые ты будешь проходить."
+      serbian: "А Исусу онда заповједих говорећи: Очи твоје виде све што је учинио
+        Господ Бог ваш с она два цара; онако ће Господ учинити са свијем
+        царствима у која дођеш."
+      bulgarian: "А на Иисуса заповядах в онова време, думайки: очите ти видяха
+        всичко, което Господ, Бог ваш, стори с тия двама царе; същото ще стори
+        Господ и с всички царства, през които ще минаваш;"
+      deutsch: "Und Josua gebot ihnen zu derselben Zeit und sprach: Deine Augen haben
+        gesehen alles, was der Herr, euer Gott, diesen Königen getan hat. Also
+        wird der Herr auch allen Königreichen tun, da du hin ziehst."
+      ukr2: "А Ісусові заповідав я того часу так: Ти бачив на свої власні очі все, що
+        Господь, Бог ваш, учинив з отими обома царями; так учинить Господь з
+        усіма царствами, куди ти прийдеш."
+      ukr3: "А Йозейові заповідав я того часу мовляючи: Очі твої бачили все, що
+        Господь, Бог ваш, учинив з обома сими царями; так учинить Господь з
+        усїма царствами, куди ви прийдете."
+      bel_syomukha: "І Ісусу наказаў я ў той час, кажучы: вочы твае бачылі ўсё, што
+        зрабіў Гасподзь, Бог ваш, з двума царамі гэтымі; тое самае зробіць
+        Гасподзь з усімі царствамі, якія ты будзеш праходзіць;"
+      sergievsky: "И Jошуе заповедал я в то время, говоря: ‘Глаза твои видели, что
+        все, что Сущий, Бог ваш, сделал с этими обоими царями, так сделает Сущий
+        с всеми царствами, в которыя вы пройдете."
+      lev-khv: "И Иисусу заповедал я в то время, сказав: глаза твои видели все, чтó
+        сделал Господь, Бог ваш, с двумя этими царями; то же сделает Господь со
+        всеми царствами, которыя ты будешь проходить."
+      czech: 'Jozuovi jsem v one dobe prikazal: "Na vlastni oci jsi videl vsechno, co
+        Hospodin, vas Buh, ucinil tem dvema kralum. Tak ucini Hospodin vsem
+        kralovstvim, jimiz budes prochazet.'
+      spanish: "Entonces di también órdenes a Josué, diciendo: Con tus ojos has visto
+        todo lo que Yavé, vuestro Dios, ha hecho con esos dos reyes; así hará
+        Yavé también a todos los reinos contra los cuales vas a marchar."
+      vadim: "И Jошуе заповедал я в то время, говоря: ‘Глаза твои видели, что все, что
+        Сущий, Бог ваш, сделал с этими обоими царями, так сделает Сущий с всеми
+        царствами, в которыя вы пройдете."
+      greek-lxx: καὶ τῷ Ἰησοῖ ἐνετειλάμην ἐν τῷ καιρῷ ἐκείνῳ λέγων οἱ ὀφθαλμοὶ ὑμῶν
+        ἑωράκασιν πάντα ὅσα ἐποίησεν Κύριος ὁ Θεὸς ἡμῶν τοῖς δυσὶ βασιλεῦσι
+        τούτοις οὕτως ποιήσει Κύριος ὁ Θεὸς ἡμῶν πάσας τὰς βασιλείας ἐφ᾿ ἃς σὺ
+        διαβαίνεις ἐκεῖ
+      st_text: "И Иисусу заповедал я в то время, говоря: глаза твои видели все, что
+        сделал Господь, Бог ваш, с двумя царями сими; то же сделает Господь со
+        всеми царствами, которые ты будешь проходить;"
+  - id: 36564
+    number: 22
+    bookId: 5
+    text: не бойтесь их, ибо Господь, Бог ваш, Сам сражается за вас.
+    chapter: 3
+    chapterId: 156
+    parallels:
+      - verseId: 21394
+        bookId: 2
+        bookCode: ishod
+        chapter: 14
+        short: Исх:14:14
+      - verseId: 21405
+        bookId: 2
+        bookCode: ishod
+        chapter: 14
+        short: Исх:14:25
+      - verseId: 35967
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 1
+        short: Втор:1:30
+      - verseId: 26949
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 10
+        short: Нав:10:42
+      - verseId: 27337
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 23
+        short: Нав:23:10
+      - verseId: 27786
+        bookId: 16
+        bookCode: kniga-neemii
+        chapter: 4
+        short: Неем:4:20
+    translates:
+      kassian: ""
+      podstr: не устрашись, потому что Господь Бог наш Сам будет воевать за вас.
+      csya: не убойтеся от них, яко Господь Бог наш сам поборет по вас.
+      averincev: ""
+      ungerov: ""
+      csya_old: не ўбо1йтесz t ни1хъ, ћкw гDь бг7ъ нaшъ сaмъ побо1ретъ по вaсъ.
+      sovr_rbo: "Не бойтесь их: Господь, ваш Бог, Сам воюет за вас!”"
+      latin: "Ne timeas eos: Dominus enim Deus vester pugnabit pro vobis."
+      ukr: Не будеш боятися їх, бо Господь, Бог ваш, Він Той, що воює для вас.
+      nkjv: "You must not fear them, for the Lord your God Himself fights for you.' "
+      desnitsky: ""
+      mt: ‫    לֹא תְִּירָאוּם‪‬‪‬‪‬ כִּי יְהוָה אֱלֹהֵיכֶם הוּא הַנִּלְחָם לָכֶם׃ ס ‬
+      romana: Nu te teme de ele, ca Domnul Dumnezeul vostru Insusi se va lupta pentru
+        voi.
+      francais: Ne les craignez point; car l'Éternel, votre Dieu, combattra lui-même
+        pour vous.
+      italian: Non li temete, perché lo stesso Signore vostro Dio combatte per voi.
+      old_georgian: ნუ გეშინინ, რამეთუ უფალი ღმერთი თქუენი ჰბრძოდეს თქუენ წილ.
+      portuguese: Não tenhais medo deles, porque o Senhor vosso Deus é o que peleja
+        por nós.
+      polish: Nie bój się ich, bo Pan, Bóg wasz, będzie za was walczył.
+      turkish: Onlardan korkmayın! Tanrınız RAB sizin için savaşacak.'
+      nrt: Не бойтесь их, Господь, ваш Бог, Сам будет сражаться за вас».
+      Macarius: Не бойтесь их; ибо Иегова, Бог ваш, Сам сражается за вас.
+      serbian: Немојте их се бојати, јер ће се Господ Бог ваш бити за вас.
+      bulgarian: не бойте се от тях, защото Господ, Бог ваш, Сам се сражава за вас.
+      deutsch: Fürchtet euch nicht vor ihnen; denn der Herr, euer Gott, streitet für
+        euch.
+      ukr2: "Не лякайтесь їх: бо Господь, Бог ваш, він за вас воює."
+      ukr3: Не лякайтесь їх! Господь, Бог ваш, він воює за вас.
+      bel_syomukha: ня бойцеся іх, бо Гасподзь, Бог ваш, Сам змагаецца за вас.
+      sergievsky: Не бойтесь, ибо Сущий, Бог ваш, за вас сражается.’
+      lev-khv: Не бойтесь их; потому что Господь, Бог ваш, Сам сражается за вас.
+      czech: Nebojte se jich, vzdyt Hospodin, vas Buh, bojuje za vas."
+      spanish: No los temas, que Yavé, vuestro Dios, combate por vosotros.
+      vadim: Не бойтесь, ибо Сущий, Бог ваш, за вас сражается.’
+      greek-lxx: οὐ φοβηθήσεσθε ὅτι Κύριος ὁ Θεὸς ἡμῶν αὐτὸς πολεμήσει περὶ ὑμῶν
+      st_text: не бойтесь их, ибо Господь, Бог ваш, Сам сражается за вас.
+  - id: 36565
+    number: 23
+    bookId: 5
+    text: "И молился я Господу в то время, говоря:"
+    chapter: 3
+    chapterId: 156
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "И я умолил Господа во время то говоря:"
+      csya: "И молихся Господеви во оно время, глаголя:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# моли1хсz гDеви во џно вре1мz, глаго1лz:"
+      sovr_rbo: "В ту пору я взмолился к Господу:"
+      latin: "Precatusque sum Dominum in tempore illo, dicens:"
+      ukr: "І благав я того часу Господа, говорячи:"
+      nkjv: '"Then I pleaded with the Lord at that time, saying:'
+      desnitsky: ""
+      mt: ‫    וָאֶתְחַנַּן אֶל־יְהוָה בָּעֵת הַהִוא לֵאמֹר׃ ‬
+      romana: "In vremea aceea m-am rugat Domnului si am zis:"
+      francais: "En ce temps-là, j'implorai la miséricorde de l'Éternel, en disant:"
+      italian: "In quel medesimo tempo, io supplicai il Signore:"
+      old_georgian: "და ვევედრე უფალსა მას ჟამსა შინა და ვთქუ:"
+      portuguese: "Também roguei ao Senhor nesse tempo, dizendo:"
+      polish: "Wtedy prosiłem Pana:"
+      turkish: "«Sonra RAB'be yalvardım:"
+      nrt: "В то время я молил Господа:"
+      Macarius: "И молился я Иегове в то время, говоря:"
+      serbian: "И молим се Господу онда говорећи:"
+      bulgarian: "И молих се Господу в онова време, думайки:"
+      deutsch: "Und ich bat den Herrn zu derselben Zeit und sprach:"
+      ukr2: "Благав я Господа того часу словами:"
+      ukr3: "І благав я того часу Господа, словами:"
+      bel_syomukha: "І маліўся я Госпаду ў той час, кажучы:"
+      sergievsky: "И молил я в то время Сущаго, говоря:"
+      lev-khv: "И молился я Господу в то время, говоря:"
+      czech: "V one dobe jsem prosil Hospodina o smilovani:"
+      spanish: "Entonces pedí yo a Yavé misericordia, diciendo:"
+      vadim: "И молил я в то время Сущаго, говоря:"
+      greek-lxx: καὶ ἐδεήθην Κυρίου ἐν τῷ καιρῷ ἐκείνῳ λέγων
+      st_text: "И молился я Господу в то время, говоря:"
+  - id: 36566
+    number: 24
+    bookId: 5
+    text: Владыко Господи, Ты начал показывать рабу Твоему величие Твое [и силу
+      Твою,] и крепкую руку Твою [и высокую мышцу]; ибо какой бог есть на небе,
+      или на земле, который мог бы делать такие дела, как Твои, и с могуществом
+      таким, как Твое?
+    chapter: 3
+    chapterId: 156
+    parallels:
+      - verseId: 7555
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 8
+        short: 3 Цар:8:41
+      - verseId: 7556
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 8
+        short: 3 Цар:8:42
+      - verseId: 32104
+        bookId: 22
+        bookCode: psaltir
+        chapter: 67
+        short: Пс:67:7
+      - verseId: 32528
+        bookId: 22
+        bookCode: psaltir
+        chapter: 85
+        short: Пс:85:8
+      - verseId: 32569
+        bookId: 22
+        bookCode: psaltir
+        chapter: 88
+        short: Пс:88:6
+    translates:
+      kassian: ""
+      podstr: Господи Господи, Ты начал показывать твоему слуге могущество Твоё и силу
+        Твою и руку сильную и мышцу высокую; кто ведь есть бог в небе или на
+        земле, который сделает как Ты сделал и согласно могуществу Твоему?
+      csya: "Господи Боже, ты начал еси показовати твоему рабу крепость твою и силу
+        твою, и руку крепкую и мышцу высокую: кто бо есть Бог на небеси или на
+        земли, иже сотворит, якоже сотворил еси ты, и по крепости твоей?"
+      averincev: ""
+      ungerov: ""
+      csya_old: "гDи б9е, ты2 начaлъ є3си2 покaзовати твоемY рабY крёпость твою2 и3
+        си1лу твою2, и3 рyку крёпкую и3 мы1шцу высо1кую: кто1 бо є4сть бг7ъ на
+        нб7си2 и3ли2 на земли2, и4же сотвори1тъ, ћкоже сотвори1лъ є3си2 ты2, и3
+        по крёпости твое1й;"
+      sovr_rbo: „Владыка Господь! Ты начал являть мне, рабу Своему, Твое величие и
+        силу руки Твоей! Разве есть другой бог, на небе или на земле, которому
+        были бы по силам такие дела и свершения?
+      latin: "Domine Deus, tu coepisti ostendere servo tuo magnitudinem tuam, manumque
+        fortissimam: neque enim est alius deus vel in caelo, vel in terra, qui
+        possit facere opera tua, et comparari fortitudini tuae."
+      ukr: Владико Господи, Ти зачав показувати рабові Своєму велич Свою та міцну Свою
+        руку! Бо хто інший Бог на небі та на землі, що зробить, як чини Твої, як
+        великі діла Твої?
+      nkjv: "'O Lord God, You have begun to show Your servant Your greatness and Your
+        mighty hand, for what god is there in heaven or on earth who can do
+        anything like Your works and Your mighty deeds? "
+      desnitsky: ""
+      mt: ‫    אֲדֹנָי יְהוִה אַתָּה הַחִלּוֹתָ לְהַרְאוֹת אֶת־עַבְדְּךָ אֶת־גָּדְלְךָ
+        וְאֶת־יָדְךָ הַחֲזָקָה אֲשֶׁר מִי־אֵל בַּשָּׁמַיִם וּבָאָרֶץ
+        אֲשֶׁר־יַעֲשֶׂה כְמַעֲשֶׂיךָ וְכִגְבוּרֹתֶךָ׃ ‬
+      romana: Stapane Doamne, ai inceput sa ara)i robului Tau slava Ta, puterea Ta,
+        mana Ta cea tare si bratul cel inalt, ca cine este Dumnezeu in cer sau
+        pe pamant, Care sa faca astfel de lucruri cum sunt ale Tale si cu o
+        asemenea putere ca a Ta.
+      francais: Seigneur Éternel, tu as commencé à montrer à ton serviteur ta grandeur
+        et ta main puissante; car quel dieu y a-t-il, au ciel et sur la
+        terre,  qui puisse imiter tes oeuvres et tes hauts faits?
+      italian: Signore Dio, tu hai cominciato a mostrare al tuo servo la tua grandezza
+        e la tua mano potente; quale altro Dio, infatti, in cielo o sulla terra,
+        può fare opere e prodigi come i tuoi?
+      old_georgian: უფალო, უფალო, შენ იწყე ჩუენებად მონისა შენისა ძალი შენი დ სიმტკიცე
+        შენი, ჴელი ეგე მტკიცე და მკლავი მაღალი. ვინ არს ღმერთ ცათ შინა, ანუ
+        ქუეყანასა ზედა, რომელმცა ყო ესე, რომელ-ესე შენ ჰყავ ჩუენთჳს.
+      portuguese: "Ó Senhor Jeová, tu já começaste a mostrar ao teu servo a tua
+        grandeza e a tua forte mão; pois, que Deus há no\rcéu ou na terra, que
+        possa fazer segundo as tuas obras, e segundo os teus grandes feitos?"
+      polish: "Panie mój, Boże, Tyś zaczął swojemu słudze objawiać swą moc i rękę
+        potężną.\rKtóryż bóg na niebie lub na ziemi dokonał takich dzieł i
+        czynów potężnych\rjak Twoje?"
+      turkish: "`Ey Egemen RAB, büyüklüğünü ve güçlü elini bana göstermeye başladın.
+        Gökte ve yerde senin yaptığın yüce işleri yapabilecek başka bir tanrı
+        yok!"
+      nrt: «Владыка, Господь, Ты являешь Своему слуге Свое величие и крепкую силу.
+        Разве есть какой-нибудь бог на небе или на земле, который смог бы
+        совершить такие же подвиги и великие дела, какие делаешь Ты?
+      Macarius: Господи Иегова, Ты начал показывать рабу Твоему величие Твое [и силу
+        Твою], и крепкую руку Твою [и высокую мышцу]; ибо какой Бог есть на
+        небе, или на земле, который бы мог сделать такие дела, какие Ты, и с
+        могуществом таким, как Твое?
+      serbian: Господе Боже! Ти си почео показивати слузи својему величину своју и
+        крјепку руку своју, јер који је Бог на небу или на земљи који би творио
+        дјела каква су твоја и у кога би сила била каква је твоја?
+      bulgarian: Владико Господи, Ти почна да показваш на Твоя раб величието Си (и
+        силата Си) и крепката Си ръка (и високата мишца); та има ли някой бог на
+        небето, или на земята, който би могъл да прави такива дела, като Твоите,
+        и с такава мощ, като Твоята?
+      deutsch: Herr, du hast angehoben, zu erzeigen deinem Knecht deine Herrlichkeit
+        und deine starke Hand. Denn wo ist ein Gott im Himmel und auf Erden, der
+        es deinen Werken und deiner Macht könnte nachtun?
+      ukr2: "Господи, мій Владико, ти почав показувати слузі твоєму твою велич і твою
+        потужну руку: який бо справді бог, чи то на небі, чи на землі, спромігся
+        б здійснити діла, як твої діла, і, як твої, великі вчинки?"
+      ukr3: Господе, Боже! почав єси показувати слузї твому славу твою і твою руку
+        потужну; бо де Бог, той на небесах і на землї, що здолїв би вчинити
+        дїла, подобні твоїм творивам і подобні твоїй потузї?
+      bel_syomukha: Уладару Госпадзе, Ты пачаў паказваць рабу Твайму веліч Тваю і
+        моцную руку Тваю; бо які бог ёсьць на небе, альбо на зямлі, які мог бы
+        чыніць такія дзеі, як Твае, і з магутнасьцю такою, як Твая?
+      sergievsky: ‘Господин мой, Сущий, ты начал показывать слугам твоим твое величие
+        и твою крепкую руку! Какой же может быть Сильный на небесах и на земле,
+        который может сделать дела подобныя твоим и подобныя твоему могуществу?
+      lev-khv: Владыка Господи! Ты начал показывать рабу Твоему величие Твое и крепкую
+        руку Твою; потому что какой Бог есть на небе или на земле, который бы
+        мог сделать такия дела, как Твои, и такие подвиги, как Твои?
+      czech: '"Panovniku Hospodine, ty jsi zacal ukazovat svemu sluzebnikovi svou
+        velikost a svou pevnou ruku. Vsak take ktery buh na nebi nebo na zemi by
+        dovedl vykonat takove ciny a takove bohatyrske skutky jako ty!'
+      spanish: << ¡Señor, Yavé! Tú has comenzado a mostrar a tu siervo tu grandeza y
+        tu potente brazo; pues ¿qué Dios hay, ni en los cielos ni en la tierra,
+        que pueda hacer las obras que tú haces y tan poderosas hazañas?
+      vadim: ‘Господин мой, Сущий, ты начал показывать слугам твоим твое величие и
+        твою крепкую руку! Какой же может быть Сильный на небесах и на земле,
+        который может сделать дела подобныя твоим и подобныя твоему могуществу?
+      greek-lxx: Κύριε Κύριε σὺ ἤρξω δεῖξαι τῷ σῷ θεράποντι τὴν ἰσχύν σου καὶ τὴν
+        δύναμίν σου καὶ τὴν χεῖρα τὴν κραταιὰν καὶ τὸν βραχίονα τὸν ὑψηλόν τίς
+        γάρ ἐστιν Θεὸς ἐν τῷ οὐρανῷ ἢ ἐπὶ τῆς γῆς ὅστις ποιήσει καθὰ σὺ ἐποίησας
+        καὶ κατὰ τὴν ἰσχύν σου
+      st_text: Владыко Господи, Ты начал показывать рабу Твоему величие Твое [и силу
+        Твою,] и крепкую руку Твою [и высокую мышцу]; ибо какой бог есть на
+        небе, или на земле, который мог бы делать такие дела, как Твои, и с
+        могуществом таким, как Твое?
+  - id: 36567
+    number: 25
+    bookId: 5
+    text: дай мне перейти и увидеть ту добрую землю, которая за Иорданом, и ту
+      прекрасную гору и Ливан.
+    chapter: 3
+    chapterId: 156
+    parallels:
+      - verseId: 7406
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 4
+        short: 3 Цар:4:33
+    translates:
+      kassian: ""
+      podstr: Перешедший итак увижу землю добрую эту сущую за Иорданом, гору эту
+        добрую и Антиливан.
+      csya: прешед убо увижду землю благую сию, яже об ону страну иордана, гору сию
+        благу и антиливан.
+      averincev: ""
+      ungerov: ""
+      csya_old: преше1дъ ў2бо ўви1жду зе1млю благyю сію2, ћже њб8 nнY странY їoрдaна,
+        го1ру сію2 блaгу и3 ґнтілівaнъ.
+      sovr_rbo: Позволь же мне перейти реку и увидеть прекрасную страну за Иорданом —
+        и эти прекрасные горы, и Ливан!”
+      latin: Transibo igitur, et videbo terram hanc optimam trans Jordanem, et montem
+        istum egregium, et Libanum.
+      ukr: Нехай перейду ж я та побачу той хороший Край, що по тім боці Йордану, ту
+        гарну гірську землю та Ливан!
+      nkjv: "I pray, let me cross over and see the good land beyond the Jordan, those
+        pleasant mountains, and Lebanon.' "
+      desnitsky: ""
+      mt: ‫    אֶעְבְּרָה־נָּא וְאֶרְאֶה אֶת־הָאָרֶץ הַטּוֹבָה אֲשֶׁר בְּעֵבֶר
+        הַיַּרְדֵּן הָהָר הַטּוֹב הַזֶּה וְהַלְּבָנוֹן׃ ‬
+      romana: Ingaduie-mi sa trec si sa vad pamantul cel bun care este peste Iordan si
+        acel munte frumos, Libanul.
+      francais: Laisse-moi passer, je te prie, laisse-moi voir ce bon pays de l'autre
+        côté du Jourdain, ces belles montagnes et le Liban.
+      italian: Permetti che io passi al di là e veda il bel paese che è oltre il
+        Giordano e questi bei monti e il Libano.
+      old_georgian: ანუ მსგავს ძლიერებისა მაგის შენისა? აწ ჯერ-თუ-გიჩნდეს, წიაღვჴდე,
+        ვიხილო ქუეყანაჲ იგი კეთილთაჲ, რომელ-იგი არს წიაღ ორდანესა, მთაჲ იგი
+        კეთილი და ადგილი იგი ლიბანისაჲ.
+      portuguese: "Rogo-te que me deixes passar, para que veja essa boa terra que está
+        além do Jordão, essa boa região\rmontanhosa, e o Líbano!"
+      polish: "Chciałbym przejść, by zobaczyć tę piękną ziemię za Jordanem i te
+        piękne\rgóry, i Liban."
+      turkish: İzin ver de Şeria Irmağı'ndan geçip karşı yakadaki o verimli ülkeyi, o
+        güzel dağlık bölgeyi ve Lübnan'ı göreyim.'
+      nrt: Позволь мне переправиться и увидеть благодатную землю за Иорданом – те
+        прекрасные нагорья и Ливан».
+      Macarius: Дай мне перейти и увидеть оную добрую землю, которая за Иорданом, и
+        прекрасную оную добрую землю, которая за Иорданом, и прекрасную оную
+        гору, и Ливан.
+      serbian: Дај ми да пријеђем и видим земљу добру која је преко Јордана и гору
+        добру, Ливан.
+      bulgarian: Дай ми да мина и да видя оная хубава земя отвъд Иордан и оная
+        прекрасна планинска страна и Ливан.
+      deutsch: Laß mich hinübergehen und sehen das gute Land jenseit des Jordans, dies
+        gute Gebirge und den Libanon.
+      ukr2: Тож дозволь, молю, перейти та побачити ту гарну землю, що по тім боці
+        Йордану, оті прекрасні гори й Ливан.
+      ukr3: Дозволь же менї перейти, та побачити сю гарну землю, що по другім боцї
+        Йорданї, сї гарні узгіря Либанон гори.
+      bel_syomukha: дай мне перайсьці і ўбачыць тую добрую зямлю, якая за Ярданам, і
+        тую цудоўную гару і Ліван.
+      sergievsky: Позволь же мне перейти и увидеть эту хорошую землю, которая по ту
+        сторону Jордэна, эти хорошия горы и Лебанон!’
+      lev-khv: Желал бы я перейти и увидеть ту добрую землю, которая за Иорданом, ту
+        прекрасную гору и Ливан.
+      czech: Kez smim prejit Jordan a spatrit tu dobrou zemi, co je za Jordanem,
+        dobrou hornatou zemi a Libanon!"
+      spanish: Déjame, te pido, atravesar para que pueda ver la excelente tierra del
+        lado de allá del Jordán, esas hermosas montañas y el Líbano>>.
+      vadim: Позволь же мне перейти и увидеть эту хорошую землю, которая по ту сторону
+        Jордэна, эти хорошия горы и Лебанон!’
+      greek-lxx: διαβὰς οὖν ὄψομαι τὴν γῆν τὴν ἀγαθὴν ταύτην τὴν οὖσαν πέραν τοῦ
+        Ιορδάνου τὸ ὄρος τοῦτο τὸ ἀγαθὸν καὶ τὸν Ἀντιλίβανον
+      st_text: дай мне перейти и увидеть ту добрую землю, которая за Иорданом, и ту
+        прекрасную гору и Ливан.
+  - id: 36568
+    number: 26
+    bookId: 5
+    text: "Но Господь гневался на меня за вас и не послушал меня, и сказал мне
+      Господь: полно тебе, впредь не говори Мне более об этом;"
+    chapter: 3
+    chapterId: 156
+    parallels:
+      - verseId: 35974
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 1
+        short: Втор:1:37
+      - verseId: 36735
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 4
+        short: Втор:4:21
+    translates:
+      kassian: ""
+      podstr: "И презрел Господь меня из-за вас и не услышал Он меня, и сказал Господь
+        ко мне: Довольно тебе, не продолжай ещё говорить слово это;"
+      csya: "И презре мя Господь вас ради, и не послуша мене, и рече Господь ко мне:
+        довлеет ти, не приложи к сему глаголати словесе сего:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# презрё мz гDь вaсъ рaди, и3 не послyша мене2, и3 рече2 гDь ко мнЁ:
+        довлёетъ ти2, не приложи2 къ семY глаго1лати словесе2 сегw2:"
+      sovr_rbo: "Но Господь гневался на меня из-за вас и не стал меня слушать. Он
+        сказал: „Довольно! Больше не проси Меня об этом."
+      latin: "Iratusque est Dominus mihi propter vos, nec exaudivit me, sed dixit
+        mihi: Sufficit tibi: nequaquam ultra loquaris de hac re ad me."
+      ukr: "Та Господь розгнівався на мене через вас, і не послухав мене. І сказав
+        Господь до мене: Досить тобі, не говори більше до Мене в цій справі!"
+      nkjv: "But the Lord was angry with me on your account, and would not listen to
+        me. So the Lord said to me: 'Enough of that! Speak no more to Me of this
+        matter. "
+      desnitsky: ""
+      mt: ‫    וַיִּתְעַבֵּר יְהוָה בִּי לְמַעַנְכֶם וְלֹא שָׁמַע אֵלָי וַיֹּאמֶר
+        יְהוָה אֵלַי רַב־לָךְ אַל־תּוֹסֶף דַּבֵּר אֵלַי עוֹד בַּדָּבָר הַזֶּה׃ ‬
+      romana: "Dar Domnul s-a rnaniat pe mine pentru voi si nu m-a ascultat, ei mi-a
+        zis Domnul: Ajunge! De acum sa nu-Mi mai graiesti de aceasta!"
+      francais: "Mais l'Éternel s'irrita contre moi, à cause de vous, et il ne
+        m'écouta point. L'Éternel me dit: C'est assez, ne me parle plus de cette
+        affaire."
+      italian: "Ma il Signore si adirò contro di me, per causa vostra, e non mi
+        esaudì. Il Signore mi disse: Basta, non parlarmi più di questa cosa."
+      old_georgian: "და უგულებელ-მყო მე უფალმან თქუენთჳს. მერმე მომიგო მე უფალმან და
+        მრქუა: კმა იყავნ შენდა, ნუღარა შესძინებ სიტყუად ჩემდა სიტყუასა მაგას,"
+      portuguese: "Mas o Senhor indignou-se muito contra mim por causa de vós, e não
+        me ouviu; antes me disse: Basta; não me\rfales mais nisto."
+      polish: "Lecz przez was rozgniewał się na mnie Pan i nie wysłuchał mnie. I rzekł
+        Pan\rdo mnie: ”Dość, nie mów Mi o tym więcej!"
+      turkish: «Ama RAB sizin yüzünüzden bana öfkelendi, yalvarışıma kulak asmadı.
+        Bana, `Yeter artık!' dedi, `Bir daha bu konudan söz etme bana.
+      nrt: Но из-за вас Господь разгневался на меня и не услышал меня. «Хватит, –
+        сказал Господь, – не говори Мне больше об этом.
+      Macarius: "Но Господь гневался на меня за вас и не послушал меня, и сказал мне
+        Господь: полно тебе, впредь не говори Мне еще такого слова."
+      serbian: "Али Господ Бог бјеше гњеван на ме с вас, и не услиши ме, него ми рече:
+        Доста; не говори ми више за то."
+      bulgarian: "Но Господ ми беше гневен заради вас и ме не послуша, и ми рече
+        Господ: стига, занапред да ми не говориш вече за това;"
+      deutsch: "Aber der Herr war erzürnt auf mich um euretwillen und erhörte mich
+        nicht, sondern sprach: Laß es genug sein! rede mir davon nicht mehr!"
+      ukr2: "Та Господь розгнівався на мене через вас і не схотів слухати мене, ба
+        навіть і сказав до мене: Буде з тебе. Не говори мені більше про це."
+      ukr3: "Та досадував на мене Господь за вас, і не став слухати мене. І рече до
+        мене Господь: Буде з тебе. Не кажи менї більш про се."
+      bel_syomukha: "Але Гасподзь гневаўся на мяне за вас і не паслухаў мяне, і сказаў
+        мне Гасподзь: годзе табе, больш не кажы Мне пра гэта;"
+      sergievsky: "Но яростен стал на меня Сущий за вас, и не стал слушать меня. И
+        сказал мне Сущий: ‘Довольно с тебя! не говори мне больше об этом."
+      lev-khv: "Но Господь разгневался на меня за вас и не послушал меня, и сказал мне
+        Господь: полно тебе, впредь не говори Мне более об этом."
+      czech: 'Ale Hospodin proti mne kvuli vam vzplanul prchlivosti a nevyslysel me.
+        Rekl mi: "Mas dost. O teto veci uz ke mne nemluv.'
+      spanish: "Pero Yavé, como fuera de sí, por causa vuestra, no me escuchó; antes
+        bien me dijo: Basta, no vuelvas a hablarme de eso;"
+      vadim: "Но яростен стал на меня Сущий за вас, и не стал слушать меня. И сказал
+        мне Сущий: ‘Довольно с тебя! не говори мне больше об этом."
+      greek-lxx: καὶ ὑπερεῖδεν Κύριος ἐμὲ ἕνεκεν ὑμῶν καὶ οὐκ εἰσήκουσέν μου καὶ εἶπεν
+        Κύριος πρός με ἱκανούσθω σοι μὴ προσθῇς ἔτι λαλῆσαι τὸν λόγον τοῦτον
+      st_text: "Но Господь гневался на меня за вас и не послушал меня, и сказал мне
+        Господь: полно тебе, впредь не говори Мне более об этом;"
+  - id: 36569
+    number: 27
+    bookId: 5
+    text: взойди на вершину Фасги и взгляни глазами твоими к морю и к северу, и к
+      югу и к востоку, и посмотри глазами твоими, потому что ты не перейдешь за
+      Иордан сей;
+    chapter: 3
+    chapterId: 156
+    parallels:
+      - verseId: 11721
+        bookId: 4
+        bookCode: cisla
+        chapter: 23
+        short: Чис:23:14
+      - verseId: 36735
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 4
+        short: Втор:4:21
+      - verseId: 36593
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 31
+        short: Втор:31:2
+    translates:
+      kassian: ""
+      podstr: взойди на вершину [горы] Иссеченной и воззревший глазами на море и север
+        и юго-запад и восток и посмотри глазами твоими; потому что не перейдёшь
+        Иордан этот.
+      csya: "взыди на верх горы изсеченыя и воззри очима твоима к морю и северу, и югу
+        и на востоки, и виждь очима твоима, яко не прейдеши иордана сего:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "взы1ди на ве1рхъ горы2 и3зсёченыz и3 воззри2 nчи1ма твои1ма къ мо1рю
+        и3 сёверу, и3 ю4гу и3 на восто1ки, и3 ви1ждь nчи1ма твои1ма, ћкw не
+        пре1йдеши їoрдaна сегw2:"
+      sovr_rbo: Взойди на гору Фасга и погляди на запад, на север, на юг и на восток,
+        погляди своими глазами, ибо не суждено тебе перейти Иордан.
+      latin: Ascende cacumen Phasgae, et oculos tuos circumfer ad occidentem, et ad
+        aquilonem, austrumque et orientem, et aspice; nec enim transibis
+        Jordanem istum.
+      ukr: Вийди на верхів'я Пісґі, і зведи свої очі на захід, і на північ, і на
+        південь, і на схід, і побач своїми очима, бо ти не перейдеш цього
+        Йордану!
+      nkjv: Go up to the top of Pisgah, and lift your eyes toward the west, the north,
+        the south, and the east; behold it with your eyes, for you shall not
+        cross over this Jordan.
+      desnitsky: ""
+      mt: ‫    עֲלֵה רֹאשׁ הַפִּסְגָּה וְשָׂא עֵינֶיךָ יָמָּה וְצָפֹנָה וְתֵימָנָה
+        וּמִזְרָחָה וּרְאֵה בְעֵינֶיךָ כִּי־לֹא תַעֲבֹר אֶת־הַיַּרְדֵּן הַזֶּה׃
+        ‬
+      romana: Suie-te in varful lui Fazga si priveste cu ochii tai spre apus si spre
+        miazanoapte si spre miazazi si spre rasarit si vezi cu ochii tai, caci
+        nu vei trece peste acest Iordan.
+      francais: Monte au sommet du Pisga, porte tes regards à l'occident, au nord, au
+        midi et à l'orient, et contemple de tes yeux; car tu ne passeras pas ce
+        Jourdain.
+      italian: Sali sulla cima del Pisga, volgi lo sguardo a occidente, a
+        settentrione, a mezzogiorno e a oriente e contempla il paese con gli
+        occhi; perché tu non passerai questo Giordano.
+      old_georgian: არამედ აჰჴედ შენ თხემსა მთისა მაგის გამოთლილისასა და აღიხილენ
+        თუალნი შენნი ზღუად კერძო და სამხრით, და ჩრდილოჲთ, და დასავალად და
+        აღმოსავალად და იხილე თუალითა შენითა, რამეთუ არასადა წიაღსლვად ხარ შენ
+        წიაღ იორდანესა.
+      portuguese: "sobe ao cume do Pisga, e levanta os olhos para o ocidente, para o
+        norte, para o sul e para o oriente, e contempla\rcom os teus olhos;
+        porque não passarás este Jordão."
+      polish: "Wejdź na szczyt Pisga i podnieś oczy na zachód, północ, południe,
+        wschód i\roglądaj krainę na własne oczy, bo tego Jordanu nie
+        przejdziesz."
+      turkish: Pisga Dağı'na çık. Batıya, kuzeye, güneye, doğuya bak. Gözlerinle gör.
+        Çünkü Şeria Irmağı'ndan geçmeyeceksin.
+      nrt: Поднимись на вершину Фасги и посмотри на запад, на север, на юг и на
+        восток. Посмотри на землю своими собственными глазами, потому что ты не
+        перейдешь Иордан.
+      Macarius: Взойди на вершину Фазги, и взгляни глазами твоими к морю, и к северу,
+        и к югу и к востоку, и посмотри глазами твоими; потому что ты не
+        перейдешь за Иордан сей.
+      serbian: Попни се на врх ове горе, и подигавши очи своје на запад и на сјевер и
+        на југ и на исток, види очима својима, јер нећеш пријећи преко Јордана.
+      bulgarian: възлез навръх Фасга и дигни очи към морето и към север, към юг и към
+        изток, погледни с очи, защото няма да преминеш този Иордан;
+      deutsch: Steige auf die Höhe des Berges Pisga, und hebe deine Augen auf gegen
+        Abend und gegen Mitternacht und gegen Mittag und gegen Morgen, und siehe
+        es mit deinen Augen; denn du wirst nicht über diesen Jordan gehen.
+      ukr2: Зійди на верх Пізга-гори й підведи очі свої на захід і на північ, і на
+        південь, і на схід; і добре подивись, бо за Йордан ти не перейдеш.
+      ukr3: Ізійди на верх Пізги і знїми очі твої на захід і на північ і на полудне і
+        на схід соньця, і подивись своїми очима, бо не перейдеш ти сієї Йорданї.
+      bel_syomukha: узыдзі на вяршыню Фасгі й зірні вачыма тваімі да мора і на поўнач,
+        і на поўдзень і на ўсход, і паглядзі вачыма тваімі, бо ты не пяройдзеш
+        за Ярдан гэты;
+      sergievsky: Взойди на вершину Писги, и подыми глаза твои к западу и к северу, и
+        к полудню и к восходу, и посмотри на нее глазами твоими; ибо нельзя,
+        тебя перейти этого Jордэна.
+      lev-khv: Взойди на вершину Фазги, и подними глаза твои к западу, и к северу, и к
+        югу, и к востоку, и посмотри глазами твоими; потому что ты не перейдешь
+        за этот Иордан.
+      czech: Vystup na vrchol Pisgy a rozhledni se na zapad, na sever, na jih a na
+        vychod; na vlastni oci se podivej. Tento Jordan vsak neprejdes.
+      spanish: sube a la cima del monte Pasga y dirige tus ojos hacia occidente, el
+        septentrión, el mediodía y el oriente, y contémplala con tus ojos, pues
+        no has de pasar este Jordán.
+      vadim: Взойди на вершину Писги, и подыми глаза твои к западу и к северу, и к
+        полудню и к восходу, и посмотри на нее глазами твоими; ибо нельзя, тебя
+        перейти этого Jордэна.
+      greek-lxx: ἀνάβηθι ἐπὶ κορυφὴν Λελαξευμένου καὶ ἀναβλέψας τοῖς ὀφθαλμοῖς κατὰ
+        θάλασσαν καὶ βορρᾶν καὶ λίβα καὶ ἀνατολὰς καὶ ἰδὲ τοῖς ὀφθαλμοῖς σου ὅτι
+        οὐ διαβήσῃ τὸν Ιορδάνην τοῦτον
+      st_text: взойди на вершину Фасги и взгляни глазами твоими к морю и к северу, и к
+        югу и к востоку, и посмотри глазами твоими, потому что ты не перейдешь
+        за Иордан сей;
+  - id: 36570
+    number: 28
+    bookId: 5
+    text: и дай наставление Иисусу, и укрепи его, и утверди его; ибо он будет
+      предшествовать народу сему и он разделит им на уделы [всю] землю, на
+      которую ты посмотришь.
+    chapter: 3
+    chapterId: 156
+    parallels:
+      - verseId: 35975
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 1
+        short: Втор:1:38
+      - verseId: 26895
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 1
+        short: Нав:1:6
+      - verseId: 27031
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 14
+        short: Нав:14:1
+    translates:
+      kassian: ""
+      podstr: И прикажи Иисусу и укрепи его и ободри его, потому что этот перейдёт
+        перед лицом народа этого, и он унаследует им землю, которую ты увидел.
+      csya: "и заповеждь иисусу, и укрепи его, и утеши его: яко сей прейдет пред лицем
+        людий сих, и сей разделит им в наследие всю землю, юже еси видел."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 заповёждь їисyсу, и3 ўкрэпи2 є3го2, и3 ўтёши є3го2: ћкw се1й
+        пре1йдетъ пред8 лице1мъ людjй си1хъ, и3 се1й раздэли1тъ и5мъ въ наслёдіе
+        всю2 зе1млю, ю4же є3си2 ви1дэлъ."
+      sovr_rbo: Отдай распоряжения Иисусу, вели ему быть твердым и стойким. Он пойдет
+        во главе этих людей — и сделает их владением страну, которую тебе дано
+        лишь увидеть”.
+      latin: "Praecipe Josue, et corrobora eum atque conforta: quia ipse praecedet
+        populum istum, et dividet eis terram quam visurus es."
+      ukr: І напоуми Ісуса, і зміцни його, й укріпи його, бо він перейде перед цим
+        народом, і він зробить, що вони посядуть той Край, який ти побачиш.
+      nkjv: "But command Joshua, and encourage him and strengthen him; for he shall go
+        over before this people, and he shall cause them to inherit the land
+        which you will see.' "
+      desnitsky: ""
+      mt: ‫    וְצַו אֶת־יְהוֹשֻׁעַ וְחַזְּקֵהוּ וְאַמְּצֵהוּ כִּי־הוּא יַעֲבֹר
+        לִפְנֵי הָעָם הַזֶּה וְהוּא יַנְחִיל אוֹתָם אֶת־הָאָרֶץ אֲשֶׁר תִּרְאֶה׃
+        ‬
+      romana: Da povata lui Iosua; intareste-l si-l imbarbateaza, caci el va merge
+        inaintea acestui popor si el va imparti in bucati tot pamantul, pe
+        care-l vezi acum.
+      francais: Donne des ordres à Josué, fortifie-le et affermis-le; car c'est lui
+        qui marchera devant ce peuple et qui le mettra en possession du pays que
+        tu verras.
+      italian: Trasmetti i tuoi ordini a Giosuè, rendilo intrepido e incoraggialo,
+        perché lui lo passerà alla testa di questo popolo e metterà Israele in
+        possesso del paese che vedrai.
+      old_georgian: არამედ შენ ამცენ ისოს და ნუგეშინის-ეც მას, რამეთუ ესე წიაღუძღუეს
+        ერსა მას და მანცა დაუმკჳდროს მათ ქუეყანაჲ იგი, რომელ-ეგე შენ იხილე.
+        დავსხედით ჩუენ ღელესა ერთსა მახლობელად სახლსა მას ფოგორისსა.
+      portuguese: "Mas dá ordens a Josué, anima-o, e fortalece-o, porque ele passará
+        adiante deste povo, e o levará a possuir a\rterra que tu verás."
+      polish: "Wydaj polecenie Jozuemu, umocnij go i utwierdź, gdyż on pójdzie na
+        czele\rtego ludu i on mu da w posiadanie ziemię, którą to zobaczysz”."
+      turkish: Yeşu'ya görev ver. Onu güçlendir ve yüreklendir. Çünkü bu halk Şeria
+        Irmağı'ndan onun önderliğinde geçecek. Göreceğin toprakları halka o
+        miras olarak verecek.'
+      nrt: Но наставь Иисуса, утверди и укрепи его, потому что он переправится во
+        главе народа и разделит между ними землю, которую ты увидишь».
+      Macarius: И дай наставление Иисусу, и укрепи его и утверди его; поелику он будет
+        предшествовать народу сему, и он разделит им на уделы [всю] землю, на
+        которую ты посмотришь.
+      serbian: Него подај заповијести Исусу, и утврди га и укријепи га; јер ће он
+        пријећи пред народом тијем, и он ће им раздијелити у нашљедство земљу
+        коју видиш.
+      bulgarian: "и дай на Иисуса наставление, подкрепи го и го утвърди: защото той ще
+        предвожда тоя народ и той ще им подели на дялове земята (цяла), на която
+        ти ще погледнеш."
+      deutsch: Und gebiete dem Josua, daß er getrost und unverzagt sei; denn er soll
+        über den Jordan ziehen vor dem Volk her und soll ihnen das Land
+        austeilen, das du sehen wirst.
+      ukr2: Передай провід Ісусові, підбадьор його, додай йому відваги, бо він перейде
+        на чолі цього люду, й він віддасть їм у насліддя землю, що її ти бачиш.
+      ukr3: Но заповідай Йозейові і покріпи його і утверди його; бо він мусить перейти
+        поперед люду сього, і він оддасть їм у наслїддє землю, що побачиш її.
+      bel_syomukha: і дай настаўленьне Ісусу, і ўмацуй яго, і ўцьвердзі яго; бо ён
+        будзе папярэднічаць народу гэтаму і ён падзеліць ім на надзелы зямлю, на
+        якую ты паглядзіш.
+      sergievsky: Но заповедай Jошуе и укрепи его и сделай его твердым; ибо он должен
+        пройти вперед этого народа, и он отдаст им в наследство землю, которую
+        ты увидишь.’
+      lev-khv: И дай наставление Иисусу, и укрепи его, и утверди его; потому что он
+        перейдет впереди этого народа, и он введет их во владение землею,
+        которую ты увидишь.
+      czech: A dej prikazy Jozuovi, dodej mu sily a odvahy, nebot on ho prejde v cele
+        tohoto lidu a rozdeli jim do dedictvi zemi, kterou uvidis."
+      spanish: Manda a Josué, infúndele valor y fortaleza, pues él es quien lo pasará
+        a la cabeza de este pueblo y le pondré en posesión de la tierra que tú
+        no puedes más que ver.
+      vadim: Но заповедай Jошуе и укрепи его и сделай его твердым; ибо он должен
+        пройти вперед этого народа, и он отдаст им в наследство землю, которую
+        ты увидишь.’
+      greek-lxx: καὶ ἔντειλαι Ἰησοῖ καὶ κατίσχυσον αὐτὸν καὶ παρακάλεσον αὐτόν ὅτι
+        οὗτος διαβήσεται πρὸ προσώπου τοῦ λαοῦ τούτου καὶ αὐτὸς κατακληρονομήσει
+        αὐτοῖς τὴν γῆν ἣν ἑώρακας
+      st_text: и дай наставление Иисусу, и укрепи его, и утверди его; ибо он будет
+        предшествовать народу сему и он разделит им на уделы [всю] землю, на
+        которую ты посмотришь.
+  - id: 36571
+    number: 29
+    bookId: 5
+    text: И остановились мы на долине, напротив Беф-Фегора.
+    chapter: 3
+    chapterId: 156
+    parallels:
+      - verseId: 36760
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 4
+        short: Втор:4:46
+    translates:
+      kassian: ""
+      podstr: И мы оставались в роще вблизи дома Фогора.
+      csya: И пребыхом во юдоли близ дому фогорова.
+      averincev: ""
+      ungerov: ""
+      csya_old: И# пребы1хомъ во ю3до1ли бли1з8 до1му фогHрова.
+      sovr_rbo: Мы остановились в долине близ Бет-Пеора.
+      latin: Mansimusque in valle contra fanum Phogor.
+      ukr: І осіли ми в долині навпроти Бет-Пеору.
+      nkjv: So we stayed in the valley opposite Beth Peor.
+      desnitsky: ""
+      mt: ‫    וַנֵּשֶׁב בַּגָּיְא מוּל בֵּית פְּעוֹר׃ פ ‬
+      romana: Atunci ne-am oprit noi in vale, in fata Bet-Peorului".
+      francais: Nous demeurâmes dans la vallée, vis-à-vis de Beth Peor.
+      italian: Così ci fermammo nella valle di fronte a Bet—Peor.
+      portuguese: Assim ficamos no vale defronte de Bete-Peor.
+      polish: Tak pozostaliśmy w dolinie naprzeciw Bet-Peor.
+      turkish: Böylece Beytpeor'un karşısındaki vadide kaldık.»
+      nrt: И мы остановились в долине, рядом с Бет-Пеором.
+      Macarius: И остановились мы на долине, напротив Беф-Фегора.
+      serbian: И остасмо у овој долини према Вет-Фегору.
+      bulgarian: И спряхме се в долината срещу Бет-Фегор.
+      deutsch: Also blieben wir im Tal gegenüber Beth-Peor.
+      ukr2: Оттак ми перебували в долині напроти Бет-Пеора.»
+      ukr3: І пробували ми в долинї проти Бет-Пеора.
+      bel_syomukha: І спыніліся мы ў даліне насупраць Бэт-Фэгора.
+      sergievsky: И жили мы в долине против Бет-Пеора».
+      lev-khv: И остановились мы на долине, напротив Беф-Фегора.
+      czech: Tak jsme zustali v udoli naproti Bet-peoru.
+      spanish: Nos quedamos, pues, en el valle, frente a Bet Fogor.
+      vadim: И жили мы в долине против Бет-Пеора».
+      greek-lxx: καὶ ἐνεκαθήμεθα ἐν νάπῃ σύνεγγυς οἴκου Φογωρ
+      st_text: И остановились мы на долине, напротив Беф-Фегора.

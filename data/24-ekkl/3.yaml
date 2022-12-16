@@ -1,0 +1,1722 @@
+id: 703
+number: 3
+bookId: 24
+verseCount: 22
+title: Глава 3
+verses:
+  - id: 14259
+    number: 1
+    bookId: 24
+    text: "Всему свое время, и время всякой вещи под небом:"
+    chapter: 3
+    chapterId: 703
+    parallels:
+      - verseId: 14363
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 8
+        short: Еккл:8:6
+      - verseId: 14385
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 9
+        short: Еккл:9:11
+      - verseId: 24892
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 9
+        short: Лк:9:21
+      - verseId: 1634
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 6
+        short: 1 Кор:6:12
+    translates:
+      kassian: ""
+      podstr: Всему пора, и время всякому делу под небом.
+      csya: "Всем время и время всяцей вещи под небесем:"
+      averincev: ""
+      ungerov: "Всему время и время всякому событию под небом:"
+      csya_old: "ВсBмъ вре1мz и3 вре1мz всsцэй ве1щи под8 небесе1мъ:"
+      sovr_rbo: Всему есть срок, есть время всякому делу под небом.
+      latin: Omnia tempus habent, et suis spatiis transeunt universa sub caelo.
+      ukr: "Для всього свій час, і година своя кожній справі під небом:"
+      nkjv: "To everything there is a season, A time for every purpose under heaven:"
+      desnitsky: ""
+      mt: ‫    לַכֹּל זְמָן וְעֵת לְכָל־חֵפֶץ תַּחַת הַשָּׁמָיִם׃ ס ‬
+      romana: Pentru orice lucru este o clipa prielnica si vreme pentru orice
+        indeletnicire de sub cer.
+      francais: "Il y a un temps pour tout, un temps pour toute chose sous les cieux:"
+      italian: Per ogni cosa c'è il suo momento, il suo tempo per ogni faccenda sotto
+        il cielo.
+      old_georgian: ყოველთათჳს ჟამი არს და ჟამი ჩანს ყოვლისა საქმისა ცასა ქუეშე
+      portuguese: Tudo tem a sua ocasião própria, e há tempo para todo propósito
+        debaixo do céu.
+      polish: "Wszystko ma swój czas, i jest wyznaczona godzina na wszystkie sprawy
+        pod\rniebem:"
+      turkish: Her şeyin mevsimi, göklerin altındaki her olayın zamanı vardır.
+      nrt: "Всему есть свое время, и для каждого дела под небом есть свой час:"
+      Macarius: На все есть время, и всякой вещи под небом своя пора.
+      serbian: Свему има вријеме, и сваком послу под небом има вријеме.
+      bulgarian: "Всичко си има време, време има за всяка работа под небето:"
+      deutsch: Ein jegliches hat seine Zeit, und alles Vornehmen unter dem Himmel hat
+        seine Stunde.
+      ukr2: "Усьому час-пора, і на все слушна хвилина під небом:"
+      ukr3: "Усьому під небом свій час і всякому дїлу своя пора:"
+      bel_syomukha: Усё мае сваю пару, і гадзіна кожнае дзеі - пад небам.
+      spbda: Всему час, и время всякой вещи под небом.
+      maksimovich: Всему чреда, и всякой вещи под небом назначено свое время.
+      lev-khv: "Всему час, и время всякой вещи под небом:"
+      czech: "Vsechno ma urcenou chvili a veskere deni pod nebem svuj cas:"
+      spanish: Todo tiene su momento, y todo cuanto se hace debajo del sol tiene su
+        tiempo.
+      greek-lxx: τοῖς πᾶσιν χρόνος καὶ καιρὸς τῷ παντὶ πράγματι ὑπὸ τὸν οὐρανόν
+      st_text: "Всему свое время, и время всякой вещи под небом:"
+  - id: 14260
+    number: 2
+    bookId: 24
+    text: время рождаться, и время умирать; время насаждать, и время вырывать
+      посаженное;
+    chapter: 3
+    chapterId: 703
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Время [чтобы] родить и время [чтобы] умереть, время [чтобы] посадить и
+        время [чтобы] оборвать посаженное,
+      csya: время раждати и время умирати, время садити и время исторгати сажденое,
+      averincev: ""
+      ungerov: Время рождать и время умирать, время сажать и время вырывать посаженное.
+      csya_old: "вре1мz раждaти [є3вр.: раждaтисz] и3 вре1мz ўмирaти, вре1мz сади1ти
+        и3 вре1мz и3сторгaти сажде1ное,"
+      sovr_rbo: Время рождаться и время умирать; время сажать и время корчевать;
+      latin: Tempus nascendi, et tempus moriendi; tempus plantandi, et tempus
+        evellendi quod plantatum est.
+      ukr: час родитись і час помирати, час садити і час виривати посаджене,
+      nkjv: A time to be born, And a time to die; A time to plant, And a time to pluck
+        what is planted;
+      desnitsky: ""
+      mt: ‫    עֵת לָלֶדֶת וְעֵת לָמוּת עֵת לָטַעַת וְעֵת לַעֲקוֹר נָטוּעַ׃ ‬
+      romana: Vreme este sa te nasti si vreme sa mori; vreme este sa sadesti si vreme
+        sa smulgi ceea ce ai sadit.
+      francais: un temps pour naître, et un temps pour mourir; un temps pour planter,
+        et un temps pour arracher ce qui a été planté;
+      italian: C'è un tempo per nascere e un tempo per morire, un tempo per piantare e
+        un tempo per sradicare le piante.
+      old_georgian: ჟამი არს შობისაჲ და ჟამი სიკუდილისაჲ, ჟამი არს დანერგვისაჲ და ჟამი
+        მოფხურად დანერგულისა მის
+      portuguese: Há tempo de nascer, e tempo de morrer; tempo de plantar, e tempo de
+        arrancar o que se plantou;
+      polish: "Jest czas rodzenia i czas umierania, czas sadzenia i czas wyrywania
+        tego, co\rzasadzono,"
+      turkish: "Doğmanın zamanı var, ölmenin zamanı var.\rDikmenin zamanı var,
+        sökmenin zamanı var."
+      nrt: время рождаться и время умирать; время сажать и время искоренять;
+      Macarius: Назначено время, когда родиться, и время, когда умереть; время, когда
+        садить, и время, когда вырывать посаженное;
+      serbian: Има вријеме кад се рађа, и вријеме кад се умире; вријеме кад се сади, и
+        вријеме кад се чупа посађено;
+      bulgarian: време да се родиш, и време да умреш; време да садиш, и време да
+        скубеш насаденото;
+      deutsch: Geboren werden und sterben, pflanzen und ausrotten, was gepflanzt ist,
+      ukr2: час народитись і час померти, час садити і час посаджене виривати.
+      ukr3: Час родитись і час умірати, час насаджувати й час виривати насаджене;
+      bel_syomukha: Ёсьць пара нарадзіцца, і пара памерці, пара насаджаць, і пара
+        вырываць пасаджанае.
+      spbda: Время раждать, и время умирать; время насаждать, и время вырывать
+        посаженное;
+      maksimovich: Время раждать и время умирать, время садить и время вырывать посаженное.
+      lev-khv: Время раждать, и время умирать; время насаждать, и время вырывать
+        насаженное;
+      czech: Je cas rozeni i cas umirani, cas sazet i cas trhat;
+      spanish: Hay tiempo de nacer y tiempo de morir, tiempo de plantar y tiempo de
+        arrancar lo plantado;
+      greek-lxx: καιρὸς τοῦ τεκεῖν καὶ καιρὸς τοῦ ἀποθανεῖν καιρὸς τοῦ φυτεῦσαι καὶ
+        καιρὸς τοῦ ἐκτῖλαι πεφυτευμένον
+      st_text: время рождаться, и время умирать; время насаждать, и время вырывать
+        посаженное;
+  - id: 14261
+    number: 3
+    bookId: 24
+    text: время убивать, и время врачевать; время разрушать, и время строить;
+    chapter: 3
+    chapterId: 703
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: время [чтобы] убить и время [чтобы] исцелить, время [чтобы] разрушить и
+        время [чтобы] построить,
+      csya: время убивати и время целити, время разрушати и время созидати,
+      averincev: ""
+      ungerov: Время убивать и время исцелять, время разрушать и время строить.
+      csya_old: вре1мz ўбивaти и3 вре1мz цэли1ти, вре1мz разрушaти и3 вре1мz созидaти,
+      sovr_rbo: время убивать и время исцелять; время рушить и время строить;
+      latin: Tempus occidendi, et tempus sanandi; tempus destruendi, et tempus
+        aedificandi.
+      ukr: час вбивати і час лікувати, час руйнувати і час будувати,
+      nkjv: A time to kill, And a time to heal; A time to break down, And a time to
+        build up;
+      desnitsky: ""
+      mt: ‫    עֵת לַהֲרוֹג וְעֵת לִרְפּוֹא עֵת לִפְרוֹץ וְעֵת לִבְנוֹת׃ ‬
+      romana: Vreme este sa ranesti si vreme sa tamaduiesti; vreme este sa darami si
+        vreme sa zidesti.
+      francais: un temps pour tuer, et un temps pour guérir; un temps pour abattre, et
+        un temps pour bâtir;
+      italian: Un tempo per uccidere e un tempo per guarire, un tempo per demolire e
+        un tempo per costruire.
+      old_georgian: ჟამი არს მოკლვისაჲ და ჟამი განკურნებისაჲ, ჟამი დარღუევისაჲ და ჟამი
+        აშენებისაჲ
+      portuguese: tempo de matar, e tempo de curar; tempo de derribar, e tempo de edificar;
+      polish: czas zabijania i czas leczenia, czas burzenia i czas budowania,
+      turkish: "Öldürmenin zamanı var, şifa vermenin zamanı var.\rYıkmanın zamanı var,
+        yapmanın zamanı var."
+      nrt: время убивать и время исцелять; время разрушать и время строить;
+      Macarius: Время, когда убивать, и время, когда врачевать; время, когда
+        разрушать, и время, когда строить.
+      serbian: Вријеме кад се убија, и вријеме кад се исцјељује; вријеме кад се
+        разваљује, и вријеме кад се гради;
+      bulgarian: време да убиваш, и време да лекуваш; време да събаряш, и време да
+        съграждаш;
+      deutsch: würgen und heilen, brechen und bauen,
+      ukr2: Час убивати й час лікувати, час руйнувати і час будувати.
+      ukr3: Час убивати й час гоїти, час валити й час будовати;
+      bel_syomukha: Пара забойства, і пара гаеньня; пара разбураць, і пара будаваць;
+      spbda: Время убивать, и время лечить; время разрушать, и время строить;
+      maksimovich: Время убивать и время врачевать, время разрушать и время строить.
+      lev-khv: Время убивать, и время лечить; время разрушать, и время строить;
+      czech: je cas zabijet i cas lecit, cas borit i cas budovat;
+      spanish: tiempo de matar y tiempo de curar, tiempo de destruir y tiempo de
+        edificar;
+      greek-lxx: καιρὸς τοῦ ἀποκτεῖναι καὶ καιρὸς τοῦ ἰάσασθαι καιρὸς τοῦ καθελεῖν καὶ
+        καιρὸς τοῦ οἰκοδομῆσαι
+      st_text: время убивать, и время врачевать; время разрушать, и время строить;
+  - id: 14262
+    number: 4
+    bookId: 24
+    text: время плакать, и время смеяться; время сетовать, и время плясать;
+    chapter: 3
+    chapterId: 703
+    parallels:
+      - verseId: 15823
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 31
+        short: Иер:31:4
+    translates:
+      kassian: ""
+      podstr: время [чтобы] плакать и время [чтобы] смеяться, время [чтобы] бить себя
+        в грудь и время [чтобы] танцевать,
+      csya: время плакати и время смеятися, время рыдати и время ликовати,
+      averincev: ""
+      ungerov: Время плакать и время смеяться, время рыдать и время ликовать.
+      csya_old: вре1мz плaкати и3 вре1мz смэsтисz, вре1мz рыдaти и3 вре1мz ликовaти,
+      sovr_rbo: время плакать и время смеяться; время рыданий и время плясок;
+      latin: Tempus flendi, et tempus ridendi; tempus plangendi, et tempus saltandi.
+      ukr: час плакати й час реготати, час ридати і час танцювати,
+      nkjv: A time to weep, And a time to laugh; A time to mourn, And a time to dance;
+      desnitsky: ""
+      mt: ‫    עֵת לִבְכּוֹת וְעֵת לִשְׂחוֹק עֵת סְפוֹד וְעֵת רְקוֹד׃ ‬
+      romana: Vreme este sa plangi si vreme sa razi; vreme este sa jelesti si vreme sa
+        dantuiesti.
+      francais: un temps pour pleurer, et un temps pour rire; un temps pour se
+        lamenter, et un temps pour danser;
+      italian: Un tempo per piangere e un tempo per ridere, un tempo per gemere e un
+        tempo per ballare.
+      old_georgian: ჟამი ტირილისაჲ და ჟამი სიცილისაჲ, ჟამი ტყებისაჲ და ჟამი როკვისაჲ
+      portuguese: tempo de chorar, e tempo de rir; tempo de prantear, e tempo de dançar;
+      polish: czas płaczu i czas śmiechu, czas zawodzenia i czas pląsów,
+      turkish: "Ağlamanın zamanı var, gülmenin zamanı var.\rYas tutmanın zamanı var,
+        oynamanın zamanı var."
+      nrt: время плакать и время смеяться; время скорбеть и время танцевать;
+      Macarius: Время, когда плакать, и время, когда смеяться; время, когда сетовать,
+        и время, когда плясать;
+      serbian: Вријеме плачу и вријеме смијеху; вријеме ридању и вријеме игрању;
+      bulgarian: време да плачеш, и време да се смееш; време да тъгуваш, и време да
+        играеш;
+      deutsch: weinen und lachen, klagen und tanzen,
+      ukr2: Час плакати і час сміятись, час сумувати і час танцювати.
+      ukr3: Час плакати й час сьміятись; час сумовати й час танцювати,
+      bel_syomukha: пара плачу, і пара весялосьці; пара бедаваць, і пара танцаваць;
+      spbda: Время плакать, и время смеяться; время стенать, и время скакать;
+      maksimovich: Время плакать и время смеяться, время стенать и время скакать.
+      lev-khv: Время плакать, и время смеяться; время стенать, и время скакать;
+      czech: je cas plakat i cas smat se, cas truchlit i cas poskakovat;
+      spanish: tiempo de llorar y tiempo de reír, tiempo de lamentarse y tiempo de
+        danzar;
+      greek-lxx: καιρὸς τοῦ κλαῦσαι καὶ καιρὸς τοῦ γελάσαι καιρὸς τοῦ κόψασθαι καὶ
+        καιρὸς τοῦ ὀρχήσασθαι
+      st_text: время плакать, и время смеяться; время сетовать, и время плясать;
+  - id: 14263
+    number: 5
+    bookId: 24
+    text: время разбрасывать камни, и время собирать камни; время обнимать, и время
+      уклоняться от объятий;
+    chapter: 3
+    chapterId: 703
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: время [чтобы] бросить камни и время [чтобы] собрать камни, время [чтобы]
+        обнимать и время [чтобы] удаляться от обнимания,
+      csya: время разметати камение и время собирати камение, время обымати и время
+        удалятися от обымания,
+      averincev: ""
+      ungerov: Время разбрасывать камни и время собирать камни, время обнимать и время
+        уклоняться от объятий.
+      csya_old: вре1мz разметaти кaменіе и3 вре1мz собирaти кaменіе, вре1мz њбымaти и3
+        вре1мz ўдалsтисz t њбымaніz,
+      sovr_rbo: время разбрасывать камни и время их собирать; время обнимать и время
+        избегать объятий;
+      latin: Tempus spargendi lapides, et tempus colligendi, tempus amplexandi, et
+        tempus longe fieri ab amplexibus.
+      ukr: час розкидати каміння і час каміння громадити, час обіймати і час ухилятись
+        обіймів,
+      nkjv: A time to cast away stones, And a time to gather stones; A time to
+        embrace, And a time to refrain from embracing;
+      desnitsky: ""
+      mt: ‫    עֵת לְהַשְׁלִיךְ אֲבָנִים וְעֵת כְּנוֹס אֲבָנִים עֵת לַחֲבוֹק וְעֵת
+        לִרְחֹק מֵחַבֵּק׃ ‬
+      romana: Vreme este sa arunci pietre si vreme sa le strangi; vreme este sa
+        imbratisezi si vreme este sa fugi de imbratisare.
+      francais: un temps pour lancer des pierres, et un temps pour ramasser des
+        pierres; un temps pour embrasser, et un temps pour s'éloigner des
+        embrassements;
+      italian: Un tempo per gettare sassi e un tempo per raccoglierli, un tempo per
+        abbracciare e un tempo per astenersi dagli abbracci.
+      old_georgian: ჟამი არს დადებად ქვაჲ და ჟამი არს შეკრებად ქვისა, ჟამი არს
+        გარემოცვისა და ჟამისა არს განშორებად მოცულისა მის
+      portuguese: tempo de espalhar pedras, e tempo de ajuntar pedras; tempo de
+        abraçar, e tempo de abster-se de abraçar;
+      polish: "czas rzucania kamieni i czas ich zbierania, czas pieszczot cielesnych i
+        czas\rwstrzymywania się od nich,"
+      turkish: "Taş atmanın zamanı var, taş toplamanın zamanı var.\rKucaklaşmanın
+        zamanı var, kucaklaşmamanın zamanı var."
+      nrt: время раскидывать камни и время их собирать; время обнимать и время
+        воздерживаться от объятий;
+      Macarius: Время, когда бросать каменья, и время, когда собирать каменья; время,
+        когда обнимать, и время, когда удаляться от объятий;
+      serbian: Вријеме кад се размеће камење, и вријеме кад се скупља камење; вријеме
+        кад се грли, и вријеме кад се оставља грљење;
+      bulgarian: време да разхвърляш камъни, и време да събираш камъни; време да
+        прегръщаш и време да избягваш прегръдки;
+      deutsch: Stein zerstreuen und Steine sammeln, herzen und ferne sein von Herzen,
+      ukr2: Час розкидати каміння і час його збирати, час обіймати і час обіймів
+        уникати.
+      ukr3: Час розкидати каміннє й час збірати каміннє; час обіймати й час від
+        обнимань відхилятись;
+      bel_syomukha: пара раскідаць камяні, і пара зьбіраць камяні; пара абдымаць, і
+        пара ўхіляцца абдоўмаў;
+      spbda: Время разбрасывать камни, и время собирать камни; время обнимать, и время
+        удаляться от объятий;
+      maksimovich: Время разбрасывать камни и время складывать камни, время обниматься
+        и время удаляться от объятий.
+      lev-khv: Время разбрасывать камни, и время собирать камни; время обнимать, и
+        время удаляться от объятий;
+      czech: je cas kameny rozhazovat i cas kameny sbirat, cas objimat i cas objimani
+        zanechat;
+      spanish: tiempo de esparcir las piedras y tiempo de amontonarlas, tiempo de
+        abrazarse y tiempo de separarse;
+      greek-lxx: καιρὸς τοῦ βαλεῖν λίθους καὶ καιρὸς τοῦ συναγαγεῖν λίθους καιρὸς τοῦ
+        περιλαβεῖν καὶ καιρὸς τοῦ μακρυνθῆναι ἀπὸ περιλήμψεως
+      st_text: время разбрасывать камни, и время собирать камни; время обнимать, и
+        время уклоняться от объятий;
+  - id: 14264
+    number: 6
+    bookId: 24
+    text: время искать, и время терять; время сберегать, и время бросать;
+    chapter: 3
+    chapterId: 703
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: время [чтобы] отыскать и время [чтобы] уничтожить, время [чтобы]
+        сохранить и время [чтобы] изгнать,
+      csya: время искати и время погубляти, время хранити и время отреяти,
+      averincev: ""
+      ungerov: Время искать и время терять, время хранить и время бросать.
+      csya_old: вре1мz и3скaти и3 вре1мz погублsти, вре1мz храни1ти и3 вре1мz tрёzти,
+      sovr_rbo: время искать и время терять; время хранить и время выбрасывать;
+      latin: Tempus acquirendi, et tempus perdendi; tempus custodiendi, et tempus
+        abjiciendi.
+      ukr: час шукати і час розгубити, час збирати і час розкидати,
+      nkjv: A time to gain, And a time to lose; A time to keep, And a time to throw
+        away;
+      desnitsky: ""
+      mt: ‫    עֵת לְבַקֵּשׁ וְעֵת לְאַבֵּד עֵת לִשְׁמוֹר וְעֵת לְהַשְׁלִיךְ׃ ‬
+      romana: Vreme este sa agonisesti si vreme sa prapadesti; vreme este sa pastrezi
+        si vreme sa arunci.
+      francais: un temps pour chercher, et un temps pour perdre; un temps pour garder,
+        et un temps pour jeter;
+      italian: Un tempo per cercare e un tempo per perdere, un tempo per serbare e un
+        tempo per buttar via.
+      old_georgian: ჟამი არს ძიებისაჲ და ჟამი წარწყმედისაჲ და ჟამი არს მარხჳსაჲ და
+        ჟამი არს განგდებისაჲ
+      portuguese: tempo de buscar, e tempo de perder; tempo de guardar, e tempo de
+        deitar fora;
+      polish: czas szukania i czas tracenia, czas zachowania i czas wyrzucania,
+      turkish: "Aramanın zamanı var, vazgeçmenin zamanı var.\rSaklamanın zamanı var,
+        atmanın zamanı var."
+      nrt: время искать и время терять; время хранить и время выбрасывать;
+      Macarius: Время, когда находить, и время когда терять; время, когда сберегать, и
+        время, когда бросать;
+      serbian: Вријеме кад се тече, и вријеме кад се губи; вријеме кад се чува, и
+        вријеме кад се баца;
+      bulgarian: време да търсиш, и време да губиш; време да къташ, и време да пилееш;
+      deutsch: suchen und verlieren, behalten und wegwerfen,
+      ukr2: Час шукати і час губити, час зберігати і час розкидати.
+      ukr3: Час шукати й час губити; час збірати й час розкидати!
+      bel_syomukha: пара шукаць, і пара губляць; пара ашчаджаць, і пара выкідаць;
+      spbda: Время искать, и время терять; время сберегать, и время бросать;
+      maksimovich: Время искать и время считать потерянным, время сберегать и время
+        растрачивать.
+      lev-khv: Время искать, и время терять; время сберегать, и время бросать;
+      czech: je cas hledat i cas ztracet, cas opatrovat i cas odhazovat;
+      spanish: tiempo de buscar y tiempo de perder, tiempo de guardar y tiempo de tirar;
+      greek-lxx: καιρὸς τοῦ ζητῆσαι καὶ καιρὸς τοῦ ἀπολέσαι καιρὸς τοῦ φυλάξαι καὶ
+        καιρὸς τοῦ ἐκβαλεῖν
+      st_text: время искать, и время терять; время сберегать, и время бросать;
+  - id: 14265
+    number: 7
+    bookId: 24
+    text: время раздирать, и время сшивать; время молчать, и время говорить;
+    chapter: 3
+    chapterId: 703
+    parallels:
+      - verseId: 33654
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 20
+        short: Сир:20:6
+      - verseId: 33655
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 20
+        short: Сир:20:7
+      - verseId: 34066
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 32
+        short: Сир:32:6
+      - verseId: 24892
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 9
+        short: Лк:9:21
+    translates:
+      kassian: ""
+      podstr: время [чтобы] разорвать и время [чтобы] сшить, время [чтобы] молчать и
+        время [чтобы] говорить,
+      csya: время раздрати и время сшити, время молчати и время глаголати,
+      averincev: ""
+      ungerov: Время раздирать и время сшивать, время молчать и время говорить.
+      csya_old: вре1мz раздрaти и3 вре1мz сши1ти, вре1мz молчaти и3 вре1мz глаго1лати,
+      sovr_rbo: время рвать и время сшивать; время молчать и время говорить;
+      latin: Tempus scindendi, et tempus consuendi; tempus tacendi, et tempus
+        loquendi.
+      ukr: час дерти і час зашивати, час мовчати і час говорити,
+      nkjv: A time to tear, And a time to sew; A time to keep silence, And a time to
+        speak;
+      desnitsky: ""
+      mt: ‫    עֵת לִקְרוֹעַ וְעֵת לִתְפּוֹר עֵת לַחֲשׁוֹת וְעֵת לְדַבֵּר׃ ‬
+      romana: Vreme este sa rupi si vreme sa cosi; vreme este sa taci si vreme sa
+        graiesti.
+      francais: un temps pour déchirer, et un temps pour coudre; un temps pour se
+        taire, et un temps pour parler;
+      italian: Un tempo per stracciare e un tempo per cucire, un tempo per tacere e un
+        tempo per parlare.
+      old_georgian: ჟამი არს განპებისაჲ და ჟამი შეკერვისაჲ, ჟამი არს დუმილისაჲ და ჟამი
+        სიტყჳსაჲ
+      portuguese: tempo de rasgar, e tempo de coser; tempo de estar calado, e tempo de
+        falar;
+      polish: czas rozdzierania i czas zszywania, czas milczenia i czas mówienia,
+      turkish: "Yırtmanın zamanı var, dikmenin zamanı var.\rSusmanın zamanı var,
+        konuşmanın zamanı var."
+      nrt: время рвать и время сшивать; время молчать и время говорить;
+      Macarius: Время, когда раздирать, и время, когда сшивать; время, когда молчать,
+        и время, когда говорить;
+      serbian: Вријеме кад се дере, и вријеме кад се сашива; вријеме кад се мучи, и
+        вријеме кад се говори;
+      bulgarian: време да раздираш, и време да съшиваш; време да мълчиш, и време да
+        говориш;
+      deutsch: zerreißen und zunähen, schweigen und reden,
+      ukr2: Час роздирати і час ізшивати, час мовчати і час говорити.
+      ukr3: Час роздирати й час сшивати; час мовчати й час говорити;
+      bel_syomukha: пара разьдзіраць, і пара зашываць; пара маўчаць, і пара прамаўляць;
+      spbda: Время разрывать, и время сшивать; время молчать, и время говорить;
+      maksimovich: Время пороть и время сшивать, время молчать и время говорить.
+      lev-khv: Время разрывать, и время сшивать; время молчать, и время говорить;
+      czech: je cas roztrhavat i cas sesivat, cas mlcet i cas mluvit;
+      spanish: tiempo de rasgar y tiempo de coser, tiempo de callar y tiempo de hablar;
+      greek-lxx: καιρὸς τοῦ ῥῆξαι καὶ καιρὸς τοῦ ῥάψαι καιρὸς τοῦ σιγᾶν καὶ καιρὸς τοῦ
+        λαλεῖν
+      st_text: время раздирать, и время сшивать; время молчать, и время говорить;
+  - id: 14266
+    number: 8
+    bookId: 24
+    text: время любить, и время ненавидеть; время войне, и время миру.
+    chapter: 3
+    chapterId: 703
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: время [чтобы] целовать и время [чтобы] ненавидеть, время войны и время
+        мира.
+      csya: время любити и время ненавидети, время брани и время мира.
+      averincev: ""
+      ungerov: Время любить и время ненавидеть, время войны и время мира.
+      csya_old: вре1мz люби1ти и3 вре1мz ненави1дэти, вре1мz брaни и3 вре1мz ми1ра.
+      sovr_rbo: время любить и время ненавидеть; время войне и время миру.
+      latin: Tempus dilectionis, et tempus odii; tempus belli, et tempus pacis.
+      ukr: час кохати і час ненавидіти, час війні і час миру!
+      nkjv: A time to love, And a time to hate; A time of war, And a time of peace.
+      desnitsky: ""
+      mt: ‫    עֵת לֶאֱהֹב וְעֵת לִשְׂנֹא עֵת מִלְחָמָה וְעֵת שָׁלוֹם׃ ס ‬
+      romana: Vreme este sa iubesti si vreme sa urasti. Este vreme de razboi si vreme
+        de pace.
+      francais: un temps pour aimer, et un temps pour haïr; un temps pour la guerre,
+        et un temps pour la paix.
+      italian: Un tempo per amare e un tempo per odiare, un tempo per la guerra e un
+        tempo per la pace.
+      old_georgian: ჟამი არს სიყუარულისაჲ და ჟამი არს სიძულილისაჲ და ჟამი მშჳდობისაჲ
+      portuguese: tempo de amar, e tempo de odiar; tempo de guerra, e tempo de paz.
+      polish: czas miłowania i czas nienawiści, czas wojny i czas pokoju.
+      turkish: "Sevmenin zamanı var, nefret etmenin zamanı var.\rSavaşın zamanı var,
+        barışın zamanı var."
+      nrt: время любить и время ненавидеть; время для войны и время для мира.
+      Macarius: Время, когда любить, и время, когда ненавидеть; время брани и время мира.
+      serbian: Вријеме кад се љуби, и вријеме кад се мрзи; вријеме рату и вријеме миру.
+      bulgarian: време да обичаш, и време да мразиш; време за война, и време за мир.
+      deutsch: lieben und hassen, Streit und Friede hat seine Zeit.
+      ukr2: Час любити і час ненавидіти, час на війну і час на мир.
+      ukr3: Час любити й час ненавидїти; час воюватись і час миритись.
+      bel_syomukha: пара кахаць, і пара ненавідзець; пара вайне, і пара міру.
+      spbda: Время любить, и время ненавидеть; время войне, и время миру.
+      maksimovich: Время любить и время ненавидеть, время войне и время миру.
+      lev-khv: Время любить, и время ненавидеть; время войне, и время миру.
+      czech: je cas milovat i cas nenavidet, cas boje i cas pokoje.
+      spanish: tiempo de amar y tiempo de aborrecer, tiempo de guerra y tiempo de paz.
+      greek-lxx: καιρὸς τοῦ φιλῆσαι καὶ καιρὸς τοῦ μισῆσαι καιρὸς πολέμου καὶ καιρὸς
+        εἰρήνης
+      st_text: время любить, и время ненавидеть; время войне, и время миру.
+  - id: 14267
+    number: 9
+    bookId: 24
+    text: Что пользы работающему от того, над чем он трудится?
+    chapter: 3
+    chapterId: 703
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Какое изобилие творящего в которых [делах] он трудится?
+      csya: Кое изобилие творящаго, в нихже сам трудится?
+      averincev: ""
+      ungerov: Какая польза работающему от того, чем он сам занимается?
+      csya_old: Ко1е и3з8oби1ліе творsщагw, въ ни1хже сaмъ труди1тсz;
+      sovr_rbo: Что пользы человеку в его трудах?
+      latin: Quid habet amplius homo de labore suo?
+      ukr: Яка користь трудящому в тім, над чим трудиться він?
+      nkjv: What profit has the worker from that in which he labors?
+      desnitsky: ""
+      mt: ‫    מַה־יִּתְרוֹן הָעוֹשֶׂה בַּאֲשֶׁר הוּא עָמֵל׃ ‬
+      romana: Care este folosul celui ce lucreaza intru osteneala pe care o ia
+        asupra-si?
+      francais: Quel avantage celui qui travaille retire-t-il de sa peine?
+      italian: Che vantaggio ha chi si dà da fare con fatica?
+      old_georgian: რაჲთამე უმეტეს არს მოქმედისა მის, რომელსა შურების
+      portuguese: Que proveito tem o trabalhador naquilo em que trabalha?
+      polish: Cóż przyjdzie pracującemu z trudu, jaki sobie zadaje?
+      turkish: Çalışanın harcadığı emekten ne kazancı var?
+      nrt: В чем польза работнику от труда его?
+      Macarius: Какую выгоду действующий имеет в том, над чем он трудится?
+      serbian: Кака је корист ономе који ради од онога око чега се труди?
+      bulgarian: Каква полза има работещият от онова, над което се труди?
+      deutsch: Man arbeite, wie man will, so hat man doch keinen Gewinn davon.
+      ukr2: Що за користь тому, хто працює, з того, над чим він трудиться?
+      ukr3: Яка користь буде трудящому з усієї роботи його?
+      bel_syomukha: Якая карысьць таму, хто працуе, з таго, над чым ён працуе?
+      spbda: Чтó же за польза работающему в том, что он трудится?
+      maksimovich: Что-же за польза работающему в том, что он трудится?
+      lev-khv: Чтó же за польза работающему в том, что он трудится?
+      czech: Jaky uzitek ma ten, kdo pracuje, ze vseho sveho pachteni?
+      spanish: ¿Qué provecho saca el que se afana de aquello que hace?
+      greek-lxx: τίς περισσεία τοῦ ποιοῦντος ἐν οἷς αὐτὸς μοχθεῖ
+      st_text: Что пользы работающему от того, над чем он трудится?
+  - id: 14268
+    number: 10
+    bookId: 24
+    text: Видел я эту заботу, которую дал Бог сынам человеческим, чтобы они
+      упражнялись в том.
+    chapter: 3
+    chapterId: 703
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: я увидел вместе с тем занятие, которое дал Бог сыновьям человека [чтобы]
+        заниматься в нём.
+      csya: Видех попечение всяческое, еже даде Бог сыном человеческим, еже пещися в
+        нем.
+      averincev: ""
+      ungerov: Видел я всю заботу, которую дал Бог сынам человеческим, чтобы они
+        увлекались ею.
+      csya_old: Ви1дэхъ попече1ніе всsческое, є4же даде2 бг7ъ сынHмъ человёчєскимъ,
+        є4же пещи1сz въ не1мъ.
+      sovr_rbo: Я видел работу, которую дал людям Бог на мученье.
+      latin: Vidi afflictionem quam dedit Deus filiis hominum, ut distendantur in ea.
+      ukr: Я бачив роботу, що Бог був дав людським синам, щоб трудились над нею,
+      nkjv: I have seen the God-given task with which the sons of men are to be
+        occupied.
+      desnitsky: ""
+      mt: ‫    רָאִיתִי אֶת־הָעִנְיָן אֲשֶׁר נָתַן אֱלֹהִים לִבְנֵי הָאָדָם לַעֲנוֹת
+        בּוֹ׃ ‬
+      romana: Am vazut zbuciumul pe care l-a dat Dumnezeu fiilor oamenilor, ca sa se
+        zbuciume.
+      francais: J'ai vu à quelle occupation Dieu soumet les fils de l'homme.
+      italian: Ho considerato l'occupazione che Dio ha dato agli uomini, perché si
+        occupino in essa.
+      old_georgian: ვიხილე ყოვლითურთ მიმოტაცებით, რომელი მოსცა ღმერთმან ძეთა კაცთასა,
+        რათა მიმოიტაცნეს მას შინა
+      portuguese: Tenho visto o trabalho penoso que Deus deu aos filhos dos homens
+        para nele se exercitarem.
+      polish: Przyjrzałem się pracy, jaką Bóg obarczył ludzi, by się nią trudzili.
+      turkish: Tanrı'nın uğraşsınlar diye insanlara verdiği zahmeti gördüm.
+      nrt: Я видел бремя, которое Бог возложил на людей.
+      Macarius: Видел я эту муку, какую дал Бог сынам человеческим, чтоб они смирились
+        в ней.
+      serbian: Видио сам послове које је Бог дао синовима људским да се муче око њих.
+      bulgarian: Видях тая грижа, що Бог е дал на синовете човешки, за да се
+        упражняват в това.
+      deutsch: Ich sah die Mühe, die Gott den Menschen gegeben hat, daß sie darin
+        geplagt werden.
+      ukr2: Я бачив те заняття, що Бог дав людям, щоб вони ним клопотались.
+      ukr3: Міркував я про ту журбу, яку дав Бог людям, щоб у нїй вправлялись.
+      bel_syomukha: Бачыў я гэты клопат, які Бог даў сынам чалавечым, каб мелі сабе турботу.
+      spbda: Видел я эту заботливость, которую дал Бог сынам человеческим, чтобы они
+        мучились ею.
+      maksimovich: Видел я эту заботливость, которую дал Бог сынам человеческим, чтобы
+        они терзались от нея.
+      lev-khv: Видел я эту заботливость, которую дал Бог сынам человеческим, чтобы они
+        мучились ею.
+      czech: Videl jsem lopotu, kterou Buh ulozil lidskym synum, a tak se lopoti.
+      spanish: Yo he mirado el trabajo que Dios ha dado a los hijos de los hombres
+        para que en él se ocupen.
+      greek-lxx: εἶδον σὺν τὸν περισπασμόν ὃν ἔδωκεν ὁ Θεὸς τοῖς υἱοῖς τοῦ ἀνθρώπου
+        τοῦ περισπᾶσθαι ἐν αὐτῷ
+      st_text: Видел я эту заботу, которую дал Бог сынам человеческим, чтобы они
+        упражнялись в том.
+  - id: 14269
+    number: 11
+    bookId: 24
+    text: Все соделал Он прекрасным в свое время, и вложил мир в сердце их, хотя
+      человек не может постигнуть дел, которые Бог делает, от начала до конца.
+    chapter: 3
+    chapterId: 703
+    parallels:
+      - verseId: 29336
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 9
+        short: Прем:9:16
+    translates:
+      kassian: ""
+      podstr: Вместе с тем всё сделал хорошее во время его и даже вместе с тем век дал
+        в сердце их, чтобы не нашёл человек творение, которое сделал Бог, от
+        начала и до конца.
+      csya: Всяческая, яже сотвори, добра (суть) во время свое, ибо всякий век дал
+        есть в сердце их, яко да не обрящет человек сотворения, еже сотвори Бог
+        от начала и даже до конца.
+      averincev: ""
+      ungerov: Все, что Он сотворил, хорошо (есть) в свое время и всю вечность вложил
+        Он в сердце их, чтобы не находил человек дела, которое делал Бог от
+        начала и даже до конца.
+      csya_old: Всsчєскаz, ±же сотвори2, дwбрA (сyть) во вре1мz свое2, и4бо всsкій
+        вёкъ дaлъ є4сть въ се1рдце и4хъ, ћкw да не њбрsщетъ человёкъ
+        сотворе1ніz, є4же сотвори2 бг7ъ t начaла и3 дaже до концA.
+      sovr_rbo: Все, что Бог сотворил, прекрасно во время свое; вложил Он в сердца
+        людей и вечность, но от начала до конца человек Божьих дел не постигнет.
+      latin: Cuncta fecit bona in tempore suo, et mundum tradidit disputationi eorum,
+        ut non inveniat homo opus quod operatus est Deus ab initio usque ad
+        finem.
+      ukr: усе Він прегарним зробив свого часу, і вічність поклав їм у серце, хоч не
+        розуміє людина тих діл, що Бог учинив, від початку та аж до кінця...
+      nkjv: He has made everything beautiful in its time. Also He has put eternity in
+        their hearts, except that no one can find out the work that God does
+        from beginning to end.
+      desnitsky: ""
+      mt: ‫    אֶת־הַכֹּל עָשָׂה יָפֶה בְעִתּוֹ גַּם אֶת־הָעֹלָם נָתַן בְּלִבָּם
+        מִבְּלִי אֲשֶׁר לֹא־יִמְצָא הָאָדָם אֶת־הַמַּעֲשֶׂה אֲשֶׁר־עָשָׂה
+        הָאֱלֹהִים מֵרֹאשׁ וְעַד־סוֹף׃ ‬
+      romana: Toate le-a facut Dumnezeu frumoase si la timpul lor; El a pus in inima
+        lor si vesnicia, dar fara ca omul sa poata intelege lucrarea pe care o
+        face Dumnezeu, de la inceput pana la sfarsit.
+      francais: Il fait toute chose bonne en son temps; même il a mis dans leur coeur
+        la pensée de l'éternité, bien que l'homme ne puisse pas saisir l'oeuvre
+        que Dieu fait, du commencement jusqu'à la fin.
+      italian: Egli ha fatto bella ogni cosa a suo tempo, ma egli ha messo la nozione
+        dell'eternità nel loro cuore, senza però che gli uomini possano capire
+        l'opera compiuta da Dio dal principio alla fine.
+      old_georgian: ყოველივე ქმნა კეთილი ჟამსა თჳსსა და ყოველთა თანა საუკუნესა მოსცა
+        გულსა მათსა, რათა არა იპოოს კაცმან ქმნილი, რომელი ქმნა ღმერთმან
+        დასაბამითგან და ვიდრე აღსასრულამდე
+      portuguese: "Tudo fez formoso em seu tempo; também pôs na mente do homem a idéia
+        da eternidade, se bem que este não\rpossa descobrir a obra que Deus fez
+        desde o princípio até o fim."
+      polish: "Uczynił wszystko pięknie w swoim czasie, dał im nawet wyobrażenie o
+        dziejach świata, tak jednak, że nie pojmie człowiek dzieł, jakich Bóg
+        dokonuje\rod początku aż do końca."
+      turkish: O her şeyi zamanında güzel yaptı. İnsanların yüreğine sonsuzluk
+        kavramını koydu. Yine de insan Tanrı'nın yaptığı işi başından sonuna dek
+        anlayamaz.
+      nrt: Он создал все прекрасным в свое время. Он также вложил осознание вечности в
+        сердца людей, но они не могут постичь всего, что делает Бог, от начала
+        до конца.
+      Macarius: Он сделал все прекрасным в свое время; и притом вложил вечность в
+        сердце их; хотя человек не постигает дела, которое делает Бог, от начала
+        до конца.
+      serbian: Све је учинио да је лијепо у своје вријеме, и свијет метнуо им је у
+        срце, али да не може човјек докучити дјела која Бог твори, ни почетка ни
+        краја.
+      bulgarian: Всичко Той е направил да бъде хубаво в свое време, и вложил вечността
+        в сърцето им, макар човек да не постига от начало до край делата, които
+        Бог върши.
+      deutsch: Er aber tut alles fein zu seiner Zeit und läßt ihr Herz sich ängsten,
+        wie es gehen solle in der Welt; denn der Mensch kann doch nicht treffen
+        das Werk, das Gott tut, weder Anfang noch Ende.
+      ukr2: Усе він створив гарним у свій час, та й вічність він вклав їм у серце,
+        одначе, так, що чоловік не може збагнути діл, що їх творить Бог, від
+        початку до кінця.
+      ukr3: Усе він сотворив свого часу гарно, й сьвіт вложив їм у душу; тільки що
+        чоловікові не зрозуміти всього твору Божого з почину та й до кінця.
+      bel_syomukha: Усё Ён цудоўным зрабіў сваёю парою і вечнасьць паклаў ім у сэрца,
+        хоць ня кемяць яны ў тых справах, што Бог учыніў, ад пачатку і да канца.
+      spbda: Все создал Он прекрасным в свое время, и знание вложил Он в сердце их, но
+        так что не может постигнуть человек дел, которыя Бог делает, от начала и
+        до конца.
+      maksimovich: Все создал Он прекрасным в свое время, и в сердце их вложил вечное,
+        но человеку не постигнуть дел, которыя Бог делает от начала и до конца.
+      lev-khv: Все создал Он прекрасным в свое время, и знание вложил Он в сердце их,
+        но так, что не может постигнуть человек дел, которыя Бог делает, от
+        начала и до конца.
+      czech: On vsechno ucinil krasne a v pravy cas, lidem dal do srdce i touhu po
+        vecnosti, jenze clovek nevystihne zacatek ani konec dila, jez Buh kona.
+      spanish: Todo lo hace Él apropiado a su tiempo, y ha puesto además en su corazón
+        la idea de la perduración, sin que pueda el hombre descubrir la obra de
+        Dios desde el principio hasta el fin.
+      greek-lxx: σὺν τὰ πάντα ἐποίησεν καλὰ ἐν καιρῷ αὐτοῦ καί γε σὺν τὸν αἰῶνα ἔδωκεν
+        ἐν καρδίᾳ αὐτῶν ὅπως μὴ εὕρῃ ὁ ἄνθρωπος τὸ ποίημα ὃ ἐποίησεν ὁ Θεός ἀπ᾿
+        ἀρχῆς καὶ μέχρι τέλους
+      st_text: Все соделал Он прекрасным в свое время, и вложил мир в сердце их, хотя
+        человек не может постигнуть дел, которые Бог делает, от начала до конца.
+  - id: 14270
+    number: 12
+    bookId: 24
+    text: Познал я, что нет для них ничего лучшего, как веселиться и делать доброе в
+      жизни своей.
+    chapter: 3
+    chapterId: 703
+    parallels:
+      - verseId: 29539
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 15
+        short: Притч:15:15
+      - verseId: 14256
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 2
+        short: Еккл:2:24
+      - verseId: 14280
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 3
+        short: Еккл:3:22
+      - verseId: 14372
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 8
+        short: Еккл:8:15
+    translates:
+      kassian: ""
+      podstr: Узнал я что не есть доброе в них если не [чтобы] радоваться и [чтобы]
+        делать доброе в жизни его;
+      csya: "Уразумех, яко несть благо в них, но токмо еже веселитися и еже творити
+        благо в животе своем:"
+      averincev: ""
+      ungerov: Уразумел я, что нет для них (ничего) лучшаго, как только радоваться и
+        делать добро в жизни своей,
+      csya_old: "Ўразумёхъ, ћкw нёсть блaго въ ни1хъ, но то1кмw є4же весели1тисz и3
+        є4же твори1ти блaго въ животЁ свое1мъ:"
+      sovr_rbo: И узнал я, что нет для людей иного счастья, кроме как веселиться и
+        наслаждаться, пока они живы.
+      latin: Et cognovi quod non esset melius nisi laetari, et facere bene in vita
+        sua;
+      ukr: Я знаю, немає нічого в них кращого, як тільки радіти й робити добро у
+        своєму житті.
+      nkjv: I know that nothing is better for them than to rejoice, and to do good in
+        their lives,
+      desnitsky: ""
+      mt: ‫    יָדַעְתִּי כִּי אֵין טוֹב בָּם כִּי אִם־לִשְׂמוֹחַ וְלַעֲשׂוֹת טוֹב
+        בְּחַיָּיו׃ ‬
+      romana: Atunci mi-am dat cu socoteala ca nu este fericire decat sa te bucuri si
+        sa traiesti bine in timpul vietii tale.
+      francais: J'ai reconnu qu'il n'y a de bonheur pour eux qu'à se réjouir et à se
+        donner du bien-être pendant leur vie;
+      italian: Ho concluso che non c'è nulla di meglio per essi, che godere e agire
+        bene nella loro vita;
+      old_georgian: გულისხმა-ყავ, რამეთუ არა არს კეთილი მას შინა, გარნა რომელი იხაროს
+        და ყოს კეთილი ცხორებასა თჳსსა
+      portuguese: Sei que não há coisa melhor para eles do que se regozijarem e
+        fazerem o bem enquanto viverem;
+      polish: "Poznałem, że dla niego nic lepszego, niż cieszyć się i o to dbać, by
+        szczęścia\rzaznać w swym życiu."
+      turkish: "İnsan için yaşamı boyunca\rmutlu olmaktan, iyi yaşamaktan daha iyi bir
+        şey olmadığını biliyorum. Her insanın yiyip içmesi, yaptığı her işle
+        doyuma ulaşması bir Tanrı\rarmağanıdır."
+      nrt: Я понял, что нет ничего лучше для людей, чем быть счастливыми и делать
+        добро, пока они живы.
+      Macarius: Я узнал, что для них нет ничего лучше, как радоваться и делать добро в
+        жизни своей,
+      serbian: Дознах да нема ништа боље за њих него да се веселе и чине добро за
+        живота свога.
+      bulgarian: Познах, че за тях няма нищо по-добро, освен да се веселят и да правят
+        добро през живота си.
+      deutsch: Darum merkte ich, daß nichts Besseres darin ist denn fröhlich sein und
+        sich gütlich tun in seinem Leben.
+      ukr2: Я зрозумів, що нема для чоловіка нічого ліпшого, як веселитись і заживати
+        добра поки віку його.
+      ukr3: Зрозумів я, що їм нема нїчого лучшого, як веселитись і чинити добре, поки
+        й життя їх.
+      bel_syomukha: Уведаў я, што няма ім нічога лепшага, як весяліцца і ў жыцьці
+        сваім добрае толькі ўчыняць.
+      spbda: Знаю, что нет для них другаго блага, как веселиться и делать добро в
+        жизни своей.
+      maksimovich: Знаю, что нет для них другаго блага, как веселиться и наслаждаться
+        благами в жизни своей.
+      lev-khv: Знаю, что нет для них другаго блага, как веселиться и делать добро в
+        жизни своей.
+      czech: Poznal jsem, ze neni pro neho nic lepsiho, nez se radovat a konat v
+        zivote dobro.
+      spanish: Conocí que no hay para él otro bien que alegrarse y procurarse el
+        bienestar en su vida,
+      greek-lxx: ἔγνων ὅτι οὐκ ἔστιν ἀγαθὸν ἐν αὐτοῖς εἰ μὴ τοῦ εὐφρανθῆναι καὶ τοῦ
+        ποιεῖν ἀγαθὸν ἐν ζωῇ αὐτοῦ
+      st_text: Познал я, что нет для них ничего лучшего, как веселиться и делать
+        доброе в жизни своей.
+  - id: 14271
+    number: 13
+    bookId: 24
+    text: И если какой человек ест и пьет, и видит доброе во всяком труде своем, то
+      это - дар Божий.
+    chapter: 3
+    chapterId: 703
+    parallels:
+      - verseId: 14256
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 2
+        short: Еккл:2:24
+      - verseId: 14315
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 5
+        short: Еккл:5:18
+    translates:
+      kassian: ""
+      podstr: и вот всякий человек, который будет есть и будет пить и увидит доброе во
+        всяком усилии его, дар Бога есть.
+      csya: ибо всяк человек, иже яст и пиет и видит благое во всем труде своем, сие
+        даяние Божие есть.
+      averincev: ""
+      ungerov: Ибо всякому человеку, который ест и пьет и видит добро во всем труде
+        своем, — это дар Божий.
+      csya_old: и4бо всsкъ человёкъ, и4же ћстъ и3 піе1тъ и3 ви1дитъ благо1е во все1мъ
+        трудЁ свое1мъ, сіе2 даsніе б9іе є4сть.
+      sovr_rbo: И если человек ест и пьет, если он изведал счастье в трудах, то это
+        дано ему Богом.
+      latin: omnis enim homo qui comedit et bibit, et videt bonum de labore suo, hoc
+        donum Dei est.
+      ukr: І отож, як котрий чоловік їсть та п'є і в усім своїм труді радіє добром, це
+        дар Божий!
+      nkjv: and also that every man should eat and drink and enjoy the good of all his
+        labor-it is the gift of God.
+      desnitsky: ""
+      mt: ‫    וְגַם כָּל־הָאָדָם שֶׁיֹּאכַל וְשָׁתָה וְרָאָה טוֹב בְּכָל־עֲמָלוֹ
+        מַתַּת אֱלֹהִים הִיא׃ ‬
+      romana: Drept aceea daca un om mananca si bea si traieste bine de pe urma muncii
+        lui, acesta este un dar de la Dumnezeu.
+      francais: mais que, si un homme mange et boit et jouit du bien-être au milieu de
+        tout son travail, c'est là un don de Dieu.
+      italian: ma che un uomo mangi, beva e goda del suo lavoro è un dono di Dio.
+      old_georgian: და კაცმან, რომელმან ჭამოს და სუას და იხილოს კეთილი ყოველსა შინა
+        შრომასა მისსა, ესე მოცემული ღმრთისა არს
+      portuguese: e também que todo homem coma e beba, e goze do bem de todo o seu
+        trabalho é dom de Deus.
+      polish: "Bo też, że człowiek je i pije, i cieszy się szczęściem przy całym swym
+        trudzie\r- to wszystko dar Boży."
+      nrt: И если кто-то может есть, пить и находить удовольствие во всяком своем
+        труде, то это дар Божий.
+      Macarius: И что притом, если какой человек ест и пьет и наслаждается благом во
+        всяком труде своем, то это дар Божий.
+      serbian: И кад сваки човјек једе и пије и ужива добра од свакога труда својега,
+        то је дар Божји.
+      bulgarian: И ако някой човек яде и пие, и вижда доброто във всеки свой труд,
+        това е дар Божий.
+      deutsch: Denn ein jeglicher Mensch, der da ißt und trinkt und hat guten Mut in
+        aller seiner Arbeit, das ist eine Gabe Gottes.
+      ukr2: "А й те: чи їсть, чи п'є, чи заживає добра у кожній своїй праці, і це -
+        дар Божий."
+      ukr3: І коли хто їсть і пє, й бачить добро в кожній працї своїй, то й се дар
+        Божий.
+      bel_syomukha: І калі які чалавек есьць і п'е і бачыць дабро ва ўчынках сваіх,
+        дык гэта - дар Божы.
+      spbda: И если какой человек ест и пьет и наслаждается благами от труда своего,
+        то это — дар Божий.
+      maksimovich: Но если какой человек ест и пьет и наслаждается благами от труда
+        своего, то это дар Божий.
+      lev-khv: И если какой человек ест, и пьет, и наслаждается благами от труда
+        твоего; то это дар Божий.
+      czech: "A tak je tomu s kazdym clovekem: to, ze ji a pije a okusi pri veskerem
+        svem pachteni dobrych veci, je dar Bozi."
+      spanish: pues el que uno coma, beba y se goce de su trabajo, don es de Dios.
+      greek-lxx: καί γε πᾶς ὁ ἄνθρωπος ὃς φάγεται καὶ πίεται καὶ ἴδῃ ἀγαθὸν ἐν παντὶ
+        μόχθῳ αὐτοῦ δόμα Θεοῦ ἐστιν
+      st_text: И если какой человек ест и пьет, и видит доброе во всяком труде своем,
+        то это - дар Божий.
+  - id: 14272
+    number: 14
+    bookId: 24
+    text: "Познал я, что все, что делает Бог, пребывает вовек: к тому нечего
+      прибавлять и от того нечего убавить, - и Бог делает так, чтобы благоговели
+      пред лицем Его."
+    chapter: 3
+    chapterId: 703
+    parallels:
+      - verseId: 12866
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 4
+        short: Дан:4:32
+      - verseId: 34290
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 39
+        short: Сир:39:21
+    translates:
+      kassian: ""
+      podstr: Узнал я что все [дела], сколькие сделал Бог, эти будут во век; против
+        того не есть прибавить, и от того не есть убрать, и Бог сделал, чтобы
+        были устрашены от лица Его.
+      csya: "Разумех, яко вся, елика сотвори Бог, сия будут во век: к тем несть
+        приложити и от тех несть отъяти, и Бог сотвори, да убоятся от лица его:"
+      averincev: ""
+      ungerov: Уразумел я, что все, что сотворил Бог, то пребудет во век, к тому
+        нечего прибавить и от того нечего отнять, и Бог сотворил, чтобы боялись
+        лица Его.
+      csya_old: "Разумёхъ, ћкw вс‰, є3ли6ка сотвори2 бг7ъ, сі‰ бyдутъ во вёкъ: къ тBмъ
+        нёсть приложи1ти и3 t тёхъ нёсть tsти, и3 бг7ъ сотвори2, да ўбоsтсz t
+        лицA є3гw2:"
+      sovr_rbo: "Узнал я, что всякое Божье дело пребудет вовек: к нему не прибавить,
+        от него не отнять. Бог делает так, чтобы Его боялись."
+      latin: Didici quod omnia opera quae fecit Deus perseverent in perpetuum; non
+        possumus eis quidquam addere, nec auferre, quae fecit Deus ut timeatur.
+      ukr: Я знаю, що все, що Бог робить, воно зостається навіки, до того не можна
+        нічого додати, і з того не можна нічого відняти, і Бог так зробив, щоб
+        боялись Його!
+      nkjv: I know that whatever God does, It shall be forever. Nothing can be added
+        to it, And nothing taken from it. God does it, that men should fear
+        before Him.
+      desnitsky: ""
+      mt: ‫    יָדַעְתִּי כִּי כָּל־אֲשֶׁר יַעֲשֶׂה הָאֱלֹהִים הוּא יִהְיֶה לְעוֹלָם
+        עָלָיו אֵין לְהוֹסִיף וּמִמֶּנּוּ אֵין לִגְרֹעַ וְהָאֱלֹהִים עָשָׂה
+        שֶׁיִּרְאוּ מִלְּפָנָיו׃ ‬
+      romana: Atunci mi-am dat seama ca tot ceea ce a facut Dumnezeu va tine in veac
+        de veac si nimic nu se poate adauga, nici nu se poate micsora si ca
+        Dumnezeu lucreaza asa ca sa ne temem de fata Lui.
+      francais: J'ai reconnu que tout ce que Dieu fait durera toujours, qu'il n'y a
+        rien à y ajouter et rien à en retrancher, et que Dieu agit ainsi afin
+        qu'on le craigne.
+      italian: Riconosco che qualunque cosa Dio fa è immutabile; non c'è nulla da
+        aggiungere, nulla da togliere. Dio agisce così perché si abbia timore di
+        lui.
+      old_georgian: ვცან მე ყოველი, რაოდენი ქმნა ღმერთმან. იგი ეგოს უკუნისამდე. მას
+        ზედა არა არს შეძინება და მისგან არა არს გამოჴუება, და ღმერთმან შექმნა,
+        რათა ეშინოდის პირისაგან მისისა
+      portuguese: "Eu sei que tudo quanto Deus faz durará eternamente; nada se lhe
+        pode acrescentar, e nada se lhe pode tirar; e\risso Deus faz para que os
+        homens temam diante dele:"
+      polish: "Poznałem, że wszystko, co czyni Bóg, na wieki będzie trwało: do tego
+        nic\rdodać nie można ani od tego coś odjąć. A Bóg tak działa, by się Go
+        [ludzie]\rbali."
+      turkish: Tanrı'nın yaptığı her şeyin sonsuza dek süreceğini biliyorum. Ona ne
+        bir şey eklenebilir ne de ondan bir şey çıkarılabilir. Tanrı insanların
+        kendisine saygı duymaları için bunu yapıyor.
+      nrt: "Я понял, что все, что делает Бог, пребудет вовек: к этому нечего прибавить
+        и нечего от этого отнять. Бог делает так, чтобы люди благоговели перед
+        Ним."
+      Macarius: "Я узнал, что все, что Бог делает, вечно пребывает тем же: к тому
+        прибавить нечего, и отнять от того нечего; и Бог делает это, чтобы
+        благоговели пред Ним."
+      serbian: Дознах да што год твори Бог оно траје довијека, не може му се ништа
+        додати нити се од тога може што одузети; и Бог твори да би га се бојали.
+      bulgarian: Познах, че всичко, що прави Господ, пребъдва довека; към това няма
+        какво да се прибавя, от това няма какво да се отнима; и Бог върши тъй,
+        че да благоговеят пред лицето Му.
+      deutsch: "Ich merkte, daß alles, was Gott tut, das besteht immer: man kann
+        nichts dazutun noch abtun; und solches tut Gott, daß man sich vor ihm
+        fürchten soll."
+      ukr2: Я знаю, що все, що робить Бог, воно буде повіки; нічого до нього не можна
+        причинити, нічого від нього відняти; Бог робить так, щоб його боялись.
+      ukr3: "Зрозумів я, що все, що творить Бог, тріває навіки: нїчого до того придати
+        й нїчого з того уймити; Бог чинить усе так, щоб перед ним почесть
+        почувати."
+      bel_syomukha: Уведаў я, што ўсё, што робіць Бог, застаецца навекі; Ён робіць
+        так, каб багавейна ступалі перад абліччам Яго.
+      spbda: Знаю, что все, чтó ни делает Бог, остается на век; к нему нечего
+        прибавлять и от Него нечего отнимать; и Бог сделал так, чтобы боялись
+        Его.
+      maksimovich: Знаю, что все, что ни делает Бог, то остается на век; к нему нет
+        чего прибавить, и от него нет чего отнять; и Бог сделал так для того,
+        чтоб благоговели пред Ним.
+      lev-khv: Знаю, что все, чтó ни делает Бог, остается на век; к нему нечего
+        прибавлять и от него нечего отнимать; и Бог сделал так, чтобы боялись
+        Его.
+      czech: Poznal jsem, ze vse, co cini Buh, zustava naveky; nic k tomu nelze pridat
+        ani z toho ubrat. A Buh to ucinil, aby lide zili v bazni pred nim.
+      spanish: Conocí que cuanto hace Dios es permanente, y nada se le puede añadir,
+        nada quitar, y hace así Dios que se le tema.
+      greek-lxx: ἔγνων ὅτι πάντα ὅσα ἐποίησεν ὁ Θεός αὐτὰ ἔσται εἰς τὸν αἰῶνα ἐπ᾿ αὐτῷ
+        οὐκ ἔστιν προσθεῖναι καὶ ἀπ᾿ αὐτοῦ οὐκ ἔστιν ἀφελεῖν καὶ ὁ Θεὸς ἐποίησεν
+        ἵνα φοβηθῶσιν ἀπὸ προσώπου αὐτοῦ
+      st_text: "Познал я, что все, что делает Бог, пребывает вовек: к тому нечего
+        прибавлять и от того нечего убавить, - и Бог делает так, чтобы
+        благоговели пред лицем Его."
+  - id: 14273
+    number: 15
+    bookId: 24
+    text: Что было, то и теперь есть, и что будет, то уже было, - и Бог воззовет
+      прошедшее.
+    chapter: 3
+    chapterId: 703
+    parallels:
+      - verseId: 14179
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 1
+        short: Еккл:1:9
+    translates:
+      kassian: ""
+      podstr: Который случившееся уже есть, и сколькое случится, уже сделалось, и Бог
+        будет искать гонимого.
+      csya: бывшее уже есть, и елика имут быти, уже быша, и Бог взыщет гонимаго.
+      averincev: ""
+      ungerov: Что было, то есть, и что будет, то уже было, и Бог взыщет прошедшее.
+      csya_old: бы1вшее ўже2 є4сть, и3 є3ли6ка и4мутъ бы1ти, ўже2 бы1ша, и3 бг7ъ
+        взы1щетъ гони1маго.
+      sovr_rbo: Что есть, то было и раньше, и что будет, уже было, и Бог возвратит
+        прошедшее.
+      latin: Quod factum est, ipsum permanet; quae futura sunt jam fuerunt, et Deus
+        instaurat quod abiit.
+      ukr: Що є, то було вже воно, і що статися має було вже, бо минуле відновлює Бог!
+      nkjv: That which is has already been, And what is to be has already been; And
+        God requires an account of what is past.
+      desnitsky: ""
+      mt: ‫    מַה־שֶּׁהָיָה כְּבָר הוּא וַאֲשֶׁר לִהְיוֹת כְּבָר הָיָה וְהָאֱלֹהִים
+        יְבַקֵּשׁ אֶת־נִרְדָּף׃ ‬
+      romana: Ceea ce este a mai fost si ceea ce va mai fi a fost in alte vremuri; si
+        Dumnezeu cheama iarasi aceea ce a lasat sa treaca.
+      francais: Ce qui est a déjà été, et ce qui sera a déjà été, et Dieu ramène ce
+        qui est passé.
+      italian: Ciò che è, già è	stato; ciò che sarà, già è; Dio ricerca ciò che è già
+        passato.
+      old_georgian: ყოფილი იგი მიერითგანვე არს და რაოდენი ყო, ყოფად არს, ქმნილ ხოლო
+        არს და ღმერთმან მოიძიოს დევნული იგი
+      portuguese: O que é, já existiu; e o que há de ser, também já existiu; e Deus
+        procura de novo o que já se passou.
+      polish: "To, co jest, już było, a to, co ma być kiedyś, już jest; Bóg przywraca
+        to, co\rprzeminęło."
+      turkish: Şimdi ne oluyorsa, geçmişte de oldu, Ne olacaksa, daha önce de
+        olmuştur. Tanrı geçmiş olayların hesabını soruyor.
+      nrt: Все, что есть и что будет, уже было прежде, ведь Бог повторяет то, что
+        прошло.
+      Macarius: Что уже было, то и теперь есть; и чему быть, то уже было; и Бог опять
+        воззывает протекшее.
+      serbian: Што је било то је сада, и што ће бити то је већ било; јер Бог повраћа
+        што је прошло.
+      bulgarian: Каквото е било, то е и сега, и каквото ще бъде, то е вече било, - и
+        Бог ще повика назад миналото.
+      deutsch: Was geschieht, das ist zuvor geschehen, und was geschehen wird, ist
+        auch zuvor geschehen; und Gott sucht wieder auf, was vergangen ist.
+      ukr2: Те, що є, - давно вже було, а те, що має бути, - вже є; Бог же викликає
+        минуле.
+      ukr3: Що було, те є й тепер; що буде, те вже було, - і Бог викликає знов те, що
+        минуло.
+      bel_syomukha: Што было, тое ёсьць і цяпер, і што будзе, тое было ўжо; і пакліча
+        Бог мінулае.
+      spbda: Чтó сталось, то давно существует; и чему быть, то давно было; и Бог
+        востребует прошедшее.
+      maksimovich: Что сталось, то давно было, и чему быть, то уже давно было, и Бог
+        опять возобновит протекшее.
+      lev-khv: Чтó сталось, то давно существует; и чему быть, то давно было; и Бог
+        востребует прошедшее.
+      czech: Co se deje, bylo odedavna, a co bude, i to bylo; a Buh vyhleda, co zaslo.
+      spanish: Lo que es, eso fue ya, y lo que fue, eso será, y Dios busca al
+        perseguido.
+      greek-lxx: τὸ γενόμενον ἤδη ἐστίν καὶ ὅσα τοῦ γίνεσθαι ἤδη γέγονεν καὶ ὁ Θεὸς
+        ζητήσει τὸν διωκόμενον
+      st_text: Что было, то и теперь есть, и что будет, то уже было, - и Бог воззовет
+        прошедшее.
+  - id: 14274
+    number: 16
+    bookId: 24
+    text: "Еще видел я под солнцем: место суда, а там беззаконие; место правды, а
+      там неправда."
+    chapter: 3
+    chapterId: 703
+    parallels:
+      - verseId: 14281
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 4
+        short: Еккл:4:1
+    translates:
+      kassian: ""
+      podstr: И ещё я увидел под солнцем место суда, там нечестивый, и место
+        праведного, там нечестивый.
+      csya: И еще видех под солнцем место суда, тамо нечестивый, и место праведнаго,
+        тамо благочестивый.
+      averincev: ""
+      ungerov: "И еще видел я под солнцем: место суда, (а) там нечестивый (сидит), и
+        место правды, (а) там благочестивый."
+      csya_old: И# є3ще2 ви1дэхъ под8 со1лнцемъ мёсто судA, тaмw нечести1вый, и3 мёсто
+        првdнагw, тaмw бlгочести1вый.
+      sovr_rbo: Еще я видел под солнцем место правосудия — и там беззаконие, место
+        справедливости — и там злодей.
+      latin: "Vidi sub sole in loco judicii impietatem, et in loco justitiae
+        iniquitatem:"
+      ukr: "І я бачив під сонцем іще: місце суду, а в нім беззаконня, і місце правди,
+        у ньому ж неправда..."
+      nkjv: "Moreover I saw under the sun: In the place of judgment, Wickedness was
+        there; And in the place of righteousness, Iniquity was there."
+      desnitsky: ""
+      mt: ‫    וְעוֹד רָאִיתִי תַּחַת הַשָּׁמֶשׁ מְקוֹם הַמִּשְׁפָּט שָׁמָּה הָרֶשַׁע
+        וּמְקוֹם הַצֶּדֶק שָׁמָּה הָרָשַׁע׃ ‬
+      romana: Dar am mai vazut sub soare ca in locul dreptatii este faradelegea si in
+        locul celui cucernic, cel nelegiuit.
+      francais: J'ai encore vu sous le soleil qu'au lieu établi pour juger il y a de
+        la méchanceté, et qu'au lieu établi pour la justice il y a de la
+        méchanceté.
+      italian: Ma ho anche notato che sotto il sole al posto del diritto c'è
+        l'iniquità e al posto della giustizia c'è l'empietà.
+      old_georgian: და მერმე კუალად ვიხილე მზესა ამას ქუეშე ადგილი სასჯელისაჲ, და მუნ
+        იყო უღმრთოჲ და ადგილი მართლისაჲ და მუნ იყო მოლალე
+      portuguese: "Vi ainda debaixo do sol que no lugar da retidão estava a impiedade;
+        e que no lugar da justiça estava a impiedade\rainda."
+      polish: "I dalej widziałem pod słońcem: w miejscu sądu - niegodziwość, w
+        miejscu\rsprawiedliwości - nieprawość."
+      turkish: "Güneşin altında bir şey daha gördüm:\rAdaletin ve doğruluğun yerini
+        kötülük almış."
+      nrt: "И вот, что я еще видел под солнцем: место суда, а там царит беззаконие,
+        место праведности, а там – несправедливость."
+      Macarius: "Еще я видел вот что под этим солнцем: место суда, а там беззаконие:
+        место правды, а там неправда."
+      serbian: Још видјех под сунцем гдје је умјесто суда безбожност и умјесто правде
+        безбожност.
+      bulgarian: "И още видях под слънцето: място за съд, а там - беззаконие; място за
+        правда, а там - неправда."
+      deutsch: Weiter sah ich unter der Sonne Stätten des Gerichts, da war ein gottlos
+        Wesen, und Stätten der Gerechtigkeit, da waren Gottlose.
+      ukr2: "Бачив я ще й таке під сонцем: на місці правосуддя - кривда; на місці
+        справедливости - беззаконня."
+      ukr3: "Ще ж бачив я під сонцем: де б мала правда бути, там кривда; де б бути
+        правосуддю, там кривосуддє."
+      bel_syomukha: "Яшчэ я пад сонцам пабачыў: месца суду - а там беззаконьне; месца
+        праўды - а там няпраўда"
+      spbda: "Еще видел я под солнцем: место суда, а там беззаконие; место правды, а
+        там неправда."
+      maksimovich: "Еще видел я под солнцем: место повидимому суда, а там беззаконие,
+        место правды, а там неправда."
+      lev-khv: "Еще видел я под солнцем: место суда, а там беззаконие; место правды, а
+        там неправда."
+      czech: "Dale jsem pod sluncem videl: na miste prava – svevole, na miste
+        spravedlnosti – svevole."
+      spanish: "Otra cosa he visto debajo del sol: que en el puesto del derecho está
+        la injusticia, y en el lugar de la justicia está la prevaricación."
+      greek-lxx: καὶ ἔτι εἶδον ὑπὸ τὸν ἥλιον τόπον τῆς κρίσεως ἐκεῖ ὁ ἀσεβής καὶ τόπον
+        τοῦ δικαίου ἐκεῖ ὁ ἀσεβής
+      st_text: "Еще видел я под солнцем: место суда, а там беззаконие; место правды, а
+        там неправда."
+  - id: 14275
+    number: 17
+    bookId: 24
+    text: 'И сказал я в сердце своем: "праведного и нечестивого будет судить Бог;
+      потому что время для всякой вещи и [<i>суд</i>] над всяким делом там".'
+    chapter: 3
+    chapterId: 703
+    parallels:
+      - verseId: 19594
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 35
+        short: Иов:35:14
+      - verseId: 31967
+        bookId: 22
+        bookCode: psaltir
+        chapter: 57
+        short: Пс:57:12
+      - verseId: 28908
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 1
+        short: Прем:1:9
+      - verseId: 14232
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 12
+        short: Еккл:12:14
+    translates:
+      kassian: ""
+      podstr: "Сказал я в сердце моём: Вместе с тем, праведного и, вместе с тем,
+        нечестивого будет судить Бог, потому что время всякому делу и на всякое
+        деяние."
+      csya: "И рех аз в сердцы моем: праведнаго и нечестиваго судит Бог: яко время
+        всяцей вещи и на всяцем сотворении тамо."
+      averincev: ""
+      ungerov: "И сказал я в сердце своем: праведнаго и нечестиваго будет судить Бог,
+        ибо время для всякаго события и на всякое дело там."
+      csya_old: "И# рёхъ ѓзъ въ се1рдцы мое1мъ: првdнаго и3 нечести1ваго сyдитъ бг7ъ:
+        ћкw вре1мz всsцэй ве1щи и3 на всsцэмъ сотворе1ніи тaмw."
+      sovr_rbo: "Сказал я себе: и праведника и злодея будет судить Бог, ибо есть свой
+        срок всякому делу и событию."
+      latin: "et dixi in corde meo: Justum et impium judicabit Deus, et tempus omnis
+        rei tunc erit."
+      ukr: "Я сказав був у серці своєму: Судитиме Бог справедливого й несправедливого,
+        бо для кожної справи є час, і на всяке там діло."
+      nkjv: I said in my heart, "God shall judge the righteous and the wicked, For
+        there is a time there for every purpose and for every work."
+      desnitsky: ""
+      mt: ‫    אָמַרְתִּי אֲנִי בְּלִבִּי אֶת־הַצַּדִּיק וְאֶת־הָרָשָׁע יִשְׁפֹּט
+        הָאֱלֹהִים כִּי־עֵת לְכָל־חֵפֶץ וְעַל כָּל־הַמַּעֲשֶׂה שָׁם׃ ‬
+      romana: 'Si am gandit in inima mea: "Dumnezeu va judeca pe cel drept ca si pe
+        cel nelegiuit", caci este vreme pentru orice punere la cale si pentru
+        orice fapta.'
+      francais: "J'ai dit en mon coeur: Dieu jugera le juste et le méchant; car il y a
+        là un temps pour toute chose et pour toute oeuvre."
+      italian: "Ho pensato: Dio giudicherà il giusto e l'empio, perché c'è un tempo
+        per ogni cosa e per ogni azione."
+      old_georgian: "და ვთქუ მე გულსა ჩემსა: მართლისა თანა და უღმრთოჲსა თანა საჯოსმეა
+        ღმერთმან? რამეთუ ჟამი არს ყოვლისა საქმისაჲ და ყოველთა ზედა ქმნულთა ჟამი
+        არს და ჟამიერობაჲ"
+      portuguese: "Eu disse no meu coração: Deus julgará o justo e o ímpio; porque há
+        um tempo para todo propósito e para toda\robra."
+      polish: "Powiedziałem sobie: Zarówno sprawiedliwego jak i bezbożnego będzie
+        sądził\rBóg: na każdą bowiem sprawę i na każdy czyn jest czas
+        wyznaczony."
+      turkish: İçimden «Tanrı doğruyu da, kötüyü de yargılayacaktır» dedim, «Çünkü her
+        olayın, her eylemin zamanını belirledi.»
+      nrt: "И подумал я: «Бог будет судить обоих – праведника и злодея, потому что
+        назначено время всякому событию и всякому делу»."
+      Macarius: "Я сказал в сердце своем: праведного и нечестивого Бог будет судить,
+        ибо время всякой вещи и всякому делу там."
+      serbian: "И рекох у срцу свом: Бог ће судити праведнику и безбожнику; јер има
+        вријеме свему и сваком послу."
+      bulgarian: "И казах в сърце си: праведния и нечестивия Бог ще съди, понеже
+        времето за всяко нещо и съдът за всяко дело е там."
+      deutsch: "Da dachte ich in meinem Herzen: Gott muß richten den Gerechten und den
+        Gottlosen; denn es hat alles Vornehmen seine Zeit und alle Werke."
+      ukr2: "Я мовив у моїм сеоці: Праведника і грішника Бог буде судити, бо час-пора
+        на всяку річ і на всякий вчинок."
+      ukr3: "І сказав я в серцї мойму: Праведного й безбожного судити ме Бог, бо
+        прийде час про все, а тодї й суд на всякі вчинки."
+      bel_syomukha: 'І сказаў я ў сэрцы маім: "Судзіць будзе Бог праведнага і
+        грэшнага; бо на кожную справу прызначана пара і суд на кожную дзею
+        тваю".'
+      spbda: "Сказал я в сердце своем: праведнаго и нечестиваго будет судить Бог;
+        потому что время для всякой вещи и для всего, чтó делается там."
+      maksimovich: "Сказал я сам в себе: праведнаго и нечестиваго будет судить Бог;
+        ибо у него, там, определено время всякой вещи и всякому делу."
+      lev-khv: "Сказал я в сердце своем: праведнаго и нечестиваго будет судить Бог;
+        потому что время для всякой вещи и для всего, чтó делается там."
+      czech: "Rekl jsem si v srdci: Spravedliveho i svevolnika bude soudit Buh,
+        nastane cas soudu nad vsim denim, nad vsim, co se kona."
+      spanish: "Por eso me dije: Dios juzgará al justo y al injusto, porque hay un
+        tiempo destinado para todo y para toda obra."
+      greek-lxx: εἶπα ἐγὼ ἐν καρδίᾳ μου σὺν τὸν δίκαιον καὶ σὺν τὸν ἀσεβῆ κρινεῖ ὁ
+        Θεός ὅτι καιρὸς τῷ παντὶ πράγματι καὶ ἐπὶ παντὶ τῷ ποιήματι
+      st_text: 'И сказал я в сердце своем: "праведного и нечестивого будет судить Бог;
+        потому что время для всякой вещи и [<i>суд</i>] над всяким делом там".'
+  - id: 14276
+    number: 18
+    bookId: 24
+    text: Сказал я в сердце своем о сынах человеческих, чтобы испытал их Бог, и
+      чтобы они видели, что они сами по себе животные;
+    chapter: 3
+    chapterId: 703
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Там сказал я в сердце моём о речи сыновей человека, что рассудит их Бог,
+        и [чтобы] показать что они скот есть и конечно они.
+      csya: "Рех аз в сердцы моем о глаголании сынов человеческих, яко разсудит их
+        Бог: и еже показати, яко сии скоти суть:"
+      averincev: ""
+      ungerov: "Сказал я в сердце своем о сынах человеческих, что Бог произведет над
+        ними суд (также) и для того, чтобы показать, что они — животныя:"
+      csya_old: "Рёхъ ѓзъ въ се1рдцы мое1мъ њ глаго1ланіи сынHвъ человёческихъ, ћкw
+        разсyдитъ и5хъ бг7ъ: и3 є4же показaти, ћкw сjи ско1ти сyть:"
+      sovr_rbo: "И сказал я себе: а что до людей, то Бог испытывает их, чтобы показать
+        им, что сами по себе они — лишь скот."
+      latin: Dixi in corde meo de filiis hominum, ut probaret eos Deus, et ostenderet
+        similes esse bestiis.
+      ukr: "Я сказав був у серці своєму: Це для людських синів, щоб Бог випробовував
+        їх, і щоб бачити їм, що вони як ті звірі,"
+      nkjv: I said in my heart, "Concerning the condition of the sons of men, God
+        tests them, that they may see that they themselves are like animals."
+      desnitsky: ""
+      mt: ‫    אָמַרְתִּי אֲנִי בְּלִבִּי עַל־דִּבְרַת בְּנֵי הָאָדָם לְבָרָם
+        הָאֱלֹהִים וְלִרְאוֹת שְׁהֶם־בְּהֵמָה הֵמָּה לָהֶם׃ ‬
+      romana: 'si am zis iar in inima mea despre fiii oamenilor: "Dumnezeu a oranduit
+        sa-i incerce, ca ei sa-si dea seama ca nu sant decat dobitoace".'
+      francais: J'ai dit en mon coeur, au sujet des fils de l'homme, que Dieu les
+        éprouverait, et qu'eux-mêmes verraient qu'ils ne sont que des bêtes.
+      italian: "Poi riguardo ai figli dell'uomo mi son detto: Dio vuol provarli e
+        mostrare che essi di per sé sono come bestie."
+      old_georgian: მუნ ვთქუ მე გულსა შინა ჩემსა სიტყჳსათჳს ძეთა კაცთასა, ვითარმედ
+        განიკითხნეს იგინი ღმერთმან და აჩუენოს, რამეთუ იგინი პირუტყუნი არიან
+      portuguese: "Disse eu no meu coração: Isso é por causa dos filhos dos homens,
+        para que Deus possa prová-los, e eles\rpossam ver que são em si mesmos
+        como os brutos."
+      polish: "Powiedziałem sobie: Ze względu na synów ludzkich [tak się dzieje]. Bóg
+        chce\rich bowiem doświadczyć, żeby wiedzieli, że sami przez się są tylko
+        zwierzętami."
+      turkish: İnsanlara gelince, «Tanrı hayvan olduklarını görsünler diye insanları
+        sınıyor» diye düşündüm.
+      nrt: "И еще я подумал о людях: «Бог испытывает их, чтобы показать им, что они
+        подобны животным."
+      Macarius: "Касательно сынов человеческих, я сказал в сердце своем: на то есть
+        Бог, чтобы разделить их, и чтобы видели, что они — скот в себе самих."
+      serbian: Рекох у срцу свом за синове људске да им је Бог показао да су као стока.
+      bulgarian: Казах в сърце си за синовете човешки - да ги изпита Бог, и да видят,
+        че те сами по себе си са животни,
+      deutsch: "Ich sprach in meinem Herzen: Es geschieht wegen der Menschenkinder,
+        auf daß Gott sie prüfe und sie sehen, daß sie an sich selbst sind wie
+        das Vieh."
+      ukr2: "Я мовив про людей у моєму серці: Бог випробовує їх, щоб показати, що самі
+        собі вони - скотина."
+      ukr3: І сказав я в серцї мойму про дїтей людських, що Бог витрібовує їх, нехай
+        знають, що й вони зьвіррє.
+      bel_syomukha: бо доля ў сыноў чалавечых і доля ў жывёлін - доля адна; як
+        паміраюць тыя, так паміраюць і гэтыя, і адно дыханьне ва ўсіх, і няма ў
+        чалавека над жывёлінаю перавагі, бо ўсё - марнасьць!
+      spbda: "Сказал я в сердце своем: это — для сынов человеческих, чтоб испытал их
+        Бог, и чтобы они видели, что они — скоты сами по себе:"
+      maksimovich: "О сынах человеческих я подумал в себе: для того, чтоб показать им
+        и дать им видеть, что они тоже, что скот сами для себя, Бог сделал так,"
+      lev-khv: "Сказал я в сердце своем: <i>это</i> для сынов человеческих, чтоб
+        испытал их Бог, и чтоб они видели, что они скоты сами по себе;"
+      czech: "Rekl jsem si v srdci: To se stane kvuli synum lidskym, aby je Buh
+        tribil, aby nahledli, ze je to s nimi jako se zviraty."
+      spanish: "Díjeme también acerca del hombre: Dios quiere hacerles ver y conocer
+        que de sí son como las bestias,"
+      greek-lxx: ἐκεῖ εἶπα ἐγὼ ἐν καρδίᾳ μου περὶ λαλιᾶς υἱῶν τοῦ ἀνθρώπου ὅτι
+        διακρινεῖ αὐτοὺς ὁ Θεός καὶ τοῦ δεῖξαι ὅτι αὐτοὶ κτήνη εἰσὶν καί γε
+        αὐτοῖς
+      st_text: Сказал я в сердце своем о сынах человеческих, чтобы испытал их Бог, и
+        чтобы они видели, что они сами по себе животные;
+  - id: 14277
+    number: 19
+    bookId: 24
+    text: "потому что участь сынов человеческих и участь животных - участь одна: как
+      те умирают, так умирают и эти, и одно дыхание у всех, и нет у человека
+      преимущества перед скотом, потому что все - суета!"
+    chapter: 3
+    chapterId: 703
+    parallels:
+      - verseId: 31813
+        bookId: 22
+        bookCode: psaltir
+        chapter: 48
+        short: Пс:48:13
+      - verseId: 31821
+        bookId: 22
+        bookCode: psaltir
+        chapter: 48
+        short: Пс:48:21
+      - verseId: 3650
+        bookId: 57
+        bookCode: 1oe-poslanie-ap-petra
+        chapter: 3
+        short: 1 Пет:3:12
+    translates:
+      kassian: ""
+      podstr: Потому что случай сыновей человека и случай скота, случай один им; как
+        смерть этого, так смерть этого, и дыхание одно всем; и что преумножил
+        человек сверх животного ничто, потому что всё суета.
+      csya: "ибо и тем якоже случай сынов человеческих и случай скотский, случай един
+        им: якоже смерть того, тако и смерть сего, и дух един во всех: и что
+        излишше имать человек паче скота? ничтоже: яко всяческая суета."
+      averincev: ""
+      ungerov: "Ибо участь сынов человеческих и участь животных, — одна участь их: как
+        смерть того, так и смерть этого, и дух один во всех; и какое
+        преимущество имеет человек пред животными? — Никакого, ибо все суета!"
+      csya_old: "и4бо и3 тBмъ ћкоже слyчай сынHвъ человёческихъ и3 слyчай ско1тскій,
+        слyчай є3ди1нъ и5мъ: ћкоже сме1рть тогw2, тaкw и3 сме1рть сегw2, и3 дyхъ
+        є3ди1нъ во всёхъ: и3 что2 и3зли1шше и4мать человёкъ пaче скотA;
+        ничто1же: ћкw всsчєскаz суетA."
+      sovr_rbo: "Одна участь ждет людей и животных: умирают и те и другие, и дыхание у
+        тех и других одно, и ничем человек не лучше животных, ибо все — пустое."
+      latin: "Idcirco unus interitus est hominis et jumentorum, et aequa utriusque
+        conditio. Sicut moritur homo, sic et illa moriuntur. Similiter spirant
+        omnia, et nihil habet homo jumento amplius: cuncta subjacent vanitati,"
+      ukr: "бо доля для людських синів і доля звірини однакова доля для них: як оці
+        помирають, так само вмирають і ті, і для всіх один подих, і нема над
+        твариною вищости людям, марнота бо все!..."
+      nkjv: "For what happens to the sons of men also happens to animals; one thing
+        befalls them: as one dies, so dies the other. Surely, they all have one
+        breath; man has no advantage over animals, for all is vanity."
+      desnitsky: ""
+      mt: ‫    כִּי מִקְרֶה בְנֵי־הָאָדָם וּמִקְרֶה הַבְּהֵמָה וּמִקְרֶה אֶחָד לָהֶם
+        כְּמוֹת זֶה כֵּן מוֹת זֶה וְרוּחַ אֶחָד לַכֹּל וּמוֹתַר הָאָדָם
+        מִן־הַבְּהֵמָה אָיִן כִּי הַכֹּל הָבֶל׃ ‬
+      romana: "Caci soarta omului si soarta dobitocului este aceeasi: precum moare
+        unul, moare si celalalt si toti au un singur duh de viata, iar omul nu
+        are nimic mai mult decat dobitocul. Si totul este desertaciune!"
+      francais: Car le sort des fils de l'homme et celui de la bête sont pour eux un
+        même sort; comme meurt l'un, ainsi meurt l'autre, ils ont tous un même
+        souffle, et la supériorité de l'homme sur la bête est nulle; car tout
+        est vanité.
+      italian: Infatti la sorte degli uomini e quella delle bestie è la stessa; come
+        muoiono queste muoiono quelli; c'è un solo soffio vitale per tutti. Non
+        esiste superiorità dell'uomo rispetto alle bestie, perché tutto è
+        vanità.
+      old_georgian: და რამეთუ მათცა შემთხუევაჲ ძეთა კაცთავე, ვითარცა შემთხუევაჲ
+        პირუტყუთაჲ, ერთ არს მათი, ვითარცა მისი სიკუდილი, ეგრეცა ამის სიკუდილი.
+        და სული მათი ყოველთა შინა და რაჲთამე ჰმატს კაცი პირუტყუსა? არარაჲთ,
+        რამეთუ ყოველივე ამაო
+      portuguese: "Pois o que sucede aos filhos dos homens, isso mesmo também sucede
+        aos brutos; uma e a mesma coisa lhes\rsucede; como morre um, assim morre
+        o outro; todos têm o mesmo fôlego; e o homem não tem vantagem sobre
+        os\rbrutos; porque tudo é vaidade."
+      polish: "Los bowiem synów ludzkich jest ten sam, co i los zwierząt; los ich jest
+        jeden:\rjaka śmierć jednego, taka śmierć drugiego, i oddech życia ten
+        sam. W niczym\rwięc człowiek nie przewyższa zwierząt, bo wszystko jest
+        marnością."
+      turkish: Çünkü insanların başına gelen hayvanların da başına geliyor. Aynı sonu
+        paylaşıyorlar. Biri nasıl ölüyorsa, öbürü de öyle ölüyor. Hepsi aynı
+        soluğu taşıyor. İnsanın hayvandan üstünlüğü yoktur. Çünkü her şey boş.
+      nrt: "Одна участь у людей и животных: умирают и те, и другие. Одно у тех и
+        других дыхание, и нет у человека никаких преимуществ перед животными.
+        Все суета."
+      Macarius: Ибо участь сынов человеческих и участь скотов, одна и та же участь их;
+        как умирают эти, так умирают те, — и дух один у всех, и нет человеку
+        преимущества перед скотами.
+      serbian: Јер што бива синовима људским, то бива и стоци, једнако им бива; како
+        гине она, тако гину и они, и сви имају исти дух; и човјек ништа није
+        бољи од стоке, јер је све таштина.
+      bulgarian: "защото съдбата на синовете човешки и съдбата на животните е съдба
+        една: както умират едните, тъй умират и другите, и едно е диханието у
+        всички, и човек няма предимство пред добитъка, понеже - всичко е суета!"
+      deutsch: "Denn es geht dem Menschen wie dem Vieh: wie dies stirbt, so stirbt er
+        auch, und haben alle einerlei Odem, und der Mensch hat nichts mehr als
+        das Vieh; denn es ist alles eitel."
+      ukr2: "Бо доля людей і доля тварин - одна в них доля: як помирають ці, так
+        помирають і ті, і один дух у всіх них; людина нічим не ліпша від
+        скотини, бо усе - марнота."
+      ukr3: Доля бо людська й доля зьвіряча однака; як сї вмірають, так і ті вмірають,
+        і одно диханнє у всїх, а людина не переважує зьвіря, бо все марнота.
+      spbda: "Потому что участь сынов человеческих и участь скотов — одинаковая
+        участь; как те умирают, так умирают и эти, и один дух у всех, и
+        преимущества у человека пред скотом нет: потому что все суета!"
+      maksimovich: "Что участь сынов человеческих и участь скотов одна. Как те
+        умирают, так умирают и эти и у всех один дух, и нет преимущества у
+        человека пред скотом: все подлежит суете!"
+      lev-khv: "Потому что участь сынов человеческих и участь скотов одинаковая
+        участь: как те умирают, так умирают и эти, и один дух у всех, и
+        преимущества у человека пред скотом нет; потому что все суета."
+      czech: "Vzdyt udel synu lidskych a udel zvirat je stejny: Jedni jako druzi
+        umiraji, jejich duch je stejny, clovek nema zadnou prednost pred
+        zviraty, nebot vsechno pomiji."
+      spanish: porque una misma es la suerte de los hijos de los hombres y la suerte
+        de las bestias, y la muerte del uno es la muerte de las otras, y no hay
+        más que un hálito para todos, y no tiene el hombre ventaja sobre la
+        bestia, pues todo es vanidad.
+      greek-lxx: ὅτι συνάντημα υἱῶν τοῦ ἀνθρώπου καὶ συνάντημα τοῦ κτήνους συνάντημα
+        ἓν αὐτοῖς ὡς ὁ θάνατος τούτου οὕτως ὁ θάνατος τούτου καὶ πνεῦμα ἓν τοῖς
+        πᾶσιν καὶ τί ἐπερίσσευσεν ὁ ἄνθρωπος παρὰ τὸ κτῆνος οὐδέν ὅτι τὰ πάντα
+        ματαιότης
+      st_text: "потому что участь сынов человеческих и участь животных - участь одна:
+        как те умирают, так умирают и эти, и одно дыхание у всех, и нет у
+        человека преимущества перед скотом, потому что все - суета!"
+  - id: 14278
+    number: 20
+    bookId: 24
+    text: "Все идет в одно место: все произошло из праха и все возвратится в прах."
+    chapter: 3
+    chapterId: 703
+    parallels:
+      - verseId: 10329
+        bookId: 1
+        bookCode: bytie
+        chapter: 3
+        short: Быт:3:19
+      - verseId: 31133
+        bookId: 22
+        bookCode: psaltir
+        chapter: 145
+        short: Пс:145:4
+      - verseId: 14225
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 12
+        short: Еккл:12:7
+      - verseId: 29158
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 2
+        short: Прем:2:3
+    translates:
+      kassian: ""
+      podstr: Все идут в место одно; все сделались из праха, и все возвращаются в пыль;
+      csya: "Вся идут во едино место: вся быша от персти и вся в персть возвращаются."
+      averincev: ""
+      ungerov: "Все идет в одно место: все произошло из праха и все возвращается в
+        прах."
+      csya_old: "Вс‰ и4дутъ во є3ди1но мёсто: вс‰ бы1ша t пе1рсти и3 вс‰ въ пе1рсть
+        возвращaютсz."
+      sovr_rbo: "Все уходит туда же: из пыли земной все явилось и все возвращается в
+        пыль."
+      latin: et omnia pergunt ad unum locum. De terra facta sunt, et in terram pariter
+        revertuntur.
+      ukr: "Все до місця одного йде: все постало із пороху, і вернеться все знов до
+        пороху..."
+      nkjv: "All go to one place: all are from the dust, and all return to dust."
+      desnitsky: ""
+      mt: ‫    הַכֹּל הוֹלֵךְ אֶל־מָקוֹם אֶחָד הַכֹּל הָיָה מִן־הֶעָפָר וְהַכֹּל שָׁב
+        אֶל־הֶעָפָר׃ ‬
+      romana: "Amandoi merg in acelasi loc: amandoi au iesit din pulbere si amandoi in
+        pulbere se intorc."
+      francais: Tout va dans un même lieu; tout a été fait de la poussière, et tout
+        retourne à la poussière.
+      italian: "Tutti sono diretti verso la medesima dimora: tutto è venuto dalla
+        polvere e tutto ritorna nella polvere."
+      old_georgian: და ყოველივე ერთსა ადგილსა მივალს. ყოველივე შეიქმნა მიწისაგან და
+        ყოველივე მიიქცევის მიწად
+      portuguese: Todos vão para um lugar; todos são pó, e todos ao pó tornarão.
+      polish: "Wszystko idzie na jedno miejsce: powstało wszystko z prochu i wszystko
+        do\rprochu znów wraca."
+      turkish: İkisi de aynı yere gidiyor; topraktan gelmiş, toprağa dönüyor.
+      nrt: "Все возвращается на круги свои: все пришло из праха, и в прах все
+        возвратится."
+      Macarius: Все это в одно место идет, все это произошло из персти, и все это
+        возвратится в персть.
+      serbian: Све иде на једно мјесто; све је од праха и све се враћа у прах.
+      bulgarian: "Всичко отива на едно място: всичко е произлязло от пръст, и всичко
+        ще се върне в пръстта."
+      deutsch: Es fährt alles an einen Ort; es ist alles von Staub gemacht und wird
+        wieder zu Staub.
+      ukr2: Усе прямує до одного місця; все з пороху постало і все повертається у
+        порох.
+      ukr3: "Все йде в одно місце: взялось із перстї й усе вернесь у порох."
+      bel_syomukha: Усё ідзе ў адно месца; усё выйшла з тла, і ўсё вяртаецца ў тло.
+      spbda: Все идет в одно место; все произошло из праха, и все обратится в прах.
+      maksimovich: Все идет в одно место; все произошло из праха и все обратится в прах.
+      lev-khv: "Все идет в одно место: все произошло из праха, и все обратится в прах."
+      czech: Vse speje k jednomu mistu, vsechno vzniklo z prachu a vse se v prach
+        navraci.
+      spanish: Todos van al mismo lugar; todos han salido del mismo polvo, y al polvo
+        vuelven todos.
+      greek-lxx: τὰ πάντα πορεύεται εἰς τόπον ἕνα τὰ πάντα ἐγένετο ἀπὸ τοῦ χοός καὶ τὰ
+        πάντα ἐπιστρέφει εἰς τὸν χοῦν
+      st_text: "Все идет в одно место: все произошло из праха и все возвратится в прах."
+  - id: 14279
+    number: 21
+    bookId: 24
+    text: "Кто знает: дух сынов человеческих восходит ли вверх, и дух животных
+      сходит ли вниз, в землю?"
+    chapter: 3
+    chapterId: 703
+    parallels:
+      - verseId: 29157
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 2
+        short: Прем:2:2
+      - verseId: 33538
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 16
+        short: Сир:16:31
+    translates:
+      kassian: ""
+      podstr: И кто знает дух сыновей человека [действительно] ли восходит его вверх,
+        и дух скота [действительно] ли сходит его вниз в землю?
+      csya: И кто весть дух сынов человеческих, аще той восходит горе? и дух скотский,
+        аще низходит той долу в землю?
+      averincev: ""
+      ungerov: И кто знает? дух сынов человеческих, восходит-ли он вверх? и дух
+        животных, нисходит ли он вниз, в землю?
+      csya_old: И# кто2 вёсть дyхъ сынHвъ человёческихъ, ѓще то1й восхо1дитъ горЁ; и3
+        дyхъ ско1тскій, ѓще низхо1дитъ то1й до1лу въ зе1млю;
+      sovr_rbo: Кто знает, возносится ли дух человека вверх и нисходит ли дух
+        животного вниз, в землю?
+      latin: Quis novit si spiritus filiorum Adam ascendat sursum, et si spiritus
+        jumentorum descendat deorsum?
+      ukr: Хто те знає, чи дух людських синів підіймається вгору, і чи спускається
+        вділ до землі дух скотини?
+      nkjv: Who knows the spirit of the sons of men, which goes upward, and the spirit
+        of the animal, which goes down to the earth?
+      desnitsky: ""
+      mt: ‫    מִי יוֹדֵעַ רוּחַ בְּנֵי הָאָדָם הָעֹלָה הִיא לְמָעְלָה וְרוּחַ
+        הַבְּהֵמָה הַיֹּרֶדֶת הִיא לְמַטָּה לָאָרֶץ׃ ‬
+      romana: Cine stie daca duhul omului se urca in sus si duhul dobitocului se
+        coboara in jos catre pamant?
+      francais: Qui sait si le souffle des fils de l'homme monte en haut, et si le
+        souffle de la bête descend en bas dans la terre?
+      italian: Chi sa se il soffio vitale dell'uomo salga in alto e se quello della
+        bestia scenda in basso nella terra?
+      old_georgian: და ვინ იცის სული ძეთა კაცთა, უკუეთუ აღვალს იგი ხე, და სული
+        პირუტყუთაჲ, უკეთუ შთავალს იგი ქუეყანად ქუე
+      portuguese: Quem sabe se o espírito dos filhos dos homens vai para cima, e se o
+        espírito dos brutos desce para a terra?
+      polish: "Któż pozna, czy siła życiowa synów ludzkich idzie w górę, a siła
+        życiowa\rzwierząt zstępuje w dół, do ziemi?"
+      turkish: Kim biliyor insan ruhunun yukarıya çıktığını, hayvan ruhunun aşağıya,
+        yeraltına indiğini?
+      nrt: "Кто знает: поднимается ли дух человека вверх, и опускается ли дух
+        животного вниз, в землю?»"
+      Macarius: Кто знает дух сынов человеческих, который к горе восходит, и дух
+        скота, который вниз, в землю идет?
+      serbian: Ко зна да дух синова људских иде горе, а дух стоке да иде доље под земљу?
+      bulgarian: "Кой знае: духът на синовете човешки възлиза ли нагоре, и духът на
+        животните слиза ли надолу, в земята?"
+      deutsch: Wer weiß, ob der Odem der Menschen aufwärts fahre und der Odem des
+        Viehes abwärts unter die Erde fahre?
+      ukr2: Хто зна, чи людський дух знімається угору, а дух звірячий сходить наниз
+        додолу?
+      ukr3: Хто бо знає, чи дух людський іде в гору, й чи зьвірячий дух ійде вниз, у
+        землю?
+      bel_syomukha: "Хто ведае: ці дух сыноў чалавечых падымаецца ўгору, а ці дух
+        жывёл апускаецца долу, у зямлю?"
+      spbda: "Кто знает: дух сынов человеческих восходит ли кверху и дух скотов сходит
+        ли вниз, в землю?"
+      maksimovich: "Кто знает: дух сынов человеческих восходит ли к верху и дух скотов
+        сходит ли вниз, в землю?"
+      lev-khv: Кто знает, дух сынов человеческих восходит ли кверху и дух скотов
+        сходит ли вниз, в землю?
+      czech: Kdo vi, zda duch lidskych synu stoupa vzhuru a duch zvirat sestupuje dolu
+        k zemi?
+      spanish: ¿Quién sabe si el hálito del hombre sube arriba, y el de la bestia baja
+        abajo, a la tierra?
+      greek-lxx: καὶ τίς οἶδεν πνεῦμα υἱῶν τοῦ ἀνθρώπου εἰ ἀναβαίνει αὐτὸ εἰς ἄνω καὶ
+        πνεῦμα τοῦ κτήνους εἰ καταβαίνει αὐτὸ κάτω εἰς γῆν
+      st_text: "Кто знает: дух сынов человеческих восходит ли вверх, и дух животных
+        сходит ли вниз, в землю?"
+  - id: 14280
+    number: 22
+    bookId: 24
+    text: "Итак увидел я, что нет ничего лучше, как наслаждаться человеку делами
+      своими: потому что это - доля его; ибо кто приведет его посмотреть на то,
+      что будет после него?"
+    chapter: 3
+    chapterId: 703
+    parallels:
+      - verseId: 14270
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 3
+        short: Еккл:3:12
+      - verseId: 14315
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 5
+        short: Еккл:5:18
+    translates:
+      kassian: ""
+      podstr: И я увидел что не есть доброе если не о котором возрадуется человек в
+        делах его, потому что это доля его; потому что кто приведёт его [чтобы]
+        увидеть которое если сделается после него?
+      csya: "И видех, яко несть благо, но токмо еже возвеселится человек в творениих
+        своих, яко сия часть его: понеже кто приведет его видети то, еже будет
+        по нем?"
+      averincev: ""
+      ungerov: И увидел я, что нет ничего лучше, как наслаждаться человеку делами
+        своими, потому что это — доля его, ибо кто приведет его посмотреть на
+        то, что будет после него?
+      csya_old: "И# ви1дэхъ, ћкw нёсть блaго, но то1кмw є4же возвесели1тсz человёкъ въ
+        творе1ніихъ свои1хъ, ћкw сіS чaсть є3гw2: поне1же кто2 приведе1тъ є3го2
+        ви1дэти то2, є4же бyдетъ по не1мъ;"
+      sovr_rbo: И понял я, что нет для человека ничего лучше, чем наслаждаться своими
+        делами. Это его удел, ибо кто покажет ему, что будет после него?
+      latin: Et deprehendi nihil esse melius quam laetari hominem in opere suo, et
+        hanc esse partem illius. Quis enim eum adducet ut post se futura
+        cognoscat?
+      ukr: І я бачив, нема чоловікові кращого, як ділами своїми радіти, бо це доля
+        його! Бо хто поведе його глянути, що буде по ньому?...
+      nkjv: So I perceived that nothing is better than that a man should rejoice in
+        his own works, for that is his heritage. For who can bring him to see
+        what will happen after him?
+      desnitsky: ""
+      mt: ‫    וְרָאִיתִי כִּי אֵין טוֹב מֵאֲשֶׁר יִשְׂמַח הָאָדָם בְּמַעֲשָׂיו
+        כִּי־הוּא חֶלְקוֹ כִּי מִי יְבִיאֶנּוּ לִרְאוֹת בְּמֶה שֶׁיִּהְיֶה
+        אַחֲרָיו׃ ‬
+      romana: Si mi-am dat seama ca nimic nu este mai de pret pentru om decat sa se
+        bucure de lucrurile sale, ca aceasta este partea lui, fiindca cine ii va
+        da lui putere sa mai vada ceea ce se va intampla in urma lui?
+      francais: "Et j'ai vu qu'il n'y a rien de mieux pour l'homme que de se réjouir
+        de ses oeuvres: c'est là sa part. Car qui le fera jouir de ce qui sera
+        après lui?"
+      italian: Mi sono accorto che nulla c'è di meglio per l'uomo che godere delle sue
+        opere, perché questa è la sua sorte. Chi potrà infatti condurlo a vedere
+        ciò che avverrà dopo di lui?
+      old_georgian: და ვიხილე, რამეთუ არა არს კეთილ, გარნა რომელი ახაროს კაცმან
+        ყოველთა შინა ქმნილთა მისთა, რამეთუ იგი არს ნაწილი მისი. და ანუ ვინმე
+        მოიყვანოს იგი ხილვად, რაჲ-იგი იყოს მისსა შემდგომად
+      portuguese: "Pelo que tenho visto que não há coisa melhor do que alegrar-se o
+        homem nas suas obras; porque esse é o seu\rquinhão; pois quem o fará
+        voltar para ver o que será depois dele?"
+      polish: "Zobaczyłem więc, że nie ma nic lepszego nad to, że się człowiek cieszy
+        ze\rswych dzieł, gdyż taki jego udział. Bo któż mu pozwoli widzieć, co
+        stanie się\rpotem?"
+      turkish: "Sonuçta insanın yaptığı işten zevk almasından daha iyi bir şey
+        olmadığını gördüm. Çünkü onun payına düşen budur. Kendisinden sonra
+        olacakları görmesi için kim onu geri getirebilir?\rDünyadaki Eziyetler"
+      nrt: И увидел я, что нет ничего лучше для человека, чем наслаждаться своим
+        трудом, потому что такова его доля. Ведь кто может показать ему то, что
+        будет после него?
+      Macarius: "Итак видел я, что нет ничего лучше, как веселиться человеку в делах
+        своих: ибо это его участок; да и кто приведет его посмотреть на то, что
+        будет после него?"
+      serbian: Зато видјех да ништа нема боље човјеку него да се весели онијем што
+        ради, јер му је то дио; јер ко ће га довести да види што ће бити послије
+        њега?
+      bulgarian: И тъй, аз видях, че няма нищо по-добро, освен човек да се наслаждава
+        с делата си, понеже това е негов дял; защото, кой ще го доведе отпосле
+        да погледа това, което ще бъде след него?
+      deutsch: So sah ich denn, daß nichts Besseres ist, als daß ein Mensch fröhlich
+        sei in seiner Arbeit; denn das ist sein Teil. Denn wer will ihn dahin
+        bringen, daß er sehe, was nach ihm geschehen wird?
+      ukr2: Я побачив, що нема нічого кращого для чоловіка, як радіти своїми ділами;
+        така бо його доля; бо хто дасть йому побачити, що буде після нього?
+      ukr3: Оце ж я побачив, що нема нїчого лучшого, як уживати чоловікові своєї
+        працї; бо се доля його; бо хто приведе його поглянути на те, що послї
+        него буде?
+      bel_syomukha: "І вось убачыў я, што няма нічога лепшага чалавеку, як радавацца з
+        учынкаў сваіх: бо гэта - доля яго; хто ж бо яго прывядзе паглядзець на
+        тое, што пасьля яго будзе?"
+      spbda: "И так я вижу, что нет ничего лучше, как наслаждаться человеку делами
+        своими: потому что это — доля его, ибо кто приведет его посмотреть на
+        то, чтó будет после него?"
+      maksimovich: "Итак, я вижу, что нет другаго блага для человека, как наслаждаться
+        делами своими: ибо, это доля его, потому что кто укажет ему то, что
+        после него будет?"
+      lev-khv: И так я вижу, что нет ничего лучше, как наслаждаться человеку делами
+        своими; потому что это доля его; ибо кто приведет его посмотреть на то,
+        чтó будет после него?
+      czech: Shledal jsem, ze neni nic lepsiho, nez kdyz se clovek raduje z toho, co
+        kona, nebot to je jeho podil. Kdo mu da nahlednout, co se stane po nem?
+      spanish: Y vi que no hay para el hombre nada mejor que gozar de su trabajo, pues
+        ésa es su parte; ¿y quién le hará ver lo que ha de venir después?
+      greek-lxx: καὶ εἶδον ὅτι οὐκ ἔστιν ἀγαθὸν εἰ μὴ ὃ εὐφρανθήσεται ὁ ἄνθρωπος ἐν
+        ποιήμασιν αὐτοῦ ὅτι αὐτὸ μερὶς αὐτοῦ ὅτι τίς ἄξει αὐτὸν τοῦ ἰδεῖν ἐν ᾧ
+        ἐὰν γένηται μετ᾿ αὐτόν
+      st_text: "Итак увидел я, что нет ничего лучше, как наслаждаться человеку делами
+        своими: потому что это - доля его; ибо кто приведет его посмотреть на
+        то, что будет после него?"

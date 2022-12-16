@@ -1,0 +1,2081 @@
+id: 896
+number: 30
+bookId: 29
+verseCount: 24
+title: Глава 30
+verses:
+  - id: 15796
+    number: 1
+    bookId: 29
+    text: "Слово, которое было к Иеремии от Господа:"
+    chapter: 30
+    chapterId: 896
+    parallels:
+      - verseId: 20043
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 13
+        short: Ис:13:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Слово бывшее ко иеремии от Господа глаголя:"
+      averincev: ""
+      ungerov: "Слово, которое было к Иеремии от Господа:"
+      csya_old: "Сло1во бы1вшее ко їеремjи t гDа гlz:"
+      sovr_rbo: Вот слово, которое было Иеремии от Господа.
+      latin: "Hoc verbum quod factum est ad Jeremiam a Domino, dicens:"
+      ukr: "Слово, що було до Єремії від Господа, говорячи:"
+      nkjv: The word that came to Jeremiah from the Lord, saying,
+      desnitsky: ""
+      mt: ‫   הַדָּבָר אֲשֶׁר הָיָה אֶל־יִרְמְיָהוּ מֵאֵת יְהוָה לֵאמֹר׃ ‬
+      romana: "Cuvantul Domnului care a fost catre Ieremia:"
+      francais: "La parole qui fut adressée à Jérémie de la part de l'Éternel, en ces
+        mots:"
+      italian: "Parola che fu rivolta a Geremia da parte del Signore:"
+      old_georgian: "სიტყვა ქმნილი უფლისა მიერ იერემიაჲს მიმართ წინაწარმეტყუელისა მეტყველი:"
+      portuguese: "A palavra que do Senhor veio a Jeremias, dizendo:"
+      polish: "Słowo, które Pan skierował do Jeremiasza:"
+      turkish: "RAB Yeremya'ya şöyle seslendi:"
+      nrt: "Вот слово, которое было к Иеремии от Господа:"
+      Macarius: Слово, которое было к Иеремии от Иеговы.
+      serbian: "Ријеч која дође Јеремији од Господа говорећи:"
+      bulgarian: "Слово, което биде към Иеремия от Господа:"
+      Olesn: "Слово, которое было к Иеремии от Иеговы, говорившаго:"
+      deutsch: "Dies ist das Wort, das vom Herrn geschah zu Jeremia:"
+      ukr2: "Слово, що надійшло до Єремії від Господа:"
+      ukr3: "Слово, що надійшло до Еремії від Господа:"
+      bel_syomukha: "Слова, якое было Ерамію ад Госпада:"
+      czech: "Slovo, ktere se stalo k Jeremjasi od Hospodina:"
+      spanish: "Llegó a Jeremías palabra de Yavé, diciendo:"
+      greek-lxx: ὁ λόγος ὁ γενόμενος πρὸς Ιερεμιαν παρὰ Κυρίου εἰπεῖν
+      st_text: "Слово, которое было к Иеремии от Господа:"
+  - id: 15797
+    number: 2
+    bookId: 29
+    text: "так говорит Господь, Бог Израилев: напиши себе все слова, которые Я
+      говорил тебе, в книгу."
+    chapter: 30
+    chapterId: 896
+    parallels:
+      - verseId: 15972
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 36
+        short: Иер:36:2
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "тако рече Господь Бог израилев глаголя: впиши вся словеса в книги, яже
+        глаголах к тебе."
+      averincev: ""
+      ungerov: "Так говорит Господь Бог Израилев: впиши все слова, которыя Я говорил
+        тебе, в книгу."
+      csya_old: "тaкw рече2 гDь бг7ъ ї}левъ гlz: впиши2 вс‰ словесA въ кни6ги, ±же
+        гlахъ къ тебЁ."
+      sovr_rbo: "«Так говорит Господь, Бог Израиля: всё, что Я говорил тебе, запиши в
+        свиток."
+      latin: "Haec dicit Dominus Deus Israel, dicens: Scribe tibi omnia verba, quae
+        locutus sum ad te, in libro."
+      ukr: "Так говорить Господь, Бог Ізраїлів, кажучи: Напиши собі всі ті слова, що
+        тобі говорив Я, до книги."
+      nkjv: "\"Thus speaks the Lord God of Israel, saying: 'Write in a book for
+        yourself all the words that I have spoken to you. "
+      desnitsky: ""
+      mt: ‫   כֹּה־אָמַר יְהוָה אֱלֹהֵי יִשְׂרָאֵל לֵאמֹר כְּתָב־לְךָ אֵת
+        כָּל־הַדְּבָרִים אֲשֶׁר־דִּבַּרְתִּי אֵלֶיךָ אֶל־סֵפֶר׃ ‬
+      romana: '"Asa zice Domnul Dumnezeul lui Israel: Scrie-ti intr-o carte toate
+        cuvintele pe care ti le-am grait Eu,'
+      francais: "Ainsi parle l'Éternel, le Dieu d'Israël: Écris dans un livre toutes
+        les paroles que je t'ai dites."
+      italian: 'Dice il Signore, Dio di Israele: "Scriviti in un libro tutte le cose
+        che ti dirò,'
+      old_georgian: "ესრეთ თქუა უფალმან ძალთამან, ღმერთმან ისრაილისამან, მეტყველმან:
+        დაწერენ შენდად სიტყვანი ყოველნი, რომელნი გამოვაცხადენ შენდამი წიგნსა
+        ზედა,"
+      portuguese: "Assim diz o Senhor, Deus de Israel: Escreve num livro todas as
+        palavras que te falei;"
+      polish: "”To mówi Pan, Bóg Izraela: Napisz w księdze wszystkie słowa, jakie
+        powiedziałem do ciebie."
+      turkish: «İsrail'in Tanrısı RAB diyor ki, `Sana bildirdiğim bütün sözleri bir
+        kitaba yaz.
+      nrt: "– Так говорит Господь, Бог Израиля: Запиши все слова, которые Я говорил
+        тебе, в свиток."
+      Macarius: "Так говорит Иегова, Бог Израилев: напиши себе все слова, которые Я
+        говорил тебе, в книгу."
+      serbian: "Овако вели Господ Бог Израиљев говорећи: Напиши у књигу све ријечи
+        које ти говорих."
+      bulgarian: "тъй казва Господ, Бог Израилев: напиши си на книга всички думи, що
+        ти говорих."
+      Olesn: "так говорит Иегова, Бог израилев:"
+      deutsch: "So spricht der Herr, der Gott Israels: Schreibe dir alle Worte in ein
+        Buch, die ich zu dir rede."
+      ukr2: "«Так говорить Господь, Бог Ізраїля: Запиши собі в книзі всі слова, що я
+        сказав тобі."
+      ukr3: "Так говорить Господь, Бог Ізрайлїв: Посписуй собі в книзї всї слова, які
+        я казав тобі:"
+      bel_syomukha: "так кажа Гасподзь Бог Ізраілеў: напішы сабе ўсе словы, якія Я
+        казаў табе, у кнігу,"
+      czech: '"Toto pravi Hospodin, Buh Izraele: Napis si do knihy vsechna slova,
+        ktera jsem k tobe mluvil.'
+      spanish: "Así dice Yavé, Dios de Israel: Escribe en un libro todo cuanto yo te
+        he dicho,"
+      greek-lxx: οὕτως εἶπεν Κύριος ὁ Θεὸς Ισραηλ λέγων γράψον πάντας τοὺς λόγους οὓς
+        ἐχρημάτισα πρὸς σέ ἐπὶ βιβλίου
+      st_text: "так говорит Господь, Бог Израилев: напиши себе все слова, которые Я
+        говорил тебе, в книгу."
+  - id: 15798
+    number: 3
+    bookId: 29
+    text: Ибо вот, наступают дни, говорит Господь, когда Я возвращу из плена народ
+      Мой, Израиля и Иуду, говорит Господь; и приведу их опять в ту землю,
+      которую дал отцам их, и они будут владеть ею.
+    chapter: 30
+    chapterId: 896
+    parallels:
+      - verseId: 30894
+        bookId: 22
+        bookCode: psaltir
+        chapter: 125
+        short: Пс:125:4
+      - verseId: 15649
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 25
+        short: Иер:25:12
+      - verseId: 15842
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 31
+        short: Иер:31:23
+      - verseId: 15903
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 32
+        short: Иер:32:44
+      - verseId: 15910
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 33
+        short: Иер:33:7
+      - verseId: 34860
+        bookId: 43
+        bookCode: kniga-proroka-sofonii
+        chapter: 2
+        short: Соф:2:7
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Яко се, дние грядут, рече Господь, и возвращу преселение людий моих
+        израиля и иуды, рече Господь вседержитель, и возвращу я на землю, юже
+        дах отцем их, и овладеют ею.
+      averincev: ""
+      ungerov: Ибо вот наступают дни, говорит Господь, и Я возвращу переселенный народ
+        Мой, Израиля и Иуду, говорит Господь Вседержитель, и возвращу их в ту
+        землю, которую Я дал отцам их, и они будут владеть ею.
+      csya_old: Ћкw се2, днjе грzдyтъ, рече2 гDь, и3 возвращY преселе1ніе людjй мои1хъ
+        ї}лz и3 їyды, рече2 гDь вседержи1тель, и3 возвращY | на зе1млю, ю4же
+        дaхъ nтцє1мъ и4хъ, и3 њвладёютъ є4ю.
+      sovr_rbo: Ибо настанут дни, — говорит Господь, — когда Я верну из плена народ
+        Мой, Израиль и Иуду, — говорит Господь, — верну их на землю, которую Я
+        дал их отцам, чтобы они владели ею».
+      latin: "Ecce enim dies veniunt, dicit Dominus, et convertam conversionem populi
+        mei Israel et Juda, ait Dominus: et convertam eos ad terram quam dedi
+        patribus eorum, et possidebunt eam."
+      ukr: Бо приходять ось дні, говорить Господь, і Я верну народ Мій Ізраїлів та
+        Юдин, каже Господь, і верну їх до Краю, що їхнім батькам Я був дав, і
+        вони посядуть його.
+      nkjv: "For behold, the days are coming,' says the Lord, 'that I will bring back
+        from captivity My people Israel and Judah,' says the Lord. 'And I will
+        cause them to return to the land that I gave to their fathers, and they
+        shall possess it.' \" "
+      desnitsky: ""
+      mt: ‫   כִּי הִנֵּה יָמִים בָּאִים נְאֻם־יְהוָה וְשַׁבְתִּי אֶת־שְׁבוּת עַמִּי
+        יִשְׂרָאֵל וִיהוּדָה אָמַר יְהוָה וַהֲשִׁבֹתִים אֶל־הָאָרֶץ
+        אֲשֶׁר־נָתַתִּי לַאֲבוֹתָם וִירֵשׁוּהָ׃ פ ‬
+      romana: Ca iata vin zile, zice Domnul cand voi intoarce din robie pe poporul
+        Meu, pe Israel si pe Iuda, zice Domnul, si-i voi aduce iarasi in
+        pamantul acela, pe care l-am dat parintilor lor, si-l vor stapani".
+      francais: Voici, les jours viennent, dit l'Éternel, où je ramènerai les captifs
+        de mon peuple d'Israël et de Juda, dit l'Éternel; je les ramènerai dans
+        le pays que j'ai donné à leurs pères, et ils le posséderont.
+      italian: perché, ecco, verranno giorni — dice il Signore — nei quali cambierò la
+        sorte del mio popolo, di Israele e di Giuda — dice il Signore —; li
+        ricondurrò nel paese che ho concesso ai loro padri e ne prenderanno
+        possesso".
+      old_georgian: რამეთუ, აჰა, დღენი მოვლენ, - იტყჳს უფალი ყოვლისა მპყრობელი, - და
+        მოვაქციო განსახლვაჲ ერისა ჩემისა ისრაილისა და იუდაჲსი, - თქუა უფალმან, -
+        და კუალადვაქცინე იგინი ქუეყანად, რომელი მივეც მამათა მათთა, და ეუფლნენ
+        მას.
+      portuguese: "pois eis que vêm os dias, diz o Senhor, em que farei voltar do
+        cativeiro o meu povo Israel e Judá, diz o Senhor; e\rtornarei a
+        trazê-los à terra que dei a seus pais, e a possuirão."
+      polish: "Bo oto nadchodzą dni - wyrocznia Pana - w których odmienię los
+        mojego\rnarodu, Izraela i Judy - mówi Pan. Przyprowadzę ich znów do
+        ziemi, jaką\rdałem ich przodkom, i wezmą ją w posiadanie”."
+      turkish: İşte halkım İsrail'i ve Yahuda'yı eski gönençlerine kavuşturacağım
+        günler yaklaşıyor' diyor RAB, `Onları atalarına verdiğim topraklara geri
+        getireceğim, orayı yurt edinecekler' diyor RAB.»
+      nrt: Наступят дни, – возвещает Господь, – когда Я восстановлю Мой народ, Израиль
+        и Иудею, и приведу их в землю, которую отдал во владение их отцам, –
+        говорит Господь.
+      Macarius: Ибо вот наступают дни, говорит Иегова, когда Я возвращу пленный народ
+        Мой, израильтян и иудеев, говорит Иегова, и приведу их опять на ту
+        землю, которую Я дал отцам их, чтобы они наследовали ее.
+      serbian: Јер, ево, иду дани, говори Господ, кад ћу повратити робље народа
+        својега Израиља и Јуде, говори Господ, и довешћу их натраг у земљу коју
+        сам дао оцима њиховијем, и држаће је.
+      bulgarian: Защото ето, идат дни, казва Господ, когато ще върна от плен Моя
+        народ, Израиля и Иуда, казва Господ; и ще ги доведа отново в земята,
+        която дадох на отците им, и ще я владеят.
+      Olesn: "запиши себе все слова эти, которыя Я изрек тебе, \rв свиток, потому что
+        вот дни идут, — слово Иеговы — когда Я возвращу из плена народ Мой
+        Израиля и Иуду, — сказал Иегова, — и приведу их в землю, которую дал
+        отцам их, чтобы они владели ею."
+      deutsch: Denn siehe, es kommt die Zeit, spricht der Herr, daß ich das Gefängnis
+        meines Volkes Israel und Juda wenden will, spricht der Herr, und will
+        sie wiederbringen in das Land, das ich ihren Vätern gegeben habe, daß
+        sie es besitzen sollen.
+      ukr2: Ось бо надходить час, - слово Господнє, - коли я зміню долю мого народу
+        Ізраїля та Юди, - слово Господнє, - і приведу їх назад у землю, що
+        вділив був їхнім отцям, і вони її посядуть.»
+      ukr3: Ось бо надходить час, говорить Господь, що заверну з неволї нарід мій,
+        Ізраїля й Юду, говорить Господь, і приведу їх назад у землю, що надїлив
+        їх отцям, і посядуть її.
+      bel_syomukha: бо вось, настаюць дні, кажа Гасподзь, калі Я вярну з палону народ
+        Мой, Ізраіля і Юду, кажа Гасподзь; і прывяду іх зноў у тую зямлю, якую
+        даў бацькам іхнім, і яны будуць валодаць ёю.
+      czech: Nebot, hle, prichazeji dny, je vyrok Hospodinuv, ze zmenim udel sveho
+        lidu, Izraele i Judy, pravi Hospodin, a privedu je zpet do zeme, kterou
+        jsem dal jejich otcum. A obsadi ji."
+      spanish: porque he aquí que vienen días — oráculo de Yavé — en que haré volver
+        los desterrados de mi pueblo, Israel y Judá, y los haré tornar a la
+        tierra que di a sus padres, y la poseerán.
+      greek-lxx: ὅτι ἰδοὺ ἡμέραι ἔρχονται φησὶν Κύριος καὶ ἀποστρέψω τὴν ἀποικίαν λαοῦ
+        μου Ισραηλ καὶ Ιουδα εἶπεν Κύριος καὶ ἀποστρέψω αὐτοὺς εἰς τὴν γῆν ἣν
+        ἔδωκα τοῖς πατράσιν αὐτῶν καὶ κυριεύσουσιν αὐτῆς
+      st_text: Ибо вот, наступают дни, говорит Господь, когда Я возвращу из плена
+        народ Мой, Израиля и Иуду, говорит Господь; и приведу их опять в ту
+        землю, которую дал отцам их, и они будут владеть ею.
+  - id: 15799
+    number: 4
+    bookId: 29
+    text: И вот те слова, которые сказал Господь об Израиле и Иуде.
+    chapter: 30
+    chapterId: 896
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И сия словеса, яже глагола Господь о израили и о иуде.
+      averincev: ""
+      ungerov: И вот те слова, которыя говорил Господь об Израиле и Иуде.
+      csya_old: И# сі‰ словесA, ±же гlа гDь њ ї}ли и3 њ їyдэ.
+      sovr_rbo: Вот слова, которые сказал Господь об Израиле и об Иуде.
+      latin: "Et haec verba quae locutus est Dominus ad Israel et ad Judam:"
+      ukr: "А оце ті слова, що Господь говорив про Ізраїля й Юду:"
+      nkjv: Now these are the words that the Lord spoke concerning Israel and Judah.
+      desnitsky: ""
+      mt: ‫   וְאֵלֶּה הַדְּבָרִים אֲשֶׁר דִּבֶּר יְהוָה אֶל־יִשְׂרָאֵל
+        וְאֶל־יְהוּדָה׃ ‬
+      romana: "Iata cuvintele acelea pe care le-a spus Domnul despre Israel si despre
+        Iuda:"
+      francais: Ce sont ici les paroles que l'Éternel a prononcées sur Israël et sur
+        Juda.
+      italian: "Queste sono le parole che il Signore pronunziò per Israele e per Giuda:"
+      old_georgian: "ესე სიტყვანი, რომელნი თქუნა უფალმან ისრაილსა ზედა და იუდასა:"
+      portuguese: E estas são as palavras que disse o Senhor, acerca de Israel e de Judá.
+      polish: "Następujące słowa wypowiedział Pan do Izraela i do Judy:"
+      turkish: "İsrail ve Yahuda için RAB'bin bildirdiği sözler şunlardır:"
+      nrt: Вот слова, которые Господь произнес об Израиле и Иудее.
+      Macarius: "И вот те слова, которые говорил Иегова Израилю и Иуде:"
+      serbian: И ово су ријечи које рече Господ за Израиља и Јуду.
+      bulgarian: И ето думите, които Господ каза за Израиля и за Иуда.
+      Olesn: "Вот именно слова, которыя изрек Иегова об Израиле и об Иуде:"
+      deutsch: "Dies sind aber die Worte, welche der Herr redet von Israel und Juda:"
+      ukr2: "Ось ті слова, що Господь сказав про Ізраїля та про Юду:"
+      ukr3: Се ж ті слова, що сказав Господь про Ізраїля й Юду.
+      bel_syomukha: І вось - тыя словы, якія сказаў Гасподзь пра Ізраіля і Юду.
+      czech: Toto jsou slova, ktera promluvil Hospodin o Izraeli a Judovi.
+      spanish: Estas son las palabras que ha pronunciado Yavé sobre Israel y Judá.
+      greek-lxx: καὶ οὗτοι οἱ λόγοι οὓς ἐλάλησεν Κύριος ἐπὶ Ισραηλ καὶ Ιουδα
+      st_text: И вот те слова, которые сказал Господь об Израиле и Иуде.
+  - id: 15800
+    number: 5
+    bookId: 29
+    text: "Так сказал Господь: голос смятения и ужаса слышим мы, а не мира."
+    chapter: 30
+    chapterId: 896
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Тако рече Господь: глас страха услышите: страх, и несть мира."
+      averincev: ""
+      ungerov: "Так говорит. Господь: голос страха услышите, страха, а не мира."
+      csya_old: "Тaкw рече2 гDь: глaсъ стрaха ўслы1шите: стрaхъ, и3 нёсть ми1ра."
+      sovr_rbo: "Так говорит Господь: крики ужаса мы слышим, страх и смятенье повсюду!"
+      latin: "Quoniam haec dicit Dominus: Vocem terroris audivimus: formido, et non
+        est pax."
+      ukr: "Бо так промовляє Господь: Почули ми голос страху, переляку, й немає
+        спокою..."
+      nkjv: "\"For thus says the Lord: 'We have heard a voice of trembling, Of fear,
+        and not of peace. "
+      desnitsky: ""
+      mt: ‫   כִּי־כֹה אָמַר יְהוָה קוֹל חֲרָדָה שָׁמָעְנוּ פַּחַד וְאֵין שָׁלוֹם׃ ‬
+      romana: 'Asa a zis Domnul: "Glas de tulburare, glas de groaza auzim, ti nu glas
+        de pace.'
+      francais: "Ainsi parle l'Éternel: Nous entendons des cris d'effroi; C'est
+        l'épouvante, ce n'est pas la paix."
+      italian: 'Così dice il Signore: "Si ode un grido di spavento, terrore, non pace.'
+      old_georgian: "ესრეთ იტყჳს უფალი: ჴმაჲ შიშისაჲ ისმინეთ, ჴმაჲ შიშისა და
+        ვალალებისა, რომელსა ძრწოდენ წელნი თქუენნი, და არა არს ცხოვრება და
+        მშჳდობა."
+      portuguese: "Assim, pois, diz o Senhor: Ouvimos uma voz de tremor, de temor mas
+        não de paz."
+      polish: "To mówi Pan: ”Usłyszeliśmy krzyk bolesny trwogi, a nie pokoju."
+      turkish: "«RAB diyor ki,\r`Korku sesi duyduk,\rEsenlik değil, dehşet sesi."
+      nrt: "Так говорит Господь: – Крики ужаса слышим мы, крики страха, – нет мира."
+      Macarius: "Ибо так говорит Иегова: голос ужаса слышим; страх, а не мир."
+      serbian: "Јер овако вели Господ: Чусмо вику од препадања, страха, а мира нема."
+      bulgarian: "Тъй каза Господ: глас от смут и ужас чуваме ние, а не мир."
+      Olesn: "Так говорит Иегова:\rКрик ужаса слышим мы,\rСтрах, а не мир."
+      deutsch: "So spricht der Herr: Wir hören ein Geschrei des Schreckens; es ist
+        eitel Furcht da und kein Friede."
+      ukr2: "«Так каже Господь: Я чую жахливий голос страху, не миру."
+      ukr3: "Сказав же так Господь: Чути голос метушнї і страху, а не миру."
+      bel_syomukha: "Так сказаў Гасподзь: голас трывогі і жудасьці чуем мы, а ня міру."
+      czech: 'Toto pravi Hospodin: "Slyseli jsme desuplny hlas. Strach a nikde pokoj.'
+      spanish: "Pues así dice Yavé: Oímos gritos de terror, de espanto, no de paz."
+      greek-lxx: οὕτως εἶπεν Κύριος φωνὴν φόβου ἀκούσεσθε φόβος καὶ οὐκ ἔστιν εἰρήνη
+      st_text: "Так сказал Господь: голос смятения и ужаса слышим мы, а не мира."
+  - id: 15801
+    number: 6
+    bookId: 29
+    text: "Спросите и рассудите: рождает ли мужчина? Почему же Я вижу у каждого
+      мужчины руки на чреслах его, как у женщины в родах, и лица у всех
+      бледные?"
+    chapter: 30
+    chapterId: 896
+    parallels:
+      - verseId: 16100
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 4
+        short: Иер:4:31
+      - verseId: 16280
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 48
+        short: Иер:48:41
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Вопросите и видите, аще раждает мужеск пол? и о страсе, в немже имети
+        будут чресла и спасение? понеже видех всякаго человека, и руце его на
+        чреслех его аки раждающия: обратишася лица в желтую болезнь."
+      averincev: ""
+      ungerov: "Спросите и узнайте: раждает-ли мужеский пол? а также (спросите) и о
+        страхе, при коем будут (люди) обнимать чресла и спасение, ибо я видел
+        всякаго человека: руки на чреслах его, как у раждающей, а лица
+        изменились, как при желтой болезни."
+      csya_old: "Вопроси1те и3 ви1дите, ѓще раждaетъ мyжескъ по1лъ; и3 њ стрaсэ, въ
+        не1мже и3мёти бyдутъ чрє1сла и3 спасе1ніе; поне1же ви1дэхъ всsкаго
+        человёка, и3 рyцэ є3гw2 на чре1слэхъ є3гw2 ѓки раждaющіz: њбрати1шасz
+        ли1ца въ же1лтую болёзнь."
+      sovr_rbo: "Расспросите, смотрите! Разве может родить мужчина? Что же Я вижу:
+        мужчины корчатся, словно роженицы! Исказились их лица смертельной
+        бледностью."
+      latin: "Interrogate, et videte si generat masculus: quare ergo vidi omnis viri
+        manum super lumbum suum, quasi parturientis, et conversae sunt universae
+        facies in auruginem?"
+      ukr: Запитайте й побачте, чи родить мужчина? Чому ж це Я бачу, що в кожного мужа
+        он руки його на стегнах його, немов у породіллі, і всяке обличчя
+        поблідло?
+      nkjv: Ask now, and see, Whether a man is ever in labor with child? So why do I
+        see every man with his hands on his loins Like a woman in labor, And all
+        faces turned pale?
+      desnitsky: ""
+      mt: ‫   שַׁאֲלוּ־נָא וּרְאוּ אִם־יֹלֵד זָכָר מַדּוּעַ רָאִיתִי כָל־גֶּבֶר יָדָיו
+        עַל־חֲלָצָיו כַּיּוֹלֵדָה וְנֶהֶפְכוּ כָל־פָּנִים לְיֵרָקוֹן׃ ‬
+      romana: Intrebati si vedeti daca naste vreun barbat? De ce vad Eu pe toti
+        barbatii cu mainile pe solduri, ca o femeie care naste, si fetele
+        tuturor palide?
+      francais: Informez-vous, et regardez si un mâle enfante! Pourquoi vois-je tous
+        les hommes les mains sur leurs reins, Comme une femme en travail?
+        Pourquoi tous les visages sont-ils devenus pâles?
+      italian: Informatevi e osservate se un maschio può partorire. Perché mai vedo
+        tutti gli uomini con le mani sui fianchi come una partoriente? Perché
+        ogni faccia è stravolta, impallidita? Ohimè!
+      old_georgian: იკითხეთ და იხილეთ, უკეთუ შვა წული? და შიშისათჳს, რომლითა შეპყრობილ
+        იყუნენ წელნი და განრინება მით, რამეთუ ვიხილე ყოველი კაცი და ჴელნი მისნი
+        წელთა ზედა მისთა, ვითარცა შობადისანი, გარდაიქცა. პირები დანდალუკიან
+        იქმნა.
+      portuguese: "Perguntai, pois, e vede, se um homem pode dar à luz. Por que, pois,
+        vejo a cada homem com as mãos sobre os\rlombos como a que está de parto?
+        Por que empalideceram todos os rostos?"
+      polish: "Pytajcie się i patrzcie: Czy mężczyzna może rodzić? Dlaczego widzę
+        wszystkich mężczyzn z rękami na biodrach jak u rodzącej kobiety? Każda
+        twarz\rpowlekła się bladością."
+      turkish: "Sorun da görün:\rErkek, çocuk doğurur mu?\rÖyleyse neden doğuran kadın
+        gibi\rHer erkeğin ellerini belinde görüyorum?\rNeden her yüz solmuş?"
+      nrt: "Расспросите и подумайте: разве может мужчина рожать детей? Почему же Я
+        вижу сильных мужчин с руками, прижатыми к животу, как у женщины в родах,
+        и лица у всех смертельно бледны?"
+      Macarius: "Спросите у других, и наблюдайте сами: рождает ли мужчина? Почему же Я
+        вижу, что всякий мужчина руки свои держит на пояснице, как родильница, и
+        все лица превратились в бледные?"
+      serbian: Питајте, и видите, еда ли мушко рађа? Зашто, дакле, видим гдје се сваки
+        човјек држи рукама својима за бедра своја као породиља и у свијех се
+        промијенила лица и поблиједјела?
+      bulgarian: "Попитайте и разсъдете: ражда ли мъж? А защо виждам у всеки мъж
+        ръцете на чреслата му като у жена, кога ражда, и лицата на всички са
+        бледни?"
+      Olesn: "Спросите и разведайте\rНе начали ли раждать мужчины?\rОтчего же Я виху
+        всех мужей\rС руками на чреслах их, подобно родильнице,\rИ лица у всех
+        позеленевшия?"
+      deutsch: Forschet doch und sehet, ob ein Mann gebären könne? Wie geht es denn
+        zu, daß ich alle Männer sehe ihre Hände auf ihren Hüften haben wie
+        Weiber in Kindsnöten und alle Angesichter sind bleich?
+      ukr2: "Розвідайтеся, гляньте: Чи то родить муж? Чому ж я бачу в усіх мужів руки
+        на крижах, немов у породіллі? Чому обличчя в усіх змінилися, зблідли?"
+      ukr3: "Поспитайте й міркуйте: чи мужчина роджає? А чом же бачу в усїх мужів руки
+        на череслах, мов у породїлї, а всї поблїдли на лицї?"
+      bel_syomukha: "Спытайцеся і разважце: ці родзіць мужчына? Чаму ж Я бачу ў
+        кожнага мужчыны рукі на сьцёгнах ягоных, як у жанчыны ў родах, і твары
+        ва ўсіх бледныя?"
+      czech: Jen se ptejte, podivejte se, zda rodi muz. Proc jsem videl kazdeho muze s
+        rukama na bedrach jako rodicku, a vsechny tvare byly sinale.
+      spanish: "Preguntad y ved: ¿Es que paren los varones? ¿Por qué, pues, veo a
+        todos los varones con las manos en los lomos como en parto, demudados y
+        amarillos todos sus rostros?"
+      greek-lxx: ἐρωτήσατε καὶ ἴδετε εἰ ἔτεκεν ἄρσεν καὶ περὶ φόβου ἐν ᾧ καθέξουσιν
+        ὀσφὺν καὶ σωτηρίαν διότι ἑώρακα πάντα ἄνθρωπον καὶ αἱ χεῖρες αὐτοῦ ἐπὶ
+        τῆς ὀσφύος αὐτοῦ ἐστράφησαν πρόσωπα εἰς ἴκτερον
+      st_text: "Спросите и рассудите: рождает ли мужчина? Почему же Я вижу у каждого
+        мужчины руки на чреслах его, как у женщины в родах, и лица у всех
+        бледные?"
+  - id: 15802
+    number: 7
+    bookId: 29
+    text: О, горе! велик тот день, не было подобного ему; это - бедственное время
+      для Иакова, но он будет спасен от него.
+    chapter: 30
+    chapterId: 896
+    parallels:
+      - verseId: 18795
+        bookId: 36
+        bookCode: kniga-proroka-ioila
+        chapter: 2
+        short: Иоил:2:11
+      - verseId: 9512
+        bookId: 37
+        bookCode: kniga-proroka-amosa
+        chapter: 5
+        short: Ам:5:18
+      - verseId: 34850
+        bookId: 43
+        bookCode: kniga-proroka-sofonii
+        chapter: 1
+        short: Соф:1:15
+      - verseId: 34849
+        bookId: 43
+        bookCode: kniga-proroka-sofonii
+        chapter: 1
+        short: Соф:1:14
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "о, люте! яко бысть велик день той и несть подобна ему: и время тесно есть
+        иакову, и от того спасется."
+      averincev: ""
+      ungerov: О горе! ибо велик день тот, и нет подобнаго ему, и тесное время для
+        Иакова, но от него он будет спасен.
+      csya_old: "Q, лю1тэ! ћкw бы1сть вели1къ де1нь то1й и3 нёсть подо1бна є3мY: и3
+        вре1мz тёсно є4сть їaкwву, и3 t тогw2 спасе1тсz."
+      sovr_rbo: Горе! Ибо день тот велик, не было ему подобного. Это время беды для
+        Иакова, но он спасется!
+      latin: "Vae! quia magna dies illa, nec est similis ejus: tempusque tribulationis
+        est Jacob, et ex ipso salvabitur."
+      ukr: Ой горе, бо це день великий, немає такого, як він! А це час недолі для
+        Якова, та з нього він буде врятований!
+      nkjv: "Alas! For that day is great, So that none is like it; And it is the time
+        of Jacob's trouble, But he shall be saved out of it. "
+      desnitsky: ""
+      mt: ‫   הוֹי כִּי גָדוֹל הַיּוֹם הַהוּא מֵאַיִן כָּמֹהוּ וְעֵת־צָרָה הִיא
+        לְיַעֲקֹב וּמִמֶּנָּה יִוָּשֵׁעַ׃ ‬
+      romana: O, vai! Mare este ziua aceea! Asemenea ei n-a mai fost alta! Acela este
+        timp de mare stramtorare pentru Iacov, dar el va fi izbavit din ea.
+      francais: Malheur! car ce jour est grand; Il n'y en a point eu de semblable.
+        C'est un temps d'angoisse pour Jacob; Mais il en sera délivré.
+      italian: Perché grande è quel giorno, non ce n'è uno simile! Esso sarà un tempo
+        di angoscia per Giacobbe, tuttavia egli ne uscirà salvato.
+      old_georgian: ვაჲ, რამეთუ დიდ დღე იგი და არა არს ეგემლევანი. და ჟამი იწროებისაჲ
+        არს და ჭირისა იაკობისისა, და ამისგანცა.
+      portuguese: "Ah! porque aquele dia é tão grande, que não houve outro semelhante!
+        É tempo de angústia para Jacó; todavia, há\rde ser livre dela."
+      polish: "Ach, jak wielki to dzień, nie ma on równego sobie! Będzie on czasem
+        ucisku\rJakuba, a jednak on zostanie zeń wybawiony!"
+      turkish: "Ah, ne korkunç gün!\rOnun gibisi olmayacak.\rYakup soyu için sıkıntı
+        dönemi olacak, Yine de sıkıntıdan kurtulacak."
+      nrt: Как страшен будет тот день! Не было подобного ему. Это будет время бедствий
+        для Иакова, но он из него спасется.
+      Macarius: О, горе! ибо велик день сей; не было подобного ему, и это время
+        тесноты для Иакова, но он будет и от сего избавлен.
+      serbian: Јаох, јер је велик овај дан, није било таквога, и вријеме је муке
+        Јаковљеве, ипак ће се избавити из ње.
+      bulgarian: О, горко! велик е оня ден, няма подобен нему; това е усилно време за
+        Иакова, но той ще бъде избавен от него.
+      Olesn: "Увы! Так велик день се1, \rЧто подобнаго ему не было И время тяжкое для
+        Иакова,\rЧтобы спастись ему от него."
+      deutsch: Es ist ja ein großer Tag, und seinesgleichen ist nicht gewesen, und ist
+        eine Zeit der Angst in Jakob; doch soll ihm daraus geholfen werden.
+      ukr2: Горе! Страшний той день! Ще не було такого. Скрутний це час для Якова, хоч
+        йому й прийде рятунок.
+      ukr3: Ой горе! страшний той день, не було такого; нещасний час для Якова, але
+        йому прийде рятунок.
+      bel_syomukha: О, гора! вялікі той дзень, ня было падобнага да яго; гэта -
+        бядотны час у Якава, але ён будзе ўратаваны ад яго.
+      czech: Beda, bude to veliky den, bez obdoby, cas souzeni pro Jakoba, ale bude z
+        neho zachranen."
+      spanish: ¡Ay! ¡Es el día grande! No hay nada igual a él. Tiempo de angustia para
+        Jacob, pero de él le vendrá la salvación.
+      greek-lxx: ἐγενήθη ὅτι μεγάλη ἡ ἡμέρα ἐκείνη καὶ οὐκ ἔστιν τοιαύτη καὶ χρόνος
+        στενός ἐστιν τῷ Ιακωβ καὶ ἀπὸ τούτου σωθήσεται
+      st_text: О, горе! велик тот день, не было подобного ему; это - бедственное время
+        для Иакова, но он будет спасен от него.
+  - id: 15803
+    number: 8
+    bookId: 29
+    text: "И будет в тот день, говорит Господь Саваоф: сокрушу ярмо его, которое на
+      вые твоей, и узы твои разорву; и не будут уже служить чужеземцам,"
+    chapter: 30
+    chapterId: 896
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "В той день, рече Господь, сокрушу ярем со выи их и узы их расторгну: и не
+        послужат тии ктому чуждим,"
+      averincev: ""
+      ungerov: В тот день, говорит Господь, сокрушу ярмо с выи их, и узы их разорву, и
+        не будут они более служить чужеземцам.
+      csya_old: "Въ то1й де1нь, рече2 гDь, сокрушY kре1мъ со вы1и и4хъ и3 ќзы и4хъ
+        расто1ргну: и3 не послyжатъ тjи ктомY чужди6мъ,"
+      sovr_rbo: В тот день, — говорит Господь Воинств, — Я разобью ярмо, что у тебя на
+        шее, разорву оковы! Тогда не будут больше служить чужеземцам,
+      latin: "Et erit in die illa, ait Dominus exercituum, conteram jugum ejus de
+        collo tuo: et vincula ejus dirumpam, et non dominabuntur ei amplius
+        alieni:"
+      ukr: І буде в той день, говорить Господь Саваот, поламаю ярмо Я із шиї твоєї, а
+        пута твої розірву, і не будуть чужі поневолювати більше його!
+      nkjv: "'For it shall come to pass in that day,' Says the Lord of hosts, 'That I
+        will break his yoke from your neck, And will burst your bonds;
+        Foreigners shall no more enslave them. "
+      desnitsky: ""
+      mt: ‫   וְהָיָה בַיּוֹם הַהוּא נְאֻם יְהוָה צְבָאוֹת אֶשְׁבֹּר עֻלּוֹ מֵעַל
+        צַוָּארֶךָ וּמוֹסְרוֹתֶיךָ אֲנַתֵּק וְלֹא־יַעַבְדוּ־בוֹ עוֹד זָרִים׃ ‬
+      romana: Si in ziua aceea, zice Domnul Savaot, voi sfarama jugul de pe grumazul
+        lor si lanturile lor le voi rupe.
+      francais: En ce jour-là, dit l'Éternel des armées, Je briserai son joug de
+        dessus ton cou, Je romprai tes liens, Et des étrangers ne
+        t'assujettiront plus.
+      italian: In quel giorno — parola del Signore degli eserciti — rom — però il
+        giogo togliendolo dal suo collo, spezzerò le sue catene; non saranno più
+        schiavi di stranieri.
+      old_georgian: მას დღესა შინა, - თქუა უფალმან ძალთამან, - შევმუსრო უღელი მისი
+        ქედისაგან შენისა, და საკრველნი მისნი განვხეთქნე. და არა უქმოდიან მერმე
+        იგინი უცხოთა.
+      portuguese: "E será naquele dia, diz o Senhor dos exércitos, que eu quebrarei o
+        jugo de sobre o seu pescoço, e romperei as\rsuas brochas. Nunca mais se
+        servirão dele os estrangeiros;"
+      polish: "W dniu tym - wyrocznia Pana Zastępów - skruszę jarzmo znad ich szyi,
+        zerwę\rich więzy, tak że nie będą więcej służyć obcym."
+      turkish: "«`O gün' diyor Her Şeye Egemen RAB, `Boyunlarındaki boyunduruğu
+        kıracak, Bağlarını koparacağım.\rBundan böyle yabancılar
+        onları\rKendilerine köle etmeyecekler."
+      nrt: В тот день, – возвещает Господь Сил, – Я разобью ярмо, которое у них на
+        шее, и разорву их оковы; чужеземцы больше не будут их порабощать.
+      Macarius: И будет в тот день, говорит Иегова воинств, сокрушу ярмо его, сняв с
+        шеи твоей, и узы твои разорву; и чужеземцы не будут уже порабощать его.
+      serbian: Јер у тај дан, говори Господ над војскама, сломићу јарам његов с врата
+        твојега, и свезе твоје покидаћу; и неће га више туђини нагонити да им
+        служи.
+      bulgarian: И в оня ден, казва Господ Саваот, ще строша хомота му, що е на врата
+        ти, и твоите окови ще разкъсам; и вече не ще служат на чужденци,
+      Olesn: "Но будет в день тот, \r — Слово Иеговы воинств — \rЯ сброшу ярмо его с
+        шеи твоей И цепи твои порву\rИ не будут служить они более чужеземцам,"
+      deutsch: Es soll aber geschehen zu derselben Zeit, spricht der Herr Zebaoth, daß
+        ich sein Joch von deinem Halse zerbrechen will und deine Bande
+        zerreißen, daß er nicht mehr den Fremden dienen muß,
+      ukr2: Того часу, - слово Господа сил, - я поламаю кормигу, що в нього на шиї і
+        його кайдани порозбиваю. І він чужинцям більше не служитиме.
+      ukr3: Того бо часу, говорить Господь сил небесних, поламлю ярмо на шиї його й
+        порозриваю повороззє його, й не буде він уже чужинцям служити;
+      bel_syomukha: "І будзе ў той дзень, кажа Гасподзь Саваоф: паламаю ярмо ягонае,
+        якое на шыі тваёй, і повязі твае парву; і ня будзе ўжо служыць
+        чужаземцам,"
+      czech: '"V onen den, je vyrok Hospodina zastupu, zlomim jeho jho na tve siji a
+        zpretrham tva pouta. Nebudou uz slouzit cizakum,'
+      spanish: Y sucederá que en ese día — oráculo de Yavé de los ejércitos — quebraré
+        el yugo de sobre su cuello y romperé sus coyundas,
+      greek-lxx: ἐν τῇ ἡμέρᾳ ἐκείνῃ εἶπεν Κύριος συντρίψω τὸν ζυγὸν ἀπὸ τοῦ τραχήλου
+        αὐτῶν καὶ τοὺς δεσμοὺς αὐτῶν διαρρήξω καὶ οὐκ ἐργῶνται αὐτοὶ ἔτι
+        ἀλλοτρίοις
+      st_text: "И будет в тот день, говорит Господь Саваоф: сокрушу ярмо его, которое
+        на вые твоей, и узы твои разорву; и не будут уже служить чужеземцам,"
+  - id: 15804
+    number: 9
+    bookId: 29
+    text: но будут служить Господу Богу своему и Давиду, царю своему, которого Я
+      восстановлю им.
+    chapter: 30
+    chapterId: 896
+    parallels:
+      - verseId: 17381
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 34
+        short: Иез:34:24
+      - verseId: 17465
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 37
+        short: Иез:37:24
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "но послужат тии Господу Богу своему: и давида царя их возставлю им."
+      averincev: ""
+      ungerov: Но послужат они Господу Богу своему, и Давида, царя их, Я возставлю им.
+      csya_old: "но послyжатъ тjи гDу бг7у своемY: и3 давjда царS и4хъ возстaвлю и5мъ."
+      sovr_rbo: служить будут Господу, своему Богу, и царю своему — Давиду, которого Я
+        поставлю над ними.
+      latin: sed servient Domino Deo suo, et David regi suo, quem suscitabo eis.
+      ukr: І будуть служити вони тільки Господеві, Богові своєму, і цареві своєму
+        Давидові, якого поставлю Я їм.
+      nkjv: But they shall serve the Lord their God, And David their king, Whom I will
+        raise up for them.
+      desnitsky: ""
+      mt: ‫   וְעָבְדוּ אֵת יְהוָה אֱלֹהֵיהֶם וְאֵת דָּוִד מַלְכָּם אֲשֶׁר אָקִים
+        לָהֶם׃ ס ‬
+      romana: Si nu vor mai sluji strainilor, ci vor sluji Domnului Dumnezeului lor si
+        lui David, regele lor, pe care il voi pune iarasi pe tron.
+      francais: Ils serviront l'Éternel, leur Dieu, Et David, leur roi, que je leur
+        susciterai.
+      italian: Essi serviranno il Signore loro Dio e Davide loro re, che io susciterò
+        loro.
+      old_georgian: და უქმოდიან უფალსა ღმერთსა მათსა და დავით, მეფე მათი, აღუდგინო მათ.
+      portuguese: mas ele servirá ao Senhor, seu Deus, como também a Davi, seu rei,
+        que lhe levantarei.
+      polish: "Będą zaś służyć Panu, swemu Bogu, i Dawidowi, swojemu królowi,
+        którego\rim wzbudzę."
+      turkish: "Onun yerine Tanrıları RAB'be\rVe başlarına atayacağım kralları Davut'a
+        Kulluk edecekler."
+      nrt: Нет, они будут служить Господу, своему Богу, и Давиду, своему царю,
+        которого Я им воскрешу.
+      Macarius: Но они будут служить Иегове, Богу своему, и Давиду, царю своему,
+        которого Я восстановлю им.
+      serbian: Него ће служити Господу Богу својему и Давиду, цару својему, којега ћу
+        им подигнути.
+      bulgarian: а ще служат на своя Господ Бог и на царя си Давида, когото ще им
+        възстановя.
+      Olesn: "Но будут служить Иегове Богу своему \rИ Давиду царю своему, \rКотораго Я
+        поставлю над ними"
+      deutsch: sondern sie werden dem Herrn, ihrem Gott, dienen und ihrem König David,
+        welchen ich ihnen erwecken will.
+      ukr2: Вони служитимуть Господеві, Богові своєму, та Давидові, своєму цареві, що
+        я пробуджу для них.
+      ukr3: Нї, служити муть вони Господеві, свойму Богові, та свойму цареві Давидові,
+        що (з його роду) розбуджу їм.
+      bel_syomukha: але будуць служыць Госпаду Богу свайму і Давіду свайму, якога Я
+        пастаўлю ім.
+      czech: budou slouzit Hospodinu, svemu Bohu, a Davidovi, svemu krali, ktereho jim
+        vzbudim."
+      spanish: y no serán más siervos de extranjeros, sino que servirán a Yavé, su
+        Dios, y a David, su rey, que yo los suscitaré.
+      greek-lxx: καὶ ἐργῶνται τῷ Κυρίῳ Θεῷ αὐτῶν καὶ τὸν Δαυιδ βασιλέα αὐτῶν ἀναστήσω
+        αὐτοῖς
+      st_text: но будут служить Господу Богу своему и Давиду, царю своему, которого Я
+        восстановлю им.
+  - id: 15805
+    number: 10
+    bookId: 29
+    text: И ты, раб Мой Иаков, не бойся, говорит Господь, и не страшись, Израиль;
+      ибо вот, Я спасу тебя из далекой страны и племя твое из земли пленения их;
+      и возвратится Иаков и будет жить спокойно и мирно, и никто не будет
+      устрашать его,
+    chapter: 30
+    chapterId: 896
+    parallels:
+      - verseId: 20724
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 44
+        short: Ис:44:2
+      - verseId: 16145
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 42
+        short: Иер:42:11
+      - verseId: 16231
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 46
+        short: Иер:46:27
+      - verseId: 35852
+        bookId: 32
+        bookCode: kniga-proroka-varuha
+        chapter: 2
+        short: Вар:2:34
+      - verseId: 36912
+        bookId: 45
+        bookCode: kniga-proroka-zaharii
+        chapter: 1
+        short: Зах:1:16
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Сего ради ты не бойся, рабе мой иакове, глаголет Господь, ни устрашайся,
+        израилю: яко се, аз спасу тя из земли дальния и семя твое из земли
+        пленения их: и возвратится паки иаков и почиет и всякаго добра исполнен
+        будет, и не будет устрашаяй тя."
+      averincev: ""
+      ungerov: (Посему), ты не бойся, раб Мой Иаков, говорит Господь, и не страшись,
+        Израиль; ибо вот Я спасу тебя из земли дальней и племя твое из земли
+        пленения их, и снова возвратится Иаков и успокоится и всяким добром
+        наполнится, и никто не будет устрашать тебя.
+      csya_old: "Сегw2 рaди ты2 не бо1йсz, рaбе мо1й їaкwве, гlетъ гDь, ни ўстрашaйсz,
+        ї}лю: ћкw се2, ѓзъ сп7сy тz и3з8 земли2 дaльніz и3 сёмz твое2 и3з8
+        земли2 плэне1ніz и4хъ: и3 возврати1тсz пaки їaкwвъ и3 почjетъ и3 всsкагw
+        добрA и3спо1лненъ бyдетъ, и3 не бyдетъ ўстрашazй тS."
+      sovr_rbo: А ты, раб Мой Иаков, не бойся, — говорит Господь, — не страшись,
+        Израиль! Я спасу тебя, верну из страны далекой, потомков твоих — из
+        страны плена. Вернется Иаков, будет жить безмятежно и мирно, и врагов у
+        него не будет.
+      latin: "Tu ergo ne timeas, serve meus Jacob, ait Dominus: neque paveas, Israel,
+        quia ecce ego salvabo te de terra longinqua, et semen tuum de terra
+        captivitatis eorum: et revertetur Jacob, et quiescet, et cunctis affluet
+        bonis, et non erit quem formidet:"
+      ukr: А ти не лякайся, рабе Мій Якові, каже Господь, і не страшися, Ізраїлю, бо Я
+        ось врятую тебе із далекого краю, і нащадків твоїх з краю їхнього
+        полону! І вернеться Яків, і буде спокійний, і буде безпечний, і не буде
+        того, хто б його настрашив,
+      nkjv: "'Therefore do not fear, O My servant Jacob,' says the Lord, 'Nor be
+        dismayed, O Israel; For behold, I will save you from afar, And your seed
+        from the land of their captivity. Jacob shall return, have rest and be
+        quiet, And no one shall make him afraid. "
+      desnitsky: ""
+      mt: ‫   וְאַתָּה אַל־תִּירָא עַבְדִּי יַעֲקֹב נְאֻם־יְהֹוָה וְאַל־תֵּחַת
+        יִשְׂרָאֵל כִּי הִנְנִי מוֹשִׁיעֲךָ מֵרָחוֹק וְאֶת־זַרְעֲךָ מֵאֶרֶץ
+        שִׁבְיָם וְשָׁב יַעֲקֹב וְשָׁקַט וְשַׁאֲנַן וְאֵין מַחֲרִיד׃ ‬
+      romana: Si tu robul Meu Iacov, nu te teme, zice Domnul, nici nu te inspaimanta,
+        Israele, ca iata Eu te voi scapa din tara cea departata si neamul tau il
+        voi aduce din tara robiei tale. Si se va intoarce Iacov si va trai in
+        pace si in liniste si nimeni nu-l va mai ingrozi.
+      francais: Et toi, mon serviteur Jacob, ne crains pas, dit l'Éternel; Ne
+        t'effraie pas, Israël! Car je te délivrerai de la terre lointaine, Je
+        délivrerai ta postérité du pays où elle est captive; Jacob reviendra, il
+        jouira du repos et de la tranquillité, Et il n'y aura personne pour le
+        troubler.
+      italian: Tu, poi, non temere, Giacobbe, mio servo. Oracolo del Signore. Non
+        abbatterti, Israele, Poiché io libererò te dal paese lontano, la tua
+        discendenza dal paese del suo esilio. Giacobbe ritornerà e godrà la
+        pace, vivrà tranquillo e nessuno lo molesterà.
+      old_georgian: ხოლო შენ ნუ გეშინის, ყრმაო ჩემო იაკობ, - თქუა უფალმან, - ნუ
+        იწიწვი, ისრაილ, აჰა, მე გაცხოვნებ შენ შორით და თესლსა შენსა ტყუეობისაგან
+        მათისა. და მოიქცეს იაკობი და დაყუდნეს, და იკეთილვნებოს და არა იყოს
+        შემაშინებელ,
+      portuguese: "Não temas pois tu, servo meu, Jacó, diz o Senhor, nem te espantes,
+        ó Israel; pois eis que te livrarei de terras\rlongínquas, e à tua
+        descendência da terra do seu cativeiro; e Jacó voltará, e ficará
+        tranqüilo e sossegado, e não\rhaverá quem o atemorize."
+      polish: "Ty się jednak nie bój, sługo mój Jakubie - wyrocznia Pana - i nie lękaj
+        się,\rIzraelu, bo Ja cię wybawię z dalekiej ziemi, twoje potomstwo z
+        kraju jego\rwygnania. Powróci Jakub i będzie zażywał nie zmąconego
+        niczym pokoju, a\rnikt go nie będzie trwożył."
+      turkish: "«`Korkma, ey kulum Yakup, Yılma, ey İsrail' diyor RAB. `Çünkü seni
+        uzak yerlerden,\rSoyunu sürgün edildiği ülkeden kurtaracağım.\rYakup
+        yine huzur ve güvenlik içinde olacak,\rKimse onu korkutmayacak."
+      nrt: Итак, не бойся, слуга Мой, Иаков; не пугайся, Израиль, – возвещает Господь.
+        – Я спасу тебя из далекого края твое потомство – из земли его плена.
+        Иаков вернется к спокойной и мирной жизни, и никто не будет его
+        устрашать.
+      Macarius: И ты, раб Мой, Иаков, не бойся, говорит Иегова, и не страшись,
+        Израиль! ибо вот, Я спасу тебя из далекой страны, и племя твое из земли
+        плена их; и возвратится Иаков, и будет жить спокойно и мирно, и никто не
+        будет страшить его.
+      serbian: Ти се дакле не бој, Јакове слуго мој, говори Господ, и не плаши се,
+        Израиљу; јер, ево, ја ћу те избавити из даљне земље, и сјеме твоје из
+        земље ропства твојега, и Јаков ће се вратити и почивати, и биће миран, и
+        нико га неће плашити.
+      bulgarian: "И ти, Мой рабе Иакове, не бой се, казва Господ, и не се плаши,
+        Израилю: защото ето, Аз ще избавя тебе от далечната земя и племето ти -
+        от земята на плена; и ще се върне Иаков и ще живее спокойно и мирно, и
+        никой не ще го заплашва,"
+      Olesn: "И ты не бойся раб Мой Иаков, \r — Слово Иеговы — \rИ не страшись
+        Израиль, \rПотому что вот Я спасу тебя издалека И потомство твое из
+        земли плена их,\rИ опять Иаков будет спокоен и безопасен, Не встречая
+        наводящаго ужас, —"
+      deutsch: Darum fürchte du dich nicht, mein Knecht Jakob, spricht der Herr, und
+        entsetze dich nicht Israel. Denn siehe, ich will dir helfen aus fernen
+        Landen und deinen Samen aus dem Lande des Gefängnisses, daß Jakob soll
+        wiederkommen, in Frieden leben und Genüge haben, und niemand soll ihn
+        schrecken.
+      ukr2: Ти ж не бійся, Якове, мій рабе, - слово Господнє, - і не лякайся Ізраїлю;
+        врятую бо тебе з земель далеких, потомків твоїх із краю неволі, і Яків
+        повернеться і житиме мирно й безпечно, тож ніхто його більш не
+        непокоїтиме.
+      ukr3: "Тим же то не лякайся, мій рабе, Якове, говорить Господь, і не страхайся,
+        Ізраїлю: вирятую бо тебе з далекої землї і потомків твоїх з краю неволї;
+        і вернеться Яков додому, та й жити ме в супокою і безпечен, і нїхто не
+        буде лякати його."
+      bel_syomukha: І ты, рабе Мой Якаве, ня бойся, кажа Гасподзь, і не палохайся,
+        Ізраіле; бо вось, Я ўратую цябе з далёкай краіны і племя тваё зь зямлі
+        палону іхняга; і вернецца Якаў і будзе жыць спакойна і мірна, і ніхто ня
+        будзе палохаць яго,
+      czech: '"Ty, Jakobe, muj sluzebniku, neboj se, je vyrok Hospodinuv, nedes se,
+        Izraeli. Hle, ja te zachranim, i kdyz jsi daleko, i tve potomky, ze zeme
+        zajeti. Jakob se vrati a bude zit v miru, bezstarostne, a nikdo jej
+        nevydesi.'
+      spanish: Y tú, siervo mío Jacob, no temas, oráculo de Yavé; no tiembles, Israel,
+        porque voy a liberarte de la tierra lejana, y a tu descendencia de la
+        tierra de cautividad. Jacob tornará y vivirá tranquilo y seguro, sin que
+        nadie le perturbe.
+      greek-lxx: ""
+      st_text: И ты, раб Мой Иаков, не бойся, говорит Господь, и не страшись, Израиль;
+        ибо вот, Я спасу тебя из далекой страны и племя твое из земли пленения
+        их; и возвратится Иаков и будет жить спокойно и мирно, и никто не будет
+        устрашать его,
+  - id: 15806
+    number: 11
+    bookId: 29
+    text: "ибо Я с тобою, говорит Господь, чтобы спасать тебя: Я совершенно истреблю
+      все народы, среди которых рассеял тебя, а тебя не истреблю; Я буду
+      наказывать тебя в мере, но ненаказанным не оставлю тебя."
+    chapter: 30
+    chapterId: 896
+    parallels:
+      - verseId: 11383
+        bookId: 4
+        bookCode: cisla
+        chapter: 14
+        short: Чис:14:18
+      - verseId: 20317
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 27
+        short: Ис:27:8
+      - verseId: 20650
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 41
+        short: Ис:41:10
+      - verseId: 16232
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 46
+        short: Иер:46:28
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Яко аз с тобою есмь, глаголет Господь, спасаяй тя: яко сотворю скончание
+        во всех языцех, в няже разсеях тя: тебе же не сотворю во скончание, но
+        накажу тя в суде и очищая не очищу тя."
+      averincev: ""
+      ungerov: Ибо Я с тобою, говорит Господь, чтобы спасать тебя, ибо Я совершенно
+        истреблю все народы, среди которых Я разсеял тебя, а тебя не истреблю до
+        конца, но накажу тебя по правосудию, и очищая не очищу тебя.
+      csya_old: "Ћкw ѓзъ съ тобо1ю є4смь, гlетъ гDь, сп7сazй тS: ћкw сотворю2
+        скончaніе во всёхъ kзы1цэхъ, въ нsже разсёzхъ тS: тебе1 же не сотворю2
+        во скончaніе, но накажy тz въ судЁ и3 њчищaz не њчи1щу тS."
+      sovr_rbo: Ибо Я с тобою, — говорит Господь, — Я спасу тебя! Я уничтожу все
+        народы, средь которых тебя рассеял. Лишь тебя Я не уничтожу, но покараю
+        тебя по заслугам, без наказанья тебя не оставлю!
+      latin: "quoniam tecum ego sum, ait Dominus, ut salvem te. Faciam enim
+        consummationem in cunctis gentibus in quibus dispersi te: te autem non
+        faciam in consummationem: sed castigabo te in judicio, ut non videaris
+        tibi innoxius."
+      ukr: бо Я із тобою, говорить Господь, щоб спасати тебе! Бо зроблю Я кінець всім
+        народам, між якими тебе розпорошив, та з тобою кінця не зроблю, і тебе
+        покараю за правом, бо не полишу тебе непокараним!
+      nkjv: "For I am with you,' says the Lord, 'to save you; Though I make a full end
+        of all nations where I have scattered you, Yet I will not make a
+        complete end of you. But I will correct you in justice, And will not let
+        you go altogether unpunished.' "
+      desnitsky: ""
+      mt: ‫   כִּי־אִתְּךָ אֲנִי נְאֻם־יְהוָה לְהוֹשִׁיעֶךָ כִּי אֶעֱשֶׂה כָלָה
+        בְּכָל־הַגּוֹיִם אֲשֶׁר הֲפִצוֹתִיךָ שָּׁם אַךְ אֹתְךָ לֹא־אֶעֱשֶׂה
+        כָלָה וְיִסַּרְתִּיךָ לַמִּשְׁפָּט וְנַקֵּה לֹא אֲנַקֶּךָּ׃ פ ‬
+      romana: Caci Eu sunt cu tine, zice Domnul, ca sa te izbavesc; voi pierde de fot
+        toate popoarele, printre care te-am risipit pe tine, iar pe tine nu te
+        voi pierde; te voi pedepsi dupa dreptate si nepedepsit nu te voi lasa,
+      francais: Car je suis avec toi, dit l'Éternel, pour te délivrer; J'anéantirai
+        toutes les nations parmi lesquelles je t'ai dispersé, Mais toi, je ne
+        t'anéantirai pas; Je te châtierai avec équité, Je ne puis pas te laisser
+        impuni.
+      italian: Poiché io sono con te per salvarti, oracolo del Signore. Sterminerò
+        tutte le nazioni in mezzo alle quali ti ho disperso; ma con te non
+        voglio operare una strage; cioè ti castigherò secondo giustizia, non ti
+        lascerò del tutto impunito".
+      old_georgian: რამეთუ შენ თანა მე ვარ, - თქუა უფალმან, - განრინებად შენდა, რამეთუ
+        ვყო მოკლება ყოველთა შორის წარმართთა, რომელთა მიმართ გაგაბნიე შენ, მუნ.
+        გარნა შენ არა გყო მოკლებულად და გწუართო შენ მსჯავრითა და განმართლებით
+        არა განგამართლო შენ,
+      portuguese: "Porque eu sou contigo, diz o Senhor, para te salvar; porquanto
+        darei fim cabal a todas as nações entre as quais\rte espalhei; a ti,
+        porém, não darei fim, mas castigar-te-ei com medida justa, e de maneira
+        alguma te terei por\rinocente."
+      polish: "Ja bowiem jestem z tobą - wyrocznia Pana - by cię wybawić. Zgotuję
+        zagładę\rwszystkim narodom, między którymi cię rozproszyłem, ciebie zaś
+        nie wyniszczę. Ukarzę cię jednak sprawiedliwie i nie ujdziesz zupełnie
+        bezkarnie”."
+      turkish: "Çünkü ben seninleyim,\rSeni kurtaracağım' diyor RAB.\r`Seni aralarına
+        dağıttığım bütün ulusları Tümüyle yok etsem de,\rSeni büsbütün yok
+        etmeyecek,\rAdaletle yola getirecek,\rHiç cezasız bırakmayacağım.'"
+      nrt: Я с тобою, и Я спасу тебя, – возвещает Господь. – Я истреблю все народы,
+        среди которых рассеял тебя, а тебя не истреблю. Я накажу тебя по
+        справедливости, но безнаказанным не оставлю тебя.
+      Macarius: Ибо Я с тобою, говорит Иегова, чтобы спасать тебя; ибо Я сделаю конец
+        всем народам, среди коих рассеял тебя, а тебе конца не сделаю; Я только
+        накажу тебя по правосудию; но оставить тебя ненаказанным! Я не оставлю
+        тебя ненаказанным.
+      serbian: Јер сам ја с тобом, говори Господ, да те избавим; и учинићу крај свијем
+        народима међу које сам те расијао, али теби нећу учинити краја, него ћу
+        те покарати с мјером, а нећу те оставити сасвијем без кара.
+      bulgarian: "защото Аз съм с тебе, казва Господ, за да те избавям: Аз съвсем ще
+        изтребя всички народи, между които те пръснах, а тебе не ще изтребя; Аз
+        ще те наказвам с мярка, но ненаказан не ще те оставя."
+      Olesn: "Потому что с тобою Я, — слово Иеговы — \rДля обороны твоей,\rПотому что
+        Я сделаю конец всем народам, Между которыми Я разсею тебя,\rТолько с
+        тобою не сделаю конца,\rХотя и наказываю тебя по правде;\rНе оставлять
+        жо Мне тебя совершенно не наказанным"
+      deutsch: Denn ich bin bei dir, spricht der Herr, daß ich dir helfe. Denn ich
+        will mit allen Heiden ein Ende machen, dahin ich dich zerstreut habe;
+        aber mit dir will ich nicht ein Ende machen; züchtigen aber will ich
+        dich mit Maßen, daß du dich nicht für unschuldig haltest.
+      ukr2: Бо я з тобою, - слово Господнє, - щоб тебе врятувати. Я вигублю всі
+        народи, що проміж ними тебе розкинув. Тебе ж не знищу. Я покараю тебе,
+        але за законом, - без кари ж тебе не зоставлю.»
+      ukr3: "Я бо з тобою, говорить Господь, щоб тебе рятувати: Я вигублю всї народи,
+        що проміж ними тебе розкинув, а тебе не вигублю; буду карати тебе, але
+        помірно, некараним же не зоставлю тебе."
+      bel_syomukha: "бо Я з табою, кажа Гасподзь, каб ратаваць цябе: Я цалкам вынішчу
+        ўсе народы, сярод якіх расьсеяў цябе, а цябе ня зьнішчу; я буду караць
+        цябе ў меру, але непакараным не пакіну цябе."
+      czech: Ja budu s tebou, je vyrok Hospodinuv, a zachranim te. Ucinim konec vsem
+        pronarodum, mezi nez jsem te rozprasil, ale s tebou neskoncim docela.
+        Potrestam te ovsem podle prava, bez trestu te neponecham."
+      spanish: Porque yo estoy contigo — oráculo de Yavé — para salvarte; yo llevaré a
+        la ruina a todos los pueblos entre los que te dispersé, pero a ti no te
+        arruinaré, sino que te castigaré con moderación, no te dejaré impune.
+      greek-lxx: ""
+      st_text: "ибо Я с тобою, говорит Господь, чтобы спасать тебя: Я совершенно
+        истреблю все народы, среди которых рассеял тебя, а тебя не истреблю; Я
+        буду наказывать тебя в мере, но ненаказанным не оставлю тебя."
+  - id: 15807
+    number: 12
+    bookId: 29
+    text: "Ибо так говорит Господь: рана твоя неисцельна, язва твоя жестока;"
+    chapter: 30
+    chapterId: 896
+    parallels:
+      - verseId: 16586
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 8
+        short: Иер:8:22
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Тако бо глаголет Господь: возставих сокрушение твое, болезненна есть язва
+        твоя,"
+      averincev: ""
+      ungerov: "Ибо так говорит Господь: Я возстановил поражение твое, болезненна рана
+        твоя,"
+      csya_old: "Тaкw бо гlетъ гDь: возстaвихъ сокруше1ніе твое2, болёзненна є4сть
+        ћзва твоS,"
+      sovr_rbo: "Так говорит Господь: раны твои ужасны, тяжелы твои увечья!"
+      latin: "Quia haec dicit Dominus: Insanabilis fractura tua, pessima plaga tua:"
+      ukr: "Бо так промовляє Господь: Невилічальна пораза твоя, рана твоя невигойна!"
+      nkjv: "\"For thus says the Lord: 'Your affliction is incurable, Your wound is
+        severe. "
+      desnitsky: ""
+      mt: ‫   כִּי כֹה אָמַר יְהוָה אָנוּשׁ לְשִׁבְרֵךְ נַחְלָה מַכָּתֵךְ׃ ‬
+      romana: "Ca asa zice Domnul: Rana ta e de nevindecat si plaga ta e dureroasa."
+      francais: "Ainsi parle l'Éternel: Ta blessure est grave, Ta plaie est douloureuse."
+      italian: 'Così dice il Signore: "La tua ferita è incurabile, la tua piaga è
+        molto grave.'
+      old_georgian: "რამეთუ ამათ იტყჳს უფალი: იძულებითი არს შემუსრვაჲ შენი, სალმობიერ
+        წყლულები."
+      portuguese: "Porque assim diz o Senhor: Incurável é a tua fratura, e gravíssima
+        a tua ferida."
+      polish: "To bowiem mówi Pan: ”Dotkliwa jest twoja klęska, nieuleczalna twoja
+        rana."
+      turkish: "«RAB diyor ki,\r`Senin yaran şifa bulmaz,\rBeren iyileşmez."
+      nrt: "Так говорит Господь: – Твоя рана неисцелима, твое увечье жестоко."
+      Macarius: "Ибо так говорит Иегова: мучительна рана твоя, тяжек удар для тебя."
+      serbian: "Јер овако вели Господ: Смртан је полом твој и рана твоја љута."
+      bulgarian: "Защото тъй казва Господ: раната ти е неизлечима, язвата ти е жестока;"
+      Olesn: "Да, так говорит Иегова:\rБолезненна рана твоя,\rТяжко поражение твое."
+      deutsch: "Denn also spricht der Herr: Dein Schade ist verzweifelt böse, und
+        deine Wunden sind unheilbar."
+      ukr2: "Так бо говорить Господь: «Рана твоя не гоїться, синці твої болючі."
+      ukr3: "Так бо говорить Господь: Рана твоя невилїчима; синцї твої болючі;"
+      bel_syomukha: "Бо так кажа Гасподзь: рана твая незагойная, пошасьць твая жорсткая;"
+      czech: 'Toto pravi Hospodin: "Nevylecitelne je tve poraneni, bolestna je tva
+        rana.'
+      spanish: "Así, pues, dice Yavé: Es incurable tu herida, tu llaga sin remedio."
+      greek-lxx: οὕτως εἶπεν Κύριος ἀνέστησα σύντριμμα ἀλγηρὰ ἡ πληγή σου
+      st_text: "Ибо так говорит Господь: рана твоя неисцельна, язва твоя жестока;"
+  - id: 15808
+    number: 13
+    bookId: 29
+    text: никто не заботится о деле твоем, чтобы заживить рану твою; целебного
+      врачевства нет для тебя;
+    chapter: 30
+    chapterId: 896
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "несть судяй суда твоего, на болезнь врачевался еси, пользы несть тебе:"
+      averincev: ""
+      ungerov: Никто не разбирает суда твоего, для болезни врачевался ты, пользы нет
+        тебе.
+      csya_old: "нёсть судsй судA твоегw2, на болёзнь врачевaлсz є3си2, по1льзы нёсть
+        тебЁ:"
+      sovr_rbo: Дела твоего никто не разбирает, для язв твоих нет лекарства, нет тебе
+        исцеленья.
+      latin: "non est qui judicet judicium tuum ad alligandum: curationum utilitas non
+        est tibi."
+      ukr: Немає того, хто б справу твою розсудив для твоєї болячки, нема в тебе ліків
+        таких, щоб над раною м'ясо зросло!
+      nkjv: There is no one to plead your cause, That you may be bound up; You have no
+        healing medicines.
+      desnitsky: ""
+      mt: ‫   אֵין־דָּן דִּינֵךְ לְמָזוֹר רְפֻאוֹת תְּעָלָה אֵין לָךְ׃ ‬
+      romana: Nimeni nu se ingrijeste de pricina ta, ca sa-ti vindece rana, si leac
+        vindecator nu este pentru tine.
+      francais: Nul ne défend ta cause, pour bander ta plaie; Tu n'as ni remède, ni
+        moyen de guérison.
+      italian: Per la tua piaga non ci sono rimedi, non si forma nessuna cicatrice.
+      old_georgian: არ არს მსჯელ სასჯელისა შენისა, სალმობიერად იკურნე, - სარგებელ არა
+        არს შენდა.
+      portuguese: Não há quem defenda a tua causa; para a tua ferida não há remédio
+        nem cura.
+      polish: Nikt się nie troszczy o twoją sprawę, nie ma lekarstwa, by cię uzdrowić.
+      turkish: "Davanı görecek kimse yok,\rYaran umarsız, şifa bulmaz."
+      nrt: Нет у тебя ходатая, нет для твоей раны лекарств, нет исцеления тебе.
+      Macarius: Никто не судит о деле твоем, чтоб заживлять рану твою; врачевства,
+        исцеления тебе нет.
+      serbian: Нема никога који би се примио твоје ствари да те лијечи, нема лијека
+        који би ти помогао.
+      bulgarian: никой не се грижи за твоето дело, за да излекува раната ти; за тебе
+        няма лекарство;
+      Olesn: "Никто не заботится перевязать рану твою,\rНи лекарства, ни пластыря нет
+        тебе."
+      deutsch: Deine Sache behandelt niemand, daß er dich verbände; es kann dich
+        niemand heilen.
+      ukr2: Ніхто не журиться перев'язати тобі рану, нема для тебе ні гоїння, ні
+        вилікування.
+      ukr3: Нїхто не журиться твоєю справою, щоб перевязати рану твою; лїку на
+        вигоєннє нема тобі;
+      bel_syomukha: ніхто не клапоціцца пра справу тваю, каб загоіць рану тваю; гаючых
+        лекаў няма для цябе;
+      czech: Nikdo nevede tvou pri, tva otevrena rana se nehoji, nezaceluje.
+      spanish: No hay para tu úlcera remedio, no tienes curación.
+      greek-lxx: οὐκ ἔστιν κρίνων κρίσιν σου εἰς ἀλγηρὸν ἰατρεύθης ὠφέλεια οὐκ ἔστιν σοι
+      st_text: никто не заботится о деле твоем, чтобы заживить рану твою; целебного
+        врачевства нет для тебя;
+  - id: 15809
+    number: 14
+    bookId: 29
+    text: все друзья твои забыли тебя, не ищут тебя; ибо Я поразил тебя ударами
+      неприятельскими, жестоким наказанием за множество беззаконий твоих, потому
+      что грехи твои умножились.
+    chapter: 30
+    chapterId: 896
+    parallels:
+      - verseId: 15507
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 2
+        short: Иер:2:19
+      - verseId: 15577
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 22
+        short: Иер:22:20
+      - verseId: 28681
+        bookId: 30
+        bookCode: plac-ieremii
+        chapter: 1
+        short: Плач:1:8
+      - verseId: 28692
+        bookId: 30
+        bookCode: plac-ieremii
+        chapter: 1
+        short: Плач:1:19
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "вси друзие твои забыша тя, ниже вопросят тя, яже о мире твоем: яко язвою
+        вражиею поразих тя, наказанием твердым: множества ради неправды твоея
+        превозмогоша греси твои."
+      averincev: ""
+      ungerov: Все друзья твои забыли тебя и не спрашивают тебя о мире твоем, ибо Я
+        поразил тебя язвою вражескою, жестоким наказанием, (ибо) по множеству
+        неправды твоей умножились грехи твои.
+      csya_old: "вси2 дрyзіе твои2 забы1ша тS, ниже2 вопро1сzтъ тS, ±же њ ми1рэ
+        твое1мъ: ћкw ћзвою врaжіею порази1хъ тS, наказaніемъ тве1рдымъ:
+        мно1жества рaди непрaвды твоеS превозмого1ша грэси2 твои2."
+      sovr_rbo: Все любовники твои тебя забыли, к тебе не стремятся. Удары врагов Я на
+        тебя обрушил, жестокую кару, ибо велико твое преступленье, грехи твои
+        бессчетны.
+      latin: "Omnes amatores tui obliti sunt tui, teque non quaerent: plaga enim
+        inimici percussi te castigatione crudeli: propter multitudinem
+        iniquitatis tuae dura facta sunt peccata tua."
+      ukr: Забули про тебе всі друзі твої, до тебе вони не звертаються, бо ворожим
+        ударом Я вразив тебе, жорстокою карою за численні провини твої, за те,
+        що зміцніли гріхи твої...
+      nkjv: All your lovers have forgotten you; They do not seek you; For I have
+        wounded you with the wound of an enemy, With the chastisement of a cruel
+        one, For the multitude of your iniquities, Because your sins have
+        increased.
+      desnitsky: ""
+      mt: ‫   כָּל־מְאַהֲבַיִךְ שְׁכֵחוּךְ אוֹתָךְ לֹא יִדְרֹשׁוּ כִּי מַכַּת אוֹיֵב
+        הִכִּיתִיךְ מוּסַר אַכְזָרִי עַל רֹב עֲוֺנֵךְ עָצְמוּ חַטֹּאתָיִךְ׃ ‬
+      romana: Toti prietenii tai te-au uitat si nu te mai cauta; ca Eu te-am lovit ca
+        pe un vrajmas, cu pedeapsa cruda, pentru multimea faradelegilor tale,
+        pentru ca se inmultisera pacatele tale.
+      francais: Tous ceux qui t'aimaient t'oublient, Aucun ne prend souci de toi; Car
+        je t'ai frappée comme frappe un ennemi, Je t'ai châtiée avec violence, A
+        cause de la multitude de tes iniquités, Du grand nombre de tes péchés.
+      italian: Tutti i tuoi amanti ti hanno dimenticato, non ti cercano più; poiché ti
+        ho colpito come colpisce un nemico, con un castigo severo, per le tue
+        grandi iniquità, per i molti tuoi peccati.
+      old_georgian: ყოველთა მიყუართა შენთა დაგივიწყეს შენ. არა გამოიკითხონ შენთჳს,
+        რამეთუ წყეულებითა მტერისაჲთა დაგეც შენ წურთაჲ მტკიცე ყოველსა ზედა
+        ცრუობასა შენსა, განმრავლდეს ცოდვანი შენნი, განძლიერდეს უსჯულოებანი
+        შენნი.
+      portuguese: "Todos os teus amantes se esqueceram de ti; não te procuram; pois te
+        feri com ferida de inimigo, e com castigo\rde quem é cruel, porque é
+        grande a tua culpa, e têm-se multiplicado os teus pecados."
+      polish: "Wszyscy, co cię kochali, zapomnieli o tobie, nie szukają już ciebie,
+        gdyż\rdotknąłem ciebie, tak jak się rani wroga, surową karą. Przez
+        wielką twą nieprawość pomnożyły się twoje grzechy."
+      turkish: "Bütün oynaşların unuttu seni,\rArayıp sormuyorlar.\rSeni düşman
+        vururcasına vurdum,\rAcımasızca cezalandırdım.\rÇünkü suçun
+        çok,\rGünahların sayısız."
+      nrt: Позабыли тебя все союзники, не думают о тебе. Я поразил тебя, как поразил
+        бы недруг, и наказывал, точно лютый враг, за тяжесть твоей вины и за
+        множество грехов.
+      Macarius: Все друзья твои забыли тебя, не ищут тебя; ибо Я поразил тебя ударами
+        неприятельскими, вражеским наказанием за множество беззаконий твоих;
+        велики грехи твои.
+      serbian: Сви који те љубе заборавише те, не траже те, јер те ударих ударцем
+        непријатељским, каром жестоким, за мноштво безакоња твојега, за силне
+        гријехе твоје.
+      bulgarian: всички твои приятели те забравиха, не те търсят; защото Аз те ударих
+        с неприятелски удари, с жестоко наказание за многото твои беззакония,
+        понеже твоите грехове се умножиха.
+      Olesn: "Все любившие тебя забыли тебя,\rНе осведомляются о тебе с тех пор,\rКак
+        поражением вражиим Я поразил тебя Наказанием жестоким,\rЗа великую вину
+        твою,\rЗа многочисленные грехи твои."
+      deutsch: Alle deine Liebhaber vergessen dein, und fragen nichts darnach. Ich
+        habe dich geschlagen, wie ich einen Feind schlüge, mit unbarmherziger
+        Staupe um deiner großen Missetat und deiner starken Sünden willen.
+      ukr2: Усі твої коханці тебе забули і не шукають тебе більше, бо я вдарив тебе,
+        як б'є ворог, лютою карою за твою тяжку провину, за гріхів твоїх безліч.
+      ukr3: Усї, кого ти приятельом собі вважав, забули на тебе, й не питають про
+        тебе; бо я побив тебе ударами неприязними, жорстокою карою за многі
+        провини твої за безлїч гріхів твоїх.
+      bel_syomukha: усе сябры твае забылі цябе, ня шукаюць цябе; бо Я пабіў цябе
+        ўдарамі непрыяцельскімі, жорсткаю караю за мноства беззаконьняў тваіх,
+        бо грахі твае памножыліся.
+      czech: Vsichni tvoji milenci na tebe zapomneli, nevyhledavaji te. Ranou
+        nepritele jsem te ranil, nelitostnym pokaranim pro mnozstvi tvych
+        nepravosti, pro tve nescislne hrichy.
+      spanish: Todos tus amadores te han olvidado, no preguntan por ti, pues yo te
+        herí como hiere un enemigo, con cruel castigo, por tus grandes maldades,
+        por la magnitud de tus pecados.
+      greek-lxx: πάντες οἱ φίλοι σου ἐπελάθοντό σου οὐ μὴ ἐπερωτήσουσιν ὅτι πληγὴν
+        ἐχθροῦ ἔπαισά σε παιδείαν στερεάν ἐπὶ πᾶσαν ἀδικίαν σου ἐπλήθυναν αἱ
+        ἁμαρτίαι σου
+      st_text: все друзья твои забыли тебя, не ищут тебя; ибо Я поразил тебя ударами
+        неприятельскими, жестоким наказанием за множество беззаконий твоих,
+        потому что грехи твои умножились.
+  - id: 15810
+    number: 15
+    bookId: 29
+    text: Что вопиешь ты о ранах твоих, о жестокости болезни твоей? по множеству
+      беззаконий твоих Я сделал тебе это, потому что грехи твои умножились.
+    chapter: 30
+    chapterId: 896
+    parallels:
+      - verseId: 15354
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 13
+        short: Иер:13:22
+      - verseId: 15399
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 15
+        short: Иер:15:18
+      - verseId: 28756
+        bookId: 30
+        bookCode: plac-ieremii
+        chapter: 3
+        short: Плач:3:39
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Что вопиеши о сокрушении твоем? неисцельна есть болезнь твоя множества
+        ради неправды твоея, и твердых ради грехов твоих сотворих ти сия (вся).
+      averincev: ""
+      ungerov: Что вопиешь о поражении твоем? неисцельна болезнь твоя, по множеству
+        неправды твоей и по закоренелости грехов твоих, Я сделал тебе это (все).
+      csya_old: Что2 вопіе1ши њ сокруше1ніи твое1мъ; неисцёльна є4сть болёзнь твоS
+        мно1жества рaди непрaвды твоеS, и3 тве1рдыхъ рaди грэхHвъ твои1хъ
+        сотвори1хъ ти2 сі‰ (вс‰).
+      sovr_rbo: Что о ранах своих ты стонешь, об увечьях тяжких? Велико твое
+        преступленье, грехи твои бессчетны, потому Я так поступил с тобою.
+      latin: "Quid clamas super contritione tua? insanabilis est dolor tuus: propter
+        multitudinem iniquitatis tuae, et propter dura peccata tua, feci haec
+        tibi."
+      ukr: Чого ти кричиш про поразу свою, про свій біль невигойний? За численні твої
+        беззаконства, за те, що зміцніли гріхи твої, Я зробив тобі це...
+      nkjv: Why do you cry about your affliction? Your sorrow is incurable. Because of
+        the multitude of your iniquities, Because your sins have increased, I
+        have done these things to you.
+      desnitsky: ""
+      mt: ‫   מַה־תִּזְעַק עַל־שִׁבְרֵךְ אָנוּשׁ מַכְאֹבֵךְ עַל רֹב עֲוֺנֵךְ עָצְמוּ
+        חַטֹּאתַיִךְ עָשִׂיתִי אֵלֶּה לָךְ׃ ‬
+      romana: De ce te plangi de rana ta? Durerea ta este de nevindecat? Dupa multimea
+        faradelegilor tale ti-am facut aceasta, pentru ca se inmultisera
+        pacatele tale.
+      francais: Pourquoi te plaindre de ta blessure, De la douleur que cause ton mal?
+        C'est à cause de la multitude de tes iniquités, Du grand nombre de tes
+        péchés, Que je t'ai fait souffrir ces choses.
+      italian: Perché gridi per la ferita? Incurabile è la tua piaga. A causa della
+        tua grande iniquità, dei molti tuoi peccati, io ti ho fatto questi mali.
+      old_georgian: რასა ჰჴმობ შემუსრვასა შენსა ზედა? იძულებით არს ლმობა შენი
+        სიმრავლისათჳს უსჯულოებათა შენთაჲსა, რამეთუ განძლიერდეს რაჲ ცოდვანი
+        შენნი, გიყუნეს შენ ესენი.
+      portuguese: "Por que gritas por causa da tua fratura? tua dor é incurável. Por
+        ser grande a tua culpa, e por se terem\rmultiplicado os teus pecados, é
+        que te fiz estas coisas."
+      polish: "Dlaczego krzyczysz z powodu twej rany, że ból twój nie da się
+        uśmierzyć?\rPrzez wielką twoją nieprawość i liczne twoje grzechy to ci
+        uczyniłem."
+      turkish: "Neden haykırıyorsun yarandan ötürü?\rYaran şifa bulmaz.\rSuçlarının
+        çokluğu ve sayısız günahın yüzünden Getirdim bunları başına."
+      nrt: Что ты кричишь о своей ране, о неисцелимом увечье? За тяжесть твоей вины, и
+        за множество грехов Я поступил так с тобой.
+      Macarius: Что вопиешь от ран своих, от мучительной боли своей? За множество
+        беззаконий твоих, за то, что велики грехи твои, Я это сделал тебе.
+      serbian: Зашто вичеш због ране своје, смртнога бола својега? За мноштво безакоња
+        твојега, за силне гријехе твоје чиним ти то.
+      bulgarian: Защо викаш ти от раните си, от лютините на твоята болест? За многото
+        твои беззакония ти сторих това, понеже твоите грехове се умножиха.
+      Olesn: "Что ты кричишь о поражении своем, Болезненной ране своей?\rЗа великую
+        вину твою, \rЗа многочисленные грех твои\rЭто ли Я должен был сделать
+        тебе?"
+      deutsch: Was schreist du über deinen Schaden und über dein verzweifelt böses
+        Leiden? Habe ich dir doch solches getan um deiner großen Missetat und um
+        deiner starken Sünden willen.
+      ukr2: Чого ж кричиш, що в ранах єси? Біль твій не вигоюється? Це ж за твою тяжку
+        провину, за гріхів твоїх безліч вчинив я тобі це лихо.
+      ukr3: Чого ж кричиш, що ти поранений, що біль твій тяжкий? Се ж за многі провини
+        твої, за безлїч гріхів твоїх я вчинив тобі теє.
+      bel_syomukha: Што ты енчыш пра раны твае, пра жорсткасьць хваробы тваёй? за
+        мноства беззаконьняў тваіх Я зрабіў табе гэта, бо грахі твае
+        памножыліся.
+      czech: Proc kricis pro svou tezkou ranu, ze je tva bolest nevylecitelna?
+        Zpusobil jsem ti to pro mnozstvi tvych nepravosti, pro tve nescislne
+        hrichy.
+      spanish: ¿A qué gritas por tu herida? Es incurable tu mal. Por tus grandes
+        maldades, por la magnitud de tus pecados, te he tratado así.
+      greek-lxx: ""
+      st_text: Что вопиешь ты о ранах твоих, о жестокости болезни твоей? по множеству
+        беззаконий твоих Я сделал тебе это, потому что грехи твои умножились.
+  - id: 15811
+    number: 16
+    bookId: 29
+    text: Но все пожирающие тебя будут пожраны; и все враги твои, все сами пойдут в
+      плен, и опустошители твои будут опустошены, и всех грабителей твоих предам
+      грабежу.
+    chapter: 30
+    chapterId: 896
+    parallels:
+      - verseId: 21682
+        bookId: 2
+        bookCode: ishod
+        chapter: 23
+        short: Исх:23:22
+      - verseId: 20463
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 33
+        short: Ис:33:1
+      - verseId: 20651
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 41
+        short: Ис:41:11
+      - verseId: 16426
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 51
+        short: Иер:51:24
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Того ради вси ядущии тя изъядени будут, и вси врази твои плоть их всю
+        изъядят: во множестве неправды твоея умножишася греси твои, сотвориша
+        сия тебе: и будут разграбляющии тя в разграбление, и всех пленяющих тя
+        дам во пленение."
+      averincev: ""
+      ungerov: "Посему, все поедающие тебя будут поедены, и все враги твои плоть свою
+        всю поедят, — по множеству неправды твоей умножились грехи твои: они
+        сделали тебе это, — и будут грабители твои ограблены, и всех пленителей
+        твоих Я отдам в плен."
+      csya_old: "Тогw2 рaди вси2 kдyщіи тS и3з8zде1ни бyдутъ, и3 вси2 врази2 твои2
+        пло1ть и4хъ всю2 и3з8zдsтъ: во мно1жествэ непрaвды твоеS ўмно1жишасz
+        грэси2 твои2, сотвори1ша сі‰ тебЁ: и3 бyдутъ разграблsющіи тS въ
+        разграбле1ніе, и3 всёхъ плэнsющихъ тS дaмъ во плэне1ніе."
+      sovr_rbo: Но все, кто тебя пожирал, пожраны будут, кто тебя притеснял, уйдет в
+        изгнанье! Те, кто грабил тебя, будут ограблены, кто брал у тебя добычу —
+        их самих Я сделаю добычей!
+      latin: "Propterea omnes qui comedunt te devorabuntur, et universi hostes tui in
+        captivitatem ducentur: et qui te vastant vastabuntur, cunctosque
+        praedatores tuos dabo in praedam."
+      ukr: Тому всі, що тебе поїдають, поїджені будуть, а всі вороги твої всі вони
+        підуть в полон, і стануть здобиччю ті, хто тебе обдирає, а всіх, хто
+        грабує тебе, на грабунок віддам!
+      nkjv: "'Therefore all those who devour you shall be devoured; And all your
+        adversaries, every one of them, shall go into captivity; Those who
+        plunder you shall become plunder, And all who prey upon you I will make
+        a prey. "
+      desnitsky: ""
+      mt: ‫   לָכֵן כָּל־אֹכְלַיִךְ יֵאָכֵלוּ וְכָל־צָרַיִךְ כֻּלָּם בַּשְּׁבִי
+        יֵלֵכוּ וְהָיוּ שֹׁאסַיִךְ לִמְשִׁסָּה וְכָל־בֹּזְזַיִךְ אֶתֵּן לָבַז׃ ‬
+      romana: Dar toti cei ce te mananca vor fi mancati si toti vrajmasii tai vor
+        merge si ei toti in robie si toti jefuitorii tai vor fi jefuiti.
+      francais: Cependant, tous ceux qui te dévorent seront dévorés, Et tout tes
+        ennemis, tous, iront en captivité; Ceux qui te dépouillent seront
+        dépouillés, Et j'abandonnerai au pillage tous ceux qui te pillent.
+      italian: Però quanti ti divorano saranno divorati, i tuoi oppressori andranno
+        tutti in schiavitù; i tuoi saccheggiatori saranno abbandonati al
+        saccheggio e saranno oggetto di preda quanti ti hanno depredato.
+      old_georgian: ამისთჳს ყოველნივე მჭამელნი შენნი შეიჭამნენ და ყოველთა მტერთა შენთა
+        ყოველი ჴორცი მათი მოიჭამონ. სიმრავლესა ზედა უსამართლოებათა შენთასა
+        განმრავლდეს ცოდვანი შენნი, გიყვნეს შენ ესენი და ყოველნი. მაჭირვებელნი
+        შენნი ტყუეობად მიმართ წარვიდენ, და იყვნენ განმყოფელნი შენნი განსაყოფელ.
+        და ყოველნი წარმტყუენველნი თქუენნი მივსცნე წარსატყუენველად.
+      portuguese: "Portanto todos os que te devoram serão devorados, e todos os teus
+        adversários irão, todos eles, para o\rcativeiro; e os que te roubam
+        serão roubados, e a todos os que te saqueiam entregarei ao saque."
+      polish: "Wszyscy jednak, co cię chcieli pochłonąć, sami ulegną pożarciu.
+        Wszyscy,\rco ciebie uciskali, pójdą w niewolę. Ci, co grabili ciebie
+        zostaną ograbieni.\rWszystkich tych, co łupili ciebie, wydam na łup."
+      turkish: "Ama seni yiyenlerin hepsi yem olacak, Bütün düşmanların sürgüne
+        gidecek.\rSeni soyanlar soyulacak,\rYağmalayanlar yağmalanacak."
+      nrt: Но будут уничтожены все, кто тебя уничтожает; все твои неприятели будут
+        уведены в плен. Будут разорены все, кто тебя разоряет; будут ограблены
+        все, кто тебя грабит.
+      Macarius: Но за то все, пожирающие тебя, будут пожраны, и все враги твои, все
+        они в плен пойдут, и будут опустошены опустошители твои, и всех
+        разорителей твоих предам на разорение.
+      serbian: Али сви који те прождиру, прождријеће се, и непријатељи твоји свиколики
+        отићи ће у ропство, и који те газе, биће погажени, и све који те
+        плијене, даћу их да се оплијене.
+      bulgarian: Но всички, които те поглъщат, ще бъдат погълнати; и всички твои
+        врагове - всички ще отидат в плен, и твоите опустошители ще бъдат
+        опустошени, и всички твои грабители ще предам на грабеж.
+      Olesn: "Но все поглощающие тебя будут поглощены И все решительно притеснители
+        твои в плен\rпойдут \rВсе опустошители твои будут преданы опустошению\rИ
+        всех грабителей твоих предам грабежу."
+      deutsch: Darum alle, die dich gefressen haben, sollen gefressen werden, und
+        alle, die dich geängstet haben, sollen alle gefangen werden; die dich
+        beraubt haben sollen beraubt werden, und alle, die dich geplündert
+        haben, sollen geplündert werden.
+      ukr2: Але й усі, що жеруть тебе, будуть пожерті; всі вороги твої - усі підуть у
+        неволю, грабіжники твої будуть обдерті; всіх здирців твоїх на луп я
+        видам.
+      ukr3: Та всї, що тебе жеруть, будуть пожерті; всї вороги твої пійдуть у неволю;
+        ті що тебе пустошили, будуть спустошені, і всї, що тебе гарбали, будуть
+        загарбані.
+      bel_syomukha: Але ўсе, хто пажырае цябе, будуць зжэртыя; і ўсе ворагі твае - усе
+        самі пойдуць у палон, і спусташальнікі твае будуць спустошаныя, і ўсіх
+        рабаўнікоў тваіх аддам на рабунак.
+      czech: Avsak vsichni, kdo te poziraji, budou pozreni, vsichni tvoji protivnici
+        do jednoho pujdou do zajeti. Kdo te pleni, budou popleneni, vsechny, kdo
+        te loupi, vydam k oloupeni.
+      spanish: Pero todos los que te devoraron serán devorados, tus enemigos irán
+        todos al destierro. Tus saqueadores serán saqueados, y tus expoliadores
+        serán expoliados.
+      greek-lxx: διὰ τοῦτο πάντες οἱ ἔσθοντές σε βρωθήσονται καὶ πάντες οἱ ἐχθροί σου
+        κρέας αὐτῶν πᾶν ἔδονται ἐπὶ πλῆθος ἀδικιῶν σου ἐπληθύνθησαν αἱ ἁμαρτίαι
+        σου ἐποίησαν ταῦτά σοι καὶ ἔσονται οἱ διαφοροῦντές σε εἰς διαφόρημα καὶ
+        πάντας τοὺς προνομεύοντάς σε δώσω εἰς προνομήν
+      st_text: Но все пожирающие тебя будут пожраны; и все враги твои, все сами пойдут
+        в плен, и опустошители твои будут опустошены, и всех грабителей твоих
+        предам грабежу.
+  - id: 15812
+    number: 17
+    bookId: 29
+    text: 'Я обложу тебя пластырем и исцелю тебя от ран твоих, говорит Господь. Тебя
+      называли отверженным, говоря: "вот Сион, о котором никто не спрашивает";'
+    chapter: 30
+    chapterId: 896
+    parallels:
+      - verseId: 15909
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 33
+        short: Иер:33:6
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Яко обяжу язву твою и от ран твоих уврачую тя, рече Господь: яко
+        расточенным называху тя, сионе ловитва наша есть, яко несть взыскающаго
+        его."
+      averincev: ""
+      ungerov: Ибо Я обвяжу язву твою, и от ран твоих исцелю тебя, говорит Господь,
+        ибо разсеянным называли тебя, Сион, это — "наша добыча, которой никто не
+        ищет".
+      csya_old: "Ћкw њбzжY ћзву твою2 и3 t р†нъ твои1хъ ўврачyю тS, рече2 гDь: ћкw
+        расточе1ннымъ назывaху тS, сіHне лови1тва нaша є4сть, ћкw нёсть
+        взыскaющагw є3гw2."
+      sovr_rbo: "Я дам тебе исцеленье, от ран тебя вылечу, — говорит Господь. —
+        Называли тебя отвергнутой: «Вот она, столица на Сионе, никому она не
+        нужна!»"
+      latin: "Obducam enim cicatricem tibi, et a vulneribus tuis sanabo te, dicit
+        Dominus. Quia electam vocaverunt te, Sion: haec est, quae non habebat
+        requirentem."
+      ukr: Бо вирощу шкурку на рані тобі, і з пораз тебе вилікую, говорить Господь, бо
+        відкинута звано тебе, ти, Сіонська дочка, якої ніхто не шукає.
+      nkjv: "For I will restore health to you And heal you of your wounds,' says the
+        Lord, 'Because they called you an outcast saying: \"This is Zion; No one
+        seeks her.\" ' "
+      desnitsky: ""
+      mt: ‫   כִּי אַעֲלֶה אֲרֻכָה לָךְ וּמִמַּכּוֹתַיִךְ אֶרְפָּאֵךְ נְאֻם־יְהוָה
+        כִּי נִדָּחָה קָרְאוּ לָךְ צִיּוֹן הִיא דֹּרֵשׁ אֵין לָהּ׃ ס ‬
+      romana: 'Si iti voi lega ranile si te voi vindeca, zice Domnul. Ca ei te numesc:
+        "Cel izgonit", "Sionul, de care nu mai intreaba nimeni!"'
+      francais: Mais je te guérirai, je panserai tes plaies, Dit l'Éternel. Car ils
+        t'appellent la repoussée, Cette Sion dont nul ne prend souci.
+      italian: Farò infatti cicatrizzare la tua ferita e ti guarirò dalle tue piaghe.
+        Parola del Signore. Poiché ti chiamano la ripudiata, o Sion, quella di
+        cui nessuno si cura",
+      old_georgian: რამეთუ მოვაწინე კურნებანი შენნი, წყლულისაგან სალმობიერისა
+        განგკურნო შენ, - თქუა უფალმან, - რამეთუ განთესულად იწოდე, იონ, ნადირი
+        თქუენი არს, რამეთუ მეძიებელი არა არს მისი.
+      portuguese: "Pois te restaurarei a saúde e te sararei as feridas, diz o Senhor;
+        porque te chamaram a repudiada, dizendo: É\rSião, à qual já ninguém
+        procura."
+      polish: "Albowiem przywrócę ci zdrowie i z ran ciebie uleczę - wyrocznia Pana -
+        gdyż\rnazywają cię ”Odrzuconą”, Syjonie, ”o którą się nikt nie
+        troszczy””."
+      turkish: "Ama ben seni sağlığına kavuşturacak, Yaralarını iyileştireceğim' diyor
+        RAB, `Çünkü Siyon itilmiş,\rOnu arayan soran yok diyorlar.'"
+      nrt: "А Я дам тебе исцеление, и залечу твои раны, – возвещает Господь, – потому
+        что тебя назвали отверженным: «Вот Сион, о котором никто не заботится»."
+      Macarius: "Ибо обложу тебя целебными врачевствами, и исцелю тебя от ран твоих,
+        говорит Иегова; ибо они называли тебя отверженным: «это Сион, о котором
+        никто не вопрошает»."
+      serbian: "Јер ћу те исцијелити и ране ћу ти излијечити, говори Господ, јер те
+        зваше отјераном: Сионом којега нико не тражи."
+      bulgarian: 'Ще те обложа с пластир и ще изцеря твоите рани, казва Господ. Тебе
+        наричаха отхвърлен, думайки: "ето Сион, за който никой не пита";'
+      Olesn: "А тебе приложу повязку \rИ от ран твоих исцелю тебя,\r — Слово Иеговы —
+        \rТебя, котораго называют «прогнанным»\r«Сионом, ни кому не нужным»."
+      deutsch: Aber dich will ich wieder gesund machen und deine Wunden heilen,
+        spricht der Herr, darum daß man dich nennt die Verstoßene und Zion, nach
+        der niemand frage.
+      ukr2: Я перев'яжу твої рани і вигою тебе від болячки, - слово Господнє. А що
+        відкинутим, Сіоне, тебе звано ще й занедбаним,
+      ukr3: "Я перевяжу рани твої та й вигою й знаки по них, говорить Господь. Тебе
+        звали одкиненим, говорили: Ось Сион, що про його нїхто й не питає!"
+      bel_syomukha: 'Я абкладу цябе пластырам і вылечу цябе ад ранаў тваіх, кажа
+        Гасподзь. Цябе называлі адкідам, кажучы: "вось Сіён, пра які ніхто ня
+        пытаецца".'
+      czech: Zahojim a vylecim tve rany, je vyrok Hospodinuv. Nazyvali te zapuzenou;
+        rikali o tobe:,To je ten Sijon' nikdo jej nevyhledava.'"
+      spanish: Ciertamente te restituiré a la salud, pues voy a sanar tus heridas —
+        oráculo de Yavé —, porque te llamaron la <<Desterrada>>, Sión, de quien
+        nadie se cuida.
+      greek-lxx: ὅτι ἀνάξω τὸ ἴαμά σου ἀπὸ πληγῆς ὀδυνηρᾶς ἰατρεύσω σε φησὶν Κύριος
+        ὅτι ἐσπαρμένη ἐκλήθης θήρευμα ὑμῶν ἐστιν ὅτι ζητῶν οὐκ ἔστιν αὐτήν
+      st_text: 'Я обложу тебя пластырем и исцелю тебя от ран твоих, говорит Господь.
+        Тебя называли отверженным, говоря: "вот Сион, о котором никто не
+        спрашивает";'
+  - id: 15813
+    number: 18
+    bookId: 29
+    text: "так говорит Господь: вот, возвращу плен шатров Иакова и селения его
+      помилую; и город опять будет построен на холме своем, и храм устроится
+      по-прежнему."
+    chapter: 30
+    chapterId: 896
+    parallels:
+      - verseId: 15842
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 31
+        short: Иер:31:23
+      - verseId: 37074
+        bookId: 45
+        bookCode: kniga-proroka-zaharii
+        chapter: 8
+        short: Зах:8:7
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Тако глаголет Господь: се, аз возвращу преселение иаковле и пленники его
+        помилую, и возградится град в высоту свою, и храм по чину своему
+        утвердится:"
+      averincev: ""
+      ungerov: "Так говорит Господь: вот Я возвращу переселенных Иакова и пленников
+        его помилую, и построится город на высоте своей, и храм по чину своему
+        устроится."
+      csya_old: "Тaкw гlетъ гDь: се2, ѓзъ возвращY преселе1ніе їaкwвле и3 плённики
+        є3гw2 поми1лую, и3 возгради1тсz грaдъ въ высотY свою2, и3 хрaмъ по чи1ну
+        своемY ўтверди1тсz:"
+      sovr_rbo: "Так говорит Господь: Я вновь поставлю шатры Иакова, над его жилищами
+        смилуюсь! На руинах поднимется город, на прежнем месте дворец встанет."
+      latin: "Haec dicit Dominus: Ecce ego convertam conversionem tabernaculorum
+        Jacob, et tectis ejus miserebor, et aedificabitur civitas in excelso
+        suo, et templum juxta ordinem suum fundabitur:"
+      ukr: "Так говорить Господь: Ось Я поверну з полону шатра Яковові, і змилуюся над
+        місцями його пробування, і на пагірку своїм побудується місто, а палац
+        осядеться на відповідному місці своїм."
+      nkjv: "\"Thus says the Lord: 'Behold, I will bring back the captivity of Jacob's
+        tents, And have mercy on his dwelling places; The city shall be built
+        upon its own mound, And the palace shall remain according to its own
+        plan. "
+      desnitsky: ""
+      mt: ‫   כֹּה אָמַר יְהוָה הִנְנִי־שָׁב שְׁבוּת אָהֳלֵי יַעֲקוֹב וּמִשְׁכְּנֹתָיו
+        אֲרַחֵם וְנִבְנְתָה עִיר עַל־תִּלָּהּ וְאַרְמוֹן עַל־מִשְׁפָּטוֹ יֵשֵׁב׃
+        ‬
+      romana: 'Asa zice Domnul: "Iata voi restatornici corturile lui Iacov si
+        salasurile lui le voi milui; cetatea va fi zidita iar pe dealul sau si
+        templul se va zidi ca mai inainte.'
+      francais: "Ainsi parle l'Éternel: Voici, je ramène les captifs des tentes de
+        Jacob, J'ai compassion de ses demeures; La ville sera rebâtie sur ses
+        ruines, Le palais sera rétabli comme il était."
+      italian: Così dice il Signore. "Ecco, restaurerò la sorte delle tende di
+        Giacobbe e avrò compassione delle sue dimore. La città sarà ricostruita
+        sulle rovine e il palazzo sorgerà di nuovo al suo posto.
+      old_georgian: "ამათ იტყჳს უფალი: აჰა, მე მოვაქციო განსახლვაჲ საყოფელთა
+        იაკობისთაჲ, და ტყუეობაჲ მისი შევიწყალო. და აღეშენოს ქალაქი სიმაღლესა
+        ზედა მისსა და ტაძარი მსჯავრისაებრ მისისა აღემართოს."
+      portuguese: "Assim diz o Senhor: Eis que acabarei o cativeiro das tendas de
+        Jacó, e apiedarme-ei das suas moradas; e a\rcidade será reedificada
+        sobre o seu montão, e o palácio permanecerá como habitualmente."
+      polish: "To mówi Pan: ”Oto przywrócę do poprzedniego stanu namioty Jakuba
+        i\rokażę miłosierdzie nad jego siedzibami. Miasto zostanie wzniesione na
+        swych\rruinach, a pałace staną na swoim miejscu."
+      turkish: "«RAB diyor ki,\r`Yakup'un çadırlarını eski gönencine kavuşturacağım,
+        Konutlarına acıyacağım.\rYeruşalim höyük üzerinde yeniden kurulacak,
+        Saray kendi yerinde duracak."
+      nrt: "Так говорит Господь: – Я восстановлю шатры Иакова, и пожалею его жилища;
+        поднимется город из руин, и дворец будет возобновлен."
+      Macarius: "Так говорит Иегова: се! Я возвращу плен шатров Иакова, и селения его
+        помилую; и построен будет город на развалинах своих, и в чертогах будут
+        жить как должно."
+      serbian: "Овако вели Господ: Ево, ја ћу повратити из ропства шаторе Јаковљеве и
+        смиловаћу се на станове његове; и град ће се сазидати на мјесту свом, и
+        двор ће стајати на свој начин."
+      bulgarian: "тъй казва Господ: ето, ще върна пленените от шатрите на Иакова и ще
+        се смиля над селищата му, - и градът пак ще бъде построен на своя хълм,
+        и храмът ще бъде възстановен, както си беше."
+      Olesn: "Так говорит Иегова: \rВот Я переменю судьбу шатров Иакова И жилищам его
+        окажу милость,\rЧтобы был построен город на холме своем И храм на
+        прежнем месте оставался,"
+      deutsch: "So spricht der Herr: Siehe, ich will das Gefängnis der Hütten Jakobs
+        wenden und mich über seine Wohnungen erbarmen, und die Stadt soll wieder
+        auf ihre Hügel gebaut werden, und der Tempel soll stehen nach seiner
+        Weise."
+      ukr2: "то так говорить Господь: Я поверну з неволі намети Якова, зглянусь на
+        його оселі, міста постануть знову зо своїх розвалищ, і палаци стоятимуть
+        на своїм місці."
+      ukr3: "Так Господь ось як говорить: Ось, я заверну з полону шатра (родини)
+        Яковові та й змилосерджуся над господами його, й побудуєсь наново місто
+        на узгіррю свойму, та й храм построїться по давному."
+      bel_syomukha: "так кажа Гасподзь: вось, вярну палон намётаў Якава і селішчы
+        ягоныя памілую, - і горад зноў будзе пабудаваны на пагорку сваім, і храм
+        уладкуецца як раней."
+      czech: 'Toto pravi Hospodin: "Hle, zmenim udel Jakobovych stanu, slituji se nad
+        jeho pribytky. Mesto bude vystaveno na svych sutinach a palac bude
+        obyvan podle sveho radu.'
+      spanish: "Así dice Yavé: He aquí que voy a restablecer los tabernáculos de
+        Jacob, y me compadeceré de sus tiendas, y se reedificará la ciudad sobre
+        su teso de ruinas, y el palacio se asentará en su debido lugar."
+      greek-lxx: οὕτως εἶπεν Κύριος ἰδοὺ ἐγὼ ἀποστρέψω τὴν ἀποικίαν Ιακωβ καὶ
+        αἰχμαλωσίαν αὐτοῦ ἐλεήσω καὶ οἰκοδομηθήσεται πόλις ἐπὶ τὸ ὕψος αὐτῆς καὶ
+        ὁ ναὸς κατὰ τὸ κρίμα αὐτοῦ καθεδεῖται
+      st_text: "так говорит Господь: вот, возвращу плен шатров Иакова и селения его
+        помилую; и город опять будет построен на холме своем, и храм устроится
+        по-прежнему."
+  - id: 15814
+    number: 19
+    bookId: 29
+    text: И вознесутся из них благодарение и голос веселящихся; и Я умножу их, и не
+      будут умаляться, и прославлю их, и не будут унижены.
+    chapter: 30
+    chapterId: 896
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и изыдут из него поющии и глас играющих, и умножу я, и не умалятся.
+      averincev: ""
+      ungerov: И вознесутся из него голоса поющих и веселящихся, и умножу их, и не
+        умалятся.
+      csya_old: и3 и3зы1дутъ и3з8 негw2 пою1щіи и3 глaсъ и3грaющихъ, и3 ўмно1жу |, и3
+        не ўмaлzтсz.
+      sovr_rbo: Вознесут они хвалебные молитвы, возликуют шумно! Я умножу их, впредь
+        не станет их меньше, возвеличу их — не будут они унижены.
+      latin: "et egredietur de eis laus, voxque ludentium. Et multiplicabo eos, et non
+        minuentur: et glorificabo eos, et non attenuabuntur."
+      ukr: І вийде подяка із них та голос радіючих, і Я їх помножу, і не буде їх мало,
+        і прославлю Я їх і не будуть принижені!
+      nkjv: Then out of them shall proceed thanksgiving And the voice of those who
+        make merry; I will multiply them, and they shall not diminish; I will
+        also glorify them, and they shall not be small.
+      desnitsky: ""
+      mt: ‫   וְיָצָא מֵהֶם תּוֹדָה וְקוֹל מְשַׂחֲקִים וְהִרְבִּתִים וְלֹא יִמְעָטוּ
+        וְהִכְבַּדְתִּים וְלֹא יִצְעָרוּ׃ ‬
+      romana: Se vor inalta din ele multumiri si glas de bucurie; ii voi inmulti si nu
+        vor mai fi imputinati, ii voi incununa cu glorie si nu vor mai fi
+        injositi.
+      francais: Du milieu d'eux s'élèveront des actions de grâces Et des cris de
+        réjouissance; Je les multiplierai, et ils ne diminueront pas; Je les
+        honorerai, et ils ne seront pas méprisés.
+      italian: Ne usciranno inni di lode, voci di gente festante. Li moltiplicherò e
+        non diminuiranno, li onorerò e non saranno disprezzati,
+      old_georgian: და გამოვიდენ მათგან მძნობარნი და ჴმაჲ მემღერთაჲ, და განვამრავლნენ
+        იგინი და არა შემცირდენ და განვფინნე იგინი და არა შეკნინდენ.
+      portuguese: E sairá deles ação de graças e a voz dos que se alegram; e
+        multiplicá-los-ei, e não serão diminuídos; glorificálos-ei, e não serão
+        apoucados.
+      polish: "Rozlegną się stamtąd hymny pochwalne i głosy pełne radości. Pomnożę
+        ich,\ri nie zmaleje ich liczba, przysporzę im chwały, by nimi nikt nie
+        pogardzał."
+      turkish: "Oralardan şükran ve sevinç sesleri duyulacak.\rSayılarını
+        çoğaltacağım, azalmayacaklar,\rOnları onurlandıracağım,
+        küçümsenmeyecekler."
+      nrt: Зазвучат там песни благодарности и голоса веселящихся. Я умножу их число,
+        они не будут редеть; Я их прославлю, они не канут в безвестность.
+      Macarius: И понесутся из них благодарения, и голоса веселящихся, и умножу их, и
+        не будут малиться, и прославлю их, и не будут низиться.
+      serbian: И из њих ће излазити хвале и глас људи веселијех, јер ћу их умножити, и
+        неће се умаљивати, и узвисићу их, и неће се понизити.
+      bulgarian: И ще се дигне от тях благодарност и глас на веселящи се; и Аз ще ги
+        размножа - и не ще се намаляват, и ще ги прославя - и не ще бъдат
+        унизени.
+      Olesn: "Чтобы слышны были в нем благодарения \rИ звуки играющих.\rЯ умножу их,
+        чтобы они не были малым народом\rПрославлю их, чтобы они не были
+        незаметными."
+      deutsch: Und soll von dannen herausgehen Lob-und Freudengesang; denn ich will
+        sie mehren und nicht mindern, ich will sie herrlich machen und nicht
+        geringer.
+      ukr2: І вийде від них подяка й веселий голос. Я їх намножу, не поменшу. Я їх
+        прославлю, не зневажу.
+      ukr3: І понесеться з них подяка й лунати муть веселощі; й буду намножувати їх, а
+        не поменшувати, й доведу їх до честї, й не дам їх зневажати.
+      bel_syomukha: І ўзьнясуцца зь іх падзяка і голас разьвяселеных; і Я памножу іх,
+        і ня будуць меншыцца, і праслаўлю іх, і ня будуць прыніжаныя.
+      czech: Zazni jejich dekovna pisen a hlasity smich. Rozmnozim je, nebude jich
+        ubyvat, oslavim je, nebude jich malo.
+      spanish: Y saldrán de ellos cantos de alabanza y voces de los que se alegran, y
+        los multiplicaré, y no serán disminuidos; los engrandeceré, y no serán
+        empequeñecidos.
+      greek-lxx: καὶ ἐξελεύσονται ἀπ᾿ αὐτῶν ᾄδοντες καὶ φωνὴ παιζόντων καὶ πλεονάσω
+        αὐτούς καὶ οὐ μὴ ἐλαττωθῶσιν
+      st_text: И вознесутся из них благодарение и голос веселящихся; и Я умножу их, и
+        не будут умаляться, и прославлю их, и не будут унижены.
+  - id: 15815
+    number: 20
+    bookId: 29
+    text: И сыновья его будут, как прежде, и сонм его будет предстоять предо Мною, и
+      накажу всех притеснителей его.
+    chapter: 30
+    chapterId: 896
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И внидут сынове их якоже и прежде, и свидения их пред лицем моим
+        исправятся: и посещу на вся стужающыя им,"
+      averincev: ""
+      ungerov: И войдут сыновья их, как прежде, и собрания их пред Лицем Моим будут
+        правильно устрояться, и накажу всех притеснителей их.
+      csya_old: "И# вни1дутъ сы1нове и4хъ ћкоже и3 пре1жде, и3 свидBніz и4хъ пред8
+        лице1мъ мои1мъ и3спрaвzтсz: и3 посэщY на вс‰ стужaющыz и5мъ,"
+      sovr_rbo: Сыновья их будут как прежде, община их предо Мной укрепится,
+        притеснителей их покараю!
+      latin: Et erunt filii ejus sicut a principio, et coetus ejus coram me
+        permanebit, et visitabo adversum omnes qui tribulant eum.
+      ukr: І сини його стануть, як перше, а збір його буде міцний перед лицем Моїм, і
+        Я покараю всіх тих, хто його переслідує!
+      nkjv: Their children also shall be as before, And their congregation shall be
+        established before Me; And I will punish all who oppress them.
+      desnitsky: ""
+      mt: ‫   וְהָיוּ בָנָיו כְּקֶדֶם וַעֲדָתוֹ לְפָנַי תִּכּוֹן וּפָקַדְתִּי עַל
+        כָּל־לֹחֲצָיו׃ ‬
+      romana: Fiii lui Iacov vor fi ca mai inainte, adunarea lui va sta inaintea Mea
+        si Eu voi pedepsi pe toti asupritorii lui.
+      francais: Ses fils seront comme autrefois, Son assemblée subsistera devant moi,
+        Et je châtierai tous ses oppresseurs.
+      italian: i loro figli saranno come una volta. la loro assemblea sarà stabile
+        dinanzi a me; mentre punirò i loro avversari.
+      old_georgian: და შევიდენ ძენი მათნი, ვითარცა პირველად, და წამებანი მათნი წინაშე
+        პირსა ჩემსა განმართლდენ და ზედმივიხილო ყოველთა ზედა მაჭირვებელთა მათთა.
+      portuguese: "E seus filhos serão como na antigüidade, e a sua congregação será
+        estabelecida diante de mim, e castigarei\rtodos os seus opressores."
+      polish: "Jego synowie będą tak jak dawniej i jego zgromadzenie powstanie
+        wobec\rMnie; ukarzę natomiast wszystkich jego ciemięzców."
+      turkish: "Çocukları eskisi gibi olacak,\rToplulukları önümde sağlam
+        duracak;\rOnlara baskı yapanların hepsini cezalandıracağım."
+      nrt: Их сыновья будут как прежде, их общество утвердится предо Мной. Я накажу
+        всех, кто их притесняет.
+      Macarius: И будут у него сыновья как древле; и сонм их будет предстоять предо
+        Мною, и пересмотрю всех мучителей его.
+      serbian: И синови ће његови бити као прије, и збор ће његов бити утврђен преда
+        мном, и походићу све који му чине силу.
+      bulgarian: И синовете му ще бъдат, както преди, и събранието му ще предстои пред
+        Мене, и ще накажа всичките му притеснители.
+      Olesn: "И будут сыновья у него как прежде\rИ общество его предо Мною будет
+        стоять\rтвердо,\rЯ буду наказывать всех мучителей его."
+      deutsch: Ihre Söhne sollen sein gleichwie vormals und ihre Gemeinde vor mir
+        gedeihen; denn ich will heimsuchen alle, die sie plagen.
+      ukr2: Сини їхні будуть як за днів давніх, громада їхня стоятиме передо мною
+        твердо. Усіх же їхніх гнобителів я покараю.
+      ukr3: С ини Яковові будуть у мене такими, як перше, й громада його стояти ме
+        передо мною твердо; усїх же гонителїв його буду карати.
+      bel_syomukha: І сыны ягоныя будуць, як раней, і гурт ягоны будзе стаяць перад
+        Мною, і пакараю ўсіх уціскальнікаў ягоных.
+      czech: Jeho synu bude jako kdysi, jeho pospolitost prede mnou obstoji. Vsechny
+        jeho utlacovatele ztrestam.
+      spanish: Y serán sus hijos como en el pasado, y su congregación estará firme
+        ante mí, y castigaré a todos sus opresores.
+      greek-lxx: καὶ εἰσελεύσονται οἱ υἱοὶ αὐτῶν ὡς τὸ πρότερον καὶ τὰ μαρτύρια αὐτῶν
+        κατὰ πρόσωπόν μου ὀρθωθήσεται καὶ ἐπισκέψομαι τοὺς θλίβοντας αὐτούς
+      st_text: И сыновья его будут, как прежде, и сонм его будет предстоять предо
+        Мною, и накажу всех притеснителей его.
+  - id: 15816
+    number: 21
+    bookId: 29
+    text: И будет вождь его из него самого, и владыка его произойдет из среды его; и
+      Я приближу его, и он приступит ко Мне; ибо кто отважится сам собою
+      приблизиться ко Мне? говорит Господь.
+    chapter: 30
+    chapterId: 896
+    parallels:
+      - verseId: 31668
+        bookId: 22
+        bookCode: psaltir
+        chapter: 39
+        short: Пс:39:8
+      - verseId: 26115
+        bookId: 40
+        bookCode: kniga-proroka-mihea
+        chapter: 5
+        short: Мих:5:2
+      - verseId: 18473
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 4
+        short: Ин:4:34
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и будут крепльшии его на ня, и князь его из него изыдет: и соберу я, и
+        обратятся ко мне: кто бо есть той, иже приложит сердце свое обратитися
+        ко мне? рече Господь."
+      averincev: ""
+      ungerov: И крепчайшие его будут против них, и Князь его выйдет из среды его, и
+        соберу их, и обратятся ко Мне, ибо кто отважится в сердце своем
+        обратиться ко Мне? говорит Господь.
+      csya_old: "и3 бyдутъ крёпльшіи є3гw2 на нS, и3 кнsзь є3гw2 и3з8 негw2 и3зы1детъ:
+        и3 соберY |, и3 њбратsтсz ко мнЁ: кто1 бо є4сть то1й, и4же приложи1тъ
+        се1рдце свое2 њбрати1тисz ко мнЁ; рече2 гDь."
+      sovr_rbo: Вождь их — из их числа будет, их владыка — из их среды выйдет. Я
+        приближу его, ко Мне он будет близок. Ведь кто посмеет приблизиться ко
+        Мне самовольно? — говорит Господь. —
+      latin: "Et erit dux ejus ex eo, et princeps de medio ejus producetur: et
+        applicabo eum, et accedet ad me. Quis enim iste est qui applicet cor
+        suum ut appropinquet mihi? ait Dominus:"
+      ukr: І буде із нього Потужний його, і постане Володар його з-поміж нього, й Я
+        наближу Його, й Він підійде до Мене! Бо хто є такий, що наразить життя
+        своє на небезпеку, щоб до Мене наблизитись? каже Господь.
+      nkjv: "Their nobles shall be from among them, And their governor shall come from
+        their midst; Then I will cause him to draw near, And he shall approach
+        Me; For who is this who pledged his heart to approach Me?' says the
+        Lord. "
+      desnitsky: ""
+      mt: ‫   וְהָיָה אַדִּירוֹ מִמֶּנּוּ וּמֹשְׁלוֹ מִקִּרְבּוֹ יֵצֵא וְהִקְרַבְתִּיו
+        וְנִגַּשׁ אֵלָי כִּי מִי הוּא־זֶה עָרַב אֶת־לִבּוֹ לָגֶשֶׁת אֵלַי
+        נְאֻם־יְהוָה׃ ‬
+      romana: "Capetenia lui va fi din el si stapanul lui se va ridica din mijlocul
+        lui; il voi apropia si se va apropia de Mine: ca cine va indrazni sa se
+        apropie singur de Mine? - zice Domnul."
+      francais: Son chef sera tiré de son sein, Son dominateur sortira du milieu de
+        lui; Je le ferai approcher, et il viendra vers moi; Car qui oserait de
+        luimême s'approcher de moi? Dit l'Éternel.
+      italian: Il loro capo sarà uno di essi e da essi uscirà il loro comandante; io
+        lo farò avvicinare ed egli si accosterà a me. Poiché chi è colui che
+        arrischia la vita per avvicinarsi a me? Oracolo del Signore.
+      old_georgian: და იყვნენ უძლიერესნი მათნი მათ ზედა, და მთავარი მათი მათგან
+        გამოვიდეს და შევკრიბნე იგინი და მოიქცენ ჩემდა, რამეთუ ვინ არს ესე,
+        რომელმან მისცა გული თჳსი მოქცევად ჩემდამო? - თქუა უფალმან.
+      portuguese: "E o seu príncipe será deles, e o seu governador sairá do meio
+        deles; e o farei aproximar, e ele se chegará a mim.\rPois quem por si
+        mesmo ousaria chegar-se a mim? diz o Senhor."
+      polish: "A jego władca będzie spośród niego, panujący jego będzie od niego
+        pochodził. Zapewnię mu dostęp do Siebie, tak że się zbliży do Mnie. Bo
+        kto inaczej\rmiałby odwagę zbliżyć się do Mnie? - wyrocznia Pana."
+      turkish: "Önderleri kendilerinden biri olacak,\rYöneticileri kendi aralarından
+        çıkacak.\rOnu kendime yaklaştıracağım,\rBana yaklaşacak.\rKim canı
+        pahasına yaklaşabilir bana?' diyor RAB."
+      nrt: Их вождь будет одним из них, их правитель выйдет из их среды. Я приближу
+        его, и он приблизится ко Мне; разве кто-нибудь посмеет приблизиться ко
+        Мне самовольно? – возвещает Господь. –
+      Macarius: И будет вождь его от него же, и владыка его произойдет из среды его; и
+        Я приближу его, и он будет близок ко Мне; ибо кто отважится в сердце
+        своем приступить ко Мне? говорит Иегова.
+      serbian: И кнез ће њихов бити од њих, и владалац ће њихов излазити испред њих; и
+        даћу му да приступа, и приступаће к мени; јер ко је тај који се усуђује
+        приступити к мени? говори Господ.
+      bulgarian: И ще излезе из самия него вожд, и владетелят му ще произлезе изсред
+        него; и Аз ще го привлека, и ще дойде при Мене; защото кой се решава сам
+        от себе си да приближи до Мене? казва Господ.
+      Olesn: "И будет властелин у него из него же\rИ правитель его из среди его
+        выйдет,\rЯ позволю ему приступить и быть вблизи\rМеня,\rПотому что кто
+        тот, который решился бы сам приблизиться во Мне?\r — Слово Иеговы."
+      deutsch: Und ihr Fürst soll aus ihnen herkommen und ihr Herrscher von ihnen
+        ausgehen, und er soll zu mir nahen; denn wer ist der, so mit willigem
+        Herzen zu mir naht? spricht der Herr.
+      ukr2: І вийде князь їхній із їхнього лона і володар їхній з них самих постане. Я
+        пригорну його, і він до мене прийде, бо й хто ж би зважився сам собою до
+        мене приступити? - слово Господнє.
+      ukr3: І вийде гетьман його з него самого, й володарь його народиться зпосеред
+        него; й я пригорну його, й він приступить до мене; бо й хто ж би
+        зважився сам приступити до мене? говорить Господь.
+      bel_syomukha: І будзе правадыр ягоны зь яго самога, і валадар ягоны будзе
+        паходзіць з асяродзьдзя яго; і Я набліжу яго і ён падступіцца да Мяне;
+        бо хто наважыцца сам па сабе наблізіцца да Мяне? кажа Гасподзь.
+      czech: Jeho vzneseny vudce bude pochazet z neho, jeho vladce vzejde z jeho
+        stredu. Dovolim mu priblizit se a on bude ke mne pristupovat. Kdo by se
+        sam mohl odvazit ke mne pristupovat? je vyrok Hospodinuv.
+      spanish: Y su jefe saldrá de ella misma, de en medio de ella saldrá su soberano,
+        y yo le haré acercarse y se allegará a mí, pues ¿quién, si no,
+        intentaría acercarse a mí?, oráculo de Yavé.
+      greek-lxx: καὶ ἔσονται ἰσχυρότεροι αὐτοῦ ἐπ᾿ αὐτούς καὶ ὁ ἄρχων αὐτοῦ ἐξ αὐτοῦ
+        ἐξελεύσεται καὶ συνάξω αὐτούς καὶ ἀποστρέψουσιν πρός με ὅτι τίς ἐστιν
+        οὗτος ὃς ἔδωκεν τὴν καρδίαν αὐτοῦ ἀποστρέψαι πρός με φησὶν Κύριος
+      st_text: И будет вождь его из него самого, и владыка его произойдет из среды
+        его; и Я приближу его, и он приступит ко Мне; ибо кто отважится сам
+        собою приблизиться ко Мне? говорит Господь.
+  - id: 15817
+    number: 22
+    bookId: 29
+    text: И вы будете Моим народом, и Я буду вам Богом.
+    chapter: 30
+    chapterId: 896
+    parallels:
+      - verseId: 15634
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 24
+        short: Иер:24:7
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И будете ми в люди, и аз вам буду в Бога.
+      averincev: ""
+      ungerov: И будете Мне народом и Я буду вам Богом.
+      csya_old: И# бyдете ми2 въ лю1ди, и3 ѓзъ вaмъ бyду въ бг7а.
+      sovr_rbo: И будете вы Моим народом, Я буду вашим Богом!
+      latin: et eritis mihi in populum, et ego ero vobis in Deum.
+      ukr: І станете ви народом Мені, а Я буду вам Богом!
+      nkjv: "'You shall be My people, And I will be your God.' \" "
+      desnitsky: ""
+      mt: ‫   וִהְיִיתֶם לִי לְעָם וְאָנֹכִי אֶהְיֶה לָכֶם לֵאלֹהִים׃ ס ‬
+      romana: Voi veti fi poporul Meu, si Eu voi fi Dumnezeul vostru.
+      francais: Vous serez mon peuple, Et je serai votre Dieu.
+      italian: Voi sarete il mio popolo e io il vostro Dio.
+      old_georgian: და იყვნეთ ჩემდა ერად და მე ვიყო თქუენდა ღმრთად,
+      portuguese: E vós sereis o meu povo, e eu serei o vosso Deus.
+      polish: Wy będziecie moim narodem, a Ja będę waszym Bogiem.
+      turkish: «`Böylece siz benim halkım olacaksınız, Ben de sizin Tanrınız olacağım.'
+      nrt: И вы будете Моим народом, а Я буду вашим Богом.
+      Macarius: И вы будете Моим народом, и Я буду вашим Богом.
+      serbian: И бићете ми народ, и ја ћу вам бити Бог.
+      bulgarian: И вие ще бъдете Мой народ, и Аз ще ви бъда Бог.
+      Olesn: "Тогда вы будете Мне народом,\r А Я буду вам Богом."
+      deutsch: Und ihr sollt mein Volk sein, und ich will euer Gott sein.
+      ukr2: Ви будете моїм народом, я ж буду вашим Богом.
+      ukr3: І будете ви моїм народом, а я буду вашим Богом.
+      bel_syomukha: І вы будзеце Маім народам, і Я буду вам Богам.
+      czech: Budete mym lidem a ja vam budu Bohem."
+      spanish: Y vosotros seréis mi pueblo, y yo seré vuestro Dios.
+      greek-lxx: ""
+      st_text: И вы будете Моим народом, и Я буду вам Богом.
+  - id: 15818
+    number: 23
+    bookId: 29
+    text: Вот, яростный вихрь идет от Господа, вихрь грозный; он падет на голову
+      нечестивых.
+    chapter: 30
+    chapterId: 896
+    parallels:
+      - verseId: 15606
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 23
+        short: Иер:23:19
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Яко гнев Господень изыде яр, изыде гнев обращаемь, на нечестивыя приидет.
+      averincev: ""
+      ungerov: Ибо гнев Господень яростный вышел, гнев стремительный вышел, пойдет на
+        нечестивых.
+      csya_old: Ћкw гнёвъ гDень и3зы1де ћръ, и3зы1де гнёвъ њбращaемь, на нечєсти1выz
+        пріи1детъ.
+      sovr_rbo: Вот ураган Господень поднялся в ярости! Ураган несется, на головы
+        злодеев он обрушится!
+      latin: "Ecce turbo Domini, furor egrediens, procella ruens: in capite impiorum
+        conquiescet."
+      ukr: Ось буря Господня, лютість виходить, а вихор крутливий на голову безбожних
+        упаде.
+      nkjv: Behold, the whirlwind of the Lord Goes forth with fury, A continuing
+        whirlwind; It will fall violently on the head of the wicked.
+      desnitsky: ""
+      mt: ‫   הִנֵּה סַעֲרַת יְהוָה חֵמָה יָצְאָה סַעַר מִתְגּוֹרֵר עַל רֹאשׁ
+        רְשָׁעִים יָחוּל׃ ‬
+      romana: Iata vijelie salbatica vine de la Domnul, vijelie groaznica, si va cadea
+        pe capul necredinciosilor.
+      francais: Voici, la tempête de l'Éternel, la fureur éclate, L'orage se
+        précipite, Il fond sur la tête des méchants.
+      italian: Ecco la tempesta del Signore, il suo furore si scatena, una tempesta
+        travolgente; si abbatte sul capo dei malvagi.
+      old_georgian: რამეთუ რისხვაჲ უფლისაჲ გამოვიდა გულისწყრომით, გამოვიდა რისხვაჲ
+        მიქცეული უთნოთა ზედა
+      portuguese: "Eis a tempestade do Senhor! A sua indignação já saiu, uma
+        tempestade varredora; cairá cruelmente sobre a\rcabeça dos ímpios."
+      polish: Oto wichura idzie od Pana, powstaje burza, spadnie ona na głowę
+        niegodziwych.
+      turkish: İşte RAB'bin fırtınası öfkeyle kopacak, Şiddetli kasırgası kötülerin
+        başında patlayacak.
+      nrt: Вот, буря Господня разразится яростью, сильный смерч закружится над
+        головами нечестивых!
+      Macarius: Се, буря Иеговы; гнев пойдет, вихрь поднимется, над головою
+        беззаконных будет крутиться.
+      serbian: Гле, вихор Господњи, гњев, изићи ће, вихор, који не престаје, пашће на
+        главу безбожницима.
+      bulgarian: Ето, яростният вихър иде от Господа, вихър страшен; той ще падне
+        върху главата на нечестивците.
+      Olesn: "Вот буря Иеговы \rЯростно выходит, Вихрь вращающийся \rНад головою
+        нечестивых кружится."
+      deutsch: Siehe, es wird ein Wetter des Herrn mit Grimm kommen; ein schreckliches
+        Ungewitter wird den Gottlosen auf den Kopf fallen.
+      ukr2: Ось буревій Господній, гнів вибухнув, розбушувалась буря й ударила на
+        голову безбожних.
+      ukr3: Ось, гнїв Господень зривається хуртовиною, буря грізна; вона спадає на
+        голову безбожних!
+      bel_syomukha: Вось, лютая віхура ідзе ад Госпада, віхура грозная; яна ідзе на
+        галаву бязбожнікаў.
+      czech: Hle, vichr Hospodinuv! Vzplalo rozhorceni. Vichr je tu hostem, staci se
+        na hlavu svevolniku.
+      spanish: He aquí que el huracán de la ira divina se desencadena y una tempestad
+        se desata y descargará sobre la cabeza de los malvados.
+      greek-lxx: ὅτι ὀργὴ Κυρίου ἐξῆλθεν θυμώδης ἐξῆλθεν ὀργὴ στρεφομένη ἐπ᾿ ἀσεβεῖς ἥξει
+      st_text: Вот, яростный вихрь идет от Господа, вихрь грозный; он падет на голову
+        нечестивых.
+  - id: 15819
+    number: 24
+    bookId: 29
+    text: Пламенный гнев Господа не отвратится, доколе Он не совершит и не выполнит
+      намерений сердца Своего. В последние дни уразумеете это.
+    chapter: 30
+    chapterId: 896
+    parallels:
+      - verseId: 15607
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 23
+        short: Иер:23:20
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Не отвратится гнев ярости Господни, дондеже сотворит и дондеже исполнит
+        умышление сердца своего: в последния дни познаете я."
+      averincev: ""
+      ungerov: Не возвратится гнев ярости Господней, пока Он не совершит и не исполнит
+        помысла сердца Своего. В последние дни уразумеете сие.
+      csya_old: "Не tврати1тсz гнёвъ ћрости гDни, до1ндеже сотвори1тъ и3 до1ндеже
+        и3спо1лнитъ ўмышле1ніе се1рдца своегw2: въ послBдніz дни6 познaете |."
+      sovr_rbo: Не утихнет яростный гнев Господа, пока Он не свершит, не исполнит
+        замысел Своего сердца. В дни грядущие вы это поймете.
+      latin: "Non avertet iram indignationis Dominus, donec faciat et compleat
+        cogitationem cordis sui: in novissimo dierum intelligetis ea."
+      ukr: Не спиниться полум'я гніву Господнього, поки Свого не зробить, і поки не
+        виконає замірів серця Свого, ви наприкінці днів зрозумієте це!
+      nkjv: The fierce anger of the Lord will not return until He has done it, And
+        until He has performed the intents of His heart. In the latter days you
+        will consider it.
+      desnitsky: ""
+      mt: ‫   לֹא יָשׁוּב חֲרוֹן אַף־יְהוָה עַד־עֲשֹׂתוֹ וְעַד־הֲקִימוֹ מְזִמּוֹת
+        לִבּוֹ בְּאַחֲרִית הַיָּמִים תִּתְבּוֹנְנוּ בָהּ׃ ‬
+      romana: Mania cea aprinsa a Domnului nu se va abate pana ce nu se va sfarsi si
+        nu se va implini gandul inimii Lui. In zilele cele de apoi veti pricepe
+        aceasta".
+      francais: La colère ardente de l'Éternel ne se calmera pas, Jusqu'à ce qu'il ait
+        accompli, exécuté les desseins de son coeur. Vous le comprendrez dans la
+        suite des temps.
+      italian: Non cesserà l'ira ardente del Signore, finché non abbia compiuto e
+        attuato i progetti del suo cuore. Alla fine dei giorni lo comprenderete!
+      old_georgian: მივიდა და არა უკუნიქცეს რისხვაჲ გულისწყრომისა უფლისაჲ, ვიდრემდის
+        ყოს და ვიდრემდის დაადგინოს ჴელ-ყოფაჲ გულისა მისისაჲ. უკანასკნელთა
+        დღეთასა ცნენით იგინი.
+      portuguese: "Não retrocederá o furor da ira do Senhor, até que ele tenha
+        executado, e até que tenha cumprido os desígnios do\rseu coração. Nos
+        últimos dias entendereis isso."
+      polish: "Nie ustanie palący gniew Pana, dopóki nie dokona On i nie
+        urzeczywistni\rzamiarów swego serca. Przy końcu dni to zrozumiecie."
+      turkish: "Aklının tasarladığını tümüyle yapana dek, RAB'bin kızgın öfkesi
+        dinmeyecek.\rSon günlerde bunu anlayacaksınız.»"
+      nrt: Пылающий гнев Господа не утихнет, пока не исполнит, пока не осуществит
+        замыслов Его сердца. В последующие дни вы это поймете.
+      Macarius: Палящий гнев Иеговы не успокоится, доколе Он не совершит, и доколе не
+        выполнит мыслей сердца Своего. В последовании дней уразумеете это.
+      serbian: Неће се повратити жестоки гњев Господњи докле не учини и изврши што је
+        наумио у срцу свом; напошљетку ћете разумјети то.
+      bulgarian: Пламенният гняв на Господа не ще се отвърне, докле не извърши и не
+        изпълни намерението на сърцето Си. В последните дни ще разберете това.
+      Olesn: "Не остановится ярость гнева Иеговы \rДоколе Он не совершит,\rДоколе не
+        исполнит намерений сердца своего.\rВ последние дни вы уразумеете это."
+      deutsch: Des Herrn grimmiger Zorn wird nicht nachlassen, bis er tue und
+        ausrichte, was er im Sinn hat; zur letzten Zeit werdet ihr solches
+        erfahren.
+      ukr2: І не відвернеться палкий гнів Господній, покіль не вчинить, не виконає
+        задумів серця свого. При кінці днів це стане вам зрозуміле.»
+      ukr3: Не відвернеться палкий гнїв Господень, аж докіль не докаже й не спевнить
+        задумів серця свого. Зрозумієте се в днях послїдних.
+      bel_syomukha: Палымяны гнеў Госпада не адвернецца, пакуль Ён ня зьдзейсьніць і
+        ня спраўдзіць намераў сэрца Свайго. У апошнія дні зразумееце гэта.
+      czech: Hospodinuv planouci hnev se neodvrati, dokud nevykona a nesplni zamery
+        jeho srdce. V poslednich dnech to pochopite.
+      spanish: No volverá atrás la cólera de Yavé hasta ejecutar y cumplir los
+        designios de su corazón. Vosotros los conoceréis al fin de los tiempos.
+      greek-lxx: οὐ μὴ ἀποστραφῇ ὀργὴ θυμοῦ Κυρίου ἕως ποιήσῃ καὶ ἕως καταστήσῃ
+        ἐγχείρημα καρδίας αὐτοῦ ἐπ᾿ ἐσχάτων τῶν ἡμερῶν γνώσεσθε αὐτά
+      st_text: Пламенный гнев Господа не отвратится, доколе Он не совершит и не
+        выполнит намерений сердца Своего. В последние дни уразумеете это.

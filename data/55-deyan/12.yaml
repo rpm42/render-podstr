@@ -1,0 +1,2122 @@
+id: 1213
+number: 12
+bookId: 55
+verseCount: 25
+title: Глава 12
+verses:
+  - id: 13114
+    number: 1
+    bookId: 55
+    text: В то время царь Ирод поднял руки на некоторых из принадлежащих к церкви,
+      чтобы сделать им зло,
+    chapter: 12
+    chapterId: 1213
+    parallels: []
+    translates:
+      kassian: А в то время царь Ирод наложил руки на некоторых, принадлежащих к
+        церкви, чтобы сделать им зло.
+      podstr: По тому же времени наложил Ирод царь руки [чтобы] причинить зло
+        некоторым из церкви.
+      csya: Во оно же время возложи ирод царь руце озлобити некия иже от Церкве,
+      averincev: ""
+      ungerov: ""
+      csya_old: Во џно же вре1мz возложи2 и4рwдъ цaрь рyцэ њѕло1бити нBкіz и5же t цRкве,
+      sovr_rbo: ""
+      latin: Eodem autem tempore misit Herodes rex manus, ut affligeret quosdam de
+        ecclesia.
+      ukr: А Цар Ірод тоді підніс руки, щоб декого з Церкви гнобити.
+      nkjv: Now about that time Herod the king stretched out his hand to harass some
+        from the church.
+      desnitsky: ""
+      tex_rec: Κατ᾿ ἐκεῖνον δὲ τὸν καιρὸν ἐπέβαλεν ῾Ηρῴδης ὁ βασιλεὺς τὰς χεῖρας
+        κακῶσαί τινας τῶν ἀπὸ τῆς ἐκκλησίας.
+      deutsch: Um diese Zeit legte der König Herodes die Hände an etliche von der
+        Gemeinde, sie zu peinigen.
+      spanish: Por aquel tiempo, el rey Herodes se apoderó de algunos de la iglesia
+        para atormentarles.
+      peshitta: ܒ݁ܗܰܘ ܕ݁ܶܝܢ ܙܰܒ݂ܢܳܐ ܐܰܪܡܺܝ ܗ݈ܘܳܐ ܐܺܝܕ݂ܰܝܳܐ ܥܰܠ ܐ݈ܢܳܫܺܝܢ ܕ݁ܰܒ݂ܥܺܕ݈݁ܬ݁ܳܐ
+        ܐܰܝܟ݂ ܕ݁ܢܰܒ݂ܶܐܫ ܠܗܽܘܢ ܗܶܪܳܘܕ݂ܶܣ ܡܰܠܟ݁ܳܐ ܗܰܘ ܕ݁ܡܶܬ݂ܟ݁ܰܢܶܐ ܗ݈ܘܳܐ
+        ܐܰܓ݂ܪܺܦ݁ܰܘܣ܂
+      bel_syomukha: Тым часам цар Ірад падняў рукі на некаторых людзей царквы, каб
+        зрабіць ім ліха,
+      nrt: Примерно в это же время царь Ирод арестовал некоторых членов церкви, чтобы
+        сделать им зло.
+      romana: Si in vremea aceea, regele Irod (Agripa) a pus mana pe unii din
+        Biserica, ca sa-i piarda.
+      francais: Vers le même temps, le roi Hérode se mit à maltraiter quelques membres
+        de l'Église,
+      italian: In quel tempo il re Erode cominciò a perseguitare alcuni membri della
+        Chiesa
+      old_georgian: მას ჟამსა შინა ჴელი მიყო ჰეროდე მეფემან ძჳრის ყოფად რომელთამე
+        ეკლესიისაგანთა
+      portuguese: Por aquele mesmo tempo o rei Herodes estendeu as mãos sobre alguns
+        da igreja, para os maltratar;
+      polish: W tym także czasie Herod zaczął prześladować niektórych członków
+        Kościoła.
+      new_text: Примерно в то же время царь Ирод начал гонения на некоторых членов
+        церкви.
+      serbian: А у оно вријеме подиже цар Ирод руке да мучи неке од Цркве.
+      bulgarian: В това време цар Ирод тури ръка на някои от църквата, за да им стори зло,
+      ukr2: Під ту пору цар Ірод підняв руку, щоб гнобити деяких із Церкви.
+      ukr3: Під той же час здвигнув цар Ірод руки, щоб мучити деяких із церкви.
+      czech: V te dobe kral Herodes krute zasahl proti nekterym bratrim.
+      st_text: В то время царь Ирод поднял руки на некоторых из принадлежащих к
+        церкви, чтобы сделать им зло,
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 13115
+    number: 2
+    bookId: 55
+    text: и убил Иакова, брата Иоаннова, мечом.
+    chapter: 12
+    chapterId: 1213
+    parallels:
+      - verseId: 25434
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 20
+        short: Мф:20:23
+    translates:
+      kassian: Он убил Иакова, брата Иоаннова, мечем.
+      podstr: Он убил же Иакова брата Иоанна мечом.
+      csya: "уби же иакова, брата иоаннова, мечем:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "ўби1 же їaкwва, брaта їwaннова, мече1мъ:"
+      sovr_rbo: ""
+      latin: Occidit autem Jacobum fratrem Joannis gladio.
+      ukr: І мечем він стяв Якова, брата Іванового.
+      nkjv: Then he killed James the brother of John with the sword.
+      desnitsky: ""
+      tex_rec: ἀνεῖλε δὲ ᾿Ιάκωβον τὸν ἀδελφὸν ᾿Ιωάννου μαχαίρᾳ.
+      deutsch: Er tötete aber Jakobus, den Bruder des Johannes, mit dem Schwert.
+      spanish: Dio muerte a Santiago, hermano de Juan, por la espada.
+      peshitta: ܘܰܩܛܰܠ ܒ݁ܣܰܝܦ݁ܳܐ ܠܝܰܥܩܽܘܒ݂ ܐܰܚܽܘܗ݈ܝ ܕ݁ܝܽܘܚܰܢܳܢ܂
+      bel_syomukha: і забіў Якава, брата Янавага, мечам;
+      nrt: Он приказал убить мечом Иакова, брата Иоанна.
+      romana: Si a ucis cu sabia pe Iacov, fratele lui Ioan.
+      francais: et il fit mourir par l'épée Jacques, frère de Jean.
+      italian: e fece uccidere di spada Giacomo, fratello di Giovanni.
+      old_georgian: და მოკლა იაკობ, ძმაჲ იოვანესი, მახჳლითა.
+      portuguese: e matou à espada Tiago, irmão de João.
+      polish: Ściął mieczem Jakuba, brata Jana,
+      new_text: Он обезглавил Иакова, брата Иоанна.
+      serbian: И погуби Јакова брата Јовановог мачем.
+      bulgarian: и уби с меч Иакова, брата Иоанов.
+      ukr2: Він стяв мечем Якова, Йоанового брата.
+      ukr3: Вбив же Якова, брата Йоанового, мечем,
+      czech: Mecem dal popravit Jakuba, bratra Janova.
+      st_text: и убил Иакова, брата Иоаннова, мечом.
+  - id: 13116
+    number: 3
+    bookId: 55
+    text: Видя же, что это приятно Иудеям, вслед за тем взял и Петра, - тогда были
+      дни опресноков, -
+    chapter: 12
+    chapterId: 1213
+    parallels: []
+    translates:
+      kassian: Увидев же, что это приятно Иудеям, решил задержать кроме того и Петра;
+        а были дни Опресноков.
+      podstr: Увидевший же что угодно оно есть Иудеям он прибавил взять и Петра были
+        же дни опресноков,
+      csya: "и видев, яко годе есть иудеем, приложи яти и петра: бяху же дние
+        опресночнии:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 ви1дэвъ, ћкw го1дэ є4сть їуде1ємъ, приложи2 ћти и3 петрA: бsху же
+        днjе њпрэсно1чніи:"
+      sovr_rbo: ""
+      latin: Videns autem quia placeret Judaeis, apposuit ut apprehenderet et Petrum.
+        Erant autem dies Azymorum.
+      ukr: А бачивши, що подобалося це юдеям, він задумав схопити й Петра. Були ж дні
+        Опрісноків.
+      nkjv: And because he saw that it pleased the Jews, he proceeded further to seize
+        Peter also. Now it was during the Days of Unleavened Bread.
+      desnitsky: ""
+      tex_rec: καὶ ἰδὼν ὅτι ἀρεστόν ἐστι τοῖς ᾿Ιουδαίοις, προσέθετο συλλαβεῖν καὶ
+        Πέτρον· ἦσαν δὲ αἱ ἡμέραι τῶν ἀζύμων·
+      deutsch: Und da er sah, daß es den Juden gefiel, fuhr er fort und fing Petrus
+        auch. Es waren aber eben die Tage der süßen Brote.
+      spanish: Viendo que esto era grato a los judíos, llegó a prender también a Pedro.
+      peshitta: ܘܟ݂ܰܕ݂ ܚܙܳܐ ܕ݁ܫܶܦ݂ܪܰܬ݂ ܗܳܕ݂ܶܐ ܠܺܝܗܽܘܕ݂ܳܝܶܐ ܐܰܘܣܶܦ݂ ܗ݈ܘܳܐ ܠܡܶܐܚܰܕ݂ ܐܳܦ݂
+        ܠܫܶܡܥܽܘܢ ܟ݁ܺܐܦ݂ܳܐ ܘܺܐܝܬ݂ܰܝܗܽܘܢ ܗ݈ܘܰܘ ܝܰܘܡܳܬ݂ܳܐ ܕ݁ܦ݂ܰܛܺܝܪܶܐ܂
+      bel_syomukha: а ўбачыўшы, што гэта даспадобы Юдэям, сьледам за тым узяў і Пятра,
+        - тады былі дні праснакоў, -
+      nrt: Когда он увидел, что иудеи этим довольны, он арестовал и Петра. Это
+        произошло во время праздника Пресных хлебов.
+      romana: Si vazand ca este pe placul iudeilor, a mai luat si pe Petru, (si erau
+        zilele Azimelor)
+      francais: Voyant que cela était agréable aux Juifs, il fit encore arrêter
+        Pierre. - C'était pendant les jours des pains sans levain. -
+      italian: Vedendo che questo era gradito ai Giudei, decise di arrestare anche
+        Pietro. Erano quelli i giorni degli Azzimi.
+      old_georgian: და ვითარცა იხილა, რამეთუ სათნო უჩნდა ჰურიათა მათ, შესძინა
+        შეპყრობაჲ პეტრესიცა. ხოლო იყვნეს დღენი იგი უცომოებისანი.
+      portuguese: "Vendo que isso agradava aos judeus, continuou, mandando prender
+        também a Pedro. (Eram então os dias dos\r
+
+        pães ázimos.)"
+      polish: "a gdy spostrzegł, że to spodobało się Żydom, uwięził nadto Piotra. A
+        były\r
+
+        to dni Przaśników."
+      new_text: Увидев, что евреям это пришлось по нраву, он арестовал и Петра. Это
+        было во время праздника Пресных Хлебов.
+      serbian: И видјевши да је то по вољи Јудејцима, настојаше да ухвати и Петра; а
+        бијаху дани бесквасних хљебова.
+      bulgarian: А като видя, че това се понрави на иудеите, хвана и Петра - тогава
+        бяха дните на Безквасници, -
+      ukr2: Побачивши, що це подобалося юдеям, він звелів, крім того, ще й Петра
+        схопити; а були дні Опрісноків.
+      ukr3: а видївши, що се подобаєть ся Жидам, постановив схопити й Петра. (Були ж
+        днї опрісноків.)
+      czech: Kdyz videl, ze si tim ziskal zidy, rozkazal zatknout take Petra. Byly
+        prave velikonoce.
+      st_text: Видя же, что это приятно Иудеям, вслед за тем взял и Петра, - тогда
+        были дни опресноков, -
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 13117
+    number: 4
+    bookId: 55
+    text: "и, задержав его, посадил в темницу, и приказал четырем четверицам воинов
+      стеречь его, намереваясь после Пасхи вывести его к \r
+
+      народу."
+    chapter: 12
+    chapterId: 1213
+    parallels: []
+    translates:
+      kassian: Он и взял его, посадил в тюрьму и поручил четырем четверицам воинов
+        стеречь его, намереваясь после Пасхи вывести его к народу.
+      podstr: которого и схвативший он поместил в тюрьму, передавший четырём четвёркам
+        воинов стеречь его, хотящий после пасхи возвести его народу.
+      csya: егоже и емь всади в темницу, предав четырем четверицам воинов стрещи его,
+        хотя по пасце извести его к людем.
+      averincev: ""
+      ungerov: ""
+      csya_old: є3го1же и3 є4мь всади2 въ темни1цу, предaвъ четы1ремъ четвери1цамъ
+        во1инwвъ стрещи2 є3го2, хотS по пaсцэ и3звести2 є3го2 къ лю1демъ.
+      sovr_rbo: ""
+      latin: Quem cum apprehendisset, misit in carcerem, tradens quatuor
+        quaternionibus militum custodiendum, volens post Pascha producere eum
+        populo.
+      ukr: І, схопивши його, посадив до в'язниці, і передав чотирьом чвіркам вояків,
+        щоб його стерегли, бажаючи вивести людям його по Пасці.
+      nkjv: So when he had arrested him, he put him in prison, and delivered him to
+        four squads of soldiers to keep him, intending to bring him before the
+        people after Passover.
+      desnitsky: ""
+      tex_rec: ὃν καὶ πιάσας ἔθετο εἰς φυλακήν, παραδοὺς τέσσαρσι τετραδίοις
+        στρατιωτῶν φυλάσσειν αὐτόν, βουλόμενος μετὰ τὸ πάσχα ἀναγαγεῖν αὐτὸν τῷ
+        λαῷ.
+      deutsch: Da er ihn nun griff, legte er ihn ins Gefängnis und überantwortete ihn
+        vier Rotten, je von vier Kriegsknechten, ihn zu bewahren, und gedachte,
+        ihn nach Ostern dem Volk vorzustellen.
+      spanish: Era por los días de los Acimos, y cogiéndole, le metió en la cárcel,
+        encargando su guarda a cuatro escuadras de soldados con el propósito de
+        exhibirle al pueblo después de la Pascua.
+      peshitta: ܘܰܐܚܕ݁ܶܗ ܘܰܐܪܡܝܶܗ ܒ݁ܶܝܬ݂ ܐܰܣܺܝܪܶܐ ܘܰܐܫܠܶܡ ܠܶܗ ܫܬ݂ܬ݂ܰܥܣܰܪ ܣܛܪܰܛܳܘܛܺܝܢ
+        ܕ݁ܢܶܛܪܽܘܢܶܗ ܕ݁ܡܶܢ ܒ݁ܳܬ݂ܰܪ ܦ݁ܶܨܚܳܐ ܢܰܫܠܡܺܝܘܗ݈ܝ ܠܥܰܡܳܐ ܕ݁ܺܝܗܽܘܕ݂ܳܝܶܐ܂
+      bel_syomukha: і, затрымаўшы яго, пасадзіў у цямніцу і загадаў чатыром
+        чацьверыкам воінаў вартаваць яго, маючы намер пасьля Пасхі вывесьці яго
+        да людзей.
+      nrt: Петра арестовали, заточили в тюрьму и выставили охрану из четырех смен
+        караула по четыре человека в каждой. Ирод намеревался после Пасхи
+        вывести Петра к народу.
+      romana: Pe care si prinzandu-l l-a bagat in temnita, dandu-l la patru straji de
+        cate patru ostasi, ca sa-l pazeasca, vrand sa-l scoata la popor dupa
+        Pasti.
+      francais: Après l'avoir saisi et jeté en prison, il le mit sous la garde de
+        quatre escouades de quatre soldats chacune, avec l'intention de le faire
+        comparaître devant le peuple après la Pâque.
+      italian: Fattolo catturare, lo gettò in prigione, consegnandolo in custodia a
+        quattro picchetti di quattro soldati ciascuno, col proposito di farlo
+        comparire davanti al popolo dopo la Pasqua.
+      old_georgian: და შე-რაჲ-იპყრა იგი, შესუა საპყრობილესა და მისცა იგი ოთხთა
+        ოთხეულთა ერისაგანთა ცვად. ესრეთ ეგულებოდა, რაჲთა შემდგომად ზატიკისა
+        აღიყვანოს იგი და მისცეს ერსა მას.
+      portuguese: "E, havendo-o prendido, lançou-o na prisão, entregando-o a quatro
+        grupos de quatro soldados cada um para o\r
+
+        guardarem, tencionando apresentá-lo ao povo depois da páscoa."
+      polish: "Kiedy go pojmał, osadził w więzieniu i oddał pod straż czterech
+        oddziałów,\r
+
+        po czterech żołnierzy każdy, zamierzając po Święcie Paschy wydać
+        go ludowi."
+      new_text: Схватив Петра, он велел держать его в тюрьме, назначив для его охраны
+        четыре смены караула по четыре воина в каждой смене. Сразу же после
+        праздника Пасхи он намеревался судить его в присутствии народа.
+      serbian: Њега и ухвати и баци у тамницу, и предаде га четирима стражама од по
+        четири војника да га чувају, намјеравајући да га послије Пасхе изведе
+        пред народ.
+      bulgarian: и, като го задържа, хвърли го в тъмница и го предаде на четири
+        четворки войници да го пазят, като мислеше след Пасха да го изведе пред
+        народа.
+      ukr2: Схопивши його, він посадив його у в'язницю і передав чотирьом чвіркам
+        вояків, щоб стерегли його, бажаючи вивести його перед народ по Пасці.
+      ukr3: І схопивши його, посадив у темницю, передавши чотиром четверицям воїнів
+        стерегти його, задумавши після пасхи вивести його перед народ.
+      czech: Zmocnil se ho, dal ho zavrit do vezeni a hlidat ctyrmi strazemi po
+        ctyrech vojacich. Chtel ho po velikonocich verejne soudit.
+      st_text: "и, задержав его, посадил в темницу, и приказал четырем четверицам
+        воинов стеречь его, намереваясь после Пасхи вывести его к \r
+
+        народу."
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 13118
+    number: 5
+    bookId: 55
+    text: Итак Петра стерегли в темнице, между тем церковь прилежно молилась о нем
+      Богу.
+    chapter: 12
+    chapterId: 1213
+    parallels: []
+    translates:
+      kassian: Итак, Петра стерегли в тюрьме, а церковь усердно молилась о нем Богу.
+      podstr: Ведь итак Пётр был охраняем в тюрьме; молитва же была усердно делаемая
+        церковью к Богу о нём.
+      csya: "И убо петра стрежаху в темнице: молитва же бе прилежна бываемая от Церкве
+        к Богу о нем."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# ќбw петрA стрежaху въ темни1цэ: моли1тва же бЁ прилёжна бывaемаz t
+        цRкве къ бг7у њ не1мъ."
+      sovr_rbo: ""
+      latin: Et Petrus quidem servabatur in carcere. Oratio autem fiebant sine
+        intermissione ab ecclesia ad Deum pro eo.
+      ukr: Отож, у в'язниці Петра стерегли, а Церква ревно молилася Богові за нього.
+      nkjv: Peter was therefore kept in prison, but constant prayer was offered to God
+        for him by the church.
+      desnitsky: ""
+      tex_rec: ὁ μὲν οὖν Πέτρος ἐτηρεῖτο ἐν τῇ φυλακῇ· προσευχὴ δὲ ἦν ἐκτενὴς γινομένη
+        ὑπὸ τῆς ἐκκλησίας πρὸς τὸν Θεὸν ὑπὲρ αὐτοῦ.
+      deutsch: Und Petrus ward zwar im Gefängnis gehalten; aber die Gemeinde betete
+        ohne Aufhören für ihn zu Gott.
+      spanish: En efecto, Pedro era custodiado en la cárcel; pero la Iglesia oraba
+        instantemente a Dios por él.
+      peshitta: ܘܟ݂ܰܕ݂ ܗܽܘ ܫܶܡܥܽܘܢ ܡܶܬ݂ܢܛܰܪ ܗ݈ܘܳܐ ܒ݁ܶܝܬ݂ ܐܰܣܺܝܪܶܐ ܨܠܽܘܬ݂ܳܐ ܐܰܡܺܝܢܬ݁ܳܐ
+        ܡܶܬ݂ܩܰܪܒ݂ܳܐ ܗ݈ܘܳܬ݂ ܡܶܢ ܥܺܕ݈݁ܬ݁ܳܐ ܚܠܳܦ݂ܰܘܗ݈ܝ ܠܰܐܠܳܗܳܐ܂
+      bel_syomukha: І так Пятра вартавалі ў цемры; тым часам царква рупліва малілася
+        за яго Богу.
+      nrt: Петр был под стражей в тюрьме, а церковь горячо молилась о нем Богу.
+      romana: Deci Petru era pazit in temnita si se facea necontenit rugaciune catre
+        Dumnezeu pentru el, de catre Biserica.
+      francais: Pierre donc était gardé dans la prison; et l'Église ne cessait
+        d'adresser pour lui des prières à Dieu.
+      italian: Pietro dunque era tenuto in prigione, mentre una preghiera saliva
+        incessantemente a Dio dalla Chiesa per lui.
+      old_georgian: და პეტრე ცვულ იყო საპყრობილესა მას შინა. ხოლო ლოცვაჲ გულს-მოდგინედ
+        იყოფოდა ეკლესიათა მიერ ღმრთისა მიმართ მისთჳს.
+      portuguese: Pedro, pois, estava guardado na prisão; mas a igreja orava com
+        insistência a Deus por ele.
+      polish: "Strzeżono więc Piotra w więzieniu, a Kościół modlił się za niego
+        nieustannie\rdo Boga."
+      new_text: Все это время Петра держали в тюрьме, а церковь неустанно молилась за
+        него Богу.
+      serbian: Петра, дакле, чуваху у тамници, а Црква се усрдно мољаше за њега Богу.
+      bulgarian: И тъй, Петър беше пазен в тъмницата; а в това време църквата
+        непрестанно се молеше Богу за него.
+      ukr2: Отож, Петра стерегли у в'язниці, а Церква молилася горливо Богові за
+        нього.
+      ukr3: Стережено ж Петра в темницї; церква ж без перестану молилась Богу за него.
+      czech: Petra tedy strezili ve vezeni a cirkev se za nej stale modlila k Bohu.
+      st_text: Итак Петра стерегли в темнице, между тем церковь прилежно молилась о
+        нем Богу.
+  - id: 13119
+    number: 6
+    bookId: 55
+    text: "Когда же Ирод хотел вывести его, в ту ночь Петр спал между двумя воинами,
+      скованный двумя цепями, и стражи у дверей стерегли \r
+
+      темницу."
+    chapter: 12
+    chapterId: 1213
+    parallels: []
+    translates:
+      kassian: Когда же Ирод собирался вывести его, - в ту ночь Петр спал между двумя
+        воинами, связанный двумя цепями, и стражи у двери стерегли тюрьму.
+      podstr: Когда же готовился вывести вперёд его Ирод, ночью той был Пётр спящий
+        между двумя [из] воинов связанный цепями двумя, тюремщики перед дверью
+        стерегли тюрьму.
+      csya: Егда же хотяше его извести ирод, в нощи той бе петр спя между двема
+        воинома, связан (железнома) ужема двема, стражие же пред дверьми
+        стрежаху темницы.
+      averincev: ""
+      ungerov: ""
+      csya_old: є3гдa же хотsше є3го2 и3звести2 и4рwдъ, въ нощи2 то1й бЁ пе1тръ спS
+        междY двэмA во1инома, свsзанъ (желёзнома) ќжема двэмA, стрaжіе же пред8
+        две1рьми стрежaху темни1цы.
+      sovr_rbo: ""
+      latin: "Cum autem producturus eum esset Herodes, in ipsa nocte erat Petrus
+        dormiens inter duos milites, vinctus catenis duabus: et custodes ante
+        ostium custodiebant carcerem."
+      ukr: А як Ірод хотів його вивести, Петро спав тієї ночі між двома вояками,
+        закутий у два ланцюги, і сторожа пильнувала в'язницю при дверях.
+      nkjv: And when Herod was about to bring him out, that night Peter was sleeping,
+        bound with two chains between two soldiers; and the guards before the
+        door were keeping the prison.
+      desnitsky: ""
+      tex_rec: ῞Οτε δὲ ἔμελλεν αὐτὸν προάγειν ὁ ῾Ηρῴδης, τῇ νυκτὶ ἐκείνῃ ἦν ὁ Πέτρος
+        κοιμώμενος μεταξὺ δύο στρατιωτῶν δεδεμένος ἁλύσεσι δυσί, φύλακές τε πρὸ
+        τῆς θύρας ἐτήρουν τὴν φυλακήν.
+      deutsch: Und da ihn Herodes wollte vorstellen, in derselben Nacht schlief Petrus
+        zwischen zwei Kriegsknechten, gebunden mit zwei Ketten, und die Hüter
+        vor der Tür hüteten das Gefängnis.
+      spanish: La noche anterior al día en que Herodes se proponía exhibirle al
+        pueblo, hallándose Pedro dormido entre los soldados, sujeto con dos
+        cadenas y guardada la puerta de la prisión por centinelas,
+      peshitta: ܘܒ݂ܶܗ ܒ݁ܗܰܘ ܠܺܠܝܳܐ ܕ݁ܰܠܨܰܦ݂ܪܳܐ ܥܬ݂ܺܝܕ݂ ܗ݈ܘܳܐ ܕ݁ܢܰܫܠܡܺܝܘܗ݈ܝ ܟ݁ܰܕ݂
+        ܕ݁ܡܶܟ݂ ܗ݈ܘܳܐ ܫܶܡܥܽܘܢ ܒ݁ܶܝܬ݂ ܬ݁ܪܶܝܢ ܐܶܣܛܪܰܛܺܝܳܘܛܺܝܢ ܘܰܐܣܺܝܪ ܗ݈ܘܳܐ
+        ܒ݁ܬ݂ܰܪܬ݁ܶܝܢ ܫܺܫܠܳܢ ܘܰܐ݈ܚܪܳܢܶܐ ܢܳܛܪܺܝܢ ܗ݈ܘܰܘ ܬ݁ܰܪܥܶܐ ܕ݁ܒ݂ܶܝܬ݂ ܐܰܣܺܝܪܶܐ܂
+      bel_syomukha: Калі ж Ірад хацеў вывесьці яго, у тую ноч Пётр спаў паміж двума
+        воінамі, скаваны двума ланцугамі, і ахова каля дзьвярэй вартавала
+        цямніцу.
+      nrt: В ночь перед тем, как Ирод должен был вывести его на суд, Петр спал между
+        двумя солдатами, скованный двумя цепями, а стражники у входа стерегли
+        тюрьму.
+      romana: Dar cand Irod era sa-l scoata afara, in noaptea aceea, Petru dormea
+        intre doi ostasi, legat cu doua lanturi, iar inaintea usii paznicii
+        pazeau temnita.
+      francais: La nuit qui précéda le jour où Hérode allait le faire comparaître,
+        Pierre, lié de deux chaînes, dormait entre deux soldats; et des
+        sentinelles devant la porte gardaient la prison.
+      italian: E in quella notte, quando poi Erode stava per farlo comparire davanti
+        al popolo, Pietro piantonato da due soldati e legato con due catene
+        stava dormendo, mentre davanti alla porta le sentinelle custodivano il
+        carcere.
+      old_georgian: რაჟამს უკუე ეგულებოდა ჰეროდეს გამოყვანებად და მიცემად ჴელთა მათთა,
+        მას ღამესა ეძინა პეტრეს შორის ორთა ერისაგანთა, შეკრულსა ჯაჭჳთა
+        მრჩობლითა, და მჴუმილნი იგი წინაშე კართა სცვიდეს საპყრობილესა მას.
+      portuguese: "Ora quando Herodes estava para apresentá-lo, nessa mesma noite
+        estava Pedro dormindo entre dois soldados,\racorrentado com duas cadeias
+        e as sentinelas diante da porta guardavam a prisão."
+      polish: "W nocy, po której Herod miał go wydać, Piotr, skuty podwójnym
+        łańcuchem,\rspał między dwoma żołnierzami, a strażnicy przed bramą
+        strzegli więzienia."
+      new_text: Ночью, накануне того дня, когда Ирод собирался вывести его, чтобы
+        судить перед народом, Петр спал между двух воинов, прикованный к ним
+        двумя цепями, а у дверей тюрьмы стояли еще стражники.
+      serbian: А када хтједе Ирод да га изведе, те ноћи спаваше Петар између двојице
+        војника, окован у двоје вериге, и стражари пред вратима чуваху тамницу.
+      bulgarian: А когато Ирод щеше да го изведе, през нея нощ Петър спеше между двама
+        войници, окован с две вериги, и стражари пред вратата пазеха тъмницата.
+      ukr2: Коли ж Ірод намірявся вивести його, Петро, закутий двома ланцюгами, спав
+        тієї ночі, між двома вояками, а сторожі при дверях стерегли в'язницю.
+      ukr3: Як же мав його вивести Ірод, спав тієї ночи Петр між двома воїнами,
+        скованли й двома залїзами; а сторожі перед дверима стерегли темницї.
+      czech: Noc predtim, kdy jej chtel Herodes predvest na soud, spal Petr mezi dvema
+        vojaky, spoutan dvema retezy, a straze pred dvermi hlidaly vezeni.
+      st_text: "Когда же Ирод хотел вывести его, в ту ночь Петр спал между двумя
+        воинами, скованный двумя цепями, и стражи у дверей стерегли \r
+
+        темницу."
+  - id: 13120
+    number: 7
+    bookId: 55
+    text: "И вот, Ангел Господень предстал, и свет осиял темницу. <i>Ангел</i>,
+      толкнув Петра в бок, пробудил его и сказал: встань скорее. И цепи \r
+
+      упали с рук его."
+    chapter: 12
+    chapterId: 1213
+    parallels: []
+    translates:
+      kassian: "И вот предстал ангел Господень, и свет воссиял в темнице. Толкнув
+        Петра в бок, он разбудил его, говоря: встань скорее. И спали цепи его с
+        рук."
+      podstr: И вот ангел Господа предстал, и свет засиял в помещении; ударивший же
+        бок Петра он поднял его говорящий, встань в скоре. И спали его цепи с
+        рук.
+      csya: "И се, ангел Господень предста, и свет возсия в храмине: толкнув же в
+        ребра петра, воздвиже его, глаголя: востани вскоре. И спадоша ему ужя
+        (железная) с руку."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# се2, ѓгг7лъ гDень предстA, и3 свётъ возсіS въ хрaминэ: толкнyвъ же
+        въ ре1бра петрA, воздви1же є3го2, глаго1лz: востaни вско1рэ. И# спадо1ша
+        є3мY ќжz (желёзнаz) съ рукY."
+      sovr_rbo: ""
+      latin: "Et ecce angelus Domini astitit: et lumen refulsit in habitaculo:
+        percussoque latere Petri, excitavit eum, dicens: Surge velociter. Et
+        ceciderunt catenae de manibus ejus."
+      ukr: "І ось Ангол Господній з'явився, і в в'язниці засяяло світло. І,
+        доторкнувшись до боку Петрового, він збудив його, кажучи: Мерщій
+        вставай! І ланцюги йому з рук поспадали."
+      nkjv: Now behold, an angel of the Lord stood by him, and a light shone in the
+        prison; and he struck Peter on the side and raised him up, saying,
+        "Arise quickly!" And his chains fell off his hands.
+      desnitsky: ""
+      tex_rec: καὶ ἰδοὺ ἄγγελος Κυρίου ἐπέστη καὶ φῶς ἔλαμψεν ἐν τῷ οἰκήματι· πατάξας
+        δὲ τὴν πλευρὰν τοῦ Πέτρου ἤγειρεν αὐτὸν λέγων· ἀνάστα ἐν τάχει. καὶ
+        ἐξέπεσον αὐτοῦ αἱ ἁλύσεις ἐκ τῶν χειρῶν
+      deutsch: "Und siehe, der Engel des Herrn kam daher, und ein Licht schien in dem
+        Gemach; und er schlug Petrus an die Seite und weckte ihn und sprach:
+        Stehe behende auf! Und die Ketten fielen ihm von seinen Händen."
+      spanish: "un ángel del Señor se presentó en el calabozo, que quedó iluminado; y
+        golpeando a Pedro en el costado, le despertó, diciendo: Levántate
+        pronto; y se cayeron las cadenas en sus manos."
+      peshitta: ܡܰܠܰܐܟ݂ܳܐ ܕ݁ܡܳܪܝܳܐ ܩܳܡ ܠܥܶܠ ܡܶܢܶܗ ܘܢܽܘܗܪܳܐ ܐܰܙܠܶܓ݂ ܒ݁ܟ݂ܽܠܶܗ ܒ݁ܰܝܬ݁ܳܐ
+        ܘܕ݂ܰܩܪܶܗ ܒ݁ܓ݂ܰܒ݁ܶܗ ܘܰܐܩܺܝܡܶܗ ܘܶܐܡܰܪ ܠܶܗ ܩܽܘܡ ܥܓ݂ܰܠ ܘܰܢܦ݂ܰܠ ܫܺܫܠܳܬ݂ܳܐ ܡܶܢ
+        ܐܺܝܕ݂ܰܘܗ݈ܝ܂
+      bel_syomukha: "І вось, анёл Гасподні стаў перад ім, і сьвятло азарыла цямніцу;
+        анёл, штурхнуўшы Пятра ў бок, разбудзіў яго і сказаў: устань хутчэй! І
+        ланцугі апалі з рук ягоных."
+      nrt: Внезапно явился ангел Господа, и камеру осиял свет. Ангел толкнул Петра в
+        бок и разбудил его. – Вставай быстрее! – сказал он, и цепи упали с рук
+        Петра.
+      romana: "Si iata un inger al Domnului a venit deodata, iar in camera a stralucit
+        lumina. Si lovind pe Petru in coasta, ingerul l-a desteptat, zicand:
+        Scoala-te degraba! Si lanturile i-au cazut de la maini."
+      francais: "Et voici, un ange du Seigneur survint, et une lumière brilla dans la
+        prison. L'ange réveilla Pierre, en le frappant au côté, et en disant:
+        Lève-toi promptement! Les chaînes tombèrent de ses mains."
+      italian: 'Ed ecco gli si presentò un angelo del Signore e una luce sfolgorò
+        nella cella. Egli toccò il fianco di Pietro, lo destò e disse: "Alzati,
+        in fretta!". E le catene gli caddero dalle mani.'
+      old_georgian: "და აჰა ანგელოზი უფლისაჲ ზედა მოადგა, და ნათელი გამობრწყინდა
+        სახლსა მას შინა, და სცა გუერდსა პეტრესსა, და განაღჳძა იგი და ჰრქუა მას:
+        აღდეგ ადრე. და დასცჳვეს ჯაჭუნი იგი ჴელთაგან მისთა."
+      portuguese: "E eis que sobreveio um anjo do Senhor, e uma luz resplandeceu na
+        prisão; e ele, tocando no lado de Pedro, o\rdespertou, dizendo:
+        Levanta-te depressa. E caíram-lhe das mãos as cadeias."
+      polish: "Wtem zjawił się anioł Pański i światłość zajaśniała w celi. Trąceniem w
+        bok\robudził Piotra i powiedział: ”Wstań szybko!” Równocześnie z rąk
+        [Piotra]\ropadły kajdany."
+      new_text: Вдруг явился ангел Господень, и все помещение залил свет. Ангел
+        разбудил Петра толчком в бок. — Скорей вставай! — сказал ему ангел. И
+        цепи упали с рук Петра.
+      serbian: "И гле, анђео Господњи се појави, и свјетлост обасја просторију, и
+        куцнувши Петра у ребра, пробуди га говорећи: Устани брзо! И спадоше му
+        вериге с руку."
+      bulgarian: "И ето, Ангел Господен застана, и светлина блясна в тъмницата.
+        Ангелът, като побутна Петра в хълбока, събуди го и рече: стани скоро! И
+        веригите паднаха от ръцете му."
+      ukr2: "Нараз з'явився ангел Господній, і у в'язниці засяяло світло. Він,
+        вдаривши Петра по боці, збудив його, кажучи: «Вставай чимскорше!» І
+        ланцюги впали з рук у нього."
+      ukr3: "І ось ангел Господень став перед ним, і сьвітло засияло в будинку;
+        торкнувши ж у бік Петра, підвів його, говорячи: Уставай боржій. І
+        поспадали кайдани з рук його."
+      czech: "Najednou u neho stal andel Pane a v zalari zazarilo svetlo. Andel uderil
+        Petra do boku, vzbudil ho a rekl: „Rychle! Vstan!“ A z Petrovych rukou
+        spadly retezy."
+      st_text: "И вот, Ангел Господень предстал, и свет осиял темницу. <i>Ангел</i>,
+        толкнув Петра в бок, пробудил его и сказал: встань скорее. И цепи \r
+
+        упали с рук его."
+  - id: 13121
+    number: 8
+    bookId: 55
+    text: "И сказал ему Ангел: опояшься и обуйся. Он сделал так. Потом говорит ему:
+      надень одежду твою и иди за мною."
+    chapter: 12
+    chapterId: 1213
+    parallels:
+      - verseId: 26670
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 6
+        short: Мк:6:9
+    translates:
+      kassian: "И сказал ему ангел: опояшься и надень твои сандалии. И он сделал так.
+        И говорит он ему: оденься в одежду твою и следуй за мной."
+      podstr: Сказал же ангел к нему, Опояшься и подвяжи сандалии твои. Он сделал же
+        так. И говорит ему, Надень накидку твою и следуй мне.
+      csya: "Рече же ангел к нему: препояшися и вступи в плесницы твоя. Сотвори же
+        тако. И глагола ему: облецыся в ризу твою и последствуй ми."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Рече1 же ѓгг7лъ къ немY: препоsшисz и3 вступи2 въ плесни6цы тво‰.
+        Сотвори1 же тaкw. И# глаго1ла є3мY: њблецы1сz въ ри1зу твою2 и3
+        послёдствуй ми2."
+      sovr_rbo: ""
+      latin: "Dixit autem angelus ad eum: Praecingere, et calcea te caligas tuas. Et
+        fecit sic. Et dixit illi: Circumda tibi vestimentum tuum, et sequere
+        me."
+      ukr: "А Ангол до нього промовив: Підпережися, і взуй сандалі свої. І він так
+        учинив. І каже йому: Зодягнися в плаща свого, та й за мною йди."
+      nkjv: Then the angel said to him, "Gird yourself and tie on your sandals"; and
+        so he did. And he said to him, "Put on your garment and follow me."
+      desnitsky: ""
+      tex_rec: εἶπέ τε ὁ ἄγγελος πρὸς αὐτόν· περίζωσαι καὶ ὑπόδησαι τὰ σανδάλιά σου.
+        ἐποίησε δὲ οὕτω. καὶ λέγει αὐτῷ· περιβαλοῦ τὸ ἱμάτιόν σου καὶ ἀκολούθει
+        μοι.
+      deutsch: "Und der Engel sprach zu ihm: Gürte dich und tu deine Schuhe an! Und er
+        tat also. Und er sprach zu ihm: Wirf deinen Mantel um dich und folge mir
+        nach!"
+      spanish: "El ángel añadió: Cíñete y cálzate tus sandalias. Hízolo así. Y agregó:
+        Envuélvete en tu manto y sígueme."
+      peshitta: ܘܶܐܡܰܪ ܠܶܗ ܡܰܠܰܐܟ݂ܳܐ ܐܰܣܽܘܪ ܚܰܨܰܝܟ݁ ܘܣܰܐܢ ܛܶܠܳܪܰܝܟ݁ ܘܰܥܒ݂ܰܕ݂ ܗܳܟ݂ܰܢܳܐ
+        ܘܬ݂ܽܘܒ݂ ܐܶܡܰܪ ܠܶܗ ܐܶܬ݂ܥܰܛ݈ܦ݂ ܬ݁ܰܟ݂ܣܺܝܬ݂ܳܟ݂ ܘܬ݂ܳܐ ܒ݁ܳܬ݂ܰܪܝ܂
+      bel_syomukha: "І сказаў яму анёл: падперажыся і абуйся. Ён зрабіў так. Пасьля
+        кажа яму: апрані адзежу тваю і ідзі за мною."
+      nrt: "Ангел сказал: – Подпояшься и обуй сандалии. Петр сделал это. – Обернись
+        плащом и иди за мной, – сказал ангел."
+      romana: "Si a zis ingerul catre el: Incinge-te si incalta-te cu sandalele. Si el
+        a facut asa. Si i-a zis lui: Pune haina pe tine si vino dupa mine."
+      francais: "Et l'ange lui dit: Mets ta ceinture et tes sandales. Et il fit ainsi.
+        L'ange lui dit encore: Enveloppe-toi de ton manteau, et suis-moi."
+      italian: "E l'angelo a lui: \"Mettiti la cintura e legati i sandali\". E così
+        fece. L'angelo disse: \"Avvolgiti il mantello, e seguimi!\"."
+      old_georgian: "ჰრქუა მას ანგელოზმან მან: მოირტყ და შეისხენ სანდალნი შენნი. და
+        მან ყო ეგრეთ. და ჰრქუა მას: შეიმოსე სამოსელი შენი და შემომიდეგ მე."
+      portuguese: "Disse-lhe ainda o anjo: Cinge-te e calça as tuas sandálias. E ele o
+        fez. Disse-lhe mais; Cobre-te com a tua capa e\rsegue-me."
+      polish: "”Przepasz się i włóż sandały!” - powiedział mu anioł. A gdy to zrobił,
+        rzekł\rdo niego: ”Narzuć płaszcz i chodź za mną!”"
+      new_text: — Завяжи пояс и обуй сандалии, — продолжал ангел. Петр сделал это. —
+        Надень плащ и следуй за мной, — говорит ангел.
+      serbian: "И анђео му рече: Опаши се, и обуј обућу своју. И учини тако. И рече
+        му: Обуци хаљину своју, па хајде за мном."
+      bulgarian: "Тогава Ангелът му рече: опаши се и обуй си обущата. Така той и
+        направи. После му казва: облечи дрехата си и върви след мене!"
+      ukr2: "Далі сказав до нього ангел: «Підпережися і надінь свої сандалі.» (Петро)
+        зробив так. Знову сказав до нього: «Накинь на себе плащ і йди за мною.»"
+      ukr3: "І рече ангел до него: Підпережись та підвяжи постоли твої. Зробив же так.
+        І рече йому: Надїнь одежу твою, та йди за мною."
+      czech: "Andel mu rekl: „Opasej se a obuj se!“ Petr to udelal a andel ho vyzval:
+        „Vezmi si plast a pojd za mnou.“"
+      st_text: "И сказал ему Ангел: опояшься и обуйся. Он сделал так. Потом говорит
+        ему: надень одежду твою и иди за мною."
+  - id: 13122
+    number: 9
+    bookId: 55
+    text: <i>Петр</i> вышел и следовал за ним, не зная, что делаемое Ангелом было
+      действительно, а думая, что видит видение.
+    chapter: 12
+    chapterId: 1213
+    parallels: []
+    translates:
+      kassian: И выйдя, он следовал за ним, и не знал, что творимое ангелом есть
+        действительность, но думал, что видит видение.
+      podstr: И вышедший он следовал, и не знал что истинное есть делающееся через
+        ангела, он думал же видение видеть.
+      csya: И изшед вслед его идяше и не ведаше, яко истина есть бывшее от ангела,
+        мняше же видение зрети.
+      averincev: ""
+      ungerov: ""
+      csya_old: И# и3зше1дъ в8слёдъ є3гw2 и3дsше и3 не вёдаше, ћкw и4стина є4сть
+        бы1вшее t ѓгг7ла, мнsше же видёніе зрёти.
+      sovr_rbo: ""
+      latin: "Et exiens sequebatur eum, et nesciebat quia verum est, quod fiebat per
+        angelum: existimabat autem se visum videre."
+      ukr: І, вийшовши, він ішов услід за ним, і не знав, чи то правда, що робилось
+        від Ангола, бо думав, що видіння він бачить.
+      nkjv: So he went out and followed him, and did not know that what was done by
+        the angel was real, but thought he was seeing a vision.
+      desnitsky: ""
+      tex_rec: καὶ ἐξελθὼν ἠκολούθει αὐτῷ, καὶ οὐκ ᾔδει ὅτι ἀληθές ἐστι τὸ γινόμενον
+        διὰ τοῦ ἀγγέλου, ἐδόκει δὲ ὅραμα βλέπειν.
+      deutsch: Und er ging hinaus und folgte ihm und wußte nicht, daß ihm wahrhaftig
+        solches geschähe durch den Engel; sondern es deuchte ihn, er sähe ein
+        Gesicht.
+      spanish: Y salió en pos de él. No sabía Pedro si era realidad lo que el ángel
+        hacía; más bien le parecía que fuese una visión.
+      peshitta: ܘܰܢܦ݂ܰܩ ܘܳܐܙܶܠ ܗ݈ܘܳܐ ܒ݁ܳܬ݂ܪܶܗ ܟ݁ܰܕ݂ ܠܳܐ ܝܳܕ݂ܰܥ ܗ݈ܘܳܐ ܕ݁ܫܰܪܺܝܪܳܐ ܗ݈ܘܳܬ݂
+        ܗܳܝ ܕ݁ܗܳܘܝܳܐ ܗ݈ܘܳܬ݂ ܒ݁ܝܰܕ݂ ܡܰܠܰܐܟ݂ܳܐ ܣܳܒ݂ܰܪ ܗ݈ܘܳܐ ܓ݁ܶܝܪ ܕ݁ܚܶܙܘܳܐ ܚܳܙܶܐ
+        ܗ݈ܘܳܐ܂
+      bel_syomukha: Пётр выйшаў і рушыў усьлед за ім, ня ведаючы, што тое, што робіць
+        анёл, ёсьць сапраўднае, а думаючы, што бачыць уяву.
+      nrt: Петр вышел за ангелом из тюрьмы, не понимая, что все, что делает ангел,
+        происходит наяву. Ему казалось, что он видит видение.
+      romana: Si, iesind, mergea dupa inger, dar nu stia ca ceea ce s-a facut prin
+        inger este adevarat, ci i se parea ca vede vedenie.
+      francais: Pierre sortit, et le suivit, ne sachant pas que ce qui se faisait par
+        l'ange fût réel, et s'imaginant avoir une vision.
+      italian: "Pietro uscì e prese a seguirlo, ma non si era ancora accorto che era
+        realtà ciò che stava succedendo per opera dell'angelo: credeva infatti
+        di avere una visione."
+      old_georgian: და განვიდა და შეუდგა მას, და არა უწყოდა, ვითარმედ ჭეშმარიტ არს,
+        რომელი-იგი იყო ანგელოზისა მისგან; ეგრე ჰგონებდა, ვითარმედ ჩუენებასა
+        იხილავს.
+      portuguese: "Pedro, saindo, o seguia, mesmo sem compreender que era real o que
+        se fazia por intermédio de um anjo,\rjulgando que era uma visão."
+      polish: "Wyszedł więc i szedł za nim, ale nie wiedział, czy to, co czyni anioł,
+        jest\rrzeczywistością; zdawało mu się, że to widzenie."
+      new_text: Петр вышел и последовал за ним, не понимая, вправду ли происходит то,
+        что делал ангел, или ему это только видится.
+      serbian: И изишавши иђаше за њим, и не знадијаше да је стварност то што анђео
+        чињаше, него мишљаше да гледа виђење.
+      bulgarian: Петър излезе и вървеше след него, и не знаеше, че това, що прави
+        Ангелът, е истина, а мислеше, че гледа видение.
+      ukr2: Вийшов Петро й ішов за ним; не знав він, чи це правда, що робив ангел; він
+        думав, що видіння бачить.
+      ukr3: І, вийшовши, пійшов слїдом за ним, і не знав, що се правда, що сталось
+        через ангела; думав же, що видїннє бачить.
+      czech: Petr nasledoval tedy andela ven z vezeni, ale nebyl si jist, zda to
+        vsechno je skutecnost; myslel si, ze ma videni.
+      st_text: <i>Петр</i> вышел и следовал за ним, не зная, что делаемое Ангелом было
+        действительно, а думая, что видит видение.
+  - id: 13123
+    number: 10
+    bookId: 55
+    text: "Пройдя первую и вторую стражу, они пришли к железным воротам, ведущим в
+      город, которые сами собою отворились им: они \r
+
+      вышли, и прошли одну улицу, и вдруг Ангела не стало с ним."
+    chapter: 12
+    chapterId: 1213
+    parallels: []
+    translates:
+      kassian: Пройдя же первую стражу и вторую, они пришли к железным воротам,
+        ведущим в город, которые сами собой отворились им, и выйдя, они прошли
+        одну улицу, и тотчас отделился от него ангел.
+      podstr: Прошедшие же первую стражу и вторую они пришли к воротам железным
+        ведущим в город, тем, который сами собой были открыты им, и вышедшие они
+        прошли улицу одну, и тотчас отступил ангел от него.
+      csya: "Прошедша же первую стражу и вторую, приидоста ко вратом железным,
+        вводящым во град, яже о себе отверзошася има: и изшедша преидоста стогну
+        едину, и абие отступи ангел от него."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Прошє1дша же пе1рвую стрaжу и3 вторyю, пріидо1ста ко вратHмъ
+        желBзнымъ, вводsщымъ во грaдъ, ±же њ себЁ tверзо1шасz и4ма: и3 и3зшє1дша
+        преидо1ста сто1гну є3ди1ну, и3 ѓбіе tступи2 ѓгг7лъ t негw2."
+      sovr_rbo: ""
+      latin: "Transeuntes autem primam et secundam custodiam, venerunt ad portam
+        ferream, quae ducit ad civitatem: quae ultro aperta est eis. Et exeuntes
+        processerunt vicum unum: et continuo discessit angelus ab eo."
+      ukr: Як сторожу минули вони першу й другу, то прийшли до залізної брами, що до
+        міста веде, і вона відчинилась сама їм. І, вийшовши, пройшли одну
+        вулицю, і відступив Ангол зараз від нього.
+      nkjv: When they were past the first and the second guard posts, they came to the
+        iron gate that leads to the city, which opened to them of its own
+        accord; and they went out and went down one street, and immediately the
+        angel departed from him.
+      desnitsky: ""
+      tex_rec: διελθόντες δὲ πρώτην φυλακὴν καὶ δευτέραν ἦλθον ἐπὶ τὴν πύλην τὴν
+        σιδηρᾶν τὴν φέρουσαν εἰς τὴν πόλιν, ἥτις αὐτομάτη ἠνοίχθη αὐτοῖς, καὶ
+        ἐξελθόντες προἦλθον ῥύμην μίαν, καὶ εὐθέως ἀπέστη ὁ ἄγγελος ἀπ᾿ αὐτοῦ.
+      deutsch: Sie gingen aber durch die erste und andere Hut und kamen zu der
+        eisernen Tür, welche zur Stadt führt; die tat sich ihnen von selber auf.
+        Und sie traten hinaus und gingen hin eine Gasse lang; und alsobald
+        schied der Engel von ihm.
+      spanish: Atravesando la primera y la segunda guardia, llegaron a la puerta de
+        hierro que conduce a la ciudad. La puerta se les abrió por sí misma, y
+        salieron y avanzaron por una calle, desapareciendo luego el ángel.
+      peshitta: ܘܟ݂ܰܕ݂ ܥܒ݂ܰܪܘ ܡܰܛܰܪܬ݂ܳܐ ܩܰܕ݂ܡܳܝܬ݁ܳܐ ܘܰܕ݂ܬ݂ܰܪܬ݁ܶܝܢ ܐܶܬ݂ܰܘ ܥܕ݂ܰܡܳܐ
+        ܠܬ݂ܰܪܥܳܐ ܕ݁ܦ݂ܰܪܙܠܳܐ ܘܶܐܬ݂ܦ݁ܬ݂ܰܚ ܠܗܽܘܢ ܡܶܢ ܨܒ݂ܽܘܬ݂ ܢܰܦ݂ܫܶܗ ܘܟ݂ܰܕ݂ ܢܦ݂ܰܩܘ
+        ܘܰܥܒ݂ܰܪܘ ܫܽܘܩܳܐ ܚܰܕ݂ ܦ݁ܪܰܩ ܡܶܢ ܠܘܳܬ݂ܶܗ ܡܰܠܰܐܟ݂ܳܐ܂
+      bel_syomukha: Мінуўшы першую і другую варту, яны падышлі да жалезнае брамы, што
+        вяла ў горад, якая сама адчынілася ім; яны выйшлі, і прайшлі адну
+        вуліцу, калі раптам анёла ня стала зь ім.
+      nrt: Они прошли мимо первой стражи, потом мимо второй и подошли к железным
+        воротам, ведущим в город. Ворота сами открылись перед ними, и они вышли.
+        Они прошли одну улицу, и вдруг ангел исчез.
+      romana: Si trecand de straja intai si de a doua, au ajuns la poarta cea de fier
+        care duce in cetate, si poarta s-a deschis singura. Si iesind, au trecut
+        o ulita si indata ingerul s-a departat de la el.
+      francais: Lorsqu'ils eurent passé la première garde, puis la seconde, ils
+        arrivèrent à la porte de fer qui mène à la ville, et qui s'ouvrit
+        d'elle-même devant eux; ils sortirent, et s'avancèrent dans une rue.
+        Aussitôt l'ange quitta Pierre.
+      italian: "Essi oltrepassarono la prima guardia e la seconda e arrivarono alla
+        porta di ferro che conduce in città: la porta si aprì da sé davanti a
+        loro. Uscirono, percorsero una strada e a un tratto l'angelo si dileguò
+        da lui."
+      old_georgian: და ვითარ განვლეს მათ პირველი საჴუმილავი და მეორე, მიიწინეს იგინი
+        ბჭეთა მათ რკინისათა, რომელი შევიდოდა ქალაქად, რომელცა-იგი თჳთ განეღო
+        მათ. და ვითარცა განვლეს იგი, წარვლეს უბანი ერთი, და მეყსეულად განეშორა
+        მისგან ანგელოზი იგი.
+      portuguese: "Depois de terem passado a primeira e a segunda sentinela, chegaram
+        à porta de ferro, que dá para a cidade, a\rqual se lhes abriu por si
+        mesma; e tendo saído, passaram uma rua, e logo o anjo se apartou dele."
+      polish: "Minęli pierwszą i drugą straż i doszli do żelaznej bramy, prowadzącej
+        do\rmiasta. Ta otwarła się sama przed nimi. Wyszli więc, przeszli jedną
+        ulicę i\rnatychmiast anioł odstąpił od niego."
+      new_text: Они миновали первый, а затем второй пост и подошли к железным воротам,
+        ведущим в город. Ворота сами открылись перед ними. Они вышли через них и
+        прошли всю улицу, как вдруг ангел исчез из виду.
+      serbian: А кад прођоше прву стражу и другу, дођоше вратима гвозденим која воде у
+        град; она им се сама отворише, и изишавши прођоше једну улицу, и анђео
+        одмах одступи од њега.
+      bulgarian: "Като минаха първата и втората стража, дойдоха до железните врага,
+        които водеха за в града и които им се отвориха сами: те излязоха и
+        преминаха една улица, и тозчас Ангелът отстъпи от него."
+      ukr2: Минули вони першу варту і другу, і прийшли до залізної брами, що веде в
+        місто; вона сама собою їм відчинилась. Вийшли вони та пройшли одну
+        вулицю, й ангел нараз відступив від нього.
+      ukr3: Минувши ж перву сторожу й другу, прийшли до залїзних воріт, що вели в
+        город, котрі самі собою відчинились їм; і вийшовши пройшли одну улицю, і
+        зараз відступив ангел від него.
+      czech: Prosli prvni strazi, pak druhou a prisli k zelezne brane, ktera vedla do
+        mesta; ta se jim sama od sebe otevrela. Vysli ven, prosli jednou ulici a
+        tu mu nahle andel zmizel.
+      st_text: "Пройдя первую и вторую стражу, они пришли к железным воротам, ведущим
+        в город, которые сами собою отворились им: они \r
+
+        вышли, и прошли одну улицу, и вдруг Ангела не стало с ним."
+  - id: 13124
+    number: 11
+    bookId: 55
+    text: "Тогда Петр, придя в себя, сказал: теперь я вижу воистину, что Господь
+      послал Ангела Своего и избавил меня из руки Ирода и от \r
+
+      всего, чего ждал народ Иудейский."
+    chapter: 12
+    chapterId: 1213
+    parallels: []
+    translates:
+      kassian: "И Петр, придя в себя, сказал: теперь я вижу воистину, что послал
+        Господь ангела Своего и избавил меня от руки Ирода и от всего, чего ждал
+        народ Иудейский."
+      podstr: И Пётр в себе сделавшийся сказал, Теперь знаю истинно что выслал Господь
+        ангела его и изъял меня из руки Ирода и всего ожидания народа Иудеев.
+      csya: "И петр быв в себе, рече: ныне вем воистинну, яко посла Бог ангела своего
+        и изъят мя из руки иродовы и от всего чаяния людий иудейских."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# пе1тръ бы1въ въ себЁ, рече2: нн7э вёмъ вои1стинну, ћкw послA бг7ъ
+        ѓгг7ла своего2 и3 и3з8sтъ мS и3з8 руки2 и4рwдовы и3 t всегw2 чazніz
+        людjй їуде1йскихъ."
+      sovr_rbo: ""
+      latin: "Et Petrus ad se reversus, dixit: Nunc scio vere quia misit Dominus
+        angelum suum, et eripuit me de manu Herodis, et de omni exspectatione
+        plebis Judaeorum."
+      ukr: "Сказав же Петро, опритомнівши: Тепер знаю правдиво, що Господь послав
+        Свого Ангола, і видер мене із рук Іродових та від усього чекання народу
+        юдейського."
+      nkjv: And when Peter had come to himself, he said, "Now I know for certain that
+        the Lord has sent His angel, and has delivered me from the hand of Herod
+        and from all the expectation of the Jewish people."
+      desnitsky: ""
+      tex_rec: καὶ ὁ Πέτρος γενόμενος ἐν ἑαυτῷ εἶπε· νῦν οἶδα ἀληθῶς ὅτι ἐξαπέστειλε
+        Κύριος τὸν ἄγγελον αὐτοῦ καὶ ἐξείλετό με ἐκ χειρὸς ῾Ηρῴδου καὶ πάσης τῆς
+        προσδοκίας τοῦ λαοῦ τῶν ᾿Ιουδαίων·
+      deutsch: "Und da Petrus zu sich selber kam, sprach er: Nun weiß ich wahrhaftig,
+        daß der Herr seinen Engel gesandt hat und mich errettet aus der Hand des
+        Herodes und von allen Warten des jüdischen Volkes."
+      spanish: "Entonces Pedro, vuelto en sí, dijo: Ahora me doy cuenta de que
+        realmente el Señor ha enviado su ángel y me ha arrancado de las manos de
+        Herodes y de toda la expectación del pueblo judío."
+      peshitta: ܗܳܝܕ݁ܶܝܢ ܐܶܫܬ݁ܰܘܕ݁ܰܥ ܫܶܡܥܽܘܢ ܘܶܐܡܰܪ ܗܳܫܳܐ ܝܶܕ݂ܥܶܬ݂ ܒ݁ܩܽܘܫܬ݁ܳܐ ܕ݁ܡܳܪܝܳܐ
+        ܫܰܕ݁ܰܪ ܡܰܠܰܐܟ݂ܶܗ ܘܦ݂ܰܠܛܰܢܝ ܡܶܢ ܐܺܝܕ݂ܶܗ ܕ݁ܗܶܪܳܘܕ݂ܶܣ ܡܰܠܟ݁ܳܐ ܘܡܶܢ ܡܶܕ݁ܶܡ
+        ܕ݁ܡܶܬ݂ܚܰܫܒ݂ܺܝܢ ܗ݈ܘܰܘ ܥܠܰܝ ܝܺܗܽܘܕ݂ܳܝܶܐ܂
+      bel_syomukha: "Тады Пётр, апамятаўшыся, сказаў: цяпер я бачу напраўду, што
+        Гасподзь паслаў анёла Свайго і выбавіў мяне з рукі Ірада і ад усяго,
+        чаго чакаў люд Юдэйскі."
+      nrt: "Когда Петр пришел в себя, он сказал: – Теперь я действительно знаю, что
+        Господь послал Своего ангела и избавил меня от руки Ирода и спас от того
+        зла, которое желал мне иудейский народ."
+      romana: "Si Petru, venindu-si in sine, a zis: Acum stiu cu adevarat ca Domnul a
+        trimis pe ingerul Sau si m-a scos din mana lui Irod si din toate cate
+        astepta poporul iudeilor."
+      francais: "Revenu à lui-même, Pierre dit: Je vois maintenant d'une manière
+        certaine que le Seigneur a envoyé son ange, et qu'il m'a délivré de la
+        main d'Hérode et de tout ce que le peuple juif attendait."
+      italian: 'Pietro allora, rientrato in sé, disse: "Ora sono veramente certo che
+        il Signore ha mandato il suo angelo e mi ha strappa — to dalla mano di
+        Erode e da tutto ciò che si attendeva il popolo dei Giudei".'
+      old_georgian: "და პეტრე მოეგო გონებასა თჳსსა და თქუა: აწ უწყი ჭეშმარიტად, რამეთუ
+        მოავლინა ღმერთმან ანგელოზი თჳსი და განმარინა მე ჴელთაგან ჰეროდესთა და
+        ყოვლისაგან მოლოდებისა ერისა მის ჰურიათაჲსა."
+      portuguese: "Pedro então, tornando a si, disse: Agora sei verdadeiramente que o
+        Senhor enviou o seu anjo, e me livrou da\rmão de Herodes e de toda a
+        expectativa do povo dos judeus."
+      polish: "Wtedy Piotr przyszedł do siebie i rzekł: ”Teraz wiem na pewno, że Pan
+        posłał swego anioła i wyrwał mnie z ręki Heroda i z tego wszystkiego,
+        czego\roczekiwali Żydzi”."
+      new_text: "А Петр, придя в себя, сказал: — Вот теперь я точно знаю, что Господь
+        послал Своего ангела вырвать меня из рук Ирода и спасти от того, чего
+        дожидался еврейский народ."
+      serbian: "И када дође Петар себи, рече: Сада заиста знам да Господ посла анђела
+        својега те ме избави из руку Иродових и од свега што је очекивао народ
+        јудејски."
+      bulgarian: "Тогава Петър, като дойде в себе си, каза: сега разбрах наистина, че
+        Господ прати Своя Ангел и ме избави от ръцете Иродови и от всичко, що
+        иудейският народ очакваше."
+      ukr2: "Тоді Петро, опритомнівши, мовив: «Тепер я справді знаю, що Господь послав
+        ангела свого і вирвав мене з руки Ірода й від усього, чого очікував
+        юдейський народ.»"
+      ukr3: "І, прийшовши Петр до себе, рече: Тепер знаю справдї, що післав Господь
+        ангела свого, і вирвав мене з руки Іродової і від усього дожидання
+        народу Жидівського."
+      czech: "Teprve nyni se Petr vzpamatoval a rekl: „Ted uz vim, ze Pan opravdu
+        poslal sveho andela, vysvobodil mne z ruky Herodovy a uchranil od toho,
+        co si pral zidovsky lid.“"
+      st_text: "Тогда Петр, придя в себя, сказал: теперь я вижу воистину, что Господь
+        послал Ангела Своего и избавил меня из руки Ирода и от \r
+
+        всего, чего ждал народ Иудейский."
+  - id: 13125
+    number: 12
+    bookId: 55
+    text: И, осмотревшись, пришел к дому Марии, матери Иоанна, называемого Марком,
+      где многие собрались и молились.
+    chapter: 12
+    chapterId: 1213
+    parallels:
+      - verseId: 13255
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 15
+        short: Деян:15:37
+    translates:
+      kassian: И осмотревшись, он пришел к дому Марии, матери Иоанна, прозываемого
+        Марком, где многие собрались и молились.
+      podstr: Сделавшийся осмотрительный он пришёл к дому Марии матери Иоанна
+        прозываемого Марка, где они были достаточные собравшиеся и молящиеся.
+      csya: Смотрив же прииде в дом марии матере иоанна, нарицаемаго марка, идеже бяху
+        мнози собрани и молящеся.
+      averincev: ""
+      ungerov: ""
+      csya_old: Смотри1въ же пріи1де въ до1мъ марjи мaтере їwaнна, нарицaемагw мaрка,
+        и3дёже бsху мно1зи со1брани и3 молsщесz.
+      sovr_rbo: ""
+      latin: Consideransque venit ad domum Mariae matris Joannis, qui cognominatus est
+        Marcus, ubi erant multi congregati, et orantes.
+      ukr: А зміркувавши, він прийшов до садиби Марії, матері Івана, званого Марком,
+        де багато зібралося й молилося.
+      nkjv: So, when he had considered this, he came to the house of Mary, the mother
+        of John whose surname was Mark, where many were gathered together
+        praying.
+      desnitsky: ""
+      tex_rec: συνιδών τε ἦλθεν ἐπὶ τὴν οἰκίαν Μαρίας τῆς μητρὸς ᾿Ιωάννου τοῦ
+        ἐπικαλουμένου Μάρκου, οὗ ἦσαν ἱκανοὶ συνηθροισμένοι καὶ προσευχόμενοι.
+      deutsch: Und als er sich besann, kam er vor das Haus Marias, der Mutter des
+        Johannes, der mit dem Zunamen Markus hieß, da viele beieinander waren
+        und beteten.
+      spanish: Reflexionando, se fue a la casa de María, la madre de Juan, por
+        sobrenombre Marcos, donde estaban muchos reunidos y orando.
+      peshitta: ܘܟ݂ܰܕ݂ ܐܶܣܬ݁ܰܟ݁ܰܠ ܐܶܬ݂ܳܐ ܠܶܗ ܠܒ݂ܰܝܬ݁ܳܐ ܕ݁ܡܰܪܝܰܡ ܐܶܡܶܗ ܕ݁ܝܽܘܚܰܢܳܢ ܗܰܘ
+        ܕ݁ܶܐܬ݂ܟ݁ܰܢܺܝ ܡܰܪܩܳܘܣ ܡܶܛܽܠ ܕ݁ܰܐܚܶܐ ܣܰܓ݁ܺܝܶܐܐ ܬ݁ܰܡܳܢ ܟ݁ܢܺܝܫܺܝܢ ܗ݈ܘܰܘ
+        ܘܰܡܨܰܠܶܝܢ܂
+      bel_syomukha: І, агледзеўшыся, прыйшоў да дома Марыі, маці Яна, якога звалі
+        Маркам, дзе многія сабраліся і маліліся.
+      nrt: Поняв, что произошло, Петр пошел в дом Марии, матери Иоанна, которого еще
+        называли Марком, где собралось для молитвы много народа.
+      romana: Si chibzuind, a venit la casa Mariei, mama lui Ioan, cel numit Marcu,
+        unde erau adunati multi si se rugau.
+      francais: Après avoir réfléchi, il se dirigea vers la maison de Marie, mère de
+        Jean, surnommé Marc, où beaucoup de personnes étaient réunies et
+        priaient.
+      italian: Dopo aver riflettuto, si recò alla casa di Maria, madre di Giovanni
+        detto anche Marco, dove si trovava un buon numero di persone raccolte in
+        preghiera.
+      old_georgian: გულსა მოეგონა და მივიდა სახლსა მარიამისსა, დედისა მის იოვანესსა,
+        რომელსა ერქუა მარკოს, სადა-იგი იყვნეს მრავალნი შეკრებულ და ილოცვიდეს.
+      portuguese: "Depois de assim refletir foi à casa de Maria, mãe de João, que tem
+        por sobrenome Marcos, onde muitas pessoas\r
+
+        estavam reunidas e oravam."
+      polish: "Po zastanowieniu się poszedł do domu Marii, matki Jana, zwanego
+        Markiem,\r
+
+        gdzie zebrało się wielu na modlitwie."
+      new_text: Поняв это, он направился к дому Марии, матери Иоанна (его еще звали
+        Марк); сюда многие собирались на молитву.
+      serbian: И разабравши се дође до куће Марије, матере Јована званога Марко, гдје
+        бијаху многи сабрани и мољаху се Богу.
+      bulgarian: И като се поогледа, отиде към къщата на Мария, майка на Иоана,
+        наричан Марко, дето бяха събрани мнозина и се молеха.
+      ukr2: Цілком свідомий, він пішов у дім Марії, Матері Йоана, що звався Марком, де
+        досить багато зібрались і молилися.
+      ukr3: І зміркувавши, прийшов до хати Мариї, матери Йоана, званого Марком, де
+        многі зібрались і молились.
+      czech: S tim vedomim sel do domu Marie, matky Jana, zvaneho Marek. Tam se
+        shromazdilo mnoho lidi a modlili se.
+      st_text: И, осмотревшись, пришел к дому Марии, матери Иоанна, называемого
+        Марком, где многие собрались и молились.
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 13126
+    number: 13
+    bookId: 55
+    text: Когда же Петр постучался у ворот, то вышла послушать служанка, именем Рода,
+    chapter: 12
+    chapterId: 1213
+    parallels: []
+    translates:
+      kassian: И когда он постучался в дверь в воротах, подошла послушать служанка, по
+        имени Рода,
+      podstr: Постучавшегося же его [в] дверь ворот подошла служанка послушать именем
+        Рода;
+      csya: Толкнувшу же петру во врата двора, приступи слышати отроковица, именем
+        роди,
+      averincev: ""
+      ungerov: ""
+      csya_old: Толкнyвшу же петрY во вратA дворA, приступи2 слы1шати nтрокови1ца,
+        и4менемъ ро1ди,
+      sovr_rbo: ""
+      latin: Pulsante autem eo ostium januae, processit puella ad audiendum, nomine
+        Rhode.
+      ukr: І як Петро в фіртку брами постукав, то вийшла послухати служниця, що
+        звалася Рода,
+      nkjv: And as Peter knocked at the door of the gate, a girl named Rhoda came to
+        answer.
+      desnitsky: ""
+      tex_rec: κρούσαντος δὲ αὐτοῦ τὴν θύραν τοῦ πυλῶνος προσῆλθε παιδίσκη ὑπακοῦσαι
+        ὀνόματι ῾Ρόδη,
+      deutsch: Als aber Petrus an die Tür des Tores klopfte, trat hervor eine Magd, zu
+        horchen, mit Namen Rhode.
+      spanish: Golpeó la puerta del vestíbulo y salió una sierva llamada Rode,
+      peshitta: ܘܰܢܩܰܫ ܒ݁ܬ݂ܰܪܥܳܐ ܕ݁ܕ݂ܳܪܬ݁ܳܐ ܘܢܶܦ݂ܩܰܬ݂ ܕ݁ܬ݂ܶܥܢܶܝܘܗ݈ܝ ܛܠܺܝܬ݂ܳܐ ܕ݁ܰܫܡܳܗ
+        ܪܳܘܕ݂ܺܐ܂
+      bel_syomukha: А калі Пётр пастукаўся ў браму, дык выйшла паслухаць служанка,
+        якую звалі Рода;
+      nrt: Петр постучал в ворота, и на стук вышла служанка Рода.
+      romana: Si batand Petru la usa de la poarta, o slujnica cu numele Rodi, s-a dus
+        sa asculte.
+      francais: Il frappa à la porte du vestibule, et une servante, nommée
+        Rhode,  s'approcha pour écouter.
+      italian: Appena ebbe bussato alla porta esterna, una fanciulla di nome Rode si
+        avvicinò per sentire chi era.
+      old_georgian: და ვითარცა ჰრეკა პეტრე კარსა ბჭისასა, გამოვიდა მჴევალი ერთი
+        სმენად, რომელსა სახელი ერქუა როდი.
+      portuguese: Quando ele bateu ao portão do pátio, uma criada chamada Rode saiu a
+        escutar;
+      polish: "Kiedy zakołatał do drzwi wejściowych, nadbiegła dziewczyna imieniem
+        Rode\r
+
+        i nasłuchiwała."
+      new_text: Когда он постучался, служанка по имени Рода подошла к двери.
+      serbian: А кад закуца Петар у врата од дворишта, приступи дјевојка по имену
+        Рода, да чује.
+      bulgarian: Когато Петър почука на пътните врага, една слугиня, на име Рода,
+        отиде да подслуша.
+      ukr2: Як він постукав у хвіртку брами, вийшла послухати дівчина, на ім'я Рода;
+      ukr3: Як же постукав Петр у сїнешні двері, вийшла послухати дївчина, на ймя
+        Рода;
+      czech: Kdyz Petr zatloukl na domovni dvere, prisla sluzka jmenem Rode, aby se
+        zeptala, kdo to je.
+      st_text: Когда же Петр постучался у ворот, то вышла послушать служанка, именем
+        Рода,
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 13127
+    number: 14
+    bookId: 55
+    text: и, узнав голос Петра, от радости не отворила ворот, но, вбежав, объявила,
+      что Петр стоит у ворот.
+    chapter: 12
+    chapterId: 1213
+    parallels: []
+    translates:
+      kassian: и, узнав голос Петра, от радости не отворила ворот, но вбежав,
+        объявила, что Петр стоит у ворот.
+      podstr: и узнавшая голос Петра от радости не открыла ворота, вбежавшая же
+        сообщила стоять Петра перед воротами.
+      csya: и познавши глас петров, от радости не отверзе врат, притекши же сказа
+        петра стояща пред враты.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 познaвши глaсъ петро1въ, t рaдости не tве1рзе врaтъ, прите1кши же
+        сказA петрA стоsща пред8 враты2.
+      sovr_rbo: ""
+      latin: Et ut cognovit vocem Petri, prae gaudio non aperuit januam, sed intro
+        currens nuntiavit stare Petrum ante januam.
+      ukr: та голос Петрів розпізнавши, вона з радощів не відчинила воріт, а прибігши,
+        сказала, що Петро при воротях стоїть!...
+      nkjv: "When she recognized Peter's voice, because of her gladness she did not
+        open the gate, but ran in and announced that Peter stood before the
+        gate. "
+      desnitsky: ""
+      tex_rec: καὶ ἐπιγνοῦσα τὴν φωνὴν τοῦ Πέτρου, ἀπὸ τῆς χαρᾶς οὐκ ἤνοιξε τὸν
+        πυλῶνα, εἰσδραμοῦσα δὲ ἀπήγγειλεν ἑστάναι τὸν Πέτρον πρὸ τοῦ πυλῶνος.
+      deutsch: Und als sie des Petrus Stimme erkannte, tat sie das Tor nicht auf vor
+        Freuden, lief aber hinein und verkündigte es ihnen, Petrus stünde vor
+        dem Tor.
+      spanish: que, luego que conoció la voz de Pedro, fuera de sí de alegría, sin
+        abrir la puerta, corrió a anunciar que Pedro estaba en el vestíbulo.
+      peshitta: ܘܶܐܫܬ݁ܰܘܕ݁ܥܰܬ݂ ܩܳܠܶܗ ܕ݁ܫܶܡܥܽܘܢ ܘܰܒ݂ܚܰܕ݂ܽܘܬ݂ܳܗ ܠܳܐ ܦ݁ܶܬ݂ܚܰܬ݂ ܠܶܗ
+        ܬ݁ܰܪܥܳܐ ܐܶܠܳܐ ܗܶܦ݂ܟ݁ܰܬ݂ ܒ݁ܪܶܗܛܳܐ ܘܳܐܡܪܳܐ ܠܗܽܘܢ ܫܶܡܥܽܘܢ ܗܳܐ ܩܳܐܶܡ ܥܰܠ
+        ܬ݁ܰܪܥܳܐ ܕ݁ܕ݂ܳܪܬ݁ܳܐ܂
+      bel_syomukha: І, пазнаўшы Пятроў голас, ад радасьці не адчыніла брамы, а ўбегшы
+        абвясьціла, што Пётр стаіць каля брамы.
+      nrt: Она узнала Петра по голосу и, забыв от радости открыть ворота, побежала
+        обратно сказать, что Петр стоит у ворот.
+      romana: Si recunoscand glasul lui Petru, de bucurie nu a deschis usa, ci,
+        alergand inauntru, a spus ca Petru sta inaintea portii.
+      francais: Elle reconnut la voix de Pierre; et, dans sa joie, au lieu d'ouvrir,
+        elle courut annoncer que Pierre était devant la porte.
+      italian: Riconosciuta la voce di Pietro, per la gioia non aprì la porta, ma
+        corse ad annunziare che fuori c'era Pietro.
+      old_georgian: "და ვითარცა იცნა ჴმაჲ იგი პეტრესი, სიხარულითა არა განუღო მას კარი,
+        არამედ შინა შერბიოდა და უთხრა, ვითარმედ: პეტრე კართა ზედა დგას."
+      portuguese: "e, reconhecendo a voz de Pedro, de gozo não abriu o portão, mas,
+        correndo para dentro, anunciou que Pedro\restava lá fora."
+      polish: "Poznała głos Piotra i z radości nie otwarła bramy, lecz pobiegła
+        powiedzieć,\rże Piotr stoi przed bramą."
+      new_text: Узнав голос Петра, она так обрадовалась, что вместо того, чтобы
+        открыть дверь, побежала сообщить, что у входа стоит Петр.
+      serbian: И познавши глас Петров, од радости не отвори врата, него утрча и јави
+        да Петар стоји пред вратима.
+      bulgarian: И, като позна гласа на Петра, от радост не отвори вратата, а притърча
+        и обади, че Петър стои пред вратата.
+      ukr2: і, пізнавши голос Петра, з радощів не відчинила брами, а вбігши,
+        сповістила, що Петро стоїть при брамі.
+      ukr3: і, пізнавши голос Петра, з радощів не відчинила дверей, а вбігши,
+        сповістила, що Петр стоїть під дверима.
+      czech: Tu poznala Petruv hlas, ale samou radosti hned neotevrela a bezela
+        dovnitr oznamit, ze Petr stoji prede dvermi.
+      st_text: и, узнав голос Петра, от радости не отворила ворот, но, вбежав,
+        объявила, что Петр стоит у ворот.
+  - id: 13128
+    number: 15
+    bookId: 55
+    text: "А те сказали ей: в своем ли ты уме? Но она утверждала свое. Они же
+      говорили: это Ангел его."
+    chapter: 12
+    chapterId: 1213
+    parallels:
+      - verseId: 10997
+        bookId: 1
+        bookCode: bytie
+        chapter: 48
+        short: Быт:48:16
+      - verseId: 25333
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 18
+        short: Мф:18:10
+    translates:
+      kassian: "А они ей сказали: ты не в своем уме. Но она утверждала, что это так. А
+        они говорили: это ангел его."
+      podstr: Они же к ней сказали, Бредишь. Она же настаивала так иметься. Они же
+        говорили, Ангел есть его.
+      csya: "Они же к ней реша: беснуешися ли? Она же крепляшеся тако быти. Они же
+        глаголаху: ангел его есть."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Nни1 же къ не1й рёша: бэснyешисz ли; Nнa же крэплsшесz тaкw бы1ти.
+        Nни1 же глаго1лаху: ѓгг7лъ є3гw2 є4сть."
+      sovr_rbo: ""
+      latin: "At illi dixerunt ad eam: Insanis. Illa autem affirmabat sic se habere.
+        Illi autem dicebant: Angelus ejus est."
+      ukr: "А вони їй сказали: Чи ти навісна? Та вона запевняла своє, що є так. Вони ж
+        говорили: То Ангол його!"
+      nkjv: But they said to her, "You are beside yourself!" Yet she kept insisting
+        that it was so. So they said, "It is his angel."
+      desnitsky: ""
+      tex_rec: οἱ δὲ πρὸς αὐτὴν εἶπον· μαίνῃ. ἡ δὲ διισχυρίζετο οὕτως ἔχειν, οἱ δὲ
+        ἔλεγον· ὁ ἄγγελος αὐτοῦ ἐστιν.
+      deutsch: "Sie aber sprachen zu ihr: Du bist unsinnig. Sie aber bestand darauf,
+        es wäre also. Sie sprachen: Es ist sein Engel."
+      spanish: "Ellos le dijeron: Estás loca. Insistía ella en que era así; y entonces
+        dijeron: Será su ángel."
+      peshitta: ܐܳܡܪܺܝܢ ܠܳܗ ܡܙܳܥ ܙܳܥܬ݁ܝ ܠܶܟ݂ܝ ܘܗܺܝ ܡܶܬ݂ܚܰܪܝܳܐ ܗ݈ܘܳܬ݂ ܕ݁ܗܳܕ݂ܶܐ ܗܳܟ݂ܰܢܳܐ
+        ܗ݈ܝ ܐܳܡܪܺܝܢ ܠܳܗ ܟ݁ܒ݂ܰܪ ܡܰܠܰܐܟ݂ܶܗ ܗ݈ܽܘ܂
+      bel_syomukha: "А тыя сказалі ёй: ці ў сваім ты розуме? Але яна стаяла на сваім.
+        А яны казалі: гэта анёл ягоны."
+      nrt: – Ты не в своем уме! – сказали ей. Но она продолжала настаивать. – Это его
+        ангел, – решили они.
+      romana: "Iar ei au zis catre ea: Ai innebunit. Dar ea staruia ca este asa. Iar
+        ei ziceau: Este ingerul lui."
+      francais: "Ils lui dirent: Tu es folle. Mais elle affirma que la chose était
+        ainsi."
+      italian: "\"Tu vaneggi!\" le dissero. Ma essa insisteva che la cosa stava così.
+        E quelli dicevano: \"È l'angelo di Pietro\"."
+      old_georgian: "ხოლო მათ ჰრქუეს: ჰბორგი. და იგი დაამტკიცებდა, ვითარმედ: ესრეთ
+        არს. ხოლო იგინი იტყოდეს, ვითარმედ: ანგელოზი მისი არს."
+      portuguese: "Eles lhe disseram: Estás louca. Ela, porém, assegurava que assim
+        era. Eles então diziam: É o seu anjo."
+      polish: ”Bredzisz” - powiedzieli jej. Ona jednak upierała się przy swoim.
+      new_text: — Ты сошла с ума! — сказали ей. Но она настаивала, что это правда. —
+        Это его ангел, — возразили ей.
+      serbian: "А они јој рекоше: Јеси ли луда! Али она увјераваше да је тако. А они
+        говораху: То је анђео његов."
+      bulgarian: "А те й казаха: ти не си с ума си! Но тя твърдеше, че е тъй. А те
+        думаха: това е неговият Ангел."
+      ukr2: "Ті їй сказали: «Ти збожеволіла!» Вона ж таки своє твердила. Тоді вони
+        сказали: «То його ангел.»"
+      ukr3: "Вони ж сказали до неї: Збожеволїла єси. Вона ж таки говорила, що се так.
+        Вони ж казали: Се ангел його."
+      czech: "Ale oni ji rekli: „Ty ses zblaznila!“ Ona vsak trvala na tom, ze je to
+        pravda. Rekli ji: „Tak to musi byt jeho duch!“"
+      st_text: "А те сказали ей: в своем ли ты уме? Но она утверждала свое. Они же
+        говорили: это Ангел его."
+  - id: 13129
+    number: 16
+    bookId: 55
+    text: Между тем Петр продолжал стучать. Когда же отворили, то увидели его и
+      изумились.
+    chapter: 12
+    chapterId: 1213
+    parallels: []
+    translates:
+      kassian: Между тем Петр продолжал стучаться. И отворив, увидели его и изумились.
+      podstr: Же Пётр оставался стучащий; открывшие же они увидели его и изумились.
+      csya: "Петр же пребываше толкий: отверзше же видеша его и ужасошася."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Пе1тръ же пребывaше толкjй: tве1рзше же ви1дэша є3го2 и3 ўжасо1шасz."
+      sovr_rbo: ""
+      latin: Petrus autem perseverabat pulsans. Cum autem aperuissent, viderunt eum,
+        et obstupuerunt.
+      ukr: А Петро й далі стукав. Коли ж відчинили, вони його вгледіли та й
+        дивувалися.
+      nkjv: Now Peter continued knocking; and when they opened the door and saw him,
+        they were astonished.
+      desnitsky: ""
+      tex_rec: ὁ δὲ Πέτρος ἐπέμενε κρούων. ἀνοίξαντες δὲ εἶδον αὐτὸν καὶ ἐξέστησαν.
+      deutsch: Petrus klopfte weiter an. Da sie aber auftaten, sahen sie ihn und
+        entsetzten sich.
+      spanish: Pedro seguía golpeando, y cuando le abrieron y le conocieron, quedaron
+        estupefactos.
+      peshitta: ܘܫܶܡܥܽܘܢ ܢܳܩܶܫ ܗ݈ܘܳܐ ܒ݁ܬ݂ܰܪܥܳܐ ܘܰܢܦ݂ܰܩܘ ܚܙܰܐܘܽܗ݈ܝ ܘܰܬ݂ܡܰܗܘ ܠܗܽܘܢ܂
+      bel_syomukha: Тым часам Пётр стукаўся; калі ж адчынілі, дык убачылі яго і зьдзівіліся.
+      nrt: Петр между тем продолжал стучать, и когда они, наконец, открыли ворота и
+        увидели его, то пришли в изумление.
+      romana: Dar Petru batea mereu in poarta. Si deschizandu-i, l-au vazut si au
+        ramas uimiti.
+      francais: "Et ils dirent: C'est son ange. Cependant Pierre continuait à frapper.
+        Ils ouvrirent, et furent étonnés de le voir."
+      italian: Questi intanto continuava a bussare e quando aprirono la porta e lo
+        videro, rimasero stupefatti.
+      old_georgian: და პეტრე ჰრეკდა კარსა მას ზედაჲს-ზედა. ხოლო გან-რაჲ-უღეს, იხილეს
+        იგი და განჰკრთეს.
+      portuguese: Mas Pedro continuava a bater, e, quando abriram, viram-no e pasmaram.
+      polish: ”To jest jego anioł” - mówili. A Piotr kołatał dalej.
+      new_text: А Петр продолжал стучать. Открыв дверь, они увидели его и ахнули от
+        удивления.
+      serbian: Петар пак једнако куцаше. А кад отворише, видјеше га и задивише се.
+      bulgarian: В това време Петър все чукаше. А когато отвориха, видяха го и се смаяха.
+      ukr2: А Петро далі стукав. І відчинили і, побачивши його, нестямилися.
+      ukr3: Петр же не перестав стукати; відчинивши ж, увидїли його, та й здивувались.
+      czech: Ale Petr stale tloukl. Sli tedy otevrit a uzasli, kdyz ho spatrili.
+      st_text: Между тем Петр продолжал стучать. Когда же отворили, то увидели его и
+        изумились.
+  - id: 13130
+    number: 17
+    bookId: 55
+    text: "Он же, дав знак рукою, чтобы молчали, рассказал им, как Господь вывел его
+      из темницы, и сказал: уведомьте о сем Иакова и \r
+
+      братьев. Потом, выйдя, пошел в другое место."
+    chapter: 12
+    chapterId: 1213
+    parallels: []
+    translates:
+      kassian: "Он же, дав им знак рукой, чтобы молчали, рассказал им, как Господь его
+        вывел из тюрьмы, и сказал: объявите об этом Иакову и братьям. И выйдя,
+        направился в другое место."
+      podstr: Махнувший же им рукой молчать он рассказал им как Господь его вывел из
+        тюрьмы, он сказал , Сообщите Иакову и братьям это. И вышедший он пошёл в
+        другое место.
+      csya: "Помаав же им рукою молчати, сказа им, како Господь его изведе из темницы:
+        рече же: возвестите иакову и братиям сия. И изшед иде во ино место."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Помаaвъ же и5мъ руко1ю молчaти, сказA и5мъ, кaкw гDь є3го2 и3зведе2
+        и3з8 темни1цы: рече1 же: возвэсти1те їaкwву и3 брaтіzмъ сі‰. И# и3зше1дъ
+        и4де во и4но мёсто."
+      sovr_rbo: ""
+      latin: "Annuens autem eis manu ut tacerent, narravit quomodo Dominus eduxisset
+        eum de carcere, dixitque: Nuntiate Jacobo et fratribus haec. Et egressus
+        abiit in alium locum."
+      ukr: "Махнувши ж рукою до них, щоб мовчали, він їм розповів, як Господь його
+        вивів із в'язниці. І сказав: Сповістіть про це Якова й браттю. І,
+        вийшовши, він до іншого місця пішов."
+      nkjv: But motioning to them with his hand to keep silent, he declared to them
+        how the Lord had brought him out of the prison. And he said, "Go, tell
+        these things to James and to the brethren." And he departed and went to
+        another place.
+      desnitsky: ""
+      tex_rec: κατασείσας δὲ αὐτοῖς τῇ χειρὶ σιγᾶν διηγήσατο αὐτοῖς πῶς ὁ Κύριος
+        ἐξήγαγεν αὐτὸν ἐκ τῆς φυλακῆς, εἶπε δέ· ἀπαγγείλατε ᾿Ιακώβῳ καὶ τοῖς
+        ἀδελφοῖς ταῦτα. καὶ ἐξελθὼν ἐπορεύθη εἰς ἕτερον τόπον.
+      deutsch: "Er aber winkte ihnen mit der Hand, zu schweigen, und erzählte ihnen,
+        wie ihn der Herr hatte aus dem Gefängnis geführt, und sprach:
+        Verkündiget dies Jakobus und den Brüdern. Und ging hinaus und zog an
+        einen andern Ort."
+      spanish: "Haciéndoles señal con la mano de que callasen, les contó cómo el Señor
+        le había sacado de la cárcel, y añadió: Contad esto a Santiago y a los
+        hermanos. Y salió, yéndose a otro lugar."
+      peshitta: ܘܰܡܢܺܝܦ݂ ܗ݈ܘܳܐ ܠܗܽܘܢ ܐܺܝܕ݂ܶܗ ܐܰܝܟ݂ ܕ݁ܢܶܫܬ݁ܩܽܘܢ ܠܗܽܘܢ ܘܥܰܠ ܘܶܐܫܬ݁ܰܥܺܝ
+        ܠܗܽܘܢ ܐܰܝܟ݁ܰܢܳܐ ܡܳܪܝܳܐ ܐܰܦ݁ܩܶܗ ܡܶܢ ܒ݁ܶܝܬ݂ ܐܰܣܺܝܪܶܐ ܘܶܐܡܰܪ ܠܗܽܘܢ
+        ܐܶܫܬ݁ܰܥܰܘ ܗܳܠܶܝܢ ܠܝܰܥܩܽܘܒ݂ ܘܠܰܐܚܰܝܢ ܘܰܢܦ݂ܰܩ ܐܶܙܰܠ ܠܶܗ ܠܰܐܬ݂ܰܪ ܐ݈ܚܪܺܝܢ܂
+      bel_syomukha: "А ён, даўшы рукою знак, каб маўчалі, расказаў ім, як Гасподзь
+        вывеў зь цямніцы, і сказаў: перакажэце ўсё гэта Якаву і братам. Пасьля
+        выйшаў і пайшоў у іншую мясьціну."
+      nrt: Петр жестом попросил их молчать и рассказал, как Господь вывел его из
+        тюрьмы. – Расскажите об этом Иакову и другим братьям, – сказал он им и
+        ушел оттуда в другое место.
+      romana: "Si facandu-le semn cu mana sa taca, le-a istorisit cum l-a scos Domnul
+        pe el din temnita. Si a zis: Vestiti acestea lui Iacov si fratilor. Si
+        iesind, s-a dus in alt loc."
+      francais: "Pierre, leur ayant de la main fait signe de se taire, leur raconta
+        comment le Seigneur l'avait tiré de la prison, et il dit: Annoncez-le à
+        Jacques et aux frères. Puis il sortit, et s'en alla dans un autre lieu."
+      italian: "Egli allora, fatto segno con la mano di tacere, narrò come il Signore
+        lo aveva tratto fuori del carcere, e aggiunse: \"Riferite questo a
+        Giacomo e ai fratelli\". Poi uscì e s'incamminò verso un altro luogo."
+      old_georgian: "მან ჴელი განუყარა მათ, რაჲთა დადუმნენ. და მიუთხრა მათ, ვითარ-იგი
+        უფალმან გამოიყვანა საპყრობილით, და ამცნო: უთხართ ესე იაკობს და ძმათა
+        ყოველთა. და განვიდა და წარვიდა სხუასა ადგილსა."
+      portuguese: "Mas ele, acenando-lhes com a mão para que se calassem, contou-lhes
+        como o Senhor o tirara da prisão, e disse:\rAnunciai isto a Tiago e aos
+        irmãos. E, saindo, partiu para outro lugar."
+      polish: "Kiedy wreszcie otworzyli, ujrzeli i zdumieli się. On zaś nakazał im
+        ręką milczenie, opowiedział, jak to Pan wyprowadził go z więzienia, i
+        rzekł: ”Donieście\ro tym Jakubowi i braciom!”. I udał się gdzie
+        indziej."
+      new_text: Он сделал им знак рукой, призывая к тишине, и рассказал о том, как
+        Господь вывел его из тюрьмы. — Дайте знать Иакову и братьям, — сказал
+        Петр и, покинув их, пошел в другое место.
+      serbian: "Махнувши им руком да ћуте, он им исприча како га Господ изведе из
+        тамнице, и рече: Јавите ово Јакову и браћи. И изишавши отиде на друго
+        мјесто."
+      bulgarian: "А той, като даде знак с ръка да мълчат, разправи им, как го е извел
+        Господ из тъмницата, и каза: обадете за това на Иакова и на братята. И
+        като излезе, отиде на друго място."
+      ukr2: "Махнувши їм рукою, щоб мовчали, він докладно оповів їм, як Господь вивів
+        його з в'язниці, і мовив: «Оповістіть це Яковові і братам.» І, вийшовши,
+        пішов у друге місце."
+      ukr3: "Махнувши ж їм рукою, щоб мовчали, оповів їм, як Господь вивів його з
+        темницї. Рече ж: Сповістїть Якова та братів про се. І, вийшовши, пійшов
+        у друге місце."
+      czech: "Pokynul jim rukou, aby je uklidnil, a vypravoval jim, jak ho Pan vyvedl
+        z vezeni; nakonec jim rekl: „Povezte to Jakubovi a ostatnim bratrim.“
+        Pak odesel z mesta."
+      st_text: "Он же, дав знак рукою, чтобы молчали, рассказал им, как Господь вывел
+        его из темницы, и сказал: уведомьте о сем Иакова и \r
+
+        братьев. Потом, выйдя, пошел в другое место."
+  - id: 13131
+    number: 18
+    bookId: 55
+    text: По наступлении дня между воинами сделалась большая тревога о том, что
+      сделалось с Петром.
+    chapter: 12
+    chapterId: 1213
+    parallels: []
+    translates:
+      kassian: "А когда настал день, было немалое волнение среди воинов: что же
+        случилось с Петром?"
+      podstr: Случившегося же дня было потрясение не немногое в воинах, что тогда Пётр
+        оказался.
+      csya: "Бывшу же дню, бе молва не мала в воинех, что убо петру бысть:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Бы1вшу же дню2, бЁ молвA не мaла въ во1инэхъ, что2 ќбw петрY бы1сть:"
+      sovr_rbo: ""
+      latin: Facta autem die, erat non parva turbatio inter milites, quidnam factum
+        esset de Petro.
+      ukr: Коли ж настав день, поміж вояками зчинилась велика тривога, що то сталось з
+        Петром.
+      nkjv: Then, as soon as it was day, there was no small stir among the soldiers
+        about what had become of Peter.
+      desnitsky: ""
+      tex_rec: Γενομένης δὲ ἡμέρας ἦν τάραχος οὐκ ὀλίγος ἐν τοῖς στρατιώταις, τί ἄρα ὁ
+        Πέτρος ἐγένετο.
+      deutsch: Da es aber Tag ward, war eine nicht kleine Bekümmernis unter den
+        Kriegsknechten, wie es doch mit Petrus gegangen wäre.
+      spanish: Cuando se hizo de día se produjo entre los soldados no pequeño alboroto
+        por lo que habría sido de Pedro.
+      peshitta: ܘܟ݂ܰܕ݂ ܗܘܳܐ ܨܰܦ݂ܪܳܐ ܗܘܳܐ ܗ݈ܘܳܐ ܪܰܘܒ݁ܳܐ ܣܰܓ݁ܺܝܳܐܐ ܒ݁ܶܝܬ݂ ܐܶܣܛܪܰܛܺܝܳܘܛܶܐ
+        ܥܰܠ ܫܶܡܥܽܘܢ ܕ݁ܡܳܢܳܐ ܗܘܳܐ ܠܶܗ܂
+      bel_syomukha: "Калі настаў дзень, паміж воінамі ўсчалася вялікая трывога: што
+        сталася зь Пятром;"
+      nrt: На утро среди солдат произошло большое замешательство, никто не знал, что
+        случилось с Петром.
+      romana: "Si facandu-se ziua, mare a fost tulburarea intre ostasi: Ce s-a facut,
+        oare, cu Petru?"
+      francais: Quand il fit jour, les soldats furent dans une grande agitation, pour
+        savoir ce que Pierre était devenu.
+      italian: "Fattosi giorno, c'era non poco scompiglio tra i soldati: che cosa mai
+        era accaduto di Pietro?"
+      old_georgian: "და ვითარცა განთენა, არა მცირედი შეზრუნებაჲ იყო ერის კაცთაჲ მათ,
+        ვითარმე: რაიმე იქმნა პეტრე?"
+      portuguese: Logo que amanheceu, houve grande alvoroço entre os soldados sobre o
+        que teria sido feito de Pedro.
+      polish: "A gdy nastał dzień, powstało niemałe zamieszanie wśród żołnierzy z
+        powodu\rtego, co się stało z Piotrem."
+      new_text: "А когда наступил день, среди воинов был немалый переполох: что
+        сталось с Петром?"
+      serbian: А када наста дан, бјеше не мала узбуна међу војницима, шта то би са
+        Петром.
+      bulgarian: Като се съмна, между войниците стана не малка смутня, какво ли е
+        станал Петър.
+      ukr2: "Коли ж настав день, поміж вояками настала чимала тривога: що воно могло з
+        Петром статись?"
+      ukr3: Скоро ж настав день, зробивсь немалий переполох між воїнами, що стало ся з
+        Петром.
+      czech: Rano se strhl mezi vojaky nemaly poplach, kam se Petr podel.
+      st_text: По наступлении дня между воинами сделалась большая тревога о том, что
+        сделалось с Петром.
+  - id: 13132
+    number: 19
+    bookId: 55
+    text: Ирод же, поискав его и не найдя, судил стражей и велел казнить их. Потом
+      он отправился из Иудеи в Кесарию и там оставался.
+    chapter: 12
+    chapterId: 1213
+    parallels:
+      - verseId: 20298
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 26
+        short: Ис:26:10
+    translates:
+      kassian: Ирод же, поискав его и не найдя, подверг стражей допросу и повелел
+        казнить. И отправившись из Иудеи в Кесарию, оставался там.
+      podstr: Ирод же поискавший его и не нашедший осудивший тюремщиков приказал быть
+        уведёнными, и сошедший из Иудеи в Кесарию пребывал.
+      csya: "ирод же, поискав его и не обрет и истязав стражы, повеле отвести их: и
+        изшед от иудеи в кесарию, живяше."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и4рwдъ же, поискaвъ є3го2 и3 не њбрётъ и3 и3стzзaвъ стрaжы, повелЁ
+        tвести2 и5хъ: и3 и3зше1дъ t їуде1и въ кесарjю, живsше."
+      sovr_rbo: ""
+      latin: "Herodes autem cum requisisset eum, et non invenisset, inquisitione facta
+        de custodibus, jussit eos duci: descendensque a Judaea in Caesaream, ibi
+        commoratus est."
+      ukr: А Ірод, пошукавши його й не знайшовши, віддав варту під суд, і звелів їх
+        стратити. А сам із Юдеї відбув в Кесарію, і там перебував.
+      nkjv: But when Herod had searched for him and not found him, he examined the
+        guards and commanded that they should be put to death. And he went down
+        from Judea to Caesarea, and stayed there.
+      desnitsky: ""
+      tex_rec: ῾Ηρῴδης δὲ ἐπιζητήσας αὐτὸν καὶ μὴ εὑρών, ἀνακρίνας τοὺς φύλακας
+        ἐκέλευσεν ἀπαχθῆναι, καὶ κατελθὼν ἀπὸ τῆς ᾿Ιουδαίας εἰς τὴν Καισάρειαν
+        διέτριβεν.
+      deutsch: Herodes aber, da er ihn forderte und nicht fand, ließ die Hüter
+        verhören und hieß sie wegführen; und zog von Judäa hinab gen Cäsarea und
+        hielt allda sein Wesen.
+      spanish: Herodes le hizo buscar, y no hallándole, interrogó a los guardias y los
+        mandó conducir al suplicio. Luego, bajando de la Judea, residió en
+        Cesárea.
+      peshitta: ܗܶܪܳܘܕ݂ܶܣ ܕ݁ܶܝܢ ܟ݁ܰܕ݂ ܒ݁ܥܳܝܗ݈ܝ ܘܠܳܐ ܐܶܫܟ݁ܚܶܗ ܕ݁ܳܢ ܐܶܢܽܘܢ ܠܢܳܛܽܘܪܶܐ
+        ܘܰܦ݂ܩܰܕ݂ ܕ݁ܰܢܡܽܘܬ݂ܽܘܢ ܘܰܢܦ݂ܰܩ ܠܶܗ ܡܶܢ ܝܺܗܽܘܕ݂ ܘܺܐܝܬ݂ܰܘܗ݈ܝ ܗ݈ܘܳܐ
+        ܒ݁ܩܶܣܰܪܺܝܰܐ܂
+      bel_syomukha: а Ірад, пашукаўшы яго і не знайшоўшы, судзіў вартавых і загадаў
+        пакараць іх сьмерцю; потым ён выправіўся зь Юдэеі ў Кесарыю і там
+        заставаўся.
+      nrt: Ирод искал его, но поскольку розыски не принесли результата, он допросил
+        стражников и велел казнить их. Затем Ирод отправился из Иудеи в Кесарию
+        и оставался там некоторое время.
+      romana: Iar Irod cerandu-l si negasindu-l, dupa ce au fost cercetati paznicii, a
+        poruncit sa fie ucisi. Si el, coborand din Iudeea la Cezareea, a ramas
+        acolo.
+      francais: Hérode, s'étant mis à sa recherche et ne l'ayant pas trouvé,
+        interrogea les gardes, et donna l'ordre de les mener au supplice.
+        Ensuite il descendit de la Judée à Césarée, pour y séjourner.
+      italian: Erode lo fece cercare accuratamente, ma non essendo riuscito a
+        trovarlo, fece processare i soldati e ordinò che fossero messi a morte;
+        poi scese dalla Giudea e soggiornò a Cesarèa.
+      old_georgian: და ჰეროდე ეძიებდა მას და არა პოვა. მაშინ განიკითხნა მცველნი იგი და
+        ბრძანა მოკლვაჲ მათი. და მოვიდა მიერ ჰურიასტანით და კესარიას იქცეოდა.
+      portuguese: "E Herodes, tendo-o procurado e não o achando, inquiriu as
+        sentinelas e mandou que fossem justiçadas; e\r
+
+        descendo da Judéia para Cesaréia, demorou-se ali."
+      polish: "Herod poszukiwał go, a gdy go nie znalazł, przesłuchał strażników i
+        kazał ich\r
+
+        ukarać śmiercią. Sam zaś udał się z Judei do Cezarei i tam się
+        zatrzymał."
+      new_text: Ирод разыскивал его, но безуспешно. Допросив стражников, он велел их
+        казнить, а сам уехал из Иудеи в Кесарию и остался там.
+      serbian: И кад га Ирод заиска и не нађе, онда испита стражаре и заповједи да се
+        одведу; а он, сишавши из Јудеје у Кесарију, ондје борављаше.
+      bulgarian: А Ирод, като го потърси и не намери, разследва стражарите и заповяда
+        да ги погубят. След това слезна от Иудея в Кесария, и там живееше.
+      ukr2: Ірод послав, щоб його розшукати; та, не знайшовши, вчинив сторожам допит і
+        повелів їх на смерть скарати. Потім він пішов з Юдеї в Кесарію і
+        перебував там.
+      ukr3: Ірод же, пошукавши його, й не знайшовши, судив сторожів, та й звелїв
+        покарати їх. І перейшовши з Юдеї в Кисарию, жив (там).
+      czech: Herodes dal po nem patrat, ale Petr nebyl k nalezeni. Po vyslechu tedy
+        dal popravit straze; potom opustil Judsko, odebral se do Cesareje a
+        nejaky cas tam zustal.
+      st_text: Ирод же, поискав его и не найдя, судил стражей и велел казнить их.
+        Потом он отправился из Иудеи в Кесарию и там оставался.
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 13133
+    number: 20
+    bookId: 55
+    text: "Ирод был раздражен на Тирян и Сидонян; они же, согласившись, пришли к
+      нему и, склонив на свою сторону Власта, постельника \r
+
+      царского, просили мира, потому что область их питалась от
+      <i>области</i> царской."
+    chapter: 12
+    chapterId: 1213
+    parallels:
+      - verseId: 7408
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 5
+        short: 3 Цар:5:1
+      - verseId: 7416
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 5
+        short: 3 Цар:5:9
+    translates:
+      kassian: Он был крайне раздражен на Тирян и Сидонян; они же, с общего согласия,
+        явились к нему и, склонив на свою сторону Власта, постельничего
+        царского, просили мира, так как область их питалась от области царской.
+      podstr: Он был же разъяряющийся [на] тирян и [на] сидонян; единодушно же они
+        присутствовали к нему, и убедившие Власта которого над спальней царя они
+        просили мир, из-за кормиться их страну от царской.
+      csya: "Бе же ирод гневаяся на тиряны и сидоняны: иже единодушно приидоша к нему,
+        и умоливше власта постельника царева, прошаху мира, понеже страны их от
+        царства его питахуся."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Бё же и4рwдъ гнёваzсz на тv1рzны и3 сідHнzны: и5же є3динодyшнw
+        пріидо1ша къ немY, и3 ўмоли1вше влaста посте1льника царе1ва, прошaху
+        ми1ра, поне1же страны6 и4хъ t цaрства є3гw2 питaхусz."
+      sovr_rbo: ""
+      latin: Erat autem iratus Tyriis et Sidonis. At illi unanimes venerunt ad eum, et
+        persuaso Blasto, qui erat super cubiculum regis, postulabant pacem, eo
+        quod alerentur regiones eorum ab illo.
+      ukr: А Ірод розгніваний був на тирян та сидонян. І вони однодушно до нього
+        прийшли, і вблагали царського постельника Власта, та й миру просили, бо
+        їхня земля годувалась з царської.
+      nkjv: "Now Herod had been very angry with the people of Tyre and Sidon; but they
+        came to him with one accord, and having made Blastus the king's personal
+        aide their friend, they asked for peace, because their country was
+        supplied with food by the king's country. "
+      desnitsky: ""
+      tex_rec: ῏Ην δὲ ῾Ηρῴδης θυμομαχῶν Τυρίοις καὶ Σιδωνίοις· ὁμοθυμαδόν τε παρῆσαν
+        πρὸς αὐτόν, καὶ πείσαντες Βλάστον τὸν ἐπὶ τοῦ κοιτῶνος τοῦ βασιλέως
+        ᾐτοῦντο εἰρήνην, διὰ τὸ τρέφεσθαι αὐτῶν τὴν χώραν ἀπὸ τῆς βασιλικῆς.
+      deutsch: Denn er gedachte, wider die von Tyrus und Sidon zu kriegen. Sie aber
+        kamen einmütig zu ihm und überredeten des Königs Kämmerer, Blastus, und
+        baten um Frieden, darum daß ihre Lande sich nähren mußten von des Königs
+        Land.
+      spanish: Estaba irritado contra los tirios y sidonios, que de común acuerdo se
+        presentaron a él, y habiéndose ganado a Blasto, camarero del rey, le
+        pidieron la reconciliación, por cuanto su región se abastecía del
+        territorio del rey.
+      peshitta: ܘܡܶܛܽܠ ܕ݁ܰܪܓ݂ܺܝܙ ܗ݈ܘܳܐ ܥܰܠ ܨܽܘܪܳܝܶܐ ܘܥܰܠ ܨܰܝܕ݁ܳܢܳܝܶܐ ܐܶܬ݂ܟ݁ܰܢܰܫܘ
+        ܘܶܐܬ݂ܰܘ ܠܘܳܬ݂ܶܗ ܐܰܟ݂ܚܕ݂ܳܐ ܘܰܐܦ݁ܺܝܣܘ ܠܰܒ݂ܠܰܣܛܳܘܣ ܩܰܝܛܽܘܢܩܳܢܶܗ ܕ݁ܡܰܠܟ݁ܳܐ
+        ܘܫܶܐܠܘ ܡܶܢܶܗ ܕ݁ܢܶܗܘܶܐ ܠܗܽܘܢ ܫܰܝܢܳܐ ܡܶܛܽܠ ܕ݁ܦ݂ܽܘܪܢܳܣܳܐ ܕ݁ܰܐܬ݂ܪܗܽܘܢ ܡܶܢ
+        ܡܰܠܟ݁ܽܘܬ݂ܶܗ ܗ݈ܘܳܐ ܕ݁ܗܶܪܳܘܕ݂ܶܣ܂
+      bel_syomukha: "Ірад быў у гневе на Тырыйцаў і Сіданійцаў: а яны, змовіўшыся,
+        прыйшлі да яго і схіліўшы на свой бок Уласта, пасьцельніка царскага,
+        прасілі міру, бо іх вобласьць кармілася з царскай."
+      nrt: Ирод был рассержен на жителей Тира и Сидона, и те, согласившись между
+        собой, явились к нему и, заручившись поддержкой Бласта, управляющего
+        царским двором, попросили мира, потому что их область зависела от
+        области царя в поставке продовольствия.
+      romana: Si Irod era manios pe locuitorii din Tir si din Sidon. Dar ei,
+        intelegandu-se intre ei, au venit la el si castigand pe Vlast, care era
+        camarasul regelui, cereau pace, pentru ca tara lor se hranea din cea a
+        regelui.
+      francais: Hérode avait des dispositions hostiles à l'égard des Tyriens et des
+        Sidoniens. Mais ils vinrent le trouver d'un commun accord; et, après
+        avoir gagné Blaste, son chambellan, ils sollicitèrent la paix, parce que
+        leur pays tirait sa subsistance de celui du roi.
+      italian: Egli era infuriato contro i cittadini di Tiro e Sidone. Questi però si
+        presentarono a lui di comune accordo e, dopo aver tratto alla loro causa
+        Blasto, ciambellano del re, chiedevano pace, perché il loro paese
+        riceveva i viveri dal paese del re.
+      old_georgian: ხოლო იყო ჰეროდე გულ-მწყრალ ტჳრელთა და სიდონელთათჳს. და იგინი
+        მოსრულ იყვნეს ერბამად მისა და ქველის მეტყუელ იყოფდეს ვლასტონს, რომელი
+        იყო სასუენებელსა ზედა მეფისასა, და ითხოვდეს მშჳდობასა, რამეთუ ქუეყანაჲ
+        იგი მათი იზარდებოდა სამეუფოჲსაგან მისისა.
+      portuguese: "Ora, Herodes estava muito irritado contra os de Tiro e de Sidom;
+        mas estes, vindo de comum acordo ter com ele\r
+
+        e obtendo a amizade de Blasto, camareiro do rei, pediam paz,
+        porquanto o seu país se abastecia do país do rei."
+      polish: "Gniewał się bardzo na mieszkańców Tyru i Sydonu. Lecz oni razem
+        przybyli do niego, pozyskali Blasta, podkomorzego królewskiego, i
+        prosili o pokój,\r
+
+        ponieważ sprowadzali żywność z kraju króla."
+      new_text: Ирод был в сильном гневе на жителей Тира и Сидона. Но они сообща
+        отправили к нему посольство и, заручившись поддержкой Бласта, управителя
+        царского двора, попросили о мире, потому что зависели от поставок
+        продовольствия из царских владений.
+      serbian: А бјеше Ирод гњеван на Тирце и Сидонце, но ови једнодушно дођоше њему,
+        и придобивши Власта, постељника царева, искаху мира, јер се њихова земља
+        хранила од царске.
+      bulgarian: Ирод беше разгневен на тирци и сидонци; а те се наговориха, дойдоха
+        при него и, като склониха на своя страна царския постелник Власта,
+        молиха за мир, защото страната им се хранеше от царската област.
+      ukr2: Ірод був сильно лютий на тирян та сидонян. Ці, змовившись разом, прибули
+        до нього та, притягнувши на свій бік Власта, царського постельника,
+        просили миру, бо край їхній живився із царського.
+      ukr3: Лютував же Ірод на Тирян та на Сидонян. Прийшовши ж однодушно до него, й
+        приєднавши Бласта, царського постельника, просили примирря; бо земля їх
+        живилась од царської.
+      czech: Herodes byl tehdy velmi rozezlen na Tyrske a Sidonske. Jejich zastupci se
+        vsak spolecne k nemu dostavili; podplatili kralova komornika Blasta a
+        pozadali o smir, protoze jejich zeme byla zasobovana potravinami z
+        Herodova kralovstvi.
+      st_text: "Ирод был раздражен на Тирян и Сидонян; они же, согласившись, пришли к
+        нему и, склонив на свою сторону Власта, постельника \r
+
+        царского, просили мира, потому что область их питалась от
+        <i>области</i> царской."
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 13134
+    number: 21
+    bookId: 55
+    text: В назначенный день Ирод, одевшись в царскую одежду, сел на возвышенном
+      месте и говорил к ним;
+    chapter: 12
+    chapterId: 1213
+    parallels:
+      - verseId: 33380
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 11
+        short: Сир:11:4
+    translates:
+      kassian: В назначенный же день Ирод, одевшись в царскую одежду, сел на
+        возвышенном месте и держал к ним речь.
+      podstr: "[В] урочный же день Ирод надевший одежду царскую и севший на возвышении
+        ораторствовал к ним;"
+      csya: В нареченный же день ирод, оболкся во одежду царску и сед на судище пред
+        народом, глаголаше к ним,
+      averincev: ""
+      ungerov: ""
+      csya_old: Въ нарече1нный же де1нь и4рwдъ, њбо1лксz во nде1жду цaрску и3 сёдъ на
+        суди1ще пред8 наро1домъ, глаго1лаше къ ни6мъ,
+      sovr_rbo: ""
+      latin: Statuto autem die Herodes vestitus veste regia, sedit pro tribunali, et
+        concionabatur ad eos.
+      ukr: Дня ж призначеного Ірод убрався в одежу царську, і на підвищенні сів та й
+        до них говорив.
+      nkjv: So on a set day Herod, arrayed in royal apparel, sat on his throne and
+        gave an oration to them.
+      desnitsky: ""
+      tex_rec: τακτῇ δὲ ἡμέρᾳ ὁ ῾Ηρῴδης ἐνδυσάμενος ἐσθῆτα βασιλικὴν καὶ καθίσας ἐπὶ
+        τοῦ βήματος ἐδημηγόρει πρὸς αὐτούς.
+      deutsch: Aber auf einen bestimmten Tag tat Herodes das königliche Kleid an,
+        setzte sich auf den Richtstuhl und tat eine Rede zu ihnen.
+      spanish: El día señalado, Herodes, vestido de las vestiduras reales, se sentó en
+        su estrado y les dirigió la palabra.
+      peshitta: ܒ݁ܝܰܘܡܳܐ ܕ݁ܶܝܢ ܝܺܕ݂ܺܝܥܳܐ ܠܒ݂ܶܫ ܗ݈ܘܳܐ ܗܶܪܳܘܕ݂ܶܣ ܠܒ݂ܽܘܫܳܐ ܕ݁ܡܰܠܟ݁ܽܘܬ݂ܳܐ
+        ܘܺܝܬ݂ܶܒ݂ ܥܰܠ ܒ݁ܺܝܡ ܘܰܡܡܰܠܶܠ ܗ݈ܘܳܐ ܥܰܡ ܟ݁ܶܢܫܳܐ܂
+      bel_syomukha: У назначаны дзень Ірад, убраўшыся ў царскія строі, сеў на
+        судзілішчы перад людзьмі і гаварыў да іх;
+      nrt: В назначенный день Ирод надел царскую мантию, сел на трон и обратился к ним
+        с речью.
+      romana: Si intr-o zi randuita, Irod, imbracandu-se in vesminte regesti si sezand
+        la tribuna, vorbea catre ei;
+      francais: A un jour fixé, Hérode, revêtu de ses habits royaux, et assis sur son
+        trône, les harangua publiquement.
+      italian: Nel giorno fissato Erode, vestito del manto regale e seduto sul podio,
+        tenne loro un discorso.
+      old_georgian: და დღესა ერთსა დაწესებულსა ჰეროდე შეიმოსა სამოსელი სამეუფოჲ და
+        დაჯდა საყდარსა ზედა და ზრახვიდა მათდა მიმართ.
+      portuguese: Num dia designado, Herodes, vestido de trajes reais, sentou-se no
+        trono e dirigia-lhes a palavra.
+      polish: "W oznaczonym dniu Herod ubrany w szaty królewskie zasiadł na tronie
+        i\rmiał do nich mowę."
+      new_text: Был назначен день приема, и Ирод, облаченный в царские одежды, уселся
+        на троне и обратился к ним с речью.
+      serbian: И у одређени дан обуче се Ирод у царску хаљину, и сјевши на пријесто
+        одржа им говор;
+      bulgarian: В определения ден Ирод се облече в царска дреха, седна на трона и
+        говореше към тях;
+      ukr2: І от призначеного дня Ірод, надягнувши царські шати і сівши на трибуні,
+        держав до них промову.
+      ukr3: "Призначеного ж дня Ірод, одігшись у царські шати і сївши на престолї,
+        промовляв до них:"
+      czech: Ve stanoveny den zasedl Herodes v kralovskem rouchu na trun a pronesl k
+        nim rec;
+      st_text: В назначенный день Ирод, одевшись в царскую одежду, сел на возвышенном
+        месте и говорил к ним;
+  - id: 13135
+    number: 22
+    bookId: 55
+    text: "а народ восклицал: <i>это</i> голос Бога, а не человека."
+    chapter: 12
+    chapterId: 1213
+    parallels:
+      - verseId: 33456
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 13
+        short: Сир:13:28
+      - verseId: 17176
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 28
+        short: Иез:28:2
+    translates:
+      kassian: "А народ восклицал: голос бога, а не человека!"
+      podstr: же народ выкрикивал, Бога голос а не человека.
+      csya: "народ же возглашаше: глас Божий, а не человечь."
+      averincev: ""
+      ungerov: ""
+      csya_old: "наро1дъ же возглашaше: глaсъ б9ій, ґ не человёчь."
+      sovr_rbo: ""
+      latin: "Populus autem acclamabat: Dei voces, et non hominis."
+      ukr: "А натовп кричав: Голос Божий, а не людський!"
+      nkjv: And the people kept shouting, "The voice of a god and not of a man!"
+      desnitsky: ""
+      tex_rec: ὁ δὲ δῆμος ἐπεφώνει· Θεοῦ φωνὴ καὶ οὐκ ἀνθρώπου.
+      deutsch: "Das Volk aber rief zu: Das ist Gottes Stimme und nicht eines Menschen!"
+      spanish: "y el pueblo comenzó a gritar: Palabra de Dios y no de hombre."
+      peshitta: ܥܰܡܳܐ ܕ݁ܶܝܢ ܟ݁ܽܠܶܗ ܩܳܥܶܐ ܗ݈ܘܳܐ ܘܳܐܡܰܪ ܗܳܠܶܝܢ ܒ݁ܢܳܬ݂ ܩܳܠܶܐ ܕ݁ܰܐܠܳܗܳܐ
+        ܐܶܢܶܝܢ ܘܠܳܐ ܗ݈ܘܰܝ ܕ݁ܰܒ݂ܢܰܝܢܳܫܳܐ܂
+      bel_syomukha: "а люд крычаў: гэта голас Бога, а не чалавека!"
+      nrt: "Народ стал восклицать: – Это голос бога, а не человека!"
+      romana: "Iar poporul striga: Acesta e glas dumnezeiesc, nu omenesc!"
+      francais: "Le peuple s'écria: Voix d'un dieu, et non d'un homme!"
+      italian: 'Il popolo acclamava: "Parola di un dio e non di un uomo!".'
+      old_georgian: "და ერი იგი ღაღადებდა: ღმრთისა ჴმაჲ არს და არა კაცისაჲ."
+      portuguese: "E o povo exclamava: É a voz de um deus, e não de um homem."
+      polish: "A lud wołał: ”To głos boga, a nie człowieka!”"
+      new_text: Народ шумно приветствовал его. — Это говорит не человек, а сам Бог! —
+        кричали они.
+      serbian: "А народ клицаше: Глас Божији, а не човјечији!"
+      bulgarian: "а народът викаше: това е Божий глас, а не човешки."
+      ukr2: "Народ же викрикував: «Це голос Бога, не людини.»"
+      ukr3: "Народ же покликував: Голос Бога, а не чоловіка!"
+      czech: "lid zacal provolavat: „To mluvi buh, ne clovek!“"
+      st_text: "а народ восклицал: <i>это</i> голос Бога, а не человека."
+  - id: 13136
+    number: 23
+    bookId: 55
+    text: Но вдруг Ангел Господень поразил его за то, что он не воздал славы Богу; и
+      он, быв изъеден червями, умер.
+    chapter: 12
+    chapterId: 1213
+    parallels:
+      - verseId: 12862
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 4
+        short: Дан:4:28
+      - verseId: 12888
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 5
+        short: Дан:5:20
+    translates:
+      kassian: И тотчас поразил его ангел Господень за то, что не воздал он славы
+        Богу, и, изъеденный червями, он испустил дух.
+      podstr: Тотчас же ударил его ангел Господа за которое не дал он славу Богу, и
+        сделавшийся червивый он испустил дух.
+      csya: "Внезапу же порази его ангел Господень, зане не даде славы Богу: и быв
+        червьми изъяден, издше."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Внезaпу же порази2 є3го2 ѓгг7лъ гDень, зане2 не даде2 слaвы бг7у: и3
+        бы1въ червьми2 и3з8zде1нъ, и4здше."
+      sovr_rbo: ""
+      latin: "Confestim autem percussit eum angelus Domini, eo quod non dedisset
+        honorem Deo: et consumptus a vermibus, expiravit."
+      ukr: І Ангол Господній уразив зненацька його, бо він не віддав слави Богові. І
+        черва його з'їла, і він умер...
+      nkjv: Then immediately an angel of the Lord struck him, because he did not give
+        glory to God. And he was eaten by worms and died.
+      desnitsky: ""
+      tex_rec: παραχρῆμα δ᾿ ἐπάταξεν αὐτὸν ἄγγελος Κυρίου ἀνθ᾿ ὧν οὐκ ἔδωκε τὴν δόξαν
+        τῷ Θεῷ, καὶ γενόμενος σκωληκόβρωτος ἐξέψυξεν.
+      deutsch: Alsbald schlug ihn der Engel des Herrn, darum daß er die Ehre nicht
+        Gott gab; und ward gefressen von den Würmern und gab den Geist auf.
+      spanish: Al instante le hirió el ángel del Señor, por cuanto no había
+        glorificado a Dios, y comido de gusanos expiró.
+      peshitta: ܘܰܚܠܳܦ݂ ܕ݁ܠܳܐ ܝܰܗ݈ܒ݂ ܬ݁ܶܫܒ݁ܽܘܚܬ݁ܳܐ ܠܰܐܠܳܗܳܐ ܒ݁ܳܗ ܒ݁ܫܳܥܬ݂ܳܐ ܡܚܳܝܗ݈ܝ
+        ܡܰܠܰܐܟ݂ܶܗ ܕ݁ܡܳܪܝܳܐ ܘܰܪܦ݂ܰܬ݂ ܒ݁ܬ݂ܰܘܠܥܶܐ ܘܡܺܝܬ݂܂
+      bel_syomukha: Але раптам анёл Гасподні паразіў яго за тое, што ён ня ўзьнёс
+        хвалы Богу; і ён заедзены чарвякамі, сканаў.
+      nrt: Но в тот же момент ангел Господа поразил Ирода, потому что он не воздал
+        славы Богу, и Ирод, изъеденный червями, умер.
+      romana: Si indata ingerul Domnului l-a lovit, pentru ca nu a dat slava lui
+        Dumnezeu. Si mancandu-l viermii, a murit.
+      francais: Au même instant, un ange du Seigneur le frappa, parce qu'il n'avait
+        pas donné gloire à Dieu. Et il expira, rongé des vers.
+      italian: Ma improvvisamente un angelo del Signore lo colpì, perché non aveva
+        dato gloria a Dio; e roso, dai vermi, spirò.
+      old_georgian: და მეყსეულად სცა მას ანგელოზმან უფლისამან ამისთჳს, რამეთუ არა
+        მისცა დიდებაჲ ღმერთსა, და იქმნა იგი მატლთა შესაჭმელ და სულნი წარჰჴდეს.
+      portuguese: No mesmo instante o anjo do Senhor o feriu, porque não deu glória a
+        Deus; e, comido de vermes, expirou.
+      polish: "Natychmiast poraził go anioł Pański za to, że nie oddał czci Bogu. I
+        wyzionął\rducha, stoczony przez robactwo."
+      new_text: И тут же поразил его ангел Господень за то, что он не воздал славу
+        Богу. Ирод умер, изъеденный червями.
+      serbian: Али одједном удари га анђео Господњи, јер не даде славе Богу; и  будући
+        изједен од црва издахну.
+      bulgarian: Но изведнъж Ангел Господен го порази, задето не въздаде Богу слава; и
+        той, изяден от червеи, умря.
+      ukr2: В ту ж саму мить ангел Господній вдарив його за те, що він не віддав
+        Богові слави. Черви пожерли його, і він помер.
+      ukr3: Зараз же поразив його ангел Господень за те, що не віддав слави Богу; і
+        з'їли його черви, і вмер.
+      czech: "A tu jej postihl andel Pane za to, ze si privlastnil cest patrici jen
+        Bohu: zemrel rozezran cervy."
+      st_text: Но вдруг Ангел Господень поразил его за то, что он не воздал славы
+        Богу; и он, быв изъеден червями, умер.
+  - id: 13137
+    number: 24
+    bookId: 55
+    text: Слово же Божие росло и распространялось.
+    chapter: 12
+    chapterId: 1213
+    parallels:
+      - verseId: 20970
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 55
+        short: Ис:55:11
+      - verseId: 13864
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 6
+        short: Деян:6:7
+      - verseId: 13381
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 19
+        short: Деян:19:20
+      - verseId: 22835
+        bookId: 69
+        bookCode: k-kolossanam-poslanie-ap-pavla
+        chapter: 1
+        short: Кол:1:6
+    translates:
+      kassian: А слово Божие росло и распространялось.
+      podstr: Же слово Бога росло и умножалось.
+      csya: Слово же Божие растяше и множашеся.
+      averincev: ""
+      ungerov: ""
+      csya_old: Сло1во же б9іе растsше и3 мно1жашесz.
+      sovr_rbo: ""
+      latin: Verbum autem Domini crescebat, et multiplicabatur.
+      ukr: Слово ж Боже росло та помножувалось.
+      nkjv: But the word of God grew and multiplied.
+      desnitsky: ""
+      tex_rec: ῾Ο δὲ λόγος τοῦ Θεοῦ ηὔξανε καὶ ἐπληθύνετο.
+      deutsch: Das Wort Gottes aber wuchs und mehrte sich.
+      spanish: La palabra del Señor más y más se extendía y se difundía.
+      peshitta: ܘܰܣܒ݂ܰܪܬ݂ܳܐ ܕ݁ܰܐܠܳܗܳܐ ܡܶܬ݂ܟ݁ܰܪܙܳܐ ܗ݈ܘܳܬ݂ ܘܪܳܒ݂ܝܳܐ܂
+      bel_syomukha: А слова Божае расло і пашыралася.
+      nrt: Слово Божье между тем распространялось все дальше и дальше.
+      romana: Iar cuvantul lui Dumnezeu crestea si se inmultea.
+      francais: Cependant la parole de Dieu se répandait de plus en plus, et le nombre
+        des disciples augmentait.
+      italian: Intanto la parola di Dio cresceva e si diffondeva.
+      old_georgian: რამეთუ სიტყუაჲ იგი ღმრთისაჲ აღორძნდებოდა და განმრავლდებოდა.
+      portuguese: E a palavra de Deus crescia e se multiplicava.
+      polish: A słowo Pańskie rozszerzało się i rosło.
+      new_text: Тем временем Божья Весть продолжала распространяться все шире и шире.
+      serbian: А ријеч Божија растијаше и множаше се.
+      bulgarian: А словото Божие растеше и се разпространяваше.
+      ukr2: А слово Боже росло і множилося.
+      ukr3: Слово ж Боже росло і множилось.
+      czech: Ale slovo Pane se sirit neprestalo.
+      st_text: Слово же Божие росло и распространялось.
+  - id: 13138
+    number: 25
+    bookId: 55
+    text: А Варнава и Савл, по исполнении поручения, возвратились из Иерусалима (в
+      Антиохию), взяв с собою и Иоанна, прозванного Марком.
+    chapter: 12
+    chapterId: 1213
+    parallels:
+      - verseId: 13113
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 11
+        short: Деян:11:30
+      - verseId: 13143
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 13
+        short: Деян:13:5
+    translates:
+      kassian: Варнава же и Савл, исполнив служение, возвратились из Иерусалима,
+        захватив с собой и Иоанна, прозванного Марком.
+      podstr: Варнава же и Савл возвратились в Иерусалим исполнившие служение,
+        забравшие с [собой] Иоанна прозванного Марка.
+      csya: Варнава же и савл возвратистася из Иерусалима во антиохию, исполнивша
+        службу, поемша с собою и иоанна, нарицаемаго марка.
+      averincev: ""
+      ungerov: ""
+      csya_old: Варнaва же и3 сavлъ возврати1стасz и3з8 їеrли1ма во ґнтіохjю,
+        и3спHлнивша слyжбу, поє1мша съ собо1ю и3 їwaнна, нарицaемаго мaрка.
+      sovr_rbo: ""
+      latin: Barnabas autem et Saulus reversi sunt ab Jerosolymis expleto ministerio
+        assumpto Joanne, qui cognominatus est Marcus.
+      ukr: А Варнава та Савл, службу виконавши, повернулись із Єрусалиму, узявши з
+        собою Івана, що прозваний Марком.
+      nkjv: And Barnabas and Saul returned from Jerusalem when they had fulfilled
+        their ministry, and they also took with them John whose surname was
+        Mark.
+      desnitsky: ""
+      tex_rec: Βαρνάβας δὲ καὶ Σαῦλος ὑπέστρεψαν ἐξ ῾Ιερουσαλὴμ πληρώσαντες τὴν
+        διακονίαν, συμπαραλαβόντες καὶ ᾿Ιωάννην τὸν ἐπικληθέντα Μᾶρκον.
+      deutsch: Barnabas aber und Saulus kehrten wieder von Jerusalem, nachdem sie
+        überantwortet hatten die Handreichung, und nahmen mit sich Johannes, mit
+        dem Zunamen Markus.
+      spanish: Bernabé y Saulo, cumplido su ministerio, volvieron de Jerusalén,
+        llevando consigo a Juan, llamado Marcos.
+      peshitta: ܒ݁ܰܪܢܰܒ݂ܰܐ ܕ݁ܶܝܢ ܘܫܳܐܘܳܠ ܦ݁ܢܰܘ ܡܶܢ ܐܽܘܪܺܫܠܶܡ ܠܰܐܢܛܺܝܳܘܟ݂ܺܝ ܡܶܢ ܒ݁ܳܬ݂ܰܪ
+        ܕ݁ܫܰܠܶܡܘ ܬ݁ܶܫܡܶܫܬ݁ܗܽܘܢ ܘܰܕ݂ܒ݂ܰܪܘ ܥܰܡܗܽܘܢ ܠܝܽܘܚܰܢܳܢ ܗܰܘ ܕ݁ܶܐܬ݂ܟ݁ܰܢܺܝ
+        ܡܰܪܩܳܘܣ܂
+      bel_syomukha: А Варнава і Саўл, выканаўшы даручэньне, вярнуліся зь Ерусаліма (ў
+        Атныахію), узяўшы з сабою і Яна, якога звалі Маркам.
+      nrt: Варнава и Савл выполнили возложенную на них миссию и возвратились из
+        Иерусалима, взяв с собой Иоанна, которого еще называли Марком.
+      romana: Iar Barnaba si Saul, dupa ce au indeplinit slujba lor, s-au intors de la
+        Ierusalim la Antiohia, luand cu ei pe Ioan, cel numit Marcu.
+      francais: Barnabas et Saul, après s'être acquittés de leur message, s'en
+        retournèrent de Jérusalem, emmenant avec eux Jean, surnommé Marc.
+      italian: Bàrnaba e Saulo poi, compiuta la loro missione, tornarono da
+        Gerusalemme prendendo con loro Giovanni, detto anche Marco.
+      old_georgian: ბარნაბა და სავლე მოიქცეს იერუსალჱმით ანტიოქიადვე, ვითარ-იგი
+        აღასრულეს მსახურებაჲ მათი; თანა წარიყვანეს იოვანეცა, რომელსა წოდებულ იყო
+        მარკოზ.
+      portuguese: "Barnabé e Saulo, havendo terminado aquele serviço, voltaram de
+        Jerusalém, levando consigo a João, que tem\r
+
+        por sobrenome Marcos."
+      polish: Barnaba i Szaweł, wypełniwszy swoje zadania, powrócili z Jerozolimy
+        zabierając z sobą Jana, zwanego Markiem.
+      new_text: А Варнава и Саул, исполнив в Иерусалиме порученное им дело,
+        возвратились назад, взяв с собой Иоанна Марка.
+      serbian: А Варнава и Савле предавши помоћ вратише се из Јерусалима у
+        Антиохију,  узевши са собом и Јована прозванога Марко.
+      bulgarian: Варнава и Савел, след като изпълниха поръчката, върнаха се от
+        Иерусалим (в Антиохия), като взеха със себе си и Иоана, наречен Марко.
+      ukr2: Варнава ж та Савло, виконавши службу й узявши з собою Йоана, прозваного
+        Марком, повернулися з Єрусалиму.
+      ukr3: Варнава ж та Савло вернулись із Єрусалиму, сповнивши службу, і взявши з
+        собою Йоана, званого Марком.
+      czech: Kdyz Barnabas a Saul splnili sve poslani, vratili se z Jeruzalema do
+        Antiochie a vzali s sebou Jana, zvaneho Marek.
+      st_text: А Варнава и Савл, по исполнении поручения, возвратились из Иерусалима
+        (в Антиохию), взяв с собою и Иоанна, прозванного Марком.
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""

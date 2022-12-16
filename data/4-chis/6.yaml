@@ -1,0 +1,2211 @@
+id: 123
+number: 6
+bookId: 4
+verseCount: 27
+title: Глава 6
+verses:
+  - id: 12315
+    number: 1
+    bookId: 4
+    text: "И сказал Господь Моисею, говоря:"
+    chapter: 6
+    chapterId: 123
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "И сказал Господь к Моисею говорящий:"
+      csya: "И рече Господь к моисею, глаголя:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 гDь къ мwmсе1ю, гlz:"
+      sovr_rbo: "Господь сказал Моисею:"
+      latin: "Locutusque est Dominus ad Moysen, dicens:"
+      ukr: "І Господь промовляв до Мойсея, говорячи:"
+      nkjv: Then the Lord spoke to Moses, saying,
+      desnitsky: ""
+      mt: ‫    וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה לֵּאמֹר׃ ‬
+      romana: "Si a grait Domnul cu Moise si a zis:"
+      francais: "L'Éternel parla à Moïse, et dit:"
+      italian: "Il Signore disse ancora a Mosè:"
+      old_georgian: "ეტყოდა უფალი მოსეს და ჰრქუა:"
+      portuguese: "Disse mais o Senhor a Moisés:"
+      polish: "Przemówił znowu Pan do Mojżesza tymi słowami:"
+      turkish: "RAB Musa'ya şöyle dedi:"
+      nrt: "Господь сказал Моисею:"
+      Macarius: "И говорил Господь Моисею, и сказал:"
+      serbian: "Још рече Господ Мојсију говорећи:"
+      bulgarian: "И рече Господ на Моисея, думайки:"
+      deutsch: "Und der Herr redete mit Mose und sprach:"
+      ukr2: "Господь промовив до Мойсея:"
+      ukr3: "І рече Господь Мойсейові:"
+      bel_syomukha: "І наказаў Гасподзь Майсею:"
+      lev-khv: "И сказал Господь Моисею, говоря:"
+      czech: "Hospodin promluvil k Mojzisovi:"
+      spanish: "Habló Yavé a Moisés, diciendo:"
+      greek-lxx: καὶ ἐλάλησεν Κύριος πρὸς Μωυσῆν λέγων
+      st_text: "И сказал Господь Моисею, говоря:"
+  - id: 12316
+    number: 2
+    bookId: 4
+    text: "объяви сынам Израилевым и скажи им: если мужчина или женщина решится дать
+      обет назорейства, чтобы посвятить себя в назореи Господу,"
+    chapter: 6
+    chapterId: 123
+    parallels:
+      - verseId: 35002
+        bookId: 7
+        bookCode: kniga-sudej-izrailevyh
+        chapter: 13
+        short: Суд:13:5
+      - verseId: 11
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 1
+        short: 1 Цар:1:11
+      - verseId: 5942
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 15
+        short: 2 Пар:15:16
+      - verseId: 5975
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 17
+        short: 2 Пар:17:16
+      - verseId: 15253
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 1
+        short: Иер:1:5
+    translates:
+      kassian: ""
+      podstr: "Скажи сыновьям Израиля и скажешь к ним: Мужчина или женщина, который
+        если сильно пообещал [по] обету очиститься чистотой Господу"
+      csya: "глаголи сыном израилевым и речеши к ним: муж или жена, иже аще обещается
+        зело обетом, еже очиститися чистотою Господу,"
+      averincev: ""
+      ungerov: ""
+      csya_old: "глаго1ли сынHмъ ї}лєвымъ и3 рече1ши къ ни6мъ: мyжъ и3ли2 женA, и4же
+        ѓще њбэщaетсz ѕэлw2 њбётомъ, є4же њчи1ститисz чистото1ю гDу,"
+      sovr_rbo: "«Передай сынам Израилевым: если кто-нибудь, мужчина или женщина, даст
+        обет посвятить себя Господу — обет назорейства ,"
+      latin: "Loquere ad filios Israel, et dices ad eos: Vir, sive mulier, cum
+        fecerint votum ut sanctificentur, et se voluerint Domino consecrare:"
+      ukr: "Промовляй до Ізраїлевих синів, і скажи їм: Чоловік або жінка, коли
+        вирішиться скласти обітницю назіра, щоб посвятити себе Господеві,"
+      nkjv: "\"Speak to the children of Israel, and say to them: 'When either a man or
+        woman consecrates an offering to take the vow of a Nazirite, to separate
+        himself to the Lord, "
+      desnitsky: ""
+      mt: ‫    דַּבֵּר אֶל־בְּנֵי יִשְׂרָאֵל וְאָמַרְתָּ אֲלֵהֶם אִישׁ אוֹ־אִשָּׁה
+        כִּי יַפְלִא לִנְדֹּר נֶדֶר נָזִיר לְהַזִּיר לַיהוָה׃ ‬
+      romana: '"Vorbeste fiilor lui Israel si zi catre ei: Daca barbat sau femeie va
+        hotari sa dea fagaduinta de nazireu, ca sa se afieroseasca nazireu
+        Domnului,'
+      francais: "Parle aux enfants d'Israël, et tu leur diras: Lorsqu'un homme ou une
+        femme se séparera des autres en faisant voeu de naziréat, pour se
+        consacrer à l'Éternel,"
+      italian: '"Parla agli Israeliti e riferisci loro: Quando un uomo o una donna
+        farà un voto speciale, il voto di nazireato, per consacrarsi al
+        Signore,'
+      old_georgian: "ეტყოდე ძეთა ისრაჱლისათა და არქუ მათ: მამაკაცმან, ანუ დედაკაცმან,
+        რომელმან ილოცოს ლოცვაჲ დიდად,"
+      portuguese: "Fala aos filhos de Israel, e dize-lhes: Quando alguém, seja homem,
+        seja mulher, fizer voto especial de nazireu, a\rfim de se separar para o
+        Senhor,"
+      polish: "”Tak mów do Izraelitów: gdy jaki mężczyzna lub kobieta złoży ślub
+        nazireatu,\raby się poświęcić dla Pana,"
+      turkish: «İsrail halkına de ki, `Eğer bir erkek ya da kadın RAB'be adanmış kişi
+        olarak RAB'be özel bir adak adamak, kendini RAB'be adamak isterse,
+      nrt: "– Говори с израильтянами и скажи им: «Если мужчина или женщина даст особый
+        обет, обет назорейства, чтобы посвятить себя Господу,"
+      Macarius: "Объяви сынам Израилевым, и скажи им: если мужчина или женщина даст
+        обет Назорейства, чтоб посвятить себя в Назореи Господу:"
+      serbian: "Реци синовима Израиљевијем, и кажи им: Кад човјек или жена учини
+        завјет назирејски, да буде назиреј Господу,"
+      bulgarian: "обади на синовете Израилеви и им кажи: ако мъж или жена се реши да
+        даде оброк за назорейство, за да се посвети Господу за назорей,"
+      deutsch: "Sage den Kindern Israel und sprich zu ihnen: Wenn ein Mann oder Weib
+        ein besonderes Gelübde tut, dem Herrn sich zu enthalten,"
+      ukr2: "“Скажи синам Ізраїля і повідай їм: Коли чоловік чи жінка врочисто
+        обрікається назорейським обітом, щоб посвятитися Господеві,"
+      ukr3: "Промов до синів Ізрайлевих і скажи їм: Коли чоловік чи жінка захоче
+        присьвятити себе шлюбом назарейським, щоб відлучившись віддатись
+        Господеві,"
+      bel_syomukha: "абвясьці сынам Ізраілевым і скажы ім: калі мужчына альбо жанчына
+        рашыцца даць заруку назарэйства, каб прысьвяціць сябе ў назарэі
+        Госпаду,"
+      lev-khv: "Объяви сынам Израилевым и скажи им: если мужчина или женщина решится
+        дать обет назорейства, чтобы посвятить себя в назореи Господу;"
+      czech: "„Mluv k Izraelcum a rekni jim: Kdyz se muz nebo zena rozhodne slozit
+        mimoradny slib nazirsky a zasveti se Hospodinu,"
+      spanish: "<<Habla a los hijos de Israel y diles: Si uno, hombre o mujer, hiciere
+        voto de consagración, consagrándose a Yavé,"
+      greek-lxx: λάλησον τοῖς υἱοῖς Ισραηλ καὶ ἐρεῖς πρὸς αὐτούς ἀνὴρ ἢ γυνή ὃς ἐὰν
+        μεγάλως εὔξηται εὐχὴν ἀφαγνίσασθαι ἁγνείαν Κυρίῳ
+      st_text: "объяви сынам Израилевым и скажи им: если мужчина или женщина решится
+        дать обет назорейства, чтобы посвятить себя в назореи Господу,"
+  - id: 12317
+    number: 3
+    bookId: 4
+    text: то он должен воздержаться от вина и <i>крепкого</i> напитка, и не должен
+      употреблять ни уксусу из вина, ни уксусу из напитка, и ничего
+      приготовленного из винограда не должен пить, и не должен есть ни сырых, ни
+      сушеных виноградных ягод;
+    chapter: 6
+    chapterId: 123
+    parallels:
+      - verseId: 35001
+        bookId: 7
+        bookCode: kniga-sudej-izrailevyh
+        chapter: 13
+        short: Суд:13:4
+      - verseId: 35011
+        bookId: 7
+        bookCode: kniga-sudej-izrailevyh
+        chapter: 13
+        short: Суд:13:14
+    translates:
+      kassian: ""
+      podstr: от вина и сикера, [да] очистится от вина и уксуса из вина и уксус из
+        сикера не будет пить и сколькое производит из виноградной грозди не
+        будет пить и виноград свежий и изюм не будет есть.
+      csya: "да воздержится от вина и сикера, и оцта винна и оцта от сикера да не
+        пиет: и, елика делаются от грозд винных, да не пиет, и гроздия свежаго и
+        сухаго да не снест."
+      averincev: ""
+      ungerov: ""
+      csya_old: "да воздержи1тсz t вінA и3 сіке1ра, и3 џцта вjнна и3 џцта t сіке1ра да
+        не піе1тъ: и3, є3ли6ка дёлаютсz t грHздъ вjнныхъ, да не піе1тъ, и3
+        гро1здіz свёжагw и3 сухaгw да не снёстъ."
+      sovr_rbo: то этот человек должен воздерживаться от вина и браги, не должен
+        употреблять винный уксус или уксус из браги, не должен пить виноградный
+        сок, не должен есть виноград или изюм.
+      latin: "a vino, et omni quod inebriare potest, abstinebunt. Acetum ex vino, et
+        ex qualibet alia potione, et quidquid de uva exprimitur, non bibent:
+        uvas recentes siccasque non comedent"
+      ukr: то він стримається від вина та п'янкого напою, не буде пити оцту винного та
+        оцту з п'янкого напою, і жодного виноградного соку не питиме, і не
+        їстиме ані свіжого, ані сухого винограду.
+      nkjv: he shall separate himself from wine and similar drink; he shall drink
+        neither vinegar made from wine nor vinegar made from similar drink;
+        neither shall he drink any grape juice, nor eat fresh grapes or raisins.
+      desnitsky: ""
+      mt: ‫    מִיַּיִן וְשֵׁכָר יַזִּיר חֹמֶץ יַיִן וְחֹמֶץ שֵׁכָר לֹא יִשְׁתֶּה
+        וְכָל־מִשְׁרַת עֲנָבִים לֹא יִשְׁתֶּה וַעֲנָבִים לַחִים וִיבֵשִׁים לֹא
+        יֹאכֵל׃ ‬
+      romana: Sa se fereasca de vin si de sichera; otet de vin si otet de sichera sa
+        nu bea si nimic din cele facute din struguri sa nu bea; nici struguri
+        proaspeti sau uscati sa nu manance.
+      francais: il s'abstiendra de vin et de boisson enivrante; il ne boira ni
+        vinaigre fait avec du vin, ni vinaigre fait avec une boisson enivrante;
+        il ne boira d'aucune liqueur tirée des raisins, et il ne mangera point
+        de raisins frais ni de raisins secs.
+      italian: si asterrà dal vino e dalle bevande inebrianti; non berrà aceto fatto
+        di vino né aceto fatto di bevanda inebriante; non berrà liquori tratti
+        dall'uva e non mangerà uva, né fresca né secca.
+      old_georgian: განიწმიდენინ სიწმიდითა უფლისაჲთა, ღჳნისაგან და თაფლუჭისა
+        განწმიდნეს და ძმარი ღჳნისაგან და ძმარი თაფრუჭისგან არა სუან და ყოველი,
+        რომელი იქმნების ღჳნისაგან, არა სუას და ყურძენი ახალი და შკიჭი არა ჭამოს.
+      portuguese: "abster-se-á de vinho e de bebida forte; não beberá, vinagre de
+        vinho, nem vinagre de bebida forte, nem bebida\ralguma feita de uvas,
+        nem comerá uvas frescas nem secas."
+      polish: "musi się powstrzymać od wina i sycery, nie może używać octu winnego i
+        octu\rz sycery ani soku z winogron; nie wolno mu jeść winogron zarówno
+        świeżych,\rjak i suszonych."
+      turkish: şaraptan ya da herhangi bir içkiden kaçınacak, şaraptan ya da başka
+        içkilerden yapılmış sirke içmeyecek. Üzüm suyu da içmeyecek. Yaş ya da
+        kuru üzüm yemeyecek.
+      nrt: пусть они воздержатся от вина и других крепких напитков и не употребляют
+        уксуса, изготовленного из вина или другого крепкого напитка. Им нельзя
+        пить виноградный сок и есть виноград или изюм.
+      Macarius: То он должен воздержаться от вина и всякого напитка, и не должен пить
+        ни уксуса из вина, ни уксуса из какого-либо напитка, и ничего
+        приготовленного из винограда не должен пить, и не должен есть ни сырых,
+        ни сушеных виноградных ягод.
+      serbian: Нека се уздржава од вина и силовита пића, и нека не пије оцта винскога
+        ни оцта од силовита пића нити каквога пића од грожђа, и нека не једе
+        грожђа ни новога ни сухога.
+      bulgarian: той трябва да се въздържа от вино и силно питие и не бива да
+        употребява нито винен оцет, нито оцет от силно питие, и не бива да пие
+        нищо, приготвено от грозде, и не бива да яде нито прясно, нито сухо
+        грозде;
+      deutsch: der soll sich Weins und starken Getränks enthalten; Weinessig oder
+        Essig von starkem Getränk soll er auch nicht trinken, auch nichts, das
+        aus Weinbeeren gemacht wird; er soll weder frische noch dürre Weinbeeren
+        essen.
+      ukr2: то від вина й п'янких напоїв буде стримуватись; ні винного, ні оцту з
+        інших п'янких напоїв не питиме і жадного виноградного соку не питиме, і
+        не їстиме ані свіжого, ані сушеного винограду.
+      ukr3: "Од вина й трунку запиваючого мусить здержуватись: оцту винного й оцту
+        трункового не пити ме; і жадного соку виноградного не пити ме, і не їсти
+        ме нї сьвіжого нї сушеного винограду."
+      bel_syomukha: дык ён павінен устрымацца ад віна і моцнага напою, і не павінен
+        спажываць ні воцату зь віна, ні воцату з напою, і нічога згатаванага зь
+        вінаграду не павінен піць, і не павінен есьці ні сырых, ні сушаных
+        вінаградных ягад;
+      lev-khv: То он должен воздержаться от вина и напитков, и не должен пить ни
+        уксуса из вина, ни уксуса из напитков, и никакого напитка из винограда
+        не должен пить, и не должен есть ни сырых, ни сушеных виноградных ягод.
+      czech: at se vystriha vina a opojneho napoje. Nebude pit nic kvaseneho, vino ani
+        opojny napoj, nebude pit stavu z hroznu ani jist cerstve nebo susene
+        hrozny.
+      spanish: se abstendrá de vino y de toda bebida embriagante; no beberá vinagre de
+        vino ni bebida embriagante; ni comerá uvas, ni frescas ni secas;
+      greek-lxx: ἀπὸ οἴνου καὶ σικερα ἁγνισθήσεται ἀπὸ οἴνου καὶ ὄξος ἐξ οἴνου καὶ
+        ὄξος ἐκ σικερα οὐ πίεται καὶ ὅσα κατεργάζεται ἐκ σταφυλῆς οὐ πίεται καὶ
+        σταφυλὴν πρόσφατον καὶ σταφίδα οὐ φάγεται
+      st_text: то он должен воздержаться от вина и <i>крепкого</i> напитка, и не
+        должен употреблять ни уксусу из вина, ни уксусу из напитка, и ничего
+        приготовленного из винограда не должен пить, и не должен есть ни сырых,
+        ни сушеных виноградных ягод;
+  - id: 12318
+    number: 4
+    bookId: 4
+    text: во все дни назорейства своего не должен он есть [и пить] ничего, что
+      делается из винограда, от зерен до кожи.
+    chapter: 6
+    chapterId: 123
+    parallels:
+      - verseId: 35001
+        bookId: 7
+        bookCode: kniga-sudej-izrailevyh
+        chapter: 13
+        short: Суд:13:4
+    translates:
+      kassian: ""
+      podstr: все дни обета его от всех, сколькие делаются из виноградной лозы, вино
+        из отжатого из винограда до виноградной косточки не будет есть.
+      csya: Во вся дни обета своего от всех, елика бывают от винничины вина, от кости
+        и до скорлупы да не пиете, ниже ясте от всего.
+      averincev: ""
+      ungerov: ""
+      csya_old: Во вс‰ дни6 њбёта своегw2 t всёхъ, є3ли6ка бывaютъ t вjнничины вінA, t
+        ко1сти и3 до скорлупы2 да не піе1те, ниже2 ћсте t всегw2.
+      sovr_rbo: Во все время его назорейства ему нельзя есть ничего, что приготовлено
+        из винограда, даже виноградные косточки или кожуру винограда.
+      latin: "cunctis diebus quibus ex voto Domino consecrantur: quidquid ex vinea
+        esse potest, ab uva passa usque ad acinum non comedent."
+      ukr: Усі дні посвячення свого не буде він їсти нічого, що зроблене з винограду,
+        від зернят аж до лушпиння.
+      nkjv: All the days of his separation he shall eat nothing that is produced by
+        the grapevine, from seed to skin.
+      desnitsky: ""
+      mt: ‫    כֹּל יְמֵי נִזְרוֹ מִכֹּל אֲשֶׁר יֵעָשֶׂה מִגֶּפֶן הַיַּיִן
+        מֵחַרְצַנִּים וְעַד־זָג לֹא יֹאכֵל׃ ‬
+      romana: In toate zilele, cat va fi nazireu, sa nu manance, nici sa bea vreo
+        bautura facuta din struguri, de la sambure pana la pielita.
+      francais: Pendant tout le temps de son naziréat, il ne mangera rien de ce qui
+        provient de la vigne, depuis les pépins jusqu'à la peau du raisin.
+      italian: Per tutto il tempo del suo nazireato non mangerà alcun prodotto della
+        vigna, dai chicchi acerbi alle vinacce.
+      old_georgian: ყოველია დღეთა ლოცვისა მისისათა ყოვლისაგან, რომელი იქმნების
+        ვენაჴისაგან, ღჳნოჲ საგუდლითგან ვიდრე ნატკუეცლადმდე არა ჭამოს.
+      portuguese: "Por todos os dias do seu nazireado não comerá de coisa alguma que
+        se faz da uva, desde os caroços até as\rcascas."
+      polish: "Przez cały czas trwania nazireatu nie będzie niczego spożywać z
+        winnego\rszczepu, począwszy od winogron niedojrzałych aż do wytłoczyn."
+      turkish: RAB'be adanmışlığı süresince çekirdekten kabuğuna dek asmanın ürününden
+        hiçbir şey yemeyecek.
+      nrt: Во все время назорейства им нельзя есть ничего с виноградной лозы – даже
+        зернышки и кожицу ягод.
+      Macarius: Во все дни Назорейства своего не должен он есть [и пить] ничего, что
+        делается из винограда, от зерен до кожи.
+      serbian: Докле год траје његово назирејство, нека не једе ништа од винове лозе,
+        ни зрна ни љуске.
+      bulgarian: през всички дни на своето назорейство той не бива да яде (и пие)
+        нищо, което се приготвя от грозде, - от семки до люспи.
+      deutsch: Solange solch ein Gelübde währt, soll er nichts essen, das man vom
+        Weinstock macht, vom Weinkern bis zu den Hülsen.
+      ukr2: Увесь час свого назорейства не їстиме нічого, що зроблено з виноградної
+        лози, чи то воно з винограду незрілого, чи з лушпиння.
+      ukr3: По ввесь час назарейства свого не їсти ме нїчого, що зроблено з винограду,
+        чи воно із зерен, чи з лушпиння.
+      bel_syomukha: праз усе дні назарэйства свайго не павінен ён есьці нічога, што
+        вырабляецца зь вінаграду, ад зерня да скуркі.
+      lev-khv: Во все дни назорейства своего не должен он вкушать ничего, чтó делается
+        из винограда, от зерен до кожи.
+      czech: Po celou dobu sveho nazirstvi neokusi nic z toho, co pochazi z vinne
+        revy, od nezralych hroznu az po vyhonky.
+      spanish: durante todo el tiempo de su nazareato no comerá fruto alguno de la
+        vid, desde la piel hasta los granos de la uva.
+      greek-lxx: πάσας τὰς ἡμέρας τῆς εὐχῆς αὐτοῦ ἀπὸ πάντων ὅσα γίνεται ἐξ ἀμπέλου
+        οἶνον ἀπὸ στεμφύλων ἕως γιγάρτου οὐ φάγεται
+      st_text: во все дни назорейства своего не должен он есть [и пить] ничего, что
+        делается из винограда, от зерен до кожи.
+  - id: 12319
+    number: 5
+    bookId: 4
+    text: "Во все дни обета назорейства его бритва не должна касаться головы его; до
+      исполнения дней, на которые он посвятил себя в назореи Господу, свят он:
+      должен растить волосы на голове своей."
+    chapter: 6
+    chapterId: 123
+    parallels:
+      - verseId: 35002
+        bookId: 7
+        bookCode: kniga-sudej-izrailevyh
+        chapter: 13
+        short: Суд:13:5
+      - verseId: 35081
+        bookId: 7
+        bookCode: kniga-sudej-izrailevyh
+        chapter: 16
+        short: Суд:16:19
+      - verseId: 11
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 1
+        short: 1 Цар:1:11
+    translates:
+      kassian: ""
+      podstr: Все дни обета очищения бритва не приблизится к голове его; пока [не]
+        исполнятся дни, сколькие пообещал Господу, святой будет питавший кудри
+        волос головы.
+      csya: "Во вся дни обета очищения своего бритва да не взыдет на главу его,
+        дондеже скончаются дние, елики обещал есть Господу: свят будет растяй
+        власы главы своея."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Во вс‰ дни6 њбёта њчище1ніz своегw2 бри1тва да не взы1детъ на главY
+        є3гw2, до1ндеже скончaютсz днjе, є3ли6ки њбэщaлъ є4сть гDу: с™ъ бyдетъ
+        растsй власы2 главы2 своеS."
+      sovr_rbo: "Все время, пока остается в силе его назорейский обет, он не должен
+        стричь волосы. Пока не завершится срок, на который этот человек посвятил
+        себя Господу, он свят: пусть отращивает волосы."
+      latin: Omni tempore separationis suae novacula non transibit per caput ejus
+        usque ad completum diem, quo Domino consecratur. Sanctus erit, crescente
+        caesarie capitis ejus.
+      ukr: Усі дні його посвячення на назіра бритва не торкнеться голови його; аж до
+        виповнення днів, що посвятить Господеві, він буде святий, мусить
+        запустити волосся голови своєї!
+      nkjv: All the days of the vow of his separation no razor shall come upon his
+        head; until the days are fulfilled for which he separated himself to the
+        Lord, he shall be holy. Then he shall let the locks of the hair of his
+        head grow.
+      desnitsky: ""
+      mt: ‫    כָּל־יְמֵי נֶדֶר נִזְרוֹ תַּעַר לֹא־יַעֲבֹר עַל־רֹאשׁוֹ עַד־מְלֹאת
+        הַיָּמִם אֲשֶׁר־יַזִּיר לַיהוָה קָדֹשׁ יִהְיֶה גַּדֵּל פֶּרַע שְׂעַר
+        רֹאשׁוֹ׃ ‬
+      romana: In toate zilele fagaduintei sale de nazireu sa nu treaca brici pe capul
+        sau; pana la implinirea zilelor, cate a afierosit Domnului, este sfant
+        si trebuie sa creasca parul pe capul lui.
+      francais: Pendant tout le temps de son naziréat, le rasoir ne passera point sur
+        sa tête; jusqu'à l'accomplissement des jours pour lesquels il s'est
+        consacré à l'Éternel, il sera saint, il laissera croître librement ses
+        cheveux.
+      italian: Per tutto il tempo del suo voto di nazireato il rasoio non passerà sul
+        suo capo; finché non siano compiuti i giorni per i quali si è consacrato
+        al Signore, sarà santo; si lascerà crescere la capigliatura.
+      old_georgian: ყოველთა დღეთა მათ განწმედისათა მახჳლი არა აღვიდეს თავსა მისსა,
+        ვიდრემდის აღივსნენ დღენი იგი, რომელ აღუთქუა უფალსა, წმიდა იყოს, მიუტეოს
+        სიგრძედ თმაჲ თავისაჲ.
+      portuguese: "Por todos os dias do seu voto de nazireado, navalha não passará
+        sobre a sua cabeça; até que se cumpram os\rdias pelos quais ele se tenha
+        separado para o Senhor, será santo; deixará crescer as guedelhas do
+        cabelo da sua\rcabeça."
+      polish: "Przez cały czas trwania nazireatu nożyce nie dotkną jego głowy. Dopóki
+        nie\rupłynie okres czasu, na który poświęcił się Panu, będzie święty i
+        ma pozwolić, by włosy jego rosły swobodnie."
+      turkish: «`RAB'be adanmışlığı süresince başına ustura değmeyecek. Kendini RAB'be
+        adadığı günler tamamlanıncaya dek kutsal olacak, saçını uzatacak.
+      nrt: Во все время обета назорейства пусть их головы не касается бритва. Пусть
+        они будут святы, пока не закончится время их посвящения Господу; пусть
+        они дадут волосам на голове отрасти.
+      Macarius: Во все дни обета Назорейства его бритва не должна касаться головы его.
+        До исполнения дней, на которые он посвятил себя в Назореи Господу, свят
+        он; должен растить волосы на голове своей.
+      serbian: Докле траје његово назирејство, нека му бритва не пријеђе преко главе;
+        докле се не наврше дани за које се учинио назиреј Господу, нека буде
+        свет и нека оставља косу на глави својој.
+      bulgarian: "През всички дни на оброка му за назорейство бръснач не бива да се
+        докосва до главата му; докле изтекат дните, през които се е посветил
+        Господу за назорей, той е свет: трябва да остави да растат космите на
+        главата му."
+      deutsch: Solange die Zeit solches seines Gelübdes währt, soll kein Schermesser
+        über sein Haupt fahren, bis das die Zeit aus sei, die er dem Herrn
+        gelobt hat; denn er ist heilig und soll das Haar auf seinem Haupt lassen
+        frei wachsen.
+      ukr2: По ввесь час його назорейського обіту бритва хай не торкається його
+        голови; поки не сповняться дні, що на них він посвятився Господеві, він
+        буде святий; він запустить волосся на голові в себе.
+      ukr3: По ввесь час шлюбу його назарейського бритва нехай не торкається голови
+        його; покіль не мине час той, що він відлучився для Господа, сьвятим
+        буде він; нехай запустить волосся на голові своїй.
+      bel_syomukha: "Праз усе дні зарукі назарэйства ягоная брытва не павінна
+        дакранацца да галавы ягонай; пакуль ня скончацца дні, на якія ён
+        прысьвяціў сябе ў назарэі Госпаду, сьвяты ён: павінен адпускаць валасы
+        на галаве сваёй."
+      lev-khv: Во все дни обета назорейства его бритва не должна касаться головы его.
+        До исполнения дней, на которые он посвятил себя в назореи Господу, свят
+        он; должен отпускать волосы на голове своей.
+      czech: Po celou dobu platnosti slibu sveho nazirstvi si neda britvou oholit
+        hlavu. Dokud neskonci doba, po kterou se zasvetil Hospodinu, bude svaty
+        a necha si na hlave volne rust vlasy.
+      spanish: Durante todo el tiempo de su voto de nazareo no pasará la navaja por su
+        cabeza; hasta que se cumpla el tiempo por el que se consagró a Yavé,
+        será santo y dejará libremente crecer su cabellera.
+      greek-lxx: πάσας τὰς ἡμέρας τῆς εὐχῆς τοῦ ἁγνισμοῦ ξυρὸν οὐκ ἐπελεύσεται ἐπὶ τὴν
+        κεφαλὴν αὐτοῦ ἕως ἂν πληρωθῶσιν αἱ ἡμέραι ὅσας ηὔξατο Κυρίῳ ἅγιος ἔσται
+        τρέφων κόμην τρίχα κεφαλῆς
+      st_text: "Во все дни обета назорейства его бритва не должна касаться головы его;
+        до исполнения дней, на которые он посвятил себя в назореи Господу, свят
+        он: должен растить волосы на голове своей."
+  - id: 12320
+    number: 6
+    bookId: 4
+    text: "Во все дни, на которые он посвятил себя в назореи Господу, не должен он
+      подходить к мертвому телу:"
+    chapter: 6
+    chapterId: 123
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "[Во] все дни обета Господу ко всякой душе умершей не войдёт;"
+      csya: Во вся дни обета своего Господу, ко всякой душе скончавшейся да не внидет.
+      averincev: ""
+      ungerov: ""
+      csya_old: Во вс‰ дни6 њбёта своегw2 гDу, ко всsкой душЁ скончaвшейсz да не
+        вни1детъ.
+      sovr_rbo: В течение всего того времени, на которое он посвятил себя Господу, он
+        не может приближаться к мертвому телу.
+      latin: Omni tempore consecrationis suae, super mortuum non ingredietur,
+      ukr: Усі дні посвячення його Господеві не підійде він до мертвого тіла,
+      nkjv: All the days that he separates himself to the Lord he shall not go near a
+        dead body.
+      desnitsky: ""
+      mt: ‫    כָּל־יְמֵי הַזִּירוֹ לַיהוָה עַל־נֶפֶשׁ מֵת לֹא יָבֹא׃ ‬
+      romana: "In toate zilele, pentru care s-a afierosit pe sine sa fie nazireul
+        Domnului, sa nu se apropie de trup mort:"
+      francais: Pendant tout le temps qu'il a voué à l'Éternel, il ne s'approchera
+        point d'une personne morte;
+      italian: Per tutto il tempo in cui rimane consacrato al Signore, non si
+        avvicinerà a un cadavere;
+      old_georgian: ყოველთა დღეთა ლოცვისა მისისათა უფლისა მიმართ სულსა ზედა
+        ასრულებულსა არა შევიდეს
+      portuguese: Por todos os dias da sua separação para o Senhor, não se aproximará
+        de cadáver algum.
+      polish: "W okresie, kiedy jest poświęcony dla Pana, nie może się zbliżyć do
+        żadnego\rtrupa."
+      turkish: Kendini RAB'be adadığı günler boyunca ölüye yaklaşmayacak.
+      nrt: Во все время их посвящения Господу им нельзя приближаться к мертвому телу.
+      Macarius: Во все дни, на которые он посвятил себя в Назореи Господу, не должен
+        он подходить к мертвому телу.
+      serbian: Докле трају дани за које се учинио назиреј Господу, нека не приступа к
+        мртвацу.
+      bulgarian: "През всички дни, в които се е посветил Господу за назорей, той не
+        бива да се доближава до мъртво тяло:"
+      deutsch: Die ganze Zeit über, die er dem Herrn gelobt hat, soll er zu keinem
+        Toten gehen.
+      ukr2: По ввесь час його посвячення Господеві не ввійде туди, де буде мертвий.
+      ukr3: По ввесь час, як відлучиться він для Господа, до жадного трупа не
+        приступати ме.
+      bel_syomukha: "Праз усе дні, на якія ён прысьвяціў сябе ў назарэі Госпаду, не
+        павінен ён падыходзіць да мёртвага цела:"
+      lev-khv: Во все дни, на которые он посвятил себя в назореи Господу, не должен он
+        подходить к мертвому телу.
+      czech: Po celou dobu sveho zasveceni Hospodinu nesmi prijit do styku se
+        zemrelym.
+      spanish: Durante todo el tiempo de su consagración a Yavé no se acercará a
+        cadáver alguno;
+      greek-lxx: πάσας τὰς ἡμέρας τῆς εὐχῆς Κυρίῳ ἐπὶ πάσῃ ψυχῇ τετελευτηκυίᾳ οὐκ
+        εἰσελεύσεται
+      st_text: "Во все дни, на которые он посвятил себя в назореи Господу, не должен
+        он подходить к мертвому телу:"
+  - id: 12321
+    number: 7
+    bookId: 4
+    text: <i>прикосновением</i> к отцу своему, и матери своей, и брату своему, и
+      сестре своей, не должен он оскверняться, когда они умрут, потому что
+      посвящение Богу его на главе его;
+    chapter: 6
+    chapterId: 123
+    parallels:
+      - verseId: 23326
+        bookId: 3
+        bookCode: levit
+        chapter: 21
+        short: Лев:21:2
+      - verseId: 23335
+        bookId: 3
+        bookCode: levit
+        chapter: 21
+        short: Лев:21:11
+    translates:
+      kassian: ""
+      podstr: по отцу и по матери и по брату и по сестре, не будет осквернён по ним
+        умерших их, потому что обет Бога его на нём на голове его;
+      csya: Над отцем и над материю, и над братом и над сестрою, да не осквернится над
+        ними, умершым им, яко обет Бога его на главе его.
+      averincev: ""
+      ungerov: ""
+      csya_old: Над8 nтце1мъ и3 над8 мaтерію, и3 над8 брaтомъ и3 над8 сестро1ю, да не
+        њскверни1тсz над8 ни1ми, ўме1ршымъ и5мъ, ћкw њбётъ бг7а є3гw2 на главЁ
+        є3гw2.
+      sovr_rbo: Даже если умрет его отец или мать, брат или сестра, он не должен
+        оскверняться прикосновением к ним, ибо на голове у него волосы
+        назорейства, знак посвящения Богу.
+      latin: nec super patris quidem et matris et fratris sororisque funere
+        contaminabitur, quia consecratio Dei sui super caput ejus est.
+      ukr: навіть через батька свого та через матір свою, через брата свого та через
+        сестру свою не занечиститься ними, коли б вони померли, бо на голові
+        його посвячення Богу його.
+      nkjv: He shall not make himself unclean even for his father or his mother, for
+        his brother or his sister, when they die, because his separation to God
+        is on his head.
+      desnitsky: ""
+      mt: ‫    לְאָבִיו וּלְאִמּוֹ לְאָחִיו וּלְאַחֹתוֹ לֹא־יִטַּמָּא לָהֶם בְּמֹתָם
+        כִּי נֵזֶר אֱלֹהָיו עַל־רֹאשׁוֹ׃ ‬
+      romana: Cand va muri tatal sau, sau mama sa, sau fratele sau, sau sora sa, sa nu
+        se spurce prin atingerea de ei, pentru ca afierosirea lui Dumnezeu este
+        pe capul lui.
+      francais: il ne se souillera point à la mort de son père, de sa mère, de son
+        frère ou de sa soeur, car il porte sur sa tête la consécration de son
+        Dieu.
+      italian: si trattasse anche di suo padre, di sua madre, di suo fratello e di sua
+        sorella, non si contaminerà per loro alla loro morte, perché porta sul
+        capo il segno della sua consacrazione a Dio.
+      old_georgian: მამასა ზედა და დედასა და ძმასა და დასა, არა შეიგინოს მათ შორის
+        სიკუდილსა მათსა, რამეთუ ლოცვაჲ უფლისა მისისაჲ მის ზედა თავსა მისსა.
+      portuguese: "Não se contaminará nem por seu pai, nem por sua mãe, nem por seu
+        irmão, nem por sua irmã, quando estes\rmorrerem; porquanto o nazireado
+        do seu Deus está sobre a sua cabeça:"
+      polish: Nawet przy swoim zmarłym ojcu, matce, bracie czy siostrze nie może
+        zaciągnąć nieczystości, gdyż nosi na swej głowie [znamię] poświęcenia
+        dla Pana.
+      turkish: Annesi, babası, erkek ya da kız kardeşi ölse bile onlar için kendini
+        kirletmeyecek. Çünkü kendini Tanrısı'na adama simgesi başı üzerindedir.
+      nrt: Даже если умрут их отец, мать, брат или сестра, им нельзя оскверняться
+        из-за них, потому что знак их посвящения Богу у них на голове.
+      Macarius: Прикосновением к отцу своему, и матери своей, и брату своему, и сестре
+        своей, не должен он оскверняться, когда они умрут, потому что обет
+        Назорейства Богу его на главе его.
+      serbian: Ни за оцем својим ни за матером својом ни за братом својим ни за
+        сестром својом, нека се за њима не скврни кад умру; јер је назирејство
+        Бога његова на глави његовој.
+      bulgarian: той не бива да се осквернява с допиране до баща си и майка си, до
+        брата си и сестра си, кога умрат, защото това, що е посветил на своя
+        Бог, е върху главата му;
+      deutsch: Er soll sich auch nicht verunreinigen an dem Tod seines Vaters, seiner
+        Mutter, seines Bruders oder seiner Schwester; denn das Gelübde seines
+        Gottes ist auf seinem Haupt.
+      ukr2: Ні ради батька свого, ні ради матері своєї, ні заради брата, ні задля
+        сестри не оскверниться він, коли помер хтось із них, бо знак посвячення
+        Богові своєму в нього на голові.
+      ukr3: Задля батька свого або матері своєї, задля брата свого або сестри своєї,
+        коли помре хто з них, нехай не опоганює себе; бо посьвяченнє Бога його
+        на голові його.
+      bel_syomukha: дакрананьнем да бацькі свайго і да маці сваёй, і брата свайго і
+        сястры сваёй не павінен ён апаганьвацца, калі яны памруць, бо
+        прысьвячэньне Богу яго на галаве ягонай;
+      lev-khv: <i>Прикосновением</i> к отцу своему и матери своей, брату своему и
+        сестре своей, не должен он оскверняться, когда они умрут; потому что
+        посвящение Богу его на голове его.
+      czech: Nesmi se poskvrnit ani tehdy, kdyz mu zemre otec nebo matka, bratr nebo
+        sestra, protoze na jeho hlave je nazirske znameni jeho Boha.
+      spanish: no se contaminará ni por su padre, ni por su madre, ni por su hermano,
+        ni por su hermana, si muriesen; porque lleva sobre su cabeza la
+        consagración a su Dios.
+      greek-lxx: ἐπὶ πατρὶ καὶ ἐπὶ μητρὶ καὶ ἐπ᾿ ἀδελφῷ καὶ ἐπ᾿ ἀδελφῇ οὐ μιανθήσεται
+        ἐπ᾿ αὐτοῖς ἀποθανόντων αὐτῶν ὅτι εὐχὴ Θεοῦ αὐτοῦ ἐπ᾿ αὐτῷ ἐπὶ κεφαλῆς
+        αὐτοῦ
+      st_text: <i>прикосновением</i> к отцу своему, и матери своей, и брату своему, и
+        сестре своей, не должен он оскверняться, когда они умрут, потому что
+        посвящение Богу его на главе его;
+  - id: 12322
+    number: 8
+    bookId: 4
+    text: во все дни назорейства своего свят он Господу.
+    chapter: 6
+    chapterId: 123
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: все дни обета его святой будет Господу.
+      csya: Вся дни обета его свят будет Господу.
+      averincev: ""
+      ungerov: ""
+      csya_old: Вс‰ дни6 њбёта є3гw2 с™ъ бyдетъ гDу.
+      sovr_rbo: На все время своего назорейства он посвящен Господу.
+      latin: Omnibus diebus separationis suae sanctus erit Domino.
+      ukr: Усі дні посвячення його святий він для Господа.
+      nkjv: All the days of his separation he shall be holy to the Lord.
+      desnitsky: ""
+      mt: ‫    כֹּל יְמֵי נִזְרוֹ קָדֹשׁ הוּא לַיהוָה׃ ‬
+      romana: In toate zilele cat va fi nazireu, este sfantul Domnului.
+      francais: Pendant tout le temps de son naziréat, il sera consacré à l'Éternel.
+      italian: Per tutto il tempo del suo nazireato egli è consacrato al Signore.
+      old_georgian: ყოველთა დღეთა ლოცვისა მისისათა წმიდა იყოს უფლისა.
+      portuguese: Por todos os dias do seu nazireado será santo ao Senhor.
+      polish: Podczas całego okresu trwania nazireatu jest poświęcony dla Pana.
+      turkish: Adanmışlığı süresince RAB için kutsal olacaktır.
+      nrt: Все время их назорейства они посвящены Господу.
+      Macarius: Во все дни Назорейства своего, он посвящен Господу.
+      serbian: Докле год траје назирејство његово, свет је Господу.
+      bulgarian: през всички дни на своето назорейство той е посветен Господу.
+      deutsch: Die ganze Zeit seines Gelübdes soll er dem Herrn heilig sein.
+      ukr2: По всі дні назорейства свого буде він святий Господеві.
+      ukr3: По всї днї назарейства свого він присьвячений Господеві.
+      bel_syomukha: праз усе дні назарэйства свайго сьвяты ён Госпаду.
+      lev-khv: Во все дни назорейства своего свят он Господу.
+      czech: Je svaty Hospodinuv po celou dobu sveho nazirstvi.
+      spanish: Todo el tiempo de su nazareato está consagrado a Yavé.
+      greek-lxx: πάσας τὰς ἡμέρας τῆς εὐχῆς αὐτοῦ ἅγιος ἔσται Κυρίῳ
+      st_text: во все дни назорейства своего свят он Господу.
+  - id: 12323
+    number: 9
+    bookId: 4
+    text: "Если же умрет при нем кто-нибудь вдруг, нечаянно, и он осквернит тем
+      голову назорейства своего: то он должен остричь голову свою в день
+      очищения его, в седьмой день должен остричь ее,"
+    chapter: 6
+    chapterId: 123
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Если же кто-либо умрёт внезапно при нём, тотчас будет осквернена голова
+        обета его, и обреет голову его [в] который день был очищен; [в] день
+        седьмой обреет.
+      csya: Аще же кто смертию внезапу умрет у него, абие осквернится глава обета его,
+        и обриет главу свою, в оньже день очистится, в день седмый да обриется,
+      averincev: ""
+      ungerov: ""
+      csya_old: Ѓще же кто2 сме1ртію внезaпу ќмретъ ў негw2, ѓбіе њскверни1тсz главA
+        њбёта є3гw2, и3 њбрjетъ главY свою2, во1ньже де1нь њчи1ститсz, въ де1нь
+        седмы1й да њбрjетсz,
+      sovr_rbo: Если кто-нибудь неожиданно умрет рядом с ним, и этим осквернит волосы
+        его назорейства, то в день, когда назорей снова станет чист, он должен
+        остричь волосы. Пусть острижет волосы на седьмой день после осквернения.
+      latin: "Sin autem mortuus fuerit subito quispiam coram eo, polluetur caput
+        consecrationis ejus: quod radet illico in eadem die purgationis suae, et
+        rursum septima."
+      ukr: А коли хто помре при ньому несподівано нагло, і він занечистить цим голову
+        свого посвячення, то оголить голову свою в день очищення свого, сьомого
+        дня оголить її.
+      nkjv: "'And if anyone dies very suddenly beside him, and he defiles his
+        consecrated head, then he shall shave his head on the day of his
+        cleansing; on the seventh day he shall shave it. "
+      desnitsky: ""
+      mt: ‫    וְכִי־יָמוּת מֵת עָלָיו בְּפֶתַע פִּתְאֹם וְטִמֵּא רֹאשׁ נִזְרוֹ
+        וְגִלַּח רֹאשׁוֹ בְּיוֹם טָהֳרָתוֹ בַּיּוֹם הַשְּׁבִיעִי יְגַלְּחֶנּוּ׃
+        ‬
+      romana: De va muri insa cineva langa el fara de veste si de naprasna, si prin
+        aceasta isi va intina capul sau de nazireu, sa-si tunda capul sau in
+        ziua curatirii sale;
+      francais: Si quelqu'un meurt subitement près de lui, et que sa tête consacrée
+        devienne ainsi souillée, il se rasera la tête le jour de sa
+        purification, il se la rasera le septième jour.
+      italian: Se uno gli muore accanto improvvisamente e il suo capo consacrato
+        rimane così contaminato, si raderà il capo nel giorno della sua
+        purificazione; se lo raderà il settimo giorno;
+      old_georgian: უკუეთუ ვინმე მოკუდეს მის თანა, მეყსეულად შეიგინა თავი ლოცვისა
+        მისისაჲ და დაიყჳნოს თავი მისი, რომელსა დღესა განწმიდნა.
+      portuguese: "Se alguém morrer subitamente junto dele, contaminando-se assim a
+        cabeça do seu nazireado, rapará a sua\rcabera no dia da sua purificação,
+        ao sétimo dia a rapará."
+      polish: "Gdyby jednak ktoś nagle przy nim umarł, i sprowadził przez to
+        nieczystość\rna jego poświęconą głowę, to on ostrzyże ją w dniu
+        oczyszczenia: ostrzyże ją\rdnia siódmego."
+      turkish: «`Eğer ansızın yanında biri ölür, adamış olduğu başını kirletirse,
+        temizlendiği gün, yedinci gün saçını tıraş edecek.
+      nrt: Если кто-то внезапно умрет в их присутствии, и волосы, которые они
+        освятили, будут осквернены, пусть они остригут голову в день своего
+        очищения – в седьмой день.
+      Macarius: "Если же умрет при нем мертвец вдруг нечаянно, и он осквернит тем
+        главу Назорейства своего: то он должен обрить голову свою в день
+        очищения его, в седьмой день должен обрить ее."
+      serbian: Ако ли би ко умро до њега на пречац, те би оскврнио назирејство главе
+        његове, нека обрије главу своју у дан чишћења својега, седми дан нека је
+        обрије.
+      bulgarian: Ако ли при него умре някой внезапно, неочаквано, и с това той
+        оскверни главата на своето назорейство, да остриже главата си в деня на
+        своето очистяне, в седмия ден да я остриже,
+      deutsch: Und wo jemand vor ihm unversehens plötzlich stirbt, da wird das Haupt
+        seines Gelübdes verunreinigt; darum soll er sein Haupt scheren am Tage
+        seiner Reinigung, das ist am siebenten Tage.
+      ukr2: А коли хтось несподівано помре при ньому і він осквернить свою посвячену
+        голову, то в день очищення обстриже голову собі; сьомого дня обстриже
+        її.
+      ukr3: І коли хто вмре, несподївано, при йому, і він опоганив посьвят голови
+        своєї, так мусить остригти голову собі в день очищення свого; семого дня
+        остриже її.
+      bel_syomukha: А калі памрэ пры ім хто-небудзь раптам, зьнянацку, і ён апаганіць
+        тым самым галаву назарэйства свайго, дык ён павінен астрыгчы галаву сваю
+        ў дзень ачышчэньня яго, на сёмы дзень павінен астрыгчы яе,
+      lev-khv: Если же умрет при нем кто нибудь вдруг, нечаянно, и он осквернит
+        освященную голову свою; то он должен остричь голову свою в день очищения
+        его, в седьмой день должен остричь ее,
+      czech: Kdyby vsak zcela nenadale pobliz neho nekdo zemrel a on poskvrnil svou
+        hlavu s nazirskym znamenim, oholi si ji v den, kdy se bude ocistovat,
+        oholi ji sedmeho dne.
+      spanish: Si ante él muriese alguno repentinamente, manchándose así su cabeza
+        consagrada, se raerá la cabeza en el día de su purificación; se la raerá
+        el séptimo día,
+      greek-lxx: ἐὰν δέ τις ἀποθάνῃ ἐξάπινα ἐπ᾿ αὐτῷ παραχρῆμα μιανθήσεται ἡ κεφαλὴ
+        εὐχῆς αὐτοῦ καὶ ξυρήσεται τὴν κεφαλὴν αὐτοῦ ᾗ ἂν ἡμέρᾳ καθαρισθῇ τῇ
+        ἡμέρᾳ τῇ ἑβδόμῃ ξυρηθήσεται
+      st_text: "Если же умрет при нем кто-нибудь вдруг, нечаянно, и он осквернит тем
+        голову назорейства своего: то он должен остричь голову свою в день
+        очищения его, в седьмой день должен остричь ее,"
+  - id: 12324
+    number: 10
+    bookId: 4
+    text: и в восьмой день должен принести двух горлиц, или двух молодых голубей, к
+      священнику, ко входу скинии собрания;
+    chapter: 6
+    chapterId: 123
+    parallels:
+      - verseId: 23016
+        bookId: 3
+        bookCode: levit
+        chapter: 12
+        short: Лев:12:8
+      - verseId: 23097
+        bookId: 3
+        bookCode: levit
+        chapter: 14
+        short: Лев:14:22
+    translates:
+      kassian: ""
+      podstr: И [в] день восьмой [да] принесёт двух горлиц или двух птенцов голубей к
+        священнику к дверям скинии свидетельства,
+      csya: "и в день осмый да принесет два горличища или два птенца голубина к жерцу
+        пред двери скинии свидения:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 въ де1нь nсмы1й да принесе1тъ двA гHрличища и3ли2 двA птєнцA
+        гwлуби1на къ жерцY пред8 двє1ри ски1ніи свидёніz:"
+      sovr_rbo: А на восьмой день пусть передаст священнику, у входа в Шатер Встречи,
+        двух горлиц или двух голубей.
+      latin: In octava autem die offeret duos turtures, vel duos pullos columbae
+        sacerdoti in introitu foederis testimonii.
+      ukr: А восьмого дня він принесе дві горлиці або двоє голубенят до священика до
+        входу скинії заповіту.
+      nkjv: Then on the eighth day he shall bring two turtledoves or two young pigeons
+        to the priest, to the door of the tabernacle of meeting;
+      desnitsky: ""
+      mt: ‫    וּבַיּוֹם הַשְּׁמִינִי יָבִא שְׁתֵּי תֹרִים אוֹ שְׁנֵי בְּנֵי יוֹנָה
+        אֶל־הַכֹּהֵן אֶל־פֶּתַח אֹהֶל מוֹעֵד׃ ‬
+      romana: In ziua a saptea sa se tunda, iar in ziua a opta sa aduca preotului doua
+        turturele sau doi pui de porumbel, la usa cortului adunarii,
+      francais: Le huitième jour, il apportera au sacrificateur deux tourterelles ou
+        deux jeunes pigeons, à l'entrée de la tente d'assignation.
+      italian: l'ottavo giorno porterà due tortore o due colombi al sacerdote,
+        all'ingresso della tenda del convegno.
+      old_georgian: და დღესა მეშჳდესა დაიყჳნოს და დღესა მერვესა მოიქუნეს ორნი გურიტნი,
+        ანუ ორნი მართუენი ტრედისანი მღდელისა მის კარად კარვისა საწამებელისა.
+      portuguese: Ao oitavo dia trará duas rolas ou dois pombinhos, ao sacerdote, à
+        porta da tenda da revelação;
+      polish: "Ósmego dnia przyniesie dwie synogarlice albo dwa młode gołębie
+        kapłanowi\rprzy wejściu do Namiotu Spotkania."
+      turkish: Sekizinci gün Buluşma Çadırı'nın giriş bölümünde kâhine iki kumru ya da
+        iki güvercin sunacak.
+      nrt: На восьмой день пусть они принесут священнику ко входу в шатер собрания
+        двух горлиц или двух молодых голубей.
+      Macarius: И в восьмой день должен принести двух горлиц, или двух молодых
+        голубей, к священнику, к дверям скинии собрания.
+      serbian: А осми дан нека донесе двије грлице или два голубића свештенику на
+        врата шатора од састанка.
+      bulgarian: а на осмия ден да занесе на свещеника при входа на скинията на
+        събранието две гургулици, или два млади гълъба.
+      deutsch: Und am achten Tage soll er zwei Turteltauben bringen oder zwei junge
+        Tauben zum Priester vor die Tür der Hütte des Stifts.
+      ukr2: Восьмого ж дня принесе священикові, до входу в намет зборів, дві горлиці
+        або двох голуб'ят.
+      ukr3: А восьмого дня подасть дві горлицї чи двоє голубенят сьвященникові, коло
+        входу в соборний намет.
+      bel_syomukha: і на восьмы дзень павінен прынесьці дзьве галубкі, альбо двух
+        маладых галубоў, сьвятару, да ўваходу ў скінію сходу;
+      lev-khv: И в осьмой день должен принести двух горлиц, или двух молодых голубей,
+        к священнику, ко входу скинии собрания.
+      czech: V osmy den prinese knezi dve hrdlicky nebo dve holoubatka ke vchodu do
+        stanu setkavani.
+      spanish: y al octavo presentará al sacerdote dos tórtolas o dos pichones a la
+        entrada del tabernáculo de la reunión.
+      greek-lxx: καὶ τῇ ἡμέρᾳ τῇ ὀγδόῃ οἴσει δύο τρυγόνας ἢ δύο νεοσσοὺς περιστερῶν
+        πρὸς τὸν ἱερέα ἐπὶ τὰς θύρας τῆς σκηνῆς τοῦ μαρτυρίου
+      st_text: и в восьмой день должен принести двух горлиц, или двух молодых голубей,
+        к священнику, ко входу скинии собрания;
+  - id: 12325
+    number: 11
+    bookId: 4
+    text: священник одну <i>из птиц</i> принесет в жертву за грех, а другую во
+      всесожжение, и очистит его от осквернения мертвым телом, и освятит голову
+      его в тот день;
+    chapter: 6
+    chapterId: 123
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и сделает священник одну о грехе и одну для всесожжения, и помолится о
+        нём священник о [в] чём [он] согрешил о душе и освятит голову его в тот
+        день,
+      csya: и да сотворит жрец едину греха ради, и другую во всесожжение, и да
+        помолится о нем жрец, о нихже согреши, о души, и освятит главу свою в
+        той день, в оньже освятися Господу, во дни обета своего.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 да сотвори1тъ жре1цъ є3ди1ну грэхA рaди, и3 другyю во всесожже1ніе,
+        и3 да помо1литсz њ не1мъ жре1цъ, њ ни1хже согрэши2, њ души2, и3
+        њсвzти1тъ главY свою2 въ то1й де1нь, во1ньже њсвzти1сz гDу, во дни6
+        њбёта своегw2.
+      sovr_rbo: Пусть священник принесет этих птиц в жертву (одну — как очистительную
+        жертву, вторую — как всесожжение) и так искупит его от осквернения
+        мертвым телом. И пусть назорей в тот же день снова освятит свою голову,
+      latin: "Faciet sacerdos unum pro peccato, et alterum in holocaustum, et
+        deprecabitur pro eo, quia peccavit super mortuo: sanctificabitque caput
+        ejus in die illo:"
+      ukr: І священик принесе одне на жертву за гріх, а одне на цілопалення, і
+        очистить його з того, що занечистився він мертвим тілом, і посвятить
+        його голову того дня.
+      nkjv: and the priest shall offer one as a sin offering and the other as a burnt
+        offering, and make atonement for him, because he sinned in regard to the
+        corpse; and he shall sanctify his head that same day.
+      desnitsky: ""
+      mt: ‫    וְעָשָׂה הַכֹּהֵן אֶחָד לְחַטָּאת וְאֶחָד לְעֹלָה וְכִפֶּר עָלָיו
+        מֵאֲשֶׁר חָטָא עַל־הַנָּפֶשׁ וְקִדַּשׁ אֶת־רֹאשׁוֹ בַּיּוֹם הַהוּא׃ ‬
+      romana: Si preotul sa aduca o pasare jertfa pentru pacat, iar pe cealalta ardere
+        de tot, si sa-l curete de spurcarea cea prin atingerea de trupul mort si
+        sa-i sfinteasca in ziua aceea capul lui.
+      francais: Le sacrificateur sacrifiera l'un comme victime expiatoire, et l'autre
+        comme holocauste, et il fera pour lui l'expiation de son péché à
+        l'occasion du mort. Le naziréen sanctifiera ainsi sa tête ce jour-là
+      italian: Il sacerdote ne offrirà uno in sacrificio espiatorio e l'altro in
+        olocausto e farà per lui il rito espiatorio del peccato in cui è incorso
+        a causa di quel morto; in quel giorno stesso, il nazireo consacrerà così
+        il suo capo.
+      old_georgian: და ყოს მღდელმან მან ერთი ცოდვისათჳს და ერთი ყოვლად დასაწველად და
+        ლხინება-ყოს მღდელმან მან, რომელთათჳს ცოდა სულისა მისთჳს და განწმიდოს
+        თავი მისი.
+      portuguese: "e o sacerdote oferecerá um como oferta pelo pecado, e o outro como
+        holocausto, e fará expiação por esse que\rpecou no tocante ao morto;
+        assim naquele mesmo dia santificará a sua cabeça."
+      polish: "Jednego złoży kapłan jako ofiarę przebłagalną, drugiego zaś na ofiarę
+        całopalną, i dokona przebłagania za niego, za winę, jaką zaciągnął przy
+        zwłokach\rzmarłego. W ten dzień zostanie znów głowa jego poświęcona."
+      turkish: Kâhin birini günah sunusu, öbürünü yakmalık sunu olarak sunacak.
+        Böylece ölünün yanında bulunmakla kirlenen adam arınacak. O gün başını
+        yeniden adayacak.
+      nrt: Пусть священник принесет одну из птиц в жертву за грех, а другую во
+        всесожжение, чтобы совершить для них отпущение, потому что они
+        осквернились, находясь рядом с мертвым телом. В тот же день пусть они
+        вновь освятят голову.
+      Macarius: Священник одну из сих птиц принесет в жертву за грех, а другую во
+        всесожжение, и очистит его от осквернения, происшедшего от прикосновения
+        к мертвому телу, и освятит главу его в тот день.
+      serbian: И свештеник нека зготови од једнога жртву за гријех, а од другога жртву
+        паљеницу, и нека га очисти од онога што је згријешио код мртваца; тако
+        ће посветити главу његову у тај дан.
+      bulgarian: Свещеникът да принесе една от птиците в жертва за грях, а другата за
+        всесъжение, и да го очисти от осквернението чрез мъртвото тяло и да
+        освети главата му в тоя ден;
+      deutsch: Und der Priester soll eine zum Sündopfer und die andere zum Brandopfer
+        machen und ihn versöhnen, darum daß er sich an einem Toten versündigt
+        hat, und also sein Haupt desselben Tages heiligen,
+      ukr2: А священик принесе одне як жертву за гріх, а друге на всепалення і
+        спокутує його вину з-за мерця, і знов освятить його голову того самого
+        дня,
+      ukr3: І принесе сьвященник одно як жертву за гріх, а друге на всепаленнє, і
+        спокутує його за те, що опоганив себе коло мерця; і осьвятить голову
+        йому того ж дня.
+      bel_syomukha: сьвятар адну птушку прынясе ў ахвяру за грэх, а другую на
+        цэласпаленьне, і ачысьціць яго ад апаганеньня мёртвым целам, і асьвеціць
+        галаву ў той дзень;
+      lev-khv: И принесет священник одну <i>из птиц</i> в жертву за грех, а другую во
+        всесожжение, и очистит его от прегрешения чрез мертвое тело, и освятит
+        голову его в тот день.
+      czech: Knez pripravi jedno v obet za hrich a druhe v obet zapalnou, aby za neho
+        vykonal smirci obrady proto, ze se prohresil pri mrtvem; toho dne mu
+        zase posveti hlavu.
+      spanish: El sacerdote ofrecerá uno en sacrificio por el pecado y el otro en
+        holocausto, haciendo por él la expiación de su pecado por el muerto.
+      greek-lxx: καὶ ποιήσει ὁ ἱερεὺς μίαν περὶ ἁμαρτίας καὶ μίαν εἰς ὁλοκαύτωμα καὶ
+        ἐξιλάσεται περὶ αὐτοῦ ὁ ἱερεὺς περὶ ὧν ἥμαρτεν περὶ τῆς ψυχῆς καὶ
+        ἁγιάσει τὴν κεφαλὴν αὐτοῦ ἐν ἐκείνῃ τῇ ἡμέρᾳ
+      st_text: священник одну <i>из птиц</i> принесет в жертву за грех, а другую во
+        всесожжение, и очистит его от осквернения мертвым телом, и освятит
+        голову его в тот день;
+  - id: 12326
+    number: 12
+    bookId: 4
+    text: и должен он снова начать посвященные Господу дни назорейства своего и
+      принести однолетнего агнца в жертву повинности; прежние же дни пропали,
+      потому что назорейство его осквернено.
+    chapter: 6
+    chapterId: 123
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "[в] который он был освящён Господу [в] дни обета, и [да] приведёт
+        ягнёнка однолетнего в [отношении] проступка, и дни прежние бессмысленные
+        будут, потому что была осквернена голова обета его."
+      csya: И да приведет агнца единолетна в преступление, и дние прежнии да не будут
+        ему в число, понеже осквернися глава обета его.
+      averincev: ""
+      ungerov: ""
+      csya_old: И# да приведе1тъ ѓгнца є3динолётна въ преступле1ніе, и3 днjе пре1жніи
+        да не бyдутъ є3мY въ число2, поне1же њскверни1сz главA њбёта є3гw2.
+      sovr_rbo: даст пред Господом обет назорейства на новый срок и приведет
+        годовалого ягненка как возместительную жертву. А прежний срок пропал,
+        потому что его назорейство оказалось оскверненным.
+      latin: "et consecrabit Domino dies separationis illius, offerens agnum anniculum
+        pro peccato: ita tamen ut dies priores irriti fiant, quoniam polluta est
+        sanctificatio ejus."
+      ukr: І почне він знову дні посвячення свого Господеві, і принесе однорічне ягня
+        на жертву за провину. А перші дні його будуть надаремні, бо
+        занечистилося його посвячення.
+      nkjv: He shall consecrate to the Lord the days of his separation, and bring a
+        male lamb in its first year as a trespass offering; but the former days
+        shall be lost, because his separation was defiled.
+      desnitsky: ""
+      mt: ‫    וְהִזִּיר לַיהוָה אֶת־יְמֵי נִזְרוֹ וְהֵבִיא כֶּבֶשׂ בֶּן־שְׁנָתוֹ
+        לְאָשָׁם וְהַיָּמִים הָרִאשֹׁנִים יִפְּלוּ כִּי טָמֵא נִזְרוֹ׃ ‬
+      romana: Apoi sa-si inceapa din nou zilele sale de nazireu, afierosite Domnului,
+        si sa aduca un berbec de un an jertfa de iertare, iar zilele dinainte
+        sunt pierdute, pentru ca nazireatul a fost intinat.
+      francais: Il consacrera de nouveau à l'Éternel les jours de son naziréat, et il
+        offrira un agneau d'un an en sacrifice de culpabilité; les jours
+        précédents ne seront point comptés, parce que son naziréat a été
+        souillé.
+      italian: Consacrerà di nuovo al Signore i giorni del suo nazireato e offrirà un
+        agnello dell'anno come sacrificio di riparazione; i giorni precedenti
+        non saranno contati, perché il suo nazireato è stato contaminato.
+      old_georgian: მას დღესა შინა მას დღესა განწმიდნეს უფლისა დღენი იგი ლოცვისანი და
+        მოჰგუაროს ტარიგი წელიწადეული ცოდვისა მისთჳს და პირველნი იგი დღენი
+        შეურაცხ იყუნენ, რამეთუ შეიგინა თავი ლოცვისა მისისაჲ.
+      portuguese: "Então separará ao Senhor os dias do seu nazireado, e para oferta
+        pela culpa trará um cordeiro de um ano; mas\ros dias antecedentes serão
+        perdidos, porquanto o seu nazireado foi contaminado."
+      polish: "Poświęci się znowu dla Pana na czas nazireatu i przyprowadzi baranka
+        rocznego jako ofiarę zadośćuczynienia. Poprzedni jednak okres nie będzie
+        policzony,\rgdyż splamił swoje poświęcenie."
+      turkish: Adanmışlığı süresince kendini RAB'be yeniden adayacak. Suç sunusu
+        olarak bir yaşında bir erkek kuzu getirecek. Önceki günler sayılmayacak,
+        çünkü adanmışlığı kirlenmiş sayıldı.
+      nrt: Пусть они посвятят себя Господу на время назорейства и принесут годовалого
+        ягненка в жертву повинности. Предыдущие дни не засчитываются, потому что
+        они осквернили свое назорейство.
+      Macarius: После сего он должен посвятить снова Господу дни Назорейства своего, и
+        принести однолетнего агнца в жертву повинности; прежние же дни пропали,
+        потому что Назорейство его осквернено.
+      serbian: И нека одијели Господу дане назирејства својега, и донесе јагње од
+        године за кривицу; а пређашњи дани пропадају, јер му се оскврнило
+        назирејство.
+      bulgarian: а той отново трябва да почне посветените Господу дни на своето
+        назорейство и да принесе шиле в жертва за вина; предишните пък дни да се
+        не смятат, защото назорейството му е осквернено.
+      deutsch: daß er dem Herrn die Zeit seines Gelübdes aushalte. Und soll ein
+        jähriges Lamm bringen zum Schuldopfer. Aber die vorigen Tage sollen
+        umsonst sein, darum daß sein Gelübde verunreinigt ist.
+      ukr2: і поновить дні його назорейства Господеві та й принесе однолітнє ягня в
+        жертву за провину; попередні ж дні пропадуть, бо назорейство його було
+        осквернене.
+      ukr3: І почне він знов днї свого відлучення назарейського Господеві, та й
+        принесе ягня однолїтне в жертву за провину; попереднї ж днї пішли марно,
+        бо опоганений посьвят його назарейський.
+      bel_syomukha: і павінен ён зноў пачаць прысьвечаныя Госпаду дні назарэйства
+        свайго і прынесьці ягня-адналетка ў ахвяру павіннасьці; а ранейшыя дні
+        прапалі, бо назарэйства ягонае апаганена.
+      lev-khv: И должен он посвятить <i>снова</i> Господу дни назорейства своего, и
+        принести однолетняго агнца в жертву повинности; прежние же дни пропали,
+        потому что назорейство его осквернено.
+      czech: On se pak znovu zasveti Hospodinu po dobu sveho nazirstvi a prinese
+        rocniho beranka jako obet za vinu; avsak predesla doba bude neplatna,
+        protoze sve nazirstvi poskvrnil.
+      spanish: Este día el nazareo consagrará otra vez su cabeza, la consagrará de
+        nuevo a Yavé por el tiempo de su nazareato, y ofrecerá un cordero primal
+        en sacrificio de expiación; el tiempo precedente no le será contado, por
+        haberse contaminado su nazareato.
+      greek-lxx: ᾗ ἡγιάσθη Κυρίῳ τὰς ἡμέρας τῆς εὐχῆς καὶ προσάξει ἀμνὸν ἐνιαύσιον εἰς
+        πλημμέλειαν καὶ αἱ ἡμέραι αἱ πρότεραι ἄλογοι ἔσονται ὅτι ἐμιάνθη κεφαλὴ
+        εὐχῆς αὐτοῦ
+      st_text: и должен он снова начать посвященные Господу дни назорейства своего и
+        принести однолетнего агнца в жертву повинности; прежние же дни пропали,
+        потому что назорейство его осквернено.
+  - id: 12327
+    number: 13
+    bookId: 4
+    text: "И вот закон о назорее, когда исполнятся дни назорейства его: должно
+      привести его ко входу скинии собрания,"
+    chapter: 6
+    chapterId: 123
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И это закон пообещавшего; [в] который если день исполнил дни обета его,
+        [да] принесёт он к дверям скинии свидетельства
+      csya: "И сей закон обещавшагося, в оньже день скончает дни обета своего, да
+        принесет сам к дверем скинии свидения:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# се1й зако1нъ њбэщaвшагwсz, во1ньже де1нь скончaетъ дни6 њбёта
+        своегw2, да принесе1тъ сaмъ къ две1ремъ ски1ніи свидёніz:"
+      sovr_rbo: Вот закон для назорея. Когда завершится срок его назорейства, пусть
+        приведут его ко входу в Шатер Встречи.
+      latin: Ista est lex consecrationis. Cum dies, quos ex voto decreverat,
+        complebuntur, adducet eum ad ostium tabernaculi foederis,
+      ukr: "І оце закон про назіра: того дня, коли виповнюються дні його посвячення,
+        священик приведе його до входу скинії заповіту."
+      nkjv: "'Now this is the law of the Nazirite: When the days of his separation are
+        fulfilled, he shall be brought to the door of the tabernacle of meeting.
+        "
+      desnitsky: ""
+      mt: ‫    וְזֹאת תּוֹרַת הַנָּזִיר בְּיוֹם מְלֹאת יְמֵי נִזְרוֹ יָבִיא אֹתוֹ
+        אֶל־פֶּתַח אֹהֶל מוֹעֵד׃ ‬
+      romana: "Iata legea cea pentru nazireu: cand se vor implini zilele lui de
+        nazireu, sa se aduca la usa cortului adunarii;"
+      francais: Voici la loi du naziréen. Le jour où il aura accompli le temps de son
+        naziréat, on le fera venir à l'entrée de la tente d'assignation.
+      italian: Questa è la legge del nazireato; quando i giorni del suo nazireato
+        saranno compiuti, lo si farà venire all'ingresso della tenda del
+        convegno;
+      old_georgian: ესე არს შჯული მლოცველისაჲ მის, რომელსა დღესა აღასრულნეს დღენი
+        ლოცვისა მისისანი, შეწიროს მან კართა თანა კარვისა წამებისათა.
+      portuguese: "Esta, pois, é a lei do nazireu: no dia em que se cumprirem os dias
+        do seu nazireado ele será trazido à porta da\rtenda da revelação,"
+      polish: Takie jest prawo dotyczące nazirejczyków. W dniu, kiedy upłynie czas
+        nazireatu, przyprowadzi się go ku wejściu do Namiotu Spotkania.
+      turkish: "«`Adanmış kişi için yasa şudur: Kendini adamış olduğu günler
+        tamamlanınca, Buluşma Çadırı'nın giriş bölümüne getirilecek."
+      nrt: Вот закон о назорее, когда время его освящения закончится. Его нужно
+        привести ко входу в шатер собрания.
+      Macarius: "И вот закон о Назорее, когда исполнятся дни Назорейства его: должно
+        привести его к дверям скинии собрания,"
+      serbian: "А ово је закон за назиреје: кад се наврше дани назирејству његову,
+        нека дође на врата шатора од састанка."
+      bulgarian: "И ето законът за назорея, когато се навършат дните на назорейството
+        му: трябва да го доведат при входа на скинията на събранието,"
+      deutsch: "Dies ist das Gesetz des Gottgeweihten: wenn die Zeit seines Gelübdes
+        aus ist, so soll man ihn bringen vor die Tür der Hütte des Stifts."
+      ukr2: "Ось закон про назорея: того дня, коли сповниться час його назорейства,
+        приведуть його до входу в намет зборів,"
+      ukr3: "І се закон про назарея: Того дня, як сповниться час відлучення його,
+        приведуть його до входу в соборний намет."
+      bel_syomukha: "І вось закон пра назарэя, калі скончацца дні назарэйства ягонага:
+        трэба прывесьці яго да ўваходу ў скінію сходу,"
+      lev-khv: "И вот закон о назорее: когда исполнятся дни назорейства его: должно
+        привести его ко входу скинии собрания;"
+      czech: "Toto je rad pro nazira: V den, kdy skonci doba jeho nazirstvi, privede
+        ho knez ke vchodu do stanu setkavani."
+      spanish: "Esta es la ley del nazareo: el día en que se cumpla el tiempo de su
+        nazareo, se presentará a la entrada del tabernáculo de la reunión para
+        hacer su ofrenda a Yavé:"
+      greek-lxx: καὶ οὗτος ὁ νόμος τοῦ εὐξαμένου ᾗ ἂν ἡμέρᾳ πληρώσῃ ἡμέρας εὐχῆς αὐτοῦ
+        προσοίσει αὐτὸς παρὰ τὰς θύρας τῆς σκηνῆς τοῦ μαρτυρίου
+      st_text: "И вот закон о назорее, когда исполнятся дни назорейства его: должно
+        привести его ко входу скинии собрания,"
+  - id: 12328
+    number: 14
+    bookId: 4
+    text: и он принесет в жертву Господу одного однолетнего агнца без порока во
+      всесожжение, и одну однолетнюю агницу без порока в жертву за грех, и
+      одного овна без порока в жертву мирную,
+    chapter: 6
+    chapterId: 123
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и [пусть] принесёт дар его Господу ягнёнка однолетнего безупречного
+        одного для всесожжения и агницу годовалую безупречную одну в [отношении]
+        греха и барана одного безупречного во спасение
+      csya: и да приведет дар свой Господу агнца единолетна непорочна единаго во
+        всесожжение, и агницу единолетну едину непорочну греха ради, и овна
+        единаго непорочна во спасение,
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 да приведе1тъ дaръ сво1й гDу ѓгнца є3динолётна непоро1чна є3ди1наго
+        во всесожже1ніе, и3 ѓгницу є3динолётну є3ди1ну непоро1чну грэхA рaди, и3
+        nвнA є3ди1наго непоро1чна во спасе1ніе,
+      sovr_rbo: Он должен доставить туда свое приношение Господу — годовалого ягненка
+        без изъянов для всесожжения, годовалую овцу без изъянов как
+        очистительную жертву, барана без изъянов для пиршественного
+        жертвоприношения,
+      latin: et offeret oblationes ejus Domino, agnum anniculum immaculatum in
+        holocaustum, et ovem anniculam immaculatam pro peccato, et arietem
+        immaculatum, hostiam pacificam,
+      ukr: І принесе він Господеві жертву свою, одне безвадне однорічне ягня на
+        цілопалення, і одну безвадну однорічну вівцю на жертву за гріх, і одного
+        безвадного барана на жертву мирну,
+      nkjv: "And he shall present his offering to the Lord: one male lamb in its first
+        year without blemish as a burnt offering, one ewe lamb in its first year
+        without blemish as a sin offering, one ram without blemish as a peace
+        offering,"
+      desnitsky: ""
+      mt: ‫    וְהִקְרִיב אֶת־קָרְבָּנוֹ לַיהוָה כֶּבֶשׂ בֶּן־שְׁנָתוֹ תָמִים אֶחָד
+        לְעֹלָה וְכַבְשָׂה אַחַת בַּת־שְׁנָתָהּ תְּמִימָה לְחַטָּאת
+        וְאַיִל־אֶחָד תָּמִים לִשְׁלָמִים׃ ‬
+      romana: "Sa aduca darul sau Domnului: un miel de un an, fara meteahna, ardere de
+        tot; o mioara de un an, fara meteahna, jertfa pentru pacat, si un berbec
+        de un an, fara meteahna, jertfa de impacare,"
+      francais: "Il présentera son offrande à l'Éternel: un agneau d'un an et sans
+        défaut pour l'holocauste, une brebis d'un an et sans défaut pour le
+        sacrifice d'expiation, et un bélier sans défaut pour le sacrifice
+        d'actions de grâces;"
+      italian: "egli presenterà l'offerta al Signore: un agnello dell'anno, senza
+        difetto, per l'olocausto; una pecora dell'anno, senza difetto, per il
+        sacrificio espiatorio, un ariete senza difetto, come sacrificio di
+        comunione;"
+      old_georgian: და მოართუას ძღუენი მისი უფალსა ტარიგი წელიწადეული უბიწოჲ ერთი
+        ყოვლად მწუარად და ტარიგი ნეზჳ წელიწადეული უბიწოჲ ერთი ცოდვისათჳს და
+        ვერძი ერთი უბიწოჲ ცხორებისათჳს.
+      portuguese: "e oferecerá a sua oferta ao Senhor: um cordeiro de um ano, sem
+        defeito, como holocausto, e uma cordeira de\rum ano, sem defeito, como
+        oferta pelo pecado, e um carneiro sem defeito como oferta pacífica;"
+      polish: "A on przyniesie jako dar ofiarny dla Pana baranka jednorocznego bez
+        skazy\rna ofiarę całopalną, dalej, jednoroczną owieczkę bez skazy na
+        ofiarę przebłagalną i barana bez skazy jako ofiarę biesiadną,"
+      turkish: "Orada RAB'be sunularını sunacak: Yakmalık sunu için bir yaşında
+        kusursuz bir erkek kuzu, günah sunusu olarak bir yaşında kusursuz bir
+        dişi kuzu, esenlik sunusu için kusursuz bir koç,"
+      nrt: "Пусть он принесет там жертвы Господу: годовалого ягненка-самца без изъяна
+        во всесожжение, годовалую самку без изъяна в жертву за грех, барана без
+        изъяна в жертву примирения"
+      Macarius: И он принесет в жертву Господу одного однолетнего агнца без порока во
+        всесожжение, и одну однолетнюю агницу без порока в жертву за грех, и
+        одного овна без порока в жертву благодарственную,
+      serbian: И нека донесе за жртву Господу јагње мушко од године здраво за жртву
+        паљеницу, и јагње женско од године здраво за гријех, и овна здрава за
+        жртву захвалну,
+      bulgarian: и той да принесе в жертва Господу едно мъжко шиле без недостатък за
+        всесъжение, и едно женско шиле без недостатък в жертва за грях и един
+        овен без недостатък за мирна жертва,
+      deutsch: Und er soll bringen sein Opfer dem Herrn, ein jähriges Lamm ohne Fehl
+        zum Brandopfer und ein jähriges Schaf ohne Fehl zum Sündopfer und einen
+        Widder ohne Fehl zum Dankopfer
+      ukr2: "і він принесе свою жертву Господеві: однолітнє ягня без вади на
+        всепалення та однолітню ягничку без вади на жертву за гріх; і одного
+        барана без вади на мирну жертву,"
+      ukr3: "І принесе він жертву свою Господеві: однолїтне ягня без скази на
+        всепаленнє, та однолїтню ягничку без скази на жертву за гріх; і барана
+        одного без скази на жертву мирну,"
+      bel_syomukha: і ён прынясе ў ахвяру Госпаду адно адналетняе ягня без пахібы на
+        цэласпаленьне, і адну адналетнюю авечку без пахібы ў ахвяру за грэх, і
+        аднаго барана без пахібы ў ахвяру мірную,
+      lev-khv: И он принесет в жертву Господу одного однолетняго агнца без порока во
+        всесожжение, и одну однолетнюю овцу без порока в жертву за грех, и
+        одного овна без порока в жертву мирную,
+      czech: Jako svuj dar Hospodinu prinese jednoho rocniho beranka bez vady k obeti
+        zapalne, jednu rocni ovci bez vady k obeti za hrich a jednoho berana bez
+        vady k obeti pokojne;
+      spanish: un cordero primal, sin defecto, para el holocausto; una oveja, sin
+        defecto, para el sacrificio por el pecado; un carnero, sin defecto, para
+        el sacrificio pacífico,
+      greek-lxx: καὶ προσάξει τὸ δῶρον αὐτοῦ Κυρίῳ ἀμνὸν ἐνιαύσιον ἄμωμον ἕνα εἰς
+        ὁλοκαύτωσιν καὶ ἀμνάδα ἐνιαυσίαν ἄμωμον μίαν εἰς ἁμαρτίαν καὶ κριὸν ἕνα
+        ἄμωμον εἰς σωτήριον
+      st_text: и он принесет в жертву Господу одного однолетнего агнца без порока во
+        всесожжение, и одну однолетнюю агницу без порока в жертву за грех, и
+        одного овна без порока в жертву мирную,
+  - id: 12329
+    number: 15
+    bookId: 4
+    text: и корзину опресноков из пшеничной муки, хлебов, испеченных с елеем, и
+      пресных лепешек, помазанных елеем, и при них хлебное приношение и
+      возлияние;
+    chapter: 6
+    chapterId: 123
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и корзину опресноков муки хлебы смешанные с маслом и оладьи опресноки
+        помазанные маслом и жертву их и возлияние их.
+      csya: и кош опресноков от муки пшеничны, хлебы смешаны с елеем, и опресноки
+        помазаны елеем, и жертву их и возлияние их.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 ко1шъ њпрэсно1кwвъ t муки2 пшени1чны, хлёбы смBшаны съ є3ле1емъ, и3
+        њпрэсно1ки пом†заны є3ле1емъ, и3 же1ртву и4хъ и3 возліsніе и4хъ.
+      sovr_rbo: корзину пресного хлеба из пшеничной муки (лепешки, смоченные оливковым
+        маслом, и пресные коржи, намазанные оливковым маслом), а также
+        надлежащее хлебное приношение и возлияния.
+      latin: "canistrum quoque panum azymorum qui conspersi sint oleo, et lagana
+        absque fermento uncta oleo, ac libamina singulorum:"
+      ukr: і кіш опрісноків із пшеничної муки, калачі, мішані в оливі, і прісні коржі,
+        помазані оливою, і хлібну їхню жертву, і їхні литі жертви.
+      nkjv: a basket of unleavened bread, cakes of fine flour mixed with oil,
+        unleavened wafers anointed with oil, and their grain offering with their
+        drink offerings.
+      desnitsky: ""
+      mt: ‫    וְסַל מַצּוֹת סֹלֶת חַלֹּת בְּלוּלֹת בַּשֶּׁמֶן וּרְקִיקֵי מַצּוֹת
+        מְשֻׁחִים בַּשָּׁמֶן וּמִנְחָתָם וְנִסְכֵּיהֶם׃ ‬
+      romana: Si un paner cu azime de faina de grau, framantate cu untdelemn, si cu
+        turte nedospite, unse cu untdelemn, cu darul lor de paine si cu turnarea
+        lor.
+      francais: une corbeille de pains sans levain, de gâteaux de fleur de farine
+        pétris à l'huile, et de galettes sans levain arrosées d'huile, avec
+        l'offrande et la libation ordinaires.
+      italian: un canestro di pani azzimi fatti con fior di farina, di focacce intrise
+        in olio, di schiacciate senza lievito unte d'olio, insieme con
+        l'oblazione e le libazioni relative.
+      old_georgian: და ლანკლითა უცომოჲ სამინდოჲსა პურნი შექმნილნი ზეთითა და ლელანგონი
+        უცომონი ზეთითა ცხებულნი,
+      portuguese: "e um cesto de pães ázimos, bolos de flor de farinha amassados com
+        azeite como também as respectivas ofertas\rde cereais e de libação."
+      polish: "nadto kosz chlebów przaśnych z najczystszej mąki zaprawionej oliwą i
+        przaśne\rpodpłomyki pomazane oliwą, łącznie z przynależną do nich ofiarą
+        pokarmową i płynną."
+      turkish: tahıl sunusu ve dökmelik sunularla birlikte bir sepet mayasız ekmek,
+        ince undan zeytinyağıyla yoğrulmuş pideler, üzerine yağ sürülmüş mayasız
+        yufkalar.
+      nrt: с положенными хлебными приношениями и жертвенными возлияниями и корзину
+        пресного хлеба с хлебами из лучшей муки, замешенными на масле, и
+        коржами, помазанными маслом.
+      Macarius: И корзину пресных лепешек из пшеничной муки, облитых елеем, и пресных
+        блинов, помазанных елеем, и при них хлебное приношение и возлияние,
+      serbian: И котарицу хљебова пријеснијех, колача од бијелога брашна замијешенијех
+        с уљем, и погача пријеснијех намазанијех уљем, с даром њиховијем и с
+        наљевом њиховијем.
+      bulgarian: и кошница с безквасни хлябове от пшенично брашно, хлябове, изпечени с
+        елей, и безквасни питки, намазани с елей, и заедно с тях хлебен принос и
+        възлияние.
+      deutsch: und einen Korb mit ungesäuerten Kuchen von Semmelmehl, mit Öl gemengt,
+        und ungesäuerte Fladen, mit Öl bestrichen, und ihre Speisopfer und
+        Trankopfer.
+      ukr2: і кошик опрісноків-коржів з питльованої муки, замішаної на олії, та
+        опрісноків-паляниць, помащених олією, до того й належні офіри та
+        возливання.
+      ukr3: "І кошик опрісноків: коржів із пшеничної муки, замішаної на олїї, та
+        палениць незаквашених, помазаних олїєю; а вкупі з ними і хлїбну і ливну
+        жертву свою."
+      bel_syomukha: і кош праснакоў з пшанічнай мукі, хлябоў, сьпечаных з алеем, і
+        прэсных ляпёшак, памазаных алеем, і пры іх хлебнае прынашэньне і
+        паліваньне;
+      lev-khv: И корзину опресноков из лучшей муки, пирогов, смешанных с елеем, и
+        пресных лепешек, помазанных елеем, и мучное приношение, и возлияние к
+        ним;
+      czech: dale kos nekvasenych chlebu, totiz bochanky z bile mouky zadelane olejem
+        a nekvasene oplatky pomazane olejem, a prislusne pridavne obeti a
+        ulitby.
+      spanish: y un cestillo de panes ácimos, de tortas de flor de harina amasada con
+        aceite, para la ofrenda y libación.
+      greek-lxx: καὶ κανοῦν ἀζύμων σεμιδάλεως ἄρτους ἀναπεποιημένους ἐν ἐλαίῳ καὶ
+        λάγανα ἄζυμα κεχρισμένα ἐν ἐλαίῳ καὶ θυσία αὐτῶν καὶ σπονδὴ αὐτῶν
+      st_text: и корзину опресноков из пшеничной муки, хлебов, испеченных с елеем, и
+        пресных лепешек, помазанных елеем, и при них хлебное приношение и
+        возлияние;
+  - id: 12330
+    number: 16
+    bookId: 4
+    text: и представит <i>сие</i> священник пред Господа, и принесет жертву его за
+      грех и всесожжение его;
+    chapter: 6
+    chapterId: 123
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И [да] принесёт священник перед Господом и сделает о грехах его и
+        всесожжение его
+      csya: И да принесет жрец пред Господа, и да сотворит еже греха ради его, и
+        всесожжение его,
+      averincev: ""
+      ungerov: ""
+      csya_old: И# да принесе1тъ жре1цъ пред8 гDа, и3 да сотвори1тъ є4же грэхA рaди
+        є3гw2, и3 всесожже1ніе є3гw2,
+      sovr_rbo: Пусть священник поднесет это приношение к Господу и совершит
+        очистительное жертвоприношение и всесожжение,
+      latin: quae offeret sacerdos coram Domino, et faciet tam pro peccato, quam in
+        holocaustum.
+      ukr: І принесе священик перед Господнє лице, і принесе його жертву за гріх та
+        його цілопалення.
+      nkjv: Then the priest shall bring them before the Lord and offer his sin
+        offering and his burnt offering;
+      desnitsky: ""
+      mt: ‫    וְהִקְרִיב הַכֹּהֵן לִפְנֵי יְהוָה וְעָשָׂה אֶת־חַטָּאתוֹ
+        וְאֶת־עֹלָתוֹ׃ ‬
+      romana: Pe acestea le va infatisa preotul inaintea Domnului, va savarsi jertfa
+        lui pentru pacat si arderea de lot a lui.
+      francais: Le sacrificateur présentera ces choses devant l'Éternel, et il offrira
+        sa victime expiatoire et son holocauste;
+      italian: Il sacerdote presenterà quelle cose davanti al Signore e offrirà il suo
+        sacrificio espiatorio e il suo olocausto;
+      old_georgian: და მსხუერპლი მათი და შესაწირავი მათი. და მოიღოს იგი მღდელმან მან
+        წინაშე უფლისა და ყოს იგი ცოდვისათჳს და მსხუერპლი იგი ყოვლად მწუარი მისი.
+      portuguese: E o sacerdote os apresentará perante o Senhor, e oferecerá a oferta
+        pelo pecado, e o holocausto;
+      polish: "Kapłan zaniesie wszystko przed Pana i złoży ofiarę przebłagalną oraz
+        ofiarę\rcałopalenia."
+      turkish: «`Kâhin bunları günah sunusu ve yakmalık sunu olarak RAB'bin önünde
+        sunacak.
+      nrt: Священник представит эти приношения перед Господом и принесет жертву за
+        грех и всесожжение.
+      Macarius: И представит сие священник пред Господа, и совершит жертву его за грех
+        и всесожжение его.
+      serbian: А то ће свештеник принијети пред Господом и учинити жртву за гријех
+        његов и жртву његову паљеницу.
+      bulgarian: И свещеникът да представи това пред Господа и да принесе жертвата му
+        за грях и всесъжението му;
+      deutsch: Und der Priester soll's vor den Herrn bringen und soll sein Sündopfer
+        und sein Brandopfer machen.
+      ukr2: І принесе це все священик перед Господа і виконає жертву за гріх та у
+        всепалення за назорея.
+      ukr3: І приведе їх сьвященник перед Господа, і принесе його жертву за гріх і
+        всепаленнє його.
+      bel_syomukha: і паставіць гэта сьвятар перад Госпадам і прынясе ахвяру ягоную за
+        грэх і цэласпаленьне ягонае;
+      lev-khv: И представит <i>это</i> священник пред Господа, и совершит жертву его
+        за грех и всесожжение его;
+      czech: Knez to prinese pred Hospodina a bude obetovat jeho obet za hrich a jeho
+        obet zapalnou.
+      spanish: El sacerdote los presentara a Yavé y ofrecerá su sacrificio por el
+        pecado y su holocausto.
+      greek-lxx: καὶ προσοίσει ὁ ἱερεὺς ἔναντι Κυρίου καὶ ποιήσει τὸ περὶ ἁμαρτίας
+        αὐτοῦ καὶ τὸ ὁλοκαύτωμα αὐτοῦ
+      st_text: и представит <i>сие</i> священник пред Господа, и принесет жертву его
+        за грех и всесожжение его;
+  - id: 12331
+    number: 17
+    bookId: 4
+    text: овна принесет в жертву мирную Господу с корзиною опресноков, также
+      совершит священник хлебное приношение его и возлияние его;
+    chapter: 6
+    chapterId: 123
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и барана сделает жертвой спасения Господу при корзине опресноков, и
+        сделает священник жертву его и возлияние его.
+      csya: и овна сотворит жертву спасения Господу на кошнице опресноков, и да
+        сотворит жрец жертву его и возлияние его.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 nвнA сотвори1тъ же1ртву спасе1ніz гDу на ко1шницэ њпрэсно1кwвъ, и3
+        да сотвори1тъ жре1цъ же1ртву є3гw2 и3 возліsніе є3гw2.
+      sovr_rbo: а также пусть принесет Господу пиршественную жертву — барана, вместе с
+        корзиной пресного хлеба. Пусть священник также совершит хлебное
+        приношение и возлияние.
+      latin: Arietem vero immolabit hostiam pacificam Domino, offerens simul canistrum
+        azymorum, et libamenta quae ex more debentur.
+      ukr: А барана принесе мирною жертвою для Господа на коші опрісноків, і священик
+        принесе його хлібну жертву та його жертву литу.
+      nkjv: and he shall offer the ram as a sacrifice of peace offering to the Lord,
+        with the basket of unleavened bread; the priest shall also offer its
+        grain offering and its drink offering.
+      desnitsky: ""
+      mt: ‫    וְאֶת־הָאַיִל יַעֲשֶׂה זֶבַח שְׁלָמִים לַיהוָה עַל סַל הַמַּצּוֹת
+        וְעָשָׂה הַכֹּהֵן אֶת־מִנְחָתוֹ וְאֶת־נִסְכּוֹ׃ ‬
+      romana: Berbecul il va aduce Domnului jertfa de impacare cu panerul cel de
+        azime; si va aduce preotul prinosul lui de paine si turnarea lui.
+      francais: il offrira le bélier en sacrifice d'actions de grâces à l'Éternel,
+        outre la corbeille de pains sans levain, avec l'offrande et la libation.
+      italian: offrirà l'ariete come sacrificio di co — munione al Signore, con il
+        canestro dei pani azzimi; il sacerdote offrirà anche l'oblazione e la
+        libazione.
+      old_georgian: და ვერძი იგი ყოს შესაწირავად ცხორებისა მისისათჳს უფლისა ლანკლანსა
+        მას თანა უცომოსა, და ყოს მღდელმან შესაწირავი იგი მისი და მსხუერპლი მისი.
+      portuguese: "também oferecerá o carneiro em sacrifício de oferta pacífica ao
+        Senhor, com o cesto de pães ázimos e as\rrespectivas ofertas de cereais
+        e de libação."
+      polish: "Barana natomiast złoży jako ofiarę biesiadną dla Pana, łącznie z
+        koszem\rchlebów przaśnych. Kapłan złoży potem jego ofiarę pokarmową i
+        płynną."
+      turkish: Esenlik kurbanı olarak da koçu mayasız ekmek sepetiyle birlikte RAB'be
+        sunacak. İlgili tahıl ve dökmelik sunuları da sunacak.
+      nrt: Затем он принесет Господу барана как жертву примирения вместе с корзиной
+        пресного хлеба, а также совершит хлебное приношение и жертвенные
+        возлияния.
+      Macarius: Овна совершит в жертву благодарственную Господу с корзиною опресноков,
+        также совершит священник хлебное приношение его и возлияние его.
+      serbian: А овна ће принијети на жртву захвалну Господу с котарицом пријеснијех
+        хљебова; принијеће свештеник и дар његов и наљев његов.
+      bulgarian: овена да принесе Господу за мирна жертва заедно с кошницата безквасни
+        хлябове; така също свещеникът да извърши хлебния му принос и възлиянието
+        му.
+      deutsch: Und den Widder soll er zum Dankopfer machen dem Herrn samt dem Korbe
+        mit den ungesäuerten Brot; und soll auch sein Speisopfer und sein
+        Trankopfer machen.
+      ukr2: А барана принесе як мирну жертву Господеві вкупі з кошиком опрісноків, і
+        принесе офіру та возливання до Того.
+      ukr3: А барана принесе як жертву мирну Господеві вкупі з кошиком опрісноків, і
+        принесе сьвященник хлїбну і ливну жертву його.
+      bel_syomukha: барана прынясе ў ахвяру мірную Госпаду з кашом праснакоў, таксама
+        ўчыніць сьвятар хлебнае прынашэньне ягонае і паліваньне ягонае;
+      lev-khv: А овна совершит в жертву мирную Господу с корзиною опресноков, и
+        совершит священник мучное приношение его и возлияние его.
+      czech: Berana pripravi Hospodinu jako hod obeti pokojne spolu s kosem
+        nekvasenych chlebu; knez pripravi i jeho pridavnou obet a jeho ulitbu.
+      spanish: Después presentará a Yavé el carnero de un sacrificio pacífico, con el
+        cestillo de panes ácimos, y hará la oblación y la libación.
+      greek-lxx: καὶ τὸν κριὸν ποιήσει θυσίαν σωτηρίου Κυρίῳ ἐπὶ τῷ κανῷ τῶν ἀζύμων
+        καὶ ποιήσει ὁ ἱερεὺς τὴν θυσίαν αὐτοῦ καὶ τὴν σπονδὴν αὐτοῦ
+      st_text: овна принесет в жертву мирную Господу с корзиною опресноков, также
+        совершит священник хлебное приношение его и возлияние его;
+  - id: 12332
+    number: 18
+    bookId: 4
+    text: и острижет назорей у входа скинии собрания голову назорейства своего, и
+      возьмет волосы головы назорейства своего, и положит на огонь, который под
+      мирною жертвою;
+    chapter: 6
+    chapterId: 123
+    parallels:
+      - verseId: 13351
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 18
+        short: Деян:18:18
+      - verseId: 13510
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 21
+        short: Деян:21:24
+    translates:
+      kassian: ""
+      podstr: И обреет пообещавший у дверей скинии свидетельства голову обета его и
+        наложит волосы на огонь, который есть под жертвой спасения.
+      csya: "И да обриет обещавый пред дверми скинии свидения главу обета своего, и да
+        возложит власы на огнь, иже есть под жертвою спасения:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# да њбрjетъ њбэщaвый пред8 две1рьми ски1ніи свидёніz главY њбёта
+        своегw2, и3 да возложи1тъ власы2 на џгнь, и4же є4сть под8 же1ртвою
+        спасе1ніz:"
+      sovr_rbo: Назорей должен остричь волосы у входа в Шатер Встречи , а затем взять
+        эти волосы назорейства своего и бросить их в огонь, на котором сжигают
+        пиршественную жертву.
+      latin: "Tunc radetur nazaraeus ante ostium tabernaculi foederis caesarie
+        consecrationis suae: tolletque capillos ejus, et ponet super ignem, qui
+        est suppositus sacrificio pacificorum:"
+      ukr: І оголить той назір голову свого посвячення у входа скинії заповіту, і
+        візьме волосся голови свого посвячення та й покладе на огонь, що під
+        мирною жертвою.
+      nkjv: Then the Nazirite shall shave his consecrated head at the door of the
+        tabernacle of meeting, and shall take the hair from his consecrated head
+        and put it on the fire which is under the sacrifice of the peace
+        offering.
+      desnitsky: ""
+      mt: ‫    וְגִלַּח הַנָּזִיר פֶּתַח אֹהֶל מוֹעֵד אֶת־רֹאשׁ נִזְרוֹ וְלָקַח
+        אֶת־שְׂעַר רֹאשׁ נִזְרוֹ וְנָתַן עַל־הָאֵשׁ אֲשֶׁר־תַּחַת זֶבַח
+        הַשְּׁלָמִים׃ ‬
+      romana: Si isi va tunde nazireul la intrarea cortului adunarii capul sau de
+        nazireu si va lua parul capului sau de nazireu si-l va pune pe focul cel
+        de sub jertfa de impacare.
+      francais: Le naziréen rasera, à l'entrée de la tente d'assignation, sa tête
+        consacrée; il prendra les cheveux de sa tête consacrée, et il les mettra
+        sur le feu qui est sous le sacrifice d'actions de grâces.
+      italian: Il nazireo raderà, all'ingresso della tenda del convegno, il suo capo
+        consacrato; prenderà i capelli del suo capo consacrato e li metterà sul
+        fuoco che è sotto il sacrificio di comunione.
+      old_georgian: და დაიყჳნოს მლოცველმან მან კართა თანა კარვისა საწამებელისათა თავი
+        ლოცვისა მისისაჲ და დადვას თმაჲ იგი ცეცხლსა მას, რომელ-იგი არს შესაწირავი
+        მის ცხოვრებისაჲ.
+      portuguese: "Então o nazireu, à porta da tenda da revelação, rapará o cabelo do
+        seu nazireado, tomá-lo-á e o porá sobre o\rfogo que está debaixo do
+        sacrifício das ofertas pacíficas."
+      polish: "Wtedy u wejścia do Namiotu Spotkania ostrzyże nazirejczyk swe
+        poświęcone\rwłosy i rzuci je w ogień, w którym płonie ofiara biesiadna."
+      turkish: «`Sonra adanmış kişi Buluşma Çadırı'nın giriş bölümünde adadığı saçını
+        tıraş edecek, saçını alıp esenlik kurbanının altındaki ateşe koyacak.
+      nrt: Пусть у входа в шатер собрания назорей острижет волосы своего посвящения.
+        Пусть он возьмет их и бросит их в огонь, горящий под жертвой примирения.
+      Macarius: И обреет Назорей у дверей скинии собрания главу Назорейства своего, и
+        возьмет волосы главы Назорейства своего и положит на огонь, который под
+        благодарственною жертвою.
+      serbian: Тада назиреј нека обрије главу својега назирејства на вратима шатора од
+        састанка; и узев косу назирејства својега, нека је метне у огањ који је
+        под жртвом захвалном.
+      bulgarian: А при входа на скинията на събранието назореят да остриже посветената
+        си глава, да вземе космите от посветената си глава и да ги тури на
+        огъня, що е под мирната жертва.
+      deutsch: Und der Geweihte soll das Haupt seines Gelübdes scheren vor der Tür der
+        Hütte des Stifts und soll das Haupthaar seines Gelübdes nehmen und aufs
+        Feuer werfen, das unter dem Dankopfer ist.
+      ukr2: І назорей обстриже, коло входу в намет зборів, свою посвячену голову і
+        візьме посвячене волосся та й покладе на вогонь, той, що під мирною
+        жертвою.
+      ukr3: І остриже назарей коло входу в соборний намет голову назарейства свого, і
+        возьме волоссє з голови назарейства свого та й положить на вогонь, що
+        під жертвою мирною.
+      bel_syomukha: і астрыжэ назарэй каля ўваходу ў скінію сходу галаву назарэйства
+        свайго, і возьме валасы галавы назарэйства свайго, і пакладзе на агонь,
+        які пад мірнаю ахвяраю;
+      lev-khv: И острижет назорей у входа скинии собрания освященную голову свою, и
+        возьмет волосы освященной головы своей, и положит на огонь, который под
+        мирною жертвою.
+      czech: Nazir si pak u vchodu do stanu setkavani oholi na hlave nazirske znameni,
+        vezme vlasy z hlavy, sve nazirske znameni, a da je na ohen, ktery bude
+        pod pokojnou obeti.
+      spanish: El nazareo raerá a la entrada del tabernáculo de la reunión su cabeza
+        consagrada, y, tomando los cabellos de su cabeza consagrada, los echará
+        al fuego que arde bajo el sacrificio.
+      greek-lxx: καὶ ξυρήσεται ὁ ηὐγμένος παρὰ τὰς θύρας τῆς σκηνῆς τοῦ μαρτυρίου τὴν
+        κεφαλὴν τῆς εὐχῆς αὐτοῦ καὶ ἐπιθήσει τὰς τρίχας ἐπὶ τὸ πῦρ ὅ ἐστιν ὑπὸ
+        τὴν θυσίαν τοῦ σωτηρίου
+      st_text: и острижет назорей у входа скинии собрания голову назорейства своего, и
+        возьмет волосы головы назорейства своего, и положит на огонь, который
+        под мирною жертвою;
+  - id: 12333
+    number: 19
+    bookId: 4
+    text: и возьмет священник сваренное плечо овна и один пресный пирог из корзины и
+      одну пресную лепешку, и положит на руки назорею, после того, как острижет
+      он голову назорейства своего;
+    chapter: 6
+    chapterId: 123
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И возьмёт священник предплечье варёное от барана и хлеб один пресный из
+        корзины и сдобный пресный один и возложит на руки пообещавшего после
+        обриться ему [по] обету его;
+      csya: и да возмет жрец рамо варено от овна, и хлеб един опресночный от кошницы,
+        и опреснок един, и да возложит на руки обещавшемуся, по обритии главы
+        его,
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 да во1зметъ жре1цъ рaмо варе1но t nвнA, и3 хлёбъ є3ди1нъ
+        њпрэсно1чный t ко1шницы, и3 њпрэсно1къ є3ди1нъ, и3 да возложи1тъ на рyки
+        њбэщaвшемусz, по њбри1тіи главы2 є3гw2,
+      sovr_rbo: Когда назорей острижет волосы назорейства своего, священник должен
+        взять сваренную переднюю ногу барана и пресную лепешку из корзины, а
+        также пресный корж, и возложить все это на руки назорея.
+      latin: et armum coctum arietis, tortamque absque fermento unam de canistro, et
+        laganum azymum unum, et tradet in manus nazaraei, postquam rasum fuerit
+        caput ejus.
+      ukr: І візьме священик варену лопатку з барана, і одного прісного калача з коша,
+        і одного прісного коржика, та й дасть на долоні назіра, як він оголить
+        голову свого посвячення.
+      nkjv: And the priest shall take the boiled shoulder of the ram, one unleavened
+        cake from the basket, and one unleavened wafer, and put them upon the
+        hands of the Nazirite after he has shaved his consecrated hair,
+      desnitsky: ""
+      mt: ‫    וְלָקַח הַכֹּהֵן אֶת־הַזְּרֹעַ בְּשֵׁלָה מִן־הָאַיִל וְחַלַּת מַצָּה
+        אַחַת מִן־הַסַּל וּרְקִיק מַצָּה אֶחָד וְנָתַן עַל־כַּפֵּי הַנָּזִיר
+        אַחַר הִתְגַּלְּחוֹ אֶת־נִזְרוֹ׃ ‬
+      romana: Apoi va lua preotul soldul cel fiert al berbecului, o paine nedospita si
+        o turta nedospita din paner si le va pune nazireului pe maini, dupa ce
+        acesta si-a tuns capul de nazireu,
+      francais: Le sacrificateur prendra l'épaule cuite du bélier, un gâteau sans
+        levain de la corbeille, et une galette sans levain; et il les posera sur
+        les mains du naziréen, après qu'il aura rasé sa tête consacrée.
+      italian: Il sacerdote prenderà la spalla dell'ariete, quando sarà cotta, una
+        focaccia non lievitata dal ca nestro e una schiacciata senza lievito e
+        le porrà nelle mani del nazireo, dopo che questi si sarà raso il capo
+        consacrato.
+      old_georgian: და მოიღოს მღდელმან მან მჴარი იგი მგბარი ვერძისა მისგან და პური
+        ერთი უცომოჲ ლანკნისა მისგან და ლელანგოჲ უცომოჲ ერთი. და დაუდგას მღდელმან
+        მან ჴელთა ზედა მის მლოცველისათა შემდგომად დაყჳნვისა თავისა მის ლოცვისა
+        მისისა.
+      portuguese: "Depois o sacerdote tomará a espádua cozida do carneiro, e um pão
+        ázimo do cesto, e um coscorão ázimo, e os\rporá nas mãos do nazireu,
+        depois de haver este rapado o cabelo do seu nazireado;"
+      polish: "Następnie weźmie kapłan ugotowaną łopatkę barana, chleb przaśny z
+        kosza\roraz przaśny podpłomyk i złoży je na ręce nazirejczyka, gdy on
+        już ostrzyże\rswe włosy."
+      turkish: «`Adanmış kişi adadığı saçını tıraş ettikten sonra, kâhin koçun
+        haşlanmış budunu, sepetten alacağı mayasız pide ve mayasız yufkayla
+        birlikte adanmış kişinin eline koyacak.
+      nrt: Когда назорей острижет волосы своего посвящения, пусть священник даст ему в
+        руки вареную баранью лопатку с пресным хлебом и пресным коржом из
+        корзины.
+      Macarius: И возьмет священник свареное плечо овна, и одну пресную лепешку из
+        корзины и один пресный блин, и положит на руки Назорею, после того, как
+        обреет он голову Назорейства своего.
+      serbian: И свештеник нека узме плеће кухано од овна и један колач пријесан из
+        котарице и једну погачу пријесну, и нека метне на руке назиреју, пошто
+        обрије назирејство своје.
+      bulgarian: И да вземе свещеникът сварената плешка от овена, един безквасен хляб
+        от кошницата и една безквасна питка и да ги сложи в ръцете на назорея,
+        след като той остриже посветената си глава;
+      deutsch: Und der Priester soll den gekochten Bug nehmen von dem Widder und einen
+        ungesäuerten Kuchen aus dem Korbe und einen ungesäuerten Fladen und
+        soll's dem Geweihten auf sein Hände legen, nachdem er sein Gelübde
+        abgeschoren hat,
+      ukr2: Потім священик візьме варену лопатку з барана та одного опрісного коржа з
+        кошика й одну опрісну паляницю та й покладе на руки назореєві, після
+        того як той обстриже своє посвячене волосся.
+      ukr3: І возьме сьвященник лопатку варену з барана, і колача прісного одного з
+        кошика, і паленицю прісну одну, та й положить на руки назареєві, послї,
+        як остриже назарейство своє,
+      bel_syomukha: і возьме сьвятар згатаваную лапатку барана і адзін прэсны пірог і
+        адну прэсную ляпёшку, і пакладзе на рукі назарэю пасьля таго, як астрыжэ
+        ён галаву назарэйства свайго;
+      lev-khv: И возьмет священник вареное плечо овна, и один пресный пирог из
+        корзины, и одну пресную лепешку, и положит на руки назорею, после того
+        как острижет он освященную <i>голову</i> свою.
+      czech: Nato knez vezme varene plece z berana, z kose jeden nekvaseny bochanek a
+        jednu nekvasenou oplatku a vlozi to do rukou nazirovi, pote co si oholil
+        sve nazirske znameni.
+      spanish: Luego el sacerdote tomará la pierna ya cocida del carnero, un pan ácimo
+        del cestillo y una torta ácima, y se las pondrá en las manos del nazareo
+        después que se haya raído la cabeza consagrada;
+      greek-lxx: καὶ λήμψεται ὁ ἱερεὺς τὸν βραχίονα ἑφθὸν ἀπὸ τοῦ κριοῦ καὶ ἄρτον ἕνα
+        ἄζυμον ἀπὸ τοῦ κανοῦ καὶ λάγανον ἄζυμον ἓν καὶ ἐπιθήσει ἐπὶ τὰς χεῖρας
+        τοῦ ηὐγμένου μετὰ τὸ ξυρήσασθαι αὐτὸν τὴν εὐχὴν αὐτοῦ
+      st_text: и возьмет священник сваренное плечо овна и один пресный пирог из
+        корзины и одну пресную лепешку, и положит на руки назорею, после того,
+        как острижет он голову назорейства своего;
+  - id: 12334
+    number: 20
+    bookId: 4
+    text: "и вознесет сие священник, потрясая пред Господом: эта святыня - для
+      священника, сверх груди потрясания и сверх плеча возношения. После сего
+      назорей может пить вино."
+    chapter: 6
+    chapterId: 123
+    parallels:
+      - verseId: 21879
+        bookId: 2
+        bookCode: ishod
+        chapter: 29
+        short: Исх:29:27
+      - verseId: 23715
+        bookId: 3
+        bookCode: levit
+        chapter: 7
+        short: Лев:7:31
+    translates:
+      kassian: ""
+      podstr: и [да] принесёт их священник возложением перед Господом, святое будет
+        священнику на груди возложения и на плече участия; и после этого будет
+        пить пообещавший вино.
+      csya: "и да принесет я жрец возложение пред Господа: свято да будет жерцу на
+        грудех возложения и на раме участия: и по сих обещавыйся да пиет вино."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 да принесе1тъ | жре1цъ возложе1ніе пред8 гDа: с™о да бyдетъ жерцY
+        на грyдехъ возложе1ніz и3 на рaмэ ўчaстіz: и3 по си1хъ њбэщaвыйсz да
+        піе1тъ віно2."
+      sovr_rbo: И пусть священник вознесет все это пред Господом. Это святыня, она
+        принадлежит священнику, наряду с грудью жертвы, что была вознесена пред
+        Господом, и бедром, что было поднесено в дар. После этого назорей может
+        пить вино.
+      latin: "Susceptaque rursum ab eo, elevabit in conspectu Domini: et sanctificata
+        sacerdotis erunt, sicut pectusculum, quod separari jussum est, et femur.
+        Post haec, potest bibere nazaraeus vinum."
+      ukr: І священик буде колихати їх, як колихання перед Господнім лицем. Це святощ
+        для священика, понад грудину колихання й понад стегно приношення. А по
+        цьому той назір може пити вино.
+      nkjv: "and the priest shall wave them as a wave offering before the Lord; they
+        are holy for the priest, together with the breast of the wave offering
+        and the thigh of the heave offering. After that the Nazirite may drink
+        wine.' "
+      desnitsky: ""
+      mt: ‫    וְהֵנִיף אוֹתָם הַכֹּהֵן תְּנוּפָה לִפְנֵי יְהוָה קֹדֶשׁ הוּא לַכֹּהֵן
+        עַל חֲזֵה הַתְּנוּפָה וְעַל שׁוֹק הַתְּרוּמָה וְאַחַר יִשְׁתֶּה
+        הַנָּזִיר יָיִן׃ ‬
+      romana: Si sa inalte preotul acestea, leganandu-le inaintea Domnului. Aceasta
+        sfintenie sa fie a preotului pe langa pieptul leganat si pe langa soldul
+        inaltat. Dupa aceasta nazireul poate sa bea vin.
+      francais: "Le sacrificateur les agitera de côté et d'autre devant l'Éternel:
+        c'est une chose sainte, qui appartient au sacrificateur, avec la
+        poitrine agitée et l'épaule offerte par élévation. Ensuite, le naziréen
+        pourra boire du vin."
+      italian: Il sacerdote le agiterà, come offerta da farsi secondo il rito
+        dell'agitazione, davanti al Signore; è cosa santa che appartiene al
+        sacerdote, insieme con il petto dell'offerta da agitare ritualmente e
+        con la spalla dell'offerta da elevare ritualmente. Dopo, il nazireo
+        potrà bere il vino.
+      old_georgian: და შეწიროს იგი მღდელმან მან დასადებელად წინაშე უფლისა წმიდაჲ იყოს
+        იგი მღდელისა, მკერდისაჲ მის დასადებელისაჲ და მჴრისაჲ მის შესაწირავისაჲ,
+        და ამისა შემდგომად სუას მლოცველმან მან ღჳნოჲ.
+      portuguese: "e o sacerdote os moverá como oferta de movimento perante o Senhor;
+        isto é santo para o sacerdote, juntamente\rcom o peito da oferta de
+        movimento, e com a espádua da oferta alçada; e depois o nazireu poderá
+        beber vinho."
+      polish: "Kapłan darami ofiarnymi wykona gest kołysania przed Panem; jest to
+        święty\rdar należny kapłanowi prócz mostka kołysania i uda odłożonego na
+        ofiarę.\rOdtąd może nazirejczyk pić wino."
+      turkish: Sonra sallamalık sunu olarak RAB'bin huzurunda bunları sallayacak.
+        Bunlar sallanan döş ve bağış olarak sunulan butla birlikte kutsaldır,
+        kâhin için ayrılacaktır. Bundan sonra adanmış kişi şarap içebilir.
+      nrt: Пусть священник потрясет их перед Господом как приношение потрясания; они
+        священны и принадлежат священнику вместе с грудиной потрясания и бедром
+        возношения. После этого назорей может пить вино.
+      Macarius: "И принесет сие священник, потрясая пред Господом: это святыня для
+        священника, сверх груди потрясания и сверх плеча возношения. После сего
+        Назорей может пить вино."
+      serbian: И свештеник нека обрће те ствари на жртву обртану пред Господом; то је
+        светиња која припада свештенику осим груди обртаних и плећа подигнутога;
+        а послије тога назиреј може пити вина.
+      bulgarian: "и да издигне свещеникът това, като го полюшва пред Господа: тая
+        светиня е за свещеника заедно с полюляваните гърди и издиганата плешка.
+        След това назореят може да пие вино."
+      deutsch: und der Priester soll's vor dem Herrn weben. Das ist heilig dem
+        Priester samt der Webebrust und der Hebeschulter. Darnach mag der
+        Geweihte Wein trinken.
+      ukr2: І принесе священик їх у жертву колихання перед Господом; це свята частина
+        для священика, окрім колиханої груднини та піднесеної лопатки; а після
+        того назореєві можна пити вино.
+      ukr3: Та й принесе їх сьвященник в жертву гойдану перед Господом; се буде сьвяте
+        сьвященникові з грудиною жертви гойданої і з лопаткою жертви підношеної.
+        А після сього можна назареєві вино пити.
+      bel_syomukha: "і паднясе ўсё гэта сьвятар, патрасаючы перад Госпадам: гэта -
+        сьвятыня сьвятару, звыш грудзей патрасаньня і звыш лапаткі паднашэньня.
+        Пасьля гэтага назарэй можа піць віно."
+      lev-khv: "И потрясет это священник потрясением пред Господом: это святыня для
+        священника, сверх груди потрясения и сверх плеча возношения. И после
+        сего назорей может пить вино."
+      czech: Knez to nabidne Hospodinu podavanim jako obet podavani. Je to svaty
+        pridel pro kneze spolu s hrudim obeti podavani a kytou obeti
+        pozdvihovani. Potom uz muze nazir pit vino.“
+      spanish: y el sacerdote lo agitará ante Yavé. Es la cosa santa del sacerdote,
+        además del pecho mecido y de la pierna reservada. Después ya podrá el
+        nazareo beber vino.
+      greek-lxx: καὶ προσοίσει αὐτὰ ὁ ἱερεὺς ἐπίθεμα ἔναντι Κυρίου ἅγιον ἔσται τῷ
+        ἱερεῖ ἐπὶ τοῦ στηθυνίου τοῦ ἐπιθέματος καὶ ἐπὶ τοῦ βραχίονος τοῦ
+        ἀφαιρέματος καὶ μετὰ ταῦτα πίεται ὁ ηὐγμένος οἶνον
+      st_text: "и вознесет сие священник, потрясая пред Господом: эта святыня - для
+        священника, сверх груди потрясания и сверх плеча возношения. После сего
+        назорей может пить вино."
+  - id: 12335
+    number: 21
+    bookId: 4
+    text: Вот закон о назорее, который дал обет, и жертва его Господу за назорейство
+      свое, кроме того, что позволит ему достаток его; по обету своему, какой он
+      даст, так и должен он делать, сверх узаконенного о назорействе его.
+    chapter: 6
+    chapterId: 123
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Это закон пообещавшего, который пообещал Господу дар его Господу
+        относительно обета, сверх того которое если найдёт рука его по силе
+        обета его, который если пообещал по закону чистоты.
+      csya: "Сей закон обещавшагося, иже аще обещает дар Господу о обете, кроме сих
+        яже обрящет рука его: по силе обета его, егоже аще обещает, по закону
+        очищения."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Се1й зако1нъ њбэщaвшагwсz, и4же ѓще њбэщaетъ дaръ гDу њ њбётэ, кромЁ
+        си1хъ ±же њбрsщетъ рукA є3гw2: по си1лэ њбёта є3гw2, є3го1же ѓще
+        њбэщaетъ, по зако1ну њчище1ніz."
+      sovr_rbo: Это закон для того, кто дал назорейский обет. Он делает приношение
+        Господу в соответствии с правилом о назорействе, и сверх того —
+        жертвует, что сможет пожертвовать. Он должен выполнить данный им обет в
+        соответствии с правилом назорейства».
+      latin: "Ista est lex nazaraei, cum voverit oblationem suam Domino tempore
+        consecrationis suae, exceptis his, quae invenerit manus ejus: juxta quod
+        mente devoverat, ita faciet ad perfectionem sanctificationis suae."
+      ukr: Оце закон про назіра, що обіцяє свою жертву Господеві за своє посвячення,
+        крім того, на що спроможна рука його. За обітницею своєю, що обіцює, так
+        він зробить за законом про посвячення його.
+      nkjv: '"This is the law of the Nazirite who vows to the Lord the offering for
+        his separation, and besides that, whatever else his hand is able to
+        provide; according to the vow which he takes, so he must do according to
+        the law of his separation."'
+      desnitsky: ""
+      mt: ‫    זֹאת תּוֹרַת הַנָּזִיר אֲשֶׁר יִדֹּר קָרְבָּנוֹ לַיהוָה עַל־נִזְרוֹ
+        מִלְּבַד אֲשֶׁר־תַּשִּׂיג יָדוֹ כְּפִי נִדְרוֹ אֲשֶׁר יִדֹּר כֵּן
+        יַעֲשֶׂה עַל תּוֹרַת נִזְרוֹ׃ פ ‬
+      romana: Iata randuiala cea pentru nazireul care a dat fagaduinta si jertfa ce
+        trebuie sa aduca el Domnului pentru nazireatul sau, pe langa ceea ce-i
+        ingaduiesc mijloacele lui. Dupa fagaduinta sa, pe care o va da, asa sa
+        faca, dupa cele legiuite pentru nazireatul sau".
+      francais: Telle est la loi pour celui qui fait voeu de naziréat; telle est son
+        offrande à l'Éternel pour son naziréat, outre ce que lui permettront ses
+        ressources. Il accomplira ce qui est ordonné pour le voeu qu'il a fait,
+        selon la loi de son naziréat.
+      italian: Questa è la legge per chi ha fatto voto di nazireato, tale è la sua
+        offerta al Signore per il suo nazireato, oltre quello che i suoi mezzi
+        gli permetteranno di fare. Egli si comporterà secondo il voto che avrà
+        fatto in base alla legge del suo nazireato".
+      old_georgian: ესე არს შჯული მლოცველისა მის, რაოდენიცა აღუთქუა უფალსა ძღუენი
+        ლოცვისა მისისათჳს თჳნიერ მისა, რომელი-რაჲ პოვოს ჴელმან მისმან ძალისაებრ
+        აღთქმისა მისისა, რაოდენიცა აღუთქუას შჯულისა მისებრ უმეცრებისა მისისა
+        უფლისა მიმართ.
+      portuguese: "Esta é a lei do que fizer voto de nazireu, e da sua oferta ao
+        Senhor pelo seu nazireado, afora qualquer outra coisa\rque as suas
+        posses lhe permitirem oferecer; segundo o seu voto, que fizer, assim
+        fará conforme a lei o seu\rnazireado."
+      polish: "Takie jest prawo odnoszące się tak do nazirejczyka, który złoży śluby,
+        jak\rdo darów ofiarnych ślubowanych Panu, niezależnie od tego, na co go
+        stać.\rStosownie do ślubu winien wypełnić wszystkie prawa swego
+        nazireatu”."
+      turkish: «`Adak adayan adanmış kişiyle ilgili yasa budur. RAB'be sunacağı sunu
+        adağı uyarınca olacak. Elinden geldiğince daha fazlasını verebilir.
+        Adanmışlıkla ilgili yasa uyarınca adadığı adağı yerine getirmelidir.'»
+      nrt: Таков закон о назорее, который посвящает Господу по обету приношение за
+        свое назорейство, кроме того, что позволит ему его достаток. Пусть он
+        исполнит обет, который он дал, по закону о назорействе».
+      Macarius: Вот закон о Назорее, который обещает приношение Господу за Назорейство
+        свое, кроме того, что позволит ему его достаток; тогда по обету своему,
+        какой он даст, так и должен он делать, сверх закона о Назорействе своем.
+      serbian: То је закон за назиреја који се заветује, и то је принос његов Господу
+        за назирејство његово, осим онога што би више могао учинити; какав му
+        буде завјет којим се завјетује, тако нека учини осим закона својега
+        назирејства.
+      bulgarian: Това е законът за назорея, който е дал оброк, и такава е жертвата му
+        Господу за неговото назорейство, освен онова, което му ръка стигне;
+        според оброка си, какъвто даде, тъй трябва и да върши, заедно с
+        узаконеното за назорейството му.
+      deutsch: Das ist das Gesetz des Gottgeweihten, der sein Opfer dem Herrn gelobt
+        wegen seines Gelübdes, außer dem, was er sonst vermag; wie er gelobt
+        hat, soll er tun nach dem Gesetz seines Gelübdes.
+      ukr2: Це закон про назорея, який склав обітницю, про його жертву Господеві за
+        своє назорейство, крім того, на що його спромога; він мусить повестися
+        згідно з своєю обітницею, яку обітував, і за приписами закону про
+        назорейство.”
+      ukr3: Се закон про назарея, що робить обітницю, і про приноси його Господеві за
+        назарейство своє, опріч того, на що спромога його. По обітницї своїй,
+        яку шлюбував, так чинити ме по закону назарейства свого.
+      bel_syomukha: Вось закон пра назарэя, які даў заруку, і ахвяра ягоная Госпаду за
+        назарэйства сваё, апроч таго, што дазволіць яму дастатак ягоны; паводле
+        зарукі сваёй, якую ён дасьць, так і павінен ён рабіць, звыш узаконенага
+        пра назарэйства ягонае.
+      lev-khv: Вот закон о назорее, который дал обет, <i>и</i> жертва его Господу за
+        назорейство свое, кроме того, чтó позволит ему достаток его; по обету
+        своему, какой он даст, так и должен он делать, сверх узаконеннаго о
+        назорействе его.
+      czech: Takovy je rad pro nazira, ktery Hospodinu slibil dar za svoje nazirstvi
+        krome toho, co da sam od sebe navic. Ucini podle sveho slibu, ktery
+        slozil, podle radu sveho nazirstvi.
+      spanish: Esta es la ley del nazareo, que hace voto y de su ofrenda a Yavé por su
+        nazareato, fuera de aquello que sus posibilidades le consientan añadir.
+        Hará de conformidad con su voto, según la ley del nazareato>>.
+      greek-lxx: οὗτος ὁ νόμος τοῦ εὐξαμένου ὃς ἂν εὔξηται Κυρίῳ δῶρον αὐτοῦ Κυρίῳ
+        περὶ τῆς εὐχῆς χωρὶς ὧν ἂν εὕρῃ ἡ χεὶρ αὐτοῦ κατὰ δύναμιν τῆς εὐχῆς
+        αὐτοῦ ἣν ἂν εὔξηται κατὰ νόμον ἁγνείας
+      st_text: Вот закон о назорее, который дал обет, и жертва его Господу за
+        назорейство свое, кроме того, что позволит ему достаток его; по обету
+        своему, какой он даст, так и должен он делать, сверх узаконенного о
+        назорействе его.
+  - id: 12336
+    number: 22
+    bookId: 4
+    text: "И сказал Господь Моисею, говоря:"
+    chapter: 6
+    chapterId: 123
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "И сказал Господь к Моисею говорящий:"
+      csya: И рече Господь к моисею, глаголя.
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 гDь къ мwmсе1ю, гlz:"
+      sovr_rbo: "Господь сказал Моисею:"
+      latin: "Locutusque est Dominus ad Moysen, dicens:"
+      ukr: "І Господь промовляв до Мойсея, говорячи:"
+      nkjv: "And the Lord spoke to Moses, saying:"
+      desnitsky: ""
+      mt: ‫    וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה לֵּאמֹר׃ ‬
+      romana: "Si a grait Domnul cu Moise si a zis:"
+      francais: "L'Éternel parla à Moïse, et dit:"
+      italian: "Il Signore aggiunse a Mosè:"
+      old_georgian: "ეტყოდა უფალი მოსეს და ჰრქუა:"
+      portuguese: "Disse mais o Senhor a Moisés:"
+      polish: "I mówił znowu Pan do Mojżesza tymi słowami:"
+      turkish: "RAB Musa'ya şöyle dedi:"
+      nrt: "Господь сказал Моисею:"
+      Macarius: "И говорил Господь Моисею, и сказал:"
+      serbian: "Још рече Господ Мојсију говорећи:"
+      bulgarian: "И рече Господ на Моисея, думайки:"
+      deutsch: "Und der Herr redete mit Mose und sprach:"
+      ukr2: "Господь промовив до Мойсея:"
+      ukr3: "І рече Господь Мойсейові:"
+      bel_syomukha: "І наказаў Гасподзь Майсею сказаць:"
+      lev-khv: "И сказал Господь Моисею, говоря:"
+      czech: "Hospodin dale promluvil k Mojzisovi:"
+      spanish: "Yavé habló a Moisés, diciendo:"
+      greek-lxx: καὶ ἐλάλησεν Κύριος πρὸς Μωυσῆν λέγων
+      st_text: "И сказал Господь Моисею, говоря:"
+  - id: 12337
+    number: 23
+    bookId: 4
+    text: "скажи Аарону и сынам его: так благословляйте сынов Израилевых, говоря им:"
+    chapter: 6
+    chapterId: 123
+    parallels:
+      - verseId: 23780
+        bookId: 3
+        bookCode: levit
+        chapter: 9
+        short: Лев:9:22
+      - verseId: 23350
+        bookId: 3
+        bookCode: levit
+        chapter: 22
+        short: Лев:22:2
+      - verseId: 6325
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 30
+        short: 2 Пар:30:27
+      - verseId: 34185
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 36
+        short: Сир:36:18
+      - verseId: 34667
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 50
+        short: Сир:50:22
+    translates:
+      kassian: ""
+      podstr: "Скажи Аарону и сыновьям его говорящий: Так благословите сыновей Израиля
+        говорящие им [ и возложат имя Моё на сыновей Израиля, и Я Господь
+        благословлю ] их"
+      csya: "рцы аарону и сыном его, глаголя: сице благословите сыны израилевы,
+        глаголюще им:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "рцы2 ґарHну и3 сынHмъ є3гw2, глаго1лz: си1це благослови1те сы1ны
+        ї}лєвы, глаго1люще и5мъ:"
+      sovr_rbo: "«Передай Аарону и его сыновьям: вот слова, которыми вы должны
+        благословлять сынов Израилевых:"
+      latin: "Loquere Aaron et filiis ejus: Sic benedicetis filiis Israel, et dicetis
+        eis:"
+      ukr: "Промовляй до Аарона та до синів його, говорячи: Так благословляйте
+        Ізраїлевих синів, говорячи їм:"
+      nkjv: "\"Speak to Aaron and his sons, saying, 'This is the way you shall bless
+        the children of Israel. Say to them: "
+      desnitsky: ""
+      mt: ‫    דַּבֵּר אֶל־אַהֲרֹן וְאֶל־בָּנָיו לֵאמֹר כֹּה תְבָרֲכוּ אֶת־בְּנֵי
+        יִשְׂרָאֵל אָמוֹר לָהֶם׃ ס ‬
+      romana: '"Spune lui Aaron si fiilor lui si le zi: Asa sa binecuvantati pe fiii
+        lui Israel si sa ziceti catre ei:'
+      francais: "Parle à Aaron et à ses fils, et dis: Vous bénirez ainsi les enfants
+        d'Israël, vous leur direz:"
+      italian: '"Parla ad Aronne e ai suoi figli e riferisci loro: Voi benedirete così
+        gli Israeliti; direte loro:'
+      old_georgian: ეტყოდე აჰრონს და ძეთა მისთა და არქუ მათ, და დადვან სახელი ჩემი
+        ძეთა ზედა ისრაჱლისათა და მე, უფალმან, ვაკურთხნე იგინი.
+      portuguese: "Fala a Arão, e a seus filhos, dizendo: Assim abençoareis os filhos
+        de Israel; dir-lhes-eis:"
+      polish: "”Powiedz Aaronowi i jego synom: tak oto macie błogosławić Izraelitom.
+        Powiecie im:"
+      turkish: «Harun'la oğullarına de ki, `İsrail halkını şöyle kutsayacaksınız.
+        Onlara diyeceksiniz ki,
+      nrt: "– Скажи Аарону и его сыновьям: «Благословляйте израильтян, говоря им:"
+      Macarius: "Скажи Аарону и сынам его: так благословляйте сынов Израилевых, говоря
+        им:"
+      serbian: "Реци Арону и синовима његовијем и кажи: Овако благосиљајте синове
+        Израиљеве говорећи им:"
+      bulgarian: "кажи на Аарона и на синовете му; тъй благославяйте синовете
+        Израилеви и им казвайте:"
+      deutsch: "Sage Aaron und seinen Söhnen und sprich: Also sollt ihr sagen zu den
+        Kindern Israel, wenn ihr sie segnet:"
+      ukr2: "“Скажи Аронові та синам його: так будете благословляти синів Ізраїля,
+        мовивши до них:"
+      ukr3: "Промов до Арона й до синів його й скажи: Так будете благословляти синів
+        Ізрайлевих; мовлячи їм:"
+      bel_syomukha: "скажы Аарону і сынам ягоным: так дабраслаўляйце сыноў Ізраілевых,
+        кажучы ім:"
+      lev-khv: "Скажи Аарону и сынам его: так благословляйте сынов Израилевых;
+        говорите им:"
+      czech: "„Mluv k Aronovi a jeho synum: Budete zehnat synum Izraele temito slovy:"
+      spanish: "<<Habla a Arón y a sus hijos, diciendo: De este modo habréis de
+        bendecir a los hijos de Israel; diréis:"
+      greek-lxx: λάλησον Ααρων καὶ τοῖς υἱοῖς αὐτοῦ λέγων οὕτως εὐλογήσετε τοὺς υἱοὺς
+        Ισραηλ λέγοντες αὐτοῖς καὶ ἐπιθήσουσιν τὸ ὄνομά μου ἐπὶ τοὺς υἱοὺς
+        Ισραηλ καὶ ἐγὼ Κύριος εὐλογήσω αὐτούς
+      st_text: "скажи Аарону и сынам его: так благословляйте сынов Израилевых, говоря
+        им:"
+  - id: 12338
+    number: 24
+    bookId: 4
+    text: да благословит тебя Господь и сохранит тебя!
+    chapter: 6
+    chapterId: 123
+    parallels:
+      - verseId: 4436
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 6
+        short: 2 Цар:6:18
+      - verseId: 32096
+        bookId: 22
+        bookCode: psaltir
+        chapter: 66
+        short: Пс:66:7
+      - verseId: 30906
+        bookId: 22
+        bookCode: psaltir
+        chapter: 127
+        short: Пс:127:5
+      - verseId: 30957
+        bookId: 22
+        bookCode: psaltir
+        chapter: 133
+        short: Пс:133:3
+    translates:
+      kassian: ""
+      podstr: Благослови тебя Господь и сохранит тебя,
+      csya: "да благословит тя Господь и сохранит тя:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "да блгcви1тъ тS гDь и3 сохрани1тъ тS:"
+      sovr_rbo: „Да благословит тебя Господь, и да сохранит Он тебя!
+      latin: Benedicat tibi Dominus, et custodiat te.
+      ukr: Нехай Господь поблагословить тебе, і нехай Він тебе стереже!
+      nkjv: '"The Lord bless you and keep you;'
+      desnitsky: ""
+      mt: ‫    יְבָרֶכְךָ יְהוָה וְיִשְׁמְרֶךָ׃ ס ‬
+      romana: Sa te binecuvanteze Domnul si sa te pazeasca!
+      francais: Que l'Éternel te bénisse, et qu'il te garde!
+      italian: Ti benedica il Signore e ti protegga.
+      old_georgian: გაკურთხენ შენ უფალმან და დაგიცევინ შენ.
+      portuguese: O Senhor te abençoe e te guarde;
+      polish: Niech cię Pan błogosławi i strzeże.
+      turkish: "RAB sizi kutsasın\rVe korusun;"
+      nrt: Да благословит тебя Господь и сохранит тебя;
+      Macarius: Да благословит тебя Господь, и да сохранит тебя;
+      serbian: Да те благослови Господ и да те чува!
+      bulgarian: да те благослови Господ и да те опази!
+      deutsch: Der Herr segne dich und behüte dich;
+      ukr2: Нехай Господь благословить тебе і охороняє тебе!
+      ukr3: Господь благослови тебе, і хорони тебе!
+      bel_syomukha: хай дабраславіць цябе Гасподзь і захавае цябе!
+      lev-khv: Да благословит тебя Господь и сохранит тебя.
+      czech: ‚Hospodin te pozehna a ochrani te,
+      spanish: Que Yavé te bendiga y te guarde.
+      greek-lxx: εὐλογήσαι σε Κύριος καὶ φυλάξαι σε
+      st_text: да благословит тебя Господь и сохранит тебя!
+  - id: 12339
+    number: 25
+    bookId: 4
+    text: да призрит на тебя Господь светлым лицем Своим и помилует тебя!
+    chapter: 6
+    chapterId: 123
+    parallels:
+      - verseId: 31684
+        bookId: 22
+        bookCode: psaltir
+        chapter: 4
+        short: Пс:4:6
+      - verseId: 31478
+        bookId: 22
+        bookCode: psaltir
+        chapter: 30
+        short: Пс:30:17
+      - verseId: 32091
+        bookId: 22
+        bookCode: psaltir
+        chapter: 66
+        short: Пс:66:2
+    translates:
+      kassian: ""
+      podstr: "[да] просветит Господь лицо Его на тебя и [да] помилует тебя,"
+      csya: "да просветит Господь лице свое на тя и помилует тя:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "да просвэти1тъ гDь лице2 свое2 на тS и3 поми1луетъ тS:"
+      sovr_rbo: Да будет светел Его взор, обращенный к тебе, и да будет Он к тебе
+        милостив!
+      latin: Ostendat Dominus faciem suam tibi, et misereatur tui.
+      ukr: Нехай Господь засяє на тебе лицем Своїм, і нехай буде милостивий до тебе!
+      nkjv: The Lord make His face shine upon you, And be gracious to you;
+      desnitsky: ""
+      mt: ‫    יָאֵר יְהוָה פָּנָיו אֵלֶיךָ וִיחֻנֶּךָּ׃ ס ‬
+      romana: Sa caute Domnul asupra ta cu fata vesela si sa te miluiasca!
+      francais: Que l'Éternel fasse luire sa face sur toi, et qu'il t'accorde sa grâce!
+      italian: Il Signore faccia brillare il suo volto su di te e ti sia propizio.
+      old_georgian: გამოაჩინენ პირი მისი შენ ზედა და გაკურთხენ შენ.
+      portuguese: o Senhor faça resplandecer o seu rosto sobre ti, e tenha
+        misericórdia de ti;
+      polish: Niech Pan rozpromieni oblicze swe nad tobą, niech cię obdarzy swą łaską.
+      turkish: "RAB aydın yüzünü size göstersin\rVe size lütfetsin;"
+      nrt: да озарит тебя Господь светом лица Своего, и будет милостив к тебе;
+      Macarius: Да воззрит на тебя Господь светлым лицем Своим и помилует тебя;
+      serbian: Да те обасја Господ лицем својим и буде ти милостив!
+      bulgarian: да погледне милостно към тебе Господ със светлото Си лице и да те
+        помилува!
+      deutsch: der Herr lasse sein Angesicht leuchten über dir und sei dir gnädig;
+      ukr2: Нехай Господь світить обличчям своїм до тебе та милує тебе!
+      ukr3: Господь нехай сьвітить лицем своїм над тобою, та милує тебе!
+      bel_syomukha: хай паглядзіць на цябе Гасподзь сьветлым тварам Сваім і
+        ўмілажаліцца зь цябе!
+      lev-khv: Да призрит на тебя Господь светлым лицем Своим и помилует тебя.
+      czech: Hospodin rozjasni nad tebou svou tvar a bude ti milostiv,
+      spanish: Que haga resplandecer su faz sobre ti y te otorgue su gracia.
+      greek-lxx: ἐπιφάναι Κύριος τὸ πρόσωπον αὐτοῦ ἐπὶ σὲ καὶ ἐλεήσαι σε
+      st_text: да призрит на тебя Господь светлым лицем Своим и помилует тебя!
+  - id: 12340
+    number: 26
+    bookId: 4
+    text: да обратит Господь лице Свое на тебя и даст тебе мир!
+    chapter: 6
+    chapterId: 123
+    parallels:
+      - verseId: 31684
+        bookId: 22
+        bookCode: psaltir
+        chapter: 4
+        short: Пс:4:6
+    translates:
+      kassian: ""
+      podstr: "[да] поднимет Господь лицо Его на тебя и пусть даст тебе мир."
+      csya: "да воздвигнет Господь лице свое на тя и даст ти мир:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "да воздви1гнетъ гDь лице2 свое2 на тS и3 дaстъ ти2 ми1ръ:"
+      sovr_rbo: Да обратит к тебе Господь лицо Свое, и да пошлет тебе мир!”
+      latin: Convertat Dominus vultum suum ad te, et det tibi pacem.
+      ukr: Нехай Господь зверне на тебе лице Своє, і хай дасть тобі мир!
+      nkjv: "The Lord lift up His countenance upon you, And give you peace.\" ' "
+      desnitsky: ""
+      mt: ‫    יִשָּׂא יְהוָה פָּנָיו אֵלֶיךָ וְיָשֵׂם לְךָ שָׁלוֹם׃ ס ‬
+      romana: Sa-Si intoarca Domnul fala Sa catre tine si sa-li daruiasca pace!
+      francais: Que l'Éternel tourne sa face vers toi, et qu'il te donne la paix!
+      italian: Il Signore rivolga su di te il suo volto e ti conceda pace.
+      old_georgian: მოაქციენ უფალმან პირი მისი შენ ზედა და მოგეცინ შენ მშჳდობაჲ.
+      portuguese: o Senhor levante sobre ti o seu rosto, e te dê a paz.
+      polish: Niech zwróci ku tobie oblicze swoje i niech cię obdarzy pokojem.
+      turkish: "RAB yüzünü size çevirsin\rVe size esenlik versin.'"
+      nrt: да обратит Господь к тебе лицо Свое и дарует тебе мир».
+      Macarius: Да обратит Господь лице Свое на тебя и даст тебе мир!
+      serbian: Да Господ обрати лице своје к теби и даде ти мир!
+      bulgarian: Да обърне Господ към тебе лицето Си и да ти даде мир!
+      deutsch: der Herr hebe sein Angesicht über dich und gebe dir Frieden.
+      ukr2: Нехай Господь оберне обличчя своє до тебе і дасть тобі мир!
+      ukr3: Нехай оберне Господь лице своє на тебе і дасть тобі впокій!
+      bel_syomukha: хай паверне Гасподзь твар Свой да цябе і дасьць табе спакой!
+      lev-khv: Да обратит Господь лице Свое на тебя и даст тебе мир.
+      czech: Hospodin obrati k tobe svou tvar a obdari te pokojem.‘
+      spanish: Que vuelva a ti su rostro y te dé la paz.
+      greek-lxx: ἐπάραι Κύριος τὸ πρόσωπον αὐτοῦ ἐπὶ σὲ καὶ δῴη σοι εἰρήνην
+      st_text: да обратит Господь лице Свое на тебя и даст тебе мир!
+  - id: 12341
+    number: 27
+    bookId: 4
+    text: Так пусть призывают имя Мое на сынов Израилевых, и Я [Господь] благословлю
+      их.
+    chapter: 6
+    chapterId: 123
+    parallels:
+      - verseId: 6325
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 30
+        short: 2 Пар:30:27
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и да возложат имя мое на сыны израилевы, и аз Господь благословлю я.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 да возложaтъ и4мz мое2 на сы1ны ї}лєвы, и3 ѓзъ гDь блгcвлю2 |.
+      sovr_rbo: Так запечатлеют они Мое имя на сынах Израилевых — и Я благословлю их».
+      latin: Invocabuntque nomen meum super filios Israel, et ego benedicam eis.
+      ukr: Вони будуть кликати Ймення Моє на Ізраїлевих синів, а Я благословлятиму їх!
+      nkjv: '"So they shall put My name on the children of Israel, and I will bless
+        them."'
+      desnitsky: ""
+      mt: ‫    וְשָׂמוּ אֶת־שְׁמִי עַל־בְּנֵי יִשְׂרָאֵל וַאֲנִי אֲבָרֲכֵם׃ פ ‬
+      romana: Asa sa cheme numele Meu asupra fiilor lui Israel si Eu, Domnul, ii voi
+        binecuvanta".
+      francais: C'est ainsi qu'ils mettront mon nom sur les enfants d'Israël, et je
+        les bénirai.
+      italian: Così porranno il mio nome sugli Israeliti e io li benedirò".
+      portuguese: Assim porão o meu nome sobre os filhos de Israel, e eu os abençoarei.
+      polish: Tak będą wzywać imienia mojego nad Izraelitami, a Ja im będę
+        błogosławił”.
+      turkish: «Böylece kâhinler İsrail halkını adımı anarak kutsayacaklar. Ben de
+        onları kutsayacağım.»
+      nrt: Так они будут призывать Мое Имя на израильтян, и Я буду благословлять их.
+      Macarius: Так пусть возлагают имя Мое на сынов Израилевых, и Я [Господь]
+        благословлю их.
+      serbian: И нека призивају име моје на синове Израиљеве, и ја ћу их благословити.
+      bulgarian: Тъй да призовават името Ми над синовете Израилеви, и Аз (Господ) ще
+        ги благословя.
+      deutsch: Denn ihr sollt meinen Namen auf die Kinder Israel legen, daß ich sie
+        segne.
+      ukr2: Так закликатимуть ім'я моє на синів Ізраїля, і я благословлятиму їх.”
+      ukr3: І так нехай взивають імя моє на Ізраїля, і я благословити му їх.
+      bel_syomukha: Так няхай заклікаюць імя Маё на сыноў Ізраілевых, і Я дабраслаўлю іх.
+      lev-khv: Так пусть возлагают имя Мое на сынов Израилевых, и Я благословлю их.
+      czech: Tak vlozi me jmeno na Izraelce a ja jim pozehnam.“
+      spanish: Así invocarán mi nombre sobre los hijos de Israel, y yo los bendeciré>>.
+      st_text: Так пусть призывают имя Мое на сынов Израилевых, и Я [Господь]
+        благословлю их.

@@ -1,0 +1,1709 @@
+id: 903
+number: 37
+bookId: 29
+verseCount: 21
+title: Глава 37
+verses:
+  - id: 16003
+    number: 1
+    bookId: 29
+    text: Вместо Иехонии, сына Иоакима, царствовал Седекия, сын Иосии, которого
+      Навуходоносор, царь Вавилонский, поставил царем в земле Иудейской.
+    chapter: 37
+    chapterId: 903
+    parallels:
+      - verseId: 9147
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 24
+        short: 4 Цар:24:17
+      - verseId: 6474
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 36
+        short: 2 Пар:36:10
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И царствова седекиа сын иосиин вместо иехонии сына иоакимова, егоже
+        постави навуходоносор царь вавилонский царствовати во иудеи.
+      averincev: ""
+      ungerov: Вместо Иехонии, cына Иоакима, царствовал Седекия, сын Иосии, котораго
+        Навуходоносор, царь Вавилонский, поставил царем в Иудее.
+      csya_old: И# цaрствова седекjа сы1нъ їwсjинъ вмёстw їехонjи сы1на їwакjмова,
+        є3го1же постaви навуходоно1соръ цaрь вавmлHнскій цaрствовати во їуде1и.
+      sovr_rbo: "После Иехонии, сына Иоакима, царем стал Седекия, сын Иосии:
+        Навуходоносор, царь Вавилона, сделал его царем над Иудеей."
+      latin: "Et regnavit rex Sedecias filius Josiae pro Jechonia filio Joakim, quem
+        constituit regem Nabuchodonosor rex Babylonis in terra Juda:"
+      ukr: І зацарював цар Седекія, син Йосійїн, замість Конії, сина Єгоякимового,
+        якого зробив царем Навуходоносор, цар вавилонський, в Юдиному краї.
+      nkjv: Now King Zedekiah the son of Josiah reigned instead of Coniah the son of
+        Jehoiakim, whom Nebuchadnezzar king of Babylon made king in the land of
+        Judah.
+      desnitsky: ""
+      mt: ‫   וַיִּמְלָךְ־מֶלֶךְ צִדְקִיָּהוּ בֶּן־יֹאשִׁיָּהוּ תַּחַת כָּנְיָהוּ
+        בֶּן־יְהוֹיָקִים אֲשֶׁר הִמְלִיךְ נְבוּכַדְרֶאצַּר מֶלֶךְ־בָּבֶל
+        בְּאֶרֶץ יְהוּדָה׃ ‬
+      romana: In locul lui Iehonia, fiul lui Ioiachim, a fost facut rege Sedechia,
+        fiul lui Iosia, pe care Nabucodonosor, regele Babilonului, l-a pus rege
+        in tara lui Iuda.
+      francais: Sédécias, fils de Josias, régna à la place de Jeconia, fils de
+        Jojakim, et fut établi roi dans le pays de Juda par Nebucadnetsar, roi
+        de Babylone.
+      italian: Sedecìa figlio di Giosia divenne re al posto di Conìa figlio di
+        Ioiakìm; Nabucodònosor re di Babilonia lo nominò re nel paese di Giuda.
+      old_georgian: მეფე იქმნა სედეკია, ძე იოსიაჲსი, ნაცვლად იექონიაჲსა, ძისა
+        იოაკიმისა, რომელი მეფე-ყო ნაბუქოდონოსორ, მეფემან ბაბილონისამან, მეფობად
+        იუდაჲსასა.
+      portuguese: "E Zedequias, filho de Josias, a quem Nabucodonosor, rei de
+        Babilônia, constituiu rei na terra de Judá, reinou em\rlugar de Conias,
+        filho de Jeoiaquim."
+      polish: "W miejsce Jechoniasza, syna Jojakima, władzę objął Sedecjasz.
+        Ustanowił\rgo królem nad ziemią judzką król babiloński, Nabuchodonozor."
+      turkish: Babil Kralı Nebukadnessar'ın Yahuda'ya atadığı Yoşiya oğlu Sidkiya,
+        Yehoyakim oğlu Yehoyakin'in yerine kral oldu.
+      nrt: Навуходоносор, царь Вавилона поставил Цедекию, сына Иосии, царем Иудеи, и
+        он правил вместо Иехонии, сына Иоакима.
+      Macarius: Вместо Хопии, сына Иоакимова, царствовал Седекия, сын Иосиин, которого
+        Невухаднецар, царь вавилонский, поставил царем в земле иудейской.
+      serbian: Потом царова цар Седекија, син Јосијин, умјесто Хоније, сина Јоакимова,
+        којега постави царем у земљи Јудиној Навуходоносор, цар Вавилонски.
+      bulgarian: Вместо Иехония, Иоакимов син, царуваше Седекия, Иосиев син, когото
+        вавилонският цар Навуходоносор постави за цар в Иудейската земя.
+      Olesn: И царствовал царь Седекия, сын Иосии, вместо Хонии, сына Иоавима; тот,
+        котораго поставил царем Навуходоресор, царь вавилонский, в земле
+        иудейской.
+      deutsch: Und da Zedekia, der Sohn Josias, ward König anstatt Jechonjas, des
+        Sohnes Jojakims; denn Nebukadnezar, der König zu Babel machte ihn zum
+        König im Lande Juda.
+      ukr2: На місці Єхонії, сина Йоакима, царював Седекія, син Йосії, що його
+        настановив Навуходоносор, цар вавилонський, царем над юдейською землею.
+      ukr3: Намість Ехонїї Йоакименка царював Седекія Йосієнко, що його Навуходонозор,
+        царь Вавилонський, настановив царем над землею Юдейською.
+      bel_syomukha: Замест Еханіі, сына Ёакімавага, цараваў Сэдэкія, сын Ёсіі, якога
+        Навухаданосар, цар Вавілонскі, паставіў царом у зямлі Юдэйскай.
+      czech: Kral Sidkijas, syn Josijasuv, se stal kralem misto Konjase, syna
+        Jojakimova. Ustanovil ho kralem v zemi judske Nebukadnesar, kral
+        babylonsky.
+      spanish: Reinó Sedecías, hijo de Josías, en lugar de Jeconías, hijo de Joaquim.
+        Fue Nabucodonosor, rey de Babilonia, quien le hizo rey de la tierra de
+        Judá.
+      greek-lxx: καὶ ἐβασίλευσεν Σεδεκιας υἱὸς Ιωσια ἀντὶ Ιωακιμ ὃν ἐβασίλευσεν
+        Ναβουχοδονοσορ βασιλεύειν τοῦ Ιουδα
+      st_text: Вместо Иехонии, сына Иоакима, царствовал Седекия, сын Иосии, которого
+        Навуходоносор, царь Вавилонский, поставил царем в земле Иудейской.
+  - id: 16004
+    number: 2
+    bookId: 29
+    text: Ни он, ни слуги его, ни народ страны не слушали слов Господа, которые
+      говорил Он чрез Иеремию пророка.
+    chapter: 37
+    chapterId: 903
+    parallels:
+      - verseId: 6476
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 36
+        short: 2 Пар:36:12
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И не послуша той и отроцы его и людие земли словес Господних, яже глагола
+        рукою иеремииною.
+      averincev: ""
+      ungerov: И не послушали он, и слуги его, и народ земли, слов Господа, которыя Он
+        изрекал чрез Иеремию.
+      csya_old: И# не послyша то1й и3 џтроцы є3гw2 и3 лю1діе земли2 слове1съ гDнихъ,
+        ±же гlа руко1ю їеремjиною.
+      sovr_rbo: Седекия, его слуги и народ страны не повиновались словам Господа,
+        которые Господь говорил через пророка Иеремию.
+      latin: et non obedivit ipse, et servi ejus, et populus terrae, verbis Domini,
+        quae locutus est in manu Jeremiae prophetae.
+      ukr: Та не послухався ані він, ані його раби, ані народ Краю слів Господа, які
+        Він говорив через пророка Єремію.
+      nkjv: But neither he nor his servants nor the people of the land gave heed to
+        the words of the Lord which He spoke by the prophet Jeremiah.
+      desnitsky: ""
+      mt: ‫   וְלֹא שָׁמַע הוּא וַעֲבָדָיו וְעַם הָאָרֶץ אֶל־דִּבְרֵי יְהוָה אֲשֶׁר
+        דִּבֶּר בְּיַד יִרְמְיָהוּ הַנָּבִיא׃ ‬
+      romana: Dar nici el, nici slujitorii lui si nici poporul tarii n-au ascultat
+        cuvintele Domnului, cele graite prin proorocul Ieremia.
+      francais: Ni lui, ni ses serviteurs, ni le peuple du pays, n'écoutèrent les
+        paroles que l'Éternel prononça par Jérémie, le prophète.
+      italian: Ma né lui né i suoi ministri né il popolo del paese ascoltarono le
+        parole che il Signore aveva pronunziate per mezzo del profeta Geremia.
+      old_georgian: და არა ისმინნეს მან და ყრმათა მისთა და ერმან ქუეყანისამან სიტყუანი
+        უფლისანი, რომელნი თქუნა ჴელითა იერემიაჲსითა.
+      portuguese: "Mas nem ele, nem os seus servos, nem o povo da terra escutaram as
+        palavras do Senhor que este falou por\rintermédio de Jeremias o
+        profeta."
+      polish: "Ani on, ani jego dworzanie, ani lud ziemi nie słuchali słów Pana, jakie
+        im\rmówił za pośrednictwem proroka Jeremiasza."
+      turkish: Ama kendisi de görevlileriyle ülke halkı da RAB'bin Peygamber Yeremya
+        aracılığıyla söylediği sözleri dikkate almadılar.
+      nrt: Ни он, ни его слуги, ни народ страны не слушали слов Господа, произнесенных
+        через пророка Иеремию.
+      Macarius: Ни он, ни служащие при нем, ни народ земли не слушал слов Иеговы,
+        которые говорил Он чрез Иеремию пророка.
+      serbian: Али ни он ни слуге његове ни народ земаљски не слушаху ријечи Господњих
+        које говораше преко Јеремије пророка.
+      bulgarian: Ни той, ни слугите му, нито народът на страната не слушаха думите на
+        Господа, които Той говори чрез пророк Иеремия.
+      Olesn: Но не слушал он, с служащими при нем и народом страны, слов Иеговы,
+        которыя Он высказывал чрез Иеремию пророка.
+      deutsch: Aber er und seine Knechte und das Volk im Lande gehorchten nicht des
+        Herrn Worten, die er durch den Propheten Jeremia redete.
+      ukr2: Та ні він, ні слуги його, ні мешканці єрусалимські не слухалися слів, які
+        Господь говорив через пророка Єремію.
+      ukr3: Та нї він, нї слуги його, нї осадники країни не слухали слів, що Господь
+        говорив через пророка Еремію.
+      bel_syomukha: Ні ён, ні слугі ягоныя, ні народ краіны ня слухалі словаў Госпада,
+        якія казаў Ён празь Ерамію прарока.
+      czech: Ale ani on ani jeho sluzebnici ani lid zeme neuposlechli slov
+        Hospodinovych, ktera mluvil skrze proroka Jeremjase.
+      spanish: Y no obedecieron él, sus siervos y el pueblo de la tierra a las
+        palabras que había hablado Yavé por medio de Jeremías, profeta,
+      greek-lxx: καὶ οὐκ ἤκουσεν αὐτὸς καὶ οἱ παῖδες αὐτοῦ καὶ ὁ λαὸς τῆς γῆς τοὺς
+        λόγους Κυρίου οὓς ἐλάλησεν ἐν χειρὶ Ιερεμιου
+      st_text: Ни он, ни слуги его, ни народ страны не слушали слов Господа, которые
+        говорил Он чрез Иеремию пророка.
+  - id: 16005
+    number: 3
+    bookId: 29
+    text: "Царь Седекия послал Иегухала, сына Селемии, и Софонию, сына Маасеи,
+      священника, к Иеремии пророку сказать: помолись о нас Господу Богу
+      нашему."
+    chapter: 37
+    chapterId: 903
+    parallels:
+      - verseId: 20539
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 37
+        short: Ис:37:4
+      - verseId: 16136
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 42
+        short: Иер:42:2
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И посла царь седекиа иоахала сына селемиина и софонию сына массеа жерца
+        ко иеремии пророку, глаголя: молися за ны ко Господу Богу нашему."
+      averincev: ""
+      ungerov: "И послал царь Седекия Иоахала, сына Селемии, и Софонию, сына Маассеи,
+        священника, к Иеремии пророку сказать: помолись о нас Господу Богу
+        нашему."
+      csya_old: "И# послA цaрь седекjа їwахaла сы1на селемjина и3 софо1нію сы1на
+        массе1а жерцA ко їеремjи прbро1ку, глаго1лz: моли1сz за ны2 ко гDу бг7у
+        нaшему."
+      sovr_rbo: "Царь Седекия послал к пророку Иеремии Иегухала, сына Шелемии, и
+        священника Софонию, сына Маасеи, чтобы они попросили его: «Помолись о
+        нас Господу, Богу нашему!»"
+      latin: "Et misit rex Sedecias Juchal filium Selemiae, et Sophoniam filium
+        Maasiae, sacerdotem, ad Jeremiam prophetam, dicens: Ora pro nobis
+        Dominum Deum nostrum."
+      ukr: "І послав цар Седекія Єгухала, сина Шелеміїного, і священика Цефанію, сина
+        Маасеїного, до пророка Єремії, говорячи: Помолися за нас до Господа,
+        Бога нашого!"
+      nkjv: And Zedekiah the king sent Jehucal the son of Shelemiah, and Zephaniah the
+        son of Maaseiah, the priest, to the prophet Jeremiah, saying, "Pray now
+        to the Lord our God for us."
+      desnitsky: ""
+      mt: ‫   וַיִּשְׁלַח הַמֶּלֶךְ צִדְקִיָּהוּ אֶת־יְהוּכַל בֶּן־שֶׁלֶמְיָה
+        וְאֶת־צְפַנְיָהוּ בֶן־מַעֲשֵׂיָה הַכֹּהֵן אֶל־יִרְמְיָהוּ הַנָּבִיא
+        לֵאמֹר הִתְפַּלֶּל־נָא בַעֲדֵנוּ אֶל־יְהוָה אֱלֹהֵינוּ׃ ‬
+      romana: 'Regele Sedechia a trimis pe Iucal, fiul lui Selemia, si pe Sofonie
+        preotul, fiul lui Maaseia, la Ieremia proorocul, ca sa-i zica: "Roaga-te
+        pentru noi Domnului Dumnezeului nostru!"'
+      francais: "Le roi Sédécias envoya Jucal, fils de Schélémia, et Sophonie, fils de
+        Maaséja, le sacrificateur, vers Jérémie, le prophète, pour lui dire:
+        Intercède en notre faveur auprès de l'Éternel, notre Dieu."
+      italian: 'Il re Sedecìa inviò allora Iucàl figlio di Selemia e il sacerdote
+        Sofonia figlio di Maasià dal profeta Geremia per dirgli: "Prega per noi
+        il Signore nostro Dio".'
+      old_georgian: "და მიავლინა მეფემან სედეკია იოახას, ძე სელიმისი და სოფონია, ძე
+        მაასესი, მღდელი იერემიაჲს მიმართ წინაწარმეტყუელისა მეტყუელმან: ლოცვიდე
+        ჩუენთჳს უფლისა ღმრთისა ჩემისა."
+      portuguese: "Contudo mandou o rei Zedequias a Jeucal filho de Selemias, e a
+        Sofonias, filho de Maaséias, o sacerdote, ao\rprofeta Jeremias, para lhe
+        dizerem: Roga agora por nós ao Senhor nosso Deus,"
+      polish: "Król Sedecjasz posłał Jukala, syna Szelemiasza, i Sofoniasza, syna
+        Maasejasza, kapłana, do proroka Jeremiasza, by powiedzieli:"
+      turkish: "Kral Sidkiya, Şelemya oğlu Yehukal'la Maaseya oğlu Kâhin Sefanya'yı şu
+        haberle Peygamber Yeremya'ya gönderdi: «Lütfen bizim için Tanrımız
+        RAB'be yalvar.»"
+      nrt: "Однако царь Цедекия послал Иегухала, сына Шелемии, со священником
+        Софонией, сыном Маасеи, к пророку Иеремии, чтобы сказать: «Прошу тебя,
+        помолись о нас Господу, нашему Богу»."
+      Macarius: "Однажды послал царь Седекия Иегухала, сына Шелемиина, и Цефанию, сына
+        Маасеина, священника, к Иеремии пророку сказать: помолись о нас Иегове,
+        Богу нашему."
+      serbian: "И посла цар Седекија Јеухала, сина Селемијина, и Софонију, сина
+        Масијина свештеника, к Јеремији пророку, те му рекоше: Помоли се за нас
+        Господу Богу нашему."
+      bulgarian: 'Цар Седекия изпрати Иехухала, Селемиев син, и свещеник Софония,
+        Маасеев син, при пророк Иеремия да кажат: "помоли се зарад нас на нашия
+        Господ Бог".'
+      Olesn: "Однакож послал царь Седекия Иегухала, сына Шелемии и Цефанию сына
+        Магасии священника к Иеремии пророку с словами: »помолись за нас Иегове
+        Богу нашему.»"
+      deutsch: "Es sandte gleichwohl der König Zedekia Juchal, den Sohn Selemjas, und
+        Zephanja, den Sohn Maasejas, den Priester, zum Propheten Jeremia und
+        ließ ihm sagen: Bitte den Herrn, unsern Gott, für uns!"
+      ukr2: "І послав цар Седекія Юхала, сина Шелемії, та священика Софонію, сина
+        Маасеї, до пророка Єремії, аби йому сказали: «Помолись за нас до
+        Господа, Бога нашого.»"
+      ukr3: "І послав царь Седекія Елухала Селемієнка та сьвященника Софонїю Маасеєнка
+        до пророка Еремії, щоб йому сказали: Благай за нас Господа, Бога
+        нашого."
+      bel_syomukha: 'Цар Сэдэкія паслаў Егухала, сына Сэлэміі, і Сафонію, сына
+        Маасэевага, сьвятара, да Ераміі прарока сказаць: "памаліся за нас
+        Госпаду Богу нашаму".'
+      czech: 'Kral Sidkijas poslal Jehukala, syna Selemjasova, a kneze Sefanjase, syna
+        Maasejasova, k proroku Jeremjasovi se vzkazem: "Modli se, prosim, za nas
+        k Hospodinu, nasemu Bohu."'
+      spanish: "y envió el rey Sedecías a Jucal, hijo de Selemías, y a Sofonías, hijo
+        de Maasías, sacerdote, a Jeremías, profeta, diciéndole: Ruega por
+        nosotros a Yavé, nuestro Dios."
+      greek-lxx: καὶ ἀπέστειλεν ὁ βασιλεὺς Σεδεκιας τὸν Ιωαχαλ υἱὸν Σελεμιου καὶ τὸν
+        Σοφονιαν υἱὸν Μαασαιου τὸν ἱερέα πρὸς Ιερεμιαν λέγων πρόσευξαι δὴ περὶ
+        ἡμῶν πρὸς Κύριον
+      st_text: "Царь Седекия послал Иегухала, сына Селемии, и Софонию, сына Маасеи,
+        священника, к Иеремии пророку сказать: помолись о нас Господу Богу
+        нашему."
+  - id: 16006
+    number: 4
+    bookId: 29
+    text: Иеремия тогда еще свободно входил и выходил среди народа, потому что не
+      заключили его в дом темничный.
+    chapter: 37
+    chapterId: 903
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Иеремиа же свободен прихождаше и прохождаше среде града, не введоша бо его
+        во храмину темничную.
+      averincev: ""
+      ungerov: Иеремия же свободно866 входил и ходил среди города, потому что не
+        посадили его еще в дом темничный.
+      csya_old: І3еремjа же свобо1денъ прихождaше и3 прохождaше средЁ грaда, не
+        введо1ша бо є3го2 во хрaмину темни1чную.
+      sovr_rbo: В то время Иеремия свободно жил среди людей, его не заключали в тюрьму.
+      latin: "Jeremias autem libere ambulabat in medio populi: non enim miserant eum
+        in custodiam carceris. Igitur exercitus Pharaonis egressus est de
+        Aegypto, et audientes Chaldaei, qui obsidebant Jerusalem, hujuscemodi
+        nuntium, recesserunt ab Jerusalem."
+      ukr: А Єремія тоді ще вільно ходив серед народу, бо не дали його ще до в'язниці.
+      nkjv: Now Jeremiah was coming and going among the people, for they had not yet
+        put him in prison.
+      desnitsky: ""
+      mt: ‫   וְיִרְמְיָהוּ בָּא וְיֹצֵא בְּתוֹךְ הָעָם וְלֹא־נָתְנוּ אֹתוֹ בֵּית
+        *הכליא **הַכְּלוּא׃ ‬
+      romana: "Caci pe atunci Ieremia intra si umbla inca slobod prin popor, pentru ca
+        nu-l aruncasera inca in inchisoare. \rS. Ostirea lui Faraon a iesit din
+        Egipt, iar Caldeii, care impresurasera Ierusalimul, auzind vestea
+        aceasta, s-au retras de la Ierusalim."
+      francais: Or Jérémie allait et venait parmi le peuple; on ne l'avait pas encore
+        mis en prison.
+      italian: Geremia intanto andava e veniva in mezzo al popolo e non era stato
+        ancora messo in prigione.
+      old_georgian: და იერემია მოვიდა და გავლო საშუალ ქალაქისა, და არ მიიყუანეს იგი
+        საპყრობილედ, და ძალი ფარაოჲსი გამოვიდა ეგჳპტით. და ესმა ქალდეველთა,
+        მომცველთა იერუსალიმისათა, სასმენელი მათი, და წარვიდეს იერუსალიმით.
+      portuguese: Ora, Jeremias entrava e saía entre o povo; pois ainda não o tinham
+        encerrado na prisão.
+      polish: "”Módl się za nas do Pana, Boga naszego!” Jeremiasz zaś chodził
+        swobodnie\rwśród ludu; jeszcze nie wtrącono go do więzienia."
+      turkish: O sırada Yeremya daha cezaevine konmamıştı, halk arasında dolaşıyordu.
+      nrt: Иеремия тогда еще жил свободно среди народа, потому что еще не был брошен в
+        темницу.
+      Macarius: (Иеремия тогда входил и выходил среди народа свободно, и еще не
+        посадили его в дом темничный.
+      serbian: И Јеремија иђаше међу народ и још га не бјеху метнули у тамницу.
+      bulgarian: Иеремия тогава още свободно влизаше и излизаше всред народа, защото
+        не бяха го още затворили в тъмница.
+      Olesn: В то время Иеремия мог входить и выходить среди народа и еще не отдали
+        его в дом заключения,
+      deutsch: Denn Jeremia ging unter dem Volk aus und ein, und niemand legte ihn ins
+        Gefängnis.
+      ukr2: Єремія ходив іще на волі серед народу, не був ще ув'язнений у тюрмі.
+      ukr3: Еремія ходив іще тодї по волї серед люду, бо його ще не посаджено в
+        темницю.
+      bel_syomukha: Ерамія тады яшчэ свабодна ўваходзіў і выходзіў сярод народа, бо ня
+        ўвязьнілі яго ў цямніцу.
+      czech: Jeremjas vchazel a vychazel uprostred lidu, dosud jej nedali do zalare.
+      spanish: Y Jeremías andaba libremente entre el pueblo, pues todavía no le habían
+        encarcelado.
+      greek-lxx: καὶ Ιερεμιας ἦλθεν καὶ διῆλθεν διὰ μέσου τῆς πόλεως καὶ οὐκ ἔδωκαν
+        αὐτὸν εἰς οἶκον τῆς φυλακῆς
+      st_text: Иеремия тогда еще свободно входил и выходил среди народа, потому что не
+        заключили его в дом темничный.
+  - id: 16007
+    number: 5
+    bookId: 29
+    text: Между тем войско фараоново выступило из Египта, и Халдеи, осаждавшие
+      Иерусалим, услышав весть о том, отступили от Иерусалима.
+    chapter: 37
+    chapterId: 903
+    parallels:
+      - verseId: 15950
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 34
+        short: Иер:34:21
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И сила фараоня изыде из египта, и слышавше халдее облегшии Иерусалим слух
+        их, отступиша от Иерусалима.
+      averincev: ""
+      ungerov: Между тем войско фараона вышло из Египта, и Халдеи, осаждавшие
+        Иерусалим, услышали весть о нем и отступили от Иерусалима.
+      csya_old: И# си1ла фараHнz и3зы1де и3з8 є3гv1пта, и3 слы1шавше халде1є њбле1гшіи
+        їеrли1мъ слyхъ и4хъ, tступи1ша t їеrли1ма.
+      sovr_rbo: Войско фараона выступило из Египта, и халдеи, осаждавшие Иерусалим,
+        получили весть об этом и отошли от Иерусалима.
+      latin: "Jeremias autem libere ambulabat in medio populi: non enim miserant eum
+        in custodiam carceris. Igitur exercitus Pharaonis egressus est de
+        Aegypto, et audientes Chaldaei, qui obsidebant Jerusalem, hujuscemodi
+        nuntium, recesserunt ab Jerusalem."
+      ukr: А фараонове військо вийшло з Єгипту. І почули вістку про них халдеї, що
+        облягали Єрусалим, і відійшли від Єрусалиму.
+      nkjv: "Then Pharaoh's army came up from Egypt; and when the Chaldeans who were
+        besieging Jerusalem heard news of them, they departed from Jerusalem. "
+      desnitsky: ""
+      mt: ‫   וְחֵיל פַּרְעֹה יָצָא מִמִּצְרָיִם וַיִּשְׁמְעוּ הַכַּשְׂדִּים הַצָּרִים
+        עַל־יְרוּשָׁלִַם אֶת־שִׁמְעָם וַיֵּעָלוּ מֵעַל יְרוּשָׁלִָם׃ פ ‬
+      francais: L'armée de Pharaon était sortie d'Égypte; et les Chaldéens, qui
+        assiégeaient Jérusalem, ayant appris cette nouvelle, s'étaient retirés
+        de Jérusalem.
+      italian: Però l'esercito del faraone era uscito dall'Egitto e i Cal — dei, che
+        assediavano Gerusalemme, appena ne avevano avuto notizia, si erano
+        allontanati da Gerusalemme.
+      old_georgian: "და იყო სიტყუაჲ უფლისაჲ იერემიაჲს მიმართ მეტყუელი:"
+      portuguese: "E o exército de Faraó saíra do Egito; quando, pois, os caldeus que
+        estavam sitiando Jerusalém, ouviram esta\rnotícia, retiraram-se de
+        Jerusalém."
+      polish: "Wojsko faraona wyruszyło tymczasem z Egiptu. Gdy usłyszeli tę
+        nowinę\rChaldejczycy oblegający Jerozolimę, odstąpili od niej."
+      turkish: Firavunun ordusu Mısır'dan çıkmıştı. Yeruşalim'i kuşatma altında tutan
+        Kildaniler bu haberi duyunca Yeruşalim'den çekildiler.
+      nrt: Войско фараона выступило из Египта, и халдеи, которые осаждали Иерусалим,
+        услышав об этом, отступили из-под Иерусалима.
+      Macarius: Тогда войско Фараоново выступило из Египта, и халдеи, осаждавшие
+        Иерусалим, услышавши весть об нем, отступили от Иерусалима.)
+      serbian: И војска Фараонова изиде из Мисира, а Халдејци који бијаху Јерусалим,
+        чувши глас о њој отидоше од Јерусалима.
+      bulgarian: Между това фараоновата войска излезе из Египет, и халдейци, които
+        обсаждаха Иерусалим, като се научиха за това, оттеглиха се от Иерусалим.
+      Olesn: а войско фараона вышло из Египта, и Халдеи, осаждавшие Иерусалим,
+        услышавши весть о нем, отступили от Иерусалима.
+      deutsch: "Es war aber das Heer Pharaos aus Ägypten gezogen: und die Chaldäer, so
+        vor Jerusalem lagen, da sie solch Gerücht gehört hatten, waren von
+        Jerusalem abgezogen."
+      ukr2: Тим часом фараонове військо вирушило з Єгипту, і халдеї, які облягали
+        Єрусалим, довідавшись про те, відступили від Єрусалиму.
+      ukr3: Тим часом військо Фараонове вирушило з Египту, а Халдеї, що облягали
+        Ерусалим, довідавшись про те, відступили від Ерусалиму.
+      bel_syomukha: Тым часам войска фараонава выступіла зь Егіпта, і Халдэі, якія
+        аблягалі Ерусалім, пачуўшы вестку пра тое, адступілі ад Ерусаліма.
+      czech: Faraonovo vojsko vytahlo z Egypta. Kdyz Kaldejci, kteri oblehali
+        Jeruzalem, uslyseli o nich zpravu, odtahli od Jeruzalema.
+      spanish: Salió entonces de Egipto el ejército del faraón, y, al saber la nueva,
+        los caldeos que asediaban a Jerusalén se retiraron de allí.
+      greek-lxx: καὶ δύναμις Φαραω ἐξῆλθεν ἐξ Αἰγύπτου καὶ ἤκουσαν οἱ Χαλδαῖοι τὴν
+        ἀκοὴν αὐτῶν καὶ ἀνέβησαν ἀπὸ Ιερουσαλημ
+      st_text: Между тем войско фараоново выступило из Египта, и Халдеи, осаждавшие
+        Иерусалим, услышав весть о том, отступили от Иерусалима.
+  - id: 16008
+    number: 6
+    bookId: 29
+    text: "И было слово Господне к Иеремии пророку:"
+    chapter: 37
+    chapterId: 903
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И бысть слово Господне ко иеремии глаголя:"
+      averincev: ""
+      ungerov: "И было слово Господне к Иеремии, и сказано:"
+      csya_old: "И# бы1сть сло1во гDне ко їеремjи гlz:"
+      sovr_rbo: И было пророку Иеремии слово Господа.
+      latin: "Et factum est verbum Domini ad Jeremiam prophetam, dicens:"
+      ukr: "І було слово Господнє до пророка Єремії, говорячи:"
+      nkjv: Then the word of the Lord came to the prophet Jeremiah, saying,
+      desnitsky: ""
+      mt: ‫   וַיְהִי דְּבַר־יְהוָה אֶל־יִרְמְיָהוּ הַנָּבִיא לֵאמֹר׃ ‬
+      romana: "Atunci a fost cuvantul Domnului catre Ieremia proorocul si a zis:"
+      francais: "Alors la parole de l'Éternel fut adressée à Jérémie, le prophète, en
+        ces mots:"
+      italian: "Allora la parola del Signore fu rivolta al profeta Geremia:"
+      old_georgian: "ესრეთ თქუა უფალმან ღმერთმან ისრაელისამან: ესრეთ ჰსიტყო მეფისა
+        მიმართ იუდაჲსა, მომავლინებელისა შენდამი, გამოძიებად ჩემდა. აჰა, ძალი
+        ფარაოჲსი გამოსრული შეწევნად თქუენდა, უკუნიქცენ ქუეყანად მათდად, ქუეყანად
+        ეგჳპტისა."
+      portuguese: "Então veio a Jeremias, o profeta, a palavra do Senhor, dizendo:"
+      polish: "Prorok zaś Jeremiasz otrzymał następujące słowo Pańskie:"
+      turkish: "Derken RAB Peygamber Yeremya'ya şöyle seslendi:"
+      nrt: "И было к пророку Иеремии слово Господа:"
+      Macarius: "И было слово Иеговы к Иеремии пророку, и сказано:"
+      serbian: "А ријеч Господња дође Јеремији пророку говорећи:"
+      bulgarian: "И биде слово Господне към пророк Иеремия:"
+      Olesn: "И было слово Иеговы в Иеремии пророку такое: так говорит Иегова Бог
+        израилев."
+      deutsch: "Und des Herrn Wort geschah zum Propheten Jeremia und sprach:"
+      ukr2: "І надійшло таке слово Господнє до пророка Єремії:"
+      ukr3: "І надійшло слово Господнє до пророка Еремії таке:"
+      bel_syomukha: "І было слова Гасподняе Ерамію прароку:"
+      czech: "I stalo se k proroku Jeremjasovi slovo Hospodinovo:"
+      spanish: "Y recibió Jeremías, profeta, palabra de Yavé, diciéndole:"
+      greek-lxx: καὶ ἐγένετο λόγος Κυρίου πρὸς Ιερεμιαν λέγων
+      st_text: "И было слово Господне к Иеремии пророку:"
+  - id: 16009
+    number: 7
+    bookId: 29
+    text: "так говорит Господь, Бог Израилев: так скажите царю Иудейскому,
+      пославшему вас ко Мне вопросить Меня: вот, войско фараоново, которое шло к
+      вам на помощь, возвратится в землю свою, в Египет;"
+    chapter: 37
+    chapterId: 903
+    parallels:
+      - verseId: 20402
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 30
+        short: Ис:30:2
+      - verseId: 28800
+        bookId: 30
+        bookCode: plac-ieremii
+        chapter: 4
+        short: Плач:4:17
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "тако рече Господь Бог израилев: тако речеши царю иудину, пославшему к
+        тебе вопросити мя: се, сила фараоня, изшедшая вам на помощь, возвратится
+        паки до земли египетския,"
+      averincev: ""
+      ungerov: "Так говорит Господь Бог Израилев: так скажи царю Иудейскому,
+        пославшему к тебе вопросить Меня: вот фараоново войско, вышедшее вам на
+        помощь, возвратится опять в землю Египетскую."
+      csya_old: "тaкw рече2 гDь бг7ъ ї}левъ: тaкw рече1ши царю2 їyдину, послaвшему къ
+        тебЁ вопроси1ти мS: се2, си1ла фараHнz, и3зше1дшаz вaмъ на по1мощь,
+        возврати1тсz пaки до земли2 є3гv1петскіz,"
+      sovr_rbo: "Так говорит Господь, Бог Израиля: царю Иудеи, пославшему вас
+        вопросить Меня, скажите так: войско фараона выступило вам на помощь, но
+        оно вернется в свою страну, в Египет."
+      latin: "Haec dicit Dominus Deus Israel: Sic dicetis regi Juda, qui misit vos ad
+        me interrogandum: Ecce exercitus Pharaonis, qui egressus est vobis in
+        auxilium, revertetur in terram suam in Aegyptum:"
+      ukr: "Так промовив Господь, Бог Ізраїлів: Так скажете до Юдиного царя, що послав
+        вас до мене поспитати мене: Ось фараонове військо, що вийшло вам на
+        поміч, вернеться до свого краю, до Єгипту."
+      nkjv: "\"Thus says the Lord, the God of Israel, 'Thus you shall say to the king
+        of Judah, who sent you to Me to inquire of Me: \"Behold, Pharaoh's army
+        which has come up to help you will return to Egypt, to their own land. "
+      desnitsky: ""
+      mt: ‫   כֹּה־אָמַר יְהוָה אֱלֹהֵי יִשְׂרָאֵל כֹּה‪‬ תֹאמְרוּ אֶל־מֶלֶךְ יְהוּדָה
+        הַשֹּׁלֵחַ אֶתְכֶם אֵלַי לְדָרְשֵׁנִי הִנֵּה חֵיל פַּרְעֹה הַיֹּצֵא
+        לָכֶם לְעֶזְרָה שָׁב לְאַרְצוֹ מִצְרָיִם׃ ‬
+      romana: '"Asa graieste Domnul, Dumnezeul lui Israel: Regelui lui Iuda, care v-a
+        trimis la Mine sa Ma intrebati, asa sa-i spuneti: Iata, ostirea lui
+        Faraon care v-a veni in ajutor se va intoarce in tara sa, in Egipt,'
+      francais: "Ainsi parle l'Éternel, le Dieu d'Israël: Vous direz au roi de Juda,
+        qui vous a envoyés vers moi pour me consulter: Voici, l'armée de
+        Pharaon, qui était en marche pour vous secourir, retourne dans son pays,
+        en Égypte;"
+      italian: "\"Dice il Signore Dio di Israele: Riferite al re di Giuda, che vi ha
+        mandati da me per consultarmi: Ecco l'esercito del faraone, uscito in
+        vostro aiuto, ritornerà nel suo paese d'Egitto;"
+      old_georgian: და უკმოიქცენ ქალდეველნი, და ჰბრძოდენ ქუეყანასა ამას, და დაიპყრან
+        იგი და დაწუან იგი ცეცხლითა.
+      portuguese: "Assim diz o Senhor, Deus de Israel: Assim direis ao rei de Judá,
+        que vos enviou a mim, para me consultar: Eis\rque o exército de Faraó,
+        que saiu em vosso socorro, voltará para a sua terra no Egito."
+      polish: "”To mówi Pan, Bóg Izraela: Tak powiecie królowi judzkiemu, który was
+        posłał\rdo Mnie po radę. Oto wojsko faraona, które spieszy wam z pomocą,
+        wróci\rdo swego kraju, do Egiptu."
+      turkish: "«İsrail'in Tanrısı RAB diyor ki: Danışmak için sizi bana gönderen
+        Yahuda Kralı'na şöyle deyin: `Size yardım etmek için Mısır'dan çıkıp
+        gelen firavunun ordusu ülkesine dönecek."
+      nrt: "– Так говорит Господь, Бог Израиля: Скажи царю Иудеи, который послал вас
+        вопросить Меня: «Войско фараона, которое выступило тебе на помощь,
+        вернется в свою собственную землю, в Египет,"
+      Macarius: "Так говорит Иегова, Бог Израилев: так скажите царю иудейскому,
+        пославшему вас ко Мне, просить у Меня ответа: вот идущее к вам на помощь
+        войско Фараоново возвратится в землю свою, в Египет."
+      serbian: "Овако вели Господ Бог Израиљев: Овако реците цару Јудину, који вас је
+        послао к мени да ме питате: Ево, војска Фараонова која пође вама у
+        помоћ, вратиће се у своју земљу, у Мисир."
+      bulgarian: "тъй казва Господ, Бог Израилев: тъй кажете на иудейския цар, който
+        ви изпрати до Мене да Ме питате: ето, фараоновата войска, която ви дойде
+        на помощ, ще се върне в земята си, в Египет;"
+      Olesn: Так скажите царю иудейскому, приславшему вас во мне спросить меня; »вот
+        войско Фараона, вышедшее вам на помощь, возвратится в землю свою, в
+        Египет.
+      deutsch: "So spricht der Herr, der Gott Israels: So sagt dem König Juda's, der
+        euch zu mir gesandt hat, mich zu fragen: Siehe, das Heer Pharaos, das
+        euch zu Hilfe ist ausgezogen, wird wiederum heim nach Ägypten ziehen;"
+      ukr2: "«Так каже Господь, Бог Ізраїля: Ось як скажіть юдейському цареві, що
+        послав вас до менеспитати: Фараонове військо, що вирушило вам на
+        підмогу, повернеться назад у Єгипет, у свою землю,"
+      ukr3: "Так говорить Господь, Бог Ізрайлїв: Ось як скажіть цареві Юдейському, що
+        послав вас до мене поспитати: - Військо Фараонове, що двинуло вам на
+        підмогу, вернеться зараз у Египет, у свою землю,"
+      bel_syomukha: "так кажа Гасподзь Бог Ізраілеў: так скажэце цару Юдэйскаму, які
+        паслаў вас да Мяне спытацца ў Мяне: вось, войска фараонавае, якое ішло
+        да вас з дапамогаю, вернецца ў зямлю сваю, у Егіпет;"
+      czech: '"Toto pravi Hospodin, Buh Izraele: Toto reknete krali judskemu, ktery
+        vas ke mne poslal, abyste se me dotazovali. Hle, vojsko faraonovo, ktere
+        vam vytahlo na pomoc, se navrati do sve zeme, do Egypta,'
+      spanish: "Así dice Yavé, Dios de Israel: Decid al rey de Judá que os ha mandado
+        a preguntarme: He aquí que el ejército del faraón que ha venido en
+        socorro vuestro se tendrá que volver a su tierra de Egipto,"
+      greek-lxx: οὕτως εἶπεν Κύριος οὕτως ἐρεῖς πρὸς βασιλέα Ιουδα τὸν ἀποστείλαντα
+        πρὸς σὲ τοῦ ἐκζητῆσαί με ἰδοὺ δύναμις Φαραω ἡ ἐξελθοῦσα ὑμῖν εἰς
+        βοήθειαν ἀποστρέψουσιν εἰς γῆν Αἰγύπτου
+      st_text: "так говорит Господь, Бог Израилев: так скажите царю Иудейскому,
+        пославшему вас ко Мне вопросить Меня: вот, войско фараоново, которое шло
+        к вам на помощь, возвратится в землю свою, в Египет;"
+  - id: 16010
+    number: 8
+    bookId: 29
+    text: а Халдеи снова придут и будут воевать против города сего, и возьмут его и
+      сожгут его огнем.
+    chapter: 37
+    chapterId: 903
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и возвратятся халдее и повоюют град сей, и возмут его и пожгут его огнем.
+      averincev: ""
+      ungerov: И возвратятся Халдеи, и будут воевать против сего города, и возьмут
+        его, и сожгут его огнем.
+      csya_old: и3 возвратsтсz халде1є и3 повою1ютъ грaдъ се1й, и3 во1змутъ є3го2 и3
+        пожгyтъ є3го2 nгне1мъ.
+      sovr_rbo: И халдеи вернутся сюда, снова осадят этот город, захватят его и сожгут
+        огнем!
+      latin: et redient Chaldaei, et bellabunt contra civitatem hanc, et capient eam,
+        et succendent eam igni.
+      ukr: А халдеї знову вернуться, і будуть воювати з цим містом, і здобудуть його,
+        та й спалять його огнем.
+      nkjv: "And the Chaldeans shall come back and fight against this city, and take
+        it and burn it with fire.\" ' "
+      desnitsky: ""
+      mt: ‫   וְשָׁבוּ הַכַּשְׂדִּים וְנִלְחֲמוּ עַל־הָעִיר הַזֹּאת וּלְכָדֻהָ
+        וּשְׂרָפֻהָ בָאֵשׁ׃ ס ‬
+      romana: Iar Caldeii vor veni din nou si vor lupta impotriva cetatii acesteia, o
+        vor lua si o vor arde cu foc.
+      francais: et les Chaldéens reviendront, ils attaqueront cette ville, ils la
+        prendront, et la brûleront par le feu.
+      italian: i Caldei ritorneranno, combatteran — no contro questa città, la
+        prenderanno e la daranno alle fiamme".
+      old_georgian: "რამეთუ ესრეთ თქუა უფალმან: ნუ მოიღებთ სულთა თქუენთა მეტყუელნი:
+        წარმრბენელნი წარვიდენ ჩუენგან ქალდეველნი, რამეთუ არა წარვიდენ,"
+      portuguese: E voltarão os caldeus, e pelejarão contra esta cidade, e a tomarão,
+        e a queimarão a fogo.
+      polish: "Chaldejczycy zaś powrócą i podejmą walkę przeciw temu miastu, zdobędą
+        je\ri spalą ogniem."
+      turkish: Kildaniler de dönecek; bu kentle savaşıp onu ele geçirecek, ateşe
+        verecekler.'
+      nrt: а халдеи вернутся и нападут на этот город; они захватят его и сожгут».
+      Macarius: А халдеи возвратятся, и будут держать в осаде город сей, и возьмут
+        его, и сожгут его огнем.
+      serbian: А Халдејци ће опет доћи и опколиће тај град и узеће га и спалиће га
+        огњем.
+      bulgarian: а халдейци пак ще дойдат и ще воюват против тоя град, ще го превземат
+        и ще го изгорят с огън.
+      Olesn: Возвратятся и Халдеи и наступят на город сей, и возьмут его, и сожгут его
+        огнем«
+      deutsch: und die Chaldäer werden wiederkommen und wider diese Stadt streiten und
+        sie gewinnen und mit Feuer verbrennen.
+      ukr2: а халдеї прибудуть знов, щоб воювати проти цього міста; вони здобудуть
+        його й спалять.
+      ukr3: А Халдеї вернуться знов, щоб сей город облягти; вони й опанують його й
+        пустять на пожар.
+      bel_syomukha: а Халдэі зноў прыйдуць і будуць ваяваць супроць горада гэтага, і
+        возьмуць яго і спаляць яго агнём.
+      czech: a vrati se Kaldejci, budou bojovat proti tomuto mestu, dobudou je a
+        vypali.
+      spanish: y volverán los caldeos a combatir esta ciudad, y la tomarán e
+        incendiarán.
+      greek-lxx: καὶ ἀναστρέψουσιν αὐτοὶ οἱ Χαλδαῖοι καὶ πολεμήσουσιν ἐπὶ τὴν πόλιν
+        ταύτην καὶ συλλήμψονται αὐτὴν καὶ καύσουσιν αὐτὴν ἐν πυρί
+      st_text: а Халдеи снова придут и будут воевать против города сего, и возьмут его
+        и сожгут его огнем.
+  - id: 16011
+    number: 9
+    bookId: 29
+    text: 'Так говорит Господь: не обманывайте себя, говоря: "непременно отойдут от
+      нас Халдеи", ибо они не отойдут;'
+    chapter: 37
+    chapterId: 903
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Яко тако рече Господь: не прельщайте душ своих, глаголюще: отходяше
+        отъидут от нас халдее: яко не отъидут."
+      averincev: ""
+      ungerov: 'Ибо так говорит Господь: не обманывайте себя, говоря: "непременно
+        отойдут от нас Халдеи", ибо не отойдут.'
+      csya_old: "Ћкw тaкw рече2 гDь: не прельщaйте дyшъ свои1хъ, глаго1люще: tходsще
+        tи1дутъ t нaсъ халде1є: ћкw не tи1дутъ."
+      sovr_rbo: "Так говорит Господь: не обольщайтесь, не думайте, что уйдут отсюда
+        халдеи! Не уйдут они!"
+      latin: "Haec dicit Dominus: Nolite decipere animas vestras, dicentes: Euntes
+        abibunt, et recedent a nobis Chaldaei: quia non abibunt."
+      ukr: "Так говорить Господь: Не обманюйте своїх душ, говорячи: Халдеї конче
+        підуть від нас, бо не підуть вони."
+      nkjv: "Thus says the Lord: 'Do not deceive yourselves, saying, \"The Chaldeans
+        will surely depart from us,\" for they will not depart. "
+      desnitsky: ""
+      mt: ‫   כֹּה אָמַר יְהוָה אַל־תַּשִּׁאוּ נַפְשֹׁתֵיכֶם לֵאמֹר הָלֹךְ יֵלְכוּ
+        מֵעָלֵינוּ הַכַּשְׂדִּים כִּי־לֹא יֵלֵכוּ׃ ‬
+      romana: 'Asa zice Domnul: Nu va inselati pe voi insiva, zicand: "Fara indoiala
+        se vor duce de la noi Caldeii" ca nu se vor duce.'
+      francais: "Ainsi parle l'Éternel: Ne vous faites pas d'illusion, en disant: Les
+        Chaldéens s'en iront loin de nous! Car ils ne s'en iront pas."
+      italian: 'Dice il Signore: "Non illudetevi pensando: Certo i Caldei si
+        allontaneranno da noi, perché non se ne andranno.'
+      old_georgian: არამედ დაღათუ მოსრათ ყოველი ძალი ქალდეველთა, მბრძოლთა თქუენთაჲ, და
+        დაშთენ ვინმე დაგურემულნი მამაკაცნი მათ შორის - კაცადი ადგილსა თჳსსა,
+        იგინი აღდგენ და დაწუან ქალაქი ესე ცეცხლითა.
+      portuguese: "Assim diz o Senhor: Não vos enganeis a vós mesmos, dizendo: Sem
+        dúvida os caldeus se retirarão de nós; pois\rnão se retirarão."
+      polish: "To mówi Pan: Nie zwódźcie samych siebie, powtarzając: ”Z pewnością
+        odejdą\rChaldejczycy!” Albowiem nie odejdą."
+      turkish: «RAB diyor ki, `Kildaniler üzerimizden çekilip gidecek' diyerek
+        kendinizi aldatmayın. Çünkü çekilip gitmeyecekler!
+      nrt: "Так говорит Господь: Не обманывайте себя, думая: «Халдеи непременно
+        отойдут от нас». Они не отойдут."
+      Macarius: "Так говорит Иегова: не обманывайте себя, говоря: «отойдут от нас
+        халдеи». Ибо они не отойдут."
+      serbian: "Овако вели Господ: Не варајте се говорећи: Отићи ће од нас Халдејци;
+        јер неће отићи."
+      bulgarian: 'Тъй казва Господ: не лъжете себе си, думайки: "бездруго ще си отидат
+        от нас халдейци", защото не ще си отидат;'
+      Olesn: "Так говорит Иегова: не обманывайте самих\rсебя, говоря: »совсем отступят
+        от нас Халдеи.«"
+      deutsch: "Darum spricht der Herr also: Betrügt eure Seelen nicht, daß ihr denkt,
+        die Chaldäer werden von uns abziehen; sie werden nicht abziehen."
+      ukr2: "Так каже Господь: Не оманюйте самих себе, думаючи: Халдеї напевно
+        відійдуть від нас, - бо вони не відійдуть."
+      ukr3: "Ще ж так говорить Господь: Не зводїте самі себе, думаючи: Халдеї конче
+        відійдуть од нас, бо вони не відійдуть;"
+      bel_syomukha: 'Так кажа Гасподзь: не ашуквайце сябе, кажучы: "мусова адыдуць ад
+        нас Халдэі", бо яны не адыдуць;'
+      czech: "Toto pravi Hospodin: Nepodvadejte sami sebe slovy: ‚Kaldejci od nas
+        urcite odejdou.' Ti neodejdou!"
+      spanish: "Así dice Yavé: No os engañéis a vosotros mismos, diciéndoos: <<Se irán
+        los caldeos de nosotros>>, porque no se irán."
+      greek-lxx: ὅτι οὕτως εἶπεν Κύριος μὴ ὑπολάβητε ταῖς ψυχαῖς ὑμῶν λέγοντες
+        ἀποτρέχοντες ἀπελεύσονται ἀφ᾿ ἡμῶν οἱ Χαλδαῖοι ὅτι οὐ μὴ ἀπέλθωσιν
+      st_text: 'Так говорит Господь: не обманывайте себя, говоря: "непременно отойдут
+        от нас Халдеи", ибо они не отойдут;'
+  - id: 16012
+    number: 10
+    bookId: 29
+    text: если бы вы даже разбили все войско Халдеев, воюющих против вас, и остались
+      бы у них только раненые, то и те встали бы, каждый из палатки своей, и
+      сожгли бы город сей огнем.
+    chapter: 37
+    chapterId: 903
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И аще побиете всю силу халдеев воюющих на вы, и останут нецыи язвени,
+        кийждо на месте своем, сии востанут и пожгут град сей огнем.
+      averincev: ""
+      ungerov: И еслибы вы избили все войско Халдеев, воюющих против вас, и остались
+        бы некоторые раненые, каждый (лежа) на месте своем, то и они встанут и
+        сожгут огнем город сей.
+      csya_old: И# ѓще побіе1те всю2 си1лу халде1євъ вою1ющихъ на вы2, и3 њстaнутъ
+        нёцыи ћзвени, кjйждо на мёстэ свое1мъ, сjи востaнутъ и3 пожгyтъ грaдъ
+        се1й nгне1мъ.
+      sovr_rbo: Даже если бы вы разбили войско халдеев, которое воюет с вами, и
+        остались бы у них лишь раненые, то и тогда они поднялись бы, вышли из
+        своих шатров и сожгли бы этот город огнем.
+      latin: Sed, etsi percusseritis omnem exercitum Chaldaeorum qui praeliantur
+        adversum vos, et derelicti fuerint ex eis aliqui vulnerati, singuli de
+        tentorio suo consurgent, et incendent civitatem hanc igni.
+      ukr: Бо якщо б ви побили все халдейське військо, що з вами воює, а з них
+        залишилися б тільки ранені, то встане кожен із намету свого, і спалять
+        це місто огнем...
+      nkjv: "For though you had defeated the whole army of the Chaldeans who fight
+        against you, and there remained only wounded men among them, they would
+        rise up, every man in his tent, and burn the city with fire.' \" "
+      desnitsky: ""
+      mt: ‫   כִּי אִם־הִכִּיתֶם כָּל־חֵיל כַּשְׂדִּים הַנִּלְחָמִים אִתְּכֶם
+        וְנִשְׁאֲרוּ בָם אֲנָשִׁים מְדֻקָּרִים אִישׁ בְּאָהֳלוֹ יָקוּמוּ
+        וְשָׂרְפוּ אֶת־הָעִיר הַזֹּאת בָּאֵשׁ׃ ‬
+      romana: Chiar daca ati, sfarama cu totul ostirea Caldeilor, care lupta impotriva
+        voastra, si ar ramane la ei numai raniti, apoi si aceia s-ar ridica
+        fiecare din cortul sau si ar arde cetatea aceasta cu foc".
+      francais: Et même quand vous battriez toute l'armée des Chaldéens qui vous font
+        la guerre, quand il ne resterait d'eux que des hommes blessés, ils se
+        relèveraient chacun dans sa tente, et brûleraient cette ville par le
+        feu.
+      italian: Anche se riusciste a battere tutto l'esercito dei Caldei che combattono
+        contro di voi, e ne rimanessero solo alcuni feriti, costoro sorgerebbero
+        ciascuno dalla sua tenda e darebbero alle fiamme questa città".
+      old_georgian: და იქმნა, ოდეს აღმოვიდა ძალი ქალდეველთა იერუსალიმით პირისაგან
+        ძალისა ფარაოსისა,
+      portuguese: "Porque ainda que derrotásseis a todo o exército dos caldeus que
+        peleja contra vós, e entre eles só ficassem\rhomens feridos, contudo se
+        levantariam, cada um na sua tenda, e queimariam a fogo esta cidade."
+      polish: "Nawet gdybyście pobili całe wojsko Chaldejczyków walczących z wami,
+        tak\rże zostałoby z nich jedynie niewielu rannych, to każdy z nich
+        podniósłby się\rze swego namiotu, by wydać to miasto na pastwę ognia”."
+      turkish: Sizinle savaşan bütün Babil ordusunu bozguna uğratsanız, çadırlarında
+        yalnız yaralılar kalsa bile, bunlar çadırlardan çıkıp bu kenti ateşe
+        verecekler.»
+      nrt: Даже если бы вы одолели все войско халдеев, воюющее против вас, и только
+        раненые остались бы у них в палатках, то и они вышли бы и сожгли этот
+        город.
+      Macarius: Если бы вы даже разбили все войско халдейское, воюющее против вас, и
+        остались бы у них одни только изъязвленные; то и те встали бы, каждый из
+        палатки своей, и сожгли бы город сей огнем.
+      serbian: И да побијете сву војску Халдејску, која ће се бити с вама, и да их
+        остане неколико рањеника, и они ће устати из својих шатора и спалити тај
+        град огњем.
+      bulgarian: дори да разбиехте и цялата войска на халдейци, които воюват против
+        вас, и да останеха у тях само ранени, то и те биха станали, всеки от
+        шатрата си, и биха изгорили с огън тоя град.
+      Olesn: Они не отступят, Еслибы вы сразили все войско Халдеев, воюющих с вами,
+        так чтобы остались у них одни раненные; то и тогда они встали бы, каждый
+        из шатра своего, чтобы сжечь город сей огнем.
+      deutsch: Und wenn ihr schon schlüget das ganze Heer der Chaldäer, so wider euch
+        streiten, und blieben ihrer etliche verwundet übrig, so würden sie doch,
+        ein jeglicher in seinem Gezelt, sich aufmachen und diese Stadt mit Feuer
+        verbrennen.
+      ukr2: Навіть якби ви побили все халдейське військо, що проти вас воює, так, що у
+        них зостались би тільки поранені, то й ті поставали б, кожен із свого
+        намету, та й спалили б це місто.»
+      ukr3: А коли б і все військо Халдейське, що вас воює, ви побили, та й зостались
+        би у них лиш самі ранені, так і ті повставали б, кожен із свого намету,
+        та й пустили б сей город на пожар.
+      bel_syomukha: калі б вы нават разьбілі ўсё войска Халдэяў, якія ваююць супроць
+        вас, і засталіся б у іх толькі параненыя, дык і тыя ўсталі б, кожны з
+        намёту свайго, і спалілі б горад гэты агнём.
+      czech: I kdybyste pobili cele kaldejske vojsko, ktere proti vam bojuje, takze by
+        zustali jen muzi skoleni, kazdy z nich by ve svem stanu povstal a toto
+        mesto by vypalili."
+      spanish: Pero, aunque destrozarais a todo el ejército caldeo que lucha contra
+        vosotros y no quedasen de él más que algunos heridos, éstos saldrían de
+        sus tiendas y pegarían fuego a esta ciudad.
+      greek-lxx: καὶ ἐὰν πατάξητε πᾶσαν δύναμιν τῶν Χαλδαίων τοὺς πολεμοῦντας ὑμᾶς καὶ
+        καταλειφθῶσίν τινες ἐκκεκεντημένοι ἕκαστος ἐν τῷ τόπῳ αὐτοῦ οὗτοι
+        ἀναστήσονται καὶ καύσουσιν τὴν πόλιν ταύτην ἐν πυρί
+      st_text: если бы вы даже разбили все войско Халдеев, воюющих против вас, и
+        остались бы у них только раненые, то и те встали бы, каждый из палатки
+        своей, и сожгли бы город сей огнем.
+  - id: 16013
+    number: 11
+    bookId: 29
+    text: В то время, как войско Халдейское отступило от Иерусалима, по причине
+      войска фараонова,
+    chapter: 37
+    chapterId: 903
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И бысть егда взыде сила халдейска от Иерусалима, от лица силы фараони,
+      averincev: ""
+      ungerov: И когда войско Халдейское отошло от Иерусалима, в виду войска фараонова,
+      csya_old: И# бы1сть є3гдA взы1де си1ла халде1йска t їеrли1ма, t лицA си1лы фараHни,
+      sovr_rbo: Когда войско халдеев отошло от Иерусалима, отступая перед войском
+        фараона,
+      latin: Ergo cum recessisset exercitus Chaldaeorum ab Jerusalem, propter
+        exercitum Pharaonis,
+      ukr: І сталося, коли халдейське військо відступило від Єрусалиму перед
+        фараоновим військом,
+      nkjv: "And it happened, when the army of the Chaldeans left the siege of
+        Jerusalem for fear of Pharaoh's army, "
+      desnitsky: ""
+      mt: ‫   וְהָיָה בְּהֵעָלוֹת חֵיל הַכַּשְׂדִּים מֵעַל יְרוּשָׁלִָם מִפְּנֵי חֵיל
+        פַּרְעֹה׃ ס ‬
+      romana: In vremea cand ostirea Caldeilor s-a retras de la Ierusalim din pricina
+        ostirii egiptene,
+      francais: Pendant que l'armée des Chaldéens s'était éloignée de Jérusalem, à
+        cause de l'armée de Pharaon,
+      italian: Quando l'esercito dei Caldei si allontanò da Gerusalemme a causa
+        dell'esercito del faraone,
+      old_georgian: გამოვიდა იერემია იერუსალიმით წარსლვად ქუეყანად ბენიამენისა სყიდად
+        მუნით პურისა საშუალ ერისა.
+      portuguese: Ora, quando se retirou de Jerusalém o exército dos caldeus, por
+        causa do exército de Iearaó,
+      polish: "Tymczasem gdy wojsko chaldejskie odstąpiło od Jerozolimy z powodu
+        wojska\rfaraona,"
+      turkish: Firavunun ordusu yüzünden Babil ordusu Yeruşalim'den çekilince,
+      nrt: После того, как вавилонское войско отступило из-под Иерусалима из-за
+        приближения войск фараона,
+      Macarius: В то время, как войско халдейское отступило от Иерусалима, по случаю
+        известия о войске Фараоновом,
+      serbian: А кад отиде војска Халдејска од Јерусалима ради војске Фараонове,
+      bulgarian: И в това време, когато халдейската войска се оттегли от Иерусалим,
+        поради фараоновата войска,
+      Olesn: И было, когда отступило войско Халдеев от Иерусалима, по причине войска
+        фараонова,
+      deutsch: Als nun der Chaldäer Heer von Jerusalem war abgezogen um des Heeres
+        willen Pharaos,
+      ukr2: Тим часом, як халдейське військо відступило від Єрусалиму перед фараоновим
+        військом,
+      ukr3: Між тим, як військо Халдейське через наступ Фараонової військової потуги
+        одступило від Ерусалиму,
+      bel_syomukha: У той час, калі войска Халдэйскае адступіла ад Ерусаліма, з
+        прычыны войска фараонавага,
+      czech: Kdyz kaldejske vojsko odtahlo od Jeruzalema pred vojskem faraonovym,
+      spanish: Cuando se había retirado de Jerusalén el ejército caldeo por la venida
+        del ejército del faraón,
+      greek-lxx: καὶ ἐγένετο ὅτε ἀνέβη ἡ δύναμις τῶν Χαλδαίων ἀπὸ Ιερουσαλημ ἀπὸ
+        προσώπου τῆς δυνάμεως Φαραω
+      st_text: В то время, как войско Халдейское отступило от Иерусалима, по причине
+        войска фараонова,
+  - id: 16014
+    number: 12
+    bookId: 29
+    text: Иеремия пошел из Иерусалима, чтобы уйти в землю Вениаминову, скрываясь
+      оттуда среди народа.
+    chapter: 37
+    chapterId: 903
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: изыде иеремиа из Иерусалима ити в землю вениаминю, еже купити оттуду
+        посреде людий.
+      averincev: ""
+      ungerov: Вышел Иеремия из Иерусалима, чтобы идти в землю Вениаминову и купить
+        там среди народа.
+      csya_old: и3зы1де їеремjа и3з8 їеrли1ма и3ти2 въ зе1млю веніамjню, є4же купи1ти
+        tтyду посредЁ людjй.
+      sovr_rbo: Иеремия вышел из Иерусалима, чтобы идти в землю Вениаминову — бежал из
+        города вместе с народом.
+      latin: egressus est Jeremias de Jerusalem ut iret in terram Benjamin, et
+        divideret ibi possessionem in conspectu civium.
+      ukr: то вийшов Єремія з Єрусалиму, щоб піти до Веніяминового краю, і щоб
+        сховатися там серед народу.
+      nkjv: that Jeremiah went out of Jerusalem to go into the land of Benjamin to
+        claim his property there among the people.
+      desnitsky: ""
+      mt: ‫   וַיֵּצֵא יִרְמְיָהוּ מִירוּשָׁלִַם לָלֶכֶת אֶרֶץ בִּנְיָמִן לַחֲלִק
+        מִשָּׁם בְּתוֹךְ הָעָם׃ ‬
+      romana: Ieremia a plecat din Ierusalim, ca sa se duca in tara lui. Veniamin, sa
+        descurce niste treburi de mostenire cu cei de acolo.
+      francais: Jérémie voulut sortir de Jérusalem, pour aller dans le pays de
+        Benjamin et s'échapper du milieu du peuple.
+      italian: Geremia uscì da Gerusalemme per andare nella terra di Beniamino a
+        prendervi una parte di eredità tra i suoi parenti.
+      old_georgian: "და იქმნა იგი ბჭესა თანა ბენიამენისსა, და მუნ კაცი, რომლისა
+        დაივანის სარუია, ძემან სელემისმან, ძისა ანანიაჲსმან, და შეიპყრა იერემია
+        მეტყუელმან: ქალდეველთა მიმართ შენ ილტვი."
+      portuguese: saiu Jeremias de Jerusalém, a fim de ir à terra de Benjamim, para
+        receber ali a sua parte no meio do povo.
+      polish: "Jeremiasz chciał wyjść z Jerozolimy i udać się do ziemi Beniamina, by
+        tam\rdokonać podziału majątku wśród swoich."
+      turkish: ""
+      nrt: Иеремия тронулся в путь из Иерусалима в землю Вениамина, чтобы получить
+        свою долю имущества среди своих родственников.
+      Macarius: Иеремия, чтоб уйти в землю Вениаминову, пошел было из Иерусалима,
+        ускользая оттуда среди народа.
+      serbian: Изиде Јеремија из Јерусалима да би отишао у земљу Венијаминову и
+        уклонио се оданде међу народ.
+      bulgarian: Иеремия тръгна от Иерусалим, да иде в земята Вениаминова, като се
+        измъкваше оттам между народа.
+      Olesn: отправился и Иеремия из Иерусалима в путь в землю Вениамина,
+      deutsch: ging Jeremia aus Jerusalem und wollte ins Land Benjamin gehen, seinen
+        Acker in Besitz zu nehmen unter dem Volk.
+      ukr2: Єремія покинув Єрусалим і пішов у Веніяминову землю, щоб розділити там
+        спадщину у своїй родині.
+      ukr3: Покинув Еремія Ерусалим і подався в землю Беняминову, щоб там схоронитись
+        між людом.
+      bel_syomukha: Ерамія пайшоў зь Ерусаліма, каб сысьці ў зямлю Веньямінавую,
+        хаваючыся адтуль сярод народа.
+      czech: vysel Jeremjas z Jeruzalema a sel do zeme Benjaminovy, aby se tam ujal
+        sveho podilu uprostred lidu.
+      spanish: salía Jeremías de Jerusalén para ir a tierra de Benjamín a hacer una
+        partición en medio del pueblo;
+      greek-lxx: ἐξῆλθεν Ιερεμιας ἀπὸ Ιερουσαλημ τοῦ πορευθῆναι εἰς γῆν Βενιαμιν τοῦ
+        ἀγοράσαι ἐκεῖθεν ἐν μέσῳ τοῦ λαοῦ
+      st_text: Иеремия пошел из Иерусалима, чтобы уйти в землю Вениаминову, скрываясь
+        оттуда среди народа.
+  - id: 16015
+    number: 13
+    bookId: 29
+    text: "Но когда он был в воротах Вениаминовых, бывший там начальник стражи, по
+      имени Иреия, сын Селемии, сына Анании, задержал Иеремию пророка, сказав:
+      ты хочешь перебежать к Халдеям?"
+    chapter: 37
+    chapterId: 903
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Внегда же быти ему во вратех вениаминих, и (бысть) тамо человек, у негоже
+        обита саруиа сын селемиин, сына ананиина, и взя иеремию, глаголя: ко
+        халдеем ты бежиши."
+      averincev: ""
+      ungerov: 'И когда он был в воротах Вениаминовых, там (был) человек, у котораго
+        останавливался Саруия, сын Селемии, сына Анании, и он схватил Иеремию,
+        говоря: "ты к Халдеям бежишь".'
+      csya_old: "Внегдa же бы1ти є3мY во вратёхъ веніамjнихъ, и3 (бы1сть) тaмw
+        человёкъ, ў негHже њбитA саруjа сы1нъ селемjинъ, сы1на ґнaніина, и3 взS
+        їеремjю, глаго1лz: ко халде1ємъ ты2 бэжи1ши."
+      sovr_rbo: "Но когда Иеремия проходил через Вениаминовы ворота, находившийся там
+        начальник стражи по имени Ирия, сын Шелемии, сына Ханании, схватил
+        пророка Иеремию и сказал: «Ты хочешь перебежать к халдеям!»"
+      latin: "Cumque pervenisset ad portam Benjamin, erat ibi custos portae per vices,
+        nomine Jerias filius Selemiae filii Hananiae, et apprehendit Jeremiam
+        prophetam, dicens: Ad Chaldaeos profugis."
+      ukr: "Та коли він був біля Веніяминової брами, то був там начальник сторожі, а
+        ім'я йому Їрійя, син Шелемеї, сина Хананіїного. І схопив він пророка
+        Єремію, говорячи: Ти переходиш до халдеїв!"
+      nkjv: And when he was in the Gate of Benjamin, a captain of the guard was there
+        whose name was Irijah the son of Shelemiah, the son of Hananiah; and he
+        seized Jeremiah the prophet, saying, "You are defecting to the
+        Chaldeans!"
+      desnitsky: ""
+      mt: ‫   וַיְהִי־הוּא בְּשַׁעַר בִּנְיָמִן וְשָׁם בַּעַל פְּקִדֻת וּשְׁמוֹ
+        יִרְאִיָּיה בֶּן־שֶׁלֶמְיָה בֶּן־חֲנַנְיָה וַיִּתְפֹּשׂ אֶת־יִרְמְיָהוּ
+        הַנָּבִיא לֵאמֹר אֶל־הַכַּשְׂדִּים אַתָּה נֹפֵל׃ ‬
+      francais: "Lorsqu'il fut à la porte de Benjamin, le commandant de la garde,
+        nommé Jireija, fils de Schélémia, fils de Hanania, se trouvait là, et il
+        saisit Jérémie, le prophète, en disant: Tu passes aux Chaldéens!"
+      italian: 'Ma, quando fu alla porta di Beniamino, dove era un incaricato del
+        servizio di guardia chiamato Ieria figlio di Selemia, figlio di Anania,
+        costui arrestò il profeta Geremia dicendo: "Tu passi ai Caldei!".'
+      old_georgian: "და ჰრქუა იერემია: ცილ არს, არა ქალდეველთა მიმართ მივივლტი მე. და
+        არა ისმინა მისი, და შეიპყრა სარუიამან იერემია და შეიყვანა იგი მთავართა
+        მიმართ."
+      portuguese: "E quando ele estava à porta de Benjamim, achava-se ali um capitão
+        da guarda, cujo nome era Jurias, filho de\rSelemias, filho de Hananias,
+        o qual prendeu a Jeremias, o profeta, dizendo: Tu estás desertando para
+        os caldeus."
+      polish: "Gdy przybył do Bramy Beniamina, gdzie się znajdował dowódca straży
+        imieniem Jirijjasz, syn Szelemiasza, syna Chananiasza, ten zatrzymał
+        proroka\rJeremiasza, mówiąc: ”Przechodzisz do Chaldejczyków!”"
+      turkish: Peygamber Yeremya Benyamin topraklarındaki halkın arasında payına düşen
+        mirası almak üzere Yeruşalim'den gitmek istedi. Benyamin Kapısı'na
+        vardığında, Hananya oğlu Şelemya oğlu bekçibaşı Yiriya, «Sen
+        Kildaniler'in tarafına geçiyorsun!» diyerek onu tutukladı.
+      nrt: "Когда он добрался до вениаминовых ворот, начальник стражи, которого звали
+        Ирея, сын Шелемии, сына Ханании, задержал его и сказал: – Ты хочешь
+        перебежать к халдеям!"
+      Macarius: "Но когда он был у ворот Вениаминовых, тут был и начальник стражи,
+        именем Иреия, сын Шелемии, сына Анании; и взял он Иеремию пророка,
+        говоря: ты к халдеям хочешь передаться."
+      serbian: "Али кад бијаше на вратима Венијаминовијем, ондје бијаше старјешина
+        стражарски по имену Јереја, син Селемије сина Ананијина, те ухвати
+        Јеремију пророка говорећи: Ти бјежиш ка Халдејцима."
+      bulgarian: 'Но когато той беше във Вениаминови порти, тамошният началник на
+        стражата, на име Иреия, син на Селемия, Ананиев син, задържа пророка
+        Иеремия и рече: "ти искаш да бягаш при халдейци ли?"'
+      Olesn: "чтобы получить оттуда свою долю среди народа. Уже был он у ворот
+        Вениамина, но там начальник полиции — имя его Ирия, сын Шелемия, сына
+        Ханании, — взял Иеремию пророка, говоря: »Халдеям ты предаешься.«"
+      deutsch: "Und da er unter das Tor Benjamin kam, da war einer bestellt zum
+        Torhüter, mit Namen Jeria, der Sohn Selemjas, des Sohnes Hananjas; der
+        griff den Propheten Jeremia und sprach: Du willst zu den Chaldäern
+        fallen."
+      ukr2: "Як же дійшов до Веніяминової брами, то вартовий Ірія, син Шелестії, сина
+        Хананії, зупинив пророка Єремію, кажучи: «Ти хочеш перейти до халдеїв.»"
+      ukr3: "Як же дойшов до Беняминової брами, старший сторож, на імя Іреїя
+        Селемієнко, сина Аннїїного, з'упинив пророка Еремію, кажучи: Ти хочеш
+        перекинутись до Халдеїв?"
+      bel_syomukha: 'Але калі ён быў у браме Веньямінавай, начальнік варты, які там
+        быў, на імя Ірэія, сын Сэлэміі, сына Ананіі, затрымаў Ерамію прарока,
+        сказаўшы: "ты хочаш перабегчы да Халдэяў?".'
+      czech: 'Uz byl v Benjaminske brane, kde byl dohlizitel jmenem Jirijas, syn
+        Selemjase, syna Chananjasova; ten proroka Jeremjase chytil. Rekl: "Chces
+        prebehnout ke Kaldejcum!"'
+      spanish: "pero, al llegar a la puerta de Benjamín, el jefe de la guardia,
+        llamado Jerías, hijo de Selamías, hijo de Ananías, apresó a Jeremías,
+        diciendo: ¡Tú vas a pasarte a los caldeos!"
+      greek-lxx: καὶ ἐγένετο αὐτὸς ἐν πύλῃ Βενιαμιν καὶ ἐκεῖ ἄνθρωπος παρ᾿ ᾧ κατέλυεν
+        Σαρουιας υἱὸς Σελεμιου υἱοῦ Ανανιου καὶ συνέλαβεν τὸν Ιερεμιαν λέγων
+        πρὸς τοὺς Χαλδαίους σὺ φεύγεις
+      st_text: "Но когда он был в воротах Вениаминовых, бывший там начальник стражи,
+        по имени Иреия, сын Селемии, сына Анании, задержал Иеремию пророка,
+        сказав: ты хочешь перебежать к Халдеям?"
+  - id: 16016
+    number: 14
+    bookId: 29
+    text: "Иеремия сказал: это ложь; я не хочу перебежать к Халдеям. Но он не
+      послушал его, и взял Иреия Иеремию и привел его к князьям."
+    chapter: 37
+    chapterId: 903
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И рече иеремиа: лжа, не ко халдеем аз бегу. И не послуша его. И взя
+        саруиа иеремию и приведе его ко князем."
+      averincev: ""
+      ungerov: 'И сказал Иеремия: "ложь! я не бегу к Халдеям". И не послушал его, и
+        взял Саруия Иеремию, и привел его к князьям.'
+      csya_old: "И# рече2 їеремjа: лжA, не ко халде1ємъ ѓзъ бэгY. И# не послyша є3гw2.
+        И# взS саруjа їеремjю и3 приведе2 є3го2 ко кнzзє1мъ."
+      sovr_rbo: "Иеремия ответил: «Ложь! Я не бегу к халдеям». Но Ирия его не слушал.
+        Он схватил Иеремию и привел к вельможам."
+      latin: "Et respondit Jeremias: Falsum est, non fugio ad Chaldaeos. Et non
+        audivit eum, sed comprehendit Jerias Jeremiam, et adduxit eum ad
+        principes:"
+      ukr: "А Єремія відказав: Неправда, я не переходжу до халдеїв! Та не послухав той
+        його; і схопив Їрійя Єремію, і попровадив його до зверхників."
+      nkjv: Then Jeremiah said, "False! I am not defecting to the Chaldeans." But he
+        did not listen to him. So Irijah seized Jeremiah and brought him to the
+        princes.
+      desnitsky: ""
+      mt: ‫   וַיֹּאמֶר יִרְמְיָהוּ שֶׁקֶר אֵינֶנִּי נֹפֵל עַל־הַכַּשְׂדִּים וְלֹא
+        שָׁמַע אֵלָיו וַיִּתְפֹּשׂ יִרְאִיָּיה בְּיִרְמְיָהוּ וַיְבִאֵהוּ
+        אֶל־הַשָּׂרִים׃ ‬
+      romana: '"Aceasta este minciuna; eu nu vreau sa fug la Caldei", a zis Ieremia.
+        Dar fara sa-l asculte, Ireia l-a arestat pe Ieremia si l-a dus la
+        dregatori.'
+      francais: "Jérémie répondit: C'est faux! je ne passe pas aux Chaldéens. Mais
+        Jireija ne l'écouta point; il arrêta Jérémie, et le conduisit devant les
+        chefs."
+      italian: 'Geremia rispose: "È falso! Io non passo ai Caldei"; ma egli non gli
+        diede retta. E così Ieria prese Geremia e lo condusse dai capi.'
+      old_georgian: და განმწარდეს მთავარნი იერემიას ზედა, და გუემეს იგი, და მისცეს იგი
+        სახიდ საპყრობილისა კრულისა მცველად, სახიდ იონათან მწიგნველისა, რამეთუ
+        სახლი მისი შექმნეს საპყრობილედ, რამეთუ მოვიდა ერი სახიდ მღჳმისა და
+        ქერეთად.
+      portuguese: "E Jeremias disse: Isso é falso, não estou desertando para os
+        caldeus. Mas ele não lhe deu ouvidos, de modo\rque prendeu a Jeremias e
+        o levou aos príncipes."
+      polish: "Jeremiasz zaś odrzekł: ”Nieprawda! Nie przechodzę do Chaldejczyków”.
+        Ale\rten go nie słuchał. Jirijjasz pochwycił Jeremiasza i zaprowadził
+        przed przywódców."
+      turkish: Yeremya, «Yalan!» dedi, «Ben Kildaniler'in tarafına geçmiyorum.» Ama
+        Yiriya onu dinlemedi. Yeremya'yı tutuklayıp önderlere götürdü.
+      nrt: – Неправда! – сказал Иеремия. – Я не собираюсь перебегать к халдеям. Но
+        Ирея не стал его слушать; он взял Иеремию под стражу и отвел его к
+        приближенным царя.
+      Macarius: "И сказал Иеремия: неправда, я не хочу передаться к халдеям. Но он не
+        послушал его, и взял Иреия Иеремию, и привел его к князьям."
+      serbian: "А Јеремија рече: Није истина, не бјежим ка Халдејцима. Али га не хтје
+        слушати, него ухвати Јереја Јеремију и одведе ка кнезовима."
+      bulgarian: "Иеремия отговори: лъжа е това; аз не искам да бягам при халдейци. Но
+        Иреия го не послуша, хвана Иеремия и го заведе при князете."
+      Olesn: "И отвечал Иеремия: »ложь, не предаюсь я Халдеям;« но он Не слушал его. И
+        напал Ирия на Иеремию, и привел его к князьям."
+      deutsch: "Jeremia sprach: Das ist nicht wahr; ich will nicht zu den Chaldäern
+        fallen. Aber Jeria wollte ihn nicht hören, sondern griff Jeremia und
+        brachte ihn zu den Fürsten."
+      ukr2: "Єремія ж мовив: «Неправда! Не хочу я переходити до халдеїв.» Та Ірія не
+        зважав на те, взяв Єремію й привів до князів."
+      ukr3: "Еремія ж сказав: Се неправда, не хочу я перебігати до Халдеїв. Та сей не
+        вважав на те, і взяв Іреїя Еремію та й повів до князїв."
+      bel_syomukha: "Ерамія сказаў: гэта - хлусьня; я не хачу перабегчы да Халдэяў.
+        Але ён не паслухаў яго, і ўзяў Ірэія Ерамію і прывёў яго да князёў."
+      czech: 'Jeremjas odpovedel: "Mylis se, neprechazim ke Kaldejcum." Ale Jirijas
+        Jeremjase neposlouchal, chytil ho a dovedl k velmozum.'
+      spanish: "Jeremías respondió: Mentira, no voy a pasarme a los caldeos. Pero no
+        escuchó Jerías a Jeremías, y, arrestándole, le condujo a los jefes,"
+      greek-lxx: καὶ εἶπεν ψεῦδος οὐκ εἰς τοὺς Χαλδαίους ἐγὼ φεύγω καὶ οὐκ ἤκουσεν
+        αὐτοῦ καὶ συνέλαβεν Σαρουιας τὸν Ιερεμιαν καὶ εἰσήγαγεν αὐτὸν πρὸς τοὺς
+        ἄρχοντας
+      st_text: "Иеремия сказал: это ложь; я не хочу перебежать к Халдеям. Но он не
+        послушал его, и взял Иреия Иеремию и привел его к князьям."
+  - id: 16017
+    number: 15
+    bookId: 29
+    text: Князья озлобились на Иеремию и били его, и заключили его в темницу, в дом
+      Ионафана писца, потому что сделали его темницею.
+    chapter: 37
+    chapterId: 903
+    parallels:
+      - verseId: 15527
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 20
+        short: Иер:20:2
+      - verseId: 28770
+        bookId: 30
+        bookCode: plac-ieremii
+        chapter: 3
+        short: Плач:3:53
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И разгневашася князи на иеремию и биша его, и послаша его в дом ионафана
+        книгочия, яко той сотвориша храминою темничною.
+      averincev: ""
+      ungerov: И разгневались князья на Иеремию, и били его, и послали его в дом
+        Ионафана писца, ибо его сделали темничным домом.
+      csya_old: И# разгнёвашасz кн‰зи на їеремjю и3 би1ша є3го2, и3 послaша є3го2 въ
+        до1мъ їwнаfaна книго1чіz, ћкw то1й сотвори1ша хрaминою темни1чною.
+      sovr_rbo: Вельможи были разгневаны на Иеремию. Они избили его и заключили под
+        стражу, в дом писца Ионафана (этот дом сделали тюрьмой).
+      latin: "quam ob rem irati principes contra Jeremiam, caesum eum miserunt in
+        carcerem, qui erat in domo Jonathan scribae: ipse enim praepositus erat
+        super carcerem."
+      ukr: І розгнівалися зверхники на Єремію, і побили його, та й віддали його до
+        в'язниці в домі писаря Єгонатана, бо його зробили за в'язничний дім.
+      nkjv: Therefore the princes were angry with Jeremiah, and they struck him and
+        put him in prison in the house of Jonathan the scribe. For they had made
+        that the prison.
+      desnitsky: ""
+      mt: ‫   וַיִּקְצְפוּ הַשָּׂרִים עַל־יִרְמְיָהוּ וְהִכּוּ אֹתוֹ וְנָתְנוּ אוֹתוֹ
+        בֵּית הָאֵסוּר בֵּית יְהוֹנָתָן הַסֹּפֵר כִּי־אֹתוֹ עָשׂוּ לְבֵית
+        הַכֶּלֶא׃ ‬
+      romana: Si s-au maniat dregatorii pe Ieremia, l-au batut si l-au inchis in
+        temnita, in casa lui Ionatan scriitorul, pentru ca o facusera temnita.
+      francais: Les chefs, irrités contre Jérémie, le frappèrent, et le mirent en
+        prison dans la maison de Jonathan, le secrétaire; car ils en avaient
+        fait une prison.
+      italian: I capi erano sdegnati contro Geremia, lo percossero e lo gettarono in
+        prigione nella casa di Giònata lo scriba, che avevano trasformato in un
+        carcere.
+      old_georgian: და შევიდა იერემია სახიდ მღჳმისა და შესაწყდობელად, და დაჯდა მუნ
+        დღეთა მრავალთა იერემია.
+      portuguese: "E os príncipes ficaram muito irados contra Jeremias, de sorte que o
+        açoitaram e o meteram no cárcere, na casa\rde Jônatas, o escrivão,
+        porquanto a tinham transformado em cárcere."
+      polish: Przywódcy się rozgniewali na Jeremiasza i bili go, następnie wtrącili do
+        więzienia w domu Jonatana, kanclerza, który zamienili na więzienie.
+      turkish: Yeremya'ya öfkelenen önderler onu dövdürtüp cezaevine çevirdikleri
+        Yazman Yonatan'ın evine kapattılar.
+      nrt: Они разгневались на Иеремию и велели его избить, и посадить под замок в
+        доме писаря Ионафана, в котором они устроили темницу.
+      Macarius: И рассердились князья на Иеремию, и били его, и отдали его в дом
+        темничный, в дом Ионафана, государственного тайнописца, потому что
+        сделали его домом темничным.
+      serbian: А кнезови се разгњевише на Јеремију, и избише га, и метнуше га у
+        тамницу у кући Јонатана писара, јер од ње бијаху начинили тамницу.
+      bulgarian: Князете се разгневиха на Иеремия, биха го и го затвориха в тъмница, в
+        къщата на писаря Ионатана, защото я бяха направили тъмница.
+      Olesn: Князья были возбуждены против Иеремии, избили его, и отдали его в дом
+        узников, в дом Ионафана писца, обращенный в темницу.
+      deutsch: Und die Fürsten wurden zornig über Jeremia und ließen ihn schlagen und
+        warfen ihn ins Gefängnis im Hause Jonathans, des Schreibers; den setzten
+        sie zum Kerkermeister.
+      ukr2: Князі ж, люті на Єремію, заходились його бити ще й посадили в тюрму, в
+        будинкові писаря Йонатана, з якого зроблено тюрму.
+      ukr3: І запалали князї гнївом на Еремію, побили його та й посадили в темницю, в
+        будинку в писаря Йонатана, що його обернено на темницю.
+      bel_syomukha: Князі раззлаваліся на Ерамію і білі яго, і ўвязьнілі яго ў
+        цямніцу, у дом Ёнатана пісца, бо зрабілі яго цямніцаю.
+      czech: Velmozove se na Jeremjase rozlitili, zbili ho a dali ho do vezeni v dome
+        pisare Jonatana, ktery promenili v zalar.
+      spanish: que, airados contra Jeremías, le hicieron azotar y encerrar en la
+        cárcel que había en la casa de Jonatán, escriba, de la cual habían hecho
+        prisión.
+      greek-lxx: καὶ ἐπικράνθησαν οἱ ἄρχοντες ἐπὶ Ιερεμιαν καὶ ἐπάταξαν αὐτὸν καὶ
+        ἀπέστειλαν αὐτὸν εἰς τὴν οἰκίαν Ιωναθαν τοῦ γραμματέως ὅτι ταύτην
+        ἐποίησαν εἰς οἰκίαν φυλακῆς
+      st_text: Князья озлобились на Иеремию и били его, и заключили его в темницу, в
+        дом Ионафана писца, потому что сделали его темницею.
+  - id: 16018
+    number: 16
+    bookId: 29
+    text: Когда Иеремия вошел в темницу и подвал, и пробыл там Иеремия много дней, -
+    chapter: 37
+    chapterId: 903
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И прииде иеремиа в дом рва и в херет, и седе ту дни многи.
+      averincev: ""
+      ungerov: И вошел Иеремия в ров и темницу, и сидел там многие дни.
+      csya_old: И# пріи1де їеремjа въ до1мъ рвA и3 въ хере1тъ ўзи1лище, и3 сёде тY
+        дни6 мнHги.
+      sovr_rbo: Так Иеремия оказался в подземной темнице и просидел там много дней.
+      latin: "Itaque ingressus est Jeremias in domum laci et in ergastulum: et sedit
+        ibi Jeremias diebus multis."
+      ukr: І зійшов Єремія до темничної ями та до підвалу, і сидів там Єремія багато
+        днів...
+      nkjv: When Jeremiah entered the dungeon and the cells, and Jeremiah had remained
+        there many days,
+      desnitsky: ""
+      mt: ‫   כִּי בָא יִרְמְיָהוּ אֶל־בֵּית הַבּוֹר וְאֶל־הַחֲנֻיוֹת וַיֵּשֶׁב־שָׁם
+        יִרְמְיָהוּ יָמִים רַבִּים׃ פ ‬
+      romana: Si dupa ce a intrat Ieremia in temnita, in beci, si a stat acolo Ieremia
+        zile multe,
+      francais: Ce fut ainsi que Jérémie entra dans la prison et dans les cachots, où
+        il resta longtemps.
+      italian: Geremia entrò in una cisterna sotterranea a volta e rimase là molti
+        giorni.
+      old_georgian: "და მიავლინა მეფემან სედეკია, და მოუწოდა მას, და გამოჰკითხა მას
+        მეფემან სახლსა შინა თჳსსა იდუმალ, და ჰრქუა მას: უკუეთუ არს სიტყუაჲ
+        უფლისა მიერ? და მან ჰრქუა: არს. და თქუა: ჴელთა მეფისა ბაბილოვნისათა
+        მიეცე."
+      portuguese: Tendo Jeremias entrado nas celas do calabouço, e havendo ficado ali
+        muitos dias,
+      polish: "Jeremiasz więc dostał się do sklepionego lochu i pozostawał tam przez
+        dłuższy\rczas."
+      turkish: Böylece bodrumda bir hücreye kapatılan Yeremya uzun süre orada kaldı.
+      nrt: Иеремию бросили в подземную темницу, где он просидел много дней.
+      Macarius: Когда Иеремия вошел в оный дом с погребом и подземными покоями, и
+        сидел там Иеремия много дней;
+      serbian: А кад Јеремија уљезе у јаму, у тамницу, оста ондје дуго времена.
+      bulgarian: Когато Иеремия влезе в тъмницата и в избата и там престоя много дни, -
+      Olesn: Когда вступил Иеремия в отделение подземное и в застенок,
+      deutsch: Also ging Jeremia in die Grube und den Kerker und lag lange Zeit
+        daselbst.
+      ukr2: Так Єремія зійшов у землище під склепіння та й відсидів там багато днів.
+      ukr3: Еремія зступив у темничну яму й пересидїв там багато днїв.
+      bel_syomukha: Калі Ерамія ўвайшоў у цямніцу і ў склеп, і прабыў там Ерамія шмат дзён,
+      czech: Jeremjas se dostal do sklepeni, totiz do kobek. Pobyl si tam mnoho dni.
+      spanish: Y entró Jeremías y fue metido en una cisterna abovedada, y estuvo allí
+        mucho tiempo.
+      greek-lxx: καὶ ἦλθεν Ιερεμιας εἰς οἰκίαν τοῦ λάκκου καὶ εἰς τὴν χερεθ καὶ
+        ἐκάθισεν ἐκεῖ ἡμέρας πολλάς
+      st_text: Когда Иеремия вошел в темницу и подвал, и пробыл там Иеремия много
+        дней, -
+  - id: 16019
+    number: 17
+    bookId: 29
+    text: "царь Седекия послал и взял его. И спрашивал его царь в доме своем тайно и
+      сказал: нет ли слова от Господа? Иеремия сказал: есть; и сказал: ты будешь
+      предан в руки царя Вавилонского."
+    chapter: 37
+    chapterId: 903
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И посла седекиа царь и призва его, и вопрошаше его царь отай, аще есть
+        слово от Господа? И рече ему иеремиа: есть. И рече: в руце царя и
+        вавилонска предан будеши."
+      averincev: ""
+      ungerov: "И послал царь Седекия и призвал его, и спрашивал его царь тайно:
+        нет-ли слова от Господа? и сказал ему Иеремия: есть, и сказал: в руки
+        царя Вавилонскаго предан будешь."
+      csya_old: "И# послA седекjа цaрь и3 призвA є3го2, и3 вопрошaше є3го2 цaрь њ1тай,
+        ѓще є4сть сло1во t гDа; И# рече2 є3мY їеремjа: є4сть. И# рече2: въ рyцэ
+        царS вавmлHнска пре1данъ бyдеши."
+      sovr_rbo: "Царь Седекия послал за Иеремией. Того привели во дворец, и царь тайно
+        спросил его: «Было ли слово от Господа?» Иеремия ответил: «Было!» И
+        сказал Иеремия: «Ты попадешь в руки царя вавилонского»."
+      latin: "Mittens autem Sedecias rex, tulit eum: et interrogavit eum in domo sua
+        abscondite, et dixit: Putasne est sermo a Domino? Et dixit Jeremias:
+        Est: et ait: In manus regis Babylonis traderis."
+      ukr: "І послав цар Седекія, і взяв його. І спитав його цар у своїм домі таємно й
+        сказав: Чи є слово від Господа? І Єремія відказав: Є. І далі сказав: Ти
+        будеш відданий в руку вавилонського царя..."
+      nkjv: then Zedekiah the king sent and took him out. The king asked him secretly
+        in his house, and said, "Is there any word from the Lord?" And Jeremiah
+        said, "There is." Then he said, "You shall be delivered into the hand of
+        the king of Babylon!"
+      desnitsky: ""
+      mt: ‫   וַיִּשְׁלַח הַמֶּלֶךְ צִדְקִיָּהוּ וַיִּקָּחֵהוּ וַיִּשְׁאָלֵהוּ
+        הַמֶּלֶךְ בְּבֵיתוֹ בַּסֵּתֶר וַיֹּאמֶר הֲיֵשׁ דָּבָר מֵאֵת יְהוָה
+        וַיֹּאמֶר יִרְמְיָהוּ יֵשׁ וַיֹּאמֶר בְּיַד מֶלֶךְ־בָּבֶל תִּנָּתֵן׃ ס ‬
+      romana: 'Regele Sedechia a trimis si i-a adus. Si l-a intrebat regele in casa sa
+        in taina si i-a zis: "N-ai oare cuvant de la Domnul?" Iar Ieremia a zis:
+        "Ba am!" Si a adaugat: "Tu vei fi dat in mainile regelui Babilonului!"'
+      francais: "Le roi Sédécias l'envoya chercher, et l'interrogea secrètement dans
+        sa maison. Il dit: Y a-t-il une parole de la part de l'Éternel? Jérémie
+        répondit: Oui. Et il ajouta: Tu seras livré entre les mains du roi de
+        Babylone."
+      italian: "Il re Sedecìa mandò a prenderlo e lo interrogò in casa sua, di
+        nascosto: \"C'è qualche parola da parte del Signore?\". Geremia rispose:
+        \"Sì\" e precisò: \"Tu sarai dato in mano al re di Babilonia\"."
+      old_georgian: "და ჰრქუა იერემია მეფესა სედეკიას: რაჲ გმძლავრე შენ და ყრმათა
+        შენთა და ერსა ამას, რამეთუ თქუენ მიმეცით მე სახიდ საპყრობილისა?"
+      portuguese: "o rei Zedequias mandou soltá-lo e lhe perguntou em sua casa, em
+        segredo: Há alguma palavra da parte do\rSenhor? Respondeu Jeremias: Há.
+        E acrescentou: Na mão do rei de Babilônia serás entregue."
+      polish: "Następnie posłał król Sedecjasz, by go przyprowadzono. Król
+        wypytywał\rsię go potajemnie w swoim domu, mówiąc: ”Czy masz słowo od
+        Pana?” Jeremiasz zaś odrzekł: ”Mam”. I powiedział: ”Będziesz wydany w
+        ręce króla\rbabilońskiego”."
+      turkish: "Sonra Kral Sidkiya Yeremya'yı sarayına getirtti. Orada kendisine
+        gizlice, «RAB'den bir söz var mı?» diye sordu.\r«Evet» diye yanıtladı
+        Yeremya, «Babil Kralı'nın eline verileceksin.»"
+      nrt: "Потом царь Цедекия послал за ним, его привели, и царь тайно расспрашивал
+        его у себя во дворце: – Есть ли какое слово от Господа? – Есть, –
+        ответил Иеремия. – Ты будешь отдан в руки царя Вавилона."
+      Macarius: "Тогда царь Седекия послал, и взял его, и спрашивал его царь в доме
+        своем тайно, и сказал: «нет ли от Иеговы слова?» Иеремия сказал: есть, и
+        сказал: ты будешь предан в руку царя вавилонского."
+      serbian: "Потом посла цар Седекија, те га извади, и упита га у својој кући
+        насамо, и рече му говорећи: Има ли ријеч од Господа? А Јеремија рече:
+        Има. Још рече: Бићеш предан у руке цару Вавилонскому."
+      bulgarian: 'цар Седекия прати и го взе. И царят го питаше в дома си тайно,
+        думайки: "няма ли слово от Господа?" Иеремия отговори: "има", и прибави:
+        "ще бъдеш предаден в ръцете на вавилонския цар".'
+      Olesn: "и прожил там Иеремия дни многие, послал царь Седекия и взял его, и
+        спросил его царь в доме своем секретно, и сказал: »есть ли слово от
+        Иеговы?« И отвечал Иеремия: »есть«."
+      deutsch: "Und Zedekia, der König, sandte hin und ließ ihn holen und fragte ihn
+        heimlich in seinem Hause und sprach: Ist auch ein Wort vom Herrn
+        vorhanden? Jeremia sprach: Ja; denn du wirst dem König zu Babel in die
+        Hände gegeben werden."
+      ukr2: "Утім цар Седекія послав його взяти звідти. І потай від усіх спитав його
+        цар у своїм палаці: «Чи нема якогось слова від Господа?» Єремія ж
+        відказав: «Є, - і додав: Ти потрапиш у руки вавилонському цареві.»"
+      ukr3: "Царь же Седекія послав узяти його звідти. І спитав його царь у своїх
+        палатах потай усїх, і промовив: Чи нема якого слова од Господа? Еремія
+        відказав: Є, і додав: Подасть він тебе на поталу цареві Вавилонському."
+      bel_syomukha: 'цар Сэдэкія паслаў і ўзяў яго. І пытаўся ў яго цар у доме сваім
+        таемна і сказаў: "ці няма слова ад Госпада?", Ерамія сказаў: "ёсьць", і
+        сказаў: "ты будзеш аддадзены ў рукі цара Вавілонскага".'
+      czech: 'Pak pro nej kral Sidkijas poslal, prijal ho tajne ve svem dome a zeptal
+        se ho: "Je nejake slovo od Hospodina?" Jeremjas odpovedel: "Je," a
+        pokracoval: "budes vydan do rukou babylonskeho krale."'
+      spanish: "Mandó a buscarle el rey Sedecías, y le preguntó en secreto en el
+        palacio: ¿Hay palabra de Yavé?"
+      greek-lxx: καὶ ἀπέστειλεν Σεδεκιας καὶ ἐκάλεσεν αὐτόν καὶ ἠρώτα αὐτὸν ὁ βασιλεὺς
+        κρυφαίως εἰπεῖν εἰ ἔστιν λόγος παρὰ Κυρίου καὶ εἶπεν ἔστιν εἰς χεῖρας
+        βασιλέως Βαβυλῶνος παραδοθήσῃ
+      st_text: "царь Седекия послал и взял его. И спрашивал его царь в доме своем
+        тайно и сказал: нет ли слова от Господа? Иеремия сказал: есть; и сказал:
+        ты будешь предан в руки царя Вавилонского."
+  - id: 16020
+    number: 18
+    bookId: 29
+    text: "И сказал Иеремия царю Седекии: чем я согрешил перед тобою и перед слугами
+      твоими, и перед народом сим, что вы посадили меня в темницу?"
+    chapter: 37
+    chapterId: 903
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И рече иеремиа царю: чим преобидех тя и отроки твоя и люди сия, яко ты
+        вдаеши мя в дом темничный?"
+      averincev: ""
+      ungerov: "И сказал Иеремия царю: чем я обидел тебя, и слуг твоих, и народ твой,
+        что ты посадил меня в дом темничный?"
+      csya_old: "И# рече2 їеремjа царю2: чи1мъ преwби1дэхъ тS и3 џтроки тво‰ и3 лю1ди
+        сі‰, ћкw ты2 вдае1ши мS въ до1мъ темни1чный;"
+      sovr_rbo: "Иеремия также сказал царю Седекии: «Чем я виноват перед тобою, перед
+        твоими слугами и всем этим народом, за что вы бросили меня в тюрьму?"
+      latin: "Et dixit Jeremias ad regem Sedeciam: Quid peccavi tibi, et servis tuis,
+        et populo tuo, quia misisti me in domum carceris?"
+      ukr: "І сказав Єремія до царя Седекії: Що я згрішив тобі й рабам твоїм та цьому
+        народові, що ви віддали мене до в'язниці?"
+      nkjv: Moreover Jeremiah said to King Zedekiah, "What offense have I committed
+        against you, against your servants, or against this people, that you
+        have put me in prison?
+      desnitsky: ""
+      mt: ‫   וַיֹּאמֶר יִרְמְיָהוּ אֶל־הַמֶּלֶךְ צִדְקִיָּהוּ מֶה חָטָאתִי לְךָ
+        וְלַעֲבָדֶיךָ וְלָעָם הַזֶּה כִּי־נְתַתֶּם אוֹתִי אֶל־בֵּית הַכֶּלֶא׃ ‬
+      romana: 'Si a mai zis Ieremia catre regele Sedechia: "Cu ce am gresit eu
+        inaintea ta, inaintea slujitorilor tai si inaintea poporului acestuia,
+        de m-ati bagat in temnita?'
+      francais: "Jérémie dit encore au roi Sédécias: En quoi ai-je péché contre toi,
+        contre tes serviteurs, et contre ce peuple, pour que vous m'ayez mis en
+        prison?"
+      italian: 'Geremia poi disse al re Sedecìa: "Quale colpa ho commesso contro di
+        te, i tuoi ministri e contro questo popolo, perché mi abbiate messo in
+        prigione?'
+      old_georgian: "და სადა არიან წინაწარმეტყუელნი თქუენნი, რომელნი
+        გიწინაწარმეტყუელებდეს თქუენ მეტყუელნი: ვითარმედ არა მოვიდეს მეფე
+        ბაბილონისაჲ ქუეყანასა ამას ზედა?"
+      portuguese: "Disse mais Jeremias ao rei Zedequias: Em que tenho pecado contra
+        ti, e contra os teus servos, e contra este\rpovo, para que me pusésseis
+        na prisão?"
+      polish: "I rzekł Jeremiasz do króla Sedecjasza: ”Co zawiniłem tobie, twoim
+        dworzanom i temu ludowi, że wtrąciliście mnie do więzienia?"
+      turkish: "Sonra Kral Sidkiya'ya şöyle dedi: «Sana, görevlilerine ve bu halka
+        karşı ne günah işledim ki beni cezaevine kapattınız?"
+      nrt: "Иеремия сказал царю Цедекии: – Какое преступление я совершил против тебя,
+        твоих приближенных или этого народа, что вы бросили меня в темницу?"
+      Macarius: "И сказал Иеремия царю Седекии: чем я согрешил перед тобою, и пред
+        служащими при тебе, и пред народом сим, что вы отдали меня в дом
+        темничный?"
+      serbian: "Потом рече Јеремија цару Седекији: Шта сам ти скривио или слугама
+        твојим или тому народу, те ме метнусте у тамницу?"
+      bulgarian: 'Тогава Иеремия каза на цар Седекия: "какво съгреших пред тебе, пред
+        слугите ти и пред тоя народ, та ме хвърлихте в тъмница?'
+      Olesn: "И присовокупил: »рукою царя вавилонскаго ты будешь взят«. — И сказал
+        Иеремия царю Седекии: чем я согрешил пред тобою, или пред служащими
+        тебе, или пред народом этим, что вы отдали меня в дом заключения?"
+      deutsch: "Und Jeremia sprach zum König Zedekia: Was habe ich wider dich, wider
+        deine Knechte und wider dein Volk gesündigt, daß sie mich in den Kerker
+        geworfen haben?"
+      ukr2: "І сказав іще Єремія цареві Седекії: «Чим провинивсь я перед тобою, перед
+        твоїми слугами й перед оцим народом, що ви мене в тюрму вкинули?"
+      ukr3: "І сказав іще Еремія цареві: Чим провинив я тобі й слугам твоїм і сьому
+        людові, що ви мене засадили в тюрму?"
+      bel_syomukha: 'І сказаў Ерамія цару Сэдэкіі: "чым я зграшыў перад табою і перад
+        слугамі тваімі, і перад народам гэтым, што вы пасадзілі мяне ў цямніцу?'
+      czech: 'Potom se Jeremjas krale Sidkijase tazal: "Cim jsem proti tobe a tvym
+        sluzebnikum a proti tomuto lidu zhresil, ze jste me dali do zalare?'
+      spanish: "Sí, la hay, contestó Jeremías: Serás entregado en manos del rey de
+        Babilonia. Y dijo Jeremías al rey Sedecías: ¿Qué pecado he cometido yo
+        contra ti, contra tus cortesanos y contra tu pueblo, para que me hayáis
+        metido en la cárcel?"
+      greek-lxx: καὶ εἶπεν Ιερεμιας τῷ βασιλεῖ τί ἠδίκησά σε καὶ τοὺς παῖδάς σου καὶ
+        τὸν λαὸν τοῦτον ὅτι σὺ δίδως με εἰς οἰκίαν φυλακῆς
+      st_text: "И сказал Иеремия царю Седекии: чем я согрешил перед тобою и перед
+        слугами твоими, и перед народом сим, что вы посадили меня в темницу?"
+  - id: 16021
+    number: 19
+    bookId: 29
+    text: 'и где ваши пророки, которые пророчествовали вам, говоря: "царь
+      Вавилонский не пойдет против вас и против земли сей"?'
+    chapter: 37
+    chapterId: 903
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и где суть пророцы ваши прорицавшии вам, глаголюще, яко не приидет царь
+        вавилонский на вас и на землю сию?
+      averincev: ""
+      ungerov: И где пророки ваши, прорицавшие вам и говорившие, что не придет царь
+        Вавилонский на вас и на землю сию?
+      csya_old: и3 гдЁ сyть проро1цы вaши прорицaвшіи вaмъ, глаго1люще, ћкw не
+        пріи1детъ цaрь вавmлHнскій на вaсъ и3 на зе1млю сію2;
+      sovr_rbo: "Где же ваши пророки, которые вам вещали: „Не придет к вам царь
+        Вавилона, на землю эту!”?"
+      latin: "Ubi sunt prophetae vestri, qui prophetabant vobis, et dicebant: Non
+        veniet rex Babylonis super vos, et super terram hanc?"
+      ukr: "І де ваші пророки, що вам пророкували, говорячи: Цар вавилонський не
+        прийде на вас та на Край цей?"
+      nkjv: "Where now are your prophets who prophesied to you, saying, 'The king of
+        Babylon will not come against you or against this land'? "
+      desnitsky: ""
+      mt: ‫   *ואיו **וְאַיֵּה נְבִיאֵיכֶם אֲשֶׁר־נִבְּאוּ לָכֶם לֵאמֹר לֹא־יָבֹא
+        מֶלֶךְ־בָּבֶל עֲלֵיכֶם וְעַל הָאָרֶץ הַזֹּאת׃ ‬
+      romana: 'Si unde sunt proorocii vostri care v-au proorocit si au zis: "Regele
+        Babilonului nu va veni impotriva voastra si impotriva pamantului
+        acestuia?"'
+      francais: "Et où sont vos prophètes qui vous prophétisaient, en disant: Le roi
+        de Babylone ne viendra pas contre vous, ni contre ce pays?"
+      italian: "E dove sono i vostri profeti, che vi predicevano: Il re di Babilonia
+        non verrà contro di voi e contro questo paese?"
+      old_georgian: და აწ უფალო ჩემო მეფე! დავარდინ წყალობა ჩემი წინაშე პირსა შენსა და
+        რად მიმაქცევ მე სახიდ იონათან მწიგნველისა? და არა მოვკუდე მუნ.
+      portuguese: "Onde estão agora os vossos profetas que vos profetizavam, dizendo:
+        O rei de Babilônia não virá contra vós nem\rcontra esta terra?"
+      polish: "Gdzie są wasi prorocy, którzy przepowiadali wam: ”Nie nadejdzie król
+        babiloński przeciw wam i przeciw temu krajowi”?"
+      turkish: "`Babil Kralı sana da bu ülkeye de saldırmayacak' diyen peygamberlerin
+        hani nerede?"
+      nrt: "Где ваши пророки, которые пророчествовали вам: «Царь Вавилона не пойдет
+        против вас и против этой страны»."
+      Macarius: 'И где ваши пророки, которые пророчествовали вам, говоря: "не придет
+        на вас царь вавилонский, и на землю сию?'
+      serbian: "И гдје су ваши пророци који вам пророкују говорећи: Неће доћи цар
+        Вавилонски на вас ни на ову земљу?"
+      bulgarian: 'и де са вашите пророци, които ви пророкуваха, думайки: "вавилонският
+        цар не ще дойде против вас и против тая земя?"'
+      Olesn: "И где пророки ваши, которые пророчествовали вам говоря: »не придет царь
+        вавилонский на нас и на землю сию.«"
+      deutsch: "Wo sind nun eure Propheten, die euch weissagten und sprachen: Der
+        König zu Babel wird nicht über euch noch über dies Land kommen?"
+      ukr2: "Де ж тепер ваші пророки, що вам пророкували: цар вавилонський, мовляв, не
+        прийде на вас і на цю країну?"
+      ukr3: "Та й де тепер ваші пророки, що вам пророкували та договорювали: Царь
+        Вавилонський не прийде на вас і на сю країну?"
+      bel_syomukha: 'і дзе вашыя прарокі, якія прарочылі вам, кажучы: "цар Вавілонскі
+        ня пойдзе супроць вас і супроць зямлі гэтай"?'
+      czech: "Kde jsou vasi proroci, kteri vam prorokovali: ‚Kral babylonsky
+        nepritahne proti vam ani proti teto zemi'?"
+      spanish: "¿Dónde están ahora vuestros profetas, que os profetizaban diciendo: No
+        vendrá el rey de Babilonia contra vosotros y contra esta tierra?"
+      greek-lxx: καὶ ποῦ εἰσιν οἱ προφῆται ὑμῶν οἱ προφητεύσαντες ὑμῖν λέγοντες ὅτι οὐ
+        μὴ ἔλθῃ βασιλεὺς Βαβυλῶνος ἐπὶ τὴν γῆν ταύτην
+      st_text: 'и где ваши пророки, которые пророчествовали вам, говоря: "царь
+        Вавилонский не пойдет против вас и против земли сей"?'
+  - id: 16022
+    number: 20
+    bookId: 29
+    text: И ныне послушай, государь мой царь, да падет прошение мое пред лице твое;
+      не возвращай меня в дом Ионафана писца, чтобы мне не умереть там.
+    chapter: 37
+    chapterId: 903
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "ныне же послушай, молютися, господи мой, царю, да падет моление мое пред
+        лицем твоим: и не посылай мя паки в дом ионафана книгочия, да не умру
+        тамо."
+      averincev: ""
+      ungerov: "И ныне послушай, прошу тебя, господин мой, царь, да падет прошение мое
+        пред лице твое: не отправляй меня снова в дом Ионафана писца, чтобы мне
+        не умереть там,"
+      csya_old: "нн7э же послyшай, молю1тисz, го1споди мо1й, царю2, да паде1тъ
+        моле1ніе мое2 пред8 лице1мъ твои1мъ: и3 не посылaй мS пaки въ до1мъ
+        їwнаfaна книго1чіz, да не ўмрY тaмw."
+      sovr_rbo: О владыка мой, царь, послушай меня, мольбу мою не отвергни! Не
+        отправляй меня назад, в дом писца Ионафана, ведь я умру там».
+      latin: "Nunc ergo audi, obsecro, domine mi rex: valeat deprecatio mea in
+        conspectu tuo, et ne me remittas in domum Jonathan scribae, ne moriar
+        ibi."
+      ukr: "А тепер послухай, пане мій царю: хай упаде моє благання перед обличчя
+        твоє, і не вертай мене до дому писаря Єгонатана, щоб не помер я там!..."
+      nkjv: Therefore please hear now, O my lord the king. Please, let my petition be
+        accepted before you, and do not make me return to the house of Jonathan
+        the scribe, lest I die there."
+      desnitsky: ""
+      mt: ‫   וְעַתָּה שְׁמַע־נָא אֲדֹנִי הַמֶּלֶךְ תִּפָּל־נָא תְחִנָּתִי לְפָנֶיךָ
+        וְאַל־תְּשִׁבֵנִי בֵּית יְהוֹנָתָן הַסֹּפֵר וְלֹא אָמוּת שָׁם׃ ‬
+      romana: Si acum asculta, domnul meu rege, sa aiba trecere cererea mea inaintea
+        ta si sa nu ma mai intorc in casa lui Ionatan scriitorul, ca sa nu mor
+        acolo".
+      francais: Maintenant, écoute, je te prie, ô roi, mon seigneur, et que mes
+        supplications soient favorablement reçues devant toi! Ne me renvoie pas
+        dans la maison de Jonathan, le secrétaire, de peur que je n'y meure!
+      italian: Ora, ascolta, re mio signore; la mia supplica ti giunga gradita. Non
+        rimandarmi nella casa di Giònata lo scriba, perché io non vi muoia".
+      old_georgian: და მიუწესა მეფემან სედეკია და შეაგდეს იგი სახლსა საპყრობილისასა,
+        და მისცემდეს მას პურსა ერთსა დღივ გარეშე, რომელსა განსცემდეს, ვიდრე არა
+        მოაკლდეს პურნი ქალაქისაგან. და დაჯდა იერემია ეზოსა შინა საპყრობილისასა.
+      portuguese: "Ora, pois, ouve agora, ó rei, meu senhor: seja aceita agora a minha
+        súplica diante de ti; não me faças tornar à\rcasa de Jônatas, o escriba,
+        para que eu não venha a morrer ali."
+      polish: Teraz zaś posłuchaj, proszę, panie mój, królu! Niech błaganie moje cię
+        poruszy! Nie odsyłaj mnie do domu Jonatana, kanclerza, bym tam nie
+        umarł”.
+      turkish: Şimdi lütfen beni dinle, ey efendim kral! Lütfen dileğimi kabul et.
+        Beni Yazman Yonatan'ın evine geri gönderme. Orada ölmek istemiyorum.»
+      nrt: "Но сейчас, умоляю, выслушай, господин мой царь. Позволь обратиться с
+        просьбой к тебе: не отсылай меня назад в дом писаря Ионафана, иначе я
+        умру там."
+      Macarius: И ныне послушай, государь мой царь, да падет прошение мое пред лице
+        твое; не возвращай меня в дом Ионафана тайнописца, чтоб мне не умереть
+        там.
+      serbian: Сада, дакле, послушај, царе господару мој, пусти преда се молбу моју,
+        немој ме враћати у кућу Јонатана писара, да не умрем ондје.
+      bulgarian: И сега чуй, господарю мой, царю, нека бъде приета молбата ми пред
+        твоето лице; не ме връщай в къщата на писаря Ионатана, за да не умра
+        там".
+      Olesn: И теперь выслушай, умоляю, государь мой царь! пусть падет молитва моя
+        пред тобою; не возвращай меня в дом Ионафана писца, чтобы не умереть мне
+        там.
+      deutsch: Und nun, mein Herr König, höre mich und laß meine Bitte vor dir gelten
+        und laß mich nicht wieder in Jonathans, des Schreibers, Haus bringen,
+        daß ich nicht sterbe daselbst.
+      ukr2: "Тож вислухай мене, мій владико й царю: нехай моє благання дійде до тебе!
+        Не повертай мене в будинок писаря Йонатана, щоб мені там життя не
+        позбутись.»"
+      ukr3: "Тепер же вислухай мене, мій добродїю й царю: нехай моє благаннє дійде до
+        твого слуху; не вертай мене в будинок писаря Йонатана, щоб менї там не
+        вмерти."
+      bel_syomukha: І сёньня паслухай, спадару мой цар, хай упадзе дараваньне маё
+        перад аблічча тваё; не вяртай мяне ў дом Ёнатана пісца, каб мне не
+        памерці там".
+      czech: 'Ted poslys, prosim, krali, muj pane, predkladam ti prosbu o smilovani:
+        Neposilej me zpet do domu pisare Jonatana, abych tam nezemrel."'
+      spanish: Óyeme, pues; ¡oh rey, mi señor! te lo ruego; acoge mi súplica y no me
+        vuelvas a la prisión de la casa de Jonatán, escriba, porque moriría
+        allí.
+      greek-lxx: καὶ νῦν κύριε βασιλεῦ πεσέτω τὸ ἔλεός μου κατὰ πρόσωπόν σου καὶ τί
+        ἀποστρέφεις με εἰς οἰκίαν Ιωναθαν τοῦ γραμματέως καὶ οὐ μὴ ἀποθάνω ἐκεῖ
+      st_text: И ныне послушай, государь мой царь, да падет прошение мое пред лице
+        твое; не возвращай меня в дом Ионафана писца, чтобы мне не умереть там.
+  - id: 16023
+    number: 21
+    bookId: 29
+    text: И дал повеление царь Седекия, чтобы заключили Иеремию во дворе стражи и
+      давали ему по куску хлеба на день из улицы хлебопеков, доколе не истощился
+      весь хлеб в городе; и так оставался Иеремия во дворе стражи.
+    chapter: 37
+    chapterId: 903
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И повеле царь, и ввергоша его во храмину темничную, и даяху ему хлеб един
+        на день извне, идеже пекут, дондеже скончашася хлебы из града. И седяше
+        иеремиа во дворе темничнем.
+      averincev: ""
+      ungerov: И повелел царь, и посадили его в темничный дом, и давали ему по одному
+        хлебу на день с улицы, где пекли (хлебы), пока не истощился хлеб в
+        городе. И сидел Иеремия во дворе темничном.
+      csya_old: И# повелЁ цaрь, и3 вверго1ша є3го2 во хрaмину темни1чную, и3 даsху
+        є3мY хлёбъ є3ди1нъ на де1нь и3звнЁ, и3дёже пекyтъ, до1ндеже скончaшасz
+        хлёбы и3з8 грaда. И# сэдsше їеремjа во дворЁ темни1чнэмъ.
+      sovr_rbo: По приказу царя Седекии Иеремию отправили на двор стражи. Там ему
+        выдавали в день по одной лепешке с улицы пекарей, пока не кончился весь
+        хлеб в городе. Итак, Иеремия оставался на дворе стражи.
+      latin: "Praecepit ergo rex Sedecias ut traderetur Jeremias in vestibulo
+        carceris, et daretur ei torta panis quotidie, excepto pulmento, donec
+        consumerentur omnes panes de civitate: et mansit Jeremias in vestibulo
+        carceris."
+      ukr: І наказав цар Седекія, й Єремію вмістили в подвір'ї в'язниці, і давали йому
+        буханець хліба на день з вулиці пекарів, аж поки не скінчився ввесь хліб
+        у місті. І сидів Єремія в подвір'ї в'язниці.
+      nkjv: "Then Zedekiah the king commanded that they should commit Jeremiah to the
+        court of the prison, and that they should give him daily a piece of
+        bread from the bakers' street, until all the bread in the city was gone.
+        Thus Jeremiah remained in the court of the prison. "
+      desnitsky: ""
+      mt: ‫   וַיְצַוֶּה הַמֶּלֶךְ צִדְקִיָּהוּ וַיַּפְקִדוּ אֶת־יִרְמְיָהוּ בַּחֲצַר
+        הַמַּטָּרָה וְנָתֹן לוֹ כִכַּר־לֶחֶם לַיּוֹם מִחוּץ הָאֹפִים עַד־תֹּם
+        כָּל־הַלֶּחֶם מִן־הָעִיר וַיֵּשֶׁב יִרְמְיָהוּ בַּחֲצַר הַמַּטָּרָה׃ ‬
+      romana: Si a dat regele Sedechia porunca sa inchida pe Ieremia in curtea
+        temnitei si i s-a dat cate o bucata de paine pe zi din ulita pitarilor,
+        pana s-a ispravit painea in cetate. Si asa a ramas Ieremia in curtea
+        temnitei.
+      francais: Le roi Sédécias ordonna qu'on gardât Jérémie dans la cour de la
+        prison, et qu'on lui donnât chaque jour un pain de la rue des
+        boulangers, jusqu'à ce que tout le pain de la ville fût consommé. Ainsi
+        Jérémie demeura dans la cour de la prison.
+      italian: Il re Sedecìa comandò di custodire Geremia nell'atrio della prigione e
+        gli fu data ogni giorno una focaccia di pane proveniente dalla via dei
+        Fornai, finché non fu esaurito tutto il pane in città. Così Geremia
+        rimase nell'atrio della prigione.
+      portuguese: "Então ordenou o rei Zedequias que pusessem a Jeremias no átrio da
+        guarda; e deram-lhe um bolo de pão cada\rdia, da rua dos padeiros, até
+        que se gastou todo o pão da cidade. Assim ficou Jeremias no átrio da
+        guarda."
+      polish: "Król Sedecjasz wydał rozkaz, by trzymano Jeremiasza pod strażą w
+        wartowni\rby dawano mu po bochenku chleba dziennie z ulicy piekarzy,
+        dopóki nie wyczerpie się chleb w mieście. I pozostał Jeremiasz na
+        dziedzińcu w wartowni."
+      turkish: Bunun üzerine Kral Sidkiya Yeremya'nın muhafız avlusuna kapatılmasını,
+        kentteki ekmek bitene dek her gün fırıncılar sokağından kendisine bir
+        ekmek verilmesini buyurdu. Böylece Yeremya muhafız avlusunda kaldı.
+      nrt: Царь Цедекия приказал заточить Иеремию в темницу при царском дворце и
+        выдавать ему с улицы пекарей по лепешке в день, пока не осталось хлеба в
+        городе. Так Иеремия остался в царской темнице.
+      Macarius: И дал повеление царь Седекия, и отдали Иеремию под надзор во двор
+        стражи; и давали ему по хлебцу на день с хлебничей улицы, доколе
+        никакого хлеба не стало в городе; и сидел Иеремия во дворе стражи.
+      serbian: Тада заповједи цар Седекија да затворе Јеремију у тријем од тамнице и
+        да му дају сваки дан по хљеб с улице хљебарске, докле траје хљеба у
+        граду. Тако сјеђаше Јеремија у тријему од тамнице.
+      bulgarian: Тогава цар Седекия заповяда да затворят Иеремия в стражарницата, и му
+        даваха по късче хляб на ден от улицата на хлебарите, докле се не свърши
+        всичкият хляб в града. И тъй остана Иеремия в стражарницата.
+      Olesn: И дал повеление царь Седекия, и держали Иеремию во дворе стражи, выдавая
+        ему краюшку хлеба ежедневно из ряда хлебничьяго, пока не истощился весь
+        хлеб в городе. И жил Иеремия во дворе стражи.
+      deutsch: Da befahl der König Zedekia, daß man Jeremia im Vorhof des Gefängnisses
+        behalten sollte, und ließ ihm des Tages ein Laiblein Brot geben aus der
+        Bäckergasse, bis daß alles Brot in der Stadt aufgezehrt war. Also blieb
+        Jeremia im Vorhof des Gefängnisses.
+      ukr2: Тоді цар Седекія звелів ув'язнити Єремію в тюремнім дворі й давати йому з
+        Пекарської вулиці по буханцеві хліба на день, аж поки не вийшов увесь
+        хліб у місті. Так перебував Єремія в тюремному дворі.
+      ukr3: І поведено тодї Еремію, по повелїнню царя Седекії, у вартовий двір у
+        неволю, й давано йому по буханцеві хлїба на день із пекарської улицї,
+        покіль не поїдено ввесь хлїб у городї. І так пробував Еремія в вартовому
+        дворі.
+      bel_syomukha: І даў загад цар Сэдэкія, каб увязьнілі Ерамію ў двары варты і
+        давалі яму па кавалку хлеба на дзень з вуліцы пекараў, пакуль ня
+        кончыўся ўвесь хлеб у горадзе. І так заставаўся Ерамія ў двары варты.
+      czech: Kral Sidkijas prikazal dat Jeremjase pod dohled na nadvori strazi. Kazdy
+        den mu davali z ulice pekaru bochnicek chleba, dokud nebyl vsechen chleb
+        ve meste sneden. Tak Jeremjas pobyval v nadvori strazi.
+      spanish: Mandó, pues, el rey Sedecías que fuese llevado al vestíbulo de la
+        guardia y se le diese cada día una torta de pan de la calle de los
+        Horneros, mientras no faltase del todo el pan en la ciudad. Así quedó
+        Jeremías en el vestíbulo de la guardia.
+      greek-lxx: καὶ συνέταξεν ὁ βασιλεὺς καὶ ἐνεβάλοσαν αὐτὸν εἰς οἰκίαν τῆς φυλακῆς
+        καὶ ἐδίδοσαν αὐτῷ ἄρτον ἕνα τῆς ἡμέρας ἔξωθεν οὗ πέσσουσιν ἕως ἐξέλιπον
+        οἱ ἄρτοι ἐκ τῆς πόλεως καὶ ἐκάθισεν Ιερεμιας ἐν τῇ αὐλῇ τῆς φυλακῆς
+      st_text: И дал повеление царь Седекия, чтобы заключили Иеремию во дворе стражи и
+        давали ему по куску хлеба на день из улицы хлебопеков, доколе не
+        истощился весь хлеб в городе; и так оставался Иеремия во дворе стражи.

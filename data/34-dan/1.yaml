@@ -1,0 +1,1807 @@
+id: 978
+number: 1
+bookId: 34
+verseCount: 21
+title: Глава 1
+verses:
+  - id: 12480
+    number: 1
+    bookId: 34
+    text: В третий год царствования Иоакима, царя Иудейского, пришел Навуходоносор,
+      царь Вавилонский, к Иерусалиму и осадил его.
+    chapter: 1
+    chapterId: 978
+    parallels:
+      - verseId: 9140
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 24
+        short: 4 Цар:24:10
+      - verseId: 6469
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 36
+        short: 2 Пар:36:5
+    translates:
+      kassian: ""
+      podstr: При царе Иоакиме Иудеи года третьего прибывший Навуходоносор царь
+        Вавилона в Иерусалим осадил его
+      csya: В лето третие царства иоакима царя иудина, прииде навуходоносор царь
+        вавилонск на Иерусалим и воеваше нань.
+      averincev: ""
+      ungerov: В третий год царствования Иоакима, царя Иудейскаго, пришел
+        Навуходоносор, царь Вавилонский, к Иерусалиму и осадил его.
+      csya_old: Въ лёто тре1тіе цaрства їwакjма царS їyдина, пріи1де навуходоно1соръ
+        цaрь вавmлHнскъ на їеrли1мъ и3 воевaше нaнь.
+      sovr_rbo: На третий год царствования Иоакима, царя Иудеи, подступил к Иерусалиму
+        Навуходоносор, царь вавилонский, и осадил его.
+      latin: "Anno tertio regni Joakim regis Juda, venit Nabuchodonosor, rex
+        Babylonis, in Jerusalem, et obsedit eam:"
+      ukr: За третього року царювання Йоякима, Юдиного царя, прийшов Навуходоносор,
+        цар вавилонський, до Єрусалиму, та й обліг його.
+      nkjv: In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar
+        king of Babylon came to Jerusalem and besieged it.
+      desnitsky: ""
+      mt: ‫    בִּשְׁנַת שָׁלוֹשׁ לְמַלְכוּת יְהוֹיָקִים מֶלֶךְ־יְהוּדָה בָּא
+        נְבוּכַדְנֶאצַּר מֶלֶךְ־בָּבֶל יְרוּשָׁלִַם וַיָּצַר עָלֶיהָ׃ ‬
+      romana: In anul al treilea al domniei lui Ioiachim, regele lui Iuda, a pornit
+        Nabucodonosor, regele Babilonului, impotriva Ierusalimului si 1-a
+        impresurat.
+      francais: La troisième année du règne de Jojakim, roi de Juda, Nebucadnetsar,
+        roi de Babylone, marcha contre Jérusalem, et l'assiégea.
+      italian: L'anno terzo del regno di Ioiakìm re di Giuda, Nabucodònosor re di
+        Babilonia marciò su Gerusalemme e la cinse d'assedio.
+      old_georgian: მეამესა შორის წელსა მეფობისა იოაკიმისსა, მეფისა იუდაჲსსა, მოვიდა
+        ნაბუქოდონოსორ, მეფე ბაბილონისა, იერუსალიმად და მოადგა მას.
+      portuguese: "No ano terceiro do reinado de Jeoiaquim, rei de Judá, veio
+        Nabucodonosor, rei de Babilônia, a Jerusalém, e a\rsitiou."
+      polish: "W trzecim roku panowania króla judzkiego Jojakima przybył król
+        babiloński\rNabuchodonozor pod Jerozolimę i oblegał ją."
+      turkish: Yahuda Kralı Yehoyakim'in krallığının üçüncü yılında Babil Kralı
+        Nebukadnessar Yeruşalim'in üzerine yürüyüp kenti kuşattı.
+      nrt: В третьем году царствования Иоакима, царя Иудеи, Навуходоносор, царь
+        Вавилона, пришел под Иерусалим и осадил его.
+      Macarius: В третий год царствования Иоакима, царя Иудейского, приступил
+        Невухаднецар, вавилонский царь, к Иерусалиму, и обложил его.
+      bulgarian: В третата година от царуването на иудейския цар Иоакима дигна се
+        вавилонският цар Навуходоносор против Иерусалим и го обсади.
+      deutsch: Im dritten Jahr des Reiches Jojakims, des Königs in Juda, kam
+        Nebukadnezar, der König zu Babel, vor Jerusalem und belagerte es.
+      ukr2: Третього року царювання Йоакима, юдейського царя, вирушив Навуходоносор,
+        вавилонський цар, проти Єрусалиму й обліг його.
+      ukr3: На третьому року царюваннє Йоакима, царя Юдейського, прийшов
+        Навуходонозор, царь Вавилонський, до Ерусалиму й обляг його.
+      bel_syomukha: На трэцім годзе цараваньня Ёакіма, цара Юдэйскага, прыйшоў
+        Навухаданосар, цар Вавілонскі, да Ерусаліма і атачыў яго аблогаю.
+      Olesn: В третий год царствования Иоакима царя иудейскаго пришел Навуходоносор
+        царь вавилонский на Иерусалим и осадил его.
+      lev-khv: В третий год царствования Иоакима, царя Иудейскаго, пришел
+        Навуходоносор, царь Вавилонский, к Иерусалиму и осадил его.
+      czech: Ve tretim roce kralovani Jojakima, krale judskeho, pritahl Nebukadnesar,
+        babylonsky kral, k Jeruzalemu a oblehl jej.
+      spanish: El año tercero del reinado de Joaquim, rey de Judá, Nabucodonosor, rey
+        de Babilonia, fue contra Jerusalén y la asedió.
+      greek-lxx: ἐπὶ βασιλέως Ιωακιμ τῆς Ιουδαίας ἔτους τρίτου παραγενόμενος
+        Ναβουχοδονοσορ βασιλεὺς Βαβυλῶνος εἰς Ιερουσαλημ ἐπολιόρκει αὐτήν
+      greek-theodotion: ἐν ἔτει τρίτῳ τῆς βασιλείας Ιωακιμ βασιλέως Ιουδα ἦλθεν
+        Ναβουχοδονοσορ βασιλεὺς Βαβυλῶνος εἰς Ιερουσαλημ καὶ ἐπολιόρκει αὐτήν
+      st_text: В третий год царствования Иоакима, царя Иудейского, пришел
+        Навуходоносор, царь Вавилонский, к Иерусалиму и осадил его.
+  - id: 12481
+    number: 2
+    bookId: 34
+    text: И предал Господь в руку его Иоакима, царя Иудейского, и часть сосудов дома
+      Божия, и он отправил их в землю Сеннаар, в дом бога своего, и внес эти
+      сосуды в сокровищницу бога своего.
+    chapter: 1
+    chapterId: 978
+    parallels:
+      - verseId: 6470
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 36
+        short: 2 Пар:36:6
+      - verseId: 6471
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 36
+        short: 2 Пар:36:7
+      - verseId: 818
+        bookId: 15
+        bookCode: 1a-kniga-ezdry
+        chapter: 1
+        short: 1 Езд:1:7
+    translates:
+      kassian: ""
+      podstr: и передал его Господь в руки его и Иоакима царя Иудеи и часть какую-то
+        священных вещей Господа и он отнёс их в Вавилон и отправил их в капище
+        его
+      csya: И даде Господь в руце его иоакима царя иудина и от части сосудов храма
+        Божия. И принесе я в землю сеннаар в дом бога своего и сосуды внесе в
+        дом сокровищный бога своего.
+      averincev: ""
+      ungerov: И предал Господь в руки его Иоакима, царя Иудейскаго, и часть сосудов
+        храма Божия, и он принес их в землю Сеннаар, в дом бога своего, и внес
+        сосуды в сокровищницу бога своего.
+      csya_old: И# даде2 гDь въ рyцэ є3гw2 їwакjма царS їyдина и3 t чaсти сосyдwвъ
+        хрaма б9іz. И# принесе2 | въ зе1млю сеннаaръ въ до1мъ бо1га своегw2 и3
+        сосyды внесе2 въ до1мъ сокро1вищный бо1га своегw2.
+      sovr_rbo: Господь отдал в руки Навуходоносора Иоакима, царя Иудеи, и часть
+        утвари Храма Божьего. Навуходоносор увез утварь в страну Шинар, в храм
+        своего бога (он поместил ее в сокровищницу храма).
+      latin: "et tradidit Dominus in manu ejus Joakim, regem Juda, et partem vasorum
+        domus Dei: et asportavit ea in terram Sennaar in domum dei sui, et vasa
+        intulit in domum thesauri dei sui."
+      ukr: І дав Господь в його руку Йоякима, Юдиного царя, та частину посуду Божого
+        дому, і він вірправив їх до краю вавилонського, до дому свого бога, а
+        посуд відправив до скарбничного дому свого бога.
+      nkjv: And the Lord gave Jehoiakim king of Judah into his hand, with some of the
+        articles of the house of God, which he carried into the land of Shinar
+        to the house of his god; and he brought the articles into the treasure
+        house of his god.
+      desnitsky: ""
+      mt: ‫    וַיִּתֵּן אֲדֹנָי בְּיָדוֹ אֶת־יְהוֹיָקִים מֶלֶךְ־יְהוּדָה וּמִקְצָת
+        כְּלֵי בֵית־הָאֱלֹהִים וַיְבִיאֵם אֶרֶץ־שִׁנְעָר בֵּית אֱלֹהָיו
+        וְאֶת־הַכֵּלִים הֵבִיא בֵּית אוֹצַר אֱלֹהָיו׃ ‬
+      romana: Si a dat Domnul in mana lui pe Ioiachim, regele lui Iuda, si o parte din
+        vasele templului lui Dumnezeu, pe care le-a dus in tara Sinear, in
+        templul dumnezeului lui si a asezat aceste vase in vistieria acestui
+        dumnezeu.
+      francais: Le Seigneur livra entre ses mains Jojakim, roi de Juda, et une partie
+        des ustensiles de la maison de Dieu. Nebucadnetsar emporta les
+        ustensiles au pays de Schinear, dans la maison de son dieu, il les mit
+        dans la maison du trésor de son dieu.
+      italian: Il Signore mise Ioiakìm re di Giuda nelle sue mani, insieme con una
+        parte degli arredi del tempio di Dio, ed egli li trasportò in Sennaàr e
+        depositò gli arredi nel tesoro del tempio del suo dio.
+      old_georgian: და მისცა უფალმან ჴელსა შორის მისსა იოაკიმ, მეფე იუდაჲსაჲ, და
+        კერძოჲ ჭურჭელთა სახლისა უფლისათაჲ, და შთაიხუნა იგინი ქუეყანად სენაარად,
+        სახიდ ღმრთისა მისისა, და ჭურჭელნი შეიხუნა სახიდ საუნჯისა ღმრთისა თჳსისა.
+      portuguese: "E o Senhor lhe entregou nas mãos a Jeoiaquim, rei de Judá, e uma
+        parte dos vasos da casa de Deus; e ele os\rlevou para a terra de Sinar,
+        para a casa do seu deus; e os pôs na casa do tesouro do seu deus."
+      polish: "Pan wydał w jego ręce króla judzkiego Jojakima oraz część naczyń
+        domu\rBożego, które zabrał do ziemi Szinear do domu swego boga,
+        umieszczając\rnaczynia w skarbcu swego boga."
+      turkish: Rab, Yahuda Kralı Yehoyakim'i ve Tanrı'nın Tapınağı'ndaki bazı eşyaları
+        Nebukadnessar'ın eline teslim etti. Nebukadnessar bunları Şinar ülkesine
+        götürüp kendi ilahının tapınağının hazinesine yerleştirdi.
+      nrt: И Владыка отдал Иоакима, царя Иудеи, и часть утвари из Божьего дома в его
+        руки. Он унес ее в дом своего бога в Шинар и положил в сокровищницу
+        своего бога.
+      Macarius: И предал Господь в руки ему Иоакима, царя иудейского, и часть сосудов
+        дома Божия; и он отправил их в землю сеннаарскую, в дом богов своих; и
+        внес сии сосуды в сокровищницу богов своих.
+      bulgarian: И предаде Господ в ръката му иудейския цар Иоакима и част от съдовете
+        на Дома Божий, и той ги изпрати в земя Сенаар, в дома на своя бог, и
+        внесе тия съдове в съкровищницата на своя бог.
+      deutsch: Und der Herr übergab ihm Jojakim, den König Juda's, und etliche Gefäße
+        aus dem Hause Gottes; die ließ er führen ins Land Sinear in seines
+        Gottes Haus und tat die Gefäße in seines Gottes Schatzkammer.
+      ukr2: Господь видав в його руки Йоакима, юдейського царя, й частину посуду дому
+        Божого, і він забрав його в Шінеар-край, у дім свого бога, і склав посуд
+        у скарбницю свого бога.
+      ukr3: І віддав Господь в його руки Йоакима, царя Юдейського, й часть посуду дому
+        Божого, й він забрав його в край Сеннаар, у дім свого бога, і поклав цей
+        посуд в скарбівню свого бога.
+      bel_syomukha: І аддаў Гасподзь у рукі ягоныя Ёакіма, цара Юдэйскага, і частку
+        посуду Божага дома, і ён адправіў іх у зямлю Сэнаар, у дом свайго бога,
+        і ўнёс гэты посуд у скарбніцу бога свайго.
+      Olesn: Тогда предал Господь в руку его Иоакима царя иудейскаго и бóльшую часть
+        сосудов дома Божия, которые он отправил в землю Шинар, в дом бога своего
+        и сдал сосуды в сокровищницу бога своего.
+      lev-khv: И предал Господь в руку его Иоакима, царя Иудейскаго, и часть сосудов
+        дома Божия, и он отправил их в землю Сеннаар в дом богов своих, и внес
+        эти сосуды в сокровищницу богов своих.
+      czech: Panovnik Hospodin mu vydal do rukou judskeho krale Jojakima a cast nadob
+        Boziho domu. Nebukadnesar je dopravil do zeme Sinearu, do domu sveho
+        bozstva; nadoby dal dopravit do klenotnice sveho boha.
+      spanish: Y entregó el Señor en sus manos a Joaquim, rey de Judá, y parte de los
+        vasos de la casa de Dios, y los trajo a la tierra de Senaar, a la casa
+        de su dios, y metió los vasos en la casa del tesoro de su dios.
+      greek-lxx: καὶ παρέδωκεν αὐτὴν Κύριος εἰς χεῖρας αὐτοῦ καὶ Ιωακιμ τὸν βασιλέα
+        τῆς Ιουδαίας καὶ μέρος τι τῶν ἱερῶν σκευῶν τοῦ Κυρίου καὶ ἀπήνεγκεν αὐτὰ
+        εἰς Βαβυλῶνα καὶ ἀπηρείσατο αὐτὰ ἐν τῷ εἰδωλίῳ αὐτοῦ
+      greek-theodotion: καὶ ἔδωκεν Κύριος ἐν χειρὶ αὐτοῦ τὸν Ιωακιμ βασιλέα Ιουδα καὶ
+        ἀπὸ μέρους τῶν σκευῶν οἴκου τοῦ Θεοῦ καὶ ἤνεγκεν αὐτὰ εἰς γῆν Σεννααρ
+        οἶκον τοῦ Θεοῦ αὐτοῦ καὶ τὰ σκεύη εἰσήνεγκεν εἰς τὸν οἶκον θησαυροῦ τοῦ
+        Θεοῦ αὐτοῦ
+      st_text: И предал Господь в руку его Иоакима, царя Иудейского, и часть сосудов
+        дома Божия, и он отправил их в землю Сеннаар, в дом бога своего, и внес
+        эти сосуды в сокровищницу бога своего.
+  - id: 12482
+    number: 3
+    bookId: 34
+    text: И сказал царь Асфеназу, начальнику евнухов своих, чтобы он из сынов
+      Израилевых, из рода царского и княжеского, привел
+    chapter: 1
+    chapterId: 978
+    parallels:
+      - verseId: 9044
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 20
+        short: 4 Цар:20:18
+      - verseId: 20602
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 39
+        short: Ис:39:7
+    translates:
+      kassian: ""
+      podstr: и сказал царь Авиэсдри своему старейшине привести ему из сыновей вельмож
+        Израиля и из царственного рода и из избранных
+      csya: И рече царь ко асфанезу, старейшине евнухов своих, ввести от сынов плена
+        израилева и от племене царска и от князей
+      averincev: ""
+      ungerov: И сказал царь Асфанезу, начальнику евнухов своих, чтобы он из пленных
+        сынов Израиля, из рода царскаго и княжескаго, привел
+      csya_old: И# рече2 цaрь ко ґсфане1зу, старёйшинэ є3vнyхwвъ свои1хъ, ввести2 t
+        сынHвъ плёна ї}лева и3 t пле1мене цaрска и3 t кнzзе1й
+      sovr_rbo: Царь велел Ашпеназу, начальнику евнухов, отобрать из народа Израилева,
+        из царского рода и знати,
+      latin: Et ait rex Asphenez praeposito eunuchorum ut introduceret de filiis
+        Israel, et de semine regio et tyrannorum,
+      ukr: І сказав цар до Ашпеназа, начальника його евнухів, щоб привести з
+        Ізраїлевих синів, і з царського, і з шляхетського роду,
+      nkjv: "Then the king instructed Ashpenaz, the master of his eunuchs, to bring
+        some of the children of Israel and some of the king's descendants and
+        some of the nobles, "
+      desnitsky: ""
+      mt: ‫    וַיֹּאמֶר הַמֶּלֶךְ לְאַשְׁפְּנַז רַב סָרִיסָיו לְהָבִיא מִבְּנֵי
+        יִשְׂרָאֵל וּמִזֶּרַע הַמְּלוּכָה וּמִן־הַפַּרְתְּמִים׃ ‬
+      romana: Si a zis regele catre Aspenaz, cel mai mare peste famenii sai, sa aduca
+        dintre fiii lui Israel, din neam regesc si din cei din vita aleasa,
+      francais: Le roi donna l'ordre à Aschpenaz, chef de ses eunuques, d'amener
+        quelques-uns des enfants d'Israël de race royale ou de famille noble,
+      italian: Il re ordinò ad Asfenàz, capo dei suoi funzionari di corte, di
+        condurgli giovani israeliti di stirpe reale o di famiglia nobile,
+      old_georgian: და ჰრქუა მეფემან ასფანაქს, საჭურისმთავარსა თჳსსა, შეყვანებად
+        ძეთაგან ტყუეობისა ისრაილისა და თესლისაგან მეფობისა და ფორთომმინთაგან
+      portuguese: "Então disse o rei a Aspenaz, chefe dos seus eunucos que trouxesse
+        alguns dos filhos de Israel, dentre a\rlinhagem real e dos nobres,"
+      polish: Król polecił następnie Aszfenazowi, przełożonemu swoich dworzan,
+        sprowadzić spośród Izraelitów z rodu królewskiego oraz z możnowładców
+      turkish: ""
+      nrt: Затем царь приказал Ашпеназу, главе своих придворных, привести несколько
+        израильтян из царской и других знатных семей –
+      Macarius: И сказал царь Ашпеназу, начальнику евнухов своих, чтоб он взял из
+        сынов израилевых, и притом из царского рода и из вельможеского, отроков,
+      bulgarian: И каза царят на Асфеназа, началник на скопците му, да доведе от
+        синовете Израилеви, от царски и княжески род,
+      deutsch: Und der König sprach zu Aspenas, seinem obersten Kämmerer, er sollte
+        aus den Kindern Israel vom königlichen Stamm und Herrenkinder wählen
+      ukr2: Цар повелів Ашпеназові, старшому над своїми скопцями, щоб привів із синів
+        Ізраїля, з царського роду та зо шляхти,
+      ukr3: І сказав царь Асфеназові, старшому над своїми сьвітличниками (скопцями),
+        щоб привів з синів Ізрайлевих, з царського та княжого роду,
+      bel_syomukha: І сказаў цар Асфэназу, начальніку сваіх еўнухаў, каб ён з сыноў
+        Ізраілевых, з роду царскага і княскага, прывёў
+      Olesn: И повелел царь Ашпеназу, начальнику евнухов своих, привести из сынов
+        Израиля и от рода царскаго или из вельмож некоторых мальчиков,
+      lev-khv: И сказал царь Асфеназу, начальнику царедворцев своих, чтобы из сынов
+        Израилевых из рода царскаго и вельможескаго привел он
+      czech: Pak rozkazal kral Aspenazovi, vrchnimu nad dvorany, aby privedl z
+        Izraelcu, a to z kralovskeho potomstva a ze slechty,
+      spanish: Dijo el rey a Aspenaz, jefe de sus eunucos, que trajese de los hijos de
+        Israel, del linaje real y del de sus nobles,
+      greek-lxx: καὶ εἶπεν ὁ βασιλεὺς Αβιεσδρι τῷ ἑαυτοῦ ἀρχιευνούχῳ ἀγαγεῖν αὐτῷ ἐκ
+        τῶν υἱῶν τῶν μεγιστάνων τοῦ Ισραηλ καὶ ἐκ τοῦ βασιλικοῦ γένους καὶ ἐκ
+        τῶν ἐπιλέκτων
+      greek-theodotion: καὶ εἶπεν ὁ βασιλεὺς τῷ Ασφανεζ τῷ ἀρχιευνούχῳ αὐτοῦ
+        εἰσαγαγεῖν ἀπὸ τῶν υἱῶν τῆς αἰχμαλωσίας Ισραηλ καὶ ἀπὸ τοῦ σπέρματος τῆς
+        βασιλείας καὶ ἀπὸ τῶν φορθομμιν
+      st_text: И сказал царь Асфеназу, начальнику евнухов своих, чтобы он из сынов
+        Израилевых, из рода царского и княжеского, привел
+  - id: 12483
+    number: 4
+    bookId: 34
+    text: отроков, у которых нет никакого телесного недостатка, красивых видом, и
+      понятливых для всякой науки, и разумеющих науки, и смышленых и годных
+      служить в чертогах царских, и чтобы научил их книгам и языку Халдейскому.
+    chapter: 1
+    chapterId: 978
+    parallels:
+      - verseId: 20602
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 39
+        short: Ис:39:7
+    translates:
+      kassian: ""
+      podstr: юношей безупречных и красивых и сведущих во всякой мудрости и грамоте и
+        разумных и мудрых и сильных, чтобы быть в доме царя и научить их письму
+        и наречию халдеев
+      csya: юношы, на нихже несть порока, и добры зраком и смыслены во всяцей
+        премудрости, и ведушия умение и размышляющыя разум, и имже есть крепость
+        в них, еже предстояти в дому пред царем и научити я книгам и языку
+        халдейску.
+      averincev: ""
+      ungerov: Юношей, у которых нет порока и красивых видом, понятливых для всякой
+        науки, способных к научению, и разсудительных и годных служить пред
+        царем во дворце, и чтобы научил их книгам и языку халдейскому.
+      csya_old: ю4ношы, на ни1хже нёсть поро1ка, и3 дwбры2 зрaкомъ и3 смы1слєны во
+        всsцэй премyдрости, и3 вёдущыz ўмёніе и3 размышлsющыz рaзумъ, и3 и5мже
+        є4сть крёпость въ ни1хъ, є4же предстоsти въ домY пред8 царе1мъ и3
+        научи1ти | кни1гамъ и3 љзы1ку халде1йску.
+      sovr_rbo: мальчиков без телесных изъянов, красивой наружности, способных к
+        наукам, смышленых и умных, годных для службы в царском дворце, и обучить
+        их халдейской грамоте и языку.
+      latin: pueros in quibus nulla esset macula, decoros forma, et eruditos omni
+        sapientia, cautos scientia, et doctos disciplina, et qui possent stare
+        in palatio regis, ut doceret eos litteras et linguam Chaldaeorum.
+      ukr: юнаків, що нема в них жодної вади, і вони вродливого вигляду та розумні в
+        усякій мудрості, і здібні до знання, і розуміють науку, і щоб у них була
+        моторність служити в царському палаці, і щоб навчати їх книг та мови
+        халдеїв.
+      nkjv: "young men in whom there was no blemish, but good-looking, gifted in all
+        wisdom, possessing knowledge and quick to understand, who had ability to
+        serve in the king's palace, and whom they might teach the language and
+        literature of the Chaldeans. "
+      desnitsky: ""
+      mt: ‫    יְלָדִים אֲשֶׁר אֵין־בָּהֶם כָּל־*מאום **מוּם וְטוֹבֵי מַרְאֶה
+        וּמַשְׂכִּילִים בְּכָל־חָכְמָה וְיֹדְעֵי דַעַת וּמְבִינֵי מַדָּע
+        וַאֲשֶׁר כֹּחַ בָּהֶם לַעֲמֹד בְּהֵיכַל הַמֶּלֶךְ וּלֲלַמְּדָם סֵפֶר
+        וּלְשׁוֹן כַּשְׂדִּים׃ ‬
+      romana: Patru tineri fara nici un cusur trupesc, frumosi la chip si iscusiti in
+        toata intelepciunea, cunoscatori a toata stiinta, cu adanca putere de
+        patrundere si plini de ravna, ca sa slujeasca in palatul regelui, ca
+        sa-i invete pe ei scrisul si limba Caldeilor.
+      francais: de jeunes garçons sans défaut corporel, beaux de figure, doués de
+        sagesse, d'intelligence et d'instruction, capables de servir dans le
+        palais du roi, et à qui l'on enseignerait les lettres et la langue des
+        Chaldéens.
+      italian: senza difetti, di bell'aspetto, dotati di ogni scienza, educati,
+        intelligenti e tali da poter stare nella reggia, per essere istruiti
+        nella scrittura e nella lingua dei Caldei.
+      old_georgian: ჭაბუკთა, რომელთა არა იყოს მათ შორის ბიწი, და შუენიერთა ხილვითა და
+        გულისხმიერთა ყოველსა შინა სიბრძნესა და მცოდნელთა მეცნიერებასა, და
+        განმგონებელთა ცნობასა, რომელთა იყო მთავარშესატყჳსობაჲ მათ შორის დგომად
+        სახლსა შინა მეფისასა, და სწავლად მათდა ნაწერნი და ენაჲ ქალდეველთაჲ.
+      portuguese: "jovens em quem não houvesse defeito algum, de bela aparência,
+        dotados de sabedoria, inteligência e instrução, e\rque tivessem
+        capacidade para assistirem no palácio do rei; e que lhes ensinasse as
+        letras e a língua dos caldeus."
+      polish: "młodzieńców bez jakiejkolwiek skazy, o pięknym wyglądzie, obeznanych
+        z\rwszelką mądrością, posiadających wiedzę i obdarzonych rozumem,
+        zdatnych\rdo służby w królewskim pałacu. Zamierzał ich nauczyć pisma i
+        języka chaldejskiego."
+      turkish: Kral İsrailliler arasından kral soyundan gelme ya da soylu bazı
+        gençlerin seçilip saraya getirilmesi için saray görevlilerinin
+        yöneticisi Aşpenaz'a buyruk verdi. Bu gençler kusursuz, yakışıklı, her
+        konuda bilge, bilgili, öğrenmeye yetenekli, sarayda görev almaya uygun
+        nitelikte kişiler olmalıydı. Aşpenaz onlara Kildaniler'in dilini ve
+        yazısını öğretecekti.
+      nrt: юношей без физических изъянов, красивых, способных к обучению разным
+        наукам, образованных, понятливых и годных к службе при царском дворе. Он
+        должен был научить их языку и литературе халдеев.
+      Macarius: На которых не было бы никакого телесного порока, красивых видом, и
+        понятливым на всякую мудрость, и любознательных, и разумных, и способных
+        предстоять в чертогах царя, и чтоб он учил их наукам и языку
+        халдейскому.
+      bulgarian: момци, които нямат никакъв телесен недостатък, хубавци наглед и
+        способни за всякаква наука, разбиращи науки и разумни и сръчни да служат
+        в царските палати, и да ги научи на халдейски книги и език.
+      deutsch: Knaben, die nicht gebrechlich wären, sondern schöne, vernünftige,
+        weise, kluge und verständige, die da geschickt wären, zu dienen an des
+        Königs Hofe und zu lernen chaldäische Schrift und Sprache.
+      ukr2: хлопців без ніякої хиби, гарних на вигляд, вивчених у всякій мудрості,
+        бистрих до науки, розумних у знанні й здатних до служби в царськім
+        палаці, та щоб навчив їх письма й халдейської мови.
+      ukr3: Хлопцїв, в котрих нема нїякої хиби на тїлї, гарних з лиця і втямливих до
+        всякої науки, й бистрих у науках, і розумних і спосібних до служби в
+        царських палатах, та щоб навчив їх письма й халдейської мови.
+      bel_syomukha: хлопчыкаў, у якіх няма ніякай цялеснай хібы, прыгожых сабою і
+        цямных да ўсякай мудрасьці, і здатных да навук і кемлівых і здольных
+        служыць у царскіх харомах, і каб навучыў іх кнігам і мове Халдэйскай.
+      Olesn: неимеющих никакого недостатка, красивых по наружности, понятливых на
+        всякую мудрость, имеющих познания и сообразительных, которые были бы
+        способны предстоять во дворце царя, и научить их литературе и языку
+        халдеев.
+      lev-khv: Отроков, у которых нет никакого телеснаго недостатка, и красивых видом,
+        и понятливых на всякое искусство, и разумеющих науки, и способных к
+        учению, и годных служить в чертогах царских, и чтобы можно было научить
+        их писанию и языку Халдейскому.
+      czech: jinochy bez jakekoli vady, pekneho vzhledu, zbehle ve veskere moudrosti,
+        kteri si osvojili poznani, rozumeji vsemu vedeni a jsou schopni stavat v
+        kralovskem palaci a naucit se kaldejskemu pisemnictvi a jazyku.
+      spanish: cuatro mozos en los que no hubiera tacha, de buen parecer, de talento,
+        instruidos en toda suerte de sabiduría, dotados intelectualmente y
+        educados, capaces de servir en el palacio del rey, y a quienes se les
+        instruyese en las letras y la lengua de los caldeos.
+      greek-lxx: νεανίσκους ἀμώμους καὶ εὐειδεῖς καὶ ἐπιστήμονας ἐν πάσῃ σοφίᾳ καὶ
+        γραμματικοὺς καὶ συνετοὺς καὶ σοφοὺς καὶ ἰσχύοντας ὥστε εἶναι ἐν τῷ οἴκῳ
+        τοῦ βασιλέως καὶ διδάξαι αὐτοὺς γράμματα καὶ διάλεκτον Χαλδαϊκὴν
+      greek-theodotion: νεανίσκους οἷς οὐκ ἔστιν ἐν αὐτοῖς μῶμος καὶ καλοὺς τῇ ὄψει
+        καὶ συνιέντας ἐν πάσῃ σοφίᾳ καὶ γιγνώσκοντας γνῶσιν καὶ διανοουμένους
+        φρόνησιν καὶ οἷς ἐστιν ἰσχὺς ἐν αὐτοῖς ἑστάναι ἐν τῷ οἴκῳ τοῦ βασιλέως
+        καὶ διδάξαι αὐτοὺς γράμματα καὶ γλῶσσαν Χαλδαίων
+      st_text: отроков, у которых нет никакого телесного недостатка, красивых видом, и
+        понятливых для всякой науки, и разумеющих науки, и смышленых и годных
+        служить в чертогах царских, и чтобы научил их книгам и языку
+        Халдейскому.
+  - id: 12484
+    number: 5
+    bookId: 34
+    text: И назначил им царь ежедневную пищу с царского стола и вино, которое сам
+      пил, и велел воспитывать их три года, по истечении которых они должны были
+      предстать пред царя.
+    chapter: 1
+    chapterId: 978
+    parallels:
+      - verseId: 9180
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 25
+        short: 4 Цар:25:30
+    translates:
+      kassian: ""
+      podstr: и дать им потребное от дома царя по [отношению к] каждому дню и от
+        царского стола и от вина которое пьёт царь и воспитывать их года три и
+        через эти поставить перед царём.
+      csya: И повеле им (даяти) царь по вся дни от трапезы царевы и от вина пития
+        своего и кормити их лета три, и потом стати пред царем.
+      averincev: ""
+      ungerov: И повелел царь (давать) им (пищу) ежедневно от царскаго стола и вино,
+        которое он пил, и кормить их три года, и потом предстать пред царем.
+      csya_old: И# повелЁ и5мъ (даsти) цaрь по вс‰ дни6 t трапе1зы царе1вы и3 t вінA
+        питіS своегw2 и3 корми1ти и5хъ лBта три2, и3 пото1мъ стaти пред8
+        царе1мъ.
+      sovr_rbo: Царь распорядился кормить их ежедневно с царского стола и подавать им
+        вино, какое пил сам, воспитывать их три года, а потом они должны были
+        предстать перед царем.
+      latin: Et constituit eis rex annonam per singulos dies de cibis suis, et de vino
+        unde bibebat ipse, ut enutriti tribus annis, postea starent in conspectu
+        regis.
+      ukr: І призначив їм цар щоденну поживу, з царської їжі та з вина, що сам його
+        пив, а на їхнє виховання три роки, а по закінченні їх стануть вони перед
+        царським обличчям.
+      nkjv: "And the king appointed for them a daily provision of the king's
+        delicacies and of the wine which he drank, and three years of training
+        for them, so that at the end of that time they might serve before the
+        king. "
+      desnitsky: ""
+      mt: ‫    וַיְמַן לָהֶם הַמֶּלֶךְ דְּבַר־יוֹם בְּיוֹמוֹ מִפַּת־בַּג הַמֶּלֶךְ
+        וּמִיֵּין מִשְׁתָּיו וּלְגַדְּלָם שָׁנִים שָׁלוֹשׁ וּמִקְצָתָם יַעַמְדוּ
+        לִפְנֵי הַמֶּלֶךְ׃ ‬
+      romana: Si sa-i invete pe ei vreme de trei ani, dupa trecerea carora sa intre in
+        slujba regelui. Pentru aceasta, regele le-a randuit sa li se dea in
+        fiecare zi bucate din bucatele lui si vin din vinul lui.
+      francais: Le roi leur assigna pour chaque jour une portion des mets de sa table
+        et du vin dont il buvait, voulant les élever pendant trois années, au
+        bout desquelles ils seraient au service du roi.
+      italian: Il re assegnò loro una razione giornaliera di vivande e di vino della
+        sua tavola; dovevano esser educati per tre anni, al termine dei quali
+        sarebbero entrati al servizio del re.
+      old_georgian: და განუწესა მათ მეფემან დღისაჲ-დღითიდღედი ტაბლისაგან მეფისა, და
+        ღჳნისაგან სასუმელისა მისისა და ზრდად მათდა სამ წელს და შემდგომად ამათსა
+        დადგინებად მათდა წინაშე მეფისა.
+      portuguese: "E o rei lhes determinou a porção diária das iguarias do rei, e do
+        vinho que ele bebia, e que assim fossem\ralimentados por três anos; para
+        que no fim destes pudessem estar diante do rei."
+      polish: "Król przydzielił im codzienną porcję potraw królewskich i wina, które
+        pijał.\rMieli być wychowywani przez trzy lata, by po ich upływie
+        rozpocząć służbę\rprzy królu."
+      turkish: Kral bu gençler için kendi sofrasından gündelik yiyecek ve şarap
+        ayırdı. Üç yıl eğitildikten sonra gençler kralın önüne çıkarılacaklardı.
+      nrt: Царь назначил им ежедневную долю еды и вина с царского стола. Они должны
+        были три года учиться, а после – поступить на царскую службу.
+      Macarius: И определил им царь на всякий день царское кушанье и вино со стола
+        своего, и велел воспитывать их три года, по истечении которых они должны
+        были предстать пред царя.
+      bulgarian: И отреди им царят всекидневна храна от царската трапеза и вино, което
+        сам пиеше, и заповяда да ги възпитават три години, след изтичане на
+        които те трябваше да застанат пред царя.
+      deutsch: Solchen bestimmte der König, was man ihnen täglich geben sollte von
+        seiner Speise und vom Wein, den er selbst trank, daß sie also drei Jahre
+        auferzogen würden und darnach dem König dienen sollten.
+      ukr2: Цар призначив для них щоденний харч із царського столу й вино, що сам пив,
+        і звелів виховувати їх три роки, а потім вони мали б ставати до послуг
+        цареві.
+      ukr3: І призначив царь для них щоденний харч із царського стола й вино, яке сам
+        пив, і велїв виховувати їх три роки, а потім мали вони ставати перед
+        царем.
+      bel_syomukha: І прызначыў ім цар штодзённую ежу з царскага стала і віно, якое
+        сам піў, і загадаў выхоўваць іх тры гады, па сканчэньні якіх яны меліся
+        стаць перад царом.
+      Olesn: И назначил им царь ежедневное содержание от изысканной пищи царской и
+        вина своего употребления, чтобы воспитывать их три года, по прошествии
+        которых они должны были стоять пред царем.
+      lev-khv: И назначил им царь на каждый день яства с царскаго стола и вино,
+        которое сам пил, и велел воспитывать их три года, по истечении которых
+        они должны были предстать пред царя.
+      czech: Kral pro ne urcil kazdodenni pridel z kralovskych lahudek a z vina, ktere
+        pil pri svych hodech, a dal je vychovavat po tri roky. Po jejich
+        uplynuti meli stavat pred kralem.
+      spanish: Asignóles el rey para cada día una porción de los manjares de su mesa,
+        del vino que él bebía, y mandó que los criasen durante tres años, al
+        cabo de los cuales entrasen a servir al rey.
+      greek-lxx: καὶ δίδοσθαι αὐτοῖς ἔκθεσιν ἐκ τοῦ οἴκου τοῦ βασιλέως καθ᾿ ἑκάστην
+        ἡμέραν καὶ ἀπὸ τῆς βασιλικῆς τραπέζης καὶ ἀπὸ τοῦ οἴνου οὗ πίνει ὁ
+        βασιλεύς καὶ ἐκπαιδεῦσαι αὐτοὺς ἔτη τρία καὶ ἐκ τούτων στῆσαι ἔμπροσθεν
+        τοῦ βασιλέως
+      greek-theodotion: καὶ διέταξεν αὐτοῖς ὁ βασιλεὺς τὸ τῆς ἡμέρας καθ᾿ ἡμέραν ἀπὸ
+        τῆς τραπέζης τοῦ βασιλέως καὶ ἀπὸ τοῦ οἴνου τοῦ πότου αὐτοῦ καὶ θρέψαι
+        αὐτοὺς ἔτη τρία καὶ μετὰ ταῦτα στῆναι ἐνώπιον τοῦ βασιλέως
+      st_text: И назначил им царь ежедневную пищу с царского стола и вино, которое сам
+        пил, и велел воспитывать их три года, по истечении которых они должны
+        были предстать пред царя.
+  - id: 12485
+    number: 6
+    bookId: 34
+    text: Между ними были из сынов Иудиных Даниил, Анания, Мисаил и Азария.
+    chapter: 1
+    chapterId: 978
+    parallels:
+      - verseId: 12881
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 5
+        short: Дан:5:13
+    translates:
+      kassian: ""
+      podstr: И были из рода сыновей Израиля [которые] из Иудеи Даниил, Анания,
+        Мисаил, Азария.
+      csya: И бысть в них от сынов иудиных даниил и ананиа, и азариа и мисаил.
+      averincev: ""
+      ungerov: И были между ними из сынов Иудиных Даниил, и Анания, и Азария, и Мисаил.
+      csya_old: И# бы1сть въ ни1хъ t сынHвъ їyдиныхъ даніи1лъ и3 ґнaніа, и3 ґзaріа и3
+        місаи1лъ.
+      sovr_rbo: Были среди них Даниил, Анания, Мисаил и Азария, все они были из
+        племени Иуды.
+      latin: Fuerunt ergo inter eos de filiis Juda, Daniel, Ananias, Misael, et
+        Azarias.
+      ukr: І були серед них з Юдиних синів Даниїл, Ананія, Мисаїл та Азарія.
+      nkjv: Now from among those of the sons of Judah were Daniel, Hananiah, Mishael,
+        and Azariah.
+      desnitsky: ""
+      mt: ‫    וַיְהִי בָהֶם מִבְּנֵי יְהוּדָה דָּנִיֵּאל חֲנַנְיָה מִישָׁאֵל
+        וַעֲזַרְיָה׃ ‬
+      romana: "Printre ei se aflau din fiii lui Iuda: Daniel, Anania, Misael si
+        Azaria."
+      francais: Il y avait parmi eux, d'entre les enfants de Juda, Daniel, Hanania,
+        Mischaël et Azaria.
+      italian: "Fra di loro vi erano alcuni Giudei: Daniele, Anania, Misaele e Azaria;"
+      old_georgian: "და იყო მათ შორის ძეთა იუდაჲსათა: დანიილ, და ანანია, და აზარია და
+        მისაელ."
+      portuguese: Ora, entre eles se achavam, dos filhos de Judá, Daniel, Hananias,
+        Misael e Azarias.
+      polish: Spośród synów judzkich byli wśród nich Daniel, Chananiasz, Miszael i
+        Azariasz.
+      turkish: Seçilen gençler arasında Yahudalılar'dan Daniel, Hananya, Mişael ve
+        Azarya da vardı.
+      nrt: "Среди них было несколько иудеев: Даниил, Ханания, Мисаил и Азария."
+      Macarius: "И были между ними из сынов Иуды: Даниил, Анания, Мисаил и Азария."
+      bulgarian: Между тях бяха от Иудините синове Даниил, Анания, Мисаил и Азария.
+      deutsch: Unter diesen war Daniel, Hananja, Misael und Asarja von den Kindern Juda.
+      ukr2: Між ними були з синів юдейських Даниїл, Ананія, Мисаїл та Азарія.
+      ukr3: Між ними були з Юдиних синів Даниїл, Ананїя, Мисаїл і Азарія.
+      bel_syomukha: Сярод іх былі і зь Юдавых сыноў Данііл, Ананія, Місаіл і Азарыя.
+      Olesn: "И были между ними из сынов Иуды: Даниил, Анания, Мисаил и Азария."
+      lev-khv: И были между ними из сынов Иудиных Даниил, Анания, Мисаил и Азария.
+      czech: Z Judejcu byli mezi nimi Daniel, Chananjas, Misael a Azarjas.
+      spanish: Fueron de ellos, de entre los hijos de Judá, Daniel, Ananías, Misael y
+        Azarías,
+      greek-lxx: καὶ ἦσαν ἐκ τοῦ γένους τῶν υἱῶν Ισραηλ τῶν ἀπὸ τῆς Ιουδαίας Δανιηλ
+        Ανανιας Μισαηλ Αζαριας
+      greek-theodotion: καὶ ἐγένετο ἐν αὐτοῖς ἐκ τῶν υἱῶν Ιουδα Δανιηλ καὶ Ανανιας καὶ
+        Μισαηλ καὶ Αζαριας
+      st_text: Между ними были из сынов Иудиных Даниил, Анания, Мисаил и Азария.
+  - id: 12486
+    number: 7
+    bookId: 34
+    text: И переименовал их начальник евнухов - Даниила Валтасаром, Ананию Седрахом,
+      Мисаила Мисахом и Азарию Авденаго.
+    chapter: 1
+    chapterId: 978
+    parallels:
+      - verseId: 12880
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 5
+        short: Дан:5:12
+      - verseId: 12501
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 10
+        short: Дан:10:1
+    translates:
+      kassian: ""
+      podstr: И возложил им старейшина имена, ведь Даниилу Валтасар, же Анании Седрах,
+        и Мисаилу Мисах, и Азарии Авденаго.
+      csya: "И возложи им имена старейшина евнухов: даниилу валтасар, и анании седрах,
+        и мисаилу мисах, азарии же авденаго."
+      averincev: ""
+      ungerov: "И дал им старейшина евнухов имена: Даниилу — Валтасар, и Анании —
+        Седрах, и Мисаилу — Мисах, Азарии же Авденаго."
+      csya_old: "И# возложи2 и5мъ и3менA старёйшина є3vнyхwвъ: даніи1лу валтасaръ, и3
+        ґнaніи седрaхъ, и3 місаи1лу місaхъ, ґзaріи же ґвденагw2."
+      sovr_rbo: "Начальник евнухов дал им другие имена: Даниилу дал имя Белтешаццар,
+        Анании — Шадрах, Мисаилу — Мешах, а Азарии — Авед-Него."
+      latin: "Et imposuit eis praepositus eunuchorum nomina: Danieli, Baltassar;
+        Ananiae, Sidrach; Misaeli, Misach; et Azariae, Abdenago."
+      ukr: А начальник евнухів дав їм інші імена, і дав Даниїлові ім'я Валтасар, а
+        Ананії Шадрах, а Мисаїлові Мешах, а Азарії Авед-Неґо.
+      nkjv: "To them the chief of the eunuchs gave names: he gave Daniel the name
+        Belteshazzar; to Hananiah, Shadrach; to Mishael, Meshach; and to
+        Azariah, Abed-Nego."
+      desnitsky: ""
+      mt: ‫    וַיָּשֶׂם לָהֶם שַׂר הַסָּרִיסִים שֵׁמוֹת וַיָּשֶׂם לְדָנִיֵּאל
+        בֵּלְטְשַׁאצַּר וְלַחֲנַנְיָה שַׁדְרַךְ וּלְמִישָׁאֵל מֵישַׁךְ
+        וְלַעֲזַרְיָה עֲבֵד נְגוֹ׃ ‬
+      romana: Si capetenia famenilor le-a dat nume si a chemat pe Daniel, Beltsatar,
+        pe Anania, Sadrac, pe Misael, Mesac si pe Azaria, Abed-Nego.
+      francais: Le chef des eunuques leur donna des noms, à Daniel celui de
+        Beltschatsar, à Hanania celui de Schadrac, à Mischaël celui de Méschac,
+        et à Azaria celui d'Abed Nego.
+      italian: però il capo dei funzionari di corte chiamò Daniele Baltazzàr; Anania
+        Sadràch; Misaele Mesàch e Azaria Abdènego.
+      old_georgian: და ზედ დაჰსხნა მათ საჭურისთმთავარმან სახელნი დანიელსა - ვალტასარ,
+        და ანანიასა სედრაქ, და მისაილსა - მისაქ, და აზარიასა აბედნაქო.
+      portuguese: "Mas o chefe dos eunucos lhes pôs outros nomes, a saber: a Daniel, o
+        de Beltessazar; a Hananias, o de Sadraque;\ra Misael, o de Mesaque; e a
+        Azarias, o de Abednego."
+      polish: Nadzorca służby dworskiej nadał im imiona, Danielowi - Belteszassar,
+        Chananiaszowi - Szadrak, Miszaelowi - Meszak, Azariaszowi zaś Abed-Nego.
+      turkish: Saray görevlilerinin yöneticisi onlara yeni adlar koydu. Daniel'e
+        Belteşassar, Hananya'ya Şadrak, Mişael'e Meşak, Azarya'ya Abed-Nego
+        adını verdi.
+      Macarius: И дал им начальник евнухов другие имена; и Даниила наименовал
+        Велтешацаром, и Ананию Шадрахом, и Мисаила Мешахом, и Азарию Аведнегом.
+      bulgarian: "Тогава началникът на скопците ги преименува: Даниила нарече
+        Валтасар, Анания - Седрах, Мисаила - Мисах и Азария - Авденаго'."
+      deutsch: Und der oberste Kämmerer gab ihnen Namen und nannte Daniel Beltsazar
+        und Hananja Sadrach und Misael Mesach und Asarja Abed-Nego.
+      ukr2: "Старший над скопцями надав їм імена: Даниїлові Валтасар, Ананії Седрах,
+        Мисаїлові Мисах, Азарії ж - Авденаго."
+      ukr3: І поперемінював їм старший над сьвітличниками імення - Даниїлові на
+        Валтасара, Ананїї на Седраха, Мисаїлові на Мисаха й Азарії на Авденаго.
+      bel_syomukha: І пераназваў іх начальнік еўнухаў - Данііла Валтасарам, Ананію
+        Сэдрахам, Місаіла Місахам і Азарыю Аўдэнагам.
+      Olesn: "И дал им начальник евнухов особенныя имена: Даниилу дал имя Белтешацар,
+        Анании Шадрах, Мисаилу Мешах и Азарии Авед-Негò."
+      lev-khv: И переименовал их начальник царедворцев, и назвал Даниила Валтасаром,
+        Ананию Седрахом, Мисаила Мисахом и Азарию Авденаго.
+      czech: "Velitel dvoranu jim zmenil jmena: Danielovi dal jmeno Beltsasar,
+        Chananjasovi Sadrak, Misaelovi Mesak a Azarjasovi Abed-nego."
+      spanish: "a los cuales el jefe de los eunucos puso por nombre: a Daniel,
+        Baltasar; a Ananías, Sidraj; a Misael, Misaj, y a Azarías, Abed-Nego."
+      greek-lxx: καὶ ἐπέθηκεν αὐτοῖς ὁ ἀρχιευνοῦχος ὀνόματα τῷ μὲν Δανιηλ Βαλτασαρ τῷ
+        δὲ Ανανια Σεδραχ καὶ τῷ Μισαηλ Μισαχ καὶ τῷ Αζαρια Αβδεναγω
+      greek-theodotion: καὶ ἐπέθηκεν αὐτοῖς ὁ ἀρχιευνοῦχος ὀνόματα τῷ Δανιηλ Βαλτασαρ
+        καὶ τῷ Ανανια Σεδραχ καὶ τῷ Μισαηλ Μισαχ καὶ τῷ Αζαρια Αβδεναγω
+      st_text: И переименовал их начальник евнухов - Даниила Валтасаром, Ананию
+        Седрахом, Мисаила Мисахом и Азарию Авденаго.
+  - id: 12487
+    number: 8
+    bookId: 34
+    text: Даниил положил в сердце своем не оскверняться яствами со стола царского и
+      вином, какое пьет царь, и потому просил начальника евнухов о том, чтобы не
+      оскверняться ему.
+    chapter: 1
+    chapterId: 978
+    parallels:
+      - verseId: 10852
+        bookId: 1
+        bookCode: bytie
+        chapter: 43
+        short: Быт:43:32
+      - verseId: 22965
+        bookId: 3
+        bookCode: levit
+        chapter: 11
+        short: Лев:11:4
+      - verseId: 35563
+        bookId: 18
+        bookCode: kniga-tovita
+        chapter: 1
+        short: Тов:1:11
+      - verseId: 22553
+        bookId: 19
+        bookCode: kniga-iudif
+        chapter: 12
+        short: Иудиф:12:2
+    translates:
+      kassian: ""
+      podstr: И обдумал Даниил в сердце чтобы не оскверниться в ужине царя и в котором
+        пьёт вине и просил старейшину чтобы не соосквернится.
+      csya: И положи даниил на сердцы своем, еже не осквернитися от трапезы царевы и
+        от вина пития его, и моли старейшину евнухов, яко да не осквернится.
+      averincev: ""
+      ungerov: И положил Даниил в сердце своем не оскверняться (пищею) от царскаго
+        стола и вином, которое он пил, и просил старейшину евнухов, чтобы не
+        оскверняться ему.
+      csya_old: И# положи2 даніи1лъ на се1рдцы свое1мъ, є4же не њскверни1тисz t
+        трапе1зы царе1вы и3 t вінA питіS є3гw2, и3 моли2 старёйшину є3vнyхwвъ,
+        ћкw да не њскверни1тсz.
+      sovr_rbo: Даниил решил, что ничего нечистого — ни царских кушаний, ни царского
+        вина — он и пробовать не станет. И он попросил у начальника евнухов
+        разрешения не есть нечистого.
+      latin: "Proposuit autem Daniel in corde suo ne pollueretur de mensa regis, neque
+        de vino potus ejus: et rogavit eunuchorum praepositum ne
+        contaminaretur."
+      ukr: І поклав Даниїл собі на серце, що він не оскверниться їжею царя та питвом,
+        що той сам його пив, і просив від начальника евнухів, щоб не
+        осквернитися.
+      nkjv: "But Daniel purposed in his heart that he would not defile himself with
+        the portion of the king's delicacies, nor with the wine which he drank;
+        therefore he requested of the chief of the eunuchs that he might not
+        defile himself. "
+      desnitsky: ""
+      mt: ‫    וַיָּשֶׂם דָּנִיֵּאל עַל־לִבּוֹ אֲשֶׁר לֹא־יִתְגָּאַל בְּפַתְבַּג
+        הַמֶּלֶךְ וּבְיֵין מִשְׁתָּיו וַיְבַקֵּשׁ מִשַּׂר הַסָּרִיסִים אֲשֶׁר
+        לֹא יִתְגָּאָל׃ ‬
+      romana: si Daniel si-a pus in gand sa nu se spurce cu bucatele si vinul regelui
+        si a cerut voie capeteniei famenilor sa nu se pangareasca.
+      francais: Daniel résolut de ne pas se souiller par les mets du roi et par le vin
+        dont le roi buvait, et il pria le chef des eunuques de ne pas l'obliger
+        à se souiller.
+      italian: Ma Daniele decise in cuor suo di non contaminarsi con le vivande del re
+        e con il vino dei suoi banchetti e chiese al capo dei funzionari di non
+        farlo contaminare.
+      old_georgian: და დაიდვა დანიილმან გულსა შორის თჳსსა, რაჲთა არა იუსიტყოს
+        ტაბლისაგან მეფისა და ღჳნისაგან სასუმელისა მისისა, და ევედრა
+        საჭურისთმთავარსა, რაჲთა არა სცეს მისგან.
+      portuguese: "Daniel, porém, propôs no seu coração não se contaminar com a porção
+        das iguarias do rei, nem com o vinho que\rele bebia; portanto pediu ao
+        chefe dos eunucos que lhe concedesse não se contaminar."
+      polish: "Daniel powziął postanowienie, by się nie kalać potrawami królewskimi
+        ani\rwinem, które [król] pijał. Poprosił więc nadzorcę służby dworskiej,
+        by nie\rmusiał się kalać."
+      turkish: Daniel dinsel açıdan kendini kirletmemek için kralın onlara ayırdığı
+        yemeklerden yemeyi de şaraptan içmeyi de istemedi. Bu yoldan kendini
+        kirletmemek için saray görevlilerinin yöneticisine ricada bulundu.
+      Macarius: И положил Даниил в сердце своем не оскверняться царским кушаньем, и
+        вином со стола его; и просил начальника евнухов, чтобы не доводил его до
+        осквернения.
+      bulgarian: Даниил тури на сърце си да се не осквернява с ястията от царската
+        трапеза и от виното, що пиеше царят, и затова измоли от началника на
+        скопците да го не принуждава да се осквернява.
+      deutsch: Aber Daniel setzte sich vor in seinem Herzen, daß er sich mit des
+        Königs Speise und mit dem Wein, den er selbst trank, nicht verunreinigen
+        wollte, und bat den obersten Kämmerer, daß er sich nicht müßte
+        verunreinigen.
+      ukr2: Даниїл постановив у своєму серці не сквернитись царськими харчами з
+        царського столу й вином, що пив цар, тим і просив старшого над скопцями,
+        щоб дозволено йому було не сквернитись.
+      ukr3: Даниїл же постановив у серцї свойму не опоганюватись стравами з царського
+        стола й вином, яке пив царь, та й просив старшого над скопцями, щоб йому
+        було дозволено не опоганюватись.
+      bel_syomukha: Данііл паклаў сабе на сэрца не апаганьвацца прысмакамі з царскага
+        стала і віном, якое п'е цар, і таму прасіў у начальніка еўнухаў, каб не
+        апаганьвацца яму.
+      Olesn: И решил Даниил в сердце своем, что он не должен оскверняться изысканными
+        блюдами царскими и вином его употребления и просил у начальника евнухов,
+        чтобы ему можно было не оскверняться.
+      lev-khv: Между тем Даниил положил в сердце своем, как бы не оскверниться
+        царскими яствами и вином, какое пьет царь, и потому просил начальника
+        царедворцев о том, чтобы не оскверниться ему.
+      czech: Ale Daniel si predsevzal, ze se neposkvrni kralovskymi lahudkami a vinem,
+        ktere pil kral pri svych hodech. Pozadal velitele dvoranu, aby se
+        nemusel poskvrnovat.
+      spanish: Se propuso Daniel en su corazón no contaminarse con la porción de la
+        comida del rey ni con el vino que él bebía, y rogó al jefe de los
+        eunucos que no le obligara a contaminarse.
+      greek-lxx: καὶ ἐνεθυμήθη Δανιηλ ἐν τῇ καρδίᾳ ὅπως μὴ ἀλισγηθῇ ἐν τῷ δείπνῳ τοῦ
+        βασιλέως καὶ ἐν ᾧ πίνει οἴνῳ καὶ ἠξίωσε τὸν ἀρχιευνοῦχον ἵνα μὴ
+        συμμολυνθῇ
+      greek-theodotion: καὶ ἔθετο Δανιηλ ἐπὶ τὴν καρδίαν αὐτοῦ ὡς οὐ μὴ ἀλισγηθῇ ἐν τῇ
+        τραπέζῃ τοῦ βασιλέως καὶ ἐν τῷ οἴνῳ τοῦ πότου αὐτοῦ καὶ ἠξίωσε τὸν
+        ἀρχιευνοῦχον ὡς οὐ μὴ ἀλισγηθῇ
+      st_text: Даниил положил в сердце своем не оскверняться яствами со стола царского
+        и вином, какое пьет царь, и потому просил начальника евнухов о том,
+        чтобы не оскверняться ему.
+  - id: 12488
+    number: 9
+    bookId: 34
+    text: Бог даровал Даниилу милость и благорасположение начальника евнухов;
+    chapter: 1
+    chapterId: 978
+    parallels:
+      - verseId: 29564
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 16
+        short: Притч:16:7
+    translates:
+      kassian: ""
+      podstr: И дал Господь Даниилу честь и благосклонность перед старейшиной
+      csya: И вдаде Бог даниила в милость и в щедроты пред старейшиною евнухов.
+      averincev: ""
+      ungerov: И дал Господь Даниилу милость и благорасположение у старейшины евнухов.
+      csya_old: И# вдаде2 бг7ъ даніи1ла въ ми1лость и3 въ щедрHты пред8 старёйшиною
+        є3vнyхwвъ.
+      sovr_rbo: Бог даровал Даниилу расположение и благосклонность начальника евнухов,
+      latin: Dedit autem Deus Danieli gratiam et misericordiam in conspectu principis
+        eunuchorum.
+      ukr: І дав Бог Даниїлові ласку та милість перед начальником евнухів.
+      nkjv: Now God had brought Daniel into the favor and goodwill of the chief of the
+        eunuchs.
+      desnitsky: ""
+      mt: ‫    וַיִּתֵּן הָאֱלֹהִים אֶת־דָּנִיֵּאל לְחֶסֶד וּלְרַחֲמִים לִפְנֵי שַׂר
+        הַסָּרִיסִים׃ ‬
+      romana: Si Dumnezeu i-a dat sa afle inaintea capeteniei famenilor bunavointa sl
+        indurare.
+      francais: Dieu fit trouver à Daniel faveur et grâce devant le chef des eunuques.
+      italian: Dio fece sì che Daniele incontrasse la benevolenza e la simpatia del
+        capo dei funzionari.
+      old_georgian: და მისცა ღმერთმან დანიელს წყალობაჲ და შეწყნარება წინაშე საჭურისთმთავარისა
+      portuguese: Ora, Deus fez com que Daniel achasse graça e misericórdia diante do
+        chefe dos eunucos.
+      polish: "Bóg zaś obdarzył Daniela przychylnością i miłosierdziem nadzorcy
+        służby\rdworskiej."
+      turkish: Tanrı saray görevlileri yöneticisinin Daniel'e sevgiyle, sevecenlikle
+        davranmasını sağladı.
+      Macarius: И дал Бог Даниилу снискать любовь и милость у начальника евнухов.
+      bulgarian: Бог даде на Даниила милост и благосклонност у началника на скопците;
+      deutsch: Und Gott gab Daniel, daß ihm der oberste Kämmerer günstig und gnädig
+        ward.
+      ukr2: Бог зіслав Даниїлові ласкавість та прихильність з боку старшого над
+        скопцями,
+      ukr3: А дав Бог Даниїлові ласку й прихильність у старшого над скопцями;
+      bel_syomukha: Бог даў Даніілу ласку і добрую прыхільнасьць начальніка еўнухаў;
+      Olesn: И дал Бог Даниила в милость и благоволение пред начальником евнухов.
+      lev-khv: И даровал Бог Даниилу милость и благоволение начальника царедворцев.
+      czech: A Buh dal Danielovi dojit u velitele dvoranu milosrdenstvi a slitovani.
+      spanish: Hizo Dios que hallase Daniel gracia y favor ante el jefe de los eunucos;
+      greek-lxx: καὶ ἔδωκε Κύριος τῷ Δανιηλ τιμὴν καὶ χάριν ἐναντίον τοῦ ἀρχιευνούχου
+      greek-theodotion: καὶ ἔδωκεν ὁ Θεὸς τὸν Δανιηλ εἰς ἔλεον καὶ εἰς οἰκτιρμὸν
+        ἐνώπιον τοῦ ἀρχιευνούχου
+      st_text: Бог даровал Даниилу милость и благорасположение начальника евнухов;
+  - id: 12489
+    number: 10
+    bookId: 34
+    text: "и начальник евнухов сказал Даниилу: боюсь я господина моего, царя,
+      который сам назначил вам пищу и питье; если он увидит лица ваши худощавее,
+      нежели у отроков, сверстников ваших, то вы сделаете голову мою виновною
+      перед царем."
+    chapter: 1
+    chapterId: 978
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "и сказал старейшина Даниилу: Беспокоюсь [за] господина моего царя
+        распорядившегося [давать] пищу вашу и питьё ваше чтобы не он увидел лица
+        ваши нерешительными и слабыми вопреки воспитываемыми [вместе с] вами
+        юношами чужестранных и рисковал собственной шеей."
+      csya: "И рече старейшина евнухов даниилу: боюся аз господина моего царя,
+        заповедавшаго о пищи вашей и питии вашем, да не когда увидит лица ваша
+        уныла паче отроков сверстников ваших, и осудите главу мою царю."
+      averincev: ""
+      ungerov: "И сказал старейшина евнухов Даниилу: боюсь я господина моего царя,
+        который вам назначил пищу и питье, если он увидит лица ваши худощавее,
+        чем у юношей-сверстников ваших, то сделаете голову мою виновною пред
+        царем."
+      csya_old: "И# рече2 старёйшина є3vнyхwвъ даніи1лу: бою1сz ѓзъ господи1на моегw2
+        царS, заповёдавшагw њ пи1щи вaшей и3 питіи2 вaшемъ, да не когдA ўви1дитъ
+        лицA в†ша ўны6ла пaче nтрокHвъ све1рстникwвъ вaшихъ, и3 њсyдите главY
+        мою2 царю2."
+      sovr_rbo: "и тот ответил Даниилу: «Боюсь я государя моего, царя; ведь он сам
+        назначил, что вам есть и пить. А вдруг он заметит, что вы выглядите хуже
+        других мальчиков ваших лет? Придется мне тогда отвечать за вас головой
+        перед царем»."
+      latin: "Et ait princeps eunuchorum ad Danielem: Timeo ego dominum meum regem,
+        qui constituit vobis cibum et potum: qui si viderit vultus vestros
+        macilentiores prae ceteris adolescentibus coaevis vestris, condemnabitis
+        caput meum regi."
+      ukr: "І сказав начальник евнухів до Даниїла: Боюсь я свого пана царя, бо він
+        визначив вашу їжу та ваше питво. Бо коли б він побачив ваше обличчя
+        худішим, ніж у тих юнаків, що вашого віку, то ви зробите мою голову
+        винуватою перед царем."
+      nkjv: And the chief of the eunuchs said to Daniel, "I fear my lord the king, who
+        has appointed your food and drink. For why should he see your faces
+        looking worse than the young men who are your age? Then you would
+        endanger my head before the king."
+      desnitsky: ""
+      mt: ‫    וַיֹּאמֶר שַׂר הַסָּרִיסִים לְדָנִיֵּאל יָרֵא אֲנִי אֶת־אֲדֹנִי
+        הַמֶּלֶךְ אֲשֶׁר מִנָּה אֶת־מַאֲכַלְכֶם וְאֶת־מִשְׁתֵּיכֶם אֲשֶׁר לָמָּה
+        יִרְאֶה אֶת־פְּנֵיכֶם זֹעֲפִים מִן־הַיְלָדִים אֲשֶׁר כְּגִילְכֶם
+        וְחִיַּבְתֶּם אֶת־רֹאשִׁי לַמֶּלֶךְ׃ ‬
+      romana: 'Si a zis capetenia famenilor catre Daniel: "Ma tem numai de domnul meu,
+        regele, care v-a randuit mincarurile si bauturile; pentru ce sa vada el
+        mai trase chipurile voastre decat ale tinerilor celor de o varsta cu
+        voi? Voi puneti in primejdie capul meu inaintea regelui.'
+      francais: "Le chef des eunuques dit à Daniel: Je crains mon seigneur le roi, qui
+        a fixé ce que vous devez manger et boire; car pourquoi verrait-il votre
+        visage plus abattu que celui des jeunes gens de votre âge? Vous
+        exposeriez ma tête auprès du roi."
+      italian: 'Però egli disse a Daniele: "Io temo che il re mio signore, che ha
+        stabilito quello che dovete mangiare e bere, trovi le vostre facce più
+        magre di quelle degli altri giovani della vostra età e io così mi renda
+        colpevole davanti al re".'
+      old_georgian: "და ჰრქუა საჭურისთმთავარმან დანიილსა: მეშინის მე უფლისა ჩემისა
+        მეფისა, დამაწესებელისა საჭმელსა თქუენსა და სასუმელსა. ნუსადა იხილნეს
+        პირნი თქუენნი მჭმუნვარენი უფროს ყრმათა თანმოჰასაკეთა თქუენთასა და
+        დასაჯოს თავი ჩემი მეფემან."
+      portuguese: "E disse o chefe dos eunucos a Daniel: Tenho medo do meu senhor, o
+        rei, que determinou a vossa comida e a\rvossa bebida; pois veria ele os
+        vossos rostos mais abatidos do que os dos outros jovens da vossa idade?
+        Assim\rporíeis em perigo a minha cabeça para com o rei."
+      polish: "Nadzorca służby dworskiej powiedział do Daniela: ”Obawiam się, by mój
+        pan,\rkról, który przydzielił wam pożywienie i napoje, nie ujrzał, że
+        wasze twarze\rsą chudsze niż [twarze] młodzieńców w waszym wieku i
+        byście nie narazili\rmojej głowy na niebezpieczeństwo u króla”."
+      turkish: Adam Daniel'e, «Yiyecek içecek payınızı ayıran efendimiz kraldan
+        korkarım» dedi, «Eğer yüzünüzü yaşıtınız olan öbür gençlerin yüzünden
+        daha solgun görürse, başımı tehlikeye sokmuş olursunuz.»
+      Macarius: "И сказал начальник евнухов Даниилу: я боюсь государя моего, царя,
+        который сам назначил, что вам есть, и что вам пить. Ибо для чего ему
+        видеть, что лица ваши хуже, нежели у других отроков вашего возраста? и
+        вы хотите сделать голову мою виновною пред царем?"
+      bulgarian: 'и началникът на скопците каза на Даниила: "боя се от господаря си,
+        царя, който сам ви отреди храна и питие: ако той види лицата ви
+        по-мършави, отколкото у момците, ваши връстници, вие ще турите главата
+        ми в опасност пред царя".'
+      deutsch: "Derselbe sprach zu ihm: Ich fürchte mich vor meinem Herrn, dem König,
+        der euch eure Speise und Trank bestimmt hat; wo er würde sehen, daß eure
+        Angesichter jämmerlicher wären denn der andern Knaben eures Alters, so
+        brächtet ihr mich bei dem König um mein Leben."
+      ukr2: "але старший над скопцями сказав Даниїлові: «Боюсь я мого пана, царя, що
+        сам призначив для вас їжу й пиття, щоб він не побачив, що ваші обличчя
+        схудли більше, ніж у хлопців вашого віку, і щоб ви не вчинили мене
+        винним перед царем.»"
+      ukr3: "І сказав старший над сьвітличниками Даниїлові: Боюся я добродїя мого,
+        царя, що сам призначив для вас поживу й напиток: як він побачить, що
+        ваші лиця більш похудли нїж у хлопцїв вашої верстви, то ви зробите мою
+        голову винуватою перед царем."
+      bel_syomukha: 'і начальнік еўнухаў сказаў Даніілу: "баюся я гаспадара майго,
+        цара, які сам вызначыў вам ежу і пітво: калі ён убачыць вашыя твары
+        худзейшымі, чым у хлопчыкаў, вашых равесьнікаў, дык вы зробіце галаву
+        маю вінаватаю перад царом".'
+      Olesn: "И сказал начальник евнухов Даниилу: «боюсь я господина моего царя,
+        который сам назначил вам пищу и напитки и который досмотрит, отчего лица
+        ваши будут бледнее, чем мальчиков ровесников ваших; вы сделаете повинною
+        голову мою пред царем»."
+      lev-khv: "И сказал начальник царедворцев Даниилу: боюсь я государя моего, царя,
+        который сам определил кушанье ваше и питье ваше: если же он увидит лица
+        ваши худощавее, нежеди у отроков, равнолетних с вами; то вы сделаете
+        голову мою виновною пред царем."
+      czech: 'Velitel dvoranu vsak Danielovi rekl: "Bojim se krale, sveho pana, ktery
+        vam urcil pokrm a napoj. Kdyz uvidi, ze jste v tvari prepadlejsi nez
+        jinosi z vasich rad, pripravite me u krale o hlavu."'
+      spanish: "y el jefe de los eunucos dijo a Daniel: Tengo miedo de mi señor el
+        rey, que ha determinado lo que habéis de comer y beber, porque, si viere
+        vuestros rostros más macilentos que los de los mozos de vuestra edad,
+        condenaréis mi cabeza ante el rey."
+      greek-lxx: καὶ εἶπεν ὁ ἀρχιευνοῦχος τῷ Δανιηλ ἀγωνιῶ τὸν κύριόν μου τὸν βασιλέα
+        τὸν ἐκτάξαντα τὴν βρῶσιν ὑμῶν καὶ τὴν πόσιν ὑμῶν ἵνα μὴ ἴδῃ τὰ πρόσωπα
+        ὑμῶν διατετραμμένα καὶ ἀσθενῆ παρὰ τοὺς συντρεφομένους ὑμῖν νεανίας τῶν
+        ἀλλογενῶν καὶ κινδυνεύσω τῷ ἰδίῳ τραχήλῳ
+      greek-theodotion: καὶ εἶπεν ὁ ἀρχιευνοῦχος τῷ Δανιηλ φοβοῦμαι ἐγὼ τὸν κύριόν μου
+        τὸν βασιλέα τὸν ἐκτάξαντα τὴν βρῶσιν ὑμῶν καὶ τὴν πόσιν ὑμῶν μήποτε ἴδῃ
+        τὰ πρόσωπα ὑμῶν σκυθρωπὰ παρὰ τὰ παιδάρια τὰ συνήλικα ὑμῶν καὶ
+        καταδικάσητε τὴν κεφαλήν μου τῷ βασιλεῖ
+      st_text: "и начальник евнухов сказал Даниилу: боюсь я господина моего, царя,
+        который сам назначил вам пищу и питье; если он увидит лица ваши
+        худощавее, нежели у отроков, сверстников ваших, то вы сделаете голову
+        мою виновною перед царем."
+  - id: 12490
+    number: 11
+    bookId: 34
+    text: "Тогда сказал Даниил Амелсару, которого начальник евнухов приставил к
+      Даниилу, Анании, Мисаилу и Азарии:"
+    chapter: 1
+    chapterId: 978
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "И сказал Даниил Авиэсдри: Сделается явным старейшине на Данииле,
+        Анании, Мисаиле, Азарии."
+      csya: "И рече даниил ко амелсару, егоже пристави старейшина евнухов к даниилу и
+        анании, и азарии и мисаилу:"
+      averincev: ""
+      ungerov: "И сказал Даниил Амелсару, котораго старейшина евнухов приставил к
+        Даниилу, и Анании, и Азарии, и Мисаилу:"
+      csya_old: "И# рече2 даніи1лъ ко ґмелсaру, є3го1же пристaви старёйшина є3vнyхwвъ
+        къ даніи1лу и3 ґнaніи, и3 ґзaріи и3 місаи1лу:"
+      sovr_rbo: "Тогда Даниил сказал служителю, которого начальник евнухов приставил к
+        Даниилу, Анании, Мисаилу и Азарии:"
+      latin: "Et dixit Daniel ad Malasar, quem constituerat princeps eunuchorum super
+        Danielem, Ananiam, Misaelem, et Azariam:"
+      ukr: "І сказав Даниїл до старшого, якого начальник евнухів призначив над
+        Даниїлом, Ананією, Мисаїлом та Азарією:"
+      nkjv: So Daniel said to the steward whom the chief of the eunuchs had set over
+        Daniel, Hananiah, Mishael, and Azariah,
+      desnitsky: ""
+      mt: ‫    וַיֹּאמֶר דָּנִיֵּאל אֶל־הַמֶּלְצַר אֲשֶׁר מִנָּה שַׂר הַסָּרִיסִים
+        עַל־דָּנִיֵּאל חֲנַנְיָה מִישָׁאֵל וַעֲזַרְיָה׃ ‬
+      romana: "Si a grait Daniel catre supraveghetorul pe care capetenia famenilor il
+        pusese peste Daniel, Anania, Misael si Azaria:"
+      francais: "Alors Daniel dit à l'intendant à qui le chef des eunuques avait remis
+        la surveillance de Daniel, de Hanania, de Mischaël et d'Azaria:"
+      italian: "Ma Daniele disse al custode, al quale il capo dei funzionari aveva
+        affidato Daniele, Anania, Misaele e Azaria:"
+      old_georgian: "და თქუა დანიელმან ამელსადის მიმართ, რომელი დაადგინა
+        საჭურისთმთავარმან დანიილის ზედა, ანანია, მისაილ და აზარიაჲსსა:"
+      portuguese: "Então disse Daniel ao despenseiro a quem o chefe dos eunucos havia
+        posto sobre Daniel, Hananias, Misael e\rAzarias:"
+      polish: "Daniel zaś powiedział do strażnika, którego ustanowił nadzorca służby
+        dworskiej nad Danielem, Chananiaszem, Miszaelem i Azariaszem:"
+      turkish: ""
+      Macarius: "И сказал Даниил виночерпию, которого начальник евнухов приставил к
+        Даниилу, Анании, Мисаилу и Азарии:"
+      bulgarian: "Тогава Даниил рече на Амелсара, когото началникът на скопците бе
+        поставил при Даниила, Анания, Мисаила и Азария:"
+      deutsch: "Da sprach Daniel zu dem Aufseher, welchem der oberste Kämmerer Daniel,
+        Hananja, Misael und Asarja befohlen hatte:"
+      ukr2: "Тоді Даниїл сказав наглядачеві, якого старший над скопцями настановив над
+        Даниїлом, Ананією, Мисаїлом та Азарією:"
+      ukr3: "Тодї сказав Даниїл до Амелсара, що його старший над сьвітличниками
+        приставив був до Даниїла, Ананїї, Мисаїла та Азарії:"
+      bel_syomukha: "Тады сказаў Данііл Амэлсару, якога начальнік еўнухаў прыставіў да
+        Данііла, Ананіі, Місаіла і Азарыя:"
+      Olesn: "И сказал Даниил дворецкому, котораго поставил начальник евнухов над
+        Даниилом, Ананиею, Мисаилом и Азариею:"
+      lev-khv: "И сказал Даниил виночерпию, которому начальник царедворцев поручил
+        Даниила, Ананию, Мисаила и Азарию:"
+      czech: "Daniel tedy navrhl opatrovnikovi, ktereho urcil velitel dvoranu nad
+        Danielem, Chananjasem, Misaelem a Azarjasem:"
+      spanish: "Dijo entonces Daniel al cortesano a quien el jefe de los eunucos había
+        puesto para velar sobre Daniel, Ananías, Misael y Azarías:"
+      greek-lxx: καὶ εἶπεν Δανιηλ Αβιεσδρι τῷ ἀναδειχθέντι ἀρχιευνούχῳ ἐπὶ τὸν Δανιηλ
+        Ανανιαν Μισαηλ Αζαριαν
+      greek-theodotion: καὶ εἶπεν Δανιηλ πρὸς Αμελσαδ ὃν κατέστησεν ὁ ἀρχιευνοῦχος ἐπὶ
+        Δανιηλ Ανανιαν Μισαηλ Αζαριαν
+      st_text: "Тогда сказал Даниил Амелсару, которого начальник евнухов приставил к
+        Даниилу, Анании, Мисаилу и Азарии:"
+  - id: 12491
+    number: 12
+    bookId: 34
+    text: сделай опыт над рабами твоими в течение десяти дней; пусть дают нам в пищу
+      овощи и воду для питья;
+    chapter: 1
+    chapterId: 978
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Испытай поэтому рабов твоих на дней десять и будет дано нам от бобов
+        земли чтобы наесться и напиться.
+      csya: "искуси отроки твоя до десяти дний, и да дадят нам от семен земных, да
+        ядим, и воду да пием:"
+      averincev: ""
+      ungerov: "Испытай рабов твоих до десяти дней: пусть дают нам пищу из семян
+        полевых и воду для питья."
+      csya_old: "и3скуси2 џтроки тво‰ до десzти2 днjй, и3 да дадsтъ нaмъ t сёменъ
+        земны1хъ, да kди1мъ, и3 во1ду да піе1мъ:"
+      sovr_rbo: "«Прошу тебя, испытай нас, рабов твоих: пусть нам десять дней дают
+        только овощи и воду."
+      latin: "Tenta nos, obsecro, servos tuos, diebus decem, et dentur nobis legumina
+        ad vescendum, et aqua ad bibendum:"
+      ukr: Випробуй но своїх рабів десять день, і нехай дають нам із ярини, і ми
+        будемо їсти, та воду і будемо пити.
+      nkjv: '"Please test your servants for ten days, and let them give us vegetables
+        to eat and water to drink.'
+      desnitsky: ""
+      mt: ‫    נַס־נָא אֶת־עֲבָדֶיךָ יָמִים עֲשָׂרָה וְיִתְּנוּ־לָנוּ מִן־הַזֵּרֹעִים
+        וְנֹאכְלָה וּמַיִם וְנִשְׁתֶּה׃ ‬
+      romana: '"Incearca o data cu servii tai timp de zece zile si da-ne sa mancam
+        bucate din zarzavaturi si sa bem apa!'
+      francais: Éprouve tes serviteurs pendant dix jours, et qu'on nous donne des
+        légumes à manger et de l'eau à boire;
+      italian: '"Mettici alla prova per dieci giorni, dandoci da mangiare legumi e da
+        bere acqua,'
+      old_georgian: და გამოცადენ მონანი შენნი დღეთა ათთა, და მომეცემოდენ ჩუენ
+        თესლთაგან, და ვჭამდეთ და წყალსა ვსუმიდეთ.
+      portuguese: Experimenta, peço-te, os teus servos dez dias; e que se nos dêem
+        legumes a comer e água a beber.
+      polish: "”Poddaj sługi twoje dziesięciodniowej próbie: niech nam dają jarzyny do
+        jedzenia i wodę do picia."
+      turkish: Daniel, saray görevlileri yöneticisinin Hananya, Mişael, Azarya ve
+        kendisinin başına koyduğu gözeticiye gidip, «Lütfen kullarınıza on gün
+        olanak tanıyın» dedi, «Bu on gün içinde bize yemek için sebze, içmek
+        için de su verilsin.
+      Macarius: Сделай над рабами твоими опыт в течение дней десяти; пусть дают нам
+        что-нибудь из растений в пищу, а для питья воду;
+      bulgarian: '"направи опит над рабите си: нека десет дни ни дават овошки за храна
+        и вода за питие;'
+      deutsch: Versuche es doch mit deinen Knechten zehn Tage und laß uns geben Gemüse
+        zu essen und Wasser zu trinken.
+      ukr2: "«Зроби з твоїми слугами пробу протягом десятьох днів: нехай дадуть нам
+        городину на харч і воду до пиття,"
+      ukr3: "Стрібуй з нами, твоїми слугами: дозволь давати над десять день на харч
+        овощі й воду до пиття;"
+      bel_syomukha: '"зрабі выпрабаваньне рабам тваім: дзесяць дзён няхай даюць нам на
+        ежу гародніну, а піць - ваду;'
+      Olesn: «испытай пожалуйста рабов твоих дней десять; пусть дают нам овощи в пищу
+        и воду для питья;
+      lev-khv: "Сделай, пожалуйста, опыт над рабами твоими в течение дней десяти:
+        пусть дают нам есть овощи и пить воду;"
+      czech: '"Zkus to se svymi sluzebniky po deset dni. At nam davaji k jidlu
+        zeleninu a k piti vodu.'
+      spanish: Prueba, te ruego, a tus siervos por diez días, y que nos den a comer
+        legumbres y agua a beber,
+      greek-lxx: πείρασον δὴ τοὺς παῖδάς σου ἐφ᾿ ἡμέρας δέκα καὶ δοθήτω ἡμῖν ἀπὸ τῶν
+        ὀσπρίων τῆς γῆς ὥστε κάπτειν καὶ ὑδροποτεῖν
+      greek-theodotion: πείρασον δὴ τοὺς παῖδάς σου ἡμέρας δέκα καὶ δότωσαν ἡμῖν ἀπὸ
+        τῶν σπερμάτων καὶ φαγόμεθα καὶ ὕδωρ πιόμεθα
+      st_text: сделай опыт над рабами твоими в течение десяти дней; пусть дают нам в
+        пищу овощи и воду для питья;
+  - id: 12492
+    number: 13
+    bookId: 34
+    text: и потом пусть явятся перед тобою лица наши и лица тех отроков, которые
+      питаются царскою пищею, и затем поступай с рабами твоими, как увидишь.
+    chapter: 1
+    chapterId: 978
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И если было явлено лицо наше нерешительнее против других юношей едящих
+        от царственной еды как если хочешь так воспользуйся рабами твоими.
+      csya: и да явятся пред тобою лица наша и лица отроков ядущих от трапезы царевы,
+        и якоже узриши, сотвори со отроки твоими.
+      averincev: ""
+      ungerov: И пусть явятся пред тобою лица наши и лица юношей, питающихся от
+        царскаго стола, и как увидишь, так и поступи с отроками твоими.
+      csya_old: и3 да kвsтсz пред8 тобо1ю ли1ца н†ша и3 ли1ца nтрокHвъ kдyщихъ t
+        трапе1зы царе1вы, и3 ћкоже ќзриши, сотвори2 со џтрwки твои1ми.
+      sovr_rbo: А потом ты посмотришь, как выглядим мы и как — мальчики, которые ели с
+        царского стола. Посмотришь — и поступай с нами, рабами твоими, как
+        сочтешь нужным».
+      latin: "et contemplare vultus nostros, et vultus puerorum, qui vescuntur cibo
+        regio: et sicut videris, facies cum servis tuis."
+      ukr: І нехай з'являться перед тобою наші обличчя та обличчя тих юнаків, що їдять
+        царську їжу, і згідно з тим, що побачиш, зроби зо своїми рабами.
+      nkjv: "Then let our appearance be examined before you, and the appearance of the
+        young men who eat the portion of the king's delicacies; and as you see
+        fit, so deal with your servants.\" "
+      desnitsky: ""
+      mt: ‫    וְיֵרָאוּ לְפָנֶיךָ מַרְאֵינוּ וּמַרְאֵה הַיְלָדִים הָאֹכְלִים אֵת
+        פַּתְבַּג הַמֶּלֶךְ וְכַאֲשֶׁר תִּרְאֵה עֲשֵׂה עִם־עֲבָדֶיךָ׃ ‬
+      romana: Apoi sa te uiti la chipurile noastre si la chipul tinerilor care mananca
+        din bucatele regelui si cum ti se va parea, asa fa cu supusii tai!"
+      francais: tu regarderas ensuite notre visage et celui des jeunes gens
+        qui  mangent les mets du roi, et tu agiras avec tes serviteurs d'après
+        ce que tu auras vu.
+      italian: poi si confrontino, alla tua presenza, le nostre facce con quelle dei
+        giovani che mangiano le vivande del re; quindi deciderai di fare con noi
+        tuoi servi come avrai constatato".
+      old_georgian: და იხილნედ წინაშე შენსა სახენი ჩუენნი, და სახენი ყრმათა მჭამელთანი
+        ტაბლასა მეფისასა, და ვითარსახედცა იხილო, ქმენ ყრმათა შენთა თანა.
+      portuguese: "Então se examine na tua presença o nosso semblante e o dos jovens
+        que comem das iguarias reais; e conforme\rvires procederás para com os
+        teus servos."
+      polish: "Wtedy zobaczysz, jak my wyglądamy, a jak wyglądają młodzieńcy
+        jedzący\rpotrawy królewskie i postąpisz ze swoimi sługami według tego,
+        co widziałeś”."
+      turkish: "Sonra yüzlerimizi kralın yemeklerini yiyen öbür gençlerin\ryüzleriyle
+        kıyaslayın ve kullarınıza gördüğünüze göre davranın.»"
+      Macarius: И тогда посмотри на лица наши, и на лица тех отроков, которые будут
+        есть кушанье царское; и что усмотришь, так и поступи с рабами твоими.
+      bulgarian: и после нека се явят пред тебе нашите лица и лицата на ония момци,
+        които се хранят от царската храна, и след това постъпвай с рабите си,
+        според както видиш".
+      deutsch: Und laß dann vor dir unsre Gestalt und der Knaben, so von des Königs
+        Speise essen, besehen; und darnach du sehen wirst, darnach schaffe mit
+        deinen Knechten.
+      ukr2: і нехай потім з'являться перед тобою наші обличчя та обличчя хлопців, що
+        їдять царський харч, і тоді роби з твоїми слугами, як забажаєш.»
+      ukr3: І нехай потім з'являться перед тобою наші лиця і лиця тих хлопцїв, що
+        живляться царською стравою, а тодї роби з твоїми слугами, як завважиш.
+      bel_syomukha: і потым няхай явяцца перад табою нашыя твары і твары тых
+        хлопчыкаў, якія кормяцца царскаю ежаю, і потым рабі з тваімі рабамі, як
+        убачыш".
+      Olesn: затем будут видны пред тобою лица наши вместе с лицами мальчиков, ядущих
+        изысканныя блюда царския, и, смотря потому чтó увидишь, поступай с
+        рабами твоими».
+      lev-khv: И потом пусть явятся пред тобою лица наши и лица тех отроков, которые
+        едят царское кушанье; и затем поступай с рабами по своему
+        благоусмотрению.
+      czech: Potom porovnas vzhled nas a vzhled jinochu, kteri jedli kralovske
+        lahudky, a ucin se svymi sluzebniky podle toho, co uvidis."
+      spanish: y compara luego nuestros rostros con los de los mozos que comen los
+        manjares del rey, y haz después con tus siervos según veas.
+      greek-lxx: καὶ ἐὰν φανῇ ἡ ὄψις ἡμῶν διατετραμμένη παρὰ τοὺς ἄλλους νεανίσκους
+        τοὺς ἐσθίοντας ἀπὸ τοῦ βασιλικοῦ δείπνου καθὼς ἐὰν θέλῃς οὕτω χρῆσαι
+        τοῖς παισί σου
+      greek-theodotion: καὶ ὀφθήτωσαν ἐνώπιόν σου αἱ ἰδέαι ἡμῶν καὶ αἱ ἰδέαι τῶν
+        παιδαρίων τῶν ἐσθιόντων τὴν τράπεζαν τοῦ βασιλέως καὶ καθὼς ἂν ἴδῃς
+        ποίησον μετὰ τῶν παίδων σου
+      st_text: и потом пусть явятся перед тобою лица наши и лица тех отроков, которые
+        питаются царскою пищею, и затем поступай с рабами твоими, как увидишь.
+  - id: 12493
+    number: 14
+    bookId: 34
+    text: Он послушался их в этом и испытывал их десять дней.
+    chapter: 1
+    chapterId: 978
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И воспользовался [для] них образом этим и испытал их дней десять.
+      csya: И послуша их и искуси я до десяти дний.
+      averincev: ""
+      ungerov: И послушал их и испытывал их до десяти дней.
+      csya_old: И# послyша и5хъ и3 и3скуси2 | до десzти2 днjй.
+      sovr_rbo: Тот согласился и дал им десять дней на испытание.
+      latin: Qui, audito sermone hujuscemodi, tentavit eos diebus decem.
+      ukr: І той послухався їх у цьому, і випробовував їх десять день.
+      nkjv: So he consented with them in this matter, and tested them ten days.
+      desnitsky: ""
+      mt: ‫    וַיִּשְׁמַע לָהֶם לַדָּבָר הַזֶּה וַיְנַסֵּם יָמִים עֲשָׂרָה׃ ‬
+      romana: Atunci el le-a ascultat aceasta rugaminte si a incercat timp de zece
+        zile.
+      francais: Il leur accorda ce qu'ils demandaient, et les éprouva pendant dix jours.
+      italian: Egli acconsentì e fece la prova per dieci giorni;
+      old_georgian: და ისმინა მათი სიტყჳსა ამისებრ და გამოცადნა იგინი ათთა დღეთა შინა.
+      portuguese: Assim ele lhes atendeu o pedido, e os experimentou dez dias.
+      polish: Przystał na to żądanie i poddał ich dziesięciodniowej próbie.
+      turkish: Gözetici bu isteği kabul etti ve onlara on gün deneme fırsatı verdi.
+      Macarius: Он послушал их в сем случае, и делал над ними опыт дней десять.
+      bulgarian: Той ги послуша в това и направи опит с тях десет дена.
+      deutsch: Und er gehorchte ihnen darin und versuchte es mit ihnen zehn Tage.
+      ukr2: Він послухав їх у тому й випробував їх десять день;
+      ukr3: Він послухав їх у тому і витрібовував їх десять день.
+      bel_syomukha: Той паслухаўся іх у гэтым і выпрабоўваў іх дзесяць дзён.
+      Olesn: И послушал их на этом слове и испытывал их дней десять.
+      lev-khv: Он послушался их на этом <i>условии</i> и производил над ними опыт дней
+        десять.
+      czech: Opatrovnik je v te veci vyslysel a zkusil to s nimi po deset dni.
+      spanish: Concedióles lo que le pedían y los probó por diez días,
+      greek-lxx: καὶ ἐχρήσατο αὐτοῖς τὸν τρόπον τοῦτον καὶ ἐπείρασεν αὐτοὺς ἡμέρας δέκα
+      greek-theodotion: καὶ εἰσήκουσεν αὐτῶν καὶ ἐπείρασεν αὐτοὺς ἡμέρας δέκα
+      st_text: Он послушался их в этом и испытывал их десять дней.
+  - id: 12494
+    number: 15
+    bookId: 34
+    text: По истечении же десяти дней лица их оказались красивее, и телом они были
+      полнее всех тех отроков, которые питались царскими яствами.
+    chapter: 1
+    chapterId: 978
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: После же десяти дней был явлен внешний вид их хороший и состояние тела
+        лучше других юношей [из] едящих царскую еду.
+      csya: По скончании же десятих дний, явишася лица их блага и крепка плотию паче
+        отроков ядущих от трапезы царевы.
+      averincev: ""
+      ungerov: По окончании же десяти дней, лица их оказались красивее и телом крепче
+        тех отроков, которые ели с царскаго стола.
+      csya_old: По скончaніи же десzти1хъ днjй, kви1шасz ли1ца и4хъ бл†га и3 крBпка
+        пло1тію пaче nтрокHвъ kдyщихъ t трапе1зы царе1вы.
+      sovr_rbo: А через десять дней оказалось, что они выглядят лучше и здоровее всех
+        мальчиков, которые ели с царского стола.
+      latin: Post dies autem decem, apparuerunt vultus eorum meliores, et
+        corpulentiores prae omnibus pueris, qui vescebantur cibo regio.
+      ukr: А по десяти днях їхній вигляд виявився кращим, і вони були здоровіші на
+        тілі, аніж усі ті юнаки, що їли царську їжу.
+      nkjv: "And at the end of ten days their features appeared better and fatter in
+        flesh than all the young men who ate the portion of the king's
+        delicacies. "
+      desnitsky: ""
+      mt: ‫    וּמִקְצָת יָמִים עֲשָׂרָה נִרְאָה מַרְאֵיהֶם טוֹב וּבְרִיאֵי בָּשָׂר
+        מִן־כָּל־הַיְלָדִים הָאֹכְלִים אֵת פַּתְבַּג הַמֶּלֶךְ׃ ‬
+      romana: Si dupa un rastimp de zece zile, ei aratau mai frumosi si mai grasi la
+        trup decat toii tinerii care mancau din bucatele regelui.
+      francais: Au bout de dix jours, ils avaient meilleur visage et plus d'embonpoint
+        que tous les jeunes gens qui mangeaient les mets du roi.
+      italian: terminati questi, si vide che le loro facce erano più belle e più
+        floride di quelle di tutti gli altri giovani che mangiavano le vivande
+        del re.
+      old_georgian: და შემდგომად დასრულებისა ათთა დღეთასა იხილვნეს სახენი მათნი
+        კეთილებ და ძლიერებ ჴორცნი უფროს ყოველთა მჭამელთასა ტაბლასა მეფისასა.
+      portuguese: "E, ao fim dos dez dias, apareceram os seus semblantes melhores, e
+        eles estavam mais gordos do que todos os\rjovens que comiam das iguarias
+        reais."
+      polish: A po upływie dziesięciu dni wygląd ich był lepszy i zdrowszy niż innych
+        młodzieńców, którzy spożywali potrawy królewskie.
+      turkish: On gün sonra dört genç kralın yemeklerini yiyen öbür gençlerin
+        hepsinden daha sağlıklı, daha iyi beslenmiş görünüyordu.
+      Macarius: По истечении десяти дней оказалось, что лица их были лучше, и телом
+        они были полнее всех отроков, которые ели кушанье царское.
+      bulgarian: Подир десетте дена лицата им се показаха по-хубави, и по тяло бяха
+        по-пълни от всички ония момци, които се хранеха с царски ястия.
+      deutsch: Und nach den zehn Tagen waren sie schöner und besser bei Leibe denn
+        alle Knaben, so von des Königs Speise aßen.
+      ukr2: при кінці ж десятьох днів обличчя в них покращали та й тілом вони
+        поповнішали супроти всіх тих хлопців, що їли царський харч.
+      ukr3: І ось, через десять день лиця в них стали кращі, та й тїлом були вони
+        повнїйші за всїх тих хлопцїв, що живились царськими стравами.
+      bel_syomukha: А як прайшло дзесяць дзён, твары іх былі прыгажэйшыя, і зь цела
+        яны былі здаравейшыя за ўсіх тых хлопчыкаў, якія карміліся царскімі
+        прысмакамі.
+      Olesn: По прошествии десяти дней лица их оказались красивее и плотнее, всех
+        мальчиков, евшихь изысканныя блюда царския.
+      lev-khv: По истечении же десяти дней они оказалис видом своим красивее и телом
+        полнее всех тех отроков, которые питались царскими яствами;
+      czech: Po uplynuti deseti dnu se ukazalo, ze jejich vzhled je lepsi; byli
+        statnejsi nez ostatni jinosi, kteri jedli kralovske lahudky.
+      spanish: al cabo de los cuales tenían mejor aspecto y estaban más metidos en
+        carnes que los mozos que comían los manjares del rey.
+      greek-lxx: μετὰ δὲ τὰς δέκα ἡμέρας ἐφάνη ἡ ὄψις αὐτῶν καλὴ καὶ ἡ ἕξις τοῦ
+        σώματος κρείσσων τῶν ἄλλων νεανίσκων τῶν ἐσθιόντων τὸ βασιλικὸν δεῖπνον
+      greek-theodotion: καὶ μετὰ τὸ τέλος τῶν δέκα ἡμερῶν ὡράθησαν αἱ ἰδέαι αὐτῶν
+        ἀγαθαὶ καὶ ἰσχυραὶ ταῖς σαρξὶν ὑπὲρ τὰ παιδάρια τὰ ἐσθίοντα τὴν τράπεζαν
+        τοῦ βασιλέως
+      st_text: По истечении же десяти дней лица их оказались красивее, и телом они
+        были полнее всех тех отроков, которые питались царскими яствами.
+  - id: 12495
+    number: 16
+    bookId: 34
+    text: Тогда Амелсар брал их кушанье и вино для питья и давал им овощи.
+    chapter: 1
+    chapterId: 978
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И было Авиэсдри брал еду их и вино их и давал им от бобов.
+      csya: И бысть амелсар отъемля яди их и вино пития их и даяше им семена.
+      averincev: ""
+      ungerov: Тогда Амелсар удалил кушанье их и вино для питья и давал им семена.
+      csya_old: И# бы1сть ґмелсaръ tе1млz ћди и4хъ и3 віно2 питіS и4хъ и3 даsше и5мъ
+        сёмена.
+      sovr_rbo: С тех пор служитель забирал предназначенные для них кушанья и вино, а
+        им давал одни овощи.
+      latin: "Porro Malasar tollebat cibaria, et vinum potus eorum: dabatque eis
+        legumina."
+      ukr: І цей старший відносив їхню їжу та вино їхнього пиття, а давав їм ярину.
+      nkjv: Thus the steward took away their portion of delicacies and the wine that
+        they were to drink, and gave them vegetables.
+      desnitsky: ""
+      mt: ‫    וַיְהִי הַמֶּלְצַר נֹשֵׂא אֶת־פַּתְבָּגָם וְיֵין מִשְׁתֵּיהֶם וְנֹתֵן
+        לָהֶם זֵרְעֹנִים׃ ‬
+      romana: Atunci supraveghetorul le-a inlocuit mancarea lor si vinul - bautura dor
+        - si le-a dat mancaruri de legume.
+      francais: L'intendant emportait les mets et le vin qui leur étaient destinés, et
+        il leur donnait des légumes.
+      italian: D'allora in poi il sovrintendente fece togliere l'assegnazione delle
+        vivande e del vino e diede loro soltanto legumi.
+      old_georgian: და იყო ამელსად აღმღებელი სერისა მათისა და ღჳნისა სასუმელისა
+        მათისაჲ, და მისცემდა მათ თესლთა, და ყრმათა ოთხთა.
+      portuguese: Pelo que o despenseiro lhes tirou as iguarias e o vinho que deviam
+        beber, e lhes dava legumes.
+      polish: Strażnik zabierał więc ich potrawy i wino do picia, a podawał im jarzyny.
+      turkish: Böylece gözetici o günden sonra kralın gençler için ayırdığı yemekle
+        şarabı kaldırdı ve onlara sebze vermeyi sürdürdü.
+      Macarius: С того времени виночерпий отложил яства их и вино, назначенное им для
+        питья, и давал им пищу из растений.
+      bulgarian: Тогава Амелсар взимаше тяхното ястие и виното за пиене и даваше им
+        овошки.
+      deutsch: Da tat der Aufseher ihre verordnete Speise und Trank weg und gab ihnen
+        Gemüse.
+      ukr2: Отак наглядач брав їхній харч і вино, що вони мали пити, і давав їм
+        городину.
+      ukr3: Тодї Амелсар брав їх страви й вино до пиття, а їм давав овощі.
+      bel_syomukha: Тады Амэлсар забіраў іхнюю ежу і віно на пітво, а даваў ім гародніну.
+      Olesn: С того времени дворецкий забирал изысканныя блюда их и вино назначенное
+        для употребления их и давал им овощи.
+      lev-khv: И потому виночерпий уносил от них мясное кушанье и вино, отпускаемое им
+        для питья, и давал им овощи.
+      czech: Opatrovnik tedy odnasel jejich lahudky a vino, ktere meli pit, a daval
+        jim zeleninu.
+      spanish: El cortesano se llevaba sus manjares y su vino y les daba legumbres.
+      greek-lxx: καὶ ἦν Αβιεσδρι ἀναιρούμενος τὸ δεῖπνον αὐτῶν καὶ τὸν οἶνον αὐτῶν καὶ
+        ἀντεδίδου αὐτοῖς ἀπὸ τῶν ὀσπρίων
+      greek-theodotion: καὶ ἐγένετο Αμελσαδ ἀναιρούμενος τὸ δεῖπνον αὐτῶν καὶ τὸν
+        οἶνον τοῦ πόματος αὐτῶν καὶ ἐδίδου αὐτοῖς σπέρματα
+      st_text: Тогда Амелсар брал их кушанье и вино для питья и давал им овощи.
+  - id: 12496
+    number: 17
+    bookId: 34
+    text: И даровал Бог четырем сим отрокам знание и разумение всякой книги и
+      мудрости, а Даниилу еще даровал разуметь и всякие видения и сны.
+    chapter: 1
+    chapterId: 978
+    parallels:
+      - verseId: 10714
+        bookId: 1
+        bookCode: bytie
+        chapter: 40
+        short: Быт:40:12
+      - verseId: 10715
+        bookId: 1
+        bookCode: bytie
+        chapter: 40
+        short: Быт:40:13
+      - verseId: 10753
+        bookId: 1
+        bookCode: bytie
+        chapter: 41
+        short: Быт:41:28
+      - verseId: 10754
+        bookId: 1
+        bookCode: bytie
+        chapter: 41
+        short: Быт:41:29
+      - verseId: 12711
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 2
+        short: Дан:2:26
+      - verseId: 12849
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 4
+        short: Дан:4:15
+    translates:
+      kassian: ""
+      podstr: И юношам дал Господь умение и понимание и рассудительность во всей
+        грамоте, ремесле и Даниилу дал понимание во всяком слове и видении и
+        сновидениях и во всякой мудрости.
+      csya: "И четырем отроком сим им даде им Бог смысл и мудрость во всяцей книжней
+        премудрости: даниил же разумен бысть во всяцем видении и сониих."
+      averincev: ""
+      ungerov: И четырем сим отрокам Господь даровал знание и понимание всякой книжной
+        мудрости, а Даниил разумел всякое видение и сны.
+      csya_old: "И# четы1ремъ nтрокHмъ си6мъ и5мъ даде2 и5мъ бг7ъ смы1слъ и3 мyдрость
+        во всsцэй кни1жнэй премyдрости: даніи1лъ же разyменъ бы1сть во всsцэмъ
+        видёніи и3 со1ніихъ."
+      sovr_rbo: Бог даровал этим четырем мальчикам мудрость, знание и способности ко
+        всем наукам, а Даниилу — также и искусство толковать всякого рода
+        видения и сны.
+      latin: "Pueris autem his dedit Deus scientiam et disciplinam, in omni libro et
+        sapientia: Danieli autem intelligentiam omnium visionum et somniorum."
+      ukr: А ці четверо юнаків, дав їм Бог пізнання та розуміння в кожній книжці та
+        мудрості, а Даниїл розумівся на всякому видінні та снах.
+      nkjv: As for these four young men, God gave them knowledge and skill in all
+        literature and wisdom; and Daniel had understanding in all visions and
+        dreams.
+      desnitsky: ""
+      mt: ‫    וְהַיְלָדִים הָאֵלֶּה אַרְבַּעְתָּם נָתַן לָהֶם הָאֱלֹהִים מַדָּע
+        וְהַשְׂכֵּל בְּכָל־סֵפֶר וְחָכְמָה וְדָנִיֵּאל הֵבִין בְּכָל־חָזוֹן
+        וַחֲלֹמוֹת׃ ‬
+      romana: Si acestor patru tineri le-a dat Dumnezeu stiinta si pricepere in
+        oricare scriere, precum si intelepciune, incat Daniel putea sa
+        talcuiasca vedeniile si visele.
+      francais: Dieu accorda à ces quatre jeunes gens de la science, de l'intelligence
+        dans toutes les lettres, et de la sagesse; et Daniel expliquait toutes
+        les visions et tous les songes.
+      italian: Dio concesse a questi quattro giovani di conoscere e comprendere ogni
+        scrittura e ogni sapienza e rese Daniele interprete di visioni e di
+        sogni.
+      old_georgian: მისცა მათ ღმერთმან გულისხმის-ყოფაჲ და ცნობაჲ ყოველსა შინა
+        ღრამმატიკოსობასა და სიბრძნესა. და დანიილ შეატყუებდა ყოველსა შორის
+        ხილვასა და ძილისშორისსა.
+      portuguese: "Ora, quanto a estes quatro jovens, Deus lhes deu o conhecimento e a
+        inteligência em todas as letras e em toda a\rsabedoria; e Daniel era
+        entendido em todas as visões e todos os sonhos."
+      polish: Dał zaś Bóg tym czterem młodzieńcom wiedzę i umiejętność wszelkiego
+        pisma oraz mądrość. Daniel posiadał rozeznanie wszelkich widzeń i snów.
+      turkish: Tanrı bu dört gence her konuda bilgi, beceri, bilgelik verdi. Daniel
+        her çeşit görümü ve düşü yorumlayabiliyordu.
+      Macarius: И дал Бог четырем сим отрокам разум и понятливость на всякие книги и
+        учения мудрости; а Даниил сверх того разумел всякие видения и сны.
+      bulgarian: И дарува Бог на четиримата тия момци знание и разбиране всяка книга и
+        мъдрост, а на Даниила дарува още да разбира и всякакви видения и сънища.
+      deutsch: Aber diesen vier Knaben gab Gott Kunst und Verstand in allerlei Schrift
+        und Weisheit; Daniel aber gab er Verstand in allen Gesichten und
+        Träumen.
+      ukr2: Щождо цих чотирьох хлопців, то Бог дав їм знання й розуміння всякого
+        письма та мудрости; а Даниїл мав до того ще й дар розуміти всякі видіння
+        і сни.
+      ukr3: І дав Бог сим чотирьом хлопцям знаннє і второпність усякої книжньої науки
+        й мудрість, а Даниїлові надїлив надто дар, розуміти усякі видива й сни.
+      bel_syomukha: І даў Бог чатыром гэтым падлеткам веданьне і разуменьне ўсякай
+        кнігі і мудрасьці, а Даніілу яшчэ даў разумець і ўсякія ўявы і сны.
+      Olesn: Между тем мальчикам этим, всем им четырем Бог дал знание и понимание
+        всякой науки и мудрости, а Даниил знал смысл и во всяком видении и снах.
+      lev-khv: И даровал Бог четырем сим отрокам знание и разумение всяких книг и
+        мудрости, а Даниил разумел еще и всякия видения и сны.
+      czech: A Buh dal tem ctyrem jinochum vedeni a zbehlost ve veskerem pisemnictvi a
+        moudrosti. Danielovi dal nadto porozumet vsem videnim a snum.
+      spanish: Otorgó Dios a los cuatro mancebos sabiduría y entendimiento en todas
+        las letras y ciencias, y Daniel interpretaba toda visión o sueño.
+      greek-lxx: καὶ τοῖς νεανίσκοις ἔδωκεν ὁ Κύριος ἐπιστήμην καὶ σύνεσιν καὶ
+        φρόνησιν ἐν πάσῃ γραμματικῇ τέχνῃ καὶ τῷ Δανιηλ ἔδωκε σύνεσιν ἐν παντὶ
+        ῥήματι καὶ ὁράματι καὶ ἐνυπνίοις καὶ ἐν πάσῃ σοφίᾳ
+      greek-theodotion: καὶ τὰ παιδάρια ταῦτα οἱ τέσσαρες αὐτοί ἔδωκεν αὐτοῖς ὁ Θεὸς
+        σύνεσιν καὶ φρόνησιν ἐν πάσῃ γραμματικῇ καὶ σοφίᾳ καὶ Δανιηλ συνῆκεν ἐν
+        πάσῃ ὁράσει καὶ ἐνυπνίοις
+      st_text: И даровал Бог четырем сим отрокам знание и разумение всякой книги и
+        мудрости, а Даниилу еще даровал разуметь и всякие видения и сны.
+  - id: 12497
+    number: 18
+    bookId: 34
+    text: По окончании тех дней, когда царь приказал представить их, начальник
+      евнухов представил их Навуходоносору.
+    chapter: 1
+    chapterId: 978
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: После же дней этих приказал царь ввести их и были введены от старейшины
+        к царю Навуходоносору.
+      csya: И по скончании тех дний, в няже рече царь привести я, введе я старейшина
+        евнухов пред навуходоносора.
+      averincev: ""
+      ungerov: И по окончании тех дней, в которые царь велел привести их, привел их
+        старейшина евнухов к Навуходоносору.
+      csya_old: И# по скончaніи тёхъ днjй, въ нsже рече2 цaрь привести2 |, введе2 |
+        старёйшина є3vнyхwвъ пред8 навуходоно1сора.
+      sovr_rbo: Настал срок, назначенный царем, и начальник евнухов привел мальчиков к
+        Навуходоносору.
+      latin: Completis itaque diebus, post quos dixerat rex ut introducerentur,
+        introduxit eos praepositus eunuchorum in conspectu Nabuchodonosor.
+      ukr: А на кінець тих днів, коли цар сказав привести їх, то начальник евнухів
+        привів їх перед обличчя Навуходоносорове.
+      nkjv: Now at the end of the days, when the king had said that they should be
+        brought in, the chief of the eunuchs brought them in before
+        Nebuchadnezzar.
+      desnitsky: ""
+      mt: ‫    וּלְמִקְצָת הַיָּמִים אֲשֶׁר־אָמַר הַמֶּלֶךְ לַהֲבִיאָם וַיְבִיאֵם שַׂר
+        הַסָּרִיסִים לִפְנֵי נְבֻכַדְנֶצַּר׃ ‬
+      romana: Si dupa acel rastimp hotarat de rege ca sa-i aduca, i-a infatisat
+        capetenia famenilor inaintea lui Nabucodonosor.
+      francais: Au terme fixé par le roi pour qu'on les lui amenât, le chef des
+        eunuques les présenta à Nebucadnetsar.
+      italian: Terminato il tempo stabilito dal re entro il quale i giovani dovevano
+        essergli presentati, il capo dei funzionari li portò a Nabucodònosor.
+      old_georgian: და შემდგომად დასრულებისა დღეთაჲსა, რომელნი თქუნა მეფემან
+        შესაყვანებელად მათდა, და შეიყვანნა იგინი საჭურისთმთავარმან წინაშე
+        ნაბუქოდონოსორისსა,
+      portuguese: "E ao fim dos dias, depois dos quais o rei tinha ordenado que fossem
+        apresentados, o chefe dos eunucos os\rapresentou diante de
+        Nabucodonosor."
+      polish: "Gdy minął okres ustalony przez króla, by ich przedstawić, nadzorca
+        służby\rdworskiej wprowadził ich przed Nabuchodonozora."
+      turkish: Kralın belirlediği süre tamamlanınca, saray görevlileri yöneticisi
+        gençleri Nebukadnessar'a götürdü.
+      Macarius: По прошествии времени, в которое назначил царь представить их,
+        начальник евнухов привел их к Невухаднецару.
+      bulgarian: След свършека на дните, когато царят бе заповядал да ги представят,
+        началникът на скопците ги представи на Навуходоносора.
+      deutsch: Und da die Zeit um war, die der König bestimmt hatte, daß sie sollten
+        hineingebracht werden, brachte sie der oberste Kämmerer hinein vor
+        Nebukadnezar.
+      ukr2: Як минув той час, що цар призначив був, аби їх привели до нього, старший
+        над скопцями появив їх Навуходоносорові.
+      ukr3: Як минув той час, що царь призначив, коли б їх поприводити, старший над
+        скопцями увів їх перед Навуходонозора.
+      bel_syomukha: Як мінуліся тыя дні, калі цар загадаў прывесьці іх, начальнік
+        еўнухаў прывёў іх да Навухаданосара.
+      Olesn: И по прошествии времени, к которому назначил царь привести их, начальник
+        евнухов привел их пред Навуходоносора.
+      lev-khv: По исполнении же времени, которое царь назначил для представления их,
+        начальник царедворцев представил их Навуходоносору.
+      czech: Po uplynuti doby, kdy podle kralova narizeni meli byt predvedeni, privedl
+        je velitel dvoranu pred Nebukadnesara.
+      spanish: Pasados los días al cabo de los cuales había mandado el rey que se los
+        llevasen, el jefe de los eunucos se los presentó a Nabucodonosor.
+      greek-lxx: μετὰ δὲ τὰς ἡμέρας ταύτας ἐπέταξεν ὁ βασιλεὺς εἰσαγαγεῖν αὐτούς καὶ
+        εἰσήχθησαν ἀπὸ τοῦ ἀρχιευνούχου πρὸς τὸν βασιλέα Ναβουχοδονοσορ
+      greek-theodotion: καὶ μετὰ τὸ τέλος τῶν ἡμερῶν ὧν εἶπεν ὁ βασιλεὺς εἰσαγαγεῖν
+        αὐτούς καὶ εἰσήγαγεν αὐτοὺς ὁ ἀρχιευνοῦχος ἐναντίον Ναβουχοδονοσορ
+      st_text: По окончании тех дней, когда царь приказал представить их, начальник
+        евнухов представил их Навуходоносору.
+  - id: 12498
+    number: 19
+    bookId: 34
+    text: И царь говорил с ними, и из всех [<i>отроков</i>] не нашлось подобных
+      Даниилу, Анании, Мисаилу и Азарии, и стали они служить пред царем.
+    chapter: 1
+    chapterId: 978
+    parallels:
+      - verseId: 17177
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 28
+        short: Иез:28:3
+    translates:
+      kassian: ""
+      podstr: И беседовал [с] ними царь и не были найдены в мудрых подобные Даниилу и
+        Анании и Мисаилу и Азарии и были к царю.
+      csya: "И беседова с ними царь, и не обретошася от всех их подобни даниилу и
+        анании, и азарии и мисаилу: и сташа пред царем."
+      averincev: ""
+      ungerov: И беседовал с ними царь, и из всех их не нашлось подобных Даниилу, и
+        Анании, и Азарии, и Мисаилу, и они стали (служить) пред царем.
+      csya_old: "И# бесёдова съ ни1ми цaрь, и3 не њбрэто1шасz t всёхъ и4хъ подо1бни
+        даніи1лу и3 ґнaніи, и3 ґзaріи и3 місаи1лу: и3 стaша пред8 царе1мъ."
+      sovr_rbo: Царь поговорил с ними, и оказалось, что никто из мальчиков не
+        сравнится с Даниилом, Ананией, Мисаилом и Азарией — их и приставили к
+        царской службе.
+      latin: "Cumque eis locutus fuisset rex, non sunt inventi tales de universis, ut
+        Daniel, Ananias, Misael, et Azarias: et steterunt in conspectu regis."
+      ukr: І цар розмовляв з ними, і зо всіх них жоден не був знайдений таким, як
+        Даниїл, Ананія, Мисаїл та Азарія. І вони ставали перед царським
+        обличчям.
+      nkjv: Then the king interviewed them, and among them all none was found like
+        Daniel, Hananiah, Mishael, and Azariah; therefore they served before the
+        king.
+      desnitsky: ""
+      mt: ‫    וַיְדַבֵּר אִתָּם הַמֶּלֶךְ וְלֹא נִמְצָא מִכֻּלָּם כְּדָנִיֵּאל
+        חֲנַנְיָה מִישָׁאֵל וַעֲזַרְיָה וַיַּעַמְדוּ לִפְנֵי הַמֶּלֶךְ׃ ‬
+      romana: Si a grait regele cu ei, dar n-a aflat pe nimeni printre ei toti ca pe
+        Daniel, Anania, Misael si Azaria. Si ei au inceput sa slujeasca pe rege.
+      francais: Le roi s'entretint avec eux; et, parmi tous ces jeunes gens, il ne
+        s'en trouva aucun comme Daniel, Hanania, Mischaël et Azaria. Ils furent
+        donc admis au service du roi.
+      italian: Il re parlò con loro, ma fra tutti non si trovò nessuno pari a Daniele,
+        Anania, Misaele e Azaria, i quali rimasero al servizio del re;
+      old_georgian: და უბნობა-ყო მათ თანა მეფემან, და არა იპოვნეს ყოველთა მათგან
+        მსგავსნი დანიილ და ანანია და მისაილ და აზარიაჲსნი, და დადგეს წინაშე
+        მეფისა,
+      portuguese: "Então o rei conversou com eles; e entre todos eles não foram
+        achados outros tais como Daniel, Hananias,\rMisael e Azarias; por isso
+        ficaram assistindo diante do rei."
+      polish: "Król rozmawiał z nimi, i nie można było znaleźć pośród nich wszystkich
+        nikogo równego Danielowi, Chananiaszowi, Miszaelowi i Azariaszowi.
+        Zaczęli\rwięc sprawować służbę przy królu."
+      turkish: Kral onlarla görüştü; içlerinde Daniel, Hananya, Mişael, Azarya gibisi
+        yoktu. Bu yüzden kralın hizmetine onlar atandı.
+      Macarius: Царь разговаривал с ними, и из всех их не нашлось равных Даниилу,
+        Анании, Мисаилу и Азарии; и стали предстоять пред царем.
+      bulgarian: Царят говори с тях, и от всички момци не се намери нито един като
+        Даниила, Анания, Мисаила и Азария, и почнаха те да служат пред царя.
+      deutsch: Und der König redete mit ihnen, und ward unter allen niemand gefunden,
+        der Daniel, Hananja, Misael und Asarja gleich wäre; und sie wurden des
+        Königs Diener.
+      ukr2: Цар розмовляв з ними, і з-поміж усіх не знайшовсь ані один такий, як
+        Даниїл, Ананія, Мисаїл та Азарія, і вони почали служити перед царем.
+      ukr3: Царь розмовляв із ними, і ось зпоміж усїх хлопцїв не знайшлось таких, як
+        Даниїл, Ананїя, Мисаїл та Азарія, та й стали вони служити перед царем.
+      bel_syomukha: І цар гаварыў зь імі, і з усіх хлопчыкаў не знайшлося падобных на
+        Данііла, Ананію, Місаіла і Азарыю, і пачалі яны служыць перад царом.
+      Olesn: И говорил с ними царь и не нашлось между всеми, которые стояли пред царем
+        подобных Даниилу, Анании, Мисаилу и Азарии.
+      lev-khv: И разговаривал с ними царь, и из всех их не нашлось равных Даниилу,
+        Анании, Мисаилу и Азарии; и стали они служить пред царем.
+      czech: Kral s nimi rozmlouval a zadny mezi nimi nebyl shledan takovy jako
+        Daniel, Chananjas, Misael a Azarjas. Proto stavali pred kralem.
+      spanish: El rey habló con ellos, y entre todos los mozos no había ninguno como
+        Daniel, Ananías, Misael y Azarías, y fueron puestos al servicio del rey.
+      greek-lxx: καὶ ὡμίλησεν αὐτοῖς ὁ βασιλεύς καὶ οὐχ εὑρέθη ἐν τοῖς σοφοῖς ὅμοιος
+        τῷ Δανιηλ καὶ Ανανια καὶ Μισαηλ καὶ Αζαρια καὶ ἦσαν παρὰ τῷ βασιλεῖ
+      greek-theodotion: καὶ ἐλάλησεν μετ᾿ αὐτῶν ὁ βασιλεύς καὶ οὐχ εὑρέθησαν ἐκ πάντων
+        αὐτῶν ὅμοιοι Δανιηλ καὶ Ανανια καὶ Μισαηλ καὶ Αζαρια καὶ ἔστησαν ἐνώπιον
+        τοῦ βασιλέως
+      st_text: И царь говорил с ними, и из всех [<i>отроков</i>] не нашлось подобных
+        Даниилу, Анании, Мисаилу и Азарии, и стали они служить пред царем.
+  - id: 12499
+    number: 20
+    bookId: 34
+    text: И во всяком деле мудрого уразумения, о чем ни спрашивал их царь, он
+      находил их в десять раз выше всех тайноведцев и волхвов, какие были во
+      всем царстве его.
+    chapter: 1
+    chapterId: 978
+    parallels:
+      - verseId: 17177
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 28
+        short: Иез:28:3
+      - verseId: 12879
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 5
+        short: Дан:5:11
+    translates:
+      kassian: ""
+      podstr: И во всяком слове и понимании и воспитании сколькие искал у них царь
+        получил их мудрых [в] десять раз более мудрецов и философов во всём
+        царстве его и прославил их царь и поставил их [на] начальников и указал
+        их мудрых сверх всех его в делах во всей земле его и в царстве его.
+      csya: И во всяцем глаголе премудрости и умения, о нихже вопрошаше от них царь,
+        обрете я десятерицею паче всех обаятелей и волхвов сущих во всем царстве
+        его.
+      averincev: ""
+      ungerov: И во всяком слове мудрости и знания, о которых спрашивал их царь, он
+        нашел их в десять раз превосходнее всех заклинателей и волхвов, бывших
+        во всем царстве его.
+      csya_old: И# во всsцэмъ глаго1лэ премyдрости и3 ўмёніz, њ ни1хже вопрошaше t
+        ни1хъ цaрь, њбрёте | десzтери1цею пaче всёхъ њбаsтелей и3 волхвHвъ
+        сyщихъ во все1мъ цaрствэ є3гw2.
+      sovr_rbo: О какой бы науке или премудрости царь ни спрашивал, они оказывались в
+        десять раз мудрее всех магов и заклинателей в целом царстве.
+      latin: Et omne verbum sapientiae et intellectus, quod sciscitatus est ab eis
+        rex, invenit in eis decuplum super cunctos ariolos et magos qui erant in
+        universo regno ejus.
+      ukr: А всяку справу мудрости та розуму, що шукав від них цар, то він знайшов їх
+        удесятеро мудрішими від усіх чарівників та заклиначів, що були в усьому
+        його царстві.
+      nkjv: And in all matters of wisdom and understanding about which the king
+        examined them, he found them ten times better than all the magicians and
+        astrologers who were in all his realm.
+      desnitsky: ""
+      mt: ‫    וְכֹל דְּבַר חָכְמַת בִּינָה אֲשֶׁר־בִּקֵּשׁ מֵהֶם הַמֶּלֶךְ
+        וַיִּמְצָאֵם עֶשֶׂר יָדוֹת עַל כָּל־הַחַרְטֻמִּים הָאַשָּׁפִים אֲשֶׁר
+        בְּכָל־מַלְכוּתוֹ׃ ‬
+      romana: Si in toate intrebarile, asupra carora regele le cerea dezlegarea, cand
+        era vorba de intelepciune si de pricepere, ii gasea pe ei de zece ori
+        mai isteti decat magii si prezicatorii din tot regatul lui.
+      francais: Sur tous les objets qui réclamaient de la sagesse et de
+        l'intelligence, et sur lesquels le roi les interrogeait, il les trouvait
+        dix fois supérieurs à tous les magiciens et astrologues qui étaient dans
+        tout son royaume.
+      italian: in qualunque affare di sapienza e intelligenza su cui il re li
+        interrogasse, li trovò dieci volte superiori a tutti i maghi e astrologi
+        che c'erano in tutto il suo regno.
+      old_georgian: და ყოველსა შინა სიტყჳსა სიბრძნისა და ზედმიწევნულობისასა, რომელნი
+        იძინა მათგან მეფემან, პოვნა იგინი ათწილქმნილნი უფროს ყოველთა მსახრვალთა
+        და მოგუთა, მყოფთა ყოველსა შორის მეფობასა მისსა.
+      portuguese: "E em toda matéria de sabedoria e discernimento, a respeito da qual
+        lhes perguntou o rei, este os achou dez\rvezes mais doutos do que todos
+        os magos e encantadores que havia em todo o seu reino."
+      polish: "We wszystkich sprawach wymagających mądrości i roztropności, jakie
+        przedkładał im król, okazywali się dziesięciokrotnie lepsi niż wszyscy
+        wykładacze\rsnów i wróżbici w całym jego królestwie."
+      turkish: Kral bilgelik ve anlayışla ilgili konularda onları sınadı ve dört genci
+        ülkesindeki bütün sihirbazlardan, falcılardan on kat üstün buldu.
+      Macarius: И во всяком деле, требующем мудрости рассуждения, что бы ни спросил у
+        них царь, он находил их вдесятеро умнее всех тайноведцев и магов во всем
+        царстве своем.
+      bulgarian: И във всичко, за което се искаше мъдрост и разбиране, за каквото и да
+        ги питаше царят, намираше ги десеторно по-високо от всички тайноведци и
+        влъхви, каквито имаше в цялото му царство.
+      deutsch: Und der König fand sie in allen Sachen, die er sie fragte zehnmal
+        klüger und verständiger denn alle Sternseher und Weisen in seinem ganzen
+        Reich.
+      ukr2: У кожній справі, де треба було розуму й розсуду, і про яку питав їх цар,
+        він бачив, що вони вдесятеро розумніші за всіх віщунів та чародіїв, які
+        були в цілому його царстві.
+      ukr3: І в кожній справі, де треба було розуму й розваги, та що нї питав у них
+        царь, бачив він, що вони в десятеро розумнїйші за всїх віщунів та
+        чародїїв, які були в усьому його царстві.
+      bel_syomukha: І ў кожнай справе мудрага ўразуменьня, пра што ні пытаўся ў іх
+        цар, ён знаходзіў у іх дзесяць разоў вышэй за ўсіх чарадзеяў і
+        заклінальнікаў, якія былі ва ўсім яго царстве.
+      Olesn: Во всех вопросах остроумия, которые предлагал им царь, он нашел их в
+        десять раз выше всех книжников-магов, какие были во всем царстве его.
+      lev-khv: И во всяком деле мудраго разумения, о чем ни спрашивал у них царь, он
+        находил их в десять раз умнее всех тайноведцев и волхвов, какие были во
+        всем царстве его.
+      czech: Pokud slo o porozumeni moudrosti, ktere od nich kral vyzadoval, shledal,
+        ze desetkrat predci vsechny vestce a zaklinace, kteri byli v celem jeho
+        kralovstvi.
+      spanish: En cuantas cosas de sabiduría y entendimiento el rey les preguntó,
+        hallólos diez veces superiores a todos los magos y astrólogos que había
+        en su reino.
+      greek-lxx: καὶ ἐν παντὶ λόγῳ καὶ συνέσει καὶ παιδείᾳ ὅσα ἐζήτησε παρ᾿ αὐτῶν ὁ
+        βασιλεύς κατέλαβεν αὐτοὺς σοφωτέρους δεκαπλασίως ὑπὲρ τοὺς σοφιστὰς καὶ
+        τοὺς φιλοσόφους τοὺς ἐν πάσῃ τῇ βασιλείᾳ αὐτοῦ καὶ ἐδόξασεν αὐτοὺς ὁ
+        βασιλεὺς καὶ κατέστησεν αὐτοὺς ἄρχοντας καὶ ἀνέδειξεν αὐτοὺς σοφοὺς παρὰ
+        πάντας τοὺς αὐτοῦ ἐν πράγμασιν ἐν πάσῃ τῇ γῇ αὐτοῦ καὶ ἐν τῇ βασιλείᾳ
+        αὐτοῦ
+      greek-theodotion: καὶ ἐν παντὶ ῥήματι σοφίας καὶ ἐπιστήμης ὧν ἐζήτησεν παρ᾿
+        αὐτῶν ὁ βασιλεύς εὗρεν αὐτοὺς δεκαπλασίονας παρὰ πάντας τοὺς ἐπαοιδοὺς
+        καὶ τοὺς μάγους τοὺς ὄντας ἐν πάσῃ τῇ βασιλείᾳ αὐτοῦ
+      st_text: И во всяком деле мудрого уразумения, о чем ни спрашивал их царь, он
+        находил их в десять раз выше всех тайноведцев и волхвов, какие были во
+        всем царстве его.
+  - id: 12500
+    number: 21
+    bookId: 34
+    text: И был там Даниил до первого года царя Кира.
+    chapter: 1
+    chapterId: 978
+    parallels:
+      - verseId: 12927
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 6
+        short: Дан:6:28
+    translates:
+      kassian: ""
+      podstr: И был Даниил до первого года царства Кира, царя персов.
+      csya: И бысть даниил даже до перваго лета кира царя.
+      averincev: ""
+      ungerov: И был (там) Даниил даже до перваго года царя Кира.
+      csya_old: И# бы1сть даніи1лъ дaже до пе1рвагw лёта кv1ра царS.
+      sovr_rbo: Даниил оставался там до первого года правления царя Кира.
+      latin: Fuit autem Daniel usque ad annum primum Cyri regis.
+      ukr: І був Даниїл там аж до першого року царя Кіра.
+      nkjv: Thus Daniel continued until the first year of King Cyrus.
+      desnitsky: ""
+      mt: ‫    וַיְהִי דָּנִיֵּאל עַד־שְׁנַת אַחַת לְכוֹרֶשׁ הַמֶּלֶךְ׃ פ ‬
+      romana: Si a ramas Daniel acolo pana in anul intai al domniei lui Cirus.
+      francais: Ainsi fut Daniel jusqu'à la première année du roi Cyrus.
+      italian: Così Daniele vi rimase fino al primo anno del re Ciro.
+      old_georgian: და იქმნა დანიილ ვიდრე წლამდე ერთად კჳროზ მეფის პირველისა.
+      portuguese: Assim Daniel continuou até o primeiro ano do rei Ciro.
+      polish: Przebywał tam Daniel aż do pierwszego roku Cyrusa.
+      turkish: Kral Koreş'in krallığının birinci yılına dek Daniel sarayda kaldı.
+      Macarius: Даниил дожил до первого года царя Кира.
+      bulgarian: И остана там Даниил до първата година на цар Кира.
+      deutsch: Und Daniel erlebte das erste Jahr des König Kores.
+      ukr2: І Даниїл лишився так до першого року царя Кира.
+      ukr3: І оставав там Даниїл таким же до першого року царя Кира.
+      bel_syomukha: І быў там Данііл да першага года цара Кіра.
+      Olesn: И был Даниил до перваго года Кира царя.
+      lev-khv: И был там Даниил до перваго года царя Кира.
+      czech: A Daniel tam zustal az do prvniho roku vlady krale Kyra.
+      spanish: Así estuvo Daniel hasta el año primero del rey Ciro.
+      greek-lxx: καὶ ἦν Δανιηλ ἕως τοῦ πρώτου ἔτους τῆς βασιλείας Κύρου βασιλέως Περσῶν
+      greek-theodotion: καὶ ἐγένετο Δανιηλ ἕως ἔτους ἑνὸς Κύρου τοῦ βασιλέως
+      st_text: И был там Даниил до первого года царя Кира.

@@ -1,0 +1,1833 @@
+id: 314
+number: 1
+bookId: 12
+verseCount: 18
+title: Глава 1
+verses:
+  - id: 8679
+    number: 1
+    bookId: 12
+    text: И отложился Моав от Израиля по смерти Ахава.
+    chapter: 1
+    chapterId: 314
+    parallels:
+      - verseId: 4472
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 8
+        short: 2 Цар:8:2
+      - verseId: 9185
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 3
+        short: 4 Цар:3:5
+      - verseId: 20104
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 15
+        short: Ис:15:8
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И отступи моав от израиля, по умертвии ахаавли.
+      averincev: ""
+      ungerov: ""
+      csya_old: И# tступи2 мwaвъ t ї}лz, по ўме1ртвіи ґхаaвли.
+      sovr_rbo: После смерти Ахава моавитяне восстали против Израиля.
+      latin: Praevaricatus est autem Moab in Israel, postquam mortuus est Achab.
+      ukr: А по смерті Ахава збунтувався Моав на Ізраїля.
+      nkjv: Moab rebelled against Israel after the death of Ahab.
+      desnitsky: После смерти Ахава моавитяне восстали против израильтян.
+      mt: ‫    וַיִּפְשַׁע מוֹאָב בְּיִשְׂרָאֵל אַחֲרֵי מוֹת אַחְאָב׃ ‬
+      romana: Dupa moartea lui Ahab, Moabul s-a razvratit impotriva lui Israel.
+      francais: Moab se révolta contre Israël, après la mort d'Achab.
+      italian: Dopo la morte di Acab Moab si ribellò a Israele.
+      old_georgian: ეცრუვა მოაბ ისრაჱლსა შემდგომად სიკუდილისა მის აქაბისა.
+      portuguese: Depois da morte de Acabe, Moabe se rebelou contra Israel.
+      polish: Następnie - po śmierci Achaba - zbuntował się Moab przeciw Izraelowi.
+      turkish: İsrail Kralı Ahav'ın ölümünden sonra Moavlılar İsrail'e karşı ayaklandı.
+      nrt: После смерти Ахава Моав взбунтовался против Израиля.
+      Macarius: По смерти Ахава Моав отложился от Израиля.
+      serbian: А по смрти Ахавовој одметнуше се Моавци од Израиља.
+      bulgarian: След смъртта на Ахава Моав се отметна от Израиля.
+      pavskiy: По смерти Ахава, Моав отложился от израиля.
+      deutsch: Es fielen aber die Moabiter ab von Israel, da Ahab tot war.
+      ukr2: По смерті Ахава Моав збунтувався проти Ізраїля.
+      ukr3: дво смертї Ахабовій відпали Моабії від Ізраїля.
+      bel_syomukha: І адасобіўся Мааў ад Ізраіля пасьля сьмерці Ахава.
+      lev-khv: И отложился Моав от Израиля, по смерти Ахава.
+      czech: Po Achabove smrti odpadl Moab od Izraele.
+      spanish: Después de la muerte de Acab, Moab se rebeló contra Israel.
+      greek-lxx: καὶ ἠθέτησεν Μωαβ ἐν Ισραηλ μετὰ τὸ ἀποθανεῖν Αχααβ
+      st_text: И отложился Моав от Израиля по смерти Ахава.
+  - id: 8680
+    number: 2
+    bookId: 12
+    text: "Охозия же упал чрез решетку с горницы своей, что в Самарии, и занемог. И
+      послал послов, и сказал им: пойдите, спросите у Веельзевула, божества
+      Аккаронского: выздоровею ли я от сей болезни? [И пошли они спрашивать.]"
+    chapter: 1
+    chapterId: 314
+    parallels:
+      - verseId: 27090
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 15
+        short: Нав:15:45
+      - verseId: 34906
+        bookId: 7
+        bookCode: kniga-sudej-izrailevyh
+        chapter: 1
+        short: Суд:1:18
+      - verseId: 20143
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 19
+        short: Ис:19:3
+      - verseId: 25038
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 10
+        short: Мф:10:25
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Охозиа же паде из окна, еже в горнице его в самарии, и разболеся, и посла
+        послы и рече к ним: идите и вопросите у ваала сквернаго бога аккаронска,
+        аще жив буду от болезни моея сея? и идоша вопрошати его ради."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Nхозjа же паде2 и3з8 nкнA, є4же въ го1рницэ є3гw2 въ самарjи, и3
+        разболёсz, и3 послA послы2 и3 рече2 къ ни6мъ: и3ди1те и3 вопроси1те ў
+        ваaла скве1рнагw бо1га ґккарHнска, ѓще жи1въ бyду t болёзни моеS сеS; и3
+        и3до1ша вопрошaти є3гw2 рaди."
+      sovr_rbo: "Ахазия упал с верхнего этажа своего дворца в Самарии — сломался
+        парапет. Занемог царь и послал гонцов с поручением: «Вопросите
+        Баал-Зевува, экронского бога, суждено ли мне выздороветь?»"
+      latin: "Ceciditque Ochozias per cancellos coenaculi sui, quod habebat in
+        Samaria, et aegrotavit: misitque nuntios, dicens ad eos: Ite, consulite
+        Beelzebub deum Accaron, utrum vivere queam de infirmitate mea hac."
+      ukr: "А Ахазія випав через ґрати в своїй горниці, що в Самарії, та й захворів. І
+        послав він послів, і сказав до них: Ідіть, запитайте Ваал-Зевува,
+        екронського бога, чи видужаю я з своєї цієї хвороби?"
+      nkjv: Now Ahaziah fell through the lattice of his upper room in Samaria, and was
+        injured; so he sent messengers and said to them, "Go, inquire of
+        Baal-Zebub, the god of Ekron, whether I shall recover from this injury."
+      desnitsky: "Израильский царь Ахазия выпал из зарешеченного окна своей горницы,
+        что была в Самарии, и разбился. Он послал гонцов с таким приказом:
+        «Спросите у Баал-Зевува, божества Экрона, встану ли я после этой
+        болезни?»"
+      mt: ‫    וַיִּפֹּל אֲחַזְיָה בְּעַד הַשְּׂבָכָה בַּעֲלִיָּתוֹ אֲשֶׁר
+        בְּשֹׁמְרוֹן וַיָּחַל וַיִּשְׁלַח מַלְאָכִים וַיֹּאמֶר אֲלֵהֶם לְכוּ
+        דִרְשׁוּ בְּבַעַל זְבוּב אֱלֹהֵי עֶקְרוֹן אִם־אֶחְיֶה מֵחֳלִי זֶה׃ ס ‬
+      romana: 'Iar Ohozia, cazand printre gratiile foisorului sau cel din Samaria, s-a
+        imbolnavit si a trimis soli si le-a zis: „Duceti-va si intrebati pe
+        Baal-Zebub, dumnezeul Ecronului: Ma voi insanatosi eu oare din boala
+        aceasta?" si acestia s-au dus sa intrebe.'
+      francais: "Or Achazia tomba par le treillis de sa chambre haute à Samarie, et il
+        en fut malade. Il fit partir des messagers, et leur dit: Allez,
+        consultez Baal Zebub, dieu d'Ékron, pour savoir si je guérirai de cette
+        maladie."
+      italian: "Acazia cadde dalla finestra del piano di sopra in Sama ria e rimase
+        ferito. Allora inviò messaggeri con quest'ordine: \"Andate e interrogate
+        Baal—Zebub, dio di Ekròn, per sapere se guarirò da questa infermità\"."
+      old_georgian: "და გარდმოვარდა ოქოზია ქორსა მას არდაბაგით, რომელ-იგი იყო
+        სამარიას, და დასნეულდა და წარავლინნა მოციქულნი და ჰრქუა მათ: მივედით და
+        ჰკითხეთ ბაალს მწერსა, ღმერთსა მას აკკარონისასა, უკუეთუ განვერე მე ამას
+        სენსა. და წარვიდეს კითხვად."
+      portuguese: "Ora, Acazias caiu pela grade do seu quarto alto em Samária, e
+        adoeceu; e enviou mensageiros, dizendo-lhes: Ide,\re perguntai a
+        Baal-Zebube, deus de Ecrom, se sararei desta doença."
+      polish: "Ochozjasz zaś wypadł przez kratę w swej górnej komnacie w Samarii i
+        chorował. Wysłał więc posłańców mówiąc do nich: ”Idźcie, wywiadujcie się
+        u\rBeelzebuba, boga Ekronu, czy wyzdrowieję z tej mojej choroby”."
+      turkish: İsrail Kralı Ahazya Samiriye'de yaşadığı sarayın üst katındaki kafesli
+        pencereden düşüp yaralandı. Habercilerine, «Gidin, Ekron ilahı
+        Baalzevuv'a danışın, yaralarımın iyileşip iyileşmeyeceğini öğrenin»
+        dedi.
+      nrt: "Охозия же упал через решетку своей верхней комнаты в Самарии и
+        покалечился. Он отправил посланцев, сказав им: – Идите и спросите
+        Баал-Зевува, бога Экрона, оправлюсь ли я от этих увечий."
+      Macarius: "И Ахазия чрез решетку упал с горницы своей в Самарии, и занемог. И
+        послал послов, и сказал им: пойдите, спросите у Ваал-Зевува, бога
+        Екронского: выздоровею ли я от сей болезни."
+      serbian: "А Охозија паде кроз решетку из горње собе своје у Самарији и разбоље
+        се; па посла посланике и рече им: Идите, питајте Велзевула, бога
+        Акаронскога, хоћу ли оздравити од ове болести."
+      bulgarian: "А Охозия падна през решетчестия прозорец на своята горница, която е
+        в Самария, и заболя. И проводи пратеници и им каза: идете, попитайте
+        Веелзевула, акаронското божество: ще оздравея ли от тая болест? (И те
+        отидоха да питат.)"
+      pavskiy: "И Ахазия, чрез решетку, упал с горницы своей, в Самарии, и занемог. И
+        послал послов, и сказал им: подите, спросите у Ваалзевува, бога
+        Екронскаго: выздоровею ли я от сей болезни."
+      deutsch: "Und Ahasja fiel durch das Gitter in seinem Söller zu Samaria und ward
+        krank; und sandte Boten und sprach zu ihnen: Geht hin und fragt
+        Baal-Sebub, den Gott zu Ekron, ob ich von dieser Krankheit genesen
+        werde."
+      ukr2: "Ахазія впав був через поруччя у своїй верхній світлиці в Самарії і
+        занедужав. І послав він послів і повелів їм: “Ідіть, спитайте
+        Ваал-Зевува, екронського бога, чи я видужаю від цієї моєї недуги?”"
+      ukr3: "Охозія впав був через грату в своїй верхній сьвітлицї в Самариї та
+        занедужав; і послав він посли й повелїв їм: Ійдїте, поспитайте в
+        Беел-Себула, Екронського бога, чи я одужаю з сієї недуги моєї?"
+      bel_syomukha: "А Ахозія ўпаў праз краты са сьвяцёлкі сваёй, што ў Самарыі, і
+        занямог. І паслаў паслоў і сказаў ім: ідзеце, спытайцеся ў Вэльзэвула,
+        божышча Акаронскага: ці выздаравею я ад гэтай хваробы?"
+      lev-khv: "Охозия же упал чрез решетку с горницы своей, чтó в Самарии, и занемог.
+        И послал послов, и сказал им: подите, спросите у Веельзевула, божества
+        Аккаронскаго: выздоровею ли я от этой болезни?"
+      czech: 'Achazjas propadl mrizi sveho pokojiku na strese v Samari a churavel.
+        Vyslal posly a rekl jim: "Jdete a dotazte se Baal-zebuba, boha Ekronu,
+        zdali z tohoto ochoreni vyvaznu ziv."'
+      spanish: "Ocozías se cayó por una ventana del piso superior de su casa en
+        Samaria y se hirió; y envió mensajeros, diciéndoles: <<Id a consultar a
+        Baalzebub, dios de Acarón, si curaré de estas mis heridas>>;"
+      greek-lxx: καὶ ἔπεσεν Οχοζιας διὰ τοῦ δικτυωτοῦ τοῦ ἐν τῷ ὑπερῴῳ αὐτοῦ τῷ ἐν
+        Σαμαρείᾳ καὶ ἠρρώστησεν καὶ ἀπέστειλεν ἀγγέλους καὶ εἶπεν πρὸς αὐτούς
+        δεῦτε καὶ ἐπιζητήσατε ἐν τῇ Βααλ μυῖαν θεὸν Ακκαρων εἰ ζήσομαι ἐκ τῆς
+        ἀρρωστίας μου ταύτης καὶ ἐπορεύθησαν ἐπερωτῆσαι δι᾿ αὐτοῦ
+      st_text: "Охозия же упал чрез решетку с горницы своей, что в Самарии, и занемог.
+        И послал послов, и сказал им: пойдите, спросите у Веельзевула, божества
+        Аккаронского: выздоровею ли я от сей болезни? [И пошли они спрашивать.]"
+  - id: 8681
+    number: 3
+    bookId: 12
+    text: "Тогда Ангел Господень сказал Илии Фесвитянину: встань, пойди навстречу
+      посланным от царя Самарийского и скажи им: разве нет Бога в Израиле, что
+      вы идете вопрошать Веельзевула, божество Аккаронское?"
+    chapter: 1
+    chapterId: 314
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И ангел Господень рече ко илии фесвитянину, глаголя: востав, иди на
+        сретение послом охозии царя самарийска и речеши к ним: или несть Бога во
+        израили, яко грядете вопрошати ваала сквернаго бога во аккароне?"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# ѓгг7лъ гDень рече2 ко и3ліи2 fесвjтzнину, глаго1лz: востaвъ, и3ди2
+        на срётеніе послHмъ nхозjи царS самарjйска и3 рече1ши къ ни6мъ: и3ли2
+        нёсть бг7а во ї}ли, ћкw грzде1те вопрошaти ваaла скве1рнаго бо1га во
+        ґккарHнэ;"
+      sovr_rbo: "Но Ангел Господа повелел Илие Тишбийскому выйти навстречу посланцам
+        царя Самарии и сказать: «Разве нет Бога в Израиле, что вы идете
+        вопрошать Баал-Зевува, экронского бога?"
+      latin: "Angelus autem Domini locutus est ad Eliam Thesbiten, dicens: Surge, et
+        ascende in occursum nuntiorum regis Samariae, et dices ad eos: Numquid
+        non est Deus in Israel, ut eatis ad consulendum Beelzebub deum Accaron?"
+      ukr: "А Ангол Господній говорив до тішб'янина Іллі: Устань, вийди назустріч
+        послів самарійського царя та й скажи їм: Чи через те, що нема в Ізраїлі
+        Бога, ви йдете питатися Ваал-Зевува, екронського бога?"
+      nkjv: "But the angel of the Lord said to Elijah the Tishbite, \"Arise, go up to
+        meet the messengers of the king of Samaria, and say to them, 'Is it
+        because there is no God in Israel that you are going to inquire of
+        Baal-Zebub, the god of Ekron?' "
+      desnitsky: "Ангел ГОСПОДЕНЬ тогда сказал Илии из Тешбы: «Отправляйся навстречу
+        гонца самарийского царя и скажи им: “Разве нет Бога в Израиле? А вы
+        отправились спрашивать Баал-Зевува, божество Экрона!"
+      mt: ‫    וּמַלְאַךְ יְהוָה דִּבֶּר אֶל־אֵלִיָּה הַתִּשְׁבִּי קוּם עֲלֵה לִקְרַאת
+        מַלְאֲכֵי מֶלֶךְ־שֹׁמְרוֹן וְדַבֵּר אֲלֵהֶם הַמִבְּלִי אֵין־אֱלֹהִים
+        בְּיִשְׂרָאֵל אַתֶּם הֹלְכִים לִדְרֹשׁ בְּבַעַל זְבוּב אֱלֹהֵי עֶקְרוֹן׃
+        ‬
+      romana: "Atunci ingerul Domnului a zis catre Ilie Tesviteanul: „Scoala si iesi
+        inaintea trimisilor regelui Samariei si le spune: Au doara in Israel nu
+        este Dumnezeu, de va duceti sa intrebati pe Baal-Zebub, dumnezeul
+        Ecronului?"
+      francais: "Mais l'ange de l'Éternel dit à Élie, le Thischbite: Lève-toi, monte à
+        la rencontre des messagers du roi de Samarie, et dis-leur: Est-ce parce
+        qu'il n'y a point de Dieu en Israël que vous allez consulter Baal Zebub,
+        dieu d'Ékron?"
+      italian: "Ora l'angelo del Signore disse a Elia il Tisbita: \"Su, va' incontro
+        ai messaggeri del re di Samaria. Di' loro: Non c'è forse un Dio in
+        Israele, perché andiate a interrogare Baal—Zebub, dio di Ekròn?"
+      old_georgian: "და ანგელოზი უფლისა უწოდდა ელიას თეზბიტელსა და ჰრქუა: აღდეგ და
+        მიეგებოდე მოციქულთა მათ ოქოზია მეფისა სამარიასათა და არქუ მათ: არამე
+        არსა ღმერთი ისრაჱლისა შორის და მიხვალთ თქუენ კითხვად ბაალისასა, მწერსა
+        მას და ღმერთსა აკკარონისასა?"
+      portuguese: "O anjo do Senhor, porém, disse a Elias, o tisbita: Levanta-te, sobe
+        para te encontrares com os mensageiros do rei\rde Samária, e dize-lhes:
+        Porventura não há Deus em Israel, para irdes consultar a Baal-Zebube,
+        deus de Ecrom?"
+      polish: "Lecz Anioł Pański powiedział do Eliasza z Tiszbe: ”Wstań, wyjdź
+        naprzeciw\rposłańców króla Samarii i powiedz im: Czyż nie ma Boga w
+        Izraelu, że wy\ridziecie wywiadywać się u Beelzebuba, boga Ekronu?"
+      turkish: "Ama RAB'bin meleği, Tişbeli İlyas'a şöyle dedi: «Kalk, Samiriye
+        Kralı'nın habercilerini karşıla ve onlara de ki, `İsrail'de Tanrı yok mu
+        ki Ekron ilahı Baalzevuv'a danışmaya gidiyorsunuz?'"
+      nrt: "Но Ангел Господень сказал Илии из Тишбы: – Пойди навстречу посланцам царя
+        Самарии и спроси их: «Разве в Израиле нет Бога, что вы идете спрашивать
+        Баал-Зевува, бога Экрона?»"
+      Macarius: "Тогда ангел Господа сказал Илии Фесвитянину: встань, поди навстречу
+        посланным от царя Самарии, и скажи им: разве нет Бога у Израиля, что вы
+        идете вопрошать Ваал-Зевува, бога Екронского?"
+      serbian: "Али анђео Господњи рече Илији Тесвићанину: Устани, изиди на сусрет
+        посланицима цара Самаријскога и реци им: Еда ли нема Бога у Израиљу, те
+        идете да питате Велзевула, бога у Акарону?"
+      bulgarian: "Тогава Ангел Господен каза на Илия Тесвитеца: стани, присрещни
+        пратениците на самарийския цар и им кажи: нима у Израиля няма Бог, та
+        сте тръгнали да питате Веелзевула, акаронското божество?"
+      pavskiy: "Тогда ангел Иеговы сказал Илии фесвитянину: встань, поди на встречу
+        посланным от царя израильскаго, и скажи им: разве нет Бога у израильтян,
+        что вы идете вопрошать Ваалзевува, бога Екронскаго?"
+      deutsch: "Aber der Engel des Herrn redete mit Elia, dem Thisbiter: Auf! und
+        begegne den Boten des Königs zu Samaria und sprich zu ihnen: Ist denn
+        nun kein Gott in Israel, daß ihr hingehet, zu fragen Baal-Sebub, den
+        Gott Ekrons?"
+      ukr2: "Ангел же Господній сказав до Іллі тішбія: “Встань, іди назустріч послам
+        самарійського царя й скажи їм: Хіба в Ізраїлі нема Бога, що ви йдете
+        питати Ваал-Зевува, екронського бога?"
+      ukr3: "Ангел же Господень сказав до Ілиї Тесбія: Ось ійди лишень зустріч послам
+        царя Самарийського та й промов до них: Хиба в Ізраїлї та нема Бога, що
+        ви йдете питати в Беел-Себула, Екронського бога."
+      bel_syomukha: "Тады анёл Гасподні сказаў Ільлю Фэсьвіцяніну: устань, ідзі
+        насустрач пасланым ад цара Самарыйскага і скажы ім: хіба няма Бога ў
+        Ізраілі, што вы ідзяце пытацца ў Вэльзэвула, божышча Акаронскага?"
+      lev-khv: "Ангел же Господень сказал Илии, Фесвитянину: встань, поди на встречу
+        посланным от царя Самарийскаго, и скажи им: разве нет Бога в Израиле,
+        что вы идете вопрошать Веельзевула, божество Аккаронское?"
+      czech: 'Tu promluvil andel Hospodinuv k Elijasovi Tisbejskemu: "Vstan a vyjdi
+        vstric poslum samarskeho krale a povez jim: Coz neni Buh v Izraeli, ze
+        se jdete dotazovat Baal-zebuba, boha Ekronu?'
+      spanish: "pero el ángel de Yavé dijo a Elías tesbita: <<Levántate y sube al
+        encuentro de los mensajeros del rey de Samaria y diles: ¿No hay Dios en
+        Israel, para que vayáis a consultar a Baalzebub, dios de Acarón?"
+      greek-lxx: καὶ ἄγγελος Κυρίου ἐλάλησεν πρὸς Ηλιου τὸν Θεσβίτην λέγων ἀναστὰς
+        δεῦρο εἰς συνάντησιν τῶν ἀγγέλων Οχοζιου βασιλέως Σαμαρείας καὶ λαλήσεις
+        πρὸς αὐτούς εἰ παρὰ τὸ μὴ εἶναι Θεὸν ἐν Ισραηλ ὑμεῖς πορεύεσθε
+        ἐπιζητῆσαι ἐν τῇ Βααλ μυῖαν θεὸν Ακκαρων
+      st_text: "Тогда Ангел Господень сказал Илии Фесвитянину: встань, пойди навстречу
+        посланным от царя Самарийского и скажи им: разве нет Бога в Израиле, что
+        вы идете вопрошать Веельзевула, божество Аккаронское?"
+  - id: 8682
+    number: 4
+    bookId: 12
+    text: "За это так говорит Господь: с постели, на которую ты лег, не сойдешь с
+      нее, но умрешь. И пошел Илия, [и сказал им]."
+    chapter: 1
+    chapterId: 314
+    parallels:
+      - verseId: 31929
+        bookId: 22
+        bookCode: psaltir
+        chapter: 54
+        short: Пс:54:24
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и сего ради сице глаголет Господь одр, на негоже возшел еси ту, не имаши
+        слезти с него, яко ту смертию умреши, И иде илиа и рече к ним.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 сегw2 рaди си1це гlетъ гDь џдръ, на него1же возше1лъ є3си2 тY, не
+        и4маши слёзти съ негw2, ћкw тY сме1ртію ќмреши, И# и4де и3ліA и3 рече2
+        къ ни6мъ.
+      sovr_rbo: "Так говорит Господь: за это не встать тебе с постели, на которой ты
+        лежишь. Ты умрешь!» И вышел Илия им навстречу."
+      latin: "Quam ob rem haec dicit Dominus: De lectulo, super quem ascendisti, non
+        descendes, sed morte morieris. Et abiit Elias."
+      ukr: "Тому так сказав Господь: Із того ліжка, що на нього ти ліг, не встанеш із
+        нього, бо напевно помреш!... І пішов Ілля."
+      nkjv: "Now therefore, thus says the Lord: 'You shall not come down from the bed
+        to which you have gone up, but you shall surely die.' \" So Elijah
+        departed. "
+      desnitsky: И за это, говорит ГОСПОДЬ Ахазии, не встанешь ты с постели, на
+        которой лежишь, но ней и умрешь”». Илия вышел в путь.
+      mt: ‫    וְלָכֵן כֹּה־אָמַר יְהוָה הַמִּטָּה אֲשֶׁר־עָלִיתָ שָּׁם לֹא־תֵרֵד
+        מִמֶּנָּה כִּי מוֹת תָּמוּת וַיֵּלֶךְ אֵלִיָּה׃ ‬
+      romana: 'De aceea asa zice Domnul: Din patul in care te-ai suit, nu te vei mai
+        cobori, ci vei muri". Si s-a dus Ilie si le-a spus.'
+      francais: "C'est pourquoi ainsi parle l'Éternel: Tu ne descendras pas du lit sur
+        lequel tu es monté, car tu mourras. Et Élie s'en alla."
+      italian: 'Pertanto così dice il Signore: Dal letto, in cui sei salito, non
+        scenderai, ma di certo morirai". Ed Elia se ne andò.'
+      old_georgian: "და არა ეგრე, არამედ ესრე იტყჳს უფალი: ცხედარსა მაგას ზედა,
+        რომელსა აღჴედ, არა გარდამოჴდე მაგიერ, არამედ მაგას ზედა სიკუდილითა
+        მოჰკუდე. და წარვიდა ელია და ჰრქუა მათ."
+      portuguese: "Agora, pois, assim diz o Senhor: Da cama a que subiste não
+        descerás, mas certamente morrerás. E Elias se foi."
+      polish: "Dlatego tak mówi Pan: Z łoża, do którego wszedłeś, już nie zejdziesz,
+        ponieważ umrzesz na pewno!” I odszedł Eliasz."
+      turkish: Kralınıza deyin ki, `RAB, Yattığın yataktan kalkamayacak, kesinlikle
+        öleceksin! diyor.'» Böylece İlyas oradan ayrıldı.
+      nrt: "Итак, вот что говорит Господь: «Ты не встанешь с постели, на которую лег.
+        Ты непременно умрешь!». И Илия пошел."
+      Macarius: "За сие так говорит Господь: с постели, на которую ты лег, не сойдешь,
+        но умрешь. И пошел Илия."
+      serbian: "А зато овако вели Господ: Нећеш се дигнути са постеље на коју си
+        легао, него ћеш умријети. Потом отиде Илија."
+      bulgarian: "Затова тъй казва Господ: от постелката, на която си легнал, няма да
+        се дигнеш, а ще умреш. И отиде Илия (и каза им)."
+      pavskiy: "За сие так говорит Иегова: с постели, на которую ты лег, не сойдешь,
+        но умрешь. И пошел Илия."
+      deutsch: "Darum so spricht der Herr: Du sollst nicht von dem Bette kommen,
+        darauf du dich gelegt hast, sondern sollst des Todes sterben. Und Elia
+        ging weg."
+      ukr2: "Тому ось як говорить Господь: Ти не встанеш з ліжка, на яке ліг, ти мусиш
+        умерти.” І пішов Ілля."
+      ukr3: "За се ж, тако глаголе Господь: Із постелї, що лїг єси на її, ти вже не
+        встанеш, а мусиш умерти. І пійшов Ілия (і сказав їм)."
+      bel_syomukha: "За гэта так кажа Гасподзь: з пасьцелі, на якую ты лёг, ня сыдзеш
+        зь яе, а памрэш. І пайшоў Ільля і сказаў ім."
+      lev-khv: "За это так говорит Господь: с постели, на которую ты лег, не сойдешь с
+        нея, но умрешь. И пошел Илия."
+      czech: 'Proto Hospodin pravi toto: Z loze, na nez jsi ulehl, nepovstanes, ale
+        zcela jiste zemres." A Elijas sel.'
+      spanish: "Por eso así dice Yavé: No bajarás del lecho en que has subido, pues
+        morirás>>. Y Elías se fue."
+      greek-lxx: καὶ οὐχ οὕτως ὅτι τάδε λέγει Κύριος ἡ κλίνη ἐφ᾿ ἧς ἀνέβης ἐκεῖ οὐ
+        καταβήσῃ ἀπ᾿ αὐτῆς ὅτι ἐκεῖ θανάτῳ ἀποθανῇ καὶ ἐπορεύθη Ηλιου καὶ εἶπεν
+        πρὸς αὐτούς
+      st_text: "За это так говорит Господь: с постели, на которую ты лег, не сойдешь с
+        нее, но умрешь. И пошел Илия, [и сказал им]."
+  - id: 8683
+    number: 5
+    bookId: 12
+    text: "И возвратились к <i>Охозии</i> посланные. И он сказал им: что это вы
+      возвратились?"
+    chapter: 1
+    chapterId: 314
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И возвратишася послы к нему, и рече к ним: что яко возвратистеся?"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# возврати1шасz послы2 къ немY, и3 рече2 къ ни6мъ: что2 ћкw
+        возврати1стесz;"
+      sovr_rbo: "Посланцы возвратились к царю. Царь спросил: «Почему вы вернулись?»"
+      latin: "Reversique sunt nuntii ad Ochoziam. Qui dixit eis: Quare reversi estis?"
+      ukr: "І вернулися посли до царя, а він сказав до них: Що це ви вернулися?"
+      nkjv: And when the messengers returned to him, he said to them, "Why have you
+        come back?"
+      desnitsky: "Посланцы вернулись к Ахазии, и он спросил их: «Что же вы вернулись?»"
+      mt: ‫    וַיָּשׁוּבוּ הַמַּלְאָכִים אֵלָיו וַיֹּאמֶר אֲלֵיהֶם מַה־זֶּה
+        שַׁבְתֶּם׃ ‬
+      romana: 'Atunci s-au intors solii la Ohozia si acesta le-a zis: „De ce v-ati
+        intors?"'
+      francais: "Les messagers retournèrent auprès d'Achazia. Et il leur dit: Pourquoi
+        revenez-vous?"
+      italian: 'I messaggeri ritornarono dal re, che domandò loro: "Perché siete
+        tornati?".'
+      old_georgian: "და მიიქცეს მოციქულნი იგი მისავე და ჰრქუა მათ: რა არს, რამეთუ მოიქეცით?"
+      portuguese: "Os mensageiros voltaram para Acazias, que lhes perguntou: Que há,
+        que voltastes?"
+      polish: "Kiedy posłańcy wrócili do Ochozjasza, rzekł do nich: ”Czemu już
+        powróciliście?”"
+      turkish: Haberciler kralın yanına döndüler. Kral, «Neden geri döndünüz?» diye
+        sordu.
+      nrt: "Посланцы же вернулись к царю, и он спросил их: – Почему вы вернулись?"
+      Macarius: "И возвратились к нему посланные. Он сказал им: зачем это вы
+        возвратились?"
+      serbian: "А слуге се вратише к Охозији и он им рече: Што сте се вратили?"
+      bulgarian: "Върнаха се пратениците при Охозия. И той ги попита: защо се върнахте?"
+      pavskiy: "И возвратились к нему посланные. Он сказал им: за чем это вы
+        возвратились?"
+      deutsch: "Und da die Boten wieder zu ihm kamen, sprach er zu ihnen: Warum kommt
+        ihr wieder?"
+      ukr2: "Посли повернулись до Ахазії, а він їх спитав: “Чому ви повернулись?”"
+      ukr3: "І вернулись посли, а він питає: Чому ви вернулись?"
+      bel_syomukha: "І вярнуліся да Ахозіі пасланцы. І ён сказаў ім: што гэта вы вярнуліся?"
+      lev-khv: "И возвратились к нему (<i>Охозии</i>) посланные. И он сказал им: чтó
+        это вы возвратились?"
+      czech: 'Kdyz se poslove vratili ke krali, zeptal se jich: "Jak to, ze se
+        vracite?"'
+      spanish: "Volvieron los mensajeros a Ocozías, y él les preguntó: << ¿Cómo os
+        habéis vuelto?>>"
+      greek-lxx: καὶ ἐπεστράφησαν οἱ ἄγγελοι πρὸς αὐτόν καὶ εἶπεν πρὸς αὐτούς τί ὅτι
+        ἐπεστρέψατε
+      st_text: "И возвратились к <i>Охозии</i> посланные. И он сказал им: что это вы
+        возвратились?"
+  - id: 8684
+    number: 6
+    bookId: 12
+    text: "И сказали ему: навстречу нам вышел человек и сказал нам: пойдите,
+      возвратитесь к царю, который послал вас, и скажите ему: так говорит
+      Господь: разве нет Бога в Израиле, что ты посылаешь вопрошать Веельзевула,
+      божество Аккаронское? За то с постели, на которую ты лег, не сойдешь с
+      нее, но умрешь."
+    chapter: 1
+    chapterId: 314
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И реша к нему: муж изыде в сретение нам и рече к нам: идите возвратитеся
+        к царю пославшему вы и глаголите к нему: сице глаголет Господь: или нему
+        Бога во израили, яко вы грядете вопрошати ваала сквернаго бога во
+        аккароне? сего ради от одра, на негоже возшел еси, не имаши слезти с
+        него, яко ту смертию умреши."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рёша къ немY: мyжъ и3зы1де въ срётеніе нaмъ и3 рече2 къ нaмъ:
+        и3ди1те возврати1тесz къ царю2 послaвшему вы2 и3 глаго1лите къ немY:
+        си1це гlетъ гDь: и3ли2 немY бг7а во ї}ли, ћкw вы2 грzде1те вопрошaти
+        ваaла скве1рнаго бо1га во ґккарHнэ; сегw2 рaди t nдрA, на него1же
+        возше1лъ є3си2, не и4маши слёзти съ негw2, ћкw тY сме1ртію ќмреши."
+      sovr_rbo: "Они ответили: «Вышел нам навстречу человек и сказал: „Вернитесь к
+        царю, пославшему вас, и передайте ему: ‘Так говорит Господь: разве нет
+        Бога в Израиле, что ты послал вопрошать Баал-Зевува, экронского бога? За
+        это не встать тебе с постели, на которой ты лежишь. Ты умрешь!’”»"
+      latin: "At illi responderunt ei: Vir occurrit nobis, et dixit ad nos: Ite, et
+        revertimini ad regem, qui misit vos, et dicetis ei: Haec dicit Dominus:
+        Numquid, quia non erat Deus in Israel, mittis ut consulatur Beelzebub
+        deus Accaron? Idcirco de lectulo, super quem ascendisti, non descendes,
+        sed morte morieris."
+      ukr: "А вони відказали йому: Назустріч нам вийшов один чоловік, і сказав нам:
+        Ідіть, верніться до царя, що послав вас, і скажіть йому: Так сказав
+        Господь: Чи через те, що нема в Ізраїлі Бога, ти посилаєш вивідати
+        Ваал-Зевува, екронського бога? Тому те ложе, що на нього ти ліг, не
+        встанеш із нього, бо напевно помреш..."
+      nkjv: "So they said to him, \"A man came up to meet us, and said to us, 'Go,
+        return to the king who sent you, and say to him, \"Thus says the Lord:
+        'Is it because there is no God in Israel that you are sending to inquire
+        of Baal-Zebub, the god of Ekron? Therefore you shall not come down from
+        the bed to which you have gone up, but you shall surely die.' \" ' \" "
+      desnitsky: "Они ответили: «Навстречу нам вышел человек и велел нам вернуться к
+        отправившему нас царю и передать ему, что говорит ГОСПОДЬ: “Разве нет
+        Бога в Израиле, чтобы тебе посылать за ответом к Баал-Зевуву, божеству
+        Экрона? И за это не встанешь ты с постели, на которой лежишь, но ней и
+        умрешь”»."
+      mt: ‫    וַיֹּאמְרוּ אֵלָיו אִישׁ עָלָה לִקְרָאתֵנוּ וַיֹּאמֶר אֵלֵינוּ לְכוּ
+        שׁוּבוּ אֶל־הַמֶּלֶךְ אֲשֶׁר־שָׁלַח אֶתְכֶם וְדִבַּרְתֶּם אֵלָיו כֹּה
+        אָמַר יְהוָה הַמִבְּלִי אֵין־אֱלֹהִים בְּיִשְׂרָאֵל אַתָּה שֹׁלֵחַ
+        לִדְרֹשׁ בְּבַעַל זְבוּב אֱלֹהֵי עֶקְרוֹן לָכֵן הַמִּטָּה אֲשֶׁר־עָלִיתָ
+        שָּׁם לֹא־תֵרֵד מִמֶּנָּה כִּי־מוֹת תָּמוּת׃ ‬
+      romana: 'Iar ei i-au raspuns: „Ne-a iesit inainte un om si ne-a zis:
+        Intoarceti-va si va duceti la regele care v-a trimis si-i spuneti: Asa
+        zice Domnul: Au doar nu este in Israel Dumnezeu, de trimiti sa intrebe
+        pe Baal-Zebub, dumnezeul Ecronului? De aceea nu te vei mai cobori din
+        patul in care te-ai suit, ci vei muri".'
+      francais: "Ils lui répondirent: Un homme est monté à notre rencontre, et nous a
+        dit: Allez, retournez vers le roi qui vous a envoyés, et dites-lui:
+        Ainsi parle l'Éternel: Est-ce parce qu'il n'y a point de Dieu en Israël
+        que tu envoies consulter Baal Zebub, dieu d'Ékron? C'est pourquoi tu ne
+        descendras pas du lit sur lequel tu es monté, car tu mourras."
+      italian: "Gli dissero: \"Ci è venuto incontro un uomo, che ci ha detto: Su,
+        tornate dal re che vi ha inviati e ditegli: Così dice il Signore: Non
+        c'è forse un Dio in Israele, perché tu mandi a interrogare Baal—Zebub,
+        dio di Ekròn? Pertanto, dal letto, in cui sei salito, non scenderai, ma
+        di certo morirai\"."
+      old_georgian: "და ჰრქუეს მას: კაცი ერთი მოგვეგებოდა ჩუენ და გურქვა ჩუენ: მივედით
+        და მოიქეცით მეფისა მის, რომელ წარმოგავლინა თქუენ და არქუთ მას: ესრე
+        იტყჳს უფალი ამისთჳს, ვითარმედ: არა არს ღმერთი შორის ისრაჱლისა და მიხვალთ
+        კითხვად ბაალისსა, მწერსა მას, ღმერთსა აკკარონისასა? არა ეგრე, არამედ
+        ცხედარსა მაგას, რომელსა აღჴედ, მაგიერ არა გარდამოჴდე, არამედ მანდავე
+        ზედა სიკუდილითა მოჰკუდე."
+      portuguese: "Responderam-lhe eles: Um homem subiu ao nosso encontro, e nos
+        disse: Ide, voltai para o rei que vos mandou, e\rdizei-lhe: Assim diz o
+        Senhor: Porventura não há Deus em Israel, para que mandes consultar a
+        Baal-Zebube, deus\rde Ecrom? Portanto, da cama a que subiste não
+        descerás, mas certamente morrerás."
+      polish: "Odpowiedzieli mu: ”Jakiś człowiek wyszedł naprzeciw nas i rzekł do
+        nas:\r”Idźcie, wróćcie do króla, który was wysłał, i powiedzcie mu: Tak
+        mówi Pan:\rCzyż nie ma Boga w Izraelu, że ty polecasz wywiadywać się u
+        Beelzebuba,\rboga Ekronu? Dlatego z łoża, do którego wszedłeś, już nie
+        zejdziesz, ponieważ umrzesz na pewno!””"
+      turkish: "Şöyle karşılık verdiler: «Yolda bir adamla karşılaştık. Bize dedi ki,
+        `Gidin, sizi gönderen krala RAB şöyle diyor deyin: İsrail'de Tanrı yok
+        mu ki Ekron ilahı Baalzevuv'a danışmak için haberciler gönderdin? Bu
+        yüzden yattığın yataktan kalkamayacak, kesinlikle öleceksin!'»"
+      nrt: "– Нам навстречу вышел некий человек, – ответили они. – Он сказал нам:
+        «Возвращайтесь к царю, который вас послал, и скажите ему: “Так говорит
+        Господь: Разве в Израиле нет Бога, что ты посылаешь людей спрашивать
+        Баал-Зевува, бога Экрона? Итак, ты не встанешь с постели, на которую
+        лег. Ты непременно умрешь!”»"
+      Macarius: "И сказали ему: навстречу нам вышел человек, и сказал нам: подите,
+        возвратитесь к царю, который послал вас, и скажите ему: так говорит
+        Господь: разве нет Бога у Израиля, что ты посылаешь вопрошать
+        Ваал-Зевува, бога Екронского? И за то с постели, на которую ты лег, не
+        сойдешь, но умрешь."
+      serbian: "А они му рекоше: Срете нас један човјек и рече нам: Идите, вратите се
+        к цару који вас је послао и реците му: Овако вели Господ: Еда ли нема
+        Бога у Израиљу, те шаљеш да питаш Велзевула, бога у Акарону? Зато нећеш
+        се дигнути с постеље на коју си легао, него ћеш умријети."
+      bulgarian: "И те му отговориха: присрещна ни един човек и ни каза: идете,
+        върнете се при царя, който ви е пратил, и му кажете: тъй говори Господ:
+        нима у Израиля няма Бог, та пращаш да питат Веелзевула, акаронското
+        божество? Затова от постелката, на която си легнал, няма да се дигнеш, а
+        ще умреш."
+      pavskiy: "И сказали ему: на встречу нам вышел человек и сказал нам: подите,
+        воззратитесь к царю, который послал вас, и скажите ему: так говорит
+        Иегова: разве нет Бога у израильтян, что ты посылаешь вопрошать
+        Ваалзевува, бога Екронскаго? И за то с постели, на которую ты лег, не
+        сойдешь, но умрешь."
+      deutsch: "Sie sprachen zu ihm: Es kam ein Mann herauf uns entgegen und sprach zu
+        uns: Gehet wiederum hin zu dem König, der euch gesandt hat, und sprecht
+        zu ihm: So spricht der Herr: Ist denn kein Gott in Israel, daß du
+        hinsendest, zu fragen Baal-Sebub, den Gott Ekrons? Darum sollst du nicht
+        kommen von dem Bette, darauf du dich gelegt hast, sondern sollst des
+        Todes sterben."
+      ukr2: "Вони ж йому: “Вийшов назустріч нам чоловік і сказав нам: Ідіть,
+        повернітесь до царя, що вас послав, і скажіть йому: Так говорить
+        Господь: Хіба в Ізраїлі нема Бога, що ти посилаєш питати Ваал-Зевува,
+        екронського бога? За це ти не встанеш з ліжка, на яке ліг; ти мусиш
+        умерти.”"
+      ukr3: "Відказують йому: Вийшов зустріч нам чоловік; та й сказав нам: Вернїтесь
+        до царя, що вас послав і скажіть йому: Хиба в Ізраїлї та нема Бога, що
+        ти посилаєш питати в Беел-Себула, Екронського бога? За се не встанеш ти
+        з постелї, що лїг на її, а мусиш умерти."
+      bel_syomukha: "І сказалі яму: насустрач нам выйшаў чалавек і сказаў нам: ідзеце,
+        вярнецеся да цара, які паслаў вас, і скажэце яму: так кажа Гасподзь:
+        хіба няма Бога ў Ізраілі, што ты пасылаеш пытацца ў Вэльзэвула, божышча
+        Акаронскага? За тое з пасьцелі, на якую ты лёг, ня сыдзеш зь яе, а
+        памрэш."
+      lev-khv: "И сказали ему: на встречу нам вышел человек и сказал нам: подите,
+        возвратитесь к царю, который послал вас, и скажите ему: так говорит
+        Господь: разве нет Бога в Израиле, что ты посылаешь вопросить
+        Веельзевула, божество Аккаронское? За то с постели, на которую ты лег,
+        не встанешь с нея, но умрешь."
+      czech: "Odvetili mu: \"Jakysi muz nam vysel vstric a rekl nam: ‚Jdete zpet ke
+        krali, ktery vas vyslal, a vyridte mu: Toto pravi Hospodin: Coz neni Buh
+        v Izraeli, ze se obracis s dotazem na Baal-zebuba, boha Ekronu? Proto z
+        loze, na nez jsi ulehl, nepovstanes, ale zcela jiste zemres.'\""
+      spanish: "Y ellos respondieron: <<Ha sido a nuestro encuentro un hombre y nos ha
+        dicho: Id y volveos al rey que os ha mandado y decidle: Así habla Yavé:
+        ¿No hay Dios en Israel, para que mandes tú a consultar a Baalzebub, dios
+        de Acarón? Por eso no bajarás tú del lecho a que has subido, pues
+        morirás>>."
+      greek-lxx: καὶ εἶπαν πρὸς αὐτόν ἀνὴρ ἀνέβη εἰς συνάντησιν ἡμῶν καὶ εἶπεν πρὸς
+        ἡμᾶς δεῦτε ἐπιστράφητε πρὸς τὸν βασιλέα τὸν ἀποστείλαντα ὑμᾶς καὶ
+        λαλήσατε πρὸς αὐτόν τάδε λέγει Κύριος εἰ παρὰ τὸ μὴ εἶναι Θεὸν ἐν Ισραηλ
+        σὺ πορεύῃ ζητῆσαι ἐν τῇ Βααλ μυῖαν θεὸν Ακκαρων οὐχ οὕτως ἡ κλίνη ἐφ᾿ ἧς
+        ἀνέβης ἐκεῖ οὐ καταβήσῃ ἀπ᾿ αὐτῆς ὅτι θανάτῳ ἀποθανῇ
+      st_text: "И сказали ему: навстречу нам вышел человек и сказал нам: пойдите,
+        возвратитесь к царю, который послал вас, и скажите ему: так говорит
+        Господь: разве нет Бога в Израиле, что ты посылаешь вопрошать
+        Веельзевула, божество Аккаронское? За то с постели, на которую ты лег,
+        не сойдешь с нее, но умрешь."
+  - id: 8685
+    number: 7
+    bookId: 12
+    text: "И сказал им: каков видом тот человек, который вышел навстречу вам и
+      говорил вам слова сии?"
+    chapter: 1
+    chapterId: 314
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И рече к ним царь, глаголя: каков взором бяше муж той вшедый в сретение
+        вам и глаголавый вам словеса сия?"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 къ ни6мъ цaрь, глаго1лz: како1въ взо1ромъ бsше мyжъ то1й
+        вше1дый въ срётеніе вaмъ и3 глаго1лавый вaмъ словесA сі‰;"
+      sovr_rbo: "Царь спросил: «А как выглядел тот человек, который вышел вам
+        навстречу и сказал это?»"
+      latin: "Qui dixit eis: Cujus figurae et habitus est vir ille, qui occurrit
+        vobis, et locutus est verba haec?"
+      ukr: "А він їм сказав: Якого вигляду той чоловік, що вийшов назустріч вас, і
+        говорив вам оці слова?"
+      nkjv: Then he said to them, "What kind of man was it who came up to meet you and
+        told you these words?"
+      desnitsky: "Он спросил их: «Каков был с виду человек, что встретился вам и
+        сказал всё это?»"
+      mt: ‫    וַיְדַבֵּר אֲלֵהֶם מֶה מִשְׁפַּט הָאִישׁ אֲשֶׁר עָלָה לִקְרַאתְכֶם
+        וַיְדַבֵּר אֲלֵיכֶם אֶת־הַדְּבָרִים הָאֵלֶּה׃ ‬
+      romana: 'Iar regele le-a zis: "Ce infatisare avea omul acela care v-a iesit
+        inainte si v-a grait cuvintele acestea?"'
+      francais: "Achazia leur dit: Quel air avait l'homme qui est monté à votre
+        rencontre et qui vous a dit ces paroles?"
+      italian: "Domandò loro: \"Com'era l'uomo che vi è venuto incontro e vi ha detto
+        simili parole?\"."
+      old_georgian: "და ჰრქუა მათ მეფემან: რა ხატი იყო კაცი იგი, რომელი მოგეგებოდა და
+        გრქუა სიტყუაჲ ეგე?"
+      portuguese: "Pelo que ele lhes indagou: Qual era a aparência do homem que subiu
+        ao vosso encontro e vos falou estas\rpalavras?"
+      polish: "On zaś rzekł do nich: ”Jak wyglądał ten człowiek, który wyszedł
+        naprzeciw\rwas i wypowiedział do was te słowa?”"
+      turkish: Kral, «Sizi karşılayıp bu sözleri söyleyen nasıl bir adamdı?» diye sordu.
+      nrt: "Царь спросил их: – Как выглядел тот человек, который вышел вам навстречу и
+        сказал это?"
+      Macarius: "И сказал им: каков видом тот человек, который вышел вам навстречу и
+        говорил вам слова сии?"
+      serbian: "А он им рече: Какав бјеше на очи тај човјек који вас срете и то вам
+        рече?"
+      bulgarian: "И ги попита: какъв беше наглед оня човек, който ви присрещна и ви
+        каза тия думи?"
+      pavskiy: "И сказал им: каков видом тот человек, который вышел вам на встречу, и
+        говорил вам слова сии?"
+      deutsch: "Er sprach zu ihnen: Wie war der Mann gestaltet, der euch begegnete und
+        solches zu euch sagte?"
+      ukr2: "Він їх питає: “Як був одягнений той чоловік, що вийшов вам назустріч і
+        сказав вам таке?”"
+      ukr3: "І питає їх: Який собою той чоловік, що вийшов зустріч вам і сказав таке
+        вам?"
+      bel_syomukha: "І сказаў ім: які з выгляду той чалавек, які выйшаў напярэймы вам
+        і казаў вам словы гэтыя?"
+      lev-khv: "И сказал им: каков видом тот человек, вышедший на встречу вам и
+        сказавший вам эти слова?"
+      czech: 'Otazal se jich: "Jak vypadal ten muz, ktery vam vysel vstric a mluvil k
+        vam tato slova?"'
+      spanish: "Ocozías les preguntó: << ¿Qué trazas tenía el hombre que ha salido a
+        vuestro encuentro y ha dicho eso?>>"
+      greek-lxx: καὶ ἐλάλησεν πρὸς αὐτοὺς λέγων τίς ἡ κρίσις τοῦ ἀνδρὸς τοῦ ἀναβάντος
+        εἰς συνάντησιν ὑμῖν καὶ λαλήσαντος πρὸς ὑμᾶς τοὺς λόγους τούτους
+      st_text: "И сказал им: каков видом тот человек, который вышел навстречу вам и
+        говорил вам слова сии?"
+  - id: 8686
+    number: 8
+    bookId: 12
+    text: "Они сказали ему: человек тот весь в волосах и кожаным поясом подпоясан по
+      чреслам своим. И сказал он: это Илия Фесвитянин."
+    chapter: 1
+    chapterId: 314
+    parallels:
+      - verseId: 36222
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 19
+        short: Втор:19:19
+      - verseId: 7172
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 19
+        short: 3 Цар:19:19
+      - verseId: 20189
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 20
+        short: Ис:20:2
+      - verseId: 36964
+        bookId: 45
+        bookCode: kniga-proroka-zaharii
+        chapter: 13
+        short: Зах:13:4
+      - verseId: 25838
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 3
+        short: Мф:3:4
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И реша к нему: муж космат и поясом усменным препоясан о чреслех своих. И
+        рече царь: илиа фесвитянин сей есть."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рёша къ немY: мyжъ космaтъ и3 по1zсомъ ўсме1ннымъ препоsсанъ њ
+        чре1слэхъ свои1хъ. И# рече2 цaрь: и3ліA fесвjтzнинъ се1й є4сть."
+      sovr_rbo: "Ему ответили: «В овчине. А на бедрах — кожаный пояс». — «Это Илия
+        Тишбийский!» — сказал царь"
+      latin: "At illi dixerunt: Vir pilosus, et zona pellicea accinctus renibus. Qui
+        ait: Elias Thesbites est."
+      ukr: "Вони ж відказали: Це чоловік волохатий, а шкуряний пояс оперезаний на
+        стегнах його. А він сказав: Це тішб'янин Ілля!"
+      nkjv: So they answered him, "A hairy man wearing a leather belt around his
+        waist." And he said, "It is Elijah the Tishbite."
+      desnitsky: "Они ответили: «Весь он был волосат, а по чреслам был опоясан кожаным
+        поясом». И царь сказал: «Это Илия из Тешбы»."
+      mt: ‫    וַיֹּאמְרוּ אֵלָיו אִישׁ בַּעַל שֵׂעָר וְאֵזוֹר עוֹר אָזוּר בְּמָתְנָיו
+        וַיֹּאמַר אֵלִיָּה הַתִּשְׁבִּי הוּא׃ ‬
+      romana: 'Si ei i-au raspuns: "Omul acela este paros peste tot si incins peste
+        mijloc cu o cingatoare de curea". A zis regele: "Acela este Ilie
+        Tesviteanul".'
+      francais: "Ils lui répondirent: C'était un homme vêtu de poil et ayant une
+        ceinture de cuir autour des reins. Et Achazia dit: C'est Élie, le
+        Thischbite."
+      italian: 'Risposero: "Era un uomo peloso; una cintura di cuoio gli cingeva i
+        fianchi". Egli disse: "Quello è Elia il Tisbita!".'
+      old_georgian: "და ჰრქუეს: კაცი მატყიერ და სარტყელი ტყავისა ერტყა წელთა მისთა. და
+        თქუა: ელია თეზბიტელი არს იგი."
+      portuguese: "Responderam-lhe eles: Era um homem vestido de pelos, e com os
+        lombos cingidos dum cinto de couro. Então\rdisse ele: É Elias, o
+        tisbita."
+      polish: "Odpowiedzieli mu: ”Był to człowiek w płaszczu z sierści i pasem
+        skórzanym\rprzepasany dokoła bioder”. Wtedy zawołał: ”To Eliasz z
+        Tiszbe!”"
+      turkish: "«Üzerinde tüylü bir giysi, belinde deri bir kuşak vardı» diye
+        yanıtladılar.\rKral, «O Tişbeli İlyas'tır» dedi."
+      nrt: "Они ответили: – Он был одет в шкуры, с кожаным поясом на бедрах. Царь
+        сказал: – Это Илия из Тишбы."
+      Macarius: "Они сказали ему: человек сей в волосяной одежде, и чресла его
+        подпоясаны кожаным поясом. И сказал он: это Илия Фесвитянин."
+      serbian: "А они му одговорише: Бјеше сав космат и опасан кожнијем појасом. А он
+        рече: То је Илија Тесвићанин."
+      bulgarian: "Те му отговориха: оня човек беше цял в косми и опасан през кръста с
+        кожен пояс. Той рече: това е Илия Тесвитец."
+      pavskiy: "Они сказали ему: человек сей в волосяной одежде, и чресла его
+        подпоясаны кожаным поясом. И сказал он: это Илия фесвитянин."
+      deutsch: "Sie sprachen zu ihm: Er hatte eine rauhe Haut an und einen ledernen
+        Gürtel um seine Lenden. Er aber sprach: Es ist Elia, der Thisbiter."
+      ukr2: "Ті відповіли йому: “Чоловік той був одягнений у волохату одежу,
+        підперезаний ремінним поясом.” І сказав він: “Це Ілля тішбій!”"
+      ukr3: "Відказали йому: Чоловік той цїлий волохатий, а чересла підперезані
+        шкуряним поясом. І каже він: Се Ілия Тесбій."
+      bel_syomukha: "Яны сказалі яму: чалавек той увесь у валасах і скураным поясам
+        аперазаны па сьцёгнах сваіх. І сказаў ён: гэта Ільля Фэсьвіцянін."
+      lev-khv: "Они сказали ему: человек этот весь в волосах и кожаным поясом
+        подпоясан по чреслам своим. И сказал тот: это Илия, Фесвитянин."
+      czech: 'Oni mu rekli: "Byl to muz v chlupatem plasti a bedra mel opasana kozenym
+        pasem." Tu rekl: "To byl Elijas Tisbejsky."'
+      spanish: "Ellos le respondieron: <<Era un hombre vestido de pieles y con un
+        cinturón de cuero a la cintura>>. Ocozías dijo: <<Es Elías tesbita>>."
+      greek-lxx: καὶ εἶπον πρὸς αὐτόν ἀνὴρ δασὺς καὶ ζώνην δερματίνην περιεζωσμένος
+        τὴν ὀσφὺν αὐτοῦ καὶ εἶπεν Ηλιου ὁ Θεσβίτης οὗτός ἐστιν
+      st_text: "Они сказали ему: человек тот весь в волосах и кожаным поясом подпоясан
+        по чреслам своим. И сказал он: это Илия Фесвитянин."
+  - id: 8687
+    number: 9
+    bookId: 12
+    text: "И послал к нему пятидесятника с его пятидесятком. И он взошел к нему,
+      когда Илия сидел на верху горы, и сказал ему: человек Божий! царь говорит:
+      сойди."
+    chapter: 1
+    chapterId: 314
+    parallels:
+      - verseId: 35003
+        bookId: 7
+        bookCode: kniga-sudej-izrailevyh
+        chapter: 13
+        short: Суд:13:6
+      - verseId: 7101
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 17
+        short: 3 Цар:17:18
+      - verseId: 3796
+        bookId: 72
+        bookCode: 1oe-poslanie-k-timofeu-ap-pavla
+        chapter: 6
+        short: 1 Тим:6:11
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И посла к нему стареишину пятьдесятника и пятьдесят мужей его. И взыде и
+        прииде к нему: и се, илиа бе седя верху горы. И глагола пятьдесятник к
+        нему и рече: человече Божии, царь зовет тя, сниди."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# послA къ немY старёйшину пzтьдесsтника и3 пzтьдесsтъ муже1й є3гw2.
+        И# взы1де и3 пріи1де къ немY: и3 се2, и3ліA бЁ сэдS верхY горы2. И#
+        глаго1ла пzтьдесsтникъ къ немY и3 рече2: человёче б9іи, цaрь зове1тъ тS,
+        сни1ди."
+      sovr_rbo: "и послал за ним начальника полусотни вместе с полусотенным отрядом.
+        Начальник полусотни пришел к Илие, сидевшему на вершине горы. «Человек
+        Божий! — сказал он Илие. — Царь приказывает тебе: „Сойди!”»"
+      latin: "Misitque ad eum quinquagenarium principem, et quinquaginta qui erant sub
+        eo. Qui ascendit ad eum: sedentique in vertice montis, ait: Homo Dei,
+        rex praecepit ut descendas."
+      ukr: "І послав він до нього п'ятдесятника та його п'ятдесятку. І вийшов він до
+        нього, аж ось він сидить на верхів'ї гори. І сказав він до нього:
+        Чоловіче Божий, цар сказав: Зійди ж ізвідти!"
+      nkjv: "Then the king sent to him a captain of fifty with his fifty men. So he
+        went up to him; and there he was, sitting on the top of a hill. And he
+        spoke to him: \"Man of God, the king has said, 'Come down!' \" "
+      desnitsky: "Он отправил за ним пятидесятника вместе с пятидесятком. Когда он
+        пришел к Илии, тот сидел на вершине холма. Пятидесятник сказал: «Человек
+        Божий! Царь велит тебе сойти»."
+      mt: ‫    וַיִּשְׁלַח אֵלָיו שַׂר־חֲמִשִּׁים וַחֲמִשָּׁיו וַיַּעַל אֵלָיו
+        וְהִנֵּה יֹשֵׁב עַל־רֹאשׁ הָהָר וַיְדַבֵּר אֵלָיו אִישׁ הָאֱלֹהִים
+        הַמֶּלֶךְ דִּבֶּר רֵדָה׃ ‬
+      romana: 'Atunci regele a trimis la el o capetenie peste cincizeci cu cei
+        cincizeci ai lui; si acesta a venit la el, cand Ilie sta pe varful
+        muntelui si i-a zis: "Omul lui Dumnezeu, regele iti zice: "Coboara-te!"'
+      francais: "Il envoya vers lui un chef de cinquante avec ses cinquante hommes. Ce
+        chef monta auprès d'Élie, qui était assis sur le sommet de la montagne,
+        et il lui dit: Homme de Dieu, le roi a dit: Descends!"
+      italian: 'Allora gli mandò il capo di una cinquantina con i suoi cinquanta
+        uomini. Questi andò da lui, che era seduto sulla cima del monte, e gli
+        disse: "Uomo di Dio, il re ti ordina di scendere!".'
+      old_georgian: "და წარავლინა ერგასისთავი ერგასისითურთ მისით, და მივიდეს მისა და
+        ელია ჯდა ზედა თავსა მის მთისასა. სიტყუად იწყო ერგასისთავმან და ჰრქუა
+        მას: კაცო ღმრთისაო, გიწოდს შენ მეფე, გარდამოჴედ მაგიერ!"
+      portuguese: "Então o rei lhe enviou um chefe de cinqüenta, com os seus
+        cinqüenta. Este subiu a ter com Elias que estava\rsentado no cume do
+        monte, e disse-lhe: Ó homem de Deus, o rei diz: Desce."
+      polish: "Posłał zatem po niego pięćdziesiątnika wraz z jego pięćdziesiątką.
+        Przyszedł\rwięc on do Eliasza, gdy właśnie przebywał na szczycie góry, i
+        powiedział do\rniego: ”Mężu Boży! Na rozkaz króla, zejdź!”"
+      turkish: Sonra bir komutanla birlikte elli adamını İlyas'a gönderdi. Komutan
+        tepenin üstünde oturan İlyas'ın yanına çıkıp ona, «Ey Tanrı adamı, kral
+        aşağı inmeni istiyor» dedi.
+      nrt: "Он послал к Илии военачальника с пятьюдесятью воинами. Тот поднялся к
+        Илии, который сидел на вершине холма, и сказал ему: – Божий человек,
+        царь говорит: «Спустись!»"
+      Macarius: "И послал к нему пятидесятника с его пятидесятком. Сей подошел к нему,
+        когда он сидел на верху горы, и сказал ему: человек Божий, царь говорит:
+        иди."
+      serbian: "Тада посла к њему педесетника с његовом педесеторицом; и он отиде к
+        њему; и гле, он сјеђаше наврх горе, и педесетник му рече: Човјече Божји,
+        цар је заповједио, сиђи."
+      bulgarian: "И проводи царят при него петдесетник с неговите петдесетмина. И той
+        се изкачи при него, когато Илия седеше навръх планината, и му каза:
+        човече Божий! царят каза: слез."
+      pavskiy: "И послал к нему пятидесятника с его пятидесятком. Сей подошел к нему,
+        когда он сидел на верху горы, и сказал ему: человек Божий, царь говорит:
+        иди."
+      deutsch: "Und er sandte hin zu ihm einen Hauptmann über fünfzig samt seinen
+        fünfzigen. Und da er hinaufkam, siehe, da saß er oben auf dem Berge. Er
+        aber sprach zu Ihm: Du Mann Gottes, der König sagt: Du sollst
+        herabkommen!"
+      ukr2: "Тоді він послав до нього півсотника з його півсотнею. Цей прийшов до
+        нього, - а він сидів на верху гори, - й каже до нього: “Чоловіче Божий,
+        цар повеліває: Зійди з гори!”"
+      ukr3: "І послав до його полусотника з його півсотнею. Сей прийшов до його, а він
+        седїв на верху на горі, й промовив до його: Чоловіче Божий, царь
+        повелїває: зійди з гори."
+      bel_syomukha: "І паслаў да яго пяцідзясятніка зь ягоным пяцідзясяткам. І ён
+        узышоў да яго, калі Ільля сядзеў наверсе гары, і сказаў яму: чалавек
+        Божы? цар кажа: сыдзі."
+      lev-khv: "И послал к нему пятидесятника с его пятидесятком. И он восшел к нему
+        (и вот, Илия сидел на верху горы), и сказал ему: человек Божий! царь
+        говорит: спустись."
+      czech: "Poslal pro neho velitele s padesati vojaky. Ten k nemu vystoupil, a hle,
+        Elijas sedel na vrcholu hory. Promluvil k nemu: \"Muzi Bozi, kral
+        rozkazuje: ‚Sestup!'\""
+      spanish: "Mandó a él un quincuagenario con sus cincuenta hombres. Subió el jefe
+        a Elías, que estaba sentado en la cumbre de la montaña, y le dijo:
+        <<Hombre de Dios, el rey dice: Baja>>."
+      greek-lxx: καὶ ἀπέστειλεν πρὸς αὐτὸν ἡγούμενον πεντηκόνταρχον καὶ τοὺς
+        πεντήκοντα αὐτοῦ καὶ ἀνέβη καὶ ἦλθεν πρὸς αὐτόν καὶ ἰδοὺ Ηλιου ἐκάθητο
+        ἐπὶ τῆς κορυφῆς τοῦ ὄρους καὶ ἐλάλησεν ὁ πεντηκόνταρχος πρὸς αὐτὸν καὶ
+        εἶπεν ἄνθρωπε τοῦ Θεοῦ ὁ βασιλεὺς ἐκάλεσέν σε κατάβηθι
+      st_text: "И послал к нему пятидесятника с его пятидесятком. И он взошел к нему,
+        когда Илия сидел на верху горы, и сказал ему: человек Божий! царь
+        говорит: сойди."
+  - id: 8688
+    number: 10
+    bookId: 12
+    text: "И отвечал Илия, и сказал пятидесятнику: если я человек Божий, то пусть
+      сойдет огонь с неба и попалит тебя и твой пятидесяток. И сошел огонь с
+      неба и попалил его и пятидесяток его."
+    chapter: 1
+    chapterId: 314
+    parallels:
+      - verseId: 34585
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 48
+        short: Сир:48:4
+      - verseId: 24925
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 9
+        short: Лк:9:54
+      - verseId: 28189
+        bookId: 77
+        bookCode: otkrovenie-ap-ioanna-bogoslova
+        chapter: 11
+        short: Откр:11:5
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И отвеща илиа и рече к пятьдесятнику: аще есмь человек Божий аз, то да
+        снидет огнь с небесе и снест тя и пятьдесят твоих (с тобою). И сниде
+        огнь с небесе и снеде его и пятьдесят мужей его."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# tвэщA и3ліA и3 рече2 къ пzтьдесsтнику: ѓще є4смь человёкъ б9ій
+        ѓзъ, то2 да сни1детъ џгнь съ небесе2 и3 снёстъ тS и3 пzтьдесsтъ твои1хъ
+        (съ тобо1ю). И# сни1де џгнь съ небесе2 и3 снэде2 є3го2 и3 пzтьдесsтъ
+        муже1й є3гw2."
+      sovr_rbo: "Илия ответил: «Если я и вправду человек Божий, пусть огонь сойдет с
+        неба и испепелит тебя с твоим отрядом!» И сошел огонь с неба, и
+        испепелил начальника полусотни и весь его отряд."
+      latin: "Respondensque Elias, dixit quinquagenario: Si homo Dei sum, descendat
+        ignis de caelo, et devoret te, et quinquaginta tuos. Descendit itaque
+        ignis de caelo, et devoravit eum, et quinquaginta qui erant cum eo."
+      ukr: "А Ілля відповів і говорив до того п'ятдесятника: А якщо я Божий чоловік,
+        нехай зійде з неба огонь, і нехай пожере тебе та п'ятдесятку твою! І
+        зійшов із неба огонь, і пожер його та його п'ятдесятку..."
+      nkjv: So Elijah answered and said to the captain of fifty, "If I am a man of
+        God, then let fire come down from heaven and consume you and your fifty
+        men." And fire came down from heaven and consumed him and his fifty.
+      desnitsky: "Так отвечал Илия пятидесятнику: «Если я человек Божий, пусть огонь
+        сойдет с небес и спалит тебя вместе с пятидесятком твоим». И сошел огонь
+        с неба, и спалил его вместе с пятидесятком."
+      mt: ‫    וַיַּעֲנֶה אֵלִיָּהוּ וַיְדַבֵּר אֶל־שַׂר הַחֲמִשִּׁים וְאִם־אִישׁ
+        אֱלֹהִים אָנִי תֵּרֶד אֵשׁ מִן־הַשָּׁמַיִם וְתֹאכַל אֹתְךָ
+        וְאֶת־חֲמִשֶּׁיךָ וַתֵּרֶד אֵשׁ מִן־הַשָּׁמַיִם וַתֹּאכַל אֹתוֹ
+        וְאֶת־חֲמִשָּׁיו׃ ‬
+      romana: 'Iar Ilie a raspuns: "De sunt omul lui Dumnezeu, sa se coboare foc din
+        cer si sa te arda pe tine si pe cei cincizeci ai tai!" Si s-a coborat
+        foc din cer si l-a mistuit pe el si pe cei cincizeci ai lui.'
+      francais: "Élie répondit au chef de cinquante: Si je suis un homme de Dieu, que
+        le feu descende du ciel et te consume, toi et tes cinquante hommes! Et
+        le feu descendit du ciel et le consuma, lui et ses cinquante hommes."
+      italian: 'Elia rispose al capo della cinquantina: "Se sono uomo di Dio, scenda
+        il fuoco dal cielo e divori te e i tuoi cinquanta". Scese un fuoco dal
+        cielo e divorò quello con i suoi cinquanta.'
+      old_georgian: "მიუგო ელია და ჰრქუა ერგასისთავსა მას: უკუეთუ კაცი ღმრთისა ვარ მე,
+        გარდამოჴედინ ცეცხლი უფლისა მიერ ზეცით, შეგჭამენ შენ და ერგასისნი ეგე
+        შენნი. და გარდამოჴდა ცეცხლი ზეცით და შეჭამა იგი და ერგასისნი იგი მისნი
+        მის თანა."
+      portuguese: "Mas Elias respondeu ao chefe de cinqüenta, dizendo-lhe: Se eu,
+        pois, sou homem de Deus, desça fogo do céu, e\rte consuma a ti e aos
+        teus cinqüenta. Então desceu fogo do céu, e consumiu a ele e aos seus
+        cinqüenta."
+      polish: "Odpowiadając Eliasz rzekł do pięćdziesiątnika: ”Jeżeli ja jestem mężem
+        Bo563\rKsięga 12 - Druga Księga Królewska Rozdział 2\rżym, niech spadnie
+        ogień z nieba i pochłonie ciebie wraz z twoją pięćdziesiątką!” I spadł
+        ogień z nieba i pochłonął go wraz z jego pięćdziesiątką."
+      turkish: İlyas, «Eğer ben Tanrı adamıysam, şimdi göklerden ateş yağacak ve
+        seninle birlikte elli adamını yok edecek!» diye karşılık verdi. O anda
+        göklerden ateş yağdı, komutanla birlikte elli adamını yakıp yok etti.
+      nrt: "Илия ответил начальнику над пятьюдесятью воинами: – Если я Божий человек,
+        пусть огонь сойдет с неба и пожрет тебя и твоих людей! И огонь, сойдя с
+        неба, пожрал его и пятьдесят его воинов."
+      Macarius: "И отвечал Илия, и сказал пятидесятнику: если я человек Божий, то
+        сойди с неба огонь и попали тебя и твой пятидесяток. И сошел с неба
+        огонь, и попалил его и пятидесяток его."
+      serbian: "А Илија одговарајући рече педесетнику: Ако сам човјек Божји, нека сиђе
+        огањ с неба и прождре тебе и твоју педесеторицу. И сиђе огањ с неба и
+        прождрије њега и његову педесеторицу."
+      bulgarian: "Отговори Илия и каза на петдесетника: ако съм аз човек Божий, нека
+        падне огън от небето и да изгори тебе и твоите петдесетмина. И падна
+        огън от небето и изгори и него и неговите петдесетмина."
+      pavskiy: "И отвечал Илия и сказаль пятидесятнику: если я человек Божий, то сойди
+        с неба огонь, и попали тебя и твой пятидесяток. И сошел с неба огонь, и
+        попалил его и пятидесяток его."
+      deutsch: "Elia antwortete dem Hauptmann über fünfzig und sprach zu ihm: Bin ich
+        ein Mann Gottes, so falle Feuer vom Himmel und fresse dich und deine
+        fünfzig. Da fiel Feuer vom Himmel und fraß ihn und seine fünfzig."
+      ukr2: "Ілля ж відповів, сказавши півсотникові: “Коли я чоловік Божий, нехай
+        зійде з неба вогонь і пожере тебе й твою півсотню.” І зійшов з неба
+        вогонь і пожер його та його півсотню."
+      ukr3: "Ілия ж відказав і промовив до полусотника: Коли я чоловік Божий, так
+        нехай зійде з неба огонь та й пожере тебе й твою полусотню. І зійшов із
+        неба огонь і пожер його й його півсотню."
+      bel_syomukha: "І адказваў Ільля і сказаў пяцідзясятніку: калі я чалавек Божы,
+        дык хай сыдзе агонь зь неба і папаліць цябе і твой пяцідзясятак. І сышоў
+        агонь зь неба і папаліў яго і пяцідзясятак ягоны."
+      lev-khv: "И отвечал Илия, и сказал пятидесятнику: если человек Божий я, то пусть
+        сойдет огонь с неба и пожрет тебя и твой пятидесяток. И сошел огонь с
+        неба, и пожрал его и пятидесяток его."
+      czech: 'Elijas veliteli tech padesati odpovedel: "Jsem-li muz Bozi, at sestoupi
+        ohen z nebe a pozre tebe i tvych padesat!" I sestoupil ohen z nebe a
+        pozrel jej i jeho padesat.'
+      spanish: "Elías respondió al jefe de los cincuenta: <<Si soy hombre de Dios, que
+        baje fuego del cielo y te abrase a ti y a tus cincuenta hombres>>. Y
+        bajó fuego del cielo y le devoró con sus cincuenta hombres."
+      greek-lxx: καὶ ἀπεκρίθη Ηλιου καὶ εἶπεν πρὸς τὸν πεντηκόνταρχον καὶ εἰ ἄνθρωπος
+        τοῦ Θεοῦ ἐγώ καταβήσεται πῦρ ἐκ τοῦ οὐρανοῦ καὶ καταφάγεταί σε καὶ τοὺς
+        πεντήκοντά σου καὶ κατέβη πῦρ ἐκ τοῦ οὐρανοῦ καὶ κατέφαγεν αὐτὸν καὶ
+        τοὺς πεντήκοντα αὐτοῦ
+      st_text: "И отвечал Илия, и сказал пятидесятнику: если я человек Божий, то пусть
+        сойдет огонь с неба и попалит тебя и твой пятидесяток. И сошел огонь с
+        неба и попалил его и пятидесяток его."
+  - id: 8689
+    number: 11
+    bookId: 12
+    text: "И послал к нему царь другого пятидесятника с его пятидесятком. И он стал
+      говорить ему: человек Божий! так сказал царь: сойди скорее."
+    chapter: 1
+    chapterId: 314
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И приложи царь послати к нему другаго пятьдесятника и пятьдесят (мужей) с
+        ним. И возшед, и глагола пятьдесятник к нему и рече: человече Божий,
+        сице глаголет царь: потщався сниди."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# приложи2 цaрь послaти къ немY другaго пzтьдесsтника и3 пzтьдесsтъ
+        (муже1й) съ ни1мъ. И# возше1дъ, и3 глаго1ла пzтьдесsтникъ къ немY и3
+        рече2: человёче б9ій, си1це глаго1летъ цaрь: потщaвсz сни1ди."
+      sovr_rbo: "Царь послал другого начальника полусотни с другим полусотенным
+        отрядом. Тот пришел и сказал Илие: «Человек Божий! Царь приказывает
+        тебе: „Сойди немедленно!”»"
+      latin: "Rursumque misit ad eum principem quinquagenarium alterum, et
+        quinquaginta cum eo. Qui locutus est illi: Homo Dei, haec dicit rex:
+        Festina, descende."
+      ukr: "І цар знову послав до нього іншого п'ятдесятника та його п'ятдесятку. І
+        він відповів і сказав до нього: Чоловіче Божий, отак сказав цар: Зійди ж
+        скоро!"
+      nkjv: "Then he sent to him another captain of fifty with his fifty men. And he
+        answered and said to him: \"Man of God, thus has the king said, 'Come
+        down quickly!' \" "
+      desnitsky: "И царь снова отправил за ним пятидесятника вместе с пятидесятком, и
+        тот обратился к нему: «Человек Божий, царь велит тебе скорей сойти»."
+      mt: ‫    וַיָּשָׁב וַיִּשְׁלַח אֵלָיו שַׂר־חֲמִשִּׁים אַחֵר וַחֲמִשָּׁיו
+        וַיַּעַן וַיְדַבֵּר אֵלָיו אִישׁ הָאֱלֹהִים כֹּה־אָמַר הַמֶּלֶךְ מְהֵרָה
+        רֵדָה׃ ‬
+      romana: 'Apoi a trimis regele la el alta capetenie cu alti cincizeci. Acesta i-a
+        zis: "Omul lui Dumnezeu, asa a zis regele: Coboara-te degraba!"'
+      francais: "Achazia envoya de nouveau vers lui un autre chef de cinquante avec
+        ses cinquante hommes. Ce chef prit la parole et dit à Élie: Homme de
+        Dieu, ainsi a dit le roi: Hâte-toi de descendre!"
+      italian: 'Il re mandò da lui ancora un altro capo di una cinquantina con i suoi
+        cinquanta uomini. Questi andò da lui e gli disse: "Uomo di Dio, il re ti
+        ordina di scendere subito".'
+      old_georgian: "და შესძინა მეფემან და მიავლინა სხუაჲ ერგასისთავი და ერგასისნი მის
+        თანა და აღჴდა ერგასისთავი იგი და ეტყოდა კაცსა მას ღმრთისასა:კაცო
+        ღმრთისაო, ესრე იტყჳს მეფე: გარდამოჴედ მაგიერ ადრე."
+      portuguese: "Tornou o rei a enviar-lhe outro chefe de cinqüenta com os seus
+        cinqüenta. Este lhe falou, dizendo: Ó homem de\rDeus, assim diz o rei:
+        Desce depressa."
+      polish: "Wtedy król powtórnie wysłał po niego innego pięćdziesiątnika wraz z
+        jego\rpięćdziesiątką. Ten odezwał się i rzekł do niego: ”Mężu Boży! Tak
+        rozkazuje\rkról: Zejdź natychmiast!”"
+      turkish: Bunun üzerine kral, İlyas'a başka bir komutanla birlikte elli adam daha
+        gönderdi. Komutan İlyas'a, «Ey Tanrı adamı, kral hemen aşağı inmeni
+        istiyor!» dedi.
+      nrt: "Тогда царь послал к Илии другого пятидесятника с его людьми. Тот сказал
+        Илии: – Божий человек, так говорит царь: «Немедленно спустись!»"
+      Macarius: "И опять послал к нему другого пятидесятника с его пятидесятком. И сей
+        также говорил ему: человек Божий, так сказал царь: иди, скорее."
+      serbian: "Опет посла к њему другог педесетника с његовом педесеторицом, који
+        проговори и рече му: Човјече Божји, цар је тако заповједио, сиђи брже."
+      bulgarian: "Царят проводи при него друг петдесетник с неговите петдесетмина. И
+        той му заговори и каза: човече Божий! тъй казва царят: слез по-скоро."
+      pavskiy: "И опять послал к нему другаго пятидесятника с его пятидесятком. И сей
+        также говорил ему: человек Божий, так сказал царь: иди скорее."
+      deutsch: "Und er sandte wiederum einen andern Hauptmann über fünfzig zu ihm samt
+        seinen fünfzigen. Der antwortete und sprach zu ihm: Du Mann Gottes, so
+        spricht der König: Komm eilends herab!"
+      ukr2: "Знову послав цар другого півсотника з його півсотнею. Прийшов він до
+        нього і каже: “Чоловіче Божий! Так говорить цар: Зійди негайно вниз!”"
+      ukr3: "І послав царь другого отамана над півсотнею вкупі з його півсотнею. Той
+        прийшов та й каже: Чоловіче Божий, так говорить царь: зійди скоренько
+        вниз."
+      bel_syomukha: "І паслаў да яго цар другога пяцідзясятніка зь ягоным
+        пяцідзясяткам. І ён пачаў гаварыць яму: чалавек Божы! так сказаў цар:
+        сыдзі хутчэй."
+      lev-khv: "И опять послал к нему пятидесятника другаго с его пятидесятком. И он
+        стал говорить ему: человек Божий! так сказал царь: скорее спустись."
+      czech: "Kral pro neho poslal opet jineho velitele s padesati vojaky. Ten
+        promluvil: \"Muzi Bozi, toto pravi kral: ‚Rychle sestup!'\""
+      spanish: "Ocozías mandó a él a otro quincuagenario con sus cincuenta hombres. El
+        quincuagenario habló a Elías y le dijo: <<Hombre de Dios, he aquí lo que
+        dice el rey: Baja en seguida>>."
+      greek-lxx: καὶ προσέθετο ὁ βασιλεὺς καὶ ἀπέστειλεν πρὸς αὐτὸν ἄλλον
+        πεντηκόνταρχον καὶ τοὺς πεντήκοντα αὐτοῦ καὶ ἀνέβη καὶ ἐλάλησεν ὁ
+        πεντηκόνταρχος πρὸς αὐτὸν καὶ εἶπεν ἄνθρωπε τοῦ Θεοῦ τάδε λέγει ὁ
+        βασιλεύς ταχέως κατάβηθι
+      st_text: "И послал к нему царь другого пятидесятника с его пятидесятком. И он
+        стал говорить ему: человек Божий! так сказал царь: сойди скорее."
+  - id: 8690
+    number: 12
+    bookId: 12
+    text: "И отвечал Илия и сказал ему: если я человек Божий, то пусть сойдет огонь
+      с неба и попалит тебя и твой пятидесяток. И сошел огонь Божий с неба, и
+      попалил его и пятидесяток его."
+    chapter: 1
+    chapterId: 314
+    parallels:
+      - verseId: 24925
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 9
+        short: Лк:9:54
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И отвеща илиа и глагола к нему и рече: аще человек Божий аз есмь, то да
+        снидет огнь с небесе, и да снест тя и пятьдесят (мужей) с тобою. И сниде
+        огнь с небесе и снеде его и пятьдесят мужей его."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# tвэщA и3ліA и3 глаго1ла къ немY и3 рече2: ѓще человёкъ б9ій ѓзъ
+        є4смь, то2 да сни1детъ џгнь съ небесе2, и3 да снёстъ тS и3 пzтьдесsтъ
+        (муже1й) съ тобо1ю. И# сни1де џгнь съ небесе2 и3 снэде2 є3го2 и3
+        пzтьдесsтъ муже1й є3гw2."
+      sovr_rbo: "Илия ответил: «Если я и вправду человек Божий, пусть огонь сойдет с
+        неба и испепелит тебя с твоим отрядом!» И сошел с неба огонь Божий, и
+        испепелил начальника полусотни и весь его отряд."
+      latin: "Respondens Elias, ait: Si homo Dei ego sum, descendat ignis de caelo, et
+        devoret te, et quinquaginta tuos. Descendit ergo ignis de caelo, et
+        devoravit illum, et quinquaginta ejus."
+      ukr: "І відповів Ілля та й сказав до нього: Якщо я Божий чоловік, нехай зійде з
+        неба огонь, і нехай пожере тебе та твою п'ятдесятку! І зійшов із неба
+        Божий огонь, і пожер його та його п'ятдесятку..."
+      nkjv: So Elijah answered and said to them, "If I am a man of God, let fire come
+        down from heaven and consume you and your fifty men." And the fire of
+        God came down from heaven and consumed him and his fifty.
+      desnitsky: "Так отвечал Илия пятидесятнику: «Если я человек Божий, пусть огонь
+        сойдет с небес и спалит тебя вместе с пятидесятком твоим». И сошел с
+        неба огонь Божий, и спалил его вместе с пятидесятком."
+      mt: ‫    וַיַּעַן אֵלִיָּה וַיְדַבֵּר אֲלֵיהֶם אִם־אִישׁ הָאֱלֹהִים אָנִי תֵּרֶד
+        אֵשׁ מִן־הַשָּׁמַיִם וְתֹאכַל אֹתְךָ וְאֶת־חֲמִשֶּׁיךָ וַתֵּרֶד
+        אֵשׁ־אֱלֹהִים מִן־הַשָּׁמַיִם וַתֹּאכַל אֹתוֹ וְאֶת־חֲמִשָּׁיו׃ ‬
+      romana: 'Si raspunzand, Ilie i-a zis: "De sunt omul lui Dumnezeu, sa se coboare
+        foc din cer si sa te arda pe tine si pe cei cincizeci ai tai!" si s-a
+        coborat focul lui Dumnezeu din cer si l-a ars pe el si pe cei cincizeci
+        ai lui.'
+      francais: "Élie leur répondit: Si je suis un homme de Dieu, que le feu descende
+        du ciel et te consume, toi et tes cinquante hommes! Et le feu de
+        Dieu  descendit du ciel et le consuma, lui et ses cinquante hommes."
+      italian: 'Elia rispose: "Se sono uomo di Dio, scenda un fuoco dal cielo e divori
+        te e i tuoi cinquanta". Scese un fuoco dal cielo e divorò quello con i
+        suoi cinquanta.'
+      old_georgian: "მიუგო ელია და ჰრქუა მას: უკუეთუ კაცი ღმრთისა ვარი მე,
+        გარდამოჴედინ ცეცხლი ზეცით და შეგჭამენ შენ და ერგასისნი ეგე შენნი. და
+        გარდამოჴდა ცეცხლი უფლისა მიერ და შეჭამა იგი და ერგასისნი მისნი მის
+        თანა."
+      portuguese: "Também a este respondeu Elias: Se eu sou homem de Deus, desça fogo
+        do céu, e te consuma a ti e aos teus\rcinqüenta. Então o fogo de Deus
+        desceu do céu, e consumiu a ele e aos seus cinqüenta."
+      polish: "Odpowiadając Eliasz rzekł do nich: ”Jeżeli ja jestem mężem Bożym,
+        niech\rspadnie ogień z nieba i pochłonie ciebie wraz z twoją
+        pięćdziesiątką!” A ogień\rBoży spadł z nieba i pochłonął go wraz z jego
+        pięćdziesiątką."
+      turkish: İlyas, «Eğer ben Tanrı adamıysam, göklerden ateş yağacak ve seninle
+        birlikte elli adamını yok edecek!» diye karşılık verdi. O anda göklerden
+        ateş yağdı, komutanla birlikte elli adamını yakıp yok etti.
+      nrt: – Если я Божий человек, – ответил Илия, – пусть огонь сойдет с неба и
+        пожрет тебя и твой пятидесяток! И огонь Божий, сойдя с неба, пожрал его
+        и его пятидесяток.
+      Macarius: "И отвечал Илия, и сказал им: если я человек Божий, то сойди с неба
+        огонь, и попали тебя и твой пятидесяток. И сошел с неба огонь Божий и
+        попалил его и его пятидесяток."
+      serbian: "А Илија одговори и рече им: Ако сам човјек Божји, нека сиђе огањ с
+        неба и прождре тебе и твоју педесеторицу. И сиђе огањ Божји с неба и
+        прождрије њега и његову педесеторицу."
+      bulgarian: "Илия отговори и му каза: ако съм аз човек Божий, нека падне огън от
+        небето и да изгори тебе и твоите петдесетмина. И падна огън Божий от
+        небето и изгори него и неговите петдесетмина."
+      pavskiy: "И отвечал Илия и сказал им: если я человек Божий, то сойди с неба
+        огонь, и попали тебя и твой пятидесяток. И сошел с неба огнь Божий, и
+        попалил его и его пятидесяток."
+      deutsch: "Elia antwortete und sprach: Bin ich ein Mann Gottes, so falle Feuer
+        vom Himmel und fresse dich und deine fünfzig. Da fiel das Feuer Gottes
+        vom Himmel und fraß ihn und seine fünfzig."
+      ukr2: "Ілля відповів, сказавши: “Коли я чоловік Божий, нехай зійде з неба вогонь
+        і пожере тебе й твою півсотню.” І зійшов з не-ба вогонь і пожер його та
+        його півсотню."
+      ukr3: "Ілия ж відказав і рече йому: Коли я чоловік Божий, нехай спаде огонь із
+        неба й пожере тебе й твою півсотню. І спав огонь Божий з неба та й пожер
+        його й його півсотню."
+      bel_syomukha: "І адказваў Ільля і сказаў яму: калі я чалавек Божы, дык хай сыдзе
+        агонь зь неба і папаліць цябе і твой пяцідзясятак. І сышоў агонь Божы зь
+        неба і папаліў яго і пяцідзясятак ягоны."
+      lev-khv: "И отвечал Илия, и сказал им: если человек Божий я, то пусть сойдет
+        огонь с неба и пожрет тебя и твой пятидесяток. И сошел огонь Божий с
+        неба, и пожрал его и пятидесяток его."
+      czech: 'Elijas jim odpovedel: "Jsem-li muz Bozi, at sestoupi ohen z nebe a pozre
+        tebe i tvych padesat!" I sestoupil Bozi ohen z nebe a pozrel jej i jeho
+        padesat.'
+      spanish: "Elías le respondió: <<Si soy hombre de Dios, que baje fuego del cielo
+        y te devore a ti y a tus cincuenta hombres>>. Y bajó fuego del cielo que
+        le devoró a él y a sus cincuenta hombres."
+      greek-lxx: καὶ ἀπεκρίθη Ηλιου καὶ ἐλάλησεν πρὸς αὐτὸν καὶ εἶπεν εἰ ἄνθρωπος τοῦ
+        Θεοῦ ἐγώ εἰμι καταβήσεται πῦρ ἐκ τοῦ οὐρανοῦ καὶ καταφάγεταί σε καὶ τοὺς
+        πεντήκοντά σου καὶ κατέβη πῦρ ἐκ τοῦ οὐρανοῦ καὶ κατέφαγεν αὐτὸν καὶ
+        τοὺς πεντήκοντα αὐτοῦ
+      st_text: "И отвечал Илия и сказал ему: если я человек Божий, то пусть сойдет
+        огонь с неба и попалит тебя и твой пятидесяток. И сошел огонь Божий с
+        неба, и попалил его и пятидесяток его."
+  - id: 8691
+    number: 13
+    bookId: 12
+    text: "И еще послал в третий раз пятидесятника с его пятидесятком. И поднялся, и
+      пришел пятидесятник третий, и пал на колена свои пред Илиею, и умолял его,
+      и говорил ему: человек Божий! да не будет презрена душа моя и душа рабов
+      твоих - сих пятидесяти - пред очами твоими;"
+    chapter: 1
+    chapterId: 314
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И приложи царь еще послати стареишину, пятьдесятника третияго, и
+        пятьдесят мужей с ним. И прииде к нему пятьдесятник третий, и поклонися
+        на колена своя пред илиею, и моли его, и глагола к нему и рече: человече
+        Божий, пощади душу мою и душу раб твоих сих пятьдесят пред очима
+        твоима:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# приложи2 цaрь є3ще2 послaти старёйшину, пzтьдесsтника тре1тіzго,
+        и3 пzтьдесsтъ муже1й съ ни1мъ. И# пріи1де къ немY пzтьдесsтникъ тре1тій,
+        и3 поклони1сz на кwлёна сво‰ пред8 и3ліе1ю, и3 моли2 є3го2, и3 глаго1ла
+        къ немY и3 рече2: человёче б9ій, пощади2 дyшу мою2 и3 дyшу р†бъ твои1хъ
+        си1хъ пzтьдесsтъ пред8 nчи1ма твои1ма:"
+      sovr_rbo: "Царь послал третьего начальника полусотни с новым полусотенным
+        отрядом. Тот пришел, пал на колени перед Илией и взмолился: «Человек
+        Божий! Пощади мою жизнь и жизнь рабов твоих — вот этого отряда!"
+      latin: "Iterum misit principem quinquagenarium tertium, et quinquaginta qui
+        erant cum eo. Qui cum venisset, curvavit genua contra Eliam, et precatus
+        est eum, et ait: Homo Dei, noli despicere animam meam, et animas
+        servorum tuorum qui mecum sunt."
+      ukr: "І знову послав він третього п'ятдесятника та його п'ятдесятку. І вийшов, і
+        прийшов третій п'ятдесятник, та й упав на коліна свої перед Іллею, і
+        благав його та до нього говорив: Чоловіче Божий, нехай же буде дорога
+        душа моя та душа твоїх рабів, тих п'ятидесяти, в очах твоїх!"
+      nkjv: 'Again, he sent a third captain of fifty with his fifty men. And the third
+        captain of fifty went up, and came and fell on his knees before Elijah,
+        and pleaded with him, and said to him: "Man of God, please let my life
+        and the life of these fifty servants of yours be precious in your
+        sight.'
+      desnitsky: "И царь отправил за ним в третий раз пятидесятника вместе с
+        пятидесятком. И когда третий пятидесятник пришел, то пал перед Илией на
+        колени и так умолял его: «Человек Божий! пусть значит что-то для тебя
+        моя жизнь и жизнь этих пятидесяти слуг твоих –"
+      mt: ‫    וַיָּשָׁב וַיִּשְׁלַח שַׂר־חֲמִשִּׁים שְׁלִשִׁים וַחֲמִשָּׁיו וַיַּעַל
+        וַיָּבֹא שַׂר־הַחֲמִשִּׁים הַשְּׁלִישִׁי וַיִּכְרַע עַל־בִּרְכָּיו
+        לְנֶגֶד אֵלִיָּהוּ וַיִּתְחַנֵּן אֵלָיו וַיְדַבֵּר אֵלָיו אִישׁ
+        הָאֱלֹהִים תִּיקַר־נָא נַפְשִׁי וְנֶפֶשׁ עֲבָדֶיךָ אֵלֶּה חֲמִשִּׁים
+        בְּעֵינֶיךָ׃ ‬
+      romana: 'Si a mai trimis regele a treia oara o capetenie cu cincizeci. Dar a
+        treia capetenie, venind si cazand in genunchi inaintea lui Ilie, l-a
+        rugat, zicand: "Omul lui Dumnezeu, sa nu fie trecut cu vederea de ochii
+        tai sufletul meu si sufletul acestor cincizeci de robi ai tai!'
+      francais: "Achazia envoya de nouveau un troisième chef de cinquante avec ses
+        cinquante hommes. Ce troisième chef de cinquante monta; et à son
+        arrivée, il fléchit les genoux devant Élie, et lui dit en suppliant:
+        Homme de Dieu, que ma vie, je te prie, et que la vie de ces cinquante
+        hommes tes serviteurs soit précieuse à tes yeux!"
+      italian: 'Il re mandò ancora un terzo capo con i suoi cinquanta uomini. Questo
+        terzo capo di una cinquantina andò, si inginocchiò davanti ad Elia e
+        supplicò: "Uomo di Dio, valgano qualche cosa ai tuoi occhi la mia vita e
+        la vita di questi tuoi cinquanta servi.'
+      old_georgian: "და შესძინა მერმეცა მეფემან მესამედ და მიავლინა ერგასისთავი და
+        ერგასისნი მის თანა. და მივიდა მისა ერგასისთავი იგი მესამე და დაიდგნა
+        მუჴლნი წინაშე ელიასა, ევედრებოდა მას და ეტყოდა: კაცო ღმრთისაო,
+        დიდებულ-ყავ თავი მონისა შენისა და თავნი ერგასის ამათ მონათა შენთანი
+        წინაშე თუალთა შენთა."
+      portuguese: "Ainda tornou o rei a enviar terceira vez um chefe de cinqüenta com
+        os seus cinqüenta. E o terceiro chefe de\rcinqüenta, subindo, veio e
+        pôs-se de joelhos diante de Elias e suplicou-lhe, dizendo: ó homem de
+        Deus, peço-te\rque seja preciosa aos teus olhos a minha vida, e a vida
+        destes cinqüenta teus servos."
+      polish: "Wtedy król znowu wysłał trzeciego pięćdziesiątnika wraz z jego
+        pięćdziesiątką. Gdy trzeci pięćdziesiątnik przyszedł, upadł na kolana
+        przed Eliaszem i\rbłagał go o miłosierdzie w tych słowach: ”Mężu Boży!
+        Niechże życie moje\roraz życie tych sług twoich pięćdziesięciu drogie
+        będzie w oczach twoich!"
+      turkish: "Kral üçüncü kez bir komutanla elli adam gönderdi. Üçüncü komutan çıkıp
+        İlyas'ın önünde diz çöktü ve ona şöyle yalvardı: «Ey Tanrı adamı, lütfen
+        bana ve adamlarıma acı, canımızı bağışla!"
+      nrt: Тогда царь послал третьего пятидесятника с его людьми. Этот командир
+        поднялся и пал на колени перед Илией. – Божий человек, – взмолился он, –
+        прошу, пощади мою жизнь и жизнь этих пятидесяти воинов, твоих слуг!
+      Macarius: "И еще послал третьего пятидесятника с его пятидесятком. И пошел, и
+        пришел третий пятидесяток, и пал на колени свои пред Илиею, и умолял
+        его, и говорил ему: человек Божий, да будет пред очами твоими не
+        малоценна душа моя, и душа сих пятидесяти рабов твоих!"
+      serbian: "Тада опет посла трећега педесетника с његовом педесеторицом. А овај
+        трећи педесетник кад дође, клече на кољена своја пред Илијом и молећи
+        га, рече му: Човјече Божји, да ти је драга душа моја и душа ове
+        педесеторице, слуга твојих."
+      bulgarian: "И проводи трети път петдесетник с неговите петдесетмина. Третият
+        петдесетник стана, та дойде, и падна на колене пред Илия, молеше го и му
+        думаше: човече Божий, да не бъде презряна душата ми и душата на твоите
+        раби - тия петдесетмина - пред твоите очи;"
+      pavskiy: "И еще послал третьяго пятидесятника с его пятидесятком. И пошел, и
+        пришел третий пятидесятник, и пал на колена свои пред Илиею, и умолял
+        его, и говорил ему: человек Божий, да будет пред очами твоими не
+        малоценна душа моя и душа сих пятидесяти рабов твоих!"
+      deutsch: "Da sandte er wiederum den dritten Hauptmann über fünfzig samt seinen
+        fünfzigen. Da der zu ihm hinaufkam, beugte er seine Kniee gegen Elia und
+        flehte ihn an und sprach zu ihm: Du Mann Gottes, laß meine Seele und die
+        Seele deiner Knechte, dieser fünfzig, vor dir etwas gelten."
+      ukr2: "Тоді цар послав знову третього півсотника з його півсотнею Прийшов третій
+        півсотник, упав перед Іллею навколішки й став його благати, кажучи:
+        “Чоловіче Божий! Нехай моє життя й життя оцих 50 слуг твоїх буде цінне в
+        твоїх очах."
+      ukr3: "Тодї послав ще третього отамана над півсотнею вкупі з його півсотнею.
+        Пійшов той, й як прийшов, упав навколїшки перед Ілиєю та й промовив,
+        благаючи: Чоловіче Божий! не погорди душею моєю й душами сих
+        пятьдесятьох рабів твоїх."
+      bel_syomukha: "І яшчэ паслаў трэцім разам пяцідзясятніка зь ягоным
+        пяцідзясяткам. І падняўся, і прыйшоў пяцідзясятнік трэці, і ўпаў на
+        калені свае перад Ільлём, і ўмольваў яго і казаў яму: чалавек Божы! хай
+        ня будзе пагарджана душа мая і душа рабоў тваіх - гэтых пяцідзесяці -
+        перад вачыма тваімі;"
+      lev-khv: "И еще послал в третий раз пятидесятника с его пятидесятком. И
+        поднялся, и пришел пятидесятник третий, и пал на колена свои пред Илиею,
+        и умолял его, и говорил ему: человек Божий! да будет немалоценна душа
+        моя и душа рабов твоих, этих пятидесяти, пред очами твоими."
+      czech: 'Ale kral poslal jeste potreti velitele s padesati vojaky. Kdyz tento
+        treti velitel prisel nahoru, poklekl pred Elijasem a prosil ho o
+        smilovani. Promluvil k nemu: "Muzi Bozi, kez ma v tvych ocich zivot muj
+        i zivot techto tvych padesati sluzebniku nejakou cenu.'
+      spanish: "Mandó de nuevo Ocozías, por tercera vez, a un quincuagenario con sus
+        cincuenta hombres. Este tercero subió, y a su llegada se prosternó ante
+        Elías suplicándole, y le dijo: <<Hombre de Dios, sea preciosa a tus ojos
+        mi vida y la vida de tus siervos."
+      greek-lxx: καὶ προσέθετο ὁ βασιλεὺς ἔτι ἀποστεῖλαι ἡγούμενον πεντηκόνταρχον
+        τρίτον καὶ τοὺς πεντήκοντα αὐτοῦ καὶ ἦλθεν πρὸς αὐτὸν ὁ πεντηκόνταρχος ὁ
+        τρίτος καὶ ἔκαμψεν ἐπὶ τὰ γόνατα αὐτοῦ κατέναντι Ηλιου καὶ ἐδεήθη αὐτοῦ
+        καὶ ἐλάλησεν πρὸς αὐτὸν καὶ εἶπεν ἄνθρωπε τοῦ Θεοῦ ἐντιμωθήτω δὴ ἡ ψυχή
+        μου καὶ ἡ ψυχὴ τῶν δούλων σου τούτων τῶν πεντήκοντα ἐν ὀφθαλμοῖς σου
+      st_text: "И еще послал в третий раз пятидесятника с его пятидесятком. И
+        поднялся, и пришел пятидесятник третий, и пал на колена свои пред Илиею,
+        и умолял его, и говорил ему: человек Божий! да не будет презрена душа
+        моя и душа рабов твоих - сих пятидесяти - пред очами твоими;"
+  - id: 8692
+    number: 14
+    bookId: 12
+    text: вот, сошел огонь с неба, и попалил двух пятидесятников прежних с их
+      пятидесятками; но теперь да не будет презрена душа моя пред очами твоими!
+    chapter: 1
+    chapterId: 314
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "се, сниде огнь с небесе и пояде два пятьдесятника первыя с пятиюдесятми
+        их: и ныне да пощадится душа рабов твоих пред очима твоима."
+      averincev: ""
+      ungerov: ""
+      csya_old: "се2, сни1де џгнь съ небесе2 и3 поzде2 двA пzтьдес‰тника пє1рвыz съ
+        пzтіюдесzтьми2 и4хъ: и3 нн7э да пощади1тсz душA рабHвъ твои1хъ пред8
+        nчи1ма твои1ма."
+      sovr_rbo: Двух начальников, вместе с их отрядами, испепелил огонь, сошедший с
+        неба! Пощади мою жизнь!»
+      latin: "Ecce descendit ignis de caelo, et devoravit duos principes
+        quinquagenarios primos, et quinquagenos qui cum eis erant: sed nunc
+        obsecro ut miserearis animae meae."
+      ukr: Ось зійшов був огонь із неба, та й пожер тих двох перших п'ятдесятників та
+        їхні п'ятдесятки; а тепер нехай буде дорога душа моя в очах твоїх!
+      nkjv: Look, fire has come down from heaven and burned up the first two captains
+        of fifties with their fifties. But let my life now be precious in your
+        sight."
+      desnitsky: вот, сошел с неба огонь и спалил прежних пятидесятников с их
+        пятидесятками, но пусть моя жизнь что-то значит для тебя!»
+      mt: ‫    הִנֵּה יָרְדָה אֵשׁ מִן־הַשָּׁמַיִם וַתֹּאכַל אֶת־שְׁנֵי שָׂרֵי
+        הַחֲמִשִּׁים הָרִאשֹׁנִים וְאֶת־חֲמִשֵּׁיהֶם וְעַתָּה תִּיקַר נַפְשִׁי
+        בְּעֵינֶיךָ׃ ס ‬
+      romana: Iata s-a coborat foc din cer si a mistuit pe cele doua capetenii peste
+        cincizeci si pe oamenii lor; acum insa sa nu fie sufletul meu trecut cu
+        vederea de ochii tai!"
+      francais: "Voici, le feu est descendu du ciel et a consumé les deux premiers
+        chefs de cinquante et leurs cinquante hommes: mais maintenant, que ma
+        vie soit précieuse à tes yeux!"
+      italian: Ecco è sceso il fuoco dal cielo e ha divorato i due altri capi di
+        cinquantina con i loro uomini. Ora la mia vita valga qualche cosa ai
+        tuoi occhi".
+      old_georgian: რამეთუ, აჰა, ესერა, გარდამოვარდა ცეცხლი ზეცით და შეჭამნა ორნივე
+        იგი ერგასისთავნი პირველნი და ერგასისნი მისნი და შეარაცხენ აწ თავნი
+        მონათა ამათ შენთანი წინაშე თუალთა შენთა.
+      portuguese: "Eis que desceu fogo do céu, e consumiu aqueles dois primeiros
+        chefes de cinqüenta, com os seus cinqüenta;\ragora, porém, seja preciosa
+        aos teus olhos a minha vida."
+      polish: "Oto ogień spadł z nieba i pochłonął obydwóch poprzednich
+        pięćdziesiątników wraz z ich pięćdziesiątkami. Lecz teraz niech życie
+        moje drogie będzie w\roczach twoich!”"
+      turkish: Göklerden yağan ateş daha önce gelen iki komutanla ellişer adamını
+        yakıp yok etti, ama lütfen bana acı.»
+      nrt: Ведь огонь, сошедший с небес, пожрал двух первых пятидесятников и их
+        воинов. Пощади мою жизнь!
+      Macarius: Вот сошел с неба огонь и попалил двух прежних пятидесятников с их
+        пятидесятками; но ныне, да будет душа моя не малоценна пред очами
+        твоими.
+      serbian: Ето, сишао је огањ с неба и прождро прва два педесетника с њиховом
+        педесеторицом; али сада да ти је драга душа моја.
+      bulgarian: ето, падна огън от небето и изгори двамата предишни петдесетници с
+        техните петдесетмина; но сега да не бъде презряна душата ми пред твоите
+        очи!
+      pavskiy: Вот сошел с неба огонь, и попалил прежних двух пятидесятников с их
+        пятидесятками; но ныне да будет душа моя не малоценна пред очами твоими!
+      deutsch: Siehe, das Feuer ist vom Himmel gefallen und hat die ersten zwei
+        Hauptmänner über fünfzig mit ihren fünfzigen gefressen; nun aber laß
+        meine Seele etwas gelten vor dir.
+      ukr2: Ось бо зійшов вогонь з неба й пожер обох перших півсотників з їхніми
+        півсотнями. Не погордуй же тепер моїм життям!”
+      ukr3: Ось бо упав огонь із неба й пожер обох перших отаманів над півсотнями;
+        тепер же душа моя не буде погорджена перед тобою.
+      bel_syomukha: вось, сышоў агонь зь неба і папаліў двух пяцідзясятнікаў ранейшых
+        зь іхнімі пяцідзясяткамі; але цяпер хай ня будзе пагарджана душа мая
+        перад вачыма тваімі!
+      lev-khv: Вот, сошел огонь с неба и пожрал двух пятидесятников прежних с их
+        пятидесятками; но ныне да будет немалоценна душа моя пред очами твоими.
+      czech: Hle, ohen sestoupil z nebe a pozrel oba predesle velitele i jejich
+        padesat vojaku. Kez ma nyni muj zivot v tvych ocich nejakou cenu!"
+      spanish: Fuego del cielo ha bajado y ha devorado a los dos primeros
+        quincuagenarios y a sus cincuenta hombres; pero ahora sea a tus ojos
+        preciosa mi vida>>.
+      greek-lxx: ἰδοὺ κατέβη πῦρ ἐκ τοῦ οὐρανοῦ καὶ κατέφαγεν τοὺς δύο πεντηκοντάρχους
+        τοὺς πρώτους καὶ τοὺς πεντήκοντα αὐτῶν καὶ νῦν ἐντιμωθήτω δὴ ἡ ψυχὴ τῶν
+        δούλων σου ἐν ὀφθαλμοῖς σου
+      st_text: вот, сошел огонь с неба, и попалил двух пятидесятников прежних с их
+        пятидесятками; но теперь да не будет презрена душа моя пред очами
+        твоими!
+  - id: 8693
+    number: 15
+    bookId: 12
+    text: "И сказал Ангел Господень Илии: пойди с ним, не бойся его. И он встал, и
+      пошел с ним к царю."
+    chapter: 1
+    chapterId: 314
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И глагола ангел Господень ко илии и рече: сниди с ним, не убойся от лица
+        их. И воста илиа и сниде с ним к царю,"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# глаго1ла ѓгг7лъ гDень ко и3ліи2 и3 рече2: сни1ди съ ни1мъ, не
+        ўбо1йсz t лицA и5хъ. И# востA и3ліA и3 сни1де съ ни1мъ къ царю2,"
+      sovr_rbo: "И ангел Господа велел Илие: «Спускайся. Иди с ним, не бойся его».
+        Илия пришел к царю, вместе с начальником полусотни,"
+      latin: "Locutus est autem angelus Domini ad Eliam, dicens: Descende cum eo, ne
+        timeas. Surrexit igitur, et descendit cum eo ad regem,"
+      ukr: "А Ангол Господній сказав до Іллі: Зійди з ним, не бійся його! І він устав,
+        і зійшов з ним до царя,"
+      nkjv: And the angel of the Lord said to Elijah, "Go down with him; do not be
+        afraid of him." So he arose and went down with him to the king.
+      desnitsky: "И ангел ГОСПОДЕНЬ сказал Илии: «Ступай с ним, не бойся его!» И тогда
+        тот отправился с ним к царю."
+      mt: ‫    וַיְדַבֵּר מַלְאַךְ יְהוָה אֶל־אֵלִיָּהוּ רֵד אוֹתוֹ אַל־תִּירָא
+        מִפָּנָיו וַיָּקָם וַיֵּרֶד אוֹתוֹ אֶל־הַמֶּלֶךְ׃ ‬
+      romana: 'Atunci ingerul Domnului a zis catre Ilie: "Du-te cu el si nu te teme de
+        el!" Si s-a sculat Ilie si s-a dus cu el la rege.'
+      francais: "L'ange de l'Éternel dit à Élie: Descends avec lui, n'aie aucune
+        crainte de lui. Élie se leva et descendit avec lui vers le roi."
+      italian: "L'angelo del Signore disse a Elia: \"Scendi con lui e non aver paura
+        di lui\". Si alzò e scese con lui dal re"
+      old_georgian: "და ჰრქუა ანგელოზმან უფლისამან ელიას: გარდამოვედ და მივედ მაგის
+        თანა და ნუ გეშინინ პირისაგან მათისა. და აღდგა და გარდამოვიდა მიერ მათ
+        თანა მეფისა."
+      portuguese: "Então o anjo do Senhor disse a Elias: Desce com este; não tenhas
+        medo dele. Levantou-se, pois, e desceu com\rele ao rei."
+      polish: "Wtedy Anioł Pański powiedział do Eliasza: ”Zejdź z nim razem, nie bój
+        się\rgo!” Eliasz podniósł się i zszedł z nim razem do króla,"
+      turkish: RAB'bin meleği, İlyas'a, «Onunla birlikte aşağı in, korkma» dedi. İlyas
+        kalkıp komutanla birlikte kralın yanına gitti
+      nrt: "Ангел Господень сказал Илии: – Спустись с ним, не бойся его. Тогда Илия
+        встал и спустился с ним к царю."
+      Macarius: "И сказал ангел Господа Илии: поди с ним, не бойся его. Он встал и
+        пошел с ним к царю."
+      serbian: "А анђео Господњи рече Илији: Иди с њим и не бој га се. И уста Илија и
+        отиде с њим к цару."
+      bulgarian: "И рече Ангелът Господен на Илия: иди с него, не бой се от него. И
+        той стана, та отиде с него при царя."
+      pavskiy: "И сказал ангел Иеговы Илии: поди с ним, не бойся его. Он встал и пошел
+        с ним к царю."
+      deutsch: "Da sprach der Engel des Herrn zu Elia: Gehe mit ihm hinab und fürchte
+        dich nicht vor ihm! und er machte sich auf und ging mit ihm hinab zum
+        König."
+      ukr2: "І сказав ангел Господній до Іллі: “Зійди з ним! Не бійсь його.” Устав
+        він, пішов з ним до царя,"
+      ukr3: "І рече ангел Господень до Ілиї: Ійди з ним, не лякайсь його. І встав і
+        пійшов із ним до царя."
+      bel_syomukha: І сказаў анёл Гасподні Ільлю; ідзі зь ім, ня бойся яго. І ён устаў
+        і пайшоў зь ім да цара.
+      lev-khv: "И сказал Ангел Господень Илии: поди с ним, не бойся его. И он встал, и
+        пошел с ним к царю."
+      czech: 'Tu promluvil k Elijasovi Hospodinuv andel: "Sestup s nim. Neboj se ho!"
+        Povstal tedy, sestoupil s nim ke krali'
+      spanish: "El ángel de Yavé dijo a Elías: <<Baja con él. Nada temas de él>>.
+        Elías se levantó y bajó con él para dirigirse al rey;"
+      greek-lxx: καὶ ἐλάλησεν ἄγγελος Κυρίου πρὸς Ηλιου καὶ εἶπεν κατάβηθι μετ᾿ αὐτοῦ
+        μὴ φοβηθῇς ἀπὸ προσώπου αὐτῶν καὶ ἀνέστη Ηλιου καὶ κατέβη μετ᾿ αὐτοῦ
+        πρὸς τὸν βασιλέα
+      st_text: "И сказал Ангел Господень Илии: пойди с ним, не бойся его. И он встал,
+        и пошел с ним к царю."
+  - id: 8694
+    number: 16
+    bookId: 12
+    text: "И сказал ему: так говорит Господь: за то, что ты посылал послов вопрошать
+      Веельзевула, божество Аккаронское, как будто в Израиле нет Бога, чтобы
+      вопрошать о слове Его, - с постели, на которую ты лег, не сойдешь с нее,
+      но умрешь."
+    chapter: 1
+    chapterId: 314
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и глагола к нему и рече: сице глаголет Господь: что яко послал еси послы
+        вопрошати ваала сквернаго бога во аккароне, аки бы не был Бог во
+        Израиле, еже вопросити от него словесе? сего ради от одра, наньже возшел
+        еси ту, не имаши слезти с него яко смертию умреши."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 глаго1ла къ немY и3 рече2: си1це гlетъ гDь: что2 ћкw послaлъ є3си2
+        послы2 вопрошaти ваaла скве1рнаго бо1га во ґккарHнэ, ѓки бы не бы1лъ
+        бг7ъ во ї}ли, є4же вопроси1ти t негw2 словесе2; сегw2 рaди t nдрA,
+        нaньже возше1лъ є3си2 тY, не и4маши слёзти съ негw2 ћкw сме1ртію
+        ќмреши."
+      sovr_rbo: "и сказал: «Так говорит Господь: за то, что ты послал вопросить
+        Баал-Зевува, экронского бога (будто в Израиле нет Бога, которого можно
+        вопросить!) — не встать тебе с постели, на которой ты лежишь. Ты
+        умрешь!»"
+      latin: "et locutus est ei: Haec dicit Dominus: Quia misisti nuntios ad
+        consulendum Beelzebub deum Accaron, quasi non esset Deus in Israel, a
+        quo posses interrogare sermonem, ideo de lectulo super quem ascendisti,
+        non descendes, sed morte morieris."
+      ukr: "Та й сказав до нього: Так сказав Господь: Тому, що ти посилав послів, щоб
+        вивідати від Ваал-Зевува, екронського бога, ніби в Ізраїлі нема Бога,
+        щоб вивідати слова Його, тому те ложе, що на нього ти ліг, не встанеш із
+        нього, бо напевно помреш!"
+      nkjv: "Then he said to him, \"Thus says the Lord: 'Because you have sent
+        messengers to inquire of Baal-Zebub, the god of Ekron, is it because
+        there is no God in Israel to inquire of His word? Therefore you shall
+        not come down from the bed to which you have gone up, but you shall
+        surely die.' \" "
+      desnitsky: "Илия сказал царю: «Вот что говорит ГОСПОДЬ: ты посылал вопрошать
+        Баал-Зевува, божество Экронское, словно нет Бога в Израиле, чтобы
+        вопросить Его! За это ты не встанешь ты с постели, на которой лежишь, но
+        на ней и умрешь»."
+      mt: ‫    וַיְדַבֵּר אֵלָיו כֹּה־אָמַר יְהוָה יַעַן אֲשֶׁר־שָׁלַחְתָּ מַלְאָכִים
+        לִדְרֹשׁ בְּבַעַל זְבוּב אֱלֹהֵי עֶקְרוֹן הַמִבְּלִי אֵין־אֱלֹהִים
+        בְּיִשְׂרָאֵל לִדְרֹשׁ בִּדְבָרוֹ לָכֵן הַמִּטָּה אֲשֶׁר־עָלִיתָ שָּׁם
+        לֹא־תֵרֵד מִמֶּנָּה כִּי־מוֹת תָּמוּת׃ ‬
+      romana: 'Si a zis catre el: "Asa zice Domnul: De vreme ce tu ai trimis soli sa
+        intrebe pe Baal-Zebub, dumnezeul Ecronului, ca si cum in Israel n-ar fi
+        Dumnezeu, ca sa-I ceri cuvantul, de aceea din patul in care te-ai suit
+        nu te vei mai cobori, ci vei muri".'
+      francais: "Il lui dit: Ainsi parle l'Éternel: Parce que tu as envoyé des
+        messagers pour consulter Baal Zebub, dieu d'Ékron, comme s'il n'y avait
+        en Israël point de Dieu dont on puisse consulter la parole, tu ne
+        descendras pas du lit sur lequel tu es monté, car tu mourras."
+      italian: 'e gli disse: "Così dice il Signore: Poiché hai mandato messaggeri a
+        consultare Baal—Zebub, dio di Ekròn, come se in Israele ci fosse, fuori
+        di me, un Dio da interrogare, per questo, dal letto, su cui sei salito,
+        non scenderai, ma certamente morirai".'
+      old_georgian: "და ეტყოდა ელია მას და ჰრქუა: ამისთჳს, რამეთუ მიავლინენ მოციქულნი
+        კითხვად ბაალისა, მწერისა მის, ღმრთისა აკკარონისა, რეცა არა არს ღმერთი
+        შორის ისრაჱლისა კითხვად მის მიერ, არა ეგრე, არამედ ცხედარსა მაგასა ზედა,
+        რომელსა აღჴედ, არა გარდამოჴდე მაგიერ, არამედ სიკუდილითა მოჰკუდე."
+      portuguese: "E disse-lhe: Assim diz o Senhor: Por que enviaste mensageiros a
+        consultar a Baal-Zebube, deus de Ecrom?\rPorventura é porque não há Deus
+        em Israel, para consultares a sua palavra? Portanto, desta cama a que
+        subiste\rnão descerás, mas certamente morrerás."
+      polish: "i powiedział do niego: ”Tak mówi Pan: Ponieważ wysłałeś posłańców, by
+        wywiadywać się u Beelzebuba, boga Ekronu - czyż nie ma Boga w Izraelu,
+        by\rszukać Jego wyroku? - przeto z łoża, do którego wszedłeś, już nie
+        zejdziesz,\rponieważ umrzesz na pewno!”"
+      turkish: "ve ona şöyle dedi: «RAB diyor ki, `İsrail'de danışacak Tanrı yok mu ki
+        Ekron ilahı Baalzevuv'a danışmak için haberciler gönderdin? Bu yüzden
+        yattığın yataktan kalkamayacak, kesinlikle öleceksin!'»"
+      nrt: "Он сказал царю: – Так говорит Господь: «Разве в Израиле нет Бога, чтобы
+        спрашивать Его? Ты отправлял посланцев спрашивать Баал-Зевува, бога
+        Экрона! За это ты не встанешь с постели, на которую лег. Ты непременно
+        умрешь!»."
+      Macarius: "И сказал ему: так говорит Господь: за то, что ты посылал послов
+        вопрошать Ваал-Зевува, бога Екронского, как будто бы у Израиля не было
+        Бога, у которого можно было просить ответа, с постели, на которую ты
+        лег, не сойдешь, но умрешь."
+      serbian: "И рече му: Овако вели Господ: Зато што си слао посланике да питају
+        Велзевула, бога у Акарону, као да нема Бога у Израиљу да би га питао,
+        нећеш се дигнути с постеље на коју си легао, него ћеш умријети."
+      bulgarian: "И му каза: тъй говори Господ: задето праща пратеници да питат
+        Веелзевула, акаронското божество, като да нямаше в Израиля Бог да питаш
+        за словото Му, - ти няма да се дигнеш от постелката, на която си легнал,
+        а ще умреш."
+      pavskiy: "И сказал ему: так говорит Иегова; за то, что ты посылал послов
+        вопрошать Ваалзевува, бога Екронскаго, как будто бы у израильтян не было
+        Бога, у котораго бы можно было просить ответа, с постели, на которую ты
+        лег, не сойдешь, но умрешь."
+      deutsch: "Und er sprach zu ihm: So spricht der Herr: Darum daß du hast Boten
+        hingesandt und lassen fragen Baal-Sebub, den Gott zu Ekron, als wäre
+        kein Gott in Israel, dessen Wort man fragen möchte, so sollst du von dem
+        Bette nicht kommen, darauf du dich gelegt hast, sondern sollst des Todes
+        sterben."
+      ukr2: "і каже йому: “Так говорить Господь: За те, що ти послав послів питати
+        Ваал-Зевува, екронського бога, - наче б в Ізраїлі не було Бога, щоб про
+        те питати, - не встанеш з ліжка, на яке ліг; ти мусиш умерти.”"
+      ukr3: "І сказав йому (цареві): Так глаголе Господь: За те, що ти послав посли,
+        щоб вони поспитали в Беел-Себула, бога Екронського, - наче б в Ізраїлї
+        не було Бога, щоб питати про слово його, ти не зійдеш із постелї, що лїг
+        на їй, а мусиш умерти."
+      bel_syomukha: "І сказаў яму: так кажа Гасподзь: за тое, што ты пасылаў пасланцаў
+        пытацца ў Вэльзэвула, божышча Акаронскага, быццам у Ізраілі няма Бога,
+        каб папытацца пра слова Ягонае, - з пасьцелі, на якую ты лёг, ня сыдзеш
+        зь яе, а памрэш."
+      lev-khv: "И сказал ему: так говорит Господь: за то, что ты посылал послов
+        вопрошать Веельзевула, божество Аккаронское, как будто в Израиле нет
+        Бога, чтобы вопрошать о слове Его, с постели, на которую ты лег, не
+        сойдешь с нея, но умрешь."
+      czech: 'a promluvil k nemu: "Toto pravi Hospodin: Ze jsi poslal posly s dotazem
+        k Baal-zebubovi, bohu Ekronu, jako by nebyl Buh v Izraeli, aby ses
+        dotazal na jeho slovo, proto z loze, na nez jsi ulehl, nepovstanes, ale
+        zcela jiste zemres."'
+      spanish: "y dijo a éste: <<Así habla Yavé: Por haber mandado mensajeros para
+        consultar a Baalzebub, dios de Acarón, como si no hubiera en Israel Dios
+        a quien poder consultar, no bajarás del lecho a que has subido, pues
+        morirás>>."
+      greek-lxx: καὶ ἐλάλησεν πρὸς αὐτὸν καὶ εἶπεν Ηλιου τάδε λέγει Κύριος τί ὅτι
+        ἀπέστειλας ἀγγέλους ζητῆσαι ἐν τῇ Βααλ μυῖαν θεὸν Ακκαρων οὐχ οὕτως ἡ
+        κλίνη ἐφ᾿ ἧς ἀνέβης ἐκεῖ οὐ καταβήσῃ ἀπ᾿ αὐτῆς ὅτι θανάτῳ ἀποθανῇ
+      st_text: "И сказал ему: так говорит Господь: за то, что ты посылал послов
+        вопрошать Веельзевула, божество Аккаронское, как будто в Израиле нет
+        Бога, чтобы вопрошать о слове Его, - с постели, на которую ты лег, не
+        сойдешь с нее, но умрешь."
+  - id: 8695
+    number: 17
+    bookId: 12
+    text: И умер он по слову Господню, которое изрек Илия. И воцарился Иорам [брат
+      Охозии], вместо него, во второй год Иорама, сына Иосафатова, царя
+      Иудейского, так как сына у того не было.
+    chapter: 1
+    chapterId: 314
+    parallels:
+      - verseId: 9181
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 3
+        short: 4 Цар:3:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И умре по глаголу Господню, егоже глагола илиа. И царствова иорам брат
+        охозиин вместо его, понеже не име сына охозиа, в лето второе иорама сына
+        иосафата царя иудина.
+      averincev: ""
+      ungerov: ""
+      csya_old: И# ќмре по гlу гDню, є3го1же гlго1ла и3ліA. И# цaрствова їwрaмъ брaтъ
+        nхозjинъ вмёстw є3гw2, поне1же не и3мЁ сы1на nхозjа, въ лёто второ1е
+        їwрaма сы1на їwсафaта царS їyдина.
+      sovr_rbo: И Ахазия умер; исполнилось слово Господа, возвещенное Илией. Царем
+        после него стал Иорам, так как у Ахазии не было сына. (Это случилось во
+        второй год правления царя Иудеи Иорама, сына Иосафата).
+      latin: "Mortuus est ergo juxta sermonem Domini, quem locutus est Elias, et
+        regnavit Joram frater ejus pro eo, anno secundo Joram filii Josaphat
+        regis Judae: non enim habebat filium."
+      ukr: І той помер, за словом Господа, що говорив до Іллі, а замість нього
+        зацарював Єгорам, другого року Єгорама, сина Йосафата, Юдиного царя, бо
+        не було в нього сина.
+      nkjv: So Ahaziah died according to the word of the Lord which Elijah had spoken.
+        Because he had no son, Jehoram became king in his place, in the second
+        year of Jehoram the son of Jehoshaphat, king of Judah.
+      desnitsky: И он умер по слову ГОСПОДНЮ, которое изрек Илия. Поскольку сына у
+        него не было, то вместо него воцарился Ехорам, это было во второй год
+        царствования в Иудее другого Ехорама, сына Ехошафата.
+      mt: ‫    וַיָּמָת כִּדְבַר יְהוָה אֲשֶׁר־דִּבֶּר אֵלִיָּהוּ וַיִּמְלֹךְ יְהוֹרָם
+        תַּחְתָּיו פ בִּשְׁנַת שְׁתַּיִם לִיהוֹרָם בֶּן־יְהוֹשָׁפָט מֶלֶךְ
+        יְהוּדָה כִּי לֹא־הָיָה לוֹ בֵּן׃ ‬
+      romana: Si apoi a murit Ohozia, dupa cuvantul Domnului pe care l-a rostit Ilie.
+        Si in locul lui s-a facut rege Ioram, fratele lui Ohozia, in anul al
+        doilea al lui Ioram, fiul lui Iosafat, regele Iudei, caci Ohozia nu avea
+        fecior.
+      francais: Achazia mourut, selon la parole de l'Éternel prononcée par Élie. Et
+        Joram régna à sa place, la seconde année de Joram, fils de Josaphat, roi
+        de Juda; car il n'avait point de fils.
+      italian: Difatti morì, secondo la predizione fatta dal Signore per mezzo di Elia
+        e al suo posto divenne re suo fratello Ioram, nell'anno secondo di Ioram
+        figlio di Giòsafat, re di Giuda, perché egli non aveva figli.
+      old_georgian: და მოკუდა ოქოზია მსგავსად სიტყჳსა მის უფლისა, ვითარცა ეტყოდა ელია
+        (და იორამ, ძე აქაბისი, მეფობდა ისრაჱლსა ზედა სამარიასა ათორმეტ წელ წელსა
+        მას მეთურამეტესა იოსაფატისასა, მეფისა იუდასსა, და ქმნა ბოროტი წინაშე,
+        უფლისა, ხოლო არა ვითარცა ძმათა თჳსთა და დედამან თჳსმან, დაამჴუნა ძეგლნი
+        იგი ბაალისნი, რომელ აღმართნა მამამან მისმან და დამუსრნა იგინი, ხოლო
+        ცოდვასა მას სახლისა იერობოამისასა, ძისა ნაბატისა, რომელმან აცთუნა
+        ისრაჱლი, შეუდგა და არა განეშორა. და განრისხნა გულისწყრომითა უფალი სახლსა
+        ზედა აქაბისასა) და მეფობდა იორამ, ძმა მისი, მის წილ წელსა მესამესა იორამ
+        მეფისა იუდეასსა, ძისა იოსაფატისსა, რამეთუ არა ესვა მას ძე.
+      portuguese: "Assim, pois, morreu conforme a palavra do Senhor que Elias falara.
+        E Jorão começou a reinar em seu lugar no\rano segundo de Jeorão, filho
+        de Jeosafá, rei de Judá; porquanto Acazias não tinha filho."
+      polish: "Umarł więc król według wyroku Pańskiego, który Eliasz oznajmił. A brat
+        jego, Joram, został w jego miejsce królem w drugim roku [panowania]
+        Jorama,\rsyna Jozafata, króla judzkiego, bo [Ochozjasz] nie miał syna."
+      turkish: RAB'bin İlyas aracılığıyla söylediği söz uyarınca Kral Ahazya öldü.
+        Oğlu olmadığı için yerine kardeşi Yoram geçti. Bu olay Yahuda Kralı
+        Yehoşafat oğlu Yehoram'ın krallığının ikinci yılında oldu.
+      nrt: И он умер, по слову Господа, которое произнес Илия. Так как у Охозии не
+        было сына, вместо него на втором году правления иудейского царя Иорама,
+        сына Иосафата, воцарился его брат Иорам.
+      Macarius: И умрешь по слову Господа, которое Он изрек чрез Илию. И сделался
+        царем вместо его Иорам, во второй год Иорама, сына Иосафатова, царя
+        Иудейского, потому что сына у него не было.
+      serbian: И умрије, по ријечи Господњој, коју рече Илија, а на његово се мјесто
+        зацари Јорам друге године царовања Јорама, сина Јосафатова, над Јудом,
+        јер он нема сина.
+      bulgarian: И той умря по словото Господне, което изрече Илия. И се възцари Иорам
+        (брат на Охозия) вместо него, във втората година на Иорама, син
+        Иосафатов, цар иудейски, понеже оня нямаше син.
+      pavskiy: И умер, по слову Иеговы, которое Он изрек чрез Илию. И сделался царем
+        вместо его Иорам, во второй год Иорама, сына Иосафатова, царя
+        иудейскаго; потому что сына у него не было.
+      deutsch: Also starb er nach dem Wort des Herrn, das Elia geredet hatte. Und
+        Joram ward König an seiner Statt im zweiten Jahr Jorams, des Sohnes
+        Josaphats, des Königs Juda's; denn er hatte keinen Sohn.
+      ukr2: І вмер він за Господнім словом, що промовив Ілля. На місце його став царем
+        брат його Йорам, - у другому році Йорама, сина Йосафата, царя
+        юдейського, - бо в Ахазії не було сина.
+      ukr3: От і вмер він по слову Господньому, що проказав Ілия; а брат його Йорам
+        став царем намість його - у другому роцї Йорама, сина Йосафатового, царя
+        Юдейського, бо в його не було сина.
+      bel_syomukha: І памёр ён па слове Гасподнім, якое сказаў Ільля. І зацараваў
+        Ёрам, брат Ахозіі, замест яго, у другі год Ёрама, сына Ёсафатавага, цара
+        Юдэйскага, бо сына ў таго ня было.
+      lev-khv: И умер он, по слову Господню, которое изрек Илия. И воцарился Иорам
+        вместо него, во второй год Иорама, сына Иосафатова, царя Иудейскаго, так
+        как сына у того не было.
+      czech: I zemrel podle Hospodinova slova, ktere promluvil Elijas. Po nem se stal
+        kralem Joram, a to v druhem roce vlady judskeho krale Jorama, syna
+        Josafatova. Achazjas totiz nemel syna.
+      spanish: Ocozías murió, según la palabra de Yavé por medio de Elías, y le
+        sucedió su hermano Joram, el año segundo de Joram, hijo de Josafat, rey
+        de Judá, pues aquél no tenía hijos.
+      greek-lxx: καὶ ἀπέθανεν κατὰ τὸ ῥῆμα Κυρίου ὃ ἐλάλησεν Ηλιου
+      st_text: И умер он по слову Господню, которое изрек Илия. И воцарился Иорам
+        [брат Охозии], вместо него, во второй год Иорама, сына Иосафатова, царя
+        Иудейского, так как сына у того не было.
+  - id: 8696
+    number: 18
+    bookId: 12
+    text: Прочее об Охозии, что он сделал, написано в летописи царей Израильских.
+    chapter: 1
+    chapterId: 314
+    parallels:
+      - verseId: 6099
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 22
+        short: 2 Пар:22:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И прочая словес охозииных, елика сотвори, не се ли, сия писана в книгах
+        словес дний царей израилевых?
+      averincev: ""
+      ungerov: ""
+      csya_old: И# прHчаz слове1съ nхозjиныхъ, є3ли6ка сотвори2, не се1 ли, сі‰
+        пи6сана въ кни1гахъ слове1съ днjй царе1й ї}левыхъ;
+      sovr_rbo: Прочее о деяниях Ахазии написано в «Летописях царей Израиля».
+      latin: Reliqua autem verborum Ochoziae, quae operatus est, nonne haec scripta
+        sunt in libro sermonum dierum regum Israel?
+      ukr: А решта діл Ахазії, що він зробив був, ото вони написані в Книзі Хроніки
+        Ізраїлевих царів.
+      nkjv: Now the rest of the acts of Ahaziah which he did, are they not written in
+        the book of the chronicles of the kings of Israel?
+      desnitsky: Прочее об Ахазии и о делах, которые он совершил, записано в
+        летописном свитке царей израильских.
+      mt: ‫    וְיֶתֶר דִּבְרֵי אֲחַזְיָהוּ אֲשֶׁר עָשָׂה הֲלוֹא־הֵמָּה כְתוּבִים
+        עַל־סֵפֶר דִּבְרֵי הַיָּמִים לְמַלְכֵי יִשְׂרָאֵל׃ פ ‬
+      romana: Celelalte fapte pe care le-a facut Ohozia sunt scrise in cartea
+        cronicilor regilor lui Israel.
+      francais: Le reste des actions d'Achazia, et ce qu'il a fait, cela n'est-il pas
+        écrit dans le livre des Chroniques des rois d'Israël?
+      italian: Le altre gesta di Acazia, le sue azioni, sono descritte nel libro delle
+        Cronache dei re di Israele.
+      old_georgian: და ნეშტნი სიტყუათა ოქროზისთანი და, რომელ ქმნა, აჰა, ესერა, ყოველი
+        წერილ არს წიგნთა სიტყუათა დღეთა მეფეთა ისრაჱლისათა.
+      portuguese: Ora, o restante dos feitos de Acazias, porventura não está escrito
+        no livro das crônicas dos reis de Israel?
+      polish: "A czyż pozostałe czyny Ochozjasza, których dokonał, nie są opisane w
+        Księdze\rKronik Królów Izraela?"
+      turkish: Ahazya'nın krallığı dönemindeki öteki olaylar ve yaptıkları İsrail
+        krallarının tarihinde yazılıdır.
+      nrt: Что же до прочих событий правления Охозии и того, что он сделал, то разве
+        не записаны они в «Книге летописей царей Израиля»?
+      Macarius: Прочее об Ахазии, что он сделал, написано в книге дневных записей
+        царей Израилевых.
+      serbian: А остала дјела Охозијина што је чинио, нијесу ли записана у дневнику
+        царева Израиљевијех?
+      bulgarian: Останалото за Охозия, каквото той е извършил, е писано в летописите
+        на израилските царе.
+      pavskiy: Прочее об Ахазии, что он сделал, написано в книге дневных записей царей
+        израилевых.
+      deutsch: Was aber mehr von Ahasja zu sagen ist, das er getan hat, siehe, das ist
+        geschrieben in der Chronik der Könige Israels.
+      ukr2: Решта дій Ахазії, що він чинив, те записане у літописній книзі царів
+        ізраїльських.
+      ukr3: Проче про Охозію, що він чинив, те прописано в книзї лїтописній царів
+        Ізрайлевих.
+      bel_syomukha: Астатняе пра Ахозію, што ён зрабіў, напісана ў летапісе цароў
+        Ізраільскіх.
+      lev-khv: Прочия дела Охозии, какия он сделал, написаны в летописной книге царей
+        Израильских.
+      czech: O ostatnich pribezich Achazjasovych, o tom, co konal, se pise, jak znamo,
+        v Knize letopisu kralu izraelskych.
+      spanish: El resto de los hechos de Ocozías, lo que hizo, ¿no está escrito en el
+        libro de las crónicas de los reyes de Israel?
+      greek-lxx: καὶ τὰ λοιπὰ τῶν λόγων Οχοζιου ὅσα ἐποίησεν οὐκ ἰδοὺ ταῦτα γεγραμμένα
+        ἐπὶ βιβλίου λόγων τῶν ἡμερῶν τοῖς βασιλεῦσιν Ισραηλ [1] καὶ Ιωραμ υἱὸς
+        Αχααβ βασιλεύει ἐπὶ Ισραηλ ἐν Σαμαρείᾳ ἔτη δέκα δύο ἐν ἔτει
+        ὀκτωκαιδεκάτῳ Ιωσαφατ βασιλέως Ιουδα [2] καὶ ἐποίησεν τὸ πονηρὸν ἐνώπιον
+        Κυρίου πλὴν οὐχ ὡς οἱ ἀδελφοὶ αὐτοῦ οὐδὲ ὡς ἡ μήτηρ αὐτοῦ [3] καὶ
+        ἀπέστησεν τὰς στήλας τοῦ Βααλ ἃς ἐποίησεν ὁ πατὴρ αὐτοῦ καὶ συνέτριψεν
+        αὐτάς πλὴν ἐν ταῖς ἁμαρτίαις οἴκου Ιεροβοαμ ὃς ἐξήμαρτεν τὸν Ισραηλ
+        ἐκολλήθη οὐκ ἀπέστη ἀπ᾿ αὐτῶν [4] καὶ ἐθυμώθη ὀργῇ Κύριος εἰς τὸν οἶκον
+        Αχααβ
+      st_text: Прочее об Охозии, что он сделал, написано в летописи царей Израильских.

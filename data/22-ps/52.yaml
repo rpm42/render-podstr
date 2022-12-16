@@ -1,0 +1,534 @@
+id: 570
+number: 52
+bookId: 22
+verseCount: 7
+title: Глава 52
+verses:
+  - id: 31890
+    number: 1
+    bookId: 22
+    text: Начальнику хора. На духовом <i>орудии</i>. Учение Давида.
+    chapter: 52
+    chapterId: 570
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: В конец, о маелефе, разума давиду.
+      averincev: Начальнику хора. На махалат. Поучение Давидово.
+      ungerov: В конец. Радостная хоровая песнь. В научение. Давида.
+      csya_old: Въ коне1цъ, њ маеле1fэ, рaзума дв7ду,
+      sovr_rbo: Начальнику хора. На духовом [орудии]. Учение Давида.
+      latin: "In finem, pro Maeleth intelligentiae. David. Dixit insipiens in corde
+        suo: Non est Deus."
+      ukr: Для дириґента хору. На "Махалат". Навчальний псалом. Давидів.
+      nkjv: "To the Chief Musician. Set to 'Mahalath.' A Contemplation of David. "
+      desnitsky: ""
+      mt: ‫   לַמְנַצֵּחַ עַל־מָחֲלַת מַשְׂכִּיל לְדָוִד׃ ‬
+      romana: 'Al lui David. Zis-a cel nebun intru inima sa: "Nu este Dumnezeu!"'
+      italian: Al maestro del coro. Su "Macalat". Maskil. Di Davide.
+      old_georgian: დასასრულსა, მაელეთისთჳს გულისჴმის-ყოფისათჳს დავითისი
+      portuguese: "Diz o néscio no seu coração: Não há Deus. Corromperam-se e
+        cometeram abominável iniqüidade; não há quem\rfaça o bem."
+      polish: "Kierownikowi chóru. Na melodię: ”Machalat”. Pieśń pouczająca. Dawidowa."
+      nrt: Дирижеру хора. Под махалат. Наставление Давида.
+      Macarius: Начальнику хора. На духовом орудии. Учение Давидово.
+      bulgarian: Началнику на хора. На надуйно свирало. Учение Давидово
+      deutsch: "Eine Unterweisung Davids, im Chor umeinander vorzusingen. [2 Die Toren
+        sprechen in ihrem Herzen: Es ist kein Gott. Sie taugen nichts und sind
+        ein Greuel geworden in ihrem bösen Wesen; das ist keiner, der Gutes
+        tut."
+      ukr2: Провідникові хору. На мелодію «Махлат». Маскіл. Давида.
+      ukr3: "Проводиреві хора: на Махалатї, наука Давида. Б езумний каже в серцї
+        своїм: Нема Бога! Розвратились і творять огидну неправду; нема там нї
+        одного, хто б добро чинив."
+      bel_syomukha: Кіроўцу хору. На духавым інструмэньце. Навучальная псальма Давідава.
+      lev-khv: Начальнику хора. На Махалаф. Учение Давидово.
+      czech: Pro predniho zpevaka, pri tanecnim reji. Poucujici, Daviduv.
+      spanish: Al maestro del coro. A la flauta. Maskil. De David.
+      zertis-kamenskiy: Начальнейшему певцу на орудии перстобряцательном песнь
+        Давидова вразумляющая.
+      greek-lxx: εἰς τὸ τέλος ὑπὲρ μαελεθ συνέσεως τῷ Δαυιδ
+      st_text: Начальнику хора. На духовом <i>орудии</i>. Учение Давида.
+  - id: 31891
+    number: 2
+    bookId: 22
+    text: 'Сказал безумец в сердце своем: "нет Бога". Развратились они и совершили
+      гнусные преступления; нет делающего добро.'
+    chapter: 52
+    chapterId: 570
+    parallels:
+      - verseId: 30924
+        bookId: 22
+        bookCode: psaltir
+        chapter: 13
+        short: Пс:13:1
+      - verseId: 8431
+        bookId: 50
+        bookCode: 3a-kniga-ezdry
+        chapter: 8
+        short: 3 Езд:8:58
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Рече безумен в сердцы своем: несть Бог. растлеша и омерзишася в
+        беззакониих, несть творяй благое."
+      averincev: "Сказал безумный в сердце своем: «Бога нет!» Растлились они, и
+        мерзость вершат; нет меж них, кто творил бы добро."
+      ungerov: 'Сказал безумный в сердце своем: "нет Бога". Они развратились и гнусны
+        стали по причине беззаконий: нет творящих благое.'
+      csya_old: "Рече2 безyменъ въ се1рдцы свое1мъ: нёсть бг7ъ. Растлёша и3
+        њмерзи1шасz въ беззако1ніихъ, нёсть творsй бlго1е."
+      sovr_rbo: 'Сказал безумец в сердце своем: "нет Бога". Развратились они и
+        совершили гнусные преступления; нет делающего добро.'
+      latin: Corrupti sunt, et abominabiles facti sunt in iniquitatibus; non est qui
+        faciat bonum.
+      ukr: "Безумний говорить у серці своїм: Нема Бога! Зіпсулись вони, і
+        несправедливість обридливу чинять, нема доброчинця!..."
+      nkjv: The fool has said in his heart, "There is no God." They are corrupt, and
+        have done abominable iniquity; There is none who does good.
+      desnitsky: ""
+      mt: ‫   אָמַר נָבָל בְּלִבּוֹ אֵין אֱלֹהִים הִשְׁחִיתוּ וְהִתְעִיבוּ עָוֶל אֵין
+        עֹשֵׂה־טוֹב׃ ‬
+      romana: Stricatu-s-au si urati s-au facut intru faradelegi. Nu este cel ce face
+        bine.
+      italian: 'Lo stolto pensa: "Dio non esiste". Sono corrotti, fanno cose
+        abominevoli, nessuno fa il bene.'
+      old_georgian: "თქუა უგუნურმან გულსა შინა თჳსსა: არა არს ღმერთი. განირყუნეს და
+        შეიგინეს უსჯულოებითა; არავინ არს, რომელმანმცა ქმნა კეთილი."
+      portuguese: "Deus olha lá dos céus para os filhos dos homens, para ver se há
+        algum que tenha entendimento, que busque a\rDeus."
+      polish: "Mówi głupi w swoim sercu: ”Nie ma Boga”. Oni są zepsuci, ohydne
+        rzeczy\rpopełniają, nie ma takiego, co dobrze czyni."
+      nrt: "Говорит безумец в сердце своем: «Нет Бога». Они развратились, гнусны их
+        дела; нет делающего добро."
+      Macarius: "Безумец сказал в сердце своем: нет Бога; развратились они, дошли до
+        гнусности в пороке, нет творящего добро."
+      bulgarian: 'Рече безумец в сърцето си: "няма Бог". Развратиха се човеците и
+        извършиха гнусни престъпления; няма кой да прави добро.'
+      deutsch: "[3 Gott schaut vom Himmel auf der Menschen Kinder, daß er sehe, ob
+        jemand klug sei, der nach Gott frage."
+      ukr2: "Безумний каже в своїм серці: «Немає Бога.» Зіпсувалися, мерзоту коять,
+        нема нікого, хто добро чинив би."
+      ukr3: Господь споглянув з неба на дїтей людських, щоб побачити, чи є розумний,
+        що шукає Бога.
+      bel_syomukha: "Сказаў шаленец у сэрцы сваім: няма Бога. Разбэсьціліся яны, і
+        ўчынілі гнюсныя злачынствы; няма дабрачынца."
+      lev-khv: "Сказал безумец в сердце своем: нет Бога. Они развратились, дошли до
+        гнусности в пороке; нет творящаго добро."
+      czech: 'Bloud si v srdci rika: "Buh tu neni." Vsichni kazi a bezpravne kdeco
+        zohavuji, nikdo nic dobreho neudela.'
+      spanish: "Dice en su corazón el necio: <<No hay Dios>>. Se han corrompido,
+        hicieron cosas abominables, no hay quien haga el bien."
+      zertis-kamenskiy: "Рече безумен в сердце своем: несть Бога. Растлеша [путь свой]
+        и омерзиша беззаконие; несть творяй благое."
+      pakazkiy: "Безумный в сердце помышляет, Что в свете Бога во все нет;\rИ чем
+        предлог сей подкрепляет?\rЧто весь грехом растлился свет;\rЧто в нашем
+        разуме и воле Без благодати только тьма;\rЧто нет добро творящих боле
+        Природным действием ума."
+      greek-lxx: εἶπεν ἄφρων ἐν καρδίᾳ αὐτοῦ οὐκ ἔστιν Θεός διεφθάρησαν καὶ
+        ἐβδελύχθησαν ἐν ἀνομίαις οὐκ ἔστιν ποιῶν ἀγαθόν
+      st_text: 'Сказал безумец в сердце своем: "нет Бога". Развратились они и
+        совершили гнусные преступления; нет делающего добро.'
+  - id: 31892
+    number: 3
+    bookId: 22
+    text: Бог с небес призрел на сынов человеческих, чтобы видеть, есть ли
+      разумеющий, ищущий Бога.
+    chapter: 52
+    chapterId: 570
+    parallels:
+      - verseId: 30925
+        bookId: 22
+        bookCode: psaltir
+        chapter: 13
+        short: Пс:13:2
+      - verseId: 33040
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 3
+        short: Рим:3:10
+      - verseId: 33041
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 3
+        short: Рим:3:11
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Бог с небесе приниче на сыны человеческия, видети, аще есть разумеваяй или
+        взыскаяй Бога.
+      averincev: "Бог смотрит долу с небес на Адамовых сынов: в ком есть еще смысл,
+        кто Бога взыскал?"
+      ungerov: Бог с неба призрел на сынов человеческих, чтобы видеть, есть ли
+        разумеющий или ищущий Бога.
+      csya_old: Бг7ъ съ нб7се2 прини1че на сы1ны человёчєскіz, ви1дэти, ѓще є4сть
+        разумэвazй и3ли2 взыскazй бг7а.
+      sovr_rbo: Бог с небес призрел на сынов человеческих, чтобы видеть, есть ли
+        разумеющий, ищущий Бога.
+      latin: Deus de caelo prospexit super filios hominum, ut videat si est
+        intelligens, aut requirens Deum.
+      ukr: Бог зорить із неба на людських синів, щоб побачити, чи є там розумний, що
+        Бога шукає.
+      nkjv: God looks down from heaven upon the children of men, To see if there are
+        any who understand, who seek God.
+      desnitsky: ""
+      mt: ‫   אֱלֹהִים מִשָּׁמַיִם הִשְׁקִיף עַל־בְּנֵי אָדָם לִרְאוֹת הֲיֵשׁ
+        מַשְׂכִּיל דֹּרֵשׁ אֶת־אֱלֹהִים׃ ‬
+      romana: Domnul din cer a privit peste fiii oamenilor, sa vada de este cel ce
+        intelege, sau cel ce cauta pe Dumnezeu.
+      italian: Dio dal cielo si china sui figli dell'uomo per vedere se c'è un uomo
+        saggio che cerca Dio.
+      old_georgian: ღმერთმან ზეცით მოხედნა ყოველთა ზედა ძეთა კაცთასა ხილვად, არს თუ
+        ვინმე გულისჴმის-მყოფელ, ანუ გამომეძიებელ ღმრთისაჲ.
+      portuguese: Desviaram-se todos, e juntamente se fizeram imundos; não há quem
+        faça o bem, não há sequer um.
+      polish: Bóg spogląda z nieba na synów ludzkich, badając, czy jest wśród nich
+        rozumny, który by szukał Boga.
+      nrt: Бог взирает с небес на сынов человеческих, чтобы увидеть, есть ли разумный,
+        ищущий Бога.
+      Macarius: "Бог с небес воззрел на сынов человеческих, чтобы видеть, есть ли
+        разумевающий, ищущий Бога:"
+      bulgarian: Бог от небесата с внимание погледна към синовете човешки, за да види,
+        има ли кой да разбира, да търси Бога.
+      deutsch: "[4 Aber sie sind alle abgefallen und allesamt untüchtig; da ist
+        keiner, der Gutes tue, auch nicht einer."
+      ukr2: Бог з неба поглядає на синів людських, щоб подивитись, чи є розумний, що
+        шукає Бога.
+      ukr3: Всї одвернулись, всї разом зледащіли; нема там, хто добро творив би, нема
+        нї одного.
+      bel_syomukha: Бог зь нябёсаў паглядзеў на сыноў чалавечых, каб пабачыць, ці
+        ёсьць той, хто разумее, шукае Бога.
+      lev-khv: Бог с небес воззрел на сынов человеческих, чтобы видеть, есть ли
+        разумевающий, ищущий Бога.
+      czech: Buh na lidi pohlizi z nebe, chce videt, ma-li kdo rozum, dotazuje-li se
+        po Bozi vuli.
+      spanish: Se inclina Dios desde los cielos hacia los hijos de los hombres para
+        ver si hay algún cuerdo que busque a Dios.
+      zertis-kamenskiy: Бог с небесе приниче на сыны человеческие, видети, аще есть
+        разумеваяй и взыскающий Бога?
+      pakazkiy: "Седяй превыше звезд небесных, Создавый мир и нас Господь Призрел на
+        тварей всех небесных, Носящих бренну ону плоть;\rВоззрел, как будто
+        вызываяй,\rКак царь всех подданных его, —\rКто есть из них
+        разумеваяй,\rИль помняй Бога своего?"
+      greek-lxx: ὁ Θεὸς ἐκ τοῦ οὐρανοῦ διέκυψεν ἐπὶ τοὺς υἱοὺς τῶν ἀνθρώπων τοῦ ἰδεῖν
+        εἰ ἔστιν συνίων ἢ ἐκζητῶν τὸν Θεόν
+      st_text: Бог с небес призрел на сынов человеческих, чтобы видеть, есть ли
+        разумеющий, ищущий Бога.
+  - id: 31893
+    number: 4
+    bookId: 22
+    text: Все уклонились, сделались равно непотребными; нет делающего добро, нет ни
+      одного.
+    chapter: 52
+    chapterId: 570
+    parallels:
+      - verseId: 30926
+        bookId: 22
+        bookCode: psaltir
+        chapter: 13
+        short: Пс:13:3
+      - verseId: 15517
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 2
+        short: Иер:2:29
+      - verseId: 33040
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 3
+        short: Рим:3:10
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Вси уклонишася, вкупе непотребни быша: несть творяй благое, несть до
+        единаго."
+      averincev: Все сбились с пути, все, как один, развращены, нет меж них, кто
+        творил бы добро, ни одного нет!
+      ungerov: "Все уклонились, стали совершенно негодны: нет творящих благое, нет ни
+        одного."
+      csya_old: "Вси2 ўклони1шасz, вкyпэ непотре1бни бы1ша: нёсть творsй бlго1е, нёсть
+        до є3ди1нагw."
+      sovr_rbo: Все уклонились, сделались равно непотребными; нет делающего добро, нет
+        ни одного.
+      latin: Omnes declinaverunt, simul inutiles facti sunt; non est qui faciat bonum,
+        non est usque ad unum.
+      ukr: Усі повідступали, разом стали огидними, нема доброчинця, нема ні одного!...
+      nkjv: Every one of them has turned aside; They have together become corrupt;
+        There is none who does good, No, not one.
+      desnitsky: ""
+      mt: ‫   כֻּלּוֹ סָג יַחְדָּו נֶאֱלָחוּ אֵין עֹשֵׂה־טוֹב אֵין גַּם־אֶחָד׃ ‬
+      romana: Toti s-au abatut, impreuna netrebnici s-au facut; nu este cel ce face
+        bine, nu este pana la unul.
+      italian: Tutti hanno traviato, tutti sono corrotti; nessuno fa il bene; neppure
+        uno.
+      old_georgian: ყოველთავე მიაქციეს ერთბამად, უჴმარ იქმნნეს; არავინ არს,
+        რომელმანმცა ქმნა კეთილი, არავინ არს მიერთამდე.
+      portuguese: "Acaso não têm conhecimento os que praticam a iniqüidade, os quais
+        comem o meu povo como se comessem\rpão, e não invocam a Deus?"
+      polish: "Wszyscy razem zbłądzili, stali się nikczemni, takiego, co dobrze czyni,
+        nie ma\rni jednego."
+      nrt: Все отреклись, все, как один, развратились; нет делающего добро, нет ни
+        одного.
+      Macarius: Все уклонились, все растлились; нет творящего добро, нет ни одного.
+      bulgarian: Всички се отклониха, станаха еднакво покварени; няма кой да прави
+        добро, няма ни един.
+      deutsch: "[5 Wollen denn die Übeltäter sich nicht sagen lassen, die mein Volk
+        fressen, daß sie sich nähren? Gott rufen sie nicht an."
+      ukr2: Усі загалом відвернулися, зледащіли; нема нікого, хто добро чинив би, нема
+        ані одного.
+      ukr3: Не вже ж не прийдуть до розуму всї, що роблять беззаконнє, що заїдають
+        народ мій, наче б вони хлїб їли? Господа вони не призивають.
+      bel_syomukha: Усе ўхіліліся, зрабіліся аднолькава непатрэбнымі; ніхто ня робіць
+        дабра, ніхто аніводзін.
+      lev-khv: "Все уклонились, все растлились: нет творящаго добро, нет ни одного."
+      czech: Odpadli vsak vsichni, zvrhli se do jednoho, nikdo nic dobreho neudela,
+        naprosto nikdo.
+      spanish: Todos se han descarriado y a una se han corrompido, no hay quien haga
+        el bien; no hay ni uno solo.
+      zertis-kamenskiy: Вси они отступиша; вкупе смрадни сотворишася; несть творяй
+        благое, несть даже до единаго.
+      pakazkiy: "К несчастью общему он видит, Что всяк отстал от цели той;\rИ
+        благостыню ненавидит,\rНи в ком нет истинны святой."
+      greek-lxx: πάντες ἐξέκλιναν ἅμα ἠχρεώθησαν οὐκ ἔστιν ποιῶν ἀγαθόν οὐκ ἔστιν ἕως ἑνός
+      st_text: Все уклонились, сделались равно непотребными; нет делающего добро, нет
+        ни одного.
+  - id: 31894
+    number: 5
+    bookId: 22
+    text: Неужели не вразумятся делающие беззаконие, съедающие народ мой,
+      [<i>как</i>] едят хлеб, и не призывающие Бога?
+    chapter: 52
+    chapterId: 570
+    parallels:
+      - verseId: 30927
+        bookId: 22
+        bookCode: psaltir
+        chapter: 13
+        short: Пс:13:4
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Ни ли уразумеют вси делающии беззаконие, снедающии люди моя в снедь хлеба?
+        Господа не призваша.
+      averincev: Ужель не вразумятся делатели зла, что едят народ мой, как едят хлеб,
+        и к Богу не воззовут?
+      ungerov: Неужели не вразумятся все делающие беззаконие, поедающие народ мой, как
+        едят хлеб? Господа они не призвали.
+      csya_old: Ни ли2 ўразумёютъ вси2 дёлающіи беззако1ніе, снэдaющіи лю1ди мо‰ въ
+        снёдь хлёба; гDа не призвaша.
+      sovr_rbo: Неужели не вразумятся делающие беззаконие, съедающие народ мой, [как]
+        едят хлеб, и не призывающие Бога?
+      latin: Nonne scient omnes qui operantur iniquitatem, qui devorant plebem meam ut
+        cibum panis?
+      ukr: Чи ж не розуміють оті, хто беззаконня вчиняє, що мій люд поїдають? Вони
+        споживають хліб Божий, та не кличуть Його!
+      nkjv: Have the workers of iniquity no knowledge, Who eat up my people as they
+        eat bread, And do not call upon God?
+      desnitsky: ""
+      mt: ‫   הֲלֹא יָדְעוּ פֹּעֲלֵי אָוֶן אֹכְלֵי עַמִּי אָכְלוּ לֶחֶם אֱלֹהִים לֹא
+        קָרָאוּ׃ ‬
+      romana: Oare, nu vor cunoaste, toti cei ce lucreaza faradelegea? Cei ce mananca
+        pe poporul Meu cum mananca painea,
+      italian: Non comprendono forse i malfattori che divorano il mio popolo come il
+        pane e non invocano Dio?
+      old_georgian: არა გულისჴმა-ყონ ყოველთა, რომელნი იქმან უსჯულოებასა, რომელნი
+        შესჭამენ ერსა ჩემსა, ვითარცა ჭამადსა პურისასა;
+      portuguese: "Eis que eles se acham em grande pavor onde não há motivo de pavor,
+        porque Deus espalhará os ossos daqueles\rque se acampam contra ti; tu os
+        confundirás, porque Deus os rejeitou."
+      polish: "Czy się nie opamiętają ci, którzy czynią nieprawość, co lud mój
+        pożerają, jak\rgdyby chleb jedli, a nie wzywają Boga?"
+      nrt: Неужели не вразумятся делающие зло – те, кто поедает мой народ, как хлеб, и
+        Бога не призывает?
+      Macarius: Неужели не вразумятся делающие беззаконие, съедающие народ мой, как
+        едят хлеб, не призывающие Бога?
+      bulgarian: Нима не ще се вразумят ония, които вършат беззаконие, които тъй
+        изпояждат народа ми, както ядат хляб, и които не призовават Бога?
+      deutsch: "[6 Da fürchten sie sich aber, wo nichts zu fürchten ist; denn Gott
+        zerstreut die Gebeine derer, die dich belagern. Du machst sie zu
+        Schanden; denn Gott verschmäht sie."
+      ukr2: Невже не схаменуться усі ті лиходії, що поїдають мій народ, начебто хліб
+        їли? Вони не призивають Бога.
+      ukr3: Тодї злякались вони, хоч страху не було; Бог бо розсипле костї того, хто
+        став облогом проти тебе. Ти осоромив їх. Бог бо відкинув їх.
+      bel_syomukha: Няўжо ня ўрымсьцяцца беззаконьнікі, якія народ мой ядуць, быццам
+        хлеб ядуць, і не заклікаюць Бога?
+      lev-khv: Неужели не вразумятся делающие беззаконие, съедающие народ Мой,
+        <i>как</i> едят хлеб, не призывающие Бога?
+      czech: Coz nevedi ti, kdo pachaji nicemnosti, kdo jedi muj lid, jako by jedli
+        chleba, ti, kdo Boha nevzyvaji,
+      spanish: ¿No saben todos los obradores de iniquidad que comen mi pueblo como
+        comen el pan, que no invocan a Dios?
+      zertis-kamenskiy: "Ни ли уразумеша вси делающии беззаконие? Снедающии люди моя,
+        снедают [аки] хлеб: Бога не призывают."
+      pakazkiy: "Или о том не разсуждают Злодеи жаждущи кровей,\rЧто вместо ястия
+        снедают От Бога созданных людей.\rНо естьли веровать стыдятся Тому, кто
+        создал их и свет:"
+      greek-lxx: οὐχὶ γνώσονται πάντες οἱ ἐργαζόμενοι τὴν ἀνομίαν οἱ ἔσθοντες τὸν λαόν
+        μου βρώσει ἄρτου τὸν Θεὸν οὐκ ἐπεκαλέσαντο
+      st_text: Неужели не вразумятся делающие беззаконие, съедающие народ мой,
+        [<i>как</i>] едят хлеб, и не призывающие Бога?
+  - id: 31895
+    number: 6
+    bookId: 22
+    text: Там убоятся они страха, где нет страха, ибо рассыплет Бог кости
+      ополчающихся против тебя. Ты постыдишь их, потому что Бог отверг их.
+    chapter: 52
+    chapterId: 570
+    parallels:
+      - verseId: 30928
+        bookId: 22
+        bookCode: psaltir
+        chapter: 13
+        short: Пс:13:5
+      - verseId: 25652
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 25
+        short: Мф:25:25
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Тамо устрашишася страха, идеже не бе страх: яко Бог разсыпа кости
+        человекоугодников: постыдешася, яко Бог уничижи их."
+      averincev: Там будет им страх, где и страха нет, — ибо рассыплет Бог кости тех,
+        что походом пошли на тебя; ты злых посрамишь, ибо отверг их Бог.
+      ungerov: Там они трепетали от страха, где не было страха, ибо Бог рассыпал кости
+        человекоугодников. Устыдились, ибо Бог уничтожил их.
+      csya_old: "Тaмw ўстраши1шасz стрaха, и3дёже не бЁ стрaхъ: ћкw бг7ъ разсы1па
+        кHсти человэкоуго1дникwвъ: постыдёшасz, ћкw бг7ъ ўничижи2 и5хъ."
+      sovr_rbo: Там убоятся они страха, где нет страха, ибо рассыплет Бог кости
+        ополчающихся против тебя. Ты постыдишь их, потому что Бог отверг их.
+      latin: "Deum non invocaverunt; illic trepidaverunt timore, ubi non erat timor.
+        Quoniam Deus dissipavit ossa eorum qui hominibus placent: confusi sunt,
+        quoniam Deus sprevit eos."
+      ukr: Тоді настрашилися страхом вони, хоч страху не було, бо розсипав Бог кості
+        того, хто тебе оточив був, ти їх посоромив, бо ними погордував Бог!
+      nkjv: There they are in great fear Where no fear was, For God has scattered the
+        bones of him who encamps against you; You have put them to shame,
+        Because God has despised them.
+      desnitsky: ""
+      mt: ‫   שָׁם פָּחֲדוּ־פַחַד לֹא־הָיָה פָחַד כִּי־אֱלֹהִים פִּזַּר עַצְמוֹת
+        חֹנָךְ הֱבִשֹׁתָה כִּי־אֱלֹהִים מְאָסָם׃ ‬
+      romana: Pe Domnul nu L-au chemat. Acolo s-au temut de frica unde nu era frica,
+      italian: Hanno tremato di spavento, là dove non c'era da temere. Dio ha disperso
+        le ossa degli aggressori, sono confusi perché Dio li ha respinti.
+      old_georgian: ღმერთსა არა ხადეს. მუნ შეეშინა მათ შაში, სადა-იგი არ იყო შიში;
+        რამეთუ ღმერთმან განაბნინა ძუალნი კაცთა მოთნეთანი. ჰრცხუენოდენ მათ,
+        რამეთუ ღმერთმან შეურაცხ-ყვნა იგინი.
+      portuguese: "Oxalá que de Sião viesse a salvação de Israel! Quando Deus fizer
+        voltar os cativos do seu povo, então se\rregozijará Jacó e se alegrará
+        Israel."
+      polish: "Tam zadrżeli ze strachu, gdzie strachu nie było, albowiem Bóg
+        rozproszył\rkości tych, co cię oblegli; doznali wstydu, bo Bóg ich
+        odrzucił."
+      nrt: Там их охватит страх, где нечего бояться. Бог разметает кости ополчающихся
+        на тебя; их покроет позор, потому что отверг их Бог.
+      Macarius: Там вострепещут они от страха, где нет страха. Ибо Бог рассыплет кости
+        ополчающихся против тебя. Ты посрамишь их, потому что Бог отверг их.
+      bulgarian: Там ще се уплашат те от страх, дето няма страх, защото Бог ще разсипе
+        костите на ония, които се опълчват против тебе. Ти ще ги посрамиш,
+        защото Бог ги отхвърли.
+      deutsch: "[7 Ach daß Hilfe aus Zion über Israel käme und Gott sein gefangen Volk
+        erlösete! So würde sich Jakob freuen und Israel fröhlich sein."
+      ukr2: Тим і настрашилися страхом, де страху не було; бо Бог розсипав кості тих,
+        що облогою стали проти тебе. Сором укрив їх, Бог бо їх відкинув.
+      ukr3: Ой, коли б прийшло спасеннє Ізраїлеві із Сиона! Коли Господь поверне народ
+        свій з неволї, возрадується Яков і возвеселиться Ізраїль.
+      bel_syomukha: Там страхам яны напалохаюцца, дзе страху няма, бо рассыпле Бог
+        косткі таго, хто супраць Цябе ўзбурыўся, Ты іх пасароміш, бо іх Бог
+        заняхаіў.
+      lev-khv: Там вострепетали они от страха, <i>где</i> нет страха; потому что Бог
+        разсыплет кости ополчающихся против тебя. Ты посрамишь их, потому что
+        Бог отверг их.
+      czech: ze se jednou trast budou strachem, strachem, jaky jeste nebyl? Kosti
+        toho, kdo te oblehl, Buh rozmeta, zahanbis je, protoze je Buh zavrhl.
+      spanish: Tiemblan de miedo donde no hay que temer, porque Dios esparcirá los
+        huesos del que te asedia; y tú los cubrirás de ignominia, porque Dios
+        los rechazó.
+      zertis-kamenskiy: Тамо устрашишася страхом, идеже несть страха. Яко Бог разсыпа
+        кости ополчающагося на тя; постыдиши их, яко Бог уничижи я.
+      pakazkiy: "Кого же там они боятся,\rГде никакого страха нет?\rЛюбяй Всевышний
+        сердцем правых, Разрушит силу всю и власть Льстецов, притворных и
+        лукавых;\rИ со стыдом понудит пасть.\rНе терпит сей ревнитель
+        правды.\rТакого качества людей,\t-\rЧто веси целыя и грады Колеблют
+        хитростью своей."
+      greek-lxx: ἐκεῖ φοβηθήσονται φόβον οὗ οὐκ ἦν φόβος ὅτι ὁ Θεὸς διεσκόρπισεν ὀστᾶ
+        ἀνθρωπαρέσκων κατῃσχύνθησαν ὅτι ὁ Θεὸς ἐξουδένωσεν αὐτούς
+      st_text: Там убоятся они страха, где нет страха, ибо рассыплет Бог кости
+        ополчающихся против тебя. Ты постыдишь их, потому что Бог отверг их.
+  - id: 31896
+    number: 7
+    bookId: 22
+    text: Кто даст с Сиона спасение Израилю! Когда Бог возвратит пленение народа
+      Своего, тогда возрадуется Иаков и возвеселится Израиль.
+    chapter: 52
+    chapterId: 570
+    parallels:
+      - verseId: 30930
+        bookId: 22
+        bookCode: psaltir
+        chapter: 13
+        short: Пс:13:7
+      - verseId: 28441
+        bookId: 77
+        bookCode: otkrovenie-ap-ioanna-bogoslova
+        chapter: 22
+        short: Откр:22:20
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Кто даст от сиона спасение израилево? внегда возвратит Бог пленение людий
+        своих, возрадуется иаков и возвеселится израиль.
+      averincev: Кто с Сиона спасение Израилю подаст? Когда возвратит Бог плененных из
+        народа Своего, — тогда Иакову ликовать, Израилю радость вкушать.
+      ungerov: Кто даст от Сиона спасение Израилю? Когда возвратит Бог пленение народа
+        Своего, (тогда) возрадуется Иаков и возвеселится Израиль.
+      csya_old: Кто2 дaстъ t сіHна сп7се1ніе ї}лево; внегдA возврати1тъ бг7ъ плэне1ніе
+        людjй свои1хъ, возрaдуетсz їaкwвъ и3 возвесели1тсz ї}ль.
+      sovr_rbo: Кто даст с Сиона спасение Израилю! Когда Бог возвратит пленение народа
+        Своего, тогда возрадуется Иаков и возвеселится Израиль.
+      latin: Quis dabit ex Sion salutare Israel? Cum converterit Deus captivitatem
+        plebis suae, exsultabit Jacob, et laetabitur Israel.
+      ukr: Аби то Він дав із Сіону спасіння Ізраїлеві! Як долю Свого народу поверне
+        Господь, то радітиме Яків, утішатися буде Ізраїль!
+      nkjv: Oh, that the salvation of Israel would come out of Zion! When God brings
+        back the captivity of His people, Let Jacob rejoice and Israel be glad.
+      desnitsky: ""
+      mt: ‫   מִי יִתֵּן מִצִּיּוֹן יְשֻׁעוֹת יִשְׂרָאֵל בְּשׁוּב אֱלֹהִים שְׁבוּת
+        עַמּוֹ יָגֵל יַעֲקֹב יִשְׂמַח יִשְׂרָאֵל׃ ‬
+      romana: Ca Dumnezeu a risipit oasele celor ce plac oamenilor; rusinatu-s-au, ca
+        Dumnezeu i-a urgisit pe ei.
+      italian: Chi manderà da Sion la salvezza di Israele? Quando Dio farà tornare i
+        deportati del suo popolo, esulterà Giacobbe, gioirà Israele.
+      old_georgian: ვინ მოსცეს სიონით ცხორებაჲ ისრაჱლსა? რაჟამს მოაქციოს უფალმან ტყუჱ
+        ერისა თჳსისა, იხარებდეს იაკობ და იშუებდეს ისრაჱლი.
+      polish: "Kto przyniesie z Syjonu zbawienie Izraelowi? Gdy Bóg odmieni los
+        swego\rnarodu, Jakub się uraduje, Izrael się ucieszy."
+      nrt: О, кто дал бы с Сиона спасение Израилю! Когда Бог восстановит Свой народ,
+        пусть веселится Иаков и радуется Израиль!
+      Macarius: Кто пошлет с Сиона спасение Израилю? Когда Бог возвратит пленный народ
+        Свой, возрадуется Иаков, возвеселится Израиль.
+      bulgarian: Кой ще даде от Сион спасение Израилю! Кога Бог върне пленените от
+        Своя народ, тогава ще се зарадва Иаков и ще се развесели Израил.
+      ukr2: Коли б то вже прийшло з Сіону Ізраїля спасіння! Коли Бог поверне долю люду
+        свого, зрадіє Яків, утішиться Ізраїль.
+      bel_syomukha: Хто дасьць з Сіёна ратунак Ізраілю? Калі Бог скасуе палон народу
+        Свайго, тады зарадуецца Якаў і ўзьвесяліцца Ізраіль.
+      lev-khv: Кто пошлет с Сиона спасение Израилю? Когда Бог возвратит пленный народ
+        Свой; <i>тогда</i> возрадуется Иаков, возвеселится Израиль.
+      czech: Kez uz prijde Izraeli ze Sijonu spasa! Az Buh zmeni udel sveho lidu, bude
+        Jakob jasat, Izrael se zaraduje.
+      spanish: ¿Quién otorgará desde Sión la salvación de Israel? Al hacer retornar
+        Dios a su pueblo, se alegrará Jacob, se gozará Israel.
+      zertis-kamenskiy: Кто даст от Сиона спасение Израилево? Внегда возвратит Бог
+        пленение людей Своих, возрадуется Иаков; возвеселится Израиль.
+      pakazkiy: "Кто даст спасенье от Сиона, Вводя Израиля в восторг —\rДа сих
+        презрителей закона Прегордый сокрушится рог?  \rКак возвратить Господь
+        решится\rПленение людей своих:\rТогда Иаков восхитится, Израиль выйдет в
+        радость их."
+      greek-lxx: τίς δώσει ἐκ Σιων τὸ σωτήριον τοῦ Ισραηλ ἐν τῷ ἐπιστρέψαι Κύριον τὴν
+        αἰχμαλωσίαν τοῦ λαοῦ αὐτοῦ ἀγαλλιάσεται Ιακωβ καὶ εὐφρανθήσεται Ισραηλ
+      st_text: Кто даст с Сиона спасение Израилю! Когда Бог возвратит пленение народа
+        Своего, тогда возрадуется Иаков и возвеселится Израиль.

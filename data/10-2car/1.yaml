@@ -1,0 +1,2086 @@
+id: 268
+number: 1
+bookId: 10
+verseCount: 27
+title: Глава 1
+verses:
+  - id: 3807
+    number: 1
+    bookId: 10
+    text: По смерти Саула, когда Давид возвратился от поражения Амаликитян и пробыл
+      в Секелаге два дня,
+    chapter: 1
+    chapterId: 268
+    parallels:
+      - verseId: 583
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 27
+        short: 1 Цар:27:6
+      - verseId: 663
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 30
+        short: 1 Цар:30:17
+      - verseId: 672
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 30
+        short: 1 Цар:30:26
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И бысть егда умре саул, и давид возвратися победив амалика, и пребысть
+        давид в секелазе дни два.
+      averincev: ""
+      ungerov: ""
+      csya_old: И# бы1сть є3гдA ќмре саyлъ, и3 давjдъ возврати1сz побэди1въ ґмали1ка,
+        и3 пребы1сть давjдъ въ секелaзэ дни6 двA.
+      sovr_rbo: Саул погиб. Давид, разгромив амалекитян, на два дня остановился в
+        Циклаге.
+      latin: Factum est autem, postquam mortuus est Saul, ut David reverteretur a
+        caede Amalec, et maneret in Siceleg duos dies.
+      ukr: І сталося по Сауловій смерті, коли Давид вернувся, розбивши Амалика, то він
+        сидів у Ціклаґу два дні.
+      nkjv: Now it came to pass after the death of Saul, when David had returned from
+        the slaughter of the Amalekites, and David had stayed two days in
+        Ziklag,
+      desnitsky: Когда погиб Саул, Давид как раз вернулся с победоносной войны с
+        Амалеком, и два дня оставался Давид в Циклаге.
+      mt: ‫    וַיְהִי אַחֲרֵי מוֹת שָׁאוּל וְדָוִד שָׁב מֵהַכּוֹת אֶת־הָעֲמָלֵק
+        וַיֵּשֶׁב דָּוִד בְּצִקְלָג יָמִים שְׁנָיִם׃ ‬
+      romana: Dupa moartea lui Saul, cand David se intorcea din razboiul ce-l purtase
+        impotriva Amalecitilor si dupa ce s-a oprit doua zile in Ticlag,
+      francais: Après la mort de Saül, David, qui avait battu les Amalécites, était
+        depuis deux jours revenu à Tsiklag.
+      italian: Dopo la morte di Saul, Davide tornò dalla strage degli Amaleciti e
+        rimase in Ziklàg due giorni.
+      old_georgian: იყო, რაჟამს მოკუდა საულ, მოიქცა დავით მოსლვისა მისგან ამალეკთასა
+        და დადგა იგი სეკელას ორ დღე ოდენ.
+      portuguese: Depois da morte de Saul, tendo Davi voltado da derrota dos
+        amalequitas e estando há dois dias em Ziclague,
+      polish: "Po śmierci Saula, po zwycięstwie nad Amalekitami, wrócił Dawid i
+        zatrzymał\rsię przez dwa dni w Siklag."
+      turkish: Saul'un ölümünden sonra Amalekliler'e karşı kazandığı zaferden dönen
+        Davut Ziklak'ta iki gün kaldı.
+      nrt: После смерти Саула Давид вернулся, победив амаликитян, и пробыл в Циклаге
+        два дня.
+      Macarius: По смерти Саула, когда Давид возвратился с победы над Амаликом, пробыл
+        Давид в Циклаге два дня.
+      serbian: А по смрти Сауловој, кад се Давид врати побивши Амалике и оста у
+        Сиклагу два дана,
+      bulgarian: Подир Сауловата смърт, когато Давид се върна след разбиването на
+        амаликитци и престоя в Секелаг два дни,
+      deutsch: Nach dem Tode Sauls, da David von der Amalekiter Schlacht
+        wiedergekommen und zwei Tage in Ziklag geblieben war,
+      ukr3: По Сауловій смертї, як Давид вернувсь, подужавши Амаликіїв, і перебув у
+        Секелазї два днї,
+      bel_syomukha: Пасьля сьмерці Саўла, калі Давід вярнуўся ад разгрому Амалікіцянаў
+        і прабыў у Сэкелагу два дні,
+      lev-khv: По смерти Саула, когда Давид возвратился с поражения Амалекитян, и
+        пробыл Давид в Секелаге два дня,
+      czech: Po Saulove smrti se David vratil z vitezne bitvy s Amalekem a zustal dva
+        dny v Siklagu.
+      spanish: Después de la muerte de Saúl, cuando hacía dos días que David,
+        victorioso de los amalecitas, estaba en Siceleg,
+      greek-lxx: καὶ ἐγένετο μετὰ τὸ ἀποθανεῖν Σαουλ καὶ Δαυιδ ἀνέστρεψεν τύπτων τὸν
+        Αμαληκ καὶ ἐκάθισεν Δαυιδ ἐν Σεκελακ ἡμέρας δύο
+      st_text: По смерти Саула, когда Давид возвратился от поражения Амаликитян и
+        пробыл в Секелаге два дня,
+  - id: 3808
+    number: 2
+    bookId: 10
+    text: вот, на третий день приходит человек из стана Саулова; одежда на нем
+      разодрана и прах на голове его. Придя к Давиду, он пал на землю и
+      поклонился [ему].
+    chapter: 1
+    chapterId: 268
+    parallels:
+      - verseId: 10621
+        bookId: 1
+        bookCode: bytie
+        chapter: 37
+        short: Быт:37:34
+      - verseId: 702
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 4
+        short: 1 Цар:4:12
+      - verseId: 3953
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 14
+        short: 2 Цар:14:4
+      - verseId: 19159
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 2
+        short: Иов:2:12
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И бысть в третий день, и се, муж прииде от полка людий сауловых, ризы же
+        его (бяху) раздраны, и персть на главе его: и бысть егда вниде к давиду
+        (отрок), и пад на земли поклонися ему."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# бы1сть въ тре1тій де1нь, и3 се2, мyжъ пріи1де t полкA людjй
+        саyловыхъ, ри6зы же є3гw2 (бsху) раздр†ны, и3 пе1рсть на главЁ є3гw2: и3
+        бы1сть є3гдA вни1де къ давjду (џтрокъ), и3 пaдъ на земли2 поклони1сz
+        є3мY."
+      sovr_rbo: На третий день туда пришел человек из стана Саула; одежда на нем была
+        разорвана, голова посыпана землей . Подойдя к Давиду, он поклонился и
+        пал ниц.
+      latin: "In die autem tertia apparuit homo veniens de castris Saul veste
+        conscissa, et pulvere conspersus caput: et ut venit ad David, cecidit
+        super faciem suam, et adoravit."
+      ukr: І сталося третього дня, аж ось прийшов чоловік із табору від Саула, а одежа
+        його роздерта, і порох на його голові. І сталося, як прийшов він до
+        Давида, то впав на землю й поклонився.
+      nkjv: "on the third day, behold, it happened that a man came from Saul's camp
+        with his clothes torn and dust on his head. So it was, when he came to
+        David, that he fell to the ground and prostrated himself. "
+      desnitsky: "А на третий день пришел человек из того войска, что было с Саулом:
+        разорваны его одежды, посыпана прахом его голова. Приблизившись к
+        Давиду, он поклонился ему до земли."
+      mt: ‫    וַיְהִי בַּיּוֹם הַשְּׁלִישִׁי וְהִנֵּה אִישׁ בָּא מִן־הַמַּחֲנֶה מֵעִם
+        שָׁאוּל וּבְגָדָיו קְרֻעִים וַאֲדָמָה עַל־רֹאשׁוֹ וַיְהִי בְּבֹאוֹ
+        אֶל־דָּוִד וַיִּפֹּל אַרְצָה וַיִּשְׁתָּחוּ׃ ‬
+      romana: Iata ca a treia zi a venit un om din tabara lui Saul. Acesta avea pe el
+        hainele rupte si pe cap tarana si dupa ce a ajuns la David, a cazut la
+        pamant si i s-a inchinat.
+      francais: Le troisième jour, un homme arriva du camp de Saül, les vêtements
+        déchirés et la tête couverte de terre. Lorsqu'il fut en présence de
+        David, il se jeta par terre et se prosterna.
+      italian: Al terzo giorno ecco arrivare un uomo dal campo di Saul con la veste
+        stracciata e col capo cosparso di polvere. Appena giunto presso Davide,
+        cadde a terra e si prostrò.
+      old_georgian: და მესამესა დღესა მოვიდა კაცი ერთი წყობისა მისგან საულისისა,
+        რომელსა კუართი დაეპო და მიწა გარდაესხა თავსა მისსა. და ვითარცა შევიდა
+        იგი წინაშე დავითისა, დავარდა ქუეყანასა ზედა და თაყუანი-სცა მას.
+      portuguese: "ao terceiro dia veio um homem do arraial de Saul, com as vestes
+        rasgadas e a cabeça coberta de terra; e,\rchegando ele a Davi,
+        prostrou-se em terra e lhe fez reverência."
+      polish: "Na trzeci dzień przybył jakiś człowiek z obozu, z otoczenia Saula.
+        Odzienie\rmiał podarte, a głowę posypaną ziemią. Podszedłszy do Dawida,
+        padł na\rziemię i oddał mu pokłon."
+      turkish: Üçüncü gün, Saul'un ordugahından giysileri yırtılmış, başı toz toprak
+        içinde bir adam geldi. Adam Davut'a yaklaşınca önünde yere kapandı.
+      nrt: На третий день из лагеря Саула пришел человек в разорванной одежде, с пылью
+        на голове. Придя к Давиду, он поклонился ему до земли.
+      Macarius: На третий день пришел человек из стана Саулова; одежды на нем были
+        разодраны, и прах на голове его, и когда пришел к Давиду, пал на землю и
+        поклонился.
+      serbian: Трећега дана, гле, дође један из војске Саулове раздртијех хаљина и
+        главе посуте прахом; и дошав к Давиду, паде на земљу и поклони се.
+      bulgarian: "ето, на третия ден дохожда човек от Сауловия стан: дрехите му
+        разкъсани и по главата му прах. Щом дойде при Давида, падна на земята и
+        (му) се поклони."
+      deutsch: siehe, da kam am dritten Tage ein Mann aus dem Heer von Saul mit
+        zerrissenen Kleidern und Erde auf seinem Haupt. Und da er zu David kam,
+        fiel er zur Erde und beugte sich nieder.
+      ukr3: Приходить на третий день несподївано чоловік із табору Саулового; одїж на
+        йому розідрана, а голова порохом посипана. Приступивши до Давида, припав
+        він і поклонився до землї.
+      bel_syomukha: "вось, на трэці дзень прыходзіць чалавек з табара Саўлавага:
+        вопратка на ім падраная і пыл на галаве ягонай. Прыйшоўшы да Давіда, ён
+        упаў на зямлю і пакланіўся."
+      lev-khv: Случилось, что на третий день пришел человек из стана Саулова; одежда
+        на нем разодрана и пепел был на голове у него; и когда подошел он к
+        Давиду, то пал на землю и поклонился.
+      czech: Tretiho dne prisel nejaky muz ze Saulova tabora s roztrzenym satem a s
+        prsti na hlave. Prisel k Davidovi, padl na zem a poklonil se.
+      spanish: llegó el tercer día al campamento un hombre que venía del campo de
+        Saúl, desgarrados los vestidos y cubierta la cabeza de polvo. Cuando
+        estuvo cerca de David, se echó a tierra, prosternándose,
+      greek-lxx: καὶ ἐγενήθη τῇ ἡμέρᾳ τῇ τρίτῃ καὶ ἰδοὺ ἀνὴρ ἦλθεν ἐκ τῆς παρεμβολῆς
+        ἐκ τοῦ λαοῦ Σαουλ καὶ τὰ ἱμάτια αὐτοῦ διερρωγότα καὶ γῆ ἐπὶ τῆς κεφαλῆς
+        αὐτοῦ καὶ ἐγένετο ἐν τῷ εἰσελθεῖν αὐτὸν πρὸς Δαυιδ καὶ ἔπεσεν ἐπὶ τὴν
+        γῆν καὶ προσεκύνησεν αὐτῷ
+      st_text: вот, на третий день приходит человек из стана Саулова; одежда на нем
+        разодрана и прах на голове его. Придя к Давиду, он пал на землю и
+        поклонился [ему].
+  - id: 3809
+    number: 3
+    bookId: 10
+    text: "И сказал ему Давид: откуда ты пришел? И сказал тот: я убежал из стана
+      Израильского."
+    chapter: 1
+    chapterId: 268
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И рече ему давид: откуду ты пришел еси? И рече ему: от полка израилева аз
+        избегох."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 є3мY давjдъ: tкyду ты2 прише1лъ є3си2; И# рече2 є3мY: t
+        полкA ї}лева ѓзъ и3збэго1хъ."
+      sovr_rbo: «Откуда ты?» — спросил его Давид. «Я из войска израильтян, — отвечал
+        тот. — Мне удалось спастись». —
+      latin: "Dixitque ad eum David: Unde venis? Qui ait ad eum: De castris Israel
+        fugi."
+      ukr: "І сказав йому Давид: Звідки це ти приходиш? А той відказав: Я втік з
+        Ізраїлевого табору."
+      nkjv: And David said to him, "Where have you come from?" So he said to him, "I
+        have escaped from the camp of Israel."
+      desnitsky: "И Давид спросил его: «Откуда ты пришел?» Тот ответил: «я из
+        израильского войска, мне удалось спастись!»"
+      mt: ‫    וַיֹּאמֶר לוֹ דָּוִד אֵי מִזֶּה תָּבוֹא וַיֹּאמֶר אֵלָיו מִמַּחֲנֵה
+        יִשְׂרָאֵל נִמְלָטְתִּי׃ ‬
+      romana: 'Iar David i-a zis: "De unde vii tu?" "Am fugit din tabara lui Israel",
+        raspunse acela.'
+      francais: "David lui dit: D'où viens-tu? Et il lui répondit: Je me suis sauvé du
+        camp d'Israël."
+      italian: "Davide gli chiese: \"Da dove vieni?\". Rispose: \"Sono fuggito dal
+        campo d'Israele\"."
+      old_georgian: "და ჰრქვა მას დავით: ვინაჲ მოხვალ შენ? და მან ჰრქუა: ერისა მისგან
+        ისრაჱლისა, განრინებული მოწყუედისა მისგან."
+      portuguese: "Perguntou-lhe Davi: Donde vens? Ele lhe respondeu: Escapei do
+        arraial de Israel."
+      polish: "Dawid zapytał go: ”Skąd przybywasz?” Odpowiedział mu: ”Ocalałem z
+        izraelskiego obozu”."
+      turkish: "Davut, «Nereden geliyorsun?» diye sordu.\rAdam, «İsrail ordugahından
+        kaçıp kurtuldum» dedi."
+      nrt: – Откуда ты пришел? – спросил его Давид. – Я спасся из лагеря израильтян –
+        ответил он.
+      Macarius: "И сказал ему Давид: откуда ты пришел? Он сказал ему: из стана
+        Израильского я убежал."
+      serbian: "И рече му Давид: Откуда идеш? А он му рече: Из окола Израиљскога
+        утекох."
+      bulgarian: "И Давид го попита: откъде идеш? Той отговори: избягах от израилския
+        стан."
+      deutsch: "David aber sprach zu ihm: Wo kommst du her? Er sprach zu ihm: Aus dem
+        Heer Israels bin ich entronnen."
+      ukr3: "І питає його Давид: Звідки прийшов єси? А він відказує: Я втїк із табору
+        Ізрайлевого."
+      bel_syomukha: "І сказаў яму Давід: адкуль ты прыйшоў? І сказаў той: я ўцёк з
+        табара Ізраільскага."
+      lev-khv: "И сказал ему Давид: откуда ты пришел? Тот отвечал ему: из стана
+        Израильскаго я спасся бегством."
+      czech: 'David se ho zeptal: "Odkud jdes?" On mu rekl: "Unikl jsem z izraelskeho
+        tabora."'
+      spanish: "y David le preguntó: << ¿De dónde vienes?>> El respondió: <<Vengo
+        huido del campamento de Israel>>."
+      greek-lxx: καὶ εἶπεν αὐτῷ Δαυιδ πόθεν σὺ παραγίνῃ καὶ εἶπεν πρὸς αὐτόν ἐκ τῆς
+        παρεμβολῆς Ισραηλ ἐγὼ διασέσῳσμαι
+      st_text: "И сказал ему Давид: откуда ты пришел? И сказал тот: я убежал из стана
+        Израильского."
+  - id: 3810
+    number: 4
+    bookId: 10
+    text: "И сказал ему Давид: что произошло? расскажи мне. И тот сказал: народ
+      побежал со сражения, и множество из народа пало и умерло, и умерли и Саул
+      и сын его Ионафан."
+    chapter: 1
+    chapterId: 268
+    parallels:
+      - verseId: 4391
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 4
+        short: 2 Цар:4:10
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И рече ему давид: что слово сие? возвести ми. И рече: яко побегоша людие
+        от брани, и падоша мнози от людий, и измроша, и саул и ионафан сын его
+        умре."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 є3мY давjдъ: что2 сло1во сіе2; возвэсти1 ми. И# рече2: ћкw
+        побэго1ша лю1діе t брaни, и3 падо1ша мно1зи t людjй, и3 и3змро1ша, и3
+        саyлъ и3 їwнаfaнъ сы1нъ є3гw2 ќмре."
+      sovr_rbo: "«Что произошло? Рассказывай!» — сказал Давид. Тот продолжал: «Войско
+        побежало с поля битвы, много народа было ранено и убито. Погибли также
+        Саул и его сын Ионафан»."
+      latin: "Et dixit ad eum David: Quod est verbum quod factum est? indica mihi. Qui
+        ait: Fugit populus ex praelio, et multi corruentes e populo mortui sunt:
+        sed et Saul et Jonathas filius ejus interierunt."
+      ukr: "І сказав до нього Давид: Що це сталося, розкажи но мені! А той відказав:
+        Народ утік із бою, а також багато з народу попадало й повмирало, і теж
+        Саул та син його Йонатан померли."
+      nkjv: Then David said to him, "How did the matter go? Please tell me." And he
+        answered, "The people have fled from the battle, many of the people are
+        fallen and dead, and Saul and Jonathan his son are dead also."
+      desnitsky: "Давид спросил его: «Что же случилось? Поведай мне!» И тот рассказал:
+        «Народ бежал с поля боя, и многие пали убитыми. Также погибли Саул и сын
+        его Йонатан»."
+      mt: ‫    וַיֹּאמֶר אֵלָיו דָּוִד מֶה־הָיָה הַדָּבָר הַגֶּד־נָא לִי וַיֹּאמֶר
+        אֲשֶׁר־נָס הָעָם מִן־הַמִּלְחָמָה וְגַם־הַרְבֵּה נָפַל מִן־הָעָם
+        וַיָּמֻתוּ וְגַם שָׁאוּל וִיהוֹנָתָן בְּנוֹ מֵתוּ׃ ‬
+      romana: '"Spune-mi, a zis David, ce s-a intamplat?" "Poporul, a zis omul, a
+        fugit din lupta si multime din popor a cazut si a murit, si a murit si
+        Saul si fiul sau Ionatan".'
+      francais: "David lui dit: Que s'est-il passé? dis-moi donc! Et il répondit: Le
+        peuple s'est enfui du champ de bataille, et un grand nombre d'hommes
+        sont tombés et ont péri; Saül même et Jonathan, son fils, sont morts."
+      italian: 'Davide gli domandò: "Come sono andate le cose? Su, raccontami!".
+        Rispose: "È successo che il popolo è fuggito nel corso della battaglia,
+        molti del popolo sono caduti e sono morti; anche Saul e suo figlio
+        Giònata sono morti".'
+      old_georgian: "და ჰრქვა მას დავით: რა იქმნა, მითხარღა მე? და მან უთხრა მას: მეოტ
+        იქმნა ერი იგი ბრძოლისა მისგან და დასცნეს ერნი მრავალნი და მოსწყჳდნეს
+        საულ და იონათან."
+      portuguese: "Davi ainda lhe indagou: Como foi lá isso? Dize-mo. Ao que ele lhe
+        respondeu: O povo fugiu da batalha, e muitos\rdo povo caíram, e
+        morreram; também Saul e Jônatas, seu filho, foram mortos."
+      polish: "Rzekł do niego Dawid: ”Opowiedz mi, proszę, co się tam stało?”
+        Opowiedział\rwięc, że ludzie uciekli z pola walki, wielu z ludzi
+        zginęło, i że również ponieśli\rśmierć Saul i jego syn Jonatan."
+      turkish: "Davut, «Ne oldu? Bana anlat» dedi.\rAdam askerlerin savaş alanından
+        kaçtığını, birçoğunun düşüp öldüğünü, Saul'la oğlu Yonatan'ın da ölüler
+        arasında olduğunu anlattı."
+      nrt: "– Что случилось? – спросил Давид. – Расскажи мне. Человек сказал: – Народ
+        бежал с поля боя. Многие пали и умерли. Саул и его сын Ионафан мертвы."
+      Macarius: "И сказал ему Давид: что там сделалось? скажи мне. Он сказал, что
+        народ побежал с сражения, и множество народа пало и умерло, и что также
+        Саул и Ионафан, сын его, умерли."
+      serbian: "А Давид му рече: Шта би? кажи ми. А он рече: Народ побјеже из боја; и
+        много народа паде и изгибе, погибе и Саул и син му Јонатан."
+      bulgarian: "Давид пак го попита: какво стана? разкажи ми. И той отговори:
+        народът се разбяга от битката, и много народ падна и измря; умряха и
+        Саул и син му Ионатан."
+      deutsch: "David sprach zu ihm: Sage mir, wie geht es zu? Er sprach: Das Volk ist
+        geflohen vom Streit, und ist viel Volks gefallen; dazu ist Saul tot und
+        sein Sohn Jonathan."
+      ukr3: "І питає Давид: Що там сталось? А той каже: Військо повтїкало з бою, і
+        багацько військових полягло й померло; та й Саул і син його Йонатан
+        померли."
+      bel_syomukha: "І сказаў яму Давід: што адбылося? раскажы мне. І той сказаў: люд
+        пабег зь бітвы, і мноства зь люду ўпала і памерла, і памерлі і Саўл і
+        сын ягоны Ёнатан."
+      lev-khv: "Тогда сказал ему Давид: чтó там случилось, разскажи мне, пожалуйста.
+        Тот сказал, что народ побежал с сражения; при этом множество из народа
+        пало и умерло; даже Саул и сын его Ионафан умерли."
+      czech: 'David se dale tazal: "Povez, co se stalo?" On rekl, ze lid utekl z
+        bitvy, ze take mnoho lidu padlo a naslo smrt, ze i Saul a jeho syn
+        Jonatan zahynuli.'
+      spanish: "David preguntó: << ¿Qué ha sucedido? Cuéntamelo>>. El respondió: <<El
+        pueblo huyó de la batalla y gran número de hombres han caído. Saúl mismo
+        y Jonatán, su hijo, han sido muertos>>."
+      greek-lxx: καὶ εἶπεν αὐτῷ Δαυιδ τίς ὁ λόγος οὗτος ἀπάγγειλόν μοι καὶ εἶπεν ὅτι
+        ἔφυγεν ὁ λαὸς ἐκ τοῦ πολέμου καὶ πεπτώκασι πολλοὶ ἐκ τοῦ λαοῦ καὶ
+        ἀπέθανον καὶ ἀπέθανεν καὶ Σαουλ καὶ Ιωναθαν ὁ υἱὸς αὐτοῦ ἀπέθανεν
+      st_text: "И сказал ему Давид: что произошло? расскажи мне. И тот сказал: народ
+        побежал со сражения, и множество из народа пало и умерло, и умерли и
+        Саул и сын его Ионафан."
+  - id: 3811
+    number: 5
+    bookId: 10
+    text: "И сказал Давид отроку, рассказывавшему ему: как ты знаешь, что Саул и сын
+      его Ионафан умерли?"
+    chapter: 1
+    chapterId: 268
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И рече давид отроку возвестившему ему: како знаеши, яко умре саул и
+        ионафан сын его?"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 давjдъ џтроку возвэсти1вшему є3мY: кaкw знaеши, ћкw ќмре
+        саyлъ и3 їwнаfaнъ сы1нъ є3гw2;"
+      sovr_rbo: "Тогда Давид спросил человека, который принес ему эти новости: «Откуда
+        ты знаешь, что погиб Саул и его сын Ионафан?» —"
+      latin: "Dixitque David ad adolescentem, qui nuntiabat ei: Unde scis quia mortuus
+        est Saul, et Jonathas filius ejus?"
+      ukr: "А Давид сказав юнакові, що розповідав йому: Як ти пізнав, що помер Саул та
+        син його Йонатан?"
+      nkjv: So David said to the young man who told him, "How do you know that Saul
+        and Jonathan his son are dead?"
+      desnitsky: "И Давид спросил у того вестника: «И откуда же ты знаешь, что погибли
+        Саул и сын его Йонатан?»"
+      mt: ‫    וַיֹּאמֶר דָּוִד אֶל־הַנַּעַר הַמַּגִּיד לוֹ אֵיךְ יָדַעְתָּ כִּי־מֵת
+        שָׁאוּל וִיהוֹנָתָן בְּנוֹ׃ ‬
+      romana: '"Cum stii ca Saul si fiul sau Ionatan au murit?" a intrebat David pe
+        tanarul care-i adusese vestea.'
+      francais: "David dit au jeune homme qui lui apportait ces nouvelles: Comment
+        sais-tu que Saül et Jonathan, son fils, sont morts?"
+      italian: 'Davide chiese ancora al giovane che gli portava le notizie: "Come sai
+        che sono morti Saul e suo figlio Giònata?".'
+      old_georgian: "მიუგო დავით და ჰრქუა კაცსა მას: წარმო-რეღა-დეგ და მითხარ მე,
+        ვითარ იცი სიკუდილი საულისი და იონათანისი, ძისა მისისა?"
+      portuguese: "Perguntou Davi ao mancebo que lhe trazia as novas: Como sabes que
+        Saul e Jônatas, seu filho, são mortos?"
+      polish: "Dawid wypytywał młodzieńca, który mu przyniósł te wieści: ”Skąd ty
+        wiesz,\rże umarł Saul i jego syn Jonatan?”"
+      turkish: Davut, kendisine haberi veren genç adama, «Saul'la oğlu Yonatan'ın
+        öldüğünü nereden biliyorsun?» diye sordu.
+      nrt: "Давид сказал юноше, который принес ему это известие: – Откуда ты знаешь,
+        что Саул и его сын Ионафан мертвы?"
+      Macarius: "И сказал Давид отроку, известившему его: как ты узнал, что умер Саул
+        и сын его, Ионафан?"
+      serbian: "А Давид рече момку који му донесе глас: Како знаш да је погинуо Саул и
+        син му Јонатан?"
+      bulgarian: "Давид каза на момъка, който му разказваше: отде знаеш, че Саул и син
+        му Ионатан са умрели?"
+      deutsch: "David sprach zu dem Jüngling, der ihm solches sagte: Woher weißt du,
+        daß Saul und Jonathan tot sind?"
+      ukr3: "І питає Давид молодика, що принїс йому вість: Як ти взнав, що Саул та
+        Йонатан померли?"
+      bel_syomukha: "І сказаў Давід хлопчыку, які расказваў яму: як ты ведаеш, што
+        Саўл і сын яго Ёнатан памерлі?"
+      lev-khv: "И сказал Давид молодому человеку, который разсказывал ему это: как
+        узнал ты, что умер Саул и сын его Ионафан?"
+      czech: 'David se zeptal mladence, ktery mu to oznamil: "Jak vis, ze zemrel Saul
+        a jeho syn Jonatan?"'
+      spanish: "David dijo al joven que le daba estas noticias: << ¿Y cómo sabes tú
+        que han muerto Saúl y su hijo Jonatán?>>"
+      greek-lxx: καὶ εἶπεν Δαυιδ τῷ παιδαρίῳ τῷ ἀπαγγέλλοντι αὐτῷ πῶς οἶδας ὅτι
+        τέθνηκεν Σαουλ καὶ Ιωναθαν ὁ υἱὸς αὐτοῦ
+      st_text: "И сказал Давид отроку, рассказывавшему ему: как ты знаешь, что Саул и
+        сын его Ионафан умерли?"
+  - id: 3812
+    number: 6
+    bookId: 10
+    text: "И сказал отрок, рассказывавший ему: я случайно пришел на гору Гелвуйскую,
+      и вот, Саул пал на свое копье, колесницы же и всадники настигали его."
+    chapter: 1
+    chapterId: 268
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И рече отрок возвещаяй ему: по случаю приидох в гору гелвуйскую, и се,
+        саул нападаше на копие свое, и се, колесницы и вельможи собрашася нань:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 џтрокъ возвэщazй є3мY: по слyчаю пріидо1хъ въ го1ру
+        гелвyйскую, и3 се2, саyлъ нападaше на копіе2 свое2, и3 се2, колєсни1цы
+        и3 вельмHжи собрaшасz нaнь:"
+      sovr_rbo: «Я случайно оказался на горе Гилбоа, — отвечал вестник, — и увидел
+        Саула; он стоял, опершись на копье, а колесницы и всадники были уже
+        совсем близко.
+      latin: "Et ait adolescens, qui nuntiabat ei: Casu veni in montem Gelboe, et Saul
+        incumbebat super hastam suam: porro currus et equites appropinquabant
+        ei,"
+      ukr: "І сказав той юнак, що розповідав йому: Припадком натрапив я на горі
+        Ґілбоа, аж ось Саул, настромлений на списа свого, а колесниці та їздці
+        доганяють його."
+      nkjv: Then the young man who told him said, "As I happened by chance to be on
+        Mount Gilboa, there was Saul, leaning on his spear; and indeed the
+        chariots and horsemen followed hard after him.
+      desnitsky: "Вестник тот отвечал: «Случилось мне быть на горе Гильбоа, и там едва
+        стоял, опираясь на копье, Саул, а на него неслись колесницы и конное
+        войско."
+      mt: ‫    וַיֹּאמֶר הַנַּעַר הַמַּגִּיד לוֹ נִקְרֹא נִקְרֵיתִי בְּהַר
+        הַגִּלְבֹּעַ וְהִנֵּה שָׁאוּל נִשְׁעָן עַל־חֲנִיתוֹ וְהִנֵּה הָרֶכֶב
+        וּבַעֲלֵי הַפָּרָשִׁים הִדְבִּקֻהוּ׃ ‬
+      romana: '"Din intamplare, m-am dus pe muntele Ghelboa, a zis omul ce-i graia, si
+        iata Saul statea sprijinit pe sulita sa, iar carele si calaretii il
+        ajungeau.'
+      francais: "Et le jeune homme qui lui apportait ces nouvelles répondit: Je me
+        trouvais sur la montagne de Guilboa; et voici, Saül s'appuyait sur sa
+        lance, et voici, les chars et les cavaliers étaient près de
+        l'atteindre."
+      italian: 'Il giovane che recava la notizia rispose: "Ero venuto per caso sul
+        monte Gelboe ed ecco vidi Saul appoggiato alla lancia e serrato tra
+        carri e cavalieri.'
+      old_georgian: "და უთხრობდა კაცი იგი და თქუა: გუნდი ერი მრავალი მიეტევა გუნდსა
+        მას საულისასა გელბუესა, და მიჰხადეს საულ და ვიხილე მე, რამეთუ დავრდომილი
+        იყო იგი ჰოროლსა მისსა, ვითარცა მიაქციეს ახოვანთა და მთავართა ეტლოსანთა
+        მისგან."
+      portuguese: "Então disse o mancebo que lhe dava a notícia: Achava-me por acaso
+        no monte Gilboa, e eis que Saul se\rencostava sobre a sua lança; os
+        carros e os cavaleiros apertavam com ele."
+      polish: "Młodzieniec, który przyniósł te wieści, odparł: ”Przypadek zrządził, że
+        znalazłem się na górze Gilboa i właśnie Saul tkwił oparty na swej
+        włóczni, gdy\rtymczasem dosięgały go rydwany i jeźdźcy."
+      turkish: "Genç adam şöyle yanıtladı: «Bir rastlantı sonucu Gilboa Dağı'ndaydım.
+        Saul mızrağına dayanmıştı. Atlılarla savaş arabaları ona doğru
+        yaklaşıyordu."
+      nrt: – Я случайно оказался на горе Гильбоа, – сказал юноша, – и там был Саул,
+        который опирался на свое копье, а колесницы и всадники приближались к
+        нему.
+      Macarius: "Отрок, известивший его, сказал: по случаю я был на горе Гилбое, и
+        вот, Саул оперся на копье свое, между тем колесницы и всадники гнались
+        за ним."
+      serbian: "А момак који му донесе глас рече: Случајно дођох на гору Гелвују, а то
+        се Саул наслонио на копље своје, а кола и коњици приближаваху се к
+        њему."
+      bulgarian: "И момъкът, който му разказваше, рече: аз случайно отидох на
+        Гелвуйската планина, и ето, Саул падна върху копието си, а колесниците и
+        конниците го настигнаха."
+      deutsch: "Der Jüngling, der ihm solches sagte, sprach: Ich kam von ungefähr aufs
+        Gebirge Gilboa, und siehe Saul lehnte sich auf seinen Spieß, und die
+        Wagen und Reiter jagten hinter ihm her."
+      ukr3: "І відказав молодик, що принїс вість: Довелось менї случаєм ійти
+        Гелвуйськими горами, коли ж дивлюсь - Саул настромивсь на свого списа, а
+        колесницї й комонник зближаються до його."
+      bel_syomukha: "і сказаў хлопчык, які расказваў Яму: я выпадкова прыйшоў на гару
+        Гэлвуйскую, і вось, Саўл упаў на сваю дзіду, а калясьніцы і верхаўцы
+        даганялі яго."
+      lev-khv: "Молодой человек, разсказывавший ему, отвечал: совершенно случайно
+        пришел я на гору Гелвуйскую, и вот, Саул налегает на копье свое, и вот,
+        колеснцы и всадники настигают его."
+      czech: 'Mladenec, ktery mu to oznamil, odvetil: "Nahodou jsem se ocitl v pohori
+        Gilboa. A hle, Saul se opiral o sve kopi a vozy a jezdci uz na nej
+        dotirali.'
+      spanish: "El joven que le daba las noticias respondió: <<Yo me hallaba por
+        casualidad en el monte Gélboe, y vi a Saúl apoyado sobre su lanza,
+        mientras se acercaban a él carros y caballeros, que estaban ya para
+        alcanzarle;"
+      greek-lxx: καὶ εἶπεν τὸ παιδάριον τὸ ἀπαγγέλλον αὐτῷ περιπτώματι περιέπεσον ἐν
+        τῷ ὄρει τῷ Γελβουε καὶ ἰδοὺ Σαουλ ἐπεστήρικτο ἐπὶ τὸ δόρυ αὐτοῦ καὶ ἰδοὺ
+        τὰ ἅρματα καὶ οἱ ἱππάρχαι συνῆψαν αὐτῷ
+      st_text: "И сказал отрок, рассказывавший ему: я случайно пришел на гору
+        Гелвуйскую, и вот, Саул пал на свое копье, колесницы же и всадники
+        настигали его."
+  - id: 3813
+    number: 7
+    bookId: 10
+    text: Тогда он оглянулся назад и, увидев меня, позвал меня.
+    chapter: 1
+    chapterId: 268
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и обозреся вспять (саул) и виде мя, и призва мя, и рех: се, аз:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 њбозрёсz вспsть (саyлъ), и3 ви1дэ мS, и3 призвa мz, и3 рёхъ: се2,
+        ѓзъ:"
+      sovr_rbo: Обернувшись, он увидел меня и позвал — я откликнулся.
+      latin: "et conversus post tergum suum, vidensque me vocavit. Cui cum
+        respondissem: Adsum:"
+      ukr: "І він обернувся до мене, і побачив мене, та й покликав мене. А я відповів:
+        Ось я!"
+      nkjv: "Now when he looked behind him, he saw me and called to me. And I
+        answered, 'Here I am.' "
+      desnitsky: "Оглянулся он, увидел меня и подозвал. Я отозвался: “Вот я!”"
+      mt: ‫    וַיִּפֶן אַחֲרָיו וַיִּרְאֵנִי וַיִּקְרָא אֵלָי וָאֹמַר הִנֵּנִי׃ ‬
+      romana: 'Atunci el s-a intors si, vazandu-ma pe mine, m-a strigat si eu am
+        raspuns: "Iata-ma!"'
+      francais: "S'étant retourné, il m'aperçut et m'appela. Je dis: Me voici!"
+      italian: "Egli si volse indietro, mi vide e mi chiamò vicino. Dissi: Eccomi!"
+      old_georgian: "მომხედა მე და მიწოდა საულ და ვარქუ: აქა ვარ."
+      portuguese: "Nisso, olhando ele para trás, viu-me e me chamou; e eu disse:
+        Eis-me aqui."
+      polish: "Rozejrzał się i spostrzegłszy mnie, przywołał do siebie.
+        Odpowiedziałem: ”Jestem”."
+      turkish: Saul arkasına dönüp beni görünce seslendi. Ben de, `Buyrun, buradayım'
+        dedim.
+      nrt: "Обернувшись назад и увидев меня, он позвал меня, и я сказал: «Что мне
+        сделать?»"
+      Macarius: "Саул оглянулся, и увидел меня, и позвал меня; я сказал: вот я."
+      serbian: "А он обазревши се натраг, угледа ме, па ме викну, а ја му рекох: Ево
+        ме."
+      bulgarian: Тогава той се озърна назад и, като ме видя, повика ме.
+      deutsch: "Und er wandte sich um und sah mich und rief mich. Und ich sprach: Hier
+        bin ich."
+      ukr3: "Обернеться він назад себе й, побачивши мене, покликав мене. Я озвавсь:
+        Чую!"
+      bel_syomukha: Тады ён азірнуўся назад і, угледзеўшы мяне, паклікаў мяне.
+      lev-khv: "Тогда, оглянувшись назад, он увидел меня и позвал меня. Я сказал: вот
+        я."
+      czech: "Jeste se obratil, spatril me a zavolal na me. Ozval jsem se: ‚Tu jsem.'"
+      spanish: "y volviéndose, me vio y me llamó. Yo respondí: <<Aquí me tienes>>."
+      greek-lxx: καὶ ἐπέβλεψεν ἐπὶ τὰ ὀπίσω αὐτοῦ καὶ εἶδέν με καὶ ἐκάλεσέν με καὶ
+        εἶπα ἰδοὺ ἐγώ
+      st_text: Тогда он оглянулся назад и, увидев меня, позвал меня.
+  - id: 3814
+    number: 8
+    bookId: 10
+    text: "И я сказал: вот я. Он сказал мне: кто ты? И я сказал ему: я -
+      Амаликитянин."
+    chapter: 1
+    chapterId: 268
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и рече ми: кто ты еси? и рех: амаликитин есмь аз:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 рече1 ми: кто2 ты2 є3си2; и3 рёхъ: ґмаликjтинъ є4смь ѓзъ:"
+      sovr_rbo: "Он спросил меня: „Ты кто?” — „Я — амалекитянин”, — сказал я."
+      latin: "dixit mihi: Quisnam es tu? Et aio ad eum: Amalecites ego sum."
+      ukr: "І сказав він до мене: Хто ти? А я відказав йому: Я амаликитянин."
+      nkjv: "And he said to me, 'Who are you?' So I answered him, 'I am an Amalekite.'
+        "
+      desnitsky: Он спросил у меня, кто я, и я ответил, что амалекитянин.
+      mt: ‫    וַיֹּאמֶר לִי מִי־אָתָּה *ויאמר **וָאֹמַר אֵלָיו עֲמָלֵקִי אָנֹכִי׃ ‬
+      romana: 'si el mi-a zis: "Cine esti tu?" si eu i-am raspuns: "Sunt un amalecit!"'
+      francais: "Et il me dit: Qui es-tu? Je lui répondis: Je suis Amalécite."
+      italian: "Mi chiese: Chi sei tu? Gli risposi: Sono un Amalecita."
+      old_georgian: "და მრქუა: ვინ ხარ შენ? და ვარქუ მას, ვითარმედ ამალეკ ვარ მე!"
+      portuguese: "Ao que ele me perguntou: Quem és tu? E eu lhe respondi: Sou amalequita."
+      polish: "Zapytał mnie: ”Kim jesteś?” Odrzekłem: ”Jestem Amalekitą”."
+      turkish: "«Saul, `Sen kimsin?' diye sordu.\r«`Ben bir Amalekli'yim' diye
+        yanıtladım."
+      nrt: "Он спросил меня: «Кто ты?» – «Амаликитянин», – ответил я."
+      Macarius: "Он сказал мне: кто ты? я сказал ему: я Амаликитянин."
+      serbian: "А он ми рече: Ко си? А ја му рекох: Амалик сам."
+      bulgarian: "И аз казах: ето ме. Той ме попита: кой си ти? Аз му отговорих: аз
+        съм амаликитец."
+      deutsch: "Und er sprach zu mir: Wer bist du? Ich sprach zu ihm: Ich bin ein
+        Amalekiter."
+      ukr3: "Питає він: Хто ти? Відказую: Амаликій."
+      bel_syomukha: "І я сказаў: вось я. Ён сказаў мне: хто ты? І я сказаў яму: я -
+        Амалікіцянін."
+      lev-khv: "Он спросил меня: кто ты? И я ответил ему: я Амалекитянин."
+      czech: "Zeptal se: ‚Kdo jsi?' Odvetil jsem mu: ‚Jsem Amalekovec.'"
+      spanish: "Me dijo: << ¿Quién eres tú?>> Yo le respondí: <<Soy un amalecita>>."
+      greek-lxx: καὶ εἶπέν μοι τίς εἶ σύ καὶ εἶπα Αμαληκίτης ἐγώ εἰμι
+      st_text: "И я сказал: вот я. Он сказал мне: кто ты? И я сказал ему: я -
+        Амаликитянин."
+  - id: 3815
+    number: 9
+    bookId: 10
+    text: "Тогда он сказал мне: подойди ко мне и убей меня, ибо тоска смертная
+      объяла меня, душа моя все еще во мне."
+    chapter: 1
+    chapterId: 268
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и рече ми: прииди убо на мя и убий мя, яко объят мя тма лютая, яко еще
+        душа моя во мне:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 рече1 ми: пріиди2 ў2бо на мS и3 ўбjй мS, ћкw њб8sтъ мS тмA лю1таz,
+        ћкw є3ще2 душA моS во мнЁ:"
+      sovr_rbo: "Он сказал мне: „Подойди ближе и добей меня. У меня уже нет сил, но я
+        все еще жив”."
+      latin: "Et locutus est mihi: Sta super me, et interfice me: quoniam tenent me
+        angustiae, et adhuc tota anima mea in me est."
+      ukr: "І сказав він до мене: Стань надо мною, та й убий мене, бо схопив мене
+        корч, а вся душа ще в мені!..."
+      nkjv: "He said to me again, 'Please stand over me and kill me, for anguish has
+        come upon me, but my life still remains in me.' "
+      desnitsky: "Тогда он велел мне: “Поднимись надо мной и убей меня: изнемогаю я,
+        но жива еще моя душа”."
+      mt: ‫    וַיֹּאמֶר אֵלַי עֲמָד־נָא עָלַי וּמֹתְתֵנִי כִּי אֲחָזַנִי הַשָּׁבָץ
+        כִּי־כָל־עוֹד נַפְשִׁי בִּי׃ ‬
+      romana: 'Atunci el mi-a zis: "Apropie-te de mine si ma ucide, ca durerea mortii
+        m-a cuprins si sufletul meu este inca tot in mine!"'
+      francais: "Et il dit: Approche donc, et donne-moi la mort; car je suis pris de
+        vertige, quoique encore plein de vie."
+      italian: "Mi disse: Gettati contro di me e uccidimi: io sento le vertigini, ma
+        la vita è ancora tutta in me."
+      old_georgian: "და მრქუა: მოვედ ადრე და მომკალ მე, რამეთუ ჰარმური ბნელისა დახვეულ
+        არს თუალთა ჩემთა და სული ჩემი იარების გვამსა ჩემსა!"
+      portuguese: "Então ele me disse: Chega-te a mim, e mata-me, porque uma vertigem
+        se apoderou de mim, e toda a minha vida\r
+
+        está ainda em mim."
+      polish: "Rzekł mi: ”Podejdź, proszę cię, i dobij mię, gdyż czuję zawroty głowy,
+        chociaż\r
+
+        jeszcze jest we mnie całe życie”."
+      turkish: «Saul, `Ne olur üstüme var ve beni öldür!' dedi, `Çünkü çektiğim
+        acılardan kurtulmak istiyorum.'
+      nrt: "Тогда он сказал мне: «Подойди и убей меня! У меня агония, но я еще жив»."
+      Macarius: "И сказал он мне: подойди ко мне, и убей меня: ибо на меня напало
+        смертное мучение, и душа моя все еще во мне."
+      serbian: "А он ми рече: Приступи к мени и убиј ме; јер ме обузеше муке, а још је
+        сасвијем душа у мени."
+      bulgarian: "Тогава той ми рече: дойди при мене и ме убий, защото смъртна тъга ме
+        е обзела, но душата ми е все още в мене."
+      deutsch: "Und er sprach zu mir: Tritt zu mir und töte mich; denn ich bin
+        bedrängt umher, und mein Leben ist noch ganz in mir."
+      ukr3: "І просить мене: Приступи до мене та завдай менї смерть, бо трівога
+        смертня обняла мене, а душа ще вся в менї."
+      bel_syomukha: "Тады ён сказаў мне: падыдзі да мяне і забі мяне, бо скруха
+        сьмяротная агарнула мяне, душа мая ўсё яшчэ ўва мне."
+      lev-khv: "Затем он сказал мне: напади, пожалуйста, на меня и умертви меня; ибо
+        смертельныя страдания постигли меня, а душа все еще во мне."
+      czech: "Vyzval me: ‚Postav se ke mne a usmrt me, nebot me svira smrtelna krec,
+        ale jeste je ve mne zivot.'"
+      spanish: "Y él me dijo: <<Acércate a mí y mátame, porque me siento presa de un
+        espasmo, mientras todavía tengo en mí toda la vida>>."
+      st_text: "Тогда он сказал мне: подойди ко мне и убей меня, ибо тоска смертная
+        объяла меня, душа моя все еще во мне."
+      new_text: ""
+      tex_rec: ""
+      peshitta: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      ukr2: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+      greek-lxx: καὶ εἶπεν πρός με στῆθι δὴ ἐπάνω μου καὶ θανάτωσόν με ὅτι κατέσχεν με
+        σκότος δεινόν ὅτι πᾶσα ἡ ψυχή μου ἐν ἐμοί
+  - id: 3816
+    number: 10
+    bookId: 10
+    text: И я подошел к нему и убил его, ибо знал, что он не будет жив после своего
+      падения; и взял я [царский] венец, бывший на голове его, и запястье,
+      бывшее на руке его, и принес их к господину моему сюда.
+    chapter: 1
+    chapterId: 268
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и стах над ним, и убих его: ведех бо, яко не будет жив по падении своем:
+        и взяв венец царский, иже бе на главе его, и нарамницу, яже бе на плещу
+        его, и принесох сия к господину моему семо."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 стaхъ над8 ни1мъ, и3 ўби1хъ є3го2: вёдэхъ бо, ћкw не бyдетъ жи1въ
+        по паде1ніи свое1мъ: и3 взsвъ вэне1цъ цaрскій, и4же бЁ на главЁ є3гw2,
+        и3 нарaмницу, ћже бЁ на плєщY є3гw2, и3 принесо1хъ сі‰ къ господи1ну
+        моемY сёмw."
+      sovr_rbo: Я подошел и добил его; было ясно, что после таких ранений он уже не
+        выживет. Я снял венец с его головы, а с руки — браслет, и принес их
+        сюда, моему господину».
+      latin: "Stansque super eum, occidi illum: sciebam enim quod vivere non poterat
+        post ruinam: et tuli diadema quod erat in capite ejus, et armillam de
+        brachio illius, et attuli ad te dominum meum huc."
+      ukr: І став я при ньому, та й убив його, бо я знав, що він не буде живий по
+        упадку своїм. І взяв я вінця, що на голові його, та наплечника, що на
+        плечі його, і приніс сюди до пана свого.
+      nkjv: So I stood over him and killed him, because I was sure that he could not
+        live after he had fallen. And I took the crown that was on his head and
+        the bracelet that was on his arm, and have brought them here to my
+        lord."
+      desnitsky: Тогда я поднялся над ним и убил его, и точно знаю, что пал он
+        замертво. Взял я венец, что был у него на голове, и браслет, что был на
+        руке, и принес сюда, тебе, мой ГОСПОДИН».
+      mt: ‫    וָאֶעֱמֹד עָלָיו וַאֲמֹתְתֵהוּ כִּי יָדַעְתִּי כִּי לֹא יִחְיֶה אַחֲרֵי
+        נִפְלוֹ וָאֶקַּח הַנֵּזֶר אֲשֶׁר עַל־רֹאשׁוֹ וְאֶצְעָדָה אֲשֶׁר
+        עַל־זְרֹעוֹ וָאֲבִיאֵם אֶל־אֲדֹנִי הֵנָּה׃ ‬
+      romana: Si eu m-am apropiat si l-am ucis, caci stiam ca n-are sa mai traiasca
+        dupa caderea sa. Apoi am luat cununa regeasca de pe capul lui, bratara
+        ce era la mana lui si le-am adus aici la stapanul meu".
+      francais: Je m'approchai de lui, et je lui donnai la mort, sachant bien qu'il ne
+        survivrait pas à sa défaite. J'ai enlevé le diadème qui était sur sa
+        tête et le bracelet qu'il avait au bras, et je les apporte ici à mon
+        seigneur.
+      italian: Io gli fui sopra e lo uccisi, perché capivo che non sarebbe
+        sopravvissuto alla sua caduta. Poi presi il diadema che era sul suo capo
+        e la catenella che aveva al braccio e li ho portati qui al mio signore".
+      old_georgian: და მივედ და მოვკალ იგი, რამეთუ უწყოდე, ვითარმედ არა განრინებად იყო
+        იგი. და შემდგომად დაცემისა მისისა აღვჴადე თავსა მისსა შარავანდი და
+        სავლტე მკლავსა მისსა, და მოგართუ უფალსა ჩემსა.
+      portuguese: "Cheguei-me, pois, a ele, e o matei, porque bem sabia eu que ele não
+        viveria depois de ter caído; e tomei a coroa\rque ele tinha na cabeça, e
+        o bracelete que trazia no braço, e os trouxe aqui a meu senhor."
+      polish: "Podszedłem więc i dobiłem go, bo wiedziałem, że nie będzie żył po
+        swoim\rupadku. Potem zabrałem jego diadem, który miał na głowie, i
+        naramiennik.\rPrzynoszę to memu panu”."
+      turkish: Bu yüzden varıp onu öldürdüm. Çünkü yere düştükten sonra
+        yaşayamayacağını biliyordum. Başındaki taçla kolundaki bileziği aldım ve
+        onları buraya, efendime getirdim.»
+      nrt: Я подошел и убил его, потому что знал, что после своего поражения он не
+        сможет жить. Я взял венец, который был у него на голове, и браслет с его
+        руки и принес их сюда, к моему господину.
+      Macarius: "Я подошел к нему и убил его: ибо знал, что он не будет жив, после
+        того как упал. И взял я диадиму, которая была на голове его, и запястье,
+        которое было на руке его, и принес их к господину моему сюда."
+      serbian: И приступих к њему и убих га, јер сам знао да неће остати жив пошто
+        паде; и узех вијенац царски који му бјеше на глави и гривну која му
+        бјеше на руци и, ево, донесох господару својему.
+      bulgarian: И аз се приближих до него и го убих, понеже знаех, че той не ще
+        остане жив подир падането си; и взех царския венец, който беше на
+        главата му, и гривната, която беше на ръката му, и ги донесох тук на
+        господаря си.
+      deutsch: Da trat ich zu ihm und tötete ihn; denn ich wußte wohl, daß er nicht
+        leben konnte nach seinem Fall; und nahm die Krone von seinem Haupt und
+        das Armgeschmeide von seinem Arm und habe es hergebracht zu dir, meinem
+        Herrn.
+      ukr3: І приступив я й завдав йому смерть, бо я знав, що він не переживе свого
+        впаду. Тодї зняв я з голови в його царський вінець, і запинку з руки в
+        його та й принїс оце мойму панові.
+      bel_syomukha: І я падышоў да яго і забіў яго, бо ведаў, што ён ня будзе жывы
+        пасьля свайго падзеньня; і ўзяў я вянок, які быў на галаве ў яго, і
+        запясьце, якое было на руцэ ў яго, і прынёс іх гаспадару майму сюды.
+      lev-khv: Я возстал на него и умертвил его; ибо я знал, что он не будет жив после
+        падения своего. И взял я венец, бывший на голове его, и запястье, бывшее
+        на руке его, и принес их сюда к государю моему.
+      czech: Postavil jsem se k nemu a usmrtil jsem ho. Poznal jsem, ze po svem padu
+        stejne nebude ziv. Snal jsem mu z hlavy kralovskou celenku a z paze
+        naramek a prinesl jsem je sem svemu panu."
+      spanish: Yo me acerqué a él y le maté, pues sabía muy bien que no sobreviviría a
+        su derrota; y tomando la diadema que llevaba en la cabeza y el brazalete
+        que tenía en su brazo, se los he traído aquí a mi señor>>.
+      greek-lxx: καὶ ἐπέστην ἐπ᾿ αὐτὸν καὶ ἐθανάτωσα αὐτόν ὅτι ᾔδειν ὅτι οὐ ζήσεται
+        μετὰ τὸ πεσεῖν αὐτόν καὶ ἔλαβον τὸ βασίλειον τὸ ἐπὶ τὴν κεφαλὴν αὐτοῦ
+        καὶ τὸν χλιδῶνα τὸν ἐπὶ τοῦ βραχίονος αὐτοῦ καὶ ἐνήνοχα αὐτὰ τῷ κυρίῳ
+        μου ὧδε
+      st_text: И я подошел к нему и убил его, ибо знал, что он не будет жив после
+        своего падения; и взял я [царский] венец, бывший на голове его, и
+        запястье, бывшее на руке его, и принес их к господину моему сюда.
+  - id: 3817
+    number: 11
+    bookId: 10
+    text: Тогда схватил Давид одежды свои и разодрал их, также и все люди, бывшие с
+      ним, [разодрали одежды свои,]
+    chapter: 1
+    chapterId: 268
+    parallels:
+      - verseId: 702
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 4
+        short: 1 Цар:4:12
+      - verseId: 4373
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 3
+        short: 2 Цар:3:31
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И емься давид за ризы своя, и раздра я, и вси мужие иже с ним раздраша
+        ризы своя,
+      averincev: ""
+      ungerov: ""
+      csya_old: И# є4мьсz давjдъ за ри6зы сво‰, и3 раздрA |, и3 вси2 мyжіе и5же съ
+        ни1мъ раздрaша ри6зы сво‰,
+      sovr_rbo: Давид разорвал на себе одежду, так же поступили и все, кто был рядом.
+      latin: Apprehendens autem David vestimenta sua scidit, omnesque viri, qui erant
+        cum eo,
+      ukr: І схопився Давид за одежі свої, та й роздер їх, і теж усі люди, що були з
+        ним.
+      nkjv: Therefore David took hold of his own clothes and tore them, and so did all
+        the men who were with him.
+      desnitsky: Давид схватил и разодрал свои одежды, а равно и все, кто был с ним,
+      mt: ‫    וַיַּחֲזֵק דָּוִד *בבגדו **בִּבְגָדָיו וַיִּקְרָעֵם וְגַם
+        כָּל־הָאֲנָשִׁים אֲשֶׁר אִתּוֹ׃ ‬
+      romana: Atunci a apucat David hainele sale si le-a rupt; asemenea si oamenii cei
+        ce erau cu el si-au rupt hainele lor,
+      francais: David saisit ses vêtements et les déchira, et tous les hommes qui
+        étaient auprès de lui firent de même.
+      italian: Davide afferrò le sue vesti e le stracciò; così fecero tutti gli uomini
+        che erano con lui.
+      old_georgian: და ვითარცა ესმა ესე დავითს, ჴელი მიყო საყელოსა და მოიღო სამოსელი
+        თჳსი, ეგრეთვე ყოველმან ერმან, რომელნი დგეს წინაშე მისსა, ტიროდეს.
+      portuguese: Então pegou Davi nas suas vestes e as rasgou; e assim fizeram também
+        todos os homens que estavam com ele;
+      polish: "Dawid schwyciwszy swe szaty, rozdarł je. Tak też uczynili wszyscy
+        mężowie,\rktórzy z nim byli."
+      turkish: Bunun üzerine Davut'la yanındakiler giysilerini yırttılar.
+      nrt: Тогда Давид и все, кто был с ним, разорвали на себе одежду.
+      Macarius: Давид взял одежду свою и разодрал ее, также и все бывшие с ним.
+      serbian: Тада Давид зграби хаљине на себи и раздрије их; тако и сви људи који
+        бијаху с њим.
+      bulgarian: Тогава Давид хвана дрехите си и ги раздра, така също и всички люде,
+        които бяха с него, (раздраха дрехите си,)
+      deutsch: Da faßte David seine Kleider und zerriß sie, und alle Männer, die bei
+        ihm waren,
+      ukr3: Тодї вхопив Давид одїж свою та й роздер її, а так само й його прибічники.
+      bel_syomukha: Тады схапіў Давід вопратку сваю і падраў яе, таксама і ўсе людзі,
+        якія былі зь ім,
+      lev-khv: Тогда Давид, схватив одежды на себе, разодрал их, точно так же и все
+        бывшие с ним люди.
+      czech: David uchopil svuj sat a roztrhl jej, stejne tak i vsichni muzi, kteri
+        byli s nim.
+      spanish: David, agarrando sus vestiduras, las rasgó, y también todos los hombres
+        que con él estaban.
+      greek-lxx: καὶ ἐκράτησεν Δαυιδ τῶν ἱματίων αὐτοῦ καὶ διέρρηξεν αὐτά καὶ πάντες
+        οἱ ἄνδρες οἱ μετ᾿ αὐτοῦ διέρρηξαν τὰ ἱμάτια αὐτῶν
+      st_text: Тогда схватил Давид одежды свои и разодрал их, также и все люди, бывшие
+        с ним, [разодрали одежды свои,]
+  - id: 3818
+    number: 12
+    bookId: 10
+    text: и рыдали и плакали, и постились до вечера о Сауле и о сыне его Ионафане, и
+      о народе Господнем и о доме Израилевом, что пали они от меча.
+    chapter: 1
+    chapterId: 268
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и рыдаша и плакашася, и постишася до вечера о сауле, и о ионафане сыне
+        его, и о людех иудиных и о доме израилеве, яко избиени быша мечем.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 рыдaша и3 плaкашасz, и3 пости1шасz до ве1чера њ саyлэ, и3 њ
+        їwнаfaнэ сы1нэ є3гw2, и3 њ лю1дехъ їyдиныхъ и3 њ до1мэ ї}левэ, ћкw
+        и3збіе1ни бы1ша мече1мъ.
+      sovr_rbo: До вечера, в трауре, они постились и оплакивали Саула, Ионафана,
+        войско Господа — всех израильтян, павших в битве.
+      latin: et planxerunt, et fleverunt, et jejunaverunt usque ad vesperam super
+        Saul, et super Jonathan filium ejus, et super populum Domini, et super
+        domum Israel, eo quod corruissent gladio.
+      ukr: І голосили вони й плакали, та постили аж до вечора за Саулом та за сином
+        його Йонатаном, і за народом Господнім та за Ізраїлевим домом, що
+        попадали від меча.
+      nkjv: And they mourned and wept and fasted until evening for Saul and for
+        Jonathan his son, for the people of the Lord and for the house of
+        Israel, because they had fallen by the sword.
+      desnitsky: плакали они, рыдали и постились до вечера от скорби о Сауле и сына
+        его Йонатане, и обо всем народе ГОСПОДНЕМ, об израильтянах, павших от
+        меча.
+      mt: ‫    וַיִּסְפְּדוּ וַיִּבְכּוּ וַיָּצֻמוּ עַד־הָעָרֶב עַל־שָׁאוּל
+        וְעַל־יְהוֹנָתָן בְּנוֹ וְעַל־עַם יְהוָה וְעַל־בֵּית יִשְׂרָאֵל כִּי
+        נָפְלוּ בֶּחָרֶב׃ ס ‬
+      romana: Si au plans si s-au tanguit si au postit pana seara dupa Saul si dupa
+        fiul sau Ionatan, dupa poporul Domnului si dupa casa lui Israel, care
+        cazusera de sabie.
+      francais: Ils furent dans le deuil, pleurèrent et jeûnèrent jusqu'au soir, à
+        cause de Saül, de Jonathan, son fils, du peuple de l'Éternel, et de la
+        maison d'Israël, parce qu'ils étaient tombés par l'épée.
+      italian: Essi alzarono gemiti e pianti e digiunarono fino a sera per Saul e
+        Giònata suo figlio, per il popolo del Signore e per la casa d'Israele,
+        perché erano caduti colpiti di spada.
+      old_georgian: და იტყებდეს და იმარხვიდეს მწუხრამდის საულისთჳს და იონათანისთჳს,
+        ძისა მისისა, და ერისა მისთჳს იუდასასა და სახლისა მისთჳს ისრაჱლისა,
+        რამეთუ დაეცნეს მახჳლითა.
+      portuguese: "e prantearam, e choraram, e jejuaram até a tarde por Saul, e por
+        Jônatas, seu filho, e pelo povo do Senhor, e pela\rcasa de Israel,
+        porque tinham caída à espada."
+      polish: "Potem lamentowali i płakali, i pościli aż do wieczora, z tego powodu,
+        że padli\rod miecza Saul i syn jego Jonatan, i z powodu ludu Pańskiego i
+        domu Izraela."
+      turkish: Kılıçtan geçirilen Saul, oğlu Yonatan ve RAB'bin halkı olan İsrailliler
+        için akşama dek yas tutup ağladılar, oruç tuttular.
+      nrt: Они рыдали, плакали и постились до вечера о Сауле и о его сыне Ионафане, и
+        о войске Господа, и о доме Израиля, потому что все они пали от меча.
+      Macarius: И рыдали, и плакали, и постились до вечера о Сауле и о Ионафане, сыне
+        его, и о народе Господнем, и о доме Израилевом, что они пали от меча.
+      serbian: И ридаше и плакаше, и постише до вечера за Саулом и за Јонатаном, сином
+        његовијем, и за народом Господњим и за домом Израиљевијем што изгибоше
+        од мача.
+      bulgarian: и ридаха и плакаха, и постиха до вечерта за Саула и за сина му
+        Ионатана, и за народа Господен, и за дома Израилев, задето бяха загинали
+        от меч.
+      deutsch: und trugen Leid und weinten und fasteten bis an den Abend über Saul und
+        Jonathan, seinen Sohn, und über das Volk des Herrn und über das Haus
+        Israel, daß sie durchs Schwert gefallen waren.
+      ukr3: І сумували плачучи й постили до вечора по Саулові і по його синові
+        Йонатанові і по людові Ізрайлевому й по домові Ізрайлевому, бо вони
+        полягли від меча.
+      bel_syomukha: і галасілі і плакалі, і пасьціліся да вечара за Саўла і за сына
+        ягонага Ёнатана, і за народ Гасподні і за дом Ізраілеў, што загінулі яны
+        ад меча.
+      lev-khv: И сетовали, и плакали, и постились до вечера, как о Сауле и сыне его
+        Ионафане, так и о народе Господнем, и о доме Израилевом, что они пали от
+        меча.
+      czech: Narikali, plakali a postili se az do vecera pro Saula a pro jeho syna
+        Jonatana i pro Hospodinuv lid, pro dum izraelsky, ze padli mecem.
+      spanish: Hicieron duelo, llorando y ayunando hasta la tarde, por Saúl, por su
+        hijo Jonatán y por el pueblo de Yavé, que habían caído a la espada.
+      greek-lxx: καὶ ἐκόψαντο καὶ ἔκλαυσαν καὶ ἐνήστευσαν ἕως δείλης ἐπὶ Σαουλ καὶ ἐπὶ
+        Ιωναθαν τὸν υἱὸν αὐτοῦ καὶ ἐπὶ τὸν λαὸν Ιουδα καὶ ἐπὶ τὸν οἶκον Ισραηλ
+        ὅτι ἐπλήγησαν ἐν ῥομφαίᾳ
+      st_text: и рыдали и плакали, и постились до вечера о Сауле и о сыне его
+        Ионафане, и о народе Господнем и о доме Израилевом, что пали они от
+        меча.
+  - id: 3819
+    number: 13
+    bookId: 10
+    text: "И сказал Давид отроку, рассказывавшему ему: откуда ты? И сказал он: я -
+      сын пришельца Амаликитянина."
+    chapter: 1
+    chapterId: 268
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И рече давид отроку возвестившему ему: откуду ты еси? И рече: сын мужа
+        пришельца амаликитина есмь аз."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 давjдъ џтроку возвэсти1вшему є3мY: tкyду ты2 є3си2; И#
+        рече2: сы1нъ мyжа прише1льца ґмаликjтина є4смь ѓзъ."
+      sovr_rbo: "Давид спросил человека, принесшего весть: «Откуда ты?» — «Я сын
+        переселенца-амалекитянина», — ответил тот."
+      latin: "Dixitque David ad juvenem qui nuntiaverat ei: Unde es tu? Qui respondit:
+        Filius hominis advenae Amalecitae ego sum."
+      ukr: "І сказав Давид юнакові, що розповідав йому: Звідки ти? А той відказав: Я
+        син одного приходька, амаликитянина."
+      nkjv: Then David said to the young man who told him, "Where are you from?" And
+        he answered, "I am the son of an alien, an Amalekite."
+      desnitsky: "А у того, кто принес ему эту весть, Давид спросил: «Какого ты
+        племени?» Тот ответил: «Я – сын амалекитянина, жившего среди вас»."
+      mt: ‫    וַיֹּאמֶר דָּוִד אֶל־הַנַּעַר הַמַּגִּיד לוֹ אֵי מִזֶּה אָתָּה
+        וַיֹּאמֶר בֶּן־אִישׁ גֵּר עֲמָלֵקִי אָנֹכִי׃ ‬
+      romana: 'Apoi David a zis catre omul care-i spusese acestea: "De unde esti tu?"
+        "Eu, a zis acela, sunt fiul unui strain amalecit".'
+      francais: "David dit au jeune homme qui lui avait apporté ces nouvelles: D'où
+        es-tu? Et il répondit: Je suis le fils d'un étranger, d'un Amalécite."
+      italian: 'Davide chiese poi al giovane che aveva portato la notizia: "Di dove
+        sei tu?". Rispose: "Sono figlio di un forestiero amalecita".'
+      old_georgian: "და ჰრქუა დავით კაცსა მას, რომელი-იგი უთხრობდა სიტყუასა მას, ვინ
+        ხარო შენ? და მან ჰრქუა: შვილი ვარ მე კაცისა ერთისა ამალეკელის, მწირად
+        შემოსრულისა."
+      portuguese: "Perguntou então Davi ao mancebo que lhe trouxera a nova: Donde és
+        tu? Respondeu ele: Sou filho de um\rperegrino amalequita."
+      polish: "Odezwał się Dawid do młodzieńca, który mu przyniósł te wieści: ”Skąd
+        ty\rjesteś?” Odparł: ”Jestem synem osadnika amalekickiego”."
+      turkish: "Davut, kendisine haber getiren genç adama, «Nerelisin?» diye
+        sordu.\rAdam, «Ben yabancıyım, bir Amalekli'nin oğluyum» dedi."
+      nrt: "Давид сказал юноше, который принес ему известие: – Откуда ты? – Я сын
+        чужеземца – амаликитянина, – ответил он."
+      Macarius: "И сказал Давид отроку, известившему его: откуда ты? Он сказал: я сын
+        одного пришельца Амаликитянина."
+      serbian: "И рече Давид момку који му донесе глас: Одакле си? А он рече: Ја сам
+        син једнога дошљака Амалика."
+      bulgarian: "И Давид попита момъка, който му разказваше: ти отде си? И той му
+        отговори: аз съм син на един пришълец амаликитец."
+      deutsch: "Und David sprach zu dem Jüngling, der es ihm ansagte: Wo bist du her?
+        Er sprach: Ich bin eines Fremdlings, eines Amalekiters, Sohn."
+      ukr3: "І питає Давид у молодика, що принїс йому звістку: Звідки ти? А той
+        відказав: Я син Амаликія-заволоки."
+      bel_syomukha: "І сказаў Давід хлопчыку, які расказваў яму: адкуль ты? і сказаў
+        той: я - сын прыхадня Амалікіцяніна."
+      lev-khv: "И спросил Давид молодаго человека, разсказывавшаго ему: откуда ты? Тот
+        ответил: я сын пришельца, Амалекитянин."
+      czech: 'David se zeptal mladence, ktery mu to oznamil: "Odkud jsi?" On rekl:
+        "Jsem syn amalekovskeho bezdomovce."'
+      spanish: "David dijo al joven que le había traído las noticias: << ¿De dónde
+        eres tú?>> El respondió: <<Soy hijo de un extranjero, de un
+        amalecita>>."
+      greek-lxx: καὶ εἶπεν Δαυιδ τῷ παιδαρίῳ τῷ ἀπαγγέλλοντι αὐτῷ πόθεν εἶ σύ καὶ
+        εἶπεν υἱὸς ἀνδρὸς παροίκου Αμαληκίτου ἐγώ εἰμι
+      st_text: "И сказал Давид отроку, рассказывавшему ему: откуда ты? И сказал он: я
+        - сын пришельца Амаликитянина."
+  - id: 3820
+    number: 14
+    bookId: 10
+    text: "Тогда Давид сказал ему: как не побоялся ты поднять руку, чтобы убить
+      помазанника Господня?"
+    chapter: 1
+    chapterId: 268
+    parallels:
+      - verseId: 29
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 10
+        short: 1 Цар:10:1
+      - verseId: 492
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 24
+        short: 1 Цар:24:7
+      - verseId: 561
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 26
+        short: 1 Цар:26:9
+      - verseId: 30380
+        bookId: 22
+        bookCode: psaltir
+        chapter: 104
+        short: Пс:104:15
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И рече ему давид: како не убоялся еси воздвигнути руку твою погубити
+        христа Господня?"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 є3мY давjдъ: кaкw не ўбоsлсz є3си2 воздви1гнути рyку твою2
+        погуби1ти хрістA гDнz;"
+      sovr_rbo: "Тогда Давид сказал: «Как же ты не побоялся поднять руку на
+        помазанника Господа?!»"
+      latin: "Et ait ad eum David: Quare non timuisti mittere manum tuam ut occideres
+        christum Domini?"
+      ukr: "І сказав йому Давид: Як ти не побоявся простягти руку свою, щоб убити
+        Господнього помазанця?"
+      nkjv: "So David said to him, \"How was it you were not afraid to put forth your
+        hand to destroy the Lord's anointed?\" "
+      desnitsky: "Давид сказал ему: «Да как же ты посмел поднять руку, чтобы погубить
+        помазанника ГОСПОДНЕГО?!»"
+      mt: ‫    וַיֹּאמֶר אֵלָיו דָּוִד אֵיךְ לֹא יָרֵאתָ לִשְׁלֹחַ יָדְךָ לְשַׁחֵת
+        אֶת־מְשִׁיחַ יְהוָה׃ ‬
+      romana: 'Si David a zis: "Cum nu te-ai temut tu sa-li ridici mana, ca sa ucizi
+        pe unsul Domnului?"'
+      francais: "David lui dit: Comment n'as-tu pas craint de porter la main sur
+        l'oint de l'Éternel et de lui donner la mort?"
+      italian: 'Davide gli disse allora: "Come non hai provato timore nello stendere
+        la mano per uccidere il consacrato del Signore?".'
+      old_georgian: "მაშინ ჰრქუა მას დავით: და შენ ვითარ იკადრე მიყოფად ჴელი შენი და
+        მოკლვად ცხებული უფლისა?"
+      portuguese: "Davi ainda lhe perguntou: Como não temeste estender a mão para
+        matares o ungido do Senhor?"
+      polish: "Powiedział do niego Dawid: ”Jak to? Nie bałeś się podnieść ręki, by
+        zabić\rpomazańca Pańskiego?”"
+      turkish: Davut, «RAB'bin meshettiği kişiye el kaldırıp onu yok etmekten
+        korkmadın mı?» diye sordu.
+      nrt: "Давид сказал ему: – Как же ты не побоялся поднять руку, чтобы погубить
+        Господнего помазанника?"
+      Macarius: "И сказал ему Давид: как ты не убоялся поднять руку свою на убиение
+        помазанника Господня?"
+      serbian: "Рече му Давид: Како те није било страх подићи руку своју и убити
+        помазаника Господњега?"
+      bulgarian: "Тогава Давид му каза: как се не побоя да дигнеш ръка, за да убиеш
+        помазаника Господен?"
+      deutsch: "David sprach zu ihm: Wie, daß du dich nicht gefürchtet hast, deine
+        Hand zu legen an den Gesalbten des Herrn, ihn zu verderben!"
+      ukr3: "Давид же питає: Як же ти не боявсь простягти руку, щоб убити помазанника
+        Господнього?"
+      bel_syomukha: "Тады Давід сказаў яму: як не пабаяўся ты падняць руку, каб забіць
+        памазанца Гасподняга?"
+      lev-khv: "Тогда сказал ему Давид: как же ты не устрашился поднять руку свою на
+        погибель помазанника Господня?"
+      czech: 'David se na nej rozkrikl: "Jak to, ze ses nebal vztahnout ruku a zahubit
+        Hospodinova pomazaneho?"'
+      spanish: "Y David le dijo: << ¿Y cómo te atreviste a tender tu mano para dar
+        muerte al ungido de Yavé?>>"
+      greek-lxx: καὶ εἶπεν αὐτῷ Δαυιδ πῶς οὐκ ἐφοβήθης ἐπενεγκεῖν χεῖρά σου διαφθεῖραι
+        τὸν χριστὸν Κυρίου
+      st_text: "Тогда Давид сказал ему: как не побоялся ты поднять руку, чтобы убить
+        помазанника Господня?"
+  - id: 3821
+    number: 15
+    bookId: 10
+    text: "И призвал Давид одного из отроков и сказал ему: подойди, убей его."
+    chapter: 1
+    chapterId: 268
+    parallels:
+      - verseId: 4391
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 4
+        short: 2 Цар:4:10
+      - verseId: 4393
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 4
+        short: 2 Цар:4:12
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И призва давид единаго от отрок своих и рече: иди, убий его. И уби его, и
+        умре."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# призвA давjдъ є3ди1наго t џтрwкъ свои1хъ и3 рече2: и3ди2, ўбjй
+        є3го2. И# ўби2 є3го2, и3 ќмре."
+      sovr_rbo: "Давид подозвал одного из своих солдат и приказал: «Пойди и убей его!»
+        И тот заколол его мечом."
+      latin: "Vocansque David unum de pueris suis, ait: Accedens irrue in eum. Qui
+        percussit illum, et mortuus est."
+      ukr: "І покликав Давид одного з слуг своїх і сказав: Підійди, убий його! І той
+        ударив його, і він помер."
+      nkjv: Then David called one of the young men and said, "Go near, and execute
+        him!" And he struck him so that he died.
+      desnitsky: "И Давид приказал одному из своих отроков: «Давай, рази его!» Тот
+        нанес удар и убил амалекитянина."
+      mt: ‫    וַיִּקְרָא דָוִד לְאַחַד מֵהַנְּעָרִים וַיֹּאמֶר גַּשׁ פְּגַע־בּוֹ
+        וַיַּכֵּהוּ וַיָּמֹת׃ ‬
+      romana: 'Apoi chemand David pe unul din slujitori, i-a zis: "Vino de-l ucide!"
+        si l-a ucis.'
+      francais: "Et David appela l'un de ses gens, et dit: Approche, et tue-le! Cet
+        homme frappa l'Amalécite, qui mourut."
+      italian: 'Davide chiamò uno dei suoi giovani e gli disse: "Accostati e
+        ammazzalo". Egli lo colpì subito e quegli morì.'
+      old_georgian: "და მოუწოდა დავით კაცსა ერთსა და ჰრქუა: აწვე მოაკუდინე ეგე! და
+        მივიდა სწრაფით, სცა და მოკლა იგი."
+      portuguese: "Então Davi, chamando um dos mancebos, disse-lhe: chega-te, e
+        lança-te sobre ele. E o mancebo o feriu, de sorte\rque morreu."
+      polish: "Wezwał więc Dawid jednego z młodzieńców i dał rozkaz: ”Podejdź i
+        przebij\rgo!” Ten zadał mu cios taki, że umarł."
+      turkish: Sonra adamlarından birini çağırıp, «Git, öldür onu!» diye buyurdu.
+        Böylece adam Amalekli'yi vurup öldürdü.
+      nrt: "Давид позвал одного из своих людей и сказал ему: – Подойди и убей его! Тот
+        убил его, и он умер."
+      Macarius: "И позвал Давид одного из отроков, и сказал: пойди, порази его; он
+        поразил его, и сей умер."
+      serbian: "И дозва Давид једнога између момака својих и рече: Ходи, погуби га. А
+        он га удари, те умрије."
+      bulgarian: "И Давид повика едного от момците и му каза: дойди и убий го. И оня
+        го уби, и той умря."
+      deutsch: "Und David sprach zu seiner Jünglinge einem: Herzu, und schlag ihn! Und
+        er schlug, ihn daß er starb."
+      ukr3: "І покликнув Давид на одного слугу й приказав йому: Вбий його! Той рубнув,
+        і вмер він."
+      bel_syomukha: "І паклікаў Давід аднаго хлопчыка і сказаў яму: падыдзі, забі яго.
+        І той забіў яго, і ён памёр."
+      lev-khv: "И подозвал Давид одного из служителей, и сказал: подойди и напади на
+        него. Тот поразил его и он умер."
+      czech: 'David zavolal jednoho z druziny a porucil: "Pristup a sraz ho!" A on ho
+        ubil k smrti.'
+      spanish: "Y llamando a uno de los suyos, le dijo: <<Échate sobre él y mátale>>.
+        El hombre hirió al amalecita, que murió."
+      greek-lxx: καὶ ἐκάλεσεν Δαυιδ ἓν τῶν παιδαρίων αὐτοῦ καὶ εἶπεν προσελθὼν
+        ἀπάντησον αὐτῷ καὶ ἐπάταξεν αὐτόν καὶ ἀπέθανεν
+      st_text: "И призвал Давид одного из отроков и сказал ему: подойди, убей его."
+  - id: 3822
+    number: 16
+    bookId: 10
+    text: "И <i>тот</i> убил его, и он умер. И сказал к нему Давид: кровь твоя на
+      голове твоей, ибо твои уста свидетельствовали на тебя, когда ты говорил: я
+      убил помазанника Господня."
+    chapter: 1
+    chapterId: 268
+    parallels:
+      - verseId: 35473
+        bookId: 7
+        bookCode: kniga-sudej-izrailevyh
+        chapter: 9
+        short: Суд:9:24
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И рече ему давид: кровь твоя на главе твоей, яко уста твоя на тя
+        возвещаша, глаголюще: яко аз убих христа Господня."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 є3мY давjдъ: кро1вь твоS на главЁ твое1й, ћкw ўстA тво‰ на
+        тS возвэщaша, глаго1люще: ћкw ѓзъ ўби1хъ хрістA гDнz."
+      sovr_rbo: "А Давид произнес: «Ты сам повинен в своей смерти, ведь ты сам
+        признался: „Я добил помазанника Господа”»."
+      latin: "Et ait ad eum David: Sanguis tuus super caput tuum: os enim tuum locutum
+        est adversum te, dicens: Ego interfeci christum Domini."
+      ukr: "І сказав до нього Давид: Кров твоя на голові твоїй, бо уста твої
+        посвідчили проти тебе, говорячи: Я вбив Господнього помазанця."
+      nkjv: "So David said to him, \"Your blood is on your own head, for your own
+        mouth has testified against you, saying, 'I have killed the Lord's
+        anointed.' \" "
+      desnitsky: "А Давид при том сказал ему: «Ты сам повинен в своей гибели, ты ведь
+        собственными устами засвидетельствовал, что убил помазанника
+        ГОСПОДНЕГО»."
+      mt: ‫    וַיֹּאמֶר אֵלָיו דָּוִד *דמיך **דָּמְךָ עַל־רֹאשֶׁךָ כִּי פִיךָ עָנָה
+        בְךָ לֵאמֹר אָנֹכִי מֹתַתִּי אֶת־מְשִׁיחַ יְהוָה׃ ס ‬
+      romana: 'Iar David a zis catre el: "Sangele tau sa fie pe capul tau, caci buzele
+        tale au marturisit impotriva ta, cand ai zis: Eu am ucis pe unsul
+        Domnului".'
+      francais: "Et David lui dit: Que ton sang retombe sur ta tête, car ta bouche a
+        déposé contre toi, puisque tu as dit: J'ai donné la mort à l'oint de
+        l'Éternel!"
+      italian: 'Davide gridò a lui: "Il tuo sangue ricada sul tuo capo. Attesta contro
+        di te la tua bocca che ha detto: Io ho ucciso il consacrato del
+        Signore!".'
+      old_georgian: "და ჰრქუა მას დავით: სისხლი შენი თავსა შენსა ზედა იყავნ! რამეთუ
+        პირი შენი თჳთ იტყოდა, ვითარმედ მე მოვკალ ცხებული უფლისა!"
+      portuguese: "Pois Davi lhe dissera: O teu sangue seja sobre a tua cabeça, porque
+        a tua própria boca testificou contra ti,\rdizendo: Eu matei o ungido do
+        Senhor."
+      polish: "Dawid zaś wołał w jego stronę: ”Odpowiedzialność za twoją krew
+        [zrzucam]\rna twoją głowę! Usta twe wydały o tobie świadectwo, gdy
+        mówiły: Ja zabiłem\rpomazańca Pańskiego”."
+      turkish: Davut Amalekli'ye, «Kanından sen kendin sorumlusun» demişti, «Çünkü
+        `RAB'bin meshettiği kişiyi ben öldürdüm' demekle kendine karşı ağzınla
+        tanıklıkta bulundun.»
+      nrt: "А Давид сказал амаликитянину: – Твоя кровь на твоей голове. Ты сам
+        свидетельствовал против себя, когда сказал: «Я убил Господнего
+        помазанника»."
+      Macarius: "И сказал ему Давид: кровь твоя на голове твоей! ибо уста твои
+        свидетельствовали на тебя, когда ты сказал: я убил помазанника
+        Господня."
+      serbian: "И рече му Давид: Крв твоја на твоју главу; јер твоја уста свједочише
+        на те говорећи: Ја сам убио помазаника Господњега."
+      bulgarian: "И Давид му каза: твоята кръв да бъде върху главата ти, понеже твоите
+        уста свидетелствуваха против тебе, когато казваше: убих помазаника
+        Господен."
+      deutsch: "Da sprach David zu ihm: Dein Blut sei über deinem Kopf; denn dein Mund
+        hat wider dich selbst geredet und gesprochen: Ich habe den Gesalbten des
+        Herrn getötet."
+      ukr3: "Давид же сказав: Кров твоя на голові твоїй; засуд на себе видав ти словом
+        своїм: Я завдав смерть помазанникові Господньому."
+      bel_syomukha: "І сказаў яму Давід: кроў твая на галаве тваёй, бо твае вусны
+        сьведчылі на цябе, калі ты казаў: я забіў памазанца Гасподняга."
+      lev-khv: "При этом сказал ему Давид: кровь твоя на голове твоей; так как твои
+        уста свидетельствуют против тебя, когда сказал ты: я умертвил
+        помазанника Господа."
+      czech: "David mu totiz rekl: \"Krev, kterou jsi prolil, at padne na tvou hlavu.
+        Tva usta te usvedcila, kdyz jsi rekl: ‚Ja jsem usmrtil Hospodinova
+        pomazaneho.'\""
+      spanish: "David dijo: <<Caiga tu sangre sobre tu cabeza. Tu misma boca ha
+        atestiguado contra ti al decir: Yo he dado la muerte al ungido de
+        Yavé>>."
+      greek-lxx: καὶ εἶπεν Δαυιδ πρὸς αὐτόν τὸ αἷμά σου ἐπὶ τὴν κεφαλήν σου ὅτι τὸ
+        στόμα σου ἀπεκρίθη κατὰ σοῦ λέγων ὅτι ἐγὼ ἐθανάτωσα τὸν χριστὸν Κυρίου
+      st_text: "И <i>тот</i> убил его, и он умер. И сказал к нему Давид: кровь твоя на
+        голове твоей, ибо твои уста свидетельствовали на тебя, когда ты говорил:
+        я убил помазанника Господня."
+  - id: 3823
+    number: 17
+    bookId: 10
+    text: И оплакал Давид Саула и сына его Ионафана сею плачевною песнью,
+    chapter: 1
+    chapterId: 268
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И плакася давид плачем сим о сауле и о ионафане сыне его,
+      averincev: ""
+      ungerov: ""
+      csya_old: И# плaкасz давjдъ плaчемъ си1мъ њ саyлэ и3 њ їwнаfaнэ сы1нэ є3гw2,
+      sovr_rbo: Давид сложил плач по Саулу и его сыну Ионафану
+      latin: Planxit autem David planctum hujuscemodi super Saul, et super Jonathan
+        filium ejus,
+      ukr: І Давид заголосив за Саулом та за його сином Йонатаном такою жалобною
+        піснею,
+      nkjv: Then David lamented with this lamentation over Saul and over Jonathan his
+        son,
+      desnitsky: Вот какую прощальную песнь сложил Давид о Сауле и сыне его Йонатане,
+      mt: ‫    וַיְקֹנֵן דָּוִד אֶת־הַקִּינָה הַזֹּאת עַל־שָׁאוּל וְעַל־יְהוֹנָתָן
+        בְּנוֹ׃ ‬
+      romana: Si a plans David pe Saul si pe Ionatan, fiul lui, prin aceasta cantare
+        de jale,
+      francais: Voici le cantique funèbre que David composa sur Saül et sur Jonathan,
+        son fils,
+      italian: Allora Davide intonò questo lamento su Saul e suo figlio Giònata
+      old_georgian: და გოდებდა და შეასხმიდა დავით საულს და იონათანს, ძესა მისსა.
+      portuguese: Lamentou Davi a Saul e a Jônatas, seu filho, com esta lamentação,
+      polish: Dawid zaśpiewał potem żałobną pieśń na cześć Saula i jego syna Jonatana,
+      turkish: Davut Saul'la oğlu Yonatan için ağıt yaktı.
+      nrt: Давид оплакивал Саула и его сына Ионафана этой горестной песней
+      Macarius: И воспел Давид плачевную песнь сию о Сауле и о Ионафане, сыне его.
+      serbian: Тада Давид нарица овако за Саулом и за Јонатаном, сином његовијем,
+      bulgarian: И Давид оплака Саула и сина му Ионатана с тая плачевна песен,
+      deutsch: Und David klagte diese Klage über Saul und Jonathan, seinen Sohn,
+      ukr3: І зложив Давид плачевню пісьню над Саулом і над його сином Йонатаном,
+      bel_syomukha: І аплакаў Давід Саўла і сына ягонага Ёнатана гэтаю плачнаю песьняю
+      lev-khv: "И оплакал Давид Саула и Ионафана, сына его, следующею плачевною песнию:"
+      czech: I zpival David nad Saulem a nad jeho synem Jonatanem tento zalozpev.
+      spanish: David cantó una elegía por Saúl y Jonatán, su hijo,
+      greek-lxx: καὶ ἐθρήνησεν Δαυιδ τὸν θρῆνον τοῦτον ἐπὶ Σαουλ καὶ ἐπὶ Ιωναθαν τὸν
+        υἱὸν αὐτοῦ
+      st_text: И оплакал Давид Саула и сына его Ионафана сею плачевною песнью,
+  - id: 3824
+    number: 18
+    bookId: 10
+    text: "и повелел научить сынов Иудиных луку, как написано в книге Праведного, и
+      сказал:"
+    chapter: 1
+    chapterId: 268
+    parallels:
+      - verseId: 11011
+        bookId: 1
+        bookCode: bytie
+        chapter: 49
+        short: Быт:49:8
+      - verseId: 26920
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 10
+        short: Нав:10:13
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и рече еже научити сыны иудины стрелянию. Се написано в книзе праведнаго.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 рече2 є4же научи1ти сы1ны ї{дины стрэлsнію. Се2 напи1сано въ кни1зэ
+        првdнагw.
+      sovr_rbo: "и приказал иудеям выучить этот плач; он записан в книге Достойного :"
+      latin: "(et praecepit ut docerent filios Juda arcum, sicut scriptum est in libro
+        justorum), et ait: Considera Israel, pro his qui mortui sunt, super
+        excelsa tua vulnerati,"
+      ukr: "та й сказав навчити Юдиних синів пісні про лука. Ось вона написана в книзі
+        Праведного:"
+      nkjv: "and he told them to teach the children of Judah the Song of the Bow;
+        indeed it is written in the Book of Jasher:"
+      desnitsky: "и научил сынов Иуды этой песне о лучниках (она записана в Книге
+        Праведного):"
+      mt: ‫    וַיֹּאמֶר לְלַמֵּד בְּנֵי־יְהוּדָה קָשֶׁת הִנֵּה כְתוּבָה עַל־סֵפֶר
+        הַיָּשָׁר׃ ‬
+      romana: "Pe care a poruncit sa o invete fiii lui Iuda, dupa cum este scrisa in
+        cartea dreptului, unde se zice:"
+      francais: "et qu'il ordonna d'enseigner aux enfants de Juda. C'est le cantique
+        de l'arc: il est écrit dans le livre du Juste."
+      italian: "e ordinò che fosse insegnato ai figli di Giuda. Ecco, si trova scritto
+        nel Libro del Giusto:"
+      old_georgian: "და უბრძანა სწავლად ძეთა ისრაჱლისათა და იუდასთა მშჳლდოსნობად. და
+        დაიწერა ესე წიგნთა წმიდათა:"
+      portuguese: "mandando que fosse ensinada aos filhos de Judá; eis que está
+        escrita no livro de Jasar:"
+      polish: "i polecił, aby się uczyli [jej] potomkowie Judy. Właśnie ona została
+        zapisana\rw ”Księdze Sprawiedliwego”."
+      turkish: "Sonra Yaşar Kitabı'nda yazılan Yay adındaki ağıtın Yahuda halkına
+        öğretilmesini buyurdu:"
+      nrt: "и приказал научить жителей Иудеи этой Песне Лука (она записана в «Книге
+        Праведного»):"
+      Macarius: И приказал сынам Иудиным выучить сию песнь о луке; вот, она написана в
+        Книге Праведного.
+      serbian: "И изговори да би се учили синови Јудини луку, и ето је написано у
+        Књизи истинитога:"
+      bulgarian: "като заповяда синовете Иудини да научат на лък, както е написано в
+        книгата на праведния, и каза:"
+      deutsch: "und befahl, man sollte die Kinder Juda das Bogenlied lehren. Siehe, es
+        steht geschrieben im Buch der Redlichen:"
+      ukr3: "(І повелїв навчати синів Юдиних лука, як се написано в книзї праведного)
+        і промовив:"
+      bel_syomukha: "і загадаў навучыць сыноў Юдавых луку, як напісана ў кнізе
+        праведнага, і сказаў:"
+      lev-khv: (При этом завещал научить сынов Иудиных владеть луком, как записано в
+        летописи Израилевой.)
+      czech: Vyzval take Judejce, aby se pri nem ucili zachazet s lukem. Je zapsan v
+        Knize Primeho.
+      spanish: y mandó que se la enseñasen a los hijos de Judá. Es el canto del arco y
+        está escrito en el libro de Yaser.
+      greek-lxx: καὶ εἶπεν τοῦ διδάξαι τοὺς υἱοὺς Ιουδα ἰδοὺ γέγραπται ἐπὶ βιβλίου τοῦ
+        εὐθοῦς
+      st_text: "и повелел научить сынов Иудиных луку, как написано в книге Праведного,
+        и сказал:"
+  - id: 3825
+    number: 19
+    bookId: 10
+    text: краса твоя, о Израиль, поражена на высотах твоих! как пали сильные!
+    chapter: 1
+    chapterId: 268
+    parallels:
+      - verseId: 2594
+        bookId: 47
+        bookCode: 1a-kniga-makkavejskaa
+        chapter: 9
+        short: 1 Мак:9:21
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И рече: воздвигни столп, израилю, над умершими на высоких твоих язвеными:
+        како падоша сильнии?"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2: воздви1гни сто1лпъ, ї}лю, над8 ўме1ршими на высо1кихъ
+        твои1хъ ћзвеными: кaкw падо1ша си1льніи;"
+      sovr_rbo: Гордость Израиля! Ты погиб, пред врагом не склонившись! Увы, пали
+        могучие воины!
+      latin: "inclyti, Israel, super montes tuos interfecti sunt: quomodo ceciderunt
+        fortes?"
+      ukr: О пишното Ізраїлева, побита із лука на згір'ях своїх, ой попадали лицарі!
+      nkjv: '"The beauty of Israel is slain on your high places! How the mighty have
+        fallen!'
+      desnitsky: «Повержена на высотах твоих, Израиль, краса твоя – 	О как могучие пали!
+      mt: ‫    הַצְּבִי יִשְׂרָאֵל עַל־בָּמוֹתֶיךָ חָלָל אֵיךְ נָפְלוּ גִבּוֹרִים׃ ‬
+      romana: '"Podoaba ta, Israele, a fost doborata pe inaltimile tale! Cum au cazut
+        vitejii!'
+      francais: L'élite d'Israël a succombé sur tes collines! Comment des héros
+        sontils tombés?
+      italian: '"Il tuo vanto, Israele, sulle tue alture giace trafitto! Perché sono
+        caduti gli eroi?'
+      old_georgian: მოხუცებულნო ისრაჱლისანო! მომწყდარან მთათა შენთა წყლულებითა,
+        ვითარ-იგი დაეცნეს ძლიერნი!
+      portuguese: Tua glória, ó Israel, foi morta sobre os teus altos! Como caíram os
+        valorosos!
+      polish: ”O Izraelu, twa chwała na wyżynach zabita. Jakże padli bohaterowie?
+      turkish: "«Ey İsrail, senin yüceliğin yüksek tepelerinde yok oldu!\rGüçlüler
+        nasıl da yere serildi!"
+      nrt: – Слава твоя, о Израиль, сражена на твоих высотах. Как пали могучие!
+      Macarius: Серна поражена на высотах твоих, Израиль! Как пали сильные!
+      serbian: Дико Израиљева! На твојим висинама побијени су; како падоше јунаци?
+      bulgarian: Твоята красота, о Израилю, е погубена върху твоите височини! Как
+        паднаха силните!
+      deutsch: '"Die Edelsten in Israel sind auf deiner Höhe erschlagen. Wie sind die
+        Helden gefallen!'
+      ukr3: Ой Ізраїлю! пробито (з лука) твою втїху в твоїх таки горах. Як се полягли
+        хоробрі?
+      bel_syomukha: краса твая, о Ізраіле, разьбітая на вышынях тваіх! як загінулі моцныя!
+      lev-khv: Какая знаменитость поражена на высотах твоих, Израиль! как пали
+        доблестные!
+      czech: '"Ozdoba tva, Izraeli, na tvych navrsich skolena lezi. Tak padli
+        bohatyri!'
+      spanish: <<Tu gloria, Israel, ha perecido en tus montes; ¿cómo cayeron los héroes?
+      greek-lxx: στήλωσον Ισραηλ ὑπὲρ τῶν τεθνηκότων ἐπὶ τὰ ὕψη σου τραυματιῶν πῶς
+        ἔπεσαν δυνατοί
+      st_text: краса твоя, о Израиль, поражена на высотах твоих! как пали сильные!
+  - id: 3826
+    number: 20
+    bookId: 10
+    text: Не рассказывайте в Гефе, не возвещайте на улицах Аскалона, чтобы не
+      радовались дочери Филистимлян, чтобы не торжествовали дочери необрезанных.
+    chapter: 1
+    chapterId: 268
+    parallels:
+      - verseId: 34976
+        bookId: 7
+        bookCode: kniga-sudej-izrailevyh
+        chapter: 11
+        short: Суд:11:34
+      - verseId: 35041
+        bookId: 7
+        bookCode: kniga-sudej-izrailevyh
+        chapter: 14
+        short: Суд:14:19
+      - verseId: 251
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 17
+        short: 1 Цар:17:23
+      - verseId: 26069
+        bookId: 40
+        bookCode: kniga-proroka-mihea
+        chapter: 1
+        short: Мих:1:10
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: не возвещайте в гефе, ниже поведайте на исходищих аскалоних, да не
+        возвеселятся дщери иноплеменничи, ни да возрадуются дщери необрезанных.
+      averincev: ""
+      ungerov: ""
+      csya_old: не возвэщaйте въ ге1fэ, ниже2 повёдайте на и3схо1дищихъ ґскалHнихъ, да
+        не возвеселsтсz дщє1ри и3ноплемє1нничи, ни да возрaдуютсz дщє1ри
+        неwбрёзанныхъ.
+      sovr_rbo: Не говорите в Гате, не разносите весть по улицам Ашкелона, чтоб не
+        радовались филистимские девы, не веселились дочери необрезанных.
+      latin: "Nolite annuntiare in Geth, neque annuntietis in compitis Ascalonis: ne
+        forte laetentur filiae Philisthiim, ne exultent filiae incircumcisorum."
+      ukr: Не розказуйте в Ґаті про це, не сповіщайте на вулицях Ашкалону, щоб не
+        тішилися филистимлянські дочки, щоб не раділи дочки необрізаних!
+      nkjv: Tell it not in Gath, Proclaim it not in the streets of Ashkelon- Lest the
+        daughters of the Philistines rejoice, Lest the daughters of the
+        uncircumcised triumph.
+      desnitsky: Не сообщайте об этом в Гате, не говорите на улицах Ашкелона, чтобы не
+        радоваться филистимлянкам, 	дочерям необрезанных не ликовать!
+      mt: ‫    אַל־תַּגִּידוּ בְגַת אַל־תְּבַשְּׂרוּ בְּחוּצֹת אַשְׁקְלוֹן
+        פֶּן־תִּשְׂמַחְנָה בְּנוֹת פְּלִשְׁתִּים פֶּן־תַּעֲלֹזְנָה בְּנוֹת
+        הָעֲרֵלִים׃ ‬
+      romana: Nu vestiti in Gat si nu dati de stire pe ulitele Ascalonului, ca sa nu
+        se bucure fiicele Filistenilor, ca sa nu praznuiasca fiicele celor
+        netaiati imprejur!
+      francais: Ne l'annoncez point dans Gath, N'en publiez point la nouvelle dans les
+        rues d'Askalon, De peur que les filles des Philistins ne se réjouissent,
+        De peur que les filles des incirconcis ne triomphent.
+      italian: Non fatelo sapere in Gat, non l'annunziate per le vie di Àscalon, non
+        ne faccian festa le figlie dei Filistei, non ne esultino le figlie dei
+        non circoncisi!
+      old_georgian: ნუ მიუთხრობთ მაგას გეთად, ნუცა ახარებთ შესავალთა ასკალონისათა,
+        რათა არა სცნან და უხაროდის ასულთა მათ უცხოთესლთასა, ნუცა იხა- რებენ
+        ასულნი წინადაუცუეთელთანი მათნი ეგე!
+      portuguese: "Não o noticieis em Gate, nem o publiqueis nas ruas de Asquelom;
+        para que não se alegrem as filhas dos\rfilisteus, para que não exultem
+        as filhas dos incircuncisos."
+      polish: "W Gat tego nie ogłaszajcie! Nie podawajcie na ulicach Aszkelonu, aby
+        się nie\rcieszyły córki filistyńskie ani radowały córki nieobrzezanych."
+      turkish: "Haberi ne Gat'a duyurun,\rNe de Aşkelon sokaklarında yayın. Öyle ki,
+        ne Filistliler'in kızları sevinsin, Ne de sünnetsizlerin kızları
+        coşsun."
+      nrt: Не говорите об этом в Гате, не разглашайте на улицах Ашкелона, чтобы не
+        радовались дочери филистимлян, чтобы не ликовали дочери необрезанных.
+      Macarius: Не объявляйте в Гефе, не разглашайте на улицах Аскалонских, чтобы не
+        радовались дочери Филистимлян, чтобы не торжествовали дочери
+        необрезанных.
+      serbian: Не казујте у Гату, и не разглашујте по улицама Аскалонским, да се не
+        веселе кћери Филистејске и да не играју кћери  необрезанијех.
+      bulgarian: Не разказвайте в Гет, не разгласяйте по улиците на Аскалон, да се не
+        радват дъщерите филистимски, да не тържествуват дъщерите на
+        необрязаните!
+      deutsch: Sagt's nicht an zu Gath, verkündet's nicht auf den Gassen zu Askalon,
+        daß sich nicht freuen die Töchter der Philister, daß nicht frohlocken
+        die Töchter der Unbeschnittenen.
+      ukr3: Не росказуйте у Гетї, не звіщайте по улицях Аскалону, щоб жіноцтво
+        Филистійське не радувалось, щоб не веселились дочки необрізаних.
+      bel_syomukha: Не расказвайце ў Гэце, не абвяшчайце на вуліцах Аскалона, каб ня
+        радаваліся дочкі Філістымлянаў, каб не весяліліся дочкі неабрэзаных.
+      lev-khv: Не объявляйте в Гефе, не возвещайте на улицах Аскалона, чтобы не
+        радовались дочери Филистимския, чтобы не ликовали дочери необрезанных.
+      czech: Neoznamujte to v Gatu, nezvestujte to v ulicich Askalonu, at se neraduji
+        dcery pelistejske, dcery neobrezancu at nejasaji.
+      spanish: No lo propaléis en Gat, no lo publiquéis por las calles de Ascalón; que
+        no se regocijen las hijas de los filisteos y no salten de júbilo las
+        hijas de los incircuncisos.
+      greek-lxx: μὴ ἀναγγείλητε ἐν Γεθ καὶ μὴ εὐαγγελίσησθε ἐν ταῖς ἐξόδοις Ἀσκαλῶνος
+        μήποτε εὐφρανθῶσιν θυγατέρες ἀλλοφύλων μήποτε ἀγαλλιάσωνται θυγατέρες
+        τῶν ἀπεριτμήτων
+      st_text: Не рассказывайте в Гефе, не возвещайте на улицах Аскалона, чтобы не
+        радовались дочери Филистимлян, чтобы не торжествовали дочери
+        необрезанных.
+  - id: 3827
+    number: 21
+    bookId: 10
+    text: Горы Гелвуйские! да [не сойдет] ни роса, ни дождь на вас, и да не будет
+      <i>на вас</i> полей с плодами, ибо там повержен щит сильных, щит Саула,
+      как бы не был он помазан елеем.
+    chapter: 1
+    chapterId: 268
+    parallels:
+      - verseId: 678
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 31
+        short: 1 Цар:31:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Горы гелвуйския, да не снидет роса ниже дождь на вас: и села начатков
+        (житных), яко тамо повержен бысть щит сильных: щит саулов не быти
+        помазан елеем:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Го1ры гелв{йскіz, да не сни1детъ росA ниже2 до1ждь на вaсъ: и3 се1ла
+        начaткwвъ (жи1тныхъ), ћкw тaмw пове1рженъ бы1сть щи1тъ си1льныхъ: щи1тъ
+        саyловъ не бы1сть помaзанъ є3ле1емъ:"
+      sovr_rbo: Горы Гилбоа! Да не будет на вас ни росы, ни дождя, да не будет их на
+        склонах ваших! Там, грязью покрытый, лежит воителя щит — там щит Саула,
+        не смазанный маслом!
+      latin: "Montes Gelboe, nec ros, nec pluvia veniant super vos, neque sint agri
+        primitiarum: quia ibi abjectus est clypeus fortium, clypeus Saul, quasi
+        non esset unctus oleo."
+      ukr: Ґілбоавські гори, щоб на вас не було ні роси, ні дощу, ані поля для жертви
+        принесення! Бо сплямлений там щит хоробрих, щит Саулів, як ніби оливою
+        він не помазаний!
+      nkjv: '"O mountains of Gilboa, Let there be no dew nor rain upon you, Nor fields
+        of offerings. For the shield of the mighty is cast away there! The
+        shield of Saul, not anointed with oil.'
+      desnitsky: Горы Гильбоа! Ни росе, ни дождю на вас не быть, урожая вашим полям не
+        знать – щит могучих, щит Саула повержен там, словно помазания елеем он
+        был лишен.
+      mt: ‫    הָרֵי בַגִּלְבֹּעַ אַל־טַל וְאַל־מָטָר עֲלֵיכֶם וּשְׂדֵי תְרוּמֹת כִּי
+        שָׁם נִגְעַל מָגֵן גִּבּוֹרִים מָגֵן שָׁאוּל בְּלִי מָשִׁיחַ בַּשָּׁמֶן׃
+        ‬
+      romana: Muntilor Ghelboa, sa nu mai cada pe voi nici roua, nici ploaie; si sa nu
+        mai fie pe voi tarini roditoare, caci acolo a fost doborat scutul celor
+        razboinici, scutul lui Saul, ca si cum n-ar fi fost uns cu untdelemn
+        sfintit.
+      francais: Montagnes de Guilboa! Qu'il n'y ait sur vous ni rosée ni pluie, Ni
+        champs qui donnent des prémices pour les offrandes! Car là ont été jetés
+        les boucliers des héros, Le bouclier de Saül; L'huile a cessé de les
+        oindre.
+      italian: O monti di Gelboe, non più rugiada né pioggia su di voi né campi di
+        primizie, perché qui fu avvilito lo scudo degli eroi, lo scudo di Saul,
+        non unto di olio,
+      old_georgian: მთანი გელბუესნი! ნუ მოვალნ თქუენ ზედა ცვარი ცისკრისა, ნუცა
+        გარდამოვალნ წჳმა მშჳდობისა ღრუბელთაგან მაღალთა, მთანი ეგე სიკუდილისანი,
+        რამეთუ მათ ზედა დაეცნეს შესავედრებელნი იგი ძლიერთანი შესავედრებელსა მას
+        საულისსა, რამეთუ არა ეცხო საცხებელითა!
+      portuguese: "Vós, montes de Gilboa, nem orvalho, nem chuva caia sobre, vós, ó
+        campos de morte; pois ali desprezivelmente\rfoi arrojado o escudo dos
+        valorosos, o escudo de Saul, ungido com óleo."
+      polish: "Góry Gilboa! Ani rosy, ani deszczu niech na was nie będzie, ani pól
+        żyznych!\rTu bowiem została skalana tarcza mocarzy. Nie, tarcza Saula
+        nie była namaszczona oliwą,"
+      turkish: "Ey Gilboa dağları,\rÜzerinize ne çiy ne de yağmur düşsün.\rÜrün veren
+        tarlalarınız olmasın.\rÇünkü güçlünün kalkanı,\rBir daha yağ
+        sürülmeyecek olan Saul'un kalkanı Orada bir yana atıldı!"
+      nrt: О горы Гильбоа, да не будет вам ни росы, ни дождя, ни щедрых полей. Ведь
+        там осквернен был щит могучих, щит Саула – не натираемый больше маслом.
+      Macarius: "Горы Гелвойские! ни росы, ни дождя на вас, ни полей с плодами: на вас
+        сильных — щит Саула, не помазан елеем."
+      serbian: Горе Гелвујске! Не падала роса ни дажд на вас, и не родило поље за
+        принос, јер је ту бачен штит с јунака, штит Саулов, као да није помазан
+        уљем.
+      bulgarian: Планини Гелвуйски! (да не пада) на вас ни роса, ни дъжд, нито да има
+        по вас полета с плодове, защото там е захвърлен щитът на силните, щитът
+        на Саула, като да не беше той с елей помазан.
+      deutsch: Ihr Berge zu Gilboa, es müsse weder tauen noch regnen auf euch noch
+        Äcker sein, davon Hebopfer kommen; denn daselbst ist den Helden ihr
+        Schild abgeschlagen, der Schild Sauls, als wäre er nicht gesalbt mit Öl.
+      ukr3: Ви ж гори, Гелвуйські, щоб на вас не впало нї дощу на ваші ниви, нї роси
+        на поле, бо там покинений щит сильних, щит Саулів, мов би не мазано
+        Саула сьвятою олїєю.
+      bel_syomukha: Горы Гэлвуйскія! ні раса, ні дождж на вас, хай ня будзе на вас
+        палёў з пладамі, бо там павалены шчыт моцных, шчыт Саўла, як бы ня быў
+        ён памазаны алеем.
+      lev-khv: Горы Гелвуйския! Да не будет на вас ни росы, ни дождя, ни полей
+        плодоносных; ибо там опозорен щит доблестных, щит Саула, как бы он не
+        был помазан елеем.
+      czech: Hory v Gilboe, rosa ani dest at na vas ne sestoupi, at se v obet
+        nepozdvihuje nic z vasich poli, nebot tam byl pohozen stit bohatyru,
+        stit Sauluv, nepomazan olejem,
+      spanish: ¡Montes de Gélboe! No caiga sobre vosotros ni rocío ni lluvia, ni seáis
+        campos de primicias, porque allí fue abatido el escudo de los héroes, el
+        escudo de Saúl, como si no fuera ungido con el óleo,
+      greek-lxx: ὄρη τὰ ἐν Γελβουε μὴ καταβῇ δρόσος καὶ μὴ ὑετὸς ἐφ᾿ ὑμᾶς καὶ ἀγροὶ
+        ἀπαρχῶν ὅτι ἐκεῖ προσωχθίσθη θυρεὸς δυνατῶν θυρεὸς Σαουλ οὐκ ἐχρίσθη ἐν
+        ἐλαίῳ
+      st_text: Горы Гелвуйские! да [не сойдет] ни роса, ни дождь на вас, и да не будет
+        <i>на вас</i> полей с плодами, ибо там повержен щит сильных, щит Саула,
+        как бы не был он помазан елеем.
+  - id: 3828
+    number: 22
+    bookId: 10
+    text: Без крови раненых, без тука сильных лук Ионафана не возвращался назад, и
+      меч Саула не возвращался даром.
+    chapter: 1
+    chapterId: 268
+    parallels:
+      - verseId: 124
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 14
+        short: 1 Цар:14:6
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "от крове язвеных и от тука сильных лук ионафанов не возвратися тощь
+        вспять, и мечь саулов не возвратися тощь:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "t кро1ве ћзвеныхъ и3 t тyка си1льныхъ лyкъ їwнаfaновъ не возврати1сz
+        то1щь вспsть, и3 ме1чь саyловъ не возврати1сz то1щь:"
+      sovr_rbo: Лук Ионафана не обращался в бегство, и меч Саула не уходил с поля боя,
+        крови раненых и жира воинов не вкусив.
+      latin: A sanguine interfectorum, ab adipe fortium, sagitta Jonathae numquam
+        rediit retrorsum, et gladius Saul non est reversus inanis.
+      ukr: Від крови забитих, від лою хоробрих не відривався був лук Йонатанів, і не
+        вертався меч Саулів напорожньо!
+      nkjv: From the blood of the slain, From the fat of the mighty, The bow of
+        Jonathan did not turn back, And the sword of Saul did not return empty.
+      desnitsky: Покуда кровь из ран не потечет, покуда сильные не падут – лук
+        Йонатана разить не уставал, меч Саула без добычи не возвращался.
+      mt: ‫    מִדַּם חֲלָלִים מֵחֵלֶב גִּבּוֹרִים קֶשֶׁת יְהוֹנָתָן לֹא נָשׂוֹג
+        אָחוֹר וְחֶרֶב שָׁאוּל לֹא תָשׁוּב רֵיקָם׃ ‬
+      romana: Arcul lui Ionatan nu se intorcea fara sange de raniti, fara grasimea
+        celor puternici, nici sabia lui Saul nu se invartea zadarnic!
+      francais: Devant le sang des blessés, devant la graisse des plus vaillants,
+        L'arc de Jonathan n'a jamais reculé, Et l'épée de Saül ne retournait
+        point à vide.
+      italian: ma col sangue dei trafitti, col grasso degli eroi. L'arco di Giònata
+        non tornò mai indietro, la spada di Saul non tornava mai a vuoto.
+      old_georgian: არამედ ეცხო მას სისხლი ბრძოლისა და ცმელი ახოვანთა, ისარნი იგი
+        იონათანისნი არა უკმოქცეულ იყუნეს ცუდად და მახჳლი იგი საულისი არა მოქცეულ
+        იყო ცუდად ცალიერი ქარქაშადვე თჳსა!
+      portuguese: "Do sangue dos feridos, da gordura dos valorosos, nunca recuou o
+        arco de Jônatas, nem voltou vazia a espada\rde Saul."
+      polish: "lecz krwią poległych, tłuszczem mocarzy. Łuk Jonatana nigdy się nie
+        cofał, i\rmiecz Saula nie wracał daremnie."
+      turkish: Yonatan'ın yayı yere serilmişlerin kanından, Yiğitlerin bedenlerinden
+        hiç geri çekilmedi. Saul'un kılıcı hiç boşa savrulmadı.
+      nrt: От крови сраженных, от плоти могучих лук Ионафана не возвращался назад, меч
+        Саула не возвращался несыт.
+      Macarius: От крови убитых, от тука сильных лук Ионафанов не отступал назад, и
+        меч Саулов не возвращался тщетно.
+      serbian: Без крви побијенијех и без масти од јунака није се враћао лук
+        Јонатанов, нити је мач Саулов долазио натраг празан.
+      bulgarian: Без кръв от ранени, без тлъстина от силни, лъкът Ионатанов не се е
+        връщал назад, нито мечът Саулов се е връщал празен.
+      deutsch: Der Bogen Jonathans hat nie gefehlt, und das Schwert Sauls ist nie leer
+        wiedergekommen von dem Blut der Erschlagenen und vom Fett der Helden.
+      ukr3: Йонатанів меч не вертавсь назад без крові ранених, а й меч Саулів не
+        вертався даром.
+      bel_syomukha: Бяз крыві параненых, бяз тлушчу моцных лук Ёнатана не вяртаўся
+        назад, і меч Саўлаў не вяртаўся марна.
+      lev-khv: Без крови пронзенных, без тука сильных лук Ионафана не приходил назад,
+        и меч Саула не возвращался даром.
+      czech: nybrz krvi skolenych a tukem bohatyru. Jonatanuv luk neselhal nikdy,
+        Sauluv mec doprazdna nebil.
+      spanish: "sino con la sangre de los muertos, la grasa de los valientes.\rEl arco
+        de Jonatán jamás retrocedía, la espada de Saúl nunca volvía de vacío."
+      greek-lxx: ἀφ᾿ αἵματος τραυματιῶν ἀπὸ στέατος δυνατῶν τόξον Ιωναθαν οὐκ
+        ἀπεστράφη κενὸν εἰς τὰ ὀπίσω καὶ ῥομφαία Σαουλ οὐκ ἀνέκαμψεν κενή
+      st_text: Без крови раненых, без тука сильных лук Ионафана не возвращался назад,
+        и меч Саула не возвращался даром.
+  - id: 3829
+    number: 23
+    bookId: 10
+    text: Саул и Ионафан, любезные и согласные в жизни своей, не разлучились и в
+      смерти своей; быстрее орлов, сильнее львов <i>они были</i>.
+    chapter: 1
+    chapterId: 268
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "саул и ионафан возлюбленнии и прекраснии неразлучни, благолепни в животе
+        своем, и в смерти своей не разлучишася: паче орлов легцы и паче львов
+        крепцы:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "саyлъ и3 їwнаfaнъ возлю1бленніи и3 прекрaсніи неразлyчни, благолёпни
+        въ животЁ свое1мъ, и3 въ сме1рти свое1й не разлучи1шасz: пaче nрлHвъ
+        ле1гцы и3 пaче львHвъ крёпцы:"
+      sovr_rbo: Саул и Ионафан! Любимые и прекрасные! Неразлучные в жизни, неразлучны
+        и в смерти своей! Они были быстрее орлов и сильнее львов!
+      latin: "Saul et Jonathas amabiles, et decori in vita sua, in morte quoque non
+        sunt divisi: aquilis velociores, leonibus fortiores."
+      ukr: Саул та Йонатан, ці улюблені й милі за свойого життя, і в смерті своїй
+        нерозлучні, прудкіші були від орлів та сильніші від левів!
+      nkjv: '"Saul and Jonathan were beloved and pleasant in their lives, And in their
+        death they were not divided; They were swifter than eagles, They were
+        stronger than lions.'
+      desnitsky: В любви и согласии жили Саул и Йонатан, не разлучились они и в смерти
+        своей; быстрее орлов, сильнее львов они были.
+      mt: ‫    שָׁאוּל וִיהוֹנָתָן הַנֶּאֱהָבִים וְהַנְּעִימִם בְּחַיֵּיהֶם וּבְמוֹתָם
+        לֹא נִפְרָדוּ מִנְּשָׁרִים קַלּוּ מֵאֲרָיוֹת גָּבֵרוּ׃ ‬
+      romana: Saul si Ionatan, cei iubiti si uniti in viata lor, nici la moarte nu
+        s-au despartit. Fost-au mai iuti decat vulturii si mai puternici decat
+        leii!
+      francais: Saül et Jonathan, aimables et chéris pendant leur vie, N'ont point été
+        séparés dans leur mort; Ils étaient plus légers que les aigles, Ils
+        étaient plus forts que les lions.
+      italian: Saul e Giònata, amabili e gentili, né in vita né in morte furon divisi;
+        erano più veloci delle aquile, più forti dei leoni.
+      old_georgian: საულ და იონათან, საყუარელნი, შუენიერნი და საჩინონი, რომელნი აქა
+        არა განშორებულ იყუნეს ურთიერთას ცხორებასა და არცა სიკუდილსა განიშორნეს,
+        უმაღლესნი ორბთანი და უძლიერესნი ლომთანი.
+      portuguese: "Saul e Jônatas, tão queridos e amáveis na sua vida, também na sua
+        morte não se separaram; eram mais ligeiros\rdo que as águias, mais
+        fortes do que os leões."
+      polish: "Saul i Jonatan, kochający się i mili przyjaciele, za życia i w śmierci
+        nie są\rrozdzieleni. Byli oni bystrzejsi od orłów, dzielniejsi od lwów."
+      turkish: "Saul'la Yonatan tatlı ve sevimliydiler, Yaşamda da ölümde de
+        ayrılmadılar. Kartallardan daha çevik,\rAslanlardan daha güçlüydüler."
+      nrt: Саул и Ионафан – столь любимы и чтимы при жизни, и в смерти не разлучились.
+        Были они быстрее орлов, львов сильнее.
+      Macarius: Саул и Ионафан — други любезные в жизни своей, и в смерти своей не
+        разлучились; они были быстрее орлов, сильнее львов.
+      serbian: Саул и Јонатан, мили и драги за живота, ни за смрти се не раставише;
+        лакши од орлова бијаху.
+      bulgarian: Саул и Ионатан, обични и сговорни през живота си, не се разделиха и в
+        смъртта си; те бяха по-бързи от орли, по-силни от лъвове.
+      deutsch: Saul und Jonathan, holdselig und lieblich in ihrem Leben, sind auch im
+        Tode nicht geschieden; schneller waren sie denn die Adler und stärker
+        denn die Löwen.
+      ukr3: Любомирно з Йонатаном жив Саул на сьвітї, їх і смерть не розлучила; і
+        бистрі й сильні обидва над орла й над лева.
+      bel_syomukha: Саўл і Ёнатан, любасныя і згодныя ў жыцьці сваім, не разлучыліся і
+        ў сьмерці сваёй; імклівейшыя за арлоў, дужэйшыя за львоў яны былі.
+      lev-khv: Саул и Ионафан, столь любезные и драгоценные при жизни своей, не
+        разлучились и в смерти своей; быстрее орлов, сильнее львов были они.
+      czech: Saul a Jonatan, v zivote hodni libezne lasky, neodloucili se od sebe ani
+        v smrti. Byvali nad orly bystrejsi a nad lvy udatnejsi.
+      spanish: Saúl y Jonatán, amados y queridos, inseparables en vida, tampoco se
+        separaron en la muerte, más ágiles que las águilas, más fuertes que los
+        leones.
+      greek-lxx: Σαουλ καὶ Ιωναθαν οἱ ἠγαπημένοι καὶ ὡραῖοι οὐ διακεχωρισμένοι
+        εὐπρεπεῖς ἐν τῇ ζωῇ αὐτῶν καὶ ἐν τῷ θανάτῳ αὐτῶν οὐ διεχωρίσθησαν ὑπὲρ
+        ἀετοὺς κοῦφοι καὶ ὑπὲρ λέοντας ἐκραταιώθησαν
+      st_text: Саул и Ионафан, любезные и согласные в жизни своей, не разлучились и в
+        смерти своей; быстрее орлов, сильнее львов <i>они были</i>.
+  - id: 3830
+    number: 24
+    bookId: 10
+    text: Дочери Израильские! плачьте о Сауле, который одевал вас в багряницу с
+      украшениями и доставлял на одежды ваши золотые уборы.
+    chapter: 1
+    chapterId: 268
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "плачите по сауле, дщери израилевы, иже вас облачаше в червленицы со
+        украшением вашим, и возлагаше украшение злато на ризы вашя:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "плaчите по саyлэ, дщє1ри ї}лєвы, и4же вaсъ њблачaше въ червлєни1цы со
+        ўкраше1ніемъ вaшимъ, и3 возлагaше ўкраше1ніе злaто на ри6зы вaшz:"
+      sovr_rbo: Оплакивайте Саула, девы-израильтянки! В роскошные ткани багряные он
+        одевал вас, добывал для вас украшения золотые.
+      latin: Filiae Israel super Saul flete, qui vestiebat vos coccino in deliciis,
+        qui praebebat ornamenta aurea cultui vestro.
+      ukr: Дочки Ізраїлеві, за Саулом заплачте, що вас зодягав у багряницю з
+        прикрасами, що оздоблював золотом вашу одежу!
+      nkjv: '"O daughters of Israel, weep over Saul, Who clothed you in scarlet, with
+        luxury; Who put ornaments of gold on your apparel.'
+      desnitsky: Дочери Израильские! плачьте о Сауле, что в нарядный пурпур вас
+        облекал, золотые уборы вам дарил.
+      mt: ‫    בְּנוֹת יִשְׂרָאֵל אֶל־שָׁאוּל בְּכֶינָה הַמַּלְבִּשְׁכֶם שָׁנִי
+        עִם־עֲדָנִים הַמַּעֲלֶה עֲדִי זָהָב עַל לְבוּשְׁכֶן׃ ‬
+      romana: Fiicele lui Israel, plangeti pe Saul, cel ce v-a imbracat in purpura cu
+        podoabe si v-a pus pe haine podoabe de aur!
+      francais: Filles d'Israël! pleurez sur Saül, Qui vous revêtait magnifiquement de
+        cramoisi, Qui mettait des ornements d'or sur vos habits.
+      italian: Figlie d'Israele, piangete su Saul, che vi vestiva di porpora e di
+        delizie, che appendeva gioielli d'oro sulle vostre vesti.
+      old_georgian: ასულნი ეგე ისრაჱლისანი! სტიროდეთ საულს, რომელი შეგამკობდა თქუენ
+        მეწამულითა და სამკაული ოქროსა შესამოსელად თქუენდა.
+      portuguese: "Vós, filhas de Israel, chorai por Saul, que vos vestia
+        deliciosamente de escarlata, que vos punha sobre os\rvestidos adornos de
+        ouro."
+      polish: "O, płaczcie nad Saulem, córki izraelskie: On was ubierał w prześliczne
+        szkarłaty, złotymi ozdobami upiększał stroje."
+      turkish: "Ey İsrail kızları!\rSizi al renkli, süslü giysilerle
+        donatan,\rGiysinizi altın süslerle bezeyen Saul için ağlayın!"
+      nrt: О, дочери Израиля, оплакивайте Саула, который одевал вас в роскошные алые
+        наряды, который украшал ваши платья золотым убранством.
+      Macarius: Дщери Израилевы! плачьте по Сауле, который одевал вас в червленицу
+        великолепно, возлагал золотые украшения на одежды ваши.
+      serbian: Кћери Израиљеве? Плачите за Саулом који вас је облачио у скерлет
+        лијепо, и китио вас златнијем закладима по хаљинама вашим.
+      bulgarian: Дъщери израилски! плачете за Саула, който ви обличаше в багреница с
+        украшения и китеше със златни накити дрехите ви.
+      deutsch: Ihr Töchter Israels, weint über Saul, der euch kleidete mit Scharlach
+        säuberlich und schmückte euch mit goldenen Kleinoden an euren Kleidern.
+      ukr3: Ой Ізрайлеві дочки, плачте по Саулї! Він у пурпур одягав вас, в радощі
+        рядив вас; за його на вас золото блищало.
+      bel_syomukha: Дочкі Ізраільскія! плачце па Саўле, які апранаў вас у пурпуру з
+        акрасамі і здабываў на вопратку вашую залатыя аздобы.
+      lev-khv: Дочери Израильския! Плачьте о Сауле, который одевал вас в багряницу с
+        драгоценностями, возлагал золотыя украшения на ваши наряды.
+      czech: Dcery izraelske, placte pro Saula, ktery vas odival karminem a rozkosemi,
+        jenz zlatou okrasou zdobil vas odev.
+      spanish: Hijas de Israel, llorad por Saúl, que os vestía deliciosamente de
+        escarlata y colgaba adornos de oro sobre vuestros vestidos.
+      greek-lxx: θυγατέρες Ισραηλ ἐπὶ Σαουλ κλαύσατε τὸν ἐνδιδύσκοντα ὑμᾶς κόκκινα
+        μετὰ κόσμου ὑμῶν τὸν ἀναφέροντα κόσμον χρυσοῦν ἐπὶ τὰ ἐνδύματα ὑμῶν
+      st_text: Дочери Израильские! плачьте о Сауле, который одевал вас в багряницу с
+        украшениями и доставлял на одежды ваши золотые уборы.
+  - id: 3831
+    number: 25
+    bookId: 10
+    text: Как пали сильные на брани! Сражен Ионафан на высотах твоих.
+    chapter: 1
+    chapterId: 268
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "како падоша сильнии посреде брани? ионафане, до смерти на высоких твоих
+        язвен еси:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "кaкw падо1ша си1льніи посредЁ брaни; їwнаfaне, до сме1рти на
+        высо1кихъ твои1хъ ћзвенъ є3си2:"
+      sovr_rbo: Увы, пали могучие воины! Пред врагом не склонившись, погиб Ионафан!
+      latin: Quomodo ceciderunt fortes in praelio? Jonathas in excelsis tuis occisus
+        est?
+      ukr: Ой, попадали лицарі посеред бою!... Йонатан на пагірках твоїх ось забитий!
+      nkjv: '"How the mighty have fallen in the midst of the battle! Jonathan was
+        slain in your high places.'
+      desnitsky: О как могучие пали на войне! На тех высотах Йонатан сражен –
+      mt: ‫    אֵיךְ נָפְלוּ גִבֹּרִים בְּתוֹךְ הַמִּלְחָמָה יְהוֹנָתָן
+        עַל־בָּמוֹתֶיךָ חָלָל׃ ‬
+      romana: Cum au cazut vitejii in toiul luptei! Ucis a fost Ionatan pe inaltimile
+        tale, Israele!
+      francais: Comment des héros sont-ils tombés au milieu du combat? Comment
+        Jonathan a-t-il succombé sur tes collines?
+      italian: Perché son caduti gli eroi in mezzo alla battaglia? Giònata, per la tua
+        morte sento dolore,
+      old_georgian: ვითარ დაეცნეს ძლიერნი იგი ბრძოლასა! იონათან, სასიკუდინედ ჩემდა იწყალ!
+      portuguese: Como caíram os valorosos no meio da peleja!
+      polish: Jakże zginąć mogli waleczni, wśród boju Jonatan przebity śmiertelnie?
+      turkish: "Güçlüler nasıl da yere serildi savaşta!\rYonatan senin yüksek
+        tepelerinde ölü yatıyor."
+      nrt: Как пали могучие в бою! Ионафан сражен на высотах твоих.
+      Macarius: Как пали сильные на брани! Ионафан на высотах твоих поражен.
+      serbian: Како падоше јунаци у боју! Јонатан како погибе на твојим висинама!
+      bulgarian: Как паднаха силните в боя! Загина Ионатан върху твоите височини.
+      deutsch: Wie sind die Helden so gefallen im Streit! Jonathan ist auf deinen
+        Höhen erschlagen.
+      ukr3: Ой як упали потужні у бою! Убитий Йонатан на висотах твоїх.
+      bel_syomukha: Як загінулі моцныя ў бітве! Забіты Ёнатан на вышынях тваіх.
+      lev-khv: Как пали доблестные среди сражения! Поражен Ионафан на высотах твоих.
+      czech: Tak padli bohatyri uprostred boje, Jonatan na tvych navrsich skolen!
+      spanish: ¿Cómo han caído los héroes en medio de la batalla? ¡Cómo fue traspasado
+        Jonatán en las alturas!
+      greek-lxx: πῶς ἔπεσαν δυνατοὶ ἐν μέσῳ τοῦ πολέμου Ιωναθαν ἐπὶ τὰ ὕψη σου τραυματίας
+      st_text: Как пали сильные на брани! Сражен Ионафан на высотах твоих.
+  - id: 3832
+    number: 26
+    bookId: 10
+    text: Скорблю о тебе, брат мой Ионафан; ты был очень дорог для меня; любовь твоя
+      была для меня превыше любви женской.
+    chapter: 1
+    chapterId: 268
+    parallels:
+      - verseId: 287
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 18
+        short: 1 Цар:18:1
+      - verseId: 4489
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 9
+        short: 2 Цар:9:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "болезную о тебе, брате мой ионафане, красный ми зело, удивися любовь твоя
+        от мене паче любве женския:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "болёзную њ тебЁ, брaте мо1й їwнаfaне, крaсный ми2 ѕэлw2, ўдиви1сz
+        любо1вь твоS t менє2 пaче любве2 же1нскіz:"
+      sovr_rbo: Тяжко мне потерять тебя, брат мой Ионафан, ты был мне дороже всех;
+        чудо, как ты любил меня — сильнее, чем женщины любят.
+      latin: Doleo super te frater mi Jonatha decore nimis, et amabilis super amorem
+        mulierum. Sicut mater unicum amat filium suum, ita ego te diligebam.
+      ukr: Скорблю по тобі, Йонатане, мій брате! Ти для мене був вельми улюблений,
+        кохання твоє розкішніше для мене було від кохання жіночого!
+      nkjv: I am distressed for you, my brother Jonathan; You have been very pleasant
+        to me; Your love to me was wonderful, Surpassing the love of women.
+      desnitsky: скорблю о тебе, мой брат Йонатан, 	как ты был дорог для меня! 	Выше
+        женской любви я ценил твою любовь.
+      mt: ‫    צַר־לִי עָלֶיךָ אָחִי יְהוֹנָתָן נָעַמְתָּ לִּי מְאֹד נִפְלְאַתָה
+        אַהֲבָתְךָ לִי מֵאַהֲבַת נָשִׁים׃ ‬
+      romana: Frate Ionatane, intristat sunt dupa tine, caci tu mi-ai fost foarte
+        scump si iubirea ta a fost pentru mine mai presus de iubirea femeiasca!
+      francais: Je suis dans la douleur à cause de toi, Jonathan, mon frère! Tu
+        faisais tout mon plaisir; Ton amour pour moi était admirable, Au-dessus
+        de l'amour des femmes.
+      italian: l'angoscia mi stringe per te, fratello mio Giònata! Tu mi eri molto
+        caro; la tua amicizia era per me preziosa più che amore di donna.
+      old_georgian: მტკივის შენთჳს, იონათან, ძმაო, ქმუნლკეთილობა იგი შენი, რამეთუ
+        საყუარელ იყავ ჩემდა. და რომელი უმჯობეს იყავ სიყუარულისა და ქმნულკეთილ
+        უფროს დედათა!
+      portuguese: "Angustiado estou por ti, meu irmão Jônatas; muito querido me eras!
+        Maravilhoso me era o teu amor,\rultrapassando o amor de mulheres."
+      polish: Żal mi ciebie, mój bracie, Jonatanie. Tak bardzo byłeś mi drogi! Więcej
+        ceniłem twą miłość niżeli miłość kobiet.
+      turkish: "Senin için üzgünüm, kardeşim Yonatan.\rBenim için çok
+        değerliydin.\rSevgin kadın sevgisinden daha üstündü."
+      nrt: Я скорблю по тебе, Ионафан, мой брат, ты был мне очень дорог. Твоя любовь
+        была для меня прекрасна, прекраснее любви женщин.
+      Macarius: Скорблю о тебе, брат мой Ионафан; весьма любезен ты для меня; любовь
+        твоя ко мне превосходила любовь женскую.
+      serbian: Жао ми је за тобом, брате Јонатане; био си ми мио врло; већа ми је била
+        љубав твоја од љубави женске.
+      bulgarian: Жалея за тебе, брате Ионатане; ти ми беше много драг; твоята любов за
+        мене беше по-горе от женска любов.
+      deutsch: "Es ist mir Leid um dich, mein Bruder Jonathan: ich habe große Freude
+        und Wonne an dir gehabt; deine Liebe ist mir sonderlicher gewesen, denn
+        Frauenliebe ist."
+      ukr3: Тяжко сумую по тобі, Йонатане, побратиме; ти був менї найдорожший; ти менї
+        ба й над жіноче серце був любіщий!
+      bel_syomukha: Смуткую па табе, браце мой Ёнатане; ты быў вельмі дарагі мне;
+        любоў твая была мне вышэйшая за любоў жаночую.
+      lev-khv: "Скорблю о тебе, брат мой Ионафан: ты был для меня очень драгоценен;
+        любовь твоя ко мне была превыше любви женской."
+      czech: Styska se mi po tobe, muj bratre Jonatane, byls ke mne pln nehy, tva
+        laska ke mne byla podivuhodnejsi nad lasku zen.
+      spanish: Angustiado estoy por ti, ¡oh Jonatán, hermano mío! Me eras carísimo. Y
+        tu amor era para mí dulcísimo, más que el amor de las mujeres.
+      greek-lxx: ἀλγῶ ἐπὶ σοί ἄδελφέ μου Ιωναθαν ὡραιώθης μοι σφόδρα ἐθαυμαστώθη ἡ
+        ἀγάπησίς σου ἐμοὶ ὑπὲρ ἀγάπησιν γυναικῶν
+      st_text: Скорблю о тебе, брат мой Ионафан; ты был очень дорог для меня; любовь
+        твоя была для меня превыше любви женской.
+  - id: 3833
+    number: 27
+    bookId: 10
+    text: Как пали сильные, погибло оружие бранное!
+    chapter: 1
+    chapterId: 268
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: како падоша сильнии, и погибоша оружия бранная?
+      averincev: ""
+      ungerov: ""
+      csya_old: кaкw падо1ша си1льніи, и3 погибо1ша nр{жіz бр†ннаz;
+      sovr_rbo: Увы, пали могучие воины, погибло оружие.
+      latin: Quomodo ceciderunt robusti, et perierunt arma bellica?
+      ukr: Ой, попадали лицарі, і загинула зброя військова!...
+      nkjv: '"How the mighty have fallen, And the weapons of war perished!"'
+      desnitsky: О как могучие пали, 	и оружия бранного не стало!»
+      mt: ‫    אֵיךְ נָפְלוּ גִבּוֹרִים וַיֹּאבְדוּ כְּלֵי מִלְחָמָה׃ פ ‬
+      romana: Cum au cazut cei viteji! Pierit-a arma de razboi!"
+      francais: Comment des héros sont-ils tombés? Comment leurs armes se sontelles
+        perdues?
+      italian: Perché son caduti gli eroi, son periti quei fulmini di guerra?".
+      old_georgian: ვითარმე დაეცნეს ძლიერნი ბრძოლასა, ანუ ვითარ წარწყმდა საჭურველი იგი
+        გულისსათქმელი?
+      portuguese: Como caíram os valorosos, e pereceram as armas de guerra!
+      polish: Jakże padli bohaterowie? Jakże przepadły wojenne oręże?”
+      turkish: "Güçlüler nasıl da yere serildi!\rSavaş silahları yok oldu!»"
+      nrt: Как пали могучие! Погибло оружие брани!
+      Macarius: Как пали сильные! И погибли оружия брани!
+      serbian: Како падоше јунаци, и пропаде оружје убојито!
+      bulgarian: Как паднаха силните, как загина бойното оръжие!
+      deutsch: Wie sind die Helden gefallen und die Streitbaren umgekommen!"
+      ukr3: Як се впали такі сильні, як погибла збруя воєнна?
+      bel_syomukha: Як загінулі моцныя, загінула зброя баявая!
+      lev-khv: Как пали доблестные и погибли ратные доспехи!
+      czech: Tak padli bohatyri, v zmar prisla valecna zbroj!"
+      spanish: ¡Cómo han caído los héroes! ¡Cómo han perecido las armas del combate!>>
+      greek-lxx: πῶς ἔπεσαν δυνατοὶ καὶ ἀπώλοντο σκεύη πολεμικά
+      st_text: Как пали сильные, погибло оружие бранное!

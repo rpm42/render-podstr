@@ -1,0 +1,2353 @@
+id: 262
+number: 26
+bookId: 9
+verseCount: 25
+title: Глава 26
+verses:
+  - id: 553
+    number: 1
+    bookId: 9
+    text: "Пришли Зифеи [с юга] к Саулу в Гиву и сказали: вот, Давид скрывается у
+      нас на холме Гахила, что направо от Иесимона."
+    chapter: 26
+    chapterId: 262
+    parallels:
+      - verseId: 476
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 23
+        short: 1 Цар:23:19
+      - verseId: 31898
+        bookId: 22
+        bookCode: psaltir
+        chapter: 53
+        short: Пс:53:2
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И приидоша зифее от знойныя к саулу на холм, глаголюще: се, давид скрыся
+        у нас на холме ехелаф, прямо иессемону."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# пріидо1ша зіфе1є t зно1йныz къ саyлу на хо1лмъ, глаго1люще: се2,
+        давjдъ скры1сz ў нaсъ на холмЁ є3хелafъ, прsмw їессемо1ну."
+      sovr_rbo: "Пришли зифеи к Саулу в Гиву и сказали: «А знаешь ли ты, что Давид
+        прячется на холме Хахила, что у края Иешимонской пустыни?»"
+      latin: "Et venerunt Ziphaei ad Saul in Gabaa, dicentes: Ecce, David absconditus
+        est in colle Hachila, quae est ex adverso solitudinis."
+      ukr: "І прийшли зіфеяни до Саула до Ґів'ї, говорячи: Он Давид ховається на
+        взгір'ях Гахіли навпроти Єшімону!"
+      nkjv: Now the Ziphites came to Saul at Gibeah, saying, "Is David not hiding in
+        the hill of Hachilah, opposite Jeshimon?"
+      desnitsky: "Зифиты пришли к Саулу в Гиву и сказали: «А ведь Давид скрывается на
+        холме Хахила, возле Ешимоном!»"
+      mt: ‫   וַיָּבֹאוּ הַזִּפִים אֶל־שָׁאוּל הַגִּבְעָתָה לֵאמֹר הֲלוֹא דָוִד
+        מִסְתַּתֵּר בְּגִבְעַת הַחֲכִילָה עַל פְּנֵי הַיְשִׁימֹן׃ ‬
+      romana: 'Atunci au venit Zifeii de la miazazi la Saul in Ghibeea si au zis:
+        "Iata David sta ascuns la noi, pe muntele Hachila, care vine in fata
+        Iesimonului".'
+      francais: "Les Ziphiens allèrent auprès de Saül à Guibea, et dirent: David
+        n'estil pas caché sur la colline de Hakila, en face du désert?"
+      italian: "Gli abitanti di Zif si recarono da Saul in Gàbaa e gli dissero: \"Non
+        è forse Davide nascosto sull'altura di Cachilà, di fronte al
+        deserto?\"."
+      old_georgian: "მას ჟამსა მოვიდეს ზიფეანი არმურისა მისგან ბორცვად საულისსა და
+        ჰრქუეს მას: ესერა, დავით დამალულ არს ჩუენ შორის ბორცუსა მას ექელაკისსა,
+        რომელ არს წინაშე პირსა ესემონისასა."
+      portuguese: "Ora, vieram os zifeus a Saul, a Gibeá, dizendo: Não está Davi se
+        escondendo no outeiro de Haquilá, defronte de\rJesimom?"
+      polish: "Zifejczycy przybyli do Saula w Gibea z doniesieniem: ”Dawid ukrywa się
+        na\rwzgórzu Chakila, leżącym na krańcu stepu”."
+      turkish: Zifliler Giva'ya, Saul'un yanına gidip, «Davut Yeşimon'a bakan Hakila
+        Tepesi'nde gizleniyor» dediler.
+      nrt: "Зифиты пришли к Саулу в Гиву и сказали: − Разве Давид не прячется на холме
+        Гахила, что напротив Иешимона?"
+      Macarius: "Зифеи пришли к Саулу в Гиву, и сказали: Давид скрывается на холме
+        Гахиле, подле пустыни."
+      serbian: "Опет дођоше Зифеји к Саулу у Гавају говорећи: Не крије ли се Давид на
+        брду Ехели према Гесимону?"
+      bulgarian: "При Саула в Гива дойдоха зифци (от юг) и рекоха: ето, Давид се крие
+        у нас на хълм Хахил, надясно от Иесимон."
+      deutsch: "Die aber von Siph kamen zu Saul gen Gibea und sprachen: Ist nicht
+        David verborgen auf dem Hügel Hachila vor der Wüste?"
+      ukr2: "Прийшли зіфії з Гівеа до Саула та й кажуть: «Чи ж Давид не ховається на
+        Хахіла-горбі, на краю пустині?»"
+      ukr3: "Зифії ж прийшли до Саула в Гиву та й кажуть: Чи знаєш ти, що Давид
+        ховається в нас на горі Гахилї, перед пустинею?"
+      bel_syomukha: "Прыйшлі Зіфеі да Саўла ў Гіву і сказалі: вось, Давід хаваецца ў
+        нас на пагорку Гахіла, што направа ад Есімона."
+      lev-khv: "Между тем пришли Зифеяне к Саулу в Гиву и сказали: знаете ли, что
+        Давид скрывается на холме Гахила, против Иесимона?"
+      czech: 'Zifejci prisli rici Saulovi do Gibeje: "David se prece skryva na pahorku
+        Chakile naproti pousti Jesimonu."'
+      spanish: Vinieron los de Zif a Saúl, a Gueba, y le dijeron que David estaba en
+        la colina de Jaquila, al mediodía del desierto;
+      greek-lxx: καὶ ἔρχονται οἱ Ζιφαῖοι ἐκ τῆς αὐχμώδους πρὸς τὸν Σαουλ εἰς τὸν
+        βουνὸν λέγοντες ἰδοὺ Δαυιδ σκεπάζεται μεθ᾿ ἡμῶν ἐν τῷ βουνῷ τοῦ Εχελα
+        τοῦ κατὰ πρόσωπον τοῦ Ιεσσαιμουν
+      st_text: "Пришли Зифеи [с юга] к Саулу в Гиву и сказали: вот, Давид скрывается у
+        нас на холме Гахила, что направо от Иесимона."
+  - id: 554
+    number: 2
+    bookId: 9
+    text: И встал Саул и спустился в пустыню Зиф, и с ним три тысячи отборных мужей
+      Израильских, чтоб искать Давида в пустыне Зиф.
+    chapter: 26
+    chapterId: 262
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И воста саул, и сниде в пустыню зиф, и с ним три тысящы мужей избранных от
+        израиля, искати давида в пустыни зиф.
+      averincev: ""
+      ungerov: ""
+      csya_old: И# востA саyлъ, и3 сни1де въ пусты1ню зjфъ, и3 съ ни1мъ три2 ты1сzщы
+        муже1й и3збрaнныхъ t ї}лz, и3скaти давjда въ пусты1ни зjфъ.
+      sovr_rbo: Саул взял с собой отборный отряд из трех тысяч израильтян и отправился
+        в пустыню Зиф на поиски Давида.
+      latin: Et surrexit Saul, et descendit in desertum Ziph, et cum eo tria millia
+        virorum de electis Israel, ut quaereret David in deserto Ziph.
+      ukr: І встав Саул, і зійшов у пустиню Зіф, а з ним три тисячі чоловіка, вибраних
+        із Ізраїля, щоб шукати Давида в пустині Зіф.
+      nkjv: Then Saul arose and went down to the Wilderness of Ziph, having three
+        thousand chosen men of Israel with him, to seek David in the Wilderness
+        of Ziph.
+      desnitsky: Саул выступил в поход в пустыню Зиф, а с ним три тысячи человек,
+        отобранных из всего Израиля, на поиски Давида в пустыне Зиф.
+      mt: ‫   וַיָּקָם שָׁאוּל וַיֵּרֶד אֶל־מִדְבַּר־זִיף וְאִתּוֹ שְׁלֹשֶׁת־אֲלָפִים
+        אִישׁ בְּחוּרֵי יִשְׂרָאֵל לְבַקֵּשׁ אֶת־דָּוִד בְּמִדְבַּר־זִיף׃ ‬
+      romana: S-a sculat deci Saul si s-a coborat in pustiul Zif, cu trei mii de
+        barbati, israeliti alesi, ca sa caute pe David prin pustiul Zif.
+      francais: Saül se leva et descendit au désert de Ziph, avec trois mille hommes
+        de l'élite d'Israël, pour chercher David dans le désert de Ziph.
+      italian: Saul si mosse e scese al deserto di Zif conducendo con sé tremila
+        uomini scelti di Israele, per ricercare Davide nel deserto di Zif.
+      old_georgian: და მოვიდა საულ უდაბნოსა მას არმუროვანსა და მის თანა სამი ათასი
+        კაცი რჩეული ისრაჱლისა მოძიებად დავითისა უდაბნოსა მას ზიფისასა.
+      portuguese: "Então Saul se levantou, e desceu ao deserto de Zife, levando
+        consigo três mil homens escolhidos de Israel, para\rbuscar a Davi no
+        deserto de Zife."
+      polish: "Niezwłocznie wyruszył więc Saul ku pustyni Zif, a wraz z nim trzy
+        tysiące\rdoborowych Izraelitów, aby wpaść na trop Dawida na pustyni
+        Zif."
+      turkish: Bunun üzerine Saul üç bin seçme İsrailli askerle Zif Çölü'nde Davut'u
+        aramaya çıktı.
+      nrt: Саул спустился в пустыню Зиф с тремя тысячами лучших израильтян, чтобы
+        искать там Давида.
+      Macarius: И встал Саул, и пошел в пустыню Зиф и с ним три тысячи отборных
+        Израильтян, искать Давида в пустыне Зиф.
+      serbian: А Саул се подиже и сиђе у пустињу Зифску, и с њим три тисуће људи
+        изабранијех из Израиља, да тражи Давида у пустињи Зифској.
+      bulgarian: Тогава Саул стана, спусна се в пустиня Зиф, и с него три хиляди отбор
+        мъже израилски, да търси Давида в пустиня Зиф.
+      deutsch: Da machte sich Saul auf und zog herab zur Wüste Siph und mit ihm
+        dreitausend junger Mannschaft in Israel, daß er David suchte in der
+        Wüste Siph,
+      ukr2: Зібрався Саул і з трьома тисячами чоловік, найдобірнішими з Ізраїля, пішов
+        у Зіф-пустиню шукати там Давида.
+      ukr3: І зладивсь Саул із трьома тисячами чоловіка вибраних з Ізраїля у
+        Зуф-пустиню, шукати Давида в пустинї Зуф.
+      bel_syomukha: І ўстаў Саўл і спусьціўся ў пустыню Зіф, і зь ім тры тысячы
+        выбраных мужчын Ізраільскіх, каб шукаць Давіда ў пустыні Зіф.
+      lev-khv: Тогда встал Саул и спустился в пустыню Зиф, и с ним три тысячи человек
+        отборных Израильтян, чтобы искать Давида в пустыне Зиф.
+      czech: Saul hned sestoupil do pouste Zifu se tremi tisici muzi vybranymi z
+        Izraele, aby v pousti Zifu hledal Davida.
+      spanish: y Levantándose, bajó al desierto de Zif, llevando consigo tres mil
+        hombres, escogidos de Israel, al desierto de Zif, en busca de David.
+      greek-lxx: καὶ ἀνέστη Σαουλ καὶ κατέβη εἰς τὴν ἔρημον Ζιφ καὶ μετ᾿ αὐτοῦ τρεῖς
+        χιλιάδες ἀνδρῶν ἐκλεκτοὶ ἐξ Ισραηλ ζητεῖν τὸν Δαυιδ ἐν τῇ ἐρήμῳ Ζιφ
+      st_text: И встал Саул и спустился в пустыню Зиф, и с ним три тысячи отборных
+        мужей Израильских, чтоб искать Давида в пустыне Зиф.
+  - id: 555
+    number: 3
+    bookId: 9
+    text: И расположился Саул на холме Гахила, что направо от Иесимона, при дороге;
+      Давид же находился в пустыне и видел, что Саул шел за ним в пустыню;
+    chapter: 26
+    chapterId: 262
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И ополчися саул на холме ехелаф иже прямо иессемону при пути, давид же
+        седяше в пустыни. И виде давид, яко идет саул вслед его в пустыню,
+      averincev: ""
+      ungerov: ""
+      csya_old: И# њполчи1сz саyлъ на холмЁ є3хелafъ и4же прsмw їессемо1ну при пути2,
+        давjдъ же сэдsше въ пусты1ни. И# ви1дэ давjдъ, ћкw и4детъ саyлъ в8слёдъ
+        є3гw2 въ пусты1ню,
+      sovr_rbo: Саул разбил лагерь на холме Хахила, что на краю Иешимонской пустыни,
+        рядом с дорогой. Давид, находясь в пустыне, узнал, что Саул пришел туда
+        за ним.
+      latin: "Et castrametatus est Saul in Gabaa Hachila, quae erat ex adverso
+        solitudinis in via: David autem habitabat in deserto. Videns autem quod
+        venisset Saul post se in desertum,"
+      ukr: І таборував Саул на згір'ї Гахіли, що навпроти Єшімону, на дорозі. А Давид
+        пробував у пустині, і побачив, що Саул вийшов за ним до пустині.
+      nkjv: And Saul encamped in the hill of Hachilah, which is opposite Jeshimon, by
+        the road. But David stayed in the wilderness, and he saw that Saul came
+        after him into the wilderness.
+      desnitsky: Саул встал лагерем на холме Хахила возле Ешимона, у дороги. Давид же
+        оставался в пустыне, и он увидел, что Саул разыскивает его там.
+      mt: ‫   וַיִּחַן שָׁאוּל בְּגִבְעַת הַחֲכִילָה אֲשֶׁר עַל־פְּנֵי הַיְשִׁימֹן
+        עַל־הַדָּרֶךְ וְדָוִד יֹשֵׁב בַּמִּדְבָּר וַיַּרְא כִּי בָא שָׁאוּל
+        אַחֲרָיו הַמִּדְבָּרָה׃ ‬
+      romana: Saul si-a asezat tabara pe muntele Hachila, care vine in fata
+        Iesimonului, langa drum; iar David se afla in pustiu si vedea ca Saul
+        merge dupa el in pustiu.
+      francais: Il campa sur la colline de Hakila, en face du désert, près du chemin.
+        David était dans le désert; et s'étant aperçu que Saül marchait à sa
+        poursuite au désert,
+      italian: Saul si accampò sull'altura di Cachilà di fronte al deserto presso la
+        strada mentre Davide si trovava nel deserto. Quando si accorse che Saul
+        lo inseguiva nel deserto,
+      old_georgian: მოვიდა და დაიბანაკა ბორცუსა მის თანა ექელაკიას, რომელ არს წინაშე
+        პირსა ესემონისასა, მახლობელად გზასა მას. და დავით ჯდა უდაბნოსა მას და
+        ვითარცა ესმა დავითს, ვითარმედ საულ მოსულ არს ერითურთ ძიებად დავითისა,
+      portuguese: "E acampou-se Saul no outeiro de Haquilá, defronte de Jesimom, junto
+        ao caminho; porém Davi ficou no deserto, e\rpercebendo que Saul vinha
+        após ele ao deserto,"
+      polish: "Saul rozbił obóz na wzgórzu Chakila, na krańcu stepu obok drogi, Dawid
+        zaś\rprzebywał na pustkowiu. Kiedy zauważył, że Saul przybył za nim na
+        pustkowie,"
+      turkish: Yeşimon'a bakan Hakila Tepesi'nde, yol kenarında ordugah kurdu. Kırda
+        bulunan Davut, Saul'un peşine düştüğünü anlayınca,
+      nrt: Саул разбил свой лагерь рядом с дорогой на холм Гахила, что напротив
+        Иешимона, но Давид стоял в пустыне. Когда он увидел, что Саул последовал
+        за ним туда,
+      Macarius: И расположился Саул шатрами на холме Гахиле, который подле пустыни, у
+        дороги. Давид находился в пустыне, и увидев, что Саул пришел за ним в
+        пустыню,
+      serbian: "И стаде Саул у око на брду Ехели према Гесимону крај пута: А Давид
+        оста у пустињи и опази да Саул иде за њим у пустињу."
+      bulgarian: И Саул се разположи на хълма Хахил, надясно от Иесимон, до пътя; а
+        Давид, който се намираше в пустинята, видя, че Саул идеше подире му в
+        пустинята;
+      deutsch: und lagerte sich auf dem Hügel Hachila, der vor der Wüste liegt am
+        Wege. David aber blieb in der Wüste. Und da er merkte, daß Saul ihm
+        nachkam in die Wüste,
+      ukr2: Саул отаборився на Хахіла-горбі, що на краю пустині, при дорозі, а Давид
+        сидів у пустині. Побачивши ж, що Саул прийшов за ним у пустиню,
+      ukr3: І отаборився Саул на горі Гахилї, що лежить перед пустинею при дорозї.
+        Давид же находивсь у пустинї, і видїв, що Саул прийшов за ним в пустиню,
+      bel_syomukha: І атабарыўся Саўл на пагорку Гахіла, што направа ад Есімона, каля
+        дарогі; а Давід быў у пустыні і бачыў, што Саўл ішоў за ім у пустыню;
+      lev-khv: И расположился станом Саул на холме Гахила, чтó против Иесимона, подле
+        дороги; а Давид находился в пустыне и видел, как пришел Саул за ним в
+        пустыню.
+      czech: Saul se utaboril na pahorku Chakile, ktery je pri ceste naproti pousti
+        Jesimonu. David, ktery se usadil v pousti, videl, ze Saul pritahl do
+        pouste za nim.
+      spanish: Acampó Saúl sobre la colina de Jaquila, frente al desierto, junto al
+        camino. David andaba por el desierto. Sabiendo David que había venido
+        Saúl al desierto en busca suya,
+      greek-lxx: καὶ παρενέβαλεν Σαουλ ἐν τῷ βουνῷ τοῦ Εχελα ἐπὶ προσώπου τοῦ
+        Ιεσσαιμουν ἐπὶ τῆς ὁδοῦ καὶ Δαυιδ ἐκάθισεν ἐν τῇ ἐρήμῳ καὶ εἶδεν Δαυιδ
+        ὅτι ἥκει Σαουλ ὀπίσω αὐτοῦ εἰς τὴν ἔρημον
+      st_text: И расположился Саул на холме Гахила, что направо от Иесимона, при
+        дороге; Давид же находился в пустыне и видел, что Саул шел за ним в
+        пустыню;
+  - id: 556
+    number: 4
+    bookId: 9
+    text: и послал Давид соглядатаев и узнал, что Саул действительно пришел [из
+      Кеиля].
+    chapter: 26
+    chapterId: 262
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и посла давид соглядатаи, и разуме, яко идет саул готов из кеиля:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 послA давjдъ соглzд†таи, и3 разумЁ, ћкw и4детъ саyлъ гото1въ и3з8
+        кеjлz:"
+      sovr_rbo: Послав разведчиков, Давид убедился, что Саул действительно рядом.
+      latin: misit exploratores, et didicit quod illuc venisset certissime.
+      ukr: І послав Давид підглядачів, і довідався, що Саул дійсно прийшов.
+      nkjv: David therefore sent out spies, and understood that Saul had indeed come.
+      desnitsky: Давид отправил лазутчиков и так вызнал, что Саул действительно пришел.
+      mt: ‫   וַיִּשְׁלַח דָּוִד מְרַגְּלִים וַיֵּדַע כִּי־בָא שָׁאוּל אֶל־נָכוֹן׃ ‬
+      romana: Deci a trimis David iscoade si a aflat ca Saul venise cu adevarat din
+        Cheila.
+      francais: il envoya des espions, et apprit avec certitude que Saül était arrivé.
+      italian: Davide mandò alcune spie ed ebbe conferma che Saul era arrivato davvero.
+      old_georgian: გუშაგნი წარავლინნა დავით ხილვად, თუ ნანდვილ მოსულ არს საულ კეილად.
+      portuguese: enviou espias, e certificou-se de que Saul tinha chegado.
+      polish: posłał wywiadowców i przekonał się, że Saul na pewno przybył.
+      turkish: gözcü gönderdi. Böylece Saul'un oraya geldiğini saptadı.
+      nrt: он послал лазутчиков и узнал, что Саул действительно пришел.
+      Macarius: Послал Давид соглядатаев и узнал, что точно пришел Саул.
+      serbian: И посла Давид уходе и од њих дозна зацијело да је дошао Саул.
+      bulgarian: и Давид прати съгледвачи и узна, че Саул наистина е дошъл от Кеил.
+      deutsch: sandte er Kundschafter aus und erfuhr, daß Saul gewiß gekommen wäre.
+      ukr2: вислав Давид вивідачів і довідався, що Саул справді прибув.
+      ukr3: І вислав Давид вивідачів, та й довідався, що Саул справдї прибув.
+      bel_syomukha: і паслаў Давід віжоў і даведаўся, што Саўл сапраўды прыйшоў з Кэіля.
+      lev-khv: И послал Давид соглядатаев, и узнал, что действительно пришел туда Саул.
+      czech: David totiz vyslal zvedy a zjistil, ze Saul opravdu pritahl.
+      spanish: mandó espías que le informaron que Saúl venía por el camino de Queila.
+      greek-lxx: καὶ ἀπέστειλεν Δαυιδ κατασκόπους καὶ ἔγνω ὅτι ἥκει Σαουλ ἕτοιμος ἐκ Κεϊλα
+      st_text: и послал Давид соглядатаев и узнал, что Саул действительно пришел [из
+        Кеиля].
+  - id: 557
+    number: 5
+    bookId: 9
+    text: И встал Давид [тайно] и пошел к месту, на котором Саул расположился
+      станом, и увидел Давид место, где спал Саул и Авенир, сын Ниров,
+      военачальник его. Саул же спал в шатре, а народ расположился вокруг него.
+    chapter: 26
+    chapterId: 262
+    parallels:
+      - verseId: 168
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 14
+        short: 1 Цар:14:50
+      - verseId: 283
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 17
+        short: 1 Цар:17:55
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и воста давид отай, и вниде в место, идеже почиваше саул, и тамо бяше
+        авенир сын ниров, первый воевода его, и саул спаше в колеснице царстей,
+        и людие ополчившеся окрест его.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 востA давjдъ њ1тай, и3 вни1де въ мёсто, и3дёже почивaше саyлъ, и3
+        тaмw бsше ґвени1ръ сы1нъ ни1ровъ, пе1рвый воево1да є3гw2, и3 саyлъ спaше
+        въ колесни1цэ цaрстэй, и3 лю1діе њполчи1вшесz њ1крестъ є3гw2.
+      sovr_rbo: Тогда Давид подошел к месту стоянки Саула и разглядел, где ложится на
+        ночь сам Саул и где ложится его военачальник Авнер, сын Нера. Лагерь
+        Саула был окружен поставленными по кругу повозками; вокруг Саула
+        располагались его люди.
+      latin: "Et surrexit David clam, et venit ad locum ubi erat Saul: cumque vidisset
+        locum in quo dormiebat Saul, et Abner filius Ner, princeps militiae
+        ejus, et Saulem dormientem in tentorio, et reliquum vulgus per circuitum
+        ejus,"
+      ukr: А Давид устав, і прийшов до місця, де таборував Саул. І Давид побачив те
+        місце, де лежав Саул та Авнер, син Нерів, керівник його війська. А Саул
+        лежав у таборі, а народ таборував навколо нього.
+      nkjv: So David arose and came to the place where Saul had encamped. And David
+        saw the place where Saul lay, and Abner the son of Ner, the commander of
+        his army. Now Saul lay within the camp, with the people encamped all
+        around him.
+      desnitsky: "Тогда Давид отправился к тому месту, где встал лагерем Саул. Давид
+        высмотрел, в каком месте ночевал Саул и Авнер, сын Нера, его
+        военачальник: Саул ночевал в центре лагеря, а войско расположилось
+        вокруг него."
+      mt: ‫   וַיָּקָם דָּוִד וַיָּבֹא אֶל־הַמָּקוֹם אֲשֶׁר חָנָה־שָׁם שָׁאוּל
+        וַיַּרְא דָּוִד אֶת־הַמָּקוֹם אֲשֶׁר שָׁכַב־שָׁם שָׁאוּל וְאַבְנֵר
+        בֶּן־נֵר שַׂר־צְבָאוֹ וְשָׁאוּל שֹׁכֵב בַּמַּעְגָּל וְהָעָם חֹנִים
+        *סביבתו **סְבִיבֹתָיו׃ ‬
+      romana: Si sculandu-se David pe ascuns, s-a dus la locul unde se asezase Saul cu
+        tabara si a vazut David locul unde dormea Saul si Abner, fiul lui Ner,
+        capetenia ostirii lui. Saul insa dormea in cort, iar ostenii erau
+        asezati imprejurul lui.
+      francais: Alors David se leva et vint au lieu où Saül était campé, et il vit la
+        place où couchait Saül, avec Abner, fils de Ner, chef de son armée. Saül
+        couchait au milieu du camp, et le peuple campait autour de lui.
+      italian: Allora Davide si alzò e venne al luogo dove era giunto Saul; là Davide
+        notò il posto dove dormivano Saul e Abner figlio di Ner, capo
+        dell'esercito di lui. Saul riposava tra i carriaggi e la truppa era
+        accampata all'intorno.
+      old_georgian: და აღდგა დავით ფარულად და მოვიდა საულისა. და მას ეძინა და აბენერს,
+        ძესა ნერისსა, ერისთავსა მას მისსა, და სანთელი ერთი ენთებოდა წინაშე
+        მისსა. და ერი იგი ყოველი წვა გარემოს მისა.
+      portuguese: "Então Davi levantou-se e foi ao lugar onde Saul se tinha acampado;
+        viu Davi o lugar onde se deitavam Saul e\rAbner, filho de Ner, chefe do
+        seu exército. E Saul estava deitado dentro do acampamento, e o povo
+        estava\racampado ao redor dele."
+      polish: "Dawid więc niezwłocznie udał się na miejsce, gdzie obozował Saul.
+        Dawid\rspostrzegł miejsce, gdzie Saul spoczywał wraz z dowódcą wojsk
+        Abnerem,\rsynem Nera: Saul leżał w środku obozowiska, a ludzie pokładli
+        się wokół niego."
+      turkish: Bunun üzerine Davut, Saul'un ordugah kurduğu yere gitti ve Saul'la
+        ordusunun başkomutanı Ner oğlu Avner'in nerede yattıklarını gördü. Saul
+        ordugahın ortasında, askerler de çevresinde yatıyorlardı.
+      nrt: Давид отправился в путь и пришел туда, где разбил свой лагерь Саул. Он
+        увидел, где Саул и начальник войска Авнер, сын Нира, легли спать. Саул
+        лежал в центре того места, где расположился лагерь, а войско находилось
+        вокруг него.
+      Macarius: И встал Давид, и пошел к тому месту, где Саул расположился шатрами, и
+        увидел Давид место, на котором спал Саул и Авнер, сын Нера, военачальник
+        его. Саул спал в средине обоза, а народ стоял шатрами вокруг его.
+      serbian: Тада се подиже Давид и дође на мјесто гдје Саул бијаше с војском. И
+        Давид видје мјесто гдје спаваше Саул и Авенир, син Ниров, војвода његов;
+        а спаваше Саул међу колима, а народ лежаше око њега.
+      bulgarian: И стана Давид (тайно) и отиде на мястото, дето Саул се бе разположил
+        на стан, и видя Давид мястото, дето спеше Саул и военачалникът му
+        Авенир, син Ниров. Саул спеше в шатрата, а народът се бе разположил
+        около него.
+      deutsch: Und David machte sich auf und kam an den Ort, da Saul sein Lager hielt,
+        und sah die Stätte, da Saul lag mit seinem Feldhauptmann Abner, dem Sohn
+        des Ners. (Denn Saul lag in der Wagenburg und das Heervolk um ihn her.)
+      ukr2: "Устав тоді він і прийшов на місце, де Саул отаборився. Бачив Давид те
+        місце, де спав Саул і Авнер, син Нера, начальник його війська: Саул спав
+        серед табору, а люди порозлягались круг нього."
+      ukr3: І встав Давид та й прийшов тайком на те місце, де Саул отаборивсь, і бачив
+        Давид те місце, де спав Саул і Авенир, син Нирів, гетьман його; спав же
+        Саул в шатрі, а люде розложились кругом його.
+      bel_syomukha: І ўстаў Давід і пайшоў да месца, на якім Саўл атабарыўся, і ўбачыў
+        Давід месца, дзе спаў Саўл і Авэнір, сын Ніраў, ваеначальнік ягоны. А
+        Саўл спаў у намёце, а народ разьмясьціўся вакол яго.
+      lev-khv: Потом встал Давид, и пришел к тому месту, где Саул расположился станом,
+        и осмотрел Давид место, где спал Саул и Авенир, сын Нира, начальник
+        войска его. Саул же спал в средине стана; а народ разместился вокруг
+        него.
+      czech: Odebral se tedy na misto, kde se Saul utaboril. David uvidel misto, kde
+        lezel Saul i Abner, syn Neruv, velitel jeho vojska. Saul spal v lezeni a
+        lid taboril kolem neho.
+      spanish: Levantóse y fue al campo donde acampaba Saúl y exploró el lugar donde
+        dormía con Abner, hijo de Ner, jefe de su ejército. Dormía Saúl en la
+        barricada, en derredor de la cual acampaba la gente.
+      greek-lxx: καὶ ἀνέστη Δαυιδ λάθρᾳ καὶ εἰσπορεύεται εἰς τὸν τόπον οὗ ἐκάθευδεν
+        ἐκεῖ Σαουλ καὶ ἐκεῖ Αβεννηρ υἱὸς Νηρ ἀρχιστράτηγος αὐτοῦ καὶ Σαουλ
+        ἐκάθευδεν ἐν λαμπήνῃ καὶ ὁ λαὸς παρεμβεβληκὼς κύκλῳ αὐτοῦ
+      st_text: И встал Давид [тайно] и пошел к месту, на котором Саул расположился
+        станом, и увидел Давид место, где спал Саул и Авенир, сын Ниров,
+        военачальник его. Саул же спал в шатре, а народ расположился вокруг
+        него.
+  - id: 558
+    number: 6
+    bookId: 9
+    text: "И обратился Давид и сказал Ахимелеху Хеттеянину и Авессе, сыну Саруину,
+      брату Иоава, говоря: кто пойдет со мною к Саулу в стан? И отвечал Авесса:
+      я пойду с тобою."
+    chapter: 26
+    chapterId: 262
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И отвеща давид и рече ко авимелеху хеттеину и ко авессе сыну саруину
+        брату иоавлю, глаголя: кто внидет со мною к саулу в полк? И рече авесса:
+        аз вниду с тобою."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# tвэщA давjдъ и3 рече2 ко ґвімеле1ху хетте1ину и3 ко ґве1ссэ сы1ну
+        сарyину брaту їwaвлю, глаго1лz: кто2 вни1детъ со мно1ю къ саyлу въ
+        по1лкъ; И# рече2 ґве1сса: ѓзъ вни1ду съ тобо1ю."
+      sovr_rbo: "Давид сказал Ахимелеху-хетту и Авишаю, сыну Церуи, брату Иоава: «Кто
+        пойдет со мной в стан к Саулу?» — «Я пойду с тобой», — ответил Авишай."
+      latin: "ait David ad Achimelech Hethaeum, et Abisai filium Sarviae, fratrem
+        Joab, dicens: Quis descendet mecum ad Saul in castra? Dixitque Abisai:
+        Ego descendam tecum."
+      ukr: "І звернувся Давид, і сказав до хіттеянина Ахімелеха та до Авішая,
+        Церуєвого сина, Йоавого брата, говорячи: Хто зійде зо мною до Саула до
+        табору? І сказав Авішай: Я зійду з тобою!"
+      nkjv: Then David answered, and said to Ahimelech the Hittite and to Abishai the
+        son of Zeruiah, brother of Joab, saying, "Who will go down with me to
+        Saul in the camp?" And Abishai said, "I will go down with you."
+      desnitsky: "Давид обратился к Ахимелеху хиттиту и к Авишаю, сыну Церуйи и брату
+        Йоава: «Кто отправится со мной в лагерь?» Отозвался Авишай: «Я пойду с
+        тобой!»"
+      mt: ‫   וַיַּעַן דָּוִד וַיֹּאמֶר אֶל־אֲחִימֶלֶךְ הַחִתִּי וְאֶל־אֲבִישַׁי
+        בֶּן־צְרוּיָה אֲחִי יוֹאָב לֵאמֹר מִי־יֵרֵד אִתִּי אֶל־שָׁאוּל
+        אֶל־הַמַּחֲנֶה וַיֹּאמֶר אֲבִישַׁי אֲנִי אֵרֵד עִמָּךְ׃ ‬
+      romana: 'Apoi intorcandu-se, David a grait cu Ahimelec Heteul si cu Abisai, fiul
+        lui Teruia, fratele lui Ioab, si a zis: "Cine merge cu mine la Saul in
+        tabara?" Raspuns-a Abisai: "Eu merg cu tine".'
+      francais: "David prit la parole, et s'adressant à Achimélec, Héthien, et à
+        Abischaï, fils de Tseruja et frère de Joab, il dit: Qui veut descendre
+        avec moi dans le camp vers Saül? Et Abischaï répondit: Moi, je
+        descendrai avec toi."
+      italian: "Davide si rivolse ad Achimelech, l'Hittita e ad Abisài, figlio di
+        Zeruià, fratello di Ioab, dicendo: \"Chi vuol scendere con me da Saul
+        nell'accampamento?\". Rispose Abisài: \"Scenderò io con te\"."
+      old_georgian: "მიუგო დავით და ჰრქვა აბიმელექს ქეტელსა და აბესეს, ძესა
+        შარუელისასა, ძმასა მას იოაბისსა: ვინ შემოვიდეს ჩემ თანა ბანაკსა მას
+        საულისასა? და ჰრქუა აბესა დავითს: მე შემოვიდე შენ თანა."
+      portuguese: "Então Davi, dirigindo-se a Aimeleque, o heteu, e a Abisai, filho de
+        Zeruia, irmão de Joabe, perguntou: Quem\rdescerá comigo a Saul, ao
+        arraial? Respondeu Abisai: Eu descerei contigo."
+      polish: "Zwrócił się Dawid do Achimeleka Chetyty i do Abiszaja, syna Serui, a
+        brata\rJoaba, z pytaniem: ”Kto podejdzie ze mną do obozu Saulowego?”
+        Abiszaj\rodparł: ”Ja z tobą pójdę”."
+      turkish: "O zaman Davut, Hititli Ahimelek ile Yoav'ın kardeşi, Seruya oğlu
+        Avişay'a, «Kim benimle ordugaha, Saul'un yanına gelecek?» diye
+        sordu.\rAvişay, «Ben seninle geleceğim» diye karşılık verdi."
+      nrt: "Давид спросил хетта Ахимелеха и Авишая, брата Иоава, сына Саруи: − Кто
+        спустится вместе со мной в лагерь к Саулу? − Я спущусь с тобой, − сказал
+        Авишай."
+      Macarius: "Давид сказал потом Ахимелеху Хеттеянину и Авишаю, сыну Церуи, брату
+        Иоава: кто пойдет со мною к Саулу в стан? Авишай сказал: я пойду с
+        тобою."
+      serbian: "И Давид проговори и рече Ахимелеху Хетејину и Ависају, сину Серујину,
+        брату Јоавову: Ко ће сићи са мном к Саулу у око? А Ависај одговори: Ја
+        ћу сићи с тобом."
+      bulgarian: "Давид се обърна и рече на хетееца Ахимелеха и на Авеса, син на
+        Саруя, Иоавов брат, като каза: кой ще дойде с мене при Саула в стана?
+        Авеса отговори: аз ще дойда с тебе."
+      deutsch: "Da antwortete David und sprach zu Ahimelech, dem Hethiter, und zu
+        Abisai, dem Sohn der Zeruja, dem Bruder Joabs: Wer will mit mir hinab zu
+        Saul ins Lager? Abisai sprach: Ich will mit dir hinab."
+      ukr2: "Давид звернувсь до Ахімелеха, хеттита, та до Авішая, сина Церуї, брата
+        Йоава, кажучи: «Хто піде зо мною до Саула в табір?» І каже Авішай: «Я
+        піду з тобою!»"
+      ukr3: "І обернувсь Давид і сказав Ахимелехові Гетієві та Абессї-Зеруленкові,
+        братові Йоабовому: Хто пробереться зо мною до Саула в табір? І каже
+        Абесса: Я проберусь із тобою."
+      bel_syomukha: "І зьвярнуўся Давід і сказаў Авімэлэху Хэтэяніну і Авэсу, сыну
+        Саруінаму, брату Ёава, кажучы: хто пойдзе са мною да Саўла ў табар? І
+        адказаў Авэса: я пайду з табою."
+      lev-khv: "Давид завел речь и сказал Ахимелеху, Хеттеянину, и Авессе, сыну Серуи,
+        брату Иоава, следующее: кто пойдет со мною к Саулу в стан? И отвечал
+        Авесса: я пойду с тобою."
+      czech: 'David vyzval Chetejce Achimeleka a Abisaje, syna Serujina, bratra
+        Joabova: "Kdo se mnou sestoupi k Saulovi do tabora?" Abisaj rekl: "Ja s
+        tebou sestoupim."'
+      spanish: "Dirigiéndose, pues, a Ajimelec, jeteo, y a Abisaí, hijo de Sarvia,
+        hermano de Joab, les dijo: << ¿Quién baja conmigo al campo de Saúl?>>
+        Abisaí contestó: <<Yo bajaré contigo>>."
+      greek-lxx: καὶ ἀπεκρίθη Δαυιδ καὶ εἶπεν πρὸς Αχιμελεχ τὸν Χετταῖον καὶ πρὸς
+        Αβεσσα υἱὸν Σαρουιας ἀδελφὸν Ιωαβ λέγων τίς εἰσελεύσεται μετ᾿ ἐμοῦ πρὸς
+        Σαουλ εἰς τὴν παρεμβολήν καὶ εἶπεν Αβεσσα ἐγὼ εἰσελεύσομαι μετὰ σοῦ
+      st_text: "И обратился Давид и сказал Ахимелеху Хеттеянину и Авессе, сыну
+        Саруину, брату Иоава, говоря: кто пойдет со мною к Саулу в стан? И
+        отвечал Авесса: я пойду с тобою."
+  - id: 559
+    number: 7
+    bookId: 9
+    text: И пришел Давид с Авессою к людям [Сауловым] ночью; и вот, Саул лежит, спит
+      в шатре, и копье его воткнуто в землю у изголовья его; Авенир же и народ
+      лежат вокруг него.
+    chapter: 26
+    chapterId: 262
+    parallels:
+      - verseId: 4296
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 23
+        short: 2 Цар:23:18
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И внидоста давид и авесса в люди нощию: и се, саул спяй сном в колеснице
+        царстей, и копие его водружено в землю при главе его, авенир же и воини
+        его спаху окрест его."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# внидо1ста давjдъ и3 ґве1сса въ лю1ди но1щію: и3 се2, саyлъ спsй
+        сно1мъ въ колесни1цэ цaрстэй, и3 копіе2 є3гw2 водруже1но въ зе1млю при
+        главЁ є3гw2, ґвени1ръ же и3 во1ини є3гw2 спaху њ1крестъ є3гw2."
+      sovr_rbo: Ночью Давид и Авишай пробрались в стан израильского войска и нашли
+        Саула. Он спал, у изголовья было воткнуто в землю его копье. Авнер и
+        воины лежали вокруг него.
+      latin: "Venerunt ergo David et Abisai ad populum nocte, et invenerunt Saul
+        jacentem et dormientem in tentorio, et hastam fixam in terra ad caput
+        ejus: Abner autem et populum dormientes in circuitu ejus."
+      ukr: І прийшов Давид та Авішай до Саулового народу вночі, аж ось Саул лежить,
+        спить у таборі, а спис його встромлений у землю в приголів'ї його, а
+        Авнер та народ лежать навколо нього.
+      nkjv: So David and Abishai came to the people by night; and there Saul lay
+        sleeping within the camp, with his spear stuck in the ground by his
+        head. And Abner and the people lay all around him.
+      desnitsky: Давид с Авишаем отправились ночью прямо к войску Саула, а сам он
+        ночевал в середине лагеря. Его копье было воткнуто в землю у его
+        изголовья, а всё войско во главе с Авнером расположилось вокруг него.
+      mt: ‫   וַיָּבֹא דָוִד וַאֲבִישַׁי אֶל־הָעָם לַיְלָה וְהִנֵּה שָׁאוּל שֹׁכֵב
+        יָשֵׁן בַּמַּעְגָּל וַחֲנִיתוֹ מְעוּכָה־בָאָרֶץ *מראשתו **מְרַאֲשֹׁתָיו
+        וְאַבְנֵר וְהָעָם שֹׁכְבִים *סביבתו **סְבִיבֹתָיו׃ ס ‬
+      romana: Si au venit David si Abisai la oamenii lui Saul, noaptea. Saul era
+        culcat si dormea in cort; sulita lui era infipta in pamant la capataiul
+        lui; iar Abner si ostenii dormeau imprejurul lui.
+      francais: David et Abischaï allèrent de nuit vers le peuple. Et voici, Saül
+        était couché et dormait au milieu du camp, et sa lance était fixée en
+        terre à son chevet. Abner et le peuple étaient couchés autour de lui.
+      italian: Da — vide e Abisài scesero tra quella gente di notte ed ecco Saul
+        giaceva nel sonno tra i carriaggi e la sua lancia era infissa a terra a
+        capo del suo giaciglio mentre Abner con la truppa dormiva all'intorno.
+      old_georgian: და შევიდეს დავით და აბესა შორის ბანაკსა მას საულისასა ღამე, და
+        საულს ეძინა და სანთელი და ჰოროლი დგა წინაშე მისსა, და აბენეზერს და
+        ყოველსა ერსა მისსა ეძინა გარემოს მისსა.
+      portuguese: "Foram, pois, Davi e Abisai de noite ao povo; e eis que Saul estava
+        deitado, dormindo dentro do acampamento, e a\rsua lança estava pregada
+        na terra à sua cabeceira; e Abner e o povo estavam deitados ao redor
+        dele."
+      polish: "Dawid wraz z Abiszajem zakradli się w nocy do obozu; Saul właśnie spał
+        w\rśrodku obozowiska, a jego dzida była wbita w ziemię obok głowy. Abner
+        i\rludzie leżeli uśpieni dokoła niego."
+      turkish: ""
+      nrt: "Давид и Авишай пришли к войску ночью и видят: Саул спит в лагере, а его
+        копье воткнуто в землю у его изголовья. Авнер и воины лежали вокруг
+        него."
+      Macarius: И пошел Давид и Авишай к людям ночью, и вот, Саул лежит сонный среди
+        обоза, и копье его воткнуто в землю у изголовья его, а Авнер и народ
+        лежали вокруг его.
+      serbian: И тако Давид и Ависај дођоше ноћу к народу; а гле, Саул лежаше и
+        спаваше између кола, и копље му бјеше чело главе пободено у земљу;
+        Авенир пак и народ лежаху око њега.
+      bulgarian: Давид дойде с Авеса при людете (Саулови) нощя; и ето, Саул лежи
+        заспал в шатрата, и копието му забито в земята при възглавието му; а
+        Авенир и народът лежат около него.
+      deutsch: Also kam David und Abisai zum Volk des Nachts. Und siehe, Saul lag und
+        schlief in der Wagenburg, und sein Spieß steckte in der Erde zu seinen
+        Häupten; Abner aber und das Volk lag um ihn her.
+      ukr2: Прийшли Давид і Авішай І уночі до війська; Саул же лежав посеред табору в
+        сні, а спис його стремить у землі в головах у нього. Авнер же й люди
+        лежать навколо нього.
+      ukr3: Як же пробрались у ночі Давид з Абессою до людей (Саулових), аж лежить
+        Саул у снї, а спис його стремить у землї в головах у його; Абенир же й
+        люде лежать навкруги його.
+      bel_syomukha: "І прыйшоў Давід з Авэсам да людзей Саўлавых уначы; і вось, Саўл
+        ляжыць, сьпіць у намёце, і дзіда ягоная ўваткнутая ў зямлю каля галавы
+        ягонай: а Авэнір і людзі ляжаць вакол яго."
+      lev-khv: И так пришел Давид с Авессою к народу ночью; и вот, Саул лежит и спит в
+        средине стана, и копье его воткнуто в землю подле изголовья его; Авенир
+        же и народ спят вокруг него.
+      czech: Tak vnikl David s Abisajem v noci mezi lid, a hle, Saul lezi, spi v
+        lezeni a jeho kopi je zabodnuto do zeme v hlavach loze; Abner a lid
+        lezeli kolem neho.
+      spanish: Llegaron David y Abisaí y encontraron a Saúl durmiendo en el medio del
+        campamento, con la lanza clavada en tierra, junto a la cabecera. Abner y
+        la gente dormía en torno de él.
+      greek-lxx: καὶ εἰσπορεύεται Δαυιδ καὶ Αβεσσα εἰς τὸν λαὸν τὴν νύκτα καὶ ἰδοὺ
+        Σαουλ καθεύδων ὕπνῳ ἐν λαμπήνῃ καὶ τὸ δόρυ ἐμπεπηγὸς εἰς τὴν γῆν πρὸς
+        κεφαλῆς αὐτοῦ καὶ Αβεννηρ καὶ ὁ λαὸς αὐτοῦ ἐκάθευδεν κύκλῳ αὐτοῦ
+      st_text: И пришел Давид с Авессою к людям [Сауловым] ночью; и вот, Саул лежит,
+        спит в шатре, и копье его воткнуто в землю у изголовья его; Авенир же и
+        народ лежат вокруг него.
+  - id: 560
+    number: 8
+    bookId: 9
+    text: "Авесса сказал Давиду: предал Бог ныне врага твоего в руки твои; итак
+      позволь, я пригвожду его копьем к земле одним ударом и не повторю
+      <i>удара</i>."
+    chapter: 26
+    chapterId: 262
+    parallels:
+      - verseId: 490
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 24
+        short: 1 Цар:24:5
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И рече авесса к давиду: заключи Господь днесь врага твоего в руце твои, и
+        ныне поражу его копием в землю единожды, и не повторю ему."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 ґве1сса къ давjду: заключи2 гDь дне1сь врагA твоего2 въ рyцэ
+        твои2, и3 нн7э поражY є3го2 копіе1мъ въ зе1млю є3ди1ножды, и3 не
+        повторю2 є3мY."
+      sovr_rbo: "Авишай сказал Давиду: «Сегодня Бог отдает твоего врага тебе в руки.
+        Одним ударом копья я могу пригвоздить его к земле. Второго удара не
+        понадобится!»"
+      latin: "Dixitque Abisai ad David: Conclusit Deus inimicum tuum hodie in manus
+        tuas: nunc ergo perfodiam eum lancea in terra, semel, et secundo opus
+        non erit."
+      ukr: "І сказав Авішай до Давида: Сьогодні Бог видав твого ворога в руку твою, а
+        тепер проколю я його списом аж до землі одним ударом, і не повторю
+        йому!"
+      nkjv: Then Abishai said to David, "God has delivered your enemy into your hand
+        this day. Now therefore, please, let me strike him at once with the
+        spear, right to the earth; and I will not have to strike him a second
+        time!"
+      desnitsky: "Авишай сказал Давиду: «Ныне предал Бог врага твоего в руки твои!
+        Позволь же мне пригвоздить его к земле одним ударом, и не понадобится
+        мне второй»."
+      mt: ‫   וַיֹּאמֶר אֲבִישַׁי אֶל־דָּוִד סִגַּר אֱלֹהִים הַיּוֹם אֶת־אוֹיִבְךָ
+        בְּיָדֶךָ וְעַתָּה אַכֶּנּוּ נָא בַּחֲנִית וּבָאָרֶץ פַּעַם אַחַת וְלֹא
+        אֶשְׁנֶה לוֹ׃ ‬
+      romana: 'Atunci Abisai a zis lui David: "Acum Dumnezeu a dat pe vrajmasul tau in
+        mainile tale; ingaduie-mi deci sa-l pironesc de pamant cu sulita dintr-o
+        singura lovitura".'
+      francais: "Abischaï dit à David: Dieu livre aujourd'hui ton ennemi entre tes
+        mains; laisse-moi, je te prie, le frapper de ma lance et le clouer en
+        terre d'un seul coup, pour que je n'aie pas à y revenir."
+      italian: "Abisài disse a Davide: \"Oggi Dio ti ha messo nelle mani il tuo
+        nemico. Lascia dunque che io l'inchiodi a terra con la lancia in un sol
+        colpo e non aggiungerò il secondo\"."
+      old_georgian: "მიუგო აბესა დავითს და ჰრქუა: დღეს შემოაწყუდინა უფალმან მტერნი
+        შენნი ჴელთა შენთა, ვსცე და მოვკლა იგი ჰოროლითავე მისითა, და დავმსჭვალო
+        იგი ქუეყანასა ზედა."
+      portuguese: "Então disse Abisai a Davi: Deus te entregou hoje nas mãos o teu
+        inimigo; deixa-me, pois, agora encravá-lo na\rterra, com a lança, de um
+        só golpe; não o ferirei segunda vez."
+      polish: "Rzekł więc Abiszaj do Dawida: ”Dziś Bóg oddaje wroga twojego w twą
+        rękę.\rTeraz pozwól, że przybiję go dzidą do ziemi, jednym pchnięciem,
+        drugiego\rnie będzie trzeba”."
+      turkish: Avişay Davut'a, «Bugün Tanrı düşmanını senin eline teslim etti» dedi,
+        «Şimdi bırak da, onu kendi mızrağıyla bir atışta yere çakayım. İkinci
+        kez vurmama gerek kalmayacak.»
+      nrt: "Авишай сказал Давиду: − Сегодня Бог отдал врага в твои руки. Позволь же
+        мне пригвоздить его к земле одним ударом копья. Мне даже не понадобится
+        второй удар."
+      Macarius: "Тогда сказал Авишай Давиду: предал Бог сегодня врага твоего в руку
+        твою, итак поражу я его копьем к земле одним ударом, не повторяя удара."
+      serbian: "Тада рече Ависај Давиду: Данас ти даде Бог непријатеља твојега у руке;
+        зато сада да га прободем копљем за земљу једанпут, нећу више."
+      bulgarian: "Авеса рече на Давида: днес Бог предаде твоя враг в ръцете ти; затова
+        позволи, аз ще го прикова с копие в земята с един замах и няма да
+        повторя удара."
+      deutsch: "Da sprach Abisai zu David: Gott hat deinen Feind heute in deine Hand
+        beschlossen; so will ich ihn nun mit dem Spieß stechen in die Erde
+        einmal, daß er's nicht mehr bedarf."
+      ukr2: "Тоді Авішай і каже до Давида: «Сьогодні Господь видав твого ворога тобі в
+        руки. Тому дозволь, я пристромлю його за одним ударом до землі його ж
+        власним списом! Не треба буде вдаряти вдруге!»"
+      ukr3: "І каже Абесса Давидові: Сьогоднї видав Господь тобі в руки ворога твого;
+        позволь, я за одним разом пристромлю його 'д землї списом; не треба
+        вдруге."
+      bel_syomukha: "Авэса сказаў Давіду: аддаў сёньня Бог ворага твайго ў рукі твае;
+        дык вось, дазволь я прыкалю яго дзідай да зямлі адным ударам і не
+        паўтару ўдару."
+      lev-khv: "Тогда Авесса сказал Давиду: предал Господь сегодня врага твоего в руки
+        твои; позволь теперь, я приколю его копьем к земле с одного удара,
+        другаго не сделаю ему."
+      czech: 'Abisaj rekl Davidovi: "Buh ti dnes vydal do rukou tveho nepritele. Ted
+        dovol, at ho jedinou ranou prirazim kopim k zemi, druhe rany nebude
+        treba."'
+      spanish: "Abisaí dijo a David: <<Dios ha entregado hoy en tus manos a tu
+        enemigo. Déjame que ahora mismo le atraviese con mi lanza y de un golpe
+        le clave en la tierra; no tendré que repetir>>."
+      greek-lxx: καὶ εἶπεν Αβεσσα πρὸς Δαυιδ ἀπέκλεισεν σήμερον Κύριος τὸν ἐχθρόν σου
+        εἰς τὰς χεῖράς σου καὶ νῦν πατάξω αὐτὸν τῷ δόρατι εἰς τὴν γῆν ἅπαξ καὶ
+        οὐ δευτερώσω αὐτῷ
+      st_text: "Авесса сказал Давиду: предал Бог ныне врага твоего в руки твои; итак
+        позволь, я пригвожду его копьем к земле одним ударом и не повторю
+        <i>удара</i>."
+  - id: 561
+    number: 9
+    bookId: 9
+    text: "Но Давид сказал Авессе: не убивай его; ибо кто, подняв руку на
+      помазанника Господня, останется ненаказанным?"
+    chapter: 26
+    chapterId: 262
+    parallels:
+      - verseId: 3820
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 1
+        short: 2 Цар:1:14
+      - verseId: 32181
+        bookId: 22
+        bookCode: psaltir
+        chapter: 7
+        short: Пс:7:5
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И рече давид ко авессе: не убивай его, яко кто прострет руку свою на
+        христа Господня, и неповинен будет?"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 давjдъ ко ґве1ссэ: не ўбивaй є3гw2, ћкw кто2 простре1тъ рyку
+        свою2 на хрістA гDнz, и3 непови1ненъ бyдетъ;"
+      sovr_rbo: "Но Давид отвечал Авишаю: «Нет, не трогай его! Кто, подняв руку на
+        помазанника Господа, избежит наказания?"
+      latin: "Et dixit David ad Abisai: Ne interficias eum: quis enim extendet manum
+        suam in christum Domini, et innocens erit?"
+      ukr: "І сказав Давид до Авішая: Не губи його, бо хто простягав руку свою на
+        Господнього помазанця, і був невинний?"
+      nkjv: "And David said to Abishai, \"Do not destroy him; for who can stretch out
+        his hand against the Lord's anointed, and be guiltless?\" "
+      desnitsky: "Давид ответил Авишаю: «Не губи его! Кто же может безнаказанно
+        поднять руку на помазанника ГОСПОДНЕГО?»"
+      mt: ‫   וַיֹּאמֶר דָּוִד אֶל־אֲבִישַׁי אַל־תַּשְׁחִיתֵהוּ כִּי מִי שָׁלַח יָדוֹ
+        בִּמְשִׁיחַ יְהוָה וְנִקָּה׃ פ ‬
+      romana: 'David insa a zis catre Abisai: "Sa nu-l ucizi, caci cine-si va ridica
+        mana asupra unsului Domnului si va ramane nepedepsit?"'
+      francais: "Mais David dit à Abischaï: Ne le détruis pas! car qui pourrait
+        impunément porter la main sur l'oint de l'Éternel?"
+      italian: 'Ma Davide disse ad Abisài: "Non ucciderlo! Chi mai ha messo la mano
+        sul consacrato del Signore ed è rimasto impunito?".'
+      old_georgian: "ჰრქუა დავით აბესას: ნუ იყოფინ, ვითარმცა მოკალ ცხებული უფლისა, და
+        განმართლდეს!"
+      portuguese: "Mas Davi respondeu a Abisai: Não o mates; pois quem pode estender a
+        mão contra o ungido do Senhor, e ficar\rinocente?"
+      polish: "Dawid odparł Abiszajowi: ”Nie zabijaj go! Któż bowiem podniósłby rękę
+        na\rpomazańca Pańskiego, a nie doznał kary?”"
+      turkish: Ne var ki Davut, «Onu öldürme!» dedi, «RAB'bin meshettiği kişiye kim el
+        uzatırsa, suçlu çıkar.
+      nrt: "Но Давид сказал Авишаю: − Не губи его. Кто может поднять руку на
+        Господнего помазанника и остаться невиновным?"
+      Macarius: "И сказал Давид Авишаю: не губи его: ибо кто, подняв руку свою на
+        помазанника Господня, останется ненаказанным?"
+      serbian: "А Давид рече Ависају: Немој га убити, јер ко ће подигнути руку своју
+        на помазаника Господњега и бити прав?"
+      bulgarian: "Но Давид рече на Авеса: не го убивай; защото кой, дигнал ръка върху
+        помазаника Господен, ще остане ненаказан?"
+      deutsch: "David aber sprach zu Abisai: Verderbe ihn nicht; denn wer will die
+        Hand an den Gesalbten des Herrn legen und ungestraft bleiben?"
+      ukr2: "Давид же відповів Авішаєві: «Не вбивай його! Хто бо коли наклав руку на
+        Господнього помазаника і зоставсь безвинним?»"
+      ukr3: "Давид же відказав Абессї: Не вбивай його, бо хто наложив коли руку на
+        помазанника Господнього, та й не був скараний?"
+      bel_syomukha: "Але Давід сказаў Авэсу: не забівай яго; бо хто, падняўшы руку на
+        памазанца Гасподняга, застанецца непакараны?"
+      lev-khv: "Но Давид сказал Авессе: не губи его, ибо кто может ненаказанно поднять
+        руку на помазанника Господня?"
+      czech: 'David vsak Abisajovi rekl: "Neodpravuj ho! Vzdyt kdo vztahne ruku na
+        Hospodinova pomazaneho a zustane bez trestu?"'
+      spanish: "Pero David le dijo: <<No le mates. Quien pusiere su mano sobre el
+        ungido de Yavé, ¿quedaría impune?>>"
+      greek-lxx: καὶ εἶπεν Δαυιδ πρὸς Αβεσσα μὴ ταπεινώσῃς αὐτόν ὅτι τίς ἐποίσει χεῖρα
+        αὐτοῦ ἐπὶ χριστὸν Κυρίου καὶ ἀθῳωθήσεται
+      st_text: "Но Давид сказал Авессе: не убивай его; ибо кто, подняв руку на
+        помазанника Господня, останется ненаказанным?"
+  - id: 562
+    number: 10
+    bookId: 9
+    text: "И сказал Давид: жив Господь! пусть поразит его Господь, или придет день
+      его, и он умрет, или пойдет на войну и погибнет; меня же да не попустит
+      Господь поднять руку мою на помазанника Господня;"
+    chapter: 26
+    chapterId: 262
+    parallels:
+      - verseId: 14386
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 9
+        short: Еккл:9:12
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И рече давид: жив Господь, аще не Господь поразит его, или день его
+        приидет, и умрет, или на брань снидет и погибнет:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 давjдъ: жи1въ гDь, ѓще не гDь порази1тъ є3го2, и3ли2 де1нь
+        є3гw2 пріи1детъ, и3 ќмретъ, и3ли2 на брaнь сни1детъ и3 поги1бнетъ:"
+      sovr_rbo: Клянусь Господом, — продолжал Давид, — Господь сам лишит его жизни,
+        умрет ли он своей смертью или падет в бою!
+      latin: "Et dixit David: Vivit Dominus, quia nisi Dominus percusserit eum, aut
+        dies ejus venerit ut moriatur, aut in praelium descendens perierit:"
+      ukr: "І сказав Давид: Як живий Господь, тільки Господь уразить його: або прийде
+        день його і він помре, або він піде на війну і загине."
+      nkjv: David said furthermore, "As the Lord lives, the Lord shall strike him, or
+        his day shall come to die, or he shall go out to battle and perish.
+      desnitsky: "Давид добавил: «Жив ГОСПОДЬ! Пусть ГОСПОДЬ поразит его, или сам он
+        умрет в свой срок, или пойдет на войну и погибнет,"
+      mt: ‫   וַיֹּאמֶר דָּוִד חַי־יְהוָה כִּי אִם־יְהוָה יִגָּפֶנּוּ אוֹ־יוֹמוֹ
+        יָבוֹא וָמֵת אוֹ בַמִּלְחָמָה יֵרֵד וְנִסְפָּה׃ ‬
+      romana: 'Apoi David a zis: "Viu este Domnul! El dar sa-l loveasca; sau va veni
+        ziua lui si va muri, sau va merge la razboi si va pieri; iar mie sa
+        nu-mi ingaduie Domnul sa-mi ridic mana asupra unsului Domnului!'
+      francais: "Et David dit: L'Éternel est vivant! c'est à l'Éternel seul à le
+        frapper, soit que son jour vienne et qu'il meure, soit qu'il descende
+        sur un champ de bataille et qu'il y périsse."
+      italian: 'Davide soggiunse: "Per la vita del Signore, solo il Signore lo
+        toglierà di mezzo o perché arriverà il suo giorno e morirà o perché
+        scenderà in battaglia e sarà ucciso.'
+      old_georgian: "და თქუა დავით: ცხოველ არს უფალი ჩემი! არა თუ უფალმან მოაკუდინოს
+        იგი, გინა თუ დაეცეს ბრძოლასა შინა."
+      portuguese: "Disse mais Davi: Como vive o Senhor, ou o Senhor o ferirá, ou
+        chegará o seu dia e morrerá, ou descerá para a\rbatalha e perecerá;"
+      polish: "Dawid dodał: ”Na życie Pana: On na pewno go ukarze, albo nadejdzie
+        jego\rdzień i umrze, albo zginie wyruszywszy na wojnę."
+      turkish: Yaşayan RAB'bin adıyla derim ki, RAB kendisi onu öldürecektir; ya günü
+        gelince ölecek, ya da savaşta vurulup yok olacak.
+      nrt: Верно, как и то, что Господь жив, − сказал он, − Господь Сам сразит его.
+        Либо придет его время, и он умрет, либо он пойдет в бой и погибнет.
+      Macarius: "И сказал Давид: жив Господь! Сам Господь пусть поразит его, или
+        придет день его и умрет, или пойдет на войну и погибнет."
+      serbian: "Још рече Давид: Тако жив био Господ, Господ ће га убити, или ће доћи
+        дан његов да умре, или ће изаћи у бој и погинути."
+      bulgarian: "Давид още рече: жив Господ! нека го порази Господ, или ще дойде
+        денят му, и той ще умре, или ще отиде на война и ще загине; а мене да не
+        дава Господ да дигна ръка върху помазаника Господен;"
+      deutsch: "Weiter sprach David: So wahr der Herr lebt, wo der Herr nicht ihn
+        schlägt, oder seine Zeit kommt, daß er sterbe oder in einen Streit ziehe
+        und komme um,"
+      ukr2: "Далі Давид сказав: «Так певно, як живе Господь: хай Господь сам його
+        поб'є: або на нього його час настане й він умре, або двигнеться в похід
+        і поляже;"
+      ukr3: "І додав ще Давид: Так певно, як живе Господь: нехай вбє Господь його, чи
+        сама прийде смерть його і він умре, або двине він у поход і поляже;"
+      bel_syomukha: "І сказаў Давід: жывы Гасподзь! няхай уразіць яго Гасподзь, альбо
+        прыйдзе дзень ягоны, і ён памрэ, альбо пойдзе на вайну і загіне; а мне
+        хай не дазволіць Гасподзь падняць руку маю на памазанца Гасподняга;"
+      lev-khv: "Притом сказал Давид: клянусь Господом, что лишь Господь его поразит,
+        или придет день его и он умрет, или он пойдет на войну и его не станет."
+      czech: 'David dale rekl: "Jakoze ziv je Hospodin, jiste jej Hospodin zasahne;
+        bud nadejde jeho den, kdy zemre, anebo odejde do boje a bude smeten.'
+      spanish: "Y añadió: <<Tan cierto como vive Yavé que, si no le hiere Él y le
+        llega su día y muere, o muere en la guerra,"
+      greek-lxx: καὶ εἶπεν Δαυιδ ζῇ Κύριος ἐὰν μὴ Κύριος παίσῃ αὐτόν ἢ ἡ ἡμέρα αὐτοῦ
+        ἔλθῃ καὶ ἀποθάνῃ ἢ εἰς πόλεμον καταβῇ καὶ προστεθῇ
+      st_text: "И сказал Давид: жив Господь! пусть поразит его Господь, или придет
+        день его, и он умрет, или пойдет на войну и погибнет; меня же да не
+        попустит Господь поднять руку мою на помазанника Господня;"
+  - id: 563
+    number: 11
+    bookId: 9
+    text: а возьми его копье, которое у изголовья его, и сосуд с водою, и пойдем к
+      себе.
+    chapter: 26
+    chapterId: 262
+    parallels:
+      - verseId: 575
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 26
+        short: 1 Цар:26:23
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "да не будет ми от Господа нанести руку мою на христа Господня: и ныне
+        возми копие от возглавия его и сосуд водный, и отъидем мы о себе."
+      averincev: ""
+      ungerov: ""
+      csya_old: "да не бyдетъ ми2 t гDа нанести2 рyку мою2 на хрістA гDнz: и3 нн7э
+        возми2 копіе2 t возглaвіz є3гw2 и3 сосyдъ водны1й, и3 tи1демъ мы2 њ
+        себЁ."
+      sovr_rbo: И сохрани меня Господь от того, чтобы поднять руку на помазанника Его!
+        Лучше возьми копье у него в изголовье и кувшин с водой, и пойдем
+        отсюда».
+      latin: "propitius sit mihi Dominus ne extendam manum meam in christum Domini:
+        nunc igitur tolle hastam, quae est ad caput ejus, et scyphum aquae, et
+        abeamus."
+      ukr: Борони мене, Господи, простягнути свою руку на Господнього помазанця! А
+        тепер візьми цього списа, що в приголів'ї його, та горня води, і ходімо
+        собі!
+      nkjv: "The Lord forbid that I should stretch out my hand against the Lord's
+        anointed. But please, take now the spear and the jug of water that are
+        by his head, and let us go.\" "
+      desnitsky: а меня да сохранит ГОСПОДЬ от того, чтобы поднять руку на помазанника
+        ГОСПОДНЕГО. Возьми лучше копье, что у него в изголовье, и сосуд с водой,
+        и пойдем восвояси».
+      mt: ‫   חָלִילָה לִּי מֵיהוָה מִשְּׁלֹחַ יָדִי בִּמְשִׁיחַ יְהוָה וְעַתָּה
+        קַח־נָא אֶת־הַחֲנִית אֲשֶׁר *מראשתו **מְרַאֲשֹׁתָיו וְאֶת־צַפַּחַת
+        הַמַּיִם וְנֵלֲכָה לָּנוּ׃ ‬
+      romana: Dar ia sulita lui, care este la capataiul lui, si vasul cu apa si sa
+        mergem intr-ale noastre".
+      francais: Loin de moi, par l'Éternel! de porter la main sur l'oint de l'Éternel!
+        Prends seulement la lance qui est à son chevet, avec la cruche d'eau, et
+        allons-nous-en.
+      italian: Il Signore mi guardi dallo stendere la mano sul consacrato del Signore!
+        Ora prendi la lancia che sta a capo del suo giaciglio e la brocca
+        dell'acqua e andiamocene".
+      old_georgian: მე არა მივყო ჴელი ცხებულსა ზედა უფლისასა, ხოლო აწ მიიღე ჰოროლი ეგე
+        და გოვზაკი სასთუნალით მაგისა და წარვიდეთ!
+      portuguese: "o Senhor, porém, me guarde de que eu estenda a mão contra o ungido
+        do Senhor. Agora, pois, toma a lança que\restá à sua cabeceira, e a
+        bilha d'água, e vamo-nos."
+      polish: "Niech mię Pan broni przed podniesieniem ręki na pomazańca
+        Pańskiego!\rZabierz tylko dzidę, która jest koło jego wezgłowia,
+        manierkę na wodę i pójdziemy”."
+      turkish: Ama RAB'bin meshettiği kişiye el uzatmaktan RAB beni uzak tutsun!
+        Haydi, Saul'un başucundaki mızrakla su matarasını al da gidelim.»
+      nrt: Но не приведи Господь мне поднять руку на Господнего помазанника. Возьми-ка
+        копье и кувшин для воды у его изголовья, и пойдем.
+      Macarius: Пред Господом, отнюдь не возложу руки своей на помазанника Господня. А
+        возьми копье, которое у изголовья его, и кувшин с водою, и пойдем.
+      serbian: Не дао ми Бог да дигнем руку своју на помазаника Господњега! Него узми
+        сада копље што му је чело главе и чашу за воду, па да идемо.
+      bulgarian: а вземи копието му, което е при възглавието му, и съда с вода, и да
+        си вървим.
+      deutsch: so lasse der Herr ferne von mir sein, daß ich meine Hand sollte an den
+        Gesalbten des Herrn legen. So nimm nun den Spieß zu seinen Häupten und
+        den Wasserbecher und laß uns gehen.
+      ukr2: мене ж нехай Господь боронить, щоб я наклав руку на помазаника
+        Господнього. Ти ж візьми списа, що в головах у нього, і кінву з водою,
+        та й ходімо.»
+      ukr3: Мене ж нехай боронить Господь від того, щоб наложив я руку на помазанника
+        Господнього; ти ж возьми списа, що в головах у його й конву з водою, та
+        й ходїмо собі.
+      bel_syomukha: а вазьмі ягоную дзіду, якая каля галавы ягонай, і посуд з вадою, і
+        пойдзем да сябе.
+      lev-khv: Но не дай мне Господь, чтобы я поднял руку мою на помазанника Господня.
+        Теперь возьми, пожалуйста, копье, которое у изголовья его, и сосуд с
+        водою, и пойдем себе.
+      czech: Chran me vsak Hospodin, abych vztahl ruku na Hospodinova pomazaneho.
+        Vezmi tady to kopi, ktere ma v hlavach, i dzbanek na vodu a odejdeme."
+      spanish: Yavé me libre de poner la mano sobre su ungido. Recoge la lanza y el
+        jarro que está a la cabecera, y vámonos>>.
+      greek-lxx: μηδαμῶς μοι παρὰ Κυρίου ἐπενεγκεῖν χεῖρά μου ἐπὶ χριστὸν Κυρίου καὶ
+        νῦν λαβὲ δὴ τὸ δόρυ ἀπὸ πρὸς κεφαλῆς αὐτοῦ καὶ τὸν φακὸν τοῦ ὕδατος καὶ
+        ἀπέλθωμεν καθ᾿ ἑαυτούς
+      st_text: а возьми его копье, которое у изголовья его, и сосуд с водою, и пойдем
+        к себе.
+  - id: 564
+    number: 12
+    bookId: 9
+    text: И взял Давид копье и сосуд с водою у изголовья Саула, и пошли они к себе;
+      и никто не видел, и никто не знал, и никто не проснулся, но все спали, ибо
+      сон от Господа напал на них.
+    chapter: 26
+    chapterId: 262
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И взя давид копие и сосуд водный от возглавия его, и отъидоста о себе: и
+        не бе иже бы видел или разумел, и не бяше востающаго, вси бо спаху, яко
+        сон крепок от Господа нападе на ня."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# взS давjдъ копіе2 и3 сосyдъ водны1й t возглaвіz є3гw2, и3 tидо1ста
+        њ себЁ: и3 не бЁ и4же бы ви1дэлъ и3ли2 разумёлъ, и3 не бsше востаю1щагw,
+        вси1 бо спaху, ћкw со1нъ крёпокъ t гDа нападе2 на нS."
+      sovr_rbo: "Давид взял копье и кувшин с водой у изголовья Саула, и они вернулись
+        к себе. Никто их не видел, никто не заметил, что они приходили, никто не
+        проснулся: Господь навел на всех крепкий сон."
+      latin: "Tulit igitur David hastam, et scyphum aquae, qui erat ad caput Saul, et
+        abierunt: et non erat quisquam, qui videret, et intelligeret, et
+        evigilaret, sed omnes dormiebant, quia sopor Domini irruerat super eos."
+      ukr: І взяв Давид списа та горня води з Саулового приголів'я, та й пішли собі. І
+        ніхто не бачив, і не знав, і не збудився, бо всі вони спали, бо на них
+        упав сон від Господа.
+      nkjv: "So David took the spear and the jug of water by Saul's head, and they got
+        away; and no man saw it or knew it or awoke. For they were all asleep,
+        because a deep sleep from the Lord had fallen on them. "
+      desnitsky: Давид взял в его изголовье копье и сосуд с водой, и пошли они прочь.
+        Никто не видел их, и не знал об их приходе, и даже не проснулся – все
+        спали, ибо напал на них крепкий сон от ГОСПОДА.
+      mt: ‫   וַיִּקַּח דָּוִד אֶת־הַחֲנִית וְאֶת־צַפַּחַת הַמַּיִם מֵרַאֲשֹׁתֵי
+        שָׁאוּל וַיֵּלְכוּ לָהֶם וְאֵין רֹאֶה וְאֵין יוֹדֵעַ וְאֵין מֵקִיץ כִּי
+        כֻלָּם יְשֵׁנִים כִּי תַּרְדֵּמַת יְהוָה נָפְלָה עֲלֵיהֶם׃ ‬
+      romana: Si a luat David sulita si vasul cu apa de la capataiul lui Saul si s-au
+        dus ei intr-ale lor si nimeni nu i-a vazut, nici nu i-a simtit; caci
+        nimeni nu s-a desteptat, ca Domnul trimisese peste ei somn adanc si
+        dormeau toti.
+      francais: David prit donc la lance et la cruche d'eau qui étaient au chevet de
+        Saül; et ils s'en allèrent. Personne ne les vit ni ne s'aperçut de rien,
+        et personne ne se réveilla, car ils dormaient tous d'un profond sommeil
+        dans  lequel l'Éternel les avait plongés.
+      italian: "Così Davide portò via la lancia e la brocca dell'acqua che era dalla
+        parte del capo di Saul e tutti e due se ne andarono; nessuno vide,
+        nessuno se ne accorse, nessuno si svegliò: tutti dormivano, perché era
+        venuto su di loro un torpore mandato dal Signore."
+      old_georgian: და აღიღო მან ჰოროლი იგი და გოზაკი და წარვიდეს და არა ვინ სცნა
+        საქმე იგი, არცა ვინ განიღჳძა, რამეთუ ყოველნი დასულებულ იყუნეს ძილისა
+        მისგან, რამეთუ თლემულება ძილისა დადებულ იყო მათ ზედა უფლისა მიერ.
+      portuguese: "Tomou, pois, Davi a lança e a bilha d'água da cabeceira de Saul, e
+        eles se foram. Ninguém houve que o visse,\rnem que o soubesse, nem que
+        acordasse; porque todos estavam dormindo, pois da parte do Senhor havia
+        caído\rsobre eles um profundo sono."
+      polish: "Zabrał więc Dawid dzidę i manierkę na wodę od wezgłowia Saula i
+        poszli\rsobie. Nikt ich nie spostrzegł, nikt [o nich] nie wiedział, nikt
+        się nie obudził.\rWszyscy spali, gdyż Pan zesłał na nich twardy sen."
+      turkish: Böylece Davut Saul'un başucundan mızrağını ve su matarasını aldı. Sonra
+        oradan uzaklaştılar. Onları gören olmadı. Kimse olup bitenin farkına
+        varmadı, uyanan da olmadı. Hepsi uyuyorlardı, çünkü RAB onlara derin bir
+        uyku vermişti.
+      nrt: Давид взял копье и кувшин для воды у изголовья Саула, и они ушли. Никто не
+        видел и не знал об этом, и никто не проснулся. Все они спали, потому что
+        Господь погрузил их в глубокий сон.
+      Macarius: И взял Давид копье и кувшин воды от изголовья Саулова, и пошли они. И
+        никто не видел, и никто не знал, и никто не проснулся, но все они спали,
+        ибо глубокий сон от Господа напал на них.
+      serbian: И Давид узе копље и чашу за воду што бјеше чело главе Саулу, и отидоше;
+        и нико их не видје ни осјети, нити се који пробуди, него сви спаваху;
+        јер бјеше напао на њих тврд сан од Господа.
+      bulgarian: Давид взе копието и съда с вода при възглавието на Саула, и си
+        отидоха; и никой не видя, никой не узна и никой се не събуди, а всички
+        спяха, понеже беше ги обвзел сън от Господа.
+      deutsch: Also nahm David den Spieß und den Wasserbecher zu den Häupten Sauls und
+        ging hin, und war niemand, der es sah noch merkte noch erwachte, sondern
+        sie schliefen alle; denn es war ein tiefer Schlaf vom Herrn auf sie
+        gefallen.
+      ukr2: І Давид узяв списа й кінву з водою, що були в головах у Саула, та й пішли
+        собі, й ніхто не бачив, ніхто не знав, і ніхто не прокинувсь; усі спали,
+        бо всіх пойняв глибокий сон від Господа.
+      ukr3: От і взяв Давид списа й посудину з водою, що були в головах у Саула, та й
+        пійшли вони собі, й нїхто не бачив, нї знав, нї прокинувсь; всї спали,
+        бо всїх обняв насланий від Господа твердий сон.
+      bel_syomukha: І ўзяў Давід дзіду і посуд з вадою каля галавы Саўла, і пайшлі яны
+        да сябе; і ніхто ня бачыў, і ніхто ня ведаў, і ніхто не прачнуўся, а ўсе
+        спалі, бо сон ад Госпада напаў на іх.
+      lev-khv: И взял Давид копье и сосуд с водою у изголовья Саулова, и они ушли
+        прочь; и никто не видел, никто не заметил, никто не пробудился, но все
+        спали; так как глубокий сон напал на них от Господа.
+      czech: David vzal kopi a dzbanek na vodu od hlav Saulova loze a odesli. Nikdo
+        nic nevidel, nikdo nic nevedel, nikdo se neprobudil, vsichni spali;
+        padla na ne mrakota od Hospodina.
+      spanish: Llevóse David la lanza y el jarro que estaban junto a la cabecera de
+        Saúl, y se fueron. Nadie los vio, ni se dio nadie cuenta de nada; nadie
+        se despertó, todos dormían, pues había hecho caer Yavé sobre ellos un
+        profundo sopor.
+      greek-lxx: καὶ ἔλαβεν Δαυιδ τὸ δόρυ καὶ τὸν φακὸν τοῦ ὕδατος ἀπὸ πρὸς κεφαλῆς
+        αὐτοῦ καὶ ἀπῆλθον καθ᾿ ἑαυτούς καὶ οὐκ ἦν ὁ βλέπων καὶ οὐκ ἦν ὁ γινώσκων
+        καὶ οὐκ ἦν ὁ ἐξεγειρόμενος πάντες ὑπνοῦντες ὅτι θάμβος Κυρίου ἐπέπεσεν
+        ἐπ᾿ αὐτούς
+      st_text: И взял Давид копье и сосуд с водою у изголовья Саула, и пошли они к
+        себе; и никто не видел, и никто не знал, и никто не проснулся, но все
+        спали, ибо сон от Господа напал на них.
+  - id: 565
+    number: 13
+    bookId: 9
+    text: И перешел Давид на другую сторону и стал на вершине горы вдали; большое
+      расстояние <i>было</i> между ними.
+    chapter: 26
+    chapterId: 262
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И прейде давид на он пол и ста на версе горы издалеча, и мног бе путь
+        между ими.
+      averincev: ""
+      ungerov: ""
+      csya_old: И# пре1йде давjдъ на њ1нъ по1лъ и3 стA на версЁ горы2 и3здале1ча, и3
+        мно1гъ бЁ пyть междY и4ми.
+      sovr_rbo: Давид перешел на противоположный склон и, встав на вершине горы,
+        довольно далеко от стана Саула,
+      latin: Cumque transisset David ex adverso, et stetisset in vertice montis de
+        longe, et esset grande intervallum inter eos,
+      ukr: І перейшов Давид на той бік, і став здалека на верховині гори, а між ними
+        велика просторінь.
+      nkjv: Now David went over to the other side, and stood on the top of a hill afar
+        off, a great distance being between them.
+      desnitsky: Давид перебрался на другую сторону расщелины и встал подальше на
+        вершине холма – между ним и лагерем Саула было немалое расстояние.
+      mt: ‫   וַיַּעֲבֹר דָּוִד הָעֵבֶר וַיַּעֲמֹד עַל־רֹאשׁ־הָהָר מֵרָחֹק רַב
+        הַמָּקוֹם בֵּינֵיהֶם׃ ‬
+      romana: Iar dupa ce David a trecut dincolo, a stat pe varful muntelui, fiind
+        acum departare mare intre ei.
+      francais: David passa de l'autre côté, et s'arrêta au loin sur le sommet de la
+        montagne, à une grande distance du camp.
+      italian: Davide passò dall'altro lato e si fermò lontano sulla cima del monte;
+        vi era grande spazio tra di loro.
+      old_georgian: და წიაღჴდა დავით მიერ ჴევსა მას განშორებულადრე, პირისპირ წინაშე
+        მათსა, დადგა იგი თხემსა ზედა მის მთისასა.
+      portuguese: "Então Davi, passando à outra banda, pôs-se no cume do monte, ao
+        longe, de maneira que havia grande distância\rentre eles."
+      polish: Dawid oddalił się na przeciwległą stronę i stanął na wierzchołku góry z
+        daleka, a dzieliła go od nich spora odległość.
+      turkish: Davut karşı yakaya geçip tepenin üstünde, onlardan uzak bir yerde
+        durdu. Aralarında epeyce mesafe vardı.
+      nrt: Давид перешел на другую сторону и встал на вершине горы вдали, между ними
+        было большое расстояние.
+      Macarius: Давид, вышедши из стана, стал на вершине горы вдали, много места было
+        между ними.
+      serbian: И Давид прешав на другу страну, стаде наврх брда издалека; и бјеше
+        између њих много мјеста.
+      bulgarian: Премина Давид отвъд и застана навръх планината надалеч, а помежду им
+        имаше голямо разстояние.
+      deutsch: Da nun David auf die andere Seite hinübergekommen war, trat er auf des
+        Berges Spitze von ferne, daß ein weiter Raum war zwischen ihnen,
+      ukr2: Тоді Давид перейшов на другий бік, став на верху гори здалека, так що між
+        ними був великий простір,
+      ukr3: Тодї перейшов Давид на другий бік та й став на вершинї гори оддалїк, так
+        що між ними була велика просторонь.
+      bel_syomukha: І перайшоў Давід на другі бок і стаў на вяршыні гары ўдалечыні;
+        вялікая адлегласьць была паміж імі.
+      lev-khv: И перешел Давид на другую сторону, и стал вдали, на вершину горы, так
+        что разстояние между ними было большое.
+      czech: David pak presel na protilehlou stranu, postavil se na vrchol hory
+        vpovzdali, takze mezi nimi byl znacny prostor.
+      spanish: David pasó al otro lado y se puso lejos, sobre la cumbre de una colina,
+        separándolos largo trecho,
+      greek-lxx: καὶ διέβη Δαυιδ εἰς τὸ πέραν καὶ ἔστη ἐπὶ τὴν κορυφὴν τοῦ ὄρους
+        μακρόθεν καὶ πολλὴ ἡ ὁδὸς ἀνὰ μέσον αὐτῶν
+      st_text: И перешел Давид на другую сторону и стал на вершине горы вдали; большое
+        расстояние <i>было</i> между ними.
+  - id: 566
+    number: 14
+    bookId: 9
+    text: "И воззвал Давид к народу и Авениру, сыну Нирову, говоря: отвечай, Авенир.
+      И отвечал Авенир и сказал: кто ты, что кричишь и <i>беспокоишь</i> царя?"
+    chapter: 26
+    chapterId: 262
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И воззва давид к людем, и авениру рече глаголя: не отвещаеши ли, авенире?
+        И отвеща авенир и рече: кто ты еси зовый мя?"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# воззвA давjдъ къ лю1демъ, и3 ґвени1ру рече2 глаго1лz: не tвэщaеши
+        ли, ґвени1ре; И# tвэщA ґвени1ръ и3 рече2: кто2 ты2 є3си2 зовы1й мS;"
+      sovr_rbo: "закричал, обращаясь к воинам и к Авнеру, сыну Нера: «Авнер! Ответь
+        мне!» — «Кто ты? У тебя дело к царю?» — спросил Авнер."
+      latin: "clamavit David ad populum, et ad Abner filium Ner, dicens: Nonne
+        respondebis, Abner? Et respondens Abner, ait: Quis es tu, qui clamas, et
+        inquietas regem?"
+      ukr: "І крикнув Давид до народу та до Авнера, Нерового сина, говорячи: Чи ж не
+        відповіси, Авнере? А Авнер відповів та сказав: Хто ти, що кликав до
+        царя?"
+      nkjv: And David called out to the people and to Abner the son of Ner, saying,
+        "Do you not answer, Abner?" Then Abner answered and said, "Who are you,
+        calling out to the king?"
+      desnitsky: "Давид воззвал к войску и к Авнеру, сыну Нера, так: «Ответь мне,
+        Авнер!» Авнер отозвался: «Кто ты, что будишь царя?»"
+      mt: ‫   וַיִּקְרָא דָוִד אֶל־הָעָם וְאֶל־אַבְנֵר בֶּן־נֵר לֵאמֹר הֲלוֹא תַעֲנֶה
+        אַבְנֵר וַיַּעַן אַבְנֵר וַיֹּאמֶר מִי אַתָּה קָרָאתָ אֶל־הַמֶּלֶךְ׃ פ ‬
+      romana: 'A strigat David catre osteni si catre Abner, fiul lui Ner si a zis:
+        "Ei! Abner!" Iar Abner a zis: "Cine esti si de ce strigi sa-l tulburi pe
+        rege?"'
+      francais: "Et il cria au peuple et à Abner, fils de Ner: Ne répondras-tu pas,
+        Abner? Abner répondit: Qui es-tu, toi qui pousses des cris vers le roi?"
+      italian: 'Allora Davide gridò alla truppa e ad Abner, figlio di Ner: "Non
+        risponderai, Abner?". Abner rispose: "Chi sei tu che gridi verso il
+        re?".'
+      old_georgian: "და უჴმობდა დავით მიმართ ერსა მას საულისასა და თქუა: აბენერ, შენ
+        გეტყჳ, არას მომიგებ? მიუგო აბენერ და ჰრქუა: ვინ ხარ შენ, რომელი-ეგე
+        მიჴმობ მე?"
+      portuguese: "E Davi bradou ao povo, e a Abner, filho de Ner, dizendo: Não
+        responderás, Abner? Então Abner respondeu e\rdisse: Quem és tu, que
+        bradas ao rei?"
+      polish: "Wtedy zawołał na ludzi i Abnera, syna Nera: ”Abnerze! Czemu nie
+        dajesz\rodpowiedzi?” Abner rzekł: ”Kim jesteś, że wołasz ”na króla”?”"
+      turkish: "Davut askerlere ve Ner oğlu Avner'e, «Ey Avner, bana yanıt vermeyecek
+        misin?» diye seslendi.\rAvner, «Sen kimsin ki krala sesleniyorsun?» diye
+        karşılık verdi."
+      nrt: "Он закричал войску и Авнеру, сыну Нира: − Авнер! Разве ты не ответишь мне?
+        Авнер ответил: − Кто ты такой, что зовешь царя?"
+      Macarius: "И кричал Давид к народу и Авнеру, сыну Нера, и сказал: отвечай,
+        Авнер! Авнер отвечал, и сказал: кто ты, взывающий к царю?"
+      serbian: "И стаде Давид викати народ и Авенира, сина Нирова, говорећи: Што се не
+        одзиваш, Авенире? А Авенир се одазва и рече: Који си ти што вичеш цара?"
+      bulgarian: "И викна Давид към народа и Авенира, син Ниров, думайки: Авенире,
+        обади се. Авенир се обади и рече: кой си ти, дето викаш и безпокоиш
+        царя?"
+      deutsch: "und schrie das Volk an und Abner, den Sohn Ners, und sprach: Hörst du
+        nicht, Abner? Und Abner antwortete und sprach: Wer bist du, daß du so
+        schreist gegen den König?"
+      ukr2: "і кликнув Давид до людей та до Авнера, сина Нера: «Не відкликнешся,
+        Авнере?» Авнер же відповів, кажучи: «Хто ти такий, що мене кличеш?»"
+      ukr3: "І покликнув Давид на люде й на Абенира Ниренка: Не відкликнешся, Абенире?
+        І відказав Абенир: Хто ти такий, що покликуєш і безпокоїш царя?"
+      bel_syomukha: "І заклікаў Давід народ і Авэніра, сына Ніравага, кажучы:
+        адказвай, Авэнір. І адказваў Авэнір і сказаў: хто ты, што крычыш і
+        турбуеш цара?"
+      lev-khv: "И закричал Давид народу и Авениру, сыну Нира, говоря: дашь ли ответ
+        мне, Авенир? Отвечал Авенир и сказал: кто ты такой, что кричишь при
+        царе?"
+      czech: 'David zavolal na lid a na Abnera, syna Nerova: "Jestlipak odpovis,
+        Abnere?" Abner se ozval: "Kdo jsi, ze volas na krale?"'
+      spanish: "y gritó a la gente y a Abner, hijo de Ner: << ¡Abner! ¿No contestas?>>
+        Abner respondió: << ¿Quién eres tú que así me llamas?>>"
+      greek-lxx: καὶ προσεκαλέσατο Δαυιδ τὸν λαὸν καὶ τῷ Αβεννηρ ἐλάλησεν λέγων οὐκ
+        ἀποκριθήσει Αβεννηρ καὶ ἀπεκρίθη Αβεννηρ καὶ εἶπεν τίς εἶ σὺ ὁ καλῶν με
+      st_text: "И воззвал Давид к народу и Авениру, сыну Нирову, говоря: отвечай,
+        Авенир. И отвечал Авенир и сказал: кто ты, что кричишь и
+        <i>беспокоишь</i> царя?"
+  - id: 567
+    number: 15
+    bookId: 9
+    text: "И сказал Давид Авениру: не муж ли ты, и кто равен тебе в Израиле? Для
+      чего же ты не бережешь господина твоего, царя? ибо приходил некто из
+      народа, чтобы погубить царя, господина твоего."
+    chapter: 26
+    chapterId: 262
+    parallels:
+      - verseId: 4380
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 3
+        short: 2 Цар:3:38
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И рече давид ко авениру: не муж ли еси ты? и кто, якоже ты, во израили? и
+        почто не храниши господина твоего царя? яко вниде един от людий убити
+        господина твоего царя:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 давjдъ ко ґвени1ру: не мyжъ ли є3си2 ты2; и3 кто2, ћкоже
+        ты2, во ї}ли; и3 почто2 не храни1ши господи1на твоегw2 царS; ћкw вни1де
+        є3ди1нъ t людjй ўби1ти господи1на твоего2 царS:"
+      sovr_rbo: "Давид сказал Авнеру: «Ты ведь настоящий мужчина, и нет равного тебе
+        среди израильтян! Что же ты не охраняешь царя, своего господина? Кто
+        угодно может прийти и убить царя, твоего господина!"
+      latin: "Et ait David ad Abner: Numquid non vir tu es? et quis alius similis tui
+        in Israel? quare ergo non custodisti dominum tuum regem? ingressus est
+        enim unus de turba ut interficeret regem, dominum tuum."
+      ukr: "І сказав Давид до Авнера: Чи ти не муж? І хто рівний тобі в Ізраїлі? І
+        чому не пильнував ти свого пана, царя? Бо приходив один із народу, щоб
+        погубити царя, твого пана."
+      nkjv: So David said to Abner, "Are you not a man? And who is like you in Israel?
+        Why then have you not guarded your lord the king? For one of the people
+        came in to destroy your lord the king.
+      desnitsky: "И крикнул Давид Авнеру: «Разве ты не мужчина? Да и кто равен тебе в
+        Израиле? Что же ты не охраняешь господина своего, царя? Приходил тут
+        один простолюдин, чтобы погубить царя, твоего господина!"
+      mt: ‫   וַיֹּאמֶר דָּוִד אֶל־אַבְנֵר הֲלוֹא־אִישׁ אַתָּה וּמִי כָמוֹךָ
+        בְּיִשְׂרָאֵל וְלָמָּה לֹא שָׁמַרְתָּ אֶל־אֲדֹנֶיךָ הַמֶּלֶךְ כִּי־בָא
+        אַחַד הָעָם לְהַשְׁחִית אֶת־הַמֶּלֶךְ אֲדֹנֶיךָ׃ ‬
+      romana: 'A raspuns David lui Abner: "Au nu esti tu barbat si cine este asemenea
+        tie in Israel? De ce dar nu pazesti pe regele, stapanul tau? Caci a
+        venit cineva din popor ca sa ucida pe regele, stapanul tau.'
+      francais: "Et David dit à Abner: N'es-tu pas un homme? et qui est ton pareil en
+        Israël? Pourquoi donc n'as-tu pas gardé le roi, ton maître? Car
+        quelqu'un du peuple est venu pour tuer le roi, ton maître."
+      italian: 'Davide rispose ad Abner: "Non sei un uomo tu? E chi è come te in
+        Israele? E perché non hai fatto guardia al re tuo signore? È venuto
+        infatti uno del popolo per uccidere il re tuo signore.'
+      old_georgian: "მიუგო დავით და ჰრქუა: არა შენ აბენერ ხარა, რომელი-ეგე კაცი
+        შერჩეული ხარ ისრაჱლსა შორის? და რასათჳს არა იჴმილვე უფალი ეგე შენი მეფე,
+        რამეთუ შევიდა კაცი ერთი ბანაკსა მაგას მოკლვად უფლისა მაგის შენისა
+        მეფისა?"
+      portuguese: "Ao que disse Davi a Abner: Não és tu um homem? e quem há em Israel
+        como tu? Por que, então, não guardaste\ro rei, teu senhor? porque um do
+        povo veio para destruir o rei, teu senhor."
+      polish: "Dawid znów wołał w stronę Abnera: ”Czyż nie jesteś mężczyzną? Któż ci
+        dorówna w Izraelu? A dlaczego nie czuwałeś przy panu, twoim królu?
+        Zakradł\rsię przecież ktoś z ludu, aby zamordować króla, twojego pana."
+      turkish: Davut, «Sen yiğit biri değil misin?» dedi, «İsrail'de senin gibisi var
+        mı? Öyleyse neden efendin kralı korumadın? Çünkü biri onu öldürmek için
+        ordugaha girdi.
+      nrt: "Давид сказал: − Ведь ты мужчина? Кто в Израиле подобен тебе? Почему же ты
+        не охранял твоего господина царя? Некто из народа приходил, чтобы
+        погубить твоего господина царя."
+      Macarius: "И сказал Давид Авнеру: разве ты не муж? И кто подобен тебе у Израиля?
+        Для чего же ты не хранишь государя твоего, царя? Ибо один из людей
+        приходил погубить государя твоего, царя."
+      serbian: "А Давид рече Авениру: Нијеси ли ти јунак? И ко је као ти у Израиљу?
+        Зашто нијеси чувао цара, господара својега? Јер је ишао један из народа
+        да убије господара твојега."
+      bulgarian: "И Давид рече на Авенира: нали си мъж, и кой е равен на тебе в
+        Израиля? Защо тогава не пазиш господаря си, царя? защото дохожда някой
+        от народа да затрие царя, твоя господар."
+      deutsch: "Und David sprach zu Abner: Bist du nicht ein Mann und wer ist dir
+        gleich in Israel? Warum hast du denn nicht behütet deinen Herrn, den
+        König? Denn es ist des Volk einer hineingekommen, deinen Herrn, den
+        König, zu verderben."
+      ukr2: "Давид так до Авнера: «Чи ти ж не муж? Хто тобі рівний в Ізраїлі? Чому ж
+        ти не стеріг твого пана - царя? Он хтось із людей пробрався, щоб убити
+        царя, твого пана."
+      ukr3: "І озветься Давид: Ти ж такий чоловік, що нема тобі й рівнї в Ізраїлї; чом
+        же ти не стережеш твого пана, царя? бо се хтось з людей пробрався був,
+        щоб убити пана твого, царя."
+      bel_syomukha: "І сказаў Давід Авэніру: ці ня ты мужчына, роўнага якому няма ў
+        Ізраілі? Чаму ж ты не ахоўваеш гаспадара твайго, цара? бо прыходзіў
+        нехта зь людзей, каб загубіць цара, гаспадара твайго."
+      lev-khv: "Тогда сказал Давид Авениру: не знатный ли ты человек? и кто равен тебе
+        во Израиле? Почему же ты не бережешь государя своего, царя? Ибо один из
+        народа уже приходил, чтобы убить царя, государя твоего."
+      czech: 'David Abnerovi rekl: "Jsi prece muz. Kdo je ti v Izraeli roven? Proc jsi
+        nestrezil krale, sveho pana? Nekdo z lidu prisel krale, tveho pana,
+        odpravit.'
+      spanish: "David dijo a Abner: << ¿No eres tú un valiente? ¿Quién como tú en
+        Israel? ¿Cómo no guardas a tu rey y señor?"
+      greek-lxx: καὶ εἶπεν Δαυιδ πρὸς Αβεννηρ οὐκ ἀνὴρ σύ καὶ τίς ὡς σὺ ἐν Ισραηλ καὶ
+        διὰ τί οὐ φυλάσσεις τὸν κύριόν σου τὸν βασιλέα ὅτι εἰσῆλθεν εἷς ἐκ τοῦ
+        λαοῦ διαφθεῖραι τὸν βασιλέα κύριόν σου
+      st_text: "И сказал Давид Авениру: не муж ли ты, и кто равен тебе в Израиле? Для
+        чего же ты не бережешь господина твоего, царя? ибо приходил некто из
+        народа, чтобы погубить царя, господина твоего."
+  - id: 568
+    number: 16
+    bookId: 9
+    text: Нехорошо ты это делаешь; жив Господь! вы достойны смерти за то, что не
+      бережете господина вашего, помазанника Господня. Посмотри, где копье царя
+      и сосуд с водою, что <i>были</i> у изголовья его?
+    chapter: 26
+    chapterId: 262
+    parallels:
+      - verseId: 3884
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 12
+        short: 2 Цар:12:5
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и не благо сие (зело), еже сотворил еси: жив Господь, яко сынове смерти
+        вы, не хранящии господа своего царя христа Господня: и ныне виждь, где
+        есть копие царево и сосуд водный, яже беша при главе его?"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 не блaго сіе2 (ѕэлw2), є4же сотвори1лъ є3си2: жи1въ гDь, ћкw
+        сы1нове сме1рти вы2, не хранsщіи го1спода своего2 царS хрістA гDнz: и3
+        нн7э ви1ждь, гдЁ є4сть копіе2 царе1во и3 сосyдъ водны1й, ±же бёша при
+        главЁ є3гw2;"
+      sovr_rbo: Нехорошо ты поступаешь! Клянусь Господом, казнить вас надо за то, что
+        не бережете своего господина, помазанника Господа! Посмотри-ка, где
+        царское копье и кувшин с водой, что были у него в изголовье!»
+      latin: "Non est bonum hoc, quod fecisti: vivit Dominus, quoniam filii mortis
+        estis vos, qui non custodistis dominum vestrum, christum Domini: nunc
+        ergo vide ubi sit hasta regis, et ubi sit scyphus aquae qui erat ad
+        caput ejus."
+      ukr: Не добра це річ, що ти зробив! Як живий Господь, ви повинні померти, бо не
+        пильнували ви пана свого, Господнього помазанця! А тепер побач, де царів
+        спис, та де горня води, що були в приголів'ї його?
+      nkjv: "This thing that you have done is not good. As the Lord lives, you deserve
+        to die, because you have not guarded your master, the Lord's anointed.
+        And now see where the king's spear is, and the jug of water that was by
+        his head.\" "
+      desnitsky: Нехорошо это ты поступаешь! Жив ГОСПОДЬ, вы достойны смерти, что не
+        охраняете вашего господина – помазанника ГОСПОДНЕГО! Посмотри-ка теперь,
+        где копье и сосуд с водой, что были у него в изголовье?»
+      mt: ‫   לֹא־טוֹב הַדָּבָר הַזֶּה אֲשֶׁר עָשִׂיתָ חַי־יְהוָה כִּי בְנֵי־מָוֶת
+        אַתֶּם אֲשֶׁר לֹא־שְׁמַרְתֶּם עַל־אֲדֹנֵיכֶם עַל־מְשִׁיחַ יְהוָה
+        וְעַתָּה רְאֵה אֵי־חֲנִית הַמֶּלֶךְ וְאֶת־צַפַּחַת הַמַּיִם אֲשֶׁר
+        *מראשתו **מְרַאֲשֹׁתָיו׃ ‬
+      romana: Nu faci bine ce faci! Viu este Domnul, voi sunteti vrednici de moarte,
+        pentru ca nu paziti pe domnul vostru, unsul Domnului. Priveste, unde
+        este sulita regelui si vasul cu apa care era la capul lui!"
+      francais: Ce que tu as fait là n'est pas bien. L'Éternel est vivant! vous
+        méritez la mort, pour n'avoir pas veillé sur votre maître, sur l'oint de
+        l'Éternel. Regarde maintenant où sont la lance du roi et la cruche
+        d'eau, qui étaient à son chevet!
+      italian: Non hai fatto certo una bella cosa. Per la vita del Signore, siete
+        degni di morte voi che non avete fatto guardia al vostro signore,
+        all'unto del Signore. E ora guarda dov'è la lancia del re e la brocca
+        che era presso il suo capo".
+      old_georgian: არა კეთილ არს საქმე ეგე თქუენი, რომელ ჰყავით, ხოლო ცხოველ არს
+        უფალი ჩემი, რამეთუ სიკუდილისა თანა-მდებ ხართ მცველნი ეგე უფლისა თქუენისა
+        მეფისანი, ცხებულისა უფლისა! აწ აღდეგით და იხილეთ თქუენ ჰოროლი იგი და
+        გოვზაკი მეფისა, რომელი იყო სასთუნალით კერძო მისა!
+      portuguese: "Não é bom isso que fizeste. Vive o Senhor, que sois dignos de
+        morte, porque não guardastes a vosso senhor, o\rungido do Senhor. Vede,
+        pois, agora onde está a lança do rei, e a bilha d'água que estava à sua
+        cabeceira."
+      polish: "Niedobrze postąpiłeś. Na życie Pana! Zasługujecie na śmierć: nie
+        strzegliście\rbowiem waszego pana, pomazańca Pańskiego. A teraz
+        patrzcie, gdzie jest\rdzida królewska i manierka na wodę, które były u
+        jego wezgłowia?”"
+      turkish: Görevini iyi yapmadın. Yaşayan RAB'bin adıyla derim ki, hepiniz ölümü
+        hak ettiniz; çünkü efendinizi, RAB'bin meshettiği kişiyi korumadınız.
+        Bak bakalım, kralın başucundaki mızrağıyla su matarası nerede?»
+      nrt: Скверно же ты поступил! Верно, как и то, что Господь жив, ты и твои люди
+        заслуживаете смерти, потому что вы не охраняли вашего господина,
+        помазанника Господа. Посмотри вокруг себя. Где копье царя и кувшин для
+        воды, которые были у его изголовья?
+      Macarius: "Не хорошо ты это делаешь. Жив Господь! достойны вы смерти, за то, что
+        не храните государя вашего, помазанника Господня. Посмотри: где копье
+        царево и кувшин с водою, который был у изголовья его?"
+      serbian: Нијеси добро радио. Тако да је жив Господ, заслужили сте смрт што
+        нијесте чували господара својега, помазаника Господњега. Ето, гледај,
+        гдје је копље царево и чаша за воду што му бјеше чело главе?
+      bulgarian: Ти лошо правиш; жив Господ! вие заслужавате смърт, задето не пазите
+        господаря си, помазаника Господен. Виж, де е копието на царя и съда с
+        вода, що бяха при възглавието му?
+      deutsch: Es ist aber nicht fein, was du getan hast. So wahr der Herr lebt, ihr
+        seid Kinder des Todes, daß ihr euren Herrn, den Gesalbten des Herrn,
+        nicht behütet habt. Nun siehe, hier ist der Spieß des Königs und der
+        Wasserbecher, die zu seinen Häupten waren.
+      ukr2: Недобра то річ, що ти вдіяв! Так певно, як живе Господь! Ви заслужили
+        смерть, що ви не стерегли вашого пана, Господнього помазаника. Глянь
+        лишень, де царський спис і кінва з водою, що були в головах у нього!»
+      ukr3: "Недобра се річ, що ти вдїяв: Так певно, як живе Господь, заслужили ви на
+        смерть, що ви свого пана, помазанника Господнього, не стережете.
+        Подивись лишень, де царський спис і коновка з водою, що стояли в головах
+        у його!"
+      bel_syomukha: Нядобра ты гэта робіш; жывы Гасподзь! вы вартыя сьмерці за тое,
+        што не ахоўваеце гаспадара вашага, памазанца Гасподняга. Паглядзі, дзе
+        дзіда царовая і посуд з вадою, што былі каля галавы ягонай?
+      lev-khv: "Не хорошо, что ты так поступаешь; жив Господь: вы повинны смерти за
+        то, что вы не охраняли государя своего, помазанника Господня. Посмотри
+        теперь, где копье царя и сосуд с водою, которые были у изголовья его."
+      czech: Nepocinal sis dobre. Jakoze ziv je Hospodin, jste syny smrti, protoze
+        jste nestrezili sveho pana, Hospodinova pomazaneho. Podivej se ted, kde
+        je kralovo kopi a dzbanek na vodu, ktery mel v hlavach!"
+      spanish: Alguien ha venido a matar al rey, tu señor. Eso no está bien. Como vive
+        Yavé, que mereces la muerte por no guardar a tu señor, el ungido de
+        Yavé. Busca la lanza y el jarro que tenía el rey junto a su cabecera>>.
+      greek-lxx: καὶ οὐκ ἀγαθὸν τὸ ῥῆμα τοῦτο ὃ πεποίηκας ζῇ Κύριος ὅτι υἱοὶ
+        θανατώσεως ὑμεῖς οἱ φυλάσσοντες τὸν βασιλέα κύριον ὑμῶν τὸν χριστὸν
+        Κυρίου καὶ νῦν ἰδὲ δή τὸ δόρυ τοῦ βασιλέως καὶ ὁ φακὸς τοῦ ὕδατος ποῦ
+        ἐστιν τὰ πρὸς κεφαλῆς αὐτοῦ
+      st_text: Нехорошо ты это делаешь; жив Господь! вы достойны смерти за то, что не
+        бережете господина вашего, помазанника Господня. Посмотри, где копье
+        царя и сосуд с водою, что <i>были</i> у изголовья его?
+  - id: 569
+    number: 17
+    bookId: 9
+    text: "И узнал Саул голос Давида и сказал: твой ли это голос, сын мой Давид? И
+      сказал Давид: мой голос, господин мой, царь."
+    chapter: 26
+    chapterId: 262
+    parallels:
+      - verseId: 502
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 24
+        short: 1 Цар:24:17
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И позна саул глас давидов и рече: твой ли глас сей, чадо давиде? И рече
+        давид: аз раб твой, господи царю."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# познA саyлъ глaсъ давjдовъ и3 рече2: тво1й ли глaсъ се1й, чaдо
+        давjде; И# рече2 давjдъ: ѓзъ рaбъ тво1й, го1споди царю2."
+      sovr_rbo: "Саул узнал голос Давида и сказал: «Давид, сын мой, не твой ли голос я
+        слышу?» — «Да, царь и господин мой, — отвечал Давид. —"
+      latin: "Cognovit autem Saul vocem David, et dixit: Numquid vox haec tua, fili mi
+        David? Et ait David: Vox mea, domine mi rex."
+      ukr: "І пізнав Саул Давидів голос, та й сказав: Чи це твій голос, сину мій
+        Давиде? А Давид сказав: Мій голос, пане мій, царю!"
+      nkjv: "Then Saul knew David's voice, and said, \"Is that your voice, my son
+        David?\" And David said, \"It is my voice, my lord, O king.\" "
+      desnitsky: "Саул узнал Давида по голосу и спросил: «Твой ли это голос, сын мой
+        Давид?» И Давид ответил: «Мой, о господин мой царь!»"
+      mt: ‫   וַיַּכֵּר שָׁאוּל אֶת־קוֹל דָּוִד וַיֹּאמֶר הֲקוֹלְךָ זֶה בְּנִי דָוִד
+        וַיֹּאמֶר דָּוִד קוֹלִי אֲדֹנִי הַמֶּלֶךְ׃ ‬
+      romana: 'Saul insa a cunoscut glasul lui David si a zis: "Al tau este glasul
+        acesta, fiul meu?" Iar David a raspuns: "Al meu, domnul meu, rege!"'
+      francais: "Saül reconnut la voix de David, et dit: Est-ce bien ta voix, mon fils
+        David? Et David répondit: C'est ma voix, ô roi, mon seigneur!"
+      italian: 'Saul riconobbe la voce di Davide e gridò: "È questa la tua voce,
+        Davide, figlio mio?". Rispose Davide: "È la mia voce, o re mio
+        signore".'
+      old_georgian: "და იცნა საულ ჴმაჲ იგი დავითისი და თქუა: ეგე ჴმაჲ შენი არს, შვილო
+        ჩემო დავით! და თქუა დავით: აქა ვარ მონა შენი, მეფე!"
+      portuguese: "Saul reconheceu a voz de Davi, e disse: Não é esta a tua voz, meu
+        filho Davi? Respondeu Davi: E minha voz, ó\rrei, meu senhor."
+      polish: "Saul rozpoznał głos Dawida. Rzekł: ”To twój głos, synu mój,
+        Dawidzie?”\rDawid odrzekł: ”Tak, panie mój, królu to mój głos”."
+      turkish: "Davut'un sesini tanıyan Saul, «Davut, oğlum, bu senin sesin mi?» diye
+        sordu.\rDavut, «Evet, efendim kral, benim sesim» diye karşılık verdi,"
+      nrt: "Саул узнал голос Давида и сказал: − Твой ли это голос, Давид, сын мой? −
+        Это мой голос, господин мой, царь, − ответил Давид"
+      Macarius: "Саул узнал голос Давидов, и сказал: твой ли это голос, сын мой,
+        Давид? Давид сказал: мой голос, государь мой, царь!"
+      serbian: "Тада Саул позна глас Давидов и рече: Је ли то твој глас, сине Давиде?
+        А Давид рече: Мој је глас, царе господару!"
+      bulgarian: "И Саул позна гласа на Давида и рече: твоят ли е тоя глас, сине мой
+        Давиде? И рече Давид: моят глас е, господарю мой, царю."
+      deutsch: "Da erkannte Saul die Stimme Davids und sprach: Ist das nicht deine
+        Stimme mein Sohn David? David sprach: Es ist meine Stimme, mein Herr
+        König."
+      ukr2: "Впізнав Саул голос Давида й каже: «Чи не твій це голос, сину мій,
+        Давиде?» «Так! - каже Давид, - це мій голос, мій пане, царю.»"
+      ukr3: "Саул же впізнав Давидів голос і каже: Чи се ж не твій голос, мій сину
+        Давиде? І рече Давид: Мій голос, пане мій, царю."
+      bel_syomukha: "І пазнаў Саўл голас Давідаў і сказаў: ці твой гэта голас, сыне
+        мой Давідзе? І сказаў Давід: мой голас, гаспадару мой, цару."
+      lev-khv: "Тогда узнал Саул голос Давида и сказал: не твой ли это голос, сын мой
+        Давид? И отвечал Давид: мой голос, государь мой, царь."
+      czech: 'Saul poznal po hlase Davida. Otazal se: "Je to tvuj hlas, muj synu
+        Davide?" David rekl: "Je to muj hlas, krali, muj pane."'
+      spanish: "Saúl conoció la voz de David y dijo: << ¿Eres tú, hijo mío, David?>>
+        David contestó: <<Yo soy, ¡oh rey, mi señor!>>"
+      greek-lxx: καὶ ἐπέγνω Σαουλ τὴν φωνὴν τοῦ Δαυιδ καὶ εἶπεν ἦ φωνή σου αὕτη τέκνον
+        Δαυιδ καὶ εἶπεν Δαυιδ δοῦλός σου κύριε βασιλεῦ
+      st_text: "И узнал Саул голос Давида и сказал: твой ли это голос, сын мой Давид?
+        И сказал Давид: мой голос, господин мой, царь."
+  - id: 570
+    number: 18
+    bookId: 9
+    text: "И сказал <i>еще</i>: за что господин мой преследует раба своего? что я
+      сделал? какое зло в руке моей?"
+    chapter: 26
+    chapterId: 262
+    parallels:
+      - verseId: 257
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 17
+        short: 1 Цар:17:29
+      - verseId: 377
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 20
+        short: 1 Цар:20:1
+      - verseId: 497
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 24
+        short: 1 Цар:24:12
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И рече давид: почто гониши раба твоего, господи царю? яко что (ти)
+        согреших? и кая обретеся во мне неправда?"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 давjдъ: почто2 го1ниши рабA твоего2, го1споди царю2; ћкw
+        что2 (ти2) согрэши1хъ; и3 кaz њбрётесz во мнЁ непрaвда;"
+      sovr_rbo: За что господин мой преследует раба своего? Что я сделал и в чем
+        провинился перед тобой?
+      latin: "Et ait: Quam ob causam dominus meus persequitur servum suum? Quid feci?
+        aut quod est malum in manu mea?"
+      ukr: "І далі сказав: Нащо то пан мій ганяється за своїм рабом? Бо що я зробив, і
+        яке зло в моїй руці?"
+      nkjv: And he said, "Why does my lord thus pursue his servant? For what have I
+        done, or what evil is in my hand?
+      desnitsky: "И добавил: «Зачем же господин мой гоняется за рабом своим? Что я
+        сделал, какое зло сотворил?"
+      mt: ‫   וַיֹּאמֶר לָמָּה זֶּה אֲדֹנִי רֹדֵף אַחֲרֵי עַבְדּוֹ כִּי מֶה עָשִׂיתִי
+        וּמַה־בְּיָדִי רָעָה׃ ‬
+      romana: 'Apoi a adaugat: "Pentru ce urmareste domnul meu pe robul sau? Ce-am
+        facut eu? Sau ce rau este in mana mea?'
+      francais: "Et il dit: Pourquoi mon seigneur poursuit-il son serviteur? Qu'ai-je
+        fait, et de quoi suis-je coupable?"
+      italian: 'Aggiunse: "Perché il mio si gnore perseguita il suo servo? Che ho
+        fatto? Che male si trova in me?'
+      old_georgian: "და კუალად თქუა: რასათჳს მდევნი მე, მონასა ამას შენსა, მეფე? რა
+        შეგცოდე, ანუ რაჲ იპოვა ჩემ თანა ბრალი?"
+      portuguese: "Disse mais: Por que o meu senhor persegue tanto o seu servo? que
+        fiz eu? e que maldade se acha na minha\rmão?"
+      polish: "I dodał: ”Czemu pan mój ściga swego sługę? Cóż uczyniłem? Czy
+        popełniłem\rcoś złego?"
+      turkish: «Efendim, ben kulunu neden kovalıyorsun? Ne yaptım? Ne suç işledim?
+      nrt: "и добавил: − Зачем мой господин преследует своего слугу? Что я сделал и в
+        каком зле повинен?"
+      Macarius: "И сказал: за что преследуешь, государь мой, раба? Ибо что я сделал, и
+        какое зло в руке моей?"
+      serbian: "Још рече: Зашто господар мој гони слугу својега? Јер шта сам учинио? И
+        како је зло у руци мојој?"
+      bulgarian: "И рече още: за какво господарят ми преследва своя раб? Какво съм
+        сторил? Какво зло намери у мене?"
+      deutsch: "Und sprach weiter: Warum verfolgt mein Herr also seinen Knecht? Was
+        habe ich getan? und was Übels ist in meiner Hand?"
+      ukr2: "Та й каже далі: «Чого мій пан переслідує свого слугу? Що я вчинив? Чим я
+        провинився?"
+      ukr3: "Та й рече далїй: Чого ж се ти женешся за твоїм рабом? що я таке вчинив, і
+        яке зло в руцї моїй?"
+      bel_syomukha: "І сказаў: за што гаспадар мой перасьледуе раба свайго? што я
+        зрабіў? якое ліха ў руцэ маёй?"
+      lev-khv: "И потом сказал: за что государь мой преследует раба своего? ибо что а
+        сделал? какое злодеяние с моей стороны?"
+      czech: 'Dale rekl: "Proc vlastne muj pan pronasleduje sveho otroka? Vzdyt ceho
+        jsem se dopustil? Co je na mne zleho?'
+      spanish: "y añadió: << ¿Por qué persigue el rey a su siervo? ¿Qué he hecho yo?
+        ¿Qué crimen he cometido?"
+      greek-lxx: καὶ εἶπεν ἵνα τί τοῦτο καταδιώκει ὁ κύριός μου ὀπίσω τοῦ δούλου αὐτοῦ
+        ὅτι τί ἡμάρτηκα καὶ τί εὑρέθη ἐν ἐμοὶ ἀδίκημα
+      st_text: "И сказал <i>еще</i>: за что господин мой преследует раба своего? что я
+        сделал? какое зло в руке моей?"
+  - id: 571
+    number: 19
+    bookId: 9
+    text: 'И ныне пусть выслушает господин мой, царь, слова раба своего: если
+      Господь возбудил тебя против меня, то да будет это от тебя благовонною
+      жертвою; если же - сыны человеческие, то прокляты они пред Господом, ибо
+      они изгнали меня ныне, чтобы не принадлежать мне к наследию Господа,
+      говоря: "ступай, служи богам чужим".'
+    chapter: 26
+    chapterId: 262
+    parallels:
+      - verseId: 32504
+        bookId: 22
+        bookCode: psaltir
+        chapter: 83
+        short: Пс:83:11
+      - verseId: 30845
+        bookId: 22
+        bookCode: psaltir
+        chapter: 119
+        short: Пс:119:2
+      - verseId: 33919
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 28
+        short: Сир:28:15
+      - verseId: 33925
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 28
+        short: Сир:28:21
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и ныне да послушает господь мой царь глаголов раба своего: аще Бог
+        поощряет тя на мя, да будет благовонна жертва твоя: аще же сынове
+        человечестии, прокляти сии пред Господем, яко изгнаша мя днесь не
+        утвердитися в жребии Господни, глаголюще: пойди, работай богом чуждим:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 нн7э да послyшаетъ госпо1дь мо1й цaрь глаго1лwвъ рабA своегw2: ѓще
+        бг7ъ поwщрsетъ тS на мS, да бyдетъ благово1нна же1ртва твоS: ѓще же
+        сы1нове человёчестіи, про1клzти сjи пред8 гDемъ, ћкw и3згнaша мS дне1сь
+        не ўтверди1тисz въ жре1біи гDни, глаго1люще: пойди2, рабо1тай богHмъ
+        чужди6мъ:"
+      sovr_rbo: "Пусть же царь и господин мой выслушает раба своего! Если это Господь
+        возбудил тебя против меня, то пусть запах жертвы умилостивит Его. А если
+        люди, то да будут они прокляты перед Господом: изгоняя меня, они лишают
+        меня доли в Его наследии и тем самым говорят мне: „Иди и служи другим
+        богам!”"
+      latin: "Nunc ergo audi, oro, domine mi rex, verba servi tui: si Dominus incitat
+        te adversum me, odoretur sacrificium: si autem filii hominum, maledicti
+        sunt in conspectu Domini: qui ejecerunt me hodie, ut non habitem in
+        haereditate Domini, dicentes: Vade, servi diis alienis."
+      ukr: "А тепер нехай пан мій, цар, послухає слів свого раба. Якщо Господь намовив
+        тебе проти мене, то нехай це станеться запашною жертвою, а якщо людські
+        сини, прокляті вони перед Господнім лицем, бо вони відігнали мене
+        сьогодні, щоб я не належав до Господнього спадку, говорячи: Іди, служи
+        іншим богам!"
+      nkjv: "Now therefore, please, let my lord the king hear the words of his
+        servant: If the Lord has stirred you up against me, let Him accept an
+        offering. But if it is the children of men, may they be cursed before
+        the Lord, for they have driven me out this day from sharing in the
+        inheritance of the Lord, saying, 'Go, serve other gods.' "
+      desnitsky: "Пусть выслушает теперь господин мой царь слова раба своего: если это
+        ГОСПОДЬ послал тебя против меня, то да будет Ему угодна эта жертва, но
+        если причина – сыны человеческие, то прокляты они пред ГОСПОДОМ! Они
+        лишают меня доли в наследии ГОСПОДНЕМ, гонят меня, чтобы мне служить
+        другим богам."
+      mt: ‫   וְעַתָּה יִשְׁמַע־נָא אֲדֹנִי הַמֶּלֶךְ אֵת דִּבְרֵי עַבְדּוֹ אִם־יְהוָה
+        הֱסִיתְךָ בִי יָרַח מִנְחָה וְאִם בְּנֵי הָאָדָם אֲרוּרִים הֵם לִפְנֵי
+        יְהוָה כִּי־גֵרְשׁוּנִי הַיּוֹם מֵהִסְתַּפֵּחַ בְּנַחֲלַת יְהוָה לֵאמֹר
+        לֵךְ עֲבֹד אֱלֹהִים אֲחֵרִים׃ ‬
+      romana: "Sa asculte dar regele, stapanul meu, cuvintele robului sau: Daca Domnul
+        te-a indemnat impotriva mea, sa fie aceasta din partea ta jertfa cu buna
+        mireasma; iar daca fiii oamenilor te-au pus la cale, blestemati sa fie
+        ei inaintea Domnului, caci ei m-au izgonit acum, ca sa nu mai fac parte
+        din mostenirea Domnului, zicand: Mergi de slujeste la dumnezei straini."
+      francais: "Que le roi, mon seigneur, daigne maintenant écouter les paroles de
+        son serviteur: si c'est l'Éternel qui t'excite contre moi, qu'il agrée
+        le parfum d'une offrande; mais si ce sont des hommes, qu'ils soient
+        maudits devant l'Éternel, puisqu'ils me chassent aujourd'hui pour me
+        détacher de l'héritage de l'Éternel, et qu'ils me disent: Va servir des
+        dieux étrangers!"
+      italian: "Ascolti dunque il re mio signore la parola del suo servo: se il
+        Signore ti eccita contro di me, voglia accettare il profumo di
+        un'offerta. Ma se sono gli uomini, siano maledetti davanti al Signore,
+        perché oggi mi scacciano lontano, impedendomi di partecipare all'eredità
+        del Signore. È come se dicessero: Va' a servire altri dei."
+      old_georgian: "და აწ ისმინე, უფალო ჩემო მეფე, სიტყუაჲ მონისა შენისა! უკუეთუ
+        ღმერთსა აღუდგინებიე შენ მდევრად ჩემ ზედა, იყავნ ნება ღმრთისა. უკუეთუ
+        კაცთა მიერ არს, წყეულ იყუნედ იგინი წინაშე უფლისა! რამეთუ დღეს გამომჴადეს
+        მე მაგათ, რათა არა დავემტკიცო მე სამკჳდრებელსა უფლისასა, და თქუეს:
+        უტევეთ და მივიდეს და ჰმონოს კერპთა მათ უცხოთა!"
+      portuguese: "Ouve pois agora, ó rei, meu senhor, as palavras de teu servo: Se é
+        o Senhor quem te incita contra mim, receba\rele uma oferta; se, porém,
+        são os filhos dos homens, malditos sejam perante o Senhor, pois eles me
+        expulsaram\rhoje para que eu não tenha parte na herança do Senhor,
+        dizendo: Vai, serve a outros deuses."
+      polish: "Niech teraz pan mój, król, posłucha słów swego sługi. Jeśli Pan
+        pobudził cię\rprzeciwko mnie, niech rozkoszuje się wonią ofiarną, a
+        jeśli ludzie - niech będą\rprzeklęci przed Panem, gdyż wypędzają mnie
+        dziś, abym nie miał udziału w\rJego dziedzictwie mówiąc niejako: ”Idź
+        służyć obcym bogom!”"
+      turkish: Lütfen, efendim kral, kulunun sözlerine kulak ver. Eğer seni bana karşı
+        kışkırtan RAB ise, bir sunu O'nu yatıştırır. Ama bunu yapan insanlarsa,
+        RAB'bin önünde lanetli olsunlar! Çünkü, `Git, başka ilahlara kulluk et'
+        diyerek, RAB'bin mirasından bana düşen paydan bugün beni
+        uzaklaştırdılar.
+      nrt: "Пусть же мой господин, царь, выслушает слова своего слуги. Если Господь
+        настроил тебя против меня, то я совершу жертвоприношение Ему. Но если
+        это сделали люди, пусть они будут прокляты перед Господом! Они прогнали
+        меня от моей доли в Господнем наследии и сказали: «Ступай, служи другим
+        богам!»"
+      Macarius: "Итак выслушай, государь мой, царь, слова раба своего: если Господь
+        возбудил тебя против меня, то да будет Ему от тебя благовонное
+        приношение. Если же сыны человеческие, то прокляты пред Господом;
+        поелику изгнали меня ныне, и не дают участвовать в наследии Господнем,
+        говоря: пойди, служи другим богам."
+      serbian: "Зато сада, царе господару мој, послушај ријечи слуге својега. Ако те
+        Господ дражи на мене, нека му је угодан принос твој; ако ли синови
+        човјечији, проклети су пред Господом, јер ме изагнаше данас да се не
+        држим нашљедства Господњега и рекоше: Иди, служи туђим боговима."
+      bulgarian: "А сега моят господар и цар нека изслуша думите на своя раб: ако
+        Господ те е подбудил против мене, нека това бъде от тебе благовонна
+        жертва; ако пък - синове човешки, то проклети да са пред Господа, понеже
+        те ме изгониха сега, за да не принадлежа към наследието Господне,
+        думайки: иди служи на чужди богове."
+      deutsch: "So höre doch nun mein Herr, der König, die Worte seines Knechtes:
+        Reizt dich der Herr wider mich, so lasse man ihn ein Speisopfer riechen;
+        tun's aber Menschenkinder, so seien sie verflucht vor dem Herrn, daß sie
+        mich heute verstoßen, daß ich nicht hafte in des Herrn Erbteil, und
+        sprechen: Gehe hin, diene andern Göttern!"
+      ukr2: "Нехай же мій пан цар вислухає тепер слова свого слуги: якщо Господь
+        настроїв тебе проти мене, хай буде йому приємна пахуча офіра; а коли
+        люди, то нехай вони будуть прокляті перед лицем Господнім, бо вони
+        вигнали мене сьогодні, щоб я не мав части в спадкоємстві Господнім,
+        кажучи: Йди, служи чужим богам!"
+      ukr3: "Ой коли б же ти, пане мій, царю, хоч тепер прихилив ухо до слів раба
+        твого: Коли Господь настроїв тебе проти мене, так нехай воно буде йому
+        од тебе пахучою жертвою; коли ж люде, то нехай вони будуть прокляті
+        перед лицем Господнїм, бо вони мене оце вигнали, щоб не було менї
+        частини в наслїддї Господньому, і сказали: Ійди, служи чужим богам."
+      bel_syomukha: "І сёньня няхай выслухае гаспадар мой, цар, слова раба свайго:
+        калі Гасподзь узбудзіў цябе супроць мяне, дык хай гэта будзе ад цябе
+        духмянаю ахвяраю; а калі - сыны чалавечыя, дык пракляты яны прад
+        Госпадам, бо яны выгналі мяне сёньня, каб не належаць мне да спадчыны
+        Госпада, кажучы: ідзі, служы багам чужым."
+      lev-khv: "Теперь прошу, да выслушает государь мой, царь, слова раба своего: если
+        Господь возбуждает тебя против меня, то да будет приятно Ему это
+        приношение; если же люди, то прокляты они пред Господом; ибо они изгнали
+        меня, чтобы я не мог участвовать в наследии Господнем, и говорят: поди,
+        служи богам чужим."
+      czech: "Necht nyni kral, muj pan, vyslechne slova sveho otroka. Jestli te proti
+        mne podnecuje Hospodin, necht prijme vuni obetniho daru. Jestli vsak
+        lide, at jsou prokleti pred Hospodinem. Vzdyt me dnes zapudili, abych se
+        nemohl podilet na Hospodinove dedictvi, jako by rekli: ‚Jdi slouzit
+        jinym bohum.'"
+      spanish: "Si es Yavé quien te excita contra mí, que Él reciba el olor de una
+        ofrenda; pero si son los hombres, malditos sean de Yavé, pues me echan
+        ahora de mi puesto en la heredad de Yavé, diciendo: <<Vete a servir a
+        dioses ajenos>>."
+      greek-lxx: καὶ νῦν ἀκουσάτω δὴ ὁ κύριός μου ὁ βασιλεὺς τὸ ῥῆμα τοῦ δούλου αὐτοῦ
+        εἰ ὁ Θεὸς ἐπισείει σε ἐπ᾿ ἐμέ ὀσφρανθείη θυσίας σου καὶ εἰ υἱοὶ ἀνθρώπων
+        ἐπικατάρατοι οὗτοι ἐνώπιον Κυρίου ὅτι ἐξέβαλόν με σήμερον μὴ ἐστηρίσθαι
+        ἐν κληρονομίᾳ Κυρίου λέγοντες πορεύου δούλευε θεοῖς ἑτέροις
+      st_text: 'И ныне пусть выслушает господин мой, царь, слова раба своего: если
+        Господь возбудил тебя против меня, то да будет это от тебя благовонною
+        жертвою; если же - сыны человеческие, то прокляты они пред Господом, ибо
+        они изгнали меня ныне, чтобы не принадлежать мне к наследию Господа,
+        говоря: "ступай, служи богам чужим".'
+  - id: 572
+    number: 20
+    bookId: 9
+    text: Да не прольется же кровь моя на землю пред лицем Господа; ибо царь
+      Израилев вышел искать одну блоху, как гоняются за куропаткою по горам.
+    chapter: 26
+    chapterId: 262
+    parallels:
+      - verseId: 500
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 24
+        short: 1 Цар:24:15
+      - verseId: 30265
+        bookId: 22
+        bookCode: psaltir
+        chapter: 10
+        short: Пс:10:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и ныне да не падет кровь моя на землю пред лицем Господним, яко изыде царь
+        израилев искати души моея, и гонит якоже нощный вран по горам.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 нн7э да не паде1тъ кро1вь моS на зе1млю пред8 лице1мъ гDнимъ, ћкw
+        и3зы1де цaрь ї}левъ и3скaти души2 моеS, и3 го1нитъ ћкоже нощны1й врaнъ
+        по горaмъ.
+      sovr_rbo: Но да не будет кровь моя пролита вдали от Господа! Словно на куропатку
+        в горах вышел охотиться царь Израиля, чтобы поймать всего лишь блоху!»
+      latin: "Et nunc non effundatur sanguis meus in terram coram Domino: quia
+        egressus est rex Israel ut quaerat pulicem unum, sicut persequitur
+        perdix in montibus."
+      ukr: А тепер нехай не проллється моя кров на землю перед Господнім лицем, бо
+        вийшов Ізраїлів цар шукати однієї блохи, як женуть куропатву в горах!
+      nkjv: So now, do not let my blood fall to the earth before the face of the Lord.
+        For the king of Israel has come out to seek a flea, as when one hunts a
+        partridge in the mountains."
+      desnitsky: Да не прольется кровь моя на землю вдали от ГОСПОДНЕГО святилища!
+        Вышел царь Израиля в поход на поиски какой-то блохи, гоняется, словно за
+        куропаткой по горам».
+      mt: ‫   וְעַתָּה אַל־יִפֹּל דָּמִי אַרְצָה מִנֶּגֶד פְּנֵי יְהוָה כִּי־יָצָא
+        מֶלֶךְ יִשְׂרָאֵל לְבַקֵּשׁ אֶת־פַּרְעֹשׁ אֶחָד כַּאֲשֶׁר יִרְדֹּף
+        הַקֹּרֵא בֶּהָרִים׃ ‬
+      romana: Sa nu se verse insa sangele meu pe pamant inaintea Domnului; caci regele
+        lui Israel a iesit sa caute un purice, cum se cauta prepelitele pe
+        dealuri".
+      francais: Oh! que mon sang ne tombe pas en terre loin de la face de l'Éternel!
+        Car le roi d'Israël s'est mis en marche pour chercher une puce, comme on
+        chasserait une perdrix dans les montagnes.
+      italian: Almeno non sia versato sulla terra il mio sangue lontano dal Signore,
+        ora che il re d'Israele è uscito in campo per ricercare una pulce, come
+        si insegue una pernice sui monti".
+      old_georgian: და ნუ დავარდებინ სისხლი ჩემი წინაშე უფლისა, რამეთუ გამოსრულ არს
+        მეფე ისრაჱლისა ძიებად სულისა ჩემისა, ვითარცა ვინ ეძიებნ გრწყილსა ერთსა,
+        ანუ თუ მღამიობსა ერთსა უდაბნოსა ზედა!
+      portuguese: "Agora, pois, não caia o meu sangue em terra fora da presença do
+        Senhor; pois saiu o rei de Israel em busca\rduma pulga, como quem
+        persegue uma perdiz nos montes."
+      polish: "Niechże teraz krew moja nie będzie wylana na ziemię z dala od Pana.
+        Król\rbowiem Izraela wyruszył, aby czyhać na moje życie, jak się poluje
+        na kuropatwę po górach”."
+      turkish: Ne olur, kanım RAB'den uzak topraklara dökülmesin. İsrail Kralı,
+        dağlarda keklik avlayan avcı gibi, bir pireyi avlamaya çıkmış!»
+      nrt: Не дай же моей крови пролиться на землю вдали от Господа. Царь Израиля ищет
+        меня, как блоху, гоняется за мной по горам, как за куропаткой.
+      Macarius: Но не падет кровь моя на землю вдали от лица Господня! Царь Израилев
+        выступил искать одной блохи, так, как гоняются за куропаткою по горам.
+      serbian: Али сада да не падне крв моја на земљу далеко од очију Господњих; јер
+        цар Израиљев изиде да тражи буху једну, као кад ко гони јаребицу по
+        планини.
+      bulgarian: Нека се не пролее моята кръв на земята пред Господа, защото царят
+        Израилев излезе да търси една бълха, както тичат подир яребица по
+        планините.
+      deutsch: So falle nun mein Blut nicht auf die Erde, ferne von dem Angesicht des
+        Herrn. Denn der König Israels ist ausgezogen zu suchen einen Floh, wie
+        man ein Rebhuhn jagt auf den Bergen.
+      ukr2: Нехай же моя кров не проллється на землю далеко від лиця Господнього! Оце
+        бо цар Ізраїля вийшов чигати на мою душу, як уганяють за куріпкою по
+        горах.»
+      ukr3: Нехай же кров моя не пролиється на землю перед лицем Господнїм, оце бо
+        царь Ізрайлїв та вийшов шукати одну блоху, як уганяють за куропаткою по
+        горах!
+      bel_syomukha: "Хай жа не пральецца кроў мая на зямлю прад абліччам Госпада: бо
+        цар Ізраілеў выйшаў шукаць адну блыху, як ганяюцца за курапаткаю па
+        гарах."
+      lev-khv: Но да не прольется кровь моя на земле вдали от лица Господня; ведь царь
+        Израилев вышел искать блоху какую-то, как преследуют куропатку в горах.
+      czech: Kez ma krev nevytece na zem daleko od Hospodinovy tvare. Vzdyt izraelsky
+        kral vytahl, aby hledal pouhou blechu, jako by honil po horach
+        koroptev."
+      spanish: Que no caiga mi sangre sobre la tierra, lejos de la faz de Yavé, ya que
+        el rey se ha puesto a perseguirme como se persigue por los montes a una
+        perdiz>>.
+      greek-lxx: καὶ νῦν μὴ πέσοι τὸ αἷμά μου ἐπὶ τὴν γῆν ἐξ ἐναντίας προσώπου Κυρίου
+        ὅτι ἐξελήλυθεν ὁ βασιλεὺς Ισραηλ ζητεῖν τὴν ψυχήν μου καθὼς καταδιώκει ὁ
+        νυκτικόραξ ἐν τοῖς ὄρεσιν
+      st_text: Да не прольется же кровь моя на землю пред лицем Господа; ибо царь
+        Израилев вышел искать одну блоху, как гоняются за куропаткою по горам.
+  - id: 573
+    number: 21
+    bookId: 9
+    text: "И сказал Саул: согрешил я; возвратись, сын мой Давид, ибо я не буду
+      больше делать тебе зла, потому что душа моя была дорога ныне в глазах
+      твоих; безумно поступал я и очень много погрешал."
+    chapter: 26
+    chapterId: 262
+    parallels:
+      - verseId: 503
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 24
+        short: 1 Цар:24:18
+      - verseId: 32232
+        bookId: 22
+        bookCode: psaltir
+        chapter: 71
+        short: Пс:71:14
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И рече саул: согреших: возвратися, чадо давиде, яко ктому не сотворю ти
+        зла, зане честна душа моя пред очима твоима в день сей: безумно
+        сотворих, и погреших много зело."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 саyлъ: согрэши1хъ: возврати1сz, чaдо давjде, ћкw ктомY не
+        сотворю1 ти ѕлA, зане2 честнA душA моS пред8 nчи1ма твои1ма въ де1нь
+        се1й: безyмнw сотвори1хъ, и3 погрэши1хъ мно1гw ѕэлw2."
+      sovr_rbo: "Саул сказал: «Я виноват. Вернись, Давид, сын мой! Я не причиню тебе
+        зла, ведь сегодня ты сохранил мне жизнь. Я поступал глупо, я безумно
+        заблуждался». —"
+      latin: "Et ait Saul: Peccavi, revertere fili mi David: nequaquam enim ultra tibi
+        malefaciam, eo quod pretiosa fuerit anima mea in oculis tuis hodie:
+        apparet enim quod stulte egerim, et ignoraverim multa nimis."
+      ukr: "І сказав Саул: Прогрішив я! Вернися, сину мій, Давиде, бо не вчиню вже
+        тобі зла за те, що дороге було моє життя в очах твоїх цього дня. Оце був
+        я нерозумний, і дуже багато помилявся."
+      nkjv: Then Saul said, "I have sinned. Return, my son David. For I will harm you
+        no more, because my life was precious in your eyes this day. Indeed I
+        have played the fool and erred exceedingly."
+      desnitsky: "Саул ответил: «Согрешил я! Вернись, сын мой Давид, и впредь я не
+        причиню тебе зла. Драгоценной была сегодня жизнь моя в глазах твоих, а я
+        был безумцем, как же глубоко я заблуждался!»"
+      mt: ‫   וַיֹּאמֶר שָׁאוּל חָטָאתִי שׁוּב בְּנִי־דָוִד כִּי לֹא־אָרַע לְךָ עוֹד
+        תַּחַת אֲשֶׁר יָקְרָה נַפְשִׁי בְּעֵינֶיךָ הַיּוֹם הַזֶּה הִנֵּה
+        הִסְכַּלְתִּי וָאֶשְׁגֶּה הַרְבֵּה מְאֹד׃ ‬
+      romana: 'Iar Saul a zis: "Am gresit! Intoarce-te, fiul meu David, ca nu-ti voi
+        mai face rau, pentru ca sufletul meu a fost acum scump in ochii tai;
+        nebuneste m-am purtat si am gresit foarte mult".'
+      francais: "Saül dit: J'ai péché; reviens, mon fils David, car je ne te ferai
+        plus de mal, puisqu'en ce jour ma vie a été précieuse à tes yeux. J'ai
+        agi comme un insensé, et j'ai fait une grande faute."
+      italian: 'Il re rispose: "Ho peccato, ritorna, Davide figlio mio. Non ti farò
+        più del male, perché la mia vita oggi è stata tanto preziosa ai tuoi
+        occhi. Ho agito da sciocco e mi sono molto, molto ingannato".'
+      old_georgian: "და ჰრქუა საულ დავითს: ვცოდე, შვილო დავით. აწ მოიქეც ჩემდა, რამეთუ
+        არარა გავნო ამისთჳს, ვინათგან საყვარელ არს სული ჩემი შენ წინაშე. ხოლო მე
+        ვიდრე დღეინდელამდე ცილისმეძიებელ ვიყავ და დაუდგრომელ ფრიად."
+      portuguese: "Então disse Saul: Pequei; volta, meu filho Davi, pois não tornarei
+        a fazer-te mal, porque a minha vida foi hoje\rpreciosa aos teus olhos.
+        Eis que procedi como um louco, e errei grandissimamente."
+      polish: "Odrzekł Saul: ”Zgrzeszyłem. Wróć, synu mój, Dawidzie, już nigdy nie
+        zrobię\rci krzywdy, gdyż dzisiaj cenne było w twych oczach moje życie.
+        Postępowałem nierozsądnie i błądziłem bardzo”."
+      turkish: Bunun üzerine Saul, «Günah işledim» diye karşılık verdi, «Davut, oğlum,
+        geri dön. Bugün yaşamıma değer verdiğin için sana bir daha kötülük
+        yapmayacağım. Gerçekten akılsızca davrandım, çok büyük yanlışlık
+        yaptım.»
+      nrt: "Саул сказал: − Я согрешил. Вернись, Давид, сын мой. Сегодня моя жизнь была
+        для тебя драгоценной, и я не буду больше пытаться причинить тебе вред. Я
+        поступал, как безумец, и совершил огромную ошибку."
+      Macarius: "И сказал Саул: согрешил я, возвратись, сын мой, Давид. Я уже не буду
+        делать тебе зла, потому что душа моя дорога была в глазах твоих сегодня.
+        Вот, я был безрассуден и грешил весьма много."
+      serbian: "Тада рече Саул: Згријешио сам; врати се, сине Давиде, нећу ти отсаде
+        чинити зла кад ти данас драга би душа моја; ево, лудо сам радио и
+        погријешио сам веома."
+      bulgarian: "И Саул каза: аз съгреших; върни се, сине мой Давиде, защото няма
+        вече да ти правя зло, понеже днес душата ми беше скъпа в твоите очи;
+        безумно постъпвах аз и твърде много съгреших."
+      deutsch: "Und Saul sprach: Ich habe gesündigt, komm wieder, mein Sohn David, ich
+        will dir fürder kein Leid tun, darum daß meine Seele heutigestages teuer
+        gewesen ist in deinen Augen. Siehe, ich habe töricht und sehr unweise
+        getan."
+      ukr2: "Саул сказав: «Згрішив я! Вернись назад, мій сину, Давиде, зла тобі більш
+        не заподію, тому що душа моя була тобі такою дорогою нині. Я вчинив
+        по-дурному і тяжко провинився!»"
+      ukr3: "І відказав Саул: Провинив я; вернись назад, сину Давиде; нїколи вже не
+        засмучу тебе, тим що моя душа тобі сьогоднї була дорога: по дурному
+        чинив я й проступився тяжко."
+      bel_syomukha: "І сказаў Саўл: зграшыў я; вярніся, сыне мой Давідзе, бо я ня буду
+        больш чыніць табе зла, бо душа мая была дарагая сёньня ў вачах тваіх;
+        неразумна рабіў я і многа грашыў."
+      lev-khv: "Тогда Саул сказал: согрешил я; возвратись, сын мой Давид; ибо я больше
+        не стану обижать тебя, так как ты подорожил ныне жизнию моею; а я
+        поступал безумно и весьма много ошибался."
+      czech: 'Saul na to rekl: "Zhresil jsem. Vrat se, muj synu Davide. Nic zleho ti
+        uz neudelam, protoze sis dnes cenil meho zivota. Pocinal jsem si jako
+        pomatenec, prevelice jsem chybil."'
+      spanish: "Saúl dijo: <<He pecado. Vuelve, David, hijo mío, que yo no te haré ya
+        mal, puesto que mi vida ha sido hoy preciosa a tus ojos. He obrado como
+        un insensato y he faltado mucho>>."
+      greek-lxx: καὶ εἶπεν Σαουλ ἡμάρτηκα ἐπίστρεφε τέκνον Δαυιδ ὅτι οὐ κακοποιήσω σε
+        ἀνθ᾿ ὧν ἔντιμος ψυχή μου ἐν ὀφθαλμοῖς σου ἐν τῇ σήμερον μεματαίωμαι καὶ
+        ἠγνόηκα πολλὰ σφόδρα
+      st_text: "И сказал Саул: согрешил я; возвратись, сын мой Давид, ибо я не буду
+        больше делать тебе зла, потому что душа моя была дорога ныне в глазах
+        твоих; безумно поступал я и очень много погрешал."
+  - id: 574
+    number: 22
+    bookId: 9
+    text: "И отвечал Давид и сказал: вот копье царя; пусть один из отроков придет и
+      возьмет его;"
+    chapter: 26
+    chapterId: 262
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И отвеща давид и рече: се, копие царево, да приидет отрок един и возмет
+        е:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# tвэщA давjдъ и3 рече2: се2, копіе2 царе1во, да пріи1детъ џтрокъ
+        є3ди1нъ и3 во1зметъ є5:"
+      sovr_rbo: «Вот царское копье, — отвечал Давид, — пусть кто-нибудь из воинов
+        придет и заберет его.
+      latin: "Et respondens David, ait: Ecce hasta regis: transeat unus de pueris
+        regis, et tollat eam."
+      ukr: "А Давид відповів та й сказав: Ось царів спис, і нехай прийде один із слуг,
+        і нехай його візьме."
+      nkjv: "And David answered and said, \"Here is the king's spear. Let one of the
+        young men come over and get it. "
+      desnitsky: "Давид сказал: «Вот копье царя, и пусть подойдет сюда кто-нибудь из
+        царских отроков и заберет его."
+      mt: ‫   וַיַּעַן דָּוִד וַיֹּאמֶר הִנֵּה *החנית **חֲנִית הַמֶּלֶךְ וְיַעֲבֹר
+        אֶחָד מֵהַנְּעָרִים וְיִקָּחֶהָ׃ ‬
+      romana: 'David insa a raspuns si a zis: "Iata sulita regelui; sa vina unul din
+        oameni si sa o ia,'
+      francais: "David répondit: Voici la lance du roi; que l'un de tes gens vienne la
+        prendre."
+      italian: 'Rispose Davide: "Ecco la lancia del re, passi qui uno degli uomini e
+        la prenda!'
+      old_georgian: "მიუგო დავით და ჰრქუა: აჰა, ესერა, დამიც ჰოროლი იგი მეფისა ველსა
+        ამასა ზედა. აწ მო-ვინ-ვედინ მონათა შენთაგანი და წარიღენ!"
+      portuguese: "Davi então respondeu, e disse: Eis aqui a lança, ó rei! venha cá um
+        os mancebos, e leve-a."
+      polish: "Dawid zaś odpowiedział: ”Oto dzida królewska, niech przyjdzie który z
+        pachołków i weźmie ją."
+      turkish: Davut, «İşte kralın mızrağı!» dedi, «Adamlarından biri gelip alsın.
+      nrt: − Вот копье царя, − ответил Давид. − Пусть кто-нибудь из твоих молодых слуг
+        перейдет сюда и возьмет его.
+      Macarius: "И отвечал Давид, и сказал: вот копье царево! Пусть придет один из
+        отроков и возьмет его."
+      serbian: "А Давид одговори и рече: Ево копља царева; нека дође који од момака и
+        нека га узме."
+      bulgarian: "Давид отговори и рече: ето копието на царя; нека дойде един момък и
+        го вземе;"
+      deutsch: "David antwortete und sprach: Siehe, hier ist der Spieß des Königs; es
+        gehe der Jünglinge einer herüber und hole ihn."
+      ukr2: "А Давид відповів: «Ось тут царський спис: нехай хтось із молодців прийде
+        сюди й візьме."
+      ukr3: "І відказав Давид: Ось царський спис; нехай хто з слуг прийде сюди й
+        візьме."
+      bel_syomukha: "І адказваў Давід і сказаў: вось дзіда царовая; няхай адзін
+        хлопчык прыйдзе і возьме яе;"
+      lev-khv: "Отвечал Давид и сказал: вот копье царя; пусть один из слуг придет и
+        возьмет его."
+      czech: 'David odpovedel: "Tu je kralovo kopi. At sem prijde nekdo z druziny a
+        odnese je.'
+      spanish: "David respondió: <<Aquí tienes tu lanza, rey. Que venga un mozo a
+        buscarla."
+      greek-lxx: καὶ ἀπεκρίθη Δαυιδ καὶ εἶπεν ἰδοὺ τὸ δόρυ τοῦ βασιλέως διελθέτω εἷς
+        τῶν παιδαρίων καὶ λαβέτω αὐτό
+      st_text: "И отвечал Давид и сказал: вот копье царя; пусть один из отроков придет
+        и возьмет его;"
+  - id: 575
+    number: 23
+    bookId: 9
+    text: и да воздаст Господь каждому по правде его и по истине его, так как
+      Господь предавал тебя в руки <i>мои</i>, но я не захотел поднять руки моей
+      на помазанника Господня;
+    chapter: 26
+    chapterId: 262
+    parallels:
+      - verseId: 563
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 26
+        short: 1 Цар:26:11
+      - verseId: 31246
+        bookId: 22
+        bookCode: psaltir
+        chapter: 17
+        short: Пс:17:25
+      - verseId: 29831
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 24
+        short: Притч:24:12
+      - verseId: 28070
+        bookId: 35
+        bookCode: kniga-proroka-osii
+        chapter: 4
+        short: Ос:4:9
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и Господь да возвратит коемуждо по правде его и по вере его: якоже
+        предаде тя Господь днесь в руце мои, и не восхотех нанести руки моея на
+        христа Господня:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 гDь да возврати1тъ коемyждо по прaвдэ є3гw2 и3 по вёрэ є3гw2:
+        ћкоже предаде1 тz гDь дне1сь въ рyцэ мои2, и3 не восхотёхъ нанести2
+        руки2 моеS на хрістA гDнz:"
+      sovr_rbo: И пусть Господь воздаст каждому по его праведности и верности; сегодня
+        Он отдал тебя в мою власть, но я не захотел поднимать руку на
+        помазанника Господа.
+      latin: "Dominus autem retribuet unicuique secundum justitiam suam et fidem:
+        tradidit enim te Dominus hodie in manum meam, et nolui extendere manum
+        meam in christum Domini."
+      ukr: А Господь відплатить кожному за його справедливість та правду його, що
+        Господь дав тебе сьогодні в руку мою, та я не хотів підіймати своєї руки
+        на Господнього помазанця.
+      nkjv: "May the Lord repay every man for his righteousness and his faithfulness;
+        for the Lord delivered you into my hand today, but I would not stretch
+        out my hand against the Lord's anointed. "
+      desnitsky: "А ГОСПОДЬ да воздаст каждому по вере и правде его: предал тебя
+        сегодня ГОСПОДЬ в руки мои, но я не пожелал поднять руки на помазанника
+        ГОСПОДНЕГО."
+      mt: ‫   וַיהוָה יָשִׁיב לָאִישׁ אֶת־צִדְקָתוֹ וְאֶת־אֱמֻנָתוֹ אֲשֶׁר נְתָנְךָ‪‬
+        יְהוָה הַיּוֹם בְּיָד וְלֹא אָבִיתִי לִשְׁלֹחַ יָדִי בִּמְשִׁיחַ יְהוָה׃
+        ‬
+      romana: Si sa-i dea fiecaruia Domnul dupa dreptatea lui si dupa credinta,
+        deoarece Domnul te-a dat pe tine astazi in mainile mele, dar cu n-am
+        vrut sa-mi ridic mana mea asupra unsului Domnului;
+      francais: L'Éternel rendra à chacun selon sa justice et sa fidélité; car
+        l'Éternel t'avait livré aujourd'hui entre mes mains, et je n'ai pas
+        voulu porter la main sur l'oint de l'Éternel.
+      italian: Il Signore renderà a ciascuno secondo la sua giustizia e la sua
+        fedeltà, dal momento che oggi il Signore ti aveva messo nelle mie mani e
+        non ho voluto stendere la mano sul consacrato del Signore.
+      old_georgian: და უფალმან მიაგენ თჳთეულად სამართალი სიმართლისა თჳსისაებრ, ვითარცა
+        განგწირა შენ უფალმან ჴელთა მომართ ჩემთა, და მე არა მოგკალ, რამეთუ
+        ცხებული უფლისა ხარ.
+      portuguese: "O Senhor, porém, pague a cada um a sua justiça e a sua lealdade;
+        pois o Senhor te entregou hoje na minha mão,\rmas eu não quis estender a
+        mão contra o ungido do Senhor."
+      polish: "Pan nagradza człowieka za sprawiedliwość i wierność: Pan dał mi ciebie
+        w\rręce, lecz ja nie podniosłem ich przeciw pomazańcowi Pańskiemu."
+      turkish: RAB herkesi doğruluğuna ve bağlılığına göre ödüllendirir. Bugün RAB
+        seni elime teslim ettiği halde, ben RAB'bin meshettiği kişiye elimi
+        uzatmak istemedim.
+      nrt: Господь вознаграждает каждого человека за его праведность и верность.
+        Сегодня Господь отдал тебя в мои руки, но я не поднял руки на Господнего
+        помазанника.
+      Macarius: "Господь воздаст каждому по его правде и истине: поелику тебя ныне
+        Господь в руку мою предал, но я не хотел возложить руки моей на
+        помазанника Господня."
+      serbian: А Господ ће платити свакоме по правди његовој и по вјери његовој, јер
+        те бјеше предао Господ данас у руке моје, али не хтјех дигнути руке
+        своје на помазаника Господњега.
+      bulgarian: и нека Господ въздаде всекиму според правдата му и според истината
+        му, защото Господ те предаваше в ръцете ми, но аз не поисках да вдигна
+        ръка върху помазаника Господен;
+      deutsch: Der Herr aber wird einem jeglichen vergelten nach seiner Gerechtigkeit
+        und seinem Glauben. Denn der Herr hat dich heute in meine Hand gegeben;
+        aber ich wollte meine Hand nicht an den Gesalbten des Herrn legen.
+      ukr2: "Господь заплатить кожному по його справедливості й його вірності:
+        сьогодні Господь видав був тебе в мої руки, та я не хотів накласти руки
+        на помазаника Господнього."
+      ukr3: Господь кожному заплатить по справедливостї й вірі його, бо Господь оддав
+        був менї в руки тебе, я ж не схотїв наложити руки на помазанника
+        Господнього.
+      bel_syomukha: і хай дасьць Гасподзь кожнаму паводле праўды ягонай і паводле
+        ісьціны ягонай, бо Гасподзь аддаваў цябе ў рукі мае, але я не захацеў
+        падняць рукі маёй на памазанца Гасподняга;
+      lev-khv: Господь же да воздаст каждому за его честность и его верность. Сегодня
+        предал тебя в мои руки, но я не хотел поднять руку мою на помазанника
+        Господня.
+      czech: Hospodin odplati kazdemu za jeho spravedlnost a vernost. Hospodin te dnes
+        vydal do mych rukou, ale ja jsem nechtel na Hospodinova pomazaneho
+        vztahnout ruku.
+      spanish: Yavé dará a cada uno según su justicia y su fidelidad. Hoy te ha puesto
+        en mis manos, y yo no he querido alzar mi mano contra el ungido de Yavé.
+      greek-lxx: καὶ Κύριος ἐπιστρέψει ἑκάστῳ τὰς δικαιοσύνας αὐτοῦ καὶ τὴν πίστιν
+        αὐτοῦ ὡς παρέδωκέν σε Κύριος σήμερον εἰς χεῖράς μου καὶ οὐκ ἠθέλησα
+        ἐπενεγκεῖν χεῖρά μου ἐπὶ χριστὸν Κυρίου
+      st_text: и да воздаст Господь каждому по правде его и по истине его, так как
+        Господь предавал тебя в руки <i>мои</i>, но я не захотел поднять руки
+        моей на помазанника Господня;
+  - id: 576
+    number: 24
+    bookId: 9
+    text: и пусть, как драгоценна была жизнь твоя ныне в глазах моих, так ценится
+      моя жизнь в очах Господа, [и да покроет Он меня] и да избавит меня от
+      всякой беды!
+    chapter: 26
+    chapterId: 262
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и се, якоже возвеличися душа твоя днесь во очию моею, тако да возвеличится
+        душа моя пред Господем, и да покрыет мя и измет мя от всякия печали.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 се2, ћкоже возвели1чисz душA твоS дне1сь во џчію моє1ю, тaкw да
+        возвели1читсz душA моS пред8 гDемъ, и3 да покры1етъ мS и3 и4зметъ мS t
+        всsкіz печaли.
+      sovr_rbo: Как сегодня я сохранил жизнь тебе, пусть так же Господь хранит меня и
+        избавляет от всякой опасности!»
+      latin: Et sicut magnificata est anima tua hodie in oculis meis, sic magnificetur
+        anima mea in oculis Domini, et liberet me de omni angustia.
+      ukr: І ось, яке велике було життя твоє цього дня в очах моїх, таке велике нехай
+        буде моє життя в очах Господа, і нехай Він урятує мене від усякого
+        утиску!
+      nkjv: And indeed, as your life was valued much this day in my eyes, so let my
+        life be valued much in the eyes of the Lord, and let Him deliver me out
+        of all tribulation."
+      desnitsky: И как была драгоценна твоя жизнь в моих глазах, так да будет значима
+        моя жизнь для ГОСПОДА, и да избавит Он меня от всяких бед».
+      mt: ‫   וְהִנֵּה כַּאֲשֶׁר גָּדְלָה נַפְשְׁךָ הַיּוֹם הַזֶּה בְּעֵינָי כֵּן
+        תִּגְדַּל נַפְשִׁי בְּעֵינֵי יְהוָה וְיַצִּלֵנִי מִכָּל־צָרָה׃ פ ‬
+      romana: Si precum a fost acum viata ta pretioasa in ochii mei, asa sa se
+        pretuiasca viata mea in ochii Domnului si sa ma izbaveasca El de toata
+        stramtorarea ".
+      francais: Et comme aujourd'hui ta vie a été d'un grand prix à mes yeux, ainsi ma
+        vie sera d'un grand prix aux yeux de l'Éternel et il me délivrera de
+        toute  angoisse.
+      italian: Ed ecco, come è stata preziosa oggi la tua vita ai miei occhi, così sia
+        preziosa la mia vita agli occhi del Signore ed egli mi liberi da ogni
+        angoscia".
+      old_georgian: და აწ ვითარცა დიდებულ და ჰაეროვან ხარ წინაშე თუალთა ჩუენთა, ეგრე
+        მხიარულ იპოვენ სული ჩემი წინაშე უფლისა და მფარველ მეყავნ, და მიჴსენინ მე
+        და განმარინენ ყოვლისაგან ჭირისა!
+      portuguese: "E assim como foi a tua vida hoje preciosa aos meus olhos, seja a
+        minha vida preciosa aos olhos do Senhor, e\rlivre-me ele de toda a
+        tribulação."
+      polish: "Dlatego, jak cenne mi było twoje życie, tak niech będzie cenne u Pana
+        moje\rżycie, niechaj On mię uwalnia od wszelkiego nieszczęścia”."
+      turkish: Bugün ben senin yaşamına nasıl değer verdiysem, RAB de benim yaşamıma
+        öyle değer versin ve beni her sıkıntıdan kurtarsın.»
+      nrt: Пусть как твоя жизнь была сегодня для меня драгоценной, так ценится у
+        Господа моя жизнь, и пусть Он избавит меня от всякой беды.
+      Macarius: И как важна была душа твоя ныне в глазах моих, так будет важна душа
+        моя пред очами Господа, и Он избавит меня от всякой беды.
+      serbian: И зато, ево, како је данас мени драга била душа твоја, тако нека буде
+        драга моја душа пред Господом и нека ме избави из сваке невоље.
+      bulgarian: и нека, както днес бе драгоценен животът ти в мои очи, тъй да се цени
+        и моят живот в очите на Господа, (и Той да ме закрили) и да ме избави от
+        всяка беда!
+      deutsch: Und wie heute deine Seele in meinen Augen ist groß geachtet gewesen, so
+        werde meine Seele groß geachtet vor den Augen des Herrn, und er errette
+        mich von aller Trübsal.
+      ukr2: Як дорога була мені твоя душа сьогодні, так нехай моя душа буде дорога
+        Господеві, й нехай він визволить мене від усякої напасти.»
+      ukr3: Як дорога була менї сьогоднї душа твоя, нехай така дорога буде моя душа
+        Господеві, і нехай він рятує мене з усякої нужди.
+      bel_syomukha: і няхай, як каштоўнае было жыцьцё тваё сёньня ў вачах маіх, так
+        цэніцца маё жыцьцё ў вачах Госпада, і хай выбавіць мяне з усякай бяды!
+      lev-khv: И вот, как дорог&#225; была сегодня жизнь твоя в глазах моих, так да
+        будет ценна моя жизнь в очах Господа, и да избавит Он меня от всякой
+        скорби.
+      czech: Hle, jaky vyznam jsem dnes prikladal tvemu zivotu, takovy vyznam at
+        priklada Hospodin zivotu memu a vysvobodi mne z kazde uzkosti!"
+      spanish: Como ha sido hoy preciosa tu vida a mis ojos, así lo sea la mía a los
+        ojos de Yavé y me libre Él de toda angustia>>.
+      greek-lxx: καὶ ἰδοὺ καθὼς ἐμεγαλύνθη ἡ ψυχή σου σήμερον ἐν ταύτῃ ἐν ὀφθαλμοῖς
+        μου οὕτως μεγαλυνθείη ἡ ψυχή μου ἐνώπιον Κυρίου καὶ σκεπάσαι με καὶ
+        ἐξελεῖταί με ἐκ πάσης θλίψεως
+      st_text: и пусть, как драгоценна была жизнь твоя ныне в глазах моих, так ценится
+        моя жизнь в очах Господа, [и да покроет Он меня] и да избавит меня от
+        всякой беды!
+  - id: 577
+    number: 25
+    bookId: 9
+    text: "И сказал Саул Давиду: благословен ты, сын мой Давид; и дело сделаешь, и
+      превозмочь превозможешь. И пошел Давид своим путем, а Саул возвратился в
+      свое место."
+    chapter: 26
+    chapterId: 262
+    parallels:
+      - verseId: 29906
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 26
+        short: Притч:26:25
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И рече саул к давиду: благословен ты, чадо, и творяй сотвориши и могий
+        возможеши. И отъиде давид в путь свой, а саул возвратися на место свое."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 саyлъ къ давjду: благослове1нъ ты2, чaдо, и3 творsй
+        сотвори1ши и3 могjй возмо1жеши. И# tи1де давjдъ въ пyть сво1й, ґ саyлъ
+        возврати1сz на мёсто свое2."
+      sovr_rbo: "Саул сказал Давиду: «Благословен ты, сын мой Давид! За что
+        возьмешься, то доведешь до конца, и чего захочешь, того непременно
+        добьешься!» Давид пошел дальше, а Саул возвратился к себе."
+      latin: "Ait ergo Saul ad David: Benedictus tu fili mi David: et quidem faciens
+        facies, et potens poteris. Abiit autem David in viam suam, et Saul
+        reversus est in locum suum."
+      ukr: "І сказав Саул до Давида: Благословенний ти, сину мій Давиде! І ти дійсно
+        зробиш, і дійсно зможеш ти! І пішов Давид на свою дорогу, а Саул
+        вернувся на своє місце."
+      nkjv: Then Saul said to David, "May you be blessed, my son David! You shall both
+        do great things and also still prevail." So David went on his way, and
+        Saul returned to his place.
+      desnitsky: "Саул отвечал Давиду: «Благословен ты, сын мой Давид, многое
+        свершишь, во многом преуспеешь!» И пошел Давид своим путем, а Саул
+        вернулся к себе."
+      mt: ‫   וַיֹּאמֶר שָׁאוּל אֶל־דָּוִד בָּרוּךְ אַתָּה בְּנִי דָוִד גַּם עָשֹׂה
+        תַעֲשֶׂה וְגַם יָכֹל תּוּכָל וַיֵּלֶךְ דָּוִד לְדַרְכּוֹ וְשָׁאוּל שָׁב
+        לִמְקוֹמוֹ׃ פ ‬
+      romana: 'Iar Saul a zis catre David: "Binecuvantat sa fii tu, fiul meu David; si
+        sa lucrezi lucrul tau cu spor si sa-l ispravesti cu bine". Si s-a dus
+        David in drumul sau, iar Saul s-a intors la locul lui.'
+      francais: "Saül dit à David: Sois béni, mon fils David! tu réussiras dans tes
+        entreprises. David continua son chemin, et Saül retourna chez lui."
+      italian: 'Saul rispose a Davide: "Benedetto tu sia, Davide figlio mio. Certo
+        saprai fare e riuscirai in tutto". Davide andò per la sua strada e Saul
+        tornò alla sua dimora.'
+      old_georgian: "და ჰრქუა საულ დავითს: კურთხეულ ხარ შენ, შვილო დავით! და ყავნ
+        უფალმან წყალობაჲ მისი შენ ზედა და განგაძლიერენ შენ! და წარვიდა დავით
+        გზასა თჳსსა და საულ მიაქცია ადგილად თჳსა."
+      portuguese: "Então Saul disse a Davi: Bendito sejas tu, meu filho Davi, pois
+        grandes coisas farás e também certamente\rprevalecerás. Então Davi se
+        foi o seu caminho e Saul voltou para o seu lugar."
+      polish: "I mówił Saul do Dawida: ”Bądź błogosławiony, synu mój, Dawidzie: na
+        pewno\rto, co czynisz, wykonasz z powodzeniem”. I udał się Dawid w swoją
+        drogę,\ra Saul powrócił do siebie."
+      turkish: Saul, «Davut, oğlum, RAB seni kutsasın!» dedi, «Sen kesinlikle büyük
+        işler yapacak, başarılı olacaksın!» Bundan sonra Davut yoluna koyuldu,
+        Saul da evine döndü.
+      nrt: "Саул сказал Давиду: − Благословен ты, сын мой Давид, ты совершишь великие
+        дела и, несомненно, преуспеешь. И Давид пошел своим путем, а Саул
+        вернулся домой."
+      Macarius: "И сказал Саул Давиду: благословен ты, сын мой, Давид! И сделать
+        сделаешь, и превозмочь превозможешь! И пошел Давид в путь свой, а Саул
+        возвратился в свое место."
+      serbian: "А Саул рече Давиду: Да си благословен, сине мој Давиде! Извршићеш и
+        надвладаћеш. Тада Давид отиде својим путем, а Саул се врати у своје
+        мјесто."
+      bulgarian: "И Саул рече на Давида: благословен да си, сине мой Давиде; ти ще
+        извършиш, каквото си предприел, и непременно ще победиш. И Давид отиде в
+        своя път, а Саул се върна на мястото си."
+      deutsch: "Saul sprach zu David: Gesegnet seist du, mein Sohn David; du wirst's
+        tun und hinausführen. David aber ging seine Straße, und Saul kehrte
+        wieder an seinen Ort."
+      ukr2: "І сказав Саул до Давида: «Благословенний ти, сину мій, Давиде! Ти й діло
+        зробиш і певно зможеш доконати.» І пішов Давид своєю дорогою, а Саул
+        повернувсь додому."
+      ukr3: "І відказав Саул Давидові: Благословен єси, мій сину Давиде: ти й дїло
+        вдїєш, і могучо переможеш. І пійшов Давид своєю дорогою, а Саул вернувсь
+        додому."
+      bel_syomukha: "І сказаў Саўл Давіду: дабраславёны ты, сыне мой Давідзе; і дзею
+        ўчыніш, і пераадолець пераадолееш. І пайшоў Давід сваёй дарогаю, а Саўл
+        вярнуўся ў сваё месца."
+      lev-khv: "И сказал Саул Давиду: благословен ты, сын мой Давид; поистине, ты
+        сделаешь свое дело, и непременно восторжествуешь. И пошел Давид своей
+        дорогой, а Саул возвратился в свое место."
+      czech: 'Saul Davidovi pravil: "Bud pozehnan, muj synu Davide! Jiste mnoho
+        vykonas a dokazes." David pak sel svou cestou a Saul se vratil ke svemu
+        mistu.'
+      spanish: "Saúl dijo a David: << ¡Bendito seas hijo mío, David! Afortunado serás
+        en todas tus empresas>>. David prosiguió su camino y Saúl se volvió a su
+        casa."
+      greek-lxx: καὶ εἶπεν Σαουλ πρὸς Δαυιδ εὐλογημένος σύ τέκνον καὶ ποιῶν ποιήσεις
+        καὶ δυνάμενος δυνήσει καὶ ἀπῆλθεν Δαυιδ εἰς τὴν ὁδὸν αὐτοῦ καὶ Σαουλ
+        ἀνέστρεψεν εἰς τὸν τόπον αὐτοῦ
+      st_text: "И сказал Саул Давиду: благословен ты, сын мой Давид; и дело сделаешь,
+        и превозмочь превозможешь. И пошел Давид своим путем, а Саул возвратился
+        в свое место."

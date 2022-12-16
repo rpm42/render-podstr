@@ -1,0 +1,2498 @@
+id: 1267
+number: 1
+bookId: 64
+verseCount: 31
+title: Глава 1
+verses:
+  - id: 1286
+    number: 1
+    bookId: 64
+    text: Павел, волею Божиею призванный Апостол Иисуса Христа, и Сосфен брат,
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 13350
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 18
+        short: Деян:18:17
+      - verseId: 32792
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 1
+        short: Рим:1:1
+      - verseId: 14016
+        bookId: 67
+        bookCode: k-efesanam-poslanie-ap-pavla
+        chapter: 1
+        short: Еф:1:1
+    translates:
+      kassian: Павел, волею Божиею призванный апостол Христа Иисуса, и Сосфен брат,
+      podstr: Павел званый апостол Христа Иисуса через волю Бога, и Сосфен брат,
+      csya: Павел, зван апостол Иисус Христов волею Божиею, и сосфен брат,
+      averincev: ""
+      ungerov: ""
+      csya_old: Пavелъ, звaнъ ґпcлъ ї}съ хrто1въ во1лею б9іею, и3 сwсfе1нъ брaтъ,
+      sovr_rbo: ""
+      latin: Paulus vocatus Apostolus Jesu Christi per voluntatem Dei, et Sosthenes
+        frater,
+      ukr: Павло, волею Божою покликаний за апостола Ісуса Христа, і брат Состен,
+      nkjv: Paul, called to be an apostle of Jesus Christ through the will of God, and
+        Sosthenes our brother,
+      desnitsky: Павел, по воле Божьей – избранный апостол Христа Иисуса, и брат
+        Сосфен пишут
+      tex_rec: Παῦλος κλητὸς ἀπόστολος Χριστοῦ ᾽Ιησοῦ διὰ θελήματος θεοῦ, καὶ Σωσθένης
+        ὁ ἀδελφός,
+      deutsch: Paulus, berufen zum Apostel Jesu Christi durch den Willen Gottes, und
+        Bruder Sosthenes
+      spanish: Pablo, por la voluntad de Dios llamado a ser apóstol de Cristo Jesús, y
+        Sóstenes, hermano,
+      peshitta: ܦ݁ܰܘܠܳܘܣ ܩܰܪܝܳܐ ܘܰܫܠܺܝܚܳܐ ܕ݁ܝܶܫܽܘܥ ܡܫܺܝܚܳܐ ܒ݁ܨܶܒ݂ܝܳܢܶܗ ܕ݁ܰܐܠܳܗܳܐ
+        ܘܣܳܘܣܬ݂ܶܢܺܣ ܐܰܚܳܐ܂
+      bel_syomukha: Павал, воляй Божаю пакліканы апостал Ісуса Хрыста, і Сасфэн брат,
+      nrt: От Павла, призванного быть апостолом Христа Иисуса по воле Божьей, и от
+        брата Сосфена
+      romana: Pavel, chemat apostol al lui Hristos, prin voia lui Dumnezeu, si fratele
+        Sostene,
+      francais: Paul, appelé à être apôtre de Jésus Christ par la volonté de Dieu, et
+        le frère Sosthène,
+      italian: Paolo, chiamato ad essere apostolo di Gesù Cristo per volontà di Dio, e
+        il fratello Sòstene,
+      old_georgian: პავლე, ჩინებული მოციქული იესუ ქრისტესი ნებითა ღმრთისაჲთა, და
+        სოსთენე ძმაჲ,
+      portuguese: Paulo, chamado para ser apóstolo de Jesus Cristo pela vontade de
+        Deus, e o irmão Sóstenes,
+      polish: Paweł, z woli Bożej powołany na apostoła Jezusa Chrystusa, i Sostenes,
+        brat,
+      new_text: От Павла, по воле Бога призванного стать апостолом Христа Иисуса, и от
+        брата Сосфена —
+      serbian: Павле, вољом Божијом позвани апостол Исуса Христа, и брат Состен,
+      bulgarian: Павел, призван апостол Иисус Христов по воля Божия, и брат Состен -
+      ukr2: Павло, апостол Ісуса Христа, покликаний волею Божою, і брат Состен,
+      ukr3: Павел, покликаний апостол Ісуса Христа, волею Божою, та Состен брат,
+      czech: Pavel, z vule Bozi povolany apostol Krista Jezise, a bratr Sosthenes
+      st_text: Павел, волею Божиею призванный Апостол Иисуса Христа, и Сосфен брат,
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 1287
+    number: 2
+    bookId: 64
+    text: "церкви Божией, находящейся в Коринфе, освященным во Христе Иисусе,
+      призванным святым, со всеми призывающими имя Господа нашего Иисуса Христа,
+      во всяком месте, у них и у нас:"
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 18233
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 17
+        short: Ин:17:19
+      - verseId: 13227
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 15
+        short: Деян:15:9
+      - verseId: 32798
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 1
+        short: Рим:1:7
+      - verseId: 22851
+        bookId: 69
+        bookCode: k-kolossanam-poslanie-ap-pavla
+        chapter: 1
+        short: Кол:1:22
+      - verseId: 1141
+        bookId: 70
+        bookCode: 1oe-poslanie-k-fessalonikijcam-ap-pavla
+        chapter: 4
+        short: 1 Фес:4:7
+      - verseId: 6746
+        bookId: 73
+        bookCode: 2oe-poslanie-k-timofeu-ap-pavla
+        chapter: 2
+        short: 2 Тим:2:19
+    translates:
+      kassian: церкви Божией, находящейся в Коринфе, освященным во Христе Иисусе,
+        призванным святым, со всеми, призывающими во всяком месте имя Господа
+        нашего Иисуса Христа, их Господа и нашего, -
+      podstr: церкви Бога сущей в Коринфе, освящённым в Христе Иисусе, званым святым,
+        со всеми призывающими имя Господа нашего Иисуса Христа во всяком месте,
+        их и нашего;
+      csya: "Церкви Божией сущей в коринфе, освященным о Христе Иисусе, званным
+        святым, со всеми призывающими имя Господа нашего Иисуса Христа, во
+        всяцем месте, тех же и нашем:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "цRкви б9іей сyщей въ корjнfэ, њсщ7є1ннымъ њ хrтЁ ї}сэ, зв†ннымъ
+        с™ы6мъ, со всёми призывaющими и4мz гDа нaшегw ї}са хrтA, во всsцэмъ
+        мёстэ, тёхъ же и3 нaшемъ:"
+      sovr_rbo: ""
+      latin: ecclesiae Dei, quae est Corinthi, sanctificatis in Christo Jesu, vocatis
+        sanctis, cum omnibus qui invocant nomen Domini nostri Jesu Christi, in
+        omni loco ipsorum et nostro.
+      ukr: Божій Церкві, що в Коринті, посвяченим у Христі Ісусі, покликаним святим,
+        зо всіма, що на всякому місті прикликають Ім'я Господа нашого Ісуса
+        Христа, їхнього і нашого,
+      nkjv: "To the church of God which is at Corinth, to those who are sanctified in
+        Christ Jesus, called to be saints, with all who in every place call on
+        the name of Jesus Christ our Lord, both theirs and ours:"
+      desnitsky: Божьей церкви, находящейся в Коринфе. Вы освящены Христом Иисусом, вы
+        призваны и святы; вам и всем, кто повсеместно призывает имя Господа
+        нашего Иисуса Христа – и своего, и нашего Господа, –
+      tex_rec: τῇ ἐκκλησίᾳ τοῦ θεοῦ τῇ οὔσῃ ἐν Κορίνθῳ, ἡγιασμένοις ἐν Χριστῷ ᾽Ιησοῦ,
+        κλητοῖς ἁγίοις, σὺν πᾶσιν τοῖς ἐπικαλουμένοις τὸ ὄνομα τοῦ κυρίου ἡμῶν
+        ᾽Ιησοῦ Χριστοῦ ἐν παντὶ τόπῳ, αὐτῶν καὶ ἡμῶν·
+      deutsch: "der Gemeinde zu Korinth, den Geheiligten in Christo Jesu, den
+        berufenen Heiligen samt allen denen, die anrufen den Namen unsers Herrn
+        Jesu Christi an allen ihren und unsern Orten:"
+      spanish: "a la iglesia de Dios en Corinto, a los santificados en Cristo Jesús,
+        llamados a ser santos, con todos los que invocan el nombre de nuestro
+        Señor Jesucristo en todo lugar, suyo y nuestro:"
+      peshitta: ܠܥܺܕ݈݁ܬ݁ܳܐ ܕ݁ܰܐܠܳܗܳܐ ܕ݁ܰܒ݂ܩܳܘܪܺܢܬ݂ܳܘܣ ܩܪܰܝܳܐ ܘܩܰܕ݁ܺܝܫܶܐ ܕ݁ܰܒ݂ܝܶܫܽܘܥ
+        ܡܫܺܝܚܳܐ ܡܩܰܕ݁ܫܺܝܢ ܘܰܠܟ݂ܽܠܗܽܘܢ ܐܰܝܠܶܝܢ ܕ݁ܩܳܪܶܝܢ ܫܡܶܗ ܕ݁ܡܳܪܰܢ ܝܶܫܽܘܥ
+        ܡܫܺܝܚܳܐ ܒ݁ܟ݂ܽܠ ܐܰܬ݂ܰܪ ܕ݁ܺܝܠܗܽܘܢ ܘܕ݂ܺܝܠܰܢ܂
+      bel_syomukha: "Царкве Божай, якая ў Карынфе, асьвечаным у Хрысьце Ісусе,
+        пакліканым сьвятым, з усімі, хто заклікае імя Госпада нашага Ісуса
+        Хрыста, у кожным месцы, у іх і ў нас:"
+      nrt: церкви Божьей в Коринфе, освященным в Христе Иисусе, призванным быть
+        святыми, а также всем, кто в самых различных местах призывает Имя нашего
+        Господа Иисуса Христа – Господа их и нашего.
+      romana: "Bisericii lui Dumnezeu care este in Corint, celor sfintiti in Iisus
+        Hristos, celor numiti sfinti, impreuna cu toti cei ce cheama numele
+        Domnului nostru Iisus Hristos in tot locul, si al lor si al nostru:"
+      francais: "à l'Église de Dieu qui est à Corinthe, à ceux qui ont été sanctifiés
+        en Jésus Christ, appelés à être saints, et à tous ceux qui invoquent en
+        quelque lieu que ce soit le nom de notre Seigneur Jésus Christ, leur
+        Seigneur et le nôtre:"
+      italian: "alla Chiesa di Dio che è in Corinto, a coloro che sono stati
+        santificati in Cristo Gesù, chiamati ad essere santi insieme a tutti
+        quelli che in ogni luogo invocano il nome del Signore nostro Gesù
+        Cristo, Signore nostro e loro:"
+      old_georgian: "ეკლესიასა ღმრთისასა, რომელი არს კორინთეს შინა, განწმედილთა ქრისტე
+        იესუჲს მიერ, ჩინებულთა წმიდათა, ყოველთა თანა, რომელნი ხადიან სახელსა
+        უფლისა ჩუენისა იესუ ქრისტესა, ყოველსა ადგილსა მათსა და ჩუენსა:"
+      portuguese: "à igreja de Deus que está em Corinto, aos santificados em Cristo
+        Jesus, chamados para serem santos, com todos\ros que em todo lugar
+        invocam o nome de nosso Senhor Jesus Cristo, Senhor deles e nosso:"
+      polish: "do Kościoła Bożego w Koryncie, do tych, którzy zostali uświęceni w
+        Jezusie\rChrystusie i powołani do świętości wespół ze wszystkimi, którzy
+        na każdym\rmiejscu wzywają imienia Pana naszego Jezusa Chrystusa, ich i
+        naszego [Pana]."
+      new_text: Церкви Бога в Коринфе, тем, кто посвящен Богу через Христа Иисуса, кто
+        призван стать Его святым народом, вместе со всеми, кто везде и всюду
+        призывает имя Господа нашего Иисуса Христа.
+      serbian: "Цркви Божијој која је у Коринту, освећенима у Христу Исусу, позванима
+        светима, са свима који на сваком мјесту призивају име Господа нашега
+        Исуса Христа, њиховога и нашега:"
+      bulgarian: на църквата Божия в Коринт, на осветените в Христа Иисуса, на
+        призваните светии, заедно с всички ония, които призовават името на
+        Господа нашего Иисуса Христа на всяко място, у тях и у нас -
+      ukr2: "Церкві Божій, що в Корінті, освяченим у Христі Ісусі, покликаним святим,
+        з усіма, що призивають на всякому місці ім'я нашого Ісуса Христа,
+        Господа їхнього і нашого:"
+      ukr3: "церкві Божій в Коринтї, осьвяченим в Ісусї Христї, покликаним сьвятим, з
+        усїма, которі призивають імя Господа нашого Ісуса Христа, на всякому
+        місцї, у них і в нас:"
+      czech: "cirkvi Bozi v Korintu, posvecenym v Kristu Jezisi, povolanym svatym,
+        spolu se vsemi, kteri vzyvaji jmeno naseho Pana Jezise Krista, at jsou
+        shromazdeni kdekoliv, jinde ci u nas:"
+      st_text: "церкви Божией, находящейся в Коринфе, освященным во Христе Иисусе,
+        призванным святым, со всеми призывающими имя Господа нашего Иисуса
+        Христа, во всяком месте, у них и у нас:"
+  - id: 1288
+    number: 3
+    bookId: 64
+    text: благодать вам и мир от Бога Отца нашего и Господа Иисуса Христа.
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 3590
+        bookId: 57
+        bookCode: 1oe-poslanie-ap-petra
+        chapter: 1
+        short: 1 Пет:1:2
+      - verseId: 5005
+        bookId: 65
+        bookCode: 2oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 1
+        short: 2 Кор:1:2
+    translates:
+      kassian: благодать вам и мир от Бога Отца нашего и Господа Иисуса Христа.
+      podstr: благодать вам и мир от Бога Отца нашего и Господа Иисуса Христа.
+      csya: благодать вам и мир от Бога Отца нашего и Господа Иисуса Христа.
+      averincev: ""
+      ungerov: ""
+      csya_old: блгdть вaмъ и3 ми1ръ t бг7а nц7A нaшегw и3 гDа ї}са хrтA.
+      sovr_rbo: ""
+      latin: Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo.
+      ukr: благодать вам і мир від Бога Отця нашого й Господа Ісуса Христа!
+      nkjv: Grace to you and peace from God our Father and the Lord Jesus Christ.
+      desnitsky: благодать и мир от Бога Отца нашего и Господа Иисуса Христа.
+      tex_rec: χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου ᾽Ιησοῦ Χριστοῦ.
+      deutsch: Gnade sei mit euch und Friede von Gott, unserm Vater, und dem Herrn
+        Jesus Christus!
+      spanish: la gracia y la paz de parte de Dios, nuestro Padre, y del Señor
+        Jesucristo.
+      peshitta: ܛܰܝܒ݁ܽܘܬ݂ܳܐ ܥܰܡܟ݂ܽܘܢ ܘܰܫܠܳܡܳܐ ܡܶܢ ܐܰܠܳܗܳܐ ܐܰܒ݂ܽܘܢ ܘܡܶܢ ܡܳܪܰܢ ܝܶܫܽܘܥ
+        ܡܫܺܝܚܳܐ܂
+      bel_syomukha: мілата вам і мір ад Бога Айца нашага і Госпада Ісуса Хрыста.
+      nrt: Благодать и мир вам от Бога, нашего Отца, и от Господа Иисуса Христа.
+      romana: Har voua si pace de la Dumnezeu, Tatal nostru, si de la Domnul nostru
+        Iisus Hristos.
+      francais: que la grâce et la paix vous soient données de la part de Dieu notre
+        Père et du Seigneur Jésus Christ!
+      italian: grazia a voi e pace da Dio Padre nostro e dal Signore Gesù Cristo.
+      old_georgian: მადლი თქუენდა და მშჳდობაჲ ღმრთისა მიერ მამისა ჩუენისა და უფლისა
+        იესუ ქრისტესა.
+      portuguese: Graça seja convosco, e paz, da parte de Deus nosso Pai, e do Senhor
+        Jesus Cristo.
+      polish: Łaska wam i pokój od Boga Ojca naszego, i od Pana Jezusa Chrystusa!
+      new_text: Милость вам и мир от Бога, Отца нашего и Господа Иисуса Христа!
+      serbian: Благодат вам и мир од Бога Оца нашега и Господа Исуса Христа.
+      bulgarian: благодат вам и мир от Бога Отца нашего и от Господа Иисуса Христа.
+      ukr2: благодать вам і мир від Бога, Отця нашого, і Господа Ісуса Христа.
+      ukr3: благодать вам і впокій од Бога, Отця нашого, і Господа Ісуса Христа.
+      czech: Milost vam a pokoj od Boha Otce naseho a Pana Jezise Krista.
+      st_text: благодать вам и мир от Бога Отца нашего и Господа Иисуса Христа.
+  - id: 1289
+    number: 4
+    bookId: 64
+    text: Непрестанно благодарю Бога моего за вас, ради благодати Божией, дарованной
+      вам во Христе Иисусе,
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 4946
+        bookId: 71
+        bookCode: 2oe-poslanie-k-fessalonikijcam-ap-pavla
+        chapter: 1
+        short: 2 Фес:1:3
+    translates:
+      kassian: "Благодарю всегда за вас Бога: за благодать Божию, данную вам во Христе
+        Иисусе,"
+      podstr: Благодарю Бога моего всегда о вас за благодать Бога данную вам в Христе
+        Иисусе,
+      csya: Благодарю Бога моего всегда о вас, о благодати Божией данней вам о Христе
+        Иисусе,
+      averincev: ""
+      ungerov: ""
+      csya_old: Благодарю2 бг7а моего2 всегдA њ вaсъ, њ блгdти б9іей дaннэй вaмъ њ
+        хrтЁ ї}сэ,
+      sovr_rbo: ""
+      latin: "Gratias ago Deo meo semper pro vobis in gratia Dei, quae data est vobis
+        in Christo Jesu:"
+      ukr: Я завжди дякую моєму Богові за вас, через Божу благодать, що була вам дана
+        в Христі Ісусі,
+      nkjv: I thank my God always concerning you for the grace of God which was given
+        to you by Christ Jesus,
+      desnitsky: "Всегда благодарю за вас Бога моего: вам дана через Христа Иисуса
+        Божья благодать,"
+      tex_rec: Εὐχαριστῶ τῷ θεῷ μου πάντοτε περὶ ὑμῶν ἐπὶ τῇ χάριτι τοῦ θεοῦ τῇ
+        δοθείσῃ ὑμῖν ἐν Χριστῷ ᾽Ιησοῦ,
+      deutsch: Ich danke meinem Gott allezeit eurethalben für die Gnade Gottes, die
+        euch gegeben ist in Christo Jesu,
+      spanish: Doy continuamente gracias a Dios por la gracia que os ha sido otorgada
+        en Cristo Jesús,
+      peshitta: ܡܰܘܕ݁ܶܐ ܐ݈ܢܳܐ ܠܰܐܠܳܗܝ ܒ݁ܟ݂ܽܠܙܒ݂ܰܢ ܚܠܳܦ݂ܰܝܟ݁ܽܘܢ ܥܰܠ ܛܰܝܒ݁ܽܘܬ݂ܳܐ
+        ܕ݁ܰܐܠܳܗܳܐ ܕ݁ܶܐܬ݂ܝܰܗܒ݁ܰܬ݂ ܠܟ݂ܽܘܢ ܒ݁ܝܶܫܽܘܥ ܡܫܺܝܚܳܐ܂
+      bel_syomukha: Не перастаю дзякаваць Богу майму за вас, дзеля мілаты Божай,
+        дадзенай вам у Хрысьце Ісусе.
+      nrt: Я всегда благодарю моего Бога за вас, за ту благодать, которую вы получили
+        от Него через Иисуса Христа,
+      romana: Multumesc totdeauna Dumnezeului meu pentru voi, pentru harul lui
+        Dumnezeu, dat voua in Hristos Iisus.
+      francais: Je rends à mon Dieu de continuelles actions de grâces à votre sujet,
+        pour la grâce de Dieu qui vous a été accordée en Jésus Christ.
+      italian: Ringrazio continuamente il mio Dio per voi, a motivo della grazia di
+        Dio che vi è stata data in Cristo Gesù,
+      old_georgian: ვჰმადლობ ღმერთსა ჩემსა მარადის თქუენთჳს მადლსა მას ზედა ღმრთისასა,
+        მოცემულსა თქუენდა ქრისტე იესუჲს მიერ.
+      portuguese: Sempre dou graças a Deus por vós, pela graça de Deus que vos foi
+        dada em Cristo Jesus;
+      polish: Bogu mojemu dziękuję wciąż za was, za łaskę daną wam w Chrystusie
+        Jezusie.
+      new_text: Я всегда благодарю Бога моего за вас, потому что вам дан великий дар
+        Его доброты через Христа Иисуса,
+      serbian: Благодарим непрестано Богу мојему за вас, на благодати Божијој која вам
+        је дата у Христу Исусу,
+      bulgarian: Благодаря на моя Бог винаги за вас заради даруваната вам в Христа
+        Иисуса Божия благодат;
+      ukr2: Я завжди дякую моєму Богові заради вас за благодать Божу, що була вам дана
+        в Христі Ісусі,
+      ukr3: Дякую Богу моєму всякого часу за вас про благодать Божу, дану вам в Христї
+        Ісусї,
+      czech: Stale za vas Bohu dekuji pro milost Bozi, ktera vam byla dana v Kristu
+        Jezisi;
+      st_text: Непрестанно благодарю Бога моего за вас, ради благодати Божией,
+        дарованной вам во Христе Иисусе,
+  - id: 1290
+    number: 5
+    bookId: 64
+    text: потому что в Нем вы обогатились всем, всяким словом и всяким познанием, -
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 1331
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 10
+        short: 1 Кор:10:15
+      - verseId: 5090
+        bookId: 65
+        bookCode: 2oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 12
+        short: 2 Кор:12:13
+      - verseId: 22838
+        bookId: 69
+        bookCode: k-kolossanam-poslanie-ap-pavla
+        chapter: 1
+        short: Кол:1:9
+      - verseId: 22865
+        bookId: 69
+        bookCode: k-kolossanam-poslanie-ap-pavla
+        chapter: 2
+        short: Кол:2:7
+    translates:
+      kassian: "потому что вы всем обогащены были в Нем: всяким словом и всяким
+        познанием,"
+      podstr: потому что во всём вы были обогащены в Нём, во всяком слове и всяком
+        знании,
+      csya: яко во всем обогатистеся о нем, во всяцем слове и всяцем разуме,
+      averincev: ""
+      ungerov: ""
+      csya_old: ћкw во все1мъ њбогати1стесz њ не1мъ, во всsцэмъ сло1вэ и3 всsцэмъ рaзумэ,
+      sovr_rbo: ""
+      latin: quod in omnibus divites facti estis in illo, in omni verbo, et in omni
+        scientia.
+      ukr: бо ви всім збагатилися в Ньому, словом усяким і всяким знанням,
+      nkjv: that you were enriched in everything by Him in all utterance and all
+        knowledge,
+      desnitsky: "Он обильно наделил вас всем: и всяким словом, и всяким знанием."
+      tex_rec: ὅτι ἐν παντὶ ἐπλουτίσθητε ἐν αὐτῷ, ἐν παντὶ λόγῳ καὶ πάσῃ γνώσει,
+      deutsch: daß ihr seid durch ihn an allen Stücken reich gemacht, an aller Lehre
+        und in aller Erkenntnis;
+      spanish: "porque en El habéis sido enriquecidos en todo: en toda palabra y en
+        todo conocimiento,"
+      peshitta: ܕ݁ܰܒ݂ܟ݂ܽܠ ܡܶܕ݁ܶܡ ܥܬ݂ܰܪܬ݁ܽܘܢ ܒ݁ܶܗ ܒ݁ܟ݂ܽܠ ܡܶܠܳܐ ܘܰܒ݂ܟ݂ܽܠ ܝܺܕ݂ܰܥܬ݂ܳܐ܂
+      bel_syomukha: Бо ў Ім вы ўзбагаціліся ўсім, усякім словам і ўсякім разуменьнем,
+      nrt: "потому что благодаря Ему вы были обогащены во всем: и во всяком слове, и
+        во всяком познании,"
+      romana: Caci intru El v-ati imbogatit deplin intru toate, in tot cuvantul si in
+        toata cunostinta;
+      francais: Car en lui vous avez été comblés de toutes les richesses qui
+        concernent la parole et la connaissance,
+      italian: perché in lui siete stati arricchiti di tutti i doni, quelli della
+        parola e quelli della scienza.
+      old_georgian: რამეთუ ყოვლითა განჰმდიდრდით მას შინა, ყოვლითა სიტყჳთა და ყოვლითა
+        მეცნიერებითა,
+      portuguese: porque em tudo fostes enriquecidos nele, em toda palavra e em todo o
+        conhecimento,
+      polish: "W Nim to bowiem zostaliście wzbogaceni we wszystko: we wszelkie słowo
+        i\rwszelkie poznanie,"
+      new_text: благодаря которому Бог обогатил вас всеми сокровищами слова и знания
+      serbian: Што се у свему обогатисте у њему, у свакој ријечи и сваком знању,
+      bulgarian: защото чрез Него се обогатихте с всичко, с всяко слово и всяко познание,
+      ukr2: бо ви в ньому всім збагатились, - усяким словом і всяким знанням,
+      ukr3: тим, що у всьому ви збагатились ним у всякім слові і всякім знанню,
+      czech: on vas obohatil ve vsem, v kazdem slovu i v kazdem poznani.
+      st_text: потому что в Нем вы обогатились всем, всяким словом и всяким познанием, -
+  - id: 1291
+    number: 6
+    bookId: 64
+    text: ибо свидетельство Христово утвердилось в вас, -
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 1551
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 2
+        short: 1 Кор:2:2
+    translates:
+      kassian: поскольку свидетельство Христово было утверждено в вас,
+      podstr: как свидетельство Христа было упрочнено в вас,
+      csya: "якоже свидетельство Христово известися в вас:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "ћкоже свидётельство хrто1во и3звэсти1сz въ вaсъ:"
+      sovr_rbo: ""
+      latin: "Sicut testimonium Christi confirmatum est in vobis:"
+      ukr: бо свідоцтво Христове між вами утвердилось,
+      nkjv: even as the testimony of Christ was confirmed in you,
+      desnitsky: Вы уверенно приняли свидетельство о Христе,
+      tex_rec: καθὼς τὸ μαρτύριον τοῦ Χριστοῦ ἐβεβαιώθη ἐν ὑμῖν,
+      deutsch: wie denn die Predigt von Christus in euch kräftig geworden ist,
+      spanish: en la medida en que el testimonio de Cristo ha sido confirmado entre
+        vosotros,
+      peshitta: ܐܰܝܟ݂ ܕ݁ܣܳܗܕ݁ܽܘܬ݂ܶܗ ܕ݁ܰܡܫܺܝܚܳܐ ܐܶܫܬ݁ܰܪܪܰܬ݂ ܒ݁ܟ݂ܽܘܢ܂
+      bel_syomukha: бо сьведчаньне Хрыстовае сьцьвердзілася ў вас,
+      nrt: так как наше свидетельство о Христе прочно утвердилось в вас.
+      romana: Astfel marturia lui Hristos s-a intarit in voi,
+      francais: le témoignage de Christ ayant été solidement établi parmi vous,
+      italian: La testimonianza di Cristo si è infatti stabilita tra voi così
+        saldamente,
+      old_georgian: ვითარცა წამებაჲ იგი ქრისტესი განმტკიცნა თქუენ შორის,
+      portuguese: assim como o testemunho de Cristo foi confirmado entre vós;
+      polish: bo świadectwo Chrystusowe utrwaliło się w was,
+      new_text: и тем подтвердил для вас истинность нашего свидетельства о Христе.
+      serbian: Као што се свједочанство Христово утврди у вама;
+      bulgarian: според както се е утвърдило у вас Христовото свидетелство,
+      ukr2: згідно з тим, як Христове свідоцтво утвердилося між вами.
+      ukr3: яко ж сьвідченнє Христове утверджено в вас,
+      czech: Nebot svedectvi o Kristu bylo mezi vami potvrzeno,
+      st_text: ибо свидетельство Христово утвердилось в вас, -
+  - id: 1292
+    number: 7
+    bookId: 64
+    text: так что вы не имеете недостатка ни в каком даровании, ожидая явления
+      Господа нашего Иисуса Христа,
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 1394
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 12
+        short: 1 Кор:12:11
+      - verseId: 14967
+        bookId: 68
+        bookCode: k-filippijcam-poslanie-ap-pavla
+        chapter: 3
+        short: Флп:3:20
+      - verseId: 35535
+        bookId: 74
+        bookCode: k-titu-poslanie-ap-pavla
+        chapter: 2
+        short: Тит:2:13
+    translates:
+      kassian: так что вы не имеете недостатка ни в каком даровании, ожидая откровения
+        Господа нашего Иисуса Христа,
+      podstr: так что вам не быть в нужде в никаком даровании, ожидающих открытия
+        Господа нашего Иисуса Христа;
+      csya: яко вам не лишитися ни во единем даровании, чающым откровения Господа
+        нашего Иисуса Христа,
+      averincev: ""
+      ungerov: ""
+      csya_old: ћкw вaмъ не лиши1тисz ни во є3ди1нэмъ даровaніи, чaющымъ tкрове1ніz
+        гDа нaшегw ї}са хrтA,
+      sovr_rbo: ""
+      latin: ita ut nihil vobis desit in ulla gratia, exspectantibus revelationem
+        Domini nostri Jesu Christi,
+      ukr: так що не маєте недостачі в жаднім дарі благодаті ви, що очікуєте з'явлення
+        Господа нашого Ісуса Христа.
+      nkjv: so that you come short in no gift, eagerly waiting for the revelation of
+        our Lord Jesus Christ,
+      desnitsky: и теперь у вас нет недостатка ни в каком благодатном даре. Вы
+        ожидаете явления Господа нашего Иисуса Христа,
+      tex_rec: ὥστε ὑμᾶς μὴ ὑστερεῖσθαι ἐν μηδενὶ χαρίσματι, ἀπεκδεχομένους τὴν
+        ἀποκάλυψιν τοῦ κυρίου ἡμῶν ᾽Ιησοῦ Χριστοῦ·
+      deutsch: also daß ihr keinen Mangel habt an irgend einer Gabe und wartet nur auf
+        die Offenbarung unsers Herrn Jesu Christi,
+      spanish: así que no escaseéis en don alguno mientras llega para vosotros la
+        manifestación de nuestro Señor Jesucristo,
+      peshitta: ܕ݁ܠܳܐ ܐܶܬ݂ܒ݁ܰܨܰܪܬ݁ܽܘܢ ܒ݁ܰܚܕ݂ܳܐ ܡܶܢ ܡܰܘܗܒ݂ܳܬ݂ܶܗ ܐܶܠܳܐ ܡܣܰܟ݁ܶܝܢ ܐܢ݈ܬ݁ܽܘܢ
+        ܠܓ݂ܶܠܝܳܢܶܗ ܕ݁ܡܳܪܰܢ ܝܶܫܽܘܥ ܡܫܺܝܚܳܐ܂
+      bel_syomukha: так што вы ня маеце нястачы ні ў якім дараваньні, чакаючы
+        зьяўленьня Госпада нашага Ісуса Хрыста,
+      nrt: Поэтому у вас нет недостатка ни в каком духовном даре, пока вы ждете
+        явления нашего Господа Иисуса Христа.
+      romana: Incat voi nu sunteti lipsiti de nici un dar, asteptand aratarea Domnului
+        nostru Iisus Hristos,
+      francais: de sorte qu'il ne vous manque aucun don, dans l'attente où vous êtes
+        de la manifestation de notre Seigneur Jésus Christ.
+      italian: che nessun dono di grazia più vi manca, mentre aspettate la
+        manifestazione del Signore nostro Gesù Cristo.
+      old_georgian: რაჲთა თქუენ არარაჲთ ნაკლულევან იყვნეთ არცა ერთითა მადლითა და
+        მოელოდით გამოჩინებასა მას უფლისა ჩუენისა იესუ ქრისტესსა.
+      portuguese: de maneira que nenhum dom vos falta, enquanto aguardais a
+        manifestação de nosso Senhor Jesus Cristo,
+      polish: "tak iż nie brakuje wam żadnego daru łaski, gdy oczekujecie objawienia
+        się\rPana naszego Jezusa Chrystusa."
+      new_text: И теперь у вас нет недостатка ни в одном из благодатных даров, пока вы
+        дожидаетесь, когда явится Господь наш Иисус Христос.
+      serbian: Тако да не оскудијевате ни у једном благодатном дару, ви који чекате
+        откривење Господа нашега Исуса Христа,
+      bulgarian: тъй че вие се не лишавате от никакъв дар, като очаквате откровението
+        на Господа нашего Иисуса Христа,
+      ukr2: Тим то не бракує жадного дару ласки вам, що очікуєте об'явлення Господа
+        нашого Ісуса Христа,
+      ukr3: так що ви не маєте недостатку нї в однім даруванню, дожидаючись одкриття
+        Господа нашого Ісуса Христа,
+      czech: takze nejste pozadu v zadnem daru milosti a cekate, az se zjevi nas Pan
+        Jezis Kristus.
+      st_text: так что вы не имеете недостатка ни в каком даровании, ожидая явления
+        Господа нашего Иисуса Христа,
+  - id: 1293
+    number: 8
+    bookId: 64
+    text: Который и утвердит вас до конца, <i>чтобы вам быть</i> неповинными в день
+      Господа нашего Иисуса Христа.
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 6705
+        bookId: 58
+        bookCode: 2oe-poslanie-ap-petra
+        chapter: 3
+        short: 2 Пет:3:14
+      - verseId: 1134
+        bookId: 70
+        bookCode: 1oe-poslanie-k-fessalonikijcam-ap-pavla
+        chapter: 3
+        short: 1 Фес:3:13
+    translates:
+      kassian: Который и утвердит вас до конца безупречными в день Господа нашего
+        Иисуса Христа.
+      podstr: Который и упрочит вас до конца безукоризненных в день Господа нашего
+        Иисуса Христа.
+      csya: иже и утвердит вас даже до конца неповинных в день Господа нашего Иисуса
+        Христа.
+      averincev: ""
+      ungerov: ""
+      csya_old: и4же и3 ўтверди1тъ вaсъ дaже до концA непови1нныхъ въ де1нь гDа нaшегw
+        ї}са хrтA.
+      sovr_rbo: ""
+      latin: qui et confirmabit vos usque in finem sine crimine, in die adventus
+        Domini nostri Jesu Christi.
+      ukr: Він вас утвердить до кінця неповинними бути дня Господа нашого Ісуса
+        Христа!
+      nkjv: who will also confirm you to the end, that you may be blameless in the day
+        of our Lord Jesus Christ.
+      desnitsky: и Он окончательно укрепит вас, чтобы в день пришествия Господа нашего
+        Иисуса Христа вы оказались безупречными.
+      tex_rec: ὃς καὶ βεβαιώσει ὑμᾶς ἕως τέλους ἀνεγκλήτους ἐν τῇ ἡμέρᾳ τοῦ κυρίου
+        ἡμῶν ᾽Ιησοῦ [Χριστοῦ].
+      deutsch: welcher auch wird euch fest erhalten bis ans Ende, daß ihr unsträflich
+        seid auf den Tag unsers Herrn Jesu Christi.
+      spanish: que a su vez os confirmará plenamente, para que seáis hallados
+        irreprensibles en el día de nuestro Señor Jesucristo.
+      peshitta: ܕ݁ܗܽܘ ܢܫܰܪܰܪܟ݂ܽܘܢ ܥܕ݂ܰܡܳܐ ܠܰܐ݈ܚܪܳܝܬ݁ܳܐ ܕ݁ܰܕ݂ܠܳܐ ܪܶܫܝܳܢ ܬ݁ܶܗܘܽܘܢ
+        ܒ݁ܝܰܘܡܶܗ ܕ݁ܡܳܪܰܢ ܝܶܫܽܘܥ ܡܫܺܝܚܳܐ܂
+      bel_syomukha: Які і ўмацуе вас да канца, каб вам быць бязьвіннымі ў дзень
+        Госпада нашага Ісуса Хрыста.
+      nrt: Он утвердит вас в истине до конца, чтобы в День нашего Господа Иисуса
+        Христа вам оказаться непорочными.
+      romana: Care va va si intari pana la sfarsit, ca sa fiti nevinovati in ziua
+        Domnului nostru Iisus Hristos.
+      francais: Il vous affermira aussi jusqu'à la fin, pour que vous soyez
+        irréprochables au jour de notre Seigneur Jésus Christ.
+      italian: "Egli vi confermerà sino alla fine, irreprensibili nel giorno del
+        Signore nostro Gesù Cristo:"
+      old_georgian: რომელმანცა დაგამტკიცნეს თქუენ ვიდრე აღსასრულადმდე უბრალონი დღესა
+        მას უფლისა ჩუენისა იესუ ქრისტესა.
+      portuguese: o qual também vos confirmará até o fim, para serdes irrepreensíveis
+        no dia de nosso Senhor Jesus Cristo.
+      polish: "On też będzie umacniał was aż do końca, abyście byli bez zarzutu w
+        dzień\rPana naszego Jezusa Chrystusa."
+      new_text: Это Он укрепит вас до конца, чтобы вы предстали непорочными в День
+        Господа нашего Иисуса Христа.
+      serbian: Који ће вас и утврдити до краја  да будете беспрекорни на дан Господа
+        нашега Исуса Христа.
+      bulgarian: Който ще ви и утвърди докрай, за да бъдете безукорни в деня на
+        Господа нашего Иисуса Христа.
+      ukr2: який і укріпить вас до кінця, щоб ви були бездоганними в день Господа
+        нашого Ісуса Христа.
+      ukr3: котрий і утвердить вас до кінця, щоб ви були невинуваті в день Господа
+        нашого Ісуса Христа.
+      czech: On vam bude oporou az do konce, abyste v onen den naseho Pana Jezise
+        Krista nebyli obvineni.
+      st_text: Который и утвердит вас до конца, <i>чтобы вам быть</i> неповинными в
+        день Господа нашего Иисуса Христа.
+  - id: 1294
+    number: 9
+    bookId: 64
+    text: Верен Бог, Которым вы призваны в общение Сына Его Иисуса Христа, Господа
+      нашего.
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 36830
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 7
+        short: Втор:7:9
+      - verseId: 36625
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 32
+        short: Втор:32:4
+      - verseId: 1183
+        bookId: 59
+        bookCode: 1oe-poslanie-ap-ioanna
+        chapter: 1
+        short: 1 Ин:1:3
+      - verseId: 1176
+        bookId: 70
+        bookCode: 1oe-poslanie-k-fessalonikijcam-ap-pavla
+        chapter: 5
+        short: 1 Фес:5:24
+    translates:
+      kassian: Верен Бог, Которым вы были призваны в общение Сына Его, Иисуса Христа,
+        Господа нашего.
+      podstr: Верный Бог через Которого вы были призваны в общность Сына Его Иисуса
+        Христа Господа нашего.
+      csya: Верен Бог, имже звани бысте во общение Сына его Иисуса Христа, Господа
+        нашего.
+      averincev: ""
+      ungerov: ""
+      csya_old: Вёренъ бг7ъ, и4мже звaни бы1сте во nбще1ніе сн7а є3гw2 ї}са хrтA, гDа
+        нaшегw.
+      sovr_rbo: ""
+      latin: "Fidelis Deus: per quem vocati estis in societatem filii ejus Jesu
+        Christi Domini nostri."
+      ukr: Вірний Бог, що ви через Нього покликані до спільноти Сина Його Ісуса
+        Христа, Господа нашого.
+      nkjv: God is faithful, by whom you were called into the fellowship of His Son,
+        Jesus Christ our Lord.
+      desnitsky: Верен Бог, призвавший вас в общину Собственного Сына Иисуса Христа,
+        Господа нашего!
+      tex_rec: πιστὸς ὁ θεὸς δι᾽ οὗ ἐκλήθητε εἰς κοινωνίαν τοῦ υἱοῦ αὐτοῦ ᾽Ιησοῦ
+        Χριστοῦ τοῦ κυρίου ἡμῶν.
+      deutsch: Denn Gott ist treu, durch welchen ihr berufen seid zur Gemeinschaft
+        seines Sohnes Jesu Christi, unsers Herrn.
+      spanish: Pues fiel es Dios, por quien habéis sido llamados a participar con
+        Jesucristo, su Hijo y Señor nuestro.
+      peshitta: ܡܗܰܝܡܰܢ ܗ݈ܘ ܐܰܠܳܗܳܐ ܕ݁ܒ݂ܺܐܝܕ݂ܶܗ ܐܶܬ݂ܩܪܺܝܬ݁ܽܘܢ ܠܫܰܘܬ݁ܳܦ݂ܽܘܬ݂ܳܐ ܕ݁ܰܒ݂ܪܶܗ
+        ܝܶܫܽܘܥ ܡܫܺܝܚܳܐ ܡܳܪܰܢ܂
+      bel_syomukha: Верны Бог, Якім вы пакліканыя да супольнасьці з Сынам Ягоным,
+        Ісусам Хрыстом, Госпадам нашым.
+      nrt: Верен Бог, призвавший вас быть в общении с Его Сыном Иисусом Христом, нашим
+        Господом!
+      romana: Credincios este Dumnezeu, prin Care ati fost chemati la impartasirea cu
+        Fiul Sau Iisus Hristos, Domnul nostru.
+      francais: Dieu est fidèle, lui qui vous a appelés à la communion de son Fils,
+        Jésus Christ notre Seigneur.
+      italian: fedele è Dio, dal quale siete stati chiamati alla comunione del Figlio
+        suo Gesù Cristo, Signore nostro!
+      old_georgian: სარწმუნო არს ღმერთი, რომლისა მიერ იჩინენით ზიარებასა მას ძისა
+        მისისასა იესუ ქრისტეს უფლისა ჩუენისასა.
+      portuguese: Fiel é Deus, pelo qual fostes chamados para a comunhão de seu Filho
+        Jesus Cristo nosso Senhor.
+      polish: "Wierny jest Bóg, który powołał nas do wspólnoty z Synem swoim
+        Jezusem\rChrystusem, Panem naszym."
+      new_text: Потому что верен Бог, призвавший вас к общению со Своим Сыном, Иисусом
+        Христом, Господом нашим.
+      serbian: Вјеран је Бог који вас позва у заједницу Сина својега Исуса Христа,
+        Господа нашега.
+      bulgarian: Верен е Бог, чрез Когото сте призвани за общение със Сина Му Иисуса
+        Христа, Господа нашего.
+      ukr2: Вірний Бог, що вас покликав до спільности з своїм Сином Ісусом Христом,
+        Господом нашим.
+      ukr3: Вірен бо Бог, через котрого покликані ви в общеннє Сина Його, Ісуса
+        Христа, Господа нашого.
+      czech: Verny je Buh, ktery vas povolal do spolecenstvi se svym Synem, nasim
+        Panem Jezisem Kristem.
+      st_text: Верен Бог, Которым вы призваны в общение Сына Его Иисуса Христа,
+        Господа нашего.
+  - id: 1295
+    number: 10
+    bookId: 64
+    text: Умоляю вас, братия, именем Господа нашего Иисуса Христа, чтобы все вы
+      говорили одно, и не было между вами разделений, но чтобы вы соединены были
+      в одном духе и в одних мыслях.
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 32946
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 15
+        short: Рим:15:5
+      - verseId: 14919
+        bookId: 68
+        bookCode: k-filippijcam-poslanie-ap-pavla
+        chapter: 2
+        short: Флп:2:2
+      - verseId: 14963
+        bookId: 68
+        bookCode: k-filippijcam-poslanie-ap-pavla
+        chapter: 3
+        short: Флп:3:16
+    translates:
+      kassian: Призываю вас, братья, именем Господа нашего Иисуса Христа, чтобы вы все
+        говорили одно и то же, и не было между вами разделений, но чтобы вы
+        прочно были в одном и том же умонастроении и в тех же мыслях.
+      podstr: Прошу же вас, братья, через имя Господа нашего Иисуса Христа, чтобы то
+        же вы говорили все, и не были в вас расколы, вы были же налаженные в том
+        же уме и в том же мнении.
+      csya: Молю же вы, братие, именем Господа нашего Иисуса Христа, да тожде
+        глаголете вси, и да не будут в вас распри, да будете же утверждени в
+        томже разумении и в тойже мысли.
+      averincev: ""
+      ungerov: ""
+      csya_old: Молю1 же вы2, брaтіе, и4менемъ гDа нaшегw ї}са хrтA, да то1жде
+        глаго1лете вси2, и3 да не бyдутъ въ вaсъ р†спри, да бyдете же
+        ўтвержде1ни въ то1мже разумёніи и3 въ то1йже мы1сли.
+      sovr_rbo: ""
+      latin: "Obsecro autem vos fratres per nomen Domini nostri Jesu Christi: ut
+        idipsum dicatis omnes, et non sint in vobis schismata: sitis autem
+        perfecti in eodem sensu, et in eadem sententia."
+      ukr: Тож благаю вас, браття, Ім'ям Господа нашого Ісуса Христа, щоб ви всі
+        говорили те саме, і щоб не було поміж вами поділення, але щоб були ви
+        поєднані в однім розумінні та в думці одній!
+      nkjv: Now I plead with you, brethren, by the name of our Lord Jesus Christ, that
+        you all speak the same thing, and that there be no divisions among you,
+        but that you be perfectly joined together in the same mind and in the
+        same judgment.
+      desnitsky: "И я призываю вас, братья, именем Господа нашего Иисуса Христа:
+        будьте все единогласны друг с другом. Пусть среди вас не будет расколов,
+        оставайтесь в единстве: сообща выносите суждение, сообща принимайте
+        решение!"
+      tex_rec: Παρακαλῶ δὲ ὑμᾶς, ἀδελφοί, διὰ τοῦ ὀνόματος τοῦ κυρίου ἡμῶν ᾽Ιησοῦ
+        Χριστοῦ, ἵνα τὸ αὐτὸ λέγητε πάντες, καὶ μὴ ᾖ ἐν ὑμῖν σχίσματα, ἦτε δὲ
+        κατηρτισμένοι ἐν τῷ αὐτῷ νοῒ καὶ ἐν τῇ αὐτῇ γνώμῃ.
+      deutsch: Ich ermahne euch aber, liebe Brüder, durch den Namen unsers Herrn Jesu
+        Christi, daß ihr allzumal einerlei Rede führt und lasset nicht
+        Spaltungen unter euch sein, sondern haltet fest aneinander in einem
+        Sinne und in einerlei Meinung.
+      spanish: Os ruego, hermanos, por el nombre de nuestro Señor Jesucristo, que
+        todos habléis igualmente y no haya entre vosotros cisma, antes seáis
+        concordes en el mismo pensar y en el mismo sentir.
+      peshitta: ܒ݁ܳܥܶܐ ܐ݈ܢܳܐ ܕ݁ܶܝܢ ܡܶܢܟ݂ܽܘܢ ܐܰܚܰܝ ܒ݁ܰܫܡܶܗ ܕ݁ܡܳܪܰܢ ܝܶܫܽܘܥ ܡܫܺܝܚܳܐ
+        ܕ݁ܬ݂ܶܗܘܶܐ ܚܕ݂ܳܐ ܡܶܠܬ݂ܳܐ ܠܟ݂ܽܠܟ݂ܽܘܢ ܘܠܳܐ ܢܶܗܘܝܳܢ ܒ݁ܟ݂ܽܘܢ ܦ݁ܳܠܰܓ݂ܘܳܬ݂ܳܐ
+        ܐܶܠܳܐ ܬ݁ܶܗܘܽܘܢ ܓ݁ܡܺܝܪܺܝܢ ܒ݁ܰܚܕ݂ܳܐ ܬ݁ܰܪܥܺܝܬ݂ܳܐ ܘܰܒ݂ܚܰܕ݂ ܪܶܥܝܳܢܳܐ܂
+      bel_syomukha: Малю вас, браты, імем Госпада нашага Ісуса Хрыста, каб усе вы
+        гаварылі адно, і ня было паміж вамі падзелаў, а каб вы спалучаны былі ў
+        адным духу і ў адных помыслах.
+      nrt: Я умоляю вас, братья, во Имя нашего Господа Иисуса Христа, быть в согласии
+        друг с другом! Пусть между вами не будет разделений, но будьте едины в
+        мыслях и в целях.
+      romana: Va indemn, fratilor, pentru numele Domnului nostru Iisus Hristos, ca
+        toti sa vorbiti la fel si sa nu fie dezbinari intre voi; ci sa fiti cu
+        totul uniti in acelasi cuget si in aceeasi intelegere.
+      francais: Je vous exhorte, frères, par le nom de notre Seigneur Jésus Christ, à
+        tenir tous un même langage, et à ne point avoir de divisions parmi vous,
+        mais à être parfaitement unis dans un même esprit et dans un même
+        sentiment.
+      italian: Vi esorto pertanto, fratelli, per il nome del Signore nostro Gesù
+        Cristo, ad essere tutti unanimi nel parlare, perché non vi siano
+        divisioni tra voi, ma siate in perfetta unione di pensiero e d'intenti.
+      old_georgian: ხოლო გლოცავ თქუენ, ძმანო, სახელითა უფლისა ჩუენისა იესუ ქრისტესითა,
+        რაჲთა მასვე იტყოდით ყოველნი, და ნუ იყოფინ თქუენ შორის წვალება, არამედ
+        იყვენით განმტკიცებულნი მითვე გონებითა და მითვე მეცნიერებითა.
+      portuguese: "Rogo-vos, irmãos, em nome de nosso Senhor Jesus Cristo, que sejais
+        concordes no falar, e que não haja\rdissensões entre vós; antes sejais
+        unidos no mesmo pensamento e no mesmo parecer."
+      polish: "A przeto upominam was, bracia, w imię Pana naszego Jezusa
+        Chrystusa,\rabyście byli zgodni, i by nie było wśród was rozłamów;
+        byście byli jednego\rducha i jednej myśli."
+      new_text: Именем Господа нашего Иисуса Христа умоляю вас, братья, будьте все
+        согласны друг с другом. Пусть разногласия не разделяют вас! Пусть
+        сплотит вас единая мысль, единая цель!
+      serbian: Молим вас пак, браћо, именом Господа нашега Исуса Христа да сви исто
+        говорите, и да не буду међу вама раздори, него да будете утврђени у
+        истом разуму и истој мисли.
+      bulgarian: Моля ви, братя, в името на Господа нашего Иисуса Христа, да говорите
+        всички едно и също, и да няма помежду ви разцепления, а да бъдете
+        съединени в един дух и в една мисъл.
+      ukr2: Благаю вас, брати, ім'ям Господа нашого Ісуса Христа, щоб ви всі те саме
+        говорили; щоб не було розколів поміж вами, але щоб були поєднані в однім
+        розумінні й у одній думці.
+      ukr3: Благаю ж вас, браттє, імям Господа нашого Ісуса Христа, щоб те саме
+        говорили ви всї, і щоб не було між вами роздїлення, а щоб були з'єднані
+        в одному розумінню і в одній мислї.
+      czech: Prosim vas, bratri, pro jmeno naseho Pana Jezise Krista, abyste vsichni
+        byli svorni a nemeli mezi sebou roztrzky, nybrz abyste dosahli plne
+        jednoty smysleni i presvedceni.
+      st_text: Умоляю вас, братия, именем Господа нашего Иисуса Христа, чтобы все вы
+        говорили одно, и не было между вами разделений, но чтобы вы соединены
+        были в одном духе и в одних мыслях.
+  - id: 1296
+    number: 11
+    bookId: 64
+    text: Ибо от <i>домашних</i> Хлоиных сделалось мне известным о вас, братия мои,
+      что между вами есть споры.
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 32991
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 16
+        short: Рим:16:17
+    translates:
+      kassian: Ибо от домашних Хлои стало мне известно о вас, братья, что между вами
+        есть споры.
+      podstr: Было сделано ясно ведь мне о вас, братья мои, от [которых] Хлои что
+        ссоры в вас есть.
+      csya: Возвестися бо ми о вас, братие моя, (посланным) от хлоиса, яко рвения в
+        вас суть.
+      averincev: ""
+      ungerov: ""
+      csya_old: Возвэсти1сz бо ми2 њ вaсъ, брaтіе мо‰, (пHсланнымъ) t хло1иса t
+        домaшнихъ хло1иса, ћкw рвє1ніz въ вaсъ сyть.
+      sovr_rbo: ""
+      latin: Significatum est enim mihi de vobis fratres mei ab iis, qui sunt Chloes,
+        quia contentiones sunt inter vos.
+      ukr: Бо стало відомо мені про вас, мої браття, від Хлоїних, що між вами
+        суперечки.
+      nkjv: "For it has been declared to me concerning you, my brethren, by those of
+        Chloe's household, that there are contentions among you. "
+      desnitsky: "Мне о вас, братья мои, сообщили домашние Хлои: среди вас пошли распри."
+      tex_rec: ἐδηλώθη γάρ μοι περὶ ὑμῶν, ἀδελφοί μου, ὑπὸ τῶν Χλόης ὅτι ἔριδες ἐν
+        ὑμῖν εἰσιν.
+      deutsch: Denn es ist vor mich gekommen, liebe Brüder, durch die aus Chloes
+        Gesinde von euch, daß Zank unter euch sei.
+      spanish: Esto, hermanos, os lo digo porque he sabido por los de Cloe que hay
+        entre vosotros discordias
+      peshitta: ܫܠܰܚܘ ܠܺܝ ܓ݁ܶܝܪ ܥܠܰܝܟ݁ܽܘܢ ܐܰܚܰܝ ܡܶܢ ܒ݁ܶܝܬ݂ ܟ݁ܠܳܐܶܐ ܕ݁ܚܶܪܝܳܢܶܐ ܐܺܝܬ݂
+        ܒ݁ܰܝܢܳܬ݂ܟ݂ܽܘܢ܂
+      bel_syomukha: Бо ад дамашніх Хлоіных сталася мне вядома пра вас, браты мае, што
+        паміж вамі ёсьць незлагадзь.
+      nrt: Братья мои, от домашних Хлои я узнал о ваших спорах.
+      romana: Caci, fratii mei, despre voi, prin cei din casa lui Hloe mi-a venit
+        stire ca la voi sunt certuri;
+      francais: Car, mes frères, j'ai appris à votre sujet, par les gens de Chloé,
+        qu'il y a des disputes au milieu de vous.
+      italian: Mi è stato segnalato in — fatti a vostro riguardo, fratelli, dalla
+        gente di Cloe, che vi	sono discordie tra voi.
+      old_georgian: რამეთუ მეუწყა მე თქუენთჳს, ძმანო ჩემნო, ქლოველთა მათგან, ვითარმედ
+        ჴდომა რაჲმე არიან თქუენ შორის.
+      portuguese: Pois a respeito de vós, irmãos meus, fui informado pelos da família
+        de Cloé que há contendas entre vós.
+      polish: "Doniesiono mi bowiem o was, bracia moi, przez ludzi Chloe, że zdarzają
+        się\rmiędzy wami spory."
+      new_text: А ведь мне, братья мои, стало известно от домочадцев Хлои, что у вас
+        есть распри.
+      serbian: Јер сам чуо за вас, браћо моја, од Хлојиних, да су међу вама свађе.
+      bulgarian: Защото узнах от домашните на Хлоя за вас, братя мои, че помежду ви
+        имало раздори.
+      ukr2: Я бо довідався про вас, мої брати, від людей Хлої, що між вами є
+        суперечки.
+      ukr3: Звіщено бо менї про вас, браттє моє, від Хлоїних, що між вами єсть
+        незгодини.
+      czech: Dovedel jsem se totiz o vas z domu Chloe, bratri, ze jsou mezi vami
+        spory.
+      st_text: Ибо от <i>домашних</i> Хлоиных сделалось мне известным о вас, братия
+        мои, что между вами есть споры.
+  - id: 1297
+    number: 12
+    bookId: 64
+    text: 'Я разумею то, что у вас говорят: "я Павлов"; "я Аполлосов"; "я Кифин"; "а
+      я Христов".'
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 13357
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 18
+        short: Деян:18:24
+      - verseId: 1569
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 3
+        short: 1 Кор:3:4
+    translates:
+      kassian: "Говорю я о том, что каждый из вас говорит: я Павлов, а я Аполлосов, а
+        я Кифин, а я Христов."
+      podstr: Говорю же это, потому что каждый [из] вас говорит, Я ведь есть Павла, Я
+        же Аполла, Я же Кифы, Я же Христа.
+      csya: "Глаголю же се, яко кийждо вас глаголет: аз убо есмь павлов, аз же
+        аполлосов, аз же кифин, аз же Христов."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Глаго1лю же се2, ћкw кjйждо вaсъ глаго1летъ: ѓзъ ќбw є4смь пavловъ,
+        ѓзъ же ґполлHсовъ, ѓзъ же ки1финъ, ѓзъ же хrто1въ."
+      sovr_rbo: ""
+      latin: "Hoc autem dico, quod unusquisque vestrum dicit: Ego quidem sum Pauli:
+        ego autem Apollo: ego vero Cephae: ego autem Christi."
+      ukr: "А кажу я про те, що з вас кожен говорить: я ж Павлів, а я Аполлосів, а я
+        Кифин, а я Христів."
+      nkjv: Now I say this, that each of you says, "I am of Paul," or "I am of
+        Apollos," or "I am of Cephas," or "I am of Christ."
+      desnitsky: "Вот я о чем: каждый из вас говорит «Я Павлов», «Я Аполлосов», «Я
+        Кифин», «А я Христов»."
+      tex_rec: λέγω δὲ τοῦτο, ὅτι ἕκαστος ὑμῶν λέγει, ᾽Εγὼ μέν εἰμι Παύλου, ᾽Εγὼ δὲ
+        ᾽Απολλῶ, ᾽Εγὼ δὲ Κηφᾶ, ᾽Εγὼ δὲ Χριστοῦ.
+      deutsch: "Ich sage aber davon, daß unter euch einer spricht: Ich bin paulisch,
+        der andere: Ich bin apollisch, der dritte: Ich bin kephisch, der vierte;
+        Ich bin christisch."
+      spanish: "y cada uno de vosotros dice: Yo soy de Pablo, yo de Apolo, yo de
+        Cefas, yo de Cristo."
+      peshitta: ܗܳܕ݂ܶܐ ܕ݁ܶܝܢ ܐܳܡܰܪ ܐ݈ܢܳܐ ܕ݁ܺܐܝܬ݂ ܡܶܢܟ݂ܽܘܢ ܕ݁ܳܐܡܰܪ ܐܶܢܳܐ ܕ݁ܦ݁ܰܘܠܳܘܣ
+        ܐ݈ܢܳܐ ܘܺܐܝܬ݂ ܕ݁ܳܐܡܰܪ ܐܶܢܳܐ ܕ݁ܰܐܦ݁ܳܠܳܘ ܐ݈ܢܳܐ ܘܺܐܝܬ݂ ܕ݁ܳܐܡܰܪ ܐܶܢܳܐ
+        ܕ݁ܟ݂ܺܐܦ݂ܳܐ ܐ݈ܢܳܐ ܘܺܐܝܬ݂ ܕ݁ܳܐܡܰܪ ܐܶܢܳܐ ܕ݁ܰܡܫܺܝܚܳܐ ܐ݈ܢܳܐ܂
+      bel_syomukha: 'Я разумею тое, што ў вас кажуць: "я Паўлаў"; "я Апалосаў"; "я
+        Кіфаў"; "а я Хрыстоў".'
+      nrt: "Я имею в виду, что одни из вас говорят: «Я – сторонник Павлов», другие –
+        «Я Аполлосов», третьи – «Я Кифин», четвертые – «А я Христов»."
+      romana: "Si spun aceasta, ca fiecare dintre voi zice: Eu sunt al lui Pavel, iar
+        eu sunt al lui Apollo, iar eu sunt al lui Chefa, iar eu sunt al lui
+        Hristos!"
+      francais: "Je veux dire que chacun de vous parle ainsi: Moi, je suis de Paul! et
+        moi, d'Apollos! et moi, de Céphas! et moi, de Christ!"
+      italian: 'Mi riferisco al fatto che ciascuno di voi dice: "Io sono di Paolo",
+        "Io invece sono di Apollo", "E io di Cefa", "E io di Cristo!".'
+      old_georgian: "ხოლო ვიტყჳ ამას, რამეთუ კაცად-კაცადი თქუენი იტყჳს, ვითარმედ: მე
+        პავლესი ვარ, ხოლო მე - აპოლოჲსი, ხოლო მე - კეფაჲსი, ხოლო მე - ქრისტესი."
+      portuguese: "Quero dizer com isto, que cada um de vós diz: Eu sou de Paulo; ou,
+        Eu de Apolo; ou Eu sou de Cefas; ou, Eu de\r
+
+        Cristo."
+      polish: "Myślę o tym, co każdy z was mówi: ”Ja jestem Pawła, a ja Apollosa; ja
+        jestem\r
+
+        Kefasa, a ja Chrystusa”."
+      new_text: "Я имею в виду, что каждый из вас говорит свое: «Я — Павлов», «А я —
+        Аполлосов», «А я — Кифин», «А я — Христов»."
+      serbian: "А ово кажем зато што сваки од вас говори: Ја сам Павлов, а ја  Аполов,
+        а ја Кифин, а ја Христов."
+      bulgarian: 'А това казвам, защото един от вас дума: "аз съм Павлов", друг: "аз
+        пък - Аполосов", трети: "аз съм Кифин", а друг: "аз пък - Христов".'
+      ukr2: "Казку ж про те, що кожен з вас говорить: «Я - Павлів, а я - Аполлосів, а
+        я -Кифин, а я - Христів.»"
+      ukr3: "Кажу ж про те, що кожен з вас говорить: Я Павлів; а я Аполосів; а я
+        Кифин; а я Христів."
+      czech: "Myslim tim to, ze se mezi vami rika: Ja se hlasim k Pavlovi, ja zase k
+        Apollovi, ja k Petrovi, ja ke Kristu."
+      st_text: 'Я разумею то, что у вас говорят: "я Павлов"; "я Аполлосов"; "я Кифин";
+        "а я Христов".'
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 1298
+    number: 13
+    bookId: 64
+    text: Разве разделился Христос? разве Павел распялся за вас? или во имя Павла вы
+      крестились?
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 14086
+        bookId: 67
+        bookCode: k-efesanam-poslanie-ap-pavla
+        chapter: 4
+        short: Еф:4:5
+    translates:
+      kassian: Неужели разделился Христос? Разве Павел был распят за вас? Или во имя
+        Павла вы были крещены?
+      podstr: Разделён Христос? Не Павел был распят за вас, или в имя Павла вы были
+        погружены?
+      csya: Еда разделися Христос, еда павел распятся по вас? или во имя павлово
+        крестистеся?
+      averincev: ""
+      ungerov: ""
+      csya_old: є3дA раздэли1сz хrто1съ, є3дA пavелъ распsтсz по вaсъ; и3ли2 во и4мz
+        пavлово крести1стесz;
+      sovr_rbo: ""
+      latin: Divisus est Christus? numquid Paulus crucifixus est pro vobis? aut in
+        nomine Pauli baptizati estis?
+      ukr: Чи ж Христос поділився? Чи ж Павло був розп'ятий за вас? Чи в Павлове ім'я
+        ви христились?
+      nkjv: Is Christ divided? Was Paul crucified for you? Or were you baptized in the
+        name of Paul?
+      desnitsky: Что, Христос разделился? Или Павел за вас был распят? Или во имя
+        Павла вы крестились?
+      tex_rec: μεμέρισται ὁ Χριστός; μὴ Παῦλος ἐσταυρώθη ὑπὲρ ὑμῶν, ἢ εἰς τὸ ὄνομα
+        Παύλου ἐβαπτίσθητε;
+      deutsch: Wie? Ist Christus nun zertrennt? Ist denn Paulus für euch gekreuzigt?
+        Oder seid ihr auf des Paulus Namen getauft?
+      spanish: ¿Está dividido Cristo? ¿O ha sido Pablo crucificado por vosotros o
+        habéis sido bautizados en su nombre?
+      peshitta: ܕ݁ܰܠܡܳܐ ܐܶܬ݂ܦ݁ܰܠܰܓ݂ ܠܶܗ ܡܫܺܝܚܳܐ ܐܰܘ ܠܡܳܐ ܦ݁ܰܘܠܳܘܣ ܐܶܙܕ݁ܩܶܦ݂ ܥܰܠ
+        ܐܰܦ݁ܰܝܟ݁ܽܘܢ ܐܰܘ ܒ݁ܰܫܡܶܗ ܕ݁ܦ݁ܰܘܠܳܘܣ ܥܡܰܕ݁ܬ݁ܽܘܢ܂
+      bel_syomukha: Хіба падзяліўся Хрыстос? хіба Павал крыжаваўся за вас? альбо ў імя
+        Паўлава вы ахрысьціліся?
+      nrt: Неужели Христос разделился? Или, может, это Павел был распят за вас? Или вы
+        были крещены во имя Павла?
+      romana: Oare s-a impartit Hristos? Nu cumva s-a rastignit Pavel pentru voi? Sau
+        fost-ati botezati in numele lui Pavel?
+      francais: Christ est-il divisé? Paul a-t-il été crucifié pour vous, ou est-ce au
+        nom de Paul que vous avez été baptisés?
+      italian: Cristo è stato forse diviso? Forse Paolo è stato crocifisso per voi, o
+        è nel nome di Paolo che siete stati battezzati?
+      old_georgian: გან-მე-ყოფილ არსა ქრისტე? ანუ პავლე ჯუარს-ეცუაა თქუენთჳს? ანუ
+        სახელისა მიმართ პავლესისა ნათელ-იღეთა?
+      portuguese: "será que Cristo está dividido? foi Paulo crucificado por amor de
+        vós? ou fostes vós batizados em nome de\rPaulo?"
+      polish: "Czyż Chrystus jest podzielony? Czyż Paweł został za was ukrzyżowany?
+        Czyż\rw imię Pawła zostaliście ochrzczeni?"
+      new_text: Это что такое? Христос разделился на части?! Или это Павла распяли за
+        вас?! А может, во имя Павла вы приняли крещение?!
+      serbian: Зар се Христос раздијели? Да се Павле не разапе за вас? Или се у име
+        Павлово крстисте?
+      bulgarian: Нима Христос се е разделил? нима Павел биде разпнат за вас? или в име
+        Павлово се кръстихте?
+      ukr2: Чи ж Христос розділився? Хіба Павло був розп'ятий за вас? Або хіба в
+        Павлове ім'я ви христилися?
+      ukr3: Хиба подїливсь Христос? хиба Павла розпято за вас? або в імя Павлове
+        хрестились ви?
+      czech: Je snad Kristus rozdelen? Coz byl Pavel za vas ukrizovan? Nebo jste byli
+        pokrteni ve jmeno Pavlovo?
+      st_text: Разве разделился Христос? разве Павел распялся за вас? или во имя Павла
+        вы крестились?
+  - id: 1299
+    number: 14
+    bookId: 64
+    text: Благодарю Бога, что я никого из вас не крестил, кроме Криспа и Гаия,
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 13341
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 18
+        short: Деян:18:8
+    translates:
+      kassian: Благодарю Бога, что я никого из вас не крестил, кроме Криспа и Гаия,
+      podstr: Благодарю Бога что никого [из] вас я окрестил если не Криспа и Гаия,
+      csya: Благодарю Бога, яко ни единаго от вас крестих, точию криспа и гаиа,
+      averincev: ""
+      ungerov: ""
+      csya_old: Благодарю2 бг7а, ћкw ни є3ди1наго t вaсъ крести1хъ, то1чію крjспа и3
+        гaіа,
+      sovr_rbo: ""
+      latin: "Gratias ago Deo, quod neminem vestrum baptizavi, nisi Crispum et Caium:"
+      ukr: Дякую Богові, що я ані одного з вас не христив, окрім Кріспа та Гая,
+      nkjv: I thank God that I baptized none of you except Crispus and Gaius,
+      desnitsky: Благодарю Бога, что я никого из вас не крестил, разве что Криспа и Гая,
+      tex_rec: εὐχαριστῶ ὅτι οὐδένα ὑμῶν ἐβάπτισα εἰ μὴ Κρίσπον καὶ Γάϊον,
+      deutsch: Ich danke Gott, daß ich niemand unter euch getauft habe außer Krispus
+        und Gajus,
+      spanish: Doy gracias a Dios de no haber bautizado a ninguno de vosotros, si no
+        es a Crispo y a Gayo,
+      peshitta: ܡܰܘܕ݁ܶܐ ܐ݈ܢܳܐ ܠܰܐܠܳܗܝ ܕ݁ܰܠܐ݈ܢܳܫ ܡܶܢܟ݂ܽܘܢ ܠܳܐ ܐܰܥܡܕ݂ܶܬ݂ ܐܶܠܳܐ
+        ܠܰܟ݁ܪܺܝܣܦ݁ܳܘܣ ܘܰܠܓ݂ܰܐܺܝܳܘܣ܂
+      bel_syomukha: Дзякую Богу, што я нікога з вас ня хрысьціў, акрамя Крыспа і Гаія,
+      nrt: Слава Богу, я никого из вас не крестил, кроме Криспа и Гая,
+      romana: Multumesc lui Dumnezeu ca pe nici unul din voi n-am botezat, decat pe
+        Crispus si pe Gaius,
+      francais: Je rends grâces à Dieu de ce que je n'ai baptisé aucun de vous,
+        excepté Crispus et Gaïus,
+      italian: Ringrazio Dio di non aver battezzato nessuno di voi, se non Crispo e
+        Gaio,
+      old_georgian: ჰვმადლობ ღმერთსა, რამეთუ არავის თქუენგანსა ნათელ ვეც, გარნა
+        კრისპოსს და გაიოსს,
+      portuguese: Dou graças a Deus que a nenhum de vós batizei, senão a Crispo e a Gaio;
+      polish: Dziękuję Bogu, że prócz Kryspusa i Gajusa nikogo z was nie ochrzciłem.
+      new_text: Слава Богу, я никого из вас не крестил, только Криспа да Гая,
+      serbian: Благодарим Богу што не крстих ни једнога од вас осим Криста и  Гаја,
+      bulgarian: Благодаря на Бога, че не съм кръстил никого от вас, освен Криспа и Гаия,
+      ukr2: Дякую Богові, що я нікого з вас не охристив, крім Криспа та Ґая,
+      ukr3: Дякую Богові, що я нїкого з вас не охрестив, тільки Криспа та Гая,
+      czech: Dekuji Bohu, ze jsem nikoho z vas nepokrtil krome Krispa a Gaia;
+      st_text: Благодарю Бога, что я никого из вас не крестил, кроме Криспа и Гаия,
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 1300
+    number: 15
+    bookId: 64
+    text: дабы не сказал кто, что я крестил в мое имя.
+    chapter: 1
+    chapterId: 1267
+    parallels: []
+    translates:
+      kassian: чтобы кто не сказал, что во имя мое вы были крещены.
+      podstr: чтобы не кто-либо скажет что в моё имя вы были погружены.
+      csya: да не кто речет, яко в мое имя крестих.
+      averincev: ""
+      ungerov: ""
+      csya_old: да не кто2 рече1тъ, ћкw въ мое2 и4мz крести1хъ.
+      sovr_rbo: ""
+      latin: ne quis dicat quod in nomine meo baptizati estis.
+      ukr: щоб ніхто не сказав, ніби я охристив був у ймення своє.
+      nkjv: lest anyone should say that I had baptized in my own name.
+      desnitsky: и теперь никто не скажет, что вы крещены во имя мое.
+      tex_rec: ἵνα μή τις εἴπῃ ὅτι εἰς τὸ ἐμὸν ὄνομα ἐβαπτίσθητε.
+      deutsch: daß nicht jemand sagen möge, ich hätte auf meinen Namen getauft.
+      spanish: para que nadie pueda decir que habéis sido bautizados en mi nombre.
+      peshitta: ܕ݁ܠܳܐ ܐ݈ܢܳܫ ܢܺܐܡܰܪ ܕ݁ܰܒ݂ܫܶܡܝ ܐܰܥܡܕ݂ܶܬ݂܂
+      bel_syomukha: каб не сказаў хто, што я хрысьціў у імя маё.
+      nrt: так что никто из вас не может сказать, что он крещен во имя мое.
+      romana: Ca sa nu zica cineva ca ati fost botezati in numele meu.
+      francais: afin que personne ne dise que vous avez été baptisés en mon nom.
+      italian: perché nessuno possa dire che siete stati battezzati nel mio nome.
+      old_georgian: "რაჲთა არავინ თქუას, ვითარმედ: სახელითა ჩემითა ნათელ-ვეც."
+      portuguese: para que ninguém diga que fostes batizados em meu nome.
+      polish: Nikt przeto nie może powiedzieć, że w imię moje został ochrzczony.
+      new_text: так что никто не может сказать, что вас крестили во имя меня!
+      serbian: Да не би ко рекао да у име своје крстих.
+      bulgarian: та да не каже някой, че съм кръстил в мое име.
+      ukr2: щоб не сказав хтось, що ви були охрищені в моє ім'я.
+      ukr3: щоб хто не сказав, що в імя моє я охрестив.
+      czech: tak nemuze nikdo rici, ze jste byli pokrteni v moje jmeno.
+      st_text: дабы не сказал кто, что я крестил в мое имя.
+  - id: 1301
+    number: 16
+    bookId: 64
+    text: Крестил я также Стефанов дом; а крестил ли еще кого, не знаю.
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 1540
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 16
+        short: 1 Кор:16:15
+    translates:
+      kassian: Крестил же я и дом Стефанаса. Больше я не знаю, крестил ли я кого
+        другого.
+      podstr: Я окрестил же и Стефана дом; [в] остальном не знаю если кого-нибудь
+        другого я окрестил.
+      csya: "Крестих же и стефанинов дом: прочее не вем, аще кого иного крестих."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Крести1хъ же и3 стефани1новъ до1мъ: про1чее не вёмъ, ѓще кого2
+        и3но1го крести1хъ."
+      sovr_rbo: ""
+      latin: "Baptizavi autem et Stephanae domum: ceterum nescio si quem alium
+        baptizaverim."
+      ukr: Охристив же був я й дім Степанів; більш не знаю, чи христив кого іншого я.
+      nkjv: Yes, I also baptized the household of Stephanas. Besides, I do not know
+        whether I baptized any other.
+      desnitsky: Да, я еще крестил домашних Стефана, а впрочем, уж и не помню, крестил
+        ли кого еще.
+      tex_rec: ἐβάπτισα δὲ καὶ τὸν Στεφανᾶ οἶκον· λοιπὸν οὐκ οἶδα εἴ τινα ἄλλον
+        ἐβάπτισα.
+      deutsch: Ich habe aber auch getauft des Stephanas Hausgesinde; weiter weiß ich
+        nicht, ob ich etliche andere getauft habe.
+      spanish: También bauticé a la casa de Estéfana; mas fuera de éstos no sé de
+        ningún otro.
+      peshitta: ܐܰܥܡܕ݂ܶܬ݂ ܕ݁ܶܝܢ ܐܳܦ݂ ܠܒ݂ܰܝܬ݁ܶܗ ܕ݁ܶܐܣܛܶܦ݂ܰܢܰܐ ܬ݁ܽܘܒ݂ ܕ݁ܶܝܢ ܠܳܐ ܝܳܕ݂ܰܥ
+        ܐ݈ܢܳܐ ܐܶܢ ܠܐ݈ܢܳܫ ܐ݈ܚܪܺܝܢ ܐܰܥܡܕ݂ܶܬ݂܂
+      bel_syomukha: Хрысьціў я таксама Сьцяпанаў дом; а ці хрысьціў я яшчэ каго, ня ведаю.
+      nrt: Да, еще я крестил и домашних Стефана, а больше не помню, чтобы я крестил
+        кого-либо.
+      romana: Am botezat si casa lui Stefana; afara de acestia nu stiu sa mai fi
+        botezat pe altcineva.
+      francais: J'ai encore baptisé la famille de Stéphanas; du reste, je ne sache pas
+        que j'aie baptisé quelque autre personne.
+      italian: Ho battez — zato, è vero, anche la famiglia di Stefana, ma degli altri
+        non so se abbia battezzato alcuno.
+      old_georgian: ხოლო ნათელ-ვეც სტეფანაჲსცა სახელსა, მერმე არა ვიცი, უკუეთუ ვისმე
+        ნათელ-ვეც სხუასა.
+      portuguese: É verdade, batizei também a família de Estéfanas, além destes, não
+        sei se batizei algum outro.
+      polish: "Zresztą, prawda, ochrzciłem dom Stefanasa. Poza tym nie wiem, czym
+        ochrzcił\r
+
+        jeszcze kogoś."
+      new_text: (Впрочем, я крестил еще Стефанаса с домочадцами. А больше не помню,
+        крестил ли еще кого.)
+      serbian: А крстих и дом Стефанинов; даље не знам да ли неког другог крстих.
+      bulgarian: Кръстих също и Стефаниновия дом, а дали съм кръстил и другиго някого,
+        не зная.
+      ukr2: Охристив я теж дім Стефана; а більш не знаю, чи христив я когось іншого.
+      ukr3: Хрестив же я й Стефанів дім; більш не знаю, чи кого другого хрестив.
+      czech: Pokrtil jsem i rodinu Stepanovu. Jinak uz nevim, ze bych byl jeste nekoho
+        pokrtil.
+      st_text: Крестил я также Стефанов дом; а крестил ли еще кого, не знаю.
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 1302
+    number: 17
+    bookId: 64
+    text: Ибо Христос послал меня не крестить, а благовествовать, не в премудрости
+      слова, чтобы не упразднить креста Христова.
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 6664
+        bookId: 58
+        bookCode: 2oe-poslanie-ap-petra
+        chapter: 1
+        short: 2 Пет:1:16
+      - verseId: 1562
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 2
+        short: 1 Кор:2:13
+    translates:
+      kassian: Ибо не послал меня Христос крестить, но благовествовать, не в
+        премудрости слова, чтобы не упразднён был крест Христов.
+      podstr: Не ведь послал меня Христос крестить но благовозвещать, не в мудрости
+        слова, чтобы не был опустошён крест Христа.
+      csya: Не посла бо мене Христос крестити, но благовестити, не в премудрости
+        слова, да не испразднится крест Христов.
+      averincev: ""
+      ungerov: ""
+      csya_old: Не послa бо мене2 хrто1съ крести1ти, но благовэсти1ти, не въ
+        премyдрости сло1ва, да не и3спраздни1тсz кrтъ хrто1въ.
+      sovr_rbo: ""
+      latin: "Non enim misit me Christus baptizare, sed evangelizare: non in sapientia
+        verbi, ut non evacuetur crux Christi."
+      ukr: Бо Христос не послав мене, щоб христити, а звіщати Євангелію, і то не в
+        мудрості слова, щоб безсилим не став хрест Христа.
+      nkjv: For Christ did not send me to baptize, but to preach the gospel, not with
+        wisdom of words, lest the cross of Christ should be made of no effect.
+      desnitsky: Ведь Христос отправил меня не крестить, а возвещать Евангелие. И если
+        бы я стал это делать при помощи мудрых речей, крест Христов оказался бы
+        лишним.
+      tex_rec: οὐ γὰρ ἀπέστειλέν με Χριστὸς βαπτίζειν ἀλλὰ εὐαγγελίζεσθαι, οὐκ ἐν
+        σοφίᾳ λόγου, ἵνα μὴ κενωθῇ ὁ σταυρὸς τοῦ Χριστοῦ.
+      deutsch: Denn Christus hat mich nicht gesandt, zu taufen, sondern das Evangelium
+        zu predigen, nicht mit klugen Worten, auf daß nicht das Kreuz Christi
+        zunichte werde.
+      spanish: Que no me envió Cristo a bautizar, sino a evangelizar, y no con
+        artificiosas palabras, para que no se desvirtúe la cruz de Cristo;
+      peshitta: ܠܳܐ ܓ݁ܶܝܪ ܫܰܕ݁ܪܰܢܝ ܡܫܺܝܚܳܐ ܠܡܰܥܡܳܕ݂ܽܘ ܐܶܠܳܐ ܠܰܡܣܰܒ݁ܳܪܽܘ ܠܳܐ ܒ݁ܚܶܟ݂ܡܰܬ݂
+        ܡܶܠܶܐ ܕ݁ܠܳܐ ܢܶܣܬ݁ܰܪܰܩ ܙܩܺܝܦ݂ܶܗ ܕ݁ܰܡܫܺܝܚܳܐ܂
+      bel_syomukha: Бо Хрыстос паслаў мяне ня хрысьціць, а зьвеставаць, ня ў мудрасьці
+        слова, а каб не зьнясіліць крыж Хрыстовы.
+      nrt: Ведь Христос послал меня не крестить, а возвещать Радостную Весть, и
+        возвещать не по человеческой мудрости, иначе крест Христа потерял бы
+        свое значение.
+      romana: Caci Hristos nu m-a trimis ca sa botez, ci sa binevestesc, dar nu cu
+        intelepciunea cuvantului, ca sa nu ramana zadarnica crucea lui Hristos.
+      francais: Ce n'est pas pour baptiser que Christ m'a envoyé, c'est pour annoncer
+        l'Évangile, et cela sans la sagesse du langage, afin que la croix de
+        Christ ne soit pas rendue vaine.
+      italian: Cristo infatti non mi ha mandato a battezzare, ma a predicare il
+        vangelo; non però con un discorso sapiente, perché non venga resa vana
+        la croce di Cristo.
+      old_georgian: რამეთუ არა მომავლინა მე ქრისტემან ნათლის-ცემად, არამედ სახარებად,
+        არა სიბრძნისა სიტყჳთა, რაჲთა არა ცალიერ იყოს ჯუარი იგი ქრისტესი.
+      portuguese: "Porque Cristo não me enviou para batizar, mas para pregar o
+        evangelho; não em sabedoria de palavras, para\rnão se tornar vã a cruz
+        de Cristo."
+      polish: "Nie posłał mnie Chrystus, abym chrzcił, lecz abym głosił Ewangelię, i
+        to nie\rw mądrości słowa, by nie zniweczyć Chrystusowego krzyża."
+      new_text: Ведь Христос послал меня не крестить, а возвещать Радостную Весть. И
+        не языком человеческой мудрости, чтобы крест Христов не лишился силы.
+      serbian: Јер ме Христос не посла да крштавам, него да проповиједам Јеванђеље, не
+        мудрим ријечима, да се не обеснажи крст Христов.
+      bulgarian: Защото Христос не ме прати да кръщавам, а да благовествувам, и то не
+        с мъдри думи, за да не се обезсили кръстът Христов.
+      ukr2: Христос же послав мене не христити, а благовістити, і то не мудрістю
+        слова, щоб хрест Христа не став безуспішним.
+      ukr3: Не послав бо мене Христос хрестити, а благовістити, не в премудрости
+        слова, щоб не опустїв хрест Христів.
+      czech: Kristus me totiz neposlal krtit, ale zvestovat evangelium, ovsem ne
+        moudrosti slov, aby Kristuv kriz nepozbyl smyslu.
+      st_text: Ибо Христос послал меня не крестить, а благовествовать, не в
+        премудрости слова, чтобы не упразднить креста Христова.
+  - id: 1303
+    number: 18
+    bookId: 64
+    text: Ибо слово о кресте для погибающих юродство есть, а для нас, спасаемых, -
+      сила Божия.
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 13317
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 17
+        short: Деян:17:18
+      - verseId: 32807
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 1
+        short: Рим:1:16
+      - verseId: 5126
+        bookId: 65
+        bookCode: 2oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 2
+        short: 2 Кор:2:15
+      - verseId: 5149
+        bookId: 65
+        bookCode: 2oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 4
+        short: 2 Кор:4:3
+    translates:
+      kassian: Ибо слово о кресте для погибающих есть безумие, для нас же, спасаемых,
+        есть сила Божия.
+      podstr: Слово ведь креста ведь гибнущим глупость есть, же спасающимся нам сила
+        Бога есть.
+      csya: Слово бо крестное погибающым убо юродство есть, а спасаемым нам сила Божия
+        есть.
+      averincev: ""
+      ungerov: ""
+      csya_old: Сло1во бо кrтное погибaющымъ ќбw ю3ро1дство є4сть, ґ спасaємымъ нaмъ
+        си1ла б9іz є4сть.
+      sovr_rbo: ""
+      latin: "Verbum enim crucis pereuntibus quidem stultitia est: iis autem qui salvi
+        fiunt, id est nobis, Dei virtus est."
+      ukr: Бож слово про хреста тим, що гинуть, то глупота, а для нас, що спасаємось,
+        Сила Божа!
+      nkjv: For the message of the cross is foolishness to those who are perishing,
+        but to us who are being saved it is the power of God.
+      desnitsky: Погибающим слово о кресте кажется безумным, но для тех, кто обретает
+        спасение, то есть для вас, в нем сила Божья.
+      tex_rec: ῾Ο λόγος γὰρ ὁ τοῦ σταυροῦ τοῖς μὲν ἀπολλυμένοις μωρία ἐστίν, τοῖς δὲ
+        σῳζομένοις ἡμῖν δύναμις θεοῦ ἐστιν.
+      deutsch: Denn das Wort vom Kreuz ist eine Torheit denen, die verloren werden;
+        uns aber, die wir selig werden ist's eine Gotteskraft.
+      spanish: porque la doctrina de la cruz de Cristo es necedad para los que se
+        pierden, pero es poder de Dios para los que se salvan.
+      peshitta: ܡܶܠܬ݂ܳܐ ܓ݁ܶܝܪ ܕ݁ܰܙܩܺܝܦ݂ܳܐ ܠܰܐܒ݂ܺܝܕ݂ܶܐ ܫܳܛܝܽܘܬ݂ܳܐ ܗ݈ܝ ܠܰܢ ܕ݁ܶܝܢ
+        ܠܰܐܝܠܶܝܢ ܕ݁ܚܰܝܺܝܢܰܢ ܚܰܝܠܳܐ ܗ݈ܝ ܕ݁ܰܐܠܳܗܳܐ܂
+      bel_syomukha: Бо слова пра крыж для пагібельных - юродзтва ёсьць, а нам, што
+        ратуемся, - сіла Божая!
+      nrt: Те, кто идет к погибели, считают, что весть о кресте – это безумие, но для
+        нас, спасаемых, – это сила Божья.
+      romana: Caci cuvantul Crucii, pentru cei ce pier, este nebunie; iar pentru noi,
+        cei ce ne mantuim, este puterea lui Dumnezeu.
+      francais: Car la prédication de la croix est une folie pour ceux qui périssent;
+        mais pour nous qui sommes sauvés, elle est une puissance de Dieu.
+      italian: La pa — rola della croce infatti è stoltezza per quelli cha vanno in
+        perdizione, ma per quelli che si salvano, per noi, è potenza di Dio.
+      old_georgian: რამეთუ სიტყუაჲ იგი ჯუარისაჲ წარწყმედულთა მათთჳს სიცოფე არს, ხოლო
+        ჩუენ ცხორებულთა ამათთჳს ძალ ღმრთისა არს.
+      portuguese: "Porque a palavra da cruz é deveras loucura para os que perecem; mas
+        para nós, que somos salvos, é o poder de\rDeus."
+      polish: "Nauka bowiem krzyża głupstwem jest dla tych, co idą na zatracenie,
+        mocą\rBożą zaś dla nas, którzy dostępujemy zbawienia."
+      new_text: Проповедь о Распятом — глупость для тех, кто идет путем погибели, а
+        для нас, идущих путем спасения, — это Божья сила.
+      serbian: Јер је ријеч о крсту лудост онима који гину, а  сила Божија нама који
+        се спасавамо.
+      bulgarian: Защото словото за кръста е безумство за ония, които гинат, а за нас,
+        които се спасяваме, е сила Божия.
+      ukr2: Бо слово про хрест - глупота тим, що погибають, а для нас, що спасаємося,
+        сила Божа.
+      ukr3: Слово бо про хрест погибаючим дурощі, нам же, що спасаємось, сила Божа.
+      czech: Slovo o krizi je blaznovstvim tem, kdo jsou na ceste k zahube; nam, kteri
+        jdeme ke spase, je moci Bozi.
+      st_text: Ибо слово о кресте для погибающих юродство есть, а для нас, спасаемых,
+        - сила Божия.
+  - id: 1304
+    number: 19
+    bookId: 64
+    text: "Ибо написано: погублю мудрость мудрецов, и разум разумных отвергну."
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 20365
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 29
+        short: Ис:29:14
+      - verseId: 20747
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 44
+        short: Ис:44:25
+      - verseId: 9589
+        bookId: 38
+        bookCode: kniga-proroka-avdia
+        chapter: 1
+        short: Авд:1:8
+      - verseId: 5032
+        bookId: 65
+        bookCode: 2oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 10
+        short: 2 Кор:10:5
+    translates:
+      kassian: "Ибо написано: Погублю мудрость мудрецов, и разум разумных отвергну."
+      podstr: Написано ведь, Погублю мудрость мудрых, и понимание разумных отвергну.
+      csya: "Писано бо есть: погублю премудрость премудрых, и разум разумных отвергу."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Пи1сано бо є4сть: погублю2 премyдрость премyдрыхъ, и3 рaзумъ
+        разyмныхъ tве1ргу."
+      sovr_rbo: ""
+      latin: "Scriptum est enim: Perdam sapientiam sapientium, et prudentiam
+        prudentium reprobabo."
+      ukr: "Бо написано: Я погублю мудрість премудрих, а розум розумних відкину!"
+      nkjv: 'For it is written: "I will destroy the wisdom of the wise, And bring to
+        nothing the understanding of the prudent."'
+      desnitsky: "Так и написано: «погублю мудрость мудрецов и разум разумных отвергну»."
+      tex_rec: γέγραπται γάρ, ᾽Απολῶ τὴν σοφίαν τῶν σοφῶν, καὶ τὴν σύνεσιν τῶν συνετῶν
+        ἀθετήσω.
+      deutsch: 'Denn es steht geschrieben: "Ich will zunichte machen die Weisheit der
+        Weisen, und den Verstand der Verständigen will ich verwerfen."'
+      spanish: "Según que está escrito: «Perderé la sabiduría de los sabios y
+        reprobaré la prudencia de los prudentes»."
+      peshitta: ܟ݁ܬ݂ܺܝܒ݂ ܓ݁ܶܝܪ ܕ݁ܰܐܘܒ݁ܶܕ݂ ܚܶܟ݂ܡܬ݂ܳܐ ܕ݁ܚܰܟ݁ܺܝܡܶܐ ܘܶܐܓ݂ܠܽܘܙ ܬ݁ܰܪܥܺܝܬ݂ܳܐ
+        ܕ݁ܣܰܟ݁ܽܘܠܬ݂ܳܢܶܐ܂
+      bel_syomukha: 'Бо напісана: "Я зьнішчу мудрасьць мудрацоў, і розум разумных адкіну".'
+      nrt: "Ведь написано: «Я погублю мудрость мудрецов, и разум разумных Я
+        отвергну»."
+      romana: 'Caci scris este: "Pierde-voi intelepciunea inteleptilor si stiinta
+        celor invatati voi nimici-o".'
+      francais: "Aussi est-il écrit: Je détruirai la sagesse des sages, Et
+        j'anéantirai l'intelligence des intelligents."
+      italian: "Sta scritto infatti: Distruggerò la sapienza dei sapienti e annullerò
+        l'intelligenza degli intelligenti."
+      old_georgian: "რამეთუ წერილ არს: წარვწყმიდო სიბრძნე იგი ბრძენთაჲ და მეცნიერებაჲ
+        იგი მეცნიერთაჲ შეურაცხ-ვყო."
+      portuguese: "porque está escrito: Destruirei a sabedoria dos sábios, e
+        aniquilarei a sabedoria o entendimento dos entendidos."
+      polish: "Napisane jest bowiem: Wytracę mądrość mędrców, a przebiegłość
+        przebiegłych zniweczę."
+      new_text: "Ведь в Писании сказано: «Погублю мудрость мудрых и разум разумных
+        отвергну»."
+      serbian: "Јер је написано: Погубићу мудрост мудрих, и разум разумних одбацићу."
+      bulgarian: 'Защото писано е: "ще погубя мъдростта на мъдреците и ще отхвърля
+        разума на разумните".'
+      ukr2: "Писано бо: «Знищу мудрість мудрих і розум розумних знівечу!"
+      ukr3: "Писано бо: Погублю премудрість премудрих, і розум розумних відкину."
+      czech: "Je psano: ‚Zahubim moudrost moudrych a rozumnost rozumnych zavrhnu.‘"
+      st_text: "Ибо написано: погублю мудрость мудрецов, и разум разумных отвергну."
+  - id: 1305
+    number: 20
+    bookId: 64
+    text: Где мудрец? где книжник? где совопросник века сего? Не обратил ли Бог
+      мудрость мира сего в безумие?
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 20480
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 33
+        short: Ис:33:18
+      - verseId: 20747
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 44
+        short: Ис:44:25
+      - verseId: 35876
+        bookId: 32
+        bookCode: kniga-proroka-varuha
+        chapter: 3
+        short: Вар:3:23
+    translates:
+      kassian: Где мудрец? Где книжник? Где совопросник века сего? Не обратил ли Бог
+        мудрость мира в безумие?
+      podstr: Где мудрый? Где книжник? Где исследователь века этого? [Разве] не
+        оглупил Бог мудрость мира?
+      csya: Где премудр? где книжник? где совопросник века сего? Не обуи ли Бог
+        премудрость мира сего?
+      averincev: ""
+      ungerov: ""
+      csya_old: ГдЁ премyдръ; гдЁ кни1жникъ; гдЁ совопро1сникъ вёка сегw2; Не њбуи1 ли
+        бг7ъ премyдрость мjра сегw2;
+      sovr_rbo: ""
+      latin: Ubi sapiens? ubi scriba? ubi conquisitor hujus saeculi? Nonne stultam
+        fecit Deus sapientiam hujus mundi?
+      ukr: Де мудрий? Де книжник? Де дослідувач віку цього? Хіба Бог мудрість світу
+        цього не змінив на глупоту?
+      nkjv: Where is the wise? Where is the scribe? Where is the disputer of this age?
+        Has not God made foolish the wisdom of this world?
+      desnitsky: Где же теперь мудрец? Где грамотей? Где тот, кто был искусен в спорах
+        нынешнего века? Бог выставил мирскую мудрость безумием.
+      tex_rec: ποῦ σοφός; ποῦ γραμματεύς; ποῦ συζητητὴς τοῦ αἰῶνος τούτου; οὐχὶ
+        ἐμώρανεν ὁ θεὸς τὴν σοφίαν τοῦ κόσμου;
+      deutsch: Wo sind die Klugen? Wo sind die Schriftgelehrten? Wo sind die
+        Weltweisen? Hat nicht Gott die Weisheit dieser Welt zur Torheit gemacht?
+      spanish: ¿Dónde está el sabio? ¿Dónde el letrado? ¿Dónde el disputador de las
+        cosas de este mundo? ¿No ha hecho Dios necedad la sabiduría de este
+        mundo?
+      peshitta: ܐܰܝܟ݁ܳܐ ܗܽܘ ܚܰܟ݁ܺܝܡܳܐ ܐܰܘ ܐܰܝܟ݁ܳܐ ܗܽܘ ܣܳܦ݂ܪܳܐ ܐܰܘ ܐܰܝܟ݁ܳܐ ܗܽܘ
+        ܕ݁ܳܪܽܘܫܳܐ ܕ݁ܥܳܠܡܳܐ ܗܳܢܳܐ ܠܳܐ ܗܳܐ ܐܰܫܛܝܳܗ ܐܰܠܳܗܳܐ ܚܶܟ݂ܡܬ݂ܶܗ ܕ݁ܥܳܠܡܳܐ
+        ܗܳܢܳܐ܂
+      bel_syomukha: Дзе мудрэц? дзе кніжнік? дзе суразмоўца веку гэтага? Ці не абярнуў
+        Бог мудрасьць сьвету гэтага ў неразумнасьць?
+      nrt: Где мудрец? Где ученый? Где искусный спорщик этого века? Разве Бог не
+        показал, что вся мудрость этого мира на самом деле глупость?
+      romana: Unde este inteleptul? Unde e carturarul? Unde e cercetatorul acestui
+        veac? Au n-a dovedit Dumnezeu nebuna intelepciunea lumii acesteia?
+      francais: Où est le sage? où est le scribe? où est le disputeur de ce siècle?
+        Dieu n'a-t-il pas convaincu de folie la sagesse du monde?
+      italian: Dov'è il sapiente? Dov'è il dotto? Dove mai il sottile ragionatore di
+        questo mondo? Non ha forse Dio dimostrato stolta la sapienza di questo
+        mondo?
+      old_georgian: სადა არს ბრძენი? სადა არს მწიგნობარი? სადა არს გამომეძიებელი იგი
+        ამის სოფლისაჲ? ანუ არა განაცოფა ღმერთმან სიბრძნე იგი ამის სოფლისაჲ?
+      portuguese: "Onde está o sábio? Onde o escriba? Onde o questionador deste
+        século? Porventura não tornou Deus louca a\rsabedoria deste mundo?"
+      polish: "Gdzie jest mędrzec? Gdzie uczony? Gdzie badacz tego, co doczesne?
+        Czyż\rnie uczynił Bóg głupstwem mądrości świata?"
+      new_text: И где тот мудрец? Где тот знаток? Где теперь мыслитель этого века?
+        Разве Бог не явил всю глупость мудрости этого мира?
+      serbian: Гдје је мудрац? Гдје књижевник? Гдје препирач овога вијека? Зар не
+        претвори Бог мудрост овога свијета у лудост?
+      bulgarian: Де е мъдрецът? де е книжовникът? де е разисквачът на тоя век? Не
+        обезуми ли Бог мъдростта на тоя свят?
+      ukr2: Де мудрий? Де учений? Де дослідувач віку цього?» Хіба Бог не зробив дурною
+        мудрість цього світу?
+      ukr3: Де мудрець? де письменник? де дослїджуватель віку сього? Чи не обернув Бог
+        премудрість сьвіта сього в дурощі?
+      czech: Kde jsou ucenci, kde znalci, kde recnici tohoto veku? Neucinil Buh
+        moudrost sveta blaznovstvim?
+      st_text: Где мудрец? где книжник? где совопросник века сего? Не обратил ли Бог
+        мудрость мира сего в безумие?
+  - id: 1306
+    number: 21
+    bookId: 64
+    text: Ибо когда мир <i>своею</i> мудростью не познал Бога в премудрости Божией,
+      то благоугодно было Богу юродством проповеди спасти верующих.
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 25080
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 11
+        short: Мф:11:25
+      - verseId: 23883
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 10
+        short: Лк:10:21
+    translates:
+      kassian: Ведь поскольку мир своей мудростью не познал Бога в премудрости Божией,
+        - благоугодно было Богу безумием проповеди спасти верующих.
+      podstr: Так как ведь в мудрости Бога не узнал мир через мудрость Бога, счёл за
+        благо Бог через глупость возвещения спасти верящих.
+      csya: Понеже бо в премудрости Божией не разуме мир премудростию Бога,
+        благоизволил Бог буйстовм проповеди спасти верующих.
+      averincev: ""
+      ungerov: ""
+      csya_old: Поне1же бо въ премdрости б9іей не разумЁ мjръ премyдростію бг7а,
+        бlгоизво1лилъ бг7ъ бyйствомъ про1повэди спcти2 вёрующихъ.
+      sovr_rbo: ""
+      latin: "Nam quia in Dei sapientia non cognovit mundus per sapientiam Deum:
+        placuit Deo per stultitiam praedicationis salvos facere credentes."
+      ukr: Через те ж, що світ мудрістю не зрозумів Бога в мудрості Божій, то Богові
+        вгодно було спасти віруючих через дурість проповіді.
+      nkjv: For since, in the wisdom of God, the world through wisdom did not know
+        God, it pleased God through the foolishness of the message preached to
+        save those who believe.
+      desnitsky: Этот мир по-своему мудр, но не познал Бога в Его премудрости. И
+        благая воля Бога – спасти тех, кто поверит в безумство проповеди.
+      tex_rec: ἐπειδὴ γὰρ ἐν τῇ σοφίᾳ τοῦ θεοῦ οὐκ ἔγνω ὁ κόσμος διὰ τῆς σοφίας τὸν
+        θεόν, εὐδόκησεν ὁ θεὸς διὰ τῆς μωρίας τοῦ κηρύγματος σῶσαι τοὺς
+        πιστεύοντας.
+      deutsch: Denn dieweil die Welt durch ihre Weisheit Gott in seiner Weisheit nicht
+        erkannte, gefiel es Gott wohl, durch törichte Predigt selig zu machen
+        die, so daran glauben.
+      spanish: Pues por cuanto no conoció en la sabiduría de Dios el mundo a Dios por
+        la humana sabiduría, plugo a Dios salvar a los creyentes por la locura
+        de la predicación.
+      peshitta: ܡܶܛܽܠ ܓ݁ܶܝܪ ܕ݁ܰܒ݂ܚܶܟ݂ܡܬ݂ܶܗ ܕ݁ܰܐܠܳܗܳܐ ܠܳܐ ܝܺܕ݂ܰܥ ܥܳܠܡܳܐ ܒ݁ܚܶܟ݂ܡܬ݂ܳܐ
+        ܠܰܐܠܳܗܳܐ ܨܒ݂ܳܐ ܐܰܠܳܗܳܐ ܕ݁ܰܒ݂ܫܳܛܝܽܘܬ݂ܳܐ ܕ݁ܟ݂ܳܪܽܘܙܽܘܬ݂ܳܐ ܢܰܚܶܐ ܠܰܐܝܠܶܝܢ
+        ܕ݁ܰܡܗܰܝܡܢܺܝܢ܂
+      bel_syomukha: Бо калі сьвет сваёй мудрасьцю не спазнаў Бога ў мудрасьці Божай,
+        дык заўгодна было Богу юродзтвам пропаведзі выратаваць веруючых.
+      nrt: И так как по великой мудрости Божьей этот мир, несмотря на всю его
+        мудрость, так и не смог познать Его, то Богу было угодно спасти тех, кто
+        поверит через «безумие» возвещаемой вести.
+      romana: Caci de vreme ce intru intelepciunea lui Dumnezeu lumea n-a cunoscut
+        prin intelepciune pe Dumnezeu, a binevoit Dumnezeu sa mantuiasca pe cei
+        ce cred prin nebunia propovaduirii.
+      francais: Car puisque le monde, avec sa sagesse, n'a point connu Dieu dans la
+        sagesse de Dieu, il a plu à Dieu de sauver les croyants par la folie de
+        la prédication.
+      italian: Poiché, infatti, nel disegno sapiente di Dio il mondo, con tutta la sua
+        sapienza, non ha conosciuto Dio, è piaciuto a Dio di salvare i credenti
+        con la stoltezza della predicazione.
+      old_georgian: რამეთუ ვინაჲთგან სიბრძნჲთა მით ღმრთისაჲთა ვერ იცნა სოფელმან
+        სიბრძნითა თჳსითა ღმერთი, ჯერ-იჩინა ღმერთმან ქადაგებითა მით სისულელისაჲთა
+        ცხორებაჲ მორწმუნეთაჲ მათ.
+      portuguese: "Visto como na sabedoria de Deus o mundo pela sua sabedoria não
+        conheceu a Deus, aprouve a Deus salvar pela\rloucura da pregação os que
+        crêem."
+      polish: Skoro bowiem świat przez mądrość nie poznał Boga w mądrości Bożej,
+        spodobało się Bogu przez głupstwo głoszenia słowa zbawić wierzących.
+      new_text: Поскольку, как замыслил в Своей мудрости Бог, мир своей мудростью не
+        познал Бога, Он пожелал спасти верующих «глупостью» Вести.
+      serbian: Пошто, дакле, у премудрости Божијој свијет мудрошћу не позна Бога,
+        изволи се Богу да лудошћу проповиједи спасе оне који вјерују.
+      bulgarian: Понеже светът със своята мъдрост не позна Бога в премъдростта Божия,
+        Бог благоволи да спаси вярващите с безумството на проповедта.
+      ukr2: А що світ своєю мудрістю не спізнав Бога у Божій мудрості, то Богові
+        вгодно було спасти віруючих глупотою проповіді.
+      ukr3: Коли бо у премудростї Божій не пізнав сьвіт Бога премудростю, то зволив
+        Бог дурощами проповідї спасти віруючих.
+      czech: Protoze svet svou moudrosti nepoznal Boha v jeho moudrem dile, zalibilo
+        se Bohu spasit ty, kdo veri, blaznovskou zvesti.
+      st_text: Ибо когда мир <i>своею</i> мудростью не познал Бога в премудрости
+        Божией, то благоугодно было Богу юродством проповеди спасти верующих.
+  - id: 1307
+    number: 22
+    bookId: 64
+    text: Ибо и Иудеи требуют чудес, и Еллины ищут мудрости;
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 35876
+        bookId: 32
+        bookCode: kniga-proroka-varuha
+        chapter: 3
+        short: Вар:3:23
+      - verseId: 25123
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 12
+        short: Мф:12:38
+      - verseId: 25269
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 16
+        short: Мф:16:1
+      - verseId: 23920
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 11
+        short: Лк:11:16
+    translates:
+      kassian: Ибо и Иудеи требуют знамений, и Еллины ищут мудрости,
+      podstr: Так как и Иудеи знамения просят и Эллины мудрость ищут,
+      csya: "Понеже и иудее знамения просят, и еллини премудрости ищут:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Поне1же и3 їуде1є знaменіz про1сzтъ, и3 є4ллини премyдрости и4щутъ:"
+      sovr_rbo: ""
+      latin: "Quoniam et Judaei signa petunt, et Graeci sapientiam quaerunt:"
+      ukr: Бо й юдеї жадають ознак, і греки пошукують мудрости,
+      nkjv: For Jews request a sign, and Greeks seek after wisdom;
+      desnitsky: И вот иудеи в ее подтверждение требуют чудес, эллины ищут мудрых
+        доказательств,
+      tex_rec: ἐπειδὴ καὶ ᾽Ιουδαῖοι σημεῖα αἰτοῦσιν καὶ Ἕλληνες σοφίαν ζητοῦσιν,
+      deutsch: Sintemal die Juden Zeichen fordern und die Griechen nach Weisheit fragen,
+      spanish: Porque los judíos piden señales, los griegos buscan sabiduría,
+      peshitta: ܡܶܛܽܠ ܕ݁ܺܝܗܽܘܕ݂ܳܝܶܐ ܐܳܬ݂ܘܳܬ݂ܳܐ ܫܳܐܠܺܝܢ ܘܰܐܪܡܳܝܶܐ ܚܶܟ݂ܡܬ݂ܳܐ ܒ݁ܳܥܶܝܢ܂
+      bel_syomukha: Бо і Юдэі патрабуюць цудаў, і Эліны шукаюць мудрасьці;
+      nrt: Иудеи требуют знамений, греки ищут мудрости,
+      romana: Fiindca si iudeii cer semne, iar elinii cauta intelepciune,
+      francais: "Les Juifs demandent des miracles et les Grecs cherchent la sagesse:"
+      italian: E mentre i Giudei chiedono i miracoli e i Greci cercano la sapienza,
+      old_georgian: ვინაჲთგან ჰურიანიცა სასწაულსა ითხოვენ, და წარმართნი სიბრძნესა ეძიებენ.
+      portuguese: Pois, enquanto os judeus pedem sinal, e os gregos buscam sabedoria,
+      polish: Tak więc, gdy Żydzi żądają znaków, a Grecy szukają mądrości,
+      new_text: Потому что в то время как евреи требуют в доказательство чудес, а
+        греки ищут мудрости,
+      serbian: Јер и Јудејци ишту знаке, и  Јелини траже мудрост.
+      bulgarian: Защото и иудеите искат личби, и елините търсят мъдрост,
+      ukr2: Коли юдеї вимагають знаків, а греки мудрости шукають, -
+      ukr3: Коли і Жиди ознак допевняють ся, і Греки премудростї шукають,
+      czech: Zide zadaji zazracna znameni, Rekove vyhledavaji moudrost,
+      st_text: Ибо и Иудеи требуют чудес, и Еллины ищут мудрости;
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 1308
+    number: 23
+    bookId: 64
+    text: а мы проповедуем Христа распятого, для Иудеев соблазн, а для Еллинов
+      безумие,
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 21217
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 8
+        short: Ис:8:14
+      - verseId: 13317
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 17
+        short: Деян:17:18
+      - verseId: 13669
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 26
+        short: Деян:26:24
+      - verseId: 33226
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 9
+        short: Рим:9:32
+      - verseId: 1551
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 2
+        short: 1 Кор:2:2
+      - verseId: 15107
+        bookId: 66
+        bookCode: k-galatam-poslanie-ap-pavla
+        chapter: 5
+        short: Гал:5:11
+    translates:
+      kassian: мы же проповедуем Христа распятого, для Иудеев соблазн, а для язычников
+        безумие,
+      podstr: мы же возвещаем Христа распятого, Иудеям ведь неприличие язычникам же
+        глупость,
+      csya: мы же проповедуем Христа распята, иудеем убо соблазн, еллином же безумие,
+      averincev: ""
+      ungerov: ""
+      csya_old: мы1 же проповёдуемъ хrтA рaспzта, їуде1ємъ ќбw соблaзнъ, є4ллинwмъ же
+        безyміе,
+      sovr_rbo: ""
+      latin: "nos autem praedicamus Christum crucifixum: Judaeis quidem scandalum,
+        gentibus autem stultitiam,"
+      ukr: а ми проповідуємо Христа розп'ятого, для юдеїв згіршення, а для греків
+        безумство,
+      nkjv: but we preach Christ crucified, to the Jews a stumbling block and to the
+        Greeks foolishness,
+      desnitsky: а мы проповедуем Христа распятого – для иудеев это скандал, для
+        язычников безумие.
+      tex_rec: ἡμεῖς δὲ κηρύσσομεν Χριστὸν ἐσταυρωμένον, ᾽Ιουδαίοις μὲν σκάνδαλον
+        ἔθνεσιν δὲ μωρίαν,
+      deutsch: wir aber predigen den gekreuzigten Christus, den Juden ein Ärgernis und
+        den Griechen eine Torheit;
+      spanish: mientras que nosotros predicamos a Cristo crucificado, escándalo para
+        los judíos, locura para los gentiles,
+      peshitta: ܚܢܰܢ ܕ݁ܶܝܢ ܡܰܟ݂ܪܙܺܝܢܰܢ ܡܫܺܝܚܳܐ ܟ݁ܰܕ݂ ܙܩܺܝܦ݂ ܬ݁ܽܘܩܰܠܬ݁ܳܐ ܠܺܝܗܽܘܕ݂ܳܝܶܐ
+        ܘܠܰܐܪܡܳܝܶܐ ܫܳܛܝܽܘܬ݂ܳܐ܂
+      bel_syomukha: а мы прапаведуем Хрыста ўкрыжаванага, для Юдэяў камень
+        спатыкненьня, а для Элінаў неразумнасьць,
+      nrt: а мы возвещаем распятого Христа – для иудеев это камень преткновения, а для
+        язычников – безумие.
+      romana: "Insa noi propovaduim pe Hristos cel rastignit: pentru iudei, sminteala;
+        pentru neamuri, nebunie."
+      francais: nous, nous prêchons Christ crucifié; scandale pour les Juifs et folie
+        pour les païens,
+      italian: noi predichiamo Cristo crocifisso, scandalo per i Giudei, stoltezza per
+        i pagani;
+      old_georgian: "ხოლო ჩუენ ვქადაგებთ ქრისტესა ჯუარ-ცუმულსა: ჰურიათა სამე საცთურ,
+        და წარმართთა სისულელე."
+      portuguese: nós pregamos a Cristo crucificado, que é escândalo para os judeus, e
+        loucura para os gregos,
+      polish: "my głosimy Chrystusa ukrzyżowanego, który jest zgorszeniem dla Żydów,
+        a\rgłupstwem dla pogan,"
+      new_text: мы возвещаем Христа, распятого на кресте! Для евреев это камень
+        преткновения, для язычников — глупость,
+      serbian: А ми проповиједамо Христа распетога, Јудејцима саблазан, а
+        Јелинима  лудост;
+      bulgarian: а ние проповядваме Христа разпнатия, Който за иудеи е съблазън, а за
+        елини безумство,
+      ukr2: "ми проповідуємо Христа розп'ятого: -ганьбу для юдеїв, і глупоту для
+        поган,"
+      ukr3: ми проповідуємо Христа розпятого, Жидам поблазнь, Грекам же дурощі,
+      czech: ale my kazeme Krista ukrizovaneho. Pro Zidy je to kamen urazu, pro
+        ostatni blaznovstvi,
+      st_text: а мы проповедуем Христа распятого, для Иудеев соблазн, а для Еллинов
+        безумие,
+  - id: 1309
+    number: 24
+    bookId: 64
+    text: для самих же призванных, Иудеев и Еллинов, Христа, Божию силу и Божию
+      премудрость;
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 30205
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 8
+        short: Притч:8:1
+      - verseId: 33779
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 24
+        short: Сир:24:1
+      - verseId: 32807
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 1
+        short: Рим:1:16
+      - verseId: 22861
+        bookId: 69
+        bookCode: k-kolossanam-poslanie-ap-pavla
+        chapter: 2
+        short: Кол:2:3
+    translates:
+      kassian: для самих же призванных, как Иудеев, так и Еллинов, Христа - Божию силу
+        и Божию премудрость,
+      podstr: самим же званым, Иудеям и Эллинам, Христа Бога силу и Бога мудрость;
+      csya: "самем же званным иудеем же и еллином Христа, Божию силу и Божию
+        премудрость:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "самBмъ же зв†ннымъ їуде1ємъ же и3 є4ллинwмъ хrтA, б9ію си1лу и3 б9ію
+        премdрость:"
+      sovr_rbo: ""
+      latin: "ipsis autem vocatis Judaeis, atque Graecis Christum Dei virtutem, et Dei
+        sapientia:"
+      ukr: а для самих покликаних юдеїв та греків Христа, Божу силу та Божую мудрість!
+      nkjv: but to those who are called, both Jews and Greeks, Christ the power of God
+        and the wisdom of God.
+      desnitsky: Но для тех, кто ответил на призыв нашей проповеди, будь он из иудеев
+        или эллинов, Христос – Божья сила и Божья мудрость.
+      tex_rec: αὐτοῖς δὲ τοῖς κλητοῖς, ᾽Ιουδαίοις τε καὶ Ἕλλησιν, Χριστὸν θεοῦ δύναμιν
+        καὶ θεοῦ σοφίαν·
+      deutsch: denen aber, die berufen sind, Juden und Griechen, predigen wir
+        Christum, göttliche Kraft und göttliche Weisheit.
+      spanish: mas poder y sabiduría de Dios para los llamados, ya judíos, ya griegos.
+      peshitta: ܠܗܳܢܽܘܢ ܕ݁ܶܝܢ ܕ݁ܰܩܪܶܝܢ ܝܺܗܽܘܕ݂ܳܝܶܐ ܘܰܐܪܡܳܝܶܐ ܡܫܺܝܚܳܐ ܚܰܝܠܳܐ ܕ݁ܰܐܠܳܗܳܐ
+        ܘܚܶܟ݂ܡܬ݂ܳܐ ܕ݁ܰܐܠܳܗܳܐ܂
+      bel_syomukha: а для саміх пакліканых, Юдэяў і Элінаў, Хрыста, Божую сілу і Божую
+        мудрасьць;
+      nrt: Для тех же, кого Бог призвал, будь то иудей или грек, Христос – это сила и
+        мудрость Божья!
+      romana: "Dar pentru cei chemati, si iudei si elini: pe Hristos, puterea lui
+        Dumnezeu si intelepciunea lui Dumnezeu."
+      francais: mais puissance de Dieu et sagesse de Dieu pour ceux qui sont appelés,
+        tant Juifs que Grecs.
+      italian: ma per coloro che sono chiamati, sia Giudei che Greci, predichiamo
+        Cristo potenza di Dio e sapienza di Dio.
+      old_georgian: ხოლო მათვე ჩინებულთა ჰურიათა და წარმართთა ქრისტე ღმრთისა ძალ არს
+        და ღმრთისა სიბრძნე.
+      portuguese: mas para os que são chamados, tanto judeus como gregos, Cristo,
+        poder de Deus, e sabedoria de Deus.
+      polish: "dla tych zaś, którzy są powołani, tak spośród Żydów, jak i spośród
+        Greków,\rChrystusem, mocą Bożą i mądrością Bożą."
+      new_text: а для тех, кто призван — и евреев, и греков, — это Христос, явивший
+        собой и Божью силу, и Божью мудрость.
+      serbian: Онима пак позванима, и Јудејцима и Јелинима, Христа, Божију силу
+        и  Божију премудрост.
+      bulgarian: пък за самите призвани, както иудеи, тъй и елини - Божия сила и Божия
+        премъдрост;
+      ukr2: а для тих, що покликані, -чи юдеїв, чи греків - Христа, Божу могутність і
+        Божу мудрість.
+      ukr3: "самим же покликаним, і Жидам і Грекам, Божу силу й Божу премудрість:"
+      czech: ale pro povolane, jak pro Zidy, tak pro Reky, je Kristus Bozi moc a Bozi
+        moudrost.
+      st_text: для самих же призванных, Иудеев и Еллинов, Христа, Божию силу и Божию
+        премудрость;
+  - id: 1310
+    number: 25
+    bookId: 64
+    text: потому что немудрое Божие премудрее человеков, и немощное Божие сильнее
+      человеков.
+    chapter: 1
+    chapterId: 1267
+    parallels: []
+    translates:
+      kassian: потому что безумное Божие мудрее людей, и немощное Божие сильнее людей.
+      podstr: потому что глупое Бога мудрее людей есть, и слабое Бога сильнее людей.
+      csya: зане буее Божие премудрее человек есть, и немощное Божие крепчае человек
+        есть.
+      averincev: ""
+      ungerov: ""
+      csya_old: зане2 бyее б9іе премdрэе человBкъ є4сть, и3 немощно1е б9іе крэпчaе
+        человBкъ є4сть.
+      sovr_rbo: ""
+      latin: "quia quod stultum est Dei, sapientius est hominibus: et quod infirmum
+        est Dei, fortius est hominibus."
+      ukr: Бо Боже й немудре розумніше воно від людей, а Боже немічне сильніше воно
+        від людей!
+      nkjv: Because the foolishness of God is wiser than men, and the weakness of God
+        is stronger than men.
+      desnitsky: Что выглядит безумным, то у Бога превосходит человеческую мудрость, а
+        что немощным – человеческую силу.
+      tex_rec: ὅτι τὸ μωρὸν τοῦ θεοῦ σοφώτερον τῶν ἀνθρώπων ἐστίν, καὶ τὸ ἀσθενὲς τοῦ
+        θεοῦ ἰσχυρότερον τῶν ἀνθρώπων.
+      deutsch: Denn die göttliche Torheit ist weiser, als die Menschen sind; und die
+        göttliche Schwachheit ist stärker, als die Menschen sind.
+      spanish: Porque la locura de Dios es más sabia que los hombres, y la flaqueza de
+        Dios, más poderosa que los hombres.
+      peshitta: ܡܶܛܽܠ ܕ݁ܫܳܛܝܽܘܬ݂ܶܗ ܕ݁ܰܐܠܳܗܳܐ ܚܰܟ݁ܺܝܡܳܐ ܗ݈ܝ ܡܶܢ ܒ݁ܢܰܝܢܳܫܳܐ
+        ܘܰܟ݂ܪܺܝܗܽܘܬ݂ܶܗ ܕ݁ܰܐܠܳܗܳܐ ܚܰܝܠܬ݂ܳܢܝܳܐ ܗ݈ܝ ܡܶܢ ܒ݁ܢܰܝ ܐ݈ܢܳܫܳܐ܂
+      bel_syomukha: бо і буянае Божае мудрэйшае за людзей, і нямоцнае Божае мацнейшае
+        за людзей.
+      nrt: Ведь то, что кажется глупостью Божьей, – куда мудрее человеческой мудрости,
+        и что кажется слабостью Божьей – куда сильнее человеческой силы.
+      romana: Pentru ca fapta lui Dumnezeu, socotita de catre oameni nebunie, este mai
+        inteleapta decat intelepciunea lor si ceea ce se pare ca slabiciune a
+        lui Dumnezeu, mai puternica decat taria oamenilor.
+      francais: Car la folie de Dieu est plus sage que les hommes, et la faiblesse de
+        Dieu est plus forte que les hommes.
+      italian: Perché ciò che è stoltezza di Dio è più sapiente degli uomini, e ciò
+        che è debolezza di Dio è più forte degli uomini.
+      old_georgian: რამეთუ სულელი იგი ღმრთისაჲ უბრძნეს კაცთა არს, და უძლური იგი
+        ღმრთისაჲ უძლიერეს კაცთა არს.
+      portuguese: Porque a loucura de Deus é mais sábia que os homens; e a fraqueza de
+        Deus é mais forte que os homens.
+      polish: "To bowiem, co jest głupstwem u Boga, przewyższa mądrością ludzi, a co
+        jest\rsłabe u Boga, przewyższa mocą ludzi."
+      new_text: Потому что Божья «глупость» мудрее людей, и Божья «слабость» сильнее
+        людей!
+      serbian: Јер је лудост Божија мудрија од људи, и слабост је Божија јача од људи.
+      bulgarian: защото онова, що е безумно у Бога, е по-мъдро от човеците, и онова,
+        що е немощно у Бога, е по-силно от човеците.
+      ukr2: Бо, нібито немудре Боже - мудріше від людської мудрости, і немічне Боже
+        міцніше від людської сили.
+      ukr3: тим що немудре Боже мудріще від людей, а неміцне Боже кріпше людей.
+      czech: Nebot blaznovstvi Bozi je moudrejsi nez lide a slabost Bozi je silnejsi
+        nez lide.
+      st_text: потому что немудрое Божие премудрее человеков, и немощное Божие сильнее
+        человеков.
+  - id: 1311
+    number: 26
+    bookId: 64
+    text: "Посмотрите, братия, кто вы, призванные: не много <i>из вас</i> мудрых по
+      плоти, не много сильных, не много благородных;"
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 34880
+        bookId: 43
+        bookCode: kniga-proroka-sofonii
+        chapter: 3
+        short: Соф:3:12
+      - verseId: 18659
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 7
+        short: Ин:7:48
+      - verseId: 15172
+        bookId: 56
+        bookCode: poslanie-ap-iakova
+        chapter: 2
+        short: Иак:2:5
+    translates:
+      kassian: "Ибо смотрите, братья, на призвание ваше: не много мудрых по плоти, не
+        много сильных, не много благородных."
+      podstr: Смотрите ведь [на] призвание ваше, братья, потому что не многие мудрые
+        по плоти, не многие сильны, не многие благородны;
+      csya: "Видите бо звание ваше, братие, яко не мнози премудри по плоти, не мнози
+        сильни, не мнози благородни:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Ви1дите бо звaніе вaше, брaтіе, ћкw не мно1зи премyдри по пло1ти, не
+        мно1зи си1льни, не мно1зи благоро1дни:"
+      sovr_rbo: ""
+      latin: "Videte enim vocationem vestram, fratres, quia non multi sapientes
+        secundum carnem, non multi potentes, non multi nobiles:"
+      ukr: Дивіться бо, браття, на ваших покликаних, що небагато-хто мудрі за тілом,
+        небагато-хто сильні, небагато-хто шляхетні.
+      nkjv: For you see your calling, brethren, that not many wise according to the
+        flesh, not many mighty, not many noble, are called.
+      desnitsky: "На своем примере видите, братья, кого призывает Бог: по обычным
+        меркам не много среди вас мудрых, не много могучих, не много
+        благородных."
+      tex_rec: Βλέπετε γὰρ τὴν κλῆσιν ὑμῶν, ἀδελφοί, ὅτι οὐ πολλοὶ σοφοὶ κατὰ σάρκα,
+        οὐ πολλοὶ δυνατοί, οὐ πολλοὶ εὐγενεῖς·
+      deutsch: "Sehet an, liebe Brüder, eure Berufung: nicht viel Weise nach dem
+        Fleisch, nicht viel Gewaltige, nicht viel Edle sind berufen."
+      spanish: Y si no, mirad, hermanos, vuestra vocación; pues no hay entre vosotros
+        muchos sabios según la carne, ni muchos poderosos, ni muchos nobles.
+      peshitta: ܚܙܰܘ ܓ݁ܶܝܪ ܐܳܦ݂ ܩܪܳܝܬ݁ܟ݂ܽܘܢ ܐܰܚܰܝ ܕ݁ܠܳܐ ܣܰܓ݁ܺܝܐܝܺܢ ܒ݁ܟ݂ܽܘܢ ܚܰܟ݁ܺܝܡܶܐ
+        ܒ݁ܰܒ݂ܣܰܪ ܘܠܳܐ ܣܰܓ݁ܺܝܐܝܺܢ ܒ݁ܟ݂ܽܘܢ ܚܰܝܠܬ݂ܳܢܶܐ ܘܠܳܐ ܣܰܓ݁ܺܝܐܝܺܢ ܒ݁ܟ݂ܽܘܢ
+        ܒ݁ܢܰܝ ܛܽܘܗܡܳܐ ܪܰܒ݁ܳܐ܂
+      bel_syomukha: "Паглядзеце, браты, хто вы, закліканыя: няшмат сярод вас мудрых па
+        плоці, няшмат моцных, няшмат высакародных;"
+      nrt: Взгляните, братья, на то, какими вы были, когда вас призвал Бог. Много ли
+        среди вас было мудрых, если судить по-человечески, много ли среди вас
+        могущественных, много ли знатных?
+      romana: Caci, priviti chemarea voastra, fratilor, ca nu multi sunt intelepti
+        dupa trup, nu multi sunt puternici, nu multi sunt de bun neam;
+      francais: Considérez, frères, que parmi vous qui avez été appelés il n'y a ni
+        beaucoup de sages selon la chair, ni beaucoup de puissants, ni beaucoup
+        de nobles.
+      italian: "Considerate infatti la vostra chiamata, fratelli: non ci sono tra voi
+        molti sapienti secondo la carne, non molti potenti, non molti nobili."
+      old_georgian: "რამეთუ იხილეთ-ღა ჩინებულებაჲ ეგე თქუენი, ძმანო: არა მრავალნი
+        ბრძენ არიანა ჴორციელად, არა მრავალნი ძლიერ არიანა, არა მრავალნი აზნაურ
+        არიანა?"
+      portuguese: "Ora, vede, irmãos, a vossa vocação, que não são muitos os sábios
+        segundo a carne, nem muitos os poderosos.\rnem muitos os nobres que são
+        chamados."
+      polish: "Przeto przypatrzcie się, bracia, powołaniu waszemu! Niewielu tam
+        mędrców\rwedług oceny ludzkiej, niewielu możnych, niewielu szlachetnie
+        urodzonych."
+      new_text: Вы только посмотрите на себя, братья, какими вы были, когда вас
+        призвал Бог. Много ли было среди вас тех, кого бы сочли мудрыми, много
+        ли было влиятельных, много ли родовитых?
+      serbian: "Јер гледајте, браћо, на вас позване: нема ту ни много мудрих по
+        тијелу, ни много моћних, ни много племенита рода;"
+      bulgarian: "Гледайте, братя, какви сте вие, призваните: не мнозина сте мъдри по
+        плът, не мнозина силни, не мнозина благородни;"
+      ukr2: "Погляньте, брати, на звання ваше: не багато мудрих тілом, не багато
+        сильних, не багато благородних;"
+      ukr3: Спогляньте бо на покликаннє ваше, браттє, що небагато (між вами) премудрих
+        по тїлу, небагато сильних, небагато благородних;
+      czech: "Pohledte, bratri, koho si Buh povolava: Neni mezi vami mnoho moudrych
+        podle lidskeho soudu, ani mnoho mocnych, ani mnoho urozenych;"
+      st_text: "Посмотрите, братия, кто вы, призванные: не много <i>из вас</i> мудрых
+        по плоти, не много сильных, не много благородных;"
+  - id: 1312
+    number: 27
+    bookId: 64
+    text: но Бог избрал немудрое мира, чтобы посрамить мудрых, и немощное мира
+      избрал Бог, чтобы посрамить сильное;
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 270
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 17
+        short: 1 Цар:17:42
+      - verseId: 30244
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 9
+        short: Притч:9:4
+      - verseId: 35880
+        bookId: 32
+        bookCode: kniga-proroka-varuha
+        chapter: 3
+        short: Вар:3:27
+      - verseId: 25080
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 11
+        short: Мф:11:25
+      - verseId: 24073
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 14
+        short: Лк:14:21
+      - verseId: 5032
+        bookId: 65
+        bookCode: 2oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 10
+        short: 2 Кор:10:5
+    translates:
+      kassian: Но безумное мира избрал Бог, чтобы посрамить мудрых, и немощное мира
+        избрал Бог, чтобы посрамить сильное,
+      podstr: но глупое мира выбрал Бог чтобы Он пристыжал мудрых, и слабое мира
+        выбрал Бог чтобы Он пристыжал сильное,
+      csya: "но буяя мира избра Бог, да премудрыя посрамит, и немощная мира избра Бог,
+        да посрамит крепкая:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "но б{zz мjра и3збрA бг7ъ, да прем{дрыz посрами1тъ, и3 не1мwщнаz мjра
+        и3збрA бг7ъ, да посрами1тъ крBпкаz:"
+      sovr_rbo: ""
+      latin: "sed quae stulta sunt mundi elegit Deus, ut confundat sapientes: et
+        infirma mundi elegit Deus, ut confundat fortia:"
+      ukr: Але Бог вибрав немудре світу, щоб засоромити мудрих, і немічне світу Бог
+        вибрав, щоб засоромити сильне,
+      nkjv: But God has chosen the foolish things of the world to put to shame the
+        wise, and God has chosen the weak things of the world to put to shame
+        the things which are mighty;
+      desnitsky: Но Бог избрал в этом мире тех, кто выглядел безумцами – и так
+        пристыдил мудрецов; и немощных в этом мире избрал Бог, чтобы постыдить
+        силачей;
+      tex_rec: ἀλλὰ τὰ μωρὰ τοῦ κόσμου ἐξελέξατο ὁ θεὸς ἵνα καταισχύνῃ τοὺς σοφούς,
+        καὶ τὰ ἀσθενῆ τοῦ κόσμου ἐξελέξατο ὁ θεὸς ἵνα καταισχύνῃ τὰ ἰσχυρά,
+      deutsch: Sondern was töricht ist vor der Welt, das hat Gott erwählt, daß er die
+        Weisen zu Schanden mache; und was schwach ist vor der Welt, das hat Gott
+        erwählt, daß er zu Schanden mache, was stark ist;
+      spanish: Antes eligió Dios la necedad del mundo para confundir a los sabios y
+        eligió Dios la flaqueza del mundo para confundir a los fuertes;
+      peshitta: ܐܶܠܳܐ ܓ݁ܒ݂ܳܐ ܐܰܠܳܗܳܐ ܠܣܰܟ݂ܠܰܘܗ݈ܝ ܕ݁ܥܳܠܡܳܐ ܕ݁ܢܰܒ݂ܗܶܬ݂ ܠܚܰܟ݁ܺܝܡܶܐ
+        ܘܰܓ݂ܒ݂ܳܐ ܟ݁ܪܺܝܗܰܘܗ݈ܝ ܕ݁ܥܳܠܡܳܐ ܕ݁ܢܰܒ݂ܗܶܬ݂ ܠܚܰܝܠܬ݂ܳܢܶܐ܂
+      bel_syomukha: але Бог выбраў буянае сьвету, каб пасароміць мудрых, і нямоглае
+        сьвету выбраў Бог, каб пасароміць моцнае;
+      nrt: Но Бог избрал глупых мира, чтобы постыдить мудрых, и слабых – чтобы
+        постыдить сильных.
+      romana: Ci Dumnezeu Si-a ales pe cele nebune ale lumii, ca sa rusineze pe cei
+        intelepti; Dumnezeu Si-a ales pe cele slabe ale lumii, ca sa le rusineze
+        pe cele tari;
+      francais: Mais Dieu a choisi les choses folles du monde pour confondre les
+        sages; Dieu a choisi les choses faibles du monde pour confondre les
+        fortes;
+      italian: Ma Dio ha scelto ciò che nel mondo è stolto per confondere i sapienti,
+        Dio ha scelto ciò che nel mondo è debole per confondere i forti,
+      old_georgian: არამედ სულელნი იგი სოფლისანი გამოირჩინა ღმერთმან, რაჲთა არცხჳნოს
+        ბრძენთა და უძლურნი იგი სოფლისანი გამოირჩინა ღმერთმან, რაჲთა არცხჳნოს
+        ძლიერთა.
+      portuguese: "Pelo contrário, Deus escolheu as coisas loucas do mundo para
+        confundir os sábios; e Deus escolheu as coisas\rfracas do mundo para
+        confundir as fortes;"
+      polish: "Bóg wybrał właśnie to, co głupie w oczach świata, aby zawstydzić
+        mędrców,\rwybrał to, co niemocne, aby mocnych poniżyć;"
+      new_text: Но чтобы посрамить мудрых, Бог избрал то, что в мире считается глупым;
+        чтобы посрамить сильное — то, что в мире считается слабым.
+      serbian: Него што је лудо пред свијетом оно изабра Бог да посрами мудре; и што
+        је слабо пред свијетом оно изабра Бог да посрами јаке;
+      bulgarian: ала Бог избра онова, що е безумно на тоя свят, за да посрами мъдрите;
+        Бог избра онова, що е слабо на тоя свят, за да посрами силните;
+      ukr2: але Бог вибрав немудре світу, щоб засоромити мудрих, і безсильне світу Бог
+        вибрав, щоб засоромити сильних, - 28. і незначне світу та погорджене Бог
+        вибрав, і те, чого не було, щоб знівечити те, що було, 29 щоб жадне тіло
+        не величалося перед Богом.
+      ukr3: нї, немудре сьвіта вибрав Бог, щоб осоромити премудрих, і безсильне сьвіта
+        вибрав Бог, щоб осоромити потужне,
+      czech: ale co je svetu blaznovstvim, to vyvolil Buh, aby zahanbil moudre, a co
+        je slabe, vyvolil Buh, aby zahanbil silne;
+      st_text: но Бог избрал немудрое мира, чтобы посрамить мудрых, и немощное мира
+        избрал Бог, чтобы посрамить сильное;
+  - id: 1313
+    number: 28
+    bookId: 64
+    text: и незнатное мира и уничиженное и ничего не значащее избрал Бог, чтобы
+      упразднить значащее, -
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 24073
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 14
+        short: Лк:14:21
+    translates:
+      kassian: и безродное мира и уничижённое избрал Бог, и не-сущее, чтобы упразднить
+        сущее,
+      podstr: и безродное мира и уничиженное выбрал Бог, не сущее, чтобы сущее Он
+        упразднил,
+      csya: и худородная мира и уничиженная избра Бог, и не сущая, да сущая упразднит,
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 худорHднаz мjра и3 ўничижє1ннаz и3збрA бг7ъ, и3 не с{щаz, да с{щаz
+        ўпраздни1тъ,
+      sovr_rbo: ""
+      latin: "et ignobilia mundi, et contemptibilia elegit Deus, et ea quae non sunt,
+        ut ea quae sunt destrueret:"
+      ukr: і простих світу, і погорджених, і незначних вибрав Бог, щоб значне
+        знівечити,
+      nkjv: and the base things of the world and the things which are despised God has
+        chosen, and the things which are not, to bring to nothing the things
+        that are,
+      desnitsky: и незнатных в этом мире, и униженных избрал Бог – людей ничтожных
+        вместо выдающихся.
+      tex_rec: καὶ τὰ ἀγενῆ τοῦ κόσμου καὶ τὰ ἐξουθενημένα ἐξελέξατο ὁ θεός, τὰ μὴ
+        ὄντα, ἵνα τὰ ὄντα καταργήσῃ,
+      deutsch: und das Unedle vor der Welt und das Verachtete hat Gott erwählt, und
+        das da nichts ist, daß er zunichte mache, was etwas ist,
+      spanish: y lo plebeyo, el desecho del mundo, lo que no es nada, lo eligió Dios
+        para destruir lo que es,
+      peshitta: ܘܰܓ݂ܒ݂ܳܐ ܠܰܐܝܠܶܝܢ ܕ݁ܰܒ݂ܨܺܝܪ ܛܽܘܗܡܗܽܘܢ ܒ݁ܥܳܠܡܳܐ ܘܰܠܡܰܣܠܰܝܳܐ ܘܠܰܐܝܠܶܝܢ
+        ܕ݁ܠܰܝܬ݁ ܐܶܢܽܘܢ ܕ݁ܰܢܒ݂ܰܛܶܠ ܠܰܐܝܠܶܝܢ ܕ݁ܺܐܝܬ݂ܰܝܗܽܘܢ܂
+      bel_syomukha: і бязроднае сьвету і пагарджанае і нічога ня значнае выбраў Бог,
+        каб зьнясіліць значнае;
+      nrt: Он избрал низкое и презренное, то, что в мире не имеет никакой цены, чтобы
+        сделать ничем то, что считается важным,
+      romana: Dumnezeu Si-a ales pe cele de neam jos ale lumii, pe cele nebagate in
+        seama, pe cele ce nu sunt, ca sa nimiceasca pe cele ce sunt,
+      francais: et Dieu a choisi les choses viles du monde et celles qu'on méprise,
+        celles qui ne sont point, pour réduire à néant celles qui sont,
+      italian: Dio ha scelto ciò che nel mondo è ignobile e disprezzato e ciò che è
+        nulla per ridurre a nulla le cose che sono,
+      old_georgian: და უაზნონი იგი სოფლისანი და შეურაცხნი გამოირჩინა ღმერთმან და
+        არა-არსნი იგი, რაჲთა არსნი იგი განაქარვნეს;
+      portuguese: "e Deus escolheu as coisas ignóbeis do mundo, e as desprezadas, e as
+        que não são, para reduzir a nada as que\rsão;"
+      polish: "i to, co nie jest szlachetnie urodzone według świata i wzgardzone, i
+        to, co nie\rjest, wyróżnił Bóg, by to co jest, unicestwić,"
+      new_text: И избрал безродное и ничтожное, так сказать, ничто, чтобы обратить в
+        ничто то, что для мира что-то значит.
+      serbian: И што је неплеменито пред свијетом и понижено изабра Бог, и оно што је
+        ништавно, да уништи оно што јесте,
+      bulgarian: Бог избра онова, що е от долен род на тоя свят и е унижено, и това,
+        що е нищо, за да съсипе онова, що е нещо, -
+      ukr3: і незначне сьвіту і погорджене вибрав Бог, і те чого нема, щоб те, що є, в
+        нїщо обернути,
+      czech: neurozene v ocich sveta a opovrzene Buh vyvolil, ano, vyvolil to, co
+        neni, aby to, co jest, obratil v nic –
+      st_text: и незнатное мира и уничиженное и ничего не значащее избрал Бог, чтобы
+        упразднить значащее, -
+  - id: 1314
+    number: 29
+    bookId: 64
+    text: для того, чтобы никакая плоть не хвалилась пред Богом.
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 33057
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 3
+        short: Рим:3:27
+      - verseId: 14047
+        bookId: 67
+        bookCode: k-efesanam-poslanie-ap-pavla
+        chapter: 2
+        short: Еф:2:9
+    translates:
+      kassian: дабы не похвалилась пред Богом никакая плоть.
+      podstr: чтобы не похвасталась всякая плоть перед Богом.
+      csya: яко да не похвалится всяка плоть пред Богом.
+      averincev: ""
+      ungerov: ""
+      csya_old: ћкw да не похвaлитсz всsка пло1ть пред8 бг7омъ.
+      sovr_rbo: ""
+      latin: ut non glorietur omnis caro in conspectu ejus.
+      ukr: так щоб не хвалилося перед Богом жадне тіло.
+      nkjv: that no flesh should glory in His presence.
+      desnitsky: И пусть не хвалится никакой человек перед Богом.
+      tex_rec: ὅπως μὴ καυχήσηται πᾶσα σὰρξ ἐνώπιον τοῦ θεοῦ.
+      deutsch: auf das sich vor ihm kein Fleisch rühme.
+      spanish: para que nadie pueda gloriarse ante Dios.
+      peshitta: ܕ݁ܠܳܐ ܢܶܫܬ݁ܰܒ݂ܗܰܪ ܟ݁ܽܠ ܒ݁ܣܰܪ ܩܕ݂ܳܡܰܘܗ݈ܝ܂
+      bel_syomukha: на тое, каб ніякая плоць не пахвалялася перад Богам.
+      nrt: так что теперь никто не может хвалиться перед Ним.
+      romana: Ca nici un trup sa nu se laude inaintea lui Dumnezeu.
+      francais: afin que nulle chair ne se glorifie devant Dieu.
+      italian: perché nessun uomo possa gloriarsi davanti a Dio.
+      old_georgian: რაჲთა არა იქადოს ყოველმან ჴორციელმან წინაშე ღმრთისა.
+      portuguese: para que nenhum mortal se glorie na presença de Deus.
+      polish: tak by się żadne stworzenie nie chełpiło wobec Boga.
+      new_text: Так пусть никто не хвалится перед Богом!
+      serbian: Да се не похвали ни једно тијело пред Богом.
+      bulgarian: та никоя плът да се не похвали пред Бога.
+      ukr3: щоб не величалось нїяке тїло перед Ним.
+      czech: aby se tak zadny clovek nemohl vychloubat pred Bohem.
+      st_text: для того, чтобы никакая плоть не хвалилась пред Богом.
+  - id: 1315
+    number: 30
+    bookId: 64
+    text: От Него и вы во Христе Иисусе, Который сделался для нас премудростью от
+      Бога, праведностью и освящением и искуплением,
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 15592
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 23
+        short: Иер:23:5
+      - verseId: 18233
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 17
+        short: Ин:17:19
+      - verseId: 3606
+        bookId: 57
+        bookCode: 1oe-poslanie-ap-petra
+        chapter: 1
+        short: 1 Пет:1:18
+      - verseId: 22861
+        bookId: 69
+        bookCode: k-kolossanam-poslanie-ap-pavla
+        chapter: 2
+        short: Кол:2:3
+    translates:
+      kassian: Но от Него - вы во Христе Иисусе, Который стал премудростью для нас от
+        Бога, и праведностью и освящением и искуплением,
+      podstr: Из Него же вы есть в Христе Иисусе, Который сделался мудрость нам от
+        Бога, праведность и освящение и выкуп,
+      csya: Из негоже вы есте о Христе Иисусе, иже бысть нам премудрость от Бога,
+        правда же и освящение и избавление,
+      averincev: ""
+      ungerov: ""
+      csya_old: И#з8 негHже вы2 є3сте2 њ хrтЁ ї}сэ, и4же бы1сть нaмъ премdрость t
+        бг7а, прaвда же и3 њсщ7е1ніе и3 и3збавле1ніе,
+      sovr_rbo: ""
+      latin: "Ex ipso autem vos estis in Christo Jesu, qui factus est nobis sapientia
+        a Deo, et justitia, et sanctificatio, et redemptio:"
+      ukr: А з Нього ви в Христі Ісусі, що став нам мудрістю від Бога, праведністю ж,
+        і освяченням, і відкупленням,
+      nkjv: But of Him you are in Christ Jesus, who became for us wisdom from God-and
+        righteousness and sanctification and redemption -
+      desnitsky: И вас Он соединил со Христом Иисусом, Который и стал вашей
+        божественной мудростью, праведностью, освящением и искуплением,
+      tex_rec: ἐξ αὐτοῦ δὲ ὑμεῖς ἐστε ἐν Χριστῷ ᾽Ιησοῦ, ὃς ἐγενήθη σοφία ἡμῖν ἀπὸ
+        θεοῦ, δικαιοσύνη τε καὶ ἁγιασμὸς καὶ ἀπολύτρωσις,
+      deutsch: Von ihm kommt auch ihr her in Christo Jesu, welcher uns gemacht ist von
+        Gott zur Weisheit und zur Gerechtigkeit und zur Heiligung und zur
+        Erlösung,
+      spanish: Por El sois en Cristo Jesús, que ha venido a seros, de parte de Dios,
+        sabiduría, justicia, santificación y redención,
+      peshitta: ܐܳܦ݂ ܐܰܢ݈ܬ݁ܽܘܢ ܕ݁ܶܝܢ ܡܶܢܶܗ ܐܰܢ݈ܬ݁ܽܘܢ ܒ݁ܝܶܫܽܘܥ ܡܫܺܝܚܳܐ ܗܰܘ ܕ݁ܰܗܘܳܐ ܠܰܢ
+        ܚܶܟ݂ܡܬ݂ܳܐ ܡܶܢ ܐܰܠܳܗܳܐ ܘܙܰܕ݁ܺܝܩܽܘܬ݂ܳܐ ܘܩܰܕ݁ܺܝܫܽܘܬ݂ܳܐ ܘܦ݂ܽܘܪܩܳܢܳܐ܂
+      bel_syomukha: Ад Яго і вы ў Хрысьце Ісусе, Які зрабіўся нам мудрасьцю ад Бога,
+        праведнасьцю і асьвячэньнем і адкупленьнем,
+      nrt: Благодаря Ему вы находитесь в Христе Иисусе, Который стал для нас мудростью
+        Божьей, нашей праведностью, святостью и искуплением.
+      romana: Din El, dar, sunteti voi in Hristos Iisus, Care pentru noi S-a facut
+        intelepciune de la Dumnezeu si dreptate si sfintire si rascumparare,
+      francais: Or, c'est par lui que vous êtes en Jésus Christ, lequel, de par Dieu,
+        a été fait pour nous sagesse, justice et sanctification et rédemption,
+      italian: Ed è	per lui che voi siete in Cristo Gesù, il quale per opera di Dio è
+        diventato per noi sapienza, giustizia, santificazione e redenzione,
+      old_georgian: მისგან თქუენ ხართ ქრისტე იესუს მიერ, რომელი-იგი იქმნა ჩუენდა
+        სიბრძნე ღმრთისა მიერ, სიმართლე, სიწმიდე და გამოჴსნა,
+      portuguese: "Mas vós sois dele, em Cristo Jesus, o qual para nós foi feito por
+        Deus sabedoria, e justiça, e santificação, e\rredenção;"
+      polish: "Przez Niego bowiem jesteście w Chrystusie Jezusie, który stał się dla
+        nas\rmądrością od Boga i sprawiedliwością, i uświęceniem, i
+        odkupieniem,"
+      new_text: Ведь это Бог соединил вас с Христом Иисусом, которого Он сделал для
+        нас мудростью! Благодаря Ему мы оправданы Богом, посвящены Богу,
+        выкуплены на свободу.
+      serbian: Из Њега сте и ви у Христу Исусу, који нам постаде премудрост од Бога и
+        праведност и  освећење и избављење.
+      bulgarian: От Него сте и вие в Христа Иисуса, Който стана за нас премъдрост от
+        Бога, и правда, и освещение, и изкупление,
+      ukr2: Тож через нього ви у Христі Ісусі, який став нам мудрістю від Бога і
+        оправданням, і освяченням, і відкупленням,
+      ukr3: З Него ж і ви в Христї Ісусї, що став ся нам премудростю від Бога, і
+        праведностю, і освяченнєм, і викупленнєм,
+      czech: Vy vsak jste z Bozi moci v Kristu Jezisi; on se nam stal moudrosti od
+        Boha, spravedlnosti, posvecenim a vykoupenim,
+      st_text: От Него и вы во Христе Иисусе, Который сделался для нас премудростью от
+        Бога, праведностью и освящением и искуплением,
+  - id: 1316
+    number: 31
+    bookId: 64
+    text: "чтобы <i>было</i>, как написано: хвалящийся хвались Господом."
+    chapter: 1
+    chapterId: 1267
+    parallels:
+      - verseId: 16609
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 9
+        short: Иер:9:23
+      - verseId: 16610
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 9
+        short: Иер:9:24
+      - verseId: 5044
+        bookId: 65
+        bookCode: 2oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 10
+        short: 2 Кор:10:17
+    translates:
+      kassian: "чтобы, как написано: хвалящийся да хвалится Господом."
+      podstr: чтобы как написано, Хвастающийся в Господе пусть хвастается.
+      csya: "да, якоже пишется: хваляйся, о Господе да хвалится."
+      averincev: ""
+      ungerov: ""
+      csya_old: "да, ћкоже пи1шетсz: хвалsйсz, њ гDэ да хвaлитсz."
+      sovr_rbo: ""
+      latin: "ut quemadmodum scriptum est: Qui gloriatur, in Domino glorietur."
+      ukr: "щоб було, як написано: Хто хвалиться, нехай хвалиться Господом!"
+      nkjv: that, as it is written, "He who glories, let him glory in the Lord."
+      desnitsky: "как и написано: «кто хвалится, пусть хвалится в Господе»."
+      tex_rec: ἵνα καθὼς γέγραπται, ῾Ο καυχώμενος ἐν κυρίῳ καυχάσθω.
+      deutsch: auf daß (wie geschrieben steht), "wer sich rühmt, der rühme sich des
+        Herrn!"
+      spanish: para que, según está escrito, «el que se gloríe, se gloríe en el Señor».
+      peshitta: ܐܰܝܟ݂ ܕ݁ܰܟ݂ܬ݂ܺܝܒ݂ ܕ݁ܡܰܢ ܕ݁ܡܶܫܬ݁ܰܒ݂ܗܰܪ ܒ݁ܡܳܪܝܳܐ ܢܶܫܬ݁ܰܒ݂ܗܰܪ܂
+      bel_syomukha: 'каб было, як напісана: "хто хваліцца, хваліся Госпадам".'
+      nrt: "Поэтому, как написано: «Тот, кто хвалится, пусть хвалится Господом»."
+      romana: 'Pentru ca, dupa cum este scris: "Cel ce se lauda in Domnul sa se
+        laude".'
+      francais: afin, comme il est écrit, Que celui qui se glorifie se glorifie dans
+        le Seigneur.
+      italian: "perché, come sta scritto: Chi si vanta si vanti nel Signore."
+      old_georgian: "რაჲთა, ვითარცა-იგი წერილ არს: რომელი-იგი იქადოდის, უფლისა მიერ
+        იქადოდის."
+      portuguese: "para que, como está escrito: Aquele que se gloria, glorie-se no Senhor."
+      polish: aby, jak to jest napisane, w Panu się chlubił ten, kto się chlubi.
+      new_text: "Следовательно, как говорится в Писании: «Кто хочет похвалиться, пусть
+        похвалится Господом!»"
+      serbian: "Да буде као што је написано: Ко се хвали, нека се Господом хвали."
+      bulgarian: та, както е писано, "който се хвали, с Господа да се хвали".
+      ukr2: "щоб було, як написано: «Хто хвалиться, нехай у Господі хвалиться.»"
+      ukr3: "щоб, яко ж писано: Хто хвалить ся, в Господї хвалив ся."
+      czech: "jak je psano: ‚Kdo se chlubi, at se chlubi v Panu.‘"
+      st_text: "чтобы <i>было</i>, как написано: хвалящийся хвались Господом."

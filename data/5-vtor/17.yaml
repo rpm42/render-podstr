@@ -1,0 +1,2079 @@
+id: 170
+number: 17
+bookId: 5
+verseCount: 20
+title: Глава 17
+verses:
+  - id: 36162
+    number: 1
+    bookId: 5
+    text: Не приноси в жертву Господу, Богу твоему, вола, или овцы, на которой будет
+      порок, <i>или</i> что-нибудь худое, ибо это мерзость для Господа, Бога
+      твоего.
+    chapter: 17
+    chapterId: 170
+    parallels:
+      - verseId: 21312
+        bookId: 2
+        bookCode: ishod
+        chapter: 12
+        short: Исх:12:5
+      - verseId: 23368
+        bookId: 3
+        bookCode: levit
+        chapter: 22
+        short: Лев:22:20
+      - verseId: 36137
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 15
+        short: Втор:15:21
+      - verseId: 36397
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 25
+        short: Втор:25:16
+      - verseId: 24941
+        bookId: 46
+        bookCode: kniga-proroka-malahii
+        chapter: 1
+        short: Мал:1:8
+      - verseId: 24946
+        bookId: 46
+        bookCode: kniga-proroka-malahii
+        chapter: 1
+        short: Мал:1:13
+    translates:
+      kassian: ""
+      podstr: Не заколешь Господу Богу твоему телёнка или овцу, на которой есть на ней
+        порок, всякое слово злое, потому что мерзость Господу Богу твоему есть.
+      csya: "Да не пожреши Господеви Богу твоему тельца или овчате, на немже есть
+        порок, всяк глагол зол: яко мерзость Господеви Богу твоему есть."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Да не пожре1ши гDеви бг7у твоемY тельцA и3ли2 nвчaте, на не1мже є4сть
+        поро1къ, всsкъ глаго1лъ ѕо1лъ: ћкw ме1рзость гDеви бг7у твоемY є4сть."
+      sovr_rbo: Не приноси в жертву Господу, твоему Богу, крупный или мелкий скот с
+        изъяном, с каким бы то ни было недостатком, ибо для Господа, твоего
+        Бога, это мерзость.
+      latin: "Non immolabis Domino Deo tuo ovem, et bovem, in quo est macula, aut
+        quippiam vitii: quia abominatio est Domino Deo tuo."
+      ukr: Не будеш приносити в жертву Господеві, Богові своєму вола або одне з
+        дрібної худоби, що буде на ньому вада, усяка зла річ, бо це гидота для
+        Господа, Бога твого.
+      nkjv: '"You shall not sacrifice to the Lord your God a bull or sheep which has
+        any blemish or defect, for that is an abomination to the Lord your God.'
+      desnitsky: ""
+      mt: ‫   לֹא־תִזְבַּח לַיהוָה אֱלֹהֶיךָ שׁוֹר וָשֶׂה אֲשֶׁר יִהְיֶה בוֹ מוּם כֹּל
+        דָּבָר רָע כִּי תוֹעֲבַת יְהוָה אֱלֹהֶיךָ הוּא׃ ס ‬
+      romana: Sa nu aduci jertfa Domnului Dumnezeului tau bou sau oaie cu meteahna,
+        sau cu betesug, caci aceasta este uraciune inaintea Domnului Dumnezeului
+        tau.
+      francais: Tu n'offriras en sacrifice à l'Éternel, ton Dieu, ni boeuf, ni agneau
+        qui ait quelque défaut ou difformité; car ce serait en abomination à
+        l'Éternel, ton Dieu.
+      italian: Non immolerai al Signore tuo Dio bue o pecora che ab — bia qualche
+        difetto o qualche deformità, perché sarebbe abominio per il Signore tuo
+        Dio.
+      old_georgian: არა შესწირო შენ უფლისა ღმრთისა შენისა ზუარაკი, ანუ თუ ცხოვარი,
+        რომლისა თანა იყოს ბიწი, ანუ სიხაშმე, რამეთუ საძაგელ არს იგი უფლისა
+        ღმრთისა თქუენისა.
+      portuguese: "Ao Senhor teu Deus não sacrificarás boi ou ovelha em que haja
+        defeito ou qualquer deformidade; pois isso é\rabominação ao senhor teu
+        Deus."
+      polish: "Nie złożysz na ofiarę dla Pana, Boga swego, cielca lub mniejszego
+        bydła, gdyby\rmiały skazę lub jakikolwiek brak, gdyż brzydzi się tym
+        Pan, Bóg twój."
+      turkish: «Tanrınız RAB'be herhangi bir özürü, kusuru olan sığır ya da koyun
+        kurban etmeyeceksiniz. Tanrınız RAB bundan tiksinir.
+      nrt: Не приноси в жертву Господу, своему Богу, вола или овцу с каким бы то ни
+        было изъяном или недостатком, потому что это будет Ему отвратительно.
+      Macarius: "Не приноси в жертву Иегове, Богу твоему, вола, или овцы, на которой
+        будет порок, или что-нибудь худое: поелику это мерзость для Иеговы, Бога
+        твоего."
+      serbian: Не приноси Господу Богу својему ни вола ни јагњета ни јарета на ком има
+        мана или како год зло; јер је гадно пред Господом Богом твојим.
+      bulgarian: Не принасяй в жертва на Господа, твоя Бог, вол, или овца, която има
+        повреда, или някакъв недостатък, понеже това е гнусота пред Господа,
+        твоя Бог.
+      deutsch: Du sollst dem Herrn, deinem Gott, keinen Ochsen oder Schaf opfern, das
+        einen Fehl oder irgend etwas Böses an sich hat; denn es ist dem Herrn,
+        deinem Gott, ein Greuel.
+      ukr2: «Не приноси в жертву Господеві, Богу твоєму, нічого з великорослого й
+        дрібного скоту, що має яку-небудь ваду, будь-який недолік; бо це гидота
+        перед Господом, Богом твоїм.
+      ukr3: Не приноси на жертву Господеві, Богові твому, бичка й барана, що має яку
+        хибу, яку огидь; бо се гидота Господеві, Богу твому.
+      bel_syomukha: Ня прынось у ахвяру Госпаду, Богу твайму, вала, альбо авечкі, на
+        якой будзе загана, альбо што-небудзь благое, бо гэта агіда Госпаду, Богу
+        твайму.
+      lev-khv: Не приноси в жертву Господу, Богу твоему, вола, или овцы, на которой
+        будет порок, <i>или</i> что нибудь худое; потому что это мерзость для
+        Господа, Бога твоего.
+      czech: Nebudes obetovat Hospodinu, svemu Bohu, dobytce ze skotu nebo bravu, na
+        nemz je vada, cokoli spatneho, protoze to ma Hospodin, tvuj Buh, za
+        ohavnost.
+      spanish: No sacrificarás a Yavé, tu Dios, buey ni oveja que tenga defecto,
+        porque es abominación ante Yavé, tu Dios.
+      greek-lxx: οὐ θύσεις Κυρίῳ τῷ Θεῷ σου μόσχον ἢ πρόβατον ἐν ᾧ ἐστιν ἐν αὐτῷ μῶμος
+        πᾶν ῥῆμα πονηρόν ὅτι βδέλυγμα Κυρίῳ τῷ Θεῷ σού ἐστιν
+      st_text: Не приноси в жертву Господу, Богу твоему, вола, или овцы, на которой
+        будет порок, <i>или</i> что-нибудь худое, ибо это мерзость для Господа,
+        Бога твоего.
+  - id: 36163
+    number: 2
+    bookId: 5
+    text: Если найдется среди тебя в каком-либо из жилищ твоих, которые Господь, Бог
+      твой, дает тебе, мужчина или женщина, кто сделает зло пред очами Господа,
+      Бога твоего, преступив завет Его,
+    chapter: 17
+    chapterId: 170
+    parallels:
+      - verseId: 36075
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 13
+        short: Втор:13:6
+      - verseId: 36076
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 13
+        short: Втор:13:7
+    translates:
+      kassian: ""
+      podstr: Если же будет найден среди тебя в одном [из] городов твоих, [из] которых
+        Господь Бог твой даёт тебе, мужчина или женщина, который сделает злое
+        перед Господом Богом твоим миновать Завет Его,
+      csya: "Аще же обрящется у тебе во единем от градов твоих, яже Господь Бог твои
+        дает тебе, муж или жена, иже сотворит лукавое пред Господем Богом твоим,
+        преступити завет его:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Ѓще же њбрsщетсz ў тебє2 во є3ди1нэмъ t градHвъ твои1хъ, ±же гDь бг7ъ
+        тво1й дае1тъ тебЁ, мyжъ и3ли2 женA, и4же сотвори1тъ лукaвое пред8 гDемъ
+        бг7омъ твои1мъ, преступи1ти завётъ є3гw2:"
+      sovr_rbo: Если у вас, в одном из городов, отданных вам Господом, вашим Богом,
+        мужчина или женщина совершит дело, ненавистное Господу, вашему Богу,
+        нарушит договор с Ним,
+      latin: Cum reperti fuerint apud te intra unam portarum tuarum, quas Dominus Deus
+        tuus dabit tibi, vir aut mulier qui faciant malum in conspectu Domini
+        Dei tui, et transgrediantur pactum illius,
+      ukr: Коли буде знайдений серед тебе в одному з міст твоїх, які Господь, Бог
+        твій, дає тобі, чоловік або жінка, що зробить зле в очах Господа, Бога
+        твого, щоб недотримати заповіту,
+      nkjv: '"If there is found among you, within any of your gates which the Lord
+        your God gives you, a man or a woman who has been wicked in the sight of
+        the Lord your God, in transgressing His covenant,'
+      desnitsky: ""
+      mt: ‫   כִּי־יִמָּצֵא בְקִרְבְּךָ בְּאַחַד שְׁעָרֶיךָ אֲשֶׁר־יְהוָה אֱלֹהֶיךָ
+        נֹתֵן לָךְ אִישׁ אוֹ־אִשָּׁה אֲשֶׁר יַעֲשֶׂה אֶת־הָרַע בְּעֵינֵי
+        יְהוָה־אֱלֹהֶיךָ לַעֲבֹר בְּרִיתוֹ׃ ‬
+      romana: De se va afla la tine, in vreuna din cetatile tale, pe care ti le va da
+        Domnul Dumnezeul tau, barbat sau femeie, care sa fi facut rau inaintea
+        ochilor Domnului Dumnezeului tau, calcand legamantul Lui,
+      francais: Il se trouvera peut-être au milieu de toi dans l'une des villes que
+        l'Éternel, ton Dieu, te donne, un homme ou une femme faisant ce qui est
+        mal aux yeux de l'Éternel, ton Dieu, et transgressant son alliance;
+      italian: Qualora si trovi in mezzo a te, in una delle città che il Signore tuo
+        Dio sta per darti, un uomo o una donna che faccia ciò che è male agli
+        occhi del Signore tuo Dio, trasgredendo la sua alleanza,
+      old_georgian: იპოვოს თუ ვინმე შენ შორის, ანუ ქალაქთა შენთა, რომელ-იგი უფალმან
+        ღმერთმან შენმან მიგცეს შენ მამაკაცი, გინა თუ დედაკაცი, რომელმან ქმნეს
+        ბოროტი წინაშე უფლისა ღმრთისა შენისა და გარდაჰჴდეს მცნებათა მისთა,
+      portuguese: "Se no meio de ti, em alguma das tuas cidades que te dá o Senhor teu
+        Deus, for encontrado algum homem ou\rmulher que tenha feito o que é mau
+        aos olhos do Senhor teu Deus, transgredindo o seu pacto,"
+      polish: "Jeśli się znajdzie u ciebie w jednym z miast twoich, danych ci przez
+        Pana,\rBoga twego, mężczyzna lub kobieta, ktoś, kto czynić będzie to, co
+        jest złe w\roczach Pana, Boga twego, przestępując Jego przymierze,"
+      turkish: «Tanrınız RAB'bin size vereceği kentlerin birinde aranızdan O'nun
+        antlaşmasını çiğneyip gözünde kötü olanı yapan bir erkek ya da kadın
+        çıkar
+      nrt: Если найдутся у тебя в одном из городов, которые дает тебе Господь, мужчина
+        или женщина, творящие зло в глазах Господа, твоего Бога, и нарушающие
+        Его завет;
+      Macarius: Если найдется среди тебя в каком-либо из жилищ твоих, которые Иегова,
+        Бог твой, дает тебе, мужчина или женщина, который сделает зло пред очами
+        Иеговы, Бога твоего, преступит завет Его;
+      serbian: Ако се нађе код тебе у којем од мјеста твојих, која ти да Господ Бог
+        твој, човјек или жена да учини зло пред Господом Богом твојим
+        преступајући завјет његов,
+      bulgarian: Ако се намери среди тебе в някое от твоите жилища, що Господ, Бог
+        твой, ти дава, мъж или жена, които да сторят зло пред Господа, твоя Бог,
+        като престъпят завета Му,
+      deutsch: Wenn unter dir in der Tore einem, die dir der Herr, geben wird, jemand
+        gefunden wird, Mann oder Weib, der da übel tut vor den Augen des Herrn,
+        deines Gottes, daß er seinen Bund übertritt
+      ukr2: Якщо посеред вас у якімсь із твоїх міст, що їх Господь, Бог твій, хоче
+        тобі дати, знайдеться чоловік чи жінка, що чинитиме якесь зло перед
+        очима Господа, Бога твого, переступаючи завіт його,
+      ukr3: Коли між сусїдами твоїми, в якій оселї твоїй, що дає тобі Господь, Бог
+        твій, та знайдеться чоловік чи жінка, що чинити муть погань перед очима
+        Господа, Бога твого, переступаючи завіт його,
+      bel_syomukha: Калі знойдзецца сярод цябе ў якім-небудзь селішчы тваім, што
+        Гасподзь, Бог твой, дае табе, мужчына альбо жанчына, хто зробіць ліхое
+        прад вачыма Госпада, Бога твайго, пераступіўшы запавет Бога,
+      lev-khv: Если найдется среди тебя в каком либо из жилищ твоих, которыя Господь,
+        Бог твой, даст тебе, мужчина или женщина, кто сделает зло пред очами
+        Господа, Бога твоего, преступив завет Его;
+      czech: Vyskytne-li se u tebe v nektere z tvych bran, ktere ti Hospodin, tvuj
+        Buh, dava, muz nebo zena, kteri by se dopustili toho, co je zle v ocich
+        Hospodina, tveho Boha, prestoupili by jeho smlouvu
+      spanish: Si en medio de ti, en alguna de las ciudades que Yavé, tu Dios, te da,
+        hubiere hombre o mujer que hiciere lo que es malo a los ojos de Yavé, tu
+        Dios, traspasando su alianza,
+      greek-lxx: ἐὰν δὲ εὑρεθῇ ἐν σοὶ ἐν μιᾷ τῶν πόλεών σου ὧν Κύριος ὁ Θεός σου
+        δίδωσίν σοι ἀνὴρ ἢ γυνή ὅστις ποιήσει τὸ πονηρὸν ἐναντίον Κυρίου τοῦ
+        Θεοῦ σου παρελθεῖν τὴν διαθήκην αὐτοῦ
+      st_text: Если найдется среди тебя в каком-либо из жилищ твоих, которые Господь,
+        Бог твой, дает тебе, мужчина или женщина, кто сделает зло пред очами
+        Господа, Бога твоего, преступив завет Его,
+  - id: 36164
+    number: 3
+    bookId: 5
+    text: и пойдет и станет служить иным богам, и поклонится им, или солнцу, или
+      луне, или всему воинству небесному, чего я не повелел,
+    chapter: 17
+    chapterId: 170
+    parallels:
+      - verseId: 36733
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 4
+        short: Втор:4:19
+      - verseId: 16566
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 8
+        short: Иер:8:2
+      - verseId: 17872
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 8
+        short: Иез:8:16
+    translates:
+      kassian: ""
+      podstr: и пошедшие послужат богам другим и поклонятся им, солнцу или луне или
+        всякому из красоты неба, которое не приказал,
+      csya: "и шедше послужат богом иным и поклонятся им, солнцу, или луне, или
+        всякому яже от красоты небесныя, ихже не повелех тебе:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 ше1дше послyжатъ богHмъ и3ны6мъ и3 покло1нzтсz и5мъ, со1лнцу,
+        и3ли2 лунЁ, и3ли2 всsкому ±же t красоты2 небе1сныz, и4хже не повелёхъ
+        тебЁ:"
+      sovr_rbo: пойдет и станет служить и поклоняться другим богам, или солнцу, или
+        луне, или кому-то из воинства небесного, чего Я делать не велел,
+      latin: "ut vadant et servant diis alienis, et adorent eos, solem et lunam, et
+        omnem militiam caeli, quae non praecepi:"
+      ukr: що пішов би й служив би іншим богам, і вклонявся б їм та сонцеві або
+        місяцеві, або всім зорям небесним, чого я не наказав,
+      nkjv: who has gone and served other gods and worshiped them, either the sun or
+        moon or any of the host of heaven, which I have not commanded,
+      desnitsky: ""
+      mt: ‫   וַיֵּלֶךְ וַיַּעֲבֹד אֱלֹהִים אֲחֵרִים וַיִּשְׁתַּחוּ לָהֶם וְלַשֶּׁמֶשׁ
+        אוֹ לַיָּרֵחַ אוֹ לְכָל־צְבָא הַשָּׁמַיִם אֲשֶׁר לֹא־צִוִּיתִי׃ ‬
+      romana: Si se va duce si se va apuca sa slujeasca altor dumnezei si se va
+        inchina acelora, sau soarelui, sau lunii, sau la toata ostirea cereasca,
+        ceea ce eu n-am poruncit;
+      francais: allant après d'autres dieux pour les servir et se prosterner devant
+        eux, après le soleil, la lune, ou toute l'armée des cieux. Ce n'est
+        point là ce que j'ai commandé.
+      italian: e che vada e serva altri dèi e si prostri davanti a loro, davanti al
+        sole o alla luna o a tutto l'esercito del cielo, contro il mio comando,
+      old_georgian: და მივიდეს და ჰმსახუროს მან კერპთა და თაყუანი-სცეს მზესა, გინა
+        მთოვარესა, გინა თუ ყოველსავე სამკაულსა ცისასა, რომლისაჲ მე არა უბრძანე
+        მათ.
+      portuguese: "que tenha ido e servido a outros deuses, adorando-os, a eles, ou ao
+        sol, ou à lua, ou a qualquer astro do exército\rdo céu (o que não
+        ordenei),"
+      polish: "przechodząc do bogów obcych, by służyć im i oddawać pokłon, jak
+        słońcu,\rksiężycowi lub całemu wojsku niebieskiemu, czego nie nakazałem
+        -"
+      turkish: ve buyruklarıma aykırı olarak gidip başka ilahlara tapar, onların,
+        güneşin, ayın ya da gök cisimlerinin önünde eğilirse
+      nrt: если кто-нибудь, вопреки моему повелению, будет служить другим богам,
+        поклоняясь им, или солнцу, или луне, или небесным звездам,
+      Macarius: И пойдет и будет служить другим богам, и поклонится им, или солнцу,
+        или луне, или всему воинству небесному, чего Я не повелел;
+      serbian: И отиде те служи другим боговима и клања им се, или сунцу или мјесецу
+        или чему год из војске небеске, што нијесам заповједио,
+      bulgarian: па тръгнат и почнат да служат на други богове, и се поклонят тям, или
+        на слънцето, или на месечината, или на всичкото небесно войнство,
+        каквото аз не съм заповядал,
+      deutsch: und hingeht und dient andern Göttern und betet sie an, es sei Sonne
+        oder Mond oder allerlei Heer des Himmels, was ich nicht geboten habe,
+      ukr2: і стане служити іншим богам та падати ниць перед ними, чи перед сонцем, чи
+        перед місяцем, чи перед усією окрасою небес, чого я не заповідав,
+      ukr3: "І стануть служити иншим богам і припадати муть ниць перед ними: перед
+        соньцем, місяцем або перед войнством небесним**, чого я не заповідав,"
+      bel_syomukha: і пойдзе і пачне служыць іншым багам, альбо паклоніцца ім, альбо
+        сонцу, альбо месяцу, альбо ўсяму войску нябеснаму, чаго я не загадаў,
+      lev-khv: И пойдет, и станет служить богам иным, и поклонится им, или солнцу, или
+        луне или всему воинству небесному, чего Я не повелел;
+      czech: a odesli slouzit jinym bohum a klanet se jim, slunci nebo mesici anebo
+        celemu nebeskemu zastupu, coz jsem neprikazal,
+      spanish: yéndose tras otros dioses para servirles y postrarse ante ellos, ante
+        el sol o la luna, o cualquier astro del ejército de los cielos, cosa que
+        yo no he mandado,
+      greek-lxx: καὶ ἐλθόντες λατρεύσωσιν θεοῖς ἑτέροις καὶ προσκυνήσωσιν αὐτοῖς τῷ
+        ἡλίῳ ἢ τῇ σελήνῃ ἢ παντὶ τῶν ἐκ τοῦ κόσμου τοῦ οὐρανοῦ ἃ οὐ προσέταξεν
+      st_text: и пойдет и станет служить иным богам, и поклонится им, или солнцу, или
+        луне, или всему воинству небесному, чего я не повелел,
+  - id: 36165
+    number: 4
+    bookId: 5
+    text: и тебе возвещено будет, и ты услышишь, то ты хорошо разыщи; и если это
+      точная правда, если сделана мерзость сия в Израиле,
+    chapter: 17
+    chapterId: 170
+    parallels:
+      - verseId: 23636
+        bookId: 3
+        bookCode: levit
+        chapter: 5
+        short: Лев:5:1
+    translates:
+      kassian: ""
+      podstr: и скажут тебе, и исследуешь очень, и вот истинно сделалось слово,
+        сделалась мерзость эта среди Израиля,
+      csya: "и возвестится тебе, и взыщеши зело, и се, истинно бысть слово, мерзость
+        сотворися сия во израили:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 возвэсти1тсz тебЁ, и3 взы1щеши ѕэлw2, и3 се2, и4стинно бы1сть
+        сло1во, ме1рзость сотвори1сz сіS во ї}ли:"
+      sovr_rbo: тогда, услышав и узнав о таком, расследуй это дело получше. Если все
+        окажется правдой и в Израиле действительно была сотворена такая
+        мерзость,
+      latin: "et hoc tibi fuerit nuntiatum, audiensque inquisieris diligenter et verum
+        esse repereris, et abominatio facta est in Israel:"
+      ukr: і буде розказано тобі, і ти почуєш, і будеш добре допитуватися, а ото воно
+        правда, дійсна та річ, була зроблена ота гидота серед Ізраїля,
+      nkjv: and it is told you, and you hear of it, then you shall inquire diligently.
+        And if it is indeed true and certain that such an abomination has been
+        committed in Israel,
+      desnitsky: ""
+      mt: ‫   וְהֻגַּד־לְךָ וְשָׁמָעְתָּ וְדָרַשְׁתָּ הֵיטֵב וְהִנֵּה אֱמֶת נָכוֹן
+        הַדָּבָר נֶעֶשְׂתָה הַתּוֹעֵבָה הַזֹּאת בְּיִשְׂרָאֵל׃ ‬
+      romana: Si ti se va vesti si vei auzi aceasta, sa cercetezi bine si de se va
+        adeveri aceasta si se va fi facut uraciunea aceasta in Israel,
+      francais: Dès que tu en auras connaissance, dès que tu l'auras appris, tu feras
+        avec soin des recherches. La chose est-elle vraie, le fait est-il
+        établi, cette abomination a-t-elle été commise en Israël,
+      italian: quando ciò ti sia riferito o tu ne abbia sentito parlare, informatene
+        diligentemente; se la cosa è vera, se il fatto sussiste, se un tale
+        abominio è stato commesso in Israele,
+      old_georgian: და აგრძნეთ, გამოიძიეთ, გამოიკითხეთ ფრიად და, თუ ჭეშმარიტად
+        ყოფილიყოს სიტყუაჲ ეგე ბილწებისაჲ შორის ისრაჱლსა,
+      portuguese: "e isso te for denunciado, e o ouvires, então o inquirirás bem; e
+        eis que, sendo realmente verdade que se fez tal\rabominação em Israel,"
+      polish: "skoro ci to zostanie doniesione, wysłuchasz i zbadasz dokładnie sprawę.
+        Jeśli\rokaże się prawdą, że taką ohydę popełniono w Izraelu,"
+      turkish: ve bu olay size bildirilirse, duyduklarınızı iyice araştırın.
+        Duyduklarınız doğruysa ve bu iğrenç olayın İsrail'de yapıldığı
+        kanıtlanırsa,
+      nrt: и ты узнаешь об этом, то тщательно расследуй это дело. Если это окажется
+        правдой и будет доказано, что в Израиле было сделано такое
+        отвратительное дело,
+      Macarius: "И тебе возвещено будет, и ты услышишь: то ты хорошо разыщи, и если
+        это точная правда, если сделана мерзость сия у Израиля:"
+      serbian: И теби се то јави и ти чујеш, онда распитај добро; па ако буде истина и
+        доиста се учинила она гадна ствар у Израиљу,
+      bulgarian: и ти бъде обадено, и ти чуеш, - то разузнай добре; и ако това е чиста
+        истина, ако е сторена тая гнусота в Израиля, -
+      deutsch: und es wird dir angesagt, und du hörst es, so sollst du wohl darnach
+        fragen. Und wenn du findest, das es gewiß wahr ist, daß solcher Greuel
+        in Israel geschehen ist,
+      ukr2: і донесуть тобі про це, та й ти про це почуєш, - то мусиш це добре
+        розслідити; а коли виявиться, що це річ незаперечно певна, що таку
+        гидоту зроблено в Ізраїлі,
+      ukr3: "А тобі про се скажуть і ти се почуєш, то мусиш добре про се розвідати: і
+        як виявиться, що се правда, і так воно є, і таку гидоту зроблено в
+        Ізраїлї,"
+      bel_syomukha: "і табе абвешчана будзе, і ты пачуеш, дык ты добра пашукай: і калі
+        гэта чыстая праўда, калі зроблена мярзота гэтая ў Ізраіле,"
+      lev-khv: "И тебе возвещено будет, и ты услышишь, и хорошо розыскал ты, и вот,
+        это точная правда, сделана мерзость эта во Израиле:"
+      czech: a bude-li ti to oznameno nebo o tom uslysis, dobre si to prosetris.
+        Bude-li to jista pravda, ze byla spachana v Izraeli takova ohavnost,
+      spanish: cuando la cosa llegue a ti, harás una escrupulosa investigación; si el
+        rumor es verdadero y el hecho cierto, si se cometió tal abominación en
+        Israel,
+      greek-lxx: καὶ ἀναγγελῇ σοι καὶ ἐκζητήσεις σφόδρα καὶ ἰδοὺ ἀληθῶς γέγονεν τὸ
+        ῥῆμα γεγένηται τὸ βδέλυγμα τοῦτο ἐν Ισραηλ
+      st_text: и тебе возвещено будет, и ты услышишь, то ты хорошо разыщи; и если это
+        точная правда, если сделана мерзость сия в Израиле,
+  - id: 36166
+    number: 5
+    bookId: 5
+    text: то выведи мужчину того, или женщину ту, которые сделали зло сие, к воротам
+      твоим и побей их камнями до смерти.
+    chapter: 17
+    chapterId: 170
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и выведешь мужчину того или женщину ту и побьёшь их камнями, и погибнут.
+      csya: да изведеши человека того, или жену ту, иже сотвориша дело злое сие, пред
+        двери, и побиете их камением, и да умрут.
+      averincev: ""
+      ungerov: ""
+      csya_old: да и3зведе1ши человёка того2, и3ли2 женY тY, и5же сотвори1ша дёло
+        ѕло1е сіе2, пред8 двє1ри, и3 побіе1те и5хъ кaменіемъ, и3 да ќмрутъ.
+      sovr_rbo: то этого человека — мужчину или женщину, того, кто совершил это зло, —
+        надо вывести к воротам и забросать камнями насмерть!
+      latin: educes virum ac mulierem, qui rem sceleratissimam perpetrarunt, ad portas
+        civitatis tuae, et lapidibus obruentur.
+      ukr: то випровадиш того чоловіка або ту жінку, що зробили ту злу річ, до брам
+        своїх, того чоловіка або ту жінку, і вкаменуєш їх камінням, і вони
+        погинуть.
+      nkjv: then you shall bring out to your gates that man or woman who has committed
+        that wicked thing, and shall stone to death that man or woman with
+        stones.
+      desnitsky: ""
+      mt: ‫   וְהוֹצֵאתָ אֶת־הָאִישׁ הַהוּא אוֹ אֶת־הָאִשָּׁה הַהִוא אֲשֶׁר עָשׂוּ
+        אֶת־הַדָּבָר הָרָע הַזֶּה אֶל־שְׁעָרֶיךָ אֶת־הָאִישׁ אוֹ אֶת־הָאִשָּׁה
+        וּסְקַלְתָּם בָּאֲבָנִים וָמֵתוּ׃ ‬
+      romana: Sa scoti pe barbatul acela sau pe femeia aceea care au facut raul acesta
+        la portile tale si sa-i ucizi cu pietre.
+      francais: alors tu feras venir à tes portes l'homme ou la femme qui sera
+        coupable de cette mauvaise action, et tu lapideras ou puniras de mort
+        cet homme ou cette femme.
+      italian: farai condurre alle porte della tua città quell'uomo o quella donna che
+        avrà commesso quell'azione cattiva e lapiderai quell'uomo o quella
+        donna, così che muoia.
+      old_georgian: განიყვანო კაცი იგი გარეშე ქალაქსა, გინა თუ მამაკაცი იყოს, გინა თუ
+        დედაკაცი იყოს, ქვაჲ დაჰკრიბონ მას და მოკუდეს. და, რომელი-იგი
+        მოკუდებოდის,
+      portuguese: "então levarás às tuas portas o homem, ou a mulher, que tiver
+        cometido esta maldade, e apedrejarás o tal homem,\rou mulher, até que
+        morra."
+      polish: "zaprowadzisz tego mężczyznę lub kobietę - którzy tej złej rzeczy się
+        dopuścili\r- do bramy miasta i będziesz tego mężczyznę lub tę kobietę
+        kamienował, aż\rśmierć nastąpi."
+      turkish: bu kötülüğü yapan erkeği ya da kadını kentinizin kapısına çıkarın ve
+        taşa tutarak öldürün.
+      nrt: то приведи мужчину или женщину, которые сделали это, к городским воротам и
+        забей их камнями до смерти.
+      Macarius: То выведи мужчину того, или женщину ту, которые сделали зло сие, к
+        воротам твоим, и побей их камнями до смерти.
+      serbian: Изведи онога човјека или ону жену, који учинише оно зло, на врата
+        своја, човјека онога или жену, и заспи их камењем да погину.
+      bulgarian: изведи оня мъж, или оная жена, които са сторили това зло, при вратата
+        си и ги пребий с камъни, да умрат.
+      deutsch: so sollst du den Mann oder das Weib ausführen, die solches Übel getan
+        haben, zu deinem Tor und sollst sie zu Tode steinigen.
+      ukr2: то мусиш вивести того чоловіка чи ту жінку, що сподіяли таку погань, за
+        ворота й побити їх камінням на смерть.
+      ukr3: Тодї мусиш вивести того чоловіка чи то жінку, що вкоїли погане дїло, за
+        твої ворота, та й побєш їх каміннєм, так щоб погибли.
+      bel_syomukha: дык выведзі мужчыну таго, альбо жанчыну тую, якія ўчынілі ліха
+        гэта, да варотаў тваіх і пабі іх камянямі да сьмерці.
+      lev-khv: То выведи того мужчину или ту женщину, которые сделали это зло, к
+        воротам твоим, мужчину или женщину, и побей их камнями, так чтобы они
+        умерли.
+      czech: vyvedes toho muze nebo tu zenu, kteri se dopustili te zle veci, ke svym
+        branam a toho muze nebo tu zenu budete kamenovat, dokud nezemrou.
+      spanish: llevarás a tus puertas al hombre o mujer que tal maldad ha cometido y
+        los lapidarás hasta que mueran.
+      greek-lxx: καὶ ἐξάξεις τὸν ἄνθρωπον ἐκεῖνον ἢ τὴν γυναῖκα ἐκείνην καὶ
+        λιθοβολήσετε αὐτοὺς ἐν λίθοις καὶ τελευτήσουσιν
+      st_text: то выведи мужчину того, или женщину ту, которые сделали зло сие, к
+        воротам твоим и побей их камнями до смерти.
+  - id: 36167
+    number: 6
+    bookId: 5
+    text: "По словам двух свидетелей, или трех свидетелей, должен умереть осуждаемый
+      на смерть: не должно предавать смерти по словам одного свидетеля;"
+    chapter: 17
+    chapterId: 170
+    parallels:
+      - verseId: 36218
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 19
+        short: Втор:19:15
+      - verseId: 25339
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 18
+        short: Мф:18:16
+      - verseId: 18681
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 8
+        short: Ин:8:17
+      - verseId: 5099
+        bookId: 65
+        bookCode: 2oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 13
+        short: 2 Кор:13:1
+      - verseId: 14601
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 10
+        short: Евр:10:28
+    translates:
+      kassian: ""
+      podstr: При двух свидетелях или при трёх свидетелях умрёт умирающий; не умрёт
+        при одном свидетеле.
+      csya: "При двою свидетелех или при трех да умрет: умираяй да не умрет при единем
+        свидетели:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "При двою2 свидётелехъ и3ли2 при тре1хъ да ќмретъ: ўмирazй да не
+        ќмретъ при є3ди1нэмъ свидётели:"
+      sovr_rbo: Но казнить можно, если есть показания двух или трех свидетелей, а если
+        свидетель только один — нельзя.
+      latin: In ore duorum aut trium testium peribit qui interficietur. Nemo
+        occidatur, uno contra se dicente testimonium.
+      ukr: На слова двох свідків або трьох свідків буде забитий обвинувачений, що має
+        померти; на слова одного свідка не буде забитий.
+      nkjv: Whoever is deserving of death shall be put to death on the testimony of
+        two or three witnesses; he shall not be put to death on the testimony of
+        one witness.
+      desnitsky: ""
+      mt: ‫   עַל־פִּי שְׁנַיִם עֵדִים אוֹ שְׁלֹשָׁה עֵדִים יוּמַת הַמֵּת לֹא יוּמַת
+        עַל־פִּי עֵד אֶחָד׃ ‬
+      romana: Cel osandit la moarte sa moara dupa spusele a doi sau trei martori; iar
+        pe spusa unui singur martor sa nu fie osandit nimeni la moarte.
+      francais: Celui qui mérite la mort sera exécuté sur la déposition de deux ou de
+        trois témoins; il ne sera pas mis à mort sur la déposition d'un seul
+        témoin.
+      italian: Colui che dovrà morire sarà messo a morte sulla deposizione di due o di
+        tre testimoni; non potrà essere messo a morte sulla deposizione di un
+        solo testimonio.
+      old_georgian: ორითა და სამითა მოწამითა მოკუედინ, ნუ ერთითა მოწამითა, ჴელნი
+        პირველად მოწამეთა შეეხნედ.
+      portuguese: "Pela boca de duas ou de três testemunhas, será morto o que houver
+        de morrer; pela boca duma só testemunha\rnão morrerá."
+      polish: "Na słowo dwu lub trzech świadków skaże się na śmierć; nie wyda się
+        wyroku\rna słowo jednego świadka."
+      turkish: Ölmesi gereken, iki ya da üç kişinin tanıklığıyla öldürülecek; bir
+        kişinin tanıklığıyla öldürülmeyecek.
+      nrt: Человек может быть предан смерти по свидетельству двух или трех очевидцев,
+        но никого нельзя предавать смерти по показанию только одного свидетеля.
+      Macarius: "По свидетельству двух свидетелей, или трех свидетелей, должен умереть
+        умерщвляемый: не должно предавать смерти по свидетельству одного
+        свидетеля."
+      serbian: На свједочанство два или три човјека да се погуби онај кога ваља
+        погубити; али на свједочанство  једнога човјека да се не погуби.
+      bulgarian: "По думите на двама или на трима свидетели осъденият на смърт трябва
+        да умре: не бива да се погубва по думите само на един свидетел;"
+      deutsch: Auf zweier oder dreier Zeugen Mund soll sterben, wer des Todes wert
+        ist; aber auf eines Zeugen soll er nicht sterben.
+      ukr2: За словом двох або трьох свідків мусить бути скараний на смерть той, хто
+        засуджений на смерть. Не можна стратити його на слово тільки одного
+        свідка.
+      ukr3: По слову двох сьвідків мусять стратити осудженого на смерть. Неможна
+        стратити його по слову одного сьвідка.
+      bel_syomukha: "Па словах двух сьведкаў, альбо трох сьведкаў, павінен памерці
+        засуджаны на сьмерць: нельга аддаваць сьмерці па словах аднаго сьведкі;"
+      lev-khv: "По свидетельству двух свидетелей или трех свидетелей, должен умереть
+        подлежащий смерти: не должно предавать смерти по свидетельству одного
+        свидетеля."
+      czech: Ten, kdo ma zemrit, bude usmrcen na zaklade vypovedi dvou nebo tri
+        svedku. Nebude usmrcen na zaklade vypovedi jedineho svedka.
+      spanish: Sólo sobre la palabra de dos o tres testigos se condenará a muerte al
+        que haya de ser condenado; no será condenado a muerte sobre la palabra
+        de un solo testigo.
+      greek-lxx: ἐπὶ δυσὶν μάρτυσιν ἢ ἐπὶ τρισὶν μάρτυσιν ἀποθανεῖται ὁ ἀποθνῄσκων οὐκ
+        ἀποθανεῖται ἐφ᾿ ἑνὶ μάρτυρι
+      st_text: "По словам двух свидетелей, или трех свидетелей, должен умереть
+        осуждаемый на смерть: не должно предавать смерти по словам одного
+        свидетеля;"
+  - id: 36168
+    number: 7
+    bookId: 5
+    text: рука свидетелей должна быть на нем прежде <i>всех</i>, чтоб убить его,
+      потом рука всего народа; и <i>так</i> истреби зло из среды себя.
+    chapter: 17
+    chapterId: 170
+    parallels:
+      - verseId: 36078
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 13
+        short: Втор:13:9
+      - verseId: 1622
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 5
+        short: 1 Кор:5:13
+    translates:
+      kassian: ""
+      podstr: И рука свидетелей будет на нём среди первых [чтобы] умертвить его, и
+        рука всего народа при последних; и удалишь злое из вас самих.
+      csya: "и рука свидетелей да будет на нем в первых, умертвити его, и рука всех
+        людий послежде: и измите злое от вас самех."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 рукA свидётелей да бyдетъ на не1мъ въ пе1рвыхъ, ўмертви1ти є3го2,
+        и3 рукA всёхъ людjй по1слэжде: и3 и3зми1те ѕло1е t вaсъ самёхъ."
+      sovr_rbo: При казни свидетели должны нанести удар первыми, а все остальные —
+        вслед за ними. Искорените зло!
+      latin: "Manus testium prima interficiet eum, et manus reliqui populi extrema
+        mittetur: ut auferas malum de medio tui."
+      ukr: Рука свідків буде на ньому найперше, щоб забити його, а рука всього народу
+        наостанку. І вигубиш зло з-посеред себе.
+      nkjv: The hands of the witnesses shall be the first against him to put him to
+        death, and afterward the hands of all the people. So you shall put away
+        the evil from among you.
+      desnitsky: ""
+      mt: ‫   יַד הָעֵדִים תִּהְיֶה־בּוֹ בָרִאשֹׁנָה לַהֲמִיתוֹ וְיַד כָּל־הָעָם
+        בָּאַחֲרֹנָה וּבִעַרְתָּ הָרָע מִקִּרְבֶּךָ׃ פ ‬
+      romana: Mana martorilor sa se ridice asupra lui, ca sa-l ucida inaintea tuturor,
+        si apoi sa se ridice mana a tot poporul. Pierde deci raul din mijlocul
+        tau.
+      francais: La main des témoins se lèvera la première sur lui pour le faire
+        mourir, et la main de tout le peuple ensuite. Tu ôteras ainsi le mal du
+        milieu de toi.
+      italian: La mano dei testimoni sarà la prima contro di lui per farlo morire; poi
+        la mano di tutto il popolo; così estirperai il male in mezzo a te.
+      old_georgian: მოკუდინებად სიკუდილისა თანამდებისა მის, და მაშინღა ყოვლისა მის
+        ერისანი შემდგომად მათისა, მოისპენ უკეთური იგი თქუენ შორის.
+      portuguese: "A mão das testemunhas será a primeira contra ele, para matá-lo, e
+        depois a mão de todo o povo; assim\rexterminarás o mal do meio de ti."
+      polish: "Ręka świadków pierwsza się wzniesie przeciw niemu, aby go zgładzić, a
+        potem\rręka całego ludu. Usuniesz zło spośród siebie."
+      turkish: O kişiyi önce tanıklar, sonra bütün halk taşa tutsun. Aranızdaki
+        kötülüğü ortadan kaldırmalısınız.
+      nrt: Свидетели должны первыми бросить в него камень, а потом и все остальные.
+        Удали зло из среды своей.
+      Macarius: Рука свидетелей должна быть на нем прежде всех, чтоб убить его, потом
+        рука всего народа, и таким образом истреби зло из среды себя.
+      serbian: Свједоци нека први дигну руке на њ да га убију; а потом сав народ; тако
+        извади зло из себе.
+      bulgarian: "първом ръката на свидетелите трябва да падне върху него, за да бъде
+        убит, после ръката на целия народ: тъй изтребвай злото из средата си."
+      deutsch: Die Hand der Zeugen soll die erste sein, ihn zu töten, und darnach die
+        Hand alles Volks, daß du das Böse von dir tust.
+      ukr2: Рука свідків нехай буде на ньому перша, щоб стратити його, а по тому рука
+        всього люду; так викорінюватимеш зло з-поміж себе.
+      ukr3: Рука сьвідків нехай буде на них перша, а рука всього люду потім. Сим робом
+        викорінювати меш зло зміж вас.
+      bel_syomukha: рука сьведкаў павінна быць на ім раней за ўсё, каб забіць яго,
+        потым рука ўсяго народа; і так вынішчы ліха спасярод сябе.
+      lev-khv: Рука свидетелей должна быть на нем прежде <i>всех</i>, чтобы убить его,
+        потом рука всего народа; и <i>так</i> истреби зло из среды себя.
+      czech: Svedkove na neho vztahnou ruku jako prvni, aby ho usmrtili, potom vsechen
+        ostatni lid. Tak odstranis zlo ze sveho stredu.
+      spanish: Las manos de los testigos se alzarán las primeras contra él para
+        hacerlo morir, y después seguirán las del pueblo. Has de extirpar el mal
+        de en medio de él.
+      greek-lxx: καὶ ἡ χεὶρ τῶν μαρτύρων ἔσται ἐπ᾿ αὐτῷ ἐν πρώτοις θανατῶσαι αὐτόν καὶ
+        ἡ χεὶρ παντὸς τοῦ λαοῦ ἐπ᾿ ἐσχάτων καὶ ἐξαρεῖς τὸν πονηρὸν ἐξ ὑμῶν αὐτῶν
+      st_text: рука свидетелей должна быть на нем прежде <i>всех</i>, чтоб убить его,
+        потом рука всего народа; и <i>так</i> истреби зло из среды себя.
+  - id: 36169
+    number: 8
+    bookId: 5
+    text: Если по какому делу затруднительным будет для тебя рассудить между кровью
+      и кровью, между судом и судом, между побоями и побоями, <i>и будут</i>
+      несогласные мнения в воротах твоих, то встань и пойди на место, которое
+      изберет Господь, Бог твой, [чтобы призываемо было там имя Его,]
+    chapter: 17
+    chapterId: 170
+    parallels:
+      - verseId: 36286
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 21
+        short: Втор:21:5
+      - verseId: 6022
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 19
+        short: 2 Пар:19:10
+      - verseId: 18662
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 7
+        short: Ин:7:51
+    translates:
+      kassian: ""
+      podstr: Если же будет невозможным перед тобой слово в суде по середине [между]
+        кровью крови и по середине [между] судом суда и по середине [между]
+        побоем побоя и по середине [между] противоречием противоречия, слова
+        суда в городах ваших, и вставший пойди на место, которое изберёт Господь
+        Бог твой призывать имя Его там,
+      csya: "Аще же неудоборешимо слово у тебе в суде между кровию и кровию, и между
+        судом и судом, и между язвою и язвою, и между прением и прением, словеса
+        судная в градех твоих, и востав взыдеши на место, еже изберет Господь
+        Бог твой призвати имя его тамо:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Ѓще же неудоборэши1мо сло1во ў тебє2 въ судЁ междY кро1вію и3
+        кро1вію, и3 междY судо1мъ и3 судо1мъ, и3 междY ћзвою и3 ћзвою, и3 междY
+        прёніемъ и3 прёніемъ, словесA с{днаz въ градёхъ твои1хъ, и3 востaвъ
+        взы1деши на мёсто, є4же и3збере1тъ гDь бг7ъ тво1й призвaти и4мz є3гw2
+        тaмw:"
+      sovr_rbo: Если трудно тебе будет решить дело, которое ты разбираешь в своем
+        городе, — дело об убийстве, какое-нибудь обвинение, дело об увечьях —
+        тогда отправляйся на то место, которое изберет Господь, твой Бог.
+      latin: "Si difficile et ambiguum apud te judicium esse perspexeris inter
+        sanguinem et sanguinem, causam et causam, lepram et lepram: et judicum
+        intra portas tuas videris verba variari: surge, et ascende ad locum,
+        quem elegerit Dominus Deus tuus."
+      ukr: Коли б у суді була тобі неясна справа між кров'ю та кров'ю, між суперечкою
+        та суперечкою, і між раною та раною справи суперечки в брамах твоїх, то
+        встанеш, і підеш до місця, яке вибере його Господь, Бог твій.
+      nkjv: '"If a matter arises which is too hard for you to judge, between degrees
+        of guilt for bloodshed, between one judgment or another, or between one
+        punishment or another, matters of controversy within your gates, then
+        you shall arise and go up to the place which the Lord your God chooses.'
+      desnitsky: ""
+      mt: ‫   כִּי יִפָּלֵא מִמְּךָ‪‬‪‬ דָבָר לַמִּשְׁפָּט בֵּין־דָּם לְדָם
+        בֵּין־דִּין לְדִין וּבֵין נֶגַע לָנֶגַע דִּבְרֵי רִיבֹת בִּשְׁעָרֶיךָ
+        וְקַמְתָּ וְעָלִיתָ אֶל־הַמָּקוֹם אֲשֶׁר יִבְחַר יְהוָה אֱלֹהֶיךָ בּוֹ׃
+        ‬
+      romana: Daca in vreo pricina oarecare iti va fi greu de ales intre sange si
+        sange, intre judecata si judecata, intre batai si batai si in cetatile
+        tale parerile vor fi impartite, atunci scoala si du-te la locul pe
+        care-l va alege Domnul Dumnezeul tau, ca sa-I fie numele acolo,
+      francais: Si une cause relative à un meurtre, à un différend, à une blessure, te
+        paraît trop difficile à juger et fournit matière à contestation dans tes
+        portes, tu te lèveras et tu monteras au lieu que l'Éternel, ton Dieu,
+        choisira.
+      italian: Quando in una causa ti sarà troppo difficile decidere tra assassinio e
+        assassinio, tra diritto e diritto, tra percossa e percossa, in cose su
+        cui si litiga nelle tue città, ti alzerai e salirai al luogo che il
+        Signore tuo Dio avrà scelto;
+      old_georgian: ვერ თუ რაჲმე შესაძლებელ იყოს თქუენ შორის სიტყუაჲ საშჯელისაჲ,
+        განგებასა განსაგებელისასა, ანუ განკითხვასა რასმე სასჯელისასა, ანუ იჭუისა
+        მიმართ რაჲსმე გონებისასა, ანუ ცილობისათჳს რაჲმე სიტყვისა სასჯელისაჲსა
+        ქალაქთა შინა შენთა, აღსდგე და აღხვიდე შენ ადგილსა მას, რომელცა-იგი
+        გამოირჩია უფალმან ღმერთმან თქუენმან წოდებად სახელი მისი მას ზედა,
+      portuguese: "Se alguma causa te for difícil demais em juízo, entre sangue e
+        sangue, entre demanda e demanda, entre ferida e\rferida, tornando-se
+        motivo de controvérsia nas tuas portas, então te levantarás e subirás ao
+        lugar que o Senhor teu\rDeus escolher;"
+      polish: "Jeśli za trudno ci będzie osądzić jakiś wypadek, jak zabójstwo, spór
+        lub\rzranienie, jakikolwiek proces w tym mieście, wstaniesz i pójdziesz
+        do miejsca,\rktóre sobie obierze Pan, Bóg twój."
+      turkish: «Eğer kentlerinizde adam öldürme, dava, saldırı konusunda yargılamada
+        sizi aşan sorunlarla karşılaşırsanız, Tanrınız RAB'bin seçeceği yere
+        gidin.
+      nrt: Если на твой суд представят дело, которое слишком трудно рассудить – будь
+        то кровопролитие, тяжба или побои, – приведи судящихся на место, которое
+        выберет Господь, твой Бог.
+      Macarius: "Если по какому делу затруднительным покажется тебе рассудить между
+        кровью и кровью, между судом и судом, между побоями и побоями, и будут
+        несогласные мнения в судебных местах твоих: то встань и пойди на то
+        место, которое изберет Иегова, Бог твой, [чтоб призываемо было там имя
+        Его,]"
+      serbian: Кад ти буде тешко расудити између крви и крви, између распре и распре,
+        или између ране и ране, око којих буде парница у твојем мјесту, тада
+        устани и иди у мјесто које избере Господ Бог твој;
+      bulgarian: Ако по някое дело бъде мъчно за тебе да разсъдиш между кръв и кръв,
+        между съд и съд, между удар и удар, и мненията не бъдат съгласни при
+        вратата ти, - стани и възлез на мястото, което избере Господ, Бог твой,
+        (за да бъде призовавано името Му там,)
+      deutsch: Wenn eine Sache vor Gericht dir zu schwer sein wird, zwischen Blut und
+        Blut, zwischen Handel und Handel, zwischen Schaden und Schaden, und was
+        Streitsachen sind in deinen Toren, so sollst du dich aufmachen und
+        hingehen zu der Stätte, die der Herr, dein Gott, erwählen wird,
+      ukr2: Коли тобі буде занадто важко розсудити справу між душогубством і
+        душогубством, між позивом і позивом, між раною і раною - будь-які спірні
+        справи в ваших містах -ти встанеш і підеш до місця, що його вибере
+        Господь, Бог твій,
+      ukr3: Коли буде тобі вже надто трудно розсудити справу між кровю а кровю, між
+        позивом а позивом, між зраненим а зраненим, який небудь спір в оселї
+        твоїй, так встанеш і пійдеш до місця, що його вибере Господь, Бог твій,
+      bel_syomukha: Калі ў тваім судзе цяжка будзе табе рассудзіць паміж крывёю і
+        крывёю, паміж судом і судом, паміж пабоямі і пабоямі, і будуць нязгодныя
+        меркаваньні ў варотах тваіх, дык устань і ідзі на месца, якое выбера
+        Гасподзь, Бог твой,
+      lev-khv: Если по какому делу будет затруднительно для тебя разсудить между
+        кровию и кровию, между тяжбою и тяжбою, между побоями и побоями, по
+        делам спорным в воротах твоих; то встань и поди на то место, которое
+        изберет Господь, Бог твой,
+      czech: Naskytne-li se ti nejaky mimoradny pravni pripad, rozsoudit, kdo je vinen
+        vrazdou, rozepri, ublizenim na tele, tedy jakykoli sporny pripad ve
+        tvych branach, vydas se k mistu, ktere si Hospodin, tvuj Buh, vyvoli.
+      spanish: Si una causa te resultare difícil de resolver entre sangre y sangre,
+        entre contestación y contestación, entre herida y herida, objeto de
+        litigio en tus puertas, te levantarás y subirás al lugar que Yavé, tu
+        Dios, haya elegido,
+      greek-lxx: ἐὰν δὲ ἀδυνατήσῃ ἀπὸ σοῦ ῥῆμα ἐν κρίσει ἀνὰ μέσον αἷμα αἵματος καὶ
+        ἀνὰ μέσον κρίσις κρίσεως καὶ ἀνὰ μέσον ἁφὴ ἁφῆς καὶ ἀνὰ μέσον ἀντιλογία
+        ἀντιλογίας ῥήματα κρίσεως ἐν ταῖς πόλεσιν ὑμῶν καὶ ἀναστὰς ἀναβήσῃ εἰς
+        τὸν τόπον ὃν ἂν ἐκλέξηται Κύριος ὁ Θεός σου ἐπικληθῆναι τὸ ὄνομα αὐτοῦ
+        ἐκεῖ
+      st_text: Если по какому делу затруднительным будет для тебя рассудить между
+        кровью и кровью, между судом и судом, между побоями и побоями, <i>и
+        будут</i> несогласные мнения в воротах твоих, то встань и пойди на
+        место, которое изберет Господь, Бог твой, [чтобы призываемо было там имя
+        Его,]
+  - id: 36170
+    number: 9
+    bookId: 5
+    text: и приди к священникам левитам и к судье, который будет в те дни, и спроси
+      их, и они скажут тебе, как рассудить;
+    chapter: 17
+    chapterId: 170
+    parallels:
+      - verseId: 36286
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 21
+        short: Втор:21:5
+      - verseId: 6020
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 19
+        short: 2 Пар:19:8
+      - verseId: 6023
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 19
+        short: 2 Пар:19:11
+      - verseId: 24954
+        bookId: 46
+        bookCode: kniga-proroka-malahii
+        chapter: 2
+        short: Мал:2:7
+      - verseId: 25540
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 23
+        short: Мф:23:3
+    translates:
+      kassian: ""
+      podstr: и пойдёшь к священникам левитов и к судье, который случится в дни те, и
+        изыскавшие скажут тебе суд.
+      csya: "и приидеши к жерцем левитом, и к судии, иже будет в тыя дни, и взыскавше
+        возвестят тебе суд:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 пріи1деши къ жерцє1мъ леvjтwмъ, и3 къ судіи2, и4же бyдетъ въ ты6z
+        дни6, и3 взыскaвше возвэстsтъ тебЁ сyдъ:"
+      sovr_rbo: Иди к священникам-левитам, к судье, что будет в то время, и спроси у
+        них, и они объявят тебе свое решение.
+      latin: "Veniesque ad sacerdotes Levitici generis, et ad judicem qui fuerit illo
+        tempore: quaeresque ab eis, qui indicabunt tibi judicii veritatem."
+      ukr: І прийдеш до священиків-Левитів і до судді, що буде в тих днях, і
+        допитаєшся, і вони дадуть тобі слово присуду.
+      nkjv: And you shall come to the priests, the Levites, and to the judge there in
+        those days, and inquire of them; they shall pronounce upon you the
+        sentence of judgment.
+      desnitsky: ""
+      mt: ‫   וּבָאתָ אֶל־הַכֹּהֲנִים הַלְוִיִּם וְאֶל־הַשֹּׁפֵט אֲשֶׁר יִהְיֶה
+        בַּיָּמִים הָהֵם וְדָרַשְׁתָּ וְהִגִּידוּ לְךָ אֵת דְּבַר הַמִּשְׁפָּט׃
+        ‬
+      romana: Si vino la preoti, la leviti si la judecatorul care va fi in zilele
+        acelea si intreaba-i, iar ei iti vor spune cum sa judeci.
+      francais: Tu iras vers les sacrificateurs, les Lévites, et vers celui qui
+        remplira alors les fonctions de juge; tu les consulteras, et ils te
+        feront connaître la sentence.
+      italian: andrai dai sacerdoti e dal giudice in carica a quel tempo; li
+        consulterai ed essi ti indicheranno la sentenza da pronunciare;
+      old_georgian: და მიხვიდე შენ მღდელთა მათ ლევიტელთა და მსაჯულნი იგი, რომელ იყვნენ
+        მათ ჟამთა, და გამოიკითხონ სასჯელი იგი და გითხრან შენ განგებაჲ იგი
+        სასჯელისა მის.
+      portuguese: "virás aos levitas sacerdotes, e ao juiz que houver nesses dias, e
+        inquirirás; e eles te anunciarão a sentença da\rjuízo."
+      polish: "Tam udasz się do kapłanów-lewitów i do sędziego, który w tych dniach
+        będzie\rsprawował urząd. Poradzisz się, oni ci dadzą rozstrzygnięcie."
+      turkish: Sorunlarınızı Levili kâhinlere ve o dönemde görevli yargıca götürüp
+        soruşturun. Yargı kararını onlar size bildirecekler.
+      nrt: Пойди к священникам из левитов и к судье, который будет в те дни, и спроси
+        их. Они объявят тебе судейское решение.
+      Macarius: И приди к священникам Левитам или к судье, который будет в те дни, и
+        спроси их, и они скажут тебе, как рассудить.
+      serbian: И отиди к свештеницима Левитима или к судији који онда буде, па их
+        упитај, и они ће ти казати како ваља пресудити.
+      bulgarian: и дойди при свещениците левити и при съдията, който се случи в ония
+        дни, попитай ги, и те ще ти кажат, как да разсъдиш;
+      deutsch: und zu den Priestern, den Leviten, und zu dem Richter, der zur Zeit
+        sein wird, kommen und fragen; die sollen dir das Urteil sprechen.
+      ukr2: і прийдеш до священиків-левітів і до судді, який буде на ту пору, та й
+        звернешся до них по пораду, а вони об'являть тобі судовий вирок.
+      ukr3: І прийдеш до сьвященників Левитів і до суддї, що буде того дня, та й
+        розпитаєш, і вони дадуть тобі судовий вирік.
+      bel_syomukha: і прыйдзі да сьвятароў лявітаў і да судзьдзі, які будзе ў тыя дні,
+        і спытайся ў іх, і яны скажуць табе, як рассудзіць;
+      lev-khv: И приди к священникам, Левитам, или к судье, который будет в те дни, и
+        спроси, и они объявят тебе судебное решение.
+      czech: Prijdes k levijskym knezim a k soudci, ktery tam bude v tech dnech,
+        dotazes se a oni ti oznami pravni nalez.
+      spanish: y te irás a los sacerdotes, hijos de Leví, y al juez entonces en
+        funciones, y le consultarás; él te dirá la sentencia que haya de darse
+        conforme a derecho.
+      greek-lxx: καὶ ἐλεύσῃ πρὸς τοὺς ἱερεῖς τοὺς Λευίτας καὶ πρὸς τὸν κριτήν ὃς ἂν
+        γένηται ἐν ταῖς ἡμέραις ἐκείναις καὶ ἐκζητήσαντες ἀναγγελοῦσίν σοι τὴν
+        κρίσιν
+      st_text: и приди к священникам левитам и к судье, который будет в те дни, и
+        спроси их, и они скажут тебе, как рассудить;
+  - id: 36171
+    number: 10
+    bookId: 5
+    text: и поступи по слову, какое они скажут тебе, на том месте, которое изберет
+      Господь [Бог твой, чтобы призываемо было там имя Его,] и постарайся
+      исполнить все, чему они научат тебя;
+    chapter: 17
+    chapterId: 170
+    parallels:
+      - verseId: 13559
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 23
+        short: Деян:23:3
+    translates:
+      kassian: ""
+      podstr: И сделаешь согласно делу, которое если скажут тебе от места, которое
+        изберёт Господь Бог твой призывать имя Его там, и сохранишь очень
+        сделать согласно всему, сколькому если научат тебя;
+      csya: "и сотвориши по словеси, еже возвестят тебе от места, еже изберет Господь
+        Бог твой призывати имя его тамо, и да сохраниши зело творити вся, елика
+        законоположатся тебе:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 сотвори1ши по словеси2, є4же возвэстsтъ тебЁ t мёста, є4же
+        и3збере1тъ гDь бг7ъ тво1й призывaти и4мz є3гw2 тaмw, и3 да сохрани1ши
+        ѕэлw2 твори1ти вс‰, є3ли6ка законоположaтсz тебЁ:"
+      sovr_rbo: Ты должен будешь исполнить решение, объявленное тебе на том месте,
+        которое изберет Господь, строго соблюдать и исполнять все, что тебе
+        скажут.
+      latin: Et facies quodcumque dixerint qui praesunt loco quem elegerit Dominus, et
+        docuerint te
+      ukr: І ти поступиш за тим словом, що подадуть тобі з того місця, яке вибере
+        Господь, і будеш пильнувати робити все так, як навчать тебе.
+      nkjv: You shall do according to the sentence which they pronounce upon you in
+        that place which the Lord chooses. And you shall be careful to do
+        according to all that they order you.
+      desnitsky: ""
+      mt: ‫   וְעָשִׂיתָ עַל־פִּי הַדָּבָר אֲשֶׁר יַגִּידוּ לְךָ מִן־הַמָּקוֹם הַהוּא
+        אֲשֶׁר יִבְחַר יְהוָה וְשָׁמַרְתָּ לַעֲשׂוֹת כְּכֹל אֲשֶׁר יוֹרוּךָ׃ ‬
+      romana: Fa dupa Cuvantul ce-ti vor spune ei in locul pe care-l va alege Domnul
+        Dumnezeul tau, ca sa fie chemat numele Lui acolo si sileste-te sa
+        implinesti tot ceea ce te vor invata ei,
+      francais: Tu te conformeras à ce qu'ils te diront dans le lieu que choisira
+        l'Éternel, et tu auras soin d'agir d'après tout ce qu'ils
+        t'enseigneront.
+      italian: tu agirai in base a quello che essi ti indicheranno nel luogo che il
+        Signore avrà scelto e avrai cura di fare quanto ti avranno insegnato.
+      old_georgian: და ჰყო მსგავსად სიტყვისა მის, რომელცა-იგი გითხრან შენ ადგილისა
+        მისგან, რომელ-იგი გამოირჩია უფალმან და ეკრძალო მას ყოფად ყოვლისა მის
+        მცნებისა სასჯელისაჲსა.
+      portuguese: "Depois cumprirás fielmente a sentença que te anunciarem no lugar
+        que o Senhor escolher; e terás cuidado de\rfazer conforme tudo o que te
+        ensinarem."
+      polish: "Zastosujesz się do orzeczenia, jakie ci wydadzą w miejscu, które sobie
+        obierze\rPan, i pilnie wykonasz wszystko, o czym cię pouczą."
+      turkish: RAB'bin seçeceği yerden size bildirilen karara uymalı, size verilen
+        öğüdü tutmaya dikkat etmelisiniz.
+      nrt: А ты должен поступить в соответствии с решением, объявленным на месте,
+        которое выберет Господь. Смотри, сделай все, что они укажут тебе.
+      Macarius: И поступи по слову, какое они скажут тебе, на том месте, которое
+        изберет Иегова, [Бог твой, чтоб призываемо было там имя Его], и
+        постарайся исполнить все, чему они научат тебя.
+      serbian: И учини онако како ти кажу у мјесту које избере Господ, и гледај да
+        учиниш сасвијем онако како те науче.
+      bulgarian: и постъпи, според както ти кажат на мястото, което избере Господ (Бог
+        твой, за да бъде призовано името Му там), и гледай да изпълниш всичко,
+        на каквото те научат;
+      deutsch: Und du sollst tun nach dem, was sie dir sagen an der Stätte, die der
+        Herr erwählen wird, und sollst es halten, daß du tust nach allem, was
+        sie dich lehren werden.
+      ukr2: Тоді зробиш згідно з вироком, який об'являть на тому місці, що вибере
+        Господь, і виконаєш точно все, як вони тебе повчать.
+      ukr3: І ти зробиш по слову, що тобі скажуть на місцї тому, що вибере Господь, і
+        пильнуй щоб сповнити все, як вони навчать тебе.
+      bel_syomukha: і зрабі паводле слова, якое яны скажуць табе, на тым месцы, якое
+        выбера Гасподзь, і пастарайся выканаць усё, чаму яны навучаць цябе;
+      lev-khv: И поступи по слову, какое они скажут тебе с того места, которое изберет
+        Господь, и постарайся исполнить все, чему он научит тебя.
+      czech: Budes pak jednat podle vyroku, ktery ti oznami z onoho mista, ktere
+        vyvoli Hospodin. Bedlive dodrzis vsechno, o cem te oni pouci.
+      spanish: Obrarás según la sentencia que te hayan dado en el lugar que Yavé haya
+        elegido y pondrás cuidado en ajustarte a lo que ellos te hayan enseñado.
+      greek-lxx: καὶ ποιήσεις κατὰ τὸ πρᾶγμα ὃ ἐὰν ἀναγγείλωσίν σοι ἐκ τοῦ τόπου οὗ ἂν
+        ἐκλέξηται Κύριος ὁ Θεός σου ἐπικληθῆναι τὸ ὄνομα αὐτοῦ ἐκεῖ καὶ φυλάξῃ
+        σφόδρα ποιῆσαι κατὰ πάντα ὅσα ἐὰν νομοθετηθῇ σοι
+      st_text: и поступи по слову, какое они скажут тебе, на том месте, которое
+        изберет Господь [Бог твой, чтобы призываемо было там имя Его,] и
+        постарайся исполнить все, чему они научат тебя;
+  - id: 36172
+    number: 11
+    bookId: 5
+    text: по закону, которому научат они тебя, и по определению, какое они скажут
+      тебе, поступи, и не уклоняйся ни направо, ни налево от того, что они
+      скажут тебе.
+    chapter: 17
+    chapterId: 170
+    parallels:
+      - verseId: 36792
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 5
+        short: Втор:5:29
+      - verseId: 36795
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 5
+        short: Втор:5:32
+      - verseId: 36459
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 28
+        short: Втор:28:14
+      - verseId: 90
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 12
+        short: 1 Цар:12:20
+      - verseId: 8933
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 18
+        short: 4 Цар:18:6
+      - verseId: 30718
+        bookId: 22
+        bookCode: psaltir
+        chapter: 118
+        short: Пс:118:51
+      - verseId: 9423
+        bookId: 44
+        bookCode: kniga-proroka-aggea
+        chapter: 2
+        short: Агг:2:11
+    translates:
+      kassian: ""
+      podstr: по Закону и по суду, который скажут тебе, сделаешь, не уклонишься от
+        слова, которое если скажут тебе, вправо и не влево.
+      csya: по закону и по суду, егоже рекут тебе, сотвориши, да не уклонишися от
+        словесе, еже известят тебе, ни на десно, ни на лево.
+      averincev: ""
+      ungerov: ""
+      csya_old: по зако1ну и3 по судY, є3го1же рекyтъ тебЁ, сотвори1ши, да не
+        ўклони1шисz t словесе2, є4же и3звэстsтъ тебЁ, ни на де1сно, ни на лёво.
+      sovr_rbo: Сделай все по Закону, которому тебе научат, исполни решение, которое
+        тебе возвестят. Не отклоняйся от него ни вправо, ни влево!
+      latin: juxta legem ejus, sequerisque sententiam eorum, nec declinabis ad
+        dexteram neque ad sinistram.
+      ukr: Ти поступиш за законом, що навчать тебе, і за вироком, що скажуть тобі, не
+        відступиш ні праворуч ні ліворуч від слова, що подадуть тобі.
+      nkjv: According to the sentence of the law in which they instruct you, according
+        to the judgment which they tell you, you shall do; you shall not turn
+        aside to the right hand or to the left from the sentence which they
+        pronounce upon you.
+      desnitsky: ""
+      mt: ‫   עַל־פִּי הַתּוֹרָה אֲשֶׁר יוֹרוּךָ וְעַל־הַמִּשְׁפָּט אֲשֶׁר־יֹאמְרוּ
+        לְךָ תַּעֲשֶׂה לֹא תָסוּר מִן־הַדָּבָר אֲשֶׁר־יַגִּידוּ לְךָ יָמִין
+        וּשְׂמֹאל׃ ‬
+      romana: Dupa legea pe care te vor invata ei si dupa hotararea ce-ti vor spune-o
+        sa faci si sa nu te abati nici la dreapta, nici la stanga de la cele
+        ce-li vor spune ei.
+      francais: Tu te conformeras à la loi qu'ils t'enseigneront et à la sentence
+        qu'ils auront prononcée; tu ne te détourneras de ce qu'ils te diront ni
+        à droite ni à gauche.
+      italian: Agirai in base alla legge che essi ti avranno insegnato e alla sentenza
+        che ti avranno indicato; non devierai da quello che ti avranno esposto,
+        né a destra, né a sinistra.
+      old_georgian: რომელ-იგი შჯული შეგითხრა შენ და რაჲცა გასწაონ შენ, ჰყო შენ
+        მსგავსად სიტყჳსა მის მათისა, რაჲცა-იგი გრქუან შენ, არა გარდააქციო შენ
+        მარჯულ, არცა მარცხლ.
+      portuguese: "Conforme o teor da lei que te ensinarem, e conforme o juízo que
+        pronunciarem, farás da palavra que te disserem\rnão te desviarás, nem
+        para a direita nem para a esquerda."
+      polish: "Postąpisz ściśle według ich pouczenia i według ich rozstrzygnięcia,
+        jakie ci\rdadzą, nie zbaczając ani na prawo, ani na lewo od ich
+        orzeczenia."
+      turkish: Size öğretilen yasa ve verilen karar uyarınca davranın. Size
+        bildirilenin dışına çıkmayın.
+      nrt: Поступи по закону, которому они тебя научат, и по решению, которое они тебе
+        дадут. Не уклоняйся от того, что они тебе скажут ни вправо, ни влево.
+      Macarius: По закону, которому научат они тебя, и по определению, какое они
+        скажут тебе, поступи, и не уклоняйся ни направо, ни налево от того, что
+        они скажут тебе.
+      serbian: По закону којему те науче, и по пресуди коју ти кажу, учини; не одступи
+        од онога што ти кажу ни надесно ни налијево.
+      bulgarian: според закона, на който те научат, и според присъдата, която ти
+        произнесат, постъпи и не се отклонявай ни надясно, ни наляво от онова,
+        що ти кажат те.
+      deutsch: Nach dem Gesetz, das sie dich lehren, und nach dem Recht, das sie dir
+        sagen, sollst du dich halten, daß du davon nicht abweichest, weder zur
+        Rechten noch zur Linken.
+      ukr2: Ти вчиниш згідно з повчанням, яке вони тобі дадуть, і за присудом, який
+        тобі скажуть; ти не відступиш від цього вироку, що його тобі об'являть,
+        ні праворуч, ні ліворуч.
+      ukr3: Ти зробиш по слову закона, що вони навчать тебе, і по правдї, що скажуть
+        тобі; од вироку, що скажуть тобі, не відступиш нї праворуч, нї лїворуч.
+      bel_syomukha: паводле закона, якому яны навучаць цябе, і паводле вызначэньня,
+        якое яны скажуць табе, зрабі і ня ўхіляйся ні направа, ні налева ад
+        таго, што яны скажуць табе.
+      lev-khv: По наставлению, которое они преподадут тебе, и по определению, какое
+        они скажут тебе, поступи; не уклоняйся ни на право, ни на лево от того,
+        чтó они скажут тебе.
+      czech: Budes jednat podle zneni zakona, o nemz te pouci, a podle prava, ktere ti
+        vysvetli. Neuchylis se napravo ani nalevo od toho, co ti oni oznami.
+      spanish: Obrarás conforme a la ley que ellos te enseñen y a la sentencia que te
+        hayan dado, sin apartarte ni a la derecha ni a la izquierda de lo que te
+        hayan dado a conocer.
+      greek-lxx: κατὰ τὸν νόμον καὶ κατὰ τὴν κρίσιν ἣν ἂν εἴπωσίν σοι ποιήσεις οὐκ
+        ἐκκλινεῖς ἀπὸ τοῦ ῥήματος οὗ ἐὰν ἀναγγείλωσίν σοι δεξιὰ οὐδὲ ἀριστερά
+      st_text: по закону, которому научат они тебя, и по определению, какое они скажут
+        тебе, поступи, и не уклоняйся ни направо, ни налево от того, что они
+        скажут тебе.
+  - id: 36173
+    number: 12
+    bookId: 5
+    text: А кто поступит так дерзко, что не послушает священника, стоящего там на
+      служении пред Господом, Богом твоим, или судьи, [который будет в те дни],
+      тот должен умереть, - и <i>так</i> истреби зло от Израиля;
+    chapter: 17
+    chapterId: 170
+    parallels:
+      - verseId: 7133
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 18
+        short: 3 Цар:18:26
+      - verseId: 37010
+        bookId: 45
+        bookCode: kniga-proroka-zaharii
+        chapter: 3
+        short: Зах:3:7
+    translates:
+      kassian: ""
+      podstr: И человек, который если сделает надменность [чтобы] не послушать
+        священника стоящего служить в имени Господа Бога твоего или судьи,
+        который будет в дни те, и умрёт человек тот, и удалишь злое из Израиля;
+      csya: "И человек, иже сотворит в гордости, еже не послушати жерца предстоящаго
+        служити во имя Господа Бога твоего, или судии, иже в тыя дни будет, да
+        умрет человек той, и да измеши злое от израиля:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# человёкъ, и4же сотвори1тъ въ го1рдости, є4же не послyшати жерцA
+        предстоsщагw служи1ти во и4мz гDа бг7а твоегw2, и3ли2 судіи2, и4же въ
+        ты6z дни6 бyдетъ, да ќмретъ человёкъ то1й, и3 да и4змеши ѕло1е t ї}лz:"
+      sovr_rbo: А кто дерзнет ослушаться священника, служащего там Господу, твоему
+        Богу, или судью, тот должен быть предан смерти. Искорените зло в
+        Израиле!
+      latin: "Qui autem superbierit, nolens obedire sacerdotis imperio, qui eo tempore
+        ministrat Domino Deo tuo, et decreto judicis, morietur homo ille, et
+        auferes malum de Israel:"
+      ukr: А коли хто через зухвалість не послухається священика, що стоїть там на
+        служенні Господеві, Богові твоєму, або судді, то помре той, і вигубиш те
+        зло з Ізраїля.
+      nkjv: Now the man who acts presumptuously and will not heed the priest who
+        stands to minister there before the Lord your God, or the judge, that
+        man shall die. So you shall put away the evil from Israel.
+      desnitsky: ""
+      mt: ‫   וְהָאִישׁ אֲשֶׁר־יַעֲשֶׂה בְזָדוֹן לְבִלְתִּי שְׁמֹעַ אֶל־הַכֹּהֵן
+        הָעֹמֵד לְשָׁרֶת שָׁם אֶת־יְהוָה אֱלֹהֶיךָ אוֹ אֶל־הַשֹּׁפֵט וּמֵת
+        הָאִישׁ הַהוּא וּבִעַרְתָּ הָרָע מִיִּשְׂרָאֵל׃ ‬
+      romana: Iar cine se va purta asa de indaratnic, incat sa nu asculte pe preotul
+        care sta acolo la slujba inaintea Domnului Dumnezeului tau, sau pe
+        judecatorul care va fi in zilele acelea, unul ca acela sa moara.
+      francais: L'homme qui, par orgueil, n'écoutera pas le sacrificateur placé là
+        pour servir l'Éternel, ton Dieu, ou qui n'écoutera pas le juge, cet
+        homme  sera puni de mort. Tu ôteras ainsi le mal du milieu d'Israël,
+      italian: L'uomo che si comporterà con presunzione e non obbedirà al sacerdote
+        che sta là per servire il Signore tuo Dio o al giudice, quell'uomo dovrà
+        morire; così toglierai il male da Israele;
+      old_georgian: იყოს თუ ვინმე კაცი და ამპარტავნებდეს და არა ერჩდეს სიტყუასა
+        მღდელისასა მის, რომელ-იგი დგეს მსახურად სახელისა მის უფლისა ღმრთისა
+        შენისასა, ანუ თუ მსაჯულთა მათ, რომელნი დგეს მათ ჟამთა, სიკუდილისა
+        თანამდებ არს იგი კაცი, სიკუდილით მოკუედინ და მოისპენ ბოროტი იგი
+        ეგევითარი შორის ისრაჱლსა.
+      portuguese: "O homem que se houver soberbamente, não dando ouvidos ao sacerdote,
+        que está ali para servir ao Senhor teu\rDeus, nem ao juiz, esse homem
+        morrerá; assumirá de Israel o mal."
+      polish: "Człowiek, który pychą uniesiony nie usłucha kapłana ustanowionego
+        tam,\raby służyć Panu, Bogu twemu, czy też sędziego, zostanie ukarany
+        śmiercią.\rUsuniesz zło z Izraela."
+      turkish: Orada, Tanrınız RAB'bin önünde görev yapan kâhini ya da yargıcı kim
+        dinlemeyip saygısızlık ederse öldürülmeli. İsrail'den kötülüğü
+        atmalısınız.
+      nrt: Тот, кто поступит дерзко и не послушает судью или священника, который
+        служит Господу, твоему Богу, должен быть предан смерти. Ты должен
+        искоренить зло в Израиле.
+      Macarius: "А кто поступит так дерзко, что не послушает священника, стоящего там
+        в служении пред Иеговою, Богом твоим, или судии, [который будет в те
+        дни]: тот должен умереть, и таким образом истреби зло от Израиля;"
+      serbian: Ако ли би се ко упро те не би хтио послушати свештеника који ондје
+        стоји те служи Господу Богу твојему, или судије, такав човјек да се
+        погуби; и извади зло из Израиља,
+      bulgarian: А който постъпи тъй дръзко, че не послуша свещеника, който е там на
+        служба пред Господа, твоя Бог, или съдията (който се случи в ония дни),
+        той трябва да умре, - тъй изтребвай злото от Израиля;
+      deutsch: Und wo jemand vermessen handeln würde, daß er dem Priester nicht
+        gehorchte, der daselbst in des Herrn, deines Gottes, Amt steht, oder dem
+        Richter, der soll sterben, und sollst das Böse aus Israel tun,
+      ukr2: А хто б у зарозумілості насмілився чинити, не слухаючися священика, який
+        там поставлений, щоб служити Господеві, Богу твоєму, або судді, то
+        такого чоловіка скарати смертю. Так будеш викорінювати зло з-поміж
+        Ізраїля.
+      ukr3: А чоловік, що чинити ме очайдушно, та не послухає сьвященника, котрий там
+        стоїть, щоб служити Господеві, Богу твому, або суддї, такого чоловіка
+        стратити. Сим робом будеш викорінювати зло зміж Ізраїля.
+      bel_syomukha: А хто зробіць так дзёрзка, што не паслухаецца сьвятара, які стаіць
+        там на служэньні прад Госпадам, Богам тваім, альбо судзьдзі, той павінен
+        памерці, - і так вынішчы зло зь Ізраіля;
+      lev-khv: А кто поступит так дерзко, что не послушает священника, стоящаго там на
+        служении пред Господом, Богом твоим, или судии, тот должен умереть; и
+        <i>так</i> истреби зло от Израиля.
+      czech: Kdo bude jednat opovazlive, ze by neposlechl kneze, ktery tam stoji ve
+        sluzbe Hospodina, tveho Boha, nebo soudce, ten zemre. Tak odstranis zlo
+        z Izraele.
+      spanish: El que, dejándose llevar de la soberbia, no escuchare al sacerdote que
+        está allí para servir a Yavé, tu Dios, o no escuchare al juez, será
+        condenado a muerte.
+      greek-lxx: καὶ ὁ ἄνθρωπος ὃς ἂν ποιήσῃ ἐν ὑπερηφανίᾳ τοῦ μὴ ὑπακοῦσαι τοῦ ἱερέως
+        τοῦ παρεστηκότος λειτουργεῖν ἐπὶ τῷ ὀνόματι Κυρίου τοῦ Θεοῦ σου ἢ τοῦ
+        κριτοῦ ὃς ἂν ᾖ ἐν ταῖς ἡμέραις ἐκείναις καὶ ἀποθανεῖται ὁ ἄνθρωπος
+        ἐκεῖνος καὶ ἐξαρεῖς τὸν πονηρὸν ἐξ Ισραηλ
+      st_text: А кто поступит так дерзко, что не послушает священника, стоящего там на
+        служении пред Господом, Богом твоим, или судьи, [который будет в те
+        дни], тот должен умереть, - и <i>так</i> истреби зло от Израиля;
+  - id: 36174
+    number: 13
+    bookId: 5
+    text: и весь народ услышит и убоится, и не будут впредь поступать дерзко.
+    chapter: 17
+    chapterId: 170
+    parallels:
+      - verseId: 36080
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 13
+        short: Втор:13:11
+      - verseId: 36223
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 19
+        short: Втор:19:20
+      - verseId: 36302
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 21
+        short: Втор:21:21
+      - verseId: 32915
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 13
+        short: Рим:13:14
+    translates:
+      kassian: ""
+      podstr: и весь народ услышавший убоится и не будет нечестив уже.
+      csya: и вси людие услышавше убоятся, и не будут нечествовати ктому.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 вси2 лю1діе ўслы1шавше ўбоsтсz, и3 не бyдутъ нече1ствовати ктомY.
+      sovr_rbo: Пусть весь народ знает и трепещет, пусть впредь никто не поступает
+        столь дерзко.
+      latin: cunctusque populus audiens timebit, ut nullus deinceps intumescat
+        superbia.
+      ukr: А ввесь народ буде слухати та буде боятися, і вже не буде поступати
+        зухвало.
+      nkjv: And all the people shall hear and fear, and no longer act presumptuously.
+      desnitsky: ""
+      mt: ‫   וְכָל־הָעָם יִשְׁמְעוּ וְיִרָאוּ וְלֹא יְזִידוּן עוֹד׃ ס ‬
+      romana: Pierde deci raul din Israel si va auzi tot poporul si se va teme si nu
+        se va mai purta in viitor cu indaratnicie.
+      francais: afin que tout le peuple entende et craigne, et qu'il ne se livre plus
+        à l'orgueil.
+      italian: tutto il popolo lo verrà a sapere, ne avrà timore e non agirà più con
+        presunzione.
+      old_georgian: რათა ყოველსა ერსა, რომელსა ესმეს, ეშინოდის და არღარა უსჯულოებდენ.
+      portuguese: E todo o povo, ouvindo isso, temerá e nunca mais se ensoberbecerá.
+      polish: Cały lud słysząc to ulęknie się i już więcej nie będzie się unosił pychą.
+      turkish: Bütün halk bunu duyup korkacak, bir daha saygısızlık etmeye
+        kalkışmayacaktır.»
+      nrt: Весь народ услышит об этом и испугается, и впредь не будет дерзким.
+      Macarius: И весь народ услышит, и убоится, и не будут впредь поступать дерзко.
+      serbian: Да сав народ чује и боји се, и у напредак да не ради упорно.
+      bulgarian: и целият народ ще чуе, ще се уплаши, и занапред няма да постъпва дръзко.
+      deutsch: daß es alles Volk höre und sich fürchte und nicht mehr vermessen sei.
+      ukr2: І весь народ, почувши те, боятиметься, і не будуть більше чинити
+        зарозуміло.
+      ukr3: І ввесь народ мусить чути і боятись, і не чинити ме вже очайдушно.
+      bel_syomukha: і ўвесь народ пачуе і збаіцца, і ня будзе болей паводзіцца дзёрзка.
+      lev-khv: И весь народ услышит, и убоится, и не будет впредь поступать дерзко.
+      czech: Vsechen lid at to slysi a boji se a at uz nejedna opovazlive.
+      spanish: Así extirparás el mal de en medio de Israel, y tu pueblo, al saberlo,
+        temerá y no se dejará llevar de la soberbia.
+      greek-lxx: καὶ πᾶς ὁ λαὸς ἀκούσας φοβηθήσεται καὶ οὐκ ἀσεβήσει ἔτι
+      st_text: и весь народ услышит и убоится, и не будут впредь поступать дерзко.
+  - id: 36175
+    number: 14
+    bookId: 5
+    text: 'Когда ты придешь в землю, которую Господь, Бог твой, дает тебе, и
+      овладеешь ею, и поселишься на ней, и скажешь: "поставлю я над собою царя,
+      подобно прочим народам, которые вокруг меня",'
+    chapter: 17
+    chapterId: 170
+    parallels:
+      - verseId: 767
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 8
+        short: 1 Цар:8:5
+      - verseId: 28018
+        bookId: 35
+        bookCode: kniga-proroka-osii
+        chapter: 13
+        short: Ос:13:10
+      - verseId: 13159
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 13
+        short: Деян:13:21
+    translates:
+      kassian: ""
+      podstr: "Если же войдя в землю, которую Господь Бог твой даёт тебе в жребий, и
+        унаследовав её и поселишься на ней и скажешь: Поставлю над мной самим
+        начальника как и остальные народы вокруг меня,"
+      csya: "Аще же внидеши в землю, юже Господь Бог твой дает тебе в жребий, и
+        приимеши ю, и вселишися на ней, и речеши: поставлю князя над собою,
+        якоже и прочии языцы, иже окрест мене:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Ѓще же вни1деши въ зе1млю, ю4же гDь бг7ъ тво1й дае1тъ тебЁ въ
+        жре1бій, и3 пріи1меши ю5, и3 всели1шисz на не1й, и3 рече1ши: постaвлю
+        кнsзz над8 собо1ю, ћкоже и3 про1чіи kзы1цы, и5же њ1крестъ менє2:"
+      sovr_rbo: Когда вы придете в страну, которую отдает вам Господь, ваш Бог, и
+        овладеете ею, и поселитесь там, и захотите, подобно всем окрестным
+        народам, поставить над собою царя,
+      latin: "Cum ingressus fueris terram, quam Dominus Deus tuus dabit tibi, et
+        possederis eam, habitaverisque in illa, et dixeris: Constituam super me
+        regem, sicut habent omnes per circuitum nationes:"
+      ukr: "Коли ти ввійдеш до того Краю, що Господь, Бог твій, дає тобі, і посядеш
+        його, і осядеш у ньому, та й скажеш: Нехай я поставлю над собою царя, як
+        усі народи, що в моїх околицях,"
+      nkjv: "\"When you come to the land which the Lord your God is giving you, and
+        possess it and dwell in it, and say, 'I will set a king over me like all
+        the nations that are around me,' "
+      desnitsky: ""
+      mt: ‫   כִּי־תָבֹא אֶל־הָאָרֶץ אֲשֶׁר יְהוָה אֱלֹהֶיךָ נֹתֵן לָךְ וִירִשְׁתָּהּ
+        וְיָשַׁבְתָּה בָּהּ וְאָמַרְתָּ אָשִׂימָה עָלַי מֶלֶךְ כְּכָל־הַגּוֹיִם
+        אֲשֶׁר סְבִיבֹתָי׃ ‬
+      romana: "Cand vei ajunge tu in pamantul ce ti-l da Domnul Dumnezeul tau si-l vei
+        lua in stapanire si te vei aseza in el si vei zice: Imi voi pune rege
+        peste mine, ca celelalte popoare, care sunt imprejurul meu,"
+      francais: "Lorsque tu seras entré dans le pays que l'Éternel, ton Dieu, te
+        donne, lorsque tu le posséderas, que tu y auras établi ta demeure, et
+        que tu diras: Je veux mettre un roi sur moi, comme toutes les nations
+        qui m'entourent, -"
+      italian: "Quando sarai entrato nel paese che il Signore tuo Dio sta per darti e
+        ne avrai preso possesso e l'abiterai, se dirai: Voglio costituire sopra
+        di me un re come tutte le nazioni che mi stanno intorno,"
+      old_georgian: "შე-თუ-ხვიდე შენ ქუეყანასა მას, რომელ-იგი უფალმან ღმერთმან შენმან
+        მოგცეს შენ ნაწილად მკვიდრობისა შენისა და დაეშენო მუნ და მოიჴსენო გულსა
+        შენსა და სთქუა: ვიდგინო თავისა ჩემისა მთავარი, ვითარცა სხუათა ნათესავთა,
+        რომელნი-იგი გარემო არიან ჩემსა."
+      portuguese: "Quando entrares na terra que o Senhor teu Deus te dá, e a possuíres
+        e, nela habitando, disseres: Porei sobre\rmim um rei, como o fazem todas
+        as nações que estão em redor de mim;"
+      polish: "Gdy wejdziesz do kraju, który ci daje Pan, Bóg twój, gdy go posiądziesz
+        i\rw nim zamieszkasz, jeśli powiesz sobie: ”Chcę ustanowić króla nad
+        sobą, jak\rmają wszystkie okoliczne narody”,"
+      turkish: «Tanrınız RAB'bin size vereceği ülkeye girip orayı mülk edinerek
+        yerleştiğinizde ve, `Çevremizdeki ulusların tümü gibi biz de başımıza
+        bir kral atayalım' dediğinizde,
+      nrt: "Когда ты войдешь в землю, которую дает тебе Господь, твой Бог, завладеешь
+        ею, поселишься в ней и скажешь: «Поставлю-ка я над собой царя, как все
+        народы вокруг»,"
+      Macarius: "Когда ты придешь в землю, которую Иегова, Бог твой, дает тебе [в
+        удел], и возьмешь ее в наследие и поселишься на ней, и скажешь: поставлю
+        я над собою царя, подобно прочим народам, которые вокруг меня:"
+      serbian: "Кад уђеш у земљу коју ти даје Господ Бог твој да је наслиједиш и
+        населиш се у њој, ако речеш: Да поставим себи цара, као што имају сви
+        народи око мене,"
+      bulgarian: 'Кога дойдеш в земята, която Господ, Бог твой, ти дава, и я
+        завладееш, и се заселиш в нея, и кажеш: "ще си поставя цар, както
+        другите околни народи", -'
+      deutsch: "Wenn du in das Land kommst, das dir der Herr, dein Gott, geben wird,
+        und nimmst es ein und wohnst darin und wirst sagen: Ich will einen König
+        über mich setzen, wie alle Völker um mich her haben,"
+      ukr2: "Коли прийдеш у землю, що її Господь, Бог твій, хоче тобі дати, і,
+        зайнявши її та оселившись у ній, ти скажеш: Поставлю над собою царя, як
+        це в усіх народів, які довкола мене, -"
+      ukr3: "Як прийдеш у землю, що дає тобі Господь, Бог твій, і занявши її осядешся
+        в їй та скажеш: Поставлю над собою царя, як у всїх народів, що навкруги
+        мене:"
+      bel_syomukha: 'Калі ты прыйдзеш у зямлю, якую Гасподзь, Бог твой, дае табе, і
+        авалодаеш ёю, і аселішся на ёй, і скажаш: "пастаўлю я над сабою цара, як
+        і ў іншых народаў, якія вакол мяне",'
+      lev-khv: "Когда ты придешь в землю, которую Господь, Бог твой, дает тебе, и
+        овладеешь ею, и поселишься на ней, и скажешь: поставлю я над собою царя,
+        подобно прочим народам, которые вокруг меня:"
+      czech: 'Az vejdes do zeme, kterou ti dava Hospodin, tvuj Buh, obsadis ji a
+        usadis se v ni. I reknes si: "Ustanovim nad sebou krale jako vsechny
+        pronarody kolem mne."'
+      spanish: "Cuando hayas entrado en la tierra que Yavé, tu Dios, te da y te hayas
+        posesionado de ella, y establecido en ella tu morada, si te dices: Voy a
+        poner sobre mí un rey, como lo tienen todas las naciones que me rodean,"
+      greek-lxx: ἐὰν δὲ εἰσέλθῃς εἰς τὴν γῆν ἣν Κύριος ὁ Θεός σου δίδωσίν σοι ἐν κλήρῳ
+        καὶ κληρονομήσῃς αὐτὴν καὶ κατοικήσῃς ἐπ᾿ αὐτῆς καὶ εἴπῃς καταστήσω ἐπ᾿
+        ἐμαυτὸν ἄρχοντα καθὰ καὶ τὰ λοιπὰ ἔθνη τὰ κύκλῳ μου
+      st_text: 'Когда ты придешь в землю, которую Господь, Бог твой, дает тебе, и
+        овладеешь ею, и поселишься на ней, и скажешь: "поставлю я над собою
+        царя, подобно прочим народам, которые вокруг меня",'
+  - id: 36176
+    number: 15
+    bookId: 5
+    text: то поставь над собою царя, которого изберет Господь, Бог твой; из среды
+      братьев твоих поставь над собою царя; не можешь поставить над собою
+      [царем] иноземца, который не брат тебе.
+    chapter: 17
+    chapterId: 170
+    parallels:
+      - verseId: 771
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 8
+        short: 1 Цар:8:9
+      - verseId: 52
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 10
+        short: 1 Цар:10:24
+      - verseId: 53
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 10
+        short: 1 Цар:10:25
+    translates:
+      kassian: ""
+      podstr: поставляя поставишь над тобой самим начальника, которого изберёт Господь
+        Бог твой его. Из братьев твоих поставишь над тобой самим начальника; не
+        сможешь поставить над тобой самим человека чужого, потому что не брат
+        твой он есть.
+      csya: поставляя да поставиши над собою князя, егоже изберет Господь Бог твой, от
+        братии твоея да поставиши над собою князя, не возможеши поставити над
+        собою князя человека чуждаго, яко не брат твой есть.
+      averincev: ""
+      ungerov: ""
+      csya_old: поставлsz да постaвиши над8 собо1ю кнsзz, є3го1же и3збере1тъ гDь бг7ъ
+        тво1й, t брaтіи твоеS да постaвиши над8 собо1ю кнsзz, не возмо1жеши
+        постaвити над8 собо1ю кнsзz человёка чуждaго, ћкw не брaтъ тво1й є4сть.
+      sovr_rbo: то можете поставить царя — того, кого изберет Господь, ваш Бог.
+        Делайте царем одного из братьев ваших. Нельзя вручать власть чужаку,
+        иноплеменнику!
+      latin: eum constitues, quem Dominus Deus tuus elegerit de numero fratrum tuorum.
+        Non poteris alterius gentis hominem regem facere, qui non sit frater
+        tuus.
+      ukr: то, ставлячи над собою царя, якого вибере Господь, Бог твій, конче
+        з-посеред братів своїх поставиш над собою царя, не зможеш поставити над
+        собою чоловіка чужинця, що він не брат твій.
+      nkjv: you shall surely set a king over you whom the Lord your God chooses; one
+        from among your brethren you shall set as king over you; you may not set
+        a foreigner over you, who is not your brother.
+      desnitsky: ""
+      mt: ‫   שׂוֹם תָּשִׂים עָלֶיךָ מֶלֶךְ אֲשֶׁר יִבְחַר יְהוָה אֱלֹהֶיךָ בּוֹ
+        מִקֶּרֶב אַחֶיךָ תָּשִׂים עָלֶיךָ מֶלֶךְ לֹא תוּכַל לָתֵת עָלֶיךָ אִישׁ
+        נָכְרִי אֲשֶׁר לֹא־אָחִיךָ הוּא׃ ‬
+      romana: "Atunci sa-ti pui rege peste tine pe acela pe care-l va alege Domnul
+        Dumnezeul tau: dintre fratii tai sa-ti pui rege peste tine; nu vei putea
+        sa pui rege peste tine un strain, care nu este din fratii tai."
+      francais: tu mettras sur toi un roi que choisira l'Éternel, ton Dieu, tu
+        prendras un roi du milieu de tes frères, tu ne pourras pas te donner un
+        étranger, qui ne soit pas ton frère.
+      italian: dovrai costituire sopra di te come re colui che il Signore tuo Dio avrà
+        scelto. Costituirai sopra di te come re uno dei tuoi fratelli; non
+        potrai costituire su di te uno straniero che non sia tuo fratello.
+      old_georgian: არა იდგინო შენ სხუაჲ, არამედ რომელნიცა გამოირჩიოს უფალმან ღმერთმან
+        შენმან ძმათაგანვე შენთა, იგი დაიდგინო მთავრად შენ ზედა, რომელ არა ძმათა
+        შენთაგანი იყოს.
+      portuguese: "porás certamente sobre ti como rei aquele que o Senhor teu Deus
+        escolher. Porás um dentre teus irmãos como\rrei sobre ti; não poderás
+        pôr sobre ti um estrangeiro, homem que não seja de teus irmãos."
+      polish: "tego tylko ustanowisz królem, kogo sobie Pan, Bóg twój, wybierze
+        spośród\rtwych braci - tego uczynisz królem. Nie możesz ogłosić królem
+        nad sobą kogoś\robcego, kto nie byłby twoim bratem."
+      turkish: atayacağınız kral Tanrınız RAB'bin seçtiği kişi olmalıdır. Atayacağınız
+        kral kendi kardeşlerinizden biri olmalı. Soydaşlarınızdan olmayan
+        birini, bir yabancıyı kral seçmeyeceksiniz.
+      nrt: то поставь царя, которого выберет Господь, твой Бог. Он должен быть из
+        твоего народа. Не ставь над собой чужеземца, который будет не из твоего
+        народа.
+      Macarius: То поставь над собою царя, которого изберет Иегова, Бог твой; из среды
+        братий твоих поставь над собою царя; не можно тебе поставить над собою
+        [царем] иноземца, который не брат тебе.
+      serbian: Само онога постави себи за цара којега избере Господ Бог твој; између
+        браће своје постави цара себи; а немој поставити над собом човјека
+        туђина, који није брат твој.
+      bulgarian: постави си цар, когото Господ, Бог твой, избере; постави си цар
+        измежду братята си; не бива да си поставяш (за цар) чужденец, който не е
+        твой брат.
+      deutsch: so sollst du den zum König über dich setzen, den der Herr, dein Gott,
+        erwählen wird. Du sollst aber aus deinen Brüdern einen zum König über
+        dich setzen. Du darfst nicht irgend einen Fremdem, der nicht dein Bruder
+        ist, über dich setzen.
+      ukr2: то можна тобі наставити над собою царя, що його вибере Господь, Бог твій;
+        з-поміж твоїх братів поставиш над собою царя. Не управнений ти
+        настановляти над собою якогось чужоземця, що не є з твоїх братів.
+      ukr3: Так поставиш над собою царем тільки того, кого Господь, Бог твій, вибере;
+        зміж браття твого вибереш царя над собою. Не можна тобі поставити над
+        собою чужоземця, що не з твого браття.
+      bel_syomukha: дык пастаў над сабою цара, якога выбера Гасподзь, Бог твой;
+        спасярод братоў тваіх пастаў над сабою цара; ня можаш паставіць над
+        сабою іншаземца, які ня брат табе.
+      lev-khv: То поставь над собою царя, котораго изберет Господь, Бог твой; из среды
+        братий твоих поставь над собою царя; не можешь поставить над собою
+        иноземца, который не брат тебе.
+      czech: Ustanovis tedy nad sebou za krale jen toho, koho si vyvoli Hospodin, tvuj
+        Buh. Ustanovis nad sebou krale ze svych bratri. Nesmis dosadit nad sebou
+        cizince, ktery neni tvym bratrem.
+      spanish: pondrás sobre ti al rey que Yavé, tu Dios, elija; uno de tus hermanos
+        tomarás para hacerle rey sobre ti; no podrás darte por rey un extranjero
+        que no sea tu hermano;
+      greek-lxx: καθιστῶν καταστήσεις ἐπὶ σεαυτὸν ἄρχοντα ὃν ἂν ἐκλέξηται Κύριος ὁ
+        Θεός σου αὐτόν ἐκ τῶν ἀδελφῶν σου καταστήσεις ἐπὶ σεαυτὸν ἄρχοντα οὐ
+        δυνήσῃ καταστῆσαι ἐπὶ σεαυτὸν ἄνθρωπον ἀλλότριον ὅτι οὐκ ἀδελφός σού
+        ἐστιν
+      st_text: то поставь над собою царя, которого изберет Господь, Бог твой; из среды
+        братьев твоих поставь над собою царя; не можешь поставить над собою
+        [царем] иноземца, который не брат тебе.
+  - id: 36177
+    number: 16
+    bookId: 5
+    text: 'Только чтоб он не умножал себе коней и не возвращал народа в Египет для
+      умножения себе коней, ибо Господь сказал вам: "не возвращайтесь более
+      путем сим";'
+    chapter: 17
+    chapterId: 170
+    parallels:
+      - verseId: 36513
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 28
+        short: Втор:28:68
+      - verseId: 53
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 10
+        short: 1 Цар:10:25
+      - verseId: 7399
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 4
+        short: 3 Цар:4:26
+      - verseId: 6873
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 10
+        short: 3 Цар:10:28
+    translates:
+      kassian: ""
+      podstr: "Потому что не умножит себе самому конницу и [даже] нет не возвратит
+        народ в Египет, чтобы умножить себе самому конницу, же Господь сказал:
+        Не прибегнете вернуться путём этим уже."
+      csya: "Обаче да не умножит себе коней, ниже да возвратит людий во египет, яко да
+        не умножит себе коней: Господь же рече вам: не приложите возвратитися
+        путем сим ктому:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Nбaче да не ўмно1житъ себЁ ко1ней, ниже2 да возврати1тъ людjй во
+        є3гv1петъ, ћкw да не ўмно1житъ себЁ ко1ней: гDь же рече2 вaмъ: не
+        приложи1те возврати1тисz путе1мъ си1мъ ктомY:"
+      sovr_rbo: "Царь не должен держать слишком много коней, не должен отправлять
+        людей назад в Египет, чтобы приобрести побольше коней. Ведь Господь
+        сказал вам: „Вы уже не вернетесь туда, по этому пути!”"
+      latin: Cumque fuerit constitutus, non multiplicabit sibi equos, nec reducet
+        populum in Aegyptum, equitatus numero sublevatus, praesertim cum Dominus
+        praeceperit vobis ut nequaquam amplius per eamdem viam revertamini.
+      ukr: "Тільки щоб він не примножував собі коней, і не вертав народу до Єгипту,
+        щоб примножити коней, бож Господь сказав вам: Не вертайтеся вже більше
+        тією дорогою."
+      nkjv: "But he shall not multiply horses for himself, nor cause the people to
+        return to Egypt to multiply horses, for the Lord has said to you, 'You
+        shall not return that way again.' "
+      desnitsky: ""
+      mt: ‫   רַק לֹא־יַרְבֶּה־לּוֹ סוּסִים וְלֹא־יָשִׁיב אֶת־הָעָם מִצְרַיְמָה
+        לְמַעַן הַרְבּוֹת סוּס וַיהוָה אָמַר לָכֶם לֹא תֹסִפוּן לָשׁוּב
+        בַּדֶּרֶךְ הַזֶּה עוֹד׃ ‬
+      romana: "Dar sa nu-si inmulteasca acela caii si sa nu intoarca pe popor in
+        Egipt, pentru ca sa-si inmulteasca el caii, caci Domnul v-a zis: Sa nu
+        va mai intoarceri pe calea aceasta."
+      francais: "Mais qu'il n'ait pas un grand nombre de chevaux; et qu'il ne ramène
+        pas le peuple en Égypte pour avoir beaucoup de chevaux; car l'Éternel
+        vous a dit: Vous ne retournerez plus par ce chemin-là."
+      italian: "Ma egli non dovrà procurarsi un gran numero di cavalli né far tornare
+        il popolo in Egitto per procurarsi gran numero di cavalli, perché il
+        Signore vi ha detto: Non tornerete più indietro per quella via!"
+      old_georgian: "ნუუკუე ერისკრება-ყოს და განამრავლოს შენ ზედა მჴედარი და მიაქციოს
+        ერი ეგე მუნვე ეგვიპტედ, რამეთუ უფალმან ესრე თქუა: არღარა შესძინოთ თქუენ
+        მერმე მოქცევად გზასავე ამას."
+      portuguese: "Ele, porém, não multiplicará para si cavalos, nem fará voltar o
+        povo ao Egito, para multiplicar cavalos; pois o\rSenhor vos tem dito:
+        Nunca mais voltareis por este caminho."
+      polish: "Tylko nie będzie on nabywał wielu koni i nie zaprowadzi ludu do Egiptu,
+        aby\rmieć wiele koni. Powiedział bowiem wam Pan: Tą drogą nigdy wracać
+        nie\rbędziecie."
+      turkish: Kral çok sayıda at edinmemeli, daha çok at satın almak için halkı
+        Mısır'a göndermemeli. Çünkü RAB size, `Bir daha o yoldan
+        dönmeyeceksiniz' dedi.
+      nrt: "Царь не должен приобретать множества коней и отправлять народ назад в
+        Египет, чтобы приобрести еще больше, потому что Господь сказал вам: «Вы
+        не должны возвращаться этим путем»."
+      Macarius: "Только чтоб он не умножал себе коней, и не возвращал народа в Египет
+        для умножения [себе] коней; ибо Господь сказал вам: не возвращайтесь
+        более путем сим;"
+      serbian: "Али да не држи много коња, и да не враћа народа у Мисир да би имао
+        много коња, јер вам је Господ казао: Не враћајте се више овијем путем."
+      bulgarian: 'Само да не умножава конете си и да не върне народа в Египет, за да
+        умножи конете си, понеже Господ ви каза: "не се връщайте вече по тоя
+        път";'
+      deutsch: Allein daß er nicht viele Rosse halte und führe das Volk nicht wieder
+        nach Ägypten um der Menge der Rosse willen; weil der Herr euch gesagt
+        hat, daß ihr hinfort nicht wieder diesen Weg kommen sollt.
+      ukr2: "Тільки він нехай не заводить собі багато коней та нехай не повертає людей
+        у Єгипет, щоб дістати звідтіля багато коней, бо Господь наказав вам: Не
+        можна вам більше повертатися вже тією дорогою."
+      ukr3: "Тільки не буде він заводити багацько коней, і не вертати ме людей в
+        Египет, щоб можна було заводити багацько коней; бо ж Господь приказав
+        вам: Більш уже не можна вам вертатись сїєю дорогою."
+      bel_syomukha: 'Толькі каб ён ня множыў сабе коней і не вяртаў народа ў Егіпет
+        дзеля памнажэньня сабе коней, бо Гасподзь сказаў вам: "не вяртайцеся
+        больш дарогаю гэтай";'
+      lev-khv: "Только, чтобы он не умножал себе коней, и не возвращал народа в Египет
+        для умножения коней, (Господь же сказал вам: не возвращайтесь более этим
+        путем;)"
+      czech: 'Avsak at nema mnoho koni a at neuvadi lid zpatky do Egypta, aby mel vice
+        koni. Hospodin vam prece rekl: "Nikdy se uz touto cestou nevracejte."'
+      spanish: "pero que no tenga gran número de caballos ni pretenda volver al pueblo
+        a Egipto, porque Yavé, tu Dios, ha dicho: No volváis nunca jamás por ese
+        camino."
+      greek-lxx: διότι οὐ πληθυνεῖ ἑαυτῷ ἵππον οὐδὲ μὴ ἀποστρέψῃ τὸν λαὸν εἰς Αἴγυπτον
+        ὅπως πληθύνῃ ἑαυτῷ ἵππον ὁ δὲ Κύριος εἶπεν οὐ προσθήσετε ἀποστρέψαι τῇ
+        ὁδῷ ταύτῃ ἔτι
+      st_text: 'Только чтоб он не умножал себе коней и не возвращал народа в Египет
+        для умножения себе коней, ибо Господь сказал вам: "не возвращайтесь
+        более путем сим";'
+  - id: 36178
+    number: 17
+    bookId: 5
+    text: и чтобы не умножал себе жен, дабы не развратилось сердце его, и чтобы
+      серебра и золота не умножал себе чрезмерно.
+    chapter: 17
+    chapterId: 170
+    parallels:
+      - verseId: 4406
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 5
+        short: 2 Цар:5:13
+      - verseId: 6875
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 11
+        short: 3 Цар:11:1
+      - verseId: 30062
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 31
+        short: Притч:31:3
+    translates:
+      kassian: ""
+      podstr: И не умножит себе самому жён, и не измениться его сердце; и серебро и
+        золото не умножит себе самому очень.
+      csya: "и да не умножит себе жен, да не превратится сердце его: и сребра и злата
+        да не умножит себе зело."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 да не ўмно1житъ себЁ же1нъ, да не преврати1тсz се1рдце є3гw2: и3
+        сребрA и3 злaта да не ўмно1житъ себЁ ѕэлw2."
+      sovr_rbo: У царя не должно быть слишком много жен, чтобы его сердце не
+        склонилось к отступничеству. Он не должен иметь чересчур много серебра и
+        золота.
+      latin: Non habebit uxores plurimas, quae alliciant animum ejus, neque argenti et
+        auri immensa pondera.
+      ukr: І хай не примножить він собі жінок, щоб не відступило його серце, і срібла
+        та золота хай він не примножить собі дуже.
+      nkjv: Neither shall he multiply wives for himself, lest his heart turn away; nor
+        shall he greatly multiply silver and gold for himself.
+      desnitsky: ""
+      mt: ‫   וְלֹא יַרְבֶּה־לּוֹ נָשִׁים וְלֹא יָסוּר לְבָבוֹ וְכֶסֶף וְזָהָב לֹא
+        יַרְבֶּה־לּוֹ מְאֹד׃ ‬
+      romana: Sa nu-si inmulteasca femeile, ca sa nu se razvrateasca inima lui, si
+        nici argintul si aurul lui sa nu si-l inmulteasca peste masura.
+      francais: Qu'il n'ait pas un grand nombre de femmes, afin que son coeur ne se
+        détourne point; et qu'il ne fasse pas de grands amas d'argent et d'or.
+      italian: Non dovrà avere un gran numero di mogli, perché il suo cuore non si
+        smarrisca; neppure abbia grande quantità di argento e d'oro.
+      old_georgian: და ნუ განიმრავლებნ თავისა თვისისა ცოლებსა, რათა არა განდრკეს გული
+        მისი, ოქროსა და ვეცხლსა ნუ შეიკრებნ ძლიერად.
+      portuguese: "Tampouco multiplicará para si mulheres, para que o seu coração não
+        se desvie; nem multiplicará muito para si a\rprata e o ouro."
+      polish: "Nie będzie miał zbyt wielu żon, aby nie odwróciło się jego serce. Nie
+        będzie\rgromadził wielkiej ilości srebra i złota."
+      turkish: Atayacağınız kral yüreğinin RAB'den sapmaması için çok kadın
+        edinmemeli, büyük ölçüde altın, gümüş biriktirmemeli.
+      nrt: Он не должен брать себе много жен, иначе его сердце развратится. Он не
+        должен набирать для себя чрезмерно много серебра и золота.
+      Macarius: И чтоб не умножал себе жен, дабы не развратилось сердце его, и чтобы
+        серебра и золота не умножал себе чрезмерно.
+      serbian: И да нема много жена, да се не би отпадило срце његово, ни сребра ни
+        злата да нема врло много.
+      bulgarian: и да не умножава жените си, за да не се разврати сърцето му, и да не
+        трупа сребро и злато извънмерно.
+      deutsch: Er soll auch nicht viele Weiber nehmen, daß sein Herz nicht abgewandt
+        werde, und soll auch nicht viel Silber und Gold sammeln.
+      ukr2: Жінок теж нехай не заводить собі багато, щоб не відступилося його серце.
+        Так само срібла й золота нехай не нагромаджує собі занадто.
+      ukr3: Так само не буде він заводити в себе багацько жіноцтва, щоб серце його не
+        відступило. Та й срібла і золота не буде він багацько нагромаджувати в
+        себе.
+      bel_syomukha: і каб не памнажаў сабе жонак, каб не разбэсьцілася сэрца ў яго, і
+        каб срэбра і золата ня множыў сабе празьмерна.
+      lev-khv: И чтобы не умножал себе жен, дабы не развратилось сердце его, и чтобы
+        серебра и золота не умножал себе чрезмерно.
+      czech: Take at nema mnoho zen, aby se jeho srdce neodvratilo od Boha. Ani
+        stribra a zlata at nema prilis mnoho.
+      spanish: Que no tenga mujeres en gran número, para que no se desvíe su corazón;
+        ni grandes cantidades de plata y oro.
+      greek-lxx: καὶ οὐ πληθυνεῖ ἑαυτῷ γυναῖκας οὐδὲ μεταστήσεται αὐτοῦ ἡ καρδία καὶ
+        ἀργύριον καὶ χρυσίον οὐ πληθυνεῖ ἑαυτῷ σφόδρα
+      st_text: и чтобы не умножал себе жен, дабы не развратилось сердце его, и чтобы
+        серебра и золота не умножал себе чрезмерно.
+  - id: 36179
+    number: 18
+    bookId: 5
+    text: Но когда он сядет на престоле царства своего, должен списать для себя
+      список закона сего с книги, <i>находящейся</i> у священников левитов,
+    chapter: 17
+    chapterId: 170
+    parallels:
+      - verseId: 27520
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 8
+        short: Нав:8:32
+      - verseId: 6805
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 1
+        short: 3 Цар:1:13
+      - verseId: 8744
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 11
+        short: 4 Цар:11:12
+      - verseId: 6121
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 23
+        short: 2 Пар:23:11
+      - verseId: 17684
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 44
+        short: Иез:44:24
+      - verseId: 26089
+        bookId: 40
+        bookCode: kniga-proroka-mihea
+        chapter: 3
+        short: Мих:3:1
+    translates:
+      kassian: ""
+      podstr: И будет когда сядет на начальствование его, и напишет себе самому
+        второзаконие это в книгу у священников [из] левитов,
+      csya: И будет егда сядет на престоле власти своея, да напишет себе второзаконие
+        сие в книзе от жерцев левитов,
+      averincev: ""
+      ungerov: ""
+      csya_old: И# бyдетъ є3гдA сsдетъ на престо1лэ влaсти своеS, да напи1шетъ себЁ
+        второзако1ніе сіе2 въ кни1зэ t жерцє1въ леvjтwвъ,
+      sovr_rbo: Когда он взойдет на престол, пусть перепишет для себя в свиток этот
+        Закон, хранящийся у священников-левитов.
+      latin: Postquam autem sederit in solio regni sui, describet sibi Deuteronomium
+        legis hujus in volumine, accipiens exemplar a sacerdotibus Leviticae
+        tribus,
+      ukr: І станеться, як буде він сидіти на троні царства свого, то напише собі
+        відписа цього Закону з книги, що перед лицем священиків-Левитів.
+      nkjv: '"Also it shall be, when he sits on the throne of his kingdom, that he
+        shall write for himself a copy of this law in a book, from the one
+        before the priests, the Levites.'
+      desnitsky: ""
+      mt: ‫   וְהָיָה כְשִׁבְתּוֹ עַל כִּסֵּא מַמְלַכְתּוֹ וְכָתַב לוֹ אֶת־מִשְׁנֵה
+        הַתּוֹרָה הַזֹּאת עַל־סֵפֶר מִלִּפְנֵי הַכֹּהֲנִים הַלְוִיִּם׃ ‬
+      romana: Caci, cand se va sui pe scaunul regatului sau, trebuie sa-si scrie
+        pentru sine cartea legii acesteia din cartea care se afla la preotii
+        levitilor,
+      francais: Quand il s'assiéra sur le trône de son royaume, il écrira pour lui,
+        dans un livre, une copie de cette loi, qu'il prendra auprès des
+        sacrificateurs, les Lévites.
+      italian: Quando si insedierà sul trono regale, scriverà per suo uso in un libro
+        una copia di questa legge secondo l'esemplare dei sacerdoti leviti.
+      old_georgian: და იყოს, რაჟამს დაჯდეს საყდართა მათ ზედა მთავრობისა მისისათა და
+        გარდაწეროს წიგნი ესე მეორისა სჯულისაჲ წიგნთა
+      portuguese: "Será também que, quando se assentar sobre o trono do seu reino,
+        escreverá para si, num livro, uma cópia desta\rlei, do exemplar que está
+        diante dos levitas sacerdotes."
+      polish: "Gdy zasiądzie na królewskim swym tronie, sporządzi sobie na zwoju
+        odpis\rtego Prawa u tekstu kapłanów-lewitów."
+      turkish: «Kral tahtına oturunca, Levili kâhinlerin koruması altındaki Kutsal
+        Yasa'nın bir örneğini kendisi bir kitaba yazacak.
+      nrt: Заняв престол своего царства, он должен написать на свитке копию этого
+        Закона, снятую с той, что у священников из левитов.
+      Macarius: Но когда он сядет на престоле царства своего, должен списать себе
+        список закона сего с книги, святой у священников Левитов,
+      serbian: А кад сједе на пријесто царства својега, нека препише себи у књигу овај
+        закон од свештеника Левита;
+      bulgarian: А когато седне на царския си престол, нека си снеме препис на тоя
+        закон от книгата, която се намира у свещениците левити,
+      deutsch: Und wenn er nun sitzen wird auf dem Stuhl seines Königreichs, soll er
+        dies andere Gesetz von den Priestern, den Leviten, nehmen und in ein
+        Buch schreiben lassen.
+      ukr2: А коли сяде на царському престолі, то нехай Зробить собі відпис цього
+        закону згідно з книгою, що в священиків-левітів;
+      ukr3: І як сяде на царському престолї, так мусить переписати собі сей закон в
+        книгу із тієї, що лежить перед сьвященниками Левитами.
+      bel_syomukha: Але калі ён сядзе на троне царства твайго, павінен сьпісаць сабе
+        сьпіс закона гэтага з кнігі, якая ў сьвятароў лявітаў,
+      lev-khv: Но когда он сядет на престоле царства своего; то должен написать себе в
+        книгу список с этого закона, <i>находящагося</i> у священников, Левитов,
+      czech: Kdyz dosedne na svuj kralovsky trun, da si napsat do knihy opis tohoto
+        zakona, opatrovaneho levijskymi knezimi.
+      spanish: En cuanto se siente en el trono de su realeza, escribirá para sí en un
+        libro una copia de esta Ley, que se halla en poder de los sacerdotes
+        levíticos.
+      greek-lxx: καὶ ἔσται ὅταν καθίσῃ ἐπὶ τῆς ἀρχῆς αὐτοῦ καὶ γράψει ἑαυτῷ τὸ
+        δευτερονόμιον τοῦτο εἰς βιβλίον παρὰ τῶν ἱερέων τῶν Λευιτῶν
+      st_text: Но когда он сядет на престоле царства своего, должен списать для себя
+        список закона сего с книги, <i>находящейся</i> у священников левитов,
+  - id: 36180
+    number: 19
+    bookId: 5
+    text: и пусть он будет у него, и пусть он читает его во все дни жизни своей,
+      дабы научался бояться Господа, Бога своего, и старался исполнять все слова
+      закона сего и постановления сии;
+    chapter: 17
+    chapterId: 170
+    parallels:
+      - verseId: 30669
+        bookId: 22
+        bookCode: psaltir
+        chapter: 118
+        short: Пс:118:2
+      - verseId: 30685
+        bookId: 22
+        bookCode: psaltir
+        chapter: 118
+        short: Пс:118:18
+      - verseId: 30691
+        bookId: 22
+        bookCode: psaltir
+        chapter: 118
+        short: Пс:118:24
+      - verseId: 30764
+        bookId: 22
+        bookCode: psaltir
+        chapter: 118
+        short: Пс:118:97
+      - verseId: 25895
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 5
+        short: Мф:5:19
+    translates:
+      kassian: ""
+      podstr: и будет с ним, и будет читать в нём все дни жизни его, чтобы научился
+        бояться Господа Бога его сохранять все заповеди эти и требования эти
+        делать,
+      csya: "и будет с ним, и да чтет ю во вся дни жития своего, да научится боятися
+        Господа Бога своего и хранити вся заповеди сия и оправдания сия, творити
+        я:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 бyдетъ съ ни1мъ, и3 да чте1тъ ю5 во вс‰ дни6 житіS своегw2, да
+        научи1тсz боsтисz гDа бг7а своегw2 и3 храни1ти вс‰ зaпwвэди сі‰ и3
+        њправд†ніz сі‰, твори1ти |:"
+      sovr_rbo: И пусть всю жизнь держит его при себе и читает — и тогда он научится
+        бояться и чтить Господа, своего Бога, неукоснительно исполнять этот
+        Закон и все предписания.
+      latin: et habebit secum, legetque illud omnibus diebus vitae suae, ut discat
+        timere Dominum Deum suum, et custodire verba et caeremonias ejus, quae
+        in lege praecepta sunt.
+      ukr: І буде вона з ним, і буде він читати в ній усі дні свого життя, щоб учився
+        боятися Господа, Бога свого, щоб додержувати всіх слів цього Закону та
+        тих постанов, щоб виконувати їх,
+      nkjv: And it shall be with him, and he shall read it all the days of his life,
+        that he may learn to fear the Lord his God and be careful to observe all
+        the words of this law and these statutes,
+      desnitsky: ""
+      mt: ‫   וְהָיְתָה עִמּוֹ וְקָרָא בוֹ כָּל־יְמֵי חַיָּיו לְמַעַן יִלְמַד
+        לְיִרְאָה אֶת־יְהוָה אֱלֹהָיו לִשְׁמֹר אֶת־כָּל־דִּבְרֵי הַתּוֹרָה
+        הַזֹּאת וְאֶת־הַחֻקִּים הָאֵלֶּה לַעֲשֹׂתָם׃ ‬
+      romana: Si sa fie aceasta la el si el sa o citeasca in toate zilele vietii sale,
+        ca sa invete a se teme de Domnul Dumnezeul sau si sa se sileasca a
+        implini toate cuvintele legii acesteia si toate hotararile acestea,
+      francais: Il devra l'avoir avec lui et y lire tous les jours de sa vie, afin
+        qu'il apprenne à craindre l'Éternel, son Dieu, à observer et à mettre en
+        pratique toutes les paroles de cette loi et toutes ces ordonnances;
+      italian: La terrà presso di sé e la leggerà tutti i giorni della sua vita, per
+        imparare a temere il Signore suo Dio, a osservare tutte le parole di
+        questa legge e tutti questi statuti,
+      old_georgian: მღდელთაგან და ლევიტელთა და იყოს მის თანა მარადის და ჰკითხვიდეს მას
+        ყოველთა დღეთა ცხორებისა მისისათა, რათა შეისწაოს შიში უფლისა ღმრთისა
+        თჳსისაჲ და დაიმარხნეს ყოველნი ესე მცნებანი და სამართალნი და ყოს ესე.
+      portuguese: "E o terá consigo, e nele lerá todos os dias da sua vida, para que
+        aprenda a temer ao Senhor seu Deus, e a\rguardar todas as palavras desta
+        lei, e estes estatutos, a fim de os cumprir;"
+      polish: "Będzie go miał przy sobie i będzie go czytał po wszystkie dni swego
+        życia,\raby się nauczył czcić Pana, Boga swego, strzegąc wszystkich słów
+        tego Prawa\ri stosując jego postanowienia,"
+      turkish: Bu yasa örneğini yanında bulunduracak, yaşamı boyunca her gün onu
+        okuyacak. Öyle ki, Tanrısı RAB'den korkmayı, bu yasanın bütün sözlerine
+        ve kurallarına uymayı öğrensin;
+      nrt: "Она должна быть у него, и он должен читать ее всю свою жизнь, чтобы
+        учиться чтить Господа, своего Бога, и прилежно следовать всем словам
+        этого Закона и этим установлениям:"
+      Macarius: И пусть оный будет у него, и пусть он читает его во все дни жизни
+        своей; дабы научался бояться Иеговы, Бога своего, и старался исполнять
+        все слова закона сего и постановления сии;
+      serbian: И нека га држи код себе и нека га чита док је жив, да се учи бојати се
+        Господа Бога својега, држати све ријечи овога закона и ове уредбе, и
+        творити их;
+      bulgarian: и нека той да бъде у него и нека го чете през целия си живот, за да
+        се научи да се бои от Господа, своя Бог, и да заляга да изпълнява всички
+        думи на тоя закон и тия наредби;
+      deutsch: Das soll bei ihm sein, und er soll darin lesen sein Leben lang, auf daß
+        er lerne fürchten den Herrn, seinen Gott, daß er halte alle Worte dieses
+        Gesetzes und diese Rechte, daß er darnach tue.
+      ukr2: і нехай тримає його в себе та читає його, поки життя йому на світі, щоб
+        учився боятися Господа, Бога свого, та щоб додержував усіх слів цього
+        закону й виконував ці установи,
+      ukr3: І буде вона в його, і читати ме її поки життя його на сьвітї, щоб вчивсь
+        боятись Господа, Бога свого, та щоб додержував усї слова закону сього, і
+        сповняв сї встанови;
+      bel_syomukha: і няхай ён будзе ў яго, няхай ён чытае яго ва ўсе дні жыцьця
+        свайго, каб вучыцца баяцца Госпада, Бога свайго, і стараўся выконваць
+        усе словы закона гэтага і пастановы гэтыя;
+      lev-khv: И пусть он будет у него, и пусть он читает его во все дни жизни своей,
+        чтобы научался бояться Господа, Бога своего, <i>и</i> старался исполнять
+        все слова этого закона и эти уставы,
+      czech: Bude jej mit u sebe a bude v nem cist po vsechny dny sveho zivota, aby se
+        ucil bat Hospodina, sveho Boha, a bedlive dodrzoval vsechna slova tohoto
+        zakona a tato narizeni;
+      spanish: La tendrá consigo y la leerá todos los días de su vida, para que
+        aprenda a temer a Yavé, su Dios, y a guardar todas las palabras de esta
+        Ley y todos estos mandamientos, y los ponga por obra,
+      greek-lxx: καὶ ἔσται μετ᾿ αὐτοῦ καὶ ἀναγνώσεται ἐν αὐτῷ πάσας τὰς ἡμέρας τῆς
+        ζωῆς αὐτοῦ ἵνα μάθῃ φοβεῖσθαι Κύριον τὸν Θεὸν αὐτοῦ φυλάσσεσθαι πάσας
+        τὰς ἐντολὰς ταύτας καὶ τὰ δικαιώματα ταῦτα ποιεῖν
+      st_text: и пусть он будет у него, и пусть он читает его во все дни жизни своей,
+        дабы научался бояться Господа, Бога своего, и старался исполнять все
+        слова закона сего и постановления сии;
+  - id: 36181
+    number: 20
+    bookId: 5
+    text: чтобы не надмевалось сердце его пред братьями его, и чтобы не уклонялся он
+      от закона ни направо, ни налево, дабы долгие дни пребыл на царстве своем
+      он и сыновья его посреди Израиля.
+    chapter: 17
+    chapterId: 170
+    parallels:
+      - verseId: 26896
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 1
+        short: Нав:1:7
+      - verseId: 26897
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 1
+        short: Нав:1:8
+      - verseId: 30932
+        bookId: 22
+        bookCode: psaltir
+        chapter: 130
+        short: Пс:130:2
+    translates:
+      kassian: ""
+      podstr: чтобы не было возвышено сердце его перед братьями его, чтобы не
+        преступил от заповедей вправо или влево, чтобы был долгое время во
+        власти его, он и сыновья его среди сыновей Израиля.
+      csya: да не возвысится сердце его от братии его, да не преступит от заповедий ни
+        на десно, ни на лево яко да будет многа лета во власти своей, той и сыны
+        его с ним, в сынех израилевых.
+      averincev: ""
+      ungerov: ""
+      csya_old: да не возвы1ситсz се1рдце є3гw2 t брaтіи є3гw2, да не престyпитъ t
+        зaповэдій ни на де1сно, ни на лёво, ћкw да бyдетъ мнHга лBта во влaсти
+        свое1й, то1й и3 сы1ны є3гw2 съ ни1мъ, въ сынёхъ ї}левыхъ.
+      sovr_rbo: И не станет он возноситься над соплеменниками, не станет отклоняться
+        от этих повелений ни вправо, ни влево — и тогда он и потомки его будут
+        долго править Израилем.
+      latin: Nec elevetur cor ejus in superbiam super fratres suos, neque declinet in
+        partem dexteram vel sinistram, ut longo tempore regnet ipse et filii
+        ejus super Israel.
+      ukr: щоб не гордувало серце його своїми братами, і щоб не збочував він ні
+        праворуч, ні ліворуч від цієї заповіді, щоб продожив дні на своїм
+        царстві він та сини його серед Ізраїля.
+      nkjv: that his heart may not be lifted above his brethren, that he may not turn
+        aside from the commandment to the right hand or to the left, and that he
+        may prolong his days in his kingdom, he and his children in the midst of
+        Israel.
+      desnitsky: ""
+      mt: ‫   לְבִלְתִּי רוּם־לְבָבוֹ מֵאֶחָיו וּלְבִלְתִּי סוּר מִן־הַמִּצְוָה יָמִין
+        וּשְׂמֹאול לְמַעַן יַאֲרִיךְ יָמִים עַל־מַמְלַכְתּוֹ הוּא וּבָנָיו
+        בְּקֶרֶב יִשְׂרָאֵל׃ ס ‬
+      romana: Ca sa nu se ingamfe inima lui fata de fratii lui si ca sa nu se abata el
+        de la lege nici la dreapta, nici la stanga, ci ca sa fie el si fiii lui
+        zile multe la domnie in Israel".
+      francais: afin que son coeur ne s'élève point au-dessus de ses frères, et qu'il
+        ne se détourne de ces commandements ni à droite ni à gauche; afin qu'il
+        prolonge ses jours dans son royaume, lui et ses enfants, au milieu
+        d'Israël.
+      italian: perché il suo cuore non si insuperbisca verso i suoi fratelli ed egli
+        non si allontani da questi comandi, né a destra, né a sinistra, e
+        prolunghi così i giorni del suo regno, lui e i suoi figli, in mezzo a
+        Israele.
+      old_georgian: რათა არა აღმაღლდეს გული მისი ძმათაგან თჳსთა და გარდააქციოს სჯულისა
+        მისგან მარჯულ, ანუ მარცხლ, რათა დღეგრძელ იყოს მთავრობასა მას ზედა მისსა
+        იგი და შვილნი მისნი შორის ძეთა მათ ისრაჱლისათა.
+      portuguese: "para que seu coração não se exalte sobre seus irmãos, e não se
+        aparte do mandamento, nem para a direita nem\rpara a esquerda; a fim de
+        que prolongue os seus dias no seu reino, ele e seus filhos, no meio de
+        Israel."
+      polish: "by uniknąć wynoszenia się nad swych braci i zbaczania od przykazań
+        na\rprawo czy też na lewo, aby długo królował on i synowie jego w
+        Izraelu."
+      turkish: kendini kardeşlerinden üstün saymasın, yasanın dışına çıkmasın;
+        kendinin ve soyunun krallığı İsrail'de uzun yıllar sürsün.»
+      nrt: не мнить себя лучше всех своих братьев и не уклоняться от заповеди ни
+        вправо, ни влево. Тогда он и его потомки будут долгое время царствовать
+        над Израилем.
+      Macarius: Чтобы не надмевалось сердце его пред братиями его, и чтобы не
+        уклонялся он от заповедей сих ни направо, ни налево; дабы долгое время
+        пребыл на царстве своем он и сыны его [с ним,] среди [сынов] Израиля.
+      serbian: Да се не би подигло срце његово изнад браће његове, и да не би
+        одступило од ове заповијести ни надесно ни налијево, да би дуго царовао
+        он и синови његови у Израиљу.
+      bulgarian: за да се не разгордява сърцето му пред неговите братя, и да се не
+        отклонява от закона ни надясно, ни наляво, за да остане за дълги дни на
+        царството си той и синовете му среди Израиля.
+      deutsch: Er soll sein Herz nicht erheben über seine Brüder und soll nicht
+        weichen von dem Gebot, weder zur Rechten noch zur Linken, auf daß er
+        seine Tage verlängere in seinem Königreich, er und seine Kinder in
+        Israel.
+      ukr2: щоб його серце не зносилось понад своїми братами й щоб він не відступав
+        від заповіді ні ліворуч, ні праворуч, щоб він довго жив, царювавши, він
+        сам і його сини в Ізраїлі.»
+      ukr3: Щоб серце його не виносилось над браттєю його, і щоб не відступав він від
+        заповідї нї праворуч нї лїворуч, та щоб довго він жив царствуючи, він
+        сам і сини його серед Ізраїля.
+      bel_syomukha: каб не надзімалася сэрца ягонае перад братамі ягонымі, і каб ня
+        ўхіляўся ён ад закона ні направа, ні налева, каб доўгія дні заставаўся
+        на царстве сваім ён і сыны ягоныя сярод Ізраіля.
+      lev-khv: Чтобы не надмевалось сердце его пред братиями его, <i>и </i>чтобы не
+        уклонялся он от закона ни на право, ни на лево, дабы долгое время пребыл
+        на царстве своем, он и сыны его среди Израиля.
+      czech: aby se jeho srdce nevypinalo nad jeho bratry a neuchyloval se od prikazu
+        napravo ani nalevo; aby byl dlouho ziv ve svem kralovstvi uprostred
+        Izraele on i jeho synove.
+      spanish: para que no se alce su corazón sobre el de sus hermanos y no se aparte
+        ni a la derecha ni a la izquierda, y así prolongue los días de su
+        reinado, él y sus hijos, en medio de Israel.
+      greek-lxx: ἵνα μὴ ὑψωθῇ ἡ καρδία αὐτοῦ ἀπὸ τῶν ἀδελφῶν αὐτοῦ ἵνα μὴ παραβῇ ἀπὸ
+        τῶν ἐντολῶν δεξιὰ ἢ ἀριστερά ὅπως ἂν μακροχρονίσῃ ἐπὶ τῆς ἀρχῆς αὐτοῦ
+        αὐτὸς καὶ οἱ υἱοὶ αὐτοῦ ἐν τοῖς υἱοῖς Ισραηλ
+      st_text: чтобы не надмевалось сердце его пред братьями его, и чтобы не уклонялся
+        он от закона ни направо, ни налево, дабы долгие дни пребыл на царстве
+        своем он и сыновья его посреди Израиля.

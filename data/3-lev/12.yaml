@@ -1,0 +1,747 @@
+id: 102
+number: 12
+bookId: 3
+verseCount: 8
+title: Глава 12
+verses:
+  - id: 23009
+    number: 1
+    bookId: 3
+    text: "И сказал Господь Моисею, говоря:"
+    chapter: 12
+    chapterId: 102
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "И сказал Господь к Моисею говоря:"
+      csya: "И рече Господь к моисею, глаголя:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 гDь къ мwmсе1ю, гlz:"
+      sovr_rbo: "Господь сказал Моисею:"
+      latin: "Locutusque est Dominus ad Moysen, dicens:"
+      ukr: "І Господь промовляв до Мойсея, говорячи:"
+      nkjv: Then the Lord spoke to Moses, saying,
+      desnitsky: ""
+      mt: ‫   וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה לֵּאמֹר׃ ‬
+      romana: "Si a grait Domnul lui Moise si a zis:"
+      francais: "L'Éternel parla à Moïse, et dit:"
+      italian: 'Il Signore aggiunse a Mosè: "Riferisci agli Israeliti:'
+      old_georgian: "და ეტყოდა უფალი მოსეს და ჰრქუა: ეტყოდე შენ ძეთა ისრაჱლისათა"
+      portuguese: "Disse mais o Senhor a Moisés:"
+      polish: "Dalej powiedział Pan do Mojżesza:"
+      turkish: "RAB Musa'ya şöyle dedi:"
+      nrt: "Господь сказал Моисею:"
+      Macarius: "И говорил Господь Моисею, и сказал:"
+      bulgarian: "И каза Господ на Моисея, думайки:"
+      deutsch: "Und der Herr redete mit Mose und sprach:"
+      ukr2: "Заговорив Господь до Мойсея, кажучи:"
+      ukr3: "І рече Господь Мойсейові: Промов до синів Ізрайлевих і кажи:"
+      bel_syomukha: "І наказаў Гасподзь Майсею сказаць:"
+      spbda: "И сказал Господь Моисею, говоря:"
+      lev-khv: "И сказал Господь Моисею, говоря:"
+      czech: "Hospodin promluvil k Mojzisovi:"
+      spanish: "Yavé habló a Moisés, diciendo:"
+      greek-lxx: καὶ ἐλάλησεν Κύριος πρὸς Μωυσῆν λέγων
+      st_text: "И сказал Господь Моисею, говоря:"
+  - id: 23010
+    number: 2
+    bookId: 3
+    text: "скажи сынам Израилевым: если женщина зачнет и родит <i>младенца</i>
+      мужеского пола, то она нечиста будет семь дней; как во дни страдания ее
+      очищением, она будет нечиста;"
+    chapter: 12
+    chapterId: 102
+    parallels:
+      - verseId: 24300
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 2
+        short: Лк:2:22
+    translates:
+      kassian: ""
+      podstr: "Скажи сыновьям Израиля и скажешь к ним: Жена, та, которая если зачнёт и
+        родит ребёнка мужского пола, и нечистая будет семь дней, согласно дней
+        отделения отходящего её нечистая будет;"
+      csya: "глаголи сыном израилевым и речеши к ним, глаголя: жена, яже аще зачнет и
+        родит мужеск пол, нечиста будет седмь дний: по днем (естественнаго)
+        разлучения скверны ея, нечиста будет:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "глаго1ли сынHмъ ї}лєвымъ и3 рече1ши къ ни6мъ, глаго1лz: женA, ћже ѓще
+        зачне1тъ и3 роди1тъ мyжескъ по1лъ, нечистA бyдетъ се1дмь днjй: по днє1мъ
+        (є3сте1ственнагw) разлуче1ніz скве1рны є3S, нечистA бyдетъ:"
+      sovr_rbo: "«Возвести сынам Израилевым: если женщина родит и у нее будет сын, то
+        семь дней она будет нечиста, как во время месячных;"
+      latin: "Loquere filiis Israel, et dices ad eos: Mulier, si suscepto semine
+        pepererit masculum, immunda erit septem diebus juxta dies separationis
+        menstruae."
+      ukr: "Промовляй до Ізраїлевих синів, говорячи: Коли жінка зачне, і породить дитя
+        чоловічої статі, то буде нечиста сім день; як за днів нечистоти
+        місячного її, буде нечиста вона."
+      nkjv: "\"Speak to the children of Israel, saying: 'If a woman has conceived, and
+        borne a male child, then she shall be unclean seven days; as in the days
+        of her customary impurity she shall be unclean. "
+      desnitsky: ""
+      mt: ‫   דַּבֵּר אֶל־בְּנֵי יִשְׂרָאֵל לֵאמֹר אִשָּׁה כִּי תַזְרִיעַ וְיָלְדָה
+        זָכָר וְטָמְאָה שִׁבְעַת יָמִים כִּימֵי נִדַּת דְּוֺתָהּ תִּטְמָא׃ ‬
+      romana: '"Graieste fiilor lui Israel si le zi: Daca femeia va zamisli si va
+        naste prunc de parte barbateasca, necurata va fi sapte zile, cum e
+        necurata si in zilele regulei ei.'
+      francais: "Parle aux enfants d'Israël, et dis: Lorsqu'une femme deviendra
+        enceinte, et qu'elle enfantera un mâle, elle sera impure pendant sept
+        jours; elle sera impure comme au temps de son indisposition
+        menstruelle."
+      italian: Quando una donna sarà rimasta incinta e darà alla luce un maschio, sarà
+        immonda per sette giorni; sarà immonda come nel tempo delle sue regole.
+      old_georgian: "და არქუ მათ: დედაკაცმან, რომელმან მუცლად-იღოს თესლი და შვეს წული,
+        არაწმიდა იყოს იგი შჳდ დღე, მუნ დღენდმდე განწმედისა წიდოვანებისა მისისა
+        არაწმიდა იყოს."
+      portuguese: "Fala aos filhos de Israel, dizendo: Se uma mulher conceber e tiver
+        um menino, será imunda sete dias; assim como\rnos dias da impureza da
+        sua enfermidade, será imunda."
+      polish: "”Powiedz do Izraelitów: Jeżeli kobieta zaszła w ciążę i urodziła
+        chłopca, pozostanie przez siedem dni nieczysta, tak samo jak podczas
+        stanu nieczystości\rspowodowanego przez miesięczne krwawienie."
+      turkish: "«İsrail halkına de ki, `Bir kadın\rhamile kalıp erkek çocuk doğurursa,
+        âdet gördüğü günlerde olduğu gibi yedi gün kirli sayılacaktır."
+      nrt: "– Скажи израильтянам: «Женщина, которая забеременела и родила сына, будет
+        нечиста семь дней, как во время месячных."
+      Macarius: "Скажи сынам Израилевым: если женщина зачнет и родит младенца
+        мужеского пола, то она нечиста будет семь дней; во время нечистот
+        болезни своей она будет нечиста."
+      bulgarian: "кажи на синовете Израилеви: жена, кога зачене и роди мъжко, да бъде
+        нечиста седем дена; тя ще бъде нечиста, както през дните на месечното си
+        страдание от очистяне;"
+      deutsch: "Rede mit den Kindern Israel und sprich: Wenn ein Weib empfängt und
+        gebiert ein Knäblein, so soll sie sieben Tage unrein sein, wie wenn sie
+        ihre Krankheit leidet."
+      ukr2: "«Промов до синів Ізраїля таке: Коли жінка завагітніє й вродить хлоп'ятко,
+        буде нечистою сім днів; як під час місячного спливу, буде нечистою."
+      ukr3: Коли жінка буде при надїї і вродить хлопятко, так нечистою буде вона сїм
+        день; як у днї нечистої недуги буде вона нечистою.
+      bel_syomukha: "скажы сынам Ізраілевым: калі жанчына зачне і народзіць немаўля
+        мужчынскага полу, дык яна нячыстая будзе сем дзён; як у дні пакутніцтва
+        яе ачышчэньнем, яна будзе нячыстая;"
+      spbda: "Скажи сынам Израилевым: если женщина зачнет и родит младенца мужескаго
+        пола, то она нечиста будет семь дней; как во дни страдания ея очищением,
+        она будет нечиста."
+      lev-khv: "Скажи сынам Израилевым так: если женщина зачнет и родит
+        <i>младенца</i> мужескаго пола, то она нечиста будет семь дней; как во
+        дни страдания ея очищением, она будет нечиста."
+      czech: "„Mluv k Izraelcum: Kdyz zena otehotni a porodi chlapce, bude necista po
+        sedm dni; bude necista jako v dobe sveho obvykleho krvaceni."
+      spanish: "<<Habla a los hijos de Israel y diles: Cuando dé a luz una mujer y
+        tenga un hijo, será impura durante siete días; será impura como en el
+        tiempo de la menstruación."
+      greek-lxx: λάλησον τοῖς υἱοῖς Ισραηλ καὶ ἐρεῖς πρὸς αὐτούς γυνή ἥτις ἐὰν
+        σπερματισθῇ καὶ τέκῃ ἄρσεν καὶ ἀκάθαρτος ἔσται ἑπτὰ ἡμέρας κατὰ τὰς
+        ἡμέρας τοῦ χωρισμοῦ τῆς ἀφέδρου αὐτῆς ἀκάθαρτος ἔσται
+      st_text: "скажи сынам Израилевым: если женщина зачнет и родит <i>младенца</i>
+        мужеского пола, то она нечиста будет семь дней; как во дни страдания ее
+        очищением, она будет нечиста;"
+  - id: 23011
+    number: 3
+    bookId: 3
+    text: в восьмой же день обрежется у него крайняя плоть его;
+    chapter: 12
+    chapterId: 102
+    parallels:
+      - verseId: 9862
+        bookId: 1
+        bookCode: bytie
+        chapter: 17
+        short: Быт:17:10
+      - verseId: 24299
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 2
+        short: Лк:2:21
+      - verseId: 18633
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 7
+        short: Ин:7:22
+    translates:
+      kassian: ""
+      podstr: и [в] день восьмой [да] обрежет плоть необрезания его;
+      csya: "и в день осмый да обрежет плоть конечную его:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 въ де1нь nсмы1й да њбрёжетъ пло1ть коне1чную є3гw2:"
+      sovr_rbo: на восьмой день следует обрезать крайнюю плоть младенца.
+      latin: "Et die octavo circumcidetur infantulus:"
+      ukr: А восьмого дня буде обрізане тіло крайньої плоті його.
+      nkjv: And on the eighth day the flesh of his foreskin shall be circumcised.
+      desnitsky: ""
+      mt: ‫   וּבַיּוֹם הַשְּׁמִינִי יִמּוֹל בְּשַׂר עָרְלָתוֹ׃ ‬
+      romana: Iar in ziua a opta se va taia pruncul imprejur.
+      francais: Le huitième jour, l'enfant sera circoncis.
+      italian: L'ottavo giorno si circonciderà il bambino.
+      old_georgian: და დღესა მერვესა წინადასცჳთოს სხეული წინადაცუეთილებისა მისისაჲ.
+      portuguese: E no dia oitavo se circuncidará ao menino a carne do seu prepúcio.
+      polish: Ósmego dnia [chłopiec] zostanie obrzezany.
+      turkish: Çocuk sekizinci gün sünnet edilmeli.
+      nrt: На восьмой день мальчику должно быть сделано обрезание.
+      Macarius: В восьмой же день обрежется у него крайняя плоть его.
+      bulgarian: а на осмия ден да му обрежат крайната плът;
+      deutsch: Und am achten Tage soll man das Fleisch seiner Vorhaut beschneiden.
+      ukr2: А восьмого дня обріжуть крайню плоть у нього,
+      ukr3: А восьмого дня обріжуть крайню шкірочку в його.
+      bel_syomukha: а на восьмы дзень абрэжацца крайняя плоць ягоная;
+      spbda: А в осьмой день должно обрезать крайнюю плоть его.
+      lev-khv: А в восьмой день должно обрезать крайнюю плоть его.
+      czech: Osmeho dne bude obrezana jeho predkozka.
+      spanish: El octavo día será circuncidado el hijo,
+      greek-lxx: καὶ τῇ ἡμέρᾳ τῇ ὀγδόῃ περιτεμεῖ τὴν σάρκα τῆς ἀκροβυστίας αὐτοῦ
+      st_text: в восьмой же день обрежется у него крайняя плоть его;
+  - id: 23012
+    number: 4
+    bookId: 3
+    text: и тридцать три дня должна она сидеть, очищаясь от кровей своих; ни к чему
+      священному не должна прикасаться и к святилищу не должна приходить, пока
+      не исполнятся дни очищения ее.
+    chapter: 12
+    chapterId: 102
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и тридцать дней и три сядет в крови нечистой её, всякого святого не [да]
+        будет касаться и в святилище не будет входить, доколе будут исполнены
+        дни очищения её.
+      csya: "и сидети будет тридесять и три дни в крови нечистей своей: всякой вещи
+        святей да не прикоснется и в святилище да не внидет, дондеже скончаются
+        дние очищения ея."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 сидёти бyдетъ три1десzть и3 три2 дни6 въ кро1ви нечи1стэй свое1й:
+        всsкой ве1щи с™ёй да не прико1снетсz и3 въ свzти1лище да не вни1детъ,
+        до1ндеже скончaютсz днjе њчище1ніz є3S."
+      sovr_rbo: Очищение этой женщины от кровяных выделений будет длиться тридцать три
+        дня; пусть она не прикасается ни к чему священному и не приближается к
+        святилищу, пока не закончится ее очищение.
+      latin: ipsa vero triginta tribus diebus manebit in sanguine purificationis suae.
+        Omne sanctum non tanget, nec ingredietur in sanctuarium, donec
+        impleantur dies purificationis suae.
+      ukr: І буде вона сидіти в крові очищення тридцять день і три дні. До всякої
+        святощі не буде вона доторкатися, а до святині не ввійде аж до
+        виповнення днів очищення її.
+      nkjv: She shall then continue in the blood of her purification thirty-three
+        days. She shall not touch any hallowed thing, nor come into the
+        sanctuary until the days of her purification are fulfilled.
+      desnitsky: ""
+      mt: ‫   וּשְׁלֹשִׁים יוֹם וּשְׁלֹשֶׁת יָמִים תֵּשֵׁב בִּדְמֵי טָהֳרָה
+        בְּכָל־קֹדֶשׁ לֹא־תִגָּע וְאֶל־הַמִּקְדָּשׁ לֹא תָבֹא עַד־מְלֹאת יְמֵי
+        טָהֳרָהּ׃ ‬
+      romana: Femeia sa mai sada treizeci si trei de zile si sa se curate de sangele
+        sau; de nimic sfant sa nu se atinga, si la locasul sfant sa nu mearga,
+        pana se vor implini zilele curatirii ei.
+      francais: Elle restera encore trente-trois jours à se purifier de son sang; elle
+        ne touchera aucune chose sainte, et elle n'ira point au sanctuaire,
+        jusqu'à ce que les jours de sa purification soient accomplis.
+      italian: Poi essa resterà ancora trentatré giorni a purificarsi dal suo sangue;
+        non toccherà alcuna cosa santa e non entrerà nel santuario, finché non
+        siano compiuti i giorni della sua purificazione.
+      old_georgian: და ჯდეს იგი ოცდაათცამეტ დღე სისხლითა არაწმიდითა მისითა და ყოველსა
+        წმიდასა არა შეეხოს და სიწმიდესა არა შევიდეს ვიდრემდე აღესრულნენ დღენი
+        იგი განწმედისა მისისანი.
+      portuguese: "Depois permanecerá ela trinta e três dias no sangue da sua
+        purificação; em nenhuma coisa sagrada tocará, nem\rentrará no santuário
+        até que se cumpram os dias da sua purificação."
+      polish: "Potem ona pozostanie przez trzydzieści trzy dni dla oczyszczenia krwi:
+        nie\rbędzie dotykać niczego świętego i nie będzie wchodzić do świątyni,
+        dopóki\rnie skończą się dni jej oczyszczenia."
+      turkish: Kadın kanamasından paklanmak için otuz üç gün bekleyecek. Pak sayılması
+        için geçmesi gereken bu günler doluncaya dek kutsal bir şeye
+        dokunmayacak, tapınağa girmeyecek.
+      nrt: Затем женщина должна ждать тридцать три дня, чтобы очиститься от
+        кровотечения. Пусть она не прикасается к священным предметам и не ходит
+        в святилище, пока не пройдут дни очищения.
+      Macarius: И тридцать три дня должна она сидеть, очищаясь от кровей своих; ни к
+        чему священному не должна прикасаться, и к святилищу не должна
+        приходить, пока не исполнятся дни очищения ее.
+      bulgarian: и трийсет и три дена тя трябва да седи, за да се очисти от кървите
+        си; тя не бива да се допира до нищо свещено и не трябва да се доближава
+        до светилището, докато не изтекат дните на очистянето й.
+      deutsch: Und sie soll daheimbleiben dreiunddreißig Tage im Blut ihrer Reinigung.
+        Kein Heiliges soll sie anrühren, und zum Heiligtum soll sie nicht
+        kommen, bis daß die Tage ihrer Reinigung aus sind.
+      ukr2: вона ж тридцять три дні нехай сидить у хаті, очищаючись від крови; ні до
+        чого святого нехай не доторкається й до святині нехай не заходить, поки
+        не сповняться дні очищення її.
+      ukr3: І трийцять три днї мусить вона пробувати в кровочищенню своїм, нї до чого
+        сьвятого не доторкатись, і до сьвятинї не приходити, покіль минуться днї
+        очищення її.
+      bel_syomukha: і трыццаць тры дні павінна яна сядзець, ачышчаючыся ад крывей
+        сваіх; ні да чога сьвяшчэннага не павінна дакранацца і да сьвяцілішча не
+        павінна падыходзіць, пакуль ня мінуцца дні ачышчэньня яе.
+      spbda: И тридцать три дня должна она оставаться в крови очищения; ни к чему
+        священному не должна прикасаться, и во святилище не должна входить, пока
+        не исполнятся дни очищения ея.
+      lev-khv: И тридцать три дня должна она оставаться в крови очищения; ни к чему
+        священному не должна прикасаться, и во святилище не должна входить, пока
+        не исполнятся дни очищения ея.
+      czech: Matka pak setrva v ocistovani od krve jeste po tricet tri dny. Nedotkne
+        se niceho svateho a nevejde do svatyne, dokud neskonci dny jejiho
+        ocistovani.
+      spanish: pero ella quedará todavía en casa durante treinta y tres días en la
+        sangre de su purificación; no tocará nada santo ni irá al santuario
+        hasta que se cumplan los días de su purificación.
+      greek-lxx: καὶ τριάκοντα ἡμέρας καὶ τρεῖς καθήσεται ἐν αἵματι ἀκαθάρτῳ αὐτῆς
+        παντὸς ἁγίου οὐχ ἅψεται καὶ εἰς τὸ ἁγιαστήριον οὐκ εἰσελεύσεται ἕως ἂν
+        πληρωθῶσιν αἱ ἡμέραι καθάρσεως αὐτῆς
+      st_text: и тридцать три дня должна она сидеть, очищаясь от кровей своих; ни к
+        чему священному не должна прикасаться и к святилищу не должна приходить,
+        пока не исполнятся дни очищения ее.
+  - id: 23013
+    number: 5
+    bookId: 3
+    text: Если же она родит <i>младенца</i> женского пола, то во время очищения
+      своего она будет нечиста две недели, и шестьдесят шесть дней должна
+      сидеть, очищаясь от кровей своих.
+    chapter: 12
+    chapterId: 102
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Если же ребёнка женского пола родит, и нечистая будет дважды семь дней
+        согласно отходящего; и шестьдесят дней и шесть будет сидеть в крови
+        нечистой её.
+      csya: Аще же женск пол родит, и нечиста будет четыренадесять дний по
+        (естественней) скверне ея, и шестьдесят и шесть дний сидети будет в
+        крови нечистоты своея.
+      averincev: ""
+      ungerov: ""
+      csya_old: Ѓще же же1нскъ по1лъ роди1тъ, и3 нечистA бyдетъ четыренaдесzть днjй по
+        (є3сте1ственнэй) скве1рнэ є3S, и3 шестьдесsтъ и3 ше1сть днjй сидёти
+        бyдетъ въ кро1ви нечистоты2 своеS.
+      sovr_rbo: Родившая же девочку две недели будет нечиста, как во время месячных;
+        после этого шестьдесят шесть дней будет длиться ее очищение от кровяных
+        выделений.
+      latin: Sin autem feminam pepererit, immunda erit duabus hebdomadibus juxta ritum
+        fluxus menstrui, et sexaginta sex diebus manebit in sanguine
+        purificationis suae.
+      ukr: А якщо породить дитя жіночої статі, то буде нечиста вона два тижні, як за
+        нечистости її місячної, і буде сидіти вона на крові очищення шістдесят
+        день і шість день.
+      nkjv: But if she bears a female child, then she shall be unclean two weeks, as
+        in her customary impurity, and she shall continue in the blood of her
+        purification sixty-six days.
+      desnitsky: ""
+      mt: ‫   וְאִם־נְקֵבָה תֵלֵד וְטָמְאָה שְׁבֻעַיִם כְּנִדָּתָהּ וְשִׁשִּׁים יוֹם
+        וְשֵׁשֶׁת יָמִים תֵּשֵׁב עַל־דְּמֵי טָהֳרָה׃ ‬
+      romana: Iar de va naste fata, necurata va fi doua saptamani, ca si in timpul
+        regulei ei; apoi sa mai stea saizeci si sase de zile pentru a se curati
+        de sangele sau.
+      francais: Si elle enfante une fille, elle sera impure pendant deux semaines,
+        comme au temps de son indisposition menstruelle; elle restera
+        soixantesix jours à se purifier de son sang.
+      italian: Ma, se partorisce una femmina sarà immonda due settimane come al tempo
+        delle sue regole; resterà sessantasei giorni a purificarsi del suo
+        sangue.
+      old_georgian: უკუეთუ ქალი შვეს, არაწმიდა იყოს იგი ორწილ შჳდ დღე მსგავსად
+        წიდოვანებისა მისისა და სამეოცდაექუს დღე ჯდეს იგი სისხლითა არაწმიდითა
+        მისითა.
+      portuguese: "Mas, se tiver uma menina, então será imunda duas semanas, como na
+        sua impureza; depois permanecerá\rsessenta e seis dias no sangue da sua
+        purificação."
+      polish: "Jeżeli zaś urodzi dziewczynkę, będzie nieczysta przez dwa tygodnie, tak
+        jak\rpodczas miesięcznego krwawienia. Potem pozostanie przez
+        sześćdziesiąt sześć\rdni dla oczyszczenia krwi."
+      turkish: Ancak, kız çocuk doğurursa, âdet gördüğü günler gibi iki hafta kirli
+        sayılacaktır. Kanamasından paklanmak için altmış altı gün bekleyecektir.
+      nrt: Если она родит дочь, то будет нечиста две недели, как во время месячных.
+        Затем она должна ждать шестьдесят шесть дней, чтобы очиститься от
+        кровотечения.
+      Macarius: Если же она родит младенца женского пола, то во время нечистот своих
+        она будет нечиста две седмицы, и шестьдесят шесть дней должна сидеть,
+        очищаясь от кровей своих.
+      bulgarian: Ако пък роди женско, то през време на очистянето си да бъде нечиста
+        две седмици, и шестдесет и шест дена да седи, за да се очисти от кървите
+        си.
+      deutsch: Gebiert sie aber ein Mägdlein, so soll sie zwei Wochen unrein sein, wie
+        wenn sie ihre Krankheit leidet, und soll sechsundsechzig Tage
+        daheimbleiben in dem Blut ihrer Reinigung.
+      ukr2: Якщо вродить дівчатко, буде нечистою два тижні, як під час спливу;
+        шістдесят шість днів сидітиме вдома, очищаючись від крови.
+      ukr3: А коли вродить дївчатко, нечистою буде два тижнї, як в днї нечистої недуги
+        своєї, і шістьдесять шість день перебувати мусить дома в кровочищенню
+        своїм.
+      bel_syomukha: калі ж яна народзіць немаўля жаночага полу, дык падчас ачышчэньня
+        свайго яна будзе нячыстая два тыдні, і шэсьцьдзясят шэсьць дзён трэба
+        сядзець, ачышчаючыся ад крывей сваіх.
+      spbda: Если же она родит младенца женскаго пола, то она будет так нечиста две
+        недели, как при очищении, и шестьдесят шесть дней должна оставаться в
+        крови очищения.
+      lev-khv: Если же она родит <i>младенца</i> женскаго пола; то она будет
+        <i>так</i> нечиста две недели, как при очищении, и шестьдесят шесть дней
+        должна оставаться в крови очищения.
+      czech: Jestlize porodi devce, bude necista dva tydny jako pri svem krvaceni a
+        jeste po sedesat sest dni setrva v ocistovani od krve.
+      spanish: Si da a luz hija, será impura durante dos semanas, como al tiempo de su
+        menstruación, y se quedará en casa durante sesenta y seis días en la
+        sangre de su purificación.
+      greek-lxx: ἐὰν δὲ θῆλυ τέκῃ καὶ ἀκάθαρτος ἔσται δὶς ἑπτὰ ἡμέρας κατὰ τὴν ἄφεδρον
+        καὶ ἑξήκοντα ἡμέρας καὶ ἓξ καθεσθήσεται ἐν αἵματι ἀκαθάρτῳ αὐτῆς
+      st_text: Если же она родит <i>младенца</i> женского пола, то во время очищения
+        своего она будет нечиста две недели, и шестьдесят шесть дней должна
+        сидеть, очищаясь от кровей своих.
+  - id: 23014
+    number: 6
+    bookId: 3
+    text: По окончании дней очищения своего за сына или за дочь она должна принести
+      однолетнего агнца во всесожжение и молодого голубя или горлицу в жертву за
+      грех, ко входу скинии собрания к священнику;
+    chapter: 12
+    chapterId: 102
+    parallels:
+      - verseId: 24302
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 2
+        short: Лк:2:24
+      - verseId: 23642
+        bookId: 3
+        bookCode: levit
+        chapter: 5
+        short: Лев:5:7
+    translates:
+      kassian: ""
+      podstr: И когда исполнятся дни очищения её по сыну или по дочери, [да] принесёт
+        ягнёнка однолетнего [в жертву] безупречного во всесожжение и птенца
+        голубей или горлицу о грехе к двери скинии свидетельства к священнику,
+      csya: И егда исполнятся дние очищения ея о сыне ея или дщери, да принесет агнца
+        непорочна единолетна во всесожжение, и птенца голубина или горлицу греха
+        ради, пред двери скинии свидения к жерцу,
+      averincev: ""
+      ungerov: ""
+      csya_old: И# є3гдA и3спо1лнzтсz днjе њчище1ніz є3S њ сы1нэ є3S и3ли2 дще1ри, да
+        принесе1тъ ѓгнца непоро1чна є3динолётна во всесожже1ніе, и3 птенцA
+        голуби1на и3ли2 го1рлицу грэхA рaди, пред8 двє1ри ски1ніи свидёніz къ
+        жерцY,
+      sovr_rbo: Когда закончится ее очищение после рождения сына или дочери, пусть она
+        придет ко входу в Шатер Встречи и передаст священнику годовалого ягненка
+        для всесожжения и голубя или горлицу для очистительного
+        жертвоприношения.
+      latin: Cumque expleti fuerint dies purificationis suae, pro filio sive pro
+        filia, deferet agnum anniculum in holocaustum, et pullum columbae sive
+        turturem pro peccato, ad ostium tabernaculi testimonii, et tradet
+        sacerdoti,
+      ukr: А по виповненні днів очищення її за сина або за дочку, принесе вона
+        однорічне ягня на цілопалення, та голубеня або горлицю на жертву за
+        гріх, до входу скинії заповіту до священика.
+      nkjv: "'When the days of her purification are fulfilled, whether for a son or a
+        daughter, she shall bring to the priest a lamb of the first year as a
+        burnt offering, and a young pigeon or a turtledove as a sin offering, to
+        the door of the tabernacle of meeting. "
+      desnitsky: ""
+      mt: ‫   וּבִמְלֹאת יְמֵי טָהֳרָהּ לְבֵן אוֹ לְבַת תָּבִיא כֶּבֶשׂ בֶּן־שְׁנָתוֹ
+        לְעֹלָה וּבֶן־יוֹנָה אוֹ־תֹר לְחַטָּאת אֶל־פֶּתַח אֹהֶל־מוֹעֵד
+        אֶל־הַכֹּהֵן׃ ‬
+      romana: Dupa ce se vor implini zilele curatirii ei pentru fiu sau pentru fiica,
+        sa aduca preotului la usa cortului un miel de un an ardere de tot si un
+        pui de porumbel sau o turturica, jertfa pentru pacat;
+      francais: Lorsque les jours de sa purification seront accomplis, pour un fils ou
+        pour une fille, elle apportera au sacrificateur, à l'entrée de la tente
+        d'assignation, un agneau d'un an pour l'holocauste, et un jeune pigeon
+        ou une tourterelle pour le sacrifice d'expiation.
+      italian: Quando i giorni della sua purificazione per un figlio o per una figlia
+        saranno compiuti, porterà al sacerdote all'ingresso della tenda del
+        convegno un agnello di un anno come olocausto e un colombo o una tortora
+        in sacrificio di espiazione.
+      old_georgian: და რაჟამს აღესრულნენ დღენი იგი განწმედისა მისისანი ძესა ზედა, გინა
+        ასულსა, შეწიროს ტარიგი წელიწდეული უბიწოჲ მსხუერპლად და მართუენი
+        ტრედისანი, გინა გურიტნი ცოდვისათჳს კართა თანა კარვისა საწამებელისათა
+        მღდელისა მიერ.
+      portuguese: "E, quando forem cumpridos os dias da sua purificação, seja por
+        filho ou por filha, trará um cordeiro de um ano\rpara holocausto, e um
+        pombinho ou uma rola para oferta pelo pecado, à porta da tenda da
+        revelação, o ao\rsacerdote,"
+      polish: "Kiedy zaś skończą się dni jej oczyszczenia po urodzeniu syna lub
+        córki,\rprzyniesie kapłanowi, przed wejście do Namiotu Spotkania,
+        jednorocznego\rbaranka na ofiarę całopalną i młodego gołębia lub
+        synogarlicę na ofiarę przebłagalną."
+      turkish: «`Erkek ya da kız çocuk doğuran kadının temiz sayılması için geçmesi
+        gereken günler dolunca, yakmalık sunu olarak bir yaşında bir kuzu, günah
+        sunusu olarak bir güvercin ya da bir kumru getirip Buluşma Çadırı'nın
+        giriş bölümünde kâhine verecektir.
+      nrt: Когда дни очищения за сына или дочь пройдут, пусть она принесет священнику
+        ко входу в шатер собрания годовалого ягненка для всесожжения и молодого
+        голубя или горлицу в жертву за грех.
+      Macarius: По окончании дней очищения своего за сына или за дочь, она должна
+        принести единолетнего агнца во всесожжение и молодого голубя или
+        горлицу, в жертву за грех, к дверям скинии собрания к священнику.
+      bulgarian: След като изтекат дните на очистянето й, за сина или дъщерята, тя
+        трябва да донесе на свещеника при входа на скинията на събранието едно
+        шиле за всесъжение и млад гълъб или гургулица за жертва за грях.
+      deutsch: Und wenn die Tage ihrer Reinigung aus sind für den Sohn oder für die
+        Tochter, soll sie ein jähriges Lamm bringen zum Brandopfer und eine
+        junge Taube oder Turteltaube zum Sündopfer dem Priester vor die Tür der
+        Hütte des Stifts.
+      ukr2: Як же сповняться дні очищення її, чи за сина, чи за доньку, принесе
+        ягня-однолітка на всепалення та голубеня чи горлицю в жертву за гріх, до
+        входу в намет зборів, священикові.
+      ukr3: Як же сповняться днї очищення її, за сина чи за доньку, мусить принести
+        ягня річняка на всепаленнє та голубеня чи горлицю на жертву за гріх до
+        входу в соборний намет сьвященникові.
+      bel_syomukha: Пасьля заканчэньня дзён ачышчэньня свайго за сына, альбо за дачку,
+        яна павінна прынесьці гадавалае ягня на цэласпаленьне і маладога голуба
+        альбо галубку ў ахвяру за грэх, да ўваходу ў скінію сходу да сьвятара;
+      spbda: По исполнении дней очищения своего за сына или за дочь, она должна
+        принести однолетняго агнца во всесожжение и молодаго голубя или горлицу
+        в жертву за грех, ко входу скинии собрания к священнику.
+      lev-khv: По исполнении дней очищения своего за сына или за дочь, она должна
+        принести однолетняго агнца во всесожжение и молодаго голубя или горлицу
+        в жертву за грех, ко входу скинии собрания, к священнику.
+      czech: Kdyz skonci dny jejiho ocistovani po synu nebo dceri, privede rocniho
+        beranka k zapalne obeti a holoube nebo hrdlicku k obeti za hrich knezi
+        ke vchodu do stanu setkavani.
+      spanish: Cuando se cumplan los días de su purificación, según que haya tenido
+        hijo o hija, presentará ante el sacerdote, a la entrada del tabernáculo
+        de la reunión, con un cordero primal en holocausto y un pichón o una
+        tórtola en sacrificio por el pecado.
+      greek-lxx: καὶ ὅταν ἀναπληρωθῶσιν αἱ ἡμέραι καθάρσεως αὐτῆς ἐφ᾿ υἱῷ ἢ ἐπὶ
+        θυγατρί προσοίσει ἀμνὸν ἐνιαύσιον ἄμωμον εἰς ὁλοκαύτωμα καὶ νεοσσὸν
+        περιστερᾶς ἢ τρυγόνα περὶ ἁμαρτίας ἐπὶ τὴν θύραν τῆς σκηνῆς τοῦ
+        μαρτυρίου πρὸς τὸν ἱερέα
+      st_text: По окончании дней очищения своего за сына или за дочь она должна
+        принести однолетнего агнца во всесожжение и молодого голубя или горлицу
+        в жертву за грех, ко входу скинии собрания к священнику;
+  - id: 23015
+    number: 7
+    bookId: 3
+    text: он принесет это пред Господа и очистит ее, и она будет чиста от течения
+      кровей ее. Вот закон о родившей <i>младенца</i> мужеского или женского
+      пола.
+    chapter: 12
+    chapterId: 102
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и [да] принесёт перед Господом и помолится о ней священник и очистит её
+        от источника крови её. Этот закон рождающей ребёнка мужского пола или
+        ребёнка женского пола.
+      csya: "и да принесет е пред Господа: и помолится о ней жрец и очистит ю от тока
+        крове ея: сей закон раждающия мужеск пол или женск."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 да принесе1тъ є5 пред8 гDа: и3 помо1литсz њ не1й жре1цъ и3
+        њчи1ститъ ю5 t то1ка кро1ве є3S: се1й зако1нъ раждaющіz мyжескъ по1лъ
+        и3ли2 же1нскъ."
+      sovr_rbo: Пусть священник принесет Господу эти жертвы, совершая над ней
+        искупительный обряд, и тогда она очистится от истечения крови. Это закон
+        для женщины, которая родила сына или дочь.
+      latin: "qui offeret illa coram Domino, et orabit pro ea, et sic mundabitur a
+        profluvio sanguinis sui: ista est lex parientis masculum aut feminam."
+      ukr: І він принесе це перед Господнє лице, і очистить її, і вона очиститься від
+        джерела своєї крови. Це закон про породіллю дитини чоловічої або жіночої
+        статі.
+      nkjv: Then he shall offer it before the Lord, and make atonement for her. And
+        she shall be clean from the flow of her blood. This is the law for her
+        who has borne a male or a female.
+      desnitsky: ""
+      mt: ‫   וְהִקְרִיבוֹ לִפְנֵי יְהוָה וְכִפֶּר עָלֶיהָ וְטָהֲרָה מִמְּקֹר דָּמֶיהָ
+        זֹאת תּוֹרַת הַיֹּלֶדֶת לַזָּכָר אוֹ לַנְּקֵבָה׃ ‬
+      romana: Preotul va infatisa acestea inaintea Domnului si o va curati si curata
+        va fi de curgerea sangelui ei. Aceasta e randuiala pentru ceea ce a
+        nascut prunc de parte barbateasca sau de parte femeiasca.
+      francais: Le sacrificateur les sacrifiera devant l'Éternel, et fera pour elle
+        l'expiation; et elle sera purifiée du flux de son sang. Telle est la loi
+        pour la femme qui enfante un fils ou une fille.
+      italian: Il sacerdote li offrirà davanti al Signore e farà il rito espiatorio
+        per lei; essa sarà purificata dal flusso del suo sangue. Questa è la
+        legge relativa alla donna, che partorisce un maschio o una femmina.
+      old_georgian: და შეწიროს წინაშე ღმრთისა და ლხინება-ყოს მისთჳს მღდელმან მან და
+        განწმიდნეს წყაროჲსა მისგან სისხლისა მისისა. ესე არს შჯული მშობიერისაჲ
+        წულსა ზედა გინა ქალსა.
+      portuguese: "o qual o oferecerá perante o Senhor, e fará, expiação por ela;
+        então ela será limpa do fluxo do seu sangue. Esta é\ra lei da que der à
+        luz menino ou menina."
+      polish: "Kapłan złoży to w ofierze przed Panem, aby za nią dokonać przebłagania.
+        W\rten sposób będzie ona oczyszczona od upływu krwi. To jest prawo
+        dotyczące\rtej, która urodziła syna lub córkę."
+      turkish: Kâhin bunu RAB'bin huzurunda sunacak ve kadını arıtacak. Böylece kadın
+        kanamasından temizlenmiş sayılacak. Erkek ya da kız doğuran kadınla
+        ilgili yasa budur.
+      nrt: Он принесет их в жертву Господу, чтобы совершить для нее отпущение, и она
+        очистится от кровотечения после родов. Таковы правила для женщины,
+        родившей мальчика или девочку.
+      Macarius: Он представит это пред Господа, и очистит ее, и она будет чиста от
+        течения кровей ее. Вот закон о родившей младенца мужеского или женского
+        пола.
+      bulgarian: Той ще принесе това пред Господа и ще я очисти, и тя ще бъде чиста от
+        кръвотечението си. Това е законът за оная, която е добила мъжко или
+        женско.
+      deutsch: Der soll es opfern vor dem Herrn und sie versöhnen, so wird sie rein
+        von ihrem Blutgang. Das ist das Gesetz für die, so ein Knäblein oder
+        Mägdlein gebiert.
+      ukr2: А він принесе їх перед Господа і відслужить за неї покуту, і вона
+        очиститься від свого кровотоку. Такий закон щодо тієї, яка родить чи
+        хлоп'ятко, чи дівчатко.
+      ukr3: І принесе він се перед Господом і відправить покуту за гріх її та й
+        очистить од кровотоку її. Се закон для роджаючих, чи буде хлопятко чи
+        дївчинка.
+      bel_syomukha: ён прынясе гэта прад аблічча Госпада і ачысьціць яе, і яна будзе
+        чыстая ад цёку крыві яе. Вось закон пра парадзіху немаўляці мужчынскага
+        альбо жаночага полу.
+      spbda: И принесет он это пред Господа, и очистит ее, и она будет чиста от
+        течения крови ея. Вот закон о родившей младенца мужескаго или женскаго
+        пола.
+      lev-khv: И принесет он это пред Господа, и очистит ее, и она будет чиста от
+        течения крови ея. Вот закон о родившей <i>младенца</i> мужескаго или
+        женскаго пола.
+      czech: On je prinese jako obet pred Hospodina a vykona za ni smirci obrady; tak
+        bude ocistena od sveho krvotoku. To je rad pro zenu pri narozeni chlapce
+        nebo devcete.
+      spanish: El sacerdote los ofrecerá ante Yavé, y hará por ella la expiación, y
+        será pura del flujo de la sangre. Esta es la ley para la mujer que da a
+        luz hijo o hija.
+      greek-lxx: καὶ προσοίσει ἔναντι Κυρίου καὶ ἐξιλάσεται περὶ αὐτῆς ὁ ἱερεὺς καὶ
+        καθαριεῖ αὐτὴν ἀπὸ τῆς πηγῆς τοῦ αἵματος αὐτῆς οὗτος ὁ νόμος τῆς
+        τικτούσης ἄρσεν ἢ θῆλυ
+      st_text: он принесет это пред Господа и очистит ее, и она будет чиста от течения
+        кровей ее. Вот закон о родившей <i>младенца</i> мужеского или женского
+        пола.
+  - id: 23016
+    number: 8
+    bookId: 3
+    text: Если же она не в состоянии принести агнца, то пусть возьмет двух горлиц
+      или двух молодых голубей, одного во всесожжение, а другого в жертву за
+      грех, и очистит ее священник, и она будет чиста.
+    chapter: 12
+    chapterId: 102
+    parallels:
+      - verseId: 22925
+        bookId: 3
+        bookCode: levit
+        chapter: 1
+        short: Лев:1:1
+      - verseId: 23642
+        bookId: 3
+        bookCode: levit
+        chapter: 5
+        short: Лев:5:7
+      - verseId: 23643
+        bookId: 3
+        bookCode: levit
+        chapter: 5
+        short: Лев:5:8
+      - verseId: 23097
+        bookId: 3
+        bookCode: levit
+        chapter: 14
+        short: Лев:14:22
+      - verseId: 23145
+        bookId: 3
+        bookCode: levit
+        chapter: 15
+        short: Лев:15:14
+      - verseId: 23160
+        bookId: 3
+        bookCode: levit
+        chapter: 15
+        short: Лев:15:29
+      - verseId: 12324
+        bookId: 4
+        bookCode: cisla
+        chapter: 6
+        short: Чис:6:10
+      - verseId: 24302
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 2
+        short: Лк:2:24
+    translates:
+      kassian: ""
+      podstr: Если же не находит рука её достаточное в [отношении] ягнёнка, и возьмёт
+        двух горлиц или двух птенцов голубей, одну во всесожжение и одну о
+        грехе, и помолится о ней священник, и будет очищена.
+      csya: "Аще же не обрящет рука ея довольнаго на агнца, и да возмет две горлицы
+        или два птенца голубина, единаго на всесожжение и другаго греха ради: и
+        помолится о ней жрец, и очистится."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Ѓще же не њбрsщетъ рукA є3S дово1льнагw на ѓгнца, и3 да во1зметъ двЁ
+        гHрлицы и3ли2 двA птенц† голуби6на, є3ди1наго на всесожже1ніе и3 другaго
+        грэхA рaди: и3 помо1литсz њ не1й жре1цъ, и3 њчи1ститсz."
+      sovr_rbo: "Если же она не может привести ягненка, пусть возьмет двух горлиц или
+        двух голубей: одну птицу — как всесожжение, а другую — как очистительную
+        жертву. Пусть священник совершит над ней искупительный обряд, и тогда
+        она будет чиста»."
+      latin: "Quod si non invenerit manus ejus, nec potuerit offerre agnum, sumet duos
+        turtures vel duos pullos columbarum, unum in holocaustum, et alterum pro
+        peccato: orabitque pro ea sacerdos, et sic mundabitur."
+      ukr: А коли рука її не спроможеться на ягня, то візьме вона дві горлиці або двоє
+        голубенят, одне на цілопалення й одне на жертву за гріх, й очистить її
+        священик, і вона стане чиста.
+      nkjv: And if she is not able to bring a lamb, then she may bring two turtledoves
+        or two young pigeons-one as a burnt offering and the other as a sin
+        offering. So the priest shall make atonement for her, and she will be
+        clean.' "
+      desnitsky: ""
+      mt: ‫   וְאִם־לֹא תִמְצָא יָדָהּ דֵּי שֶׂה וְלָקְחָה שְׁתֵּי־תֹרִים אוֹ שְׁנֵי
+        בְּנֵי יוֹנָה אֶחָד לְעֹלָה וְאֶחָד לְחַטָּאת וְכִפֶּר עָלֶיהָ הַכֹּהֵן
+        וְטָהֵרָה׃ פ ‬
+      romana: Iar de nu-i va da mana sa aduca un miel, sa ia doua turturele sau doi
+        pui de porumbel, unul pentru ardere de tot si altul jertfa pentru pacat,
+        si o va curati preotul si curata va fi".
+      francais: Si elle n'a pas de quoi se procurer un agneau, elle prendra deux
+        tourterelles ou deux jeunes pigeons, l'un pour l'holocauste, l'autre
+        pour le sacrifice d'expiation. Le sacrificateur fera pour elle
+        l'expiation, et elle sera pure.
+      italian: "Se non ha mezzi da offrire un agnello, prenderà due tortore o due
+        colombi: uno per l'olocausto e l'altro per il sacrificio espiatorio. Il
+        sacerdote farà il rito espiatorio per lei ed essa sarà monda\"."
+      old_georgian: "უკუეთუ ვერ პოვოს ჴელმან მისმან ტარიგი, მოიქუნეს ორნი გურიტნი, ანუ
+        მართუენი ტრედისანი: ერთი ყოვლად დასაწუველად და ერთი ცოდვისათჳს და
+        ლხინება-ყოს მისთჳს მღდელმან მან და განწმიდნეს."
+      portuguese: "Mas, se as suas posses não bastarem para um cordeiro, então tomará
+        duas rolas, ou dois pombinhos: um para o\rholocausto e outro para a
+        oferta pelo pecado; assim o sacerdote fará expiação por ela, e ela será
+        limpa."
+      polish: "Jeżeli zaś ona jest zbyt uboga, aby przynieść baranka, to przyniesie
+        dwie\rsynogarlice albo dwa młode gołębie, jednego na ofiarę całopalną i
+        jednego\rna ofiarę przebłagalną. W ten sposób kapłan dokona przebłagania
+        za nią, i\rbędzie oczyszczona”."
+      turkish: «`Eğer kadının kuzu alacak gücü yoksa, biri yakmalık sunu, öbürü günah
+        sunusu olmak üzere, iki kumru ya da iki güvercin yavrusu getirecek.
+        Kâhin kadını arıtacak ve kadın temiz sayılacaktır.'»
+      nrt: Если ей не по средствам принести ягненка, пусть принесет пару горлиц или
+        двух молодых голубей, одного для всесожжения, а другого в жертву за
+        грех. Священник совершит для нее отпущение, и она станет чиста».
+      Macarius: Если же она не в состоянии принести агнца, то пусть возьмет две
+        горлицы или двух молодых голубей, одного во всесожжение, а другого в
+        жертву за грех, и таким образом очистит ее священник, и она будет чиста.
+      bulgarian: Ако пък не бъде в състояние да донесе агне, нека вземе две гургулици,
+        или два млади гълъба, един за всесъжение, а други за жертва за грях, и
+        свещеникът ще я очисти, и тя ще бъде чиста.
+      deutsch: Vermag aber ihre Hand nicht ein Schaf, so nehme sie zwei Turteltauben
+        oder zwei junge Tauben, eine zum Brandopfer, die andere zum Sündopfer;
+        so soll sie der Priester versöhnen, daß sie rein werde.
+      ukr2: А коли не може спромогтися на ягнятко, то нехай візьме пару горлиць або
+        пару голубенят; одне на всепалення, а друге на жертву за гріх. І
+        відслужить священик за неї покуту, й вона стане чистою.»
+      ukr3: А коли не спромога її на дрібну скотину, дак мусить вона взяти пару
+        горлиць або пару голубенят, одно про всепаленнє і одного про жертву за
+        гріх. І відбуде сьвященник покуту за гріх її і очиститься.
+      bel_syomukha: А калі яна ня можа прынесьці ягняці, дык няхай возьме дзьве
+        галубкі альбо два маладыя галубы, аднаго на цэласпаленьне, а другога ў
+        ахвяру за грэх, і ачысьціць яе сьвятар, і яна будзе чыстая.
+      spbda: Если же она не в состоянии принести агнца, то пусть возьмет две горлицы
+        или двухь молодых голубей, одного во всесожжение, а другаго в жертву за
+        грех, и очистит ее священник, и она будет чиста.
+      lev-khv: Если же она не в состоянии принести агнца; то пусть возьмет две
+        горлицы, или двух молодых голубей, одного во всесожжение, а другаго в
+        жертву за грех, и очистит ее священник, и она будет чиста.
+      czech: Jestlize si nemuze opatrit jehne, at vezme dve hrdlicky nebo dve
+        holoubata, jedno k zapalne obeti a jedno k obeti za hrich. Knez za ni
+        vykona smirci obrady a bude cista.“
+      spanish: Si no puede ofrecer un cordero, tomará dos tórtolas o dos pichones, uno
+        para el holocausto y otro para el sacrificio por el pecado; el sacerdote
+        hará por ella la expiación y será pura>>.
+      greek-lxx: ἐὰν δὲ μὴ εὑρίσκῃ ἡ χεὶρ αὐτῆς τὸ ἱκανὸν εἰς ἀμνόν καὶ λήμψεται δύο
+        τρυγόνας ἢ δύο νεοσσοὺς περιστερῶν μίαν εἰς ὁλοκαύτωμα καὶ μίαν περὶ
+        ἁμαρτίας καὶ ἐξιλάσεται περὶ αὐτῆς ὁ ἱερεύς καὶ καθαρισθήσεται
+      st_text: Если же она не в состоянии принести агнца, то пусть возьмет двух горлиц
+        или двух молодых голубей, одного во всесожжение, а другого в жертву за
+        грех, и очистит ее священник, и она будет чиста.

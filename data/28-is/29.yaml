@@ -1,0 +1,2377 @@
+id: 829
+number: 29
+bookId: 28
+verseCount: 24
+title: Глава 29
+verses:
+  - id: 20352
+    number: 1
+    bookId: 28
+    text: Горе Ариилу, Ариилу, городу, в котором жил Давид! приложите год к году;
+      пусть заколают жертвы.
+    chapter: 29
+    chapterId: 829
+    parallels:
+      - verseId: 4402
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 5
+        short: 2 Цар:5:9
+    translates:
+      kassian: ""
+      podstr: Увы город Ариил, который Давид воевал; соберите плоды год на год, будете
+        есть ведь с Моавом.
+      csya: "Горе граду ариилу, наньже давид воева. Соберите жита от года до года,
+        снесте бо вкупе с моавом:"
+      averincev: ""
+      ungerov: Горе городу Ариилу, против коего Давид воевал! Собирайте жита от года
+        до года, ибо будете есть вместе с Моавом;
+      csya_old: "Го1ре грaду ґріи1лу, нaньже давjдъ воевA. Собери1те жи6та t го1да до
+        го1да, снёсте бо вкyпэ съ мwaвомъ:"
+      sovr_rbo: «Горе тебе, Ариэл, Ариэл, город, где жил Давид! Пройдет время, за
+        годом год, повторится снова и снова праздников череда —
+      latin: "Vae Ariel, Ariel civitas, quam expugnavit David! additus est annus ad
+        annum: solemnitates evolutae sunt."
+      ukr: Горе Аріїлу, Аріїлу, місту, що Давид у нім таборував! Рік до року додайте,
+        хай свята закінчать свій круг!
+      nkjv: '"Woe to Ariel, to Ariel, the city where David dwelt! Add year to year;
+        Let feasts come around.'
+      desnitsky: Горе тебе, Ариэль, Ариэль – город, где Давид лагерем стоял! Год за
+        годом проходят празднества –
+      mt: ‫   הוֹי אֲרִיאֵל אֲרִיאֵל קִרְיַת חָנָה דָוִד סְפוּ שָׁנָה עַל־שָׁנָה
+        חַגִּים יִנְקֹפוּ׃ ‬
+      romana: Vai tie, Ariele, Ariele, cetate in care a trait David! Treaca an de an,
+        sirul de praznice sa se sfarseasca!
+      francais: Malheur à Ariel, à Ariel, Cité dont David fit sa demeure! Ajoutez
+        année à année, Laissez les fêtes accomplir leur cycle.
+      italian: Guai ad Arièl, ad Arièl, città dove pose il campo Davide! Aggiungete
+        anno ad anno, si avvicendino i cicli festivi.
+      old_georgian: ვაჲ ქალაქსა არიილსა, რომელსა დავით ებრძოლა, შეკრიბენით ხუარბალნი
+        წელიწდისანი წელიწადსა ზედა, რამეთუ შჭამოთ მოაბსა თანა,
+      portuguese: Ah! Ariel, Ariel, cidade onde Davi acampou! Acrescentai ano a ano;
+        completem as festas o seu ciclo.
+      polish: "Ach, Arielu, Arielu, miasto, gdzie obozował Dawid! Dodajcie rok do
+        roku,\rświęta niech biegną swym cyklem!"
+      turkish: "Ariel,  Ariel,\rDavut'un ordugah kurduğu kent, vay haline!\rSen yıla
+        yıl kat, bayramların süredursun."
+      nrt: Горе тебе, Ариил, Ариил, город, где станом стоял Давид! Прибавляйте год к
+        году, праздники пусть совершают свой круг.
+      Macarius: О Ариил, Ариил, город, в котором водворился Давид! прилагайте год к
+        году; пусть праздники ходят кругами.
+      serbian: Тешко Арилу, Арилу, граду гдје је стајао Давид. Додајте годину на
+        годину, нека кољу жртве празничне.
+      bulgarian: Горко на Ариил, на град Ариил, дето живее Давид! Притурете година
+        върху година; нека колят жертви.
+      Olesn: "О ариил, ариил,\rСтолица Давидова!\rВы приложите год к году,\rПраздники
+        совершат круг свой."
+      deutsch: Weh Ariel, Ariel, du Stadt des Lagers Davids! Füget Jahr zu Jahr und
+        feiert die Feste;
+      ukr2: Ой Арієле, Арієле, місто, де табором був Давид розташувався! Додайте до
+        року рік, нехай свята йдуть своїм кругом!
+      ukr3: "Горе синам неслухняним, - говорить Господь, тим, що задумують задуми без
+        мене, - що ввіходять у вмови, менї супротивні, та гріхи на гріхи
+        громадять:"
+      bel_syomukha: Гора Арыілу, Арыілу, гораду, у якім жыў Давід! прыкладзеце год да
+        года; няхай колюць ахвяры.
+      lev-khv: Горе Ариилу, Ариилу, городу, в котором имеет стан Давид. Прибавляй год
+        к году; праздники пусть совершают круги в нем.
+      czech: Beda tobe, Arieli, Arieli, mesto, v nemz se utaboril David! Jen
+        pokracujte rok za rokem, at probiha kolobeh svatku,
+      spanish: ¡Ay de Ariel, Ariel, ciudad donde acampó David! Añadid a un año otro
+        año, sigan las fiestas su giro.
+      greek-lxx: οὐαὶ πόλις Αριηλ ἣν Δαυιδ ἐπολέμησεν συναγάγετε γενήματα ἐνιαυτὸν ἐπ᾿
+        ἐνιαυτόν φάγεσθε γὰρ σὺν Μωαβ
+      st_text: Горе Ариилу, Ариилу, городу, в котором жил Давид! приложите год к году;
+        пусть заколают жертвы.
+  - id: 20353
+    number: 2
+    bookId: 28
+    text: Но Я стесню Ариил, и будет плач и сетование; и он останется у Меня, как
+      Ариил.
+    chapter: 29
+    chapterId: 829
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Я стесню ведь Ариил, и будет его могущество и богатство Мне.
+      csya: "озлоблю бо ариила, и будет крепость его и богатство мне:"
+      averincev: ""
+      ungerov: Ибо Я стесню Ариил, и сила его и богатство будут принадлежать Мне.
+      csya_old: "њѕло1блю бо ґріи1ла, и3 бyдетъ крёпость є3гw2 и3 богaтство мнЁ:"
+      sovr_rbo: и Я стесню Ариэл, воцарятся в нем печаль и скорбь, и будет он для Меня
+        — Ариэл!
+      latin: Et circumvallabo Ariel, et erit tristis et moerens, et erit mihi quasi
+        Ariel.
+      ukr: І притисну Аріїла, і станеться лемент та плач, і він стане на мене, як
+        огнище Боже.
+      nkjv: Yet I will distress Ariel; There shall be heaviness and sorrow, And it
+        shall be to Me as Ariel.
+      desnitsky: но Я наведу беду на Ариэль, будет в нем плач и рыдание, будет он Моим
+        Ариэлем.
+      mt: ‫   וַהֲצִיקוֹתִי לַאֲרִיאֵל וְהָיְתָה תַאֲנִיָּה וַאֲנִיָּה וְהָיְתָה לִּי
+        כַּאֲרִיאֵל׃ ‬
+      romana: Apoi voi impresura Arielul si el va plange si va geme! Cetatea va fi ca
+        un Ariel pentru Mine.
+      francais: Puis j'assiégerai Ariel; Il y aura des plaintes et des gémissements;
+        Et la ville sera pour moi comme un Ariel.
+      italian: Io metterò alle strette Arièl, ci saranno gemiti e lamenti. Tu sarai
+        per me come un vero Arièl,
+      old_georgian: რამეთუ ვაჭირვო არიილსა. და იყოს ძალი მისი და სიმდიდრე ჩემდა.
+      portuguese: Então porei Ariel em aperto, e haverá pranto e lamentação; e ela
+        será para mim como Ariel.
+      polish: "Wówczas ucisnę Ariela: nastanie żałość i wzdychanie. Ty będziesz dla
+        mnie\rjakby Arielem:"
+      turkish: "Ama seni sıkıntıya sokacağım.\rFeryat, figan edeceksin,\rBenim için
+        sunak ocağı gibi olacaksın."
+      nrt: Но Я стесню Ариил; станет он плакать и сетовать, станет он у Меня, как очаг
+        жертвенника.
+      Macarius: Но Я стесню Ариил; и будет плач и печаль, и будет он как Ариил у Меня.
+      serbian: Али ћу притијеснити Арила, и биће жалост и туга, јер ће ми бити као Арил.
+      bulgarian: Но Аз ще притисна Ариил; и ще има плач и тъгуване; и той ще остане
+        при Мене като Ариил.
+      Olesn: "И Я поставлю ариил в большое стеснение, Будет сетование и плач,\rНо он
+        останется у меня как ариил."
+      deutsch: dann will ich den Ariel ängsten, daß er traurig und voll Jammers sei;
+        und er soll mir ein rechter Ariel sein.
+      ukr2: Тоді обложу Арієла, і настане квиління та стогін. Ти будеш у мене, як
+        Арієл.
+      ukr3: Не спитавшись у мене, ійдуть вони в Египет, щоб шукати підмоги в силї
+        Фараоновій та захистити себе в тїнї Египту.
+      bel_syomukha: Але навяду ўціск на Арыіл, і будзе плач і бедаваньне; і ён будзе ў
+        Мяне, як Арыіл.
+      lev-khv: Я наведу бедствие на Ариил, и будет вопль и печаль, и он будет у Меня
+        истым Ариилом.
+      czech: ale dokrocim na Ariela a nastane zarmutek a smutek. Pak mi vskutku bude
+        arielem, oltarnim ohnistem!
+      spanish: Yo oprimiré a Ariel, y habrá llantos y gemidos, y será para mí como un
+        Ariel.
+      greek-lxx: ἐκθλίψω γὰρ Αριηλ καὶ ἔσται αὐτῆς ἡ ἰσχὺς καὶ τὸ πλοῦτος ἐμοί
+      st_text: Но Я стесню Ариил, и будет плач и сетование; и он останется у Меня, как
+        Ариил.
+  - id: 20354
+    number: 3
+    bookId: 28
+    text: Я расположусь станом вокруг тебя и стесню тебя стражею наблюдательною, и
+      воздвигну против тебя укрепления.
+    chapter: 29
+    chapterId: 829
+    parallels:
+      - verseId: 16503
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 6
+        short: Иер:6:3
+      - verseId: 16849
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 17
+        short: Иез:17:17
+      - verseId: 24273
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 19
+        short: Лк:19:43
+    translates:
+      kassian: ""
+      podstr: И окружу как Давид тебя и положу вокруг тебя укреплённый лагерь и помещу
+        вокруг тебя башни,
+      csya: и обсяду тя аки давид, и поставлю окрест тебе острог, и согражду столпы.
+      averincev: ""
+      ungerov: И Я расположусь станом вокруг тебя, как Давид, и воздвигну вокруг тебя
+        вал и поставлю башни (вокруг тебя).
+      csya_old: и3 њбсsду тS ѓки давjдъ, и3 постaвлю њ1крестъ тебє2 nстро1гъ, и3
+        сограждY столпы2.
+      sovr_rbo: Со всех сторон Я тебя окружу, башни вокруг тебя построю, воздвигну
+        осадные укрепленья.
+      latin: Et circumdabo quasi sphaeram in circuitu tuo, et jaciam contra te
+        aggerem, et munimenta ponam in obsidionem tuam.
+      ukr: І отаборюся проти тебе навколо, і сторожею стисну тебе, і башти поставлю на
+        тебе.
+      nkjv: I will encamp against you all around, I will lay siege against you with a
+        mound, And I will raise siegeworks against you.
+      desnitsky: Встану лагерем вокруг тебя, башнями тебя обступлю, поведу осадные работы.
+      mt: ‫   וְחָנִיתִי כַדּוּר עָלָיִךְ וְצַרְתִּי עָלַיִךְ מֻצָּב וַהֲקִימֹתִי
+        עָלַיִךְ מְצֻרֹת׃ ‬
+      romana: Ca David voi tabari asupra ta, te voi inconjura cu valuri si voi ridica
+        intarituri impotriva ta.
+      francais: Je t'investirai de toutes parts, Je te cernerai par des postes armés,
+        J'élèverai contre toi des retranchements.
+      italian: io mi accamperò come Davide contro di te e ti circonderò di trincee,
+        innalzerò contro di te un vallo.
+      old_georgian: და მოვადგე შენ ზედა, ვითარცა დავით, და განვაწყო შენთჳს პატნეზი. და
+        დავადგინე შენთჳს გოდოლნი.
+      portuguese: Acamparei contra ti em redor, e te sitiarei com baluartes, e
+        levantarei tranqueiras contra ti.
+      polish: "jak Dawid rozłożę obóz przeciw tobie, otoczę cię szańcami, wzniosę
+        przeciw\rtobie oblężnicze wieże."
+      turkish: "Sana karşı çepeçevre ordugah kuracak,\rÇevreni rampalarla, kulelerle
+        kuşatacağım."
+      nrt: Встану Я станом вокруг тебя, осадными башнями окружу, укрепления против
+        тебя воздвигну.
+      Macarius: Тогда Я расположусь станом вокруг тебя, и стесню тебя стражею
+        наблюдательною, и воздвигну против тебя окопы.
+      serbian: Јер ћу те опколити војском, и стегнућу те опкопима и подигнућу супрот
+        теби куле.
+      bulgarian: Ще се разположа на стан наоколо ти и ще те стесня с наблюдателна
+        стража, и ще дигна против тебе укрепления.
+      Olesn: "И расположусь вокруг тебя станом,\rСтесню тебя наблюдательною
+        стражей,\rВыведу вокруг тебя окопы."
+      deutsch: Denn ich will dich belagern ringsumher und will dich ängsten mit
+        Bollwerk und will Wälle um dich aufführen lassen.
+      ukr2: Розтаборюся навколо тебе, я оточу тебе валами й здвигну окопи проти тебе.
+      ukr3: Але сила Фараонова вийде вам на сором, і захист у тїнї в Египтї - на
+        безчесть.
+      bel_syomukha: Я стану аблогай вакол цябе і абстаўлю цябе вартаю назіральнаю, і
+        ўзьвяду супроць цябе ўмацаваньні.
+      lev-khv: Я ополчусь кругом тебя, и стесню стражею тебя, и воздвигну против тебя
+        башни.
+      czech: Ze vsech stran se proti tobe utaborim, sevru te oblezenim, navrsim proti
+        tobe naspy.
+      spanish: Y acamparé en círculo contra ti, te cercaré de trincheras y alzaré
+        baluartes contra ti,
+      greek-lxx: καὶ κυκλώσω ὡς Δαυιδ ἐπὶ σὲ καὶ βαλῶ περὶ σὲ χάρακα καὶ θήσω περὶ σὲ
+        πύργους
+      st_text: Я расположусь станом вокруг тебя и стесню тебя стражею наблюдательною,
+        и воздвигну против тебя укрепления.
+  - id: 20355
+    number: 4
+    bookId: 28
+    text: И будешь унижен, с земли будешь говорить, и глуха будет речь твоя из-под
+      праха, и голос твой будет, как голос чревовещателя, и из-под праха шептать
+      будет речь твоя.
+    chapter: 29
+    chapterId: 829
+    parallels:
+      - verseId: 23275
+        bookId: 3
+        bookCode: levit
+        chapter: 19
+        short: Лев:19:31
+      - verseId: 21222
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 8
+        short: Ис:8:19
+    translates:
+      kassian: ""
+      podstr: и смирятся слова твои до земли, и в землю слова твои опустятся; и будет
+        как взывающих из земли голос твой, и к земле голос твой ослабнет.
+      csya: "И смирятся словеса твоя до земли, и в землю внидут словеса твоя: и будет
+        глас твой аки гласящих от земли, и ко земли изнеможет глас твой."
+      averincev: ""
+      ungerov: И унижен будешь в речи твоей до земли, и в землю пойдут слова твои, и
+        голос твой будет подобен голосу чревовещателей, и как-бы из-под земли
+        голос твой будет слаб.
+      csya_old: "И# смирsтсz словесA тво‰ до земли2, и3 въ зе1млю вни1дутъ словесA
+        тво‰: и3 бyдетъ глaсъ тво1й ѓки гласsщихъ t земли2, и3 ко земли2
+        и3знемо1жетъ глaсъ тво1й."
+      sovr_rbo: Внизу, в земле окажешься ты — оттуда будешь ты говорить, из праха твои
+        слова доноситься будут. Твой голос, как голос мертвеца, станет из-под
+        земли приходить, из праха ты будешь шептать».
+      latin: Humiliaberis, de terra loqueris, et de humo audietur eloquium tuum; et
+        erit quasi pythonis de terra vox tua, et de humo eloquium tuum
+        mussitabit.
+      ukr: І ти будеш понижений, і будеш з землі говорити, і приглушено буде звучати
+        твоє слово. І стане твій голос з землі, мов померлого дух, і шепотітиме
+        з пороху слово твоє.
+      nkjv: "You shall be brought down, You shall speak out of the ground; Your speech
+        shall be low, out of the dust; Your voice shall be like a medium's, out
+        of the ground; And your speech shall whisper out of the dust. "
+      desnitsky: Тогда заговоришь, униженный, лежа на земле, из пыли прозвучит
+        бормотание твое, как голос призрака, из-под земли идущий, из пыли
+        донесется твой шепот.
+      mt: ‫   וְשָׁפַלְתְּ מֵאֶרֶץ תְּדַבֵּרִי וּמֵעָפָר תִּשַּׁח אִמְרָתֵךְ וְהָיָה
+        כְּאוֹב מֵאֶרֶץ קוֹלֵךְ וּמֵעָפָר אִמְרָתֵךְ תְּצַפְצֵף׃ ‬
+      romana: Vei fi doborat la pamant si de acolo se va auzi glasul tau; graiul tau
+        din tarana se va auzi; glasul tau va fi ca al unei naluci ce iese din
+        pamant si din praf spusele tale ca un murmur vor parea.
+      francais: Tu seras abaissée, ta parole viendra de terre, Et les sons en seront
+        étouffés par la poussière; Ta voix sortira de terre comme celle d'un
+        spectre, Et c'est de la poussière que tu murmureras tes discours.
+      italian: Allora prostrata parlerai da terra e dalla polvere saliranno fioche le
+        tue parole; sembrerà di un fantasma la tua voce dalla terra, e dalla
+        polvere la tua parola risuonerà come bisbiglio.
+      old_georgian: და დამდაბლდენ სიტყუანი შენნი ქუეყანად და დაჴდენ სიტყუანი შენნი
+        ქუეყანად მიმართ, და იყოს, ვითარცა მჴმობელნი ქვეყანით გამო, ჴმა შენი და
+        იატაკისა მიმართ ჴმა შენი მოუძლურდეს.
+      portuguese: "Então serás abatida, falarás de debaixo da terra, e a tua fala
+        desde o pó sairá fraca; e será a tua voz debaixo da\rterra, como a dum
+        necromante, e a tua fala assobiará desde o pó."
+      polish: "Wtedy pokornie z ziemi mówić będziesz i z prochu wyjdą twe słowa
+        stłumione; twój głos jakby upiora dobędzie się z ziemi, a mowa twa z
+        prochu wyda\rsię piszczeniem."
+      turkish: "Alçaltılacaksın, yerin altından konuşacak,\rToz toprak içinden boğuk
+        boğuk sesleneceksin.\rSesin ölü sesi gibi yerden,\rSözlerin fısıltı gibi
+        toprağın içinden çıkacak."
+      nrt: Низверженный, будешь ты говорить с земли, речь твоя будет стлаться над
+        прахом; голос твой, как голос призрака, будет идти из земли, речь твоя
+        будет шелестеть из праха.
+      Macarius: И глубоко упадешь; из-под земли будешь говорить, и тиха будет речь
+        твоя из-под праха, и голос твой будет, как голос мертвеца из-под земли,
+        и из-под праха прошепчет речь твоя.
+      serbian: Те ћеш оборен говорити са земље и из праха ћеш муцати, и глас ће ти
+        бити са земље као у бајача и из праха ћеш шапћући говорити.
+      bulgarian: И ще бъдеш унизен, ще говориш като изпод земята, и речта ти ще бъде
+        глуха изпод праха, и гласът ти ще бъде като глас на коремоговорник, и
+        речта ти ще шепне изпод праха.
+      Olesn: "И будешь попран, из земли станешь говорить, И из праха будут глухо
+        звучать слова твои, \rИ будет, как мертвеца из земли, голос твой,\rИ,
+        как из праха, речь твоя будет глухая."
+      deutsch: Alsdann sollst du erniedrigt werden und aus der Erde reden und aus dem
+        Staube mit deiner Rede murmeln, daß deine Stimme sei wie eines Zauberers
+        aus der Erde und deine Rede aus dem Staube wispele.
+      ukr2: Будеш принижений додолу, з-під землі будеш говорити, і з пороху тихенько
+        буде здійматися твоє слово, твій голос буде з-під землі лунати, немов
+        голос привиду якогось, і з пороху, наче щебетання, - твоя мова.
+      ukr3: Князї твої прийдуть у Зоан-город, а посли твої зійдуть аж до Ханесу;
+      bel_syomukha: І будзеш прыніжаны, зь зямлі гаварыцьмеш і глухая будзе мова твая
+        з-пад пылу, і голас твой будзе, як голас духа з нутробы, а мова твая
+        будзе, як шэпт.
+      lev-khv: Ты глухим голосом будешь говорить из-под земли, и речь твоя будет глуха
+        из-под праха, и голос твой из-под земли будет как у чревовещателя, и
+        будешь шептать речь свою из-под праха.
+      czech: Budes snizeno, ze zeme budes mluvit, tva rec pridusene zazni z prachu.
+        Tvuj hlas bude znit ze zeme jako hlas ducha zemrelych, z prachu bude rec
+        tva sipat.
+      spanish: y, humillado, desde la tierra hablarás, y desde el polvo surgirá tu
+        palabra. Y sucederá que de la tierra saldrá tu voz como la de un
+        fantasma, y del polvo tu palabra como un murmullo.
+      greek-lxx: καὶ ταπεινωθήσονται οἱ λόγοι σου εἰς τὴν γῆν καὶ εἰς τὴν γῆν οἱ λόγοι
+        σου δύσονται καὶ ἔσται ὡς οἱ φωνοῦντες ἐκ τῆς γῆς ἡ φωνή σου καὶ πρὸς τὸ
+        ἔδαφος ἡ φωνή σου ἀσθενήσει
+      st_text: И будешь унижен, с земли будешь говорить, и глуха будет речь твоя
+        из-под праха, и голос твой будет, как голос чревовещателя, и из-под
+        праха шептать будет речь твоя.
+  - id: 20356
+    number: 5
+    bookId: 28
+    text: Множество врагов твоих будет, как мелкая пыль, и полчище лютых, как
+      разлетающаяся плева; и это совершится внезапно, в одно мгновение.
+    chapter: 29
+    chapterId: 829
+    parallels:
+      - verseId: 19207
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 21
+        short: Иов:21:18
+      - verseId: 30262
+        bookId: 22
+        bookCode: psaltir
+        chapter: 1
+        short: Пс:1:4
+      - verseId: 31547
+        bookId: 22
+        bookCode: psaltir
+        chapter: 34
+        short: Пс:34:5
+      - verseId: 20413
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 30
+        short: Ис:30:13
+    translates:
+      kassian: ""
+      podstr: И будет как пыль от колеса богатство нечестивых и как пыль носящаяся, и
+        будет как мгновение тотчас
+      csya: И будет яко персть от колесе богатство нечестивых, и аки прах летяй
+        множество утесняющих тя, и будет аки черта внезапу от Господа саваофа.
+      averincev: ""
+      ungerov: И будет, как прах от колеса, богатство нечестивых, и как летящая мелкая
+        пыль (будет), множество притеснителей твоих, и совершится (это) от
+        Господа Саваофа в одно мгновение, внезапно.
+      csya_old: И# бyдетъ ћкw пе1рсть t колесе2 богaтство нечести1выхъ, и3 ѓки прaхъ
+        летsй мно1жество ўтэснsющихъ тS, и3 бyдетъ ѓки чертA внезaпу t гDа
+        саваHfа.
+      sovr_rbo: "Но полчища чужеземцев вокруг тебя станут как мелкая пыль, уподобятся
+        улетающей мякине полчища завоевателей! Нежданно, внезапно случится это:"
+      latin: Et erit sicut pulvis tenuis multitudo ventilantium te, et sicut favilla
+        pertransiens multitudo eorum qui contra te praevaluerunt;
+      ukr: І буде юрба ворогів твоїх, мов тонкий пил, юрба ж насильників мов полова
+        зниклива, і це станеться нагло, раптовно..
+      nkjv: '"Moreover the multitude of your foes Shall be like fine dust, And the
+        multitude of the terrible ones Like chaff that passes away; Yes, it
+        shall be in an instant, suddenly.'
+      desnitsky: Но станет мелкой пылью множество твоих врагов, полчища притеснителей
+        – соломой, что летит по ветру. Внезапно, в мгновение ока
+      mt: ‫   וְהָיָה כְּאָבָק דַּק הֲמוֹן זָרָיִךְ וּכְמֹץ עֹבֵר הֲמוֹן עָרִיצִים
+        וְהָיָה לְפֶתַע פִּתְאֹם׃ ‬
+      romana: Multimea vrajmasilor tai va fi ca pulberea marunta, ceata asupritorilor
+        ca pleava care zboara. Dar aceasta se va petrece intr-o clipa.
+      francais: La multitude de tes ennemis sera comme une fine poussière, Cette
+        multitude de guerriers sera comme la balle qui vole, Et cela tout à
+        coup, en un instant.
+      italian: Sarà come polvere fine la massa dei tuoi oppressori e come pula
+        dispersa la massa dei tuoi tiranni. Ma d'improvviso, subito,
+      old_georgian: და იყოს, ვითარცა მტუერი ურმისთვალისაგან, სიმდიდრე უთნოთა და
+        ვითარცა ბრე მიმოღებული.
+      portuguese: "E a multidão dos teus inimigos será como o pó miúdo, e a multidão
+        dos terríveis como a pragana que passa; e\risso acontecerá num momento,
+        repentinamente."
+      polish: "Jak drobny pył będzie twoich wrogów zgraja, i jak rozwiane plewy tłum
+        twoich ciemięzców. A stanie się to nagle, niespodzianie:"
+      turkish: "Ama sayısız düşmanların ince toz,\rAcımasız orduları savrulmuş saman
+        ufağı gibi olacak.\rBir anda, ansızın,"
+      nrt: Но полчища завоевателей станут как мелкая пыль, беспощадные орды – как
+        развеянная мякина. Внезапно, в одно мгновение,
+      Macarius: Вдруг полчище врагов твоих сделается как мелкая пыль, и полчище лютых,
+        как плева разлетевшаяся; и все совершится скоропостижно, внезапно.
+      serbian: А мноштво непријатеља твојих биће као ситан прах и мноштво насилника
+        као пљева кад се размеће; и то ће бити зачас, изненада.
+      bulgarian: Многото твои врагове ще бъдат като ситен прах, и пълчището потисници
+        - като развявана плява; и това ще стане внезапно, в един миг.
+      Olesn: "Но, как мелкая пыль, будет множество врагов твоих,\rКак взбитая ветром
+        солома — полчище притес¬нителей,\rИ это совершится неожиданно, в один
+        миг."
+      deutsch: Aber die Menge deiner Feinde soll werden wie dünner Staub und die Menge
+        der Tyrannen wie wehende Spreu; und das soll plötzlich unversehens
+        geschehen.
+      ukr2: Та зграя ворогів твоїх буде, як дрібний порох; зграя гнобителів, немов
+        полова, що летить геть. І станеться те зненацька, раптом.
+      ukr3: Та всї вони застидаються задля того народу, що їм без пожитку; не буде од
+        него нї підмоги, нї хісна, - хиба тілько стид і сором.
+      bel_syomukha: Мноства ворагаў тваіх будзе, як дробны пыл, і безьліч тыранаў, як
+        разьвеяная мякіна; і гэта станецца раптоўна, у адно імгненьне.
+      lev-khv: Но множество твоих врагов будет как тонкая пыль, и множество
+        притеснителей как разлетающаяся мякина; и это будет внезапно, в одно
+        мгновение.
+      czech: Bude proti tobe dav cizaku jak zvireny prach, ukrutniku dav jak zaplava
+        plev. Stane se to nahle, znenadani.
+      spanish: Y será la muchedumbre de tus enemigos como fino polvo; la turba de tus
+        tiranos, como paja que vuela, y vendrá esto de repente, en un momento.
+      greek-lxx: καὶ ἔσται ὡς κονιορτὸς ἀπὸ τροχοῦ ὁ πλοῦτος τῶν ἀσεβῶν καὶ ὡς χνοῦς
+        φερόμενος καὶ ἔσται ὡς στιγμὴ παραχρῆμα
+      st_text: Множество врагов твоих будет, как мелкая пыль, и полчище лютых, как
+        разлетающаяся плева; и это совершится внезапно, в одно мгновение.
+  - id: 20357
+    number: 6
+    bookId: 28
+    text: Господь Саваоф посетит тебя громом и землетрясением, и сильным гласом,
+      бурею и вихрем, и пламенем всепожирающего огня.
+    chapter: 29
+    chapterId: 829
+    parallels:
+      - verseId: 20430
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 30
+        short: Ис:30:30
+    translates:
+      kassian: ""
+      podstr: у Господа Саваофа; посещение ведь будет с громом и землетрясением и
+        звуком громким, буря носящаяся и пламя огня поедающее.
+      csya: Присещение бо будет со громом и с трусом и гласом великим, буря несома и
+        пламень огненный поядаяй.
+      averincev: ""
+      ungerov: Ибо будет посещение с громом и землетрясением, и сильным гласом,
+        несущаяся буря и поядающий пламень огненный.
+      csya_old: Присэще1ніе бо бyдетъ со гро1момъ и3 съ трyсомъ и3 глaсомъ вели1кимъ,
+        бyрz несо1ма и3 плaмень џгненный поzдazй.
+      sovr_rbo: тебя посетит Господь Воинств — придет гром, и землетрясенье, шум
+        великий, и буря, и ураган, и пламя, огнь пожирающий!
+      latin: eritque repente confestim. A Domino exercituum visitabitur in tonitruo,
+        et commotione terrae, et voce magna turbinis et tempestatis, et flammae
+        ignis devorantis.
+      ukr: Господь Саваот тебе громом та трусом навідає, і шумом великим, вихром та
+        бурею, та огняним їдким полум'ям.
+      nkjv: You will be punished by the Lord of hosts With thunder and earthquake and
+        great noise, With storm and tempest And the flame of devouring fire.
+      desnitsky: от ГОСПОДА Воинств нагрянет гром, землетрясение и шум великий, буря,
+        вихрь и палящее пламя.
+      mt: ‫   מֵעִם יְהוָה צְבָאוֹת תִּפָּקֵד בְּרַעַם וּבְרַעַשׁ וְקוֹל גָּדוֹל
+        סוּפָה וּסְעָרָה וְלַהַב אֵשׁ אוֹכֵלָה׃ ‬
+      romana: Domnul Savaot te va cerceta cu tunet, cutremur si zgomot mare, uragan si
+        vijelie si flacari de foc mistuitor!
+      francais: C'est de l'Éternel des armées que viendra le châtiment, Avec des
+        tonnerres, des tremblements de terre et un bruit formidable, Avec
+        l'ouragan et la tempête, Et avec la flamme d'un feu dévorant.
+      italian: dal Signore degli eserciti sarai visitata con tuoni, rimbombi e rumore
+        assordante, con uragano e tempesta e fiamma di fuoco divoratore.
+      old_georgian: და იყოს, ვითარცა წერტილი, მეყსა შინა უფლისა მიერ საბაოთისა, რამეთუ
+        ზედმოხედვა იყოს ქუხილისა თანა და ძრვის, და ჴმისა დიდისა ნიავქარი
+        მომავალი და ალი ცეცხლისა შემჭამელი.
+      portuguese: "Da parte do Senhor dos exércitos será ela visitada com trovões, e
+        com terremotos, e grande ruído, como tufão, e\rtempestade, e labareda de
+        fogo consumidor."
+      polish: "zostaniesz nawiedzone przez Pana Zastępów grzmotem, wstrząsami i
+        wielkim\rhukiem, huraganem, burzą i płomieniami trawiącego ognia."
+      turkish: "Her Şeye Egemen RAB gök gürlemesiyle,\rDepremle, büyük gümbürtü,
+        kasırga ve fırtınayla,\rHer şeyi yiyip bitiren ateş aleviyle seni
+        cezalandıracak."
+      nrt: явится Господь Сил с громом, землетрясением и страшным шумом, ураганом,
+        бурей и пламенем пожирающего огня.
+      Macarius: От Иеговы воинств сделан будет осмотр с громом и землетрясением, и
+        сильным треском, с бурею и вихрем, и с пламенем всепожирающего огня.
+      serbian: Господ над војскама походиће га громом и трусом и хуком великом,
+        вихором и буром и пламеном огњенијем који прождире.
+      bulgarian: Господ Саваот ще те посети с гръм и трус, и със силен глас, с буря и
+        вихър, и с пламък от всепоядащ огън.
+      Olesn: "От Иеговы воинств произойдет поражение\rСреди грома, землетрясения и
+        шума большаго,\rСреди бури и вихря,\rИ пожирающаго пламени огненнаго."
+      deutsch: Denn vom Herrn Zebaoth wird Heimsuchung geschehen mit Wetter und
+        Erdbeben und großem Donner, mit Windwirbel und Ungewitter und mit
+        Flammen des verzehrenden Feuers.
+      ukr2: І Господь сил громом тебе навідає і грюкотом та страшним шумом; бурею,
+        вихорем та полум'ям вогню, що пожирає.
+      ukr3: "Ось вам смутне пророцтво про ту скотину, що мандрує в землю полуденню,
+        через країну нужди й тїснечі, де леви та левицї, гаспиди та летючі змиї;
+        перевозять на хребтах ослячих свої добутки, й на верблюджих горбах -
+        надбаннє своє до народу, що їм нема з його вжитку:"
+      bel_syomukha: Гасподзь Саваоф адведае цябе громам і землятрусам, і моцным
+        голасам, бураю і віхураю, і полымем ўсёпажыральнага агню.
+      lev-khv: Господь Саваоф накажет при громе, и землетрясении, и великом шуме, при
+        буре, и вихре, и пожирающем огненном пламени.
+      czech: Od Hospodina zastupu bude mesto postizeno hromobitim a zemetresenim a
+        mocnym buracenim, vichrem a smrsti a plamenem szirajiciho ohne.
+      spanish: Serás visitada de parte de Yavé de los ejércitos con truenos, estruendo
+        y gran ruido, con huracán, tempestad y llama de fuego devorador.
+      greek-lxx: παρὰ Κυρίου σαβαωθ ἐπισκοπὴ γὰρ ἔσται μετὰ βροντῆς καὶ σεισμοῦ καὶ
+        φωνῆς μεγάλης καταιγὶς φερομένη καὶ φλὸξ πυρὸς κατεσθίουσα
+      st_text: Господь Саваоф посетит тебя громом и землетрясением, и сильным гласом,
+        бурею и вихрем, и пламенем всепожирающего огня.
+  - id: 20358
+    number: 7
+    bookId: 28
+    text: И как сон, как ночное сновидение, будет множество всех народов, воюющих
+      против Ариила, и всех выступивших против него и укреплений его и
+      стеснивших его.
+    chapter: 29
+    chapterId: 829
+    parallels:
+      - verseId: 19168
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 20
+        short: Иов:20:8
+      - verseId: 32258
+        bookId: 22
+        bookCode: psaltir
+        chapter: 72
+        short: Пс:72:20
+      - verseId: 20430
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 30
+        short: Ис:30:30
+    translates:
+      kassian: ""
+      podstr: И будет как видящий сны во сне богатство народов всех, сколькие
+        восставали на Ариил, и все нападавшие на Иерусалим и все собранные
+        против него и огорчающие его.
+      csya: И будет аки соние видяй во сне нощию, богатство всех языков, елицы воеваша
+        на ариила, и вси, иже воеваша на Иерусалима, и вси собраннии нань и
+        озлобляющии его.
+      averincev: ""
+      ungerov: "И будет подобно ночному сновидению: множества всех народов,
+        выступивших против Ариила, и все воевавшие против Иерусалима и все
+        собравшиеся против него и притесняющие его."
+      csya_old: И# бyдетъ ѓки со1ніе ви1дzй во снЁ но1щію, богaтство всёхъ kзы1кwвъ,
+        є3ли1цы воевaша на ґріи1ла, и3 вси2, и5же воевaша на їеrли1ма, и3 вси2
+        со1бранніи нaнь и3 њѕлоблsющіи є3го2.
+      sovr_rbo: Разноплеменные полчища, что ведут войну с Ариэлом — воюют с ним,
+        осаждают крепость его, теснят его отовсюду — они уподобятся сну, ночному
+        виденью!
+      latin: Et erit sicut somnium visionis nocturnae multitudo omnium gentium quae
+        dimicaverunt contra Ariel, et omnes qui militaverunt, et obsederunt, et
+        praevaluerunt adversus eam.
+      ukr: І буде, як сон, як видіння нічне та юрба всіх народів, що на Аріїла воюють,
+        і всі, хто воює на нього, і проти твердині його, і хто йому докучає.
+      nkjv: The multitude of all the nations who fight against Ariel, Even all who
+        fight against her and her fortress, And distress her, Shall be as a
+        dream of a night vision.
+      desnitsky: И множество народов, воющих с Ариэлем, идущих приступом на укрепления
+        его – минуют они, как сон, словно видение ночное.
+      mt: ‫   וְהָיָה כַּחֲלוֹם חֲזוֹן לַיְלָה הֲמוֹן כָּל־הַגּוֹיִם הַצֹּבְאִים
+        עַל־אֲרִיאֵל וְכָל־צֹבֶיהָ וּמְצֹדָתָהּ וְהַמְּצִיקִים לָהּ׃ ‬
+      romana: Si ca un vis, ca o vedenie de noapte va fi multimea de popoare
+        luptatoare impotriva lui Ariel, care se vor razboi cu el, cu cetatea lui
+        si de jur imprejur o vor strange.
+      francais: Et, comme il en est d'un songe, d'une vision nocturne, Ainsi en
+        sera-til de la multitude des nations qui combattront Ariel, De tous ceux
+        qui l'attaqueront, elle et sa forteresse, Et qui la serreront de près.
+      italian: E sarà come un sogno, come una visione notturna, la massa di tutte le
+        nazioni che marciano su Arièl, di quanti la attaccano e delle macchine
+        poste contro di essa.
+      old_georgian: და იყოს, ვითარცა ზმანებული ძილსა შინა, სიმდიდრე ყოველთა წარმართთა,
+        რავდენთა ილაშქრეს იერუსალიმსა ზედა და ყოველთა გალაშქრებულთა ისრაილსა
+        ზედა, და ყოველნი შეკრებულნი მის ზედა და მაჭირვებელნი მისნი.
+      portuguese: "E como o sonho e uma visão de noite será a multidão de todas as
+        nações que hão de pelejar contra Ariel, sim a\rmultidão de todos os que
+        pelejarem contra ela e contra a sua fortaleza e a puserem em aperto."
+      polish: "Jak sen, jak widziadło nocne wyda się zgraja wszystkich narodów, co
+        przeciw\rArielowi wojują. Z wszystkimi, co walczą przeciw niemu, z
+        wieżami oblężniczymi i z oblegającymi go stanie się podobnie,"
+      turkish: "Sonra Ariel'e karşı savaşan çok sayıda ulus, Ona ve kalesine
+        saldıranların hepsi,\rOnu sıkıntıya sokanlar bir rüya gibi,\rGece
+        görülen görüm gibi yok olup gidecekler."
+      nrt: С ордами всех народов, воюющих с Ариилом, нападающих на него, на его
+        крепость, и осаждающих его, будет, как бывает со сном, с ночным
+        сновидением.
+      Macarius: И как-бы сон, как-бы видение ночное, будет полчище всех народов,
+        воюющих против Ариила, и всех выступивших против него и твердыни его, и
+        стеснивших ее.
+      serbian: И мноштво свијех народа који војују на Арил и сви који ударају на њ и
+        на зидове његове и који га притјешњују, биће као утвара ноћна у сну.
+      bulgarian: И като сън, като нощно съновидение ще бъде множеството от всички
+        народи, които воюват против Ариил, и от всички, излезли против него и
+        укрепленията му, и от ония, които са го стеснили.
+      Olesn: "И будет, как греза в видении ночном,\rПолчище всех народов,\rВозставших
+        на Ариила,\rИ всех выступивших против него и крепостей его,\rИ теснивших
+        его."
+      deutsch: Und wie ein Nachtgesicht im Traum, so soll sein die Menge aller Heiden,
+        die wider Ariel streiten, samt allem Heer und Bollwerk, und die ihn
+        ängsten.
+      ukr2: І ватага всіх народів, що воюють проти Аріела, все те, що воює проти нього
+        та його укріплень і на нього натискає, буде, наче сон, мов нічне видиво.
+      ukr3: "Бо Египецька поміч - річ марна й даремна; тим то й накликав я: сила їх -
+        сидїти тихо."
+      bel_syomukha: І як сон, як начное сьненьне будзе мноства ўсіх народаў, што
+        ваююць супроць Арыіла, і ўсіх, што выступаюць супроць яго і ўмацаваньняў
+        ягоных і абложнікаў яго.
+      lev-khv: И множество всех народов, воюющих против Ариила, все, ополчающиеся
+        против него и против его укреплении и угнетающие его, будут как сон, как
+        ночной призрак.
+      czech: "A bude to jako sen, jak nocni videni: shluk vsech pronarodu, ktere
+        vytahly do boje proti Arieli; vsechny vytahly do boje proti nemu a jeho
+        pevnostem, aby na nej dokrocily."
+      spanish: Y será como un sueño, como visión nocturna, la muchedumbre de naciones
+        que combaten a Ariel, que le atacan y embisten su fortaleza y la
+        estrechan de cerca.
+      greek-lxx: καὶ ἔσται ὡς ὁ ἐνυπνιαζόμενος ἐν ὕπνῳ ὁ πλοῦτος τῶν ἐθνῶν πάντων ὅσοι
+        ἐπεστράτευσαν ἐπὶ Αριηλ καὶ πάντες οἱ στρατευσάμενοι ἐπὶ Ιερουσαλημ καὶ
+        πάντες οἱ συνηγμένοι ἐπ᾿ αὐτὴν καὶ θλίβοντες αὐτήν
+      st_text: И как сон, как ночное сновидение, будет множество всех народов, воюющих
+        против Ариила, и всех выступивших против него и укреплений его и
+        стеснивших его.
+  - id: 20359
+    number: 8
+    bookId: 28
+    text: "И как голодному снится, будто он ест, но пробуждается, и душа его тоща; и
+      как жаждущему снится, будто он пьет, но пробуждается, и вот он томится, и
+      душа его жаждет: то же будет и множеству всех народов, воюющих против горы
+      Сиона."
+    chapter: 29
+    chapterId: 829
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И будут как во сне пьющие и едящие, и вставшим напрасный их сон, и каким
+        образом во сне испытывающий жажду как пьющий и вставший ещё будет
+        испытывать жажду, же душа его на пустое уповала, так будет богатство
+        всех народов, сколькие восставали на гору Сион.
+      csya: "И будут аки во сне ядущии и пиющии, и воставшым, тощь их сон: и якоже во
+        сне жаждай аки пияй, воспрянув же еще жаждет, душа же его вотще надеяся:
+        тако будет богатство всех языков, елицы воеваша на гору сионю."
+      averincev: ""
+      ungerov: И будет подобно тому, как во сне едят и пьют, а когда пробудятся, это
+        их пустой сон; и как во сне жаждущий как бы пьет, а проснувшись все еще
+        жаждет, и душа его тщетно надеялась; тоже будет и множеству всех
+        народов, которые воевали против горы Сиона.
+      csya_old: "И# бyдутъ ѓки во снЁ kдyщіи и3 пію1щіи, и3 востaвшымъ, то1щь и4хъ
+        со1нъ: и3 ћкоже во снЁ жaждай ѓки піsй, воспрzнyвъ же є3ще2 жaждетъ,
+        душa же є3гw2 вотще2 надёzсz: тaкw бyдетъ богaтство всёхъ kзы1кwвъ,
+        є3ли1цы воевaша на го1ру сіHню."
+      sovr_rbo: Так голодный видит во сне, будто он ест, а проснувшись, он чувствует
+        голод, так жаждущий видит во сне, будто он пьет, но просыпается он без
+        сил — горло его пересохло. Вот что будет с разноплеменными полчищами,
+        которые ведут войну с горою Сион!
+      latin: "Et sicut somniat esuriens, et comedit, cum autem fuerit expergefactus,
+        vacua est anima ejus; et sicut somniat sitiens et bibit, et postquam
+        fuerit expergefactus, lassus adhuc sitit, et anima ejus vacua est: sic
+        erit multitudo omnium gentium quae dimicaverunt contra montem Sion."
+      ukr: І буде, мов бачить голодний у сні, ніби їсть, а прокинеться він і порожня
+        душа його, і мов спрагнений бачить у сні, ніби п'є, а прокинеться він і
+        ось змучений, а душа його спрагнена! Так буде натовпові всіх народів, що
+        підуть війною на гору Сіон.
+      nkjv: 'It shall even be as when a hungry man dreams, And look-he eats; But he
+        awakes, and his soul is still empty; Or as when a thirsty man dreams,
+        And look-he drinks; But he awakes, and indeed he is faint, And his soul
+        still craves: So the multitude of all the nations shall be, Who fight
+        against Mount Zion."'
+      desnitsky: Так голодный видит во сне, будто ест, но просыпается с пустым
+        желудком, или жаждущий видит во сне, будто пьет, но просыпается
+        истомленным от жажды, с пересохшим горлом – так будет и с этим
+        множеством народов, воюющих против горы Сионской.
+      mt: ‫   וְהָיָה כַּאֲשֶׁר יַחֲלֹם הָרָעֵב וְהִנֵּה אוֹכֵל וְהֵקִיץ וְרֵיקָה
+        נַפְשׁוֹ וְכַאֲשֶׁר יַחֲלֹם הַצָּמֵא וְהִנֵּה שֹׁתֶה וְהֵקִיץ וְהִנֵּה
+        עָיֵף וְנַפְשׁוֹ שׁוֹקֵקָה כֵּן יִהְיֶה הֲמוֹן כָּל־הַגּוֹיִם
+        הַצֹּבְאִים עַל־הַר צִיּוֹן׃ ס ‬
+      romana: Dupa cum cel flamand viseaza ca mananca si se trezeste tot cu stomacul
+        gol, si dupa cum cel insetat viseaza ca bea si se trezeste istovit si
+        tot insetat, tot asa se va intampla cu multimea de popoare care vor
+        merge impotriva muntelui Sion!
+      francais: Comme celui qui a faim rêve qu'il mange, Puis s'éveille, l'estomac
+        vide, Et comme celui qui a soif rêve qu'il boit, Puis s'éveille, épuisé
+        et languissant; Ainsi en sera-t-il de la multitude des nations Qui
+        viendront attaquer la montagne de Sion.
+      italian: "Avverrà come quando un affamato sogna di mangiare, ma si sveglia con
+        lo stomaco vuoto; come quando un assetato sogna di bere, ma si sveglia
+        stanco e con la gola riarsa: così succederà alla folla di tutte le
+        nazioni che marciano contro il monte Sion."
+      old_georgian: და იყვნენ, ვითარცა ძილსა შინა მსუმელნი და მჭამელნი, და აღ-რადგიან,
+        ამაო იყვის სიზმარი მათი და ვითარსახედ იზმანებს წყურიელი ვითარცა მსუმელი,
+        და აღ-რა-დგის, მერმე სწყურინვე, ხოლო სული მისი ცალიერად ესვიდა, ეგრეთ
+        იყოს სიმდიდრე ყოველთა წარმართთა, რავდენთა განილაშქრეს იერუსალიმსა ზედა
+        და მთასა სიონსა.
+      portuguese: "Será também como o faminto que sonha que está a comer, mas,
+        acordando, sente-se vazio; ou como o sedento\rque sonha que está a
+        beber, mas, acordando, desfalecido se acha, e ainda com sede; assim será
+        a multidão de\rtodas as nações que pelejarem contra o monte Sião."
+      polish: "jak kiedy ktoś głodny śni, że je, ale się budzi z pustym żołądkiem, i
+        jak\rgdy ktoś spragniony śni, że pije, lecz budzi się zmęczony i z
+        wyschniętym\rgardłem, tak będzie ze zgrają wszystkich narodów, idących
+        do boju przeciw\rgórze Syjon."
+      turkish: "Rüyada yemek yediğini gören aç kişi,\rUyandığında hâlâ açtır;\rRüyada
+        su içtiğini gören susuz kişi, Uyandığında susuzluktan hâlâ baygındır.
+        İşte Siyon Dağı'na karşı savaşan Kalabalık uluslar da böyle olacak."
+      nrt: Как снится голодному, что он ест, но, проснувшись, он все еще мучается от
+        голода, и как снится жаждущему, что он пьет, но, проснувшись, он все еще
+        измучен и томим жаждой, так же будет с ордами всех народов, что воюют
+        против горы Сион.
+      Macarius: И как голодному снится, будто он ест; но пробуждается, и вот, тоща
+        душа его; и как жаждущему снится, будто он пьет; но пробуждается, и вот,
+        он томен, и душа его полна желания; то же будет полчищу всех народов,
+        воюющих против горы Сиона. -
+      serbian: Биће као кад гладан сни да једе, па кад се пробуди а душа му празна;
+        или кад сни жедан да пије, па кад се пробуди, а он изнемогао и душа му
+        жедна; тако ће бити мноштво свијех народа што војују на гору Сионску.
+      bulgarian: И както гладен сънува, че уж яде, но събужда се, и душата му е
+        празна; и както жаден сънува, че уж пие, но събужда се, и ето мъчи се, и
+        душата му жадува; същото ще бъде и с множеството от всички народи, които
+        воюват против Сион планина.
+      Olesn: "Как голодному снится: вот он ест..\t  \rНо пробуждается, и — пуста душа
+        его;\rИли, как жаждущему грезится: вот он пьет, Когда пробуждается, и
+        вот он изнурен,\rИ душа его томится жаждою;\rТак будет с ополчением всех
+        народов, Возставших на гору Сион."
+      deutsch: "Denn gleichwie einem Hungrigen träumt, daß er esse, wenn er aber
+        aufwacht, so ist seine Seele noch leer; und wie einem Durstigen träumt,
+        daß er trinke, wenn er aber aufwacht, ist er matt und durstig: also soll
+        sein die Menge aller Heiden, die wider den Berg Zion streiten."
+      ukr2: І як голодному ввісні сниться, що він їсть, а прокинеться, - аж голод його
+        мучить; або як спраглому сниться, що він п'є, а прокинеться, - аж його
+        в'ялить, і в горлі в нього пересохло, так воно буде й з ордою всіх
+        народів, що воюють проти гори Сіону.
+      ukr3: Ійди ж, напиши се їм на таблицї, запиши в книгу, щоб воно в їх перед
+        віччу, поки сьвіт сьвітом, стояло.
+      bel_syomukha: "І як галоднаму сьніцца, быццам ён есьць, але прачынаецца, і душа
+        ў яго пустая; і як сасьмягламу сьніцца, быццам ён п'е, а прачнецца, і
+        вось ён утохлы, і душа ў яго прагне: тое самае будзе і мноству народаў,
+        якія ваююць супроць гары Сіёна."
+      lev-khv: "Как голодный видит во сне, будто он ест, но просыпается, и душа его
+        тоща; и как жаждущий видит во сне, будто он пьет, но просыпается, и вот,
+        он истомлен, и душа его имеет сильную жажду: так будет со множеством
+        всех этих народов, воюющих против горы Сиона."
+      czech: "Bude to vsak, jako kdyz lacny ma sen: zda se mu, ze ji, a kdyz procitne,
+        ma prazdnou dusi. Nebo jako kdyz ma sen ziznivy: zda se mu, ze pije, a
+        kdyz procitne, je ochably a jeho duse prahne. Tak dopadne shluk vsech
+        pronarodu, ktere vytahly do boje proti hore Sijonu."
+      spanish: Como el hambriento sueña que come, y despierta y está vacía su alma;
+        como sueña que bebe el sediento, y se despierta desfallecido, y su alma
+        sedienta, lo mismo sucederá a la muchedumbre de todas las naciones que
+        pelean contra el monte de Sión.
+      greek-lxx: καὶ ἔσονται ὡς οἱ ἐν ὕπνῳ πίνοντες καὶ ἔσθοντες καὶ ἐξαναστάντων
+        μάταιον αὐτῶν τὸ ἐνύπνιον καὶ ὃν τρόπον ἐνυπνιάζεται ὁ διψῶν ὡς πίνων
+        καὶ ἐξαναστὰς ἔτι διψᾷ ἡ δὲ ψυχὴ αὐτοῦ εἰς κενὸν ἤλπισεν οὕτως ἔσται ὁ
+        πλοῦτος πάντων τῶν ἐθνῶν ὅσοι ἐπεστράτευσαν ἐπὶ τὸ ὄρος Σιων
+      st_text: "И как голодному снится, будто он ест, но пробуждается, и душа его
+        тоща; и как жаждущему снится, будто он пьет, но пробуждается, и вот он
+        томится, и душа его жаждет: то же будет и множеству всех народов,
+        воюющих против горы Сиона."
+  - id: 20360
+    number: 9
+    bookId: 28
+    text: "Изумляйтесь и дивитесь: они ослепили других, и сами ослепли; они пьяны,
+      но не от вина, - шатаются, но не от сикеры;"
+    chapter: 29
+    chapterId: 829
+    parallels:
+      - verseId: 18974
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 12
+        short: Иов:12:25
+    translates:
+      kassian: ""
+      podstr: Ослабейте и ужаснитесь и почувствуйте похмелье не от сикеры и не от вина
+      csya: Разслабейте и ужаснитеся, и упийтеся не сикером, ни вином,
+      averincev: ""
+      ungerov: Изумляйтесь и ужасайтесь; упивайтесь, но не сикерой и не вином.
+      csya_old: Разслабёйте и3 ўжасни1тесz, и3 ўпjйтесz не сіке1ромъ, ни віно1мъ,
+      sovr_rbo: Остолбенейте, оцепенейте, ослепните, незрячими станьте! Захмелейте, да
+        не от вина, закачайтесь, да не от хмеля.
+      latin: Obstupescite et admiramini; fluctuate et vacillate; inebriamini, et non a
+        vino; movemini, et non ab ebrietate.
+      ukr: Одубійте й дивуйтесь, заліпіть собі очі й осліпніть! Вони повпивалися, та
+        не вином, захитались, та не від п'янкого напою,
+      nkjv: Pause and wonder! Blind yourselves and be blind! They are drunk, but not
+        with wine; They stagger, but not with intoxicating drink.
+      desnitsky: Удивляйтесь до полного изумления, закрывайте глаза до полного
+        ослепления, пьянейте, но не от вина, шатайтесь, но не от хмельного –
+      mt: ‫   הִתְמַהְמְהוּ וּתְמָהוּ הִשְׁתַּעַשְׁעוּ וָשֹׁעוּ שָׁכְרוּ וְלֹא־יַיִן
+        נָעוּ וְלֹא שֵׁכָר׃ ‬
+      romana: Stati incremeniti si inmarmuriti, fiti orbi si orbi ramaneti!
+        Imbatati-va, dar nu de vin; clatinati-va, dar nu de bautura!
+      francais: Soyez stupéfaits et étonnés! Fermez les yeux et devenez aveugles! Ils
+        sont ivres, mais ce n'est pas de vin; Ils chancellent, mais ce n'est pas
+        l'effet des liqueurs fortes.
+      italian: Stupite pure così da restare sbalorditi, chiudete gli occhi in modo da
+        rimanere ciechi; ubriacatevi ma non di vino, barcollate ma non per
+        effetto di bevande inebrianti.
+      old_georgian: დაიჴსნენით და განჰკერთით და მებრუე იქმნენით არა თაფლუჭისაგან, არცა
+        ღჳნისაგან,
+      portuguese: "Pasmai, e maravilhai-vos; cegai-vos e ficai cegos; bêbedos estão,
+        mas não de vinho, andam cambaleando, mas\rnão de bebida forte."
+      polish: "Wpadnijcie w osłupienie i trwajcie w nim, zaślepcie się i pozostańcie
+        ślepi,\rbądźcie pijani, choć nie od wina, zataczajcie się, choć nie pod
+        wpływem sycery."
+      turkish: "Şaşırın, şaşkına dönün,\rKendinizi kör edin, görmez olun.\rŞarap
+        içmeden sarhoş olun,\rİçki içmeden sendeleyin."
+      nrt: Изумляйтесь и удивляйтесь, ослепите себя и будьте слепы; будьте пьяны, но
+        не от вина, шатайтесь, но не от хмельного.
+      Macarius: Недоумевайте и чудитесь! изумляйтесь и не постигайте! опьянели, но не
+        от вина, шатаются, но не от сикеры.
+      serbian: "Станите и чудите се; вапијте и вичите: Пијани су, али не од вина;
+        посрћу, али не од силовита пића."
+      bulgarian: "Чудете се и се дивете: те ослепиха другите, и сами ослепяха; те са
+        пияни, ала не от вино, - политат, ала не от сикер;"
+      Olesn: "Они смотрят разинув рот, и изумляются, Хотят понять и столбенеют;\rОни
+        пьяны, но не от вина,\rНе держатся на ногах, но не от крепкаго\rнапитка,
+        —"
+      deutsch: Erstarret und werdet bestürzt, verblendet euch und werdet blind! Werdet
+        trunken, doch nicht vom Wein, taumelt, doch nicht von starkem Getränk!
+      ukr2: Стуманійте, остовпійте! Осліпніть і будьте сліпими, ви, що п'яні, хоч не
+        від вина, ви, що заточуєтеся, хоч і не від п'янкого напою!
+      ukr3: Бо се люд упрямий, дїти віроломні, що не хочуть слухати Божого закону,
+      bel_syomukha: Зьдзіўляйцеся і дзіву давайцеся; яны асьляпілі іншых, і самі
+        асьлеплі; яны п'яныя, але не ад віна, - хістаюцца, але не ад сікеры;
+      lev-khv: Стойте, пораженные, и удивляйтесь, притворитесь слепыми и ослепните.
+        Они пьяны, но не от вина, шатаются, но не от сикеры;
+      czech: Zasnete a ustrnte! Oslepnete, budte slepi! Jsou opili, ale ne vinem,
+        potaceji se, ne vsak po opojnem napoji.
+      spanish: Espantaos, asombraos, ofuscaos y cegaos; embriagaos, pero no de vino;
+        bamboleaos, pero no por los licores.
+      greek-lxx: ἐκλύθητε καὶ ἔκστητε καὶ κραιπαλήσατε οὐκ ἀπὸ σικερα οὐδὲ ἀπὸ οἴνου
+      st_text: "Изумляйтесь и дивитесь: они ослепили других, и сами ослепли; они
+        пьяны, но не от вина, - шатаются, но не от сикеры;"
+  - id: 20361
+    number: 10
+    bookId: 28
+    text: ибо навел на вас Господь дух усыпления и сомкнул глаза ваши, пророки, и
+      закрыл ваши головы, прозорливцы.
+    chapter: 29
+    chapterId: 829
+    parallels:
+      - verseId: 16441
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 51
+        short: Иер:51:39
+      - verseId: 32852
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 11
+        short: Рим:11:8
+    translates:
+      kassian: ""
+      podstr: потому что напоил вас Господь духом оцепенения и закроет глаза их и
+        пророков их и начальников их, видящих тайные [дела].
+      csya: яко напои вас Господь духом умиления, и смежит очи их и пророков их и
+        князей их, видящих сокровенная.
+      averincev: ""
+      ungerov: Ибо напоил вас Господ духом усыпления, и сомкнет глаза их, и пророков
+        их, начальников их и прозорливцев.
+      csya_old: ћкw напои2 вaсъ гDь дyхомъ ўмиле1ніz, и3 смежи1тъ џчи и4хъ и3
+        проро1кwвъ и4хъ и3 кнzзе1й и4хъ, ви1дzщихъ сокровє1ннаz.
+      sovr_rbo: Господь пролил на вас дух глубокого забытья. Пророки, закрыл Он вам
+        глаза! Провидцы, закутал Он головы ваши!
+      latin: "Quoniam miscuit vobis Dominus spiritum soporis; claudet oculos vestros:
+        prophetas et principes vestros, qui vident visiones, operiet."
+      ukr: бо вилив Господь на вас духа глибокого сну та закрив ваші очі, затьмарив
+        пророків і ваших голів та провидців!
+      nkjv: For the Lord has poured out on you The spirit of deep sleep, And has
+        closed your eyes, namely, the prophets; And He has covered your heads,
+        namely, the seers.
+      desnitsky: "ГОСПОДЬ навел на вас глубокую сонливость: сомкнул ваши очи, пророки,
+        покрыл ваши лица, провидцы."
+      mt: ‫   כִּי־נָסַךְ עֲלֵיכֶם יְהוָה רוּחַ תַּרְדֵּמָה וַיְעַצֵּם אֶת־עֵינֵיכֶם
+        אֶת־הַנְּבִיאִים וְאֶת־רָאשֵׁיכֶם הַחֹזִים כִּסָּה׃ ‬
+      romana: Ca Domnul a turnat peste voi un duh de toropeala. El a inchis ochii
+        vostri, profetilor, si capetele voastre, vazatorilor, le-a acoperit cu
+        val.
+      francais: Car l'Éternel a répandu sur vous un esprit d'assoupissement; Il a
+        fermé vos yeux (les prophètes), Il a voilé vos têtes (les voyants).
+      italian: Poiché il Signore ha versato su di voi uno spirito di torpore, ha
+        chiuso i vostri occhi, ha velato i vostri capi.
+      old_georgian: რამეთუ გუასვა ჩუენ უფალმან სული ლმობიერებისა. და დაუწუხნეს თვალნი
+        მათნი და წინაწარმეტყუელთა მათთანი და მთავართა მათთანი, რომელნი ხედვენ
+        ფარულთა.
+      portuguese: "Porque o Senhor derramou sobre vós um espírito de profundo sono, e
+        fechou os vossos olhos, os profetas; e\rvendou as vossas cabeças, os
+        videntes."
+      polish: "Bo Pan spuścił na was sen twardy, zawiązał wasze oczy ”wieszczków” i
+        zakrył\rwasze głowy ”jasnowidzów”."
+      turkish: Çünkü RAB size uyuşukluk ruhu verdi; Gözlerinizi mühürledi, ey
+        peygamberler, Başlarınızı örttü, ey biliciler.
+      nrt: "Господь навел на вас глубокий сон: Он сомкнул вам глаза, пророки; Он
+        закутал вам головы, провидцы."
+      Macarius: Ибо излил на вас Иегова дух сонливости, и сомкнул очи ваши, (это
+        пророки) и закрыл ваши головы (это прозорливцы).
+      serbian: Јер је Господ излио на вас дух тврдога сна и затворио вам очи,
+        ослијепио пророке и  видиоце, главаре ваше.
+      bulgarian: защото Господ напрати върху ви дух на успиване и затвори вашите очи,
+        о пророци, и закри вашите глави, о ясновидци!
+      Olesn: "Оттого, что Иегова навел на них дух усыпления,\rИ смежил глаза ваши,
+        пророки,\rИ на головы ваши, провидцы, положил покрывало."
+      deutsch: Denn der Herr hat euch einen Geist des harten Schlafs eingeschenkt und
+        eure Augen zugetan; eure Propheten und Fürsten samt den Sehern hat er
+        verhüllt,
+      ukr2: Бо Господь вилив дух задубіння, він замкнув ваші очі, він закрив вам
+        голови.
+      ukr3: 'Що видющим ось як говорять: "Нїчого не бачте!" а пророкам: "Не прорікайте
+        нам правду, говоріте, що нам любе, віщуйте, що миле:'
+      bel_syomukha: бо навёў на вас Гасподзь дух засынаньня, і зьмежыў вочы вашыя,
+        прарокі, і затлуміў галовы вашыя, празарліўцы.
+      lev-khv: Потому что Господь излил на вас дух глубокаго сна и закрыл ваши глаза,
+        помрачил пророков и ваших начальников, прозорливцев.
+      czech: To Hospodin vylil na vas ducha mrakoty, zavrel vase oci, totiz proroky, a
+        zahalil vase hlavy, totiz vidouci.
+      spanish: Porque derramó Yavé sobre vosotros un espíritu de letargo, y cierran
+        vuestros ojos los profetas y velan vuestras cabezas los videntes.
+      greek-lxx: ὅτι πεπότικεν ὑμᾶς Κύριος πνεύματι κατανύξεως καὶ καμμύσει τοὺς
+        ὀφθαλμοὺς αὐτῶν καὶ τῶν προφητῶν αὐτῶν καὶ τῶν ἀρχόντων αὐτῶν οἱ ὁρῶντες
+        τὰ κρυπτά
+      st_text: ибо навел на вас Господь дух усыпления и сомкнул глаза ваши, пророки, и
+        закрыл ваши головы, прозорливцы.
+  - id: 20362
+    number: 11
+    bookId: 28
+    text: 'И всякое пророчество для вас то же, что слова в запечатанной книге,
+      которую подают умеющему читать книгу и говорят: "прочитай ее"; и тот
+      отвечает: "не могу, потому что она запечатана".'
+    chapter: 29
+    chapterId: 829
+    parallels:
+      - verseId: 21219
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 8
+        short: Ис:8:16
+      - verseId: 16961
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 20
+        short: Иез:20:49
+      - verseId: 12570
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 12
+        short: Дан:12:4
+      - verseId: 28476
+        bookId: 77
+        bookCode: otkrovenie-ap-ioanna-bogoslova
+        chapter: 5
+        short: Откр:5:1
+    translates:
+      kassian: ""
+      podstr: "И будут вам все слова эти как слова книги запечатанной этой, которую
+        если дадут её человеку знающему письмо говорящие: Прочти это; и скажет:
+        Не могу прочитать, запечатана ведь."
+      csya: "И будут вам вся сия словеса, аки словеса книги запечатленныя сея, юже аще
+        дадут человеку ведущему писания, глаголюще: прочти сие. И речет: не могу
+        прочести, запечатленна бо."
+      averincev: ""
+      ungerov: 'И будут для вас все слова сии, как слова этой запечатанной книги,
+        которую если дадут человеку, умеющему читать, и скажут: "прочитай ее", и
+        он скажет: "не могу прочесть, потому что она запечатана".'
+      csya_old: "И# бyдутъ вaмъ вс‰ сі‰ словесA, ѓки словесA кни1ги запечатлённыz сеS,
+        ю4же ѓще дадyтъ человёку вёдущему пис†ніz, глаго1люще: прочти2 сіе2. И#
+        рече1тъ: не могY прочести2, запечатлённа бо."
+      sovr_rbo: "Для вас всякое видение стало как слова запечатанного свитка. Если
+        дать такой свиток тому, кто умеет читать, и сказать «прочти!» — он
+        ответит: «Не могу, ведь свиток запечатан»."
+      latin: "Et erit vobis visio omnium sicut verba libri signati, quem cum dederint
+        scienti litteras, dicent: Lege istum: et respondebit: Non possum,
+        signatus est enim."
+      ukr: "І буде вам кожне видіння, немов би слова запечатаної книжки, що дають її
+        тому, хто вміє читати, та кажуть: Читай но оце, та відказує той: Не
+        можу, вона ж запечатана."
+      nkjv: The whole vision has become to you like the words of a book that is
+        sealed, which men deliver to one who is literate, saying, "Read this,
+        please." And he says, "I cannot, for it is sealed."
+      desnitsky: "Всякое видение для вас – как слова запечатанного свитка, подают его
+        знающему грамоту и говорят: «прочти-ка!» – а он отвечает: «не могу,
+        запечатано»."
+      mt: ‫   וַתְּהִי לָכֶם חָזוּת הַכֹּל כְּדִבְרֵי הַסֵּפֶר הֶחָתוּם
+        אֲשֶׁר־יִתְּנוּ אֹתוֹ אֶל־יוֹדֵעַ *הספר **סֵפֶר לֵאמֹר קְרָא נָא־זֶה
+        וְאָמַר לֹא אוּכַל כִּי חָתוּם הוּא׃ ‬
+      romana: 'Drept aceea orice descoperire este pentru voi ca graiurile dintr-o
+        carte pecetluita. Daca le dai cuiva care stie carte si-i zici:
+        "Citeste!" el iti raspunde: "Nu pot, caci ea este pecetluita!"'
+      francais: "Toute la révélation est pour vous comme les mots d'un livre cacheté
+        Que l'on donne à un homme qui sait lire, en disant: Lis donc cela! Et
+        qui répond: Je ne le puis, Car il est cacheté;"
+      italian: "Per voi ogni visione sarà come le parole di un libro sigillato: si da'
+        a uno che sappia leggere dicendogli: \"Leggilo\", ma quegli risponde:
+        \"Non posso, perché è sigillato\"."
+      old_georgian: "და იყვნენ თქვენდა ყოველნი ესე სიტყუანი, ეითარცა სიტყუანი წიგნისა
+        ამის დაბეჭდულისანი, რომელნი-იგი მისციან კაცსა ზედმიწევნულსა წერილთასა და
+        ჰრქუან: აღმოიკითხე ესე! და ჰქვის: ვერ ძალ-მიც აღმოკითხვად, რამეთუ
+        დაბეჭდულ არს."
+      portuguese: "Pelo que toda visão vos é como as palavras dum livro selado que se
+        dá ao que sabe ler, dizendo: Ora lê isto; e\rele responde: Não posso,
+        porque está selado."
+      polish: "Każde objawienie jest dla was jakby słowami zapieczętowanej księgi.
+        Daje się\rją temu, który umie czytać, mówiąc: ”Czytaj ją, prosimy”. On
+        zaś odpowiada: ”Nie mogę, bo ona jest zapieczętowana”."
+      turkish: "Sizin için bütün görüm\rMühürlenmiş bir kitabın sözleri gibi
+        oldu.\rİnsanlar böyle bir kitabı\rOkuma bilen birine verip,\r«Rica etsek
+        şunu okur musun?» diye sorduklarında, «Okuyamam, çünkü mühürlenmiş»
+        yanıtını alırlar."
+      nrt: "Все это видение для вас – не более, чем слова в запечатанном свитке. Если
+        вы дадите свиток тому, кто умеет читать, и скажете: «Пожалуйста, прочти
+        его», – он ответит: «Не могу, ведь он запечатан»."
+      Macarius: "И всякое пророчество будет для вас то же, что слова в запечатанной
+        книге, которую подают умеющему читать книгу, и говорят: «прочитай ее»;
+        тотчас он скажет: «не могу, потому что она запечатана»."
+      serbian: "И свака утвара биће вам као ријечи у запечаћеној књизи, коју даду
+        човјеку који зна читати говорећи: Читај то; а он рече: Не могу, јер је
+        запечаћено."
+      bulgarian: 'И всяко пророчество за вас е същото, каквото думите в запечатана
+        книга, която подават ономува, който знае да чете книга, и казват:
+        "прочети я"; и той отговаря: "не мога, защото е запечатана."'
+      deutsch: "daß euch aller Propheten Gesichte sein werden wie die Worte eines
+        versiegelten Buches, welches man gäbe einem, der lesen kann, und
+        spräche: Lies doch das! und er spräche: Ich kann nicht, denn es ist
+        versiegelt;"
+      ukr2: "Видіння про це все для вас, немов слова, що в книзі під печаттю; дають її
+        письменному й кажуть: «Прочитай це, будь ласка», а він відказує: «Не
+        можу, бо вона під печаттю.»"
+      ukr3: Зійдїте з дороги, відвернїться від правої путї; відсуньте нам із перед
+        очей Сьвятого Ізрайлевопиго!"
+      bel_syomukha: 'І любое прароцтва для вас тое самае, што слова ў зяпячатанай
+        кнізе, якую падаюць таму, хто ўмее чытаць кнігу, і кажуць: "прачытай
+        яе"; і той адказвае: "не магу, бо яна пад пячаткай".'
+      lev-khv: "И все это пророчество будет для вас как слово запечатанной книги,
+        которую дают умеющему читать, говоря: &laquo;пожалуйста, прочитай
+        это&raquo;; но тот отвечает: не могу, потому что она запечатана."
+      czech: 'Videni toho vseho vam bude jako slova zapecetene knihy. Daji ji tomu,
+        kdo umi cist, se slovy: "Precti to." On vsak odpovi: "Nemohu, je
+        zapecetena."'
+      spanish: "Y toda revelación es para vosotros como palabras de libro sellado que
+        se da a leer a quien sabe leer, diciéndole: <<Lee, por favor, esto>>, y
+        responde: <<No puedo, el libro está sellado>>."
+      greek-lxx: καὶ ἔσονται ὑμῖν πάντα τὰ ῥήματα ταῦτα ὡς οἱ λόγοι τοῦ βιβλίου τοῦ
+        ἐσφραγισμένου τούτου ὃ ἐὰν δῶσιν αὐτὸ ἀνθρώπῳ ἐπισταμένῳ γράμματα
+        λέγοντες ἀνάγνωθι ταῦτα καὶ ἐρεῖ οὐ δύναμαι ἀναγνῶναι ἐσφράγισται γάρ
+      st_text: 'И всякое пророчество для вас то же, что слова в запечатанной книге,
+        которую подают умеющему читать книгу и говорят: "прочитай ее"; и тот
+        отвечает: "не могу, потому что она запечатана".'
+  - id: 20363
+    number: 12
+    bookId: 28
+    text: 'И передают книгу тому, кто читать не умеет, и говорят: "прочитай ее"; и
+      тот отвечает: "я не умею читать".'
+    chapter: 29
+    chapterId: 829
+    parallels:
+      - verseId: 5132
+        bookId: 65
+        bookCode: 2oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 3
+        short: 2 Кор:3:4
+    translates:
+      kassian: ""
+      podstr: "И будет дана книга эта в руки человека не знающего письмо, и скажут
+        ему: Прочти это; и скажет: Не знаю письмо."
+      csya: "И дастся книга сия в руце человеку не ведущему писания, и речется ему:
+        прочти сие. И речет: не вем писания."
+      averincev: ""
+      ungerov: 'И дадут эту книгу в руки человеку, не умеющему читать, и скажут ему:
+        "прочитай это", и он скажет: "не умею читат".'
+      csya_old: "И# дaстсz кни1га сіS въ рyцэ человёку не вёдущему пис†ніz, и3
+        рече1тсz є3мY: прочти2 сіе2. И# рече1тъ: не вёмъ пис†ніz."
+      sovr_rbo: "А если дать такой свиток тому, кто читать не умеет, и сказать
+        «прочти!» — он ответит: «Я не умею читать»."
+      latin: "Et dabitur liber nescienti litteras, diceturque ei: Lege; et
+        respondebit: Nescio litteras."
+      ukr: "І дають оту книжку тому, хто не вміє читати, та кажуть: Читай но оце, та
+        відказує той: Я не вмію читати."
+      nkjv: Then the book is delivered to one who is illiterate, saying, "Read this,
+        please." And he says, "I am not literate."
+      desnitsky: "Или дают свиток не знающему грамоты и говорят: «прочти-ка!» – а он
+        отвечает: «не могу, грамоты не знаю»."
+      mt: ‫   וְנִתַּן הַסֵּפֶר עַל אֲשֶׁר לֹא־יָדַע סֵפֶר לֵאמֹר קְרָא נָא־זֶה
+        וְאָמַר לֹא יָדַעְתִּי סֵפֶר׃ ס ‬
+      romana: 'Si daca o dai cuiva care nu stie carte si-i zici: "Citeste!", el iti va
+        raspunde: "Nu stiu carte!"'
+      francais: "Ou comme un livre que l'on donne A un homme qui ne sait pas lire, en
+        disant: Lis donc cela! Et qui répond: Je ne sais pas lire."
+      italian: "Oppure si da' il libro a chi non sa leggere dicendogli: \"Leggilo\",
+        ma quegli risponde: \"Non so leggere\"."
+      old_georgian: "და მიეცეს წიგნი ესე ჴელთა კაცისა არ ზედმიწევნულისა წერილთასასა და
+        ჰრქვან მას: წარიკითხე ესე! და თქუას: არ ზედმიწევნულ ვარ წერილთა."
+      portuguese: "Ou dá-se o livro ao que não sabe ler, dizendo: Ora lê isto; e ele
+        responde: Não sei ler."
+      polish: "Albo dają księgę takiemu, który nie umie czytać, mówiąc: ”Czytajże to”,
+        a\ron odpowiada: ”Nie umiem czytać”."
+      turkish: "Kitabı okuma bilmeyen birine verip,\r«Rica etsek şunu okur musun?»
+        diye sorduklarında ise, «Okuma bilmem» yanıtını alırlar."
+      nrt: "А если вы дадите свиток тому, кто читать не умеет, и скажете: «Пожалуйста,
+        прочти это!» – он ответит: «Я не умею читать»."
+      Macarius: "Или подают сию книгу тому, кто не умеет читать книги, и говорят:
+        «прочитай ее»; тотчас он скажет: «я не умею читать книг»."
+      serbian: "Или да даду књигу оном који не зна читати говорећи: Читај то; а он
+        рече: Не знам читати."
+      bulgarian: 'И дават книгата ономува, който не знае да чете, и казват: "прочети
+        я"; и той отговаря: "не зная да чета."'
+      Olesn: "Тогда предлагают книгу Неумеющему читать;\rГоворят ему: «прочитай-ка
+        это»!\rА он отвечает: «я не учился читать»."
+      deutsch: "oder gleich als wenn man's gäbe dem, der nicht lesen kann, und
+        spräche: Lies doch das! und er spräche: Ich kann nicht lesen."
+      ukr2: "І дають книгу тому, що неписьменний, і кажуть: «Прочитай це, будь ласка»,
+        а той відказує: «Я ж неписьменний.»"
+      ukr3: "Тим то Сьвятий ув Ізраїлї ось як говорить: Що ви слово спасенне моє
+        відкидаєте, а вповаєте на оману й неправду, та в тому шукаєте опори, -"
+      bel_syomukha: 'І падаюць кнігу таму, хто чытаць ня ўмее, і кажуць: "прачытай
+        яе"; і той адказвае: "я ня ўмею чытаць".'
+      lev-khv: "И дают книгу неумеющему читать, говоря: &laquo;пожалуйста, прочитай
+        это&raquo;; и тот отвечает: не умею читать."
+      czech: 'I bude kniha predana tomu, kdo neumi cist, se slovy: "Precti to." A on
+        odpovi: "Neumim cist."'
+      spanish: "O se da el libro a quien no sabe leer, diciéndole: <<Lee, por favor>>,
+        y responde: <<No sé leer>>."
+      greek-lxx: καὶ δοθήσεται τὸ βιβλίον τοῦτο εἰς χεῖρας ἀνθρώπου μὴ ἐπισταμένου
+        γράμματα καὶ ἐρεῖ αὐτῷ ἀνάγνωθι τοῦτο καὶ ἐρεῖ οὐκ ἐπίσταμαι γράμματα
+      st_text: 'И передают книгу тому, кто читать не умеет, и говорят: "прочитай ее";
+        и тот отвечает: "я не умею читать".'
+  - id: 20364
+    number: 13
+    bookId: 28
+    text: "И сказал Господь: так как этот народ приближается ко Мне устами своими, и
+      языком своим чтит Меня, сердце же его далеко отстоит от Меня, и
+      благоговение их предо Мною есть изучение заповедей человеческих;"
+    chapter: 29
+    chapterId: 829
+    parallels:
+      - verseId: 28120
+        bookId: 35
+        bookCode: kniga-proroka-osii
+        chapter: 7
+        short: Ос:7:14
+      - verseId: 25237
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 15
+        short: Мф:15:8
+      - verseId: 26723
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 7
+        short: Мк:7:6
+      - verseId: 26724
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 7
+        short: Мк:7:7
+      - verseId: 22880
+        bookId: 69
+        bookCode: k-kolossanam-poslanie-ap-pavla
+        chapter: 2
+        short: Кол:2:22
+    translates:
+      kassian: ""
+      podstr: "И сказал Господь: Приближается [ко] Мне народ этот губами их почитают
+        Меня, же сердце их далеко отстоит от Меня, тщетно же почитают Меня
+        учащие заповедям людей и учениям."
+      csya: "И рече Господь: приближаются мне людие сии усты своими и устнами своими
+        почитают мя, сердце же их далече отстоит от мене: всуе же почитают мя,
+        учаще заповедем человеческим и учением."
+      averincev: ""
+      ungerov: "И сказал Господь: приближаются ко Мне люди сии устами своими; и чтут
+        Меня языком своим, сердце же их далеко отстоит от Меня, тщетно чтут
+        Меня, уча заповедям и учениям человеческим."
+      csya_old: "И# рече2 гDь: приближaютсz мнЁ лю1діе сjи ўсты6 свои1ми и3 ўстнaми
+        свои1ми почитaютъ мS, се1рдце же и4хъ дале1че tстои1тъ t менє2: всyе же
+        почитaютъ мS, ўчaще зaповэдемъ человёчєскимъ и3 ўче1ніємъ."
+      sovr_rbo: "Господь сказал: «Народ этот близок ко Мне лишь на словах, лишь
+        словами они Меня чтят, сердца же их от Меня далеки. Их страх предо Мною
+        — лишь заповедь, усвоенная ими от людей."
+      latin: "Et dixit Dominus: Eo quod appropinquat populus iste ore suo, et labiis
+        suis glorificat me, cor autem ejus longe est a me, et timuerunt me
+        mandato hominum et doctrinis,"
+      ukr: "І промовив Господь: За те, що народ цей устами своїми наближується, і
+        губами своїми шанує Мене, але серце своє віддалив він від Мене, а страх
+        їхній до Мене заучена заповідь людська,"
+      nkjv: 'Therefore the Lord said: "Inasmuch as these people draw near with their
+        mouths And honor Me with their lips, But have removed their hearts far
+        from Me, And their fear toward Me is taught by the commandment of men,'
+      desnitsky: "И сказал на это ГОСПОДЬ: «На словах этот народ приближается ко Мне,
+        языком своим Меня чтит, а сердце его далеко от Меня, и если они Меня и
+        боятся, то лишь потому, что люди их так научили."
+      mt: ‫   וַיֹּאמֶר אֲדֹנָי יַעַן כִּי נִגַּשׁ הָעָם הַזֶּה בְּפִיו וּבִשְׂפָתָיו
+        כִּבְּדוּנִי וְלִבּוֹ רִחַק מִמֶּנִּי וַתְּהִי יִרְאָתָם אֹתִי מִצְוַת
+        אֲנָשִׁים מְלֻמָּדָה׃ ‬
+      romana: 'Si a zis Domnul: "De aceea poporul acesta se apropie de Mine cu gura si
+        cu buzele Ma cinsteste, dar cu inima este departe, caci inchinarea
+        inaintea Mea nu este decat o randuiala omeneasca invatata de la oameni.'
+      francais: "Le Seigneur dit: Quand ce peuple s'approche de moi, Il m'honore de la
+        bouche et des lèvres; Mais son coeur est éloigné de moi, Et la crainte
+        qu'il a de moi N'est qu'un précepte de tradition humaine."
+      italian: 'Dice il Signore: "Poiché questo popolo si avvicina a me solo a parole
+        e mi onora con le labbra, mentre il suo cuore è lontano da me e il culto
+        che mi rendono è	un imparaticcio di usi umani,'
+      old_georgian: "და თქუა უფალმან: მახს მე ერი ესე, გაგებითა პატივ-მცემენ მე, ხოლო
+        გული მათი შორს განყენებულ არს ჩემგან, და ამაოდ თნობენ ჩემდამო
+        მასწავლელნი ნამცნებთა კაცთასა და მოძღუარებათა."
+      portuguese: "Por isso o Senhor disse: Pois que este povo se aproxima de mim, e
+        com a sua boca e com os seus lábios me\rhonra, mas tem afastado para
+        longe de mim o seu coração, e o seu temor para comigo consiste em
+        mandamentos\rde homens, aprendidos de cor;"
+      polish: "Wyrzekł Pan: Ponieważ ten lud zbliża się do Mnie tylko w słowach, i
+        sławi\rMnie tylko wargami, podczas gdy serce jego jest z dala ode Mnie;
+        ponieważ\rcześć jego jest dla Mnie tylko wyuczonym przez ludzi
+        zwyczajem,"
+      turkish: "Rab diyor ki, «Bu halk bana yaklaşıp Ağızlarıyla, dudaklarıyla beni
+        sayar, Ama yürekleri benden uzak.\rBenden korkmaları da\rİnsanlardan
+        öğrendikleri buyrukların sonucudur."
+      nrt: "Владыка говорит: – Этот народ приближается ко Мне устами, чтит Меня
+        губами, но сердца их далеки от Меня, и их поклонение Мне – лишь
+        заученное человеческое предписание."
+      Macarius: "И сказал Господь: поскольку народ сей приближается языком своим, и
+        устами своими чтит Меня, а сердцем своим далек от Меня, и все
+        благоговение их предо Мною есть выученная заповедь человеков:"
+      serbian: "Зато рече Господ: Што се овај народ приближује устима својима и уснама
+        својим поштује ме, а срце им далеко стоји од мене, и страх којим ме се
+        боје заповијест је људска којој су научени,"
+      bulgarian: "И рече Господ: понеже този народ се приближава към Мене с устата си,
+        и с езика си Ме почита, а сърцето му отстои далеч от Мене, и
+        благоговението им пред Мене е да изучват човешки заповеди;"
+      Olesn: "И сказал Господь:\rТак как приближается этот народ устами\rсвоими,\rИ
+        словами своими прославляет Меня,\rСердце же его далеко от Меня, — \rИ
+        стало благоговение его предо Много Только заповедию человеческою,
+        заученною;"
+      deutsch: "Und der Herr spricht: Darum daß dies Volk zu mir naht mit seinem Munde
+        und mit seinen Lippen mich ehrt, aber ihr Herz fern von mir ist und sie
+        mich fürchten nach Menschengeboten, die sie lehren:"
+      ukr2: "І сказав Господь: «Через те, що цей народ устами тільки зближається до
+        мене й губами тільки мене шанує, а серце своє віддалив від мене, і страх
+        його передо мною - то лише вивчена заповідь людська,"
+      ukr3: То беззаконство се буде вам, мов щілина перед розпадом, що показалась у
+        мурі високім, - грухне він нагло, в хвилинї.
+      bel_syomukha: "І сказаў Гасподзь: як што людзі гэтыя шануюць Мяне вуснамі
+        сваімі, і языком сваім шануюць Мяне, а сэрца іхняе далёка адлягае ад
+        Мяне, і багавейнасьць іх перад Мною ёсьць вывучэньне запаведзяў
+        чалавечых;"
+      lev-khv: "Господь сказал: так как этот народ приближается языком своим и чтит
+        Меня устами своими, а сердце его далеко от Меня, и благоговение их предо
+        Мною заученная человеческая заповедь;"
+      czech: 'Panovnik pravi: "Protoze se tento lid priblizuje ke mne usty a cti me
+        svymi rty, ale svym srdcem se ode mne vzdaluje a jejich bazen prede mnou
+        se stala jen naucenym lidskym prikazem,'
+      spanish: "Y el Señor dice: Pues este pueblo se me acerca sólo de palabra y me
+        honra sólo con los labios, mientras que su corazón está lejos de mí, y
+        su temor de mí no es sino un mandamiento humano aprendido."
+      greek-lxx: καὶ εἶπεν Κύριος ἐγγίζει μοι ὁ λαὸς οὗτος τοῖς χείλεσιν αὐτῶν τιμῶσίν
+        με ἡ δὲ καρδία αὐτῶν πόρρω ἀπέχει ἀπ᾿ ἐμοῦ μάτην δὲ σέβονταί με
+        διδάσκοντες ἐντάλματα ἀνθρώπων καὶ διδασκαλίας
+      st_text: "И сказал Господь: так как этот народ приближается ко Мне устами
+        своими, и языком своим чтит Меня, сердце же его далеко отстоит от Меня,
+        и благоговение их предо Мною есть изучение заповедей человеческих;"
+  - id: 20365
+    number: 14
+    bookId: 28
+    text: то вот, Я еще необычайно поступлю с этим народом, чудно и дивно, так что
+      мудрость мудрецов его погибнет, и разума у разумных его не станет.
+    chapter: 29
+    chapterId: 829
+    parallels:
+      - verseId: 18966
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 12
+        short: Иов:12:17
+      - verseId: 30485
+        bookId: 22
+        bookCode: psaltir
+        chapter: 106
+        short: Пс:106:27
+      - verseId: 16293
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 49
+        short: Иер:49:7
+      - verseId: 17855
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 7
+        short: Иез:7:26
+      - verseId: 17856
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 7
+        short: Иез:7:27
+      - verseId: 9589
+        bookId: 38
+        bookCode: kniga-proroka-avdia
+        chapter: 1
+        short: Авд:1:8
+      - verseId: 1304
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 1
+        short: 1 Кор:1:19
+    translates:
+      kassian: ""
+      podstr: Из-за этого вот Я прибавлю [чтобы] переселить народ этот и переселю их и
+        погублю мудрость мудрых и разум разумных скрою.
+      csya: Сего ради се, аз приложу, еже преселити люди сия, и преставлю я, и погублю
+        премудрость премудрых и разум разумных сокрыю.
+      averincev: ""
+      ungerov: Посему вот Я положил снова переселить народ этот, и переселю его, и
+        погублю мудрость мудрецов и сокрою разум разумных.
+      csya_old: Сегw2 рaди се2, ѓзъ приложY, є4же пресели1ти лю1ди сі‰, и3 престaвлю
+        |, и3 погублю2 премyдрость премyдрыхъ и3 рaзумъ разyмныхъ сокры1ю.
+      sovr_rbo: Поэтому Я буду и впредь творить с этим народом небывалое, невиданные
+        дела, — и погибнет мудрость их мудрецов, не останется разума у разумных.
+      latin: ideo ecce ego addam ut admirationem faciam populo huic miraculo grandi et
+        stupendo; peribit enim sapientia a sapientibus ejus, et intellectus
+        prudentium ejus abscondetur.
+      ukr: тому Я ось ізнову предивне вчиню з цим народом, вчиню чудо й диво, і загине
+        мудрість премудрих його, а розум розумних його заховається.
+      nkjv: Therefore, behold, I will again do a marvelous work Among this people, A
+        marvelous work and a wonder; For the wisdom of their wise men shall
+        perish, And the understanding of their prudent men shall be hidden."
+      desnitsky: Потому сотворю я с этим народом чудо, да, чудесное чудо, которое
+        мудрость их мудрецов погубит, помрачит разум их разумных.
+      mt: ‫   לָכֵן הִנְנִי יוֹסִף לְהַפְלִיא אֶת־הָעָם־הַזֶּה הַפְלֵא וָפֶלֶא
+        וְאָבְדָה חָכְמַת חֲכָמָיו וּבִינַת נְבֹנָיו תִּסְתַּתָּר׃ ס ‬
+      romana: De aceea voi face pentru poporul acesta minuni fara seaman.
+        Intelepciunea celor intelepti se va pierde si istetimea celor isteti va
+        pieri.
+      francais: C'est pourquoi je frapperai encore ce peuple Par des prodiges et des
+        miracles; Et la sagesse de ses sages périra, Et l'intelligence de ses
+        hommes intelligents disparaîtra.
+      italian: perciò, eccomi, continuerò a operare meraviglie e prodigi con questo
+        popolo; perirà la sapienza dei suoi sapienti e si eclisserà
+        l'intelligenza dei suoi intelligenti".
+      old_georgian: ამისთჳს, აჰა, მე შევსძინო გარდაცვალვბა ერისა ამის და გარდავცვალნე
+        იგინი, და წარვწყმიდო სიბრძნე ბრძენთა და გულისჴმის-ყოფა გულისჴმიერთა
+        დავფარო.
+      portuguese: "portanto eis que continuarei a fazer uma obra maravilhosa com este
+        povo, sim uma obra maravilhosa e um\rassombro; e a sabedoria dos seus
+        sábios perecerá, e o entendimento dos seus entendidos se esconderá."
+      polish: "dlatego właśnie Ja ponowię niezwykłe działanie cudów i dziwów z tym
+        ludem:\rzginie mądrość jego myślicieli, a rozum jego mędrców zaniknie."
+      turkish: "Onun için ben de bu halkın arasında yine bir harika, Evet, şaşılacak
+        bir şey yapacağım.\rBilgelerin bilgeliği yok olacak,\rAkıllının aklı
+        duracak.»"
+      nrt: Поэтому Я опять совершу с этим народом необыкновенные дела, необыкновенные
+        и поразительные. Мудрость его мудрецов погибнет, разум разумных
+        исчезнет.
+      Macarius: То вот, Я опять чудесно поступлю с этим народом; сделаю диво и чудо; и
+        мудрость мудрецов его пропадет, и разум у разумных его затмится.
+      serbian: Зато ћу, ево, још радити чудесно с тијем народом, чудесно и дивно, и
+        мудрост мудријех његовијех погинуће и разума разумнијех нестаће.
+      bulgarian: то ето, Аз ще постъпя пак необикновено с този народ, чудно и дивно,
+        тъй че мъдростта на мъдреците му ще загине, и разум у разумните му не ще
+        има.
+      Olesn: "То вот Я поступлю необычайно С народом сим,\rДивно и чудно...\rИ
+        погибнет мудрость мудрецов его,\rИ не станет разума у разумных его."
+      deutsch: so will ich auch mit diesem Volk wunderlich umgehen, aufs wunderlichste
+        und seltsamste, daß die Weisheit seiner Weisen untergehe und der
+        Verstand seiner Klugen verblendet werde.
+      ukr2: тому я і далі творитиму з цим народом дивне диво й чудовину, щоб мудрість
+        їхніх мудрих пропала й розуму не стало в їхніх розумників.»
+      ukr3: І він розвалить його, як розбивають глиняний горщик, розбиваючи його
+        безпощадно, так що між куснями з його не найдеться нї черепка, щоб із
+        припечка взяти углика, або з криницї води зачерпнути.
+      bel_syomukha: дык вось Я буду нязвыкла рабіць з гэтым народам, дзівосна і
+        дзіўна, так што мудрасьць мудрацоў яго згіне, і розуму ў разумных яго не
+        застанецца.
+      lev-khv: То вот, Я сделаю чудное этому народу, дивное чудо, и мудрецы его
+        потеряют мудрость, и скроется разум разумных его.
+      czech: proto i ja budu dale podivuhodne jednat s timto lidem, divne, predivne.
+        Zanikne moudrost jeho moudrych a rozumnost jeho rozumnych bude zakryta."
+      spanish: Por eso he aquí que voy a hacer nuevamente con este pueblo
+        extraordinarios prodigios, y la sabiduría de sus sabios perecerá, y la
+        sagacidad de sus prudentes se eclipsará.
+      greek-lxx: διὰ τοῦτο ἰδοὺ ἐγὼ προσθήσω τοῦ μεταθεῖναι τὸν λαὸν τοῦτον καὶ
+        μεταθήσω αὐτοὺς καὶ ἀπολῶ τὴν σοφίαν τῶν σοφῶν καὶ τὴν σύνεσιν τῶν
+        συνετῶν κρύψω
+      st_text: то вот, Я еще необычайно поступлю с этим народом, чудно и дивно, так
+        что мудрость мудрецов его погибнет, и разума у разумных его не станет.
+  - id: 20366
+    number: 15
+    bookId: 28
+    text: 'Горе тем, которые думают скрыться в глубину, чтобы замысл свой утаить от
+      Господа, которые делают дела свои во мраке и говорят: "кто увидит нас? и
+      кто узнает нас?"'
+    chapter: 29
+    chapterId: 829
+    parallels:
+      - verseId: 10662
+        bookId: 1
+        bookCode: bytie
+        chapter: 39
+        short: Быт:39:9
+      - verseId: 19236
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 22
+        short: Иов:22:13
+      - verseId: 33765
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 23
+        short: Сир:23:24
+      - verseId: 20337
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 28
+        short: Ис:28:15
+    translates:
+      kassian: ""
+      podstr: "Увы глубоко решение делающие и не через Господа; Увы в тайне решение
+        делающие и будут во тьме дела их и скажут: Кто нас увидел и кто нас
+        узнает или которые [дела] мы делаем."
+      csya: "Горе творящым глубоко совет, а не Господем: горе в тайне совет творящым,
+        и будут во тьме дела их, и рекут: кто ны виде, и кто ны уразумеет, яже
+        мы творим?"
+      averincev: ""
+      ungerov: "Горе устраивающим тайное совещание, не от Господа, горе скрытно
+        составляющим замысел; и будут дела их во тьме, и скажут: кто нас видел и
+        кто узнает о нас, что мы делаем?"
+      csya_old: "Го1ре творsщымъ глубо1кw совётъ, ґ не гDемъ: го1ре въ тaйнэ совётъ
+        творsщымъ, и3 бyдутъ во тьмЁ дэлA и4хъ, и3 рекyтъ: кто1 ны ви1дэ, и3
+        кто1 ны ўразумёетъ, ±же мы2 твори1мъ;"
+      sovr_rbo: "Горе тем, кто прячется глубоко, чтобы скрыть от Господа замысел свой!
+        Во тьме они дело свое творят, говорят: „Кто нас видит, кто может
+        узнать?”"
+      latin: "Vae qui profundi estis corde, ut a Domino abscondatis consilium; quorum
+        sunt in tenebris opera, et dicunt: Quis videt nos? et quis novit nos?"
+      ukr: "Горе тим, що глибоко задум ховають від Господа, і чиняться в темряві їхні
+        діла, і що говорять вони: Хто нас бачить, і хто про нас знає?"
+      nkjv: Woe to those who seek deep to hide their counsel far from the Lord, And
+        their works are in the dark; They say, "Who sees us?" and, "Who knows
+        us?"
+      desnitsky: "Горе тем, кто скрывается глубоко, чтобы скрыть свой замысел от
+        ГОСПОДА – творят они свои дела во мраке, приговаривая: “Да кто увидит?
+        Да кто узнает?”"
+      mt: ‫   הוֹי הַמַּעֲמִיקִים מֵיהוָה לַסְתִּר עֵצָה וְהָיָה בְמַחְשָׁךְ
+        מַעֲשֵׂיהֶם וַיֹּאמְרוּ מִי רֹאֵנוּ וּמִי יוֹדְעֵנוּ׃ ‬
+      romana: 'Vai de cei ce ascund lui Dumnezeu taina planurilor lor, ca faptele lor
+        sa se faca la intuneric! Vai de cei care zic: "Cine ne vede? Cine ne
+        stie?"'
+      francais: "Malheur à ceux qui cachent leurs desseins Pour les dérober à
+        l'Éternel, Qui font leurs oeuvres dans les ténèbres, Et qui disent: Qui
+        nous voit et qui nous connaît?"
+      italian: 'Guai a quanti vogliono sottrarsi alla vista del Signore per
+        dissimulare i loro piani, a coloro che agiscono nelle tenebre, dicendo:
+        "Chi ci vede? Chi ci conosce?".'
+      old_georgian: "ვაჲ, რომელნი ღრმასა განზრახვასა ჰყოფენ და არა უფლისა მიერ. ვაჲ,
+        რომელნი ფარულსა განზრახვასა ჰყოფენ და არიან ბნელსა შინა საქმენი მათნი,
+        და იტყჳან: ვინ გჳლხინა ჩვენ? და ვინ გჳცნნეს ჩვენ, ანუ რომელთა ჩვენ
+        ვჰყოფთ?"
+      portuguese: "Ai dos que escondem profundamente o seu propósito do Senhor, e
+        fazem as suas obras às escuras, e dizem:\rQuem nos vê? e quem nos
+        conhece?"
+      polish: "Biada tym, którzy się kryją przed Panem, aby zataić swe zamysły,
+        których\rczyny osnute są cieniem i którzy mówią: ”Kto nas zobaczy i kto
+        nas pozna?”"
+      turkish: "Tasarılarını RAB'den gizlemeye uğraşanların vay haline! Karanlıkta iş
+        gören bu adamlar,\r«Bizi kim görecek, kim tanıyacak?» diye düşünürler."
+      nrt: "Горе прячущимся в глубине, чтобы скрыть от Господа свои замыслы, делающим
+        свое дело во тьме и думающим: «Кто нас увидит? Кто узнает?»"
+      Macarius: "О! сокрывающиеся от Иеговы в глубину, чтобы скрыть свой замысл! и
+        дела у них делаются во мраке, и они говорят: «кто увидит нас? и кто
+        узнает нас»?"
+      serbian: "Тешко онима који дубоко сакривају од Господа намјеру, који раде у
+        мраку и говоре: Ко нас види? И ко нас зна?"
+      bulgarian: "Горко на ония, които мислят да се скрият в дълбочината, за да утаят
+        кроежа си от Господа, които вършат делата си в мрак и казват: кой ще ни
+        види? и кой ще ни узнае?"
+      Olesn: "Увы, думающие скрыть От Иеговы свой замысел!\rОни совершают во мраке
+        дела свои,\rИ говорят: кто видит нас?\rИ кто наблюдает за нами?"
+      deutsch: "Weh, die verborgen sein wollen vor dem Herrn, ihr Vornehmen zu
+        verhehlen, und ihr Tun im Finstern halten und sprechen: Wer sieht uns,
+        und wer kennt uns?"
+      ukr2: "Горе тим, що ховають глибоко свої задуми, щоб перед Господом їх затаїти,
+        що чинять свої справи в темряві і говорять: «Хто нас побачить, хто взнає
+        нас?»"
+      ukr3: "Так бо говорить Господь Бог, Сьвятий Ізрайлїв: Сидячи тихо на місцї, були
+        б ви спаслися; бо в тихостї і надїї вся ваша потуга; та ви не хотїли,"
+      bel_syomukha: "Гора тым, якія схаваюцца ў глыбіню, каб намысел свой утоіць ад
+        Госпада, якія дзеюць дзеі свае ў змроку і кажуць: хто ўбачыць нас? і хто
+        пазнае нас?"
+      lev-khv: "Горе тем, которые глубоко скрываются, чтобы утаить от Господа замыслы,
+        и которых дела бывают во мраке, и которые говорят: кто видит нас, и кто
+        будет наблюдать за нами?"
+      czech: 'Beda tem, kdo sve zamery skryvaji hluboko pred Hospodinem, v temnotach
+        konaji sve ciny a rikaji: "Kdopak nas vidi a kdo o nas vi?"'
+      spanish: "¡Ay de los que buscan lo profundo para encubrir sus designios! ¡Ay de
+        los que se esconden de Yavé, queriendo encubrir sus pensamientos y para
+        sus obras buscan las tinieblas! y dicen: ¿Quién nos ve? ¿Quién nos
+        conoce?"
+      greek-lxx: οὐαὶ οἱ βαθέως βουλὴν ποιοῦντες καὶ οὐ διὰ Κυρίου οὐαὶ οἱ ἐν κρυφῇ
+        βουλὴν ποιοῦντες καὶ ἔσται ἐν σκότει τὰ ἔργα αὐτῶν καὶ ἐροῦσιν τίς ἡμᾶς
+        ἑώρακεν καὶ τίς ἡμᾶς γνώσεται ἢ ἃ ἡμεῖς ποιοῦμεν
+      st_text: 'Горе тем, которые думают скрыться в глубину, чтобы замысл свой утаить
+        от Господа, которые делают дела свои во мраке и говорят: "кто увидит
+        нас? и кто узнает нас?"'
+  - id: 20367
+    number: 16
+    bookId: 28
+    text: 'Какое безрассудство! Разве можно считать горшечника, как глину? Скажет ли
+      изделие о сделавшем его: "не он сделал меня"? и скажет ли произведение о
+      художнике своем: "он не разумеет"?'
+    chapter: 29
+    chapterId: 829
+    parallels:
+      - verseId: 20759
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 45
+        short: Ис:45:9
+      - verseId: 15456
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 18
+        short: Иер:18:6
+      - verseId: 33214
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 9
+        short: Рим:9:20
+    translates:
+      kassian: ""
+      podstr: "Не как грязь гончара посчитается не скажет лепнина слепившему: Не ты
+        меня вылепил или творение сделавшему: Не разумно меня ты сделал."
+      csya: "Не якоже ли брение скудельника вменитеся? Еда речет здание создавшему е:
+        не ты мя создал еси? или творение сотворшему: не разумно мя сотворил
+        еси?"
+      averincev: ""
+      ungerov: "Не будете ли вы подобны глине горшечника? Скажет ли изделие сделавшему
+        его: не ты меня сделал? или произведение своему художнику: не разумно ты
+        меня создал?"
+      csya_old: "Не ћкоже ли бре1ніе скуде1льника вмэните1сz; є3дA рече1тъ здaніе
+        создaвшему є5: не ты2 мS создaлъ є3си2; и3ли2 творе1ніе сотво1ршему: не
+        разyмнw мS сотвори1лъ є3си2;"
+      sovr_rbo: "Как же вы извращаете все! Неужели гончар — все равно что глина? Разве
+        скажет творение о творце: „Он меня не творил!”? Разве скажет изделие о
+        гончаре: „Он ничего не смыслит!”»?"
+      latin: "Perversa est haec vestra cogitatio; quasi si lutum contra figulum
+        cogitet, et dicat opus factori suo: Non fecisti me; et figmentum dicat
+        fictori suo: Non intelligis."
+      ukr: "О, ваша фальшивосте! Чи ганчар уважається рівним до глини? Чи зроблене
+        скаже про майстра свого: Він мене не зробив, а твір про свого творця
+        говоритиме: Він не розуміє цього?"
+      nkjv: Surely you have things turned around! Shall the potter be esteemed as the
+        clay; For shall the thing made say of him who made it, "He did not make
+        me"? Or shall the thing formed say of him who formed it, "He has no
+        understanding"?
+      desnitsky: "Безрассудство! Сравняется ли глина с гончаром? Скажет ли изделие о
+        мастере: “Не он меня сделал”? Скажет ли горшок о гончаре: “Ничего он не
+        понимает”?»"
+      mt: ‫   הַפְכְּכֶם אִם־כְּחֹמֶר הַיֹּצֵר יֵחָשֵׁב כִּי־יֹאמַר מַעֲשֶׂה
+        לְעֹשֵׂהוּ לֹא עָשָׂנִי וְיֵצֶר אָמַר לְיוֹצְרוֹ לֹא הֵבִין׃ ‬
+      romana: 'Ce stricaciune! Oare olarul poate fi socotit drept lut? Lucrul poate
+        oare zice despre lucrator: "Nu m-a facut el!" Vasul zice oare despre
+        olar: "El nu pricepe?"'
+      francais: "Quelle perversité est la vôtre! Le potier doit-il être considéré
+        comme de l'argile, Pour que l'ouvrage dise de l'ouvrier: Il ne m'a point
+        fait? Pour que le vase dise du potier: Il n'a point d'intelligence?"
+      italian: 'Quanto siete perversi! Forse che il vasaio è stimato pari alla creta?
+        Un oggetto può dire del suo autore: "Non mi ha fatto lui"? E un vaso può
+        dire del vasaio: "Non capisce"?'
+      old_georgian: "არა ვითარცა თიჴა მეკეცისა შეირაცხოსა? ნუ ჰრქვასა აღზელილმან
+        აღმზელელსა: არა შენ აღმზილე მე? ანუ შექმნულმან შემოქმედსა: არა
+        გულისჴმიერად შემქმენ მე."
+      portuguese: "Vós tudo perverteis! Acaso o oleiro há de ser reputado como barro,
+        de modo que a obra diga do seu artífice: Ele\rnão me fez; e o vaso
+        formado diga de quem o formou: Ele não tem entendimento?"
+      polish: "O co za przewrotność! Czyż może być garncarz na równi z gliną
+        stawiany?\rCzyż może mówić dzieło o swym twórcy: ”Nie uczynił mnie”, i
+        garnek rzec\ro tym, co go ulepił: ”Nie ma rozumu?”"
+      turkish: "Ne kadar ters düşünceler!\rÇömlekçi balçıkla bir tutulur mu?\rYapı,
+        kendini yapan için,\r«Beni o yapmadı» diyebilir mi?\rÇömlek kendine
+        biçim veren için,\r«O bir şeyden anlamaz» diyebilir mi?"
+      nrt: "Как же вы все извращаете! Можно ли смотреть на горшечника, как на глину?
+        Может ли изделие сказать о своем создателе: «Он не делал меня»? Может ли
+        произведение сказать о своем творце: «Он ничего не знает»?"
+      Macarius: "О, как вы превратно судите! неужели горшечник равняется глине? разве
+        скажет изделие сделавшему его: «не ты сделал меня?» и скажет ли
+        художественное произведение художнику своему, что он ничего не смыслит?
+        -"
+      serbian: "Наопаке мисли ваше нијесу ли као кал лончарски? Говори ли дјело за
+        онога који га је начинио: Није ме начинио? И лонац говори ли за онога
+        који га је начинио: Не разумије?"
+      bulgarian: "Какво безразсъдство! Можем ли да смятаме грънчаря за глина? Ще каже
+        ли изделието за оногова, който го е направил: той не ме е направил? и ще
+        каже ли изделието за художника си: той не разбира?"
+      Olesn: "Безразсудные вы!\rУжели глине равняться с гончаром?\rСкажет ли дело о
+        сделавшем его:\r«Не он сделал меня»? \rИли произведение скажет о
+        художнике своем: «Он не смыслит ничего»?"
+      deutsch: "Wie seid ihr so verkehrt! Gleich als wenn des Töpfers Ton gedächte und
+        ein Werk spräche von seinem Meister: Er hat mich nicht gemacht! und ein
+        Gemächte spräche von seinem Töpfer: Er kennt mich nicht!"
+      ukr2: "Яке ж то безглуздя! Хіба гончаря вважатимуть за глину? Чи виріб скаже про
+        того, який його зробив: він мене, мовляв, не зробив? Чи скаже посуд до
+        гончаря: він, мовляв, не розуміє?"
+      ukr3: 'А мовляли: "Нї, ми на конях утечемо", - за те ж і втечете; "ми на бистрих
+        побіжимо", - за те ж і бистрі будуть вас здогоняти!'
+      bel_syomukha: 'Якое безгалоўе! Хіба можна цаніць ганчара, як гліну? Ці скажа
+        выраб пра вырабшчыка свайго: "ня ён зрабіў мяне?" і ці скажа твор пра
+        мастака свайго: "ён не разумее?"'
+      lev-khv: "О, превратность ваша! Разве горшечник считается наравне с глиною?
+        разве изделие скажет о своем художнике: он не сделал меня? или разве
+        произведение скажет о своем творце: он не смыслит?"
+      czech: 'Je to vase prevracenost, jestlize je hrncir ocenovan stejne jako hlina.
+        Coz rika dilo o tom, kdo je udelal: "On me neudelal?" Coz vytvor rekne o
+        svem tvurci: "On nicemu nerozumi?"'
+      spanish: "¡Qué perversidad la vuestra! ¿Es que ha de considerarse como arcilla
+        el alfarero, de suerte que diga la obra a su hacedor: No me has hecho
+        tú, y la vasija al alfarero: No entiende?"
+      greek-lxx: οὐχ ὡς ὁ πηλὸς τοῦ κεραμέως λογισθήσεσθε μὴ ἐρεῖ τὸ πλάσμα τῷ
+        πλάσαντι οὐ σύ με ἔπλασας ἢ τὸ ποίημα τῷ ποιήσαντι οὐ συνετῶς με
+        ἐποίησας
+      st_text: 'Какое безрассудство! Разве можно считать горшечника, как глину? Скажет
+        ли изделие о сделавшем его: "не он сделал меня"? и скажет ли
+        произведение о художнике своем: "он не разумеет"?'
+  - id: 20368
+    number: 17
+    bookId: 28
+    text: Еще немного, очень немного, и Ливан не превратится ли в сад, а сад не
+      будут ли почитать, как лес?
+    chapter: 29
+    chapterId: 829
+    parallels:
+      - verseId: 20457
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 32
+        short: Ис:32:15
+    translates:
+      kassian: ""
+      podstr: Уже не малое [время] и будет перемещён Ливан как гора Хермель и гора
+        Хермель в лес будет приравнена
+      csya: Не еще ли мало, и приложится ливан, аки гора хермель, и хермель в дубраву
+        вменится?
+      averincev: ""
+      ungerov: И еще немного и Ливан будет как гора Хермель, а гора Хермель будет как
+        дубрава.
+      csya_old: Не є3ще1 ли мaлw, и3 приложи1тсz лівaнъ, ѓки горA херме1ль, и3
+        херме1ль въ дубрaву вмэни1тсz;
+      sovr_rbo: Очень скоро станут Ливанские горы садом, а сад покажется лесом.
+      latin: Nonne adhuc in modico et in brevi convertetur Libanus in carmel, et
+        carmel in saltum reputabitur?
+      ukr: Хіба за короткого часу Ліван на садка не обернеться, а садок порахований
+        буде за ліс?
+      nkjv: Is it not yet a very little while Till Lebanon shall be turned into a
+        fruitful field, And the fruitful field be esteemed as a forest?
+      desnitsky: Еще чуть-чуть – и Ливан станет садом, а сад будет подобен лесу.
+      mt: ‫   הֲלוֹא־עוֹד מְעַט מִזְעָר וְשָׁב לְבָנוֹן לַכַּרְמֶל וְהַכַּרְמֶל
+        לַיַּעַר יֵחָשֵׁב׃ ‬
+      romana: Inca putina vreme si Libanul se va schimba in gradina, si gradina va fi
+        socotita padure.
+      francais: Encore un peu de temps, Et le Liban se changera en verger, Et le
+        verger sera considéré comme une forêt.
+      italian: Certo, ancora un po' e il Libano si cambierà in un frutteto e il
+        frutteto sarà considerato una selva.
+      old_georgian: არღა მერმე მცირედ ჟამისა, და გარდაიცვალოს ლიბანი, ვითარცა მთა
+        ქერმელი, და მთა ქერმელი მაღნარად შეირაცხოს.
+      portuguese: "Porventura dentro ainda de muito pouco tempo não se converterá o
+        Líbano em campo fértil? e o campo fértil não\rse reputará por um
+        bosque?"
+      polish: "Czyż nie w krótkim już czasie Liban zamieni się w ogród, a ogród za
+        bór\rzostanie uznany?"
+      turkish: Lübnan pek yakında meyve bahçesine, Meyve bahçesi ormana dönmeyecek mi?
+      nrt: Разве не совсем уже скоро Ливан станет плодородным полем, а плодородное
+        поле будут считать лесом?
+      Macarius: Не сомневайтесь, еще немного, очень немного, и Ливан в сад
+        превратится, а сад будут признавать лесом.
+      serbian: Неће ли се доскора и Ливан претворити у поље, и поље се узимати за шуму?
+      bulgarian: Още малко, твърде малко, и Ливан не ще ли се превърне в градина, а
+        градината не ще ли я смятат за гора?
+      Olesn: "Еще мало, спустя немного,\rНе станет ли Ливан садом,\rА сад не покажется
+        ли лесом?"
+      deutsch: Wohlan, es ist noch um ein klein wenig zu tun, so soll der Libanon ein
+        Feld werden, und das Feld soll wie ein Wald geachtet werden.
+      ukr2: Хіба не трошки ще, не трошечки, і Ливан перестане бути садом, а сад не
+        будуть вважати за ліс?
+      ukr3: Зо страху перед одним втїкати ме в вас тисяча, а зо страху перед пятьма
+        так розбігнетесь, що останок із вас буде, наче віха на верху гори, мов
+        знак на горбі.
+      bel_syomukha: Яшчэ крыху, зусім крыху, і ці не ператворыцца Ліван у сад, а сад
+        ці ня будуць цаніць як лес?
+      lev-khv: Разве еще не в самое короткое время Ливан обратится в плодоносную
+        равнину, и плодоносная равнина будет оценена как лес?
+      czech: Potrva to jenom velmi kratce a Libanon se zmeni v sad a sad bude mit cenu
+        lesa.
+      spanish: ¿Es que en breve tiempo el Líbano no se convertirá en vergel, y el
+        vergel será tenido por bosque?
+      greek-lxx: οὐκέτι μικρὸν καὶ μετατεθήσεται ὁ Λίβανος ὡς τὸ ὄρος τὸ Χερμελ καὶ τὸ
+        ὄρος τὸ Χερμελ εἰς δρυμὸν λογισθήσεται
+      st_text: Еще немного, очень немного, и Ливан не превратится ли в сад, а сад не
+        будут ли почитать, как лес?
+  - id: 20369
+    number: 18
+    bookId: 28
+    text: И в тот день глухие услышат слова книги, и прозрят из тьмы и мрака глаза
+      слепых.
+    chapter: 29
+    chapterId: 829
+    parallels:
+      - verseId: 20687
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 42
+        short: Ис:42:18
+      - verseId: 34877
+        bookId: 43
+        bookCode: kniga-proroka-sofonii
+        chapter: 3
+        short: Соф:3:9
+      - verseId: 25060
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 11
+        short: Мф:11:5
+      - verseId: 25259
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 15
+        short: Мф:15:30
+      - verseId: 24787
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 7
+        short: Лк:7:22
+      - verseId: 14580
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 10
+        short: Евр:10:7
+    translates:
+      kassian: ""
+      podstr: И услышат в день тот глухие слова книги, и которые во тьме и которые во
+        мгле глаза слепых будут смотреть;
+      csya: И услышат в день оный глусии словеса книги (сея), и иже во тме и иже во
+        мгле очи слепых узрят.
+      averincev: ""
+      ungerov: И услышат в тот день глухие слова книги (этой), и прозрят из тьмы и
+        мрака глаза слепых.
+      csya_old: И# ўслы1шатъ въ де1нь џный глусjи словесA кни1ги (сеS), и3 и5же во тмЁ
+        и3 и5же во мглЁ џчи слэпы1хъ ќзрzтъ.
+      sovr_rbo: В тот день глухие услышат слова, читаемые по свитку, а глаза слепых,
+        покрытые тьмою и мраком, прозреют!
+      latin: Et audient in die illa surdi verba libri, et de tenebris et caligine
+        oculi caecorum videbunt.
+      ukr: І в той день слова книжки почують глухі, а очі сліпих із темноти та з
+        темряви бачити будуть,
+      nkjv: In that day the deaf shall hear the words of the book, And the eyes of the
+        blind shall see out of obscurity and out of darkness.
+      desnitsky: В тот день глухие услышат слова свитка, прозреют слепые от тьмы и мрака.
+      mt: ‫   וְשָׁמְעוּ בַיּוֹם־הַהוּא הַחֵרְשִׁים דִּבְרֵי־סֵפֶר וּמֵאֹפֶל
+        וּמֵחֹשֶׁךְ עֵינֵי עִוְרִים תִּרְאֶינָה׃ ‬
+      romana: In vremea aceea, cei surzi vor auzi cuvintele cartii si ochii celor orbi
+        vor vedea fara umbra si fara intuneric.
+      francais: En ce jour-là, les sourds entendront les paroles du livre; Et,
+        délivrés de l'obscurité et des ténèbres, Les yeux des aveugles verront.
+      italian: Udranno in quel giorno i sordi le parole di un libro; liberati
+        dall'oscurità e dalle tenebre, gli occhi dei ciechi vedranno.
+      old_georgian: და ისმენდენ მას დღესა შინა ყურნი სიტყვათა წიგნისათა და
+        ბნელისშინანი და ნისლისშინანი თვალნი ბრმათანი ხედვიდენ.
+      portuguese: "Naquele dia os surdos ouvirão as palavras do livro, e dentre a
+        escuridão e dentre as trevas os olhos dos cegos a\r
+
+        verão."
+      polish: "W ów dzień głusi usłyszą słowa księgi, a oczy niewidomych, wolne od
+        mroku\r
+
+        i od ciemności, będą widzieć."
+      turkish: O gün sağırlar kitabın sözlerini işitecek, Körler koyu karanlıkta
+        görecek.
+      nrt: В тот день глухие услышат слова свитка, и прозреют из мрака и тьмы глаза
+        слепых.
+      Macarius: И в день оный глухие будут слышать слова книги, и прозрят из тьмы и
+        мрака очи слепых.
+      serbian: И у тај ће дан глухи чути ријечи у књизи, и из таме и мрака видјеће очи
+        слијепијех.
+      bulgarian: И в оня ден глухите ще чуят думите на книгата, и очите на слепите ще
+        прогледат из тъмнина и мрак.
+      Olesn: "И услышат в тот день Глухие слова книги,\r
+
+        И из тьмы и мрака Прозрят глаза слепых."
+      deutsch: Und zu derselben Zeit werden die Tauben hören die Worte des Buches, und
+        die Augen der Blinden werden aus Dunkel und Finsternis sehen,
+      ukr2: Того дня глухі почують слова книги, очі сліпих прозріють із темряви та
+        пітьми.
+      ukr3: Та Господь жде ще, щоб вам ласку явити, здержуєсь, щоб вас пожалувати; бо
+        Господь - се Бог правди; блажен, хто вповає на його.
+      bel_syomukha: І ў той дзень глухія пачуюць словы кнігі, і ўбачаць зь цемры і
+        змроку вочы ў сьляпых.
+      lev-khv: И в тот день глухие услышат слова книги, и глаза слепых прозрят из тьмы
+        и мрака.
+      czech: I uslysi v onen den hlusi slova knihy a oci slepych prohlednou z temnoty
+        a ze tmy.
+      spanish: Y los sordos oirán aquel día las palabras del libro, y los ciegos verán
+        sin oscuridad y sin tinieblas.
+      st_text: И в тот день глухие услышат слова книги, и прозрят из тьмы и мрака
+        глаза слепых.
+      new_text: ""
+      tex_rec: ""
+      peshitta: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Filaret: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+      greek-lxx: καὶ ἀκούσονται ἐν τῇ ἡμέρᾳ ἐκείνῃ κωφοὶ λόγους βιβλίου καὶ οἱ ἐν τῷ
+        σκότει καὶ οἱ ἐν τῇ ὁμίχλῃ ὀφθαλμοὶ τυφλῶν βλέψονται
+  - id: 20370
+    number: 19
+    bookId: 28
+    text: И страждущие более и более будут радоваться о Господе, и бедные люди будут
+      торжествовать о Святом Израиля,
+    chapter: 29
+    chapterId: 829
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и возвеселятся нищие через Господа в веселии, и отчаявшиеся [из] людей
+        насытятся весельем.
+      csya: И возрадуются нищии ради Господа в веселии, и отчаявшиися человецы
+        исполнятся веселия.
+      averincev: ""
+      ungerov: И возрадуются нищие о Господе великою радостью, и люди отчаявшиеся
+        исполнятся веселия.
+      csya_old: И# возрaдуютсz ни1щіи рaди гDа въ весе1ліи, и3 tчazвшіисz человёцы
+        и3спо1лнzтсz весе1ліz.
+      sovr_rbo: Бедняки получат от Господа новую радость, обездоленные возликуют о
+        Святом Боге Израиля,
+      latin: Et addent mites in Domino laetitiam, et pauperes homines in Sancto Israel
+        exsultabunt;
+      ukr: і сумирні побільшать у Господі радість свою, а люди убогі в Святому Ізраїля
+        тішитись будуть!
+      nkjv: The humble also shall increase their joy in the Lord, And the poor among
+        men shall rejoice In the Holy One of Israel.
+      desnitsky: Возрастать будет радость нищих о ГОСПОДЕ, ликование бедняков о Святом
+        Израиля,
+      mt: ‫   וְיָסְפוּ עֲנָוִים בַּיהוָה שִׂמְחָה וְאֶבְיוֹנֵי אָדָם בִּקְדוֹשׁ
+        יִשְׂרָאֵל יָגִילוּ׃ ‬
+      romana: Cei smeriti se vor bucura intru Domnul si cei saraci se vor veseli de
+        Sfantul lui Israel.
+      francais: Les malheureux se réjouiront de plus en plus en l'Éternel, Et les
+        pauvres feront du Saint d'Israël le sujet de leur allégresse.
+      italian: Gli umili si rallegreranno di nuovo nel Signore, i più poveri gioiranno
+        nel Santo di Israele.
+      old_georgian: და იშუებდენ გლახაკნი უფლისა მიერ მხიარულებით, და განწირულნი
+        კაცთაგანნი სიხარულით.
+      portuguese: "E os mansos terão cada vez mais gozo no Senhor, e os pobres dentre
+        os homens se alegrarão no santo de\rIsrael."
+      polish: "Pokorni wzmogą swą radość w Panu, i najubożsi rozweselą się w
+        Świętym\rIzraela,"
+      turkish: Düşkünlerin RAB'de buldukları sevinç artacak, Yoksullar İsrail'in
+        Kutsalı sayesinde coşacak.
+      nrt: Кроткие найдут в Господе новую радость; бедняки возликуют в Святом Израиля.
+      Macarius: И страждущие снова найдут радость в Иегове, и бедные человеки
+        восторжествуют в Святом Израилевом.
+      serbian: И кротки ће се веома радовати у Господу, и ништи између људи веселиће
+        се са свеца Израиљева.
+      bulgarian: И страдащите повече и повече ще се радват у Господа, и бедните люде
+        ще тържествуват у Светия Израилев;
+      Olesn: "Тогда исполнятся веселием о Иегове несчастные, И будут торжествовать о
+        Святом Израиля\rбеднейшие из людей."
+      deutsch: und die Elenden werden wieder Freude haben am Herrn, und die Armen
+        unter den Menschen werden fröhlich sein in dem Heiligen Israels,
+      ukr2: І бідні дедалі більше у Господі веселитимуться, і вбогі між людьми
+        радітимуть Святим Ізраїля.
+      ukr3: На Сионї люд жити ме знов, знов у Ерусалимі; й не будеш гірко плакати, -
+        він змилосердиться на голос плачу твого, й скоро його почує, - дасть
+        відповідь тобі.
+      bel_syomukha: І спрагненыя яшчэ больш будуць радавацца ў Госпадзе, і бедныя
+        людзі цешыцца будуць за Сьвятога Ізраіля;
+      lev-khv: И страждущие найдут большую радость в Господе, и бедные люди будут
+        иметь торжество в Святом Израилеве;
+      czech: Pokorni se znovu budou radovat z Hospodina a nejubozejsi z lidi budou
+        jasat vstric Svatemu Izraele.
+      spanish: Y los humildes volverán a tener alegría en Yavé, y los pobres entre los
+        hombres se gozarán en el Santo de Israel.
+      greek-lxx: καὶ ἀγαλλιάσονται πτωχοὶ διὰ Κύριον ἐν εὐφροσύνῃ καὶ οἱ ἀπηλπισμένοι
+        τῶν ἀνθρώπων ἐμπλησθήσονται εὐφροσύνης
+      st_text: И страждущие более и более будут радоваться о Господе, и бедные люди
+        будут торжествовать о Святом Израиля,
+  - id: 20371
+    number: 20
+    bookId: 28
+    text: потому что не будет более обидчика, и хульник исчезнет, и будут истреблены
+      все поборники неправды,
+    chapter: 29
+    chapterId: 829
+    parallels:
+      - verseId: 26076
+        bookId: 40
+        bookCode: kniga-proroka-mihea
+        chapter: 2
+        short: Мих:2:1
+      - verseId: 28346
+        bookId: 77
+        bookCode: otkrovenie-ap-ioanna-bogoslova
+        chapter: 19
+        short: Откр:19:17
+    translates:
+      kassian: ""
+      podstr: Исчез беззаконный, и погиб надменный, и истреблены поступающие нечестиво
+        на зло
+      csya: Изчезе беззаконник, и погибе гордый, и потребишася вси беззаконнующии во
+        злобе
+      averincev: ""
+      ungerov: Исчезнет беззаконник, и погибнет гордый, и истреблены будут все злые
+        беззаконники,
+      csya_old: И#счезе2 беззако1нникъ, и3 поги1бе го1рдый, и3 потреби1шасz вси2
+        беззако1ннующіи во ѕло1бэ
+      sovr_rbo: ибо не станет угнетателей и те, кто глумился, погибнут. Исчезнут все
+        те, кто жаждет зло творить, —
+      latin: quoniam defecit qui praevalebat, consummatus est illusor, et succisi sunt
+        omnes qui vigilabant super iniquitatem,
+      ukr: Бо скінчився насильник, і минувся насмішник, і понищені всі ті, хто дбає
+        про кривду,
+      nkjv: For the terrible one is brought to nothing, The scornful one is consumed,
+        And all who watch for iniquity are cut off-&#226;€“
+      desnitsky: потому что угнетатель сгинет, и наглеца не станет, исчезнут все, кто
+        зло замышляет,
+      mt: ‫   כִּי־אָפֵס עָרִיץ וְכָלָה לֵץ וְנִכְרְתוּ כָּל־שֹׁקְדֵי אָוֶן׃ ‬
+      romana: Ca apasatorul nu va mai fi, cel batjocoritor va pieri, distrusi vor fi
+        cei ce pandeau sa faca rau,
+      francais: Car le violent ne sera plus, le moqueur aura fini, Et tous ceux qui
+        veillaient pour l'iniquité seront exterminés,
+      italian: Perché il tiranno non sarà più, sparirà il beffardo, saranno eliminati
+        quanti tramano iniquità,
+      old_georgian: მოაკლდა უშჯულოჲ და წარწყმდა ამპარტავანი და მოისრნეს, რომელნი
+        უშჯულოებდეს უკეთურებასა ზედა,
+      portuguese: "Porque o opressor é reduzido a nada, e não existe mais o
+        escarnecedor, e todos os que se dão à iniqüidade são\rdesarraigados;"
+      polish: "bo nie stanie ciemięzcy, z szydercą koniec będzie, i wycięci będą
+        wszyscy, co\rza złem gonią:"
+      turkish: Çünkü acımasızlar yok olacak, alaycılar silinecek, Kötülüğe fırsat
+        kollayanların hepsi kesilip atılacak.
+      nrt: Беспощадные пропадут, глумливые исчезнут, и все, кто привержен злу, будут
+        истреблены –
+      Macarius: Поелику не будет обидчика, и богохульник исчезнет, и будут истреблены
+        все заботливые изыскатели преступлений,
+      serbian: Јер насилника неће бити, и нестаће подсмјевача, и истријебиће се сви
+        који гледају да чине безакоње.
+      bulgarian: защото няма вече да има оскърбител, и хулникът ще изчезне, и ще бъдат
+        изтребени всички поборници на неправдата,
+      Olesn: "Ибо прийдет конец обидчику,\rИсчезнет хульник,\rИ погибнут все служащие
+        неправде,"
+      deutsch: wenn die Tyrannen ein Ende haben und es mit den Spöttern aus sein wird
+        und vertilgt sein werden alle die, so wachen, Mühsal anzurichten,
+      ukr2: Бо гнобителя не стане, глузливець ізникне, пропадуть усі, що неправду
+        берегли,
+      ukr3: І дасть вам Господь хлїб у горю, й воду в нуждї; і вчителї твої небудуть
+        ховатись та й очі твої будуть бачити вчителїв твоїх;
+      bel_syomukha: бо ня будзе больш крыўдзіцеля, і агуднік зьнікне, і будуць
+        вынішчаны ўсе паборцы няпраўды,
+      lev-khv: Потому что нет больше притеснителя, и погиб кощун, и истреблены все
+        блюстители беззакония,
+      czech: Pryc zmizi ukrutnik, po posmevaci bude veta, vyhlazeni budou vsichni, kdo
+        jsou pohotovi k nicemnosti,
+      spanish: Porque se acabaron los tiranos, se terminaron los mofadores y fueron
+        aniquilados los que se iban tras la iniquidad,
+      greek-lxx: ἐξέλιπεν ἄνομος καὶ ἀπώλετο ὑπερήφανος καὶ ἐξωλεθρεύθησαν οἱ
+        ἀνομοῦντες ἐπὶ κακίᾳ
+      st_text: потому что не будет более обидчика, и хульник исчезнет, и будут
+        истреблены все поборники неправды,
+  - id: 20372
+    number: 21
+    bookId: 28
+    text: которые запутывают человека в словах, и требующему суда у ворот
+      расставляют сети, и отталкивают правого.
+    chapter: 29
+    chapterId: 829
+    parallels:
+      - verseId: 16532
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 7
+        short: Иер:7:2
+      - verseId: 15442
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 17
+        short: Иер:17:19
+      - verseId: 9504
+        bookId: 37
+        bookCode: kniga-proroka-amosa
+        chapter: 5
+        short: Ам:5:10
+    translates:
+      kassian: ""
+      podstr: и делающие [чтобы] согрешить людям в слове; всех же порицаемых в дверях
+        преткновение возложат и совратят в неправдах праведного.
+      csya: "и творящии согрешати человеки во слове: всем же обличающым во вратех
+        претыкание положат, понеже совратиша в неправдах праведнаго."
+      averincev: ""
+      ungerov: И те, которые побуждают людей грешить в слове; они всем,
+        оправдывающимся во вратах, ставят сети, и обманывают неправдами
+        праведнаго.
+      csya_old: "и3 творsщіи согрэшaти человёки во сло1вэ: всBмъ же њбличaющымъ во
+        вратёхъ претыкaніе положaтъ, поне1же соврати1ша въ непрaвдахъ првdнаго."
+      sovr_rbo: те, что напраслину возводят на людей, обманывают решающего тяжбы у
+        ворот городских, ложью лишают правосудия того, кто прав.
+      latin: qui peccare faciebant homines in verbo, et arguentem in porta
+        supplantabant, et declinaverunt frustra a justo.
+      ukr: хто судить людину за слово одне, на того ж, хто судить у брамі, вони
+        ставлять пастку, і праведного випихають обманою.
+      nkjv: Who make a man an offender by a word, And lay a snare for him who reproves
+        in the gate, And turn aside the just by empty words.
+      desnitsky: кто ловит человека на слове, на суде его жалобу извращает,
+        невиновного прав лишает.
+      mt: ‫   מַחֲטִיאֵי אָדָם בְּדָבָר וְלַמּוֹכִיחַ בַּשַּׁעַר יְקֹשׁוּן וַיַּטּוּ
+        בַתֹּהוּ צַדִּיק׃ ס ‬
+      romana: Cei care gaseau vina oricui, pentru un cuvant in fata lumii intind cursa
+        judecatorului si pentru nimic rapesc dreptul celui cinstit.
+      francais: Ceux qui condamnaient les autres en justice, Tendaient des pièges à
+        qui défendait sa cause à la porte, Et violaient par la fraude les droits
+        de l'innocent.
+      italian: quanti con la parola rendono colpevoli gli altri, quanti alla porta
+        tendono tranelli al giudice e rovinano il giusto per un nulla.
+      old_georgian: და რომელნი მცოდველ-ჰყოფენ კაცთა სიტყვისა მიერ, ხოლო ყოველთა
+        მამხილებელთა ბჭეთა ზედა საბრჴესა დაუდებენ, და გუერდქცეულყვეს უსამართლოთა
+        მიერ მართალი.
+      portuguese: "os que fazem por culpado o homem numa causa, os que armam laços ao
+        que repreende na porta, e os que por\rum nada desviam o justo."
+      polish: "którzy słowem przywodzą drugiego do grzechu, którzy w bramie
+        stawiają\rsidła na sędziów i odprawiają sprawiedliwego z niczym."
+      turkish: "Onlar ki, insanı tek sözle davasında suçlu çıkarır, Kent kapısında
+        haksızı azarlayana tuzak kurar,\rYok yere haklının hakkını çiğnerler."
+      nrt: те, кто словом делают человека виновным, расставляют западню судье и ложным
+        свидетельством лишают невиновного правосудия.
+      Macarius: Которые запутывают человека в словах, и требующему суда у врат
+        расставляют тенета, и заводят праведного в пустыню непроходимую.
+      serbian: Који окривљује човјека за ријеч, и мећу замку ономе који кара на
+        вратима, и обарају праведнога лажју.
+      bulgarian: които объркват човека с думи и разпъват мрежи ономува, който търси
+        съд при портите, и отблъсват правия.
+      Olesn: Которые оговаривают человека в преступлении, Ищущему суда у ворот
+        разставляют сети, И праваго толкают в пропасть.
+      deutsch: welche die Leute sündigen machen durchs Predigen und stellen dem nach,
+        der sie straft im Tor, und stürzen durch Lügen den Gerechten.
+      ukr2: що засуджували ближнього словами, що наставляли судді пастку в брамі й
+        правого неправно набік відсували.
+      ukr3: "І уші твої все будуть чути впомин їх позад тебе: Ось дорога, простуй нею!
+        як би ви схибили вправо, чи схибили в лїво;"
+      bel_syomukha: якія блытаюць чалавека ў словах, і на таго, хто патрабуе суду каля
+        брамы, ставяць сеткі, і адціраюць таго, чыя праўда.
+      lev-khv: Которые запутывают человека словами, и ставят сеть для имеющаго тяжбу у
+        врат, и отталкивают праваго обманом.
+      czech: kteri svym slovem svadeji cloveka k hrichu, tomu, kdo je v brane kara,
+        kladou lecky a spravedliveho strhuji do nicoty.
+      spanish: los que por una palabra culpaban a un hombre ponían asechanzas al que
+        juzga en la puerta y daban de lado al justo por nada.
+      greek-lxx: καὶ οἱ ποιοῦντες ἁμαρτεῖν ἀνθρώπους ἐν λόγῳ πάντας δὲ τοὺς ἐλέγχοντας
+        ἐν πύλαις πρόσκομμα θήσουσιν καὶ ἐπλαγίασαν ἐν ἀδίκοις δίκαιον
+      st_text: которые запутывают человека в словах, и требующему суда у ворот
+        расставляют сети, и отталкивают правого.
+  - id: 20373
+    number: 22
+    bookId: 28
+    text: "Посему так говорит о доме Иакова Господь, Который искупил Авраама: тогда
+      Иаков не будет в стыде, и лице его более не побледнеет."
+    chapter: 29
+    chapterId: 829
+    parallels:
+      - verseId: 9752
+        bookId: 1
+        bookCode: bytie
+        chapter: 11
+        short: Быт:11:31
+      - verseId: 10997
+        bookId: 1
+        bookCode: bytie
+        chapter: 48
+        short: Быт:48:16
+    translates:
+      kassian: ""
+      podstr: "Из-за этого это говорит Господь на дом Иакова, которого Он отделил от
+        Авраама: Не теперь будет посрамлён Иаков и не теперь лицо изменится
+        Израиля;"
+      csya: "Сего ради тако глаголет Господь на дом иаковль, егоже определи от
+        авраама: не ныне постыдится иаков, ниже ныне лице свое изменит израиль:"
+      averincev: ""
+      ungerov: "Посему так говорит Господь о доме Иакова, котораго Он выделил от
+        Авраама: не ныне постыдится Иаков, не ныне изменит лице свое Израиль."
+      csya_old: "Сегw2 рaди тaкw гlетъ гDь на до1мъ їaкwвль, є3го1же њпредэли2 t
+        ґвраaма: не нн7э постыди1тсz їaкwвъ, ниже2 нн7э лице2 свое2 и3змэни1тъ
+        ї}ль:"
+      sovr_rbo: "Поэтому так говорит Господь, Бог сынов Иакова, Избавитель Авраама:
+        «Уже не придется Иакову стыдиться, больше не придется ему бледнеть!"
+      latin: "Propter hoc, haec dicit Dominus ad domum Jacob, qui redemit Abraham: Non
+        modo confundetur Jacob, nec modo vultus ejus erubescet;"
+      ukr: "Тому то Господь, що викупив Авраама, сказав домові Якова так: Не буде
+        тепер засоромлений Яків, й обличчя його не поблідне тепер,"
+      nkjv: 'Therefore thus says the Lord, who redeemed Abraham, concerning the house
+        of Jacob: "Jacob shall not now be ashamed, Nor shall his face now grow
+        pale;'
+      desnitsky: "Так говорит ГОСПОДЬ дому Иакова, Тот, кто искупил Авраама: «Отныне
+        не постыдится Иаков, отныне ему краснеть не придется."
+      mt: ‫   לָכֵן כֹּה־אָמַר יְהוָה אֶל־בֵּית יַעֲקֹב אֲשֶׁר פָּדָה אֶת־אַבְרָהָם
+        לֹא־עַתָּה יֵבוֹשׁ יַעֲקֹב וְלֹא עַתָּה פָּנָיו יֶחֱוָרוּ׃ ‬
+      romana: 'Pentru aceasta, Domnul, Care a rascumparat pe Avraam asa zice catre
+        casa lui Iacov: "De aici incolo, nu se va mai rusina Iacov si fata lui
+        nu se va mai ingalbeni.'
+      francais: "C'est pourquoi ainsi parle l'Éternel à la maison de Jacob, Lui qui a
+        racheté Abraham: Maintenant Jacob ne rougira plus, Maintenant son visage
+        ne pâlira plus."
+      italian: "Pertanto, dice alla casa di Giacobbe il Signore che riscattò Abramo:
+        \"D'ora in poi Giacobbe non dovrà più arrossire, il suo viso non
+        impallidirà più,"
+      old_georgian: "ამისთჳს ამათ იტყჳს უფალი სახლსა ზედა იაკობისსა, რომელი
+        განისაზღვრა აბრაჰამისგან: არსირცხჳლეულ იქმნეს აწ იაკობი, არცა პირი
+        გარდაცვალოს აწ ისრაჱლმან,"
+      portuguese: "Portanto o Senhor, que remiu a Abraão, assim diz acerca da casa de
+        Jacó: Jacó não será agora envergonhado,\rnem agora se descorará a sua
+        face."
+      polish: "Dlatego tak mówi Pan, Bóg domu Jakuba, który odkupił Abrahama:
+        ”Odtąd\rJakub nie będzie się rumienił ani oblicze jego już nie
+        przyblednie,"
+      turkish: "Bundan dolayı, İbrahim'i kurtarmış olan RAB Yakup soyuna diyor
+        ki,\r«Yakup soyu artık utanmayacak,\rYüzleri korkudan sararmayacak."
+      nrt: "Поэтому Господь, Который искупил Авраама, говорит дому Иакова так: – Иаков
+        не будет больше постыжен; лица их больше не будут бледными."
+      Macarius: "Посему так говорит дому Иаковлеву Иегова, Который искупил Авраама:
+        отныне Иаков не будет в стыде, и не будет теперь бледно лице его."
+      serbian: "Зато Господ, који је откупио Аврама, овако говори за дом Јаковљев:
+        Неће се више Јаков постидјети, нити ће му лице поблиједјети."
+      bulgarian: "Затова тъй казва за Иакововия дом Господ, Който изкупи Авраама:
+        тогава Иаков не ще бъде в срам, и лицето му вече не ще побледнее."
+      Olesn: "Посему, так говорит о доме Иакова Иегова, Который спас  Авраама:
+        \r«Теперь не устыдится Иаков,\rТеперь не побледнеет лице его."
+      deutsch: "Darum spricht der Herr, der Abraham erlöst hat, zum Hause Jakob also:
+        Jakob soll nicht mehr zu Schanden werden, und sein Antlitz soll sich
+        nicht mehr schämen."
+      ukr2: "Тому так говорить Господь, що відкупив Авраама, домові Якова: «Яків не
+        буде більше стидатися, обличчя його більш не червонітиме."
+      ukr3: "Тодї будуть ідоли в поволоцї срібній, та боввани в поволоцї золотій, -
+        гидотою вам; ти повикидаєш їх, як погань, і казати меш: геть звідсї;"
+      bel_syomukha: "Пасьля так кажа пра дом Якава Гасподзь, Які адкупіў Абрагама:
+        тады Якаў ня будзе ў сораме, і твар у яго больш не зьбялее,"
+      lev-khv: "Поэтому Господь, искупивший Авраама, так говорит дому Иакова: теперь
+        Иаков не будет посрамлен, и теперь его лице не будет бледно;"
+      czech: 'Proto pravi toto Hospodin, ktery vykoupil Abrahama, o domu Jakobove:
+        "Jakob uz nepozna hanbu, ani mu nezblednou lice,'
+      spanish: "Por eso el que redimió a Abraham, Yavé, dice a la casa de Jacob: Ahora
+        no será confundido Jacob, ya no palidecerá su rostro."
+      greek-lxx: διὰ τοῦτο τάδε λέγει Κύριος ἐπὶ τὸν οἶκον Ιακωβ ὃν ἀφώρισεν ἐξ Αβρααμ
+        οὐ νῦν αἰσχυνθήσεται Ιακωβ οὐδὲ νῦν τὸ πρόσωπον μεταβαλεῖ Ισραηλ
+      st_text: "Посему так говорит о доме Иакова Господь, Который искупил Авраама:
+        тогда Иаков не будет в стыде, и лице его более не побледнеет."
+  - id: 20374
+    number: 23
+    bookId: 28
+    text: Ибо когда увидит у себя детей своих, дело рук Моих, то они свято будут
+      чтить имя Мое и свято чтить Святаго Иаковлева, и благоговеть пред Богом
+      Израилевым.
+    chapter: 29
+    chapterId: 829
+    parallels:
+      - verseId: 32789
+        bookId: 22
+        bookCode: psaltir
+        chapter: 99
+        short: Пс:99:3
+      - verseId: 16951
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 20
+        short: Иез:20:39
+      - verseId: 34881
+        bookId: 43
+        bookCode: kniga-proroka-sofonii
+        chapter: 3
+        short: Соф:3:13
+      - verseId: 14048
+        bookId: 67
+        bookCode: k-efesanam-poslanie-ap-pavla
+        chapter: 2
+        short: Еф:2:10
+      - verseId: 14716
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 2
+        short: Евр:2:10
+    translates:
+      kassian: ""
+      podstr: но когда увидят дети их дела Мои, из-за Меня освятят имя Моё и освятят
+        святого Иакова и Бога Израиля устрашатся.
+      csya: но егда увидят чада их дела моя, мене ради освятят имя мое и освятят
+        святаго иаковля, и Бога израилева убоятся.
+      averincev: ""
+      ungerov: Но когда дети их увидят дела Мои, ради Меня они свято будут чтить
+        Святаго Иаковлева, и убоятся Бога Израилева,
+      csya_old: но є3гдA ўви1дzтъ ч†да и4хъ дэлA мо‰, менє2 рaди њсвzтsтъ и4мz мое2 и3
+        њсвzтsтъ с™aго їaкwвлz, и3 бг7а ї}лева ўбоsтсz.
+      sovr_rbo: Увидит он у себя детей своих, творенье Моей руки, — и признают все они
+        святость имени Моего, признают святость Святого Бога Иакова, пред Богом
+        Израиля затрепещут.
+      latin: sed cum viderit filios suos, opera manuum mearum in medio sui
+        sanctificantes nomen meum, et sanctificabunt Sanctum Jacob, et Deum
+        Israel praedicabunt;
+      ukr: бо як він серед себе побачить дітей своїх, чин Моїх рук, вони будуть
+        святити Моє Ймення, і посвятять Святого Якового, і будуть боятися Бога
+        Ізраїля!
+      nkjv: But when he sees his children, The work of My hands, in his midst, They
+        will hallow My name, And hallow the Holy One of Jacob, And fear the God
+        of Israel.
+      desnitsky: Когда увидят своих детей – творение Моих рук, – будут свято чтить Мое
+        имя, свято чтить Святого Израиля, перед Богом Израиля благоговеть.
+      mt: ‫   כִּי בִרְאֹתוֹ יְלָדָיו מַעֲשֵׂה יָדַי בְּקִרְבּוֹ יַקְדִּישׁוּ שְׁמִי
+        וְהִקְדִּישׁוּ אֶת־קְדוֹשׁ יַעֲקֹב וְאֶת־אֱלֹהֵי יִשְׂרָאֵל יַעֲרִיצוּ׃
+        ‬
+      romana: Si atunci cand vor vedea lucrul mainilor Mele in mijlocul lor,
+        sfinti-vor numele Meu, vor chema sfant pe Sfantul lui Iacov si se vor
+        teme de Dumnezeul lui Israel.
+      francais: Car, lorsque ses enfants verront au milieu d'eux l'oeuvre de mes
+        mains, Ils sanctifieront mon nom; Ils sanctifieront le Saint de Jacob,
+        Et ils craindront le Dieu d'Israël;
+      italian: poiché vedendo il lavoro delle mie mani tra di loro, santificheranno il
+        mio nome, santificheranno il Santo di Giacobbe e temeranno il Dio di
+        Israele.
+      old_georgian: არამედ ოდეს იხილნენ შვილთა მათთა საქმენი ჩემნი ჩემთჳს, წმიდაყონ
+        სახელი ჩემი, და წმიდა-ყონ წმიდაჲ იგი იაკობისი, და ღმერთსა ისრაელისასა
+        ეშიშვოდიან.
+      portuguese: "Mas quando virem seus filhos a obra das minhas mãos no meio deles,
+        santificarão o meu nome; sim santificarão\rao Santo de Jacó, e temerão
+        ao Deus de Israel."
+      polish: "bo gdy ujrzy ”swe dzieci”, dzieło mych rąk, wśród siebie, ogłosi imię
+        moje\rjako święte. Wtedy czcić będą Świętego Jakubowego i z bojaźnią
+        szanować\rBoga Izraela”."
+      turkish: "Elimin yapıtı olan çocuklarını Aralarında gördüklerinde\rAdımı kutsal
+        sayacaklar;\rEvet, Yakup'un Kutsalı'nı kutsal sayacak, İsrail'in
+        Tanrısı'ndan korkacaklar."
+      nrt: Когда увидят среди себя своих детей – дело Моих рук, – они будут свято
+        чтить Мое Имя; они признают святость Святого из рода Иакова, и будут
+        благоговеть перед Богом Израиля.
+      Macarius: Ибо, когда увидит детей своих, дело рук Моих; они в сонме его свято
+        будут чтить имя Мое, и свято будут чтить Святого Иаковлева, и будут
+        благоговеть пред Богом Израилевым.
+      serbian: Јер кад види усред себе дјецу своју, дјело руку мојих, тада ће они
+        светити име моје, светиће Свеца Јаковљева и бојаће се Бога Израиљева.
+      bulgarian: Защото, кога види около себе си децата си, дело на Моите ръце, той
+        свето ще почита името Ми и свето ще почита Светия Иаковов, и ще
+        благоговее пред Бога Израилев.
+      Olesn: "Ибо, когда увидит он детей своих \rДело рук моих — посреди себя,\rТогда
+        прославят мое имя,\rИ поклонятся Святому Иакова,\rИ превознесут Бога
+        израилева;"
+      deutsch: Denn wenn sie sehen werden ihre Kinder, die Werke meiner Hände unter
+        ihnen, werden sie meinen Namen heiligen und werden den Heiligen in Jakob
+        heiligen und den Gott Israels fürchten.
+      ukr2: Бо він побачить діло рук моїх у себе, він буде святити моє ім'я; Святого
+        Яковового будуть святити, Бога Ізраїлевого жахатись.
+      ukr3: І дасть він дощ на насїннє твоє, що ним поле засїєш, і вроджай буде в тебе
+        по нивах і тучен і сочен, а твій скот буде пастись тодї по широких
+        лугах.
+      bel_syomukha: бо, калі ўбачыць у сябе дзяцей сваіх, дзею рук Маіх, дык яны
+        сьвята будуць шанаваць імя Маё і сьвята шанаваць Сьвятога Якаўлевага і
+        багавейна стаяць перад Богам Ізраілевым.
+      lev-khv: Потому что, когда увидит посреди себя детей своих, дело рук Моих, то
+        они будут чтить имя Мое, и будут чтить Святаго Иаковлева, и будут
+        благоговеть пред Богом Израиля.
+      czech: uzri svoje deti, dilo mych rukou, ve svem stredu. Budou dosvedcovat
+        svatost meho jmena, budou dosvedcovat svatost Svateho Jakobova, budou se
+        trast pred Bohem Izraele.
+      spanish: Pues cuando vea a sus hijos, la obra de mis manos, en medio de él,
+        santificarán mi nombre, y pregonarán santo al Santo de Jacob, y temerán
+        al Dios de Israel.
+      greek-lxx: ἀλλ᾿ ὅταν ἴδωσιν τὰ τέκνα αὐτῶν τὰ ἔργα μου δι᾿ ἐμὲ ἁγιάσουσιν τὸ
+        ὄνομά μου καὶ ἁγιάσουσιν τὸν ἅγιον Ιακωβ καὶ τὸν Θεὸν τοῦ Ισραηλ
+        φοβηθήσονται
+      st_text: Ибо когда увидит у себя детей своих, дело рук Моих, то они свято будут
+        чтить имя Мое и свято чтить Святаго Иаковлева, и благоговеть пред Богом
+        Израилевым.
+  - id: 20375
+    number: 24
+    bookId: 28
+    text: Тогда блуждающие духом познают мудрость, и непокорные научатся послушанию.
+    chapter: 29
+    chapterId: 829
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И узнают которые духом вводящие в заблуждение понимание, которые же
+        ропщущие научатся слушаться, и языки косноязычные научатся говорить мир.
+      csya: И уразумеют заблуждающии духом смысл, и ропщущии научатся послушати, и
+        языцы немотствующии научатся глаголати мир.
+      averincev: ""
+      ungerov: "И блуждающие духом познают мудрость, ропщущие научатся повиновению и
+        немотствующие научатся говорить: мир."
+      csya_old: И# ўразумёютъ заблуждaющіи дyхомъ смы1слъ, и3 ро1пщущіи научaтсz
+        послyшати, и3 љзы1цы нэмотствyющіи научaтсz глаго1лати ми1ръ.
+      sovr_rbo: Тогда обретут разуменье заблудшие духом, а те, кто роптал, наставление
+        получат».
+      latin: et scient errantes spiritu intellectum, et mussitatores discent legem.
+      ukr: Тоді то хто блудить у дусі, ті розум пізнають, а хто ремствує, ті поуки
+        навчаться!
+      nkjv: These also who erred in spirit will come to understanding, And those who
+        complained will learn doctrine."
+      desnitsky: Те, чей дух нетверд, обретут разум, те, кто роптал, получат наставление».
+      mt: ‫   וְיָדְעוּ תֹעֵי־רוּחַ בִּינָה וְרוֹגְנִים יִלְמְדוּ־לֶקַח׃ ‬
+      romana: Cei rataciti cu duhul vor capata intelepciune si cei cartitori
+        invatatura".
+      francais: Ceux dont l'esprit s'égarait acquerront de l'intelligence, Et ceux qui
+        murmuraient recevront instruction.
+      italian: Gli spiriti traviati apprenderanno la sapienza e i brontoloni
+        impareranno la lezione".
+      old_georgian: და ცნან სულითა ცთომილთა გულისხმის-ყოფა, ხოლო მდრტჳნავთა ისწაონ
+        მორჩილება და ენათა ბრგვნილთა ისწავონ თქუმად მშჳდობა.
+      portuguese: E os errados de espírito virão a ter entendimento, e os murmuradores
+        aprenderão instrução.
+      polish: Duchem zbłąkani poznają mądrość, a szemrzący zdobędą pouczenie.
+      turkish: Yoldan sapmış olanlar kavrayışa, Yakınıp duranlar bilgiye kavuşacak.»
+      nrt: Заблуждающиеся духом придут к пониманию, и ропщущие примут наставление.
+      Macarius: И блуждающие духом познают истину, и своенравные научатся послушанию.
+      serbian: И који лутају духом оразумиће се, и викачи ће примити науку.
+      bulgarian: Тогава духом блуждаещите ще познаят мъдростта, и непокорните ще се
+        научат на послушание.
+      Olesn: Тогда блуждавшие духом научатся благоразумию, А упрямые примут
+        наставление».
+      deutsch: Denn die, so irrigen Geist haben, werden Verstand annehmen, und die
+        Schwätzer werden sich lehren lassen.
+      ukr2: Ті, що блукають духом, - мудрости навчаться, і ті, що ремствують -розуму
+        наберуться.»
+      ukr3: А воли та осли, що порають поле, їсти муть посолену пашу, очищену, та
+        перевіяну лопатою.
+      bel_syomukha: Тады духаблукальнікі ўведаюць мудрасьць, і непакорлівыя навучацца
+        паслушэнства.
+      lev-khv: Блуждающие же духом будут вразумлены, и ропщущие примут учение.
+      czech: Zbloudili duchem poznaji rozumnost, memu nauceni se budou ucit
+        reptalove."
+      spanish: Y los de alma descarriada aprenderán la sabiduría, y los murmuradores
+        aprenderán la doctrina.
+      greek-lxx: καὶ γνώσονται οἱ τῷ πνεύματι πλανώμενοι σύνεσιν οἱ δὲ γογγύζοντες
+        μαθήσονται ὑπακούειν καὶ αἱ γλώσσαι αἱ ψελλίζουσαι μαθήσονται λαλεῖν
+        εἰρήνην
+      st_text: Тогда блуждающие духом познают мудрость, и непокорные научатся
+        послушанию.

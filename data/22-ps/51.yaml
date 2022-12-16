@@ -1,0 +1,697 @@
+id: 569
+number: 51
+bookId: 22
+verseCount: 11
+title: Глава 51
+verses:
+  - id: 31879
+    number: 1
+    bookId: 22
+    text: <i>Начальнику хора. Учение Давида,</i>
+    chapter: 51
+    chapterId: 569
+    parallels:
+      - verseId: 443
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 22
+        short: 1 Цар:22:9
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: В конец, разума давиду,
+      averincev: ""
+      ungerov: В конец. В научение. Давида.
+      csya_old: Въ коне1цъ, рaзума дв7ду,
+      sovr_rbo: Начальнику хора. Учение Давида,
+      latin: In finem. Intellectus David,
+      ukr: Для дириґента хору. Псалом навчальний Давидів,
+      nkjv: To the Chief Musician. A Contemplation of David
+      desnitsky: ""
+      mt: ‫   לַמְנַצֵּחַ מַשְׂכִּיל לְדָוִד׃ ‬
+      romana: Al lui David. Ce te falesti intru rautate, puternice? Faradelege toata
+        ziua, nedreptate a vorbit limba ta; ca un brici ascutit a facut
+        viclesug.
+      italian: Al maestro del coro. Maskil. Di Davide.
+      old_georgian: დასასრულსა, გულისჴმის-ყოფისათჳს დავითისა
+      portuguese: Por que te glorias na malícia, ó homem poderoso? pois a bondade de
+        Deus subsiste em todo o tempo.
+      polish: Kierownikowi chóru. Pieśń pouczająca. Dawidowa.
+      nrt: Дирижеру хора. Наставление Давида,
+      Macarius: Начальнику хора. Учение Давидово.
+      bulgarian: Началнику на хора. Учение Давидово,
+      deutsch: "Eine Unterweisung Davids, vorzusingen; [2 da Doeg, der Edomiter, kam
+        und sagte Saul an und sprach: David ist in Ahimelechs Haus gekommen. [3
+        Was trotzest du denn, du Tyrann, daß du kannst Schaden tun; so doch
+        Gottes Güte täglich währet?"
+      ukr2: Провідникові хору. Маскіл. Давида,
+      ukr3: "Проводиреві хора: наука Давидова, як прийшов Доаг Ідумейський, і звістив
+        Саулові, і сказав йому: прийшов Давид в дім Ахімелеха. Ч ого бо ти,
+        потужний, хвалишся злобою твоєю, надуживаєш милосердє Боже цїлий день!"
+      bel_syomukha: Кіроўцу хору. Вучэньне Давідава.
+      lev-khv: Начальнику хора. Учение Давидово,
+      czech: Pro predniho zpevaka. Poucujici, Daviduv,
+      spanish: Al maestro del coro. Maskil. De David.
+      zertis-kamenskiy: Начальнейшему певцу песнь Давидова вразумляющая.
+      greek-lxx: εἰς τὸ τέλος συνέσεως τῷ Δαυιδ
+      st_text: <i>Начальнику хора. Учение Давида,</i>
+  - id: 31880
+    number: 2
+    bookId: 22
+    text: <i>после того, как приходил Доик Идумеянин и донес Саулу и сказал ему, что
+      Давид пришел в дом Ахимелеха.</i>
+    chapter: 51
+    chapterId: 569
+    parallels:
+      - verseId: 426
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 21
+        short: 1 Цар:21:7
+      - verseId: 443
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 22
+        short: 1 Цар:22:9
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "внегда приити доику идумейску, и возвестити саулу, и рещи ему: прииде
+        давид в дом авимелехов."
+      averincev: ""
+      ungerov: "Когда пришел Идумеянин Доик и возвестил Саулу и сказал ему: Давид
+        пришел в дом Авимелеха."
+      csya_old: "внегдA пріити2 дwи1ку їдуме1йску, и3 возвэсти1ти саyлу, и3 рещи2
+        є3мY: пріи1де дв7дъ въ до1мъ ґвімеле1ховъ."
+      sovr_rbo: после того, как приходил Доик Идумеянин и донес Саулу и сказал ему,
+        что Давид пришел в дом Ахимелеха.
+      latin: "cum venit Doeg Idumaeus, et nuntiavit Sauli: Venit David in domum
+        Achimelech."
+      ukr: 'як прийшов був ідумеянин Доег та й Саулові був оповідав, і до нього
+        сказав: "Давид увійшов до дому Авімелеха".'
+      nkjv: "when Doeg the Edomite went and told Saul, and said to him, 'David has
+        gone to the house of Ahimelech.' "
+      desnitsky: ""
+      mt: ‫   בְּבוֹא דּוֹאֵג הָאֲדֹמִי וַיַּגֵּד לְשָׁאוּל וַיֹּאמֶר לוֹ בָּא דָוִד
+        אֶל־בֵּית אֲחִימֶלֶךְ׃ ‬
+      romana: Iubit-ai rautatea mai mult decat bunatatea, nedreptatea mai mult decat a
+        grai dreptatea.
+      italian: "Dopo che l'idumeo Doeg venne da Saul per informarlo e dirgli: \"Davide
+        è entrato in casa di Abimelech\"."
+      old_georgian: "რაჟამს მოვიდა დიოკ იდუმელი და უთხრა საულს და ჰრქუა მას, ვითარმედ:
+        მოვიდა დავით სახლსა აქიმელიქისსა"
+      portuguese: A tua língua maquina planos de destruição, como uma navalha afiada,
+        ó tu que usas de dolo.
+      polish: "Gdy Edomita Doeg przybył i zawiadomił Saula w słowach: ”Dawid
+        wszedł\rdo domu Achimeleka”."
+      nrt: "когда эдомитянин Доэг пришел к Саулу и сообщил ему: «Давид в доме
+        Ахимелеха»."
+      Macarius: Когда пришел Доиг Идумеянин и донес Саулу, и сказал ему, что Давид
+        пришел в дом Ахимелеха.
+      bulgarian: когато идумеецът Доик идва да обади Саулу и да му каже, че Давид е
+        дошъл в дома на Ахимелеха.
+      deutsch: "[4 Deine Zunge trachtet nach Schaden und schneidet mit Lügen wie ein
+        scharfes Schermesser."
+      ukr2: "як прийшов був едомій Доег і звістив Саулові, кажучи до нього: «Давид
+        прийшов у дім Авімелеха.»"
+      ukr3: Пакостї промишляє язик твій, як гострена бритва, готовиш зраду.
+      bel_syomukha: пасьля таго, як прыходзіў Доік Ідумэянін, і данёс Саўлу, і сказаў
+        яму, што Давід прыйшоў у дом Ахімэлэхаў.
+      lev-khv: Когда пришел Доиг, Идумеянин, и донес Саулу, и сказал ему, что пришел
+        Давид в дом Ахимелеха.
+      czech: 'kdyz prisel Edomec Doeg a oznamil Saulovi: "David vesel do Achimelekova
+        domu."'
+      spanish: "Cuando Doeg, idumeo, fue a informar a Saúl, diciendo: David ha ido a
+        casa de Abimelec."
+      zertis-kamenskiy: "Внегда прииде Доик Идумеанин, и возвести Саулу, и рече ему:
+        прииде Давид в дом Авимелехов (1 Цар. 22:9)."
+      greek-lxx: ἐν τῷ ἐλθεῖν Δωηκ τὸν Ιδουμαῖον καὶ ἀναγγεῖλαι τῷ Σαουλ καὶ εἰπεῖν
+        αὐτῷ ἦλθεν Δαυιδ εἰς τὸν οἶκον Αβιμελεχ
+      st_text: <i>после того, как приходил Доик Идумеянин и донес Саулу и сказал ему,
+        что Давид пришел в дом Ахимелеха.</i>
+  - id: 31881
+    number: 3
+    bookId: 22
+    text: Что хвалишься злодейством, сильный? милость Божия всегда [<i>со мною;</i>]
+    chapter: 51
+    chapterId: 569
+    parallels:
+      - verseId: 32713
+        bookId: 22
+        bookCode: psaltir
+        chapter: 93
+        short: Пс:93:4
+      - verseId: 29736
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 21
+        short: Притч:21:12
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Что хвалишися во злобе, сильне? беззаконие весь день.
+      averincev: ""
+      ungerov: Что хвалишься злобою, сильный? Беззаконие весь день,
+      csya_old: Что2 хвaлишисz во ѕло1бэ, си1льне; беззако1ніе ве1сь де1нь,
+      sovr_rbo: Что хвалишься злодейством, сильный? милость Божия всегда [со мною;]
+      latin: Quid gloriaris in malitia, qui potens es in iniquitate?
+      ukr: Чого хвалишся злом, о могутній? Цілий день Божа милість зо мною.
+      nkjv: Why do you boast in evil, O mighty man? The goodness of God endures
+        continually.
+      desnitsky: ""
+      mt: ‫   מַה־תִּתְהַלֵּל בְּרָעָה הַגִּבּוֹר חֶסֶד אֵל כָּל־הַיּוֹם׃ ‬
+      romana: Iubit-ai toate cuvintele pierzarii, limba vicleana!
+      italian: Perché ti vanti del male o prepotente nella tua iniquità?
+      old_georgian: რადმე იქადინ უკეთურებითა ძლიერი უსჯულოებასა მარადღე?
+      portuguese: Tu amas antes o mal do que o bem, e o mentir do que o falar a verdade.
+      polish: Dlaczego złością się chełpisz, przemożny niegodziwcze? Przez cały dzień
+      nrt: Что хвалишься злодейством, сильный? Весь день со мной милость Божья!
+      Macarius: Что хвалишься злодейством, сильный? Милость Божия всякий день со мною.
+      bulgarian: Защо се, силний, хвалиш със злодейство? Божията милост е винаги с мене;
+      deutsch: "[5 Du redest lieber Böses denn Gutes, und Falsches denn Rechtes. (Sela."
+      ukr2: Чого ти злобою хвалишся, о витязю безславний?
+      ukr3: Ти любиш зло більше як добро, більше говорити брехню, як правду.
+      bel_syomukha: Чаго хвалішся злачынствам, магутны? Ласка Божая заўжды са мною;
+      lev-khv: Что хвалишься злодейством, сильный? милость Божия всякий день.
+      czech: Proc se chlubis zlem, ty bohatyre? Bozi milosrdenstvi po vsechny dny
+        trva!
+      spanish: ¿Por qué te glorías en tu maldad, héroe de iniquidad?
+      zertis-kamenskiy: Что хвалишися во злобе сильне? милосердие Божие [есть] на всяк день.
+      pakazkiy: "Что хвалится во злобе силен? Печален, мрачен яко тень,\rВо лжах, как
+        водомет обилен —\rТы мыслит злая всякой день."
+      greek-lxx: τί ἐγκαυχᾷ ἐν κακίᾳ ὁ δυνατός ἀνομίαν ὅλην τὴν ἡμέραν
+      st_text: Что хвалишься злодейством, сильный? милость Божия всегда [<i>со
+        мною;</i>]
+  - id: 31882
+    number: 4
+    bookId: 22
+    text: гибель вымышляет язык твой; как изощренная бритва, он [<i>у</i>]
+      [<i>тебя</i>], коварный!
+    chapter: 51
+    chapterId: 569
+    parallels:
+      - verseId: 31948
+        bookId: 22
+        bookCode: psaltir
+        chapter: 56
+        short: Пс:56:5
+      - verseId: 29871
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 25
+        short: Притч:25:18
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "неправду умысли язык твой: яко бритву изощрену сотворил еси лесть."
+      averincev: ""
+      ungerov: "Неправду выдумывал язык твой: коварство (его) ты сделал как бы
+        наостренной бритвой."
+      csya_old: "непрaвду ўмы1сли љзы1къ тво1й: ћкw бри1тву и3з8wщре1ну сотвори1лъ
+        є3си2 ле1сть."
+      sovr_rbo: гибель вымышляет язык твой; как изощренная бритва, он [у] [тебя],
+        коварный!
+      latin: Tota die injustitiam cogitavit lingua tua; sicut novacula acuta fecisti
+        dolum.
+      ukr: Замишляє лукавство язик твій, як та бритва нагострена ти, що чиниш обману!
+      nkjv: Your tongue devises destruction, Like a sharp razor, working deceitfully.
+      desnitsky: ""
+      mt: ‫   הַוּוֹת תַּחְשֹׁב לְשׁוֹנֶךָ כְּתַעַר מְלֻטָּשׁ עֹשֵׂה רְמִיָּה׃ ‬
+      romana: Pentru aceasta Dumnezeu te va dobori pana in sfarsit, te va smulge si te
+        va muta din locasul tau si radacina ta din pamantul celor vii.
+      italian: Ordisci insidie ogni giorno; la tua lingua è come lama affilata,
+        artefice di inganni.
+      old_georgian: სიცრუესა ზრახავს ენაჲ შენი; ვითარცა მახჳლი აღლესული, ჰყავ შენ ზაკვაჲ.
+      portuguese: Amas todas as palavras devoradoras, ó língua fraudulenta.
+      polish: zamyślasz zgubę, twój język jest jak ostra brzytwa, sprawco podstępu.
+      nrt: Твой язык замышляет гибель; он подобен отточенной бритве, о коварный.
+      Macarius: Гибель вымышляет язык твой; он, как изощренная бритва, у тебя, коварный!
+      bulgarian: езикът ти пагуба измисля; като наострен бръснач е той у тебе, коварнико;
+      deutsch: "[6 Du redest gerne alles, was zu verderben dient, mit falscher Zunge."
+      ukr2: Ввесь час ти мислиш про погибель; язик твій - немов гостра бритва, майстер
+        облуди.
+      ukr3: Ти любиш всї імена погибелї, тени язик зрадливий!
+      bel_syomukha: твой язык наклікае пагібель; як брытва навостраная ён у цябе, падступнік!
+      lev-khv: Гибель вымышляет язык твой; он, как изощренная бритва, совершает
+        коварство.
+      czech: Jen zhoubu tvuj jazyk spleta, mas ho ostry jako britvu, pletichari.
+      spanish: Todo el día tu lengua maquina injusticias, como afilada navaja,
+        artífice de engaños.
+      zertis-kamenskiy: Пагубы умышляет язык твой яко бритва изощренна устрояеши лесть.
+      pakazkiy: "Как лев стремится на ловитву, Так лов увидя свой бежит;\rИ изострив
+        язык, как бритву,\rТы лестию сердца разит."
+      greek-lxx: ἀδικίαν ἐλογίσατο ἡ γλῶσσά σου ὡσεὶ ξυρὸν ἠκονημένον ἐποίησας δόλον
+      st_text: гибель вымышляет язык твой; как изощренная бритва, он [<i>у</i>]
+        [<i>тебя</i>], коварный!
+  - id: 31883
+    number: 5
+    bookId: 22
+    text: ты любишь больше зло, нежели добро, больше ложь, нежели говорить правду;
+    chapter: 51
+    chapterId: 569
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Возлюбил еси злобу паче благостыни, неправду неже глаголати правду:"
+      averincev: ""
+      ungerov: Ты полюбил зло более, чем добро, неправду более, чем говорить правду.
+      csya_old: "Возлюби1лъ є3си2 ѕло1бу пaче бlгосты1ни, непрaвду не1же глаго1лати
+        прaвду:"
+      sovr_rbo: ты любишь больше зло, нежели добро, больше ложь, нежели говорить правду;
+      latin: Dilexisti malitiam super benignitatem; iniquitatem magis quam loqui
+        aequitatem.
+      ukr: Ти зло полюбив над добро, а неправду більш, як правду казати, Села,
+      nkjv: You love evil more than good, Lying rather than speaking righteousness.
+        Selah
+      desnitsky: ""
+      mt: ‫   אָהַבְתָּ רָּע מִטּוֹב שֶׁקֶר מִדַּבֵּר צֶדֶק סֶלָה׃ ‬
+      romana: 'Vedea-vor dreptii si se vor teme si de el vor rade si vor zice: "Iata
+        omul care nu si-a pus pe Dumnezeu ajutorul lui,'
+      italian: Tu preferisci il male al bene, la menzogna al parlare sincero.
+      old_georgian: შეიყუარე სიბოროტე უფროს სახიერებისა და სიცრუე უფროს სიმართლისა სიტყჳსა.
+      portuguese: "Também Deus te esmagará para sempre; arrebatar-te-á e arrancar-te-á
+        da tua habitação, e desarraigar-te-á da\rterra dos viventes."
+      polish: Miłujesz bardziej zło niż dobro, bardziej kłamstwo niż mowę sprawiedliwą.
+      nrt: Зло ты любишь больше добра, и ложь сильнее, чем слова правды. Пауза
+      Macarius: Ты любишь более зло, нежели добро, более лгать, нежели говорить
+        правду. (Села.)
+      bulgarian: ти обичаш зло повече, нежели добро, повече лъжа, отколкото да говориш
+        правда;
+      deutsch: "[7 Darum wird dich Gott auch ganz und gar zerstören und zerschlagen
+        und aus deiner Hütte reißen und aus dem Lande der Lebendigen ausrotten.
+        (Sela.)"
+      ukr2: Ти любиш зло більш, ніж добро, брехню більше, ніж правду.
+      ukr3: Бог знївечить тебе на віки; він вхопить тебе і вирве з домівки, і
+        викоренить з землї живих.
+      bel_syomukha: Ты болей любіш зло, чым дабро, а няпраўду болей за праўду казаць;
+      lev-khv: Ты любишь более зло, нежели добро, более лгать, нежели говорить правду.
+        Сел&#225;.
+      czech: Zlo milujes vic nez dobro, klam vice nez spravedlive slovo.
+      spanish: ¡Amas el mal más que el bien, la mentira más que la justicia;
+      zertis-kamenskiy: Возлюбил еси злобу паче благостыни, лжу, паче глаголаши правду. Селаг.
+      pakazkiy: "Питая в сердце только злобу, Добра ты ближним не творишь;\rИ мысля их
+        низвесть ко гробу,\rЛожь паче правды говоришь."
+      greek-lxx: ἠγάπησας κακίαν ὑπὲρ ἀγαθωσύνην ἀδικίαν ὑπὲρ τὸ λαλῆσαι δικαιοσύνην
+        διάψαλμα
+      st_text: ты любишь больше зло, нежели добро, больше ложь, нежели говорить правду;
+  - id: 31884
+    number: 6
+    bookId: 22
+    text: "ты любишь всякие гибельные речи, язык коварный:"
+    chapter: 51
+    chapterId: 569
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: возлюбил еси вся глаголы потопныя, язык льстив.
+      averincev: ""
+      ungerov: Ты полюбил всякие гибельные речи, коварный язык.
+      csya_old: возлюби1лъ є3си2 вс‰ глаго1лы потHпныz, љзы1къ льсти1въ.
+      sovr_rbo: "ты любишь всякие гибельные речи, язык коварный:"
+      latin: Dilexisti omnia verba praecipitationis, lingua dolosa.
+      ukr: ти любиш усякі шкідливі слова, ти язику обманний!
+      nkjv: You love all devouring words, You deceitful tongue.
+      desnitsky: ""
+      mt: ‫   אָהַבְתָּ כָל־דִּבְרֵי־בָלַע לְשׁוֹן מִרְמָה׃ ‬
+      romana: Ci a nadajduit in multimea bogatiei sale si s-a intarit intru
+        desertaciunea sa".
+      italian: Ami ogni parola di rovina, o lingua di impostura.
+      old_georgian: შეიყუარე შენ ყოველი სიტყუაჲ დაქცევისა და ენაჲ მზაკვარი.
+      portuguese: "Os justos o verão e temerão; e se rirão dele, dizendo:"
+      polish: Miłujesz wszelkie zgubne mowy, podstępny języku!
+      nrt: Ты любишь гибельные слова и язык вероломный.
+      Macarius: Ты любишь всякие речи гибельные и язык коварный.
+      bulgarian: ти, коварни езико, обичаш всякакви пагубни речи;
+      deutsch: "[8 Und die Gerechten werden es sehen und sich fürchten und werden sein
+        lachen:"
+      ukr2: Погибельні лише любиш речі, язику лукавий.
+      ukr3: "Побачать се праведники і злякаються, вони сьміяти муться над ним:"
+      bel_syomukha: ты любіш усякія шкадлівыя словы, язык аблудны.
+      lev-khv: Ты любишь всякия речи гибельныя, язык коварный!
+      czech: Milujes kazde podvratne slovo, jazyku lstivy.
+      spanish: estimas toda palabra perniciosa, lengua falaz!
+      zertis-kamenskiy: Возлюбил еси вся глаголы убивственныя, [и] язык льстив.
+      pakazkiy: "Как наводнение волнами Стремится землю потоплять;\rТак ты коварными
+        устами Всех ищешь только погублять;"
+      greek-lxx: ἠγάπησας πάντα τὰ ῥήματα καταποντισμοῦ γλῶσσαν δολίαν
+      st_text: "ты любишь всякие гибельные речи, язык коварный:"
+  - id: 31885
+    number: 7
+    bookId: 22
+    text: за то Бог сокрушит тебя вконец, изринет тебя и исторгнет тебя из жилища
+      [твоего] и корень твой из земли живых.
+    chapter: 51
+    chapterId: 569
+    parallels:
+      - verseId: 19111
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 18
+        short: Иов:18:14
+      - verseId: 19167
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 20
+        short: Иов:20:7
+      - verseId: 31843
+        bookId: 22
+        bookCode: psaltir
+        chapter: 49
+        short: Пс:49:22
+      - verseId: 32257
+        bookId: 22
+        bookCode: psaltir
+        chapter: 72
+        short: Пс:72:19
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Сего ради Бог разрушит тя до конца: восторгнет тя, и преселит тя от
+        селения твоего и корень твой от земли живых."
+      averincev: ""
+      ungerov: За это Бог истребит тебя до конца, исторгнет тебя и переселит тебя из
+        селения твоего, и корень твой (удалит) с земли живых.
+      csya_old: "Сегw2 рaди бг7ъ разруши1тъ тS до концA: восто1ргнетъ тS, и3
+        пресели1тъ тS t селе1ніz твоегw2 и3 ко1рень тво1й t земли2 живы1хъ."
+      sovr_rbo: за то Бог сокрушит тебя вконец, изринет тебя и исторгнет тебя из
+        жилища [твоего] и корень твой из земли живых.
+      latin: Propterea Deus destruet te in finem; evellet te, et emigrabit te de
+        tabernaculo tuo, et radicem tuam de terra viventium.
+      ukr: Отож, Бог зруйнує назавжди тебе, тебе викине й вирве з намету тебе, й тебе
+        викоренить із країни життя. Села.
+      nkjv: God shall likewise destroy you forever; He shall take you away, and pluck
+        you out of your dwelling place, And uproot you from the land of the
+        living. Selah
+      desnitsky: ""
+      mt: ‫   גַּם־אֵל יִתָּצְךָ לָנֶצַח יַחְתְּךָ וְיִסָּחֲךָ מֵאֹהֶל וְשֵׁרֶשְׁךָ‪‬
+        מֵאֶרֶץ חַיִּים סֶלָה׃ ‬
+      romana: Dar eu, ca un maslin roditor in casa lui Dumnezeu, am nadajduit in mila
+        lui Dumnezeu, in veac si in veacul veacului.
+      italian: Perciò Dio ti demolirà per sempre, ti spezzerà e ti strapperà dalla
+        tenda e ti sradicherà dalla terra dei viventi.
+      old_georgian: ამისთჳს დაგამჴუას შენ ღმერთმან სრულიად, აღგფხურას და განგჴადოს შენ
+        საყოფელთაგან შენთა და ძირნი შენნი ქუეყანით ცხოველთა.
+      portuguese: "Eis aqui o homem que não tomou a Deus por sua fortaleza; antes
+        confiava na abundância das suas riquezas, e se\rfortalecia na sua
+        perversidade."
+      polish: "Dlatego zniszczy cię Bóg na wieki, pochwyci cię i usunie z twego
+        namiotu,\rwyrwie cię z ziemi żyjących."
+      nrt: Но Бог погубит тебя навек; Он схватит тебя и выкинет прочь из шатра,
+        исторгнет твой корень из земли живых. Пауза
+      Macarius: За то Бог ниспровергнет Тебя в конец, изринет тебя и исторгнет тебя из
+        жилища, и корень твой из земли живых.
+      bulgarian: затова Бог докрай ще те съкруши, ще те изрине и ще изтръгне тебе из
+        жилището (ти), и корена ти - из земята на живите.
+      deutsch: '[9 "Siehe, das ist der Mann, der Gott nicht für seinen Trost hielt,
+        sondern verließ sich auf seinen großen Reichtum und war mächtig, Schaden
+        zu tun."'
+      ukr2: Тому і Бог знищить тебе, знівечить тебе навіки; вирве тебе з намету і
+        викорінить тебе з землі живих.
+      ukr3: Ось чоловік, що не шукав в Бога сили своєї, а надїявся на величину
+        багацтва свого, і ледачими вчинками своїми добув сили.
+      bel_syomukha: За гэта Бог зруйнуе цябе дарэшты, выкіне цябе і вырве цябе зь
+        сялібы тваёй і корань твой зь зямлі жывых.
+      lev-khv: За то Бог ниспровергнет тебя во век, изринет тебя и исторгнет тебя из
+        жилища и корень твой из земли живых.
+      czech: Proto Buh te smete provzdy, popadne te, ze stanu te vyrve, vykoreni te ze
+        zeme zivych.
+      spanish: También Dios te destruirá para siempre; te abatirá y te arrancará de la
+        tienda, te desarraigará de la tierra de los vivos.
+      zertis-kamenskiy: Сего ради Бог сокрушит тя до конца; сокрушит тя и исторгнет тя
+        от селения; и скоренит тя от земли живых. Селаг.
+      pakazkiy: "За то безчеловечно дело Тобой прогневанный Творец Карать твое имеет
+        тело.\rИ сокрушит тебя в конец.\rВосторгнешь тя из вертограда Как
+        гнусный вид дерев кривых И низведет тебя до ада,\rИ род твой от земли
+        живых"
+      greek-lxx: διὰ τοῦτο ὁ Θεὸς καθελεῖ σε εἰς τέλος ἐκτίλαι σε καὶ μεταναστεύσαι σε
+        ἀπὸ σκηνώματος καὶ τὸ ῥίζωμά σου ἐκ γῆς ζώντων διάψαλμα
+      st_text: за то Бог сокрушит тебя вконец, изринет тебя и исторгнет тебя из жилища
+        [твоего] и корень твой из земли живых.
+  - id: 31886
+    number: 8
+    bookId: 22
+    text: "Увидят праведники и убоятся, посмеются над ним [и скажут]:"
+    chapter: 51
+    chapterId: 569
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Узрят праведнии и убоятся, и о нем возсмеются и рекут:"
+      averincev: ""
+      ungerov: 'Увидят праведные и убоятся, и посмеются над ним, и скажут: "'
+      csya_old: "Ќзрzтъ првdніи и3 ўбоsтсz, и3 њ не1мъ возсмэю1тсz и3 рекyтъ:"
+      sovr_rbo: "Увидят праведники и убоятся, посмеются над ним [и скажут]:"
+      latin: "Videbunt justi, et timebunt; et super eum ridebunt, et dicent:"
+      ukr: "І побачать це праведні, й будуть боятись, і будуть сміятися з нього:"
+      nkjv: '"Here is the man who did not make God his strength, But trusted in the
+        abundance of his riches, And strengthened himself in his wickedness."'
+      desnitsky: ""
+      mt: ‫   וְיִרְאוּ צַדִּיקִים וְיִירָאוּ וְעָלָיו יִשְׂחָקוּ׃ ‬
+      romana: Slavi-Te-voi in veac, ca ai facut aceasta si voi astepta numele Tau, ca
+        bun este inaintea cuviosilor Tai.
+      italian: "Vedendo, i giusti saran presi da timore e di lui rideranno:"
+      old_georgian: "იხილონ მართალთა და შეეშინოს და მას ზედა იცინოდიან და თქუან:"
+      portuguese: Mas eu sou qual oliveira verde na casa de Deus; confio na bondade de
+        Deus para sempre e eternamente.
+      polish: "Ujrzą sprawiedliwi i ulękną się, a będą śmiali się z niego:"
+      nrt: "Увидят праведники и устрашатся, посмеются над ним, говоря:"
+      Macarius: Увидят праведники и убоятся, и с посмеянием над ним [скажут:]
+      bulgarian: "Ще видят праведниците, ще се побоят и ще му се присмеят (като кажат):"
+      deutsch: "[10 Ich aber werde bleiben wie ein grüner Ölbaum im Hause Gottes,
+        verlasse mich auf Gottes Güte immer und ewiglich."
+      ukr2: "Побачать праведники й настрашаться і будуть сміятись із нього:"
+      ukr3: Я ж, мов оливне дерево зелене, в дому Божім; я надїюсь на ласку Божу по
+        віки.
+      bel_syomukha: "Убачаць праведнікі і напалохаюцца; пасьмяюцца зь іх і скажуць:"
+      lev-khv: "Увидят праведники, и убоятся, и посмеются над ним:"
+      czech: "Az to spatri spravedlivi, zmocni se jich bazen a posmesne o nem reknou:"
+      spanish: "Verán esto los justos y temerán, y se reirán de él:"
+      zertis-kamenskiy: "И узрят праведнии и убоятся; и о нем возсмеются и рекут:"
+      pakazkiy: "То видя правы устрашатся На все с отвагою дерзать;\rНо зря конец его,
+        решатся К стыду его сие сказать:"
+      greek-lxx: καὶ ὄψονται δίκαιοι καὶ φοβηθήσονται καὶ ἐπ᾿ αὐτὸν γελάσονται καὶ ἐροῦσιν
+      st_text: "Увидят праведники и убоятся, посмеются над ним [и скажут]:"
+  - id: 31887
+    number: 9
+    bookId: 22
+    text: '"вот человек, который не в Боге полагал крепость свою, а надеялся на
+      множество богатства своего, укреплялся в злодействе своем".'
+    chapter: 51
+    chapterId: 569
+    parallels:
+      - verseId: 31807
+        bookId: 22
+        bookCode: psaltir
+        chapter: 48
+        short: Пс:48:7
+      - verseId: 29432
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 11
+        short: Притч:11:28
+      - verseId: 26233
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 10
+        short: Мк:10:24
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: се, человек, иже не положи Бога помощника себе, но упова на множество
+        богатства своего, и возможе суетою своею.
+      averincev: ""
+      ungerov: Вот человек, который не поставил Бога помощником себе, но понадеялся на
+        множество богатства своего и укрепился суетою своею".
+      csya_old: се2, человёкъ, и4же не положи2 бг7а помо1щника себЁ, но ўповA на
+        мно1жество богaтства своегw2, и3 возмо1же суето1ю свое1ю.
+      sovr_rbo: '"вот человек, который не в Боге полагал крепость свою, а надеялся на
+        множество богатства своего, укреплялся в злодействе своем".'
+      latin: Ecce homo qui non posuit Deum adjutorem suum; sed speravit in multitudine
+        divitiarum suarum, et praevaluit in vanitate sua.
+      ukr: Ось муж, що Бога не чинить своєю твердинею, та на великість багатства свого
+        покладає надію, втікає до злого свого...
+      nkjv: Hide Your face from my sins, And blot out all my iniquities.
+      desnitsky: ""
+      mt: ‫   הִנֵּה הַגֶּבֶר לֹא יָשִׂים אֱלֹהִים מָעוּזּוֹ וַיִּבְטַח בְּרֹב
+        עָשְׁרוֹ יָעֹז בְּהַוָּתוֹ׃ ‬
+      italian: "\"Ecco l'uomo che non ha posto in Dio la sua difesa, ma confidava
+        nella sua grande ricchezza e si faceva forte dei suoi crimini\"."
+      old_georgian: აჰა, ესერა, კაცი, რომელმან არა ყო ღმერთი მწე მისა, არამედ ესვიდა
+        იგი სიმრავლესა ზედა სიმდიდრისა მისისასა. და განძლიერდა იგი ამავოებითა
+        თჳსითა.
+      portuguese: Para sempre te louvarei, porque tu isso fizeste, e proclamarei o teu
+        nome, porque é bom diante de teus santos.
+      polish: "”Oto człowiek, który nie uczynił Boga swoją warownią. ale zaufał
+        mnóstwu\rswych bogactw, a w siłę wzrósł przez swoje zbrodnie”."
+      nrt: «Вот человек, который не сделал Бога своей крепостью, а верил в свои
+        сокровища и укреплялся, уничтожая других!»
+      Macarius: Вот человек, который не в Боге полагал свою крепость, а надеялся на
+        множество богатства своего, укреплялся своим губительством.
+      bulgarian: ето човек, който не полагаше в Бога своята сила, а се надяваше на
+        многото си богатство, укрепяваше се в своето злодейство.
+      deutsch: "[11 Ich danke dir ewiglich, denn du kannst's wohl machen; ich will
+        harren auf deinen Namen, denn deine Heiligen haben Freude daran."
+      ukr2: «Ось чоловік, що не мав Бога за свою твердиню, що покладався на своє
+        багатство превелике, своїми лиходійствами був сильний.»
+      ukr3: Буду прославляти тебе по віки, ти бо все здїлав; і на імя твоє буду
+        вповати, ти бо благий до праведників твоїх.
+      bel_syomukha: вось чалавек, які ня ў Богу закладваў цьвярдыню сваю, а
+        спадзяваўся на мностьва багацьця свайго, мацаваўся ў злачынстве сваім.
+      lev-khv: Вот человек, который не в Боге полагал свою крепость, а надеялся на
+        множество богатства своего, укреплялся своим губительством.
+      czech: '"Ano, byl to muz, jenz nepokladal za zastitu Boha, ve sve velike
+        bohatstvi doufal, zakladal si na sve zhoubne moci."'
+      spanish: <<He ahí al hombre que no ha puesto a Dios por fortaleza suya,
+        confiando en sus muchas riquezas, haciéndose fuerte en su maldad>>.
+        Selah.
+      zertis-kamenskiy: Се человек, иже не положи Бога помощника себе; но упова на
+        множество богатства своего; возможе в злобе своей.
+      pakazkiy: "Се человек! се сын гордыни. Который нужным не считал Просить у Бога
+        благостыни,\rНо на богатство уповал:\rКоторый оное безстыдно С обидою
+        других скопил И дары Божии, как видно.\rСо всем во зло употребил."
+      greek-lxx: ἰδοὺ ἄνθρωπος ὃς οὐκ ἔθετο τὸν Θεὸν βοηθὸν αὐτοῦ ἀλλ᾿ ἐπήλπισεν ἐπὶ
+        τὸ πλῆθος τοῦ πλούτου αὐτοῦ καὶ ἐδυναμώθη ἐπὶ τῇ ματαιότητι αὐτοῦ
+      st_text: '"вот человек, который не в Боге полагал крепость свою, а надеялся на
+        множество богатства своего, укреплялся в злодействе своем".'
+  - id: 31888
+    number: 10
+    bookId: 22
+    text: А я, как зеленеющая маслина, в доме Божием, и уповаю на милость Божию во
+      веки веков,
+    chapter: 51
+    chapterId: 569
+    parallels:
+      - verseId: 32701
+        bookId: 22
+        bookCode: psaltir
+        chapter: 91
+        short: Пс:91:13
+      - verseId: 15308
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 11
+        short: Иер:11:16
+      - verseId: 28030
+        bookId: 35
+        bookCode: kniga-proroka-osii
+        chapter: 14
+        short: Ос:14:7
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Аз же яко маслина плодовита в дому Божии: уповах на милость Божию во век
+        и в век века."
+      averincev: ""
+      ungerov: "Я же - как маслина плодовитая в доме Божием: уповал на милость Божию
+        во век и в век века."
+      csya_old: "Ѓзъ же ћкw мaслина плодови1та въ домY б9іи: ўповaхъ на млcть б9ію во
+        вёкъ и3 въ вёкъ вёка."
+      sovr_rbo: А я, как зеленеющая маслина, в доме Божием, и уповаю на милость Божию
+        во веки веков,
+      latin: Ego autem, sicut oliva fructifera in domo Dei; speravi in misericordia
+        Dei, in aeternum et in saeculum saeculi.
+      ukr: А я як зелена оливка у Божому домі, надіюсь на Божую милість на вічні віки!
+      nkjv: But I am like a green olive tree in the house of God; I trust in the mercy
+        of God forever and ever.
+      desnitsky: ""
+      mt: ‫   וַאֲנִי כְּזַיִת רַעֲנָן בְּבֵית אֱלֹהִים בָּטַחְתִּי בְחֶסֶד־אֱלֹהִים
+        עוֹלָם וָעֶד׃ ‬
+      italian: Io invece come olivo verdeggiante nella casa di Dio. Mi abbandono alla
+        fedeltà di Dio ora e per sempre.
+      old_georgian: ხოლო მე, ვითარცა ზეთისხილი ნაყოფიერი სახლსა ღმრთისასა, ვესავ მე
+        წყალობასა ღმრთისასა უკუნისამდე და უკუნითი უკუნისამდე.
+      polish: "Ja zaś jak oliwka, co kwitnie w domu Bożym, zaufam na wieki
+        łaskawości\rBoga."
+      nrt: А я подобен маслине, зеленеющей в Божьем доме, я верю в Божью милость
+        вовеки.
+      Macarius: А я, как маслина, зеленеющая в доме Божием, надеюсь на милость Божию
+        вечно и непрестанно.
+      bulgarian: Аз пък съм в Божия дом като зеленееща се маслина, и се уповавам на
+        милостта Божия навеки.
+      ukr2: Я ж - мов те буйне дерево оливне в домі Божім; надіюсь на ласку Божу
+        повік-віки,
+      bel_syomukha: А я, як аліва зялёная, у доме Божым; і надзею кладу на міласьць
+        Божую на векі вечныя,
+      lev-khv: А я, как маслина, зеленеющая в доме Божием, надеюсь на милость Божию во
+        веки веков.
+      czech: Ale ja jsem jako zelenajici se oliva v dome Bozim. Doufam v Bozi
+        milosrdenstvi naveky a navzdy.
+      spanish: Mas yo, como olivo verde, (moraré) en la casa de Dios, confiando en la
+        piedad de Dios por siempre jamás.
+      zertis-kamenskiy: Аз же яко маслина зелена [пребуду] в дому Божии; и [зане]
+        уповах на милость Божию во век века.
+      pakazkiy: "Но я, как маслина зелена,\rВ дому Господни насажден;\rКак ветвь на
+        дереве рожденна,\rВ нем всей надеждой утвержден \rЕго всегда я признавая
+        Виной блаженства моего,"
+      greek-lxx: ἐγὼ δὲ ὡσεὶ ἐλαία κατάκαρπος ἐν τῷ οἴκῳ τοῦ Θεοῦ ἤλπισα ἐπὶ τὸ ἔλεος
+        τοῦ Θεοῦ εἰς τὸν αἰῶνα καὶ εἰς τὸν αἰῶνα τοῦ αἰῶνος
+      st_text: А я, как зеленеющая маслина, в доме Божием, и уповаю на милость Божию
+        во веки веков,
+  - id: 31889
+    number: 11
+    bookId: 22
+    text: вечно буду славить Тебя за то, что Ты соделал, и уповать на имя Твое, ибо
+      оно благо пред святыми Твоими.
+    chapter: 51
+    chapterId: 569
+    parallels:
+      - verseId: 31588
+        bookId: 22
+        bookCode: psaltir
+        chapter: 36
+        short: Пс:36:5
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Исповемся тебе в век, яко сотворил еси: и терплю имя твое, яко благо пред
+        преподобными твоими."
+      averincev: ""
+      ungerov: Буду исповедовать Тебя во век за то, что Ты соделал, и буду уповать на
+        имя Твое, ибо оно благо у преподобных Твоих.
+      csya_old: "И#сповёмсz тебЁ въ вёкъ, ћкw сотвори1лъ є3си2: и3 терплю2 и4мz твое2,
+        ћкw бlго пред8 прпdбными твои1ми."
+      sovr_rbo: вечно буду славить Тебя за то, что Ты соделал, и уповать на имя Твое,
+        ибо оно благо пред святыми Твоими.
+      latin: Confitebor tibi in saeculum, quia fecisti; et exspectabo nomen tuum,
+        quoniam bonum est in conspectu sanctorum tuorum.
+      ukr: Буду славити вічно Тебе, що вчинив Ти оце, і про ймення Твоє буду звіщати
+        побожним Твоїм, що добре воно!
+      nkjv: I will praise You forever, Because You have done it; And in the presence
+        of Your saints I will wait on Your name, for it is good.
+      desnitsky: ""
+      mt: ‫   אוֹדְךָ לְעוֹלָם כִּי עָשִׂיתָ וַאֲקַוֶּה שִׁמְךָ כִי־טוֹב נֶגֶד
+        חֲסִידֶיךָ׃ ‬
+      italian: Voglio renderti grazie in eterno per quanto hai operato; spero nel tuo
+        nome, perché è buono, davanti ai tuoi fedeli.
+      old_georgian: აღგიარო შენ უკუნისამდე, რამეთუ ჰყავ, და დაუთმო სახელსა შენსა,
+        რამეთუ ტკბილ არს წინაშე წმიდათა შენთა.
+      polish: "Chcę Cię wysławiać na wieki za to, coś uczynił, i polegać na Twoim
+        imieniu,\rbo jest dobre dla ludzi Tobie oddanych."
+      nrt: Буду славить Тебя вовек за сделанное Тобой. Перед Твоими верными я буду
+        уповать на Твое Имя, потому что оно прекрасно.
+      Macarius: Вечно буду славить Тебя, ибо Ты благотворишь, и уповать на имя Твое;
+        ибо Ты благ к святым Твоим.
+      bulgarian: Вечно ще Те славя за това, що си сторил, и ще се уповавам на Твоето
+        име, защото то е благо пред Твоите светии.
+      ukr2: Я прославлятиму тебе повіки, за те, що вчинив єси, і возвіщатиму ім'я
+        твоє, - воно бо добре, - перед вірними твоїми.
+      bel_syomukha: вечна буду славіць Цябе за тое, што Ты ўчыніў, і на Тваё
+        спадзявацца імя, бо яно добрае перад сьвятымі Тваімі.
+      lev-khv: Вечно буду славить Тебя за то, что Ты <i>это</i> сделал, и уповать на
+        имя Твое; потому что Ты благ к святым Твоим.
+      czech: Naveky ti budu vzdavat chvalu, nebot jsi to zpusobil ty. Nadeji jsem
+        slozil ve tve jmeno, je tak dobre ke tvym vernym.
+      spanish: Yo te alabaré (Dios) siempre por lo que has hecho, y esperaré en tu
+        nombre, porque es bueno en la presencia de tus piadosos.
+      zertis-kamenskiy: Исповемся Тебе, Боже, во век, яко сие сотворил еси и пожду
+        имени Твоего, яко благо пред преподобными Твоими.
+      pakazkiy: "И к небу руки воздевая,\rВо веки восхвалю Его.\rНа имя, толь
+        превознесенно Устами праведных мужей,\rЯ уповая совершенно,\rЕго почту
+        моей душей."
+      greek-lxx: ἐξομολογήσομαί σοι εἰς τὸν αἰῶνα ὅτι ἐποίησας καὶ ὑπομενῶ τὸ ὄνομά
+        σου ὅτι χρηστὸν ἐναντίον τῶν ὁσίων σου
+      st_text: вечно буду славить Тебя за то, что Ты соделал, и уповать на имя Твое,
+        ибо оно благо пред святыми Твоими.

@@ -1,0 +1,1426 @@
+id: 518
+number: 42
+bookId: 21
+verseCount: 17
+title: Глава 42
+verses:
+  - id: 19804
+    number: 1
+    bookId: 21
+    text: "И отвечал Иов Господу и сказал:"
+    chapter: 42
+    chapterId: 518
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Отвещав же иов, рече ко Господу:"
+      averincev: "И отвечал Иов Господу, и сказал:"
+      ungerov: "И отвечал Иов и сказал Господу:"
+      csya_old: "Tвэщaвъ же јwвъ, рече2 ко гDу:"
+      sovr_rbo: "Так ответил Господу Иов:"
+      latin: "Respondens autem Job Domino, dixit:"
+      ukr: "А Йов відповів Господеві й сказав:"
+      nkjv: "Then Job answered the Lord and said:"
+      desnitsky: "ТАК ОТВЕТИЛ ГОСПОДУ ИОВ:"
+      mt: ‫   וַיַּעַן אִיּוֹב אֶת־יְהוָה וַיֹּאמַר׃ ‬
+      romana: "Si Iov a raspuns Domnului zicand:"
+      francais: "Job répondit à l'Éternel et dit:"
+      italian: "Allora Giobbe rispose al Signore e disse:"
+      old_georgian: "მიუგო იობ და ჰრქუა უფალსა:"
+      portuguese: "Então respondeu Jó ao Senhor:"
+      polish: "Hiob na to odpowiedział Panu, i rzekł:"
+      turkish: "O zaman Eyüp RAB'bi şöyle yanıtladı:"
+      nrt: "Тогда Иов ответил Господу:"
+      Macarius: "И ответствовал Иов Иегове, и сказал:"
+      serbian: "Тада Јов одговори Господу и рече:"
+      bulgarian: "Отговори Иов на Господа и рече:"
+      deutsch: "Und Hiob antwortete dem Herrn und sprach:"
+      ukr2: "Відповів Іов Господеві й мовив:"
+      ukr3: "І озвався Йов і сказав:"
+      bel_syomukha: "Адказваў Ёў Госпаду і сказаў:"
+      lev-khv: "И отвечал Иов Господу, и сказал:"
+      czech: "Job na to Hospodinu odpovedel:"
+      spanish: "Respondió Job diciendo:"
+      greek-lxx: ὑπολαβὼν δὲ Ιωβ λέγει τῷ Κυρίῳ
+      st_text: "И отвечал Иов Господу и сказал:"
+  - id: 19805
+    number: 2
+    bookId: 21
+    text: знаю, что Ты все можешь, и что намерение Твое не может быть остановлено.
+    chapter: 42
+    chapterId: 518
+    parallels:
+      - verseId: 9893
+        bookId: 1
+        bookCode: bytie
+        chapter: 18
+        short: Быт:18:14
+      - verseId: 25384
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 19
+        short: Мф:19:26
+      - verseId: 26236
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 10
+        short: Мк:10:27
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: вем, яко вся можеши, невозможно же тебе ничтоже.
+      averincev: '"Теперь знаю: Ты можешь все, и невозможно противиться Тебе!'
+      ungerov: Знаю, что Ты все можешь, невозможнаго для Тебя ничего нет.
+      csya_old: вёмъ, ћкw вс‰ мо1жеши, невозмо1жно же тебЁ ничто1же.
+      sovr_rbo: "«Я знаю: все в Твоей власти, нет для Тебя невозможного, что бы Ты ни
+        замыслил."
+      latin: Scio quia omnia potes, et nulla te latet cogitatio.
+      ukr: Я знаю, що можеш Ти все, і не спиняється задум у Тебе!
+      nkjv: '"I know that You can do everything, And that no purpose of Yours can be
+        withheld from You.'
+      desnitsky: "– Я знаю: все в Твоей власти, нет для Тебя невозможного, чтобы Ты ни
+        замыслил."
+      mt: ‫   *ידעת **יָדַעְתִּי כִּי־כֹל תּוּכָל וְלֹא־יִבָּצֵר מִמְּךָ מְזִמָּה׃ ‬
+      romana: '"Stiu ca poti sa faci orice si ca nu este nici un gand care sa nu
+        ajunga pentru Tine fapta.'
+      francais: Je reconnais que tu peux tout, Et que rien ne s'oppose à tes pensées.
+      italian: Comprendo che puoi tutto e che nessuna cosa è impossibile per te.
+      old_georgian: ვიცი, რამეთუ ყოველივე ძალ-გიც და შეუძლებელ არა რაჲ არს შენ მიერ.
+      portuguese: Bem sei eu que tudo podes, e que nenhum dos teus propósitos pode ser
+        impedido.
+      polish: ”Wiem, że Ty wszystko możesz, co zamyślasz, potrafisz uczynić.
+      turkish: «Senin her şeyi yapabileceğini biliyorum, Hiçbir amacına engel olunmaz.
+      nrt: "– Я знаю: Ты можешь все, и невозможно противиться Тебе."
+      Macarius: Знаю, что Ты всемогущ, и не воспрещено Тебе, что ни помыслишь.
+      serbian: Знам да све можеш, и да се не може смести што наумиш.
+      bulgarian: зная, че Ти всичко можеш, и че намерението Ти не може да бъде спряно.
+      deutsch: Ich erkenne, daß du alles vermagst, und nichts, das du dir vorgenommen,
+        ist dir zu schwer.
+      ukr2: «Знаю, що ти все можеш; | усе, що задумаєш, зробити спроможен.
+      ukr3: Знаю, що ти все можеш, і що наміри твої годї з'упинити.
+      bel_syomukha: ведаю, што Ты ўсё можаш, і што намер Твой ня можа быць спынены.
+      lev-khv: Знаю, что Ты все можешь, и ничто не может воспрепятствовать исполнению
+        намерения Твоего.
+      czech: '"Uznavam, ze vsechno muzes a ze zadny zamer tobe neni neproveditelny.'
+      spanish: <<Sé que lo puedes todo y que no hay nada que te cohíba.
+      greek-lxx: οἶδα ὅτι πάντα δύνασαι ἀδυνατεῖ δέ σοι οὐθέν
+      st_text: знаю, что Ты все можешь, и что намерение Твое не может быть остановлено.
+  - id: 19806
+    number: 3
+    bookId: 21
+    text: Кто сей, омрачающий Провидение, ничего не разумея? - Так, я говорил о том,
+      чего не разумел, о делах чудных для меня, которых я не знал.
+    chapter: 42
+    chapterId: 518
+    parallels:
+      - verseId: 19655
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 38
+        short: Иов:38:2
+      - verseId: 31666
+        bookId: 22
+        bookCode: psaltir
+        chapter: 39
+        short: Пс:39:6
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Кто есть таяй от тебе совет, щадяй же словеса и от тебе мнится утаити? кто
+        же возвестит ми, ихже не ведех, велия и дивная, ихже не знах?
+      averincev: Кто есть сей, что промысл мрачил речами, в которых разуменья нет? Да,
+        Ты явил дивное, непонятное мне, великое, непостижное для меня.
+      ungerov: Кто утаит от Тебя совет? удерживаясь от слова, думает ли он утаиться от
+        Тебя? Кто же возвестит мне, чего я не знал, великое и чудное, чего я не
+        ведал?
+      csya_old: Кто1 є3сть таsй t тебє2 совётъ, щадsй же словесA и3 t тебє2 мни1тсz
+        ўтаи1ти; кто1 же возвэсти1тъ ми2, и4хже не вёдэхъ, вє1ліz и3 ди6внаz,
+        и4хже не знaхъ;
+      sovr_rbo: Кто я такой, чтобы порочить Твой замысел, ничего не зная? Говорил я о
+        том, чего не понимаю, о чудесах, непостижимых для меня.
+      latin: Quis est iste qui celat consilium absque scientia? ideo insipienter
+        locutus sum, et quae ultra modum excederent scientiam meam.
+      ukr: "Хто ж то такий, що ховає пораду немудру? Тому я говорив, але не розумів...
+        Це чудніше від мене, й не знаю його:"
+      nkjv: "You asked, 'Who is this who hides counsel without knowledge?' Therefore I
+        have uttered what I did not understand, Things too wonderful for me,
+        which I did not know. "
+      desnitsky: Кто я такой, чтобы порочить Твой замысел, ничего не зная? Говорил я о
+        том, чего не понимаю, о чудесах, непостижимых для меня.
+      mt: ‫   מִי זֶה מַעְלִים עֵצָה בְּלִי דָעַת לָכֵן הִגַּדְתִּי וְלֹא אָבִין
+        נִפְלָאוֹת מִמֶּנִּי וְלֹא אֵדָע׃ ‬
+      romana: Cine cuteaza, ai zis Tu, sa barfeasca planurile Mele, din lipsa de
+        intelepciune? Cu adevarat, am vorbit fara sa inteleg despre lucruri prea
+        minunate pentru mine si nu stiam.
+      francais: Quel est celui qui a la folie d'obscurcir mes desseins? -Oui, j'ai
+        parlé, sans les comprendre, De merveilles qui me dépassent et que je ne
+        conçois pas.
+      italian: Chi è colui che, senza aver scienza, può oscurare il tuo consiglio? Ho
+        esposto dunque senza discernimento cose troppo superiori a me, che io
+        non comprendo.
+      old_georgian: ვინმე არს, რომელი გიმალავს შენ ზრახვასა? ერიდებოდის სიტყუათა და
+        შენგან ჰგონებდეს დაფარვას? ვინ მომითხრას მე, რომელმან არა ვიცოდე
+        დიდ-დიდნი და საკჳრველნი, რომელ არა უწყოდე.
+      portuguese: "Quem é este que sem conhecimento obscurece o conselho? por isso
+        falei do que não entendia; coisas que para\rmim eram demasiado
+        maravilhosas, e que eu não conhecia."
+      polish: "Kto przesłania zamiar nierozumnie? O rzeczach wzniosłych mówiłem. To
+        zbyt\rcudowne. Ja nie rozumiem."
+      turkish: "`Tasarımı bilgisizce karartan bu adam kim?' diye sordun. Kuşkusuz
+        anlamadığım şeyleri konuştum,\rBeni aşan, bilmediğim şaşılası işleri."
+      nrt: "Ты спросил: «Кто этот невежда, омрачающий Мой замысел?» – Да, я говорил о
+        том, чего не понимал, о делах для меня чудесных, которых я не знал."
+      Macarius: «Кто сей, дерзнувший покрывать мраком определение Совета, ничего не
+        разумея?» Действительно, я изъяснял то, чего не разумею, чудные вещи,
+        непостижимые для меня и недоведомые.
+      serbian: Ко је то што замрачује савјет неразумно? Зато кажем да нијесам
+        разумијевао; чудесно је то за ме, те не могу знати.
+      bulgarian: Кой е този, който помрачава Провидението, без да разбира нещо? Тъй,
+        аз говорих онова, що не разбирах, за чудни мен дела, които не знаех.
+      deutsch: '"Wer ist der, der den Ratschluß verhüllt mit Unverstand?" Darum
+        bekenne ich, daß ich habe unweise geredet, was mir zu hoch ist und ich
+        nicht verstehe.'
+      ukr2: Хто ж то такий, що затемнює задум невіданням? | Тому я говорив про те,
+        чого не розумію; | про чуда, мені незбагненні, що їх не знаю.
+      ukr3: Та й кому б то затемнити твій провид, коли самий нїчого не розуміє? Так, -
+        я говорив об тім, чого не розумів, про речі чудні, менї незнані.
+      bel_syomukha: Хто гэты, што запамрочвае Наканаваньне, нічога не разумеючы? -
+        Так, я казаў пра тое, чаго не разумеў, пра дзеі дзівосныя для мяне, якіх
+        я ня ведаў.
+      lev-khv: "Кто этот, без познаний учащий мудрости? Так, я говорил <i>о том</i>,
+        <i>чего</i> не понимал, о непостижимом для меня и неведомом:"
+      czech: Kdo smi nerozvazne zatemnovat uradek Bozi? Ano, hlasal jsem, cemu jsem
+        nerozumel. Jsou to veci pro me prilis divuplne, ktere neznam.
+      spanish: (¿Quién es este que empaña la Providencia sin saber?) Por eso proferí
+        lo que no sabía, cosas admirables para mí, que no conocía.
+      greek-lxx: τίς γάρ ἐστιν ὁ κρύπτων σε βουλήν φειδόμενος δὲ ῥημάτων καὶ σὲ οἴεται
+        κρύπτειν τίς δὲ ἀναγγελεῖ μοι ἃ οὐκ ᾔδειν μεγάλα καὶ θαυμαστὰ ἃ οὐκ
+        ἠπιστάμην
+      st_text: Кто сей, омрачающий Провидение, ничего не разумея? - Так, я говорил о
+        том, чего не разумел, о делах чудных для меня, которых я не знал.
+  - id: 19807
+    number: 4
+    bookId: 21
+    text: Выслушай, <i>взывал я</i>, и я буду говорить, и что буду спрашивать у
+      Тебя, объясни мне.
+    chapter: 42
+    chapterId: 518
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Послушай же мене, Господи, да и аз возглаголю: вопрошу же тя, ты же мя
+        научи:"
+      averincev: Внемли же, я буду говорить, и что буду спрашивать, изъясни!
+      ungerov: "Но послушай меня, Господи, и я буду говорить: вопрошу Тебя, а Ты меня
+        научи."
+      csya_old: "Послyшай же мене2, гDи, да и3 ѓзъ возглаго1лю: вопрошy же тS, ты1 же
+        мS научи2:"
+      sovr_rbo: Так выслушай, что я скажу; я спрошу, а Ты мне ответь.
+      latin: "Audi, et ego loquar: interrogabo te, et responde mihi."
+      ukr: Слухай же ти, а Я буду казати, запитаю тебе, ти ж Мені поясни...
+      nkjv: "Listen, please, and let me speak; You said, 'I will question you, and you
+        shall answer Me.' "
+      desnitsky: Так выслушай, что я скажу; я спрошу, а Ты мне ответь.
+      mt: ‫   שְׁמַע־נָא וְאָנֹכִי אֲדַבֵּר אֶשְׁאָלְךָ וְהוֹדִיעֵנִי׃ ‬
+      romana: Asculta - ai spus Tu iar - si Eu voi vorbi, te voi intreba si tu Imi vei
+        da lamuriri.
+      francais: Écoute-moi, et je parlerai; Je t'interrogerai, et tu m'instruiras.
+      italian: "\"Ascoltami e io parlerò, io t'interrogherò e tu istruiscimi\"."
+      old_georgian: ისმინე ჩემი, უფალო! რათა მეცა ვიტყოდე. მე გკითხო შენ და შენ მასწაო მე.
+      portuguese: Ouve, pois, e eu falarei; eu te perguntarei, e tu me responderas.
+      polish: Posłuchaj, proszę. Pozwól mi mówić! Chcę spytać. Racz odpowiedzieć!
+      turkish: "«`Dinle de konuşayım' dedin,\r`Ben sorayım, sen anlat.'"
+      nrt: "Ты сказал: «Внимай Мне, и Я буду говорить; Я буду спрашивать, а ты
+        отвечай»."
+      Macarius: «Выслушай, говорил, что я скажу, и что спрошу у Тебя, объясни мне».
+      serbian: Слушај кад узговорим, и кад запитам, кажи ми.
+      bulgarian: Послушай ме, виках аз, и ще говоря, и каквото Те питам, обясни ми.
+      deutsch: '"So höre nun, laß mich reden; ich will dich fragen, lehre mich!"'
+      ukr2: Вчуй же, я буду говорити; | питатиму тебе, - навчай мене.
+      ukr3: Слухай же й я буду говорити, а про що буду питати в тебе, навчи мене.
+      bel_syomukha: Выслухай, усклікаў я, і я буду гаварыць, і пра што буду пытацца ў
+        Цябе, растлумач мне.
+      lev-khv: Послушай, а я буду говорить; я буду спрашивать Тебя, а Ты объясняй мне.
+      czech: Rac me vyslyset a nech me mluvit; budu se te ptat a poucis me.
+      spanish: (Escucha, pues, y yo hablaré, yo te preguntaré y me adoctrinarás.)
+      greek-lxx: ἄκουσον δέ μου Κύριε ἵνα κἀγὼ λαλήσω ἐρωτήσω δέ σε σὺ δέ με δίδαξον
+      st_text: Выслушай, <i>взывал я</i>, и я буду говорить, и что буду спрашивать у
+        Тебя, объясни мне.
+  - id: 19808
+    number: 5
+    bookId: 21
+    text: Я слышал о Тебе слухом уха; теперь же мои глаза видят Тебя;
+    chapter: 42
+    chapterId: 518
+    parallels:
+      - verseId: 20962
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 55
+        short: Ис:55:3
+      - verseId: 24685
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 5
+        short: Лк:5:8
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "слухом убо уха слышах тя первее, ныне же око мое виде тя:"
+      averincev: Только слухом я слышал о Тебе; ныне же глаза мои видят Тебя, -
+      ungerov: Прежде я слышал о Тебе слухом уха, а ныне око мое узрело Тебя.
+      csya_old: "слyхомъ ќбw ќха слы1шахъ тS пе1рвэе, нн7э же џко мое2 ви1дэ тS:"
+      sovr_rbo: О Тебе я прежде лишь слышал, а теперь своими глазами увидел,
+      latin: "Auditu auris audivi te: nunc autem oculus meus videt te."
+      ukr: Тільки послухом уха я чув був про Тебе, а тепер моє око ось бачить Тебе...
+      nkjv: '"I have heard of You by the hearing of the ear, But now my eye sees You.'
+      desnitsky: О Тебе я прежде лишь слышал, а теперь своими глазами увидел,
+      mt: ‫   לְשֵׁמַע־אֹזֶן שְׁמַעְתִּיךָ וְעַתָּה עֵינִי רָאָתְךָ׃ ‬
+      romana: Din spusele unora si altora auzisem despre Tine, dar acum ochiul meu
+        Te-a vazut.
+      francais: Mon oreille avait entendu parler de toi; Mais maintenant mon oeil t'a vu.
+      italian: Io ti conoscevo per sentito dire, ma ora i miei occhi ti vedono.
+      old_georgian: ჰამბავით ყურთა მესმინა შენთჳს პირველ და აწ თუალმან ჩემმან გიხილა შენ.
+      portuguese: Com os ouvidos eu ouvira falar de ti; mas agora te vêem os meus olhos.
+      polish: Dotąd Cię znałem ze słyszenia, obecnie ujrzałem Cię wzrokiem,
+      turkish: Kulaktan duymaydı bildiklerim senin hakkında, Şimdiyse gözlerimle
+        gördüm seni.
+      nrt: Я только слышал о Тебе, а теперь мои глаза видят Тебя.
+      Macarius: Прежде я слышал о Тебе ухом, и ныне око мое созерцает Тебя.
+      serbian: Ушима слушах о теби, а сада те око моје види.
+      bulgarian: Слушал бях за Тебе със слуха на ухото; сега пък очите ми Те виждат;
+      deutsch: Ich hatte von dir mit den Ohren gehört; aber nun hat dich mein Auge
+        gesehen.
+      ukr2: Я чув лиш те, що говориться про тебе, | але тепер на власні очі тебе
+        виджу!
+      ukr3: Я чув ухом казане про тебе, а тепер мої очі бачать тебе;
+      bel_syomukha: Я чуў пра Цябе слыхам вуха; а цяпер мае вочы бачаць Цябе;
+      lev-khv: По слуху только я слышал о Тебе; ныне же око мое увидело Тебя.
+      czech: Jen z doslechu o tobe jsem slychal, ted vsak jsem te spatril vlastnim
+        okem.
+      spanish: Sólo de oídas te conocía; mas ahora te han visto mis ojos.
+      greek-lxx: ἀκοὴν μὲν ὠτὸς ἤκουόν σου τὸ πρότερον νυνὶ δὲ ὁ ὀφθαλμός μου ἑόρακέν σε
+      st_text: Я слышал о Тебе слухом уха; теперь же мои глаза видят Тебя;
+  - id: 19809
+    number: 6
+    bookId: 21
+    text: поэтому я отрекаюсь и раскаиваюсь в прахе и пепле.
+    chapter: 42
+    chapterId: 518
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: темже укорих себе сам, и истаях, и мню себе землю и пепел.
+      averincev: сего ради отступаюсь и раскаиваюсь во прахе и пепле!"
+      ungerov: Посему я укорил сам себя и истаял, я считаю себя землею и пеплом.
+      csya_old: тёмже ўкори1хъ себе2 сaмъ, и3 и3стazхъ, и3 мню2 себе2 зе1млю и3 пе1пелъ.
+      sovr_rbo: потому я от всего отрекаюсь, раскаиваюсь средь праха и пепла».
+      latin: Idcirco ipse me reprehendo, et ago poenitentiam in favilla et cinere.
+      ukr: Тому я зрікаюсь говореного, і каюсь у поросі й попелі!...
+      nkjv: Therefore I abhor myself, And repent in dust and ashes."
+      desnitsky: потому я от всего отрекаюсь, раскаиваюсь средь праха и пепла.
+      mt: ‫   עַל־כֵּן אֶמְאַס וְנִחַמְתִּי עַל־עָפָר וָאֵפֶר׃ פ ‬
+      romana: Pentru aceea, ma urgisesc eu pe mine insumi si ma pocaiesc in praf si in
+        cenusa".
+      francais: C'est pourquoi je me condamne et je me repens Sur la poussière et sur
+        la cendre.
+      italian: Perciò mi ricredo e ne provo pentimento sopra polvere e cenere.
+      old_georgian: ამისთჳს განვიქარვე თავი ჩემი და დავაგდე. შემირაცხიეს თავი ჩემი
+        მიწად და ნაცრად.
+      portuguese: Pelo que me abomino, e me arrependo no pó e na cinza.
+      polish: stąd odwołuję, co powiedziałem, kajam się w prochu i w popiele”.
+      turkish: "Bu yüzden kendimi hor görüyor,\rToz ve kül içinde tövbe ediyorum.»"
+      nrt: Поэтому я отступаю и раскаиваюсь в прахе и пепле.
+      Macarius: Посему отрицаюсь, и приношу покаяние в прахе и пепле.
+      serbian: Зато поричем, и кајем се у праху и пепелу.
+      bulgarian: затова аз се отричам и разкайвам в прах и пепел.
+      deutsch: Darum spreche ich mich schuldig und tue Buße in Staub und Asche.
+      ukr2: Тому смиряюся і каюсь | на поросі та на попелі.»
+      ukr3: Тим то я зрекаюсь слова мого та каюсь в поросі й попелї.
+      bel_syomukha: таму я выракаюся і каюся ў пыле і ў попеле.
+      lev-khv: Поэтому я отрицаюсь и раскаиваюсь на прахе и пепле.
+      czech: Proto odvolavam a lituji vseho v prachu a popelu."
+      spanish: ¡Por eso me retracto y hago penitencia sobre polvo y ceniza!>>
+      greek-lxx: διὸ ἐφαύλισα ἐμαυτὸν καὶ ἐτάκην ἥγημαι δὲ ἐμαυτὸν γῆν καὶ σποδόν
+      st_text: поэтому я отрекаюсь и раскаиваюсь в прахе и пепле.
+  - id: 19810
+    number: 7
+    bookId: 21
+    text: "И было после того, как Господь сказал слова те Иову, сказал Господь
+      Елифазу Феманитянину: горит гнев Мой на тебя и на двух друзей твоих за то,
+      что вы говорили о Мне не так верно, как раб Мой Иов."
+    chapter: 42
+    chapterId: 518
+    parallels:
+      - verseId: 19158
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 2
+        short: Иов:2:11
+      - verseId: 19322
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 27
+        short: Иов:27:7
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Бысть же егда изглагола Господь вся глаголы сия иову, рече Господь ко
+        елифазу феманитину: согрешил еси ты и оба друзие твои: не глаголасте бо
+        предо мною ничтоже истинно, якоже раб мои иов:"
+      averincev: 'И было после того, как Господь сказал те слова Иову, и молвил
+        Господь Элифазу из Темана: "Гнев Мой пылает па тебя и на двух друзей
+        твоих; ибо вы не говорили обо Мне так правдиво, как раб Мой Иов!'
+      ungerov: "И было, после того как Господь изрек все эти слова Иову, сказал
+        Господь Елифазу Феманитянину: ты согрешил и два друга твои, ибо вы не
+        сказали предо Мною ничего истиннаго, как раб мой Иов."
+      csya_old: "Бы1сть же є3гдA и3згlа гDь вс‰ гlго1лы сі‰ јwву, рече2 гDь ко
+        є3ліфaзу fеманjтину: согрэши1лъ є3си2 ты2 и3 џба дрyзіе твои2: не
+        глаго1ласте бо предо мно1ю ничто1же и4стинно, ћкоже рaбъ мои2 јwвъ:"
+      sovr_rbo: "Закончив говорить с Иовом, Господь обратился к Элифазу из Темана: «Я
+        разгневан на тебя и на двоих твоих друзей за то, что вы говорили обо Мне
+        не так верно, как раб Мой Иов."
+      latin: "Postquam autem locutus est Dominus verba haec ad Job, dixit ad Eliphaz
+        Themanitem: Iratus est furor meus in te, et in duos amicos tuos, quoniam
+        non estis locuti coram me rectum, sicut servus meus Job."
+      ukr: "І сталося по тому, як Господь промовив ці слова до Йова, сказав Господь
+        теманянину Еліфазові: Запалився Мій гнів на тебе та на двох твоїх
+        приятелів, бо ви не говорили слушного про Мене, як раб Мій Йов."
+      nkjv: And so it was, after the Lord had spoken these words to Job, that the Lord
+        said to Eliphaz the Temanite, "My wrath is aroused against you and your
+        two friends, for you have not spoken of Me what is right, as My servant
+        Job has.
+      desnitsky: "Закончив говорить с Иовом, ГОСПОДЬ обратился к Элифазу из Теймана: –
+        Я разгневан на тебя и на двоих твоих друзей за то, что вы говорили обо
+        Мне не так верно, как раб Мой Иов."
+      mt: ‫   וַיְהִי אַחַר דִּבֶּר יְהוָה אֶת־הַדְּבָרִים הָאֵלֶּה אֶל־אִיּוֹב
+        וַיֹּאמֶר יְהוָה אֶל־אֱלִיפַז הַתֵּימָנִי חָרָה אַפִּי בְךָ וּבִשְׁנֵי
+        רֵעֶיךָ כִּי לֹא דִבַּרְתֶּם אֵלַי נְכוֹנָה כְּעַבְדִּי אִיּוֹב׃ ‬
+      romana: 'Iar dupa ce Domnul a rostit aceste cuvinte catre Iov, a grait catre
+        Elifaz din Teman: "Mania Mea arde impotriva ta si impotriva celor doi
+        prieteni ai tai, pentru ca n-ati vorbit de Mine asa de drept, precum a
+        vorbit robul Meu Iov.'
+      francais: "Après que l'Éternel eut adressé ces paroles à Job, il dit à Éliphaz
+        de Théman: Ma colère est enflammée contre toi et contre tes deux amis,
+        parce que vous n'avez pas parlé de moi avec droiture comme l'a fait mon
+        serviteur Job."
+      italian: 'Dopo che il Signore aveva rivolto queste parole a Giobbe, disse a
+        Elifaz il Temanita: "La mia ira si è accesa contro di te e contro i tuoi
+        due amici, perché non avete detto di me cose rette come il mio servo
+        Giobbe.'
+      old_georgian: "შემდგომად სიტყჳსა მის უფლისა ყოველთა ამათ სიტყუათა იობის მიმართ
+        ჰრქუა უფალმან ელიფას თემნელსა: სცოდე შენ და ორთა მათ მეგობართა შენთა,
+        რამეთუ არა იტყოდეთ ჭეშმარიტსა ჩემ წინაშე არცა ერთსა რას, ვითარ-იგი
+        მსახური ჩემი იობ."
+      portuguese: "Sucedeu pois que, acabando o Senhor de dizer a Jó aquelas palavras,
+        o Senhor disse a Elifaz, o temanita: A\rminha ira se acendeu contra ti e
+        contra os teus dois amigos, porque não tendes falado de mim o que era
+        reto, como\ro meu servo Jó."
+      polish: "Skoro Pan te słowa powiedział do Hioba, przemówił i do Elifaza z
+        Temanu:\r”Zapłonąłem gniewem na ciebie i na dwóch przyjaciół twoich, bo
+        nie mówiliście o Mnie prawdy, jak sługa mój, Hiob."
+      turkish: "RAB Eyüp'le konuştuktan sonra, Temanlı Elifaz'a: «Sana ve iki dostuna
+        karşı öfkem alevlendi» dedi, «Çünkü kulum Eyüp gibi hakkımda doğruyu
+        konuşmadınız."
+      nrt: "Сказав это Иову, Господь сказал Элифазу из Темана: – Я разгневан на тебя и
+        на двух твоих друзей за то, что вы говорили обо Мне не так верно, как
+        Мой слуга Иов."
+      Macarius: "И было после того, как Иегова изрек сии слова Иову, тогда сказал
+        Иегова Елифазу Феманитянину: «горит гнев Мой на тебя и на двух друзей
+        твоих за то, что вы не так верно говорили предо Мною, как раб Мой, Иов."
+      serbian: "А кад Господ изговори оне ријечи Јову, рече Господ Елифасу Теманцу:
+        Распалио се гњев мој на тебе и на два пријатеља твоја што не говористе о
+        мени право као слуга мој Јов."
+      bulgarian: "И отподир, след като Господ изговори на Иова тия думи, каза на
+        Елифаза Теманеца: разпали се гневът Ми против тебе и против двамата твои
+        другари, задето говорихте за Мене не тъй вярно, както Моят раб Иов."
+      deutsch: "Da nun der Herr mit Hiob diese Worte geredet hatte, sprach er zu
+        Eliphas von Theman: Mein Zorn ist ergrimmt über dich und deine zwei
+        Freunde; denn ihr habt nicht recht von mir geredet wie mein Knecht
+        Hiob."
+      ukr2: "Промовивши ці слова до Іова, Господь сказав до Еліфаза з Теману: «Запалав
+        я гнівом проти тебе й проти обох твоїх друзів, бо ви не говорили про
+        мене по правді, як мій слуга Іов."
+      ukr3: "Перемовившись із Йовом сими словами, сказав Господь до Елифаза з Теману:
+        Запалав я гнївом проти тебе й проти друзїв твоїх, бо не говорили ви про
+        мене по правдї, так як слуга мій Йов."
+      bel_syomukha: "І было пасьля таго, як Гасподзь сказаў словы тыя Ёву, сказаў
+        Гасподзь Эліфазу Тэманіцяніну: гарыць гнеў Мой на цябе і на двух сяброў
+        тваіх за тое, што вы гаварылі пра Мяне ня так правільна, як раб Мой Ёў."
+      lev-khv: "После того, как изрек Господь эти слов&#225; Иову, сказал Господь
+        Елифазу, Феманитянину: возгорел гнев Мой на тебя и на двух друзей твоих
+        за то, что вы не говорили предо Мною т&#225;к справедливо, как раб Мой
+        Иов."
+      czech: 'Kdyz Hospodin k Jobovi domluvil tato slova, rekl Elifazovi Temanskemu:
+        "Muj hnev plane proti tobe a obema tvym pratelum, protoze jste o mne
+        nemluvili nalezite jako muj sluzebnik Job.'
+      spanish: "Después de haber hablado Yavé a Job estas palabras, dijo Yavé a
+        Elifaz, temanita: Se ha encendido mi ira contra ti y contra tus dos
+        compañeros, porque no hablasteis de mí rectamente, como mi siervo Job."
+      greek-lxx: ἐγένετο δὲ μετὰ τὸ λαλῆσαι τὸν Κύριον πάντα τὰ ῥήματα ταῦτα τῷ Ιωβ
+        εἶπεν ὁ Κύριος Ελιφας τῷ Θαιμανίτῃ ἥμαρτες σὺ καὶ οἱ δύο φίλοι σου οὐ
+        γὰρ ἐλαλήσατε ἐνώπιόν μου ἀληθὲς οὐδὲν ὥσπερ ὁ θεράπων μου Ιωβ
+      st_text: "И было после того, как Господь сказал слова те Иову, сказал Господь
+        Елифазу Феманитянину: горит гнев Мой на тебя и на двух друзей твоих за
+        то, что вы говорили о Мне не так верно, как раб Мой Иов."
+  - id: 19811
+    number: 8
+    bookId: 21
+    text: Итак возьмите себе семь тельцов и семь овнов и пойдите к рабу Моему Иову и
+      принесите за себя жертву; и раб Мой Иов помолится за вас, ибо только лице
+      его Я приму, дабы не отвергнуть вас за то, что вы говорили о Мне не так
+      верно, как раб Мой Иов.
+    chapter: 42
+    chapterId: 518
+    parallels:
+      - verseId: 9982
+        bookId: 1
+        bookCode: bytie
+        chapter: 20
+        short: Быт:20:7
+      - verseId: 16752
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 14
+        short: Иез:14:14
+      - verseId: 15244
+        bookId: 56
+        bookCode: poslanie-ap-iakova
+        chapter: 5
+        short: Иак:5:16
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "ныне же возмите седмь тельцев и седмь овнов и идите ко рабу моему иову, и
+        сотворит жертву о вас: иов же раб мой помолится о вас, понеже точию лице
+        его прииму: аще бо не его ради, погубил бых убо вас: не глаголасте бо
+        истины на раба моего иова."
+      averincev: Потому возьмите семь тельцов и семь овнов, и пойдите к рабу Моему
+        Иову, и принесите за себя жертву всесожжения; и пусть раб Мой Иов
+        помолится за вас, ибо только его молитву Я приму, чтобы не отвергнуть
+        Мне вас за то, что вы не говорили обо Мне так правдиво, как раб Мой
+        Иов!"
+      ungerov: Ныне же возьмите семь тельцов и семь овнов, и идите к рабу моему, Иову,
+        и он принесет о вас жертву; Иов же, раб мой, помолится о вас, ибо только
+        лице его Я приму, и только ради его Я не погублю вас, ибо вы не говорили
+        истины о рабе моем Иове.
+      csya_old: "нн7э же возми1те се1дмь тельцє1въ и3 се1дмь nвнHвъ и3 и3ди1те ко рабY
+        моемY јwву, и3 сотвори1тъ же1ртву њ вaсъ: јwвъ же рaбъ мо1й помо1литсz њ
+        вaсъ, поне1же то1чію лице2 є3гw2 пріимY: ѓще бо не є3гw2 рaди, погуби1лъ
+        бы1хъ ќбw вaсъ: не глаго1ласте бо и4стины на рабA моего2 јwва."
+      sovr_rbo: А потому возьмите семь быков и семь баранов и ступайте к рабу Моему
+        Иову. Вы принесете их в жертву всесожжения за себя самих, а раб Мой Иов
+        помолится о вас. Только его молитву Я приму — не покараю вас за то, что
+        вы говорили обо Мне не так верно, как раб Мой Иов».
+      latin: "Sumite ergo vobis septem tauros et septem arietes, et ite ad servum meum
+        Job, et offerte holocaustum pro vobis: Job autem servus meum orabit pro
+        vobis. Faciem ejus suscipiam, ut non vobis imputetur stultitia: neque
+        enim locuti estis ad me recta, sicut servus meus Job."
+      ukr: А тепер візьміть собі сім бичків та сім баранів, і йдіть до Мого раба Йова,
+        і принесете цілопалення за себе, а Мій раб Йов помолиться за вас, бо
+        тільки з ним Я буду рахуватися, щоб не вчинити вам злої речі, бо ви не
+        говорили слушного про Мене, як раб Мій Йов.
+      nkjv: Now therefore, take for yourselves seven bulls and seven rams, go to My
+        servant Job, and offer up for yourselves a burnt offering; and My
+        servant Job shall pray for you. For I will accept him, lest I deal with
+        you according to your folly; because you have not spoken of Me what is
+        right, as My servant Job has."
+      desnitsky: А потому возьмите семь быков и семь баранов и ступайте к рабу Моему
+        Иову. Вы принесете их в жертву всесожжения за себя самих, а раб Мой Иов
+        помолится о вас. Только его заступничество Я приму – не покараю вас за
+        то, что вы говорили обо Мне не так верно, как раб Мой Иов.
+      mt: ‫   וְעַתָּה קְחוּ־לָכֶם שִׁבְעָה־פָרִים וְשִׁבְעָה אֵילִים וּלְכוּ
+        אֶל־עַבְדִּי אִיּוֹב וְהַעֲלִיתֶם עוֹלָה בַּעַדְכֶם וְאִיּוֹב עַבְדִּי
+        יִתְפַּלֵּל עֲלֵיכֶם כִּי אִם־פָּנָיו אֶשָּׂא לְבִלְתִּי עֲשׂוֹת
+        עִמָּכֶם נְבָלָה כִּי לֹא דִבַּרְתֶּם אֵלַי נְכוֹנָה כְּעַבְדִּי
+        אִיּוֹב׃ ‬
+      romana: Acum deci luati sapte vitei si sapte berbeci si duceti-va la robul Meu
+        Iov si aduceti-le, pentru voi, ardere de tot; iar robul Meu Iov sa se
+        roage pentru voi; din dragoste pentru el, voi fi ingaduitor, ca sa nu Ma
+        port cu voi dupa nebunia voastra, intrucat n-ati vorbit despre Mine asa
+        de drept cum a vorbit robul Meu Iov".
+      francais: Prenez maintenant sept taureaux et sept béliers, allez auprès de mon
+        serviteur Job, et offrez pour vous un holocauste. Job, mon serviteur,
+        priera pour vous, et c'est par égard pour lui seul que je ne vous
+        traiterai pas selon votre folie; car vous n'avez pas parlé de moi avec
+        droiture, comme l'a fait mon serviteur Job.
+      italian: Prendete dunque sette vitelli e sette montoni e andate dal mio servo
+        Giobbe e offriteli in olocausto per voi; il mio servo Giobbe pregherà
+        per voi, affinché io, per riguardo a lui, non punisca la vostra
+        stoltezza, perché non avete detto di me cose rette come il mio servo
+        Giobbe".
+      old_georgian: ხოლო აწ მოიბთ შჳდი ზუარაკი და შჳდნი ვერძნი. და მივედით მსახურისა
+        ჩემისა იობისა. და შეწიროს მსხუერპლი თქუენთჳს. ხოლო იობ, მსახურმან
+        ჩემმან, ილოცოს თქუენთჳს, რამეთუ პირსა მისსა თუალსა ვაღებ, უკუეთუმცა არა
+        მივხედე, წარ-მცა-გწყმიდე თქუენ, რამეთუ არა იტყოდეთ ჭეშმარიტსა მსახურისა
+        ჩემისა იობისათჳს.
+      portuguese: "Tomai, pois, sete novilhos e sete carneiros, e ide ao meu servo Jó,
+        e oferecei um holocausto por vós; e o meu\rservo Jó orará por vós;
+        porque deveras a ele aceitarei, para que eu não vos trate conforme a
+        vossa estultícia;\rporque vós não tendes falado de mim o que era reto,
+        como o meu servo Jó."
+      polish: "Weźcie teraz siedem młodych cielców i siedem baranów, idźcie do sługi
+        mego,\rHioba, i złóżcie ofiarę całopalną za siebie. Mój sługa, Hiob,
+        będzie się za was\rmodlił. Ze względu na niego nic złego wam nie zrobię,
+        choć nie mówiliście\rprawdy o Mnie, jak sługa mój, Hiob”."
+      turkish: Şimdi yedi boğa, yedi koç alıp kulum Eyüp'ün yanına gidin, kendiniz
+        için yakmalık sunu sunun. Kulum Eyüp sizin için dua etsin. Çünkü onun
+        duasını kabul eder, aptallığınızın karşılığını vermem. Kulum Eyüp gibi
+        hakkımda doğruyu konuşmadınız.»
+      nrt: Поэтому возьмите семь молодых быков и семь баранов, пойдите к Моему слуге
+        Иову и принесите за себя жертву всесожжения. Мой слуга Иов помолится о
+        вас, и Я приму Его молитву и не поступлю с вами по вашей глупости. Вы
+        говорили обо Мне не так верно, как Мой слуга Иов.
+      Macarius: И ныне возьмите себе семь тельцов и семь овнов, и подите к рабу Моему
+        Иову, и вознесите всесожжение за себя; и Иов, раб Мой, помолится за вас;
+        ибо ходатайство его приму, чтобы не поступить с вами, как заслуживает
+        неразумие, потому что вы предо Мною говорили не так верно, как раб мой
+        Иов».
+      serbian: Зато сада узмите седам телаца и седам овнова, и идите к слузи мојему
+        Јову и принесите жртве паљенице за се, и слуга мој Јов нека се помоли за
+        вас, јер ћу доиста погледати на њ да не учиним с вама по вашој лудости,
+        јер не говористе о мени право као слуга мој Јов.
+      bulgarian: Затова, вземете със себе си седем телеца и седем овена, па идете при
+        Моя раб Иова и пренесете за себе си жертва; и Моят раб Иов ще се помоли
+        за вас, защото само неговото лице ще приема, за да ви не отхвърля,
+        задето говорихте за Мене не тъй вярно, както Моят раб Иов.
+      deutsch: So nehmt nun sieben Farren und sieben Widder und geht hin zu meinem
+        Knecht Hiob und opfert Brandopfer für euch und laßt meinen Knecht Hiob
+        für euch bitten. Denn ich will ihn ansehen, daß ich an euch nicht tue
+        nach eurer Torheit; den ihr habt nicht recht von mir geredet wie mein
+        Knecht Hiob.
+      ukr2: Оце ж візьміть із собою 7 бичків та 7 баранів та йдіть до мого слуги Іова,
+        і принесіть за себе всепалення, і нехай Іов, слуга мій, помолиться за
+        вас, і я зглянуся на нього, і не заподію вам нічого прикрого за те, що
+        ви не говорили про мене по правді, як мій слуга Іов.»
+      ukr3: Оце ж возьміть із собою семеро назимків та семеро баранів та йдїте до раба
+        мого Йова, й принесїте за себе жертву; й нехай слуга мій Йов помолиться
+        за вас, бо тільки його лице я прийму, щоб не відкинути вас за те, що ви
+        не так праведно говорили про мене, як раб мій Йов.
+      bel_syomukha: Дык вось, вазьмеце сабе сем цялят і сем бараноў і ідзеце да раба
+        Майго Ёва і прынясеце за сябе ахвяру; і раб Мой Ёў памоліцца за вас, бо
+        толькі аблічча ягонае Я прыму, каб не адкінуць вас за тое, што вы казалі
+        пра Мяне ня так правільна, як раб Мой Ёў.
+      lev-khv: И так возьмите себе семь тельцов и семь овнов, и подите к рабу Моему
+        Иову, и принесите всесожжение за себя; и Иов, раб Мой, помолится за вас;
+        потому что только на его лице Я буду смотреть, чтоб не наложить на вас
+        наказания за то, что вы не говорили предо Мною так справедливо, как раб
+        Мой Иов.
+      czech: Vezmete tedy za sebe sedm bycku a sedm beranu a jdete k memu sluzebniku
+        Jobovi. Obetujte za sebe zapalnou obet a muj sluzebnik Job at se za vas
+        modli. Ja ho prijmu milostive a nepotrestam vas za vase poblouzeni, ze
+        jste o mne nemluvili nalezite jako muj sluzebnik Job."
+      spanish: Así, pues, tomad siete becerros y siete carneros e id a mi siervo Job y
+        ofreced por vosotros sacrificios; y Job, mi siervo, rogará por vosotros,
+        y en atención a él no os haré mal, pues no hablasteis de mí rectamente,
+        como mi siervo Job.
+      greek-lxx: νῦν δὲ λάβετε ἑπτὰ μόσχους καὶ ἑπτὰ κριοὺς καὶ πορεύθητε πρὸς τὸν
+        θεράποντά μου Ιωβ καὶ ποιήσει κάρπωσιν περὶ ὑμῶν Ιωβ δὲ ὁ θεράπων μου
+        εὔξεται περὶ ὑμῶν ὅτι εἰ μὴ πρόσωπον αὐτοῦ λήμψομαι εἰ μὴ γὰρ δι᾿ αὐτόν
+        ἀπώλεσα ἂν ὑμᾶς οὐ γὰρ ἐλαλήσατε ἀληθὲς κατὰ τοῦ θεράποντός μου Ιωβ
+      st_text: Итак возьмите себе семь тельцов и семь овнов и пойдите к рабу Моему
+        Иову и принесите за себя жертву; и раб Мой Иов помолится за вас, ибо
+        только лице его Я приму, дабы не отвергнуть вас за то, что вы говорили о
+        Мне не так верно, как раб Мой Иов.
+  - id: 19812
+    number: 9
+    bookId: 21
+    text: И пошли Елифаз Феманитянин и Вилдад Савхеянин и Софар Наамитянин, и
+      сделали так, как Господь повелел им, - и Господь принял лице Иова.
+    chapter: 42
+    chapterId: 518
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Отъиде же елифаз феманитин и валдад савхейский и софар минейский и
+        сотвориша, якоже повеле им Господь. И отпусти грехи им иова ради.
+      averincev: И пошли Элифаз из Темаыа, и Билдад из Шуаха, и Цофар из Наамы, и
+        сделали так, как велел им Господь. И принял Господь молитву Иова.
+      ungerov: И пошли Елифаз Феманитянин, и Валдад Савхейский, и Софар Минейский, и
+        сделали, как повелел им Господь, и Он отпустил им грехи ради Иова.
+      csya_old: Tи1де же є3ліфaзъ fеманjтинъ и3 валдaдъ саvхе1йскій и3 сwфaръ
+        міне1йскій и3 сотвори1ша, ћкоже повелЁ и5мъ гDь. И# tпусти2 грэхи2 и5мъ
+        јwва рaди.
+      sovr_rbo: Тогда Элифаз из Темана, Билдад из Шуаха и Цофар из Наамы пошли и
+        сделали так, как повелел Господь, и Господь принял молитву Иова.
+      latin: Abierunt ergo Eliphaz Themanites, et Baldad Suhites, et Sophar
+        Naamathites, et fecerunt sicut locutus fuerat Dominus ad eos, et
+        suscepit Dominus faciem Job.
+      ukr: І пішли теманянин Еліфаз, і шух'янин Білдад, та нааматянин Цофар, і
+        зробили, як говорив їм Господь. І споглянув Господь на Йова.
+      nkjv: So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite
+        went and did as the Lord commanded them; for the Lord had accepted Job.
+      desnitsky: Тогда Элифаз из Теймана, Билдад из Шуаха и Цофар из Наамы пошли и
+        сделали так, как повелел ГОСПОДЬ, и ГОСПОДЬ принял молитву Иова.
+      mt: ‫   וַיֵּלְכוּ אֱלִיפַז הַתֵּימָנִי וּבִלְדַּד הַשּׁוּחִי צֹפַר הַנַּעֲמָתִי
+        וַיַּעֲשׂוּ כַּאֲשֶׁר דִּבֶּר אֲלֵיהֶם יְהוָה וַיִּשָּׂא יְהוָה
+        אֶת־פְּנֵי אִיּוֹב׃ ‬
+      romana: Astfel Elifaz din Teman, Bildad din Suah si Tofar din Naamat, s-au dus
+        si au facut cum le spusese Domnul, si Domnul a primit rugaciunea lui
+        Iov.
+      francais: "Éliphaz de Théman, Bildad de Schuach, et Tsophar de Naama allèrent et
+        firent comme l'Éternel leur avait dit: et l'Éternel eut égard à la
+        prière de Job."
+      italian: Elifaz il Temanita, Bildad il Suchita e Zofar il Naamatita andarono e
+        fecero come loro aveva detto il Signore e il Signore ebbe riguardo di
+        Giobbe.
+      old_georgian: წარვიდა ელიფას თემანელი, და ბალდად სავაქელი, და სოფან მინეველი და
+        ყვეს ეგრე, ვითარცა უბრძანა მათ უფალმან, და მიუტევა მათ ცოდვანი მათნი
+        იობისთჳს,
+      portuguese: "Então foram Elifaz o temanita, e Bildade o suíta, e Zofar o
+        naamatita, e fizeram como o Senhor lhes ordenara; e o\rSenhor aceitou a
+        Jó."
+      polish: "Poszli więc, Elifaz z Temanu, Bildad z Szuach i Sofar z Naamy.
+        Uczynili, jak\rmówił im Pan, a Pan miał wzgląd na Hioba."
+      turkish: Temanlı Elifaz, Şuahlı Bildat, Naamalı Sofar gidip RAB'bin söylediğini
+        yaptılar. RAB de Eyüp'ün duasını kabul etti.
+      nrt: Элифаз из Темана, Билдад из Шуаха и Цофар из Наамы сделали, как велел им
+        Господь. И Господь принял молитву Иова.
+      Macarius: И пошли Елифаз Феманитянин и Вилдад Савхеянин, Софар Наамитянин, и
+        сделали, как сказал им Иегова; и принял Иегова ходатайство Иова.
+      serbian: И тако отиде Елифас Теманац и Вилдад Сушанин и Софар Намаћанин, и
+        учинише како им заповједи Господ. И погледа Господ на Јова.
+      bulgarian: И отидоха Елифаз Теманец, Вилдад Савхеец и Софар Наамец, и сториха,
+        както Господ им заповяда, - и Господ прие лицето Иовово.
+      deutsch: Da gingen hin Eliphas von Theman, Bildad von Suah und Zophar von Naema
+        und taten, wie der Herr ihnen gesagt hatte; und der Herr sah an Hiob.
+      ukr2: Еліфаз із Теману, Білдад з Шуаху й Цофар з Наамату пішли й вчинили, як
+        сказав їм Господь, і зглянувся Господь над Іовом.
+      ukr3: І пійшли Елифаз Теманський, Билдад Савхеаський і Софар Наамський, і
+        вчинили, що заповідав їм Господь, і приняв Господь ласкаво лице Йовове.
+      bel_syomukha: І пайшлі Эліфаз Тэманіцянін і Вілдад Саўхэянін і Сатар Нааміцянін,
+        і зрабілі так, як Гасподзь загадаў ім, - і Гасподзь прыняў аблічча Ёва.
+      lev-khv: И пошли Елифаз, Феманитянин, и Вилдад, Савхеянин, и Софар, Наамитянин,
+        и сделали так, к&#225;к изрек им Господь. И призрел Господь на лице
+        Иова.
+      czech: I sli Elifaz Temansky, Bildad Suchsky a Sofar Naamatsky ucinit, co jim
+        Hospodin naridil. A Hospodin Joba milostive prijal.
+      spanish: Vinieron, pues, Elifaz, temanita; Bildad, suhita, y Sofar, namatita, e
+        hicieron lo que les mandara Yavé, y Yavé atendió a los ruegos de Job.
+      greek-lxx: ἐπορεύθη δὲ Ελιφας ὁ Θαιμανίτης καὶ Βαλδαδ ὁ Σαυχίτης καὶ Σωφαρ ὁ
+        Μιναῖος καὶ ἐποίησαν καθὼς συνέταξεν αὐτοῖς ὁ Κύριος καὶ ἔλυσεν τὴν
+        ἁμαρτίαν αὐτοῖς διὰ Ιωβ
+      st_text: И пошли Елифаз Феманитянин и Вилдад Савхеянин и Софар Наамитянин, и
+        сделали так, как Господь повелел им, - и Господь принял лице Иова.
+  - id: 19813
+    number: 10
+    bookId: 21
+    text: И возвратил Господь потерю Иова, когда он помолился за друзей своих; и дал
+      Господь Иову вдвое больше того, что он имел прежде.
+    chapter: 42
+    chapterId: 518
+    parallels:
+      - verseId: 36574
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 30
+        short: Втор:30:3
+      - verseId: 19905
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 8
+        short: Иов:8:7
+      - verseId: 26239
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 10
+        short: Мк:10:30
+      - verseId: 14646
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 11
+        short: Евр:11:34
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Господь же возрасти иова: молящуся же ему и о друзех своих, отпусти им
+        грехи их, и даде Господь сугубая, елика бяху прежде иову во
+        усугубление."
+      averincev: И повернул Господь к возврату путь Иова, когда помолился Иов за
+        друзей сиоих; и вдвое умножил Господь все, что было у Иова.
+      ungerov: И возрастил Господь Иова, а когда он помолился и о друзьях своих, Он
+        отпустил им грехи их. И дал Господь Иову вдвое более того, что он имел
+        прежде.
+      csya_old: "ГDь же возрасти2 јwва: молsщусz же є3мY и3 њ друзёхъ свои1хъ, tпусти2
+        и5мъ грэхи2 и4хъ, и3 даде2 гDь суг{баz, є3ли6ка бsху пре1жде јwву во
+        ўсугубле1ніе."
+      sovr_rbo: "И когда Иов помолился за друзей, Господь вернул ему благополучие:
+        Господь дал Иову вдвое больше, чем было у него прежде."
+      latin: "Dominus quoque conversus est ad poenitentiam Job, cum oraret ille pro
+        amicis suis: et addidit Dominus omnia quaecumque fuerant Job, duplicia."
+      ukr: І Господь привернув Йова до першого стану, коли він помолився за своїх
+        приятелів. І помножив Господь усе, що Йов мав, удвоє.
+      nkjv: "And the Lord restored Job's losses when he prayed for his friends. Indeed
+        the Lord gave Job twice as much as he had before. "
+      desnitsky: "И когда Иов помолился за друзей, ГОСПОДЬ вернул ему благополучие:
+        ГОСПОДЬ дал Иову вдвое больше. чем было у него прежде."
+      mt: ‫   וַיהוָה שָׁב אֶת־*שבית **שְׁבוּת אִיּוֹב בְּהִתְפַּלְלוֹ בְּעַד רֵעֵהוּ
+        וַיֹּסֶף יְהוָה אֶת־כָּל־אֲשֶׁר לְאִיּוֹב לְמִשְׁנֶה׃ ‬
+      romana: Si Domnul l-a pus pe Iov iarasi in starea lui de la inceput, dupa ce s-a
+        rugat pentru prieteni, si i-a intors indoit tot ce avusese mai inainte.
+      francais: L'Éternel rétablit Job dans son premier état, quand Job eut prié pour
+        ses amis; et l'Éternel lui accorda le double de tout ce qu'il avait
+        possédé.
+      italian: Dio ristabilì Giobbe nello stato di prima, avendo egli pregato per i
+        suoi amici; accrebbe anzi del doppio quanto Giobbe aveva posseduto.
+      old_georgian: ხოლო უფალმან აღაორძინა იობ. და ილოცა მან მეგობართა მისთათჳს და
+        მიუტევნა უფალმან ცოდვანი მათნი. და მოსცა უფალმან მრჩობლი, რავდენ-იგი
+        იყვნეს პირველად იობისი, ორწილად
+      portuguese: "O Senhor, pois, virou o cativeiro de Jó, quando este orava pelos
+        seus amigos; e o Senhor deu a Jó o dobro do\rque antes possuía."
+      polish: I Pan przywrócił Hioba do dawnego stanu, gdyż modlił się on za swych
+        przyjaciół. Pan oddał mu całą majętność w dwójnasób.
+      turkish: Eyüp dostları için dua ettikten sonra, RAB onu eski gönencine
+        kavuşturup ona önceki varlığının iki katını verdi.
+      nrt: После того как Иов помолился за своих друзей, Господь вернул ему
+        благополучие и дал ему вдвое больше того, что было у него прежде.
+      Macarius: Когда же Иов помолился за друга своего, тогда Иегова возвратил плен
+        Иова; и все, что было у Иова, Иегова вдвое воздал ему.
+      serbian: И Господ поврати што бјеше узето Јову пошто се помоли за пријатеље
+        своје; и умножи Господ Јову двојином све што бјеше имао.
+      bulgarian: И върна Господ Иову загубата, когато той се помоли за приятелите си;
+        и даде Господ на Иова двойно повече от онова, що имаше по-преди.
+      deutsch: Und der Herr wandte das Gefängnis Hiobs, da er bat für seine Freunde.
+        Und der Herr gab Hiob zwiefältig so viel, als er gehabt hatte.
+      ukr2: Господь повернув Іовові його становище, бо Іов заступався за своїх друзів;
+        Господь збільшив усе, що було в Іова, удвоє.
+      ukr3: І вернув Господь Йовові втрату, як він помолився за свої друзі, й дав
+        Господь Йовові удвоє тілько, як мав уперед.
+      bel_syomukha: І вярнуў Гасподзь страту Ёва, калі ён памаліўся за сяброў сваіх; і
+        даў Гасподзь Ёву ўдвая больш за тое, што ён меў раней.
+      lev-khv: И Господь возвратил благосостояние Иову, когда он помолился за друзей
+        своих; и умножил Господь все, чтó было у Иова, вдвое.
+      czech: Hospodin take zmenil Jobuv udel, pote co se modlil za sve pratele, a dal
+        mu vseho dvojnasob, nez mival.
+      spanish: Yavé restableció a Job en su estado, después de haber rogado él por sus
+        amigos, y acrecentó Yavé hasta el duplo todo cuanto antes poseyera.
+      greek-lxx: ὁ δὲ Κύριος ηὔξησεν τὸν Ιωβ εὐξαμένου δὲ αὐτοῦ καὶ περὶ τῶν φίλων
+        αὐτοῦ ἀφῆκεν αὐτοῖς τὴν ἁμαρτίαν ἔδωκεν δὲ ὁ Κύριος διπλᾶ ὅσα ἦν
+        ἔμπροσθεν Ιωβ εἰς διπλασιασμόν
+      st_text: И возвратил Господь потерю Иова, когда он помолился за друзей своих; и
+        дал Господь Иову вдвое больше того, что он имел прежде.
+  - id: 19814
+    number: 11
+    bookId: 21
+    text: Тогда пришли к нему все братья его и все сестры его и все прежние знакомые
+      его, и ели с ним хлеб в доме его, и тужили с ним, и утешали его за все
+      зло, которое Господь навел на него, и дали ему каждый по кесите и по
+      золотому кольцу.
+    chapter: 42
+    chapterId: 518
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Услышаша же вси братия его и сестры его вся случившаяся ему, и приидоша к
+        нему, и вси елицы знаху его первее: ядше же и пивше у него, утешиша его
+        и дивишася о всех, яже наведе нань Бог: даде же ему кийждо агницу едину
+        и четыре драхмы злата назнаменована."
+      averincev: Тогда пришли к нему все братья его, и все сестры его, и все прежние
+        близкие его, и ели с ним хлеб в его доме, и жалели его, и утешали его за
+        все то зло, которому дал Господь найти на него; и каждый подарил ему по
+        кесите золота п по золотому кольцу.
+      ungerov: И услышали все братья его и сестры его о всем, случившемся с ним, и
+        пришли к нему, (а также) и все, кто знали его прежде, ели и пили у него,
+        утешили его и дивились всему, что навел на него Бог, и каждый дал ему по
+        одной агнице и по четыре золотых без печати драхмы.
+      csya_old: "Ўслы1шаша же вси2 брaтіz є3гw2 и3 сєстры2 є3гw2 вс‰ случи6вшаzсz
+        є3мY, и3 пріидо1ша къ немY, и3 вси2 є3ли1цы знaху є3го2 пе1рвэе: ћдше же
+        и3 пи1вше ў негw2, ўтёшиша є3го2 и3 диви1шасz њ всёхъ, ±же наведе2 нaнь
+        бг7ъ: даде1 же є3мY кjйждо ѓгницу є3ди1ну и3 четы1ре др†хмы злaта
+        назнaменована."
+      sovr_rbo: Собрались к нему все его братья и сестры, все былые друзья; пировали
+        они в его доме, жалели его и утешали после всех бед, посланных ему
+        Господом. Каждый дарил Иову по кесите , каждый — по золотой серьге.
+      latin: "Venerunt autem ad eum omnes fratres sui, et universae sorores suae, et
+        cuncti qui noverant eum prius, et comederunt cum eo panem in domo ejus:
+        et moverunt super eum caput, et consolati sunt eum super omni malo quod
+        intulerat Dominus super eum, et dederunt ei unusquisque ovem unam, et
+        inaurem auream unam."
+      ukr: І поприходили до нього всі брати його, і всі сестри його та всі попередні
+        знайомі його, і їли з ним хліб у його домі. І вони головою хитали над
+        ним, та потішали його за все зле, що Господь був спровадив на нього. І
+        дали вони йому кожен по одній кеситі, і кожен по одній золотій обручці.
+      nkjv: Then all his brothers, all his sisters, and all those who had been his
+        acquaintances before, came to him and ate food with him in his house;
+        and they consoled him and comforted him for all the adversity that the
+        Lord had brought upon him. Each one gave him a piece of silver and each
+        a ring of gold.
+      desnitsky: Собрались к нему все его братья и сестры, все былые друзья; пировали
+        они в его доме, жалели его и утешали после всех тех бед, посланных ему
+        ГОСПОДОМ. Каждый дарил Иову по кесите, каждый – по золотой серьге.
+      mt: ‫   וַיָּבֹאוּ אֵלָיו כָּל־אֶחָיו וְכָל־*אחיתיו **אַחְיוֹתָיו וְכָל־יֹדְעָיו
+        לְפָנִים וַיֹּאכְלוּ עִמּוֹ לֶחֶם בְּבֵיתוֹ וַיָּנֻדוּ לוֹ וַיְנַחֲמוּ
+        אֹתוֹ עַל כָּל־הָרָעָה אֲשֶׁר־הֵבִיא יְהוָה עָלָיו וַיִּתְּנוּ־לוֹ אִישׁ
+        קְשִׂיטָה אֶחָת וְאִישׁ נֶזֶם זָהָב אֶחָד׃ ס ‬
+      romana: Si toti fratii si toate surorile si toti prietenii lui de alta data au
+        venit sa-l cerceteze, au mancat paine in casa lui, l-au compatimit, l-au
+        mangaiat de toate nenorocirile pe care le slobozise Domnul asupra lui si
+        fiecare i-a dat cate un chesita si cate un inel de aur.
+      francais: Les frères, les soeurs, et les anciens amis de Job vinrent tous le
+        visiter, et ils mangèrent avec lui dans sa maison. Ils le plaignirent et
+        le consolèrent de tous les malheurs que l'Éternel avait fait venir sur
+        lui, et chacun lui donna un kesita et un anneau d'or.
+      italian: Tutti i suoi fratelli, le sue sorelle e i suoi conoscenti di prima
+        vennero a trovarlo e mangiarono pane in casa sua e lo commiserarono e lo
+        consolarono di tutto il male che il Signore aveva mandato su di lui e
+        gli regalarono ognuno una piastra e un anello d'oro.
+      old_georgian: ხოლო ესმა ყოველთა ძმათა მისთა ყოველი, რაჲ-იგი შეემთხჳა მას. და
+        ყოველი, რომელთა იცოდეს იგი პირველითგან, ჭამდეს და სუმიდეს მის წინაშე და
+        ნუგეშინის-სცეს მას და უკჳრდა მათ ყოვლისა მისთჳს, რომელი-იგი მოაწია
+        უფალმან მის ზედა და მოსცა მას კაცად-კაცადმან თჳთო ტარიგი. და ოთხსატირი
+        ოქროსაჲ, ოქროსა უქმნელი თითოჲ.
+      portuguese: "Então vieram ter com ele todos os seus irmãos, e todas as suas
+        irmãs, e todos quantos dantes o conheceram, e\rcomeram com ele pão em
+        sua casa; condoeram-se dele, e o consolaram de todo o mal que o Senhor
+        lhe havia\renviado; e cada um deles lhe deu uma peça de dinheiro e um
+        pendente de ouro."
+      polish: "Przyszli do niego wszyscy bracia, siostry i dawni znajomi, jedli z nim
+        chleb\rw jego domu i ubolewali nad nim, i pocieszali go z powodu
+        nieszczęścia, jakie na niego zesłał Pan. Każdy mu dał jeden srebrny
+        pieniądz i jedną złotą\robrączkę."
+      turkish: Bütün erkek ve kız kardeşleri, eski tanıdıklarının hepsi Eyüp'ün yanına
+        gelip evinde onunla birlikte yemek yediler. Acısını paylaşıp RAB'bin
+        başına getirmiş olduğu felaketlerden ötürü onu avuttular. Her biri ona
+        bir parça gümüş, bir de altın halka verdi.
+      nrt: Все его братья и сестры и все, кто знал его прежде, пришли и ели с ним у
+        него в доме. Они жалели и утешали его за все испытания, которые послал
+        ему Господь. Каждый из них дал ему по серебрянику и по золотому кольцу.
+      Macarius: И пришли к нему все братья его, и все сестры его, и все прежние
+        знакомые его, и ели с ним хлеб в доме его, и изъявляли ему
+        соболезнование, и утешали его после всех страданий, какие Иегова навел
+        на него; и дали ему каждый по одной кесите, и каждый по одному кольцу
+        золотому.
+      serbian: И дођоше к њему сва браћа његова и све сестре његове и сви пређашњи
+        знанци његови, и једоше с њим у његовој кући, и жалећи га тјешише га за
+        све зло што бјеше Господ пустио на њ; дадоше му сваки по новац и по
+        гривну златну.
+      bulgarian: Тогава дойдоха при него всичките му братя и всичките му сестри и
+        всичките му напрежни познайници, та ядоха с него хляб в къщата му и
+        тъжиха с него, и утешаваха го за всичкото зло, що Господ му бе напратил,
+        и дадоха му всякой по кесита и по златен пръстен.
+      deutsch: Und es kamen zu ihm alle seine Brüder und alle seine Schwestern und
+        alle, die ihn vormals kannten, und aßen mit ihm in seinem Hause und
+        kehrten sich zu ihm und trösteten ihn über alles Übel, das der Herr
+        hatte über ihn kommen lassen. Und ein jeglicher gab ihm einen schönen
+        Groschen und ein goldenes Stirnband.
+      ukr2: Тоді прийшли до нього усі його брати, усі його сестри й усі його давні
+        знайомі, і їли хліб з ним у його хаті, розважаючи його та втішаючи його
+        в усьому тому нещасті, що на нього зіслав був Господь; кожен подарував
+        йому дуката, кожен золоту каблучку.
+      ukr3: Тодї поприходили до його всї брати його й усї сестри його й всї давні
+        знаємі його, й їли хлїб із ним у його в домівцї; виявлювали йому свої
+        жалощі й розважали його про все нещастє, яке допустив був на його
+        Господь. І подарував йому кожен зміж їх кеситу й золоту каблучку.
+      bel_syomukha: Тады прыйшлі да яго ўсе браты ягоныя і ўсе сёстры ягоныя і ўсе
+        ранейшыя знаёмыя ягоныя, і елі зь ім хлеб у доме ягоным, і смуткавалі зь
+        ім, і суцяшалі яго за ўсё ліха, якое Гасподзь навёў на яго і далі яму
+        кожны па кесіце і па залатым пярсьцёнку.
+      lev-khv: И пришли к нему все братья его, и все сестры его, и все прежние
+        знакомые его, и ели с ним хлеб в доме его, и сетовали с ним, и утешали
+        его за все бедствия, какия навел Господь на него, и дали ему каждый по
+        одной кесите и каждый по одному кольцу золотому.
+      czech: I prisli k nemu vsichni jeho bratri a vsechny sestry a vsichni jeho
+        drivejsi znami, aby s nim v jeho dome pojedli chleb. Projevovali mu
+        soustrast a snazili se ho potesit po vsem tom zlu, jez na nej Hospodin
+        uvedl, a kazdy mu daroval po kesite a zlatem krouzku.
+      spanish: Vinieron a él todos sus hermanos y hermanas y todos sus conocidos de
+        antaño, y comieron con él en su casa, se condolieron y le consolaron por
+        todo el mal que sobre él hiciera venir Yavé, y le regalaron cada uno una
+        moneda y un anillo de oro.
+      greek-lxx: ἤκουσαν δὲ πάντες οἱ ἀδελφοὶ αὐτοῦ καὶ αἱ ἀδελφαὶ αὐτοῦ πάντα τὰ
+        συμβεβηκότα αὐτῷ καὶ ἦλθον πρὸς αὐτὸν καὶ πάντες ὅσοι ᾔδεισαν αὐτὸν ἐκ
+        πρώτου φαγόντες δὲ καὶ πιόντες παρ᾿ αὐτῷ παρεκάλεσαν αὐτόν καὶ ἐθαύμασαν
+        ἐπὶ πᾶσιν οἷς ἐπήγαγεν αὐτῷ ὁ Κύριος ἔδωκεν δὲ αὐτῷ ἕκαστος ἀμνάδα μίαν
+        καὶ τετράδραχμον χρυσοῦν ἄσημον
+      st_text: Тогда пришли к нему все братья его и все сестры его и все прежние
+        знакомые его, и ели с ним хлеб в доме его, и тужили с ним, и утешали его
+        за все зло, которое Господь навел на него, и дали ему каждый по кесите и
+        по золотому кольцу.
+  - id: 19815
+    number: 12
+    bookId: 21
+    text: "И благословил Бог последние дни Иова более, нежели прежние: у него было
+      четырнадцать тысяч мелкого скота, шесть тысяч верблюдов, тысяча пар волов
+      и тысяча ослиц."
+    chapter: 42
+    chapterId: 518
+    parallels:
+      - verseId: 18888
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 1
+        short: Иов:1:3
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Господь же благослови последняя иовля, неже прежняя: бяху же скоти его,
+        овец четыренадесять тысящ, вельблюдов шесть тысящ, супруг волов тысяща,
+        ослиц стадных тысяща."
+      averincev: "Господь же благословил конец Иова больше, чем его начало: и стало у
+        него четырнадцать тысяч овец, и шесть тысяч верблюдом, и тысяча пар
+        волов подъяремных, и тысяча ослиц."
+      ungerov: "И благословил Господь последние (дни) Иова более, нежели прежние: и
+        было скота у него, овец четырнадцать тысяч, верблюдов шесть тысяч, волов
+        тысяча пар, ослиц в стаде тысяча."
+      csya_old: "ГDь же блгcви2 послBднzz јwвлz, не1же прє1жнzz: бsху же ско1ти є3гw2,
+        nве1цъ четыренaдесzть ты1сzщъ, вельблю1дwвъ ше1сть ты1сzщъ, супр{гъ
+        волHвъ ты1сzща, nсли1цъ стaдныхъ ты1сzща."
+      sovr_rbo: Господь благословил оставшиеся годы жизни Иова больше, чем прежние.
+        Теперь у него было четырнадцать тысяч коз и овец, шесть тысяч верблюдов,
+        тысяча пар волов и тысяча ослиц.
+      latin: "Dominus autem benedixit novissimis Job magis quam principio ejus: et
+        facta sunt ei quatuordecim millia ovium, et sex millia camelorum, et
+        mille juga boum, et mille asinae."
+      ukr: А Господь поблагословив останок днів Йова більше від початку його, і було в
+        нього чотирнадцять тисяч дрібної худоби, і шість тисяч верблюдів, тисяча
+        пар худоби великої та тисяча ослиць.
+      nkjv: Now the Lord blessed the latter days of Job more than his beginning; for
+        he had fourteen thousand sheep, six thousand camels, one thousand yoke
+        of oxen, and one thousand female donkeys.
+      desnitsky: ГОСПОДЬ благословил оставшиеся годы жизни Иова больше, чем прежние.
+        Теперь у него было четырнадцать тысяч коз и овец, шесть тысяч верблюдов,
+        тысяча пар волов и тысяча ослиц.
+      mt: ‫   וַיהוָה בֵּרַךְ אֶת־אַחֲרִית אִיּוֹב מֵרֵאשִׁתוֹ וַיְהִי־לוֹ אַרְבָּעָה
+        עָשָׂר אֶלֶף צֹאן וְשֵׁשֶׁת אֲלָפִים גְּמַלִּים וְאֶלֶף־צֶמֶד בָּקָר
+        וְאֶלֶף אֲתוֹנוֹת׃ ‬
+      romana: Si Dumnezeu a binecuvantat sfarsitul vietii lui Iov mai bogat decat
+        inceputul ei, si el a strans paisprezece mii de oi, sase mii de camile,
+        o mie de perechi de boi si o mie de asine.
+      francais: Pendant ses dernières années, Job reçut de l'Éternel plus de
+        bénédictions qu'il n'en avait reçu dans les premières. Il posséda
+        quatorze mille brebis, six mille chameaux, mille paires de boeufs, et
+        mille ânesses.
+      italian: Il Signore benedisse la nuova condizione di Giobbe più della prima ed
+        egli possedette quattordicimila pecore e seimila cammelli, mille paia di
+        buoi e mille asine.
+      old_georgian: ხოლო აკურთხა უფალმან უკუანაჲსკნელი იობისი უფროს, ვიდრე პირველი და
+        იყო საცხოვარი მისი ცხოვარი ბევრი და ოთხ ათას, და აქლემები ექუს ათას,
+        უღლეული ჴართა ათას, ვირი მძოვარი ჴდალი ათას.
+      portuguese: "E assim abençoou o Senhor o último estado de Jó, mais do que o
+        primeiro; pois Jó chegou a ter catorze mil\rovelhas, seis mil camelos,
+        mil juntas de bois e mil jumentas."
+      polish: "A teraz Pan błogosławił Hiobowi, tak że miał czternaście tysięcy owiec,
+        sześć\rtysięcy wielbłądów, tysiąc jarzm wołów i tysiąc oślic."
+      turkish: RAB Eyüp'ün sonunu başından bereketli kıldı. On dört bin koyuna, altı
+        bin deveye, bin çift öküze, bin eşeğe sahip oldu.
+      nrt: Господь благословил последующие дни Иова больше, нежели прежние. У него
+        теперь было тринадцать тысяч овец, шесть тысяч верблюдов, тысяча пар
+        волов и тысяча ослиц.
+      Macarius: И благословил Иегова последнее Иова более, нежели первое; и было у
+        него четырнадцать тысяч мелкого скота, и шесть тысяч верблюдов, и тысяча
+        пар волов, и тысяча ослиц.
+      serbian: И Господ благослови пошљедак Јовов више него почетак, те имаше
+        четрнаест тисућа оваца и шест тисућа камила и тисућу јармова волова и
+        тисућу магарица.
+      bulgarian: "И благослови Бог последните дни на Иова повече от напрежните: той
+        имаше четиринайсет хиляди дребен добитък, шест хиляди камили, хиляда
+        рала волове и хиляда ослици."
+      deutsch: Und der Herr segnete hernach Hiob mehr denn zuvor, daß er kriegte
+        vierzehntausend Schafe und sechstausend Kamele und tausend Joch Rinder
+        und tausend Eselinnen.
+      ukr2: І благословив Господь нове становище Іова більш, ніж старе, і було у нього
+        14 000 овець, 6000 верблюдів, 1000 пар волів і 1000 ослиць.
+      ukr3: І благословив Бог дальше життє Йовове більш нїж давнїйше; і було в його
+        чотирнайцять тисячей овець, шість тисячей верблюдів, тисяча ярем волів і
+        тисяча ослиць.
+      bel_syomukha: "І дабраславіў Бог апошнія дні Ёва болей, чым ранейшыя: у яго было
+        чатырнаццаць тысяч дробнага быдла, шэсьць тысяч вярблюдаў, тысяча пар
+        валоў і тысяча асьліц."
+      lev-khv: "И Господь благословил последние дни Иова более, чем первые: и было у
+        него четырнадцать тысяч мелкаго скота, и шесть тысяч верблюдов, и тысяча
+        пар волов, и тысяча ослиц."
+      czech: A Hospodin Jobovi zehnal ke konci vice nez na zacatku, takze mel ctrnact
+        tisic ovci a koz, sest tisic velbloudu, tisic sprezeni skotu a tisic
+        oslic.
+      spanish: Yavé bendijo las postrimerías de Job más que sus principios, y llegó a
+        poseer Job catorce mil ovejas, seis mil camellos, mil yuntas de bueyes y
+        mil asnas.
+      greek-lxx: ὁ δὲ Κύριος εὐλόγησεν τὰ ἔσχατα Ιωβ ἢ τὰ ἔμπροσθεν ἦν δὲ τὰ κτήνη
+        αὐτοῦ πρόβατα μύρια τετρακισχίλια κάμηλοι ἑξακισχίλιαι ζεύγη βοῶν χίλια
+        ὄνοι θήλειαι νομάδες χίλιαι
+      st_text: "И благословил Бог последние дни Иова более, нежели прежние: у него
+        было четырнадцать тысяч мелкого скота, шесть тысяч верблюдов, тысяча пар
+        волов и тысяча ослиц."
+  - id: 19816
+    number: 13
+    bookId: 21
+    text: И было у него семь сыновей и три дочери.
+    chapter: 42
+    chapterId: 518
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Родишажеся ему сынове седмь и дщери три:"
+      averincev: "И стало у него семь сыновей и три дочери:"
+      ungerov: И родились у него семь сыновей и три дочери.
+      csya_old: "Роди1шажесz є3мY сы1нове се1дмь и3 дщє1ри три2:"
+      sovr_rbo: "Родилось у него семь сыновей и три дочери:"
+      latin: Et fuerunt ei septem filii, et tres filiae.
+      ukr: І було в нього семеро синів та три дочки.
+      nkjv: He also had seven sons and three daughters.
+      desnitsky: "Родилось у него семь сыновей и три дочери:"
+      mt: ‫   וַיְהִי־לוֹ שִׁבְעָנָה בָנִים וְשָׁלוֹשׁ בָּנוֹת׃ ‬
+      romana: Si a avut sapte fii si trei fiice.
+      francais: "Il eut sept fils et trois filles:"
+      italian: Ebbe anche sette figli e tre figlie.
+      old_georgian: და ესხნეს მას შჳდ ძე და სამ ასულ.
+      portuguese: Também teve sete filhos e três filhas.
+      polish: Miał jeszcze siedmiu synów i trzy córki.
+      turkish: Yedi oğlu, üç kızı oldu.
+      nrt: Еще у него было семеро сыновей и три дочери.
+      Macarius: И было у него семь сынов и три дочери.
+      serbian: И имаше седам синова и три кћери.
+      bulgarian: Имаше и седем сина и три дъщери.
+      deutsch: Und er kriegte sieben Söhne und drei Töchter;
+      ukr2: І народилось у нього семеро синів і три дочки.
+      ukr3: І родилось йому сїм синів і три дочки.
+      bel_syomukha: І было ў яго сем сыноў і тры дачкі.
+      lev-khv: И было у него семь сыновей и три дочери.
+      czech: Mel take sedm synu a tri dcery.
+      spanish: Tuvo catorce hijos y tres hijas;
+      greek-lxx: γεννῶνται δὲ αὐτῷ υἱοὶ ἑπτὰ καὶ θυγατέρες τρεῖς
+      st_text: И было у него семь сыновей и три дочери.
+  - id: 19817
+    number: 14
+    bookId: 21
+    text: И нарек он имя первой Емима, имя второй - Кассия, а имя третьей -
+      Керенгаппух.
+    chapter: 42
+    chapterId: 518
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и нарече первую убо день, вторую же кассию, третию же амалфеев рог:"
+      averincev: и назвал он одну - Горлица, вторую - Корица, а третью - Румяна;
+      ungerov: "И назвал он первую: День, вторую: Кассия, а третью: Амалфеев рог."
+      csya_old: "и3 нарече2 пе1рвую ќбw де1нь, вторyю же кассjю, тре1тію же ґмалfе1евъ
+        ро1гъ:"
+      sovr_rbo: одну он назвал Голубка, другую — Цветок Корицы, а третью — Сияние Ресниц.
+      latin: Et vocavit nomen unius Diem, et nomen secundae Cassiam, et nomen tertiae
+        Cornustibii.
+      ukr: "І назвав він ім'я першій: Єміма, і ім'я другій: Кеція, а ім'я третій:
+        Керен-Гаппух."
+      nkjv: And he called the name of the first Jemimah, the name of the second
+        Keziah, and the name of the third Keren-Happuch.
+      desnitsky: одну он назвал Голубка, другую – Цветок Корицы, а третью –Сияние Ресниц.
+      mt: ‫   וַיִּקְרָא שֵׁם־הָאַחַת יְמִימָה וְשֵׁם הַשֵּׁנִית קְצִיעָה וְשֵׁם
+        הַשְּׁלִישִׁית קֶרֶן הַפּוּךְ׃ ‬
+      romana: Celei dintai i-a pus numele Iemima, celei de a doua, Chetia si celei de
+        a treia, Cheren-Hapuc.
+      francais: il donna à la première le nom de Jemima, à la seconde celui de Ketsia,
+        et à la troisième celui de Kéren Happuc.
+      italian: A una mise nome Colomba, alla seconda Cassia e alla terza Fiala di
+        stibio.
+      old_georgian: და უწოდა სახელი პირველსა მას დღე და მეორესა კასია და მესამესა მას
+        მხიარულებისა რქაჲ.
+      portuguese: E chamou o nome da primeira Jemima, e o nome da segunda Quezia, e o
+        nome da terceira Quéren-Hapuque.
+      polish: Pierwszą nazwał Gołębicą, drugą Kasją, a trzecią Rogiem Antymonu.
+      turkish: İlk kızının adını Yemima, ikincisinin Kesia, üçüncüsünün Keren-Happuk
+        koydu.
+      nrt: Первую он назвал Иемима, вторую Кеция, а третью Керенгаппух.
+      Macarius: И дал он имя первой — Емима, второй же имя — Кассия, а третьей имя —
+        Керен-гаппух.
+      serbian: И првој надје име Јемима, а другој Кесија, а трећој Керенапуха.
+      bulgarian: И нарече първата Емима, втората - Касия, а третата - Керенхапух.
+      deutsch: und hieß die erste Jemima, die andere Kezia und die dritte Keren-Happuch.
+      ukr2: Одну назвав він Голубка, другу Пахуча квітка, а третю Рожок на помаду.
+      ukr3: Одну назвав він Емима (сьвітла), другу Кассія (пахуща), третю Керен-гаппух
+        (краска).
+      bel_syomukha: І даў ён першай імя Эміма, імя другой - Касія, а імя трэцяй - Керэнгапух.
+      lev-khv: "И нарек он имя одной: Емима, имя второй: Кециа, и имя третьей:
+        Керенгаппух."
+      czech: Jednu nazval Jemima, druhou Kesia a treti Keren-ha-puk.
+      spanish: a la primera le puso por nombre Yeminá (Palomita); a la segunda,
+        Quesiah (Casia), y a la tercera, Queren-Happuj (Cuerno de afeites).
+      greek-lxx: καὶ ἐκάλεσεν τὴν μὲν πρώτην Ἡμέραν τὴν δὲ δευτέραν Κασίαν τὴν δὲ
+        τρίτην Ἀμαλθείας κέρας
+      st_text: И нарек он имя первой Емима, имя второй - Кассия, а имя третьей -
+        Керенгаппух.
+  - id: 19818
+    number: 15
+    bookId: 21
+    text: И не было на всей земле таких прекрасных женщин, как дочери Иова, и дал им
+      отец их наследство между братьями их.
+    chapter: 42
+    chapterId: 518
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и не обретошася подобны в лепоте дщерем иовлевым в поднебесней: даде же
+        им отец наследие в братии их."
+      averincev: и по всей земле нигде нельзя было найти женщин, которые были бы так
+        хороши, как дочери Иова. И дал им отец наследство наряду с братьями их.
+      ungerov: И не находились в поднебесной по красоте подобныя дочерям Иова. И дал
+        им отец наследство среди братьев их.
+      csya_old: "и3 не њбрэто1шасz подHбны въ лёпотэ дще1ремъ јwвлєвымъ въ
+        поднебе1снэй: даде1 же и5мъ nте1цъ наслёдіе въ брaтіи и4хъ."
+      sovr_rbo: По всей земле не сыскать было таких красавиц, как дочери Иова. Отец
+        дал им наследство наравне с братьями.
+      latin: "Non sunt autem inventae mulieres speciosae sicut filiae Job in universa
+        terra: deditque eis pater suus haereditatem inter fratres earum."
+      ukr: І таких вродливих жінок, як Йовові дочки, не знайшлося по всій землі. І дав
+        їм їх батько спадщину поміж їхніми братами.
+      nkjv: In all the land were found no women so beautiful as the daughters of Job;
+        and their father gave them an inheritance among their brothers.
+      desnitsky: По всей земле не сыскать было таких красавиц, как дочери Иова. Отец
+        дал им наследство наравне с братьями.
+      mt: ‫   וְלֹא נִמְצָא נָשִׁים יָפוֹת כִּבְנוֹת אִיּוֹב בְּכָל־הָאָרֶץ וַיִּתֵּן
+        לָהֶם אֲבִיהֶם נַחֲלָה בְּתוֹךְ אֲחֵיהֶם׃ ס ‬
+      romana: Iar in toata tara nu se gaseau femei atat de frumoase ca fetele lui Iov,
+        si tatal lor le-a facut partase la mostenire, langa fratii lor.
+      francais: Il n'y avait pas dans tout le pays d'aussi belles femmes que les
+        filles de Job. Leur père leur accorda une part d'héritage parmi leurs
+        frères.
+      italian: In tutta la terra non si trovarono donne così belle come le figlie di
+        Giobbe e il loro padre le mise a parte dell'eredità insieme con i loro
+        fratelli.
+      old_georgian: და არა იპოვნეს ასულთაებრ იობისთა და ძეთა უმჯობესნი ცასა ქუეშე და
+        მისცა იობ ასულთა თჳსთა სამკჳდრებელი ძმათა მათ თანა.
+      portuguese: "E em toda a terra não se acharam mulheres tão formosas como as
+        filhas de Jó; e seu pai lhes deu herança entre\rseus irmãos."
+      polish: "Nie było w całym kraju kobiet tak pięknych jak córki Hioba. Dał im
+        też\rojciec dziedzictwo między braćmi."
+      turkish: Ülkenin hiçbir yerinde Eyüp'ün kızları kadar güzel kızlar yoktu.
+        Babaları, kardeşlerinin yanısıra onlara da miras verdi.
+      nrt: Нигде на земле не было женщин столь прекрасных, как дочери Иова. Их отец
+        дал им наследство наравне с братьями.
+      Macarius: И на всей земле не находилось таких прекрасных женщин, как дочери
+        Иова; и дал им отец их наследие между братьями их.
+      serbian: И не нахођаше се у свој земљи тако лијепијех дјевојака као кћери
+        Јовове, и отац им даде нашљедство међу браћом њиховом.
+      bulgarian: И нямаше по цялата земя такива хубави жени, както Иововите дъщери, и
+        баща им даде тям наследство между братята им.
+      deutsch: Und wurden nicht so schöne Weiber gefunden in allen Landen wie die
+        Töchter Hiobs.
+      ukr2: Не було у всій країні таких вродливих жінок, як Іовові дочки. І дав їм
+        батько спадщину між їхніми братами.
+      ukr3: І не було по всїй країнї таких уродливих женщин, як Йовові дочки. І дав їм
+        панотець їх наслїддє проміж їх братами.
+      bel_syomukha: І ня было на цэлай зямлі такіх прыгожых жанчын, як Ёвавы дочкі, і
+        даў ім бацька іхні спадчыну паміж братамі іхнімі.
+      lev-khv: И не находилось женщин столь прекрасных, как дочери Иова, на всей
+        земле. И дал им отец их наследство среди братьев их.
+      czech: Po cele zemi se nenasly tak krasne zeny, jako byly dcery Jobovy. Otec jim
+        dal dedictvi jako jejich bratrum.
+      spanish: No había en toda aquella tierra mujeres más hermosas que las hijas de
+        Job, y su padre les dio herencia entre sus hermanos.
+      greek-lxx: καὶ οὐχ εὑρέθησαν κατὰ τὰς θυγατέρας Ιωβ βελτίους αὐτῶν ἐν τῇ ὑπ᾿
+        οὐρανόν ἔδωκεν δὲ αὐταῖς ὁ πατὴρ κληρονομίαν ἐν τοῖς ἀδελφοῖς
+      st_text: И не было на всей земле таких прекрасных женщин, как дочери Иова, и дал
+        им отец их наследство между братьями их.
+  - id: 19819
+    number: 16
+    bookId: 21
+    text: После того Иов жил сто сорок лет, и видел сыновей своих и сыновей сыновних
+      до четвертого рода;
+    chapter: 42
+    chapterId: 518
+    parallels:
+      - verseId: 30007
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 3
+        short: Притч:3:16
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Поживе же иов по язве лет сто седмьдесят, всех же лет поживе двести
+        четыредесять осмь. И виде иов сыны своя и сыны сынов своих, даже до
+        четвертаго рода.
+      averincev: После этого Иов жил еще сто сорок лет и видел своих детей и детей
+        своих детей, вплоть до четвертого поколения.
+      ungerov: И прожил Иов после болезни сто семьдесят лет, всех же лет он прожил
+        двести сорок восемь. И видел Иов сынов своих и сынов их сынов, даже до
+        четвертаго рода.
+      csya_old: Поживе1 же јwвъ по ћзвэ лётъ сто2 се1дмьдесzтъ, всёхъ же лётъ поживе2
+        двёсти четы1редесzть џсмь. И# ви1дэ јwвъ сы1ны сво‰ и3 сы1ны сынHвъ
+        свои1хъ, дaже до четве1ртагw ро1да.
+      sovr_rbo: После этого Иов прожил еще сто сорок лет, увидев своих детей и их
+        детей — до четвертого поколения.
+      latin: "Vixit autem Job post haec centum quadraginta annis, et vidit filios
+        suos, et filios filiorum suorum usque ad quartam generationem: et
+        mortuus est senex et plenus dierum."
+      ukr: А Йов жив по тому сотню й сорок років, і побачив синів своїх та синів синів
+        своїх, чотири поколінні.
+      nkjv: After this Job lived one hundred and forty years, and saw his children and
+        grandchildren for four generations.
+      desnitsky: После этого Иов прожил еще сто сорок лет, увидев своих детей и их
+        детей – до четвертого поколения.
+      mt: ‫   וַיְחִי אִיּוֹב אַחֲרֵי־זֹאת מֵאָה וְאַרְבָּעִים שָׁנָה *וירא
+        **וַיִּרְאֶה אֶת־בָּנָיו וְאֶת־בְּנֵי בָנָיו אַרְבָּעָה דֹּרוֹת׃ ‬
+      romana: Si Iov a mai trait dupa aceea o suta patruzeci de ani si a vazut pe fiii
+        sai si pe fiii fiilor sai, pana la al patrulea neam.
+      francais: Job vécut après cela cent quarante ans, et il vit ses fils et les fils
+        de ses fils jusqu'à la quatrième génération.
+      italian: Dopo tutto questo, Giobbe visse ancora centoquarant'anni e vide figli e
+        nipoti di quattro generazioni.
+      old_georgian: და ცხონდა შემდგომად წყლულებისა ასსამეოცდაათ წელ, ხოლო ყოველნი,
+        რავდენ ცხონდა, იყუნეს ორასორმეოცდარვა წელ. და იხილა იობ ძენი თჳსნი და
+        ძენი ძეთა მისთანი, მეოთხე ნათესავი და აღესრულა იობ მოხუცებული და სავსე
+        დღითა (დაწერილ არს იგი კუალად აღდგინებად მათ თანა, რომელნი-იგი უფალმან
+        აღადგინნეს. ესე ითარგმანა ასურეთისაგან წიგნისა. ხოლო მკჳდრ იყო იგი
+        ქუეყანასა ავსიტელთასა, საზვართა იდუმიასათა და არაბიასათა, პირველად იყო
+        სახელი მისი იობაბ. და მოიყვანა ცოლი არაბიელი. და ესვა ძე, რომლისა სახელი
+        ენონ, ხოლო იყო ესე მამისა ზარესი, ესავის ძეთა ძე და დედით ბოსორელი.
+        ვითარმედ იყო ესე აბრაჰამისითგან მეოთხე ნათესავი).
+      portuguese: "Depois disto viveu Jó cento e quarenta anos, e viu seus filhos, e
+        os filhos de seus filhos: até a quarta geração."
+      polish: "I żył jeszcze Hiob sto czterdzieści lat, i widział swych potomków - w
+        całości\rcztery pokolenia."
+      turkish: Bundan sonra Eyüp yüz kırk yıl daha yaşadı, oğullarını, dört göbek
+        torunlarını gördü.
+      nrt: После этого Иов прожил еще сто сорок лет. Он видел своих детей и детей
+        своих детей до четвертого поколения.
+      Macarius: И жил Иов после сего сто сорок лет, и видел сынов своих, и сыновних
+        сынов, четыре рода.
+      serbian: И послије поживје Јов сто и четрдесет година, и видје синове и унуке до
+        четвртога кољена.
+      bulgarian: После това Иов живя сто и четирийсет години, и видя синове и внуци до
+        четвърто коляно.
+      deutsch: Und Hiob lebte nach diesem hundert und vierzig Jahre, daß er sah Kinder
+        und Kindeskinder bis ins vierte Glied.
+      ukr2: Жив Іов після цього ще 140 років і бачив своїх дітей і дітей своїх дітей
+        аж до четвертого покоління.
+      ukr3: І жив Йов ще сто й сорок років, і бачив чотирі роди своїх дїтей й дїти
+        дїтей своїх.
+      bel_syomukha: Пасьля таго Ёў жыў сто сорак гадоў, і бачыў сыноў сваіх і сыноў
+        сыноўніх да чацьвёртага роду.
+      lev-khv: И жил Иов после этого сто сорок лет, и видел детей своих и внуков своих
+        до четвертаго поколения.
+      czech: Job potom zil jeste sto ctyricet let a videl sve syny i syny svych synu
+        do ctvrteho pokoleni.
+      spanish: Vivió Job después de esto ciento cuarenta años, y vio a sus hijos y a
+        los hijos de sus hijos hasta la cuarta generación,
+      greek-lxx: ἔζησεν δὲ Ιωβ μετὰ τὴν πληγὴν ἔτη ἑκατὸν ἑβδομήκοντα τὰ δὲ πάντα
+        ἔζησεν ἔτη διακόσια τεσσαράκοντα ὀκτώ καὶ εἶδεν Ιωβ τοὺς υἱοὺς αὐτοῦ καὶ
+        τοὺς υἱοὺς τῶν υἱῶν αὐτοῦ τετάρτην γενεάν
+      st_text: После того Иов жил сто сорок лет, и видел сыновей своих и сыновей
+        сыновних до четвертого рода;
+  - id: 19820
+    number: 17
+    bookId: 21
+    text: "и умер Иов в старости, насыщенный днями. <i>//В Славянской Библии к книге
+      Иова имеется следующее добавление:</i> «Написано, что он опять восстанет с
+      теми, коих воскресит Господь. О нем толкуется в Сирской книге, что жил он
+      в земле Авситидийской на пределах Идумеи и Аравии: прежде же было имя ему
+      Иовав. Взяв жену Аравитянку, родил сына, которому имя Еннон. Происходил он
+      от отца Зарефа, сынов Исавовых сын, матери же Воссоры, так что был он
+      пятым от Авраама. И сии цари, царствовавшие в Едоме, какою страною и он
+      обладал: первый Валак, сын Веора, и имя городу его Деннава; после же
+      Валака Иовав, называемый Иовом; после сего Ассом, игемон из Феманитской
+      страны; после него Адад, сын Варада, поразивший Мадиама на поле Моава,- и
+      имя городу его Гефем. Пришедшие же к нему друзья, Елифаз (сын Софана) от
+      сынов Исавовых, царь Феманский, Валдад (сын Амнона Ховарского) савхейский
+      властитель, Софар Минейский царь. (Феман сын Елифаза, игемон Идумеи. О нем
+      говорится в книге Сирской, что жил в земле Авситидийской, около берегов
+      Евфрата; прежде имя его было Иовав, отец же его был Зареф, от востока
+      солнца.)»"
+    chapter: 42
+    chapterId: 518
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И скончася иов стар и исполнь дний. Писано же есть паки востати ему, с
+        нимиже Господь возставит и. Тако толкуется от сирския книги: в земли убо
+        живый авситидийстей, на пределех идумеи и аравии: прежде же бяше имя ему
+        иовав: взем же жену аравляныню, роди сына, емуже имя еннон: бе же той
+        отца убо зарефа, исавовых сынов сын, матере же восорры, якоже быти ему
+        пятому от авраама. И сии царие царствовавшии во едоме, еюже и той
+        обладаше страною: первый валак сын веоров, и имя граду его деннава: по
+        валаце же иовав, нарицаемый иов: по сем ассом бывший вождь от
+        феманитидийския страны: по сем адад, сын варадов, иже изсече мадиама на
+        поли моавли, и имя граду его гефем. Пришедшии же к нему друзие, елифаз
+        (сын софань) от сынов исавовых, царь феманийский, валдад (сын амнона
+        ховарскаго) савхейский властитель, софар минейский царь."
+      averincev: И умер Иов в старости, насытясь жизнью.
+      ungerov: "И скончался Иов старцем, в полноте дней. Написано, что он снова
+        возстанет с теми, с кем Господь возстановит его. Так изъясняется в
+        сирской книге. Он жил в земле Авситидийской, на границах Идумеи и
+        Аравии, прежде имя было ему Иовав. Он взял жену Аравитянку и родил сына,
+        по имени Еннон. Он имел отцем Зарефа, сына сынов Исава, а мать Восору,
+        так что он был (в) пятом (роде) от Авраама. И сии цари, царствовавшие в
+        Едоме, каковою страною и он обладал: первый Валак, сын Веоров, и имя
+        города его Деннава, а после Валака Иовав, называемый Иовом. А после него
+        Ассом, бывший вождем страны Феманской; после него Арад, сын Варада,
+        изсекший Мадианитян на поле Моавитском, и имя городу его Гефем.
+        Пришедшие же к нему друзья: Елифаз (сын Софана), из сынов Исава, царь
+        Феманский, Валдад (сын Амнона Ховарскаго), Савхейский правитель, Софар,
+        Минейский царь."
+      csya_old: "И# скончaсz јwвъ стaръ и3 и3спо1лнь днjй. Пи1сано же є4сть пaки
+        востaти є3мY, съ ни1миже гDь возстaвитъ и5. Тaкw толкyетсz t сv1рскіz
+        кни1ги: въ земли2 ќбw живы1й ґvсітідjйстэй, на предёлэхъ їдуме1и и3
+        ґравjи: пре1жде же бsше и4мz є3мY їwвaвъ: взе1мъ же женY ґрaвлzныню,
+        роди2 сы1на, є3мyже и4мz є3ннHнъ: бё же то1й nтцA ќбw заре1fа,
+        и3сavовыхъ сынHвъ сы1нъ, мaтере же восо1рры, ћкоже бы1ти є3мY пsтому t
+        ґвраaма. И# сjи цaріе цaрствовавшіи во є3дHмэ, є4юже и3 то1й њбладaше
+        страно1ю: пе1рвый валaкъ сы1нъ веHровъ, и3 и4мz грaду є3гw2 деннавA: по
+        валaцэ же їwвaвъ, нарицaемый јwвъ: по се1мъ ґсHмъ бы1вшій во1ждь t
+        fеманітідjйскіz страны2: по се1мъ ґдaдъ, сы1нъ варaдовъ, и4же и3зсэче2
+        мадіaма на по1ли мwaвли, и3 и4мz грaду є3гw2 геfе1мъ. Прише1дшіи же къ
+        немY дрyзіе, є3ліфaзъ (сы1нъ сwфaнь) t сынHвъ и3сavовыхъ, цaрь
+        fеманjйскій, валдaдъ (сы1нъ ґмнHна ховaрскагw) саvхе1йскій власти1тель,
+        сwфaръ міне1йскій цaрь."
+      sovr_rbo: И умер Иов старцем, насытившись жизнью.
+      latin: "Vixit autem Job post haec centum quadraginta annis, et vidit filios
+        suos, et filios filiorum suorum usque ad quartam generationem: et
+        mortuus est senex et plenus dierum."
+      ukr: І впокоївся Йов старим та насиченим днями.
+      nkjv: So Job died, old and full of days.
+      desnitsky: И умер Иов старцем, насытившись жизнью.
+      mt: ‫   וַיָּמָת אִיּוֹב זָקֵן וּשְׂבַע יָמִים׃ ‬
+      romana: Si Iov a murit batran si incarcat de zile.
+      francais: Et Job mourut âgé et rassasié de jours.
+      italian: Poi Giobbe morì, vecchio e sazio di giorni.
+      portuguese: Então morreu Jó, velho e cheio de dias.
+      polish: Umarł Hiob stary i pełen lat.
+      turkish: Kocayıp yaşama doyarak öldü.
+      nrt: И умер он в старости, насытившись жизнью.
+      Macarius: И умер Иов в старости, и насыщенный жизнью.
+      serbian: И умрије Јов стар и сит живота.
+      bulgarian: И умря Иов стар и сит на живот.
+      deutsch: Und Hiob starb alt und lebenssatt.
+      ukr2: І вмер Іов старим, нажившися на світі.
+      ukr3: І вмер Йов старим, нажившись на сьвітї.
+      bel_syomukha: І памёр Ёў у старасьці насычаны днямі.
+      lev-khv: И умер Иов старцем и насытившись днями.
+      czech: I zemrel Job star a syty dnu.
+      spanish: y murió Job anciano y colmado de días.
+      greek-lxx: καὶ ἐτελεύτησεν Ιωβ πρεσβύτερος καὶ πλήρης ἡμερῶν [1] γέγραπται δὲ
+        αὐτὸν πάλιν ἀναστήσεσθαι μεθ᾿ ὧν ὁ Κύριος ἀνίστησιν [2] οὗτος
+        ἑρμηνεύεται ἐκ τῆς Συριακῆς βίβλου ἐν μὲν γῇ κατοικῶν τῇ Αυσίτιδι ἐπὶ
+        τοῖς ὁρίοις τῆς Ιδουμαίας καὶ Ἀραβίας προϋπῆρχεν δὲ αὐτῷ ὄνομα Ιωβαβ [3]
+        λαβὼν δὲ γυναῖκα Ἀράβισσαν γεννᾷ υἱόν ᾧ ὄνομα Εννων ἦν δὲ αὐτὸς πατρὸς
+        μὲν Ζαρε τῶν Ησαυ υἱῶν υἱός μητρὸς δὲ Βοσορρας ὥστε εἶναι αὐτὸν πέμπτον
+        ἀπὸ Αβρααμ [4] καὶ οὗτοι οἱ βασιλεῖς οἱ βασιλεύσαντες ἐν Εδωμ ἧς καὶ
+        αὐτὸς ἦρξεν χώρας πρῶτος Βαλακ ὁ τοῦ Βεωρ καὶ ὄνομα τῇ πόλει αὐτοῦ
+        Δενναβα μετὰ δὲ Βαλακ Ιωβαβ ὁ καλούμενος Ιωβ μετὰ δὲ τοῦτον Ασομ ὁ
+        ὑπάρχων ἡγεμὼν ἐκ τῆς Θαιμανίτιδος χώρας μετὰ δὲ τοῦτον Αδαδ υἱὸς Βαραδ
+        ὁ ἐκκόψας Μαδιαμ ἐν τῷ πεδίῳ Μωαβ καὶ ὄνομα τῇ πόλει αὐτοῦ Γεθθαιμ [5]
+        οἱ δὲ ἐλθόντες πρὸς αὐτὸν φίλοι Ελιφας τῶν Ησαυ υἱῶν Θαιμανων βασιλεύς
+        Βαλδαδ ὁ Σαυχαίων τύραννος Σωφαρ ὁ Μιναίων βασιλεύς
+      st_text: "и умер Иов в старости, насыщенный днями. <i>//В Славянской Библии к
+        книге Иова имеется следующее добавление:</i> «Написано, что он опять
+        восстанет с теми, коих воскресит Господь. О нем толкуется в Сирской
+        книге, что жил он в земле Авситидийской на пределах Идумеи и Аравии:
+        прежде же было имя ему Иовав. Взяв жену Аравитянку, родил сына, которому
+        имя Еннон. Происходил он от отца Зарефа, сынов Исавовых сын, матери же
+        Воссоры, так что был он пятым от Авраама. И сии цари, царствовавшие в
+        Едоме, какою страною и он обладал: первый Валак, сын Веора, и имя городу
+        его Деннава; после же Валака Иовав, называемый Иовом; после сего Ассом,
+        игемон из Феманитской страны; после него Адад, сын Варада, поразивший
+        Мадиама на поле Моава,- и имя городу его Гефем. Пришедшие же к нему
+        друзья, Елифаз (сын Софана) от сынов Исавовых, царь Феманский, Валдад
+        (сын Амнона Ховарского) савхейский властитель, Софар Минейский царь.
+        (Феман сын Елифаза, игемон Идумеи. О нем говорится в книге Сирской, что
+        жил в земле Авситидийской, около берегов Евфрата; прежде имя его было
+        Иовав, отец же его был Зареф, от востока солнца.)»"

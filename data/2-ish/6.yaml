@@ -1,0 +1,2341 @@
+id: 56
+number: 6
+bookId: 2
+verseCount: 30
+title: Глава 6
+verses:
+  - id: 22343
+    number: 1
+    bookId: 2
+    text: "И сказал Господь Моисею: теперь увидишь ты, что Я сделаю с фараоном; по
+      действию руки крепкой он отпустит их; по действию руки крепкой даже
+      выгонит их из земли своей."
+    chapter: 6
+    chapterId: 56
+    parallels:
+      - verseId: 21298
+        bookId: 2
+        bookCode: ishod
+        chapter: 11
+        short: Исх:11:1
+      - verseId: 21340
+        bookId: 2
+        bookCode: ishod
+        chapter: 12
+        short: Исх:12:33
+      - verseId: 21361
+        bookId: 2
+        bookCode: ishod
+        chapter: 13
+        short: Исх:13:3
+    translates:
+      kassian: ""
+      podstr: "И сказал Господь к Моисею: Уже увидишь которые [дела] сделаю фараону; в
+        ведь руке крепкой отпустит их и в мышце высокой изгонит их из земли
+        его."
+      csya: "И рече Господь к моисею: се, узриши, что сотворю фараону: рукою бо
+        крепкою отпустит их и мышцею высокою изженет их от земли своея."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 гDь къ мwmсе1ю: се2, ќзриши, что2 сотворю2 фараHну: руко1ю
+        бо крёпкою tпyститъ и5хъ и3 мы1шцею высо1кою и3зжене1тъ и5хъ t земли2
+        своеS."
+      sovr_rbo: "Господь ответил: «Ты увидишь, что сделаю Я с фараоном! Под тяжестью
+        руки Моей он отпустит евреев! Под тяжестью руки Моей он выгонит их из
+        страны!»"
+      latin: "Dixitque Dominus ad Moysen: Nunc videbis quae facturus sim Pharaoni: per
+        manum enim fortem dimittet eos, et in manu robusta ejiciet illos de
+        terra sua."
+      ukr: "І сказав Господь до Мойсея: Тепер побачиш, що вчиню Я фараонові, бо він,
+        змушений рукою сильною, їх відпустить, і, змушений рукою сильною, вижене
+        їх із краю свого."
+      nkjv: Then the Lord said to Moses, "Now you shall see what I will do to Pharaoh.
+        For with a strong hand he will let them go, and with a strong hand he
+        will drive them out of his land."
+      desnitsky: ""
+      mt: ‫    וַיֹּאמֶר יְהוָה אֶל־מֹשֶׁה עַתָּה תִרְאֶה אֲשֶׁר אֶעֱשֶׂה לְפַרְעֹה
+        כִּי בְיָד חֲזָקָה יְשַׁלְּחֵם וּבְיָד חֲזָקָה יְגָרְשֵׁם מֵאַרְצוֹ׃ ס ‬
+      romana: 'Atunci a zis Domnul catre Moise: "Acum ai sa vezi ce am sa fac lui
+        Faraon, ca sub lucrarea mainii Mele celei tari el ii va lasa si sub
+        lucrarea bratului Meu celui puternic el ii va alunga din pamantul sau".'
+      francais: "L'Éternel dit à Moïse: Tu verras maintenant ce que je ferai à
+        Pharaon; une main puissante le forcera à les laisser aller, une main
+        puissante le forcera à les chasser de son pays."
+      italian: 'Il Signore disse a Mosè: "Ora vedrai quello che sto per fare al
+        faraone con mano potente, li lascerà andare, anzi con mano potente li
+        caccerà dal suo paese!".'
+      old_georgian: "ჰრქუა უფალმან მოსეს: აწ იხილო, რაჲ-იგი უყო ფარაოს, რამეთუ ჴელითა
+        მტკიცითა გამოავლინნეს იგინი და მკლავითა მაღლითა გამოასხნეს იგინი
+        ქუეყანით მათით."
+      portuguese: "Então disse o Senhor a Moisés: Agora verás o que hei de fazer a
+        Faraó; pois por uma poderosa mão os deixará ir,\rsim, por uma poderosa
+        mão os lançará de sua terra."
+      polish: "Pan rzekł wtedy do Mojżesza: ”Teraz ujrzysz, co uczynię faraonowi.
+        [Zmuszony] mocną ręką wypuści ich i mocną ręką wypędzi ich ze swego
+        kraju”."
+      turkish: RAB Musa'ya, «Firavuna ne yapacağımı şimdi göreceksin» dedi, «Güçlü
+        elimden ötürü İsrail halkını salıverecek, güçlü elimden ötürü onları
+        ülkesinden kovacak.»
+      nrt: "Тогда Господь сказал Моисею: – Теперь ты увидишь, что Я сделаю с фараоном:
+        под Моей могучей рукой он отпустит их; под Моей могучей рукой он даже
+        прогонит их из своей страны."
+      Macarius: "И сказал Иегова Моисею: теперь увидишь ты, что Я сделаю с Фараоном;
+        по действию руки крепкой он отпустит их, по действию руки крепкой даже
+        выгонит их из земли своей."
+      serbian: "А Господ рече Мојсију: Сад ћеш видјети шта ћу учинити Фараону; јер под
+        руком крјепком пустиће их, и истјераће их из земље своје под руком
+        крјепком."
+      bulgarian: "И рече Господ Моисею: сега ще видиш, какво ще направя с фараона; по
+        действие на силна ръка той ще ги пусне; по действие на силна ръка дори
+        ще ги изпъди от земята си."
+      deutsch: "Der Herr sprach zu Mose: Nun sollst du sehen, was ich Pharao tun
+        werde; denn durch eine starke Hand muß er sie lassen ziehen, er muß sie
+        noch durch eine starke Hand aus seinem Lande von sich treiben."
+      ukr2: "Після того ввійшли Мойсей та Арон до фараона й кажуть: Так мовить
+        Господь, Бог Ізраїля: Відпусти мій народ, щоб святкували мені свято в
+        пустині."
+      ukr3: "І рече Господь Мойсейові: Се побачите, що сотворю Фараонові: кріпка бо
+        рука змусить його відпустити їх і правиця висока повиганяти їх із землї
+        своєї."
+      bel_syomukha: "І сказаў Гасподзь Майсею: цяпер убачыш ты, што Я зраблю з
+        фараонам: дзеяньнем рукі моцнай ён адпусьціць іх; дзеяньнем рукі моцнай
+        нават прагоніць іх зь зямлі сваёй."
+      gorsky-platonov: "И сказал Иегова Моисею: теперь увидишь, что сделаю с Фараоном;
+        ибо рукою крепкою будет высылать их, и рукою крепкою будет выгонять их
+        из земли своей."
+      lev-khv: "И сказал Господь Моисею: теперь увидишь ты, чтó Я сделаю с Фараоном;
+        по <i>действию</i> руки крепкой отпустит он их; по <i>действию</i> руки
+        крепкой выгонит их из земли своей."
+      czech: 'Hospodin Mojzisovi odvetil: "Nyni uvidis, co faraonovi udelam. Donutim
+        ho, aby je propustil; donutim ho, aby je vypudil ze sve zeme."'
+      spanish: "Yavé dijo a Moisés: <<Pronto verás lo que yo voy a hacer al faraón.
+        Con mano fuerte los dejará ir, con mano fuerte los echará él mismo de su
+        tierra>>."
+      st_text: "И сказал Господь Моисею: теперь увидишь ты, что Я сделаю с фараоном;
+        по действию руки крепкой он отпустит их; по действию руки крепкой даже
+        выгонит их из земли своей."
+  - id: 22344
+    number: 2
+    bookId: 2
+    text: "И говорил Бог Моисею и сказал ему: Я Господь."
+    chapter: 6
+    chapterId: 56
+    parallels:
+      - verseId: 21319
+        bookId: 2
+        bookCode: ishod
+        chapter: 12
+        short: Исх:12:12
+      - verseId: 21414
+        bookId: 2
+        bookCode: ishod
+        chapter: 15
+        short: Исх:15:3
+    translates:
+      kassian: ""
+      podstr: "Произнёс же Бог к Моисею и сказал к нему: Я Господь;"
+      csya: "глагола же Бог к моисею и рече ему: аз Господь,"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Гlа же бг7ъ къ мwmсе1ю и3 рече2 є3мY: ѓзъ гDь,"
+      sovr_rbo: "Бог сказал Моисею: «Я Господь!"
+      latin: "Locutusque est Dominus ad Moysen dicens: Ego Dominus"
+      ukr: "І говорив Бог до Мойсея, та й сказав йому: Я Господь!"
+      nkjv: 'And God spoke to Moses and said to him: "I am the Lord.'
+      desnitsky: ""
+      mt: ‫    וַיְדַבֵּר אֱלֹהִים אֶל־מֹשֶׁה וַיֹּאמֶר אֵלָיו אֲנִי יְהוָה׃ ‬
+      romana: 'Apoi a grait Domnul cu Moise si a zis catre el: "Eu sunt Domnul'
+      francais: "Dieu parla encore à Moïse, et lui dit: Je suis l'Éternel."
+      italian: 'Dio parlò a Mosè e gli disse: "Io sono il Signore!'
+      old_georgian: "ეტყოდა ღმერთი მოსეს და ჰრქუა: მე ვარ უფალი,"
+      portuguese: "Falou mais Deus a Moisés, e disse-lhe: Eu sou Jeová."
+      polish: "Bóg rozmawiał z Mojżeszem i powiedział mu: ”Jam jest Jahwe."
+      turkish: Tanrı ayrıca Musa'ya, «Ben RAB'bim» dedi,
+      nrt: "Бог сказал Моисею: – Я – Господь."
+      Macarius: "И говорил Бог Моисею, и сказал ему: Я Иегова."
+      serbian: "Још говори Бог Мојсију и рече му: Ја сам Господ."
+      bulgarian: "И говори Бог на Моисея и му рече: Аз съм Господ."
+      deutsch: "Und Gott redete mit Mose und sprach zu ihm: Ich bin der Herr"
+      ukr2: "А фараон відповів: Хто такий Господь, щоб я мав послухати його голосу та
+        відпустити Ізраїля? Не знаю Господа, й Ізраїля не відпущу."
+      ukr3: "І говорив Бог до Мойсея і рече йому: я Господь."
+      bel_syomukha: "І маўляў Бог Майсею і сказаў яму: Я Гасподзь."
+      gorsky-platonov: "И говорил Бог Моисею и сказал ему: я — Иегова."
+      lev-khv: "И говорил Бог Моисею, и сказал ему: Я Господь."
+      czech: 'Buh promluvil k Mojzisovi a ujistil ho: "Ja jsem Hospodin.'
+      spanish: "Dios habló a Moisés y le dijo: <<Yo soy Yavé."
+      st_text: "И говорил Бог Моисею и сказал ему: Я Господь."
+  - id: 22345
+    number: 3
+    bookId: 2
+    text: Являлся Я Аврааму, Исааку и Иакову с <i>именем</i> Бог Всемогущий", а с
+      именем <i>Моим</i> "Господь" не открылся им;
+    chapter: 6
+    chapterId: 56
+    parallels:
+      - verseId: 9853
+        bookId: 1
+        bookCode: bytie
+        chapter: 17
+        short: Быт:17:1
+      - verseId: 21775
+        bookId: 2
+        bookCode: ishod
+        chapter: 26
+        short: Исх:26:24
+      - verseId: 21822
+        bookId: 2
+        bookCode: ishod
+        chapter: 28
+        short: Исх:28:13
+    translates:
+      kassian: ""
+      podstr: и Я явился к Аврааму и Исааку и Иакову, Бог сущий их, а имя Моё Господь
+        не явил им;
+      csya: "и явихся аврааму, и исааку, и иакову, Бог сый их, и имене моего Господь
+        не явих им:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 kви1хсz ґвраaму, и3 їсаaку, и3 їaкwву, бг7ъ сы1й и4хъ, и3 и4мене
+        моегw2 гDь не kви1хъ и5мъ:"
+      sovr_rbo: Я являлся Аврааму, Исааку и Иакову как Бог Всесильный, но Моего имени
+        „Господь” Я им не открыл.
+      latin: "qui apparui Abraham, Isaac et Jacob in Deo omnipotente: et nomen meum
+        Adonai non indicavi eis."
+      ukr: І являвся Я Авраамові, Ісакові та Яковові Богом Всемогутнім, але Йменням
+        Своїм Господь Я не дався їм пізнати.
+      nkjv: I appeared to Abraham, to Isaac, and to Jacob, as God Almighty, but by My
+        name Lord I was not known to them.
+      desnitsky: ""
+      mt: ‫    וָאֵרָא אֶל־אַבְרָהָם אֶל־יִצְחָק וְאֶל־יַעֲקֹב בְּאֵל שַׁדָּי וּשְׁמִי
+        יְהוָה לֹא נוֹדַעְתִּי לָהֶם׃ ‬
+      romana: Si M-am aratat lui Avraam, lui Isaac si lui Iacov ca Dumnezeu
+        Atotputernic, iar cu numele Meu de Domnul nu M-am facut cunoscut lor.
+      francais: Je suis apparu à Abraham, à Isaac et à Jacob, comme le Dieu tout
+        puissant; mais je n'ai pas été connu d'eux sous mon nom, l'Éternel.
+      italian: Sono apparso ad Abramo, a Isacco, a Giacobbe come Dio onnipotente, ma
+        con il mio nome di Signore non mi son manifestato a loro.
+      old_georgian: რომელი ვეჩუენე აბრაჰამს, ისაკს და იაკობს, რომელთა ღმერთი მე ვარ და
+        სახელი ჩემი უფალ არა ვაუწყეა მათ?
+      portuguese: "Apareci a Abraão, a Isaque e a Jacó, como o Deus Todo-Poderoso; mas
+        pelo meu nome Jeová, não lhes fui\rconhecido."
+      polish: "Ja objawiłem się Abrahamowi, Izaakowi i Jakubowi jako Bóg
+        Wszechmocny,\rale imienia mego, Jahwe, nie objawiłem im."
+      turkish: «İbrahim'e, İshak'a ve Yakup'a Her Şeye Gücü Yeten Tanrı olarak
+        göründüm, ama onlara kendimi RAB adıyla tanıtmadım.
+      nrt: Я являлся Аврааму, Исааку и Иакову как Бог Всемогущий, но под Именем
+        Господь они Меня не знали.
+      Macarius: Я являлся Аврааму, Исааку и Иакову, как Бог всемогущий; но не открылся
+        им во имени Иеговы.
+      serbian: И јавио сам се Авраму, Исаку и Јакову именом Бог Свемогући, а именом
+        својим  Господ не бих им познат.
+      bulgarian: Аз се явявах на Авраама, Исаака и Иакова с името "Бог Всемогъщий"; а
+        с името Си "Господ" * не съм им се открил; //* Иехова.
+      deutsch: und bin erschienen Abraham, Isaak und Jakob als der allmächtige Gott;
+        aber mein Name Herr ist ihnen nicht offenbart worden.
+      ukr2: "Вони ж сказали: Бог євреїв зустрів нас; хочемо, отже, піти за три дні
+        ходи в пустиню і принести там жертву Господеві, Богу нашому, щоб не
+        вдарив на нас мором або мечем."
+      ukr3: І являвсь я Авраамові й Ізаакові і Яковові як Бог їх всемогущий, з імям же
+        моїм Єгова я не обявивсь їм.
+      bel_syomukha: Яўляўся Я Абрагаму, Ісааку і Якаву зь імем "Бог Усемагутны"; а зь
+        імем Маім "Гасподзь" не адкрыўся ім;
+      gorsky-platonov: "Являлся Я Аврааму, Исааку и Иакову Богом всемогущим; а именем
+        Моим: Иегова, Я не открывался им."
+      lev-khv: "И являлся Я Аврааму, Исааку и Иакову с <i>именем</i>: Бог всемогущий;
+        а с <i>именем</i>: Господь не открылся им."
+      czech: Ukazal jsem se Abrahamovi, Izakovi a Jakobovi jako Buh vsemohouci. Ale
+        sve jmeno Hospodin jsem jim nedal poznat.
+      spanish: Yo me mostré a Abraham, a Isaac y a Jacob como El-Saddai, pero no les
+        manifesté mi nombre de Yavé.
+      st_text: Являлся Я Аврааму, Исааку и Иакову с <i>именем</i> Бог Всемогущий", а с
+        именем <i>Моим</i> "Господь" не открылся им;
+  - id: 22346
+    number: 4
+    bookId: 2
+    text: и Я поставил завет Мой с ними, чтобы дать им землю Ханаанскую, землю
+      странствования их, в которой они странствовали.
+    chapter: 6
+    chapterId: 56
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и поставил завет Мой к ним чтобы дать им землю Хананеев, землю, [в]
+        которой вселились, в которой и они прожили на ней.
+      csya: "и поставих завет мой с ними, яко дати им землю ханаанску, землю
+        пришельствия их, на нейже и обитаху:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 постaвихъ завётъ мо1й съ ни1ми, ћкw дaти и5мъ зе1млю ханаaнску,
+        зе1млю прише1льствіz и4хъ, на не1йже и3 њбитaху:"
+      sovr_rbo: Я заключил с ними договор и обещал отдать им ханаанскую землю —
+        страну, где они были чужаками.
+      latin: Pepigique foedus cum eis, ut darem eis terram Chanaan, terram
+        peregrinationis eorum, in qua fuerunt advenae.
+      ukr: А також Я склав був із ними Свого заповіта, що дам їм землю ханаанську,
+        землю їх мандрування, в якій вони мандрували.
+      nkjv: I have also established My covenant with them, to give them the land of
+        Canaan, the land of their pilgrimage, in which they were strangers.
+      desnitsky: ""
+      mt: ‫    וְגַם הֲקִמֹתִי אֶת־בְּרִיתִי אִתָּם לָתֵת לָהֶם אֶת־אֶרֶץ כְּנָעַן אֵת
+        אֶרֶץ מְגֻרֵיהֶם אֲשֶׁר־גָּרוּ בָהּ׃ ‬
+      romana: "Mai mult: am facut legamant cu ei, ca sa le dau pamantul Canaan,
+        pamantul pribegiei lor, in care rataceau ei."
+      francais: J'ai aussi établi mon alliance avec eux, pour leur donner le pays de
+        Canaan, le pays de leurs pèlerinages, dans lequel ils ont séjourné.
+      italian: Ho anche stabilito la mia alleanza con loro, per dar loro il paese di
+        Canaan, quel paese dov'essi soggiornarono come forestieri.
+      old_georgian: და დავამტკიცე აღთქუმაჲ ჩემი მათ თანა მიცემად მათა ქუეყანა იგი
+        ქანანელთაჲ, რომელსაცა მწირობდეს, რომელსა იყოფოდეს მას ზედა.
+      portuguese: "Estabeleci o meu pacto com eles para lhes dar a terra de Canaã, a
+        terra de suas peregrinações, na qual foram\rperegrinos."
+      polish: "Ponadto ustanowiłem też przymierze moje z nimi, że im dam kraj
+        Kanaan,\rkraj ich wędrówek, gdzie przebywali jako przybysze."
+      turkish: Yabancı olarak yaşadıkları Kenan ülkesini kendilerine vermek üzere
+        onlarla antlaşma yaptım.
+      nrt: Я заключил с ними завет, чтобы дать им землю Ханаана, где они жили как
+        чужеземцы.
+      Macarius: И Я поставил завет мой с ними, чтобы дать им землю Ханаанскую, землю
+        странствования их, в которой они странствовали.
+      serbian: И учиних завјет свој с њима да ћу им дати земљу Хананску, земљу у којој
+        бијаху дошљаци, у којој живљаху као странци.
+      bulgarian: и Аз сключих с тях Моя завет, за да им дам Ханаанската земя, земята
+        на тяхното странствуване, в която те странствуваха.
+      deutsch: Auch habe ich einen Bund mit ihnen aufgerichtet, daß ich ihnen geben
+        will das Land Kanaan, das Land ihrer Wallfahrt, darin sie Fremdlinge
+        gewesen sind.
+      ukr2: "І відповів їм цар єгипетський: Чому то ви, Мойсею й Ароне, відтягаєте
+        людей від праці? Ідіть собі до своєї роботи."
+      ukr3: І я ж поставив завіт мій із ними, що оддам їм Канаан землю, де пробували
+        вони чуженицями.
+      bel_syomukha: і Я паклаў заруку Маю зь імі, каб даць ім зямлю Ханаанскую, зямлю
+        вандраваньня іхняга, у якой яны вандравалі.
+      gorsky-platonov: "И поставил Я завет Мой с ними: дать им землю Ханаанскую, землю
+        странствования их, по которой они странствовали."
+      lev-khv: И Я поставил завет Мой с ними, чтобы дать им землю Ханаанскую, землю
+        странствования их, в которой они странствовали.
+      czech: Ustavil jsem s nimi take svou smlouvu, ze jim dam kenaanskou zemi, zemi
+        jejich putovani, kde pobyvali jako hoste.
+      spanish: No sólo hice con ellos mi alianza de darles la tierra de Canán, la
+        tierra de sus peregrinaciones, donde habitaron como extranjeros,
+      st_text: и Я поставил завет Мой с ними, чтобы дать им землю Ханаанскую, землю
+        странствования их, в которой они странствовали.
+  - id: 22347
+    number: 5
+    bookId: 2
+    text: И Я услышал стенание сынов Израилевых о том, что Египтяне держат их в
+      рабстве, и вспомнил завет Мой.
+    chapter: 6
+    chapterId: 56
+    parallels:
+      - verseId: 21565
+        bookId: 2
+        bookCode: ishod
+        chapter: 2
+        short: Исх:2:23
+      - verseId: 23545
+        bookId: 3
+        bookCode: levit
+        chapter: 26
+        short: Лев:26:42
+      - verseId: 23548
+        bookId: 3
+        bookCode: levit
+        chapter: 26
+        short: Лев:26:45
+    translates:
+      kassian: ""
+      podstr: И Я услышал стоны сыновей Израиля, который [народ] египтяне порабощают
+        их, и Я вспомнил завет ваш.
+      csya: "аз же услышах стенание сынов израилевых, имже египтяне поработиша их, и
+        помянух завет мой:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "ѓзъ же ўслы1шахъ стенaніе сынHвъ ї}левыхъ, и5мже є3гv1птzне
+        порабо1тиша и5хъ, и3 помzнyхъ завётъ мо1й:"
+      sovr_rbo: Ныне Я услышал, как стонут сыны Израилевы под игом египтян, и вспомнил
+        про этот договор.
+      latin: "Ego audivi gemitum filiorum Israel, quo Aegyptii oppresserunt eos: et
+        recordatus sum pacti mei."
+      ukr: І почув Я теж стогін синів Ізраїлевих, що єгиптяни роблять їх своїми
+        рабами, і згадав заповіта Свого.
+      nkjv: And I have also heard the groaning of the children of Israel whom the
+        Egyptians keep in bondage, and I have remembered My covenant.
+      desnitsky: ""
+      mt: ‫    וְגַם אֲנִי שָׁמַעְתִּי אֶת־נַאֲקַת בְּנֵי יִשְׂרָאֵל אֲשֶׁר מִצְרַיִם
+        מַעֲבִדִים אֹתָם וָאֶזְכֹּר אֶת־בְּרִיתִי׃ ‬
+      romana: Si, in sfarsit, am auzit suspinul fiilor lui Israel, pe care ii tin
+        Egiptenii in robie, si Mi-am adus aminte de legamantul Meu cu voi.
+      francais: J'ai entendu les gémissements des enfants d'Israël, que les Égyptiens
+        tiennent dans la servitude, et je me suis souvenu de mon alliance.
+      italian: Sono ancora io che ho udito il lamento degli Israeliti asserviti dagli
+        Egiziani e mi sono ricordato della mia alleanza.
+      old_georgian: და მესმნეს სულთქუმანი იგი ძეთა ისრაჱლისათანი, რომლითა ეგჳპტელნი
+        იგი დაიმონებენ მათ და მოვიჴსენე აღთქუმაჲ იგი თქუენი.
+      portuguese: "Ademais, tenho ouvido o gemer dos filhos de Israel, aos quais os
+        egípcios vêm escravizando; e lembrei-me do\rmeu pacto."
+      polish: "Ja także usłyszałem jęk Izraelitów, których Egipcjanie obciążyli
+        robotami, i\rwspomniałem na moje przymierze."
+      turkish: Mısırlılar'ın köleleştirdiği İsrailliler'in iniltilerini duydum ve
+        antlaşmamı hep andım.
+      nrt: Теперь Я услышал стон израильтян, которых египтяне сделали своими рабами, и
+        вспомнил об этом завете.
+      Macarius: Я же услышал и стенание сынов Израилевых, которых Египтяне держат в
+        рабстве, и вспомнил завет Мой.
+      serbian: И чух уздисање синова Израиљевијех, које Мисирци држе у ропству, и
+        опоменух се завјета својега.
+      bulgarian: И Аз чух, как синовете Израилеви стенат, задето египтяни ги държат в
+        робство, и си спомних за Моя завет.
+      deutsch: Auch habe ich gehört die Wehklage der Kinder Israel, welche die Ägypter
+        mit Frönen beschweren, und habe an meinen Bund gedacht.
+      ukr2: "Вів далі фараон: Ось така сила-силенна того народу, більше як мешканців
+        цієї землі, а ви ще хочете відтягати його від його роботи."
+      ukr3: І почув я теж стогнаннє синів Ізрайлевих, що їх Египтяне держали в неволї,
+        і спогадав завіт мій.
+      bel_syomukha: І Я пачуў стогны сыноў Ізраілевых пра тое, што Егіпцяне трымаюць
+        іх у няволі, і ўспомніў заруку Маю.
+      gorsky-platonov: И услышал Я стенание сынов Израиля, которых египтяне поработили
+        и вспомнил завет Мой.
+      lev-khv: И Я же услышал стон сынов Израилевых о том, что Египтяне порабощают их,
+        и вспомнил завет Мой.
+      czech: Rovnez jsem uslysel stenani Izraelcu, ktere si Egyptane podrobili v
+        otroctvi, a rozpomenul jsem se na svou smlouvu.
+      spanish: sino que ahora he escuchado los gemidos de los hijos de Israel, que
+        tienen los egipcios en servidumbre, y me he acordado de mi alianza.
+      st_text: И Я услышал стенание сынов Израилевых о том, что Египтяне держат их в
+        рабстве, и вспомнил завет Мой.
+  - id: 22348
+    number: 6
+    bookId: 2
+    text: "Итак скажи сынам Израилевым: Я Господь, и выведу вас из-под ига Египтян,
+      и избавлю вас от рабства их, и спасу вас мышцею простертою и судами
+      великими;"
+    chapter: 6
+    chapterId: 56
+    parallels:
+      - verseId: 22376
+        bookId: 2
+        bookCode: ishod
+        chapter: 7
+        short: Исх:7:4
+      - verseId: 21348
+        bookId: 2
+        bookCode: ishod
+        chapter: 12
+        short: Исх:12:41
+      - verseId: 8922
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 17
+        short: 4 Цар:17:36
+      - verseId: 15548
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 21
+        short: Иер:21:5
+      - verseId: 15880
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 32
+        short: Иер:32:21
+    translates:
+      kassian: ""
+      podstr: "Пойди скажи сыновьям Израиля говорящий: Я Господь и выведу вас с силой
+        египтян и избавлю вас из рабства и выкуплю вас в мышце высокой и суде
+        громком"
+      csya: "иди, рцы сыном израилевым глаголя: аз Господь, и изведу вас от насилия
+        египетска, и избавлю вас от работы (их), и отъиму вас мышцею высокою и
+        судом великим,"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3ди2, рцы2 сынHмъ ї}лєвымъ глаго1лz: ѓзъ гDь, и3 и3зведY вaсъ t
+        наси1ліz є3гv1петска, и3 и3збaвлю вaсъ t рабо1ты (и4хъ), и3 tимY вaсъ
+        мы1шцею высо1кою и3 судо1мъ вели1кимъ,"
+      sovr_rbo: "Передай же сынам Израилевым: „Я Господь! Я уведу вас из египетской
+        неволи, освобожу из рабства! Я вас избавлю: занесена Моя рука и страшны
+        Мои кары!"
+      latin: "Ideo dic filiis Israel: Ego Dominus qui educam vos de ergastulo
+        Aegyptiorum, et eruam de servitute, ac redimam in brachio excelso et
+        judiciis magnis."
+      ukr: "Тому скажи синам Ізраїлевим: Я Господь! І Я виведу вас з-під тягарів
+        Єгипту, і визволю вас від їхньої роботи, і звільню вас витягненим
+        раменом та великими присудами."
+      nkjv: "Therefore say to the children of Israel: 'I am the Lord; I will bring you
+        out from under the burdens of the Egyptians, I will rescue you from
+        their bondage, and I will redeem you with an outstretched arm and with
+        great judgments. "
+      desnitsky: ""
+      mt: ‫    לָכֵן אֱמֹר לִבְנֵי־יִשְׂרָאֵל‪‬ אֲנִי יְהוָה וְהוֹצֵאתִי אֶתְכֶם
+        מִתַּחַת סִבְלֹת מִצְרַיִם וְהִצַּלְתִּי אֶתְכֶם מֵעֲבֹדָתָם
+        וְגָאַלְתִּי אֶתְכֶם בִּזְרוֹעַ נְטוּיָה וּבִשְׁפָטִים גְּדֹלִים׃ ‬
+      romana: "Mergi dar de vorbeste fiilor lui Israel si le spune: Eu sunt Domnul si
+        am sa va scot de la munca cea grea a Egiptenilor si am sa va izbavesc
+        din robia lor; am sa va izbavesc cu brat inalt si cu pedepse mari;"
+      francais: "C'est pourquoi dis aux enfants d'Israël: Je suis l'Éternel, je vous
+        affranchirai des travaux dont vous chargent les Égyptiens, je vous
+        délivrerai de leur servitude, et je vous sauverai à bras étendu et par
+        de grands jugements."
+      italian: "Per questo di' agli Israeliti: Io sono il Signore! Vi sottrarrò ai
+        gravami degli Egiziani, vi libererò dalla loro schiavitù e vi libererò
+        con braccio teso e con grandi castighi."
+      old_georgian: "წარვედ, ეტყოდე ძეთა ისრაჱლისათა და არქუ: მე ვარ უფალი და
+        გამოგიყუანნე თქუენ მძლავრებისაგან ეგჳპტელთასა და გიჴსნნე თქუენ
+        კირთებისაგან მათისა და განგარინნე თქუენ მკლავითა მაღლითა და სასჯელითა
+        დიდ-დიდითა."
+      portuguese: "Portanto dize aos filhos de Israel: Eu sou Jeová; eu vos tirarei de
+        debaixo das cargas dos egípcios, livrar-vos-ei\rda sua servidão, e vos
+        resgatarei com braço estendido e com grandes juízos."
+      polish: "Przeto powiedz synom izraelskim: Ja jestem Pan! Uwolnię was od
+        jarzma\regipskiego i wybawię was z niewoli, i wyswobodzę was
+        wyciągniętym ramieniem i przez surowe kary."
+      turkish: «Onun için İsrailliler'e de ki, `Ben RAB'bim. Sizi Mısırlılar'ın
+        boyunduruğundan çıkaracak, onların kölesi olmaktan kurtaracağım. Onları
+        ağır biçimde yargılayacak ve kudretli elimle sizi özgür kılacağım.
+      nrt: "Итак, скажи израильтянам: «Я – Господь, и Я выведу вас из-под египетского
+        гнета. Я освобожу вас из рабства и спасу вас простертой рукой и великими
+        судами."
+      Macarius: "Итак, скажи сынам Израилевым: Я Иегова; Я выведу вас из-под ига
+        Египетского, освобожу вас от рабства их, и избавлю вас мышцею простертою
+        и судами великими."
+      serbian: "Зато кажи синовима Израиљевијем: Ја сам Господ, и извешћу вас испод
+        бремена Мисирских, и опростићу вас ропства њихова, и избавићу вас
+        мишицом подигнутом и судовима великим."
+      bulgarian: "Затова кажи на синовете Израилеви: Аз съм Господ, и ще ви изведа
+        изпод египетския гнет, ще ви изтръгна от египетската робия и ще ви спася
+        с простряна ръка и с велики съдби;"
+      deutsch: "Darum sage den Kindern Israel: Ich bin der Herr und will euch
+        ausführen von euren Lasten in Ägypten und will euch erretten von eurem
+        Frönen und will euch erlösen durch ausgereckten Arm und große Gerichte"
+      ukr2: "І дав фараон того ж самого дня такий наказ начальникам та доглядачам
+        народу:"
+      ukr3: "Тим же то йди, промов до синів Ізрайлевих: Я Господь-Єгова, і виведу вас
+        із неволї Египецької, і вирятую вас ізпід панщини рукою простягнутою і
+        присудами великими."
+      bel_syomukha: "Дык вось, скажы сынам Ізраілевым: Я Гасподзь, і выведу вас з-пад
+        ярма Егіпцянаў, і выбаўлю вас зь няволі іхняй, і выратую вас рукою
+        працягнутаю і судамі вялікімі;"
+      gorsky-platonov: "Поди, скажи сынам Израиля: Я — Иегова, и выведу вас из под ига
+        египетскаго и избавлю вас от рабства им, и освобожу вас мышцею
+        простертою и судами высокими."
+      lev-khv: "Потому скажи сынам Израилевым: Я Господь, и выведу вас из-под ига
+        Египетскаго, и избавлю вас от рабства их, и спасу вас мышцею простертою
+        и судами великими."
+      czech: "Proto rekni Izraelcum: Ja jsem Hospodin. Vyvedu vas z egyptske roboty,
+        vysvobodim vas z vaseho otroctvi a vykoupim vas vztazenou pazi a velkymi
+        soudy."
+      spanish: "Di, por tanto, a los hijos de Israel: <<Yo soy Yavé, yo os libertaré
+        de los trabajos forzados de los egipcios, os libraré de su servidumbre y
+        os salvaré a brazo tendido y por grandes juicios."
+      st_text: "Итак скажи сынам Израилевым: Я Господь, и выведу вас из-под ига
+        Египтян, и избавлю вас от рабства их, и спасу вас мышцею простертою и
+        судами великими;"
+  - id: 22349
+    number: 7
+    bookId: 2
+    text: и приму вас Себе в народ и буду вам Богом, и вы узнаете, что Я Господь,
+      Бог ваш, изведший вас [из земли Египетской] из-под ига Египетского;
+    chapter: 6
+    chapterId: 56
+    parallels:
+      - verseId: 9859
+        bookId: 1
+        bookCode: bytie
+        chapter: 17
+        short: Быт:17:7
+    translates:
+      kassian: ""
+      podstr: и Я возьму Себе вас народом Мне и Я буду ваш Бог, и познаете что Я
+        Господь Бог ваш выведший вас из притеснения египтян,
+      csya: "и прииму вы себе в люди, и буду вам Бог: и уразумеете, яко аз Господь Бог
+        ваш, изведый вас от земли египетския и от насилия египетска:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 пріимY вы2 себЁ въ лю1ди, и3 бyду вaмъ бг7ъ: и3 ўразумёете, ћкw
+        ѓзъ гDь бг7ъ вaшъ, и3зведы1й вaсъ t земли2 є3гv1петскіz и3 t наси1ліz
+        є3гv1петска:"
+      sovr_rbo: Я сделаю вас Моим народом и буду вашим Богом, и вы будете помнить, что
+        это Я — Господь, Бог ваш, — вывел вас из египетской неволи.
+      latin: "Et assumam vos mihi in populum, et ero vester Deus: et scietis quod ego
+        sum Dominus Deus vester qui eduxerim vos de ergastulo Aegyptiorum,"
+      ukr: І візьму вас Собі за народа, і буду вам Богом, і ви познаєте, що Я Господь,
+        Бог ваш, що виводить вас із-під тягарів Єгипту!
+      nkjv: I will take you as My people, and I will be your God. Then you shall know
+        that I am the Lord your God who brings you out from under the burdens of
+        the Egyptians.
+      desnitsky: ""
+      mt: ‫    וְלָקַחְתִּי אֶתְכֶם לִי לְעָם וְהָיִיתִי לָכֶם לֵאלֹהִים וִידַעְתֶּם
+        כִּי אֲנִי יְהוָה אֱלֹהֵיכֶם הַמּוֹצִיא אֶתְכֶם מִתַּחַת סִבְלוֹת
+        מִצְרָיִם׃ ‬
+      romana: Am sa va primesc sa-Mi fiti popor, iar Eu sa va fiu Dumnezeu si voi veti
+        cunoaste ca Eu sunt Domnul Dumnezeul vostru, Care v-a scos din pamantul
+        Egiptului si de sub munca apasatoare a Egiptenilor.
+      francais: Je vous prendrai pour mon peuple, je serai votre Dieu, et vous saurez
+        que c'est moi, l'Éternel, votre Dieu, qui vous affranchis des travaux
+        dont vous chargent les Égyptiens.
+      italian: Io vi prenderò come mio popolo e diventerò il vostro Dio. Voi saprete
+        che io sono il Signore, il vostro Dio, che vi sottrarrà ai gravami degli
+        Egiziani.
+      old_georgian: და მოგიყუანნე თქუენ ერად ჩემდა და ვიყო მე თქუენდა ღმერთ და სცნათ,
+        რამეთუ მე ვარ უფალი ღმერთი თქუენი, რომელმან გამოგიყვანნე თქუენ ქუეყანით
+        ეგჳპტით მძლავრებისაგან ეგჳპტელთასა.
+      portuguese: "Eu vos tomarei por meu povo e serei vosso Deus; e vós sabereis que
+        eu sou Jeová vosso Deus, que vos tiro de\rdebaixo das cargas dos
+        egípcios."
+      polish: "I wezmę sobie was za mój lud, i będę wam Bogiem, i przekonacie się, że
+        Ja,\rPan, Bóg wasz, uwolniłem was spod jarzma egipskiego."
+      turkish: Sizi kendi halkım yapacak ve Tanrınız olacağım. O zaman sizi
+        Mısırlılar'ın boyunduruğundan çıkaran Tanrınız RAB'bin ben olduğumu
+        bileceksiniz.
+      nrt: Я сделаю вас Своим народом и буду вашим Богом. Тогда вы узнаете, что Я –
+        Господь, ваш Бог, Который вывел вас из-под египетского гнета.
+      Macarius: И приму вас себе в народ и буду вам Богом, и вы узнаете, что Я Иегова,
+        Бог ваш, выведший вас из-под ига Египетского.
+      serbian: И узећу вас да ми будете народ, и ја ћу вам бити Бог, те ћете познати
+        да сам ја Господ Бог ваш који вас изводим испод бремена Мисирских.
+      bulgarian: ще ви приема за Мой народ, ще ви бъда Бог, и ще познаете, че Аз съм
+        Господ, Бог ваш, Който ви изведе (от Египетската земя) изпод египетския
+        гнет;
+      deutsch: und will euch annehmen zum Volk und will euer Gott sein, daß ihr's
+        erfahren sollt, daß ich der Herr bin, euer Gott, der euch ausführt von
+        der Last Ägyptens
+      ukr2: Не постачайте вже більш людям соломи на цеглу, як досіль було; самі вони
+        нехай ходять та призбирують собі солому.
+      ukr3: І прийму вас за нарід собі, і буду вам Богом, і зрозумієте, що я Господь,
+        ваш Бог, що вас вивів із неволї Египецької.
+      bel_syomukha: "і прыму вас Сабе ў народ і буду вам Богам, і вы ўведаеце, што Я
+        Гасподзь, Бог ваш, Які вывеў вас з-пад ярма Егіпецкага:"
+      gorsky-platonov: И возьму вас Себе в народ и буду вам Богом, и узнаете, что Я —
+        Иегова, Бог ваш, изведший вас из под ига египетскаго.
+      lev-khv: И приму вас Себе в народ и буду вам Богом, и вы узнаете, что я Господь,
+        Бог ваш, выведший вас из-под ига Египетскаго.
+      czech: Vezmu si vas za lid a budu vam Bohem. Poznate, ze ja jsem Hospodin, vas
+        Buh, ktery vas vyvede z egyptske roboty.
+      spanish: Yo os haré mi pueblo, y seré vuestro Dios, y sabréis que yo soy Yavé,
+        vuestro Dios, que os libraré de la servidumbre egipcia
+      st_text: и приму вас Себе в народ и буду вам Богом, и вы узнаете, что Я Господь,
+        Бог ваш, изведший вас [из земли Египетской] из-под ига Египетского;
+  - id: 22350
+    number: 8
+    bookId: 2
+    text: и введу вас в ту землю, о которой Я, подняв руку Мою, <i>клялся</i> дать
+      ее Аврааму, Исааку и Иакову, и дам вам ее в наследие. Я Господь.
+    chapter: 6
+    chapterId: 56
+    parallels:
+      - verseId: 17754
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 47
+        short: Иез:47:14
+    translates:
+      kassian: ""
+      podstr: и приведу вас в землю, на которую простёр руку Мою дать её Аврааму и
+        Исааку и Иакову, и дам вам её в наследство; Я Господь.
+      csya: "и введу вас в землю, на нюже прострох руку мою, дати ю аврааму и исааку и
+        иакову: и дам ю вам в наследие, аз Господь."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 введY вaсъ въ зе1млю, на ню1же простро1хъ рyку мою2, дaти ю5
+        ґвраaму и3 їсаaку и3 їaкwву: и3 дaмъ ю5 вaмъ въ наслёдіе, ѓзъ гDь."
+      sovr_rbo: Я приведу вас в землю, которую обещал отдать Аврааму, Исааку и Иакову,
+        и передам ее вам во владение. Я Господь!”»
+      latin: "et induxerim in terram, super quam levavi manum meam ut darem eam
+        Abraham, Isaac et Jacob: daboque illam vobis possidendam. Ego Dominus."
+      ukr: І введу вас до того Краю, що про нього Я підняв був Свою руку, щоб дати
+        його Авраамові, Ісакові та Якову. І Я дам його вам на спадщину. Я
+        Господь!
+      nkjv: "And I will bring you into the land which I swore to give to Abraham,
+        Isaac, and Jacob; and I will give it to you as a heritage: I am the
+        Lord.' \" "
+      desnitsky: ""
+      mt: ‫    וְהֵבֵאתִי אֶתְכֶם אֶל־הָאָרֶץ אֲשֶׁר נָשָׂאתִי אֶת־יָדִי לָתֵת אֹתָהּ
+        לְאַבְרָהָם לְיִצְחָק וּלְיַעֲקֹב וְנָתַתִּי אֹתָהּ לָכֶם מוֹרָשָׁה
+        אֲנִי יְהוָה׃ ‬
+      romana: Apoi am sa va duc in pamantul acela pentru care Mi-am ridicat mana sa-l
+        dau lui Avraam, lui Isaac si lui Iacov, si pe care am sa-l dau voua in
+        stapanire, caci Eu sunt Domnul!"
+      francais: Je vous ferai entrer dans le pays que j'ai juré de donner à Abraham, à
+        Isaac et à Jacob; je vous le donnerai en possession, moi l'Éternel.
+      italian: 'Vi farò entrare nel paese che ho giurato a mano alzata di dare ad
+        Abramo, a Isacco e a Giacobbe, e ve lo darò in possesso: io sono il
+        Signore!".'
+      old_georgian: და შეგიყვანნე თქუენ ქუეყანასა მას, რომელსა განვირთხ ჴელი ჩემი
+        მიცემად იგი აბრაჰამს, ისაკს და იაკობს და მიგცე იგი თქუენ ნაწილად მე
+        უფალმან.
+      portuguese: Eu vos introduzirei na terra que jurei dar a Abraão, a Isaque e a
+        Jacó; e vo-la darei por herança. Eu sou Jeová.
+      polish: "Potem wprowadzę was do ziemi, którą z ręką podniesioną przysiągłem
+        dać\rAbrahamowi, Izaakowi i Jakubowi. Dam ją wam na własność. Zaiste, Ja
+        jestem Pan!”"
+      turkish: Sizi İbrahim'e, İshak'a ve Yakup'a vereceğime ant içtiğim topraklara
+        götüreceğim. Orayı size mülk olarak vereceğim. Ben RAB'bim.'»
+      nrt: Я приведу вас в землю, которую клялся с поднятой рукой отдать Аврааму,
+        Исааку и Иакову. Я отдам ее вам во владение. Я – Господь».
+      Macarius: И введу вас в ту землю, о которой Я, подъяв руку Мою, клялся дать ее
+        Аврааму, Исааку и Иакову, и дам вам оную в наследие. Я Иегова.
+      serbian: Пак ћу вас одвести у своју земљу, за коју подигох руку своју заклињући
+        се да ћу је дати Авраму, Исаку и Јакову; и даћу вам је у нашљедство, ја
+        Господ.
+      bulgarian: и ще ви въведа в оная земя, за която Аз, като дигнах ръка, клех се да
+        я дам на Авраама, Исаака и Иакова, и ще ви я дам за наследство. Аз съм
+        Господ.
+      deutsch: und euch bringt in das Land, darüber ich habe meine Hand gehoben, daß
+        ich's gäbe Abraham, Isaak und Jakob; das will ich euch geben zu eigen,
+        ich, der Herr.
+      ukr2: "А вимагайте від них стільки цеглин, скільки й досі вироблювалося; не
+        поменшуйте нічого, бо вони ліниві, тому й кричать: ми бажали б піти та
+        принести жертву Богу нашому!"
+      ukr3: І введу вас у землю, що про неї клявсь оддати її Авраамові й Ізаакові й
+        Яковові, і дам вам її в наслїддє. Я Господь.
+      bel_syomukha: і выведу вас у тую зямлю, якую Я, падняўшы руку Маю, прысягаўся
+        даць яе Абрагаму, Ісааку, і Якаву, і дам вам яе ў спадчыну. Я Гасподзь.
+      gorsky-platonov: И введу вас в землю, на которую Я указал рукою Моею, чтобы
+        отдать ее, Аврааму, Исааку и Иакову, и отдам ее вам в наследие; Я —
+        Иегова.
+      lev-khv: И введу вас в ту землю, о которой Я, подняв руку Мою, <i>клялся</i>
+        дать ее Аврааму, Исааку и Иакову, и дам вам ее в наследие. Я Господь.
+      czech: Dovedu vas do zeme, kterou jsem prisezne slibil dat Abrahamovi, Izakovi a
+        Jakobovi. Vam ji dam do vlastnictvi. Ja jsem Hospodin."
+      spanish: y os introduciré en la tierra que juré dar a Abraham, a Isaac y a
+        Jacob, y os la daré en posesión. Yo, Yavé>>.
+      st_text: и введу вас в ту землю, о которой Я, подняв руку Мою, <i>клялся</i>
+        дать ее Аврааму, Исааку и Иакову, и дам вам ее в наследие. Я Господь.
+  - id: 22351
+    number: 9
+    bookId: 2
+    text: Моисей пересказал это сынам Израилевым; но они не послушали Моисея по
+      малодушию и тяжести работ.
+    chapter: 6
+    chapterId: 56
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Сказал же Моисей так сыновьям Израиля, и не слушали Моисея от малодушия
+        и от дел суровых.
+      csya: Глагола же моисей тако сыном израилевым, и не послушаша моисеа от
+        малодушия и от дел жестоких.
+      averincev: ""
+      ungerov: ""
+      csya_old: Глаго1ла же мwmсе1й тaкw сынHмъ ї}лєвымъ, и3 не послyшаша мwmсе1а t
+        малодyшіz и3 t дёлъ же1стокихъ.
+      sovr_rbo: Моисей передал эти слова сынам Израилевым, но те даже и слушать его не
+        стали, от малодушия и от тяжести работ.
+      latin: "Narravit ergo Moyses omnia filiis Israel: qui non acquieverunt ei
+        propter angustiam spiritus, et opus durissimum."
+      ukr: І так говорив Мойсей до синів Ізраїлевих, та вони не слухали Мойсея через
+        легкодухість та тяжку роботу.
+      nkjv: So Moses spoke thus to the children of Israel; but they did not heed
+        Moses, because of anguish of spirit and cruel bondage.
+      desnitsky: ""
+      mt: ‫    וַיְדַבֵּר מֹשֶׁה כֵּן אֶל־בְּנֵי יִשְׂרָאֵל וְלֹא שָׁמְעוּ אֶל־מֹשֶׁה
+        מִקֹּצֶר רוּחַ וּמֵעֲבֹדָה קָשָׁה׃ פ ‬
+      romana: Si a grait Moise asa fiilor lui Israel; dar ei n-au ascultat pe Moise
+        din pricina deznadejdii si a greutatii muncilor lor.
+      francais: Ainsi parla Moïse aux enfants d'Israël. Mais l'angoisse et la dure
+        servitude les empêchèrent d'écouter Moïse.
+      italian: Mosè parlò così agli Israeliti, ma essi non ascoltarono Mosè, perché
+        erano all'estremo della sopportazione per la dura schiavitù.
+      old_georgian: ეტყოდა ესრეთ მოსე ძეთა ისრაჱლისათა და არა ისმინეს მოსესი
+        სულმოკლებისა მისგან და საქმეთა მათგან ფიცხელთა.
+      portuguese: "Assim falou Moisés aos filhos de Israel, mas eles não lhe deram
+        ouvidos, por causa da angústia de espírito e da\rdura servidão."
+      polish: "Mojżesz oznajmił te słowa Izraelitom, którzy nie chcieli ich słuchać z
+        powodu\rudręki ducha i z powodu ciężkich robót."
+      turkish: Musa bunları İsrailliler'e anlattı, ama umutları kırıldığı ve ağır
+        baskı altında oldukları için onu dinlemediler.
+      nrt: Моисей передал это израильтянам, но они не послушали его, потому что их дух
+        был сломлен жестокой неволей.
+      Macarius: Моисей пересказал сие сынам Израилевым; но они не послушали Моисея от
+        упадка духа и тяжкого рабства.
+      serbian: И Мојсије каза тако синовима Израиљевијем; али не послушаше Мојсија од
+        слабости духа својега и од љутога ропства.
+      bulgarian: Моисей обади това на синовете Израилеви; но те не послушаха Моисея от
+        малодушие и поради тежката работа.
+      deutsch: Mose sagte solches den Kindern Israel; aber sie hörten ihn nicht vor
+        Seufzen und Angst vor harter Arbeit.
+      ukr2: Нехай тяжить робота на цих людях, нехай її пильнують, не зважавши на пусті
+        теревені.
+      ukr3: "І промовляв так Мойсей синам Ізрайлевим, та не послухали Мойсея від
+        легкодухостї й тяжкої неволї.\r\r</section>\r<section>"
+      bel_syomukha: "Майсей пераказаў гэта сынам Ізраілевым: але яны не паслухаліся
+        Майсея з маладушнасьці і цяжкасьці працы."
+      gorsky-platonov: И говорил это Моисей сынам Израиля, но они не вняли Моисею от
+        малодушия и от тяжкой работы.
+      lev-khv: И говорил Моисей так сынам Израилевым; но они не послушали Моисея по
+        малодушию и тяжести работ.
+      czech: Mojzis to tak Izraelcum vyhlasil, ale ti nebyli pro malomyslnost a tvrdou
+        otrocinu s to Mojzisovi naslouchat.
+      spanish: Así habló Moisés a los hijos de Israel, pero ellos no le escucharon,
+        por lo angustioso de su dura servidumbre.
+      st_text: Моисей пересказал это сынам Израилевым; но они не послушали Моисея по
+        малодушию и тяжести работ.
+  - id: 22352
+    number: 10
+    bookId: 2
+    text: "И сказал Господь Моисею, говоря:"
+    chapter: 6
+    chapterId: 56
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "Сказал же Господь к Моисею говорящий:"
+      csya: "Рече же Господь к моисею, глаголя:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Рече1 же гDь къ мwmсе1ю, гlz:"
+      sovr_rbo: "Господь велел Моисею:"
+      latin: "Locutusque est Dominus ad Moysen, dicens:"
+      ukr: "І казав Господь до Мойсея, говорячи:"
+      nkjv: And the Lord spoke to Moses, saying,
+      desnitsky: ""
+      mt: ‫    וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה לֵּאמֹר׃ ‬
+      romana: "Si iarasi a grait Domnul cu Moise si i-a zis:"
+      francais: "L'Éternel parla à Moïse, et dit:"
+      italian: "Il Signore parlò a Mosè:"
+      old_georgian: "ჰრქუა უფალმან მოსეს მიმართ მეტყუელმან:"
+      portuguese: "Falou mais o Senhor a Moisés, dizendo:"
+      polish: "Pan powiedział do Mojżesza:"
+      turkish: ""
+      nrt: "Тогда Господь сказал Моисею:"
+      Macarius: "Потом Иегова говорил Моисею, и сказал:"
+      serbian: "И Господ рече Мојсију говорећи:"
+      bulgarian: "И каза пак Господ на Моисея и рече:"
+      deutsch: "Da redete der Herr mit Mose und sprach:"
+      ukr2: "Повиходили начальники та доглядачі над людьми та й кажуть до народу: Ось
+        що велить фараон: Я вже не даватиму вам більш соломи."
+      ukr3: "І рече Господь Мойсейові:"
+      bel_syomukha: "І наказаў Гасподзь Майсею сказаць:"
+      gorsky-platonov: "И сказал Иегова Моисею, говоря:"
+      lev-khv: "И сказал Господь Моисею, говоря:"
+      czech: "Hospodin dale mluvil k Mojzisovi:"
+      spanish: "Habló Yavé a Moisés y le dijo:"
+      st_text: "И сказал Господь Моисею, говоря:"
+  - id: 22353
+    number: 11
+    bookId: 2
+    text: войди, скажи фараону, царю Египетскому, чтобы он отпустил сынов Израилевых
+      из земли своей.
+    chapter: 6
+    chapterId: 56
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Войди скажи фараону царю Египта, чтобы отпустил сыновей Израиля из земли
+        его.
+      csya: вниди, глаголи фараону царю египетскому, да отпустит сыны израилевы из
+        земли своея.
+      averincev: ""
+      ungerov: ""
+      csya_old: вни1ди, глаго1ли фараHну царю2 є3гv1петскому, да tпyститъ сы1ны ї}лєвы
+        и3з8 земли2 своеS.
+      sovr_rbo: «Иди к фараону, царю египетскому. Скажи ему, чтобы он разрешил сынам
+        Израилевым уйти из его страны!» —
+      latin: Ingredere, et loquere ad Pharaonem regem Aegypti, ut dimittat filios
+        Israel de terra sua.
+      ukr: Увійди, говори до фараона, царя єгипетського, і нехай він відпустить
+        Ізраїлевих синів із свого краю.
+      nkjv: '"Go in, tell Pharaoh king of Egypt to let the children of Israel go out
+        of his land."'
+      desnitsky: ""
+      mt: ‫    בֹּא דַבֵּר אֶל־פַּרְעֹה מֶלֶךְ מִצְרָיִם וִישַׁלַּח
+        אֶת־בְּנֵי־יִשְׂרָאֵל מֵאַרְצוֹ׃ ‬
+      romana: '"Intra si spune lui Faraon, regele Egiptului, ca sa lase pe fiii lui
+        Israel sa iasa din tara lui!"'
+      francais: Va, parle à Pharaon, roi d'Égypte, pour qu'il laisse aller les enfants
+        d'Israël hors de son pays.
+      italian: "\"Va' e parla al faraone re d'Egitto, perché lasci partire dal suo
+        paese gli Israeliti!\"."
+      old_georgian: შევედ შენ და ეტყოდე ფარაოს, მეფესა ეგჳპტისასა, რათა გამოავლინნეს
+        ძენი ისრაჱლისანი ქუეყანით ეგჳპტით.
+      portuguese: Vai, fala a Faraó, rei do Egito, que deixe sair os filhos de Israel
+        da sua terra.
+      polish: "”Idź i powiedz faraonowi, królowi egipskiemu, aby wypuścił Izraelitów
+        ze\rswego kraju”."
+      turkish: RAB Musa'ya, «Git, Mısır Firavunu'na İsrailliler'i ülkesinden
+        salıvermesini söyle» dedi.
+      nrt: – Пойди, скажи фараону, царю Египта, чтобы он отпустил израильтян из своей
+        страны.
+      Macarius: Поди, скажи Фараону, царю Египетскому, чтобы он отпустил сынов
+        Израилевых из земли своей.
+      serbian: Иди, кажи Фараону, цару Мисирском, нека пусти синове Израиљеве из земље
+        своје.
+      bulgarian: влез, кажи на фараона, египетския цар, да пусне синовете Израилеви от
+        земята си.
+      deutsch: Gehe hinein und rede mit Pharao, dem König in Ägypten, daß er die
+        Kinder Israel aus seinem Lande lasse.
+      ukr2: Ідіте, самі збирайте собі солому, де знайдете; бо нічого не буде знижено з
+        роботи вашої.
+      ukr3: Увійди й кажи Фараонові, цареві Египецькому, щоб одпустив сини Ізрайлеві
+        із землї своєї.
+      bel_syomukha: увайдзі, скажы фараону, цару Егіпецкаму, каб ён адпусьціў сыноў
+        Ізраілевых зь зямлі сваёй.
+      gorsky-platonov: Войди, говори с Фараоном царем Египетским и отпустит он сынов
+        Израиля из земли своей.
+      lev-khv: Войди, скажи Фараону, царю Египетскому, чтобы он отпустил сынов
+        Израилевых из земли своей.
+      czech: '"Predstup pred faraona, krale egyptskeho, a vyrid mu, at propusti
+        Izraelce ze sve zeme."'
+      spanish: <<Ve a hablar al faraón, rey de Egipto, para que deje salir a los hijos
+        de Israel fuera de su tierra>>.
+      st_text: войди, скажи фараону, царю Египетскому, чтобы он отпустил сынов
+        Израилевых из земли своей.
+  - id: 22354
+    number: 12
+    bookId: 2
+    text: "И сказал Моисей пред Господом, говоря: вот, сыны Израилевы не слушают
+      меня; как же послушает меня фараон? а я не словесен."
+    chapter: 6
+    chapterId: 56
+    parallels:
+      - verseId: 22260
+        bookId: 2
+        bookCode: ishod
+        chapter: 4
+        short: Исх:4:10
+      - verseId: 21045
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 6
+        short: Ис:6:5
+      - verseId: 22372
+        bookId: 2
+        bookCode: ishod
+        chapter: 6
+        short: Исх:6:30
+    translates:
+      kassian: ""
+      podstr: "Сказал же Моисей перед Господом говорящий: Вот сыновья Израиля не
+        слушали меня, и как услышит меня фараон я же неразумный есть."
+      csya: "Рече же моисей пред Господем глаголя: се, сынове израилевы не послушаша
+        мене, и како послушает мене фараон? аз же несловесен есмь."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Рече1 же мwmсе1й пред8 гDемъ глаго1лz: се2, сы1нове ї}лєвы не
+        послyшаша мене2, и3 кaкw послyшаетъ мене2 фараHнъ; ѓзъ же неслове1сенъ
+        є4смь."
+      sovr_rbo: «Уж если сыны Израилевы меня не слушают, — сказал Моисей Господу, —
+        как же послушается меня фараон? Не умею я ладно говорить…»
+      latin: "Respondit Moyses coram Domino: Ecce filii Israel non audiunt me: et
+        quomodo audiet Pharao, praesertim cum incircumcisus sim labiis?"
+      ukr: "І казав Мойсей перед лицем Господнім, говорячи: Таж Ізраїлеві сини не
+        слухали мене, як же послухає мене фараон? А я необрізановустий!"
+      nkjv: And Moses spoke before the Lord, saying, "The children of Israel have not
+        heeded me. How then shall Pharaoh heed me, for I am of uncircumcised
+        lips?"
+      desnitsky: ""
+      mt: ‫    וַיְדַבֵּר מֹשֶׁה לִפְנֵי יְהוָה לֵאמֹר הֵן בְּנֵי־יִשְׂרָאֵל
+        לֹא־שָׁמְעוּ אֵלַי וְאֵיךְ יִשְׁמָעֵנִי פַרְעֹה וַאֲנִי עֲרַל
+        שְׂפָתָיִם׃ פ ‬
+      romana: 'Dar Moise a grait inaintea Domnului si a zis: "Iata, fiii lui Israel nu
+        ma asculta. Cum, dar, ma va asculta Faraon? Si apoi eu sunt si gangav".'
+      francais: "Moïse répondit en présence de l'Éternel: Voici, les enfants d'Israël
+        ne m'ont point écouté; comment Pharaon m'écouterait-il, moi qui n'ai pas
+        la parole facile?"
+      italian: 'Mosè disse alla presenza del Signore: "Ecco gli Israeliti non mi hanno
+        ascoltato: come vorrà ascoltarmi il faraone, mentre io ho la parola
+        impacciata?".'
+      old_georgian: "იტყოდა მოსე წინაშე უფლისა და თქუა: აჰა ესერა, ძეთა ისრაჱლისათა
+        არა ისმინეს ჩემი და ვითარ ისმინოს ჩემი ფარაო. რამეთუ მე უსიტყუ ვარ?"
+      portuguese: "Moisés, porém, respondeu perante o Senhor, dizendo: Eis que os
+        filhos de Israel não me têm ouvido: como,\rpois, me ouvirá Faraó a mim,
+        que sou incircunciso de lábios?"
+      polish: "Mojżesz wymawiał się przed Panem mówiąc: ”Jeśli Izraelici nie chcą
+        mię\rsłuchać, jakże faraon będzie słuchał mnie, któremu mówienie sprawia
+        trud\rność?”"
+      turkish: Ama Musa, «İsrailliler beni dinlemedikten sonra, firavun nasıl dinler?»
+        diye karşılık verdi, «Zaten iyi konuşan biri değilim.»
+      nrt: "Но Моисей сказал Господу: – Если даже израильтяне не слушают меня, как
+        послушает фараон, ведь я так косноязычен?"
+      Macarius: "Моисей же говорил пред Иеговою, и сказал: вот, сыны Израилевы не
+        слушают меня; как же послушает меня Фараон? А у меня уста необрезанные."
+      serbian: "А Мојсије проговори пред Господом и рече: Ето, синови Израиљеви не
+        послушаше ме, а како ће ме послушати Фараон кад сам необрезанијех
+        усана?"
+      bulgarian: "А Моисей отговори пред Господа и рече: ето, синовете Израилеви ме не
+        слушат; как тогава ще ме послуша фараонът? При това аз съм заеклив."
+      deutsch: "Mose aber redete vor dem Herrn und sprach: Siehe, die Kinder Israel
+        hören mich nicht; wie sollte mich denn Pharao hören? Dazu bin ich von
+        unbeschnittenen Lippen."
+      ukr2: І порозходились люди по всій єгипетській землі збирати собі стерню замість
+        соломи.
+      ukr3: "І промовив Мойсей перед Господом і каже: Се не послухали мене сини
+        Ізрайлеві; як же Фараон послухає мене? Та ж мої губи не обрізані, я не
+        проречистий."
+      bel_syomukha: "І сказаў Майсей перад Госпадам, кажучы: вось, сыны Ізраілевыя ня
+        слухаюцца мяне; як жа паслухаецца мяне фараон? а я не красамоўны."
+      gorsky-platonov: "И сказал Моисей пред Иеговою, говоря: вот сыны Израилевы не
+        стали слушать меня; как же послушает меня Фараон? Я же не обрезан
+        устами!"
+      lev-khv: "И сказал Моисей пред Господом, говоря: вот, сыны Израилевы не слушают
+        меня; как же послушает меня Фараон? А я не словесен."
+      czech: 'Mojzis Hospodinu namitl: "Kdyz mi nenaslouchaji Izraelci, jak by me
+        poslechl farao! Nejsem zpusobily mluvit."'
+      spanish: "Moisés le respondió: <<Los hijos de Israel no me escuchan, ¿cómo va a
+        escucharme el faraón a mí, que soy incircunciso de labios?>>"
+      st_text: "И сказал Моисей пред Господом, говоря: вот, сыны Израилевы не слушают
+        меня; как же послушает меня фараон? а я не словесен."
+  - id: 22355
+    number: 13
+    bookId: 2
+    text: И говорил Господь Моисею и Аарону, и давал им повеления к сынам Израилевым
+      и к фараону, царю Египетскому, чтобы вывести сынов Израилевых из земли
+      Египетской.
+    chapter: 6
+    chapterId: 56
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Сказал же Господь к Моисею и Аарону и подготовил их к фараону царю
+        Египта чтобы отпустить сыновей Израиля из земли Египта.
+      csya: Рече же Господь к моисею и аарону и завеща им внити к фараону царю
+        египетскому, да отпустит сыны израилевы от земли египетския.
+      averincev: ""
+      ungerov: ""
+      csya_old: Рече1 же гDь къ мwmсе1ю и3 ґарHну и3 завэщA и5мъ вни1ти къ фараHну
+        царю2 є3гv1петскому, да tпyститъ сы1ны ї}лєвы t земли2 є3гv1петскіz.
+      sovr_rbo: Господь говорил с Моисеем и Аароном. Он велел им идти к сынам
+        Израилевым и к фараону, царю египетскому, чтобы вывести сынов Израилевых
+        из Египта.
+      latin: Locutusque est Dominus ad Moysen et Aaron, et dedit mandatum ad filios
+        Israel, et ad Pharaonem regem Aegypti ut educerent filios Israel de
+        terra Aegypti.
+      ukr: І казав Господь до Мойсея та до Аарона, і дав їм накази до Ізраїлевих синів
+        та до фараона, царя єгипетського, щоб вивести Ізраїлевих синів з
+        єгипетського краю.
+      nkjv: Then the Lord spoke to Moses and Aaron, and gave them a command for the
+        children of Israel and for Pharaoh king of Egypt, to bring the children
+        of Israel out of the land of Egypt.
+      desnitsky: ""
+      mt: ‫    וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה וְאֶל־אַהֲרֹן וַיְצַוֵּם אֶל־בְּנֵי
+        יִשְׂרָאֵל וְאֶל־פַּרְעֹה מֶלֶךְ מִצְרָיִם לְהוֹצִיא
+        אֶת־בְּנֵי־יִשְׂרָאֵל מֵאֶרֶץ מִצְרָיִם׃ ס ‬
+      romana: Domnul insa a grait lui Moise si Aaron si le-a poruncit sa spuna lui
+        Faraon, regele Egiptului, sa dea drumul fiilor lui Israel din tara
+        Egiptului.
+      francais: L'Éternel parla à Moïse et à Aaron, et leur donna des ordres au sujet
+        des enfants d'Israël et au sujet de Pharaon, roi d'Égypte, pour faire
+        sortir du pays d'Égypte les enfants d'Israël.
+      italian: Il Signore parlò a Mosè e ad Aronne e diede loro un incarico presso gli
+        Israeliti e presso il faraone re d'Egitto, per far uscire gli Israeliti
+        dal paese d'Egitto.
+      old_georgian: "ეტყოდა უფალი მოსეს და აჰრონს და ჰრქუა: არქუთ ძეთა ისრაჱლისათა და
+        ფარაოს, რათა გამოუტევნეს ძენი ისრაჱლისანი ქუეყანით ეგჳპტით."
+      portuguese: "Todavia o Senhor falou a Moisés e a Arão, e deu-lhes mandamento
+        para os filhos de Israel, e para Faraó, rei do\rEgito, a fim de tirarem
+        os filhos de Israel da terra do Egito.."
+      polish: "Pan powiedział do Mojżesza i Aarona i dał im rozkaz dla Izraelitów i
+        dla\rfaraona, króla egipskiego, aby pozwolił wyjść Izraelitom z ziemi
+        egipskiej."
+      turkish: RAB Musa ve Harun'la İsrailliler ve Mısır Firavunu hakkında konuştu.
+        İsrailliler'i Mısır'dan çıkarmalarını buyurdu.
+      nrt: Господь говорил с Моисеем и Аароном об израильтянах и фараоне, царе Египта,
+        и повелел им вывести израильтян из Египта.
+      Macarius: И говорил Иегова Моисею и Аарону, и давал им повеления к сынам
+        Израилевым, и к Фараону, царю Египетскому, чтобы вывести сынов
+        Израилевых из земли Египетской.
+      serbian: Али Господ говори Мојсију и Арону, и заповједи им да иду к синовима
+        Израиљевијем и к Фараону, да изведу синове Израиљеве из земље Мисирске.
+      bulgarian: И говори Господ на Моисея и Аарона и им даде заповеди до синовете
+        Израилеви и до фараона, египетския цар, да изведат синовете Израилеви от
+        Египетската земя.
+      deutsch: Also redete der Herr mit Mose und Aaron und tat ihnen Befehl an die
+        Kinder Israel und an Pharao, den König in Ägypten, daß sie die Kinder
+        Israel aus Ägypten führten.
+      ukr2: "Доглядачі ж квапили їх, наказуючи: Виробляйте стільки щоденної роботи, як
+        і тоді, коли була заготовлена солома."
+      ukr3: І глаголав Господь Мойсейові та Аронові, і повелїв їм промовляти до синів
+        Ізрайлевих і до Фараона, царя Египецького, щоб вивести Ізраїлїв з
+        Египту.
+      bel_syomukha: І маўляў Гасподзь Майсею і Аарону, і даваў ім загады сынам
+        Ізраілевым і фараону, цару Егіпецкаму, каб вывесьці сыноў Ізраілевых зь
+        зямлі Егіпецкай.
+      gorsky-platonov: И говорил Иегова Моисею и Аарону и давал чрез них повеления
+        сынам Израиля и Фараону, царю египетскому, чтобы вывести сынов Израиля
+        из земли египетской.
+      lev-khv: И говорил Господь Моисею и Аарону, и давал им повеления к сынам
+        Израилевым и к Фараону, царю Египетскому, чтобы вывести сынов Израилевых
+        из земли Египетской.
+      czech: Ale Hospodin Mojzisovi a Aronovi domluvil a dal jim prikazy pro Izraelce
+        i pro faraona, krale egyptskeho, aby pripravili odchod Izraelcu z
+        egyptske zeme.
+      spanish: Yavé habló a Moisés y a Arón y les dio órdenes para los hijos de Israel
+        y para el faraón, rey de Egipto, con el fin de sacar de Egipto a los
+        hijos de Israel.
+      st_text: И говорил Господь Моисею и Аарону, и давал им повеления к сынам
+        Израилевым и к фараону, царю Египетскому, чтобы вывести сынов Израилевых
+        из земли Египетской.
+  - id: 22356
+    number: 14
+    bookId: 2
+    text: "Вот начальники поколений их: сыны Рувима, первенца Израилева: Ханох и
+      Фаллу, Хецрон и Харми: это семейства Рувимовы."
+    chapter: 6
+    chapterId: 56
+    parallels:
+      - verseId: 10924
+        bookId: 1
+        bookCode: bytie
+        chapter: 46
+        short: Быт:46:8
+      - verseId: 10925
+        bookId: 1
+        bookCode: bytie
+        chapter: 46
+        short: Быт:46:9
+      - verseId: 21248
+        bookId: 2
+        bookCode: ishod
+        chapter: 1
+        short: Исх:1:2
+      - verseId: 11785
+        bookId: 4
+        bookCode: cisla
+        chapter: 26
+        short: Чис:26:5
+      - verseId: 3358
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 5
+        short: 1 Пар:5:1
+      - verseId: 3360
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 5
+        short: 1 Пар:5:3
+    translates:
+      kassian: ""
+      podstr: И эти главные дома отцов их. Сыновья Рувина первенца Израиля; Енох и
+        Фаллус, Асрон и Харми; это род Рувина.
+      csya: "И сии старейшины домов отечеств их: сынове рувима, первенца израилева,
+        енох и фаллос, асрон и харми: сие племя рувимово."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# сjи старBйшины домHвъ nте1чествъ и4хъ: сы1нове руви1ма, пе1рвенца
+        ї}лева, є3нHхъ и3 фалло1съ, ґсрHнъ и3 хармі2: сіе2 пле1мz руви1мово."
+      sovr_rbo: "Вот прародители их родов. Сыновья Рувима (Рувим — первенец Израиля):
+        Енох, Паллу, Хецрон и Карми. От них пошли роды Рувимовы."
+      latin: "Isti sunt principes domorum per familias suas. Filii Ruben primogeniti
+        Israelis: Henoch et Phallu, Hesron et Charmi:"
+      ukr: "Оце голови батьківських домів їхніх. Сини Рувима, перворідного
+        Ізраїлевого: Ханох і Паллу, Хецрон і Кармі, це родини Рувимові."
+      nkjv: "These are the heads of their fathers' houses: The sons of Reuben, the
+        firstborn of Israel, were Hanoch, Pallu, Hezron, and Carmi. These are
+        the families of Reuben. "
+      desnitsky: ""
+      mt: ‫    אֵלֶּה רָאשֵׁי בֵית־אֲבֹתָם בְּנֵי רְאוּבֵן בְּכֹר יִשְׂרָאֵל חֲנוֹךְ
+        וּפַלּוּא חֶצְרוֹן וְכַרְמִי אֵלֶּה מִשְׁפְּחֹת רְאוּבֵן׃ ‬
+      romana: "Iata acum incepatorii familiilor stramosesti: Fiii lui Ruben,
+        intai-nascutul lui Israel: Enoh si Falu, Hetron si Carmi. Acestea sunt
+        familiile lui Ruben."
+      francais: "Voici les chefs de leurs familles. Fils de Ruben, premier-né
+        d'Israël:  Hénoc, Pallu, Hetsron et Carmi. Ce sont là les familles de
+        Ruben."
+      italian: "Questi sono i capi delle loro famiglie. Figli di Ruben, primogenito
+        d'Israele: Enoch, Pallu, Chezron e Carmi; queste sono le famiglie di
+        Ruben."
+      old_georgian: "და ესე არიან მთავარნი სახლთა მამულთა მათთანი, ძენი რუბენისნი,
+        პირმშოჲსა ისრაჱლისანი: ენუქ და ფალუს, ასრონ და ქარმი."
+      portuguese: "Estes são os cabeças das casas de seus pais: Os filhos de Rúben o
+        primogênito de Israel: Hanoque e Palu,\rHezrom e Carmi; estas são as
+        famílias de Rúben."
+      polish: "Oto naczelnicy rodów: synowie Rubena, pierworodnego Izraela: Henoch i
+        Pallu, Chesron i Karmi; to są rodziny Rubena."
+      turkish: "İsrailliler'in aile önderleri şunlardır: Yakup'un ilk oğlu Ruben'in
+        oğulları: Hanok, Pallu, Hesron, Karmi. Ruben'in boyları bunlardır."
+      nrt: "Вот главы их кланов: Сыновьями Рувима, первенца Израиля, были Ханох и
+        Фаллу, Хецрон и Харми. Это – кланы Рувима."
+      Macarius: "Вот начальники поколений их: сыны Рувима, первенца Израилева: Ханох и
+        Фаллу, Хецрон и Харми: вот племена Рувимовы."
+      serbian: "Ово су поглавице у домовима отаца својих: Синови Рувима, првенца
+        Израиљева: Енох и Фалуј, Асрон и Хармија; то су породице Рувимове."
+      bulgarian: "Ето началниците на поколенията им: синове на Рувима, първороден син
+        Израилев: Ханох и Фалу, Хецрон и Харми: това са семейства Рувимови."
+      deutsch: "Dies sind die Häupter in ihren Vaterhäusern. Die Kinder Rubens, des
+        ersten Sohnes Israels, sind diese: Henoch, Pallu, Hezron, Charmi. Das
+        sind die Geschlechter von Ruben."
+      ukr2: "І бито доглядачів з синів Ізраїля, що їх настановили над ними фараонові
+        доглядачі, примовляючи: Чому не виготували призначену вам кількість
+        цеглин і вчора й сьогодні?"
+      ukr3: "Се голови батьківських домів їх: Сини Рубена, первеньця Ізрайлевого:
+        Ганох та Паллуй, Гезрон та Хармій; се Рубенові сини."
+      bel_syomukha: "Вось правадыры іх пакаленьняў: сыны Рувіма, першынца Ізраілевага:
+        Ханох і Фалу, Хецрон і Храмі: гэта сямействы Рувімавыя."
+      gorsky-platonov: "Вот главы дома отцев их: сыны Рувима, первенца Израиля: Ханох
+        и Фаллу, Хецрон и Харми: это племена Рувима."
+      lev-khv: "Вот главы поколений их: сыновья Рувима, первенца Израилева: Ханох и
+        Фаллу, Хецрон и Харми: это семейства Рувимовы."
+      czech: "Toto jsou predstavitele otcovskych rodu: Rubenovci, potomci Izraelova
+        prvorozeneho: Chanok a Palu, Chesron a Karmi. To jsou celedi Rubenovy."
+      spanish: "Estas son las cabezas de sus linajes: Hijos de Rubén, primogénito de
+        Israel: Janoc, Falu, Jesrón y Carmí; éstos son los linajes de Rubén."
+      st_text: "Вот начальники поколений их: сыны Рувима, первенца Израилева: Ханох и
+        Фаллу, Хецрон и Харми: это семейства Рувимовы."
+  - id: 22357
+    number: 15
+    bookId: 2
+    text: "Сыны Симеона: Иемуил и Иамин, и Огад, и Иахин, и Цохар, и Саул, сын
+      Хананеянки: это семейства Симеона."
+    chapter: 6
+    chapterId: 56
+    parallels:
+      - verseId: 3338
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 4
+        short: 1 Пар:4:24
+    translates:
+      kassian: ""
+      podstr: И сыновья Симеона; Иемуил и Иамин и Аод и Иахин и Саар и Саул который от
+        Финиссии; эти отцовства сыновей Симеона.
+      csya: "Сынове же симеоновы: иемуил и иамин, и аод и ахин, и саар и саул, иже от
+        финиссины: сия рождения сынов симеоновых."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Сы1нове же сmмеHнwвы: їемуи1лъ и3 їамjнъ, и3 ґHдъ и3 ґхjнъ, и3 саaръ
+        и3 саyлъ, и5же t фінісси1ны: сі‰ рождє1ніz сынHвъ сmмеHновыхъ."
+      sovr_rbo: "Сыновья Симеона: Иемуэл, Ямин, Охад, Яхин, Цохар и Саул, сын
+        ханаанеянки. От них пошли роды Симеоновы."
+      latin: "hae cognationes Ruben. Filii Simeon: Jamuel, et Jamin, et Ahod, et
+        Jachin, et Soar, et Saul filius Chananitidis: hae progenies Simeon."
+      ukr: "А сини Симеонові: Ємуїл, і Ямін, і Огад, і Яхін, і Цохар, і Шаул, син
+        ханаанеянки, це родини Симеонові."
+      nkjv: And the sons of Simeon were Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul
+        the son of a Canaanite woman. These are the families of Simeon.
+      desnitsky: ""
+      mt: ‫    וּבְנֵי שִׁמְעוֹן יְמוּאֵל וְיָמִין וְאֹהַד וְיָכִין וְצֹחַר וְשָׁאוּל
+        בֶּן־הַכְּנַעֲנִית אֵלֶּה מִשְׁפְּחֹת שִׁמְעוֹן׃ ‬
+      romana: "Fiii lui Simeon: Iemuel si Iamin, Ohad si Iachin, Tohar si Saul, fiii
+        canaaneencii. Acestea sunt familiile lui Simeon."
+      francais: "Fils de Siméon: Jemuel, Jamin, Ohad, Jakin et Tsochar; et Saül, fils
+        de la Cananéenne. Ce sont là les familles de Siméon."
+      italian: "Figli di Simeone: Iemuel, Iamin, Oad, Iachin, Socar e Saul, figlio
+        della Cananea; queste sono le famiglie di Simeone."
+      old_georgian: "ესე არიან ნათესავნი რუბენისნი და ძენი სჳმეონისნი: იჱმუელ, და
+        იამინ, და ოდ, და იაქიმ, და საარ და საულ, რომელი იყო ფინიკიელისა მისგან.
+        ესე არიან ტომნი ძეთა სჳმეონისთანი."
+      portuguese: "E os filhos de Simeão: Jemuel, Jamim, Oade, Jaquim, Zoar e Saul,
+        filho de uma cananéia; estas são as famílias\rde Simeão."
+      polish: "Synowie Symeona: Jemuel, Jamin, Ohad, Jakin, Sochar i Szaul, syn
+        Kananejki; to są rodziny Symeona."
+      turkish: "Şimon'un oğulları: Yemuel, Yamin, Ohat, Yakin, Sohar ve Kenanlı bir
+        kadının oğlu Şaul. Şimon'un boyları bunlardır."
+      nrt: Сыновьями Симеона были Иемуил, Иамин, Огад, Иахин, Цохар и Саул, сын
+        хананеянки. Это – кланы Симеона.
+      Macarius: "Сыны Симеона: Иемуэль и Иамин, и Огад, и Иахин, и Цохар и Саул, сын
+        Хананеянки. Вот племена Симеоновы."
+      serbian: "А синови Симеонови: Јемуило и Јамин и Аод и Ахин и Сар и Саул, син
+        неке Хананејке; то су породице Симеонове."
+      bulgarian: "Синове Симеонови: Иемуил и Иамин, Охад и Иахин, Цохар и Саул, син на
+        хананейката: това са семейства Симеонови."
+      deutsch: "Die Kinder Simeons sind diese: Jemuel, Jamin, Ohad, Jachin, Zohar und
+        Saul, der Sohn des kanaanäischen Weibes. Das sind Simeons Geschlechter."
+      ukr2: "Прийшли доглядачі з синів Ізраїля до фараона скаржитись та й кажуть: Чого
+        знущаєшся так із рабів твоїх?"
+      ukr3: "Сини ж Симеонові: Ємуель та Ямін та Огад та Якін та Зохар, та Савул, син
+        Канаанки: се семї Симеонові."
+      bel_syomukha: "Сыны Сымона: Емуіл і Ямін, і Агад і Яхін, і Цахар і Саўл, сын
+        Хананэйкі; гэта сямейства Сымонава."
+      gorsky-platonov: "И сыны Симеона: Йемуель и Яминь, и Огад, и Яхин, и Цогарь, и
+        Шауль, сын хананянки: это племена Симеона."
+      lev-khv: "А сыновья Симеона: Иемуил, и Иамин, и Огад, и Иахин, и Цохар, и Саул,
+        сын Хананеянки. Это семейства Симеона."
+      czech: "Simeonovci: Jemuel, Jamin, Ohad, Jakin, Sochar a Saul, syn Kenaanky. To
+        jsou celedi Simeonovy."
+      spanish: "Hijos de Simeón: Jamuel, Jasmín, Ahod, Jaguen, Sojar y Saúl, hijo de
+        la Cananea; éstos son los linajes de Simeón."
+      st_text: "Сыны Симеона: Иемуил и Иамин, и Огад, и Иахин, и Цохар, и Саул, сын
+        Хананеянки: это семейства Симеона."
+  - id: 22358
+    number: 16
+    bookId: 2
+    text: "Вот имена сынов Левия по родам их: Гирсон и Кааф и Мерари. А лет жизни
+      Левия было сто тридцать семь."
+    chapter: 6
+    chapterId: 56
+    parallels:
+      - verseId: 10927
+        bookId: 1
+        bookCode: bytie
+        chapter: 46
+        short: Быт:46:11
+      - verseId: 11955
+        bookId: 4
+        bookCode: cisla
+        chapter: 3
+        short: Чис:3:17
+      - verseId: 11837
+        bookId: 4
+        bookCode: cisla
+        chapter: 26
+        short: Чис:26:57
+      - verseId: 3384
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 6
+        short: 1 Пар:6:1
+      - verseId: 3399
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 6
+        short: 1 Пар:6:16
+      - verseId: 3085
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 23
+        short: 1 Пар:23:6
+    translates:
+      kassian: ""
+      podstr: И эти имена сыновей Левия согласно родства их; Гедсон, Кааф и Мерари; и
+        лет жизни Левия сто тридцать семь.
+      csya: "И сия имена сынов левииных по сродством их: гирсон, кааф и мерари: лет же
+        жития левиина сто тридесять седмь."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# сі‰ и3менA сынHвъ леvjиныхъ по сродствHмъ и4хъ: гирсHнъ, каafъ и3
+        мерaрі: лётъ же житіS леvjина сто2 три1десzть се1дмь."
+      sovr_rbo: "Вот имена сыновей Левия, в порядке старшинства: Гершон, Кехат и
+        Мерари. (Левий прожил сто тридцать семь лет.)"
+      latin: "Et haec nomina filiorum Levi per cognationes suas: Gerson, et Caath, et
+        Merari. Anni autem vitae Levi fuerunt centum triginta septem."
+      ukr: "А оце імена синів Левієвих за їхніми родинами: Ґершон, і Кегат, і Мерарі.
+        А літа життя Левієвого сто і тридцять і сім літ."
+      nkjv: "These are the names of the sons of Levi according to their generations:
+        Gershon, Kohath, and Merari. And the years of the life of Levi were one
+        hundred and thirty-seven."
+      desnitsky: ""
+      mt: ‫    וְאֵלֶּה שְׁמוֹת בְּנֵי־לֵוִי לְתֹלְדֹתָם גֵּרְשׁוֹן וּקְהָת וּמְרָרִי
+        וּשְׁנֵי חַיֵּי לֵוִי שֶׁבַע וּשְׁלֹשִׁים וּמְאַת שָׁנָה׃ ‬
+      romana: "Iar numele fiilor lui Levi, insirati cum s-au nascut, sunt acestea:
+        Gherson, Cahat si Merari. Iar anii vietii lui Levi au fost o suta
+        treizeci si sapte."
+      francais: "Voici les noms des fils de Lévi, avec leur postérité: Guerschon,
+        Kehath et Merari. Les années de la vie de Lévi furent de cent
+        trente-sept ans. -"
+      italian: "Questi sono i nomi dei figli di Levi secondo le loro generazioni:
+        Gherson, Keat, Merari. Ora gli anni della vita di Levi furono
+        centotrentasette."
+      old_georgian: "და ესე სახლები არს ძეთა ლევისთა ნათესავებისაებრ მათისა: გეთსონ და
+        კაათ და მერარი, და წელნი ცხორებისა ლევისნი ასოცდაათჩჳდმეტ წელ."
+      portuguese: "E estes são os nomes dos filhos de Levi, segundo as suas gerações:
+        Gérson, Coate e Merári; e os anos da vida\rde Levi foram cento e trinta
+        e sete anos."
+      polish: "Oto imiona synów Lewiego z ich rodzinami: Gerszon, Kehat i Merari.
+        Lat\rżycia Lewiego było sto trzydzieści siedem."
+      turkish: "Kayıtlarına göre Levioğulları'nın adları şunlardır: Gerşon, Kehat,
+        Merari. Levi 137 yıl yaşadı."
+      nrt: "Вот имена сыновей Левия по их родословиям: Гершон, Кааф и Мерари. Левий
+        прожил сто тридцать семь лет."
+      Macarius: "Вот имена сынов Левия по родословной их: Гирсон, Кааф и Мерари. А лет
+        жизни Левииной было сто тридцать семь."
+      serbian: "А ово су имена синова Левијевих по породицама њиховијем: Гирсон и Кат
+        и Мерарије; а Левије поживје сто и тридесет и седам година."
+      bulgarian: "Ето имената на синовете Левиеви според родовете им: Гирсон, Каат и
+        Мерари. А годините на живота Левиев бяха сто трийсет и седем."
+      deutsch: "Dies sind die Namen der Kinder Levis nach ihren Geschlechtern: Gerson,
+        Kahath, Merari. Aber Levi ward hundertsiebenunddreißig Jahre alt."
+      ukr2: Соломи не дають рабам твоїм, а цеглу, мовляв, виробляйте. А до того ще й
+        б'ють рабів твоїх; а народ твій винен.
+      ukr3: "А се ймена в синів Левієвих по родам їх: Герзон та Кегат та Мерарій; а
+        років життя Левієвого було сто і трийцять і сїм лїт."
+      bel_syomukha: "Вось імёны сыноў Лявія паводле родаў іх: Гірсон, І Кааф, І
+        Мэрары. А гадоў жыцьця Лявія было сто трыццаць сем."
+      gorsky-platonov: "И вот имена сынов Левия по родословию их: Гершонь и Кааф, и
+        Мерари; и лета жизни Левия — сто тридцать семь лет."
+      lev-khv: "А вот имена сыновей Левия по родам их: Гирсон, и Кааф, и Мерари. А лет
+        жизни Левииной было сто тридцать семь."
+      czech: "Toto jsou jmena Leviovcu podle jejich rodopisu: Gerson, Kehat a Merari.
+        Levi byl ziv sto tricet sedm let."
+      spanish: "He aquí los nombres de los hijos de Leví con sus linajes: Gersón, Caat
+        y Merarí. Vivió Leví ciento treinta y siete años."
+      st_text: "Вот имена сынов Левия по родам их: Гирсон и Кааф и Мерари. А лет жизни
+        Левия было сто тридцать семь."
+  - id: 22359
+    number: 17
+    bookId: 2
+    text: "Сыны Гирсона: Ливни и Шимеи с семействами их."
+    chapter: 6
+    chapterId: 56
+    parallels:
+      - verseId: 11956
+        bookId: 4
+        bookCode: cisla
+        chapter: 3
+        short: Чис:3:18
+      - verseId: 3400
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 6
+        short: 1 Пар:6:17
+      - verseId: 3086
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 23
+        short: 1 Пар:23:7
+    translates:
+      kassian: ""
+      podstr: "И эти сыновья Гедсона: Ловени и Семей, дома происхождения по отцовской
+        линии их."
+      csya: "Сии же сынове гирсони: ловени и семей: домове рождения их."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Сjи же сы1нове гирсw6ни: ловені2 и3 семе1й: до1мове рожде1ніz и4хъ."
+      sovr_rbo: "Сыновья Гершона: Ливни и Шими со своими родами."
+      latin: "Filii Gerson: Lobni et Semei, per cognationes suas."
+      ukr: "Сини Ґершонові: Лівні, і Шім'ї за їхніми родинами."
+      nkjv: The sons of Gershon were Libni and Shimi according to their families.
+      desnitsky: ""
+      mt: ‫    בְּנֵי גֵרְשׁוֹן לִבְנִי וְשִׁמְעִי לְמִשְׁפְּחֹתָם׃ ‬
+      romana: "Fiii lui Gherson: Libni si Simei, cu familiile lor."
+      francais: "Fils de Guerschon: Libni et Schimeï, et leurs familles. -"
+      italian: "Figli di Gherson: Libni e Simei secondo le loro famiglie."
+      old_georgian: "და ესე არიან ძენი გეთსონისნი: ლობენი და სემეი, სახლისა
+        მამათმთავართა მათისანი."
+      portuguese: "Os filhos de Gérson: Líbni e Simei, segundo as suas famílias."
+      polish: "Synowie Gerszona: Libni i Szimei, według ich rodzin."
+      turkish: "Gerşon'un oğulları boylarına göre şunlardır: Livni, Şimi."
+      nrt: Сыновьями Гершона, по кланам, были Ливни и Шимей.
+      Macarius: "Сыны Гирсоновы: Ливни и Шимеи с племенами своими."
+      serbian: "А ово су синови Гирсонови: Ловеније и Семеј по породицама својим."
+      bulgarian: "Синове Гирсонови: Ливни и Шимеи със семействата им."
+      deutsch: "Die Kinder Gersons sind diese: Libni und Simei nach ihren
+        Geschlechtern."
+      ukr2: "А він і каже: Ліниві ви, ліниві! Тому то й верзете: Підемо принести
+        жертву Господеві."
+      ukr3: "Сини ж Герзонові: Лібнїй та Симей з семями їх."
+      bel_syomukha: "Сыны Гірсона: Ліўні і Шымэі зь сямействамі іхнімі."
+      gorsky-platonov: "Сыны Гершона: Ливни и Шими с племенами своими."
+      lev-khv: "А сыновья Гирсона: Ливни и Шимеи по семействам их."
+      czech: "Gersonovci: Libni a Simei podle svych celedi."
+      spanish: "Hijos de Gersón: Lobni y Semeí, con sus generaciones."
+      st_text: "Сыны Гирсона: Ливни и Шимеи с семействами их."
+  - id: 22360
+    number: 18
+    bookId: 2
+    text: "Сыны Каафовы: Амрам и Ицгар, и Хеврон, и Узиил. А лет жизни Каафа было
+      сто тридцать три года."
+    chapter: 6
+    chapterId: 56
+    parallels:
+      - verseId: 11957
+        bookId: 4
+        bookCode: cisla
+        chapter: 3
+        short: Чис:3:19
+      - verseId: 11452
+        bookId: 4
+        bookCode: cisla
+        chapter: 16
+        short: Чис:16:1
+      - verseId: 3401
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 6
+        short: 1 Пар:6:18
+      - verseId: 3091
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 23
+        short: 1 Пар:23:12
+    translates:
+      kassian: ""
+      podstr: "И сыновья Каафа: Амврам и Иссаар, Хеврон и Озиил; и лет жизни Каафа сто
+        тридцать лет."
+      csya: "Сынове же каафовы: амврам и иссаар, хеврон и озиил: лет же жития каафова
+        сто тридесять три."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Сы1нове же каafwвы: ґмврaмъ и3 їссаaръ, хеврHнъ и3 nзіи1лъ: лётъ же
+        житіS каafова сто2 три1десzть три2."
+      sovr_rbo: "Сыновья Кехата: Амрам, Ицхар, Хеврон и Уззиэл. (Кехат прожил сто
+        тридцать три года.)"
+      latin: "Filii Caath: Amram, et Isaar, et Hebron, et Oziel; anni quoque vitae
+        Caath, centum triginta tres."
+      ukr: "А сини Кегатові: Амрам, і Їцгар, і Хеврон, і Уззіїл. А літа життя
+        Кегатового сто і тридцять і три роки."
+      nkjv: And the sons of Kohath were Amram, Izhar, Hebron, and Uzziel. And the
+        years of the life of Kohath were one hundred and thirty-three.
+      desnitsky: ""
+      mt: ‫    וּבְנֵי קְהָת עַמְרָם וְיִצְהָר וְחֶבְרוֹן וְעֻזִּיאֵל וּשְׁנֵי חַיֵּי
+        קְהָת שָׁלֹשׁ וּשְׁלֹשִׁים וּמְאַת שָׁנָה׃ ‬
+      romana: "Fiii lui Cahat: Amram, Ithar, Hebron si Uziel. Iar anii vietii lui
+        Cahat au fost o suta treizeci si trei de ani."
+      francais: "Fils de Kehath: Amram, Jitsehar, Hébron et Uziel. Les années de la
+        vie de Kehath furent de cent trente-trois ans. -"
+      italian: "Figli di Keat: Amran, Isear, Ebron e Uzziel. Ora gli anni della vita
+        di Keat furono centotrentatré."
+      old_georgian: "და ძენი კათისნი: ამბრამ და ისაჰრ, ქებრონ და ოზიელ. და წელნი
+        ცხორებისა კაათისნი ასოცდაათსამეტ წელ."
+      portuguese: "Os filhos de Coate: Anrão, Izar, Hebrom e Uziel; e os anos da vida
+        de Coate foram cento e trinta e três anos."
+      polish: "Synowie Kehata: Amram i Jishar, Chebron i Uzzjel. Lat życia Kehata
+        było\rsto trzydzieści trzy."
+      turkish: "Kehat'ın oğulları: Amram, Yishar, Hevron, Uzziel. Kehat 133 yıl yaşadı."
+      nrt: Сыновьями Каафа были Амрам, Ицгар, Хеврон и Узиил. Кааф прожил сто тридцать
+        три года.
+      Macarius: "Сыны Каафовы: Амрам, Ицгар, Хеврон и Узиил. А лет жизни Каафовой было
+        сто тридцать три года."
+      serbian: "А синови Катови: Амрам и Исар и Хеврон и Озило; а Кат поживје сто и
+        тридесет и три године."
+      bulgarian: "Синове Каатови: Амрам и Ицхар, Хеврон и Узиил. А годините на
+        Каатовия живот бяха сто трийсет и три."
+      deutsch: "Die Kinder Kahaths sind diese: Amram, Jizhar, Hebron, Usiel. Kahath
+        aber ward hundertdreiunddreißig Jahre alt."
+      ukr2: А зараз забирайтеся до праці; соломи вам не даватимуть, а цегли, скільки
+        визначено - постачайте.
+      ukr3: "Сини ж Кегатові: Амрам та Їзгар, та Геброн та Узієль; віку ж Кегатового
+        було сто і трийцять і три годи."
+      bel_syomukha: "Сыны Каафавыя: Амрам і Іцгар, і Хэўрон і Узііл. А гадоў жыцьця
+        Каафа было сто трыццаць тры гады."
+      gorsky-platonov: "И сыны Каафа: Амрам и Ицгар, и Хеврон и Уззиель; и лета жизни
+        Каафа — сто тридцать три года."
+      lev-khv: "А сыновья Каафовы: Амрам, и Ицгар, и Хеврон, и Узиил. А лет жизни
+        Каафовой было сто тридцать три года."
+      czech: "Kehatovci: Amram, Jishar, Chebron a Uziel. Kehat byl ziv sto tricet tri
+        leta."
+      spanish: "Hijos de Caat: Amram, Jishar, Hebrón y Oziel. Vivió Caat ciento
+        treinta y tres años."
+      st_text: "Сыны Каафовы: Амрам и Ицгар, и Хеврон, и Узиил. А лет жизни Каафа было
+        сто тридцать три года."
+  - id: 22361
+    number: 19
+    bookId: 2
+    text: "Сыны Мерари: Махли и Муши. Это семейства Левия по родам их."
+    chapter: 6
+    chapterId: 56
+    parallels:
+      - verseId: 12254
+        bookId: 4
+        bookCode: cisla
+        chapter: 4
+        short: Чис:4:20
+      - verseId: 11837
+        bookId: 4
+        bookCode: cisla
+        chapter: 26
+        short: Чис:26:57
+      - verseId: 1058
+        bookId: 15
+        bookCode: 1a-kniga-ezdry
+        chapter: 8
+        short: 1 Езд:8:18
+    translates:
+      kassian: ""
+      podstr: "И сыновья Мерари: Мооли и Омуси. Эти дома происхождений по отцовской
+        линии Левия согласно родства их."
+      csya: "Сынове же мерарины: мооли и омуси: сии домове рождения левиина по
+        сродством их."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Сы1нове же мер†ріны: моолі2 и3 nмусі2: сjи до1мове рожде1ніz леvjина
+        по сродствHмъ и4хъ."
+      sovr_rbo: "Сыновья Мерари: Махли и Муши. Таковы роды левитов, в порядке
+        старшинства."
+      latin: "Filii Merari: Moholi et Musi: hae cognationes Levi per familias suas."
+      ukr: "А сини Мерарі: Махлі та Муші. Оце родини Левієві за їхніми родами."
+      nkjv: The sons of Merari were Mahali and Mushi. These are the families of Levi
+        according to their generations.
+      desnitsky: ""
+      mt: ‫    וּבְנֵי מְרָרִי מַחְלִי וּמוּשִׁי אֵלֶּה מִשְׁפְּחֹת הַלֵּוִי
+        לְתֹלְדֹתָם׃ ‬
+      romana: "Fiii lui Merari: Mahli si Musi. Acesta este neamul lui Levi, dupa
+        familiile lui."
+      francais: "Fils de Merari: Machli et Muschi. -Ce sont là les familles de Lévi,
+        avec leur postérité."
+      italian: "Figli di Merari: Macli e Musi; queste sono le famiglie di Levi secondo
+        le loro generazioni."
+      old_georgian: "და ძენი მერარისნი: მოოლი და ომუსი, ესე სახლისა მამათმთავართა
+        ლევისნი ნათესავად-ნათესავადი მათი."
+      portuguese: "Os filhos de Merari: Mali e Musi; estas são as famílias de Levi,
+        segundo as suas gerações."
+      polish: "Synowie Merariego: Machli i Muszi. Oto rodziny Lewiego według ich
+        rodowodów."
+      turkish: "Merari'nin oğulları: Mahli, Muşi. Kayıtlarına göre Levi boyları
+        bunlardır."
+      nrt: Сыновьями Мерари были Махли и Муши. Это – кланы Левия по родословиям.
+      Macarius: "Сыны Мерари: Махли и Муши. Вот племена Левии по родословию его."
+      serbian: "А синови Мераријеви: Молија и Мусија. То су породице Левијеве по
+        лозама својим."
+      bulgarian: "Синове Мерариеви: Махли и Муши. Това са семейства Левиеви според
+        родовете им."
+      deutsch: "Die Kinder Merari sind diese: Maheli und Musi. Das sind die
+        Geschlechter Levis nach ihrer Abstammung."
+      ukr2: "Побачили доглядачі ізраїльські, що з ними погано, коли такий наказ: не
+        зменшувати щоденного числа у виробі цегли."
+      ukr3: "Сини ж Мерарієві: Махлїй та Мусїй; се семї Левієві по родах їх."
+      bel_syomukha: "Сыны Мэрары: Махлі і Мушы. Гэта сямействы Лявія паводле родаў іхніх."
+      gorsky-platonov: "И сыны Мерари: Махли и Муши; это племена Левия по родословию их."
+      lev-khv: "А сыновья Мерари: Махли и Муши. Это семейства Левии по родам их."
+      czech: "Merariovci: Machli a Musi. To jsou levijske celedi podle jejich
+        rodopisu."
+      spanish: "Hijos de Merarí: Majli y Musi. Estos son los linajes de los levitas
+        según sus familias."
+      st_text: "Сыны Мерари: Махли и Муши. Это семейства Левия по родам их."
+  - id: 22362
+    number: 20
+    bookId: 2
+    text: Амрам взял Иохаведу, тетку свою, себе в жену, и она родила ему Аарона и
+      Моисея [и Мариам, сестру их]. А лет жизни Амрама было сто тридцать семь.
+    chapter: 6
+    chapterId: 56
+    parallels:
+      - verseId: 21543
+        bookId: 2
+        bookCode: ishod
+        chapter: 2
+        short: Исх:2:1
+      - verseId: 21544
+        bookId: 2
+        bookCode: ishod
+        chapter: 2
+        short: Исх:2:2
+      - verseId: 11839
+        bookId: 4
+        bookCode: cisla
+        chapter: 26
+        short: Чис:26:59
+      - verseId: 3386
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 6
+        short: 1 Пар:6:3
+      - verseId: 3092
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 23
+        short: 1 Пар:23:13
+      - verseId: 13892
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 7
+        short: Деян:7:20
+      - verseId: 14635
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 11
+        short: Евр:11:23
+    translates:
+      kassian: ""
+      podstr: И взял Амврам Иохаведь дочь брата отца его себе в жену, и она родила ему
+        Аарона и Моисея и Мариам сестру их; же лет жизни Амврама сто тридцать
+        два года.
+      csya: "И поя амврам иохаведу, дщерь брата отца своего, себе в жену, и роди ему
+        аарона и моисеа и мариамь сестру их: лет же жития амврамова сто
+        тридесять седмь."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# поS ґмврaмъ їwхаве1ду, дще1рь брaта nтцA своегw2, себЁ въ женY, и3
+        роди2 є3мY ґарHна и3 мwmсе1а и3 маріaмь сестрY и4хъ: лётъ же житіS
+        ґмврaмова сто2 три1десzть се1дмь."
+      sovr_rbo: "Амрам взял в жены Иохевед, свою тетку. Она родила ему сыновей: Аарона
+        и Моисея. (Амрам прожил сто тридцать семь лет.)"
+      latin: "Accepit autem Amram uxorem Jochabed patruelem suam: quae peperit ei
+        Aaron et Moysen. Fueruntque anni vitae Amram, centum triginta septem."
+      ukr: І взяв Амрам свою тітку Йохевед собі за жінку, і вона породила йому Аарона
+        та Мойсея. А літа життя Амрамового сто і тридцять і сім літ.
+      nkjv: "Now Amram took for himself Jochebed, his father's sister, as wife; and
+        she bore him Aaron and Moses. And the years of the life of Amram were
+        one hundred and thirty-seven. "
+      desnitsky: ""
+      mt: ‫    וַיִּקַּח עַמְרָם אֶת־יוֹכֶבֶד דֹּדָתוֹ לוֹ לְאִשָּׁה וַתֵּלֶד לוֹ
+        אֶת־אַהֲרֹן וְאֶת־מֹשֶׁה וּשְׁנֵי חַיֵּי עַמְרָם שֶׁבַע וּשְׁלֹשִׁים
+        וּמְאַת שָׁנָה׃ ‬
+      romana: Amram insa a luat de femeie pe Iochebed, fata unchiului sau, si aceasta
+        i-a nascut pe Aaron si pe Moise, precum si pe Mariam, sora lor. Iar anii
+        vietii lui Amram au fost o suta treizeci si sapte de ani.
+      francais: Amram prit pour femme Jokébed, sa tante; et elle lui enfanta Aaron, et
+        Moïse. Les années de la vie d'Amram furent de cent trente-sept ans. -
+      italian: Amram prese in moglie Iochebed, sua zia, la quale gli partorì Aronne e
+        Mosè. Ora gli anni della vita di Amram furono centotrentasette.
+      old_georgian: "და მოიყუანა ამბრაამ იოქაბედ, ასული მამის ძმისა თჳსისა, თავისა
+        თჳსისა ცოლად და უშვნა მას: აჰრონ, და მოსე და მარიამ, დაჲ მათი, ხოლო
+        წელნი ცხორებისა ამბრამისნი ასოცდაათშჳდმეტ წელ."
+      portuguese: "Ora, Anrão tomou por mulher a Joquebede, sua tia; e ela lhe deu
+        Arão e Moisés; e os anos da vida de Anrão\rforam cento e trinta e sete
+        anos."
+      polish: "Amram wziął za żonę ciotkę swoją, Jokebed, która mu urodziła Aarona
+        i\rMojżesza. Lat życia Amrama było sto trzydzieści siedem."
+      turkish: "Amram halası Yokevet'le evlendi. Yokevet ona Harun'la
+        Musa'yı\rdoğurdu. Amram 137 yıl yaşadı."
+      nrt: Амрам был женат на Иохеведе, сестре своего отца, которая родила ему Аарона
+        и Моисея. Амрам прожил сто тридцать семь лет.
+      Macarius: Амрам взял Иохаведу, тетку свою, себе в жену; и она родила ему Аарона
+        и Моисея. А лет жизни Амрамовой было сто тридцать семь.
+      serbian: А Амрам се ожени Јохаведом, братучедом својом, и она му роди Арона и
+        Мојсија. А поживје Амрам сто и тридесет и седам година.
+      bulgarian: Амрам взе леля си Иохаведа за жена, и тя му роди Аарона и Моисея (и
+        сестра им Мариам). А годините на живота Амрамов бяха сто трийсет и
+        седем.
+      deutsch: Und Amram nahm seine Muhme Jochebed zum Weibe; die gebar ihm Aaron und
+        Mose. Aber Amram ward hundertsiebenunddreißig Jahre alt.
+      ukr2: Та саме як виходили вони від фараона, спіткались із Мойсеєм та Ароном, що
+        стояли там, ждучи їх;
+      ukr3: І взяв Амрам Йохабеду, дочку брата батька свого, собі за жінку, і вродила
+        йому Арона та Мойсея; віку ж Амрамового було сто і трийцять і сїм років.
+      bel_syomukha: Амрам узяў Ёхавэду, цётку сваю, сабе за жонку, і яна нарадзіла яму
+        Аарона і Майсея. А гадоў жыцьця Амрама было сто трыццаць сем.
+      gorsky-platonov: И взял Амрам Иахаведу, тетку свою, себе в жену, и родила она
+        ему Аарона и Моисея; и лета жизни Амрама — сто тридцать сем лет.
+      lev-khv: И взял Амрам Иохаведу, тетку свою, себе в жену; и она родила ему Аарона
+        и Моисея. А лет жизни Амрамовой было сто тридцать семь.
+      czech: Amram si vzal za zenu Jokebedu, svou tetu. Ta mu porodila Arona a
+        Mojzise. Amram byl ziv sto tricet sedm let.
+      spanish: Amram tomó por mujer a Jocabed, que le parió a Arón y a Moisés. Vivió
+        Amram ciento treinta y siete años.
+      st_text: Амрам взял Иохаведу, тетку свою, себе в жену, и она родила ему Аарона и
+        Моисея [и Мариам, сестру их]. А лет жизни Амрама было сто тридцать семь.
+  - id: 22363
+    number: 21
+    bookId: 2
+    text: "Сыны Ицгаровы: Корей и Нефег и Зихри."
+    chapter: 6
+    chapterId: 56
+    parallels:
+      - verseId: 11452
+        bookId: 4
+        bookCode: cisla
+        chapter: 16
+        short: Чис:16:1
+    translates:
+      kassian: ""
+      podstr: "И сыновья Иссаара: Корей и Нафек и Зехри."
+      csya: "Сынове же иссааровы: коре и нафек и зехри."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Сы1нове же їссаaрwвы: коре2 и3 нафе1къ и3 зе1хрі."
+      sovr_rbo: "Сыновья Ицхара: Корей, Нефег и Зихри."
+      latin: "Filii quoque Isaar: Core, et Nepheg, et Zechri."
+      ukr: "А сини Їцгарові: Корах, і Нефеґ, і Зіхрі."
+      nkjv: The sons of Izhar were Korah, Nepheg, and Zichri.
+      desnitsky: ""
+      mt: ‫    וּבְנֵי יִצְהָר קֹרַח וָנֶפֶג וְזִכְרִי׃ ‬
+      romana: "Fiii lui Ithar: Core, Nefeg si Zicri."
+      francais: "Fils de Jitsehar: Koré, Népheg et Zicri. -"
+      italian: "Figli di Isear: Core, Nefeg e Zicri."
+      old_georgian: "და ძენი ესაარისნი: კორე და ნაფეგ და ზექრი."
+      portuguese: "Os filhos de Izar: Corá, Nofegue e Zicri."
+      polish: "Synowie Jishara: Korah, Nefeg i Zikri."
+      turkish: "Yishar'ın oğulları: Korah, Nefek, Zikri."
+      nrt: Сыновьями Ицгара были Корах, Нефег и Зихри.
+      Macarius: "Сыны Ицгаровы: Корей, Нефег и Зихри."
+      serbian: "А синови Исарови бјеху: Кореј и Нафек и Зехрија."
+      bulgarian: "Синове Ицхарови: Корей, Нефег и Зихри."
+      deutsch: "Die Kinder Jizhars sind diese: Korah, Nepheg, Sichri."
+      ukr2: "і кажуть їм: Нехай Господь розсудить та скарає вас; зробили ж бо ви нас
+        ненавидними перед фараоном та його слугами, дали ви меча їм у руки нас
+        повбивати."
+      ukr3: "Сини ж Їзгарові: Кораг та Нефег та Зихрій."
+      bel_syomukha: "Сыны Іцгаравыя: Карэй і Нэфэг і Зіхры."
+      gorsky-platonov: "И сыны Ицгара: Корей и Нефег, и Захри."
+      lev-khv: "А сыновья Ицгары: Корей, и Нефег, и Зихри."
+      czech: "Synove Jisharovi: Korach, Nefeg a Zikri."
+      spanish: "Hijos de Jishar: Coré, Nefeg y Zicri."
+      st_text: "Сыны Ицгаровы: Корей и Нефег и Зихри."
+  - id: 22364
+    number: 22
+    bookId: 2
+    text: "Сыны Узииловы: Мисаил и Елцафан и Сифри."
+    chapter: 6
+    chapterId: 56
+    parallels:
+      - verseId: 22945
+        bookId: 3
+        bookCode: levit
+        chapter: 10
+        short: Лев:10:4
+      - verseId: 11968
+        bookId: 4
+        bookCode: cisla
+        chapter: 3
+        short: Чис:3:30
+    translates:
+      kassian: ""
+      podstr: "И сыновья Озиила: Елисафан и Зетри."
+      csya: "Сынове же озииловы: мисаил и елисафан и сегри."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Сы1нове же nзіи1лwвы: місаи1лъ и3 є3лісафaнъ и3 сегрі2."
+      sovr_rbo: "Сыновья Уззиэла: Мисаил, Элцафан и Ситри."
+      latin: "Filii quoque Oziel: Misael, et Elisaphan, et Sethri."
+      ukr: "А сини Уззіїлові: Мішаїл, і Елцафан, і Сітрі."
+      nkjv: And the sons of Uzziel were Mishael, Elzaphan, and Zithri.
+      desnitsky: ""
+      mt: ‫    וּבְנֵי עֻזִּיאֵל מִישָׁאֵל וְאֶלְצָפָן וְסִתְרִי׃ ‬
+      romana: "Fiii lui Uziel: Misael, Eltafan si Sitri."
+      francais: "Fils d'Uziel: Mischaël, Eltsaphan et Sithri."
+      italian: "Figli di Uzziel: Misael, Elsafan, Sitri."
+      old_georgian: "და ძენი ოზიელისნი: მისაელ, ელისაფან და სეთრი."
+      portuguese: "Os filhos de Uziel: Misael, Elzafã e Sitri."
+      polish: "Synowie Uzzjela: Miszael, Elsafan i Sitri."
+      turkish: "Uzziel'in oğulları: Mişael, Elsafan, Sitri."
+      nrt: Сыновьями Узиила были Мисаил, Елцафан и Ситри.
+      Macarius: "Сыны Узииловы: Мисаил, Элцафан, и Сифри."
+      serbian: "А синови Озилови: Мисаило и Елисафан и Сегрија."
+      bulgarian: "Синове Узиилови: Мисаил, Елцафан и Ситри."
+      deutsch: "Die Kinder Usiels sind diese: Misael, Elzaphan, Sithri."
+      ukr2: "Тоді звернувся Мойсей до Господа й каже: Господи, чому допустив єси таке
+        лихо на цих людей! Чому ти послав мене?"
+      ukr3: "Сини ж Узієлові: Мішаель та Елзафан та Ситрій."
+      bel_syomukha: "Сыны Узіілавы: Місаіл і Элцафан і Сітры."
+      gorsky-platonov: "И сыны Уззиеля: Мишаель и Эльцафан и Сифри."
+      lev-khv: "А сыновья Узииловы: Мисаил, и Элцафан, и Сифри."
+      czech: "Synove Uzielovi: Misael, Elsafan a Sitri."
+      spanish: "Hijos de Oziel: Misael, Elisafán y Petri."
+      st_text: "Сыны Узииловы: Мисаил и Елцафан и Сифри."
+  - id: 22365
+    number: 23
+    bookId: 2
+    text: Аарон взял себе в жену Елисавету, дочь Аминадава, сестру Наассона, и она
+      родила ему Надава и Авиуда, Елеазара и Ифамара.
+    chapter: 6
+    chapterId: 56
+    parallels:
+      - verseId: 21810
+        bookId: 2
+        bookCode: ishod
+        chapter: 28
+        short: Исх:28:1
+      - verseId: 11940
+        bookId: 4
+        bookCode: cisla
+        chapter: 3
+        short: Чис:3:2
+    translates:
+      kassian: ""
+      podstr: Взял же Аарон Елизавефь дочь Аминадава сестру Наасона ему женой, и она
+        родила ему Надава и Авиуда и Елеазара и Ифамара.
+      csya: Поя же аарон елисавету, дщерь аминадавову, сестру наассонову, себе в жену,
+        и роди ему надава и авиуда, и елеазара и ифамара.
+      averincev: ""
+      ungerov: ""
+      csya_old: Поs же ґарHнъ є3лісаве1ту, дще1рь ґмінадaвову, сестрY наассHнову, себЁ
+        въ женY, и3 роди2 є3мY надaва и3 ґвіyда, и3 є3леазaра и3 їfамaра.
+      sovr_rbo: "Аарон взял в жены Элишеву, дочь Амминадава, сестру Нахшона. Она
+        родила ему сыновей: Надава, Авиуда, Элеазара и Итамара."
+      latin: Accepit autem Aaron uxorem Elisabeth filiam Aminadab, sororem Nahason,
+        quae peperit ei Nadab, et Abiu, et Eleazar, et Ithamar.
+      ukr: І взяв Аарон Елішеву, дочку Амінадавову, сестру Нахшонову, собі за жінку, і
+        вона породила йому Надава, і Авігу, і Елеазара, і Ітамара.
+      nkjv: Aaron took to himself Elisheba, daughter of Amminadab, sister of Nahshon,
+        as wife; and she bore him Nadab, Abihu, Eleazar, and Ithamar.
+      desnitsky: ""
+      mt: ‫    וַיִּקַּח אַהֲרֹן אֶת־אֱלִישֶׁבַע בַּת־עַמִּינָדָב אֲחוֹת נַחְשׁוֹן לוֹ
+        לְאִשָּׁה וַתֵּלֶד לוֹ אֶת־נָדָב וְאֶת־אֲבִיהוּא אֶת־אֶלְעָזָר
+        וְאֶת־אִיתָמָר׃ ‬
+      romana: Iar Aaron si-a luat de sotie pe Elisaveta, fata lui Aminadab si sora lui
+        Naason; aceasta i-a nascut pe Nadab si pe Abiud, pe Eleazar si pe
+        Itamar.
+      francais: Aaron prit pour femme Élischéba, fille d'Amminadab, soeur de
+        Nachschon; et elle lui enfanta Nadab, Abihu, Éléazar et Ithamar.
+      italian: Aronne prese in moglie Elisabetta, figlia di Ammina dab, sorella di
+        Nacason, dalla quale ebbe i figli Nadab, Abiu, Eleazaro e Itamar.
+      old_georgian: და მოიყუანა აჰრონ ელისაბეთ, ასული ამინადარისი და დაჲ ნაასონისი,
+        თჳსა ცოლად და უშვნა მას ნადაბ და აბიუდ და ელიეზერ და იათამარ.
+      portuguese: "Arão tomou por mulher a Eliseba, filha de Aminadabe, irmã de Nasom;
+        e ela lhe deu Nadabe, Abiú, Eleazar e\rItamar."
+      polish: "Aaron wziął za żonę Elżbietę, córkę Aminadaba, siostrę Nachszona, która
+        mu\rurodziła Nadaba, Abihu, Eleazara i Itamara."
+      turkish: Harun Nahşon'un kızkardeşi ve Amminadav'ın kızı Elişeva'yla evlendi.
+        Elişeva ona Nadav, Avihu, Elazar ve İtamar'ı doğurdu.
+      nrt: Аарон женился на Елисавете, дочери Аминадава и сестре Нахшона. Она родила
+        ему Надава и Авиуда, Элеазара и Итамара.
+      Macarius: Аарон взял себе в жену Елисавету, дочь Аминадавову, сестру Наассонову,
+        и она родила ему Надава, Авиуда, Элеазара и Ифамара.
+      serbian: А Арон се ожени Јелисаветом, кћерју Аминадавовом, сестром Насоновом; и
+        она му роди Надава и Авијуда и Елеазара и Итамара.
+      bulgarian: Аарон взе за жена Елисавета, дъщеря Аминадавова, сестра Наасонова, и
+        тя му роди Надава и Авиуда, Елеазара и Итамара.
+      deutsch: Aaron nahm zum Weibe Eliseba, die Tochter Amminadabs, Nahessons
+        Schwester; die gebar ihm Nadab, Abihu, Eleasar, Ithamar.
+      ukr2: Бо з того часу, як я ввійшов промовляти до фараона твоїм ім'ям, він по чав
+        знущатися з людей оцих; а визволити твого народу ти не визволив.
+      ukr3: І взяв Арон Елїсебу, дочку Аминадабову, сестру Нахсонову, собі за жінку; і
+        вродила йому Надаба та Абігея, Елеазара та Ітамара.
+      bel_syomukha: Аарон узяў сабе за жонку Елісавету, дачку Амінадававу, сястру
+        Наасонаву, і яна нарадзіла яму Надава і Авіуда, Элеазара і Ітамара.
+      gorsky-platonov: И взял Аарон Элишеву, дочь Аминадава, сестру Нахмона, себе в
+        жену; и она родила ему Надава, и Авиуда, Элеазара, и Ифамара.
+      lev-khv: И взял себе Аарон в жену Елисавету, дочь Аминадава, сестру Наасона; и
+        родила она ему Надава и Авиуда, Элеазара и Ифамара.
+      czech: Aron si vzal za zenu Elisebu, dceru Aminadabovu, sestru Nachsonovu. Ta mu
+        porodila Nadaba, Abihua, Eleazara a Itamara.
+      spanish: Arón tomó por mujer a Elisabet, hija de Aminadab, hermana de Najsón, la
+        cual parió a Nadab, Abiú, Eleazar e Itamar.
+      st_text: Аарон взял себе в жену Елисавету, дочь Аминадава, сестру Наассона, и
+        она родила ему Надава и Авиуда, Елеазара и Ифамара.
+  - id: 22366
+    number: 24
+    bookId: 2
+    text: "Сыны Корея: Асир, Елкана и Авиасаф: это семейства Кореевы."
+    chapter: 6
+    chapterId: 56
+    parallels:
+      - verseId: 3405
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 6
+        short: 1 Пар:6:22
+    translates:
+      kassian: ""
+      podstr: "Сыновья же Корея: Асир и Елкана и Авиасаф; эти рождённые Корея."
+      csya: "Сынове же кореовы: асир и елкана и авиасар: сия рождения кореова."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Сы1нове же коре1wвы: ґси1ръ и3 є3лканA и3 ґвіасaръ: сі‰ рождє1ніz
+        коре1wва."
+      sovr_rbo: "Сыновья Корея: Ассир, Элкана и Авиасаф. От них пошли роды Кореевы."
+      latin: "Filii quoque Core: Aser, et Elcana, et Abiasaph: hae sunt cognationes
+        Coritarum."
+      ukr: "А сини Корахові: Ассир, і Елкана, і Аваасаф, це родини Корахові."
+      nkjv: And the sons of Korah were Assir, Elkanah, and Abiasaph. These are the
+        families of the Korahites.
+      desnitsky: ""
+      mt: ‫    וּבְנֵי קֹרַח אַסִּיר וְאֶלְקָנָה וַאֲבִיאָסָף אֵלֶּה מִשְׁפְּחֹת
+        הַקָּרְחִי׃ ‬
+      romana: "Fiii lui Core: Asir, Elcana si Abiasaf. Acestea sunt familiile lui
+        Core."
+      francais: "Fils de Koré: Assir, Elkana et Abiasaph. Ce sont là les familles des
+        Korites."
+      italian: "Figli di Core: Assir, Elkana e Abiasaf; queste sono le famiglie dei
+        Coreiti."
+      old_georgian: "და ძენი კორესნი: ასერ და ელკანა და აბიასარ - ესე შობანი კორესნი."
+      portuguese: "Os filhos de Corá: Assir, Elcana e Abiasafe; estas são as famílias
+        dos coraítas."
+      polish: "Synowie Koracha: Assir, Elkana i Abiasaf. Oto rody Korachitów."
+      turkish: "Korah'ın oğulları: Assir, Elkana, Aviasaf. Korahlılar'ın boyları
+        bunlardır."
+      nrt: Сыновьями Кораха были Асир, Элкана и Авиасаф. Это – кланы Кораха.
+      Macarius: "Сыны Корея: Асир и Элкана, и Авиасаф. Вот племена Кореевы."
+      serbian: "А синови Корејеви бјеху: Асир и Елкана и Авијасар. То су породице
+        Корејеве."
+      bulgarian: "Синове Корееви: Асир, Елкана и Авиасаф: това са семейства Корееви."
+      deutsch: "Die Kinder Korah sind diese: Assir, Elkana, Abiasaph. Das sind die
+        Geschlechter der Korahiter."
+      ukr3: "Сини ж Корагові: Асир та Єлькана та Абиясаф; се семї Корагові."
+      bel_syomukha: "Сыны Карэя: Асір, Элкана і Авіясаф: гэта сямействы Карэевыя."
+      gorsky-platonov: "И сыны Корея: Ассира, и Элкана и Авиасаф: это племена Кореевы."
+      lev-khv: "А сыновья Корея: Асир, и Элкана, и Авиасаф. Это семейства Кореевы."
+      czech: "Synove Korachovi: Asir, Elkana a Abiasaf. To jsou korachovske celedi."
+      spanish: "Hijos de Coré: Aser, Elcana y Abiasaf. Estas son las familias de los
+        coreítas."
+      st_text: "Сыны Корея: Асир, Елкана и Авиасаф: это семейства Кореевы."
+  - id: 22367
+    number: 25
+    bookId: 2
+    text: Елеазар, сын Аарона, взял себе в жену <i>одну</i> из дочерей Футииловых, и
+      она родила ему Финееса. Вот начальники поколений левитских по семействам
+      их.
+    chapter: 6
+    chapterId: 56
+    parallels:
+      - verseId: 11769
+        bookId: 4
+        bookCode: cisla
+        chapter: 25
+        short: Чис:25:7
+      - verseId: 3387
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 6
+        short: 1 Пар:6:4
+    translates:
+      kassian: ""
+      podstr: И Елеазар который Аарона взял [из] дочерей Футиила ему женой, и она
+        родила ему Финееса. Эти начала происхождения по отцовской линии левитов
+        согласно рождениям их.
+      csya: "И елеазар, сын ааронов, поя от дщерей футииловых себе в жену, и роди ему
+        финееса: сия старейшинства отечества левитска по сродством их."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# є3леазaръ, сы1нъ ґарHновъ, поS t дще1рей футіи1ловыхъ себЁ въ
+        женY, и3 роди2 є3мY фінее1са: сі‰ старBйшинства nте1чества леvjтска по
+        сродствHмъ и4хъ."
+      sovr_rbo: Элеазар, сын Аарона, взял себе в жены одну из дочерей Путиэла. Она
+        родила ему сына Пинехаса. Таковы прародители левитских родов.
+      latin: "At vero Eleazar filius Aaron accepit uxorem de filiabus Phutiel: quae
+        peperit ei Phinees. Hi sunt principes familiarum Leviticarum per
+        cognationes suas."
+      ukr: А Елеазар, син Ааронів, узяв собі з дочок Путіїлових за жінку, і вона
+        породила йому Пінхаса. Оце голови батьківських домів Левітів за їхніми
+        родинами.
+      nkjv: "Eleazar, Aaron's son, took for himself one of the daughters of Putiel as
+        wife; and she bore him Phinehas. These are the heads of the fathers'
+        houses of the Levites according to their families. "
+      desnitsky: ""
+      mt: ‫    וְאֶלְעָזָר בֶּן־אַהֲרֹן לָקַח־לוֹ מִבְּנוֹת פּוּטִיאֵל לוֹ לְאִשָּׁה
+        וַתֵּלֶד לוֹ אֶת־פִּינְחָס אֵלֶּה רָאשֵׁי אֲבוֹת הַלְוִיִּם
+        לְמִשְׁפְּחֹתָם׃ ‬
+      romana: Eleazar, fiul lui Aaron, si-a luat de femeie pe una din fiicele lui
+        Putiel si aceasta i-a nascut pe Finees. Acestia sunt incepatorii
+        familiilor stramosesti ale levitilor.
+      francais: Éléazar, fils d'Aaron, prit pour femme une des filles de Puthiel; et
+        elle lui enfanta Phinées. Tels sont les chefs de famille des Lévites,
+        avec leurs familles.
+      italian: Eleazaro, figlio di Aronne, prese in moglie una figlia di Putiel, la
+        quale gli partorì Pincas. Questi sono i capi delle casate dei leviti,
+        ordinati con le loro famiglie.
+      old_georgian: და ელიაზარ, ძემან აჰრონისმან, მოიყუანა ასულთაგანი ფუტიელისთა თჳსა
+        ცოლად და უშვა მას ფინეზ. ესე მთავარნი ტომთა ლევიტელთანი მსგავსად შობისა
+        მათისა.
+      portuguese: "Eleazar, filho de Arão, tomou por mulher uma das filhas de Putiel;
+        e ela lhe deu Finéias; estes são os chefes das\rcasa, paternas dos
+        levitas, segundo as suas famílias."
+      polish: "Eleazar, syn Aarona, wziął za żonę jedną z córek Putiela, i ona
+        urodziła mu\rPinchasa. To są głowy rodów lewickich według ich rodzin."
+      turkish: Harun'un oğlu Elazar Putiel'in kızlarından biriyle evlendi. Karısı ona
+        Pinehas'ı doğurdu. Boylarına göre Levili aile önderleri bunlardır.
+      nrt: Элеазар, сын Аарона, женился на одной из дочерей Футиила, и она родила ему
+        Пинехаса. Это главы левитских родов по кланам.
+      Macarius: Элеазар, сын Ааронов, взял себе в жену одну из дочерей Футииловых; и
+        она родила ему Финееса. Вот начальники поколений Левитских по их
+        племенам.
+      serbian: И Елеазар, син Аронов, ожени се једном од кћери Футиловијех, и она му
+        роди Финеса. То су поглавице између отаца Левитских по својим
+        породицама.
+      bulgarian: Елеазар, син Ааронов, взе за жена една от дъщерите Футиилови, и тя му
+        роди Финееса. Това са началниците на левитските поколения според
+        семействата им.
+      deutsch: Eleasar aber, Aarons Sohn, der nahm von den Töchtern Putiels ein Weib;
+        die gebar ihm Pinehas. Das sind die Häupter unter den Vätern der
+        Leviten-Geschlechter.
+      ukr3: Елеазар же Ароненко узяв собі одну з дочок Путієлових, і вродила йому
+        Пинегаса. Се голови синів Левіїв по родах їх.
+      bel_syomukha: Элеазхар, сын Ааронаў, узяў сабе за жонку адну з дочак Футыілавых,
+        і яна нарадзіла яму Фінээса. Вось правадыры пакаленьняў лявіцкіх паводле
+        сямействаў іхніх.
+      gorsky-platonov: И Элеазар, сын Аарона, взял себе жену из дочерей Путиеля; и она
+        родила ему Финееса. Вот родоначальники Левиины с племенами их.
+      lev-khv: И Элеазар, сын Ааронов, взял себе жену из дочерей Футииловых; и она
+        родила ему Финееса. Вот главы поколений Левитских по семействам их.
+      czech: Eleazar, syn Aronuv, si vzal za zenu jednu z dcer Putielovych. Ta mu
+        porodila Pinchasa. To jsou predstavitele levijskych rodu podle svych
+        celedi.
+      spanish: Eleazar, hijo de Arón, tomó por mujer a una hija de Futiel, que parió a
+        Fines. Tales son los jefes de los linajes de los levitas según sus
+        familias.
+      st_text: Елеазар, сын Аарона, взял себе в жену <i>одну</i> из дочерей
+        Футииловых, и она родила ему Финееса. Вот начальники поколений левитских
+        по семействам их.
+  - id: 22368
+    number: 26
+    bookId: 2
+    text: "Аарон и Моисей, это - те, которым сказал Господь: выведите сынов
+      Израилевых из земли Египетской по ополчениям их."
+    chapter: 6
+    chapterId: 56
+    parallels:
+      - verseId: 13909
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 7
+        short: Деян:7:37
+    translates:
+      kassian: ""
+      podstr: Это Аарона и Моисея, которым сказал им Бог вывести сыновей Израиля из
+        земли Египта с силой их;
+      csya: Сей аарон и моисей, имже рече Бог извести сыны израилевы из земли
+        египетския с силою их.
+      averincev: ""
+      ungerov: ""
+      csya_old: Се1й ґарHнъ и3 мwmсе1й, и5мже рече2 бг7ъ и3звести2 сы1ны ї}лєвы и3з8
+        земли2 є3гv1петскіz съ си1лою и4хъ.
+      sovr_rbo: Это им, Аарону и Моисею, Господь повелел вывести из Египта воинство
+        сынов Израилевых.
+      latin: Iste est Aaron et Moyses, quibus praecepit Dominus ut educerent filios
+        Israel de terra Aegypti per turmas suas.
+      ukr: "Оце Аарон і Мойсей, що Господь говорив їм: Виведіть Ізраїлевих синів з
+        єгипетського краю за їхніми військовими відділами."
+      nkjv: These are the same Aaron and Moses to whom the Lord said, "Bring out the
+        children of Israel from the land of Egypt according to their armies."
+      desnitsky: ""
+      mt: ‫    הוּא אַהֲרֹן וּמֹשֶׁה אֲשֶׁר אָמַר יְהוָה לָהֶם הוֹצִיאוּ אֶת־בְּנֵי
+        יִשְׂרָאֵל מֵאֶרֶץ מִצְרַיִם עַל־צִבְאֹתָם׃ ‬
+      romana: 'Acesta este acel Aaron si acel Moise, carora Dumnezeu le-a zis:
+        "Scoateti pe fiii lui Israel din pamantul Egiptului cu ostirea lor!"'
+      francais: "Ce sont là cet Aaron et ce Moïse, à qui l'Éternel dit: Faites sortir
+        du pays d'Égypte les enfants d'Israël, selon leurs armées."
+      italian: "Sono questi quell'Aronne e quel Mosè ai quali il Signore disse: \"Fate
+        uscire dal paese d'Egitto gli Israeliti, secondo le loro schiere!\"."
+      old_georgian: ესენი არიან აჰრონ და მოსე, რომელთა ჰრქუა ღმერთმან გამოყვანებაჲ
+        ძეთა ისრაჱლისათა ეგჳპტით ძალითურთ მათით.
+      portuguese: "Estes são Arão e Moisés, aos quais o Senhor disse: Tirai os filhos
+        de Israel da terra do Egito, segundo os seus\rexércitos."
+      polish: "Oto są ci, Aaron i Mojżesz, do których właśnie rzekł Pan:
+        ”Wyprowadźcie\rsynów Izraela z Egiptu według ich zastępów”."
+      turkish: RAB'bin, «İsrailliler'i ordular halinde Mısır'dan çıkarın» dediği Harun
+        ve Musa bunlardır.
+      nrt: "Моисей и Аарон – это те, кому Господь сказал: «Выведите израильтян из
+        Египта по их воинствам»."
+      Macarius: "Вот Аарон и Моисей, которым говорил Иегова: выведите сынов Израилевых
+        из земли Египетской с полками их."
+      serbian: "То је Арон и Мојсије, којима рече Господ: Изведите синове Израиљеве из
+        земље Мисирске у четама њиховијем."
+      bulgarian: "Аарон и Моисей, те са ония, на които Господ каза: изведете синовете
+        Израилеви от Египетската земя според както са на дружини."
+      deutsch: "Das ist Aaron und Mose, zu denen der Herr sprach: Führet die Kinder
+        Israel aus Ägyptenland mit ihrem Heer."
+      ukr3: "Се той Арон та Мойсей, що їм рече Бог: Виведїть менї сини Ізрайлеві з
+        Египту по полках їх."
+      bel_syomukha: "Аарон і Майсей, гэта - тыя, каму сказаў Гасподзь: выведзіце сыноў
+        Ізраілевых зь зямлі Егіпецкай паводле рушэньняў іхніх."
+      gorsky-platonov: "Аарон и Моисей — те самые, которым сказал Иегова: выведите
+        сынов Израилевых из земли египетской, с тяжких работ их."
+      lev-khv: "Вот Аарон и Моисей, которым сказал Господь: выведите сынов Израилевых
+        из земли Египетской по ополчениям их."
+      czech: 'Z tohoto pokoleni pochazeji ten Aron a Mojzis, k nimz mluvil Hospodin:
+        "Vyvedte z egyptske zeme Izraelce serazene po oddilech."'
+      spanish: "Estos son el Arón y el Moisés, a quienes dijo Yavé: <<Sacad de Egipto
+        a los hijos de Israel, según sus escuadras>>."
+      st_text: "Аарон и Моисей, это - те, которым сказал Господь: выведите сынов
+        Израилевых из земли Египетской по ополчениям их."
+  - id: 22369
+    number: 27
+    bookId: 2
+    text: Они-то говорили фараону, царю Египетскому, чтобы вывести сынов Израилевых
+      из Египта; это - Моисей и Аарон.
+    chapter: 6
+    chapterId: 56
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Эти есть говорившие к фараону царю Египта и вывели сыновей Израиля из
+        Египта; этот Аарон и Моисей.
+      csya: "Сии суть, иже глаголаста к фараону царю египетскому, еже извести сыны
+        израилевы от земли египетския: сей аарон и моисей,"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Сjи сyть, и5же глаго1ласта къ фараHну царю2 є3гv1петскому, є4же
+        и3звести2 сы1ны ї}лєвы t земли2 є3гv1петскіz: се1й ґарHнъ и3 мwmсе1й,"
+      sovr_rbo: Это они, Моисей и Аарон, держали речь перед фараоном, царем
+        египетским, чтобы вывести сынов Израилевых из Египта.
+      latin: "Hi sunt, qui loquuntur ad Pharaonem regem Aegypti, ut educant filios
+        Israel de Aegypto: iste est Moyses et Aaron,"
+      ukr: Вони ті, що говорили до фараона, царя єгипетського, щоб вивести Ізраїлевих
+        синів з Єгипту, це Мойсей та Аарон.
+      nkjv: These are the ones who spoke to Pharaoh king of Egypt, to bring out the
+        children of Israel from Egypt. These are the same Moses and Aaron.
+      desnitsky: ""
+      mt: ‫    הֵם הַמְדַבְּרִים אֶל־פַּרְעֹה מֶלֶךְ־מִצְרַיִם לְהוֹצִיא
+        אֶת־בְּנֵי־יִשְׂרָאֵל מִמִּצְרָיִם הוּא מֹשֶׁה וְאַהֲרֹן׃ ‬
+      romana: Si acestia au spus lui Faraon, regele Egiptului, sa dea drumul fiilor
+        lui Israel din pamantul Egiptului. Acesta este acel Aaron si acesta este
+        acel Moise
+      francais: Ce sont eux qui parlèrent à Pharaon, roi d'Égypte, pour faire sortir
+        d'Égypte les enfants d'Israël. Ce sont là ce Moïse et cet Aaron.
+      italian: "Questi dissero al faraone re d'Egitto di lasciar uscire dall'Egitto
+        gli Israeliti: Sono Mosè e Aronne."
+      old_georgian: ესენი არიან, რომელნი ეტყოდეს ფარაოს, მეფესა ეგჳპტისასა, და
+        გამოიყვანეს ძენი ისრაჱლისანი ეგჳპტით. ესე არიან აჰრონ და მოსე.
+      portuguese: "Foram eles os que falaram a Faraó, rei do Egito, a fim de tirarem
+        do Egito os filhos de Israel; este Moisés e este\rArão."
+      polish: "To oni przemawiali do faraona, króla egipskiego, i wyprowadzili
+        Izraelitów z\rEgiptu: oni, Mojżesz i Aaron."
+      turkish: İsrailliler'i Mısır'dan çıkarmak için Mısır Firavunu ile konuşanlar da
+        Musa'yla Harun'dur.
+      nrt: Это они говорили с фараоном, царем Египта, чтобы вывести израильтян из
+        Египта. Это были те самые Моисей и Аарон.
+      Macarius: Они-то говорили Фараону, царю Египетскому, чтобы вывести сынов
+        Израилевых из Египта; сии суть Моисей и Аарон.
+      serbian: То су који говорише Фараону, цару Мисирском, да изведу синове Израиљеве
+        из Мисира; то је Мојсије и то је Арон.
+      bulgarian: Те именно говориха на фараона, египетския цар, да изведат синовете
+        Израилеви от Египет; това са Моисей и Аарон.
+      deutsch: Sie sind's die mit Pharao, dem König in Ägypten, redeten, daß sie die
+        Kinder Israel aus Ägypten führten, nämlich Mose und Aaron.
+      ukr3: "Се ті, що промовляли до Фараона, Египецького царя, щоб вивести сини
+        Ізрайлеві з Египецької землї: се Мойсей та Арон."
+      bel_syomukha: Яны ж і казалі фараону, цару Егіпецкаму, каб вывесьці сыноў
+        Ізраілевых зь Егіпта; гэта Майсей і Аарон.
+      gorsky-platonov: Они-то говорили с Фараоном, царем египетским, чтобы вывести
+        сынов Израиля из Египта, эти самые — Моисей и Аарон.
+      lev-khv: Они-то говорили к Фараону, царю Египетскому, чтобы вывести сынов
+        Израилевых из Египта; это Моисей и Аарон.
+      czech: Oni to byli, kdo mluvili k faraonovi, krali egyptskemu, ze maji vyvest
+        Izraelce z Egypta. To tedy byli Mojzis a Aron.
+      spanish: Ellos son los que hablaron al faraón, rey de Egipto, para sacar de
+        Egipto a los hijos de Israel, Moisés y Arón.
+      st_text: Они-то говорили фараону, царю Египетскому, чтобы вывести сынов
+        Израилевых из Египта; это - Моисей и Аарон.
+  - id: 22370
+    number: 28
+    bookId: 2
+    text: Итак в то время, когда Господь говорил Моисею в земле Египетской,
+    chapter: 6
+    chapterId: 56
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "[В этот] день сказал Господь Моисею в земле Египта,"
+      csya: в оньже день глагола Господь к моисею в земли египетстей.
+      averincev: ""
+      ungerov: ""
+      csya_old: во1ньже де1нь гlа гDь къ мwmсе1ю въ земли2 є3гv1петстэй.
+      sovr_rbo: Когда Господь, в Египте, говорил с Моисеем,
+      latin: in die qua locutus est Dominus ad Moysen, in terra Aegypti.
+      ukr: І сталося в дні, коли Господь говорив до Мойсея в єгипетськім краї,
+      nkjv: And it came to pass, on the day the Lord spoke to Moses in the land of
+        Egypt,
+      desnitsky: ""
+      mt: ‫    וַיְהִי בְּיוֹם דִּבֶּר יְהוָה אֶל־מֹשֶׁה בְּאֶרֶץ מִצְרָיִם׃ פ ‬
+      romana: Din timpul cand a grait Domnul cu Moise in tara Egiptului
+      francais: Lorsque l'Éternel parla à Moïse dans le pays d'Égypte,
+      italian: "Questo avvenne quando il Signore parlò a Mosè nel paese di Egitto:"
+      old_georgian: დღესა მას, რომელსა ეტყოდა უფალი ქუეყანასა მას ეგჳპტისასა,
+      portuguese: No dia em que o Senhor falou a Moisés na terra do Egito,
+      polish: Gdy Pan przemawiał do Mojżesza w ziemi egipskiej,
+      turkish: ""
+      nrt: Когда Господь говорил с Моисеем в Египте,
+      Macarius: Итак в то время, когда Иегова говорил Моисею в земле Египетской,
+      serbian: И кад Господ говораше Мојсију у земљи Мисирској,
+      bulgarian: И тъй, в онова време, когато Господ говори на Моисея в Египетската земя,
+      deutsch: Und des Tages redete der Herr mit Mose in Ägyptenland
+      ukr3: І сталось того дня, як Господь глаголав до Мойсея в Египецькій землї,
+      bel_syomukha: Дык вось, у той час, калі Гасподзь казаў Майсею ў зямлі Егіпецкай,
+      gorsky-platonov: В то время, когда говорил Иегова Моисею в земле египетской,
+      lev-khv: И так в то время, когда Господь говорил Моисею в земле Египетской,
+      czech: To bylo tehdy, kdyz Hospodin mluvil k Mojzisovi v egyptske zemi.
+      spanish: Cuando habló Yavé a Moisés en tierra de Egipto,
+      st_text: Итак в то время, когда Господь говорил Моисею в земле Египетской,
+  - id: 22371
+    number: 29
+    bookId: 2
+    text: "Господь сказал Моисею, говоря: Я Господь! скажи фараону, царю
+      Египетскому, всё, что Я говорю тебе."
+    chapter: 6
+    chapterId: 56
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "и сказал Господь к Моисею говоря: Я Господь; скажи к фараону царю
+        Египта сколькое Я говорю к тебе."
+      csya: "И рече Господь к моисею глаголя: аз Господь: глаголи к фараону царю
+        египетскому, елика аз глаголю к тебе."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 гDь къ мwmсе1ю гlz: ѓзъ гDь: глаго1ли къ фараHну царю2
+        є3гv1петскому, є3ли6ка ѓзъ гlю къ тебЁ."
+      sovr_rbo: "Он сказал ему: «Я Господь! Все, что Я говорю тебе, передай фараону,
+        царю египетскому». —"
+      latin: "Et locutus est Dominus ad Moysen, dicens: Ego Dominus: loquere ad
+        Pharaonem regem Aegypti, omnia quae ego loquor tibi."
+      ukr: "то казав Господь до Мойсея, говорячи: Я Господь! Говори фараонові, цареві
+        єгипетському, усе, що Я говорю тобі."
+      nkjv: that the Lord spoke to Moses, saying, "I am the Lord. Speak to Pharaoh
+        king of Egypt all that I say to you."
+      desnitsky: ""
+      mt: ‫    וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה לֵּאמֹר אֲנִי יְהוָה דַּבֵּר אֶל־פַּרְעֹה
+        מֶלֶךְ מִצְרַיִם אֵת כָּל־אֲשֶׁר אֲנִי דֹּבֵר אֵלֶיךָ׃ ‬
+      romana: 'Si i-a zis lui: "Eu sunt Domnul!" Spune lui Faraon, regele Egiptului,
+        cate-ii vorbesc Eu'
+      francais: "l'Éternel dit à Moïse: Je suis l'Éternel. Dis à Pharaon, roi
+        d'Égypte, tout ce que je te dis."
+      italian: "il Signore disse a Mosè: \"Io sono il Signore! Riferisci al faraone,
+        re d'Egitto, quanto io ti dico\"."
+      old_georgian: "და ჰრქუა: მე ვარ უფალი; ეტყოდე ფარაოს, მეფესა ეგჳპტისასა, რაოდენი
+        გრქუა შენ."
+      portuguese: "disse o Senhor a Moisés: Eu sou Jeová; dize a Faraó, rei do Egito,
+        tudo quanto eu te digo."
+      polish: "powiedział mu wtedy Pan: ”Ja jestem Pan! Powiedz faraonowi, królowi
+        egipskiemu, wszystko, co ci powiedziałem”."
+      turkish: RAB Mısır'da Musa'yla konuştuğunda, ona, «Ben RAB'bim» dedi, «Sana
+        söylediğim her şeyi Mısır Firavunu'na ilet.»
+      nrt: "Он сказал ему: – Я – Господь. Передай фараону, царю Египта, все, что Я
+        говорю тебе."
+      Macarius: "Иегова сказал Моисею: Я Иегова; скажи Фараону, царю Египетскому, все,
+        что Я говорю тебе."
+      serbian: "Рече Господ Мојсију говорећи: Ја сам Господ; кажи Фараону, цару
+        Мисирском, све што сам ти казао."
+      bulgarian: "Господ каза на Моисея и рече: Аз съм Господ. Кажи на фараона,
+        египетския цар, всичко, що ти казвам."
+      deutsch: "und sprach zu Ihm: Ich bin der Herr; rede mit Pharao, dem König in
+        Ägypten, alles, was ich mit dir rede."
+      ukr3: "Що рече Господь Мойсейові: Я Господь. Промов до Фараона, Египецького
+        царя, все, що я глаголав до тебе."
+      bel_syomukha: "Гасподзь сказаў Майсею, кажучы: Я Гасподзь! скажы фараону, цару
+        Егіпецкаму, усё, што Я кажу табе."
+      gorsky-platonov: "И сказал Иегова Моисею, говоря: Я — Иегова: говори Фараону,
+        царю египетскому, все, что Я говорю тебе:"
+      lev-khv: "Господь сказал Моисею, говоря: Я Господь. Скажи Фараону, царю
+        Египетскому, все, чтó Я говорю тебе."
+      czech: 'Hospodin promluvil k Mojzisovi: "Ja jsem Hospodin! Rekni faraonovi,
+        krali egyptskemu, vsechno, co k tobe mluvim."'
+      spanish: "dijo a Moisés: <<Yo soy Yavé; di al faraón, rey de Egipto, cuanto yo
+        te diga>>."
+      st_text: "Господь сказал Моисею, говоря: Я Господь! скажи фараону, царю
+        Египетскому, всё, что Я говорю тебе."
+  - id: 22372
+    number: 30
+    bookId: 2
+    text: "Моисей же сказал пред Господом: вот, я несловесен: как же послушает меня
+      фараон?"
+    chapter: 6
+    chapterId: 56
+    parallels:
+      - verseId: 22260
+        bookId: 2
+        bookCode: ishod
+        chapter: 4
+        short: Исх:4:10
+      - verseId: 22354
+        bookId: 2
+        bookCode: ishod
+        chapter: 6
+        short: Исх:6:12
+    translates:
+      kassian: ""
+      podstr: "И сказал Моисей перед Господом: Вот я запинающийся есть, и как услышит
+        меня фараон?"
+      csya: "И рече моисей пред Господем: се, аз худогласен есмь, и како послушает
+        мене фараон?"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 мwmсе1й пред8 гDемъ: се2, ѓзъ худоглaсенъ є4смь, и3 кaкw
+        послyшаетъ мене2 фараHнъ;"
+      sovr_rbo: «Не умею я ладно говорить, — ответил Моисей. — Разве послушается меня
+        фараон?»
+      latin: "Et ait Moyses coram Domino: En incircumcisus labiis sum, quomodo audiet
+        me Pharao?"
+      ukr: "І сказав Мойсей перед обличчям Господнім: Таж я необрізановустий! Як же
+        слухати буде мене фараон?"
+      nkjv: But Moses said before the Lord, "Behold, I am of uncircumcised lips, and
+        how shall Pharaoh heed me?"
+      desnitsky: ""
+      mt: ‫    וַיֹּאמֶר מֹשֶׁה לִפְנֵי יְהוָה הֵן אֲנִי עֲרַל שְׂפָתַיִם וְאֵיךְ
+        יִשְׁמַע אֵלַי פַּרְעֹה׃ פ ‬
+      romana: 'Iar Moise a raspuns Domnului: "Iata eu sunt greoi la vorba. Cum dar ma
+        va asculta Faraon?"'
+      francais: "Et Moïse répondit en présence de l'Éternel: Voici, je n'ai pas la
+        parole facile; comment Pharaon m'écouterait-il?"
+      italian: 'Mosè disse alla presenza del Signore: "Ecco ho la parola impacciata e
+        come il faraone vorrà ascoltarmi?".'
+      old_georgian: "და თქუა მოსე წინაშე უფლისა: აჰა ესერა, მე ჴმა-წულილ ვარ და ვითარ
+        ისმინოს ჩემი ფარაო?"
+      portuguese: "Respondeu Moisés perante o Senhor: Eis que eu sou incircunciso de
+        lábios; como, pois, me ouvirá Faraó;"
+      polish: "A Mojżesz tak się tłumaczył przed Panem: ”Oto mówienie sprawia mi
+        trudność. Jakże więc faraon zechce mię słuchać?”"
+      turkish: Musa RAB'bin huzurunda, «Ben iyi konuşan biri değilim» diye karşılık
+        verdi, «Firavun beni nasıl dinler?»
+      nrt: "Но Моисей сказал Господу: – Я так косноязычен – как же фараон послушает
+        меня?"
+      Macarius: "Моисей сказал пред Иеговою: вот, у меня уста необрезанные; как же
+        послушает меня Фараон?"
+      serbian: "И Мојсије рече пред Господом: Ево сам необрезанијех усана, па како ће
+        ме послушати Фараон?"
+      bulgarian: "А Моисей рече пред Господа: ами че аз съм заеклив, как ще ме послуша
+        фараонът?"
+      deutsch: "Und er antwortete vor dem Herrn: Siehe, ich bin von unbeschnittenen
+        Lippen; wie wird mich denn Pharao hören?"
+      ukr3: "І каже Мойсей перед Господом: Ось в мене губи не обрізані, як же
+        Фараонові та послухати мене?"
+      bel_syomukha: "А Майсей сказаў перад Госпадам: вось, я не красамоўны: як жа
+        паслухаецца мяне фараон?"
+      gorsky-platonov: "Тогда сказал Моисей пред лицем Иеговы: вот, я не обрезан
+        устами: как же послушает меня Фараон?"
+      lev-khv: "И сказал Моисей пред Господом: вот, я несловесен; как же послушает
+        меня Фараон?"
+      czech: 'Mojzis vsak Hospodinu namitl: "Nejsem zpusobily mluvit. Jak by me farao
+        poslechl?"'
+      spanish: "Y Moisés dijo a Yavé: <<Yo soy incircunciso de labios; ¿cómo va a
+        escucharme el faraón?>>"
+      st_text: "Моисей же сказал пред Господом: вот, я несловесен: как же послушает
+        меня фараон?"

@@ -1,0 +1,1128 @@
+id: 583
+number: 65
+bookId: 22
+verseCount: 20
+title: Глава 65
+verses:
+  - id: 32070
+    number: 1
+    bookId: 22
+    text: Начальнику хора. Песнь. Воскликните Богу, вся земля.
+    chapter: 65
+    chapterId: 583
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: В конец, песнь псалма воскресения.
+      averincev: ""
+      ungerov: В конец. Песнь псалма воскресения.
+      csya_old: Въ коне1цъ, пёснь pалмA воскrніz,
+      sovr_rbo: Начальнику хора. Песнь. Воскликните Богу, вся земля.
+      latin: In finem. Canticum psalmi resurrectionis. Jubilate Deo, omnis terra;
+      ukr: Уся земле, покликуйте Богові,
+      nkjv: To the Chief Musician. A Song. A Psalm. Make a joyful shout to God, all
+        the earth!
+      desnitsky: ""
+      mt: ‫   לַמְנַצֵּחַ שִׁיר מִזְמוֹר הָרִיעוּ לֵאלֹהִים כָּל־הָאָרֶץ׃ ‬
+      romana: Al lui David. Strigati lui Dumnezeu tot pamantul. Cantati numele Lui;
+        dati slava laudei Lui.
+      italian: Al maestro del coro. Canto. Salmo. Acclamate a Dio da tutta la terra,
+      old_georgian: დასასრულსა, გალობაჲ ფსალმუნისა აღდგომისათჳს
+      portuguese: Louvai a Deus com brados de júbilo, todas as terras.
+      polish: Kierownikowi chóru. Pieśń. Psalm. Sławcie Boga z radością, wszystkie
+        ziemie,
+      nrt: Дирижеру хора. Песнь. Псалом. Восклицай от радости Богу, вся земля!
+      Macarius: Начальнику хора. Песнь. Псалом [Воскресения.] Воскликни Богу, вся земля!
+      bulgarian: Началнику на хора. Песен. Възкликни към Бога, цяла земьо!
+      deutsch: Ein Psalmlied, vorzusingen. Jauchzet Gott, alle Lande!
+      ukr2: Провідникові хору. Пісня. Псалом. Воскликніте Богові, вся земле!
+      ukr3: "Проводиреві хора: пісня, псальма. В оскликнїте Господеві, всї на землї!"
+      bel_syomukha: Клікніце Богу, уся зямля.
+      czech: Pro predniho zpevaka, zalmova pisen. Hlahol Bohu, cela zeme!
+      spanish: Al maestro del coro. Cántico.
+      zertis-kamenskiy: Начальнейшему певцу песнь псалма.
+      pakazkiy: Воскликни Господу вселенна,
+      greek-lxx: εἰς τὸ τέλος ᾠδὴ ψαλμοῦ ἀναστάσεως ἀλαλάξατε τῷ Θεῷ πᾶσα ἡ γῆ
+      st_text: Начальнику хора. Песнь. Воскликните Богу, вся земля.
+  - id: 32071
+    number: 2
+    bookId: 22
+    text: Пойте славу имени Его, воздайте славу, хвалу Ему.
+    chapter: 65
+    chapterId: 583
+    parallels:
+      - verseId: 32787
+        bookId: 22
+        bookCode: psaltir
+        chapter: 99
+        short: Пс:99:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Воскликните Господеви вся земля, пойте же имени его, дадите славу хвале
+        его.
+      averincev: ""
+      ungerov: Воскликните Господу, вся земля, пойте имени Его, воздайте славу хвалою
+        Его.
+      csya_old: Воскли1кните гDеви всS землS, по1йте же и4мени є3гw2, дади1те слaву
+        хвалЁ є3гw2.
+      sovr_rbo: Пойте славу имени Его, воздайте славу, хвалу Ему.
+      latin: psalmum dicite nomini ejus; date gloriam laudi ejus.
+      ukr: виспівуйте честь Його Йменню, честь для слави Його покладіть!
+      nkjv: Sing out the honor of His name; Make His praise glorious.
+      desnitsky: ""
+      mt: ‫   זַמְּרוּ כְבוֹד־שְׁמוֹ שִׂימוּ כָבוֹד תְּהִלָּתוֹ׃ ‬
+      romana: "Ziceti lui Dumnezeu: Cat sunt de infricosatoare lucrurile Tale! Pentru
+        multimea puterii Tale, Te vor lingusi vrajmasii Tai."
+      italian: cantate alla gloria del suo nome, date a lui splendida lode.
+      old_georgian: ღაღადებდით ღმრთისა ყოველი ქუეყანა. უგალობდით სახელსა მისსა, მიეცით
+        დიდებაჲ ქებულებასა მისსა.
+      portuguese: Cantai a glória do seu nome, dai glória em seu louvor.
+      polish: opiewajcie chwałę Jego imienia, cześć Mu świetną oddajcie!
+      nrt: Пойте славу Его Имени, воздайте Ему хвалу.
+      Macarius: Воспойте славу имени Его, воздайте Ему хвалу и славу.
+      bulgarian: Възпейте славата на името Му, въздайте Му слава и хвала.
+      deutsch: Lobsinget zu Ehren seinem Namen; rühmet ihn herrlich!
+      ukr2: Співайте славу імени його, воздайте йому хвалу преславну.
+      ukr3: Сьпівайте славу імені його, звеличіть хвалу його!
+      bel_syomukha: Сьпявайце славу імю Ягонаму; гонар славе Ягонай, хвала Яму.
+      czech: Pejte zalmy k slave jeho jmena, jeho chvalu sirte chvalozpevem.
+      spanish: ¡Aclamad a Dios la tierra toda! Salmodiad la gloria de su nombre, dadle
+        la gloria de alabanza.
+      zertis-kamenskiy: Воскликните Богови вся земля, пойте славу имени Его, дадите
+        славу хвале Его.
+      pakazkiy: "Пой имя Бога своего!\rВоспой Его моя плоть бренна!\rВоспой, прослави
+        днесь Его!"
+      greek-lxx: ψάλατε δὴ τῷ ὀνόματι αὐτοῦ δότε δόξαν αἰνέσει αὐτοῦ
+      st_text: Пойте славу имени Его, воздайте славу, хвалу Ему.
+  - id: 32072
+    number: 3
+    bookId: 22
+    text: "Скажите Богу: как страшен Ты в делах Твоих! По множеству силы Твоей,
+      покорятся Тебе враги Твои."
+    chapter: 65
+    chapterId: 583
+    parallels:
+      - verseId: 36702
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 33
+        short: Втор:33:29
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Рцыте Богу: коль страшна дела твоя? во множестве силы твоея солжут тебе
+        врази твои."
+      averincev: ""
+      ungerov: "Скажите Богу: сколь грозны дела Твои! При множестве силы Твоей солгут
+        пред Тобою враги Твои."
+      csya_old: "Рцы1те бг7у: ко1ль стр†шна дэлA тво‰; во мно1жествэ си1лы твоеS
+        со1лжутъ тебЁ врази2 твои2."
+      sovr_rbo: "Скажите Богу: как страшен Ты в делах Твоих! По множеству силы Твоей,
+        покорятся Тебе враги Твои."
+      latin: "Dicite Deo: Quam terribilia sunt opera tua, Domine! in multitudine
+        virtutis tuae mentientur tibi inimici tui."
+      ukr: "Скажіть Богу: Які Твої вчинки грізні! Через силу велику Твою Твої вороги
+        піддадуться Тобі,"
+      nkjv: Say to God, "How awesome are Your works! Through the greatness of Your
+        power Your enemies shall submit themselves to You.
+      desnitsky: ""
+      mt: ‫   אִמְרוּ לֵאלֹהִים מַה־נּוֹרָא מַעֲשֶׂיךָ בְּרֹב עֻזְּךָ יְכַחֲשׁוּ לְךָ
+        אֹיְבֶיךָ׃ ‬
+      romana: Tot pamantul sa se inchine Tie si sa cante tie, sa cante numelui Tau.
+      italian: 'Dite a Dio: "Stupende sono le tue opere! Per la grandezza della tua
+        potenza a te si piegano i tuoi nemici.'
+      old_georgian: არქუთ ღმერთსა, რაბამად საშინელ არიან საქმენი შენნი; მრავლითა
+        ძალითა შენითა გეცრუვნეს შენ მტერნი შენნი.
+      portuguese: "Dizei a Deus: Quão tremendas são as tuas obras! pela grandeza do
+        teu poder te lisonjeiam os teus inimigos."
+      polish: "Powiedzcie Bogu: Jak zadziwiające są Twoje dzieła! Z powodu wielkiej
+        Twej\rmocy muszą Ci schlebiać Twoi wrogowie."
+      nrt: "Скажите Богу: «Как устрашающи Твои дела! Столь велика сила Твоя, что враги
+        Твои раболепствуют пред Тобою."
+      Macarius: "Скажите Богу: коль страшен Ты в делах Твоих, по великой силе Твоей
+        раболепствуют Тебе враги Твои!"
+      bulgarian: "Кажете Богу: колко си страшен в делата Си! Поради големината на
+        Твоята сила, ще Ти се покорят Твоите врагове."
+      deutsch: 'Sprechet zu Gott: "Wie wunderbar sind deine Werke! es wird deinen
+        Feinden fehlen vor deiner großen Macht.'
+      ukr2: "Скажіте Богові: «Які твої діла предивні! Задля великої твоєї сили
+        підлещуються до тебе твої вороги."
+      ukr3: "Кажіть Богові: як страшні дїла твої! Задля великої сили твоєї піддаються
+        тобі вороги твої, піддобруючись."
+      bel_syomukha: "Скажэце Богу: грозны Ты ў дзеях Тваіх! У вялікай сіле Тваёй
+        упакорацца Табе ворагі Твае."
+      czech: "Reknete Bohu: Jakou bazen vzbuzuji tve ciny! Pro tvoji nesmirnou moc se
+        vtiraji v tvou prizen i tvi nepratele."
+      spanish: "Decid a Dios: ¡Cuan admirables son tus obras! Por la grandeza de tu
+        poder te lisonjearán tus enemigos."
+      zertis-kamenskiy: "Рцыте Богу: коль страшна дела Твоя; за множестве силы Твоея
+        солжут Тебе врази Твои."
+      pakazkiy: "Согласно рцыте вси Владыце:\rКоль чудны суть Твои дела Во всяком роде
+        и языце,\rВ котором вера процвела!\rКакий злодей не покорится Величеству
+        Владычных сил —"
+      greek-lxx: εἴπατε τῷ Θεῷ ὡς φοβερὰ τὰ ἔργα σου ἐν τῷ πλήθει τῆς δυνάμεώς σου
+        ψεύσονταί σε οἱ ἐχθροί σου
+      st_text: "Скажите Богу: как страшен Ты в делах Твоих! По множеству силы Твоей,
+        покорятся Тебе враги Твои."
+  - id: 32073
+    number: 4
+    bookId: 22
+    text: Вся земля да поклонится Тебе и поет Тебе, да поет имени Твоему.
+    chapter: 65
+    chapterId: 583
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Вся земля да поклонится тебе и поет тебе, да поет же имени твоему, вышний.
+      averincev: ""
+      ungerov: Вся земля да поклонится Тебе и поет Тебе, да поет же имени Твоему,
+        Вышний!
+      csya_old: ВсS землS да покло1нитсz тебЁ и3 пое1тъ тебЁ, да пое1тъ же и4мени
+        твоемY, вы1шній.
+      sovr_rbo: Вся земля да поклонится Тебе и поет Тебе, да поет имени Твоему.
+      latin: Omnis terra adoret te, et psallat tibi; psalmum dicat nomini tuo.
+      ukr: вся земля буде падати до ніг Твоїх, і співати Тобі буде, оспівувати Ймення
+        Твоє! Села.
+      nkjv: All the earth shall worship You And sing praises to You; They shall sing
+        praises to Your name." Selah
+      desnitsky: ""
+      mt: ‫   כָּל־הָאָרֶץ יִשְׁתַּחֲווּ לְךָ וִיזַמְּרוּ־לָךְ יְזַמְּרוּ שִׁמְךָ
+        סֶלָה׃ ‬
+      romana: Veniti si vedeti lucrurile lui Dumnezeu, infricosator in sfaturi mai
+        mult decat fiii oamenilor.
+      italian: A te si prostri tutta la terra, a te canti inni, canti al tuo nome".
+      old_georgian: ყოველი ქუეყანაჲ თაყუანის-გცემდენ შენ და გიგალობდენ და უგალობდენ
+        სახელსა შენსა, მაღალო.
+      portuguese: Toda a terra te adorará e te cantará louvores; eles cantarão o teu nome.
+      polish: Niechaj cała ziemia Cię wielbi i niechaj śpiewa Tobie, niech imię Twoje
+        opiewa!
+      nrt: Тебе поклоняется вся земля, Тебе воспевает славу, воспевает славу Имени
+        Твоему». Пауза
+      Macarius: Вся земля да поклонится Тебе, да поет Тебе, да поет имени Твоему,
+        [Вышний!] (Села.)
+      bulgarian: Цяла земя да Ти се поклони и да Ти пее, да пее на Твоето име (Вишний)!
+      deutsch: Alles Land bete dich an und lobsinge dir, lobsinge deinem Namen." (Sela.)
+      ukr2: Уся земля нехай поклониться тобі, псалми нехай тобі співає, оспівує твоє
+        ім'я у псалмах.»
+      ukr3: Цїла земля поклониться тобі, і сьпівати ме псальми; вона сьпівати ме імені
+        твому.
+      bel_syomukha: Хай паклоніцца Табе ўся зямля і сьпявае Табе, хай сьпявае імю
+        Твайму, Усявышні!
+      czech: At se ti klani cela zeme a zpiva ti zalmy, at zpiva zalmy tvemu jmenu.
+      spanish: Póstrese toda la tierra ante ti y entone salmos a tu nombre. Selah.
+      zertis-kamenskiy: Вся земля поклонится тебе, и воспоет тебе воспоет имени твоему. Селаг.
+      pakazkiy: "Коль вся подсолнечна боится Творца блистательных светил?\rТак вся
+        земля да почитает,\rИ весь Тебя прославит свет; Хвалы Тебе да
+        сочетает,\rИ имя всяк Твое поет!"
+      greek-lxx: πᾶσα ἡ γῆ προσκυνησάτωσάν σοι καὶ ψαλάτωσάν σοι ψαλάτωσαν τῷ ὀνόματί
+        σου διάψαλμα
+      st_text: Вся земля да поклонится Тебе и поет Тебе, да поет имени Твоему.
+  - id: 32074
+    number: 5
+    bookId: 22
+    text: Придите и воззрите на дела Бога, страшного в делах над сынами
+      человеческими.
+    chapter: 65
+    chapterId: 583
+    parallels:
+      - verseId: 31772
+        bookId: 22
+        bookCode: psaltir
+        chapter: 45
+        short: Пс:45:9
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Приидите и видите дела Божия, коль страшен в советех паче сынов
+        человеческих.
+      averincev: ""
+      ungerov: "Приидите и зрите дела Божии: как Он страшен в определениях о сынах
+        человеческих."
+      csya_old: Пріиди1те и3 ви1дите дэлA б9іz, ко1ль стрaшенъ въ совётэхъ пaче сынHвъ
+        человёческихъ.
+      sovr_rbo: Придите и воззрите на дела Бога, страшного в делах над сынами
+        человеческими.
+      latin: Venite, et videte opera Dei; terribilis in consiliis super filios
+        hominum.
+      ukr: Ідіть і погляньте на Божі діла, Він грізний у ділах проти людських синів!
+      nkjv: Come and see the works of God; He is awesome in His doing toward the sons
+        of men.
+      desnitsky: ""
+      mt: ‫   לְכוּ וּרְאוּ מִפְעֲלוֹת אֱלֹהִים נוֹרָא עֲלִילָה עַל־בְּנֵי אָדָם׃ ‬
+      romana: Cel ce preface marea in uscat, prin rau vor trece cu piciorul. Acolo ne
+        vom veseli de El,
+      italian: Venite e vedete le opere di Dio, mirabile nel suo agire sugli uomini.
+      old_georgian: მოვედით და იხილენით საქმენი ღმრთისანი, ვითარ საშინელ არს
+        განზრახვათა შინა უფროს ძეთა კაცთასა,
+      portuguese: Vinde, e vede as obras de Deus; ele é tremendo nos seus feitos para
+        com os filhos dos homens.
+      polish: "Przyjdźcie i patrzcie na dzieła Boga: dokonał dziwów pośród synów
+        ludzkich!"
+      nrt: Придите, смотрите на Божьи дела, как устрашающи Его дела для сынов
+        человеческих!
+      Macarius: Приидите, зрите дела Бога, страшного в делах Своих над сынами
+        человеческими.
+      bulgarian: Дойдете и вижте делата на Бога, страшния в делата Си над синовете
+        човешки.
+      deutsch: Kommet her und sehet an die Werke Gottes, der so wunderbar ist in
+        seinem Tun unter den Menschenkindern.
+      ukr2: "Прийдіте й погляньте на вчинки Божі: діла його предивні над людськими
+        синами!"
+      ukr3: Прийдїть і погляньте на дїла Божі! Страшний він в дїлах проти синів
+        людських.
+      bel_syomukha: Прыйдзеце і гляньце на дзеі Бога, грознага ў дзеях супроць сыноў
+        чалавечых.
+      czech: Pojdte, pohledte na Bozi skutky, tim, co kona mezi lidskymi syny,
+        vzbuzuje bazen.
+      spanish: "Venid y ved las maravillas de Dios, admirables gestas en favor de los
+        hijos del hombre:"
+      zertis-kamenskiy: Приидите и видите дела Божия; страшен в деле над сыны человеческими.
+      pakazkiy: "Придите перстных поколенья, Внемлите Божиим делам,\rКоль Бог достоин
+        удивленья,\rВ Его благоволеньи к нам!"
+      greek-lxx: δεῦτε καὶ ἴδετε τὰ ἔργα τοῦ Θεοῦ φοβερὸς ἐν βουλαῖς ὑπὲρ τοὺς υἱοὺς
+        τῶν ἀνθρώπων
+      st_text: Придите и воззрите на дела Бога, страшного в делах над сынами
+        человеческими.
+  - id: 32075
+    number: 6
+    bookId: 22
+    text: Он превратил море в сушу; через реку перешли стопами, там веселились мы о
+      Нем.
+    chapter: 65
+    chapterId: 583
+    parallels:
+      - verseId: 21401
+        bookId: 2
+        bookCode: ishod
+        chapter: 14
+        short: Исх:14:21
+      - verseId: 21402
+        bookId: 2
+        bookCode: ishod
+        chapter: 14
+        short: Исх:14:22
+      - verseId: 27395
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 3
+        short: Нав:3:16
+      - verseId: 27396
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 3
+        short: Нав:3:17
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Обращаяй море в сушу, в реце пройдут ногами: тамо возвеселимся о нем,"
+      averincev: ""
+      ungerov: "Он обращает море в сушу: реку пройдут ногами, там возвеселимся о Том,"
+      csya_old: "Њбращazй мо1ре въ сyшу, въ рэцЁ про1йдутъ ногaми: тaмw возвесели1мсz
+        њ не1мъ,"
+      sovr_rbo: Он превратил море в сушу; через реку перешли стопами, там веселились
+        мы о Нем.
+      latin: Qui convertit mare in aridam, in flumine pertransibunt pede; ibi
+        laetabimur in ipso.
+      ukr: Він на суходіл змінив море, й переходили річку ногою, там раділи ми в
+        Ньому!
+      nkjv: He turned the sea into dry land; They went through the river on foot.
+        There we will rejoice in Him.
+      desnitsky: ""
+      mt: ‫   הָפַךְ יָם לְיַבָּשָׁה בַּנָּהָר יַעַבְרוּ בְרָגֶל שָׁם נִשְׂמְחָה־בּוֹ׃
+        ‬
+      romana: De Cel ce stapaneste cu puterea Sa veacul. Ochii Lui spre neamuri
+        privesc; cei ce se razvratesc, sa nu se inalte intru sine.
+      italian: Egli cambiò il mare in terra ferma, passarono a piedi il fiume; per
+        questo in lui esultiamo di gioia.
+      old_georgian: რომელი გარდააქცევს ზღუასა ჴმელად, მდინარესა წიაღჴდენ ფრჴივ; მუნ
+        ვიხარებდეთ ჩუენ მისა მიმართ,
+      portuguese: Converteu o mar em terra seca; passaram o rio a pé; ali nos
+        alegramos nele.
+      polish: "Morze na suchy ląd zamienił; pieszo przeszli przez rzekę: wielce Nim
+        się radujmy!"
+      nrt: Сушей Он сделал море, реку они перешли по суше, и там мы возрадовались о
+        Нем.
+      Macarius: Он превратил море в сушу, реку перешли ногою; там веселились мы о Нем.
+      bulgarian: Той превърна морето в суша; през реката минахме пешком; там се
+        веселихме в Него.
+      deutsch: Er verwandelt das Meer ins Trockene, daß man zu Fuß über das Wasser
+        ging; dort freuten wir uns sein.
+      ukr2: "Він обернув у сушу море; вони ріку перейшли пішки: тим то й радіймо у
+        ньому!"
+      ukr3: Він обернув море в сушу, пішки перейшли вони ріку; там ми радувались о
+        нїм.
+      bel_syomukha: "Ён мора ў сушу ператварыў: раку перайшлі нагамі; там радасьць
+        была нам у Ім."
+      czech: More obratil v sous, reku presli suchou nohou; radujme se tady z neho!
+      spanish: Él transformó el mar en tierra seca, atravesaron el río a pie enjuto.
+        Alegrémonos de ello.
+      zertis-kamenskiy: Обратил море в сушу, реку проидоша ногами; тамо возвеселихомся о Нем.
+      pakazkiy: "Для нас Он море изсушает; Рекой, как сушей нас ведет;\rИ там, и здесь
+        нас утешает"
+      greek-lxx: ὁ μεταστρέφων τὴν θάλασσαν εἰς ξηράν ἐν ποταμῷ διελεύσονται ποδί ἐκεῖ
+        εὐφρανθησόμεθα ἐπ᾿ αὐτῷ
+      st_text: Он превратил море в сушу; через реку перешли стопами, там веселились мы
+        о Нем.
+  - id: 32076
+    number: 7
+    bookId: 22
+    text: Могуществом Своим владычествует Он вечно; очи Его зрят на народы, да не
+      возносятся мятежники.
+    chapter: 65
+    chapterId: 583
+    parallels:
+      - verseId: 9574
+        bookId: 37
+        bookCode: kniga-proroka-amosa
+        chapter: 9
+        short: Ам:9:8
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "владычествующем силою своею веком: очи его на языки призираете:
+        преогорчевающии да не возносятся в себе."
+      averincev: ""
+      ungerov: "Кто силою Своею владычествует во век: очи Его на народы взирают, дабы
+        не превозносились собою люди, огорчающие (Его)."
+      csya_old: "вLчествующемъ си1лою свое1ю вёкомъ: џчи є3гw2 на kзы1ки призирaетэ:
+        преwгорчевaющіи да не возно1сzтсz въ себЁ."
+      sovr_rbo: Могуществом Своим владычествует Он вечно; очи Его зрят на народы, да
+        не возносятся мятежники.
+      latin: Qui dominatur in virtute sua in aeternum, oculi ejus super gentes
+        respiciunt; qui exasperant non exaltentur in semetipsis.
+      ukr: Він царює навіки Своєю могутністю, очі Його між народами зорять, нехай не
+        несуться відступники! Села.
+      nkjv: He rules by His power forever; His eyes observe the nations; Do not let
+        the rebellious exalt themselves. Selah
+      desnitsky: ""
+      mt: ‫   מֹשֵׁל בִּגְבוּרָתוֹ עוֹלָם עֵינָיו בַּגּוֹיִם תִּצְפֶּינָה הַסּוֹרְרִים
+        אַל־*ירימו **יָרוּמוּ לָמוֹ סֶלָה׃ ‬
+      romana: Binecuvantati neamuri pe Dumnezeul nostru si faceti sa se auda glasul
+        laudei Lui,
+      italian: Con la sua forza domina in eterno, il suo occhio scruta le nazioni; i
+        ribelli non rialzino la fronte.
+      old_georgian: რომელი-იგი უფლებს ძალითა თჳსითა საუკუნეთა. თუალნი მისნი წარმართთა
+        ხედვენ; რომელთა განამწარეს იგი, ნუ ამაღლდებიედ თავით თჳსით.
+      portuguese: Ele governa eternamente pelo seu poder; os seus olhos estão sobre as
+        nações; não se exaltem os rebeldes.
+      polish: "Jego potęga włada na wieki; oczy Jego śledzą narody: niech się
+        buntownicy\rnie podnoszą przeciw Niemu!"
+      nrt: Силой Своей Он властвует вовек, не спускает с народов глаз, чтобы мятежники
+        против Него не восстали. Пауза
+      Macarius: Могуществом Своим владычествует вечно, очи Его зрят на народы.
+        Мятежные, не дерзайте восставать! (Села.)
+      bulgarian: Със Своята мощ Той владее вечно; Неговите очи гледат над народите, да
+        се не превъзнасят бунтовниците.
+      deutsch: Er herrscht mit seiner Gewalt ewiglich; seine Augen schauen auf die
+        Völker. Die Abtrünnigen werden sich nicht erhöhen können. (Sela.)
+      ukr2: "Потугою своєю він повік володарює; очі його за народами наглядають:
+        ворохобники хай не бунтуються!"
+      ukr3: "Він царює потугою своєю на віки; очі його споглядають на народи: Щоб не
+        збунтувались ворохобники!"
+      bel_syomukha: Магутнасьцю Сваёю ўладарыць Ён вечна; вочы Ягоныя глядзяць на
+        народы, хай ня ўзносяцца бунтаўшчыкі.
+      czech: Vecne vladne svou bohatyrskou silou, pronarody sleduje svym zrakem.
+        Odbojnici at se nevyvysuji!
+      spanish: Él con su poder domina por la eternidad; sus ojos observan a las
+        gentes, a los rebeldes, para que no se levanten contra Él. Selah.
+      zertis-kamenskiy: Владычествует силою Своею во век; очи Его на языки призирают;
+        да преогорчевающии не возносятся в себе. Селаг.
+      pakazkiy: "Всемощный Царь времен и лет.\rОн мещет взоры на языки,\rДа их гордыню
+        усмирит;\rДа их неистовства велики Во агнчу кротость претворит."
+      greek-lxx: τῷ δεσπόζοντι ἐν τῇ δυναστείᾳ αὐτοῦ τοῦ αἰῶνος οἱ ὀφθαλμοὶ αὐτοῦ ἐπὶ
+        τὰ ἔθνη ἐπιβλέπουσιν οἱ παραπικραίνοντες μὴ ὑψούσθωσαν ἐν ἑαυτοῖς
+        διάψαλμα
+      st_text: Могуществом Своим владычествует Он вечно; очи Его зрят на народы, да не
+        возносятся мятежники.
+  - id: 32077
+    number: 8
+    bookId: 22
+    text: Благословите, народы, Бога нашего и провозгласите хвалу Ему.
+    chapter: 65
+    chapterId: 583
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Благословите, языцы, Бога нашего, и услышан сотворите глас хвалы его,
+      averincev: ""
+      ungerov: Благословите, народы, Бога нашего и произнесите громко хвалу Ему.
+      csya_old: Благослови1те, kзы1цы, бг7а нaшего, и3 ўслы1шанъ сотвори1те глaсъ
+        хвалы2 є3гw2,
+      sovr_rbo: Благословите, народы, Бога нашего и провозгласите хвалу Ему.
+      latin: Benedicite, gentes, Deum nostrum, et auditam facite vocem laudis ejus;
+      ukr: Благословляйте, народи, нашого Бога, і голос слави Його розголошуйте,
+      nkjv: Oh, bless our God, you peoples! And make the voice of His praise to be
+        heard,
+      desnitsky: ""
+      mt: ‫   בָּרְכוּ עַמִּים אֱלֹהֵינוּ וְהַשְׁמִיעוּ קוֹל תְּהִלָּתוֹ׃ ‬
+      romana: Care a dat sufletului meu viata si n-a lasat sa se clatine picioarele
+        mele.
+      italian: Benedite, popoli, il nostro Dio, fate risuonare la sua lode;
+      old_georgian: აკურთხევდით წარმართნი ღმერთსა ჩუენსა და სასმენელ-ყავთ ჴმაჲ ქებისა მისისა,
+      portuguese: Bendizei, povos, ao nosso Deus, e fazei ouvir a voz do seu louvor;
+      polish: Błogosławcie, ludy, naszemu Bogu i rozgłaszajcie Jego chwałę,
+      nrt: Славьте нашего Бога, народы, громко воздайте хвалу Ему.
+      Macarius: Благословите, народы, Бога нашего, возгласите хвалу Ему.
+      bulgarian: Благословете, народи, нашия Бог и възгласете Му хвала.
+      deutsch: Lobet, ihr Völker, unsern Gott; lasset seinen Ruhm weit erschallen,
+      ukr2: Благословіть, народи, нашого Бога, і возвістіть всехвальну його славу.
+      ukr3: Прославляйте, народи, Бога нашого, і голосїть хвалу його!
+      bel_syomukha: Дабраславеце, народы, Бога нашага і ўзнясеце славу Яму.
+      czech: Dobrorecte, narody, nasemu Bohu, zvucne rozhlasujte jeho chvalu.
+      spanish: Bendecid, ¡oh pueblos! a nuestro Dios; haced oír la voz de sus alabanzas.
+      zertis-kamenskiy: Благословите, людие, Бога нашего; и услышан сотворите глас хвалы Его.
+      pakazkiy: Хвалите Бога вси языки, Торжественный возвысив глас — Да имя нашего
+        Владыки Провозвестится и чрез вас!
+      greek-lxx: εὐλογεῖτε ἔθνη τὸν Θεὸν ἡμῶν καὶ ἀκουτίσασθε τὴν φωνὴν τῆς αἰνέσεως αὐτοῦ
+      st_text: Благословите, народы, Бога нашего и провозгласите хвалу Ему.
+  - id: 32078
+    number: 9
+    bookId: 22
+    text: Он сохранил душе нашей жизнь и ноге нашей не дал поколебаться.
+    chapter: 65
+    chapterId: 583
+    parallels:
+      - verseId: 6009
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 18
+        short: 2 Пар:18:31
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: положшаго душу мою в живот, и не давшаго во смятение ног моих.
+      averincev: ""
+      ungerov: Он ввел душу мою в жизнь и не дал поколебаться ногам моим.
+      csya_old: поло1жшагw дyшу мою2 въ живо1тъ, и3 не дaвшаго во смzте1ніе но1гъ мои1хъ.
+      sovr_rbo: Он сохранил душе нашей жизнь и ноге нашей не дал поколебаться.
+      latin: qui posuit animam meam ad vitam, et non dedit in commotionem pedes meos.
+      ukr: що зберіг при житті нашу душу, і не дав нозі нашій спіткнутись,
+      nkjv: Who keeps our soul among the living, And does not allow our feet to be
+        moved.
+      desnitsky: ""
+      mt: ‫   הַשָּׂם נַפְשֵׁנוּ בַּחַיִּים וְלֹא־נָתַן לַמּוֹט רַגְלֵנוּ׃ ‬
+      romana: Ca ne-ai cercetat pe noi, Dumnezeule, cu foc ne-ai lamurit pe noi,
+        precum se lamureste argintul.
+      italian: è lui che salvò la nostra vita e non lasciò vacillare i nostri passi.
+      old_georgian: რომელმან დადვა სული ჩემი ცხორებად და არა სცა ძრვა ფერჴთა ჩემთა.
+      portuguese: ao que nos conserva em vida, e não consente que resvalem os nossos pés.
+      polish: bo On obdarzył życiem naszą duszę, a nodze naszej nie dał się potknąć.
+      nrt: Он сохранил нам жизнь, и не дал нашим ногам споткнуться.
+      Macarius: Он даровал душе нашей жизнь, и не дал поколебаться ноге нашей.
+      bulgarian: Той запази живота на душата ни и не даде да се поклати ногата ни.
+      deutsch: der unsre Seelen im Leben erhält und läßt unsre Füße nicht gleiten.
+      ukr2: Він зберіг життя душі нашій, не дав, щоб похитнулися ноги наші.
+      ukr3: Він дав життє душі нашій і не допустив, щоб похитнулись ноги наші.
+      bel_syomukha: Ён жыцьцё захаваў душы нашай, і назе нашай ня даў пахіснуцца.
+      czech: Zachoval nas pri zivote, nedopustil, aby nam uklouzly nohy.
+      spanish: El ha conservado en vida nuestra alma, no ha dejado que vacilaran
+        nuestros pies.
+      zertis-kamenskiy: Иже положи души наша в живот, и не даде поползнутися ноге нашей.
+      pakazkiy: "О Боже! Ты един избавил,\rИ нас назначил к животу,\rТы паки падших
+        нас возставил И нашу утвердил пяту."
+      greek-lxx: τοῦ θεμένου τὴν ψυχήν μου εἰς ζωὴν καὶ μὴ δόντος εἰς σάλον τοὺς πόδας μου
+      st_text: Он сохранил душе нашей жизнь и ноге нашей не дал поколебаться.
+  - id: 32079
+    number: 10
+    bookId: 22
+    text: Ты испытал нас, Боже, переплавил нас, как переплавляют серебро.
+    chapter: 65
+    chapterId: 583
+    parallels:
+      - verseId: 31209
+        bookId: 22
+        bookCode: psaltir
+        chapter: 16
+        short: Пс:16:3
+      - verseId: 3595
+        bookId: 57
+        bookCode: 1oe-poslanie-ap-petra
+        chapter: 1
+        short: 1 Пет:1:7
+      - verseId: 3672
+        bookId: 57
+        bookCode: 1oe-poslanie-ap-petra
+        chapter: 4
+        short: 1 Пет:4:12
+      - verseId: 17014
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 22
+        short: Иез:22:21
+      - verseId: 24967
+        bookId: 46
+        bookCode: kniga-proroka-malahii
+        chapter: 3
+        short: Мал:3:3
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Яко искусил ны еси, Боже, разжегл ны еси, якоже разжизается сребро.
+      averincev: ""
+      ungerov: Ибо Ты испытал нас, Боже, огнем очистил нас, как огнем очищается серебро.
+      csya_old: Ћкw и3скуси1лъ ны2 є3си2, б9е, разже1глъ ны2 є3си2, ћкоже разжизaетсz
+        сребро2.
+      sovr_rbo: Ты испытал нас, Боже, переплавил нас, как переплавляют серебро.
+      latin: Quoniam probasti nos, Deus; igne nos examinasti, sicut examinatur
+        argentum.
+      ukr: бо Ти, Боже, нас випробовував, Ти нас перетопив, як срібло
+        перетоплюється...
+      nkjv: For You, O God, have tested us; You have refined us as silver is refined.
+      desnitsky: ""
+      mt: ‫   כִּי־בְחַנְתָּנוּ אֱלֹהִים צְרַפְתָּנוּ כִּצְרָף־כָּסֶף׃ ‬
+      romana: Prinsu-ne-ai pe noi in cursa; pus-ai necazuri pe umarul nostru;
+      italian: Dio, tu ci hai messi alla prova; ci hai passati al crogiuolo, come
+        l'argento.
+      old_georgian: რამეთუ გამომცადენ ჩუენ, ღმერთო, და გამომაჴურვენ ჩუენ, ვითარცა
+        გამოიჴურვების ვეცხლი.
+      portuguese: Pois tu, ó Deus, nos tens provado; tens nos refinado como se refina
+        a prata.
+      polish: Albowiem Tyś, Boże, nas doświadczył; badałeś nas ogniem, jak się bada
+        srebro.
+      nrt: Боже, Ты испытал нас, очистил, как серебро.
+      Macarius: Ты искусил нас, Боже, Ты переплавил нас, как переплавляют серебро.
+      bulgarian: Ти ни изпита, Боже, претопи ни, както се сребро претапя.
+      deutsch: Denn, Gott, du hast uns versucht und geläutert wie das Silber geläutert
+        wird;
+      ukr2: Бо ти нас випробував, Боже; перетопив нас, як перетоплюється срібло.
+      ukr3: Ти спробував нас, Боже, ти перетопив нас, як срібло перетоплюється.
+      bel_syomukha: Ты нас выпрабаваў, Божа, ператапіў нас, як топяць срэбра.
+      czech: "Ano, zkousel jsi nas, Boze, protribil jsi nas, jako se tribi stribro:"
+      spanish: Pues tú, ¡oh Dios! nos has probado, nos has probado como se prueba la
+        plata;
+      zertis-kamenskiy: Яко искусил ны еси, Боже, разжегл ны еси, якоже разжигается сребро.
+      pakazkiy: "Огнем ненастных искушений Очистить нас не пощадел;\rИ как сребро для
+        очищений Вложить в горнило восхотел."
+      greek-lxx: ὅτι ἐδοκίμασας ἡμᾶς ὁ Θεός ἐπύρωσας ἡμᾶς ὡς πυροῦται τὸ ἀργύριον
+      st_text: Ты испытал нас, Боже, переплавил нас, как переплавляют серебро.
+  - id: 32080
+    number: 11
+    bookId: 22
+    text: Ты ввел нас в сеть, положил оковы на чресла наши,
+    chapter: 65
+    chapterId: 583
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Ввел ны еси в сеть, положил еси скорби на хребте нашем.
+      averincev: ""
+      ungerov: Ввел нас в сеть, положил скорби на хребет наш.
+      csya_old: Вве1лъ ны2 є3си2 въ сёть, положи1лъ є3си2 скHрби на хребтЁ нaшемъ.
+      sovr_rbo: Ты ввел нас в сеть, положил оковы на чресла наши,
+      latin: Induxisti nos in laqueum; posuisti tribulationes in dorso nostro;
+      ukr: Ти нас до в'язниці впровадив, Ти пута поклав нам на стегна,
+      nkjv: You brought us into the net; You laid affliction on our backs.
+      desnitsky: ""
+      mt: ‫   הֲבֵאתָנוּ בַמְּצוּדָה שַׂמְתָּ מוּעָקָה בְמָתְנֵינוּ׃ ‬
+      romana: Ridicat-ai oameni pe capetele noastre, trecut-am prin foc si prin apa si
+        ne-ai scos la odihna.
+      italian: Ci hai fatti cadere in un agguato, hai messo un peso ai nostri fianchi.
+      old_georgian: შემიყვანენ ჩუენ საფრჴესა, დაჰკრიბე ჭირი ბეჭთა ჩუენთა.
+      portuguese: Fizeste-nos entrar no laço; pesada carga puseste sobre os nossos lombos.
+      polish: Pozwoliłeś nam wejść w pułapkę, włożyłeś na nasz grzbiet ciężar;
+      nrt: Ты заключил нас в неволю, возложил нам на спину бремя
+      Macarius: Ты ввел нас в сеть, положил бремя на хребет наш,
+      bulgarian: Ти ни вкара в примка, тури окови на чреслата ни,
+      deutsch: du hast uns lassen in den Turm werfen; du hast auf unsere Lenden eine
+        Last gelegt;
+      ukr2: Завів нас у тенета, поклав тяжкий тягар на наші плечі.
+      ukr3: Ти завів нас у сїти, завдав нам тяжкі оберемки на плечі наші.
+      bel_syomukha: Ты ўвёў нас у сетку, аковы паклаў нам на сьцёгны нашыя,
+      czech: zavedls nas do lovecke site, tezke bremeno jsi nam na bedra vlozil.
+      spanish: nos hiciste caer en la red, pusiste grave peso sobre nuestros lomos.
+      zertis-kamenskiy: Ввел был еси нас в сеть; возложил еси скорби на чресла наша.
+      pakazkiy: "Ты ввел нас в сети звероловов, Хребты же Наши острупил;\rСтер выи
+        тяжестью оковов."
+      greek-lxx: εἰσήγαγες ἡμᾶς εἰς τὴν παγίδα ἔθου θλίψεις ἐπὶ τὸν νῶτον ἡμῶν
+      st_text: Ты ввел нас в сеть, положил оковы на чресла наши,
+  - id: 32081
+    number: 12
+    bookId: 22
+    text: посадил человека на главу нашу. Мы вошли в огонь и в воду, и Ты вывел нас
+      на свободу.
+    chapter: 65
+    chapterId: 583
+    parallels:
+      - verseId: 31238
+        bookId: 22
+        bookCode: psaltir
+        chapter: 17
+        short: Пс:17:17
+      - verseId: 20696
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 43
+        short: Ис:43:2
+      - verseId: 12751
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 3
+        short: Дан:3:17
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Возвел еси человеки на главы нашя: проидохом сквозе огнь и воду, и извел
+        еси ны в покой."
+      averincev: ""
+      ungerov: Посадил людей на головы наши, прошли мы чрез огонь и воду, и вывел нас
+        в покой.
+      csya_old: "Возве1лъ є3си2 человёки на главы6 нaшz: проидо1хомъ сквозЁ џгнь и3
+        во1ду, и3 и3зве1лъ є3си2 ны2 въ поко1й."
+      sovr_rbo: посадил человека на главу нашу. Мы вошли в огонь и в воду, и Ты вывел
+        нас на свободу.
+      latin: imposuisti homines super capita nostra. Transivimus per ignem et aquam,
+        et eduxisti nos in refrigerium.
+      ukr: Ти їздити дав був людині по головах наших, ми ввійшли до огню й до води,
+        але на широкі місця Ти нас вивів!
+      nkjv: You have caused men to ride over our heads; We went through fire and
+        through water; But You brought us out to rich fulfillment.
+      desnitsky: ""
+      mt: ‫   הִרְכַּבְתָּ אֱנוֹשׁ לְרֹאשֵׁנוּ בָּאנוּ־בָאֵשׁ וּבַמַּיִם
+        וַתּוֹצִיאֵנוּ לָרְוָיָה׃ ‬
+      romana: Intra-voi in casa Ta cu arderi de tot, implini-voi tie fagaduintele mele,
+      italian: Hai fatto cavalcare uomini sulle nostre teste; ci hai fatto passare per
+        il fuoco e l'acqua, ma poi ci hai dato sollievo.
+      old_georgian: ავლინენ კაცნი თავთა ზედა ჩუენთა; განვლეთ ჩუენ ცეცხლი და წყალი,
+      portuguese: "Fizeste com que os homens cavalgassem sobre as nossas cabeças;
+        passamos pelo fogo e pela água, mas nos\rtrouxeste a um lugar de
+        abundância."
+      polish: "kazałeś ludziom deptać nam po głowach, przeszliśmy przez ogień i wodę:
+        ale\rwyprowadziłeś nas na wolność."
+      nrt: и позволил конникам попирать нас. Мы прошли сквозь огонь и воду, но Ты нас
+        вывел к месту изобилия.
+      Macarius: Отдал нас под ярмо человеку, мы вошли в огонь и в воду; но Ты вывел
+        нас на прохладу.
+      bulgarian: постави човек над главата ни. Влязохме в огън и вода, и Ти ни изведе
+        на свобода.
+      deutsch: "du hast Menschen lassen über unser Haupt fahren; wir sind in Feuer und
+        Wasser gekommen: aber du hast uns ausgeführt und erquickt."
+      ukr2: Ти допустив, щоб люди їздили нам по головах, - ми перейшли вогонь і воду,
+        але ти вивів нас на простір.
+      ukr3: Ти допустив, щоб люде насїли нам на шию; ми перейшли вогонь і воду; да ти
+        вивів нас на чисте поле.
+      bel_syomukha: пасадзіў чалавека на галаву нам. Мы ўвайшлі ў вагонь і ў ваду, і
+        Ты вывеў нас на волю.
+      czech: Dopustils, ze clovek nam po hlavach jezdil, sli jsme ohnem, vodou, vyvedl
+        jsi nas vsak a dal hojnost vseho.
+      spanish: Hiciste cabalgar hombres sobre nuestras cabezas. Pasamos por el fuego y
+        por el agua, pero nos sacaste a refrigerio.
+      zertis-kamenskiy: "Жжение дал еси человеком на главах наших; проидохом сквозь
+        огнь и воду: обаче извел еси ны на прохладу."
+      pakazkiy: "Главы ж в попранье уступил.\rПрошли мы сквозе огнь и воду;\rИ се
+        извел Ты нас в покой,\rИ вожделенную свободу Нам даровал Твоей рукой."
+      greek-lxx: ἐπεβίβασας ἀνθρώπους ἐπὶ τὰς κεφαλὰς ἡμῶν διήλθομεν διὰ πυρὸς καὶ
+        ὕδατος καὶ ἐξήγαγες ἡμᾶς εἰς ἀναψυχήν
+      st_text: посадил человека на главу нашу. Мы вошли в огонь и в воду, и Ты вывел
+        нас на свободу.
+  - id: 32082
+    number: 13
+    bookId: 22
+    text: Войду в дом Твой со всесожжениями, воздам Тебе обеты мои,
+    chapter: 65
+    chapterId: 583
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Вниду в дом твой со всесожжением, воздам тебе молитвы моя,
+      averincev: ""
+      ungerov: Войду в дом Твой со всесожжением, исполню пред Тобою обеты мои,
+      csya_old: Вни1ду въ до1мъ тво1й со всесожже1ніемъ, воздaмъ тебЁ моли6твы мо‰,
+      sovr_rbo: Войду в дом Твой со всесожжениями, воздам Тебе обеты мои,
+      latin: Introibo in domum tuam in holocaustis; reddam tibi vota mea
+      ukr: Увійду я до дому Твого з цілопаленнями, обіти свої Тобі виплачу ті,
+      nkjv: I will go into Your house with burnt offerings; I will pay You my vows,
+      desnitsky: ""
+      mt: ‫   אָבוֹא בֵיתְךָ בְעוֹלוֹת אֲשַׁלֵּם לְךָ נְדָרָי׃ ‬
+      romana: Pe care le-au rostit buzele mele si le-a grait gura mea, intru necazul
+        meu.
+      italian: Entrerò nella tua casa con olocausti, a te scioglierò i miei voti,
+      old_georgian: და გამომიყვანენ ჩუენ განსასუენებლად, შევიდე სახლსა შენსა
+        მსხუერპლებითა და მიგცნე შენ ლოცვანი ჩემნი,
+      portuguese: Entregarei em tua casa com holocaustos; pagar-te-ei os meus votos,
+      polish: Wejdę w Twój dom z całopaleniem i wypełnię to, co ślubowałem Tobie,
+      nrt: Я приду в Твой храм со всесожжениями и исполню свои обеты Тебе –
+      Macarius: Войду в дом Твой со всесожжениями, совершу Тебе обеты мои,
+      bulgarian: Ще вляза в Твоя дом с всесъжения, ще Ти въздам моите оброци,
+      deutsch: Darum will ich mit Brandopfern gehen in dein Haus und dir meine Gelübde
+        bezahlen,
+      ukr2: Увійду з усепаленнями в дім твій, виконаю тобі мої обіти,
+      ukr3: Увійду я в дім твій з жертвами цїлопалення, віддам тобі обітницї мої,
+      bel_syomukha: Увайду ў дом Твой з цэласпаленьнямі, аддам Табе зарукі мае,
+      czech: Vstoupim se zapalnou obeti do tveho domu, splnim ti sve sliby,
+      spanish: Entraré en tu casa con holocaustos, te cumpliré mis votos.
+      zertis-kamenskiy: Вниду [убо] в дом Твой со всесожжением; воздам Тебе обеты моя.
+      pakazkiy: Взойду в Твой дом со всесожженьем, Воздам Тебе, что обещал
+      greek-lxx: εἰσελεύσομαι εἰς τὸν οἶκόν σου ἐν ὁλοκαυτώμασιν ἀποδώσω σοι τὰς εὐχάς μου
+      st_text: Войду в дом Твой со всесожжениями, воздам Тебе обеты мои,
+  - id: 32083
+    number: 14
+    bookId: 22
+    text: которые произнесли уста мои и изрек язык мой в скорби моей.
+    chapter: 65
+    chapterId: 583
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: яже изрекосте устне мои, и глаголаша уста моя в скорби моей.
+      averincev: ""
+      ungerov: Которые изрекли уста мои, и произнес язык мой в скорби моей.
+      csya_old: ±же и3зреко1стэ ўстнЁ мои2, и3 глаго1лаша ўстA мо‰ въ ско1рби мое1й.
+      sovr_rbo: которые произнесли уста мои и изрек язык мой в скорби моей.
+      latin: quae distinxerunt labia mea; et locutum est os meum, in tribulatione mea.
+      ukr: що їх вимовили мої губи й сказали були мої уста в тісноті моїй!
+      nkjv: Which my lips have uttered And my mouth has spoken when I was in trouble.
+      desnitsky: ""
+      mt: ‫   אֲשֶׁר־פָּצוּ שְׂפָתָי וְדִבֶּר־פִּי בַּצַּר־לִי׃ ‬
+      romana: Arderi de tot grase voi aduce tie, cu tamaie si berbeci; Iti voi jertfi
+        boi si tapi.
+      italian: i voti pronunziati dalle mie labbra, promessi nel momento dell'angoscia.
+      old_georgian: რომელ აღთქუეს ბაგეთა ჩემთა, და იტყოდა პირი ჩემი ჭირსა შინა ჩემსა.
+      portuguese: votos que os meus lábios pronunciaram e a minha boca prometeu,
+        quando eu estava na angústia.
+      polish: co wymówiły moje wargi, co moje usta przyrzekły w ucisku.
+      nrt: обеты, что дали мои уста, и язык мой произнес, когда я был в беде.
+      Macarius: Которые произнесли уста мои, и изрек язык мой в тесноте моей.
+      bulgarian: които са изговорили устата ми и е изрекъл езикът ми в моята скръб.
+      deutsch: wie ich meine Lippen habe aufgetan und mein Mund geredet hat in meiner
+        Not.
+      ukr2: що прорекли мої уста, що губи мої обіцяли, коли було мені скрутно.
+      ukr3: Що уста мої слюбували, і губи мої обіцяли в тїснотї моїй.
+      bel_syomukha: якія вымавілі вусны мае і сказаў язык мой у скрусе маёй.
+      czech: jez moje rty vyslovily, jez v souzeni vyrkla moje usta.
+      spanish: Los que pronunciaron mis labios y profirió mi boca en mi angustia.
+      zertis-kamenskiy: Яже изрекоша устне мои, и глаголаша уста моя в скорби моей.
+      pakazkiy: "Что я, объятый искушеньем,\rС горячим сердцем совещал:\rЧто рек моими
+        я устами,\rИ произнес из уст моих:"
+      greek-lxx: ἃς διέστειλεν τὰ χείλη μου καὶ ἐλάλησεν τὸ στόμα μου ἐν τῇ θλίψει μου
+      st_text: которые произнесли уста мои и изрек язык мой в скорби моей.
+  - id: 32084
+    number: 15
+    bookId: 22
+    text: Всесожжения тучные вознесу Тебе с воскурением тука овнов, принесу в жертву
+      волов и козлов.
+    chapter: 65
+    chapterId: 583
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Всесожжения тучна вознесу тебе с кадилом, и овны, вознесу тебе волы с
+        козлы.
+      averincev: ""
+      ungerov: Всесожжения тучные вознесу Тебе с фимиамом и овнами, принесу Тебе волов
+        с козлами.
+      csya_old: Всесожжє1ніz т{чна вознесY тебЁ съ кади1ломъ, и3 nвны2, вознесY тебЁ
+        волы2 съ козлы6.
+      sovr_rbo: Всесожжения тучные вознесу Тебе с воскурением тука овнов, принесу в
+        жертву волов и козлов.
+      latin: Holocausta medullata offeram tibi, cum incenso arietum; offeram tibi
+        boves cum hircis.
+      ukr: Цілопалення ситих тельців піднесу Тобі з димом кадильним баранячим,
+        приготую биків із козлами. Села.
+      nkjv: I will offer You burnt sacrifices of fat animals, With the sweet aroma of
+        rams; I will offer bulls with goats. Selah
+      desnitsky: ""
+      mt: ‫   עֹלוֹת מֵחִים אַעֲלֶה־לָּךְ עִם־קְטֹרֶת אֵילִים אֶעֱשֶׂה בָקָר
+        עִם־עַתּוּדִים סֶלָה׃ ‬
+      romana: Veniti de auziti toti cei ce va temeti de Dumnezeu si va voi povesti
+        cate a facut El sufletului meu.
+      italian: Ti offrirò pingui olocausti con fragranza di montoni, immolerò a te
+        buoi e capri.
+      old_georgian: საკუერთხები ტჳნოანი შენდა შევწირო ვერძებითა და საკუმეველითა,
+        შევწირო შენდა ზუარაკები და ვაცები.
+      portuguese: Oferecer-te-ei holocausto de animais nédios, com incenso de
+        carneiros; prepararei novilhos com cabritos.
+      polish: "Złożę Ci w ofierze całopalnej tłuste owce, razem z wonią [z ofiar]
+        baranów:\rofiaruję Ci krowy i kozły."
+      nrt: Я вознесу Тебе всесожжения – дым от лучших баранов; я принесу Тебе в жертву
+        быков и козлов. Пауза
+      Macarius: Вознесу Тебе тучные всесожжения с дымящимся туком овнов, принесу в
+        жертву тельцов с козлами. (Села.)
+      bulgarian: Тлъсти всесъжения ще Ти възнеса, с кадение от овнешка тлъстина,
+        жертва ще принеса волове и козли.
+      deutsch: Ich will dir Brandopfer bringen von feisten Schafen samt dem Rauch von
+        Widdern; ich will opfern Rinder mit Böcken. (Sela.)
+      ukr2: Я принесу тобі всепальні жертви з овець тучних, разом із баранячою ситтю,
+        пожертвую волів з козлами.
+      ukr3: Як жертву всепалення, принесу тобі тучних баранів з кадилом; пожертвую
+        воли вкупі з козлами.
+      bel_syomukha: Цэласпаленьні тлустыя прынясу я Табе, з дымам ахвярным з авечага
+        лою; ахвярую валоў і казлоў.
+      czech: V obet zapalnou ti prinesu to nejtucnejsi, s obetnim dymem z beranu
+        pripravim skot i kozly.
+      spanish: Te ofreceré en holocausto víctimas pingües con perfume de carneros; te
+        sacrificaré bueyes y machos cabríos, Selah.
+      zertis-kamenskiy: Всесожжения тучна вознесу Тебе с кадилом овним; вознесу Тебе
+        волы с козлы. Села.о
+      pakazkiy: "Я туки вознесу с овнами И фимиам из рук своих;\rВолов с козлами
+        упитенных Тебе, о Господи! пожру,\rИ всех от бедствий свобожденных На
+        славословье соберу."
+      greek-lxx: ὁλοκαυτώματα μεμυαλωμένα ἀνοίσω σοι μετὰ θυμιάματος καὶ κριῶν ποιήσω
+        σοι βόας μετὰ χιμάρων διάψαλμα
+      st_text: Всесожжения тучные вознесу Тебе с воскурением тука овнов, принесу в
+        жертву волов и козлов.
+  - id: 32085
+    number: 16
+    bookId: 22
+    text: Придите, послушайте, все боящиеся Бога, и я возвещу [<i>вам</i>], что
+      сотворил Он для души моей.
+    chapter: 65
+    chapterId: 583
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Приидите, услышите, и повем вам, вси боящиися Бога, елика сотвори души
+        моей.
+      averincev: ""
+      ungerov: Приидите, послушайте, все боящиеся Бога, и я поведаю вам, что сотворил
+        Он для души моей.
+      csya_old: Пріиди1те, ўслы1шите, и3 повёмъ вaмъ, вси2 боsщіисz бг7а, є3ли6ка
+        сотвори2 души2 мое1й.
+      sovr_rbo: Придите, послушайте, все боящиеся Бога, и я возвещу [вам], что
+        сотворил Он для души моей.
+      latin: Venite, audite, et narrabo, omnes qui timetis Deum, quanta fecit animae
+        meae.
+      ukr: "Ідіть, і послухайте, всі богобійні, а я розкажу, що Він учинив для моєї
+        душі:"
+      nkjv: Come and hear, all you who fear God, And I will declare what He has done
+        for my soul.
+      desnitsky: ""
+      mt: ‫   לְכוּ־שִׁמְעוּ וַאֲסַפְּרָה כָּל־יִרְאֵי אֱלֹהִים אֲשֶׁר עָשָׂה
+        לְנַפְשִׁי׃ ‬
+      romana: Catre Dansul cu gura mea am strigat si L-am laudat cu gura mea.
+      italian: Venite, ascoltate, voi tutti che temete Dio, e narrerò quanto per me ha
+        fatto.
+      old_georgian: მოვედით, და ისმინეთ ჩემი, და გითხრა თქუენ ყოველთა მოშიშთა
+        ღმრთისათა, რაოდენი უყო სულსა ჩემსა.
+      portuguese: Vinde, e ouvi, todos os que temeis a Deus, e eu contarei o que ele
+        tem feito por mim.
+      polish: Wszyscy, co się Boga boicie, chodźcie i słuchajcie, chcę opowiedzieć, co
+        uczynił On mojej duszy!
+      nrt: Придите и слушайте, все боящиеся Бога; я расскажу о том, что Он для меня
+        совершил.
+      Macarius: Приидите, внемлите, все боящиеся Бога, я возвещу вам, что сотворил Он
+        душе моей.
+      bulgarian: Дойдете, послушайте всички, които се боите от Бога, и аз ще ви
+        разкажа, какво стори Той за душата ми.
+      deutsch: Kommet her, höret zu alle, die ihr Gott fürchtet; ich will erzählen,
+        was er an meiner Seele getan hat.
+      ukr2: Прийдіть, послухайте, усі, що боїтеся Бога; я розповім, що він душі моїй
+        учинив.
+      ukr3: Прийдїть, послухайте, всї, що боїтесь Бога, і я роскажу, що він вдїяв душі
+        моїй.
+      bel_syomukha: Прыйдзеце, паслухайце ўсе, богабаязныя, і я абвяшчу вам, што
+        стварыў Ён душы маёй.
+      czech: Pojdte, slyste, vsichni bohabojni, budu vam vypravet, co mi Buh prokazal.
+      spanish: Vosotros todos cuantos teméis a Dios, venid y escuchad, y os contaré
+        cuanto ha hecho por mí.
+      zertis-kamenskiy: Приидите, услышите, и повем вам вси боящиися Бога, елика
+        сотвори души моей.
+      pakazkiy: "Я вам среди сего восторга Во первых слово предложу,\rКоторые боитесь
+        Бога,\rВнушите, что я вам скажу! \rКоликая Господь благая,\rДуши моей
+        ниспосылал!"
+      greek-lxx: δεῦτε ἀκούσατε καὶ διηγήσομαι πάντες οἱ φοβούμενοι τὸν Θεόν ὅσα
+        ἐποίησεν τῇ ψυχῇ μου
+      st_text: Придите, послушайте, все боящиеся Бога, и я возвещу [<i>вам</i>], что
+        сотворил Он для души моей.
+  - id: 32086
+    number: 17
+    bookId: 22
+    text: Я воззвал к Нему устами моими и превознес Его языком моим.
+    chapter: 65
+    chapterId: 583
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: К нему усты моими воззвах, и вознесох под языком моим.
+      averincev: ""
+      ungerov: К Нему устами моими я воззвал, и превознес Его языком моим.
+      csya_old: Къ немY ўсты6 мои1ми воззвaхъ, и3 вознесо1хъ под8 љзы1комъ мои1мъ.
+      sovr_rbo: Я воззвал к Нему устами моими и превознес Его языком моим.
+      latin: Ad ipsum ore meo clamavi; et exaltavi sub lingua mea.
+      ukr: До Нього я кликав устами своїми, і хвали Йому під моїм язиком!
+      nkjv: I cried to Him with my mouth, And He was extolled with my tongue.
+      desnitsky: ""
+      mt: ‫   אֵלָיו פִּי־קָרָאתִי וְרוֹמַם תַּחַת לְשׁוֹנִי׃ ‬
+      romana: Nedreptate de am avut in inima mea sa nu ma auda Domnul.
+      italian: A lui ho rivolto il mio grido, la mia lingua cantò la sua lode.
+      old_georgian: მისა მიმართ პირითა ჩემითა ღაღად-ვყავ და აღვამაღლე იგი ენითა ჩემითა.
+      portuguese: A ele clamei com a minha boca, e ele foi exaltado pela minha língua.
+      polish: Do Niego wołałem moimi ustami i chwaliłem Go moim językiem.
+      nrt: Я взывал к Нему устами своими, превозносил его языком моим.
+      Macarius: Я воззвал к Нему устами моими, и языком моим прославил Его.
+      bulgarian: Виках към Него с устата си и Го превъзнесох с езика си.
+      deutsch: Zu ihm rief ich mit meinem Munde, und pries ihn mit meiner Zunge.
+      ukr2: До нього я візвав устами і звеличав його моїм язиком.
+      ukr3: До него взивав я устами моїми, і величав язиком моїм.
+      bel_syomukha: Я паклікаў Яго вуснамі маімі і ўславіў Яго языком маім.
+      czech: Svymi usty jsem volaval k nemu, svym jazykem jsem ho vyvysoval.
+      spanish: Le invocaré con mi boca, le cantaré himnos con mi lengua.
+      zertis-kamenskiy: К Нему усты моими воззвах, и вознесох Его языком моим.
+      pakazkiy: "К нему я с верой прибегая,\rВ моих прискорбиях взывал; Его устнами
+        откровенно И сердцем втай хвалил Его;"
+      greek-lxx: πρὸς αὐτὸν τῷ στόματί μου ἐκέκραξα καὶ ὕψωσα ὑπὸ τὴν γλῶσσάν μου
+      st_text: Я воззвал к Нему устами моими и превознес Его языком моим.
+  - id: 32087
+    number: 18
+    bookId: 22
+    text: Если бы я видел беззаконие в сердце моем, то не услышал бы меня Господь.
+    chapter: 65
+    chapterId: 583
+    parallels:
+      - verseId: 29553
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 15
+        short: Притч:15:29
+      - verseId: 29945
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 28
+        short: Притч:28:9
+      - verseId: 26092
+        bookId: 40
+        bookCode: kniga-proroka-mihea
+        chapter: 3
+        short: Мих:3:4
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Неправду аще узрех в сердцы моем, да не услышит мене Господь.
+      averincev: ""
+      ungerov: Если бы я узрел неправду в сердце моем, то не услышал бы меня Господь.
+      csya_old: Непрaвду ѓще ўзрёхъ въ се1рдцы мое1мъ, да не ўслы1шитъ менє2 гDь.
+      sovr_rbo: Если бы я видел беззаконие в сердце моем, то не услышал бы меня Господь.
+      latin: Iniquitatem si aspexi in corde meo, non exaudiet Dominus.
+      ukr: Коли б беззаконня я бачив у серці своїм, то Господь не почув би мене,
+      nkjv: If I regard iniquity in my heart, The Lord will not hear.
+      desnitsky: ""
+      mt: ‫   אָוֶן אִם־רָאִיתִי בְלִבִּי לֹא יִשְׁמַע אֲדֹנָי׃ ‬
+      romana: Pentru aceasta m-a auzit Dumnezeu; luat-a aminte glasul rugaciunii mele.
+      italian: Se nel mio cuore avessi cercato il male, il Signore non mi avrebbe
+        ascoltato.
+      old_georgian: სიცრუესა თუ ვხედევდ გულსა შინა ჩემსა, ნუ ისმენნ ჩემსა უფალი.
+      portuguese: Se eu tivesse guardado iniqüidade no meu coração, o Senhor não me
+        teria ouvido;
+      polish: Gdybym w mym sercu zamierzał nieprawość, Pan by mnie nie wysłuchał.
+      nrt: Если бы в сердце видел я грех, то Владыка меня бы не слушал.
+      Macarius: Если бы я видел в сердце моем беззаконие, то не услышал бы меня Господь.
+      bulgarian: Да бях видял беззаконие в сърцето си, Господ не би ме послушал.
+      deutsch: Wo ich Unrechtes vorhätte in meinem Herzen, so würde der Herr nicht
+        hören;
+      ukr2: Якби я бачив у серці моїм беззаконня, Господь мій мене не почув би.
+      ukr3: Коли б я бачив в серцї моїм беззаконнє, то Бог не почув би мене.
+      bel_syomukha: Калі б угледзеў я беззаконьне ў сэрцы маім, дык не пачуў бы мяне
+        Гасподзь.
+      czech: Kdybych se snad upnul srdcem k nicemnosti, byl by me Panovnik nevyslysel.
+      spanish: Si hubiera tenido iniquidad en mi corazón, no me hubiera escuchado el
+        Señor.
+      zertis-kamenskiy: Беззаконие аще бы узрех в сердце моем, не бы услышал Господь.
+      pakazkiy: "Так признаюся дерзновенно: Когдаб внутрь сердца моего, Скрывал каку
+        ни есть неправду, Не слышал бы меня Господь;"
+      greek-lxx: ἀδικίαν εἰ ἐθεώρουν ἐν καρδίᾳ μου μὴ εἰσακουσάτω Κύριος
+      st_text: Если бы я видел беззаконие в сердце моем, то не услышал бы меня Господь.
+  - id: 32088
+    number: 19
+    bookId: 22
+    text: Но Бог услышал, внял гласу моления моего.
+    chapter: 65
+    chapterId: 583
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Сего ради услыша мя Бог, внят гласу моления моего.
+      averincev: ""
+      ungerov: Но услышал меня Бог, внял гласу моления моего.
+      csya_old: Сегw2 рaди ўслы1ша мS бг7ъ, внsтъ глaсу моле1ніz моегw2.
+      sovr_rbo: Но Бог услышал, внял гласу моления моего.
+      latin: Propterea exaudivit Deus, et attendit voci deprecationis meae.
+      ukr: але Бог почув, і вислухав голос моєї молитви!
+      nkjv: But certainly God has heard me; He has attended to the voice of my prayer.
+      desnitsky: ""
+      mt: ‫   אָכֵן שָׁמַע אֱלֹהִים הִקְשִׁיב בְּקוֹל תְּפִלָּתִי׃ ‬
+      romana: Binecuvantat este Dumnezeu, Care n-a departat rugaciunea mea si mila Lui
+        de la mine.
+      italian: Ma Dio ha ascoltato, si è fatto attento alla voce della mia preghiera.
+      old_georgian: ამისთჳს შეისმინა ჩემი ღმერთმან და მოხედნა ჴმასა ვედრებისა ჩემისასა.
+      portuguese: mas, na verdade, Deus me ouviu; tem atendido à voz da minha oração.
+      polish: "Lecz Bóg wysłuchał: dosłyszał głos mojej modlitwy."
+      nrt: Но Бог поистине услышал меня и внял мольбе моей.
+      Macarius: Но Бог услышал, внял гласу моления моего.
+      bulgarian: Но Бог послуша, чу гласа на молбата ми.
+      deutsch: aber Gott hat mich erhört und gemerkt auf mein Flehen.
+      ukr2: Та Бог почув, він вислухав голос мого моління.
+      ukr3: Та Бог почув, він зглянувся на голос молитви моєї.
+      bel_syomukha: Але Бог пачуў, уважыў голасу маленьня майго.
+      czech: Buh vsak slysel, me modlitbe venoval pozornost.
+      spanish: Pero me oyó Dios y atendió a la voz de mi plegaria.
+      zertis-kamenskiy: Но услыша Бог и внят гласу моления моего.
+      pakazkiy: "Но ныне чувствует отраду И сердце вдруг мое и плоть — Что видяй образ
+        умилений,\rМеня услышал ныне Бог,"
+      greek-lxx: διὰ τοῦτο εἰσήκουσέν μου ὁ Θεός προσέσχεν τῇ φωνῇ τῆς δεήσεώς μου
+      st_text: Но Бог услышал, внял гласу моления моего.
+  - id: 32089
+    number: 20
+    bookId: 22
+    text: Благословен Бог, Который не отверг молитвы моей и не отвратил от меня
+      милости Своей.
+    chapter: 65
+    chapterId: 583
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Благословен Бог, иже не отстави молитву мою и милость свою от мене.
+      averincev: ""
+      ungerov: Благословен Бог, Который не отверг молитвы моей и (не отвратил) милости
+        Своей от меня!
+      csya_old: Блгcве1нъ бг7ъ, и4же не tстaви моли1тву мою2 и3 млcть свою2 t менє2.
+      sovr_rbo: Благословен Бог, Который не отверг молитвы моей и не отвратил от меня
+        милости Своей.
+      latin: Benedictus Deus, qui non amovit orationem meam, et misericordiam suam a
+        me.
+      ukr: Благословенний Бог, Який не відкинув моєї молитви й Свого милосердя від
+        мене!
+      nkjv: Blessed be God, Who has not turned away my prayer, Nor His mercy from me!
+      desnitsky: ""
+      mt: ‫   בָּרוּךְ אֱלֹהִים אֲשֶׁר לֹא־הֵסִיר תְּפִלָּתִי וְחַסְדּוֹ מֵאִתִּי׃ ‬
+      italian: Sia benedetto Dio che non ha respinto la mia preghiera, non mi ha
+        negato la sua misericordia.
+      old_georgian: კურთხეულ არს ღმერთი, რომელმან არა განიშორა ლოცვა ჩემი და არცა
+        წყალობაჲ მისი ჩემგან.
+      portuguese: Bendito seja Deus, que não rejeitou a minha oração, nem retirou de
+        mim a sua benignidade.
+      polish: Błogosławiony Bóg, co nie odepchnął mej prośby i nie odjął mi swojej
+        łaskawości.
+      nrt: Благословен будь, Бог, не отвергший мою молитву и милости меня не лишивший!
+      Macarius: Благословен Бог, Который не отвергнул молитвы моей, и не лишил меня
+        Своей милости!
+      bulgarian: Благословен Бог, Който не отхвърли молитвата ми и не отвърна от мене
+        милостта Си!
+      deutsch: Gelobt sei Gott, der mein Gebet nicht verwirft noch seine Güte von mir
+        wendet.
+      ukr2: Благословен Бог, що не відкинув моєї молитви, і ласки своєї від мене.
+      ukr3: Благословен Бог, котрий не відкинув молитву мою, і не одвернув милосердє
+        своє від мене.
+      bel_syomukha: Дабраславёны Бог, Які не адкінуў малітвы маёй і не адвярнуў ад
+        мяне ласкі Свае.
+      czech: Pozehnan bud Buh, ze mou modlitbu nezamitl a sve milosrdenstvi mi
+        neodeprel.
+      spanish: ¡Bendito sea Dios, que no desechó mi oración ni me negó su piedad!
+      zertis-kamenskiy: Благословен Бог, иже не отстави молитву мою, и милость Свою от мене.
+      pakazkiy: "И глас внушив моих молений, Возвысил паки верных рог.\rБлагословлю во
+        век Владыку; Он внял моленью моему,\rИ милость мне явил толику Зовый к
+        наследью своему."
+      greek-lxx: εὐλογητὸς ὁ Θεός ὃς οὐκ ἀπέστησεν τὴν προσευχήν μου καὶ τὸ ἔλεος
+        αὐτοῦ ἀπ᾿ ἐμοῦ
+      st_text: Благословен Бог, Который не отверг молитвы моей и не отвратил от меня
+        милости Своей.

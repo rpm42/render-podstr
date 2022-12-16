@@ -1,0 +1,2970 @@
+id: 982
+number: 5
+bookId: 34
+verseCount: 31
+title: Глава 5
+verses:
+  - id: 12869
+    number: 1
+    bookId: 34
+    text: Валтасар царь сделал большое пиршество для тысячи вельмож своих и перед
+      глазами тысячи пил вино.
+    chapter: 5
+    chapterId: 982
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Валтасар царь сделал ужин большой товарищам его и пил вино,
+      csya: Валтасар царь сотвори вечерю велию вельможам своим тысящи мужем,
+      averincev: ""
+      ungerov: Валтасар царь устроил большое пиршество для тысячи вельмож своих.
+      csya_old: Валтасaръ цaрь сотвори2 ве1черю ве1лію вельмо1жамъ свои6мъ ты1сzщи
+        мужє1мъ,
+      sovr_rbo: Царь Валтасар устроил большой пир для тысячи своих вельмож и вместе с
+        ними пил вино.
+      latin: "Baltassar rex fecit grande convivium optimatibus suis mille: et
+        unusquisque secundum suam bibebat aetatem."
+      ukr: Цар Валтасар справив велике прийняття для тисячі своїх вельмож, і на очах
+        тієї тисячі пив вино.
+      nkjv: Belshazzar the king made a great feast for a thousand of his lords, and
+        drank wine in the presence of the thousand.
+      desnitsky: ""
+      mt: ‫    בֵּלְשַׁאצַּר מַלְכָּא עֲבַד לְחֶם רַב לְרַבְרְבָנוֹהִי אֲלַף וְלָקֳבֵל
+        אַלְפָּא חַמְרָא שָׁתֵה׃ ‬
+      romana: Regele Belsatar a facut un mare ospat pentru o mie din dregatorii sai si
+        in fata celor o mie a baut vin.
+      francais: Le roi Belschatsar donna un grand festin à ses grands au nombre de
+        mille, et il but du vin en leur présence.
+      italian: Il re Baldassàr imbandì un gran banchetto a mille dei suoi dignitari e
+        insieme con loro si diede a bere vino.
+      old_georgian: ვალტასარ მეფემან უქმნა სერი დიდი დიდებულთა მისთა მამრთა ათასთა და
+        წინაშე ათასთასა ღჳნოჲ, და მსუმელმან ვალტასარ მეფემან გემებათა შინა
+        ღჳნისასა
+      portuguese: O rei Belsazar deu um grande banquete a mil dos seus grandes, e
+        bebeu vinho na presença dos mil.
+      polish: "Król Baltazar urządził dla swych możnowładców w liczbie tysiąca
+        wielką\rucztę i pił wino wobec tysiąca [osób]."
+      turkish: Kral Belşassar soylu adamlarından bin kişiye büyük bir şölen verdi,
+        onlarla şarap içti.
+      nrt: Царь Валтасар устроил великий пир для тысячи своих приближенных и пил с
+        ними вино.
+      Macarius: Царь Велшацар сделал большой пир для тысячи своих вельмож, и в
+        присутствии тысячи пил вино.
+      bulgarian: Цар Валтасар даде голям пир на хиляда свои велможи и пред очите на
+        хилядата пи вино.
+      deutsch: König Belsazer machte ein herrliches Mahl seinen tausend Gewaltigen und
+        soff sich voll mit ihnen.
+      ukr2: Цар Валтасар справив великий бенкет для тисячі своїх вельмож і в обличчі
+        тисячі пив вино.
+      ukr3: Царь Валтасар справляв раз великий бенкет задля тисячі вельмож своїх і
+        перед очима тисячі пив вино.
+      bel_syomukha: Цар Валтасар справіў вялікую гасьціну тысячам вяльможаў і на вачах
+        у тысячы піў віно.
+      Olesn: Белшацар царь устроил пир большой тысяче вельмож своих, и пред тысячью
+        пил вино.
+      lev-khv: Валтасар, царь, сделал большое пиршество для тысячи вельмож своих и
+        пред глазами тысячи пил вино.
+      czech: Kral Belsasar vystrojil velikou hostinu svym tisici hodnostarum a pred
+        temito tisici pil vino.
+      spanish: El rey Baltasar dio un gran banquete a mil de sus príncipes, y con
+        ellos se dio a beber vino.
+      greek-lxx: Βαλτασαρ ὁ βασιλεὺς ἐποίησεν ἑστιατορίαν μεγάλην τοῖς ἑταίροις αὐτοῦ
+        καὶ ἔπινεν οἶνον
+      greek-theodotion: Βαλτασαρ ὁ βασιλεὺς ἐποίησεν δεῖπνον μέγα τοῖς μεγιστᾶσιν
+        αὐτοῦ χιλίοις καὶ κατέναντι τῶν χιλίων ὁ οἶνος καὶ πίνων
+      st_text: Валтасар царь сделал большое пиршество для тысячи вельмож своих и перед
+        глазами тысячи пил вино.
+  - id: 12870
+    number: 2
+    bookId: 34
+    text: Вкусив вина, Валтасар приказал принести золотые и серебряные сосуды,
+      которые Навуходоносор, отец его, вынес из храма Иерусалимского, чтобы пить
+      из них царю, вельможам его, женам его и наложницам его.
+    chapter: 5
+    chapterId: 982
+    parallels:
+      - verseId: 9143
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 24
+        short: 4 Цар:24:13
+    translates:
+      kassian: ""
+      podstr: и превознеслось сердце его и сказал принести сосуды золотые и серебряные
+        дома Бога которые принёс Навуходоносор, отец его из Иерусалима и
+        наливать вино в них товарищам его.
+      csya: пред тысящею же вино, и пия валтасар рече при вкушении вина, еже принести
+        сосуды златы и сребряны, яже изнесе навуходоносор отец его из храма
+        (Господа Бога), иже во Иерусалиме, и да пиют в них царь и вельможи его,
+        и наложницы его и возлежащыя (окрест) его.
+      averincev: ""
+      ungerov: И пред тысячью (стояло) вино, и пил Валтасар, и велел при вкушении вина
+        принести сосуды золотые и серебряные, которые вынес Навуходоносор, отец
+        его, из храма (Господа Бога), который в Иерусалиме, что бы пили из них
+        царь и вельможи его, и наложницы его и возлежащия (вокруг) его.
+      csya_old: пред8 ты1сzщею же віно2, и3 піS валтасaръ рече2 при вкуше1ніи вінA,
+        є4же принести2 сосyды зл†ты и3 срє1брzны, ±же и3знесе2 навуходоно1соръ
+        nте1цъ є3гw2 и3з8 хрaма (гDа бг7а), и4же во їеrли1мэ, и3 да пію1тъ въ
+        ни1хъ цaрь и3 вельмHжи є3гw2, и3 налHжницы є3гw2 и3 возлежaщыz
+        (њ1крестъ) є3гw2.
+      sovr_rbo: "Захмелев, Валтасар велел принести золотые и серебряные сосуды,
+        которые отец его Навуходоносор привез из иерусалимского Храма: царь, его
+        вельможи, жены и наложницы будут пить из этих сосудов."
+      latin: Praecepit ergo jam temulentus ut afferrentur vasa aurea et argentea, quae
+        asportaverat Nabuchodonosor pater ejus de templo, quod fuit in
+        Ierusalem, ut biberent in eis rex, et optimates ejus, uxoresque ejus, et
+        concubinae.
+      ukr: Коли вино опанувало розум, Валтасар наказав принести золотий та срібний
+        посуд, який виніс був його батько Навуходоносор із храму, що в
+        Єрусалимі, щоб із нього пили цар та вельможі його, його жінки та його
+        наложниці.
+      nkjv: While he tasted the wine, Belshazzar gave the command to bring the gold
+        and silver vessels which his father Nebuchadnezzar had taken from the
+        temple which had been in Jerusalem, that the king and his lords, his
+        wives, and his concubines might drink from them.
+      desnitsky: ""
+      mt: ‫    בֵּלְשַׁאצַּר אֲמַר בִּטְעֵם חַמְרָא לְהַיְתָיָה לְמָאנֵי דַּהֲבָא
+        וְכַסְפָּא דִּי הַנְפֵּק נְבוּכַדְנֶצַּר אֲבוּהִי מִן־הֵיכְלָא דִּי
+        בִירוּשְׁלֶם וְיִשְׁתּוֹן בְּהוֹן מַלְכָּא וְרַבְרְבָנוֹהִי שֵׁגְלָתֵהּ
+        וּלְחֵנָתֵהּ׃ ‬
+      romana: Belsatar cand era in toiul ospatului, la bautul vinului, a poruncit sa
+        aduca vasele de aur si de argint pe care Nabucodonosor, tatal sau, le
+        luase din templul din Ierusalim, ca regele sa bea vin din ele, impreuna
+        cu dregatorii sai, femeile sale si concubinele sale.
+      francais: Belschatsar, quand il eut goûté au vin, fit apporter les vases d'or et
+        d'argent que son père Nebucadnetsar avait enlevés du temple de
+        Jérusalem, afin que le roi et ses grands, ses femmes et ses concubines,
+        s'en servissent pour boire.
+      italian: Quando Baldassàr ebbe molto bevuto comandò che fossero portati i vasi
+        d'oro e d'argento che Nabucodònosor suo padre aveva asportati dal
+        tempio, che era in Ge — rusalemme, perché vi bevessero il re e i suoi
+        grandi, le sue mogli e le sue concubine.
+      old_georgian: ბრძანა შემოხუმად ჭურჭელთა ოქროჲსა და ვეცხლისათა, რომელნი გამოიღო
+        ნაბუქოდონოსორმან, მამამან მისმან, ტაძრისაგან იერუსალჱმისა, და სუმიდეს
+        მათ მიერ მეფე და დიდებულნი მისნი, და თანამწოლნი მისნი და ხარჭნი მისნი.
+      portuguese: "Havendo Belsazar provado o vinho, mandou trazer os vasos de ouro e
+        de prata que Nabucodonosor, seu pai,\rtinha tirado do templo que estava
+        em Jerusalém, para que bebessem por eles o rei, e os seus grandes, as
+        suas\rmulheres e concubinas."
+      polish: "Gdy zasmakował w winie, rozkazał Baltazar przynieść srebrne i złote
+        naczynia, które jego ojciec, Nabuchodonozor, zabrał ze świątyni w
+        Jerozolimie,\raby mogli z nich pić król oraz jego możnowładcy, jego żony
+        i nałożnice."
+      turkish: Şarabını keyifle içerken, atası Nebukadnessar'ın Yeruşalim'deki
+        tapınaktan çıkarıp getirdiği altın ve gümüş kapların getirilmesini
+        buyurdu. Öyle ki, kendisi, karıları, cariyeleri, soylu adamları onlarla
+        içsinler.
+      nrt: Выпив вина, Валтасар приказал принести золотые и серебряные кубки, которые
+        его дед Навуходоносор взял из Иерусалимского храма. Царь со своими
+        приближенными, женами и наложницами собирался пить из них.
+      Macarius: Вкусив вина, приказал Велшацар принести золотые и серебряные сосуды,
+        которые Невухаднецар, отец его, перевез из храма Иерусалимского, чтобы
+        пить из них царю и вельможам его, женам его и наложницам его.
+      bulgarian: Като вкуси от виното, Валтасар заповяда да донесат златните и
+        сребърните съдове, които Навуходоносор, баща му, бе изнесъл из
+        Иерусалимския храм, за да пият от тях царят, велможите му, жените му и
+        наложниците му.
+      deutsch: Und da er trunken war, hieß er die goldenen und silbernen Gefäße
+        herbringen, die sein Vater Nebukadnezar aus dem Tempel zu Jerusalem
+        weggenommen hatte, daß der König mit seinen Gewaltigen, mit seinen
+        Weibern und mit seinen Kebsweibern daraus tränken.
+      ukr2: Напідпитку вже трохи, звелів Валтасар принести золотий та срібний посуд,
+        що Навуходоносор, його батько, забрав був з єрусалимського храму, аби
+        пили з нього цар, його вельможі, його жінки та його наложниці.
+      ukr3: Напившись вина, Валтасар звелїв принести золотий та срібний посуд, що
+        Навуходонозор, його батько, винїс був з Ерусалимського храму, щоб пили з
+        нього самий царь, його вельможі, його жінки й його наложницї.
+      bel_syomukha: Скаштаваўшы віна, Валтасар загадаў прынесьці залаты і срэбраны
+        посуд, які Навухаданосар, бацька ягоны, вынес з храма ў Ерусаліме, каб
+        пілі зь яго цар, вяльможы ягоныя, ягоныя жонкі і ягоныя наложніцы.
+      Olesn: Войдя во вкус вина, Белшацар сказал принести сосуды золотые и серебряные,
+        вынесенные Навуходоносором отцом его из храма, чтó в Иерусалиме, чтобы
+        пить из них царю и вельможам его, женам его и наложницам его.
+      lev-khv: Упоенный вином Валтасар приказал принести золотые и серебряные сосуды,
+        которые Навуходоносор, отец его, привез из храма Иерусалимскаго, чтобы
+        пить из них царю и вельможам его, женам его и наложницам его.
+      czech: Pri popijeni vina porucil Belsasar prinest zlate a stribrne nadoby, ktere
+        odnesl Nebukadnesar, jeho otec, z jeruzalemskeho chramu, aby z nich pili
+        kral i jeho hodnostari, jeho zeny i zeniny.
+      spanish: Excitado por el vino, mandó Baltasar que le llevasen los vasos de oro y
+        plata que Nabucodonosor, su padre, había tomado del templo de Jerusalén,
+        y que se sirviesen de ellos para beber el rey y sus príncipes, sus
+        mujeres y sus concubinas.
+      greek-lxx: καὶ ἀνυψώθη ἡ καρδία αὐτοῦ καὶ εἶπεν ἐνέγκαι τὰ σκεύη τὰ χρυσᾶ καὶ τὰ
+        ἀργυρᾶ τοῦ οἴκου τοῦ Θεοῦ ἃ ἤνεγκε Ναβουχοδονοσορ ὁ πατὴρ αὐτοῦ ἀπὸ
+        Ιερουσαλημ καὶ οἰνοχοῆσαι ἐν αὐτοῖς τοῖς ἑταίροις αὐτοῦ
+      greek-theodotion: Βαλτασαρ εἶπεν ἐν τῇ γεύσει τοῦ οἴνου τοῦ ἐνεγκεῖν τὰ σκεύη τὰ
+        χρυσᾶ καὶ τὰ ἀργυρᾶ ἃ ἐξήνεγκεν Ναβουχοδονοσορ ὁ πατὴρ αὐτοῦ ἐκ τοῦ ναοῦ
+        τοῦ ἐν Ιερουσαλημ καὶ πιέτωσαν ἐν αὐτοῖς ὁ βασιλεὺς καὶ οἱ μεγιστᾶνες
+        αὐτοῦ καὶ αἱ παλλακαὶ αὐτοῦ καὶ αἱ παράκοιτοι αὐτοῦ
+      st_text: Вкусив вина, Валтасар приказал принести золотые и серебряные сосуды,
+        которые Навуходоносор, отец его, вынес из храма Иерусалимского, чтобы
+        пить из них царю, вельможам его, женам его и наложницам его.
+  - id: 12871
+    number: 3
+    bookId: 34
+    text: Тогда принесли золотые сосуды, которые взяты были из святилища дома Божия
+      в Иерусалиме; и пили из них царь и вельможи его, жены его и наложницы его.
+    chapter: 5
+    chapterId: 982
+    parallels:
+      - verseId: 14400
+        bookId: 20
+        bookCode: kniga-esfiri
+        chapter: 1
+        short: Есф:1:8
+    translates:
+      kassian: ""
+      podstr: И были принесены и они пили [с использованием] их,
+      csya: "И принесоша сосуды златыя и сребряныя, яже изнесе (навуходоносор царь) из
+        храма Господа Бога, иже во Иерусалиме: и пияху ими царь и вельможи его,
+        и наложницы его и возлежащыя (окрест) его:"
+      averincev: ""
+      ungerov: И принесли сосуды золотые и серебряные, которые вынес (Навуходоносор
+        царь) из храма Господа Бога, который в Иерусалиме, и пили из них царь, и
+        вельможи его, и наложницы его, и возлежащия (вокруг) его.
+      csya_old: "И# принесо1ша сосyды златы6z и3 срє1брzныz, ±же и3знесе2
+        (навуходоно1соръ цaрь) и3з8 хрaма гDа бг7а, и4же во їеrли1мэ: и3 піsху
+        и4ми цaрь и3 вельмHжи є3гw2, и3 налHжницы є3гw2 и3 возлежaщыz (њ1крестъ)
+        є3гw2:"
+      sovr_rbo: И когда принесли золотые сосуды, привезенные из Храма, Дома Божьего в
+        Иерусалиме, царь, его вельможи, жены и наложницы стали пить из них.
+      latin: "Tunc allata sunt vasa aurea, et argentea, quae asportaverat de templo,
+        quod fuerat in Ierusalem: et biberunt in eis rex, et optimates ejus,
+        uxores et concubinae illius."
+      ukr: Тоді принесли золотий посуд, що винесли з храму божого дому, що в
+        Єрусалимі, і пили з них цар та вельможі його, жінки його та його
+        наложниці.
+      nkjv: Then they brought the gold vessels that had been taken from the temple of
+        the house of God which had been in Jerusalem; and the king and his
+        lords, his wives, and his concubines drank from them.
+      desnitsky: ""
+      mt: ‫    בֵּאדַיִן הַיְתִיו מָאנֵי דַהֲבָא דִּי הַנְפִּקוּ מִן־הֵיכְלָא
+        דִּי־בֵית אֱלָהָא דִּי בִירוּשְׁלֶם וְאִשְׁתִּיו בְּהוֹן מַלְכָּא
+        וְרַבְרְבָנוֹהִי שֵׁגְלָתֵהּ וּלְחֵנָתֵהּ׃ ‬
+      romana: Atunci au fost aduse vasele de aur si de argint care fusesera luate din
+        templul lui Dumnezeu din Ierusalim si au baut din ele regele si
+        dregatorii sai, femeile sale si concubinele sale.
+      francais: Alors on apporta les vases d'or qui avaient été enlevés du temple, de
+        la maison de Dieu à Jérusalem; et le roi et ses grands, ses femmes et
+        ses concubines, s'en servirent pour boire.
+      italian: Furono quindi portati i vasi d'oro, che erano stati asportati dal
+        tempio di Gerusalemme, e il re, i suoi grandi, le sue mogli e le sue
+        concubine li usarono per bere;
+      old_georgian: და მოიღეს ჭურჭელნი ოქროსანი და ვეცხლისანი, რომელი გამოღებულ იყო
+        ტაძრისაგან ღმრთისა, რომელი იერუსალჱმს, და სუეს მეფემან და დიდებულთა
+        მისთა, და ხარჭთა მათთა და თანამწოლთა მათთა,
+      portuguese: "Então trouxeram os vasos de ouro que foram tirados do templo da
+        casa de Deus, que estava em Jerusalém, e\rbeberam por eles o rei, os
+        seus grandes, as suas mulheres e concubinas."
+      polish: "Przyniesiono więc złote i srebrne naczynia zabrane ze świątyni w
+        Jerozolimie;\rpili z nich król, jego możnowładcy, jego żony i jego
+        nałożnice."
+      turkish: Böylece Tanrı'nın Yeruşalim'deki tapınağından alınan altın kaplar
+        getirildi; kral, karıları, cariyeleri, soylu adamları onlarla içtiler.
+      nrt: Золотые и серебряные кубки, взятые из храма, дома Бога в Иерусалиме, были
+        принесены, и царь со своими приближенными, женами и наложницами пил из
+        них.
+      Macarius: И принесли золотые сосуды, перевезенные из храма, дома Божия
+        Иерусалимского; и пили из них царь и вельможи его, жены его и наложницы
+        его.
+      bulgarian: Тогава донесоха златните съдове, които бяха взети из светилището на
+        Дома Божий в Иерусалим; и пиеха от тях царят и велможите му, жените му и
+        наложниците му, -
+      deutsch: Also wurden hergebracht die goldenen Gefäße, die aus dem Tempel, aus
+        dem Hause Gottes zu Jerusalem, genommen waren; und der König, seine
+        Gewaltigen, seine Weiber und Kebsweiber tranken daraus.
+      ukr2: І принесено золотий та срібний посуд, забраний з храму Божого, що в
+        Єрусалимі, й пили з нього цар, його вельможі, його жінки та його
+        наложниці;
+      ukr3: І поприношено золотий посуд, що був забраний з сьвятинї, з дому Божого в
+        Ерусалимі; і пили з них царь, його вельможі, його жінки й його
+        роаложницї, -
+      bel_syomukha: Тады прынесьлі залаты посуд, які вынесьлі з храма Дома Божага ў
+        Ерусаліме; і пілі зь яго цар і вяльможы яго, ягоныя жонкі і ягоныя
+        наложніцы,
+      Olesn: Тогда принесли сосуды золотые, которые вынесли из храма дома Божия, чтó в
+        Иерусалиме, и пили из них царь и вельможи его, жены его и наложницы его.
+      lev-khv: Тогда принесли золотые сосуды, которые взяты были из святилища дома
+        Божия в Иерусалиме; и пили из них царь и вельможи его, жены его и
+        наложницы его.
+      czech: Hned tedy prinesli zlate nadoby odnesene z chramu, to je z Boziho domu v
+        Jeruzaleme, a pili z nich kral i jeho hodnostari, jeho zeny i zeniny.
+      spanish: Le trajeron, pues, los vasos de oro que habían sido arrebatados al
+        templo de Dios de Jerusalén, y con ellos bebieron el rey y sus
+        príncipes, sus mujeres y sus concubinas.
+      greek-lxx: καὶ ἠνέχθη καὶ ἔπινον ἐν αὐτοῖς
+      greek-theodotion: καὶ ἠνέχθησαν τὰ σκεύη τὰ χρυσᾶ καὶ τὰ ἀργυρᾶ ἃ ἐξήνεγκεν ἐκ
+        τοῦ ναοῦ τοῦ Θεοῦ τοῦ ἐν Ιερουσαλημ καὶ ἔπινον ἐν αὐτοῖς ὁ βασιλεὺς καὶ
+        οἱ μεγιστᾶνες αὐτοῦ καὶ αἱ παλλακαὶ αὐτοῦ καὶ αἱ παράκοιτοι αὐτοῦ
+      st_text: Тогда принесли золотые сосуды, которые взяты были из святилища дома
+        Божия в Иерусалиме; и пили из них царь и вельможи его, жены его и
+        наложницы его.
+  - id: 12872
+    number: 4
+    bookId: 34
+    text: Пили вино, и славили богов золотых и серебряных, медных, железных,
+      деревянных и каменных.
+    chapter: 5
+    chapterId: 982
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и они благословляли идолы рукотворные их, а Бога века не благословили
+        имеющего власть [над] духом их.
+      csya: пияху вино и похвалиша боги златыя и сребряныя, и медяныя и железныя, и
+        древяныя и каменныя, а Бога вечнаго не благословиша, имущаго власть духа
+        их.
+      averincev: ""
+      ungerov: Пили вино, и прославляли богов золотых, и серебряных, и медных, и
+        железных, и деревянных и, каменных, а Бога вечнаго, имеющаго власть над
+        духом их, не прославили.
+      csya_old: піsху віно2 и3 похвали1ша бо1ги златы6z и3 срє1брzныz, и3 мBдzныz и3
+        желBзныz, и3 дрєвsныz и3 кaмєнныz, ґ бг7а вёчнаго не благослови1ша,
+        и3мyщаго влaсть дyха и4хъ.
+      sovr_rbo: Пили они вино и славили своих богов — золотых и серебряных, медных и
+        железных, деревянных и каменных.
+      latin: Bibebant vinum, et laudabant deos suos aureos et argenteos, aereos,
+        ferreos, ligneosque et lapideos.
+      ukr: Пили вони вино й славили богів золотих та срібних, мідяних, залізних,
+        дерев'яних та камінних.
+      nkjv: They drank wine, and praised the gods of gold and silver, bronze and iron,
+        wood and stone.
+      desnitsky: ""
+      mt: ‫    אִשְׁתִּיו חַמְרָא וְשַׁבַּחוּ לֵאלָהֵי דַּהֲבָא וְכַסְפָּא נְחָשָׁא
+        פַרְזְלָא אָעָא וְאַבְנָא׃ ‬
+      romana: Ei au baut vin si au preamarit pe dumnezeii de aur, de argint, de arama,
+        de fier, de lemn si de piatra.
+      francais: Ils burent du vin, et ils louèrent les dieux d'or, d'argent, d'airain,
+        de fer, de bois et de pierre.
+      italian: mentre bevevano il vino, lodavano gli dèi d'oro, d'argento, di bronzo,
+        di ferro, di legno e di pietra.
+      old_georgian: სუმიდეს ღჳნოსა და აქებდეს ღმერთთა ოქროსათა, და ვეცხლისათა, და
+        რვალისა, და რკინისათა, და ძელისათა და ქვისათა.
+      portuguese: Beberam vinho, e deram louvores aos deuses de ouro, e de prata, de
+        bronze, de ferro, de madeira, e de pedra.
+      polish: "Pijąc wino wychwalali bożków złotych i srebrnych, miedzianych i
+        żelaznych,\rdrewnianych i kamiennych."
+      turkish: Şaraplarını içerken altından, gümüşten, tunçtan, demirden, ağaçtan,
+        taştan ilahları övdüler.
+      nrt: Они пили вино и славили богов из золота и серебра, из бронзы, железа,
+        дерева и камня.
+      Macarius: Пили вино и величали богов, золотых и серебряных, медных, железных,
+        деревянных и каменных.
+      bulgarian: пиеха вино, и славеха боговете златни и сребърни, медни и железни,
+        дървени и каменни.
+      deutsch: Und da sie so soffen, lobten sie die goldenen, silbernen, ehernen,
+        eisernen, hölzernen und steinernen Götter.
+      ukr2: пили вино й славили богів золотих, срібних, мідяних, залізних, дерев'яних
+        та камінних.
+      ukr3: Пили вино й славили богів золотих і срібних, мідяних, залїзних, деревяних
+        і камяних.
+      bel_syomukha: пілі віно, і славілі багоў залатых і срэбных, медных, жалезных,
+        драўняных і каменных.
+      Olesn: Пили вино и прославляли богов золотых, серебряных, медных, железных,
+        деревянных и каменных.
+      lev-khv: Пили вино и славили богов золотых и серебряных, медных, железных,
+        деревянных и каменных.
+      czech: Pili vino a chvalili bohy zlate a stribrne, bronzove, zelezne, drevene a
+        kamenne.
+      spanish: Bebían el vino y alababan a sus dioses de oro y de plata, de hierro y
+        de bronce, de madera y de piedra.
+      greek-lxx: καὶ ηὐλόγουν τὰ εἴδωλα τὰ χειροποίητα αὐτῶν καὶ τὸν Θεὸν τοῦ αἰῶνος
+        οὐκ εὐλόγησαν τὸν ἔχοντα τὴν ἐξουσίαν τοῦ πνεύματος αὐτῶν
+      greek-theodotion: ἔπινον οἶνον καὶ ᾔνεσαν τοὺς θεοὺς τοὺς χρυσοῦς καὶ ἀργυροῦς
+        καὶ χαλκοῦς καὶ σιδηροῦς καὶ ξυλίνους καὶ λιθίνους
+      st_text: Пили вино, и славили богов золотых и серебряных, медных, железных,
+        деревянных и каменных.
+  - id: 12873
+    number: 5
+    bookId: 34
+    text: В тот самый час вышли персты руки человеческой и писали против лампады на
+      извести стены чертога царского, и царь видел кисть руки, которая писала.
+    chapter: 5
+    chapterId: 982
+    parallels:
+      - verseId: 16399
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 50
+        short: Иер:50:43
+      - verseId: 17859
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 8
+        short: Иез:8:3
+    translates:
+      kassian: ""
+      podstr: В самый час тот вышли пальцы будто руки человека и написали на
+        [поверхности] стены дома его на штукатурке напротив света перед [лицом]
+        царя Валтасара и он увидел руку пишущую,
+      csya: В той час изыдоша персты руки человечи и писаху противу лампады на
+        поваплении стены дому царева, и царь видяше персты руки пишущия.
+      averincev: ""
+      ungerov: В тот час вышли персты руки человеческой и писали против лампады на
+        извести стены царскаго дома, и царь видел персты пишущей руки.
+      csya_old: Въ то1й чaсъ и3зыдо1ша пе1рсты руки2 человёчи и3 писaху проти1ву
+        лампaды на повапле1ніи стэны2 до1му царе1ва, и3 цaрь ви1дzше пе1рсты
+        руки2 пи1шущіz.
+      sovr_rbo: И вдруг появилась кисть человеческой руки и стала писать на выбеленной
+        стене царского дворца, напротив светильника. Увидел царь пишущую руку —
+      latin: "In eadem hora apparuerunt digiti, quasi manus hominis scribentis contra
+        candelabrum in superficie parietis aulae regiae: et rex aspiciebat
+        articulos manus scribentis."
+      ukr: Аж ось тієї хвилини вийшли пальці людської руки, і писали навпроти свічника
+        на вапні стіни царського палацу, і цар бачив зарис руки, що писала.
+      nkjv: "In the same hour the fingers of a man's hand appeared and wrote opposite
+        the lampstand on the plaster of the wall of the king's palace; and the
+        king saw the part of the hand that wrote. "
+      desnitsky: ""
+      mt: ‫    בַּהּ־שַׁעֲתָה *נפקו **נְפַקָה אֶצְבְּעָן דִּי יַד־אֱנָשׁ וְכָתְבָן
+        לָקֳבֵל נֶבְרַשְׁתָּא עַל־גִּירָא דִּי־כְתַל הֵיכְלָא דִּי מַלְכָּא
+        וּמַלְכָּא חָזֵה פַּס יְדָה דִּי כָתְבָה׃ ‬
+      romana: In aceeasi clipa au iesit degetele unei maini de om, care au scris in
+        fata sfesnicului celui mare pe tencuiala peretelui palatului regal, si
+        regele a vazut varful degetelor mainii care scria.
+      francais: En ce moment, apparurent les doigts d'une main d'homme, et ils
+        écrivirent, en face du chandelier, sur la chaux de la muraille du palais
+        royal. Le roi vit cette extrémité de main qui écrivait.
+      italian: In quel momento apparvero le dita di una mano d'uomo, le quali
+        scrivevano sulla parete della sala reale, di fronte al candelabro. Nel
+        vedere quelle dita che scrivevano,
+      old_georgian: მას ჟამსა შინა გამოვიდეს თითნი ჴელისა კაცისანი და წერდეს პირისპრ
+        ლამპრისა, საგოზელსა ზედა კედლისასა სახლისა მეფისაჲსა და მეფე ხედვიდა
+        თითთა მათ ჴელისა მწერლისასა.
+      portuguese: "Na mesma hora apareceram uns dedos de mão de homem, e escreviam,
+        defronte do castiçal, na caiadura da\rparede do palácio real; e o rei
+        via a parte da mão que estava escrevendo."
+      polish: "W tej chwili ukazały się palce ręki ludzkiej i pisały za świecznikiem
+        na wapnie\rściany królewskiego pałacu. Król zaś widział piszącą rękę."
+      turkish: Ansızın bir insan elinin parmakları belirdi, kandilliğin yanındaki
+        saray duvarının sıvası üzerine yazmaya başladı. Kral yazan eli gördü,
+      nrt: Тотчас же появились пальцы человеческой руки, которые стали писать на
+        штукатурке стены царского дворца, рядом со светильником. Царь глядел на
+        эту руку, когда она писала.
+      Macarius: В самый тот час вышли персты руки человеческой, и писали напротив
+        светильника, на извести стены царских чертогов, и царь видел кисть руки
+        писавшей.
+      bulgarian: В този същи час подадоха се пръсти от човешка ръка и пишеха срещу
+        светилника върху мазилката на стената на царския дворец, и царят видя
+        пръстите на ръката, която пишеше.
+      deutsch: Eben zu derselben Stunde gingen hervor Finger wie einer Menschenhand,
+        die schrieben, gegenüber dem Leuchter, auf die getünchte Wand in dem
+        königlichen Saal; und der König ward gewahr der Hand, die da schrieb.
+      ukr2: Під ту ж хвилю з'явилися пальці людської руки й заходилися писати навпроти
+        свічника на вапні стіни царського палацу, і цар уздрів кінцівку пишучої
+        руки.
+      ukr3: Саме в ту годину показались палцї наче людської руки й писали навпроти
+        сьвічника на вапнї стїни царської палати, й бачив царь частину руки, що
+        писала.
+      bel_syomukha: У той самы час выйшлі пальцы рукі чалавечай і пісалі насупраць
+        сьвечніка на вапне сьцяны царскіх харомаў, і цар бачыў пясьць рукі, што
+        пісала.
+      Olesn: В тот час выступили пальцы руки человеческой, пишущие против люстры, по
+        извести стены дворца царскаго, и царь увидел кисть руки, которая писала.
+      lev-khv: В тот самый час появились персты руки человеческой и стали писать
+        против лампады на выбеленной известью стене чертога царскаго, и царь
+        видел кисть руки, которая писала.
+      czech: V tu hodinu se ukazaly prsty lidske ruky a neco psaly na omitku zdi
+        kralovskeho palace naproti svicnu. Kral videl zapesti ruky, ktera psala.
+      spanish: En aquellos momentos aparecieron los dedos de una mano de hombre que
+        escribían delante del candelero, en el revoco de la pared del palacio
+        real, viendo el rey el extremo de la mano que escribía.
+      greek-lxx: ἐν αὐτῇ τῇ ὥρᾳ ἐκείνῃ ἐξῆλθον δάκτυλοι ὡσεὶ χειρὸς ἀνθρώπου καὶ
+        ἔγραψαν ἐπὶ τοῦ τοίχου τοῦ οἴκου αὐτοῦ ἐπὶ τοῦ κονιάματος κατέναντι τοῦ
+        φωτὸς ἔναντι τοῦ βασιλέως Βαλτασαρ καὶ εἶδε χεῖρα γράφουσαν
+      greek-theodotion: ἐν αὐτῇ τῇ ὥρᾳ ἐξῆλθον δάκτυλοι χειρὸς ἀνθρώπου καὶ ἔγραφον
+        κατέναντι τῆς λαμπάδος ἐπὶ τὸ κονίαμα τοῦ τοίχου τοῦ οἴκου τοῦ βασιλέως
+        καὶ ὁ βασιλεὺς ἐθεώρει τοὺς ἀστραγάλους τῆς χειρὸς τῆς γραφούσης
+      st_text: В тот самый час вышли персты руки человеческой и писали против лампады
+        на извести стены чертога царского, и царь видел кисть руки, которая
+        писала.
+  - id: 12874
+    number: 6
+    bookId: 34
+    text: Тогда царь изменился в лице своем; мысли его смутили его, связи чресл его
+      ослабели, и колени его стали биться одно о другое.
+    chapter: 5
+    chapterId: 982
+    parallels:
+      - verseId: 16399
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 50
+        short: Иер:50:43
+    translates:
+      kassian: ""
+      podstr: и внешний вид его изменился и страхи и подозрения его торопили. Поспешил
+        итак царь и встал и видел писание то, а сотоварищи вокруг него
+        похвалялись.
+      csya: "Тогда царю зрак изменися, и размышления его смущаху его, и соузы чресл
+        его разслабляхуся, и колена его сражастася:"
+      averincev: ""
+      ungerov: Тогда вид царя изменился, и помыслы его смутили его, и связи чресл его
+        ослабели, и колена его стали биться одно о другое.
+      csya_old: "ТогдA царю2 зрaкъ и3змэни1сz, и3 размышлє1ніz є3гw2 смущaху є3го2, и3
+        соyзы чре1слъ є3гw2 разслаблsхусz, и3 кwлёна є3гw2 сражaстасz:"
+      sovr_rbo: и изменился в лице, ужас охватил его, поджилки у него затряслись и
+        колени застучали одно о другое.
+      latin: "Tunc facies regis commutata est, et cogitationes ejus conturbabant eum:
+        et compages renum ejus solvebantur, et genua ejus ad se invicem
+        collidebantur."
+      ukr: Тоді змінилася ясність царя, і думки його настрашили його, ослабіли суглоби
+        крижів його, і билися коліна його одне об одне.
+      nkjv: "Then the king's countenance changed, and his thoughts troubled him, so
+        that the joints of his hips were loosened and his knees knocked against
+        each other. "
+      desnitsky: ""
+      mt: ‫    אֱדַיִן מַלְכָּא זִיוֺהִי שְׁנוֹהִי וְרַעיֹנֹהִי‪‬ יְבַהֲלוּנֵּהּ
+        וְקִטְרֵי חַרְצֵהּ מִשְׁתָּרַיִן וְאַרְכֻבָּתֵהּ דָּא לְדָא נָקְשָׁן׃ ‬
+      romana: Atunci fata regelui s-a ingalbenit si gandurile lui s-au tulburat;
+        incheieturile coapselor sale au slabit, iar genunchii i se izbeau unul
+        de altul neincetat.
+      francais: Alors le roi changea de couleur, et ses pensées le troublèrent; les
+        jointures de ses reins se relâchèrent, et ses genoux se heurtèrent l'un
+        contre l'autre.
+      italian: "il re cambiò d'aspetto: spaventosi pensieri lo assalirono, le giunture
+        dei suoi fianchi si allentarono, i ginocchi gli battevano l'uno contro
+        l'altro."
+      old_georgian: მაშინ შესახედავი მეფისა შეიცვალა, და გულისზრახვანი მისნი
+        აღშფოთებულ იქმნეს, და სანაწევრონი წელთა მისთანი ყოვლითურთ დაიჴსნებოდეს
+        და მუჴლნი მისნი ერეკებოდეს.
+      portuguese: "Mudou-se, então, o semblante do rei, e os seus pensamentos o
+        perturbaram; as juntas dos seus lombos se\rrelaxaram, e os seus joelhos
+        batiam um no outro."
+      polish: "Twarz króla zmieniła się, myśli jego napełniły się przerażeniem, jego
+        stawy\rbiodrowe uległy rozluźnieniu, a kolana jego uderzały jedno o
+        drugie."
+      turkish: aklından geçenler onu ürküttü, benzi soldu; eli ayağı tutmaz oldu,
+        dizlerinin bağı çözüldü.
+      nrt: Его лицо побледнело, и он так испугался, что его колени затряслись, и у
+        него подкосились ноги.
+      Macarius: Тогда царь… изменился вид лица его, и мысли его взволновали его; и
+        связи чресл его ослабели, и колена его ударились одно о другое.
+      bulgarian: "Тогава царят промени лице: мислите му го смутиха, ставите на бедрата
+        му отслабнаха и коленете му взеха да се удрят едно о друго."
+      deutsch: Da entfärbte sich der König, und seine Gedanken erschreckten ihn, daß
+        ihm die Lenden schütterten und die Beine zitterten.
+      ukr2: Відразу ж змінився цар на виду, його думки стривожили його, суглоби його
+        криж ослабли й коліна його зударялись.
+      ukr3: Тодї змінився царь на виду свойму; його думки затрівожили його, його крижі
+        ослабли, а колїна його почали вдаряти одно об друге.
+      bel_syomukha: Тады цар перамяніўся з твару свайго; думкі ягоныя зьбянтэжылі яго,
+        суглобы паясьніцы ягонай паслабіліся, і калені яго біліся адно аб адно.
+      Olesn: Тогда царь... цвет лица его исказился у него, мысли его смешались, пояс
+        на чреслах его развязался и колена его одно о другое застучали.
+      lev-khv: Тогда царь изменился в лице своем, смутились мысли его, связи чресл его
+        ослабели, и колена его стали биться одно о другое.
+      czech: Tu se barva kralova obliceje zmenila a myslenky ho naplnily hruzou,
+        poklesl v kyclich a kolena mu tloukla o sebe.
+      spanish: Mudó entonces el rey el color, y sus pensamientos le turbaron, se
+        relajaron los músculos de sus lomos, y sus rodillas daban una contra
+        otra.
+      greek-lxx: καὶ ἡ ὅρασις αὐτοῦ ἠλλοιώθη καὶ φόβοι καὶ ὑπόνοιαι αὐτὸν κατέσπευδον
+        ἔσπευσεν οὖν ὁ βασιλεὺς καὶ ἐξανέστη καὶ ἑώρα τὴν γραφὴν ἐκείνην καὶ οἱ
+        συνεταῖροι κύκλῳ αὐτοῦ ἐκαυχῶντο
+      greek-theodotion: τότε τοῦ βασιλέως ἡ μορφὴ ἠλλοιώθη καὶ οἱ διαλογισμοὶ αὐτοῦ
+        συνετάρασσον αὐτόν καὶ οἱ σύνδεσμοι τῆς ὀσφύος αὐτοῦ διελύοντο καὶ τὰ
+        γόνατα αὐτοῦ συνεκροτοῦντο
+      st_text: Тогда царь изменился в лице своем; мысли его смутили его, связи чресл
+        его ослабели, и колени его стали биться одно о другое.
+  - id: 12875
+    number: 7
+    bookId: 34
+    text: "Сильно закричал царь, чтобы привели обаятелей, Халдеев и гадателей. Царь
+      начал говорить, и сказал мудрецам Вавилонским: кто прочитает это
+      написанное и объяснит мне значение его, тот будет облечен в багряницу, и
+      золотая цепь будет на шее у него, и третьим властелином будет в царстве."
+    chapter: 5
+    chapterId: 982
+    parallels:
+      - verseId: 12691
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 2
+        short: Дан:2:6
+      - verseId: 12884
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 5
+        short: Дан:5:16
+      - verseId: 12943
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 7
+        short: Дан:7:16
+    translates:
+      kassian: ""
+      podstr: "И царь возгласил голосом громким призвать волхвов и чародеев и халдеев
+        и звездочётов сообщить разъяснение писания и входили на осмотр [чтобы]
+        увидеть писание и разъяснение писания не могли исследовать царю. Тогда
+        царь объявил повеление говорящий: всякий человек который если укажет
+        разъяснение писания, оденет [на] него порфиру и ожерелье золотое
+        возложит ему и будет дана ему власть третьей части царства."
+      csya: "и возопи царь силою, еже ввести волхвов, халдеев, газаринов: и рече царь
+        мудрым вавилонским: иже прочтет писание сие и разум его возвестит мне,
+        той в багряницу облечется, и гривна златая на выю его, и третий во
+        царстве моем обладати начнет."
+      averincev: ""
+      ungerov: 'И громко закричал царь, чтобы ввели волхвов, халдеев и гадателей. И
+        сказал царь мудрецам Вавилонским: "кто прочтет эту надпись и разъяснит
+        мне значение ея, тот будет облечен в багряницу, и цепь золотая будет на
+        шее его, и третьим властелином будет в царстве моем".'
+      csya_old: "и3 возопи2 цaрь си1лою, є4же ввести2 волхвHвъ, халде1євъ,
+        газари1нwвъ: и3 рече2 цaрь м{дрымъ вавmлHнскимъ: и4же прочте1тъ писaніе
+        сіе2 и3 рaзумъ є3гw2 возвэсти1тъ мнЁ, то1й въ багрzни1цу њблече1тсz, и3
+        гри1вна златaz на вы1ю є3гw2, и3 тре1тій во цaрствэ мое1мъ њбладaти
+        нaчнетъ."
+      sovr_rbo: "Царь громко закричал, приказывая привести заклинателей,
+        мудрецов-халдеев, звездочетов, — и сказал этим вавилонским мудрецам:
+        «Кто прочтет и истолкует мне эту надпись, того оденут в пурпур, он
+        получит золотую цепь на шею и станет третьим человеком в государстве»."
+      latin: "Exclamavit itaque rex fortiter ut introducerent magos, Chaldaeos, et
+        aruspices. Et proloquens rex ait sapientibus Babylonis: Quicumque
+        legerit scripturam hanc, et interpretationem ejus manifestam mihi
+        fecerit, purpura vestietur, et torquem auream habebit in collo, et
+        tertius in regno meo erit."
+      ukr: "Цар сильно закричав привести заклиначів, халдеїв та віщунів. Цар заговорив
+        та й сказав вавилонським мудрецям: Кожен муж, що прочитає це писання й
+        об'явить мені його розв'язку, той зодягне пурпуру й золотого ланцюга на
+        свою шию, і буде панувати третім у царстві."
+      nkjv: The king cried aloud to bring in the astrologers, the Chaldeans, and the
+        soothsayers. The king spoke, saying to the wise men of Babylon, "Whoever
+        reads this writing, and tells me its interpretation, shall be clothed
+        with purple and have a chain of gold around his neck; and he shall be
+        the third ruler in the kingdom."
+      desnitsky: ""
+      mt: ‫    קָרֵא מַלְכָּא בְּחַיִל לְהֶעָלָה לְאָשְׁפַיָּא *כשדיא **כַּשְׂדָּאֵי
+        וְגָזְרַיָּא עָנֵה מַלְכָּא וְאָמַר לְחַכִּימֵי בָבֶל דִּי כָל־אֱנָשׁ
+        דִּי־יִקְרֵה כְּתָבָה דְנָה וּפִשְׁרֵהּ יְחַוִּנַּנִי אַרְגְּוָנָא
+        יִלְבַּשׁ *והמונכא **וְהַמְנִיכָא‪‬ דִי־דַהֲבָא עַל־צַוְּארֵהּ
+        וְתַלְתִּי בְמַלְכוּתָא יִשְׁלַט׃ ס ‬
+      romana: 'Regele a inceput sa strige din toate puterile sa i se aduca
+        prezicatorii, caldeii si talcuitorii de semne. Atunci el a prins a grai
+        si a zis tuturor inteleptilor din Babilon: "Oricine va citi scrisul
+        acesta si imi va arata talcuirea lui va fi imbracat in vesmant de
+        purpura, lant de aur i se va pune imprejurul gatului lui si va carmui ca
+        al treilea in regatul meu!"'
+      francais: "Le roi cria avec force qu'on fît venir les astrologues, les Chaldéens
+        et les devins; et le roi prit la parole et dit aux sages de Babylone:
+        Quiconque lira cette écriture et m'en donnera l'explication sera revêtu
+        de pourpre, portera un collier d'or à son cou, et aura la troisième
+        place dans le gouvernement du royaume."
+      italian: "Allora il re si mise a gridare, ordinando che si convocassero gli
+        astrologi, i caldei e gli indovini. Appena vennero, il re disse ai saggi
+        di Babilonia: \"Chiunque leggerà quella scrittura e me ne darà la
+        spiegazione sarà vestito di porpora, porterà una collana d'oro al collo
+        e sarà il terzo signore del regno\"."
+      old_georgian: "და ღაღად-ყო მეფემან ძლიერად შეყუანება მოგუთა, ქალდეველთა, და
+        ღაზარინელთა. მიუგო მეფემან და ჰრქუა ბრძენთა ბაბილონისათა, ვითარმედ:
+        ყოველმან კაცმან, რომელმან წარიკითხოს ნაწერი ესე და თანშეტყუება მისი
+        მაუწყოს მე, პორფირი შეიმოსოს და მანიაკი ოქროსაჲ ქედსა ზედა მისსა, და
+        მესამედ მთავრობდეს მეფობასა შორის ჩემსა."
+      portuguese: "E ordenou o rei em alta voz, que se introduzissem os encantadores,
+        os caldeus e os adivinhadores; e falou o rei,\re disse aos sábios de
+        Babilônia: Qualquer que ler esta escritura, e me declarar a sua
+        interpretação, será vestido de\rpúrpura, e trará uma cadeia de ouro ao
+        pescoço, e no reino será o terceiro governante."
+      polish: "Zakrzyknął król, by wprowadzono wróżbitów, Chaldejczyków i
+        astrologów.\rZwrócił się król do mędrców babilońskich i rzekł: ”Każdy,
+        kto przeczyta to\rpismo i wyjaśni mi je, ma być odziany w purpurę i
+        złoty łańcuch na szyję i\rma panować w moim kraju jako trzeci”."
+      turkish: Yüksek sesle Babil'in bilgelerini - falcılarla yıldızbilimcileri -
+        çağırttı. Onlara, «Bu yazıyı kim okuyup ne anlama geldiğini bana
+        açıklarsa, kendisine mor giysi giydirilip boynuna altın zincir takılacak
+        ve ülkede üçüncü önder olacak» dedi.
+      nrt: "Царь громко закричал, чтобы привели волшебников, звездочетов и колдунов и
+        сказал этим вавилонским мудрецам: – Того, кто прочтет эту надпись и
+        объяснит мне ее смысл, оденут в пурпур, возложат ему на шею золотую
+        цепь, и он станет третьим человеком в царстве."
+      Macarius: "Закричал царь изо всей силы: «приведите магов, халдеев и гадателей
+        судеб». Царь приказал объявить мудрецам вавилонским: всякий человек,
+        который прочитает это написанное и объяснит мне значение его, будет одет
+        в порфиру, и золотая цепь будет на шее его, и властью он будет третий в
+        царстве."
+      bulgarian: 'Завика царят силно, за да доведат магьосници, халдейци и гледачи:
+        царят проговори и каза на мъдреците вавилонски: "който прочете това, що
+        е написано, и ми обясни, какво значи то, ще бъде облечен в багреница, и
+        на шията му ще бъде златна верижка, и в царството ми ще бъде трети
+        властник".'
+      deutsch: "Und der König rief überlaut, daß man die Weisen, Chaldäer und
+        Wahrsager hereinbringen sollte. Und er ließ den Weisen zu Babel sagen:
+        Welcher Mensch diese Schrift liest und sagen kann, was sie bedeute, der
+        soll in Purpur gekleidet werden und eine goldene Kette am Halse tragen
+        und der dritte Herr sein in meinem Königreiche."
+      ukr2: "І кликнув цар голосно, щоб привели чародіїв, халдеїв та звіздознавців.
+        Заговорив цар і сказав вавилонським мудрецям: «Хто прочитає це написане
+        і витлумачить мені його значення, того вберуть у пурпуру і золотий
+        ланцюг буде на шиї у нього, й стане він третім правителем у царстві.»"
+      ukr3: "І кликнув царь голосно, щоб привели мудрецїв, Халдеїв та віщунів, і став
+        царь говорити й сказав мудрецям Вавилонським: Хто прочитає се написане й
+        виложить менї, що воно значить, того вберуть в пурпур, і золотий ланцюг
+        буде на шиї в нього, і буде третім князем у царстві."
+      bel_syomukha: 'Моцна закрычаў цар, каб прывялі і заклінальнікаў, Халдэяў і
+        вяшчуноў; цар загаварыў і сказаў мудрацам Вавілонскім: "хто прачытае
+        гэта напісанае і разгадае мне сутнасьць яго, той будзе апрануты ў
+        пурпуру, і залаты ланцуг атрымае на шыю сваю, і трэцім валадаром будзе ў
+        царстве".'
+      Olesn: "Вскричал царь сильно, чтобы привести магов, халдеев и астрологов. Начал
+        царь и сказал мудрецам вавилонским: «кто бы ни был тот, кто прочтет
+        буквы эти и объяснение их сделает мне, в пурпур будет одет и цепь
+        золотую на шее и третьим человеком в царстве будет господствовать»."
+      lev-khv: "Сильно закричал царь, чтобы привели обаятелей, Халдеев и гадателей.
+        Стал царь говорить и сказал мудрецам Вавилонским: кто прочитает эту
+        надпись и объяснит мне значение ея, тот будет одет в багряницу, и
+        золотая цепь будет на шее у него, и третьим властителем будет он в
+        царстве."
+      czech: 'Kral mocne zvolal, aby privedli zaklinace, hvezdopravce a planetare.
+        Babylonskym mudrcum kral rekl: "Kdokoli precte toto pismo a sdeli mi
+        vyklad, bude oblecen do purpuru, na krk mu bude dan zlaty retez a bude
+        mit v kralovstvi moc jako treti po mne."'
+      spanish: "Gritó el rey con una voz muy fuerte que llamasen a los magos, caldeos
+        y adivinos, y hablándoles, dijo: El que descifre esta escritura y me la
+        interprete será vestido de púrpura, llevará collar de oro al cuello y
+        será el tercero en el gobierno del reino."
+      greek-lxx: καὶ ὁ βασιλεὺς ἐφώνησε φωνῇ μεγάλῃ καλέσαι τοὺς ἐπαοιδοὺς καὶ
+        φαρμακοὺς καὶ Χαλδαίους καὶ γαζαρηνοὺς ἀπαγγεῖλαι τὸ σύγκριμα τῆς γραφῆς
+        καὶ εἰσεπορεύοντο ἐπὶ θεωρίαν ἰδεῖν τὴν γραφήν καὶ τὸ σύγκριμα τῆς
+        γραφῆς οὐκ ἐδύναντο συγκρῖναι τῷ βασιλεῖ τότε ὁ βασιλεὺς ἐξέθηκε
+        πρόσταγμα λέγων πᾶς ἀνήρ ὃς ἂν ὑποδείξῃ τὸ σύγκριμα τῆς γραφῆς στολιεῖ
+        αὐτὸν πορφύραν καὶ μανιάκην χρυσοῦν περιθήσει αὐτῷ καὶ δοθήσεται αὐτῷ
+        ἐξουσία τοῦ τρίτου μέρους τῆς βασιλείας
+      greek-theodotion: καὶ ἐβόησεν ὁ βασιλεὺς ἐν ἰσχύι τοῦ εἰσαγαγεῖν μάγους
+        Χαλδαίους γαζαρηνοὺς καὶ εἶπεν τοῖς σοφοῖς Βαβυλῶνος ὃς ἂν ἀναγνῷ τὴν
+        γραφὴν ταύτην καὶ τὴν σύγκρισιν γνωρίσῃ μοι πορφύραν ἐνδύσεται καὶ ὁ
+        μανιάκης ὁ χρυσοῦς ἐπὶ τὸν τράχηλον αὐτοῦ καὶ τρίτος ἐν τῇ βασιλείᾳ μου
+        ἄρξει
+      st_text: "Сильно закричал царь, чтобы привели обаятелей, Халдеев и гадателей.
+        Царь начал говорить, и сказал мудрецам Вавилонским: кто прочитает это
+        написанное и объяснит мне значение его, тот будет облечен в багряницу, и
+        золотая цепь будет на шее у него, и третьим властелином будет в
+        царстве."
+  - id: 12876
+    number: 8
+    bookId: 34
+    text: И вошли все мудрецы царя, но не могли прочитать написанного и объяснить
+      царю значения его.
+    chapter: 5
+    chapterId: 982
+    parallels:
+      - verseId: 12687
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 2
+        short: Дан:2:2
+      - verseId: 12691
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 2
+        short: Дан:2:6
+    translates:
+      kassian: ""
+      podstr: И входили волхвы и чародеи и звездочёты и не мог никто разъяснение
+        писания сообщить.
+      csya: И вхождаху вси мудрии ко царю и не можаху писания прочести, ни разума царю
+        возвестити.
+      averincev: ""
+      ungerov: И входили все мудрецы к царю и не могли прочесть надписи, ни объяснить
+        значения (ея) царю.
+      csya_old: И# вхождaху вси2 мyдріи ко царю2 и3 не можaху писaніz прочести2, ни
+        рaзума царю2 возвэсти1ти.
+      sovr_rbo: Пришли царские мудрецы, но не сумели ни прочесть надпись, ни
+        истолковать царю ее значение.
+      latin: Tunc ingressi omnes sapientes regis non potuerunt nec scripturam legere,
+        nec interpretationem indicare regi.
+      ukr: Тоді поприходили всі царські мудреці, та не могли прочитати писання й
+        об'явити цареві його розв'язку.
+      nkjv: "Now all the king's wise men came, but they could not read the writing, or
+        make known to the king its interpretation. "
+      desnitsky: ""
+      mt: ‫    אֱדַיִן *עללין **עָלִּין כֹּל חַכִּימֵי מַלְכָּא וְלָא־כָהֲלִין
+        כְּתָבָא לְמִקְרֵא *ופשרא **וּפִשְׁרֵהּ לְהוֹדָעָה לְמַלְכָּא׃ ‬
+      romana: Atunci au venit toti inteleptii regelui, dar nu au putut citi scrisul,
+        nici sa-i faca cunoscut intelesul lui.
+      francais: Tous les sages du roi entrèrent; mais ils ne purent pas lire
+        l'écriture et en donner au roi l'explication.
+      italian: Allora entrarono nella sala tutti i saggi del re, ma non poterono
+        leggere quella scrittura né darne al re la spiegazione.
+      old_georgian: და შევიდოდეს ყოველნი ბრძენნი მეფისანი და ვერ შეუძლებდეს
+        წარკითხვასა ნაწერისასა, ვერცა თანშეტყუებასა უწყებად მეფისა.
+      portuguese: Então entraram todos os sábios do rei; mas não puderam ler o
+        escrito, nem fazer saber ao rei a sua interpretação.
+      polish: "Przystąpili więc wszyscy mędrcy królewscy, ale nie mogli odczytać pisma
+        ani\rpodać wyjaśnienia królowi."
+      turkish: Kralın bütün bilgeleri geldiyse de yazıyı kimse okuyamadı, ne anlama
+        geldiğini de açıklayamadı.
+      nrt: Все царские мудрецы вошли, но не смогли ни прочитать надписи, ни объяснить
+        царю ее смысл.
+      Macarius: Тогда вошли все мудрецы царские, но не могли прочитать написанного, и
+        объяснить царю значение.
+      bulgarian: И влязоха всички мъдреци цареви, ала не можаха да прочетат написаното
+        и да обяснят на царя значението му.
+      deutsch: Da wurden alle Weisen des Königs hereingebracht; aber sie konnten weder
+        die Schrift lesen noch die Deutung dem König anzeigen.
+      ukr2: Тоді ввійшли всі царські мудреці, та не спромоглись вони написане
+        прочитати й витлумачити цареві його значення.
+      ukr3: І ввійшли всї цареві мудрецї, але не могли прочитати написаного та й
+        виложити цареві значіннє того.
+      bel_syomukha: І ўвайшлі ўсе царовыя мудрацы, але не маглі прачытаць пісаньня і
+        разгадаць цару сутнасьць яго.
+      Olesn: Тогда приступили все мудрецы царские, но не могли прочитать букв и
+        объяснения возвестить царю.
+      lev-khv: Тогда пришли все царские мудрецы, но не могли прочитать надписи и
+        объяснить царю значение ея.
+      czech: Vsichni kralovsti mudrci tedy vstoupili, ale nebyli schopni pismo precist
+        a oznamit krali vyklad.
+      spanish: Entraron todos los sabios del rey, pero ninguno pudo descifrar la
+        escritura ni dar al rey su interpretación.
+      greek-lxx: καὶ εἰσεπορεύοντο οἱ ἐπαοιδοὶ καὶ φαρμακοὶ καὶ γαζαρηνοί καὶ οὐκ
+        ἠδύνατο οὐδεὶς τὸ σύγκριμα τῆς γραφῆς ἀπαγγεῖλαι
+      greek-theodotion: καὶ εἰσεπορεύοντο πάντες οἱ σοφοὶ τοῦ βασιλέως καὶ οὐκ
+        ἠδύναντο τὴν γραφὴν ἀναγνῶναι οὐδὲ τὴν σύγκρισιν γνωρίσαι τῷ βασιλεῖ
+      st_text: И вошли все мудрецы царя, но не могли прочитать написанного и объяснить
+        царю значения его.
+  - id: 12877
+    number: 9
+    bookId: 34
+    text: Царь Валтасар чрезвычайно встревожился, и вид лица его изменился на нем, и
+      вельможи его смутились.
+    chapter: 5
+    chapterId: 982
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Тогда царь призвал царицу относительно знамения и показал ей какое
+        великое есть и что всякий человек не может сообщить царю разъяснение
+        писания.
+      csya: Царь же валтасар возмятеся, и зрак его изменися на нем, и вельможи его
+        смущахуся.
+      averincev: ""
+      ungerov: А царь Валтасар встревожился и вид его изменился на нем, и вельможи его
+        смутились.
+      csya_old: Цaрь же валтасaръ возмzте1сz, и3 зрaкъ є3гw2 и3змэни1сz на не1мъ, и3
+        вельмHжи є3гw2 смущaхусz.
+      sovr_rbo: Тогда царь Валтасар сильно испугался, изменился в лице, и его вельмож
+        охватило смятение.
+      latin: Unde rex Baltassar satis conturbatus est, et vultus illius immutatus est;
+        sed et optimates ejus turbabantur.
+      ukr: Тоді цар Валтасар сильно перестрашився, а його ясність змінилася на ньому,
+        і його вельможі були безрадні.
+      nkjv: Then King Belshazzar was greatly troubled, his countenance was changed,
+        and his lords were astonished.
+      desnitsky: ""
+      mt: ‫    אֱדַיִן מַלְכָּא בֵלְשַׁאצַּר שַׂגִּיא מִתְבָּהַל וְזִיוֺהִי שָׁנַיִן
+        עֲלוֹהִי וְרַבְרְבָנוֹהִי מִשְׁתַּבְּשִׁין׃ ‬
+      romana: Regele Belsatar s-a inspaimantat foarte, fata lui s-a ingalbenit, iar
+        dregatorii lui au ramas inmarmuriti.
+      francais: Sur quoi le roi Belschatsar, fut très effrayé, il changea de couleur,
+        et ses grands furent consternés.
+      italian: Il re Baldassàr rimase molto turbato e cambiò colore; anche i suoi
+        grandi restarono sconcertati.
+      old_georgian: და მეფე ვალტასარ აღშფოთნა და შესახედავი მისი იცვალა მის ზედა და
+        დიდებულნი მისნი შეშფოთნებოდეს.
+      portuguese: Nisto ficou o rei Belsazar muito perturbado, e se lhe mudou o
+        semblante; e os seus grandes estavam perplexos.
+      polish: "Wtedy Baltazar przeraził się bardzo i kolor jego twarzy zmienił się, a
+        jego\rmożnowładców ogarnęło zmieszanie."
+      turkish: Bu yüzden Kral Belşassar daha da korktu, benzi büsbütün soldu. Soylu
+        adamlarıysa şaşkındı.
+      nrt: Тогда царь еще больше перепугался и изменился в лице. Его приближенные были
+        в крайнем замешательстве.
+      Macarius: Тогда царь Велшацар чрезвычайно встревожился, и вид лица его изменился
+        на нем, и вельможи его были в замешательстве.
+      bulgarian: Цар Валтасар се развълнува твърде много, и видът на лицето му се
+        измени, и велможите му се смутиха.
+      deutsch: Darüber erschrak der König Belsazer noch härter und verlor ganz seine
+        Farbe; und seinen Gewaltigen ward bange.
+      ukr2: Злякався вельми цар Валтасар, змінився на виду, й вельможі його
+        стривожились.
+      ukr3: Царь Валтасар злякався ще гірше, й вигляд лиця його змінився в нього, та й
+        вельможі його потрівожились.
+      bel_syomukha: Цар Валтасар над меру ўстрывожыўся, і выгляд ягонага твару
+        зьмяніўся, і вяльможы ягоныя сумеліся.
+      Olesn: Оттого царь Белшацар еще более смутился так что цвет лица его исказился
+        на нем и вельможи его не знали чтó делать.
+      lev-khv: Тогда царь Валтасар чрезвычайно встревожился, и вид лица его изменился
+        на нем, и вельможи его смутились.
+      czech: Kral Belsasar byl pln hruzy a barva jeho obliceje se zmenila. I
+        hodnostari byli zmateni.
+      spanish: Turbóse sobremanera el rey Baltasar, mudó de color y se consternaron
+        sus príncipes.
+      greek-lxx: τότε ὁ βασιλεὺς ἐκάλεσε τὴν βασίλισσαν περὶ τοῦ σημείου καὶ ὑπέδειξεν
+        αὐτῇ ὡς μέγα ἐστί καὶ ὅτι πᾶς ἄνθρωπος οὐ δύναται ἀπαγγεῖλαι τῷ βασιλεῖ
+        τὸ σύγκριμα τῆς γραφῆς
+      greek-theodotion: καὶ ὁ βασιλεὺς Βαλτασαρ πολὺ ἐταράχθη καὶ ἡ μορφὴ αὐτοῦ
+        ἠλλοιώθη ἐπ᾿ αὐτῷ καὶ οἱ μεγιστᾶνες αὐτοῦ συνεταράσσοντο
+      st_text: Царь Валтасар чрезвычайно встревожился, и вид лица его изменился на
+        нем, и вельможи его смутились.
+  - id: 12878
+    number: 10
+    bookId: 34
+    text: "Царица же, по поводу слов царя и вельмож его, вошла в палату пиршества;
+      начала говорить царица и сказала: царь, вовеки живи! да не смущают тебя
+      мысли твои, и да не изменяется вид лица твоего!"
+    chapter: 5
+    chapterId: 982
+    parallels:
+      - verseId: 27717
+        bookId: 16
+        bookCode: kniga-neemii
+        chapter: 2
+        short: Неем:2:3
+      - verseId: 12689
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 2
+        short: Дан:2:4
+      - verseId: 12743
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 3
+        short: Дан:3:9
+    translates:
+      kassian: ""
+      podstr: Тогда царица вспомнила к нему о Данииле который был из плена Иудеи.
+      csya: "И вниде царица в дом пирный, и рече царица: царю во веки живи: да не
+        смущают тебе размышления твоя, и зрак твой да не изменяется:"
+      averincev: ""
+      ungerov: 'И вошла царица в дом пира и сказала царица: "царь, во веки живи! Да не
+        смущают тебя помыслы твои и да не изменяется вид твой!'
+      csya_old: "И# вни1де цари1ца въ до1мъ пи1рный, и3 рече2 цари1ца: царю2 во вёки
+        живи2: да не смущaютъ тебе2 размышлє1ніz тво‰, и3 зрaкъ тво1й да не
+        и3змэнsетсz:"
+      sovr_rbo: "Царица узнала, о чем говорят царь и его вельможи, и явилась в покои,
+        где был пир. Сказала царица: «Царь, вовеки живи! Напрасно ты так
+        испугался и изменился в лице."
+      latin: "Regina autem pro re, quae acciderat regi et optimatibus ejus, domum
+        convivii ingressa est: et proloquens ait: Rex, in aeternum vive! non te
+        conturbent cogitationes tuae, neque facies tua immutetur."
+      ukr: "На слова царя та вельмож його ввійшла до дому прийняття цариця. Цариця
+        заговорила та й сказала: Царю, живи навіки! Нехай не страшать тебе думки
+        твої, а ясність твоя нехай не міняється!"
+      nkjv: The queen, because of the words of the king and his lords, came to the
+        banquet hall. The queen spoke, saying, "O king, live forever! Do not let
+        your thoughts trouble you, nor let your countenance change.
+      desnitsky: ""
+      mt: ‫    מַלְכְּתָא לָקֳבֵל מִלֵּי מַלְכָּא וְרַבְרְבָנוֹהִי לְבֵית מִשְׁתְּיָא
+        *עללת **עַלַּת עֲנָת מַלְכְּתָא וַאֲמֶרֶת מַלְכָּא לְעָלְמִין חֱיִי
+        אַל־יְבַהֲלוּךְ רַעְיוֹנָךְ וְזִיוָיךְ אַל־יִשְׁתַּנּוֹ׃ ‬
+      romana: 'Regina, auzind strigatul regelui si al dregatorilor, s-a dus in camara
+        de ospat. Ea a inceput a grai si a zis: "O, rege, sa traiesti in veac!
+        Gandurile tale sa nu te inspaimante, si chipul fetei tale sa nu se
+        schimbe!'
+      francais: "La reine, à cause des paroles du roi et de ses grands, entra dans la
+        salle du festin, et prit ainsi la parole: O roi, vis éternellement! Que
+        tes pensées ne te troublent pas, et que ton visage ne change pas de
+        couleur!"
+      italian: 'La regina, alle parole del re e dei suoi grandi, entrò nella sala del
+        banchetto e, rivolta al re, gli disse: "Re, vivi per sempre! I tuoi
+        pensieri non ti spaventino né si cambi il colore del tuo volto.'
+      old_georgian: "და მეფეაჲ პირისპირ სიტყუათა მეფისათა და დიდებულთა მისთასა სახიდ
+        სუმისაჲსა შევიდა. და მიუგო მეფეამან და ჰრქუა: მეფე, საუკუნოთადმი
+        ცოცხლებდ, ნუ აღგაშფოთებენ შენ გულისზრახვანი შენნი და შესახედავი შენი ნუ
+        იცვალებინ."
+      portuguese: "Ora a rainha, por causa das palavras do rei e dos seus grandes,
+        entrou na casa do banquete; e a rainha disse: Ó\rrei, vive para sempre;
+        não te perturbem os teus pensamentos, nem se mude o teu semblante."
+      polish: "Królowa weszła, na skutek słów króla i możnowładców, do sali
+        biesiadnej.\rOdezwała się królowa i rzekła: ”Królu, żyj wiecznie! Nie
+        lękaj się swoich myśli\ri niech kolor twej twarzy nie ulega zmianie!"
+      turkish: Kralla soyluların seslerini duyan kraliçe şölen salonuna geldi. «Çok
+        yaşa, ey kral!» dedi, «Aklından geçenler seni ürkütmesin, benzin
+        solmasın!
+      nrt: Услышав голоса царя и его приближенных, в пиршественный зал вошла царица. –
+        О царь, живи вечно! – сказала она. – Не тревожься и не бледней!
+      Macarius: "По случаю сего приключения с царем и вельможами его, вошла царица в
+        дом пиршества, и сказала царица: живи во веки, царь! Да не возмущают
+        тебя мысли твои, и да не изменяется вид лица твоего."
+      bulgarian: 'А царицата, по повод думите на царя и на велможите му, влезе в
+        стаята, дето беше пирът; проговори царицата и рече: "царю, жив да си
+        вовеки! да те не смущават мислите ти, и да се не изменя видът на лицето
+        ти.'
+      deutsch: "Da ging die Königin um solcher Sache des Königs und seiner Gewaltigen
+        willen hinein in den Saal und sprach: Der König lebe ewiglich! Laß dich
+        deine Gedanken nicht so erschrecken und entfärbe dich nicht also!"
+      ukr2: "Цариця ж по словах царя та його вельмож увійшла в бенкетний дім.
+        Заговорила цариця й мовила: «Царю, живи повіки! Нехай твої думки тебе не
+        лякають, і нехай не міняється вигляд твого обличчя."
+      ukr3: "Цариця ж (мати) з причини того, що лучилось цареві й вельможам його,
+        ввійшла в горницю бенкету; й почала говорити цариця та й сказала: Царю!
+        жий по віки! нехай не лякають тебе твої думки, й нехай не зміняється
+        вигляд лиця твого."
+      bel_syomukha: 'На словы цара і яго вяльможаў увайшла ў пакой гасьціны царыца;
+        загаварыла царыца і сказала: "цару, вавекі жыві! хай цябе не бянтэжаць
+        думкі твае, і хай не мяняецца выгляд твару твайго.'
+      Olesn: "По поводу этого обстоятельства с царем и вельможами его, царица вошла в
+        дом пиршества. Начала царица и сказала: «царь, во веки живи! пусть не
+        смущают тебя мысли твои и пусть цвет лица твоего не искажается."
+      lev-khv: "Царица, при этом происшествии с царем и вельможами его, вошла в дом
+        пиршества; стала говорить царица и сказала: царь! во веки живи; да не
+        смущают тебя мысли твои, и да не изменяется вид лица твоего!"
+      czech: 'Po slovech krale a hodnostaru vesla do domu, kde hodovali, kralovna a
+        rekla: "Krali, naveky bud ziv! Necht te tve myslenky neplni hruzou a
+        barva tveho obliceje at se nemeni.'
+      spanish: "La reina, llevada del clamoreo del rey y de los príncipes, entró en la
+        sala del banquete y, tomando la palabra, dijo: Vive por siempre, ¡oh
+        rey! que no te turben tus pensamientos ni se demude tu rostro,"
+      greek-lxx: τότε ἡ βασίλισσα ἐμνήσθη πρὸς αὐτὸν περὶ τοῦ Δανιηλ ὃς ἦν ἐκ τῆς
+        αἰχμαλωσίας τῆς Ιουδαίας
+      greek-theodotion: καὶ εἰσῆλθεν ἡ βασίλισσα εἰς τὸν οἶκον τοῦ πότου καὶ εἶπεν
+        βασιλεῦ εἰς τοὺς αἰῶνας ζῆθι μὴ ταρασσέτωσάν σε οἱ διαλογισμοί σου καὶ ἡ
+        μορφή σου μὴ ἀλλοιούσθω
+      st_text: "Царица же, по поводу слов царя и вельмож его, вошла в палату
+        пиршества; начала говорить царица и сказала: царь, вовеки живи! да не
+        смущают тебя мысли твои, и да не изменяется вид лица твоего!"
+  - id: 12879
+    number: 11
+    bookId: 34
+    text: Есть в царстве твоем муж, в котором дух святаго Бога; во дни отца твоего
+      найдены были в нем свет, разум и мудрость, подобная мудрости богов, и царь
+      Навуходоносор, отец твой, поставил его главою тайноведцев, обаятелей,
+      Халдеев и гадателей, - сам отец твой, царь,
+    chapter: 5
+    chapterId: 982
+    parallels:
+      - verseId: 12499
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 1
+        short: Дан:1:20
+      - verseId: 12839
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 4
+        short: Дан:4:5
+    translates:
+      kassian: ""
+      podstr: "И сказала царю: Человек сведущий был и мудрый и превосходящий всех
+        мудрых Вавилона."
+      csya: "есть муж во царстве твоем, в немже дух Божий: и во дни отца твоего
+        бодрость и смысл обретеся в нем, и царь навуходоносор отец твой князя
+        постави его волхвом, обаятелем, халдеем, газарином,"
+      averincev: ""
+      ungerov: Есть муж в царстве твоем, в коем Дух Божий, и во дни отца твоего
+        бодрость и разум найдены в нем, и царь Навуходоносор, отец твой,
+        поставил его начальником волхвов, заклинателей, халдеев, предсказателей,
+      csya_old: "є4сть мyжъ во цaрствэ твое1мъ, въ не1мже д¦ъ б9ій: и3 во дни6 nтцA
+        твоегw2 бо1дрость и3 смы1слъ њбрётесz въ не1мъ, и3 цaрь навуходоно1соръ
+        nте1цъ тво1й кнsзz постaви є3го2 волхвHмъ, њбаsтелємъ, халде1ємъ,
+        газари1нwмъ,"
+      sovr_rbo: Живет в твоем царстве человек, в котором есть дух Бога святого. Еще в
+        правление твоего отца в нем обнаружились светлый ум, прозорливость и
+        мудрость, подобная мудрости богов. Царь Навуходоносор, твой отец,
+        назначил его главой магов, заклинателей, мудрецов-халдеев и звездочетов
+        — сам царь, отец твой!
+      latin: "Est vir in regno tuo, qui spiritum deorum sanctorum habet in se, et in
+        diebus patris tui scientia et sapientia inventae sunt in eo: nam et rex
+        Nabuchodonosor pater tuus principem magorum, incantatorum, Chaldaeorum,
+        et aruspicum constituit eum, pater, inquam, tuus, o rex:"
+      ukr: Є в твоєму царстві муж, що в ньому дух святих богів, а за днів твого батька
+        в ньому знаходилась ясність і розум та мудрість, рівна мудрості богів. І
+        цар Навуходоносор, твій батько, настановив його начальником чарівників,
+        заклиначів, халдеїв, віщунів, батько твій цар,
+      nkjv: There is a man in your kingdom in whom is the Spirit of the Holy God. And
+        in the days of your father, light and understanding and wisdom, like the
+        wisdom of the gods, were found in him; and King Nebuchadnezzar your
+        father-your father the king-made him chief of the magicians,
+        astrologers, Chaldeans, and soothsayers.
+      desnitsky: ""
+      mt: ‫    אִיתַי גְּבַר בְּמַלְכוּתָךְ דִּי רוּחַ אֱלָהִין קַדִּישִׁין בֵּהּ
+        וּבְיוֹמֵי אֲבוּךְ נַהִירוּ וְשָׂכְלְתָנוּ וְחָכְמָה כְּחָכְמַת־אֱלָהִין
+        הִשְׁתְּכַחַת בֵּהּ וּמַלְכָּא נְבֻכַדְנֶצַּר אֲבוּךְ רַב חַרְטֻמִּין
+        אָשְׁפִין כַּשְׂדָּאִין גָּזְרִין הֲקִימֵהּ אֲבוּךְ מַלְכָּא׃ ‬
+      romana: In regatul tau se afla un om care are in el Duhul lui Dumnezeu celui
+        Sfant si in vremea domniei tatalui tau a fost descoperita in el lumina,
+        pricepere si intelepciune, ca intelepciunea dumnezeiasca, iar regele
+        Nabucodonosor, tatal tau, l-a pus mai-marele talcuitorilor ele semne, al
+        caldeilor, al cititorilor in stele si al inteleptilor.
+      francais: Il y a dans ton royaume un homme qui a en lui l'esprit des dieux
+        saints; et du temps de ton père, on trouva chez lui des lumières, de
+        l'intelligence, et une sagesse semblable à la sagesse des dieux. Aussi
+        le roi  Nebucadnetsar, ton père, le roi, ton père, l'établit chef des
+        magiciens, des astrologues, des Chaldéens, des devins,
+      italian: C'è nel tuo regno un uomo, in cui è lo spirito degli dèi santi. Al
+        tempo di tuo padre si trovò in lui luce, intelligenza e sapienza pari
+        alla sapienza degli dèi. Il re Nabucodònosor tuo padre lo aveva fatto
+        capo dei maghi, degli astrologi, dei caldei e degli indovini.
+      old_georgian: არს მამაკაცი მეფობისა შენსა ქუეშე, რომლისა შორის სული ღმრთისაჲ
+        წმიდაჲ არს მის თანა. და დღეთა შინა მამისა შენისათა მღჳძარებაჲ და
+        გულისხმის-ყოფაჲ იპოა მის შორის და მეფემან ნაბუქოდონოსორმა, მამამან
+        შენმან, მთავრად მსახრვალთა, მოგუთა და ქალდეველთა და ღაზარინელთა დაადგინა
+        იგი.
+      portuguese: "Há no teu reino um homem que tem o espírito dos deuses santos; e
+        nos dias de teu pai se achou nele luz, e\rinteligência, e sabedoria,
+        como a sabedoria dos deuses; e teu pai, o rei Nabucodonosor, sim, teu
+        pai, ó rei, o\rconstituiu chefe dos magos, dos encantadores, dos
+        caldeus, e dos adivinhadores;"
+      polish: "Jest w twoim królestwie mąż posiadający ducha świętych bogów: w
+        czasach\rtwego ojca znaleziono w nim światło rozumu i mądrość podobną do
+        mądrości bogów. Ojciec twój, król Nabuchodonozor, ustanowił go
+        zwierzchnikiem\rwykładaczy snów, wróżbitów, Chaldejczyków i astrologów,"
+      turkish: Ülkende kendisinde kutsal ilahların ruhu bulunan biri var. Atan Kral
+        Nebukadnessar'ın döneminde kavrayışa, sağduyuya, ilahlara özgü bilgeliğe
+        sahip olmakla tanınırdı. Atan Kral Nebukadnessar onu sihirbazların,
+        yıldızbilimcilerin, falcıların başkanlığına atadı.
+      nrt: В твоем царстве есть человек, в котором пребывает дух святых богов. Во
+        времена твоего деда он прославился своей просвещенностью, разумом и
+        мудростью, подобной мудрости богов. Царь Навуходоносор, твой дед,
+        поставил его главой чародеев, волшебников, звездочетов и колдунов.
+      Macarius: В царстве твоем есть человек, в котором дух святых богов; и во дни
+        отца твоего найден был в нем свет, и разум и мудрость, подобные
+        премудрости богов; и отец твой, царь Невухаднецар, отец твой, царь!
+        поставил его настоятелем тайноведцев, магов, халдеев, гадателей судеб;
+      bulgarian: В царството ти има мъж, в когото е Духът на Бога Светий; в дните на
+        баща ти намери се в него светлина, разум и мъдрост, като мъдростта на
+        боговете, и цар Навуходоносор, баща ти, го постави глава на
+        тайноведците, магьосниците, халдейците и гледачите, - сам баща ти,
+        царят,
+      deutsch: Es ist ein Mann in deinem Königreich, der den Geist der heiligen Götter
+        hat. Denn zu deines Vaters Zeit ward bei ihm Erleuchtung gefunden,
+        Klugheit und Weisheit, wie der Götter Weisheit ist; und dein Vater,
+        König Nebukadnezar, setzte ihn über die Sternseher, Weisen, Chaldäer und
+        Wahrsager,
+      ukr2: Є в твоєму царстві муж, в якому дух святих богів; за часів твого батька
+        відкрили в ньому світлий розум і мудрість, подібну до мудрости богів,
+        тож цар Навуходоносор, твій батько, настановив його головою над
+        віщунами, чародіями, халдеями та звіздознавцями - сам батько твій, цар;
+      ukr3: Є в твойму царстві муж, що в ньому дух сьвятого Бога; за часів панотця
+        твого знайдено в ньому сьвітло, розум і мудрість, схожу на мудрість
+        богів, і царь Навуходонозор, твій панотець, поставив його головою над
+        віщунами, чарівниками, Халдеями та ворожбитами - сам панотець твій,
+        царь,
+      bel_syomukha: Ёсьць у тваім царстве муж, у якім дух сьвятога Бога; у дні твайго
+        бацькі былі ў ім яснасьць, розум і мудрасьць, роўная мудрасьці багоў, і
+        цар Навухаданосар, твой бацька, паставіў яго начальнікам чарадзеяў,
+        Халдэяў і вяшчуноў, - сам бацька твой, цар,
+      Olesn: Есть муж в царстве твоем; дух богов святых в нем и во дни отца твоего
+        прозорливость, и разум, и мудрость, как мудрость богов, была найдена в
+        нем, и царь Навуходоносор, отец твой, начальником книжников, магов,
+        халдеев, астрологов поставил его (отец твой царь),
+      lev-khv: Есть в царстве твоем муж, в котором витает дух святых богов; во дни
+        отца твоего обретены были в нем свет, разум и мудрость, подобная
+        мудрости богов, и царь Навуходоносор, отец твой, сам царь, отец твой,
+        поставил его начальником тайноведцев, обаятелей, Халдеев и гадателей;
+      czech: Je ve tvem kralovstvi muz, v nemz je duch svatych bohu. Za dnu tveho otce
+        bylo shledano, ze je osviceny a zbehly v moudrosti, ktera je jako
+        moudrost bohu. Kral Nebukadnesar, tvuj otec, ho ustanovil nejvyssim z
+        vestcu, zaklinacu, hvezdopravcu a planetaru, ano, tvuj otec, krali,
+      spanish: que hay en tu reino un hombre que tiene en sí el espíritu de los santos
+        dioses, y ya en los tiempos de tu padre, el rey, fue hallada en él una
+        sabiduría semejante a la sabiduría de los dioses, y el rey
+        Nabucodonosor, tu padre, ¡oh rey! le hizo jefe de magos, astrólogos,
+        caldeos y adivinos,
+      greek-lxx: καὶ εἶπε τῷ βασιλεῖ ὁ ἄνθρωπος ἐπιστήμων ἦν καὶ σοφὸς καὶ ὑπερέχων
+        πάντας τοὺς σοφοὺς Βαβυλῶνος
+      greek-theodotion: ἔστιν ἀνὴρ ἐν τῇ βασιλείᾳ σου ἐν ᾧ πνεῦμα Θεοῦ καὶ ἐν ταῖς
+        ἡμέραις τοῦ πατρός σου γρηγόρησις καὶ σύνεσις εὑρέθη ἐν αὐτῷ καὶ ὁ
+        βασιλεὺς Ναβουχοδονοσορ ὁ πατήρ σου ἄρχοντα ἐπαοιδῶν μάγων Χαλδαίων
+        γαζαρηνῶν κατέστησεν αὐτόν
+      st_text: Есть в царстве твоем муж, в котором дух святаго Бога; во дни отца
+        твоего найдены были в нем свет, разум и мудрость, подобная мудрости
+        богов, и царь Навуходоносор, отец твой, поставил его главою тайноведцев,
+        обаятелей, Халдеев и гадателей, - сам отец твой, царь,
+  - id: 12880
+    number: 12
+    bookId: 34
+    text: потому что в нем, в Данииле, которого царь переименовал Валтасаром,
+      оказались высокий дух, ведение и разум, способный изъяснять сны, толковать
+      загадочное и разрешать узлы. Итак пусть призовут Даниила и он объяснит
+      значение.
+    chapter: 5
+    chapterId: 982
+    parallels:
+      - verseId: 12486
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 1
+        short: Дан:1:7
+      - verseId: 12715
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 2
+        short: Дан:2:30
+    translates:
+      kassian: ""
+      podstr: И Дух Святой в нём есть и в дни отца твоего царя разъяснения
+        сверхобъёмистые показал Навуходоносору отцу твоему.
+      csya: "яко дух преизобильный (бяше) в нем, и премудрость и смысл (обретеся) в
+        нем, сказуя сны и возвещая сокровенная и разрешая соузы, даниил, и царь
+        нарече имя ему валтасар: ныне убо да призовется, и сказание его
+        возвестит тебе."
+      averincev: ""
+      ungerov: 'Ибо преизобильный дух (был) в нем, и мудрость, и разум (найдены) в
+        нем: он объяснял сны, открывал тайны, разрешал загадки, — (это) Даниил,
+        а царь назвал его Валтасаром. Итак пусть теперь его позовут, и он
+        объяснит тебе значение ея".'
+      csya_old: "ћкw дyхъ преиз8oби1льный (бsше) въ не1мъ, и3 премyдрость и3 смы1слъ
+        (њбрётесz) въ не1мъ, сказyz сны2 и3 возвэщaz сокровє1ннаz и3 разрэшaz
+        соyзы, даніи1лъ, и3 цaрь нарече2 и4мz є3мY валтасaръ: нн7э ў2бо да
+        призове1тсz, и3 сказaніе є3гw2 возвэсти1тъ тебЁ."
+      sovr_rbo: У него, у Даниила, которого царь назвал Белтешаццаром, был дух
+        несравненный, были знание и прозорливость в толковании снов,
+        разгадывании загадочного и распутывании запутанного. Пусть позовут
+        Даниила — он даст толкование».
+      latin: "quia spiritus amplior, et prudentia, intelligentiaque et interpretatio
+        somniorum, et ostensio secretorum, ac solutio ligatorum inventae sunt in
+        eo, hoc est in Daniele: cui rex posuit nomen Baltassar. Nunc itaque
+        Daniel vocetur, et interpretationem narrabit."
+      ukr: бо в ньому, в Даниїлові, якому цар дав ім'я Валтасар, знаходився надмірний
+        дух, і знання та розум розв'язувати сни, і висловлювати загадки та
+        розплутувати вузли. Нехай буде покликаний тепер Даниїл, і нехай він
+        оголосить розв'язку!
+      nkjv: Inasmuch as an excellent spirit, knowledge, understanding, interpreting
+        dreams, solving riddles, and explaining enigmas were found in this
+        Daniel, whom the king named Belteshazzar, now let Daniel be called, and
+        he will give the interpretation."
+      desnitsky: ""
+      mt: ‫    כָּל־קֳבֵל דִּי רוּחַ יַתִּירָה וּמַנְדַּע וְשָׂכְלְתָנוּ מְפַשַּׁר
+        חֶלְמִין וַאַחֲוָיַת אֲחִידָן וּמְשָׁרֵא קִטְרִין הִשְׁתְּכַחַת בֵּהּ
+        בְּדָנִיֵּאל דִּי־מַלְכָּא שָׂם־שְׁמֵהּ בֵּלְטְשַׁאצַּר כְּעַן
+        דָּנִיֵּאל יִתְקְרֵי וּפִשְׁרָה יְהַחֲוֵה׃ פ ‬
+      romana: Din pricina ca s-a descoperit in Daniel un duh inalt, o stiinta si o
+        pricepere de a talcui visele, de a dezlega lucrurile greu de inteles si
+        de a descoperi tainele, pentru aceasta regele i-a dat numele de
+        Beltsatar. Deci cheama pe Daniel, si el iti va arata talcuirea".
+      francais: parce qu'on trouva chez lui, chez Daniel, nommé par le roi
+        Beltschatsar, un esprit supérieur, de la science et de l'intelligence,
+        la faculté d'interpréter les songes, d'expliquer les énigmes, et de
+        résoudre les questions difficiles. Que Daniel soit donc appelé, et il
+        donnera l'explication.
+      italian: Fu riscontrato in questo Daniele, che il re aveva chiamato Baltazzàr,
+        uno spirito superiore e tanto accorgimento da interpretare sogni,
+        spiegare detti oscuri, sciogliere enigmi. Si convochi dunque Daniele ed
+        egli darà la spiegazione".
+      old_georgian: რამეთუ სული მეტი არს მის შორის და ცნობაჲ და გულისხმის-ყოფაჲ
+        თანშემტყუები ძილისშორისთა და მიმთხრობი დაფარულთაჲ, და განმჴსნელი
+        საკრველთაჲ - დანიელ. და მეფემან დასდვა მას სახელი ვალტასარ. აწ იწოდენ
+        დანიელი და თანაშეტყუებაჲ მიგითხრას შენ.
+      portuguese: "porquanto se achou neste Daniel um espírito excelente, e
+        conhecimento e entendimento para interpretar sonhos,\rexplicar enigmas e
+        resolver dúvidas, ao qual o rei pôs o nome de Beltessazar. Chame-se,
+        pois, agora Daniel, e ele\rdará a interpretação."
+      polish: "ponieważ stwierdzono u Daniela, któremu król nadał imię Belteszassar,
+        nadzwyczajnego ducha, wiedzę i rozwagę, umiejętność wykładania snów,
+        wyjaśniania rzeczy zagadkowych i rozwiązywania zawiłych. Każ więc
+        zawołać\rDaniela, a on ci wskaże znaczenie”."
+      turkish: Kralın Belteşassar diye çağırdığı Daniel olağanüstü bir ruha, bilgiye,
+        sağduyuya sahiptir. Üstelik düşleri yorumlama, bilmeceleri çözme,
+        gizemleri açıklama yeteneği de vardır. Daniel'i çağırt, yazının ne
+        anlama geldiğini o sana söyleyecektir.»
+      nrt: В этом человеке, Данииле, которого царь назвал Белтешаццаром, нашлись
+        проницательность, знание, разум и умение толковать сны, раскрывать
+        загадки и разрешать сложные задачи. Вели позвать Даниила, и он объяснит
+        тебе смысл надписи.
+      Macarius: Потому что в нем, Данииле, которому царь дал имя Велтшацар, найден
+        чрезвычайный дух, и ведение, и разумение разгадывать загадки и разрешать
+        узлы. Итак, пусть позовут Даниила, он объявит смысл.
+      bulgarian: защото в него, в Даниила, комуто царят промени името на Валтасар, се
+        намери висок дух, знание и разум, способен да разкрива сънища, да
+        тълкува загадъчното и да развързва възли. Затова нека повикат Даниила, -
+        и той ще обясни значението".
+      deutsch: "darum daß ein hoher Geist bei ihm gefunden ward, dazu Verstand und
+        Klugheit, Träume zu deuten, dunkle Sprüche zu erraten und verborgene
+        Sachen zu offenbaren: nämlich Daniel, den der König ließ Beltsazar
+        nennen. So rufe man nun Daniel; der wird sagen, was es bedeutet."
+      ukr2: власне тому, що в ньому, в Даниїлі, котрому цар змінив ім'я на Валтасара,
+        відкрито високий дух, знання й розум викладати сни, відгадувати загадки
+        й розв'язувати труднощі. Нехай, отже, покличуть Даниїла, й він
+        витлумачить значення.»
+      ukr3: Бо в ньому, в Даниїлї, котрому царь змінив імя на Валтасара, знайдено
+        високий дух, знаннє й розум, спосібний викладати сни, відгадувати
+        загадкове й розвязувати помотане. Так нехай покличуть Даниїла, він
+        скаже, що се значить.
+      bel_syomukha: бо ў ім, у Данііле, якога цар пераназваў Валтасарам, выявіліся
+        высокі дух, веданьне і розум, здольны разгадваць сны, тлумачыць загадкі
+        і разблытваць вузлы. Дык вось, няхай паклічуць Данііла, - і ён разгадае
+        сутнасьць".
+      Olesn: потому что дух необыкновенный, и знание, и разум в истолковании снов, и
+        изъяснении загадок и разрешении узлов были найдены в нем, в Данииле,
+        которому царь дал имя Белтешацар. И так пусть будет призван Даниил; он
+        даст объяснение».
+      lev-khv: Так как в нем, в Данииле, котораго царь переименовал Валтасаром,
+        оказались необыкновенный дух, ведение и разум, дар изъяснять сны,
+        толковать притчи и распутывать узлы. И так пусть призовут Даниила, и он
+        объяснит значение.
+      czech: nebot bylo shledano, ze Daniel, jemuz kral dal jmeno Beltsasar, ma
+        mimoradneho ducha a poznani a ze je zbehly ve vykladani snu, reseni
+        zahad a vysvetlovani veci nesnadnych. Necht je Daniel nyni zavolan a
+        sdeli vyklad."
+      spanish: porque se halló en Daniel, llamado Baltasar por el rey, un espíritu
+        superior de ciencia e inteligencia, la facultad de interpretar los
+        sueños, de explicar los enigmas, de resolver las dudas. Llama, pues, a
+        Daniel y él te dará la interpretación.
+      greek-lxx: καὶ πνεῦμα ἅγιον ἐν αὐτῷ ἐστι καὶ ἐν ταῖς ἡμέραις τοῦ πατρός σου τοῦ
+        βασιλέως συγκρίματα ὑπέρογκα ὑπέδειξε Ναβουχοδονοσορ τῷ πατρί σου
+      greek-theodotion: ὅτι πνεῦμα περισσὸν ἐν αὐτῷ καὶ φρόνησις καὶ σύνεσις συγκρίνων
+        ἐνύπνια καὶ ἀναγγέλλων κρατούμενα καὶ λύων συνδέσμους Δανιηλ καὶ ὁ
+        βασιλεὺς ἐπέθηκεν αὐτῷ ὄνομα Βαλτασαρ νῦν οὖν κληθήτω καὶ τὴν σύγκρισιν
+        αὐτοῦ ἀναγγελεῖ σοι
+      st_text: потому что в нем, в Данииле, которого царь переименовал Валтасаром,
+        оказались высокий дух, ведение и разум, способный изъяснять сны,
+        толковать загадочное и разрешать узлы. Итак пусть призовут Даниила и он
+        объяснит значение.
+  - id: 12881
+    number: 13
+    bookId: 34
+    text: "Тогда введен был Даниил пред царя, и царь начал речь и сказал Даниилу: ты
+      ли Даниил, один из пленных сынов Иудейских, которых отец мой, царь, привел
+      из Иудеи?"
+    chapter: 5
+    chapterId: 982
+    parallels:
+      - verseId: 12485
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 1
+        short: Дан:1:6
+    translates:
+      kassian: ""
+      podstr: "Тогда Даниил был приведен к царю и ответивший царь сказал ему:"
+      csya: "Тогда даниил введен бысть пред царя. И рече царь даниилу: ты лиеси
+        даниил, от сынов пленник иудейских, ихже приведе навуходоносор царь отец
+        мой?"
+      averincev: ""
+      ungerov: 'Тогда Даниил введен был к царю. И сказал царь Даниилу: "ты ли Даниил
+        из пленных сынов Иудейских, коих привел царь Навуходоносор, отец мой?'
+      csya_old: "ТогдA даніи1лъ введе1нъ бы1сть пред8 царS. И# рече2 цaрь даніи1лу:
+        ты1 ли є3си2 даніи1лъ, t сынHвъ плBнникъ їуде1йскихъ, и5хже приведе2
+        навуходоно1соръ цaрь nте1цъ мо1й;"
+      sovr_rbo: "Привели к царю Даниила. Царь сказал ему: «Ты ли тот самый Даниил, из
+        переселенцев, которых царь, отец мой, привел из Иудеи?"
+      latin: "Igitur introductus est Daniel coram rege: ad quem praefatus rex ait: Tu
+        es Daniel de filiis captivitatis Judae, quem adduxit pater meus rex de
+        Judaea?"
+      ukr: "Того часу Даниїл був приведений перед царя. Цар заговорив та й сказав до
+        Даниїла: Чи ти той Даниїл, що з Юдиних синів вигнання, яких вивів цар,
+        мій батько, з Юдеї?"
+      nkjv: Then Daniel was brought in before the king. The king spoke, and said to
+        Daniel, "Are you that Daniel who is one of the captives from Judah, whom
+        my father the king brought from Judah?
+      desnitsky: ""
+      mt: ‫    בֵּאדַיִן דָּנִיֵּאל הֻעַל קֳדָם מַלְכָּא עָנֵה מַלְכָּא וְאָמַר
+        לְדָנִיֵּאל *אנתה־**אַנְתְּ־הוּא דָנִיֵּאל דִּי־מִן־בְּנֵי גָלוּתָא דִּי
+        יְהוּד דִּי הַיְתִי מַלְכָּא אַבִי מִן־יְהוּד׃ ‬
+      romana: 'Daniel a fost adus inaintea regelui. Regele a zis atunci lui Daniel:
+        "Tu esti Daniel, cel dintre robii iudei pe care i-a adus tatal meu din
+        Iuda?'
+      francais: "Alors Daniel fut introduit devant le roi. Le roi prit la parole et
+        dit à Daniel: Es-tu ce Daniel, l'un des captifs de Juda, que le roi, mon
+        père, a amenés de Juda?"
+      italian: 'Fu quindi introdotto Daniele alla presenza del re ed egli gli disse:
+        "Sei tu Daniele un deportato dei Giudei, che il re mio padre ha condotto
+        qua dalla Giudea?'
+      old_georgian: "მაშინ დანიელ შეიყვანა წინაშე მეფისა და მეფემან ჰრქუა დანიილს: შენ
+        ხარა დანიელ, ძეთაგანი ტყუეობისა იუდაჲსათაჲ, რომელი წარმოიღო მეფემან,
+        მამამან ჩემმან, იუდეაჲთ?"
+      portuguese: "Então Daniel foi introduzido à presença do rei. Falou o rei, e
+        disse à Daniel: És tu aquele Daniel, um dos cativos\rde Judá, que o rei,
+        meu pai, trouxe de Judá?"
+      polish: "Wtedy przyprowadzono Daniela przed króla. Król odezwał się do
+        Daniela:\r”Czy to ty jesteś Daniel, jeden z uprowadzonych z Judy,
+        których sprowadził\r”z Judy” król, mój ojciec?"
+      turkish: Böylece Daniel'i kralın önüne getirdiler. Kral, «Kral atamın Yahuda'dan
+        getirdiği, Yahuda sürgünlerinden Daniel sen misin?» diye sordu,
+      nrt: "Тогда Даниила привели к царю, и царь сказал ему: – Ты ли Даниил, один из
+        тех пленников, которых мой дед, царь, привел из Иудеи?"
+      Macarius: "Тогда введен Даниил к царю, и царь сказал Даниилу: «ты ли, Даниил,
+        один из переселенных сынов Иудеи, которых отец мой, царь, привел сюда из
+        Иудеи?"
+      bulgarian: 'Тогава въведоха Даниила при царя, и царят проговори и каза на
+        Даниила: "ти ли си Даниил, един от пленените синове иудейски, които баща
+        ми - царят - доведе от Иудея?'
+      deutsch: "Da ward Daniel hinein vor den König gebracht. Und der König sprach zu
+        Daniel: Bist du der Daniel, der Gefangenen einer aus Juda, die der
+        König, mein Vater aus Juda hergebracht hat?"
+      ukr2: "Тоді введено Даниїла перед царя. Цар заговорив і сказав до Даниїла: «Ти,
+        Даниїле, один з полонених синів юдейських, що їх цар, мій батько, привів
+        був з Юдеї?"
+      ukr3: "Тодї введено Даниїла перед царя, і царь почав говорити й сказав до
+        Даниїла: Чи ти Даниїл, один із полонених синів Юдейських, що їх панотець
+        мій-царь привів із Юдеї?"
+      bel_syomukha: 'Тады ўведзены быў Данііл да цара, і цар пачаў слова і сказаў
+        Даніілу: "ці ты Данііл, адзін з палонных сыноў Юдэйскіх, якіх мой
+        бацька, цар, прывёў зь Юдэі?'
+      Olesn: "Тогда Даниил был приведен пред царя. Начал царь и сказал Даниилу: «ты ли
+        Даниил из пленников иудейских, которых вывел царь отец мой из Иудеи?.."
+      lev-khv: "Тогда введен был Даниил пред царя, и царь, начав речь, сказал Даниилу:
+        ты ли Даниил, один из плененных сынов Иудейских, которых отец мой, царь,
+        привел из Иудеи?"
+      czech: 'Daniel byl hned priveden ke krali. Kral se Daniela otazal: "Ty jsi
+        Daniel z judskych presidlencu, ktereho privedl kral, muj otec, z
+        Judska?'
+      spanish: "Fue, pues, introducido Daniel a la presencia del rey, y tomando el rey
+        la palabra, dijo a Daniel: ¿Eres tú Daniel, de los hijos de Judá, a
+        quien el rey, mi padre, trajo de Jerusalén?"
+      greek-lxx: τότε Δανιηλ εἰσήχθη πρὸς τὸν βασιλέα καὶ ἀποκριθεὶς ὁ βασιλεὺς εἶπεν αὐτῷ
+      greek-theodotion: τότε Δανιηλ εἰσήχθη ἐνώπιον τοῦ βασιλέως καὶ εἶπεν ὁ βασιλεὺς
+        τῷ Δανιηλ σὺ εἶ Δανιηλ ὁ ἀπὸ τῶν υἱῶν τῆς αἰχμαλωσίας τῆς Ιουδαίας ἧς
+        ἤγαγεν ὁ βασιλεὺς ὁ πατήρ μου
+      st_text: "Тогда введен был Даниил пред царя, и царь начал речь и сказал Даниилу:
+        ты ли Даниил, один из пленных сынов Иудейских, которых отец мой, царь,
+        привел из Иудеи?"
+  - id: 12882
+    number: 14
+    bookId: 34
+    text: Я слышал о тебе, что дух Божий в тебе и свет, и разум, и высокая мудрость
+      найдена в тебе.
+    chapter: 5
+    chapterId: 982
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "слышах о тебе, яко дух Божий в тебе, и бодрость и смысл и премудрость
+        изобильна обретеся в тебе:"
+      averincev: ""
+      ungerov: Я слышал о тебе, что Дух Божий в тебе, и бодрость, и разум, и мудрость
+        в обилии найдены в тебе.
+      csya_old: "слы1шахъ њ тебЁ, ћкw д¦ъ б9ій въ тебЁ, и3 бо1дрость и3 смы1слъ и3
+        премyдрость и3з8oби1льна њбрётесz въ тебЁ:"
+      sovr_rbo: Я слышал, что в тебе — божественный дух, что ты обладаешь светлым
+        умом, прозорливостью и несравненной мудростью.
+      latin: audivi de te, quoniam spiritum deorum habeas, et scientia,
+        intelligentiaque ac sapientia ampliores inventae sunt in te.
+      ukr: І чув я про тебе, що в тобі дух богів, і що в тобі знаходиться ясність, і
+        розум та надмірна мудрість.
+      nkjv: I have heard of you, that the Spirit of God is in you, and that light and
+        understanding and excellent wisdom are found in you.
+      desnitsky: ""
+      mt: ‫    וְשִׁמְעֵת *עליך **עֲלָךְ דִּי רוּחַ אֱלָהִין בָּךְ וְנַהִירוּ
+        וְשָׂכְלְתָנוּ וְחָכְמָה יַתִּירָה הִשְׁתְּכַחַת בָּךְ׃ ‬
+      romana: Am auzit ca in tine este Duhul lui Dumnezeu si ca in tine se afla
+        lumina, pricepere si intelepciune fara seaman.
+      francais: J'ai appris sur ton compte que tu as en toi l'esprit des dieux, et
+        qu'on trouve chez toi des lumières, de l'intelligence, et une sagesse
+        extraordinaire.
+      italian: Ho inteso dire che tu possiedi lo spirito degli dèi santi e che si
+        trova in te luce, intelligenza e sapienza straordinaria.
+      old_georgian: და მესმა შენთჳს, ვითარმედ სული ღმრთისაჲ შენ შორის არს და
+        მღჳძარებაჲ, და გულისხმის-ყოფაჲ და სიბრძნე ნამეტნავი იპოვა შენ შორის.
+      portuguese: "Tenho ouvido dizer a teu respeito que o espírito dos deuses está em
+        ti, e que em ti se acham a luz, o\rentendimento e a excelente
+        sabedoria."
+      polish: "Słyszałem o tobie, że posiadasz boskiego ducha i że uznano w tobie
+        światło,\rrozwagę i nadzwyczajną mądrość."
+      turkish: «Sende ilahların ruhu bulunduğunu, kavrayış, sağduyu ve olağanüstü
+        bilgelikle donanmış olduğunu duydum.
+      nrt: Я слышал, что в тебе пребывает дух богов и что в тебе нашлись
+        просвещенность, разум и великая мудрость.
+      Macarius: Я слышал о тебе, что в тебе есть дух богов, и что в тебе находится
+        свет, разум и чрезвычайная мудрость.
+      bulgarian: Слушал съм за тебе, че в тебе има Дух Божий, и светлина, и разум, и
+        висока мъдрост се намира в тебе.
+      deutsch: Ich habe von dir hören sagen, daß du den Geist der Götter hast und
+        Erleuchtung, Verstand und hohe Weisheit bei dir gefunden sei.
+      ukr2: Я чув про тебе, що дух богів у тобі й що світлий розум і велику мудрість
+        відкрито в тобі.
+      ukr3: Я чув про тебе, що дух Божий в тобі й сьвітло, й розум і велику мудрість
+        знайдено в тобі.
+      bel_syomukha: Я чуў пра цябе, што дух Божы ў табе і сьвятло і розум, і высокая
+        мудрасьць выяўлена ў табе.
+      Olesn: Я слышал о тебе, что дух богов в тебе и что прозорливость, и разум и
+        мудрость необыкновенная были найдены в тебе.
+      lev-khv: Я слышал о тебе, что дух богов есть в тебе, и свет, и разум, и мудрость
+        необыкновенная находится в тебе.
+      czech: Slysel jsem o tobe, ze je v tobe duch bohu a ze bylo shledano, ze jsi
+        osviceny a zbehly v mimoradne moudrosti.
+      spanish: Me han dicho de ti que tienes el espíritu de los dioses y que hay en ti
+        luz, entendimiento y gran sabiduría.
+      greek-lxx: ""
+      greek-theodotion: ἤκουσα περὶ σοῦ ὅτι πνεῦμα Θεοῦ ἐν σοί καὶ γρηγόρησις καὶ
+        σύνεσις καὶ σοφία περισσὴ εὑρέθη ἐν σοί
+      st_text: Я слышал о тебе, что дух Божий в тебе и свет, и разум, и высокая
+        мудрость найдена в тебе.
+  - id: 12883
+    number: 15
+    bookId: 34
+    text: Вот, приведены были ко мне мудрецы и обаятели, чтобы прочитать это
+      написанное и объяснить мне значение его; но они не могли объяснить мне
+      этого.
+    chapter: 5
+    chapterId: 982
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и ныне внидоша пред мя мудрии, волсви, газарини, да писание сие прочтут и
+        сказания его возвестят ми, и не могоша возвестити мне:"
+      averincev: ""
+      ungerov: И ныне, вошли ко мне мудрецы, волхвы, предсказатели, чтобы прочесть эту
+        надпись и значение ея объяснить мне, но не могли объяснить мне.
+      csya_old: "и3 нн7э внидо1ша пред8 мS мyдріи, волсви2, газари1ни, да писaніе сіе2
+        прочтyтъ и3 сказ†ніz є3гw2 возвэстsтъ ми2, и3 не мого1ша возвэсти1ти
+        мнЁ:"
+      sovr_rbo: Так вот, привели ко мне мудрецов и заклинателей, чтобы они прочли эту
+        надпись и объяснили мне ее значение, но не могут они рассказать, что она
+        означает.
+      latin: "Et nunc introgressi sunt in conspectu meo sapientes magi, ut scripturam
+        hanc legerent, et interpretationem ejus indicarent mihi: et nequiverunt
+        sensum hujus sermonis edicere."
+      ukr: А тепер були приведені перед мене мудреці, заклиначі, щоб прочитали оце
+        писання, і розповіли мені його розв'язку, та не могли вони висловити
+        розв'язки цієї речі.
+      nkjv: Now the wise men, the astrologers, have been brought in before me, that
+        they should read this writing and make known to me its interpretation,
+        but they could not give the interpretation of the thing.
+      desnitsky: ""
+      mt: ‫    וּכְעַן הֻעַלּוּ קָדָמַי חַכִּימַיָּא אָשְׁפַיָּא דִּי־כְתָבָה דְנָה
+        יִקְרוֹן וּפִשְׁרֵהּ לְהוֹדָעֻתַנִי וְלָא־כָהֲלִין פְּשַׁר־מִלְּתָא
+        לְהַחֲוָיָה׃ ‬
+      romana: Acum au fost adusi la mine inteleptii si prezicatorii ca sa-mi citeasca
+        scrisul acesta si sa-mi faca cunoscuta talcuirea lui, dar nu au fost in
+        stare sa-mi spuna talcuirea acestor cuvinte.
+      francais: On vient d'amener devant moi les sages et les astrologues, afin qu'ils
+        lussent cette écriture et m'en donnassent l'explication; mais ils n'ont
+        pas pu donner l'explication des mots.
+      italian: Poco fa sono stati condotti alla mia presenza i saggi e gli astrologi
+        per leggere questa scrittura e darmene la spiegazione, ma non sono stati
+        capaci.
+      old_georgian: და აწ შემოვიდეს წინაშე ჩემსა ბრძენნი მოგუნი, ღაზარინელნი, რაჲთა
+        წერილი ესე აღმოიკითხონ. და თანაშეტყუება მისი მამცნონ მე, და ვერ შეუძლეს
+        შეტყუებასა სიტყჳსასა მოთხრობად ჩემისა.
+      portuguese: "Acabam de ser introduzidos à minha presença os sábios, os
+        encantadores, para lerem o escrito, e me fazerem\rsaber a sua
+        interpretação; mas não puderam dar a interpretação destas palavras."
+      polish: Przyprowadzono do mnie mędrców i wróżbitów, by odczytali to pismo i
+        podali jego znaczenie. Oni jednak nie potrafili podać znaczenia sprawy.
+      turkish: Bu yazıyı okuyup ne anlama geldiğini söylemeleri için bilgelerle
+        falcıları çağırttım. Ama ne anlama geldiğini açıklayamadılar.
+      nrt: Ко мне приводили мудрецов и волшебников, чтобы они прочитали эту надпись и
+        объяснили мне ее смысл, но они не смогли сделать это.
+      Macarius: Ко мне приведены мудрецы, маги, чтоб прочитать это написанное и
+        объяснить значение его; но они не могли сказать значения слов.
+      bulgarian: Ето, доведоха ми мъдреци и магьосници, за да прочетат това, що е
+        написано, и да ми обяснят, какво значи то; но те не можаха да ми го
+        обяснят.
+      deutsch: "Nun habe ich vor mich fordern lassen die Klugen und Weisen, daß sie
+        mir diese Schrift lesen und anzeigen sollen, was sie bedeutet: und sie
+        können mir nicht sagen, was solches bedeutet."
+      ukr2: От приведено до мене мудреців і чародіїв, щоб прочитали оце написане й
+        сказали мені про його значення, але вони не могли витлумачити глузду
+        речі.
+      ukr3: От приведено до мене мудрецїв і чарівників, щоб прочитати оце написане й
+        сказати, що воно значить; але вони не вміли витулкувати менї сього.
+      bel_syomukha: І вось, прыведзены былі да мяне мудрацы і заклінальнікі, каб
+        прачытаць гэта напісанае і разгадаць мне сутнасьць яго; але яны не маглі
+        абвясьціць мне гэтага.
+      Olesn: И ныне были приведены пред меня мудрецы — маги, чтобы буквы эти прочитать
+        и объяснение их дать мне, но они не смогли дать объяснение слов этих,
+      lev-khv: Ныне приведены были ко мне мудрецы и обаятели, чтобы прочитать эту
+        надпись и растолковать мне значение ея; но они не могли объяснить мне
+        смысл этих слов.
+      czech: Byli ke mne privedeni mudrci, zaklinaci, aby mi precetli toto pismo a
+        oznamili mi jeho vyklad, ale nejsou schopni vyklad te veci sdelit.
+      spanish: Ahora acaban de traerme sabios y astrólogos para leer esta escritura y
+        darme su interpretación, pero ninguno ha podido explicarme la cosa.
+      greek-lxx: ""
+      greek-theodotion: καὶ νῦν εἰσῆλθον ἐνώπιόν μου οἱ σοφοί μάγοι γαζαρηνοί ἵνα τὴν
+        γραφὴν ταύτην ἀναγνῶσιν καὶ τὴν σύγκρισιν αὐτῆς γνωρίσωσίν μοι καὶ οὐκ
+        ἠδυνήθησαν ἀναγγεῖλαί μοι
+      st_text: Вот, приведены были ко мне мудрецы и обаятели, чтобы прочитать это
+        написанное и объяснить мне значение его; но они не могли объяснить мне
+        этого.
+  - id: 12884
+    number: 16
+    bookId: 34
+    text: А о тебе я слышал, что ты можешь объяснять значение и разрешать узлы;
+      итак, если можешь прочитать это написанное и объяснить мне значение его,
+      то облечен будешь в багряницу, и золотая цепь будет на шее твоей, и
+      третьим властелином будешь в царстве.
+    chapter: 5
+    chapterId: 982
+    parallels:
+      - verseId: 12875
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 5
+        short: Дан:5:7
+    translates:
+      kassian: ""
+      podstr: " О Даниил, можешь мне показать разъяснение писания и одену [на] тебя
+        порфиру и ожерелье золотое надену тебе и будешь иметь власть третьей
+        части царства моего."
+      csya: "аз же слышах о тебе, яко можеши суды сказати: ныне убо аще возможеши
+        ппсание сие прочести и сказание его возвестити мне, в багряницу
+        облечешися, и гривна златая на выи твоей будет, и третий во царстве моем
+        обладати будеши."
+      averincev: ""
+      ungerov: А я слышал о тебе, что можешь правду сказатьИтак, если теперь сможешь
+        надпись эту прочесть и значение ея объяснить мне, то будешь одет в
+        багряницу, и золотая цепь на шее твоей будет, и третьим властелином в
+        царстве моем будешь".
+      csya_old: "ѓзъ же слы1шахъ њ тебЁ, ћкw мо1жеши суды2 сказaти: нн7э ў2бо ѓще
+        возмо1жеши писaніе сіе2 прочести2 и3 сказaніе є3гw2 возвэсти1ти мнЁ, въ
+        багрzни1цу њблече1шисz, и3 гри1вна златaz на вы1и твое1й бyдетъ, и3
+        тре1тій во цaрствэ мое1мъ њбладaти бyдеши."
+      sovr_rbo: А я слышал, что ты умеешь давать толкования и распутывать запутанное.
+        Итак, если сможешь прочитать эту надпись и объяснить мне ее значение,
+        тебя оденут в пурпур, ты получишь золотую цепь на шею и станешь третьим
+        человеком в государстве».
+      latin: "Porro ego audivi de te, quod possis obscura interpretari, et ligata
+        dissolvere: si ergo vales scripturam legere, et interpretationem ejus
+        indicare mihi, purpura vestieris, et torquem auream circa collum tuum
+        habebis, et tertius in regno meo princeps eris."
+      ukr: А я чув про тебе, що ти можеш розв'язувати недовідоме, і розплутувати
+        вузли. Тож тепер, якщо можеш прочитати це писання, і розповісти мені
+        його розв'язку, то зодягнеш пурпуру, а золотий ланцюг на твою шию, і ти
+        будеш панувати третім у царстві.
+      nkjv: And I have heard of you, that you can give interpretations and explain
+        enigmas. Now if you can read the writing and make known to me its
+        interpretation, you shall be clothed with purple and have a chain of
+        gold around your neck, and shall be the third ruler in the kingdom."
+      desnitsky: ""
+      mt: ‫    וַאֲנָה שִׁמְעֵת *עליך **עֲלָךְ דִּי־*תוכל **תִיכּוּל‪‬ פִּשְׁרִין
+        לְמִפְשַׁר וְקִטְרִין לְמִשְׁרֵא כְּעַן הֵן *תוכל **תִּכוּל כְּתָבָא
+        לְמִקְרֵא וּפִשְׁרֵהּ לְהוֹדָעֻתַנִי אַרְגְּוָנָא תִלְבַּשׁ *והמונכא
+        **וְהַמְנִיכָא‪‬ דִי־דַהֲבָא עַל־צַוְּארָךְ וְתַלְתָּא בְמַלְכוּתָא
+        תִּשְׁלַט׃ פ ‬
+      romana: Si eu am auzit despre tine ca tu poti sa talcuiesti visele si sa dezlegi
+        cele tainice. Acum, daca tu esti in stare sa citesti scrisul si sa-mi
+        faci cunoscuta talcuirea lui, vei fi imbracat in vesmant de purpura si
+        lant de aur vei avea imprejurul gatului tau si vei carmui ca al treilea
+        in regatul meu".
+      francais: J'ai appris que tu peux donner des explications et résoudre des
+        questions difficiles; maintenant, si tu peux lire cette écriture et m'en
+        donner l'explication, tu seras revêtu de pourpre, tu porteras un collier
+        d'or à ton cou, et tu auras la troisième place dans le gouvernement du
+        royaume.
+      italian: Ora, mi è stato detto che tu sei esperto nel dare spiegazioni e
+        sciogliere enigmi. Se quindi potrai leggermi questa scrittura e darmene
+        la spiegazione, tu sarai vestito di porpora, porterai al collo una
+        collana d'oro e sarai il terzo signore del regno".
+      old_georgian: და მე მესმა შენთჳს, ვითარმედ ძალ-გიც მსჯავრთა თანშეტყუებად და
+        დაჴსნად საკრველთა. და აწ შემძლებელ თუ იქმნე წარკითხვად წერილისა ამის და
+        თანშეტყუებასა მისსა უწყებად ჩემდა, პორფირი შეიმოსო და მანიაკი ოქროსაჲ
+        იყოს ქედსა ზედა შენსა, და მესამედ ჰმთავრობდე მეფობასა შინა ჩემსა.
+      portuguese: "Ouvi dizer, porém, a teu respeito que podes dar interpretações e
+        resolver dúvidas. Agora, pois, se puderes ler\resta escritura e fazer-me
+        saber a sua interpretação, serás vestido de púrpura, e terás cadeia de
+        ouro ao pescoço, e\rno reino serás o terceiro governante."
+      polish: "Słyszałem zaś o tobie, że umiesz dawać wyjaśnienia i rozwiązywać
+        zawiłości. Jeśli więc potrafisz odczytać pismo i wyjaśnić jego
+        znaczenie, zostaniesz\rodziany w purpurę i złoty łańcuch na szyję i
+        będziesz panował jako trzeci w\rkrólestwie”."
+      turkish: Senin yorum yapabildiğini, gizemleri açıklayabildiğini duydum. Bu
+        yazıyı okur, ne anlama geldiğini açıklayabilirsen, sana mor giysi
+        giydirilip boynuna altın zincir takılacak; ülkede üçüncü önder
+        olacaksın.»
+      nrt: А о тебе я слышал, что ты можешь давать истолкования и разрешать трудные
+        задачи. Если ты сможешь прочитать эту надпись и объяснить мне ее смысл,
+        то тебя оденут в пурпур, возложат тебе на шею золотую цепь, и ты станешь
+        третьим человеком в царстве.
+      Macarius: А о тебе я слышал, что ты можешь раскрывать сокровенные смыслы и
+        разрешать узлы. Итак если можешь прочесть это написанное и объяснить мне
+        значение его, то будешь одет в порфиру, и золотая цепь будет на шее
+        твоей, и властью будешь третий в царстве».
+      bulgarian: А за тебе съм слушал, че можеш да обясняваш значението и да
+        развързваш възли; и тъй, ако можеш да прочетеш това, що е написано, и ми
+        обясниш, какво значи, ще бъдеш облечен в багреница, и на шията ти ще
+        бъде златна верижка, и в царството ще бъдеш трети властник".
+      deutsch: Von dir aber höre ich, daß du könnest Deutungen geben und das
+        Verborgene offenbaren. Kannst du nun die Schrift lesen und mir anzeigen,
+        was sie bedeutet, so sollst du mit Purpur gekleidet werden und eine
+        golden Kette an deinem Halse tragen und der dritte Herr sein in meinem
+        Königreiche.
+      ukr2: Про тебе ж я чув, що ти можеш пояснити значення й розв'язати труднощі; тож
+        коли можеш прочитати оце написане й сказати мені про його глузд, будеш
+        убраний у пурпуру, і золотий ланцюг буде на шиї в тебе, й станеш ти
+        третім правителем у царстві.»
+      ukr3: А про тебе я чув, що ти можеш сказати значіннє й розвязати замотане; то ж
+        коли можеш прочитати оце написане й сказати менї значіннє того, то будеш
+        убраний в пурпур, і золотий ланцюг буде на твоїй шиї, і станеш третім
+        князем у царстві.
+      bel_syomukha: І я чуў пра цябе, што ты можаш тлумачыць загадкі і разблытваць
+        вузлы; дык вось, калі можаш прачытаць гэта пісаньне і разгадаць мне
+        сутнасьць яго, дык будзеш апрануты ў пурпуру, і залаты ланцуг атрымаеш
+        на шыю сваю, і трэцім валадаром будзеш у царстве".
+      Olesn: а между тем я услышал о тебе, что ты можешь разъяснять затруднения и
+        разрешать узлы. И так, если можешь прочитать буквы эти и объяснение их
+        представить мне, в пурпур будешь одет и цепь золотую на шее и третьим
+        человеком в царстве будешь господствовать».
+      lev-khv: Между тем я слышал о тебе, что ты можешь объяснять значение и
+        распутывать узлы. И так, если можешь прочесть эту надпись и объяснить
+        мне значение ея; то облечен будешь в багряницу, и золотая цепь будет на
+        шее твоей, и третьим властелином будешь в царстве.
+      czech: O tobe jsem slysel, ze dokazes podat vyklad a vysvetlit nesnadne. Nyni
+        tedy, dokazes-li to pismo precist a vyklad mi oznamit, budes oblecen do
+        purpuru, na krk ti bude dan zlaty retez a budes mit v kralovstvi moc
+        jako treti."
+      spanish: He oído de ti que puedes resolver las dudas y aclarar las oscuridades.
+        Si me lees esa escritura y me das su interpretación, llevarás al cuello
+        collar de oro y serás el tercero en el reino.
+      greek-lxx: ὦ Δανιηλ δύνῃ μοι ὑποδεῖξαι τὸ σύγκριμα τῆς γραφῆς καὶ στολιῶ σε
+        πορφύραν καὶ μανιάκην χρυσοῦν περιθήσω σοι καὶ ἕξεις ἐξουσίαν τοῦ τρίτου
+        μέρους τῆς βασιλείας μου
+      greek-theodotion: καὶ ἐγὼ ἤκουσα περὶ σοῦ ὅτι δύνασαι κρίματα συγκρῖναι νῦν οὖν
+        ἐὰν δυνηθῇς τὴν γραφὴν ἀναγνῶναι καὶ τὴν σύγκρισιν αὐτῆς γνωρίσαι μοι
+        πορφύραν ἐνδύσῃ καὶ ὁ μανιάκης ὁ χρυσοῦς ἔσται ἐπὶ τὸν τράχηλόν σου καὶ
+        τρίτος ἐν τῇ βασιλείᾳ μου ἄρξεις
+      st_text: А о тебе я слышал, что ты можешь объяснять значение и разрешать узлы;
+        итак, если можешь прочитать это написанное и объяснить мне значение его,
+        то облечен будешь в багряницу, и золотая цепь будет на шее твоей, и
+        третьим властелином будешь в царстве.
+  - id: 12885
+    number: 17
+    bookId: 34
+    text: "Тогда отвечал Даниил, и сказал царю: дары твои пусть останутся у тебя, и
+      почести отдай другому; а написанное я прочитаю царю и значение объясню
+      ему."
+    chapter: 5
+    chapterId: 982
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "Тогда Даниил стал напротив писания и прочитал и так ответил царю:"
+      csya: "Тогда отвеща даниил и рече пред царем: даяния: твоя с тобою да будут, и
+        дар дому твоего иному даждь, аз же писание прочту царю и сказание его
+        возвещу тебе."
+      averincev: ""
+      ungerov: "Тогда сказал Даниил в ответ царю: дары твои пусть у тебя останутся, и
+        подарок дома твоего отдай другому, а я прочту надпись царю и значение ея
+        объясню тебе."
+      csya_old: "ТогдA tвэщA даніи1лъ и3 рече2 пред8 царе1мъ: да‰ніz: тво‰ съ тобо1ю
+        да бyдутъ, и3 дaръ до1му твоегw2 и3но1му дaждь, ѓзъ же писaніе прочтY
+        царю2 и3 сказaніе є3гw2 возвэщY тебЁ."
+      sovr_rbo: "Даниил отвечал царю: «Подарки оставь себе, награды отдай другим. Я и
+        так прочитаю царю надпись и объясню, что она означает."
+      latin: "Ad quae respondens Daniel, ait coram rege: Munera tua sint tibi, et dona
+        domus tuae alteri da: scripturam autem legam tibi, rex, et
+        interpretationem ejus ostendam tibi."
+      ukr: "Тоді Даниїл відповів та й сказав перед царем: Твої дари нехай будуть тобі,
+        а дарунки свої давай іншим. Це писання я прочитаю цареві, і розповім
+        тобі його розв'язку."
+      nkjv: Then Daniel answered, and said before the king, "Let your gifts be for
+        yourself, and give your rewards to another; yet I will read the writing
+        to the king, and make known to him the interpretation.
+      desnitsky: ""
+      mt: ‫    בֵּאדַיִן עָנֵה דָנִיֵּאל וְאָמַר קֳדָם מַלְכָּא מַתְּנָתָךְ לָךְ
+        לֶהֶוְיָן וּנְבָזְבְּיָתָךְ לְאָחֳרָן הַב בְּרַם כְּתָבָא אֶקְרֵא
+        לְמַלְכָּא וּפִשְׁרָא אֲהוֹדְעִנֵּהּ׃ ‬
+      romana: 'Atunci Daniel a inceput sa vorbeasca si a grait regelui: "Darurile tale
+        poti sa le pastrezi pentru tine, iar lucrurile de pret da-le altora;
+        caci eu voi citi regelui scrisul si ii voi face cunoscuta talcuirea
+        lui.'
+      francais: "Daniel répondit en présence du roi: Garde tes dons, et accorde à un
+        autre tes présents; je lirai néanmoins l'écriture au roi, et je lui en
+        donnerai l'explication."
+      italian: "Daniele rispose al re: \"Tieni pure i tuoi doni per te e da' ad altri
+        i tuoi regali: tuttavia io leggerò la scrittura al re e gliene darò la
+        spiegazione."
+      old_georgian: "მაშინ მიუგო დანიელმან და თქუა წინაშე მეფისა: საცემელნი შენნი
+        შენდა იყუნენ, და ნიჭნი სახლისა შენისაჲ სხუათა მიეც, ხოლო მე ნაწერი
+        წაუკითხო მეფესა და შეტყუებაჲ მისი გამცნო შენ."
+      portuguese: "Então respondeu Daniel, e disse na presença do rei: Os teus
+        presentes fiquem contigo, e dá os teus prêmios a\routro; todavia vou ler
+        ao rei o escrito, e lhe farei saber a interpretação."
+      polish: "Wtedy odezwał się Daniel i rzekł wobec króla: ”Dary swoje zatrzymaj,
+        a\rpodarunki daj innym! Jednakże odczytam królowi pismo i wyjaśnię jego
+        znaczenie."
+      turkish: Daniel, «Armağanların senin olsun, ödüllerini de bir başkasına ver»
+        diye karşılık verdi, «Ama ben yine de yazıyı okuyup ne anlama geldiğini
+        sana açıklayacağım.
+      nrt: "Даниил ответил царю: – Оставь дары себе и отдай награды кому-нибудь
+        другому. Я и так прочитаю царю надпись и объясню ему ее смысл."
+      Macarius: 'Тогда Даниил отвечал и сказал пред царем: "дары твои пусть остаются у
+        тебя, и деньги свои отдай другому; а написанное я прочту царю, и
+        значение объявлю ему.'
+      bulgarian: 'Тогава Даниил отговори и рече на царя: "даровете ти нека останат у
+        тебе, и почестите отдай другиму; а написаното ще прочета на царя и
+        значението ще му обясня.'
+      deutsch: "Da fing Daniel an und redete vor dem König: Behalte deine Gaben selbst
+        und gib dein Geschenk einem andern; ich will dennoch die Schrift dem
+        König lesen und anzeigen, was sie bedeutet."
+      ukr2: "Тоді Даниїл у відповідь сказав супроти царя: «Подарунки твої нехай
+        зостануться при тобі, й гостинці твої дай комусь іншому; а написане я
+        цареві прочитаю й значення його об'явлю."
+      ukr3: "Тодї відповів Даниїл і сказав до царя: Подарунки твої нехай зістануться в
+        тебе й почестї віддай кому иншому; а написане я цареві прочитаю та й, що
+        воно значить, я йому витулкую."
+      bel_syomukha: 'Тады адказваў Даніііл і сказаў цару: "дары твае хай будуць табе,
+        і пашану аддай каму іншаму; а пісаньне я прачытаю цару і разгадку скажу
+        яму.'
+      Olesn: "Тогда начал Даниил и сказал пред царем: «дары твои у тебя пусть остаются
+        и почести твои другому отдай, а буквы эти я прочитаю царю и дам
+        объяснение»."
+      lev-khv: "Тогда отвечал Даниил и сказал пред царем: дары твои пусть останутся у
+        тебя, награды же твои отдай другому; а надпись я прочту царю и значение
+        объясню ему."
+      czech: 'Daniel na to krali odpovedel: "Sve dary si ponech a sve odmeny dej
+        jinemu. To pismo vsak krali prectu a vyklad mu oznamim.'
+      spanish: "Respondió entonces Daniel, diciendo al rey: Sean para ti tus dones,
+        ¡oh rey! y haz a otro tus mercedes. Yo leeré al rey lo escrito y le daré
+        la interpretación."
+      greek-lxx: τότε Δανιηλ ἔστη κατέναντι τῆς γραφῆς καὶ ἀνέγνω καὶ οὕτως ἀπεκρίθη
+        τῷ βασιλεῖ αὕτη ἡ γραφή ἠρίθμηται κατελογίσθη ἐξῆρται καὶ ἔστη ἡ γράψασα
+        χείρ καὶ αὕτη ἡ σύγκρισις αὐτῶν
+      greek-theodotion: τότε ἀπεκρίθη Δανιηλ καὶ εἶπεν ἐνώπιον τοῦ βασιλέως τὰ δόματά
+        σου σοὶ ἔστω καὶ τὴν δωρεὰν τῆς οἰκίας σου ἑτέρῳ δός ἐγὼ δὲ τὴν γραφὴν
+        ἀναγνώσομαι τῷ βασιλεῖ καὶ τὴν σύγκρισιν αὐτῆς γνωρίσω σοι
+      st_text: "Тогда отвечал Даниил, и сказал царю: дары твои пусть останутся у тебя,
+        и почести отдай другому; а написанное я прочитаю царю и значение объясню
+        ему."
+  - id: 12886
+    number: 18
+    bookId: 34
+    text: Царь! Всевышний Бог даровал отцу твоему Навуходоносору царство, величие,
+      честь и славу.
+    chapter: 5
+    chapterId: 982
+    parallels:
+      - verseId: 12722
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 2
+        short: Дан:2:37
+      - verseId: 12853
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 4
+        short: Дан:4:19
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Царю! Бог вышний царство и величество, и честь и славу даде навуходоносору
+        отцу твоему,
+      averincev: ""
+      ungerov: Царь! Бог Вышний царство, и величие, и честь, и славу, даровал отцу
+        твоему Навуходоносору.
+      csya_old: Царю2! бг7ъ вы1шній цaрство и3 вели1чество, и3 че1сть и3 слaву даде2
+        навуходоно1сору nтцY твоемY,
+      sovr_rbo: О царь! Навуходоносору, твоему отцу, Бог Всевышний дал царство,
+        величие, славу и почет.
+      latin: O rex, Deus altissimus regnum et magnificentiam, gloriam et honorem dedit
+        Nabuchodonosor patri tuo.
+      ukr: Ти, царю, Всевишній Бог дав твоєму батькові Навуходоносорові царство, і
+        велич, і славу та пишноту.
+      nkjv: O king, the Most High God gave Nebuchadnezzar your father a kingdom and
+        majesty, glory and honor.
+      desnitsky: ""
+      mt: ‫    *אנתה **אַנְתְּ מַלְכָּא אֱלָהָא *עליא **עִלָּאָה מַלְכוּתָא וּרְבוּתָא
+        וִיקָרָא וְהַדְרָה יְהַב לִנְבֻכַדְנֶצַּר אֲבוּךְ׃ ‬
+      romana: O, rege! Dumnezeu cel Preainalt a dat lui Nabucodonosor, tatal tau,
+        regatul, marirea, cinstea si stralucirea.
+      francais: O roi, le Dieu suprême avait donné à Nebucadnetsar, ton père,
+        l'empire, la grandeur, la gloire et la magnificence;
+      italian: O re, il Dio altissimo aveva dato a Nabucodònosor tuo padre regno,
+        grandezza, gloria e magnificenza.
+      old_georgian: მეფე, ღმერთმან მაღალმან მეფობა, და სიდიდე და პატივი, და დიდება
+        მისცა ნაბუქოდონოსორს, მამასა შენსა.
+      portuguese: O Altíssimo Deus, ó rei, deu a Nabucodonosor, teu pai, o reino e a
+        grandeza, glória e majestade;
+      polish: Królu, Najwyższy Bóg dał twemu ojcu, Nabuchodonozorowi, królestwo,
+        wielkość, chwałę i majestat.
+      turkish: «Ey kral, Yüce Tanrı atan Nebukadnessar'a krallığı, büyüklüğü,
+        yüceliği, görkemi verdi.
+      nrt: О царь, Всевышний Бог дал твоему деду Навуходоносору владычество и величие,
+        славу и почет.
+      Macarius: Царь! Всевышний Бог отцу твоему Невухаднецару дал царство, и величие,
+        и славу, и красоту.
+      bulgarian: Царю, Всевишният Бог бе дарувал на баща ти Навуходоносора царство,
+        величие, чест и слава.
+      deutsch: Herr König, Gott der Höchste hat deinem Vater, Nebukadnezar,
+        Königreich, Macht, Ehre und Herrlichkeit gegeben.
+      ukr2: О царю, Всевишній Бог дав твоєму батькові Навуходоносорові царство,
+        потугу, велич і славу.
+      ukr3: Царю! Всевишній Бог дав твойму панотцеві Навуходонозорові царство,
+        величність, честь і славу.
+      bel_syomukha: Цару! Усявышні Бог даў твайму бацьку Навухаданосару царства,
+        веліч, гонар і славу.
+      Olesn: «О ты, царь! Бог вышний царство, и величие, и честь, и славу дал
+        Навуходоносору, отцу твоему,
+      lev-khv: Ты, царь! Всевышний Бог даровал отцу твоему Навуходоносору царство,
+        величие, честь и славу.
+      czech: Slys, krali! Buh nejvyssi dal Nebukadnesarovi, tvemu otci, kralovstvi a
+        velikost, slavu a dustojnost.
+      spanish: El Dios Altísimo, ¡oh rey! dio a Nabucodonosor, tu padre, el reino, la
+        grandeza, la gloria y la magnificencia.
+      greek-lxx: ""
+      greek-theodotion: βασιλεῦ ὁ Θεὸς ὁ ὕψιστος τὴν βασιλείαν καὶ τὴν μεγαλωσύνην καὶ
+        τὴν τιμὴν καὶ τὴν δόξαν ἔδωκεν Ναβουχοδονοσορ τῷ πατρί σου
+      st_text: Царь! Всевышний Бог даровал отцу твоему Навуходоносору царство,
+        величие, честь и славу.
+  - id: 12887
+    number: 19
+    bookId: 34
+    text: "Пред величием, которое Он дал ему, все народы, племена и языки трепетали
+      и страшились его: кого хотел, он убивал, и кого хотел, оставлял в живых;
+      кого хотел, возвышал, и кого хотел, унижал."
+    chapter: 5
+    chapterId: 982
+    parallels:
+      - verseId: 12524
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 11
+        short: Дан:11:3
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и от величества, еже ему даде, вси людие, племена, языцы бяху трепещуще и
+        боящеся от лица его: ихже хотяше убиваше, и ихже хотяше бияше, и ихже
+        хотяше возвышаше, и ихже хотяше, той смиряше:"
+      averincev: ""
+      ungerov: И от величия, которое Он ему дал, все народы, племена, языки трепетали
+        и боялись его, и кого хотел он, убивал, и кого хотел, бил, и кого хотел,
+        возвышал, и кого хотел, он унижал.
+      csya_old: "и3 t вели1чества, є4же є3мY даде2, вси2 лю1діе, племенA, kзы1цы бsху
+        трепе1щуще и3 боsщесz t лицA є3гw2: и5хже хотsше ўбивaше, и3 и5хже
+        хотsше біsше, и3 и5хже хотsше возвышaше, и3 и5хже хотsше, то1й смирsше:"
+      sovr_rbo: "Перед величием, которое Бог ему дал, все народы, племена и народности
+        дрожали в страхе: кого хотел, царь казнил, кого хотел — миловал, кого
+        хотел — возвышал, кого хотел — низлагал."
+      latin: "Et propter magnificentiam, quam dederat ei, universi populi, tribus, et
+        linguae tremebant, et metuebant eum: quos volebat, interficiebat: et
+        quos volebat, percutiebat: et quos volebat, exaltabat: et quos volebat,
+        humiliabat."
+      ukr: А через велич, яку Він дав був йому, всі народи, племена та язики тремтіли
+        та лякалися перед ним, бо кого він хотів забивав, а кого хотів лишав при
+        житті, і кого хотів підіймав, а кого хотів понижував.
+      nkjv: And because of the majesty that He gave him, all peoples, nations, and
+        languages trembled and feared before him. Whomever he wished, he
+        executed; whomever he wished, he kept alive; whomever he wished, he set
+        up; and whomever he wished, he put down.
+      desnitsky: ""
+      mt: ‫    וּמִן־רְבוּתָא דִּי יְהַב־לֵהּ כֹּל עַמְמַיָּא אֻמַיָּא וְלִשָּׁנַיָּא
+        הֲווֹ *זאעין **זָיְעִין וְדָחֲלִין מִן־קֳדָמוֹהִי דִּי־הֲוָה צָבֵא הֲוָא
+        קָטֵל וְדִי־הֲוָה צָבֵא הֲוָה מַחֵא וְדִי־הֲוָה צָבֵא הֲוָה מָרִים
+        וְדִי־הֲוָה צָבֵא הֲוָה מַשְׁפִּיל׃ ‬
+      romana: Iar din pricina puterii pe care El i-o daduse, toate popoarele,
+        neamurile si limbile erau infricosate si tremurau inaintea lui; el omora
+        pe cine voia si lasa in viata pe cine voia, inalta pe cine voia si
+        cobora pe cine voia.
+      francais: et à cause de la grandeur qu'il lui avait donnée, tous les peuples,
+        les nations, les hommes de toutes langues étaient dans la crainte et
+        tremblaient devant lui. Le roi faisait mourir ceux qu'il voulait, et il
+        laissait la vie à ceux qu'il voulait; il élevait ceux qu'il voulait, et
+        il abaissait ceux qu'il voulait.
+      italian: "Per questa grandezza che aveva ricevuto, tutti i popoli, na — zioni e
+        lingue lo temevano e tremavano davanti a lui: egli uccideva chi voleva,
+        innalzava chi gli piaceva e abbassava chi gli pareva."
+      old_georgian: და სიდიდისაგან, რომელი მისცა მას, ყოველნი ერნი, ტომნი, ენანი
+        იყუნეს მძრწოლარენი და მოშიშნი პირისაგან მისისა, რომელთა ენება, მას
+        მოჰკლვიდა, და რომელთა ენება, სცემდა, და, რომელთა ენება, მას აღამაღლებდა,
+        და, რომელთა ენება, მას დაამდაბლებდა.
+      portuguese: "e por causa da grandeza que lhe deu, todos os povos, nações, e
+        línguas tremiam e temiam diante dele; a quem\rqueria matava, e a quem
+        queria conservava em vida; a quem queria exaltava, e a quem queria
+        abatia."
+      polish: "Z powodu wielkości mu udzielonej wszystkie ludy, narody i języki
+        odczuwały\rbojaźń i drżały przed nim. Zabijał, kogo chciał, i
+        pozostawiał przy życiu,\rkogo chciał; kogo chciał, wywyższał, a kogo
+        chciał, poniżał."
+      turkish: Tanrı'nın sağladığı büyüklük yüzünden bütün halklar, uluslar, her
+        dilden insan ondan korkup titredi. Dilediğini öldürür, dilediğini
+        yaşatırdı; dilediğini yüceltir, dilediğini alçaltırdı.
+      nrt: От величия, которое Он ему дал, все народы, племена и люди, говорящие на
+        разных языках, трепетали перед ним и боялись его. Тех, кого царь хотел
+        предать смерти, он предавал смерти; тех, кого он хотел пощадить, щадил;
+        тех, кого он хотел возвысить, возвышал, а тех, кого хотел смирить,
+        смирял.
+      Macarius: И от величия, данного ему, все народы, племена и поколения трепетали и
+        страшились его; кого хотел, он убивал, и кого хотел, оставлял в живых;
+        кого хотел, возвышал, и кого хотел, унижал.
+      bulgarian: "Пред величието, що му бе дал Той, всички народи, племена и езици
+        трепереха и му се бояха: когото си искаше, убиваше, и когото си искаше,
+        оставяше го жив; когото си искаше, въздигаше, и когото си искаше,
+        унижаваше."
+      deutsch: Und vor solcher Macht, die ihm gegeben war, fürchteten sich vor ihm
+        alle Völker, Leute und Zungen. Er tötete wen er wollte; er ließ leben,
+        wen er wollte; er erhöhte, wen er wollte; er demütigt, wen er wollte.
+      ukr2: Потуги, яку він дав йому, усі народи, племена й язики страхались і перед
+        ним тремтіли; кого хотів, він убивав, а кого хотів, залишав живим; кого
+        хотів, вивищував, а кого хотів, понижував.
+      ukr3: "Перед величністю, яку він дав йому, всї народи, племена й язики дрожали й
+        боялись його: кого хотїв, він убивав, а кого хотїв, зоставляв живим;
+        кого хотїв, підвисшував, а кого хотїв, понижував."
+      bel_syomukha: Перад веліччу, якую Ён даў яму, усе народы, плямёны і роды
+        трымцелі і баяліся яго; каго ён хацеў, забіваў, і каго хацеў, пакідаў
+        жывога; каго хацеў, узвышаў, і каго хацеў, паніжаў.
+      Olesn: и от величия, какое Он дал ему, все народы, племена и языки дрожали и
+        трепетали пред ним; кого хотел он убивал и кого хотел оставлял в живых,
+        кого хотел возносил и кого хотел унижал.
+      lev-khv: "Пред величием, которое Он дал ему, все народы, племена и языки
+        трепетали и страшились его: кого хотел, он убивал, и кого хотел, он
+        оставлял в живых; кого хотел, возвышал, и кого хотел, унижал."
+      czech: Pro velikost, kterou mu dal, se pred nim trasli vsichni lide ruznych
+        narodnosti a jazyku a obavali se ho. Koho chtel, zabil, koho chtel,
+        nechal zit, koho chtel, povysil, koho chtel, ponizil.
+      spanish: Por la grandeza que le dio, temblaban ante él y le temían todos los
+        pueblos, naciones y lenguas. Mataba a quien quería, y a quien quería
+        daba la vida; engrandecía a quien quería, y a quien quería le humillaba.
+      greek-lxx: ""
+      greek-theodotion: καὶ ἀπὸ τῆς μεγαλωσύνης ἧς ἔδωκεν αὐτῷ πάντες οἱ λαοί φυλαί
+        γλῶσσαι ἦσαν τρέμοντες καὶ φοβούμενοι ἀπὸ προσώπου αὐτοῦ οὓς ἠβούλετο
+        αὐτὸς ἀνῄρει καὶ οὓς ἠβούλετο αὐτὸς ἔτυπτεν καὶ οὓς ἠβούλετο αὐτὸς ὕψου
+        καὶ οὓς ἠβούλετο αὐτὸς ἐταπείνου
+      st_text: "Пред величием, которое Он дал ему, все народы, племена и языки
+        трепетали и страшились его: кого хотел, он убивал, и кого хотел,
+        оставлял в живых; кого хотел, возвышал, и кого хотел, унижал."
+  - id: 12888
+    number: 20
+    bookId: 34
+    text: Но когда сердце его надмилось и дух его ожесточился до дерзости, он был
+      свержен с царского престола своего и лишен славы своей,
+    chapter: 5
+    chapterId: 982
+    parallels:
+      - verseId: 33993
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 3
+        short: Сир:3:28
+      - verseId: 17176
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 28
+        short: Иез:28:2
+      - verseId: 12861
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 4
+        short: Дан:4:27
+      - verseId: 13136
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 12
+        short: Деян:12:23
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и егда вознесеся сердце его и утвердися дух его еже презорствовати,
+        сведеся от престола царства, и слава и честь отъяся от него,
+      averincev: ""
+      ungerov: Но когда надмилось сердце его и дух его окреп в дерзости, он ыл сведен
+        с царскаго престола, и слава и честь были отняты у него.
+      csya_old: и3 є3гдA вознесе1сz се1рдце є3гw2 и3 ўтверди1сz дyхъ є3гw2 є4же
+        презо1рствовати, сведе1сz t престо1ла цaрства, и3 слaва и3 че1сть tsсz t
+        негw2,
+      sovr_rbo: Но он превознесся, стал гордым и чванливым, а потому низвергнут был с
+        царского престола и лишен всей своей славы.
+      latin: "Quando autem elevatum est cor ejus, et spiritus illius obfirmatus est ad
+        superbiam, depositus est de solio regni sui, et gloria ejus ablata est:"
+      ukr: А коли загордилося його серце, а дух його ще більше запишнів, він був
+        скинений з трону свого царства, і його слава була взята від нього.
+      nkjv: But when his heart was lifted up, and his spirit was hardened in pride, he
+        was deposed from his kingly throne, and they took his glory from him.
+      desnitsky: ""
+      mt: ‫    וּכְדִי רִם לִבְבֵהּ וְרוּחֵהּ תִּקְפַת לַהֲזָדָה הָנְחַת מִן־כָּרְסֵא
+        מַלְכוּתֵהּ וִיקָרָה הֶעְדִּיוּ מִנֵּהּ׃ ‬
+      romana: Si pentru ca inima lui se trufise si duhul lui se impietrise pana la
+        mandrie, a fost coborat de pe scaunul regatului sau si vrednicia lui i-a
+        fost luata;
+      francais: Mais lorsque son coeur s'éleva et que son esprit s'endurcit jusqu'à
+        l'arrogance, il fut précipité de son trône royal et dépouillé de sa
+        gloire;
+      italian: Ma, quando il suo cuore si insuperbì e il suo spirito si ostinò
+        nell'alterigia, fu deposto dal trono e gli fu tolta la sua gloria.
+      old_georgian: და ოდეს ამაღლდა გული მისი და სული მისი განძლიერდა გაამპარტავნებად
+        შთამოქუევდა საყდრისაგან მეფობისა მისისა და პატივი მისი მიეღო მისგან,
+      portuguese: "Mas quando o seu coração se elevou, e o seu espírito se endureceu
+        para se haver arrogantemente, foi\rderrubado do seu trono real, e passou
+        dele a sua glória."
+      polish: "Gdy jednak jego serce uniosło się [pychą], a jego duch utrwalił się w
+        hardości,\rzłożono go z królewskiego tronu i odebrano mu chwałę."
+      turkish: Ne var ki, gurura kapılıp saygısızlıkta direnince krallık tahtından
+        indirildi, yüceliği kendisinden alındı.
+      nrt: Но когда его сердце возгордилось и огрубело от гордости, он был смещен с
+        престола и лишен славы.
+      Macarius: Но когда сердце его возмечтало и дух его дерзнул возгордиться, он
+        низвержен был с престола царства своего и лишили его славы;
+      bulgarian: Но когато сърцето му се възгордя, и духът му се ожесточи до дързост,
+        той биде свален от царския си престол и лишен от славата си,
+      deutsch: Da sich aber sein Herz erhob und er stolz und hochmütig ward, ward er
+        vom königlichen Stuhl gestoßen und verlor seine Ehre
+      ukr2: Але як його серце загорділо й дух його набундючився від пихи, був він
+        скинутий зо свого царського престолу й славу його забрано від нього.
+      ukr3: Але як його серце згордїло, і дух його скаменїв у бутї своїй, став він
+        стручений з свого царського престолу і втратив свою славу,
+      bel_syomukha: Але калі сэрца ягонае заганарылася і дух ажарсьцвеў да
+        дзёрзкасьці, ён быў скінуты з царскага трона свайго і пазбаўлены славы
+        сваёй,
+      Olesn: Но, так как возгордилось сердце его и дух его огрубел в гордости, то он
+        был свержен с престола царства своего и почести его отошли от него
+      lev-khv: Но когда сердце его возгордилось, и дух его ожесточился надменностию;
+        он низвержен был с царскаго престола своего и лишен был славы своей;
+      czech: Kdyz se jeho srdce povysilo a jeho duch se stal naramne zpupny, byl
+        svrzen ze sveho kralovskeho stolce a jeho slava mu byla odnata.
+      spanish: Mas, cuando su corazón se ensoberbeció y su espíritu se endureció
+        altivo, fue depuesto del trono de su reino y despojado de su gloria.
+      greek-lxx: ""
+      greek-theodotion: καὶ ὅτε ὑψώθη ἡ καρδία αὐτοῦ καὶ τὸ πνεῦμα αὐτοῦ ἐκραταιώθη
+        τοῦ ὑπερηφανεύσασθαι κατηνέχθη ἀπὸ τοῦ θρόνου τῆς βασιλείας αὐτοῦ καὶ ἡ
+        τιμὴ ἀφῃρέθη ἀπ᾿ αὐτοῦ
+      st_text: Но когда сердце его надмилось и дух его ожесточился до дерзости, он был
+        свержен с царского престола своего и лишен славы своей,
+  - id: 12889
+    number: 21
+    bookId: 34
+    text: и отлучен был от сынов человеческих, и сердце его уподобилось звериному, и
+      жил он с дикими ослами; кормили его травою, как вола, и тело его орошаемо
+      было небесною росою, доколе он познал, что над царством человеческим
+      владычествует Всевышний Бог и поставляет над ним, кого хочет.
+    chapter: 5
+    chapterId: 982
+    parallels:
+      - verseId: 32297
+        bookId: 22
+        bookCode: psaltir
+        chapter: 74
+        short: Пс:74:8
+      - verseId: 12856
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 4
+        short: Дан:4:22
+      - verseId: 12863
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 4
+        short: Дан:4:29
+      - verseId: 12864
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 4
+        short: Дан:4:30
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и от человек отгнася, и сердце его со зверьми отдася, и житие его со
+        дивиими ослы, и травою аки вола питаху его, и от росы небесныя оросися
+        тело его, дондеже уразуме, яко владеет Бог вышний царством человеческим,
+        и емуже хощет, даст е.
+      averincev: ""
+      ungerov: И от людей был он удален, и сердце его уподобилось звериному и житие
+        его (было) с дикими ослами, и травою, как вола, кормили его, и росою
+        небесною орошалось тело его, пока он не познал, что владеет Бог Вышний
+        царством человеческим, и кому хочет, отдает его.
+      csya_old: и3 t человBкъ tгнaсz, и3 се1рдце є3гw2 со ѕвэрьми2 tдaсz, и3 житіе2
+        є3гw2 со ди1віими nслы6, и3 траво1ю ѓки волA питaху є3го2, и3 t росы2
+        небе1сныz њроси1сz тёло є3гw2, до1ндеже ўразумЁ, ћкw владёетъ бг7ъ
+        вы1шній цaрствомъ человёческимъ, и3 є3мyже хо1щетъ, дaстъ є5.
+      sovr_rbo: С тех пор не жил он среди людей и стал разумом как зверь; с дикими
+        ослами он обитал, питался травой, как скот, омывался росой небесной —
+        пока не понял, что Бог Всевышний властен над царством человеческим и
+        возводит на царство, кого пожелает.
+      latin: "et a filiis hominum ejectus est, sed et cor ejus cum bestiis positum
+        est, et cum onagris erat habitatio ejus: foenum quoque ut bos comedebat,
+        et rore caeli corpus ejus infectum est, donec cognosceret quod
+        potestatem haberet Altissimus in regno hominum, et quemcumque voluerit,
+        suscitabit super illud."
+      ukr: І він був вигнаний з-поміж людських синів, і серце його було зрівняне зо
+        звіриним, а пробування його було з дикими ослами. Годували його травою,
+        як волів, а небесною росою зрошувалося його тіло, аж поки він не пізнав,
+        що в людському царстві панує Всевишній Бог, і Він ставить над ним того,
+        кого хоче.
+      nkjv: Then he was driven from the sons of men, his heart was made like the
+        beasts, and his dwelling was with the wild donkeys. They fed him with
+        grass like oxen, and his body was wet with the dew of heaven, till he
+        knew that the Most High God rules in the kingdom of men, and appoints
+        over it whomever He chooses.
+      desnitsky: ""
+      mt: ‫    וּמִן־בְּנֵי אֲנָשָׁא טְרִיד וְלִבְבֵהּ עִם־חֵיוְתָא *שוי **שַׁוִּיְו‪‬
+        וְעִם־עֲרָדַיָּא מְדוֹרֵהּ עִשְׂבָּא כְתוֹרִין יְטַעֲמוּנֵּהּ וּמִטַּל
+        שְׁמַיָּא גִּשְׁמֵהּ יִצְטַבַּע עַד דִּי־יְדַע דִּי־שַׁלִּיט אֱלָהָא
+        *עליא **עִלָּאָה בְּמַלְכוּת אֲנָשָׁא וּלְמַן־דִּי יִצְבֵּה יְהָקֵים
+        *עליה **עֲלַהּ׃ ‬
+      romana: Si a fost izgonit din neamul omenesc, iar inima i s-a facut asemenea
+        dobitoacelor, si a locuit cu asinii salbatici, mancand iarba ca boii si
+        si-a udat trupul din roua cerului pana a recunoscut ca Dumnezeu cel
+        Preainalt are putere peste imparatia oamenilor si asaza peste ea pe cine
+        vrea.
+      francais: il fut chassé du milieu des enfants des hommes, son coeur devint
+        semblable à celui des bêtes, et sa demeure fut avec les ânes sauvages;
+        on lui donna comme aux boeufs de l'herbe à manger, et son corps fut
+        trempé de la rosée du ciel, jusqu'à ce qu'il reconnût que le Dieu
+        suprême domine  sur le règne des hommes et qu'il le donne à qui il lui
+        plaît.
+      italian: Fu cacciato dal consorzio umano e il suo cuore diven — ne simile a
+        quello delle bestie; la sua dimora fu con gli ònagri e mangiò l'erba
+        come i buoi; il suo corpo fu bagnato dalla rugiada del cielo, finché
+        riconobbe che il Dio altissimo domina sul regno degli uomini, sul quale
+        innalza chi gli piace.
+      old_georgian: და კაცთაგან განიდევნა, და გული მისი მჴეცთა თანა მიეცა, და ვირთა
+        თანა ველურთა მკჳდრობა მისი, და თივასა, ვითარცა ზროხასა, აჭამებდეს მას და
+        ცუარისაგან ცისა სხეული მისი შეიღება, ვიდრეღა ცნა, ვითარმედ უფლებს ღმერთი
+        მაღალი მეფობასა ზედა კაცთასა და, რომლისაცა უნდეს, მისცეს მას.
+      portuguese: "E foi expulso do meio dos filhos dos homens, e o seu coração foi
+        feito semelhante aos dos animais, e a sua\rmorada foi com os jumentos
+        monteses; deram-lhe a comer erva como aos bois, e do orvalho do céu foi
+        molhado o\rseu corpo, até que conheceu que o Altíssimo Deus tem domínio
+        sobre o reino dos homens, e a quem quer constitui\rsobre ele."
+      polish: "Wypędzono go spośród ludzi, jego serce upodobniło się do serca
+        zwierząt, i\rprzebywał z dzikimi osłami. Żywiono go jak woły trawą, jego
+        ciało zaś zwilżała rosa z nieba, dopóki nie uznał, że Najwyższy Bóg
+        panuje nad królestwem\rludzi i że kogo chce, ustanawia nad nimi."
+      turkish: İnsanlar arasından kovuldu ve ona hayvan yüreği verildi. Yüce Tanrı'nın
+        insanların krallığı üzerinde egemenlik sürdüğünü, onu dilediği kişiye
+        verdiğini anlayıncaya dek yaban eşekleri arasında yaşadı, öküz gibi otla
+        beslendi, bedeni göğün çiyiyle ıslandı.
+      nrt: Его прогнали от людей, и его разум уподобился разуму зверя; он жил с дикими
+        ослами и ел траву, подобно волу; его тело омывалось небесной росой, пока
+        он не признал, что Всевышний Бог властвует над царствами смертных и
+        ставит над ними кого желает.
+      Macarius: И был он изгнан из общества сынов человеческих, и сердце его
+        сравнялось с звериным, и жилище его было среди ослов; кормили его
+        травою, как волов, и тело его мокло от росы небесной, доколе не познал
+        он, что владыка царства человеческого есть Бог Всевышний, и поставляет
+        на оное, кого хочет.
+      bulgarian: и биде отлъчен от синовете човешки, и сърцето му заприлича на
+        зверско, и живя той с диви осли; храниха го с трева като вол, и тялото
+        му се оросяваше от небесна роса, докле позна, че над човешкото царство
+        владичествува Всевишният Бог и поставя над него, когото си иска.
+      deutsch: und ward verstoßen von den Leuten hinweg, und sein Herz ward gleich den
+        Tieren, und er mußte bei dem Wild laufen und fraß Gras wie Ochsen, und
+        sein Leib lag unterm Tau des Himmels, und er ward naß, bis daß er
+        lernte, daß Gott der Höchste Gewalt hat über der Menschen Königreiche
+        und gibt sie, wem er will.
+      ukr2: Він був вигнаний з-поміж людей, серце його стало схоже на звіряче, і він
+        жив з дикими ослами; його, немов вола годовано травою й на його тіло
+        спадала роса з неба, аж доки він не визнав, що над людським царством
+        панує найвищий Бог і настановляє над ним, кого хоче.
+      ukr3: І вилучено його зміж синів людських, серце його стало схоже на зьвіряче, і
+        він жив з дикими ослами; він годувався травою, нїби віл, і на його тїло
+        спадала роса з неба, аж доки він спізнав, що над людським царством царює
+        найвисший Бог, і настановляє над ним, кого хоче.
+      bel_syomukha: і адлучаны быў ад сыноў чалавечых, і сэрца яго прыпадобнілася да
+        зьвярынага, і жыў ён зь дзікімі асламі; кармілі яго травою, як вала, і
+        цела яго аброшана было нябеснаю расою, пакуль ён ня ўведаў, што над
+        царствам чалавечым валадарыць Усявышні Бог і становіць над ім, каго
+        хоча.
+      Olesn: и из среды сынов человеческих был изгнан и сердце его с звериным
+        сравнилось и с дикими ослами было жилище его, травою, как волов,
+        оставили питаться его и росою небесною тело его омывалось, пока он не
+        узнал, что владеет Бог вышний царством человеческим и кого хочет
+        поставляет над ним.
+      lev-khv: И отлучен был от сынов человеческих, и сердце его уподобилось
+        звериному, и жил он с дикими ослами; кормили его травою, как волов, и
+        тело его напояемо было небесною росою, пока не узнал он, что над
+        царством человеческим владычествует Всевышний Бог и поставляет на оное,
+        кого хочет.
+      czech: Byl vyhnan pryc od lidi, jeho srdce se stalo podobne zvirecimu, bydlel s
+        divokymi osly, za pokrm mu davali rostliny jako dobytku a jeho telo bylo
+        skrapeno nebeskou rosou, dokud nepoznal, ze Buh nejvyssi ma moc nad
+        lidskym kralovstvim a ze nad nim ustanovuje, koho chce.
+      spanish: Fue arrojado de entre los hijos de los hombres, se hizo semejante a las
+        bestias y moró con los asnos salvajes. Diéronle a comer hierba como a
+        los bueyes y se empapó su cuerpo del rocío del cielo, hasta que conoció
+        que el Altísimo es dueño del reino de los hombres y pone sobre él a
+        quien le place.
+      greek-lxx: ""
+      greek-theodotion: καὶ ἀπὸ τῶν ἀνθρώπων ἐξεδιώχθη καὶ ἡ καρδία αὐτοῦ μετὰ τῶν
+        θηρίων ἐδόθη καὶ μετὰ ὀνάγρων ἡ κατοικία αὐτοῦ καὶ χόρτον ὡς βοῦν
+        ἐψώμιζον αὐτόν καὶ ἀπὸ τῆς δρόσου τοῦ οὐρανοῦ τὸ σῶμα αὐτοῦ ἐβάφη ἕως οὗ
+        ἔγνω ὅτι κυριεύει ὁ Θεὸς ὁ ὕψιστος τῆς βασιλείας τῶν ἀνθρώπων καὶ ᾧ ἂν
+        δόξῃ δώσει αὐτήν
+      st_text: и отлучен был от сынов человеческих, и сердце его уподобилось
+        звериному, и жил он с дикими ослами; кормили его травою, как вола, и
+        тело его орошаемо было небесною росою, доколе он познал, что над
+        царством человеческим владычествует Всевышний Бог и поставляет над ним,
+        кого хочет.
+  - id: 12890
+    number: 22
+    bookId: 34
+    text: И ты, сын его Валтасар, не смирил сердца твоего, хотя знал все это,
+    chapter: 5
+    chapterId: 982
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И ты убо, сыне его валтасаре, не смирил еси сердца твоего пред Господем:
+        не вся ли сия ведал еси?"
+      averincev: ""
+      ungerov: И ты, сын его Валтасар, не смирил сердца своего пред Господом. Ужели ты
+        всего этого не знал?
+      csya_old: "И# ты2 ў2бо, сы1не є3гw2 валтасaре, не смири1лъ є3си2 се1рдца твоегw2
+        пред8 гDемъ: не вс‰ ли сі‰ вёдалъ є3си2;"
+      sovr_rbo: А ты, Валтасар, сын его, не смирился сердцем, хотя знал все это.
+      latin: "Tu quoque, filius ejus Baltassar, non humiliasti cor tuum, cum scires
+        haec omnia:"
+      ukr: А ти, сину його Валтасаре, не смирив свого серця, хоч усе це знав.
+      nkjv: But you his son, Belshazzar, have not humbled your heart, although you
+        knew all this.
+      desnitsky: ""
+      mt: ‫    *ואנתה **וְאַנְתְּ בְּרֵהּ בֵּלְשַׁאצַּר לָא הַשְׁפֵּלְתְּ לִבְבָךְ
+        כָּל־קֳבֵל דִּי כָל־דְּנָה יְדַעְתָּ׃ ‬
+      romana: Si tu, fiul sau, Belsatar, tu nu esti smerit cu inima, macar ca tu stii
+        toate acestea.
+      francais: Et toi, Belschatsar, son fils, tu n'as pas humilié ton coeur, quoique
+        tu susses toutes ces choses.
+      italian: Tu, Baldassàr suo figlio, non hai umiliato il tuo cuore, sebbene tu
+        fossi a conoscenza di tutto questo.
+      old_georgian: და შენ, ძეო მისო ვალტასარ, არ დაიმდაბლე გული შენი წინაშე ღმრთისა,
+        რომელმან ესე ყოველნი იცოდენ,
+      portuguese: E tu, Belsazar, que és seu filho, não humilhaste o teu coração,
+        ainda que soubeste tudo isso;
+      polish: "Ty zaś, jego syn Baltazar, nie uniżyłeś swego serca, mimo że wiedziałeś
+        o\rtym wszystkim,"
+      turkish: «Ama ey sen, onun torunu Belşassar, bunların hepsini bildiğin halde
+        alçakgönüllülüğü benimsemedin.
+      nrt: Но ты, его внук Валтасар, не смирил себя, хотя знал все это!
+      Macarius: И ты, Велшацар, сын его, не смирил сердца своего, хотя знал все сие;
+      bulgarian: И ти, негов сине, Валтасаре, не смири сърцето си, ако и да знаеше
+        всичко това,
+      deutsch: Und du, Belsazer, sein Sohn, hast dein Herz nicht gedemütigt, ob du
+        wohl solches alles weißt,
+      ukr2: А ти, сину його, Валтасаре, не смирив твого серця, хоч і знав про все те,
+      ukr3: І ти, сину його, Валтасаре, не смирив твого серця, хоч знав про се все,
+      bel_syomukha: І ты, сыне яго Валтасар, не ўпакорыў сэрца твайго, хоць ведаў усё гэта,
+      Olesn: Ты же, сын его Белшацар, не смирил сердца твоего, хотя все это ты знал,
+      lev-khv: А ты, сын его Валтасар, не смирил сердца своего, хотя знал все сие;
+      czech: Ani ty, jeho synu Belsasare, jsi neponizil sve srdce, ackoli jsi o tom
+        vsem vedel,
+      spanish: Y tú, Baltasar, hijo suyo, sabiendo esto, no has humillado tu corazón.
+      greek-lxx: ""
+      greek-theodotion: καὶ σὺ ὁ υἱὸς αὐτοῦ Βαλτασαρ οὐκ ἐταπείνωσας τὴν καρδίαν σου
+        κατενώπιον οὗ πάντα ταῦτα ἔγνως
+      st_text: И ты, сын его Валтасар, не смирил сердца твоего, хотя знал все это,
+  - id: 12891
+    number: 23
+    bookId: 34
+    text: но вознесся против Господа небес, и сосуды дома Его принесли к тебе, и ты
+      и вельможи твои, жены твои и наложницы твои пили из них вино, и ты славил
+      богов серебряных и золотых, медных, железных, деревянных и каменных,
+      которые ни видят, ни слышат, ни разумеют; а Бога, в руке Которого дыхание
+      твое и у Которого все пути твои, ты не прославил.
+    chapter: 5
+    chapterId: 982
+    parallels:
+      - verseId: 30359
+        bookId: 22
+        bookCode: psaltir
+        chapter: 103
+        short: Пс:103:29
+      - verseId: 30972
+        bookId: 22
+        bookCode: psaltir
+        chapter: 134
+        short: Пс:134:15
+      - verseId: 30973
+        bookId: 22
+        bookCode: psaltir
+        chapter: 134
+        short: Пс:134:16
+      - verseId: 15290
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 10
+        short: Иер:10:23
+    translates:
+      kassian: ""
+      podstr: Царь, ты сделал ужин друзьям твоим и пил вино и сосуды дома Бога
+        Живущего были принесены тебе и пили [с использованием] их ты и вельможи
+        твои, и хвалили всех идолов рукотворных людей, а Бога Живущего не
+        благословили, а дух твой в руке Его и царское твоё Он дал тебе и не
+        благословил Его и не хвалил Его.
+      csya: "но на Господа Бога небеснаго вознеслся еси, и сосуды храма его принесоша
+        пред тебе, ты же и вельможи твои, и наложницы твоя и возлежащыя (окрест)
+        тебе, вино пиясте ими: и боги златыя и сребряныя, и медяныя и железныя,
+        и каменныя и древяныя, иже ни видят, ни слышат, ни разумеют, похвалил
+        еси, а Бога, у негоже дыхание твое в руце его, и вси путие твои, того не
+        прославил еси."
+      averincev: ""
+      ungerov: Но вознесся против Господа Бога небеснаго, и сосуды храма Его принесли
+        к тебе, и ты и вельможи твои, и наложницы твои, и возлежащия (вокруг)
+        тебя, вино пили из них, и богов золотых, и серебряных, и медных, и
+        железных, и каменных, и деревянных, которые не видят, не слышат, не
+        разумеют, ты прославил, а Бога, в руке Коего дыхание твое и все пути
+        твои, ты не прославил.
+      csya_old: "но на гDа бг7а нбcнаго возне1слсz є3си2, и3 сосyды хрaма є3гw2
+        принесо1ша пред8 тебе2, ты1 же и3 вельмHжи твои2, и3 налHжницы тво‰ и3
+        возлежaщыz (њ1крестъ) тебє2, віно2 піsсте и4ми: и3 бо1ги златы6z и3
+        срє1брzныz, и3 мBдzныz и3 желBзныz, и3 кaмєнныz и3 древ‰ныz, и5же ни
+        ви1дzтъ, ни слы1шатъ, ни разумёютъ, похвали1лъ є3си2, ґ бг7а, ў негHже
+        дыхaніе твое2 въ руцЁ є3гw2, и3 вси2 путіе2 твои2, того2 не прослaвилъ
+        є3си2."
+      sovr_rbo: "Ты восстал против Владыки Небесного: тебе приносят сосуды, взятые из
+        Дома Его, и ты со своими вельможами, женами и наложницами пьешь из них
+        вино. Ты восхваляешь богов серебряных и золотых, медных и железных,
+        деревянных и каменных, которые ничего не видят, не слышат и не понимают,
+        а Бога, в чьей власти твоя жизнь и судьба, не славишь."
+      latin: "sed adversum Dominatorem caeli elevatus es: et vasa domus ejus allata
+        sunt coram te, et tu, et optimates tui, et uxores tuae, et concubinae
+        tuae vinum bibistis in eis: deos quoque argenteos, et aureos, et aereos,
+        ferreos, ligneosque et lapideos, qui non vident, neque audiunt, neque
+        sentiunt, laudasti: porro Deum, qui habet flatum tuum in manu sua, et
+        omnes vias tuas, non glorificasti."
+      ukr: І ти піднісся понад Небесного Господа, і посуд храму Його принесли перед
+        тебе, а ти та вельможі твої, жінки твої та наложниці твої пили з них
+        вино, і ти хвалив богів срібних та золотих, мідяних, залізних,
+        дерев'яних та камінних, що не бачать, і не чують та не знають, а Бога,
+        що в руці Його душа твоя й що Його всі дороги твої, ти не прославляв.
+      nkjv: And you have lifted yourself up against the Lord of heaven. They have
+        brought the vessels of His house before you, and you and your lords,
+        your wives and your concubines, have drunk wine from them. And you have
+        praised the gods of silver and gold, bronze and iron, wood and stone,
+        which do not see or hear or know; and the God who holds your breath in
+        His hand and owns all your ways, you have not glorified.
+      desnitsky: ""
+      mt: ‫    וְעַל מָרֵא־שְׁמַיָּא הִתְרוֹמַמְתָּ וּלְמָאנַיָּא דִי־בַיְתֵהּ
+        הַיְתִיו *קדמיך **קָדָמָךְ *ואנתה **וְאַנְתְּ *ורברבניך
+        **וְרַבְרְבָנָךְ‪‬ שֵׁגְלָתָךְ וּלְחֵנָתָךְ חַמְרָא שָׁתַיִן בְּהוֹן
+        וְלֵאלָהֵי כַסְפָּא־וְדַהֲבָא נְחָשָׁא פַרְזְלָא אָעָא וְאַבְנָא דִּי
+        לָא־חָזַיִן וְלָא־שָׁמְעִין וְלָא יָדְעִין שַׁבַּחְתָּ וְלֵאלָהָא
+        דִּי־נִשְׁמְתָךְ בִּידֵהּ וְכָל־אֹרְחָתָךְ לֵהּ לָא הַדַּרְתָּ׃ ‬
+      romana: Si te-ai ridicat impotriva Stapanului cerului si ai adus vasele
+        templului Sau inaintea ta, si ai baut vin din ele, tu si dregatorii tai,
+        femeile tale si concubinele tale, si ai preamarit dumnezei de argint, de
+        aur, de arama, de fier, de lemn si de piatra, dumnezei care nu vad, nici
+        nu aud si nici nu cunosc nimic, iar pe Dumnezeul in mana Caruia este
+        suflarea ta si toate caile tale, nu L-ai cinstit.
+      francais: Tu t'es élevé contre le Seigneur des cieux; les vases de sa maison ont
+        été apportés devant toi, et vous vous en êtes servis pour boire du vin,
+        toi et tes grands, tes femmes et tes concubines; tu as loué les dieux
+        d'argent, d'or, d'airain, de fer, de bois et de pierre, qui ne voient
+        point, qui n'entendent point, et qui ne savent rien, et tu n'as pas
+        glorifié le Dieu qui a dans sa main ton souffle et toutes tes voies.
+      italian: "Anzi tu hai insolentito contro il Signore del cielo e sono stati
+        portati davanti a te i vasi del suo tempio e in essi avete bevuto tu, i
+        tuoi dignitari, le tue mogli, le tue concubine: tu hai reso lode agli
+        dèi d'oro, d'argento, di bronzo, di ferro, di legno, di pietra, i quali
+        non vedono, non odono e non comprendono e non hai glorificato Dio, nelle
+        cui mani è la tua vita e a cui appartengono tutte le tue vie."
+      old_georgian: და უფალსა და ღმერთსა ცათასა აჰმაღლდი, და ჭურჭელნი სახლისა მისისანი
+        მოიხუენ წინაშე შენსა, და შენ, და დიდებულნი შენნი, და თანამყოფნი შენნი და
+        ხარჭნი შენნი ღჳნოსა სუემდით მათ მიერ, და ღმერთთა ოქროსა და ვეცხლისა,
+        რვალისა და რკინისა, და ძელისა და ქვისათა, რომელნი არა ჰხედვენ, და არა
+        ესმის და არა იცნობენ, აქებდით. ხოლო ღმერთი, რომლისა მშჳნვაჲ შენი ჴელსა
+        შინა მისსა და ყოველნი გზანი შენნი, იგი არა ადიდე.
+      portuguese: "porém te elevaste contra o Senhor do céu; pois foram trazidos a tua
+        presença os vasos da casa dele, e tu, os\rteus grandes, as tua mulheres
+        e as tuas concubinas, bebestes vinho neles; além disso, deste louvores
+        aos deuses\rde prata, de ouro, de bronze, de ferro, de madeira e de
+        pedra, que não vêem, não ouvem, nem sabem; mas a Deus,\rem cuja mão está
+        a tua vida, e de quem são todos os teus caminhos, a ele não
+        glorificaste.:"
+      polish: "lecz uniosłeś się przeciw Panu nieba. Przyniesiono do ciebie naczynia
+        Jego\rdomu, ty zaś, twoi możnowładcy, twoje żony i twoje nałożnice
+        piliście z nich\rwino. Wychwalałeś bogów srebrnych i złotych,
+        miedzianych, żelaznych, drewnianych i kamiennych, którzy nie widzą, nie
+        słyszą i nie rozumieją. Bogu zaś,\rw którego mocy jest twój oddech i
+        wszystkie twoje drogi, czci nie oddałeś."
+      turkish: "Bunun yerine göğün Rab'bine karşı kendini yükselttin. O'nun
+        tapınağından aldıkları kapları sana getirdiler. Sen, karıların,
+        cariyelerin, soylu adamların onlarla şarap içtiniz. Görmeyen, duymayan,
+        anlamayan altından, gümüşten, tunçtan, demirden, ağaçtan,
+        taştan\rilahları övdün. Soluğunu elinde tutan, bütün yollarını gözeten
+        Tanrı'yı ise yüceltmedin."
+      nrt: Ты возвысил себя против Владыки небес. Ты велел принести себе кубки из Его
+        дома и со своими приближенными, женами и наложницами пил из них. Ты
+        славил богов из серебра и золота, из бронзы, железа, дерева и камня,
+        которые не могут ни видеть, ни слышать, ни понимать. Но Бога, в руках
+        Которого твоя жизнь и все твои пути, ты не почтил.
+      Macarius: Но восстал на Владыку небес, и сосуды дома Его принесли тебе; и ты и
+        вельможи твои, жены твои и наложницы твои пили из них вино; и величал ты
+        богов, серебряных и золотых, медных, железных, деревянных и каменных,
+        которые ни видят, ни слышат, ни смыслят; а Бога, в руке Коего дыхание
+        твое и все пути твои, ты не почтил.
+      bulgarian: а се въздигна против Господа Небесни, и съдовете от Дома Му ти
+        донесоха, и ти и твоите велможи, твоите жени и наложници пихте от тях
+        вино, и ти славеше боговете сребърни и златни, медни и железни, дървени
+        и каменни, които нито виждат, нито слушат, нито разумяват; а Бога, в
+        Чиито ръце е твоето дишане, и у Когото са всички твои пътища, ти не
+        прослави.
+      deutsch: sondern hast dich wider den Herrn des Himmels erhoben, und die Gefäße
+        seines Hauses hat man vor dich bringen müssen, und du, deine Gewaltigen,
+        deine Weiber und deine Kebsweiber habt daraus getrunken, dazu die
+        silbernen, goldenen, ehernen, eisernen, hölzernen und steinernen Götter
+        gelobt, die weder sehen noch hören noch fühlen; den Gott aber, der
+        deinen Odem und alle deine Wege in seiner Hand hat, hast du nicht
+        geehrt.
+      ukr2: лише піднявся проти Господа небес; і принесено посуд його дому перед тебе,
+        і ти й твої вельможі, твої жінки та твої наложниці пили з них вино, і ти
+        хвалив богів срібних і золотих, мідяних, залізних, дерев'яних та
+        кам'яних, що не бачать, не чують і не розуміють, Бога ж, в руці якого
+        твоє дихання й усі твої стежки, ти не славив.
+      ukr3: Але підняв себе проти Господа небес, і се принесено посуд дому його перед
+        тебе, а ти й дуки твої, жінки твої й наложницї твої пили з них вино, та
+        й хвалив єси богів срібних і золотих, мідяних, залїзних, деревяних і
+        камяних, що нї бачать, нї чують, нї розуміють, а БогЃ б, що в його руцї
+        твоє диханнє і в його всї стежки твої, ти не пошанував.
+      bel_syomukha: узьнёсься супроць Госпада нябёсаў, і посуд храма Яго прынесьлі
+        табе, і ты і твае вяльможы і наложніцы твае пілі зь яго віно, і ты
+        славіў багоў срэбраных і залатых, медных, жалезных, драўляных і
+        каменных, якія ня бачаць, і ня чуюць, і не разумеюць; а Бога, у руцэ ў
+        Якога душа твая і ў Якога твае ўсе шляхі, ты не праславіў.
+      Olesn: и против Владыки неба ты превозносился и сосуды дома Его принесли пред
+        тебя, и ты и вельможи твои, жены твои и наложницы твои вино пьете из
+        них; богов серебряных и золотых, медныхь, железных, деревянных и
+        каменных, которые ничего не видят, не слышат и не знают, ты хвалил, а
+        Бога, в руке котораго дыхание твое и у котораго все пути твои, ты не
+        прославил.
+      lev-khv: Но вознесся против Владыки небес, так что сосуды из дома Его принесли к
+        тебе, а ты и вельможи твои, жены твои и наложницы твои пили из них вино,
+        и ты славил богов серебряных и золотых, медных, железных, деревянных и
+        каменных, которые не видят, ни слышат, ни мыслят; а Бога, у Котораго в
+        руке и дыхание твоей жизни, и все пути твои, Его ты не прославил.
+      czech: ale povysil ses nad Pana nebes. Prinesli pred tebe nadoby z jeho domu a
+        pil jsi z nich vino ty i tvoji hodnostari, tve zeny i zeniny, a chvalil
+        jsi bohy stribrne a zlate, bronzove, zelezne, drevene a kamenne, kteri
+        nic nevidi, neslysi ani nevedi. Boha, v jehoz rukou je tvuj dech a
+        vsechny tve cesty, jsi vsak nevelebil.
+      spanish: Te has alzado contra el Señor de los cielos, han traído ante ti los
+        vasos de su casa y os habéis servido de ellos para beber vino tú y tus
+        grandes, tus mujeres y tus concubinas; has alabado a dioses de plata y
+        oro, de bronce y de hierro, de madera y de piedra, que ni ven ni
+        entienden, y no has dado gloria al Dios que tiene en sus manos tu vida y
+        es el dueño de todos los caminos.
+      greek-lxx: βασιλεῦ σὺ ἐποιήσω ἑστιατορίαν τοῖς φίλοις σου καὶ ἔπινες οἶνον καὶ
+        τὰ σκεύη τοῦ οἴκου τοῦ Θεοῦ τοῦ ζῶντος ἠνέχθη σοι καὶ ἐπίνετε ἐν αὐτοῖς
+        σὺ καὶ οἱ μεγιστᾶνές σου καὶ ᾐνέσατε πάντα τὰ εἴδωλα τὰ χειροποίητα τῶν
+        ἀνθρώπων καὶ τῷ Θεῷ τῷ ζῶντι οὐκ εὐλογήσατε καὶ τὸ πνεῦμά σου ἐν τῇ
+        χειρὶ αὐτοῦ καὶ τὸ βασίλειόν σου αὐτὸς ἔδωκέ σοι καὶ οὐκ εὐλόγησας αὐτὸν
+        οὐδὲ ᾔνεσας αὐτῷ
+      greek-theodotion: καὶ ἐπὶ τὸν Κύριον Θεὸν τοῦ οὐρανοῦ ὑψώθης καὶ τὰ σκεύη τοῦ
+        οἴκου αὐτοῦ ἤνεγκαν ἐνώπιόν σου καὶ σὺ καὶ οἱ μεγιστᾶνές σου καὶ αἱ
+        παλλακαί σου καὶ αἱ παράκοιτοί σου οἶνον ἐπίνετε ἐν αὐτοῖς καὶ τοὺς
+        θεοὺς τοὺς χρυσοῦς καὶ ἀργυροῦς καὶ χαλκοῦς καὶ σιδηροῦς καὶ ξυλίνους
+        καὶ λιθίνους οἳ οὐ βλέπουσιν καὶ οὐκ ἀκούουσιν καὶ οὐ γινώσκουσιν ᾔνεσας
+        καὶ τὸν Θεόν οὗ ἡ πνοή σου ἐν χειρὶ αὐτοῦ καὶ πᾶσαι αἱ ὁδοί σου αὐτὸν
+        οὐκ ἐδόξασας
+      st_text: но вознесся против Господа небес, и сосуды дома Его принесли к тебе, и
+        ты и вельможи твои, жены твои и наложницы твои пили из них вино, и ты
+        славил богов серебряных и золотых, медных, железных, деревянных и
+        каменных, которые ни видят, ни слышат, ни разумеют; а Бога, в руке
+        Которого дыхание твое и у Которого все пути твои, ты не прославил.
+  - id: 12892
+    number: 24
+    bookId: 34
+    text: За это и послана от Него кисть руки, и начертано это писание.
+    chapter: 5
+    chapterId: 982
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Сего ради от лица его послани быша персты ручнии и писание сие вчиниша.
+      averincev: ""
+      ungerov: За сие посланы были от Него персты руки и начертали эту надпись.
+      csya_old: Сегw2 рaди t лицA є3гw2 по1слани бы1ша пе1рсты ручнjи и3 писaніе сіе2
+        вчини1ша.
+      sovr_rbo: Потому от Него послана эта рука и написаны эти слова.
+      latin: Idcirco ab eo missus est articulus manus, quae scripsit hoc quod exaratum
+        est.
+      ukr: Того часу від Нього посланий зарис руки, і написане оце писання.
+      nkjv: Then the fingers of the hand were sent from Him, and this writing was
+        written.
+      desnitsky: ""
+      mt: ‫    בֵּאדַיִן מִן־קֳדָמוֹהִי שְׁלִיַחַ‪‬ פַּסָּא דִי־יְדָא וּכְתָבָא דְנָה
+        רְשִׁים׃ ‬
+      romana: Atunci a trimis El varful mainii care a scris aceste cuvinte.
+      francais: C'est pourquoi il a envoyé cette extrémité de main qui a tracé cette
+        écriture.
+      italian: Da lui fu allora mandata quella mano che ha tracciato quello scritto,
+      old_georgian: ამისთჳს პირისაგან მისისა მოივლინა უსაქციელოჲ ჴელი და ნაწერი მისი დასახა.
+      portuguese: Então dele foi enviada aquela parte da mão que traçou o escrito.
+      polish: Dlatego posłał On tę rękę, która nakreśliła to pismo.
+      turkish: Bu yüzden Tanrı o yazıyı yazan eli gönderdi.
+      nrt: Поэтому и послана была от Него рука, которая написала эту надпись.
+      Macarius: Тогда послана от Него кисть руки, и начертаны письмена сии.
+      bulgarian: Заради това са и проводени от Него тия ръчни пръсти и е начертано
+        това писмо.
+      deutsch: Darum ist von ihm gesandt diese Hand und diese Schrift, die da
+        verzeichnet steht.
+      ukr2: Тим і послав він цю кінцівку руки, й було накреслене оце написане.
+      ukr3: За се й послана ним ся частина руки, що оце й написала.
+      bel_syomukha: За гэта і паслана ад Яго пясьць рукі, і накрэсьлена гэта пісаньне.
+      Olesn: Тогда от Него была послана эта кисть руки и буквы эти начертала.
+      lev-khv: За сие-то и послана от Него кисть руки, и начертана эта надпись.
+      czech: Proto bylo od neho poslano zapesti ruky a napsano toto pismo.
+      spanish: Por eso ha mandado Él esa mano que ha trazado esa escritura.
+      greek-lxx: ""
+      greek-theodotion: διὰ τοῦτο ἐκ προσώπου αὐτοῦ ἀπεστάλη ἀστράγαλος χειρὸς καὶ τὴν
+        γραφὴν ταύτην ἐνέταξεν
+      st_text: За это и послана от Него кисть руки, и начертано это писание.
+  - id: 12893
+    number: 25
+    bookId: 34
+    text: "И вот что начертано: мене, мене, текел, упарсин."
+    chapter: 5
+    chapterId: 982
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "Это писание исчислено, пересчитано, отнялась и остановилась пишущая
+        рука и это разъяснение их:"
+      csya: "Се же есть писание вчиненое: мани, фекел, фарес."
+      averincev: ""
+      ungerov: "А начертанная надпись такова: мани, фекел, фарес."
+      csya_old: "Се1 же є4сть писaніе вчине1ное: мани2, fеке1л, фaрес."
+      sovr_rbo: "Вот что здесь написано: Мене Мене Текел у-Парсин."
+      latin: "Haec est autem scriptura, quae digesta est: Mane, Thecel, Phares."
+      ukr: "А оце писання, що написане: Мене, мене, текел упарсін."
+      nkjv: '"And this is the inscription that was written: MENE, MENE, TEKEL,
+        UPHARSIN.'
+      desnitsky: ""
+      mt: ‫    וּדְנָה כְתָבָא דִּי רְשִׁים מְנֵא מְנֵא תְּקֵל וּפַרְסִין׃ ‬
+      romana: "Iata inscriptia care a fost scrisa: Mene, mene, techel ufarsin."
+      francais: "Voici l'écriture qui a été tracée: Compté, compté, pesé, et divisé."
+      italian: "di cui questa è la lettura: MENE, TEKEL, PERES,"
+      old_georgian: "და ესე არს ნაწერი დასახული: მაკი, თეკელ, ფარეს."
+      portuguese: "Esta, pois, é a escritura que foi traçada: MENE, MENE, TEQUEL, UFARSlM."
+      polish: "A oto nakreślone pismo: mene, mene, tekel ufarsin."
+      turkish: "«Yazılan yazı şudur:\rMENE, MENE, TEKEL ve PARSİN."
+      nrt: "Вот, что написано: МЕНЕ, МЕНЕ, ТЕКЕЛ, У-ПАРСИН"
+      Macarius: "И вот какие начертаны письмена: «МЕНЕ, МЕНЕ, ФЕКЕЛ, УФАРСИН»."
+      bulgarian: "И ето, що е начертано: мене, мене, текел, упарсин."
+      deutsch: "Das aber ist die Schrift, allda verzeichnet: Mene, mene, Tekel,
+        U-pharsin."
+      ukr2: "Оце ж написано таке в тому, що накреслено: Мане, текел, фарес."
+      ukr3: "І от що написано: Мене, мене, текел, упарсин (перес)."
+      bel_syomukha: "І вось што накрэсьлена: мэнэ, мэнэ, тэкэл, упарсін."
+      Olesn: "Вот буквы, которыя начертаны:\r\rMENE, MENE, FEKEL UPHASIN."
+      lev-khv: "И вот надпись, которая начертана:  М е н е,   м е н е,   т е к е л, 
+         у п а р с и н."
+      czech: "Toto pak je pismo, ktere bylo napsano: ‚Mene, mene, tekel u-parsin '."
+      spanish: "La escritura es: Mené, mené, teqel, ufarsin;"
+      greek-lxx: ""
+      greek-theodotion: καὶ αὕτη ἡ γραφὴ ἡ ἐντεταγμένη μανη θεκελ φαρες
+      st_text: "И вот что начертано: мене, мене, текел, упарсин."
+  - id: 12894
+    number: 26
+    bookId: 34
+    text: "Вот и значение слов: мене - исчислил Бог царство твое и положил конец
+      ему;"
+    chapter: 5
+    chapterId: 982
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "Это разъяснение писания: Исчислено время твоего царства удаляется
+        царство твоё."
+      csya: "Се сказание глагола: мани, измери Бог царство твое и сконча е:"
+      averincev: ""
+      ungerov: "Таково значение слов: мани — измерил Бог царство твое и определил
+        конец ему."
+      csya_old: "Се2 сказaніе глаго1ла: мани2, и3змёри бг7ъ цaрство твое2 и3 скончA є5:"
+      sovr_rbo: "И вот что это означает: Мене — „Исчислил Бог твое царствование и
+        положил ему конец”."
+      latin: "Et haec est interpretatio sermonis. Mane: numeravit Deus regnum tuum, et
+        complevit illud."
+      ukr: "Ось розв'язка цієї речі: Мене порахував Бог царство твоє, і покінчив
+        його."
+      nkjv: "This is the interpretation of each word. Mene: God has numbered your
+        kingdom, and finished it;"
+      desnitsky: ""
+      mt: ‫    דְּנָה פְּשַׁר־מִלְּתָא מְנֵא מְנָה־אֱלָהָא מַלְכוּתָךְ וְהַשְׁלְמַהּ׃
+        ‬
+      romana: "Aceasta este talcuirea cuvantului mene: Dumnezeu a numarat zilele
+        regatului tau si i-a pus capat."
+      francais: "Et voici l'explication de ces mots. Compté: Dieu a compté ton règne,
+        et y a mis fin."
+      italian: "e questa ne è l'in terpretazione: Mene: Dio ha computato il tuo regno
+        e gli ha posto fine."
+      old_georgian: "და ესე თანშეტყუებაჲ სიტყჳსაჲ: მაკი - განზომა ღმერთმან მეფობა შენი
+        და აღავსო იგი."
+      portuguese: "Esta é a interpretação daquilo: MENE: Contou Deus o teu reino, e o
+        acabou."
+      polish: "Takie zaś jest znaczenie wyrazów: Mene - Bóg obliczył twoje panowanie
+        i\rustalił jego kres."
+      turkish: "«Bu sözcüklerin anlamı şudur:\rMENE:  Tanrı senin krallığının
+        günlerini saydı ve ona son verdi."
+      nrt: "Вот смысл этих слов: МЕНЕ – Бог исчислил дни твоего царствования и положил
+        ему конец."
+      Macarius: "Вот значение слова: МЕНЕ — царство твое Бог исчислил и полагает ему
+        конец."
+      bulgarian: "Ето и значението на думите: мене - изброи Бог царството ти и му тури
+        край;"
+      deutsch: "Und sie bedeutet dies: Mene, das ist Gott hat dein Königreich gezählt
+        und vollendet."
+      ukr2: "А ось і значення речі: Мане - Бог облічив твоє царство й постановив йому
+        кінець."
+      ukr3: "А ось і значіннє слів: Мене - облїчив Бог царство твоє і постановив йому
+        кінець;"
+      bel_syomukha: "Вось і разгадка слоў: мэнэ - вылічыў Бог царства тваё і паклаў
+        канец яму;"
+      Olesn: "Вот объяснение слов: MENE — посчитал Бог царство твое и покончил с ним."
+      lev-khv: "Вот значение слов:  м е н е  — исчислил Бог дни царства твоего и
+        кончил его;"
+      czech: "Toto je vyklad tech slov: Mene – Buh secetl tve kralovani a ukoncil je."
+      spanish: "y ésta es su interpretación: mené, ha contado Dios tu reino y le ha
+        puesto fin;"
+      greek-lxx: τοῦτο τὸ σύγκριμα τῆς γραφῆς ἠρίθμηται ὁ χρόνος σου τῆς βασιλείας
+        ἀπολήγει ἡ βασιλεία σου συντέτμηται καὶ συντετέλεσται ἡ βασιλεία σου
+        τοῖς Μήδοις καὶ τοῖς Πέρσαις δίδοται
+      greek-theodotion: τοῦτο τὸ σύγκριμα τοῦ ῥήματος μανη ἐμέτρησεν ὁ Θεὸς τὴν
+        βασιλείαν σου καὶ ἐπλήρωσεν αὐτήν
+      st_text: "Вот и значение слов: мене - исчислил Бог царство твое и положил конец
+        ему;"
+  - id: 12895
+    number: 27
+    bookId: 34
+    text: Текел - ты взвешен на весах и найден очень легким;
+    chapter: 5
+    chapterId: 982
+    parallels:
+      - verseId: 28458
+        bookId: 77
+        bookCode: otkrovenie-ap-ioanna-bogoslova
+        chapter: 3
+        short: Откр:3:16
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "фекел, поставися в мерилех и обретеся лишаемо:"
+      averincev: ""
+      ungerov: Фекел — поставлено (оно) на весах и найдено легким.
+      csya_old: "fеке1л, постaвисz въ мёрилэхъ и3 њбрётесz лишaемо:"
+      sovr_rbo: Текел — „Взвешен ты на весах и оказался слишком легким”.
+      latin: "Thecel: appensus es in statera, et inventus es minus habens."
+      ukr: Текел ти зважений на вазі, і знайдений легеньким.
+      nkjv: "Tekel: You have been weighed in the balances, and found wanting;"
+      desnitsky: ""
+      mt: ‫    תְּקֵל תְּקִילְתָּה בְמֹאזַנְיָא וְהִשְׁתְּכַחַתְּ חַסִּיר׃ ‬
+      romana: "Techel: l-a cantarit in cantar si l-a gasit usor."
+      francais: "Pesé: Tu as été pesé dans la balance, et tu as été trouvé léger."
+      italian: "Tekel: tu sei stato pesato sulle bilance e sei stato trovato mancante."
+      old_georgian: თეკელ - აღწონა უღლითა და იპოვა მოკლებულად.
+      portuguese: "TEQUEL: Pesado foste na balança, e foste achado em falta."
+      polish: Tekel - zważono cię na wadze i okazałeś się zbyt lekki.
+      turkish: "TEKEL: Terazide tartıldın ve eksik bulundun."
+      nrt: ТЕКЕЛ – ты взвешен на весах и найден слишком легким.
+      Macarius: ФЕКЕЛ — ты взвешен на весах и найден недостаточным.
+      bulgarian: текел - претеглен си на къпоните и си намерен твърде лек;
+      deutsch: "Tekel, das ist: man hat dich in einer Waage gewogen und zu leicht
+        gefunden."
+      ukr2: Текел - тебе зважено на вазі і знайдено легким.
+      ukr3: Текел - тебе зважено на вазї й знайдено дуже легким;
+      bel_syomukha: тэкэл - ты ўзважаны на вагах і важыш вельмі мала;
+      Olesn: TEKEL — ты взвешен на весах и оказался слишком легким.
+      lev-khv: Т е к е л  — ты взвешен на весах и найден легким;
+      czech: Tekel – byl jsi zvazen na vahach a shledan lehky.
+      spanish: teqel, has sido pesado en la balanza y hallado falto de peso;
+      greek-lxx: ""
+      greek-theodotion: θεκελ ἐστάθη ἐν ζυγῷ καὶ εὑρέθη ὑστεροῦσα
+      st_text: Текел - ты взвешен на весах и найден очень легким;
+  - id: 12896
+    number: 28
+    bookId: 34
+    text: Перес - разделено царство твое и дано Мидянам и Персам.
+    chapter: 5
+    chapterId: 982
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Рассекается и уничтожается. Царство твоё мидянам и персам даётся.
+      csya: фарес, разделися царство твое и дадеся мидом и персом.
+      averincev: ""
+      ungerov: Фарес — разделено царство твое и дано Мидянам и Персам.
+      csya_old: фaрес, раздэли1сz цaрство твое2 и3 даде1сz ми1дwмъ и3 пе1рсwмъ.
+      sovr_rbo: Перес — „Разделено твое царство и отдано мидянам и Персам”» .
+      latin: "Phares: divisum est regnum tuum, et datum est Medis, et Persis."
+      ukr: Перес поділене царство твоє, і віддане мідянам та персам.
+      nkjv: 'Peres: Your kingdom has been divided, and given to the Medes and
+        Persians."'
+      desnitsky: ""
+      mt: ‫    פְּרֵס פְּרִיסַת מַלְכוּתָךְ וִיהִיבַת לְמָדַי וּפָרָס׃ ‬
+      romana: 'Peres: a impartit regatul tau si 1-a dat Mezilor si Persilor".'
+      francais: "Divisé: Ton royaume sera divisé, et donne aux Mèdes et aux Perses."
+      italian: 'Peres: il tuo regno è diviso e dato ai Medi e ai Persiani".'
+      old_georgian: ფარეს - განიწვალა მეფობაჲ შენი და მიეცა მიდთა და სპარსთა.
+      portuguese: "PERES: Dividido está o teu reino, e entregue aos medos e persas."
+      polish: Peres - twoje królestwo uległo podziałowi; oddano je Medom i Persom”.
+      turkish: "PERES: Krallığın ikiye bölünerek Medler'le Persler'e verildi.»"
+      nrt: ПЕРЕС – твое царство разделено и отдано мидянам и персам.
+      Macarius: ПЕРЕС — царство твое разделяется и отдается Миду и Персу.
+      bulgarian: персе - царството ти е разделено и е дадено на мидяни и перси".
+      deutsch: "Peres, das ist: dein Königreich ist zerteilt und den Medern und
+        Persern gegeben."
+      ukr2: Фарес - твоє царство розділено й віддано мідянам та персам.»
+      ukr3: Перес - роздїлено царство твоє й віддано Мидіям та Персам.
+      bel_syomukha: пэрэс - падзелена царства тваё і аддадзена Мідзянам і Персам".
+      Olesn: PHERES — разделено царство твое и отдано мидянам и персам».
+      lev-khv: П е р е с  — разделено царство твое и дано будет Мидянам и Персам.
+      czech: Peres – tve kralovstvi bylo rozlomeno a dano Medum a Persanum."
+      spanish: ufarsin, ha sido roto tu reino y dado a los medos y persas.
+      greek-lxx: ""
+      greek-theodotion: φαρες διῄρηται ἡ βασιλεία σου καὶ ἐδόθη Μήδοις καὶ Πέρσαις
+      st_text: Перес - разделено царство твое и дано Мидянам и Персам.
+  - id: 12897
+    number: 29
+    bookId: 34
+    text: Тогда по повелению Валтасара облекли Даниила в багряницу и возложили
+      золотую цепь на шею его, и провозгласили его третьим властелином в
+      царстве.
+    chapter: 5
+    chapterId: 982
+    parallels:
+      - verseId: 10767
+        bookId: 1
+        bookCode: bytie
+        chapter: 41
+        short: Быт:41:42
+      - verseId: 20231
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 22
+        short: Ис:22:21
+    translates:
+      kassian: ""
+      podstr: Тогда Валтасар царь надел [на] Даниила порфиру и ожерелье золотое
+        повязал ему и дал власть ему третьей части царства его.
+      csya: "И рече валтасар: (облецыте и). И облекоша даниила в багряницу, и гривну
+        златую возложиша на выю его, и проповеда о нем, еже быти ему князю
+        третиему во царстве его."
+      averincev: ""
+      ungerov: "И сказал Валтасар: (оденьте его), и одели Даниила в багряницу, и цепь
+        золотую надели на шею его, и объявили его третьим властелином в царстве
+        его."
+      csya_old: "И# рече2 валтасaръ: (њблецы1те и5). И# њблеко1ша даніи1ла въ
+        багрzни1цу, и3 гри1вну златyю возложи1ша на вы1ю є3гw2, и3 проповёда њ
+        не1мъ, є4же бы1ти є3мY кнsзю тре1тіему во цaрствэ є3гw2."
+      sovr_rbo: Тогда Валтасар отдал приказ — и Даниила облачили в пурпур, надели ему
+        золотую цепь на шею и провозгласили его третьим человеком в государстве.
+      latin: "Tunc, jubente rege, indutus est Daniel purpura, et circumdata est
+        torques aurea collo ejus: et praedicatum est de eo quod haberet
+        potestatem tertius in regno suo."
+      ukr: Тоді наказав Валтасар, і надягли на Даниїла пурпуру, а золотого ланцюга на
+        шию його, і розголосили про нього, що він буде третім пануючим у
+        царстві.
+      nkjv: Then Belshazzar gave the command, and they clothed Daniel with purple and
+        put a chain of gold around his neck, and made a proclamation concerning
+        him that he should be the third ruler in the kingdom.
+      desnitsky: ""
+      mt: ‫    בֵּאדַיִן אֲמַר בֵּלְשַׁאצַּר וְהַלְבִּישׁוּ לְדָנִיֵּאל אַרְגְּוָנָא
+        *והמונכא **וְהַמְנִיכָא דִי־דַהֲבָא עַל־צַוְּארֵהּ וְהַכְרִזוּ עֲלוֹהִי
+        דִּי־לֶהֱוֵא שַׁלִּיט תַּלְתָּא בְּמַלְכוּתָא׃ ‬
+      romana: Atunci a poruncit Belsatar si au imbracat pe Daniel in vesmant de
+        purpura si i-au pus lant de aur la gatul lui si au dat de veste ca el va
+        carmui ca al treilea in imparatie.
+      francais: Aussitôt Belschatsar donna des ordres, et l'on revêtit Daniel de
+        pourpre, on lui mit au cou un collier d'or, et on publia qu'il aurait la
+        troisième place dans le gouvernement du royaume.
+      italian: Allora, per ordine di Baldassàr, Daniele fu vestito di porpora, ebbe
+        una collana d'oro al collo e con bando pubblico fu dichiarato terzo
+        signore del regno.
+      old_georgian: და თქუა ვალტასარმან, და შეჰმოსეს დანიელსა პორფირი, და მანიაკი
+        ოქროჲსაჲ გარემოსდვეს გარემოს ქედისა მისისა, და ქადაგა მისთჳს ყოფად იგი
+        მესამედ მთავრად სამეფოსა შინა.
+      portuguese: "Então Belsazar deu ordem, e vestiram a Daniel de púrpura,
+        puseram-lhe uma cadeia de ouro ao pescoço, e\rproclamaram a respeito
+        dele que seria o terceiro em autoridade no reino."
+      polish: "Wtedy na rozkaz Baltazara odziano Daniela w purpurę, nałożono mu na
+        szyję\rzłoty łańcuch i ogłoszono, że ma rządzić jako trzeci w państwie."
+      turkish: Belşassar'ın buyruğu üzerine Daniel'e mor giysi giydirilip boynuna
+        altın zincir takıldı ve ülkede üçüncü önder ilan edildi.
+      nrt: Тогда по повелению Валтасара Даниила одели в пурпур, возложили ему на шею
+        золотую цепь и провозгласили третьим высшим правителем царства.
+      Macarius: Тогда повелел Велшацар, чтоб одели Даниила в порфиру, и золотую цепь
+        возложили на шею его, и провозгласили о нем, что он третий из
+        начальствующих в царстве.
+      bulgarian: Тогава по заповед на Валтасара облякоха Даниила в багреница и туриха
+        на шията му златна верижка и го провъзгласиха трети властник в
+        царството.
+      deutsch: Da befahl Belsazer, daß man Daniel mit Purpur kleiden sollte und ihm
+        eine goldene Kette an den Hals geben, und ließ ihm verkündigen, daß er
+        der dritte Herr sei im Königreich.
+      ukr2: Тоді Валтасар звелів убрати Даниїла в пурпуру, покласти золотий ланцюг
+        йому на шию й оповістити його третім правителем у царстві.
+      ukr3: Тодї звелїв Валтасар, щоб убрали Даниїла в пурпур і вложили золотий ланцюг
+        на його шию, й оповістили його третім князем в царстві.
+      bel_syomukha: Тады па загадзе Валтасара апранулі Данііла ў пурпуру і павесілі
+        залаты ланцуг на шыю яму і абвясьцілі яго трэцім валадаром у царстве.
+      Olesn: Тогда повелел Белшацар и надели на Даниила пурпур и цепь золотую на шею и
+        обнародовали о нем, что он будет господствовать третьим человеком в
+        царстве.
+      lev-khv: Тогда по повелению Валтасара возложили багряницу на Даниила и золотую
+        цепь на шею его и провозгласили его третьим властителем в царстве.
+      czech: Belsasar hned porucil, aby Daniela oblekli do purpuru, na krk mu dali
+        zlaty retez a rozhlasili o nem, ze ma v kralovstvi moc jako treti.
+      spanish: Mandó entonces Baltasar vestirle de púrpura, y poner a su cuello el
+        collar de oro, y pregonar de él que era el tercero en el reino.
+      greek-lxx: τότε Βαλτασαρ ὁ βασιλεὺς ἐνέδυσε τὸν Δανιηλ πορφύραν καὶ μανιάκην
+        χρυσοῦν περιέθηκεν αὐτῷ καὶ ἔδωκεν ἐξουσίαν αὐτῷ τοῦ τρίτου μέρους τῆς
+        βασιλείας αὐτοῦ
+      greek-theodotion: καὶ εἶπεν Βαλτασαρ καὶ ἐνέδυσαν τὸν Δανιηλ πορφύραν καὶ τὸν
+        μανιάκην τὸν χρυσοῦν περιέθηκαν περὶ τὸν τράχηλον αὐτοῦ καὶ ἐκήρυξεν
+        περὶ αὐτοῦ εἶναι αὐτὸν ἄρχοντα τρίτον ἐν τῇ βασιλείᾳ
+      st_text: Тогда по повелению Валтасара облекли Даниила в багряницу и возложили
+        золотую цепь на шею его, и провозгласили его третьим властелином в
+        царстве.
+  - id: 12898
+    number: 30
+    bookId: 34
+    text: В ту же самую ночь Валтасар, царь Халдейский, был убит,
+    chapter: 5
+    chapterId: 982
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И разъяснение пришло Валтасару царю и царское отнялось от халдеев
+      csya: Валтасара царя халдейска убиша в ту нощь,
+      averincev: ""
+      ungerov: В ту ночь убили Валтасара, царя Халдейскаго.
+      csya_old: Валтасaра царS халде1йска ўби1ша въ тY но1щь,
+      sovr_rbo: В ту же ночь Валтасар, царь халдейский, был убит.
+      latin: Eadem nocte interfectus est Baltassar rex Chaldaeus.
+      ukr: Тієї ж ночі був забитий Валтасар, цар халдейський.
+      nkjv: That very night Belshazzar, king of the Chaldeans, was slain.
+      desnitsky: ""
+      mt: ‫    בֵּהּ בְּלֵילְיָא קְטִיל בֵּלְאשַׁצַּר מַלְכָּא *כשדיא **כַשְׂדָּאָה׃ פ
+        ‬
+      romana: Chiar in noaptea aceea a fost omorat Belsatar, imparatul Caldeilor.
+      francais: Cette même nuit, Belschatsar, roi des Chaldéens, fut tué.
+      italian: "In quella stessa notte Baldassàr re dei Caldei fu ucciso:"
+      old_georgian: ამას ღამესა შინა მოიკლა ვალტასარ, მეფე ქალდეველი.
+      portuguese: Naquela mesma noite Belsazar, o rei dos caldeus, foi morto.
+      polish: Tej samej nocy król chaldejski Baltazar został zabity.
+      turkish: Kildan Kralı Belşassar o gece öldürüldü.
+      nrt: В ту же ночь Валтасар, царь халдеев, был убит,
+      Macarius: В ту самую ночь убит Велшацар, халдейский царь.
+      bulgarian: В тая съща нощ Валтасар, халдейският цар, биде убит,
+      deutsch: Aber in derselben Nacht ward der Chaldäer König Belsazer getötet.
+      ukr2: Тієї ж таки ночі Валтасара, халдейського царя, вбито.
+      ukr3: Тієї ж таки ночі Валтасара, царя Халдейського, вбито,
+      bel_syomukha: Тае самае ночы Валтасар, цар Халдэйскі, быў забіты,
+      Olesn: В туже ночь был убит Белшацар, царь халдейский,
+      lev-khv: В ту же самую ночь Валтасар, царь Халдейский убит.
+      czech: Jeste te noci byl kaldejsky kral Belsasar zabit.
+      spanish: Aquella misma noche fue muerto Baltasar, rey de los caldeos, (
+      greek-lxx: καὶ τὸ σύγκριμα ἐπῆλθε Βαλτασαρ τῷ βασιλεῖ καὶ τὸ βασίλειον ἐξῆρται
+        ἀπὸ τῶν Χαλδαίων καὶ ἐδόθη τοῖς Μήδοις καὶ τοῖς Πέρσαις
+      greek-theodotion: ἐν αὐτῇ τῇ νυκτὶ ἀναιρέθη Βαλτασαρ ὁ βασιλεὺς ὁ Χαλδαίων
+      st_text: В ту же самую ночь Валтасар, царь Халдейский, был убит,
+  - id: 12899
+    number: 31
+    bookId: 34
+    text: и Дарий Мидянин принял царство, будучи шестидесяти двух лет.
+    chapter: 5
+    chapterId: 982
+    parallels:
+      - verseId: 20059
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 13
+        short: Ис:13:17
+      - verseId: 12983
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 9
+        short: Дан:9:1
+    translates:
+      kassian: ""
+      podstr: и дано мидянам и персам.
+      csya: дарий же мидянин прия царство, сый шестидесяти и двою лет.
+      averincev: ""
+      ungerov: И Дарий Мидянин принял царство, будучи шестидесяти двух лет.
+      csya_old: дaрій же ми1дzнинъ пріS цaрство, сы1й шести1десzти и3 двою2 лётъ.
+      sovr_rbo: Царем стал Дарий Мидийский, и было ему тогда шестьдесят два года.
+      latin: Et Darius Medus successit in regnum, annos natus sexaginta duos.
+      ukr: А мідянин Дарій одержав царство в віці шостидесяти й двох років.
+      nkjv: And Darius the Mede received the kingdom, being about sixty-two years old.
+      desnitsky: ""
+      francais: Et Darius, le Mède, s'empara du royaume, étant âgé de soixante-deux ans.
+      italian: Dario il Medo ricevette il regno, all'età di circa sessantadue anni.
+      old_georgian: და დარიოს მიდმან მიიღო მეფობა, მყოფმან წელთა სამეოცდაორთად.
+      portuguese: E Dario, o medo, recebeu o reino, tendo cerca de sessenta e dois
+        anos de idade.
+      turkish: Altmış iki yaşında olan Medli Darius krallığı eline geçirdi.
+      nrt: и Дарий Мидянин принял царство в возрасте шестидесяти двух лет.
+      bulgarian: и Дарий Мидянин превзе царството, бидейки на шейсет и две години.
+      deutsch: "[6:1 Und Darius aus Medien nahm das Reich ein, da er zweiundsechzig
+        Jahre alt war."
+      ukr3: А Дарій Мидій обняв царство, коли йому було шістьдесять два роки.
+      bel_syomukha: і Дарый Мідзянін, якому было шэсьцьдзясят два гады, прыняў царства.
+      Olesn: а Дарий мидянин принял царство, имея шестьдесят два года.
+      spanish: y Darío, rey de Media, se apoderó del reino a los sesenta y dos años.
+      greek-lxx: καὶ Ἀρταξέρξης ὁ τῶν Μήδων παρέλαβε τὴν βασιλείαν καὶ Δαρεῖος πλήρης
+        τῶν ἡμερῶν καὶ ἔνδοξος ἐν γήρει
+      greek-theodotion: καὶ Δαρεῖος ὁ Μῆδος παρέλαβεν τὴν βασιλείαν ὢν ἐτῶν ἑξήκοντα δύο
+      st_text: и Дарий Мидянин принял царство, будучи шестидесяти двух лет.

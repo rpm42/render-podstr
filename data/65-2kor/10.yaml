@@ -1,0 +1,1383 @@
+id: 1293
+number: 10
+bookId: 65
+verseCount: 18
+title: Глава 10
+verses:
+  - id: 5028
+    number: 1
+    bookId: 65
+    text: Я же, Павел, который лично между вами скромен, а заочно против вас
+      отважен, убеждаю вас кротостью и снисхождением Христовым.
+    chapter: 10
+    chapterId: 1293
+    parallels:
+      - verseId: 32961
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 15
+        short: Рим:15:20
+      - verseId: 1316
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 1
+        short: 1 Кор:1:31
+      - verseId: 5051
+        bookId: 65
+        bookCode: 2oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 11
+        short: 2 Кор:11:6
+      - verseId: 14088
+        bookId: 67
+        bookCode: k-efesanam-poslanie-ap-pavla
+        chapter: 4
+        short: Еф:4:7
+    translates:
+      kassian: Но сам я, Павел, призываю вас кротостью и снисхождением Христовым, я
+        скромный, мол, с вами лицом к лицу и храбрый в отсутствии, -
+      podstr: Сам же я Павел прошу вас через кротость и снисходительность Христа,
+        который [я] по лицу ведь смиренный у вас, отсутствующий же имею мужество
+        на вас;
+      csya: Сам же аз павел молю вы кротостию и тихостию Христовою, иже в лице убо
+        смирен в вас, не сый же у вас дерзаю в вас.
+      averincev: ""
+      ungerov: ""
+      csya_old: Сaмъ же ѓзъ пavелъ молю1 вы кро1тостію и3 ти1хостію хrто1вою, и4же въ
+        лице2 ќбw смире1нъ въ вaсъ, не сы1й же ў вaсъ дерзaю въ вaсъ.
+      sovr_rbo: ""
+      latin: Ipse autem ego Paulus obsecro vos per mansuetudinem et modestiam Christi,
+        qui in facie quidem humilis sum inter vos, absens autem confido in vos.
+      ukr: А я сам, Павло, благаю вас лагідністю й ласкавістю Христовою; я, коли
+        присутній слухняний між вами, а не бувши між вами сміливий я супроти
+        вас.
+      nkjv: Now I, Paul, myself am pleading with you by the meekness and gentleness of
+        Christ-who in presence am lowly among you, but being absent am bold
+        toward you.
+      desnitsky: "Сам я, Павел, обращаюсь к вам с Христовой кротостью и умеренностью:
+        когда я у вас, то скромен, а издалека так резок!"
+      tex_rec: Αὐτὸς δὲ ἐγὼ Παῦλος παρακαλῶ ὑμᾶς διὰ τῆς πρᾳότητος καὶ ἐπιεικείας τοῦ
+        Χριστοῦ, ὃς κατὰ πρόσωπον μὲν ταπεινὸς ἐν ὑμῖν, ἀπὼν δὲ θαρρῶ εἰς ὑμᾶς·
+      deutsch: Ich aber, Paulus, ermahne euch durch die Sanftmütigkeit und Lindigkeit
+        Christi, der ich gegenwärtig unter euch gering bin, abwesend aber dreist
+        gegen euch.
+      spanish: Yo, pues, el mismo Pablo, que presente soy humilde entre vosotros, pero
+        ausente soy resuelto con vosotros,
+      peshitta: ܐܶܢܳܐ ܕ݁ܶܝܢ ܦ݁ܰܘܠܳܘܣ ܒ݁ܳܥܶܐ ܐ݈ܢܳܐ ܡܶܢܟ݂ܽܘܢ ܒ݁ܢܺܝܚܽܘܬ݂ܶܗ
+        ܘܰܒ݂ܡܰܟ݁ܺܝܟ݂ܽܘܬ݂ܶܗ ܕ݁ܰܡܫܺܝܚܳܐ ܕ݁ܳܐܦ݂ܶܢ ܒ݁ܰܐܦ݁ܺܝܢ ܡܰܟ݁ܺܝܟ݂ ܐ݈ܢܳܐ
+        ܠܘܳܬ݂ܟ݂ܽܘܢ ܐܶܠܳܐ ܟ݁ܰܕ݂ ܪܰܚܺܝܩ ܐ݈ܢܳܐ ܬ݁ܟ݂ܺܝܠ ܐ݈ܢܳܐ ܥܠܰܝܟ݁ܽܘܢ܂
+      bel_syomukha: А сам я, Павал, асабіста сьціплы сярод вас, а здалёку супроць вас
+        адважны, пераконваю вас лагодаю і мілажальнасьцю Хрыстовай.
+      nrt: Я, Павел, который всегда так «робок», когда нахожусь у вас, и так «смел»
+        вдали от вас, обращаюсь сейчас к вам в кротости и смирении Христа.
+      romana: Insumi eu, Pavel, va indemn prin blandetea si ingaduinta lui Hristos -
+        eu care de fata sunt smerit intre voi, dar, in lipsa, indraznesc fata de
+        voi S
+      francais: Moi Paul, je vous prie, par la douceur et la bonté de Christ, -moi,
+        humble d'apparence quand je suis au milieu de vous, et plein de
+        hardiesse à votre égard quand je suis éloigné, -
+      italian: Ora io stesso, Paolo, vi esorto per la dolcezza e la mansuetudine di
+        Cristo, io davanti a voi così meschino, ma di lontano così animoso con
+        voi;
+      old_georgian: მე, თავადი პავლე, გლოცავ თქუენ სიმშჳდითა მით და სახიერებითა
+        ქრისტესითა, რომელი-ესე პირისპირ მდაბალ თქუენ შორის, ხოლო შორით ვიკადრებ
+        თქუენდა მიმართ.
+      portuguese: "Ora eu mesmo, Paulo, vos rogo pela mansidão e benignidade de
+        Cristo, eu que, na verdade, quando presente\rentre vós, sou humilde, mas
+        quando ausente, ousado para convosco;"
+      polish: "Zresztą ja sam, Paweł, upominam was przez cichość i łagodność
+        Chrystusa,\rja, który będąc między wami, uchodzę w oczach waszych za
+        pokornego a z\rdaleka od was jestem dla was zbyt surowy,"
+      new_text: Я, Павел, тот самый человек, который лицом к лицу с вами так робок, а
+        вдали так смел и решителен, обращаюсь к вам.
+      serbian: А сам ја, Павле, молим вас ради кротости и благости Христове, ја који
+        сам понизан када сам код вас, а одважан према вама када сам одсутан;
+      bulgarian: Сам аз, Павел, смирен, кога съм лично помежду ви, а смел спрямо вас,
+        кога съм далеч, убеждавам ви с Христова кротост и благост.
+      ukr2: Я ж сам, Павло, особисто благаю вас лагідністю і ласкавістю Христа, - я,
+        коли присутній між вами, - покірний, а коли від вас далеко, сміливий
+        супроти вас.
+      ukr3: Сам же я Павел благаю вас лагідностю і тихостю Христовою, а що в вічі
+        смиренний між вами, а, не будучи між вами, сьміливий проти вас;
+      czech: Ja, Pavel, vas napominam tise a mirne po zpusobu Kristove – ja, ktery
+        tvari v tvar jsem pry mezi vami pokorny, ale z dalky si na vas troufam.
+      st_text: Я же, Павел, который лично между вами скромен, а заочно против вас
+        отважен, убеждаю вас кротостью и снисхождением Христовым.
+  - id: 5029
+    number: 2
+    bookId: 65
+    text: Прошу, чтобы мне по пришествии моем не прибегать к той твердой смелости,
+      которую думаю употребить против некоторых, помышляющих о нас, что мы
+      поступаем по плоти.
+    chapter: 10
+    chapterId: 1293
+    parallels:
+      - verseId: 5128
+        bookId: 65
+        bookCode: 2oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 2
+        short: 2 Кор:2:17
+      - verseId: 5100
+        bookId: 65
+        bookCode: 2oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 13
+        short: 2 Кор:13:2
+    translates:
+      kassian: прошу, чтобы мне, присутствуя, не проявить храбрости с той
+        решительностью, с какой я думаю показать свою смелость некоторым,
+        думающим о нас, будто мы поступаем по плоти.
+      podstr: молю же не присутствующий [чтобы] обрести мужество убеждённостью которой
+        считаю осмелиться на некоторых считающих нас как по плоти ходящих.
+      csya: Молю же, да не присущ дерзаю надеянием, имже помышляю смети на некия
+        непщующыя нас яко по плоти ходящих.
+      averincev: ""
+      ungerov: ""
+      csya_old: Молю1 же, да не присyщь дерзaю надёzніемъ, и4мже помышлsю смёти на
+        нBкіz непщyющыz нaсъ ћкw по пло1ти ходsщихъ.
+      sovr_rbo: ""
+      latin: Rogo autem vos ne praesens audeam per eam confidentiam, qua existimor
+        audere in quosdam, qui arbitrantur nos tamquam secundum carnem
+        ambulemus.
+      ukr: І благаю, щоб я, прибувши, не осмілився надією, що нею я думаю сміливим
+        бути проти деяких, що про нас вони гадають, ніби ми поступаєм за тілом.
+      nkjv: But I beg you that when I am present I may not be bold with that
+        confidence by which I intend to be bold against some, who think of us as
+        if we walked according to the flesh.
+      desnitsky: Прошу вас, не заставляйте меня быть резким, когда приду к вам – а
+        ведь я решился обойтись сурово с теми, кто счел, будто мы поступаем по
+        законам плоти.
+      tex_rec: δέομαι δὲ τὸ μὴ παρὼν θαρρῆσαι τῇ πεποιθήσει ἢ λογίζομαι τολμῆσαι ἐπί
+        τινας τοὺς λογιζομένους ἡμᾶς ὡς κατὰ σάρκα περιπατοῦντας.
+      deutsch: Ich bitte aber, daß mir nicht not sei, gegenwärtig dreist zu handeln
+        und der Kühnheit zu brauchen, die man mir zumißt, gegen etliche, die uns
+        schätzen, als wandelten wir fleischlicherweise.
+      spanish: os ruego por la mansedumbre y la bondad de Cristo que cuando esté
+        presente no tenga que atreverme con la energía con que pienso
+        resueltamente obrar con algunos que nos tienen como si procediésemos
+        según la carne.
+      peshitta: ܒ݁ܳܥܶܐ ܐ݈ܢܳܐ ܕ݁ܶܝܢ ܡܶܢܟ݂ܽܘܢ ܕ݁ܠܳܐ ܡܳܐ ܕ݁ܶܐܬ݂ܺܝܬ݂ ܐܶܬ݂ܶܐܠܶܨ
+        ܒ݁ܬ݂ܽܘܟ݂ܠܳܢܳܐ ܕ݁ܺܐܝܬ݂ ܠܺܝ ܕ݁ܰܐܫܺܝܚ ܐܰܝܟ݂ ܕ݁ܡܶܬ݂ܪܰܥܶܐ ܐ݈ܢܳܐ ܥܰܠ ܐ݈ܢܳܫܳܐ
+        ܐܰܝܠܶܝܢ ܕ݁ܚܳܫܒ݁ܺܝܢ ܠܰܢ ܕ݁ܰܐܝܟ݂ ܕ݁ܒ݂ܰܒ݂ܣܰܪ ܡܗܰܠܟ݂ܺܝܢܰܢ܂
+      bel_syomukha: Прашу вас, каб, калі прыйду да вас, не давялося мне адважна
+        ўжываць тую цьвёрдую адвагу, якую думаю ўжыць супроць некаторых, якія
+        думаюць пра нас, быццам мы ўчыняем па плоці.
+      nrt: Прошу вас, не вынуждайте меня, когда я буду у вас, быть смелым и строгим по
+        отношению к тем, кто считает, что мы совершаем служение из-за каких-то
+        человеческих соображений.
+      romana: Va rog, dar, sa nu ma siliti, cand voi fi de fata, sa indraznesc cu
+        increderea cu care gandesc ca voi indrazni impotriva unora care ne
+        socotesc ca umblam dupa trup.
+      francais: je vous prie, lorsque je serai présent, de ne pas me forcer à recourir
+        avec assurance à cette hardiesse, dont je me propose d'user contre
+        quelques-uns qui nous regardent comme marchant selon la chair.
+      italian: vi supplico di far in modo che non avvenga che io debba mostrare,
+        quando sarò tra voi, quell'energia che ritengo di dover adoperare contro
+        alcuni che pensano che noi camminiamo secondo la carne.
+      old_georgian: ხოლო გლოცავ, რაჲთა არა პირისპირ ვიკადრო სასოებით, გინა
+        შე-რაჲმე-ვჰრაცხო კადრებად ვიეთმე ზედა, რომელთა ვჰგონიეთ ჩუენ, ვითარცა
+        ჴორციელად მავალნი.
+      portuguese: "sim, eu vos rogo que, quando estiver presente, não me veja obrigado
+        a usar, com confiança, da ousadia que\respero ter para com alguns que
+        nos julgam como se andássemos segundo a carne."
+      polish: "ja was proszę: żebym nie musiał odwołać się do tej surowości, na jaką
+        zamierzam się zdobyć względem tych, co sądzą, że postępujemy według
+        ciała."
+      new_text: Ради Христовой кротости и доброты, умоляю вас, не вынуждайте меня,
+        когда приду к вам, быть таким же смелым и решительным, каким я, конечно
+        же, могу быть с теми, кто считает, что мы действуем, руководствуясь
+        только земными соображениями.
+      serbian: Молим, пак, кад будем код вас, да ми не буде потребе да будем онако
+        слободан као што мислим да смијем против неких који мисле за нас да по
+        тијелу живимо.
+      bulgarian: Моля не ме заставяйте и кога съм при вас да прибягна към оная твърда
+        смелост, що смятам да употребя против някои, които мислят, че ние
+        постъпваме по плът.
+      ukr2: Прошу ж вас, щоб коли до вас прийду, не довелося мені сміливо вживати тієї
+        певности, яку думаю відважно показати супроти деяких, що собі уявляють,
+        начебто ми руководилися чисто тілесними спонуками.
+      ukr3: благаю ж, щоб, бувши між вами, не бути сьміливим з тією певнотою, якою
+        думаю осьмілитись проти деяких, що думають про нас, нїби ми ходимо по
+        тїлу.
+      czech: Prosim vas, nenutte mne, az prijdu, jednat s tou troufalosti, na kterou
+        mam podle sveho presvedceni pravo, a to vuci tem, kteri nam pripisuji
+        zamery jen lidske.
+      st_text: Прошу, чтобы мне по пришествии моем не прибегать к той твердой
+        смелости, которую думаю употребить против некоторых, помышляющих о нас,
+        что мы поступаем по плоти.
+  - id: 5030
+    number: 3
+    bookId: 65
+    text: Ибо мы, ходя во плоти, не по плоти воинствуем.
+    chapter: 10
+    chapterId: 1293
+    parallels:
+      - verseId: 3711
+        bookId: 72
+        bookCode: 1oe-poslanie-k-timofeu-ap-pavla
+        chapter: 1
+        short: 1 Тим:1:18
+    translates:
+      kassian: Ибо, поступая по плоти, мы не по плоти воинствуем;
+      podstr: В плоти ведь ходящие не по плоти воюем,
+      csya: "Во плоти бо ходяще, не по плоти воинствуем:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Во пло1ти бо ходsще, не по пло1ти во1инствуемъ:"
+      sovr_rbo: ""
+      latin: In carne enim ambulantes, non secundum carnem militamus.
+      ukr: Бо ходячи в тілі, не за тілом воюємо ми,
+      nkjv: For though we walk in the flesh, we do not war according to the flesh.
+      desnitsky: Хоть и живем во плоти, но не по ее законам сражаемся,
+      tex_rec: ᾿Εν σαρκὶ γὰρ περιπατοῦντες οὐ κατὰ σάρκα στρατευόμεθα·
+      deutsch: Denn ob wir wohl im Fleisch wandeln, so streiten wir doch nicht
+        fleischlicherweise.
+      spanish: Pues aunque vivimos en la carne, no militamos según la carne;
+      peshitta: ܐܳܦ݂ܶܢ ܒ݁ܰܒ݂ܣܰܪ ܓ݁ܶܝܪ ܡܗܰܠܟ݂ܺܝܢ ܚ݈ܢܰܢ ܐܶܠܳܐ ܠܳܐ ܗ݈ܘܳܐ ܕ݁ܒ݂ܶܣܪܳܐ
+        ܦ݁ܳܠܚܺܝܢܰܢ܂
+      bel_syomukha: Бо мы, ходзячы ў плоці, не па плоці змагаемся.
+      nrt: Хотя мы и живем в этом мире, мы не воюем так, как этот мир воюет.
+      romana: Pentru ca, desi umblam in trup, nu ne luptam trupeste.
+      francais: Si nous marchons dans la chair, nous ne combattons pas selon la chair.
+      italian: In realtà, noi viviamo nella carne ma non militiamo secondo la carne.
+        Infatti le armi della nostra battaglia non sono carnali,
+      old_georgian: რამეთუ ჴორციელად თუ ვიქცევით, არამედ არა ჴორციელად განწესებულ ვართ.
+      portuguese: Porque, embora andando na carne, não militamos segundo a carne,
+      polish: Chociaż bowiem w ciele pozostajemy, nie prowadzimy walki według ciała,
+      new_text: Хотя мы и живем в этом мире, но воюем не так, как в этом мире принято.
+      serbian: Јер живећи у тијелу, не војујемо по тијелу;
+      bulgarian: Защото, ако и да ходим в плът, не плътски воюваме.
+      ukr2: Ми живемо як люди, але не воюємо із спонук тілесних,
+      ukr3: "Бо ходячи в тїлї, не по тїлу воюємо:"
+      czech: Jsme ovsem jenom lide, ale svuj zapas nevedeme po lidsku.
+      st_text: Ибо мы, ходя во плоти, не по плоти воинствуем.
+  - id: 5031
+    number: 4
+    bookId: 65
+    text: "Оружия воинствования нашего не плотские, но сильные Богом на разрушение
+      твердынь: <i>ими</i> ниспровергаем замыслы"
+    chapter: 10
+    chapterId: 1293
+    parallels:
+      - verseId: 28637
+        bookId: 25
+        bookCode: pesn-pesnej-solomona
+        chapter: 6
+        short: Песн:6:4
+      - verseId: 15258
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 1
+        short: Иер:1:10
+      - verseId: 31179
+        bookId: 22
+        bookCode: psaltir
+        chapter: 149
+        short: Пс:149:6
+      - verseId: 5192
+        bookId: 65
+        bookCode: 2oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 6
+        short: 2 Кор:6:7
+      - verseId: 14159
+        bookId: 67
+        bookCode: k-efesanam-poslanie-ap-pavla
+        chapter: 6
+        short: Еф:6:13
+      - verseId: 6728
+        bookId: 73
+        bookCode: 2oe-poslanie-k-timofeu-ap-pavla
+        chapter: 2
+        short: 2 Тим:2:1
+      - verseId: 14755
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 4
+        short: Евр:4:12
+    translates:
+      kassian: ибо оружия нашего воинствования не плотские, но сильные у Бога на
+        разрушение твердынь; мы сокрушаем умствования
+      podstr: ведь оружие войны нашей не плотское но сильное Бога к разрушению
+        укреплений, расчёты разрушающие
+      csya: "оружия бо воинства нашего не плотская, но сильна Богом на разорение
+        твердем: помышления низлагающе,"
+      averincev: ""
+      ungerov: ""
+      csya_old: "nр{жіz бо во1инства нaшегw не плотск†z, но си6льна бг7омъ на
+        разоре1ніе тве1рдємъ: помышлє1ніz низлагaюще,"
+      sovr_rbo: ""
+      latin: Nam arma militiae nostrae non carnalia sunt, sed potentia Deo ad
+        destructionem munitionum, consilia destruentes,
+      ukr: зброя бо нашого воювання не тілесна, але міцна Богом на зруйнування
+        твердинь, ми руйнуємо задуми,
+      nkjv: For the weapons of our warfare are not carnal but mighty in God for
+        pulling down strongholds,
+      desnitsky: и оружие, с которым мы вступаем в сражение, не плотское – оно Божье и
+        способно рушить твердыни. Мы опрокидываем низвергаем умственные
+        построения
+      tex_rec: τὰ γὰρ ὅπλα τῆς στρατείας ἡμῶν οὐ σαρκικά, ἀλλὰ δυνατὰ τῷ Θεῷ πρὸς
+        καθαίρεσιν ὀχυρωμάτων· -
+      deutsch: Denn die Waffen unsrer Ritterschaft sind nicht fleischlich, sondern
+        mächtig vor Gott, zu zerstören Befestigungen;
+      spanish: porque las armas de nuestra milicia no son carnales, sino poderosas por
+        Dios para derribar fortalezas, destruyendo consejos,
+      peshitta: ܙܰܝܢܳܐ ܓ݁ܶܝܪ ܕ݁ܦ݂ܳܠܚܽܘܬ݂ܰܢ ܠܳܐ ܗ݈ܘܳܐ ܕ݁ܒ݂ܶܣܪܳܐ ܐܶܠܳܐ ܕ݁ܚܰܝܠܳܐ
+        ܕ݁ܰܐܠܳܗܳܐ ܘܒ݂ܶܗ ܟ݁ܳܒ݂ܫܺܝܢܰܢ ܚܶܣܢܶܐ ܡܪܺܝܕ݂ܶܐ܂
+      bel_syomukha: "Зброя нашага змаганьня ня плоцкая, а моцная Богам на руйнаваньне
+        цьвярдыняў: імі мы абвяргаем намыслы"
+      nrt: Мы сражаемся не обычным оружием, но оружием Бога, которое способно
+        разрушить самые неприступные духовные твердыни. Мы опровергаем доводы
+      romana: Caci armele luptei noastre nu sunt trupesti, ci puternice inaintea lui
+        Dumnezeu, spre daramarea intariturilor. Noi surpam iscodirile mintii,
+      francais: Car les armes avec lesquelles nous combattons ne sont pas charnelles;
+        mais elles sont puissantes, par la vertu de Dieu, pour renverser des
+        forteresses.
+      italian: ma hanno da Dio la potenza di abbattere le fortezze,
+      old_georgian: რამეთუ საჭურველი ჩუენისა მის მჴედრობისაჲ - არა ჴორციელ არს, არამედ
+        ძლიერ ღმრთისა მიერ დასარღუეველად ძნელოვანთა, გულის სიტყუათა დავარღუევთ
+      portuguese: pois as armas da nossa milícia não são carnais, mas poderosas em
+        Deus, para demolição de fortalezas;
+      polish: "gdyż oręż bojowania naszego nie jest z ciała, lecz posiada moc
+        burzenia, dla\rBoga twierdz warownych. Udaremniamy ukryte knowania"
+      new_text: В нашей битве мы сражаемся не обычным оружием, а оружием Божественной
+        мощи — оно сокрушает твердыни.
+      serbian: Јер оружје нашега војевања није тјелесно него силно Богом за рушење
+        утврђења, обарајући помисли
+      bulgarian: "Оръжията на нашето воюване не са плътски, но с помощта Божия са
+        силни да разрушават твърдини: с тях ние унищожаваме замисли,"
+      ukr2: бо зброя нашої боротьби не тілесна, а сильна в Бозі на зруйнування
+        твердинь; ми руйнуємо задуми
+      ukr3: (бо зброя воювання нашого не тїлесна, а сильна Богом на зруйнованнє
+        твердинь,)
+      czech: Zbrane naseho boje nejsou svetske, nybrz maji od Boha silu borit hradby.
+        Jimi borime lidske vymysly
+      st_text: "Оружия воинствования нашего не плотские, но сильные Богом на
+        разрушение твердынь: <i>ими</i> ниспровергаем замыслы"
+  - id: 5032
+    number: 5
+    bookId: 65
+    text: и всякое превозношение, восстающее против познания Божия, и пленяем всякое
+      помышление в послушание Христу,
+    chapter: 10
+    chapterId: 1293
+    parallels:
+      - verseId: 11756
+        bookId: 4
+        bookCode: cisla
+        chapter: 24
+        short: Чис:24:19
+      - verseId: 32796
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 1
+        short: Рим:1:5
+      - verseId: 1304
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 1
+        short: 1 Кор:1:19
+      - verseId: 1312
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 1
+        short: 1 Кор:1:27
+      - verseId: 1584
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 3
+        short: 1 Кор:3:19
+    translates:
+      kassian: и всякое превозношение, восстающее против познания Божия, и пленяем
+        всякое помышление в послушание Христу,
+      podstr: и всякую высоту поднимающуюся против знания Бога, и пленяющие всякую
+        мысль в послушание Христа,
+      csya: и всяко возношение взимающееся на разум Божий, и пленяюще всяк разум в
+        послушание Христово,
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 всsко возноше1ніе взимaющеесz на рaзумъ б9ій, и3 плэнsюще всsкъ
+        рaзумъ въ послушaніе хrто1во,
+      sovr_rbo: ""
+      latin: et omnem altitudinem extollentem se adversus scientiam Dei, et in
+        captivitatem redigentes omnem intellectum in obsequium Christi,
+      ukr: і всяке винесення, що підіймається проти пізнання Бога, і полонимо всяке
+        знання на послух Христові,
+      nkjv: casting down arguments and every high thing that exalts itself against the
+        knowledge of God, bringing every thought into captivity to the obedience
+        of Christ,
+      desnitsky: и рушим высокие стены, которые стоят на пути к познанию Бога, мы
+        берем в плен сознание всякого человека, покоряя его Христу,
+      tex_rec: λογισμοὺς καθαιροῦντες καὶ πᾶν ὕψωμα ἐπαιρόμενον κατὰ τῆς γνώσεως τοῦ
+        Θεοῦ, καὶ αἰχμαλωτίζοντες πᾶν νόημα εἰς τὴν ὑπακοὴν τοῦ Χριστοῦ,
+      deutsch: wir zerstören damit die Anschläge und alle Höhe, die sich erhebt wider
+        die Erkenntnis Gottes, und nehmen gefangen alle Vernunft unter den
+        Gehorsam Christi
+      spanish: y toda altanería que se levante contra la ciencia de Dios y doblegando
+        todo pensamiento a la obediencia de Cristo,
+      peshitta: ܘܣܳܬ݂ܪܺܝܢܰܢ ܡܰܚܫܒ݂ܳܬ݂ܳܐ ܘܟ݂ܽܠ ܪܰܘܡܳܐ ܕ݁ܡܶܬ݁ܬ݁ܪܺܝܡ ܠܽܘܩܒ݂ܰܠ ܝܺܕ݂ܰܥܬ݂ܶܗ
+        ܕ݁ܰܐܠܳܗܳܐ ܘܫܳܒ݂ܶܝܢܰܢ ܟ݁ܽܠ ܬ݁ܰܪܥܝܳܢ ܠܡܰܫܡܰܥܬ݂ܶܗ ܕ݁ܰܡܫܺܝܚܳܐ܂
+      bel_syomukha: і ўсякую ганарлівасьць, што паўстае супроць пазнаньня Божага, і
+        палонім усякія задумы на паслушнасьць Хрысту;
+      nrt: и опрокидываем все надменно воздвигаемые препятствия против познания Бога.
+        Мы берем в плен каждую мысль, чтобы сделать ее послушной Христу.
+      romana: Si toata trufia care se ridica impotriva cunoasterii lui Dumnezeu si tot
+        gandul il robim, spre ascultarea lui Hristos,
+      francais: Nous renversons les raisonnements et toute hauteur qui s'élève contre
+        la connaissance de Dieu, et nous amenons toute pensée captive à
+        l'obéissance de Christ.
+      italian: distruggendo i ragionamenti e ogni baluardo che si leva contro la
+        conoscenza di Dio, e rendendo ogni intelligenza soggetta all'obbedienza
+        al Cristo.
+      old_georgian: და ყოველსა სიმაღლესა, ამაღლებულსა მეცნიერებასა ზედა ღმრთისასა, და
+        წარმოვსტყუენავთ ყოველსავე ცნობასა მორჩილებად ქრისტესა,
+      portuguese: "derribando raciocínios e todo baluarte que se ergue contra o
+        conhecimento de Deus, e levando cativo todo\rpensamento à obediência a
+        Cristo;"
+      polish: "i wszelką wyniosłość przeciwną poznaniu Boga i wszelki umysł poddajemy
+        w\rposłuszeństwo Chrystusowi"
+      new_text: Мы сокрушаем хитросплетения ума и высокомерие, восстающие против
+        познания Бога, и берем в плен всякие помышления, покоряя их Христу.
+      serbian: И сваку охолост која устаје против познања Божијега, и покоравајући
+        сваку помисао на послушност Христу,
+      bulgarian: и всяко превъзнасяне, що въстава срещу познанието Божие, и пленяваме
+        всеки разум, за да бъде покорен на Христа,
+      ukr2: і всяку гордість, що повстає проти спізнання Бога, і беремо в полон усякий
+        розум на послух Христові;
+      ukr3: руйнуючи видумки і всяку висоту, що встає проти знання Божого, і займаючи
+        в полонь усякий розум на послух Христу,
+      czech: a vsecko, co se v pyse pozveda proti poznani Boha. Uvadime do poddanstvi
+        kazdou mysl, aby byla poslusna Krista,
+      st_text: и всякое превозношение, восстающее против познания Божия, и пленяем
+        всякое помышление в послушание Христу,
+  - id: 5033
+    number: 6
+    bookId: 65
+    text: и готовы наказать всякое непослушание, когда ваше послушание исполнится.
+    chapter: 10
+    chapterId: 1293
+    parallels: []
+    translates:
+      kassian: и готовы наказать всякое непослушание, когда исполнено будет ваше
+        послушание.
+      podstr: и в готовом имеющие наказать всякое ослушание, когда было исполнено ваше
+        послушание.
+      csya: и в готовости имуще отмстити всяко преслушание, егда исполнится ваше
+        послушание.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 въ гото1вости и3мyще tмсти1ти всsко преслушaніе, є3гдA и3спо1лнитсz
+        вaше послушaніе.
+      sovr_rbo: ""
+      latin: et in promptu habentes ulcisci omnem inobedientiam, cum impleta fuerit
+        vestra obedientia.
+      ukr: і покарати ми готові всякий непослух, коли здійсниться послух ваш.
+      nkjv: and being ready to punish all disobedience when your obedience is
+        fulfilled.
+      desnitsky: мы готовы покарать любое непокорство, когда покорность ваша станет
+        полной.
+      tex_rec: καὶ ἐν ἑτοίμῳ ἔχοντες ἐκδικῆσαι πᾶσαν παρακοήν, ὅταν πληρωθῇ ὑμῶν ἡ
+        ὑπακοή.
+      deutsch: und sind bereit, zu rächen allen Ungehorsam, wenn euer Gehorsam erfüllt
+        ist.
+      spanish: prontos a castigar toda desobediencia y a reduciros a perfecta
+        obediencia.
+      peshitta: ܘܰܡܛܰܝܒ݂ܺܝܢܰܢ ܠܡܶܥܒ݁ܰܕ݂ ܬ݁ܒ݂ܰܥܬ݂ܳܐ ܡܶܢ ܐܰܝܠܶܝܢ ܕ݁ܠܳܐ ܡܶܫܬ݁ܰܡܥܺܝܢ ܡܳܐ
+        ܕ݁ܶܐܬ݂ܡܰܠܝܰܬ݂ ܡܶܫܬ݁ܰܡܥܳܢܽܘܬ݂ܟ݂ܽܘܢ܂
+      bel_syomukha: і гатовыя пакараць любую непаслушнасьць, калі вашая паслушнасьць
+        зьдзейсьніцца.
+      nrt: Мы готовы наказать всякое непослушание, как только ваше послушание станет
+        совершенным.
+      romana: Si gata suntem sa pedepsim toata neascultarea, atunci cand supunerea
+        voastra va fi deplina.
+      francais: Nous sommes prêts aussi à punir toute désobéissance, lorsque votre
+        obéissance sera complète.
+      italian: Perciò siamo pronti a punire qualsiasi disobbedienza, non appena la
+        vostra obbedienza sarà perfetta.
+      old_georgian: და განმზადებულად გუაქუს შურის-გებად ყოვლისა ურჩებისა, რაჟამს
+        აღესრულოს თქუენი ეგე მორჩილებაჲ.
+      portuguese: e estando prontos para vingar toda desobediência, quando for
+        cumprida a vossa obediência.
+      polish: z gotowością ukarania każdego nieposłuszeństwa, kiedy już wasze
+        posłuszeństwo stanie się doskonałe.
+      new_text: И когда ваша покорность Христу станет совершенной, мы будем стоять
+        наготове, чтобы наказать любую непокорность.
+      serbian: Те смо готови казнити сваку непослушност када се испуни ваша послушност.
+      bulgarian: и готови сме да накажем всяка непослушност, когато вашето послушание
+        стане пълно.
+      ukr2: ми також готові покарати всякий непослух, як тільки ваш послух буде
+        звершений.
+      ukr3: і будучи на поготові помститись над усяким непослухом, як сповнить ся ваш
+        послух.
+      czech: a jsme pripraveni potrestat kazdou neposlusnost, dokud vase poslusnost
+        nebude uplna.
+      st_text: и готовы наказать всякое непослушание, когда ваше послушание исполнится.
+  - id: 5034
+    number: 7
+    bookId: 65
+    text: На личность ли смотрите? Кто уверен в себе, что он Христов, тот сам по
+      себе суди, что, как он Христов, так и мы Христовы.
+    chapter: 10
+    chapterId: 1293
+    parallels:
+      - verseId: 18635
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 7
+        short: Ин:7:24
+    translates:
+      kassian: Смотрите на то, что перед вами. Если кто в себе уверен, что он Христов,
+        пусть опять-таки по самому себе судит, что как он - Христов, так и мы.
+      podstr: По лицу смотрите. Если кто-нибудь убеждён [в] себе самом Христовым быть,
+        это пусть считает опять по себе самому что как он Христа так и мы.
+      csya: Иже ли пред лицем, зрите? Аще кто надеется себе Христова быти, да
+        помышляет паки от себе, зане, якоже он Христов, такожде и мы Христовы.
+      averincev: ""
+      ungerov: ""
+      csya_old: Єже ли пред8 лице1мъ, зрите2; Ѓще кто2 надёетсz себе2 хrто1ва бы1ти,
+        да помышлsетъ пaки t себє2, зане2, ћкоже џнъ хrто1въ, тaкожде и3 мы2
+        хrтHвы.
+      sovr_rbo: ""
+      latin: "Quae secundum faciem sunt, videte. Si quis confidit sibi Christi se
+        esse, hoc cogitet iterum apud se: quia sicut ipse Christi est, ita et
+        nos."
+      ukr: Чи на обличчя ви дивитеся? Як хто певний про себе, що Христовий він, нехай
+        думає знов по собі, що як сам він Христовий, так само Христові й ми.
+      nkjv: "Do you look at things according to the outward appearance? If anyone is
+        convinced in himself that he is Christ's, let him again consider this in
+        himself, that just as he is Christ's, even so we are Christ's. "
+      desnitsky: "Вы смо́трите только на внешность. Кто-то убежден, что он ¬– на
+        стороне Христа? Пусть сам тогда поразмыслит: насколько он на стороне
+        Христа, настолько же и мы."
+      tex_rec: Τὰ κατὰ πρόσωπον βλέπετε! εἴ τις πέποιθεν ἑαυτῷ Χριστοῦ εἶναι, τοῦτο
+        λογιζέσθω πάλιν ἀφ᾿ ἑαυτοῦ, ὅτι καθὼς αὐτὸς Χριστοῦ, οὕτω καὶ ἡμεῖς
+        Χριστοῦ.
+      deutsch: Richtet ihr nach dem Ansehen? Verläßt sich jemand darauf, daß er
+        Christo angehöre, der denke solches auch wiederum bei sich, daß,
+        gleichwie er Christo angehöre, also auch wir Christo angehören.
+      spanish: Mirad sólo lo que a la vista tenéis. Si alguno confía en que es de
+        Cristo, piense también que como él lo es, así lo somos nosotros.
+      peshitta: ܒ݁ܦ݁ܰܪܨܽܘܦ݁ܶܐ ܚܳܝܪܺܝܢ ܐܢ݈ܬ݁ܽܘܢ ܐܶܢ ܐ݈ܢܳܫ ܬ݁ܟ݂ܺܝܠ ܥܰܠ ܢܰܦ݂ܫܶܗ
+        ܕ݁ܕ݂ܰܡܫܺܝܚܳܐ ܗܽܘ ܗܳܢܳܐ ܢܶܕ݁ܰܥ ܡܶܢ ܢܰܦ݂ܫܶܗ ܕ݁ܰܐܝܟ݂ ܕ݁ܗܽܘ ܕ݁ܰܡܫܺܝܚܳܐ
+        ܗܳܟ݂ܰܢܳܐ ܐܳܦ݂ ܚܢܰܢ܂
+      bel_syomukha: Ці на асобу зважаеце? Хто ўпэўнены ў сабе, што ён Хрыстовы, той
+        сам па сабе хай мяркуе, што, калі ён Хрыстовы, дык і мы Хрыстовыя.
+      nrt: Вы смотрите на вещи поверхностно. И тот, кто гордится своими особыми
+        взаимоотношениями с Христом, тот должен знать, что и мы принадлежим
+        Христу так же, как и он.
+      romana: "Judecati lucrurile asa cum se arata: daca cineva are incredere in sine
+        ca este al lui Hristos, sa gandeasca iarasi de la sine aceasta, ca
+        precum este el al lui Hristos, tot asa suntem si noi."
+      francais: Vous regardez à l'apparence! Si quelqu'un se persuade qu'il est de
+        Christ, qu'il se dise bien en lui-même que, comme il est de Christ, nous
+        aussi nous sommes de Christ.
+      italian: "Guardate le cose bene in faccia: se qualcuno ha in se stesso la
+        persuasione di appartenere a Cristo, si ricordi che se lui è di Cristo
+        lo siamo anche noi."
+      old_georgian: კაცად-კაცადისა პირსა ხედევდით. ვინ-იგი ესავს თავსა თჳსსა ქრისტესა
+        ყოფად, ესე განიზრახენ კუალად თავით თჳსით, რამეთუ ვითარცა იგი ქრისტესი
+        არს, ეგრეთცა ჩუენ ქრისტესნი.
+      portuguese: "Olhais para as coisas segundo a aparência. Se alguém confia de si
+        mesmo que é de Cristo, pense outra vez isto\rconsigo, que, assim como
+        ele é de Cristo, também nós o somos."
+      polish: "Zauważcie to, co [jest zresztą] oczywiste! Jeżeli ktoś jest przekonany,
+        że należy\rdo Chrystusa, niechże znów weźmie pod własną rozwagę i to, że
+        my również\rpodobnie jak on, jesteśmy Chrystusowi."
+      new_text: Так посмотрите же на то, что у вас перед глазами! Если кто-то убежден,
+        что он Христов, пусть подумает о том, что мы тоже не меньше его
+        Христовы.
+      serbian: Ви гледате по спољашности. Ако је ко увјерен у себе да је Христов, нека
+        опет помисли у себи да, као што је он Христов, тако смо и ми Христови.
+      bulgarian: На вънкашност ли гледате? Който е уверен в себе си, че е Христов,
+        нека пак от себе си съди, че, както той е Христов, тъй и ние сме
+        Христови.
+      ukr2: Ви дивитеся на зовнішній вигляд. Коли хтось певний, що він Христовий,
+        нехай розміркує ще раз у самім собі, що так, як він Христовий, так само
+        й ми.
+      ukr3: Хиба ви на лице дивитесь? Коли хто певен у собі, що він Христів, нехай
+        знов по собі думає так, що, як він Христів, так і ми Христові.
+      czech: Hledte na to, co mate pred ocima! Je-li si nekdo jist, ze je Kristuv,
+        necht si uvedomi, ze jako je on Kristuv, tak jsme i my!
+      st_text: На личность ли смотрите? Кто уверен в себе, что он Христов, тот сам по
+        себе суди, что, как он Христов, так и мы Христовы.
+  - id: 5035
+    number: 8
+    bookId: 65
+    text: Ибо если бы я и более стал хвалиться нашею властью, которую Господь дал
+      нам к созиданию, а не к расстройству вашему, то не остался бы в стыде.
+    chapter: 10
+    chapterId: 1293
+    parallels:
+      - verseId: 5108
+        bookId: 65
+        bookCode: 2oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 13
+        short: 2 Кор:13:10
+    translates:
+      kassian: Ибо если я и немного больше похвалюсь нашей властью, которую дал
+        Господь для созидания и не для разрушения вашего, я не буду посрамлён,
+      podstr: Если ведь большим чем-нибудь похвастаюсь о власти нашей, которую дал
+        Господь на построение и не на разрушение ваше, не буду пристыжён,
+      csya: Аще бо и лишше что похвалюся о власти нашей, юже даде нам Господь в
+        создание, а не на разорение ваше, не постыжуся.
+      averincev: ""
+      ungerov: ""
+      csya_old: Ѓще бо и3 ли1шше что2 похвалю1сz њ влaсти нaшей, ю4же даде2 нaмъ гDь
+        въ создaніе, ґ не на разоре1ніе вaше, не постыжyсz.
+      sovr_rbo: ""
+      latin: Nam etsi amplius aliquid gloriatus fuero de potestate nostra, quam dedit
+        nobis Dominus in aedificationem, et non in destructionem vestram, non
+        erubescam.
+      ukr: Бо коли б я ще більш став хвалитися нашою владою, яку дав нам Господь на
+        збудування, а не на зруйнування ваше, то не осоромлюсь.
+      nkjv: For even if I should boast somewhat more about our authority, which the
+        Lord gave us for edification and not for your destruction, I shall not
+        be ashamed -
+      desnitsky: Даже если я и слишком хвалюсь той властью, которую Господь дал нам
+        для созидания, а не для вашего разорения – не стыдно мне это делать.
+      tex_rec: ἐάν τε γὰρ καὶ περισσότερόν τι καυχήσωμαι περὶ τῆς ἐξουσίας ἡμῶν, ἧς
+        ἔδωκεν ὁ Κύριος ἡμῖν εἰς οἰκοδομὴν καὶ οὐκ εἰς καθαίρεσιν ὑμῶν, οὐκ
+        αἰσχυνθήσομαι,
+      deutsch: Und so ich auch etwas weiter mich rühmte von unsrer Gewalt, welche uns
+        der Herr gegeben hat, euch zu bessern, und nicht zu verderben, wollte
+        ich nicht zu Schanden werden.
+      spanish: Porque aunque con exceso me gloríe yo de la autoridad que me dio el
+        Señor para edificación y no para destrucción vuestra, no por eso me
+        avergonzaré.
+      peshitta: ܐܶܢ ܓ݁ܶܝܪ ܐܳܦ݂ ܡܶܕ݁ܶܡ ܝܰܬ݁ܺܝܪ ܐܶܫܬ݁ܰܒ݂ܗܰܪ ܥܰܠ ܫܽܘܠܛܳܢܳܐ ܕ݁ܝܰܗ݈ܒ݂ ܠܺܝ
+        ܡܳܪܰܢ ܠܳܐ ܒ݁ܳܗܶܬ݂ ܐ݈ܢܳܐ ܡܶܛܽܠ ܕ݁ܰܠܒ݂ܶܢܝܳܢܳܐ ܗܽܘ ܕ݁ܺܝܠܟ݂ܽܘܢ ܝܰܗ݈ܒ݂ ܠܰܢ
+        ܘܠܳܐ ܠܣܽܘܚܳܦ݂ܟ݂ܽܘܢ܂
+      bel_syomukha: Бо, калі б я пачаў занадта хваліцца нашай уладай, якую Гасподзь
+        даў нам на станаўленьне, а не на разладзьдзе нашае, дык я ня быў бы
+        пасаромлены.
+      nrt: Даже если бы я стал еще больше хвалиться той властью, которую Господь дал
+        нам для созидания, а не для разрушения, мне не пришлось бы стыдиться.
+      romana: Si chiar de ma voi lauda, ceva mai mult, cu puterea noastra, pe care
+        ne-a dat-o Domnul spre zidirea, iar nu spre daramarea voastra, nu ma voi
+        rusina,
+      francais: Et quand même je me glorifierais un peu trop de l'autorité que le
+        Seigneur nous a donnée pour votre édification et non pour votre
+        destruction, je ne saurais en avoir honte,
+      italian: In realtà, an — che se mi vantassi di più a causa della nostra
+        autorità, che il Signore ci ha dato per vostra edificazione e non per
+        vostra rovina, non avrò proprio da vergognarmene.
+      old_georgian: რამეთუ, უკუეთუ უმეტეს რაჲ ვიქადო ჴელმწიფებისა ამის ჩუენისა-თჳს,
+        რომელი მომცა ჩუენ უფალმან აღსაშენებელად და არა დასარღუეველად თქუენდა,
+        არა მრცხუენეს,
+      portuguese: "Pois, ainda que eu me glorie um tanto mais da nossa autoridade, a
+        qual o Senhor nos deu para edificação, e não\rpara vossa destruição, não
+        me envergonharei;"
+      polish: "Choćby mi bowiem wypadło jeszcze bardziej chlubić się z władzy jaką
+        nam\rdał Pan ku zbudowaniu, a nie ku zagładzie waszej, nie będę się
+        wstydził dlatego [rzekomo],"
+      new_text: Даже если я немножко хвастаюсь нашей властью, мне ничуть не стыдно,
+        потому что эту власть мне дал Господь — созидать вас, а не разрушать!
+      serbian: Јер ако бих се нешто више похвалио влашћу нашом коју нам даде Господ за
+        назидавање, а не за кварење ваше, нећу се постидјети,
+      bulgarian: Защото, ако би и нещо повече да се похваля с нашата власт, която ни
+        даде Господ за ваше съзидване, а не разстройване, няма да се посрамя.
+      ukr2: Бо якби я хвалився занадто нашою владою, що її нам Господь дав на
+        збудування, а не на руїну вашу, я б не соромився,
+      ukr3: Бо коли б я ще більш хвалив ся властю нашою, що дав нам Господь на
+        збудуваннє, а не на зруйнуваннє ваше, то не осоромив ся б.
+      czech: I kdyz se trochu vic pochlubim pravomoci, kterou mi Kristus dal – abych u
+        vas stavel, a ne boril – nebudu zahanben.
+      st_text: Ибо если бы я и более стал хвалиться нашею властью, которую Господь дал
+        нам к созиданию, а не к расстройству вашему, то не остался бы в стыде.
+  - id: 5036
+    number: 9
+    bookId: 65
+    text: Впрочем, да не покажется, что я устрашаю вас <i>только</i> посланиями.
+    chapter: 10
+    chapterId: 1293
+    parallels: []
+    translates:
+      kassian: чтобы не показалось, что будто я запугиваю вас посланиями.
+      podstr: чтобы не показался я как устрашающий вас через послания;
+      csya: Но да не явлюся, яко страшя вас посланьми.
+      averincev: ""
+      ungerov: ""
+      csya_old: (Но) да не kвлю1сz, ћкw страшS вaсъ послaньми.
+      sovr_rbo: ""
+      latin: "Ut autem non existimer tamquam terrere vos per epistolas:"
+      ukr: Та щоб не здавалось, ніби хочу лякати вас листами.
+      nkjv: lest I seem to terrify you by letters.
+      desnitsky: Впрочем, пусть вам не кажется, что я запугиваю вас письмами,
+      tex_rec: ἵνα μὴ δόξω ὡς ἂν ἐκφοβεῖν ὑμᾶς διὰ τῶν ἐπιστολῶν.
+      deutsch: Das sage ich aber, daß ihr nicht euch dünken lasset, als hätte ich euch
+        wollen schrecken mit Briefen.
+      spanish: Y que nadie crea que pretendo amedrentaros con las cartas.
+      peshitta: ܡܰܗܡܶܐ ܐ݈ܢܳܐ ܕ݁ܶܝܢ ܕ݁ܠܳܐ ܐܶܣܬ݁ܒ݂ܰܪ ܐܰܝܟ݂ ܗܰܘ ܕ݁ܰܡܕ݂ܰܚܳܠܽܘ ܡܕ݂ܰܚܶܠ
+        ܐ݈ܢܳܐ ܠܟ݂ܽܘܢ ܒ݁ܶܐܓ݁ܪܳܬ݂ܝ܂
+      bel_syomukha: Зрэшты, хай ня здасца, што я палохаю вас толькі пасланьнямі.
+      nrt: Пусть никто не думает, будто я только хочу запугать вас своими письмами.
+      romana: Ca sa nu par ca v-as infricosa prin scrisori.
+      francais: afin que je ne paraisse pas vouloir vous intimider par mes lettres.
+      italian: Non sembri che io vi voglia spaventare con le lettere!
+      old_georgian: ხოლო, რაჲთა არა საგონებელ ვიქმნა, ვითარმედ გაშინებ რასმე თქუენ
+        წიგნითა ამით.
+      portuguese: para que eu não pareça como se quisera intimidar-vos por cartas.
+      polish: iżby się nie wydało, że chcę was straszyć listami.
+      new_text: Пусть не думают обо мне, что я только запугиваю вас своими письмами.
+      serbian: Да се не покажем као да вас плашим посланицама.
+      bulgarian: Но, за да не помисли някой, че ви заплашвам с послания, -
+      ukr2: "- щоб не здавалося, що намагаюся листами вас налякати."
+      ukr3: (Та) щоб не здаватись, наче б лякав вас посланнями, -
+      czech: Nechtel bych vsak, aby se zdalo, ze vas chci svymi listy zastrasovat.
+      st_text: Впрочем, да не покажется, что я устрашаю вас <i>только</i> посланиями.
+  - id: 5037
+    number: 10
+    bookId: 65
+    text: "Так как <i>некто</i> говорит: в посланиях он строг и силен, а в личном
+      присутствии слаб, и речь <i>его</i> незначительна, -"
+    chapter: 10
+    chapterId: 1293
+    parallels:
+      - verseId: 5051
+        bookId: 65
+        bookCode: 2oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 11
+        short: 2 Кор:11:6
+    translates:
+      kassian: Потому что послания эти, говорят, вески и сильны, а в личном
+        присутствии он слаб и слово его ничтожно.
+      podstr: потому что, послания ведь, говорят, тяжелы и сильны, же присутствие тела
+        слабо и слово уничиженное.
+      csya: "Яко послания убо, рече, тяжка и крепка, а пришествие тела немощно, и
+        слово уничиженно:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Ћкw посл†ніz ќбw, рече2, т‰жка и3 крBпка, ґ прише1ствіе тёла
+        не1мощно, и3 сло1во ўничиже1нно:"
+      sovr_rbo: ""
+      latin: "quoniam quidem epistolae, inquiunt, graves sunt et fortes: praesentia
+        autem corporis infirma, et sermo contemptibilis:"
+      ukr: Бо листи його кажуть важкі та міцні, але особисто присутній слабий, а мова
+        його незначна,
+      nkjv: '"For his letters," they say, "are weighty and powerful, but his bodily
+        presence is weak, and his speech contemptible."'
+      desnitsky: "а то говорят: мол, письма его суровы и сильны, а когда приходит сам
+        – слаб, и слова его ничтожны."
+      tex_rec: ὅτι αἱ μὲν ἐπιστολαί, φησί, βαρεῖαι καὶ ἰσχυραί, ἡ δὲ παρουσία τοῦ
+        σώματος ἀσθενὴς καὶ ὁ λόγος ἐξουθενημένος.
+      deutsch: Denn die Briefe, sprechen sie, sind schwer und stark; aber die
+        Gegenwart des Leibes ist schwach und die Rede verächtlich.
+      spanish: Porque, hay quien dice que las cartas son duras y fuertes, pero la
+        presencia corporal es poca cosa, y la palabra, menospreciable.
+      peshitta: ܡܶܛܽܠ ܕ݁ܺܐܝܬ݂ ܐ݈ܢܳܫܳܐ ܕ݁ܳܐܡܪܺܝܢ ܕ݁ܶܐܓ݁ܪܳܬ݂ܳܐ ܝܰܩܺܝܪܳܢ ܘܚܰܣܺܝܢܳܢ
+        ܡܶܐܬ݂ܝܶܗ ܕ݁ܶܝܢ ܕ݁ܓ݂ܽܘܫܡܳܐ ܟ݁ܪܺܝܗ ܘܡܶܠܬ݂ܶܗ ܫܺܝܛܳܐ܂
+      bel_syomukha: 'Бо як нехта кажа: "у пасланьнях ён строгі і моцны, а ў асабістай
+        прысутнасьці слабы, і мова ягоная нязначная",'
+      nrt: Некоторые говорят, что в письмах-то я строг и силен, но когда я присутствую
+        лично, то я слаб, а мои слова слишком незначительны.
+      romana: Ca scrisorile lui, zic ei, sunt grele si tari, dar infatisarea trupului
+        este slaba si cuvantul lui este dispretuit.
+      francais: Car, dit-on, ses lettres sont sévères et fortes; mais, présent en
+        personne, il est faible, et sa parole est méprisable.
+      italian: Perché "le lettere — si dice — sono dure e forti, ma la sua presenza
+        fisica è debole e la parola dimessa".
+      old_georgian: "რამეთუ იტყჳს, ვითარმედ: წიგნები ესე რეცა მძიმე და ძლიერ, ხოლო
+        მოსლვაჲ ჴორცითა უძლურ, და სიტყუაჲ შეურაცხ."
+      portuguese: "Porque eles dizem: As cartas dele são graves e fortes, mas a sua
+        presença corporal é fraca, e a sua palavra\rdesprezível."
+      polish: "”Listy bowiem - jak utrzymują - są groźne i nieubłagane, lecz gdy się
+        zjawia\rosobiście, słaby jest, a jego mowa nic nie znaczy”."
+      new_text: "Кое-кто говорит: «Письма его впечатляют, в них напор и сила. А когда
+        появляется сам, выглядит таким слабым! И речь просто жалкая!»"
+      serbian: Јер су му посланице, вели, тешке и јаке, а кад је тијелом присутан слаб
+        је, и ријеч му је ништавна.
+      bulgarian: понеже в посланията си, каже, е строг и силен, но при личното си
+        присъствие слаб, и речта му нищо и никаква, -
+      ukr2: Листи його, мовляв, важкі та повні сили, але виглядом тіла він недолугий,
+        і мова його - жалюгідна.
+      ukr3: бо послання (його) скажуть, важкі і кріпкі, а присутність тїла немочна і
+        слово мизерне, -
+      czech: Rika se, ze me listy jsou zavazne a mocne, ale osobni pritomnost slaba a
+        rec uboha.
+      st_text: "Так как <i>некто</i> говорит: в посланиях он строг и силен, а в личном
+        присутствии слаб, и речь <i>его</i> незначительна, -"
+  - id: 5038
+    number: 11
+    bookId: 65
+    text: такой пусть знает, что, каковы мы на словах в посланиях заочно, таковы и
+      на деле лично.
+    chapter: 10
+    chapterId: 1293
+    parallels: []
+    translates:
+      kassian: Кто так думает, пусть знает, что каковы мы на словах в посланиях,
+        отсутствуя, - таковы мы и присутствуя, на деле.
+      podstr: Так пусть считает таковой, что каковы мы есть словом через послания
+        отсутствующие, таковы и присутствующие делом.
+      csya: сие да помышляет таковый, яко яцы же есмы словом посланий, отстояще,
+        таковии и ту суще есмы делом.
+      averincev: ""
+      ungerov: ""
+      csya_old: сіе2 да помышлsетъ таковы1й, ћкw ћцы же є3смы2 сло1вомъ послaній,
+        tстоsще, таковjи и3 тY сyще є3смы2 дёломъ.
+      sovr_rbo: ""
+      latin: hoc cogitet qui ejusmodi est, quia quales sumus verbo per epistolas
+        absentes, tales et praesentes in facto.
+      ukr: такий нехай знає оце, що які ми на слові в листах, неприсутніми бувши, такі
+        ми й на ділі, присутніми бувши.
+      nkjv: Let such a person consider this, that what we are in word by letters when
+        we are absent, such we will also be in deed when we are present.
+      desnitsky: "Пусть знает, кто так говорит: я и на деле окажусь таким же, каков я
+        в письмах, присланных издалека."
+      tex_rec: τοῦτο λογιζέσθω ὁ τοιοῦτος, ὅτι οἷοί ἐσμεν τῷ λόγῳ δι᾿ ἐπιστολῶν
+        ἀπόντες, τοιοῦτοι καὶ παρόντες τῷ ἔργῳ.
+      deutsch: Wer ein solcher ist, der denke, daß, wie wir sind mit Worten in den
+        Briefen abwesend, so werden wir auch wohl sein mit der Tat gegenwärtig.
+      spanish: Piense ese tal que cuales somos ausentes por las cartas, tales somos
+        presentes de obra.
+      peshitta: ܐܶܠܳܐ ܗܳܕ݂ܶܐ ܢܶܬ݂ܪܰܥܶܐ ܡܰܢ ܕ݁ܗܳܟ݂ܰܢܳܐ ܐܳܡܰܪ ܕ݁ܰܐܝܟ݁ܰܢܳܐ ܕ݁ܺܐܝܬ݂ܰܝܢ
+        ܒ݁ܡܶܠܬ݂ܳܐ ܕ݁ܶܐܓ݁ܰܪܬ݁ܰܢ ܟ݁ܰܕ݂ ܪܰܚܺܝܩܺܝܢܰܢ ܗܳܟ݂ܰܢܳܐ ܐܺܝܬ݂ܰܝܢ ܐܳܦ݂ ܡܳܐ
+        ܕ݁ܩܰܪܺܝܒ݂ܺܝܢܰܢ ܒ݁ܰܥܒ݂ܳܕ݂ܳܐ܂
+      bel_syomukha: дык няхай ведаюць, што, якія мы на словах у пасланьнях завочна,
+        такія і ў дзеі асабіста.
+      nrt: Пусть те, кто так говорит, знают, что каковы мы в письмах, таковы и на
+        деле, когда мы находимся среди вас.
+      romana: Cel ce vorbeste astfel sa-si dea seama ca asa cum suntem cu cuvantul
+        prin scrisori, cand nu suntem de fata, tot asa suntem si cu fapta, cand
+        suntem de fata.
+      francais: Que celui qui parle de la sorte considère que tels nous sommes en
+        paroles dans nos lettres, étant absents, tels aussi nous sommes dans nos
+        actes, étant présents.
+      italian: Questo tale rifletta però che quali noi siamo a parole per lettera,
+        assenti, tali saremo anche con i fatti, di presenza.
+      old_georgian: და ესე განიზრახე ეგევითარმან მან, რამეთუ ვითარცა-იგი ვართ სიტყჳთა
+        წიგნებისაჲთა შორით, ეგრეთცა მახლობელად საქმითა.
+      portuguese: "Considere o tal isto, que, quais somos no falar por cartas, estando
+        ausentes, tais seremos também no fazer,\restando presentes,"
+      polish: "Kto tak sądzi, niech sobie zapamięta, że jakimi jesteśmy w słowach
+        naszych\rlistów będąc poza wami, takimi też będziemy w czynie jako
+        obecni wśród\rwas."
+      new_text: "Пусть такой человек запомнит: какими мы выглядим в письмах, такими
+        предстанем перед вами и на деле!"
+      serbian: "Нека такав помисли ово: какви смо ријечју у посланицама када смо
+        одсутни, такви смо и дјелом кад смо присутни."
+      bulgarian: такъв нека знае, че каквито сме на думи в посланията си, кога
+        отсъствуваме, такива сме и на дело, кога присъствуваме.
+      ukr2: "Такий нехай знає: які ми словом у листах неприсутніми, такі й будемо
+        ділом присутніми."
+      ukr3: такий нехай се знає, що які ми словом у посланнях, не бувши (між вами),
+        такі ми й дїлом, бувши (між вами).
+      czech: "Kdo tak mluvi, at si uvedomi: jak se projevujeme slovy svych dopisu,
+        kdyz jsme daleko od vas, tak se ukazeme svymi ciny, az budeme u vas."
+      st_text: такой пусть знает, что, каковы мы на словах в посланиях заочно, таковы
+        и на деле лично.
+  - id: 5039
+    number: 12
+    bookId: 65
+    text: "Ибо мы не смеем сопоставлять или сравнивать себя с теми, которые сами
+      себя выставляют: они измеряют себя самими собою и сравнивают себя с собою
+      неразумно."
+    chapter: 10
+    chapterId: 1293
+    parallels:
+      - verseId: 29911
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 27
+        short: Притч:27:2
+    translates:
+      kassian: Ибо мы не смеем равняться или сравнивать себя с некоторыми из тех,
+        которые себя выставляют; но они, измеряя самих себя собой и сравнивая
+        себя с самими собой, неразумны.
+      podstr: Не ведь осмеливаемся отличить или сличить себя самих [с] некоторыми себя
+        самих представляющих; но они в сами себе себя самих мерящие и сличающие
+        себя самих с самими собой не понимают.
+      csya: "Не смеем бо судити, или прикладовати себе иным хвалящым себе самех: но
+        сами в себе себе измеряюще, и прилагающе себе самим себе, не
+        разумевают."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Не смёемъ бо суди1ти присовокуплsти, и3ли2 приклaдовати себе2 и3ны6мъ
+        хвaлzщымъ себе2 самёхъ: но сaми въ себЁ себе2 и3змэрsюще, и3 прилагaюще
+        себе2 сами6мъ себЁ, не разумэвaютъ."
+      sovr_rbo: ""
+      latin: "Non enim audemus inserere, aut comparare nos quibusdam, qui seipsos
+        commendant: sed ipsi in nobis nosmetipsos metientes, et comparantes
+        nosmetipsos nobis."
+      ukr: Бо не сміємо вважати себе чи рівняти до інших, що самі себе хвалять, вони
+        нерозумно самі себе міряють собою, і рівняють з собою себе.
+      nkjv: For we dare not class ourselves or compare ourselves with those who
+        commend themselves. But they, measuring themselves by themselves, and
+        comparing themselves among themselves, are not wise.
+      desnitsky: Мы не решаемся себя равнять или даже сравнивать с людьми, которые
+        выставляют себя напоказ. Они меряют себя собственной меркой, сравнивают
+        себя с самими собой, ничего при этом не понимая.
+      tex_rec: Οὐ γὰρ τολμῶμεν ἐγκρῖναι ἢ συγκρῖναι ἑαυτούς τισι τῶν ἑαυτοὺς
+        συνιστανόντων· ἀλλὰ αὐτοὶ ἐν ἑαυτοῖς ἑαυτοὺς μετροῦντες καὶ συγκρίνοντες
+        ἑαυτοὺς ἑαυτοῖς οὐ συνιοῦσιν.
+      deutsch: Denn wir wagen uns nicht unter die zu rechnen oder zu zählen, so sich
+        selbst loben, aber dieweil sie an sich selbst messen und halten allein
+        von sich selbst, verstehen sie nichts.
+      spanish: Porque no osamos igualarnos o compararnos con los que a sí mismos se
+        recomiendan; mas midiéndose a sí mismos y tomándose a sí mismos por
+        medida, no tienen juicio.
+      peshitta: ܠܳܐ ܓ݁ܶܝܪ ܡܰܡܪܚܺܝܢܰܢ ܕ݁ܢܶܚܫܽܘܒ݂ ܐܰܘ ܕ݁ܰܢܦ݂ܰܚܶܡ ܢܰܦ݂ܫܰܢ ܥܰܡ ܗܳܢܽܘܢ
+        ܕ݁ܰܡܫܰܒ݂ܗܪܺܝܢ ܢܰܦ݂ܫܗܽܘܢ ܐܶܠܳܐ ܡܶܛܽܠ ܕ݁ܗܶܢܽܘܢ ܒ݁ܗܽܘܢ ܠܗܽܘܢ ܡܦ݂ܰܚܡܺܝܢ ܠܳܐ
+        ܡܶܣܬ݁ܰܟ݁ܠܺܝܢ܂
+      bel_syomukha: "Бо мы не адважваемся мерацца альбо параўноўваць сябе з тымі, якія
+        самі сябе выстаўляюць: яны мераюць сябе самімі сабою і параўноўваюць
+        сябе з сабою неразумна."
+      nrt: Мы не хотим уподобляться тем из вас, кто сам возвышает себя, или сравнивать
+        себя с ними. Они поступают глупо, сравнивая и соизмеряя себя с самими же
+        собой.
+      romana: Caci nu indraznim sa ne numaram sau sa ne asemanam cu unii care se lauda
+        singuri; dar aceia, masurandu-se si asemanandu-se pe ei cu ei insisi, nu
+        au pricepere.
+      francais: Nous n'osons pas nous égaler ou nous comparer à quelques-uns de ceux
+        qui se recommandent eux-mêmes. Mais, en se mesurant à leur propre mesure
+        et en se comparant à eux-mêmes, ils manquent d'intelligence.
+      italian: Certo noi non abbiamo l'audacia di uguagliarci o paragonarci ad alcuni
+        di quelli che si raccomandano da sé; ma mentre si misurano su di sé e si
+        paragonano con se stessi, mancano di intelligenza.
+      old_georgian: რამეთუ ვერ ვიკადრებთ თავთა თჳსთა განკითხვად გინა შეტყუებად ვიეთმე
+        თანა, რომელნი-იგი თავთა თჳსთა ეწამებიან. არამედ იგინი თჳთ თავთა თჳსთა
+        განიზომენ და თანა-შეატყუებენ თავთა თჳსთა თავით თჳსით და ვერ
+        გულისჴმა-ჰყოფენ.
+      portuguese: pois não ousamos contar-nos, ou comparar-nos com alguns, que se
+        louvam a si mesmos; mas estes, medindose consigo mesmos e comparando-se
+        consigo mesmos, estão sem entendimento.
+      polish: "Nie mamy bowiem odwagi ani równać się, ani stawiać siebie obok tych,
+        którzy zachwalają sami siebie; nie okazują wielkiego rozsądku gdy siebie
+        samych\rmierzą miarą własnej osoby i porównują się sami z sobą."
+      new_text: Мы не дерзаем ставить себя в один ряд или сравнивать кое с кем, кто
+        сам себя выставляет напоказ. По своей глупости они меряют себя по
+        собственным меркам и сравнивают сами с собой.
+      serbian: Јер не смијемо себе убрајати или сравњивати са некима који сами себе
+        хвале; али они кад сами себе собом мјере, и сами себе са собом пореде,
+        неразумни су.
+      bulgarian: "Защото не смеем да се броим или да се сравняваме с някои от ония,
+        които сами се препоръчват: те не разбират, че се мерят сами със себе си
+        и се сравняват със себе си."
+      ukr2: Ми не відважуємося рівняти себе чи прирівнювати до деяких із тих, які самі
+        себе поручають; та їм, які міряють самих себе на собі самих та
+        прирівнюють самих себе до себе самих, бракує глузду.
+      ukr3: Бо не сьміємо прилїчувати або рівняти себе до деяких, що самі себе
+        хвалять; ті, що самі в собі себе міряють і порівнюють самих себе, не
+        розуміють.
+      czech: "Neopovazujeme se zaradit mezi ty nebo srovnavat s temi, kteri doporucuji
+        sami sebe: tim, ze se meri jen podle sebe a srovnavaji sami se sebou,
+        ztraceji soudnost."
+      st_text: "Ибо мы не смеем сопоставлять или сравнивать себя с теми, которые сами
+        себя выставляют: они измеряют себя самими собою и сравнивают себя с
+        собою неразумно."
+  - id: 5040
+    number: 13
+    bookId: 65
+    text: А мы не без меры хвалиться будем, но по мере удела, какой назначил нам Бог
+      в такую меру, чтобы достигнуть и до вас.
+    chapter: 10
+    chapterId: 1293
+    parallels:
+      - verseId: 5082
+        bookId: 65
+        bookCode: 2oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 12
+        short: 2 Кор:12:5
+      - verseId: 14088
+        bookId: 67
+        bookCode: k-efesanam-poslanie-ap-pavla
+        chapter: 4
+        short: Еф:4:7
+    translates:
+      kassian: "Мы же не будем хвалиться без меры, но в меру того удела, который
+        отмерил нам Бог: дойти и до вас."
+      podstr: Мы же не в безмерное будем хвастаться, но по мере нормы которую отмерил
+        нам Бог мерой, дойти до и вас.
+      csya: Мы же не в безмерная похвалимся, но по мере правила, егоже раздели нам Бог
+        меру, достизати даже и до вас.
+      averincev: ""
+      ungerov: ""
+      csya_old: Мы1 же не въ безмBрнаz похвaлимсz, но по мёрэ прaвила, є3го1же
+        раздэли2 нaмъ бг7ъ мёру, достизaти дaже и3 до вaсъ.
+      sovr_rbo: ""
+      latin: Nos autem non in immensum gloriabimur, sed secundum mensuram regulae, qua
+        mensus est nobis Deus, mensuram pertingendi usque ad vos.
+      ukr: Ми ж не будем хвалитись над міру, а в міру мірила, що його Бог призначив на
+        міру для нас, щоб і до нас досягти.
+      nkjv: We, however, will not boast beyond measure, but within the limits of the
+        sphere which God appointed us-a sphere which especially includes you.
+      desnitsky: А мы положим предел нашей похвале – тот самый предел, который отмерил
+        нам Господь, включая и вас, коринфян, тоже.
+      tex_rec: ἡμεῖς δὲ οὐχὶ εἰς τὰ ἄμετρα καυχησόμεθα, ἀλλὰ κατὰ τὸ μέτρον τοῦ
+        κανόνος οὗ ἐμέρισεν ἡμῖν ὁ Θεὸς μέτρου, ἐφικέσθαι ἄχρι καὶ ὑμῶν.
+      deutsch: Wir aber rühmen uns nicht über das Ziel hinaus, sondern nur nach dem
+        Ziel der Regel, mit der uns Gott abgemessen hat das Ziel, zu gelangen
+        auch bis zu euch.
+      spanish: Nosotros no nos gloriamos desmedidamente, sino según la regla que Dios
+        nos ha dado por medida para llegar aun hasta vosotros.
+      peshitta: ܚܢܰܢ ܕ݁ܶܝܢ ܠܳܐ ܡܶܫܬ݁ܰܒ݂ܗܪܺܝܢܰܢ ܝܰܬ݁ܺܝܪ ܡܶܢ ܡܫܽܘܚܬ݂ܰܢ ܐܶܠܳܐ
+        ܒ݁ܰܡܫܽܘܚܬ݂ܳܐ ܕ݁ܰܬ݂ܚܽܘܡܳܐ ܕ݁ܰܦ݂ܠܰܓ݂ ܠܰܢ ܐܰܠܳܗܳܐ ܕ݁ܢܶܡܛܶܐ ܐܳܦ݂ ܥܕ݂ܰܡܳܐ
+        ܠܘܳܬ݂ܟ݂ܽܘܢ܂
+      bel_syomukha: А мы не хваліцца будзем бязь меры, а мераю долі, якую нам вызначыў
+        Бог і такою мераю, каб дасягнуць і да вас.
+      nrt: А мы не будем преувеличивать собственную значимость, но будем отстаивать
+        свои права в тех пределах, что даны нам Богом, а сюда входит и наша
+        работа среди вас.
+      romana: Iar noi nu ne vom lauda fara masura, ci dupa masura dreptarului cu care
+        ne-a masurat noua Dumnezeu, ca sa ajungem si pana la voi.
+      francais: Pour nous, nous ne voulons pas nous glorifier hors de toute mesure;
+        nous prendrons, au contraire, pour mesure les limites du partage que
+        Dieu nous a assigné, de manière à nous faire venir aussi jusqu'à vous.
+      italian: Noi invece non ci vanteremo oltre misura, ma secondo la norma della
+        misura che Dio ci ha assegnato, sì da poter arrivare fino a voi;
+      old_georgian: ხოლო ჩუენ არა უსაზომოდ ვიქადოთ, არამედ საზომითა მით წესისაჲთა,
+        რომელი-იგი განგჳყო ჩუენ ღმერთმან საზომითა მით მიწდომად ვიდრე თქუენდამდე.
+      portuguese: "Nós, porém, não nos gloriaremos além da medida, mas conforme o
+        padrão da medida que Deus nos designou\rpara chegarmos mesmo até vós;"
+      polish: "Nie będziemy się wynosili ponad miarę, lecz będziemy się oceniali
+        według\rgranic wyznaczonych nam przez Boga, a sięgających aż do was."
+      new_text: А мы не будем хвалиться без меры, а только в меру. Эта мера — пределы,
+        которые отмерил нам Бог. Они включают и вас.
+      serbian: А ми се нећемо хвалити преко мјере, него по мјери правила чију нам
+        мјеру Бог додијели, да достигнемо и до вас.
+      bulgarian: Ние, обаче, не без мярка ще се похвалим, а според мярката на
+        определения нам от Бога дял за достигане дори и до вас.
+      ukr2: Ми ж не будемо хвалитися надмірно, але за мірою правила, що його Бог
+        призначив як мірку, щоб аж до вас прибути.
+      ukr3: Ми ж не без міри хвалити мемось, а по мірі мірила, що відмірив нам Бог,
+        (яко) міру, щоб досягти і до вас.
+      czech: Nechceme si zakladat na dile presahujicim hranice, ktere nam vymeril Buh,
+        totiz abychom dosli az k vam.
+      st_text: А мы не без меры хвалиться будем, но по мере удела, какой назначил нам
+        Бог в такую меру, чтобы достигнуть и до вас.
+  - id: 5041
+    number: 14
+    bookId: 65
+    text: Ибо мы не напрягаем себя, как не достигшие до вас, потому что достигли и
+      до вас благовествованием Христовым.
+    chapter: 10
+    chapterId: 1293
+    parallels: []
+    translates:
+      kassian: Мы ведь не перенапрягаемся, как будто недостигшие до вас; ибо мы
+        достигли и до вас Евангелием Христовым.
+      podstr: Не ведь как не доходящие в вас растягиваем себя самих, до ведь и вас мы
+        успели в благовозвещении Христа;
+      csya: "Не яко бо не досяжуще до вас, паче простираем себе, даже бо и до вас
+        достигохом благовестием Христовым:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Не ћкw бо не досsжуще до вaсъ, пaче простирaемъ себе2, дaже бо и3 до
+        вaсъ достиго1хомъ бlговёстіемъ хrто1вымъ:"
+      sovr_rbo: ""
+      latin: "Non enim quasi non pertingentes ad vos, superextendimus nos: usque ad
+        vos enim pervenimus in Evangelio Christi."
+      ukr: Бо ми не розтягуємося над міру, ніби не досягли ми до вас, бо ми досягли аж
+        до вас із Євангелією Христовою.
+      nkjv: For we are not overextending ourselves (as though our authority did not
+        extend to you), for it was to you that we came with the gospel of
+        Christ;
+      desnitsky: И не скажешь, будто мы стараемся и на вас распространить свою власть,
+        а сами до вас так и не добрались – нет, мы у вас побывали с Евангелием
+        Христовым.
+      tex_rec: οὐ γὰρ ὡς μὴ ἐφικνούμενοι εἰς ὑμᾶς ὑπερεκτείνομεν ἑαυτούς· ἄχρι γὰρ καὶ
+        ὑμῶν ἐφθάσαμεν ἐν τῷ εὐαγγελίῳ τοῦ Χριστοῦ,
+      deutsch: Denn wir fahren nicht zu weit, als wären wir nicht gelangt zu euch;
+        denn wir sind ja auch zu euch gekommen mit dem Evangelium Christi;
+      spanish: Porque no nos salimos fuera de los límites prescritos, como si no
+        llegásemos hasta vosotros, pues hasta vosotros llegamos los primeros en
+        el Evangelio de Cristo.
+      peshitta: ܠܳܐ ܗ݈ܘܳܐ ܓ݁ܶܝܪ ܐܰܝܟ݂ ܕ݁ܠܳܐ ܡܶܬ݂ܡܰܛܶܝܢܰܢ ܠܘܳܬ݂ܟ݂ܽܘܢ ܡܳܬ݂ܚܺܝܢܰܢ ܢܰܦ݂ܫܰܢ
+        ܥܕ݂ܰܡܳܐ ܓ݁ܶܝܪ ܠܘܳܬ݂ܟ݂ܽܘܢ ܡܰܛܺܝܢ ܒ݁ܰܣܒ݂ܰܪܬ݂ܶܗ ܕ݁ܰܡܫܺܝܚܳܐ܂
+      bel_syomukha: Бо мы ня высільваемся, як тыя, што не дасяглі да вас, бо дасягнулі
+        і да вас зьвеставаньнем Хрыстовым;
+      nrt: Ведь мы не выходим за эти пределы, как если бы мы не приходили к вам, но мы
+        на самом деле были первыми, кто принес вам Радостную Весть о Христе.
+      romana: Caci nu ne intindem peste masura, ca si cum n-am fi ajuns la voi, caci
+        am si ajuns cu Evanghelia lui Hristos pana la voi.
+      francais: Nous ne dépassons point nos limites, comme si nous n'étions pas venus
+        jusqu'à vous; car c'est bien jusqu'à vous que nous sommes arrivés avec
+        l'Évangile de Christ.
+      italian: né ci innalziamo in maniera indebita, come se non fossimo arrivati fino
+        a voi, perché fino a voi siamo giunti col vangelo di Cristo.
+      old_georgian: რამეთუ არა ვითარცა ვერ მიწდომილნი თქუენდა მიმართ. უმეტეს
+        განვირთხამთ თავთა თჳსთა, რამეთუ ვიდრე თქუენდამდეცა მივსწუეთით სახარებითა
+        ქრისტესითა.
+      portuguese: "porque não nos estendemos além do que convém, como se não
+        chegássemos a vós, pois já chegamos também\raté vós no evangelho de
+        Cristo,"
+      polish: "Nie przekraczamy bowiem [słusznej] miary jak ci, którzy do was jeszcze
+        nie\rdotarli; przecież doszliśmy do was z Ewangelią Chrystusa."
+      new_text: Ведь мы не переходим положенных нам пределов, так было бы, если бы мы
+        не пришли к вам. А мы пришли к вам с Радостной Вестью о Христе!
+      serbian: Јер се ми не простиремо преко мјере, као да не досежемо до вас, него и
+        до вас достигосмо с Јеванђељем Христовим;
+      bulgarian: Защото не като нестигнали до вас ние се напрягаме, понеже достигнахме
+        и до вас с благовестието Христово;
+      ukr2: Ми бо не розтягаємося над міру, а воно було б так, якби ми до вас не
+        прибули; ми ж таки й справді до вас прибули з Євангелією Христовою.
+      ukr3: Ми бо не так, як би не досягнувши вас, над міру простираємось; бо аж і до
+        вас досягли благовістєм Христовим.
+      czech: Nechceme se rozpinat dal, nez kam jsme sami dosli – vzdyt jsme ve sve
+        sluzbe evangeliu Kristovu dospeli az k vam.
+      st_text: Ибо мы не напрягаем себя, как не достигшие до вас, потому что достигли
+        и до вас благовествованием Христовым.
+  - id: 5042
+    number: 15
+    bookId: 65
+    text: Мы не без меры хвалимся, не чужими трудами, но надеемся, с возрастанием
+      веры вашей, с избытком увеличить в вас удел наш,
+    chapter: 10
+    chapterId: 1293
+    parallels:
+      - verseId: 32961
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 15
+        short: Рим:15:20
+    translates:
+      kassian: "Мы не хвалимся без меры чужими трудами, но имеем надежду с
+        возрастанием веры вашей возвеличиться среди вас в отведенном нам уделе с
+        избытком:"
+      podstr: не в безмерное хвастающиеся в чужих трудах, надежду же имеющие растущей
+        веры вашей в вас быть возвеличенными по норме нашей в изобилие,
+      csya: не в безмерная хвалящеся в чуждих трудех, упование же имуще, растущей вере
+        вашей, в вас величатися по правилу нашему изобильно,
+      averincev: ""
+      ungerov: ""
+      csya_old: не въ безмBрнаz хвaлzщесz въ чужди1хъ трудёхъ, ўповaніе же и3мyще,
+        растyщей вёрэ вaшей, въ вaсъ величaтисz по прaвилу нaшему и3з8oби1льнw,
+      sovr_rbo: ""
+      latin: "Non in immensum gloriantes in alienis laboribus: spem autem habentes
+        crescentis fidei vestrae, in vobis magnificari secundum regulam nostram
+        in abundantiam,"
+      ukr: Ми не хвалимось над міру у чужих працях, але маємо надію, що як буде рости
+        ваша віра, то за нашим мірилом сильно звеличимося ми між вами,
+      nkjv: "not boasting of things beyond measure, that is, in other men's labors,
+        but having hope, that as your faith is increased, we shall be greatly
+        enlarged by you in our sphere, "
+      desnitsky: Мы хвалимся не безмерно и не чужими трудами, но надеемся, что вера
+        ваша будет всё возрастать, по мере этого и наши пределы широко
+        раздвинутся
+      tex_rec: οὐκ εἰς τὰ ἄμετρα καυχώμενοι ἐν ἀλλοτρίοις κόποις, ἐλπίδα δὲ ἔχοντες,
+        αὐξανομένης τῆς πίστεως ὑμῶν, ἐν ὑμῖν μεγαλυνθῆναι κατὰ τὸν κανόνα ἡμῶν
+        εἰς περισσείαν,
+      deutsch: und rühmen uns nicht übers Ziel hinaus in fremder Arbeit und haben
+        Hoffnung, wenn nun euer Glaube in euch wächst, daß wir in unsrer Regel
+        nach wollen weiterkommen
+      spanish: No gloriándonos desmedidamente de trabajos ajenos, sino esperando que,
+        creciendo vuestra fe, crezcamos más y más entre vosotros, conforme a
+        nuestra medida,
+      peshitta: ܘܠܳܐ ܡܶܫܬ݁ܰܒ݂ܗܪܺܝܢܰܢ ܠܒ݂ܰܪ ܡܶܢ ܡܫܽܘܚܬ݂ܰܢ ܒ݁ܥܰܡܠܳܐ ܕ݁ܰܐ݈ܚܪܳܢܶܐ ܐܶܠܳܐ
+        ܐܺܝܬ݂ ܠܰܢ ܣܰܒ݂ܪܳܐ ܕ݁ܟ݂ܰܕ݂ ܪܳܒ݂ܝܳܐ ܗܰܝܡܳܢܽܘܬ݂ܟ݂ܽܘܢ ܒ݁ܟ݂ܽܘܢ ܢܶܬ݂ܪܰܘܪܰܒ݂
+        ܐܰܝܟ݂ ܡܫܽܘܚܬ݂ܰܢ ܘܢܶܬ݂ܝܰܬ݁ܰܪ܂
+      bel_syomukha: мы не бязь меры хвалімся, ня чужою працаю, а спадзяёмся, што калі
+        будзе расьці вера вашая, над меру пабольшыць у вас удзел наш,
+      nrt: Мы не хвалимся чужими трудами вне своих пределов. Мы надеемся, что ваша
+        вера будет расти, а вместе с тем будут расширяться и пределы нашей
+        деятельности у вас.
+      romana: Nu ne laudam peste masura cu ostenelile altora, ci avem nadejde ca, tot
+        crescand credinta voastra, ne vom mari in voi cu prisosinta, dupa masura
+        noastra,
+      francais: Ce n'est pas hors de toute mesure, ce n'est pas des travaux d'autrui,
+        que nous nous glorifions; mais c'est avec l'espérance, si votre foi
+        augmente, de grandir encore d'avantage parmi vous, selon les limites qui
+        nous sont assignées,
+      italian: né ci vantiamo indebitamente di fatiche altrui, ma abbiamo la speranza,
+        col crescere della vostra fede, di crescere ancora nella vostra
+        considerazione, secondo la nostra misura,
+      old_georgian: არა უსაზომოდ მოქადულნი სხჳსა შრომილსა ზედა, არამედ სასოებაჲ გუაქუს
+        ჩუენ აღორძინებულისა მის სარწმუნოებისა თქუენისა თქუენ შორის განდიდებად
+        კანონისაებრ ჩუენისა ნამეტნავად,
+      portuguese: "não nos gloriando além da medida em trabalhos alheios; antes tendo
+        esperança de que, à proporção que cresce\ra vossa fé, seremos nós cada
+        vez mais engrandecidos entre vós, conforme a nossa medida,"
+      polish: "Nie przechwalamy się ponad miarę kosztem cudzych trudów. Mamy
+        jednak\rnadzieję, że w miarę rosnącej w was wiary, my również wzrastać
+        będziemy\rwedług naszej miary,"
+      new_text: Мы не хвалимся чужими трудами вне своих пределов. Мы надеемся, что по
+        мере возрастания вашей веры и моя роль среди вас неизмеримо возрастет, в
+        пределах, отведенных мне Господом,
+      serbian: Не хвалимо се преко мјере у туђим трудовима, али имамо наду да ћемо се,
+        кад узрасте вјера ваша, с вама величати по правилу нашему изобилно.
+      bulgarian: ние не се хвалим без мярка с чужди трудове, но се надяваме, като
+        расте вярата ви, да се възвеличим премного сред вас според дела ни,
+      ukr2: Не хвалимося також і чужими трудами над міру, але маємо надію, що й ми,
+        коли ростиме ваша віра, звеличимося між вами за нашим правилом над міру;
+      ukr3: Не без міри хвалимось чужою працею, маючи надїю, що, як виросте віра ваша,
+        то звеличимось і ми по мірилу нашому надто,
+      czech: Nezakladame si na tom, co udelali jini; mame vsak nadeji, ze vase vira
+        bude rust, a tak se hranice nam stanovena rozsiri,
+      st_text: Мы не без меры хвалимся, не чужими трудами, но надеемся, с возрастанием
+        веры вашей, с избытком увеличить в вас удел наш,
+  - id: 5043
+    number: 16
+    bookId: 65
+    text: так чтобы и далее вас проповедывать Евангелие, а не хвалиться готовым в
+      чужом уделе.
+    chapter: 10
+    chapterId: 1293
+    parallels: []
+    translates:
+      kassian: проповедать Евангелие в странах за пределами вашими, не похвалиться
+        готовым в чужом уделе.
+      podstr: в которое по ту сторону вас благовозвестить, не в чужой норме в готовом
+        похвастаться.
+      csya: во еже и в дальших вас странах благовестити, не чужим правилом в готовых
+        похвалитися.
+      averincev: ""
+      ungerov: ""
+      csya_old: во є4же и3 въ дaльшихъ вaсъ (странaхъ) благовэсти1ти, не чужи1мъ
+        прaвиломъ въ гото1выхъ похвали1тисz.
+      sovr_rbo: ""
+      latin: etiam in illa, quae ultra vos sunt, evangelizare, non in aliena regula in
+        iis quae praeparata sunt gloriari.
+      ukr: щоб і в дальших за вами країнах звіщати Євангелію, а не хвалитись готовим,
+        як це чужі твердять.
+      nkjv: "to preach the gospel in the regions beyond you, and not to boast in
+        another man's sphere of accomplishment. "
+      desnitsky: и мы станем проповедовать Евангелие далее Коринфа, и не станем
+        хвалиться тем, что в чужих пределах сделали другие.
+      tex_rec: εἰς τὰ ὑπερέκεινα ὑμῶν εὐαγγελίσασθαι, οὐκ ἐν ἀλλοτρίῳ κανόνι εἰς τὰ
+        ἕτοιμα καυχήσασθαι.
+      deutsch: und das Evangelium auch predigen denen, die jenseit von euch wohnen,
+        und uns nicht rühmen in dem, was mit fremder Regel bereitet ist.
+      spanish: evangelizando a los que están más allá de vosotros, no para gloriarnos
+        en ajena regla de lo ya laborado.
+      peshitta: ܐܳܦ݂ ܠܗܰܠ ܡܶܢܟ݂ܽܘܢ ܠܰܡܣܰܒ݁ܳܪܽܘ ܠܳܐ ܒ݁ܰܡܫܽܘܚܬ݂ܳܐ ܕ݁ܰܐ݈ܚܪܳܢܶܐ ܒ݁ܰܐܝܠܶܝܢ
+        ܕ݁ܡܰܬ݂ܩܢܳܢ ܢܶܫܬ݁ܰܒ݂ܗܰܪ܂
+      bel_syomukha: (так, каб і) далей прапаведаваць вам Дабравесьце, ня хвалячыся
+        гатовым у чужой долі.
+      nrt: И тогда мы сможем идти дальше и там возвещать Радостную Весть, а не
+        хвалиться тем, что сделано другими в их собственных пределах.
+      romana: Ca sa propovaduim Evanghelia si in tinuturile de dincolo de voi, dar
+        fara sa ne laudam cu masura straina, in cele de-a gata.
+      francais: et d'annoncer l'Évangile au delà de chez vous, sans nous glorifier de
+        ce qui a été fait dans les limites assignées à d'autres.
+      italian: per evangelizzare le regioni più lontane della vostra, senza vantarci
+        alla maniera degli altri delle cose già fatte da altri.
+      old_georgian: მიერ კერძო თქუენსა სახარებად არა სხჳსა კანონსა ზედა მზასა სიქადულად.
+      portuguese: "para anunciar o evangelho nos lugares que estão além de vós, e não
+        em campo de outrem, para não nos\rgloriarmos no que estava já
+        preparado."
+      polish: "niosąc Ewangelię poza wasze granice, a nie chlubiąc się tym, co już
+        było\rdokonane przez innych."
+      new_text: и тогда мы пойдем возвещать Радостную Весть в другие края, не хвалясь
+        работой, которая сделана другими в их собственных пределах.
+      serbian: Да и у даљим крајевима од вас проповиједамо Јеванђеље, и да се не
+        похвалимо оним што је по туђему правилу урађено.
+      bulgarian: тъй че и по-далеч от вас да проповядваме Евангелието, а не да се
+        хвалим с готовото в чужди дял.
+      ukr2: і звіщатимемо Євангелію ген поза вами, не хвалившися готовим на чужому
+        полі.
+      ukr3: щоб і дальше вас благовіствувати, і не хвалитись над тим, що чужим мірилом
+        приготовлене.
+      czech: a ze budu moci zvestovat evangelium v krajich lezicich za vami a nebudu
+        se chlubit tim, co je hotovo, kde uz pracovali jini.
+      st_text: так чтобы и далее вас проповедывать Евангелие, а не хвалиться готовым в
+        чужом уделе.
+  - id: 5044
+    number: 17
+    bookId: 65
+    text: Хвалящийся хвались о Господе.
+    chapter: 10
+    chapterId: 1293
+    parallels:
+      - verseId: 16610
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 9
+        short: Иер:9:24
+      - verseId: 1316
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 1
+        short: 1 Кор:1:31
+    translates:
+      kassian: Хвалящийся да хвалится Господом.
+      podstr: Же хвастающийся в Господе пусть хвастается;
+      csya: "Хваляйся же, о Господе да хвалится:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Хвалsйсz же, њ гDэ да хвaлитсz:"
+      sovr_rbo: ""
+      latin: Qui autem gloriatur, in Domino glorietur.
+      ukr: А хто хвалиться, нехай хвалиться в Господі!
+      nkjv: But "he who glories, let him glory in the Lord."
+      desnitsky: «Кто хочет хвалиться – пусть хвалится Господом!»
+      tex_rec: ῾Ο δὲ καυχώμενος ἐν Κυρίῳ καυχάσθω·
+      deutsch: Wer sich aber rühmt, der rühme sich des Herrn.
+      spanish: El que se gloría, que se gloríe en el Señor.
+      peshitta: ܗܰܘ ܕ݁ܶܝܢ ܕ݁ܡܶܫܬ݁ܰܒ݂ܗܰܪ ܒ݁ܡܳܪܝܳܐ ܢܶܫܬ݁ܰܒ݂ܗܰܪ܂
+      bel_syomukha: '"Хто хваліцца, няхай хваліцца ў Госпадзе".'
+      nrt: «Тот, кто хвалится, пусть хвалится Господом».
+      romana: Iar cel ce se lauda, in Domnul sa se laude.
+      francais: Que celui qui se glorifie se glorifie dans le Seigneur.
+      italian: Pertanto chi si vanta, si vanti nel Signore;
+      old_georgian: ხოლო რომელი-იგი იქადოდის, უფლისა მიერ იქადოდენ.
+      portuguese: Aquele, porém, que se gloria, glorie-se no Senhor.
+      polish: Ten, kto się chlubi, w Panu niech się chlubi.
+      new_text: «Кто хочет похвалиться, пусть похвалится Господом!»
+      serbian: А који се хвали, Господом нека се хвали!
+      bulgarian: '"Който се хвали, с Господа да се хвали".'
+      ukr2: А хто хвалиться, нехай у Господі хвалиться.
+      ukr3: Хто ж хвалить ся, нехай у Господї хвалить ся.
+      czech: ‚Kdo se chlubi, at se chlubi v Panu.‘
+      st_text: Хвалящийся хвались о Господе.
+  - id: 5045
+    number: 18
+    bookId: 65
+    text: Ибо не тот достоин, кто сам себя хвалит, но кого хвалит Господь.
+    chapter: 10
+    chapterId: 1293
+    parallels:
+      - verseId: 29911
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 27
+        short: Притч:27:2
+      - verseId: 1593
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 4
+        short: 1 Кор:4:5
+    translates:
+      kassian: Ибо не тот испытан, кто о самом себе заверяет, но тот, о ком заверяет
+        Господь.
+      podstr: не ведь самого себя представляющий, тот есть пригодный, но которого
+        Господь представляет.
+      csya: не хваляй бо себе сей искусен, но егоже Бог восхваляет.
+      averincev: ""
+      ungerov: ""
+      csya_old: не хвалsй бо себе2 се1й и3скyсенъ, но є3го1же бг7ъ восхвалsетъ.
+      sovr_rbo: ""
+      latin: "Non enim qui seipsum commendat, ille probatus est: sed quem Deus
+        commendat."
+      ukr: Бо достойний не той, хто сам себе хвалить, але кого хвалить Господь!
+      nkjv: For not he who commends himself is approved, but whom the Lord commends.
+      desnitsky: Ведь Господу угоден не тот, кто сам себя ставит на видное место, а
+        тот, кого Он поставит.
+      tex_rec: οὐ γὰρ ὁ ἑαυτὸν συνιστῶν, ἐκεῖνός ἐστι δόκιμος, ἀλλ᾿ ὃν ὁ Κύριος
+        συνίστησιν.
+      deutsch: Denn darum ist einer nicht tüchtig, daß er sich selbst lobt, sondern
+        daß ihn der Herr lobt.
+      spanish: Pues no es el que a sí mismo se recomienda quien está probado, sino
+        aquel a quien recomienda el Señor.
+      peshitta: ܠܳܐ ܗ݈ܘܳܐ ܓ݁ܶܝܪ ܡܰܢ ܕ݁ܢܰܦ݂ܫܶܗ ܡܫܰܒ݁ܰܚ ܗܰܘ ܗ݈ܽܘ ܒ݁ܩܶܐ ܐܶܠܳܐ ܡܰܢ
+        ܕ݁ܡܳܪܝܳܐ ܢܫܰܒ݁ܚܺܝܘܗ݈ܝ܂
+      bel_syomukha: Бо ня той годны, хто сам сябе хваліць, а каго хваліць Гасподзь.
+      nrt: Ведь не тот достоин одобрения, кто сам себя хвалит, а тот, кого хвалит
+        Господь.
+      romana: Pentru ca nu cel ce se lauda singur este dovedit bun, ci acela pe care
+        Domnul il lauda.
+      francais: Car ce n'est pas celui qui se recommande lui-même qui est approuvé,
+        c'est celui que le Seigneur recommande.
+      italian: perché non colui che si raccomanda da sé viene approvato, ma colui che
+        il Signore raccomanda.
+      old_georgian: რამეთუ არა რომელი-იგი თავსა თჳსსა ეწამებოდის, იგი არს გამოცდილი,
+        არამედ რომელსა-იგი უფალი ეწამოს.
+      portuguese: Porque não é aprovado aquele que se recomenda a si mesmo, mas sim
+        aquele a quem o Senhor recomenda.
+      polish: "Nie ten jest bowiem wypróbowany, kto się sam przechwala, lecz ten,
+        kogo\ruznaje Pan."
+      new_text: Не тот признан Господом, кто возвышает себя, а тот, кого возвышает
+        Господь.
+      serbian: Јер није ваљан онај који се сам хвали, него којега Господ хвали.
+      bulgarian: Защото не тоя, който се сам хвали, е достоен, а оня, когото Господ хвали.
+      ukr2: Бо не той випробуваний, хто себе самого поручає, а той кого Бог поручає.
+      ukr3: Бо не той певний, хто сам себе хвалить, а кого Господь похваляє.
+      czech: Ne ten, kdo doporucuje sam sebe, je osvedceny, nybrz ten, koho doporucuje
+        Pan.
+      st_text: Ибо не тот достоин, кто сам себя хвалит, но кого хвалит Господь.

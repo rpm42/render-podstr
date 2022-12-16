@@ -1,0 +1,2741 @@
+id: 279
+number: 12
+bookId: 10
+verseCount: 31
+title: Глава 12
+verses:
+  - id: 3880
+    number: 1
+    bookId: 10
+    text: "И послал Господь Нафана [пророка] к Давиду, и тот пришел к нему и сказал
+      ему: в одном городе были два человека, один богатый, а другой бедный;"
+    chapter: 12
+    chapterId: 279
+    parallels:
+      - verseId: 31859
+        bookId: 22
+        bookCode: psaltir
+        chapter: 50
+        short: Пс:50:2
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И посла Господь нафана пророка к давиду. И вниде к нему (и рече ему:
+        отвещай ми, царю, ныне суд сей:) и рече ему: два мужа беста во единем
+        граде, един богат, а другий убог:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# послA гDь наfaна прbро1ка къ давjду. И# вни1де къ немY (и3 рече2
+        є3мY: tвэщaй ми2, царю2, нн7э сyдъ се1й:) и3 рече2 є3мY: двA м{жа бёста
+        во є3ди1нэмъ грaдэ, є3ди1нъ богaтъ, ґ другjй ўбо1гъ:"
+      sovr_rbo: "Господь послал к Давиду пророка Нафана. Он пришел к царю и начал свою
+        речь: «В одном городе жили два человека: богатый и бедный."
+      latin: "Misit ergo Dominus Nathan ad David: qui cum venisset ad eum, dixit ei:
+        Duo viri erant in civitate una, unus dives, et alter pauper."
+      ukr: "І послав Господь Натана до Давида, а він прийшов до нього та й сказав
+        йому: Два чоловіки були в одному місті, один заможний, а один убогий."
+      nkjv: 'Then the Lord sent Nathan to David. And he came to him, and said to him:
+        "There were two men in one city, one rich and the other poor.'
+      desnitsky: "ГОСПОДЬ отправил к Давиду пророка Натана, и тот, придя к нему,
+        рассказал вот что: «Двое человек жили в одном городе, один богач, а
+        другой бедняк."
+      mt: ‫   וַיִּשְׁלַח יְהוָה אֶת־נָתָן אֶל־דָּוִד וַיָּבֹא אֵלָיו וַיֹּאמֶר לוֹ
+        שְׁנֵי אֲנָשִׁים הָיוּ בְּעִיר אֶחָת אֶחָד עָשִׁיר וְאֶחָד רָאשׁ׃ ‬
+      romana: 'Atunci a trimis Domnul pe Natan proorocul la David si a venit acela la
+        el si i-a zis: "Erau intr-o cetate doi oameni: unul bogat si altul
+        sarac.'
+      francais: "L'Éternel envoya Nathan vers David. Et Nathan vint à lui, et lui dit:
+        Il y avait dans une ville deux hommes, l'un riche et l'autre pauvre."
+      italian: "Il Signore mandò il profeta Natan a Davide e Natan andò da lui e gli
+        disse: \"Vi erano due uomini nella stessa città, uno ricco e l'altro
+        povero."
+      old_georgian: "და მოავლინა უფალმან ნათან წინაწარმეტყუელი დავითისა და ჰრქვა მას:
+        საშჯელსა ერთსა გკითხავ შენ. მითხარ მე: ორნი კაცნი იყუნეს ქალაქსა შინა.
+        ერთი იგი მდიდარი იყო და ერთი გლახაკი."
+      portuguese: "O Senhor, pois, enviou Natã a Davi. E, entrando ele a ter com Davi,
+        disse-lhe: Havia numa cidade dois homens,\rum rico e outro pobre."
+      polish: "Pan posłał do Dawida [proroka] Natana. Ten przybył do niego i
+        powiedział:\r”W pewnym mieście było dwóch ludzi, jeden był bogaczem, a
+        drugi biedakiem."
+      turkish: RAB Natan'ı Davut'a gönderdi. Natan Davut'un yanına gelince ona, «Bir
+        kentte biri zengin, öbürü yoksul iki adam vardı» dedi,
+      nrt: "Господь послал к Давиду Нафана. Он пришел к нему и сказал: – В одном
+        городе было два человека, один богатый, а другой бедный."
+      Macarius: "И послал Господь Нафана к Давиду, и он пришел к нему, и сказал ему:
+        два человека было в некотором городе, один богатый, а другой бедный."
+      serbian: "И посла Господ Натана к Давиду; и он дошав к њему рече му: У једном
+        граду бијаху два човјека, један богат а други сиромах."
+      bulgarian: "Господ прати Натана (пророка) при Давида, и той отиде при него и му
+        рече: в един град имаше двама човеци - единият богат, а другият
+        сиромах;"
+      deutsch: "Und der Herr sandte Nathan zu David. Da der zu ihm kam, sprach er zu
+        ihm: Es waren zwei Männer in einer Stadt, einer reich, der andere arm."
+      ukr2: "Господь послав пророка Натана до Давида, і він прийшов до нього та сказав
+        йому: “Було собі два чоловіки в однім місті, один багатий, а другий
+        убогий."
+      ukr3: "І послав Господь (пророка) Натана до Давида, й сей прийшов до його та й
+        сказав йому: Було собі два чоловіки в одному городї, багатий й вбогий;"
+      bel_syomukha: "І паслаў Гасподзь Натана прарока да Давіда, і той прыйшоў да яго
+        і сказаў яму: у адным горадзе былі два чалавекі, адзін багаты, а другі
+        бедны;"
+      lev-khv: "Тогда послал Господь к Давиду Нафана, который пришел к нему и сказал
+        ему: в одном городе были два человека, один богатый, а другой бедный."
+      czech: 'Hospodin poslal k Davidovi Natana. Ten k nemu prisel a rekl mu: "V
+        jednom meste byli dva muzi, jeden bohac a druhy chudak.'
+      spanish: "Yavé le envió el profeta Natán para decirle: <<Juzga este caso: Había
+        en una ciudad dos hombres, el uno rico y el otro pobre."
+      greek-lxx: καὶ ἀπέστειλεν Κύριος τὸν Ναθαν τὸν προφήτην πρὸς Δαυιδ καὶ εἰσῆλθεν
+        πρὸς αὐτὸν καὶ εἶπεν αὐτῷ δύο ἦσαν ἄνδρες ἐν πόλει μιᾷ εἷς πλούσιος καὶ
+        εἷς πένης
+      st_text: "И послал Господь Нафана [пророка] к Давиду, и тот пришел к нему и
+        сказал ему: в одном городе были два человека, один богатый, а другой
+        бедный;"
+  - id: 3881
+    number: 2
+    bookId: 10
+    text: у богатого было очень много мелкого и крупного скота,
+    chapter: 12
+    chapterId: 279
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и у богатаго стада бяху и буйволи мнози зело,
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 ў богaтагw стадA бsху и3 бyйволи мно1зи ѕэлw2,
+      sovr_rbo: У богатого было огромное множество скота, овец и коров,
+      latin: Dives habebat oves, et boves plurimos valde.
+      ukr: У заможного було дуже багато худоби дрібної та худоби великої.
+      nkjv: The rich man had exceedingly many flocks and herds.
+      desnitsky: У богача было множество всякого скота,
+      mt: ‫   לְעָשִׁיר הָיָה צֹאן וּבָקָר הַרְבֵּה מְאֹד׃ ‬
+      romana: Cel bogat avea foarte multe vite mari si marunte,
+      francais: Le riche avait des brebis et des boeufs en très grand nombre.
+      italian: Il ricco aveva bestiame minuto e grosso in gran numero;
+      old_georgian: და მდიდრისა მის იყო არვე მროწეული ფრიად.
+      portuguese: O rico tinha rebanhos e manadas em grande número;
+      polish: Bogacz miał owce i wielką liczbę bydła,
+      turkish: «Zengin adamın birçok koyunu, sığırı vardı.
+      nrt: У богача было очень много мелкого и крупного скота,
+      Macarius: У богатого было мелкого и крупного скота весьма много.
+      serbian: Богати имаше оваца и говеда врло много;
+      bulgarian: богатият имаше твърде много дребен и едър добитък,
+      deutsch: Der Reiche hatte sehr viele Schafe und Rinder;
+      ukr2: В багатого була превелика сила овець і корів,
+      ukr3: У багатого були вівцї й корови у великому множестві;
+      bel_syomukha: у багатага было вельмі многа дробнага і буйнога быдла,
+      lev-khv: У богатаго было весьма много овец и крупнаго скота.
+      czech: Bohac mel velmi mnoho bravu a skotu.
+      spanish: El rico tenía muchas ovejas y muchas vacas,
+      greek-lxx: καὶ τῷ πλουσίῳ ἦν ποίμνια καὶ βουκόλια πολλὰ σφόδρα
+      st_text: у богатого было очень много мелкого и крупного скота,
+  - id: 3882
+    number: 3
+    bookId: 10
+    text: а у бедного ничего, кроме одной овечки, которую он купил маленькую и
+      выкормил, и она выросла у него вместе с детьми его; от хлеба его она ела,
+      и из его чаши пила, и на груди у него спала, и была для него, как дочь;
+    chapter: 12
+    chapterId: 279
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "у убогаго же ничтоже бе, но токмо агница едина мала, юже стяжа и снабде,
+        и вскорми ю, и возрасте с ним и с сынами его вкупе: от хлеба его ядяше и
+        от чаши его пияше, и на лоне его почиваше, и бе ему яко дщерь:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "ў ўбо1гагw же ничто1же бЁ, но то1кмw ѓгница є3ди1на мaла, ю4же стzжA
+        и3 снабдЁ, и3 вскорми2 ю5, и3 возрасте2 съ ни1мъ и3 съ сынaми є3гw2
+        вкyпэ: t хлёба є3гw2 kдsше и3 t чaши є3гw2 піsше, и3 на ло1нэ є3гw2
+        почивaше, и3 бЁ є3мY ћкw дще1рь:"
+      sovr_rbo: а у бедного не было ничего, кроме одной-единственной овцы. Он ее
+        купил, выкормил, она росла вместе с его детьми, ела то же, что и он, из
+        чаши его пила, спала рядом с ним — была ему как дочь.
+      latin: "Pauper autem nihil habebat omnino, praeter ovem unam parvulam, quam
+        emerat et nutrierat, et quae creverat apud eum cum filiis ejus simul, de
+        pane illius comedens, et de calice ejus bibens, et in sinu illius
+        dormiens: eratque illi sicut filia."
+      ukr: А вбогий нічого не мав, окрім однієї малої овечки, яку він набув та
+        утримував при житті. І росла вона з ним та з синами його разом, із
+        кавалка хліба його їла й з Келіха його пила, та на лоні його лежала, і
+        була йому як дочка.
+      nkjv: But the poor man had nothing, except one little ewe lamb which he had
+        bought and nourished; and it grew up together with him and with his
+        children. It ate of his own food and drank from his own cup and lay in
+        his bosom; and it was like a daughter to him.
+      desnitsky: а у бедняка – только одна маленькая овечка, которую он приобрел и
+        вырастил. Она росла вместе с его детьми, ела из его рук, пила из его
+        чаши, спала на его груди и была ему как дочь.
+      mt: ‫   וְלָרָשׁ אֵין־כֹּל כִּי אִם־כִּבְשָׂה אַחַת קְטַנָּה אֲשֶׁר קָנָה
+        וַיְחַיֶּהָ וַתִּגְדַּל עִמּוֹ וְעִם־בָּנָיו יַחְדָּו מִפִּתּוֹ תֹאכַל
+        וּמִכֹּסוֹ תִשְׁתֶּה וּבְחֵיקוֹ תִשְׁכָּב וַתְּהִי־לוֹ כְּבַת׃ ‬
+      romana: Iar cel sarac n-avea decat o singura oita, pe care el o cumparase de
+        mica si o hranise si ea crescuse cu copiii lui. Din painea lui mancase
+        si ea si se adapase din ulcica lui, la sanul lui dormise si era pentru
+        el ca o fiica.
+      francais: Le pauvre n'avait rien du tout qu'une petite brebis, qu'il avait
+        achetée; il la nourrissait, et elle grandissait chez lui avec ses
+        enfants; elle mangeait de son pain, buvait dans sa coupe, dormait sur
+        son sein, et il la regardait comme sa fille.
+      italian: ma il povero non aveva nulla, se non una sola pecorella piccina che
+        egli aveva comprata e allevata; essa gli era cresciuta in casa insieme
+        con i figli, mangiando il pane di lui, bevendo alla sua coppa e dormendo
+        sul suo seno; era per lui come una figlia.
+      old_georgian: ხოლო გლახაკისა მის არა, გარნა ერთი ტარიგი მცირე, გაეზარდა იგი
+        შვილთა თჳსთა თანა, რომელი ტაბლისა მისისაგან ჭამდა და სასმელისა მისისაგან
+        სუმიდა და უბესა და მკერდსა მისსა ზედა განისუენებდა. და იყო იგი მისა,
+        ვითარცა ასული.
+      portuguese: "mas o pobre não tinha coisa alguma, senão uma pequena cordeira que
+        comprara e criara; ela crescera em\rcompanhia dele e de seus filhos; do
+        seu bocado comia, do seu copo bebia, e dormia em seu regaço; e ele a
+        tinha\rcomo filha."
+      polish: "biedak nie miał nic, prócz jednej małej owieczki, którą nabył. On ją
+        karmił\ri wyrosła przy nim wraz z jego dziećmi, jadła jego chleb i piła
+        z jego kubka,\rspała u jego boku i była dla niego jak córka."
+      turkish: Ama yoksul adamın satın alıp beslediği küçük bir dişi kuzudan başka bir
+        hayvanı yoktu. Kuzu adamın yanında, çocuklarıyla birlikte büyüdü. Adamın
+        yemeğinden yer, tasından içer, koynunda uyurdu. Yoksulun kızı gibiydi.
+      nrt: а у бедняка не было ничего, кроме одной маленькой овечки, которую он купил.
+        Он заботился о ней, и она выросла у него вместе с его детьми. Она ела из
+        его тарелки, пила из его чаши и даже спала у него на груди. Она была у
+        него, как дочь.
+      Macarius: У бедного же ничего не было, кроме одной маленькой овцы, которую он
+        купил и вскормил; и она выросла с ним и с детьми его вместе, от крох его
+        ела, и из чаши его пила, и на лоне его спала, и была у него как дочь.
+      serbian: А сиромах немаше ништа до једну малу овчицу, коју бјеше купио, и
+        храњаше је, те одрасте уза њ и уз дјецу његову, и јеђаше од његова
+        залогаја, и из његове чаше пијаше, и на крилу му спаваше, и бијаше му
+        као кћи.
+      bulgarian: а сиромахът нямаше нищо, освен една овчица, която беше купил малка и
+        отхранил, и тя беше пораснала при него заедно с децата му; тя ядеше от
+        хляба му, пиеше от чашата му, спеше на гърдите му и му беше като дъщеря;
+      deutsch: "aber der Arme hatte nichts denn ein einziges kleines Schäflein, das er
+        gekauft hatte. Und er nährte es, daß es groß ward bei ihm und bei seinen
+        Kindern zugleich: es aß von seinem Bissen und trank von seinem Becher
+        und schlief in seinem Schoß, und er hielt es wie eine Tochter."
+      ukr2: а в бідного не було нічого крім овечки, однісінької, маленької, що він її
+        купив і годував, і вона росла в нього разом з його дітьми. З його хліба
+        вона їла й з його чаші пила, спала на його лоні й була йому як дочка.
+      ukr3: В убогого ж не було нїчого, тільки одна ягничка, що він собі купив і
+        згодував, та що росла в його разом з його дїтьми; з його хлїба їла вона,
+        з його кубка пила, на його лонї спала й була йому, наче дочка.
+      bel_syomukha: а ў беднага нічога, апрача адной авечкі, якую ён купіў маленькую і
+        выкарміў, і яна вырасла ў яго разам зь дзецьмі ягонымі; хлеб ягоны яна
+        ела, і зь ягонай чашы піла, і на грудзях у яго спала, і была яму, як
+        дачка;
+      lev-khv: А у беднаго не было ничего, кроме одной маленькой овечки, которую он
+        купил, кормил и выростил при себе вместе с детьми своими; один кусок с
+        ним ела, из чаши его пила, на груди у него спала, и была для него, как
+        дочь.
+      czech: Chudak nemel nic nez jednu malou ovecku, kterou si koupil. Zivil ji,
+        rostla u neho spolu s jeho syny, jedla z jeho skyvy chleba a pila z jeho
+        poharu, spavala v jeho kline a on ji mel jako dceru.
+      spanish: y el pobre no tenía más que una sola ovejuela, que él había comprado y
+        criado, que con él y con sus hijos había crecido juntamente, comiendo de
+        su pan y bebiendo de su vaso y durmiendo en su seno, y era para él como
+        una hija.
+      greek-lxx: καὶ τῷ πένητι οὐδὲν ἀλλ᾿ ἢ ἀμνὰς μία μικρά ἣν ἐκτήσατο καὶ
+        περιεποιήσατο καὶ ἐξέθρεψεν αὐτήν καὶ ἡδρύνθη μετ᾿ αὐτοῦ καὶ μετὰ τῶν
+        υἱῶν αὐτοῦ ἐπὶ τὸ αὐτό ἐκ τοῦ ἄρτου αὐτοῦ ἤσθιεν καὶ ἐκ τοῦ ποτηρίου
+        αὐτοῦ ἔπινεν καὶ ἐν τῷ κόλπῳ αὐτοῦ ἐκάθευδεν καὶ ἦν αὐτῷ ὡς θυγάτηρ
+      st_text: а у бедного ничего, кроме одной овечки, которую он купил маленькую и
+        выкормил, и она выросла у него вместе с детьми его; от хлеба его она
+        ела, и из его чаши пила, и на груди у него спала, и была для него, как
+        дочь;
+  - id: 3883
+    number: 4
+    bookId: 10
+    text: и пришел к богатому человеку странник, и тот пожалел взять из своих овец
+      или волов, чтобы приготовить [обед] для странника, который пришел к нему,
+      а взял овечку бедняка и приготовил ее для человека, который пришел к нему.
+    chapter: 12
+    chapterId: 279
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и прииде некто с пути к мужу богатому, и не восхоте взяти от стад своих и
+        от буйволиц своих на сотворение обеда путнику пришедшу к нему: но взя
+        агницу убогаго, и уготова ю на обед мужу пришедшу к нему."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 пріи1де нёкто съ пути2 къ мyжу богaтому, и3 не восхотЁ взsти t
+        стaдъ свои1хъ и3 t бyйволицъ свои1хъ на сотворе1ніе њбёда пyтнику
+        прише1дшу къ немY: но взS ѓгницу ўбо1гагw, и3 ўгото1ва ю5 на њбёдъ мyжу
+        прише1дшу къ немY."
+      sovr_rbo: Пришел к богачу гость, и тот пожалел взять овцу или бычка из своих
+        стад, чтобы приготовить еду для путника. Он забрал овцу бедняка и сделал
+        угощение для своего гостя».
+      latin: Cum autem peregrinus quidam venisset ad divitem, parcens ille sumere de
+        ovibus et de bobus suis, ut exhiberet convivium peregrino illi qui
+        venerat ad se, tulit ovem viri pauperis, et praeparavit cibos homini qui
+        venerat ad se.
+      ukr: І прийшов до багатого чоловіка подорожній, та той жалував узяти з худоби
+        своєї дрібної чи з худоби своєї великої, щоб спорядити їжу для
+        подорожнього, що до нього прийшов, і він узяв овечку того вбогого
+        чоловіка, і спорядив її для чоловіка, що до нього прийшов...
+      nkjv: "And a traveler came to the rich man, who refused to take from his own
+        flock and from his own herd to prepare one for the wayfaring man who had
+        come to him; but he took the poor man's lamb and prepared it for the man
+        who had come to him.\" "
+      desnitsky: И вот пришел к богачу прохожий, но тот пожалел собственный скот на
+        угощение захожему гостю, а взял овечку бедняка и приготовил его для
+        того, кто к нему пришел».
+      mt: ‫   וַיָּבֹא הֵלֶךְ לְאִישׁ הֶעָשִׁיר וַיַּחְמֹל לָקַחַת מִצֹּאנוֹ
+        וּמִבְּקָרוֹ לַעֲשׂוֹת לָאֹרֵחַ הַבָּא־לוֹ וַיִּקַּח אֶת־כִּבְשַׂת
+        הָאִישׁ הָרָאשׁ וַיַּעֲשֶׂהָ לָאִישׁ הַבָּא אֵלָיו׃ ‬
+      romana: Dar iata ca a venit la bogat un calator, si gazda nu s-a indurat sa ia
+        din oile sale sau din vitele sale, ca sa gateasca cina pentru calatorul
+        care venise la el, ci a luat oita saracului si a gatit-o pe aceea pentru
+        omul care venise la el".
+      francais: Un voyageur arriva chez l'homme riche. Et le riche n'a pas voulu
+        toucher à ses brebis ou à ses boeufs, pour préparer un repas au voyageur
+        qui était venu chez lui; il a pris la brebis du pauvre, et l'a apprêtée
+        pour l'homme qui était venu chez lui.
+      italian: Un ospite di passaggio arrivò dall'uomo ric — co e questi, risparmiando
+        di prendere dal suo bestiame minuto e grosso, per preparare una vivanda
+        al viaggiatore che era capitato da lui portò via la pecora di quell'uomo
+        povero e ne preparò una vivanda per l'ospite venuto da lui".
+      old_georgian: დღესა ერთსა მდიდარსა მას მოუვიდა სტუმარი და არვისა მისისაგან
+        დიდისა არა მოუმზადა სერი, არამედ მოუღო ტარიგი გლახაკსა მას და დაუკლა
+        სტუმარსა მას თჳსსა და ზვარაკისა უფალი იგი მოკლა.
+      portuguese: "Chegou um viajante à casa do rico; e este, não querendo tomar das
+        suas ovelhas e do seu gado para guisar para\ro viajante que viera a ele,
+        tomou a cordeira do pobre e a preparou para o seu hóspede."
+      polish: "Raz przyszedł gość do bogacza, lecz jemu żal było brać coś z owiec i
+        własne\rgo bydła, czym mógłby posłużyć podróżnemu, który do niego
+        zawitał. Więc\rzabrał owieczkę owemu biednemu mężowi i tę przygotował
+        człowiekowi, co\rprzybył do niego”."
+      turkish: Derken, zengin adama bir yolcu uğradı. Adam gelen konuğa yemek
+        hazırlamak için kendi koyunlarından, sığırlarından birini almaya
+        kıyamadığından yoksulun kuzusunu alıp yolcuya yemek hazırladı.»
+      nrt: К богачу пришел путник, но богач пожалел взять что-либо из своих мелкого
+        или крупного скота, чтобы приготовить пищу для пришедшего к нему
+        путника. Вместо этого он взял овечку бедняка и приготовил ее для того,
+        кто пришел к нему.
+      Macarius: Пришел однажды прохожий к богатому оному человеку, и он пожалел взять
+        из мелкого и крупного своего, чтобы приготовить обед прохожему,
+        пришедшему к нему, но взял овцу у бедного сего человека и приготовил из
+        ней обед для пришедшего к нему.
+      serbian: А дође путник к богатоме човјеку, а њему би жао узети из својих оваца
+        или говеда да зготови путнику који дође к њему, него узе овцу онога
+        сиромаха, и зготови је човјеку који дође к њему.
+      bulgarian: при богатия човек дойде един странник; и нему се досвидя да вземе от
+        овците или от воловете си, за да сготви (обед) на странника, който бе
+        дошъл при него, а взе овчицата на сиромаха и сготви нея на човека, който
+        бе дошъл при него.
+      deutsch: Da aber zu dem reichen Mann ein Gast kam, schonte er zu nehmen von
+        seinen Schafen und Rindern, daß er dem Gast etwas zurichtete, der zu ihm
+        gekommen war, und nahm das Schaf des armen Mannes und richtete es zu dem
+        Mann, der zu ihm gekommen war.
+      ukr2: Якось прийшов хтось У гості до багатого чоловіка, та цей пожалував узяти
+        зо своїх власних овець і корів, щоб зготувати подорожньому, який прибув
+        до нього, і він забрав овечку в убогого чоловіка й зготував її
+        чоловікові, що прийшов до нього.”
+      ukr3: Аж ось якось прийшов хтось одвідати багатого чоловіка, та й сей пожалував
+        взяти з овечок або коров своїх, щоб наготовити гостеві, що прибув до
+        його, а взяв ягничку в убогого чоловіка та й зготовив її тому, що
+        одвідав його.
+      bel_syomukha: і прыйшоў да багатага чалавека дарожнік, і той пашкадаваў узяць са
+        сваіх авечак ці валоў, каб прыгатаваць дарожніку, які прыйшоў да яго, а
+        ўзяў авечку беднага і прыгатаваў яе чалавеку, які прыйшоў да яго.
+      lev-khv: Но пришел гость к богатому человеку, и этот пожалел взять из овец и
+        крупнаго скота чтó нибудь для приготовления гостю, который пришел к
+        нему, а взял овечку у беднаго человека и приготовил ее для человека,
+        пришедшаго в нему.
+      czech: Tu prisel k bohatemu muzi navstevnik. Jemu bylo lito vzit nejaky kus ze
+        sveho bravu ci skotu, aby jej pripravil poutnikovi, ktery k nemu prisel.
+        Vzal tedy ovecku toho chudeho muze a pripravil ji muzi, ktery k nemu
+        prisel."
+      spanish: Llegó un viajero a casa del rico, y éste, no queriendo tocar a sus
+        ovejas ni a sus bueyes para dar de comer al viajero que a su casa llegó,
+        tomó la ovejuela del pobre y se la aderezó al huésped>>.
+      greek-lxx: καὶ ἦλθεν πάροδος τῷ ἀνδρὶ τῷ πλουσίῳ καὶ ἐφείσατο λαβεῖν ἐκ τῶν
+        ποιμνίων αὐτοῦ καὶ ἐκ τῶν βουκολίων αὐτοῦ τοῦ ποιῆσαι τῷ ξένῳ ὁδοιπόρῳ
+        ἐλθόντι πρὸς αὐτὸν καὶ ἔλαβεν τὴν ἀμνάδα τοῦ πένητος καὶ ἐποίησεν αὐτὴν
+        τῷ ἀνδρὶ τῷ ἐλθόντι πρὸς αὐτόν
+      st_text: и пришел к богатому человеку странник, и тот пожалел взять из своих
+        овец или волов, чтобы приготовить [обед] для странника, который пришел к
+        нему, а взял овечку бедняка и приготовил ее для человека, который пришел
+        к нему.
+  - id: 3884
+    number: 5
+    bookId: 10
+    text: "Сильно разгневался Давид на этого человека и сказал Нафану: жив Господь!
+      достоин смерти человек, сделавший это;"
+    chapter: 12
+    chapterId: 279
+    parallels:
+      - verseId: 568
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 26
+        short: 1 Цар:26:16
+      - verseId: 33002
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 2
+        short: Рим:2:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И разгневася гневом зело давид на мужа (того), и рече давид к нафану: жив
+        Господь, яко сын смерти есть муж сотворивый сие:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# разгнёвасz гнёвомъ ѕэлw2 давjдъ на мyжа (того2), и3 рече2 давjдъ
+        къ наfaну: жи1въ гDь, ћкw сы1нъ сме1рти є4сть мyжъ сотвори1вый сіе2:"
+      sovr_rbo: "Давид разъярился: «Клянусь Господом, достоин смерти сотворивший
+        такое! — сказал он Нафану. —"
+      latin: "Iratus autem indignatione David adversus hominem illum nimis, dixit ad
+        Nathan: Vivit Dominus, quoniam filius mortis est vir qui fecit hoc."
+      ukr: "І сильно запалав Давидів гнів на того чоловіка, і він сказав до Натана: Як
+        живий Господь, вартий смерти той чоловік, що чинить таке."
+      nkjv: "So David's anger was greatly aroused against the man, and he said to
+        Nathan, \"As the Lord lives, the man who has done this shall surely die!
+        "
+      desnitsky: "Давид сильно разгневался на того человека и сказал Натану: «ГОСПОДОМ
+        клянусь, смерти достоин тот, кто так поступил!"
+      mt: ‫   וַיִּחַר־אַף דָּוִד בָּאִישׁ מְאֹד וַיֹּאמֶר אֶל־נָתָן חַי־יְהוָה כִּי
+        בֶן־מָוֶת הָאִישׁ הָעֹשֶׂה זֹאת׃ ‬
+      romana: 'Atunci s-a maniat David cumplit asupra acelui om si a zis catre Natan:
+        "Precum este adevarat ca Domnul este viu, tot asa este de adevarat ca
+        omul care a facut aceasta este vrednic de moarte;'
+      francais: "La colère de David s'enflamma violemment contre cet homme, et il dit
+        à Nathan: L'Éternel est vivant! L'homme qui a fait cela mérite la mort."
+      italian: "Allora l'ira di Davide si scatenò contro quel l'uomo e disse a Natan:
+        \"Per la vita del Signore, chi ha fatto questo merita la morte."
+      old_georgian: "ვითარცა ესმა ესე დავითს, განრისხნა ფრიად და ჰრქუა ნათანს: ცხოველ
+        არს უფალი! სიკუდილისა თანამდებ არს კაცი იგი, რომელმან ესე საქმე ჰყო."
+      portuguese: "Então a ira de Davi se acendeu em grande maneira contra aquele
+        homem; e disse a Natã: Vive o Senhor, que\rdigno de morte é o homem que
+        fez isso."
+      polish: "Dawid oburzył się bardzo na tego człowieka i powiedział do Natana:
+        ”Na\rżycie Pana, człowiek, który tego dokonał, jest winien śmierci."
+      turkish: Zengin adama çok öfkelenen Davut Natan'a, «Yaşayan RAB'bin adıyla derim
+        ki, bunu yapan ölümü hak etmiştir!» dedi,
+      nrt: "Сильно разгневался Давид на этого человека и сказал Нафану: – Верно, как и
+        то, что Господь жив, человек, который сделал это, заслуживает смерти!"
+      Macarius: "Давид воспылал сильным гневом на человека, и сказал Нафану: жив
+        Господь! повинен смерти человек, сделавший сие;"
+      serbian: "Тада се Давид врло разгњеви на онога човјека, и рече Натану: Тако жив
+        био Господ, заслужио је смрт онај који је то учинио."
+      bulgarian: "Давид се много разгневи против тоя човек и каза на Натана: жив ми
+        Господ! смърт заслужава оня човек, който е извършил това;"
+      deutsch: "Da ergrimmte David mit großem Zorn wider den Mann und sprach zu
+        Nathan: So wahr der Herr lebt, der Mann ist ein Kind des Todes, der das
+        getan hat!"
+      ukr2: "Тоді Давид скипів великим гнівом на того чоловіка й скрикнув до Натана:
+        “Як жив Господь! Чоловік, що зробив те заслужив смерть."
+      ukr3: "І закипів Давид гнївом на того чоловіка та й каже Натанові: Так певно, як
+        жив Господь, чоловік, що вкоїв таке, заслужив смерть;"
+      bel_syomukha: "Моцна ўгневаўся Давід на гэтага чалавека і сказаў Натану: жывы
+        Гасподзь! варты сьмерці чалавек, які зрабіў гэта;"
+      lev-khv: "Сильно разгневался Давид на такого человека, и сказал Нафану: жив
+        Господь: повинен смерти тот человек, который сделал это."
+      czech: 'David vzplanul proti tomu muzi naramnym hnevem. Rekl Natanovi: "Jakoze
+        ziv je Hospodin, muz, ktery tohle spachal, je synem smrti!'
+      spanish: "Encendido David fuertemente en cólera contra aquel hombre, dijo a
+        Natán: << ¡Vive Yavé, que el que tal hizo es digno de la muerte,"
+      greek-lxx: καὶ ἐθυμώθη ὀργῇ Δαυιδ σφόδρα τῷ ἀνδρί καὶ εἶπεν Δαυιδ πρὸς Ναθαν ζῇ
+        Κύριος ὅτι υἱὸς θανάτου ὁ ἀνὴρ ὁ ποιήσας τοῦτο
+      st_text: "Сильно разгневался Давид на этого человека и сказал Нафану: жив
+        Господь! достоин смерти человек, сделавший это;"
+  - id: 3885
+    number: 6
+    bookId: 10
+    text: и за овечку он должен заплатить вчетверо, за то, что он сделал это, и за
+      то, что не имел сострадания.
+    chapter: 12
+    chapterId: 279
+    parallels:
+      - verseId: 21630
+        bookId: 2
+        bookCode: ishod
+        chapter: 22
+        short: Исх:22:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и агницу возвратит седмерицею за сие, яко сотворил глагол сей, и за сие,
+        яко не пощаде.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 ѓгницу возврати1тъ седмери1цею за сіе2, ћкw сотвори1лъ глаго1лъ
+        се1й, и3 за сіе2, ћкw не пощадЁ.
+      sovr_rbo: За то что поступил без жалости, за овцу он должен заплатить вчетверо!»
+      latin: Ovem reddet in quadruplum, eo quod fecerit verbum istud, et non
+        pepercerit.
+      ukr: А овечку він оплатить чотирикротно, за те, що зробив таку річ, і за те, що
+        не змилосердився.
+      nkjv: And he shall restore fourfold for the lamb, because he did this thing and
+        because he had no pity."
+      desnitsky: А за овечку должен заплатить вчетверо, раз он поступил так безжалостно!»
+      mt: ‫   וְאֶת־הַכִּבְשָׂה יְשַׁלֵּם אַרְבַּעְתָּיִם עֵקֶב אֲשֶׁר עָשָׂה
+        אֶת־הַדָּבָר הַזֶּה וְעַל אֲשֶׁר לֹא־חָמָל׃ ‬
+      romana: Pentru oaie el trebuie sa intoarca impatrit, pentru ca a facut una ca
+        aceasta si pentru ca n-a avut mila".
+      francais: Et il rendra quatre brebis, pour avoir commis cette action et pour
+        avoir été sans pitié.
+      italian: Pagherà quattro volte il valore della pecora, per aver fatto una tal
+        cosa e non aver avuto pietà".
+      old_georgian: ტარიგი იგი შჳდ წილად ზღვად, რამეთუ ეგე საქმე ქმნა და არა შეიწყალა იგი!
+      portuguese: Pela cordeira restituirá o quádruplo, porque fez tal coisa, e não
+        teve compaixão.
+      polish: Nagrodzi on za owieczkę w czwórnasób, gdyż dopuścił się czynu bez
+        miłosierdzia”.
+      turkish: «Bunu yaptığı ve acımadığı için kuzuya karşılık dört katını ödemeli.»
+      nrt: Он должен заплатить за овечку четырехкратно, потому что он сделал это и не
+        имел сострадания.
+      Macarius: А за овцу должен он заплатить вчетверо, за то, что он сие сделал, и за
+        то, что не пожалел.
+      serbian: И овцу нека плати учетворо, што је то учинио и није му жао било.
+      bulgarian: и за овчицата той трябва да плати четворно, задето е извършил това и
+        задето е нямал милост.
+      deutsch: Dazu soll er vierfältig bezahlen, darum daß er solches getan hat und
+        nicht geschont hat.
+      ukr2: А за овечку поверне вчетверо за те, що вчинив таке й не мав співчуття.”
+      ukr3: А за ягничку мусить вернути вчетверо, за те що вчинив такий учинок і не
+        змилосердивсь!
+      bel_syomukha: і за авечку ён павінен заплаціць учацьвяра, за тое, што ён зрабіў
+        гэта, і за тое, што ня меў спагады.
+      lev-khv: И за овечку он должен заплатить вчетверо, за то, что он сделал такое
+        дело, и за то, что поступил без милосердия.
+      czech: A tu ovecku nahradi ctyrnasobne zato, ze neco takoveho spachal a nemel
+        soucitu."
+      spanish: y que ha de pagar la oveja por cuadruplicado, ya que hizo tal cosa sin
+        tener compasión!>>
+      greek-lxx: καὶ τὴν ἀμνάδα ἀποτείσει ἑπταπλασίονα ἀνθ᾿ ὧν ὅτι ἐποίησεν τὸ ῥῆμα
+        τοῦτο καὶ περὶ οὗ οὐκ ἐφείσατο
+      st_text: и за овечку он должен заплатить вчетверо, за то, что он сделал это, и
+        за то, что не имел сострадания.
+  - id: 3886
+    number: 7
+    bookId: 10
+    text: "И сказал Нафан Давиду: ты - тот человек, [который сделал это]. Так
+      говорит Господь Бог Израилев: Я помазал тебя в царя над Израилем и Я
+      избавил тебя от руки Саула,"
+    chapter: 12
+    chapterId: 279
+    parallels:
+      - verseId: 218
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 16
+        short: 1 Цар:16:13
+      - verseId: 7260
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 20
+        short: 3 Цар:20:40
+      - verseId: 2714
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 10
+        short: 1 Пар:10:14
+      - verseId: 2717
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 11
+        short: 1 Пар:11:3
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И рече нафан к давиду: ты еси муж сотворивый сие: сия глаголет Господь
+        Бог израилев: аз есмь помазавый тя в царя над израилем, и аз есмь
+        избавивый тя от руки сауловы:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 наfaнъ къ давjду: ты2 є3си2 мyжъ сотвори1вый сіе2: сі‰ гlетъ
+        гDь бг7ъ ї}левъ: ѓзъ є4смь помaзавый тS въ царS над8 ї}лемъ, и3 ѓзъ
+        є4смь и3збaвивый тS t руки2 саyловы:"
+      sovr_rbo: "Сказал Нафан Давиду: «Ты — этот человек! Так говорит Господь, Бог
+        Израиля: „Я поставил тебя царем над Израилем и спас тебя от Саула,"
+      latin: "Dixit autem Nathan ad David: Tu es ille vir. Haec dicit Dominus Deus
+        Israel: Ego unxi te in regem super Israel, et ego erui te de manu Saul,"
+      ukr: "І сказав Натан до Давида: Ти той чоловік! Так сказав Господь, Бог
+        Ізраїлів: Я помазав тебе над Ізраїлем, і Я спас тебе з Саулової руки."
+      nkjv: "Then Nathan said to David, \"You are the man! Thus says the Lord God of
+        Israel: 'I anointed you king over Israel, and I delivered you from the
+        hand of Saul. "
+      desnitsky: "И Натан сказал Давиду: «Да ведь это ты сам! Вот что говорит ГОСПОДЬ,
+        Бог Израилев: “Я помазал тебя в цари над Израилем, Я спас тебя от руки
+        Саула."
+      mt: ‫   וַיֹּאמֶר נָתָן אֶל־דָּוִד אַתָּה הָאִישׁ כֹּה־אָמַר יְהוָה אֱלֹהֵי
+        יִשְׂרָאֵל אָנֹכִי מְשַׁחְתִּיךָ לְמֶלֶךְ עַל־יִשְׂרָאֵל וְאָנֹכִי
+        הִצַּלְתִּיךָ מִיַּד שָׁאוּל׃ ‬
+      romana: 'Atunci Natan a zis catre David: "Tu esti omul care a facut aceasta. Asa
+        zice Domnul Dumnezeul lui Israel: Eu te-am uns rege pentru Israel si Eu
+        te-am izbavit din mana lui Saul,'
+      francais: "Et Nathan dit à David: Tu es cet homme-là! Ainsi parle l'Éternel, le
+        Dieu d'Israël: Je t'ai oint pour roi sur Israël, et je t'ai délivré de
+        la main de Saül;"
+      italian: "Allora Natan disse a Davide: \"Tu sei quell'uomo! Così dice il
+        Signore, Dio d'Israele: Io ti ho unto re d'Israele e ti ho liberato
+        dalle mani di Saul,"
+      old_georgian: "მიუგო ნათან დავითსა და ჰრქუა: შენ, თავადი ხარ, რომელმან ჰყავ ეგე!
+        აწ ამას იტყჳს უფალი ღმერთი ისრაჱლისა: მე გცხე შენ მეფედ ყოვლისა
+        ისრაჱლისა ზედა, გიჴსენ შენ ჴელისა საულისათა,"
+      portuguese: "Então disse Natã a Davi: Esse homem és tu! Assim diz o Senhor Deus
+        de Israel: Eu te ungi rei sobre Israel, livreite da mão de Saul,"
+      polish: "Natan oświadczył Dawidowi: ”Ty jesteś tym człowiekiem. To mówi Pan,
+        Bóg\rIzraela: Ja namaściłem cię na króla nad Izraelem. Ja uwolniłem cię
+        z rąk\rSaula."
+      turkish: Bunun üzerine Natan Davut'a, «O adam sensin!» dedi, «İsrail'in Tanrısı
+        RAB diyor ki, `Ben seni İsrail'e kral olarak meshettim ve Saul'un
+        elinden kurtardım.
+      nrt: "Тогда Нафан сказал Давиду: – Ты – тот человек! Вот что говорит Господь,
+        Бог Израиля: «Я помазал тебя царем над Израилем и избавил тебя от руки
+        Саула."
+      Macarius: "И сказал Нафан Давиду: этот человек — ты; так говорит Господь, Бог
+        Израилев: Я помазал тебя в царя над Израилем, и Я избавил тебя из руки
+        Саула."
+      serbian: "Тада рече Натан Давиду: Ти си тај. Овако вели Господ Бог Израиљев: Ја
+        сам те помазао за цара над Израиљем, и ја сам те избавио из руку
+        Сауловијех."
+      bulgarian: "Тогава Натан каза на Давида: ти си оня човек (който извърши това).
+        Тъй говори Господ, Бог Израилев: Аз те помазах за цар над Израиля,
+        избавих те от ръцете Саулови,"
+      deutsch: "Da sprach Nathan zu David: Du bist der Mann! So spricht der Herr, der
+        Gott Israels: Ich habe dich zum König gesalbt über Israel und habe dich
+        errettet aus der Hand Sauls,"
+      ukr2: "Тоді Натан промовив до Давида: “Ти - той чоловік! Так говорить Господь
+        Бог Ізраїля: Я тебе помазав царем над Ізраїлем, я тебе врятував з руки
+        Саула,"
+      ukr3: "І відказав Натан Давидові: Чоловік той - се ти сам! Тако глаголе Господь:
+        Я, Бог Ізрайлїв, помазав тебе царем над Ізраїлем і рятував тебе з рук у
+        Саула,"
+      bel_syomukha: "І сказаў Натан Давіду: ты - той чалавек, які зрабіў гэта. Так
+        кажа Гасподзь Бог Ізраілеў: Я памазаў цябе ў цара над Ізраілем і Я
+        выбавіў цябе ад рукі Саўла,"
+      lev-khv: "Тогда сказал Нафан Давиду: ты этот человек. Так говорит Господь, Бог
+        Израилев: Я помазал тебя царем над Израилем, и Я избавил тебя от руки
+        Саула,"
+      czech: 'Natan Davidovi odvetil: "Ten muz jsi ty! Toto pravi Hospodin, Buh
+        Izraele: Ja jsem te pomazal za krale nad Izraelem a ja jsem te vytrhl ze
+        Saulovych rukou.'
+      spanish: "Natán dijo entonces a David: << ¡Tú eres ese hombre! He aquí lo que
+        dice Yavé, Dios de Israel: Yo te ungí rey de Israel y te libré de las
+        manos de Saúl."
+      greek-lxx: καὶ εἶπεν Ναθαν πρὸς Δαυιδ σὺ εἶ ὁ ἀνὴρ ὁ ποιήσας τοῦτο τάδε λέγει
+        Κύριος ὁ Θεὸς Ισραηλ ἐγώ εἰμι ἔχρισά σε εἰς βασιλέα ἐπὶ Ισραηλ καὶ ἐγώ
+        εἰμι ἐρρυσάμην σε ἐκ χειρὸς Σαουλ
+      st_text: "И сказал Нафан Давиду: ты - тот человек, [который сделал это]. Так
+        говорит Господь Бог Израилев: Я помазал тебя в царя над Израилем и Я
+        избавил тебя от руки Саула,"
+  - id: 3887
+    number: 8
+    bookId: 10
+    text: и дал тебе дом господина твоего и жен господина твоего на лоно твое, и дал
+      тебе дом Израилев и Иудин, и, если этого [для тебя] мало, прибавил бы тебе
+      еще больше;
+    chapter: 12
+    chapterId: 279
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и дах ти дом господина твоего и жены господина твоего на лоно твое, и дах
+        ти дом израилев и иудин: и аще мало ти есть, приложу тебе к сим:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 дaхъ ти2 до1мъ господи1на твоегw2 и3 жєны2 господи1на твоегw2 на
+        ло1но твое2, и3 дaхъ ти2 до1мъ ї}левъ и3 їyдинъ: и3 ѓще мaло ти2 є4сть,
+        приложY тебЁ къ си6мъ:"
+      sovr_rbo: Я отдал тебе дом господина твоего и его жен, вручил тебе Израиль и
+        Иуду и добавил бы еще столько же, если тебе мало.
+      latin: "et dedi tibi domum domini tui, et uxores domini tui in sinu tuo, dedique
+        tibi domum Israel et Juda: et si parva sunt ista, adjiciam tibi multo
+        majora."
+      ukr: І дав тобі дім твого пана, та жінок пана твого на лоно твоє, і дав тобі дім
+        Ізраїля та Юди, а якщо цього мало, то додам тобі ще цього та того.
+      nkjv: "I gave you your master's house and your master's wives into your keeping,
+        and gave you the house of Israel and Judah. And if that had been too
+        little, I also would have given you much more! "
+      desnitsky: Я отдал тебе дом господина твоего, и жен господина твоего положил
+        тебе на грудь, и доверил весь дом Израилев и Иудин – мало ли это для
+        тебя? Если так, то и больше того бы Я дал!
+      mt: ‫   וָאֶתְּנָה לְךָ אֶת־בֵּית אֲדֹנֶיךָ וְאֶת־נְשֵׁי אֲדֹנֶיךָ בְּחֵיקֶךָ
+        וָאֶתְּנָה לְךָ אֶת־בֵּית יִשְׂרָאֵל וִיהוּדָה וְאִם־מְעָט וְאֹסִפָה
+        לְּךָ כָּהֵנָּה וְכָהֵנָּה׃ ‬
+      romana: Ti-am dat casa domnului tau si femeile domnului tau la sanul tau; ti-am
+        dat tie casa lui Israel si a lui Iuda si, daca aceasta este putin pentru
+        tine, ti-as mai adauga.
+      francais: je t'ai mis en possession de la maison de ton maître, j'ai placé dans
+        ton sein les femmes de ton maître, et je t'ai donné la maison d'Israël
+        et de Juda. Et si cela eût été peu, j'y aurais encore ajouté.
+      italian: ti ho dato la casa del tuo padrone e ho messo nelle tue braccia le
+        donne del tuo padrone, ti ho dato la casa di Israele e di Giuda e, se
+        questo fosse troppo poco, io vi avrei aggiunto anche altro.
+      old_georgian: და მიგეც შენ მონაგები უფლისა შენისა და მოგცენ ცოლნი მისნი უბეთა
+        შენთა, და ყოველნივე სახლნი ისრაჱლისა და იუდასი. და თუ ვეღარა-კმა
+        გეყოფოდა, შე-მცა-გძინე სხუაცა!
+      portuguese: "e te dei a casa de teu senhor, e as mulheres de teu senhor em teu
+        seio; também te dei a casa de Israel e de Judá.\rE se isso fosse pouco,
+        te acrescentaria outro tanto."
+      polish: "Dałem ci dom twojego pana, a żony twego pana na twoje łono, oddałem
+        ci\rdom Izraela i Judy, a gdyby i tego było za mało, dodałbym ci jeszcze
+        więcej."
+      turkish: Sana efendinin evini verdim, karılarını da koynuna verdim. İsrail ve
+        Yahuda halkını da sana verdim. Bu az gelseydi, sana daha neler neler
+        verirdim!
+      nrt: Я отдал тебе дом твоего господина и жен твоего господина отдал в твои
+        объятия. Я отдал тебе дом Израиля и Иуды. И если бы всего этого было
+        слишком мало, Я дал бы тебе еще больше.
+      Macarius: И отдал тебе дом господина твоего, и жен господина твоего на лоно
+        твое, и дал тебе дом Израилев и Иудин, и если мало, то Я прибавил бы
+        тебе то и то.
+      serbian: И дао сам ти дом господара твојега, и жене господара твојега на крило
+        твоје, дао сам ти дом Израиљев и Јудин; и ако је мало, додао бих ти то и
+        то.
+      bulgarian: дадох ти дома на твоя господар и жените на господаря ти в твое лоно,
+        дадох ти дома Израилев и Иудин и, ако това (ти) е малко, бих ти придал
+        още повече;
+      deutsch: und habe dir deines Herrn Haus gegeben, dazu seine Weiber in deinen
+        Schoß, und habe dir das Haus Israel und Juda gegeben; und ist das zu
+        wenig, will ich noch dies und das dazutun.
+      ukr2: дав тобі дім пана твого й жінок пана твого на твоє лоно, дав тобі дім
+        Ізраїля та Юди, а якщо б цього було ще замало, додав би ще того й цього.
+      ukr3: І передав тобі дом пана твого, й жени пана твого на твоє лоно, й передав
+        тобі дом Ізрайлїв і Юдин, а коли б сього було з тебе мало, я дав би тобі
+        ще й більш тим або сим робом.
+      bel_syomukha: і даў табе дом гаспадара твайго і жонак гаспадара твайго на
+        ўлоньне тваё, і даў табе дом Ізраілеў і Юдаў, і, калі гэтага мала, дадаў
+        бы табе яшчэ болей;
+      lev-khv: И дал тебе дом государя твоего и жен государя твоего на лоно твое; Я
+        дал тебе дом Израилев и Иудин и, если этого мало, Я прибавил бы тебе еще
+        и еще.
+      czech: Dal jsem ti dum tveho pana a do tve naruce zeny tveho pana, dal jsem ti
+        dum Izraeluv i Juduv, a kdyby ti to bylo malo, pridal bych ti mnohem
+        vic.
+      spanish: Yo te he dado la casa de tu señor, y he puesto en tu seno las mujeres
+        de tu señor, y te he dado la casa de Israel y de Judá; y, por si esto
+        fuera poco, te añadiría todavía otras cosas mucho mayores.
+      greek-lxx: καὶ ἔδωκά σοι τὸν οἶκον τοῦ κυρίου σου καὶ τὰς γυναῖκας τοῦ κυρίου
+        σου ἐν τῷ κόλπῳ σου καὶ ἔδωκά σοι τὸν οἶκον Ισραηλ καὶ Ιουδα καὶ εἰ
+        μικρόν ἐστιν προσθήσω σοι κατὰ ταῦτα
+      st_text: и дал тебе дом господина твоего и жен господина твоего на лоно твое, и
+        дал тебе дом Израилев и Иудин, и, если этого [для тебя] мало, прибавил
+        бы тебе еще больше;
+  - id: 3888
+    number: 9
+    bookId: 10
+    text: зачем же ты пренебрег слово Господа, сделав злое пред очами Его? Урию
+      Хеттеянина ты поразил мечом; жену его взял себе в жену, а его ты убил
+      мечом Аммонитян;
+    chapter: 12
+    chapterId: 279
+    parallels:
+      - verseId: 3856
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 11
+        short: 2 Цар:11:4
+      - verseId: 3867
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 11
+        short: 2 Цар:11:15
+      - verseId: 3869
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 11
+        short: 2 Цар:11:17
+      - verseId: 3876
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 11
+        short: 2 Цар:11:24
+      - verseId: 3879
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 11
+        short: 2 Цар:11:27
+      - verseId: 7020
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 15
+        short: 3 Цар:15:5
+      - verseId: 31873
+        bookId: 22
+        bookCode: psaltir
+        chapter: 50
+        short: Пс:50:16
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и что яко презрел еси слово Господне, еже сотворити лукавое пред очима
+        его? урию хеттеанина убил еси мечем, и жену его поял еси себе в жену, и
+        того убил еси мечем сынов аммоних:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 что2 ћкw презрёлъ є3си2 сло1во гDне, є4же сотвори1ти лукaвое пред8
+        nчи1ма є3гw2; ўрjю хетте1анина ўби1лъ є3си2 мече1мъ, и3 женY є3гw2 поsлъ
+        є3си2 себЁ въ женY, и3 того2 ўби1лъ є3си2 мече1мъ сынHвъ ґммHнихъ:"
+      sovr_rbo: Зачем же ты пренебрег словом Господа и сотворил дело, ненавистное Ему?
+        Урию-хетта ты послал на смерть, убил его руками аммонитян, а жену его
+        взял себе.
+      latin: Quare ergo contempsisti verbum Domini, ut faceres malum in conspectu meo?
+        Uriam Hethaeum percussisti gladio, et uxorem illius accepisti in uxorem
+        tibi, et interfecisti eum gladio filiorum Ammon.
+      ukr: І чому ти зневажив Господнє слово, і вчинив це зло в очах Його? Хіттеянина
+        Урію вбив ти мечем, а його дружину взяв собі за жінку. А його вбив мечем
+        Аммонових синів.
+      nkjv: Why have you despised the commandment of the Lord, to do evil in His
+        sight? You have killed Uriah the Hittite with the sword; you have taken
+        his wife to be your wife, and have killed him with the sword of the
+        people of Ammon.
+      desnitsky: Зачем же пренебрег ты словом ГОСПОДНИМ, творя такое зло в Его очах?
+        Урию-хетта ты сразил мечом, а жену его взял себе в жены – ты же убил его
+        руками аммонитян!
+      mt: ‫   מַדּוּעַ בָּזִיתָ אֶת־דְּבַר יְהוָה לַעֲשׂוֹת הָרַע *בעינו **בְּעֵינַי
+        אֵת אוּרִיָּה הַחִתִּי הִכִּיתָ בַחֶרֶב וְאֶת־אִשְׁתּוֹ לָקַחְתָּ לְּךָ
+        לְאִשָּׁה וְאֹתוֹ הָרַגְתָּ בְּחֶרֶב בְּנֵי עַמּוֹן׃ ‬
+      romana: Pentru ce insa ai nesocotit tu cuvantul Domnului, facand rau inaintea
+        ochilor Lui? Pe Urie Heteul tu l-ai lovit cu sabia, pe femeia lui ti-ai
+        luat-o de sotie, iar pe el l-ai ucis cu sabia Amonitilor.
+      francais: Pourquoi donc as-tu méprisé la parole de l'Éternel, en faisant ce qui
+        est mal à ses yeux? Tu as frappé de l'épée Urie, le Héthien; tu as pris
+        sa femme pour en faire ta femme, et lui, tu l'as tué par l'épée des fils
+        d'Ammon.
+      italian: Perché dunque hai disprezzato la parola del Signore, facendo ciò che è
+        male ai suoi occhi? Tu hai colpito di spada Uria l'Hittita, hai preso in
+        moglie la moglie sua e lo hai ucciso con la spada degli Ammoniti.
+      old_georgian: აწ რად შეურაცხ-ყავ შენ ბრძანებაჲ იგი უფლისა შენისა და ჰქმენ საქმე
+        ესე ბოროტი წინაშე მისსა? ურია ქეტელი მოჰკალ მახჳლითა ძეთა ამონისთაჲთა და
+        ცოლი მისი მოიყვანე ცოლად შენდა?
+      portuguese: "Por que desprezaste a palavra do Senhor, fazendo o mal diante de
+        seus olhos? A Urias, o heteu, mataste à\respada, e a sua mulher tomaste
+        para ser tua mulher; sim, a ele mataste com a espada dos amonitas."
+      polish: "Czemu zlekceważyłeś ”słowo” Pana, popełniając to, co złe w Jego
+        oczach?\rZabiłeś mieczem Chetytę Uriasza, a jego żonę wziąłeś sobie za
+        małżonkę.\rZamordowałeś go mieczem Ammonitów."
+      turkish: Öyleyse neden RAB'bin gözünde kötü olanı yaparak, onun sözünü
+        küçümsedin? Hititli Uriya'yı kılıçla öldürdün, Ammonlular'ın kılıcıyla
+        canına kıydın. Karısını da kendine eş olarak aldın.
+      nrt: Почему ты пренебрег словом Господа, сделав зло в Его глазах? Ты поразил
+        хетта Урию мечом и взял его жену себе в жены. Ты убил его мечом
+        аммонитян.
+      Macarius: Для чего же ты презрел слово Господне, делая злое пред очами Его? Урию
+        Хеттеянина ты убил мечем, и жену его взял себе в жену, а его убил мечем
+        сынов Аммоновых.
+      serbian: Зашто си презрео ријеч Господњу чинећи што њему није по вољи? Урију
+        Хетејина убио си мачем и узео си жену његову себи за жену, а њега си
+        убио мачем синова Амоновијех.
+      bulgarian: а ти защо пренебрегна словото на Господа, като извърши зло пред очите
+        Му? Урия хетееца порази с меч, жена му взе за своя жена, а него уби с
+        амонитски меч;
+      deutsch: Warum hast du denn das Wort des Herrn verachtet, daß du solches Übel
+        vor seinen Augen tatest? Uria, den Hethiter, hast du erschlagen mit dem
+        Schwert; sein Weib hast du dir zum Weib genommen; ihn aber hast du
+        erwürgt mit dem Schwert der Kinder Ammon.
+      ukr2: Чому ж ти так зневажив Господа і вчинив те, що є злом у його очах? Урію
+        хеттита вбив мечем, жінку його взяв собі за жінку, його ж ти вбив мечем
+        аммонійським.
+      ukr3: На що ж ти так змаловажив слово Господнє й вчинив те, що менї не до
+        вподоби? Гетїя Урію вбив єси мечем, а жену його взяв єси за жінку собі,
+        самого ж його вбив єси мечем Аммонїйським.
+      bel_syomukha: навошта ж ты занядбаў слова Госпада, зрабіўшы ліхое прад вачыма
+        Ягонымі? Урыю Хэтэяніна ты пабіў мечам; жонку ягоную ўзяў сабе за жонку,
+        а яго ты забіў мечам Аманіцянаў;
+      lev-khv: Зачем ты пренебрег слово Господне, совершив зло пред очами Его? Урию,
+        Хеттеянина, ты поразил мечем, и жену его взял себе женою. И как его убил
+        ты мечем Аммонитян,
+      czech: Proc jsi pohrdl Hospodinovym slovem a dopustil ses toho, co je v jeho
+        ocich zle? Chetejce Urijase jsi zabil mecem a jeho zenu sis vzal za
+        manzelku, zavrazdils ho mecem Amonovcu.
+      spanish: ¿Cómo, pues, menospreciando a Yavé, has hecho lo que es malo a sus
+        ojos? Has herido a espada a Urías, jeteo; tomaste por mujer a su mujer,
+        y a él le mataste con la espada de los hijos de Ammón.
+      greek-lxx: τί ὅτι ἐφαύλισας τὸν λόγον Κυρίου τοῦ ποιῆσαι τὸ πονηρὸν ἐν ὀφθαλμοῖς
+        αὐτοῦ τὸν Ουριαν τὸν Χετταῖον ἐπάταξας ἐν ῥομφαίᾳ καὶ τὴν γυναῖκα αὐτοῦ
+        ἔλαβες σεαυτῷ εἰς γυναῖκα καὶ αὐτὸν ἀπέκτεινας ἐν ῥομφαίᾳ υἱῶν Αμμων
+      st_text: зачем же ты пренебрег слово Господа, сделав злое пред очами Его? Урию
+        Хеттеянина ты поразил мечом; жену его взял себе в жену, а его ты убил
+        мечом Аммонитян;
+  - id: 3889
+    number: 10
+    bookId: 10
+    text: итак не отступит меч от дома твоего во веки, за то, что ты пренебрег Меня
+      и взял жену Урии Хеттеянина, чтоб она была тебе женою.
+    chapter: 12
+    chapterId: 279
+    parallels:
+      - verseId: 7282
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 21
+        short: 3 Цар:21:19
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и ныне не отступит мечь от дому твоего до века: зане уничижил мя еси и
+        поял еси жену урии хеттеанина в жену себе:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 нн7э не tстyпитъ ме1чь t до1му твоегw2 до вёка: зане2 ўничижи1лъ
+        мS є3си2 и3 поsлъ є3си2 женY ўрjи хетте1анина въ женY себЁ:"
+      sovr_rbo: И теперь вовек не отступит меч от твоего дома за то, что ты пренебрег
+        Мной и взял себе жену Урии-хетта”.
+      latin: Quam ob rem non recedet gladius de domo tua usque in sempiternum, eo quod
+        despexeris me, et tuleris uxorem Uriae Hethaei, ut esset uxor tua.
+      ukr: А тепер не відступить меч від твого дому аж навіки за те, що зневажив ти
+        Мене, і взяв дружину хіттеяника Урії, щоб була тобі за жінку.
+      nkjv: "Now therefore, the sword shall never depart from your house, because you
+        have despised Me, and have taken the wife of Uriah the Hittite to be
+        your wife.' "
+      desnitsky: Вовеки не отступит теперь меч от дома твоего за то, что ты пренебрег
+        Мной и взял себе жену Урии-хетта, чтобы она стала твоей женой.
+      mt: ‫   וְעַתָּה לֹא־תָסוּר חֶרֶב מִבֵּיתְךָ עַד־עוֹלָם עֵקֶב כִּי בְזִתָנִי
+        וַתִּקַּח אֶת־אֵשֶׁת אוּרִיָּה הַחִתִּי לִהְיוֹת לְךָ לְאִשָּׁה׃ ס ‬
+      romana: Deci nu se va departa sabia de deasupra casei tale in veac, pentru ca tu
+        M-ai nesocotit pe Mine si ai luat pe femeia lui Urie Heteul, ca sa-ti
+        fie nevasta.
+      francais: Maintenant, l'épée ne s'éloignera jamais de ta maison, parce que tu
+        m'as méprisé, et parce que tu as pris la femme d'Urie, le Héthien, pour
+        en faire ta femme.
+      italian: Ebbene, la spada non si allontanerà mai dalla tua casa, poiché tu mi
+        hai disprezzato e hai preso in moglie la moglie di Uria l'Hittita.
+      old_georgian: აწ ნუ განეშორებინ მახჳლი სახლსა შენსა უკუნისამდე ჟამთა ამისთჳს,
+        რამეთუ შენ შეურაცხ-მყავ მე და მოიყვანე შენ ცოლი ურია ქეტელისა ცოლ-ყოფად
+        შენდა!
+      portuguese: "Agora, pois, a espada jamais se apartará da tua casa, porquanto me
+        desprezaste, e tomaste a mulher de Urias, o\rheteu, para ser tua
+        mulher."
+      polish: "Dlatego właśnie miecz nie oddali się od domu twojego na wieki,
+        albowiem\rMnie zlekceważyłeś, a żonę Uriasza Chetyty wziąłeś sobie za
+        małżonkę."
+      turkish: Bundan böyle, kılıç senin soyundan sonsuza dek eksik olmayacak. Çünkü
+        beni küçümsedin ve Hititli Uriya'nın karısını kendine eş olarak aldın.'
+      nrt: Поэтому меч никогда не отступит от твоего дома, так как ты пренебрег Мной и
+        взял себе в жены жену хетта Урии».
+      Macarius: Итак не отступит меч от дома твоего вовек за то, что ты презрел Меня,
+        и взял жену Урии Хеттеянина, чтоб она была тебе женою.
+      serbian: Зато неће се одмаћи мач од дома твојега довијека што си ме презрео и
+        узео жену Урије Хетејина да ти буде жена.
+      bulgarian: затова мечът няма да отстъпи от твоя дом довека, понеже ти Ме
+        пренебрегна и взе жената на хетееца Урия, за да бъде твоя жена.
+      deutsch: Nun so soll von deinem Hause das Schwert nicht lassen ewiglich, darum
+        daß du mich verachtet hast und das Weib Urias, des Hethiters, genommen
+        hast, daß sie dein Weib sei.
+      ukr2: І тому тепер меч навіки не відійде від дому твого за те, що ти мене
+        зневажив і взяв жінку Урії хеттита, щоб була тобі за жінку.
+      ukr3: Оце ж не відойде на віки меч від дому твого за те, що зневажив єси мене й
+        одняв жену в Гетїя Урії, щоб вона була тобі жінкою.
+      bel_syomukha: дык вось, не адступіцца меч ад дома твайго вавекі, за тое, што ты
+        занядбаў Мяне і ўзяў жонку Урыі Хэтэяніна, каб яна была табе жонкаю.
+      lev-khv: То отныне не отступит меч от дома твоего во веки. И как ты уничижил
+        Меня и взял жену Урии, Хеттеянина, чтобы она была твоею женою;
+      czech: Nyni se uz nikdy nevyhne mec tvemu domu, protoze jsi mnou pohrdl a vzal
+        jsi Chetejci Urijasovi zenu, aby ti byla manzelkou.
+      spanish: Por eso no se apartará ya de tu casa la espada, por haberme
+        menospreciado, tomando por mujer a la mujer de Urías, jeteo.
+      greek-lxx: καὶ νῦν οὐκ ἀποστήσεται ῥομφαία ἐκ τοῦ οἴκου σου ἕως αἰῶνος ἀνθ᾿ ὧν
+        ὅτι ἐξουδένωσάς με καὶ ἔλαβες τὴν γυναῖκα τοῦ Ουριου τοῦ Χετταίου τοῦ
+        εἶναί σοι εἰς γυναῖκα
+      st_text: итак не отступит меч от дома твоего во веки, за то, что ты пренебрег
+        Меня и взял жену Урии Хеттеянина, чтоб она была тебе женою.
+  - id: 3890
+    number: 11
+    bookId: 10
+    text: "Так говорит Господь: вот, Я воздвигну на тебя зло из дома твоего, и
+      возьму жен твоих пред глазами твоими, и отдам ближнему твоему, и будет он
+      спать с женами твоими пред этим солнцем;"
+    chapter: 12
+    chapterId: 279
+    parallels:
+      - verseId: 36475
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 28
+        short: Втор:28:30
+      - verseId: 4041
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 16
+        short: 2 Цар:16:22
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "сия глаголет Господь: се, аз воздвигну на тя злая от дому твоего, и возму
+        жены твоя пред очима твоима и дам ближнему твоему, и будет спати со
+        женами твоими пред солнцем сим:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "сі‰ гlетъ гDь: се2, ѓзъ воздви1гну на тS ѕл†z t до1му твоегw2, и3
+        возмY жєны2 тво‰ пред8 nчи1ма твои1ма и3 дaмъ бли1жнему твоемY, и3
+        бyдетъ спaти со женaми твои1ми пред8 со1лнцемъ си1мъ:"
+      sovr_rbo: "Так говорит Господь: „Я сделаю так, что из дома твоего придет к тебе
+        беда. Своими глазами увидишь ты, как Я отберу у тебя жен и отдам их
+        другому, и он ляжет с ними среди бела дня."
+      latin: "Itaque haec dicit Dominus: Ecce ego suscitabo super te malum de domo
+        tua, et tollam uxores tuas in oculis tuis, et dabo proximo tuo, et
+        dormiet cum uxoribus tuis in oculis solis hujus."
+      ukr: "Так сказав Господь: Ось Я наведу на тебе зло з твого дому, і заберу жінок
+        твоїх на очах твоїх, і дам ближньому твоєму, а він покладеться з жінками
+        твоїми при світлі цього сонця."
+      nkjv: "Thus says the Lord: 'Behold, I will raise up adversity against you from
+        your own house; and I will take your wives before your eyes and give
+        them to your neighbor, and he shall lie with your wives in the sight of
+        this sun. "
+      desnitsky: "Так говорит ГОСПОДЬ: по воле Моей придет на тебя беда из твоего
+        собственного дома. У тебя на глазах возьму жен твоих и отдам другому,
+        чтобы лег он с твоими женами при свете этого солнца."
+      mt: ‫   כֹּה אָמַר יְהוָה הִנְנִי מֵקִים עָלֶיךָ רָעָה מִבֵּיתֶךָ וְלָקַחְתִּי
+        אֶת־נָשֶׁיךָ לְעֵינֶיךָ וְנָתַתִּי לְרֵעֶיךָ וְשָׁכַב עִם־נָשֶׁיךָ
+        לְעֵינֵי הַשֶּׁמֶשׁ הַזֹּאת׃ ‬
+      romana: "Asa zice Domnul: Iata Eu voi ridica asupra ta rau chiar din casa ta si
+        voi lua pe femeile tale inaintea ochilor tai si le voi da aproapelui tau
+        si se va culca acela cu femeile tale in vazul soarelui acestuia."
+      francais: "Ainsi parle l'Éternel: Voici, je vais faire sortir de ta maison le
+        malheur contre toi, et je vais prendre sous tes yeux tes propres femmes
+        pour les donner à un autre, qui couchera avec elles à la vue de ce
+        soleil."
+      italian: "Così dice il Signore: Ecco io sto per suscitare contro di te la
+        sventura dalla tua stessa casa; prenderò le tue mogli sotto i tuoi occhi
+        per darle a un tuo parente stretto, che si unirà a loro alla luce di
+        questo sole;"
+      old_georgian: "ამას იტყჳს უფალი: აჰა, ესერა, სახლით შენით აღვადგინო ძჳრი შენ
+        ზედა და ცოლნი შენნი წინაშე შენსა სხუასა მივსცნე მოყუასსა შენსა,
+        დაისუენოს მათ თანა ცხადად!"
+      portuguese: "Assim diz o Senhor: Eis que suscitarei da tua própria casa o mal
+        sobre ti, e tomarei tuas mulheres perante os\rteus olhos, e as darei a
+        teu próximo, o qual se deitará com tuas mulheres à luz deste sol."
+      polish: "To mówi Pan: Oto Ja wywiodę przeciwko tobie nieszczęście z własnego
+        twego\rdomu, żony zaś twoje zabiorę sprzed oczu twoich, a oddam je
+        twojemu współzawodnikowi, który będzie obcował z twoimi żonami - wobec
+        tego słońca."
+      turkish: Ammon kentlerinde uyguladı. Sonra bütün ordusuyla birlikte Yeruşalim'e
+        döndü.
+      nrt: "Так говорит Господь: «Я наведу на тебя беду из твоего же дома. У тебя на
+        глазах Я возьму твоих жен и отдам их твоему ближнему, и он будет спать с
+        твоими женами так, что все будут об этом знать."
+      Macarius: "Так говорит Господь: вот, Я воздвигну на тебя зло из дома твоего, и
+        возьму жен твоих в глазах твоих, и отдам ближнему твоему; и он будет
+        спать с женами твоими пред солнцем сим."
+      serbian: "Овако вели Господ: Ево, ја ћу подигнути на те зло из дома твојега, и
+        узећу жене твоје на твоје очи, и даћу их ближњему твојему, те ће спавати
+        са женама твојим на видику свакому."
+      bulgarian: "Тъй говори Господ: ето, Аз ще подигна против тебе зло от твоя дом,
+        ще взема твоите жени пред очите ти и ще ги дам на ближния ти, и той ще
+        спи с твоите жени под това слънце;"
+      deutsch: "So spricht der Herr: Siehe, ich will Unglück über dich erwecken aus
+        deinem eigenen Hause und will deine Weiber nehmen vor deinen Augen und
+        will sie deinem Nächsten geben, daß er bei deinen Weibern schlafen soll
+        an der lichten Sonne."
+      ukr2: "Так говорить Господь: З твого ж власного дому нашлю лихо на тебе; візьму
+        твоїх жінок з-перед твоїх очей і віддам їх ближньому твому, і він буде
+        спати з ними перед обличчям цього сонця."
+      ukr3: "Тако глаголе Господь: Нашлю лиху годину на тебе з твого таки дому й
+        відніму в тебе жен твоїх перед віччу в тебе та й передам їх иншому, щоб
+        він перед лицем оцього сонця пригортавсь до жінок твоїх;"
+      bel_syomukha: "Так кажа Гасподзь: вось, Я спараджу на цябе зло з дома твайго і
+        вазьму жонак тваіх перад вачыма тваімі і аддам блізкаму твайму, і будзе
+        ён спаць з жонкамі тваімі перад гэтым сонцам;"
+      lev-khv: "То так говорит Господь: вот, Я наведу на тебя бедствие из дома твоего,
+        и возьму жен твоих пред глазами твоими, и отдам сопернику твоему, и он
+        будет спать с женами твоими пред этим солнцем;"
+      czech: "Toto pravi Hospodin: Hle, ja zpusobim, aby proti tobe povstalo zlo z
+        tveho domu. Pred tvyma ocima vezmu tve zeny a dam je tomu, kdo je ti
+        blizky; ten bude s tvymi zenami spat za bileho dne."
+      spanish: "Así dice Yavé: Yo haré surgir el mal contra ti de tu misma casa, y
+        tomaré ante tus mismos ojos tus mujeres y se las daré a otro, que yacerá
+        con ellas a la cara misma de este sol;"
+      greek-lxx: τάδε λέγει Κύριος ἰδοὺ ἐγὼ ἐξεγείρω ἐπὶ σὲ κακὰ ἐκ τοῦ οἴκου σου καὶ
+        λήμψομαι τὰς γυναῖκάς σου κατ᾿ ὀφθαλμούς σου καὶ δώσω τῷ πλησίον σου καὶ
+        κοιμηθήσεται μετὰ τῶν γυναικῶν σου ἐναντίον τοῦ ἡλίου τούτου
+      st_text: "Так говорит Господь: вот, Я воздвигну на тебя зло из дома твоего, и
+        возьму жен твоих пред глазами твоими, и отдам ближнему твоему, и будет
+        он спать с женами твоими пред этим солнцем;"
+  - id: 3891
+    number: 12
+    bookId: 10
+    text: ты сделал тайно, а Я сделаю это пред всем Израилем и пред солнцем.
+    chapter: 12
+    chapterId: 279
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: яко ты сотворил еси втайне, аз же сотворю глагол сей пред всем израилем и
+        пред солнцем сим.
+      averincev: ""
+      ungerov: ""
+      csya_old: ћкw ты2 сотвори1лъ є3си2 втaйнэ, ѓзъ же сотворю2 гlго1лъ се1й пред8
+        всёмъ ї}лемъ и3 пред8 со1лнцемъ си1мъ.
+      sovr_rbo: Ты поступил тайно, а Я сотворю это перед всем Израилем при свете дня”».
+      latin: "Tu enim fecisti abscondite: ego autem faciam verbum istud in conspectu
+        omnis Israel, et in conspectu solis."
+      ukr: Хоч ти вчинив потаємно, а Я зроблю цю річ перед усім Ізраїлем та перед
+        сонцем.
+      nkjv: "For you did it secretly, but I will do this thing before all Israel,
+        before the sun.' \" "
+      desnitsky: Что сотворил ты втайне, то я сделаю на виду у всего Израиля, при
+        солнечном свете”».
+      mt: ‫   כִּי אַתָּה עָשִׂיתָ בַסָּתֶר וַאֲנִי אֶעֱשֶׂה אֶת־הַדָּבָר הַזֶּה נֶגֶד
+        כָּל־יִשְׂרָאֵל וְנֶגֶד הַשָּׁמֶשׁ׃ ס ‬
+      romana: Tu ai facut pe ascuns, iar Eu voi face aceasta inaintea a tot Israelul
+        si inaintea soarelui". "Am pacatuit inaintea Domnului", a zis David
+        catre Natan.
+      francais: Car tu as agi en secret; et moi, je ferai cela en présence de
+        tout  Israël et à la face du soleil.
+      italian: poiché tu l'hai fatto in segreto, ma io farò questo davanti a tutto
+        Israele e alla luce del sole".
+      old_georgian: შენ ეგრე ჰგონე, რამეთუ ფარულად ჰყავ. მე განცხადებულად ვყო წინაშე
+        ყოველთა ძეთა ისრაჱლისათა და წინაშე მზისა ამის!
+      portuguese: Pois tu o fizeste em oculto; mas eu farei este negócio perante todo
+        o Israel e à luz do sol.
+      polish: Uczyniłeś to wprawdzie w ukryciu, jednak Ja obwieszczę tę rzecz wobec
+        całego Izraela i wobec słońca”.
+      turkish: Evet, sen o işi gizlice yaptın, ama ben bunu bütün İsrail halkının gözü
+        önünde güpegündüz yapacağım!'»
+      nrt: Ты сделал это тайно, а Я сделаю это пред всем Израилем и пред солнцем».
+      Macarius: Ты сделал это тайно, а Я сделаю сие пред всем Израилем и пред солнцем
+        сим.
+      serbian: Јер ти си учинио тајно, али ћу ја ово учинити пред свијем Израиљем и
+        свакому на видику.
+      bulgarian: ти извърши това тайно, Аз пък ще го извърша пред цял Израил и по бял ден.
+      deutsch: Denn du hast es heimlich getan; ich aber will dies tun vor dem ganzen
+        Israel und an der Sonne.
+      ukr2: Ти потайки чинив це, а я зроблю це явним перед усім Ізраїлем, перед очима
+        сонця.”
+      ukr3: Бо хоч ти се вчинив потай, то я мою грізьбу справджу перед усїм Ізраїлем і
+        перед очима самого сонця!
+      bel_syomukha: ты зрабіў тайна, а Я зраблю перад усім Ізраілем і перад сонцам.
+      lev-khv: Ибо, хотя ты действовал скрытно, но Я совершу это дело пред всем
+        Израилем и пред солнцем.
+      czech: A ackoli tys to spachal tajne, ja tuto vec ucinim pred celym Izraelem, a
+        to za dne."
+      spanish: porque tú has obrado ocultamente, pero yo haré esto a la presencia de
+        todo Israel y a la cara del sol>>.
+      greek-lxx: ὅτι σὺ ἐποίησας κρυβῇ κἀγὼ ποιήσω τὸ ῥῆμα τοῦτο ἐναντίον παντὸς
+        Ισραηλ καὶ ἀπέναντι τούτου τοῦ ἡλίου
+      st_text: ты сделал тайно, а Я сделаю это пред всем Израилем и пред солнцем.
+  - id: 3892
+    number: 13
+    bookId: 10
+    text: "И сказал Давид Нафану: согрешил я пред Господом. И сказал Нафан Давиду: и
+      Господь снял с тебя грех твой; ты не умрешь;"
+    chapter: 12
+    chapterId: 279
+    parallels:
+      - verseId: 34563
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 47
+        short: Сир:47:13
+      - verseId: 1189
+        bookId: 59
+        bookCode: 1oe-poslanie-ap-ioanna
+        chapter: 1
+        short: 1 Ин:1:9
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И рече давид к нафану: согреших ко Господу. И рече нафан к давиду: и
+        Господь отъя согрешение твое, не умреши:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 давjдъ къ наfaну: согрэши1хъ ко гDу. И# рече2 наfaнъ къ
+        давjду: и3 гDь tS согрэше1ніе твое2, не ќмреши:"
+      sovr_rbo: «Я согрешил», — сказал Давид Нафану. «Господь загладил твой грех, ты
+        не умрешь! — ответил Нафан. —
+      latin: "Et dixit David ad Nathan: Peccavi Domino. Dixitque Nathan ad David:
+        Dominus quoque transtulit peccatum tuum: non morieris."
+      ukr: "І сказав Давид до Натана: Згрішив я перед Господом! А Натан сказав до
+        Давида: І Господь зняв твій гріх, не помреш!"
+      nkjv: So David said to Nathan, "I have sinned against the Lord." And Nathan said
+        to David, "The Lord also has put away your sin; you shall not die.
+      desnitsky: "Давид ответил Натану: «Согрешил я пред ГОСПОДОМ!» А Натан ему
+        сказал: «Да, но ГОСПОДЬ снял с тебя этот грех, ты не умрешь."
+      mt: ‫   וַיֹּאמֶר דָּוִד אֶל־נָתָן חָטָאתִי לַיהוָה ס וַיֹּאמֶר נָתָן אֶל־דָּוִד
+        גַּם־יְהוָה הֶעֱבִיר חַטָּאתְךָ לֹא תָמוּת׃ ‬
+      romana: '"Si Domnul a ridicat pacatul de deasupra ta, a zis Natan, si tu nu vei
+        muri.'
+      francais: "David dit à Nathan: J'ai péché contre l'Éternel! Et Nathan dit à
+        David: L'Éternel pardonne ton péché, tu ne mourras point."
+      italian: 'Allora Davide disse a Natan: "Ho peccato contro il Signore!". Natan
+        rispose a Davide: "Il Signore ha perdonato il tuo peccato; tu non
+        morirai.'
+      old_georgian: "მიუგო დავით ნათან წინაწარმეტყუელსა და ჰრქუა: ვცოდე წინაშე უფლისა!
+        მიუგო ნათან: და უფალმანცა მიგიტევნა ცოდვანი შენნი, რათა არა მოჰკუდე."
+      portuguese: "Então disse Davi a Natã: Pequei contra o Senhor. Tornou Natã a
+        Davi: Também o Senhor perdoou o teu pecado;\rnão morreras."
+      polish: "Dawid rzekł do Natana: ”Zgrzeszyłem wobec Pana”. Natan odrzekł
+        Dawidowi: ”Pan odpuszcza ci też twój grzech - nie umrzesz,"
+      turkish: "Davut, «RAB'be karşı günah işledim» dedi.\rNatan, «RAB günahını
+        bağışladı, ölmeyeceksin» diye karşılık verdi,"
+      nrt: "И Давид сказал Нафану: – Я согрешил перед Господом. Нафан ответил: –
+        Господь снял с тебя твой грех. Ты не умрешь."
+      Macarius: "И сказал Давид Нафану: согрешил я против Господа! И Нафан сказал
+        Давиду: да и Господь снимает грех с тебя; ты не умрешь."
+      serbian: "Тада рече Давид Натану: Сагријеших Господу. А Натан рече Давиду: И
+        Господ је пронио гријех твој; нећеш умријети."
+      bulgarian: "Тогава Давид каза на Натана: съгреших пред Господа. И Натан каза на
+        Давида: и Господ сне от тебе греха ти; ти няма да умреш;"
+      deutsch: "Da sprach David zu Nathan: Ich habe gesündigt wider den Herrn. Nathan
+        sprach zu David: So hat auch der Herr deine Sünde weggenommen; du wirst
+        nicht sterben."
+      ukr2: "І сказав Давид до Натана. Згрішив я проти Господа!” А Натан відповів
+        Давидові: “Та Господь прощає тобі гріх твій: ти не вмреш."
+      ukr3: "І промовив Давид Натанові: Провинив я Господеві гріхом. І відказав Натан
+        Давидові: Й Господь прощає тобі гріх твій, ти не вмреш."
+      bel_syomukha: "І сказаў Давід Натану: зграшыў я прад Госпадам. І казаў Натан
+        Давіду: і Гасподзь зьняў зь цябе грэх твой; ты не памрэш;"
+      lev-khv: "Тогда сказал Давид Нафану: согрешил я пред Господом. На это сказал
+        Нафан Давиду: потому и Господь отпускает грех твой: ты не умрешь."
+      czech: 'David Natanovi rekl: "Zhresil jsem proti Hospodinu." Natan Davidovi
+        pravil: "Tyz Hospodin tvuj hrich snal. Nezemres.'
+      spanish: "David dijo a Natán: <<He pecado contra Yavé>>. Y Natán dijo a David:
+        <<Yavé te ha perdonado tu pecado. No morirás;"
+      greek-lxx: καὶ εἶπεν Δαυιδ τῷ Ναθαν ἡμάρτηκα τῷ Κυρίῳ καὶ εἶπεν Ναθαν πρὸς Δαυιδ
+        καὶ Κύριος παρεβίβασεν τὸ ἁμάρτημά σου οὐ μὴ ἀποθάνῃς
+      st_text: "И сказал Давид Нафану: согрешил я пред Господом. И сказал Нафан
+        Давиду: и Господь снял с тебя грех твой; ты не умрешь;"
+  - id: 3893
+    number: 14
+    bookId: 10
+    text: но как ты этим делом подал повод врагам Господа хулить Его, то умрет
+      родившийся у тебя сын.
+    chapter: 12
+    chapterId: 279
+    parallels:
+      - verseId: 20920
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 52
+        short: Ис:52:5
+      - verseId: 17423
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 36
+        short: Иез:36:20
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: обаче яко поощряя изострил еси врагов Господних глаголом сим, и сын твой
+        родивыйся тебе смертию умрет.
+      averincev: ""
+      ungerov: ""
+      csya_old: nбaче ћкw поwщрsz и3з8wстри1лъ є3си2 врагHвъ гDнихъ глаго1ломъ си1мъ,
+        и3 сы1нъ тво1й роди1выйсz тебЁ сме1ртію ќмретъ.
+      sovr_rbo: Но сын, который родился у тебя, он умрет, потому что ты пренебрег
+        Господом».
+      latin: Verumtamen, quoniam blasphemare fecisti inimicos Domini, propter verbum
+        hoc, filius, qui natus est tibi, morte morietur.
+      ukr: Та що ти спонукав зневаження Господа цією річчю, то син твій, народжений
+        тобі, конче помре.
+      nkjv: However, because by this deed you have given great occasion to the enemies
+        of the Lord to blaspheme, the child also who is born to you shall surely
+        die."
+      desnitsky: Но раз ты такими поступками подал повода врагам ГОСПОДНИМ Его хулить,
+        твоего новорожденного сына ждет смерть».
+      mt: ‫   אֶפֶס כִּי־נִאֵץ נִאַצְתָּ אֶת־אֹיְבֵי יְהוָה בַּדָּבָר הַזֶּה גַּם
+        הַבֵּן הַיִּלּוֹד לְךָ מוֹת יָמוּת׃ ‬
+      romana: Dar fiindca tu prin aceasta fapta ai dat vrajmasilor Domnului pricina
+        sa-L huleasca, de aceea va muri fiul ce ti se va naste".
+      francais: Mais, parce que tu as fait blasphémer les ennemis de l'Éternel, en
+        commettant cette action, le fils qui t'est né mourra.
+      italian: Tuttavia, poiché in questa cosa tu hai insultato il Signore (l'insulto
+        sia sui nemici suoi), il figlio che ti è nato dovrà morire". Natan tornò
+        a casa.
+      old_georgian: ხოლო აწ, რამეთუ განარისხე უფალი, ღმერთი შენი, და განაღჳძენ მტერნი
+        შენნი შენ ზედა საქმითა ამით, შვილი იგი, რომელ შობად არს მისგან,
+        სიკუდილით მოკუედინ!
+      portuguese: "Todavia, porquanto com este feito deste lugar a que os inimigos do
+        Senhor blasfemem, o filho que te nasceu\rcertamente morrerá."
+      polish: "lecz dlatego, że przez ten czyn odważyłeś się wzgardzić Panem, syn,
+        który ci\rsię urodzi, na pewno umrze”."
+      turkish: «Ama sen bunu yapmakla, RAB'bin düşmanlarının O'nu küçümsemesine neden
+        oldun. Bu yüzden doğan çocuğun kesinlikle ölecek.»
+      nrt: Но так как, сделав это, ты показал совершенное презрение Господу, сын,
+        который у тебя родится, умрет.
+      Macarius: Только поелику ты делом сим врагам Господним подал повод к злословию,
+        то сын, родившийся тебе, умрет.
+      serbian: Али што си тијем дјелом дао прилику непријатељима Господњим да хуле,
+        зато ће ти умријети син који ти се родио.
+      bulgarian: но понеже с това ти даде повод на враговете Господни да Го хулят, то
+        родилият ти се син ще умре.
+      deutsch: Aber weil du die Feinde des Herrn hast durch diese Geschichte lästern
+        gemacht, wird der Sohn, der dir geboren ist, des Todes sterben.
+      ukr2: Тільки ж за те, що ти таким учинком тяжко образив Господа, дитина, що в
+        тебе народилась, напевно вмре.”
+      ukr3: А що ти тим учинком подав ворогам Господнїм привід, його хулити, так син
+        твій, що тобі народивсь, мусить умерти.
+      bel_syomukha: але як што ты гэтым учынкам даў прычыну ворагам Госпада няславіць
+        Яго, дык памрэ сын, які народзіцца ў цябе.
+      lev-khv: Но как ты этим поступком дал врагам Господа повод к соблазну; то сын,
+        родившийся у тебя, непременно умрет.
+      czech: Ponevadz jsi vsak touto veci zavinil, aby nepratele Hospodina
+        znevazovali, syn, ktery se ti narodi, musi zemrit."
+      spanish: mas por haber hecho con esto que menospreciasen a Yavé sus enemigos, el
+        hijo que te ha nacido morirá>>.
+      greek-lxx: πλὴν ὅτι παροξύνων παρώξυνας τοὺς ἐχθροὺς Κυρίου ἐν τῷ ῥήματι τούτῳ
+        καί γε ὁ υἱός σου ὁ τεχθείς σοι θανάτῳ ἀποθανεῖται
+      st_text: но как ты этим делом подал повод врагам Господа хулить Его, то умрет
+        родившийся у тебя сын.
+  - id: 3894
+    number: 15
+    bookId: 10
+    text: И пошел Нафан в дом свой. И поразил Господь дитя, которое родила жена Урии
+      Давиду, и оно заболело.
+    chapter: 12
+    chapterId: 279
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И отъиде нафан в дом свой. И сокруши Господь детище, еже роди жена уриина
+        давиду, и разболеся.
+      averincev: ""
+      ungerov: ""
+      csya_old: И# tи1де наfaнъ въ до1мъ сво1й. И# сокруши2 гDь дётище, є4же роди2
+        женA ўрjина давjду, и3 разболёсz.
+      sovr_rbo: Нафан пошел домой, и Господь поразил болезнью ребенка, которого родила
+        Давиду жена Урии.
+      latin: Et reversus est Nathan in domum suam. Percussit quoque Dominus parvulum,
+        quem pepererat uxor Uriae David, et desperatus est.
+      ukr: І пішов Натан до свого дому, а Господь уразив дитя, що Давидові породила
+        Урієва жінка, і воно захворіло.
+      nkjv: "Then Nathan departed to his house. And the Lord struck the child that
+        Uriah's wife bore to David, and it became ill. "
+      desnitsky: Натан отправился к себе домой, и ГОСПОДЬ поразил ребенка, которого
+        родила Давиду жена Урии, так что он заболел.
+      mt: ‫   וַיֵּלֶךְ נָתָן אֶל־בֵּיתוֹ וַיִּגֹּף יְהוָה אֶת־הַיֶּלֶד אֲשֶׁר יָלְדָה
+        אֵשֶׁת־אוּרִיָּה לְדָוִד וַיֵּאָנַשׁ׃ ‬
+      romana: Apoi s-a dus Natan la casa sa, iar Domnul a lovit copilul pe care i-l
+        nascuse lui David femeia lui Urie si acela s-a imbolnavit.
+      francais: Et Nathan s'en alla dans sa maison. L'Éternel frappa l'enfant que la
+        femme d'Urie avait enfanté à David, et il fut dangereusement malade.
+      italian: Il Signore dunque colpì il bambino che la moglie di Uria aveva
+        partorito a Davide ed esso si ammalò gravemente.
+      old_georgian: და ვითარცა წართქუნა ნათან სიტყუანი ესე, წარვიდა სახიდ თჳსად და
+        დასცა უფალმან ყრმა იგი, რომელ უშვა ცოლმან ურიისამან დავითს, და
+        დასნეულდა.
+      portuguese: "Então Natã foi para sua casa. Depois o Senhor feriu a criança que a
+        mulher de Urias dera a Davi, de sorte que\radoeceu gravemente."
+      polish: "Natan udał się potem do swego domu. Pan dotknął dziecko, które
+        urodziła\rDawidowi żona Uriasza, tak iż ciężko zachorowało."
+      turkish: "Bundan sonra Natan evine döndü.\rRAB Uriya'nın karısının Davut'tan
+        doğan çocuğunun hastalanmasına neden oldu."
+      nrt: После этого Нафан ушел к себе домой. Господь поразил ребенка, которого жена
+        Урии родила Давиду, и он заболел.
+      Macarius: И пошел Нафан в дом свой. И поразил Господь младенца, которого родила
+        жена Уриина Давиду, и он заболел.
+      serbian: Потом Натан отиде својој кући. А Господ удари дијете које роди жена
+        Уријина Давиду, те се разбоље на смрт.
+      bulgarian: Натан отиде у дома си. И Господ порази детето, което бе родила на
+        Давида Уриевата жена, и то се разболя.
+      deutsch: Und Nathan ging heim. Und der Herr schlug das Kind, das Urias Weib
+        David geboren hatte, daß es todkrank ward.
+      ukr2: І Натан пішов додому. Господь же вразив дитину, що вродила Давидові жінка
+        Урії, і вона тяжко захворіла.
+      ukr3: І пійшов собі Натан додому. Господь же вдарив дитину, що її вродила
+        Давидові жінка Уріїна, так що воно занедужало.
+      bel_syomukha: І пайшоў Натан у дом свой. І ўразіў Гасподзь дзіця, якое нарадзіла
+        жонка Урыі Давіду, і яно захварэла.
+      lev-khv: Затем Нафан пошел в дом свой; и Господь поразил дитя, которое родила
+        Давиду жена Уриина, и оно тяжко заболело.
+      czech: Natan pak odesel do sveho domu. I zasahl Hospodin dite, ktere Davidovi
+        porodila Urijasova zena, takze tezce onemocnelo.
+      spanish: Y Natán se fue a su casa. Hirió Yavé al niño que había dado a luz la
+        mujer de Urías, que enfermó gravemente.
+      greek-lxx: καὶ ἀπῆλθεν Ναθαν εἰς τὸν οἶκον αὐτοῦ καὶ ἔθραυσεν Κύριος τὸ παιδίον
+        ὃ ἔτεκεν ἡ γυνὴ Ουριου τῷ Δαυιδ καὶ ἠρρώστησεν
+      st_text: И пошел Нафан в дом свой. И поразил Господь дитя, которое родила жена
+        Урии Давиду, и оно заболело.
+  - id: 3895
+    number: 16
+    bookId: 10
+    text: И молился Давид Богу о младенце, и постился Давид, и, уединившись провел
+      ночь, лежа на земле.
+    chapter: 12
+    chapterId: 279
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И взыска давид Бога о детищи, и постися давид постом, и вниде и
+        водворися, и лежаше на земли:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# взыскA давjдъ бг7а њ дётищи, и3 пости1сz давjдъ посто1мъ, и3
+        вни1де и3 водвори1сz, и3 лежaше на земли2:"
+      sovr_rbo: Давид стал молиться о младенце, постился, ходил одетый в дерюгу и спал
+        прямо на земле.
+      latin: "Deprecatusque est David Dominum pro parvulo: et jejunavit David jejunio,
+        et ingressus seorsum, jacuit super terram."
+      ukr: А Давид молив Бога за дитинку, і постив Давид, і входив до кімнати, і
+        ночував, поклавшись на землю.
+      nkjv: David therefore pleaded with God for the child, and David fasted and went
+        in and lay all night on the ground.
+      desnitsky: Давид обратился к ГОСПОДУ с мольбой о мальчике, и строго постился, и,
+        войдя к себе, провел ночь, лежа на земле.
+      mt: ‫   וַיְבַקֵּשׁ דָּוִד אֶת־הָאֱלֹהִים בְּעַד הַנָּעַר וַיָּצָם דָּוִד צוֹם
+        וּבָא וְלָן וְשָׁכַב אָרְצָה׃ ‬
+      romana: Si s-a rugat David Domnului pentru copil, a postit si, ducandu-se
+        deoparte, a petrecut noaptea intins pe pamant.
+      francais: David pria Dieu pour l'enfant, et jeûna; et quand il rentra, il passa
+        la nuit couché par terre.
+      italian: Davide allora fece suppliche a Dio per il bambino e digiunò e
+        rientrando passava la notte coricato per terra.
+      old_georgian: და ილოცვიდა დავით ღმრთისა მიმართ ყრმისა მისთჳს და იმარხჳდა
+        მარხვასა და იდვა ქუეყანასა ზედა.
+      portuguese: "Davi, pois, buscou a Deus pela criança, e observou rigoroso jejum
+        e, recolhendo-se, passava a noite toda\rprostrado sobre a terra."
+      polish: "Dawid błagał Boga za chłopcem i zachowywał surowy post, a wróciwszy
+        do\rsiebie, całą noc leżał na ziemi."
+      turkish: Davut çocuk için Tanrı'ya yalvarıp oruç tuttu; evine gidip gecelerini
+        yerde yatarak geçirdi.
+      nrt: Давид молился Богу о ребенке. Он постился и проводил ночи в своей комнате
+        лежа на земле.
+      Macarius: И прибегнул Давид к Богу, молясь о младенце, и постился Давид; и
+        удалился и провел ночь, лежа на земле.
+      serbian: И Давид се мољаше Богу за дијете, и пошћаше се Давид, и дошавши лежаше
+        преко ноћи на земљи.
+      bulgarian: И Давид се моли Богу за детето, пости Давид и усамотен прекара нощта,
+        легнал на земята.
+      deutsch: Und David suchte Gott um des Knäbleins willen und fastete und ging
+        hinein und lag über Nacht auf der Erde.
+      ukr2: Давид благав Бога заради хлопця, постив, ходив у волосяниці, вночі ж лежав
+        на долівці.
+      ukr3: І моливсь Давид Богу задля хлопятка, й постив, і на самотї лежав цїлу ніч
+        долї.
+      bel_syomukha: І маліўся Давід Богу за дзіця, і пасьціўся Давід, і адасобіўшыся
+        правёў ноч, лежачы на зямлі.
+      lev-khv: И молился Давид Богу о дитяти, и строго постился Давид, и стал
+        проводить ночи, лежа на земле.
+      czech: David kvuli chlapci hledal Boha a tvrde se postil, pak sel domu a lezel
+        pres noc na zemi.
+      spanish: Entonces rogó David a Dios por el niño y ayunó y se recogió, pasando
+        las noches acostado en tierra.
+      greek-lxx: καὶ ἐζήτησεν Δαυιδ τὸν Θεὸν περὶ τοῦ παιδαρίου καὶ ἐνήστευσεν Δαυιδ
+        νηστείαν καὶ εἰσῆλθεν καὶ ηὐλίσθη ἐν σάκκῳ ἐπὶ τῆς γῆς
+      st_text: И молился Давид Богу о младенце, и постился Давид, и, уединившись
+        провел ночь, лежа на земле.
+  - id: 3896
+    number: 17
+    bookId: 10
+    text: И вошли к нему старейшины дома его, чтобы поднять его с земли; но он не
+      хотел, и не ел с ними хлеба.
+    chapter: 12
+    chapterId: 279
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и внидоша к нему старейшины дому его воздвигнути его от земли, и не
+        восхоте, и не яде с ними хлеба.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 внидо1ша къ немY старBйшины до1му є3гw2 воздви1гнути є3го2 t
+        земли2, и3 не восхотЁ, и3 не kде2 съ ни1ми хлёба.
+      sovr_rbo: К нему приходили сановники и пытались поднять его на ноги, но он
+        отказывался вставать и есть вместе с ними.
+      latin: Venerunt autem seniores domus ejus, cogentes eum ut surgeret de terra.
+        Qui noluit, nec comedit cum eis cibum.
+      ukr: І прийшли старші його дому до нього, щоб підняти його з землі, та він не
+        хотів, і не підкріпився з ними хлібом.
+      nkjv: So the elders of his house arose and went to him, to raise him up from the
+        ground. But he would not, nor did he eat food with them.
+      desnitsky: К нему вошли старшие в его роду, чтобы его поднять, но он не захотел,
+        и не стал вкушать пищи.
+      mt: ‫   וַיָּקֻמוּ זִקְנֵי בֵיתוֹ עָלָיו לַהֲקִימוֹ מִן־הָאָרֶץ וְלֹא אָבָה
+        וְלֹא־בָרָא אִתָּם לָחֶם׃ ‬
+      romana: Atunci au intrat la el batranii casei lui ca sa-l ridice de la pamant,
+        dar el n-i voit si nici n-a mancat paine cu ei.
+      francais: Les anciens de sa maison insistèrent auprès de lui pour le faire lever
+        de terre; mais il ne voulut point, et il ne mangea rien avec eux.
+      italian: Gli anziani della sua casa insistevano presso di lui perché si alzasse
+        da terra; ma egli non volle e rifiutò di prendere cibo con loro.
+      old_georgian: და შევიდეს მისსა მოხუცებულნი ერისანი და აიძულებდეს აღდგომად და
+        ჭამად რასმე, და არა აღდგა მიწისაგან, არცა ჭამა და არცა სვა.
+      portuguese: "Então os anciãos da sua casa se puseram ao lado dele para o fazerem
+        levantar-se da terra; porém ele não quis,\rnem comeu com eles."
+      polish: "Dostojnicy jego domu, podszedłszy do niego, chcieli podźwignąć go z
+        ziemi:\rbronił się jednak; w ogóle z nimi nie jadał."
+      turkish: Sarayın ileri gelenleri onu yerden kaldırmaya geldiler. Ama Davut
+        kalkmak istemedi, onlarla yemek de yemedi.
+      nrt: Старейшины его дома стояли рядом с ним, пытаясь поднять его с земли, но он
+        отказывался и не ел с ними никакой пищи.
+      Macarius: Старейшины дома его подошли к нему, чтобы поднять его с земли, но он
+        не хотел, и не ел с ними хлеба.
+      serbian: И старјешине дома његова усташе око њега да га подигну са земље, али он
+        не хтје, нити једе што с њима.
+      bulgarian: И влязоха при него старейшините на дома му, да го вдигнат от земята;
+        но той не рачи' и не яде хляб с тях.
+      deutsch: Da standen auf die Ältesten seines Hauses und wollten ihn aufrichten
+        von der Erde; er wollte aber nicht und aß auch nicht mit ihnen.
+      ukr2: Старші в палаці робили все, щоб підняти його з землі, та він не хотів і не
+        їв нічого з ними.
+      ukr3: І ввійшли старші з дворян до його, благати його, щоб устав із землї, та
+        він затявсь і не їв нїчого з ними.
+      bel_syomukha: І ўвайшлі да яго старэйшыны дома ягонага, каб падняць яго зь
+        зямлі; але ён не хацеў, і ня еў зь імі хлеба.
+      lev-khv: И собрались к нему старшие из домашних его, чтобы поднять его с земли;
+        но он не хотел <i>встать</i> и не ел с ними хлеба.
+      czech: Starsi jeho domu k nemu pristoupili, aby ho zvedli ze zeme, on vsak
+        nechtel, ba ani s nimi chleb nepojedl.
+      spanish: Los ancianos de su casa fueron a él para hacer que se levantase de la
+        tierra, mas él no quiso, y ni comía con ellos.
+      greek-lxx: καὶ ἀνέστησαν ἐπ᾿ αὐτὸν οἱ πρεσβύτεροι τοῦ οἴκου αὐτοῦ τοῦ ἐγεῖραι
+        αὐτὸν ἀπὸ τῆς γῆς καὶ οὐκ ἠθέλησεν καὶ οὐ συνέφαγεν αὐτοῖς ἄρτον
+      st_text: И вошли к нему старейшины дома его, чтобы поднять его с земли; но он не
+        хотел, и не ел с ними хлеба.
+  - id: 3897
+    number: 18
+    bookId: 10
+    text: 'На седьмой день дитя умерло, и слуги Давидовы боялись донести ему, что
+      умер младенец; ибо, говорили они, когда дитя было еще живо, и мы
+      уговаривали его, и он не слушал голоса нашего, как же мы скажем ему:
+      "умерло дитя"? Он сделает что-нибудь худое.'
+    chapter: 12
+    chapterId: 279
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И бысть в день седмый, и умре отроча. И убояшася раби давидовы поведати
+        ему, яко умре отроча, реша бо: се, егда отроча еще живо бяше, глаголахом
+        к нему, и не послуша гласа нашего: и како речем к нему, яко умре отроча,
+        и сотворит злая?"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# бы1сть въ де1нь седмы1й, и3 ќмре nтрочA. И# ўбоsшасz раби2
+        давjдwвы повёдати є3мY, ћкw ќмре nтрочA, рёша бо: се2, є3гдA nтрочA
+        є3ще2 жи1во бsше, глаго1лахомъ къ немY, и3 не послyша глaса нaшегw: и3
+        кaкw рече1мъ къ немY, ћкw ќмре nтрочA, и3 сотвори1тъ ѕл†z;"
+      sovr_rbo: На седьмой день ребенок умер, и придворные боялись сообщить Давиду об
+        этом. «Пока младенец был жив, — говорили они, — он и слышать не хотел,
+        когда обращались к нему! Как же мы скажем ему о смерти мальчика?!
+        Страшно подумать, что он сделает!»
+      latin: "Accidit autem die septima ut moreretur infans: timueruntque servi David
+        nuntiare ei quod mortuus esset parvulus: dixerunt enim: Ecce cum
+        parvulus adhuc viveret, loquebamur ad eum, et non audiebat vocem
+        nostram: quanto magis si dixerimus: Mortuus est puer, se affliget?"
+      ukr: "І сталося сьомого дня, і померло те дитя, а Давидові слуги боялися донести
+        йому, що померло те дитя, бо казали: Ось як була та дитина живою,
+        говорили ми до нього, та не слухав він нашого голосу; а як ми скажемо до
+        нього: Померло це дитя, то ще вчинить щось лихе."
+      nkjv: Then on the seventh day it came to pass that the child died. And the
+        servants of David were afraid to tell him that the child was dead. For
+        they said, "Indeed, while the child was alive, we spoke to him, and he
+        would not heed our voice. How can we tell him that the child is dead? He
+        may do some harm!"
+      desnitsky: "На седьмой день дитя умерло, но слуги Давида боялись сообщить ему,
+        что ребенок мертв. Они говорили: «Еще пока было живо дитя, мы говорили с
+        ним, но он нас не слушал, а если скажем теперь, что умер ребенок, не
+        миновать беды!»"
+      mt: ‫   וַיְהִי בַּיּוֹם הַשְּׁבִיעִי וַיָּמָת הַיָּלֶד וַיִּרְאוּ עַבְדֵי דָוִד
+        לְהַגִּיד לוֹ כִּי־מֵת הַיֶּלֶד כִּי אָמְרוּ הִנֵּה בִהְיוֹת הַיֶּלֶד
+        חַי דִּבַּרְנוּ אֵלָיו וְלֹא־שָׁמַע בְּקוֹלֵנוּ וְאֵיךְ נֹאמַר אֵלָיו
+        מֵת הַיֶּלֶד וְעָשָׂה רָעָה׃ ‬
+      romana: 'Dupa sapte zile a murit copilul si slugile lui David se temeau sa-i
+        spuna ca a murit copilul. Caci ei isi ziceau: "Cand copilul era inca viu
+        si noi il mangaiam, el nu ne baga in seama; cum sa-i spunem acum: A
+        murit copilul? Ar putea sa faca vreun rau".'
+      francais: "Le septième jour, l'enfant mourut. Les serviteurs de David
+        craignaient de lui annoncer que l'enfant était mort. Car ils disaient:
+        Voici, lorsque l'enfant vivait encore, nous lui avons parlé, et il ne
+        nous a pas écoutés; comment oserons-nous lui dire: L'enfant est mort? Il
+        s'affligera bien davantage."
+      italian: 'Ora, il settimo giorno il bambino morì e i ministri di Davide temevano
+        di fargli sapere che il bambino era morto, perché dicevano: "Ecco,
+        quando il bambino era ancora vivo, noi gli abbiamo parlato e non ha
+        ascoltato le nostre parole; come faremo ora a dirgli che il bambino è
+        morto? Farà qualche atto insano!".'
+      old_georgian: "ხოლო მეშჳდისა დღისა შემდგომად მოკუდა ყრმა იგი. და ეშინოდა მონათა
+        დავითისთა თხრობად სიკუდილი მისი და ზრახვიდეს, ვითარმედ: ვიდრე ცოცხალ
+        იყო, არა გუერჩდა აღდგომად ქუეყანით, და აწ ვითარ ვიკადროთ თქუმად სიკუდილი
+        ყრმისა მის? ნუუკუე შეჰრჩეს გულსა ბოროტი ჩუენთჳს!"
+      portuguese: "Ao sétimo dia a criança morreu; e temiam os servos de Davi
+        dizer-lhe que a criança tinha morrido; pois diziam:\rEis que, sendo a
+        criança ainda viva, lhe falávamos, porém ele não dava ouvidos à nossa
+        voz; como, pois, lhe\rdiremos que a criança morreu? Poderá cometer um
+        desatino."
+      polish: "W siódmym dniu dziecko zmarło. Słudzy Dawida obawiali się powiadomić
+        go,\rże dziecko umarło. Twierdzili: ”Jeżeli, gdy dziecko jeszcze żyło,
+        przemawialiśmy do niego, a głosu naszego nie usłuchał, to jak możemy mu
+        powiedzieć,\rże chłopiec umarł? Może uczynić [sobie] coś złego”."
+      turkish: "Yedinci gün çocuk öldü. Davut'un görevlileri çocuğun öldüğünü Davut'a
+        bildirmekten çekindiler.\rÇünkü, «Çocuk daha yaşarken onunla konuştuk
+        ama bizi dinlemedi» diyorlardı, «Şimdi çocuğun öldüğünü ona nasıl
+        söyleriz? Kendisine zarar verebilir!»"
+      nrt: "На седьмой день ребенок умер. Слуги Давида боялись сказать ему, что
+        ребенок мертв, так как они думали: «Когда ребенок был еще жив, мы
+        говорили с Давидом, но он не слушал нас. Как же нам сказать ему, что
+        ребенок умер? Он может что-нибудь сделать с собой»."
+      Macarius: "В седьмый день умер младенец, и боялись рабы Давидовы сказать ему,
+        что умер младенец; ибо они говорили: вот, когда младенец был еще жив, мы
+        говорили ему, но он не слушал слов наших, как же можно сказать ему: умер
+        младенец; чтоб он не сделал худого."
+      serbian: "А кад би седми дан, умрије дијете; и не смијаху слуге Давидове јавити
+        му да је дијете умрло, јер говораху: Ево, док дијете бијаше живо,
+        говорасмо му, па нас не хтје послушати; а како ћемо му казати: Умрло је
+        дијете? Хоће га уцвијелити."
+      bulgarian: 'На седмия ден детето умря, и слугите Давидови се бояха да му обадят,
+        че детето е умряло; защото, думаха те, когато детето беше още живо, и
+        ние го придумвахме, и той не слушаше гласа ни, как ще му кажем: "детето
+        умря"? Той ще стори нещо лошо.'
+      deutsch: "Am siebenten Tage aber starb das Kind. Und die Knechte Davids
+        fürchteten sich ihm anzusagen, daß das Kind tot wäre; denn sie
+        gedachten: Siehe, da das Kind noch lebendig war, redeten wir mit ihm,
+        und er gehorchte unsrer Stimme nicht; wie viel mehr wird er sich wehe
+        tun, so wir sagen: Das Kind ist tot."
+      ukr2: "Сьомого дня дитина вмерла, але слуги Давида боялися йому сказати, що
+        дитина вмерла, бо думали: “Коли, була жива дитина, ми вмовляли його, та
+        він не слухав; як же тепер йому сказати, що дитина вмерла? Як
+        уболіватиме він від цього?”"
+      ukr3: "І вмерла семого дня дитина. Та дворяне страхались ясувати йому, що дитина
+        вмерла, бо думали: як воно ще було живе, він не слухав нашого розважаня;
+        як же тепер сказати йому: дитинка вмерла! він може щось заподїяти собі?"
+      bel_syomukha: 'На сёмы дзень дзіця памерла, і слугі Давыдавы баяліся данесьці
+        яму, што памерла дзіця; бо, казалі яны, калі дзіця было яшчэ жывое, і мы
+        ўгаворвалі яго, і ён ня слухаў голасу нашага, як жа скажам яму: "памерла
+        дзіця"? і ён зробіць што-небудзь благое.'
+      lev-khv: "На седьмой же день дитя умерло, и боялись слуги Давида донести ему,
+        что младенец умер; ибо думали: вот, когда дитя было еще живо, мы
+        уговаривали его, но он не слушался нас; как же сказать ему, что дитя
+        умерло? ведь будет беда."
+      czech: "Sedmeho dne dite zemrelo. Davidovi sluzebnici se mu bali oznamit, ze
+        dite zemrelo. Rikali: \"Kdyz dite bylo jeste nazivu, domlouvali jsme mu,
+        ale neuposlechl nas. Jak bychom mu ted mohli rici: ‚Dite zemrelo'?
+        Provedl by neco zleho.\""
+      spanish: "Al séptimo día murió el niño, y los servidores no se atrevieron a
+        darle la noticia de su muerte, pues se decían: <<Si cuando aún vivía el
+        niño le hablábamos y no quería oír nuestra voz, ¿cómo vamos a decirle
+        que el niño ha muerto? Le va a sentar mal>>."
+      greek-lxx: καὶ ἐγένετο ἐν τῇ ἡμέρᾳ τῇ ἑβδόμῃ καὶ ἀπέθανε τὸ παιδάριον καὶ
+        ἐφοβήθησαν οἱ δοῦλοι Δαυιδ ἀναγγεῖλαι αὐτῷ ὅτι τέθνηκεν τὸ παιδάριον ὅτι
+        εἶπαν ἰδοὺ ἐν τῷ ἔτι τὸ παιδάριον ζῆν ἐλαλήσαμεν πρὸς αὐτόν καὶ οὐκ
+        εἰσήκουσεν τῆς φωνῆς ἡμῶν καὶ πῶς εἴπωμεν πρὸς αὐτὸν ὅτι τέθνηκεν τὸ
+        παιδάριον καὶ ποιήσει κακά
+      st_text: 'На седьмой день дитя умерло, и слуги Давидовы боялись донести ему, что
+        умер младенец; ибо, говорили они, когда дитя было еще живо, и мы
+        уговаривали его, и он не слушал голоса нашего, как же мы скажем ему:
+        "умерло дитя"? Он сделает что-нибудь худое.'
+  - id: 3898
+    number: 19
+    bookId: 10
+    text: "И увидел Давид, что слуги его перешептываются между собою, и понял Давид,
+      что дитя умерло, и спросил Давид слуг своих: умерло дитя? И сказали:
+      умерло."
+    chapter: 12
+    chapterId: 279
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И разуме давид, яко отроцы его шепчут, и позна давид, яко умре отроча. И
+        рече давид отроком своим: умре ли отроча? и реша: умре."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# разумЁ давjдъ, ћкw џтроцы є3гw2 ше1пчутъ, и3 познA давjдъ, ћкw
+        ќмре nтрочA. И# рече2 давjдъ nтрокHмъ свои6мъ: ќмре ли nтрочA; И# рёша:
+        ќмре."
+      sovr_rbo: Когда Давид увидел, что придворные перешептываются между собой, то
+        догадался о смерти ребенка. «Мальчик умер?» — спросил он. «Умер», —
+        ответили ему.
+      latin: "Cum ergo David vidisset servos suos mussitantes, intellexit quod mortuus
+        esset infantulus: dixitque ad servos suos: Num mortuus est puer? Qui
+        responderunt ei: Mortuus est."
+      ukr: "А Давид побачив, що слуги його шепочуться поміж собою, і зрозумів Давид,
+        що померло те дитя. І сказав Давид до своїх слуг: Чи не померло те дитя?
+        А ті відказали: Померло."
+      nkjv: When David saw that his servants were whispering, David perceived that the
+        child was dead. Therefore David said to his servants, "Is the child
+        dead?" And they said, "He is dead."
+      desnitsky: "Увидел Давид, что слуги его перешептываются, и понял, что ребенок
+        мертв. Давид спросил у слуг: «ребенок умер?» Они ответили: «умер»."
+      mt: ‫   וַיַּרְא דָּוִד כִּי עֲבָדָיו מִתְלַחֲשִׁים וַיָּבֶן דָּוִד כִּי מֵת
+        הַיָּלֶד וַיֹּאמֶר דָּוִד אֶל־עֲבָדָיו הֲמֵת הַיֶּלֶד וַיֹּאמְרוּ מֵת׃ ‬
+      romana: 'Dar vazand David ca slugile sale soptesc intre ele, a priceput ca a
+        murit copilul si le-a intrebat: "A murit copilul?" "A murit", i s-a
+        raspuns.'
+      francais: "David aperçut que ses serviteurs parlaient tout bas entre eux, et il
+        comprit que l'enfant était mort. Il dit à ses serviteurs: L'enfant
+        est-il mort? Et ils répondirent: Il est mort."
+      italian: 'Ma Davide si accorse che i suoi ministri bisbigliavano fra di loro,
+        comprese che il bambino era morto e disse ai suoi ministri: "È morto il
+        bambino?". Quelli risposero: "È morto".'
+      old_georgian: "და იხილა დავით, რამეთუ ჩურჩნდეს ურთიერთას და გულისხმა-ყო,
+        ვითარმედ მოკუდა ყრმა იგი, და ჰრქუა მათ დავით: მოკუდა ყრმაჲ იგი? და მათ
+        ჰრქუეს: მოკუდა!"
+      portuguese: "Davi, porém, percebeu que seus servos cochichavam entre si, e
+        entendeu que a criança havia morrido; pelo que\rperguntou a seus servos:
+        Morreu a criança? E eles responderam: Morreu."
+      polish: "Gdy jednak Dawid zauważył, że słudzy jego rozmawiają szeptem,
+        zrozumiał,\rże dziecko zmarło. Pytał więc sługi swoje: ”Czy dziecko
+        umarło?” Odpowiedzieli: ”Umarło”."
+      turkish: "Davut görevlilerinin fısıldaştığını görünce, çocuğun öldüğünü anladı.
+        Onlara, «Çocuk öldü mü?» diye sordu.\r«Evet, öldü» dediler."
+      nrt: Давид заметил, что его слуги перешептываются, и понял, что ребенок умер. –
+        Умер ребенок? – спросил он. – Да, – ответили они, – умер.
+      Macarius: "Давид увидел, что рабы его между собою шепчут, и догадался Давид, что
+        умер младенец, и сказал рабам своим: умер младенец? Они сказали: умер."
+      serbian: "А Давид видећи гдје слуге његове шапћу међу собом, досјети се да је
+        умрло дијете; и рече Давид слугама својим: Је ли умрло дијете? А они
+        рекоше: Умрло је."
+      bulgarian: "Видя Давид, че слугите му си шепнат, и разбра, че детето е умряло,
+        па попита слугите си: умря ли детето? Отговориха: умря."
+      deutsch: "Da aber David sah, daß seine Knechte leise redeten, und merkte, daß
+        das Kind tot wäre, sprach er zu seinen Knechten: Ist das Kind tot? Sie
+        sprachen: Ja."
+      ukr2: "Але Давид помітив, що слуги перешіптуються між собою, зрозумів, що дитина
+        вмерла, й спитав слуг: “Чи дитина вмерла?” Вони відповіли: “Вмерла.”"
+      ukr3: "Давид же постеріг, що дворяне його перешептуються одно з одним, та й
+        догадавсь, що дитина вмерла. І поспитав Давид у своїх дворян: Чи дитина
+        вмерла? І відказали: Так, умерла."
+      bel_syomukha: "І ўбачыў Давід, што слугі ягоныя шэпчуцца паміж сабою, і зразумеў
+        Давід, што дзіця памерла, і спытаўся Давід у слуг сваіх: памерла дзіця?
+        І сказалі яму: памерла."
+      lev-khv: "Когда же Давид заметил, что слуги его шепчутся между собою, то понял,
+        что умер младенец, и сказал Давид слугам своим: верно умерло дитя? Те
+        отвечали: умерло."
+      czech: 'Kdyz David videl, ze si jeho sluzebnici septaji, porozumel, ze dite
+        zemrelo. David se tedy svych sluzebniku zeptal: "Dite zemrelo?"
+        Odvetili: "Zemrelo."'
+      spanish: "Mas David, al ver que sus servidores cuchicheaban entre sí, comprendió
+        que el niño había muerto, y preguntó a sus servidores: << ¿Ha muerto el
+        niño?>> Y ellos le respondieron: <<Ha muerto>>."
+      greek-lxx: καὶ συνῆκεν Δαυιδ ὅτι οἱ παῖδες αὐτοῦ ψιθυρίζουσιν καὶ ἐνόησεν Δαυιδ
+        ὅτι τέθνηκεν τὸ παιδάριον καὶ εἶπεν Δαυιδ πρὸς τοὺς παῖδας αὐτοῦ εἰ
+        τέθνηκεν τὸ παιδάριον καὶ εἶπαν τέθνηκεν
+      st_text: "И увидел Давид, что слуги его перешептываются между собою, и понял
+        Давид, что дитя умерло, и спросил Давид слуг своих: умерло дитя? И
+        сказали: умерло."
+  - id: 3899
+    number: 20
+    bookId: 10
+    text: Тогда Давид встал с земли и умылся, и помазался, и переменил одежды свои,
+      и пошел в дом Господень, и молился. Возвратившись домой, потребовал, чтобы
+      подали ему хлеба, и он ел.
+    chapter: 12
+    chapterId: 279
+    parallels:
+      - verseId: 33275
+        bookId: 8
+        bookCode: kniga-ruf
+        chapter: 3
+        short: Руф:3:3
+      - verseId: 34253
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 38
+        short: Сир:38:23
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И воста давид от земли, и умыся и помазася, и измени ризы своя, и вниде в
+        дом Божий, и поклонися ему, и вниде в дом свой, и проси ясти хлеба, и
+        предложиша ему хлеб, и яде.
+      averincev: ""
+      ungerov: ""
+      csya_old: И# востA давjдъ t земли2, и3 ўмы1сz и3 помaзасz, и3 и3змэни2 ри6зы
+        сво‰, и3 вни1де въ до1мъ б9ій, и3 поклони1сz є3мY, и3 вни1де въ до1мъ
+        сво1й, и3 проси2 ћсти хлёба, и3 предложи1ша є3мY хлёбъ, и3 kде2.
+      sovr_rbo: Давид поднялся с земли, умылся, умастил себя, переоделся, пошел в дом
+        Господень и поклонился Господу. Затем он отправился во дворец, приказал
+        — и приготовили ему пищу, и он поел.
+      latin: "Surrexit ergo David de terra: et lotus unctusque est: cumque mutasset
+        vestem, ingressus est domum Domini: et adoravit, et venit in domum suam,
+        petivitque ut ponerent ei panem, et comedit."
+      ukr: І звівся Давид із землі, і помився, і намастився, і змінив свою одежу, і
+        ввійшов до Господнього дому та й поклонився. Потому ввійшов до свого
+        дому, і захотів їсти, і поклали йому хліба, і він їв.
+      nkjv: So David arose from the ground, washed and anointed himself, and changed
+        his clothes; and he went into the house of the Lord and worshiped. Then
+        he went to his own house; and when he requested, they set food before
+        him, and he ate.
+      desnitsky: Тогда Давид поднялся с земли, омылся, намазался благовониями,
+        переоделся и пошел в дом ГОСПОДЕНЬ, чтобы поклониться Ему. Вернувшись к
+        себе, он потребовал пищи, и когда ему подали, он поел.
+      mt: ‫   וַיָּקָם דָּוִד מֵהָאָרֶץ וַיִּרְחַץ וַיָּסֶךְ וַיְחַלֵּף *שמלתו
+        **שִׂמְלֹתָיו וַיָּבֹא בֵית־יְהוָה וַיִּשְׁתָּחוּ וַיָּבֹא אֶל־בֵּיתוֹ
+        וַיִּשְׁאַל וַיָּשִׂימוּ לוֹ לֶחֶם וַיֹּאכַל׃ ‬
+      romana: Atunci David s-a sculat de la pamant, s-a spalat, s-a uns si si-a
+        schimbat hainele si s-a dus in casa Domnului si s-a rugat. Intorcandu-se
+        apoi acasa, a cerut sa i se dea paine si a mancat.
+      francais: Alors David se leva de terre. Il se lava, s'oignit, et changea de
+        vêtements; puis il alla dans la maison de l'Éternel, et se prosterna. De
+        retour chez lui, il demanda qu'on lui servît à manger, et il mangea.
+      italian: Allora Davide si alzò da terra, si lavò, si unse e cambiò le vesti; poi
+        andò nella casa del Signore e vi si prostrò. Rientrato in casa, chiese
+        che gli portassero il cibo e mangiò.
+      old_georgian: და აღდგა დავით ქუეყანისაგან და იცხო და შეიმკო, და შევიდა ტაძარსა
+        მას ღმრთისასა და თაყუანი-სცა უფალსა და შევიდა სახლად თჳსსა და დაჯდა,
+        ჭამა და სუა და იხარებდა.
+      portuguese: "Então Davi se levantou da terra, lavou-se, ungiu-se, e mudou de
+        vestes; e, entrando na casa do Senhor, adorou.\rDepois veio a sua casa,
+        e pediu o que comer; e lho deram, e ele comeu."
+      polish: "Dawid podniósł się z ziemi, umył się i namaścił, zmienił swe ubranie i
+        wszedłszy do domu Pańskiego oddał pokłon. Powróciwszy do domu zażądał,
+        by mu\rpodano posiłek, którym się pożywił."
+      turkish: Bunun üzerine Davut yerden kalktı. Yıkandı, güzel kokular sürünüp
+        giysilerini değiştirdi. RAB'bin Tapınağı'na gidip tapındı. Sonra evine
+        döndü ve yemek istedi. Önüne konan yemeği yedi.
+      nrt: Тогда Давид поднялся с земли. Вымывшись, умастившись благовониями и
+        переодевшись, он пошел в дом Господа и поклонился. Затем он пошел в свой
+        дом, где по его приказу ему подали пищу, и поел.
+      Macarius: И встал Давид с земли, и умылся, и помазался, и переменил одежды свои,
+        и пошел в дом Господень, и поклонился, и пришел в дом свой, и попросил
+        есть, и предложили ему хлеба, и он ел.
+      serbian: Тада Давид уста са земље, и уми се, и намаза се и преобуче се; и отиде
+        у дом Господњи и поклони се. Потом опет дође кући својој и заиска да му
+        донесу да једе; и једе.
+      bulgarian: Тогава Давид стана от земята, уми се, помаза се, преоблече се и отиде
+        в дома Господен и се моли. Като се върна вкъщи, поиска да му донесат
+        хляб, и яде.
+      deutsch: Da stand David auf von der Erde und wusch sich und salbte sich und tat
+        andere Kleider an und ging in das Haus des Herrn und betete an. Und da
+        er wieder heimkam, hieß er ihm Brot auftragen und aß.
+      ukr2: Встав тоді Давид із землі, помився, намастився, перемінив на собі одіж,
+        пішов до Господнього дому та й поклонився. Потім прийшов додому й велів
+        дати собі страву, і їв.
+      ukr3: Тодї встав Давид із долївки, помився й намазався й перемінив одїж свою, й
+        пійшов до Божого дому та й помолився; потім прийшов до дому й приказав
+        дати собі їсти, й попоїв.
+      bel_syomukha: Тады Давід устаў зь зямлі і ўмыўся, і памазаўся, і памяняў
+        вопратку сваю, і пайшоў у дом Гасподні, і маліўся. Вярнуўшыся дамоў,
+        запатрабаваў, каб падалі яму хлеба, і ён еў.
+      lev-khv: Тогда встал Давид с земли, умылся и помазался, переменил одежду свою,
+        пошел в дом Господень и поклонился. Потом пришел в дом свой, сказал,
+        чтобы дали ему хлеба, и он ел.
+      czech: A David vstal ze zeme, umyl se, pomazal se, prevlekl si odev, vesel do
+        Hospodinova domu a klanel se. Pak vstoupil do sveho domu a pozadal, aby
+        mu predlozili chleb, a jedl.
+      spanish: Levantóse entonces de tierra David; se bañó, se ungió, se mudó sus
+        ropas y, entrando en la casa de Yavé, oró. Vuelto a casa, pidió que le
+        trajeran de comer, y comió.
+      greek-lxx: καὶ ἀνέστη Δαυιδ ἐκ τῆς γῆς καὶ ἐλούσατο καὶ ἠλείψατο καὶ ἤλλαξεν τὰ
+        ἱμάτια αὐτοῦ καὶ εἰσῆλθεν εἰς τὸν οἶκον τοῦ Θεοῦ καὶ προσεκύνησεν αὐτῷ
+        καὶ εἰσῆλθεν εἰς τὸν οἶκον αὐτοῦ καὶ ᾔτησεν ἄρτον φαγεῖν καὶ παρέθηκαν
+        αὐτῷ ἄρτον καὶ ἔφαγεν
+      st_text: Тогда Давид встал с земли и умылся, и помазался, и переменил одежды
+        свои, и пошел в дом Господень, и молился. Возвратившись домой,
+        потребовал, чтобы подали ему хлеба, и он ел.
+  - id: 3900
+    number: 21
+    bookId: 10
+    text: "И сказали ему слуги его: что значит, что ты так поступаешь: когда дитя
+      было еще живо, ты постился и плакал [и не спал]; а когда дитя умерло, ты
+      встал и ел хлеб [и пил]?"
+    chapter: 12
+    chapterId: 279
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И реша отроцы его к нему: что глагол сей, егоже сотворил еси отрочате
+        ради, яко еще сущу отрочати живу, постился еси и плакал и бдел еси: егда
+        же умре отроча, востал, и ял еси хлеб, и пил еси?"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рёша џтроцы є3гw2 къ немY: что2 глаго1лъ се1й, є3го1же сотвори1лъ
+        є3си2 nтрочaте рaди, ћкw є3ще2 сyщу nтрочaти жи1ву, пости1лсz є3си2 и3
+        плaкалъ и3 бдёлъ є3си2: є3гдa же ќмре nтрочA, востaлъ, и3 ћлъ є3си2
+        хлёбъ, и3 пи1лъ є3си2;"
+      sovr_rbo: «Почему ты так поступаешь? — спрашивали его придворные. — Пока
+        младенец был жив, ты плакал и постился, а когда он умер, встал и ешь?» —
+      latin: "Dixerunt autem ei servi sui: Quis est sermo, quem fecisti? propter
+        infantem, cum adhuc viveret, jejunasti et flebas: mortuo autem puero,
+        surrexisti, et comedisti panem."
+      ukr: "І сказали йому слуги його: Що це за річ, яку ти вчинив? Коли те дитя жило,
+        ти постив та плакав; а як померло те дитя, ти встав та й їв хліб?"
+      nkjv: Then his servants said to him, "What is this that you have done? You
+        fasted and wept for the child while he was alive, but when the child
+        died, you arose and ate food."
+      desnitsky: "Слуги спросили его: «Как же это так поступаешь? Пока жив был
+        ребенок, ты постился и рыдал, а теперь, когда он умер, ты поднялся и
+        принялся за еду»."
+      mt: ‫   וַיֹּאמְרוּ עֲבָדָיו אֵלָיו מָה־הַדָּבָר הַזֶּה אֲשֶׁר עָשִׂיתָה
+        בַּעֲבוּר הַיֶּלֶד חַי צַמְתָּ וַתֵּבְךְּ וְכַאֲשֶׁר מֵת הַיֶּלֶד
+        קַמְתָּ וַתֹּאכַל לָחֶם׃ ‬
+      romana: 'Si i-au zis slugile: "Ce va sa zica aceasta? Cand copilul era inca in
+        viata, ai postit, ai plans si n-ai dormit; iar dupa ce copilul a murit,
+        te-ai sculat, ai mancat si ai baut?"'
+      francais: "Ses serviteurs lui dirent: Que signifie ce que tu fais? Tandis que
+        l'enfant vivait, tu jeûnais et tu pleurais; et maintenant que l'enfant
+        est mort, tu te lèves et tu manges!"
+      italian: 'I suoi ministri gli dissero: "Che fai? Per il bambino ancora vivo hai
+        digiunato e pianto e, ora che è morto, ti alzi e mangi!".'
+      old_georgian: "და ჰრქუეს დავითს: რაჲ არს ესე, რომელ შენ ჰყავ? რამეთუ ვიდრე იყო
+        ყრმაჲ იგი, იმარხევდ, იღჳძებდ და სტიროდე და ვითარცა მოკუდა, აღსდეგ და
+        განმხიარულდი და სჭამე და ჰსუ?"
+      portuguese: "Então os seus servos lhe disseram: Que é isso que fizeste? pela
+        criança viva jejuaste e choraste; porém depois\rque a criança morreu te
+        levantaste e comeste."
+      polish: "Słudzy na to mu powiedzieli: ”Co ma znaczyć twój sposób
+        postępowania?\rGdy dziecko żyło - płakałeś, lecz gdy zmarło - powstałeś
+        i posiliłeś się”."
+      turkish: Hizmetkârları, «Neden böyle davranıyorsun?» diye sordular, «Çocuk
+        yaşarken oruç tuttun, ağladın; ama ölünce kalkıp yemek yemeye başladın.»
+      nrt: "Слуги спросили его: – Почему ты поступаешь таким образом? Когда ребенок
+        был жив, ты постился и плакал; теперь ребенок мертв, а ты встал и ешь!"
+      Macarius: "И сказали ему рабы его: что значит, что ты так поступаешь? О живом
+        младенце ты постился и плакал, а когда умер младенец, ты встал и ел
+        хлеб."
+      serbian: "А слуге његове рекоше му: Шта то радиш? Док бијаше дијете живо, постио
+        си и плакао; а кад умрије дијете, устао си и једеш."
+      bulgarian: "И попитаха го слугите му: какво значи това, че тъй постъпваш? Докле
+        детето беше още живо, ти пости и плака (и не спа); а след като умря
+        детето, ти стана и яде хляб (и пи)."
+      deutsch: "Da sprachen seine Knechte zu ihm: Was ist das für ein Ding, das du
+        tust? Da das Kind lebte, fastetest du und weintest; aber nun es
+        gestorben ist, stehst du auf und ißt?"
+      ukr2: "Та його слуги спитали його: “Що має означати твоя поведінка? Коли дитя
+        було живе, ти постив і плакав, коли ж дитя вмерло, ти встав і їв.”"
+      ukr3: "І питали в його дворяне: Що се в тебе за спосіб; що се значить: як дитя
+        було ще живе, ти постив та плакав, а тепер, як дитина вмерла, ти встав і
+        їв?"
+      bel_syomukha: "І сказалі яму слугі ягоныя: што азначае, што ты так робіш: калі
+        дзіця было яшчэ жывое, ты пасьціўся і плакаў; а калі дзіця памерла, ты
+        ўстаў і еў хлеб?"
+      lev-khv: "И сказали ему слуги его: чтó значит, что ты так поступаешь: когда дитя
+        было еще живо, ты постился и плакал; а когда дитя умерло, ты встал и ел
+        хлеб?"
+      czech: 'Jeho sluzebnici mu pravili: "Jak muzes takto jednat? Dokud dite bylo
+        nazivu, postil ses a plakal. Jakmile dite zemrelo, vstanes a jis
+        chleb."'
+      spanish: "Dijéronle sus servidores: << ¿Qué es lo que haces? Cuando el niño aún
+        vivía, ayunabas por él y llorabas, y ahora que ha muerto te has
+        levantado y has comido>>."
+      greek-lxx: καὶ εἶπαν οἱ παῖδες αὐτοῦ πρὸς αὐτόν τί τὸ ῥῆμα τοῦτο ὃ ἐποίησας
+        ἕνεκα τοῦ παιδαρίου ἔτι ζῶντος ἐνήστευες καὶ ἔκλαιες καὶ ἠγρύπνεις καὶ
+        ἡνίκα ἀπέθανεν τὸ παιδάριον ἀνέστης καὶ ἔφαγες ἄρτον καὶ πέπωκας
+      st_text: "И сказали ему слуги его: что значит, что ты так поступаешь: когда дитя
+        было еще живо, ты постился и плакал [и не спал]; а когда дитя умерло, ты
+        встал и ел хлеб [и пил]?"
+  - id: 3901
+    number: 22
+    bookId: 10
+    text: "И сказал Давид: доколе дитя было живо, я постился и плакал, ибо думал:
+      кто знает, не помилует ли меня Господь, и дитя останется живо?"
+    chapter: 12
+    chapterId: 279
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И рече давид: егда бе отроча еще живо, постихся и плаках, яко рех: кто
+        весть, помилует ли мя Господь и живо будет отроча?"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 давjдъ: є3гдA бЁ nтрочA є3ще2 жи1во, пости1хсz и3 плaкахъ,
+        ћкw рёхъ: кто2 вёсть, поми1луетъ ли мS гDь и3 жи1во бyдетъ nтрочA;"
+      sovr_rbo: "«Пока ребенок был жив я постился и плакал, потому что думал: „Кто
+        знает, может быть, Господь помилует меня, и ребенок будет жить?” —"
+      latin: "Qui ait: Propter infantem, dum adhuc viveret, jejunavi et flevi: dicebam
+        enim: Quis scit si forte donet eum mihi Dominus, et vivat infans?"
+      ukr: "А він відказав: Коли те дитя ще жило, я постив та плакав, бо казав: Хто
+        знає, може Господь учинить мені милість, і буде жити дитя те?"
+      nkjv: "And he said, \"While the child was alive, I fasted and wept; for I said,
+        'Who can tell whether the Lord will be gracious to me, that the child
+        may live?' "
+      desnitsky: "Он ответил: «пока ребенок был жив, я постился и плакал, ведь я
+        рассуждал так: как знать, может быть, помилует меня ГОСПОДЬ, и дитя
+        будет жить?"
+      mt: ‫   וַיֹּאמֶר בְּעוֹד הַיֶּלֶד חַי צַמְתִּי וָאֶבְכֶּה כִּי אָמַרְתִּי מִי
+        יוֹדֵעַ *יחנני **וְחַנַּנִי יְהוָה וְחַי הַיָּלֶד׃ ‬
+      romana: '"Cata vreme copilul era viu, a zis David, am postit si am plans, caci
+        socoteam: Cine stie, poate ma va milui Domnul si va trai copilul.'
+      francais: "Il répondit: Lorsque l'enfant vivait encore, je jeûnais et je
+        pleurais, car je disais: Qui sait si l'Éternel n'aura pas pitié de moi
+        et si l'enfant ne vivra pas?"
+      italian: 'Egli rispose: "Quando il bambino era ancora vivo, digiunavo e
+        piangevo, perché dicevo: Chi sa? Il Signore avrà forse pietà di me e il
+        bambino resterà vivo.'
+      old_georgian: "მიუგო დავით: ვიდრე ცოცხალ იყო, ვწუხდი, რათამცა წყალობა ეყო
+        ღმერთსა და ეცხოვნა ყრმაჲ იგი."
+      portuguese: "Respondeu ele: Quando a criança ainda vivia, jejuei e chorei, pois
+        dizia: Quem sabe se o Senhor não se\rcompadecerá de mim, de modo que
+        viva a criança?"
+      polish: "Odrzekł: ”Dopóki dziecko żyło, pościłem i płakałem, gdyż mówiłem
+        sobie:\r”Kto wie, może Pan nade mną się ulituje i dziecko będzie żyło?”"
+      turkish: "Davut şöyle yanıtladı: «Çocuk yaşarken oruç tutup ağladım. Çünkü, `Kim
+        bilir, RAB bana lütfeder de çocuk yaşar' diye düşünüyordum."
+      nrt: "Он ответил: – Когда ребенок еще был жив, я постился и плакал. Я думал:
+        «Кто знает? Вдруг Господь будет милостив ко мне, и ребенок останется
+        жив»."
+      Macarius: "Он сказал: когда еще младенец был жив, я постился и плакал, потому
+        что думал: кто знает, может быть, помилует меня Господь, и младенец
+        будет жив."
+      serbian: "А он рече: Док дијете бијаше живо, постио сам и плакао, јер говорах:
+        Ко зна, може се смиловати Господ на ме да дијете остане живо."
+      bulgarian: "Давид отговори: докле детето беше живо, аз постих и плаках, понеже
+        мислех: кой знае, не ще ли се смили над мене Господ и не ще ли остане
+        детето живо?"
+      deutsch: "Er sprach: Um das Kind fastete ich und weinte, da es lebte; denn ich
+        gedachte: Wer weiß, ob mir der Herr nicht gnädig wird, daß das Kind
+        lebendig bleibe."
+      ukr2: "Він відповів: “Поки дитина була ще жива, я постив і плакав, бо я думав:
+        хто знає, може Господь змилосердиться надо мною й залишить дитину
+        живою?"
+      ukr3: "І відказав: Покіль іще дитина була жива, я постив і плакав, бо думав: Хто
+        знає, може, Господь змилосердиться до мене, так що воно й жити ме."
+      bel_syomukha: "І сказаў Давід: пакуль дзіця было жывое, і пасьціўся і плакаў, бо
+        думаў: хто ведае, ці ня зьлітуецца зь мяне Гасподзь, і дзіця застанецца
+        жывое?"
+      lev-khv: "На это он сказал: пока дитя было еще живо, я постился и плакал; ибо
+        думал: может быть, Господь помилует меня, и дитя останется живо."
+      czech: 'Odvetil: "Dokud dite jeste zilo, postil jsem se a plakal, nebot jsem si
+        rikal: Kdovi, zda se Hospodin nade mnou neslituje a zda dite nezustane
+        nazivu.'
+      spanish: "Y él respondió: <<Cuando aún vivía el niño, ayunaba y lloraba,
+        diciendo: ¡Quién sabe si Yavé se apiadará de mí y hará que el niño
+        viva!"
+      greek-lxx: καὶ εἶπεν Δαυιδ ἐν τῷ τὸ παιδάριον ἔτι ζῆν ἐνήστευσα καὶ ἔκλαυσα ὅτι
+        εἶπα τίς οἶδεν εἰ ἐλεήσει με Κύριος καὶ ζήσεται τὸ παιδάριον
+      st_text: "И сказал Давид: доколе дитя было живо, я постился и плакал, ибо думал:
+        кто знает, не помилует ли меня Господь, и дитя останется живо?"
+  - id: 3902
+    number: 23
+    bookId: 10
+    text: А теперь оно умерло; зачем же мне поститься? Разве я могу возвратить его?
+      Я пойду к нему, а оно не возвратится ко мне.
+    chapter: 12
+    chapterId: 279
+    parallels:
+      - verseId: 34251
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 38
+        short: Сир:38:21
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: ныне же умре, почто мне поститися? еда возмогу возвратити е ктому? аз имам
+        ити к нему, тое же не возвратится ко мне.
+      averincev: ""
+      ungerov: ""
+      csya_old: нн7э же ќмре, почто2 мнЁ пости1тисz; є3дA возмогY возврати1ти є5
+        ктомY; ѓзъ и4мамъ и3ти2 къ немY, то1е же не возврати1тсz ко мнЁ.
+      sovr_rbo: А теперь, когда он умер, зачем мне поститься? Разве могу я вернуть
+        его? Мне предстоит прийти к нему, а не ему — ко мне».
+      latin: "Nunc autem quia mortuus est, quare jejunem? Numquid potero revocare eum
+        amplius? Ego vadam magis ad eum: ille vero non revertetur ad me."
+      ukr: А тепер, померло воно. Нащо то я б постив? Чи зможу ще повернути його? Я
+        піду до нього, а воно не вернеться до мене...
+      nkjv: But now he is dead; why should I fast? Can I bring him back again? I shall
+        go to him, but he shall not return to me."
+      desnitsky: А теперь от мертв, что мне поститься? Разве смогу его вернуть? Это я
+        отправлюсь к нему, а он не вернется ко мне».
+      mt: ‫   וְעַתָּה מֵת לָמָּה זֶּה אֲנִי צָם הַאוּכַל לַהֲשִׁיבוֹ עוֹד אֲנִי
+        הֹלֵךְ אֵלָיו וְהוּא לֹא־יָשׁוּב אֵלָי׃ ‬
+      romana: Dar acum el a murit; de ce sa mai postesc? Il mai pot eu, oare,
+        intoarce? Eu ma voi duce la el, iar el nu se va mai intoarce la mine".
+      francais: Maintenant qu'il est mort, pourquoi jeûnerais-je? Puis-je le faire
+        revenir? J'irai vers lui, mais il ne reviendra pas vers moi.
+      italian: Ma ora che egli è	morto, perché digiunare? Posso io farlo ritornare? Io
+        andrò da lui, ma lui non ritornerà da me!".
+      old_georgian: ხოლო აწ რაჲ მოკუდა, აქა არღარა მოიწიოს, არამედ მე მისა მისლვად
+        ვარ, და რაჲსაღა ვწუხ?
+      portuguese: "Todavia, agora que é morta, por que ainda jejuaria eu? Poderei eu
+        fazê-la voltar? Eu irei para ela, porém ela não\rvoltará para mim."
+      polish: "Tymczasem umarło. Po cóż mam pościć? Czyż zdołam je wskrzesić? Ja
+        pójdę\rdo niego, ale ono do mnie nie wróci”."
+      turkish: Ama çocuk öldü. Artık neden oruç tutayım? Onu geri getirebilir miyim
+        ki? Ben onun yanına gideceğim, ama o bana geri dönmeyecek.»
+      nrt: Но теперь он умер, и зачем мне поститься? Разве я могу его вернуть? Я пойду
+        к нему, а он ко мне не вернется.
+      Macarius: Но теперь он умер, для чего же мне поститься? могу ли я уже возвратить
+        его? Я к нему пойду, а он не возвратится ко мне.
+      serbian: А сада умрло је; што бих постио? Могу ли га повратити? Ја ћу отићи к
+        њему, али он неће се вратити к мени.
+      bulgarian: А сега то умря; защо да постя? Нима мога да го върна? Аз ще отида при
+        него, но то няма да се върне при мене.
+      deutsch: Nun es aber tot ist, was soll ich fasten? Kann ich es auch wiederum
+        holen? Ich werde wohl zu ihm fahren; es kommt aber nicht zu mir.
+      ukr2: Та тепер же, коли воно вмерло, чому б мені постити? Хіба я можу ще його
+        назад повернути? Я піду до нього, а воно вже не повернеться до мене.”
+      ukr3: Тепер же воно вмерло, про що ж менї постити? Хиба ж його вернеш? Я пійду
+        до його, воно ж не прийде вже до мене.
+      bel_syomukha: А цяпер яно памерла; навошта ж мне пасьціцца? Хіба я магу вярнуць
+        яго? Я пайду да яго, а яно ня вернецца да мяне.
+      lev-khv: Но теперь оно умерло; зачем же мне поститься? могу ли уже я возвратить
+        его? я пойду к нему, а оно уже не возвратится ко мне.
+      czech: Ted zemrelo. Proc bych se mel postit? Coz je mohu jeste privest zpet? Ja
+        pujdu k nemu, ale ono se ke mne nevrati."
+      spanish: Ahora que ha muerto, ¿para qué he de ayunar? ¿Podré ya volverle la
+        vida? Yo iré a él, pero él no vendrá más a mí>>.
+      greek-lxx: καὶ νῦν τέθνηκεν ἵνα τί τοῦτο ἐγὼ νηστεύω μὴ δυνήσομαι ἐπιστρέψαι
+        αὐτὸ ἔτι ἐγὼ πορεύσομαι πρὸς αὐτόν καὶ αὐτὸς οὐκ ἀναστρέψει πρός με
+      st_text: А теперь оно умерло; зачем же мне поститься? Разве я могу возвратить
+        его? Я пойду к нему, а оно не возвратится ко мне.
+  - id: 3903
+    number: 24
+    bookId: 10
+    text: "И утешил Давид Вирсавию, жену свою, и вошел к ней и спал с нею; и она
+      [зачала и] родила сына, и нарекла ему имя: Соломон. И Господь возлюбил
+      его"
+    chapter: 12
+    chapterId: 279
+    parallels:
+      - verseId: 6809
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 1
+        short: 3 Цар:1:17
+      - verseId: 3069
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 22
+        short: 1 Пар:22:9
+      - verseId: 27709
+        bookId: 16
+        bookCode: kniga-neemii
+        chapter: 13
+        short: Неем:13:26
+      - verseId: 24994
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 1
+        short: Мф:1:6
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И утеши давид вирсавию жену свою, и вниде к ней и спа с нею, и зача и
+        роди сына, и нарече имя ему соломон: и Господь возлюби его."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# ўтёши давjдъ вирсавjю женY свою2, и3 вни1де къ не1й и3 спA съ
+        не1ю, и3 зачA и3 роди2 сы1на, и3 нарече2 и4мz є3мY соломHнъ: и3 гDь
+        возлюби2 є3го2."
+      sovr_rbo: Давид утешил Вирсавию, свою жену. Он вошел к ней и спал с ней. Она
+        родила сына и дала ему имя Соломон. Господь полюбил его
+      latin: "Et consolatus est David Bethsabee uxorem suam, ingressusque ad eam,
+        dormivit cum ea: quae genuit filium, et vocavit nomen ejus Salomon, et
+        Dominus dilexit eum."
+      ukr: "І потішив Давид жінку свою Вірсавію, і прийшов до неї, і ліг із нею. І
+        вона вродила сина, а він назвав ім'я йому: Соломон. І Господь полюбив
+        його,"
+      nkjv: Then David comforted Bathsheba his wife, and went in to her and lay with
+        her. So she bore a son, and he called his name Solomon. Now the Lord
+        loved him,
+      desnitsky: Давид утешил Бат-Шеву, свою жену, и вошел к ней, и лежал с ней. Она
+        родила сына, ему дали имя Соломон, и был он угоден ГОСПОДУ.
+      mt: ‫   וַיְנַחֵם דָּוִד אֵת בַּת־שֶׁבַע אִשְׁתּוֹ וַיָּבֹא אֵלֶיהָ וַיִּשְׁכַּב
+        עִמָּהּ וַתֵּלֶד בֵּן *ויקרא **וַתִּקְרָא אֶת־שְׁמוֹ שְׁלֹמֹה וַיהוָה
+        אֲהֵבוֹ׃ ‬
+      romana: Si a mangaiat David pe Batseba, femeia sa, a intrat la ea, s-a culcat cu
+        ea si ea a zamislit si a mai nascut un fiu si i-a pus numele Solomon.
+        Domnul l-a iubit pe acesta,
+      francais: David consola Bath Schéba, sa femme, et il alla auprès d'elle et
+        coucha avec elle. Elle enfanta un fils qu'il appela Salomon, et qui fut
+        aimé de l'Éternel.
+      italian: "Poi Davide consolò Betsabea sua moglie, entrò da lei e le si unì: essa
+        partorì un figlio, che egli chiamò Salomone."
+      old_georgian: და მოუწოდა დავით ბერსაბეს, ცოლსა თჳსსა, და ნუგეშინი-სცა მას, და
+        შევიდა მისსა. და მიუდგა და უშვა ძე. და უწოდა სახელი მისი სოლომონ. და
+        შეიყუარა იგი უფალმან.
+      portuguese: "Então consolou Davi a Bate-Seba, sua mulher, e entrou, e se deitou
+        com ela. E teve ela um filho, e Davi lhe deu o\rnome de Salomão. E o
+        Senhor o amou;"
+      polish: "Dawid okazywał współczucie dla swej żony Batszeby. Poszedł do niej i
+        spał\rz nią. Urodził się jej syn, któremu dała imię Salomon. A Pan
+        umiłował go"
+      turkish: ""
+      nrt: Затем Давид утешил свою жену Вирсавию, вошел к ней и лег с ней. Она
+        забеременела и родила сына. Давид назвал его Соломоном. Господь полюбил
+        его
+      Macarius: И утешал Давид Вирсавию, жену свою, и вошел к ней, и спал с нею; и она
+        родила сына, и нарек ему имя Соломон; и Господь возлюбил его,
+      serbian: Потом Давид утјеши Витсавеју, жену своју, и отиде к њој и леже с њом. И
+        она роди сина, којему надје име Соломон. И мио бјеше Господу.
+      bulgarian: И Давид утеши жена си Вирсавия, влезе при нея и спа с нея; и тя
+        (зачена и) роди син, комуто даде име Соломон. И Господ го възлюби
+      deutsch: Und da David sein Weib Bath-Seba getröstet hatte, ging er zu ihr hinein
+        und schlief bei ihr. Und sie gebar ihm einen Sohn, den hieß er Salomo.
+        Und der Herr liebte ihn.
+      ukr2: Тоді Давид розважив Ветсавію, свою жінку, пішов до неї і зліг з нею. Вона
+        зачала й уродила сина, й він назвав його Соломон. Господь полюбив його
+      ukr3: І розважав тодї Давид свою супругу Бетсабу, й ввійшов до неї та й
+        пригорнувсь до неї. І вродила вона сина, й назвав його він Соломон, і
+        Господь улюбив його;
+      bel_syomukha: "І суцешыў Давід Вірсавію, жонку сваю, і ўвайшоў да яе і спаў зь
+        ёю; і яна нарадзіла сына і дала яму імя: Саламон. І Гасподзь палюбіў
+        яго"
+      lev-khv: "Затем утешил Давид Вирсавию, жену свою, вошел к ней, спал с нею; и она
+        родила сына, и назвала ему имя: Соломон; и Господь возлюбил его,"
+      czech: Pak David potesil svou zenu Bat-sebu, vesel k ni a spal s ni. I porodila
+        syna a on mu dal jmeno Salomoun. Toho si Hospodin zamiloval
+      spanish: Consoló David a Betsabé, su mujer, y, entrando a ella, durmió con ella,
+        y ella le dio un hijo, a quien llamó Salomón,
+      greek-lxx: καὶ παρεκάλεσεν Δαυιδ Βηρσαβεε τὴν γυναῖκα αὐτοῦ καὶ εἰσῆλθεν πρὸς
+        αὐτὴν καὶ ἐκοιμήθη μετ᾿ αὐτῆς καὶ συνέλαβεν καὶ ἔτεκεν υἱόν καὶ ἐκάλεσεν
+        τὸ ὄνομα αὐτοῦ Σαλωμων καὶ Κύριος ἠγάπησεν αὐτόν
+      st_text: "И утешил Давид Вирсавию, жену свою, и вошел к ней и спал с нею; и она
+        [зачала и] родила сына, и нарекла ему имя: Соломон. И Господь возлюбил
+        его"
+  - id: 3904
+    number: 25
+    bookId: 10
+    text: "и послал пророка Нафана, и он нарек ему имя: Иедидиа* по слову Господа.
+      <i>//*Возлюбленный Богом.</i>"
+    chapter: 12
+    chapterId: 279
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И посла рукою нафана пророка, и нарече имя ему иеддеди словом Господним.
+      averincev: ""
+      ungerov: ""
+      csya_old: И# послA руко1ю наfaна прbро1ка, и3 нарече2 и4мz є3мY їеддеді2
+        сло1вомъ гDнимъ.
+      sovr_rbo: и послал пророка Нафана, чтобы по слову Господа дать мальчику имя
+        Иедидия.
+      latin: Misitque in manu Nathan prophetae, et vocavit nomen ejus, Amabilis
+        Domino, eo quod diligeret eum Dominus.
+      ukr: "і послав пророка Натана, і той назвав ім'я йому: Єдід'я, ради Господа."
+      nkjv: "and He sent word by the hand of Nathan the prophet: So he called his name
+        Jedidiah, because of the Lord."
+      desnitsky: Он отправил пророка Натана наречь младенцу имя Возлюбленный – так
+        пожелал ГОСПОДЬ.
+      mt: ‫   וַיִּשְׁלַח בְּיַד נָתָן הַנָּבִיא וַיִּקְרָא אֶת־שְׁמוֹ יְדִידְיָהּ
+        בַּעֲבוּר יְהוָה׃ פ ‬
+      romana: Si a trimis pe proorocul Natan, si acesta i-a pus numele Iedida, adica
+        iubitul Domnului, cum ii spusese Domnul.
+      francais: Il le remit entre les mains de Nathan le prophète, et Nathan lui donna
+        le nom de Jedidja, à cause de l'Éternel.
+      italian: Il Signore amò Salomone e mandò il profeta Natan, che lo chiamò Iedidià
+        per ordine del Signore.
+      old_georgian: და მიავლინნა მისსა ნათან წინაწარმეტყუელი და უწოდა მას სახელი
+        იედედი, რომელ არს "საყუარელ უფლისა".
+      portuguese: e mandou, por intermédio do profeta Natã, dar-lhe o nome de
+        Jedidias, por amor do Senhor.
+      polish: "i posłał [o tym wiadomość], i za pośrednictwem Natana nazwał go
+        Jedidiasz\r- ze względu na Pana."
+      turkish: Davut karısı Bat-Şeva'yı avuttu. Yanına girip onunla yattı. Bat-Şeva
+        bir oğul doğurdu. Çocuğun adını Süleyman koydu. Çocuğu seven RAB
+        Peygamber Natan aracılığıyla haber gönderdi ve hatırı için çocuğun adını
+        Yedidyah koydu.
+      nrt: и послал пророка Нафана, чтобы тот по повелению Господа назвал его Иедидия.
+      Macarius: И послал чрез Нафана пророка, и нарек ему имя Иедид-Ия, ради Господа.
+      serbian: И посла Натана пророка, те му надје име Једидија, ради Господа.
+      bulgarian: "и прати пророка Натана, и той го нарече: Иедидия *, според словото
+        Господне. //* От Бога обикнат."
+      deutsch: Und er tat ihn unter die Hand Nathans, des Propheten; der hieß ihn
+        Jedidja, um des Herrn willen.
+      ukr2: і послав пророка Натана, й цей дав йому ім'я Єдідея, згідно з Господнім
+        словом.
+      ukr3: І передав його під догляд пророкові Натану, а сей назвав його Едидіа* по
+        слову Господа.
+      bel_syomukha: "і паслаў прарока Натана, і ён даў яму імя: Едыдыя, паводле слова
+        Госпада."
+      lev-khv: "И возвестил о том чрез пророка Нафана, который от имени Господа нарек
+        ему имя: Иедидиа (<i>Возлюбленный Господом</i>)."
+      czech: a ohlasil skrze proroka Natana, ze ho maji pojmenovat Jedidjas (to je
+        Hospodinuv milacek) kvuli Hospodinu.
+      spanish: al que amó Yavé, que envió a Natán profeta, el cual le dio el nombre de
+        Jedidia por causa de Yavé.
+      greek-lxx: καὶ ἀπέστειλεν ἐν χειρὶ Ναθαν τοῦ προφήτου καὶ ἐκάλεσεν τὸ ὄνομα
+        αὐτοῦ Ιδεδι ἕνεκεν Κυρίου
+      st_text: "и послал пророка Нафана, и он нарек ему имя: Иедидиа* по слову
+        Господа. <i>//*Возлюбленный Богом.</i>"
+  - id: 3905
+    number: 26
+    bookId: 10
+    text: Иоав воевал против Раввы Аммонитской и взял <i>почти</i> царственный город.
+    chapter: 12
+    chapterId: 279
+    parallels:
+      - verseId: 36553
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 3
+        short: Втор:3:11
+      - verseId: 3023
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 20
+        short: 1 Пар:20:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Иоав же воева в раввафе сынов аммоних и взя град царства.
+      averincev: ""
+      ungerov: ""
+      csya_old: І3waвъ же воевA въ раввafэ сынHвъ ґммHнихъ и3 взS грaдъ цaрства.
+      sovr_rbo: Иоав продолжал осаду Раввы Аммонитской и взял царскую крепость.
+      latin: Igitur pugnabat Joab contra Rabbath filiorum Ammon, et expugnabat urbem
+        regiam.
+      ukr: А Йоав воював з Раббою аммонітян, і здобув царське місто.
+      nkjv: Now Joab fought against Rabbah of the people of Ammon, and took the royal
+        city.
+      desnitsky: Йоав брал приступом Раббу, столицу аммонитян, он уже подступил к
+        царской твердыне.
+      mt: ‫   וַיִּלָּחֶם יוֹאָב בְּרַבַּת בְּנֵי עַמּוֹן וַיִּלְכֹּד אֶת־עִיר
+        הַמְּלוּכָה׃ ‬
+      romana: Ioab insa lupta impotriva cetatii Amonitilor, Raba, si aproape luase
+        cetatea domneasca.
+      francais: Joab, qui assiégeait Rabba des fils d'Ammon, s'empara de la ville royale,
+      italian: Intanto Ioab assalì Rabbà degli Ammoniti, si impadronì della città
+        delle acque
+      old_georgian: ამისად შემდგომად ბრძოდა იოაბადს, რაბათს, ძეთა მათ ამონისთა, სძლო
+        და დაიპყრა ქალაქი იგი მეფისა მათისა.
+      portuguese: Ora, pelejou Joabe contra Rabá, dos amonitas, e tomou a cidade real.
+      polish: A Joab staczał walki w ammonickim Rabba i zdobył stolicę królestwa.
+      turkish: Bu sırada Ammonlular'ın Rabba Kenti'ne karşı savaşı sürdüren Yoav,
+        saray semtini ele geçirdi.
+      nrt: Тем временем Иоав воевал против аммонитской столицы Раввы и взял царскую
+        крепость.
+      Macarius: Между тем Иоав воевал против Раббы сынов Аммоновых, и взял сей
+        царственный город.
+      serbian: А Јоав, бијући Раву синова Амонових, узе царски град.
+      bulgarian: Иоав воюва против Рава Амонитска и току-речи превзе тоя царски град.
+      deutsch: So stritt nun Joab wider Rabba der Kinder Ammon königliche Stadt
+      ukr2: Тим часом Йоав воював проти Рабби аммоніїв й здобув Водяне Місто.
+      ukr3: Йоаб же воював Раббу Амнонїйську й добував се царське місто.
+      bel_syomukha: Ёаў ваяваў супроць Равы Аманіцкай і ўзяў амаль царскі горад.
+      lev-khv: И воевал Иоав против Раввы Аммонитян, и овладел царской столицей.
+      czech: Joab bojoval proti Rabe Amonovcu; dobyval kralovske mesto.
+      spanish: Joab, que asediaba a Raba, de los hijos de Ammón, se apoderó de la
+        ciudad de las aguas
+      greek-lxx: καὶ ἐπολέμησεν Ιωαβ ἐν Ραββαθ υἱῶν Αμμων καὶ κατέλαβεν τὴν πόλιν τῆς
+        βασιλείας
+      st_text: Иоав воевал против Раввы Аммонитской и взял <i>почти</i> царственный
+        город.
+  - id: 3906
+    number: 27
+    bookId: 10
+    text: "И послал Иоав к Давиду сказать ему: я нападал на Равву и овладел водою
+      города;"
+    chapter: 12
+    chapterId: 279
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И посла иоав вестники к давиду и рече: воевах на равваф и взях град вод:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# послA їwaвъ вёстники къ давjду и3 рече2: воевaхъ на раввafъ и3
+        взsхъ грaдъ во1дъ:"
+      sovr_rbo: "Он отправил гонцов к Давиду передать: «Я осаждаю Равву и захватил
+        городской источник воды."
+      latin: "Misitque Joab nuntios ad David, dicens: Dimicavi adversum Rabbath, et
+        capienda est Urbs aquarum."
+      ukr: "І послав Йоав послів до Давида, і сказав: Воював я з Раббою, і здобув я
+        місто води."
+      nkjv: "And Joab sent messengers to David, and said, \"I have fought against
+        Rabbah, and I have taken the city's water supply. "
+      desnitsky: "Тогда Йоав послал к Давиду гонцов с такими словами: «Я брал
+        приступом Раббу и овладел городской водой."
+      mt: ‫   וַיִּשְׁלַח יוֹאָב מַלְאָכִים אֶל־דָּוִד וַיֹּאמֶר נִלְחַמְתִּי בְרַבָּה
+        גַּם־לָכַדְתִּי אֶת־עִיר הַמָּיִם׃ ‬
+      romana: 'Atunci a trimis Ioab la David sa i se spuna: "Am tabarat asupra cetatii
+        Raba si am luat cetatea prin apa.'
+      francais: "et envoya des messagers à David pour lui dire: J'ai attaqué Rabba, et
+        je me suis déjà emparé de la ville des eaux;"
+      italian: 'e inviò messaggeri a Davide per dirgli: "Ho assalito Rabbà e mi sono
+        già impadronito della città delle acque.'
+      old_georgian: "და წარავლინნა მოციქულნი იოაბ დავითისა და ჰრქუა, ვითარმედ:
+        დავიპყარ წყლით კერძო ქალაქისა ამის!"
+      portuguese: "Então mandou Joabe mensageiros a Davi, e disse: Pelejei contra
+        Rabá, e já tomei a cidade das águas."
+      polish: "Wysyłając posłów do Dawida donosił: ”Natarłem na Rabba i zdobyłem
+        już\rMiasto Wód."
+      turkish: Sonra Davut'a ulaklar göndererek, «Rabba Kenti'ne karşı savaşıp su
+        kaynaklarını ele geçirdim» dedi,
+      nrt: "Иоав послал к Давиду вестников, говоря: – Я воевал с Раввой и захватил ее
+        водный запас."
+      Macarius: "И послал Иоав вестников к Давиду, и сказал: я сражался против Раббы,
+        завладел уже водою города."
+      serbian: "И посла посланике к Давиду и рече: Бих Раву и узех град на води."
+      bulgarian: "Иоав прати да кажат на Давида: аз нападах на Рава и завладях водата
+        на града;"
+      deutsch: "und sandte Boten zu David und ließ ihm sagen: Ich habe gestritten
+        wider Rabba und habe auch gewonnen die Wasserstadt."
+      ukr2: "І послав він посланців до Давида сказати йому: “Я воював проти Рабби й
+        захопив Водяне Місто."
+      ukr3: "І послав Йоаб посланця до Давида сказати йому: Я воював Раббу й треба
+        здобути Водяний Город:"
+      bel_syomukha: "І паслаў Ёаў да Давіда сказаць яму: я напаў на Раву і авалодаў
+        вадою горада;"
+      lev-khv: "И послал Иоав нарочных к Давиду сказать: сражаясь против Раввы, я уже
+        перехватил воду у города."
+      czech: 'I poslal Joab posly k Davidovi s hlasenim: "Bojoval jsem proti Rabe a
+        dobyl jsem Mesto vod.'
+      spanish: "y mandó mensajeros a David para decirle: <<He atacado a Raba y ya me
+        he apoderado de la ciudad de las aguas;"
+      greek-lxx: καὶ ἀπέστειλεν Ιωαβ ἀγγέλους πρὸς Δαυιδ καὶ εἶπεν ἐπολέμησα ἐν Ραββαθ
+        καὶ κατελαβόμην τὴν πόλιν τῶν ὑδάτων
+      st_text: "И послал Иоав к Давиду сказать ему: я нападал на Равву и овладел водою
+        города;"
+  - id: 3907
+    number: 28
+    bookId: 10
+    text: теперь собери остальной народ и подступи к городу и возьми его; ибо, если
+      я возьму его, то мое имя будет наречено ему.
+    chapter: 12
+    chapterId: 279
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и ныне собери останок людий и ополчися на град, и приими его, да не аз
+        возму град, и наречется имя мое на нем.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 нн7э собери2 њстaнокъ людjй и3 њполчи1сz на грaдъ, и3 пріими2
+        є3го2, да не ѓзъ возмY грaдъ, и3 нарече1тсz и4мz мое2 на не1мъ.
+      sovr_rbo: Собери остаток войска и присоединись к осаде города, чтобы ты захватил
+        его. Иначе я войду в него, и слава победителя достанется мне».
+      latin: "Nunc igitur congrega reliquam partem populi, et obside civitatem, et
+        cape eam: ne, cum a me vastata fuerit urbs, nomini meo ascribatur
+        victoria."
+      ukr: А тепер збери решту народу, і таборуй біля міста, та здобудь його, щоб не
+        здобув те місто я, і щоб не було воно назване моїм ім'ям.
+      nkjv: Now therefore, gather the rest of the people together and encamp against
+        the city and take it, lest I take the city and it be called after my
+        name."
+      desnitsky: Теперь собери остаток народа, пойди приступом на город и захвати его,
+        ведь если его захвачу я, то над ним будет наречено мое имя».
+      mt: ‫   וְעַתָּה אֱסֹף אֶת־יֶתֶר הָעָם וַחֲנֵה עַל־הָעִיר וְלָכְדָהּ
+        פֶּן־אֶלְכֹּד אֲנִי אֶת־הָעִיר וְנִקְרָא שְׁמִי עָלֶיהָ׃ ‬
+      romana: Aduna acum celalalt popor si vino asupra cetatii si o ia; caci de o voi
+        lua eu, atunci se va slavi numele meu".
+      francais: rassemble maintenant le reste du peuple, campe contre la ville, et
+        prends-la, de peur que je ne la prenne moi-même et que la gloire ne m'en
+        soit attribuée.
+      italian: Ora raduna il resto del popolo, accàmpati contro la città e prendila,
+        altrimenti se la prendo io, porterebbe il mio nome".
+      old_georgian: აწ თჳთ მოვედ აქა, დაიპყარ ქალაქი ესე, რათა არა სახელი ჩემი იყოს
+        დაპყრობად ამისა, არამედ შენი!
+      portuguese: "Ajunta, pois, agora o resto do povo, acampa contra a cidade e
+        toma-a, para que eu não a tome e seja o meu\rnome aclamado sobre ela."
+      polish: "A teraz zbierz pozostałe wojsko i prowadź dalej walkę przeciw miastu.
+        Podbij\rje, ażebym nie ja był jego zdobywcą i nie nadano mu mego
+        imienia”."
+      turkish: «Şimdi sen ordunun geri kalanlarını topla, kenti kuşatıp ele geçir;
+        öyle ki, kenti ben ele geçirmeyeyim ve kent adımla anılmasın.»
+      nrt: Итак, собери оставшихся воинов, осади город и возьми его. Иначе я сам
+        возьму город, и он будет назван моим именем.
+      Macarius: Итак собери остальной народ, и осади город, и возьми его, чтобы не
+        взял города я и не нареклось на нем мое имя.
+      serbian: Него сада скупи остали народ, и стани у око према граду и узми га, да
+        га не бих ја узео и моје се име спомињало на њему.
+      bulgarian: сега събери останалия народ и потегли към града, и го превземи;
+        защото, ако го превзема аз, ще му се даде моето име.
+      deutsch: So nimm nun zuhauf das übrige Volk und belagere die Stadt und gewinne
+        sie, auf daß ich sie nicht gewinne und ich den Namen davon habe.
+      ukr2: Збери, отже, останок військового люду, обложи місто й візьми його, бо як я
+        його здобуду, воно назветься моїм ім'ям.”
+      ukr3: Так збирай до купи останок військового люду та й обляжи город і звоюй
+        його, щоб не я звоював город і щоб моє ймя не вязалось із ним.
+      bel_syomukha: цяпер зьбяры астатні народ і падступіся да горада і вазьмі яго;
+        бо, калі я вазьму яго, дык маё імя будзе дадзена яму.
+      lev-khv: И так собери остальной народ, осади город и возьми его; иначе, если я
+        возьму город, то его назовут моим именем.
+      czech: Nyni tedy seber zbytek lidu a poloz se proti tomu mestu a dobud je, abych
+        nedobyl to mesto ja, aby nad nim nebylo provolavano me jmeno."
+      spanish: reúne, pues, al pueblo todo y ven a acampar contra la ciudad, para que
+        no sea yo quien por mí mismo la tome y se me atribuya a mí la
+        victoria>>.
+      greek-lxx: καὶ νῦν συνάγαγε τὸ κατάλοιπον τοῦ λαοῦ καὶ παρέμβαλε ἐπὶ τὴν πόλιν
+        καὶ προκαταλαβοῦ αὐτήν ἵνα μὴ προκαταλάβωμαι ἐγὼ τὴν πόλιν καὶ κληθῇ τὸ
+        ὄνομά μου ἐπ᾿ αὐτήν
+      st_text: теперь собери остальной народ и подступи к городу и возьми его; ибо,
+        если я возьму его, то мое имя будет наречено ему.
+  - id: 3908
+    number: 29
+    bookId: 10
+    text: И собрал Давид весь народ и пошел к Равве, и воевал против нее и взял ее.
+    chapter: 12
+    chapterId: 279
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И собра давид вся люди, и пойде в равваф, и ополчися нань, и взя его:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# собрA давjдъ вс‰ лю1ди, и3 по1йде въ раввafъ, и3 њполчи1сz нaнь,
+        и3 взS є3го2:"
+      sovr_rbo: Давид собрал все войско, отправился в Равву, воевал и взял ее.
+      latin: "Congregavit itaque David omnem populum, et profectus est adversum
+        Rabbath: cumque dimicasset, cepit eam."
+      ukr: І зібрав Давид увесь народ, і пішов до Рабби, і воював із нею, та й здобув
+        її.
+      nkjv: So David gathered all the people together and went to Rabbah, fought
+        against it, and took it.
+      desnitsky: Давид собрал весь народ, пошел приступом на Раббу и овладел ей.
+      mt: ‫   וַיֶּאֱסֹף דָּוִד אֶת־כָּל־הָעָם וַיֵּלֶךְ רַבָּתָה וַיִּלָּחֶם בָּהּ
+        וַיִּלְכְּדָהּ׃ ‬
+      romana: Atunci a adunat David tot poporul si s-a dus asupra cetatii Raba, s-a
+        luptat impotriva ei si a luat-o.
+      francais: David rassembla tout le peuple, et marcha sur Rabba; il l'attaqua, et
+        s'en rendit maître.
+      italian: Davide radunò tutto il popolo, si mosse verso Rabbà, l'assalì e la prese.
+      old_georgian: და შეკრიბა დავით ყოველი ერი და მივიდა რობათს, ბრძოლა-ყო და დაიპყრა
+        ქალაქი იგი.
+      portuguese: Então Davi ajuntou todo o povo, e marchou para Rabá; pelejou contra
+        ela, e a tomou.
+      polish: "Dawid zebrał więc całe wojsko i udał się do Rabba, natarł na miasto i
+        zdobył\rje."
+      turkish: Davut bütün askerlerini toplayıp Rabba Kenti'ne gitti, kente karşı
+        savaşıp ele geçirdi.
+      nrt: Давид собрал все войско, пошел на Равву и, сразившись, взял ее.
+      Macarius: И собрал Давид весь народ и пошел в Раббу, и сразился с нею, и взял ее.
+      serbian: И Давид скупив сав народ, отиде на Раву и удари на њу, и узе је.
+      bulgarian: Давид събра целия народ, потегли към град Рава, воюва против него и
+        го превзе.
+      deutsch: Also nahm David alles Volk zuhauf und zog hin und stritt wider Rabba
+        und gewann es
+      ukr2: Тоді Давид зібрав усе військо, двигнув на Раббу, воював проти неї й здобув
+        її.
+      ukr3: І зібрав Давид круг себе ввесь військовий люд, двинув проти Рабби, воював
+        і впокорив її.
+      bel_syomukha: І сабраў Давід увесь народ і пайшоў да Равы, і ваяваў супроць яе і
+        ўзяў яе.
+      lev-khv: И собрал Давид весь народ, пошел к Равве, сразился против нея и овладел
+        ею.
+      czech: David sebral vsechen lid, tahl do Raby, bojoval proti ni a dobyl ji.
+      spanish: David reunió al pueblo, y, marchando contra Raba, la atacó y se apoderó
+        de ella.
+      greek-lxx: καὶ συνήγαγεν Δαυιδ πάντα τὸν λαὸν καὶ ἐπορεύθη εἰς Ραββαθ καὶ
+        ἐπολέμησεν ἐν αὐτῇ καὶ κατελάβετο αὐτήν
+      st_text: И собрал Давид весь народ и пошел к Равве, и воевал против нее и взял ее.
+  - id: 3909
+    number: 30
+    bookId: 10
+    text: И взял Давид венец царя их с головы его, - а в нем было золота талант и
+      драгоценный камень, - и возложил его Давид на свою голову, и добычи из
+      города вынес очень много.
+    chapter: 12
+    chapterId: 279
+    parallels:
+      - verseId: 3024
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 20
+        short: 1 Пар:20:2
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и взя венец молхома царя их с главы его, талант злата вес его, и от
+        камения драга, и бе на главе давидове, и корысть изнесе из града многу
+        зело:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 взS вэне1цъ молхо1ма царS и4хъ съ главы2 є3гw2, талaнтъ злaта вёсъ
+        є3гw2, и3 t кaменіz дрaга, и3 бЁ на главЁ давjдовэ, и3 коры1сть и3знесе2
+        и3з8 грaда мно1гу ѕэлw2:"
+      sovr_rbo: Он захватил золотую корону, которую носил их царь. Она весила талант,
+        и в ней был драгоценный камень; потом Давид сам носил ее. Он вынес из
+        города очень богатую добычу,
+      latin: "Et tulit diadema regis eorum de capite ejus, pondo auri talentum, habens
+        gemmas pretiosissimas, et impositum est super caput David. Sed et
+        praedam civitatis asportavit multam valde:"
+      ukr: І взяв він корону з голови їхнього царя, а вага її талант золота, та
+        дорогий камінь, і Давид поклав її на свою голову. І він виніс дуже
+        багато здобичі з того міста.
+      nkjv: "Then he took their king's crown from his head. Its weight was a talent of
+        gold, with precious stones. And it was set on David's head. Also he
+        brought out the spoil of the city in great abundance. "
+      desnitsky: Давид снял с головы их царя золотой венец с драгоценными камнями
+        весом в талант, теперь он был на голове Давида. Также он вынес из города
+        огромную добычу.
+      mt: ‫   וַיִּקַּח אֶת־עֲטֶרֶת־מַלְכָּם מֵעַל רֹאשׁוֹ וּמִשְׁקָלָהּ כִּכַּר זָהָב
+        וְאֶבֶן יְקָרָה וַתְּהִי עַל־רֹאשׁ דָּוִד וּשְׁלַל הָעִיר הוֹצִיא
+        הַרְבֵּה מְאֹד׃ ‬
+      romana: Si a luat David de pe capul regelui ei coroana, care era de un talant de
+        aur si cu pietre scumpe, si a pus-o pe capul sau; a luat si foarte multa
+        prada din cetate.
+      francais: "Il enleva la couronne de dessus la tête de son roi: elle pesait un
+        talent d'or et était garnie de pierres précieuses. On la mit sur la tête
+        de David, qui emporta de la ville un très grand butin."
+      italian: Tolse dalla testa di Milcom la corona, che pesava un talento d'oro e
+        conteneva una pietra preziosa; essa fu posta sulla testa di Davide.
+        Asportò dalla città un bottino molto grande.
+      old_georgian: და თჳთ მოჰჴადა მეფესა მათსა მელქონს გჳრგჳნი თავსა მისსა. და იყო
+        იგი სასწორითა ერთი ქანქარი ოქრო და ანთრაკი, დაიდგა იგი დავით თავსა თჳსსა
+        და ნატყუენავი გამოიღო ფრიად.
+      portuguese: "Também tirou a coroa da cabeça do seu rei; e o peso dela era de um
+        talento de ouro e havia nela uma pedra\rpreciosa; e foi posta sobre a
+        cabeça de Davi, que levou da cidade mui grande despojo."
+      polish: "Z głowy Milkoma zdjął koronę, która ważyła talent złota. Miała ona
+        drogocenny kamień, który posłużył za ozdobę głowy Dawida. Zabrał też z
+        miasta\rniezliczoną ilość łupów."
+      turkish: Ammon Kralı'nın başındaki tacı aldı. Değerli taşlarla süslü, ağırlığı
+        bir talant altını bulan tacı Davut'un başına koydular. Davut kentten çok
+        miktarda mal yağmalayıp götürdü.
+      nrt: Он снял золотую корону с головы их царя – корона весила талант и была
+        украшена драгоценным камнем – и возложил ее на свою голову. Еще он взял
+        в городе огромную добычу.
+      Macarius: И взял венец царя их с головы его, весу в нем талант золота с
+        драгоценными камнями. И был он на голове Давида, и весьма много добычи
+        вынес из города.
+      serbian: И узе цару њихову с главе круну, у којој бјеше таланат злата, с драгим
+        камењем, и метнуше је на главу Давиду, и однесе из града плијен врло
+        велик.
+      bulgarian: Давид взе венеца на царя им от главата му, - а в него имаше талант
+        злато и скъпоценен камък, - и го възложи Давид на своята глава, и изнесе
+        из града много голяма плячка.
+      deutsch: und nahm die Krone seines Königs von seinem Haupt, die am Gewicht einen
+        Zentner Gold hatte und Edelgesteine, und sie ward David auf sein Haupt
+        gesetzt; und er führte aus der Stadt sehr viel Beute.
+      ukr2: Він зняв з голови Мілкома вінець, який важив талант золота й мав у собі
+        дорогий камінь; і покладено його на голову Давида. Вивіз також із міста
+        здобичі превелику силу.
+      ukr3: І взяв Давид вінець із голови царя їх, важив же він талант золота й на
+        йому був дорогий камінь, і надїв його Давид собі на голову, та вивіз із
+        города велике множество здобичі.
+      bel_syomukha: І ўзяў Давід вянок цара іхняга з галавы ягонай, - а ў ім было
+        золата талант і каштоўны камень, - і ўсклаў яго Давід на галаву сваю, і
+        здабычы з горада вынес вельмі многа.
+      lev-khv: И взял венец царя их с головы его, весом в талант золота, с
+        драгоценными камнями, и был он над головою Давида, и добычи из города
+        вынес очень много.
+      czech: Snal z hlavy jejich Krale korunu, jejiz zlato s drahokamem vazilo talent.
+        Byvala pak na hlave Davidove. Z mesta odvezl tez velke mnozstvi koristi.
+      spanish: Quitó la corona de Milcom de sobre su cabeza, que pesaba un talento de
+        oro. Tenía una piedra preciosa, y fue puesta en la cabeza de David, que
+        tomó de la ciudad muy gran botín.
+      greek-lxx: καὶ ἔλαβεν τὸν στέφανον Μελχολ τοῦ βασιλέως αὐτῶν ἀπὸ τῆς κεφαλῆς
+        αὐτοῦ καὶ ὁ σταθμὸς αὐτοῦ τάλαντον χρυσίου καὶ λίθου τιμίου καὶ ἦν ἐπὶ
+        τῆς κεφαλῆς Δαυιδ καὶ σκῦλα τῆς πόλεως ἐξήνεγκεν πολλὰ σφόδρα
+      st_text: И взял Давид венец царя их с головы его, - а в нем было золота талант и
+        драгоценный камень, - и возложил его Давид на свою голову, и добычи из
+        города вынес очень много.
+  - id: 3910
+    number: 31
+    bookId: 10
+    text: А народ, бывший в нем, он вывел и положил их под пилы, под железные
+      молотилки, под железные топоры, и бросил их в обжигательные печи. Так он
+      поступил со всеми городами Аммонитскими. И возвратился после того Давид и
+      весь народ в Иерусалим.
+    chapter: 12
+    chapterId: 279
+    parallels:
+      - verseId: 4472
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 8
+        short: 2 Цар:8:2
+      - verseId: 20655
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 41
+        short: Ис:41:15
+      - verseId: 9438
+        bookId: 37
+        bookCode: kniga-proroka-amosa
+        chapter: 1
+        short: Ам:1:3
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и люди сущыя в нем изведе, и положи на пилы и на трезубы железны и секиры
+        железны, и превождаше их сквозе пещь плинфяну. И тако сотвори всем
+        градом сынов аммоних. И возвратися давид и весь израиль во Иерусалим.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 лю1ди сyщыz въ не1мъ и3зведе2, и3 положи2 на пилы6 и3 на трезyбы
+        желBзны и3 сэки6ры жєлёзны, и3 превождaше и5хъ сквозЁ пе1щь плjнfzну. И#
+        тaкw сотвори2 всBмъ градHмъ сынHвъ ґммHнихъ. И# возврати1сz давjдъ и3
+        ве1сь ї}ль во їеrли1мъ.
+      sovr_rbo: жителей его он увел и заставил формовать кирпичи, а сам город разрушил
+        пилами, железными заступами и топорами. И так Давид поступил со всеми
+        аммонитскими городами, после чего вместе со всем войском вернулся в
+        Иерусалим.
+      latin: "populum quoque ejus adducens serravit, et circumegit super eos ferrata
+        carpenta: divisitque cultris, et traduxit in typo laterum: sic fecit
+        universis civitatibus filiorum Ammon: et reversus est David, et omnis
+        exercitus in Jerusalem."
+      ukr: А народ, що був у ньому, він повиводив, і поклав їх під пилку, і під
+        залізні долота та під залізні сокири, і позаганяв їх до цегельняної
+        печі. І так робив він усім аммонітським містам. І вернувся Давид та
+        ввесь народ до Єрусалиму.
+      nkjv: And he brought out the people who were in it, and put them to work with
+        saws and iron picks and iron axes, and made them cross over to the brick
+        works. So he did to all the cities of the people of Ammon. Then David
+        and all the people returned to Jerusalem.
+      desnitsky: Его жителей он тоже вывел и приставил их к пилам, железным киркам и
+        топорам и заставил их обжигать кирпичи. Так поступил он со всеми
+        городами аммонитян.
+      mt: ‫   וְאֶת־הָעָם אֲשֶׁר־בָּהּ הוֹצִיא וַיָּשֶׂם בַּמְּגֵרָה וּבַחֲרִצֵי
+        הַבַּרְזֶל וּבְמַגְזְרֹת הַבַּרְזֶל וְהֶעֱבִיר אוֹתָם *במלכן
+        **בַּמַּלְבֵּן וְכֵן יַעֲשֶׂה לְכֹל עָרֵי בְנֵי־עַמּוֹן וַיָּשָׁב דָּוִד
+        וְכָל־הָעָם יְרוּשָׁלִָם׃ פ ‬
+      romana: Iar pe poporul care se afla in ea l-a scos si l-a pus sub fierastrau si
+        sub grapa de fier si sub securi de fier si i-a aruncat in cuptoarele de
+        ars caramida. Asa a facut el cu toate cetatile Amonitilor. Dupa aceea
+        David s-a intors la Ierusalim cu tot poporul.
+      francais: Il fit sortir les habitants, et il les plaça sous des scies, des
+        herses de fer et des haches de fer, et les fit passer par des fours à
+        briques; il traita de même toutes les villes des fils d'Ammon. David
+        retourna à Jérusalem avec tout le peuple.
+      italian: Fece uscire gli abitanti che erano nella città e li impiegò nei lavori
+        delle seghe, dei picconi di ferro e delle scuri di ferro e li fece
+        lavorare alle fornaci da mattoni; così fece a tutte le città degli
+        Ammoniti. Poi Davide tornò a Gerusalemme con tutta la sua truppa.
+      old_georgian: და ნეშტი ერისა მის გამოიყვანა და განხერხნა იგინი ხერხითა და
+        მოსწყჳდნა იგინი ტაბრაკითა და ვაზირითა. და მოიყვანნა იგინი მადიბადდ,
+        რომელ არს ალიზისმოქმედთა, და ესრეთ უზმიდა ყოველთა ქალაქთა ძეთა ამონისთა.
+        და მოვიდა დავით ერითურთ იერუსალჱმად.
+      portuguese: "E, trazendo os seus habitantes, os pôs a trabalhar com serras,
+        trilhos de ferro, machados de ferro, e em fornos\rde tijolos; e assim
+        fez a todas as cidades dos amonitas. Depois voltou Davi e todo o povo
+        para Jerusalém."
+      polish: "Ludność zaś, która w nim była, uprowadził i przeznaczył do obsługi pił,
+        kilofów i żelaznych siekier oraz kazał jej przejść do wyrobu cegły. W
+        ten sposób\rpostąpił z wszystkimi miastami ammonickimi. Potem wrócił
+        Dawid z całym\rwojskiem do Jerozolimy."
+      turkish: Orada yaşayan halkı dışarı çıkarıp testereyle, demir kazma ve baltayla
+        yapılan işlerde, tuğla yapımında çalıştırdı. Davut bunu bütün
+      nrt: Он вывел жителей, которые были в нем, заставив их работать пилами,
+        железными мотыгами и топорами, а также изготавливать кирпичи. Он
+        поступил так со всеми аммонитскими городами. После этого Давид со всем
+        своим войском вернулся в Иерусалим.
+      Macarius: А народ, который был в нем, выводил и клал под пилы и под железные
+        молотильни, и под железные секиры, и сожигал в обжигательной кирпичной
+        печи. Так поступил со всеми городами сынов Аммоновых. И возвратился
+        Давид и весь народ в Иерусалим.
+      serbian: А народ који бијаше у њему изведе и метну их под пиле и под бране
+        гвоздене и под сјекире гвоздене, и сагна их у пећи гдје се опеке пеку. И
+        тако учини свијем градовима синова Амоновијех. Потом се врати Давид са
+        свијем народом у Јерусалим.
+      bulgarian: А народа, който бе в него, изведе и го прекара през триони, през
+        железни дикани, през железни брадви и го хвърли в пещи за печене тухли.
+        Тъй постъпи той с всички амонитски градове. След това Давид се върна с
+        целия народ в Иерусалим.
+      deutsch: Aber das Volk drinnen führte er heraus und legte sie unter eiserne
+        Sägen und Zacken und eiserne Keile und verbrannte sie in Ziegelöfen. So
+        tat er allen Städten der Kinder Ammon. Da kehrte David und alles Volk
+        wieder gen Jerusalem.
+      ukr2: Людей же, що були в ньому, вивів і поставив їх до пил, залізних приладь та
+        сокир залізних; заставив їх і цеглу виробляти. Так він чинив з усіма
+        аммонійськими містами. Потім Давид повернувся зо своїм військом у
+        Єрусалим.
+      ukr3: А людей, що в йому були, повиводив і ставляв їх під пили, їздив по них
+        кованими возами й переводив через цегольні печі. Так само чинив він і з
+        другими городами Аммонїйськими. І вернувсь Давид з усїм народом у
+        Ерусалим.
+      bel_syomukha: А народ, які быў у ім, ён вывеў і паклаў іх пад пілы, пад жалезныя
+        малатарні, пад жалезныя сякеры, і кінуў іх у абпальныя печы. Так ён
+        зрабіў з усімі гарадамі Аманіцкімі. І вярнуўся пасьля таго Давід і ўвесь
+        народ у Ерусалім.
+      lev-khv: И народ, который был там, он вывел, и приставил к пилам, к железным
+        молотилкам, к железным топорам, и отправил их на кирпичныя работы. Так
+        поступил он со всеми городами Аммонитян. И возвратился Давид и весь
+        народ в Иерусалим.
+      czech: Lid, ktery byl v nem, odvedl a postavil k pilam, zeleznym spicakum a
+        zeleznym sekyram a prevedl je do cihelny. Tak nalozil se vsemi mesty
+        Amonovcu. Pak se David i vsechen lid vratili do Jeruzalema.
+      spanish: A los habitantes los sacó de la ciudad y los puso a las sierras, a los
+        trillos herrados, a las hachas, a los molinos y a los hornos de
+        ladrillos. Eso mismo hizo con todas las ciudades de los hijos de Ammón.
+        Después se tornó David a Jerusalén con todo el pueblo.
+      greek-lxx: καὶ τὸν λαὸν τὸν ὄντα ἐν αὐτῇ ἐξήγαγεν καὶ ἔθηκεν ἐν τῷ πρίονι καὶ ἐν
+        τοῖς τριβόλοις τοῖς σιδηροῖς καὶ διήγαγεν αὐτοὺς διὰ τοῦ πλινθείου καὶ
+        οὕτως ἐποίησεν πάσαις ταῖς πόλεσιν υἱῶν Αμμων καὶ ἐπέστρεψεν Δαυιδ καὶ
+        πᾶς ὁ λαὸς εἰς Ιερουσαλημ
+      st_text: А народ, бывший в нем, он вывел и положил их под пилы, под железные
+        молотилки, под железные топоры, и бросил их в обжигательные печи. Так он
+        поступил со всеми городами Аммонитскими. И возвратился после того Давид
+        и весь народ в Иерусалим.

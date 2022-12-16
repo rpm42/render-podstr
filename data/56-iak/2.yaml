@@ -1,0 +1,2014 @@
+id: 1231
+number: 2
+bookId: 56
+verseCount: 26
+title: Глава 2
+verses:
+  - id: 15168
+    number: 1
+    bookId: 56
+    text: Братия мои! имейте веру в Иисуса Христа нашего Господа славы, не взирая на
+      лица.
+    chapter: 2
+    chapterId: 1231
+    parallels:
+      - verseId: 35954
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 1
+        short: Втор:1:17
+      - verseId: 36158
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 16
+        short: Втор:16:19
+      - verseId: 23259
+        bookId: 3
+        bookCode: levit
+        chapter: 19
+        short: Лев:19:15
+      - verseId: 34408
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 42
+        short: Сир:42:1
+    translates:
+      kassian: Братья мои, не держитесь веры в Господа нашего Иисуса Христа, Господа
+        славы, - с лицеприятием.
+      podstr: Братья мои, не в лицемериях имеете веру Господа нашего Иисуса Христа
+        славы.
+      csya: Братие моя, не на лица зряще имейте веру Господа нашего Иисуса Христа
+        славы.
+      averincev: ""
+      ungerov: ""
+      csya_old: Брaтіе мо‰, не на лиц† зрsще и3мёйте вёру гDа нaшегw ї}са хrтA слaвы.
+      sovr_rbo: ""
+      latin: Fratres mei, nolite in personarum acceptione habere fidem Domini nostri
+        Jesu Christi gloriae.
+      ukr: Брати мої, не зважаючи на обличчя, майте віру в нашого Господа слави, Ісуса
+        Христа.
+      nkjv: My brethren, do not hold the faith of our Lord Jesus Christ, the Lord of
+        glory, with partiality.
+      desnitsky: Братья мои, если верите в славного Господа нашего Иисуса Христа –
+        никого не выделяйте особо.
+      tex_rec: ᾿Αδελφοί μου, μὴ ἐν προσωποληψίαις ἔχετε τὴν πίστιν τοῦ Κυρίου ἡμῶν
+        ᾿Ιησοῦ Χριστοῦ τῆς δόξης.
+      deutsch: Liebe Brüder, haltet nicht dafür, daß der Glaube an Jesum Christum,
+        unsern Herrn der Herrlichkeit, Ansehung der Person leide.
+      spanish: Hermanos míos, no juntéis la acepción de personas con la fe de nuestro
+        glorioso Señor Jesucristo.
+      peshitta: ܐܰܚܰܝ ܠܳܐ ܒ݁ܡܰܣܰܒ݂ ܒ݁ܰܐܦ݁ܶܐ ܬ݁ܶܗܘܽܘܢ ܐܰܚܺܝܕ݂ܺܝܢ ܠܗܰܝܡܳܢܽܘܬ݂ܳܐ
+        ܕ݁ܬ݂ܶܫܒ݁ܽܘܚܬ݁ܶܗ ܕ݁ܡܳܪܰܢ ܝܶܫܽܘܥ ܡܫܺܝܚܳܐ܂
+      bel_syomukha: Браты мае! майце веру ў Ісуса Хрыста, нашага Госпада славы, бяз
+        увагі на асобы.
+      nrt: Братья мои, имейте веру в Иисуса Христа, нашего славного Господа, не
+        оказывая предпочтения одним людям перед другими.
+      romana: Fratii mei, nu cautand la fata omului sa aveti credinta in Domnul nostru
+        Iisus Hristos, Domnul slavei.
+      francais: Mes frères, que votre foi en notre glorieux Seigneur Jésus Christ soit
+        exempte de toute acception de personnes.
+      italian: Fratelli miei, non mescolate a favoritismi personali la vostra fede nel
+        Signore nostro Gesù Cristo, Signore della gloria.
+      old_georgian: ძმანო ჩემნო, დაე, თქვენი რწმენისათვის, რომლითაც გწამთ ჩვენი
+        დიდების უფალი იესო ქრისტე, უცხო იყოს მიკერძოება.
+      portuguese: Meus irmãos, não tenhais a fé em nosso Senhor Jesus Cristo, Senhor
+        da glória, em acepção de pessoas.
+      polish: Bracia moi, niech wiara wasza w Pana naszego Jezusa Chrystusa
+        uwielbionego nie ma względu na osoby.
+      new_text: Смотрите, братья мои, чтобы у вас, верующих в прославленного Господа
+        нашего Иисуса Христа, не было пристрастного отношения к людям.
+      serbian: Браћо моја, не гледајући ко је ко, имајте вјеру у нашега Господа славе
+        Исуса Христа.
+      bulgarian: Братя мои! дръжте вярата в Иисуса Христа, нашия Господ на славата,
+        без лицеприятие.
+      pobedonostsev: Братия мои, имейте веру в Господа нашего Иисуса Христа славы, и
+        не взирайте на лица.
+      ukr2: Брати мої, не зважаючи на особи, майте віру в Господа нашого, Ісуса Христа
+        прославленого.
+      ukr3: Браттє моє, не на лиця вважаючи, майте віру Господа нашого Ісуса Христа
+        прославленого.
+      zhukovsky: Братия мои, зря на лица, имеете ли веру в Господа нашего Иисуса
+        Христа славы?
+      czech: Bratri moji, jestlize verite v Jezise Krista, naseho Pana slavy, nesmite
+        delat rozdily mezi lidmi.
+      st_text: Братия мои! имейте веру в Иисуса Христа нашего Господа славы, не взирая
+        на лица.
+  - id: 15169
+    number: 2
+    bookId: 56
+    text: Ибо, если в собрание ваше войдет человек с золотым перстнем, в богатой
+      одежде, войдет же и бедный в скудной одежде,
+    chapter: 2
+    chapterId: 1231
+    parallels: []
+    translates:
+      kassian: Ибо, если войдет в ваше собрание человек с золотым перстнем, в
+        блестящей одежде, войдет же и бедный в грязной одежде,
+      podstr: Если ведь войдёт в синагогу вашу муж с золотыми кольцами в одежде
+        светлой, войдёт же и нищий в грязной одежде,
+      csya: Аще бо внидет в сонмище ваше муж, злат перстень нося, в ризе светле,
+        внидет же и нищь в худе одежди,
+      averincev: ""
+      ungerov: ""
+      csya_old: Ѓще бо вни1детъ въ со1нмище вaше мyжъ, злaтъ пе1рстень носS, въ ри1зэ
+        свётлэ, вни1детъ же и3 ни1щь въ хyдэ њде1жди,
+      sovr_rbo: ""
+      latin: Etenim si introierit in conventum vestrum vir aureum annulum habens in
+        veste candida, introierit autem et pauper in sordido habitu,
+      ukr: Бо коли до вашого зібрання ввійде чоловік із золотим перснем, у шаті
+        блискучій, увійде й бідар у вбогім вбранні,
+      nkjv: For if there should come into your assembly a man with gold rings, in fine
+        apparel, and there should also come in a poor man in filthy clothes,
+      desnitsky: Войдет в собрание ваше роскошно одетый человек с золотыми перстнями
+        на пальцах, войдет и бедняк в грязной одежде.
+      tex_rec: ἐὰν γὰρ εἰσέλθῃ εἰς τὴν συναγωγὴν ὑμῶν ἀνὴρ χρυσοδακτύλιος ἐν αἰσθῆτι
+        λαμπρᾷ, εἰσέλθῃ δὲ καὶ πτωχὸς ἐν ῥυπαρᾷ ἐσθῆτι,
+      deutsch: Denn so in eure Versammlung käme ein Mann mit einem goldenen Ringe und
+        mit einem herrlichen Kleide, es käme aber auch ein Armer in einem
+        unsauberen Kleide,
+      spanish: Porque si entrando en vuestra asamblea un hombre con anillos de oro en
+        los dedos, en traje magnífico, y entrando asimismo un pobre con traje
+        raído,
+      peshitta: ܐܶܢ ܓ݁ܶܝܪ ܢܶܥܽܘܠ ܠܰܟ݂ܢܽܘܫܬ݁ܟ݂ܽܘܢ ܐ݈ܢܳܫ ܕ݁ܥܶܙܩܳܬ݂ܶܗ ܕ݁ܕ݂ܰܗܒ݂ܳܐ ܐܰܘ
+        ܕ݁ܡܳܐܢܰܘܗ݈ܝ ܫܰܦ݁ܺܝܪܶܐ ܘܢܶܥܽܘܠ ܡܶܣܟ݁ܺܢܳܐ ܒ݁ܡܳܐܢܶܐ ܨܳܐܶܐ܂
+      bel_syomukha: Бо калі на сход ваш увойдзе чалавек з залатым пярсьцёнкам, у
+        багатым убраньні, увойдзе і бедны ў гаротнай адзежы,
+      nrt: Допустим, что на ваше собрание придет человек в богатой одежде и с золотым
+        перстнем, и вслед за ним войдет другой, бедный и в грязной одежде.
+      romana: Caci, daca va intra in adunarea voastra un om cu inele de aur in degete,
+        in haina stralucita, si va intra si un sarac, in haina murdara,
+      francais: Supposez, en effet, qu'il entre dans votre assemblée un homme avec un
+        anneau d'or et un habit magnifique, et qu'il y entre aussi un pauvre
+        misérablement vêtu;
+      italian: Supponiamo che entri in una vostra adunanza qualcuno con un anello
+        d'oro al dito, vestito splendidamente, ed entri anche un povero con un
+        vestito logoro.
+      old_georgian: რადგან თუ თქვენს სინაგოგაში შემოვა ოქროსბეჭდიანი და ბრწყინვალე
+        სამოსით მოსილი კაცი, და შემოვა გლახაკიც ჭუჭყიანი სამოსით,
+      portuguese: "Porque, se entrar na vossa reunião algum homem com anel de ouro no
+        dedo e com traje esplêndido, e entrar\rtambém algum pobre com traje
+        sórdido."
+      polish: "Bo gdyby przyszedł na wasze zgromadzenie człowiek przystrojony w
+        złote\rpierścienie i bogatą szatę i przybył także człowiek ubogi w
+        zabrudzonej szacie,"
+      new_text: Предположим, придет на ваше собрание богач с золотым кольцом на
+        пальце, в роскошном одеянии, и придет бедняк в замызганной одежде.
+      serbian: Јер ако дође на сабрање ваше човјек са златним прстеном и у свијетлој
+        хаљини, а дође и сиромах у биједној хаљини,
+      bulgarian: Защото, ако в събранието ви влезе човек със златен пръстен, с
+        бляскави дрехи, па влезе и сиромах с прости дрехи,
+      pobedonostsev: Если войдет в собрание ваше человек с золотыми перстнями на
+        руках, в богатой одежде, войдет же и бедный в скудной одежде,
+      ukr2: Бо коли до вашого зібрання ввійде чоловік із золотим перснем, у пишних
+        шатах, увійде і вбогий у брудній одежині,
+      ukr3: Коли бо ввійшов у громаду вашу чоловік з золотим перснем, в одежі осяйній,
+        ввійшов же й вбогий в мізерній одежі,
+      zhukovsky: Если войдет в собрание ваше муж с златым перстнем на пальце и в ризе
+        блестящей, и так же войдет нищий в худой одежде,
+      czech: Do vaseho shromazdeni prijde treba muz se zlatym prstenem a v nadhernem
+        odevu. Prijde take chudak v osumelych satech.
+      st_text: Ибо, если в собрание ваше войдет человек с золотым перстнем, в богатой
+        одежде, войдет же и бедный в скудной одежде,
+  - id: 15170
+    number: 3
+    bookId: 56
+    text: "и вы, смотря на одетого в богатую одежду, скажете ему: тебе хорошо сесть
+      здесь, а бедному скажете: ты стань там, или садись здесь, у ног моих, -"
+    chapter: 2
+    chapterId: 1231
+    parallels: []
+    translates:
+      kassian: "вы же посмотрите на носящего одежду блестящую и скажете: ты сядь
+        здесь, пожалуйста, а бедному скажете: ты стань там или сядь у подножья
+        моего, -"
+      podstr: посмотрите же на носящего одежду светлую и скажете, Ты сиди здесь
+        хорошо, и нищему скажете, Ты стань там сиди у подножия моего,
+      csya: "и воззрите на носящаго ризу светлу, и речете ему: ты сяди зде добре: и
+        нищему речете: ты стани тамо, или сяди зде на подножии моем:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 воззрите2 на носsщаго ри1зу свётлу, и3 рече1те є3мY: ты2 сsди здЁ
+        до1брэ: и3 ни1щему рече1те: ты2 стaни тaмw, и3ли2 сsди здЁ на подно1жіи
+        мое1мъ:"
+      sovr_rbo: ""
+      latin: "et intendatis in eum qui indutus est veste praeclara, et dixeritis ei:
+        Tu sede hic bene: pauperi autem dicatis: Tu sta illic; aut sede sub
+        scabello pedum meorum:"
+      ukr: "і ви поглянете на того, хто в шаті блискучій, і скажете йому: Ти сідай
+        вигідно отут, а бідареві прокажете: Ти стань там, чи сідай собі тут на
+        підніжку моїм,"
+      nkjv: and you pay attention to the one wearing the fine clothes and say to him,
+        "You sit here in a good place," and say to the poor man, "You stand
+        there," or, "Sit here at my footstool,"
+      desnitsky: "Взглянете вы на роскошно одетого и скажете: «тебе будет удобно
+        присесть здесь», а бедняку скажете: «а ты постой» или «садись тут, мне
+        под ноги»."
+      tex_rec: καὶ ἐπιβλέψητε ἐπὶ τὸν φοροῦντα τὴν ἐσθῆτα τὴν λαμπρὰν καὶ εἴπητε αὐτῷ,
+        σὺ κάθου ὧδε καλῶς, καὶ τῷ πτωχῷ εἴπητε, σὺ στῆθι ἐκεῖ ἢ κάθου ὧδε ὑπὸ
+        τὸ ὑποπόδιόν μου,
+      deutsch: "und ihr sähet auf den, der das herrliche Kleid trägt, und sprächet zu
+        ihm: Setze du dich her aufs beste! und sprächet zu dem Armen: Stehe du
+        dort! oder setze dich her zu meinen Füßen!"
+      spanish: "fijáis la atención en el que lleva el traje magnífico y le decís: Tú
+        siéntate aquí honrosamente; y al pobre le decís: Tú quédate ahí en pie,
+        o siéntate bajo mi escabel,"
+      peshitta: ܘܰܬ݂ܚܽܘܪܽܘܢ ܒ݁ܗܰܘ ܕ݁ܰܠܒ݂ܺܝܫ ܡܳܐܢܶܐ ܫܰܦ݁ܺܝܪܶܐ ܘܬ݂ܺܐܡܪܽܘܢ ܠܶܗ ܐܰܢ݈ܬ݁
+        ܗܳܪܟ݁ܳܐ ܬ݁ܶܒ݂ ܫܰܦ݁ܺܝܪ ܘܰܠܡܶܣܟ݁ܺܢܳܐ ܬ݁ܺܐܡܪܽܘܢ ܠܶܗ ܐܰܢ݈ܬ݁ ܩܽܘܡ ܠܗܰܠ ܐܰܘ
+        ܬ݁ܶܒ݂ ܠܳܟ݂ ܗܳܪܟ݁ܳܐ ܩܕ݂ܳܡ ܟ݁ܽܘܒ݂ܫܳܐ ܕ݁ܪܶܓ݂ܠܰܝܢ܂
+      bel_syomukha: "і вы глянеце на таго, хто ў багатым убраньні, і скажаце яму: табе
+        трэба сесьці тут, а беднаму скажаце: ты стань там, альбо: сядзь тут,
+        каля ног маіх,"
+      nrt: "Если вы взглянете на человека в богатой одежде и скажете ему: «Проходи,
+        пожалуйста, садись здесь», а бедному скажете: «Постой там», или же:
+        «Садись здесь, у моих ног»,"
+      romana: "Iar voi puneti ochii pe cel care poarta haina stralucita si-i ziceti:
+        Tu sezi bine aici, pe cand saracului ii ziceti: Tu stai acolo, in
+        picioare, sau: Sezi jos, la picioarele mele,"
+      francais: "si, tournant vos regards vers celui qui porte l'habit magnifique,
+        vous lui dites: Toi, assieds-toi ici à cette place d'honneur! et si vous
+        dites au pauvre: Toi, tiens-toi là debout! ou bien: Assieds-toi
+        au-dessous de mon marche-pied,"
+      italian: 'Se voi guardate a colui che è vestito splendidamente e gli dite: "Tu
+        siediti qui comodamente", e al povero dite: "Tu mettiti in piedi lì",
+        oppure: "Siediti qui ai piedi del mio sgabello",'
+      old_georgian: "შეხედავთ ბრწყინვალე სამოსით მოსილს და ეტყვით: აქ დაბრძანდითო,
+        გლახაკს კი - მანდ დადექი, ანდა: ჩემს ფერხთით დაჯექიო,"
+      portuguese: "e atentardes para o que vem com traje esplêndido e lhe disserdes:
+        Senta-te aqui num lugar de honra; e disserdes\rao pobre: Fica em pé, ou
+        senta-te abaixo do escabelo dos meus pés,"
+      polish: "a wy spojrzycie na bogato odzianego i powiecie: ”Usiądź na
+        zaszczytnym\rmiejscu!”, do ubogiego zaś powiecie: ”Stań sobie tam albo
+        usiądź u podnóżka mojego!”,"
+      new_text: "Ведь вы сразу обратите внимание на того, кто в блестящей одежде, и
+        скажете: «Садись сюда, здесь хорошее место», а бедняку скажете: «А ты
+        стань там» или «Сядь на пол, у моих ног»."
+      serbian: "И погледате на онога у свијетлој хаљини, и речете му: Ти сједи овдје
+        лијепо, а сиромаху: Ти стани ондје, или сједи овдје ниже подножја
+        мојега;"
+      bulgarian: "и погледнете на облечения с бляскави дрехи и му кажете: ти седни тук
+        добре, а на сиромаха кажете: ти стой там, или седни тук, при подножието
+        ми,"
+      pobedonostsev: "и вы, смотря на одетаго в богатое платье, скажете ему: «вот
+        хорошее для тебя место»; а бедному скажете: «стань вон там или садись
+        здесь у подножия моего», —"
+      ukr2: "а ви глянете на того, що носить пишні шати, і скажете йому: «Ти сідай тут
+        вигідно», а вбогому скажете: «Ти стань отам або сідай на моїм
+        підніжку»,"
+      ukr3: "і ви споглянете на того, що носить осяйну одежу, і скажете йому: Ти сїдай
+        отут гарно, а вбогому скажете: Ти стань отам, або сїдай отут на підніжку
+        моїм,"
+      zhukovsky: "И, воззрев на одетаго ризою блестящею, вы скажете: садись здесь на
+        лучшем месте, и скажете нищему: стань там, иль сядь у ног моих,"
+      czech: "A vy venujete svou pozornost tomu v nadhernem odevu a reknete mu: „Posad
+        se na tomto cestnem miste,“ kdezto chudemu reknete: „Ty postuj tamhle,
+        nebo si sedni tady na zem.“"
+      st_text: "и вы, смотря на одетого в богатую одежду, скажете ему: тебе хорошо
+        сесть здесь, а бедному скажете: ты стань там, или садись здесь, у ног
+        моих, -"
+  - id: 15171
+    number: 4
+    bookId: 56
+    text: то не пересуживаете ли вы в себе и не становитесь ли судьями с худыми
+      мыслями?
+    chapter: 2
+    chapterId: 1231
+    parallels: []
+    translates:
+      kassian: то не впали ли вы в противоречие с самими собой и не оказались ли
+        судьями с мыслями дурными?
+      podstr: не установили различия вы в себе и сделались судьями расчётов дурных?
+      csya: и не разсмотристе в себе, и бысте судии помышлений злых.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 не разсмотри1сте въ себЁ, и3 бы1сте судіи6 помышле1ній ѕлы1хъ.
+      sovr_rbo: ""
+      latin: nonne judicatis apud vosmetipsos, et facti estis judices cogitationum
+        iniquarum?
+      ukr: то чи не стало між вами поділення, і не стали ви злодумними суддями?
+      nkjv: have you not shown partiality among yourselves, and become judges with
+        evil thoughts?
+      desnitsky: И так вы вводите разделения в общине и решаете, исходя из дурных
+        помыслов.
+      tex_rec: καὶ οὐ διεκρίθητε ἐν ἑαυτοῖς καὶ ἐγένεσθε κριταὶ διαλογισμῶν πονηρῶν;
+      deutsch: ist's recht, daß ihr solchen Unterschied bei euch selbst macht und
+        richtet nach argen Gedanken?
+      spanish: ¿no juzgáis por vosotros mismos y venís a ser jueces perversos?
+      peshitta: ܠܳܐ ܗܳܐ ܐܶܬ݂ܦ݁ܰܠܰܓ݂ܬ݁ܽܘܢ ܠܟ݂ܽܘܢ ܒ݁ܢܰܦ݂ܫܟ݂ܽܘܢ ܘܰܗܘܰܝܬ݁ܽܘܢ ܡܦ݂ܰܪܫܳܢܶܐ
+        ܕ݁ܡܰܚܫܒ݂ܳܬ݂ܳܐ ܒ݁ܺܝܫܳܬ݂ܳܐ܂
+      bel_syomukha: дык ці ня робіце розьніцы між сабою і ці ня робіцеся вы зламыснымі
+        судзьдзямі?
+      nrt: то не проявляете ли вы несправедливость, становясь судьями с дурными
+        мыслями?
+      romana: N-ati facut voi, oare, in gandul vostru, deosebire intre unul si altul
+        si nu v-ati facut judecatori cu socoteli viclene?
+      francais: ne faites vous pas en vous-mêmes une distinction, et ne jugez-vous pas
+        sous l'inspiration de pensées mauvaises?
+      italian: non fate in voi stessi preferenze e non siete giudici dai giudizi
+        perversi?
+      old_georgian: განა თქვენშივე არ განიკითხავთ მათ და უკეთური ზრახვით განმკითხველი
+        მსაჯულნი არა ხართ?
+      portuguese: não fazeis, porventura, distinção entre vós mesmos e não vos tornais
+        juizes movidos de maus pensamentos?
+      polish: to czy nie czynicie różnic między sobą i nie stajecie się sędziami
+        przewrotnymi?
+      new_text: Разве тем самым вы уже не провели различия между братьями и не стали
+        судьями неправедными?
+      serbian: Зар тиме не учинисте разлику у себи и постадосте судије са злим
+        помислима?
+      bulgarian: то не направихте ли в себе си разлика между тях и не станахте ли
+        съдии с лукави помисли?
+      pobedonostsev: то не пересуживаете ли вы разницу между людьми, и суд ваш не
+        будет ли от недоброй мысли?
+      ukr2: "- то хіба ви тим не утворюєте різниці між собою і не стаєте суддями з
+        нікчемними думками?"
+      ukr3: то чи не пересуджуєте між собою і не станетесь суддями з ледачими думками?
+      zhukovsky: Не творите ли тогда между собою различия, и не бываете ли судиями с
+        злым помышлением?
+      czech: Nedelate tim mezi sebou rozdily a nestali se z vas soudci, kteri posuzuji
+        nespravne?
+      st_text: то не пересуживаете ли вы в себе и не становитесь ли судьями с худыми
+        мыслями?
+  - id: 15172
+    number: 5
+    bookId: 56
+    text: "Послушайте, братия мои возлюбленные: не бедных ли мира избрал Бог быть
+      богатыми верою и наследниками Царствия, которое Он обещал любящим Его?"
+    chapter: 2
+    chapterId: 1231
+    parallels:
+      - verseId: 21573
+        bookId: 2
+        bookCode: ishod
+        chapter: 20
+        short: Исх:20:6
+      - verseId: 33368
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 10
+        short: Сир:10:26
+      - verseId: 25879
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 5
+        short: Мф:5:3
+      - verseId: 1311
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 1
+        short: 1 Кор:1:26
+      - verseId: 28359
+        bookId: 77
+        bookCode: otkrovenie-ap-ioanna-bogoslova
+        chapter: 2
+        short: Откр:2:9
+    translates:
+      kassian: "Послушайте, братья мои возлюбленные: не Бог ли избрал бедных мира быть
+        богатыми в вере и наследниками Царства, которое Он обещал любящим Его?"
+      podstr: Послушайте, братья мои любимые. [Разве] не Бог избрал нищих мира богатых
+        в вере и наследников царства которое Он пообещал любящим Его?
+      csya: Слышите, братие моя возлюбленная, не Бог ли избра нищыя мира сего богаты в
+        вере и наследники Царствия, еже обеща любящым его?
+      averincev: ""
+      ungerov: ""
+      csya_old: Слы1шите, брaтіе мо‰ возлю1бленнаz, не бг7ъ ли и3збрA ни1щыz мjра
+        сегw2 бог†ты въ вёрэ и3 наслёдники цrтвіz, є4же њбэщA лю1бzщымъ є3го2;
+      sovr_rbo: ""
+      latin: "Audite, fratres mei dilectissimi: nonne Deus elegit pauperes in hoc
+        mundo, divites in fide, et haeredes regni, quod repromisit Deus
+        diligentibus se?"
+      ukr: Послухайте, мої брати любі, чи ж не вибрав Бог бідарів цього світу за
+        багатих вірою й за спадкоємців Царства, яке обіцяв Він тим, хто любить
+        Його?
+      nkjv: "Listen, my beloved brethren: Has God not chosen the poor of this world to
+        be rich in faith and heirs of the kingdom which He promised to those who
+        love Him?"
+      desnitsky: Послушайте, братья мои возлюбленные! Бог избрал тех, кто беден в этом
+        мире, чтобы обогатить их верой и дать им в наследие царство – Он обещал
+        это тем. К, кто Его любит.
+      tex_rec: ᾿Ακούσατε, ἀδελφοί μου ἀγαπητοί. οὐχ ὁ Θεὸς ἐξελέξατο τοὺς πτωχοὺς τοῦ
+        κόσμου πλουσίους ἐν πίστει καὶ κληρονόμους τῆς βασιλείας ἧς ἐπηγγείλατο
+        τοῖς ἀγαπῶσιν αὐτόν;
+      deutsch: Höret zu, meine lieben Brüder! Hat nicht Gott erwählt die Armen auf
+        dieser Welt, die am Glauben reich sind und Erben des Reichs, welches er
+        verheißen hat denen, die ihn liebhaben?
+      spanish: "Escuchad, hermanos míos carísimos: ¿No escogió Dios a los pobres según
+        el mundo para enriquecerlos en la fe y hacerlos herederos del reino que
+        tiene prometido a los que le aman?"
+      peshitta: ܫܡܰܥܘ ܐܰܚܰܝ ܚܰܒ݁ܺܝܒ݂ܶܐ ܠܳܐ ܗ݈ܘܳܐ ܠܡܶܣܟ݁ܺܢܶܐ ܕ݁ܥܳܠܡܳܐ ܥܰܬ݁ܺܝܪܶܐ ܕ݁ܶܝܢ
+        ܒ݁ܗܰܝܡܳܢܽܘܬ݂ܳܐ ܓ݁ܒ݂ܳܐ ܐܰܠܳܗܳܐ ܕ݁ܢܶܗܘܽܘܢ ܝܳܪܬ݁ܶܐ ܒ݁ܡܰܠܟ݁ܽܘܬ݂ܳܐ ܗܳܝ
+        ܕ݁ܰܡܠܰܟ݂ ܐܰܠܳܗܳܐ ܠܰܐܝܠܶܝܢ ܕ݁ܪܳܚܡܺܝܢ ܠܶܗ܂
+      bel_syomukha: "Паслухайце, браты мае любасныя: ці ж ня бедных сьвету выбраў Бог
+        быць багатымі вераю і спадчыньнікамі Царства, якое Ён абяцаў тым, хто
+        любіць Яго?"
+      nrt: Послушайте, любимые мои братья, разве не избрал Бог тех, кто беден в этом
+        мире, чтобы они были богатыми верой и наследниками Царства, которое Он
+        обещал всем, кто любит Его?
+      romana: "Ascultati, iubitii mei frati: Au nu Dumnezeu i-a ales pe cei ce sunt
+        saraci in ochii lumii, dar bogati in credinta si mostenitori ai
+        imparatiei pe care a fagaduit-o El celor ce Il iubesc?"
+      francais: "Écoutez, mes frères bien-aimés: Dieu n'a-t-il pas choisi les pauvres
+        aux yeux du monde, pour qu'ils soient riches en la foi, et héritiers du
+        royaume qu'il a promis à ceux qui l'aiment?"
+      italian: "Ascoltate, fratelli miei carissimi: Dio non ha forse scelto i poveri
+        nel mondo per farli ricchi con la fede ed eredi del regno che ha
+        promesso a quelli che lo amano?"
+      old_georgian: "ისმინეთ, ჩემო საყვარელო ძმანო: განა ამ ქვეყნის გლახაკნი არ აირჩია
+        ღმერთმა რწმენით მდიდრებად და სასუფევლის მკვიდრებად, რომელიც აღუთქვა
+        თავის მოყვარეთ?"
+      portuguese: "Ouvi, meus amados irmãos. Não escolheu Deus os que são pobres
+        quanto ao mundo para fazê-los ricos na fé e\rherdeiros do reino que
+        prometeu aos que o amam?"
+      polish: "Posłuchajcie, bracia moi umiłowani! Czy Bóg nie wybrał ubogich tego
+        świata na bogatych w wierze oraz na dziedziców królestwa przyobiecanego
+        tym,\rktórzy Go miłują?"
+      new_text: Послушайте, братья мои любимые! Разве не Бог избрал бедняков мира,
+        чтобы они стали богатыми верой и унаследовали Царство, которое Он обещал
+        тем, кто Его любит?
+      serbian: Чујте, драга браћо моја, не изабра ли Бог сиромахе овога свијета  да
+        буду богати вјером, и насљедници Царства које обећа онима који Њега
+        љубе?
+      bulgarian: Послушайте, възлюбени мои братя! Нали сиромасите на света избра Бог
+        да бъдат богати във вяра и наследници на царството, обещано от Него на
+        ония, които Го обичат?
+      pobedonostsev: "Послушайте, братия мои возлюбленные: не бедных ли мира сего
+        избрал Бог быть богатыми верою и наследниками Царствия, обетованнаго
+        любящим Его?"
+      ukr2: "Слухайте, брати мої любі: Хіба не вбогих цього світу Бог вибрав як
+        багатих вірою і як наслідників Царства, що його він обіцяв тим, які його
+        люблять?"
+      ukr3: "Слухайте, браттє моє любе: хиба не вбогих сьвіту сього вибрав Бог на
+        багатих вірою і наслїдників царства, котре обіцяв тим, хто любить Його?"
+      zhukovsky: Слушайте, возлюбленные братия, не Бог ли избрал нищих мира сего быть
+        богатыми в вере и наследовать царствие, обещанное любящим Его?
+      czech: "Poslyste, moji milovani bratri: Cozpak Buh nevyvolil chudaky tohoto
+        sveta, aby byli bohati ve vire a stali se dedici kralovstvi, jez
+        zaslibil tem, kdo ho miluji?"
+      st_text: "Послушайте, братия мои возлюбленные: не бедных ли мира избрал Бог быть
+        богатыми верою и наследниками Царствия, которое Он обещал любящим Его?"
+  - id: 15173
+    number: 6
+    bookId: 56
+    text: А вы презрели бедного. Не богатые ли притесняют вас, и не они ли влекут
+      вас в суды?
+    chapter: 2
+    chapterId: 1231
+    parallels:
+      - verseId: 29762
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 22
+        short: Притч:22:7
+      - verseId: 29165
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 2
+        short: Прем:2:10
+      - verseId: 33368
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 10
+        short: Сир:10:26
+    translates:
+      kassian: Вы же обесчестили бедного. Не богатые ли притесняют вас, и не они ли
+        влекут вас в суды?
+      podstr: Вы же обесчестили нищего. [Разве] не богатые применяют силу против вас,
+        и они тащат вас в суды?
+      csya: вы же укористе нищаго. Не богатии ли насилуют вам, и тии влекут вы на
+        судища?
+      averincev: ""
+      ungerov: ""
+      csya_old: вы1 же ўкори1сте ни1щаго. Не богaтіи ли наси1луютъ вaмъ, и3 тjи
+        влекyтъ вы2 на суди6ща;
+      sovr_rbo: ""
+      latin: vos autem exhonorastis pauperem. Nonne divites per potentiam opprimunt
+        vos, et ipsi trahunt vos ad judicia?
+      ukr: А ви бідаря зневажили! Хіба не багачі переслідують вас, хіба не вони
+        тягнуть вас на суди?
+      nkjv: But you have dishonored the poor man. Do not the rich oppress you and drag
+        you into the courts?
+      desnitsky: А вы с презрением отнеслись к бедняку! Но разве не богатые угнетают
+        вас и тянут в суды?
+      tex_rec: ὑμεῖς δὲ ἠτιμάσατε τὸν πτωχόν. οὐχ οἱ πλούσιοι καταδυναστεύουσιν ὑμῶν,
+        καὶ αὐτοὶ ἕλκουσιν ὑμᾶς εἰς κριτήρια;
+      deutsch: Ihr aber habt dem Armen Unehre getan. Sind nicht die Reichen die, die
+        Gewalt an euch üben und ziehen euch vor Gericht?
+      spanish: Y vosotros afrentáis al pobre. ¿No son los ricos los que os oprimen y
+        os arrastran ante los tribunales?
+      peshitta: ܐܰܢ݈ܬ݁ܽܘܢ ܕ݁ܶܝܢ ܫܳܛܬ݁ܽܘܢܳܝܗ݈ܝ ܠܡܶܣܟ݁ܺܢܳܐ ܠܳܐ ܗܳܐ ܥܰܬ݁ܺܝܪܶܐ ܡܶܫܬ݁ܰܥܠܶܝܢ
+        ܥܠܰܝܟ݁ܽܘܢ ܘܗܶܢܽܘܢ ܢܳܓ݂ܕ݁ܺܝܢ ܠܟ݂ܽܘܢ ܠܒ݂ܶܝܬ݂ ܕ݁ܺܝܢܳܐ܂
+      bel_syomukha: а вы пагрэбавалі бедным. Ці не багатыя ўціскаюць вас, і ці ж не
+        яны цягнуць вас у суды?
+      nrt: А вы презираете бедного. Разве не богатые угнетают вас и таскают вас по
+        судам?
+      romana: Iar voi ati necinstit pe cel sarac! Oare nu bogatii va asupresc pe voi
+        si nu ei va tarasc la judecati?
+      francais: Et vous, vous avilissez le pauvre! Ne sont-ce pas les riches qui vous
+        oppriment, et qui vous traînent devant les tribunaux?
+      italian: Voi invece avete disprezzato il povero! Non sono forse i ricchi che vi
+        tiranneggiano e vi trascinano davanti ai tribunali?
+      old_georgian: თქვენ კი შეურაცხყავით გლახაკი. განა მდიდარნი არ გმძლავრობენ თქვენ
+        და არ მიგათრევენ სამსჯავროებში?
+      portuguese: "Mas vós desonrastes o pobre. Porventura não são os ricos os que vos
+        oprimem e os que vos arrastam aos\rtribunais?"
+      polish: "Wy zaś odmówiliście ubogiemu poszanowania. Czy to nie bogaci uciskają
+        was\rbezwzględnie i nie oni ciągną was do sądów?"
+      new_text: А у вас бедняк унижен. А разве не богачи вас угнетают, разве не они
+        таскают вас по судам?
+      serbian: А ви понизисте сиромаха. Нису ли богаташи ти који вас угњетавају и зар
+        вас они не вуку на судове?
+      bulgarian: А вие презряхте сиромаха. Нали богатите ви притесняват и нали те ви
+        влачат по съдилища?
+      pobedonostsev: А вы презрели беднаго человека. Не богатые ли притесняют вас? Не
+        они ли влекут вас в суды?
+      ukr2: Ви ж зневажаєте вбогого! Хіба то не багаті вас гнітять і не вони тягнуть
+        вас на судилища?
+      ukr3: Ви ж зневажили вбогого. Хиба не багаті підневолюють вас, і не вони тягнуть
+        вас на судища?
+      zhukovsky: А вы презрели нищаго. Не богатые ли притесняют вас, и не они ли
+        влекут вас на судилища?
+      czech: Vy jste vsak ponizili chudeho. Cozpak vas bohati neutiskuji? Nevlaceji
+        vas pred soudy?
+      st_text: А вы презрели бедного. Не богатые ли притесняют вас, и не они ли влекут
+        вас в суды?
+  - id: 15174
+    number: 7
+    bookId: 56
+    text: Не они ли бесславят доброе имя, которым вы называетесь?
+    chapter: 2
+    chapterId: 1231
+    parallels: []
+    translates:
+      kassian: Не они ли хулят доброе имя, наречённое над вами?
+      podstr: Не они хулят хорошее имя наречённое на вас?
+      csya: не тии ли хулят доброе имя нареченное на вас?
+      averincev: ""
+      ungerov: ""
+      csya_old: не тjи ли хyлzтъ до1брое и4мz нарече1нное на вaсъ;
+      sovr_rbo: ""
+      latin: nonne ipsi blasphemant bonum nomen, quod invocatum est super vos?
+      ukr: Хіба не вони зневажають те добре ім'я, що ви ним називаєтесь?
+      nkjv: Do they not blaspheme that noble name by which you are called?
+      desnitsky: Не они ли оскорбляют доброе имя, которое вы носите?
+      tex_rec: οὐκ αὐτοὶ βλασφημοῦσι τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ᾿ ὑμᾶς;
+      deutsch: Verlästern sie nicht den guten Namen, nach dem ihr genannt seid?
+      spanish: ¿No son ellos los que blasfeman el buen nombre invocado sobre nosotros?
+      peshitta: ܠܳܐ ܗܳܐ ܗܶܢܽܘܢ ܡܓ݂ܰܕ݁ܦ݂ܺܝܢ ܥܰܠ ܫܡܳܐ ܛܳܒ݂ܳܐ ܕ݁ܶܐܬ݂ܩܪܺܝ ܥܠܰܝܟ݁ܽܘܢ܂
+      bel_syomukha: Ці не яны няславяць добрае імя, якім вы называецеся?
+      nrt: Разве не они оскорбляют доброе Имя, которое вы носите?
+      romana: Nu sunt ei cei ce hulesc numele cel bun intru care ati fost chemati?
+      francais: Ne sont-ce pas eux qui outragent le beau nom que vous portez?
+      italian: Non sono essi che bestemmiano il bel nome che è stato invocato sopra di
+        voi?
+      old_georgian: განა ისინი არა ჰგმობენ იმ კეთილ სახელს, რომლითაც თქვენ იწოდებით?
+      portuguese: Não blasfemam eles o bom nome pelo qual sois chamados?
+      polish: Czy nie oni bluźnią zaszczytnemu Imieniu, które wypowiedziano nad wami?
+      new_text: Разве не они хулят то прекрасное имя, которым вас нарекли?
+      serbian: Не хуле ли они на добро Име којим сте названи?
+      bulgarian: Нали те хулят доброто име, с което се вие наричате?
+      pobedonostsev: Не они ли безславят доброе имя, нареченное на вас?
+      ukr2: Хіба то не вони ганьблять те гарне ім'я, яким називано вас?
+      ukr3: Хиба не вони зневажають добре імя, яким вас названо?
+      zhukovsky: Не они ли безcлавят доброе имя, носимое вами?
+      czech: Nemluvi prave oni s pohrdanim o slavnem jmenu, ktere bylo nad vami
+        vysloveno?
+      st_text: Не они ли бесславят доброе имя, которым вы называетесь?
+  - id: 15175
+    number: 8
+    bookId: 56
+    text: "Если вы исполняете закон царский, по Писанию: возлюби ближнего твоего,
+      как себя самого, - хорошо делаете."
+    chapter: 2
+    chapterId: 1231
+    parallels:
+      - verseId: 23262
+        bookId: 3
+        bookCode: levit
+        chapter: 19
+        short: Лев:19:18
+      - verseId: 25919
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 5
+        short: Мф:5:43
+      - verseId: 26325
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 12
+        short: Мк:12:31
+      - verseId: 32910
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 13
+        short: Рим:13:9
+      - verseId: 15110
+        bookId: 66
+        bookCode: k-galatam-poslanie-ap-pavla
+        chapter: 5
+        short: Гал:5:14
+    translates:
+      kassian: "Если, однако, вы исполняете закон царский по Писанию: возлюби ближнего
+        твоего, как самого себя, вы хорошо делаете."
+      podstr: Если однако закон совершаете царский по писанию, Будешь любить ближнего
+        твоего как тебя самого, хорошо делаете;
+      csya: "Аще убо закон совершаете царский, по писанию: возлюбиши искренняго своего
+        якоже себе самаго, добре творите:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Ѓще ќбw зако1нъ совершaете цaрскій, по писaнію: возлю1биши
+        и4скреннzго своего2 ћкоже себе2 самaго, до1брэ творите2:"
+      sovr_rbo: ""
+      latin: "Si tamen legem perficitis regalem secundum Scripturas: Diliges proximum
+        tuum sicut teipsum: bene facitis:"
+      ukr: "Коли ви Закона Царського виконуєте, за Писанням: Люби свого ближнього, як
+        самого себе, то ви робите добре."
+      nkjv: If you really fulfill the royal law according to the Scripture, "You shall
+        love your neighbor as yourself," you do well;
+      desnitsky: "Если вы исполняете царский закон, который дан в Писании: «возлюби
+        ближнего как самого себя», – то поступаете прекрасно."
+      tex_rec: εἰ μέντοι νόμον τελεῖτε βασιλικὸν κατὰ τὴν γραφήν, ἀγαπήσεις τὸν
+        πλησίον σου ὡς σεαυτόν, καλῶς ποιεῖτε·
+      deutsch: 'So ihr das königliche Gesetz erfüllet nach der Schrift: "Liebe deinen
+        Nächsten wie dich selbst," so tut ihr wohl;'
+      spanish: "Si en verdad cumplís la ley regia de la Escritura: «Amarás al prójimo
+        como a ti mismo», bien hacéis;"
+      peshitta: ܘܶܐܢ ܢܳܡܽܘܣܳܐ ܕ݁ܰܐܠܳܗܳܐ ܒ݁ܗܳܕ݂ܶܐ ܡܫܰܠܡܺܝܬ݁ܽܘܢ ܐܰܝܟ݂ ܕ݁ܰܟ݂ܬ݂ܺܝܒ݂
+        ܕ݁ܬ݂ܶܪܚܰܡ ܠܩܰܪܺܝܒ݂ܳܟ݂ ܐܰܝܟ݂ ܢܰܦ݂ܫܳܟ݂ ܫܰܦ݁ܺܝܪ ܥܳܒ݂ܕ݁ܺܝܢ ܐܢ݈ܬ݁ܽܘܢ܂
+      bel_syomukha: "Калі вы выконваеце закон царскі, паводле Пісаньня: палюбі
+        блізкага твайго, як сябе самога, - добра робіце."
+      nrt: "Если вы действительно соблюдаете царский закон, как написано: «Люби
+        ближнего твоего, как самого себя», то поступаете правильно."
+      romana: 'Daca, intr-adevar, impliniti legea imparateasca, potrivit Scripturii:
+        "Sa iubesti pe aproapele tau ca pe tine insuti", bine faceti;'
+      francais: "Si vous accomplissez la loi royale, selon l'Écriture: Tu aimeras ton
+        prochain comme toi-même, vous faites bien."
+      italian: "Certo, se adempite il più importante dei comandamenti secondo la
+        Scrittura: amerai il prossimo tuo come te stesso, fate bene;"
+      old_georgian: "თუ წერილის მიხედვით ასრულებთ სამეფო რჯულს: „გიყვარდეს მოყვასი
+        შენი, ვითარცა თავი შენი“, კარგს შვრებით."
+      portuguese: "Todavia, se estais cumprindo a lei real segundo a escritura: Amarás
+        ao teu próximo como a ti mesmo, fazeis bem."
+      polish: "Jeśli przeto zgodnie z Pismem wypełniacie królewskie Prawo: Będziesz
+        miłował bliźniego swego jak siebie samego, dobrze czynicie."
+      new_text: "Но если вы исполняете царственный закон, данный в Писании: «Люби
+        ближнего, как самого себя», то поступаете как должно."
+      serbian: "Но, ако ви закон царски извршујете по Писму: Љуби ближњега својега као
+        самог себе, добро чините;"
+      bulgarian: 'Ако изпълнявате обаче царския закон според Писанието: "възлюби
+        ближния си като себе си" - добре правите.'
+      pobedonostsev: "Если вы исполняете закон царский по Писанию: «возлюбиши
+        искренняго своего, якоже себя самого» (Лев. 19), добро творите;"
+      ukr2: "Коли, отже, виконуєте закон царський за писанням: «Люби ближнього свого,
+        як себе самого», - ви добре робите."
+      ukr3: 'Коли ж оце звершуєте закон царський по писанню: "Люби ближнього свого, як
+        себе самого", добре чините;'
+      zhukovsky: "Если совершаете закон царский по писанию: «ближняго своего возлюби,
+        как самаго себя», то вы добро творите;"
+      czech: "Jestlize tedy zachovavate kralovsky zakon, jak je napsan v Pismu:
+        ‚Milovati budes blizniho sveho jako sam sebe,‘ dobre cinite."
+      st_text: "Если вы исполняете закон царский, по Писанию: возлюби ближнего твоего,
+        как себя самого, - хорошо делаете."
+  - id: 15176
+    number: 9
+    bookId: 56
+    text: Но если поступаете с лицеприятием, то грех делаете, и перед законом
+      оказываетесь преступниками.
+    chapter: 2
+    chapterId: 1231
+    parallels:
+      - verseId: 23259
+        bookId: 3
+        bookCode: levit
+        chapter: 19
+        short: Лев:19:15
+    translates:
+      kassian: Если же лицеприятствуете, грех делаете, обличаемые Законом как
+        преступники.
+      podstr: если же выказываете лицемерие, грех делаете, обличаемые от закона как
+        преступники.
+      csya: аще же на лица зрите, то грех содеваете, обличаеми от закона якоже
+        преступницы.
+      averincev: ""
+      ungerov: ""
+      csya_old: ѓще же на лиц† зрите2, то2 грёхъ содэвaете, њбличaеми t зако1на ћкоже
+        прест{пницы.
+      sovr_rbo: ""
+      latin: si autem personas accipitis, peccatum operamini, redarguti a lege quasi
+        transgressores.
+      ukr: Коли ж дивитеся на обличчя, то чините гріх, бо Закон удоводнює, що ви
+        винуватці.
+      nkjv: but if you show partiality, you commit sin, and are convicted by the law
+        as transgressors.
+      desnitsky: А если вы относитесь к людям с лицеприятием, то совершаете грех, и
+        закон обличает ваше преступление.
+      tex_rec: εἰ δὲ προσωποληπτεῖτε, ἁμαρτίαν ἐργάζεσθε, ἐλεγχόμενοι ὑπὸ τοῦ νόμου ὡς
+        παραβάται.
+      deutsch: so ihr aber die Person ansehet, tut ihr Sünde und werdet überführt vom
+        Gesetz als Übertreter.
+      spanish: pero si obráis con acepción de personas, cometéis pecado, y la Ley os
+        argüirá de transgresores.
+      peshitta: ܐܶܢ ܕ݁ܶܝܢ ܒ݁ܰܐܦ݁ܶܐ ܢܳܣܒ݁ܺܝܢ ܐܢ݈ܬ݁ܽܘܢ ܚܛܺܝܬ݂ܳܐ ܥܳܒ݂ܕ݁ܺܝܢ ܐܢ݈ܬ݁ܽܘܢ
+        ܘܡܶܬ݂ܟ݁ܰܘܢܺܝܢ ܐܢ݈ܬ݁ܽܘܢ ܡܶܢ ܢܳܡܽܘܣܳܐ ܐܰܝܟ݂ ܥܳܒ݂ܪܰܝ ܥܰܠ ܢܳܡܽܘܣܳܐ܂
+      bel_syomukha: Але калі робіце з аглядкаю на асобы, дык грэх чыніце, і перад
+        законам вы злачынцы.
+      nrt: Но если вы оказываете предпочтение одним людям перед другими, то грешите, и
+        Закон обличает вас как преступников.
+      romana: Iar de cautati la fata omului, faceti pacat si legea va osandeste ca pe
+        niste calcatori de lege.
+      francais: Mais si vous faites acception de personnes, vous commettez un péché,
+        vous êtes condamnés par la loi comme des transgresseurs.
+      italian: ma se fate distinzione di persone, commettete un peccato e siete
+        accusati dalla legge come trasgressori.
+      old_georgian: მაგრამ თუ გარეგნობის მიხედვით ასხვავებთ ხალხს, ცოდვას სჩადიხართ და
+        მხილებულნი იქნებით რჯულის მიერ, როგორც დამრღვევნი.
+      portuguese: Mas se fazeis acepção de pessoas, cometeis pecado, sendo por isso
+        condenados pela lei como transgressores.
+      polish: Jeżeli zaś kierujecie się względem na osobę, popełniacie grzech, i Prawo
+        potępi was jako przestępców.
+      new_text: А если вы пристрастны, значит, вы совершаете грех и Закон уличает вас
+        в том, что вы его нарушители.
+      serbian: Ако ли гледате ко је ко, гријех чините, и закон вас кара као преступнике.
+      bulgarian: Но, ако гледате на лице, грях правите, и законът ви изобличава като
+        престъпници.
+      pobedonostsev: но если разбираете лица, грех творите, и закон обличает вас, как
+        преступников.
+      ukr2: А коли зважаєте на особи, то чините гріх, закон засуджує вас як
+        переступників.
+      ukr3: коли ж на лиця дивитесь, то гріх робите, докорені законом, як
+        переступники.
+      zhukovsky: Взирая же на лица, творите грех, и закон обличает вас как преступников.
+      czech: Jestlize vsak nekomu stranite, dopoustite se hrichu a zakon vas usvedcuje
+        z prestoupeni.
+      st_text: Но если поступаете с лицеприятием, то грех делаете, и перед законом
+        оказываетесь преступниками.
+  - id: 15177
+    number: 10
+    bookId: 56
+    text: Кто соблюдает весь закон и согрешит в одном чем-нибудь, тот становится
+      виновным во всем.
+    chapter: 2
+    chapterId: 1231
+    parallels:
+      - verseId: 36503
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 28
+        short: Втор:28:58
+      - verseId: 25895
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 5
+        short: Мф:5:19
+    translates:
+      kassian: Ибо кто весь Закон соблюдет, но согрешит в одном, тот во всём повинен.
+      podstr: Тот, который ведь весь закон соблюдает, споткнётся же в одном, сделается
+        [во] всём виновным.
+      csya: Иже бо весь закон соблюдет, согрешит же во единем, бысть всем повинен.
+      averincev: ""
+      ungerov: ""
+      csya_old: И$же бо ве1сь зако1нъ соблюде1тъ, согрэши1тъ же во є3ди1нэмъ, бы1сть
+        всёмъ пови1ненъ.
+      sovr_rbo: ""
+      latin: Quicumque autem totam legem servaverit, offendat autem in uno, factus est
+        omnium reus.
+      ukr: Бо хто всього Закона виконує, а згрішить в одному, той винним у всьому
+        стає.
+      nkjv: For whoever shall keep the whole law, and yet stumble in one point, he is
+        guilty of all.
+      desnitsky: Ведь кто исполнил остальной закон, но что-то одно нарушил, оказался
+        виновным в целом.
+      tex_rec: ὅστις γὰρ ὅλον τὸν νόμον τηρήσῃ, πταίσῃ δὲ ἐν ἑνί, γέγονε πάντων ἔνοχος.
+      deutsch: Denn so jemand das ganze Gesetz hält und sündigt an einem, der ist's
+        ganz schuldig.
+      spanish: Porque quien observe toda la Ley, pero quebrante un solo precepto,
+        viene a ser reo de todos;
+      peshitta: ܐܰܝܢܳܐ ܓ݁ܶܝܪ ܕ݁ܟ݂ܽܠܶܗ ܢܳܡܽܘܣܳܐ ܢܳܛܰܪ ܘܒ݂ܰܚܕ݂ܳܐ ܫܳܪܰܥ ܠܟ݂ܽܠܶܗ ܢܳܡܽܘܣܳܐ
+        ܐܶܬ݂ܚܰܝܰܒ݂܂
+      bel_syomukha: Хто выконвае ўвесь закон і згрэшыць у чым-небудзь адным, той
+        робіцца вінаватым ва ўсім.
+      nrt: Кто соблюдает весь Закон, но согрешит в чем-то одном, тот виновен во всем.
+      romana: Pentru ca cine va pazi toata legea, dar va gresi intr-o singura porunca,
+        s-a facut vinovat fata de toate poruncile.
+      francais: Car quiconque observe toute la loi, mais pèche contre un seul
+        commandement, devient coupable de tous.
+      italian: Poiché chiunque osservi tutta la legge, ma la trasgredisca anche in un
+        punto solo, diventa colpevole di tutto;
+      old_georgian: რადგან ვინც იცავს მთელ რჯულს და მხოლოდ ერთში სცოდავს, ყველაფერში
+        შემცოდეა,
+      portuguese: Pois qualquer que guardar toda a lei, mas tropeçar em um só ponto,
+        tem-se tornado culpado de todos.
+      polish: Choćby ktoś przestrzegał całego Prawa, a przestąpiłby jedno tylko
+        przykazanie, ponosi winę za wszystkie.
+      new_text: Ведь тот, кто исполнил весь Закон, но в чем-то одном оступился,
+        виновен в нарушении всего Закона.
+      serbian: Јер који сав закон одржи, а сагријеши у једноме, крив је за све.
+      bulgarian: Който опази целия закон, а съгреши в едно, той бива виновен във всичко.
+      pobedonostsev: Кто соблюдет весь закон, а в одном только согрешит, тот уже во
+        всем виновен (Втор. 27).
+      ukr2: Бо хто ввесь закон дотримає, а прогрішиться лише в одному, - стає у всьому
+        винуватий.
+      ukr3: Кожний бо, хто увесь закон заховає, та згрішить в одному, станеть ся у
+        всьому виноватий.
+      zhukovsky: Ибо кто весь сохранит закон и только в одном нарушит, тот будет
+        виновен во всем.
+      czech: Kdo by totiz zachoval cely zakon, a jen v jednom prikazani klopytl,
+        provinil se proti vsem.
+      st_text: Кто соблюдает весь закон и согрешит в одном чем-нибудь, тот становится
+        виновным во всем.
+  - id: 15178
+    number: 11
+    bookId: 56
+    text: "Ибо Тот же, Кто сказал: не прелюбодействуй, сказал и: не убей; посему,
+      если ты не прелюбодействуешь, но убьешь, то ты также преступник закона."
+    chapter: 2
+    chapterId: 1231
+    parallels:
+      - verseId: 21580
+        bookId: 2
+        bookCode: ishod
+        chapter: 20
+        short: Исх:20:13
+      - verseId: 25376
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 19
+        short: Мф:19:18
+    translates:
+      kassian: "Ибо Сказавший: не прелюбодействуй, сказал также: не убей. Если же ты
+        не прелюбодействуешь, но убиваешь, - ты преступник Закона."
+      podstr: Ведь Сказавший, Не соверши прелюбодеяние, сказал и, Не убей; если же не
+        совершая прелюбодеяние, убиваешь же, ты сделался преступник закона.
+      csya: "Рекий бо: не прелюбы сотвориши, рекл есть и: не убиеши. Аще же не прелюбы
+        сотвориши, убиеши же, был еси преступник закона."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Рекjй бо: не прелюбы2 сотвори1ши, ре1клъ є4сть и3: не ўбіе1ши. Ѓще же
+        не прелюбы2 сотвори1ши, ўбіе1ши же, бы1лъ є3си2 престyпникъ зако1на."
+      sovr_rbo: ""
+      latin: "Qui enim dixit: Non moechaberis, dixit et: Non occides. Quod si non
+        moechaberis, occides autem, factus es transgressor legis."
+      ukr: "Бо Той, Хто сказав: Не чини перелюбства, також наказав: Не вбивай. А хоч
+        ти перелюбства не чиниш, а вб'єш, то ти переступник Закону."
+      nkjv: For He who said, "Do not commit adultery," also said, "Do not murder." Now
+        if you do not commit adultery, but you do murder, you have become a
+        transgressor of the law.
+      desnitsky: Кто сказал «не блуди», сказал и «не убивай», и если ты не блудишь, но
+        убиваешь, ты все равно преступник.
+      tex_rec: ὁ γὰρ εἰπὼν μὴ μοιχεύσῃς, εἶπε καὶ μὴ φονεύσῃς· εἰ δὲ οὐ μοιχεύσεις,
+        φονεύσεις δέ, γέγονας παραβάτης νόμου.
+      deutsch: 'Denn der da gesagt hat: "Du sollst nicht ehebrechen," der hat auch
+        gesagt: "Du sollst nicht töten." So du nun nicht ehebrichst, tötest
+        aber, bist du ein Übertreter des Gesetzes.'
+      spanish: "pues el mismo que dijo: «No adulterarás», dijo también: «No matarás».
+        Y si no adulteras, pero matas, te has hecho transgresor de la Ley."
+      peshitta: ܗܰܘ ܓ݁ܶܝܪ ܕ݁ܶܐܡܰܪ ܕ݁ܠܳܐ ܬ݁ܓ݂ܽܘܪ ܗܽܘ ܐܶܡܰܪ ܕ݁ܠܳܐ ܬ݁ܶܩܛܽܘܠ ܐܶܢ ܕ݁ܶܝܢ ܠܳܐ
+        ܓ݁ܳܐܰܪ ܐܰܢ݈ܬ݁ ܐܶܠܳܐ ܩܳܛܶܠ ܐܰܢ݈ܬ݁ ܗܘܰܝܬ݁ ܠܳܟ݂ ܥܳܒ݂ܰܪ ܥܰܠ ܢܳܡܽܘܣܳܐ܂
+      bel_syomukha: "Бо Той, Хто сказаў: не распусьнічай, сказаў і: не забі; таму,
+        калі ты не распусьнічаеш, але заб'еш, дык ты таксама адступнік ад
+        закона."
+      nrt: "Тот, кто сказал: «Не нарушай супружескую верность», сказал и: «Не убивай».
+        Если ты не изменяешь в браке, но убиваешь, ты становишься нарушителем
+        Закона."
+      romana: 'Caci Cel ce a zis: "Sa nu savarsesti adulter", a zis si: "Sa nu ucizi".
+        Si daca nu savarsesti adulter, dar ucizi, te-ai facut calcator de lege.'
+      francais: "En effet, celui qui a dit: Tu ne commettras point d'adultère, a dit
+        aussi: Tu ne tueras point. Or, si tu ne commets point d'adultère, mais
+        que tu commettes un meurtre, tu deviens transgresseur de la loi."
+      italian: "infatti colui che ha detto: Non commettere adulterio, ha detto anche:
+        Non uccidere. Ora se tu non commetti adulterio, ma uccidi, ti rendi
+        trasgressore della legge."
+      old_georgian: "რაკი ვინცა თქვა, არ იმრუშოო, ისიცა თქვა: არა კაც ჰკლა. ამიტომ, თუ
+        არ იმრუშებ, მაგრამ კაცს მოკლავ, მაინც რჯულის დამრღვევი ხარ."
+      portuguese: "Porque o mesmo que disse: Não adulterarás, também disse: Não
+        matarás. Ora, se não cometes adultério, mas és\rhomicida, te hás tornado
+        transgressor da lei."
+      polish: "Ten bowiem, który powiedział: Nie cudzołóż!, powiedział także: Nie
+        zabijaj!.\rJeżeli więc nie popełniasz cudzołóstwa, jednak dopuszczasz
+        się zabójstwa,\rjesteś przestępcą wobec Prawa."
+      new_text: Тот, кто сказал «Не нарушай супружескую верность!», сказал также «Не
+        убивай!» Значит, даже если ты не нарушаешь верность, но убиваешь, то ты
+        все равно стал нарушителем Закона.
+      serbian: "Јер Онај који је рекао: Не чини прељубе! рекао је и: Не убиј! Ако,
+        дакле, не учиниш прељубу а убијеш, постао си преступник закона."
+      bulgarian: 'Защото Оня, Който е казал: "не прелюбодействувай", казал е и: "не
+        убивай"; затова, ако не прелюбодействуваш, но убиеш, ти биваш престъпник
+        на закона.'
+      pobedonostsev: "Кто сказал: «не прелюбодействуй», Того же слово и «не убий»;
+        итак, если ты не прелюбодействовал, но убил, ты все преступник закона."
+      ukr2: "Бо хто сказав: «Не чини перелюбу», сказав також: «Не вбивай». Коли ж не
+        чиниш перелюбу, але вбиваєш, ти стаєш порушником закону."
+      ukr3: 'Хто бо сказав: "Не чини перелюбу," Той сказав і: "Не вбивай." Коли ж не
+        зробиш перелюбу, а вбєш, став ся єси переступником закону.'
+      zhukovsky: "Тот, кто сказал: не прелюбодействуй, сказал: и не убий; и если ты не
+        сотворишь прелюбодеяния, но убьешь, то все ты преступник закона (Втор.
+        XII, 22; Лев. XXIV, 17. 21)."
+      czech: "Vzdyt ten, kdo rekl: ‚Nezcizolozis,‘ rekl take: ‚Nezabijes.‘ Jestlize
+        necizolozis, ale zabijis, prestupujes zakon."
+      st_text: "Ибо Тот же, Кто сказал: не прелюбодействуй, сказал и: не убей; посему,
+        если ты не прелюбодействуешь, но убьешь, то ты также преступник закона."
+  - id: 15179
+    number: 12
+    bookId: 56
+    text: Так говорите и так поступайте, как имеющие быть судимы по закону свободы.
+    chapter: 2
+    chapterId: 1231
+    parallels: []
+    translates:
+      kassian: Так говорите и так делайте, как имеющие быть судимы по закону свободы.
+      podstr: Так говорите и так делаете как по закону свободы готовящиеся быть
+        судимыми.
+      csya: Тако глаголите и тако творите, яко законом свободным имущии суд прияти.
+      averincev: ""
+      ungerov: ""
+      csya_old: Тaкw глаго1лите и3 тaкw твори1те, ћкw зако1номъ свобо1днымъ и3мyщіи
+        сyдъ пріsти.
+      sovr_rbo: ""
+      latin: Sic loquimini, et sic facite sicut per legem libertatis incipientes
+        judicari.
+      ukr: Отак говоріть і отак чиніть, як такі, що будете суджені законом волі.
+      nkjv: So speak and so do as those who will be judged by the law of liberty.
+      desnitsky: Помните, что и за свои речи, и за поступки будете судимы по закону
+        свободы.
+      tex_rec: οὕτω λαλεῖτε καὶ οὕτω ποιεῖτε, ὡς διὰ νόμου ἐλευθερίας μέλλοντες
+        κρίνεσθαι·
+      deutsch: Also redet und also tut, als die da sollen durchs Gesetz der Freiheit
+        gerichtet werden.
+      spanish: Hablad y juzgad como quienes han de ser juzgados por la ley de la
+        libertad.
+      peshitta: ܗܳܟ݂ܰܢܳܐ ܗܘܰܝܬ݁ܽܘܢ ܡܡܰܠܠܺܝܢ ܘܗܳܟ݂ܰܢܳܐ ܗܘܰܝܬ݁ܽܘܢ ܣܳܥܪܺܝܢ ܐܰܝܟ݂ ܐ݈ܢܳܫܳܐ
+        ܕ݁ܰܒ݂ܢܳܡܽܘܣܳܐ ܕ݁ܚܺܐܪܽܘܬ݂ܳܐ ܥܬ݂ܺܝܕ݂ܺܝܢ ܐܢ݈ܬ݁ܽܘܢ ܠܡܶܬ݁ܕ݂ܳܢܽܘ܂
+      bel_syomukha: Так гаварэце і так рабеце, як тыя, што маюць быць суджаныя згодна
+        з законам свабоды.
+      nrt: Говорите и поступайте как те, кому предстоит быть судимыми по Закону,
+        несущему свободу.
+      romana: Asa sa graiti si asa sa lucrati, ca unii care veti fi judecati prin
+        legea libertatii.
+      francais: Parlez et agissez comme devant être jugés par une loi de liberté,
+      italian: Parlate e agite come persone che devono essere giudicate secondo una
+        legge di libertà, perché
+      old_georgian: მაშ, ისე ილაპარაკეთ და ისე მოიქეცით, როგორც თავისუფლების რჯულით
+        განსასჯელნი.
+      portuguese: Falai de tal maneira e de tal maneira procedei, como havendo de ser
+        julgados pela lei da liberdade.
+      polish: "Mówcie i czyńcie tak, jak ludzie, którzy będą sądzeni na podstawie
+        Prawa\rwolności."
+      new_text: Поэтому говорите и действуйте как люди, которых будут судить по
+        закону, несущему свободу,
+      serbian: Тако говорите и тако творите као они који ће законом слободе бити суђени;
+      bulgarian: Говорете и постъпвайте като човеци, които ще бъдете съдени по закона
+        на свободата.
+      pobedonostsev: Так говорите и так поступайте, как люди, коих судить будет «закон
+        свободы».
+      ukr2: Говоріть так і робіть так, як люди, що мають бути суджені законом свободи.
+      ukr3: Так говоріте і так творіте, яко такі, що законом свободним судити метесь.
+      zhukovsky: Говорите и действуйте как люди, которые должны быть законом свободы
+        судимы.
+      czech: Mluvte a jednejte jako ti, kteri maji byt souzeni zakonem svobody.
+      st_text: Так говорите и так поступайте, как имеющие быть судимы по закону свободы.
+  - id: 15180
+    number: 13
+    bookId: 56
+    text: Ибо суд без милости не оказавшему милости; милость превозносится над судом.
+    chapter: 2
+    chapterId: 1231
+    parallels:
+      - verseId: 29737
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 21
+        short: Притч:21:13
+      - verseId: 30531
+        bookId: 22
+        bookCode: psaltir
+        chapter: 108
+        short: Пс:108:16
+      - verseId: 25939
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 6
+        short: Мф:6:15
+    translates:
+      kassian: Ибо суд без милости не оказавшему милости. Милость торжествует над судом.
+      podstr: Ведь суд немилостив не сделавшему милость; торжествует милость суда.
+      csya: "Суд бо без милости не сотворшему милости: и хвалится милость на суде."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Сyдъ бо без8 ми1лости не сотво1ршему ми1лости: и3 хвaлитсz ми1лость
+        на судЁ."
+      sovr_rbo: ""
+      latin: "Judicium enim sine misericordia illi qui non fecit misericordiam:
+        superexaltat autem misericordia judicium."
+      ukr: Бо суд немилосердний на того, хто не вчинив милосердя. Милосердя бо
+        ставиться вище за суд.
+      nkjv: For judgment is without mercy to the one who has shown no mercy. Mercy
+        triumphs over judgment.
+      desnitsky: Кто не проявил милости – того и судить будут без милости, а ведь
+        милость превыше суда!
+      tex_rec: ἡ γὰρ κρίσις ἀνέλεος τῷ μὴ ποιήσαντι ἔλεος· κατακαυχᾶται ἔλεος κρίσεως.
+      deutsch: Es wird aber ein unbarmherziges Gericht über den ergehen, der nicht
+        Barmherzigkeit getan hat; und die Barmherzigkeit rühmt sich wider das
+        Gericht.
+      spanish: Porque sin misericordia será juzgado el que no hace misericordia. La
+        misericordia aventaja al juicio.
+      peshitta: ܕ݁ܺܝܢܳܐ ܓ݁ܶܝܪ ܗܳܘܶܐ ܕ݁ܠܳܐ ܪܰܚܡܶܐ ܥܰܠ ܗܰܘ ܕ݁ܠܳܐ ܥܳܒ݂ܶܕ݂ ܪܰܚܡܶܐ
+        ܡܶܫܬ݁ܰܥܠܶܝܢ ܐܢ݈ܬ݁ܽܘܢ ܒ݁ܪܰܚܡܶܐ ܥܰܠ ܕ݁ܺܝܢܳܐ܂
+      bel_syomukha: Бо суд ня мецьме літасьці да таго, хто не літасьцівы; літасьць
+        узьнесена над судом.
+      nrt: Для тех, кто не проявляет милости, суд тоже будет без милости. Милость
+        превыше суда!
+      romana: Caci judecata este fara mila pentru cel care n-a facut mila. Si mila
+        biruieste in fata judecatii.
+      francais: car le jugement est sans miséricorde pour qui n'a pas fait
+        miséricorde. La miséricorde triomphe du jugement.
+      italian: il giudizio sarà senza misericordia contro chi non avrà usato
+        misericordia; la misericordia invece ha sempre la meglio nel giudizio.
+      old_georgian: რადგანაც მსჯავრი უწყალო იქნება მისთვის, ვისთვისაც უცხო იყო
+        გულმოწყალება; მოწყალება მსჯავრზე უმძლავრესია.
+      portuguese: "Porque o juízo será sem misericórdia para aquele que não usou de
+        misericórdia; a misericórdia triunfa sobre o\rjuízo."
+      polish: "Będzie to bowiem sąd nieubłagany dla tego, który nie czynił
+        miłosierdzia:\rmiłosierdzie odnosi triumf nad sądem."
+      new_text: потому что суд немилосерден к тем, кто сам не проявляет милосердия. А
+        милосердию суд не страшен!
+      serbian: Јер ће ономе бити суд без милости који не чини милости; а милост слави
+        побједу над судом.
+      bulgarian: "Защото съдът ще бъде безмилостен за оногова, който не е показал
+        милост: милостта бива похвалявана на съда."
+      pobedonostsev: Ибо суд без милости будет тому, кто не сотворил милости. Славится
+        милость над судом.
+      ukr2: Бо суд немилосердний для того, хто не чинить милосердя. Милосердя ж понад
+        суд.
+      ukr3: Суд бо без милосердя тому, хто не зробив милости, і вихваляєть ся
+        милосердє суду (понад суд).
+      zhukovsky: "Суд без милосердия тому, кто не сотворил милости: милость же на суде
+        торжествует."
+      czech: Na Bozim soudu neni milosrdenstvi pro toho, kdo neprokazal milosrdenstvi.
+        Ale milosrdenstvi vitezi nad soudem.
+      st_text: Ибо суд без милости не оказавшему милости; милость превозносится над
+        судом.
+  - id: 15181
+    number: 14
+    bookId: 56
+    text: Что пользы, братия мои, если кто говорит, что он имеет веру, а дел не
+      имеет? может ли эта вера спасти его?
+    chapter: 2
+    chapterId: 1231
+    parallels:
+      - verseId: 25984
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 7
+        short: Мф:7:26
+    translates:
+      kassian: Какая польза, братья мои, если кто говорит, что имеет веру, дел же не
+        имеет? Может ли такая вера спасти его?
+      podstr: Что польза, братья мои, если веру будет говорить кто имеет, дела же не
+        будет иметь? Не может вера спасти его?
+      csya: Кая польза, братие моя, аще веру глаголет кто имети, дел же не имать? еда
+        может вера спасти его?
+      averincev: ""
+      ungerov: ""
+      csya_old: Кaz по1льза, брaтіе мо‰, ѓще вёру глаго1летъ кто2 и3мёти, дёлъ же не
+        и4мать; є3дA мо1жетъ вёра спcти2 є3го2;
+      sovr_rbo: ""
+      latin: Quid proderit, fratres mei, si fidem quis dicat se habere, opera autem
+        non habeat? numquid poterit fides salvare eum?
+      ukr: Яка користь, брати мої, коли хто говорить, що має віру, але діл не має? Чи
+        може спасти його віра?
+      nkjv: What does it profit, my brethren, if someone says he has faith but does
+        not have works? Can faith save him?
+      desnitsky: Что пользы, братья мои, если кто говорит, будто имеет веру, но не
+        подтверждает ее делами? Сможет ли такая вера его спасти?
+      tex_rec: Τί τὸ ὄφελος, ἀδελφοί μου, ἐὰν πίστιν λέγῃ τις ἔχειν, ἔργα δὲ μὴ ἔχῃ;
+        μὴ δύναται ἡ πίστις σῶσαι αὐτόν;
+      deutsch: Was hilfst, liebe Brüder, so jemand sagt, er habe den Glauben, und hat
+        doch die Werke nicht? Kann auch der Glaube ihn selig machen?
+      spanish: "¿Qué le aprovecha, hermanos míos, a uno decir: «Yo tengo fe», si no
+        tiene obras? ¿Podrá salvarle la fe?"
+      peshitta: ܡܳܢܳܐ ܗܶܢܝܳܢܳܐ ܐܰܚܰܝ ܐܶܢ ܐ݈ܢܳܫ ܐܳܡܰܪ ܕ݁ܺܐܝܬ݂ ܠܺܝ ܗܰܝܡܳܢܽܘܬ݂ܳܐ
+        ܘܰܥܒ݂ܳܕ݂ܶܐ ܠܰܝܬ݁ ܠܶܗ ܕ݁ܰܠܡܳܐ ܡܶܫܟ݁ܚܳܐ ܗܰܝܡܳܢܽܘܬ݂ܶܗ ܕ݁ܬ݂ܰܚܶܝܘܗ݈ܝ܂
+      bel_syomukha: Якая карысьць, браты мае, калі хто кажа, што ён мае веру, а дзеяў
+        ня мае? Ці можа гэтая вера ўратаваць яго?
+      nrt: Братья мои, какая польза, если человек говорит, что имеет веру, но дел не
+        имеет? Может ли такая вера спасти его?
+      romana: Ce folos, fratii mei, daca zice cineva ca are credinta, iar fapte nu
+        are? Oare credinta poate sa-l mantuiasca?
+      francais: Mes frère, que sert-il à quelqu'un de dire qu'il a la foi, s'il n'a
+        pas les oeuvres? La foi peut-elle le sauver?
+      italian: Che giova, fratelli miei, se uno dice di avere la fede ma non ha le
+        opere? Forse che quella fede può salvarlo?
+      old_georgian: რას გამოელის, ძმანო ჩემნო, ვინც ამბობს, რწმენა მაქვსო, მაგრამ არა
+        აქვს საქმე? შესძლებს კია ეს რწმენა, რომ იხსნას იგი?
+      portuguese: Que proveito há, meus irmãos se alguém disser que tem fé e não tiver
+        obras? Porventura essa fé pode salvá-lo?
+      polish: "Jaki z tego pożytek, bracia moi, skoro ktoś będzie utrzymywał, że
+        wierzy, a\rnie będzie spełniał uczynków? Czy [sama] wiara zdoła go
+        zbawić?"
+      new_text: Что пользы, братья мои, если человек говорит, что у него есть вера, но
+        если дел у него нет? Может ли такая вера спасти его?
+      serbian: Каква је корист, браћо моја, ако ко рече да има вјеру а дјела нема? Зар
+        га може вјера спасти?
+      bulgarian: Каква полза, братя мои, ако някой казва, че имал вяра, а дела няма?
+        Може ли го спаси вярата?
+      pobedonostsev: Чтó пользы, братия мои, когда кто говорит, что веру имеет, а дел
+        не видать у него? Может ли вера такая спасти его?
+      ukr2: Яка користь, мої брати, коли хтось каже, що має віру, але діл не має? Чи
+        може його спасти віра?
+      ukr3: Яка користь, браттє моє, коли хто каже, що віру має, та дїл не має? чи
+        може віра спасти його?
+      zhukovsky: Какая польза, братия мои, если кто говорит, что веру имеет, дел же не
+        имеет? Может ли такая вера спасти его?
+      czech: Co je platne, moji bratri, kdyz nekdo rika, ze ma viru, ale pritom nema
+        skutky? Muze ho snad ta vira spasit?
+      st_text: Что пользы, братия мои, если кто говорит, что он имеет веру, а дел не
+        имеет? может ли эта вера спасти его?
+  - id: 15182
+    number: 15
+    bookId: 56
+    text: Если брат или сестра наги и не имеют дневного пропитания,
+    chapter: 2
+    chapterId: 1231
+    parallels:
+      - verseId: 19464
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 31
+        short: Иов:31:16
+      - verseId: 24606
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 3
+        short: Лк:3:11
+      - verseId: 1236
+        bookId: 59
+        bookCode: 1oe-poslanie-ap-ioanna
+        chapter: 3
+        short: 1 Ин:3:17
+    translates:
+      kassian: Если брат или сестра наги и лишены дневного пропитания,
+      podstr: Если брат сестра нагие будут пребывать и имеющие недостаток ежедневной
+        пищи,
+      csya: Аще же брат или сестра нага будета и лишена будета дневныя пищи,
+      averincev: ""
+      ungerov: ""
+      csya_old: Ѓще же брaтъ и3ли2 сестрA н†га бyдета и3 лишє1на бyдета дневны1z пи1щи,
+      sovr_rbo: ""
+      latin: Si autem frater et soror nudi sint, et indigeant victu quotidiano,
+      ukr: Коли ж брат чи сестра будуть нагі, і позбавлені денного покорму,
+      nkjv: If a brother or sister is naked and destitute of daily food,
+      desnitsky: Допустим, брату или сестре недостает одежды и ежедневной пищи,
+      tex_rec: ἐὰν δὲ ἀδελφὸς ἢ ἀδελφὴ γυμνοὶ ὑπάρχωσι καὶ λειπόμενοι ὦσι τῆς ἐφημέρου
+        τροφῆς,
+      deutsch: So aber ein Bruder oder eine Schwester bloß wäre und Mangel hätte der
+        täglichen Nahrung,
+      spanish: Si el hermano o la hermana están desnudos y carecen de alimento
+        cotidiano,
+      peshitta: ܘܶܐܢ ܐܰܚܳܐ ܐܰܘ ܚܳܬ݂ܳܐ ܢܶܗܘܽܘܢ ܥܰܪܛܶܠܳܝܺܝܢ ܘܚܰܣܺܝܪܺܝܢ ܣܰܝܒ݁ܳܪܬ݁ܳܐ
+        ܕ݁ܝܰܘܡܳܐ܂
+      bel_syomukha: Калі брат альбо сястра безадзежныя і ня маюць на дзень пражытку,
+      nrt: Если брат или сестра без одежды и без пищи,
+      romana: Daca un frate sau o sora sunt goi si lipsiti de hrana cea de toate
+        zilele,
+      francais: Si un frère ou une soeur sont nus et manquent de la nourriture de
+        chaque jour,
+      italian: Se un fratello o una sorella sono senza vestiti e sprovvisti del cibo
+        quotidiano
+      old_georgian: თუკი ძმა ან და შიშველია და ლუკმა პური არ გააჩნია,
+      portuguese: Se um irmão ou uma irmã estiverem nus e tiverem falta de mantimento
+        cotidiano,
+      polish: "Jeśli na przykład brat lub siostra nie mają odzienia lub brak im
+        codziennego\rchleba,"
+      new_text: Если брату или сестре нечего надеть на себя и нет пищи на день,
+      serbian: Ако ли брат или сестра голи буду, и оскудијевају у свакодневној храни,
+      bulgarian: Ако един брат или сестра са голи и нямат дневната храна,
+      pobedonostsev: Брат или сестра стоят наги, лишены дневного пропитания, —
+      ukr2: Коли брат або сестра будуть нагі й позбавлені засобів щоденного прожитку,
+      ukr3: Коли ж брат або сестра нагі будуть і жадні щоденної страви,
+      zhukovsky: Если брат и сестра наги и лишены пищи дневныя,
+      czech: Kdyby nektery bratr nebo sestra byli bez satu a nemeli jidlo ani na den,
+      st_text: Если брат или сестра наги и не имеют дневного пропитания,
+  - id: 15183
+    number: 16
+    bookId: 56
+    text: 'а кто-нибудь из вас скажет им: "идите с миром, грейтесь и питайтесь", но
+      не даст им потребного для тела: что пользы?'
+    chapter: 2
+    chapterId: 1231
+    parallels:
+      - verseId: 19464
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 31
+        short: Иов:31:16
+      - verseId: 29867
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 25
+        short: Притч:25:14
+    translates:
+      kassian: "и скажет им кто из вас: идите с миром, грейтесь и питайтесь, но не
+        дадите им необходимого для тела, - какая польза?"
+      podstr: скажет же кто им из вас, Идите в мире, грейтесь и насыщайтесь, не даст
+        же им необходимое телу, какая польза?
+      csya: "речет же има кто от вас: идита с миром, грейтася и насыщайтася? не даст
+        же има требования телеснаго: кая польза?"
+      averincev: ""
+      ungerov: ""
+      csya_old: "рече1тъ же и4ма кто2 t вaсъ: и3ди1та съ ми1ромъ, грёйтасz и3
+        насыщaйтасz: не дaстъ же и4ма тре1бованіz тэле1снагw: кaz по1льза;"
+      sovr_rbo: ""
+      latin: "dicat autem aliquis ex vobis illis: Ite in pace, calefacimini et
+        saturamini: non dederitis autem eis quae necessaria sunt corpori, quid
+        proderit?"
+      ukr: "а хтонебудь із вас до них скаже: Ідіть з миром, грійтесь та їжте, та не
+        дасть їм потрібного тілу, що ж то поможе?"
+      nkjv: and one of you says to them, "Depart in peace, be warmed and filled," but
+        you do not give them the things which are needed for the body, what does
+        it profit?
+      desnitsky: "а кто-то из вас им скажет: «Ступайте с миром, грейтесь и питайтесь»,
+        а того, что нужно для жизни, вы им не дадите ― какая от этого польза?"
+      tex_rec: εἴπῃ δέ τις αὐτοῖς ἐξ ὑμῶν, ὑπάγετε ἐν εἰρήνῃ, θερμαίνεσθε καὶ
+        χορτάζεσθε, μὴ δῶτε δὲ αὐτοῖς τὰ ἐπιτήδεια τοῦ σώματος, τί τὸ ὄφελος;
+      deutsch: "und jemand unter euch spräche zu ihnen: Gott berate euch, wärmet euch
+        und sättiget euch! ihr gäbet ihnen aber nicht, was des Leibes Notdurft
+        ist: was hülfe ihnen das?"
+      spanish: "y alguno de vosotros les dijere: «Id en paz, que podáis calentaros y
+        hartaros», pero no les diereis con qué satisfacer la necesidad de su
+        cuerpo, ¿qué provecho les vendría?"
+      peshitta: ܘܢܺܐܡܰܪ ܠܗܽܘܢ ܐ݈ܢܳܫ ܡܶܢܟ݂ܽܘܢ ܙܶܠܘ ܒ݁ܰܫܠܳܡܳܐ ܫܚܰܢܘ ܘܰܣܒ݂ܰܥܘ ܘܠܳܐ
+        ܬ݁ܶܬ݁ܠܽܘܢ ܠܗܽܘܢ ܣܢܺܝܩܽܘܬ݂ܶܗ ܕ݁ܦ݂ܰܓ݂ܪܳܐ ܡܳܢܳܐ ܗܶܢܝܳܢܳܐ܂
+      bel_syomukha: "а хто-небудзь з вас скажа ім: ідзеце зь мірам, грэйцеся і
+        кармецеся, але ня дасьць ім патрэбнага целу: якая карысьць?"
+      nrt: "то какая польза будет в том, что кто-то из вас скажет им: «Идите с миром,
+        грейтесь и ешьте», – не дав им того, в чем они нуждаются?"
+      romana: "Si cineva dintre voi le-ar zice: Mergeti in pace! Incalziti-va si va
+        saturati, dar nu le dati cele trebuincioase trupului, care ar fi
+        folosul?"
+      francais: "et que l'un d'entre vous leur dise: Allez en paix, chauffez-vous et
+        vous rassasiez! et que vous ne leur donniez pas ce qui est nécessaire au
+        corps, à quoi cela sert-il?"
+      italian: 'e uno di voi dice loro: "Andatevene in pace, riscaldatevi e
+        saziatevi", ma non date loro il necessario per il corpo, che giova?'
+      old_georgian: "ხოლო რომელიმე თქვენგანი ეტყვის: მშვიდობით იარე, გათბი და გაძეხი,
+        მაგრამ იმას კა არ მისცემს, რაც ხორცს სჭირდება, რას გამოელის?"
+      portuguese: "e algum de vós lhes disser: Ide em paz, aquentai-vos e fartai-vos;
+        e não lhes derdes as coisas necessárias para\ro corpo, que proveito há
+        nisso?"
+      polish: "a ktoś z was powie im: ”Idźcie w pokoju, ogrzejcie się i najedzcie do
+        syta!”\r- a nie dacie im tego, czego koniecznie potrzebują dla ciała -
+        to na co się to\rprzyda?"
+      new_text: "а кто-то из вас скажет им: «Ступайте с миром, погрейтесь и поешьте
+        досыта!», а сам не даст им того, в чем нуждается их тело, — то какая от
+        этого польза?"
+      serbian: "И рече им који од вас: Идите с миром, гријте се, и наситите се, а не
+        дате им што је потребно за тијело, каква је корист?"
+      bulgarian: "а някой от вас им рече: идете си смиром, грейте се и насищайте се,
+        пък не им даде, що е потребно за тялото, - каква полза?"
+      pobedonostsev: "и кто-нибудь из вас скажет им: «идите с миром, грейтесь и
+        питайтесь», и не даст им требования телеснаго, — чтó будет им от того
+        пользы?"
+      ukr2: "і хтонебудь з вас до них скаже: «Йдіть собі з миром, грійтеся та
+        годуйтесь», і не дасть їм потрібного для тіла, то що це допоможе?"
+      ukr3: "а з вас хто скаже їм: Ідїть з миром, грійтесь і годуйтесь, а не дасть їм
+        потрібного для тїла; яка (з того) користь?"
+      zhukovsky: "И если кто из вас им скажет: идите с миром, грейтесь и насыщайтесь;
+        и не даст им того, что нужно телу, — какая польза?"
+      czech: "a nekdo z vas by jim rekl: „Budte s Bohem – at vam neni zima a nemate
+        hlad,“ ale nedali byste jim, co potrebuji pro sve telo, co by to bylo
+        platne?"
+      st_text: 'а кто-нибудь из вас скажет им: "идите с миром, грейтесь и питайтесь",
+        но не даст им потребного для тела: что пользы?'
+  - id: 15184
+    number: 17
+    bookId: 56
+    text: Так и вера, если не имеет дел, мертва сама по себе.
+    chapter: 2
+    chapterId: 1231
+    parallels:
+      - verseId: 15167
+        bookId: 56
+        bookCode: poslanie-ap-iakova
+        chapter: 1
+        short: Иак:1:27
+    translates:
+      kassian: Так и вера, если не имеет дел, мертва сама по себе.
+      podstr: Так и вера, если не будет иметь дел, мертва есть по себе самой.
+      csya: Такожде и вера, аще дел не имать, мертва есть о себе.
+      averincev: ""
+      ungerov: ""
+      csya_old: Тaкожде и3 вёра, ѓще дёлъ не и4мать, мертвA є4сть њ себЁ.
+      sovr_rbo: ""
+      latin: Sic et fides, si non habeat opera, mortua est in semetipsa.
+      ukr: Так само й віра, коли діл не має, мертва в собі!
+      nkjv: Thus also faith by itself, if it does not have works, is dead.
+      desnitsky: Так и вера, не подтвержденная делами, сама по себе мертва.
+      tex_rec: οὕτω καὶ ἡ πίστις, ἐὰν μὴ ἔργα ἔχῃ, νεκρά ἐστι καθ᾿ ἑαυτήν.
+      deutsch: Also auch der Glaube, wenn er nicht Werke hat, ist er tot an ihm selber.
+      spanish: Así también la fe, si no tiene obras, es de suyo muerta.
+      peshitta: ܗܳܟ݂ܰܢܳܐ ܐܳܦ݂ ܗܰܝܡܳܢܽܘܬ݂ܳܐ ܕ݁ܠܳܐ ܥܒ݂ܳܕ݂ܶܐ ܡܺܝܬ݂ܳܐ ܗ݈ܝ ܒ݁ܰܠܚܽܘܕ݂ܶܝܗ܂
+      bel_syomukha: Гэтак і вера, калі ня мае дзеяў, мёртвая сама ў сабе.
+      nrt: Так же и вера, если не имеет дел, сама по себе мертва.
+      romana: "Asa si cu credinta: daca nu are fapte, e moarta in ea insasi."
+      francais: "Il en est ainsi de la foi: si elle n'a pas les oeuvres, elle est
+        morte en elle-même."
+      italian: "Così anche la fede: se non ha le opere, è morta in se stessa."
+      old_georgian: ასევე რწმენაც, საქმის გარეშე, თავისთავად მკვდარია.
+      portuguese: Assim também a fé, se não tiver obras, é morta em si mesma.
+      polish: "Tak też i wiara, jeśli nie byłaby połączona uczynkami, martwa jest sama
+        w\rsobie."
+      new_text: Так и вера, если у нее нет дел, сама по себе мертва.
+      serbian: Тако и вјера, ако нема дјела, мртва је сама по себи.
+      bulgarian: Тъй и вярата, ако няма дела, сама по себе си е мъртва.
+      pobedonostsev: Так и вера, если нет при ней дел, мертва сама в себе.
+      ukr2: Так само й віра, коли діл не має, мертва сама в собі.
+      ukr3: Так само й віра, коли дїл не має, мертва сама по собі.
+      zhukovsky: "Такова и вера: если дел не имеет, сама собою мертва есть."
+      czech: Stejne tak i vira, neni-li spojena se skutky, je sama o sobe mrtva.
+      st_text: Так и вера, если не имеет дел, мертва сама по себе.
+  - id: 15185
+    number: 18
+    bookId: 56
+    text: 'Но скажет кто-нибудь: "ты имеешь веру, а я имею дела": покажи мне веру
+      твою без дел твоих, а я покажу тебе веру мою из дел моих.'
+    chapter: 2
+    chapterId: 1231
+    parallels: []
+    translates:
+      kassian: "Но скажет кто: ты веру имеешь, а я дела имею, - покажи мне твою веру
+        без дел, а я покажу тебе веру из дел моих."
+      podstr: Но скажет кто, Ты веру имеешь и я дела имею. Покажи мне веру твою без
+        дел, и я тебе покажу из дел моих веру.
+      csya: "Но речет кто: ты веру имаши, аз же дела имам: покажи ми веру твою от дел
+        твоих, и аз тебе покажу от дел моих веру мою."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Но рече1тъ кто2: ты2 вёру и4маши, ѓзъ же дэлA и4мамъ: покажи2 ми2
+        вёру твою2 t дёлъ твои1хъ, и3 ѓзъ тебЁ покажY t дёлъ мои1хъ вёру мою2."
+      sovr_rbo: ""
+      latin: "Sed dicet quis: Tu fidem habes, et ego opera habeo: ostende mihi fidem
+        tuam sine operibus: et ego ostendam tibi ex operibus fidem meam."
+      ukr: "Але скаже хтонебудь: Маєш ти віру, а я маю діла; покажи мені віру свою без
+        діл твоїх, а я покажу тобі віру свою від діл моїх."
+      nkjv: But someone will say, "You have faith, and I have works." Show me your
+        faith without your works, and I will show you my faith by my works.
+      desnitsky: "И тут кто-то скажет: у тебя есть вера, а у меня – дела. Как же ты
+        покажешь мне свою веру, если она бездействует? А я покажу тебе свою веру
+        своими делами."
+      tex_rec: ἀλλ᾿ ἐρεῖ τις· σὺ πίστιν ἔχεις, κἀγὼ ἔργα ἔχω· δεῖξόν μοι τὴν πίστιν
+        σου ἐκ τῶν ἔργων σου, κἀγὼ δείξω σοι ἐκ τῶν ἔργων μου τὴν πίστιν μου.
+      deutsch: "Aber es möchte jemand sagen: Du hast den Glauben, und ich habe die
+        Werke; zeige mir deinen Glauben ohne die Werke, so will ich dir meinen
+        Glauben zeigen aus meinen Werken."
+      spanish: "Mas dirá alguno: «Tú tienes fe y yo tengo obras». Muéstrame sin las
+        obras tu fe, que yo por mis obras te mostraré la fe."
+      peshitta: ܐܳܡܰܪ ܓ݁ܶܝܪ ܐ݈ܢܳܫ ܠܳܟ݂ ܐܺܝܬ݂ ܠܳܟ݂ ܗܰܝܡܳܢܽܘܬ݂ܳܐ ܘܠܺܝ ܐܺܝܬ݂ ܠܺܝ ܥܒ݂ܳܕ݂ܶܐ
+        ܚܰܘܳܢܝ ܗܰܝܡܳܢܽܘܬ݂ܳܟ݂ ܕ݁ܠܳܐ ܥܒ݂ܳܕ݂ܶܐ ܘܶܐܢܳܐ ܡܚܰܘܶܐ ܐ݈ܢܳܐ ܠܳܟ݂ ܗܰܝܡܳܢܽܘܬ݂ܝ
+        ܡܶܢ ܥܒ݂ܳܕ݂ܰܝ܂
+      bel_syomukha: "А скажа хто-небудзь: ты маеш веру, а я маю дзеі: пакажы мне веру
+        тваю бязь дзеяў тваіх, а я пакажу табе веру маю празь дзеі мае."
+      nrt: "Может, кто-то скажет: «У тебя есть вера, а у меня есть дела – покажи мне
+        твою веру без дел, а я покажу тебе мою веру в моих делах»."
+      romana: "Dar va zice cineva: Tu ai credinta, iar eu am fapte; arata-mi credinta
+        ta fara fapte si eu iti voi arata, din faptele mele, credinta mea."
+      francais: "Mais quelqu'un dira: Toi, tu as la foi; et moi, j'ai les oeuvres.
+        Montre-moi ta foi sans les oeuvres, et moi, je te montrerai la foi par
+        mes oeuvres."
+      italian: "Al contrario uno potrebbe dire: Tu hai la fede ed io ho le opere;
+        mostrami la tua fede senza le opere, ed io con le mie opere ti mostrerò
+        la mia fede."
+      old_georgian: "მაგრამ მავანი იტყვის: „შენა გაქვს რწმენა, მე კი მაქვს საქმე“.
+        მიჩვენე შენი რწმენა საქმის გარეშე და მე ჩემს საქმეთაგან გიჩვენებ ჩემს
+        რწმენას."
+      portuguese: "Mas dirá alguém: Tu tens fé, e eu tenho obras; mostra-me a tua fé
+        sem as obras, e eu te mostrarei a minha fé\rpelas minhas obras."
+      polish: "Ale może ktoś powiedzieć: Ty masz wiarę, a ja spełniam uczynki. Pokaż
+        mi\rwiarę swoją bez uczynków, to ja ci pokażę wiarę ze swoich uczynków."
+      new_text: "Но, предположим, кто-то скажет: «У тебя есть вера, а у меня — дела».
+        Покажи мне свою веру без дел — и я покажу тебе свою веру через дела!"
+      serbian: "Но неко ће рећи: Ти имаш вјеру, а ја имам дјела. Покажи ми вјеру твоју
+        без дјела твојих, а ја ћу теби показати вјеру моју из дјела мојих."
+      bulgarian: "Но ще рече някой: ти имаш вяра, пък аз имам дела; покажи ми вярата
+        си без твоите дела, и аз ще ти покажа вярата си от моите дела."
+      pobedonostsev: "Но скажет мне кто-нибудь: ты человек веры, а у меня есть дела;
+        покажи мне веру твою отдельно от дел твоих, а я тебе покажу мою веру из
+        дел моих."
+      ukr2: "Та хтонебудь скаже: «Ти маєш віру, а я маю діла. Покажи мені твою віру
+        без діл, а я тобі покажу моїми ділами мою віру.»"
+      ukr3: "Ну, скаже хто: Ти віру маєш, а я дїла маю. Покажи менї віру твою з дїл
+        твоїх, а я тобі докажу з дїл моїх віру мою."
+      zhukovsky: "Но кто нибудь скажет: ты веру имеешь, а я имею дела; покажи мне веру
+        твою в делах твоих; а я из дел моих покажу веру мою."
+      czech: "Nekdo vsak rekne: „Jeden ma viru a druhy ma skutky.“ Tomu odpovim: Ukaz
+        mi tu svou viru bez skutku a ja ti ukazu svou viru na skutcich."
+      st_text: 'Но скажет кто-нибудь: "ты имеешь веру, а я имею дела": покажи мне веру
+        твою без дел твоих, а я покажу тебе веру мою из дел моих.'
+  - id: 15186
+    number: 19
+    bookId: 56
+    text: "Ты веруешь, что Бог един: хорошо делаешь; и бесы веруют, и трепещут."
+    chapter: 2
+    chapterId: 1231
+    parallels:
+      - verseId: 26188
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 1
+        short: Мк:1:24
+      - verseId: 26323
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 12
+        short: Мк:12:29
+      - verseId: 13376
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 19
+        short: Деян:19:15
+    translates:
+      kassian: "Ты веруешь, что Бог един? Хорошо делаешь: и бесы веруют и трепещут."
+      podstr: Ты веришь что один есть Бог? Хорошо делаешь; и демоны верят и трясутся.
+      csya: "Ты веруеши, яко Бог един есть: добре твориши: и беси веруют, и трепещут."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Ты2 вёруеши, ћкw бг7ъ є3ди1нъ є4сть: до1брэ твори1ши: и3 бёси
+        вёруютъ, и3 трепе1щутъ."
+      sovr_rbo: ""
+      latin: "Tu credis quoniam unus est Deus: bene facis: et daemones credunt, et
+        contremiscunt."
+      ukr: Чи віруєш ти, що Бог один? Добре робиш! Та й демони вірують, і тремтять.
+      nkjv: You believe that there is one God. You do well. Even the demons
+        believe-and tremble!
+      desnitsky: Ты веришь, что Бог Един? Прекрасно! Так веруют и бесы – но это лишь
+        ужасает их.
+      tex_rec: σὺ πιστεύεις ὅτι ὁ Θεὸς εἷς ἐστι· καλῶς ποιεῖς· καὶ τὰ δαιμόνια
+        πιστεύουσι καὶ φρίσσουσι.
+      deutsch: Du glaubst, daß ein einiger Gott ist? Du tust wohl daran; die Teufel
+        glauben's auch und zittern.
+      spanish: ¿Tú crees que Dios es uno? Haces bien. Mas también los demonios creen y
+        tiemblan.
+      peshitta: ܡܗܰܝܡܶܢ ܐܰܢ݈ܬ݁ ܕ݁ܚܰܕ݂ ܗ݈ܽܘ ܐܰܠܳܗܳܐ ܫܰܦ݁ܺܝܪ ܥܳܒ݂ܶܕ݂ ܐܰܢ݈ܬ݁ ܐܳܦ݂ ܫܺܐܕ݂ܶܐ
+        ܡܗܰܝܡܢܺܝܢ ܘܪܳܥܠܺܝܢ܂
+      bel_syomukha: "Ты верыш, што Бог адзіны: слушна робіш; і дэманы вераць, і трымцяць."
+      nrt: Ты веришь, что Бог – един, и это хорошо. Но и демоны верят и трепещут от
+        страха.
+      romana: Tu crezi ca unul este Dumnezeu? Bine faci; dar si demonii cred si se
+        cutremura.
+      francais: Tu crois qu'il y a un seul Dieu, tu fais bien; les démons le croient
+        aussi, et ils tremblent.
+      italian: Tu credi che c'è un Dio solo? Fai bene; anche i demòni lo credono e
+        tremano!
+      old_georgian: შენ გწამს, რომ ღმერთი ერთია? კეთილი და პატიოსანი. ეშმაკებსაც სწამთ
+        და ძრწიან კიდეც.
+      portuguese: Crês tu que Deus é um só? Fazes bem; os demônios também o crêem, e
+        estremecem.
+      polish: "Wierzysz, że jest jeden Bóg? Słusznie czynisz - lecz także i złe duchy
+        wierzą\ri drżą."
+      new_text: Ты веришь, что Бог — один. Хорошо делаешь! Бесы тоже верят и трепещут.
+      serbian: Ти вјерујеш да је један Бог; добро чиниш; и ђаволи вјерују, и дрхте.
+      bulgarian: "Ти вярваш, че Бог е един: добре правиш; и бесовете вярват, и треперят."
+      pobedonostsev: "Ты веруешь, что Бог един? Право веруешь: и бесы веруют и трепещут."
+      ukr2: Ти віруєш, що Бог один? - Добре робиш. І біси вірують, та тремтять.
+      ukr3: "Ти віруєш, що Бог один; добре робиш: і біси вірують, та й тремтять."
+      zhukovsky: "Ты веруеш, что Бог один: — доброе дело; но и бесы веруют и трепещут."
+      czech: Ty veris, ze je jeden Buh. To je spravne. I demoni tomu veri, ale hrozi
+        se toho.
+      st_text: "Ты веруешь, что Бог един: хорошо делаешь; и бесы веруют, и трепещут."
+  - id: 15187
+    number: 20
+    bookId: 56
+    text: Но хочешь ли знать, неосновательный человек, что вера без дел мертва?
+    chapter: 2
+    chapterId: 1231
+    parallels: []
+    translates:
+      kassian: Но хочешь ли узнать, о пустой человек, что вера без дел не действительна?
+      podstr: Желаешь же познать, человек пустой, что вера без дел бездейственна есть?
+      csya: Хощеши же ли разумети, о, человече суетне, яко вера без дел мертва есть?
+      averincev: ""
+      ungerov: ""
+      csya_old: Хо1щеши же ли разумёти, q, человёче сyетне, ћкw вёра без8 дёлъ мертвA
+        є4сть;
+      sovr_rbo: ""
+      latin: Vis autem scire, o homo inanis, quoniam fides sine operibus mortua est?
+      ukr: Чи хочеш ти знати, о марна людино, що віра без діл мертва?
+      nkjv: But do you want to know, O foolish man, that faith without works is dead?
+      desnitsky: Показать ли тебе, пустой человек, что вера без дел ни на что не годна?
+      tex_rec: θέλεις δὲ γνῶναι, ὦ ἄνθρωπε κενέ, ὅτι ἡ πίστις χωρὶς τῶν ἔργων νεκρά
+        ἐστιν;
+      deutsch: Willst du aber erkennen, du eitler Mensch, daß der Glaube ohne Werke
+        tot sei?
+      spanish: ¿Quieres saber, hombre vano, que es estéril la fe sin las obras?
+      peshitta: ܨܳܒ݂ܶܐ ܐܰܢ݈ܬ݁ ܕ݁ܶܝܢ ܕ݁ܬ݂ܶܕ݁ܰܥ ܐܳܘ ܒ݁ܰܪܢܳܫܳܐ ܚܰܠܳܫܳܐ ܕ݁ܗܰܝܡܳܢܽܘܬ݂ܳܐ
+        ܕ݁ܠܳܐ ܥܒ݂ܳܕ݂ܶܐ ܡܺܝܬ݂ܳܐ ܗ݈ܝ܂
+      bel_syomukha: Але ці хочаш ведаць, марны чалавеча, што вера бязь дзеяў мёртвая?
+      nrt: Желаешь ли ты знать, неразумный человек, что вера без дел бесполезна?
+      romana: Vrei insa sa intelegi, omule nesocotit, ca credinta fara de fapte moarta
+        este?
+      francais: Veux-tu savoir, ô homme vain, que la foi sans les oeuvres est inutile?
+      italian: Ma vuoi sapere, o insensato, come la fede senza le opere è senza valore?
+      old_georgian: შენ კი, ამაო კაცო, გნებავს იცოდე, რომ საქმის გარეშე რწმენა მკვდარია?
+      portuguese: Mas queres saber, ó homem insensato, que a fé sem as obras é inútil?
+      polish: "Chcesz zaś zrozumieć, nierozumny człowieku, że wiara bez uczynków
+        jest\rbezowocna?"
+      new_text: А знаешь ли ты, пустой человек, что вера без дел напрасна?!
+      serbian: Али хоћеш ли да знаш, о човјече сујетни, да је вјера без дјела мртва?
+      bulgarian: Но искаш ли да разбереш, о суетни човече, че вярата без дела е мъртва?
+      pobedonostsev: Но хочешь знать, суетный человек, что вера без дел мертва?
+      ukr2: Хочеш знати, безглуздий чоловіче, що віра без діл не приносить плоду?
+      ukr3: Чи хочеш же зрозуміти, чоловіче марний, що віра без дїл мертва?
+      zhukovsky: Хочешь ди уразуметь, о суетный человек, что вера без дел мертва есть?
+      czech: Neuznas, ty nechapavy clovece, ze vira bez skutku neni k nicemu?
+      st_text: Но хочешь ли знать, неосновательный человек, что вера без дел мертва?
+  - id: 15188
+    number: 21
+    bookId: 56
+    text: Не делами ли оправдался Авраам, отец наш, возложив на жертвенник Исаака,
+      сына своего?
+    chapter: 2
+    chapterId: 1231
+    parallels:
+      - verseId: 10036
+        bookId: 1
+        bookCode: bytie
+        chapter: 22
+        short: Быт:22:9
+      - verseId: 14629
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 11
+        short: Евр:11:17
+    translates:
+      kassian: Авраам, отец наш, не делами ли был оправдан, возложив Исаака, сына
+        своего, на жертвенник?
+      podstr: Авраам отец наш не из дел был признан правым, вознёсший Исаака сына
+        своего на жертвенник?
+      csya: Авраам отец наш не от дел ли оправдася, вознес исаака сына своего на
+        жертвенник?
+      averincev: ""
+      ungerov: ""
+      csya_old: Ґвраaмъ nте1цъ нaшъ не t дёлъ ли њправдaсz, возне1съ їсаaка сы1на
+        своего2 на же1ртвенникъ;
+      sovr_rbo: ""
+      latin: Abraham pater noster nonne ex operibus justificatus est, offerens Isaac
+        filium suum super altare?
+      ukr: Авраам, отець наш, чи він не з діл виправданий був, як поклав був на
+        жертівника свого сина Ісака?
+      nkjv: Was not Abraham our father justified by works when he offered Isaac his
+        son on the altar?
+      desnitsky: Как получил праведность праотец наш Авраам? По делам своим, когда
+        готов был принести сына своего Исаака в жертву.
+      tex_rec: ᾿Αβραὰμ ὁ πατὴρ ἡμῶν οὐκ ἐξ ἔργων ἐδικαιώθη, ἀνενέγκας ᾿Ισαὰκ τὸν υἱὸν
+        αὐτοῦ ἐπὶ τὸ θυσιαστήριον;
+      deutsch: Ist nicht Abraham, unser Vater, durch die Werke gerecht geworden, da er
+        seinen Sohn Isaak auf dem Altar opferte?
+      spanish: Abraham, nuestro padre, ¿no fue justificado por las obras cuando
+        ofreció sobre el altar a Isaac, su hijo?
+      peshitta: ܐܰܒ݂ܽܘܢ ܐܰܒ݂ܪܳܗܳܡ ܠܳܐ ܗ݈ܘܳܐ ܡܶܢ ܥܒ݂ܳܕ݂ܶܐ ܐܶܙܕ݁ܰܕ݁ܰܩ ܕ݁ܰܐܣܶܩ ܠܺܐܝܣܚܳܩ
+        ܒ݁ܪܶܗ ܥܰܠ ܡܰܕ݂ܒ݁ܚܳܐ܂
+      bel_syomukha: Ці ж ня дзеямі апраўдаўся Абрагам, бацька наш, паклаўшы на
+        ахвярнік Ісаака, сына свайго?
+      nrt: Не в результате ли дел наш праотец Авраам был оправдан, когда положил
+        своего сына Исаака на жертвенник?
+      romana: Avraam, parintele nostru, au nu din fapte s-a indreptat, cand a pus pe
+        Isaac, fiul sau, pe jertfelnic?
+      francais: Abraham, notre père, ne fut-il pas justifié par les oeuvres, lorsqu'il
+        offrit son fils Isaac sur l'autel?
+      italian: Abramo, nostro padre, non fu forse giustificato per le opere, quando
+        offrì Isacco, suo figlio, sull'altare?
+      old_georgian: განა საქმით არ გამართლდა მამაჩვენი აბრაამი, როცა თავის ძეს ისააკს
+        მსხვერპლად სწირავდა?
+      portuguese: "Porventura não foi pelas obras que nosso pai Abraão foi justificado
+        quando ofereceu sobre o altar seu filho\r
+
+        Isaque?"
+      polish: "Czy Abraham, ojciec nasz, nie z powodu uczynków został
+        usprawiedliwiony,\r
+
+        kiedy złożył syna Izaaka na ołtarzu ofiarnym?"
+      new_text: Разве наш праотец Авраам был оправдан не по делам, когда принес своего
+        сына Исаака на жертвенник?
+      serbian: Авраам, отац наш, не оправда ли се дјелима кад принесе Исака сина
+        својега на жртвеник?
+      bulgarian: Нали с дела се оправда Авраам, нашият отец, като положи върху
+        жертвеника сина си Исаака?
+      pobedonostsev: Разве не делами оправдался Авраам, отец наш, когда вознес на
+        жертвенник Исаака, сына своего?
+      ukr2: Авраам, наш батько, чи не ділами виявився праведним, коли був приніс на
+        жертовник Ісаака, свого сина?
+      ukr3: Авраам, отець наш, хиба не з дїл оправдив ся, піднявши Ісаака, сина свого,
+        на жертівник?
+      zhukovsky: Не от дел ли оправдадся отец наш Авраам, возложив Исаака, сына
+        своего, на жертвенник?
+      czech: Coz nebyl nas otec Abraham ospravedlnen ze skutku, kdyz polozil na oltar
+        sveho syna Izaka?
+      st_text: Не делами ли оправдался Авраам, отец наш, возложив на жертвенник
+        Исаака, сына своего?
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 15189
+    number: 22
+    bookId: 56
+    text: Видишь ли, что вера содействовала делам его, и делами вера достигла
+      совершенства?
+    chapter: 2
+    chapterId: 1231
+    parallels: []
+    translates:
+      kassian: Ты видишь, что вера действовала вместе с делами его, и делами вера
+        доведена была до совершенства,
+      podstr: Видишь что вера содействовала делам его и от дел вера была сделана
+        совершенная,
+      csya: Видиши ли, яко вера поспешествоваше делом его, и от дел совершися вера?
+      averincev: ""
+      ungerov: ""
+      csya_old: Ви1диши ли, ћкw вёра поспёшествоваше дэлHмъ є3гw2, и3 t дёлъ
+        соверши1сz вёра;
+      sovr_rbo: ""
+      latin: "Vides quoniam fides cooperabatur operibus illius: et ex operibus fides
+        consummata est?"
+      ukr: Чи ти бачиш, що віра помогла його ділам, і вдосконалилась віра із діл?
+      nkjv: Do you see that faith was working together with his works, and by works
+        faith was made perfect?
+      desnitsky: Ты же видишь, что вера его проявлялась на деле, вера достигла
+        совершенства в его поступках.
+      tex_rec: βλέπεις ὅτι ἡ πίστις συνήργει τοῖς ἔργοις αὐτοῦ, καὶ ἐκ τῶν ἔργων ἡ
+        πίστις ἐτελειώθη,
+      deutsch: Da siehst du, daß der Glaube mitgewirkt hat an seinen Werken, und durch
+        die Werke ist der Glaube vollkommen geworden;
+      spanish: ¿Ves cómo la fe cooperaba con sus obras y que por las obras se hizo
+        perfecta la fe?
+      peshitta: ܚܳܙܶܐ ܐܰܢ݈ܬ݁ ܕ݁ܗܰܝܡܳܢܽܘܬ݂ܶܗ ܣܰܝܥܰܬ݂ ܠܰܥܒ݂ܳܕ݂ܰܘܗ݈ܝ ܘܡܶܢ ܥܒ݂ܳܕ݂ܶܐ
+        ܗܰܝܡܳܢܽܘܬ݂ܶܗ ܐܶܬ݂ܓ݁ܰܡܪܰܬ݂܂
+      bel_syomukha: Ці бачыш, што вера спрыяла дзеям ягоным, і дзеямі вера дасягнула
+        дасканаласьці.
+      nrt: Ты видишь, что его вера и его дела были неразрывно связаны, и именно в
+        делах его вера и получила совершенство.
+      romana: Vezi ca, credinta lucra impreuna cu faptele lui si din fapte credinta
+        s-a desavarsit?
+      francais: Tu vois que la foi agissait avec ses oeuvres, et que par les oeuvres
+        la foi fut rendue parfaite.
+      italian: Vedi che la fede cooperava con le opere di lui, e che per le opere
+        quella fede divenne perfetta
+      old_georgian: ხომ ხედავ, რომ რწმენა შეეწია მის საქმეს, საქმემ კი სრულყო რწმენა.
+      portuguese: Vês que a fé cooperou com as suas obras, e que pelas obras a fé foi
+        aperfeiçoada.
+      polish: "Widzisz, że wiara współdziała z jego uczynkami i przez uczynki stała
+        się\rdoskonała."
+      new_text: Ты видишь, что вера содействовала его делам и благодаря делам его вера
+        стала совершенной.
+      serbian: Видиш ли како је вјера садјејствовала дјелима његовим, и кроз дјела
+        усавршила се вјера?
+      bulgarian: Видиш ли, че вярата съдействуваше на делата му, и чрез делата вярата
+        стана съвършена?
+      pobedonostsev: Видишь ли, что вера содействовала делам его, и вера усовершилась делами?
+      ukr2: Бачиш, що віра співдіяла з його ділами, і його віра удосконалилася ділами.
+      ukr3: Чи бачиш, що віра допомагала дїлам його, і дїлами звершилась віра?
+      zhukovsky: Не видишь ли, что вера споспешествовала делам его и что делами
+        усовершенствовалась вера?
+      czech: Nevidis, ze vira pusobila spolu s jeho skutky a ze ve skutcich dosla vira
+        dokonalosti?
+      st_text: Видишь ли, что вера содействовала делам его, и делами вера достигла
+        совершенства?
+  - id: 15190
+    number: 23
+    bookId: 56
+    text: 'И исполнилось слово Писания: "веровал Авраам Богу, и это вменилось ему в
+      праведность, и он наречен другом Божиим".'
+    chapter: 2
+    chapterId: 1231
+    parallels:
+      - verseId: 9821
+        bookId: 1
+        bookCode: bytie
+        chapter: 15
+        short: Быт:15:6
+      - verseId: 6048
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 20
+        short: 2 Пар:20:7
+      - verseId: 20648
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 41
+        short: Ис:41:8
+      - verseId: 33064
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 4
+        short: Рим:4:3
+      - verseId: 15042
+        bookId: 66
+        bookCode: k-galatam-poslanie-ap-pavla
+        chapter: 3
+        short: Гал:3:6
+    translates:
+      kassian: "и исполнилось Писание, говорящее: поверил Авраам Богу, и это было
+        зачтено ему в праведность, и он был назван другом Божиим."
+      podstr: и исполнилось Писание говорящее, Поверил же Авраам Богу, и было
+        засчитано ему в праведность, и другом Бога назван.
+      csya: "И совершися писание глаголющее: верова же авраам Богови, и вменися ему в
+        правду, и друг Божий наречеся."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# соверши1сz писaніе глаго1лющее: вёрова же ґвраaмъ бг7ови, и3
+        вмэни1сz є3мY въ прaвду, и3 дрyгъ б9ій нарече1сz."
+      sovr_rbo: ""
+      latin: "Et suppleta est Scriptura, dicens: Credidit Abraham Deo, et reputatum
+        est illi ad justitiam, et amicus Dei appellatus est."
+      ukr: "І здійснилося Писання, що каже: Авраам же ввірував Богові, і це йому
+        зараховане в праведність, і був названий він другом Божим."
+      nkjv: And the Scripture was fulfilled which says, "Abraham believed God, and it
+        was accounted to him for righteousness." And he was called the friend of
+        God.
+      desnitsky: "Так и исполнилось сказанное в Писании: «Поверил Авраам Богу, и это
+        вменилось ему в праведность», и был он назван Сыном Божьим."
+      tex_rec: καὶ ἐπληρώθη ἡ γραφὴ ἡ λέγουσα· ἐπίστευσε δὲ ᾿Αβραὰμ τῷ Θεῷ, καὶ
+        ἐλογίσθη αὐτῷ εἰς δικαιοσύνην, καὶ φίλος Θεοῦ ἐκλήθη.
+      deutsch: 'und ist die Schrift erfüllt, die da spricht: "Abraham hat Gott
+        geglaubt, und das ist ihm zur Gerechtigkeit gerechnet," und er ward ein
+        Freund Gottes geheißen.'
+      spanish: "y cumplióse la Escritura que dice: «Pero Abraham creyó a Dios, y le
+        fue imputado a justicia, y fue llamado amigo de Dios»."
+      peshitta: ܘܰܫܠܶܡ ܟ݁ܬ݂ܳܒ݂ܳܐ ܕ݁ܶܐܡܰܪ ܕ݁ܗܰܝܡܶܢ ܐܰܒ݂ܪܳܗܳܡ ܒ݁ܰܐܠܳܗܳܐ ܘܶܐܬ݂ܚܰܫܒ݁ܰܬ݂
+        ܠܶܗ ܠܙܰܕ݁ܺܝܩܽܘ ܘܪܳܚܡܳܐ ܕ݁ܰܐܠܳܗܳܐ ܐܶܬ݂ܩܪܺܝ܂
+      bel_syomukha: "І спраўдзілася слова Пісаньня: вераваў Абрагам Богу, і гэта
+        залічылася яму ў праведнасьць, і ён названы прыяцелем Божым."
+      nrt: "Так исполнились слова Писания: «Авраам поверил Богу, и это было вменено
+        ему в праведность», – и Авраам был назван другом Божьим."
+      romana: 'Si s-a implinit Scriptura care zice: "Si a crezut Avraam lui Dumnezeu
+        si i s-a socotit lui ca dreptate" si "a fost numit prieten al lui
+        Dumnezeu".'
+      francais: "Ainsi s'accomplit ce que dit l'Écriture: Abraham crut à Dieu, et cela
+        lui fut imputé à justice; et il fut appelé ami de Dieu."
+      italian: "e si compì la Scrittura che dice: E Abramo ebbe fede in Dio e gli fu
+        accreditato a giustizia, e fu chiamato amico di Dio."
+      old_georgian: "და აღსრულდა წერილი, რომელიც ამბობს: „ერწმუნა აბრაამი ღმერთს, რაც
+        სიმართლედ შეერაცხა“ და ღვთის მეგობრად იწოდა იგი."
+      portuguese: "E se cumpriu a escritura que diz: E creu Abraão em Deus, e isso lhe
+        foi imputado como justiça, e foi chamado\ramigo de Deus."
+      polish: "I tak wypełniło się Pismo, które mówi: Uwierzył przeto Abraham Bogu
+        i\rpoczytano mu to za sprawiedliwość, i został nazwany przyjacielem
+        Boga."
+      new_text: "Так исполнились слова Писания: «Авраам поверил Богу, и Бог признал
+        это за праведность», и Авраам был назван другом Бога."
+      serbian: "И испуни се Писмо које говори: Авраам повјерова Богу, и прими му се у
+        правду, и  пријатељ Божији назва се."
+      bulgarian: 'И изпълни се Писанието, което казва: "повярва Авраам на Бога, и това
+        му се вмени за оправдание", и той бъде наречен приятел Божий.'
+      pobedonostsev: "И так исполнилось слово Писания: «веровал Авраам Богу, и
+        вменилось ему в праведность, и наречен другом Божиим» (Быт. 15)."
+      ukr2: "Так здійснилося Писання, яке каже: «Авраам повірив Богові, і це
+        зараховано йому за праведність», і він був названий приятелем Божим."
+      ukr3: 'І сповнилось писаннє, що глаголе: "Увірував же Авраам Богові й полїчено
+        йому (те) за праведність, і другом Божим наречено його."'
+      zhukovsky: "И исполнилось сказанное в Писании: уверовал Авраам Богу, и то
+        вменилось ему в правду, и другом Божиим наречен был (Быт. XV, 6)."
+      czech: "Tak se naplnilo Pismo: ‚Uveril Abraham Bohu, a bylo mu to pocitano za
+        spravedlnost‘ a byl nazvan ‚pritelem Bozim‘."
+      st_text: 'И исполнилось слово Писания: "веровал Авраам Богу, и это вменилось ему
+        в праведность, и он наречен другом Божиим".'
+  - id: 15191
+    number: 24
+    bookId: 56
+    text: Видите ли, что человек оправдывается делами, а не верою только?
+    chapter: 2
+    chapterId: 1231
+    parallels: []
+    translates:
+      kassian: Видите, что делами оправдывается человек, а не верою только.
+      podstr: Видите что из дел признается праведный человек и не от веры только.
+      csya: Зрите ли убо, яко от дел оправдается человек, а не от веры единыя?
+      averincev: ""
+      ungerov: ""
+      csya_old: Зрите1 ли ў2бо, ћкw t дёлъ њправдaетсz человёкъ, ґ не t вёры є3ди1ныz;
+      sovr_rbo: ""
+      latin: Videtis quoniam ex operibus justificatur homo, et non ex fide tantum?
+      ukr: Отож, чи ви бачите, що людина виправдується від діл, а не тільки від віри?
+      nkjv: You see then that a man is justified by works, and not by faith only.
+      desnitsky: Итак, вы видите, что человек признается праведным по своим делам, а
+        не только по вере.
+      tex_rec: ὁρᾶτε τοίνυν ὅτι ἐξ ἔργων δικαιοῦται ἄνθρωπος καὶ οὐκ ἐκ πίστεως μόνον.
+      deutsch: So sehet ihr nun, daß der Mensch durch die Werke gerecht wird, nicht
+        durch den Glauben allein.
+      spanish: Ved, pues, cómo por las obras y no por la fe solamente se justifica el
+        hombre.
+      peshitta: ܚܳܙܶܐ ܐܰܢ݈ܬ݁ ܕ݁ܡܶܢ ܥܒ݂ܳܕ݂ܶܐ ܡܶܙܕ݁ܰܕ݁ܰܩ ܒ݁ܰܪܢܳܫܳܐ ܘܠܳܐ ܗ݈ܘܳܐ ܡܶܢ
+        ܗܰܝܡܳܢܽܘܬ݂ܳܐ ܒ݁ܰܠܚܽܘܕ݂܂
+      bel_syomukha: Ці бачыце, што чалавек апраўдваецца дзеямі, а ня вераю толькі?
+      nrt: Вы сами видите, что человек получает оправдание по делам, а не только по
+        вере.
+      romana: Vedeti dar ca din fapte este indreptat omul, iar nu numai din credinta.
+      francais: Vous voyez que l'homme est justifié par les oeuvres, et non par la foi
+        seulement.
+      italian: Vedete che l'uomo viene giustificato in base alle opere e non soltanto
+        in base alla fede.
+      old_georgian: როგორც ხედავთ, კაცი საქმით მართლდება და არა მხოლოდ რწმენით.
+      portuguese: Vedes então que é pelas obras que o homem é justificado, e não
+        somente pela fé.
+      polish: "Widzicie, że człowiek dostępuje usprawiedliwienia na podstawie
+        uczynków, a\rnie samej tylko wiary."
+      new_text: Видите, Бог оправдывает человека за дела, а не за одну только веру.
+      serbian: Видите ли, дакле, да се дјелима оправдава човјек, а не само вјером?
+      bulgarian: Видите ли, че човек се оправдава с дела, а не само с вяра?
+      pobedonostsev: Видите, что делами оправдывается человек, а не одною только верою.
+      ukr2: Ви бачите, що чоловік оправдується ділами, не тільки вірою.
+      ukr3: Чи бачите ж оце, що з дїл оправдуєть ся чоловік, а не з однієї віри?
+      zhukovsky: И так, не видите ли, что и делами, а не одною верою, человек бывает
+        оправдан.
+      czech: Vidite, ze ze skutku je clovek ospravedlnen, a ne pouze z viry!
+      st_text: Видите ли, что человек оправдывается делами, а не верою только?
+  - id: 15192
+    number: 25
+    bookId: 56
+    text: Подобно и Раав блудница не делами ли оправдалась, приняв соглядатаев и
+      отпустив их другим путем?
+    chapter: 2
+    chapterId: 1231
+    parallels:
+      - verseId: 27216
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 2
+        short: Нав:2:1
+      - verseId: 14643
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 11
+        short: Евр:11:31
+    translates:
+      kassian: Подобным же образом и Раав блудница не делами ли была оправдана, приняв
+        вестников и отправив их иным путем?
+      podstr: Подобно же и Раав блудница не из дел была признана правой, принявшая
+        вестников и другим путём выпустившая?
+      csya: Такожде же и раав блудница не от дел ли оправдася, приемши сходники и иным
+        путем изведши их?
+      averincev: ""
+      ungerov: ""
+      csya_old: Тaкожде же и3 раaвъ блудни1ца не t дёлъ ли њправдaсz, пріе1мши
+        схо1дники и3 и3ны1мъ путе1мъ и3зве1дши и5хъ;
+      sovr_rbo: ""
+      latin: Similiter et Rahab meretrix, nonne ex operibus justificata est,
+        suscipiens nuntios, et alia via ejiciens?
+      ukr: Чи так само і блудниця Рахав не з діл виправдалась, коли прийняла
+        посланців, і дорогою іншою випустила?
+      nkjv: Likewise, was not Rahab the harlot also justified by works when she
+        received the messengers and sent them out another way?
+      desnitsky: Точно так же и блудница Раав была признана праведной по своим делам,
+        когда приняла израильских разведчиков и тайно выпустила из города.
+      tex_rec: ὁμοίως δὲ καὶ ῾Ραὰβ ἡ πόρνη οὐκ ἐξ ἔργων ἐδικαιώθη, ὑποδεξαμένη τοὺς
+        ἀγγέλους καὶ ἑτέρᾳ ὁδῷ ἐκβαλοῦσα;
+      deutsch: Desgleichen die Hure Rahab, ist sie nicht durch die Werke gerecht
+        geworden, da sie die Boten aufnahm und ließ sie einen andern Weg hinaus?
+      spanish: Y asimismo Rahab, la meretriz, ¿no se justificó por las obras,
+        recibiendo a los mensajeros y despidiéndolos por otro camino?
+      peshitta: ܗܳܟ݂ܰܢܳܐ ܐܳܦ݂ ܪܳܚܳܒ݂ ܙܳܢܺܝܬ݂ܳܐ ܠܳܐ ܗ݈ܘܳܐ ܡܶܢ ܥܒ݂ܳܕ݂ܶܐ ܐܶܙܕ݁ܰܕ݁ܩܰܬ݂
+        ܕ݁ܩܰܒ݁ܠܰܬ݂ ܠܓ݂ܳܫܽܘܫܶܐ ܘܒ݂ܽܐܘܪܚܳܐ ܐ݈ܚܪܺܬ݂ܳܐ ܐܰܦ݁ܩܰܬ݂ ܐܶܢܽܘܢ܂
+      bel_syomukha: Гэтак сама і Рааў распусьніца ці ж ня дзеямі апраўдалася, прыняўшы
+        выведнікаў і выпусьціўшы іх іншаю дарогаю?
+      nrt: И разве не по делам была оправдана блудница Раав, когда приютила лазутчиков
+        и послала их другим путем?
+      romana: La fel si Rahav, desfranata, au nu din fapte s-a indreptat cand a primit
+        pe cei trimisi si i-a scos afara, pe alta cale?
+      francais: Rahab la prostituée ne fut-elle pas également justifiée par les
+        oeuvres, lorsqu'elle reçut les messagers et qu'elle les fit partir par
+        un autre chemin?
+      italian: Così anche Raab, la meretrice, non venne forse giustificata in base
+        alle opere per aver dato ospitalità agli esploratori e averli rimandati
+        per altra via?
+      old_georgian: განა საქმითვე არ გამართლდა მეძავი რახაბიც, როცა მიიღო მსტოვარი და
+        სხვა გზით წარავლინა შინ? 26 ვინაიდან როგორც სხეული მკვდარია სულის
+        გარეშე, ასევე რწმენაც მკვდარია საქმის გარეშე.
+      portuguese: "E de igual modo não foi a meretriz Raabe também justificada pelas
+        obras, quando acolheu os espias, e os fez\r
+
+        sair por outro caminho?"
+      polish: "Podobnie też nierządnica Rachab, która przyjęła wysłanników i inną
+        drogą\r
+
+        odprawiła ich, czy nie dostąpiła usprawiedliwienia za swoje
+        uczynki?"
+      new_text: Так было и с проституткой Раав. Разве она, которая приняла у себя
+        разведчиков и направила их по другой дороге, была оправдана не за дела?
+      serbian: А слично и Рава блудница не оправда ли се дјелима када прими уходе и
+        изведе их другим путем?
+      bulgarian: Също тъй нали с дела се оправда и блудницата Раав, като прие
+        съгледвачите и ги изведе по друг път?
+      pobedonostsev: Тоже и Раав блудница не делами ли оправдалась, когда приняла
+        соглядатаев и иным путем проводила их?
+      ukr2: Так само й Рахав, блудниця, чи ж не ділами оправдалася, прийнявши
+        посланців і випустивши їх іншим шляхом?
+      ukr3: Так само і Раава блудниця хиба не з дїл оправдилась, прийнявши посланцїв і
+        вивівши їх иншою дорогою?
+      zhukovsky: Так и Раав, блудница, не делами ли оправдалась, прияв соглядатаев и
+        иным путем проводив их?
+      czech: Coz nebyla i nevestka Rachab podobne ospravedlnena ze skutku, kdyz
+        prijala posly a propustila je jinou cestou? –
+      st_text: Подобно и Раав блудница не делами ли оправдалась, приняв соглядатаев и
+        отпустив их другим путем?
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 15193
+    number: 26
+    bookId: 56
+    text: Ибо, как тело без духа мертво, так и вера без дел мертва.
+    chapter: 2
+    chapterId: 1231
+    parallels: []
+    translates:
+      kassian: Ибо, как тело без духа мертво, так и вера без дел мертва.
+      podstr: Как ведь тело без духа мертво есть, так и вера без дел мертва есть.
+      csya: Якоже бо тело без духа мертво есть, тако и вера без дел мертва есть.
+      averincev: ""
+      ungerov: ""
+      csya_old: Ћкоже бо тёло без8 дyха мертво2 є4сть, тaкw и3 вёра без8 дёлъ мертвA
+        є4сть.
+      sovr_rbo: ""
+      latin: Sicut enim corpus sine spiritu mortuum est, ita et fides sine operibus
+        mortua est.
+      ukr: Бо як тіло без духа мертве, так і віра без діл мертва!
+      nkjv: For as the body without the spirit is dead, so faith without works is dead
+        also.
+      desnitsky: Как тело без духа мертво, так и вера без дел мертва.
+      tex_rec: ὥσπερ γὰρ τὸ σῶμα χωρὶς πνεύματος νεκρόν ἐστιν, οὕτω καὶ ἡ πίστις χωρὶς
+        τῶν ἔργων νεκρά ἐστι.
+      deutsch: Denn gleichwie der Leib ohne Geist tot ist, also ist auch der Glaube
+        ohne Werke tot.
+      spanish: Pues como el cuerpo sin el espíritu es muerto, así también es muerta la
+        fe sin las obras.
+      peshitta: ܐܰܝܟ݁ܰܢܳܐ ܕ݁ܦ݂ܰܓ݂ܪܳܐ ܕ݁ܠܳܐ ܪܽܘܚܳܐ ܡܺܝܬ݂ ܗ݈ܽܘ ܗܳܟ݂ܰܢܳܐ ܐܳܦ݂
+        ܗܰܝܡܳܢܽܘܬ݂ܳܐ ܕ݁ܠܳܐ ܥܒ݂ܳܕ݂ܶܐ ܡܺܝܬ݂ܳܐ ܗ݈ܝ܂
+      bel_syomukha: Бо, як цела бяз духу мёртвае, так і вера бязь дзеяў мёртвая.
+      nrt: Так что, как тело мертво без духа, так и вера без дел мертва.
+      romana: Caci precum trupul fara suflet mort este, astfel si credinta fara de
+        fapte, moarta este.
+      francais: Comme le corps sans âme est mort, de même la foi sans les oeuvres est
+        morte.
+      italian: Infatti come il corpo senza lo spirito è morto, così anche la fede
+        senza le opere è morta.
+      portuguese: Porque, assim como o corpo sem o espírito está morto, assim também a
+        fé sem obras é morta.
+      polish: Tak jak ciało bez ducha jest martwe, tak też jest martwa wiara bez
+        uczynków.
+      new_text: Ведь точно так же как тело без духа мертво, и вера без дел мертва.
+      serbian: Јер као што је тијело без духа мртво, тако је и вјера без дјела мртва.
+      bulgarian: Защото, както тялото без дух е мъртво, тъй и вярата без дела е мъртва.
+      pobedonostsev: Ибо, как тело без духа мертво, так и вера мертва без дел.
+      ukr2: Як тіло без душі мертве, так само й віра без діл мертва.
+      ukr3: Яко бо тїло без духа мертве, так і віра без дїл мертва.
+      zhukovsky: Как тело мертво без духа, так и вера без дел мертва есть.
+      czech: Jako je telo bez ducha mrtve, tak je mrtva i vira bez skutku.
+      st_text: Ибо, как тело без духа мертво, так и вера без дел мертва.

@@ -1,0 +1,932 @@
+id: 511
+number: 35
+bookId: 21
+verseCount: 16
+title: Глава 35
+verses:
+  - id: 19581
+    number: 1
+    bookId: 21
+    text: "И продолжал Елиуй и сказал:"
+    chapter: 35
+    chapterId: 511
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Отвещав же еще елиус, рече:"
+      averincev: "И продолжал Элиу, и сказал:"
+      ungerov: "И продолжал еще Елиус и сказал:"
+      csya_old: "Tвэщaвъ же є3ще2 є3ліyсъ, рече2:"
+      sovr_rbo: "Так продолжал Элигу:"
+      latin: "Igitur Eliu haec rursum locutus est:"
+      ukr: "І говорив Елігу та й сказав:"
+      nkjv: "Moreover Elihu answered and said:"
+      desnitsky: "Так продолжал Элигу:"
+      mt: ‫   וַיַּעַן אֱלִיהוּ וַיֹּאמַר׃ ‬
+      romana: "Elihu a vorbit mai departe si a zis:"
+      francais: "Élihu reprit et dit:"
+      italian: "Eliu riprese a dire:"
+      old_georgian: "მიუგო ელიუს და ჰრქუა:"
+      portuguese: "Disse mais Eliú:"
+      polish: "Elihu ciągnął dalej, i rzekł:"
+      turkish: "Elihu konuşmasına şöyle devam etti:"
+      nrt: "Затем Елиуй сказал:"
+      Macarius: "И начал снова Элиуй, и сказал:"
+      serbian: "Још говори Елијуј и рече:"
+      bulgarian: "Продължи Елиуй и рече:"
+      deutsch: "Und es hob an Elihu und sprach:"
+      ukr2: "Елігу почав говорити далі й мовив:"
+      ukr3: "І вів Еліуй далїй свою річ і говорив:"
+      bel_syomukha: "І гаварыў далей Эліуй і сказаў:"
+      lev-khv: "И продолжал Елигу, и сказал:"
+      czech: "Na to navazal Elihu slovy:"
+      spanish: "Tomó Elihú la palabra y dijo:"
+      greek-lxx: ὑπολαβὼν δὲ Ελιους λέγει
+      st_text: "И продолжал Елиуй и сказал:"
+  - id: 19582
+    number: 2
+    bookId: 21
+    text: "считаешь ли ты справедливым, что сказал: я правее Бога?"
+    chapter: 35
+    chapterId: 511
+    parallels:
+      - verseId: 18922
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 10
+        short: Иов:10:15
+      - verseId: 19490
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 32
+        short: Иов:32:2
+      - verseId: 19548
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 34
+        short: Иов:34:5
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "что сие мнил еси на суде? ты кто еси, яко рекл еси: прав есмь пред
+        Господем?"
+      averincev: '"Это ли считаешь правдой ты - говорить: "Я против Бога прав!"'
+      ungerov: 'Что это ты подумал о суде? Как ты сказал: "я прав пред Господом"?'
+      csya_old: "что2 сіе2 мни1лъ є3си2 на судЁ; ты2 кто2 є3си2, ћкw ре1клъ є3си2:
+        прaвъ є4смь пред8 гDемъ;"
+      sovr_rbo: "«Ты думаешь, правда на твоей стороне? Говоришь: „Прав я, а не Бог”,"
+      latin: "Numquid aequa tibi videtur tua cogitatio, ut diceres: Justior sum Deo?"
+      ukr: "Чи це полічив ти за право, як кажеш: Моя праведність більша за Божу?"
+      nkjv: "\"Do you think this is right? Do you say, 'My righteousness is more than
+        God's'? "
+      desnitsky: "– Ты думаешь, правда на твоей стороне? Ты говоришь: «Прав я, а не Бог»,"
+      mt: ‫   הֲזֹאת חָשַׁבְתָּ לְמִשְׁפָּט אָמַרְתָּ צִדְקִי מֵאֵל׃ ‬
+      romana: '"Crezi tu ca ai dreptate si socotesti ca te-ai limpezit inaintea lui
+        Dumnezeu,'
+      francais: Imagines-tu avoir raison, Penses-tu te justifier devant Dieu,
+      italian: 'Ti pare di aver pensato cosa giusta, quando dicesti: "Ho ragione
+        davanti a Dio"?'
+      old_georgian: "რასათჳს ესრეთ განიზრახე სასჯელსა შინა? შენ ვინ ხარ, სთქუ,
+        ვითარმედ: მართალ ვარ წინაშე უფლისა?"
+      portuguese: "Tens por direito dizeres: Maior é a minha justiça do que a de Deus?"
+      polish: "”Czy to uznajesz za słuszne, coś rzekł: ”Mam prawo od Boga”?"
+      turkish: "«`Tanrı'nın önünde haklıyım' diyorsun.\rDoğru buluyor musun bunu?"
+      nrt: "– Считаешь ли ты справедливым, что сказал: «Я праведен перед Богом», –"
+      Macarius: "Это ли ты считаешь справедливым решением, что сказал: «я прав пред
+        Богом?»"
+      serbian: "Мислиш ли да си право рекао: Моја је правда већа од Божије?"
+      bulgarian: 'намираш ли справедливо това, що каза: "аз съм по-прав от Бога"?'
+      deutsch: 'Achtest du das für Recht, daß du sprichst: "Ich bin gerechter denn
+        Gott"?'
+      ukr2: «Невже оце тобі здається справедливим, | а ще й казав ти:,,Я праведний
+        перед Богом.
+      ukr3: "Не вже ж видиться тобі се справедливим, що ти сказав: Я праведнїйший,
+        анїж сам Бог?"
+      bel_syomukha: 'ці лічыш ты справядлівым, што сказаў: "я праўдзівейшы за Бога"?'
+      lev-khv: "Это ли ты считаешь справедливым, что ты сказал: я правее Бога?"
+      czech: "\"Myslis si, ze je to podle prava rikat: ‚Moje spravedlnost prevysuje
+        Bozi?'"
+      spanish: "<< ¿Te parece juicioso decir: <<Tengo razón contra Dios?>>"
+      greek-lxx: τί τοῦτο ἡγήσω ἐν κρίσει σὺ τίς εἶ ὅτι εἶπας δίκαιός εἰμι ἔναντι Κυρίου
+      st_text: "считаешь ли ты справедливым, что сказал: я правее Бога?"
+  - id: 19583
+    number: 3
+    bookId: 21
+    text: "Ты сказал: что пользы мне? и какую прибыль я имел бы пред тем, как если
+      бы я и грешил?"
+    chapter: 35
+    chapterId: 511
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Или речеши: что сотворю согрешив?"
+      averincev: 'Ты сказал: "Что за польза мне, что за прибыль, что я не грешил?'
+      ungerov: 'Или скажешь: "что я получу, согрешив"?'
+      csya_old: "И#ли2 рече1ши: что2 сотворю2 согрэши1въ;"
+      sovr_rbo: "говоришь: „Что мне пользы? Грешить или нет — что толку?”"
+      latin: "Dixisti enim: Non tibi placet quod rectum est: vel quid tibi proderit,
+        si ego peccavero?"
+      ukr: "Бо ти говорив: Що поможе тобі? Яку користь із цього я матиму більшу, аніж
+        від свойого гріха?"
+      nkjv: "For you say, 'What advantage will it be to You? What profit shall I have,
+        more than if I had sinned?' "
+      desnitsky: "говоришь: «Что мне пользы? Грешить или нет – что толку?»"
+      mt: ‫   כִּי־תֹאמַר מַה־יִּסְכָּן־לָךְ מָה־אֹעִיל מֵחַטָּאתִי׃ ‬
+      romana: 'Cand zici: "Ce folosesc, ce castig am eu, ca nu pacatuiesc?"'
+      francais: "Quand tu dis: Que me sert-il, Que me revient-il de ne pas pécher?"
+      italian: 'O quando hai detto: "Che te ne importa? Che utilità ne ho dal mio
+        peccato"?'
+      old_georgian: "ანუ ესემე სთქუა: ერთვე ვცოდე, აწ რა ვყო?"
+      portuguese: "Porque dizes: Que me aproveita? Que proveito tenho mais do que se
+        eu tivera pecado?"
+      polish: "Powiedziałeś: ”Co z tego mi [przyjdzie]? Czy to pomaga więcej niż
+        grzech?”"
+      turkish: Ama hâlâ, `Günah işlemezsem Yararım ne, kazancım ne?' diye soruyorsun.
+      nrt: "и спросил: «Что мне за польза, что за выгода не грешить?»"
+      Macarius: "Ибо ты говоришь: «какая выгода мне, какая прибыль пред тем, как если
+        бы я и грешил?»"
+      serbian: "Јер си рекао: Шта ће ми помоћи, каква ће ми бити корист да не гријешим?"
+      bulgarian: 'Ти каза: "каква полза за мен? и каква печалба бих имал повече, ако
+        бих и грешил?"'
+      deutsch: 'Denn du sprichst: "Wer gilt bei dir etwas? Was hilft es, ob ich nicht
+        sündige?"'
+      ukr2: "Коли ж казатимеш: „Що тобі до того, | і що я чиню тобі, коли грішу? -"
+      ukr3: "Ти бо сказав: що за користь менї, й що прибуло б менї з того навперід, як
+        і послї того, як би я согрішив?"
+      bel_syomukha: 'Ты сказаў: "якая карысьць мне? і які прыбытак я меў бы перад тым,
+        як калі б я і грашыў?"'
+      lev-khv: "Так что ты говоришь: какая польза тебе? какая выгода мне пред тем,
+        <i>как</i> еслибы я и грешил?"
+      czech: "Rikat: ‚Co z toho mas? Co mi prospeje, nebudu-li hresit?'"
+      spanish: "pues dices: << ¿De qué me sirve, qué ventaja he tenido por no haber
+        pecado?>>"
+      greek-lxx: ἢ ἐρεῖς τί ποιήσω ἁμαρτών
+      st_text: "Ты сказал: что пользы мне? и какую прибыль я имел бы пред тем, как
+        если бы я и грешил?"
+  - id: 19584
+    number: 4
+    bookId: 21
+    text: "Я отвечу тебе и твоим друзьям с тобою:"
+    chapter: 35
+    chapterId: 511
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Аз же ти дам ответ и трием другом твоим.
+      averincev: Я хочу речью ответить тебе - и вместе с тобою твоим друзьям.
+      ungerov: А я дам ответ тебе и трем друзьям твоим.
+      csya_old: Ѓзъ же ти2 дaмъ tвётъ и3 тріе1мъ другHмъ твои6мъ.
+      sovr_rbo: "Я тебе на это отвечу, тебе и твоим друзьям:"
+      latin: Itaque ego respondebo sermonibus tuis, et amicis tuis tecum.
+      ukr: Я тобі відповім, а з тобою і ближнім твоїм.
+      nkjv: '"I will answer you, And your companions with you.'
+      desnitsky: "Я тебе на это отвечу, тебе и твоим друзьям:"
+      mt: ‫   אֲנִי אֲשִׁיבְךָ מִלִּין וְאֶת־רֵעֶיךָ עִמָּךְ׃ ‬
+      romana: "Iata ce-ti voi raspunde si tie si prietenilor tai:"
+      francais: C'est à toi que je vais répondre, Et à tes amis en même temps.
+      italian: Risponderò a te con discorsi e ai tuoi amici insieme con te.
+      old_georgian: მე მოგიგო შენ სიტყუაჲ და სამთა მაგათ მეგობართა შენთა.
+      portuguese: Eu te darei respostas, a ti e aos teus amigos contigo.
+      polish: Parę słów ci odpowiem i twym przyjaciołom wraz z tobą.
+      turkish: "«Ben yanıtlayayım seni\rVe arkadaşlarını."
+      nrt: Я отвечу тебе и твоим друзьям.
+      Macarius: Я дам ответ тебе, и с тобою друзьям твоим.
+      serbian: Ја ћу одговорити теби и друговима твојим с тобом.
+      bulgarian: "Аз ще отговоря на тебе и на твоите приятели:"
+      deutsch: Ich will dir antworten ein Wort und deinen Freunden mit dir.
+      ukr2: то я дам відповідь тобі | і друзям твоїм з тобою.
+      ukr3: "Я відкажу й самому тобі й твоїм друзям з тобою:"
+      bel_syomukha: "Я адкажу табе і тваім сябрам з табою:"
+      lev-khv: "Я отвечу тебе речами и друзьям твоим с тобою:"
+      czech: Odpovim ti nekolika slovy, i tvym pratelum, kteri jsou s tebou.
+      spanish: Voy a responderte, y a tus amigos contigo.
+      greek-lxx: ἐγὼ σοὶ δώσω ἀπόκρισιν καὶ τοῖς τρισὶν φίλοις σου
+      st_text: "Я отвечу тебе и твоим друзьям с тобою:"
+  - id: 19585
+    number: 5
+    bookId: 21
+    text: взгляни на небо и смотри; воззри на облака, они выше тебя.
+    chapter: 35
+    chapterId: 511
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Воззри на небо и виждь: смотри же на облаки, коль высоки суть от тебе."
+      averincev: Взгляни на небо и рассмотри его; воззри на облака - они выше тебя.
+      ungerov: Воззри на небо и увидишь, посмотри на облака, как высоко они от тебя!
+      csya_old: "Воззри2 на не1бо и3 ви1ждь: смотри1 же на њ1блаки, ко1ль высHки сyть
+        t тебє2."
+      sovr_rbo: посмотри на небо — и увидишь, взгляни, как высоки над тобой облака!
+      latin: "Suspice caelum, et intuere: et contemplare aethera quod altior te sit."
+      ukr: Подивися на небо й побач, і на хмари споглянь, вони вищі за тебе.
+      nkjv: Look to the heavens and see; And behold the clouds- They are higher than
+        you.
+      desnitsky: Посмотри на небо – и увидишь, взгляни, как высоки над тобой облака!
+      mt: ‫   הַבֵּט שָׁמַיִם וּרְאֵה וְשׁוּר שְׁחָקִים גָּבְהוּ מִמֶּךָּ׃ ‬
+      romana: Priveste cerurile si indreapta intr-acolo ochii; uita-te la nori, cat
+        sunt ei de sus, fata de tine!
+      francais: Considère les cieux, et regarde! Vois les nuées, comme elles sont
+        audessus de toi!
+      italian: "Contempla il cielo e osserva, considera le nubi: sono più alte di te."
+      old_georgian: აღიხილენ ზეცად და იხილენ და განიცადენ ღრუბელნი, რავდენ მაღალ არიან
+        შენგან.
+      portuguese: Atenta para os céus, e vê; e contempla o firmamento que é mais alto
+        do que tu.
+      polish: Spojrzyj na niebo! Popatrz! Oglądaj obłoki wysoko!
+      turkish: "Göklere bak da gör,\rÜzerinde yükselen bulutlara göz gezdir."
+      nrt: Взгляни на небо и посмотри; рассмотри облака – они выше, чем ты.
+      Macarius: Взгляни на небо, и смотри, и воззри на облака, они выше тебя.
+      serbian: Погледај небо, и види; погледај облаке како су виши од тебе.
+      bulgarian: погледни на небето и виж; взри се в облаците, те са по-високо от тебе.
+      deutsch: Schaue gen Himmel und siehe; und schau an die Wolken, daß sie dir zu
+        hoch sind.
+      ukr2: Глянь лиш на небо й подивися! | Зирни на хмари, вони вищі від тебе!
+      ukr3: Глянь лиш на небо й побач; глянь на хмари, що над тобою.
+      bel_syomukha: зірні на неба і глядзі; падзівіся на воблакі, яны вышэй за цябе.
+      lev-khv: "Взгляни на небо и смотри; воззри на облак&#225;: они высоки для тебя."
+      czech: Pohled na nebe a viz, popatr na mraky vysoko nad sebou.
+      spanish: Contempla el cielo y mira; considera las nubes; son más altas que tú.
+      greek-lxx: ἀνάβλεψον εἰς τὸν οὐρανὸν καὶ ἰδέ κατάμαθε δὲ νέφη ὡς ὑψηλὰ ἀπὸ σοῦ
+      st_text: взгляни на небо и смотри; воззри на облака, они выше тебя.
+  - id: 19586
+    number: 6
+    bookId: 21
+    text: Если ты грешишь, что делаешь ты Ему? и если преступления твои умножаются,
+      что причиняешь ты Ему?
+    chapter: 35
+    chapterId: 511
+    parallels:
+      - verseId: 16549
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 7
+        short: Иер:7:19
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Аще согрешил еси, что сотвориши? аще же и много беззаконновал еси, что
+        можеши сотворити?
+      averincev: Если грешишь, что делаешь ты Ему, и если множишь вину, что причиняешь
+        Ему?
+      ungerov: Если ты согрешил, что причинишь (Ему)? если ты и много совершил
+        беззаконий, что можешь сделать (Ему)?
+      csya_old: Ѓще согрэши1лъ є3си2, что2 сотвори1ши; ѓще же и3 мно1гw
+        беззако1нновалъ є3си2, что2 мо1жеши сотвори1ти;
+      sovr_rbo: Если ты согрешил — что ты сделал Ему? Множа преступления — что Ему
+        причинишь?
+      latin: Si peccaveris, quid ei nocebis? et si multiplicatae fuerint iniquitates
+        tuae, quid facies contra eum?
+      ukr: Як ти будеш грішити, що зробиш Йому? А стануть численні провини твої, що ти
+        вчиниш Йому?
+      nkjv: If you sin, what do you accomplish against Him? Or, if your transgressions
+        are multiplied, what do you do to Him?
+      desnitsky: Если ты согрешил – что ты сделал Ему? Множа преступления – что Ему
+        причинишь?
+      mt: ‫   אִם־חָטָאתָ מַה־תִּפְעָל־בּוֹ וְרַבּוּ פְשָׁעֶיךָ מַה־תַּעֲשֶׂה־לּוֹ׃ ‬
+      romana: Daca pacatuiesti, ce rau ii faci lui Dumnezeu si daca pacatele tale sunt
+        numeroase, ce-I strica Lui?
+      francais: Si tu pèches, quel tort lui causes-tu? Et quand tes péchés se
+        multiplient, que lui fais-tu?
+      italian: Se pecchi, che gli fai? Se moltiplichi i tuoi delitti, che danno gli
+        arrechi?
+      old_georgian: უკუეთუ სცოდე, აწ რაჲ ჰყო? ანუ თუ ფრიად უსჯულოებაჲ გიქმნიეს, რაჲ
+        ჴელ-გეწიფების ყოფად?
+      portuguese: Se pecares, que efetuarás contra ele? Se as tuas transgressões se
+        multiplicarem, que lhe farás com isso?
+      polish: Gdy zgrzeszysz, co ty Mu zrobisz? Czy zaszkodzisz Mu mnóstwem grzechów?
+      turkish: "Günah işlersen, Tanrı'ya ne zararı olur?\rİsyanların çoksa ne olur
+        O'na?"
+      nrt: Если ты согрешишь, чем Его заденешь, если множишь проступки, что причиняешь
+        Ему?
+      Macarius: Если грешишь, что можешь сделать Ему? и как бы много ни было
+        преступлений твоих, что Ему учинишь?
+      serbian: Ако гријешиш, шта ћеш му учинити? Или ако се умноже безакоња твоја, шта
+        ћеш му наудити?
+      bulgarian: Ако ти грешиш, какво правиш Нему? И ако престъпленията ти се
+        умножават, какво причиняваш Нему?
+      deutsch: Sündigst du, was kannst du ihm Schaden? Und ob deiner Missetaten viel
+        ist, was kannst du ihm tun?
+      ukr2: Коли грішиш, то що йому заподієш? | Коли провин твоїх багато, що йому
+        скоїш?
+      ukr3: Як ти грішиш, що за шкоду йому причиняєш? і хоч би ти проступки твої
+        незнати як збільшив, то що вдїєш ти йому?
+      bel_syomukha: Калі ты грэшыш, што робіш ты Яму? і калі злачынствы твае
+        памнажаюцца, што прычыняеш ты Яму?
+      lev-khv: Если ты грешишь, чтó причинишь Ему? и если много преступлений твоих,
+        чтó сделаешь Ему?
+      czech: Jestlize jsi zhresil, ceho jsi dosahl proti nemu? Bude-li tvych
+        prestoupeni sebevic, co mu tim udelas?
+      spanish: Si pecas tú, ¿qué le haces? Si se multiplican tus pecados, ¿qué (mal)
+        le causas?
+      greek-lxx: εἰ ἥμαρτες τί πράξεις εἰ δὲ καὶ πολλὰ ἠνόμησας τί δύνασαι ποιῆσαι
+      st_text: Если ты грешишь, что делаешь ты Ему? и если преступления твои
+        умножаются, что причиняешь ты Ему?
+  - id: 19587
+    number: 7
+    bookId: 21
+    text: Если ты праведен, что даешь Ему? или что получает Он от руки твоей?
+    chapter: 35
+    chapterId: 511
+    parallels:
+      - verseId: 3274
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 29
+        short: 1 Пар:29:14
+      - verseId: 19226
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 22
+        short: Иов:22:3
+      - verseId: 24160
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 17
+        short: Лк:17:10
+      - verseId: 32879
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 11
+        short: Рим:11:35
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Понеже убо праведен еси, что даси ему? или что из руки твоея возмет?
+      averincev: Если праведен ты, что дашь Ему, что получит Он из твоих рук?
+      ungerov: Ибо если ты праведен, что дашь Ему? или что возьмет Он из руки твоей?
+      csya_old: Поне1же ќбw прaведенъ є3си2, что2 дaси є3мY; и3ли2 что2 и3з8 руки2
+        твоеS во1зметъ;
+      sovr_rbo: Если праведен ты — что Ему дашь, что Он из руки твоей примет?
+      latin: Porro si juste egeris, quid donabis ei? aut quid de manu tua accipiet?
+      ukr: Коли праведним станеш, що даси ти Йому? Або що Він візьме з твоєї руки?
+      nkjv: If you are righteous, what do you give Him? Or what does He receive from
+        your hand?
+      desnitsky: Если праведен ты – что Ему дашь что Он из руки твоей примет?
+      mt: ‫   אִם־צָדַקְתָּ מַה־תִּתֶּן־לוֹ אוֹ מַה־מִיָּדְךָ יִקָּח׃ ‬
+      romana: Daca esti drept, ce dar Ii faci sau ce primeste El din mana ta?
+      francais: Si tu es juste, que lui donnes-tu? Que reçoit-il de ta main?
+      italian: Se tu sei giusto, che cosa gli dai o che cosa riceve dalla tua mano?
+      old_georgian: ღაღათუ მართალ ხარ, რაჲმე მისცე მას? ანუ რამე მიიღოს ჴელთაგან შენთა?
+      portuguese: Se fores justo, que lhe darás, ou que receberá ele da tua mão?
+      polish: Czy dajesz Mu co, gdyś jest prawy? Czy otrzyma coś z twojej ręki?
+      turkish: Doğruysan, O'na verdiğin nedir, Ya da ne alır O senin elinden?
+      nrt: Если праведен ты, что Ему даешь, что получит Он из твоей руки?
+      Macarius: Если ты праведен, что можешь дать ему? Или что Он получит из руки твоей?
+      serbian: Ако си праведан, шта ћеш му дати? Или шта ће примити из руке твоје?
+      bulgarian: Ако си праведен, какво Му даваш? Или какво Той получава от ръката ти?
+      deutsch: Und ob du gerecht seist, was kannst du ihm geben, oder was wird er von
+        deinen Händen nehmen?
+      ukr2: Коли ти праведний, то що даєш йому? | Або що він бере з руки у тебе?
+      ukr3: Коли ти праведен, що ж даєш йому? або що він з руки в тебе візьме?
+      bel_syomukha: Калі ты справядлівы, што робіш Яму? альбо што атрымлівае Ён з рукі тваёй?
+      lev-khv: Если ты праведен, чтó дашь Ему, или чтó Он из руки&#769; твоей может
+        взять?
+      czech: Jestlize jsi jednal spravedlive, co jsi mu dal, co prijal z tve ruky?
+      spanish: Y con ser justo, ¿qué le das o qué recibe Él de tu mano?
+      greek-lxx: ἐπεὶ δὲ οὖν δίκαιος εἶ τί δώσεις αὐτῷ ἢ τί ἐκ χειρός σου λήμψεται
+      st_text: Если ты праведен, что даешь Ему? или что получает Он от руки твоей?
+  - id: 19588
+    number: 8
+    bookId: 21
+    text: Нечестие твое относится к человеку, как ты, и праведность твоя к сыну
+      человеческому.
+    chapter: 35
+    chapterId: 511
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Мужеви подобному тебе нечестие твое, и сыну человеческому правда твоя.
+      averincev: Тебе подобных заденет твой грех, и для сынов человеческих - твоя правота!
+      ungerov: Нечестие твое (относится) к мужу, подобному тебе, и правда твоя — к
+        сыну человеческому.
+      csya_old: Мyжеви подо1бному тебЁ нече1стіе твое2, и3 сы1ну человёческому прaвда
+        твоS.
+      sovr_rbo: Твое нечестие коснется лишь людей, твоя праведность — сынов человеческих.
+      latin: "Homini qui similis tui est, nocebit impietas tua: et filium hominis
+        adjuvabit justitia tua."
+      ukr: Для людини, як ти, беззаконня твоє, і для людського сина твоя
+        справедливість!...
+      nkjv: Your wickedness affects a man such as you, And your righteousness a son of
+        man.
+      desnitsky: Твое нечестие коснется лишь людей, твоя праведность – сынов человеческих.
+      mt: ‫   לְאִישׁ־כָּמוֹךָ רִשְׁעֶךָ וּלְבֶן־אָדָם צִדְקָתֶךָ׃ ‬
+      romana: Rautatea ta poate sa strice unui om ca si tine, dreptatea ta sa
+        foloseasca celui ce este ca si tine nascut din om.
+      francais: Ta méchanceté ne peut nuire qu'à ton semblable, Ta justice n'est utile
+        qu'au fils de l'homme.
+      italian: Su un uomo come te ricade la tua malizia, su un figlio d'uomo la tua
+        giustizia!
+      old_georgian: კაცისა მსგავსისა შენისაებრ უსჯულოებაჲ შენი და ძისაგან კაცისა
+        სიმართლე შენი.
+      portuguese: A tua impiedade poderia fazer mal a outro tal como tu; e a tua
+        justiça poderia aproveitar a um filho do homem.
+      polish: Podobnych do ciebie złość twa dosięga a twoja prawość ludziom pomaga.
+      turkish: Kötülüğün ancak senin gibi birine zarar verir, Doğruluğun ise yalnız
+        insanoğlu içindir.
+      nrt: Твой грех коснется лишь тебе подобных, твоя праведность – сынов
+        человеческих.
+      Macarius: Человеку, каков ты, порок твой, и сыну человеческому праведность твоя.
+      serbian: Човјеку какав си може наудити твоја злоћа, и сину човјечијему помоћи
+        твоја правда.
+      bulgarian: Твоето нечестие се отнася към човек като тебе, и твоята праведност
+        към човешки син.
+      deutsch: Einem Menschen, wie du bist, mag wohl etwas tun deine Bosheit, und
+        einem Menschenkind deine Gerechtigkeit.
+      ukr2: Твоя бо злоба шкідлива лиш людині, як ти, | а й справедливість твоя для
+        людського лиш сина корисна.
+      ukr3: Безбожність твоя причинить шкоди тільки чоловікові, та й праведність твоя
+        буде хосенна синові чоловічому.
+      bel_syomukha: Бязбожнасьць твая ў чалавеку, як ты, і справядлівасьць твая ў сыне
+        чалавечым.
+      lev-khv: Для человека, как ты, порок твой, и для сына человеческаго добродетель
+        твоя.
+      czech: Jen cloveka jako ty zasahne tva svevole, lidskeho syna tva spravedlnost.
+      spanish: A un hombre como tú (afecta) tu maldad, y a un hijo de hombre tu
+        justicia.
+      greek-lxx: ἀνδρὶ τῷ ὁμοίῳ σου ἡ ἀσέβειά σου καὶ υἱῷ ἀνθρώπου ἡ δικαιοσύνη σου
+      st_text: Нечестие твое относится к человеку, как ты, и праведность твоя к сыну
+        человеческому.
+  - id: 19589
+    number: 9
+    bookId: 21
+    text: От множества притеснителей стонут притесняемые, и от руки сильных вопиют.
+    chapter: 35
+    chapterId: 511
+    parallels:
+      - verseId: 19282
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 24
+        short: Иов:24:12
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "От множества оклеветаемии воззовут, возопиют от мышцы многих:"
+      averincev: От множества насильников стонут они и от руки властных вопиют;
+      ungerov: Переносящие клевету от многих воззовут, от руки многих возопиют.
+      csya_old: "T мно1жества њклеветaеміи воззовyтъ, возопію1тъ t мы1шцы мно1гихъ:"
+      sovr_rbo: Люди стонут под тяжестью обид, из-под руки угнетателя взывают,
+      latin: Propter multitudinem calumniatorum clamabunt, et ejulabunt propter vim
+        brachii tyrannorum.
+      ukr: Від безлічі гноблення стогнуть вони, кричать від твердого плеча багатьох...
+      nkjv: '"Because of the multitude of oppressions they cry out; They cry out for
+        help because of the arm of the mighty.'
+      desnitsky: Люди стонут под тяжестью обид, из-под руки угнетателя взывают,
+      mt: ‫   מֵרֹב עֲשׁוּקִים יַזְעִיקוּ יְשַׁוְּעוּ מִזְּרוֹעַ רַבִּים׃ ‬
+      romana: Ei striga atunci cand impilarea a trecut orice margini, ei racnesc in
+        mainile celor puternici.
+      francais: On crie contre la multitude des oppresseurs, On se plaint de la
+        violence d'un grand nombre;
+      italian: Si grida per la gravità dell'oppressione, si invoca aiuto sotto il
+        braccio dei potenti,
+      old_georgian: სიმრავლისაგან ცილისწამებისა ღაღადებდენ და ვალალებდენ მკლავისა
+        მაგრისაგან მრავალთასა.
+      portuguese: "Por causa da multidão das opressões os homens clamam; clamam por
+        socorro por causa do braço dos\rpoderosos."
+      polish: Z ogromu ucisku się płacze, pod wroga przemocą się krzyczy,
+      turkish: «İnsanlar ağır baskı altında feryat ediyor, Güçlülere karşı yardım
+        istiyor.
+      nrt: Люди стонут под гнетом притеснения; молят об избавлении от руки мучителей.
+      Macarius: Угнетаемые стонут от преобладания, вопиют от мышцы великих.
+      serbian: Вапију од великога насиља којима се чини, и вичу на руку силнијех;
+      bulgarian: От многото притеснители пъшкат притесняваните и от ръцете на силните
+        пищят;
+      deutsch: Man schreit, daß viel Gewalt geschieht, und ruft über den Arm der Großen;
+      ukr2: Від превеликого утиску кричать люди | і лементують від насильства можних.
+      ukr3: Під силою угнїтаючих стогнуть угнетені й нарікають під рукою можних;
+      bel_syomukha: Ад мноства прыгнятальнікаў стогнуць прыгнечаныя і ад рукі моцных
+        лямантуюць;
+      lev-khv: От множества угнетений <i>люди</i> стонут, вопиют от мышцы вельмож;
+      czech: Lide krici pro mnozstvi utisku, volaji o pomoc pro tvrdou pazi mocnych,
+      spanish: Gritan por las muchas opresiones, claman (oprimidos) por el brazo de
+        los grandes;
+      greek-lxx: ἀπὸ πλήθους συκοφαντούμενοι κεκράξονται βοήσονται ἀπὸ βραχίονος πολλῶν
+      st_text: От множества притеснителей стонут притесняемые, и от руки сильных вопиют.
+  - id: 19590
+    number: 10
+    bookId: 21
+    text: "Но никто не говорит: где Бог, Творец мой, Который дает песни в ночи,"
+    chapter: 35
+    chapterId: 511
+    parallels:
+      - verseId: 31710
+        bookId: 22
+        bookCode: psaltir
+        chapter: 41
+        short: Пс:41:9
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и не рече: где есть Бог сотворивый мя, устрояяй стражбы нощныя,"
+      averincev: 'но никто не спросит: "Где Бог, мой Творец, дарующий нам песни в ночи,'
+      ungerov: 'Но (никто) не скажет: "где Бог, сотворивший меня, устроивший стражи
+        ночныя,'
+      csya_old: "и3 не рече2: гдЁ є4сть бг7ъ сотвори1вый мS, ўстроszй стражбы6 нwщны1z,"
+      sovr_rbo: "но никто не скажет: „Где же Бог, мой Творец, Тот, кто в ночи нам сил
+        придавал?"
+      latin: "Et non dixit: Ubi est Deus qui fecit me, qui dedit carmina in nocte,"
+      ukr: "Та не скаже ніхто: Де ж той Бог, що мене Він створив, що вночі дає співи,"
+      nkjv: "But no one says, 'Where is God my Maker, Who gives songs in the night, "
+      desnitsky: "но никто не скажет: «Где же Бог, мой Творец, Тот, Кто в ночи нам сил
+        придавал,"
+      mt: ‫   וְלֹא־אָמַר אַיֵּה אֱלוֹהַּ עֹשָׂי נֹתֵן זְמִרוֹת בַּלָּיְלָה׃ ‬
+      romana: "Dar ei nu intreaba: Unde este Dumnezeu Cel ce ne-a facut, El Care
+        daruieste noptii cantari de veselie?"
+      francais: "Mais nul ne dit: Où est Dieu, mon créateur, Qui inspire des chants
+        d'allégresse pendant la nuit,"
+      italian: "ma non si dice: \"Dov'è quel Dio che mi ha creato, che concede nella
+        notte canti di gioia;"
+      old_georgian: "და არა თქუან: სადა არს ღმერთი, რომელმან შემქმნა მე, რომელმან
+        დააწესნა საცონი ღამისანი,"
+      portuguese: "Mas ninguém diz: Onde está Deus meu Criador, que inspira canções
+        durante a noite;"
+      polish: "a nikt nie mówi: ”Gdzie Bóg, mój Stwórca, co nocy użycza pieśni wesela,"
+      turkish: Ama kimse, `Nerede Yaratıcım Tanrı?' demiyor; O Tanrı ki, gece bize
+        ezgiler verir,
+      nrt: "Но никто не скажет: «Где Бог, мой Творец, Который дарует песни в ночи,"
+      Macarius: "А ни один не говорит: где Бог, Создатель мой, дающий песни в ночи,"
+      serbian: "А ниједан не говори: Гдје је Бог, Створитељ мој, који даје пјесму ноћу;"
+      bulgarian: "но никой не казва: де е Бог, моят Творец, Който дава песни нощем,"
+      deutsch: 'aber man fragt nicht: "Wo ist Gott, mein Schöpfer, der Lobgesänge gibt
+        in der Nacht,'
+      ukr2: "Але ніхто не каже: „Де Бог, наш Сотворитель, | що вночі дає пісні?"
+      ukr3: "Та нїхто не говорить: Де Бог, мій сотворитель, що його й в ночі
+        осьпівують?"
+      bel_syomukha: "але ніхто ня кажа: дзе Бог, творца мой, Які дае песьні ўначы,"
+      lev-khv: "Но никто не говорит: где Бог, Создатель мой, дающий песни ночью,"
+      czech: "a nikdo se nezepta: ‚Kde je Buh, muj Ucinitel, ktery dava cloveku i v
+        noci prozpevovat,"
+      spanish: "pero nadie dice: << ¿Dónde está el Dios que nos hizo, que da en la
+        noche cantares de júbilo,"
+      greek-lxx: καὶ οὐκ εἶπεν ποῦ ἐστιν ὁ Θεὸς ὁ ποιήσας με ὁ κατατάσσων φυλακὰς
+        νυκτερινάς
+      st_text: "Но никто не говорит: где Бог, Творец мой, Который дает песни в ночи,"
+  - id: 19591
+    number: 11
+    bookId: 21
+    text: Который научает нас более, нежели скотов земных, и вразумляет нас более,
+      нежели птиц небесных?
+    chapter: 35
+    chapterId: 511
+    parallels:
+      - verseId: 6681
+        bookId: 58
+        bookCode: 2oe-poslanie-ap-petra
+        chapter: 2
+        short: 2 Пет:2:12
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: отделяяй мя от четвероногих земных и от небесных птиц?
+      averincev: разумом отличивший нас от зверей и даром мудрости - от небесных птиц?"
+      ungerov: Отличивший меня от четвероногих земных и от небесных птиц"?
+      csya_old: tдэлszй мS t четвероно1гихъ земны1хъ и3 t небе1сныхъ пти1цъ;
+      sovr_rbo: Тот, Кто отличил нас разумом от земных зверей и даром мудрости — от
+        небесных птиц?”
+      latin: qui docet nos super jumenta terrae, et super volucres caeli erudit nos?
+      ukr: що нас над худобу земну Він навчає, і над птаство небесне вчиняє нас
+        мудрими?
+      nkjv: "Who teaches us more than the beasts of the earth, And makes us wiser than
+        the birds of heaven?' "
+      desnitsky: Кто отличил нас разумом от земных зверей и даром мудрости – от
+        небесных птиц?»
+      mt: ‫   מַלְּפֵנוּ מִבַּהֲמוֹת אָרֶץ וּמֵעוֹף הַשָּׁמַיִם יְחַכְּמֵנוּ׃ ‬
+      romana: El Care ne da mai multa intelepciune decat dobitoacelor pamantului si
+        mai multa pricepere decat pasarilor cerului?
+      francais: Qui nous instruit plus que les bêtes de la terre, Et nous donne
+        l'intelligence plus qu'aux oiseaux du ciel?
+      italian: che ci rende più istruiti delle bestie selvatiche, che ci fa più saggi
+        degli uccelli del cielo?".
+      old_georgian: რომელმან გამომარჩია მე ოთხფერჴთაგან ქუეყანისათა და მფრინველთაგან ცისათა.
+      portuguese: que nos ensina mais do que aos animais da terra, e nos faz mais
+        sábios do que as aves do céu?
+      polish: nas uczy więcej niż [uczą] zwierzęta, mędrszymi jesteśmy od ptaków
+        powietrznych”.
+      turkish: Yeryüzündeki hayvanlardan çok bize öğretir Ve bizi gökteki kuşlardan
+        daha bilge kılar.
+      nrt: Который разуму нас учит через зверей и мудрости – через небесных птиц?»
+      Macarius: Который научил нас более, нежели четвероногих земли, и более умудрил
+        нас, нежели птиц небесных?
+      serbian: Који чини те смо разумнији од звијерја земаљскога, и мудрији од птица
+        небеских.
+      bulgarian: Който ни научава повече от земните добитъци и ни вразумява повече от
+        небесните птици?
+      deutsch: der uns klüger macht denn das Vieh auf Erden und weiser denn die Vögel
+        unter dem Himmel?"
+      ukr2: Він більш нас, ніж звірів земних, навчає, | і більш, ніж птаство
+        піднебесне, нас врозумлює.
+      ukr3: Що більш, як зьвіррє земне, нас навчає, і більш, як птаство піднебесне,
+        врозумляє?
+      bel_syomukha: Які вучыць нас больш, чым жывёл зямных, і настаўляе на розум нас
+        болей, чым птушак нябесных?
+      lev-khv: Научающий нас чрез животных земных и чрез птиц небесныхь вразумляющий
+        нас?
+      czech: vyucuje nas a nikoli zvirata zemska a cini nas moudrejsi nad nebeske
+        ptactvo?'
+      spanish: que nos instruye más que a las bestias de la tierra y nos hace más
+        sabios que las aves del cielo?>>
+      greek-lxx: ὁ διορίζων με ἀπὸ τετραπόδων γῆς ἀπὸ δὲ πετεινῶν οὐρανοῦ
+      st_text: Который научает нас более, нежели скотов земных, и вразумляет нас
+        более, нежели птиц небесных?
+  - id: 19592
+    number: 12
+    bookId: 21
+    text: Там они вопиют, и Он не отвечает им, по причине гордости злых людей.
+    chapter: 35
+    chapterId: 511
+    parallels:
+      - verseId: 19324
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 27
+        short: Иов:27:9
+      - verseId: 29553
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 15
+        short: Притч:15:29
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: тамо воззовут, и не имаши услышати, и от досады злых.
+      averincev: Они вопиют, но не ответит Он по причине злой гордыни их.
+      ungerov: Там они возопиют, по причине гордости злых (людей), а Ты (будто) и не
+        услышишь их.
+      csya_old: тaмw воззовyтъ, и3 не и4маши ўслы1шати, и3 t досaды ѕлы1хъ.
+      sovr_rbo: А если и возопят так — Он не ответит из-за гордыни нечестивцев.
+      latin: Ibi clamabunt, et non exaudiet propter superbiam malorum.
+      ukr: Вони там кричать, але через бундючність злочинців Він відповіді не дає.
+      nkjv: There they cry out, but He does not answer, Because of the pride of evil
+        men.
+      desnitsky: А если и возопят так – Он не ответит из-за гордыни нечестивцев.
+      mt: ‫   שָׁם יִצְעֲקוּ וְלֹא יַעֲנֶה מִפְּנֵי גְּאוֹן רָעִים׃ ‬
+      romana: Sa tot strige ei atunci, caci Dumnezeu nu raspunde, din pricina trufasei
+        impilari a celor rai.
+      francais: On a beau crier alors, Dieu ne répond pas, A cause de l'orgueil des
+        méchants.
+      italian: Si grida, allora, ma egli non risponde di fronte alla superbia dei
+        malvagi.
+      old_georgian: მუნ ღაღადებდენ და არა ისმინოს მათი და გინებისაგან უკეთურთასა,
+      portuguese: Ali clamam, porém ele não responde, por causa da arrogância os maus.
+      polish: Wołania są bez odpowiedzi ze względu na pychę nieprawych.
+      turkish: Kötülerin gururu yüzünden insanlar feryat ediyor, Ama yanıtlayan yok.
+      nrt: Взывают они, но нет им ответа из-за гордости злых людей.
+      Macarius: Там они вопиют, а Он не отвечает, все от гордости злых;
+      serbian: Тамо вичу с охолости злијех људи, али не бивају услишени.
+      bulgarian: Там те пищят, и Той им не отговаря поради гордостта на лошите люде.
+      deutsch: Da schreien sie über den Hochmut der Bösen, und er wird sie nicht
+        erhören.
+      ukr2: Хоч і кричать там, він не відповідає | з-за гордині злочинців.
+      ukr3: Хоч і кричать, не відказує, задля гординї злих людей.
+      bel_syomukha: Там яны лямантуюць, і Ён не адказвае ім, з прычыны гонару ліхіх людзей.
+      lev-khv: Там они вопиют, а Он не отвечает, от высокомерия беззаконных.
+      czech: Potom jim ovsem neodpovida, kdyz krici pro pychu zlovolnych.
+      spanish: Entonces, aunque griten, El no responde, a causa del orgullo de los
+        malvados.
+      greek-lxx: ἐκεῖ κεκράξονται καὶ οὐ μὴ εἰσακούσῃ καὶ ἀπὸ ὕβρεως πονηρῶν
+      st_text: Там они вопиют, и Он не отвечает им, по причине гордости злых людей.
+  - id: 19593
+    number: 13
+    bookId: 21
+    text: Но неправда, что Бог не слышит и Вседержитель не взирает на это.
+    chapter: 35
+    chapterId: 511
+    parallels:
+      - verseId: 19970
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 1
+        short: Ис:1:15
+      - verseId: 18754
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 9
+        short: Ин:9:31
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Безместная бо видети не хощет Господь: сам бо вседержитель зритель есть
+        творящих беззаконная, и спасет мя."
+      averincev: Все вотще, их не услышит Бог, и Крепкий на них не кинет взор!
+      ungerov: Безпорядка видеть Господь не хочет, ибо Вседержитель Сам видит
+        совершающих беззаконие и спасет меня.
+      csya_old: "БезмBстнаz бо ви1дэти не хо1щетъ гDь: сaмъ бо вседержи1тель зри1тель
+        є4сть творsщихъ беззакHннаz, и3 спасе1тъ мS."
+      sovr_rbo: Бог не слушает болтовни, Всесильный ее не замечает.
+      latin: Non ergo frustra audiet Deus, et Omnipotens causas singulorum intuebitur.
+      ukr: Тільки марноти не слухає Бог, і Всемогутній не бачить її.
+      nkjv: Surely God will not listen to empty talk, Nor will the Almighty regard it.
+      desnitsky: Бог не слушает болтовни, Всесильный ее не замечает.
+      mt: ‫   אַךְ־שָׁוְא לֹא־יִשְׁמַע אֵל וְשַׁדַּי לֹא יְשׁוּרֶנָּה׃ ‬
+      romana: Zadarnica le este truda; Dumnezeu nu aude si Cel Atotputernic nu ia
+        aminte.
+      francais: C'est en vain que l'on crie, Dieu n'écoute pas, Le Tout Puissant n'y a
+        point égard.
+      italian: "Certo è falso dire: \"Dio non ascolta e l'Onnipotente non presta
+        attenzione\";"
+      old_georgian: რამეთუ უჯერო არს. ჰნევას ხილვად უფალსა, რამეთუ თავადი ყოვლისა
+        მპყრობელი მსტუარ არს მოქმედთა უსჯულოებისათა და მიჴსნნეს ჩუენ.
+      portuguese: Certo é que Deus não ouve o grito da vaidade, nem para ela atentará
+        o Todo-Poderoso.
+      polish: "Błędem jest przypuszczać, że Bóg nie słucha, że Wszechmogący nie
+        zwraca\ruwagi."
+      turkish: Gerçek şu ki, Tanrı boş feryadı dinlemez, Her Şeye Gücü Yeten bunu
+        önemsemez.
+      nrt: Да, Бог не внемлет пустой мольбе. Всемогущий ее не слышит.
+      Macarius: Так! пустого Бог не слушает, и Вседержитель не взирает на это.
+      serbian: Јер Бог не слуша таштине, и Свемогући не гледа на њу.
+      bulgarian: Ала не е истина, че Бог не чува, и Вседържителят не гледа това.
+      deutsch: Denn Gott wird das Eitle nicht erhören, und der Allmächtige wird es
+        nicht ansehen.
+      ukr2: До справжньої бо марноти Бог не прислухається, | Всесильний на те не
+        зважає.
+      ukr3: Але се неправда, будьто Бог не чує й Вседержитель не вглядає в те.
+      bel_syomukha: Але няпраўда, што Бог ня чуе і ‹сеўладны не глядзіць на гэта.
+      lev-khv: Но не правда, что не слышит Бог, и Вседержитель не взирает на это.
+      czech: Buh prece neda sluchu falsi, Vsemocny na to ani nepohledne,
+      spanish: "Es inútil ciertamente: Dios no oye, y el Todopoderoso no lo percibe."
+      greek-lxx: ἄτοπα γὰρ οὐ βούλεται ὁ Κύριος ἰδεῖν αὐτὸς γὰρ ὁ παντοκράτωρ ὁρατής ἐστιν
+      st_text: Но неправда, что Бог не слышит и Вседержитель не взирает на это.
+  - id: 19594
+    number: 14
+    bookId: 21
+    text: Хотя ты сказал, что ты не видишь Его, но суд пред Ним, и - жди его.
+    chapter: 35
+    chapterId: 511
+    parallels:
+      - verseId: 19262
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 23
+        short: Иов:23:9
+      - verseId: 14275
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 3
+        short: Еккл:3:17
+      - verseId: 14232
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 12
+        short: Еккл:12:14
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Судися же пред ним, аще можеши похвалити его, якоже есть и ныне.
+      averincev: Пусть ты сказал, что не видишь Его; суд у Него - так жди Его?
+      ungerov: Судись же пред Ним, если можешь похвалить Его, как и теперь (делаешь).
+      csya_old: Суди1сz же пред8 ни1мъ, ѓще мо1жеши похвали1ти є3го2, ћкоже є4сть и3
+        нн7э.
+      sovr_rbo: Как же ты говоришь, что Его не видишь, что на суд ты Его ожидаешь,
+      latin: "Etiam cum dixeris: Non considerat: judicare coram illo, et expecta eum."
+      ukr: "Що ж тоді, коли кажеш: Не бачив Його! Та є суд перед Ним, і чекай ти
+        його!"
+      nkjv: Although you say you do not see Him, Yet justice is before Him, and you
+        must wait for Him.
+      desnitsky: Как же ты говоришь, что Его не видишь, что на суд Ты его ожидаешь,
+      mt: ‫   אַף כִּי־תֹאמַר‪‬ לֹא תְשׁוּרֶנּוּ דִּין לְפָנָיו וּתְחוֹלֵל לוֹ׃ ‬
+      romana: Cu atat mai putin, cand tu zici ca nu stii de unde sa-L iei, ca tu esti
+        cu El in judecata si ca-L tot astepti sa vina.
+      francais: "Bien que tu dises que tu ne le vois pas, Ta cause est devant lui:
+        attends-le!"
+      italian: più ancora quando tu dici che non lo vedi, che la tua causa sta innanzi
+        a lui e tu in lui speri;
+      old_georgian: ესაჯეღა წინაშე მისსა, უკუეთუ ვითარ შეუძლო ქებად მისა, რავდენ-იგი არს.
+      portuguese: Quanto menos quando tu dizes que não o vês. A causa está perante
+        ele; por isso espera nele.
+      polish: "Choć mówisz: ”Nie zwraca uwagi”, u Niego sprawa, na Niego czekaj!"
+      turkish: O'nu görmediğini söylediğin zaman bile Davan O'nun önündedir, bekle;
+      nrt: Тем более Он не слышит если ты говоришь, что Его не видишь, что дело твое –
+        перед Ним, и что ты Его ожидаешь,
+      Macarius: Хотя же ты и сказал, что не видишь Его; суд пред лицем Его, только
+        пожди Его.
+      serbian: "А камоли кад кажеш: Не видиш то. Пред њим је суд; чекај га."
+      bulgarian: Макар и да казваш, че Го не видиш, но съдът е пред Него, и - очаквай го.
+      deutsch: Nun sprichst du gar, du wirst ihn nicht sehen. Aber es ist ein Gericht
+        vor ihm, harre sein nur!
+      ukr2: Тим менше, коли ото ти кажеш, | що ти його не сприймаєш! | Суд готовий
+        перед його обличчям, | він жде й на тебе!
+      ukr3: Хоч ти й сказав, що не бачиш його, та суд уже готовий у його, - жди його.
+      bel_syomukha: Хоць ты сказаў, што ты ня бачыш Яго, але суд прад Ім, - чакай яго.
+      lev-khv: Хотя ты говоришь, что не видишь Его; но суд есть у Него, и жди его.
+      czech: "zvlaste kdyz o nem prohlasujes: ‚Nediva se na to.' Tva pre je pred nim,
+        jen na neho cekej!"
+      spanish: Menos todavía cuando tú dices que no lo ves, que el proceso está
+        delante de Él y que tú esperas,
+      greek-lxx: τῶν συντελούντων τὰ ἄνομα καὶ σώσει με κρίθητι δὲ ἐναντίον αὐτοῦ εἰ
+        δύνασαι αἰνέσαι αὐτόν ὡς ἔστιν
+      st_text: Хотя ты сказал, что ты не видишь Его, но суд пред Ним, и - жди его.
+  - id: 19595
+    number: 15
+    bookId: 21
+    text: Но ныне, потому что гнев Его не посетил его и он не познал его во всей
+      строгости,
+    chapter: 35
+    chapterId: 511
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Яко несть посещаяй гневом своим, и не позна прегрешения коеголибо зело.
+      averincev: Но ныне гнева не являет Он и не строго примечает гордыню людей;
+      ungerov: Так как гнев Его не посетил (его), то он и не познал вполне какого либо
+        прегрешения,
+      csya_old: Ћкw нёсть посэщazй гнёвомъ свои1мъ, и3 не познA прегрэше1ніz
+        коегH-либо ѕэлw2.
+      sovr_rbo: и еще — что гнев Его медлит, что не слишком Он пороки замечает?!
+      latin: Nunc enim non infert furorem suum, nec ulciscitur scelus valde.
+      ukr: А тепер, коли гнів Його не покарав, і не дуже пізнав про глупоту,
+      nkjv: And now, because He has not punished in His anger, Nor taken much notice
+        of folly,
+      desnitsky: и еще – что гнев Его медлит, что не слишком Он пороки замечает?!
+      mt: ‫   וְעַתָּה כִּי־אַיִן פָּקַד אַפּוֹ וְלֹא־יָדַע בַּפַּשׁ מְאֹד׃ ‬
+      romana: Ba, inca atunci cand tu spui ca mania Lui nu pedepseste si ca El nu prea
+        stie limpede ce este aceea nelegiuire!
+      francais: Mais, parce que sa colère ne sévit point encore, Ce n'est pas à dire
+        qu'il ait peu souci du crime.
+      italian: così pure quando dici che la sua ira non punisce né si cura molto
+        dell'iniquità.
+      old_georgian: და აწ არა ვინ არს, რომელმანცა მოხედა რისხვასა მისსა, და არა ცნა
+        იგი ფრიად შეცოდებითა მით. და იობ ამაოდ აღაღო პირი მისი და უცნობელებით
+        სიტყუათა დაამძიმებს.
+      portuguese: Mas agora, porque a sua ira ainda não se exerce, nem grandemente
+        considera ele a arrogância,
+      polish: Teraz, gdy gniew Jego nie płonie, na grzech zda się nie zważać,
+      turkish: Madem bu öfkeyle şimdi cezalandırmadı, İsyana da pek aldırmaz diyorsun.
+      nrt: да еще, что гнев Его медлит, и на преступления Он совсем не обращает
+        внимания.
+      Macarius: "Но как ныне еще не гнев Его наказывает, и Он еще не судит надмения
+        всею строгостью:"
+      serbian: А сада чим те гњев походи, није ништа, нити је гледао на све што си
+        учинио.
+      bulgarian: Но сега, понеже гневът Му не го посети, и той го не опита във
+        всичката строгост,
+      deutsch: ob auch sein Zorn so bald nicht heimsucht und er sich's nicht annimmt,
+        daß so viel Laster da sind.
+      ukr2: От і тепер, коли гнів його не став карою, | і йому, мовляв, байдуже до
+        зухвальства, -
+      ukr3: Але тепер, тим що гнїв Божий не навідав його, й він іще не спізнав його по
+        всїй лютостї його,
+      bel_syomukha: А сёньня, таму што гнеў Ягоны не наведаў яго і ён не спазнаў яго
+        ва ўсёй строгасьці,
+      lev-khv: Но поелику теперь Он не показывает гнева Своего и не обращает внимания
+        на сильное высокомерие;
+      czech: Jestlize tedy nestiha hnevem a nestara se prilis o zpupnost,
+      spanish: y ahora (al afirmar) que no es su ira la que castiga y que no conoce
+        bien la transgresión.
+      greek-lxx: καὶ νῦν ὅτι οὐκ ἔστιν ἐπισκεπτόμενος ὀργὴν αὐτοῦ καὶ οὐκ ἔγνω
+        παραπτώματι σφόδρα
+      st_text: Но ныне, потому что гнев Его не посетил его и он не познал его во всей
+        строгости,
+  - id: 19596
+    number: 16
+    bookId: 21
+    text: Иов и открыл легкомысленно уста свои и безрассудно расточает слова.
+    chapter: 35
+    chapterId: 511
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Eов же всуе отверзает уста своя, неведением словеса отягощает.
+      averincev: 'вот и расширил Иов свои уста и без разумения множит речь!"  '
+      ungerov: Посему Иов напрасно открывает уста свои, по неведению умножает речи.
+      csya_old: І4wвъ же всyе tверзaетъ ўстA сво‰, невёдэніемъ словесA њтzгощaетъ.
+      sovr_rbo: Нет, пустословит Иов, множит речи, ничего не смысля».
+      latin: Ergo Job frustra aperit os suum, et absque scientia verba multiplicat.
+      ukr: то намарно Йов уста свої відкриває та множить слова без знання...
+      nkjv: Therefore Job opens his mouth in vain; He multiplies words without
+        knowledge."
+      desnitsky: Нет, пустословит Иов, множит речи, ничего не смысля.
+      mt: ‫   וְאִיּוֹב הֶבֶל יִפְצֶה־פִּיהוּ בִּבְלִי־דַעַת מִלִּין יַכְבִּר׃ פ ‬
+      romana: Da, Iov isi deschide gura zadarnic si, nestiind ce spune, inmulteste
+        cuvintele fara rost.
+      francais: Ainsi Job ouvre vainement la bouche, Il multiplie les paroles sans
+        intelligence.
+      italian: Giobbe dunque apre invano la sua bocca e senza cognizione moltiplica le
+        chiacchiere.
+      portuguese: por isso abre Jó em vão a sua boca, e sem conhecimento multiplica
+        palavras.
+      polish: Hiob usta otworzył niemądrze i mnoży słowa bezmyślnie”.
+      turkish: Bu yüzden Eyüp ağzını boş yere açıyor, Bilgisizce konuştukça konuşuyor.»
+      nrt: Для пустой болтовни Иов открыл уста и слова без знания множит.
+      Macarius: То Иов и разверз уста свои на пустословие, во множестве сыплет
+        безрассудные речи.
+      serbian: Зато Јов напразно отвора уста своја, и безумно умножава ријечи.
+      bulgarian: затова Иов отвори лекомислено устата си и безразсъдно пръска думи.
+      deutsch: Darum hat Hiob seinen Mund umsonst aufgesperrt und gibt stolzes Gerede
+        vor mit Unverstand.
+      ukr2: то всетаки Іов даремно уста розтуляє | і в невіданні слова множить.»
+      ukr3: Відчинив Йов легкодушно уста свої й розкидає нерозважно словами.
+      bel_syomukha: Ёў і адкрыў лёгкадумна вусны свае і безразважна раскідае словы.
+      lev-khv: То Иов попусту отверз уста свои и безразсудно умножает речи.
+      czech: Job si otevira usta do vetru a neuvazene vede zbytecne reci."
+      spanish: Job, pues, abre vanamente su boca y multiplica insensatamente las
+        palabras>>.
+      greek-lxx: καὶ Ιωβ ματαίως ἀνοίγει τὸ στόμα αὐτοῦ ἐν ἀγνωσίᾳ ῥήματα βαρύνει
+      st_text: Иов и открыл легкомысленно уста свои и безрассудно расточает слова.

@@ -1,0 +1,2070 @@
+id: 7
+number: 7
+bookId: 1
+verseCount: 24
+title: Глава 7
+verses:
+  - id: 11117
+    number: 1
+    bookId: 1
+    text: "И сказал Господь [Бог] Ною: войди ты и все семейство твое в ковчег, ибо
+      тебя увидел Я праведным предо Мною в роде сем;"
+    chapter: 7
+    chapterId: 7
+    parallels:
+      - verseId: 28919
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 10
+        short: Прем:10:4
+      - verseId: 34485
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 44
+        short: Сир:44:16
+      - verseId: 3658
+        bookId: 57
+        bookCode: 1oe-poslanie-ap-petra
+        chapter: 3
+        short: 1 Пет:3:20
+    translates:
+      kassian: ""
+      podstr: "И сказал Господь Бог к Ною: Войди ты и весь дом твой в ковчег, потому
+        что тебя Я увидел праведного перед Мной в поколении этом."
+      csya: "И рече Господь Бог к ною: вниди ты и весь дом твой в ковчег, яко тя видех
+        праведна предо мною в роде сем:"
+      averincev: ""
+      ungerov: "И сказал Господь Бог Ною: войди ты и весь дом твой в ковчег, ибо тебя
+        Я увидел праведным предо Мною в роде сем."
+      csya_old: "И# рече2 гDь бг7ъ къ нHю: вни1ди ты2 и3 ве1сь до1мъ тво1й въ
+        ковче1гъ, ћкw тS ви1дэхъ првdна предо мно1ю въ ро1дэ се1мъ:"
+      sovr_rbo: "Господь сказал Ною: «Войди в ковчег и возьми с собой семью. Я вижу,
+        что из всех ныне живущих ты один праведен предо Мною."
+      latin: "Dixitque Dominus ad eum: Ingredere tu et omnis domus tua in arcam: te
+        enim vidi justum coram me in generatione hac."
+      ukr: "І сказав Господь Ноєві: Увійди ти й увесь дім твій до ковчегу, бо Я бачив
+        тебе праведним перед лицем Своїм в оцім роді."
+      nkjv: Then the Lord said to Noah, "Come into the ark, you and all your
+        household, because I have seen that you are righteous before Me in this
+        generation.
+      desnitsky: ""
+      mt: ‫    וַיֹּאמֶר יְהוָה לְנֹחַ בֹּא־אַתָּה וְכָל־בֵּיתְךָ אֶל־הַתֵּבָה
+        כִּי־אֹתְךָ רָאִיתִי צַדִּיק לְפָנַי בַּדּוֹר הַזֶּה׃ ‬
+      romana: 'Dupa aceea a zis Domnul Dumnezeu lui Noe: "Intra in corabie, tu si
+        toata casa ta, caci in neamul acesta numai pe tine te-am vazut drept
+        inaintea Mea.'
+      francais: "L'Éternel dit à Noé: Entre dans l'arche, toi et toute ta maison; car
+        je t'ai vu juste devant moi parmi cette génération."
+      italian: "Il Signore disse a Noè: \"Entra nell'arca tu con tutta la tua
+        famiglia, perché ti ho visto giusto dinanzi a me in questa generazione."
+      old_georgian: "და თქუა უფალმან ღმერთმან ნოეს მიმართ: შევედ შენ და ყოველი სახლი
+        შენი კიდობნად, რამეთუ შენ გიხილე მართლად წინაშე ჩემსა ნათესავსა ამას
+        შინა."
+      portuguese: "Depois disse o Senhor a Noé: Entra na arca, tu e toda a tua casa,
+        porque tenho visto que és justo diante de mim\rnesta geração."
+      polish: "A potem Pan rzekł do Noego: ”Wejdź wraz z całą twą rodziną do arki,
+        bo\rprzekonałem się, że tylko ty jesteś wobec mnie prawy wśród tego
+        pokolenia."
+      turkish: RAB Nuh'a, «Bütün ailenle birlikte gemiye bin» dedi, «Çünkü bu kuşak
+        içinde yalnız seni doğru buldum.
+      nrt: "Господь сказал Ною: – Войди в ковчег со всей семьей, потому что Я вижу,
+        что среди всех живущих ныне лишь ты праведен предо Мной."
+      Macarius: "И сказал Иегова Ною: войди со всем семейством твоим в ковчег; ибо
+        тебя вижу Я праведным предо Мною в сем веке."
+      serbian: "И рече Господ Ноју: Уђи у ковчег ти и сав дом твој; јер те нађох
+        праведна пред собом овога вијека."
+      bulgarian: "И рече Господ (Бог) на Ноя: влез ти и цялата ти челяд в ковчега,
+        защото тебе видях праведен пред Мене в тоя род;"
+      Filaret: "Потом Иегова сказал Ною: войди со всем семейством твоим в ковчег; ибо
+        тебя вижу Я праведным предо Мною в сие время."
+      deutsch: "Und der Herr sprach zu Noah: Gehe in den Kasten, du und dein ganzes
+        Haus; denn ich habe dich gerecht ersehen vor mir zu dieser Zeit."
+      ukr2: "Господь сказав до Ноя: Увійди ти і вся твоя родина в ковчег, бо тебе
+        одного з цього роду побачив я праведним передо мною."
+      ukr3: "І рече Бог до Нояга: Увійди сам і ввесь дом твій у ковчег; бо тебе вбачав
+        я праведним передо мною в сьому родї."
+      bel_syomukha: "І сказаў Гасподзь Бог Ною: увайдзі ты і ўся сям'я твая ў каўчэг,
+        бо цябе Я ўбачыў праведным прад Мною ў родзе гэтым;"
+      old_rbo: "Потом Господь [Бог] сказал Ною: войди со всем семейством твоим в
+        ковчег; ибо тебя вижу Я праведным предо Мною в сем веке."
+      spbda: "И сказал Господь Ною: войди ты и все семейство твое в ковчег; ибо тебя
+        увидел Я праведным предо Мною в роде сем."
+      gorsky-platonov: "И сказал Иегова Моисею: смотри, Я поставил тебя Богом Фараону,
+        и Аарон, брат твой, будет пророком твоим."
+      sergievsky: "И сказал Сущий Ноаху: «Войди ты и весь дом твой в ящик, ибо тебя
+        увидел я праведным передо мною в поколеньи этом."
+      Porfiriy: "И сказал Господь Бог Ною: войди ты и весь дом твой в ковчег; ибо Я
+        увидел тебя праведным предо Мною в роде сем."
+      lev-khv: "И сказал Господь Ною: войди ты и все семейство твое в ковчег; потому
+        что тебя увидел Я праведным предо Мною в этом роде."
+      czech: "I rekl Hospodin Noemu: „Vejdi ty a cely tvuj dum do archy, nebot vidim,
+        ze ty jsi v tomto pokoleni jediny muj spravedlivy."
+      spanish: "Después dijo Yavé a Noé: <<Entra en el arca tú y toda tu casa, pues
+        sólo tú has sido hallado justo en esta generación."
+      vadim: "И сказал Сущий Ноаху: «Войди ты и весь дом твой в ящик, ибо тебя увидел
+        я праведным передо мною в поколеньи этом."
+      greek-lxx: καὶ εἶπεν Κύριος ὁ Θεὸς πρὸς Νωε εἴσελθε σὺ καὶ πᾶς ὁ οἶκός σου εἰς
+        τὴν κιβωτόν ὅτι σὲ εἶδον δίκαιον ἐναντίον μου ἐν τῇ γενεᾷ ταύτῃ
+      st_text: "И сказал Господь [Бог] Ною: войди ты и все семейство твое в ковчег,
+        ибо тебя увидел Я праведным предо Мною в роде сем;"
+  - id: 11118
+    number: 2
+    bookId: 1
+    text: и всякого скота чистого возьми по семи, мужеского пола и женского, а из
+      скота нечистого по два, мужеского пола и женского;
+    chapter: 7
+    chapterId: 7
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: От же скота чистых введи к тебе семь семь, существо мужского пола и
+        существо женского пола, от же скота не чистых двух двух, существо
+        мужского пола и существо женского пола,
+      csya: "от скотов же чистых введи к себе седмь седмь, мужеский пол и женский: от
+        скотов же нечистых два два, мужеский пол и женский:"
+      averincev: ""
+      ungerov: От скотов же чистых введи к себе по семи, мужескаго пола и женскаго, а
+        от скотов нечистых по два, мужескаго пола и женскаго.
+      csya_old: "t скотHвъ же чи1стыхъ введи2 къ себЁ се1дмь се1дмь, мyжескій по1лъ и3
+        же1нскій: t скотHвъ же нечи1стыхъ двA двA, мyжескій по1лъ и3 же1нскій:"
+      sovr_rbo: Возьми с собой по семь пар, самцов и самок, от всех видов чистых
+        животных, и по паре, самца и самку, от всех видов нечистых животных,
+      latin: "Ex omnibus animantibus mundis tolle septena et septena, masculum et
+        feminam: de animantibus vero immundis duo et duo, masculum et feminam."
+      ukr: "Із усякої чистої худоби візьмеш собі по семеро, самця та самицю її, а з
+        худоби нечистої двоє: самця та самицю її."
+      nkjv: You shall take with you seven each of every clean animal, a male and his
+        female; two each of animals that are unclean, a male and his female;
+      desnitsky: ""
+      mt: ‫    מִכֹּל הַבְּהֵמָה הַטְּהוֹרָה תִּקַּח־לְךָ שִׁבְעָה שִׁבְעָה אִישׁ
+        וְאִשְׁתּוֹ וּמִן־הַבְּהֵמָה אֲשֶׁר לֹא טְהֹרָה הִוא שְׁנַיִם אִישׁ
+        וְאִשְׁתּוֹ׃ ‬
+      romana: Sa iei cu tine din toate animalele curate cate sapte perechi, parte
+        barbateasca si parte femeiasca, iar din animalele necurate cate o
+        pereche, parte barbateasca si parte femeiasca.
+      francais: Tu prendras auprès de toi sept couples de tous les animaux purs, le
+        mâle et sa femelle; une paire des animaux qui ne sont pas purs, le mâle
+        et sa femelle;
+      italian: D'ogni animale mondo prendine con te sette paia, il maschio e la sua
+        femmina; degli animali che non sono mondi un paio, il maschio e la sua
+        femmina.
+      old_georgian: ხოლო ყოველთაგან საცხოვართა წმიდათა შეიყუანე შენ თანა შვიდ-შვიდი
+        მამალი და დედალი ხოლო საცხოვართაგან არაწმიდათა ორ-ორი მამალი და დედალი.
+      portuguese: "De todos os animais limpos levarás contigo sete e sete, o macho e
+        sua fêmea; mas dos animais que não são\rlimpos, dois, o macho e sua
+        fêmea;"
+      polish: "Z wszelkich zwierząt czystych weź z sobą siedem samców i siedem samic,
+        ze\rzwierząt zaś nieczystych po jednej parze: samca i samicę;"
+      turkish: ""
+      nrt: Возьми с собой по семь пар каждого вида чистых животных и по паре от
+        каждого вида нечистых,
+      Macarius: Возьми с собою из всякого скота чистого по семи, мужеского пола и
+        женского, а из скота нечистого по два, мужеского пола и женского.
+      serbian: Узми са собом од свијех животиња чистих по седморо, све мужјака и женку
+        његову; а од животиња нечистих по двоје, мужјака и женку његову,
+      bulgarian: и от всеки чист добитък вземи по седем, от мъжки и женски пол, а от
+        нечистия добитък - по две, от мъжки и женски пол;
+      Filaret: Возьми с собою из всякаго скота чистаго по семи, мужеский пол и
+        женский, а из скота нечистаго по два, мужеский пол и женский.
+      deutsch: Aus allerlei reinem Vieh nimm zu dir je sieben und sieben, das Männlein
+        und sein Weiblein; von dem unreinen Vieh aber je ein Paar, das Männlein
+        und sein Weiblein.
+      ukr2: Зо всякої чистої скотини візьмеш по семеро до себе, самців і самиць, а з
+        нечистої скотини по парі, самця й самицю.
+      ukr3: Від усякої ж скотини чистої введи до себе по семеро, самця і самицю, від
+        скотини ж нечистої по парі, самця і самицю,
+      bel_syomukha: і ўсякага быдла чыстага вазьмі па сем, мужчынскага полу і
+        жаночага, а з быдла нячыстага па два, мужчынскага полу і жаночага;
+      old_rbo: Возми с собою из всякаго скота чистаго по семи, мужескаго пола и
+        женскаго, а из скота нечистаго по два, мужескаго пола и женскаго.
+      spbda: И всякаго скота чистаго возми себе по семи, мужескаго пола и женскаго, а
+        из скота нечистаго по два, мужескаго пола и женскаго.
+      gorsky-platonov: Ты будешь говорить все, что Я повелю тебе; а Аарон, брат твой,
+        будет говорить Фараону и он отпустит сынов израилевых из земли своей.
+      sergievsky: "Ото всех скотов чистых возьмешь к себе по семи: мужа и жену его; а
+        ото всех скотов, которые не чисты, по двое: мужа и жену его."
+      Porfiriy: Из скотов же чистых введи к себе седмь-седмь, самцов и самок, а из
+        скотов нечистых два-два, самцов и самок,
+      lev-khv: И всякаго скота чистаго возьми себе по семи, мужескаго пола и женскаго,
+        а из скота нечистаго по два, мужескаго пола и женскаго;
+      czech: Ze vsech zvirat cistych vezmes s sebou po sedmi parech, samce se samici,
+        ale ze zvirat, ktera nejsou cista, jen po paru, samce se samici.
+      spanish: De todos los animales puros toma dos setenas, machos y hembras, y de
+        los impuros, una pareja, macho y hembra.
+      vadim: "Ото всех скотов чистых возьмешь к себе по семи: мужа и жену его; а ото
+        всех скотов, которые не чисты, по двое: мужа и жену его."
+      greek-lxx: ἀπὸ δὲ τῶν κτηνῶν τῶν καθαρῶν εἰσάγαγε πρὸς σὲ ἑπτὰ ἑπτά ἄρσεν καὶ
+        θῆλυ ἀπὸ δὲ τῶν κτηνῶν τῶν μὴ καθαρῶν δύο δύο ἄρσεν καὶ θῆλυ
+      st_text: и всякого скота чистого возьми по семи, мужеского пола и женского, а из
+        скота нечистого по два, мужеского пола и женского;
+  - id: 11119
+    number: 3
+    bookId: 1
+    text: также и из птиц небесных [чистых] по семи, мужеского пола и женского, [и
+      из всех птиц нечистых по две, мужеского пола и женского,] чтобы сохранить
+      племя для всей земли,
+    chapter: 7
+    chapterId: 7
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и от птиц неба чистых семь семь, существо мужского пола и существо
+        женского пола, и от птиц не чистых двух двух, существо мужского пола и
+        существо женского пола, питать семя на всей земле.
+      csya: "и от птиц небесных чистых седмь седмь, мужеский пол и женский: и от всех
+        птиц нечистых две две, мужеский пол и женский, препитати семя по всей
+        земли:"
+      averincev: ""
+      ungerov: И из птиц небесных чистых по семи, мужескаго пола и женскаго, и от всех
+        птиц нечистых по две, мужскаго пола и женскаго, чтобы пропитать семя на
+        всей земле.
+      csya_old: "и3 t пти1цъ небе1сныхъ чи1стыхъ се1дмь се1дмь, мyжескій по1лъ и3
+        же1нскій: и3 t всёхъ пти1цъ нечи1стыхъ двЁ двЁ, мyжескій по1лъ и3
+        же1нскій, препитaти сёмz по все1й земли2:"
+      sovr_rbo: и по семь пар, самцов и самок, от всех видов птиц небесных. Пусть
+        сохранится на земле их род.
+      latin: "Sed et de volatilibus caeli septena et septena, masculum et feminam: ut
+        salvetur semen super faciem universae terrae."
+      ukr: Також із птаства небесного по семеро, самця та самицю, щоб насіння сховати
+        живим на поверхні всієї землі.
+      nkjv: also seven each of birds of the air, male and female, to keep the species
+        alive on the face of all the earth.
+      desnitsky: ""
+      mt: ‫    גַּם מֵעוֹף הַשָּׁמַיִם שִׁבְעָה שִׁבְעָה זָכָר וּנְקֵבָה לְחַיּוֹת
+        זֶרַע עַל־פְּנֵי כָל־הָאָרֶץ׃ ‬
+      romana: "De asemenea si din pasarile cerului sa iei: din cele curate cate sapte
+        perechi, parte barbateasca si parte femeiasca, iar din toate pasarile
+        necurate cate o pereche, parte barbateasca si parte femeiasca, ca sa le
+        pastrezi soiul pentru tot pamantul."
+      francais: sept couples aussi des oiseaux du ciel, mâle et femelle, afin de
+        conserver leur race en vie sur la face de toute la terre.
+      italian: Anche degli uccelli mondi del cielo, sette paia, maschio e femmina, per
+        conservarne in vita la razza su tutta la terra.
+      old_georgian: და მფრინველთაგან ცისათა წმიდათაგან შვიდ-შვიდი მამალი და დედალი და
+        მფრინველთაგან არაწმიდათ ორ-ორი მამალი და დედალი დამარხვად თესლი ყოველსა
+        ქუეყანასა ზედა.
+      portuguese: "também das aves do céu sete e sete, macho e fêmea, para se
+        conservar em vida sua espécie sobre a face de toda\ra terra."
+      polish: "również i z ptactwa - po siedem samców i po siedem samic, aby w ten
+        sposób\rzachować ich potomstwo dla całej ziemi."
+      turkish: Yeryüzünde soyları tükenmesin diye, yanına temiz sayılan hayvanlardan
+        erkek ve dişi olmak üzere yedişer çift, kirli sayılan hayvanlardan birer
+        çift, kuşlardan yedişer çift al.
+      nrt: и по семь пар каждого вида птиц, самцов и самок, чтобы сохранить их виды на
+        земле.
+      Macarius: Также и птиц небесных по семи, мужеского пола и женского, чтобы
+        сохранить племя для всей земли.
+      serbian: Такође и од птица небеских по седам, мужјака и женку његову, да им се
+        сачува сјеме на земљи.
+      bulgarian: тъй също и от птиците небесни (чисти) по седем, от мъжки и женски
+        пол, (и от всички нечисти птици по две, от мъжки и женски пол,) за да
+        запазиш род за цялата земя;
+      Filaret: Также и из птиц небесных (чистых) по семи, мужеский пол и женский (и из
+        всех птиц нечистых по две, мужеский пол и женский), чтобы сохранить
+        племя для всей земли.
+      deutsch: Desgleichen von den Vögeln unter dem Himmel je sieben und sieben, das
+        Männlein und sein Weiblein, auf daß Same lebendig bleibe auf dem ganzen
+        Erdboden.
+      ukr2: З птаства піднебесного теж по семеро, самців і самиць, щоб зберегти живим
+        насіння по всій землі.
+      ukr3: І від птаства небесного по семеро, самця і самицю, щоб насїннє живе
+        переховати по всїй землї.
+      bel_syomukha: "таксама і з птушак нябесных чыстых па сем, мужчынскага полу і
+        жаночага, каб захаваць племя на ўсю зямлю:"
+      old_rbo: Также и из птиц небесных [чистых] по семи, мужескаго пола и женскаго,
+        [и из всех птиц нечистых по две, мужескаго пола и женскаго,] чтобы
+        сохранить племя для всей земли.
+      spbda: Также из птиц по семи, мужескаго пола и женскаго, чтобы сохранить племя
+        по всей земле.
+      gorsky-platonov: Но Я сделаю жестким сердце Фараона, и много сотворю знамений
+        Моих и чудес Моих в земле египетской.
+      sergievsky: "Также от летучих небесных по семи: самца и самку, чтоб живым
+        сохранить семя на лицо всей земли."
+      Porfiriy: и из птиц небесных чистых седмь-седмь, самцов и самок, и из всех птиц
+        нечистых два-два, самцов и самок, дабы сохранить семя для всей земли.
+      lev-khv: Также из птиц небесных по семи, мужескаго пола и женскаго, чтобы
+        сохранить семя по всей земле;
+      czech: Take z nebeskeho ptactva po sedmi parech, samce a samici, aby zustalo
+        nazivu potomstvo na cele zemi,
+      spanish: También de las aves del cielo dos setenas, machos y hembras, para que
+        viva la raza sobre la haz de la tierra,
+      vadim: "Также от летучих небесных по семи: самца и самку, чтоб живым сохранить
+        семя на лицо всей земли."
+      greek-lxx: καὶ ἀπὸ τῶν πετεινῶν τοῦ οὐρανοῦ τῶν καθαρῶν ἑπτὰ ἑπτά ἄρσεν καὶ θῆλυ
+        καὶ ἀπὸ τῶν πετεινῶν τῶν μὴ καθαρῶν δύο δύο ἄρσεν καὶ θῆλυ διαθρέψαι
+        σπέρμα ἐπὶ πᾶσαν τὴν γῆν
+      st_text: также и из птиц небесных [чистых] по семи, мужеского пола и женского,
+        [и из всех птиц нечистых по две, мужеского пола и женского,] чтобы
+        сохранить племя для всей земли,
+  - id: 11120
+    number: 4
+    bookId: 1
+    text: ибо чрез семь дней Я буду изливать дождь на землю сорок дней и сорок
+      ночей; и истреблю все существующее, что Я создал, с лица земли.
+    chapter: 7
+    chapterId: 7
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Ещё ведь дней семь Я наведу дождь на землю сорок дней и сорок ночей и
+        сотру всякое воскресение, которое Я сделал, с лица земли.
+      csya: "еще бо дний седмь, аз наведу дождь на землю четыредесять дний и
+        четыредесять нощей: и потреблю всякое востание, еже сотворих, от лица
+        всея земли."
+      averincev: ""
+      ungerov: Ибо чрез семь дней Я наведу дождь на землю, в течении сорока дней и
+        сорока ночей, и истреблю все живущее, сотворенное Мною, с лица всей
+        земли.
+      csya_old: "є3ще1 бо днjй се1дмь, ѓзъ наведY до1ждь на зе1млю четы1редесzть днjй
+        и3 четы1редесzть ноще1й: и3 потреблю2 всsкое востaніе, є4же сотвори1хъ,
+        t лицA всеS земли2."
+      sovr_rbo: Через семь дней Я пошлю на землю дождь — он будет литься сорок дней и
+        сорок ночей — и Я смету с лица земли всех, кого Я создал».
+      latin: "Adhuc enim, et post dies septem ego pluam super terram quadraginta
+        diebus et quadraginta noctibus: et delebo omnem substantiam, quam feci,
+        de superficie terrae."
+      ukr: Ось бо по семи днях Я литиму на землю дощ сорок день і сорок ночей, і всяку
+        істоту, яку Я вчинив, зітру з-над поверхні землі!
+      nkjv: For after seven more days I will cause it to rain on the earth forty days
+        and forty nights, and I will destroy from the face of the earth all
+        living things that I have made."
+      desnitsky: ""
+      mt: ‫    כִּי לְיָמִים עוֹד שִׁבְעָה אָנֹכִי מַמְטִיר עַל־הָאָרֶץ אַרְבָּעִים
+        יוֹם וְאַרְבָּעִים לָיְלָה וּמָחִיתִי אֶת־כָּל־הַיְקוּם אֲשֶׁר עָשִׂיתִי
+        מֵעַל פְּנֵי הָאֲדָמָה׃ ‬
+      romana: Caci peste sapte zile Eu voi varsa ploaie pe pamant, patruzeci de zile
+        si patruzeci de nopti si am sa pierd de pe fata pamantului toate
+        fapturile cate am facut".
+      francais: Car, encore sept jours, et je ferai pleuvoir sur la terre quarante
+        jours et quarante nuits, et j'exterminerai de la face de la terre tous
+        les êtres que j'ai faits.
+      italian: Perché tra sette giorni farò piovere sulla terra per quaranta giorni e
+        quaranta notti; sterminerò dalla terra ogni essere che ho fatto".
+      old_georgian: რამეთუ მერმე-ღა შჳდნი დღენი მოვჰჴადო მე წვიმაჲ ქუეყანასა ზედა
+        ორმეოცთა დღეთა და ორმეოცთა ღამეთა. და აღვჰჴოცო ყოველი აღმდგომი, რომელი
+        შევქმენ პირისაგან ყოვლისა ქუეყანისა.
+      portuguese: "Porque, passados ainda sete dias, farei chover sobre a terra
+        quarenta dias e quarenta noites, e exterminarei da\rface da terra todas
+        as criaturas que fiz."
+      polish: "Bo za siedem dni spuszczę na ziemię deszcz, który będzie padał
+        czterdzieści\rdni i czterdzieści nocy, aby wyniszczyć wszystko, co
+        istnieje na powierzchni\rziemi - cokolwiek stworzyłem”."
+      turkish: Çünkü yedi gün sonra yeryüzüne kırk gün kırk gece yağmur yağdıracağım.
+      nrt: Через семь дней Я пошлю дождь на землю на сорок дней и сорок ночей; и Я
+        сотру с лица земли всех живых существ, которых Я создал.
+      Macarius: Ибо чрез семь дней от ныне, Я повелю дождю литься на землю сорок дней
+        и сорок ночей; и истреблю с лица земли все существующее, что Я ни
+        создал.
+      serbian: Јер ћу до седам дана пустити дажд на земљу за четрдесет дана и
+        четрдесет ноћи, и истријебићу са земље свако тијело живо које сам
+        створио.
+      bulgarian: защото след седем дена Аз ще изливам дъжд на земята четирийсет дена и
+        четирийсет нощи; и ще изтребя от земното лице всички същества, които съм
+        създал.
+      Filaret: Ибо чрез семь дней отныне Я повелю быть дождю на земле сорок дней и
+        сорок ночей; и истреблю с лица земли все существующее, чтó Я ни создал.
+      deutsch: Denn von nun an über sieben Tage will ich regnen lassen auf Erden
+        vierzig Tage und vierzig Nächte und vertilgen von dem Erdboden alles,
+        was Wesen hat, was ich gemacht habe.
+      ukr2: Ще бо сім днів, і я пошлю дощ на землю, сорок днів і сорок ночей, і
+        вигублю з лиця землі всі сотворіння, що їх я створив.
+      ukr3: Ще бо сїм день, і дощувати му на землю сорок день і сорок ночей, та й
+        вигублю з лиця землї всяке живе, що сотворив.
+      bel_syomukha: бо празь сем дзён Я буду выліваць дождж на зямлю сорак дзён і
+        сорак ночаў; і вынішчу ўсё існае, што Я стварыў, з улоньня зямлі.
+      old_rbo: Ибо чрез семь дней отныне, Я повелю дождю литься на землю сорок дней и
+        сорок ночей; и истреблю с лица [всей] земли все существующее, что Я ни
+        сотворил.
+      spbda: Ибо чрез семь дней Я буду изливать дождь на землю сорок дней и сорок
+        ночей; и истреблю все существующее, что Я создал, с лица земли.
+      gorsky-platonov: И не послушает вас Фараон, и наложу руку Мою на Египет, и
+        выведу воинство Мое, народ Мой, сынов Израиля, из земли египетской,
+        судами великими.
+      sergievsky: Ибо еще дней семь и я пущу дождь идти на землю сорок дней и сорок
+        ночей, и сотру с лица почвы всякое существо, какое я сделал».
+      Porfiriy: Ибо еще дней седмь, и Я наведу дождь на землю в сорок дней и сорок
+        ночей, и истреблю все живущее, чтó Я сотворил, с лица земли.
+      lev-khv: Потому что чрез семь дней Я стану изливать дождь на землю сорок дней и
+        сорок ночей; и истреблю все существующее, чтó Я создал, с лица земли.
+      czech: nebot jiz za sedm dni seslu na zemi dest, ktery potrva ctyricet dni a
+        ctyricet noci. Smetu z povrchu zeme vse, co povstalo, co jsem ucinil.“
+      spanish: porque dentro de siete días voy a hacer llover sobre la tierra cuarenta
+        días y cuarenta noches, y exterminaré de sobre ella cuanto hice>>.
+      vadim: Ибо еще дней семь и я пущу дождь идти на землю сорок дней и сорок ночей,
+        и сотру с лица почвы всякое существо, какое я сделал».
+      greek-lxx: ἔτι γὰρ ἡμερῶν ἑπτὰ ἐγὼ ἐπάγω ὑετὸν ἐπὶ τὴν γῆν τεσσαράκοντα ἡμέρας
+        καὶ τεσσαράκοντα νύκτας καὶ ἐξαλείψω πᾶσαν τὴν ἐξανάστασιν ἣν ἐποίησα
+        ἀπὸ προσώπου τῆς γῆς
+      st_text: ибо чрез семь дней Я буду изливать дождь на землю сорок дней и сорок
+        ночей; и истреблю все существующее, что Я создал, с лица земли.
+  - id: 11121
+    number: 5
+    bookId: 1
+    text: Ной сделал все, что Господь [Бог] повелел ему.
+    chapter: 7
+    chapterId: 7
+    parallels:
+      - verseId: 11116
+        bookId: 1
+        bookCode: bytie
+        chapter: 6
+        short: Быт:6:22
+    translates:
+      kassian: ""
+      podstr: И сделал Ной всё, сколькое приказал ему Господь Бог.
+      csya: И сотвори ное вся, елика заповеда ему Господь Бог.
+      averincev: ""
+      ungerov: И сделал Ной все, что заповедал ему Господь Бог.
+      csya_old: И# сотвори2 нHе вс‰, є3ли6ка заповёда є3мY гDь бг7ъ.
+      sovr_rbo: Ной выполнил все, что повелел Господь.
+      latin: Fecit ergo Noe omnia quae mandaverat ei Dominus.
+      ukr: І зробив Ной усе, як звелів був Господь.
+      nkjv: And Noah did according to all that the Lord commanded him.
+      desnitsky: ""
+      mt: ‫    וַיַּעַשׂ נֹחַ כְּכֹל אֲשֶׁר־צִוָּהוּ יְהוָה׃ ‬
+      romana: Si a facut Noe toate cate i-a poruncit Domnul Dumnezeu.
+      francais: Noé exécuta tout ce que l'Éternel lui avait ordonné.
+      italian: Noè fece quanto il Signore gli aveva comandato.
+      old_georgian: და ქმნა ნოე ყოველნი, რაოდენნი ამცნო უფალმან ღმერთმან.
+      portuguese: E Noé fez segundo tudo o que o Senhor lhe ordenara.
+      polish: I spełnił Noe wszystko tak, jak mu Pan polecił.
+      turkish: Nuh RAB'bin bütün buyruklarını yerine getirdi.
+      nrt: Ной сделал все, как повелел ему Господь.
+      Macarius: Ной сделал все, что Иегова повелел ему.
+      serbian: И Ноје учини све што му заповједи Господ.
+      bulgarian: Ной направи всичко, що му Господ (Бог) заповяда.
+      Filaret: Ной сделал все, чтó Иегова повелел ему.
+      deutsch: Und Noah tat alles, was ihm der Herr gebot.
+      ukr2: І зробив Ной усе, як велів йому Господь.
+      ukr3: І вчинив Нояг усе, що заповідав йому Господь Бог.
+      bel_syomukha: Ной зрабіў усё, што Гасподзь Бог наказаў яму.
+      old_rbo: Ной сделал все, что Господь [Бог] повелел ему.
+      spbda: Ной сделал все, что Господь повелел ему.
+      gorsky-platonov: И узнают египтяне, что Я — Иегова, когда простру руку Мою на
+        Египет, и выведу сынов израилевых из среды их.
+      sergievsky: И сделал Ноах все что повелел Сущий.
+      Porfiriy: И сделал Ной все, что повелел ему Господь Бог.
+      lev-khv: Ной сделал все, чтó Господь повелел ему.
+      czech: Noe udelal vsechno, jak mu Hospodin prikazal.
+      spanish: Hizo Noé cuanto Dios le mandara.
+      vadim: И сделал Ноах все что повелел Сущий.
+      greek-lxx: καὶ ἐποίησεν Νωε πάντα ὅσα ἐνετείλατο αὐτῷ Κύριος ὁ Θεός
+      st_text: Ной сделал все, что Господь [Бог] повелел ему.
+  - id: 11122
+    number: 6
+    bookId: 1
+    text: Ной же был шестисот лет, как потоп водный пришел на землю.
+    chapter: 7
+    chapterId: 7
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Ной же был лет шестисот, и потоп сделался воды на земле.
+      csya: Ное же бе лет шести сот, и потоп водный бысть на земли.
+      averincev: ""
+      ungerov: Ной был шести сот лет, когда потоп водный наступил на земле.
+      csya_old: НHе же бЁ лётъ шести2 сHтъ, и3 пото1пъ водны1й бы1сть на земли2.
+      sovr_rbo: Когда Ною было шестьсот лет, начался потоп.
+      latin: Eratque sexcentorum annorum quando diluvii aquae inundaverunt super
+        terram.
+      ukr: А Ной був віку шостисот літ, і стався потоп, вода на землі.
+      nkjv: Noah was six hundred years old when the floodwaters were on the earth.
+      desnitsky: ""
+      mt: ‫    וְנֹחַ בֶּן־שֵׁשׁ מֵאוֹת שָׁנָה וְהַמַּבּוּל הָיָה מַיִם עַל־הָאָרֶץ׃ ‬
+      romana: Noe insa, cand a venit asupra pamantului potopul de apa, era de sase
+        sute de ani.
+      francais: Noé avait six cents ans, lorsque le déluge d'eaux fut sur la terre.
+      italian: Noè aveva seicento anni, quando venne il diluvio, cioè le acque sulla
+        terra.
+      old_georgian: ხოლო ნოე იყო ექუსასთა წელთა. და წყალი რღუნისა იქმნა ქუეყანასა ზედა.
+      portuguese: Tinha Noé seiscentos anos de idade, quando o dilúvio veio sobre a terra.
+      polish: Noe miał sześćset lat, gdy nastał potop na ziemi.
+      turkish: Yeryüzünde tufan koptuğunda Nuh altı yüz yaşındaydı.
+      nrt: Когда воды потопа пришли на землю, Ною было шестьсот лет.
+      Macarius: Ной же был шести сот лет от рождения, как вода потопная пришла на землю.
+      serbian: И бјеше Ноју шест стотина година кад дође потоп на земљу.
+      bulgarian: А Ной беше на шестстотин години, когато стана водният потоп на земята.
+      Filaret: Ной же был шестисот лет от рождения, как вода потопная пришла на землю.
+      deutsch: Er war aber sechshundert Jahre alt, da das Wasser der Sintflut auf
+        Erden kam.
+      ukr2: Було ж Ноєві шістсот років, як стався потоп на землі.
+      ukr3: Ноягові ж було шістьсот год, як стався потоп водний на землї.
+      bel_syomukha: А Ною было шэсьцьсот гадоў, як патоп водны прыйшоў на зямлю.
+      old_rbo: Ной же был шестисот лет от рождения, как вода потопная пришла на землю.
+      spbda: Ной же был шести сот лет, когда потоп водный пришел на землю.
+      gorsky-platonov: И делали (так) Моисей и Аарон; как повелел им Иегова, (так) делали.
+      sergievsky: А. Ноах был шестисот лет, когда потоп вод пришел на землю.
+      Porfiriy: Ною же было шестьсот лет, когда потоп был на земле.
+      lev-khv: Ной же был шестисот лет, когда потоп водный пришел на землю.
+      czech: Sest set let bylo Noemu, kdyz nastala potopa, vody na zemi.
+      spanish: Era Noé de seiscientos años cuando el diluvio inundó la tierra.
+      vadim: А. Ноах был шестисот лет, когда потоп вод пришел на землю.
+      greek-lxx: Νωε δὲ ἦν ἐτῶν ἑξακοσίων καὶ ὁ κατακλυσμὸς ἐγένετο ὕδατος ἐπὶ τῆς γῆς
+      st_text: Ной же был шестисот лет, как потоп водный пришел на землю.
+  - id: 11123
+    number: 7
+    bookId: 1
+    text: И вошел Ной и сыновья его, и жена его, и жены сынов его с ним в ковчег от
+      вод потопа.
+    chapter: 7
+    chapterId: 7
+    parallels:
+      - verseId: 25613
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 24
+        short: Мф:24:37
+      - verseId: 25614
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 24
+        short: Мф:24:38
+      - verseId: 24176
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 17
+        short: Лк:17:26
+      - verseId: 24177
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 17
+        short: Лк:17:27
+      - verseId: 3658
+        bookId: 57
+        bookCode: 1oe-poslanie-ap-petra
+        chapter: 3
+        short: 1 Пет:3:20
+      - verseId: 6674
+        bookId: 58
+        bookCode: 2oe-poslanie-ap-petra
+        chapter: 2
+        short: 2 Пет:2:5
+    translates:
+      kassian: ""
+      podstr: Вошёл же Ной и сыновья его и жена его и жёны сыновей его с ним в ковчег
+        из-за воды потопа.
+      csya: Вниде же ное и сынове его, и жена его и жены сынов его с ним в ковчег,
+        воды ради потопа.
+      averincev: ""
+      ungerov: Вошел же Ной и сыны его, и жена его, и жены сынов его с ним в ковчег,
+        от воды потопа.
+      csya_old: Вни1де же нHе и3 сы1нове є3гw2, и3 женA є3гw2 и3 жєны2 сынHвъ є3гw2 съ
+        ни1мъ въ ковче1гъ, воды2 рaди пото1па.
+      sovr_rbo: Ной укрылся от потопа в ковчеге, вместе с сыновьями, женой и женами
+        сыновей,
+      latin: Et ingressus est Noe et filii ejus, uxor ejus et uxores filiorum ejus cum
+        eo in arcam propter aquas diluvii.
+      ukr: І ввійшов Ной, і сини його, і жінка його, і невістки його з ним до ковчегу
+        перед водою потопу.
+      nkjv: "So Noah, with his sons, his wife, and his sons' wives, went into the ark
+        because of the waters of the flood. "
+      desnitsky: ""
+      mt: ‫    וַיָּבֹא נֹחַ וּבָנָיו וְאִשְׁתּוֹ וּנְשֵׁי־בָנָיו אִתּוֹ אֶל־הַתֵּבָה
+        מִפְּנֵי מֵי הַמַּבּוּל׃ ‬
+      romana: Si a intrat Noe in corabie si impreuna cu el au intrat fiii lui, femeia
+        lui si femeile fiilor lui, ca sa scape de apele potopului.
+      francais: Et Noé entra dans l'arche avec ses fils, sa femme et les femmes de ses
+        fils, pour échapper aux eaux du déluge.
+      italian: Noè entrò nell'arca e con lui i suoi figli, sua moglie e le mogli dei
+        suoi figli, per sottrarsi alle acque del diluvio.
+      old_georgian: და შევიდა ნოე და ძენი მისნი მის თანა და ცოლი მისი და ცოლნი ძეთა
+        მისთანი კიდობნად წყლისათჳს რღუნისა.
+      portuguese: Noé entrou na arca com seus filhos, sua mulher e as mulheres de seus
+        filhos, por causa das águas do dilúvio.
+      polish: "Noe wszedł z synami, z żoną i z żonami swych synów do arki, aby
+        schronić\rsię przed wodami potopu."
+      turkish: "Nuh,\roğulları, karısı, gelinleri tufandan kurtulmak için hep birlikte
+        gemiye bindiler."
+      nrt: Ной, его сыновья, его жена и жены его сыновей вошли в ковчег, чтобы
+        спастись от потопа.
+      Macarius: И вошел Ной от вод потопа в ковчег, и с ним сыновья его, и жена его, и
+        жены сынов его.
+      serbian: И уђе Ноје у ковчег и синови његови и жена његова и жене синова
+        његовијех с њим због потопа.
+      bulgarian: И поради водата от потопа влезе в ковчега Ной и синовете му, и с него
+        жена му и жените на синовете му.
+      Filaret: И вошел Ной от вод потопа в ковчег, и с ним сыновья его, и жена его, и
+        жены сынов его.
+      deutsch: Und er ging in den Kasten mit seinen Söhnen, seinem Weibe und seiner
+        Söhne Weibern vor dem Gewässer der Sintflut.
+      ukr2: І ввійшов Ной, сини його, жінка його й жінки синів його з ним у ковчег
+        перед потопом вод.
+      ukr3: І ввійшов Нояг, і сини його, і жінка його, і жінки синів його з ними у
+        ковчег задля води потопньої.
+      bel_syomukha: І ўвайшоў Ной і сыны ягоныя, і жонка яго і жонкі сыноў ягоных зь
+        ім у каўчэг ад водаў патопу.
+      old_rbo: И вошел Ной от вод потопа в ковчег, и с ним сыновья его, и жена его, и
+        жены сынов его.
+      spbda: И вошел Ной, и сыновья его, и жена его, и жены сынов его с ним в ковчег
+        от вод потопа.
+      gorsky-platonov: И было Моисею восемьдесят лет, Аарону же восемьдесят три года,
+        когда они говорили с Фараоном.
+      sergievsky: И вошел Ноах, и сыновья его, и жена его и жены сыновей его с ним в
+        ящик, от лица вод потопа.
+      Porfiriy: И вошел Ной, и сыны его, и жена его, и жены сынов его, с ним, в
+        ковчег, от воды потопной.
+      lev-khv: И вошел Ной, и сыновья его, и жена его, и жены сынов его с ним в ковчег
+        от вод потопа.
+      czech: Pred vodami potopy vesel Noe a s nim jeho synove i jeho zena a zeny jeho
+        synu do archy.
+      spanish: Y para librarse de las aguas del diluvio entró en el arca con sus
+        hijos, su mujer y las mujeres de sus hijos,
+      vadim: И вошел Ноах, и сыновья его, и жена его и жены сыновей его с ним в ящик,
+        от лица вод потопа.
+      greek-lxx: εἰσῆλθεν δὲ Νωε καὶ οἱ υἱοὶ αὐτοῦ καὶ ἡ γυνὴ αὐτοῦ καὶ αἱ γυναῖκες
+        τῶν υἱῶν αὐτοῦ μετ᾿ αὐτοῦ εἰς τὴν κιβωτὸν διὰ τὸ ὕδωρ τοῦ κατακλυσμοῦ
+      st_text: И вошел Ной и сыновья его, и жена его, и жены сынов его с ним в ковчег
+        от вод потопа.
+  - id: 11124
+    number: 8
+    bookId: 1
+    text: И [из птиц чистых и из птиц нечистых, и] из скотов чистых и из скотов
+      нечистых, [и из зверей] и из всех пресмыкающихся по земле
+    chapter: 7
+    chapterId: 7
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И от птиц и от скота чистых и от скота не чистых и от всех
+        пресмыкающихся на земле
+      csya: И от птиц чистых и от птиц нечистых, и от скот чистых и от скот нечистых,
+        (и от зверей,) и от всех гадов пресмыкающихся по земли,
+      averincev: ""
+      ungerov: И от птиц чистых и от птиц нечистых, и от скотов чистых, и от скотов
+        нечистых, (и от зверей), и от всех гадов, пресмыкающихся по земле.
+      csya_old: И# t пти1цъ чи1стыхъ и3 t пти1цъ нечи1стыхъ, и3 t скHтъ чи1стыхъ и3 t
+        скHтъ нечи1стыхъ, (и3 t ѕвэре1й,) и3 t всёхъ гадHвъ пресмыкaющихсz по
+        земли2,
+      sovr_rbo: а из всех видов скота, чистого и нечистого, и птиц, и всякой живности
+        земной
+      latin: De animantibus quoque mundis et immundis, et de volucribus, et ex omni
+        quod movetur super terram,
+      ukr: Із чистої худоби та з худоби, що нечиста вона, і з птаства, і всього, що
+        плазує на землі,
+      nkjv: Of clean animals, of animals that are unclean, of birds, and of everything
+        that creeps on the earth,
+      desnitsky: ""
+      mt: ‫    מִן־הַבְּהֵמָה הַטְּהוֹרָה וּמִן־הַבְּהֵמָה אֲשֶׁר אֵינֶנָּה טְהֹרָה
+        וּמִן־הָעוֹף וְכֹל אֲשֶׁר־רֹמֵשׂ עַל־הָאֲדָמָה׃ ‬
+      romana: Din pasarile curate si din pasarile necurate, din animalele curate si
+        din animalele necurate, din fiare si din toate cele ce se misca pe
+        pamant
+      francais: D'entre les animaux purs et les animaux qui ne sont pas purs, les
+        oiseaux et tout ce qui se meut sur la terre,
+      italian: Degli animali mondi e di quelli immondi, degli uccelli e di tutti gli
+        esseri che strisciano sul suolo
+      old_georgian: და ყოველთაგან მფრინველთა წმიდათა და ყოველთაგან მფრინველთა
+        არაწმიდათა და ყოველთაგან საცხოვართა წმიდათა და ყოველთაგან საცხოვართა
+        არაწმიდათა და ყოველთაგან ქუეწარმავალთა ქუეყანისზედათა.
+      portuguese: Dos animais limpos e dos que não são limpos, das aves, e de todo
+        réptil sobre a terra,
+      polish: "Ze zwierząt czystych i nieczystych, z ptactwa i ze wszystkiego, co
+        pełza po\rziemi,"
+      turkish: ""
+      nrt: Чистые и нечистые животные, птицы и все пресмыкающиеся,
+      Macarius: И из скота чистого и из скота нечистого, и из всех птиц и из всех
+        пресмыкающихся по земле
+      serbian: Од животиња чистих и од животиња нечистих и од птица и од свега што се
+        миче по земљи,
+      bulgarian: И (от чистите птици и от нечистите птици, и) от чистия добитък и от
+        нечистия добитък (и от зверовете) и от всички влечуги по земята
+      Filaret: И из скота чистаго, и из скота нечистаго, и из птиц, и из всех
+        пресмыкающихся по земле,
+      deutsch: Von dem reinen Vieh und von dem unreinen, von den Vögeln und von allem
+        Gewürm auf Erden
+      ukr2: З чистої скотини і з нечистої скотини, з птаства й зо всього, що повзає по
+        землі,
+      ukr3: І з чистої скотини і з скотини нечистої і з птаства і з усього лазючого
+        поповза по землї,
+      bel_syomukha: і з быдла чыстага і з усіх паўзуноў зямных
+      old_rbo: И из скота чистаго, и из скота нечистаго и из всех птиц [чистых и из
+        птиц нечистых и из зверей] и из всех [гадов] пресмыкающихся по земле,
+      spbda: И из скотов чистых, и из скотов нечистых, и птиц, и из всех
+        пресмыкающихся по земле
+      gorsky-platonov: "И сказал Иегова Моисею и Аарону говоря:"
+      sergievsky: От скотов чистых и от скотов, которые не чисты, и от пернатых и от
+        тех, что ползают по почве,
+      Porfiriy: И из скотов чистых, и из скотов нечистых, и из птиц, и из всех
+        пресмыкающихся по земле,
+      lev-khv: И из скотов чистых, и из скотов нечистых, и из птиц, и из всех
+        пресмыкающихся по земле
+      czech: Z cistych zvirat i ze zvirat, ktera nejsou cista, z ptactva i ze vseho,
+        co se plazi po zemi,
+      spanish: y de los animales puros e impuros; de las aves y cuanto se arrastra
+        sobre la tierra,
+      vadim: От скотов чистых и от скотов, которые не чисты, и от пернатых и от тех,
+        что ползают по почве,
+      greek-lxx: καὶ ἀπὸ τῶν πετεινῶν καὶ ἀπὸ τῶν κτηνῶν τῶν καθαρῶν καὶ ἀπὸ τῶν
+        κτηνῶν τῶν μὴ καθαρῶν καὶ ἀπὸ πάντων τῶν ἑρπετῶν τῶν ἐπὶ τῆς γῆς
+      st_text: И [из птиц чистых и из птиц нечистых, и] из скотов чистых и из скотов
+        нечистых, [и из зверей] и из всех пресмыкающихся по земле
+  - id: 11125
+    number: 9
+    bookId: 1
+    text: по паре, мужеского пола и женского, вошли к Ною в ковчег, как [Господь]
+      Бог повелел Ною.
+    chapter: 7
+    chapterId: 7
+    parallels:
+      - verseId: 11113
+        bookId: 1
+        bookCode: bytie
+        chapter: 6
+        short: Быт:6:19
+    translates:
+      kassian: ""
+      podstr: двое двое вошли к Ною в ковчег, существо мужского пола и существо
+        женского пола, как приказал ему Бог.
+      csya: два два внидоша к ною в ковчег, мужеский пол и женский, якоже заповеда
+        (Господь) Бог ною.
+      averincev: ""
+      ungerov: По два вошли к Ною в ковчег, мужескаго пола и женскаго, как заповедал
+        (Господь) Бог Ною.
+      csya_old: двA двA внидо1ша къ нHю въ ковче1гъ, мyжескій по1лъ и3 же1нскій, ћкоже
+        заповёда (гDь) бг7ъ нHю.
+      sovr_rbo: к нему в ковчег пришло по паре, самец и самка, — как повелел ему Бог.
+      latin: duo et duo ingressa sunt ad Noe in arcam, masculus et femina, sicut
+        praeceperat Dominus Noe.
+      ukr: по двоє ввійшли до Ноя до ковчегу, самець і самиця, як Бог Ноєві був
+        ізвелів.
+      nkjv: two by two they went into the ark to Noah, male and female, as God had
+        commanded Noah.
+      desnitsky: ""
+      mt: ‫    שְׁנַיִם שְׁנַיִם בָּאוּ אֶל־נֹחַ אֶל־הַתֵּבָה זָכָר וּנְקֵבָה
+        כַּאֲשֶׁר צִוָּה אֱלֹהִים אֶת־נֹחַ׃ ‬
+      romana: Au intrat la Noe in corabie perechi, perechi, parte barbateasca si parte
+        femeiasca, cum poruncise Dumnezeu lui Noe.
+      francais: il entra dans l'arche auprès de Noé, deux à deux, un mâle et une
+        femelle, comme Dieu l'avait ordonné à Noé.
+      italian: entrarono a due a due con Noè nell'arca, maschio e femmina, come Dio
+        aveva comandato a Noè.
+      old_georgian: ორ-ორი ყოველთაგან შევიდეს ნოეს თანა კიდობნად - მამალი და დედალი -
+        ვითარცა ამცნო მას უფალმან ღმერთმან.
+      portuguese: entraram dois a dois para junto de Noé na arca, macho e fêmea, como
+        Deus ordenara a Noé.
+      polish: "po dwie sztuki, samiec i samica, weszły do Noego, do arki, tak jak mu
+        Bóg\rrozkazał."
+      turkish: "Tanrı'nın Nuh'a buyurduğu gibi temiz ve kirli sayılan her tür
+        hayvan,\rkuş ve sürüngenden erkek ve dişi olmak üzere birer çift Nuh'a
+        gelip gemiye\rbindiler."
+      nrt: "пришли к Ною и вошли в ковчег парами: самец и самка, как повелел Ною Бог."
+      Macarius: По паре, мужеского пола и женского, вошли к Ною в ковчег, как Бог
+        повелел Ною.
+      serbian: Уђе к Ноју у ковчег по двоје, мушко и женско, као што бјеше Бог
+        заповједио Ноју.
+      bulgarian: влязоха при Ноя в ковчега по две, от мъжки и женски пол, както
+        (Господ) Бог бе заповядал на Ноя.
+      Filaret: по паре, мужеский пол и женский, вошли к Ною в ковчег, как Бог повелел
+        Ною.
+      deutsch: gingen zu ihm in den Kasten paarweise, je ein Männlein und Weiblein,
+        wie ihm Gott geboten hatte.
+      ukr2: прийшли до Ноя в ковчег по парі, самець і самиця, як велів Бог Ноєві.
+      ukr3: По парі ввійшло до Нояга в ковчег, самець і самиця, як заповідав Бог
+        Ноягові.
+      bel_syomukha: па пары, мужчынскага полу і жаночага, увайшлі да Ноя ў каўчэг, як
+        Гасподзь Бог наказаў Ною.
+      old_rbo: По паре, мужескаго пола и женскаго, вошли к Ною в ковчег, как [Господь]
+        Бог повелел Ною.
+      spbda: По паре, мужескаго пола и женскаго, вошли к Ною в ковчег, как Бог повелел
+        Ною.
+      gorsky-platonov: "Когда скажет вам Фараон, говоря: подайте ваше чудо: тогда
+        скажешь Аарону: возьми жезл твой и брось пред Фараоном; он станет
+        змеем."
+      sergievsky: по двое вошло к Ноаху в ящик, самец и самка; так как повелел Бог Ноаху.
+      Porfiriy: два-два вошли к Ною в ковчег, самец и самка, как повелел ему Бог.
+      lev-khv: По паре, мужескаго пола и женскаго, вошли к Ною в ковчег, как Бог
+        повелел Ною.
+      czech: vzdy po paru vesli samec a samice k Noemu do archy, jak mu Buh prikazal.
+      spanish: entraron con Noé parejas, machos y hembras, según se lo había ordenado
+        Dios a Noé.
+      vadim: по двое вошло к Ноаху в ящик, самец и самка; так как повелел Бог Ноаху.
+      greek-lxx: δύο δύο εἰσῆλθον πρὸς Νωε εἰς τὴν κιβωτόν ἄρσεν καὶ θῆλυ καθὰ
+        ἐνετείλατο αὐτῷ ὁ Θεός
+      st_text: по паре, мужеского пола и женского, вошли к Ною в ковчег, как [Господь]
+        Бог повелел Ною.
+  - id: 11126
+    number: 10
+    bookId: 1
+    text: Чрез семь дней воды потопа пришли на землю.
+    chapter: 7
+    chapterId: 7
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И сделалось после семи дней и вода потопа сделалась на земле.
+      csya: И бысть по седми днех, и вода потопная бысть на земли.
+      averincev: ""
+      ungerov: "И было после семи дней: вода потопа явилась на земле."
+      csya_old: И# бы1сть по седми2 дне1хъ, и3 водA пото1пнаz бы1сть на земли2.
+      sovr_rbo: Семь дней минуло, и начался потоп.
+      latin: Cumque transissent septem dies, aquae diluvii inundaverunt super terram.
+      ukr: І сталося по семи днях, і води потопу линули на землю.
+      nkjv: And it came to pass after seven days that the waters of the flood were on
+        the earth.
+      desnitsky: ""
+      mt: ‫    וַיְהִי לְשִׁבְעַת הַיָּמִים וּמֵי הַמַּבּוּל הָיוּ עַל־הָאָרֶץ׃ ‬
+      romana: Iar dupa sapte zile au venit asupra pamantului apele potopului.
+      francais: Sept jours après, les eaux du déluge furent sur la terre.
+      italian: Dopo sette giorni, le acque del diluvio furono sopra la terra;
+      old_georgian: და იყო შემდგომად შვიდთა დღეთასა, და წყალი რღუნისა იქმნა ქუეყანასა ზედა.
+      portuguese: Passados os sete dias, vieram sobre a terra as águas do dilúvio.
+      polish: A gdy upłynęło siedem dni, wody potopu spadły na ziemię.
+      turkish: Yedi gün sonra tufan koptu.
+      nrt: Семь дней спустя воды потопа хлынули на землю.
+      Macarius: И когда минуло семь дней, воды потопа пришли на землю.
+      serbian: А у седми дан дође потоп на земљу.
+      bulgarian: След седемте дена потопните води дойдоха на земята.
+      Filaret: "И когда минуло семь дней: воды потопа пришли на землю."
+      deutsch: Und da die sieben Tage vergangen waren, kam das Gewässer der Sintflut
+        auf Erden.
+      ukr2: І сталося, по семи днях хлинули води потопу на землю.
+      ukr3: І сталось по семи днях, що вода потопня поняла землю.
+      bel_syomukha: Празь сем дзён воды патопу прыйшлі на зямлю.
+      old_rbo: Спустя семь дней, воды потопа пришли на землю.
+      spbda: Спустя семь дней, воды потопа пришли на землю.
+      gorsky-platonov: "И вошли Моисей и Аарон к Фараону и сделали так, как повелел
+        Иегова: и бросил Аарон жезл свой пред Фараоном и пред рабами его, и стал
+        он змеем."
+      sergievsky: "И было после семи дней: воды потопа пришли на землю."
+      Porfiriy: И было после седми дней, — вода потопная пришла на землю.
+      lev-khv: Спустя семь дней воды потопа пришли на землю.
+      czech: Po sedmi dnech pak pronikly na zemi vody potopy.
+      spanish: Pasados los siete días, las aguas del diluvio cubrieron la tierra.
+      vadim: "И было после семи дней: воды потопа пришли на землю."
+      greek-lxx: καὶ ἐγένετο μετὰ τὰς ἑπτὰ ἡμέρας καὶ τὸ ὕδωρ τοῦ κατακλυσμοῦ ἐγένετο
+        ἐπὶ τῆς γῆς
+      st_text: Чрез семь дней воды потопа пришли на землю.
+  - id: 11127
+    number: 11
+    bookId: 1
+    text: В шестисотый год жизни Ноевой, во второй месяц, в семнадцатый [27] день
+      месяца, в сей день разверзлись все источники великой бездны, и окна
+      небесные отворились;
+    chapter: 7
+    chapterId: 7
+    parallels:
+      - verseId: 11142
+        bookId: 1
+        bookCode: bytie
+        chapter: 8
+        short: Быт:8:2
+      - verseId: 9313
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 7
+        short: 4 Цар:7:2
+      - verseId: 18964
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 12
+        short: Иов:12:15
+      - verseId: 19661
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 38
+        short: Иов:38:8
+      - verseId: 30233
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 8
+        short: Притч:8:29
+    translates:
+      kassian: ""
+      podstr: В шестисотый год в жизни Ноя, второго месяца, [в] седьмой и двадцатый
+        [день] месяца, [в] день этот разверзлись все источники бездны, и потоки
+        неба открылись,
+      csya: "В шестьсотное лето в житии ноеве, втораго месяца, в двадесять седмый день
+        месяца, в день той разверзошася вси источницы бездны, и хляби небесныя
+        отверзошася:"
+      averincev: ""
+      ungerov: В шестисотый год жизни Ноя, во второй месяц, в двадцать седьмой день
+        месяца, в тот день разверзлись все источники бездны и отверстия небесныя
+        открылись.
+      csya_old: "Въ шестьсо1тное лёто въ житіи2 нHевэ, вторaгw мцcа, въ двaдесzть
+        седмы1й де1нь мцcа, въ де1нь то1й разверзо1шасz вси2 и3сто1чницы
+        бе1здны, и3 хл‰би небє1сныz tверзо1шасz:"
+      sovr_rbo: В шестисотый год жизни Ноя, во второй месяц года, в семнадцатый день
+        месяца отверзлись жерла великой пучины, распахнулись небесные створы —
+      latin: "Anno sexcentesimo vitae Noe, mense secundo, septimodecimo die mensis,
+        rupti sunt omnes fontes abyssi magnae, et cataractae caeli apertae
+        sunt:"
+      ukr: Року шостої сотні літ життя Ноєвого, місяця другого, сімнадцятого дня
+        місяця, цього дня відкрилися всі джерела великої безодні, і розчинилися
+        небесні розтвори.
+      nkjv: "In the six hundredth year of Noah's life, in the second month, the
+        seventeenth day of the month, on that day all the fountains of the great
+        deep were broken up, and the windows of heaven were opened. "
+      desnitsky: ""
+      mt: ‫    בִּשְׁנַת שֵׁשׁ־מֵאוֹת שָׁנָה לְחַיֵּי־נֹחַ בַּחֹדֶשׁ הַשֵּׁנִי
+        בְּשִׁבְעָה־עָשָׂר יוֹם לַחֹדֶשׁ בַּיּוֹם הַזֶּה נִבְקְעוּ
+        כָּל־מַעְיְנֹת תְּהוֹם רַבָּה וַאֲרֻבֹּת הַשָּׁמַיִם נִפְתָּחוּ׃ ‬
+      romana: In anul sase sute al vietii lui Noe, in luna a doua, in ziua a douazeci
+        si saptea a lunii acesteia, chiar in acea zi, s-au desfacut toate
+        izvoarele adancului celui mare si s-au deschis jgheaburile cerului;
+      francais: L'an six cent de la vie de Noé, le second mois, le dix-septième jour
+        du mois, en ce jour-là toutes les sources du grand abîme jaillirent, et
+        les écluses des cieux s'ouvrirent.
+      italian: nell'anno seicentesimo della vita di Noè, nel secondo mese, il
+        diciassette del mese, proprio in quello stesso giorno, eruppero tutte le
+        sorgenti del grande abisso e le cateratte del cielo si aprirono.
+      old_georgian: მეექუსასესა წელსა ცხორებასა ნოესსა, მეორესა თთუესა, ოცდამეშჳდესა
+        თთჳსასა, ამას დღესა შინა გამოეცნეს წყარონი უფსკრულისანი და საქანელნი
+        ცისანი განეხუნეს.
+      portuguese: "No ano seiscentos da vida de Noé, no mês segundo, aos dezessete
+        dias do mês, romperam-se todas as fontes\rdo grande abismo, e as janelas
+        do céu se abriram,"
+      polish: "W roku sześćsetnym życia Noego, w drugim miesiącu roku,
+        siedemnastego\rdnia miesiąca, w tym właśnie dniu trysnęły z hukiem
+        wszystkie źródła Wielkiej Otchłani i otworzyły się upusty nieba;"
+      turkish: Nuh altı yüz yaşındayken, o yılın ikinci ayının on yedinci günü
+        enginlerin bütün kaynakları fışkırdı, göklerin kapakları açıldı.
+      nrt: На шестисотый год жизни Ноя, в семнадцатый день второго месяца, прорвались
+        все источники великой бездны, раскрылись окна неба,
+      Macarius: В шестисотом году жизни Ноевой, во втором месяце, в семнадцатый день
+        месяца, в сей день разверзлись все источники великой бездны, и окна
+        небесные отворились.
+      serbian: Кад је било Ноју шест стотина година, те године другога мјесеца,
+        седамнаести дан тога мјесеца, тај дан развалише се сви извори великога
+        бездана, и отворише се уставе небеске;
+      bulgarian: В шестстотната година на Ноевия живот, във втория месец, на
+        седемнайсетия ден (27) от месеца, в тоя ден се раззинаха всички извори
+        на голямата бездна, и окната небесни се отвориха;
+      Filaret: В шестисотом году жизни Ноевой, во втором месяце, в семнадцатый день
+        месяца, в сей день разверзлись все источники великой бездны, и окна
+        небесныя отворились;
+      deutsch: In dem sechshundertsten Jahr des Alters Noahs, am siebzehnten Tage des
+        zweiten Monats, das ist der Tag, da aufbrachen alle Brunnen der großen
+        Tiefe, und taten sich auf die Fenster des Himmels,
+      ukr2: На шістсотім році Ноєвого віку, другого місяця, сімнадцятого дня місяця, -
+        цього дня прорвались усі джерела великої безодні й небесні загати
+        розімкнулись,
+      ukr3: В шести сотьньому роцї Ноягового віку, другого місяця, на сїмнайцятий день
+        місяця, того ж дня, порозверзались усї жерела великої безоднї, і хляби
+        (вікна) небесні повідчинялись.
+      bel_syomukha: На шасьцісотым годзе жыцьця Ноевага, на другім месяцы, на
+        сямнаццаты дзень месяца, у гэты дзень адчыніліся ўсе крыніцы вялікай
+        бездані, і вокны нябесныя адчыніліся;
+      old_rbo: В шестисотом году жизни Ноевой, во втором месяце, в семнадцатый день
+        месяца, в сей день разверзлись все источники великой бездны, и окна
+        небесныя отворились;
+      spbda: В шестисотом году жизни Ноевой, во втором месяце, в семнадцатый день
+        месяца, в сей день разверзлись все источники великой бездны, и окна
+        небесныя отворились;
+      gorsky-platonov: Призвал и Фараон мудрецов и чародеев; и они, тайноведцы
+        египетские, чарами своими сделали тоже.
+      sergievsky: В год шестаго столетия жизни Ноаха, в месяц второй в семьнадцатый
+        день месяца, в день этот пробились источники пучины великой и окна небес
+        открылись;
+      Porfiriy: В шестисотый год жизни Ноя, во вторый месяц, в двадцать седьмый день
+        сего месяца, в день сей проторглись все источники бездны, и хляби
+        небесныя разверзлись.
+      lev-khv: В шестисотом году жизни Ноевой, во втором месяце, в семьнадцатый день
+        месяца, в этот день разверзлись все источники великой бездны, и окна
+        небесныя отворились;
+      czech: V sestistem roce zivota Noeho, sedmnacty den druheho mesice, se provalily
+        vsechny prameny obrovske propastne tune a nebeske propusti se otevrely.
+      spanish: A los seiscientos años de la vida de Noé, el segundo mes, el día
+        diecisiete de él, se rompieron todas las fuentes del abismo, se abrieron
+        las cataratas del cielo,
+      vadim: В год шестаго столетия жизни Ноаха, в месяц второй в семьнадцатый день
+        месяца, в день этот пробились источники пучины великой и окна небес
+        открылись;
+      greek-lxx: ἐν τῷ ἑξακοσιοστῷ ἔτει ἐν τῇ ζωῇ τοῦ Νωε τοῦ δευτέρου μηνός ἑβδόμῃ
+        καὶ εἰκάδι τοῦ μηνός τῇ ἡμέρᾳ ταύτῃ ἐρράγησαν πᾶσαι αἱ πηγαὶ τῆς ἀβύσσου
+        καὶ οἱ καταρράκται τοῦ οὐρανοῦ ἠνεῴχθησαν
+      st_text: В шестисотый год жизни Ноевой, во второй месяц, в семнадцатый [27] день
+        месяца, в сей день разверзлись все источники великой бездны, и окна
+        небесные отворились;
+  - id: 11128
+    number: 12
+    bookId: 1
+    text: и лился на землю дождь сорок дней и сорок ночей.
+    chapter: 7
+    chapterId: 7
+    parallels:
+      - verseId: 34356
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 40
+        short: Сир:40:10
+      - verseId: 8109
+        bookId: 50
+        bookCode: 3a-kniga-ezdry
+        chapter: 3
+        short: 3 Езд:3:9
+    translates:
+      kassian: ""
+      podstr: И сделался дождь на земле сорок дней и сорок ночей.
+      csya: и бысть дождь на землю четыредесять дний и четыредесять нощей.
+      averincev: ""
+      ungerov: И был дождь на земле сорок дней и сорок ночей.
+      csya_old: и3 бы1сть до1ждь на зе1млю четы1редесzть днjй и3 четы1редесzть ноще1й.
+      sovr_rbo: и лился на землю дождь сорок дней и сорок ночей.
+      latin: et facta est pluvia super terram quadraginta diebus et quadraginta
+        noctibus.
+      ukr: І був дощ на землі сорок день і сорок ночей.
+      nkjv: And the rain was on the earth forty days and forty nights.
+      desnitsky: ""
+      mt: ‫    וַיְהִי הַגֶּשֶׁם עַל־הָאָרֶץ אַרְבָּעִים יוֹם וְאַרְבָּעִים לָיְלָה׃ ‬
+      romana: Si a plouat pe pamant patruzeci de zile si patruzeci de nopti.
+      francais: La pluie tomba sur la terre quarante jours et quarante nuits.
+      italian: Cadde la pioggia sulla terra per quaranta giorni e quaranta notti.
+      old_georgian: და იქმნა წჳმა ქუეყანასა ზედა ორმეოც დღე და ორმეოც ღამე.
+      portuguese: e caiu chuva sobre a terra quarenta dias e quarenta noites.
+      polish: przez czterdzieści dni i przez czterdzieści nocy padał deszcz na ziemię.
+      turkish: Yeryüzüne kırk gün kırk gece yağmur yağdı.
+      nrt: и дождь лил на землю сорок дней и сорок ночей.
+      Macarius: И лился на землю дождь сорок дней и сорок ночей.
+      serbian: И удари дажд на земљу за четрдесет дана и четрдесет ноћи.
+      bulgarian: и валя дъжд на земята четирийсет дена и четирийсет нощи.
+      Filaret: так что лился на землю дождь сорок дней и сорок ночей.
+      deutsch: und kam ein Regen auf Erden vierzig Tage und vierzig Nächte.
+      ukr2: і лив дощ на землю - сорок днів і сорок ночей.
+      ukr3: І лило на землю сорок день і сорок ночей.
+      bel_syomukha: і ліў на зямлю дождж сорак дзён і сорак ночаў.
+      old_rbo: И лился на землю дождь сорок дней и сорок ночей.
+      spbda: И лился дождь на землю сорок дней и сорок ночей.
+      gorsky-platonov: Бросили каждый жезл свой, и они стали змеями; и жезл Ааронов
+        поглотил жезлы их.
+      sergievsky: и стал идти дождь на землю сорок дней и сорок ночей.
+      Porfiriy: И был дождь на земле сорок дней и сорок ночей.
+      lev-khv: И был дождь на земле сорок дней и сорок ночей.
+      czech: Nad zemi se strhl lijavec a trval ctyricet dni a ctyricet noci.
+      spanish: y estuvo lloviendo sobre la tierra durante cuarenta días y cuarenta
+        noches.
+      vadim: и стал идти дождь на землю сорок дней и сорок ночей.
+      greek-lxx: καὶ ἐγένετο ὁ ὑετὸς ἐπὶ τῆς γῆς τεσσαράκοντα ἡμέρας καὶ τεσσαράκοντα
+        νύκτας
+      st_text: и лился на землю дождь сорок дней и сорок ночей.
+  - id: 11129
+    number: 13
+    bookId: 1
+    text: В сей самый день вошел в ковчег Ной, и Сим, Хам и Иафет, сыновья Ноевы, и
+      жена Ноева, и три жены сынов его с ними.
+    chapter: 7
+    chapterId: 7
+    parallels:
+      - verseId: 29016
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 14
+        short: Прем:14:6
+    translates:
+      kassian: ""
+      podstr: В день этот вошли Ной, Сим, Хам, Иафет, сыновья Ноя, и жена Ноя и три
+        жены сыновей его с ним в ковчег.
+      csya: В день той вниде ное, сим, хам, иафеф, сынове ноевы, и жена ноева, и три
+        жены сынов его с ним в ковчег.
+      averincev: ""
+      ungerov: В этот день вошли Ной, Сим, Хам, Иафет, сыны Ноевы, и жена Ноева, и три
+        жены сынов его, с ним в ковчег.
+      csya_old: Въ де1нь то1й вни1де нHе, си1мъ, хaмъ, їaфеfъ, сы1нове нHєвы, и3 женA
+        нHева, и3 три2 жєны2 сынHвъ є3гw2 съ ни1мъ въ ковче1гъ.
+      sovr_rbo: В этот день Ной вошел в ковчег, вместе с сыновьями — Симом, Хамом и
+        Яфетом — с женой и женами сыновей,
+      latin: "In articulo diei illius ingressus est Noe, et Sem, et Cham, et Japheth
+        filii ejus; uxor illius, et tres uxores filiorum ejus cum eis in arcam:"
+      ukr: Того саме дня до ковчегу ввійшов Ной, і Сим, і Хам та Яфет, сини Ноєві, і
+        жінка Ноєва, і три невістки його з ними,
+      nkjv: "On the very same day Noah and Noah's sons, Shem, Ham, and Japheth, and
+        Noah's wife and the three wives of his sons with them, entered the ark -
+        "
+      desnitsky: ""
+      mt: ‫    בְּעֶצֶם הַיּוֹם הַזֶּה בָּא נֹחַ וְשֵׁם־וְחָם וָיֶפֶת בְּנֵי־נֹחַ
+        וְאֵשֶׁת נֹחַ וּשְׁלֹשֶׁת נְשֵׁי־בָנָיו אִתָּם אֶל־הַתֵּבָה׃ ‬
+      romana: In ziua aceasta a intrat Noe in corabie si impreuna cu dansul au intrat
+        Sem, Ham si Iafet, fiii lui Noe, femeia lui Noe si cele trei femei ale
+        fiilor lui.
+      francais: "Ce même jour entrèrent dans l'arche Noé, Sem, Cham et Japhet, fils de
+        Noé, la femme de Noé et les trois femmes de ses fils avec eux:"
+      italian: "In quello stesso giorno entrò nell'arca Noè con i figli Sem, Cam e
+        Iafet, la moglie di Noè, le tre mogli dei suoi tre figli:"
+      old_georgian: ამას დღესა შევიდა ნოე, სემ, ქამ და იაფეთ, ძენი ნოესნი, და ცოლი
+        ნოესი, და სამნი ცოლნი ძეთა მისთანი მის თანა კიდობნად.
+      portuguese: "Nesse mesmo dia entrou Noé na arca, e juntamente com ele seus
+        filhos Sem, Cão e Jafé, como também sua\rmulher e as três mulheres de
+        seus filhos,"
+      polish: "I właśnie owego dnia Noe oraz jego synowie, Sem, Cham, Jafet, żona
+        Noego\ri trzy żony jego synów weszli do arki,"
+      turkish: Nuh, oğulları Sam, Ham, Yafet, Nuh'un karısıyla üç gelini tam o gün
+        gemiye bindiler.
+      nrt: В тот самый день и вошли в ковчег Ной, его сыновья Сим, Хам и Иафет, жена
+        Ноя и жены трех его сыновей.
+      Macarius: В сей самый день вошел в ковчег Ной, и сыновья Ноевы, Сим, Хам и
+        Иафет, и жена Ноева, и три жены сынов его с ними.
+      serbian: Тај дан уђе у ковчег Ноје и Сим и Хам и Јафет, синови Нојеви, и жена
+        Нојева и три жене синова његовијех с њима;
+      bulgarian: В същия тоя ден влезе в ковчега Ной, и Сим, Хам и Иафет, синове
+        Ноеви, и жената Ноева, и трите жени на синовете му с тях.
+      Filaret: В сей самый день вошел в ковчег Ной, и сыновья его, Сим, Хам и Иафет, и
+        с ними жена Ноева, и три жены сынов его;
+      deutsch: Eben am selben Tage ging Noah in den Kasten mit Sem, Ham und Japheth,
+        seinen Söhnen, und mit seinem Weibe und seiner Söhne drei Weibern,
+      ukr2: Того ж самого дня ввійшов Ной і Сим, Хам та Яфет, сини Ноя, його жінка і
+        три жінки його синів з ним у ковчег,
+      ukr3: Того дня ввійшов Нояг, Сем, Хам і Яфет, сини Ноягові, і жінка Ноягова і
+        троє жінок синів його з ним у ковчег;
+      bel_syomukha: У гэты самы дзень увайшоў у каўчэг Ной, і Сім, Хам і Яфэт, сыны
+        Ноевыя, і жонка Ноева, і тры жонкі сыноў ягоных зь імі.
+      old_rbo: В сей самый день вошел в ковчег Ной, и сыновья Ноевы, Сим, Хам и Иафет,
+        и жена Ноева, и три жены сынов его с ними,
+      spbda: В сей самый день вошел в ковчег Ной, и Сим, Хам и Иафет, сыновья Ноевы, и
+        жена Ноева, и три жены сынов его с ними.
+      gorsky-platonov: И окрепло сердце Фараона, и не послушал он их, как сказал Иегова.
+      sergievsky: В этот самый день вошел Ноах, и Шем, и Хам и Яфет, сыновья Ноаха, и
+        жена Ноаха и три жены сыновей его, с ним в ящик;
+      Porfiriy: В день сей вошел Ной, Сим, Хам, Иафет, сыны Ноя, и жена Ноя, и три
+        жены сынов его, с ним, в ковчег.
+      lev-khv: В этот самый день вошел в ковчег Ной, и Сим, Хам и Иафет, сыновья
+        Ноевы, и жена Ноева, и три жены сынов его с ними;
+      czech: Prave toho dne vesli Noe i Sem, Cham a Jefet, synove Noeho, i zena Noeho
+        a tri zeny jeho synu s nimi do archy,
+      spanish: Aquel mismo día entraron en el arca Noé y sus hijos, Sem, Cam y Jafet;
+        su mujer y las mujeres de sus tres hijos,
+      vadim: В этот самый день вошел Ноах, и Шем, и Хам и Яфет, сыновья Ноаха, и жена
+        Ноаха и три жены сыновей его, с ним в ящик;
+      greek-lxx: ἐν τῇ ἡμέρᾳ ταύτῃ εἰσῆλθεν Νωε Σημ Χαμ Ιαφεθ υἱοὶ Νωε καὶ ἡ γυνὴ Νωε
+        καὶ αἱ τρεῖς γυναῖκες τῶν υἱῶν αὐτοῦ μετ᾿ αὐτοῦ εἰς τὴν κιβωτόν
+      st_text: В сей самый день вошел в ковчег Ной, и Сим, Хам и Иафет, сыновья Ноевы,
+        и жена Ноева, и три жены сынов его с ними.
+  - id: 11130
+    number: 14
+    bookId: 1
+    text: Они, и все звери [земли] по роду их, и всякий скот по роду его, и все
+      гады, пресмыкающиеся по земле, по роду их, и все летающие по роду их, все
+      птицы, все крылатые,
+    chapter: 7
+    chapterId: 7
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И все звери согласно роду и весь скот согласно роду и всякое
+        пресмыкающееся движущееся по земле согласно роду и всякая птица согласно
+        рода
+      csya: И вси зверие земнии по роду, и вси скоти по роду, и всякий гад движущийся
+        на земли по роду, и всякая птица пернатая по роду своему,
+      averincev: ""
+      ungerov: И все звери земные по роду и все скоты по роду, и всякий гад,
+        движущийся по земле, по роду и всякая птица пернатая, по роду своему.
+      csya_old: И# вси2 ѕвёріе земнjи по ро1ду, и3 вси2 ско1ти по ро1ду, и3 всsкій
+        гaдъ дви1жущійсz на земли2 по ро1ду, и3 всsкаz пти1ца пернaтаz по ро1ду
+        своемY,
+      sovr_rbo: а с ними все звери и скот, вид за видом, и вся живность, снующая по
+        земле, вид за видом, и все птицы — пернатые и крылатые — вид за видом.
+      latin: ipsi et omne animal secundum genus suum, universaque jumenta in genere
+        suo, et omne quod movetur super terram in genere suo, cunctumque
+        volatile secundum genus suum, universae aves, omnesque volucres,
+      ukr: вони та всяка звірина за родом її, і всяка худоба за родом її, і всяке
+        плазуюче, що плазує по землі, за родом його, і всяке птаство за родом
+        його, усяка пташка крилата.
+      nkjv: they and every beast after its kind, all cattle after their kind, every
+        creeping thing that creeps on the earth after its kind, and every bird
+        after its kind, every bird of every sort.
+      desnitsky: ""
+      mt: ‫    הֵמָּה וְכָל־הַחַיָּה לְמִינָהּ וְכָל־הַבְּהֵמָה לְמִינָהּ
+        וְכָל־הָרֶמֶשׂ הָרֹמֵשׂ עַל־הָאָרֶץ לְמִינֵהוּ וְכָל־הָעוֹף לְמִינֵהוּ
+        כֹּל צִפּוֹר כָּל־כָּנָף׃ ‬
+      romana: Din toate soiurile de fiare de pe pamant, din toate soiurile de animale,
+        din toate soiurile de vietati ce misunau pe pamant, din toate soiurile
+        de zburatoare, din toate pasarile, din toate inaripatele
+      francais: eux, et tous les animaux selon leur espèce, tout le bétail selon son
+        espèce, tous les reptiles qui rampent sur la terre selon leur espèce,
+        tous les oiseaux selon leur espèce, tous les petits oiseaux, tout ce qui
+        a des ailes.
+      italian: essi e tutti i viventi secondo la loro specie e tutto il bestiame
+        secondo la sua specie e tutti i rettili che stri — sciano sulla terra
+        secondo la loro specie, tutti i volatili secondo la loro specie, tutti
+        gli uccelli, tutti gli esseri alati.
+      old_georgian: და ყოველნი მჴეცნი ქუეყანისანი ნათესაობით, და ყოველნი ქუეწარმავალნი
+        ნათესაობით, და ყოველნი საცხოვარნი ნათესაობით, და ყოველნი მფრინველნი
+        ნათესაობით მისით, ყოველი მფრინვალე, ყოველი ფრთოსანი.
+      portuguese: "e com eles todo animal segundo a sua espécie, todo o gado segundo a
+        sua espécie, todo réptil que se arrasta\rsobre a terra segundo a sua
+        espécie e toda ave segundo a sua espécie, pássaros de toda qualidade."
+      polish: a wraz z nimi wszelkie gatunki zwierząt, bydła, zwierząt pełzających po
+        ziemi, wszelkiego ptactwa ”i istot ze skrzydłami”.
+      turkish: Onlarla birlikte her tür hayvan -evcil hayvanların, sürüngenlerin,
+        kuşların, uçan yaratıkların her türü- gemiye bindi.
+      nrt: "С ними вошли все виды животных: дикие звери, домашний скот, все
+        пресмыкающиеся, все птицы, все крылатые существа."
+      Macarius: Они и все звери по роду их, и всякий скот по роду его, и все гады,
+        пресмыкающиеся по земле, по роду их, и все птицы по роду их, все
+        летающие, все пернатые.
+      serbian: Они и свакојаке звијери по врстама својим, и свакојака стока по врстама
+        својим, и што се год миче по земљи по врстама својим, и птице све по
+        врстама својим, и што год лети и има крила;
+      bulgarian: Те, и всички зверове (земни) според рода им, и всякакъв добитък
+        според рода му, и всички гадове, които се влекат по земята, според рода
+        им, и всички хвъркати според рода им, всички птици, всички крилати,
+      Filaret: и все звери по роду их, и всякой скот по роду его, и все гады,
+        пресмыкающиеся по земле, по роду их, и все птицы по роду их, все
+        летающия, все пернатыя.
+      deutsch: dazu allerlei Getier nach seiner Art, allerlei Vieh nach seiner Art,
+        allerlei Gewürm, das auf Erden kriecht, nach seiner Art und allerlei
+        Vögel nach ihrer Art, alles was fliegen konnte, alles, was Fittiche
+        hatte;
+      ukr2: вони - і всякого роду звірі, всякого роду скот, всякого роду земні
+        плазуни, всіляке птаство і все, що має крила.
+      ukr3: Вони і усяка животина по свойму роду, і всяка скотина по кодлу, і усяке
+        лазюче поповза, що човгає по землї по кодлу свойму, і всяке птаство
+        пернате.
+      bel_syomukha: Яны, і ўся жывёла паводле роду іхняга, і ўсякае быдла паводле роду
+        яго, і ўсе гады, паўзуны па зямлі, паводле роду іхняга, і ўсё лётнае
+        паводле роду ягонага, усе птушкі, усе крылатыя.
+      old_rbo: Они, и все звери [земли] по роду их, и всякий скот по роду его, и все
+        гады, пресмыкающиеся по земле, по роду их, и все птицы по роду их, все
+        летающия, все пернатыя.
+      spbda: Они и все звери по роду их, и всякой скот по роду его, и все гады,
+        пресмыкающиеся по земле, по роду их, и все летающия по роду их, все
+        птицы, все крилатыя.
+      gorsky-platonov: "И сказал Иегова Моисею: отягчилось сердце Фараона, не захотел
+        он отпустить народ."
+      sergievsky: они, и всякое животное по роду их и всякий скот породу их и всякое
+        ползучее, ползающее по земле, породу их, и всякое летучее, по роду их,
+        всякая птица, у кого только крылья.
+      Porfiriy: И все звери по роду, и все скоты по роду, и все ползучее, движущееся
+        по земле по роду, и все летучее по роду его,
+      lev-khv: Они, и все звери по роду их, и всякой скот по роду его, и все гады,
+        пресмыкающиеся по земле, по роду их, и все летающия по роду их, все
+        птицы, все крилатыя.
+      czech: oni i vsechna zver rozmanitych druhu, vsechen dobytek rozmanitych druhu,
+        vsichni plazici se zemeplazi rozmanitych druhu i vsechno ptactvo
+        rozmanitych druhu, kazdy ptak, kazdy okridlenec.
+      spanish: y con ellos todos los vivientes según su especie; toda clase de
+        ganados, de reptiles que se arrastra sobre la tierra; toda ave, según su
+        especie; y todo pájaro alado.
+      vadim: они, и всякое животное по роду их и всякий скот породу их и всякое
+        ползучее, ползающее по земле, породу их, и всякое летучее, по роду их,
+        всякая птица, у кого только крылья.
+      greek-lxx: καὶ πάντα τὰ θηρία κατὰ γένος καὶ πάντα τὰ κτήνη κατὰ γένος καὶ πᾶν
+        ἑρπετὸν κινούμενον ἐπὶ τῆς γῆς κατὰ γένος καὶ πᾶν πετεινὸν κατὰ γένος
+      st_text: Они, и все звери [земли] по роду их, и всякий скот по роду его, и все
+        гады, пресмыкающиеся по земле, по роду их, и все летающие по роду их,
+        все птицы, все крылатые,
+  - id: 11131
+    number: 15
+    bookId: 1
+    text: и вошли к Ною в ковчег по паре [мужеского пола и женского] от всякой
+      плоти, в которой есть дух жизни;
+    chapter: 7
+    chapterId: 7
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: вошли к Ною в ковчег, два два от всякой плоти, в которой есть дух жизни.
+      csya: "внидоша к ною в ковчег два два, мужеский пол и женский, от всякия плоти,
+        в нейже есть дух животный:"
+      averincev: ""
+      ungerov: Вошли к Ною в ковчег по два, мужескаго пола и женскаго, от всякой
+        плоти, в коей есть дух жизни.
+      csya_old: "внидо1ша къ нHю въ ковче1гъ двA двA, мyжескій по1лъ и3 же1нскій, t
+        всsкіz пло1ти, въ не1йже є4сть дyхъ живо1тный:"
+      sovr_rbo: Все они пришли к нему в ковчег, по паре от всех, в ком есть дыхание
+        жизни,
+      latin: ingressae sunt ad Noe in arcam, bina et bina ex omni carne, in qua erat
+        spiritus vitae.
+      ukr: І ввійшли до Ноя, до ковчегу по двоє із кожного тіла, що в нім дух життя.
+      nkjv: And they went into the ark to Noah, two by two, of all flesh in which is
+        the breath of life.
+      desnitsky: ""
+      mt: ‫    וַיָּבֹאוּ אֶל־נֹחַ אֶל־הַתֵּבָה שְׁנַיִם שְׁנַיִם מִכָּל־הַבָּשָׂר
+        אֲשֶׁר־בּוֹ רוּחַ חַיִּים׃ ‬
+      romana: Si din tot trupul, in care se afla duh de viata, au intrat cu Noe in
+        corabie, perechi, perechi, parte barbateasca si parte femeiasca.
+      francais: Ils entrèrent dans l'arche auprès de Noé, deux à deux, de toute chair
+        ayant souffle de vie.
+      italian: Vennero dunque a Noè nell'arca, a due a due, di ogni carne in cui è il
+        soffio di vita.
+      old_georgian: და შევიდა კიდობნად ნოეს თანა ორ-ორი ყოვლისაგან ჴორცისა, რომლისა
+        თანა არს სული სიცოცხლისაჲ.
+      portuguese: Entraram para junto de Noé na arca, dois a dois de toda a carne em
+        que havia espírito de vida.
+      polish: "Wszelkie istoty, w których było tchnienie życia, weszły po parze do
+        Noego\rdo arki."
+      turkish: Soluk alan her tür canlı çifter çifter Nuh'un yanına gelip gemiye bindi.
+      nrt: Все, в ком дышит жизнь, пришли к Ною и вошли в ковчег парами,
+      Macarius: По паре от всякой плоти, в которой есть дух жизни, вошло к Ною в ковчег.
+      serbian: Дође к Ноју у ковчег по двоје од свакога тијела у којем има жива душа.
+      bulgarian: влязоха в ковчега при Ноя по две (от мъжки и женски пол) от всяка
+        плът, в която има жива душа;
+      Filaret: По паре от всякой плоти, в которой есть дух жизни, вошло к Ною в ковчег.
+      deutsch: das ging alles zu Noah in den Kasten paarweise, von allem Fleisch,
+        darin ein lebendiger Geist war.
+      ukr2: Увійшло до Ноя в ковчег по парі всякого створіння, в якому віддих життя.
+      ukr3: Поввіходили до Нояга у ковчег по парі усякого тїла, що в йому є живий дух.
+      bel_syomukha: І ўвайшлі да Ноя ў каўчэг па пары ад усякай плоці, у якой ёсьць
+        дух жыцьця;
+      old_rbo: По паре [мужескаго пола и женскаго] от всякой плоти, в которой есть дух
+        жизни, вошло к Ною в ковчег.
+      spbda: И вошли к Ною в ковчег по паре от всякой плоти, в которой есть дух жизни.
+      gorsky-platonov: "Поди к Фараону по утру: вот он выходит к воде, а ты стань,
+        чтобы встретиться с ним на берегу реки, и жезл, который превращался в
+        змея, возьми в руку твою."
+      sergievsky: И пришло к Ноаху в ящик по двое от всякаго тела, в каком дух жизни.
+      Porfiriy: вошли к Ною в ковчег, два-два, самец и самка, всякой плоти, в которой
+        есть дух жизни.
+      lev-khv: И вошли к Ною в ковчег по паре от всякой плоти, в которой есть дух жизни.
+      czech: Vesli k Noemu do archy vzdy par po paru ze vseho tvorstva, v nemz je duch
+        zivota.
+      spanish: Entraron con Noé en el arca, de dos en dos, de toda carne que tiene
+        hálito de vida.
+      vadim: И пришло к Ноаху в ящик по двое от всякаго тела, в каком дух жизни.
+      greek-lxx: εἰσῆλθον πρὸς Νωε εἰς τὴν κιβωτόν δύο δύο ἀπὸ πάσης σαρκός ἐν ᾧ ἐστιν
+        πνεῦμα ζωῆς
+      st_text: и вошли к Ною в ковчег по паре [мужеского пола и женского] от всякой
+        плоти, в которой есть дух жизни;
+  - id: 11132
+    number: 16
+    bookId: 1
+    text: и вошедшие [к Ною в ковчег] мужеский и женский пол всякой плоти вошли, как
+      повелел ему [Господь] Бог. И затворил Господь [Бог] за ним [ковчег].
+    chapter: 7
+    chapterId: 7
+    parallels:
+      - verseId: 11113
+        bookId: 1
+        bookCode: bytie
+        chapter: 6
+        short: Быт:6:19
+      - verseId: 11114
+        bookId: 1
+        bookCode: bytie
+        chapter: 6
+        short: Быт:6:20
+    translates:
+      kassian: ""
+      podstr: И входящие существо мужского пола и существо женского пола из всякой
+        плоти вошли, как приказал Бог Ною. И закрыл Господь Бог извне его
+        ковчег.
+      csya: "и входящая мужеский пол и женский от всякия плоти, внидоша к ною в
+        ковчег, якоже заповеда Господь Бог ною: и затвори Господь Бог ковчег
+        отвне его."
+      averincev: ""
+      ungerov: И вошедшие, мужеский пол и женский от всякой плоти, вошли к Ною в
+        ковчег, как заповедал Господь Бог Ною. И затворил Господь Бог ковчег со
+        вне его.
+      csya_old: "и3 вход‰щаz мyжескій по1лъ и3 же1нскій t всsкіz пло1ти, внидо1ша къ
+        нHю въ ковче1гъ, ћкоже заповёда гDь бг7ъ нHю: и3 затвори2 гDь бг7ъ
+        ковче1гъ tвнЁ є3гw2."
+      sovr_rbo: от каждого вида самец и самка, — как повелел Ною Бог. И Господь
+        затворил за Ноем дверь ковчега.
+      latin: "Et quae ingressa sunt, masculus et femina ex omni carne introierunt,
+        sicut praeceperat ei Deus: et inclusit eum Dominus deforis."
+      ukr: А те, що ввійшло, самець і самиця з кожного тіла ввійшли, як звелів йому
+        Бог. І замкнув Господь за ним ковчега.
+      nkjv: So those that entered, male and female of all flesh, went in as God had
+        commanded him; and the Lord shut him in.
+      desnitsky: ""
+      mt: ‫    וְהַבָּאִים זָכָר וּנְקֵבָה מִכָּל־בָּשָׂר בָּאוּ כַּאֲשֶׁר צִוָּה
+        אֹתוֹ אֱלֹהִים וַיִּסְגֹּר יְהוָה בַּעֲדוֹ׃ ‬
+      romana: Si cele ce au intrat cu Noe in corabie din tot trupul au intrat parte
+        barbateasca si parte femeiasca, precum poruncise Dumnezeu lui Noe. $i a
+        inchis Domnul Dumnezeu corabia pe din afara.
+      francais: Il en entra, mâle et femelle, de toute chair, comme Dieu l'avait
+        ordonné à Noé. Puis l'Éternel ferma la porte sur lui.
+      italian: "Quelli che venivano, maschio e femmina d'ogni carne, entrarono come
+        gli aveva comandato Dio: il Signore chiuse la porta dietro di lui."
+      old_georgian: და შემავალი მამალი და დედალი ყოვლისაგან ჴორცისა შევიდა, ვითარცა
+        ამცნო ღმერთმან ნოეს.
+      portuguese: "E os que entraram eram macho e fêmea de toda a carne, como Deus lhe
+        tinha ordenado; e o Senhor o fechou\rdentro."
+      polish: "Gdy już weszły do arki samiec i samica każdej istoty żywej, jak Bóg
+        rozkazał\rNoemu, Pan zamknął za nim [drzwi]."
+      turkish: Gemiye giren hayvanlar Tanrı'nın Nuh'a buyurduğu gibi erkek ve dişiydi.
+        RAB Nuh'un ardından kapıyı kapadı.
+      nrt: самец и самка, как велел Ною Бог. И тогда Господь затворил за ним дверь.
+      Macarius: И вошедшие были мужеский и женский пол всякой плоти, так, как повелел
+        ему Бог. Наконец Иегова затворил за ним.
+      serbian: Мушко и женско од свакога тијела уђоше, као што бјеше Бог заповједио
+        Ноју; па Господ затвори за њим.
+      bulgarian: и които влязоха (при Ноя в ковчега), мъжки и женски пол от всяка плът
+        влязоха, както му беше заповядал (Господ) Бог. И Господ (Бог) затвори
+        след него (ковчега).
+      Filaret: И между вошедшими был мужеский и женский пол всех животных, так как Бог
+        повелел ему. Наконец Иегова затворил за ним.
+      deutsch: Und das waren Männlein und Weiblein von allerlei Fleisch, und gingen
+        hinein, wie denn Gott ihm geboten hatte. Und der Herr schloß hinter ihm
+        zu.
+      ukr2: Ті, що ввійшли, були самець і самиця з усякого створіння, як велів йому
+        Бог, і Господь зачинив його.
+      ukr3: І входячі були самець і самиця од усякого тїла, як заповідав йому Бог. І
+        зачинив Господь Бог ковчег ізнадвору.
+      bel_syomukha: і тыя, што ўвайшлі, мужчынскі і жаночы пол усякай плоці ўвайшлі,
+        як наказаў яму Гасподзь Бог. І зачыніў Гасподзь за ім.
+      old_rbo: Вошел [к Ною в ковчет] мужеский и женский пол всякой плоти, так как
+        повелел ему [Господь] Бог. Наконец Господь [Бог] затворил за ним
+        [ковчег].
+      spbda: И вошедшие (к Ною в ковчег) мужеский и женский пол всякой плоти вошли,
+        как повелел ему Бог. И затворил Господь за ним (ковчег).
+      gorsky-platonov: "И скажи ему: Иегова, Бог евреев, послал меня к тебе сказать:
+        отпусти народ Мой, чтобы он совершил служение Мне в пустыне; и вот, не
+        послушался ты доселе."
+      sergievsky: И входящие, самец и самка от всякаго тела, вошли, так как повелел им
+        Бог; и затворил их Сущий в него.
+      Porfiriy: И входящие самец и самка всякой плоти вошли, как повелел Бог Ною. И
+        затворил Господь Бог ковчег снаружи.
+      lev-khv: И вошедшие мужеский и женский пол всякой плоти вошли, как повелел ему
+        Бог. И затворил Господь за ним ковчег.
+      czech: Vchazeli, samec a samice ze vseho tvorstva, jak mu Buh prikazal. A
+        Hospodin za nim zavrel.
+      spanish: De toda carne entraron macho y hembra, como se lo había mandado Dios, y
+        tras él cerró Yavé la puerta.
+      vadim: И входящие, самец и самка от всякаго тела, вошли, так как повелел им Бог;
+        и затворил их Сущий в него.
+      greek-lxx: καὶ τὰ εἰσπορευόμενα ἄρσεν καὶ θῆλυ ἀπὸ πάσης σαρκὸς εἰσῆλθεν καθὰ
+        ἐνετείλατο ὁ Θεὸς τῷ Νωε καὶ ἔκλεισεν Κύριος ὁ Θεὸς ἔξωθεν αὐτοῦ τὴν
+        κιβωτόν
+      st_text: и вошедшие [к Ною в ковчег] мужеский и женский пол всякой плоти вошли,
+        как повелел ему [Господь] Бог. И затворил Господь [Бог] за ним [ковчег].
+  - id: 11133
+    number: 17
+    bookId: 1
+    text: И продолжалось на земле наводнение сорок дней [и сорок ночей], и
+      умножилась вода, и подняла ковчег, и он возвысился над землею;
+    chapter: 7
+    chapterId: 7
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И сделался потоп сорок дней и сорок ночей на земле, и была умножена вода
+        и подняла ковчег, и вознёсся от земли.
+      csya: "И бысть потоп четыредесять дний и четыредесять нощей на земли, и умножися
+        вода и взя ковчег, и возвысися от земли:"
+      averincev: ""
+      ungerov: И был потоп сорок дней и сорок ночей на земле, и увеличилась вода, и
+        подняла ковчег, и высоко стояла над землею.
+      csya_old: "И# бы1сть пото1пъ четы1редесzть днjй и3 четы1редесzть ноще1й на
+        земли2, и3 ўмно1жисz водA и3 взS ковче1гъ, и3 возвы1сисz t земли2:"
+      sovr_rbo: Сорок дней длился потоп. Когда вода стала прибывать, она приподняла
+        ковчег, и ковчег поплыл.
+      latin: "Factumque est diluvium quadraginta diebus super terram: et multiplicatae
+        sunt aquae, et elevaverunt arcam in sublime a terra."
+      ukr: І був потоп сорок день на землі, і збільшилась вода, і понесла ковчега. І
+        він високо став над землею.
+      nkjv: Now the flood was on the earth forty days. The waters increased and lifted
+        up the ark, and it rose high above the earth.
+      desnitsky: ""
+      mt: ‫    וַיְהִי הַמַּבּוּל אַרְבָּעִים יוֹם עַל־הָאָרֶץ וַיִּרְבּוּ הַמַּיִם
+        וַיִּשְׂאוּ אֶת־הַתֵּבָה וַתָּרָם מֵעַל הָאָרֶץ׃ ‬
+      romana: Potopul a tinut pe pamant patruzeci de zile si patruzeci de nopti si s-a
+        inmultit apa si a ridicat corabia si aceasta s-a inaltat deasupra
+        pamantului.
+      francais: Le déluge fut quarante jours sur la terre. Les eaux crûrent et
+        soulevèrent l'arche, et elle s'éleva au-dessus de la terre.
+      italian: "Il diluvio durò sulla terra quaranta giorni: le acque crebbero e
+        sollevarono l'arca che si innalzò sulla terra."
+      old_georgian: და დაჴშა უფალმან ღმერთმან გარეგნით მისსა კიდობანი, და იქმნა რღუნა
+        ორმეოც დღე და ორმეოც ღამე ქუეყანასა ზედა, და განმრავლდა წყალი და აღიღო
+        კიდობანი და აღმაღლდა ზედა ქუეყანისა.
+      portuguese: "Veio o dilúvio sobre a terra durante quarenta dias; e as águas
+        cresceram e levantaram a arca, e ela se elevou por\rcima da terra."
+      polish: "A potop trwał na ziemi czterdzieści dni i wody wezbrały, i podniosły
+        arkę\rponad ziemię."
+      turkish: Tufan kırk gün sürdü. Çoğalan sular gemiyi yerden yukarı kaldırdı.
+      nrt: Потоп был на земле сорок дней, и воды, прибывая, подняли ковчег высоко над
+        землей.
+      Macarius: И продолжалось на земле наводнение сорок дней, и умножились воды, и
+        подняли ковчег, и он возвысился над землею.
+      serbian: И би потоп на земљи за четрдесет дана; и вода дође и узе ковчег, и
+        подиже га од земље.
+      bulgarian: И наводнението продължава на земята четирийсет дена (и четирийсет
+        нощи), и водата се умножи, подемна ковчега, и той се дигна над земята;
+      Filaret: "И когда продолжалось на земле наводнение сорок дней: то умножилась
+        вода, и подняла ковчег, и он возвысился над землею."
+      deutsch: Da kam die Sintflut vierzig Tage auf Erden, und die Wasser wuchsen und
+        hoben den Kasten auf und trugen ihn empor über die Erde.
+      ukr2: І був потоп на землі сорок днів; води, прибуваючи, підняли ковчег, і він
+        звишився над землею.
+      ukr3: І затоплювало землю сорок день, і прибувало води, і підіймало ковчег у
+        гору над землею.
+      bel_syomukha: І доўжылася на зямлі паводка сорак дзён, і памножылася вада і
+        падняўся каўчэг, і ён узвысіўся над зямлёю;
+      old_rbo: "И когда продолжалось на земле наводнение сорок дней [и сорок ночей]:
+        то умножилась вода, и подняла ковчег, и он носился над землею."
+      spbda: И продолжалось на земле наводнение сорок дней, и умножилась вода, и
+        подняла ковчег, и он возвысился над землею.
+      gorsky-platonov: "Так сказал Иегова: из сего узнаешь, что Я — Иегова: вот ударяю
+        я жезлом, который в руке моей, по воде, которая в реке, и превратится
+        она в кровь."
+      sergievsky: И был потоп сорок дней на земле и увеличились воды и понесли ящик, и
+        поднялся он над землей.
+      Porfiriy: И был потоп на земле сорок дней и сорок ночей, и увеличилась вода и
+        подняла ковчег, и возвысился (он) над землею.
+      lev-khv: И было наводнение сорок дней на земле, и умножилась вода, и подняла
+        ковчег, и он возвысился над землею.
+      czech: Potopa na zemi trvala ctyricet dni, vod pribyvalo, az nadnesly archu,
+        takze se zdvihla od zeme.
+      spanish: Diluvió durante cuarenta días sobre la tierra, crecieron las aguas y
+        levantaron el arca, que se alzó sobre la tierra.
+      vadim: И был потоп сорок дней на земле и увеличились воды и понесли ящик, и
+        поднялся он над землей.
+      greek-lxx: καὶ ἐγένετο ὁ κατακλυσμὸς τεσσαράκοντα ἡμέρας καὶ τεσσαράκοντα νύκτας
+        ἐπὶ τῆς γῆς καὶ ἐπληθύνθη τὸ ὕδωρ καὶ ἐπῆρεν τὴν κιβωτόν καὶ ὑψώθη ἀπὸ
+        τῆς γῆς
+      st_text: И продолжалось на земле наводнение сорок дней [и сорок ночей], и
+        умножилась вода, и подняла ковчег, и он возвысился над землею;
+  - id: 11134
+    number: 18
+    bookId: 1
+    text: вода же усиливалась и весьма умножалась на земле, и ковчег плавал по
+      поверхности вод.
+    chapter: 7
+    chapterId: 7
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И усилилась вода и умножалась очень на земле, и носился ковчег над водой.
+      csya: и возмогаше вода, и умножашеся зело на земли, и ношашеся ковчег верху
+        воды.
+      averincev: ""
+      ungerov: И прибывала вода и увеличивалась быстро по земле, и носился ковчег
+        поверх воды.
+      csya_old: и3 возмогaше водA, и3 ўмножaшесz ѕэлw2 на земли2, и3 ношaшесz ковче1гъ
+        верхY воды2.
+      sovr_rbo: Вода все прибывала и затопляла землю. Ковчег плавал,
+      latin: "Vehementer enim inundaverunt, et omnia repleverunt in superficie terrae:
+        porro arca ferebatur super aquas."
+      ukr: І прибула вода, і сильно збільшилась вона на землі, і пливав ковчег на
+        поверхні води.
+      nkjv: The waters prevailed and greatly increased on the earth, and the ark moved
+        about on the surface of the waters.
+      desnitsky: ""
+      mt: ‫    וַיִּגְבְּרוּ הַמַּיִם וַיִּרְבּוּ מְאֹד עַל־הָאָרֶץ וַתֵּלֶךְ הַתֵּבָה
+        עַל־פְּנֵי הַמָּיִם׃ ‬
+      romana: Si a crescut apa mereu si s-a inmultit foarte tare pe pamant si corabia
+        se purta pe deasupra apei.
+      francais: Les eaux grossirent et s'accrurent beaucoup sur la terre, et l'arche
+        flotta sur la surface des eaux.
+      italian: Le acque divennero poderose e crebbero molto sopra la terra e l'arca
+        galleggiava sulle acque.
+      old_georgian: და დაიპყრო წყალმან და განმრავლდებოდა ფრიად ქუეყანასა ზედა. და ზე
+        მოაქუნდა კიდობანი ზედა კერძო წყლისა.
+      portuguese: Prevaleceram as águas e cresceram grandemente sobre a terra; e a
+        arca vagava sobre as águas.
+      polish: "Kiedy przybywało coraz więcej wody i poziom jej podniósł się wysoko
+        ponad\rziemią, arka płynęła po powierzchni wód."
+      turkish: Sular yükseldi, çoğaldıkça çoğaldı; gemi suyun üzerinde yüzmeye başladı.
+      nrt: Воды все прибывали и настолько поднялись, что ковчег поплыл.
+      Macarius: И усиливались воды, и весьма умножались на земле, и ковчег плавал по
+        поверхности воды.
+      serbian: И навали вода, и уста јако по земљи, и ковчег стаде пловити водом.
+      bulgarian: а водата се усилваше и твърде се умножаваше на земята, и ковчегът
+        плуваше върху водата.
+      Filaret: Вода же усиливалас и умножалась больше на земле; и ковчег плавал по
+        поверхности вод.
+      deutsch: Also nahm das Gewässer überhand und wuchs sehr auf Erden, daß der
+        Kasten auf dem Gewässer fuhr.
+      ukr2: Води ж зростали, і прибуло їх дуже багато на землю, а ковчег носився по
+        верху вод.
+      ukr3: І впотужнювалась вода, і прибувала велико на землї, і носився ковчег по
+        водї.
+      bel_syomukha: а вада мацнела і вельмі множылася на зямлі, і каўчэг плаваў па
+        паверхні водаў.
+      old_rbo: Вода же усиливалась, и весьма умножалась на земле; и ковчег плавал по
+        поверхности вод.
+      spbda: Вода же усиливалась, и весьма умножалась на земле; и ковчег плавал по
+        поверхности вод.
+      gorsky-platonov: И рыба, которая в реке, помрет и протухнет река, и противно
+        будеть египтянам пить воду из реки.
+      sergievsky: И поднялись воды, и очень увеличились над землей, и пошел ящик по
+        лицу вод.
+      Porfiriy: И прибывала вода и разливалась быстро по земле; и носился ковчег по воде.
+      lev-khv: И усиливалась вода и весьма умножалась на земле; и плавал ковчег по
+        поверхности вод.
+      czech: Vody zmohutnely a stale jich na zemi pribyvalo. Archa plula po hladine
+        vod.
+      spanish: Siguieron creciendo, creciendo, las aguas sobre la tierra, y el arca
+        flotaba sobre la superficie de las aguas.
+      vadim: И поднялись воды, и очень увеличились над землей, и пошел ящик по лицу
+        вод.
+      greek-lxx: καὶ ἐπεκράτει τὸ ὕδωρ καὶ ἐπληθύνετο σφόδρα ἐπὶ τῆς γῆς καὶ ἐπεφέρετο
+        ἡ κιβωτὸς ἐπάνω τοῦ ὕδατος
+      st_text: вода же усиливалась и весьма умножалась на земле, и ковчег плавал по
+        поверхности вод.
+  - id: 11135
+    number: 19
+    bookId: 1
+    text: И усилилась вода на земле чрезвычайно, так что покрылись все высокие горы,
+      какие есть под всем небом;
+    chapter: 7
+    chapterId: 7
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Же вода усилилась очень очень на земле и покрыла все горы высокие,
+        которые были под небом;
+      csya: "Вода же возмогаше зело зело на земли: и покры вся горы высокия, яже бяху
+        под небесем:"
+      averincev: ""
+      ungerov: И чрезвычайно прибывала вода на земле, и покрыла все горы высокия,
+        которыя были под небом.
+      csya_old: "Водa же возмогaше ѕэлw2 ѕэлw2 на земли2: и3 покры2 вс‰ го1ры высHкіz,
+        ±же бsху под8 небесе1мъ:"
+      sovr_rbo: а вода поднималась все выше, пока не покрыла самые высокие горы, какие
+        есть под небом.
+      latin: "Et aquae praevaluerunt nimis super terram: opertique sunt omnes montes
+        excelsi sub universo caelo."
+      ukr: І дуже-дуже вода на землі прибула, і покрились усі гори високі, що під
+        небом усім.
+      nkjv: And the waters prevailed exceedingly on the earth, and all the high hills
+        under the whole heaven were covered.
+      desnitsky: ""
+      mt: ‫    וְהַמַּיִם גָּבְרוּ מְאֹד מְאֹד עַל־הָאָרֶץ וַיְכֻסּוּ כָּל־הֶהָרִים
+        הַגְּבֹהִים אֲשֶׁר־תַּחַת כָּל־הַשָּׁמָיִם׃ ‬
+      romana: Si a sporit apa pe pamant atat de mult, incat a acoperit toti muntii cei
+        inalti, care erau sub cer.
+      francais: Les eaux grossirent de plus en plus, et toutes les hautes montagnes
+        qui sont sous le ciel entier furent couvertes.
+      italian: Le acque si innalzarono sempre più sopra la terra e coprirono tutti i
+        monti più alti che sono sotto tutto il cielo.
+      old_georgian: ხოლო წყალი განძლიერდა ფრიად-ფრიად ქუეყანასა ზედა და დაფარნა
+        ყოველნი მთანი მაღალნი, რომელნი იყვნეს ქუეშე ცისა.
+      portuguese: "As águas prevaleceram excessivamente sobre a terra; e todos os
+        altos montes que havia debaixo do céu foram\rcobertos."
+      polish: Wody bowiem podnosiły się coraz bardziej nad ziemię, tak że zakryły
+        wszystkie góry wysokie, które były pod niebem.
+      turkish: Sular öyle yükseldi ki, yeryüzündeki bütün yüksek dağlar su altında
+        kaldı.
+      nrt: Они так высоко поднялись на земле, что покрыли все высокие горы под небом.
+      Macarius: И воды усиливались на земле более и более, и покрылись все высокие
+        горы, какие есть под всем небом.
+      serbian: И наваљиваше вода све већма по земљи, и покри сва највиша брда што су
+        под цијелијем небом.
+      bulgarian: "И водата се усили твърде много на земята, тъй че се покриха всички
+        високи планини, каквито има под цялото небе:"
+      Filaret: И вода усиливалас на земле более, и более, так что покрылись все
+        высокия горы, какия есть под всем небом.
+      deutsch: Und das Gewässer nahm überhand und wuchs so sehr auf Erden, daß alle
+        hohen Berge unter dem ganzen Himmel bedeckt wurden.
+      ukr2: І зросли води на землі сильно дуже й укрили всі найвищі гори, що були під
+        небом.
+      ukr3: І впотужнювалась вода на землї несказанно, і поняла всї високі гори, попід
+        небесами.
+      bel_syomukha: "І ўзмацнела вада на зямлі незвычайна, так што пакрыліся ўсе
+        высокія горы, якія ёсьць пад усім небам:"
+      old_rbo: И вода усиливалась на земле более и более, так что покрылись все
+        высокия горы, какия есть под всем небом.
+      spbda: И усилилась вода на земле чрезвычайно, так что покрылись все высокия
+        горы, какия есть под всем небом.
+      gorsky-platonov: "И сказал Иегова Моисею: скажи Аарону: возьми жезл твой и
+        простри руку твою на воды египтян: на реки их, на каналы их, и на пруды
+        их, и на всякое хранилище вод их, и будут кровью, и будет кровь по всей
+        земле египетской, и в деревах и в камнях."
+      sergievsky: И воды поднялись очень над землей и закрыли все горы высокия, какия
+        под небесами.
+      Porfiriy: А вода прибывала быстро, быстро, на земле, и покрыла все горы высокия,
+        кои были под небом.
+      lev-khv: И вода усилилась чрезвычайно на земле, так что покрылись все высокия
+        горы, какия есть под всем небом.
+      czech: Vody na zemi prevelice zmohutnely, az prikryly vsechny vysoke hory, ktere
+        jsou pod nebesy.
+      spanish: Tanto crecieron las aguas, que cubrieron los altos montes de debajo del
+        cielo.
+      vadim: И воды поднялись очень над землей и закрыли все горы высокия, какия под
+        небесами.
+      greek-lxx: τὸ δὲ ὕδωρ ἐπεκράτει σφόδρα σφοδρῶς ἐπὶ τῆς γῆς καὶ ἐπεκάλυψεν πάντα
+        τὰ ὄρη τὰ ὑψηλά ἃ ἦν ὑποκάτω τοῦ οὐρανοῦ
+      st_text: И усилилась вода на земле чрезвычайно, так что покрылись все высокие
+        горы, какие есть под всем небом;
+  - id: 11136
+    number: 20
+    bookId: 1
+    text: на пятнадцать локтей поднялась над ними вода, и покрылись [все высокие]
+      горы.
+    chapter: 7
+    chapterId: 7
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: десять [и] пять локтей сверх возвысилась вода и покрыла все горы высокие.
+      csya: пятьнадесять лактей горе возвысися вода, и покры вся горы высокия.
+      averincev: ""
+      ungerov: На пятнадцать локтей вверх поднялась вода и покрыла все высокия горы.
+      csya_old: пzтьнaдесzть лакте1й горЁ возвы1сисz водA, и3 покры2 вс‰ го1ры высHкіz.
+      sovr_rbo: На пятнадцать локтей поднялась над ними вода, и горы исчезли под водой.
+      latin: Quindecim cubitis altior fuit aqua super montes, quos operuerat.
+      ukr: На п'ятнадцять ліктів угору вода прибула, і покрилися гори.
+      nkjv: The waters prevailed fifteen cubits upward, and the mountains were
+        covered.
+      desnitsky: ""
+      mt: ‫    חֲמֵשׁ עֶשְׂרֵה אַמָּה מִלְמַעְלָה גָּבְרוּ הַמָּיִם וַיְכֻסּוּ
+        הֶהָרִים׃ ‬
+      romana: Si a acoperit apa toti muntii cei inalti, ridicandu-se cu cincisprezece
+        coti mai sus de ei.
+      francais: Les eaux s'élevèrent de quinze coudées au-dessus des montagnes, qui
+        furent couvertes.
+      italian: Le acque superarono in altezza di quindici cubiti i monti che avevano
+        ricoperto.
+      old_georgian: ათხუთმეტ წყრთა ზედა კერძო ამაღლდა წყალი და დაფარნა ყოველნი მთანი.
+      portuguese: Quinze côvados acima deles prevaleceram as águas; e assim foram cobertos.
+      polish: Wody się więc podniosły na piętnaście łokci ponad góry i zakryły je.
+      turkish: Yükselen sular dağları on beş arşın aştı.
+      nrt: Воды поднялись и покрыли все горы выше, чем на пятнадцать локтей.
+      Macarius: Еще выше, на пятнадцать локтей поднялись воды, когда покрылись горы.
+      serbian: Петнаест лаката дође вода изнад брда, пошто их покри.
+      bulgarian: водата възлезе петнайсет лакти над тях, и (всички високи) планини се
+        покриха.
+      Filaret: Еще поднялась вода на пятнадцать лактей, когда покрылись горы.
+      deutsch: Fünfzehn Ellen hoch ging das Gewässer über die Berge, die bedeckt wurden.
+      ukr2: Води піднялись угору на п'ятнадцять ліктів і закрили гори.
+      ukr3: Прибула понад ними вода на пятнайцять локот, і поняла всї високі гори.
+      bel_syomukha: на пятнаццаць локцяў паднялася над імі вада, і пакрыліся горы.
+      old_rbo: На пятнадцать локтей поднялась вода, когда покрылись [все высокия] горы.
+      spbda: На пятнадцать локтей поднялась над ними вода, и покрылись горы.
+      gorsky-platonov: "И сделали так Моисей и Аарон, как повелел Иегова: и поднял он
+        жезл, и ударил по воде, которая в реке, пред глазами Фараона и пред
+        глазами рабов его, и превратилась вся вода, которая в реке, в кровь;"
+      sergievsky: Пятнадцать локтей над ними поднялись воды и скрылись горы.
+      Porfiriy: На пятнадцать локтей вверх возвысилась вода, и покрыла все горы высокия.
+      lev-khv: На пятнадцать локтей поднялась над ними вода, и покрылись горы.
+      czech: Do vysky patnacti loket vystoupily vody, kdyz byly prikryty hory.
+      spanish: Quince codos subieron las aguas por encima de ellos.
+      vadim: Пятнадцать локтей над ними поднялись воды и скрылись горы.
+      greek-lxx: δέκα πέντε πήχεις ἐπάνω ὑψώθη τὸ ὕδωρ καὶ ἐπεκάλυψεν πάντα τὰ ὄρη τὰ
+        ὑψηλά
+      st_text: на пятнадцать локтей поднялась над ними вода, и покрылись [все высокие]
+        горы.
+  - id: 11137
+    number: 21
+    bookId: 1
+    text: И лишилась жизни всякая плоть, движущаяся по земле, и птицы, и скоты, и
+      звери, и все гады, ползающие по земле, и все люди;
+    chapter: 7
+    chapterId: 7
+    parallels:
+      - verseId: 8527
+        bookId: 49
+        bookCode: 3a-kniga-makkavejskaa
+        chapter: 2
+        short: 3 Мак:2:4
+    translates:
+      kassian: ""
+      podstr: И умерла всякая плоть двигающаяся на земле [из] птиц и [из] скота и [из]
+        зверей и всякое пресмыкающееся двигающееся на земле и всякий человек.
+      csya: И умре всякая плоть движущаяся по земли птиц и скотов и зверей, и всякий
+        гад движущийся на земли, и всякий человек,
+      averincev: ""
+      ungerov: И умерла всякая плоть, движущаяся по земле, птицы, и скоты, и звери, и
+        всякий гад движущийся по земле, и всякий человек.
+      csya_old: И# ќмре всsкаz пло1ть дви1жущаzсz по земли2 пти1цъ и3 скотHвъ и3
+        ѕвэре1й, и3 всsкій гaдъ дви1жущійсz на земли2, и3 всsкій человёкъ,
+      sovr_rbo: "И погибли тогда все, кто жил на земле: и птицы, и скот, и звери, и
+        все твари, какими была полна земля, и все люди."
+      latin: "Consumptaque est omnis caro quae movebatur super terram, volucrum,
+        animantium, bestiarum, omniumque reptilium, quae reptant super terram:
+        universi homines,"
+      ukr: "І вимерло всяке тіло, що рухається на землі: серед птаства, і серед
+        скотини, і серед звірини, і серед усіх плазунів, що плазують по землі, і
+        кожна людина."
+      nkjv: "And all flesh died that moved on the earth: birds and cattle and beasts
+        and every creeping thing that creeps on the earth, and every man."
+      desnitsky: ""
+      mt: ‫    וַיִּגְוַע כָּל־בָּשָׂר הָרֹמֵשׂ עַל־הָאָרֶץ בָּעוֹף וּבַבְּהֵמָה
+        וּבַחַיָּה וּבְכָל־הַשֶּׁרֶץ הַשֹּׁרֵץ עַל־הָאָרֶץ וְכֹל הָאָדָם׃ ‬
+      romana: "Si a murit tot trupul ce se misca pe pamant: pasarile, animalele,
+        fiarele, toate vietatile ce misunau pe pamant si toti oamenii."
+      francais: Tout ce qui se mouvait sur la terre périt, tant les oiseaux que le
+        bétail et les animaux, tout ce qui rampait sur la terre, et tous les
+        hommes.
+      italian: Perì ogni essere vivente che si muove sulla terra, uccelli, bestiame e
+        fiere e tutti gli esseri che brulicano sul la terra e tutti gli uomini.
+      old_georgian: და მოკუდა ყოველი ჴორცი მოკუდავი ქუეყანასა ზედა და ყოველი კაცი.
+      portuguese: "Pereceu toda a carne que se movia sobre a terra, tanto ave como
+        gado, animais selvagens, todo réptil que se\rarrasta sobre a terra, e
+        todo homem."
+      polish: "Wszystkie istoty poruszające się na ziemi z ptactwa, bydła i innych
+        zwierząt\ri z wszelkich jestestw, których było wielkie mnóstwo na ziemi,
+        wyginęły wraz\rze wszystkimi ludźmi."
+      turkish: ""
+      nrt: Все живое, что двигалось по земле, погибло – птицы, скот, дикие звери, все
+        пресмыкающиеся, и все люди.
+      Macarius: И лишилась жизни всякая плоть, двигавшаяся по земле, птицы, и скот, и
+        звери, и все гады, ползавшие по земле, и все люди.
+      serbian: Тада изгибе свако тијело штосе мицаше на земљи, птице и стока, и
+        звијери и све што гамиже по земљи, и сви људи.
+      bulgarian: "И се лиши от живот всяка плът, която се движи по земята: и птици, и
+        добитък, и зверове, и всички гадове, които пълзят по земята, и всички
+        човеци;"
+      Filaret: "Так погибла всякая плоть, двигавшаяся по земле: птицы, и скоты, и
+        звери, и все гады, ползавшие по земле, и все люди."
+      deutsch: Da ging alles Fleisch unter, das auf Erden kriecht, an Vögeln, an Vieh,
+        an Tieren und an allem, was sich regt auf Erden, und alle Menschen.
+      ukr2: "Всяке створіння, що рухається на землі загинуло: птаство, скот, звірі,
+        всі плазуни, що повзають на землі, і всі люди."
+      ukr3: І повиздихало всяке тїло, що двигалось по землї, і з птаства і з скотини,
+        і з зьвіра, і з усякого лазючого поповза по землї і всяка людина.
+      bel_syomukha: І зьнежыцьцёвела ўсякая плоць, якая рухаецца па зямлі, і птушкі і
+        быдла, і зьвяры і ўсе гады, якія поўзаюць па зямлі, і ўсе людзі;
+      old_rbo: И лишилась жизни всякая плоть, двигавшаяся по земле, птицы, и скот, и
+        звери, и все гады, ползавшие по земле, и все люди.
+      spbda: И лишилась жизни всякая плоть, движущаяся по земле, и птицы, и скоты, и
+        звери, и все гады, ползающие по земле, и все люди.
+      gorsky-platonov: И рыба, которая в реке, померла, и протухла река, и не могли
+        египтяне пить воду из реки, и стала она кровью по всей земле египетской.
+      sergievsky: Издохло всякое тело, ползучее по земле, летучее и скот, и животное,
+        и всякий гад, кишащий по земле, и всякий человек.
+      Porfiriy: И умерла всякая плоть, движущаяся на земле, птицы и скоты и звери, и
+        все ползучее, движущееся на земле, и всякий человек.
+      lev-khv: "И лишилась жизни всякая плоть, движущаяся по земле: и птицы, и скоты,
+        и звери, и все гады, ползающие по земле, и все люди."
+      czech: A zahynulo vsechno tvorstvo, ktere se na zemi pohybuje, ptactvo, dobytek
+        i zver a take vsechna na zemi se hemzici havet, i kazdy clovek.
+      spanish: Pereció toda carne que se arrastra sobre la tierra, las aves, las
+        bestias, los vivientes todos que pululan sobre la tierra y todos los
+        hombres.
+      vadim: Издохло всякое тело, ползучее по земле, летучее и скот, и животное, и
+        всякий гад, кишащий по земле, и всякий человек.
+      greek-lxx: καὶ ἀπέθανεν πᾶσα σὰρξ κινουμένη ἐπὶ τῆς γῆς τῶν πετεινῶν καὶ τῶν
+        κτηνῶν καὶ τῶν θηρίων καὶ πᾶν ἑρπετὸν κινούμενον ἐπὶ τῆς γῆς καὶ πᾶς
+        ἄνθρωπος
+      st_text: И лишилась жизни всякая плоть, движущаяся по земле, и птицы, и скоты, и
+        звери, и все гады, ползающие по земле, и все люди;
+  - id: 11138
+    number: 22
+    bookId: 1
+    text: все, что имело дыхание духа жизни в ноздрях своих на суше, умерло.
+    chapter: 7
+    chapterId: 7
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И всё, сколькое имеет дыхание жизни, и всякий, который был на суше, умер.
+      csya: и вся елика имут дыхание жизни, и все еже бе на суши умре.
+      averincev: ""
+      ungerov: И все имеющее дух жизни и все, что было на суше, умерло.
+      csya_old: и3 вс‰ є3ли6ка и4мутъ дыхaніе жи1зни, и3 все2 є4же бЁ на сyши ќмре.
+      sovr_rbo: Все, в чьих ноздрях было дыхание жизни, все обитатели суши, — все умерли.
+      latin: et cuncta, in quibus spiraculum vitae est in terra, mortua sunt.
+      ukr: Усе, що в ніздрях його дух життя, з усього, що на суходолі вимерло було.
+      nkjv: All in whose nostrils was the breath of the spirit of life, all that was
+        on the dry land, died.
+      desnitsky: ""
+      mt: ‫    כֹּל אֲשֶׁר נִשְׁמַת־רוּחַ חַיִּים בְּאַפָּיו מִכֹּל אֲשֶׁר בֶּחָרָבָה
+        מֵתוּ׃ ‬
+      romana: Toate cele de pe uscat, cate aveau suflare de viata in narile lor, au
+        murit.
+      francais: Tout ce qui avait respiration, souffle de vie dans ses narines, et qui
+        était sur la terre sèche, mourut.
+      italian: Ogni essere che ha un alito di vita nelle narici, cioè quanto era sulla
+        terra asciutta morì.
+      old_georgian: და ყოველი, რაოდენსა აქუნდა სული სიცოცხლისაჲ, და ყოველი, რაოდენი
+        იყო ჴმელსა ზედა, მოკუდა.
+      portuguese: Tudo o que tinha fôlego do espírito de vida em suas narinas, tudo o
+        que havia na terra seca, morreu.
+      polish: Wszystkie istoty, w których nozdrzach było ożywiające tchnienie życia,
+        wszystkie, które żyły na lądzie, zginęły.
+      turkish: Yeryüzünde yaşayan bütün canlılar yok oldu; kuşlar, evcil ve yabanıl
+        hayvanlar, sürüngenler, insanlar, soluk alan bütün canlılar öldü.
+      nrt: Все на суше, в чьих ноздрях было дыхание жизни, умерло;
+      Macarius: Все, что имело дыхание духа жизни в ноздрях своих на суше, померло.
+      serbian: Све што имаше душу живу у носу, све што бијаше на суху, помрије.
+      bulgarian: всичко на сушата, що имаше дихание за живот в ноздрите си, умря.
+      Filaret: Все, чтó имело дыхание духа жизни в ноздрях своих на суше, померло.
+      deutsch: Alles, was einen lebendigen Odem hatte auf dem Trockenen, das starb.
+      ukr2: Все, що має віддих життя в ніздрях та що живе на суші, згинуло.
+      ukr3: Усе, в чого було диханнє і все, що було на сусї, повиздихало.
+      bel_syomukha: усё, што мела дыханьне духу жыцьця ў ноздрах сваіх на сушы, памерла.
+      old_rbo: Все, что имело дыхание духа жизни в ноздрях своих на суше, померло.
+      spbda: Все, что имело дыхание духа жизни в ноздрях своих на суше, умерло.
+      gorsky-platonov: И сделали тоже тайноведцы египетские чарами своими и затвердело
+        сердце Фараона и не послушался он их, как сказал Иегова.
+      sergievsky: Все, у чего дыханье духа жизни в ноздрях, все что в сухости, — умерло.
+      Porfiriy: И все, что имеет дыхание жизни, и всякий, кто был на суше, умер.
+      lev-khv: Все, чтó имело дыхание духа жизни в ноздрях своих, все, чтó на суше,
+        умерло.
+      czech: Vsechno, co melo v chripich dech ducha zivota, cokoli bylo na suche zemi,
+        pomrelo.
+      spanish: Todo cuanto tenía hálito de vida en sus narices y todo cuanto había
+        sobre la tierra murió.
+      vadim: Все, у чего дыханье духа жизни в ноздрях, все что в сухости, — умерло.
+      greek-lxx: καὶ πάντα ὅσα ἔχει πνοὴν ζωῆς καὶ πᾶς ὃς ἦν ἐπὶ τῆς ξηρᾶς ἀπέθανεν
+      st_text: все, что имело дыхание духа жизни в ноздрях своих на суше, умерло.
+  - id: 11139
+    number: 23
+    bookId: 1
+    text: Истребилось всякое существо, которое было на поверхности [всей] земли; от
+      человека до скота, и гадов, и птиц небесных, - все истребилось с земли,
+      остался только Ной и что <i>было</i> с ним в ковчеге.
+    chapter: 7
+    chapterId: 7
+    parallels:
+      - verseId: 28919
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 10
+        short: Прем:10:4
+      - verseId: 25615
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 24
+        short: Мф:24:39
+      - verseId: 6697
+        bookId: 58
+        bookCode: 2oe-poslanie-ap-petra
+        chapter: 3
+        short: 2 Пет:3:6
+    translates:
+      kassian: ""
+      podstr: И погибла всякая высота, которая была на лице всей земли, от человека до
+        скота и пресмыкающихся и птиц неба, и погибли от земли; и остался один
+        Ной и которые с ним в ковчеге.
+      csya: "И потребися всякое востание, еже бяше на лицы всея земли, от человека
+        даже до скота и гадов и птиц небесных, и потребишася от земли: и оста
+        ное един, и иже с ним в ковчезе."
+      averincev: ""
+      ungerov: И истреблено было все живущее, что было на лице всей земли, от человека
+        даже до — скота, и — гадов, и — птиц небесных, — истреблено было с
+        земли. И остался один Ной и бывшие с ним в ковчеге.
+      csya_old: "И# потреби1сz всsкое востaніе, є4же бsше на лицы2 всеS земли2, t
+        человёка дaже до скотA и3 гадHвъ и3 пти1цъ небе1сныхъ, и3 потреби1шасz t
+        земли2: и3 њстA нHе є3ди1нъ, и3 и5же съ ни1мъ въ ковче1зэ."
+      sovr_rbo: Все, что было на земле, — и люди, и скот, и всякая живность, и птицы
+        небесные — все было сметено с лица земли. Уцелел лишь Ной и те, кто был
+        с ним в ковчеге.
+      latin: "Et delevit omnem substantiam quae erat super terram, ab homine usque ad
+        pecus, tam reptile quam volucres caeli: et deleta sunt de terra.
+        Remansit autem solus Noe, et qui cum eo erant in arca."
+      ukr: І винищив Бог усяку істоту на поверхні землі, від людини аж до скотини, аж
+        до плазуна, і аж до птаства небесного, вони стерлись з землі. І зостався
+        тільки Ной та те, що з ним у ковчезі було.
+      nkjv: "So He destroyed all living things which were on the face of the ground:
+        both man and cattle, creeping thing and bird of the air. They were
+        destroyed from the earth. Only Noah and those who were with him in the
+        ark remained alive."
+      desnitsky: ""
+      mt: ‫    וַיִּמַח אֶת־כָּל־הַיְקוּם אֲשֶׁר עַל־פְּנֵי הָאֲדָמָה מֵאָדָם
+        עַד־בְּהֵמָה עַד־רֶמֶשׂ וְעַד־עוֹף הַשָּׁמַיִם וַיִּמָּחוּ מִן־הָאָרֶץ
+        וַיִשָּׁאֶר‪‬ אַךְ־נֹחַ וַאֲשֶׁר אִתּוֹ בַּתֵּבָה׃ ‬
+      romana: Si asa s-a stins toata fiinta care se afla pe fata a tot pamantul, de la
+        om pana la dobitoc si pana la taratoare si pana la pasarile cerului,
+        toate s-au stins de pe pamant, si a ramas numai Noe si ce era cu el in
+        corabie.
+      francais: "Tous les êtres qui étaient sur la face de la terre furent exterminés,
+        depuis l'homme jusqu'au bétail, aux reptiles et aux oiseaux du ciel: ils
+        furent exterminés de la terre. Il ne resta que Noé, et ce qui était avec
+        lui dans l'arche."
+      italian: "Così fu sterminato ogni essere che era sulla terra: con gli uomini,
+        gli animali domestici, i rettili e gli uccelli del cielo; essi furono
+        sterminati dalla terra e rimase solo Noè e chi stava con lui nell'arca."
+      old_georgian: და აღჴოცა ყოველი აღმდგომი,რომელი იყო პირსა ყოვლისა ქუეყანისასა,
+        დაშთა მხოლოდ ნოე და მისთანანი,რომელნი იყუნეს კიდობანსა შინა.
+      portuguese: "Assim foram exterminadas todas as criaturas que havia sobre a face
+        da terra, tanto o homem como o gado, o\rréptil, e as aves do céu; todos
+        foram exterminados da terra; ficou somente Noé, e os que com ele estavam
+        na arca."
+      polish: "I tak Bóg wygubił doszczętnie wszystko, co istniało na ziemi, od
+        człowieka\rdo bydła, zwierząt pełzających i ptactwa powietrznego;
+        wszystko zostało doszczętnie wytępione z ziemi. Pozostał tylko Noe i to,
+        co z nim było w arce."
+      turkish: "RAB insanlardan evcil hayvanlara, sürüngenlerden kuşlara dek bütün
+        canlıları yok\retti, yeryüzündeki her şey silinip gitti. Yalnız Nuh'la
+        gemidekiler kaldı.\rSular yüz elli gün boyunca yeryüzünü kapladı."
+      nrt: "всякое живое существо на земле было уничтожено: люди и звери,
+        пресмыкающиеся и птицы небесные. Остался только Ной и те, кто были с ним
+        в ковчеге."
+      Macarius: "И истребилось все, что существовало на поверхности земли, от человека
+        до скота и гада и птицы небесной, все истребилось с земли: и остался
+        только Ной, и что было с ним в ковчеге."
+      serbian: И истријеби се свако тијело живо на земљи, и људи и стока што год
+        гамиже и птице небеске, све, велим, истријеби се са земље; само Ноје
+        оста и што с њим бјеше у ковчегу.
+      bulgarian: Изтреби се всичко, що съществуваше по лицето (на цялата) земя; от
+        човек до скот, гадове и птици небесни - всичко биде изтребено от земята;
+        остана само Ной, и каквото беше с него в ковчега.
+      Filaret: "Истребилос все, чтó существовало на поверхности земли, от человека до
+        скота, и гадов, и птиц небесных, все истребилось с земли: остался только
+        Ной, и чтó было с ним в ковчеге."
+      deutsch: Also ward vertilgt alles, was auf dem Erdboden war, vom Menschen an bis
+        auf das Vieh und das Gewürm und auf die Vögel unter dem Himmel; das ward
+        alles von der Erde vertilgt. Allein Noah blieb übrig und was mit ihm in
+        dem Kasten war.
+      ukr2: "Ось так вигинуло всяке створіння, що було на землі: люди, скот, плазуни і
+        птаство піднебесне - їх вигублено з землі; остався тільки Ной та й ті,
+        що були з ним у ковчезі."
+      ukr3: І погинуло все живе, що було на земному лицї, погинуло, і людина і скотина
+        і лазюче поповза, і птаство небесне, і вигублено все те на землї, і
+        зоставсь Нояг один да те, що було з ним у ковчезї.
+      bel_syomukha: "Зьнішчылася кожная істота, якая была на паверхні; ад чалавека да
+        быдла, і гадаў і птушак нябесных, усё зьнішчылася зь зямлі: застаўся
+        толькі Ной, і што было зь ім у каўчэзе."
+      old_rbo: "Истребилось все, что существовало на поверхности [всей] земли; и
+        человеки, и скот, и гады, и птицы небесныя истреблены с земли: остался
+        только Ной, и что было с ним в ковчеге."
+      spbda: "Истребилось всякое существо, которое было на поверхности земли; от
+        человека до скота, и гадов и птиц небесных истребились они с земли:
+        остался только Ной, и что было с ним в ковчеге."
+      gorsky-platonov: И обратился Фараон и пошел в дом свой, и непринял к сердцу
+        своему и этого.
+      sergievsky: И стер он всякое существо, какое на лице почвы, от человека до
+        скота, от ползучаго до летучей небес; и стерлись они с земли, остался
+        только Ноах и те, которые с ним в ящике.
+      Porfiriy: И истребилось все живущее, что было на лице (всей) земли, от человека
+        до скота, и пресмыкающихся, и птиц небесных, и исчезло с земли. И
+        оставлен один Ной и бывшие с ним в ковчеге.
+      lev-khv: "И истребилось всякое существо, которое <i>было</i> на поверхности
+        земли; от человека до скота, и гадов, и птиц небесных, истребились они с
+        земли: остался только Ной, и чтó с ним в ковчеге."
+      czech: "Tak smetl Buh vse, co povstalo, co bylo na povrchu zeme: od lidi az po
+        zvirata, po plazy a nebeske ptactvo, vsechno bylo smeteno ze zeme.
+        Zachovan byl pouze Noe a to, co s nim bylo v arse."
+      spanish: Y exterminó a todos los seres que había sobre la superficie de la
+        tierra, desde el hombre a la bestia, y los reptiles y las aves del
+        cielo, quedando sólo Noé y los que con él estaban en el arca.
+      vadim: И стер он всякое существо, какое на лице почвы, от человека до скота, от
+        ползучаго до летучей небес; и стерлись они с земли, остался только Ноах
+        и те, которые с ним в ящике.
+      greek-lxx: καὶ ἐξήλειψεν πᾶν τὸ ἀνάστημα ὃ ἦν ἐπὶ προσώπου πάσης τῆς γῆς ἀπὸ
+        ἀνθρώπου ἕως κτήνους καὶ ἑρπετῶν καὶ τῶν πετεινῶν τοῦ οὐρανοῦ καὶ
+        ἐξηλείφθησαν ἀπὸ τῆς γῆς καὶ κατελείφθη μόνος Νωε καὶ οἱ μετ᾿ αὐτοῦ ἐν
+        τῇ κιβωτῷ
+      st_text: Истребилось всякое существо, которое было на поверхности [всей] земли;
+        от человека до скота, и гадов, и птиц небесных, - все истребилось с
+        земли, остался только Ной и что <i>было</i> с ним в ковчеге.
+  - id: 11140
+    number: 24
+    bookId: 1
+    text: Вода же усиливалась на земле сто пятьдесят дней.
+    chapter: 7
+    chapterId: 7
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И возвышалась вода на земле дней сто пятьдесят.
+      csya: И возвысися вода над землею дний сто пятьдесят.
+      averincev: ""
+      ungerov: И стояла вода высоко на земле сто пятьдесят дней.
+      csya_old: И# возвы1сисz водA над8 земле1ю днjй сто2 пzтьдесsтъ.
+      sovr_rbo: Наводнение продолжалось сто пятьдесят дней.
+      latin: Obtinueruntque aquae terram centum quinquaginta diebus.
+      ukr: І прибувала вода на землі сто і п'ятдесят день.
+      nkjv: And the waters prevailed on the earth one hundred and fifty days.
+      desnitsky: ""
+      mt: ‫    וַיִּגְבְּרוּ הַמַּיִם עַל־הָאָרֶץ חֲמִשִּׁים וּמְאַת יוֹם׃ ‬
+      romana: Iar apa a crescut mereu pe pamant, o suta cincizeci de zile.
+      francais: Les eaux furent grosses sur la terre pendant cent cinquante jours.
+      italian: Le acque restarono alte sopra la terra centocinquanta giorni.
+      old_georgian: და ამაღლდა წყალი ქუეყანასა ზედა ასერგასის დღე.
+      portuguese: E prevaleceram as águas sobre a terra cento e cinqüenta dias.
+      polish: A wody stale się podnosiły na ziemi przez sto pięćdziesiąt dni.
+      turkish: Yarattığım her canlıyı yeryüzünden silip atacağım.»
+      nrt: Потоп набирал силу на земле сто пятьдесят дней.
+      Macarius: И поднимались воды над землею сто пятьдесять дней.
+      serbian: И стајаше вода поврх земље сто и педесет дана.
+      bulgarian: А водата се издигаше над земята сто и петдесет дена.
+      Filaret: Вода же поднималась над землею сто пятьдесят дней.
+      deutsch: Und das Gewässer stand auf Erden hundertundfünfzig Tage.
+      ukr2: І панували води на землі сто п'ятдесят днів.
+      ukr3: І впотужнювалась вода на землї сто і пятдесять день.
+      bel_syomukha: А вада мацнела на зямлі сто пяцьдзясят дзён.
+      old_rbo: Вода же поднималась над землею сто пятьдесят дней.
+      spbda: Вода же усиливалась на земле сто пятьдесят дней.
+      gorsky-platonov: И стали все египтяне около реки откапывать воду для питья,
+        потому что не могли пить воду реки.
+      sergievsky: И подымались воды над землей сто-пятьдесят дней.
+      Porfiriy: И возвышалась вода на земле сто пятьдесят дней.
+      lev-khv: И усиливалась вода на земле сто пятьдесят дней.
+      czech: Mohutne staly vody na zemi po sto padesat dnu.
+      spanish: Ciento cincuenta días estuvieron altas las aguas sobre la tierra.
+      vadim: И подымались воды над землей сто-пятьдесят дней.
+      greek-lxx: καὶ ὑψώθη τὸ ὕδωρ ἐπὶ τῆς γῆς ἡμέρας ἑκατὸν πεντήκοντα
+      st_text: Вода же усиливалась на земле сто пятьдесят дней.

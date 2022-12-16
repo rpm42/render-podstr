@@ -1,0 +1,1555 @@
+id: 488
+number: 12
+bookId: 21
+verseCount: 25
+title: Глава 12
+verses:
+  - id: 18950
+    number: 1
+    bookId: 21
+    text: "И отвечал Иов и сказал:"
+    chapter: 12
+    chapterId: 488
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Отвещав же иов, рече:"
+      averincev: "И отвечал Иов, и сказал:"
+      ungerov: "И отвечал Иов, и сказал:"
+      csya_old: "Tвэщaвъ же јwвъ, рече2:"
+      sovr_rbo: "Так отвечал Иов:"
+      latin: "Respondens autem Job, dixit:"
+      ukr: "А Йов відповів та й сказав:"
+      nkjv: "Then Job answered and said:"
+      desnitsky: "ТАК ОТВЕЧАЛ ИОВ:"
+      mt: ‫   וַיַּעַן אִיּוֹב וַיֹּאמַר׃ ‬
+      romana: "Atunci Iov a raspuns si a zis:"
+      francais: "Job prit la parole et dit:"
+      italian: "Giobbe allora rispose:"
+      old_georgian: "მიუგო იობ და თქუა:"
+      portuguese: "Então Jó respondeu, dizendo:"
+      polish: "Hiob na to odpowiedział:"
+      turkish: "Eyüp şöyle yanıtladı:"
+      nrt: "Тогда Иов ответил:"
+      Macarius: "И начал Иов, и сказал:"
+      serbian: "А Јов одговори и рече:"
+      bulgarian: "Отговори Иов и рече:"
+      deutsch: "Da antwortete Hiob und sprach:"
+      ukr2: "Заговорив Іов і мовив:"
+      ukr3: "І відповів Йов і сказав:"
+      bel_syomukha: І адказваў Ёў і сказаў;
+      spbda: "И отвечал Иов, и сказал:"
+      lev-khv: "И отвечал Иов, и сказал:"
+      czech: "Job na to odpovedel:"
+      spanish: "Respondió Job, diciendo:"
+      greek-lxx: ὑπολαβὼν δὲ Ιωβ λέγει
+      st_text: "И отвечал Иов и сказал:"
+  - id: 18951
+    number: 2
+    bookId: 21
+    text: подлинно, <i>только</i> вы люди, и с вами умрет мудрость!
+    chapter: 12
+    chapterId: 488
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: убо вы ли едини есте человецы, или с вами скончается премудрость?
+      averincev: '"Воистину, люди, - вы одни, и вместе с вами мудрость умрет!'
+      ungerov: Ужели вы одни только — люди, или с вами умрет мудрость?
+      csya_old: ќбw вы1 ли є3ди1ни є3сте2 человёцы, и3ли2 съ вaми скончaетсz премyдрость;
+      sovr_rbo: «Вот люди так люди! Мудрость жива, лишь пока вы живы?
+      latin: Ergo vos estis soli homines, et vobiscum morietur sapientia?
+      ukr: Справді, то ж ви тільки люди, і мудрість із вами помре!...
+      nkjv: '"No doubt you are the people, And wisdom will die with you!'
+      desnitsky: Вот люди так люди! Мудрость жива, лишь пока вы живы?
+      mt: ‫   אָמְנָם כִּי אַתֶּם־עָם וְעִמָּכֶם תָּמוּת חָכְמָה׃ ‬
+      romana: '"Cu adevarat numai voi sunteti intelepti si intelepciunea va muri o
+        data cu voi.'
+      francais: On dirait, en vérité, que le genre humain c'est vous, Et qu'avec vous
+        doit mourir la sagesse.
+      italian: È vero, sì, che voi siete la voce del popolo e la sapienza morirà con
+        voi!
+      old_georgian: აწ თქუენცა სამე კაცნივე ხართა, ანუ თქუენ თანა აღესრულოს სიბრძნე?
+      portuguese: Sem dúvida vós sois o povo, e convosco morrerá a sabedoria.
+      polish: ”Prawda, jesteście potężni, a z wami już mądrość zaginie...
+      turkish: «Kendinizi birşey sandığınız belli, Ama bilgelik de sizinle birlikte
+        ölecek!
+      nrt: – Воистину, только вы люди, и мудрость умрет вместе с вами!
+      Macarius: То есть, что вы народ весь, и с вами умрет премудрость!
+      serbian: Да, ви сте људи, и с вама ће умријети мудрост.
+      bulgarian: наистина, само вие сте човеци, и с вас ще умре мъдростта!
+      deutsch: Ja, ihr seid die Leute, mit euch wird die Weisheit sterben!
+      ukr2: «Справді лише ви люди, | і з вами умре мудрість!
+      ukr3: Справдї так! Тілько ви одні люде, і з вами вмре разом і мудрість!
+      bel_syomukha: а ўжо ж такі, толькі вы людзі, і з вамі памрэ мудрасьць!
+      spbda: "Конечно, только вы люди,\r\rи с вами умрет мудрость!"
+      lev-khv: Конечно, <i><i>только</i></i> вы люди, и с вами умрет мудрость.
+      czech: '"Vy jste vskutku ten pravy lid, s vami vymre moudrost!'
+      spanish: <<Cierto que sois vosotros la humanidad toda, y con vosotros va a morir
+        todo el saber.
+      greek-lxx: εἶτα ὑμεῖς ἐστε ἄνθρωποι ἦ μεθ᾿ ὑμῶν τελευτήσει σοφία
+      st_text: подлинно, <i>только</i> вы люди, и с вами умрет мудрость!
+  - id: 18952
+    number: 3
+    bookId: 21
+    text: И у меня <i>есть</i> сердце, как у вас; не ниже я вас; и кто не знает того
+      же?
+    chapter: 12
+    chapterId: 488
+    parallels:
+      - verseId: 18976
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 13
+        short: Иов:13:2
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И у мене сердце есть якоже и у вас.
+      averincev: Но у меня есть ум, как у вас, - и кто же не знает того, что вы?
+      ungerov: И у меня есть сердце, как и у вас!
+      csya_old: И# ў менє2 се1рдце є4сть ћкоже и3 ў вaсъ.
+      sovr_rbo: Но ведь и у меня есть разум, я ничем вас не хуже — да и кто же всего
+        этого не знает?
+      latin: Et mihi est cor sicut et vobis, nec inferior vestri sum; quis enim haec
+        quae nostis ignorat?
+      ukr: Таж і я маю розум, як ви, я не нижчий від вас! І в кого немає такого, як
+        це?
+      nkjv: But I have understanding as well as you; I am not inferior to you. Indeed,
+        who does not know such things as these?
+      desnitsky: Но ведь и у меня есть разум, я ничем вас не хуже – да и кто же всего
+        этого не знает?
+      mt: ‫   גַּם־לִי לֵבָב כְּמוֹכֶם לֹא־נֹפֵל אָנֹכִי מִכֶּם וְאֶת־מִי־אֵין
+        כְּמוֹ־אֵלֶּה׃ ‬
+      romana: Dar si eu am minte ca voi si nu sunt mai prejos decat voi si cine nu
+        cunoaste lucrurile pe care mi le-ati spus?
+      francais: J'ai tout aussi bien que vous de l'intelligence, moi, Je ne vous suis
+        point inférieur; Et qui ne sait les choses que vous dites?
+      italian: Anch'io però ho senno come voi, e non sono da meno di voi; chi non sa
+        cose simili?
+      old_georgian: რამეთუ ჩემიცა გული თქუენებრივე არს და არა უუგნურეს ვარ თქუენსა,
+      portuguese: Mas eu tenho entendimento como, vos; eu não vos sou inferior. Quem
+        não sabe tais coisas como essas?
+      polish: "I ja mam rozsądek jak wy, ”nie ustępuję wam w niczym”. Komu te
+        rzeczy\rnieznane?"
+      turkish: "Sizin kadar benim de aklım var, Sizden aşağı kalmam.\rKim bilmez
+        bunları?"
+      nrt: Но у меня есть ум, как у вас; я ничем не хуже вас, да и кто же всего этого
+        не знает?
+      Macarius: И у меня, как у вас, сердце есть; я не ниже вас; и у кого не найдется
+        такое нечто?
+      serbian: И ја имам срце као и ви, нити сам гори од вас; и у кога нема тога?
+      bulgarian: И у мене има сърце, както у вас; не съм по-долен от вас; и кой не
+        знае това същото?
+      deutsch: Ich habe so wohl ein Herz als ihr und bin nicht geringer denn ihr; und
+        wer ist, der solches nicht wisse?
+      ukr2: Є й у мене розум, як у вас, | нічим я від вас не гірший! | Та й хто не
+        знає того?
+      ukr3: Але ж і в мене є серце, як у вас, не стою я позаду; та й хто ж не знає
+        сього самого?
+      bel_syomukha: І ў мяне ёсьць сэрца, як у вас; ня ніжэйшы я за вас; і хто ня
+        ведае таго самага.
+      spbda: "И у меня есть сердце, как у вас;\r\rне ниже я вас;\r\rи у кого не
+        найдется нечто в томже роде?"
+      lev-khv: И у меня <i><i>есть</i></i> сердце, как у вас; не ниже я вас; и у кого
+        не найдется подобнаго этим разсуждениям вашим?
+      czech: Ale ja mam take rozum jako vy, nejsem zpozdilejsi nez vy; kdopak tohle
+        nevi?
+      spanish: También tengo, como vosotros, algún seso, y no cedo ante vosotros. Esas
+        cosas, ¿quién las ignora?
+      greek-lxx: κἀμοὶ μὲν καρδία καθ᾿ ὑμᾶς ἐστιν
+      st_text: И у меня <i>есть</i> сердце, как у вас; не ниже я вас; и кто не знает
+        того же?
+  - id: 18953
+    number: 4
+    bookId: 21
+    text: Посмешищем стал я для друга своего, я, который взывал к Богу, и которому
+      Он отвечал, посмешищем - <i>человек</i> праведный, непорочный.
+    chapter: 12
+    chapterId: 488
+    parallels:
+      - verseId: 27733
+        bookId: 16
+        bookCode: kniga-neemii
+        chapter: 2
+        short: Неем:2:19
+      - verseId: 19087
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 17
+        short: Иов:17:6
+      - verseId: 29221
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 5
+        short: Прем:5:3
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Праведен бо муж и непорочен бысть в поругание:"
+      averincev: Смешон я стал для друга моего - я, кто к Богу взывал, внимаем Им; да,
+        смешон праведный и простой!
+      ungerov: Ибо праведный и непорочный муж предан поруганию.
+      csya_old: "Прaведенъ бо мyжъ и3 непоро1ченъ бы1сть въ поругaніе:"
+      sovr_rbo: Я стал для друзей посмешищем, вот, мол, как Бог ему ответил — над
+        праведным и непорочным насмехаются!
+      latin: Qui deridetur ab amico suo, sicut ego, invocabit Deum, et exaudiet eum;
+        deridetur enim justi simplicitas.
+      ukr: Посміховищем став я для друга свого, я, що кликав до Бога, і Він мені
+        відповідав, посміховищем став справедливий, невинний...
+      nkjv: '"I am one mocked by his friends, Who called on God, and He answered him,
+        The just and blameless who is ridiculed.'
+      desnitsky: Я стал для друзей посмешищем, вот, мол, как Бог ему ответил – над
+        праведным и непорочным насмехаются!
+      mt: ‫   שְׂחֹק לְרֵעֵהוּ אֶהְיֶה קֹרֵא לֶאֱלוֹהַּ וַיַּעֲנֵהוּ שְׂחוֹק צַדִּיק
+        תָּמִים׃ ‬
+      romana: "Eu am ajuns pricina de batjocura pentru prietenul meu, eu care chem pe
+        Dumnezeu si caruia El raspunde: cel drept, cel fara vina e pricina de
+        ras."
+      francais: Je suis pour mes amis un objet de raillerie, Quand j'implore le
+        secours de Dieu; Le juste, l'innocent, un objet de raillerie!
+      italian: Ludibrio del suo amico è diventato chi grida a Dio perché gli risponda;
+        ludibrio il giusto, l'integro!
+      old_georgian: რამეთუ მართალი კაცი და უბრალოჲ იქმნა საკიცხელ,
+      portuguese: "Sou motivo de riso para os meus amigos; eu, que invocava a Deus, e
+        ele me respondia: o justo e reto servindo de\rirrisão!"
+      polish: "Na drwiny się bliźnich narażam, gdy proszę, by Bóg się odezwał. Z
+        czystego,\rprawego się śmieją."
+      turkish: "«Gülünç oldum dostlarıma,\rBen ki, Tanrı'ya yakarırdım, yanıtlardı
+        beni.\rDoğru ve kusursuz adam gülünç oldu."
+      nrt: Я стал для друзей посмешищем, а ведь я к Богу взывал, и Он мне отвечал! Я,
+        праведный и безупречный, стал посмешищем!
+      Macarius: Посмешищем стал я для друга своего, я, который взывал к Богу, и
+        которому Он ответствовал. Посмешищем честный человек, непорочный!
+      serbian: На подсмијех сам пријатељу свом, који кад зове Бога одзове му се; на
+        подсмијех је праведни и добри.
+      bulgarian: За присмех станах аз на приятеля си, аз, който призовавах Бога, и
+        комуто Той отговаряше, - за присмех е праведният, непорочният човек.
+      deutsch: Ich muß von meinem Nächsten verlacht sein, der ich Gott anrief, und er
+        erhörte mich. Der Gerechte und Fromme muß verlacht sein
+      ukr2: Посмішищем ближнього зробивсь я, | що взиваю до Бога, і він відповідає; |
+        сміховиськом - я праведний, безвинний.
+      ukr3: Посьміхом другові мойму стався я, що до Бога кликав і Бог одвічав менї;
+        посьміхом - чоловік справедливий і невинний!
+      bel_syomukha: Пасьмешышчам зрабіўся я свайму сябру, я, хто заклікаў Бога, і каму
+        Ён адказваў, пасьмешышчам - чалавек праведны, беспахібны.
+      spbda: "Посмешищем для друга своего стал я,\r\rя, который взывал к Богу и
+        которому Он отвечал,\r\rпосмешищем — человек праведный, непорочный!"
+      lev-khv: Посмешищем для друга своего стал я, я, который взывал к Богу, и
+        которому Он отвечал, посмешищем праведный, непорочный.
+      czech: Jsem k posmechu i vlastnimu priteli, jemuz Buh odpovi, kdyz vola; v
+        posmechu je spravedlivy, bezuhonny.
+      spanish: Ludibrio para su amigo soy yo, que clamo a Dios para que me oiga.
+        ¡Objeto de mofa es el justo y el íntegro!
+      greek-lxx: δίκαιος γὰρ ἀνὴρ καὶ ἄμεμπτος ἐγενήθη εἰς χλεύασμα
+      st_text: Посмешищем стал я для друга своего, я, который взывал к Богу, и
+        которому Он отвечал, посмешищем - <i>человек</i> праведный, непорочный.
+  - id: 18954
+    number: 5
+    bookId: 21
+    text: Так презрен по мыслям сидящего в покое факел, приготовленный для
+      спотыкающихся ногами.
+    chapter: 12
+    chapterId: 488
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: во время бо определеное уготован бысть пасти от иных, домы же его
+        опустошены быти беззаконными. обаче никтоже да уповает, лукав сый,
+        неповинен быти,
+      averincev: Кто в покое, смеется чужой беде, толкает того, чья нога скользит!
+      ungerov: В определенное время ему назначено пасть от других, а домам его быть
+        опустошенными беззаконниками. Но пусть никто, будучи лукав, не надеется
+        остаться ненаказанным;
+      csya_old: во вре1мz бо њпредэле1ное ўгото1ванъ бы1сть пaсти t и3ны1хъ, до1мы же
+        є3гw2 њпустошє1ны бы1ти беззако1нными. nбaче никто1же да ўповaетъ,
+        лукaвъ сы1й, непови1ненъ бы1ти,
+      sovr_rbo: Кто благополучен, смеется над бедствием, и кто крепко стоит — над
+        пошатнувшимся.
+      latin: Lampas contempta apud cogitationes divitum, parata ad tempus statutum.
+      ukr: Нещасливцю погорда, на думку спокійного, приготовлена для спотикання ноги!
+      nkjv: A lamp is despised in the thought of one who is at ease; It is made ready
+        for those whose feet slip.
+      desnitsky: Кто благополучен, смеется над бедствием, и кто крепко стоит – над
+        пошатнувшимся.
+      mt: ‫   לַפִּיד בּוּז לְעַשְׁתּוּת שַׁאֲנָן נָכוֹן לְמוֹעֲדֵי רָגֶל׃ ‬
+      romana: Sa dispretuim nenorocirea (gandesc cei fericiti); inca o lovitura celor
+        ce se poticnesc.
+      francais: Au malheur le mépris! c'est la devise des heureux; A celui dont le
+        pied chancelle est réservé le mépris.
+      italian: '"Per la sventura, disprezzo", pensa la gente prosperosa, "spinte, a
+        colui che ha il piede tremante".'
+      old_georgian: რამეთუ ჟამად დაწესებულად განმზადებულ იყო დაცემად სხუათაგან და
+        სახლნი მათნი გამოტყუენვად უსჯულოთაგან,
+      portuguese: "No pensamento de quem está seguro há desprezo para a desgraça; ela
+        está preparada para aquele cujos pés\rresvalam."
+      polish: "”Wzgarda dla ginących” - myśli bezpieczny - ”popchnąć tego, komu nogi
+        się\rchwieją”."
+      turkish: Kaygısızlar felaketi küçümser, Ayağı kayanı umursamaz.
+      nrt: Кто, находясь в благополучии, презирает несчастного, тот вскоре и сам
+        поскользнется.
+      Macarius: Он заброшенная лампада в мыслях счастливца; Он, которого ноги готовы
+        поколебаться.
+      serbian: Бачен је луч по мишљењу срећнога онај који хоће да попузне.
+      bulgarian: Тъй е презрян, според мислите на седещия в покой, светилникът,
+        приготвен за онези, чиито нозе се препъват.
+      deutsch: und ist ein verachtet Lichtlein vor den Gedanken der Stolzen, steht
+        aber, daß sie sich daran ärgern.
+      ukr2: Презирство на нещастя! - думає щасливий. | Стусана тому, який
+        спотикнеться!
+      ukr3: Оттак, по думцї того, що сидить собі спокійно, нїзащо є лучиво, призначене
+        тим, що їх ноги потикаються.
+      bel_syomukha: Так, на думку таго, хто сядзіць у спакоі, пагарды вартая паходня,
+        падрыхтаваная таму, чые ногі спатыкаюцца.
+      spbda: "Страдальцу — презрение, по мыслям счастливца,\r\rуготованное
+        колеблющемуся ногами."
+      lev-khv: Страдальцу презрение, по мыслям счастливца, уготованное скользящему
+        ногою.
+      czech: Bezstarostny smysli o zaniku pohrdave, sam stoji pevne, kdyz nohy jinych
+        vravoraji!
+      spanish: ¡Desprecio al desgraciado! Así piensa el dichoso. ¡Una zancadilla para
+        aquel cuyos pies están para resbalar!
+      greek-lxx: εἰς χρόνον γὰρ τακτὸν ἡτοίμαστο πεσεῖν ὑπὸ ἄλλους οἴκους τε αὐτοῦ
+        ἐκπορθεῖσθαι ὑπὸ ἀνόμων
+      st_text: Так презрен по мыслям сидящего в покое факел, приготовленный для
+        спотыкающихся ногами.
+  - id: 18955
+    number: 6
+    bookId: 21
+    text: Покойны шатры у грабителей и безопасны у раздражающих Бога, которые как бы
+      Бога носят в руках своих.
+    chapter: 12
+    chapterId: 488
+    parallels:
+      - verseId: 19196
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 21
+        short: Иов:21:7
+      - verseId: 32241
+        bookId: 22
+        bookCode: psaltir
+        chapter: 72
+        short: Пс:72:3
+      - verseId: 15316
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 12
+        short: Иер:12:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: елицы разгневляют Господа, аки и истязания им не будет.
+      averincev: Благополучны разбойничьи шатры, раздражающие Бога имеют покой, потому
+        что им Бог - сила их.
+      ungerov: Прогневляющие Господа, — якобы им и испытания не будет.
+      csya_old: є3ли1цы разгнэвлsютъ гDа, ѓки и3 и3стzзaніz и5мъ не бyдетъ.
+      sovr_rbo: А дома разбойников — процветают, и кто Бога гневит, не знает бед,
+        словно держит Его в руках.
+      latin: Abundant tabernacula praedonum, et audacter provocant Deum, cum ipse
+        dederit omnia in manus eorum.
+      ukr: Спокійні намети грабіжників, і безпечність у тих, хто Бога гнівить, у того,
+        хто ніби то Бога провадить рукою своєю.
+      nkjv: The tents of robbers prosper, And those who provoke God are secure- In
+        what God provides by His hand.
+      desnitsky: А дома разбойников – процветают, и кто Бога гневит, не знает бед,
+        словно держит Его в руках.
+      mt: ‫   יִשְׁלָיוּ אֹהָלִים לְשֹׁדְדִים וּבַטֻּחוֹת לְמַרְגִּיזֵי אֵל לַאֲשֶׁר
+        הֵבִיא אֱלוֹהַּ בְּיָדוֹ׃ ‬
+      romana: Foarte linistite stau si sunt corturile jefuitorilor si cei ce manie pe
+        Dumnezeu sunt plini de incredere, ca unii care au facut din pumnul lor
+        un dumnezeu.
+      francais: Il y a paix sous la tente des pillards, Sécurité pour ceux qui
+        offensent Dieu, Pour quiconque se fait un dieu de sa force.
+      italian: Le tende dei ladri sono tranquille, c'è sicurezza per chi provoca Dio,
+        per chi vuol ridurre Dio in suo potere.
+      old_georgian: ხოლო ნუვე ვინ ესავნ, რომელი-იგი უკეთური იყოს, ვითარმცა უბიწოჲ იყო,
+        რომელნი-იგი განარისხებენ უფალსა, ვითარმცა განკითხვაჲ მათი არა იყო,
+      portuguese: "As tendas dos assoladores têm descanso, e os que provocam a Deus
+        estão seguros; os que trazem o seu deus\rna mão!"
+      polish: "Spokojne namioty złoczyńców, kto gniewa Boga, jest dufny; za rękę go
+        Bóg\rprowadzi."
+      turkish: Soyguncuların çadırlarında rahatlık var, Tanrı'yı gazaba getirenler
+        güvenlik içinde, Tanrı'ya değil, kendi bileklerine güveniyorlar.
+      nrt: Шатры грабителей в безопасности, и те, кто гневит Бога, спокойны, словно
+        держат Бога в руках.
+      Macarius: Спокойны шатры у грабителей, и безопасны жилища у раздражающих Бога,
+        есть безопасность тому, для кого Бог — собственная рука его.
+      serbian: Мирне су колибе лупешке, и без страха су који гњеве Бога, њима Бог даје
+        све у руке.
+      bulgarian: Спокойни са шатрите на крадците и безопасни на дразнещите Бога, които
+        своя бог виждат в ръцете си.
+      deutsch: Der Verstörer Hütten haben die Fülle, und Ruhe haben, die wider Gott
+        toben, die ihren Gott in der Faust führen.
+      ukr2: Шатра ж грабіжників спокійні, | і ті, що гнівлять Бога, сидять собі
+        безпечні, | ті, що власну руку мають за бога.
+      ukr3: За те спокійні й безпечні домівки в грабителїв, роздратовуючих Бога, бо
+        вони Бога, неначе в руках своїх носять!
+      bel_syomukha: Спакойныя намёты ў рабаўнікоў і бясьпечныя ў тых, што дражняць
+        Бога, што быццам Бога носяць на руках сваіх.
+      spbda: "Спокойны шатры у грабителей,\r\rи безопасность — у раздражающих
+        Бога,\r\rу того, кто носит Бога в руке своей!"
+      lev-khv: Спокойны шатры у грабителей, и безопасность у раздражающих Бога, у
+        того, кто носит Бога в руке своей.
+      czech: Stany zhoubcu zustavaji nerusene, v bezpeci jsou ti, kdo popouzeji Boha,
+        i ten, kdo chce Boha mit v sve moci.
+      spanish: Paz gozan las tiendas de los devastadores, y están seguros los que
+        provocan a Dios, como si todo lo hubiera puesto Dios en su mano.
+      greek-lxx: οὐ μὴν δὲ ἀλλὰ μηδεὶς πεποιθέτω πονηρὸς ὢν ἀθῷος ἔσεσθαι ὅσοι
+        παροργίζουσιν τὸν Κύριον ὡς οὐχὶ καὶ ἔτασις αὐτῶν ἔσται
+      st_text: Покойны шатры у грабителей и безопасны у раздражающих Бога, которые как
+        бы Бога носят в руках своих.
+  - id: 18956
+    number: 7
+    bookId: 21
+    text: "И подлинно: спроси у скота, и научит тебя, у птицы небесной, и возвестит
+      тебе;"
+    chapter: 12
+    chapterId: 488
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Но вопроси четвероногих, аще ти рекут, и птиц небесных, аще ти
+        возвестят:"
+      averincev: Но спроси-ка у скота - он скажет тебе; у птицы - и она возвестит тебе;
+      ungerov: Но спроси четвероногих, если они тебе скажут, и птиц небесных, если оне
+        тебе возвестятъ;
+      csya_old: "Но вопроси2 четвероно1гихъ, ѓще ти2 рекyтъ, и3 пти1цъ небе1сныхъ, ѓще
+        ти2 возвэстsтъ:"
+      sovr_rbo: Так спроси же у зверей — они объяснят, птицы небесные тебе расскажут;
+      latin: Nimirum interroga jumenta, et docebunt te; et volatilia caeli, et
+        indicabunt tibi.
+      ukr: Але запитай хоч худобу і навчить тебе, і птаство небесне й тобі розповість.
+      nkjv: '"But now ask the beasts, and they will teach you; And the birds of the
+        air, and they will tell you;'
+      desnitsky: Так спроси же у зверей – они объяснят, птицы небесные тебе расскажут;
+      mt: ‫   וְאוּלָם שְׁאַל־נָא בְהֵמוֹת וְתֹרֶךָּ וְעוֹף הַשָּׁמַיִם וְיַגֶּד־לָךְ׃
+        ‬
+      romana: Dar ia intreaba dobitoacele si te vor invata, si pasarile cerului, si te
+        vor lamuri;
+      francais: Interroge les bêtes, elles t'instruiront, Les oiseaux du ciel, ils te
+        l'apprendront;
+      italian: Ma interroga pure le bestie, perché ti ammaestrino, gli uccelli del
+        cielo, perché ti informino,
+      old_georgian: არამედ ჰკითხეთა ოთხფერჴთა, უკუეთუ რაჲმე გითხრან შენ, ანუ
+        მფრინველთა ცისათა, უკუეთუ რაჲმე გაუწყონ შენ?
+      portuguese: Mas, pergunta agora às alimárias, e elas te ensinarão; e às aves do
+        céu, e elas te farão saber;
+      polish: Zapytaj zwierząt - pouczą. I ptaki w powietrzu powiedzą.
+      turkish: «Ama şimdi sor hayvanlara, sana öğretsinler, Gökte uçan kuşlara sor,
+        sana anlatsınlar,
+      nrt: Но спроси у животных, они научат тебя, у небесных птиц, они тебе скажут.
+      Macarius: "И действительно, спроси у скота, и научит тебя; и у птицы небесной, и
+        возвестит тебе:"
+      serbian: Запитај стоку, научиће те; или птице небеске, казаће ти.
+      bulgarian: "И наистина: попитай добитъка, и ще те научи; попитай небесната
+        птица, и ще ти яви;"
+      deutsch: Frage doch das Vieh, das wird dich's lehren und die Vögel unter dem
+        Himmel, die werden dir's sagen;
+      ukr2: Спитай лиш у тварин, вони тебе навчать; | у птиць небесних, і тобі
+        сповістять;
+      ukr3: "І справдї: спитай у зьвірят, а вони навчать тебе, - в птаства під небом,
+        а воно з'ясує тобі;"
+      bel_syomukha: "А ўжо ж такі: спытайся ў быдла, і навучаць цябе, - у птушкі
+        нябеснай, і абвесьціць табе;"
+      spbda: "И подлинно, спроси у скота, и научит тебя,\r\rу птицы небесной, и
+        возвестит тебе;"
+      lev-khv: И подлинно, спроси у скота, и научит тебя, у птицы небесной, и
+        возвестит тебе;
+      czech: Avsak dobytka se zeptej, pouci te, nebeskeho ptactva, ono ti to povi,
+      spanish: Pregunta a las bestias, y te instruirán; a las aves del cielo, y te lo
+        comunicarán;
+      greek-lxx: ἀλλὰ δὴ ἐπερώτησον τετράποδα ἐάν σοι εἴπωσιν πετεινὰ δὲ οὐρανοῦ ἐάν
+        σοι ἀπαγγείλωσιν
+      st_text: "И подлинно: спроси у скота, и научит тебя, у птицы небесной, и
+        возвестит тебе;"
+  - id: 18957
+    number: 8
+    bookId: 21
+    text: или побеседуй с землею, и наставит тебя, и скажут тебе рыбы морские.
+    chapter: 12
+    chapterId: 488
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: повеждь земли, аще ти скажет, и исповедят ти рыбы морския.
+      averincev: у земли - и она вразумит тебя; и поведают тебе рыбы морей, -
+      ungerov: И поведай земле, если тебе скажет, и (если) возвестят тебе рыбы морския.
+      csya_old: повёждь земли2, ѓще ти2 скaжетъ, и3 и3сповёдzтъ ти2 ры6бы мwрскjz.
+      sovr_rbo: разузнай у земли — она объяснит, рыбы морские тебе поведают.
+      latin: Loquere terrae, et respondebit tibi; et narrabunt pisces maris.
+      ukr: Або говори до землі й вона вивчить тебе, і розкажуть тобі риби морські.
+      nkjv: Or speak to the earth, and it will teach you; And the fish of the sea will
+        explain to you.
+      desnitsky: разузнай у земли – она объяснит, рыбы морские тебе поведают.
+      mt: ‫   אוֹ שִׂיחַ לָאָרֶץ וְתֹרֶךָּ וִיסַפְּרוּ לְךָ דְּגֵי הַיָּם׃ ‬
+      romana: Sau vorbeste cu pamantul, si-ti va da invatatura si pestii marii iti vor
+        istorisi cu de-amanuntul.
+      francais: Parle à la terre, elle t'instruira; Et les poissons de la mer te le
+        raconteront.
+      italian: o i rettili della terra, perché ti istruiscano o i pesci del mare
+        perché te lo faccian sapere.
+      old_georgian: მიუთხარ ქუეყანასა, უკუეთუ თქუას რაჲმე, გინათუ გამო-რაჲ-გითხრან შენ
+        თევზთა ზღჳსათა.
+      portuguese: ou fala com a terra, e ela te ensinará; até os peixes o mar to
+        declararão.
+      polish: Zapytaj Podziemia, wyjaśni; pouczą cię i ryby w morzu.
+      turkish: Toprağa söyle, sana öğretsin, Denizdeki balıklara sor, sana bilgi
+        versinler.
+      nrt: Побеседуй с землей, она наставит тебя, и рыбы морские тебе возвестят.
+      Macarius: Или побеседуй с землею, и наставит тебя, и скажут тебе рыбы морские.
+      serbian: Или се разговори са земљом, научиће те, и рибе ће ти морске приповједити.
+      bulgarian: или поговори със земята, и ще те поучи, ще ти кажат и морските риби.
+      deutsch: oder rede mit der Erde, die wird dich's lehren, und die Fische im Meer
+        werden dir's erzählen.
+      ukr2: або повзунів, вони тебе повчать, | і риби в морі тобі повідають!
+      ukr3: "Або поговори з землею, а вона повчить тебе, та й риби в морі скажуть
+        тобі:"
+      bel_syomukha: альбо пагутары зь зямлёю, і наставіць цябе, і скажуць табе рыбы марскія.
+      spbda: "или побеседуй с землею, и наставит тебя,\r\rи скажут тебе рыбы морския."
+      lev-khv: Или побеседуй с землею, и наставит тебя, и скажут тебе рыбы морския.
+      czech: pouci te i kroviska zeme, morske ryby vypravet ti budou.
+      spanish: a los reptiles de la tierra, y te enseñarán, y te lo harán saber los
+        peces del mar.
+      greek-lxx: ἐκδιήγησαι δὲ γῇ ἐάν σοι φράσῃ καὶ ἐξηγήσονταί σοι οἱ ἰχθύες τῆς θαλάσσης
+      st_text: или побеседуй с землею, и наставит тебя, и скажут тебе рыбы морские.
+  - id: 18958
+    number: 9
+    bookId: 21
+    text: Кто во всем этом не узнает, что рука Господа сотворила сие?
+    chapter: 12
+    chapterId: 488
+    parallels:
+      - verseId: 29561
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 16
+        short: Притч:16:4
+      - verseId: 9472
+        bookId: 37
+        bookCode: kniga-proroka-amosa
+        chapter: 3
+        short: Ам:3:6
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Кто убо не разуме во всех сих, яко рука Господня сотвори сия?
+      averincev: есть ли тот, кто не узнал бы от них, что это все сотворил Господь,
+      ungerov: Кто же во всем этом не узнает, что рука Господня сотворила сие?
+      csya_old: Кто2 ќбw не разумЁ во всёхъ си1хъ, ћкw рукA гDнz сотвори2 сі‰;
+      sovr_rbo: Кто же из них не знает, что так устроил Господь?
+      latin: Quis ignorat quod omnia haec manus Domini fecerit?
+      ukr: Хто б із цього всього не пізнав, що Господня рука це вчинила?
+      nkjv: Who among all these does not know That the hand of the Lord has done this,
+      desnitsky: Кто же из них на знает, что так устроил ГОСПОДЬ?
+      mt: ‫   מִי לֹא־יָדַע בְּכָל־אֵלֶּה כִּי יַד־יְהוָה עָשְׂתָה זֹּאת׃ ‬
+      romana: Cine nu cunoaste din toate acestea ca mana Domnului a facut aceste
+        lucruri?
+      francais: Qui ne reconnaît chez eux la preuve Que la main de l'Éternel a fait
+        toutes choses?
+      italian: Chi non sa, fra tutti questi esseri, che la mano del Signore ha fatto
+        questo?
+      old_georgian: ვინმე არა უწყის ამათ ყოველთა შორის, რამეთუ ჴელმან უფლისამან შექმნა
+        ესე ყოველი?
+      portuguese: Qual dentre todas estas coisas não sabe que a mão do Senhor fez isto?
+      polish: "Któż by z nich tego nie wiedział, że ręka Pana uczyniła wszystko:"
+      turkish: "Hangisi bilmez\rBunu RAB'bin yaptığını?"
+      nrt: Кто среди них не знает, что все это сделала рука Господня?
+      Macarius: Кто из всего этого не познал бы, что рука Иеговы творит сие?
+      serbian: Ко не зна од свега тога да је рука Господња то учинила?
+      bulgarian: Кой във всичко това не ще узнае, че ръката на Господа е сътворила това?
+      deutsch: Wer erkennte nicht an dem allem, daß des Herrn Hand solches gemacht hat?
+      ukr2: Хто з усіх них не знає, | що рука Господня все це створила?
+      ukr3: Хто з усього того не взнає, що рука Господня сотворила се?
+      bel_syomukha: Хто ва ўсім гэтым ня ўведае, што рука Госпада стварыла гэта.
+      spbda: "Кто не познал бы из всего этого,\r\rчто рука Господа сотворила сие,"
+      lev-khv: Кто не познал бы из всего этого, что рука Господа сотворила это,
+      czech: Kdo z nich vsech by nevedel, ze ruka Hospodinova to ucinila
+      spanish: ¿Quién no ve en todo esto que es la mano de Yavé quien lo hace,
+      greek-lxx: τίς οὐκ ἔγνω ἐν πᾶσι τούτοις ὅτι χεὶρ Κυρίου ἐποίησεν ταῦτα
+      st_text: Кто во всем этом не узнает, что рука Господа сотворила сие?
+  - id: 18959
+    number: 10
+    bookId: 21
+    text: В Его руке душа всего живущего и дух всякой человеческой плоти.
+    chapter: 12
+    chapterId: 488
+    parallels:
+      - verseId: 13324
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 17
+        short: Деян:17:25
+      - verseId: 13327
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 17
+        short: Деян:17:28
+      - verseId: 14661
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 12
+        short: Евр:12:9
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Не в руце ли его душа всех живущих и дух всякаго человека?
+      averincev: в чьей руке - дыхание всего, что живет, и всякой плоти дух?
+      ungerov: Не в Его ли руке душа всего живущаго и дух всякаго человека?
+      csya_old: Не въ руцё ли є3гw2 душA всёхъ живyщихъ и3 дyхъ всsкагw человёка;
+      sovr_rbo: В руке Его — дыханье всякой жизни, да и дух любого человека.
+      latin: In cujus manu anima omnis viventis, et spiritus universae carnis hominis.
+      ukr: Що в Нього в руці душа всього живого й дух кожного людського тіла?
+      nkjv: In whose hand is the life of every living thing, And the breath of all
+        mankind?
+      desnitsky: В руке Его – дыханье всякой жизни, да и дух любого человека.
+      mt: ‫   אֲשֶׁר בְּיָדוֹ נֶפֶשׁ כָּל־חָי וְרוּחַ כָּל־בְּשַׂר־אִישׁ׃ ‬
+      romana: In mana Lui El tine viata a tot ce traieste si suflarea intregii omeniri.
+      francais: Il tient dans sa main l'âme de tout ce qui vit, Le souffle de toute
+        chair d'homme.
+      italian: Egli ha in mano l'anima di ogni vivente e il soffio d'ogni carne umana.
+      old_georgian: არამე ჴელსა შინა მისსა არს სული ყოველთა ცხოველთაჲ და სული ყოვლისა
+        კაცისაჲ?
+      portuguese: Na sua mão está a vida de todo ser vivente, e o espírito de todo o
+        gênero humano.
+      polish: w Jego ręku - tchnienie życia i dusza każdego człowieka.
+      turkish: "Her yaratığın canı,\rBütün insanlığın soluğu O'nun elindedir."
+      nrt: Жизнь всякой твари в Его руке, как и дыхание всякого человека.
+      Macarius: В Его руке душа всего живущего, и дух всякой плоти человеческой.
+      serbian: Којему је у руци душа свега живога и дух свакога тијела човјечијега.
+      bulgarian: В Негова ръка е душата на всичко живо и духът на всяка човешка плът.
+      deutsch: daß in seiner Hand ist die Seele alles dessen, was da lebt, und der
+        Geist des Fleisches aller Menschen?
+      ukr2: В його руці душа всього живого, | дихання кожного людського тіла.
+      ukr3: В його руцї дух всього живучого й душа кожного людського тїла.
+      bel_syomukha: У Ягонай руцэ душа ўсяго жывога і дух усякі чалавечай плоці.
+      spbda: "в руке Котораго душа всего живаго\r\rи дух всякой человеческой плоти?"
+      lev-khv: В руке Котораго душа всего живаго и дух всякой человеческой плоти?
+      czech: a ze v jeho ruce je zivot vseho, co zije, duch kazdeho lidskeho tvora.
+      spanish: de cuya mano depende el alma de todos los vivientes y el espíritu de
+        todos los hombres?
+      greek-lxx: εἰ μὴ ἐν χειρὶ αὐτοῦ ψυχὴ πάντων τῶν ζώντων καὶ πνεῦμα παντὸς ἀνθρώπου
+      st_text: В Его руке душа всего живущего и дух всякой человеческой плоти.
+  - id: 18960
+    number: 11
+    bookId: 21
+    text: Не ухо ли разбирает слова, и не язык ли распознает вкус пищи?
+    chapter: 12
+    chapterId: 488
+    parallels:
+      - verseId: 19546
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 34
+        short: Иов:34:3
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Ухо бо словеса разсуждает, гортань же брашна вкушает.
+      averincev: Не пробует ли ухо слова, как рот, что отведывает вкус яств?
+      ungerov: Ухо разбирает слова, гортань распознает вкус пищи.
+      csya_old: Ќхо бо словесA разсуждaетъ, гортaнь же бр†шна вкушaетъ.
+      sovr_rbo: Разве не ухо различает слова и не нёбо чувствует вкус?
+      latin: Nonne auris verba dijudicat? Et fauces comedentis, saporem?
+      ukr: Чи ж не ухо слова розбирає, піднебіння ж смакує для себе поживу?
+      nkjv: Does not the ear test words And the mouth taste its food?
+      desnitsky: Разве не ухо различает слова и не нёбо чувствует вкус?
+      mt: ‫   הֲלֹא־אֹזֶן מִלִּין תִּבְחָן וְחֵךְ אֹכֶל יִטְעַם־לוֹ׃ ‬
+      romana: Urechea nu deosebeste ea cuvintele tot asa, precum cerul gurii
+        deosebeste mancarea?
+      francais: L'oreille ne discerne-t-elle pas les paroles, Comme le palais savoure
+        les aliments?
+      italian: L'orecchio non distingue forse le parole e il palato non assapora i cibi?
+      old_georgian: რამეთუ გონებამან სიტყუანი განიკითხნის და სასამან გემოჲ ცნის ჭამადისაჲ.
+      portuguese: Porventura o ouvido não prova as palavras, como o paladar prova o
+        alimento?
+      polish: Czyż ucho nie bada mowy, a smak nie kosztuje pokarmu?
+      turkish: "Damağın yemeği tattığı gibi\rKulak da sözleri denemez mi?"
+      nrt: Разве не ухо различает слова, и не язык распознает вкус пищи?
+      Macarius: Не ухо ли разбирает слова, как уста отведывают пищу себе?
+      serbian: Не распознаје ли ухо ријечи као што грло куша јело?
+      bulgarian: Нали ухото разбира думите, и нали езикът разпознава вкуса на храната?
+      deutsch: Prüft nicht das Ohr die Rede? und der Mund schmeckt die Speise?
+      ukr2: Хіба не вухо слова розрізняє?
+      ukr3: Чи ж не ухо розбірає слова, й чи не язик доходить смаку страви?
+      bel_syomukha: Ці ж ня вуха разьбірае словы, і ці не язык распазнае смак ежы?
+      spbda: "Не ухо ли разбирает слова,\r\rкак уста отведывают пищу себе?"
+      lev-khv: Не ухо ли разбирает слов&#225;, <i><i>как</i></i> уста отведывают пищу
+        себе?
+      czech: Zda nezkousi ucho slova jako patro ochutnava pokrm?
+      spanish: ¿No distingue el oído las palabras, como el paladar gusta la comida?
+      greek-lxx: οὖς μὲν γὰρ ῥήματα διακρίνει λάρυγξ δὲ σῖτα γεύεται
+      st_text: Не ухо ли разбирает слова, и не язык ли распознает вкус пищи?
+  - id: 18961
+    number: 12
+    bookId: 21
+    text: В старцах - мудрость, и в долголетних - разум.
+    chapter: 12
+    chapterId: 488
+    parallels:
+      - verseId: 19034
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 15
+        short: Иов:15:10
+      - verseId: 19495
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 32
+        short: Иов:32:7
+      - verseId: 34064
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 32
+        short: Сир:32:4
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Во мнозем времени премудрость, во мнозе же житии ведение.
+      averincev: Разве в старцах мудрость живет или в дряхлолетних явлен ум?
+      ungerov: В долголетии — мудрость и в долгой жизни — знание.
+      csya_old: Во мно1зэмъ вре1мени премyдрость, во мно1зэ же житіи2 вёдэніе.
+      sovr_rbo: Так и мудрость найдешь у стариков, разум — у тех, чей век долог.
+      latin: In antiquis est sapientia, et in multo tempore prudentia.
+      ukr: Мудрість у старших, бо довгість днів розум.
+      nkjv: Wisdom is with aged men, And with length of days, understanding.
+      desnitsky: Так и мудрость найдешь у стариков, разум – у тех, чей век долог.
+      mt: ‫   בִּישִׁישִׁים חָכְמָה וְאֹרֶךְ יָמִים תְּבוּנָה׃ ‬
+      romana: Oare nu la batrani salasluieste intelepciunea si priceperea nu merge
+        mana in mana cu varsta inaintata?
+      francais: Dans les vieillards se trouve la sagesse, Et dans une longue vie
+        l'intelligence.
+      italian: Nei canuti sta la saggezza e nella vita lunga la prudenza.
+      old_georgian: მრავალთა ჟამისათა სიბრძნე პოვიან და მრავალსა შინა ცხორებასა მეცნიერებაჲ.
+      portuguese: Com os anciãos está a sabedoria, e na longura de dias o entendimento.
+      polish: "[Więc tylko] u starców jest mądrość, roztropność u wiekiem podeszłych?"
+      turkish: "Bilgelik yaşlılarda,\rAkıl uzun yaşamdadır."
+      nrt: Разве не у старейших мудрость? Разве долгая жизнь не приносит разум?
+      Macarius: В старцах мудрость, и в долголетних разум.
+      serbian: У стараца је мудрост, и у дугом вијеку разум.
+      bulgarian: У старците има мъдрост, и у дълголетните - разум.
+      deutsch: Ja, "bei den Großvätern ist die Weisheit, und der Verstand bei den
+        Alten".
+      ukr2: У сивоголових - мудрість, | у довголітніх - розум.
+      ukr3: Так і в старцїв мудрість, а в довголїтників розум.
+      bel_syomukha: У старцах - мудрасьць, і ў даўгавечных - розум.
+      spbda: "В старцах мудрость,\r\rи в долголетных разум."
+      lev-khv: В старцах мудрость, и в долголетных разум.
+      czech: Coz jen u kmetu je moudrost a rozumnost pouze v dlouhem veku?
+      spanish: En los ancianos está el saber y en la longevidad la sensatez.
+      greek-lxx: ἐν πολλῷ χρόνῳ σοφία ἐν δὲ πολλῷ βίῳ ἐπιστήμη
+      st_text: В старцах - мудрость, и в долголетних - разум.
+  - id: 18962
+    number: 13
+    bookId: 21
+    text: У Него премудрость и сила; Его совет и разум.
+    chapter: 12
+    chapterId: 488
+    parallels:
+      - verseId: 29294
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 7
+        short: Прем:7:25
+      - verseId: 29291
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 7
+        short: Прем:7:22
+      - verseId: 33529
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 16
+        short: Сир:16:22
+      - verseId: 34064
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 32
+        short: Сир:32:4
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: У него премудрость и сила, у того совет и разум.
+      averincev: "И мудрость и мощь - все у Него: у Него - совет, у Него - ум."
+      ungerov: У Него премудрость и сила, у Него совет и разум.
+      csya_old: Ў негw2 премyдрость и3 си1ла, ў тогw2 совётъ и3 рaзумъ.
+      sovr_rbo: У Него — и мудрость, и мощь; у Него — и замысел, и разумение.
+      latin: Apud ipsum est sapientia et fortitudo; ipse habet consilium et
+        intelligentiam.
+      ukr: Мудрість та сила у Нього, Його рада та розум.
+      nkjv: '"With Him are wisdom and strength, He has counsel and understanding.'
+      desnitsky: У Него – и мудрость, и мощь; у Него – и замысел, и разумение.
+      mt: ‫   עִמּוֹ חָכְמָה וּגְבוּרָה לוֹ עֵצָה וּתְבוּנָה׃ ‬
+      romana: La Dumnezeu se afla intelepciunea si puterea; sfatul si patrunderea sunt
+        ale Lui.
+      francais: En Dieu résident la sagesse et la puissance. Le conseil et
+        l'intelligence lui appartiennent.
+      italian: In lui risiede la sapienza e la forza, a lui appartiene il consiglio e
+        la prudenza!
+      old_georgian: მის მიერ არს სიბრძნე და ძალი მისი არს ზრახვაჲ და გულისჴმისყოფაჲ.
+      portuguese: Com Deus está a sabedoria e a força; ele tem conselho e entendimento.
+      polish: On ma potęgę i rozum, rozsądek znać w Jego planach.
+      turkish: «Bilgelik ve güç Tanrı'ya özgüdür, O'ndadır öğüt ve akıl.
+      nrt: У Бога – мудрость и сила; совет и разум – Его.
+      Macarius: У Него премудрость и сила; Его совет и разум.
+      serbian: У њега је мудрост и сила, у њега је савјет и разум.
+      bulgarian: У Него има мъдрост и сила, Негови са решение и разум.
+      deutsch: Bei ihm ist Weisheit und Gewalt, Rat und Verstand.
+      ukr2: У нього премудрість і потуга, | у нього рада й розум.
+      ukr3: У него ж (Бога) премудрість і міць; в його рада й розум.
+      bel_syomukha: У Яго мудрасьць і сіла; Ягоныя рада і розум.
+      spbda: "У Него премудрость и сила;\r\rЕго совет и разум."
+      lev-khv: У Него премудрость и сила; Его совет и разум.
+      czech: Moudrost, ta je u Boha, i bohatyrska sila, u neho je rozvaha i rozum.
+      spanish: Pero en Él están la sabiduría y el poder; suyo es el consejo, suya la
+        prudencia.
+      greek-lxx: παρ᾿ αὐτῷ σοφία καὶ δύναμις αὐτῷ βουλὴ καὶ σύνεσις
+      st_text: У Него премудрость и сила; Его совет и разум.
+  - id: 18963
+    number: 14
+    bookId: 21
+    text: Что Он разрушит, то не построится; кого Он заключит, тот не высвободится.
+    chapter: 12
+    chapterId: 488
+    parallels:
+      - verseId: 20232
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 22
+        short: Ис:22:22
+      - verseId: 20279
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 25
+        short: Ис:25:3
+      - verseId: 28171
+        bookId: 77
+        bookCode: otkrovenie-ap-ioanna-bogoslova
+        chapter: 1
+        short: Откр:1:18
+      - verseId: 28449
+        bookId: 77
+        bookCode: otkrovenie-ap-ioanna-bogoslova
+        chapter: 3
+        short: Откр:3:7
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Аще низложит, кто созиждет? аще затворит от человеков, кто отверзет?
+      averincev: Что Он разрушит, не воздвигнется вновь, кого Он заточит - не выйдет
+        вновь.
+      ungerov: Если Он разрушит, кто построит? если запрет от людей, кто отворит?
+      csya_old: Ѓще низложи1тъ, кто2 сози1ждетъ; ѓще затвори1тъ t человёкwвъ, кто2
+        tве1рзетъ;
+      sovr_rbo: Если Он разрушит — никто не восстановит, а кого Он заточит — тому не
+        выйти;
+      latin: Si destruxerit, nemo est qui aedificet; si incluserit hominem, nullus est
+        qui aperiat.
+      ukr: Ось Він зруйнує й не буде воно відбудоване, замкне чоловіка й не буде він
+        випущений.
+      nkjv: If He breaks a thing down, it cannot be rebuilt; If He imprisons a man,
+        there can be no release.
+      desnitsky: Если Он разрушит – никто не восстановит, а кого Он заточит – тому не
+        выйти;
+      mt: ‫   הֵן יַהֲרוֹס וְלֹא יִבָּנֶה יִסְגֹּר עַל־אִישׁ וְלֹא יִפָּתֵחַ׃ ‬
+      romana: Ceea ce darama El, nimeni nu mai zideste la loc si pe cine-l inchide,
+        nimeni nu poate sa-l mai deschida.
+      francais: Ce qu'il renverse ne sera point rebâti, Celui qu'il enferme ne sera
+        point délivré.
+      italian: Ecco, se egli demolisce, non si può ricostruire, se imprigiona uno, non
+        si può liberare.
+      old_georgian: უკუეთუ მან დაამჴუას, ვინმე აღაშენოს? ანუ დაჴშას კაცთათჳს ვინმე,
+        სხუამან განაღოს?
+      portuguese: Eis que ele derriba, e não se pode reedificar; ele encerra na
+        prisão, e não se pode abrir.
+      polish: Gdy On rozwali - któż odbuduje, gdy zamknie, kto by otworzył?
+      turkish: O'nun yıktığı onarılamaz, O'nun hapsettiği kişi özgür olamaz.
+      nrt: Что Он разрушил, не восстановится, заключенные им не выйдут на волю.
+      Macarius: Се! что Он разрушит, то не построится; кого Он свяжет, тот не
+        высвободится.
+      serbian: Гле, он разгради, и не може се опет саградити; затвори човјека, и не
+        може се отворити.
+      bulgarian: Което Той събори, няма да се съгради; когото Той заключи, няма да се
+        освободи.
+      deutsch: Siehe, wenn er zerbricht, so hilft kein Bauen; wenn er jemand
+        einschließt, kann niemand aufmachen.
+      ukr2: Як він зруйнує, ніхто не відбудує; | як замкне когось, ніхто вже не
+        відімкне.
+      ukr3: Що він розорить, того вже нїхто не збудує; кого він зачинить, нїхто йому
+        не відомкне.
+      bel_syomukha: Што Ён разбурыць, тое не адбудзецца; каго Ён увязьніць, той ня
+        вызваліцца.
+      spbda: "Вот, чтó Он разрушит, тó не построится;\r\rкого Он свяжет, тот не
+        высвободится."
+      lev-khv: Вот, чтó Он разрушит, то не построится; кого Он свяжет, тот не
+        высвободится.
+      czech: Co rozbori, nikdo nezbuduje, zavre dvere za nekym a otevrit je nelze.
+      spanish: Lo que Él destruye no puede reconstruirse; al que Él aprisiona nadie le
+        liberta.
+      greek-lxx: ἐὰν καταβάλῃ τίς οἰκοδομήσει ἐὰν κλείσῃ κατὰ ἀνθρώπων τίς ἀνοίξει
+      st_text: Что Он разрушит, то не построится; кого Он заключит, тот не высвободится.
+  - id: 18964
+    number: 15
+    bookId: 21
+    text: Остановит воды, и все высохнет; пустит их, и превратят землю.
+    chapter: 12
+    chapterId: 488
+    parallels:
+      - verseId: 11127
+        bookId: 1
+        bookCode: bytie
+        chapter: 7
+        short: Быт:7:11
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Аще возбранит воду, изсушит землю: аще же пустит, погубит ю превратив."
+      averincev: Он сдержит воды - и придет сушь; пустит - и они взроют прах.
+      ungerov: Если задержит воду, то высушит землю, если пустит (её), то совершенно
+        погубит её.
+      csya_old: "Ѓще возбрани1тъ во1ду, и3зсуши1тъ зе1млю: ѓще же пyститъ, погуби1тъ
+        ю5 преврати1въ."
+      sovr_rbo: Он удержит воды — они иссякнут, а выпустит — все сметут с земли.
+      latin: Si continuerit aquas, omnia siccabuntur; et si emiserit eas, subvertent
+        terram.
+      ukr: Ось Він стримає води і висохнуть, Він їх пустить то землю вони перевернуть.
+      nkjv: If He withholds the waters, they dry up; If He sends them out, they
+        overwhelm the earth.
+      desnitsky: Он удержит воды – они иссякнут, а выпустит – всё сметут с земли.
+      mt: ‫   הֵן יַעְצֹר בַּמַּיִם וְיִבָשׁוּ וִישַׁלְּחֵם וְיַהַפְכוּ אָרֶץ׃ ‬
+      romana: Daca opreste apele pe loc, ele scad si pier; daca le da drumul, ele
+        rastoarna lumea;
+      francais: Il retient les eaux et tout se dessèche; Il les lâche, et la terre en
+        est dévastée.
+      italian: Se trattiene le acque, tutto si secca, se le lascia andare, devastano
+        la terra.
+      old_georgian: უკუეთუ დააყენოს წყალი, განაჴმოს ქნეყანაჲ, უკუეთუ მიუტეოს ერთბამად,
+        წარწყმიდოს იგი და დააქციოს.
+      portuguese: Ele retém as águas, e elas secam; solta-as, e elas inundam a terra.
+      polish: Gdy wody wstrzyma - jest susza; zwolni je - ziemię spustoszą.
+      turkish: "Suları tutarsa, kuraklık olur,\rSalıverirse dünyayı sel götürür."
+      nrt: Он удержит воды, и будет засуха; отпустит – они затопят землю.
+      Macarius: Се! остановит воды, и высохнут; но пустит их, тогда изроют землю.
+      serbian: Гле, устави воде, и пресахну;  пусти их, и испреврћу земљу.
+      bulgarian: Да спре водите, и всичко ще изсъхне; да ги пусне, и земята ще разрушат.
+      deutsch: Siehe, wenn er das Wasser verschließt, so wird alles dürr; und wenn
+        er's ausläßt, so kehrt es das Land um.
+      ukr2: Здержить води - все повисихає;| а пустить їх - розбурять землю.
+      ukr3: Задержить води, - все повисихає, пустить їх, - розбурять землю.
+      bel_syomukha: Спыніць воды, і ўсё ўсохне; пусьціць іх, і пераўтвораць зямлю.
+      spbda: "Вот, остановит воды, и высохнут;\r\rпустит их, и изроют землю."
+      lev-khv: Вот, остановит вóды, и высохнут; пустит их, и изроют землю.
+      czech: Kdyz zadrzi vody, prijde sucho, kdyz je vypusti, pak podvraceji zemi.
+      spanish: Si retiene las aguas, todo se seca; si las da suelta, devastan la tierra.
+      greek-lxx: ἐὰν κωλύσῃ τὸ ὥδωρ ξηρανεῖ τὴν γῆν ἐὰν δὲ ἐπαφῇ ἀπώλεσεν αὐτὴν
+        καταστρέψας
+      st_text: Остановит воды, и все высохнет; пустит их, и превратят землю.
+  - id: 18965
+    number: 16
+    bookId: 21
+    text: У Него могущество и премудрость, пред Ним заблуждающийся и вводящий в
+      заблуждение.
+    chapter: 12
+    chapterId: 488
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: У него держава и крепость, у того ведение и разум.
+      averincev: Сила и удача - в Его руке; обман и обманувшийся - во власти Его.
+      ungerov: У Него могущество и сила, у Него ведение и разум.
+      csya_old: Ў негw2 держaва и3 крёпость, ў тогw2 вёдэніе и3 рaзумъ.
+      sovr_rbo: С Ним и сила, и удача; в Его власти и обманщик, и обманутый.
+      latin: Apud ipsum est fortitudo et sapientia; ipse novit et decipientem, et eum
+        qui decipitur.
+      ukr: В Нього сила та задум, у Нього заблуджений і той, хто призводить до блуду.
+      nkjv: With Him are strength and prudence. The deceived and the deceiver are His.
+      desnitsky: С Ним и сила, и удача; в Его власти и обманщик, и обманутый.
+      mt: ‫   עִמּוֹ עֹז וְתוּשִׁיָּה‪‬ לוֹ שֹׁגֵג וּמַשְׁגֶּה׃ ‬
+      romana: Taria si intelepciunea sunt la El. El este stapan si peste ratacit si
+        peste cel ce-l face sa rataceasca.
+      francais: Il possède la force et la prudence; Il maîtrise celui qui s'égare ou
+        fait  égarer les autres.
+      italian: Da lui viene potenza e sagacia, a lui appartiene l'ingannato e
+        l'ingannatore.
+      old_georgian: მის მიერ არს სიმტკიცე და ძალი, მისი არს მეცნიერებაჲ და გულისჴმის-ყოფაჲ.
+      portuguese: Com ele está a força e a sabedoria; são dele o enganado e o enganador.
+      polish: U Niego zwycięstwo i siła, ma w ręku błądzących i kłamców.
+      turkish: "Güç ve zafer O'na aittir,\rAldanan da aldatan da O'nundur."
+      nrt: У Него всесилие и премудрость; в Его власти и обманутый, и обманщик.
+      Macarius: У Него могущество и премудрость, пред Ним заблуждающий и вводящий в
+        заблуждение.
+      serbian: У њега је јачина и мудрост, његов је који је преварен и који вара.
+      bulgarian: У Него има сила и мъдрост, пред Него е тоя, който се заблуждава, и
+        онзи, който въвежда в заблуждение.
+      deutsch: Er ist stark und führt es aus. Sein ist, der da irrt und der da verführt.
+      ukr2: У нього сила та обачність; | у нього зведений і зводитель.
+      ukr3: У його сила й премудрість, перед ним той, хто зблудив, і той, хто звів із
+        дороги.
+      bel_syomukha: У Яго магутнасьць і мудрасьць, прад Ім той, хто заблытвае і
+        ўводзіць у аблуду.
+      spbda: "У Него могущество и премудрость,\r\rу Него заблуждающий и вводящий в
+        заблуждение."
+      lev-khv: У Него могущество и премудрость, у Него заблуждающий и вводящий в
+        заблуждение.
+      czech: U neho je moc i pohotova pomoc, patri mu, kdo chybuje, i ten, kdo svadi.
+      spanish: En Él están la fuerza y la sabiduría, de Él son el engañado y el
+        engañador;
+      greek-lxx: παρ᾿ αὐτῷ κράτος καὶ ἰσχύς αὐτῷ ἐπιστήμη καὶ σύνεσις
+      st_text: У Него могущество и премудрость, пред Ним заблуждающийся и вводящий в
+        заблуждение.
+  - id: 18966
+    number: 17
+    bookId: 21
+    text: Он приводит советников в необдуманность и судей делает глупыми.
+    chapter: 12
+    chapterId: 488
+    parallels:
+      - verseId: 9682
+        bookId: 1
+        bookCode: bytie
+        chapter: 1
+        short: Быт:1:24
+      - verseId: 20365
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 29
+        short: Ис:29:14
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Проводяй советники пленены, судии же земли ужаси:"
+      averincev: Мужей совета помрачает Он и делает глупцами судей земли;
+      ungerov: Он уводит в плен советников, а судей земли лишает разсудка.
+      csya_old: "Проводsй совётники плэнє1ны, судіи6 же земли2 ўжаси2:"
+      sovr_rbo: Советников Он гонит босыми, судей выставляет глупцами;
+      latin: Adducit consiliarios in stultum finem, et judices in stuporem.
+      ukr: Він уводить у помилку радників, і обезумлює суддів,
+      nkjv: He leads counselors away plundered, And makes fools of the judges.
+      desnitsky: Советников он гонит босыми, судей выставляет глупцами;
+      mt: ‫   מוֹלִיךְ יוֹעֲצִים שׁוֹלָל וְשֹׁפְטִים יְהוֹלֵל׃ ‬
+      romana: El goneste pe sfetnici in picioarele goale si pe judecatori ii arunca
+        prada nebuniei.
+      francais: Il emmène captifs les conseillers; Il trouble la raison des juges.
+      italian: Rende stolti i consiglieri della terra, priva i giudici di senno;
+      old_georgian: წარსცის მზრახვალნი ტყუედ. და მსაჯულნი ქუეყანისანი განაკჳრნის.
+      portuguese: Aos conselheiros leva despojados, e aos juízes faz desvairar.
+      polish: Radców przyda niemądrych, a sędziów wyzuje z rozsądku.
+      turkish: "Danışmanları çaresiz kılar,\rYargıçları çıldırtır."
+      nrt: Советчиков Он гонит босыми и глупцами делает судей.
+      Macarius: Он отводит народных советников, как добычу, и судей делает глупыми.
+      serbian: Он доводи савјетнике у лудило, и судије обезумљује.
+      bulgarian: Той привежда съветниците в необмисленост и прави съдиите глупави.
+      deutsch: Er führt die Klugen wie einen Raub und macht die Richter toll.
+      ukr2: Він радників босоніж відсилає | і в суддів розум відбирає.
+      ukr3: Він приводить порадників до нерозваги, а суддїв до дурноти.
+      bel_syomukha: Ён прыводзіць дарадцаў да неабдуманасьці і судзьдзяў робіць дурнымі.
+      spbda: "Он отводит советников босыми,\r\rи судей вводит в заблуждение."
+      lev-khv: Он советников отводит босыми и судей делает глупыми.
+      czech: Radce odvadi vysvlecene, ze soudcu cini ztrestence,
+      spanish: Él hace andar descalzos a los consejeros, y a los jueces los hace necios;
+      greek-lxx: διάγων βουλευτὰς αἰχμαλώτους κριτὰς δὲ γῆς ἐξέστησεν
+      st_text: Он приводит советников в необдуманность и судей делает глупыми.
+  - id: 18967
+    number: 18
+    bookId: 21
+    text: Он лишает перевязей царей и поясом обвязывает чресла их;
+    chapter: 12
+    chapterId: 488
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "посаждаяй цари на престолех и обвязуяй поясом чресла их:"
+      averincev: расторгает узы царей и возлагает запои на чресла их;
+      ungerov: Он посаждает царей на престолах и обвязывает поясом чресла их.
+      csya_old: "посаждazй цари6 на престо1лэхъ и3 њбвzзyzй по1zсомъ чрє1сла и4хъ:"
+      sovr_rbo: с царей Он срывает пояс и тряпьем обматывает бедра;
+      latin: Balteum regum dissolvit, et praecingit fune renes eorum.
+      ukr: Він розв'язує пута царів і приперізує пояса на їхні стегна.
+      nkjv: He loosens the bonds of kings, And binds their waist with a belt.
+      desnitsky: С царей Он срывает пояс и тряпьем обматывает бедра;
+      mt: ‫   מוּסַר מְלָכִים פִּתֵּחַ וַיֶּאְסֹר אֵזוֹר בְּמָתְנֵיהֶם׃ ‬
+      romana: El destrama puterea imparatilor si pune cingatoare de franghie in jurul
+        coapselor lor.
+      francais: Il délie la ceinture des rois, Il met une corde autour de leurs reins.
+      italian: scioglie la cintura dei re e cinge i loro fianchi d'una corda.
+      old_georgian: დასცნის მეფენი საყდართა ზედა და შეარტყის სარტყელი ძლიერებისა მათისა.
+      portuguese: Solta o cinto dos reis, e lhes ata uma corda aos lombos.
+      polish: Królów pozbawi ich władzy i sznurem skrępuje ich biodra.
+      turkish: Kralların bağladığı bağı çözer, Bellerine kuşak bağlar.
+      nrt: У царей Он развязывает пояса мантии, и обвязывает им бедра повязкой раба.
+      Macarius: Он ослабляет грозу царей, и обвязывает чресла их поясом.
+      serbian: Он раздрешује појас царевима, и опасује бедра њихова,
+      bulgarian: Той лишава царе от власт и обвързва с въже кръста им;
+      deutsch: Er löst auf der Könige Zwang und bindet mit einem Gurt ihre Lenden.
+      ukr2: Він знімає з царів кайдани | й оперізує їх стан мотуззям.
+      ukr3: Здіймає пояс із царів, і оперізує верівкою стан їх;
+      bel_syomukha: Ён вызваляе з повязяў цароў і поясам абвязвае сьцёгны ім;
+      spbda: "Узы царей Он разрешает,\r\rи поясом обвязывает чресла их."
+      lev-khv: Узы царей Он разрешает и поясом обвязывает чресла их.
+      czech: pouta kralu rozvazuje, pasem ovazuje jejich bedra,
+      spanish: desciñe la cadena de los reyes y les ata una cuerda a su cintura;
+      greek-lxx: καθιζάνων βασιλεῖς ἐπὶ θρόνους καὶ περιέδησεν ζώνῃ ὀσφύας αὐτῶν
+      st_text: Он лишает перевязей царей и поясом обвязывает чресла их;
+  - id: 18968
+    number: 19
+    bookId: 21
+    text: князей лишает достоинства и низвергает храбрых;
+    chapter: 12
+    chapterId: 488
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "отпущаяй жерцы пленники, сильных же земли низврати:"
+      averincev: священников понуждает босыми идти и могучих повергает во прах;
+      ungerov: Он отводит жрецов в плен, а сильных земли низвергает.
+      csya_old: "tпущazй жерцы2 плённики, си1льныхъ же земли2 низврати2:"
+      sovr_rbo: священников гонит босыми и крепко стоящих сбивает с ног;
+      latin: Ducit sacerdotes inglorios, et optimates supplantat;
+      ukr: Він провадить священиків босо, і потужних повалює,
+      nkjv: He leads princes away plundered, And overthrows the mighty.
+      desnitsky: священников гонит босыми и крепко стоящих сбивает с ног;
+      mt: ‫   מוֹלִיךְ כֹּהֲנִים שׁוֹלָל וְאֵתָנִים יְסַלֵּף׃ ‬
+      romana: El goneste pe preoti in picioarele goale si da peste cap pe cei
+        puternici.
+      francais: Il emmène captifs les sacrificateurs; Il fait tomber les puissants.
+      italian: Fa andare scalzi i sacerdoti e rovescia i potenti.
+      old_georgian: განავლინნის მღდელნი ტყუედ და ძლიერნი ქუეყანისანი დაამჴუნა.
+      portuguese: Aos sacerdotes leva despojados, e aos poderosos transtorna.
+      polish: Kapłanów pośle nierozważnych, powali największych mocarzy.
+      turkish: "Kâhinleri çaresiz kılar,\rKoltuklarında yıllananları devirir."
+      nrt: Священников Он гонит босыми, и низвергает сильных.
+      Macarius: Он отводит священников как добычу, и низлагает утвердившихся в силе.
+      serbian: Он доводи кнезове у лудило, и обара јаке.
+      bulgarian: князе лишава от достойнство и храбри поваля;
+      deutsch: Er führt die Priester wie einen Raub und bringt zu Fall die Festen.
+      ukr2: Він відсилає священиків босоніж, | і валить могутніх.
+      ukr3: Уймає князям їх почестї, й повалює хоробрих;
+      bel_syomukha: князёў пазбаўляе годнасьці і кідае ніцма адважных;
+      spbda: "Он отводит священников босыми,\r\rи главных низвергает,"
+      lev-khv: Он отводит священников босыми и сильных низвергает,
+      czech: kneze odvadi vysvlecene, vyvraci prastare rody,
+      spanish: hace andar descalzos a los sacerdotes y abate a los poderosos;
+      greek-lxx: ἐξαποστέλλων ἱερεῖς αἰχμαλώτους δυνάστας δὲ γῆς κατέστρεψεν
+      st_text: князей лишает достоинства и низвергает храбрых;
+  - id: 18969
+    number: 20
+    bookId: 21
+    text: отнимает язык у велеречивых и старцев лишает смысла;
+    chapter: 12
+    chapterId: 488
+    parallels:
+      - verseId: 4966
+        bookId: 71
+        bookCode: 2oe-poslanie-k-fessalonikijcam-ap-pavla
+        chapter: 2
+        short: 2 Фес:2:11
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "изменяяй устне верных, разум же старцев уразуме:"
+      averincev: отнимает речь у опытных мужей и лишает старцев силы ума;
+      ungerov: Он изменяет язык верных и постигает разум старцев.
+      csya_old: "и3змэнszй ўстнЁ вёрныхъ, рaзумъ же стaрцєвъ ўразумЁ:"
+      sovr_rbo: у досточтимых отнимает речь и старейшин лишает рассудка;
+      latin: commutans labium veracium, et doctrinam senum auferens.
+      ukr: Він надійним уста відіймає й забирає від старших розумність.
+      nkjv: He deprives the trusted ones of speech, And takes away the discernment of
+        the elders.
+      desnitsky: у досточтимых отнимает речь и старейшин лишает рассудка;
+      mt: ‫   מֵסִיר שָׂפָה לְנֶאֱמָנִים וְטַעַם זְקֵנִים יִקָּח׃ ‬
+      romana: El taie vorba celor mesteri la cuvant si ia mintea celor batrani.
+      francais: Il ôte la parole à ceux qui ont de l'assurance; Il prive de jugement
+        les vieillards.
+      italian: Toglie la favella ai più veraci e priva del senno i vegliardi.
+      old_georgian: დააგნის ბაგენი მორწმუნეთანი და გულისჴმის-ყოფაჲ მოხუცებულთა იცის.
+      portuguese: Aos que são dignos da confiança emudece, e tira aos anciãos o
+        discernimento.
+      polish: Głos uzdolnionym odbierze, rozsądku pozbawi i starców,
+      turkish: Güvenilir danışmanları susturur, Yaşlıların aklını alır.
+      nrt: Он лишает речи искусных советников и отбирает разум у старцев.
+      Macarius: Отнимает язык у верующих в себя, и старцев лишает смысла.
+      serbian: Он узима бесједу рјечитима, и старцима узима разум.
+      bulgarian: отнема езика на високомерни и лишава от разум старци;
+      deutsch: Er entzieht die Sprache den Bewährten und nimmt weg den Verstand der
+        Alten.
+      ukr2: Він проречистим рот закриває, | він забирає в старих розум.
+      ukr3: Уймає проречистим язик, і в старцїв мутить розум;
+      bel_syomukha: адбірае мову ў красамоўных і старцаў пазбаўляе глузду;
+      spbda: "Отнимает язык у надежных людей,\r\rи старцев лишает смысла."
+      lev-khv: Отнимает язык у надежных людей и старцев лишает смысла;
+      czech: odnima rec spolehlivym, starcum bere soudnost,
+      spanish: quita el habla a los sinceros y priva a los ancianos del discernimiento;
+      greek-lxx: διαλλάσσων χείλη πιστῶν σύνεσιν δὲ πρεσβυτέρων ἔγνω
+      st_text: отнимает язык у велеречивых и старцев лишает смысла;
+  - id: 18970
+    number: 21
+    bookId: 21
+    text: покрывает стыдом знаменитых и силу могучих ослабляет;
+    chapter: 12
+    chapterId: 488
+    parallels:
+      - verseId: 30498
+        bookId: 22
+        bookCode: psaltir
+        chapter: 106
+        short: Пс:106:40
+      - verseId: 20337
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 28
+        short: Ис:28:15
+      - verseId: 20632
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 40
+        short: Ис:40:23
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "изливаяй безчестие на князи, смиренныя же исцели:"
+      averincev: обильно изливает на знатных срам и ослабляет пояс борцов!
+      ungerov: Изливает безчестие на князей, а смиренных исцеляет.
+      csya_old: "и3зливazй безче1стіе на кн‰зи, смирє1нныz же и3сцэли2:"
+      sovr_rbo: благородных покрывает позором и могучим развязывает пояс.
+      latin: Effundit despectionem super principes, eos qui oppressi fuerant relevans.
+      ukr: На достойників ллє Він погорду, а пояса можним ослаблює.
+      nkjv: He pours contempt on princes, And disarms the mighty.
+      desnitsky: благородных покрывает позором и могучим развязывает пояс.
+      mt: ‫   שׁוֹפֵךְ בּוּז עַל־נְדִיבִים וּמְזִיחַ אֲפִיקִים רִפָּה׃ ‬
+      romana: El face de ocara pe cei mari si slabeste incingatoarea celor voinici.
+      francais: Il verse le mépris sur les grands; Il relâche la ceinture des forts.
+      italian: Sui nobili spande il disprezzo e allenta la cintura ai forti.
+      old_georgian: მიჰფინის უპატიობაჲ მთავართა და მდაბალნი განკურნნა.
+      portuguese: Derrama desprezo sobre os príncipes, e afrouxa o cinto dos fortes.
+      polish: pogardą okryje szlachetnych, bo pas odepnie mocarzom.
+      turkish: Rezalet saçar soylular üzerine, Güçlülerin kuşağını gevşetir.
+      nrt: Он покрывает позором знатных и лишает оружия могучих.
+      Macarius: Стыдом обливает знаменитых, и ослабляет пояс могучих.
+      serbian: Он сипа срамоту на кнезове, и распасује јунаке.
+      bulgarian: покрива със срам славни и разслабя силата на мощни;
+      deutsch: Er schüttet Verachtung auf die Fürsten und macht den Gürtel der
+        Gewaltigen los.
+      ukr2: Він виливає на вельмож презирство | й розпускає пояс сильних.
+      ukr3: Окриває стидом людей значніх, і безсилить потужних;
+      bel_syomukha: пакрывае сорамам знакамітых і сілу ў магутаў паслабляе;
+      spbda: "Обливает стыдом знаменитых,\r\rи пояс могучих ослабляет."
+      lev-khv: Обливает стыдом знаменитых и пояс могучих ослабляет;
+      czech: opovrzenim zahrne urozene, uvolnuje hraze recist,
+      spanish: arroja sobre los nobles el desprecio y suelta el cinturón de los fuertes;
+      greek-lxx: ἐκχέων ἀτιμίαν ἐπ᾿ ἄρχοντας ταπεινοὺς δὲ ἰάσατο
+      st_text: покрывает стыдом знаменитых и силу могучих ослабляет;
+  - id: 18971
+    number: 22
+    bookId: 21
+    text: открывает глубокое из среды тьмы и выводит на свет тень смертную;
+    chapter: 12
+    chapterId: 488
+    parallels:
+      - verseId: 24832
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 8
+        short: Лк:8:17
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "открываяй глубокая от тмы, изведе же на свет сень смертную:"
+      averincev: Отверзает Он сокрытое во тьме и выводит затемненное на свет;
+      ungerov: Открывает глубокое из тьмы и выводит на свет тень смертную.
+      csya_old: "tкрывazй глубHкаz t тмы2, и3зведе1 же на свётъ сёнь сме1ртную:"
+      sovr_rbo: Он раскрывает глубины мрака и кромешную тьму выводит на свет;
+      latin: Qui revelat profunda de tenebris, et producit in lucem umbram mortis.
+      ukr: Відкриває Він речі глибокі із темряви, а темне провадить на світло.
+      nkjv: He uncovers deep things out of darkness, And brings the shadow of death to
+        light.
+      desnitsky: Он раскрывает глубины мрака и кромешную тьму выводит на свет;
+      mt: ‫   מְגַלֶּה עֲמֻקוֹת מִנִּי־חֹשֶׁךְ וַיֹּצֵא לָאוֹר צַלְמָוֶת׃ ‬
+      romana: El scoate din intuneric lucrurile ascunse si aduce la lumina ceea ce era
+        acoperit de umbra.
+      francais: Il met à découvert ce qui est caché dans les ténèbres, Il produit à la
+        lumière l'ombre de la mort.
+      italian: Strappa dalle tenebre i segreti e porta alla luce le cose oscure.
+      old_georgian: გამოაცხადნის სიღრმენი ბნელისაგან და გამოიყვანნის ნათლად
+        აჩრდილთაგან სიკუდილისათა.
+      portuguese: Das trevas descobre coisas profundas, e traz para a luz a sombra da
+        morte.
+      polish: Głębinom wydrze tajniki, oświetli odwieczne ciemności,
+      turkish: Karanlıkların derin sırlarını açar, Ölüm gölgesini aydınlığa çıkarır.
+      nrt: Он открывает глубины тьмы и выводит на свет тень смертную.
+      Macarius: Глубокое выносит из тьмы, и мрачное изводит на свет.
+      serbian: Он открива дубоке ствари испод таме, и изводи на видјело сјен смртни.
+      bulgarian: открива дълбокото и сред тъмата и изважда на видело смъртната сянка;
+      deutsch: Er öffnet die finsteren Gründe und bringt heraus das Dunkel an das Licht.
+      ukr2: Він виявляє те, що в темряві глибоко скрилось, | виводить смертну тінь на
+        світло.
+      ukr3: Виявляє, що глибоко крилось у темряві, й виводить на сьвітло, що в тїнї
+        смертній;
+      bel_syomukha: адчыняе глыбокае зь сярэдзіны цемры і выводзіць на сьвятло цень
+        сьмяротны;
+      spbda: "Открывает глубокое из среды тьмы,\r
+
+        \r
+
+        и изводит на свет мрачное."
+      lev-khv: Открывает глубокое из среды тьмы и изводит на свет мрачное;
+      czech: odkryva hlubiny temnot a na svetlo vyvadi, co je v seru smrti,
+      spanish: despoja a las profundidades de sus tinieblas y saca a luz la sombra;
+      st_text: открывает глубокое из среды тьмы и выводит на свет тень смертную;
+      new_text: ""
+      tex_rec: ""
+      peshitta: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+      greek-lxx: ἀνακαλύπτων βαθέα ἐκ σκότους ἐξήγαγεν δὲ εἰς φῶς σκιὰν θανάτου
+  - id: 18972
+    number: 23
+    bookId: 21
+    text: умножает народы и истребляет их; рассевает народы и собирает их;
+    chapter: 12
+    chapterId: 488
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "прельщаяй языки и погубляяй их, низлагаяй языки и наставляяй их:"
+      averincev: умножает народы и губит их, расселяет племена и обращает в ничто,
+      ungerov: Заставляет блуждать народы и губит их, низлагает народы и исправляет их.
+      csya_old: "прельщazй kзы1ки и3 погублszй и5хъ, низлагazй kзы1ки и3 наставлszй
+        и5хъ:"
+      sovr_rbo: "возвышает народы и губит: то расширит их владенья, то отнимет;"
+      latin: Qui multiplicat gentes, et perdit eas, et subversas in integrum
+        restituit.
+      ukr: Він робить народи потужними й знову їх нищить, Він народи поширює, й потім
+        виводить в неволю.
+      nkjv: He makes nations great, and destroys them; He enlarges nations, and guides
+        them.
+      desnitsky: "возвышает народы и губит: то расширит их владенья, то отнимет;"
+      mt: ‫   מַשְׂגִּיא לַגּוֹיִם וַיְאַבְּדֵם שֹׁטֵחַ לַגּוֹיִם וַיַּנְחֵם׃ ‬
+      romana: El sporeste neamurile si apoi le pierde, El le lasa sa se intinda si
+        apoi le stramtoreaza.
+      francais: Il donne de l'accroissement aux nations, et il les anéantit; Il les
+        étend au loin, et il les ramène dans leurs limites.
+      italian: Fa grandi i popoli e li lascia perire, estende le nazioni e le abbandona.
+      old_georgian: შეაცთუნნის წარმართნი და განუტევნის იგინი, გარნა მოიყვანნის ძენი
+        ნათესავთანი და წარმოუძღჳს მათ.
+      portuguese: Multiplica as nações e as faz perecer; alarga as fronteiras das
+        nações, e as leva cativas.
+      polish: narody pomnoży i zgubi, jak dowódca ich prowadzi.
+      turkish: Ulusları büyütür, ulusları yok eder, Ulusları genişletir, ulusları
+        sürgün eder.
+      nrt: Он возвышает и губит народы, умножает их и рассеивает.
+      Macarius: Размножает народы, и губит их; распростирает народы, и уводит их.
+      serbian: Он умножава народе и затире их, расипа народе и сабира.
+      bulgarian: множи народите и ги изтребва; разпръсва народите и ги събира;
+      deutsch: Er macht etliche zu großem Volk und bringt sie wieder um. Er breitet
+        ein Volk aus und treibt es wieder weg.
+      ukr2: Множить народи і їх губить, | поширює людей, а потім їх нищить.
+      ukr3: Множить народи й вигублює їх; розсїває народи, й збірає їх докупи.
+      bel_syomukha: памнажае народы і вынішчае іх; расьсявае народы і зьбірае іх;
+      spbda: "Разумножает народы, и губит их;\r\rраспростирает народы, и уводит их."
+      lev-khv: Размножает народы и губит их; распростирает народы и уводит их;
+      czech: pronarodum dava vzrust i zanik, rozprostira pronarody i odvadi je,
+      spanish: eleva a las naciones y las arruina, dilata a los pueblos y los suprime;
+      greek-lxx: πλανῶν ἔθνη καὶ ἀπολλύων αὐτά καταστρωννύων ἔθνη καὶ καθοδηγῶν αὐτά
+      st_text: умножает народы и истребляет их; рассевает народы и собирает их;
+  - id: 18973
+    number: 24
+    bookId: 21
+    text: "отнимает ум у глав народа земли и оставляет их блуждать в пустыне, где
+      нет пути:"
+    chapter: 12
+    chapterId: 488
+    parallels:
+      - verseId: 32313
+        bookId: 22
+        bookCode: psaltir
+        chapter: 75
+        short: Пс:75:13
+      - verseId: 20246
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 23
+        short: Ис:23:11
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: изменяяй сердца князей земных, прельсти же их на пути, егоже не ведяху,
+      averincev: отнимает ум у народных вождей и ведет в пустыню, где нет пути, -
+      ungerov: Изменяет сердца владык земных, оставляет их блуждать на пути, котораго
+        они не знали,
+      csya_old: и3змэнszй сердцA кнzзе1й земны1хъ, прельсти1 же и5хъ на пути2, є3гHже
+        не вёдzху,
+      sovr_rbo: отнимает разум у вождей народов, гонит их по пустыне, по бездорожью —
+      latin: Qui immutat cor principum populi terrae, et decipit eos ut frustra
+        incedant per invium.
+      ukr: Відіймає Він розум в народніх голів на землі та блукати їх змушує по
+        бездорожній пустелі,
+      nkjv: He takes away the understanding of the chiefs of the people of the earth,
+        And makes them wander in a pathless wilderness.
+      desnitsky: отнимает разум у вождей народов, гонит их по пустыне, по бездорожью –
+      mt: ‫   מֵסִיר לֵב רָאשֵׁי עַם־הָאָרֶץ וַיַּתְעֵם בְּתֹהוּ לֹא־דָרֶךְ׃ ‬
+      romana: El scoate din minti pe capeteniile popoarelor si ii lasa sa rataceasca
+        in singuratati fara carari.
+      francais: Il enlève l'intelligence aux chefs des peuples, Il les fait errer dans
+        les déserts sans chemin;
+      italian: Toglie il senno ai capi del paese e li fa vagare per solitudini senza
+        strade,
+      old_georgian: დააგნის გულნი მთავართა ქუეყანისათანი და შეაცთუნნა იგინი გზასა,
+        რომელ არა იცოდეს.
+      portuguese: Tira o entendimento aos chefes do povo da terra, e os faz vaguear
+        pelos desertos, sem caminho.
+      polish: Rządcom ziem odbierze rozsądek, po bezdrożach pozwoli im błądzić;
+      turkish: Dünya önderlerinin aklını başından alır, Yolu izi belirsiz bir çölde
+        dolaştırır onları.
+      nrt: Он лишает рассудка земных владык и шлет их в пустыню, где нет пути.
+      Macarius: Отъемлет сердце у глав народа земли, и оставляет их блуждать в
+        пустыне, где нет пути.
+      serbian: Он одузима срце главарима народа земаљских, и заводи их у пустињу гдје
+        нема пута,
+      bulgarian: "лишава от ум главатарите на земните народи и ги оставя да се скитат
+        в пустинята, дето няма път:"
+      deutsch: Er nimmt weg den Mut der Obersten des Volkes im Lande und macht sie
+        irre auf einem Umwege, da kein Weg ist,
+      ukr2: Він відбирає розум у голів краю, | пускає їх блудити в пустині без дороги.
+      ukr3: Віднімає розум у голов народів землї й пускає їх блудом у пустинї, де нема
+        шляху;
+      bel_syomukha: адбірае розум у стрэйшынаў народу зямлі і пакідае іх блукаць у
+        пустыні, дзе няма дарогі;
+      spbda: "Отъемлет сердце у глав народа земли,\r\rи оставляет их блуждать в
+        пустыне бездорожной."
+      lev-khv: Отнимает ум у глав народа земли и оставляет их блуждать в пустыне
+        бездорожной.
+      czech: bere rozum nacelnikum lidu zeme, zavadi je do bezcestnych pustot,
+      spanish: quita el sentido a los gobernantes del país y los hace errar en un
+        desierto sin caminos;
+      greek-lxx: διαλλάσσων καρδίας ἀρχόντων γῆς ἐπλάνησεν δὲ αὐτοὺς ὁδῷ ᾗ οὐκ ᾔδεισαν
+      st_text: "отнимает ум у глав народа земли и оставляет их блуждать в пустыне, где
+        нет пути:"
+  - id: 18974
+    number: 25
+    bookId: 21
+    text: ощупью ходят они во тьме без света и шатаются, как пьяные.
+    chapter: 12
+    chapterId: 488
+    parallels:
+      - verseId: 20360
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 29
+        short: Ис:29:9
+      - verseId: 21029
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 59
+        short: Ис:59:10
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: да осяжут тму, а не свет, да заблудят же яко пияный.
+      averincev: "ощупью, без света, бредут они, как пьяные, шатаются в темноте!        "
+      ungerov: Дабы они ходили ощупью во тьме, а не во свете, блуждали, как пьяный.
+      csya_old: да њсsжутъ тмY, ґ не свётъ, да заблyдzтъ же ћкw піsный.
+      sovr_rbo: и во тьме, без света, бредут на ощупь, а Он их водит кругами, как пьяных.
+      latin: Palpabunt quasi in tenebris, et non in luce, et errare eos faciet quasi
+        ebrios.
+      ukr: вони ходять навпомацки в темряві темній, і Він упроваджує їх в блуканину,
+        мов п'яного!
+      nkjv: They grope in the dark without light, And He makes them stagger like a
+        drunken man.
+      desnitsky: и во тьме, без света, бредут наощупь, а Он их водит кругами, как пьяных.
+      mt: ‫   יְמַשְׁשׁוּ־חֹשֶׁךְ וְלֹא־אוֹר וַיַּתְעֵם כַּשִּׁכּוֹר׃ ‬
+      romana: Acolo ei orbecaiesc in intuneric, fara nici o lumina, caci Dumnezeu ii
+        lasa sa se impleticeasca aidoma celui ce s-a imbatat.
+      francais: Ils tâtonnent dans les ténèbres, et ne voient pas clair; Il les fait
+        errer comme des gens ivres.
+      italian: vanno a tastoni per le tenebre, senza luce, e barcollano come ubriachi.
+      old_georgian: ჰრევდედ იგინი ბნელსა და ნუ ნათელსა, შესცთედ იგინი ვითარცა მართალნი.
+      portuguese: Eles andam nas trevas às apalpadelas, sem luz, e ele os faz
+        cambalear como um ébrio.
+      polish: macają w ciemności bez światła, chwieją się jak pijani.
+      turkish: Karanlıkta el yordamıyla yürür, ışık yüzü görmezler; Sarhoş gibi
+        dolaştırır onları.
+      nrt: Бредут они на ощупь в темноте, без света, и шатаются, словно пьяные.
+      Macarius: Ощупью ходят они во тьме, а не во свете; и оставляет их шататься,
+        подобно пьяному.
+      serbian: Да пипају по мраку без видјела, и чини да тумарају као пијани.
+      bulgarian: пипнешком ходят те в тъмата, без светило, и политат като пияни.
+      deutsch: daß sie in Finsternis tappen ohne Licht; und macht sie irre wie die
+        Trunkenen.
+      ukr2: І вони бродять помацки у темряві без світла, | і заточуються, немов
+        п'яні.»
+      ukr3: Помацьки ходять вони в темряві без сьвітла, й заточуються, неначе пяні.
+      bel_syomukha: вобмацкам ходзяць яны ў цемры без сьвятла і хістаюцца, як п'яныя.
+      spbda: "Ощупью ходят они во тьме, а не во свете;\r
+
+        \r
+
+        и оставляет их шататься, подобно пьяному."
+      lev-khv: Ощупью ходят они во тьме, а не во свете; и оставляет их шататься,
+        подобно пьяному.
+      czech: aby tapali v temnote beze svetla, ano, zavadi je jako opileho.
+      spanish: caminan a tientas en las tinieblas sin luz, y hace que como beodos
+        vacilen.
+      st_text: ощупью ходят они во тьме без света и шатаются, как пьяные.
+      new_text: ""
+      tex_rec: ""
+      peshitta: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+      greek-lxx: ψηλαφήσαισαν σκότος καὶ μὴ φῶς πλανηθείησαν δὲ ὥσπερ ὁ μεθύων

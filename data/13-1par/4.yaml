@@ -1,0 +1,2649 @@
+id: 342
+number: 4
+bookId: 13
+verseCount: 43
+title: Глава 4
+verses:
+  - id: 3315
+    number: 1
+    bookId: 13
+    text: "Сыновья Иуды: Фарес, Есром, Харми, Хур и Шовал."
+    chapter: 4
+    chapterId: 342
+    parallels:
+      - verseId: 10652
+        bookId: 1
+        bookCode: bytie
+        chapter: 38
+        short: Быт:38:29
+      - verseId: 10928
+        bookId: 1
+        bookCode: bytie
+        chapter: 46
+        short: Быт:46:12
+      - verseId: 2971
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 2
+        short: 1 Пар:2:4
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Сынове же иудины: фарес, есром и хармий, и ор и сувал,"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Сы1нове же ї{дины: фаре1съ, є3срHмъ и3 хармjй, и3 њ1ръ и3 сувaлъ,"
+      sovr_rbo: "Потомки Иуды: Парец, Хецрон, Карми, Хур и Шовал."
+      latin: "Filii Juda: Phares, Hesron, et Charmi, et Hur, et Sobal."
+      ukr: "Сини Юдині: Перец, Хецрон, і Кармі, і Хур, і Шовал."
+      nkjv: The sons of Judah were Perez, Hezron, Carmi, Hur, and Shobal.
+      desnitsky: ""
+      mt: ‫    בְּנֵי יְהוּדָה פֶּרֶץ חֶצְרוֹן וְכַרְמִי וְחוּר וְשׁוֹבָל׃ ‬
+      romana: "Fiii lui Iuda au fost: Fares, Hetron, Carmi, Hur si Sobal."
+      francais: "Fils de Juda: Pérets, Hetsron, Carmi, Hur et Schobal."
+      italian: "Figli di Giuda: Perez, Chezròn, Carmì, Cur e Sobal."
+      old_georgian: "და ძენი იუდასნი: ფარეზ, ესრომ, ქარიმ, და ორ და უბარ."
+      portuguese: "Os filhos de Judá: Pérez, Hezrom, Carmi, Hur e Sobal."
+      polish: "Synowie Judy: Peres, Chesron, Karmi, Chur i Szobal."
+      turkish: "Yahuda oğulları: Peres, Hesron, Karmi, Hur, Şoval."
+      nrt: "Потомки Иуды: Парец, Хецрон, Харми, Хур и Шовал."
+      Macarius: "Сыновья Иуды: Фарес, Есром, Фарма, Ор, Шовал."
+      serbian: "Синови Јудини бјеху: Фарес, Есрон и Хармија и Ор и Совал."
+      bulgarian: "Синове Иудини: Фарес, Есром, Харми, Хур и Шовал."
+      deutsch: "Die Kinder Juda's waren: Perez, Hezron, Karmi, Hur und Sobal."
+      ukr2: "Сини Юди: Перец, Хецрон, Кармі, Хур та Шовал."
+      ukr3: "Сини Юдині: Фарес, Есрон, Хармій, Хул та Шовал."
+      bel_syomukha: "Сыны Юды: Фарэс, Эсром, Хармі, Хур і Шавал."
+      lev-khv: "Сыновья Иуды: Фарес, Есром, и Харми, и Хур и Шовал."
+      czech: "Synove Judovi: Peres, Chesron a Karmi, Chur a Sobal."
+      spanish: "Hijos de Judá: Peres, Jesrón, Carmi, Jur y Sobal."
+      greek-lxx: καὶ υἱοὶ Ιουδα Φαρες Αρσων καὶ Χαρμι καὶ Ωρ Σουβαλ
+      st_text: "Сыновья Иуды: Фарес, Есром, Харми, Хур и Шовал."
+  - id: 3316
+    number: 2
+    bookId: 13
+    text: "Реаия, сын Шовала, родил Иахафа; Иахаф родил Ахума и Лагада: от них
+      племена Цорян."
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и рада сын суваль. Сувал же роди иефа, иеф же роди ахимеа и лаада: сии
+        родове арафиины."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 радA сы1нъ сувaль. Сувaлъ же роди2 їе1fа, їе1fъ же роди2 ґхіме1а
+        и3 лаaда: сjи ро1дове ґраf‡ины."
+      sovr_rbo: У Реаи, сына Шовала, родился Яхат; у Яхата родились Ахумай и Лахад.
+        Это роды цоратян.
+      latin: "Raia vero filius Sobal genuit Jahath, de quo nati sunt Ahumai, et Laad:
+        hae cognationes Sarathi."
+      ukr: А Реая, син Шовалів, породив Яхата, а Яхат породив Ахумая та Лахада, оце
+        роди цор'атян.
+      nkjv: And Reaiah the son of Shobal begot Jahath, and Jahath begot Ahumai and
+        Lahad. These were the families of the Zorathites.
+      desnitsky: ""
+      mt: ‫    וּרְאָיָה בֶן־שׁוֹבָל הוֹלִיד אֶת־יַחַת וְיַחַת הֹלִיד אֶת־אֲחוּמַי
+        וְאֶת־לָהַד אֵלֶּה מִשְׁפְּחוֹת הַצָּרְעָתִי׃ ס ‬
+      romana: Reaia, fiul lui Sobal, a avut fiu pe Iahat; lui Iahat i s-a nascut
+        Ahumai si Lahad. Din el se trag familiile Toreenilor.
+      francais: Reaja, fils de Schobal, engendra Jachath; Jachath engendra Achumaï et
+        Lahad. Ce sont les familles des Tsoreathiens.
+      italian: Reaia figlio di Sobal generò Iacat; Iacat generò Acumài e Laad. Queste
+        sono le famiglie degli Zoreatei.
+      old_georgian: დარა, ძე მისი. და სუბე შვა იეთე. და იეთე შვა აქიმე და ლაად. ესე
+        შობანი არიან სალათისნი.
+      portuguese: Reaías, filho de Sobal, foi pai de Jaate, e Jaate de Aümai e Laade;
+        estas são as famílias dos zoratitas.
+      polish: "Reajasz, syn Szobala, był ojcem Jachata, a Jachat - Achumaja i Lahada.
+        Te\rsą rody Soreatytów."
+      turkish: Şoval oğlu Reaya Yahat'ın babasıydı. Yahat Ahumay'ın ve Lahat'ın
+        babasıydı. Soralı boylar bunlardı.
+      nrt: Реая, сын Шовала, был отцом Иахафа, а Иахаф – отцом Ахумая и Лагада. Это
+        кланы цоратитов.
+      Macarius: Реаия, сын Шовала, родил Иахафа; Иахаф родил Ахумая и Лагада; сии суть
+        племена Цораитян.
+      serbian: А Реаја, син Совалов, роди Јата, а Јат роди Ахумаја и Лада. То су
+        породице Саратске.
+      bulgarian: "Реаия, Шовалов син, роди Иахата; Иахат роди Ахума и Лахада: от тях
+        са родовете на цорци."
+      deutsch: Reaja aber, der Sohn Sobals, zeugte Jahath. Jahath zeugte Ahumai und
+        Lahad. Das sind die Freundschaften der Zorathiter.
+      ukr2: Рая, син Шовала, породив Яхата, а Яхат породив Ахумая та Лагада. Це родина
+        цуреатіїв.
+      ukr3: "Від Реаїї, Шовалового сина, народився Яхат; від Яхата народився Ахум та
+        Лагад: від них поколїння Зорян."
+      bel_syomukha: "Рэая, сын Шавала, спарадзіў Яхата; Яхат спарадзіў Ахума і Лагада:
+        ад іх плямёны Царанаў."
+      lev-khv: "А Реаия, сын Шовала, родил Иахафа; а Иахаф родил Ахумая и Лагада: эти
+        племена Цорян."
+      czech: Reajas, syn Sobaluv, zplodil Jachata a Jachat zplodil Achumaje a Lahada.
+        To jsou celedi soreatejske.
+      spanish: Reaya, hijo de Sobal, engendró a Jajat; Jajat engendró a Ajumai y
+        Lahad. Estas son las familias de los sareotitas.
+      greek-lxx: καὶ Ραια υἱὸς αὐτοῦ καὶ Σουβαλ ἐγέννησεν τὸν Ιεθ καὶ Ιεθ ἐγέννησεν
+        τὸν Αχιμι καὶ τὸν Λααδ αὗται αἱ γενέσεις τοῦ Σαραθι
+      st_text: "Реаия, сын Шовала, родил Иахафа; Иахаф родил Ахума и Лагада: от них
+        племена Цорян."
+  - id: 3317
+    number: 3
+    bookId: 13
+    text: "И сии сыновья Етама: Изреель, Ишма и Идбаш, и сестра их, по имени
+      Гацлелпони,"
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И сии сынове етановы: иезраиль и иесман и иевдан: имя же сестре их
+        есиадесфон."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# сjи сы1нове є3тaнwвы: їезраи1ль и3 їесмaнъ и3 їевдaнъ: и4мz же
+        сестрЁ и4хъ є3сіадесфHнъ."
+      sovr_rbo: "Вот сыновья Этама: Изреель, Ишма, Идбаш и сестра их по имени
+        Хацлелпони, а также"
+      latin: "Ista quoque stirpes Etam: Jezrahel, et Jesema, et Jedebos. Nomen quoque
+        sororis eorum, Asalelphuni."
+      ukr: "А оці Аві-Етамові: Їзреел, і Їшма, і Їдбаш, а ім'я їхній сестрі
+        Гаццелелпоні."
+      nkjv: "These were the sons of the father of Etam: Jezreel, Ishma, and Idbash;
+        and the name of their sister was Hazelelponi;"
+      desnitsky: ""
+      mt: ‫    וְאֵלֶּה אֲבִי עֵיטָם יִזְרְעֶאל וְיִשְׁמָא וְיִדְבָּשׁ וְשֵׁם אֲחוֹתָם
+        הַצְלֶלְפּוֹנִי׃ ‬
+      romana: "Fiii lui Etam sunt: Izreel, Isma si Idbas, si sora lor cu numele
+        Hatlelponi."
+      francais: "Voici les descendants du père d'Étham: Jizreel, Jischma et Jidbasch;
+        le nom de leur soeur était Hatselelponi."
+      italian: "Questi furono i figli del padre di Etam: Izreèl, Isma e Ibdas; la loro
+        sorella si chiamava Azlelpòni."
+      old_georgian: "და ესენი ძენი არიან ეტამისნი: და იეზრაელ, და იესმა და იაბეს, და
+        სახელი დისა მათისა ესელელფონ."
+      portuguese: "Estes foram os filhos de Etã: Jizreel, Ismá, e Idbás; e o nome da
+        irmã deles era Hazelelponi;"
+      polish: "A ci byli z ojca Etama: Jizreel, Jiszma i Jidbasz, a imię ich siostry:
+        Haslelponi."
+      turkish: "Etam'ın oğulları: Yizreel, Yişma, Yidbaş. Kızkardeşlerinin adı
+        Haselelponi'dir."
+      nrt: "Вот сыновья Етама: Изреель, Ишма, Идбаш. Их сестру звали Гацлелпони."
+      Macarius: "От отца Етамлян родились сии: Изреел, Ишма и Идбаш и сестра их, по
+        имени Гацлелпони;"
+      serbian: "А ово су од оца Итама: Језраел и Јесма и Једвас, а сестри њиховој
+        бјеше име Аселелфонија."
+      bulgarian: "А тия са синове Етамови: Изреел, Ишма и Идбаш, и сестра им, на име
+        Гацлелпони."
+      deutsch: "Und dies ist der Stamm des Vaters Etams: Jesreel, Jisma, Jidbas; und
+        ihre Schwester hieß Hazlelponi;"
+      ukr2: "А ось сини Хура, Етамового батька: Єзреел, Ішма та Їдбаш, а сестра їхня
+        була на ім'я Гацлелпоні;"
+      ukr3: "А це сини Етанові: Езреель, Ешма та Ідбаш, та сестра їх, на ймя
+        Газлелпоні,"
+      bel_syomukha: "І гэтыя сыны Этама: Ізрэель, Ішма і Ідбаш, і сястра іхняя, на імя
+        Гацлелпоні,"
+      lev-khv: "И вот <i>дети</i> Ави-Етама: Изреель, и Ишма и Идбаш, и сестра их, по
+        имени Гацлелпони,"
+      czech: "Z otce Etama jsou tito: Jizreel, Jisma a Jidbas; jejich sestra se
+        jmenovala Haslelponi."
+      spanish: "He aquí los descendientes del padre de Etam: Jezrael, Jisma y Jidbas.
+        El nombre de su hermana era Haselponi."
+      greek-lxx: καὶ οὗτοι υἱοὶ Αιταμ Ιεζραηλ καὶ Ραγμα καὶ Ιαβας καὶ ὄνομα ἀδελφῆς
+        αὐτῶν Εσηλεββων
+      st_text: "И сии сыновья Етама: Изреель, Ишма и Идбаш, и сестра их, по имени
+        Гацлелпони,"
+  - id: 3318
+    number: 4
+    bookId: 13
+    text: Пенуел, отец Гедора, и Езер, отец Хуша. Вот сыновья Хура, первенца Ефрафы,
+      отца Вифлеема.
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И фануил отец гедоров, и езер отец осань: сии сынове ора первенца ефрафа,
+        отца вефлаемля."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# фануи1лъ nте1цъ гедHровъ, и3 є3зе1ръ nте1цъ њсaнь: сjи сы1нове
+        њ1ра пе1рвенца є3фрafа, nтцA веfлае1млz."
+      sovr_rbo: Пенуэл, отец Гедора, и Эзер, отец Хуши. Вот потомки Хура, который был
+        первенцем Эфраты и отцом Вифлеема.
+      latin: "Phanuel autem pater Gedor, et Ezer pater Hosa: isti sunt filii Hur
+        primogeniti Ephratha patris Bethlehem."
+      ukr: А Пенуїл батько Ґедора, а Езер батько Хуші. Оце сини Хура, Єфремового
+        первородженого, батька Віфлеєму.
+      nkjv: and Penuel was the father of Gedor, and Ezer was the father of Hushah.
+        These were the sons of Hur, the firstborn of Ephrathah the father of
+        Bethlehem.
+      desnitsky: ""
+      mt: ‫    וּפְנוּאֵל אֲבִי גְדֹר וְעֵזֶר אֲבִי חוּשָׁה אֵלֶּה בְנֵי־חוּר בְּכוֹר
+        אֶפְרָתָה אֲבִי בֵּית לָחֶם׃ ‬
+      romana: Panuel, tatal lui Ghedor si Ezer, tatal lui Husa sunt fiii lui Hur,
+        intaiul nascut din Efrata si tatal lui Betleem.
+      francais: Penuel était père de Guedor, et Ézer père de Huscha. Ce sont là les
+        fils de Hur, premier-né d'Éphrata, père de Bethléhem.
+      italian: Penuel fu padre di Ghedor; Ezer fu padre di Cusa. Questi furono i figli
+        di Cur il primogenito di Èfrata padre di Betlemme.
+      old_georgian: და ფანელ, მამა გედირისა, და ეზელ, მამა სოსანისა. ესე ძენი ორისნი,
+        პირმშოსა ეფრათაისნი, მამისა ბეთლაემისა.
+      portuguese: "e mais Penuel, pai de Gedor, e Ézer, pai de Husá; estes foram os
+        filhos de Hur, o primogênito de Efrata, pai de\rBelém."
+      polish: Penuel był ojcem Gedora, a Ezer - ojcem Chuszy. Oto synowie Chura,
+        pierworodnego Efraty, ojca Betlejem.
+      turkish: Penuel Gedor'un babasıydı. Ezer Huşa'nın babasıydı. Bunlar Beytlehem'in
+        kurucusu ve Efrat'ın ilk oğlu Hur'un torunlarıydı.
+      nrt: Пенуэл был отцом Гедора, а Езер – отцом Хушы. Это потомки Хура, первенца
+        Ефрафы и отца Вифлеема.
+      Macarius: Фенуил, отец Гедора и Езер, отец Хуши. Вот сыновья Ора, первенца
+        Ефрафы, отца Вифлеемлян.
+      serbian: И Фануило бјеше отац Гедору, и Есер отац Хусин. То бијаху синови Ора
+        првенца Ефрате, оца Витлејемцима.
+      bulgarian: Пенуел, баща на Гедора, и Езер, баща на Хуша. Това са синове на Хура,
+        първенец Ефратин, баща Витлеемов.
+      deutsch: und Pnuel, der Vater Gedors, und Eser, der Vater Husas. Das sind die
+        Kinder Hurs, des ersten Sohnes der Ephrata, des Vaters Bethlehems.
+      ukr2: Пенуел, батько Гедора, та Езер, батько Хуша. Оце сини Хура, первородного
+        Ефрати, батька Бет-Легема.
+      ukr3: Пенуел, батько Гедорів, та Езер, батько Хушів. Оце сини в Гура,
+        найстаршого в Ефратї, Бетлеємського батька (князя).
+      bel_syomukha: Пэнуэл, бацька Гэдора, і Эзэр, бацька Хуша. Вось сыны Хура,
+        першынца Эфраты, бацькі Віфляема.
+      lev-khv: И Фенуел, отец Гедора, и Езер, отец Хуша. Вот сыновья Хура, первенца
+        Ефрафы, владельца Вифлеема.
+      czech: Penuel byl otec Gedora a Ezer otec Chusiho. To jsou synove Chura,
+        prvorozeneho Efratina, otce Betlema.
+      spanish: Penuel fue padre de Guedor, y Ezer, padre de Jusa. Estos son los hijos
+        de Jur, primogénito de Efrata, padre de Betlejem.
+      greek-lxx: καὶ Φανουηλ πατὴρ Γεδωρ καὶ Αζηρ πατὴρ Ωσαν οὗτοι υἱοὶ Ωρ τοῦ
+        πρωτοτόκου Εφραθα πατρὸς Βαιθλαεμ
+      st_text: Пенуел, отец Гедора, и Езер, отец Хуша. Вот сыновья Хура, первенца
+        Ефрафы, отца Вифлеема.
+  - id: 3319
+    number: 5
+    bookId: 13
+    text: "У Ахшура, отца Фекои, были две жены: Хела и Наара."
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Ассуру же отцу фекоеву бысте две жене: халла и маара:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Ґссyру же nтцY fекHеву бы1стэ двЁ жєнЁ: халлA и3 маарA:"
+      sovr_rbo: "У Ашхура, отца Текоа, были две жены: Хела и Наара."
+      latin: Assur vero patri Thecuae erant duae uxores, Halaa et Naara.
+      ukr: "А в Ашхура, батька Текої, були дві жінки: Хел'а та Наара."
+      nkjv: And Ashhur the father of Tekoa had two wives, Helah and Naarah.
+      desnitsky: ""
+      mt: ‫    וּלְאַשְׁחוּר אֲבִי תְקוֹעַ הָיוּ שְׁתֵּי נָשִׁים חֶלְאָה וְנַעֲרָה׃ ‬
+      romana: "Ashur, tatal lui Tecoa, a avut doua femei: pe Helea si Naara."
+      francais: Aschchur, père de Tekoa, eut deux femmes, Hélea et Naara.
+      italian: Ascùr padre di Tekòa aveva due mogli, Chelea e Naara.
+      old_georgian: "და საურ, მამისა თეკუესა, იყუნეს ორნი ცოლნი: აალა და ნოორა."
+      portuguese: "Asur, pai de Tecoa, tinha duas mulheres: Helá e Naará."
+      polish: "Aszchur, ojciec Tekoa, miał dwie żony: Cheleę i Naarę."
+      turkish: Tekoa'nın kurucusu Aşhur'un Helah ve Naara adında iki karısı vardı.
+      nrt: Ашхур был отцом Текоа, и у него было две жены – Хела и Наара.
+      Macarius: У Ашхура, отца Фекои, было две жены, Хела и Наара.
+      serbian: А Асхор, отац Текујанима, имаше двије жене, Елу и Нару.
+      bulgarian: "Ахшур, баща на Текоя, имаше две жени: Хела и Наара."
+      deutsch: "Ashur aber, der Vater Thekoas, hatte zwei Weiber: Helea und Naera."
+      ukr2: "В Ашхура, батька Текоа, було дві жінки: Хема та Наара."
+      ukr3: "В Ахшура, Текоїного батька, було дві жінки: Хела та Наара."
+      bel_syomukha: "У Ахшура, бацькі Тэкоі, былі дзьве жонкі: Хэла і Наара."
+      lev-khv: "А у Ашхура, владельца Фекои, были две жены: Хела и Наара."
+      czech: "Aschur, otec Tekoje, mel dve manzelky: Cheleu a Naaru."
+      spanish: "Asjur, padre de Tecua, tuvo dos mujeres: Jeleá y Naará."
+      greek-lxx: καὶ τῷ Σαουρ πατρὶ Θεκωε ἦσαν δύο γυναῖκες Αωδα καὶ Θοαδα
+      st_text: "У Ахшура, отца Фекои, были две жены: Хела и Наара."
+  - id: 3320
+    number: 6
+    bookId: 13
+    text: И родила ему Наара Ахузама, Хефера, Фимни и Ахашфари; это сыновья Наары.
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "роди же ему маара ахаза и афера, и фемана и аасфира: вси сии сынове
+        маарины."
+      averincev: ""
+      ungerov: ""
+      csya_old: "роди1 же є3мY маарA ґхaза и3 ґfе1ра, и3 fемaна и3 ґасfи1ра: вси2 сjи
+        сы1нове ма†рины."
+      sovr_rbo: Наара родила ему Ахуззама, Хефера, Темни и Ахаштари. Это сыновья Наары.
+      latin: "Peperit autem ei Naara, Oozam, et Hepher, et Themani, et Ahasthari: isti
+        sunt filii Naara."
+      ukr: І породила йому Наара Ахуззама, і Хефера, і Темені, і Ахаштарі, оце сини
+        Наарині.
+      nkjv: Naarah bore him Ahuzzam, Hepher, Temeni, and Haahashtari. These were the
+        sons of Naarah.
+      desnitsky: ""
+      mt: ‫    וַתֵּלֶד לוֹ נַעֲרָה אֶת־אֲחֻזָּם וְאֶת־חֵפֶר וְאֶת־תֵּימְנִי
+        וְאֶת־הָאֲחַשְׁתָּרִי אֵלֶּה בְּנֵי נַעֲרָה׃ ‬
+      romana: Naara i-a nascut pe Ahuzam, Hefer, Temni si Ahastari. Acestia sunt fiii
+        Naarei.
+      francais: "Naara lui enfanta Achuzzam, Hépher, Thémeni et Achaschthari: ce sont
+        là les fils de Naara."
+      italian: Naara gli partorì Acuzzàm, Chefer, il Temanita e l'Acastarita; questi
+        furono figli di Naara.
+      old_georgian: "უშვა მას ნოორა: ოქსამ, და ეფად, და თემან და ასთერა. ყოველნი ესე
+        ძენი ნორასნი."
+      portuguese: Naará deu-lhe à luz Aüzão, Hefer, Temêni e Haastári; estes foram os
+        filhos de Naará.
+      polish: "Naara urodziła mu Achuzama, Chefera, Temniego i Achasztariego. Ci
+        byli\rsynami Naary."
+      turkish: Naara ona Ahuzzam, Hefer, Temeni ve Haahaştari'yi doğurdu. Bunlar
+        Naara'nın oğullarıydı.
+      nrt: Наара родила ему Ахузама, Хефера, Тимни и Ахашфари – это сыновья Наары.
+      Macarius: "Наара родила ему Ахузама, Хефера, Фемния и Ахаштария: это сыновья
+        Наары."
+      serbian: И Нара му роди Ахузама и Ефера и Темана и Ахастара. То су синови Нарини.
+      bulgarian: "Наара му роди Ахузама, Хефера, Тимни и Ахаштари: това са синове от
+        Наара."
+      deutsch: Und Naera gebar ihm Ahussam, Hepher, Themni, Ahastari. Das sind die
+        Kinder Naeras.
+      ukr2: "Наара породила йому: Ахузама, Хефера, Темні та Ахаштарі. Це сини Наари."
+      ukr3: "І породила Наара йому Ахузама, Хефера, Тимні та Ахашоарі: це сини від
+        Наари."
+      bel_syomukha: "І нарадзіла яму Наара Ахузама, Хэфэра, Тымні і Ахаштары: гэта
+        сыны Наары."
+      lev-khv: "И родила ему Наара Ахузама, и Хефера, и Фимни, и Ахаштари: это сыновья
+        Наары,"
+      czech: Naara mu porodila Achuzama, Chefera, Temniho a Achastariho. To jsou
+        synove Naarini.
+      spanish: Naará le parió a Ajuzam, Jefer, Temeni y Ajastarí; éstos son los hijos
+        de Naará.
+      greek-lxx: καὶ ἔτεκεν αὐτῷ Αωδα τὸν Ωχαζαμ καὶ τὸν Ηφαδ καὶ τὸν Θαιμαν καὶ τὸν
+        Ασθηραν πάντες οὗτοι υἱοὶ Αωδας
+      st_text: И родила ему Наара Ахузама, Хефера, Фимни и Ахашфари; это сыновья Наары.
+  - id: 3321
+    number: 7
+    bookId: 13
+    text: "Сыновья Хелы: Цереф, Цохар и Ефнан."
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И сынове хеллани: сереф и саар и есфанам."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# сы1нове хелл†ни: сере1fъ и3 саaръ и3 є3сfанaмъ."
+      sovr_rbo: "Сыновья Хелы: Церет, Цохар и Этнан."
+      latin: Porro filii Halaa, Sereth, Isaar et Ethnan.
+      ukr: "А сини Хел'ині: Церет, і Цохар, і Етнан."
+      nkjv: The sons of Helah were Zereth, Zohar, and Ethnan;
+      desnitsky: ""
+      mt: ‫    וּבְנֵי חֶלְאָה צֶרֶת *יצחר **וְצֹחַר וְאֶתְנָן׃ ‬
+      romana: "Iar fiii Helei sunt: Teret, Tohar Etna si Cot."
+      francais: "Fils de Hélea: Tséreth, Tsochar et Ethnan."
+      italian: "Figli di Chelea: Zeret, Zocar, Etnan e Koz."
+      old_georgian: "და ძენი აალასნი: ასარეთი, და ასარა და ეთნან."
+      portuguese: "E os filhos de Helá: Zerete, Izar e Etnã."
+      polish: "Synowie Chelei: Seret, Sochar i Etnan."
+      turkish: "Helah'ın oğulları: Seret, Yishar, Etnan"
+      nrt: "Сыновья Хелы: Цереф, Цохар, Ефнан"
+      Macarius: "Сыновья Хелы были: Цереф, Цохар и Эфнан."
+      serbian: "А синови Елини: Серед, Јесоар и Етнан."
+      bulgarian: "Синове от Хела: Церет, Цохар и Етнан."
+      deutsch: "Aber die Kinder Heleas waren: Zereth, Jizhar und Ethnan."
+      ukr2: "Сини ж Хели: Церет, Цохар, Етнан і Коц."
+      ukr3: "Сини Хелині: Зерет, Зохар та Етнан."
+      bel_syomukha: "Сыны Хэлы: Цэрэт, Цохар і Этнан."
+      lev-khv: "А сыновья Хелы: Цереф, и Цохар, и Ефнан."
+      czech: "Synove Cheleini: Seret, Jesochar a Etnan."
+      spanish: "Hijos de Jelá: Seret, Jesojar y Etnán."
+      greek-lxx: καὶ υἱοὶ Θοαδα Σαρεθ καὶ Σααρ καὶ Εθναν
+      st_text: "Сыновья Хелы: Цереф, Цохар и Ефнан."
+  - id: 3322
+    number: 8
+    bookId: 13
+    text: "Коц родил: Анува и Цовева и племена Ахархела, сына Гарумова."
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Кое же роди енова и совива и рождение брата рихава, сына иаримля.
+      averincev: ""
+      ungerov: ""
+      csya_old: Кwе1 же роди2 є3нHва и3 сwвивA и3 рожде1ніе брaта рихaва, сы1на їарjмлz.
+      sovr_rbo: У Коца родились Анув и Цовева от него же произошли роды Ахархела, сына
+        Харума.
+      latin: Cos autem genuit Anob, et Soboba, et cognationem Aharehel filii Arum.
+      ukr: А Коц породив Анува, і Гаццовеву, і роди Ахархела, сина Гарумового.
+      nkjv: and Koz begot Anub, Zobebah, and the families of Aharhel the son of Harum.
+      desnitsky: ""
+      mt: ‫    וְקוֹץ הוֹלִיד אֶת־עָנוּב וְאֶת־הַצֹּבֵבָה וּמִשְׁפְּחוֹת אֲחַרְחֵל
+        בֶּן־הָרוּם׃ ‬
+      romana: "Lui Cot i s-au nascut: Anub, Tobeba, Iahet si familiile lui Aharhel,
+        fiul lui Harum."
+      francais: Kots engendra Anub et Hatsobéba, et les familles d'Acharchel, fils
+        d'Harum.
+      italian: Koz generò Anub, Azzobebà e le famiglie di Acarché, figlio di Arum.
+      old_georgian: "და კორე შვა ენონ და სობება. და ესე შობანი არიან ძმისა რექაბისნი,
+        ძისა იარიმისნი:"
+      portuguese: Coz foi pai de Anube e Zobeba, e das famílias de Acarel, filho de Harum.
+      polish: Kos był ojcem Anuba, Sobeby i rodów Acharchela, syna Haruma.
+      turkish: ve Anuv'la Hassoveva'nın babası Kos. Kos Harum oğlu Aharhel boylarının
+        atasıydı.
+      nrt: и Коц, который был отцом Анува, Цовева и кланов Ахархела, сына Гарума.
+      Macarius: Коц родил Анува и Цовеву, и племена Ахархела, сына Гарумова.
+      serbian: А Кос роди Анува и Совиву и породице Ахарила сина Арумова.
+      bulgarian: "Коц роди: Анува и Цовева и родовете на Ахархела, Харумов син."
+      deutsch: Koz aber zeugte Anub und Hazobeba und die Freundschaft Aharhels, des
+        Sohnes Harums.
+      ukr2: Коц породив Анува, Цовеву, родини Ахархела, сина Гарума.
+      ukr3: "Від Коза народились: Анув та Зовев і поколїння від Ахархела, Гарумового
+        сина."
+      bel_syomukha: "Коц спарадзіў: Анува і Цавэна і плямёны Ахархэла, сына Гарумавага."
+      lev-khv: "А Коц родил: Анува, и Гацовева, и племена Ахархела, сына Гарумова."
+      czech: Kos zplodil Anuba a Sobebu a celedi Acharchela, syna Harumova.
+      spanish: Cos engendró a Annub y a Sobeba y las familias de Ajarjel, hijo de Arum.
+      greek-lxx: καὶ Κως ἐγέννησεν τὸν Ενωβ καὶ τὸν Σαβηβα καὶ γεννήσεις ἀδελφοῦ Ρηχαβ
+        υἱοῦ Ιαριμ
+      st_text: "Коц родил: Анува и Цовева и племена Ахархела, сына Гарумова."
+  - id: 3323
+    number: 9
+    bookId: 13
+    text: "Иавис был знаменитее своих братьев. Мать дала ему имя Иавис, сказав: я
+      родила его с болезнью."
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Бысть же иавис честнейший братии своея: и мати его нарече имя его в
+        болезни."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Бы1сть же їави1съ честнёйшій брaтіи своеS: и3 мaти є3гw2 нарече2 и4мz
+        є3го2 въ болёзни."
+      sovr_rbo: "Яабец был самым уважаемым среди своих братьев. Его мать дала ему имя
+        Яабец, говоря: «я родила его в муках»."
+      latin: "Fuit autem Jabes inclytus prae fratribus suis, et mater ejus vocavit
+        nomen illius Jabes, dicens: Quia peperi eum in dolore."
+      ukr: "А Ябец був поважаний більше від своїх братів, і мати його назвала йому
+        ім'я Ябец, говорячи: Я породила його в болісті."
+      nkjv: Now Jabez was more honorable than his brothers, and his mother called his
+        name Jabez, saying, "Because I bore him in pain."
+      desnitsky: ""
+      mt: ‫    וַיְהִי יַעְבֵּץ נִכְבָּד מֵאֶחָיו וְאִמּוֹ קָרְאָה שְׁמוֹ יַעְבֵּץ
+        לֵאמֹר כִּי יָלַדְתִּי בְּעֹצֶב׃ ‬
+      romana: 'Iabet a fost mai insemnat decat fratii sai. Mama lui i-a dat numele de
+        Iabet, zicand: "Cu durere l-am nascut".'
+      francais: "Jaebets était plus considéré que ses frères; sa mère lui donna le nom
+        de Jaebets, en disant: C'est parce que je l'ai enfanté avec douleur."
+      italian: "Iabez fu più onorato dei suoi fratelli; sua madre l'aveva chiamato
+        Iabez poiché diceva: \"Io l'ho partorito con dolore\"."
+      old_georgian: "და იყო იაგაბეს უდიდებულეს ძმათა თჳსთა, და დედამან მისმან უწოდა
+        მას სახელი იაგბეს, და თქუა: ვშევ, ვითარცა იაგბეს."
+      portuguese: "Jabes foi mais ilustre do que seus irmãos (sua mãe lhe pusera o
+        nome de Jabes, dizendo: Porquanto com dores o\rdei à luz).."
+      polish: "Jabes był bardziej poważany niż jego bracia. Matka jego dała mu imię
+        Jabes,\rmówiąc: ”Ponieważ w bólu porodziłam”."
+      turkish: Yabes kardeşlerinden daha saygın biriydi. Annesi, «Onu acı çekerek
+        doğurdum» diyerek adını Yabes koymuştu.
+      nrt: "Иавеш был знаменитее своих братьев. Мать назвала его Иавеш, сказав: «Я
+        родила его в муках»."
+      Macarius: "Иаббец был отличнейший из своих братьев. Мать дала ему имя Иаббец,
+        сказав: я родила с горем."
+      serbian: "А Јавис бјеше славнији од своје браће, и мати му надје име Јавис
+        говорећи: Родих га с болом."
+      bulgarian: "Иавис беше по-прочут от своите братя. Майка му го нарече Иавис, като
+        каза: родих го с болки."
+      deutsch: "Jaebez aber war herrlicher denn seine Brüder; und seine Mutter hieß
+        ihn Jaebez, denn sie sprach: Ich habe ihn mit Kummer geboren."
+      ukr2: "Ябец був поважаний більше від своїх братів. Мати його дала йому ім'я
+        Ябец, кажучи: “Я породила його в муках.”"
+      ukr3: "Явис був значнїйший за своїх братів. Мати дала йому ймення Явиса, кажучи:
+        Я породила його в муках."
+      bel_syomukha: "Явіс быў больш славуты за сваіх братоў. Маці дала яму імя Явіс,
+        сказаўшы: я нарадзіла яго з хваробай."
+      lev-khv: "Иавис был самый уважаемый между братьями своими. И мать его дала ему
+        имя: Иавис, сказав: я родила с болезнью."
+      czech: "Jaebes byl vazenejsi nez jeho bratri; jeho matka ho pojmenovala Jaebes
+        se slovy: „Porodila jsem ho s trapenim.“"
+      spanish: "Jaebes fue más ilustre que sus hermanos. Su madre le dio el nombre de
+        Jaebes, diciendo: <<Porque le he parido con dolor>>."
+      greek-lxx: καὶ ἦν Ιγαβης ἔνδοξος ὑπὲρ τοὺς ἀδελφοὺς αὐτοῦ καὶ ἡ μήτηρ ἐκάλεσεν
+        τὸ ὄνομα αὐτοῦ Ιγαβης λέγουσα ἔτεκον ὡς γαβης
+      st_text: "Иавис был знаменитее своих братьев. Мать дала ему имя Иавис, сказав: я
+        родила его с болезнью."
+  - id: 3324
+    number: 10
+    bookId: 13
+    text: "И воззвал Иавис к Богу Израилеву и сказал: о, если бы Ты благословил меня
+      Твоим благословением, распространил пределы мои, и рука Твоя была со мною,
+      охраняя <i>меня</i> от зла, чтобы я не горевал!.. И Бог ниспослал
+      <i>ему</i>, чего он просил."
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И призва иавис Бога израилева, глаголя: аще благословляя благословиши
+        мене и распространиши пределы моя, и будет рука твоя со мною, и
+        сотвориши мя во уразумение, еже не смирити мя. И даде ему Бог вся, елика
+        просих есть."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# призвA їави1съ бг7а ї}лева, глаго1лz: ѓще блгcвлsz блгcви1ши мене2
+        и3 распространи1ши предёлы мо‰, и3 бyдетъ рукA твоS со мно1ю, и3
+        сотвори1ши мS во ўразумёніе, є4же не смири1ти мS. И# даде2 є3мY бг7ъ
+        вс‰, є3ли6ка проси1хъ є4сть."
+      sovr_rbo: "Яабец воззвал к Богу Израиля: «О, если бы Ты благословил меня, если
+        бы расширил мои владения, если бы Ты поддержал меня и охранил от зла,
+        чтобы не ведал я муки!» И Бог дал Яабецу то, о чем он просил."
+      latin: "Invocavit vero Jabes Deum Israel, dicens: Si benedicens benedixeris
+        mihi, et dilataveris terminos meos, et fuerit manus tua mecum, et
+        feceris me a malitia non opprimi. Et praestitit Deus quae precatus est."
+      ukr: "кликнув Ябец до Бога Ізраїлевого, говорячи: Коли б Ти, благословляючи,
+        поблагословив мене, і побільшив границю мою, і рука Твоя була зо мною, і
+        зробив охорону від лиха, щоб не засмучувати мене! І Бог послав, чого він
+        просив."
+      nkjv: And Jabez called on the God of Israel saying, "Oh, that You would bless me
+        indeed, and enlarge my territory, that Your hand would be with me, and
+        that You would keep me from evil, that I may not cause pain!" So God
+        granted him what he requested.
+      desnitsky: ""
+      mt: ‫    וַיִּקְרָא יַעְבֵּץ לֵאלֹהֵי יִשְׂרָאֵל לֵאמֹר אִם־בָּרֵךְ תְּבָרֲכֵנִי
+        וְהִרְבִּיתָ אֶת־גְּבוּלִי וְהָיְתָה יָדְךָ עִמִּי וְעָשִׂיתָ מֵּרָעָה
+        לְבִלְתִּי עָצְבִּי וַיָּבֵא אֱלֹהִים אֵת אֲשֶׁר־שָׁאָל׃ ‬
+      romana: 'Si a strigat Iabet catre Dumnezeul lui Israel si a zis: "O, de m-ai
+        binecuvanta Tu cu binecuvantare, de ai largi hotarele mele si de ar fi
+        mana Ta cu mine, pazindu-ma de rele, ca sa nu fiu omorat!..." Atunci
+        Dumnezeu i-a trimis ceea ce a dorit el.'
+      francais: "Jaebets invoqua le Dieu d'Israël, en disant: Si tu me bénis et que tu
+        étendes mes limites, si ta main est avec moi, et si tu me préserves du
+        malheur, en sorte que je ne sois pas dans la souffrance!... Et Dieu
+        accorda ce qu'il avait demandé."
+      italian: 'Iabez invocò il Dio di Israele dicendo: "Se tu mi benedicessi e
+        allargassi i miei con — fini e la tua mano fosse con me e mi tenessi
+        lontano dal male sì che io non soffra!". Dio gli concesse quanto aveva
+        chiesto.'
+      old_georgian: "და ხადა იაგბეს ღმერთსა ისრაჱლისასა და თქუა: უკუეთუ კურთხევით
+        მაკურთხო მე და განამრავლნე საზღუარნი ჩემნი, და იყოს ჴელი შენი ჩემ თანა,
+        და ჰყო საცნაური ჩემ თანა არა დამდაბლებად ჩემდა! და მოსცა მას ღმერთმან
+        ყოველი, რაოდენიცა ითხოა."
+      portuguese: "Jabes invocou o Deus de Israel, dizendo: Oxalá que me abençoes, e
+        estendas os meus termos; que a tua mão\rseja comigo e faças que do mal
+        eu não seja afligido! E Deus lhe concedeu o que lhe pedira."
+      polish: "A wzywał Jabes Boga Izraelowego, mówiąc: ”Obyś skutecznie mi
+        błogosławił\ri rozszerzył granice moje, a ręka Twoja była ze mną, i obyś
+        zachował mnie\rod złego, a utrapienie moje się skończyło!” I sprawił Bóg
+        to, o co on prosił."
+      turkish: "Yabes, İsrail'in Tanrısı'na,\r«Ne olur, beni kutsa, sınırlarımı
+        genişlet!» diye yakardı, «Elin üzerimde olsun, beni kötülükten koru.
+        Öyle ki, acı çekmeyeyim.» Tanrı onun yakarışını duydu."
+      nrt: "Иавеш воззвал к Богу Израиля: – О если бы Ты благословил меня и расширил
+        мою землю! Пусть Твоя рука будет со мной, пусть убережет меня от зла,
+        чтобы мне не страдать. И Бог исполнил его просьбу."
+      Macarius: "И воззвал Иаббец к Богу Израилеву, и сказал: о, если бы Ты
+        благословил меня Твоим благословением, распространил предел мой, и рука
+        Твоя была со мною, и охранял бы меня от зла, чтоб я не имел горести! И
+        Бог даровал ему, чего он просил."
+      serbian: "И Јавис призва Бога Израиљева говорећи: О, да би ме благословио и
+        раширио међе моје, и рука твоја да би била са мном, и да би ме сачувао
+        ода зла да ме не уцвијели! И учини Бог за што га моли."
+      bulgarian: "И викна Иавис към Бога Израилев, като каза: о, да ме благословеше с
+        Твое благословение, да разширеше границите ми, да беше ръката Ти с мене
+        и да ме пазеше от зло, та да не тъгувам!.. И Бог му даде, за каквото
+        молеше."
+      deutsch: "Und Jaebez rief den Gott Israels an und sprach: Ach, daß du mich
+        segnetest und meine Grenze mehrtest und deine Hand mit mir wäre und
+        schafftest mit dem Übel, daß mich's nicht bekümmere! Und Gott ließ
+        kommen, was er bat."
+      ukr2: "Ябец візвав до Бога Ізраїля: “Коли б ти мене благословив та розпросторив
+        мої межі, коли б рука твоя була зо мною й ти оборонив би мене від
+        напасти, щоб я не бідував!” І Бог послав, чого він просив."
+      ukr3: "І покликався Явис до Бога Ізрайлевого і промовив: Ой коли б ти
+        благословив мене твоїм благословеннєм, роспросторив мої межі, й рука
+        твоя була надо мною, обороняючи мене від напасти, щоб я не бідував! І
+        Бог послав, чого він просив."
+      bel_syomukha: "І заклікаў Явіс да Бога Ізраілевага і сказаў: о, калі б Ты
+        дабраславіў мяне Тваім дабраславеньнем, пашырыў межы мае, і рука Твая
+        была са мною, ахоўваючы мяне ад зла, каб я не гараваў`.. І Бог паслаў
+        яму, чаго ён прасіў."
+      lev-khv: "И воззвал Иавис к Богу Израилеву, сказав: о, если бы Ты благословил
+        меня, и распространил предел мой, и рука Твоя была со мною, и охранял бы
+        Ты <i>меня</i> от зла, чтоб я не горевал! И Бог даровал ему, чего он
+        просил."
+      czech: "Jaebes vzyval Boha Izraele takto: „Kez bys mi dal pozehnani a rozmnozil
+        me uzemi! Kez by tva ruka byla se mnou a zbavila me zleho, aby na mne ne
+        dolehlo trapeni!“ A Buh splnil, oc zadal."
+      spanish: "Jaebes invocó al Dios de Israel, diciendo: <<Si me bendices y
+        ensanchas mis términos y está conmigo tu mano y me preservas del mal de
+        modo que yo no padezca…>>. Y Dios le dio lo que le había pedido."
+      greek-lxx: καὶ ἐπεκαλέσατο Ιγαβης τὸν Θεὸν Ισραηλ λέγων ἐὰν εὐλογῶν εὐλογήσῃς με
+        καὶ πληθύνῃς τὰ ὅριά μου καὶ ᾖ ἡ χείρ σου μετ᾿ ἐμοῦ καὶ ποιήσεις γνῶσιν
+        τοῦ μὴ ταπεινῶσαί με καὶ ἐπήγαγεν ὁ Θεὸς πάντα ὅσα ᾐτήσατο
+      st_text: "И воззвал Иавис к Богу Израилеву и сказал: о, если бы Ты благословил
+        меня Твоим благословением, распространил пределы мои, и рука Твоя была
+        со мною, охраняя <i>меня</i> от зла, чтобы я не горевал!.. И Бог
+        ниспослал <i>ему</i>, чего он просил."
+  - id: 3325
+    number: 11
+    bookId: 13
+    text: Хелув же, брат Шухи, родил Махира; он есть отец Ештона.
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Халев же отец асхань роди махира: сый отец ассафонов."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Хале1въ же nте1цъ ґсхaнь роди2 махjра: сы1й nте1цъ ґссаfHновъ."
+      sovr_rbo: У Келува, братом которого был Шуха, родился Мехйр; Мехир — отец Эштона.
+      latin: Caleb autem frater Sua genuit Mahir, qui fuit pater Esthon.
+      ukr: А Келув, брат Шухи, породив Мехіра, він батько Ештона.
+      nkjv: Chelub the brother of Shuhah begot Mehir, who was the father of Eshton.
+      desnitsky: ""
+      mt: ‫    וּכְלוּב אֲחִי־שׁוּחָה הוֹלִיד אֶת־מְחִיר הוּא אֲבִי אֶשְׁתּוֹן׃ ‬
+      romana: Si lui Chelub, fratele lui Suha, i s-a nascut Mehir. Acesta e tatal lui
+        Eston.
+      francais: Kelub, frère de Schucha, engendra Mechir, qui fut père d'Eschthon.
+      italian: Chelub, fratello di Sucà, generò Mechir, che fu padre di Eston.
+      old_georgian: და ქალებ, მამამან ასქანასისმან, შვა მაქირ, ესე - მამა ასათონისი.
+      portuguese: Quelube, irmão de Suá, foi pai de Meir; e este foi pai de Estom.
+      polish: Kelub, brat Szuchy, był ojcem Mechira, który był ojcem Esztona.
+      turkish: Şuha'nın kardeşi Keluv, Eşton'un babası Mehir'in babasıydı.
+      nrt: Хелув, брат Шухи, стал отцом Махира, который был отцом Ештона.
+      Macarius: Хелув, брат Шухи, родил Мехира; сей есть отец Ештона.
+      serbian: А Хелув, брат Сујин, роди Мехира. Он би отац Естонов.
+      bulgarian: А Хелув, брат на Шуха, роди Махира; той е баща на Ещона.
+      deutsch: Kalub aber, der Bruder Suhas, zeugte Mehir; der ist der Vater Esthons.
+      ukr2: Келув, брат Шухи породив Махіра, що був батьком Ештона.
+      ukr3: А від Хелува, Шухиного брата, народився Махір; він батько Ештонів.
+      bel_syomukha: А Хэлуў, брат Шухі, спарадзіў Махіра; ён ёсьць бацька Эштона.
+      lev-khv: "А Хелув, брат Шухи, родил Махира: он отец Ештона."
+      czech: Kelub, bratr Suchuv, zplodil Mechira; ten je otec Estonuv.
+      spanish: Quelub, hermano de Suja, engendró a Mejir, que fue padre de Estón.
+      greek-lxx: καὶ Χαλεβ πατὴρ Ασχα ἐγέννησεν τὸν Μαχιρ οὗτος πατὴρ Ασσαθων
+      st_text: Хелув же, брат Шухи, родил Махира; он есть отец Ештона.
+  - id: 3326
+    number: 12
+    bookId: 13
+    text: Ештон родил Беф-Рафу, Пасеаха и Техинну, отца города Нааса [брата Селома
+      Кенезиина и Ахазова]; это жители Рехи.
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И ассафон роди сафрефу и фессию, и фана отца града нааса, брата селома
+        кенезиина и ахазова: сии мужие рихавли."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# ґссаfHнъ роди2 саfре1fу и3 фессjю, и3 faна nтцA грaда наaса, брaта
+        селHма кенезjина и3 ґхaзова: сjи мyжіе рих†вли."
+      sovr_rbo: У Эштона родились Бет-Рафа, Пасеах и Техинна, отец Ир-Нахаша. Это
+        жители Рехи.
+      latin: "Porro Esthon genuit Bethrapha, et Phesse, et Tehinna patrem urbis Naas:
+        hi sunt viri Recha."
+      ukr: А Ештон породив Бет-Рафу, і Пасеаха, і Техінну, батька міста Нахаша. Це
+        люди Рехи.
+      nkjv: And Eshton begot Beth-Rapha, Paseah, and Tehinnah the father of Ir-Nahash.
+        These were the men of Rechah.
+      desnitsky: ""
+      mt: ‫    וְאֶשְׁתּוֹן הוֹלִיד אֶת־בֵּית רָפָא וְאֶת־פָּסֵחַ וְאֶת־תְּחִנָּה
+        אֲבִי עִיר נָחָשׁ אֵלֶּה אַנְשֵׁי רֵכָה׃ ס ‬
+      romana: Lui Eston i s-au nascut Bet-Rafa, Paseah si Techina, tatal cetatii
+        Nahas; acestia sunt locuitorii din Recab.
+      francais: Eschthon engendra la maison de Rapha, Paséach, et Thechinna, père de
+        la ville de Nachasch. Ce sont là les hommes de Réca.
+      italian: Eston generò Bet—Rafa, Paseach e Techinna, padre di Ir—Nacàs. Questi
+        sono gli uomini di Reca.
+      old_georgian: და ასათონ შვა ფათრეფი, და ფესეე, და თანა და მამა ქალაქისა ნაას,
+        ძმისა ასალონისი, კენეზიანი. ესე არიან კაცნი რეფესანი.
+      portuguese: Estom foi pai de Bete-Rafa, Paséia e Teína, que foi pai de Ir-Naás;
+        estes foram os homens, de Reca.
+      polish: "Eszton był ojcem Bet-Rafa, Paseacha i Techinny, ojca Ir-Nachasz. Ci
+        mężowie\rsą z Rekab."
+      turkish: Eşton Beytrafa'nın, Paseah'ın ve İr-Nahaş'ın kurucusu Tehinna'nın
+        babasıydı. Bunlar Rekalılar'dır.
+      nrt: Ештон был отцом Бет-Рафы, Пасеаха и Техинны, отца Ир-Нахаша. Это жители
+        Рехи.
+      Macarius: Ештон родил Бефрафу, Поссаха и Техинну, отца города Нахаша. Вот жители
+        Рехи.
+      serbian: А Естон роди Вет-Рафу и Фесеју и Техину, оца граду Насу. То су људи
+        Рихавови.
+      bulgarian: Ещон роди Бет-Рафа, Пасеаха и Техина, баща на град Нааса (брат на
+        Селома кенезееца и на Ахаза); това са жители на Реха.
+      deutsch: Esthon aber zeugte Beth-Rapha, Paseah und Thehinna, den Vater der Stadt
+        Nahas; das sind die Männer von Recha.
+      ukr2: Ештон породив Бет-Рафу, Пасеаха, Техінну, батька Ір-Нахаша. Це були мужі
+        Рехи.
+      ukr3: Від Ештона народився Бет-Рафа, Пасеах та Техін, батько міста Нааса (брат
+        Селома Кенезіїного та Ахазового); це осадники Рехі.
+      bel_syomukha: Эштон спарадзіў Бэт-Рафу, Пасэаха і Тэхіну, бацьку горада Нааса;
+        гэта жыхары Рэхі.
+      lev-khv: "А Ештон родил Беф-Рафу, и Пасеаха и Техинну, владельца города Нахаша:
+        это жители Рехи."
+      czech: Eston zplodil Bet-rafu, Paseacha a Techinu, otce Ir-nachase. To jsou
+        muzove Reky.
+      spanish: Estón engendró a Bet Rafa, Paseaj y Tejina, padre de la ciudad de
+        Najas. Estos son los hombres de Reca.
+      greek-lxx: καὶ Ασσαθων ἐγέννησεν τὸν Βαθρεφαν καὶ τὸν Φεσσηε καὶ τὸν Θανα πατέρα
+        πόλεως Ναας ἀδελφοῦ Εσελων τοῦ Κενεζι οὗτοι ἄνδρες Ρηφα
+      st_text: Ештон родил Беф-Рафу, Пасеаха и Техинну, отца города Нааса [брата
+        Селома Кенезиина и Ахазова]; это жители Рехи.
+  - id: 3327
+    number: 13
+    bookId: 13
+    text: "Сыновья Кеназа: Гофониил и Сераия. Сын Гофониила: Хафаф."
+    chapter: 4
+    chapterId: 342
+    parallels:
+      - verseId: 34901
+        bookId: 7
+        bookCode: kniga-sudej-izrailevyh
+        chapter: 1
+        short: Суд:1:13
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Сынове же кенезиины: гофониил и сараиа. Сынове же гофониилевы афаф."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Сы1нове же кенез‡ины: гоfоніи1лъ и3 сараjа. Сы1нове же гоfоніи1лєвы
+        ґfafъ."
+      sovr_rbo: "Потомки Кеназа: Отниэл и Серая. Сыновья Отниэла: Хатат."
+      latin: Filii autem Cenez, Othoniel, et Saraia. Porro filii Othoniel, Hathath, et
+        Maonathi.
+      ukr: "А сини Кеназа: Отніїл та Серая. А сини Отніїлові: Хатат."
+      nkjv: The sons of Kenaz were Othniel and Seraiah. The sons of Othniel were
+        Hathath,
+      desnitsky: ""
+      mt: ‫    וּבְנֵי קְנַז עָתְנִיאֵל וּשְׂרָיָה וּבְנֵי עָתְנִיאֵל חֲתַת׃ ‬
+      romana: Fiii lui Chenaz sunt Otniel si Seraia. Fiii lui Otniel au fost Hatat si
+        Meonotai.
+      francais: "Fils de Kenaz: Othniel et Seraja. Fils d'Othniel: Hathath."
+      italian: "Figli di Kenaz: Otniel e Seraià; figli di Otniel: Catat e Meonotài."
+      old_georgian: "და ძენი კენეზისნი: გოთონიელ და სარაია. და ძე გოთოლიისი: - ათათ."
+      portuguese: "Os filhos de Quenaz: Otniel e Seraías; e Otniel foi pai de Hatate"
+      polish: "Synowie Kenaza: Otniel i Serajasz. Synowie Otniela: Chatat i Meonotaj."
+      turkish: ""
+      nrt: "Сыновья Кеназа: Отниил и Серая. Сыновья Отниила: Хафаф и Меонофай."
+      Macarius: "Сыновья Кеназа: Гофониил и Сераия. Сыновья Гофониила: Хафаф."
+      serbian: "А синови Кенезови бјеху Готонило и Сераја. А синови Готонилови: Атат."
+      bulgarian: "Синове Кеназови: Готониил и Сераия. Син Готониилов: Хатат."
+      deutsch: "Die Kinder des Kenas waren: Othniel und Seraja. Die Kinder aber
+        Othniels waren: Hathath."
+      ukr2: "Сини Кеназа: Отнієл та Сарая. Сини ж Отнієла: Хатат і Меонотай."
+      ukr3: "Сини Кеназові: Готониїл та Сераїя. Готониїлів син: Хатат."
+      bel_syomukha: "Сыны Кеназа: Гатанііл і Сэрая. Сын Гатанііла: Хатаат."
+      lev-khv: "А сыновья Кеназа: Гофониил и Сераия; а сыновья Гофониила: Хафаф."
+      czech: "Synove Kenazovi: Otniel a Serajas. Synove Otnielovi: Chatat."
+      spanish: "Hijos de Quenaz: Otoniel y Serai. Hijo de Otoniel: Jatat."
+      greek-lxx: καὶ υἱοὶ Κενεζ Γοθονιηλ καὶ Σαραια καὶ υἱοὶ Γοθονιηλ Αθαθ
+      st_text: "Сыновья Кеназа: Гофониил и Сераия. Сын Гофониила: Хафаф."
+  - id: 3328
+    number: 14
+    bookId: 13
+    text: Меонофай родил Офру, а Сераия родил Иоава, родоначальника долины
+      плотников, потому что они были плотники.
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Манафай же роди гофора, и сараиа роди иорама, отца гисасариимля, зане
+        художницы быша.
+      averincev: ""
+      ungerov: ""
+      csya_old: Манаfaй же роди2 гофорA, и3 сараjа роди2 їwрaма, nтцA гисасаріи1млz,
+        зане2 худо1жницы бы1ша.
+      sovr_rbo: У Меонотая родился Офра у Сераи родился Иоав, который был отцом
+        жителей Ге-Харашима (названного так, потому что они были
+        ремесленниками).
+      latin: "Maonathi genuit Ophra, Saraia autem genuit Joab patrem Vallis artificum:
+        ibi quippe artifices erant."
+      ukr: А Меонотай породив Офру, а Серая породив Яава, батька Ремісничої Долини, бо
+        вони були ремісники.
+      nkjv: and Meonothai who begot Ophrah. Seraiah begot Joab the father of Ge
+        Harashim, for they were craftsmen.
+      desnitsky: ""
+      mt: ‫    וּמְעוֹנֹתַי הוֹלִיד אֶת־עָפְרָה וּשְׂרָיָה הוֹלִיד אֶת־יוֹאָב אֲבִי
+        גֵּיא חֲרָשִׁים כִּי חֲרָשִׁים הָיוּ׃ פ ‬
+      romana: Lui Meonotai i s-a nascut Ofra. Lui Seraia i s-a nascut Ioab, stramosul
+        lui Gheharasim, numiti asa pentru ca ei erau dulgheri.
+      francais: Meonothaï engendra Ophra. Seraja engendra Joab, père de la vallée des
+        ouvriers; car ils étaient ouvriers.
+      italian: Meonotài generò Ofra; Seraià generò Ioab, padre della valle degli
+        artigiani, poiché erano artigiani.
+      old_georgian: და მანათი შვა გეფორა, და სარაია შვა იობაბ, მამა გერსასიმისა,
+        რამეთუ ხურონი იყუნეს.
+      portuguese: "e Meonotai, que foi pai de Ofra; Seraías foi pai de Joabe, fundador
+        de Ge-Harasim, cujos habitantes foram\rartífices."
+      polish: "Meonotaj był ojcem Ofry. Serajasz był ojcem Joaba, ojca Ge-Haraszim,
+        byli\roni bowiem rzemieślnikami."
+      turkish: "Kenaz'ın oğulları: Otniel, Seraya.\rOtniel'in oğulları: Hatat ve
+        Meonotay. Meonotay Ofra'nın babasıydı. Seraya Ge-Haraşim'in kurucusu
+        Yoav'ın babasıydı. Bunlar el işlerinde becerikli kişilerdi."
+      nrt: Меонофай был отцом Офры. Серая был отцом Иоава – отца Ге-Харашим,
+        названного так потому, что его жители были ремесленниками.
+      Macarius: Меонофай родил Офру, а Сераия родил Иоава, отца жителей долины
+        плотников, потому что они были плотники.
+      serbian: А Меонотај роди Офру; а Сераја роди Јоава, оца онијех што живе у долини
+        дрводјељској, јер бијаху дрводјеље.
+      bulgarian: Меонотай роди Офра, а Сераия роди Иоава, родоначалник на долината на
+        дърводелците, защото бяха дърводелци.
+      deutsch: Und Meonothai zeuget Ophra. Und Seraja zeugte Joab, den Vater des Tals
+        der Zimmerleute; denn sie waren Zimmerleute.
+      ukr2: Меонотай породив Офру, а Сарая породив Йоава, родоначальника долини
+        Ремісників, бо вони були ремісники.
+      ukr3: Від Меонотая народився Офра, а від Серая народився Йоаб, родоначальник
+        Долини ремесників, бо вони були ремесники.
+      bel_syomukha: Мэанатай спарадзіў Офру, а Сэрая спарадзіў Ёава, родапачынальніка
+        даліны цесьляроў, бо яны былі цесьляры.
+      lev-khv: А Меонофай родил Офру; а Сераия родил Иоава, владельца долины
+        плотников, потому что они были плотники.
+      czech: Meonotaj zplodil Ofru a Serajas zplodil Joaba, otce Ge-charasimu (to je
+        Udoli remeslniku); byli tam totiz remeslnici.
+      spanish: Meonatai engendró a Ofrá. Sarvia engendró a Joab, padre de Gue-Jarasim,
+        pues eran artesanos.
+      greek-lxx: καὶ Μαναθι ἐγέννησεν τὸν Γοφερα καὶ Σαραια ἐγέννησεν τὸν Ιωαβ πατέρα
+        Αγεαδδαϊρ ὅτι τέκτονες ἦσαν
+      st_text: Меонофай родил Офру, а Сераия родил Иоава, родоначальника долины
+        плотников, потому что они были плотники.
+  - id: 3329
+    number: 15
+    bookId: 13
+    text: "Сыновья Халева, сына Иефонниина: Ир, Ила и Наам. Сын Илы: Кеназ."
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Сынове же халева сына иефонниина ир, ила и наам. Сынове же илы кенез.
+      averincev: ""
+      ungerov: ""
+      csya_old: Сы1нове же хале1ва сы1на їефоннjина и4ръ, и3лA и3 наaмъ. Сы1нове же
+        и3лы2 кене1зъ.
+      sovr_rbo: "Сыновья Калева, сына Иефунне: Иру, Эла и Наам. Сыновья Элы: Кеназ."
+      latin: "Filii vero Caleb filii Jephone, Hir, et Ela, et Naham. Filii quoque Ela:
+        Cenez."
+      ukr: "А сини Калева, Єфуннеєвого сина: Іру, Ела та Наам. А Елин син Кеназ."
+      nkjv: The sons of Caleb the son of Jephunneh were Iru, Elah, and Naam. The son
+        of Elah was Kenaz.
+      desnitsky: ""
+      mt: ‫    וּבְנֵי כָּלֵב בֶּן־יְפֻנֶּה עִירוּ אֵלָה וָנָעַם וּבְנֵי אֵלָה
+        וּקְנַז׃ ‬
+      romana: "Fiii lui Caleb, fiul lui Iefoni, au fost: Ir, Ela si Naam. Fiul lui Ela
+        a fost Chenaz."
+      francais: "Fils de Caleb, fils de Jephunné: Iru, Éla et Naam, et les fils d'Éla,
+        et Kenaz."
+      italian: "Figli di Caleb, figlio di Iefunne: Ir, Ela e Naam. Figli di Ela: Kenaz."
+      old_georgian: "და ძენი ქალებისა იეფონესნი: ერალა, და ნაამ. და ძე არამისი: -კენეეზ."
+      portuguese: "Os filhos de Calebe, filho de Jefoné: Íru, Elá e Naã; e Elá foi pai
+        de Quenaz:"
+      polish: "Synowie Kaleba, syna Jefunnego: Ir, Ela i Naam. Syn Eli: Kenaz."
+      turkish: "Yefunne oğlu Kalev'in oğulları: İru, Ela, Naam.\rEla'nın oğlu: Kenaz."
+      nrt: "Сыновья Халева, сына Иефоннии: Ир, Ила и Наам. Сын Илы: Кеназ."
+      Macarius: "Сыновья Халева, сына Иефонниина: Иру, Ела и Наам. Сыновья Елы: Кеназ."
+      serbian: А синови Халева, сина Јефонијина, бијаху Ир, Ила и Нам. А син Илин
+        бјеше Кенез.
+      bulgarian: "Синове на Халева, Иефониев син: Ир, Ила и Наам. Син на Ила: Кеназ."
+      deutsch: "Die Kinder aber Kalebs, des Sohnes Jephunnes, waren: Iru, Ela und Naam
+        und die Kinder des Ela und Kenas."
+      ukr2: "Сини Калева, сина Єфунне: Ір, Ела та Наам. Син Ели був Кеназ."
+      ukr3: "Сини в Халеба, Ефонїїного сина: Ір, Іл та Наам. Син Ілин: Кеназ."
+      bel_syomukha: "Сыны Халева, сына Ефаніінага: Ір, Іла і Наам. Сын Ілы: Кеназ."
+      lev-khv: "А сыновья Халева, сына Иффонниина: Иру, Ела и Наам; а сыновья Елы:
+        Кеназ;"
+      czech: "Synove Kaleba, syna Jefunova: Iru, Ela a Naam. Synove Elovi: Kenaz."
+      spanish: "Hijos de Caleb, hijo de Jefoné: Iru, Ela y Naán; y el hijo de Ela,
+        Quenaz."
+      greek-lxx: καὶ υἱοὶ Χαλεβ υἱοῦ Ιεφοννη Ηρα Αλα καὶ Νοομ καὶ υἱοὶ Αλα Κενεζ
+      st_text: "Сыновья Халева, сына Иефонниина: Ир, Ила и Наам. Сын Илы: Кеназ."
+  - id: 3330
+    number: 16
+    bookId: 13
+    text: "Сыновья Иегаллелела: Зиф, Зифа, Фирия и Асареел."
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Сынове же амелимли: зиф и зефа, и фириа и есерил."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Сы1нове же ґмели6мли: зjфъ и3 зе1фа, и3 fирjа и3 є3сери1лъ."
+      sovr_rbo: "Сыновья Иехаллелела: Зиф, Зифа, Тирея и Асарэл."
+      latin: "Filii quoque Jaleleel: Ziph, et Zipha, Thiria, et Asrael."
+      ukr: "А сини Єгаллел'їлові: Зіф і Зіфа, Тір'я й Асар'їл."
+      nkjv: The sons of Jehallelel were Ziph, Ziphah, Tiria, and Asarel.
+      desnitsky: ""
+      mt: ‫    וּבְנֵי יְהַלֶּלְאֵל זִיף וְזִיפָה תִּירְיָא וַאֲשַׂרְאֵל׃ ‬
+      romana: "Fiii lui Iehaleleel au fost: Zif, Zifa, Tiria si Asareel."
+      francais: "Fils de Jehalléleel: Ziph, Zipha, Thirja et Asareel."
+      italian: "Figli di Ieallelèl: Zif, Zifa, Tiria e Asarèl."
+      old_georgian: "და ძენი იალელისნი: ზიფი, ზეფაა, და თირა და ეზერაელი."
+      portuguese: "Os filhos de Jealelel: Zife, Zifá, Tíria e Asareel."
+      polish: "Synowie Jehalleleela: Zif, Zifa, Tiria i Asareel."
+      turkish: "Yehallelel'in oğulları: Zif, Zifa, Tirya, Asarel."
+      nrt: "Сыновья Иегаллелела: Зиф, Зифа, Фирия и Асареел."
+      Macarius: "Сыновья Иегаллелела: Зиф и Зифа, Фирия и Асарсел."
+      serbian: "А синови Јелелеилови: Зиф и Зифа, Тирија и Асареило."
+      bulgarian: "Синове на Иехалелела: Зиф, Зифа, Тирия и Асареел."
+      deutsch: Die Kinder aber Jehallel-Els waren Siph, Sipha, Thirja und Asareel.
+      ukr2: "Сини Єгаллела: Зіф, Зіфа, Тірія та Азарел."
+      ukr3: "Сини Егаллелелові: Зиф, Зифа, Тирія та Асареел."
+      bel_syomukha: "Сыны Егалелела: Зіф, Зіфа, Тырыя і Асарэел."
+      lev-khv: "А сыновья Иегаллелела: Зиф и Зифа, Фирия и Асареел;"
+      czech: "Synove Jehalelelovi: Zif a Zifa, Tirja a Asarel."
+      spanish: "Hijos de Jehalelel: Zif, Zifa, Tirya y Asarael."
+      greek-lxx: καὶ υἱὸς αὐτοῦ Γεσεηλ Αμηαχι καὶ Ζαφα καὶ Ζαιρα καὶ Εσεραηλ
+      st_text: "Сыновья Иегаллелела: Зиф, Зифа, Фирия и Асареел."
+  - id: 3331
+    number: 17
+    bookId: 13
+    text: "Сыновья Езры: Иефер, Меред, Ефер и Иалон; Иефер же родил Мерома, Шаммая и
+      Ишбаха, отца Ешфемои."
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Сынове же еврины: иефер, морад, и афер и иамон: и роди иефер марона, и
+        семею, и иесву отца гедорова и отца есфамоня."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Сы1нове же є3vри6ны: їеfе1ръ, мwрaдъ, и3 ґфе1ръ и3 їамHнъ: и3 роди2
+        їеfе1ръ марHна, и3 семе1ю, и3 їесвY nтцA гедHрова и3 nтцA є3сfамHнz."
+      sovr_rbo: "Сыновья Эзры: Иетер, Меред, Эфер и Ялон. Вот сыновья Битьи, дочери
+        фараона , которую взял в жены Меред: она зачала и родила Мирьяма, Шаммая
+        и Ишбаха, отца Эштемоа."
+      latin: Et filii Ezra, Jether, et Mered, et Epher, et Jalon, genuitque Mariam, et
+        Sammai, et Jesba patrem Esthamo.
+      ukr: "А сини Езри: Єтер, і Меред, і Ефер, і Ялон. А оце сини Біт'ї, фараонової
+        дочки, що взяв Меред; і вона зачала й породила Мір'яма, і Шаммая, і
+        Їшбаха, батька Ештемої."
+      nkjv: "The sons of Ezrah were Jether, Mered, Epher, and Jalon. And Mered's wife
+        bore Miriam, Shammai, and Ishbah the father of Eshtemoa. "
+      desnitsky: ""
+      mt: ‫    וּבֶן־עֶזְרָה יֶתֶר וּמֶרֶד וְעֵפֶר וְיָלוֹן וַתַּהַר אֶת־מִרְיָם
+        וְאֶת־שַׁמַּי וְאֶת־יִשְׁבָּח אֲבִי אֶשְׁתְּמֹעַ׃ ‬
+      romana: "Fiii lui Ezra sunt: Ieter, Mered, Efer si Ialon; iar lui Ieter i s-au
+        nascut Miriam, Samai si Isbah, tatal lui Estemoa."
+      francais: "Fils d'Esdras: Jéther, Méred, Épher et Jalon. La femme de
+        Méred  enfanta Miriam, Schammaï, et Jischbach, père d'Eschthemoa."
+      italian: "Figli di Ezra: Ieter, Mered, Efer e Ialon. Partorì Miriam, Sammài e
+        Isbach, padre di Estemoà."
+      old_georgian: "და ძენი ეზარელისნი: ეთერი, მოლარი, და ფერ. და იაღონ შვა იეთერ, და
+        მარო, და სემაი, და იესბა, მამა სესთემონისა."
+      portuguese: "Os filhos de Ezra: Jeter, Merede, Efer e Jalom; e ela deu à luz
+        Miriã, Samai, e Isbá, pai de Estemoa,"
+      polish: "Synowie Ezry: Jeter, Mered, Efer i Jalon. Potem [Bitia] poczęła
+        Miriam,\rSzammaja i Iszbacha, ojca Esztemoy."
+      turkish: "Ezra'nın oğulları: Yeter, Meret, Efer, Yalon. Meret'in karılarından
+        biri Miryam'ı, Şamma'yı ve Eştemoa'nın kurucusu Yişbah'ı doğurdu."
+      nrt: "Сыновья Езры: Иефер, Меред, Ефер и Иалон. Одна из жен Мереда родила
+        Мерома, Шаммая и Ишбака – отца Эштемоа."
+      Macarius: "Сыновья Эзры: Иефер, Меред, Ефер и Иалон… и родила Мириама Шаммая и
+        Ишбаха, отца Ешфемои."
+      serbian: "А синови Езрини: Јетер и Меред и Ефер и Јалон; а жена Мередова роди
+        Маријама и Самаја и Јесву, оца Естемоји."
+      bulgarian: "Синове Езрови: Иетер, Меред, Ефер и Иалон; Иетер пък роди Мерома,
+        Шамая и Ишбана, баща на Ещемоя."
+      deutsch: "Die Kinder aber Esras waren: Jether, Mered, Epher und Jalon. Und das
+        sind die Kinder Bithjas, der Tochter Pharaos, die der Mered nahm: sie
+        gebar Mirjam, Sammai, Jesbah, den Vater Esthemoas."
+      ukr2: "Сини Езри: Єтер, Меред, Ефер та Ялон. Єтер породив Марію, Шаммая, Ішбаха,
+        батька Ештемоа."
+      ukr3: "Сини Езрині: Етер, Меред, Ефер та Ялон; а від Етера народився Мером,
+        Шаммай та Ішбах, батько Ештемоїн."
+      bel_syomukha: "Сыны Эзры: Етэр, Мэрэд, Эфэр і Ялон; а Етэр спарадзіў Мэрома,
+        Шамая і Ішбаха, бацьку Эштэмоі."
+      lev-khv: "А сыновья Езры: Иефер, и Меред, и Ефер, и Иалон; она же была беременна
+        Мирьямом, и Шаммаем, и Ишбахом, владельцем Ешфемои."
+      czech: "Syn Ezruv: Jeter a Mered, Efer a Jalon. Jeter zplodil Mirjama a Samaje a
+        Jisbacha, otce Estemoova."
+      spanish: "Hijos de Esdras: Jeter, Mered, Efer y Jalom. Jeter engendró a Miriam,
+        Samai y Jisbaj, padre de Estemoa."
+      greek-lxx: καὶ υἱοὶ Εσρι Ιεθερ Μωραδ καὶ Αφερ καὶ Ιαλων καὶ ἐγέννησεν Ιεθερ τὸν
+        Μαρων καὶ τὸν Σεμαι καὶ τὸν Μαρεθ πατέρα Εσθεμων
+      st_text: "Сыновья Езры: Иефер, Меред, Ефер и Иалон; Иефер же родил Мерома,
+        Шаммая и Ишбаха, отца Ешфемои."
+  - id: 3332
+    number: 18
+    bookId: 13
+    text: И жена его Иудия родила Иереда, отца Гедора, и Хевера, отца Сохо, и
+      Иекуфиила, отца Занаоха. Это сыновья Бифьи, дочери фараоновой, которую
+      взял Меред.
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Жена же его сия адиа роди ему иареда отца гедоря, и авера отца сохоня, и
+        ехфииля, отца заноня. Сии же сынове веффии дщере фараоновы, юже поят
+        морил.
+      averincev: ""
+      ungerov: ""
+      csya_old: Женa же є3гw2 сіS ґдjа роди2 є3мY їaреда nтцA гедHрz, и3 ґве1ра nтцA
+        сwхHнz, и3 є3хфіи1лz, nтцA занHнz. Сjи же сы1нове веffjи дще1ре
+        фараHновы, ю4же поsтъ мwри1лъ.
+      sovr_rbo: Жена Мереда, иудеянка, родила Иереда, отца Гедора, Хевера, отца Сохо,
+        и Иекутиэла, отца Заноаха.
+      latin: "Uxor quoque ejus Judaia, peperit Jared patrem Gedor, et Heber patrem
+        Socho, et Icuthiel patrem Zanoe: hi autem filii Bethiae filiae
+        Pharaonis, quam accepit Mered."
+      ukr: А жінка його юдеянка породила Єреда, батька Ґедору, і Хевера, батька Сохо,
+        і Єкутіїла, батька Заноаха.
+      nkjv: (His wife Jehudijah bore Jered the father of Gedor, Heber the father of
+        Sochoh, and Jekuthiel the father of Zanoah.) And these were the sons of
+        Bithiah the daughter of Pharaoh, whom Mered took.
+      desnitsky: ""
+      mt: ‫    וְאִשְׁתּוֹ הַיְהֻדִיָּה יָלְדָה אֶת־יֶרֶד אֲבִי גְדוֹר וְאֶת־חֶבֶר
+        אֲבִי שׂוֹכוֹ וְאֶת־יְקוּתִיאֵל אֲבִי זָנוֹחַ וְאֵלֶּה בְּנֵי בִּתְיָה
+        בַת־פַּרְעֹה אֲשֶׁר לָקַח מָרֶד׃ ס ‬
+      romana: Femeia acestuia, Iehudia, a nascut pe Iered, tatal lui Ghedor, pe Heber,
+        tatal lui Soco, si pe Iecutiel, tatal lui Zanoah. Acestia sunt fiii
+        Bitiei, fata lui Faraon, pe care a luat-o Mered.
+      francais: Sa femme, la Juive, enfanta Jéred, père de Guedor, Héber, père de
+        Soco, et Jekuthiel, père de Zanoach. Ceux-là sont les fils de Bithja,
+        fille de Pharaon, que Méred prit pour femme.
+      italian: Sua moglie, la Giudea, partorì Ieter padre di Ghedor, Cheber padre di
+        Soco e Iekutièl padre di Zanòach. Questi invece sono i figli di Bitia,
+        figlia del faraone, che Mered aveva presa in moglie.
+      old_georgian: და ცოლმან მისმან ადა უშვა მას იარედი, მამა გედორისა, და აბერი,
+        მამა სოქოასა, და იეთიელ, მამა ზანოისი. და ესე არიან ძენი ბეთთასი,
+        ასულისა ფარაოსი, რომელი მოიყვანა მორედ.
+      portuguese: "cuja mulher judia deu à luz Jerede, pai de Gedor, Heber, pai de
+        Socó, e Jecutiel, pai de Zanoa; e estes foram os\rfilhos de Bitia, filha
+        de Faraó, que Merede tomou."
+      polish: "A tegoż żona, Judejka, urodziła Jereda, ojca Gedora, Chebera, ojca
+        Soko, i\rJekutiela, ojca Zanoacha. Ci są synowie Bitii, córki faraona,
+        którą poślubił\rMered."
+      turkish: Bunlar Meret'in evlendiği firavunun kızı Bitya'nın doğurduğu
+        çocuklardır. Meret'in Yahudalı karısı, Gedor'un kurucusu Yeret'i,
+        Soko'nun kurucusu Hever'i, Zanoah'ın kurucusu Yekutiel'i doğurdu.
+      nrt: (А его иудейская жена родила Иереда, отца Гедора, Хевера, отца Сохо и
+        Иекуфиила, отца Заноаха). Это сыновья Бифьи, дочери фараона, на которой
+        женился Меред.
+      Macarius: И жена его, Иудеянка, родила Иереда, отца Гедора и Хебера, отца
+        Заноаха. Вот сыновья Бифии, дочери Фараоновой, которую взял Меред.
+      serbian: А жена његова Јудија роди Јереда, оца Гедору, и Евера, оца Сохоту, и
+        Јекутила, оца Заноји. А то бијаху синови Витије, кћери Фараонове, којом
+        се ожени Меред.
+      bulgarian: А жена му Иудия роди Иереда, Гедоров баща, и Хевера, баща на Сохо, и
+        Иекутиила, баща на Занаоха. Това бяха синове на фараоновата дъщеря
+        Бития, която бе взел Меред.
+      deutsch: Und sein jüdisches Weib gebar Jered, den Vater Gedors; Heber, den Vater
+        Sochos; Jekuthiel, den Vater Sanoahs.
+      ukr2: Жінка його, юдейка, породила Єреда, батька Гедора, Хевера, батька Сохо, і
+        Єкутієла, батька Заноаха. Це сини Бітії, дочки фараона, яку взяв Меред.
+      ukr3: А жінка його Юдія народила Ереда, батька Гедорового, і Хевера, Сохового
+        батька, і Екутиїла, Занаохового батька. Це сини Битії, Фараонової дочки,
+        котру взяв Меред.
+      bel_syomukha: І жонка ягоная Юдыя нарадзіла Ерэда, бацьку Гедора, і Хэвэра,
+        бацьку Сахо, і Екутыіла, бацьку Занаоха. Гэта сыны Бітэі, дачкі
+        фараонавай, якую ўзяў Мэрэд.
+      lev-khv: И жена его, Иудеянка, родила Иереда, владельца Гедора, и Хевера,
+        владельца Сохо, и Иекуфиила, владельца Заноаха. Вот сыновья Бифьи,
+        дочери Фараоновой, которую взял Меред.
+      czech: Jeho manzelka Jehudija porodila Jereda, otce Gedoru, a Chebera, otce
+        Soka, a Jekutiela, otce Zanoachu. To jsou synove Bitji, dcery faraonovy,
+        kterou pojal Mered.
+      spanish: Su mujer, Yehudiyá, parió a Jered, padre de Guedor; a Jeber, padre de
+        Soco, y a Jecutiel, padre de Zanoaj. Estos son los hijos de Bitia, hija
+        del Faraón, que Mered tomó por mujer.
+      greek-lxx: καὶ ἡ γυνὴ αὐτοῦ αὕτη Αδια ἔτεκεν τὸν Ιαρεδ πατέρα Γεδωρ καὶ τὸν Αβερ
+        πατέρα Σωχων καὶ τὸν Ιεκθιηλ πατέρα Ζανω καὶ οὗτοι υἱοὶ Γελια θυγατρὸς
+        Φαραω ἣν ἔλαβεν Μωρηδ
+      st_text: И жена его Иудия родила Иереда, отца Гедора, и Хевера, отца Сохо, и
+        Иекуфиила, отца Занаоха. Это сыновья Бифьи, дочери фараоновой, которую
+        взял Меред.
+  - id: 3333
+    number: 19
+    bookId: 13
+    text: "Сыновья жены его Годии, сестры Нахама, отца Кеилы: Гарми и Ешфемоа -
+      Маахатянин."
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И сынове жены идумеаныни, сестры ханема и далиа отца кеила, и симеон отец
+        иомамов. И сынове наимовы отца кеилова: гармий и есфемоний иже из
+        махафы."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# сы1нове жены2 їдуме1аныни, сестры2 хане1ма и3 далjа nтцA кеjла, и3
+        сmмеHнъ nте1цъ їwмaмовъ. И# сы1нове наи1мwвы nтцA кеjлова: гармjй и3
+        є3сfемwнjй и5же и3з8 махafы."
+      sovr_rbo: Потомками жены Ходии, сестры Нахама, были отцы Кеилы гармитянина и
+        Эштемоа-маахейца.
+      latin: Et filii uxoris Odaiae sororis Naham patris Ceila, Garmi, et Esthamo, qui
+        fuit de Machathi.
+      ukr: А сини жінки Годійї, сестри Нахама, батька ґарм'янина Кеїли та маахатянина
+        Ештемоа,
+      nkjv: "The sons of Hodiah's wife, the sister of Naham, were the fathers of
+        Keilah the Garmite and of Eshtemoa the Maachathite. "
+      desnitsky: ""
+      mt: ‫    וּבְנֵי אֵשֶׁת הוֹדִיָּה אֲחוֹת נַחַם אֲבִי קְעִילָה הַגַּרְמִי
+        וְאֶשְׁתְּמֹעַ הַמַּעֲכָתִי׃ ‬
+      romana: "Fiii femeii acestuia, Hodia, sora lui Naham, tatal Cheilei, sunt: Garmi
+        si Estemoa Maacateanul."
+      francais: "Fils de la femme d'Hodija, soeur de Nacham: le père de Kehila, le
+        Garmien, et Eschthemoa, le Maacathien."
+      italian: Figli della moglie Odaia, sorella di Nacam, padre di Keilà il Garmita e
+        di Estemoà il Maacateo.
+      old_georgian: "და ძენი ცოლისა ოვდიასი, დისა ნაქემისნი, და დალია, მამა კეილაისა.
+        და საბეგონ, მამა იომანისა, და ძენი ნაემისნი მამისა კელაისანი
+        ტარმიკეანისანი: ესთეო და მაქათი."
+      portuguese: Os filhos da mulher de Hodias, irmã de Naã, foram os pais de Queila,
+        o garmita, e Estemoa, o maacatita.
+      polish: "Synowie żony Hodijji, siostry Nachama, ojca Keili, Garmity, i Esztemoy,
+        Ma\rakatyty."
+      turkish: Hodiya Naham'ın kızkardeşiyle evlendi. Ondan doğan oğulları Keila'da
+        yaşayan Garm ve Eştemoa'da yaşayan Maaka boylarının atasıydı.
+      nrt: "Сыновья жены Годии, сестры Нахама: отцы гармитской Кеилы и маахитского
+        Эштемоа."
+      Macarius: "Сыновья жены Годии, сестры Нахама, отца Кеилы, суть: Гармийцы,
+        Ешфемояне и Маахийцы."
+      serbian: А синови жене Одијине, сестре Нама, оца Кеили, бијаху Гармија и
+        Естемоја Махаћанин.
+      bulgarian: "Синове на жена му Ходия, сестра Нахамова, баща Кеилов: Гарми и
+        Ещемоа - маахатец."
+      deutsch: "Die Kinder des Weibes Hodijas, der Schwester Nahams, waren: der Vater
+        Kegilas, der Garmiter, und Esthemoa, der Maachathiter."
+      ukr2: "Сини жінки Годії, сестри Нахама, батька Кеїли: Симеон, Гармі та Ештемоа,
+        маахій."
+      ukr3: "Сини його жінки Годїї, сестри Нахамової, батька Кеїлового: Гармі та
+        Ештемоа, з Махати."
+      bel_syomukha: "Сыны жонкі ягонай Годыі, сястры Нахама, бацькі Кеілы: Гармі і
+        Эштэмоа - Маахацянін."
+      lev-khv: "Сыновья жены Годии, сестры Нахама, владельца Кеилы: Гарми и Ешфемоа,
+        Маахатяне;"
+      czech: "Synove Hodijasovy manzelky, sestry Nachama, otce Keilova: Hagarmi a
+        Estemoa Maakatsky."
+      spanish: Hijos de la mujer de Odias, hermana de Najam, el padre de Queila,
+        fueron Garmi y Estemoa el macateo.
+      greek-lxx: καὶ υἱοὶ γυναικὸς τῆς Ιδουιας ἀδελφῆς Ναχεμ καὶ Δαλια πατὴρ Κεϊλα καὶ
+        Σεμειων πατὴρ Ιωμαν καὶ υἱοὶ Ναημ πατρὸς Κεϊλα Αγαρμι καὶ Εσθεμωη Μαχαθι
+      st_text: "Сыновья жены его Годии, сестры Нахама, отца Кеилы: Гарми и Ешфемоа -
+        Маахатянин."
+  - id: 3334
+    number: 20
+    bookId: 13
+    text: "Сыновья Симеона: Амнон, Ринна, Бенханан и Филон. Сыновья Ишия: Зохеф и
+      Бензохеф."
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Сынове же симеони: амнон и рамнон сын анань и фимнон. И сынове еси:
+        зохаф, и сынове зохафовы."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Сы1нове же сmмеw6ни: ґмнHнъ и3 рамнHнъ сы1нъ ґнaнь и3 fимнHнъ. И#
+        сы1нове є3си2: зwхafъ, и3 сы1нове зwхafwвы."
+      sovr_rbo: "Сыновья Шимона: Амнон, Ринна, Бенханан и Тилон. Потомки Иши: Зохет и
+        сын Зохета."
+      latin: Filii quoque Simon, Amnon, et Rinna filius Hanan, et Thilon. Et filii
+        Jesi, Zoheth, et Benzoheth.
+      ukr: "а сини Симеонові: Амнон, і Рінна, Бен-Ханан, і Тілон. А сини Їш'ї: Зохет
+        та Бен-Зохет."
+      nkjv: And the sons of Shimon were Amnon, Rinnah, Ben-Hanan, and Tilon. And the
+        sons of Ishi were Zoheth and Ben-Zoheth.
+      desnitsky: ""
+      mt: ‫    וּבְנֵי שִׁימוֹן אַמְנוֹן וְרִנָּה בֶּן־חָנָן *ותולון **וְתִילוֹן
+        וּבְנֵי יִשְׁעִי זוֹחֵת וּבֶן־זוֹחֵת׃ ‬
+      romana: "Fiii lui Simeon sunt: Amnon, Rina, Benhanan si Tilon. Fiii lui Isi sunt
+        Zohet si Benzohet."
+      francais: "Fils de Simon: Amnon, Rinna, Ben Hanan et Thilon. Fils de Jischeï:
+        Zocheth et Ben Zocheth."
+      italian: "Figli di Simone: Ammòn, Rinna, Ben—Canan e Tilon. Figli di Iseì:
+        Zochet e Ben—Zochet."
+      old_georgian: "და ძენი სემიონისნი: ამნონ და რანო და ძე ანანისი - თილონ. და ძენი
+        ესთესნი: ბენზჰეთ და ზოქათ. და ძენი ზოქათისნი"
+      portuguese: "Os filhos de Simão: Amnom, Rina, Bene-Hanã e Tilom; e os filhos de
+        Isi: Zoete e Bene-Zoete."
+      polish: "Synowie Szymona: Amnon, Rinna, Ben-Chanan i Tilon. Synowie
+        Jisziego:\rZochet i Ben-Zochet."
+      turkish: "Şimon'un oğulları: Amnon, Rinna, Ben-Hanan, Tilon.\rYişi'nin
+        torunları: Zohet ve Ben-Zohet."
+      nrt: "Сыновья Симеона: Амнон, Ринна, Бен-Ханан и Филон. Сыновья Ишия: Зохеф и
+        Бен-Зохеф."
+      Macarius: "Сыновья Шимона: Амнон и Ринна, Бен-Ханан и Филон. Сыновья Ишия: Зохеф
+        и Бен-Зохеф."
+      serbian: "А синови Симонови: Амнон и Рина и Вен-Анан и Тилон. А синови Јесејеви:
+        Зохет и Вен-Зохет."
+      bulgarian: "Синове Симеонови: Амнон, Рина, Бенханан и Тилон. Синове Ишиеви:
+        Зохев и Бензохет."
+      deutsch: "Die Kinder Simons waren: Amnon und Rinna, Ben-Hanan und Thilon. Die
+        Kinder Jeseis waren: Soheth und Ben-Soheth."
+      ukr2: "Сини Симеона: Амнон, Рінна, Бен-Ханан та Тілон. Син Їші: Зохет і
+        Бен-Зохет."
+      ukr3: "Сини Симеонові: Амнон, Ринна, Бенханан та Тилон. Сини в Ішія: Зохев та
+        Бензохет."
+      bel_syomukha: "Сыны Сімяона: Амнон, Рына, Бэнханан і Тылон. Сыны Ішыя: Зохеў і
+        Бэнзохет."
+      lev-khv: "А сыновья Шимона: Амнон и Ринна, Бенханан и Филон; а сыновья Ишия:
+        Зохеф и Бензохеф."
+      czech: "Synove Simonovi: Amnon a Rina, Ben-chanan a Tilon. Synove Jisiho: Zochet
+        a Ben-zochet."
+      spanish: "Hijos de Simón: Amnón, Rina, Ben-Janán y Tilón. Hijos de Isí: Zojet y
+        Ben-Zojet."
+      greek-lxx: καὶ υἱοὶ Σεμιων Αμνων καὶ Ρανα υἱὸς Αναν καὶ Θιλων καὶ υἱοὶ Ισεϊ Ζωαθ
+        καὶ υἱοὶ Ζωαθ
+      st_text: "Сыновья Симеона: Амнон, Ринна, Бенханан и Филон. Сыновья Ишия: Зохеф и
+        Бензохеф."
+  - id: 3335
+    number: 21
+    bookId: 13
+    text: "Сыновья Силома, сына Иудина: Ир, отец Лехи, и Лаеда, отец Мареши, и
+      семейства выделывавших виссон, из дома Ашбеи,"
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Сынове силома, сына иудина: ир отец лихавль, и лаада отец марисань: и
+        племя дому делателей виссона в дому есовы,"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Сы1нове силHма, сы1на їyдина: и4ръ nте1цъ лихaвль, и3 лаaда nте1цъ
+        марисaнь: и3 пле1мz до1му дёлателей вmссо1на въ домY є3совы2,"
+      sovr_rbo: "Потомки Шелы, сына Иуды: Эр, отец Лехи, Лада, отец Мареши; роды тех,
+        кто выделывал дорогие льняные ткани (клан Ашбеи)."
+      latin: "Filii Sela, filii Juda: Her pater Lecha, et Laada pater Maresa, et
+        cognationes domus operantium byssum in Domo juramenti."
+      ukr: "Сини Шели, Юдиного сина: Ер, батько Лехи, і Лада, батько Мареші, і роди
+        дому робітників віссону, з дому Ашбеа."
+      nkjv: The sons of Shelah the son of Judah were Er the father of Lecah, Laadah
+        the father of Mareshah, and the families of the house of the linen
+        workers of the house of Ashbea;
+      desnitsky: ""
+      mt: ‫    בְּנֵי שֵׁלָה בֶן־יְהוּדָה עֵר אֲבִי לֵכָה וְלַעְדָּה אֲבִי מָרֵשָׁה
+        וּמִשְׁפְּחוֹת בֵּית־עֲבֹדַת הַבֻּץ לְבֵית אַשְׁבֵּעַ׃ ‬
+      romana: "Fiii lui Sela, fiul lui Iuda, sunt: Er, tatal lui Leca, Laeda, tatal
+        lui Maresa, si familiile din casa lui Asbeia, care lucrau visonul,"
+      francais: "Fils de Schéla, fils de Juda: Er, père de Léca, Laeda, père de
+        Maréscha, et les familles de la maison où l'on travaille le byssus, de
+        la maison d'Aschbéa,"
+      italian: "Figli di Sela, figlio di Giuda: Er padre di Leca, Laadà padre di
+        Maresà, e le famiglie dei lavoratori del bisso in Bet—Asbèa,"
+      old_georgian: "და ძენი სელონისნი, ძისა იოდასნი: ერ, მამა ლექადისა, და ლაადა,
+        მამა მადესი, და შობანი მათნი ესთაად და აბუს, სახლსა ესობასა, და
+        იოაკიმისა,"
+      portuguese: "Os filhos de Selá, filho de Judá: Er, pai de Leca, Lada, pai de
+        Maressa, e as famílias da casa dos que fabricavam\rlinho, em
+        Bete-Asbéia;"
+      polish: "Synowie Szeli, syna Judy: Er, ojciec Leki, Laedy, ojciec Mareszy i
+        rodów z\rwytwórni bisioru w Bet-Aszbea;"
+      turkish: "Yahuda oğlu Sela'nın oğulları: Leka'nın kurucusu Er, Mareşa'nın
+        kurucusu Lada, Beytaşbea'da ince keten işinde çalışanların boyları,"
+      nrt: "Сыновья Шелы, сына Иуды: Ир, отец Лехи, Лаеда, отец Мареши, семьи
+        работников, выделывающих тонкое полотно в Бет-Ашбеа;"
+      Macarius: "Сыновья Шолы, сына Иудина: Ир, отец Лехи и Лаеда, отец Мареши, и
+        племена выделывающих виссон в доме Ашбеи;"
+      serbian: "А синови Силе, сина Јудина: Ир, отац Лиху и Лада, отац Мариси, и
+        породице дома платнарскога, дома Асвејина."
+      bulgarian: "Синове на Силома, син Иудин: Ир, баща на Леха, и Лаеда, баща на
+        Мареша, и челядите на тия, които обработваха висон, от Ашбеевия дом,"
+      deutsch: "Die Kinder aber Selas, des Sohnes Juda's, waren: Ger, der Vater
+        Lechas, Laeda, der Vater Maresas, und die Freundschaft der Leinweber von
+        dem Hause Asbeas;"
+      ukr2: "Сини Шели, сина Юди: Ер, батько Лехи, Лаади, батько Мареш та родин, що
+        виробляють вісон у Бет-Ашбеа;"
+      ukr3: "Сини в Силома, Юдиного сина: Ір, батько (князь) Лехи, та Лаеда, отець
+        Мареші, та родини вироблявших виссон в дому Ашбеах,"
+      bel_syomukha: "Сыны Сілома, сына Юдавага: Ір, бацька Лэхі, і Даэда, бацька
+        Марэшы, і сямейства, якое вырабляла вісон, з дому Ашбэі,"
+      lev-khv: "Сыновья Шелы, сына Иудина: Ир, отец Лехи, и Лаеда, отец Мареши, и
+        племена выделывавших виссон, из дома Ашбеи,"
+      czech: "Synove Sely, syna Judova: Er, otec Leky, a Laeda, otec Maresi, a celedi
+        pracujici v dilne na belostne platno v Bet-asbeji,"
+      spanish: "Hijos de Sela, hijo de Judá: Er, padre de Leca; Laeda, padre de
+        Maresa; y las familias de la casa donde se trabaja el lino, Bet-Asbea,"
+      greek-lxx: υἱοὶ Σηλωμ υἱοῦ Ιουδα Ηρ πατὴρ Ληχα καὶ Λααδα πατὴρ Μαρησα καὶ
+        γενέσεις οἰκιῶν εφραθ αβακ τῷ οἴκῳ Εσοβα
+      st_text: "Сыновья Силома, сына Иудина: Ир, отец Лехи, и Лаеда, отец Мареши, и
+        семейства выделывавших виссон, из дома Ашбеи,"
+  - id: 3336
+    number: 22
+    bookId: 13
+    text: и Иоким, и жители Хозевы, и Иоаш и Сараф, которые имели владение в Моаве,
+      и Иашувилехем; но это события древние.
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и иоаким, и мужие хозива и иоас и сараф, иже вселишася в моаве: и
+        возврати их аведир в мафукиим."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 їwакjмъ, и3 мyжіе хwзивA и3 їwaсъ и3 сарaфъ, и5же всели1шасz въ
+        мwaвэ: и3 возврати2 и5хъ ґведи1ръ въ маfукіи1мъ."
+      sovr_rbo: Иоким, жители Козевы, Иоас и Сараф, которые господствовали над
+        моавитянами, жившими в Лехеме (дела давние).
+      latin: "Et qui stare fecit solem, virique Mendacii, et Securus, et Incendens,
+        qui principes fuerunt in Moab, et qui reversi sunt in Lahem: haec autem
+        verba vetera."
+      ukr: І Йокін, і люди Козеви, і Йоаш, і Сараф, що володіли Моавом, і Яшуві-Лехем.
+        Та це справи стародавні.
+      nkjv: also Jokim, the men of Chozeba, and Joash; Saraph, who ruled in Moab, and
+        Jashubi-Lehem. Now the records are ancient.
+      desnitsky: ""
+      mt: ‫    וְיוֹקִים וְאַנְשֵׁי כֹזֵבָא וְיוֹאָשׁ וְשָׂרָף אֲשֶׁר־בָּעֲלוּ
+        לְמוֹאָב וְיָשֻׁבִי לָחֶם וְהַדְּבָרִים עַתִּיקִים׃ ‬
+      romana: Iochim si locuitorii din Cozeba; Ioas si Saraf, care au stapanit asupra
+        Moabului si Iasubi-Lehem. Dar acestea sunt intamplari mai vechi.
+      francais: et Jokim, et les hommes de Cozéba, et Joas et Saraph, qui dominèrent
+        sur Moab, et Jaschubi Léchem. Ces choses sont anciennes.
+      italian: Iokim e la gente di Cozeba, Ioas e Saraf, che dominarono in Moab e poi
+        tornarono in Betlemme. Ma si tratta di fatti antichi.
+      old_georgian: და კაცნი ქოზიბასანი და იოასისნი სალაფინელი, რომელნი დაეშენნეს
+        მოაბს და კუალად მოაქცინა იგინი, აბედდერინ და ათუკიიმ.
+      portuguese: como também Joquim, e os homens de Cozeba, e Joás e Sarafe, os quais
+        dominavam sobre Moabe, e JasúbiLeém. (Estes registros são antigos.)
+      polish: "Jokim i mężowie z Kozeby oraz Joasz i Saraf, którzy panowali w
+        Moabie,\rzanim powrócili do Lechem. Są to wydarzenia bardzo dawne."
+      turkish: Yokim, Kozevalılar, Moavlı kadınlarla evlenen Yoaş'la Saraf ve
+        Yaşuvi-Lehem. Bu kayıtlar eskidir.
+      nrt: Иоким, жители Хозевы, Иоаш и Сараф, которые имели владения в Моаве и
+        Иашуви-Лехеме, но это древние события.
+      Macarius: И Иоаким, и жители Хозевы, и Иоаш, и Сараф, которые владели Моавом и
+        Иашувилехем. Но это происшествия древние.
+      serbian: И Јоким и Хасивљани, и Јоас и Сараф, који владаху у Моавској, и
+        Јасуви-Лехем. Али то су старе ствари.
+      bulgarian: и Иоким, и жителите на Хозева, и Иоаш, и Сараф, които имаха владения
+        в Моав, и Иашувилихем; но това са отдавнашни работи.
+      deutsch: dazu Jokim und die Männer von Koseba, und Joas und Saraph, die da
+        Herren wurden über Moab, und sie kehrten nach Lahem zurück, wie die alte
+        Rede lautet.
+      ukr2: Йокім та люди з Козеби, Йоас, Сараф, що панували над Моавом, а потім
+        повернулись у Вифлеєм, але це давні події.
+      ukr3: Та Йоаким, і осадники Хозеви, та Йоаш і Сараф, що мали державу в Моабі, та
+        Яшувилехем, але це давні подїї.
+      bel_syomukha: і Ёкім, і жыхары Хазэвы, і Ёаш і Сараф, якія мелі валоданьне ў
+        Мааве, і Яшувілэхем; але гэта падзеі старадаўнія.
+      lev-khv: И Иоким, и жители Хозевы, и Иоаш, и Сараф, которые имели владение в
+        Моаве, и Иашувилехем; но это события древния.
+      czech: Jokim a muzove Kozeby a Joas a Saraf, kteri opanovali Moaba, a
+        Jasubi-lechem. To jsou starobyle pribehy.
+      spanish: y Joaquim y los hombres de Cozeba, y Joás y Saraf, que dominaron en
+        Moab y Jasubi Lejem. Estas son cosas antiguas.
+      greek-lxx: καὶ Ιωακιμ καὶ ἄνδρες Χωζηβα καὶ Ιωας καὶ Σαραφ οἳ κατῴκησαν ἐν Μωαβ
+        καὶ ἀπέστρεψεν αὐτοὺς αβεδηριν αθουκιιν
+      st_text: и Иоким, и жители Хозевы, и Иоаш и Сараф, которые имели владение в
+        Моаве, и Иашувилехем; но это события древние.
+  - id: 3337
+    number: 23
+    bookId: 13
+    text: Они <i>были</i> горшечники, и жили при садах и в огородах; у царя для
+      работ его жили они там.
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Сии скудельницы обитающии во атаиме и гадире с царем, и в царстве его
+        укрепишася и вселишася тамо.
+      averincev: ""
+      ungerov: ""
+      csya_old: Сjи скуде1льницы њбитaющіи во ґтаjмэ и3 гади1рэ съ царе1мъ, и3 въ
+        цaрствэ є3гw2 ўкрэпи1шасz и3 всели1шасz тaмw.
+      sovr_rbo: Они были горшечниками, жили в Нетаиме и Гедере, состояли у царя на
+        службе.
+      latin: Hi sunt figuli habitantes in plantationibus, et in sepibus, apud regem in
+        operibus ejus, commoratique sunt ibi.
+      ukr: Вони були ганчарі, і замешкували садки та городи; вони жили там у царя для
+        його роботи.
+      nkjv: These were the potters and those who dwell at Netaim and Gederah; there
+        they dwelt with the king for his work.
+      desnitsky: ""
+      mt: ‫    הֵמָּה הַיּוֹצְרִים וְיֹשְׁבֵי נְטָעִים וּגְדֵרָה עִם־הַמֶּלֶךְ
+        בִּמְלַאכְתּוֹ יָשְׁבוּ שָׁם׃ ס ‬
+      romana: Acestia erau olari si traiau la gradini si la livezi si prin cetati; ei
+        traiau acolo la rege ca sa-i lucreze lui.
+      francais: C'étaient les potiers et les habitants des plantations et des parcs;
+        ils demeuraient là près du roi et travaillaient pour lui.
+      italian: Erano vasai e abitavano a Netàim e a Ghederà; abitavano là con il re,
+        al suo servizio.
+      old_georgian: ესე მეკეცენი, რომელნი დაემკჳდრნეს ატალიმს და გადერს მეფისა თანა.
+        და მეფობასა თანა მისსა განაძლიერეს იგი და დაემკჳდრნეს მუნ.
+      portuguese: Estes foram os oleiros, os habitantes de Netaim e de Gedera; e
+        moravam ali com o rei para o seu serviço.
+      polish: "Byli zaś oni garncarzami. Jako mieszkańcy Netaim i Gedery mieszkali
+        tam\rprzy królu ze względu na prace dla niego wykonywane."
+      turkish: Netayim ve Gedera'da oturur, çömlekçilik yapar ve kral için çalışırlardı.
+      nrt: Они были гончарами, жившими в Нефаиме и Гедере; они проживали там и
+        работали на царя.
+      Macarius: Они были горшечники, и жили при садах, и в стенах, жили там у царя для
+        работ его.
+      serbian: То бијаху лончари и живљаху у садовима и забранима, и бијаху ондје код
+        цара за његове послове.
+      bulgarian: Те бяха грънчари, като живееха и в градините и при садищата; живееха
+        там при царя, за да му работят.
+      deutsch: Sie waren Töpfer und wohnten unter Pflanzungen und Zäunen bei dem König
+        zu seinem Geschäft und blieben daselbst.
+      ukr2: То були ганчарі та мешканці Нетаїму й Гедери. Вони, бувши в царя на
+        ророті, жили там.
+      ukr3: Вони були гончарі й жили алри садках та по огородах; в царя на роботї в
+        його жили вони там.
+      bel_syomukha: Яны былі ганчары, і жылі пры садах і ў агародах; у цара на працах
+        жылі яны там.
+      lev-khv: Они <i>были</i> горшечники, и жили при садах и в хлевах; у царя для
+        работ его жили там.
+      czech: Byli to hrnciri, sadari a vinari, sidlili tam u krale v jeho sluzbach.
+      spanish: Estos eran alfareros y habitaban en Netaim y Guedera, cerca del rey, y
+        trabajaban para él.
+      greek-lxx: οὗτοι κεραμεῖς οἱ κατοικοῦντες ἐν Ναταϊμ καὶ Γαδηρα μετὰ τοῦ βασιλέως
+        ἐν τῇ βασιλείᾳ αὐτοῦ ἐνίσχυσαν καὶ κατῴκησαν ἐκεῖ
+      st_text: Они <i>были</i> горшечники, и жили при садах и в огородах; у царя для
+        работ его жили они там.
+  - id: 3338
+    number: 24
+    bookId: 13
+    text: "Сыновья Симеона: Немуил, Иамин, Иарив, Зерах и Саул."
+    chapter: 4
+    chapterId: 342
+    parallels:
+      - verseId: 10926
+        bookId: 1
+        bookCode: bytie
+        chapter: 46
+        short: Быт:46:10
+      - verseId: 22357
+        bookId: 2
+        bookCode: ishod
+        chapter: 6
+        short: Исх:6:15
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Сынове симеони: намуил и иамин и иарив, саре, саул."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Сы1нове сmмеw6ни: намуи1лъ и3 їамjнъ и3 їарjвъ, сaре, саyлъ."
+      sovr_rbo: "Сыновья Симеона: Немуэл, Ямин, Ярив, Зерах и Саул."
+      latin: "Filii Simeon: Namuel et Jamin, Jarib, Zara, Saul."
+      ukr: "Сини Симеонові: Немуїл, і Ямім, Ярів, Зерах, Саул,"
+      nkjv: The sons of Simeon were Nemuel, Jamin, Jarib, Zerah, and Shaul,
+      desnitsky: ""
+      mt: ‫    בְּנֵי שִׁמְעוֹן נְמוּאֵל וְיָמִין יָרִיב זֶרַח שָׁאוּל׃ ‬
+      romana: "Fiii lui Simeon au fost: Nemuel, Iamin, Iarib, Zerah si Saul."
+      francais: "Fils de Siméon: Nemuel, Jamin, Jarib, Zérach, Saül."
+      italian: "Figli di Simeone: Nemuèl, Iamin, Iarib, Zerach, Saul,"
+      old_georgian: "და ძენი სჳმეონისნი: ნამუელ და იამინ, იარიმ, ზარა, საულ,"
+      portuguese: "Os filhos de Simeão: Nemuel, Jamim, Jaribe, Zerá e Saul,"
+      polish: "Synowie Symeona: Nemuel, Jamin, Jarib, Zerach, Saul;"
+      turkish: "Şimonoğulları: Nemuel, Yamin, Yariv, Zerah, Şaul."
+      nrt: "Сыновья Симеона: Немуил, Иамин, Иарив, Зерах и Саул."
+      Macarius: "Сыновья Симеона: Немуил, Иамин, Иарив, Зерах, Саул."
+      serbian: "Синови Симеонови: Немуило и Јамин, Јарив, Зера, Саул;"
+      bulgarian: "Синове Симеонови: Немуил, Иамин, Иарив, Зерах и Саул."
+      deutsch: "Die Kinder Simeons waren: Nemuel, Jamin, Jarib, Serah, Saul;"
+      ukr2: "Сини Симеона: Немуел, Ямін, Яріб, Зерах та Саул;"
+      ukr3: "Сини Симеонові: Немуїл, Ямин, Ярив, Зерах та Саул."
+      bel_syomukha: "Сыны Сімяона: Нэмуіл, Ямін, Ярыў, Зэрах і Саўл."
+      lev-khv: "Сыновья Симеона: Немуил и Иамин, Иарив, Зерах, Саул;"
+      czech: "Synove Simeonovi: Nemuel a Jamin, Jarib, Zerach a Saul,"
+      spanish: "Hijos de Simeón: Nemuel, Jamín, Jarib, Zerai y Saúl. Hijos de Saúl:"
+      greek-lxx: υἱοὶ Συμεων Ναμουηλ καὶ Ιαμιν Ιαριβ Ζαρε Σαουλ
+      st_text: "Сыновья Симеона: Немуил, Иамин, Иарив, Зерах и Саул."
+  - id: 3339
+    number: 25
+    bookId: 13
+    text: Шаллум сын его; его сын Мивсам; его сын Мишма.
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Салем сын его, масан сын его, масма сын его,
+      averincev: ""
+      ungerov: ""
+      csya_old: Сале1мъ сы1нъ є3гw2, масaнъ сы1нъ є3гw2, масмA сы1нъ є3гw2,
+      sovr_rbo: Сын Саула — Шаллум; сын Шаллума — Мивсам; сын Мивсама — Мишма.
+      latin: Sellum filius ejus, Mapsam filius ejus, Masma filius ejus.
+      ukr: його син Шаллум, його син Мівсам, його син Мішма.
+      nkjv: Shallum his son, Mibsam his son, and Mishma his son.
+      desnitsky: ""
+      mt: ‫    שַׁלֻּם בְּנוֹ מִבְשָׂם בְּנוֹ מִשְׁמָע בְּנוֹ׃ ‬
+      romana: Fiul lui Saul a fost Salum, fiul acestuia a fost Mibsam, iar al acestuia
+        a fost Misma.
+      francais: "Fils de Saül: Schallum. Mibsam, son fils; Mischma, son fils."
+      italian: di cui fu figlio Sallùm, di cui fu figlio Mibsàm, di cui fu figlio Misma.
+      old_georgian: და სალიმ, ძე მისი, მაბესან, ძე მისი, ასემან, ძე მისი, მაზბან, ძე მისი,
+      portuguese: de quem foi filho Salum, de quem foi filho Mibsão, de quem foi filho
+        Misma.
+      polish: Jego synem Szallum, synem Szalluma - Mibsam, jego zaś synem był Miszma.
+      turkish: Şallum Şaul'un oğluydu. Mivsam Şallum'un, Mişma da Mivsam'ın oğluydu.
+      nrt: Шаллум, сын Саула, его сын Мивсам, его сын Мишма.
+      Macarius: Сын его Шаллум, сын его Мивсам, сын его Мишма.
+      serbian: А његов син Салум, а његов син Мивсам, а његов син Мисма.
+      bulgarian: Негов син Шалум; негов син Мивсам; негов син Мишма.
+      deutsch: des Sohn war Sallum; des Sohn war Mibsam; des Sohn war Mismas.
+      ukr2: Шаллум його син; Мівсам його син; Мішма його син;
+      ukr3: Шаллум, його син; його син Мивсам; його син Мишма.
+      bel_syomukha: Шалум сын ягоны; яго сын Міўсам; ягоны сын Мішма.
+      lev-khv: Шаллум, сын его; его сын Мивсам; его сын Мишма.
+      czech: jeho syn Salum, jeho syn Mibsam, jeho syn Misma.
+      spanish: Salum, Mibsam, su hijo; Misma, su hijo.
+      greek-lxx: Σαλεμ υἱὸς αὐτοῦ Μαβασαμ υἱὸς αὐτοῦ Μασμα υἱὸς αὐτοῦ
+      st_text: Шаллум сын его; его сын Мивсам; его сын Мишма.
+  - id: 3340
+    number: 26
+    bookId: 13
+    text: "Сыновья Мишмы: Хаммуил, сын его; его сын Закур; его сын Шимей."
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: амуил сын его, савуд сын его, закхур сын его, семей сын его.
+      averincev: ""
+      ungerov: ""
+      csya_old: ґмуи1лъ сы1нъ є3гw2, савyдъ сы1нъ є3гw2, закхyръ сы1нъ є3гw2, семе1й
+        сы1нъ є3гw2.
+      sovr_rbo: "Сыновья Мишмы: Хаммуэл; сын Хаммуэла — Заккур; сын Заккура — Шими."
+      latin: "Filii Masma: Hamuel filius ejus, Zachur filius ejus, Semei filius ejus."
+      ukr: "А сини Мішми: Хаммуїл син його, його син Заккур, його син Шім'ї."
+      nkjv: And the sons of Mishma were Hamuel his son, Zacchur his son, and Shimei
+        his son.
+      desnitsky: ""
+      mt: ‫    וּבְנֵי מִשְׁמָע חַמּוּאֵל בְּנוֹ זַכּוּר בְּנוֹ שִׁמְעִי בְנוֹ׃ ‬
+      romana: "Fiii lui Misma au fost: Hamuel, fiul lui; fiul acestuia a fost Zacur,
+        iar al acestuia a fost Simei."
+      francais: "Fils de Mischma: Hammuel, son fils. Zaccur, son fils; Schimeï, son
+        fils."
+      italian: "Figli di Misma: Cammuèl, di cui fu figlio Zaccur, di cui fu figlio
+        Simei."
+      old_georgian: ამუელ, ძე მისი, საბუდ, ძე მისი, საქურ, ძე მისი, სემეეი, ძე მისი.
+      portuguese: "Os filhos de Misma: Jamuel, seu filho, de quem foi filho Zacur, de
+        quem foi filho Simei."
+      polish: "Synowie Miszmy: Chammuel, jego synem był Zakkur, synem Zakkura
+        zaś\rSzimei."
+      turkish: "Mişma'nın torunları: Hammuel Mişma'nın oğluydu. Zakkur Hammuel'in,
+        Şimi de Zakkur'un oğluydu."
+      nrt: "Сыновья Мишмы: Хаммуил, сын его; его сын Заккур, его сын Шимей."
+      Macarius: "Сыновья Мишмы: Хаммуил, сын его Закхур, сын его Шимей."
+      serbian: "А синови Мисмини: Амуило син му, и његов син Захур, и његов син Симеј."
+      bulgarian: "Синовете на Мишма: Хамуил, син му; негов син Закур, негов син Шимей."
+      deutsch: "Die Kinder aber Mismas waren: Hammuel; des Sohn war Sakkur; des Sohn
+        war Simei."
+      ukr2: "Сини ж Мішми: Хамуел його син; Заккур його син; Шімеї його син."
+      ukr3: "Сини Мишмині: Хаммуїл, його син; сього син Закур; його син Шимей."
+      bel_syomukha: "Сыны Мішмы: Хамуіл, сын ягоны; сын Закур; яго сын Шымэй."
+      lev-khv: "Сыновья Мишмы: Хаммуил, сын его; его сын Закхур; его сын Шимей."
+      czech: "Synove Mismovi: jeho syn Chamuel, jeho syn Zakur, jeho syn Simei."
+      spanish: "Hijos de Misma: Hamuel, su hijo; Zacur, su hijo; Simeí, su hijo."
+      greek-lxx: Αμουηλ υἱὸς αὐτοῦ Σαβουδ υἱὸς αὐτοῦ Ζακχουρ υἱὸς αὐτοῦ Σεμεϊ υἱὸς αὐτοῦ
+      st_text: "Сыновья Мишмы: Хаммуил, сын его; его сын Закур; его сын Шимей."
+  - id: 3341
+    number: 27
+    bookId: 13
+    text: У Шимея <i>было</i> шестнадцать сыновей и шесть дочерей; у братьев же его
+      сыновей <i>было</i> немного, и все племя их не так было многочисленно, как
+      племя сынов Иуды.
+    chapter: 4
+    chapterId: 342
+    parallels:
+      - verseId: 11011
+        bookId: 1
+        bookCode: bytie
+        chapter: 49
+        short: Быт:49:8
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Сынове же семеины шестьнадесять и дщерей шесть. Братиям же их не быша
+        сынове мнози, и вся племена их не умножишася якоже сынове иудины,
+      averincev: ""
+      ungerov: ""
+      csya_old: Сы1нове же семє1ины шестьнaдесzть и3 дще1рей ше1сть. Брaтіzмъ же и4хъ
+        не бы1ша сы1нове мно1зи, и3 вс‰ племенA и4хъ не ўмно1жишасz ћкоже
+        сы1нове ї{дины,
+      sovr_rbo: У Шими было шестнадцать сыновей и шесть дочерей; а у его братьев
+        сыновей было немного, и весь их род был не столь многочисленен, как род
+        сынов Иуды.
+      latin: "Filii Semei sedecim, et filiae sex: fratres autem ejus non habuerunt
+        filios multos, et universa cognatio non potuit adaequare summam filiorum
+        Juda."
+      ukr: А в Шім'ї було шістнадцять синів та шість дочок, а брати його не мали
+        багатьох синів, і не помножили ввесь свій рід так, як сини Юдині.
+      nkjv: Shimei had sixteen sons and six daughters; but his brothers did not have
+        many children, nor did any of their families multiply as much as the
+        children of Judah.
+      desnitsky: ""
+      mt: ‫    וּלְשִׁמְעִי בָּנִים שִׁשָּׁה עָשָׂר וּבָנוֹת שֵׁשׁ וּלְאֶחָיו אֵין
+        בָּנִים רַבִּים וְכֹל מִשְׁפַּחְתָּם לֹא הִרְבּוּ עַד־בְּנֵי יְהוּדָה׃ ס
+        ‬
+      romana: Simei a avut saisprezece fii si sase fete, iar fratii lui au avut putini
+        copii si tot neamul lor n-a fost asa de numeros ca neamul fiilor lui
+        Iuda.
+      francais: Schimeï eut seize fils et six filles. Ses frères n'eurent pas beaucoup
+        de fils. Et toutes leurs familles ne se multiplièrent pas autant que les
+        fils de Juda.
+      italian: Simei ebbe sedici figli e sei figlie, ma i suoi fratelli ebbero pochi
+        figli; le loro famiglie non si moltiplicarono come quelle dei
+        discendenti di Giuda.
+      old_georgian: და სემეემისნი ძენი - ათექუსმეტ და ასულნი ექუს; და ძმათა მათთა არა
+        ესხნეს ძენი მრავალ, და ყოველნი ნათესავნი მათნი არა განმრავლდეს,
+        ვითარ-იგი ძენი იუდასნი.
+      portuguese: "Simei teve dezesseis filhos e seis filhas; porém seus irmãos não
+        tiveram muitos filhos, nem se multiplicou toda\ra sua família tanto como
+        as dos filhos de Judá."
+      polish: "Szimei miał szesnastu synów i sześć córek, lecz jego bracia nie mieli
+        wiele\rdzieci i wszystkie ich rody nie rozmnożyły się tak, jak potomków
+        Judy."
+      turkish: Şimi'nin on altı oğlu, altı kızı vardı. Ancak kardeşlerinin çok sayıda
+        çocukları yoktu. Bu yüzden Şimon oymağı, sayıca Yahuda oymağı kadar
+        artmadı.
+      nrt: У Шимея было шестнадцать сыновей и шесть дочерей, но его братья не были
+        многодетными; поэтому весь их клан не стал таким же многолюдным, как
+        народ Иуды.
+      Macarius: У Шимея было шестнадцать сыновей и шесть дочерей, у братьев же его
+        сыновей было не много, и все племя их было не так многочисленно, как
+        племя сыновей Иуды.
+      serbian: А Симеј имаше шеснаест синова и шест кћери; а браћа његова немаху много
+        синова, и све породице њихове не бјеше тако много као синова Јудинијех.
+      bulgarian: Шимей имаше шестнайсет синове и шест дъщери, но братята му нямаха
+        много синове, и целият им род не беше тъй многоброен, както родът на
+        синовете Иудини.
+      deutsch: Und Simei hatte sechzehn Söhne und sechs Töchter; aber seine Brüder
+        hatten nicht viel Kinder, und alle ihre Freundschaften mehrten sich
+        nicht so wie die Kinder Juda's.
+      ukr2: У Шімеї було 16 синів та 6 дочок; а в його братів було небагато синів, і
+        всі їхні родини не були такі численні, як сини Юди.
+      ukr3: В Шимея було шіснайцять синів та шість дочок; а в його братів було
+        небагато синів, і усе поколїннє їх було не таке велике, як поколїннє
+        Юдиних синів.
+      bel_syomukha: У Шымэя было шаснаццаць сыноў і шэсьць дочак; а ў братоў ягоных
+        сыноў было няшмат, і ўсё племя іхняе ня так было шматлікае, як племя
+        сыноў Юды.
+      lev-khv: У Шимея <i>было</i> шестнадцать сыновей и шесть дочерей; у братьев же
+        его сыновей <i>было</i> немного, и все племя их было не так
+        многочисленно, как племя сынов Иуды.
+      czech: Simei mel sestnact synu a sest dcer. Jeho bratri nemeli mnoho synu; cela
+        jejich celed se nerozmnozila tak jako Judovci.
+      spanish: Simeí tuvo dieciséis hijos y seis hijas. Sus hermanos no tuvieron
+        muchos hijos, y sus familias no se multiplicaron tanto como las de los
+        hijos de Judá.
+      greek-lxx: καὶ τῷ Σεμεϊ υἱοὶ ἑκκαίδεκα καὶ θυγατέρες τρεῖς καὶ τοῖς ἀδελφοῖς
+        αὐτῶν οὐκ ἦσαν υἱοὶ πολλοί καὶ πᾶσαι αἱ πατριαὶ αὐτῶν οὐκ ἐπλεόνασαν ὡς
+        υἱοὶ Ιουδα
+      st_text: У Шимея <i>было</i> шестнадцать сыновей и шесть дочерей; у братьев же
+        его сыновей <i>было</i> немного, и все племя их не так было
+        многочисленно, как племя сынов Иуды.
+  - id: 3342
+    number: 28
+    bookId: 13
+    text: Они жили в Вирсавии, Моладе, Хацаршуале,
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и обитаху в вирсавеи и саваде, и монаде и во есерсуале,
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 њбитaху въ вирсаве1и и3 савaдэ, и3 монaдэ и3 во є3серсуaлэ,
+      sovr_rbo: Жили они в Беэр-Шеве, Моладе, Хацар-Шуале,
+      latin: Habitaverunt autem in Bersabee, et Molada, et Hasarsuhal,
+      ukr: І осілися вони в Беер-Шеві, і в Моладі, і в Хацар-Шуалі,
+      nkjv: They dwelt at Beersheba, Moladah, Hazar Shual,
+      desnitsky: ""
+      mt: ‫    וַיֵּשְׁבוּ בִּבְאֵר־שֶׁבַע וּמוֹלָדָה וַחֲצַר שׁוּעָל׃ ‬
+      romana: Ei traiau in Beer-Seba, Molada si Hatar-Sual,
+      francais: Ils habitaient à Beer Schéba, à Molada, à Hatsar Schual,
+      italian: Si stabilirono in Bersabea, in Molada, in Cazar—Sual,
+      old_georgian: და დაემკჳდრნეს ბერსაბეეს და სამაას, და მოლაადს, და სერასულას,
+      portuguese: Eles habitaram em Berseba, Molada, Hazar-Sual,
+      polish: "Mieszkali oni w miastach: Beer-Szeba, Molada, Chasar-Szual,"
+      turkish: ""
+      nrt: Они жили в Вирсавии, Моладе, Хацар-Шуале,
+      Macarius: Они жили в Вирсавии, Моладе, Хацар-Шуале,
+      serbian: А живљаху у Вирсавеји и Молади и Асар-Суалу,
+      bulgarian: Те живееха във Вирсавия, Молада и Хацаршуал,
+      deutsch: Sie wohnten aber zu Beer-Seba, Molada, Hazar-Sual,
+      ukr2: Вони жили в Версавії, Моладі, Хацар-Шуалі,
+      ukr3: Вони жили в Бирсабії, Моладї, Хазаршуалї,
+      bel_syomukha: Яны жылі ў Вірсавіі, Маладзе, Хацаршуале,
+      lev-khv: Они жили в Вирсавии, и Моладе, и Хацаршуале,
+      czech: Sidlili v Beer-sebe, Molade a Chasar-sualu,
+      spanish: Habitaban en Berseba, en Molada, en Jasar Sual,
+      greek-lxx: καὶ κατῴκησαν ἐν Βηρσαβεε καὶ Σαμα καὶ Μωλαδα καὶ Εσηρσουαλ
+      st_text: Они жили в Вирсавии, Моладе, Хацаршуале,
+  - id: 3343
+    number: 29
+    bookId: 13
+    text: в Билге, в Ецеме, в Фоладе,
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и в валааи и во асеме, и во фоладе
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 въ валаaи и3 во ґсе1мэ, и3 во fwлaдэ
+      sovr_rbo: Билхе, Эцеме, Толаде,
+      latin: et in Bala, et in Asom, et in Tholad,
+      ukr: і в Білзі, і в Ецемі, і в Толаді,
+      nkjv: Bilhah, Ezem, Tolad,
+      desnitsky: ""
+      mt: ‫    וּבְבִלְהָה וּבְעֶצֶם וּבְתוֹלָד׃ ‬
+      romana: In Bilha, Etem, Tolad,
+      francais: à Bilha, à Etsem, à Tholad,
+      italian: in Bila, in Ezem, in Tolad,
+      old_georgian: და ბალაას, და ასომს, და სთოლად,
+      portuguese: Bila, Ezem, Tolade,
+      polish: Bilha, Esem, Tolad,
+      turkish: ""
+      nrt: Билге, Ецеме, Толаде,
+      Macarius: В Билге, в Ецеме, в Фоладе,
+      serbian: И у Вали и у Асему и у Толаду,
+      bulgarian: в Билха, в Ецем, в Толад,
+      deutsch: Bilha, Ezem, Tholad,
+      ukr2: Білзі, Ецемі, Толаді,
+      ukr3: В Билзї, в Еземі, в Толадї,
+      bel_syomukha: у Білзе, у Эцэме, у Таладзе,
+      lev-khv: И в Билге, и в Ецеме, и в Фоладе,
+      czech: v Bilze, v Esemu a v Toladu,
+      spanish: en Bila, en Esen, en Tolad,
+      greek-lxx: καὶ ἐν Βαλαα καὶ Βοασομ καὶ Θουλαδ
+      st_text: в Билге, в Ецеме, в Фоладе,
+  - id: 3344
+    number: 30
+    bookId: 13
+    text: в Вефуиле, в Хорме, в Циклаге,
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и в вафуиле, и в ерме и в сикелаи,
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 въ ваfуи1лэ, и3 въ є4рмэ и3 въ сікелaи,
+      sovr_rbo: Бетуэле, Хорме, Циклаге,
+      latin: et in Bathuel, et in Horma, et in Siceleg,
+      ukr: і в Бетуїлі, і в Хормі, і в Ціклаґу,
+      nkjv: Bethuel, Hormah, Ziklag,
+      desnitsky: ""
+      mt: ‫    וּבִבְתוּאֵל וּבְחָרְמָה וּבְצִיקְלָג׃ ‬
+      romana: Betuel, Horma, Ticlag,
+      francais: à Bethuel, à Horma, à Tsiklag,
+      italian: in Betuel, in Corma, in Ziklàg,
+      old_georgian: ბათულს, და ერმას და სიკელაკს.
+      portuguese: Betuel, Horma, Ziclague,
+      polish: Betuel, Chorma, Siklag,
+      turkish: ""
+      nrt: Бетуиле, Хорме, Циклаге,
+      Macarius: В Вефуиле, в Хорме, в Циклаге,
+      serbian: И у Ветуилу и у Орми и у Сиклагу,
+      bulgarian: в Бетуил, в Хорма, в Циклаг,
+      deutsch: Bethuel, Horma, Ziklag,
+      ukr2: Бетуелі, Хормі, Ціклазі,
+      ukr3: В Бетуїлї, в Хормі, в Зиклазї,
+      bel_syomukha: у Вэтуіле, у Хорме, у Цыклазе,
+      lev-khv: И в Вефуиле, и в Хорме, и в Циклаге,
+      czech: v Betuelu, Chorme a Siklagu,
+      spanish: en Batuel, en Jorma, en Siceleg,
+      greek-lxx: καὶ Βαθουηλ καὶ Ερμα καὶ Σεκλαγ
+      st_text: в Вефуиле, в Хорме, в Циклаге,
+  - id: 3345
+    number: 31
+    bookId: 13
+    text: в Беф-Маркавофе, в Хацарсусиме, в Беф-Биреи и в Шаариме. Вот города их до
+      царствования Давидова,
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и во вефмаримофе и во имисусеосине и в дому варусеоримли: сии грады их
+        даже до царя давида,"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 во веfмарімHfэ и3 во и3місусеwсjнэ и3 въ домY варусеwрjмли: сjи
+        грaды и4хъ дaже до царS давjда,"
+      sovr_rbo: Бет-Маркавоте, Хацар-Сусиме, Бет-Бири и Шаараиме (это их селения, в
+        которых они жили еще до царствования Давида,
+      latin: "et in Bethmarchaboth, et in Hasarsusim, et in Bethberai, et in Saarim:
+        hae civitates eorum usque ad regem David."
+      ukr: і в Бет-Маркавоті, і в Хацар-Сусімі, і в Бет-Бір'і, і в Шаараїмі, оце їхні
+        міста аж до зацарювання Давидового.
+      nkjv: Beth Marcaboth, Hazar Susim, Beth Biri, and at Shaaraim. These were their
+        cities until the reign of David.
+      desnitsky: ""
+      mt: ‫    וּבְבֵית מַרְכָּבוֹת וּבַחֲצַר סוּסִים וּבְבֵית בִּרְאִי וּבְשַׁעֲרָיִם
+        אֵלֶּה עָרֵיהֶם עַד־מְלֹךְ דָּוִיד׃ ‬
+      romana: In Bet-Marcabot, Hatar-Susim, Bet-Birei si Saaraim. Iata cetatile lor
+        dinainte de domnia lui David cu satele lor.
+      francais: à Beth Marcaboth, à Hatsar Susim, à Beth Bireï et à Schaaraïm. Ce
+        furent là leurs villes jusqu'au règne de David, et leurs villages.
+      italian: in Bet—Marcabòt, in Cazar—Susìm, in Bet—Bireì e in Saaràim. Queste
+        furono le loro città fino al regno di Davide.
+      old_georgian: ბეთმაქაბოროს და კერძოსა სესომისისასა. და სახლი ბარუმისი -სეორიმი.
+        ესე იყუნეს ქალაქნი მათნი ვიდრე დავითის მეფისამდე.
+      portuguese: Bete-Marcabote, Hazar-Susim, Bete-Biri e Saraim; essas foram as suas
+        cidades até o reinado de Davi.
+      polish: "Bet-Markabot, Chasar-Susim, Bet-Birei, Szaarim. Miasta te należały do
+        nich\raż do panowania Dawida."
+      turkish: Şimonoğulları Beer-Şeva, Molada, Hasar-Şual, Bilha, Esem, Tolat,
+        Betuel, Horma, Ziklak, Beytmarkavot, Hasar-Susim, Beytbiri ve Şaarayim
+        kentlerinde yaşadılar. Davut dönemine dek kentleri bunlardı.
+      nrt: Бет-Маркавофе, Хацар-сусиме, Бет-Биреи и Шаараиме. Это их города до
+        правления Давида.
+      Macarius: И в Беф-Маркавофе, в Хацар-Сусиме, в Беф-Бири, и в Шаариме. Вот города
+        их до царствования Давида.
+      serbian: И у Вет-Мархавоту и у Асар-Сусиму и у Вет-Виреју и у Сараиму. То бјеху
+        градови њихови до цара Давида.
+      bulgarian: в Бет-Маркавот, в Хацар-Сусим, в Бет-Бирей и в Шаарим. Това са
+        градовете им до царуването на Давида,
+      deutsch: Beth-Markaboth, Hasar-Susim, Beth-Birei, Saaraim. Dies waren ihre
+        Städte bis auf den König David, dazu ihre Dörfer.
+      ukr2: у Бет-Маркавоті, Хацар-Сусімі, Бет-Біреї та в Шаараїмі. Це були їхні
+        міста, поки царював Давид,
+      ukr3: В Бет-Маркавотї, в Хазарсусимі, в Бет-Біреї та в Шааримі. Оце міста їх до
+        Давидового царювання,
+      bel_syomukha: у Бэт-Маркавоце, у Хацарсусіме, у Бэт-Бірэі і ў Шаарыме. Вось
+        гарады іхнія да валадараньня Давідавага,
+      lev-khv: И в Беф-Маркавофе, и в Хацарсусиме, и в Беф-Биреи, и в Шаариме. Вот
+        города их до царствования Давидова;
+      czech: v Bet-markabotu, v Chasar-susimu, v Bet-bireji a v Saarajimu. To byla
+        jejich mesta az do Davidova kralovani.
+      spanish: en Bet Marjabot, en Jasar Susin, en Bet Bireí y en Saaraim. Estas
+        fueron sus ciudades hasta el reino de David,
+      greek-lxx: καὶ Βαιθμαρχαβωθ καὶ ἥμισυ Σωσιμ καὶ οἶκον Βαρουμσεωριμ αὗται πόλεις
+        αὐτῶν ἕως βασιλέως Δαυιδ
+      st_text: в Беф-Маркавофе, в Хацарсусиме, в Беф-Биреи и в Шаариме. Вот города их
+        до царствования Давидова,
+  - id: 3346
+    number: 32
+    bookId: 13
+    text: "с селами их: Етам, Аин, Риммон, Фокен и Ашан, - пять городов."
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и села их: етам и ин, рамнон и фоккан и есар, градов пять."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 се1ла и4хъ: є3тaмъ и3 и4нъ, рамнHнъ и3 fоккaнъ и3 є3сaръ, градHвъ
+        пsть."
+      sovr_rbo: и хутора вокруг них). Этам, Аин, Риммон, Тохен и Ашан (еще пять селений,
+      latin: "Villae quoque eorum: Etam, et Aen, Remmon, et Thochen, et Asan,
+        civitates quinque."
+      ukr: "А їхні осади: Етам, і Аїн, Ріммон, і Тохен, і Ашан, п'ятеро міст."
+      nkjv: And their villages were Etam, Ain, Rimmon, Tochen, and Ashan-five cities -
+      desnitsky: ""
+      mt: ‫    וְחַצְרֵיהֶם עֵיטָם וָעַיִן רִמּוֹן וְתֹכֶן וְעָשָׁן עָרִים חָמֵשׁ׃ ‬
+      romana: "Si mai aveau: Etam, Ain, Rimon, Tochen si Asan, cinci cetati,"
+      francais: Ils avaient encore Etham, Aïn, Rimmon, Thoken et Aschan, cinq villes;
+      italian: "Loro villaggi erano Etam, Ain, Rimmòn, Tochen e Asan: cinque città"
+      old_georgian: "და საყოფელნი მათნი: ერამინი, და ერემონი, და თოკანი, და ესანი და
+        თეკანი - ქალაქები ხუთი."
+      portuguese: "As suas aldeias foram: Etã, Aim, Rimom, Toquem e Asã, cinco cidades,"
+      polish: "A osiedlami ich były: Etam, Ain, Rimmon, Token i Aszan, pięć miast"
+      turkish: "Ayrıca şu beş ilçede de yaşadılar: Etam, Ayin, Rimmon, Token, Aşan."
+      nrt: Их поселениями были Етам, Аин, Риммон, Фокен и Ашан – пять городов
+      Macarius: "И предместия их: Итам, Аин, Риммон, Фокен и Ашан, пять городов."
+      serbian: А села њихова бијаху Итам и Ајин, Римон и Тохен и Асан, пет градова,
+      bulgarian: "със селищата им: Етам, Аин, Римон, Токен и Ашан, - пет града,"
+      deutsch: Etam, Ain, Rimmon, Thochen, Asan, die fünf Städte,
+      ukr2: "з їхніми селищами: Етам, Аїн, Ріммон, Тохен та Ашан - 5 міст."
+      ukr3: "З їх селами: Етам, Аїн, Риммон, Токен та Ашан, - пять міст."
+      bel_syomukha: "зь сёламі іх: Этам, Аін, Рымон, Токен і Ашан, - пяць гарадоў."
+      lev-khv: "А селения их: Етам и Аин, Риммон, и Фокен и Ашан, пять городов."
+      czech: Jejich dvorce byly v Etamu a Ajinu, v Rimonu, v Tokenu a v Asanu, v peti
+        mestech.
+      spanish: y sus aldeas eran Etam, Ain, Rimmón, Toquen y Asán, cinco aldeas,
+      greek-lxx: καὶ ἐπαύλεις αὐτῶν Αιταμ καὶ Ηνρεμμων καὶ Θοκκαν καὶ Αισαν πόλεις πέντε
+      st_text: "с селами их: Етам, Аин, Риммон, Фокен и Ашан, - пять городов."
+  - id: 3347
+    number: 33
+    bookId: 13
+    text: И все селения их, которые находились вокруг сих городов до Ваала; вот
+      места жительства их и родословия их.
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И вся веси их окрест градов сих, даже до ваала: сие обдержание их и
+        разделение их."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# вс‰ вє1си и4хъ њ1крестъ градHвъ си1хъ, дaже до ваaла: сіе2
+        њбдержaніе и4хъ и3 раздэле1ніе и4хъ."
+      sovr_rbo: а также все хутора, что находятся неподалеку от этих селений, вплоть
+        до Баала). Вот места, где они жили, и их родословие.
+      latin: "Et universi vinculi eorum per circuitum civitatum istarum usque ad Baal:
+        haec est habitatio eorum, et sedium distributio."
+      ukr: А всі їхні осади, що навколо тих міст, аж до Баалу; це місця їх оселення та
+        родоводи їх про них.
+      nkjv: "and all the villages that were around these cities as far as Baal. These
+        were their dwelling places, and they maintained their genealogy:"
+      desnitsky: ""
+      mt: ‫    וְכָל־חַצְרֵיהֶם אֲשֶׁר סְבִיבוֹת הֶעָרִים הָאֵלֶּה עַד־בָּעַל זֹאת
+        מוֹשְׁבֹתָם וְהִתְיַחְשָׂם לָהֶם׃ ‬
+      romana: "Cu toate satele lor, care se aflau imprejurul acestor cetati pana la
+        Baal. Iata locurile lor de locuinta si spita neamului lor:"
+      francais: et tous les villages aux environs de ces villes, jusqu'à Baal. Voilà
+        leurs habitations et leur généalogie.
+      italian: e tutti i villaggi dei loro dintorni fino a Baal. Questa era la loro
+        sede e questi i loro nomi nei registri genealogici.
+      old_georgian: "და ყოველი საყოფელები მათი გარემო ქალაქებსა ამას ვიდრე ბაალადმდე;
+        ესე არს სამკჳდრებელი მათი და ნაწილად ხუედრებული მათი:"
+      portuguese: "com todas as suas aldeias, que estavam em redor destas cidades, até
+        Baal. Estas foram as suas habitações e as\rsuas genealogias."
+      polish: "oraz wszystkie ich wioski, które były naokoło tych miast aż do Baalat.
+        Takie\rbyły ich siedziby według ich spisów rodowych."
+      turkish: Baalat'a kadar uzanan bu kentlerin çevresindeki bütün köyler
+        Şimonoğulları'na aitti. Ailelerinin soy kütüğünü de tuttular.
+      nrt: вместе со всеми поселениями, окружавшими эти города до самого Баалафа. Это
+        их поселения и их родословие.
+      Macarius: И все села их, которые находились вокруг сих городов, до Ваала. Вот
+        место жительства их, и родовой список их.
+      serbian: И сва села њихова што бијаху око тијех градова до Вала. То бијаху
+        станови њихови по роду њихову.
+      bulgarian: и всичките им села, които бяха около тия градове до Ваал; това са
+        техните живелища и родословия.
+      deutsch: und alle Dörfer, die um diese Städte her waren, bis gen Baal; das ist
+        ihre Wohnung, und sie hatten ihr eigenes Geschlechtsregister.
+      ukr2: Усі їхні селища були навколо цих міст аж до Ваалу. Це були. їхні оселі; в
+        них були свої родовідні сувої-списки.
+      ukr3: І всї селища їх, що були навкруги коло цїх міст до Баала; оце місця їх
+        проживання та їх родоводи.
+      bel_syomukha: І вось селішчы іхнія, якія былі вакол гэтых гарадоў да Ваала; вось
+        месцы жыхарства іх і радаводы іхнія.
+      lev-khv: И все селения их, которыя находились вокруг этих городов, до Ваала. Вот
+        место жительства их и родовой список их.
+      czech: Vsechny jejich dvorce, ktere lezely kolem techto mest az k Baalu, byly
+        jejich sidlisti; byly zaznamenany v rodovem seznamu.
+      spanish: y todos los pueblos en derredor de estas ciudades hasta Baal. Estas son
+        sus habitaciones y sus genealogías.
+      greek-lxx: καὶ πᾶσαι αἱ ἐπαύλεις αὐτῶν κύκλῳ τῶν πόλεων τούτων ἕως Βααλ αὕτη ἡ
+        κατάσχεσις αὐτῶν καὶ ὁ καταλοχισμὸς αὐτῶν
+      st_text: И все селения их, которые находились вокруг сих городов до Ваала; вот
+        места жительства их и родословия их.
+  - id: 3348
+    number: 34
+    bookId: 13
+    text: Мешовав, Иамлех и Иосия, сын Амассии,
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Мосовав же и иемолох, и иосиа сын амасиев,
+      averincev: ""
+      ungerov: ""
+      csya_old: Мосwвaвъ же и3 їемоло1хъ, и3 їwсjа сы1нъ ґмасjевъ,
+      sovr_rbo: Мешовав, Ямлех, Иоша, сын Амасии,
+      latin: Mosobab quoque et Jemlech, et Josa filius Amasiae,
+      ukr: А Мешовав, і Ямлех, і Йоша, син Амації,
+      nkjv: Meshobab, Jamlech, and Joshah the son of Amaziah;
+      desnitsky: ""
+      mt: ‫    וּמְשׁוֹבָב וְיַמְלֵךְ וְיוֹשָׁה בֶּן־אֲמַצְיָה׃ ‬
+      romana: Mesobab, Iamlec si Iosa, fiul lui Amasia
+      francais: Meschobab; Jamlec; Joscha, fils d'Amatsia;
+      italian: Mesobàb, Iamlech, Iosa figlio di Amasia,
+      old_georgian: მოსობაბი, და ამალეკი და იოსია, ძე ამასიასი.
+      portuguese: Ora, Mesobabe, Jamleque, Josa, filho de Amazias,
+      polish: Meszobab, Jamlek, Josza, syn Amazjasza,
+      turkish: Meşovav, Yamlek, Amatsya oğlu Yoşa,
+      nrt: Мешовав, Иамлех, Иосия, сын Амасии,
+      Macarius: Мешовав и Иамлех и Иаша, сын Амассии.
+      serbian: А Месовав и Јамлих и Јоса, син Амасијин,
+      bulgarian: А Мешовав, Иамлех и Иосия, син на Амасия,
+      deutsch: Und Mesobab, Jamlech, Josa, der Sohn Amazjas,
+      ukr2: Мешовав, Ямлех, Йоса, син Амасії,
+      ukr3: Мешовав, Ямлех та Йосія, Амассіїн син,
+      bel_syomukha: Мешаваў, Ямлэх і Ёсія, сын Амасіі,
+      lev-khv: А Мешовав, и Иамлех, и Иоша, сын Амассии,
+      czech: Dale to byl Mesobab a Jamlek a Josa, syn Amasjasuv
+      spanish: Mesobat, Jamlec; Josa, hijo de Amasía;
+      greek-lxx: καὶ Μοσωβαβ καὶ Ιεμολοχ καὶ Ιωσια υἱὸς Αμασια
+      st_text: Мешовав, Иамлех и Иосия, сын Амассии,
+  - id: 3349
+    number: 35
+    bookId: 13
+    text: Иоил и Иегу, сын Иошиви, сына Сераии, сына Асиилова,
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и иоиль и ииуй сын асавиев, сын сараев, сын асииль,
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 їwи1ль и3 їиyй сы1нъ ґсавjевъ, сы1нъ сарaевъ, сы1нъ ґсіи1ль,
+      sovr_rbo: Иоиль, Иегу (отцом Иегу был Иошивия, сын Сераи, сына Асиэла),
+      latin: et Joel, et Jehu filius Josabiae filii Saraiae filii Asiel,
+      ukr: і Йоїл, і Єгу, син Йошів'ї, сина Сераї, сина Асіїлового,
+      nkjv: Joel, and Jehu the son of Joshibiah, the son of Seraiah, the son of Asiel;
+      desnitsky: ""
+      mt: ‫    וְיוֹאֵל וְיֵהוּא בֶּן־יוֹשִׁבְיָה בֶּן־שְׂרָיָה בֶּן־עֲשִׂיאֵל׃ ‬
+      romana: Ioil si Iehu, fiul lui Iosibia, fiul lui Seraia, fiul lui Asiel;
+      francais: Joël; Jéhu, fils de Joschibia, fils de Seraja, fils d'Asiel;
+      italian: Gioele, Ieu figlio di Iosibià, figlio di Seraià, figlio di Asièl,
+      old_georgian: და იოელ და იესუ, ძე იოსაბიასი, და ძე სარაიასი, ძე ასიელისი.
+      portuguese: Joel, Jeú, filho de Josibias, filho de Seraías, filho de Asiel,
+      polish: Joel, Jehu, syn Joszibiasza, syna Serajasza, syna Asjela,
+      turkish: Yoel, Asiel oğlu Seraya oğlu Yoşivya oğlu Yehu,
+      nrt: Иоил, Иегу, сын Иошиви, сына Сераи, сына Асиила,
+      Macarius: Иоил и Иегу, сын Иошивии, сына Сараиева, сына Асиилова.
+      serbian: И Јоило и Јуј, син Јосивије, сина Сераје, сина Асилова,
+      bulgarian: Иоил и Иеху, син на Иошива, син на Сераия, син Асиилов,
+      deutsch: Joel, Jehu, der Sohn Josibjas, des Sohnes Serajas, des Sohnes Asiels,
+      ukr2: Йоіл, Єгу, син Йошівії, сина Сераї, сина Азієла,
+      ukr3: Йоїл та Егу, син Йошиви, сина Сераії, Асиїлового сина,
+      bel_syomukha: Ёіл і Егу, сын Ёшыві, сына Сэраі, сына Асіілавага,
+      lev-khv: И Иоиль, и Иегу, сын Иошивии, сына Сераии, сына Асиилова,
+      czech: Joel a Jehu, syn Josibjase, syna Serajase, syna Asielova,
+      spanish: Joel, Jehú, hijo de Josibia; hijo de Seraya, hijo de Asiel.
+      greek-lxx: καὶ Ιωηλ καὶ οὗτος υἱὸς Ισαβια υἱὸς Σαραια υἱὸς Ασιηλ
+      st_text: Иоил и Иегу, сын Иошиви, сына Сераии, сына Асиилова,
+  - id: 3350
+    number: 36
+    bookId: 13
+    text: Елиоенай, Иакова, Ишохаия, Асаия, Адиил, Ишимиил и Ванея,
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и елионай и иокава, и иасуиа и асеа, и иедиил и исмаил и ванеа
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 є3ліwнaй и3 їwкaва, и3 їасуjа и3 ґсе1а, и3 їедіи1лъ и3 їсмaилъ и3
+        ване1а
+      sovr_rbo: Эльйоэнай, Яакова, Иешохая, Асая, Адиэл, Иесимиэл, Беная,
+      latin: et Elioenai, et Jacoba, et Isuhaia, et Asaia, et Adiel, et Ismiel, et
+        Banaia,
+      ukr: і Елйоенай, і Якова, і Шохая, і Асая, і Адіїл, і Єсіміїл, і Беная,
+      nkjv: Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesimiel, and Benaiah;
+      desnitsky: ""
+      mt: ‫    וְאֶלְיוֹעֵינַי וְיַעֲקֹבָה וִישׁוֹחָיָה וַעֲשָׂיָה וַעֲדִיאֵל
+        וִישִׂימִאֵל וּבְנָיָה׃ ‬
+      romana: Elioenai, Iaacoba, Iesohaia, Asaia, Adiel, Iesimiel, Benaia,
+      francais: Eljoénaï; Jaakoba; Jeschochaja; Asaja; Adiel; Jesimiel; Benaja;
+      italian: Elioenài, Iaakòba, Iesocàia, Asaia, Adièl, Iesimièl, Benaià,
+      old_georgian: და ელიონეი, და იეკებ, და იასოილ, და ასაიაი, და ედიელ, და ისმაელ და ბანეა.
+      portuguese: Elioenai, Jaacobá, Jesoaías, Asaías, Adiel, Jesimiel, Benaías,
+      polish: Elioenaj, Jaakoba, Jeszochajasz, Asajasz, Adiel, Jesimiel, Benajasz,
+      turkish: Elyoenay, Yaakova, Yeşohaya, Asaya, Adiel, Yesimiel, Benaya
+      nrt: Елиоенай, Иакова, Ишохаия, Асая, Адиил, Ишимиил, Ванея,
+      Macarius: Елиоенай, Иакова, Ишахаия, Асаия, Адиил, Иешимиил и Венаия.
+      serbian: И Елиоинај и Јакова и Јесохаја и Асаја и Адило и Јесимило и Венаја,
+      bulgarian: Елиоенай, Иакова, Ишохаия, Асаия, Адиил, Ишимиил и Ванея,
+      deutsch: Eljoenai, Jaekoba, Jesohaja, Asaja, Adiel, Ismeel und Benaja,
+      ukr2: Еліоенай, Якова, Ішухая, Асая, Адієл, Єсімієл, Беная,
+      ukr3: Елїоєнай, Якова, Ішохая, Асаїя, Адиїл, Ішимиїл та Банея,
+      bel_syomukha: Эльёэнай, Якава, Ішахая, Асая, Адыіл, Ішымііл і Ванэя,
+      lev-khv: И Елиоенай, и Иакова, и Ишохаия, и Асаия, и Адиил, и Иешимиил, и Венаия,
+      czech: a Eljoenaj, Jaakoba a Jesochajas, Asajas a Adiel, Jesimiel a Benajas
+      spanish: Elyoeani, Jacoba, Jesojaia, Asaya, Adiel, Jesimiel, Benaya,
+      greek-lxx: καὶ Ελιωηναι καὶ Ιακαβα καὶ Ιασουια καὶ Ασαια καὶ Εδιηλ καὶ Ισμαηλ
+        καὶ Βαναια
+      st_text: Елиоенай, Иакова, Ишохаия, Асаия, Адиил, Ишимиил и Ванея,
+  - id: 3351
+    number: 37
+    bookId: 13
+    text: и Зиза, сын Шифия, сын Аллона, сын Иедаии, сын Шимрия, сын Шемаии.
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и зуза сын сафеиев, сына алоня, сына иедиина, сына семриня, сына самеина.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 зузA сы1нъ сафеjевъ, сы1на ґлHнz, сы1на їедіи1на, сы1на семрjнz,
+        сы1на самеи1на.
+      sovr_rbo: 3иза, сын Шифи, сына Аллона, сына Иедаи, сына Шимри, сына Шемаи —
+      latin: Ziza quoque filius Sephei filii Allon filii Idaia filii Semri filii
+        Samaia.
+      ukr: і Зіза, син Шіф'і, сина Аллона, сина Єдаї, сина Шімрі, сина Шемаї.
+      nkjv: Ziza the son of Shiphi, the son of Allon, the son of Jedaiah, the son of
+        Shimri, the son of Shemaiah -
+      desnitsky: ""
+      mt: ‫    וְזִיזָא בֶן־שִׁפְעִי בֶן־אַלּוֹן בֶּן־יְדָיָה בֶן־שִׁמְרִי
+        בֶּן־שְׁמַעְיָה׃ ‬
+      romana: Ziza, fiul lui Sifei, fiul lui Alon, fiul lui Iedaia, fiul lui Simri,
+        fiul lui Semaia.
+      francais: Ziza, fils de Schipheï, fils d'Allon, fils de Jedaja, fils de Schimri,
+        fils de Schemaeja.
+      italian: Ziza figlio di Sifei, figlio di Allon, figlio di Iedaià, figlio di
+        Simrì, figlio di Semaià.
+      old_georgian: და ზოზა, ძე სეფეისი, ძისა ალონისი, ძისა იედიასი, ძისა სამარიასი,
+        ძისა სამეასი.
+      portuguese: e Ziza, filho de Sifi, filho de Alom, filho de Jedaías, filho de
+        Sínri, filho de Semaías
+      polish: Ziza, syn Szifiego, syna Allona, syna Jedajasza, syna Szimriego, syna
+        Szemajasza.
+      turkish: ve Şemaya oğlu Şimri oğlu Yedaya oğlu Allon oğlu Şifi oğlu Ziza.
+      nrt: и Зиза, сын Шифия, сына Аллона, сына Иедаии, сына Шимрия, сына Шемаи.
+      Macarius: Зиза, сын Шифия, сын Аллона, сын Иедаии, сын Шимрия, сын Шемаии.
+      serbian: И Зиса, син Сифија, сина Алона, сина Једаје, сина Симрија, сина Семајина;
+      bulgarian: и Зиза, син на Шифия, син на Алова, син на Иедаия, син на Шимрия, син
+        Шемаиев, -
+      deutsch: "Sisa, der Sohn Sipheis, des Sohnes Allons, des Sohnes Jedajas, des
+        Sohnes Simris, des Sohnes Semajas:"
+      ukr2: Зіза, син Шіфеї, сина Аллона, сина Єдаї, сина Шімрі, сина Шемаї.
+      ukr3: Та Зиза, син Шифія, син Аллона, сина Едаїї, сина Шимрія, сина Шемаїї.
+      bel_syomukha: і Зіза, сын Шыфія, сын Алона, сын Едаі, сын Шымрыя, сын Шэмаі.
+      lev-khv: И Зиза, сын Шифия, сын Аллона, сын Иедаии, сын Шимрия, сын Шемаии.
+      czech: a Ziza, syn Sifiho, syna Alona, syna Jedajase, syna Simriho, syna
+        Semajasova.
+      spanish: Ziza, hijo de Sifei, hijo de Alón, hijo de Jedaya, hijo de Simri, hijo
+        de Semaya.
+      greek-lxx: καὶ Ζουζα υἱὸς Σεφεϊ υἱοῦ Αλλων υἱοῦ Ιεδια υἱοῦ Σαμαρι υἱοῦ Σαμαιου
+      st_text: и Зиза, сын Шифия, сын Аллона, сын Иедаии, сын Шимрия, сын Шемаии.
+  - id: 3352
+    number: 38
+    bookId: 13
+    text: Сии поименованные <i>были</i> князьями племен своих, и дом отцов их
+      разделился на многие отрасли.
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Сии произшедшии во именех князей, в родех своих и в домех отечеств своих
+        умножишася во множество,
+      averincev: ""
+      ungerov: ""
+      csya_old: Сjи произше1дшіи во и4менэхъ кнzзе1й, въ ро1дэхъ свои1хъ и3 въ до1мэхъ
+        nте1чествъ свои1хъ ўмно1жишасz во мно1жество,
+      sovr_rbo: вот перечислены по именам главы родов. Их роды весьма разрослись.
+      latin: Isti sunt nominati principes in cognationibus suis, et in domo
+        affinitatum suarum multiplicati sunt vehementer.
+      ukr: Це ті, що входять в імена князів у свої роди, а дім своїх батьків сильно
+        розмножили.
+      nkjv: "these mentioned by name were leaders in their families, and their
+        father's house increased greatly. "
+      desnitsky: ""
+      mt: ‫    אֵלֶּה הַבָּאִים בְּשֵׁמוֹת נְשִׂיאִים בְּמִשְׁפְּחוֹתָם וּבֵית
+        אֲבוֹתֵיהֶם פָּרְצוּ לָרוֹב׃ ‬
+      romana: Acesti numiti mai sus au fost capetenii neamurilor lor, iar casa tatalui
+        lor s-a impartit in multe ramuri.
+      francais: Ceux-là, désignés par leurs noms, étaient princes dans leurs familles,
+        et leurs maisons paternelles prirent un grand accroissement.
+      italian: Questi, elencati per nome, erano capi nelle loro famiglie; i loro
+        casati si estesero molto.
+      old_georgian: ესე არიან, რომელნი განვიდეს სახელებითა მთავართათა ნათესავთა შორის
+        მათთა, და სახლთა შორის მამათა მათთა განმრავლდეს ფრიად სიმრავლედ.
+      portuguese: "estes, registrados por nome, foram príncipes nas suas famílias; e
+        as famílias de seus pais se multiplicaram\rgrandemente."
+      polish: Ci wymienieni tu imiennie byli naczelnikami swoich rodów. Rodziny ich
+        rozszerzyły się bardzo.
+      turkish: Yukarıda adı geçenlerin her biri, ait olduğu boyun başıydı. Aileleri
+        sayıca çoğaldılar.
+      nrt: Все выше перечисленные были вождями своих кланов. Их семьи значительно
+        увеличивались,
+      Macarius: Сии, исчисленные по именам, были князьями племен своих, и поколения их
+        распространились широко.
+      serbian: Ти именовани бијаху кнезови у породицама својим, и домови отаца
+        њиховијех умножише се веома.
+      bulgarian: всички тия упоменати бяха князе над своите родове, и домът на бащите
+        им се разклони много.
+      deutsch: diese, die mit Namen genannt sind, waren Fürsten in ihren
+        Geschlechtern; und ihre Vaterhäuser breiteten sich aus in die Menge.
+      ukr2: Ці, так як були наведені за іменами, були князями над своїми родинами, і
+        доми їхніх батьків сильно розрослися.
+      ukr3: Цї списані по йменнях були князями над своїми родами, а дім їх батьків
+        розпався на багато паростків.
+      bel_syomukha: Гэтыя памянёныя былі князямі плямёнаў сваіх, і дом бацькоў іх
+        разьдзяліўся на многія галіны.
+      lev-khv: Эти, исчисленные по именам, <i>были</i> князьями племен своих, и
+        поколения их распространились широко.
+      czech: Tito jmenovite uvedeni byli predaky ve svych celedich; jejich otcovsky
+        rod se mnohonasobne rozmohl.
+      spanish: Estos, por sus nombres, eran príncipes en sus familias, y sus casas
+        paternas tomaron gran incremento.
+      greek-lxx: οὗτοι οἱ διελθόντες ἐν ὀνόμασιν ἀρχόντων ἐν ταῖς γενέσεσιν αὐτῶν καὶ
+        ἐν οἴκοις πατριῶν αὐτῶν ἐπληθύνθησαν εἰς πλῆθος
+      st_text: Сии поименованные <i>были</i> князьями племен своих, и дом отцов их
+        разделился на многие отрасли.
+  - id: 3353
+    number: 39
+    bookId: 13
+    text: Они доходили до Герары и до восточной стороны долины, чтобы найти пастбища
+      для стад своих;
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и поидоша да внидут в герары даже до восток дебри взыскати пажити скотом
+        своим:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 поидо1ша да вни1дутъ въ герaры дaже до востHкъ де1бри взыскaти
+        п†жити скотHмъ свои6мъ:"
+      sovr_rbo: В поисках пастбищ для скота они доходили до Гедора, до восточной части
+        равнины .
+      latin: Et profecti sunt ut ingrederentur in Gador usque ad orientem vallis, et
+        ut quaererent pascua gregibus suis.
+      ukr: І пішли вони до Мево-Ґедору, аж до східнього боку долини, щоб пошукати
+        пасовиська для своїх отар.
+      nkjv: So they went to the entrance of Gedor, as far as the east side of the
+        valley, to seek pasture for their flocks.
+      desnitsky: ""
+      mt: ‫    וַיֵּלְכוּ לִמְבוֹא גְדֹר עַד לְמִזְרַח הַגָּיְא לְבַקֵּשׁ מִרְעֶה
+        לְצֹאנָם׃ ‬
+      romana: Ei s-au intins pana in partea Gherarei si pana in partea de rasarit a
+        vaii Gai, ca sa gaseasca pasuni pentru turmele lor;
+      francais: Ils allèrent du côté de Guedor jusqu'à l'orient de la vallée, afin de
+        chercher des pâturages pour leurs troupeaux.
+      italian: Andarono verso l'ingresso di Ghedor fino a oriente della valle in cerca
+        di pascoli per i greggi.
+      old_georgian: და მიიწივნეს ვიდრე გერარად, ვიდრე აღმოსავალადმდე გაისა, ძიებად
+        საძოვარისა საცხოვართა მათთჳს.
+      portuguese: Chegaram até a entrada de Gedor, ao lado oriental do vale, em busca
+        de pasto para os seus rebanhos;
+      polish: "Poszli więc aż do wąwozu Gedor, aż do wschodniej strony doliny,
+        szukając\rpastwiska dla swych trzód."
+      turkish: Sürülerine otlak aramak için Gedor yakınlarına, vadinin doğusuna kadar
+        gittiler.
+      nrt: и они доходили до предместий Гедора, до восточной стороны долины, в поисках
+        пастбищ для своих отар.
+      Macarius: Они доходили до Гедора, до восточного края долины, отыскивая пажити
+        для стад своих.
+      serbian: И зато отидоше у Гедор до источне стране долине да траже пашу стоци
+        својој.
+      bulgarian: Те отиваха до Герара и до източната страна на долината, за да намерят
+        пасбища за стадата си;
+      deutsch: Und sie zogen hin, daß sie gen Gedor kämen, bis gegen Morgen des Tals,
+        daß sie Weide suchten für ihre Schafe,
+      ukr2: Вони доходили аж до Герари на схід долини, щоб знайти випаси для своїх
+        черед,
+      ukr3: Вони доходили до Герари і до східнього боку долини, щоб знайти випаси для
+        своїх черед;
+      bel_syomukha: Яны даходзілі да Герары і да ўсходняга боку даліны, каб знайсьці
+        пашы статкам сваім;
+      lev-khv: Они ходили к Гедору, до восточной стороны долины, отъискивая пажити для
+        стад своих;
+      czech: Proto sli smerem ke Gedoru na vychod od udoli, aby hledali pastvu pro
+        svuj brav.
+      spanish: Fueron del lado de Guedor, hasta el oriente del valle, en busca de
+        pastos para sus ganados.
+      greek-lxx: καὶ ἐπορεύθησαν ἕως τοῦ ἐλθεῖν Γεραρα ἕως τῶν ἀνατολῶν τῆς Γαι τοῦ
+        ζητῆσαι νομὰς τοῖς κτήνεσιν αὐτῶν
+      st_text: Они доходили до Герары и до восточной стороны долины, чтобы найти
+        пастбища для стад своих;
+  - id: 3354
+    number: 40
+    bookId: 13
+    text: и нашли пастбища тучные и хорошие и землю обширную, спокойную и
+      безопасную, потому что до них жило там <i>только</i> немного Хамитян.
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и обретоша пажити премноги и благи: и земля пространна пред ними, и мир и
+        покой, зане прежде обитаху от сынов хамовых тамо."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 њбрэто1ша п†жити премнHги и3 бл†ги: и3 землS прострaнна пред8
+        ни1ми, и3 ми1ръ и3 поко1й, зане2 пре1жде њбитaху t сынHвъ хaмовыхъ
+        тaмw."
+      sovr_rbo: Там они нашли тучные, хорошие пастбища, обширные земли, на которых
+        царил мир и покой. Прежние жители этой страны происходили от Хама.
+      latin: Inveneruntque pascuas uberes, et valde bonas, et terram latissimam et
+        quietam et fertilem, in qua ante habitaverant de stirpe Cham.
+      ukr: І знайшли вони пасовисько сите та добре, а той край був просторий, і тихий
+        та спокійний, бо від Хама походили ті, що сиділи там колись.
+      nkjv: And they found rich, good pasture, and the land was broad, quiet, and
+        peaceful; for some Hamites formerly lived there.
+      desnitsky: ""
+      mt: ‫    וַיִּמְצְאוּ מִרְעֶה שָׁמֵן וָטוֹב וְהָאָרֶץ רַחֲבַת יָדַיִם וְשֹׁקֶטֶת
+        וּשְׁלֵוָה כִּי מִן־חָם הַיֹּשְׁבִים שָׁם לְפָנִים׃ ‬
+      romana: Si au gasit pasuni grase si bune si pamant larg, linistit si lipsit de
+        primejdii, pentru ca inainte de ei au trait acolo numai putini Hamiti.
+      francais: Ils trouvèrent de gras et bons pâturages, et un pays vaste, tranquille
+        et paisible, car ceux qui l'habitaient auparavant descendaient de Cham.
+      italian: Trovarono pascoli pingui e buoni; la regione era estesa, tranquilla e
+        quieta. Prima vi abitavano i discendenti di Cam.
+      old_georgian: და პოეს საძოვარი კეთილი და პოხილი, და ქუეყანა ვრცელი წინაშე მათსა,
+        მშჳდობა და მყუდროება, რამეთუ ძეთაგან ქამისთანი იყუნეს მუნ პირველ
+        დამკჳდრებულ.
+      portuguese: "e acharam pasto abundante e bom, e a terra era espaçosa, quieta e
+        pacífica; pois os que antes habitavam ali\reram descendentes de Cão."
+      polish: "I znaleźli pastwisko obfite i dobre, okolicę obszerną, spokojną i
+        bezpieczną,\ralbowiem już przedtem mieszkali tam Chamici."
+      turkish: Orada çok zengin otlaklar buldular. Ülke geniş, rahat ve huzur doluydu.
+        Eskiden orada Ham'ın soyundan gelenler yaşardı.
+      nrt: Они нашли тучные, хорошие пастбища, а земля была просторна, спокойна и
+        безопасна, ее прежние обитатели были хамитянами.
+      Macarius: И нашли тучные и хорошие пажити и просторную, во все стороны, землю, и
+        притом мирную и спокойную; потому что прежде жили там Хамитяне.
+      serbian: И нађоше пашу обилату и добру, и земљу пространу и мирну и родну, јер
+        прије ондје живљаху који бијаху од Хама.
+      bulgarian: и намериха тлъсти и хубави пасбища и широка земя, мирна и безопасна,
+        защото до тях живееха само малцина от Хамовци.
+      deutsch: und fanden fette und gute Weide und ein Land, weit von Raum, still und
+        ruhig; denn vormals wohnten daselbst die von Ham.
+      ukr2: і знайшли там тучні та добрі пасовиська й широку, спокійну та безпечну
+        землю. Колись там жили сини Хама.
+      ukr3: І знайшли пасовища вроджайні та добрі й землю широку, спокійну та
+        безпечну, бо до їх приходу жило там тільки трохи Хомитян.
+      bel_syomukha: і знайшлі пашы сакавітыя і добрыя і зямлю абшырную, спакойную і
+        бясьпечную, бо да іх жыло там толькі нямнога Хаміцян.
+      lev-khv: И нашли пажити тучныя и хорошия и землю обширную, и мирную, и
+        спокойную, потому что из Хамитян были жившие там прежде.
+      czech: Nasli pastvu tucnou a dobrou a zemi na vsechny strany otevrenou,
+        poklidnou a pokojnou; shledali, ze tamni predesli obyvatele pochazeji z
+        Chama.
+      spanish: Hallaron hierba y buenos pastos y una región vasta, tranquila y
+        apacible; los que antes la habitaron descendían de Cam.
+      greek-lxx: καὶ εὗρον νομὰς πίονας καὶ ἀγαθάς καὶ ἡ γῆ πλατεῖα ἐναντίον αὐτῶν καὶ
+        εἰρήνη καὶ ἡσυχία ὅτι ἐκ τῶν υἱῶν Χαμ τῶν κατοικούντων ἐκεῖ ἔμπροσθεν
+      st_text: и нашли пастбища тучные и хорошие и землю обширную, спокойную и
+        безопасную, потому что до них жило там <i>только</i> немного Хамитян.
+  - id: 3355
+    number: 41
+    bookId: 13
+    text: И пришли сии, по именам записанные, во дни Езекии, царя Иудейского, и
+      перебили кочующих и оседлых, которые там находились, и истребили их
+      навсегда и поселились на месте их, ибо там были пастбища для стад их.
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И приидоша сии написаннии имены во дни езекии царя иудина и побиша
+        жителей их и обитание, ихже обретоша ту, и искорениша их даже до дне
+        сего: и вселишася вместо их, яко пажить скотом их бяше тамо."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# пріидо1ша сjи напи1санніи и3мены2 во дни6 є3зекjи царS їyдина и3
+        поби1ша жи1телей и4хъ и3 њбитaніе, и5хже њбрэто1ша тY, и3 и3скорени1ша
+        и5хъ дaже до дне2 сегw2: и3 всели1шасz вмёстw и4хъ, ћкw пaжить скотHмъ
+        и4хъ бsше тaмw."
+      sovr_rbo: Те, кто выше был перечислен по именам, пришли туда во времена
+        Иудейского царя Езекии, они уничтожили становища потомков Хама и
+        меунеев, предали их заклятию и истребили. До сих пор они сами живут на
+        их месте, ведь там пастбища для скота.
+      latin: "Hi ergo venerunt, quos supra descripsimus nominatim, in diebus Ezechiae
+        regis Juda: et percusserunt tabernacula eorum, et habitatores qui
+        inventi fuerant ibi, et deleverunt eos usque in praesentem diem:
+        habitaveruntque pro eis, quoniam uberrimas pascuas ibidem repererunt."
+      ukr: І пішли ці, записані іменами за днів Єзекії, царя Юдиного, і розбили їхні
+        намети там, і побили меінітів, що були знайдені там, що їх учинили
+        закляттям аж до цього дня, й осілися замість них, бо там пасовисько для
+        їхньої дрібної худоби.
+      nkjv: These recorded by name came in the days of Hezekiah king of Judah; and
+        they attacked their tents and the Meunites who were found there, and
+        utterly destroyed them, as it is to this day. So they dwelt in their
+        place, because there was pasture for their flocks there.
+      desnitsky: ""
+      mt: ‫    וַיָּבֹאוּ אֵלֶּה הַכְּתוּבִים בְּשֵׁמוֹת בִּימֵי יְחִזְקִיָּהוּ
+        מֶלֶךְ־יְהוּדָה וַיַּכּוּ אֶת־אָהֳלֵיהֶם וְאֶת־*המעינים **הַמְּעוּנִים
+        אֲשֶׁר נִמְצְאוּ־שָׁמָּה וַיַּחֲרִימֻם עַד־הַיּוֹם הַזֶּה וַיֵּשְׁבוּ
+        תַּחְתֵּיהֶם כִּי־מִרְעֶה לְצֹאנָם שָׁם׃ ‬
+      romana: si au venit acestia, care sunt scrisi pe nume, in zilele lui Iezechia,
+        regele Iudei, si au batut pe nomazi si pe cei asezati, care se aflau
+        acolo si i-au nimicit pentru totdeauna si s-au asezat in locul lor, caci
+        acolo se aflau pasuni pentru turmele lor.
+      francais: Ces hommes, inscrits par leurs noms, arrivèrent du temps d'Ézéchias,
+        roi de Juda; ils attaquèrent leurs tentes et les Maonites qui se
+        trouvaient là, ils les dévouèrent par interdit jusqu'à ce jour, et ils
+        s'établirent à leur place, car il y avait là des pâturages pour leurs
+        troupeaux.
+      italian: Ma gli uomi — ni di cui sono stati elencati i nomi, al tempo di
+        Ezechia, re di Giuda, assalirono e sbaragliarono le tende di Cam e i
+        Meuniti, che si trovavano là; li votarono allo sterminio, che è durato
+        fino ad oggi, e ne occuparono il posto poiché era ricco di pascoli per i
+        greggi.
+      old_georgian: და მოვიდეს ესენი დაწერილნი სახელით დღეთა ეზეკია მეფისა
+        ჰურიასტანისათა, და მოსრნეს მკჳდრნი მათნი და მინელნი იგი, რომელნი პოვნეს
+        მუნ, და შეჩუენებულ-ყუნეს იგინი ვიდრე აქა დღედმდე და დაემკჳდრნეს მათ წილ,
+        რამეთუ საძოვარი საცხოვართა მათთათჳს იყო მუნ.
+      portuguese: "Estes que estão inscritos por nome, vieram nos dias de Ezequias,
+        rei de Judá, e destruíram as tendas e os\rmeunins que se acharam ali, e
+        os exterminaram totalmente até o dia de hoje, e habitaram em lugar
+        deles; porque ali\rhavia pasto para os seus rebanhos."
+      polish: "Ci zapisani tu imiennie przybyli za czasów króla judzkiego, Ezechiasza,
+        zniszczyli ich namioty, a Meunitów, którzy się tam znajdowali, obłożyli
+        klątwą, aż\rdo tego dnia, zamieszkawszy na ich miejscu, ponieważ
+        znaleźli tam pastwisko\rdla swych trzód."
+      turkish: Yukarıda adı yazılı olanlar, Yahuda Kralı Hizkiya döneminde geldiler.
+        Hamlılar'ın çadırlarına ve orada yaşayan Meunlular'a saldırıp tümünü
+        öldürdüler. Sonra ülkelerine yerleştiler. Bugün de oradalar. Çünkü orada
+        sürüleri için otlak vardı.
+      nrt: Все перечисленные пришли в дни Езекии, царя Иудеи. Они напали на хамитян в
+        их жилищах и на меунитян, которые оказались там, истребив их полностью,
+        как это видно и по сегодняшний день, и поселились на их месте, потому
+        что там были пастбища для их отар.
+      Macarius: Сии, по именам написанные, пошли во дни Езекии, царя Иудейского,
+        побили живущих в шатрах, и Маонитян, которые там находились, и положили
+        на них заклятие до сего дня, и поселились на месте их, ибо там были
+        пажити для стад их.
+      serbian: Ти, дакле, записани по имену дошавши за Језекије, цара Јудина разбише
+        шаторе њихове и становнике који се нађоше ондје, и побише их као
+        проклете да не оста ниједан до данас, и населише се мјесто њих, јер
+        ондје бијаше паше за стоку њихову.
+      bulgarian: И дойдоха тия, написани поименно, в дните на иудейския цар Езекия, па
+        избиха скитниците и заседналите, които се намираха там, изтребиха ги
+        завинаги и се заселиха на мястото им, защото там имаше пасбища за
+        стадата им.
+      deutsch: Und die jetzt mit Namen aufgezeichnet sind, kamen zur Zeit Hiskias, des
+        Königs Juda's, und schlugen jener Hütten und die Meuniter, die daselbst
+        gefunden wurden, und verbannte sie bis auf diesen Tag und wohnten an
+        ihrer Statt; denn es war Weide daselbst für ihre Schafe.
+      ukr2: Прийшли оці, записані за іменами, за часів Єзекії, юдейського царя, і
+        знищили їхні шатра й меоніїв, що там перебували, і обрекли їх на анатему
+        аж по цей день, і оселились на їхньому місці, бо там були пасовиська для
+        їхніх черед.
+      ukr3: І прийшли цї, записані по іменнях, за часів Езекії, царя Юдейського, й
+        повбивали й кочових і осїлих, що там знаходились, і вигубили їх навіки,
+        й оселились на їх місці, бо там були пасовища для їх черед.
+      bel_syomukha: І прыйшлі гэтыя, па імёнах запісаныя, у дні Эзэкіі, цара
+        Юдэйскага, і перабілі качавых і аселых, якія там былі, і вынішчылі іх
+        назаўсёды, і пасяліліся на месцы іхнім, бо там былі пашы статкам іхнім.
+      lev-khv: И пошли эти, по именам написанные, во дни Езекии, царя Иудейскаго, и
+        побили <i>живущих</i> в шатрах и Маонитян, которые там находились, и
+        уничтожили их навсегда, и поселились на месте их; ибо там пажити для
+        стад их.
+      czech: Tito jmenovite zapsani prisli za dnu judskeho krale Jechizkijase a
+        poborili jejich stany i pribytky, ktere tam nalezli, znicili je jako
+        klate, jak je tomu dodnes. Usadili se tam misto nich, protoze tam byla
+        pastva pro jejich brav.
+      spanish: Estos, descritos por sus nombres, vinieron en tiempo de Ezequías, rey
+        de Judá, y atacaron sus tiendas y los mineos que allí hallaron, y los
+        destruyeron hasta hoy, habitando en su lugar, por haber allí pastos para
+        sus ganados.
+      greek-lxx: καὶ ἤλθοσαν οὗτοι οἱ γεγραμμένοι ἐπ᾿ ὀνόματος ἐν ἡμέραις Εζεκιου
+        βασιλέως Ιουδα καὶ ἐπάταξαν τοὺς οἴκους αὐτῶν καὶ τοὺς Μιναίους οὓς
+        εὕροσαν ἐκεῖ καὶ ἀνεθεμάτισαν αὐτοὺς ἕως τῆς ἡμέρας ταύτης καὶ ᾤκησαν
+        ἀντ᾿ αὐτῶν ὅτι νομαὶ τοῖς κτήνεσιν αὐτῶν ἐκεῖ
+      st_text: И пришли сии, по именам записанные, во дни Езекии, царя Иудейского, и
+        перебили кочующих и оседлых, которые там находились, и истребили их
+        навсегда и поселились на месте их, ибо там были пастбища для стад их.
+  - id: 3356
+    number: 42
+    bookId: 13
+    text: "Из них же, из сынов Симеоновых, пошли к горе Сеир пятьсот человек:
+      Фелатия, Неария, Рефаия и Узиил, сыновья Ишия, <i>были</i> во главе их;"
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "От сих же от сынов симеоних идоша в гору сиир мужей пять сот, и фалтиа и
+        ноадиа, и рафаиа и озиил, сынове иесы, князи их:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "T си1хъ же t сынHвъ сmмеHнихъ и3до1ша въ го1ру сиjръ муже1й пsть
+        сHтъ, и3 фалтjа и3 нwадjа, и3 рафаjа и3 nзіи1лъ, сы1нове їе1сы, кн‰зи
+        и4хъ:"
+      sovr_rbo: Пятьсот человек из них (из сыновей Симеона) пошли к Сеирским горам ,
+        во главе их стояли сыновья Иши — Пелатия, Неария, Рефая и Уззиэл.
+      latin: "De filiis quoque Simeon abierunt in montem Seir viri quingenti, habentes
+        principes Phalthiam et Naariam et Raphaiam et Oziel filios Jesi:"
+      ukr: А з них, з Симеонових синів, пішли на гору Сеїр п'ять сотень чоловіка, а
+        Пелатія, і Неарія, і Рефая, і Уззіїл, сини Їш'ї, були на чолі їх.
+      nkjv: Now some of them, five hundred men of the sons of Simeon, went to Mount
+        Seir, having as their captains Pelatiah, Neariah, Rephaiah, and Uzziel,
+        the sons of Ishi.
+      desnitsky: ""
+      mt: ‫    וּמֵהֶם מִן־בְּנֵי שִׁמְעוֹן הָלְכוּ לְהַר שֵׂעִיר אֲנָשִׁים חֲמֵשׁ
+        מֵאוֹת וּפְלַטְיָה וּנְעַרְיָה וּרְפָיָה וְעֻזִּיאֵל בְּנֵי יִשְׁעִי
+        בְּרֹאשָׁם׃ ‬
+      romana: Dar din ei, din fiii lui Simeon, s-au dus catre muntele Seir cinci sute
+        de oameni, in frunte cu Pelatia, Nearia, Refaia si Uziel, fiii lui Isei,
+      francais: Il y eut aussi des fils de Siméon qui allèrent à la montagne de Séir,
+        au nombre de cinq cents hommes. Ils avaient à leur tête Pelathia,
+        Nearia, Rephaja et Uziel, fils de Jischeï.
+      italian: "Alcuni di loro, fra i discendenti di Simeone, andarono sulle montagne
+        di Seir: cinquecento uomini, guidati da Pelatià, Nearia, Refaia e
+        Uzzièl, figli di Iseì."
+      old_georgian: "და მათთაგანვე, ძეთა სჳმეონისთანი, წარვიდეს მთასა სეირსა კაცნი
+        ხუთასნი: ფალეტია და ნოადია და რაფადია და ოზიელ, ძენი ესთისნი და მთავარნი
+        მათნი."
+      portuguese: "Também deles, isto é, dos filhos de Simeão, quinhentos homens foram
+        ao monte Seir, tendo por capitães\rPelatias, Nearias, Refaías e Uziel,
+        filhos de Isi,"
+      polish: "Niektórzy z nich, pięciuset mężów z synów Symeona, udali się na górę
+        Seir,\ra na ich czele byli: Pelatiasz, Neariasz, Refajasz i Uzzjel,
+        synowie Jisziego."
+      turkish: "Yişi'nin oğulları Pelatya, Nearya, Refaya, Uzziel\rönderliğinde Şimon
+        oymağından beş yüz kişi Seir dağlık bölgesine gidip Amalekliler'den sağ
+        kalanları öldürdüler. Bugün de orada yaşıyorlar."
+      nrt: Пятьсот человек из этих симеонитов под началом Пелатия, Неарии, Рефая и
+        Узиила, сыновей Ишия, отправились в нагорья Сеира,
+      Macarius: "Из них же, из сынов Симеоновых, пять сот человек пошли к горе Сеир,
+        главными у них были: Фелатия, Неария, Рефаия и Узиил, сыновья Ишия."
+      serbian: А између њих, синова Симеоновијех, изиде на гору Сир пет стотина људи,
+        а поглавице им бијаху Фелатија и Неарија и Рефаја и Озило, синови
+        Јесејеви.
+      bulgarian: "А от тях, от Симеоновите синове, петстотин души отидоха към планина
+        Сеир; главатари им бяха: Фелатия, Неария, Рефаия и Узиил, синове на
+        Ишия;"
+      deutsch: "Auch gingen aus ihnen, aus den Kindern Simeons, fünfhundert Männer zu
+        dem Gebirge Seir mit ihren Obersten: Pelatja, Nearja, Rephaja und Usiel,
+        den Kindern Jeseis,"
+      ukr2: "Деякі з них, із синів Симеона, подались на Сеїр-гору - 500 чоловік. На
+        чолі в них були: Пелатія, Неарія, Рефая та Узієл, син Їші."
+      ukr3: А з поміж їх, із синів Симеонових, пішло 'д горі Сеїр пятьсот чоловіка, а
+        Фелатія, Неарія, Рефаїя, та Узіїл, Ішіїні сини, були на чолї в їх;
+      bel_syomukha: "А зь іх, з сыноў Сімяонавых, пайшлі да гары Сэір пяцьсот чалавек:
+        Фэлатыя, Нэарыя, Рэфая і Узііл, сыны Ішыя, былі на чале іх;"
+      lev-khv: Из них же, из сынов Симеоновых, пошли к горе Сеир пятьсот человек; и
+        Фелатия, и Неария, и Рефаия, и Узиил, сыновья Ишия, <i>были</i> во главе
+        их;
+      czech: Dale z nich, totiz ze Simeonovcu, odeslo pet set muzu do pohori Seiru; v
+        jejich cele byli Pelatjas, Nearjas, Refajas a Uziel, synove Jiseiho.
+      spanish: También quinientos de ellos, de los hijos de Simeón, se fueron al monte
+        de Seir, llevando por jefes a Pelatia, Nearias, Rofaías y Oziel, hijos
+        de Isi;
+      greek-lxx: καὶ ἐξ αὐτῶν ἀπὸ τῶν υἱῶν Συμεων ἐπορεύθησαν εἰς ὄρος Σηιρ ἄνδρες
+        πεντακόσιοι καὶ Φαλεττια καὶ Νωαδια καὶ Ραφαια καὶ Οζιηλ υἱοὶ Ιεσι
+        ἄρχοντες αὐτῶν
+      st_text: "Из них же, из сынов Симеоновых, пошли к горе Сеир пятьсот человек:
+        Фелатия, Неария, Рефаия и Узиил, сыновья Ишия, <i>были</i> во главе их;"
+  - id: 3357
+    number: 43
+    bookId: 13
+    text: и побили уцелевший там остаток Амаликитян, и живут там до сего дня.
+    chapter: 4
+    chapterId: 342
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и побиша останки оставшыяся от амалика, и вселишася тамо даже до дне сего.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 поби1ша њстaнки њстaвшыzсz t ґмали1ка, и3 всели1шасz тaмw дaже до
+        дне2 сегw2.
+      sovr_rbo: Они перебили последних уцелевших амалекитян и до сих пор живут там сами.
+      latin: et percusserunt reliquias, quae evadere potuerant, Amalecitarum, et
+        habitaverunt ibi pro eis usque ad diem hanc.
+      ukr: І вони побили останок урятованих Амалика, й осілися там аж до цього дня.
+      nkjv: And they defeated the rest of the Amalekites who had escaped. They have
+        dwelt there to this day.
+      desnitsky: ""
+      mt: ‫    וַיַּכּוּ אֶת־שְׁאֵרִית הַפְּלֵטָה לַעֲמָלֵק וַיֵּשְׁבוּ שָׁם עַד
+        הַיּוֹם הַזֶּה׃ ‬
+      romana: Si au batut ramasita de Amaleciti, ce se mai gasea acolo, si traiesc
+        acolo pana in ziua de astazi.
+      francais: Ils battirent le reste des réchappés d'Amalek, et ils s'établirent là
+        jusqu'à ce jour.
+      italian: Eliminarono i superstiti degli Amaleciti e si stabilirono là fino ad
+        oggi.
+      old_georgian: და მოსრნეს დაშთომილნი იგი ნეშტნი ამალეკისანი და დაემკჳდრნეს მუნ
+        ვიდრე აქა დღედმდე.
+      portuguese: e, matando o restante dos amalequitas, que havia escapado, ficaram
+        habitando ali até o dia de hoje.
+      polish: Rozbili oni ocalałą resztę Amalekitów i zamieszkali tam aż do dnia
+        dzisiejszego.
+      turkish: ""
+      nrt: перебили остаток уцелевших амаликитян и живут там поныне.
+      Macarius: И побили оставшийся там остаток Амаликитян, и жили там до сего дня.
+      serbian: И побише остатак што бијаху утекли између Амалика, и населише се ондје
+        до данашњега дана.
+      bulgarian: и избиха оцелелите останки от амаликитци, и живеят там доднес.
+      deutsch: und schlugen die übrigen Entronnenen der Amalekiter und wohnten
+        daselbst bis auf diesen Tag.
+      ukr2: Вони повбивали решту амалекитян, що були врятувались, і осілись там аж по
+        цей день.
+      ukr3: І повбивали оцїлївший там останок Амаликіїв, та й живуть там до сього
+        часу.
+      bel_syomukha: і пабілі ацалелую там рэшту Амалікіцян, і жывуць там да сёньня.
+      lev-khv: И побили оставшийся там остаток Амаликитян, и живут там до сего дня.
+      czech: Pobili pozustatek Amalekovcu, kteri kdysi vyvazli; tam sidli dodnes.
+      spanish: y derrotaron a las reliquias que habían quedado de Amalec, y habitaron
+        allí hasta hoy.
+      greek-lxx: καὶ ἐπάταξαν τοὺς καταλοίπους τοὺς καταλειφθέντας τοῦ Αμαληκ καὶ
+        κατῴκησαν ἐκεῖ ἕως τῆς ἡμέρας ταύτης
+      st_text: и побили уцелевший там остаток Амаликитян, и живут там до сего дня.

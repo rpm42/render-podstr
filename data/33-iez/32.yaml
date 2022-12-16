@@ -1,0 +1,2904 @@
+id: 961
+number: 32
+bookId: 33
+verseCount: 32
+title: Глава 32
+verses:
+  - id: 17293
+    number: 1
+    bookId: 33
+    text: "В двенадцатом году, в двенадцатом месяце, в первый [<i>день</i>] месяца,
+      было ко мне слово Господне:"
+    chapter: 32
+    chapterId: 961
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И бысть во второенадесять лето, во вторыйнадесять месяц, во един день
+        месяца,
+      averincev: ""
+      ungerov: В двенадцатый год, в двенадцатый месяц, в первый день месяца,
+      csya_old: И# бы1сть во второенaдесzть лёто, во вторыйнaдесzть мцcъ, во є3ди1нъ
+        де1нь мцcа,
+      sovr_rbo: "В двенадцатый год, в первый день двенадцатого месяца было мне слово
+        Господа:"
+      latin: "Et factum est, duodecimo anno, in mense duodecimo, in una mensis: factum
+        est verbum Domini ad me, dicens:"
+      ukr: "І сталося за дванадцятого року, дванадцятого місяця, третього дня місяця,
+        було мені слово Господнє таке:"
+      nkjv: And it came to pass in the twelfth year, in the twelfth month, on the
+        first day of the month, that the word of the Lord came to me, saying,
+      desnitsky: "В первый день двенадцатого месяца двенадцатого года было мне слово
+        ГОСПОДНЕ:"
+      mt: ‫   וַיְהִי בִּשְׁתֵּי עֶשְׂרֵה שָׁנָה בִּשְׁנֵי־עָשָׂר חֹדֶשׁ בְּאֶחָד
+        לַחֹדֶשׁ הָיָה דְבַר־יְהוָה אֵלַי לֵאמֹר׃ ‬
+      romana: "In anul al doisprezecelea de la robirea lui Ioiachim, in luna a
+        douasprezecea, in ziua intai a acestei luni, a fost catre mine cuvantul
+        Domnului si mi-a zis:"
+      francais: "La douzième année, le premier jour du douzième mois, la parole de
+        l'Éternel me fut adressée, en ces mots:"
+      italian: "Il primo giorno del dodicesimo mese dell'anno decimosecondo, mi fu
+        rivolta questa parola del Signore:"
+      old_georgian: "და იქმნა მეათორმეტესა წელსა, მეათორმეტესა შინა თთუესა, ერთსა
+        თთჳსასა, იქმნა სიტყუაჲ უფლისაჲ ჩემდამო მეტყუელი:"
+      portuguese: "Sucedeu que, no ano duodécimo, no mês duodécimo, ao primeiro do
+        mês, veio a mim a palavra do Senhor,\rdizendo:"
+      polish: "W roku jedenastym, miesiącu dwunastym, pierwszego dnia miesiąca,
+        Pan\rskierował do mnie te słowa:"
+      nrt: "В двенадцатом году, в первый день двенадцатого месяца было ко мне слово
+        Господа:"
+      Macarius: "В двенадцатом году, в двенадцатом месяце, в первый день месяца, было
+        слово Иеговы ко мне и сказано:"
+      serbian: "Опет дванаесте године, дванаестога мјесеца, првога дана, дође ми ријеч
+        Господња говорећи:"
+      bulgarian: "В дванайсетата година, дванайсетия месец, на първия ден от месеца,
+        биде към мене слово Господне:"
+      Olesn: "Это было в двенадцатом году в двенадцатый месяц в первое число месяца.
+        Было слово Иеговы ко мне такое:"
+      deutsch: "Und es begab sich im zwölften Jahr, am ersten Tage des zwölften
+        Monats, geschah des Herrn Wort zu mir und sprach:"
+      ukr2: "Дванадцятого року, дванадцятого місяця, першого дня місяця надійшло до
+        мене таке слово Господнє:"
+      ukr3: "В дванайцятому роцї, в одинайцятому місяцї, первого дня в місяцї,
+        надійшло до мене слово Господнє:"
+      bel_syomukha: "У дванаццатым годзе, у дванаццатым месяцы, у першы дзень месяца,
+        было мне слова Гасподняе:"
+      czech: "Dvanacteho roku ve dvanactem mesici, prvniho dne toho mesice, stalo se
+        ke mne slovo Hospodinovo:"
+      spanish: "El año duodécimo, el duodécimo mes, el día primero del mes, me fue
+        dirigida la palabra de Yavé, diciendo:"
+      greek-lxx: καὶ ἐγένετο ἐν τῷ ἑνδεκάτῳ ἔτει ἐν τῷ δωδεκάτῳ μηνὶ μιᾷ τοῦ μηνὸς
+        ἐγένετο λόγος Κυρίου πρός με λέγων
+      st_text: "В двенадцатом году, в двенадцатом месяце, в первый [<i>день</i>]
+        месяца, было ко мне слово Господне:"
+  - id: 17294
+    number: 2
+    bookId: 33
+    text: "сын человеческий! подними плач о фараоне, царе Египетском, и скажи ему:
+      ты как молодой лев между народами и как чудовище в морях, кидаешься в
+      реках твоих, и мутишь ногами твоими воды, и попираешь потоки их."
+    chapter: 32
+    chapterId: 961
+    parallels:
+      - verseId: 9377
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 9
+        short: 4 Цар:9:17
+      - verseId: 20880
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 5
+        short: Ис:5:29
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "бысть слово Господне ко мне глаголя: сыне человечь, возми плачь на
+        фараона царя египетска и речеши ему: льву языков уподобился еси ты, и
+        яко змий великий, иже в мори, и бил еси рогами в реках твоих, и возмущал
+        еси воду ногама твоима, и попирал еси реки твоя."
+      averincev: ""
+      ungerov: "Было слово Господне ко мне и сказано: сын человеческий! подними плач о
+        фараоне, царе Египетском, и скажи ему: льву (среди) народов подобен ты
+        и, как великий змей в море, бодался рогами в реках своих, и возмущал
+        воду ногами своими, и попирал реки свои."
+      csya_old: "бы1сть сло1во гDне ко мнЁ гlz: сы1не человёчь, возми2 плaчь на
+        фараHна царS є3гv1петска и3 рече1ши є3мY: львY kзы1кwвъ ўподо1билсz
+        є3си2 ты2, и3 ћкw ѕмjй вели1кій, и4же въ мо1ри, и3 би1лъ є3си2 рогaми въ
+        рэкaхъ твои1хъ, и3 возмущaлъ є3си2 во1ду ногaма твои1ма, и3 попирaлъ
+        є3си2 рёки тво‰."
+      sovr_rbo: "«Человек! Оплачь фараона, царя Египта, скажи ему: „Ты считал себя
+        львом среди народов, ты, подобный чудищу морскому! Вспенивал Ты реки
+        свои, ногами бил по воде, мутил потоки."
+      latin: "Fili hominis, assume lamentum super Pharaonem regem Aegypti, et dices ad
+        eum: Leoni gentium assimilatus es, et draconi qui est in mari, et
+        ventilabas cornu in fluminibus tuis, et conturbabas aquas pedibus tuis,
+        et conculcabas flumina earum."
+      ukr: "Сину людський, здійми пісню жалобную на фараона, єгипетського царя, та й
+        скажеш йому: Левчукові з народів подібний ти був, а тепер ти мов морська
+        потвора, виприскуєш воду по ріках своїх, і скаламучуєш воду ногами
+        своїми, болотиш ти їхні річки!"
+      nkjv: "\"Son of man, take up a lamentation for Pharaoh king of Egypt, and say to
+        him: 'You are like a young lion among the nations, And you are like a
+        monster in the seas, Bursting forth in your rivers, Troubling the waters
+        with your feet, And fouling their rivers.' "
+      desnitsky: "«Сын человеческий, подними плач о фараоне, царе египетском, и скажи
+        ему: среди народов ты подобен молодому льву, ты похож на чудище морское:
+        вздымаешь воды речные, ногами взбиваешь пену, в реках баламутишь воду!"
+      mt: ‫   בֶּן־אָדָם שָׂא קִינָה עַל־פַּרְעֹה מֶלֶךְ־מִצְרַיִם וְאָמַרְתָּ אֵלָיו
+        כְּפִיר גּוֹיִם נִדְמֵיתָ וְאַתָּה כַּתַּנִּים בַּיַּמִּים וַתָּגַח
+        בְּנַהֲרוֹתֶיךָ וַתִּדְלַח־מַיִם בְּרַגְלֶיךָ וַתִּרְפֹּס נַהֲרוֹתָם׃ ‬
+      romana: '"Fiul omului, ridica plangere asupra lui Faraon, regele Egiptului, si
+        spune-i: Leu al neamurilor, iata-te nimicit. Tu erai ca un crocodil in
+        ape, tu suflai din narile tale, tu tulburai apele cu picioarele tale si
+        intaratai valurile lor.'
+      francais: "Fils de l'homme, Prononce une complainte sur Pharaon, roi d'Égypte!
+        Tu lui diras: Tu ressemblais à un lionceau parmi les nations; Tu étais
+        comme un crocodile dans les mers, Tu t'élançais dans tes fleuves, Tu
+        troublais les eaux avec tes pieds, Tu agitais leurs flots."
+      italian: "\"Figlio dell'uomo, intona un lamento sul faraone re d'Egitto dicendo:
+        Leone fra le genti eri considerato; ma eri come un coccodrillo nelle
+        acque, erompevi nei tuoi fiumi e agitavi le acque con le tue zampe,
+        intorbidandone i corsi\"."
+      old_georgian: "ძეო კაცისაო, აღიღე გოდება მეფობასა ზედა ფარაო ეგჳპტისაჲსასა და
+        ჰრქუა მას: ლომსა წარმართთასა ემსგავსე შენ; და ვითარცა ვეშაპი ზღჳსშინაჲ,
+        და ურქენდი მდინარეთა შორის შენთა და აღამარღჳე წყალი ფერჴებითა შენითა და
+        დასთრგუნევდ მდინარეთა შენთა."
+      portuguese: "Filho do homem, faze uma lamentação sobre Faraó, rei do Egito, e
+        dize-lhe: Foste assemelhado a um leão novo\rentre as nações; contudo tu
+        és como um dragão nos mares; pulavas nos teus rios e os sujavas,
+        turvando com os\rpés as suas águas."
+      polish: "”Synu człowieczy, podnieś lament nad faraonem, królem egipskim, i
+        powiedz\rmu: Młody lwie wśród narodów, skończyłeś się, a byłeś jak
+        krokodyl w morzu, prychałeś swymi nozdrzami, mąciłeś wodę swymi łapami i
+        wzburzałeś\rjego fale."
+      nrt: "– Сын человеческий, подними плач о фараоне, царе Египта, и скажи ему: Ты
+        мнишь себя львом меж народами, а похож на морское чудовище, – ты
+        мечешься в реках, лапами мутишь воду, и реки поганишь."
+      Macarius: "Сын человеческий! произнеси плачевную песнь о Фараоне, царе
+        египетском, и скажи ему: ты подобен юному льву народов, и ты, как
+        крокодил в морях, резвишься в реках своих, и мутишь ногами своими воду,
+        и попираешь реки их."
+      serbian: "Сине човјечји, наричи за Фараоном, царем Мисирским, и реци му: Ти си
+        као лавић међу народима и  као змај у мору, и пролазиш ријеке своје и
+        мутиш воду ногама својим и газиш по ријекама њезинијем."
+      bulgarian: "сине човешки! викни, та заплачи за фараона, египетски цар, и му
+        кажи: ти като млад лъв между народите и като чудовище в моретата се
+        хвърляш в реките си и мътиш с нозете си водите, и газиш потоците им."
+      Olesn: "Сын человеческий!\rВознеси печальную песнь о Фараоне,\rЦаре египетском и
+        скажи ему:\rМолодому льву между народами ты подобен.\rТы, как дракон в
+        морях,\rКидаешься в реках своих,\rВозмущаешь воду ногами своими И
+        попираешь реки их."
+      deutsch: "Du Menschenkind, mache eine Wehklage über Pharao, den König von
+        Ägypten, und sprich zu ihm: Du bist gleich wie ein Löwe unter den Heiden
+        und wie ein Meerdrache und springst in deinen Strömen und rührst das
+        Wasser auf mit deinen Füßen und machst seine Ströme trüb."
+      ukr2: "«Сину чоловічий! Заголоси жалобну пісню над фараоном, єгипетським царем.
+        Промов до нього: Леве між народами! Ти був неначе крокодил у воді;
+        кипів-бурлив у твоїх ріках, ногами каламутив воду, бовтав хвилі."
+      ukr3: "Сину чоловічий! заголоси над Фараоном, царем Египецьким, і промов до
+        його: Ти, наче левчук між народами, й мов кит у морі, кидаєшся в ріцї
+        твоїй, каламутиш води ногами, й бовтаєш потоки їх."
+      bel_syomukha: "сыне чалавечы! узьнясі плач па фараоне, цары Егіпецкім, і скажы
+        яму: ты, як малады леў сярод народаў і як пачварына ў морах, кідаешся ў
+        рэках тваіх і каламуціш нагамі тваімі воды, і топчаш патокі іх."
+      czech: '"Lidsky synu, zacni zalozpev nad faraonem, kralem egyptskym. Zapej o
+        nem: K mlademu lvu mezi pronarody jsi byl prirovnan, byl jsi jako drak v
+        morich, prodiral ses svymi proudy, nohama jsi kalil vodu a ceril jeji
+        proudy."'
+      spanish: "Hijo de hombre, canta una elegía al faraón, rey de Egipto, y di: Eras
+        como el león de las gentes, eras como el cocodrilo de los mares; con tus
+        narices hacías hervir las aguas y las enturbiabas con tus patas, y
+        hollabas canales."
+      greek-lxx: υἱὲ ἀνθρώπου λαβὲ θρῆνον ἐπὶ Φαραω βασιλέα Αἰγύπτου καὶ ἐρεῖς αὐτῷ
+        λέοντι ἐθνῶν ὡμοιώθης καὶ σὺ ὡς δράκων ὁ ἐν τῇ θαλάσσῃ καὶ ἐκεράτιζες
+        τοῖς ποταμοῖς σου καὶ ἐτάρασσες ὕδωρ τοῖς ποσίν σου καὶ κατεπάτεις τοὺς
+        ποταμούς σου
+      st_text: "сын человеческий! подними плач о фараоне, царе Египетском, и скажи
+        ему: ты как молодой лев между народами и как чудовище в морях, кидаешься
+        в реках твоих, и мутишь ногами твоими воды, и попираешь потоки их."
+  - id: 17295
+    number: 3
+    bookId: 33
+    text: "Так говорит Господь Бог: Я закину на тебя сеть Мою в собрании многих
+      народов, и они вытащат тебя Моею мрежею."
+    chapter: 32
+    chapterId: 961
+    parallels:
+      - verseId: 16700
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 12
+        short: Иез:12:13
+      - verseId: 16852
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 17
+        short: Иез:17:20
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Сия глаголет адонаи Господь: и возложу на тя сети моя в собрании людий
+        многих,"
+      averincev: ""
+      ungerov: "Так говорит Господь Бог: Я закину на тебя сети Мои в собрании многих
+        народов."
+      csya_old: "Сі‰ гlетъ ґдwнаі2 гDь: и3 возложY на тS сBти мо‰ въ собрaніи людjй
+        мно1гихъ,"
+      sovr_rbo: "Так говорит Господь Бог: Я накрою тебя Моей сетью: соберутся
+        многочисленные народы и вытащат тебя Моим неводом."
+      latin: "Propterea haec dicit Dominus Deus: Expandam super te rete meum in
+        multitudine populorum multorum, et extraham te in sagena mea."
+      ukr: "Отак Господь Бог промовляє: Але сітку Свою розтягну Я на тебе через збори
+        численних народів, і тебе Своїм неводом витягну!"
+      nkjv: "\"Thus says the Lord God: 'I will therefore spread My net over you with a
+        company of many people, And they will draw you up in My net. "
+      desnitsky: "Так говорит Владыка ГОСПОДЬ: раскину над тобой Свою сеть вместе со
+        множеством народов, вытащат они тебя Моим неводом,"
+      mt: ‫   כֹּה אָמַר אֲדֹנָי יְהוִה וּפָרַשְׂתִּי עָלֶיךָ אֶת־רִשְׁתִּי בִּקְהַל
+        עַמִּים רַבִּים וְהֶעֱלוּךָ בְּחֶרְמִי׃ ‬
+      romana: "Asa zice Domnul Dumnezeu: Cu putere voi arunca asupra ta mreaja Mea in
+        adunarea a multor popoare si ele te vor tari afara cu mreaja Mea."
+      francais: "Ainsi parle le Seigneur, l'Éternel: J'étendrai sur toi mon rets, Dans
+        une foule nombreuse de peuples, Et ils te tireront dans mon filet."
+      italian: 'Dice il Signore Dio: "Tenderò contro di te la mia rete con una grande
+        assemblea di popoli e ti tireranno su con la mia rete.'
+      old_georgian: "ამას იტყჳს ადონაი უფალი: და გარემოვასხნე შენ ზედა ბადენი ჩემნი
+        შესაკრებელსა ერთა მრავალთასა და აღმოგიღო შენ სამჭედურითა ჩემითა"
+      portuguese: "Assim diz o Senhor Deus: Estenderei sobre ti a minha rede por meio
+        duma companhia de muitos povos, e eles te\ralçarão na minha rede."
+      polish: "Tak mówi Pan Bóg: Rozciągnę moje sidła nad tobą w zgromadzeniu
+        wielu\rnarodów i wyciągnę cię moją siecią."
+      nrt: "Так говорит Владыка Господь: – Среди множества народов Я закину на тебя
+        сеть, и они тебя неводом вытащат."
+      Macarius: "Так говорит Господь Иегова: Я закину на тебя сеть Мою, в собрании
+        многочисленных народов, и они вытащат тебя Моею мрежею."
+      serbian: "Овако вели Господ Господ: Разапећу ти мрежу своју са збором многих
+        народа, и извући ће те у мојој мрежи."
+      bulgarian: "Тъй казва Господ Бог: Аз ще хвърля върху тебе Моята мрежа в
+        събранието на много народи, и те ще те извлекат с Моята мрежа."
+      Olesn: "Так говорит Господь Иегова:\rЯ раскину на тебя сеть Мою\rВ собрании
+        народов великих,\rЧтобы они вытащили тебя сетью Моею."
+      deutsch: "So spricht der Herr: Ich will mein Netz über dich auswerfen durch
+        einen großen Haufen Volks, die dich sollen in mein Garn jagen;"
+      ukr2: "Так говорить Господь Бог: Я закину на тебе мою сіть посеред багатьох
+        народів, і вони витягнуть тебе моїм неводом."
+      ukr3: "От же що говорить Господь Бог: Я закину на тебе сїть мою руками многих
+        народів, і витягнуть вони тебе моїм неводом."
+      bel_syomukha: "Так кажа Гасподзь Бог: Я закіну на цябе сетку Маю на сходзе
+        многіх народаў, і яны выцягнуць цябе Маёю мярэжаю."
+      czech: 'Toto pravi Panovnik Hospodin: "Rozestru na tebe svou sit spolecenstvim
+        cetnych narodu a vytahnou te mym nevodem.'
+      spanish: "Así dice el Señor, Yavé: Yo te tenderé la red con una turba de pueblos
+        que te subirán en mi esparavel,"
+      greek-lxx: τάδε λέγει Κύριος καὶ περιβαλῶ ἐπὶ σὲ δίκτυα λαῶν πολλῶν καὶ ἀνάξω σε
+        ἐν τῷ ἀγκίστρῳ μου
+      st_text: "Так говорит Господь Бог: Я закину на тебя сеть Мою в собрании многих
+        народов, и они вытащат тебя Моею мрежею."
+  - id: 17296
+    number: 4
+    bookId: 33
+    text: И выкину тебя на землю, на открытом поле брошу тебя, и будут садиться на
+      тебя всякие небесные птицы, и насыщаться тобою звери всей земли.
+    chapter: 32
+    chapterId: 961
+    parallels:
+      - verseId: 17205
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 29
+        short: Иез:29:5
+      - verseId: 17496
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 39
+        short: Иез:39:4
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и изведу тя удою моею, и простру тя на земли: поля наполнятся тебе, и
+        посажду на тебе вся птицы небесныя, и насыщу тобою вся звери всея
+        земли:"
+      averincev: ""
+      ungerov: "И извлеку тебя удою Моею, и выброшу тебя на землю: поля наполнены
+        будут тобою, и посажу на тебя всех птиц небесных, и накормлю тобою всех
+        зверей всей земли."
+      csya_old: "и3 и3зведy тz ќдою мое1ю, и3 прострy тz на земли2: полS напо1лнzтсz
+        тебє2, и3 посаждY на тебЁ вс‰ пти6цы небє1сныz, и3 насы1щу тобо1ю вс‰
+        ѕвBри всеS земли2:"
+      sovr_rbo: Я вышвырну тебя на землю, на открытом поле брошу, чтобы птицы небесные
+        на тебя садились, чтобы дикие звери тебя пожирали.
+      latin: "Et projiciam te in terram; super faciem agri abjiciam te: et habitare
+        faciam super te omnia volatilia caeli, et saturabo de te bestias
+        universae terrae."
+      ukr: І викину зразу на землю тебе, і кину тебе Я на поле широке, і над тобою
+        спочине всяке птаство небесне, і тобою насичу звірину всієї землі...
+      nkjv: Then I will leave you on the land; I will cast you out on the open fields,
+        And cause to settle on you all the birds of the heavens. And with you I
+        will fill the beasts of the whole earth.
+      desnitsky: и швырну тебя на сушу, прямо в поле – брошу тебя, и поселю на тебе
+        птиц небесных, насыщу тобой зверей со всей земли!
+      mt: ‫   וּנְטַשְׁתִּיךָ בָאָרֶץ עַל־פְּנֵי הַשָּׂדֶה אֲטִילֶךָ וְהִשְׁכַּנְתִּי
+        עָלֶיךָ כָּל־עוֹף הַשָּׁמַיִם וְהִשְׂבַּעְתִּי מִמְּךָ חַיַּת
+        כָּל־הָאָרֶץ׃ ‬
+      romana: Te voi arunca pe uscat, in camp deschis te voi arunca si se vor aseza pe
+        tine toate pasarile cerului si se vor satura cu tine toate fiarele
+        pamantului.
+      francais: Je te laisserai à terre, Je te jetterai sur la face des champs; Je
+        ferai reposer sur toi tous les oiseaux du ciel, Et je rassasierai de toi
+        les bêtes de toute la terre.
+      italian: Ti getterò sulla terraferma e ti abbandonerò al suolo. Farò posare su
+        di te tutti gli uccelli del cielo e sazierò di te tutte le bestie della
+        terra.
+      old_georgian: და განგართხა შენ ქუეყანასა ზედა, პირსა ზედა ველისასა დაგამჴუა შენ,
+        ველნი განძღენ შენგან. და დაგასხნე შენ ზედა ყოველნი მფრინველნი ცისანი და
+        განვაძღნე შენგან ყოველნი მჴეცნი ყოვლისა ქუეყანისანი.
+      portuguese: "Então te deixarei em terra; sobre a face do campo te lançarei, e
+        farei pousar sobre ti todas as aves do céu, e\rfartarei de ti os animais
+        de toda a terra."
+      polish: Rzucę cię na ląd i cisnę na powierzchnię pól, i sprawię, że na tobie
+        zamieszkają wszystkie ptaki powietrzne, a każdy zwierz dziki tobą się
+        nasyci.
+      nrt: Я брошу тебя на землю, повергну в открытом поле. Птицы рассядутся на тебе,
+        наестся тобой зверье.
+      Macarius: И положу тебя на земле, на открытом поле брошу тебя, и обселю тебя
+        всякими небесными птицами, и накормлю тобою зверей всей земли.
+      serbian: И оставићу те на земљи, и бацићу те у поље, и пустићу све птице небеске
+        да сједају на те, и наситићу тобом звијери са све земље.
+      bulgarian: И ще те изхвърля на земята, на открито поле ще те хвърля, и ще кацат
+        по тебе всякакви небесни птици, и ще се насищат от тебе зверовете на
+        цяла земя.
+      Olesn: "Я брошу тебя на суше,\rНа поверхности поля покину тебя."
+      deutsch: und will dich aufs Land ziehen und aufs Feld werfen, daß alle Vögel des
+        Himmels auf dir sitzen sollen und alle Tiere auf Erden von dir satt
+        werden.
+      ukr2: Я викину тебе на суху землю, кину тебе на чисте поле; я наведу на тебе
+        усяке птаство піднебесне, і насичу тобою звірів усього краю.
+      ukr3: І викину тебе на суху землю, на відкрите поле кину тебе, й сїдати ме на
+        тебе піднебесне птаство й зьвіррє всієї країни буде живитись трупом
+        твоїм.
+      bel_syomukha: І выкіну цябе на зямлю, у чыстым полі кіну цябе, і будуць садзіцца
+        на цябе ўсякія нябесныя птушкі і насычацца табою зьвяры ўсёй зямлі.
+      czech: Vyvrhnu te na zem, pohodim te na povrch pole, usadim na tobe kdejake
+        nebeske ptactvo, nasytim tebou zver cele zeme.
+      spanish: y te echaré en tierra seca, y te dejaré en medio del campo. Haré venir
+        sobre ti todas las aves del cielo y saciaré de ti a todas las bestias de
+        la tierra.
+      greek-lxx: καὶ ἐκτενῶ σε ἐπὶ τὴν γῆν πεδία πλησθήσεταί σου καὶ ἐπικαθιῶ ἐπὶ σὲ
+        πάντα τὰ πετεινὰ τοῦ οὐρανοῦ καὶ ἐμπλήσω ἐκ σοῦ πάντα τὰ θηρία πάσης τῆς
+        γῆς
+      st_text: И выкину тебя на землю, на открытом поле брошу тебя, и будут садиться
+        на тебя всякие небесные птицы, и насыщаться тобою звери всей земли.
+  - id: 17297
+    number: 5
+    bookId: 33
+    text: И раскидаю мясо твое по горам, и долины наполню твоими трупами.
+    chapter: 32
+    chapterId: 961
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и повергу плоти твоя на горах, и наполню кровию твоею всю землю,
+      averincev: ""
+      ungerov: И раскидаю мясо твое на горах и наполню кровию твоею всю землю.
+      csya_old: и3 пове1ргу плHти тво‰ на горaхъ, и3 напо1лню кро1вію твое1ю всю2 зе1млю,
+      sovr_rbo: Твою плоть Я по горам разбросаю, останками твоими наполню долины!
+      latin: Et dabo carnes tuas super montes, et implebo colles tuos sanie tua.
+      ukr: І дам твоє м'ясо на гори, а трупом твоїм Я долини наповню...
+      nkjv: I will lay your flesh on the mountains, And fill the valleys with your
+        carcass.
+      desnitsky: Мясо твое раскидаю по горам, былой твоей статью наполню равнины.
+      mt: ‫   וְנָתַתִּי אֶת־בְּשָׂרְךָ עַל־הֶהָרִים וּמִלֵּאתִי הַגֵּאָיוֹת
+        רָמוּתֶךָ׃ ‬
+      romana: Voi imparti carnurile tale pe munti si vaile le voi umple cu starvul tau.
+      francais: Je mettrai ta chair sur les montagnes, Et je remplirai les vallées de
+        tes débris;
+      italian: Spargerò per i monti la tua carne e riempirò le valli della tua carogna.
+      old_georgian: და მივსცნე ჴორცნი შენნი მთათა ზედა და აღვავსო სისხლისაგან შენისა
+        ყოველი ქუეყანაჲ.
+      portuguese: E porei as tuas carnes sobre os montes, e encherei os vales da tua
+        altura.
+      polish: Ciało twe rozrzucę po górach i wypełnię doliny twoją padliną.
+      nrt: Я размечу твою плоть по горам, наполню долины твоими останками.
+      Macarius: И раскидаю мясо твое по горам, и долины наполню твоею падалью.
+      serbian: И разметнућу месо твоје по горама и напунићу долине гомилама од тебе.
+      bulgarian: И ще разхвърлям месата ти по планини, и долини ще напълня с твоите
+        трупове.
+      Olesn: "Я поселю на тебе всех птиц небесных И накормлю тобою зверей всей земли.
+        \rЯ оставлю мясо твое на горах И наполню долины гнилью твоею."
+      deutsch: Und will dein Aas auf die Berge werfen und mit deiner Höhe die Täler
+        ausfüllen.
+      ukr2: Порозкидаю по горах м'ясо з тебе, яри наповню твоїм стервом.
+      ukr3: І розкидаю мясо з тебе по горах, і яри позаповнюю твоїми трупами.
+      bel_syomukha: І раскідаю мяса тваё па горах, і даліны напоўню тваімі трупамі.
+      czech: Rozhazim tve telo po horach, hromadami tveho masa naplnim udoli.
+      spanish: Esparciré tus carnes por los montes y llenaré de tu carroña los valles.
+      greek-lxx: καὶ δώσω τὰς σάρκας σου ἐπὶ τὰ ὄρη καὶ ἐμπλήσω ἀπὸ τοῦ αἵματός σου
+      st_text: И раскидаю мясо твое по горам, и долины наполню твоими трупами.
+  - id: 17298
+    number: 6
+    bookId: 33
+    text: И землю плавания твоего напою кровью твоею до самых гор; и рытвины будут
+      наполнены тобою.
+    chapter: 32
+    chapterId: 961
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и напиется земля от гноя твоего, от множества твоего на горах: и дебри
+        наполню от тебе,"
+      averincev: ""
+      ungerov: И насытится земля гноем твоим и множества твоего на горах, и долины
+        наполню тобою.
+      csya_old: "и3 напіе1тсz землS t гно1z твоегw2, t мно1жества твоегw2 на горaхъ:
+        и3 дє1бри напо1лню t тебє2,"
+      sovr_rbo: Я напою землю потоками твоей крови, и горы, и лощины наполнятся ею.
+      latin: Et irrigabo terram foetore sanguinis tui super montes, et valles
+        implebuntur ex te.
+      ukr: І землю, де пливаєш ти, аж до гір напою її кров'ю твоєю, тобою наповняться
+        річища...
+      nkjv: "'I will also water the land with the flow of your blood, Even to the
+        mountains; And the riverbeds will be full of you. "
+      desnitsky: Землю напою потоками твоей крови до самых гор, все овраги ей наполню.
+      mt: ‫   וְהִשְׁקֵיתִי אֶרֶץ צָפָתְךָ מִדָּמְךָ אֶל־הֶהָרִים וַאֲפִקִים
+        יִמָּלְאוּן מִמֶּךָּ׃ ‬
+      romana: tara in care inoti tu o voi umple cu sangele tau pana in munti si
+        vagaunile lor vor fi umplute cu tine.
+      francais: J'arroserai de ton sang le pays où tu nages, Jusqu'aux montagnes, Et
+        les ravins seront remplis de toi.
+      italian: Farò bere alla terra il tuo scolo, il tuo sangue, fino ai monti, e i
+        burroni saranno pieni di te.
+      old_georgian: და მოირწყოს ქუეყანაჲ წუთხთაგან შენთა სიმრავლისაგან შენისა მთათა
+        ზედა; და ჴევნებნი აღივსნეს შენგან.
+      portuguese: Também com o teu sangue regarei a terra onde nadas, até os montes; e
+        as correntes se encherão de ti.
+      polish: Ziemię twego wylewu napoję twoją krwią aż do gór i napełnią się tobą
+        wąwozy.
+      nrt: Землю, до самых гор, орошу Я потоками твоей крови, и наполнятся плотью
+        твоей ущелья.
+      Macarius: И землю, где ты плаваешь, напою кровью твоею до самых гор, и лощины
+        тобой будут наполнены.
+      serbian: И земљу гдје пливаш напојићу крвљу твојом до врх гора, и потоци ће бити
+        пуни тебе.
+      bulgarian: И земята, дето плуваш, ще напоя с твоята кръв до самите планини; и
+        ровините (от потоци) ще бъдат напълнени с тебе.
+      Olesn: "Я напою землю гноем твоим \rКровью твоею, даже до гор.\rИ пропасти
+        наполнятся тобою."
+      deutsch: Das Land, darin du schwimmst, will ich von deinem Blut rot machen bis
+        an die Berge hinan, daß die Bäche von dir voll werden.
+      ukr2: Я зрошу землю твоїм спливом, твоєю кров'ю аж до гір, і байраки наповняться
+        тобою.
+      ukr3: Де ти плавав колись, - тую землю наповню я кровю з тебе аж до гір; вона
+        залиє й байраки.
+      bel_syomukha: "І зямлю плаваньня твайго напаю крывёю тваёю да самых гор: і
+        калдобіны будуць напоўнены табою."
+      czech: Proudem tve krve napojim zemi az k horam, reciste se naplni krvi z tebe.
+      spanish: Regaré con tu sangre la tierra sobre los montes y de ella se llenarán
+        los torrentes.
+      greek-lxx: καὶ ποτισθήσεται ἡ γῆ ἀπὸ τῶν προχωρημάτων σου ἀπὸ τοῦ πλήθους σου
+        ἐπὶ τῶν ὀρέων φάραγγας ἐμπλήσω ἀπὸ σοῦ
+      st_text: И землю плавания твоего напою кровью твоею до самых гор; и рытвины
+        будут наполнены тобою.
+  - id: 17299
+    number: 7
+    bookId: 33
+    text: И когда ты угаснешь, закрою небеса и звезды их помрачу, солнце закрою
+      облаком, и луна не будет светить светом своим.
+    chapter: 32
+    chapterId: 961
+    parallels:
+      - verseId: 20052
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 13
+        short: Ис:13:10
+      - verseId: 21006
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 58
+        short: Ис:58:1
+      - verseId: 17238
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 3
+        short: Иез:3:17
+      - verseId: 18794
+        bookId: 36
+        bookCode: kniga-proroka-ioila
+        chapter: 2
+        short: Иоил:2:10
+      - verseId: 25605
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 24
+        short: Мф:24:29
+      - verseId: 24402
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 21
+        short: Лк:21:25
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и покрыю небо, егда угаснеши, и помрачу звезды его, солнце во облаце
+        сокрыю, и луна не явит света своего:"
+      averincev: ""
+      ungerov: И покрою небо, когда ты угаснешь, и помрачу звезды его, солнце облаком
+        закрою, и луна не покажет своего света.
+      csya_old: "и3 покры1ю не1бо, є3гдA ўгaснеши, и3 помрачY ѕвёзды є3гw2, со1лнце во
+        њ1блацэ сокры1ю, и3 лунA не kви1тъ свёта своегw2:"
+      sovr_rbo: Ты угаснешь — и Я скрою небо, звезды спрячу во мраке, солнце покрою
+        мглою, и луна светить перестанет.
+      latin: "Et operiam, cum extinctus fueris, caelum, et nigrescere faciam stellas
+        ejus: solem nube tegam, et luna non dabit lumen suum."
+      ukr: А коли Я тебе погашу, то небо закрию, а зорі його позатемнюю, сонце хмарою
+        вкрию його, а місяць не буде світити свого світла...
+      nkjv: When I put out your light, I will cover the heavens, and make its stars
+        dark; I will cover the sun with a cloud, And the moon shall not give her
+        light.
+      desnitsky: Когда разделаюсь с тобой, помрачу небеса, звезды на них и солнце
+        закрою тучей, и луна не даст своего света.
+      mt: ‫   וְכִסֵּיתִי בְכַבּוֹתְךָ שָׁמַיִם וְהִקְדַּרְתִּי אֶת־כֹּכְבֵיהֶם
+        שֶׁמֶשׁ בֶּעָנָן אֲכַסֶּנּוּ וְיָרֵחַ לֹא־יָאִיר אוֹרוֹ׃ ‬
+      romana: Cand te vei stinge, voi acoperi cerurile si stelele lor le voi intuneca;
+        soarele il voi acoperi cu nor si luna nu va mai lumina cu lumina sa.
+      francais: Quand je t'éteindrai, je voilerai les cieux Et j'obscurcirai leurs
+        étoiles, Je couvrirai le soleil de nuages, Et la lune ne donnera plus sa
+        lumière.
+      italian: Quando cadrai estinto, coprirò il cielo e oscurerò le sue stelle,
+        velerò il sole di nubi e la luna non brillerà.
+      old_georgian: და დავფარო ცაჲ დაშრეტასა შინა შენსა და დავაბნელნე ვარსკულავნი
+        მისნი, მზე ღრუბლისა მიერ დავფარო და მთოვარემან არა აჩუენოს ნათელი თჳსი.
+      portuguese: "E, apagando-te eu, cobrirei o céu, e enegrecerei as suas estrelas;
+        ao sol encobrirei com uma nuvem, e a lua não\rdará a sua luz."
+      polish: Gdy gasnąć będziesz, zasłonię niebiosa i zaciemnię ich gwiazdy. Słońce
+        zakryję chmurami, a księżyc nie da swego blasku.
+      nrt: Тебя угасив, Я небеса закрою и погашу в них звезды; Я закрою облаком
+        солнце, и не будет светить луна.
+      Macarius: И когда угашу тебя, небеса закрою, и звезды их помрачу, солнце закрою
+        облаком, и луна не будет светить светом своим.
+      serbian: И кад те угасим, застријећу небо, и звијезде на њему помрачити, сунце
+        ћу заклонити облаком, и мјесец неће свијетлити свјетлошћу својом.
+      bulgarian: И кога угаснеш, ще закрия небесата и звездите им ще помрача, слънцето
+        с облак ще закрия, и месечината не ще свети със светлината си.
+      Olesn: "Я когда потускнешь ты, Я закрою небеса, \rОмрачу звезды их,\rСолнце
+        облаком закрою И луна не будет светить светом своим."
+      deutsch: Und wenn du nun ganz dahin bist, so will ich den Himmel verhüllen und
+        seine Sterne verfinstern und die Sonne mit Wolken überziehen, und der
+        Mond soll nicht scheinen.
+      ukr2: А як ти згаснеш, я закрию небо і затемню зорі. Сонце я хмарою закрию, і
+        місяць не буде світити своїм світлом.
+      ukr3: А як ти згаснеш, я небо закрию, й зорі затемню, сонце хмарою вкрию, й
+        місяць не буде сьвітити сьвітлом своїм.
+      bel_syomukha: І калі ты патухнеш, зачыню нябёсы і зоркі на іх зацьмлю, сонца
+        засланю хмараю, і месяц ня будзе сьвяціцца сьвятлом сваім.
+      czech: Az budes zhasinat, zakryji nebesa, zatemnim jejich hvezdy, slunce zakryji
+        oblakem a mesic nevyda svetlo.
+      spanish: Al apagar tu luz, velaré los cielos y oscureceré las estrellas. Cubriré
+        de nubes el sol, y la luna no resplandecerá.
+      greek-lxx: καὶ κατακαλύψω ἐν τῷ σβεσθῆναί σε οὐρανὸν καὶ συσκοτάσω τὰ ἄστρα
+        αὐτοῦ ἥλιον ἐν νεφέλῃ καλύψω καὶ σελήνη οὐ μὴ φάνῃ τὸ φῶς αὐτῆς
+      st_text: И когда ты угаснешь, закрою небеса и звезды их помрачу, солнце закрою
+        облаком, и луна не будет светить светом своим.
+  - id: 17300
+    number: 8
+    bookId: 33
+    text: Все светила, светящиеся на небе, помрачу над тобою и на землю твою наведу
+      тьму, говорит Господь Бог.
+    chapter: 32
+    chapterId: 961
+    parallels:
+      - verseId: 17081
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 24
+        short: Иез:24:8
+      - verseId: 13339
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 18
+        short: Деян:18:6
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: вся светила небесная помрачу на тя и дам тму на землю твою, глаголет
+        адонаи Господь.
+      averincev: ""
+      ungerov: Все светила небесныя помрачу над тобою, и наведу тьму на землю твою,
+        говорит Господь Бог.
+      csya_old: вс‰ свэти6ла небє1снаz помрачY на тS и3 дaмъ тмY на зе1млю твою2,
+        гlетъ ґдwнаі2 гDь.
+      sovr_rbo: Все светила небесные Я покрою мраком над тобою, землю твою погружу во
+        тьму, — говорит Господь Бог.
+      latin: "Omnia luminaria caeli moerere faciam super te: et dabo tenebras super
+        terram tuam, dicit Dominus Deus, cum ceciderint vulnerati tui in medio
+        terrae, ait Dominus Deus."
+      ukr: Всі світила, що світять на небі, позатемнюю їх над тобою, і дам темноту
+        понад краєм твоїм, говорить Господь Бог!
+      nkjv: "All the bright lights of the heavens I will make dark over you, And bring
+        darkness upon your land,' Says the Lord God. "
+      desnitsky: Помрачу ради тебя небесные светила и тьму наведу на твою землю –
+        пророчество Владыки ГОСПОДА.
+      mt: ‫   כָּל־מְאוֹרֵי אוֹר בַּשָּׁמַיִם אַקְדִּירֵם עָלֶיךָ וְנָתַתִּי חֹשֶׁךְ
+        עַל־אַרְצְךָ נְאֻם אֲדֹנָי יְהוִה׃ ‬
+      romana: Toate stelele care lumineaza pe cer le voi intuneca deasupra ta si
+        asupra tarii tale voi aduce negura, zice Domnul Dumnezeu.
+      francais: J'obscurcirai à cause de toi tous les luminaires des cieux, Et je
+        répandrai les ténèbres sur ton pays, Dit le Seigneur, l'Éternel.
+      italian: Oscurerò tutti gli astri del cielo su di te e stenderò sulla tua terra
+        le tenebre. Parola del Signore Dio.
+      old_georgian: ყოველნი მნათობნი ცისანი დავაბნელნე შენ ზედა და მივსცე ბნელი
+        ქუეყანასა ზედა შენსა, - იტყჳს ადონაი უფალი.
+      portuguese: Todas as brilhantes luzes do céu, eu as enegrecerei sobre ti, e
+        trarei trevas sobre a tua terra, diz o Senhor Deus.
+      polish: Wszystkie ciała świecące na niebie ze względu na ciebie zaciemnię i
+        wprowadzę ciemność na twoją ziemię - wyrocznia Pana Boga.
+      nrt: Все светила, сияющие на небе, Я помрачу над тобой и мраком землю твою
+        покрою, – возвещает Владыка Господь. –
+      Macarius: Все светила, светящиеся на небе, помрачу по тебе, и на землю твою
+        положу тьму, говорит Господь Иегова.
+      serbian: Сва ћу свијетла видјела на небу помрачити за тобом, и пустићу таму на
+        твоју земљу, говори Господ Господ.
+      bulgarian: Всички светила, които светят на небето, ще помрача над тебе, и върху
+        твоята земя тъмнина ще напратя, казва Господ Бог.
+      Olesn: "Все светильники света в небесах... \r
+
+        Я помрачу их по тебе.\r
+
+        Я нашлю тьму на страну твою.\r
+
+        \ — Слово Господа Иеговы."
+      deutsch: Alle Lichter am Himmel will ich über dir lassen dunkel werden, und will
+        eine Finsternis in deinem Lande machen, spricht der Herr.
+      ukr2: Я затемню на небі всі світила з-за тебе, я наведу на землю пітьму, -слово
+        Господа Бога.
+      ukr3: Сьвітила всї на небі втоплю у мрацї, а земля твоя потоне в пітьмі,
+        говорить Господь.
+      bel_syomukha: Усе сьвяцілы, што сьвецяцца на нябёсах, запамрочу над табою і на
+        зямлю тваю навяду цемру, кажа Гасподзь Бог.
+      czech: Zatemnim nad tebou na nebi vsechna jasna svetla, na tvou zemi seslu tmu,
+        je vyrok Panovnika Hospodina.
+      spanish: Todos los astros que brillan en los cielos los vestiré de luto por ti,
+        y cubriré de tinieblas la tierra, dice el Señor, Yavé.
+      st_text: Все светила, светящиеся на небе, помрачу над тобою и на землю твою
+        наведу тьму, говорит Господь Бог.
+      new_text: ""
+      tex_rec: ""
+      peshitta: ""
+      turkish: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Filaret: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+      greek-lxx: πάντα τὰ φαίνοντα φῶς ἐν τῷ οὐρανῷ συσκοτάσουσιν ἐπὶ σέ καὶ δώσω
+        σκότος ἐπὶ τὴν γῆν σου λέγει Κύριος Κύριος
+  - id: 17301
+    number: 9
+    bookId: 33
+    text: Приведу в смущение сердце многих народов, когда разглашу о падении твоем
+      между народами, по землям, которых ты не знал.
+    chapter: 32
+    chapterId: 961
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И разгневаю сердца людий многих, егда изведу пленники твоя во языки, в
+        землю, еяже не знал еси.
+      averincev: ""
+      ungerov: И приведу в смущение сердца многих народов, когда уведу пленных твоих к
+        народам, в землю, которой ты не знал.
+      csya_old: И# разгнёваю сердцA людjй мно1гихъ, є3гдA и3зведY плённики тво‰ во
+        kзы1ки, въ зе1млю, є3sже не знaлъ є3си2.
+      sovr_rbo: Я наполню страхом сердца многочисленных народов, когда приведу остатки
+        твоих жителей в страны, о которых они и не знали.
+      latin: "Et irritabo cor populorum multorum: cum induxero contritionem tuam in
+        gentibus super terras quas nescis."
+      ukr: І занепокою Я серце численних народів, коли вість рознесу про руїну твою
+        між народами аж до країв, яких ти не знав.
+      nkjv: "'I will also trouble the hearts of many peoples, when I bring your
+        destruction among the nations, into the countries which you have not
+        known. "
+      desnitsky: Смутятся сердца многих народов, когда Я свершу твое падение посреди
+        племен в разных странах, которых ты даже не знал.
+      mt: ‫   וְהִכְעַסְתִּי לֵב עַמִּים רַבִּים בַּהֲבִיאִי שִׁבְרְךָ בַּגּוֹיִם
+        עַל־אֲרָצוֹת אֲשֶׁר לֹא־יְדַעְתָּם׃ ‬
+      romana: Voi umple de tulburare inima multor popoare, cand voi vesti caderea ta
+        la popoarele de prin tarile pe care tu nu le-ai cunoscut.
+      francais: J'affligerai le coeur de beaucoup de peuples, Quand j'annoncerai ta
+        ruine parmi les nations A des pays que tu ne connaissais pas.
+      italian: Sgomenterò il cuore di molti popoli, quando farò giungere la notizia
+        della tua rovina alle genti, in regioni a te sconosciute.
+      old_georgian: და განვარისხო გული ერთა მრავალთაჲ, ოდეს-იგი განვავლინო ტყუეობაჲ
+        შენი წარმართთა შორის ქუეყანად, რომელი არა უწყოდე.
+      portuguese: "E afligirei o coração de muitos povos, quando eu levar a efeito a
+        tua destruição entre as nações, até as terras que\rnão conheceste."
+      polish: "Zaniepokoję serce wielu narodów, gdy twoich jeńców zaprowadzę
+        pomiędzy\rnarody, do krajów, których nie znasz."
+      nrt: Я наполню тревогой сердца многих народов, когда приведу твою гибель меж
+        народами в страны тебе незнакомые.
+      Macarius: И наведу печаль на сердце многих народов, когда весть о падении твоем
+        понесу по народам, по землям, коих не знаешь.
+      serbian: И устрашићу срце многих народа кад објавим пропаст твоју међу народима,
+        по земљама којих не знаш.
+      bulgarian: Ще докарам в смущение сърцето на много народи, кога разглася за
+        твоето падане между народите по земите, които ти не познаваше.
+      Olesn: "Я опечалю сердце многих народов, \rКогда пронесу между язычниками
+        историю поражения твоего,\rПо землям, которых ты не знаешь."
+      deutsch: Dazu will ich vieler Völker Herz erschreckt machen, wenn ich die Heiden
+        deine Plage erfahren lasse und viele Länder, die du nicht kennst.
+      ukr2: Я засмучу серце багатьох народів, як рознесу чутку про твоє нещастя між
+        народами, по землях, яких ти не знаєш.
+      ukr3: Приведу в зворушеннє серця многих народів, коли рознесу чутку про твій
+        упад по тих землях, що ти й не знав їх.
+      bel_syomukha: Зьбянтэжу сэрца многіх народаў, калі агалашу пра падзеньне тваё
+        паміж народаў па землях, якіх ты ня ведаў.
+      czech: Srdce cetnych narodu naplnim horem, az uvedu tvou zkazu ve znamost mezi
+        pronarody, v zemich, ktere neznas.
+      spanish: Y llenaré de horror el corazón de muchos pueblos cuando lleve al
+        cautiverio a los tuyos, a tierras que no conocen.
+      greek-lxx: καὶ παροργιῶ καρδίαν λαῶν πολλῶν ἡνίκα ἂν ἄγω αἰχμαλωσίαν σου εἰς τὰ
+        ἔθνη εἰς γῆν ἣν οὐκ ἔγνως
+      st_text: Приведу в смущение сердце многих народов, когда разглашу о падении
+        твоем между народами, по землям, которых ты не знал.
+  - id: 17302
+    number: 10
+    bookId: 33
+    text: И приведу тобою в ужас многие народы, и цари их содрогнутся о тебе в
+      страхе, когда мечом Моим потрясу перед лицем их, и поминутно будут
+      трепетать каждый за душу свою в день падения твоего.
+    chapter: 32
+    chapterId: 961
+    parallels:
+      - verseId: 31628
+        bookId: 22
+        bookCode: psaltir
+        chapter: 37
+        short: Пс:37:5
+      - verseId: 32624
+        bookId: 22
+        bookCode: psaltir
+        chapter: 89
+        short: Пс:89:8
+      - verseId: 32625
+        bookId: 22
+        bookCode: psaltir
+        chapter: 89
+        short: Пс:89:9
+      - verseId: 16078
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 4
+        short: Иер:4:9
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И уныют о тебе языцы мнози, и царие их ужасом ужаснутся о тебе, егда
+        налетит мечь мой на лица их, чающе падения своего от дне падения твоего.
+      averincev: ""
+      ungerov: И будут скорбеть о тебе многие народы, и цари их страшно ужаснутся
+        из-за тебя, когда меч Мой явится пред лицем их, и будут ожидать падения
+        своего со дня падения твоего.
+      csya_old: И# ўны1ютъ њ тебЁ kзы1цы мно1зи, и3 цaріе и4хъ ќжасомъ ўжaснутсz њ
+        тебЁ, є3гдA налети1тъ ме1чь мо1й на ли1ца и4хъ, чaюще паде1ніz своегw2 t
+        дне2 паде1ніz твоегw2.
+      sovr_rbo: Я поражу ужасом многочисленные народы, которые увидят твою участь.
+        Цари их содрогнутся, глядя на тебя, а Я буду потрясать Моим мечом перед
+        их лицами. Когда ты падешь, каждый из них станет ежечасно трепетать за
+        свою жизнь.
+      latin: "Et stupescere faciam super te populos multos, et reges eorum horrore
+        nimio formidabunt super te, cum volare coeperit gladius meus super
+        facies eorum: et obstupescent repente singuli pro anima sua in die
+        ruinae tuae."
+      ukr: І остовпіють численні народи з-за тебе, а їхні царі затремтять через тебе в
+        страху, як буду махати мечем Своїм Я перед їхнім обличчям, і тремтітиме
+        кожен щохвилі за душу свою в дні упадку твого...
+      nkjv: "Yes, I will make many peoples astonished at you, and their kings shall be
+        horribly afraid of you when I brandish My sword before them; and they
+        shall tremble every moment, every man for his own life, in the day of
+        your fall.' "
+      desnitsky: Ужаснутся из-за тебя многие народы, дрожь побежит по их царям, когда
+        будет сверкать перед их лицами Мой меч. Будут они трепетать, что ни миг,
+        за свою жизнь в тот день, когда ты падешь.
+      mt: ‫   וַהֲשִׁמּוֹתִי עָלֶיךָ עַמִּים רַבִּים וּמַלְכֵיהֶם יִשְׂעֲרוּ עָלֶיךָ
+        שַׂעַר בְּעוֹפְפִי חַרְבִּי עַל־פְּנֵיהֶם וְחָרְדוּ לִרְגָעִים אִישׁ
+        לְנַפְשׁוֹ בְּיוֹם מַפַּלְתֶּךָ׃ ס ‬
+      romana: Voi umple prin tine de groaza multe popoare si regii lor se vor
+        cutremura de frica prin tine, cand voi flutura sabia Mea inaintea lor,
+        si in orice clipa va tremura fiecare pentru sufletul sau in ziua caderii
+        tale.
+      francais: Je frapperai de stupeur beaucoup de peuples à cause de toi, Et leurs
+        rois seront saisis d'épouvante à cause de toi, Quand j'agiterai mon épée
+        devant leur face; Ils trembleront à tout instant chacun pour sa vie, Au
+        jour de ta chute.
+      italian: Per te farò stupire molti popoli e treme — ranno i loro re a causa tua,
+        quando sguainerò la spada davanti a loro. Ognuno tremerà ad ogni istante
+        per la sua vita, nel giorno della tua rovina".
+      old_georgian: და დაწუხდენ შენ ზედა ნათესავნი მრავალნი, და მეფენი მათნი
+        განკრთომით განჰკრთენ და ფრინვასა შინა მახჳლისა ჩემისასა წინაშე პირსა
+        მათსა, მომლოდენი დაცემასა მათსა დღითგან დაცემისა შენისაჲთ,
+      portuguese: "Demais farei com que muitos povos fiquem pasmados a teu respeito, e
+        os seus reis serão sobremaneira\ramedrontados, quando eu brandir a minha
+        espada diante deles; e estremecerão a cada momento, cada qual pela\rsua
+        vida, no dia da tua queda."
+      polish: "U wielu narodów wzbudzę grozę, a królowie ich przerażą się z twego
+        powodu, gdy mieczem moim świsnę przed ich oczami, i będą nieustannie
+        drżeć w\robawie o życie swoje w dzień twojego upadku."
+      nrt: Я ужасну твоей участью многие народы, и цари их будут дрожать от страха,
+        думая о тебе, когда Я взмахну перед ними мечом. В день твоего падения
+        каждый из них ежеминутно будет за жизнь свою трепетать.
+      Macarius: Тогда в ужас приведу тобою многочисленные народы, и цари их
+        содрогнутся о тебе в страхе, когда мечу Моему повелю сверкать пред лицем
+        их, и поминутно будут трепетать всяк за душу свою в день падения твоего.
+      serbian: И удивићу тобом многе народе, и цареви ће се њихови згрозити од тебе,
+        кад махнем мачем својим пред њима, и дрхтаће сваки час сваки за душу
+        своју у дан кад паднеш.
+      bulgarian: И чрез тебе ще докарам в ужас много народи, и царете им ще трепнат за
+        тебе в страх, кога размахна меча Си пред лицето им, и всяка минута ще
+        треперят всеки за душата си в деня на твоето падане.
+      Olesn: "Я приведу в изумление о тебе многие народы, У царей их дыбом станут
+        волосы о тебе, \rКогда Я сверкну мечем Моим перед ними.\rОни будут
+        дрожать ежеминутно,\rКаждый за жизнь свою,\rВ день падения твоего."
+      deutsch: Viele Völker sollen sich über dich entsetzen, und ihren Königen soll
+        vor dir grauen, wenn ich mein Schwert vor ihnen blinken lasse, und
+        sollen plötzlich erschrecken, daß ihnen das Herz entfallen wird über
+        deinen Fall.
+      ukr2: Я спантеличу тобою багато народів, царі їхні задрижать від страху з-за
+        тебе, коли я замахнусь перед ними мечем. Вони тремтітимуть щохвилини,
+        кожен за свою душу, в день твого падіння.
+      ukr3: І приведу тобою в перестрах многі народи, й царі їх затремтять зо страху,
+        коли мечем моїм замахну перед лицями в них, і тремтїти муть всї що
+        хвилини, атожен за душу свою, як ти впадеш.
+      bel_syomukha: І зжахну табою многія народы, і цары іхнія скалануцца па табе ад
+        страху, калі мечам Маім страсяну перад абліччам іхнім, і штохвіліны
+        будуць трымцець кожны за душу сваю ў дзень падзеньня твайго.
+      czech: Udesem nad tebou naplnim cetne narody, jejich kralove strnou nad tebou
+        hruzou, az proti nim zamavam svym mecem, vsichni se budou neustale trast
+        o svuj zivot v den tveho padu."
+      spanish: Dejaré por ti atónitos a muchos pueblos y a sus reyes, que temerán por
+        ti cuando yo blanda mi espada ante ellos el día de tu ruina.
+      greek-lxx: καὶ στυγνάσουσιν ἐπὶ σὲ ἔθνη πολλά καὶ οἱ βασιλεῖς αὐτῶν ἐκστάσει
+        ἐκστήσονται ἐν τῷ πέτασθαι τὴν ῥομφαίαν μου ἐπὶ πρόσωπα αὐτῶν
+        προσδεχόμενοι τὴν πτῶσιν αὐτῶν ἀφ᾿ ἡμέρας πτώσεώς σου
+      st_text: И приведу тобою в ужас многие народы, и цари их содрогнутся о тебе в
+        страхе, когда мечом Моим потрясу перед лицем их, и поминутно будут
+        трепетать каждый за душу свою в день падения твоего.
+  - id: 17303
+    number: 11
+    bookId: 33
+    text: "Ибо так говорит Господь Бог: меч царя Вавилонского придет на тебя."
+    chapter: 32
+    chapterId: 961
+    parallels:
+      - verseId: 3963
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 14
+        short: 2 Цар:14:14
+      - verseId: 16879
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 18
+        short: Иез:18:23
+      - verseId: 9402
+        bookId: 44
+        bookCode: kniga-proroka-aggea
+        chapter: 1
+        short: Агг:1:5
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Яко сия глаголет адонаи Господь: мечь царя вавилонска приидет тебе,
+        мечьми исполинов, и поражу крепость твою:"
+      averincev: ""
+      ungerov: "Ибо так говорит Господь Бог: меч царя Вавилонскаго придет на тебя
+        (вместе) с мечами исполинов, и Я поражу силу твою."
+      csya_old: "Ћкw сі‰ гlетъ ґдwнаі2 гDь: ме1чь царS вавmлHнска пріи1детъ тебЁ,
+        мечьми2 и3споли1нwвъ, и3 поражY крёпость твою2:"
+      sovr_rbo: "Так говорит Господь Бог: меч царя вавилонского обрушится на тебя."
+      latin: "Quia haec dicit Dominus Deus: Gladius regis Babylonis veniet tibi."
+      ukr: "Бо так Господь Бог промовляє: Меч царя вавилонського прийде на тебе!"
+      nkjv: "\"For thus says the Lord God: 'The sword of the king of Babylon shall
+        come upon you. "
+      desnitsky: "Так говорит владыка ГОСПОДЬ: грядет на тебя меч вавилонского царя!"
+      mt: ‫   כִּי כֹּה אָמַר אֲדֹנָי יְהוִה חֶרֶב מֶלֶךְ־בָּבֶל תְּבוֹאֶךָ׃ ‬
+      romana: "Caci asa zice Domnul Dumnezeu: Sabia regelui Babilonului va veni asupra
+        ta;"
+      francais: "Car ainsi parle le Seigneur, l'Éternel: L'épée du roi de Babylone
+        fondra sur toi."
+      italian: 'Poiché dice il Signore Dio: "La spada del re di Babilonia ti
+        raggiungerà.'
+      old_georgian: "რამეთუ ამათ იტყჳს უფალი, უფალი: მახჳლი მეფისა ბაბილოვნისაჲ
+        მოიწიოს შენ ზედა."
+      portuguese: "Pois assim diz o Senhor Deus: A espada do rei de Babilônia virá
+        sobre ti."
+      polish: "Albowiem tak mówi Pan: Przyjdzie na ciebie miecz króla Babilonu."
+      nrt: "Ведь так говорит Владыка Господь: – Меч царя Вавилона двинется на тебя."
+      Macarius: "Ибо так говорит Господь Иегова: меч царя вавилонского придет к тебе."
+      serbian: "Јер овако вели Господ Господ: Мач цара Вавилонскога доћи ће на те."
+      bulgarian: "Защото тъй казва Господ Бог: мечът на вавилонския цар ще дойде върху
+        тебе."
+      Olesn: "Да, так говорит Господь Иегова:\rМеч царя вавилонскаго настигнет тебя."
+      deutsch: "Denn so spricht der Herr: Das Schwert des Königs zu Babel soll dich
+        treffen."
+      ukr2: "Так бо говорить Господь Бог: Меч царя вавилонського прийде на тебе."
+      ukr3: "Так бо говорить Господь Бог: Меч царя Вавилонського прийде на тебе."
+      bel_syomukha: "Бо так кажа Гасподзь Бог: меч цара Вавілонскага прыйдзе на цябе."
+      czech: 'Toto pravi Panovnik Hospodin: "Dolehne na tebe mec babylonskeho krale;'
+      spanish: "Porque así dice el Señor, Yavé: La espada del rey de Babilonia te
+        alcanzará."
+      greek-lxx: ὅτι τάδε λέγει Κύριος ῥομφαία βασιλέως Βαβυλῶνος ἥξει σοι
+      st_text: "Ибо так говорит Господь Бог: меч царя Вавилонского придет на тебя."
+  - id: 17304
+    number: 12
+    bookId: 33
+    text: От мечей сильных падет народ твой; все они - лютейшие из народов, и
+      уничтожат гордость Египта, и погибнет все множество его.
+    chapter: 32
+    chapterId: 961
+    parallels:
+      - verseId: 16880
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 18
+        short: Иез:18:24
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: губителие от язык вси, и погубят укоризну египетску, и сокрушится вся
+        крепость его.
+      averincev: ""
+      ungerov: Все они — лютейшие из народов, и погубят надменность Египта, и
+        сокрушена будет вся сила его.
+      csya_old: губи1теліе t kзы6къ вси2, и3 погубsтъ ўкори1зну є3гv1петску, и3
+        сокруши1тсz всS крёпость є3гw2.
+      sovr_rbo: Я истреблю твои полчища мечами сильных воинов, что принадлежат к
+        самому жестокому народу из всех народов. Они положат конец гордыне
+        Египта, и все полчища его погибнут!
+      latin: "In gladiis fortium dejiciam multitudinem tuam: inexpugnabiles omnes
+        gentes hae, et vastabunt superbiam Aegypti, et dissipabitur multitudo
+        ejus."
+      ukr: Мечами хоробрих Я порозкидаю твоє многолюдство. Усі вони насильники
+        народів, і гордість Єгипту понищать вони, і все многолюдство його буде
+        вигублене...
+      nkjv: "By the swords of the mighty warriors, all of them the most terrible of
+        the nations, I will cause your multitude to fall. 'They shall plunder
+        the pomp of Egypt, And all its multitude shall be destroyed. "
+      desnitsky: Всё множество твоих людей падет от мечей богатырей, и все они – из
+        самого жестокого средь народов, низвергнут они гордость Египта, погубят
+        всё его множество!
+      mt: ‫   בְּחַרְבוֹת גִּבּוֹרִים אַפִּיל הֲמוֹנֶךָ עָרִיצֵי גוֹיִם כֻּלָּם
+        וְשָׁדְדוּ אֶת־גְּאוֹן מִצְרַיִם וְנִשְׁמַד כָּל־הֲמוֹנָהּ׃ ‬
+      romana: Cu sabia razboinicilor voi face sa cada multimea supusilor tai; acestia
+        sunt cei mai cruzi dintre popoare, vor zdrobi mandria Egiptului, si
+        toata multimea poporului lui va pieri.
+      francais: Je ferai tomber ta multitude par l'épée de vaillants hommes, Tous les
+        plus violents d'entre les peuples; Ils anéantiront l'orgueil de
+        l'Égypte, Et toute sa multitude sera détruite.
+      italian: Abbatterò la tua moltitudine con la spada dei prodi, dei popoli più
+        feroci; abbatteranno l'orgoglio dell'Egitto e tutta la sua moltitudine
+        sarà sterminata.
+      old_georgian: მახჳლებითა გმირთაჲთა და შთამოვაქუეო ძალი შენი, ბუგრნი წარმართთაგან
+        ყოველთა, და წარწყმიდონ გინებაჲ ეგჳპტისა და შეიმუსროს ყოველი ძალი მისი.
+      portuguese: "Farei cair a tua multidão pelas espadas dos valentes; terríveis
+        dentre as nações são todos eles; despojarão a\rsoberba do Egito, e toda
+        a sua multidão será destruída."
+      polish: "Powalę mnóstwo twych [poddanych] mieczami bohaterów: oni wszyscy
+        należą\rdo najgroźniejszych ludów. Zniszczą dumę Egiptu i zginie całe
+        jego mnóstwo."
+      nrt: Я разобью твои орды мечами могучих воинов, жесточайших из всех народов. Они
+        растопчут гордыню Египта и истребят его орды.
+      Macarius: Мечами сильных сражу народ твой; все они, лютейшие из народов, и
+        уничтожат гордость Египта, и будет истреблено все множество его.
+      serbian: Мачевима јуначким поваљаћу мноштво твоје, мачевима најљућих између
+        народа; они ће разорити понос Мисиру, и све ће се мноштво његово потрти.
+      bulgarian: "От меча на силни ще падне твоят народ; те всички са най-люти от
+        народите: ще унищожат гордостта на Египет - и цялото му множество ще
+        погине."
+      Olesn: Мечами героев Я повалю множество народа твоего, (Самые могущественные
+        между народами все они) Они сокрушат кичливость Египта И погубят все
+        множество народа его.
+      deutsch: Und ich will dein Volk fällen durch das Schwert der Helden, durch
+        allerlei Tyrannen der Heiden; die sollen die Herrlichkeit Ägyptens
+        verheeren, daß all ihr Volk vertilgt werde.
+      ukr2: Мечем вояків я покладу на землю твою гомінку юрбу. Усі вони - найлютіші з
+        народів. Вони зламають гординю Єгипту, і населення його загине.
+      ukr3: Від мечів у тих сильних поляже нарід твій; вони - сї найлютїйші зміж
+        народів, упокорять гординю Египту, й погибне все множество його. -
+      bel_syomukha: Ад мечаў дужых загіне народ твой; усе яны - самыя лютыя з народаў,
+        і зьнішчаць гонар Егіпта, і загіне ўсё мноства ягонае.
+      czech: meci bohatyru srazim tvuj hlucici dav, meci vsech krutych pronarodu. Ti
+        svrhnou v zahubu pychu Egypta; vyhlazen bude vsechen jeho hlucici dav.
+      spanish: Yo haré caer a tu multitud con la espada de los valientes, todos ellos
+        los más violentos de los pueblos, que destruirán la soberbia de Egipto,
+        y todas sus muchedumbres quedarán deshechas.
+      greek-lxx: ἐν μαχαίραις γιγάντων καὶ καταβαλῶ τὴν ἰσχύν σου λοιμοὶ ἀπὸ ἐθνῶν
+        πάντες καὶ ἀπολοῦσι τὴν ὕβριν Αἰγύπτου καὶ συντριβήσεται πᾶσα ἡ ἰσχὺς
+        αὐτῆς
+      st_text: От мечей сильных падет народ твой; все они - лютейшие из народов, и
+        уничтожат гордость Египта, и погибнет все множество его.
+  - id: 17305
+    number: 13
+    bookId: 33
+    text: И истреблю весь скот его при великих водах, и вперед не будет мутить их
+      нога человеческая, и копыта скота не будут мутить их.
+    chapter: 32
+    chapterId: 961
+    parallels:
+      - verseId: 17211
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 29
+        short: Иез:29:11
+      - verseId: 1328
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 10
+        short: 1 Кор:10:12
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И погублю вся скоты его от воды многи, и не возмутит ея нога человеческа
+        ктому, и стопа скотия не ступит на ню.
+      averincev: ""
+      ungerov: И погублю весь скот его при обильной воде, и не будет возмущать ея
+        более нога человеческая, и копыто скотское не вступит в нее.
+      csya_old: И# погублю2 вс‰ скоты2 є3гw2 t воды2 мно1ги, и3 не возмути1тъ є3S ногA
+        человёческа ктомY, и3 стопA ско1тіz не стyпитъ на ню2.
+      sovr_rbo: Я уничтожу все стада, что пасутся возле этой великой реки, и ни нога
+        человека, ни копыто животного больше не будет мутить в ней воду.
+      latin: "Et perdam omnia jumenta ejus, quae erant super aquas plurimas: et non
+        conturbabit eas pes hominis ultra, neque ungula jumentorum turbabit
+        eas."
+      ukr: І вигублю ввесь його скот при водах великих, і не буде вже їх каламутити
+        людська нога, і копито скотини не буде вже їх каламутити.
+      nkjv: Also I will destroy all its animals From beside its great waters; The foot
+        of man shall muddy them no more, Nor shall the hooves of animals muddy
+        them.
+      desnitsky: Я погублю весь его скот, что пасется при обильных водах, и нога
+        человека впредь мутить их не будет, и копыта скота не замутят.
+      mt: ‫   וְהַאֲבַדְתִּי אֶת־כָּל־בְּהֶמְתָּהּ מֵעַל מַיִם רַבִּים וְלֹא תִדְלָחֵם
+        רֶגֶל־אָדָם עוֹד וּפַרְסוֹת בְּהֵמָה לֹא תִדְלָחֵם׃ ‬
+      romana: Voi nimici toate vietuitoarele din apele tale cele mari si mai mult nu
+        le va mai tulbura picior de om, nici copita de dobitoc nu le va tulbura.
+      francais: Je ferai périr tout son bétail près des grandes eaux; Le pied
+        de  l'homme ne les troublera plus, Le sabot des animaux ne les troublera
+        plus.
+      italian: Farò perire tutto il suo bestiame sulle rive delle grandi acque, che
+        non saranno più turbate da piede d'uomo, né unghia d'animale le
+        intorbiderà.
+      old_georgian: და წარვწყმიდნე ყოველნი საცხოვარნი მისნი წყლისა მიერ მრავლისა და
+        არა აღთქუეფოს იგი ფერჴმან კაცისამან არა მერმე და კუალმან საცხოვრისამან
+        არა დატკებნოს იგი ესრეთ.
+      portuguese: "Exterminarei também todos os seus animais de junto às muitas águas;
+        não as turvará mais pé de homem, não\ras turvarão unhas de animais."
+      polish: "Wszystkie jego zwierzęta wygubię na brzegu wielkich wód i już nie
+        zamąci\rich stopa człowieka ani zamąci kopyto bydła."
+      nrt: Я погублю его скот, что пасется у обильных вод. И ни нога человека больше
+        не взволнует эти воды, ни копыто скота не замутит их впредь.
+      Macarius: И истреблю весь скот в земле великих вод, и впредь не будет мутить их
+        нога человеческая, и копыта скота не будут мутить их.
+      serbian: И потрћу сву стоку његову покрај великих вода, те их неће више мутити
+        нога човјечија нити ће их папак од какве животиње мутити.
+      bulgarian: И ще изтребя всичкия му добитък при големите води, и занапред не ще
+        ги размътва човешка нога, нито добишки копита ще ги размътват.
+      Olesn: "Я уничтожу всех животных на водах больших\rИ не будет возмущать их более
+        нога человеческая\rИ копыта животнаго не будут возмущать их."
+      deutsch: Und ich will alle Tiere umbringen an den großen Wassern, daß sie keines
+        Menschen Fuß und keines Tieres Klaue mehr trüb machen soll.
+      ukr2: Я вигублю всю його скотину при великих водах. Нога людська не буде більш
+        їх каламутити та й худоба не буде їх більше каламутити ногами.
+      ukr3: І вигублю всю скотину його при водах великих; не буде вже їх мутити нога
+        людська та й череда каламутити вже їх не буде.
+      bel_syomukha: І вынішчу ўсё быдла яго каля вялікіх водаў, і наперад ня будзе
+        каламуціць іх нага чалавечая, і капыты быдла ня будуць каламуціць іх.
+      czech: Vyhubim vsechna jeho zvirata u hojnych vod, nezkali je uz lidska noha,
+        nezkali je ani kopyta zvirat.
+      spanish: Y haré perecer todos tus ganados de sobre las muchas aguas, que no
+        enturbiará ya más pie de hombre ni pezuña de bestia.
+      greek-lxx: καὶ ἀπολῶ πάντα τὰ κτήνη αὐτῆς ἀφ᾿ ὕδατος πολλοῦ καὶ οὐ μὴ ταράξῃ
+        αὐτὸ ἔτι ποὺς ἀνθρώπου καὶ ἴχνος κτηνῶν οὐ μὴ καταπατήσῃ αὐτό
+      st_text: И истреблю весь скот его при великих водах, и вперед не будет мутить их
+        нога человеческая, и копыта скота не будут мутить их.
+  - id: 17306
+    number: 14
+    bookId: 33
+    text: Тогда дам покой водам их, и сделаю, что реки их потекут, как масло,
+      говорит Господь Бог.
+    chapter: 32
+    chapterId: 961
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Тако тогда умолкнут воды их, и реки их яко елей потекут, глаголет адонаи
+        Господь,
+      averincev: ""
+      ungerov: Так тогда успокоятся воды их, и реки их, как елей, потекут, говорит
+        Господь Бог.
+      csya_old: Тaкw тогдA ўмо1лкнутъ во1ды и4хъ, и3 рёки и4хъ ћкw є3ле1й потекyтъ,
+        гlетъ ґдwнаі2 гDь,
+      sovr_rbo: Я сделаю воды этой реки незамутненными, будут тихо они струиться,
+        словно масло, — говорит Господь Бог. —
+      latin: Tunc purissimas reddam aquas eorum, et flumina eorum quasi oleum adducam,
+        ait Dominus Deus,
+      ukr: Тоді їхні води очищу, а їхні річки попроваджу, неначе оливу, говорить
+        Господь Бог.
+      nkjv: "Then I will make their waters clear, And make their rivers run like oil,'
+        Says the Lord God. "
+      desnitsky: Тогда дам покой этим водам, эти реки потекут, словно масло –
+        пророчество Владыки ГОСПОДА.
+      mt: ‫   אָז אַשְׁקִיעַ מֵימֵיהֶם וְנַהֲרוֹתָם כַּשֶּׁמֶן אוֹלִיךְ נְאֻם אֲדֹנָי
+        יְהוִה׃ ‬
+      romana: Atunci voi potoli apele; voi face sa curga ca untdelemnul fluviile lui,
+        zice Domnul Dumnezeu.
+      francais: Alors je calmerai ses eaux, Et je ferai couler ses fleuves comme
+        l'huile, Dit le Seigneur, l'Éternel
+      italian: Allora farò ritornare tranquille le loro acque e farò scorrere i loro
+        canali come olio. Parola del Signore Dio.
+      old_georgian: მაშინ დაყუდნენ წყალნი მათნი და მდინარენი მათნი, ვითარცა ზეთნი,
+        ვიდოდიან, - იტყჳს ადონაი უფალი.
+      portuguese: Então tornarei claras as suas águas, e farei correr os seus rios
+        como o azeite, diz o Senhor Deus.
+      polish: "Potem uspokoję ich wody i sprawię, że ich rzeki jak oliwa popłyną -
+        wyrocznia\rPana Boga."
+      nrt: Я дам отстояться водам, и сделаю так, что их реки будут струиться, как
+        родник, – возвещает Владыка Господь. –
+      Macarius: Тогда дам покой водам их, и сделаю, что реки их потекут, как масло,
+        говорит Господь Иегова.
+      serbian: Тада ћу стишати воду њихову, и учинићу да потоци њихови теку као уље,
+        говори Господ Господ.
+      bulgarian: Тогава ще дам покой на водите им и ще направя реките им да потекат
+        като масло, казва Господ Бог.
+      Olesn: "Тогда Я дам отстояться водам их И реки, подобныя маслу, проведу.\r —
+        Слово Господа Иеговы."
+      deutsch: Alsdann will ich ihre Wasser lauter machen, daß ihre Ströme fließen wie
+        Öl, spricht der Herr,
+      ukr2: Тоді дам спокій їхнім водам, і вчиню так, що їхні ріки тектимуть як олія
+        (тихі), - слово Господа Бога.
+      ukr3: Тодї дам спокій водам їх, і вчиню, що води текти муть, як олива, чисті,
+        говорить Господь.
+      bel_syomukha: Тады дам спакой водам іхнім, і зраблю, што рэкі іхнія пацякуць, як
+        алей, кажа Гасподзь Бог.
+      czech: Tehdy cirymi ucinim jejich vody a jejich proudy potecou jako olej, je
+        vyrok Panovnika Hospodina.
+      spanish: Entonces haré que se limpien sus aguas y que se deslicen sus canales
+        como aceite, dice el Señor, Yavé.
+      greek-lxx: οὕτως τότε ἡσυχάσει τὰ ὕδατα αὐτῶν καὶ οἱ ποταμοὶ αὐτῶν ὡς ἔλαιον
+        πορεύσονται λέγει Κύριος
+      st_text: Тогда дам покой водам их, и сделаю, что реки их потекут, как масло,
+        говорит Господь Бог.
+  - id: 17307
+    number: 15
+    bookId: 33
+    text: Когда сделаю землю Египетскую пустынею, и когда лишится земля всего,
+      наполняющего ее; когда поражу всех живущих на ней, тогда узнают, что Я
+      Господь.
+    chapter: 32
+    chapterId: 961
+    parallels:
+      - verseId: 21655
+        bookId: 2
+        bookCode: ishod
+        chapter: 22
+        short: Исх:22:26
+      - verseId: 36372
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 24
+        short: Втор:24:13
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: егда дам египта в пагубу, и опустеет земля с полнотою своею, егда разсею
+        вся живущыя на ней, и уведят, яко аз есмь Господь.
+      averincev: ""
+      ungerov: Когда предам Египет опустошению, и опустеет земля и что наполняет ее,
+        когда разсею всех жителей ея, тогда узнают, что Я Господь.
+      csya_old: є3гдA дaмъ є3гv1пта въ пaгубу, и3 њпустёетъ землS съ полното1ю свое1ю,
+        є3гдA разсёю вс‰ живyщыz на не1й, и3 ўвёдzтъ, ћкw ѓзъ є4смь гDь.
+      sovr_rbo: Когда Я превращу землю Египта в пустыню и все, что на ней есть,
+        погибнет, когда Я уничтожу всех живущих на ней, тогда поймут, что Я —
+        Господь!
+      latin: "cum dedero terram Aegypti desolatam: deseretur autem terra a plenitudine
+        sua, quando percussero omnes habitatores ejus: et scient quia ego
+        Dominus."
+      ukr: Коли оберну Я єгипетський край на спустошення, і край опустошений буде від
+        усього, що в нім, коли Я поб'ю всіх тих, що замешкують в ньому, то
+        пізнають вони, що Я то Господь!...
+      nkjv: "'When I make the land of Egypt desolate, And the country is destitute of
+        all that once filled it, When I strike all who dwell in it, Then they
+        shall know that I am the Lord. "
+      desnitsky: Опустошу Я египетскую землю, опустеет она, некогда изобильная, и
+        поражу Я всех, кто в ней живет, и тогда будут знать, что Я – ГОСПОДЬ.
+      mt: ‫   בְּתִתִּי אֶת־אֶרֶץ מִצְרַיִם שְׁמָמָה וּנְשַׁמָּה אֶרֶץ מִמְּלֹאָהּ
+        בְּהַכּוֹתִי אֶת־כָּל־יוֹשְׁבֵי בָהּ וְיָדְעוּ כִּי־אֲנִי יְהוָה׃ ‬
+      romana: Cand voi face din tara Egiptului un pustiu, cand tara va fi jefuita de
+        tot ce are si cand voi lovi pe toti cei ce traiesc in ea, atunci vor sti
+        ca Eu sunt Domnul.
+      francais: Quand je ferai du pays d'Égypte une solitude, Et que le pays sera
+        dépouillé de tout ce qu'il contient, Quand je frapperai tous ceux qui
+        l'habitent, Ils sauront que je suis l'Éternel.
+      italian: Quando avrò fatto dell'Egitto una terra desolata, tutta priva di quanto
+        contiene, quando avrò percosso tutti i suoi abitanti, allora si saprà
+        che io sono il Signore.
+      old_georgian: ოდეს მივსცე ვგჳპტე წარსაწყმედელად და მოვაოჴრო ქუეყანაჲ სავსებითურთ
+        მისით, ოდეს განვსთესნე ყოველნი დამკჳდრებულნი მის შორის, და ცნან,
+        ვითარმედ მე ვარ უფალი.
+      portuguese: "Quando eu tornar desolada a terra do Egito, e ela for despojada da
+        sua plenitude, e quando eu ferir a todos os\rque nela habitarem, então
+        saberão que eu sou o Senhor."
+      polish: "Gdy kraj egipski obrócę w pustynię, a ziemia pozbawiona zostanie tego,
+        co ją\rnapełnia, gdy pobiję wszystkich mieszkańców, wtedy poznają, że Ja
+        jestem\rPan."
+      nrt: Когда Я сделаю землю Египта пустыней, и она лишится всего, что ее
+        наполняет, когда Я сражу ее жителей, тогда они узнают, что Я – Господь.
+      Macarius: Когда землю египетскую сделаю пустынею, и когда лишится земля всего
+        наполняющего ее, когда поражу всех живущих на ней, тогда узнают, что Я
+        Иегова.
+      serbian: Кад опустим земљу Мисирску и она буде без свега што је у њој, и побијем
+        све који живе у њој, тада ће познати да сам ја Господ.
+      bulgarian: Кога направя Египетската земя пустиня; кога земята се лиши от всичко,
+        що я изпълня; кога поразя всички, които живеят по нея, - тогава ще
+        познаят, че Аз съм Господ.
+      Olesn: "Когда Я сделаю землю египетскую пустынею, Когда опустеет земля от того,
+        что наполняет ее, Когда Я поражу все живущее на ней,\rТогда узнают, что
+        Я — Иегова."
+      deutsch: wenn ich das Land Ägypten verwüstet und alles, was im Lande ist, öde
+        gemacht und alle, so darin wohnen, erschlagen habe, daß sie erfahren,
+        daß ich der Herr sei.
+      ukr2: Як зроблю Єгипет пусткою, і земля буде оголена з усього, чим була повна,
+        як переб'ю усіх, що на ній живуть, тоді взнають, що я - Господь.
+      ukr3: Як зроблю я Египет пустинею, а земля опорожнїє з усього, чим вона була
+        повна, як перебю всїх, що на нїй живуть, тодї спізнають, що я - Господь.
+      bel_syomukha: Калі зраблю зямлю Егіпецкую пустыняю, і калі пазбудзецца зямля
+        ўсяго, што напаўняе яе; калі паб'ю ўсіх, хто жыве на ёй, тады ўведаюць,
+        што Я - Гасподзь.
+      czech: Egyptskou zemi ucinim zpustosenym krajem, zpustosena bude zeme se vsim,
+        co je na ni, az v ni pobiji vsechny obyvatele. I poznaji, ze ja jsem
+        Hospodin."
+      spanish: Cuando tornare en desierto la tierra en Egipto y asolare cuanto la
+        llena, cuando hiriere a cuantos la habitan, entonces sabrán que yo soy
+        Yavé.
+      greek-lxx: ὅταν δῶ Αἴγυπτον εἰς ἀπώλειαν καὶ ἐρημωθῇ ἡ γῆ σὺν τῇ πληρώσει αὐτῆς
+        ὅταν διασπείρω πάντας τοὺς κατοικοῦντας ἐν αὐτῇ καὶ γνώσονται ὅτι ἐγώ
+        εἰμι Κύριος
+      st_text: Когда сделаю землю Египетскую пустынею, и когда лишится земля всего,
+        наполняющего ее; когда поражу всех живущих на ней, тогда узнают, что Я
+        Господь.
+  - id: 17308
+    number: 16
+    bookId: 33
+    text: Вот плачевная песнь, которую будут петь; дочери народов будут петь ее; о
+      Египте и обо всем множестве его будут петь ее, говорит Господь Бог.
+    chapter: 32
+    chapterId: 961
+    parallels:
+      - verseId: 20719
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 43
+        short: Ис:43:25
+      - verseId: 15853
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 31
+        short: Иер:31:34
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Плачь есть, и восплачешися о нем, и дщери языческия восплачутся о нем, над
+        египтом и над всею силою его восплачутся, глаголет адонаи Господь.
+      averincev: ""
+      ungerov: Вот плачевная песнь, и будешь плакать о нем, и дочери народов будут
+        плакать о нем, о Египте и всем могуществе его будут плакать, говорит
+        Господь Бог.
+      csya_old: Плaчь є4сть, и3 восплaчешисz њ не1мъ, и3 дщє1ри kзы1чєскіz восплaчутсz
+        њ не1мъ, над8 є3гv1птомъ и3 над8 все1ю си1лою є3гw2 восплaчутсz, гlетъ
+        ґдwнаі2 гDь.
+      sovr_rbo: Вот плач, которым дочери народов будут оплакивать Египет и весь его
+        многочисленный народ, — говорит Господь Бог”».
+      latin: "Planctus est, et plangent eum, filiae gentium plangent eum: super
+        Aegyptum et super multitudinem ejus plangent eum, ait Dominus Deus."
+      ukr: Оце пісня жалобна, і будуть жалобно співати її, дочки народів будуть
+        співати жалобно її, про Єгипет та про все многолюдство його будуть
+        жалобно співати її, говорить Господь Бог.
+      nkjv: "'This is the lamentation With which they shall lament her; The daughters
+        of the nations shall lament her; They shall lament for her, for Egypt,
+        And for all her multitude,' Says the Lord God.\" "
+      desnitsky: Вот плач, который сложат люди, и будут петь его дочери разных
+        народов, о Египте и обо всем множестве его людей его споют – пророчество
+        Владыки ГОСПОДА».
+      mt: ‫   קִינָה הִיא וְקוֹנְנוּהָ בְּנוֹת הַגּוֹיִם תְּקוֹנֵנָּה אוֹתָהּ
+        עַל־מִצְרַיִם וְעַל־כָּל־הֲמוֹנָהּ תְּקוֹנֵנָּה אוֹתָהּ נְאֻם אֲדֹנָי
+        יְהוִה׃ פ ‬
+      romana: Iata cantarea de jale pe care o vor striga fiicele neamurilor. Ele o vor
+        striga asupra Egiptului si asupra intregului sau popor. Ele vor striga
+        aceasta cantare de jale", zice Domnul Dumnezeu.
+      francais: C'est là une complainte, et on la dira; Les filles des nations diront
+        cette complainte; Elles la prononceront sur l'Égypte et sur toute sa
+        multitude, Dit le Seigneur, l'Éternel.
+      italian: Questo è un lamento e lo si canterà. Lo canteranno le figlie delle
+        genti, lo canteranno sull'Egitto e su tutta la sua moltitudine". Oracolo
+        del Signore Dio.
+      old_georgian: გოდებაჲ არს და ჰგოდებდენ მას; და სულნი წარმართთანი ჰგოდებდენ მას
+        ეგჳპტესა ზედა და ყოველსა ზედა ძალსა მისსა ჰგოდებდენ მას, - იტყჳს ადონაი
+        უფალი.
+      portuguese: "Esta é a lamentação que se fará; que as filhas das nações farão
+        sobre o Egito e sobre toda a sua multidão, diz o\rSenhor Deus."
+      polish: "Oto lament, który podniosą córki narodów, zaśpiewają go nad Egiptem i
+        nad\rcałą jego ludnością” - wyrocznia Pana Boga."
+      nrt: – Это плач, который будут петь. Его будут петь дочери народов. Они будут
+        петь его о Египте и его полчищах, – возвещает Владыка Господь.
+      Macarius: Вот плачевная песнь, которую будут петь; дщери народов будут петь ее;
+        о Египте и обо всем множестве его будут петь ее, говорит Господь Иегова.
+      serbian: Ово је нарицање што ће се нарицати; тако ће нарицати кћери народне, за
+        Мисиром и за свијем мноштвом његовијем нарицаће, говори Господ Господ.
+      bulgarian: Ето плачевната песен, която ще пеят; дъщерите на народите ще я пеят;
+        за Египет и за цялото му множество ще я пеят, казва Господ Бог.
+      Olesn: "Печальная песнь это и печально будут\rпеть ее;\rДочери язычников будут
+        петь ее.\rО Египте и о всем множестве народа его будут петь ее.\r —
+        Слово Господа Иеговы"
+      deutsch: Das wird der Jammer sein, den man wohl mag klagen; ja, die Töchter der
+        Heiden werden solche Klage führen; über Ägypten und all ihr Volk wird
+        man klagen, spricht der Herr.
+      ukr2: Така жалобна пісня, що її співатимуть сумно дочки народів. Вони
+        співатимуть її над Єгиптом і над усім його населенням, співатимуть її
+        жалібно, - слово Господа Бога.»
+      ukr3: Оце та плакальна пісня, що її будуть сьпівати; дочки народів сьпівати муть
+        її; над Египтом і над усією многотою людей його будуть нею голосити,
+        говорить Господь Бог.
+      bel_syomukha: Вось сьлёзная песьня, якую будуць сьпяваць; дочкі народаў будуць
+        сьпяваць яе; па Егіпце і па ўсім мностве яго будуць сьпяваць яе, кажа
+        Гасподзь Бог.
+      czech: '"To je zalozpev a jako zalozpev se bude zpivat, jako zalozpev jej budou
+        zpivat dcery pronarodu, zalozpev nad Egyptem a vsim jeho hlucicim davem,
+        je vyrok Panovnika Hospodina."'
+      spanish: "Esta es la elegía que cantarán: la cantarán las hijas de las gentes,
+        la cantarán sobre Egipto y sobre toda su muchedumbre, dice el Señor,
+        Yavé."
+      greek-lxx: θρῆνός ἐστιν καὶ θρηνήσεις αὐτόν καὶ αἱ θυγατέρες τῶν ἐθνῶν
+        θρηνήσουσιν αὐτόν ἐπ᾿ Αἴγυπτον καὶ ἐπὶ πᾶσαν τὴν ἰσχὺν αὐτῆς θρηνήσουσιν
+        αὐτήν λέγει Κύριος Κύριος
+      st_text: Вот плачевная песнь, которую будут петь; дочери народов будут петь ее;
+        о Египте и обо всем множестве его будут петь ее, говорит Господь Бог.
+  - id: 17309
+    number: 17
+    bookId: 33
+    text: "В двенадцатом году, в пятнадцатый [<i>день того же</i>] месяца, было ко
+      мне слово Господне:"
+    chapter: 32
+    chapterId: 961
+    parallels:
+      - verseId: 16881
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 18
+        short: Иез:18:25
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И бысть во второенадесять лето, перваго месяца в пятыйнадесять день,
+        бысть слово Господне ко мне глаголя:"
+      averincev: ""
+      ungerov: "В двенадцатый год, в пятнадцатый день перваго месяца, было слово
+        Господне ко мне и сказано:"
+      csya_old: "И# бы1сть во второенaдесzть лёто, пе1рвагw мцcа въ пzтыйнaдесzть
+        де1нь, бы1сть сло1во гDне ко мнЁ гlz:"
+      sovr_rbo: "В двенадцатый год, в пятнадцатый день первого месяца было мне слово
+        Господа:"
+      latin: "Et factum est in duodecimo anno, in quintadecima mensis: factum est
+        verbum Domini ad me, dicens:"
+      ukr: "І сталося за дванадцятого року, п'ятнадцятого дня місяця, було мені слово
+        Господнє таке:"
+      nkjv: "It came to pass also in the twelfth year, on the fifteenth day of the
+        month, that the word of the Lord came to me, saying:"
+      desnitsky: "В пятнадцатый день первого месяца двенадцатого года было мне слово
+        ГОСПОДНЕ:"
+      mt: ‫   וַיְהִי בִּשְׁתֵּי עֶשְׂרֵה שָׁנָה בַּחֲמִשָּׁה עָשָׂר לַחֹדֶשׁ הָיָה
+        דְבַר־יְהוָה אֵלַי לֵאמֹר׃ ‬
+      romana: "In anul al doisprezecelea, in ziua a cincisprezecea a lunii intai, a
+        fost cuvantul Domnului catre mine:"
+      francais: "La douzième année, le quinzième jour du mois, la parole de l'Éternel
+        me fut adressée, en ces mots:"
+      italian: "Ai quindici del primo mese, dell'anno decimosecondo, mi fu rivolta
+        questa parola del Signore:"
+      old_georgian: "და იყო მეათორმეტესა შინა წელსა, პირველსა თთუესა, მეათხუთმეტესა
+        თთჳსასა, იქმნა სიტყუა უფლისაჲ ჩემდამო მეტყუელი:"
+      portuguese: "Também sucedeu que, no ano duodécimo, aos quinze do mês, veio a mim
+        a palavra do Senhor, dizendo:"
+      polish: "W roku dwunastym, miesiącu pierwszym, piętnastego dnia miesiąca,
+        Pan\rskierował do mnie te słowa:"
+      nrt: "В двенадцатом году, в пятнадцатый день первого месяца было ко мне слово
+        Господа:"
+      Macarius: "В двенадцатом году, в пятнадцатый день месяца, было ко мне слово
+        Иеговы, и сказано:"
+      serbian: "Потом дванаесте године, петнаести дан истога мјесеца, дође ми ријеч
+        Господња говорећи:"
+      bulgarian: "В дванайсетата година, на петнайсетия ден от същия месец, биде към
+        мене слово Господне:"
+      Olesn: "Это было в двенадцатом году в пятнадцатое число месяца. Было слово
+        Иеговы во мне такое:"
+      deutsch: "Und im zwölften Jahr, am fünfzehnten Tage desselben Monats, geschah
+        des Herrn Wort zu mir und sprach:"
+      ukr2: "Дванадцятого року, першого місяця, п'ятнадцятого дня місяця надійшло до
+        мене таке слово Господнє:"
+      ukr3: "І надійшло в дванайцятому роцї, у пятнайцятий день місяця слово Господнє
+        до мене, таке:"
+      bel_syomukha: "У дванаццатым годзе, у пятнаццаты дзень таго самага месяца, было
+        мне слова Гасподняе:"
+      czech: "Dvanacteho roku, patnacteho dne tehoz mesice, stalo se ke mne slovo
+        Hospodinovo:"
+      spanish: "El año duodécimo, el quince del mes, fueme dirigida la palabra de
+        Yavé, diciendo:"
+      greek-lxx: καὶ ἐγενήθη ἐν τῷ δωδεκάτῳ ἔτει τοῦ πρώτου μηνὸς πεντεκαιδεκάτῃ τοῦ
+        μηνὸς ἐγένετο λόγος Κυρίου πρός με λέγων
+      st_text: "В двенадцатом году, в пятнадцатый [<i>день того же</i>] месяца, было
+        ко мне слово Господне:"
+  - id: 17310
+    number: 18
+    bookId: 33
+    text: сын человеческий! оплачь народ Египетский, и низринь его, его и дочерей
+      знаменитых народов в преисподнюю, с отходящими в могилу.
+    chapter: 32
+    chapterId: 961
+    parallels:
+      - verseId: 20275
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 24
+        short: Ис:24:22
+      - verseId: 17290
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 31
+        short: Иез:31:16
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "сыне человечь, восплачися о крепости египетстей (прекланяя преведи его):
+        и сведут дщерей его мертвых языцы во глубину земную ко низходящым в
+        пропасть."
+      averincev: ""
+      ungerov: "Сын человеческий! восплачь о силе Египта (наклонив низведи его), ибо
+        народы низведут мертвых дочерей его в глубину земли к нисходящим в
+        преисподнюю, (говоря):"
+      csya_old: "сы1не человёчь, восплaчисz њ крёпости є3гv1петстэй (прекланsz
+        преведи2 є3го2): и3 сведyтъ дще1рей є3гw2 ме1ртвыхъ kзы1цы во глубинY
+        земнyю ко низходsщымъ въ про1пасть."
+      sovr_rbo: «Человек! Оплачь многочисленный народ Египта, низринь их — и египтян,
+        и дочерей народов знаменитых — в подземный мир, к мертвецам в
+        преисподнюю.
+      latin: "Fili hominis, cane lugubre super multitudinem Aegypti: et detrahe eam
+        ipsam, et filias gentium robustarum, ad terram ultimam, cum his qui
+        descendunt in lacum."
+      ukr: Сину людський, жалобно заголоси про многолюдство Єгипту, і скинь його, його
+        та дочок потужних народів до підземного краю із тими, хто сходить в
+        могилу!
+      nkjv: '"Son of man, wail over the multitude of Egypt, And cast them down to the
+        depths of the earth, Her and the daughters of the famous nations, With
+        those who go down to the Pit:'
+      desnitsky: «Сын человеческий, оплачь всё множество египтян и повергни его вместе
+        с дочерями могущественных народов в нижний мир, к сошедшим в могилу.
+      mt: ‫   בֶּן־אָדָם נְהֵה עַל־הֲמוֹן מִצְרַיִם וְהוֹרִדֵהוּ אוֹתָהּ וּבְנוֹת
+        גּוֹיִם אַדִּרִם אֶל־אֶרֶץ תַּחְתִּיּוֹת אֶת־יוֹרְדֵי בוֹר׃ ‬
+      romana: '"Fiul omului, plangi pentru multimea poporului Egiptului si fa-o sa
+        coboare, ea si fiicele neamurilor stralucite, in adancurile pamantului,
+        cu cei ce s-au coborat in mormant.'
+      francais: Fils de l'homme, Lamente-toi sur la multitude d'Égypte, et
+        précipitela, Elle et les filles des nations puissantes, Dans les
+        profondeurs de la terre, Avec ceux qui descendent dans la fosse!
+      italian: "\"Figlio dell'uomo, intona un canto funebre sugli abitanti
+        dell'Egitto. Falli scendere insieme con le figlie di nazioni potenti,
+        nella regione sotterranea, con quelli che scendono nella fossa."
+      old_georgian: ძეო კაცისაო, გოდებდ ძალსა ზედა ეგჳპტისასა და მიდრეკილმან მოიზიდე
+        იგი და შთაიყვანენ ასულნი მისნი, წარმართთა მკუდარნი, სიღრმედ ქუეყანისა,
+        შთამავალთა მიმართ მღჳმედ.
+      portuguese: "Filho do homem, pranteia sobre a multidão do Egito, e faze-a
+        descer, a ela e às filhas das nações majestosas, até\ras partes
+        inferiores da terra, juntamente com os que descem à cova."
+      polish: "”Synu człowieczy, biadaj nad ludnością Egiptu i każ jej zstąpić do
+        świata\rpodziemnego, jej i córkom potężnych ludów, do tych, którzy
+        zstąpili do dołu."
+      nrt: – Сын человеческий, оплачь египетские полчища и повергни и их, и Египет, и
+        дочерей сильных народов в нижний мир, к тем, кто спускается в пропасть.
+      Macarius: Сын человеческий! оплачь народ египетский, и проводи его, его и дщерей
+        знаменитых народов в преисподнюю, с отходящими в могилу.
+      serbian: Сине човјечји, наричи за мноштвом Мисирским, и свали њих и кћери јаких
+        народа у најдоњи крај земље с онима који слазе у јаму.
+      bulgarian: сине човешки! оплачи египетския народ и свали го, него и дъщерите на
+        знаменитите народи в преизподнята, заедно с тия, които слизат в гроб.
+      Olesn: "Сын человеческий! \rВозгласи погребальную песнь о множестве народа
+        египетскаго И опусти его, вместе с дочерьми народов\rмогущественных, \rВ
+        землю преисподнюю,\rВместе с сходящими в пропасть."
+      deutsch: Du Menschenkind, beweine das Volk in Ägypten und stoße es mit den
+        Töchtern der starken Heiden hinab unter die Erde zu denen, die in die
+        Grube gefahren sind.
+      ukr2: «Сину чоловічий! Заголоси по численному народові Єгипту! Скинь його,
+        самого його і дочок могутніх народів, у глибину підземну разом із тими,
+        що сходять у яму.
+      ukr3: Сину чоловічий! заголоси по Египецькому народові та й поскидай (віщим
+        словом) його й дочки потужних народів у преисподню до тих, що посходили
+        в яму.
+      bel_syomukha: сыне чалавечы! аплач народ Егіпецкі, і скінь яго, яго і дочак
+        славутых народаў у апраметную, з тымі, што адыходзяць у магілу.
+      czech: '"Lidsky synu, beduj nad hlucicim davem Egypta, sraz jej dolu, jej i
+        dcery pronarodu i jejich vznesene do nejhlubsich utrob zeme s temi, kdo
+        sestupuji do jamy.'
+      spanish: Hijo de hombre, compone un canto lúgubre a la muchedumbre de Egipto.
+        Precipítale a él y a las hijas de las gentes fuertes a las profundidades
+        de la tierra, con los que bajan a la fosa.
+      greek-lxx: υἱὲ ἀνθρώπου θρήνησον ἐπὶ τὴν ἰσχὺν Αἰγύπτου καὶ καταβιβάσουσιν αὐτῆς
+        τὰς θυγατέρας τὰ ἔθνη νεκρὰς εἰς τὸ βάθος τῆς γῆς πρὸς τοὺς
+        καταβαίνοντας εἰς βόθρον
+      st_text: сын человеческий! оплачь народ Египетский, и низринь его, его и дочерей
+        знаменитых народов в преисподнюю, с отходящими в могилу.
+  - id: 17311
+    number: 19
+    bookId: 33
+    text: Кого ты превосходишь? сойди, и лежи с необрезанными.
+    chapter: 32
+    chapterId: 961
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: От вод благолепно сниди и поспи с необрезаными.
+      averincev: ""
+      ungerov: '"От (своих) вод торжественно сойди и усни с необрезанными"!'
+      csya_old: T во1дъ благолёпнw сни1ди и3 поспи2 съ неwбрёзаными.
+      sovr_rbo: Чем ты краше других? Сойди, ложись среди необрезанных !
+      latin: Quo pulchrior es? descende, et dormi cum incircumcisis.
+      ukr: Від кого ти став приємніший? Зійди й покладись з необрізанцями!
+      nkjv: "'Whom do you surpass in beauty? Go down, be placed with the
+        uncircumcised.' "
+      desnitsky: Разве ты лучше прочих? Прочь, лежать тебе вместе с необрезанными!
+      mt: ‫   מִמִּי נָעָמְתָּ רְדָה וְהָשְׁכְּבָה אֶת־עֲרֵלִים׃ ‬
+      romana: Pe cine intreci tu! Coboara-te si zaci cu cei netaiati imprejur!
+      francais: Qui surpasses-tu en beauté? Descends, et couche-toi avec les incirconcis!
+      italian: Di chi tu sei più bello? Scendi e giaci con i non circoncisi.
+      old_georgian: წყალთაგან შუენიერთა შთავიდეს და დაიძინოს წინადაუცუეთელთა თანა.
+      portuguese: A quem sobrepujas tu em beleza? Desce, e deita-te com os incircuncisos.
+      polish: Kogóż przewyższyłaś zaletami? Zstąp i połóż się wśród nieobrzezanych.
+      nrt: "Скажи им: «Кого вы превосходите красотой? Спускайтесь, чтобы лечь с
+        необрезанными»."
+      Macarius: Разве ты лучше кого другого? сойди, и ложись с необрезанными.
+      serbian: Од кога си љепши? Сиђи и лези с необрезанима.
+      bulgarian: Кого ти надминаваш? слез и лежи с необрязани.
+      Olesn: "Разве ты приятнее кого-либо?..\rСойди жe и ложись вместе с
+        необрезанными."
+      deutsch: Wo ist nun deine Wollust? Hinunter, und lege dich zu den Unbeschnittenen!
+      ukr2: Кого ти перевищив красою? Зійди й лягай з необрізаними!
+      ukr3: Кого ти перевисшив? Ійди, лежи з необрізаними!
+      bel_syomukha: Каго ты пераўзыходзіш? сыдзі, і ляжы зь неабрэзанымі.
+      czech: Jsi snad milejsi nez kdokoli jiny? Sestup, budes ulozen k neobrezancum.
+      spanish: ¿Conque nos sobrepasabas por belleza? Baja, baja a la fosa y yace entre
+        los incircuncisos.
+      greek-lxx: ""
+      st_text: Кого ты превосходишь? сойди, и лежи с необрезанными.
+  - id: 17312
+    number: 20
+    bookId: 33
+    text: Те падут среди убитых мечом, и он отдан мечу; влеките его и все множество
+      его.
+    chapter: 32
+    chapterId: 961
+    parallels:
+      - verseId: 32032
+        bookId: 22
+        bookCode: psaltir
+        chapter: 61
+        short: Пс:61:13
+      - verseId: 29831
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 24
+        short: Притч:24:12
+      - verseId: 16886
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 18
+        short: Иез:18:30
+      - verseId: 25295
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 16
+        short: Мф:16:27
+      - verseId: 33007
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 2
+        short: Рим:2:6
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Среде язвеных мечем падут с ним, и успнет вся крепость его.
+      averincev: ""
+      ungerov: Среди пораженных мечем падут с ним и уснут все сильные его.
+      csya_old: СредЁ ћзвеныхъ мече1мъ падyтъ съ ни1мъ, и3 ќспнетъ всS крёпость є3гw2.
+      sovr_rbo: Среди сраженных мечом будут лежать египтяне! Меч уже приготовлен —
+        волочите туда Египет и все его полчища!
+      latin: "In medio interfectorum gladio cadent: gladius datus est; attraxerunt eam
+        et omnes populos ejus."
+      ukr: Попадають серед пробитих мечем, меч даний на те, із ним ляжуть його всі
+        народи...
+      nkjv: '"They shall fall in the midst of those slain by the sword; She is
+        delivered to the sword, Drawing her and all her multitudes.'
+      desnitsky: Они падут среди тех, кто сражен мечом. Меч наготове, тащите Египет и
+        всё его множество!
+      mt: ‫   בְּתוֹךְ חַלְלֵי־חֶרֶב יִפֹּלוּ חֶרֶב נִתָּנָה מָשְׁכוּ אוֹתָהּ
+        וְכָל־הֲמוֹנֶיהָ׃ ‬
+      romana: Aceia au cazut printre cei ucisi de sabie; si el este dat sabiei;
+        tarati-l pe el si toate multimile lui!
+      francais: "Ils tomberont au milieu de ceux qui sont morts par l'épée. Le glaive
+        est donné: Entraînez l'Égypte et toute sa multitude!"
+      italian: Cadranno fra gli uccisi di spada; la spada è già consegnata. Colpite a
+        morte l'Egitto e tutta la sua gente.
+      old_georgian: საშუალ წყლულთა მახჳლისათა დაეცნენ მის თანა და დაიძინოს ყოველმან
+        ძალმან მისმან.
+      portuguese: "No meio daqueles que foram mortos à espada eles cairão; à espada
+        ela está entregue; arrastai-a e a toda a sua\rmultidão."
+      polish: "Polegną wśród pobitych mieczem; [miecz] został wydany: bierzcie go i
+        całą\rjego ludność."
+      nrt: Они падут среди убитых мечом. Меч занесен – гоните Египет прочь с его
+        полчищами.
+      Macarius: Они пали среди убитых мечем; Египет отдан мечу; влеките во гроб его и
+        все множество его.
+      serbian: Пашће посред побијенијех мачем, мач је дат, вуците га и све мноштво
+        његово.
+      bulgarian: Те ще паднат всред убити с меч, и той е на меч предаден; влечете него
+        и цялото му множество.
+      Olesn: "Среди сраженных мечем он должен пасть, Сложивши оружие.\rУносите же его
+        и все множество народа его."
+      deutsch: Sie werden fallen unter denen, die mit dem Schwert erschlagen sind. Das
+        Schwert ist schon gefaßt und gezückt über ihr ganzes Volk.
+      ukr2: Вони впадуть між побитими мечем. Меч дано, тягніть на смерть Єгипет з усім
+        його народом!
+      ukr3: Тії попадають між побитими мечем, та й він одданий мечу; тягнїть його туди
+        з усїм людом його!
+      bel_syomukha: Тыя ўпадуць сярод забітых мечам, і ён аддадзены мечу; цягнеце яго
+        і ўсё мноства яго.
+      czech: Padnou mezi skolene mecem; mec je uz predan. Odtahnete jej i vsechen jeho
+        hlucici dav.
+      spanish: Cae en medio de los muertos a la espada, que la espada ya ha sido
+        entregada; traedlo con toda su pompa.
+      greek-lxx: ἐν μέσῳ τραυματιῶν μαχαίρας πεσοῦνται μετ᾿ αὐτοῦ καὶ κοιμηθήσεται
+        πᾶσα ἡ ἰσχὺς αὐτοῦ
+      st_text: Те падут среди убитых мечом, и он отдан мечу; влеките его и все
+        множество его.
+  - id: 17313
+    number: 21
+    bookId: 33
+    text: Среди преисподней будут говорить о нем и о союзниках его первые из героев;
+      они пали и лежат там между необрезанными, сраженные мечом.
+    chapter: 32
+    chapterId: 961
+    parallels:
+      - verseId: 9154
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 25
+        short: 4 Цар:25:4
+      - verseId: 20074
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 14
+        short: Ис:14:10
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И рекут ти исполини: во глубине пропасти буди, кого лучши еси ты? сниди и
+        лязи с необрезаными среде язвеных мечем."
+      averincev: ""
+      ungerov: "И скажут тебе исполины: будь в глубине преисподней! кого лучше ты?
+        сойди и лежи с необрезанными среди пораженных мечем."
+      csya_old: "И# рекyтъ ти2 и3споли1ни: во глубинЁ про1пасти бyди, когw2 лyчши
+        є3си2 ты2; сни1ди и3 лsзи съ неwбрёзаными средЁ ћзвеныхъ мече1мъ."
+      sovr_rbo: "Могучие воины, сошедшие в Шеол, скажут о Египте и его союзниках: „Вот
+        и они тоже пали, лежат среди необрезанных, убитые мечом!”"
+      latin: Loquentur ei potentissimi robustorum de medio inferni, qui cum
+        auxiliatoribus ejus descenderunt, et dormierunt incircumcisi interfecti
+        gladio.
+      ukr: "Будуть йому говорити сильніші з хоробрих з-посеред шеолу із помічниками:
+        Посходили, полягали ці необрізанці, побиті мечем:"
+      nkjv: "The strong among the mighty Shall speak to him out of the midst of hell
+        With those who help him: 'They have gone down, They lie with the
+        uncircumcised, slain by the sword.' "
+      desnitsky: "Скажут о нем и о его помощниках среди Шеола вожди богатырей: “вот и
+        сошли они, необрезанные, пали, сраженные мечом!”"
+      mt: ‫   יְדַבְּרוּ־לוֹ אֵלֵי גִבּוֹרִים מִתּוֹךְ שְׁאוֹל אֶת־עֹזְרָיו יָרְדוּ
+        שָׁכְבוּ הָעֲרֵלִים חַלְלֵי־חָרֶב׃ ‬
+      romana: In mijlocul locuintei mortilor se va vorbi de el si de cei ce-l
+        sprijineau, cei mai vestiti dintre eroi; aceia au cazut si zac printre
+        cei netaiati imprejur, rapusi de sabie.
+      francais: Les puissants héros lui adresseront la parole Au sein du séjour des
+        morts, Avec ceux qui étaient ses soutiens. Ils sont descendus, ils sont
+        couchés, les incirconcis, Tués par l'épée.
+      italian: "I più potenti eroi si rivolgeranno a lui e ai suoi ausiliari e dagli
+        inferi diranno: Vieni, giaci con i non circoncisi, con i trafitti di
+        spada."
+      old_georgian: "და გრქუან შენ გმირთა: სიღრმესა შინა მთხრებლისასა იქმენ, ვისსა
+        უმჯობეს ხარ? შთავედ, დაიძინე წინადაუცვეთელთა თანა, საშუალ წყლულთა
+        მახჳლისათა."
+      portuguese: "Os poderosos entre os valentes lhe falarão desde o meio do Seol,
+        com os que o socorrem; já desceram, jazem\rquietos os incircuncisos,
+        mortos a espada."
+      polish: "Wtedy powiedzą do niego mocarni bohaterowie ze środka Szeolu: razem
+        ze\rswymi pomocnikami zstępują do dołu i będą leżeć wśród
+        nieobrzezanych, ra\rzem z tymi, których miecz pobije."
+      nrt: "Могучие вожди скажут из мира мертвых о Египте и его помощниках: «Они
+        спустились и лежат с необрезанными, с теми, кто пал от меча»."
+      Macarius: Среди преисподней будут приветствовать его и союзников его
+        первенствовавшие силачи, сраженные мечем необрезанцы, прежде туда
+        сошедшие и там лежащие,
+      serbian: Говориће му најхрабрији јунаци исред гроба с помоћницима његовијем,
+        који сидоше и леже необрезани, побијени мачем.
+      bulgarian: Всред преизподнята ще говорят за него и за съюзниците му, първи
+        измежду юнаците; те паднаха и лежат там между необрязани, убити с меч.
+      Olesn: "Тогда заговорят о нем сильные герои, Среди шеола, и о помощниках его: «И
+        они сошли, слегли необрезанные,\rСраженные мечем»."
+      deutsch: Von ihm werden sagen in der Hölle die starken Helden mit ihren
+        Gehilfen, die alle hinuntergefahren sind und liegen da unter den
+        Unbeschnittenen und mit dem Schwert Erschlagenen.
+      ukr2: "Наймогутніші вояки, з своїми помічниками, з середини Шеолу йому скажуть:
+        Зійшли, лежать необрізані, посічені мечем."
+      ukr3: "Посеред підземля говорити муть про него та про підпомочників його передні
+        між невміраками: Попровалювались, лежать посеред необрізаних, посїчені
+        мечем."
+      bel_syomukha: Сярод апраметнай будуць гаварыць пра яго і пра спрымірэнцаў ягоных
+        першыя з герояў; яны загінулі і ляжаць там сярод неабрэзаных, пабітыя
+        мечам.
+      czech: "Zprostredka podsveti nejsilnejsi bohatyri budou mluvit k nemu a jeho
+        pomahacum: ‚Sestoupili, ulehli neobrezanci skoleni mecem.'"
+      spanish: "En el seol se dirigirán a él los valientes, diciéndole a él y a sus
+        auxiliares: Han bajado a la fosa y yacen entre los incircuncisos, entre
+        los muertos a la espada."
+      greek-lxx: καὶ ἐροῦσίν σοι οἱ γίγαντες ἐν βάθει βόθρου γίνου τίνος κρείττων εἶ
+        κατάβηθι καὶ κοιμήθητι μετὰ ἀπεριτμήτων ἐν μέσῳ τραυματιῶν μαχαίρας
+      st_text: Среди преисподней будут говорить о нем и о союзниках его первые из
+        героев; они пали и лежат там между необрезанными, сраженные мечом.
+  - id: 17314
+    number: 22
+    bookId: 33
+    text: Там Ассур и все полчище его, вокруг него гробы их, все пораженные, павшие
+      от меча.
+    chapter: 32
+    chapterId: 961
+    parallels:
+      - verseId: 17100
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 24
+        short: Иез:24:27
+      - verseId: 17277
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 31
+        short: Иез:31:3
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Тамо ассур и весь сонм его, и вси язвении тамо дашася, и гроб их во
+        глубине пропасти, и быти сонм его окрест гроба его, вси язвении падшии
+        мечем,
+      averincev: ""
+      ungerov: "Там Ассур и все полчище его и все пораженные туда преданы, и гроб их в
+        глубине преисподней, и полчище его вокруг гроба его: все пораженные,
+        падшие от меча,"
+      csya_old: Тaмw ґссyръ и3 ве1сь со1нмъ є3гw2, и3 вси2 ћзвеніи тaмw дaшасz, и3
+        гро1бъ и4хъ во глубинЁ про1пасти, и3 бы1сть со1нмъ є3гw2 њ1крестъ гро1ба
+        є3гw2, вси2 ћзвеніи пaдшіи мече1мъ,
+      sovr_rbo: Там Ассирия и все ее воины, кругом — одни могилы, все мертвецы, павшие
+        от меча.
+      latin: "Ibi Assur, et omnis multitudo ejus: in circuitu illius sepulchra ejus,
+        omnes interfecti, et qui ceciderunt gladio."
+      ukr: Там Ашшур і всі збори його, навколо нього гроби його, всі побиті вони, від
+        меча всі попадали,
+      nkjv: '"Assyria is there, and all her company, With their graves all around her,
+        All of them slain, fallen by the sword.'
+      desnitsky: Там Ассирия и всё полчище ее, кругом их могилы, пали они, сраженные
+        мечом.
+      mt: ‫   שָׁם אַשּׁוּר וְכָל־קְהָלָהּ סְבִיבוֹתָיו קִבְרֹתָיו כֻּלָּם חֲלָלִים
+        הַנֹּפְלִים בֶּחָרֶב׃ ‬
+      romana: Acolo este Asiria si oamenii ei de razboi, imprejurul mormantului ei,
+        toti ucisi, cazuti sub sabie.
+      francais: Là est l'Assyrien, avec toute sa multitude, Et ses sépulcres sont
+        autour de lui; Tous sont morts, sont tombés par l'épée.
+      italian: Là è Assur e tutta la sua gente, intorno al suo sepolcro, uccisi, tutti
+        trafitti di spada;
+      old_georgian: მუნ ასსურ და ყოველი შესაკრებელი მისი, ყოველნი წყლულნი მუნ.
+      portuguese: "Ali está Assur com toda a sua companhia. Em redor dele estão os
+        seus sepulcros; todos eles foram mortos,\rcaíram à espada."
+      polish: "Tam jest Aszszur i wszystkie jego hufce, wokół jego grobu - to wszyscy
+        pobici,\rpolegli od miecza."
+      nrt: Там Ассирия со своим войском; она окружена могилами своих убитых, тех, кто
+        пал от меча.
+      Macarius: Там Ассур и все полчище его; вокруг него гробы его, все заколотые,
+        падшие от меча.
+      serbian: Ондје је Асирац и сав збор његов, гробови су му око њега, сви су
+        побијени, пали од мача.
+      bulgarian: Там е Асур и цялото му пълчище, около него са гробовете им; те всички
+        са поразени, паднали от меч.
+      Olesn: "Сам Ассур вместе с толпою своею, Окруженный гробницами своими.\rВсе это
+        побежденные, павшие от меча."
+      deutsch: Daselbst liegt Assur mit allem seinem Volk umher begraben, die alle
+        erschlagen und durchs Schwert gefallen sind;
+      ukr2: Там Ашшур і вся його сила навколо його гробу; всіх їх повбивано, мечем
+        побито.
+      ukr3: Тут Ассур і вся сила його; гроби їх навкруг його; всїх їх повбивано,
+        посїчено мечем.
+      bel_syomukha: Там Асур і ўсё полчышча ягонае, вакол яго труны іхнія, усе
+        пабітыя, зваяваныя мечам.
+      czech: Tam je Asyrie a cele jeji shromazdeni; kolem krale jsou hroby vsech
+        skolenych, padlych mecem.
+      spanish: Allí está Asur con todos sus ejércitos, cuyos sepulcros están en torno
+        de él.
+      greek-lxx: ἐκεῖ Ασσουρ καὶ πᾶσα ἡ συναγωγὴ αὐτοῦ πάντες τραυματίαι ἐκεῖ ἐδόθησαν
+        καὶ ἡ ταφὴ αὐτῶν ἐν βάθει βόθρου καὶ ἐγενήθη ἡ συναγωγὴ αὐτοῦ περικύκλῳ
+        τοῦ μνήματος αὐτοῦ πάντες οἱ τραυματίαι οἱ πεπτωκότες μαχαίρᾳ
+      st_text: Там Ассур и все полчище его, вокруг него гробы их, все пораженные,
+        павшие от меча.
+  - id: 17315
+    number: 23
+    bookId: 33
+    text: Гробы его поставлены в самой глубине преисподней, и полчище его вокруг
+      гробницы его, все пораженные, павшие от меча, те, которые распространяли
+      ужас на земле живых.
+    chapter: 32
+    chapterId: 961
+    parallels:
+      - verseId: 20079
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 14
+        short: Ис:14:15
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: иже даша гробы его во стегнех рва, и бысть сонм его окрест гроба его, вси
+        тии язвении падающии мечем, иже даша страх свой на земли живых.
+      averincev: ""
+      ungerov: Которые поместили гроб его внутри преисподней, и полчище его вокруг
+        гроба его, все те пораженные, падшие от меча, которые наводили страх
+        свой на земле живых.
+      csya_old: и5же дaша гро1бы є3гw2 во сте1гнэхъ рвA, и3 бы1сть со1нмъ є3гw2
+        њ1крестъ гро1ба є3гw2, вси2 тjи ћзвеніи пaдающіи мече1мъ, и5же дaша
+        стрaхъ сво1й на земли2 живы1хъ.
+      sovr_rbo: Могилы их — в самой глубине преисподней. Все войско ее — одни могилы,
+        все мертвецы, павшие от меча. А когда-то они внушали ужас на земле
+        живых!
+      latin: "Quorum data sunt sepulchra in novissimis laci, et facta est multitudo
+        ejus per gyrum sepulchri ejus: universi interfecti, cadentesque gladio,
+        qui dederant quondam formidinem in terra viventium."
+      ukr: що були його гроби найглибше в могилі, і був його полк біля гробу його, всі
+        побиті вони, від меча всі попадали, що ширили жах по краю живих...
+      nkjv: Her graves are set in the recesses of the Pit, And her company is all
+        around her grave, All of them slain, fallen by the sword, Who caused
+        terror in the land of the living.
+      desnitsky: Похоронена она в самой глубокой могиле, и полчище ее похоронено
+        вокруг нее, все они сражены мечом и пали – те, кто прежде сеял ужас на
+        земле живых.
+      mt: ‫   אֲשֶׁר נִתְּנוּ קִבְרֹתֶיהָ בְּיַרְכְּתֵי־בוֹר וַיְהִי קְהָלָהּ
+        סְבִיבוֹת קְבֻרָתָהּ כֻּלָּם חֲלָלִים נֹפְלִים בַּחֶרֶב אֲשֶׁר־נָתְנוּ
+        חִתִּית בְּאֶרֶץ חַיִּים׃ ‬
+      romana: Mormintele lor sunt asezate chiar in fundul adancului si armata ei
+        imprejurul mormantului ei; toti ucisi, cazuti sub sabie, ei care
+        imprastiau groaza in pamantul celor vii.
+      francais: Ses sépulcres sont dans les profondeurs de la fosse, Et sa multitude
+        est autour de son sépulcre; Tous sont morts, sont tombés par l'épée; Eux
+        qui répandaient la terreur dans le pays des vivants.
+      italian: "poiché le loro sepolture sono poste nel fondo della fossa e la sua
+        gente è intorno alla sua tomba: uccisi, tutti, tra — fitti di spada,
+        essi che seminavano il terrore nella terra dei viventi."
+      old_georgian: მიეცეს საფლავი მათი სიღრმესა შინა მთხრებლისასა; და იყოს
+        შესაკრებელი მისი გარემოჲს საფლავისა მისისა, ყოველნი წყლულნი დაცემულნი
+        მახჳლითა, რომლთა მისცნეს საფლავნი მათნი ნაწილთა შორის ჴნარცჳსათა. და
+        იქმნა შესაკრებელი გარემო, შორის საფლავისა მისისა; ყოველთა მათ წყლულთა,
+        დაცემულთა მახჳლითა, იხილეს საფლავი მისი ქუეყანასა შინა ცხორებისასა და
+        მოიღონ ტანჯვაჲ მათი შთაყვანებადთა თანა მთხრებლად.
+      portuguese: "Os seus sepulcros foram postos no mais interior da cova, e a sua
+        companhia está em redor do seu sepulcro;\rforam mortos, caíram à espada
+        todos esses que tinham causado espanto na terra dos viventes."
+      polish: "Ich groby położone są w najgłębszym dole, a jego hufce są wokół jego
+        grobu\r- to wszyscy pobici, polegli od miecza, ci, którzy szerzyli
+        postrach w kraju\rżyjących."
+      nrt: Их могилы – в глубине пропасти. Ее войско лежит вокруг ее могилы. Те, кто
+        сеял страх на земле живых, убиты, пали от меча.
+      Macarius: Гробы его расставлены по бокам могилы, и полчище его вокруг гробницы
+        его, все заколотые, падшие от меча, распространявшие ужас на земле
+        живых.
+      serbian: Гробови су му у дну јаме, а збор му је око његова гроба; сви су
+        побијени, пали од мача, који задаваху страх земљи живијех.
+      bulgarian: Гробница му туриха в самата длъб на преизподнята, и пълчището му е
+        около гробницата му; всички са поразени, паднали от меч, всички, които
+        разпространяваха ужас по земята на живите.
+      Olesn: "Гробницы его поставлены на краю пропасти И толпа его кругом гробниц
+        его.\rВсе это побежденные, павшие от меча,\rКоторые ужас наводили на
+        землю живых."
+      deutsch: ihre Gräber sind tief in der Grube, und sein Volk liegt allenthalben
+        umher begraben, die alle erschlagen und durchs Schwert gefallen sind,
+        vor denen sich die ganze Welt fürchtete.
+      ukr2: Гроби їхні в самій глибині ями, і вся його сила навкруги його гробу; всіх
+        їх повбивано, мечем побито, їх, що наганяли страх на землю живих.
+      ukr3: Гріб його в самій глибинї преисподньої, а полки його - навкруги домовини
+        його; всї побиті, всї полягли од меча, - тоті, що завдавали колись
+        страху на землї живих.
+      bel_syomukha: Труны яго пастаўлены ў самай глыбіні апраметнай, і полчышча яго
+        вакол грабніцы ягонай, усе пабітыя, што загінулі ад меча, тыя, якія
+        пашыралі жудасьць на зямлі жывых.
+      czech: Vykazali ji hroby v nejhlubsi jame; kolem jejiho hrobu je i jeji
+        shromazdeni, vsichni skoleni, padli mecem, ti, kteri sirili des v zemi
+        zivych.
+      spanish: Están sepultados en lo profundo de la fosa, rodeándole en torno, todos
+        traspasados por la espada, los que sembraron el terror en la tierra de
+        los vivos.
+      greek-lxx: οἱ δόντες τὸν φόβον αὐτῶν ἐπὶ γῆς ζωῆς
+      st_text: Гробы его поставлены в самой глубине преисподней, и полчище его вокруг
+        гробницы его, все пораженные, павшие от меча, те, которые распространяли
+        ужас на земле живых.
+  - id: 17316
+    number: 24
+    bookId: 33
+    text: Так Елам со всем множеством своим вокруг гробницы его, все они пораженные,
+      павшие от меча, которые необрезанными сошли в преисподнюю, которые
+      распространили собою ужас на земле живых и несут позор свой с отшедшими в
+      могилу.
+    chapter: 32
+    chapterId: 961
+    parallels:
+      - verseId: 33074
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 4
+        short: Рим:4:13
+      - verseId: 20894
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 51
+        short: Ис:51:2
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Тамо елам и вся сила его окрест гроба его, вси язвении падшии мечем и
+        низходящии необрезани во глубину земную, давшии страх свой на земли
+        живых:"
+      averincev: ""
+      ungerov: Там Елам и все полчище его вокруг гроба его, все пораженные, падшие от
+        меча и сошедшие необрезанными в глубину земли, наводившие страх свой на
+        земле живых.
+      csya_old: "Тaмw є3лaмъ и3 всS си1ла є3гw2 њ1крестъ гро1ба є3гw2, вси2 ћзвеніи
+        пaдшіи мече1мъ и3 низходsщіи неwбрёзани во глубинY земнyю, дaвшіи стрaхъ
+        сво1й на земли2 живы1хъ:"
+      sovr_rbo: Там Элам и все его полчища, кругом — одни могилы, все мертвецы, павшие
+        от меча, необрезанные, сошедшие в подземный мир. А когда-то они внушали
+        ужас на земле живых. Теперь покрыты позором среди мертвецов в
+        преисподней.
+      latin: "Ibi Aelam, et omnis multitudo ejus per gyrum sepulchri sui: omnes hi
+        interfecti, ruentesque gladio, qui descenderunt incircumcisi ad terram
+        ultimam, qui posuerunt terrorem suum in terra viventium, et portaverunt
+        ignominiam suam cum his qui descendunt in lacum."
+      ukr: Там Елам та ввесь натовп його коло гробу його, всі побиті вони, від меча
+        всі попадали, що зійшли необрізанцями до підземного краю, що ширили жах
+        свій по краю живих, і понесли ганьбу свою з тими, хто сходить в
+        могилу...
+      nkjv: '"There is Elam and all her multitude, All around her grave, All of them
+        slain, fallen by the sword, Who have gone down uncircumcised to the
+        lower parts of the earth, Who caused their terror in the land of the
+        living; Now they bear their shame with those who go down to the Pit.'
+      desnitsky: Там и Элам со всем множеством своих людей, что похоронены вокруг
+        него, все они сражены мечом и пали, сошли необрезанные в могилу – те,
+        кто прежде сеял ужас на земле живых, с позором сошли в могилу.
+      mt: ‫   שָׁם עֵילָם וְכָל־הֲמוֹנָהּ סְבִיבוֹת קְבֻרָתָהּ כֻּלָּם חֲלָלִים
+        הַנֹּפְלִים בַּחֶרֶב אֲשֶׁר־יָרְדוּ עֲרֵלִים אֶל־אֶרֶץ תַּחְתִּיּוֹת
+        אֲשֶׁר נָתְנוּ חִתִּיתָם בְּאֶרֶץ חַיִּים וַיִּשְׂאוּ כְלִמָּתָם
+        אֶת־יוֹרְדֵי בוֹר׃ ‬
+      romana: Acolo este Elam cu toata armata lui imprejurul mormantului sau; toti
+        ucisi, cazuti sub sabie si netaiati imprejur s-au coborat in adancuri,
+        ei care imprastiasera groaza pe pamantul celor vii, iar acum isi poarta
+        rusinea cu cei ce s-au coborat in mormant.
+      francais: Là est Élam, avec toute sa multitude, Autour est son sépulcre; Tous
+        sont morts, sont tombés par l'épée; Ils sont descendus incirconcis dans
+        les profondeurs de la terre, Eux qui répandaient la terreur dans le pays
+        des vivants, Et ils ont porté leur ignominie vers ceux qui descendent
+        dans la fosse.
+      italian: Là è Elam e tutto il suo esercito, intorno al suo sepolcro. Uccisi,
+        tutti, trafitti di spada, scesi non circoncisi nella regione
+        sotterranea, essi che seminavano il terrore nella terra dei viventi. Ora
+        portano la loro ignominia con quelli che scendono nella fossa.
+      old_georgian: მუნ ელამ და ყოველი ძალი მისი გარემოჲს საფლავისა მისისა და ყოველი
+        სიმრავლე მისი, ყოველნი წყლულნი, დაცემულნი მახჳლებითა, და შთამავალნი,
+        წინადაუცვეთელნი ქუეყანად სიღრმესა, რომელთა მისცეს შიში მათი ქუეყანასა
+        ზედა ცხოვრებისასა და მოიღეს ტანჯვაჲ მათი შთამავალთა თანა მღჳმედ, საშუალ
+        წყლულთასა
+      portuguese: "Ali está Elão com toda a sua multidão em redor do seu sepulcro;
+        foram mortos, cairam a espada, e desceram\rincircuncisos às partes
+        inferiores da terra, todos esses que causaram terror na terra dos
+        viventes; e levaram a sua\rvergonha juntamente com os que descem à
+        cova."
+      polish: "Tam jest Elam i całe jego mnóstwo wokół jego grobu - to wszyscy
+        pobici,\rpolegli od miecza, którzy zstąpili nieobrzezani do świata
+        podziemnego, oni,\rktórzy postrach szerzyli w kraju żyjących, hańbę
+        cierpią z tymi, którzy zstąpili do dołu."
+      nrt: Там Елам со своими полчищами вокруг его могилы. Они убиты, пали от меча.
+        Те, кто сеял страх на земле живых, сошли необрезанными в нижний мир. Они
+        несут свой позор с теми, кто спустился в пропасть.
+      Macarius: Там Елам со всем множеством своим вокруг гробницы его, все заколотые,
+        падшие от меча, которые необрезанными сошли в преисподнюю, которые,
+        распространив собою ужас на земле живых, понесли с собою стыд наравне с
+        прочими отходящими в могилу.
+      serbian: Ондје је Елам и све мноштво његово око његова гроба; сви су побијени,
+        пали од мача, који сидоше необрезани на најдоњи крај земље, који
+        задаваху страх земљи живијех; и носе срамоту своју с онима који слазе у
+        јаму.
+      bulgarian: Там е Елам с цялото си множество около гробницата му; всички те са
+        поразени и паднали от меч; те необрязани слязоха в преизподнята, те,
+        които разпространяваха чрез себе си ужас по земята на живите и носят
+        позора си със слезлите в гроб.
+      Olesn: "Там Елам и все множество народа его Кругом гробницы его.\rВсе это
+        побежденные, павшие от меча;\rОни сошли необрезанные в землю
+        преисподнюю, Которые ужас наводили на землю живых; \rИ понесли стыд
+        свой\rВместе с сходящими в пропасть."
+      deutsch: Da liegt auch Elam mit allem seinem Haufen umher begraben, die alle
+        erschlagen und durchs Schwert gefallen sind und hinuntergefahren als die
+        Unbeschnittenen unter die Erde, vor denen sich auch alle Welt fürchtete;
+        und müssen ihre Schande tragen mit denen, die in die Grube gefahren
+        sind.
+      ukr2: Там Елам і ввесь його люд навколо його гробу; всіх їх повбивано, мечем
+        побито, їх, що необрізаними зійшли у глибини підземні, що наганяли страх
+        на землю живих. Тепер вони несуть ганьбу на собі разом із тими, що
+        зійшли в яму.
+      ukr3: Там Елам із усією силою своєю навкруги домовини його, а всї вони побиті,
+        всї полягли од меча, всї необрізаними пійшли на той сьвіт, - тоті, що
+        колись ширили страх поперед себе на землї живих, а тепер двигають ганьбу
+        свою вкупі з тими, що зойшли в яму.
+      bel_syomukha: Там Элам з усім мноствам сваім вакол магільніцы ягонай, усе яны -
+        пабітыя, што загінулі ад меча, якія неабрэзанымі сышлі ў апраметную,
+        якія распаўсюдзілі сабою жах на землі жывых і нясуць ганьбу сваю з тымі,
+        што адышлі ў магілу.
+      czech: Tam je Elam, kolem jeho hrobu vsechen jeho hlucici dav, vsichni skoleni,
+        padli mecem, neobrezanci, kteri sestoupili do nejhlubsich utrob zeme;
+        sirili svuj des v zemi zivych, nesou hanbu s temi, kdo sestupuji do
+        jamy.
+      spanish: Allí está Elam con todas sus mesnadas en torno de su sepulcro; todos
+        los muertos a la espada cayeron, y bajaron incircuncisos a lo profundo
+        de la fosa. Los que esparcieron el terror en la tierra de los vivos,
+        trajeron su ignominia a lo profundo de la fosa.
+      greek-lxx: ἐκεῖ αιλαμ καὶ πᾶσα ἡ δύναμις αὐτοῦ περικύκλῳ τοῦ μνήματος αὐτοῦ
+        πάντες οἱ τραυματίαι οἱ πεπτωκότες μαχαίρᾳ καὶ οἱ καταβαίνοντες
+        ἀπερίτμητοι εἰς γῆς βάθος οἱ δεδωκότες αὐτῶν φόβον ἐπὶ γῆς ζωῆς καὶ
+        ἐλάβοσαν τὴν βάσανον αὐτῶν μετὰ τῶν καταβαινόντων εἰς βόθρον
+      st_text: Так Елам со всем множеством своим вокруг гробницы его, все они
+        пораженные, павшие от меча, которые необрезанными сошли в преисподнюю,
+        которые распространили собою ужас на земле живых и несут позор свой с
+        отшедшими в могилу.
+  - id: 17317
+    number: 25
+    bookId: 33
+    text: Среди пораженных дали ложе ему со всем множеством его; вокруг него гробы
+      их, все необрезанные, пораженные мечом; и как они распространяли ужас на
+      земле живых, то и несут на себе позор наравне с отшедшими в могилу и
+      положены среди пораженных.
+    chapter: 32
+    chapterId: 961
+    parallels:
+      - verseId: 36060
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 12
+        short: Втор:12:23
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и прияша мучение свое с низходящими в пропасть, среде язвеных.
+      averincev: ""
+      ungerov: И несут мучение свое с нисходящими в преисподнюю, среди пораженных.
+      csya_old: и3 пріsша муче1ніе свое2 съ низходsщими въ про1пасть, средЁ ћзвеныхъ.
+      sovr_rbo: Среди убитых теперь ложе Элама, вместе с его полчищами. Кругом — одни
+        могилы, все необрезанные, убитые мечом. А когда-то они внушали ужас на
+        земле живых. Теперь покрыты позором среди мертвецов в преисподней, среди
+        убитых лежат.
+      latin: "In medio interfectorum posuerunt cubile ejus in universis populis ejus:
+        in circuitu ejus sepulchrum illius: omnes hi incircumcisi, interfectique
+        gladio. Dederunt enim terrorem suum in terra viventium, et portaverunt
+        ignominiam suam cum his qui descendunt in lacum: in medio interfectorum
+        positi sunt."
+      ukr: Дали йому ложе посеред побитих зо всім многолюдством його, гроби його коло
+        нього, всі вони необрізанці, побиті мечем, бо ширили жах свій по краю
+        живих і понесли ганьбу свою з тими, хто сходить в могилу, посеред
+        побитих покладений він...
+      nkjv: They have set her bed in the midst of the slain, With all her multitude,
+        With her graves all around it, All of them uncircumcised, slain by the
+        sword; Though their terror was caused In the land of the living, Yet
+        they bear their shame With those who go down to the Pit; It was put in
+        the midst of the slain.
+      desnitsky: Среди сраженных Элам положили, а с ним и всё множество его людей,
+        вокруг их могилы. Все они необрезаны и сражены мечом – сеяли прежде ужас
+        на земле живых, а теперь с позором сошли в могилу, лежат среди
+        поверженных.
+      mt: ‫   בְּתוֹךְ חֲלָלִים נָתְנוּ מִשְׁכָּב לָהּ בְּכָל־הֲמוֹנָהּ סְבִיבוֹתָיו
+        קִבְרֹתֶהָ כֻּלָּם עֲרֵלִים חַלְלֵי־חֶרֶב כִּי־נִתַּן חִתִּיתָם בְּאֶרֶץ
+        חַיִּים וַיִּשְׂאוּ כְלִמָּתָם אֶת־יוֹרְדֵי בוֹר בְּתוֹךְ חֲלָלִים
+        נִתָּן׃ ‬
+      romana: In mijlocul ucisilor l-am culcat impreuna cu toata multimea oamenilor
+        lui si mormintele lor sunt imprejurul lui; toti acesti netaiati imprejur
+        sunt ucisi de sabie; si dupa cum au imprastiat groaza pe pamantul celor
+        vii, asa isi poarta rusinea lor alaturi de cei ce s-au coborat in
+        mormant si sunt asezati printre cei ucisi.
+      francais: On a fait sa couche parmi les morts avec toute sa multitude, Et ses
+        sépulcres sont autour de lui; Tous ces incirconcis sont morts par
+        l'épée, Car ils répandaient la terreur dans le pays des vivants, Et ils
+        ont porté leur  ignominie vers ceux qui descendent dans la fosse; Ils
+        ont été placés parmi les morts.
+      italian: In mezzo ai trafitti posero il suo giaciglio e tutta la sua gente
+        intorno al suo sepolcro, tutti non circoncisi, trafitti di spada; perché
+        avevano sparso il terrore nella terra dei viventi, portano la loro
+        ignominia con quelli che scendono nella fossa; sono stati collocati in
+        mezzo ai trafitti di spada.
+      old_georgian: მიეცა საწოლი მისი, ყოვლისა თანა სიმრავლისა, თითოეულისა გარემოჲს
+        საფლავი მისი, ყოველთა წინადაუცვეთელთა წყლულთა მახჳლითა.
+      portuguese: "No meio dos mortos lhe puseram a cama entre toda a sua multidão; ao
+        redor dele estão os seus sepulcros;\rtodos esses incircuncisos foram
+        mortos à espada; porque causaram terror na terra dos viventes; e levaram
+        a sua\rvergonha com os que descem à cova. Está posto no meio dos
+        mortos."
+      polish: "Pośród pobitych zgotowano mu leże i całe jego mnóstwo jest wokół jego
+        grobu. Wszyscy ci są nieobrzezani, pobici mieczem, albowiem strach przed
+        nimi\rszerzył się w kraju żyjących, a teraz cierpią swą hańbę z tymi,
+        którzy zstąpili\rdo dołu; pośród pobitych zostali umieszczeni."
+      nrt: Еламу приготовили ложе среди убитых, и его полчища лежат вокруг его могилы.
+        Они – необрезанные, убитые мечом. За то, что страх перед ними
+        распространялся по земле живых, они несут свой позор вместе с теми, кто
+        спустился в пропасть, их положили среди убитых.
+      Macarius: Среди заколотых дали ложе ему со всем множеством его; вокруг его
+        гробницы, его все необрезанные, убитые мечем; поелику страх их
+        распространялся на земле живых, то они и несут на себе стыд наравне с
+        прочими отшедшими в могилу, быв положены среди заколотых.
+      serbian: Међу побијенима намјестише постељу њему и свему мноштву његову, гробови
+        су му око њега, сви су необрезани побијени мачем, који задаваху страх
+        земљи живијех; и носе срамоту своју с онима који слазе у јаму, метнути
+        су међу побијене.
+      bulgarian: "Всред поразените му дадоха легло с цялото му множество; около него
+        са гробовете им: всички необрязани са поразени с меч, понеже
+        разпространяваха ужас в земята на живите; те и носят върху си позора
+        наравно с ония, които са слезли в гроб и са положени между поразените."
+      Olesn: "Среди побежденных дали ложе ему, \rСо всем множеством народа
+        его,\rОкруженное гробницами его.\rВсе это необрезанные, сраженные
+        мечем,\rОни ужас наводили на землю живых И понесли стыд свой вместе с
+        сходящими в пропасть,\rПоложены среди побежденных."
+      deutsch: Man hat sie unter die Erschlagenen gelegt samt allem ihrem Haufen, und
+        liegen umher begraben; und sind alle, wie die Unbeschnittenen und mit
+        dem Schwert Erschlagenen, vor denen sich auch alle Welt fürchten mußte;
+        und müssen ihre Schande tragen mit denen, die in die Grube gefahren
+        sind, und unter den Erschlagenen bleiben.
+      ukr2: Серед побитих напоготовано ложе для нього разом з усім його людом, навколо
+        його гробу. Всі вони необрізані, мечем побиті; вони наганяли страх на
+        землю живих, от тепер і несуть ганьбу на собі разом із тими, що зійшли в
+        яму. Їх покладено серед побитих.
+      ukr3: Серед побитих наготовано лїгво його з усїм військом його; домовини їх
+        округи його, а всї вони необрізані, мечем порубані; позаяк бо вони
+        завдавали страху на землї живих, то й несуть тепер ганьбу на собі вкупі
+        з тими, що посходили в яму, та лежать серед побитих.
+      bel_syomukha: "Сярод пабітых далі ложак яму з усім мноствам ягоным; вакол яго -
+        труны іхнія, усе неабрэзаныя, пабітыя мечам: і як ён пашыраў жах на
+        зямлі жывых, дык і нясуць на сабе ганьбу нароўні з тымі, што адышлі ў
+        магілу і пакладзены сярод пабітых."
+      czech: Dali mu loze mezi skolenymi, se vsim jeho hlucicim davem. Kolem krale
+        jsou hroby vsech jeho neobrezancu, skolenych mecem; sirili svuj des v
+        zemi zivych, nesou hanbu s temi, kdo sestupuji do jamy. Vykazali mu hrob
+        mezi skolenymi.
+      spanish: En medio de los muertos pusieron su lecho para él y sus muchedumbres.
+        Sus sepulcros lo rodean, todos incircuncisos, muertos a la espada.
+        Sembraron el espanto en la tierra de los vivos, pero vinieron con su
+        ignominia a unirse con los que bajaron al seol y yacen en medio de los
+        muertos.
+      greek-lxx: ἐν μέσῳ τραυματιῶν
+      st_text: Среди пораженных дали ложе ему со всем множеством его; вокруг него
+        гробы их, все необрезанные, пораженные мечом; и как они распространяли
+        ужас на земле живых, то и несут на себе позор наравне с отшедшими в
+        могилу и положены среди пораженных.
+  - id: 17318
+    number: 26
+    bookId: 33
+    text: Там Мешех и Фувал со всем множеством своим; вокруг него гробы их, все
+      необрезанные, пораженные мечом, потому что они распространяли ужас на
+      земле живых.
+    chapter: 32
+    chapterId: 961
+    parallels:
+      - verseId: 17004
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 22
+        short: Иез:22:11
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Тамо дашася мосох, и фовель, и вся сила его, окрест гроба его, вси
+        необрезаннии язвении от меча, давшии страх свой на земли жизни.
+      averincev: ""
+      ungerov: Туда преданы Мосох и Фовел, и все полчище его вокруг гроба его, все
+        необрезанные, пораженные мечем, наводившие страх свой на земле живых.
+      csya_old: Тaмw дaшасz мосо1хъ, и3 fове1ль, и3 всS си1ла є3гw2, њ1крестъ гро1ба
+        є3гw2, вси2 неwбрёзанніи ћзвеніи t мечA, дaвшіи стрaхъ сво1й на земли2
+        жи1зни.
+      sovr_rbo: Там Мешех и Тувал и все их полчища, кругом — одни могилы, все
+        необрезанные, убитые мечом. А когда-то они внушали ужас на земле живых.
+      latin: "Ibi Mosoch et Thubal, et omnis multitudo ejus: in circuitu ejus
+        sepulchra illius: omnes hi incircumcisi, interfectique et cadentes
+        gladio, quia dederunt formidinem suam in terra viventium."
+      ukr: Там Мешех, Тувал та все многолюдство його, гроби його коло нього, всі вони
+        необрізанці, побиті мечем, бо ширили жах свій по краю живих...
+      nkjv: '"There are Meshech and Tubal and all their multitudes, With all their
+        graves around it, All of them uncircumcised, slain by the sword, Though
+        they caused their terror in the land of the living.'
+      desnitsky: Там Мешех и Тувал со всем множеством своих людей, что похоронены
+        вокруг них. Все они необрезаны и сражены мечом – те, кто прежде сеял
+        ужас на земле живых.
+      mt: ‫   שָׁם מֶשֶׁךְ תֻּבַל וְכָל־הֲמוֹנָהּ סְבִיבוֹתָיו קִבְרוֹתֶיהָ כֻּלָּם
+        עֲרֵלִים מְחֻלְלֵי חֶרֶב כִּי־נָתְנוּ חִתִּיתָם בְּאֶרֶץ חַיִּים׃ ‬
+      romana: Acolo sunt Mesec si Tubal cu toata multimea lor de popor si mormintele
+        lor sunt imprejurul lor; toti acesti netaiati imprejur au murit de
+        sabie, pentru ca au imprastiat groaza pe pamantul celor vii.
+      francais: Là sont Méschec, Tubal, et toute leur multitude, Et leurs sépulcres
+        sont autour d'eux; Tous ces incirconcis sont morts par l'épée, Car ils
+        répandaient la terreur dans le pays des vivants.
+      italian: "Là è Mesech, Tubal e tutta la sua gente, intorno al suo sepolcro:
+        tutti non circoncisi, trafitti di spada, perché incutevano il terrore
+        nella terra dei viventi."
+      old_georgian: მუნ მიეცნეს მოსოქ და თობელ და ყოველი ძალი თითოეულისა მათისა,
+        საფლავისა მისისა გარემოჲსთაგანისა, ყოველნი წყლულნი მათნი, ყოველნი
+        წინადაუცვეთელნი, წყლულნი მახჳლისა მიერ, მიმცემელნი შიშსა მათსა ქუეყანასა
+        ზედა ცხორებისასა.
+      portuguese: "Ali estão Meseque, Tubal e toda a sua multidão; ao redor deles
+        estão os seus sepulcros; todos esses\rincircuncisos foram mortos à
+        espada; porque causaram terror na terra dos viventes."
+      polish: Tam jest Meszek, Tubal i całe ich mnóstwo wokół ich grobu, wszyscy
+        nieobrzezani, mieczem pobici, albowiem postrach szerzyli w kraju
+        żyjących.
+      nrt: Там Мешех и Тувал со своими полчищами вокруг их могил. Они – необрезанные,
+        убитые мечом за то, что сеяли страх на земле живых.
+      Macarius: Там Мешех, Тувал, со всем множеством своим, вокруг его гробницы его,
+        все необрезанные, убитые мечем, потому что они распространяли собою ужас
+        на земле живых.
+      serbian: Ондје је Месех, Тувал и све мноштво његово, гробови су му око њега, сви
+        су необрезани побијени мачем, који задаваху страх земљи живијех.
+      bulgarian: "Там са Мешех и Тувал с цялото си множество; около него са гробовете
+        им: всички необрязани, поразени с меч; защото разпространяваха ужас в
+        земята на живите."
+      Olesn: "Там Мешех, Тубал и все множество народа его,\rОкруженные гробницами
+        своими.\rВсе это необрезанные, сраженные мечем,\rЧто ужас наводили на
+        землю живых."
+      deutsch: Da liegt Mesech und Thubal mit allem ihrem Haufen umher begraben, die
+        alle unbeschnitten sind, vor denen sich auch die ganze Welt fürchten
+        mußte;
+      ukr2: Там Мешех і Тувал з усім своїм людом навколо його гробу. Всі вони
+        необрізані, побиті мечем за те, що наганяли страх на землю живих.
+      ukr3: Там лежить Мешех, Тубал із усією громадою своєю; кругом його домовини їх,
+        а всї необрізані, побиті мечем, за те, що перше завдавали страху всїм на
+        землї живих.
+      bel_syomukha: Там Мэшэх і Тувал з усім мноствам сваім; вакол яго - труны іхнія,
+        усе неабрэзаныя, пабітыя мечам, бо яны разносілі жах па зямлі жывых.
+      czech: Tam je Mesek-Tubal a vsechen jejich hlucici dav; kolem krale jsou hroby
+        vsech neobrezancu, skolenych mecem; sirili svuj des v zemi zivych.
+      spanish: Allí Mesec y Túbal, con todos sus ejércitos, cuyos sepulcros le rodean;
+        todos incircuncisos, muertos a la espada, los que aterrorizaban a la
+        tierra de los vivos.
+      greek-lxx: ἐκεῖ ἐδόθησαν Μοσοχ καὶ Θοβελ καὶ πᾶσα ἡ ἰσχὺς αὐτῶν περικύκλῳ τοῦ
+        μνήματος αὐτοῦ πάντες τραυματίαι αὐτοῦ πάντες ἀπερίτμητοι τραυματίαι ἀπὸ
+        μαχαίρας οἱ δεδωκότες τὸν φόβον αὐτῶν ἐπὶ γῆς ζωῆς
+      st_text: Там Мешех и Фувал со всем множеством своим; вокруг него гробы их, все
+        необрезанные, пораженные мечом, потому что они распространяли ужас на
+        земле живых.
+  - id: 17319
+    number: 27
+    bookId: 33
+    text: Не должны ли [<i>и</i>] они лежать с павшими героями необрезанными,
+      которые с воинским оружием своим сошли в преисподнюю и мечи свои положили
+      себе под головы, и осталось беззаконие их на костях их, потому что они,
+      как сильные, были ужасом на земле живых.
+    chapter: 32
+    chapterId: 961
+    parallels:
+      - verseId: 9569
+        bookId: 37
+        bookCode: kniga-proroka-amosa
+        chapter: 9
+        short: Ам:9:3
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И успоша со исполины падшими от века, иже снидоша во ад во оружии воинстем
+        и положиша мечы своя под главы своя, и быша беззакония их на костех их,
+        яко устрашиша всех во житии своем, и страх сильным быша на земли
+        живущым.
+      averincev: ""
+      ungerov: И уснули с исполинами, падшими от века, которые сошли в ад с оружием
+        воинским и положили мечи свои под головы свои, и были беззакония их на
+        костях их, ибо устрашали всех в жизни своей и были ужасом для исполинов,
+        живших на земле.
+      csya_old: И# ўспо1ша со и3споли6ны пaдшими t вёка, и5же снидо1ша во ѓдъ во
+        nрyжіи во1инстэмъ и3 положи1ша мечы2 сво‰ под8 главы6 сво‰, и3 бы1ша
+        беззакHніz и4хъ на косте1хъ и4хъ, ћкw ўстраши1ша всёхъ во житіи2
+        свое1мъ, и3 стрaхъ си6льнымъ бы1ша на земли2 живyщымъ.
+      sovr_rbo: Суждено и египтянам лечь вместе с павшими воинами необрезанными,
+        сошедшими в Шеол в воинских доспехах, под головами которых меч, на
+        костях — щит. А когда-то внушали они ужас на земле живых.
+      latin: "Et non dormient cum fortibus, cadentibusque, et incircumcisis, qui
+        descenderunt ad infernum cum armis suis, et posuerunt gladios suos sub
+        capitibus suis, et fuerunt iniquitates eorum in ossibus eorum: quia
+        terror fortium facti sunt in terra viventium."
+      ukr: І не будуть лежати із лицарями, що попадали із необрізанців, що зійшли до
+        шеолу з військовим знаряддям своїм, і поклали свої мечі під свої голови,
+        і їхня провина на їхніх костях, бо жах перед лицарями був у краї живих,
+      nkjv: They do not lie with the mighty Who are fallen of the uncircumcised, Who
+        have gone down to hell with their weapons of war; They have laid their
+        swords under their heads, But their iniquities will be on their bones,
+        Because of the terror of the mighty in the land of the living.
+      desnitsky: Они не лежат с павшими богатырями из необрезанных, что сошли в Шеол
+        со своим оружием, и мечи положили себе под головы, а вина их осталась на
+        их костях, потому что богатыри эти сеяли ужас на земле живых.
+      mt: ‫   וְלֹא יִשְׁכְּבוּ אֶת־גִּבּוֹרִים נֹפְלִים מֵעֲרֵלִים אֲשֶׁר
+        יָרְדוּ־שְׁאוֹל בִּכְלֵי־מִלְחַמְתָּם וַיִּתְּנוּ אֶת־חַרְבוֹתָם תַּחַת
+        רָאשֵׁיהֶם וַתְּהִי עֲוֺנֹתָם עַל־עַצְמוֹתָם כִּי־חִתִּית גִּבּוֹרִים
+        בְּאֶרֶץ חַיִּים׃ ‬
+      romana: Nu trebuia oare sa zaca si ei printre vitejii cazuti dintre cei netaiati
+        imprejur, care cu armele lor de razboi s-au coborat in locuinta mortilor
+        si sabiile lor si le-au pus sub cap si faradelegea lor a ramas pe oasele
+        lor, pentru ca ei, ca niste puternici, au fost o spaima pe pamantul
+        celor vii?
+      francais: Ils ne sont pas couchés avec les héros, Ceux qui sont tombés d'entre
+        les incirconcis; Ils sont descendus au séjour des morts avec leurs armes
+        de guerre, Ils ont mis leurs épées sous leurs têtes, Et leurs iniquités
+        ont été sur leurs ossements; Car ils étaient la terreur des héros dans
+        le pays des vivants.
+      italian: Non giaceranno al fianco degli eroi caduti da secoli, che scesero negli
+        inferi con le armi di guerra, con le spade disposte sotto il loro capo e
+        con gli scudi sulle loro ossa, perché tali eroi erano un terrore nella
+        terra dei viventi.
+      old_georgian: და დაიძინეს გმირთა თანა, დაცემულთა საუკუნეთა და საუკუნითგან,
+        რომელნი შთავიდეს ჯოჯოხეთად საჭურველთა მათთა თანა საბრძოლელთა; და დასხნეს
+        მახჳლნი მათნი ქუეშე თავთა მათთა, და იქმნეს უსჯულოებანი მათნი ძუალთა ზედა
+        მათთა, რამეთუ ეშიშვოდეს გმირთა ცხორებასა შინა მათსა, და შიში მძლავრთაჲ
+        იყო ქუეყანასა შინა ცოცხალთასა.
+      portuguese: "E não jazem com os valentes que dentre os incircuncisos caíram, os
+        quais desceram ao Seol com as suas armas\rde guerra e puseram as suas
+        espadas debaixo das suas cabeças, tendo os seus escudos sobre os seus
+        ossos;\rporque eram o terror dos poderosos na terra dos viventes."
+      polish: "A leżą oni nie przy bohaterach, którzy padli w czasach pradawnych,
+        którzy\rw pełnej zbroi bojowej zstąpili do Szeolu, którym podłożono ich
+        miecze pod\rgłowy, a ich tarcze na ich kości, gdyż byli postrachem dla
+        bohaterów w kraju\rżyjących."
+      nrt: Не лежат они с павшими воинами древности, которые сошли в мир мертвых с
+        оружием, чьи мечи положены им под голову, чьи беззакония покоятся на их
+        костях. Эти воины некогда сеяли страх на земле живых.
+      Macarius: Не легли ли и они с силачами падшими, из числа необрезанных, которые с
+        воинским оружием своим сошли в преисподнюю, и мечи свои положили себе
+        под головы, и осталось беззаконие их на костях их, ибо страх силачей на
+        земле живых.
+      serbian: Али не леже међу јунацима који падоше између необрезанијех, који сидоше
+        у гроб с оружјем својим, и метнуше мачеве под главе своје, и безакоње
+        њихово лежи на костима њиховијем, ако и бијаху јунаци страшни на земљи
+        живијех.
+      bulgarian: Не трябва те да лежат с падналите необрязани юнаци, които с бойното
+        си оръжие слязоха в преизподнята и туриха своите мечове под главите си;
+        тяхното беззаконие остана върху костите им, понеже те, бидейки силни,
+        бяха ужас в земята на живите.
+      Olesn: "Они будут лежать вместе с героями, павшими от века,\rС теми, которые
+        сошли в шеол с своими\rорудиями военными\rИ положили мечи свои под
+        головы свои,\rНа костях которых была вина их,\rПотому что ужас героев
+        был по всей земле."
+      deutsch: und alle andern Helden, die unter den Unbeschnittenen gefallen und mit
+        ihrer Kriegswehr zur Hölle gefahren sind und ihre Schwerter unter ihre
+        Häupter haben müssen legen und deren Missetat über ihre Gebeine gekommen
+        ist, die doch auch gefürchtete Helden waren in der ganzen Welt; also
+        müssen sie liegen.
+      ukr2: "Вони не лежать з вояками, що колись упали, що зійшли у Шеол у своїй
+        бойовій зброї: мечі їхні покладено їм під голови, а їхні щити їм під
+        кості, - бо страх перед цими вояками панував на землі живих."
+      ukr3: А годї їм лежати коло невміраків побитих, необрізаних, що посходили в
+        підземлє у своїй боєвій зброї, а мечі їх покладено їм під голови, хоч і
+        зосталось беззаконство їх на костях у них, за те, що вони, як силачі,
+        були пострахом на землї живих.
+      bel_syomukha: Ці не павінны і яны ляжаць зь мёртвымі неабрэзанымі героямі, якія
+        з вайсковай зброяй сваёю сышлі ў апраметную і мечы свае паклалі сабе пад
+        галовы, і засталася пахібнасьць іхняя на касьцях іхніх, бо яны, як
+        дужыя, былі жудасьцю на зямлі жывых.
+      czech: Nebudou lezet s bohatyry, padli jako neobrezanci. Oni sestoupili do
+        podsveti se svou valecnou zbroji a pod hlavy jim byly dany jejich mece.
+        Jejich nepravosti vsak lpi na jejich kostech, nebot des onech bohatyru
+        byl v zemi zivych. –
+      spanish: No yacen con los héroes los caídos de antiguo, que descendieron a la
+        morada de los muertos con sus armas de guerra, la espada bajo sus
+        cabezas y el escudo sobre sus huesos, con haber sido el terror de los
+        guerreros en la tierra de los vivos.
+      greek-lxx: καὶ ἐκοιμήθησαν μετὰ τῶν γιγάντων τῶν πεπτωκότων ἀπὸ αἰῶνος οἳ
+        κατέβησαν εἰς ᾅδου ἐν ὅπλοις πολεμικοῖς καὶ ἔθηκαν τὰς μαχαίρας αὐτῶν
+        ὑπὸ τὰς κεφαλὰς αὐτῶν καὶ ἐγενήθησαν αἱ ἀνομίαι αὐτῶν ἐπὶ τῶν ὀστῶν
+        αὐτῶν ὅτι ἐξεφόβησαν γίγαντας ἐν γῇ ζωῆς
+      st_text: Не должны ли [<i>и</i>] они лежать с павшими героями необрезанными,
+        которые с воинским оружием своим сошли в преисподнюю и мечи свои
+        положили себе под головы, и осталось беззаконие их на костях их, потому
+        что они, как сильные, были ужасом на земле живых.
+  - id: 17320
+    number: 28
+    bookId: 33
+    text: И ты будешь сокрушен среди необрезанных и лежать с пораженными мечом.
+    chapter: 32
+    chapterId: 961
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И ты посреде необрезанных сокрушишися и поспиши со язвеными мечем.
+      averincev: ""
+      ungerov: И ты среди необрезанных будешь сокрушен и уснешь с пораженными мечем.
+      csya_old: И# ты2 посредЁ неwбрёзанныхъ сокруши1шисz и3 поспи1ши со ћзвеными
+        мече1мъ.
+      sovr_rbo: Будешь и ты уничтожен, словно необрезанные, ляжешь среди убитых мечом!
+      latin: Et tu ergo in medio incircumcisorum contereris, et dormies cum
+        interfectis gladio.
+      ukr: а ти розпорошений між необрізанцями, і поляжеш із тими, хто побитий
+        мечем...
+      nkjv: Yes, you shall be broken in the midst of the uncircumcised, And lie with
+        those slain by the sword.
+      desnitsky: И ты будешь уничтожен среди необрезанных, падешь среди сраженных мечом.
+      mt: ‫   וְאַתָּה בְּתוֹךְ עֲרֵלִים תִּשָּׁבַר וְתִשְׁכַּב אֶת־חַלְלֵי־חָרֶב׃ ‬
+      romana: Si tu, Faraoane, vei fi zdrobit in mijlocul celor netaiati imprejur si
+        vei zacea impreuna cu cei ucisi de sabie.
+      francais: Toi aussi, tu seras brisé au milieu des incirconcis; Tu seras couché
+        avec ceux qui sont morts par l'épée.
+      italian: Così tu giacerai fra i non circoncisi e con i trafitti di spada.
+      old_georgian: და შენ შორის წინადაუცუეთელთასა შეიმუსრო და დაიძინო წყლულთა თანა მახჳლითა.
+      portuguese: Mas tu serás quebrado no meio dos incircuncisos, e jazerás com os
+        que foram mortos a espada.
+      polish: "A ”ty będziesz rzucony” pośród nieobrzezanych ”i będziesz musiał
+        leżeć”\rwśród tych, co mieczem zostali pobici."
+      nrt: И ты, фараон, будешь сокрушен и ляжешь среди необрезанных, возле тех, кто
+        пал от меча.
+      Macarius: И ты среди необрезанных, тлеть будешь и ляжешь с убитыми мечем.
+      serbian: И ти ћеш се сатрти међу необрезанима, и лежаћеш код побијенијех мачем.
+      bulgarian: И ти ще бъдеш смазан всред необрязаните и ще лежиш с поразените от меч.
+      Olesn: "Так и ты, будучи сокрушен между необрезанными,\rСляжешь вместе с
+        сраженными мечем."
+      deutsch: So mußt du freilich auch unter den Unbeschnittenen zerschmettert werden
+        und unter denen, die mit dem Schwert erschlagen sind, liegen.
+      ukr2: Ти теж лежатимеш між необрізаними разом з побитими мечем.
+      ukr3: Та й ти стертий будеш між необрізаними й лежати меш із побитими мечем.
+      bel_syomukha: І ты будзеш зламаны сярод неабрэзаных і ляжаць з пабітымі мечам.
+      czech: I ty, faraone, budes zlomen, svrzen mezi neobrezance, ulehnes ke skolenym
+        mecem.
+      spanish: También tú serás quebrantado entre los incircuncisos y yacerás con los
+        muertos a la espada.
+      greek-lxx: καὶ σὺ ἐν μέσῳ ἀπεριτμήτων κοιμηθήσῃ μετὰ τετραυματισμένων μαχαίρᾳ
+      st_text: И ты будешь сокрушен среди необрезанных и лежать с пораженными мечом.
+  - id: 17321
+    number: 29
+    bookId: 33
+    text: Там Едом и цари его и все князья его, которые при всей своей храбрости
+      положены среди пораженных мечом; они лежат с необрезанными и сошедшими в
+      могилу.
+    chapter: 32
+    chapterId: 961
+    parallels:
+      - verseId: 17123
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 26
+        short: Иез:26:6
+      - verseId: 17198
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 28
+        short: Иез:28:24
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Тамо едом и царие его и вси князи ассуровы, давшии крепость свою на язву
+        мечную: сии со язвеными успоша, с низходящими в ров."
+      averincev: ""
+      ungerov: "Там Едом и цари его и все князья Ассура, сила коих была поражена
+        мечем: они уснули с пораженными, с нисходящими в могилу,"
+      csya_old: "Тaмw є3дHмъ и3 цaріе є3гw2 и3 вси2 кн‰зи ґссyрwвы, дaвшіи крёпость
+        свою2 на ћзву ме1чную: сjи со ћзвеными ўспо1ша, съ низходsщими въ
+        ро1въ."
+      sovr_rbo: Там Эдом, цари его и вожди. Со всем своим могуществом лежат они —
+        среди убитых мечом, среди необрезанных, среди мертвецов в преисподней.
+      latin: Ibi Idumaea, et reges ejus, et omnes duces ejus, qui dati sunt cum
+        exercitu suo cum interfectis gladio, et qui cum incircumcisis
+        dormierunt, et cum his qui descendunt in lacum.
+      ukr: Там Едом, і царі його, і князі всі його, що при всій своїй силі були
+        зложені з побитими мечами, вони ляжуть з необрізанцями та з тими, хто
+        сходить в могилу...
+      nkjv: '"There is Edom, Her kings and all her princes, Who despite their might
+        Are laid beside those slain by the sword; They shall lie with the
+        uncircumcised, And with those who go down to the Pit.'
+      desnitsky: "Там и Эдом со своими царями и знатью: какими ни были богатырями, а и
+        они пали среди сраженных мечом, легли вместе с необрезанными, сошедшими
+        в могилу."
+      mt: ‫   שָׁמָּה אֱדוֹם מְלָכֶיהָ וְכָל־נְשִׂיאֶיהָ אֲשֶׁר־נִתְּנוּ בִגְבוּרָתָם
+        אֶת־חַלְלֵי־חָרֶב הֵמָּה אֶת־עֲרֵלִים יִשְׁכָּבוּ וְאֶת־יֹרְדֵי בוֹר׃ ‬
+      romana: Acolo sunt Edom si regii lui si toate capeteniile lui, care cu toata
+        vitejia lor au fost asezati printre cei cazuti de sabie si zac cu cei
+        netaiati imprejur, care s-au coborat in mormant.
+      francais: Là sont Édom, ses rois et tous ses princes, Qui, malgré leur
+        vaillance, ont été placés Avec ceux qui sont morts par l'épée; Ils sont
+        couchés avec les incirconcis, Avec ceux qui descendent dans la fosse.
+      italian: "Là è Edom, i suoi re e tutti i suoi prìncipi che, nonostante il loro
+        valore, sono posti con i trafitti di spada: giacciono con i non
+        circoncisi e con quelli che scendono nella fossa."
+      old_georgian: მუნ ედომ და მოსოქ, მეფენი მისნი, და ყოველნი მთავარნი მისნი,
+        მიმცემელნი ძალსა მათსა წყლულებად მახჳლისა, ამათ წყლულთა თანა დაიძინეს,
+        შთამავალთა თანა მღჳმედ.
+      portuguese: "Ali está Edom, os seus reis e todos os seus príncipes, que no seu
+        poder foram postos com os que foram mortos\rà espada; estes jazerão com
+        os incircuncisos e com os que descem a cova."
+      polish: "Tam jest Edom, jego królowie i wszyscy jego książęta, których pomimo
+        ich\rbohaterskich czynów położono wśród tych, co mieczem zostali pobici,
+        spoczywają oni przy nieobrzezanych, przy tych, którzy zstąpili do dołu."
+      nrt: Там Эдом, его цари и вожди; невзирая на их силу, их положили среди тех, кто
+        пал от меча. Они лежат с необрезанными, с теми, кто спускается в
+        пропасть.
+      Macarius: Там Едом с царями своими, со всеми князьями своими, которые с своею
+        храбростью положены среди убитых мечем; они почивают с необрезанными и с
+        отшедшими в могилу.
+      serbian: Ондје је Едом, цареви његови и сви кнезови његови, који су са силом
+        својом метнути међу побијене мачем; леже међу необрезанима и с онима
+        који сидоше у јаму.
+      bulgarian: Там е Едом, царете му и всичките му князе, които при всичката си
+        храброст са положени всред поразените с меч, те лежат с необрязаните и
+        със слезлите в гроб.
+      Olesn: "Там Едом, цари его и все князья его.\rНе смотря на храбрость свою,
+        положенные с\rсраженными мечем. Они с необрезанными лежат,\rС отшедшими
+        в пропасть."
+      deutsch: Da liegt Edom mit seinen Königen und alle seine Fürsten unter den
+        Unbeschnittenen und mit dem Schwert Erschlagenen samt andern, so in die
+        Grube gefahren sind, die doch mächtig waren.
+      ukr2: Там Едом, царі його й усі його князі, що хоч і які відважні,
+        складені.вкупі з побитими мечем. Вони лежать з необрізаними, разом із
+        тими, що зійшли у яму.
+      ukr3: Там - Едом, царі його й усї князї його, що мимо всієї своєї хоробростї
+        зложені між побитими мечем; коло необрізаних лежять вони й коло тих, що
+        посходили в яму.
+      bel_syomukha: Там - Эдом і цары яго і ўсе князі яго, якія пры ўсёй сваёй адвазе
+        пакладзены сярод пабітых мечам; яны ляжаць зь неабрэзанымі, што сышлі ў
+        магілу.
+      czech: Tam je Edom, jeho kralove a vsechna jeho knizata, i se svou bohatyrskou
+        silou; jsou ulozeni ke skolenym mecem, ulehli k neobrezancum, k tem, kdo
+        sestupuji do jamy.
+      spanish: Allí está Edom, sus reyes y sus príncipes todos, que, a pesar de su
+        valor, yacen entre los muertos a la espada y duermen con los
+        incircuncisos, con los que bajaron a la fosa.
+      greek-lxx: ἐκεῖ ἐδόθησαν οἱ ἄρχοντες Ασσουρ οἱ δόντες τὴν ἰσχὺν αὐτοῦ εἰς τραῦμα
+        μαχαίρας οὗτοι μετὰ τραυματιῶν ἐκοιμήθησαν μετὰ καταβαινόντων εἰς βόθρον
+      st_text: Там Едом и цари его и все князья его, которые при всей своей храбрости
+        положены среди пораженных мечом; они лежат с необрезанными и сошедшими в
+        могилу.
+  - id: 17322
+    number: 30
+    bookId: 33
+    text: Там властелины севера, все они и все Сидоняне, которые сошли туда с
+      пораженными, быв посрамлены в могуществе своем, наводившем ужас, и лежат
+      они с необрезанными, пораженными мечом, и несут позор свой с отшедшими в
+      могилу.
+    chapter: 32
+    chapterId: 961
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Тамо князи северстии вси, тамо вси воеводы ассуровы, иже сведени быша со
+        язвеными со страхом своим и со крепостию своею стыдящеся, успоша
+        необрезаннии со язвеными мечем, и прияша мучение свое с низходящими в
+        пропасть.
+      averincev: ""
+      ungerov: Там все князья севера, там все военачальники Ассура, которые сведены
+        были с пораженными, пристыженные страхом своим и могуществом своим, и
+        уснули необрезанные с пораженными мечем, и понесли мучение свое с
+        нисходящими в преисподнюю.
+      csya_old: Тaмw кн‰зи сёверстіи вси2, тaмw вси2 воевHды ґссyрwвы, и5же сведе1ни
+        бы1ша со ћзвеными со стрaхомъ свои1мъ и3 со крёпостію свое1ю стыдsщесz,
+        ўспо1ша неwбрёзанніи со ћзвеными мече1мъ, и3 пріsша муче1ніе свое2 съ
+        низходsщими въ про1пасть.
+      sovr_rbo: Там северные владыки , там сидоняне, сошли они к убитым. Могучи они
+        были и ужасны, теперь покрыты позором, лежат они среди необрезанных,
+        среди убитых мечом, покрыты они позором, лежат среди мертвецов в
+        преисподней.
+      latin: "Ibi principes aquilonis omnes, et universi venatores, qui deducti sunt
+        cum interfectis, paventes, et in sua fortitudine confusi: qui dormierunt
+        incircumcisi cum interfectis gladio, et portaverunt confusionem suam cum
+        his qui descendunt in lacum."
+      ukr: Там північні князі, всі вони й всі сидоняни, що посходили разом з побитими,
+        хоч був жах від їхньої міці, були посоромлені, і полягали вони,
+        необрізанці, з побитими мечем, і свою ганьбу понесли із тими, хто
+        сходить в могилу...
+      nkjv: There are the princes of the north, All of them, and all the Sidonians,
+        Who have gone down with the slain In shame at the terror which they
+        caused by their might; They lie uncircumcised with those slain by the
+        sword, And bear their shame with those who go down to the Pit.
+      desnitsky: Там и правители севера, все они и все сидоняне – пали среди
+        сраженных, хоть и внушали ужас, посрамлено их былое богатырство, лежат
+        они среди необрезанных, сраженных мечом, с позором сошли к лежащим в
+        могиле.
+      mt: ‫   שָׁמָּה נְסִיכֵי צָפוֹן כֻּלָּם וְכָל־צִדֹנִי אֲשֶׁר־יָרְדוּ
+        אֶת־חֲלָלִים בְּחִתִּיתָם‪‬ מִגְבוּרָתָם בּוֹשִׁים וַיִּשְׁכְּבוּ
+        עֲרֵלִים אֶת־חַלְלֵי־חֶרֶב וַיִּשְׂאוּ כְלִמָּתָם אֶת־יוֹרְדֵי בוֹר׃ ‬
+      romana: Acolo sunt stapanitorii de la miazanoapte si toti Sidonienii, care s-au
+        coborat acolo cu cei ucisi si, fiind rusinati in puternicia lor cu care
+        au imprastiat groaza, zac cu cei netaiati imprejur, care au fost ucisi
+        cu sabia si isi poarta rusinea cu cei coborati in mormant.
+      francais: Là sont tous les princes du septentrion, et tous les Sidoniens, Qui
+        sont descendus vers les morts, Confus, malgré la terreur qu'inspirait
+        leur vaillance; Ces incirconcis sont couchés avec ceux qui sont morts
+        par l'épée, Et ils ont porté leur ignominie vers ceux qui descendent
+        dans la fosse.
+      italian: Là sono tutti i prìncipi del settentrione, tutti quelli di Sidòne, che
+        scesero con i trafitti, nono — stante il terrore sparso dalla loro
+        potenza; giacciono i non circoncisi con i trafitti di spada e portano la
+        loro ignominia con quelli che scendono nella fossa.
+      old_georgian: მუნ მთავარნი ჩრდილოჲსანი, ყოველნი იგი, ყოველნი ლაშქრის მძღუარნი
+        ასსურისანი, შთამავალნი წყლულნი შიშისა თანა მათისა და ძალისა მათისა,
+        დაიძინეს წინადაუცუეთელთა წყლულთა თანა მახჳლისათა, და წარიღეს ტანჯვაჲ
+        მათი შთამავალთა თანა მთხრებლად.
+      portuguese: "Ali estão os príncipes do norte, todos eles, e todos os sidônios,
+        que desceram com os mortos; envergonhados\rsão pelo terror causado pelo
+        seu poder; jazem incircuncisos com os que foram mortos à espada, e levam
+        a sua\rvergonha com os que descem à cova."
+      polish: "Tam są wszyscy władcy Północy i wszyscy Sydończycy, którzy zstąpili
+        wraz z\rpobitymi, okryci hańbą pomimo strachu, jaki szerzyły ich
+        bohaterskie czyny;\rteraz leżą nieobrzezani przy tych, co mieczem
+        zostali pobici, i cierpią swą\rhańbę z tymi, którzy zstąpili do dołu."
+      nrt: Там правители Севера и сидоняне. Они спустились туда с убитыми,
+        опозоренные, хотя их сила наводила страх. Они лежат необрезанными с
+        теми, кто пал от меча, и несут свой позор с теми, кто спускается в
+        пропасть.
+      Macarius: Там северные владельцы, все они, и все Сидоняне, которые сошли туда с
+        закланными, быв постыжены среди ужасного могущества своего; и лежат они,
+        необрезанные, с убитыми мечем, и несут на себе стыд наравне с прочими
+        отшедшими в могилу.
+      serbian: Ондје су сви кнезови сјеверни и сви  Сидонци, који сидоше к побијенима
+        са страхом својим, стидећи се силе своје; и леже необрезани с онима који
+        су побијени мачем, и носе срамоту своју с онима који сидоше у јаму.
+      bulgarian: Там са владелците на Север, те всички и всички сидонци, които слязоха
+        там с поразените, които бидоха посрамени в своята мощ, която нанасяше
+        ужас, - и лежат те с необрязани, с поразени от меч, и носят позора си
+        със слезлите в гроб.
+      Olesn: "Там все правители севера и все Сидоняне,\rКоторые сошли вместе с
+        побежденными,\rПонеся стыд не смотря на ужасы от храбрости их.\rИ они
+        лежат необрезанные с сраженными\rмечем,\rИ несут позор свой с отшедшими
+        в пропасть."
+      deutsch: Da sind alle Fürsten von Mitternacht und alle Sidonier, die mit den
+        Erschlagenen hinabgefahren sind; und ihre schreckliche Gewalt ist zu
+        Schanden geworden, und müssen liegen unter den Unbeschnittenen und
+        denen, so mit dem Schwert erschlagen sind, und ihre Schande tragen samt
+        denen, die in die Grube gefahren sind.
+      ukr2: Там усі князі півночі й усі сидоняни, що зійшли разом з побитими, хоч і
+        який страх викликала їхня відвага. Тепер вони, необрізані, лежать разом
+        із побитими мечем і несуть ганьбу на собі разом з тими, що зійшли в яму.
+      ukr3: Там князї півночні вкупі з усїма Сидонїями, що посходили з сьвіта побиті;
+        вони ж осоромлені через могучість свою, бо вона наводила страх; лежать
+        же вони з необрізаними, побитими мечем й несуть ганьбу свою на собі
+        вкупі з тими, що посходили в яму.
+      bel_syomukha: Там уладары поўначы, усе яны і ўсе Сіданяне, якія сышлі туды з
+        пабітымі, бо былі пасаромленыя ў магутнасьці сваёй, што наводзіла жах, -
+        і ляжаць яны зь неабрэзанымі, пабітымі мечам, і нясуць ганьбу сваю з
+        тымі, што адышлі ў магілу.
+      czech: Tam jsou vsichni vudcove severu a vsichni Sidonane, sestoupili ke
+        skolenym. Pro des, ktery sel z jejich bohatyrske sily, jsou zahanbeni;
+        ulehli, neobrezanci, ke skolenym mecem a nesou hanbu s temi, kdo
+        sestupuji do jamy.
+      spanish: Allí están todos los príncipes del septentrión y todos los sidonios,
+        que con su ignominia descendieron a los muertos a pesar del terror que
+        inspiraba su valor. Incircuncisos se acostaron con los muertos a la
+        espada, y comparten su ignominia con los que bajan a la fosa.
+      greek-lxx: ἐκεῖ οἱ ἄρχοντες τοῦ βορρᾶ πάντες στρατηγοὶ Ασσουρ οἱ καταβαίνοντες
+        τραυματίαι σὺν τῷ φόβῳ αὐτῶν καὶ τῇ ἰσχύι αὐτῶν ἐκοιμήθησαν ἀπερίτμητοι
+        μετὰ τραυματιῶν μαχαίρας καὶ ἀπήνεγκαν τὴν βάσανον αὐτῶν μετὰ τῶν
+        καταβαινόντων εἰς βόθρον
+      st_text: Там властелины севера, все они и все Сидоняне, которые сошли туда с
+        пораженными, быв посрамлены в могуществе своем, наводившем ужас, и лежат
+        они с необрезанными, пораженными мечом, и несут позор свой с отшедшими в
+        могилу.
+  - id: 17323
+    number: 31
+    bookId: 33
+    text: Увидит их фараон и утешится о всем множестве своем, пораженном мечом,
+      фараон и все войско его, говорит Господь Бог.
+    chapter: 32
+    chapterId: 961
+    parallels:
+      - verseId: 20689
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 42
+        short: Ис:42:20
+      - verseId: 20931
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 53
+        short: Ис:53:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Тех узрит царь фараон и утешится от всей крепости их: фараон и язвении
+        мечем и вся сила его, глаголет адонаи Господь."
+      averincev: ""
+      ungerov: Увидит их царь фараон и утешится о всей силе их, фараон и пораженные
+        мечем, и вся сила его, говорит Господь Бог.
+      csya_old: "Тёхъ ќзритъ цaрь фараHнъ и3 ўтёшитсz њ все1й крёпости и4хъ: фараHнъ
+        и3 ћзвеніи мече1мъ и3 всS си1ла є3гw2, гlетъ ґдwнаі2 гDь."
+      sovr_rbo: Увидит их фараон, и уже не так горько ему будет, что все его войско и
+        сам он, и все его полчища пали от меча, — говорит Господь Бог.
+      latin: "Vidit eos Pharao, et consolatus est super universa multitudine sua, quae
+        interfecta est gladio: Pharao, et omnis exercitus ejus, ait Dominus
+        Deus."
+      ukr: Фараон їх побачить, і потішиться всім многолюдством своїм, мечем побитий
+        фараон та все його військо, говорить Господь Бог!...
+      nkjv: '"Pharaoh will see them And be comforted over all his multitude, Pharaoh
+        and all his army, Slain by the sword," Says the Lord God.'
+      desnitsky: Увидит их фараон и утешится обо всем множестве своих людей, сраженных
+        мечом – фараон и все его войско. Пророчество Владыки ГОСПОДА!
+      mt: ‫   אוֹתָם יִרְאֶה פַרְעֹה וְנִחַם עַל־כָּל־*המונה **הֲמוֹנוֹ חַלְלֵי־חֶרֶב
+        פַּרְעֹה וְכָל־חֵילוֹ נְאֻם אֲדֹנָי יְהוִה׃ ‬
+      romana: Faraon ii va vedea si se va mangaia la vederea acestei intregi multimi,
+        ucisa de sabie Faraon si toata armata lui, zice Domnul.
+      francais: Pharaon les verra, Et il se consolera au sujet de toute sa multitude,
+        Des siens qui sont morts par l'épée et de toute son armée, Dit le
+        Seigneur, l'Éternel.
+      italian: Il faraone li vedrà e si consolerà alla vista di tutta questa
+        moltitudine; il faraone e tutto il suo esercito saranno trafitti di
+        spada. Oracolo del Signore Dio.
+      old_georgian: იგინი იხილნეს მეფემან ფარაო და ნუგეშინისცემულ იქმნეს ყოველსა ზედა
+        ძალსა მათსა, წყლულებ მახჳლითა ფარაო და ყოველი ძალი მისი, - იტყჳს უფალი,
+        უფალი.
+      portuguese: "Faraó os verá, e se consolará sobre toda a sua multidão; sim, o
+        próprio Faraó, e todo o seu exército,\rtraspassados à espada, diz o
+        Senhor Deus."
+      polish: "Zobaczy ich faraon i pocieszać się będzie całym swym mnóstwem. Faraon
+        i\rcałe jego wojsko polegnie od miecza - wyrocznia Pana Boga."
+      nrt: Фараон сам, и все его войско, увидит их и утешится о своих полчищах, что не
+        только они – он сам и все его войско – пали от меча, – возвещает Владыка
+        Господь. –
+      Macarius: Увидит их Фараон, и утешится о погибели всего множества своего,
+        пораженного мечем, Фараон и все войско его, говорит Господь Иегова.
+      serbian: Њих ће видјети Фараон, и утјешиће се за свијем мноштвом својим, Фараон
+        и сва војска његова, побијени мачем, говори Господ Господ.
+      bulgarian: Ще ги види фараонът и ще се утеши за цялото си множество, поразен с
+        меч, фараонът и цялата му войска, казва Господ Бог.
+      Olesn: "Их увидит Фараон,\rИ утешится о всем множестве народа своего Сраженный
+        мечем Фараон и все войско его.\r — Слово Господа Иеговы."
+      deutsch: Diese wird Pharao sehen und sich trösten über all sein Volk, die unter
+        ihm mit dem Schwert erschlagen sind, und über sein ganzes Heer, spricht
+        der Herr.
+      ukr2: Побачить їх фараон і зрадіє усією тією юрбою гомінкою. Фараон і все його
+        військо поляжуть від меча, - слово Господа Бога.
+      ukr3: Побачить їх Фараон і зрадїє тою многотою, побитою мечем, - Фараон і все
+        військо його, говорить Господь Бог.
+      bel_syomukha: Убачыць іх фараон і суцешыцца ўсім мноствам сваім, пабітым мечам,
+        фараон і ўсё войска ягонае, кажа Гасподзь Бог.
+      czech: Farao je spatri a potesi se vsim tim hlucicim davem. Jsou skoleni mecem,
+        farao i cele jeho vojsko, je vyrok Panovnika Hospodina;
+      spanish: El faraón los verá y se consolará de su muchedumbre, de los suyos
+        muertos a la espada y de todo su ejército, dice el Señor, Yavé.
+      greek-lxx: ἐκείνους ὄψεται βασιλεὺς Φαραω καὶ παρακληθήσεται ἐπὶ πᾶσαν τὴν ἰσχὺν
+        αὐτῶν λέγει Κύριος Κύριος
+      st_text: Увидит их фараон и утешится о всем множестве своем, пораженном мечом,
+        фараон и все войско его, говорит Господь Бог.
+  - id: 17324
+    number: 32
+    bookId: 33
+    text: Ибо Я распространю страх Мой на земле живых, и положен будет фараон и все
+      множество его среди необрезанных с пораженными мечом, говорит Господь Бог.
+    chapter: 32
+    chapterId: 961
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Яко дах страх мой на земли жизни, и успнет среде необрезанных со язвеными
+        мечем фараон, и все множество его с ним, глаголет адонаи Господь.
+      averincev: ""
+      ungerov: Ибо Я навел страх Мой на землю живых, и уснет среди необрезанных, с
+        пораженными мечем, фараон и все множество его с ним, говорит Господь
+        Бог.
+      csya_old: Ћкw дaхъ стрaхъ мо1й на земли2 жи1зни, и3 ќспнетъ средЁ неwбрёзанныхъ
+        со ћзвеными мече1мъ фараHнъ, и3 все2 мно1жество є3гw2 съ ни1мъ, гlетъ
+        ґдwнаі2 гDь.
+      sovr_rbo: Я заставлю землю живых трепетать предо Мною! А фараон и все его
+        полчища будут лежать среди необрезанных, среди убитых мечом! — говорит
+        Господь Бог».
+      latin: "Quia dedi terrorem meum in terra viventium, et dormivit in medio
+        incircumcisorum cum interfectis gladio: Pharao, et omnis multitudo ejus,
+        ait Dominus Deus."
+      ukr: Бо поширю Я жах Свій на землю живих, і буде покладений серед необрізанців з
+        побитими мечем фараон та усе многолюдство його, говорить Господь Бог!
+      nkjv: '"For I have caused My terror in the land of the living; And he shall be
+        placed in the midst of the uncircumcised With those slain by the sword,
+        Pharaoh and all his multitude," Says the Lord God.'
+      desnitsky: Хоть и дал Я распространиться ужасу перед ним по земле живых, но
+        ляжет он среди необрезанных, сраженных мечом, и фараон, и все множество
+        его людей – пророчество Владыки ГОСПОДА!»
+      mt: ‫   כִּי־נָתַתִּי אֶת־*חתיתו **חִתִּיתִי בְּאֶרֶץ חַיִּים וְהֻשְׁכַּב
+        בְּתוֹךְ עֲרֵלִים אֶת־חַלְלֵי־חֶרֶב פַּרְעֹה וְכָל־הֲמוֹנֹה‪‬ נְאֻם
+        אֲדֹנָי יְהוִה׃ פ ‬
+      romana: Caci voi imprastia frica Mea peste pamantul celor vii si Faraon cu toata
+        multimea lui va fi pus printre cei netaiati imprejur cu cei cazuti de
+        sabie, zice Domnul Dumnezeu.
+      francais: Car je répandrai ma terreur dans le pays des vivants; Et ils seront
+        couchés au milieu des incirconcis, Avec ceux qui sont morts par l'épée,
+        Pharaon et toute sa multitude, Dit le Seigneur, l'Éternel.
+      italian: Perché ave — va sparso il terrore nella terra dei viventi, ecco giace
+        in mezzo ai non circoncisi, con i trafitti di spada, egli il faraone e
+        tutta la sua moltitudine". Parola del Signore Dio.
+      old_georgian: რამეთუ მივეც შიში მისი ქუეყანასა ზედა ცხორებისასა, და დაიძინოს
+        შორის წინადაუცვეთელთა წყლულთა მახჳლისათა, ფარაო და ყოველმან სიმრავლემან
+        მისმან, - იტყჳს უფალი, უფალი.
+      portuguese: "Pois também eu pus o terror dele na terra dos viventes; pelo que
+        jazerá no meio dos incircuncisos, com os\rmortos à espada, o próprio
+        Faraó e toda a sua multidão, diz o Senhor Deus."
+      polish: "Ponieważ strach szerzył on w kraju żyjących, dlatego rzucą go, by leżał
+        pośród\rnieobrzezanych, przy tych, co od miecza polegli: faraon i całe
+        jego mnóstwo”\r- wyrocznia Pana Boga."
+      nrt: Хотя Я и наводил страх перед ним на земле живых, фараона и его полчища
+        положат среди необрезанных, рядом с теми, кто пал от меча, – возвещает
+        Владыка Господь.
+      Macarius: Ибо Я распространю страх Мой на земле живых, и положен будет Фараон и
+        все множество его среди необрезанных, наравне с убитыми мечем, говорит
+        Господь Иегова.
+      serbian: Јер зададох свој страх земљи живијех, и Фараон ће и све мноштво његово
+        лежати међу необрезанима с онима који су побијени мачем, говори Господ
+        Господ.
+      bulgarian: Защото Аз ще простра Моя страх в земята на живите, и фараонът с
+        цялото си множество ще бъде положен сред необрязани, с поразени от меч,
+        казва Господ Бог.
+      Olesn: "Потому что Я распространю ужас Мой на земле живых\rИ уложен будет среди
+        необрезанных, сраженных мечем, \rФараон и все множество народа его.\r —
+        Слово Господа Иеговы."
+      deutsch: Denn es soll sich auch einmal alle Welt vor mir fürchten, daß Pharao
+        und alle seine Menge liegen unter den Unbeschnittenen und mit dem
+        Schwert Erschlagenen, spricht der Herr.
+      ukr2: Бо він наганяв страх на землю живих. За те ж він і лежить серед
+        необрізаних, укупі з побитими мечем, фараон з усім своїм військом», -
+        слово Господа Бога.
+      ukr3: Бо й я розширю страх мій на землї живих і ляже Фараон і вся многота його
+        серед необрізаних, побитих мечем, говорить Господь Бог.
+      bel_syomukha: Бо Я пашыру страх Мой на зямлі жывых, і пакладзены будзе фараон і
+        ўсё мноства ягонае сярод неабрэзаных з пабітымі мечам, кажа Гасподзь
+        Бог.
+      czech: siril jsem jim svuj des v zemi zivych. Ulozen je farao i vsechen jeho
+        hlucici dav mezi neobrezance ke skolenym mecem, je vyrok Panovnika
+        Hospodina."
+      spanish: Porque yo sembraré mi terror en la tierra de los vivos, y se acostarán
+        en medio de los incircuncisos, con los muertos a la espada, el faraón y
+        toda su muchedumbre, dice el Señor, Yavé.
+      greek-lxx: ὅτι δέδωκα τὸν φόβον αὐτοῦ ἐπὶ γῆς ζωῆς καὶ κοιμηθήσεται ἐν μέσῳ
+        ἀπεριτμήτων μετὰ τραυματιῶν μαχαίρας Φαραω καὶ πᾶν τὸ πλῆθος αὐτοῦ λέγει
+        Κύριος Κύριος
+      st_text: Ибо Я распространю страх Мой на земле живых, и положен будет фараон и
+        все множество его среди необрезанных с пораженными мечом, говорит
+        Господь Бог.

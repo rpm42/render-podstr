@@ -1,0 +1,2366 @@
+id: 70
+number: 20
+bookId: 2
+verseCount: 26
+title: Глава 20
+verses:
+  - id: 21568
+    number: 1
+    bookId: 2
+    text: "И изрек Бог [к Моисею] все слова сии, говоря:"
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 36727
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 4
+        short: Втор:4:13
+      - verseId: 36747
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 4
+        short: Втор:4:33
+      - verseId: 36767
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 5
+        short: Втор:5:4
+      - verseId: 36785
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 5
+        short: Втор:5:22
+      - verseId: 32458
+        bookId: 22
+        bookCode: psaltir
+        chapter: 80
+        short: Пс:80:9
+      - verseId: 33548
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 17
+        short: Сир:17:10
+      - verseId: 24986
+        bookId: 46
+        bookCode: kniga-proroka-malahii
+        chapter: 4
+        short: Мал:4:4
+      - verseId: 17902
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 1
+        short: Ин:1:17
+      - verseId: 33198
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 9
+        short: Рим:9:4
+      - verseId: 14708
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 2
+        short: Евр:2:2
+    translates:
+      kassian: ""
+      podstr: "И сказал Господь все слова эти говорящий:"
+      csya: "И глагола Господь вся словеса сия к моисею глаголя:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# гlа гDь вс‰ словесA сі‰ къ мwmсе1ю гlz:"
+      sovr_rbo: "Вот слова, сказанные Богом :"
+      latin: "Locutusque est Dominus cunctos sermones hos:"
+      ukr: "І Бог промовляв всі слова оці, кажучи:"
+      nkjv: "And God spoke all these words, saying:"
+      desnitsky: ""
+      mt: ‫   וַיְדַבֵּר אֱלֹהִים אֵת כָּל־הַדְּבָרִים הָאֵלֶּה לֵאמֹר׃ ס ‬
+      romana: "Atunci a rostit Domnul inaintea lui Moise toate cuvintele acestea si a
+        zis:"
+      francais: "Alors Dieu prononça toutes ces paroles, en disant:"
+      italian: "Dio allora pronunciò tutte queste parole:"
+      old_georgian: და იტყოდა უფალი ყოველთა ამათ სიტყუათა, მეტყუელი.
+      portuguese: "Então falou Deus todas estas palavras, dizendo:"
+      polish: "Wtedy mówił Bóg wszystkie te słowa:"
+      turkish: "Tanrı şöyle konuştu:"
+      nrt: "Бог сказал такие слова:"
+      Macarius: "Тогда изрек Бог все слова сии, говоря:"
+      serbian: "Тада рече Бог све ове ријечи говорећи:"
+      bulgarian: "Тогава Бог изрече (към Моисея) всички тия думи, като каза:"
+      deutsch: "Und Gott redete alle diese Worte:"
+      ukr2: "Тоді Бог промовив усі ці слова, кажучи:"
+      ukr3: "І глаголав Господь всї словеса оцї, глаголючи:"
+      bel_syomukha: "І прамовіў Бог усе словы гэтыя, кажучы:"
+      lev-khv: "И сказал Бог все слова сии, говоря:"
+      czech: "Buh vyhlasil vsechna tato prikazani:"
+      spanish: "Y habló Dios todo esto, diciendo:"
+      st_text: "И изрек Бог [к Моисею] все слова сии, говоря:"
+  - id: 21569
+    number: 2
+    bookId: 2
+    text: Я Господь, Бог твой, Который вывел тебя из земли Египетской, из дома
+      рабства;
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 23486
+        bookId: 3
+        bookCode: levit
+        chapter: 25
+        short: Лев:25:38
+      - verseId: 11451
+        bookId: 4
+        bookCode: cisla
+        chapter: 15
+        short: Чис:15:41
+      - verseId: 36769
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 5
+        short: Втор:5:6
+      - verseId: 36810
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 6
+        short: Втор:6:14
+      - verseId: 8921
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 17
+        short: 4 Цар:17:35
+      - verseId: 32458
+        bookId: 22
+        bookCode: psaltir
+        chapter: 80
+        short: Пс:80:9
+      - verseId: 32460
+        bookId: 22
+        bookCode: psaltir
+        chapter: 80
+        short: Пс:80:11
+      - verseId: 28012
+        bookId: 35
+        bookCode: kniga-proroka-osii
+        chapter: 13
+        short: Ос:13:4
+    translates:
+      kassian: ""
+      podstr: Я есть Господь Бог твой, который вывел тебя из земли Египта из дома
+        рабства.
+      csya: "аз есмь Господь Бог твой, изведый тя от земли египетския, от дому
+        работы:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "ѓзъ є4смь гDь бг7ъ тво1й, и3зведы1й тS t земли2 є3гv1петскіz, t до1му
+        рабо1ты:"
+      sovr_rbo: «Я Господь, твой Бог, который вывел тебя из Египта, из неволи.
+      latin: Ego sum Dominus Deus tuus, qui eduxi te de terra Aegypti, de domo
+        servitutis.
+      ukr: Я Господь, Бог твій, що вивів тебе з єгипетського краю з дому рабства.
+      nkjv: '"I am the Lord your God, who brought you out of the land of Egypt, out of
+        the house of bondage.'
+      desnitsky: ""
+      mt: ‫   אָנֹכִי יְהוָה אֱלֹהֶיךָ אֲשֶׁר הוֹצֵאתִיךָ מֵאֶרֶץ מִצְרַיִם מִבֵּית
+        עֲבָדִים׃ ‬
+      romana: '"Eu sunt Domnul Dumnezeul tau, Care te-a scos din pamantul Egiptului si
+        din casa robiei.'
+      francais: Je suis l'Éternel, ton Dieu, qui t'ai fait sortir du pays d'Égypte, de
+        la maison de servitude.
+      italian: "\"Io sono il Signore, tuo Dio, che ti ho fatto uscire dal paese
+        d'Egitto, dalla condizione di schiavitù:"
+      old_georgian: მე ვარ უფალი, ღმერთი შენი, გამომყუანებელი შენი, ქუეყანით ეგჳპტით
+        სახლისაგან კირთებისა.
+      portuguese: Eu sou o Senhor teu Deus, que te tirei da terra do Egito, da casa da
+        servidão.
+      polish: ”Ja jestem Pan, twój Bóg, który cię wywiódł z ziemi egipskiej, z domu
+        niewoli.
+      turkish: «Seni Mısır'dan, köle olduğun ülkeden çıkaran Tanrın RAB benim.
+      nrt: – Я – Господь, твой Бог, Который вывел тебя из Египта, земли рабства.
+      Macarius: Я Иегова, Бог твой, Который вывел тебя из земли Египетской, из дома
+        рабства.
+      serbian: Ја сам Господ Бог твој, који сам те извео из земље Мисирске, из дома
+        ропскога.
+      bulgarian: Аз съм Господ, Бог твой, Който те изведох от Египетската земя, от
+        дома на робството;
+      deutsch: Ich bin der Herr, dein Gott, der ich dich aus Ägyptenland, aus dem
+        Diensthause, geführt habe.
+      ukr2: Я - Господь, Бог твій, що вивів тебе з землі Єгипетської, з дому неволі.
+      ukr3: Я Господь, Бог твій, що вивів тебе з Египту, із дому невольницького.
+      bel_syomukha: Я Гасподзь, Бог твой, Які вывеў цябе зь зямлі Егіпецкай, з дома рабства;
+      lev-khv: Я Господь, Бог твой, Который вывел тебя из земли Египетской, из дома
+        рабства.
+      czech: '"Ja jsem Hospodin, tvuj Buh; ja jsem te vyvedl z egyptske zeme, z domu
+        otroctvi.'
+      spanish: <<Yo soy Yavé, tu Dios, que te ha sacado de la tierra de Egipto, de la
+        casa de la servidumbre.
+      st_text: Я Господь, Бог твой, Который вывел тебя из земли Египетской, из дома
+        рабства;
+  - id: 21570
+    number: 3
+    bookId: 2
+    text: да не будет у тебя других богов пред лицем Моим.
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 21673
+        bookId: 2
+        bookCode: ishod
+        chapter: 23
+        short: Исх:23:13
+      - verseId: 22051
+        bookId: 2
+        bookCode: ishod
+        chapter: 34
+        short: Исх:34:17
+      - verseId: 36770
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 5
+        short: Втор:5:7
+      - verseId: 36810
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 6
+        short: Втор:6:14
+      - verseId: 8921
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 17
+        short: 4 Цар:17:35
+      - verseId: 13387
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 19
+        short: Деян:19:26
+    translates:
+      kassian: ""
+      podstr: Не [да] будут тебе боги другие кроме Меня.
+      csya: да не будут тебе бози инии разве мене.
+      averincev: ""
+      ungerov: ""
+      csya_old: да не бyдутъ тебЁ бо1зи и3нjи рaзвэ менє2.
+      sovr_rbo: Не должно быть у тебя других богов наряду со Мною.
+      latin: Non habebis deos alienos coram me.
+      ukr: Хай не буде тобі інших богів передо Мною!
+      nkjv: You shall have no other gods before Me.
+      desnitsky: ""
+      mt: ‫   לֹא יִהְיֶה־לְךָ‪‬ אֱלֹהִים אֲחֵרִים עַל־פָּנָיַ‪‬ ‬
+      romana: Sa nu ai alti dumnezei afara de Mine!
+      francais: Tu n'auras pas d'autres dieux devant ma face.
+      italian: non avrai altri dèi di fronte a me.
+      old_georgian: არა იყვნენ შენდა ღმერთნი სხუანი თჳნიერ ჩემსა.
+      portuguese: Não terás outros deuses diante de mim.
+      polish: Nie będziesz miał cudzych bogów obok Mnie!
+      turkish: «Benden başka tanrın olmayacak.
+      nrt: Пусть не будет у тебя других богов кроме Меня.
+      Macarius: Да не будет у тебя других богов пред лицем Моим.
+      serbian: Немој имати других Богова уза ме.
+      bulgarian: да нямаш други богове, освен Мене.
+      deutsch: Du sollst keine anderen Götter neben mir haben.
+      ukr2: Нехай не буде в тебе інших богів крім мене.
+      ukr3: Нехай не буде в тебе богів инших перед моїм лицем.
+      bel_syomukha: хай ня будзе ў цябе іншых багоў перад абліччам Маім.
+      lev-khv: Да не будет у тебя других богов пред лицем Моим.
+      czech: Nebudes mit jineho boha mimo mne.
+      spanish: No tendrás otro Dios que a mí.
+      st_text: да не будет у тебя других богов пред лицем Моим.
+  - id: 21571
+    number: 4
+    bookId: 2
+    text: Не делай себе кумира и никакого изображения того, что на небе вверху, и
+      что на земле внизу, и что в воде ниже земли;
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 23248
+        bookId: 3
+        bookCode: levit
+        chapter: 19
+        short: Лев:19:4
+      - verseId: 23504
+        bookId: 3
+        bookCode: levit
+        chapter: 26
+        short: Лев:26:1
+      - verseId: 36730
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 4
+        short: Втор:4:16
+      - verseId: 36771
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 5
+        short: Втор:5:8
+      - verseId: 7007
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 14
+        short: 3 Цар:14:23
+      - verseId: 8898
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 17
+        short: 4 Цар:17:12
+      - verseId: 32763
+        bookId: 22
+        bookCode: psaltir
+        chapter: 96
+        short: Пс:96:7
+    translates:
+      kassian: ""
+      podstr: Не сделаешь себе идола и не всякое подобие, скольких на небе наверху и
+        скольких на земле внизу и скольких в водах под землёй.
+      csya: "Не сотвори себе кумира и всякаго подобия, елика на небеси горе и елика на
+        земли низу, и елика в водах под землею:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Не сотвори2 себЁ кумjра и3 всsкагw подо1біz, є3ли6ка на небеси2 горЁ
+        и3 є3ли6ка на земли2 ни1зу, и3 є3ли6ка въ водaхъ под8 земле1ю:"
+      sovr_rbo: Не делай изваяний — никаких изображений того, что вверху на небе, или
+        того, что внизу на земле, или того, что в воде, ниже земли.
+      latin: Non facies tibi sculptile, neque omnem similitudinem quae est in caelo
+        desuper, et quae in terra deorsum, nec eorum quae sunt in aquis sub
+        terra.
+      ukr: Не роби собі різьби і всякої подоби з того, що на небі вгорі, і що на землі
+        долі, і що в воді під землею.
+      nkjv: '"You shall not make for yourself a carved image, or any likeness of
+        anything that is in heaven above, or that is in the earth beneath, or
+        that is in the water under the earth;'
+      desnitsky: ""
+      mt: ‫   לֹא תַעֲשֶׂה־לְךָ פֶסֶל‪‬ וְכָל־תְּמוּנָה אֲשֶׁר בַּשָּׁמַיִם מִמַּעַל
+        וַאֲשֶׁר בָּאָרֶץ מִתַָּחַת‪‬ וַאֲשֶׁר בַּמַּיִם מִתַּחַת לָאָרֶץ‪‬ ‬
+      romana: Sa nu-ti faci chip cioplit si nici un fel de asemanare a nici unui lucru
+        din cate sunt in cer, sus, si din cate sunt pe pamant, jos, si din cate
+        sunt in apele de sub pamant!
+      francais: Tu ne te feras point d'image taillée, ni de représentation quelconque
+        des choses qui sont en haut dans les cieux, qui sont en bas sur la
+        terre, et qui sont dans les eaux plus bas que la terre.
+      italian: Non ti farai idolo né immagine alcuna di ciò che è lassù nel cielo né
+        di ciò che è quaggiù sulla terra, né di ciò che è nelle acque sotto la
+        terra.
+      old_georgian: არა ჰქმნე თავისა შენისა კერპი, არცა ყოველი მსგავსეგაჲ, რაოდენ ცათა
+        შინა-ზე და რაოდენი ქუეყანასა ზედა-ქუე და რაოდენნი წყალთა ქუეშე
+        ქუეყანისა.
+      portuguese: "Não farás para ti imagem esculpida, nem figura alguma do que há em
+        cima no céu, nem em baixo na terra, nem\rnas águas debaixo da terra."
+      polish: "Nie będziesz czynił żadnej rzeźby ani żadnego obrazu tego, co jest na
+        niebie\rwysoko, ani tego, co jest na ziemi nisko, ani tego, co jest w
+        wodach pod ziemią!"
+      turkish: «Kendine yukarıda gökyüzünde, aşağıda yeryüzünde ya da yer altındaki
+        sularda yaşayan herhangi bir canlıya benzer put yapmayacaksın.
+      nrt: Не делай себе идола подобного тому, что на небе вверху, на земле внизу, или
+        в водах ниже земли.
+      Macarius: Не делай себе кумира, и никакого изображения того, что на небе вверху,
+        что на земле внизу, и что в водах, ниже земли.
+      serbian: Не гради себи лика резана нити какве слике од онога што је горе на
+        небу, или доље на земљи, или у води испод земље.
+      bulgarian: Не си прави кумир и никакво изображение на онова, що е горе на
+        небето, що е долу на земята, и що е във водата под земята;
+      deutsch: Du sollst dir kein Bildnis noch irgend ein Gleichnis machen, weder des,
+        das oben im Himmel, noch des, das unten auf Erden, oder des, das im
+        Wasser unter der Erde ist.
+      ukr2: Не робитимеш собі ніякого тесаного кумира, ані подобини того, що вгорі, на
+        небі, ні того, що внизу, на землі, ні того, що попід землею, в водах.
+      ukr3: Не робити меш собі ваяного кумира чи подобини того, що на небесах у горі,
+        і того, що на землї внизу, і того, що в водах і попід землею.
+      bel_syomukha: Не рабі сабе куміра і ніякай выявы таго, што на небе ўгары, і што
+        на зямлі ўнізе і што ў вадзе ніжэй зямлі;
+      lev-khv: Не делай себе кумира и никакого изображения того, что на небе вверху, и
+        что на земле внизу, и что в воде ниже земли.
+      czech: Nezobrazis si Boha zpodobenim niceho, co je nahore na nebi, dole na zemi
+        nebo ve vodach pod zemi.
+      spanish: No te harás esculturas ni imagen alguna de lo que hay en lo alto de los
+        cielos, ni de lo que hay abajo sobre la tierra, ni de lo que hay en las
+        aguas debajo de la tierra.
+      st_text: Не делай себе кумира и никакого изображения того, что на небе вверху, и
+        что на земле внизу, и что в воде ниже земли;
+  - id: 21572
+    number: 5
+    bookId: 2
+    text: не поклоняйся им и не служи им, ибо Я Господь, Бог твой, Бог ревнитель,
+      наказывающий детей за вину отцов до третьего и четвертого <i>рода</i>,
+      ненавидящих Меня,
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 21684
+        bookId: 2
+        bookCode: ishod
+        chapter: 23
+        short: Исх:23:24
+      - verseId: 22048
+        bookId: 2
+        bookCode: ishod
+        chapter: 34
+        short: Исх:34:14
+      - verseId: 11383
+        bookId: 4
+        bookCode: cisla
+        chapter: 14
+        short: Чис:14:18
+      - verseId: 36772
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 5
+        short: Втор:5:9
+      - verseId: 30528
+        bookId: 22
+        bookCode: psaltir
+        chapter: 108
+        short: Пс:108:13
+      - verseId: 30529
+        bookId: 22
+        bookCode: psaltir
+        chapter: 108
+        short: Пс:108:14
+      - verseId: 28909
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 1
+        short: Прем:1:10
+      - verseId: 20085
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 14
+        short: Ис:14:21
+      - verseId: 28812
+        bookId: 30
+        bookCode: plac-ieremii
+        chapter: 5
+        short: Плач:5:7
+      - verseId: 12752
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 3
+        short: Дан:3:18
+      - verseId: 26844
+        bookId: 41
+        bookCode: kniga-proroka-nauma
+        chapter: 1
+        short: Наум:1:2
+    translates:
+      kassian: ""
+      podstr: Не [да] поклонишься им и нет не будешь служить им; Я ведь есть Господь
+        Бог твой, Бог ревнитель воздающий грехи отцов на детей до третьего и
+        четвёртого поколения ненавидящим Меня
+      csya: "да не поклонишися им, ни послужиши им: аз бо есмь Господь Бог твой, Бог
+        ревнитель, отдаяй грехи отец на чада до третияго и четвертаго рода
+        ненавидящым мене,"
+      averincev: ""
+      ungerov: ""
+      csya_old: "да не поклони1шисz и5мъ, ни послyжиши и5мъ: ѓзъ бо є4смь гDь бг7ъ
+        тво1й, бг7ъ ревни1тель, tдаsй грэхи2 nтє1цъ на ч†да до тре1тіzгw и3
+        четве1ртагw ро1да ненави1дzщымъ мене2,"
+      sovr_rbo: Не поклоняйся им и не служи им, ибо Я, Господь, Бог твой, — ревнивый
+        Бог. За грехи отцов, отвергнувших Меня, Я караю их детей, и внуков, и
+        правнуков.
+      latin: "Non adorabis ea, neque coles: ego sum Dominus Deus tuus fortis, zelotes,
+        visitans iniquitatem patrum in filios, in tertiam et quartam
+        generationem eorum qui oderunt me:"
+      ukr: Не вклоняйся їм і не служи їм, бо Я Господь, Бог твій, Бог заздрісний, що
+        карає за провину батьків на синах, на третіх і на четвертих поколіннях
+        тих, хто ненавидить Мене,
+      nkjv: you shall not bow down to them nor serve them. For I, the Lord your God,
+        am a jealous God, visiting the iniquity of the fathers on the children
+        to the third and fourth generations of those who hate Me,
+      desnitsky: ""
+      mt: ‫   לֹא־תִשְׁתַּחְוֶה‪‬ לָהֶם וְלֹא תָעָבְדֵם כִּי אָנֹכִי יְהוָה אֱלֹהֶיךָ
+        אֵל קַנָּא פֹּקֵד עֲוֺן אָבֹת עַל־בָּנִים עַל־שִׁלֵּשִׁים
+        וְעַל־רִבֵּעִים לְשֹׂנְאָי׃ ‬
+      romana: Sa nu te inchini lor, nici sa le slujesti, ca Eu, Domnul Dumnezeul tau,
+        sunt un Dumnezeu zelos, care pedepsesc pe copii pentru vina parintilor
+        ce Ma urasc pe Mine, pana la al treilea si al patrulea neam,
+      francais: Tu ne te prosterneras point devant elles, et tu ne les serviras point;
+        car moi, l'Éternel, ton Dieu, je suis un Dieu jaloux, qui punis
+        l'iniquité des pères sur les enfants jusqu'à la troisième et la
+        quatrième génération de ceux qui me haïssent,
+      italian: Non ti prostrerai davanti a loro e non li servirai. Perché io, il
+        Signore, sono il tuo Dio, un Dio geloso, che punisce la colpa dei padri
+        nei figli fino alla terza e alla quarta generazione, per coloro che mi
+        odiano,
+      old_georgian: არა თაყუანის-სცე მათ, არცა ჰმსახურო მათ, რამეთუ მე ვარ უფალი
+        ღმერთი შენი, ღმერთი მოშურნე, მიმგებელი ცოდვათა მამათასა შვილთა მიმართ
+        მესამედ და მეოთხედ ნათესავადმდე მოძულეთა ჩემთა.
+      portuguese: "Não te encurvarás diante delas, nem as servirás; porque eu, o
+        Senhor teu Deus, sou Deus zeloso, que visito a\riniqüidade dos pais nos
+        filhos até a terceira e quarta geração daqueles que me odeiam."
+      polish: "Nie będziesz oddawał im pokłonu i nie będziesz im służył, ponieważ Ja
+        Pan,\rtwój Bóg, jestem Bogiem zazdrosnym, który karze występek ojców na
+        synach\rdo trzeciego i czwartego pokolenia względem tych, którzy Mnie
+        nienawidzą."
+      turkish: Putların önünde eğilmeyecek, onlara tapmayacaksın. Çünkü ben, Tanrın
+        RAB, kıskanç bir Tanrı'yım. Benden nefret edenin babasının işlediği
+        suçun hesabını çocuklarından, üçüncü, dördüncü kuşaklardan sorarım.
+      nrt: Не поклоняйся им и не служи им, ведь Я, Господь, твой Бог – ревнивый Бог,
+        наказывающий детей за грехи отцов до третьего и четвертого поколения
+        тех, кто ненавидит Меня,
+      Macarius: Не поклоняйся им и не служи им; ибо Я Иегова, Бог твой, Бог ревнитель,
+        наказывающий за вину отцев детей до третьего и до четвертого рода,
+        ненавидящих Меня,
+      serbian: Немој им се клањати нити им служити, јер сам ја Господ Бог твој, Бог
+        ревнитељ, који походим гријехе отачке на синовима до трећега и до
+        четвртога кољена, онијех који мрзе на мене;
+      bulgarian: не им се кланяй и не им служи, защото Аз съм Господ, Бог твой, Бог
+        ревнител, Който за греха на бащи наказвам до трета и четвърта рода
+        децата, които Ме мразят,
+      deutsch: Bete sie nicht an und diene ihnen nicht. Denn ich, der Herr, dein Gott,
+        bin ein eifriger Gott, der da heimsucht der Väter Missetat an den
+        Kindern bis in das dritte und vierte Glied, die mich hassen;
+      ukr2: Не падатимеш перед ними ниць і не служитимеш їм, бо я Господь, Бог твій,
+        Бог ревнивий, що караю беззаконня батьків на дітях до третього й
+        четвертого покоління тих, хто ненавидять мене,
+      ukr3: Щоб не припадав ниць перед ними і не служив їм; бо я Господь, Бог твій,
+        ревнивий Бог, що караю беззаконнє отецьке на дїтях у третьому, і
+        четвертому родї тих, що ненавидять мене.
+      bel_syomukha: не пакланяйся ім і ня служы ім, бо Я Гасподзь, Бог твой, Бог
+        руплівец, Які карае дзяцей за віну бацькоў да трэцяга і чацьвёртага
+        роду, што ненавідзяць мяне,
+      lev-khv: "Не покланяйся им и не служи им: потому что Я Господь Бог твой, Бог
+        ревнитель, за вину отцев наказывающий детей до третьяго и четвертаго
+        рода, ненавидящих Меня,"
+      czech: Nebudes se nicemu takovemu klanet ani tomu slouzit. Ja jsem Hospodin,
+        tvuj Buh, Buh zarlive milujici. Stiham vinu otcu na synech do tretiho i
+        ctvrteho pokoleni tech, kteri me nenavidi,
+      spanish: No te postrarás ante ellas y no las servirás, porque yo soy Yavé, tu
+        Dios; un Dios celoso, que castiga en los hijos las iniquidades de los
+        padres hasta la tercera y cuarta generación de los que me odian,
+      st_text: не поклоняйся им и не служи им, ибо Я Господь, Бог твой, Бог ревнитель,
+        наказывающий детей за вину отцов до третьего и четвертого <i>рода</i>,
+        ненавидящих Меня,
+  - id: 21573
+    number: 6
+    bookId: 2
+    text: и творящий милость до тысячи родов любящим Меня и соблюдающим заповеди Мои.
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 22041
+        bookId: 2
+        bookCode: ishod
+        chapter: 34
+        short: Исх:34:7
+      - verseId: 36773
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 5
+        short: Втор:5:10
+      - verseId: 34480
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 44
+        short: Сир:44:11
+      - verseId: 12986
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 9
+        short: Дан:9:4
+      - verseId: 15172
+        bookId: 56
+        bookCode: poslanie-ap-iakova
+        chapter: 2
+        short: Иак:2:5
+    translates:
+      kassian: ""
+      podstr: и творящий милость в тысячах любящим Меня и хранящим повеления Мои.
+      csya: и творяй милость в тысящах любящым мя и хранящым повеления моя.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 творsй млcть въ ты1сzщахъ лю1бzщымъ мS и3 хранsщымъ повелBніz мо‰.
+      sovr_rbo: А для тех, кто Меня любит и исполняет Мои повеления, — Я покровитель
+        их потомков даже в тысячном поколении!
+      latin: et faciens misericordiam in millia his qui diligunt me, et custodiunt
+        praecepta mea.
+      ukr: і що чинить милість тисячам поколінь тих, хто любить Мене, і хто держиться
+        Моїх заповідей.
+      nkjv: but showing mercy to thousands, to those who love Me and keep My
+        commandments.
+      desnitsky: ""
+      mt: ‫   וְעֹשֶׂה חֶסֶד לַאֲלָפִים לְאֹהֲבַי וּלְשֹׁמְרֵי מִצְוֺתָי׃ ס ‬
+      romana: Si Ma milostivesc pana la al miilea neam catre cei ce Ma iubesc si
+        pazesc poruncile Mele.
+      francais: et qui fais miséricorde jusqu'en mille générations à ceux qui m'aiment
+        et qui gardent mes commandements.
+      italian: ma che dimostra il suo favore fino a mille generazioni, per quelli che
+        mi amano e osservano i miei comandi.
+      old_georgian: და მოქმედი წყალობისა ათასთამდე მოყუარეთა ჩემთა და რომელი,
+        დაიმარხნიან მცნებანი ჩემნი.
+      portuguese: e uso de misericórdia com milhares dos que me amam e guardam os meus
+        mandamentos.
+      polish: "Okazuję zaś łaskę aż do tysiącznego pokolenia tym, którzy Mnie miłują
+        i\rprzestrzegają moich przykazań."
+      turkish: Ama beni seven, buyruklarıma uyan binlerce kuşağa sevgi gösteririm.
+      nrt: но являющий милость тысячам поколений тех, кто любит Меня и соблюдает Мои
+        повеления.
+      Macarius: И благотворящий до тысячи родов любящим Меня и соблюдающим заповеди Мои.
+      serbian: А чиним милост на тисућама онијех који ме љубе и чувају заповијести моје.
+      bulgarian: и Който показва милост до хилядно коляно към ония, които Ме обичат и
+        пазят Моите заповеди.
+      deutsch: und tue Barmherzigkeit an vielen Tausenden, die mich liebhaben und
+        meine Gebote halten.
+      ukr2: і творю милосердя до тисячного покоління тим, хто люблять мене і бережуть
+        заповіді мої.
+      ukr3: І роблю добро тисячами родів тих, що люблять мене і допильновують
+        заповідей моїх.
+      bel_syomukha: і Які чыніць мілату тысячам родаў, што любяць Мяне і шануюць
+        запаведзі Мае.
+      lev-khv: И творящий милость до тысячи родов любящим Меня и соблюдающим заповеди
+        Мои.
+      czech: ale prokazuji milosrdenstvi tisicum pokoleni tech, kteri me miluji a ma
+        prikazani zachovavaji.
+      spanish: y hago misericordia hasta mil generaciones de los que me aman y guardan
+        mis mandamientos.
+      st_text: и творящий милость до тысячи родов любящим Меня и соблюдающим заповеди
+        Мои.
+  - id: 21574
+    number: 7
+    bookId: 2
+    text: Не произноси имени Господа, Бога твоего, напрасно, ибо Господь не оставит
+      без наказания того, кто произносит имя Его напрасно.
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 23256
+        bookId: 3
+        bookCode: levit
+        chapter: 19
+        short: Лев:19:12
+      - verseId: 23441
+        bookId: 3
+        bookCode: levit
+        chapter: 24
+        short: Лев:24:16
+      - verseId: 36774
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 5
+        short: Втор:5:11
+      - verseId: 33750
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 23
+        short: Сир:23:9
+      - verseId: 25909
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 5
+        short: Мф:5:33
+    translates:
+      kassian: ""
+      podstr: Не принимай имя Господа Бога твоего на тщетное; нет ведь не очистит
+        Господь принимающего имя Его на тщетное.
+      csya: "Не возмеши имене Господа Бога твоего всуе: не очистит бо Господь
+        приемлющаго имя его всуе."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Не во1змеши и4мене гDа бг7а твоегw2 всyе: не њчcтитъ бо гDь
+        пріе1млющаго и4мz є3гw2 всyе."
+      sovr_rbo: Не произноси попусту имя Господа, Бога твоего. Господь не оставит
+        безнаказанным того, кто произносит Его имя попусту.
+      latin: "Non assumes nomen Domini Dei tui in vanum: nec enim habebit insontem
+        Dominus eum qui assumpserit nomen Domini Dei sui frustra."
+      ukr: Не призивай Імення Господа, Бога твого, надаремно, бо не помилує Господь
+        того, хто призиватиме Його Ймення надаремно.
+      nkjv: '"You shall not take the name of the Lord your God in vain, for the Lord
+        will not hold him guiltless who takes His name in vain.'
+      desnitsky: ""
+      mt: ‫   לֹא תִשָּׂא אֶת־שֵׁם־יְהוָה אֱלֹהֶיךָ לַשָּׁוְא כִּי לֹא יְנַקֶּה יְהוָה
+        אֵת אֲשֶׁר־יִשָּׂא אֶת־שְׁמוֹ לַשָּׁוְא׃ פ ‬
+      romana: Sa nu iei numele Domnului Dumnezeului tau in desert, ca nu va lasa
+        Domnul nepedepsit pe cel ce ia in desert numele Lui.
+      francais: Tu ne prendras point le nom de l'Éternel, ton Dieu, en vain; car
+        l'Éternel ne laissera point impuni celui qui prendra son nom en vain.
+      italian: Non pronuncerai invano il nome del Signore, tuo Dio, perché il Signore
+        non lascerà impunito chi pronuncia il suo nome invano.
+      old_georgian: არა მოიღო სახელი უფლისა ღმრთისა შენისა ამაოსა ზედა, რამეთუ არა
+        წმიდა-ყოს უფალმან მომღებელი სახელისა მისისაჲ ამაოსა ზედა.
+      portuguese: "Não tomarás o nome do Senhor teu Deus em vão; porque o Senhor não
+        terá por inocente aquele que tomar o seu\rnome em vão."
+      polish: "Nie będziesz wzywał imienia Pana, Boga twego, do czczych rzeczy, gdyż
+        Pan\rnie pozostawi bezkarnie tego, który wzywa Jego imienia do czczych
+        rzeczy."
+      turkish: «Tanrın RAB'bin adını boş yere ağzına almayacaksın. Çünkü RAB, adını
+        boş yere ağzına alanları cezasız bırakmayacaktır.
+      nrt: Не используй Имени Господа, твоего Бога, напрасно, потому что Господь не
+        оставит безнаказанным никого, кто использует Его Имя напрасно.
+      Macarius: Не произноси имени Иеговы, Бога твоего, напрасно; ибо Иегова не
+        оставит без наказания того, кто произносит имя Его напрасно.
+      serbian: Не узимај узалуд имена Господа Бога својега; јер неће пред Господом
+        бити прав ко узме име његово узалуд.
+      bulgarian: Не изговаряй напразно името на Господа, твоя Бог, защото Господ няма
+        да остави ненаказан оногова, който изговаря името Му напразно.
+      deutsch: Du sollst den Namen des Herrn, deines Gottes, nicht mißbrauchen; denn
+        der Herr wird den nicht ungestraft lassen, der seinen Namen mißbraucht.
+      ukr2: Не прикликатимеш імени Господа, Бога твого, марно, бо не пустить Господь
+        безкарно того, хто прикликає його ім'я марно.
+      ukr3: Не призивати меш імени Господа, Бога твого, марно. Бо не вважати ме
+        Господь безвинним того, хто призиває імя його марно.
+      bel_syomukha: Не вымаўляй імя Госпада, Бога твайго, марна, бо Гасподзь не пакіне
+        без пакараньня таго, хто вымаўляе імя Яго марна.
+      lev-khv: Не произноси имени Господа, Бога твоего, напрасно; потому что Господь
+        не оставит без наказания того, кто произносит имя Его напрасно.
+      czech: Nezneuzijes jmena Hospodina, sveho Boha. Hospodin nenecha bez trestu
+        toho, kdo by jeho jmena zneuzival.
+      spanish: No tomarás en falso el nombre de Yavé, tu Dios, porque no dejará Yavé
+        sin castigo al que tome en falso su nombre.
+      st_text: Не произноси имени Господа, Бога твоего, напрасно, ибо Господь не
+        оставит без наказания того, кто произносит имя Его напрасно.
+  - id: 21575
+    number: 8
+    bookId: 2
+    text: Помни день субботний, чтобы святить его;
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 21971
+        bookId: 2
+        bookCode: ishod
+        chapter: 31
+        short: Исх:31:13
+      - verseId: 23247
+        bookId: 3
+        bookCode: levit
+        chapter: 19
+        short: Лев:19:3
+      - verseId: 11442
+        bookId: 4
+        bookCode: cisla
+        chapter: 15
+        short: Чис:15:32
+      - verseId: 36775
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 5
+        short: Втор:5:12
+      - verseId: 27932
+        bookId: 16
+        bookCode: kniga-neemii
+        chapter: 9
+        short: Неем:9:14
+      - verseId: 15445
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 17
+        short: Иер:17:22
+      - verseId: 16924
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 20
+        short: Иез:20:12
+    translates:
+      kassian: ""
+      podstr: Помни день субботы святить её.
+      csya: "Помни день субботный, еже святити его:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "По1мни де1нь суббHтный, є4же свzти1ти є3го2:"
+      sovr_rbo: «Помни, что суббота — священный день.
+      latin: Memento ut diem sabbati sanctifices.
+      ukr: Пам'ятай день суботній, щоб святити його!
+      nkjv: '"Remember the Sabbath day, to keep it holy.'
+      desnitsky: ""
+      mt: ‫   זָכוֹר אֶת־יוֹם הַשַּׁבָּת לְקַדְּשׁוֹ‪‬ ‬
+      romana: Adu-ti aminte de ziua odihnei, ca sa o sfintesti.
+      francais: Souviens-toi du jour du repos, pour le sanctifier.
+      italian: "Ricordati del giorno di sabato per santificarlo:"
+      old_georgian: მოიჴსენე დღე შაბათთა წმიდა-ყოფად მისსა.
+      portuguese: Lembra-te do dia do sábado, para o santificar.
+      polish: Pamiętaj o dniu szabatu, aby go uświęcić.
+      turkish: «Şabat Günü'nü kutsal sayarak anımsa.
+      nrt: Помни субботний день и храни его святым.
+      Macarius: Помни день субботний, чтобы святить его.
+      serbian: Сјећај се дана од одмора да га светкујеш.
+      bulgarian: Помни съботния ден, за да го светиш;
+      deutsch: Gedenke des Sabbattags, daß Du ihn heiligest.
+      ukr2: Пам'ятай на відпочинковий день, щоб святити його.
+      ukr3: Памятай день субітнїй, щоб сьвятити його.
+      bel_syomukha: Але памятай дзень суботні, каб сьвяціць яго;
+      lev-khv: Помни день субботный, чтобы освятить его.
+      czech: Pamatuj na den odpocinku, ze ti ma byt svaty.
+      spanish: Acuérdate del día del sábado para santificarlo.
+      st_text: Помни день субботний, чтобы святить его;
+  - id: 21576
+    number: 9
+    bookId: 2
+    text: шесть дней работай и делай [в них] всякие дела твои,
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 21672
+        bookId: 2
+        bookCode: ishod
+        chapter: 23
+        short: Исх:23:12
+      - verseId: 21973
+        bookId: 2
+        bookCode: ishod
+        chapter: 31
+        short: Исх:31:15
+      - verseId: 22055
+        bookId: 2
+        bookCode: ishod
+        chapter: 34
+        short: Исх:34:21
+      - verseId: 22071
+        bookId: 2
+        bookCode: ishod
+        chapter: 35
+        short: Исх:35:2
+      - verseId: 23384
+        bookId: 3
+        bookCode: levit
+        chapter: 23
+        short: Лев:23:3
+      - verseId: 36776
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 5
+        short: Втор:5:13
+      - verseId: 24031
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 13
+        short: Лк:13:14
+    translates:
+      kassian: ""
+      podstr: Шесть дней делай и сделаешь все дела твои;
+      csya: "шесть дний делай и сотвориши (в них) вся дела твоя:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "ше1сть днjй дёлай и3 сотвори1ши (въ ни1хъ) вс‰ дэлA тво‰:"
+      sovr_rbo: Шесть дней работай, выполни все свои дела,
+      latin: Sex diebus operaberis, et facies omnia opera tua.
+      ukr: Шість день працюй і роби всю працю свою,
+      nkjv: Six days you shall labor and do all your work,
+      desnitsky: ""
+      mt: ‫   שֵׁשֶׁת יָמִים תַּעֲבֹד וְעָשִׂיתָ כָּל־מְלַאכְתֶּךָ‪‬ ‬
+      romana: Lucreaza sase zile si-ti fa in acelea toate treburile tale,
+      francais: Tu travailleras six jours, et tu feras tout ton ouvrage.
+      italian: sei giorni faticherai e farai ogni tuo lavoro;
+      old_georgian: ექუსთა დღეთა იქმოდე და ჰქმნე ყოველნი საქმენი.
+      portuguese: Seis dias trabalharás, e farás todo o teu trabalho;
+      polish: Sześć dni będziesz pracować i wykonywać wszystkie twe zajęcia.
+      turkish: Altı gün çalışacak, bütün işlerini yapacaksın.
+      nrt: Шесть дней трудись и делай всю свою работу,
+      Macarius: Шесть дней работай, и делай всякие дела свои;
+      serbian: Шест дана ради, и свршуј све послове своје.
+      bulgarian: шест дена работи и върши (в тях) всичките си работи;
+      deutsch: Sechs Tage sollst du arbeiten und alle dein Dinge beschicken;
+      ukr2: Шість днів працюватимеш і робитимеш всяке діло твоє.
+      ukr3: Шість день можна тобі працювати й робити всяке дїло твоє.
+      bel_syomukha: шэсьць дзён працуй і рабі ўсякія дзеі твае,
+      lev-khv: Шесть дней работай, и делай всякия дела свои;
+      czech: Sest dni budes pracovat a delat vsechnu svou praci.
+      spanish: Seis días trabajarás y harás tus obras,
+      st_text: шесть дней работай и делай [в них] всякие дела твои,
+  - id: 21577
+    number: 10
+    bookId: 2
+    text: "а день седьмой - суббота Господу, Богу твоему: не делай в оный никакого
+      дела ни ты, ни сын твой, ни дочь твоя, ни раб твой, ни рабыня твоя, ни
+      [вол твой, ни осел твой, ни всякий] скот твой, ни пришлец, который в
+      жилищах твоих;"
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 36777
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 5
+        short: Втор:5:14
+      - verseId: 27592
+        bookId: 16
+        bookCode: kniga-neemii
+        chapter: 10
+        short: Неем:10:31
+      - verseId: 25087
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 12
+        short: Мф:12:2
+    translates:
+      kassian: ""
+      podstr: же день седьмой суббота Господу Богу твоему; не сделаешь в нём всякое
+        дело, ты и сын твой и дочь твоя, раб твой и рабыня твоя, бык твой и
+        подъярёмное животное твоё и всякое животное твоё и пришелец который
+        поселенец среди тебя.
+      csya: "в день же седмый, суббота Господу Богу твоему: да не сотвориши всякаго
+        дела в онь ты и сын твой и дщерь твоя, и раб твой и раба твоя, и вол
+        твой и осля твое и всякий скот твой, и пришлец обитаяй у тебе:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "въ де1нь же седмы1й, суббHта гDу бг7у твоемY: да не сотвори1ши
+        всsкагw дэлA во1нь ты2 и3 сы1нъ тво1й и3 дще1рь твоS, и3 рaбъ тво1й и3
+        рабA твоS, и3 во1лъ тво1й и3 nслS твое2 и3 всsкій ско1тъ тво1й, и3
+        пришле1цъ њбитazй ў тебє2:"
+      sovr_rbo: "а седьмой день — суббота: он принадлежит Господу, твоему Богу.
+        Работать в этот день нельзя никому — ни тебе, ни сыну твоему, ни дочери,
+        ни рабу твоему, ни рабыне, ни твоему скоту, ни переселенцу, что живет в
+        твоем городе."
+      latin: "Septimo autem die sabbatum Domini Dei tui est: non facies omne opus in
+        eo, tu, et filius tuus et filia tua, servus tuus et ancilla tua,
+        jumentum tuum, et advena qui est intra portas tuas."
+      ukr: "а день сьомий субота для Господа, Бога твого: не роби жодної праці ти й
+        син твій, та дочка твоя, раб твій та невільниця твоя, і худоба твоя, і
+        приходько твій, що в брамах твоїх."
+      nkjv: "but the seventh day is the Sabbath of the Lord your God. In it you shall
+        do no work: you, nor your son, nor your daughter, nor your male servant,
+        nor your female servant, nor your cattle, nor your stranger who is
+        within your gates."
+      desnitsky: ""
+      mt: ‫   וְיוֹם הַשְּׁבִיעִי שַׁבָּת לַיהוָה אֱלֹהֶיךָ לֹא־תַעֲשֶׂה כָל־מְלָאכָה
+        אַתָּה וּבִנְךָ־וּבִתֶּךָ עַבְדְּךָ וַאֲמָתְךָ וּבְהֶמְתֶּךָ וְגֵרְךָ
+        אֲשֶׁר בִּשְׁעָרֶיךָ‪‬ ‬
+      romana: "Iar ziua a saptea este odihna Domnului Dumnezeului tau: sa nu faci in
+        acea zi nici un lucru: nici tu, nici fiul tau, nici fiica ta, nici sluga
+        ta, nici slujnica ta, nici boul tau, nici asinul tau, nici orice dobitoc
+        al tau, nici strainul care ramane la tine,"
+      francais: "Mais le septième jour est le jour du repos de l'Éternel, ton Dieu: tu
+        ne feras aucun ouvrage, ni toi, ni ton fils, ni ta fille, ni ton
+        serviteur, ni ta servante, ni ton bétail, ni l'étranger qui est dans tes
+        portes."
+      italian: "ma il settimo giorno è il sabato in onore del Signore, tuo Dio: tu non
+        farai alcun lavoro, né tu, né tuo figlio, né tua figlia, né il tuo
+        schiavo, né la tua schiava, né il tuo bestiame, né il forestiero che
+        dimora presso di te."
+      old_georgian: ხოლო დღე მეშჳდე შაბათი არს უფლისა, ღმრთისა შენისა, არა ჰქმნე მას
+        შინა ყოველი საქმე შენ და ძემან შენმან და ასულმან შენმან და მონამან
+        შენმან და მჴევალმან შენმან, ჴარმან შენმან და კარაულმან შენმან და
+        ყოველმან საცხოვარმან შენმან და მწირმან, რომელი მკჳდრ არს შენ შორის.
+      portuguese: "mas o sétimo dia é o sábado do Senhor teu Deus. Nesse dia não farás
+        trabalho algum, nem tu, nem teu filho,\rnem tua filha, nem o teu servo,
+        nem a tua serva, nem o teu animal, nem o estrangeiro que está dentro das
+        tuas\rportas."
+      polish: "Dzień zaś siódmy jest szabatem ku czci Pana, Boga twego. Nie możesz
+        przeto\rw dniu tym wykonywać żadnej pracy ani ty sam, ani syn twój, ani
+        twoja\rcórka, ani twój niewolnik, ani twoja niewolnica, ani twoje bydło,
+        ani cudzoziemiec, który mieszka pośród twych bram."
+      turkish: Ama yedinci gün bana, Tanrın RAB'be Şabat Günü olarak adanmıştır. O gün
+        sen, oğlun, kızın, erkek ve kadın kölen, hayvanların, aranızdaki
+        yabancılar dahil, hiçbir iş yapmayacaksınız.
+      nrt: но седьмой день – это суббота Господу, твоему Богу. Не делай в этот день
+        никакую работу – ни ты, ни твой сын или дочь, ни слуга или служанка, ни
+        твой скот, ни чужеземец в твоих городах.
+      Macarius: "А день седьмый — суббота Иеговы, Бога твоего: не делай никакого дела
+        ни ты, ни сын твой, ни дочь твоя, ни раб твой, ни раба твоя, ни скот
+        твой, ни пришлец, который в жилищах твоих."
+      serbian: А седми је дан одмор Господу Богу твојему; тада немој радити ниједнога
+        посла, ни ти, ни син твој, ни кћи твоја, ни слуга твој, ни слушкиња
+        твоја, ни живинче твоје, ни странац који је међу вратима твојим.
+      bulgarian: "а седмият ден е събота на Господа, твоя Бог: недей върши в него
+        никаква работа ни ти, ни син ти, ни дъщеря ти, ни робът ти, ни робинята
+        ти, ни (волът ти, ни оселът ти, нито какъвто и да е) твой добитък, нито
+        пришълецът ти, който се намира в жилищата ти;"
+      deutsch: aber am siebenten Tage ist der Sabbat des Herrn, deines Gottes; da
+        sollst du kein Werk tun noch dein Sohn noch deine Tochter noch dein
+        Knecht noch deine Magd noch dein Vieh noch dein Fremdling, der in deinen
+        Toren ist.
+      ukr2: День же сьомий - відпочинок на честь Господа, Бога твого; не робитимеш
+        ніякого діла сам, ані син твій, ані дочка твоя, ані раб твій, ані рабиня
+        твоя; худоба твоя, ані чужинець, що перебуває в твоєму дворі.
+      ukr3: День же семий субота Господеві, Богу твойму.
+      bel_syomukha: "а дзень сёмы - субота Госпаду, Богу твайму: не рабі ў гэты ніякай
+        працы ні ты, ні сын твой, ні дачка твая, ні раб твой, ні рабыня твая, ні
+        быдла тваё, ні прыхадзень, які ў брамах тваіх;"
+      lev-khv: "А день седьмой суббота Господу, Богу твоему: не делай никакой работы
+        ни ты, ни сын твой, ни дочь твоя, ни раб твой, ни рабыня твоя, ни скот
+        твой, ни пришлец, который в жилищах твоих;"
+      czech: Ale sedmy den je den odpocinuti Hospodina, tveho Boha. Nebudes delat
+        zadnou praci ani ty ani tvuj syn a tva dcera ani tvuj otrok a tva
+        otrokyne ani tve dobytce ani tvuj host, ktery zije v tvych branach.
+      spanish: pero el séptimo día es día de descanso, consagrado a Yavé, tu Dios, y
+        no harás en él trabajo alguno, ni tú, ni tu hijo, ni tu hija, ni tu
+        siervo, ni tu sierva, ni tu ganado, ni el extranjero que está dentro de
+        tus puertas;
+      st_text: "а день седьмой - суббота Господу, Богу твоему: не делай в оный
+        никакого дела ни ты, ни сын твой, ни дочь твоя, ни раб твой, ни рабыня
+        твоя, ни [вол твой, ни осел твой, ни всякий] скот твой, ни пришлец,
+        который в жилищах твоих;"
+  - id: 21578
+    number: 11
+    bookId: 2
+    text: ибо в шесть дней создал Господь небо и землю, море и все, что в них, а в
+      день седьмой почил; посему благословил Господь день субботний и освятил
+      его.
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 9952
+        bookId: 1
+        bookCode: bytie
+        chapter: 2
+        short: Быт:2:2
+      - verseId: 21975
+        bookId: 2
+        bookCode: ishod
+        chapter: 31
+        short: Исх:31:17
+      - verseId: 14747
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 4
+        short: Евр:4:4
+    translates:
+      kassian: ""
+      podstr: В ведь шести днях сделал Господь небо и землю и море и всё которое в них
+        и предался покою [в] день седьмой; через это благословил Господь день
+        седьмой и освятил его.
+      csya: "зане в шести днех сотвори Господь небо и землю, море и вся яже в них, и
+        почи в день седмый: сего ради благослови Господь день седмый и освяти
+        его."
+      averincev: ""
+      ungerov: ""
+      csya_old: "зане2 въ шести2 дне1хъ сотвори2 гDь не1бо и3 зе1млю, мо1ре и3 вс‰ ±же
+        въ ни1хъ, и3 почи2 въ де1нь седмы1й: сегw2 рaди блгcви2 гDь де1нь
+        седмы1й и3 њс™и2 є3го2."
+      sovr_rbo: Ибо шесть дней Господь творил небо и землю, и море, и все, что их
+        наполняет, а в седьмой день пребывал в покое. Поэтому благословил
+        Господь субботний день и сделал его священным.
+      latin: "Sex enim diebus fecit Dominus caelum et terram, et mare, et omnia quae
+        in eis sunt, et requievit in die septimo: idcirco benedixit Dominus diei
+        sabbati, et sanctificavit eum."
+      ukr: Бо шість день творив Господь небо та землю, море та все, що в них, а дня
+        сьомого спочив тому поблагословив Господь день суботній і освятив його.
+      nkjv: For in six days the Lord made the heavens and the earth, the sea, and all
+        that is in them, and rested the seventh day. Therefore the Lord blessed
+        the Sabbath day and hallowed it.
+      desnitsky: ""
+      mt: ‫   כִּי שֵׁשֶׁת־יָמִים עָשָׂה יְהוָה אֶת־הַשָּׁמַיִם וְאֶת־הָאָרֶץ
+        אֶת־הַיָּם וְאֶת־כָּל־אֲשֶׁר־בָּם וַיָּנַח בַּיּוֹם הַשְּׁבִיעִי
+        עַל־כֵּן בֵּרַךְ יְהוָה אֶת־יוֹם הַשַּׁבָּת וַיְקַדְּשֵׁהוּ׃ ס ‬
+      francais: "Car en six jours l'Éternel a fait les cieux, la terre et la mer, et
+        tout ce qui y est contenu, et il s'est reposé le septième jour: c'est
+        pourquoi l'Éternel a béni le jour du repos et l'a sanctifié."
+      italian: Perché in sei giorni il Signore ha fatto il cielo e la terra e il mare
+        e quanto è in essi, ma si è riposato il giorno settimo. Perciò il
+        Signore ha benedetto il giorno di sabato e lo ha dichiarato sacro.
+      old_georgian: რამეთუ ექუსთა დღეთა შინა შექმნა უფალმან ცა და ქუეყანაჲ და ზღუაჲ და
+        ყოველნი მას შინანი და განისუენა დღესა მეშჳდესა. ამისთჳს აკურთხა უფალმან
+        დღე მეშვიდე და წმიდა-ყო იგი.
+      portuguese: "Porque em seis dias fez o Senhor o céu e a terra, o mar e tudo o
+        que neles há, e ao sétimo dia descansou; por\risso o Senhor abençoou o
+        dia do sábado, e o santificou."
+      polish: "W sześciu dniach bowiem uczynił Pan niebo, ziemię, morze oraz wszystko,
+        co\rjest w nich, w siódmym zaś dniu odpoczął. Dlatego pobłogosławił Pan
+        dzień\rszabatu i uznał go za święty."
+      turkish: Çünkü ben, RAB yeri göğü, denizi ve bütün canlıları altı günde
+        yarattım, yedinci gün dinlendim. Bu yüzden Şabat Günü'nü kutsadım ve
+        kutsal bir gün olarak belirledim.
+      nrt: За шесть дней Господь сотворил небеса и землю, море и все, что в них, а на
+        седьмой отдыхал. Поэтому Господь благословил субботний день и освятил
+        его.
+      Macarius: "Ибо в шесть дней Иегова создал небо и землю, море и все, что в них: а
+        в день седьмый почил. Посему благословил Иегова день субботний и освятил
+        его."
+      serbian: Јер је за шест дана створио Господ небо и земљу, море и што је год у
+        њима; а у седми дан почину; зато је благословио Господ дан од одмора и
+        посветио га.
+      bulgarian: защото в шест дена създаде Господ небето и земята, морето и всичко,
+        що е в тях, а в седмия ден си почина; затова Господ благослови съботния
+        ден и го освети.
+      deutsch: Denn in sechs Tagen hat der Herr Himmel und Erde gemacht und das Meer
+        und alles, was darinnen ist, und ruhte am siebenten Tage. Darum segnete
+        der Herr den Sabbattag und heiligte ihn.
+      ukr2: Бо шість днів творив Господь небо і землю й море, і все, що в них, а
+        сьомого дня відпочив; тим і благословив Господь сьомий день і освятив
+        його.
+      ukr3: Бо шість день творив Господь небеса і землю, море й усе, що в їх, і
+        перестав дня семого; тим благословив Господь субітнїй день і осьвятив
+        його.
+      bel_syomukha: бо за шэсьць дзён стварыў Гасподзь неба і зямлю, мора і ўсё, што ў
+        іх, а ў дзень сёмы спачыў; таму дабраславіў Гасподзь дзень суботні і
+        асьвяціў яго.
+      lev-khv: Потому что в шесть дней создал Господь небо и землю, море и все, чтó в
+        них, а в день седьмой почил. Поэтому благословил Господь день субботный
+        и освятил его.
+      czech: V sesti dnech ucinil Hospodin nebe i zemi, more a vsechno, co je v nich,
+        a sedmeho dne odpocinul. Proto pozehnal Hospodin den odpocinku a oddelil
+        jej jako svaty.
+      spanish: pues en seis días hizo Yavé los cielos y la tierra, el mar y cuanto en
+        ellos se contiene, y el séptimo descansó; por eso bendijo Yavé el día
+        del sábado y lo santificó.
+      st_text: ибо в шесть дней создал Господь небо и землю, море и все, что в них, а
+        в день седьмой почил; посему благословил Господь день субботний и
+        освятил его.
+  - id: 21579
+    number: 12
+    bookId: 2
+    text: Почитай отца твоего и мать твою, [чтобы тебе было хорошо и] чтобы
+      продлились дни твои на земле, которую Господь, Бог твой, дает тебе.
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 23247
+        bookId: 3
+        bookCode: levit
+        chapter: 19
+        short: Лев:19:3
+      - verseId: 36779
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 5
+        short: Втор:5:16
+      - verseId: 36668
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 32
+        short: Втор:32:47
+      - verseId: 35694
+        bookId: 18
+        bookCode: kniga-tovita
+        chapter: 4
+        short: Тов:4:3
+      - verseId: 33968
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 3
+        short: Сир:3:3
+      - verseId: 33973
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 3
+        short: Сир:3:8
+      - verseId: 24939
+        bookId: 46
+        bookCode: kniga-proroka-malahii
+        chapter: 1
+        short: Мал:1:6
+      - verseId: 25233
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 15
+        short: Мф:15:4
+      - verseId: 25377
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 19
+        short: Мф:19:19
+      - verseId: 26727
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 7
+        short: Мк:7:10
+      - verseId: 26228
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 10
+        short: Мк:10:19
+      - verseId: 24207
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 18
+        short: Лк:18:20
+      - verseId: 14147
+        bookId: 67
+        bookCode: k-efesanam-poslanie-ap-pavla
+        chapter: 6
+        short: Еф:6:1
+      - verseId: 14148
+        bookId: 67
+        bookCode: k-efesanam-poslanie-ap-pavla
+        chapter: 6
+        short: Еф:6:2
+      - verseId: 14149
+        bookId: 67
+        bookCode: k-efesanam-poslanie-ap-pavla
+        chapter: 6
+        short: Еф:6:3
+    translates:
+      kassian: ""
+      podstr: Почитай отца твоего и мать, чтобы хорошо тебе сделалось, и чтобы
+        долговременен сделался на земле доброй, которую Господь Бог твой даёт
+        тебе.
+      csya: Чти отца твоего и матерь твою, да благо ти будет и да долголетен будеши на
+        земли блазе, юже Господь Бог твой дает тебе.
+      averincev: ""
+      ungerov: ""
+      csya_old: Чти2 nтцA твоего2 и3 мaтерь твою2, да блaго ти2 бyдетъ и3 да
+        долголётенъ бyдеши на земли2 блaзэ, ю4же гDь бг7ъ тво1й дае1тъ тебЁ.
+      sovr_rbo: Чти отца и мать, чтобы долгой была твоя жизнь на той земле, которую
+        Господь, твой Бог, дарует тебе.
+      latin: Honora patrem tuum et matrem tuam, ut sis longaevus super terram, quam
+        Dominus Deus tuus dabit tibi.
+      ukr: Шануй свого батька та матір свою, щоб довгі були твої дні на землі, яку
+        Господь, Бог твій, дає тобі!
+      nkjv: '"Honor your father and your mother, that your days may be long upon the
+        land which the Lord your God is giving you.'
+      desnitsky: ""
+      mt: ‫   כַּבֵּד אֶת־אָבִיךָ וְאֶת־אִמֶּךָ לְמַעַן יַאֲרִכוּן יָמֶיךָ עַל
+        הָאֲדָמָה אֲשֶׁר־יְהוָה אֱלֹהֶיךָ נֹתֵן לָךְ׃ ס ‬
+      romana: Cinsteste pe tatal tau si pe mama ta, ca sa-ti fie bine si sa traiesti
+        ani multi pe pamantul pe care Domnul Dumnezeul tau ti-l va da tie.
+      francais: Honore ton père et ta mère, afin que tes jours se prolongent dans le
+        pays que l'Éternel, ton Dieu, te donne.
+      italian: Onora tuo padre e tua madre, perché si prolunghino i tuoi giorni nel
+        paese che ti dà il Signore, tuo Dio.
+      old_georgian: პატივ-ეც მამასა შენსა და დედასა შენსა, რათა კეთილი იქმნეს შენდა და
+        რათა გრძელ ჟამ იყო ქუეყანასა ზედა კეთილისასა, რომელი უფალმან ღმერთმან
+        შენმან მოგცეს შენ.
+      portuguese: Honra a teu pai e a tua mãe, para que se prolonguem os teus dias na
+        terra que o Senhor teu Deus te dá.
+      polish: "Czcij ojca twego i matkę twoją, abyś długo żył na ziemi, którą Pan,
+        Bóg\rtwój, da tobie."
+      turkish: «Annene babana saygı göster. Öyle ki, Tanrın RAB'bin sana vereceği
+        ülkede ömrün uzun olsun.
+      nrt: Почитай своего отца и мать, чтобы тебе долго жить на земле, которую дает
+        тебе Господь, твой Бог.
+      Macarius: Почитай отца твоего и матерь твою, чтобы продлились дни твои на земле,
+        которую Иегова, Бог твой, дает тебе.
+      serbian: Поштуј оца својега и матер своју, да ти се продуље дани на земљи, коју
+        ти да Господ Бог твој.
+      bulgarian: Почитай баща си и майка си, (за да ти бъде добре и) за да живееш
+        дълго на земята, която Господ, Бог твой, ти дава.
+      deutsch: Du sollst deinen Vater und deine Mutter ehren, auf daß du lange lebest
+        in dem Lande, daß dir der Herr, dein Gott, gibt.
+      ukr2: Шануй твого батька і матір твою, щоб довголітній був ти на землі, що
+        Господь, Бог твій, дасть тобі.
+      ukr3: Шануй батька твого й матїр твою, щоб довголїтен був ти на землї, що
+        Господь, Бог твій, дасть тобї.
+      bel_syomukha: Шануй бацьку твайго і маці тваю, каб падоўжыліся дні твае на
+        зямлі, якую Гасподзь, Бог твой, дае табе.
+      lev-khv: Почитай отца твоего и мать твою, чтобы продлились дни твои на земле,
+        которую Господь, Бог твой, дает тебе.
+      czech: Cti sveho otce i matku, abys byl dlouho ziv na zemi, kterou ti dava
+        Hospodin, tvuj Buh.
+      spanish: Honra a tu padre y a tu madre, para que vivas largos años en la tierra
+        que Yavé, tu Dios, te da.
+      st_text: Почитай отца твоего и мать твою, [чтобы тебе было хорошо и] чтобы
+        продлились дни твои на земле, которую Господь, Бог твой, дает тебе.
+  - id: 21580
+    number: 13
+    bookId: 2
+    text: Не убивай.
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 36780
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 5
+        short: Втор:5:17
+      - verseId: 25897
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 5
+        short: Мф:5:21
+      - verseId: 25376
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 19
+        short: Мф:19:18
+      - verseId: 26228
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 10
+        short: Мк:10:19
+      - verseId: 24207
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 18
+        short: Лк:18:20
+      - verseId: 15178
+        bookId: 56
+        bookCode: poslanie-ap-iakova
+        chapter: 2
+        short: Иак:2:11
+      - verseId: 32910
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 13
+        short: Рим:13:9
+    translates:
+      kassian: ""
+      podstr: Не [да] будешь убивать.
+      csya: Не убий.
+      averincev: ""
+      ungerov: ""
+      csya_old: Не ўбjй.
+      sovr_rbo: Не убивай.
+      latin: Non occides.
+      ukr: Не вбивай!
+      nkjv: '"You shall not murder.'
+      desnitsky: ""
+      mt: ‫   לֹא תִּרְצָח׃ ס ‬
+      romana: Sa nu ucizi!
+      francais: Tu ne tueras point.
+      italian: Non uccidere.
+      old_georgian: არა კაც-ჰკლა,
+      portuguese: Não matarás.
+      polish: Nie będziesz zabijał.
+      turkish: «Adam öldürmeyeceksin.
+      nrt: Не убивай.
+      Macarius: Не убивай.
+      serbian: Не убиј.
+      bulgarian: Не убивай.
+      deutsch: Du sollst nicht töten.
+      ukr2: Не вбиватимеш.
+      ukr3: Не вбивати меш.
+      bel_syomukha: Не забівай.
+      lev-khv: Не убивай.
+      czech: Nezabijes.
+      spanish: No matarás.
+      st_text: Не убивай.
+  - id: 21581
+    number: 14
+    bookId: 2
+    text: Не прелюбодействуй.
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 36781
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 5
+        short: Втор:5:18
+      - verseId: 22818
+        bookId: 19
+        bookCode: kniga-iudif
+        chapter: 9
+        short: Иудиф:9:3
+      - verseId: 25903
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 5
+        short: Мф:5:27
+      - verseId: 25376
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 19
+        short: Мф:19:18
+      - verseId: 26228
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 10
+        short: Мк:10:19
+      - verseId: 24207
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 18
+        short: Лк:18:20
+      - verseId: 32910
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 13
+        short: Рим:13:9
+    translates:
+      kassian: ""
+      podstr: Не [да] будешь прелюбодействовать.
+      csya: Не прелюбы сотвори.
+      averincev: ""
+      ungerov: ""
+      csya_old: Не прелюбы2 сотвори2.
+      sovr_rbo: Не прелюбодействуй.
+      latin: Non moechaberis.
+      ukr: Не чини перелюбу!
+      nkjv: '"You shall not commit adultery.'
+      desnitsky: ""
+      mt: ‫   לֹא תִּנְאָף׃ ס ‬
+      romana: Sa nu fii desfranat!
+      francais: Tu ne commettras point d'adultère.
+      italian: Non commettere adulterio.
+      old_georgian: არა იმრუშო,
+      portuguese: Não adulterarás.
+      polish: Nie będziesz cudzołożył.
+      turkish: «Zina etmeyeceksin.
+      nrt: Не нарушай супружескую верность.
+      Macarius: Не прелюбодействуй.
+      serbian: Не чини прељубе.
+      bulgarian: Не прелюбодействувай.
+      deutsch: Du sollst nicht ehebrechen.
+      ukr2: Не чужоложитимеш.
+      ukr3: Не прелюбкувати меш.
+      bel_syomukha: Ня чыні пералюбу.
+      lev-khv: Не прелюбодейтствуй.
+      czech: Nesesmilnis.
+      spanish: No adulterarás.
+      st_text: Не прелюбодействуй.
+  - id: 21582
+    number: 15
+    bookId: 2
+    text: Не кради.
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 23255
+        bookId: 3
+        bookCode: levit
+        chapter: 19
+        short: Лев:19:11
+      - verseId: 36782
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 5
+        short: Втор:5:19
+      - verseId: 25376
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 19
+        short: Мф:19:18
+      - verseId: 26228
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 10
+        short: Мк:10:19
+      - verseId: 24207
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 18
+        short: Лк:18:20
+    translates:
+      kassian: ""
+      podstr: Не [да] будешь красть.
+      csya: Не укради.
+      averincev: ""
+      ungerov: ""
+      csya_old: Не ўкрaди.
+      sovr_rbo: Не воруй.
+      latin: Non furtum facies.
+      ukr: Не кради!
+      nkjv: '"You shall not steal.'
+      desnitsky: ""
+      mt: ‫   לֹא תִּגְנֹב׃ ס ‬
+      romana: Sa nu furi!
+      francais: Tu ne déroberas point.
+      italian: Non rubare.
+      old_georgian: არა იპარო,
+      portuguese: Não furtarás.
+      polish: Nie będziesz kradł.
+      turkish: «Çalmayacaksın.
+      nrt: Не кради.
+      Macarius: Не кради.
+      serbian: Не кради.
+      bulgarian: Не кради.
+      deutsch: Du sollst nicht stehlen.
+      ukr2: Не крастимеш.
+      ukr3: Не красти меш.
+      bel_syomukha: Ня крадзь.
+      lev-khv: Не крадь.
+      czech: Nepokrades.
+      spanish: No robarás.
+      st_text: Не кради.
+  - id: 21583
+    number: 16
+    bookId: 2
+    text: Не произноси ложного свидетельства на ближнего твоего.
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 36783
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 5
+        short: Втор:5:20
+      - verseId: 25376
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 19
+        short: Мф:19:18
+      - verseId: 26228
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 10
+        short: Мк:10:19
+      - verseId: 24207
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 18
+        short: Лк:18:20
+    translates:
+      kassian: ""
+      podstr: Не [да] будешь лжесвидетельствовать против ближнего твоего свидетельство
+        ложное.
+      csya: Не послушествуй на друга своего свидетельства ложна.
+      averincev: ""
+      ungerov: ""
+      csya_old: Не послyшествуй на дрyга своего2 свидётельства ло1жна.
+      sovr_rbo: Не давай ложных показаний против ближнего.
+      latin: Non loqueris contra proximum tuum falsum testimonium.
+      ukr: Не свідкуй неправдиво на свого ближнього!
+      nkjv: '"You shall not bear false witness against your neighbor.'
+      desnitsky: ""
+      mt: ‫   לֹא־תַעֲנֶה בְרֵעֲךָ עֵד שָׁקֶר׃ ס ‬
+      romana: Sa nu marturisesti stramb impotriva aproapelui tau!
+      francais: Tu ne porteras point de faux témoignage contre ton prochain.
+      italian: Non pronunciare falsa testimonianza contro il tuo prossimo.
+      old_georgian: არა ცილი სწამო მოყუასსა შენსა ზედა წამებითა ცრუჲთა,
+      portuguese: Não dirás falso testemunho contra o teu próximo.
+      polish: Nie będziesz mówił przeciw bliźniemu twemu kłamstwa jako świadek.
+      turkish: «Komşuna karşı yalan yere tanıklık etmeyeceksin.
+      nrt: Не давай ложного свидетельства на другого.
+      Macarius: Не произноси ложного свидетельства на ближнего твоего.
+      serbian: Не свједочи лажно на ближњега својега.
+      bulgarian: Не лъжесвидетелствувай против ближния си.
+      deutsch: Du sollst kein falsch Zeugnis reden wider deinen Nächsten.
+      ukr2: Не свідкуватимеш ложно на ближнього твого.
+      ukr3: Не сьвідкувати меш льживо на близького твого.
+      bel_syomukha: Не кажы ілжывага сьведчаньня на блізкага твайго.
+      lev-khv: Не произноси ложнаго свидетельства на ближняго твоего.
+      czech: Nevydas proti svemu bliznimu krive svedectvi.
+      spanish: No testificarás contra tu prójimo falso testimonio.
+      st_text: Не произноси ложного свидетельства на ближнего твоего.
+  - id: 21584
+    number: 17
+    bookId: 2
+    text: Не желай дома ближнего твоего; не желай жены ближнего твоего, [ни поля
+      его,] ни раба его, ни рабыни его, ни вола его, ни осла его, [ни всякого
+      скота его,] ничего, что у ближнего твоего.
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 36784
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 5
+        short: Втор:5:21
+      - verseId: 34404
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 41
+        short: Сир:41:26
+      - verseId: 26228
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 10
+        short: Мк:10:19
+      - verseId: 33137
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 7
+        short: Рим:7:7
+      - verseId: 32910
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 13
+        short: Рим:13:9
+    translates:
+      kassian: ""
+      podstr: Не [да] будешь вожделеть жену ближнего твоего. Не [да] будешь вожделеть
+        дом ближнего твоего и не поле его и не раба его и не рабыню его и не
+        быка его и не подъяремного животного его и не всякого скота его и не
+        сколькое ближнего твоего есть.
+      csya: Не пожелай жены искренняго твоего, не пожелай дому ближняго твоего, ни
+        села его, ни раба его, ни рабыни его, ни вола его, ни осла его, ни
+        всякаго скота его, ни всего, елика суть ближняго твоего.
+      averincev: ""
+      ungerov: ""
+      csya_old: Не пожелaй жены2 и4скреннzгw твоегw2, не пожелaй до1му бли1жнzгw
+        твоегw2, ни селA є3гw2, ни рабA є3гw2, ни рабы1ни є3гw2, ни волA є3гw2,
+        ни nслA є3гw2, ни всsкагw скотA є3гw2, ни всегw2, є3ли6ка сyть бли1жнzгw
+        твоегw2.
+      sovr_rbo: Не желай чужого дома, не желай чужой жены, чужих рабов и рабынь, чужих
+        быков и ослов — ничего чужого».
+      latin: Non concupisces domum proximi tui, nec desiderabis uxorem ejus, non
+        servum, non ancillam, non bovem, non asinum, nec omnia quae illius sunt.
+      ukr: Не жадай дому ближнього свого, не жадай жони ближнього свого, ані раба
+        його, ані невільниці його, ані вола його, ані осла його, ані всього, що
+        ближнього твого!
+      nkjv: "\"You shall not covet your neighbor's house; you shall not covet your
+        neighbor's wife, nor his male servant, nor his female servant, nor his
+        ox, nor his donkey, nor anything that is your neighbor's.\" "
+      desnitsky: ""
+      mt: ‫   לֹא תַחְמֹד בֵּית רֵעֶךָ לֹא־תַחְמֹד אֵשֶׁת רֵעֶךָ וְעַבְדּוֹ וַאֲמָתוֹ
+        וְשׁוֹרוֹ וַחֲמֹרוֹ וְכֹל אֲשֶׁר לְרֵעֶךָ׃ פ ‬
+      romana: Sa nu doresti casa aproapelui tau; sa nu doresti femeia aproapelui tau,
+        nici ogorul lui, nici sluga lui, nici slujnica lui, nici boul lui, nici
+        asinul lui si nici unul din dobitoacele lui si nimic din cate are
+        aproapele tau!"
+      francais: Tu ne convoiteras point la maison de ton prochain; tu ne convoiteras
+        point la femme de ton prochain, ni son serviteur, ni sa servante, ni son
+        boeuf, ni son âne, ni aucune chose qui appartienne à ton prochain.
+      italian: Non desiderare la casa del tuo prossimo. Non desiderare la moglie del
+        tuo prossimo, né il suo schiavo, né la sua schiava, né il suo bue, né il
+        suo asino, né alcuna cosa che appartenga al tuo prossimo".
+      old_georgian: არა გული-გითქუმიდეს ცოლსა მოყუსისა შენისასა, არცა აგარაკსა მისსა,
+        არცა მონასა მისსა, არცა მჴევალსა მისსა, არცა ჴარსა მისსა, არცა კაჰრაულსა
+        მისსა, არცა ყოველსა საცხოვარსა მისსა, არცა რაოდენი-რაჲ არს მოყუსისა
+        შენისა.
+      portuguese: "Não cobiçarás a casa do teu próximo, não cobiçarás a mulher do teu
+        próximo, nem o seu servo, nem a sua\rserva, nem o seu boi, nem o seu
+        jumento, nem coisa alguma do teu próximo."
+      polish: "Nie będziesz pożądał domu bliźniego twego. Nie będziesz pożądał żony
+        bliźniego twego, ani jego niewolnika, ani jego niewolnicy, ani jego
+        wołu, ani jego\rosła, ani żadnej rzeczy, która należy do bliźniego
+        twego”."
+      turkish: «Komşunun evine, karısına, erkek ve kadın kölesine, öküzüne, eşeğine,
+        hiçbir şeyine göz dikmeyeceksin.»
+      nrt: "Не желай дома ближнего твоего. Не желай жены твоего ближнего, его слуги
+        или служанки, его вола или осла: ничего из того, что принадлежит
+        ближнему твоему."
+      Macarius: Не желай дома ближнего твоего; не желай жены ближнего твоего, ни раба
+        его, ни рабы его, ни вола его, ни осла его, ничего, что у ближнего
+        твоего.
+      serbian: Не пожели куће ближњега својега, не пожели жене ближњега својега, ни
+        слуге његова, ни слушкиње његове, ни вола његова, ни магарца његова,
+        нити ишта што је ближњега твојега.
+      bulgarian: Не пожелавай дома на ближния си; не пожелавай жената на ближния си,
+        (нито нивата му) нито роба му, ни робинята му, ни вола му, ни осела му,
+        (нито никакъв негов добитък) - нищо, което е на ближния ти.
+      deutsch: Laß dich nicht gelüsten deines Nächsten Hauses. Laß dich nicht gelüsten
+        deines Nächsten Weibes, noch seines Knechtes noch seiner Magd, noch
+        seines Ochsen noch seines Esels, noch alles, was dein Nächster hat.
+      ukr2: Не зазіхатимеш на дім ближнього твого; не пожадатимеш жінки ближнього
+        твого, ані раба його, ані рабині його, ані вола його, ані його осла, ані
+        чогонебудь, що належало б ближньому твоєму.
+      ukr3: Не поривати меш очей на хату близнього твого; не поривати меш очей на жену
+        його, нї на раба його, нї на рабиню його, нї на скотину його, нї на осла
+        його, нї на що, що є близьнього твого.
+      bel_syomukha: Ня прагні дому блізкага твайго; ня прагні жонкі блізкага твайго,
+        ні раба ягонага, ні рабыні ягонай, ні вала ягонага, ні асла ягонага,
+        нічога, што ў блізкага твайго.
+      lev-khv: Не желай дома ближняго твоего; не желай жены ближняго твоего, ни раба
+        его, ни рабыни его, ни вода его, ни осла его, ничего, чтó у ближняго
+        твоего.
+      czech: Nebudes dychtit po dome sveho blizniho. Nebudes dychtit po zene sveho
+        blizniho ani po jeho otroku ani po jeho otrokyni ani po jeho byku ani po
+        jeho oslu, vubec po nicem, co patri tvemu bliznimu."
+      spanish: No desearás la casa de tu prójimo, ni la mujer de tu prójimo, ni su
+        siervo, ni su sierva, ni su buey, ni su asno, ni nada de cuanto le
+        pertenece>>.
+      st_text: Не желай дома ближнего твоего; не желай жены ближнего твоего, [ни поля
+        его,] ни раба его, ни рабыни его, ни вола его, ни осла его, [ни всякого
+        скота его,] ничего, что у ближнего твоего.
+  - id: 21585
+    number: 18
+    bookId: 2
+    text: Весь народ видел громы и пламя, и звук трубный, и гору дымящуюся; и увидев
+      <i>то</i>, [весь] народ отступил и стал вдали.
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 21525
+        bookId: 2
+        bookCode: ishod
+        chapter: 19
+        short: Исх:19:8
+      - verseId: 36786
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 5
+        short: Втор:5:23
+      - verseId: 32105
+        bookId: 22
+        bookCode: psaltir
+        chapter: 67
+        short: Пс:67:8
+      - verseId: 14671
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 12
+        short: Евр:12:19
+    translates:
+      kassian: ""
+      podstr: И весь народ видел голос и молнии и голос трубы и гору дымящуюся;
+        устрашённый же весь народ стал издали.
+      csya: "И вси людие зряху глас и свещы, и глас трубный и гору дымящуюся: и
+        убоявшеся вси людие сташа издалече,"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# вси2 лю1діе зрsху глaсъ и3 свэщы2, и3 глaсъ трyбный и3 го1ру
+        дымsщуюсz: и3 ўбоsвшесz вси2 лю1діе стaша и3здале1че,"
+      sovr_rbo: Весь народ видел и слышал громы и молнии, и звук рога, и дымящуюся
+        гору. Затрепетали люди, отошли и стали поодаль.
+      latin: "Cunctus autem populus videbat voces et lampades, et sonitum buccinae,
+        montemque fumantem: et perterriti ac pavore concussi, steterunt procul,"
+      ukr: І ввесь народ бачив та чув громи та полум'я, і голос сурми, і гору димлячу.
+        І побачив народ, і всі тремтіли та й поставали здалека.
+      nkjv: Now all the people witnessed the thunderings, the lightning flashes, the
+        sound of the trumpet, and the mountain smoking; and when the people saw
+        it, they trembled and stood afar off.
+      desnitsky: ""
+      mt: ‫   וְכָל־הָעָם רֹאִים אֶת־הַקּוֹלֹת וְאֶת־הַלַּפִּידִם וְאֵת קוֹל הַשֹּׁפָר
+        וְאֶת־הָהָר עָשֵׁן וַיַּרְא הָעָם וַיָּנֻעוּ וַיַּעַמְדוּ מֵרָחֹק׃ ‬
+      romana: Si tot poporul a auzit fulgerele si tunetele si sunetul trambitelor, si
+        a vazut muntele fumegand; si vazand, tot poporul s-a dat inapoi si a
+        stat departe, temandu-se.
+      francais: Tout le peuple entendait les tonnerres et le son de la trompette; il
+        voyait les flammes de la montagne fumante. A ce spectacle, le peuple
+        tremblait, et se tenait dans l'éloignement.
+      italian: Tutto il popolo percepiva i tuoni e i lampi, il suono del corno e il
+        monte fumante. Il popolo vide, fu preso da tremore e si tenne lontano.
+      old_georgian: და ყოველი ერი ხედვიდა ჴმასა და ლამპართა და ჴმასა საყჳრისასა და
+        მთაჲ მკუმოლვარე იყო, ხოლო შეშინებულნი ყოველნი ერნი დგეს შორს.
+      portuguese: "Ora, todo o povo presenciava os trovões, e os relâmpagos, e o
+        sonido da buzina, e o monte a fumegar; e o povo,\rvendo isso, estremeceu
+        e pôs-se de longe."
+      polish: "Wtedy cały lud, słysząc grzmoty i błyskawice oraz głos trąby i widząc
+        górę\rdymiącą, przeląkł się i drżał, i stał z daleka."
+      turkish: Halk gök gürlemelerini, boru sesini duyup şimşekleri ve dağın başındaki
+        dumanı görünce korkudan titremeye başladı. Uzakta durarak
+      nrt: Когда люди увидели гром и молнию, услышали звук рога и увидели гору в дыму,
+        они задрожали от страха. Они встали поодаль
+      Macarius: Весь народ видел громы, и молнии, и глас трубный и гору дымящуюся; и
+        видя то, народ отступил, и стал вдали.
+      serbian: И сав народ видје гром и муњу и трубу гдје труби и гору гдје се дими; и
+        народ видјевши то, узмаче се и стаде издалека,
+      bulgarian: Целият народ чуваше гръмовете и тръбния глас и гледаше пламъка и
+        планината, която се димеше; като видя това, целият народ отстъпи и
+        стоеше надалеч.
+      deutsch: Und alles Volk sah den Donner und Blitz und den Ton der Posaune und den
+        Berg rauchen. Da sie aber solches sahen, flohen sie und traten von ferne
+      ukr2: Коли ж увесь люд спостеріг грохіт грому та блискавки і трубний гомін і
+        гору димучу, затремтів од страху і затримався оддалеки.
+      ukr3: І вбачали всї люде громуваннє й блискавицї, і гук роговий, і гору димуючу,
+        і вбачаючи відступили назад і стояли оддалеки.
+      bel_syomukha: Увесь народ бачыў грымоты і полымя, і гук трубны і гару, што
+        дымілася; і ўбачыўшы тое, народ адступіў і спыніўся спадалёк.
+      lev-khv: И весь народ видел громы, и пламя, и звук трубный, и гору дымящуюся; и
+        увидел народ, и отступил в ужасе, и стал вдали.
+      czech: Vsechen lid pozoroval hrmeni a blyskani, zvuk polnice a kourici se horu.
+        Lid to pozoroval, chvel se a zustal stat opodal.
+      spanish: Todo el pueblo oía los truenos y el sonido de la trompeta, y veía las
+        llamas y la montaña humeante, y, atemorizados y llenos de pavor, se
+        estaban lejos.
+      st_text: Весь народ видел громы и пламя, и звук трубный, и гору дымящуюся; и
+        увидев <i>то</i>, [весь] народ отступил и стал вдали.
+  - id: 21586
+    number: 19
+    bookId: 2
+    text: "И сказали Моисею: говори ты с нами, и мы будем слушать, но чтобы не
+      говорил с нами Бог, дабы нам не умереть."
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 36788
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 5
+        short: Втор:5:25
+      - verseId: 36197
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 18
+        short: Втор:18:16
+      - verseId: 89
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 12
+        short: 1 Цар:12:19
+      - verseId: 14671
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 12
+        short: Евр:12:19
+      - verseId: 14672
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 12
+        short: Евр:12:20
+    translates:
+      kassian: ""
+      podstr: "И сказали к Моисею: Скажи ты нам, и не пусть произносит к нам Бог,
+        чтобы не мы умерли."
+      csya: "и рекоша моисею: глаголи ты с нами, и да не глаголет к нам Бог, да не
+        когда умрем."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 реко1ша мwmсе1ю: глаго1ли ты2 съ нaми, и3 да не гlетъ къ нaмъ
+        бг7ъ, да не когдA ќмремъ."
+      sovr_rbo: «Говори с нами ты, — сказали они Моисею, — и мы будем тебя слушать. Не
+        надо, чтобы Бог говорил с нами, а то мы умрем». —
+      latin: "dicentes Moysi: Loquere tu nobis, et audiemus: non loquatur nobis
+        Dominus, ne forte moriamur."
+      ukr: "І сказали вони до Мойсея: Говори з нами ти, і ми послухаємо, а нехай не
+        говорить із нами Бог, щоб ми не повмирали."
+      nkjv: Then they said to Moses, "You speak with us, and we will hear; but let not
+        God speak with us, lest we die."
+      desnitsky: ""
+      mt: ‫   וַיֹּאמְרוּ אֶל־מֹשֶׁה דַּבֵּר־אַתָּה עִמָּנוּ וְנִשְׁמָעָה
+        וְאַל־יְדַבֵּר עִמָּנוּ אֱלֹהִים פֶּן־נָמוּת׃ ‬
+      romana: 'Apoi a zis catre Moise: "Vorbeste tu cu noi si vom asculta, dar
+        Dumnezeu sa nu graiasca cu noi, ca sa nu murim".'
+      francais: "Ils dirent à Moïse: Parle-nous toi-même, et nous écouterons; mais que
+        Dieu ne nous parle point, de peur que nous ne mourions."
+      italian: 'Allora dissero a Mosè: "Parla tu a noi e noi ascolteremo, ma non ci
+        parli Dio, altrimenti moriremo!".'
+      old_georgian: "და იტყოდეს მოსეს მიმართ: შენ გუეტყოდე ჩუენ და ნუ იტყჳს ჩუენდა
+        მომართ ღმერთი, რათა არა მოვკუდეთ."
+      portuguese: "E disseram a Moisés: Fala-nos tu mesmo, e ouviremos; mas não fale
+        Deus conosco, para que não morramos."
+      polish: "I mówili do Mojżesza: Mów ty z nami, a my będziemy cię słuchać! Ale
+        Bóg\rniech nie przemawia do nas, abyśmy nie pomarli!"
+      turkish: Musa'ya, «Bizimle sen konuş, dinleyelim» dediler, «Ama Tanrı
+        konuşmasın, yoksa ölürüz.»
+      nrt: "и сказали Моисею: – Говори с нами ты сам, а мы будем слушать. Пусть Бог не
+        говорит с нами, иначе мы умрем."
+      Macarius: "И сказали Моисею: говори ты с нами, и мы будем слушать; но чтобы не
+        говорил с нами Бог, дабы нам не умереть."
+      serbian: "И рекоше Мојсију: Говори нам ти, и слушаћемо; а нека нам не говори
+        Бог, да не помремо."
+      bulgarian: "И казаха на Моисея: говори ти с нас, и ние ще слушаме, но да не
+        говори с нас Бог, за да не умрем."
+      deutsch: "und sprachen zu Mose: Rede du mit uns, wir wollen gehorchen; und laß
+        Gott nicht mit uns reden, wir möchten sonst sterben."
+      ukr2: "І сказали Мойсеєві: Ти говори до нас, і ми слухатимемо, а Бог нехай до
+        нас не промовляє, а то повмираємо."
+      ukr3: "І мовляли вони Мойсейові: Розмовляй сам із нами, дак ми слухати мемо, та
+        нехай не розмовляє з нами Бог, ато повміраємо."
+      bel_syomukha: "І сказалі Майсею: гавары ты з намі, і мы будзем слухаць, але каб
+        не гаварыў з намі Бог, каб нам не памерці."
+      lev-khv: "И сказали Моисею: говори ты с нами, и мы будем слушать; но пусть не
+        говорит с нами Бог, чтобы нам не умереть."
+      czech: 'Rekli Mojzisovi: "Mluv s nami ty a budeme poslouchat. Buh at s nami
+        nemluvi, abychom nezemreli."'
+      spanish: "Dijeron a Moisés: <<Háblanos tú, y te escucharemos; pero que no nos
+        hable Dios, no muramos>>."
+      st_text: "И сказали Моисею: говори ты с нами, и мы будем слушать, но чтобы не
+        говорил с нами Бог, дабы нам не умереть."
+  - id: 21587
+    number: 20
+    bookId: 2
+    text: "И сказал Моисей народу: не бойтесь; Бог [к вам] пришел, чтобы испытать
+      вас и чтобы страх Его был пред лицем вашим, дабы вы не грешили."
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 10028
+        bookId: 1
+        bookCode: bytie
+        chapter: 22
+        short: Быт:22:1
+    translates:
+      kassian: ""
+      podstr: "И говорит им Моисей: Мужайтесь; из-за ведь испытать вас пришёл Бог к
+        вам, чтобы сделался страх Его в вас, чтобы не грешили."
+      csya: "Рече же им моисей: дерзайте: искушения бо ради прииде Бог к вам, яко да
+        будет страх его в вас, да не согрешаете."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Рече1 же и5мъ мwmсе1й: дерзaйте: и3скуше1ніz бо рaди пріи1де бг7ъ къ
+        вaмъ, ћкw да бyдетъ стрaхъ є3гw2 въ вaсъ, да не согрэшaете."
+      sovr_rbo: «Не бойтесь, — ответил Моисей. — Бог пришел, чтобы вас испытать и
+        чтобы, объятые страхом Божьим, вы впредь не грешили».
+      latin: "Et ait Moyses ad populum: Nolite timere: ut enim probaret vos venit
+        Deus, et ut terror illius esset in vobis, et non peccaretis."
+      ukr: "І промовив Мойсей до народу: Не бійтеся, бо Бог прибув для випробування
+        вас, і щоб страх Його був на ваших обличчях, щоб ви не грішили."
+      nkjv: And Moses said to the people, "Do not fear; for God has come to test you,
+        and that His fear may be before you, so that you may not sin."
+      desnitsky: ""
+      mt: ‫   וַיֹּאמֶר מֹשֶׁה אֶל־הָעָם אַל־תִּירָאוּ כִּי לְבַעֲבוּר נַסּוֹת אֶתְכֶם
+        בָּא הָאֱלֹהִים וּבַעֲבוּר תִּהְיֶה יִרְאָתוֹ עַל־פְּנֵיכֶם לְבִלְתִּי
+        תֶחֱטָאוּ׃ ‬
+      romana: 'Zis-a Moise catre popor: "Cutezati, ca Dumnezeu a venit la voi, sa va
+        puna la incercare pentru ca frica Lui sa fie in voi, ca sa nu gresiti".'
+      francais: "Moïse dit au peuple: Ne vous effrayez pas; car c'est pour vous mettre
+        à l'épreuve que Dieu est venu, et c'est pour que vous ayez sa crainte
+        devant les yeux, afin que vous ne péchiez point."
+      italian: 'Mosè disse al popolo: "Non abbiate timore: Dio è venuto per mettervi
+        alla prova e perché il suo timore vi sia sempre presente e non
+        pecchiate".'
+      old_georgian: "და ეტყოდა მათ მოსე: მინდობილ იყვენით, გამოცდისა თქუენისათჳს
+        მოვიდა ღმერთი თქუენდა, რათა იქმნეს შიში მისი თქუენ შორის, რათა არა
+        სცოდოთ."
+      portuguese: "Respondeu Moisés ao povo: Não temais, porque Deus veio para vos
+        provar, e para que o seu temor esteja diante\rde vós, a fim de que não
+        pequeis."
+      polish: "Mojżesz rzekł do ludu: ”Nie bójcie się! Bóg przybył po to, aby was
+        doświadczyć i pobudzić do bojaźni przed sobą, żebyście nie grzeszyli”."
+      turkish: Musa, «Korkmayın!» diye karşılık verdi, «Tanrı sizi denemek için geldi;
+        Tanrı korkusu üzerinizde olsun, günah işlemeyesiniz diye.»
+      nrt: "Моисей сказал народу: – Не бойтесь. Бог пришел испытать вас, чтобы вы
+        исполнились страха Божьего перед Ним и не грешили."
+      Macarius: "Моисей сказал народу: не бойтесь; ибо для того Бог пришел, чтобы
+        испытать вас, и чтобы страх Его был на лицах ваших; дабы вы не грешили."
+      serbian: "А Мојсије рече народу: Не бојте се, јер Бог дође да вас искуша и да
+        вам пред очима буде страх његов да не бисте гријешили."
+      bulgarian: "И каза Моисей на народа: не бойте се; Бог дойде (при вас), за да ви
+        изпита и за да бъде страхът от Него пред лицето ви, та да не грешите."
+      deutsch: "Mose aber sprach zum Volk: Fürchtet euch nicht; denn Gott ist
+        gekommen, daß er euch versuchte und daß seine Furcht euch vor Augen
+        wäre, daß ihr nicht sündigt."
+      ukr2: "Сказав Мойсей до людей: Не бійтесь; це лише щоб випробувати вас, прийшов
+        Бог, та щоб острах його постійно був з вами, щоб ви не грішили."
+      ukr3: "І рече Мойсей людям: Не бійтесь; бо щоб випробувати вас, прийшов Бог, і
+        щоб страх його був перед лицем вашим, щоб ви не согрішали."
+      bel_syomukha: "І сказаў Майсей народу: ня бойцеся; Бог прыйшоў, каб выпрабаваць
+        вас і каб страх Ягоны быў перад абліччам вашым, каб вы не грашылі."
+      lev-khv: "И сказал Моисей народу: не бойтесь; ибо, чтобы испытать вас, пришел
+        Бог, и чтобы страх его был пред лицем вашим, дабы вы не грешили."
+      czech: 'Mojzis lidu odpovedel: "Nebojte se! Buh prisel proto, aby vas vyzkousel,
+        aby bylo zrejme, ze se ho budete bat a prestanete hresit."'
+      spanish: "Respondió Moisés: <<No temáis, que para probaros ha venido Dios, para
+        que tengáis siempre ante vuestros ojos su temor y no pequéis>>."
+      st_text: "И сказал Моисей народу: не бойтесь; Бог [к вам] пришел, чтобы испытать
+        вас и чтобы страх Его был пред лицем вашим, дабы вы не грешили."
+  - id: 21588
+    number: 21
+    bookId: 2
+    text: И стоял [весь] народ вдали, а Моисей вступил во мрак, где Бог.
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 7526
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 8
+        short: 3 Цар:8:12
+      - verseId: 14670
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 12
+        short: Евр:12:18
+    translates:
+      kassian: ""
+      podstr: Стоял же народ издали, Моисей же вошёл в мрак, где был Бог.
+      csya: "Стояху же вси людие издалече: моисей же вниде во мрак, идеже бяше Бог."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Стоsху же вси2 лю1діе и3здале1че: мwmсе1й же вни1де во мрaкъ, и3дёже
+        бsше бг7ъ."
+      sovr_rbo: Народ стоял в отдалении, а Моисей приблизился к грозовой туче, в
+        которой пребывал Бог.
+      latin: Stetitque populus de longe. Moyses autem accessit ad caliginem in qua
+        erat Deus.
+      ukr: І став народ здалека, а Мойсей підійшов до мороку, де був Бог.
+      nkjv: So the people stood afar off, but Moses drew near the thick darkness where
+        God was.
+      desnitsky: ""
+      mt: ‫   וַיַּעֲמֹד הָעָם מֵרָחֹק וּמֹשֶׁה נִגַּשׁ אֶל־הָעֲרָפֶל אֲשֶׁר־שָׁם
+        הָאֱלֹהִים׃ פ ‬
+      romana: Si a stat tot poporul departe, iar Moise s-a apropiat de intunericul
+        unde era Dumnezeu.
+      francais: Le peuple restait dans l'éloignement; mais Moïse s'approcha de la nuée
+        où était Dieu.
+      italian: Il popolo si tenne dunque lontano, mentre Mosè avanzò verso la nube
+        oscura, nella quale era Dio.
+      old_georgian: და დგა ყოველი ერი შორს. ხოლო მოსე შევიდა ნისლსა, სადა იყო ღმერთი.
+      portuguese: Assim o povo estava em pé de longe; Moisés, porém, se chegou às
+        trevas espessas onde Deus estava.
+      polish: "Lud stał ciągle z daleka, a Mojżesz zbliżył się do ciemnego obłoku, w
+        którym\rbył Bóg."
+      turkish: Musa Tanrı'nın içinde bulunduğu koyu karanlığa yaklaşırken halk uzakta
+        durdu.
+      nrt: Народ остался стоять поодаль, а Моисей приблизился к темному облаку, где
+        был Бог.
+      Macarius: И стоял народ вдали; а Моисей вступил во мрак, где Бог.
+      serbian: И народ стајаше издалека, а Мојсије приступи к мраку у којем бјеше Бог.
+      bulgarian: И целият народ стоеше надалеч, а Моисей влезе в мрака, дето беше Бог.
+      deutsch: Also trat das Volk von ferne; aber Mose machte sich hinzu in das
+        Dunkel, darin Gott war.
+      ukr2: І поставали люди оддалеки, а Мойсей приступив до темної хмари, де був Бог.
+      ukr3: І постали люде оддалеки; а Мойсей приступив до темряви, де Бог.
+      bel_syomukha: І стаяў народ спадалёк, а Майсей уступіў у змрок, дзе Бог.
+      lev-khv: И стоял народ вдали; а Моисей приблизился к мраку, где Бог.
+      czech: Lid zustal stat opodal a Mojzis pristoupil k mracnu, v nemz byl Buh.
+      spanish: El pueblo se estuvo a distancia, pero Moisés se acercó a la nube donde
+        estaba Dios.
+      st_text: И стоял [весь] народ вдали, а Моисей вступил во мрак, где Бог.
+  - id: 21589
+    number: 22
+    bookId: 2
+    text: "И сказал Господь Моисею: так скажи [дому Иаковлеву и возвести] сынам
+      Израилевым: вы видели, как Я с неба говорил вам;"
+    chapter: 20
+    chapterId: 70
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "Сказал же Господь к Моисею: Это скажешь дому Иакова и скажи сыновьям
+        Израиля: Вы увидели что с неба Я произнёс к вам;"
+      csya: "Рече же Господь к моисею: сия речеши дому иаковлю и возвестиши сыном
+        израилевым: вы видесте, яко с небесе глаголах к вам:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Рече1 же гDь къ мwmсе1ю: сі‰ рече1ши до1му їaкwвлю и3 возвэсти1ши
+        сынHмъ ї}лєвымъ: вы2 ви1дэсте, ћкw съ нб7се2 гlахъ къ вaмъ:"
+      sovr_rbo: "Господь велел Моисею: «Скажи сынам Израилевым: „Вы видели, что Я
+        обращался к вам с неба."
+      latin: "Dixit praeterea Dominus ad Moysen: Haec dices filiis Israel: Vos
+        vidistis quod de caelo locutus sim vobis."
+      ukr: "І промовив Господь до Мойсея: Отак скажеш до Ізраїлевих синів: Ви бачили,
+        що Я говорив з вами з небес."
+      nkjv: "Then the Lord said to Moses, \"Thus you shall say to the children of
+        Israel: 'You have seen that I have talked with you from heaven. "
+      desnitsky: ""
+      mt: ‫   וַיֹּאמֶר יְהוָה אֶל־מֹשֶׁה כֹּה תֹאמַר אֶל־בְּנֵי יִשְׂרָאֵל אַתֶּם
+        רְאִיתֶם כִּי מִן־הַשָּׁמַיִם דִּבַּרְתִּי עִמָּכֶם׃ ‬
+      romana: 'Atunci Domnul a zis catre Moise: "Asa sa vorbesti casei lui Iacov si
+        asa sa vestesti fiilor lui Israel: Ati vazut ca am grait cu voi din
+        cer!'
+      francais: "L'Éternel dit à Moïse: Tu parleras ainsi aux enfants d'Israël: Vous
+        avez vu que je vous ai parlé depuis les cieux."
+      italian: 'Il Signore disse a Mosè: "Dirai agli Israeliti: Avete visto che vi ho
+        parlato dal cielo!'
+      old_georgian: "და თქუა უფალმან მოსეს მიმართ: ესე ჰრქუნე სახლსა იაკობისსა და
+        მიუთხრნე ძეთა ისრაჱლისათა: თქუენ იხილეთ, რამეთუ ცით გამო ვიტყოდე თქუენდა
+        მიმართ."
+      portuguese: "Então disse o Senhor a Moisés: Assim dirás aos filhos de Israel:
+        Vós tendes visto que do céu eu vos falei."
+      polish: "Rzekł nadto Pan do Mojżesza: ”Tak powiesz Izraelitom: Wy sami
+        widzieliście,\rże z nieba do was przemawiałem."
+      turkish: "RAB Musa'ya şöyle dedi: «İsrailliler'e de ki, `Göklerden sizinle
+        konuştuğumu gördünüz."
+      nrt: "Господь сказал Моисею: – Скажи израильтянам: «Вы сами видели, что Я
+        говорил с вами с небес:"
+      Macarius: "И сказал Иегова Моисею: так скажи сынам Израилевым: вы видели, как Я
+        с неба говорил вам."
+      serbian: "И Господ рече Мојсију: Овако кажи синовима Израиљевим: Видјели сте
+        гдје вам с неба говорих."
+      bulgarian: "И каза Господ на Моисея: тъй кажи (на Иакововия дом и разгласи) на
+        Израилевите синове: вие видяхте, как Аз говорих с вас от небето;"
+      deutsch: "Und der Herr sprach zu ihm: Also sollst du den Kindern Israel sagen:
+        Ihr habt gesehen, daß ich mit euch vom Himmel geredet habe."
+      ukr2: "Господь сказав Мойсеєві: Так промовиш до синів Ізраїля: Ви бачили, що з
+        неба я розмовляв з вами."
+      ukr3: "І рече Господь Мойсейові: Тако промовиш до синів Ізрайлевих: Бачили ви,
+        що з небес я розмовляв із вами."
+      bel_syomukha: "І сказаў Гасподзь Майсею: так скажы сынам Ізраілевым: вы бачылі,
+        як Я зь неба казаў вам;"
+      lev-khv: "И сказал Господь Моисею: так скажи сынам Израилевым: вы видели, как Я
+        с неба говорил с вами."
+      czech: 'Hospodin rekl Mojzisovi: "Toto reknes synum Izraele: Videli jste, ze
+        jsem s vami mluvil z nebe.'
+      spanish: "Yavé dijo a Moisés: <<Habla así a los hijos de Israel: Vosotros mismos
+        habéis visto cómo os he hablado desde el cielo."
+      st_text: "И сказал Господь Моисею: так скажи [дому Иаковлеву и возвести] сынам
+        Израилевым: вы видели, как Я с неба говорил вам;"
+  - id: 21590
+    number: 23
+    bookId: 2
+    text: "не делайте предо Мною богов серебряных, или богов золотых, не делайте
+      себе:"
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 22051
+        bookId: 2
+        bookCode: ishod
+        chapter: 34
+        short: Исх:34:17
+      - verseId: 8898
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 17
+        short: 4 Цар:17:12
+    translates:
+      kassian: ""
+      podstr: не [да] сделаете себе богов серебряных и богов золотых не сделаете вам
+        их.
+      csya: "не сотворите себе сами богов сребряных и богов златых не сотворите самым
+        себе:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "не сотвори1те себЁ сaми богHвъ сре1брzныхъ и3 богHвъ златы1хъ не
+        сотвори1те самы1мъ себЁ:"
+      sovr_rbo: Не делайте себе серебряных и золотых богов — не ставьте их рядом со Мной!
+      latin: Non facietis deos argenteos, nec deos aureos facietis vobis.
+      ukr: Не будете робити при Мені богів із срібла, і богів із золота не будете
+        робити собі.
+      nkjv: You shall not make anything to be with Me-gods of silver or gods of gold
+        you shall not make for yourselves.
+      desnitsky: ""
+      mt: ‫   לֹא תַעֲשׂוּן אִתִּי אֱלֹהֵי כֶסֶף וֵאלֹהֵי זָהָב לֹא תַעֲשׂוּ לָכֶם׃ ‬
+      romana: Sa nu va faceti dumnezei de argint si nici dumnezei de aur sa nu va
+        faceti.
+      francais: Vous ne ferez point des dieux d'argent et des dieux d'or, pour me les
+        associer; vous ne vous en ferez point.
+      italian: "Non fate dèi d'argento e dèi d'oro accanto a me: non fatene per voi!"
+      old_georgian: არ ჰქმნნეთ თავთა თქუენთათჳს ღმერთნი ვეცხლისანი და ღმერთნი ოქროჲსანი.
+      portuguese: Não fareis outros deuses comigo; deuses de prata, ou deuses de ouro,
+        não os fareis para vós.
+      polish: "Nie będziecie sporządzać obok Mnie bożków ze srebra ani bożków ze
+        złota\rnie będziecie sobie czynić."
+      turkish: Benim yanımsıra başka ilahlar yapmayacaksınız, altın ya da gümüş
+        ilahlar dökmeyeceksiniz.
+      nrt: не делайте себе серебряных или золотых богов и не поклоняйтесь им вместо
+        Меня.
+      Macarius: Не делайте предо Мною богов серебряных, или богов золотых, не делайте
+        себе.
+      serbian: Не градите уза ме богова сребрнијех, ни богова златнијех не градите себи.
+      bulgarian: "не правете пред Мене сребърни богове, нито златни богове си правете:"
+      deutsch: Darum sollt ihr nichts neben mir machen; silberne und goldene Götter
+        sollt ihr nicht machen.
+      ukr2: Не виробляйте собі поруч мене ні богів срібних, ні богів золотих не робіть
+        собі.
+      ukr3: Не робити мете передо мною богів срібних, і богів золотих не робити мете
+        собі.
+      bel_syomukha: "не рабеце перад Мною багоў срэбраных, альбо багоў залатых не
+        рабеце сабе:"
+      lev-khv: Не делайте предо Мною богов серебряных, и богов золотых не делайте себе.
+      czech: Neudelate si me zpodobeni, neudelate si bohy stribrne ani zlate.
+      spanish: No os hagáis conmigo dioses de plata, ni os hagáis dioses de oro.
+      st_text: "не делайте предо Мною богов серебряных, или богов золотых, не делайте
+        себе:"
+  - id: 21591
+    number: 24
+    bookId: 2
+    text: сделай Мне жертвенник из земли и приноси на нем всесожжения твои и мирные
+      жертвы твои, овец твоих и волов твоих; на всяком месте, где Я положу
+      память имени Моего, Я приду к тебе и благословлю тебя;
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 21796
+        bookId: 2
+        bookCode: ishod
+        chapter: 27
+        short: Исх:27:8
+      - verseId: 23780
+        bookId: 3
+        bookCode: levit
+        chapter: 9
+        short: Лев:9:22
+      - verseId: 36048
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 12
+        short: Втор:12:11
+      - verseId: 8949
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 18
+        short: 4 Цар:18:22
+    translates:
+      kassian: ""
+      podstr: Жертвенник из земли сделаете Мне и заколите на нём всесожжения и
+        [жертвы] спасения ваши, овец и тельцов ваших во всяком месте, где если
+        нареку имя Моё там, и приду к тебе и благословлю тебя.
+      csya: "олтарь из земли сотворите ми и пожрете на нем всесожжения ваша и
+        спасительная ваша, и овцы и тельцы вашя, на всяком месте, идеже нареку
+        имя мое тамо, и прииду к тебе и благословлю тя:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "nлтaрь и3з8 земли2 сотвори1те ми2 и3 пожре1те на не1мъ всесожжє1ніz
+        в†ша и3 спаси1тєльнаz в†ша, и3 џвцы и3 тельцы2 вaшz, на всsкомъ мёстэ,
+        и3дёже нарекY и4мz мое2 тaмw, и3 пріидY къ тебЁ и3 блгcвлю1 тz:"
+      sovr_rbo: Воздвигни для Меня земляной жертвенник и приноси на нем жертвы
+        всесожжения и пиршественные жертвы — мелкий и крупный скот из твоих
+        стад. И на всяком месте, где Я провозглашу Свое имя, Я буду приходить к
+        тебе и благословлять тебя.
+      latin: "Altare de terra facietis mihi, et offeretis super eo holocausta et
+        pacifica vestra, oves vestras et boves in omni loco in quo memoria
+        fuerit nominis mei: veniam ad te, et benedicam tibi."
+      ukr: Ти зробиш для Мене жертівника з землі, і будеш приносити на ньому свої
+        цілопалення й свої мирні жертви, і дрібну худобу свою, і велику худобу
+        свою. На кожному місці, де Я згадаю Ймення Своє, Я до тебе прийду й
+        поблагословлю тебе.
+      nkjv: An altar of earth you shall make for Me, and you shall sacrifice on it
+        your burnt offerings and your peace offerings, your sheep and your oxen.
+        In every place where I record My name I will come to you, and I will
+        bless you.
+      desnitsky: ""
+      mt: ‫   מִזְבַּח אֲדָמָה תַּעֲשֶׂה־לִּי וְזָבַחְתָּ עָלָיו אֶת־עֹלֹתֶיךָ
+        וְאֶת־שְׁלָמֶיךָ אֶת־צֹאנְךָ וְאֶת־בְּקָרֶךָ בְּכָל־הַמָּקוֹם אֲשֶׁר
+        אַזְכִּיר אֶת־שְׁמִי אָבוֹא אֵלֶיךָ וּבֵרַכְתִּיךָ׃ ‬
+      romana: Sa-Mi faci jertfelnic de pamant si sa aduci pe el arderile de tot ale
+        tale, jertfele de izbavire, oile si boii tai. In tot locul unde voi pune
+        pomenirea numelui Meu, acolo voi veni la tine, ca sa te binecuvantez.
+      francais: Tu m'élèveras un autel de terre, sur lequel tu offriras tes
+        holocaustes et tes sacrifices d'actions de grâces, tes brebis et tes
+        boeufs. Partout où je rappellerai mon nom, je viendrai à toi, et je te
+        bénirai.
+      italian: Farai per me un altare di terra e, sopra, offrirai i tuoi olocausti e i
+        tuoi sacrifici di comunione, le tue pecore e i tuoi buoi; in ogni luogo
+        dove io vorrò ricordare il mio nome, verrò a te e ti benedirò.
+      old_georgian: საკურთხეველი ქუეყანისაგან მიქმენით მე. და შეწირენით მას ზედა
+        ყოვლად-დასაწველნი და საცხოვრებელნი თქუენნი, ცხოვარი და ზუარაკნი თქუენნი
+        ყოველსა ადგილსა, რომელსა სახელ-სდვათ სახელსა ჩემსა მუნ და მოვიდე შენდა
+        და გაკურთხო შენ.
+      portuguese: "um altar de terra me farás, e sobre ele sacrificarás os teus
+        holocaustos, e as tuas ofertas pacíficas, as tuas\rovelhas e os teus
+        bois. Em todo lugar em que eu fizer recordar o meu nome, virei a ti e te
+        abençoarei."
+      polish: "Uczynisz Mi ołtarz z ziemi i będziesz składał na nim twoje całopalenia,
+        twoje\rofiary biesiadne z twojej trzody i z bydła na każdym miejscu,
+        gdzie każę ci\rwspominać moje imię. Przyjdę do ciebie i będę ci
+        błogosławił."
+      turkish: Benim için toprak bir sunak yapacaksınız. Yakmalık ve esenlik
+        sunularınızı, davarlarınızı, sığırlarınızı onun üzerinde sunacaksınız.
+        Adımı anımsattığım her yere gelip sizi kutsayacağım.
+      nrt: Сделайте Мне жертвенник из земли и приносите на нем овец и волов в жертву
+        всесожжения и в жертву примирения. На всяком месте, где Я повелю вам
+        чтить Меня, Я приду к вам и благословлю вас.
+      Macarius: Сделай Мне жертвенник из земли, и принеси на нем всесожжения твои,
+        овец твоих и волов твоих; на всяком месте, где Я положу память имени
+        Моего, Я приду к тебе, и благословлю тебя.
+      serbian: Олтар од земље начини ми, на којем ћеш ми приносити жртве своје
+        паљенице и жртве своје захвалне, ситну и крупну стоку своју. На којем
+        год мјесту заповједим да се спомиње име моје, доћи ћу к теби и
+        благословићу те.
+      bulgarian: направи Ми жертвеник от пръст и принасяй на него всесъженията си и
+        мирните си жертви, овците си и воловете си; на всяко място, дето туря Аз
+        паметник на името Си, ще дойда при тебе и ще те благословя.
+      deutsch: Einen Altar von Erde mache mir, darauf du dein Brandopfer und
+        Dankopfer, deine Schafe und Rinder opferst. Denn an welchem Ort ich
+        meines Namens Gedächtnis stiften werde, da will ich zu dir kommen und
+        dich segnen.
+      ukr2: "Жертовник із землі спорудиш мені і приноситимеш на нім усепалення свої, і
+        мирні жертви свої: овець твоїх і волів твоїх. На всяке місце, де я
+        захочу, щоб прославлялось моє ім'я, я прийду до тебе і поблагословлю
+        тебе."
+      ukr3: Жертівника з землї спорудиш менї, і приносити меш всепалення твої, і мирні
+        жертви твої, і дрібну скотину твою і воли твої; на всякому врочищі, де
+        поставлю память іменї мого, приходити му до тебе й благословляти му
+        тебе.
+      bel_syomukha: зрабі мне ахвярнік зь зямлі і прынясі на ім цэласпаленьні твае і
+        мірныя ахвяры твае, авечак тваіх і валоў тваіх; на кожным месцы, дзе Я
+        ўчыню памяць імя Майго, Я прыйду да цябе і дабраслаўлю цябе;
+      lev-khv: Жертвенник из земли сделай Мне, и приноси на нем всесожжения твои и
+        мирныя жертвы твои, мелкий скот твой и волов твоих; на всяком месте, где
+        Я положу память имени Моего, Я приду к тебе, и благословлю тебя.
+      czech: Udelas mi oltar z hliny a budes na nem obetovat ze sveho bravu a skotu
+        sve obeti zapalne i pokojne. Na kazdem miste, kde urcim, aby se
+        pripominalo me jmeno, prijdu k tobe a pozehnam ti.
+      spanish: Me alzarás un altar de tierra, sobre el cual me ofrecerás tus
+        holocaustos, tus hostias pacíficas, tus ovejas y tus bueyes. En todos
+        los lugares donde yo haga memorable mi nombre, vendré a ti y te
+        bendeciré.
+      st_text: сделай Мне жертвенник из земли и приноси на нем всесожжения твои и
+        мирные жертвы твои, овец твоих и волов твоих; на всяком месте, где Я
+        положу память имени Моего, Я приду к тебе и благословлю тебя;
+  - id: 21592
+    number: 25
+    bookId: 2
+    text: если же будешь делать Мне жертвенник из камней, то не сооружай его из
+      тесаных, ибо, как скоро наложишь на них тесло твое, то осквернишь их;
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 36424
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 27
+        short: Втор:27:5
+      - verseId: 27519
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 8
+        short: Нав:8:31
+      - verseId: 2346
+        bookId: 47
+        bookCode: 1a-kniga-makkavejskaa
+        chapter: 4
+        short: 1 Мак:4:47
+    translates:
+      kassian: ""
+      podstr: Если же жертвенник из камней будешь делать Мне, не устроишь их тёсанные;
+        ведь тесак твой возложишь на них, и будут осквернены.
+      csya: "аще же олтарь от камений сотвориши ми, да не устроиши их тесаных: сечиво
+        бо твое аще возложиши на них, то осквернятся:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "ѓще же nлтaрь t кaменій сотвори1ши ми2, да не ўстро1иши и4хъ
+        те1саныхъ: сёчиво бо твое2 ѓще возложи1ши на ни1хъ, то2 њсквернsтсz:"
+      sovr_rbo: "Если будешь воздвигать для Меня каменный жертвенник, то не употребляй
+        тесаных камней: отесывая камень, ты осквернишь его."
+      latin: "Quod si altare lapideum feceris mihi, non aedificabis illud de sectis
+        lapidibus: si enim levaveris cultrum super eo, polluetur."
+      ukr: А коли зробиш Мені жертівника з каменів, то не будеш будувати його з
+        обтесаних, бо ти підносив би над ним знаряддя своє, і занечистив би
+        його.
+      nkjv: And if you make Me an altar of stone, you shall not build it of hewn
+        stone; for if you use your tool on it, you have profaned it.
+      desnitsky: ""
+      mt: ‫   וְאִם־מִזְבַּח אֲבָנִים תַּעֲשֶׂה־לִּי לֹא־תִבְנֶה אֶתְהֶן גָּזִית כִּי
+        חַרְבְּךָ הֵנַפְתָּ עָלֶיהָ וַתְּחַלְלֶהָ׃ ‬
+      romana: Iar de-Mi vei face jertfelnic de piatra, sa nu-l faci de piatra
+        cioplita; ca de vei pune dalta ta pe ea, o vei spurca.
+      francais: Si tu m'élèves un autel de pierre, tu ne le bâtiras point en pierres
+        taillées; car en passant ton ciseau sur la pierre, tu la profanerais.
+      italian: Se tu mi fai un altare di pietra, non lo costruirai con pietra
+        tagliata, perché alzando la tua lama su di essa, tu la renderesti
+        profana.
+      old_georgian: ხოლო უკუეთუ ქვათაგან მიქმნე მე საკურთხეველი, არა აშენნე იგინი
+        გამოკუეთილნი, რამეთუ ჴელითა ქანდაკებულობაჲ დასდევ მას ზედა და ბიწიან
+        იქმნნეს.
+      portuguese: "E se me fizeres um altar de pedras, não o construirás de pedras
+        lavradas; pois se sobre ele levantares o teu\rburil, profaná-lo-ás."
+      polish: "A jeśli uczynisz Mi ołtarz z kamieni, to nie buduj go z kamieni
+        ciosowych, bo\rzbezcześcisz go, gdy przyłożysz do niego swoje dłuto."
+      turkish: Eğer bana taş sunak yaparsanız, yontma taş kullanmayın. Çünkü
+        kullanacağınız alet sunağın kutsallığını bozar.
+      nrt: Если станете делать Мне каменный жертвенник, не стройте его из тесаных
+        камней. Вы оскверните его, прикоснувшись к нему резцом.
+      Macarius: Если же будешь делать Мне жертвенник из камней, то не сооружай из
+        тесаных. Ибо как скоро возложишь на них тесло твое, то осквернишь их.
+      serbian: Ако ли ми начиниш олтар од камена, немој начинити од тесанога камена;
+        јер ако повучеш по њему гвожђем, оскврнићеш га.
+      bulgarian: Ако ли Ми направиш жертвеник от камъни, не го зидай от дялани;
+        защото, щом туриш на тях сечивото си, ще ги оскверниш.
+      deutsch: Und so du mir einen steinernen Altar machen willst, sollst du ihn nicht
+        von gehauenen Steinen bauen; denn wo du mit deinem Messer darüber
+        fährst, so wirst du ihn entweihen.
+      ukr2: Коли ж з каменя будуватимеш мені жертовник, не споруджуй з тесаного
+        каменя; бо коли оброблятимеш його різцем твоїм, то й опоганиш його.
+      ukr3: Коли ж із каменя споруджувати меш менї жертівника, не споруджуй із
+        тесаного каменя; бо різцем твоїм ти махнеш над їм, та й опоганиш його.
+      bel_syomukha: калі ж будзеш рабіць Мне ахвярнік з камянёў, дык не кладзі яго з
+        часовых, бо як толькі накладзеш на іх разец твой, дык апаганіш іх;
+      lev-khv: Если же будешь делать Мне жертвенник из камней, то не сооружай его из
+        тесаных; потому что, как скоро возложишь на них тесло твое, то
+        осквернишь их.
+      czech: Jestlize mi budes delat oltar z kamenu, neotesavej je; kdybys je
+        opracoval dlatem, znesvetil bys je.
+      spanish: Si me alzas altar de piedras, no lo harás de piedras labradas, porque,
+        al levantar tu cincel sobre la piedra la profanas.
+      st_text: если же будешь делать Мне жертвенник из камней, то не сооружай его из
+        тесаных, ибо, как скоро наложишь на них тесло твое, то осквернишь их;
+  - id: 21593
+    number: 26
+    bookId: 2
+    text: и не всходи по ступеням к жертвеннику Моему, дабы не открылась при нем
+      нагота твоя.
+    chapter: 20
+    chapterId: 70
+    parallels:
+      - verseId: 21851
+        bookId: 2
+        bookCode: ishod
+        chapter: 28
+        short: Исх:28:42
+    translates:
+      kassian: ""
+      podstr: Не пойди по ступеням на жертвенник Мой, чтобы не открылось
+        непристойность твоя при нём.
+      csya: да не взыдеши по степенем ко олтарю моему, яко да не открыеши срамоты
+        твоея на нем.
+      averincev: ""
+      ungerov: ""
+      csya_old: да не взы1деши по степе1нємъ ко nлтарю2 моемY, ћкw да не tкры1еши
+        срамоты2 твоеS на не1мъ.
+      sovr_rbo: Не восходи на Мой жертвенник по ступеням, чтобы не обнажился над ним
+        твой срам”».
+      latin: Non ascendes per gradus ad altare meum, ne reveletur turpitudo tua.
+      ukr: І не будеш входити до Мого жертівника ступенями, щоб не була відкрита при
+        ньому твоя нагота.
+      nkjv: Nor shall you go up by steps to My altar, that your nakedness may not be
+        exposed on it.'
+      desnitsky: ""
+      mt: ‫   וְלֹא־תַעֲלֶה בְמַעֲלֹת עַל־מִזְבְּחִי אֲשֶׁר לֹא־תִגָּלֶה עֶרְוָתְךָ
+        עָלָיו׃ פ ‬
+      romana: Si sa nu te sui pe trepte la jertfelnicul Meu, ca sa nu se descopere
+        acolo goliciunea ta!"
+      francais: Tu ne monteras point à mon autel par des degrés, afin que ta nudité ne
+        soit pas découverte.
+      italian: Non salirai sul mio altare per mezzo di gradini, perché là non si
+        scopra la tua nudità.
+      old_georgian: არა აღხჳდე აღსავალებითა საკურთხეველსა ზედა ჩემსა, რათა არა
+        გამოაცხადო უშუერებაჲ შენი მას ზედა.
+      portuguese: Também não subirás ao meu altar por degraus, para que não seja ali
+        exposta a tua nudez.
+      polish: "Nie będziesz wstępował po stopniach do mojego ołtarza, żeby się nie
+        odkryła\rnagość twoja.”"
+      turkish: Sunağımın üzerine basamakla çıkmayacaksınız. Çünkü çıplak yeriniz
+        görünebilir.'»
+      nrt: Не поднимайтесь к Моему жертвеннику по ступеням, чтобы не открылась перед
+        ним ваша нагота».
+      Macarius: И не всходи по ступеням к жертвеннику Моему, дабы не открылась при нем
+        нагота твоя.
+      serbian: Немој уз басамаке ићи к олтару мојему, да се не би открила голотиња
+        твоја код њега.
+      bulgarian: И да се не качваш по стъпала на жертвеника Ми, за да се не открие на
+        него твоята голота.
+      deutsch: Du sollst auch nicht auf Stufen zu meinem Altar steigen, daß nicht
+        deine Blöße aufgedeckt werde vor ihm.
+      ukr2: Також не будеш сходити сходами до жертовника мого, щоб не відкрилась перед
+        ним нагота твоя.
+      ukr3: Тако ж не сходити меш по сходах до жертівника мого, щоб не відкрилась над
+        ним нагота твоя.
+      bel_syomukha: і ня ўзыходзь па прыступках да ахвярніка Майго, каб не адкрылася
+        пры ім сарамата твая.
+      lev-khv: И не входи по ступеням к жертвеннику Моему, чтобы не открылась при нем
+        нагота твоя.
+      czech: Nebudes vystupovat k memu oltari po stupnich, abys u neho neodkryval svou
+        nahotu."
+      spanish: No subirás por gradas a mi altar, para que no se descubra tu desnudez>>.
+      st_text: и не всходи по ступеням к жертвеннику Моему, дабы не открылась при нем
+        нагота твоя.

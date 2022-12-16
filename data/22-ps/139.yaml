@@ -1,0 +1,833 @@
+id: 657
+number: 139
+bookId: 22
+verseCount: 14
+title: Глава 139
+verses:
+  - id: 31046
+    number: 1
+    bookId: 22
+    text: <i>Псалом. Начальнику хора. Псалом Давида.</i>
+    chapter: 139
+    chapterId: 657
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "В конец, псалом Давиду. Изми мя, Господи, от человека лукава, от мужа
+        неправедна избави мя:"
+      averincev: ""
+      ungerov: В конец. Псалом Давида.
+      csya_old: "Въ коне1цъ, pало1мъ дв7ду, И#зми1 мz, гDи, t человёка лукaва, t мyжа
+        непрaведна и3збaви мS:"
+      sovr_rbo: "[Начальнику хора. Псалом Давида.]"
+      latin: In finem. Psalmus David.
+      ukr: Для дириґента хору. Псалом Давидів.
+      nkjv: To the Chief Musician. A Psalm of David.
+      desnitsky: ""
+      mt: ‫  לַמְנַצֵּחַ מִזְמוֹר לְדָוִד׃ ‬
+      romana: Al lui David. Scoate-ma, Doamne, de la omul viclean si de omul nedrept
+        ma izbaveste,
+      italian: Al maestro del coro. Salmo. Di Davide.
+      old_georgian: დასასრულსა, ფსალმუნი დავითისი.
+      portuguese: Livra-me, ó Senhor, dos homens maus; guarda-me dos homens violentos,
+      polish: Kierownikowi chóru. Psalm. Dawidowy.
+      nrt: Дирижеру хора. Псалом Давида.
+      Macarius: Начальнику хора. Псалом Давидов.
+      bulgarian: Псалом. Началнику на хора. Псалом Давидов.
+      deutsch: Ein Psalm Davids, vorzusingen. [2 Errette mich, Herr, von den bösen
+        Menschen; behüte mich vor den freveln Leute,
+      ukr2: Провідникові хору. Псалом. Давида. 2 Визволь мене, о Господи, від злого
+        чоловіка, бережи мене від насильницького мужа!
+      ukr3: Проводиреві хора; псальма Давидова. В изволи мене, Господи, від лихих
+        людей! Від чоловіка насильного, заступи мене!
+      bel_syomukha: Кіроўцу хору. Псальма Давідава.
+      czech: Pro predniho zpevaka. Daviduv.
+      spanish: Al maestro del coro. Salmo de David.
+      zertis-kamenskiy: Начальнейшему певцу псалом Давидов Изми мя, Боже, от человека
+        злаго, от мужа злолютаго избави мя.
+      greek-lxx: εἰς τὸ τέλος ψαλμὸς τῷ Δαυιδ
+      st_text: <i>Псалом. Начальнику хора. Псалом Давида.</i>
+  - id: 31047
+    number: 2
+    bookId: 22
+    text: "Избавь меня, Господи, от человека злого; сохрани меня от притеснителя:"
+    chapter: 139
+    chapterId: 657
+    parallels:
+      - verseId: 15201
+        bookId: 56
+        bookCode: poslanie-ap-iakova
+        chapter: 3
+        short: Иак:3:8
+      - verseId: 33043
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 3
+        short: Рим:3:13
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "иже помыслиша неправду в сердцы, весь день ополчаху брани:"
+      averincev: ""
+      ungerov: Удали меня, Господи, от человека лукавого, от мужа неправедного избавь
+        меня.
+      csya_old: "и5же помы1слиша непрaвду въ се1рдцы, ве1сь де1нь њполчaху бр†ни:"
+      sovr_rbo: "Спаси меня, Господи, от злых людей, от насильников меня избавь:"
+      latin: Eripe me, Domine, ab homine malo; a viro iniquo eripe me.
+      ukr: Визволь мене від людини лихої, о Господи, бережи мене від насильника,
+      nkjv: Deliver me, O Lord, from evil men; Preserve me from violent men,
+      desnitsky: ""
+      mt: ‫  חַלְּצֵנִי יְהוָה מֵאָדָם רָע מֵאִישׁ חֲמָסִים תִּנְצְרֵנִי׃ ‬
+      romana: Care gandeau nedreptate in inima, toata ziua imi duceau razboi.
+      italian: Salvami, Signore, dal malvagio, proteggimi dall'uomo violento,
+      old_georgian: განმარინე მე, უფალო, კაცისაგან უკეთურისა და კაცისა ცრუჲსაგან მიჴსენ მე,
+      portuguese: os quais maquinam maldades no coração; estão sempre projetando guerras.
+      polish: "Wybaw mię, Panie, od człowieka złego, strzeż mnie od gwałtownika:"
+      nrt: Избавь меня, Господи, от злого человека, сохрани меня от жестоких.
+      Macarius: Избавь меня, Господи, от человека злого, сохрани меня от притеснителя,
+      bulgarian: "Избави ме, Господи, от зъл човек, запази ме от потисник:"
+      deutsch: "[3 die Böses gedenken in ihrem Herzen und täglich Krieg erregen."
+      ukr3: Котрі злобу в серцї замишляють, що дня до бою збираються.
+      bel_syomukha: "Збаві мяне, Госпадзе, ад чалавека ліхога; ахавай мяне ад
+        прыгнятальніка:"
+      czech: Vysvobod me, Hospodine, od cloveka zleho, chran me proti nasilniku,
+      spanish: Líbrame, ¡oh Yavé! del hombre malo, presérvame de los hombres violentos,
+      zertis-kamenskiy: "Иже помышляют злая в сердце: на всяк день собираются к брани."
+      pakazkiy: "Изми мя, Боже, от лукавых И злонамеренных людей —\rЧто в мыслях
+        заблудясь не правых,"
+      greek-lxx: ἐξελοῦ με Κύριε ἐξ ἀνθρώπου πονηροῦ ἀπὸ ἀνδρὸς ἀδίκου ῥῦσαί με
+      st_text: "Избавь меня, Господи, от человека злого; сохрани меня от притеснителя:"
+  - id: 31048
+    number: 3
+    bookId: 22
+    text: они злое мыслят в сердце, всякий день ополчаются на брань,
+    chapter: 139
+    chapterId: 657
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "изостриша язык свой яко змиин: яд аспидов под устнами их."
+      averincev: ""
+      ungerov: Помыслили они неправду в сердце, всякий день готовились к брани,
+      csya_old: "и3з8wстри1ша љзы1къ сво1й ћкw ѕміи1нъ: ћдъ ѓспідовъ под8 ўстнaми и4хъ."
+      sovr_rbo: они зло замышляют в сердце, во вражде проводят всю жизнь,
+      latin: Qui cogitaverunt iniquitates in corde, tota die constituebant praelia.
+      ukr: що в серці своїм замишляють злі речі, що війни щодня викликають!
+      nkjv: Who plan evil things in their hearts; They continually gather together for
+        war.
+      desnitsky: ""
+      mt: ‫  אֲשֶׁר חָשְׁבוּ רָעוֹת בְּלֵב כָּל־יוֹם יָגוּרוּ מִלְחָמוֹת׃ ‬
+      romana: Ascutit-au limba lor ca a sarpelui; venin de aspida sub buzele lor.
+      italian: da quelli che tramano sventure nel cuore e ogni giorno scatenano guerre.
+      old_georgian: რომელთა ზრახეს უსჯულოებაჲ გულსა შინა მათსა, ყოველსა დღესა
+        განაწყობენ ბრძოლათა;
+      portuguese: Aguçaram as línguas como a serpente; peçonha de áspides está debaixo
+        dos seus lábios.
+      polish: od tych, którzy w sercu knują złe zamiary, każdego dnia wzniecają spory.
+      nrt: Они замышляют зло в сердце, постоянно готовы к войне.
+      Macarius: Которые помышляют зло в сердце, всякий день воздвигают брани;
+      bulgarian: те мислят зло в сърце си, всеки ден се опълчват за бой;
+      deutsch: "[4 Sie schärfen ihre Zunge wie eine Schlange; Otterngift ist unter
+        ihren Lippen. (Sela.)"
+      ukr2: Від тих, що злобу в серці замишляють, щодня здіймають колотнечі,
+      ukr3: Гострять язик свій, як у змія; їдь гадюча в устах їх.
+      bel_syomukha: яны ліхое думаюць у сэрцы, кожны дзень на бойку ладзяцца,
+      czech: proti tem, kdo maji v srdci zle umysly a den ze dne se srocuji k bojum,
+      spanish: de los que maquinan el mal en el corazón y todo el día excitan
+        contiendas.
+      zertis-kamenskiy: "Изостряют язык свой, яко змии: яд аспида под устнами их. Селаг."
+      pakazkiy: "Наветуют души моей;\rНа всяк день брани составляют;"
+      greek-lxx: οἵτινες ἐλογίσαντο ἀδικίας ἐν καρδίᾳ ὅλην τὴν ἡμέραν παρετάσσοντο
+        πολέμους
+      st_text: они злое мыслят в сердце, всякий день ополчаются на брань,
+  - id: 31049
+    number: 4
+    bookId: 22
+    text: изощряют язык свой, как змея; яд аспида под устами их.
+    chapter: 139
+    chapterId: 657
+    parallels:
+      - verseId: 31854
+        bookId: 22
+        bookCode: psaltir
+        chapter: 5
+        short: Пс:5:10
+      - verseId: 31960
+        bookId: 22
+        bookCode: psaltir
+        chapter: 57
+        short: Пс:57:5
+      - verseId: 33043
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 3
+        short: Рим:3:13
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Сохрани мя, Господи, из руки грешничи, от человек неправедных изми мя, иже
+        помыслиша запяти стопы моя.
+      averincev: ""
+      ungerov: "Изощряли язык свой, как у змеи: яд аспидов в устах их."
+      csya_old: Сохрани1 мz, гDи, и3з8 руки2 грёшничи, t человBкъ непрaведныхъ и3зми1
+        мz, и5же помы1слиша запsти стwпы2 мо‰.
+      sovr_rbo: отточили свой язык, как змеиное жало, на губах у них яд гадючий… [Музыка]
+      latin: Acuerunt linguas suas sicut serpentis; venenum aspidum sub labiis eorum.
+      ukr: Вони гострять свого язика, як той вуж, отрута гадюча під їхніми устами!
+        Села.
+      nkjv: They sharpen their tongues like a serpent; The poison of asps is under
+        their lips. Selah
+      desnitsky: ""
+      mt: ‫  שָׁנֲנוּ לְשׁוֹנָם כְּמוֹ־נָחָשׁ חֲמַת עַכְשׁוּב תַּחַת שְׂפָתֵימוֹ
+        סֶלָה׃ ‬
+      romana: Pazeste-ma, Doamne, de mana pacatosului; scoate-ma de la oamenii
+        nedrepti, care au gandit sa impiedice pasii mei.
+      italian: Aguzzano la lingua come serpenti; veleno d'aspide è sotto le loro labbra.
+      old_georgian: აღილესეს ენაჲ მათი, ვითარცა გუელისა, და გესლი ასპიტთა ბაგეთა მათთა.
+      portuguese: "Guarda-me, ó Senhor, das mãos dos ímpios; preserva-me dos homens
+        violentos, os quais planejaram transtornar\ros meus passos."
+      polish: Ostre jak u węża ich języki, a jad żmijowy pod ich wargami.
+      nrt: Изощряют свой язык, как змея; у них на губах яд гадюки. Пауза
+      Macarius: Острят язык свой, как змий, яд аспида в устах их. (Села.)
+      bulgarian: изострят езика си като змия; под устата им е аспидна отрова.
+      deutsch: "[5 Bewahre mich, Herr, vor der Hand der Gottlosen; behüte mich vor den
+        freveln Leuten, die meinen Gang gedenken umzustoßen."
+      ukr2: гострять язики свої, мов гадюка; отрута змії на устах їхніх.
+      ukr3: Сохрани мене, Господи, від рук беззаконного, від чоловіка насильного
+        заступи мене, котрі задумали спинити кроки мої.
+      bel_syomukha: яны востраць свой язык, як зьмей, яд асьпіда пад вуснамі іхнімі.
+      czech: jazyky si ostri jako hadi, za rty maji jed jak zmije.
+      spanish: Afilan su lengua como serpientes, tienen bajo sus labios el veneno del
+        áspid. Selah.
+      zertis-kamenskiy: "Сохрани мя Боже от рук грешных: от мужа обидящаго соблюди мя,
+        иже помыслиша запяти стопы моя."
+      pakazkiy: "Язык свой, как змию, острят;\rЯд аспидов уготовляют,\t\rЧто под
+        устами их хранят!"
+      greek-lxx: ἠκόνησαν γλῶσσαν αὐτῶν ὡσεὶ ὄφεως ἰὸς ἀσπίδων ὑπὸ τὰ χείλη αὐτῶν διάψαλμα
+      st_text: изощряют язык свой, как змея; яд аспида под устами их.
+  - id: 31050
+    number: 5
+    bookId: 22
+    text: Соблюди меня, Господи, от рук нечестивого, сохрани меня от притеснителей,
+      которые замыслили поколебать стопы мои.
+    chapter: 139
+    chapterId: 657
+    parallels:
+      - verseId: 4230
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 22
+        short: 2 Цар:22:3
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Скрыша гордии сеть мне и ужы, препяша сеть ногама моима:"
+      averincev: ""
+      ungerov: Сохрани меня, Господи, от руки грешника, от людей неправедных избавь
+        меня, которые задумали запнуть стопы мои.
+      csya_old: "Скры1ша го1рдіи сёть мнЁ и3 ќжы, препsша сёть ногaма мои1ма:"
+      sovr_rbo: "Сохрани меня, Господи, от злодеев, от насильников избавь: они хотят
+        сбить меня с ног,"
+      latin: "Custodi me, Domine, de manu peccatoris, et ab hominibus iniquis eripe
+        me: qui cogitaverunt supplantare gressus meos;"
+      ukr: Пильнуй мене, Господи, від рук нечестивого, бережи мене від насильника, що
+        задумали стопи мої захитати...
+      nkjv: Keep me, O Lord, from the hands of the wicked; Preserve me from violent
+        men, Who have purposed to make my steps stumble.
+      desnitsky: ""
+      mt: ‫  שָׁמְרֵנִי יְהוָה מִידֵי רָשָׁע מֵאִישׁ חֲמָסִים תִּנְצְרֵנִי אֲשֶׁר
+        חָשְׁבוּ לִדְחוֹת פְּעָמָי׃ ‬
+      romana: Pusu-mi-au cei mandri cursa mie si funii; curse au intins picioarelor
+        mele; pe carare mi-au pus pietre de poticneala.
+      italian: "Proteggimi, Signore, dalle mani degli empi, salvami dall'uomo
+        violento: essi tramano per farmi cadere."
+      old_georgian: მიცევ მე, უფალო, ჴელისაგან ცოდვილისა და კაცთა უსამართლოთაგან
+        მიჴსენ მე, რომელთა ზრახეს დაბრკოლებაჲ სლვათა ჩემთა;
+      portuguese: Os soberbos armaram-me laços e cordas; estenderam uma rede à beira
+        do caminho; puseram-me armadilhas.
+      polish: "Od rąk grzesznika ustrzeż mię, Panie, zachowaj mnie od gwałtownika,
+        od\rtych, co zamyślają z nóg mnie zwalić."
+      nrt: Сохрани меня, Господи, от рук нечестивых, огради от жестоких, желающих
+        поколебать мои стопы.
+      Macarius: Соблюди меня, Господи, от рук нечестивого, сохрани меня от
+        притеснителя, которые умыслили поколебать стопы.
+      bulgarian: Запази ме, Господи, от ръцете на нечестивеца, запази ме от
+        потисниците, които са намислили да поклатят стъпките ми.
+      deutsch: "[6 Die Hoffärtigen legen mir Stricke und breiten mir Seile aus zum
+        Netz und stellen mir Fallen an den Weg. (Sela.)"
+      ukr2: Сохрани мене, Господи, від руки нечестивця, бережи мене від насильницького
+        мужа. Вони задумали мене з ніг збити.
+      ukr3: Горді тайно заставили на мепрне сїла і посторонки, розіпняли сїтку при
+        дорозї, западню приготовили для мене.
+      bel_syomukha: Упільнуй мяне, Госпадзе, ад рук бязбожнага, ахавай мяне ад
+        прыгнятальнікаў, якія намысьлілі пахіснуць ногі мае.
+      czech: Ochranuj me, Hospodine, pred rukama svevolnika, chran me proti nasilniku,
+        proti tem, kdo zamysleji podrazit mi nohy.
+      spanish: Guárdame, Yavé, de las manos del impío; protégeme de los hombres
+        violentos, que maquinan tropiezos a mis pasos.
+      zertis-kamenskiy: "Скрыша гордии сило мне: и ужия ми препяша сеть при стези:
+        ловительства положиша мне. Селаг."
+      pakazkiy: "Избави, Господи! избави Меня из грешничей руки,\rИ крепость сил Твоих
+        постави Моим злодеям вопреки!"
+      greek-lxx: φύλαξόν με Κύριε ἐκ χειρὸς ἁμαρτωλοῦ ἀπὸ ἀνθρώπων ἀδίκων ἐξελοῦ με
+        οἵτινες ἐλογίσαντο ὑποσκελίσαι τὰ διαβήματά μου
+      st_text: Соблюди меня, Господи, от рук нечестивого, сохрани меня от
+        притеснителей, которые замыслили поколебать стопы мои.
+  - id: 31051
+    number: 6
+    bookId: 22
+    text: Гордые скрыли силки для меня и петли, раскинули сеть по дороге, тенета
+      разложили для меня.
+    chapter: 139
+    chapterId: 657
+    parallels:
+      - verseId: 32050
+        bookId: 22
+        bookCode: psaltir
+        chapter: 63
+        short: Пс:63:6
+      - verseId: 30777
+        bookId: 22
+        bookCode: psaltir
+        chapter: 118
+        short: Пс:118:110
+      - verseId: 31073
+        bookId: 22
+        bookCode: psaltir
+        chapter: 140
+        short: Пс:140:9
+      - verseId: 31077
+        bookId: 22
+        bookCode: psaltir
+        chapter: 141
+        short: Пс:141:3
+      - verseId: 31078
+        bookId: 22
+        bookCode: psaltir
+        chapter: 141
+        short: Пс:141:4
+      - verseId: 15472
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 18
+        short: Иер:18:22
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: при стези соблазны положиша ми.
+      averincev: ""
+      ungerov: "Скрыли гордые сеть для меня, из вервий устроили сеть для ног моих: На
+        пути поставили мне западни."
+      csya_old: при стези2 соблaзны положи1ша ми2.
+      sovr_rbo: они, надменные, ставят капкан на меня, злодеи сеть разложили у дороги,
+        на меня ловушки расставили. [Музыка]
+      latin: absconderunt superbi laqueum mihi, et funes extenderunt in laqueum; juxta
+        iter scandalum posuerunt mihi.
+      ukr: Чванливі сховали на мене тенета та шнури, розтягли свою сітку при стежці,
+        сільця розмістили на мене! Села.
+      nkjv: The proud have hidden a snare for me, and cords; They have spread a net by
+        the wayside; They have set traps for me. Selah
+      desnitsky: ""
+      mt: ‫  טָמְנוּ־גֵאִים פַּח לִי וַחֲבָלִים פָּרְשׂוּ רֶשֶׁת לְיַד־מַעְגָּל
+        מֹקְשִׁים שָׁתוּ־לִי סֶלָה׃ ‬
+      romana: 'Zis-am Domnului: "Dumnezeul meu esti Tu, asculta, Doamne, glasul
+        rugaciunii mele".'
+      italian: I superbi mi tendono lacci e stendono funi come una rete, pongono
+        agguati sul mio cammino.
+      old_georgian: დამირწყეს მე ამპარტავანთა მახე და საბლითა განართხეს მახე ფერჴთა
+        ჩემთათჳს და გარემოს ალაგთა საცთური დამიგეს მე.
+      portuguese: "Eu disse, ao Senhor: Tu és o meu Deus; dá ouvidos, ó Senhor, à voz
+        das minhas súplicas."
+      polish: "Pyszni sidło na mnie skrycie zastawiają: złoczyńcy rozciągają
+        powrozy,\rumieszczają pułapki na mojej drodze."
+      nrt: Высокомерные спрятали силки для меня и петли, разложили сеть по дороге,
+        расставили для меня западню. Пауза
+      Macarius: Гордые скрыли силки для меня и петли, поставили сеть при стезе, тенета
+        протянули для меня. (Села.)
+      bulgarian: Горделивите заложиха клопки за мене и примки, простряха мрежа по
+        пътя, нагласиха клопки за мене.
+      deutsch: "[7 Ich aber sage zum Herrn: Du bist mein Gott; Herr, vernimm die
+        Stimme meines Flehens!"
+      ukr2: Горді сховали на мене тенета і мотуззя і розіп'яли сітку при дорозі,
+        сильце поставили на мене.
+      ukr3: "Сказав я до Господа: ти Бог мій! Почуй, Господи, благаннє моє!"
+      bel_syomukha: Гардзеі паставілі на мяне пасткі і петлі, раскінулі сетку на
+        дарозе, цянёты раскінулі на мяне.
+      czech: Pysni osidlo mi nastrazili, sit z provazu na cestu rozestreli, nachystali
+        na me lecky.
+      spanish: Los soberbios, que me ponen ocultos lazos, tienden las redes a la vera
+        del camino y ponen cepos para mí. Selah.
+      zertis-kamenskiy: "Рех Богу: Господь мои [еси] Ты: внуши Боже глас моления моего."
+      pakazkiy: "Се гордии предполагают Стопы моих преткнути ног;\rИ тайны сети
+        протягают,\rИ ставят их среди дорог!"
+      greek-lxx: ἔκρυψαν ὑπερήφανοι παγίδα μοι καὶ σχοινία διέτειναν παγίδας τοῖς
+        ποσίν μου ἐχόμενα τρίβου σκάνδαλον ἔθεντό μοι διάψαλμα
+      st_text: Гордые скрыли силки для меня и петли, раскинули сеть по дороге, тенета
+        разложили для меня.
+  - id: 31052
+    number: 7
+    bookId: 22
+    text: "Я сказал Господу: Ты Бог мой; услышь, Господи, голос молений моих!"
+    chapter: 139
+    chapterId: 657
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Рех Господеви: Бог мой еси ты, внуши, Господи, глас моления моего."
+      averincev: ""
+      ungerov: "Я сказал Господу: Ты - Бог мой, услышь, Господи, голос моления моего."
+      csya_old: "Рёхъ гDеви: бг7ъ мо1й є3си2 ты2, внуши2, гDи, глaсъ моле1ніz моегw2."
+      sovr_rbo: "Говорю я Господу: «Ты мой Бог, услышь, Господи, мою мольбу!"
+      latin: "Dixi Domino: Deus meus es tu; exaudi, Domine, vocem deprecationis meae."
+      ukr: "Я сказав Господеві: Ти Бог мій, почуй же, о Господи, голос благання мого!"
+      nkjv: 'I said to the Lord: "You are my God; Hear the voice of my supplications,
+        O Lord.'
+      desnitsky: ""
+      mt: ‫  אָמַרְתִּי לַיהוָה אֵלִי אָתָּה הַאֲזִינָה יְהוָה קוֹל תַּחֲנוּנָי׃ ‬
+      romana: Doamne, Doamne, puterea mantuirii mele, umbrit-ai capul meu in zi de
+        razboi.
+      italian: 'Io dico al Signore: "Tu sei il mio Dio; ascolta, Signore, la voce
+        della mia preghiera".'
+      old_georgian: "ვარქუ უფალსა: ღმერთი ჩემი ხარი შენ, ისმინე, უფალო, ჴმაჲ ლოცვისა ჩემისა."
+      portuguese: Ó Senhor, meu Senhor, meu forte libertador, tu cobriste a minha
+        cabeça no dia da batalha.
+      polish: "Mówię Panu: Jesteś moim Bogiem; usłysz, o Panie, moje głośne błaganie."
+      nrt: "Я сказал Господу: «Ты – мой Бог; услышь голос моих молений, Господи!"
+      Macarius: "Я сказал Господу: Ты — Бог мой, услышь Господи, глас молений моих."
+      bulgarian: "Аз казах Господу: Ти си Бог мой: чуй, Господи, гласа на моите молби."
+      deutsch: "[8 Herr, meine starke Hilfe, du beschirmst mein Haupt zur Zeit des
+        Streites."
+      ukr2: "Я кажу Господеві: «Ти єси - Бог мій! Почуй, Господи, голос мого
+        благання!»"
+      ukr3: Господь - Владика мій, твердиня снасення мого; ти покрив голову мою в день
+        бою.
+      bel_syomukha: "Я сказаў Госпаду: Ты: Бог мой; пачуй, Госпадзе, голас маленьняў маіх!"
+      czech: "Pravim Hospodinu: Ty jsi muj Buh! Prej sluchu mym prosbam, Hospodine."
+      spanish: "Pero yo digo a Yavé: <<Tú eres mi Dios>>. Escucha, ¡oh Yavé! la voz de
+        mis súplicas."
+      zertis-kamenskiy: Боже Господи! Сило спасения моего, осенил еси над главою моею
+        в день брани.
+      pakazkiy: "Тебе, о Боже милосердый!\rЯ рек из глубины души;\rТы Бог еси и град
+        мой твердый, Молений глас моих внуши!"
+      greek-lxx: εἶπα τῷ Κυρίῳ Θεός μου εἶ σύ ἐνώτισαι Κύριε τὴν φωνὴν τῆς δεήσεώς μου
+      st_text: "Я сказал Господу: Ты Бог мой; услышь, Господи, голос молений моих!"
+  - id: 31053
+    number: 8
+    bookId: 22
+    text: Господи, Господи, сила спасения моего! Ты покрыл голову мою в день брани.
+    chapter: 139
+    chapterId: 657
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Господи, Господи, сило спасения моего, осенил еси над главою моею в день
+        брани.
+      averincev: ""
+      ungerov: Господи, Господи, сила, спасающая меня! Ты осенил главу мою в день брани.
+      csya_old: ГDи, гDи, си1ло спcніz моегw2, њсэни1лъ є3си2 над8 главо1ю мое1ю въ
+        де1нь брaни.
+      sovr_rbo: Господи, Господи, меня спасет Твоя сила! Ты защищаешь голову мою в
+        день битвы.
+      latin: Domine, Domine, virtus salutis meae, obumbrasti super caput meum in die
+        belli.
+      ukr: Господи, Владико мій, сило мого спасіння, що в день бою покрив мою голову,
+      nkjv: O God the Lord, the strength of my salvation, You have covered my head in
+        the day of battle.
+      desnitsky: ""
+      mt: ‫  יְהֹוִה אֲדֹנָי עֹז יְשׁוּעָתִי סַכֹּתָה לְרֹאשִׁי בְּיוֹם נָשֶׁק׃ ‬
+      romana: Sa nu ma dai pe mine, Doamne, din pricina poftei mele, pe mina
+        pacatosului; viclenit-au impotriva mea; sa nu ma parasesti, ca sa nu se
+        trufeasca.
+      italian: Signore, mio Dio, forza della mia salvezza, proteggi il mio capo nel
+        giorno della lotta.
+      old_georgian: უფალო, უფალო, ძალო ცხორებისა ჩემისაო, მფარველ ეყავ თავსა ჩემსა
+        დღესა ბრძოლისასა.
+      portuguese: Não concedas, ó Senhor, aos ímpios os seus desejos; não deixes ir
+        por diante o seu mau propósito.
+      polish: Panie, mój Panie, potężna moja pomocy, osłaniasz w dniu walki moją głowę.
+      nrt: Владыка Господи, сила моего спасения, Ты прикрыл мою голову в день
+        сражения.
+      Macarius: Иегова, Господи, крепкий Спаситель мой, покрой главу мою в день брани.
+      bulgarian: Господи, Господи, Сило на моето спасение! Ти покри главата ми в деня
+        на битката.
+      deutsch: "[9 Herr, laß dem Gottlosen seine Begierde nicht; stärke seinen
+        Mutwillen nicht: sie möchten sich des überheben. (Sela.)"
+      ukr2: Господи, Боже мій, сило мого спасіння! Ти покриваєш голову мою в день бою.
+      ukr3: Не дай, Господи, напасникові оскому зігнати, не пособи задумам його! Не
+        дай вознестись їм.
+      bel_syomukha: Госпадзе, Госпадзе, сіла ратунку майго! Ты пакрыў галаву маю ў дзень бою.
+      czech: Hospodine, Panovniku, moje mocna spaso, hlavu kryjes mi v den bitvy.
+      spanish: Yavé, Señor, mi fuerza salvadora, tú cubres mi cabeza en el día del
+        combate.
+      zertis-kamenskiy: "Не даждь Боже [по] желаниям грешнику: ниже помышление его
+        исполни, [да не] вознесутся. Селаг."
+      pakazkiy: "Ты осенял меня в день брани,\rРаба спасая Твоего,\rВсемощной
+        крепостию длани,\rСпасенья сило моего!"
+      greek-lxx: Κύριε Κύριε δύναμις τῆς σωτηρίας μου ἐπεσκίασας ἐπὶ τὴν κεφαλήν μου
+        ἐν ἡμέρᾳ πολέμου
+      st_text: Господи, Господи, сила спасения моего! Ты покрыл голову мою в день брани.
+  - id: 31054
+    number: 9
+    bookId: 22
+    text: "Не дай, Господи, желаемого нечестивому; не дай успеха злому замыслу его:
+      они возгордятся."
+    chapter: 139
+    chapterId: 657
+    parallels:
+      - verseId: 36648
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 32
+        short: Втор:32:27
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Не предаждь мене, Господи, от желания моего грешнику: помыслиша на мя, не
+        остави мене, да не когда вознесутся."
+      averincev: ""
+      ungerov: "Не предай меня, Господи, грешнику (удалив) от желания моего: они
+        замыслили против меня, не оставь меня, да не превознесутся."
+      csya_old: "Не предaждь мене2, гDи, t желaніz моегw2 грёшнику: помы1слиша на мS,
+        не њстaви мене2, да не когдA вознесyтсz."
+      sovr_rbo: Господи, не дай, чтобы сбылся умысел злодея, его планам свершиться не
+        дай». [Музыка]
+      latin: Ne tradas me, Domine, a desiderio meo peccatori; cogitaverunt contra me;
+        ne derelinquas me, ne forte exaltentur.
+      ukr: не виконай, Господи, бажань безбожного, не здійсни його задуму! Села.
+      nkjv: Do not grant, O Lord, the desires of the wicked; Do not further his wicked
+        scheme, Lest they be exalted. Selah
+      desnitsky: ""
+      mt: ‫  אַל־תִּתֵּן יְהוָה מַאֲוַיֵּי רָשָׁע זְמָמוֹ אַל־תָּפֵק יָרוּמוּ סֶלָה׃ ‬
+      romana: Varful latului lor, osteneala buzelor lor sa-i acopere pe ei!
+      italian: Signore, non soddisfare i desideri degli empi, non favorire le loro
+        trame.
+      old_georgian: ნუ მიმცემ მე, უფალო, გულისთქმისა ჩემისაგან ცოდვილსა; განიზრახეს
+        ჩემთჳს, ნუ დამაგდებ მე, ნუუკუე ამაღლდენ.
+      portuguese: Não levantem a cabeça os que me cercam; cubra-os a maldade dos seus
+        lábios.
+      polish: Nie dawaj tego, Panie, czego pragnie niegodziwiec, nie spełniaj jego
+        zamiarów! Niech nie podnoszą ”Sela”
+      nrt: Не дай, Господи, желаемого нечестивому, не дай успеха его злому замыслу,
+        чтобы не возгордился». Пауза
+      Macarius: Не дай, Господи, желаемого нечестивому, не дай успеть ему в намерении,
+        чтобы не возносились они. (Села.)
+      bulgarian: "Не давай, Господи, що нечестивец желае; не давай сполука на лошия му
+        замисъл: той ще се възгордее."
+      deutsch: "[10 Das Unglück, davon meine Feinde ratschlagen, müsse auf ihren Kopf
+        fallen."
+      ukr2: Не дай, Господи, щоб грішника бажання збулися, не потурай його лихим
+        задумам.
+      ukr3: Отрута окружаючих мене, зараза з уст їх нехай на них самих спаде.
+      bel_syomukha: Ня дай, Госпадзе, жаданага бязбожніку; ня дай посьпеху ліхому
+        намыслу яго; яны заганарацца.
+      czech: Neprivoluj, Hospodine, k choutkam svevolnika, nedej, aby vysly jeho
+        plany, at se nevypina.
+      spanish: No accedas, Yavé, a las ansias del impío; no permitas que se logren sus
+        dolosos designios.
+      zertis-kamenskiy: Главнаго из нападателей моих развращение устен его да покрыет его.
+      pakazkiy: "И ныне грешников желанью Исполниться не попусти,\rНо тою же святою
+        дланью Злых умышленья воспяти!\rДа не победой напыщенны,\rОни рекут в
+        сердцах своих:\rЧто не могли быть воспященны Тобой от злодеяний сих;"
+      greek-lxx: μὴ παραδῷς με Κύριε ἀπὸ τῆς ἐπιθυμίας μου ἁμαρτωλῷ διελογίσαντο κατ᾿
+        ἐμοῦ μὴ ἐγκαταλίπῃς με μήποτε ὑψωθῶσιν διάψαλμα
+      st_text: "Не дай, Господи, желаемого нечестивому; не дай успеха злому замыслу
+        его: они возгордятся."
+  - id: 31055
+    number: 10
+    bookId: 22
+    text: Да покроет головы окружающих меня зло собственных уст их.
+    chapter: 139
+    chapterId: 657
+    parallels:
+      - verseId: 32191
+        bookId: 22
+        bookCode: psaltir
+        chapter: 7
+        short: Пс:7:15
+      - verseId: 32193
+        bookId: 22
+        bookCode: psaltir
+        chapter: 7
+        short: Пс:7:17
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Глава окружения их, труд устен их покрыет я.
+      averincev: ""
+      ungerov: "Главный предмет совещания их, обсуждаемый устами их, постигнет их:"
+      csya_old: ГлавA њкруже1ніz и4хъ, трyдъ ўсте1нъ и4хъ покры1етъ |.
+      sovr_rbo: Окружили меня, глядят свысока, пусть коварство их уст поглотит их самих!
+      latin: Caput circuitus eorum, labor labiorum ipsorum operiet eos.
+      ukr: Бодай голови не піднесли всі ті, хто мене оточив, бодай зло їхніх уст їх
+        покрило!
+      nkjv: '"As for the head of those who surround me, Let the evil of their lips
+        cover them;'
+      desnitsky: ""
+      mt: ‫  רֹאשׁ מְסִבָּי עֲמַל שְׂפָתֵימוֹ *יכסומו **יְכַסֵּמוֹ׃‪‬ ‬
+      romana: Sa cada peste ei carbuni aprinsi; in foc arunca-i pe ei, in necazuri, pe
+        care sa nu le poata rabda.
+      italian: Alzano la testa quelli che mi circondano, ma la malizia delle loro
+        labbra li sommerge.
+      old_georgian: თავმან შესაკრებელისა მათისამან და შრომამან ბაგეთა მათთამან
+        დაფარნეს იგინი.
+      portuguese: Caiam sobre eles brasas vivas; sejam lançados em covas profundas,
+        para que não se tornem a levantar!
+      polish: głowy ci, którzy mnie otaczają, niech dzieło ich warg przygniecie ich
+        samych!
+      nrt: Пусть головы окружающих меня покроет несчастье их собственных уст.
+      Macarius: Яд окружающих меня, зараза уст их да обратится на них.
+      bulgarian: Нека върху главата на ония, които ме окръжават, падне злото на
+        техните собствени уста.
+      deutsch: "[11 Er wird Strahlen über sie schütten; er wird sie mit Feuer tief in
+        die Erde schlagen, daß sie nicht mehr aufstehen."
+      ukr2: Хай не підносять голови ті, що мене обсіли, хай злоба власних губ їх
+        вкриє.
+      ukr3: Нехай посиплеться на них горюче угля! Нехай Бог кине їх в огонь, у вир,
+        щоб не спаслися!
+      bel_syomukha: Хай пакрые галовы тых, што мяне абступілі, ліха ад іхніх жа вуснаў.
+      czech: Na hlavu tech, kdo me obklicuji, at padne trapeni, na nemz se jejich rty
+        umluvily.
+      spanish: Alzan su cabeza los que me cercan, la malicia de sus labios los aplaste.
+      zertis-kamenskiy: "Да спадет на них углие горящее; в огнь да будут ввержени: в
+        ров глубокий, [отнюду же] не возстанут."
+      pakazkiy: "Главу же дерзких сих злодеев От коих я во круг стеснен,\rДа плод
+        коварных их затеев И труд покрыет их устен!"
+      greek-lxx: ἡ κεφαλὴ τοῦ κυκλώματος αὐτῶν κόπος τῶν χειλέων αὐτῶν καλύψει αὐτούς
+      st_text: Да покроет головы окружающих меня зло собственных уст их.
+  - id: 31056
+    number: 11
+    bookId: 22
+    text: Да падут на них горящие угли; да будут они повержены в огонь, в пропасти,
+      так, чтобы не встали.
+    chapter: 139
+    chapterId: 657
+    parallels:
+      - verseId: 30270
+        bookId: 22
+        bookCode: psaltir
+        chapter: 10
+        short: Пс:10:6
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Падут на них углия огненная, низложиши я во страстех, и не постоят.
+      averincev: ""
+      ungerov: Падут на них угли огненные, низложишь их страданиями, и они не устоят;
+      csya_old: Падyтъ на ни1хъ ќгліz џгнєннаz, низложи1ши | во страсте1хъ, и3 не
+        постоsтъ.
+      sovr_rbo: Горящие угли на них падут; их бросят в яму, впредь не встанут они.
+      latin: Cadent super eos carbones, in ignem dejicies eos; in miseriis non
+        subsistent.
+      ukr: Хай присок на них упаде, нехай кине Він їх до огню, до провалля, щоб не
+        встали вони!...
+      nkjv: Let burning coals fall upon them; Let them be cast into the fire, Into
+        deep pits, that they rise not up again.
+      desnitsky: ""
+      mt: ‫  *ימיטו **יִמּוֹטוּ עֲלֵיהֶם גֶּחָלִים בָּאֵשׁ יַפִּלֵם בְּמַהֲמֹרוֹת
+        בַּל־יָקוּמוּ׃ ‬
+      romana: Barbatul limbut nu se va indrepta pe pamant; pe omul nedrept rautatea il
+        va duce la pieire.
+      italian: Fa' piovere su di loro carboni ardenti, gettali nel bàratro e più non
+        si rialzino.
+      old_georgian: დაეცემოდიან მათ ზედა ნაკუერცხალნი ცეცხლისანი, დაამჴუნე იგინი
+        გლახაკობითა, და ვერ დაუთმონ.
+      portuguese: Não se estabeleça na terra o caluniador; o mal persiga o homem
+        violento com golpe sobre golpe.
+      polish: "Niech spadnie na nich deszcz węgli ognistych; niech zwali ich do dołu,
+        by się\rnie dźwignęli!"
+      nrt: Пусть падут на них горящие угли; пусть будут они повержены в огонь, в
+        глубокую пропасть, откуда не подняться им.
+      Macarius: Да падут на них горящие угли; да повергнет Он их в огонь, в пропасти,
+        чтобы не восстали.
+      bulgarian: Да паднат върху тях живи въглени; да бъдат хвърлени в огън, в
+        пропаст, та да не станат.
+      deutsch: "[12 Ein böses Maul wird kein Glück haben auf Erden; ein frevler, böser
+        Mensch wird verjagt und gestürzt werden."
+      ukr2: Нехай гаряче вугілля на них упаде, у прірви нехай їх кинуть, щоб не встали
+        більше.
+      ukr3: Чоловіку злорічивому, щоб не було життя йому на землї; чоловіка
+        насильного, щоб злоба у пропасть його загнала.
+      bel_syomukha: Хай ападзе на іх распалены жар; хай будуць укінуты ў вагонь, у
+        прорвы, каб і ня ўсталі.
+      czech: At na ne dopadne zhave uhli, at je Buh do ohne srazi, do virivych proudu,
+        aby nepovstali.
+      spanish: Lluevan sobre ellos brasas encendidas, caigan en el abismo para no
+        levantarse jamás.
+      zertis-kamenskiy: "Муж язычен не утвердится на земли: мужа нападателя да уловят
+        злая во извержение."
+      pakazkiy: "Да углия огнем разженны \rНа них падут из облаков,\rИ ввержешь их во
+        дно геенны Отколь не выйдут в век веков."
+      greek-lxx: πεσοῦνται ἐπ᾿ αὐτοὺς ἄνθρακες ἐν πυρὶ καταβαλεῖς αὐτούς ἐν
+        ταλαιπωρίαις οὐ μὴ ὑποστῶσιν
+      st_text: Да падут на них горящие угли; да будут они повержены в огонь, в
+        пропасти, так, чтобы не встали.
+  - id: 31057
+    number: 12
+    bookId: 22
+    text: Человек злоязычный не утвердится на земле; зло увлечет притеснителя в
+      погибель.
+    chapter: 139
+    chapterId: 657
+    parallels:
+      - verseId: 33919
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 28
+        short: Сир:28:15
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Муж язычен не исправится на земли: мужа неправедна злая уловят во
+        истление."
+      averincev: ""
+      ungerov: Человек злоязычный не исправится на земле, мужа неправедного зло уловит
+        в погибель.
+      csya_old: "Мyжъ љзы1ченъ не и3спрaвитсz на земли2: мyжа непрaведна ѕл†z ўловsтъ
+        во и3стлёніе."
+      sovr_rbo: Не устоит клеветник на земле; зло преследует насильника и губит его.
+      latin: Vir linguosus non dirigetur in terra, virum injustum mala capient in
+        interitu.
+      ukr: Злоязична людина щоб міцною вона не була на землі, людина насильства бодай
+        лихо спіймало її, щоб попхнути на погибіль!
+      nkjv: Let not a slanderer be established in the earth; Let evil hunt the violent
+        man to overthrow him."
+      desnitsky: ""
+      mt: ‫  אִישׁ לָשׁוֹן בַּל־יִכּוֹן בָּאָרֶץ אִישׁ־חָמָס רָע יְצוּדֶנּוּ
+        לְמַדְחֵפֹת׃ ‬
+      romana: Stiu ca Domnul va face judecata celui sarac si dreptate celor sarmani;
+      italian: Il maldicente non duri sulla terra, il male spinga il violento alla
+        rovina.
+      old_georgian: კაცსა ენოვანსა არა წარემართოს ქუვყანასა ზედა, კაცი ცრუჲ ძჳრმან
+        მოინადიროს განსახრწნელად.
+      portuguese: Sei que o Senhor manterá a causa do aflito, e o direito do necessitado.
+      polish: "Niech nie ostanie się w kraju mąż złego języka: gwałtownika niech
+        ogarną\rnieszczęścia."
+      nrt: Пусть не утвердится на земле злоязычный человек; пусть зло преследует
+        жестоких на погибель им.
+      Macarius: Человек злоязычный не тверд на земле, притеснителя злоба увлечет в
+        погибель.
+      bulgarian: Злоезичният човек няма да се закрепи на земята; злото ще завлече
+        потисника в погибел.
+      deutsch: "[13 Denn ich weiß, daß der Herr wird des Elenden Sache und der Armen
+        Recht ausführen."
+      ukr2: Злоріка на землі не встоїться, насильника й злого будуть безнастанно гнати
+        й бити.
+      ukr3: Я знаю, що Господь явить правосуддє пригнобленим, справедливість бідним.
+      bel_syomukha: Чалавек злаязыкі хай ня ўмацуецца на зямлі; а ліха няхай
+        прыгнятальніка ў пропадзь зьвядзе.
+      czech: Pomlouvac se v zemi neudrzi, zlovolneho nasilnika stihne nahla zkaza.
+      spanish: El hombre lenguaraz no permanecerá sobre la tierra; el hombre violento
+        será presa del infortunio, que le derribará.
+      zertis-kamenskiy: Вем, яко сотворит Бог суд нищим [и] судбу убогим.
+      pakazkiy: "Но человек языковредный И в жизни сей не процветет;\rРок злых, сей
+        рок ему наследный Его до ада низведет."
+      greek-lxx: ἀνὴρ γλωσσώδης οὐ κατευθυνθήσεται ἐπὶ τῆς γῆς ἄνδρα ἄδικον κακὰ
+        θηρεύσει εἰς διαφθοράν
+      st_text: Человек злоязычный не утвердится на земле; зло увлечет притеснителя в
+        погибель.
+  - id: 31058
+    number: 13
+    bookId: 22
+    text: Знаю, что Господь сотворит суд угнетенным и справедливость бедным.
+    chapter: 139
+    chapterId: 657
+    parallels:
+      - verseId: 32652
+        bookId: 22
+        bookCode: psaltir
+        chapter: 9
+        short: Пс:9:19
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Познах, яко сотворит Господь суд нищым и месть убогим.
+      averincev: ""
+      ungerov: Познал я, что сотворит Господь суд нищим и воздаяние убогим.
+      csya_old: Познaхъ, ћкw сотвори1тъ гDь сyдъ ни1щымъ и3 ме1сть ўбHгимъ.
+      sovr_rbo: Знаю я, что Господь вершит суд, что Он вступится за бедных и нищих.
+      latin: Cognovi quia faciet Dominus judicium inopis, et vindictam pauperum.
+      ukr: Я знаю, що зробить Господь правосуддя убогому, присуд правдивий для бідних,
+      nkjv: I know that the Lord will maintain The cause of the afflicted, And justice
+        for the poor.
+      desnitsky: ""
+      mt: ‫  *ידעת **יָדַעְתִּי כִּי־יַעֲשֶׂה יְהוָה דִּין עָנִי מִשְׁפַּט אֶבְיֹנִים׃
+        ‬
+      romana: Iar dreptii vor lauda numele Tau si vor locui cei drepti in fata Ta.
+      italian: So che il Signore difende la causa dei miseri, il diritto dei poveri.
+      old_georgian: უწყი, რამეთუ ყოს უფალმან სასჯელი გლახაკთა და სამართალი დავრდომილთა.
+      portuguese: Decerto os justos louvarão o teu nome; os retos habitarão na tua
+        presença.
+      polish: Wiem, że Pan oddaje sprawiedliwość ubogiemu, biednemu - słuszność.
+      nrt: Я знаю, что Господь даст правосудие бедным и заступится за нищих.
+      Macarius: Знаю, что Господь окажет правосудие угнетенному и справедливость бедным.
+      bulgarian: Зная, че Господ ще извърши съд за угнетените и правда за бедните.
+      deutsch: "[14 Auch werden die Gerechten deinem Namen danken, und die Frommen
+        werden vor deinem Angesicht bleiben."
+      ukr2: Я знаю, що Господь бідному вчинить правосуддя, і заступиться за право
+        вбогих.
+      ukr3: І будуть праведні імя твоє прославляти, щирі серцем лице твоє оглядати.
+      bel_syomukha: Ведаю, што Гасподзь ўчыніць суд над прыгнятальнікамі і
+        справядлівасьць бедным.
+      czech: Vim, ze Hospodin obhaji ponizeneho, ze ubozakum zjedna pravo.
+      spanish: Pero yo sé que Yavé saldrá en defensa del desvalido, a la defensa del
+        pobre.
+      zertis-kamenskiy: "И праведнии прославлять будут имя Твое: вселятся правии пред
+        лицем Твоим."
+      pakazkiy: "Я знаю из примеров многих, Что суд для нищих сотворит,\rИ всем
+        наветникам убогих Господь нещадно отомстит;"
+      greek-lxx: ἔγνων ὅτι ποιήσει Κύριος τὴν κρίσιν τοῦ πτωχοῦ καὶ τὴν δίκην τῶν πενήτων
+      st_text: Знаю, что Господь сотворит суд угнетенным и справедливость бедным.
+  - id: 31059
+    number: 14
+    bookId: 22
+    text: Так! праведные будут славить имя Твое; непорочные будут обитать пред лицем
+      Твоим.
+    chapter: 139
+    chapterId: 657
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Обаче праведнии исповедятся имени твоему, и вселятся правии с лицем твоим.
+      averincev: ""
+      ungerov: Посему праведные будут исповедовать имя Твое, и правые вселятся пред
+        лицем Твоим.
+      csya_old: Nбaче првdніи и3сповёдzтсz и4мени твоемY, и3 вселsтсz прaвіи съ
+        лице1мъ твои1мъ.
+      sovr_rbo: Прославят праведники имя Твое, кто честен — будет жить пред лицом Твоим.
+      latin: Verumtamen justi confitebuntur nomini tuo; et habitabunt recti cum vultu
+        tuo.
+      ukr: тільки праведні дякувати будуть Іменню Твоєму, невинні сидітимуть перед
+        обличчям Твоїм!
+      nkjv: Surely the righteous shall give thanks to Your name; The upright shall
+        dwell in Your presence.
+      desnitsky: ""
+      mt: ‫  אַךְ צַדִּיקִים יוֹדוּ לִשְׁמֶךָ יֵשְׁבוּ יְשָׁרִים אֶת־פָּנֶיךָ׃ ‬
+      italian: Sì, i giusti loderanno il tuo nome, i retti abiteranno alla tua presenza.
+      old_georgian: ხოლო მართალთა აუვარონ სახელსა შენსა, და წრფელთა დაიმკჳდრონ წინაშე
+        პირსა შენსა. დიდება
+      polish: "Tylko sprawiedliwi będą sławili Twe imię, prawi mieszkać będą przed
+        Twoim\robliczem."
+      nrt: Поистине, праведные будут славить Твое Имя; честные будут жить в Твоем
+        присутствии.
+      Macarius: Так! праведные будут славить имя Твое, непорочные пребудут пред лицем
+        Твоим.
+      bulgarian: Да, праведните ще славят Твоето име; непорочните ще обитават пред
+        Твоето лице.
+      ukr2: І праведники твоє ім'я прославлятимуть, а праві житимуть перед тобою.
+      bel_syomukha: "Так! праведныя ўславяць імя Тваё: беззаганныя будуць жыць прад
+        абліччам Тваім."
+      czech: Ano, spravedlivi vzdaji tvemu jmenu chvalu, primi budou bydlet pred tvou
+        tvari!
+      spanish: Ciertamente los justos alabarán tu nombre, y los rectos habitarán en tu
+        presencia.
+      pakazkiy: "А правых сонм возвеселится, Твое поющий имя в век,\rИ в тех обителях
+        вселится,\rГде зрак Твой узрит человек."
+      greek-lxx: πλὴν δίκαιοι ἐξομολογήσονται τῷ ὀνόματί σου καὶ κατοικήσουσιν εὐθεῖς
+        σὺν τῷ προσώπῳ σου
+      st_text: Так! праведные будут славить имя Твое; непорочные будут обитать пред
+        лицем Твоим.

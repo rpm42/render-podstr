@@ -1,0 +1,3119 @@
+id: 1127
+number: 15
+bookId: 51
+verseCount: 39
+title: Глава 15
+verses:
+  - id: 25230
+    number: 1
+    bookId: 51
+    text: "Тогда приходят к Иисусу Иерусалимские книжники и фарисеи и говорят:"
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 26718
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 7
+        short: Мк:7:1
+    translates:
+      kassian: "Тогда приходят к Иисусу из Иерусалима фарисеи и книжники и говорят:"
+      podstr: Тогда подходят к Иисусу из Иерусалима фарисеи и книжники говорящие,
+      csya: "Тогда приступиша ко Иисусови иже от Иерусалима книжницы и фарисее,
+        глаголюще:"
+      averincev: "После приходят к Иисусу фарисеи и книжники из Иерусалима, которые
+        говорят:"
+      ungerov: ""
+      csya_old: "ТогдA приступи1ша ко ї}сови и5же t їеrли1ма кни1жницы и3 фарісе1є,
+        глаго1люще:"
+      sovr_rbo: ""
+      latin: "Tunc accesserunt ad eum ab Jerosolymis scribae et pharisaei, dicentes:"
+      ukr: "Тоді до Ісуса прийшли фарисеї та книжники з Єрусалиму й сказали:"
+      nkjv: Then the scribes and Pharisees who were from Jerusalem came to Jesus,
+        saying,
+      desnitsky: ""
+      tex_rec: Τότε προσέρχονται τῷ ᾽Ιησοῦ ἀπὸ ῾Ιεροσολύμων Φαρισαῖοι καὶ γραμματεῖς
+        λέγοντες,
+      deutsch: "Da kamen zu ihm die Schriftgelehrten und Pharisäer von Jerusalem und
+        sprachen:"
+      spanish: "Entonces se acercaron a Jesús fariseos y escribas venidos de
+        Jerusalén, diciendo:"
+      peshitta: ܗܳܝܕ݁ܶܝܢ ܩܪܶܒ݂ܘ ܠܘܳܬ݂ ܝܶܫܽܘܥ ܦ݁ܪܺܝܫܶܐ ܘܣܳܦ݂ܪܶܐ ܕ݁ܡܶܢ ܐܽܘܪܺܫܠܶܡ ܘܳܐܡܪܺܝܢ܂
+      bel_syomukha: "Тады прыходзяць да Ісуса Ерусалімскія кніжнікі і фарысэі і кажуць:"
+      nrt: "Затем пришли к Иисусу из Иерусалима фарисеи и учители Закона и сказали:"
+      romana: "Atunci au venit din Ierusalim, la Iisus, fariseii si carturarii,
+        zicand:"
+      francais: "Alors des pharisiens et des scribes vinrent de Jérusalem auprès de
+        Jésus, et dirent:"
+      italian: "In quel tempo vennero a Gesù da Gerusalemme alcuni farisei e alcuni
+        scribi e gli dissero:"
+      old_georgian: "მაშინ მოუხდეს იესუს იერუსალჱმით ფარისეველნი და მწიგნობარნი და ეტყოდეს:"
+      portuguese: "Então chegaram a Jesus uns fariseus e escribas vindos de Jerusalém,
+        e lhe perguntaram:"
+      polish: "Wtedy przyszli do Jezusa faryzeusze i uczeni w Piśmie z Jerozolimy z
+        zapytaniem:"
+      pobedonostsev: "Тогда приступили к Иисусу книжники и фарисеи из Иерусалима и
+        стали говорить:"
+      new_text: В то время приходят к Иисусу из Иерусалима фарисеи и учителя Закона.
+      serbian: "Тада приступише Исусу књижевници и фарисеји од Јерусалима говорећи:"
+      bulgarian: "Тогава дохождат при Иисуса иерусалимските книжници и фарисеи и казват:"
+      Lutkovsky: "И вот приходят к Иисусу из Иерусалима фарисеи и книжники \r
+
+        и спрашивают:"
+      bel_boc: "Тады прыходзяць да ІІсуса Іерусалімскія кніжнікі і фарысеі\r
+
+        і кажуць:"
+      ukr2: "Тоді приступили до Ісуса фарисеї та книжники з Єрусалиму й кажуть:"
+      ukr3: "Тодї прийшли до Ісуса письменники та Фарисеї з Єрусалиму, кажучи:"
+      czech: "Tehdy prisli k Jezisovi z Jeruzalema farizeove a zakonici a rekli:"
+      st_text: "Тогда приходят к Иисусу Иерусалимские книжники и фарисеи и говорят:"
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 25231
+    number: 2
+    bookId: 51
+    text: зачем ученики Твои преступают предание старцев? ибо не умывают рук своих,
+      когда едят хлеб.
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 26719
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 7
+        short: Мк:7:2
+      - verseId: 26720
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 7
+        short: Мк:7:3
+      - verseId: 26722
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 7
+        short: Мк:7:5
+    translates:
+      kassian: почему ученики Твои преступают предание старцев? Ибо не моют они рук,
+        когда едят хлеб.
+      podstr: Из-за чего ученики Твои преступают предание старших? Не ведь моют руки
+        их когда хлеб едят.
+      csya: почто ученицы твои преступают предание старец? не умывают бо рук своих,
+        егда хлеб ядят.
+      averincev: '"Зачем ученики Твои нарушают предания древних? Ведь они не совершают
+        омовения рук, когда вкушают хлеб свой".'
+      ungerov: ""
+      csya_old: почто2 ўчн7цы2 твои2 преступaютъ предaніе стaрєцъ; не ўмывaютъ бо рyкъ
+        свои1хъ, є3гдA хлёбъ kдsтъ.
+      sovr_rbo: ""
+      latin: Quare discipuli tui transgrediuntur traditionem seniorum? non enim lavant
+        manus suas cum panem manducant.
+      ukr: Чого Твої учні ламають передання старших? Бо не миють вони своїх рук, коли
+        хліб споживають.
+      nkjv: '"Why do Your disciples transgress the tradition of the elders? For they
+        do not wash their hands when they eat bread."'
+      desnitsky: ""
+      tex_rec: Διὰ τί οἱ μαθηταί σου παραβαίνουσιν τὴν παράδοσιν τῶν πρεσβυτέρων; οὐ
+        γὰρ νίπτονται τὰς χεῖρας αὐτῶν ὅταν ἄρτον ἐσθίωσιν.
+      deutsch: Warum übertreten deine Jünger der Ältesten Aufsätze? Sie waschen ihre
+        Hände nicht, wenn sie Brot essen.
+      spanish: ¿Por qué tus discípulos traspasan la tradición de los ancianos, pues no
+        se lavan las manos cuando comen?
+      peshitta: ܠܡܳܢܳܐ ܬ݁ܰܠܡܺܝܕ݂ܰܝܟ݁ ܥܳܒ݂ܪܺܝܢ ܥܰܠ ܡܰܫܠܡܳܢܽܘܬ݂ܳܐ ܕ݁ܩܰܫܺܝܫܶܐ ܘܠܳܐ
+        ܡܫܺܝܓ݂ܺܝܢ ܐܺܝܕ݂ܰܝܗܽܘܢ ܡܳܐ ܕ݁ܳܐܟ݂ܠܺܝܢ ܠܰܚܡܳܐ܂
+      bel_syomukha: навошта вучні Твае парушаюць звычай старцаў? бо ня ўмываюць рук
+        сваіх, калі ядуць хлеб.
+      nrt: – Почему Твои ученики нарушают предания наших предков? Они не омывают рук
+        перед едой!
+      romana: Pentru ce ucenicii Tai calca datina batranilor? Caci nu-si spala mainile
+        cand mananca paine.
+      francais: Pourquoi tes disciples transgressent-ils la tradition des anciens? Car
+        ils ne se lavent pas les mains, quand ils prennent leurs repas.
+      italian: '"Perché i tuoi discepoli trasgrediscono la tradizione degli antichi?
+        Poiché non si lavano le mani quando prendono cibo!".'
+      old_georgian: რაჲსათჳს მოწაფენი შენნი გარდაჰვლენ მოძღურებასა ხუცესთასა? რამეთუ
+        არა დაიბანნიან ჴელნი, რაჟამს პურსა ჭამედ.
+      portuguese: Por que transgridem os teus discípulos a tradição dos anciãos? pois
+        não lavam as mãos, quando comem.
+      polish: "”Dlaczego Twoi uczniowie postępują wbrew tradycji starszych? Bo nie
+        myją\rsobie rąk przed jedzeniem”."
+      pobedonostsev: почто ученики Твои преступают предание старцев? не умывают рук
+        своих, когда едят хлеб.
+      new_text: — Почему Твои ученики нарушают предания отцов? Не омывают рук перед
+        едой… — спрашивают они.
+      serbian: Зашто ученици твоји преступају предање старих? Јер не умивају руке
+        своје када хљеб једу.
+      bulgarian: защо Твоите ученици престъпват преданието на старците? понеже не си
+        мият ръцете, кога ядат хляб.
+      Lutkovsky: "почему это ученики Твои нарушают древние обычаи? \rОни ведь не
+        омывают руки свои перед тем, как вкушать пищу."
+      bel_boc: "навошта вучні Твае парушаюць звычай старцаў?\rбо не ўмываюць рук
+        сваіх, калі ядуць хлеб."
+      ukr2: "“Чому твої учні порушують передання старших: не миють рук, коли
+        споживають страву?”"
+      ukr3: Чого Твої ученики переступають переказ старших? бо не миють рук своїх, як
+        їдять хлїб.
+      czech: „Proc tvoji ucednici porusuji tradici otcu? Vzdyt si pred jidlem
+        neomyvaji ruce!“
+      st_text: зачем ученики Твои преступают предание старцев? ибо не умывают рук
+        своих, когда едят хлеб.
+  - id: 25232
+    number: 3
+    bookId: 51
+    text: "Он же сказал им в ответ: зачем и вы преступаете заповедь Божию ради
+      предания вашего?"
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 23218
+        bookId: 3
+        bookCode: levit
+        chapter: 18
+        short: Лев:18:4
+      - verseId: 11450
+        bookId: 4
+        bookCode: cisla
+        chapter: 15
+        short: Чис:15:40
+    translates:
+      kassian: "А Он им ответил: почему и вы преступаете заповедь Божию ради предания
+        вашего?"
+      podstr: Он же ответивший сказал им, Из-за чего и вы преступаете заповедь Бога
+        из-за предания вашего?
+      csya: "Он же отвещав рече им: почто и вы преступаете заповедь Божию за предание
+        ваше?"
+      averincev: 'Он же сказал им в ответ: "А вы зачем нарушаете заповедь Божью в
+        угоду вашему преданию?'
+      ungerov: ""
+      csya_old: "Џнъ же tвэщaвъ рече2 и5мъ: почто2 и3 вы2 преступaете зaповэдь б9ію за
+        предaніе вaше;"
+      sovr_rbo: ""
+      latin: "Ipse autem respondens ait illis: Quare et vos transgredimini mandatum
+        Dei propter traditionem vestram? Nam Deus dixit:"
+      ukr: "А Він відповів і промовив до них: А чого й ви порушуєте Божу заповідь ради
+        передання вашого?"
+      nkjv: He answered and said to them, "Why do you also transgress the commandment
+        of God because of your tradition?
+      desnitsky: ""
+      tex_rec: ὁ δὲ ἀποκριθεὶς εἶπεν αὐτοῖς, Διὰ τί καὶ ὑμεῖς παραβαίνετε τὴν ἐντολὴν
+        τοῦ θεοῦ διὰ τὴν παράδοσιν ὑμῶν;
+      deutsch: "Er antwortete und sprach zu ihnen: Warum übertretet denn ihr Gottes
+        Gebot um eurer Aufsätze willen?"
+      spanish: "El respondió y les dijo: ¿Por qué traspasáis vosotros el precepto de
+        Dios por vuestras tradiciones?"
+      peshitta: ܥܢܳܐ ܝܶܫܽܘܥ ܘܶܐܡܰܪ ܠܗܽܘܢ ܠܡܳܢܳܐ ܐܳܦ݂ ܐܰܢ݈ܬ݁ܽܘܢ ܥܳܒ݂ܪܺܝܢ ܐܢ݈ܬ݁ܽܘܢ ܥܰܠ
+        ܦ݁ܽܘܩܕ݁ܳܢܳܐ ܕ݁ܰܐܠܳܗܳܐ ܡܶܛܽܠ ܡܰܫܠܡܳܢܽܘܬ݂ܟ݂ܽܘܢ܂
+      bel_syomukha: "А Ён сказаў ім у адказ: навошта і вы парушаеце запаведзь Божую
+        дзеля звычаю вашага?"
+      nrt: "Иисус ответил: – А почему вы ради соблюдения своего обычая нарушаете
+        заповедь Божью?"
+      romana: "Iar El, raspunzand, le-a zis: De ce si voi calcati porunca lui Dumnezeu
+        pentru datina voastra?"
+      francais: "Il leur répondit: Et vous, pourquoi transgressez-vous le commandement
+        de Dieu au profit de votre tradition?"
+      italian: 'Ed egli rispose loro: "Perché voi trasgredite il comandamento di Dio
+        in nome della vostra tradizione?'
+      old_georgian: "ხოლო იესუ მიუგო და ჰრქუა მათ: და რაჲსათჳს თქუენცა გარდახუალთ
+        მცნებასა ღმრთისასა მოძღურებითა თქუენითა?"
+      portuguese: "Ele, porém, respondendo, disse-lhes: E vós, por que transgredis o
+        mandamento de Deus por causa da vossa\rtradição?"
+      polish: "On im odpowiedział: ”Dlaczego i wy przestępujecie przykazanie Boże
+        dla\rwaszej tradycji?"
+      pobedonostsev: "Он же сказал им в ответ: зачем и вы преступаете заповедь Божию
+        за предание ваше?"
+      new_text: — А вы почему нарушаете заповедь Бога ради своего предания? — возразил
+        Он.
+      serbian: "А он одговарајући рече им: Зашто и ви преступате заповијест Божију за
+        предање своје?"
+      bulgarian: "А Той им отговори и рече: защо и вие престъпвате Божията заповед
+        заради вашето предание?"
+      Lutkovsky: "Он же сказал им в ответ: \rа почему вы нарушаете закон Божий ради
+        обычаев ваших?"
+      bel_boc: "А Ён сказаў ім у адказ:\rнавошта і вы парушаеце запаведзь Божую дзеля
+        звычаю вашага?"
+      ukr2: "А він у відповідь сказав їм: “А ви чого порушуєте заповідь Божу вашим
+        переданням?"
+      ukr3: "Він же, озвавшись, рече до них: Чого ж се й ви переступаєте заповідь Божу
+        ради переказу вашого?"
+      czech: "On jim odpovedel: „A proc vy prestupujete prikazani Bozi kvuli sve
+        tradici?"
+      st_text: "Он же сказал им в ответ: зачем и вы преступаете заповедь Божию ради
+        предания вашего?"
+  - id: 25233
+    number: 4
+    bookId: 51
+    text: "Ибо Бог заповедал: почитай отца и мать; и: злословящий отца или мать
+      смертью да умрет."
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 21579
+        bookId: 2
+        bookCode: ishod
+        chapter: 20
+        short: Исх:20:12
+      - verseId: 21610
+        bookId: 2
+        bookCode: ishod
+        chapter: 21
+        short: Исх:21:17
+      - verseId: 23306
+        bookId: 3
+        bookCode: levit
+        chapter: 20
+        short: Лев:20:9
+      - verseId: 36779
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 5
+        short: Втор:5:16
+      - verseId: 29714
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 20
+        short: Притч:20:20
+      - verseId: 33972
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 3
+        short: Сир:3:7
+      - verseId: 33973
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 3
+        short: Сир:3:8
+      - verseId: 24939
+        bookId: 46
+        bookCode: kniga-proroka-malahii
+        chapter: 1
+        short: Мал:1:6
+      - verseId: 26727
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 7
+        short: Мк:7:10
+      - verseId: 14147
+        bookId: 67
+        bookCode: k-efesanam-poslanie-ap-pavla
+        chapter: 6
+        short: Еф:6:1
+      - verseId: 14148
+        bookId: 67
+        bookCode: k-efesanam-poslanie-ap-pavla
+        chapter: 6
+        short: Еф:6:2
+    translates:
+      kassian: 'Сказал же Бог: "Почитай отца и мать"; и: "Злословящий отца или мать
+        смертию да умрет".'
+      podstr: Ведь Бог сказал, Почитай отца и мать, и, Злословящий отца или мать
+        смертью умрёт;
+      csya: "Бог бо заповеда, глаголя: чти отца и матерь: и: иже злословит отца или
+        матерь, смертию да умрет."
+      averincev: 'Ведь Бог сказал: "Чти отца твоего и матерь твою", и еще: "кто хулит
+        отца или матерь, смертию да умрет".'
+      ungerov: ""
+      csya_old: "Бг7ъ бо заповёда, гlz: чти2 nтцA и3 мaтерь: и3: и4же ѕлосло1витъ nтцA
+        и3ли2 мaтерь, сме1ртію да ќмретъ."
+      sovr_rbo: ""
+      latin: "Honora patrem, et matrem: et, Qui maledixerit patri, vel matri, morte
+        moriatur."
+      ukr: "Бо Бог заповів: Шануй батька та матір, та: Хто злорічить на батька чи
+        матір, хай смертю помре."
+      nkjv: "For God commanded, saying, 'Honor your father and your mother'; and, 'He
+        who curses father or mother, let him be put to death.' "
+      desnitsky: ""
+      tex_rec: ὁ γὰρ θεὸς εἶπεν, Τίμα τὸν πατέρα καὶ τὴν μητέρα, καί, ῾Ο κακολογῶν
+        πατέρα ἢ μητέρα θανάτῳ τελευτάτω·
+      deutsch: 'Gott hat geboten: "Du sollst Vater und Mutter ehren; wer Vater und
+        Mutter flucht, der soll des Todes sterben."'
+      spanish: "Pues Dios dijo: Honra a tu padre y a tu madre, y quien maldijera a su
+        padre o a su madre sea muerto."
+      peshitta: ܐܰܠܳܗܳܐ ܓ݁ܶܝܪ ܐܶܡܰܪ ܝܰܩܰܪ ܠܰܐܒ݂ܽܘܟ݂ ܘܠܶܐܡܳܟ݂ ܘܡܰܢ ܕ݁ܰܡܨܰܚܶܐ ܠܰܐܒ݂ܽܘܗ݈ܝ
+        ܘܠܶܐܡܶܗ ܡܡܳܬ݂ ܢܡܽܘܬ݂܂
+      bel_syomukha: "Бо Бог запаведаў, сказаўшы: шануй бацьку і маці; і: хто
+        ліхасловіць бацьку альбо маці, сьмерцю хай памрэ."
+      nrt: "Ведь Бог сказал: «Почитай отца и мать», и «Кто злословит отца или мать,
+        тот должен быть предан смерти»."
+      romana: "Caci Dumnezeu a zis: Cinsteste pe tatal tau si pe mama ta, iar cine va
+        blestema pe tata sau pe mama, cu moarte sa se sfarseasca."
+      francais: "Car Dieu a dit: Honore ton père et ta mère; et: Celui qui maudira son
+        père ou sa mère sera puni de mort."
+      italian: "Dio ha detto: Onora il padre e la madre e inoltre: Chi maledice il
+        padre e la madre sia messo a morte."
+      old_georgian: "რამეთუ ღმერთმან თქუა: პატივ-ეც მამასა შენსა და დედასა შენსა; და
+        რომელმან თქუას ბოროტი მამისათჳს გინა დედისა, სიკუდილით მოკუედინ."
+      portuguese: "Pois Deus ordenou: Honra a teu pai e a tua mãe; e, Quem maldisser a
+        seu pai ou a sua mãe, certamente morrerá."
+      polish: "Bóg przecież powiedział: Czcij ojca i matkę oraz: Kto złorzeczy ojcu
+        lub\rmatce, niech śmierć poniesie."
+      pobedonostsev: "Бог заповедал: почитай отца и мать; и кто злословит отца или
+        мать, смертию да умрет (Исх.20:12; 21:16)."
+      new_text: "— Бог сказал: «Почитай отца и мать» и «Оскорбивший отца или мать
+        карается смертью»."
+      serbian: "Јер Бог заповједи говорећи: Поштуј оца и матер; и  који ружи оца или
+        матер смрћу да умре."
+      bulgarian: 'Защото Бог е заповядал и казал: "почитай баща си и майка си"; и
+        "който злослови баща или майка, със смърт да се накаже".'
+      Lutkovsky: "Так, Богом заповедано: что отца и мать; \rа также: кто злословит
+        отца или мать - да будет предан смерти; \r(Исх 20.12; Исх 21.17)"
+      bel_boc: "Бо Бог запаведаў, сказаўшы: шануй бацьку і маці;\rі: хто ліхасловіць
+        бацьку альбо маці, смерцю няхай памрэ."
+      ukr2: "Бог бо заповідав: Шануй батька твого й матір. І далі: Хто проклинає
+        батька-матір, хай буде скараний на смерть."
+      ukr3: "Бог бо заповідав, глаголючи: Поважай батька твого й матїр, і: Хто лає
+        батька або матїр, нехай умре смертю."
+      czech: "Vzdyt Buh rekl: ‚Cti otce i matku‘ a ‚kdo zloreci otci nebo matce, at je
+        potrestan smrti.‘"
+      st_text: "Ибо Бог заповедал: почитай отца и мать; и: злословящий отца или мать
+        смертью да умрет."
+  - id: 25234
+    number: 5
+    bookId: 51
+    text: "А вы говорите: если кто скажет отцу или матери: дар <i>Богу</i> то, чем
+      бы ты от меня пользовался,"
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 29960
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 28
+        short: Притч:28:24
+      - verseId: 26728
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 7
+        short: Мк:7:11
+    translates:
+      kassian: 'А вы говорите: кто скажет отцу или матери: "дар то, чем бы ты от меня
+        воспользовался",'
+      podstr: вы же говорите, Который скажет отцу или матери, Дар которое если от меня
+        ты использовал бы,
+      csya: "Вы же глаголете: иже аще речет отцу или матери: дар, имже бы от мене
+        пользовался еси:"
+      averincev: 'А вы говорите: "Кто скажет отцу или матери: "Дар Богу то, что тебе
+        причиталось от меня", -'
+      ungerov: ""
+      csya_old: "Вы1 же глаго1лете: и4же ѓще рече1тъ nтцY и3ли2 мaтери: дaръ, и4мже бы
+        t менє2 по1льзовалсz є3си2:"
+      sovr_rbo: ""
+      latin: "Vos autem dicitis: Quicumque dixerit patri, vel matri: Munus, quodcumque
+        est ex me, tibi proderit:"
+      ukr: "А ви кажете: Коли скаже хто батьку чи матері: Те, чим би ви скористатись
+        від мене хотіли, то дар Богові,"
+      nkjv: "But you say, 'Whoever says to his father or mother, \"Whatever profit you
+        might have received from me is a gift to God\" - "
+      desnitsky: ""
+      tex_rec: ὑμεῖς δὲ λέγετε, ὃς ἂν εἴπῃ τῷ πατρὶ ἢ τῇ μητρί, Δῶρον ὃ ἐὰν ἐξ ἐμοῦ
+        ὠφεληθῇς, οὐ μὴ τιμήσει τὸν πατέρα αὐτοῦ·
+      deutsch: 'Ihr aber lehret: Wer zum Vater oder Mutter spricht: "Es ist Gott
+        gegeben, was dir sollte von mir zu Nutz kommen", der tut wohl.'
+      spanish: "Pero vosotros decís: Si alguno dijere a su padre o a su madre: «Cuanto
+        de mí pudiere aprovecharte, sea ofrenda»,"
+      peshitta: ܐܰܢ݈ܬ݁ܽܘܢ ܕ݁ܶܝܢ ܐܳܡܪܺܝܢ ܐܢ݈ܬ݁ܽܘܢ ܟ݁ܽܠ ܡܰܢ ܕ݁ܢܺܐܡܰܪ ܠܰܐܒ݂ܳܐ ܐܰܘ ܠܶܐܡܳܐ
+        ܩܽܘܪܒ݁ܳܢܝ ܡܶܕ݁ܶܡ ܕ݁ܬ݂ܶܬ݂ܗܢܶܐ ܡܶܢܝ ܘܠܳܐ ܢܝܰܩܰܪ ܠܰܐܒ݂ܽܘܗ݈ܝ ܐܰܘ ܠܶܐܡܶܗ܂
+      bel_syomukha: 'А вы кажаце: калі хто скажа бацьку альбо маці: "дар Богу - тое,
+        чым бы ты ад мяне карыстаўся",'
+      nrt: "Вы же говорите: если кто скажет своим родителям: «То, что я мог бы отдать
+        вам, я пожертвовал Богу»,"
+      romana: "Voi insa spuneti: Cel care va zice tatalui sau sau mamei sale: Cu ce
+        te-as fi putut ajuta este daruit lui Dumnezeu,"
+      francais: "Mais vous, vous dites: Celui qui dira à son père ou à sa mère: Ce
+        dont j'aurais pu t'assister est une offrande à Dieu, n'est pas tenu
+        d'honorer son père ou sa mère."
+      italian: "Invece voi asserite: Chiunque dice al padre o alla madre: Ciò con cui
+        ti dovrei aiutare è offerto a Dio,"
+      old_georgian: "ხოლო თქუენ სთქუთ: რომელმან თქუას მამასა თჳსსა გინა დედასა თჳსსა:
+        ნიჭი, რომელი ჩემგან სარგებელ გეყო,"
+      portuguese: "Mas vós dizeis: Qualquer que disser a seu pai ou a sua mãe: O que
+        poderias aproveitar de mim é oferta ao\rSenhor; esse de modo algum terá
+        de honrar a seu pai."
+      polish: "Wy zaś mówicie: ”Kto by oświadczył ojcu lub matce: Darem [złożonym
+        w\rofierze] jest to, co dla ciebie miało być wsparciem ode mnie,"
+      pobedonostsev: "А вы говорите: когда кто скажет отцу или матери: дар Богу то,
+        чем бы ты от меня пользовался;"
+      new_text: "А вы говорите: «Если кто скажет отцу или матери: „Что ты мог бы иметь
+        от меня — то мой дар Богу“,"
+      serbian: "А ви кажете: Ако који рече оцу или матери: прилог је оно чиме бих ти
+        ја могао помоћи;"
+      bulgarian: "А вие казвате: който каже на баща или майка: това, с което би се ти
+        ползувал от мене, е Богу дар, -"
+      Lutkovsky: "а вы говорите: если кто-нибудь скажет отцу или матери: \rто, что ты
+        мог бы получить от меня, - это дар Богу,"
+      bel_boc: "А вы кажаце: калі хто скажа бацьку альбо маці:\r\"дар Богу - тое, чым
+        бы ты ад мяне карыстаўся\","
+      ukr2: "А ви кажете: Хто скаже батькові чи матері: Добро, яким би я міг допомогти
+        вам, є дар (Божий)! –"
+      ukr3: "Ви ж кажете: Хто скаже батькові або матері: Се дар (Божий), чим би ти з
+        мене мав покористуватись,"
+      czech: "Vy vsak ucite: Kdo rekne otci nebo matce: ‚To, cim bych ti mel pomoci,
+        je obetni dar,‘"
+      st_text: "А вы говорите: если кто скажет отцу или матери: дар <i>Богу</i> то,
+        чем бы ты от меня пользовался,"
+  - id: 25235
+    number: 6
+    bookId: 51
+    text: тот может и не почтить отца своего или мать свою; таким образом вы
+      устранили заповедь Божию преданием вашим.
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 26729
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 7
+        short: Мк:7:12
+    translates:
+      kassian: тот да не почтит отца своего или мать свою; и отменили вы слово Божие
+        ради предания вашего.
+      podstr: нет не почтит отца его; и упразднили слово Бога из-за предания вашего.
+      csya: "и да не почтит отца своего или матере: и разористе заповедь Божию за
+        предание ваше."
+      averincev: тому будто и не нужно почитать отца"; и вы упразднили слово Божие в
+        угоду преданию вашему.
+      ungerov: ""
+      csya_old: "и3 да не почти1тъ nтцA своегw2 и3ли2 мaтере мaтере своеS: и3
+        разори1сте зaповэдь б9ію за предaніе вaше."
+      sovr_rbo: ""
+      latin: "et non honorificavit patrem suum, aut matrem suam: et irritum fecistis
+        mandatum Dei propter traditionem vestram."
+      ukr: то може вже й не шанувати той батька свого або матір свою. Так ви ради
+        передання вашого знівечили Боже Слово.
+      nkjv: "then he need not honor his father or mother.' Thus you have made the
+        commandment of God of no effect by your tradition. "
+      desnitsky: ""
+      tex_rec: καὶ ἠκυρώσατε τὸν λόγον τοῦ θεοῦ διὰ τὴν παράδοσιν ὑμῶν.
+      deutsch: Damit geschieht es, daß niemand hinfort seinen Vater oder seine Mutter
+        ehrt, und also habt ihr Gottes Gebot aufgehoben um eurer Aufsätze
+        willen.
+      spanish: ése no tiene que honrar a su padre; y habéis anulado la palabra de Dios
+        por vuestra tradición.
+      peshitta: ܘܒ݂ܰܛܶܠܬ݁ܽܘܢ ܡܶܠܬ݂ܳܐ ܕ݁ܰܐܠܳܗܳܐ ܡܶܛܽܠ ܡܰܫܠܡܳܢܽܘܬ݂ܳܐ ܕ݁ܺܝܠܟ݂ܽܘܢ܂
+      bel_syomukha: той можа і не ўшанаваць бацьку альбо маці сваю; такім чынам вы
+        скасавалі запаведзь Божую дзеля звычаю вашага.
+      nrt: то ему уже не обязательно помогать отцу. Тем самым вы ради своего обычая
+        отменяете заповедь Божью.
+      romana: Acela nu va cinsti pe tatal sau sau pe mama sa; si ati desfiintat
+        cuvantul lui Dumnezeu pentru datina voastra.
+      francais: Vous annulez ainsi la parole de Dieu au profit de votre tradition.
+      italian: non è più tenuto a onorare suo padre o sua madre. Così avete annullato
+        la parola di Dio in nome della vostra tradizione.
+      old_georgian: და არა პატივ-სცეს მამასა ანუ დედასა თჳსსა, ესევითართა დაუმტკიცებელ
+        ჰყავთ მცნებაჲ ღმრთისაჲ მოძღურებითა თქუენითა.
+      portuguese: E assim por causa da vossa tradição invalidastes a palavra de Deus.
+      polish: "ten nie potrzebuje czcić swego ojca ni matki”. I tak ze względu na
+        waszą\rtradycję znieśliście przykazanie Boże."
+      pobedonostsev: тот может и не почтить отца своего или мать. Так разорили вы
+        заповедь Божию за предание ваше.
+      new_text: ему уже не нужно почитать отца». Этим вы отменяете слово Бога ради
+        вашего предания.
+      serbian: Може и да не поштује оца свога и матер. И укидосте заповијест Божију за
+        предање своје.
+      bulgarian: той може и да не почете баща си или майка си. Тъй нарушихте Божията
+        заповед заради вашето предание.
+      Lutkovsky: "тот уже может не чтить ни отца своего, ни мать свою. \rТак вы
+        изменяете слово Божье ради обычаев ваших."
+      bel_boc: "той можа і не ўшанаваць бацьку альбо маці сваю;\rтакім чынам вы
+        скасавалі запаведзь Божую дзеля звычаю вашага."
+      ukr2: той може вже й не шанувати свого батька чи матір свою. Тож вашим
+        переданням усуваєте заповідь Божу.
+      ukr3: той може не поважати батька свого або матери своєї. І знївечили ви
+        заповідь Божу ради переказу вашого.
+      czech: ten jiz to nemusi dat svemu otci nebo matce. A tak jste svou tradici
+        zrusili slovo Bozi.
+      st_text: тот может и не почтить отца своего или мать свою; таким образом вы
+        устранили заповедь Божию преданием вашим.
+  - id: 25236
+    number: 7
+    bookId: 51
+    text: "Лицемеры! хорошо пророчествовал о вас Исаия, говоря:"
+    chapter: 15
+    chapterId: 1127
+    parallels: []
+    translates:
+      kassian: "Лицемеры! Хорошо пророчествовал о вас Исаия:"
+      podstr: Лицемеры, хорошо произнёс пророчество о вас Исаия говорящий,
+      csya: "Лицемери, добре пророчествова о вас исаиа, глаголя:"
+      averincev: "Лицедеи! Хорошо пророчествовал о вас Исаия, сказав:"
+      ungerov: ""
+      csya_old: "Лицемёри, до1брэ прbро1чествова њ вaсъ и3сaіа, глаго1лz:"
+      sovr_rbo: ""
+      latin: "Hypocritae, bene prophetavit de vobis Isaias, dicens:"
+      ukr: "Лицеміри! Про вас добре Ісая пророкував був, говорячи:"
+      nkjv: "Hypocrites! Well did Isaiah prophesy about you, saying:"
+      desnitsky: ""
+      tex_rec: ὑποκριταί, καλῶς ἐπροφήτευσεν περὶ ὑμῶν ᾽Ησαΐας λέγων,
+      deutsch: "Ihr Heuchler, wohl fein hat Jesaja von euch geweissagt und gesprochen:"
+      spanish: "¡Hipócritas! Bien profetizó de vosotros Isaías cuando dijo:"
+      peshitta: ܢܳܣܒ݁ܰܝ ܒ݁ܰܐܦ݁ܶܐ ܫܰܦ݁ܺܝܪ ܐܶܬ݂ܢܰܒ݁ܺܝ ܥܠܰܝܟ݁ܽܘܢ ܐܶܫܰܥܝܳܐ ܘܶܐܡܰܪ܂
+      bel_syomukha: "Крывадушнікі! добра прарочыў пра вас Ісая, кажучы:"
+      nrt: "Лицемеры! Прав был Исаия, когда пророчествовал о вас:"
+      romana: "Fatarnicilor, bine a proorocit despre voi Isaia, cand a zis:"
+      francais: "Hypocrites, Ésaïe a bien prophétisé sur vous, quand il a dit:"
+      italian: "Ipocriti! Bene ha profetato di voi Isaia, dicendo:"
+      old_georgian: "ორგულნო, კეთილად წინაწარმეტყუელებდა თქუენთჳს ესაია და თქუა:"
+      portuguese: "Hipócritas! bem profetizou Isaias a vosso respeito, dizendo:"
+      polish: "Obłudnicy, dobrze powiedział o was prorok Izajasz:"
+      pobedonostsev: "Лицемеры! право пророчествовал о вас Исаия, сказав:"
+      new_text: "Лицемеры! Хорошо сказал о вас пророк Исайя:"
+      serbian: "Лицемјери, добро је за вас пророковао Исаија говорећи:"
+      bulgarian: "Лицемерци, добре е пророкувал за вас Исаия, казвайки:"
+      Lutkovsky: "Лицемеры! \r
+
+        Вот уже действительно о вас пророчествовал Исайя:"
+      bel_boc: "Крывадушнікі!\r
+
+        добра прарочыў пра вас Ісаія, кажучы:"
+      ukr2: "О лицеміри! Добре про вас пророкував був Ісая:"
+      ukr3: "Лицеміри, добре прорік про вас Ісаїя, глаголючи:"
+      czech: "Pokrytci, dobre prorokoval o vas Izaias, kdyz rekl:"
+      st_text: "Лицемеры! хорошо пророчествовал о вас Исаия, говоря:"
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 25237
+    number: 8
+    bookId: 51
+    text: приближаются ко Мне люди сии устами своими, и чтут Меня языком, сердце же
+      их далеко отстоит от Меня;
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 20364
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 29
+        short: Ис:29:13
+      - verseId: 9517
+        bookId: 37
+        bookCode: kniga-proroka-amosa
+        chapter: 5
+        short: Ам:5:23
+      - verseId: 26723
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 7
+        short: Мк:7:6
+    translates:
+      kassian: '"Народ этот устами Меня чтит, сердце же их далеко отстоит от Меня;'
+      podstr: народ этот губами Меня почитает, же сердце их далеко отстоит от Меня;
+      csya: "приближаются мне людие сии усты своими и устнами чтут мя: сердце же их
+        далече отстоит от мене:"
+      averincev: '"Народ этот устами чтит Меня, сердце же его далеко от Меня;'
+      ungerov: ""
+      csya_old: "приближaютсz мнЁ лю1діе сjи ўсты6 свои1ми и3 ўстнaми чтyтъ мS:
+        се1рдце же и4хъ дале1че tстои1тъ t менє2:"
+      sovr_rbo: ""
+      latin: "Populus hic labiis me honorat: cor autem eorum longe est a me."
+      ukr: Оці люди устами шанують Мене, серце ж їхнє далеко від Мене!
+      nkjv: "'These people draw near to Me with their mouth, And honor Me with their
+        lips, But their heart is far from Me. "
+      desnitsky: ""
+      tex_rec: ῾Ο λαὸς οὗτος τοῖς χείλεσίν με τιμᾷ, ἡ δὲ καρδία αὐτῶν πόρρω ἀπέχει ἀπ᾽
+        ἐμοῦ·
+      deutsch: '"Dies Volk naht sich zu mir mit seinem Munde und ehrt mich mit seinen
+        Lippen, aber ihr Herz ist fern von mir;'
+      spanish: «Este pueblo me honra con los labios, pero su corazón está lejos de mí;
+      peshitta: ܥܰܡܳܐ ܗܳܢܳܐ ܒ݁ܣܶܦ݂ܘܳܬ݂ܶܗ ܗ݈ܘ ܡܝܰܩܰܪ ܠܺܝ ܠܶܒ݁ܗܽܘܢ ܕ݁ܶܝܢ ܣܰܓ݁ܺܝ ܪܰܚܺܝܩ
+        ܡܶܢܝ܂
+      bel_syomukha: '"Набліжаюцца да Мяне людзі гэтыя вуснамі сваімі і шануюць Мяне
+        языком; а сэрца іхняе далёка адлягае ад Мяне;'
+      nrt: «Этот народ чтит Меня губами, но их сердца далеки от Меня.
+      romana: '"Poporul acesta Ma cinsteste cu buzele, dar inima lor este departe de
+        Mine.'
+      francais: Ce peuple m'honore des lèvres, Mais son coeur est éloigné de moi.
+      italian: Questo popolo mi onora con le labbra ma il suo cuore è lontano da me.
+      old_georgian: მახლობელ არს ჩემდა ერი ესე პირითა მათითა და ბაგითა მათითა
+        პატივ-მცემს მე, ხოლო გულნი მათნი შორს განშორებულ არიან ჩემგან;
+      portuguese: Este povo honra-me com os lábios; o seu coração, porém, está longe
+        de mim.
+      polish: Ten lud czci Mnie wargami, lecz sercem swym daleko jest ode Mnie.
+      pobedonostsev: приближаются ко Мне люди сии устами своими, и устами чтут Меня;
+        сердце же их далече отстоит от Меня;
+      new_text: «Этот народ чтит Меня устами, но сердце его далеко от Меня.
+      serbian: Приближава ми се народ овај устима својим и уснама ме поштује, а срце
+        им је далеко од мене.
+      bulgarian: '"тоя народ се приближава до Мене с устата си и Ме почита с устните
+        си, а сърцето му стои далеч от Мене;'
+      Lutkovsky: "люди эти устами чтут Меня, \rсердца же их далеко отстоят от Меня;"
+      bel_boc: "\"Набліжаюцца да Мяне людзі гэтыя вуснамі сваімі і шануюць Мяне
+        языком;\rа сэрца іх далёка адлягае ад Мяне;"
+      ukr2: Оцей народ устами мене поважає, серце ж їхнє далеко від мене.
+      ukr3: Народ сей приближуєть ся до мене губами своїми, й устами мене шанує, серце
+        ж їх далеко від мене.
+      czech: ‚Lid tento cti me rty, ale srdce jejich je daleko ode mne;
+      st_text: приближаются ко Мне люди сии устами своими, и чтут Меня языком, сердце
+        же их далеко отстоит от Меня;
+  - id: 25238
+    number: 9
+    bookId: 51
+    text: но тщетно чтут Меня, уча учениям, заповедям человеческим.
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 34126
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 34
+        short: Сир:34:8
+      - verseId: 22880
+        bookId: 69
+        bookCode: k-kolossanam-poslanie-ap-pavla
+        chapter: 2
+        short: Кол:2:22
+      - verseId: 35520
+        bookId: 74
+        bookCode: k-titu-poslanie-ap-pavla
+        chapter: 1
+        short: Тит:1:14
+    translates:
+      kassian: но тщетно воздают Мне почитание, уча учениям, предписаниям человеческим".
+      podstr: тщетно же почитают Меня, учащие учения заповедей людей.
+      csya: всуе же чтут мя, учаще учением, заповедем человеческим.
+      averincev: но всуе воздают Мне честь, уча наставлениям человеческим"".
+      ungerov: ""
+      csya_old: всyе же чтyтъ мS, ўчaще ўче1ніємъ, зaповэдемъ человёчєскимъ.
+      sovr_rbo: ""
+      latin: Sine causa autem colunt me, docentes doctrinas et mandata hominum.
+      ukr: Та однак надаремне шанують Мене, бо навчають наук людських заповідей...
+      nkjv: "And in vain they worship Me, Teaching as doctrines the commandments of
+        men.' \" "
+      desnitsky: ""
+      tex_rec: μάτην δὲ σέβονταί με, διδάσκοντες διδασκαλίας ἐντάλματα ἀνθρώπων.
+      deutsch: aber vergeblich dienen sie mir, dieweil sie lehren solche Lehren, die
+        nichts denn Menschengebote sind."
+      spanish: en vano me rinden culto, enseñando doctrinas que son preceptos humanos».
+      peshitta: ܘܰܣܪܺܝܩܳܐܝܺܬ݂ ܕ݁ܳܚܠܺܝܢ ܠܺܝ ܟ݁ܰܕ݂ ܡܰܠܦ݂ܺܝܢ ܝܽܘܠܦ݁ܳܢܶܐ ܕ݁ܦ݂ܽܘܩܕ݁ܳܢܶܐ
+        ܕ݁ܰܒ݂ܢܰܝܢܳܫܳܐ܂
+      bel_syomukha: але марна шануюць Мяне, навучаючы вучэньням, запаведзям чалавечым".
+      nrt: Они поклоняются Мне впустую, и их учение состоит из человеческих
+        предписаний».
+      romana: Si zadarnic Ma cinstesc ei, invatand invataturi ce sunt porunci ale
+        oamenilor".
+      francais: C'est en vain qu'ils m'honorent, en enseignant des préceptes qui sont
+        des commandements d'hommes.
+      italian: Invano essi mi rendono culto, insegnando dottrine che sono precetti di
+        uomini".
+      old_georgian: ამაოდ მმსახურებენ მე, რამეთუ ასწავებენ მოძღურებასა და მცნებასა კაცთასა.
+      portuguese: Mas em vão me adoram, ensinando doutrinas que são preceitos de homem.
+      polish: Ale czci mnie na próżno, ucząc zasad podanych przez ludzi”.
+      pobedonostsev: но всуе чтут Меня, уча учениям, заповедям человеческим (Ис.29:13).
+      new_text: "Тщетно их поклонение: они учат человеческим заповедям, как Моим»."
+      serbian: Но узалуд ме поштују учећи наукама и заповијестима људским.
+      bulgarian: ала напразно Ме почита, проповядвайки учения, - заповеди човешки".
+      Lutkovsky: "но тщетно они поклоняются Мне, \rуча учениям и заповедям
+        человеческим. \r(Ис 29.13)"
+      bel_boc: "але марна шануюць Мяне,\rнавучаючы вучэнням, запаведзям чалавечым\"."
+      ukr2: Однак, намарно мене шукають, навчаючи людських наказів.”
+      ukr3: Та марно вони поклоняють ся менї, навчаючи наук заповідей чоловічих.
+      czech: marne me uctivaji, nebot uci naukam, jez jsou jen prikazy lidskymi.‘“
+      st_text: но тщетно чтут Меня, уча учениям, заповедям человеческим.
+  - id: 25239
+    number: 10
+    bookId: 51
+    text: "И, призвав народ, сказал им: слушайте и разумейте!"
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 26731
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 7
+        short: Мк:7:14
+    translates:
+      kassian: "И призвав народ, сказал им: слушайте и разумейте:"
+      podstr: И подозвавший толпу сказал им, Слушайте и понимайте;
+      csya: "И призвав народы, рече им: слышите и разумейте:"
+      averincev: 'И перед народом Он сказал им: "Услышьте и уразумейте. Не то, что
+        входит в уста, оскверняет человека;'
+      ungerov: ""
+      csya_old: "И# призвaвъ наро1ды, рече2 и5мъ: слы1шите и3 разумёйте:"
+      sovr_rbo: ""
+      latin: "Et convocatis ad se turbis, dixit eis: Audite, et intelligite."
+      ukr: "І Він покликав народ, і промовив до нього: Послухайте та зрозумійте!"
+      nkjv: 'When He had called the multitude to Himself, He said to them, "Hear and
+        understand:'
+      desnitsky: ""
+      tex_rec: Καὶ προσκαλεσάμενος τὸν ὄχλον εἶπεν αὐτοῖς, ᾽Ακούετε καὶ συνίετε·
+      deutsch: "Und er rief das Volk zu sich und sprach zu ihm: Höret zu und fasset es!"
+      spanish: "Y llamando a sí a la muchedumbre, les dijo: Oíd y entended:"
+      peshitta: ܘܰܩܪܳܐ ܠܟ݂ܶܢܫܶܐ ܘܶܐܡܰܪ ܠܗܽܘܢ ܫܡܰܥܘ ܘܶܐܣܬ݁ܰܟ݈݁ܠܘ܂
+      bel_syomukha: "І паклікаўшы люд, сказаў яму: слухайце і разумейце:"
+      nrt: "Он подозвал к Себе народ и сказал: – Выслушайте и постарайтесь понять."
+      romana: "Si chemand la Sine multimile, le-a zis: Ascultati si intelegeti:"
+      francais: "Ayant appelé à lui la foule, il lui dit: Écoutez, et comprenez."
+      italian: 'Poi riunita la folla disse: "Ascoltate e intendete!'
+      old_georgian: "და მოუწოდა ერსა მას და ეტყოდა: ისმინეთ და გულისჴმა-ყავთ:"
+      portuguese: "E, clamando a si a multidão, disse-lhes: Ouvi, e entendei:"
+      polish: "Potem przywołał do siebie tłum i rzekł do niego: ”Słuchajcie i
+        chciejcie zrozumieć."
+      pobedonostsev: "И призвав народ. сказал им: слушайте и разумейте!"
+      new_text: "Подозвав к себе народ, Иисус сказал: — Послушайте и постарайтесь
+        понять."
+      serbian: "И дозвавши народ, рече им: Слушајте и разумијте."
+      bulgarian: "И като повика народа, рече им: слушайте и разумейте:"
+      Lutkovsky: "И, позвав людей, Он сказал им: слушайте и разумейте:"
+      bel_boc: "І паклікаўшы люд,\rсказаў яму: слухайце і разумейце:"
+      ukr2: "І прикликавши людей, сказав їм: “Слухайте й розумійте!"
+      ukr3: "І, прикликавши людей, рече до них: Слухайте та й розумійте:"
+      czech: "Svolal zastup a rekl: „Slyste a rozumejte:"
+      st_text: "И, призвав народ, сказал им: слушайте и разумейте!"
+  - id: 25240
+    number: 11
+    bookId: 51
+    text: не то, что входит в уста, оскверняет человека, но то, что выходит из уст,
+      оскверняет человека.
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 26732
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 7
+        short: Мк:7:15
+      - verseId: 13050
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 10
+        short: Деян:10:15
+      - verseId: 32929
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 14
+        short: Рим:14:14
+      - verseId: 32935
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 14
+        short: Рим:14:20
+      - verseId: 35521
+        bookId: 74
+        bookCode: k-titu-poslanie-ap-pavla
+        chapter: 1
+        short: Тит:1:15
+    translates:
+      kassian: не то, что входит в уста, оскверняет человека, а то, что исходит из
+        уст, - вот, что оскверняет человека.
+      podstr: не входящее в уста оскверняет человека, но выходящее из уст это
+        оскверняет человека.
+      csya: "не входящее во уста сквернит человека: но исходящее изо уст, то сквернит
+        человека."
+      averincev: но то, что исходит из уст, оно оскверняет человека".
+      ungerov: ""
+      csya_old: "не входsщее во ўстA скверни1тъ человёка: но и3сходsщее и3зо ќстъ, то2
+        скверни1тъ человёка."
+      sovr_rbo: ""
+      latin: "Non quod intrat in os, coinquinat hominem: sed quod procedit ex ore, hoc
+        coinquinat hominem."
+      ukr: Не те, що входить до уст, людину сквернить, але те, що виходить із уст, те
+        людину сквернить.
+      nkjv: Not what goes into the mouth defiles a man; but what comes out of the
+        mouth, this defiles a man."
+      desnitsky: ""
+      tex_rec: οὐ τὸ εἰσερχόμενον εἰς τὸ στόμα κοινοῖ τὸν ἄνθρωπον, ἀλλὰ τὸ
+        ἐκπορευόμενον ἐκ τοῦ στόματος τοῦτο κοινοῖ τὸν ἄνθρωπον.
+      deutsch: Was zum Munde eingeht, das verunreinigt den Menschen nicht; sondern was
+        zum Munde ausgeht, das verunreinigt den Menschen.
+      spanish: No es lo que entra por la boca lo que hace impuro al hombre; pero lo
+        que sale de la boca, eso es lo que al hombre le hace impuro.
+      peshitta: ܠܳܐ ܗ݈ܘܳܐ ܡܶܕ݁ܶܡ ܕ݁ܥܳܐܶܠ ܠܦ݂ܽܘܡܳܐ ܡܣܰܝܶܒ݂ ܠܒ݂ܰܪܢܳܫܳܐ ܐܶܠܳܐ ܡܶܕ݁ܶܡ
+        ܕ݁ܢܳܦ݂ܶܩ ܡܶܢ ܦ݁ܽܘܡܳܐ ܗܰܘ ܗ݈ܽܘ ܡܣܰܝܶܒ݂ ܠܒ݂ܰܪܢܳܫܳܐ܂
+      bel_syomukha: ня тое, што ўваходзіць у вусны, апаганьвае чалавека; а што
+        выходзіць з вуснаў, тое апаганьвае чалавека.
+      nrt: Не то, что входит в человека через рот, делает его нечистым; нечистым
+        делает его то, что исходит из его уст.
+      romana: Nu ceea ce intra pe gura spurca pe om, ci ceea ce iese din gura, aceea
+        spurca pe om.
+      francais: Ce n'est pas ce qui entre dans la bouche qui souille l'homme; mais ce
+        qui sort de la bouche, c'est ce qui souille l'homme.
+      italian: Non quello che entra nella bocca rende impuro l'uomo, ma quello che
+        esce dalla bocca rende impuro l'uomo!".
+      old_georgian: არა თუ პირით შემავალი შეაგინებს კაცსა, არამედ პირით გამომავალი
+        შეაგინებს კაცსა.
+      portuguese: Não é o que entra pela boca que contamina o homem; mas o que sai da
+        boca, isso é o que o contamina.
+      polish: "Nie to, co wchodzi do ust, czyni człowieka nieczystym, ale co z ust
+        wychodzi,\rto go czyni nieczystym”."
+      pobedonostsev: Не то, что входит в уста, сквернит человека; но что выходит из
+        уст, то сквернит человека.
+      new_text: Человека делает нечистым не то, что входит в уста, а то, что исходит
+        из уст.
+      serbian: Не погани човјека што улази у уста; него што излази из уста оно погани
+        човјека.
+      bulgarian: не това, що влиза в устата, осквернява човека, а онова, що излиза из
+        устата, то осквернява човека.
+      Lutkovsky: "не то оскверняет человека, что входит в уста его, \rно то оскверняет
+        человека, что исходит из уст его."
+      bel_boc: "не тое, што ўваходзіць у вусны, апаганьвае чалавека;\rа што выходзіць
+        з вуснаў, тое апаганьвае чалавека."
+      ukr2: Не те, що до уст входить, осквернює людину, а те, що з уст виходить, те
+        осквернює людину”.
+      ukr3: Не те, що входить в уста, сквернить чоловіка, а що виходить із уст, те
+        сквернить чоловіка.
+      czech: Ne co vchazi do ust, znesvecuje cloveka, ale co z ust vychazi, to cloveka
+        znesvecuje.“
+      st_text: не то, что входит в уста, оскверняет человека, но то, что выходит из
+        уст, оскверняет человека.
+  - id: 25241
+    number: 12
+    bookId: 51
+    text: "Тогда ученики Его, приступив, сказали Ему: знаешь ли, что фарисеи,
+      услышав слово сие, соблазнились?"
+    chapter: 15
+    chapterId: 1127
+    parallels: []
+    translates:
+      kassian: "Тогда подошли ученики и говорят Ему: знаешь ли, что фарисеи, услышав
+        это слово, соблазнились?"
+      podstr: Тогда подошедшие ученики говорят Ему, Знаешь что фарисеи услышавшие
+        слово возмутились?
+      csya: "Тогда приступльше ученицы его реша ему: веси ли, яко фарисее слышавше
+        слово соблазнишася?"
+      averincev: 'Тогда ученики Его, приблизясь, говорят Ему: "Знаешь ли ты, что
+        фарисеи, услышав Твое слово, впали в соблазн?"'
+      ungerov: ""
+      csya_old: "ТогдA пристyпльше ўчн7цы2 є3гw2 рёша є3мY: вёси ли, ћкw фарісе1є
+        слы1шавше сло1во соблазни1шасz;"
+      sovr_rbo: ""
+      latin: "Tunc accedentes discipuli ejus, dixerunt ei: Scis quia pharisaei audito
+        verbo hoc, scandalizati sunt?"
+      ukr: "Тоді учні Його приступили й сказали Йому: Чи Ти знаєш, що фарисеї, почувши
+        це слово, спокусилися?"
+      nkjv: Then His disciples came and said to Him, "Do You know that the Pharisees
+        were offended when they heard this saying?"
+      desnitsky: ""
+      tex_rec: Τότε προσελθόντες οἱ μαθηταὶ λέγουσιν αὐτῷ, Οἶδας ὅτι οἱ Φαρισαῖοι
+        ἀκούσαντες τὸν λόγον ἐσκανδαλίσθησαν;
+      deutsch: "Da traten seine Jünger zu ihm und sprachen: Weißt du auch, daß sich
+        die Pharisäer ärgerten, da sie das Wort hörten?"
+      spanish: "Entonces se le acercaron los discípulos y le dijeron: ¿Sabes que los
+        fariseos, al oírte, se han escandalizado?"
+      peshitta: ܗܳܝܕ݁ܶܝܢ ܩܪܶܒ݂ܘ ܬ݁ܰܠܡܺܝܕ݂ܰܘܗ݈ܝ ܘܳܐܡܪܺܝܢ ܠܶܗ ܝܳܕ݂ܰܥ ܐܰܢ݈ܬ݁ ܕ݁ܰܦ݂ܪܺܝܫܶܐ
+        ܕ݁ܰܫܡܰܥܘ ܡܶܠܬ݂ܳܐ ܗܳܕ݂ܶܐ ܐܶܬ݂ܟ݁ܫܶܠܘ܂
+      bel_syomukha: "Тады вучні Ягоныя, прыступіўшы, сказалі Яму: ці ведаеш, што
+        фарысэі, пачуўшы слова гэтае, запаняверыліся?"
+      nrt: "Позже ученики сказали Иисусу: – Ты знаешь, что Твои слова обидели
+        фарисеев?"
+      romana: "Atunci, apropiindu-se, ucenicii I-au zis: Stii ca fariseii, auzind
+        cuvantul, s-au scandalizat?"
+      francais: "Alors ses disciples s'approchèrent, et lui dirent: Sais-tu que les
+        pharisiens ont été scandalisés des paroles qu'ils ont entendues?"
+      italian: 'Allora i discepoli gli si accostarono per dirgli: "Sai che i farisei
+        si sono scandalizzati nel sentire queste parole?".'
+      old_georgian: "მაშინ მოუჴდეს იესუს მოწაფენი მისნი და ჰრქუეს მას: უწყია, რამეთუ
+        ფარისეველთა რაჲ ესმა სიტყუაჲ იგი, დაჰბრკოლდეს?"
+      portuguese: "Então os discípulos, aproximando-se dele, perguntaram-lhe: Sabes
+        que os fariseus, ouvindo essas palavras, se\rescandalizaram?"
+      polish: "wtedy przystąpili do Niego uczniowie i rzekli: ”Wiesz, że faryzeusze
+        zgorszyli\rsię, gdy usłyszeli to powiedzenie?”"
+      pobedonostsev: "Тогда приступив, ученики Его сказали Ему: знаешь ли, что
+        фарисеи, услышав слово сие, соблазнились?"
+      new_text: "Тогда ученики подошли к Нему и говорят: — Знаешь ли Ты, что Твои
+        слова вызвали негодование у фарисеев?"
+      serbian: "Тада приступише ученици његови и рекоше му: Знаш ли да фарисеји, чувши
+        ту ријеч, саблазнише се?"
+      bulgarian: "Тогава учениците Му се приближиха и Му рекоха: знаеш ли, че
+        фарисеите, като чуха тая реч, се съблазниха?"
+      Lutkovsky: "А после, подойдя к Нему, ученики спросили: знаешь ли Ты, \rчто
+        фарисеи пришли в негодование, услышав эти слова?"
+      bel_boc: "Тады вучні Яго, прыступіўшы, сказалі Яму:\rці ведаеш, што фарысеі,
+        пачуўшы слова гэтае, спакусіліся?"
+      ukr2: "Тоді приступили учні й кажуть йому: “Чи знаєш, що фарисеї взяли тобі за
+        зле, як почули, що ти так говориш?”"
+      ukr3: "Приступивши тодї ученики, рекли до Него: Чи знаєш, що Фарисеї, чувши
+        слово, поблазнились?"
+      czech: "Tu prisli ucednici a rekli mu: „Vis, ze se farizeove urazili, kdyz
+        slyseli to slovo?“"
+      st_text: "Тогда ученики Его, приступив, сказали Ему: знаешь ли, что фарисеи,
+        услышав слово сие, соблазнились?"
+  - id: 25242
+    number: 13
+    bookId: 51
+    text: "Он же сказал в ответ: всякое растение, которое не Отец Мой Небесный
+      насадил, искоренится;"
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 20129
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 17
+        short: Ис:17:10
+      - verseId: 18156
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 15
+        short: Ин:15:2
+      - verseId: 13853
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 5
+        short: Деян:5:38
+    translates:
+      kassian: "Он же ответил: всякое растение, которое не Отец Мой Небесный насадил,
+        искоренится."
+      podstr: Он же ответивший сказал, Всякое растение которое не посадил Отец Мой
+        небесный искоренится.
+      csya: "Он же отвещав рече: всяк сад, егоже не насади Отец мой небесный,
+        искоренится:"
+      averincev: 'А Он сказал им в ответ: "Всякий росток, который насажден не от Отца
+        Моего Небесного, будет исторгнут с корнем.'
+      ungerov: ""
+      csya_old: "Џнъ же tвэщaвъ рече2: всsкъ сaдъ, є3го1же не насади2 nц7ъ мо1й
+        нбcный, и3скорени1тсz:"
+      sovr_rbo: ""
+      latin: "At ille respondens ait: Omnis plantatio, quam non plantavit Pater meus
+        caelestis, eradicabitur."
+      ukr: "А Він відповів і сказав: Усяка рослина, яку насадив не Отець Мій Небесний,
+        буде вирвана з коренем."
+      nkjv: But He answered and said, "Every plant which My heavenly Father has not
+        planted will be uprooted.
+      desnitsky: ""
+      tex_rec: ὁ δὲ ἀποκριθεὶς εἶπεν, Πᾶσα φυτεία ἣν οὐκ ἐφύτευσεν ὁ πατήρ μου ὁ
+        οὐράνιος ἐκριζωθήσεται.
+      deutsch: "Aber er antwortete und sprach: Alle Pflanzen, die mein himmlischer
+        Vater nicht pflanzte, die werden ausgereutet."
+      spanish: "Respondióles y dijo: Toda planta que no ha plantado mi Padre celestial
+        será arrancada."
+      peshitta: ܗܽܘ ܕ݁ܶܝܢ ܥܢܳܐ ܘܶܐܡܰܪ ܠܗܽܘܢ ܟ݁ܽܠ ܢܶܨܒ݁ܬ݂ܳܐ ܐܰܝܕ݂ܳܐ ܕ݁ܠܳܐ ܢܰܨܒ݁ܳܗ ܐܳܒ݂ܝ
+        ܕ݁ܒ݂ܰܫܡܰܝܳܐ ܬ݁ܶܬ݂ܥܩܰܪ܂
+      bel_syomukha: "А Ён сказаў у адказ: усякая расьліна, якую не Айцец Мой Нябесны
+        пасадзіў, выкараніцца,"
+      nrt: "Иисус ответил: – Каждое растение, посаженное не Моим Небесным Отцом, будет
+        вырвано с корнем."
+      romana: "Iar El, raspunzand, a zis: Orice rasad pe care nu l-a sadit Tatal Meu
+        cel ceresc, va fi smuls din radacina."
+      francais: "Il répondit: Toute plante que n'a pas plantée mon Père céleste sera
+        déracinée."
+      italian: 'Ed egli rispose: "Ogni pianta che non è stata piantata dal mio Padre
+        celeste sarà sradicata.'
+      old_georgian: "ხოლო თავადმან მიუგო და ჰრქუა მათ: ყოველი ნერგი, რომელი არა
+        დანერგა მამამან ჩემმან ზეცათამან, ძირითურთ აღიფხურას."
+      portuguese: "Respondeu-lhes ele: Toda planta que meu Pai celestial não plantou
+        será arrancada."
+      polish: "On zaś odrzekł: ”Każda roślina, której nie sadził mój Ojciec niebieski,
+        będzie\rwyrwana."
+      pobedonostsev: "Он же сказал в ответ: всякое насаждение, что не Отец Мой
+        Небесный насадил, искоренится;"
+      new_text: — Всякий саженец, не Моим Небесным Отцом посаженный, будет вырван с
+        корнем, — ответил Он.
+      serbian: "А он одговарајући рече: Свако дрво које није усадио Отац мој небески,
+        искоријениће се."
+      bulgarian: "А Той отговори и рече: всяко садиво, което Моят Отец Небесен не е
+        насадил, ще се изкорени;"
+      Lutkovsky: "Он же сказал в ответ: любое растение, \rкоторое взрастил не Отец Мой
+        Небесный, \rбудет вырвано с корнем."
+      bel_boc: "А Ён сказаў у адказ: усякая расліна,\rякую не Айцец Мой Нябесны
+        пасадзіў,\rвыкараніцца;"
+      ukr2: "Ісус озвався: “Кожна рослина, яку не посадив мій Отець Небесний, буде
+        вирвана з корінням."
+      ukr3: "Він же, озвавшись, рече: Усяка рослина, що не насаджував Отець мій
+        небесний, викоренить ся."
+      czech: "Ale on jim odpovedel: „Kazda rostlina, kterou nezasadil muj nebesky
+        Otec, bude vykorenena."
+      st_text: "Он же сказал в ответ: всякое растение, которое не Отец Мой Небесный
+        насадил, искоренится;"
+  - id: 25243
+    number: 14
+    bookId: 51
+    text: "оставьте их: они - слепые вожди слепых; а если слепой ведет слепого, то
+      оба упадут в яму."
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 21241
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 9
+        short: Ис:9:16
+      - verseId: 20688
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 42
+        short: Ис:42:19
+      - verseId: 24755
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 6
+        short: Лк:6:39
+      - verseId: 33017
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 2
+        short: Рим:2:16
+      - verseId: 33020
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 2
+        short: Рим:2:19
+    translates:
+      kassian: Оставьте их, они слепые вожди слепых. Если же слепой ведет слепого, оба
+        упадут в яму.
+      podstr: Оставьте их; слепые они есть поводыри слепых; слепой же слепого если
+        будет путеводить, оба в яму упадут.
+      csya: "оставите их: вожди суть слепи слепцем: слепец же слепца аще водит, оба в
+        яму впадетася."
+      averincev: Оставьте их; это слепые вожатаи. А если поведет слепой слепого, оба
+        падут в яму".
+      ungerov: ""
+      csya_old: "њстaвите и5хъ: вожди6 сyть слёпи слэпцє1мъ: слэпе1цъ же слэпцA ѓще
+        во1дитъ, џба въ ћму впаде1тасz."
+      sovr_rbo: ""
+      latin: "Sinite illos: caeci sunt, et duces caecorum; caecus autem si caeco
+        ducatum praestet, ambo in foveam cadunt."
+      ukr: "Залишіть ви їх: це сліпі поводатарі для сліпих. А коли сліпий водить
+        сліпого, обоє до ями впадуть..."
+      nkjv: Let them alone. They are blind leaders of the blind. And if the blind
+        leads the blind, both will fall into a ditch."
+      desnitsky: ""
+      tex_rec: ἄφετε αὐτούς· τυφλοί εἰσιν ὁδηγοί· τυφλὸς δὲ τυφλὸν ἐὰν ὁδηγῇ,
+        ἀμφότεροι εἰς βόθυνον πεσοῦνται.
+      deutsch: Lasset sie fahren! Sie sind blinde Blindenleiter. Wenn aber ein Blinder
+        den andern leitet, so fallen sie beide in die Grube.
+      spanish: Dejadlos, son guías ciegos; si un ciego guía a otro ciego, ambos caerán
+        en la hoya.
+      peshitta: ܫܒ݂ܽܘܩܘ ܠܗܽܘܢ ܣܡܰܝܳܐ ܐܶܢܽܘܢ ܢܳܓ݂ܽܘܕ݂ܶܐ ܕ݁ܰܣܡܰܝܳܐ ܣܰܡܝܳܐ ܕ݁ܶܝܢ ܠܣܰܡܝܳܐ
+        ܐܶܢ ܢܶܕ݂ܒ݁ܰܪ ܬ݁ܪܰܝܗܽܘܢ ܒ݁ܓ݂ܽܘܡܳܨܳܐ ܢܳܦ݂ܠܺܝܢ܂
+      bel_syomukha: "пакіньце іх: яны - сьляпыя павадыры сьляпых; а калі сьляпы
+        сьляпога вядзе, дык абодва ў яму ўпадуць."
+      nrt: Оставьте их, они слепые поводыри слепых. А если слепой поведет слепого, то
+        оба упадут в яму.
+      romana: Lasatii pe ei; sunt calauze oarbe, orbilor; si daca orb pe orb va
+        calauzi, amandoi vor cadea in groapa.
+      francais: "Laissez-les: ce sont des aveugles qui conduisent des aveugles; si un
+        aveugle conduit un aveugle, ils tomberont tous deux dans une fosse."
+      italian: Lasciateli! Sono ciechi e guide di ciechi. E quando un cieco guida un
+        altro cieco, tutti e due cadranno in un fosso!".
+      old_georgian: უტევენით ეგე, რამეთუ ბრმანი არიან და წინამძღუარნი ბრმათანი. ხოლო
+        ბრმაჲ ბრმასა თუ წინაუძღჳნ, ორნივე მთხრებლსა შთაცჳვიან.
+      portuguese: Deixai-os; são guias cegos; ora, se um cego guiar outro cego, ambos
+        cairão no barranco.
+      polish: Zostawcie ich! To są ślepi przewodnicy ślepych. Lecz jeśli ślepy ślepego
+        prowadzi, obaj w dół wpadną”.
+      pobedonostsev: "оставьте их: вожди они слепые слепым; когда слепец слепца водит,
+        оба в яму впадут."
+      new_text: — Оставьте их! Это слепые поводыри слепых. А когда слепой ведет
+        слепого, то оба угодят в яму.
+      serbian: Оставите их, слијепи су вођи слијепима; а слијепи слијепога ако води,
+        оба ће у јаму пасти.
+      bulgarian: "оставете ги: те са слепи водачи на слепци; ако пък слепец слепеца
+        води, и двамата ще паднат в ямата."
+      Lutkovsky: "Оставьте их: они слепые поводыри слепых; \rа когда слепой ведет
+        слепого, то оба упадут в яму."
+      bel_boc: "пакіньце іх:\rяны — сляпыя павадыры сляпых;\rа калі сляпы сляпога
+        вядзе, дык абодва ў яму ўпадуць."
+      ukr2: "Лишіть їх: це сліпі проводарі сліпих! Коли ж сліпий веде сліпого, обидва
+        впадуть у яму.”"
+      ukr3: "Не вважайте на них: проводирі вони слїпі слїпих. А коли слїпий веде
+        слїпого, обидва впадуть у яму."
+      czech: "Nechte je: slepi vedou slepe. A kdyz vede slepy slepeho, oba spadnou do
+        jamy.“"
+      st_text: "оставьте их: они - слепые вожди слепых; а если слепой ведет слепого,
+        то оба упадут в яму."
+  - id: 25244
+    number: 15
+    bookId: 51
+    text: "Петр же, отвечая, сказал Ему: изъясни нам притчу сию."
+    chapter: 15
+    chapterId: 1127
+    parallels: []
+    translates:
+      kassian: "И ответил Ему Петр: объясни нам притчу."
+      podstr: Ответивший же Пётр сказал Ему, Объясни нам притчу эту.
+      csya: "Отвещав же петр рече ему: скажи нам притчу сию."
+      averincev: 'А Петр на это сказал Ему: "Объясни нам притчу ту".'
+      ungerov: ""
+      csya_old: "Tвэщaвъ же пе1тръ рече2 є3мY: скажи2 нaмъ при1тчу сію2."
+      sovr_rbo: ""
+      latin: "Respondens autem Petrus dixit ei: Edissere nobis parabolam istam."
+      ukr: "А Петро відповів і до Нього сказав: Поясни нам цю притчу."
+      nkjv: Then Peter answered and said to Him, "Explain this parable to us."
+      desnitsky: ""
+      tex_rec: ᾽Αποκριθεὶς δὲ ὁ Πέτρος εἶπεν αὐτῷ, Φράσον ἡμῖν τὴν παραβολήν.
+      deutsch: "Da antwortete Petrus und sprach zu ihm: Deute uns dieses Gleichnis."
+      spanish: "Tomando Pedro la palabra, le dijo: Explícanos esa parábola,"
+      peshitta: ܘܰܥܢܳܐ ܫܶܡܥܽܘܢ ܟ݁ܺܐܦ݂ܳܐ ܘܶܐܡܰܪ ܠܶܗ ܡܳܪܝ ܦ݁ܰܫܶܩ ܠܰܢ ܡܰܬ݂ܠܳܐ ܗܳܢܳܐ܂
+      bel_syomukha: "А Пётр сказаў Яму ў адказ: растлумач нам прытчу гэтую."
+      nrt: "Петр же попросил: – Объясни нам эту притчу."
+      romana: "Si Petru, raspunzand, I-a zis: Lamureste-ne noua pilda aceasta."
+      francais: "Pierre, prenant la parole, lui dit: Explique-nous cette parabole."
+      italian: 'Pietro allora gli disse: "Spiegaci questa parabola".'
+      old_georgian: "მიუგო პეტრე და ჰრქუა მას: გამოგჳთარგმანე ჩუენ იგავე ესე."
+      portuguese: "E Pedro, tomando a palavra, disse-lhe: Explica-nos essa parábola."
+      polish: "Wtedy Piotr zabrał głos i rzekł do Niego: ”Wytłumacz nam tę
+        przypowieść!”."
+      pobedonostsev: "Петр же, отвечаю, сказал Ему: расскажи нам притчу сию."
+      new_text: — Объясни нам эту притчу, — обратился к Нему Петр.
+      serbian: "А Петар одговарајући рече му: Растумачи нам причу ову."
+      bulgarian: "А Петър отговори и Му рече: разясни ни тая притча."
+      Lutkovsky: "Петр же обратился к Нему \rи сказал: объясни нам сказанное."
+      bel_boc: "А Пётр сказаў Яму ў адказ: растлумач нам прытчу гэтую."
+      ukr2: "Тоді Петро заговорив до нього й каже: “З'ясуй нам оту притчу.”"
+      ukr3: "Озвав ся ж Петр і каже до Него: Виясни нам сю приповість."
+      czech: "Petr mu na to rekl: „Vysvetli nam to podobenstvi!“"
+      st_text: "Петр же, отвечая, сказал Ему: изъясни нам притчу сию."
+  - id: 25245
+    number: 16
+    bookId: 51
+    text: "Иисус сказал: неужели и вы еще не разумеете?"
+    chapter: 15
+    chapterId: 1127
+    parallels: []
+    translates:
+      kassian: "Он же сказал: неужели и вы еще не разумеете?"
+      podstr: Он же сказал, Даже теперь и вы непонятливые есть?
+      csya: "Иисус же рече (им): единаче ли и вы без разума есте?"
+      averincev: 'Он же сказал: "И вы доселе не разумеете?'
+      ungerov: ""
+      csya_old: "І3}съ же рече2 (и5мъ): є3динaче є3ще2 ли и3 вы2 без8 рaзума є3сте2;"
+      sovr_rbo: ""
+      latin: "At ille dixit: Adhuc et vos sine intellectu estis?"
+      ukr: "А Він відказав: Чи ж і ви розуміння не маєте?"
+      nkjv: So Jesus said, "Are you also still without understanding?
+      desnitsky: ""
+      tex_rec: ὁ δὲ εἶπεν, ᾽Ακμὴν καὶ ὑμεῖς ἀσύνετοί ἐστε;
+      deutsch: "Und Jesus sprach zu ihnen: Seid ihr denn auch noch unverständig?"
+      spanish: "Dijo El: ¿Tampoco vosotros entendéis?"
+      peshitta: ܗܽܘ ܕ݁ܶܝܢ ܐܶܡܰܪ ܠܗܽܘܢ ܥܕ݂ܰܡܳܐ ܠܗܳܫܳܐ ܐܳܦ݂ ܐܰܢ݈ܬ݁ܽܘܢ ܠܳܐ ܡܶܣܬ݁ܰܟ݁ܠܺܝܢ
+        ܐܢ݈ܬ݁ܽܘܢ܂
+      bel_syomukha: "Ісус сказаў: няўжо і вы яшчэ ня маеце разуменьня?"
+      nrt: – Так и вы тоже до сих пор не понимаете? – спросил Иисус. –
+      romana: "El a zis: Acum si voi sunteti nepriceputi?"
+      francais: "Et Jésus dit: Vous aussi, êtes-vous encore sans intelligence?"
+      italian: 'Ed egli rispose: "Anche voi siete ancora senza intelletto?'
+      old_georgian: "ხოლო იესუ ჰრქუა მას: თქუენცა უგულისჴმოვე ხართა?"
+      portuguese: "Respondeu Jesus: Estai vós também ainda sem entender?"
+      polish: "On rzekł: ”To i wy jeszcze niepojętni jesteście?"
+      pobedonostsev: "Иисус же сказал: или еще вы не разумеете?"
+      new_text: — Как, и вы такие же бестолковые?
+      serbian: "А Исус рече: Еда ли сте и ви још неразумни?"
+      bulgarian: "Иисус им рече: и вие ли още не разбирате?"
+      Lutkovsky: "А Он говорит: неужели и вы неразумны?"
+      bel_boc: "Іісус сказаў: няўжо і вы яшчэ не маеце разумення?"
+      ukr2: "Він же відповів: “То ви також без розуму ще й досі?"
+      ukr3: "Ісус же рече: Чи й ви ще без розуму?"
+      czech: "On odpovedel: „I vy jste jeste nechapavi?"
+      st_text: "Иисус сказал: неужели и вы еще не разумеете?"
+  - id: 25246
+    number: 17
+    bookId: 51
+    text: еще ли не понимаете, что всё, входящее в уста, проходит в чрево и
+      извергается вон?
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 23008
+        bookId: 3
+        bookCode: levit
+        chapter: 11
+        short: Лев:11:47
+    translates:
+      kassian: Не понимаете ли, что всё, входящее в уста, в чрево проходит и
+        извергается вон?
+      podstr: Не понимаете что всё входящее в уста в утробу удаляется и в отхожее
+        место выбрасывается?
+      csya: не у ли разумеваете, яко всяко, еже входит во уста, во чрево вмещается и
+        афедроном исходит?
+      averincev: Не понятно вам, что все входящее в уста идет во чрево, а оттуда
+        выбрасывается в отхожее место?
+      ungerov: ""
+      csya_old: не ў2 ли разумэвaете, ћкw всsко, є4же вхо1дитъ во ўстA, во чре1во
+        вмэщaетсz и3 ґфедрHномъ и3схо1дитъ;
+      sovr_rbo: ""
+      latin: Non intelligitis quia omne quod in os intrat, in ventrem vadit, et in
+        secessum emittitur?
+      ukr: Чи ж ви не розумієте, що все те, що входить до уст, вступає в живіт, та й
+        назовні виходить?
+      nkjv: Do you not yet understand that whatever enters the mouth goes into the
+        stomach and is eliminated?
+      desnitsky: ""
+      tex_rec: οὐ νοεῖτε ὅτι πᾶν τὸ εἰσπορευόμενον εἰς τὸ στόμα εἰς τὴν κοιλίαν χωρεῖ
+        καὶ εἰς ἀφεδρῶνα ἐκβάλλεται;
+      deutsch: Merket ihr noch nicht, daß alles, was zum Munde eingeht, das geht in
+        den Bauch und wird durch den natürlichen Gang ausgeworfen?
+      spanish: ¿No comprendéis que lo que entra por la boca va al vientre y acaba en
+        el seceso?
+      peshitta: ܠܳܐ ܝܳܕ݂ܥܺܝܢ ܐܢ݈ܬ݁ܽܘܢ ܕ݁ܡܶܕ݁ܶܡ ܕ݁ܥܳܐܶܠ ܠܦ݂ܽܘܡܳܐ ܠܟ݂ܰܪܣܳܐ ܗܽܘ ܐܳܙܶܠ
+        ܘܡܶܢ ܬ݁ܰܡܳܢ ܒ݁ܬ݂ܰܕ݂ܟ݁ܺܝܬ݂ܳܐ ܡܶܫܬ݁ܕ݂ܶܐ ܠܒ݂ܰܪ܂
+      bel_syomukha: ці яшчэ не разумееце, што ўсё, што ўваходзіць у вусны, праходзіць
+        у чэрава і праз кішку выходзіць?
+      nrt: Неужели вы не понимаете, что все, что входит в человека через рот, проходит
+        через желудок, а потом выходит вон?
+      romana: Nu intelegeti ca tot ce intra in gura se duce in pantece si se arunca
+        afara?
+      francais: Ne comprenez-vous pas que tout ce qui entre dans la bouche va dans le
+        ventre, puis est jeté dans les lieux secrets?
+      italian: Non capite che tutto ciò che entra nella bocca, passa nel ventre e va a
+        finire nella fogna?
+      old_georgian: და არა გიცნობიეს, რამეთუ ყოველი, რომელი შევალს პირით, მუცლად
+        შევალს და განსავალით განვალს?
+      portuguese: Não compreendeis que tudo o que entra pela boca desce pelo ventre, e
+        é lançado fora?
+      polish: "Nie rozumiecie, że wszystko, co wchodzi do ust, do żołądka idzie i
+        wydala się\rna zewnątrz."
+      pobedonostsev: или не уразумели, что все, входящее в уста, во чрево проходит и
+        извергается вон?
+      new_text: Не понятно вам, что то, что входит в уста, идет в желудок, а оттуда
+        выбрасывается в отхожее место?
+      serbian: Зар још не знате да све што улази у уста иде у трбух, и избацује се
+        напоље?
+      bulgarian: Още ли не разбирате, че всичко, що влиза в устата, минава в корема и
+        се изхвърля навън?
+      Lutkovsky: "Разве не понимаете, что все, входящее в уста, \rпопадает в чрево и
+        извергается вон?"
+      bel_boc: "ці яшчэ не разумееце,\rшто ўсё, што ўваходзіць у вусны,\rпраходзіць у
+        чэрава і вывяргаецца прэч?"
+      ukr2: Хіба не розумієте, що все те, що до уст входить, іде до нутра й геть
+        виходить?
+      ukr3: Чи ще не зрозуміли, що те, що входить в уста, йде в живіт, і звергаєть ся
+        в одхідник;
+      czech: Nerozumite, ze to, co vchazi do ust, prijde do bricha a jde do hnoje?
+      st_text: еще ли не понимаете, что всё, входящее в уста, проходит в чрево и
+        извергается вон?
+  - id: 25247
+    number: 18
+    bookId: 51
+    text: а исходящее из уст - из сердца исходит - сие оскверняет человека,
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 15199
+        bookId: 56
+        bookCode: poslanie-ap-iakova
+        chapter: 3
+        short: Иак:3:6
+    translates:
+      kassian: Исходящее же из уст - из сердца исходит, и оно оскверняет человека.
+      podstr: Же выходящее из уст из сердца выходит, и то оскверняет человека.
+      csya: "исходящая же изо уст, от сердца исходят, и та сквернят человека:"
+      averincev: Но то, что исходит из уст, исходит из сердца, и это оно оскверняет
+        человека.
+      ungerov: ""
+      csya_old: "и3сход‰щаz же и3зо ќстъ, t се1рдца и3схо1дzтъ, и3 т† сквернsтъ
+        человёка:"
+      sovr_rbo: ""
+      latin: "Quae autem procedunt de ore, de corde exeunt, et ea coinquinant
+        hominem:"
+      ukr: Що ж виходить із уст, те походить із серця, і воно опоганює людину.
+      nkjv: But those things which proceed out of the mouth come from the heart, and
+        they defile a man.
+      desnitsky: ""
+      tex_rec: τὰ δὲ ἐκπορευόμενα ἐκ τοῦ στόματος ἐκ τῆς καρδίας ἐξέρχεται, κἀκεῖνα
+        κοινοῖ τὸν ἄνθρωπον.
+      deutsch: Was aber zum Munde herausgeht, das kommt aus dem Herzen, und das
+        verunreinigt den Menschen.
+      spanish: Pero lo que sale de la boca procede del corazón, y eso hace impuro al
+        hombre.
+      peshitta: ܡܶܕ݁ܶܡ ܕ݁ܶܝܢ ܕ݁ܡܶܢ ܦ݁ܽܘܡܳܐ ܢܳܦ݂ܶܩ ܡܶܢ ܠܶܒ݁ܳܐ ܢܳܦ݂ܶܩ ܘܗܽܘܝܽܘ ܡܣܰܝܶܒ݂
+        ܠܶܗ ܠܒ݂ܰܪܢܳܫܳܐ܂
+      bel_syomukha: а што выходзіць з вуснаў - з сэрца выходзіць; і гэта апаганьвае чалавека;
+      nrt: Но то, что исходит из уст, исходит из сердца, это и оскверняет человека.
+      romana: Iar cele ce ies din gura pornesc din inima si acelea spurca pe om.
+      francais: Mais ce qui sort de la bouche vient du coeur, et c'est ce qui souille
+        l'homme.
+      italian: Invece ciò che esce dalla bocca proviene dal cuore. Questo rende
+        immondo l'uomo.
+      old_georgian: ხოლო გამომავალი პირით გულისაგან გამოვალს და იგი შეაგინებს კაცსა.
+      portuguese: Mas o que sai da boca procede do coração; e é isso o que contamina o
+        homem.
+      polish: Lecz to, co z ust wychodzi, pochodzi z serca, i to czyni człowieka
+        nieczystym.
+      pobedonostsev: а исходящее из уст – от сердца исходит; то сквернит человека.
+      new_text: А нечистым делает человека то, что исходит из уст.
+      serbian: А што излази из уста, излази из срца, и оно погани човјека.
+      bulgarian: А онова, що излиза из устата, иде от сърцето; то именно осквернява
+        човека;
+      Lutkovsky: "А то, что выходит из уст, - из сердца исходит, \rи потому оскверняет
+        человека,"
+      bel_boc: "а што выходзіць з вуснаў — з сэрца выходзіць;\rі гэта апаганьвае
+        чалавека;"
+      ukr2: А те, що з уст виходить, те походить із серця і воно, власне, осквернює
+        людину;
+      ukr3: а те, що виходить із уст, береть ся з серця, і воно сквернить чоловіка.
+      czech: To vsak, co z ust vychazi, jde ze srdce, a to cloveka znesvecuje.
+      st_text: а исходящее из уст - из сердца исходит - сие оскверняет человека,
+  - id: 25248
+    number: 19
+    bookId: 51
+    text: ибо из сердца исходят злые помыслы, убийства, прелюбодеяния, любодеяния,
+      кражи, лжесвидетельства, хуления -
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 11099
+        bookId: 1
+        bookCode: bytie
+        chapter: 6
+        short: Быт:6:5
+      - verseId: 11161
+        bookId: 1
+        bookCode: bytie
+        chapter: 8
+        short: Быт:8:21
+      - verseId: 29810
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 23
+        short: Притч:23:26
+      - verseId: 26738
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 7
+        short: Мк:7:21
+    translates:
+      kassian: Ибо из сердца исходят злые мысли, убийства, прелюбодеяния, блудодеяния,
+        кражи, лжесвидетельства, хулы.
+      podstr: Из ведь сердца выходят рассуждения злые, убийства, прелюбодеяния, блуд,
+        кражи, лжесвидетельства, хулы.
+      csya: "от сердца бо исходят помышления злая, убийства, прелюбодеяния,
+        любодеяния, татьбы, лжесвидетельства, хулы:"
+      averincev: "Ибо из сердца исходят злые помыслы: убийства, прелюбодеяния,
+        разврат, воровство, лжесвидетельства, богохульства."
+      ungerov: ""
+      csya_old: "t се1рдца бо и3схо1дzтъ помышлє1ніz ѕл†z, ўб‡йства, прелюбодэ‰ніz,
+        любодэ‰ніz, татьбы6, лжесвидётєльства, хулы6:"
+      sovr_rbo: ""
+      latin: "de corde enim exeunt cogitationes malae, homicidia, adulteria,
+        fornicationes, furta, falsa testimonia, blasphemiae:"
+      ukr: Бо з серця виходять лихі думки, душогубства, перелюби, розпуста, крадіж,
+        неправдиві засвідчення, богозневаги.
+      nkjv: For out of the heart proceed evil thoughts, murders, adulteries,
+        fornications, thefts, false witness, blasphemies.
+      desnitsky: ""
+      tex_rec: ἐκ γὰρ τῆς καρδίας ἐξέρχονται διαλογισμοὶ πονηροί, φόνοι, μοιχεῖαι,
+        πορνεῖαι, κλοπαί, ψευδομαρτυρίαι, βλασφημίαι.
+      deutsch: "Denn aus dem Herzen kommen arge Gedanken: Mord, Ehebruch, Hurerei,
+        Dieberei, falsch Zeugnis, Lästerung."
+      spanish: Porque del corazón provienen los malos pensamientos, los homicidios,
+        los adulterios, las fornicaciones, los robos, los falsos testimonios,
+        las blasfemias.
+      peshitta: ܡܶܢ ܠܶܒ݁ܳܐ ܗܽܘ ܓ݁ܶܝܪ ܢܳܦ݂ܩܳܢ ܡܰܚܫܒ݂ܳܬ݂ܳܐ ܒ݁ܺܝܫܳܬ݂ܳܐ ܓ݁ܰܘܪܳܐ ܩܶܛܠܳܐ
+        ܙܳܢܝܽܘܬ݂ܳܐ ܓ݁ܰܢܳܒ݂ܽܘܬ݂ܳܐ ܣܳܗܕ݁ܽܘܬ݂ ܫܽܘܩܪܳܐ ܓ݁ܽܘܕ݁ܳܦ݂ܳܐ܂
+      bel_syomukha: "бо з сэрца выходзяць ліхія намыслы, забойствы, пералюбы,
+        распуста, крадзяжы, ілжывыя сьведчаньні, зьнявагі:"
+      nrt: Потому что из сердца исходят злые мысли, убийства, супружеская неверность,
+        разврат, воровство, лжесвидетельство, клевета.
+      romana: "Caci din inima ies: ganduri rele, ucideri, adultere, desfranari,
+        furtisaguri, marturii mincinoase, hule."
+      francais: Car c'est du coeur que viennent les mauvaises pensées, les meurtres,
+        les adultères, les impudicités, les vols, les faux témoignages, les
+        calomnies.
+      italian: Dal cuore, infatti, provengono i propositi malvagi, gli omicidi, gli
+        adultéri, le prostituzioni, i furti, le false testimonianze, le
+        bestemmie.
+      old_georgian: რამეთუ გულისაგან გამოვლენ გულის-სიტყუანი ბოროტნი, კაცის-კლვანი,
+        მრუშებანი, სიძვანი, პარვანი, ცილის-წამებანი, გმობანი.
+      portuguese: "Porque do coração procedem os maus pensamentos, homicídios,
+        adultérios, prostituição, furtos, falsos\rtestemunhos e blasfêmias."
+      polish: "Z serca bowiem pochodzą złe myśli, zabójstwa, cudzołóstwa, czyny
+        nierządne,\rkradzieże, fałszywe świadectwa, przekleństwa."
+      pobedonostsev: "От сердца исходят помышления злые, убийства, прелюбодеяния,
+        любодеяния, татьбы, лжесвидетельства, хулы:"
+      new_text: Ведь из сердца человеческого исходят злые помыслы, ведущие к
+        убийствам, супружеским изменам, разврату, воровству, лжесвидетельствам,
+        сквернословию.
+      serbian: Јер из срца излазе зле помисли, убиства, прељубе, блуд, крађе, лажна
+        свједочења, хуле.
+      bulgarian: "защото от сърцето излизат зли помисли, убийства, прелюбодеяния,
+        блудства, кражби, лъжесвидетелства, хули:"
+      Lutkovsky: "ибо из сердца исходят коварные помышления убийства, \rпрелюбодеяния,
+        похоти, воровства, лжесвидетельства, кощунства."
+      bel_boc: "бо з сэрца выходзяць ліхія помыслы,\rзабойствы, пралюбадзействы,
+        распуста,\rкрадзяжы, ілжывыя сведчанні, знявагі:"
+      ukr2: із серця бо походять лихі думки, убивства, перелюби, розпуста, крадежі,
+        лживе свідчення, богохульства.
+      ukr3: Бо з серця беруть ся ледачі думки, душогубства, перелюбки, блуд, крадїж,
+        криве сьвідкуваннє, хула.
+      czech: Nebot ze srdce vychazeji spatne myslenky, vrazdy, cizolozstvi, smilstvi,
+        loupeze, kriva svedectvi, urazky.
+      st_text: ибо из сердца исходят злые помыслы, убийства, прелюбодеяния,
+        любодеяния, кражи, лжесвидетельства, хуления -
+  - id: 25249
+    number: 20
+    bookId: 51
+    text: это оскверняет человека; а есть неумытыми руками - не оскверняет человека.
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 26740
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 7
+        short: Мк:7:23
+    translates:
+      kassian: Это оскверняет человека; а есть неумытыми руками не оскверняет человека.
+      podstr: Это есть оскверняющее человека, же немытыми руками съесть не оскверняет
+        человека.
+      csya: "сия суть сквернящая человека: а еже неумовенныма рукама ясти, не сквернит
+        человека."
+      averincev: Вот что оскверняет человека; а есть, не совершив омовения рук, не
+        оскверняет человека".
+      ungerov: ""
+      csya_old: "сі‰ сyть скверн‰щаz человёка: ґ є4же неумове1нныма рукaма ћсти, не
+        скверни1тъ человёка."
+      sovr_rbo: ""
+      latin: haec sunt, quae coinquinant hominem. Non lotis autem manibus manducare,
+        non coinquinat hominem.
+      ukr: Оце те, що людину опоганює. А їсти руками невмитими, не опоганює це людини!
+      nkjv: These are the things which defile a man, but to eat with unwashed hands
+        does not defile a man."
+      desnitsky: ""
+      tex_rec: ταῦτά ἐστιν τὰ κοινοῦντα τὸν ἄνθρωπον, τὸ δὲ ἀνίπτοις χερσὶν φαγεῖν οὐ
+        κοινοῖ τὸν ἄνθρωπον.
+      deutsch: Das sind Stücke, die den Menschen verunreinigen. Aber mit ungewaschenen
+        Händen essen verunreinigt den Menschen nicht.
+      spanish: Esto es lo que hace impuro al hombre; pero comer sin lavarse las manos,
+        eso no hace impuro al hombre.
+      peshitta: ܗܳܠܶܝܢ ܐܶܢܶܝܢ ܕ݁ܰܡܣܰܝܒ݂ܳܢ ܠܒ݂ܰܪܢܳܫܳܐ ܐܶܢ ܐ݈ܢܳܫ ܕ݁ܶܝܢ ܢܶܠܥܰܣ ܟ݁ܰܕ݂ ܠܳܐ
+        ܡܫܳܓ݂ܳܢ ܐܺܝܕ݂ܰܘܗ݈ܝ ܠܳܐ ܡܶܣܬ݁ܰܝܰܒ݂܂
+      bel_syomukha: гэта апаганьвае чалавека; а есьці няўмытымі рукамі - не апаганьвае
+        чалавека.
+      nrt: Именно это оскверняет человека, а не то, что он не омывает рук перед едой.
+      romana: Acestea sunt care spurca pe om, dar a manca cu maini nespalate nu spurca
+        pe om.
+      francais: Voilà les choses qui souillent l'homme; mais manger sans s'être lavé
+        les mains, cela ne souille point l'homme.
+      italian: Queste sono le cose che rendono immondo l'uomo, ma il mangiare senza
+        lavarsi le mani non rende immondo l'uomo".
+      old_georgian: ესენი არიან, რომელნი შეაგინებენ კაცსა, ხოლო უბანელითა ჴელითა ჭამაჲ
+        არა შეაგინებს კაცსა.
+      portuguese: São estas as coisas que contaminam o homem; mas o comer sem lavar as
+        mãos, isso não o contamina.
+      polish: "To właśnie czyni człowieka nieczystym. To zaś, że się je nie umytymi
+        rękami,\rnie czyni człowieka nieczystym”."
+      pobedonostsev: сие есть сквернящее человека; а есть неумовенными руками – не
+        сквернит человека.
+      new_text: Вот что делает человека нечистым. А есть неомытыми руками — это не
+        делает человека нечистым.
+      serbian: И ово је што погани човјека, а неумивеним рукама јести не погани човјека.
+      bulgarian: това осквернява човека. А яденето с неумити ръце не осквернява човека.
+      Lutkovsky: "Вот что оскверняет человека; \rеда же с неомытыми руками не
+        оскверняет человека."
+      bel_boc: "гэта апаганьвае чалавека;\rа есці няўмытымі рукамі — не апаганьвае
+        чалавека."
+      ukr2: Це осквернює людину, а їсти немитими руками не сквернить людину.”
+      ukr3: Оце, що сквернить чоловіка; а їсти, непомивши рук, се не сквернить
+        чоловіка.
+      czech: To jsou veci, ktere cloveka znesvecuji; ale jist neomytyma rukama cloveka
+        neznesvecuje.“
+      st_text: это оскверняет человека; а есть неумытыми руками - не оскверняет
+        человека.
+  - id: 25250
+    number: 21
+    bookId: 51
+    text: И, выйдя оттуда, Иисус удалился в страны Тирские и Сидонские.
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 26741
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 7
+        short: Мк:7:24
+    translates:
+      kassian: И выйдя оттуда, Иисус удалился в пределы Тирские и Сидонские.
+      podstr: И вышедший оттуда Иисус удалился в пределы Тира и Сидона.
+      csya: И изшед оттуду Иисус, отъиде во страны тирския и сидонския.
+      averincev: И уйдя оттуда, Иисус удалился в пределы Тира и Сидона.
+      ungerov: ""
+      csya_old: И# и3зше1дъ tтyду ї}съ, tи1де во страны6 тv6рскіz и3 сідw6нскіz.
+      sovr_rbo: ""
+      latin: Et egressus inde Jesus secessit in partes Tyri et Sidonis.
+      ukr: І, вийшовши звідти, Ісус відійшов у землі тирські й сидонські.
+      nkjv: Then Jesus went out from there and departed to the region of Tyre and
+        Sidon.
+      desnitsky: ""
+      tex_rec: Καὶ ἐξελθὼν ἐκεῖθεν ὁ ᾽Ιησοῦς ἀνεχώρησεν εἰς τὰ μέρη Τύρου καὶ Σιδῶνος.
+      deutsch: Und Jesus ging aus von dannen und entwich in die Gegend von Tyrus und
+        Sidon.
+      spanish: Saliendo de allí Jesús, se retiró a los términos de Tiro y de Sidón.
+      peshitta: ܘܰܢܦ݂ܰܩ ܡܶܢ ܬ݁ܰܡܳܢ ܝܶܫܽܘܥ ܘܶܐܬ݂ܳܐ ܠܰܬ݂ܚܽܘܡܳܐ ܕ݁ܨܽܘܪ ܘܰܕ݂ܨܰܝܕ݁ܳܢ܂
+      bel_syomukha: І выйшаўшы адтуль, адышоў Ісус у межы Тырскія і Сідонскія.
+      nrt: Покинув это место, Иисус отправился в окрестности Тира и Сидона.
+      romana: Si iesind de acolo, a plecat Iisus in partile Tirului si ale Sidonului.
+      francais: Jésus, étant parti de là, se retira dans le territoire de Tyr et de
+        Sidon.
+      italian: Partito di là, Gesù si diresse verso le parti di Tiro e Sidone.
+      old_georgian: და წარვიდა მიერ იესუ და მივიდა ადგილთა ტჳროსისა და სიდონისათა.
+      portuguese: Ora, partindo Jesus dali, retirou-se para as regiões de Tiro e Sidom.
+      polish: Potem Jezus odszedł stamtąd i podążył w stronę Tyru i Sydonu.
+      pobedonostsev: И исшед оттуда, Иисус отшел во страны Тирские и Сидонские.
+      new_text: Оттуда Иисус направился в земли Тира и Сидона.
+      serbian: И изишавши оданде Исус отиде у крајеве тирске и сидонске.
+      bulgarian: И като излезе оттам, Иисус замина за страните Тирска и Сидонска.
+      Lutkovsky: Уйдя оттуда, Иисус удалился в пределы Тира и Сидона.
+      bel_boc: І выйшаўшы адтуль, адышоў Іісус у межы Тырскія і Сідонскія.
+      ukr2: Ісус вийшов звідти й пішов в околиці тирську та сидонську.
+      ukr3: Вийшов тодї Ісус ізвідтіля, і перейшов у Тирські та в Сидонські сторони.
+      czech: Jezis odtud odesel az do okoli Tyru a Sidonu.
+      st_text: И, выйдя оттуда, Иисус удалился в страны Тирские и Сидонские.
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 25251
+    number: 22
+    bookId: 51
+    text: "И вот, женщина Хананеянка, выйдя из тех мест, кричала Ему: помилуй меня,
+      Господи, сын Давидов, дочь моя жестоко беснуется."
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 26742
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 7
+        short: Мк:7:25
+      - verseId: 26743
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 7
+        short: Мк:7:26
+    translates:
+      kassian: "И вот, женщина Хананеянка, из той области, вышла и начала кричать:
+        помилуй меня, Господи, Сын Давидов! Дочь мою жестоко мучит бес."
+      podstr: И вот женщина Хананеянка из пределов тех вышедшая кричала говорящая,
+        Помилуй меня, Господи, Сын Давида; дочь моя плохо беснуется.
+      csya: "И се, жена хананейска, от предел тех изшедши, возопи к нему глаголющи:
+        помилуй мя, Господи, Сыне давидов, дщи моя зле беснуется."
+      averincev: 'И вот некая хананеянка, жительница тех мест, возопила: "Смилуйся
+        надо мной, Господи, Сын Давида! Моя дочь тяжко одержима бесом!"'
+      ungerov: ""
+      csya_old: "И# се2, женA ханане1йска, t предBлъ тёхъ и3зше1дши, возопи2 къ немY
+        глаго1лющи: поми1луй мS, гDи, сн7е дв7довъ, дщи2 моS ѕлЁ бэснyетсz."
+      sovr_rbo: ""
+      latin: "Et ecce mulier chananaea a finibus illis egressa clamavit, dicens ei:
+        Miserere mei, Domine fili David: filia mea male a daemonio vexatur."
+      ukr: "І ось жінка одна хананеянка, із тих околиць прийшовши, заголосила до Нього
+        й сказала: Змилуйся надо мною, Господи, Сину Давидів, демон тяжко дочку
+        мою мучить!"
+      nkjv: And behold, a woman of Canaan came from that region and cried out to Him,
+        saying, "Have mercy on me, O Lord, Son of David! My daughter is severely
+        demon-possessed."
+      desnitsky: ""
+      tex_rec: καὶ ἰδοὺ γυνὴ Χαναναία ἀπὸ τῶν ὁρίων ἐκείνων ἐξελθοῦσα ἔκραζεν λέγουσα,
+        ᾽Ελέησόν με, κύριε, υἱὸς Δαυίδ· ἡ θυγάτηρ μου κακῶς δαιμονίζεται.
+      deutsch: "Und siehe, ein kanaanäisches Weib kam aus derselben Gegend und schrie
+        ihm nach und sprach: Ach Herr, du Sohn Davids, erbarme dich mein! Meine
+        Tochter wird vom Teufel übel geplagt."
+      spanish: "Una mujer cananea de aquellos lugares comenzó a gritar, diciendo: Ten
+        piedad de mí, Señor, Hijo de David; mi hija es malamente atormentada del
+        demonio."
+      peshitta: ܘܗܳܐ ܐܰܢ݈ܬ݁ܬ݂ܳܐ ܟ݁ܢܰܥܢܳܝܬ݁ܳܐ ܡܶܢ ܬ݁ܚܽܘܡܶܐ ܗܳܢܽܘܢ ܢܶܦ݂ܩܰܬ݂ ܟ݁ܰܕ݂ ܩܳܥܝܳܐ
+        ܘܳܐܡܪܳܐ ܐܶܬ݂ܪܰܚܰܡ ܥܠܰܝ ܡܳܪܝ ܒ݁ܪܶܗ ܕ݁ܕ݂ܰܘܺܝܕ݂ ܒ݁ܪܰܬ݂ܝ ܒ݁ܺܝܫܳܐܝܺܬ݂
+        ܡܶܬ݁ܕ݁ܰܒ݂ܪܳܐ ܡܶܢ ܫܺܐܕ݂ܳܐ܂
+      bel_syomukha: "І вось, жанчына Хананэянка, выйшаўшы з тых мясьцін, закрычала
+        Яму: памілуй мяне, Госпадзе, Сыне Давідаў, дачку маю цяжка мучыць
+        дэман."
+      nrt: "Там к Нему с плачем подошла местная женщина-хананеянка и стала кричать: –
+        Господи, Сын Давидов, сжалься надо мной! Моя дочь одержима демоном и
+        ужасно мучается!"
+      romana: "Si iata o femeie cananeianca, din acele tinuturi, iesind striga,
+        zicand: Miluieste-ma, Doamne, Fiul lui David! Fiica mea este rau
+        chinuita de demon."
+      francais: "Et voici, une femme cananéenne, qui venait de ces contrées, lui cria:
+        Aie pitié de moi, Seigneur, Fils de David! Ma fille est cruellement
+        tourmentée par le démon."
+      italian: 'Ed ecco una donna Cananèa, che veniva da quelle regioni, si mise a
+        gridare: "Pietà di me, Signore, figlio di Davide. Mia figlia è
+        crudelmente tormentata da un demonio".'
+      old_georgian: "და აჰა ესერა დედაკაცი ქანანელი საზღვართა მათგან გამოვიდა,
+        ღაღადებდა და იტყოდა: შემიწყალე მე, უფალო, ძეო დავითისო, რამეთუ ასული
+        ჩემი ბოროტად ეშმაკეულ არს."
+      portuguese: "E eis que uma mulher cananéia, provinda daquelas cercania, clamava,
+        dizendo: Senhor, Filho de Davi, tem\r
+
+        compaixão de mim, que minha filha está horrivelmente
+        endemoninhada."
+      polish: "A oto kobieta kananejska, wyszedłszy z tamtych okolic, wołała: ”Ulituj
+        się\r
+
+        nade mną, Panie, Synu Dawida! Moja córka jest ciężko dręczona
+        przez złego\r
+
+        ducha”."
+      pobedonostsev: "И се, жена Хананеянка, вышед из тех мест, вопияла к Нему:
+        помилуй меня, Господи, сын Давидов! дочь моя люто беснуется."
+      new_text: Пришла к Нему одна хананеянка, жительница тех мест. — Господь, Сын
+        Давида! — закричала она. — Сжалься надо мной. Моя дочь одержима бесом и
+        страшно мучится.
+      serbian: "И гле, жена Хананејка изиђе из оних крајева и повика му говорећи:
+        Помилуј ме, Господе, сине Давидов, кћер моју много мучи ђаво!"
+      bulgarian: "И ето, една жена хананейка, като излезе от ония предели, викаше към
+        Него и казваше: помилуй ме, Господи, Сине Давидов! Дъщеря ми зле се мъчи
+        от бяс."
+      Lutkovsky: "И вот навстречу Ему из тех мест вышла женщина, хананеянка, \r
+
+        и стала кричать: помилуй меня, Господи, Сын Давида! \r
+
+        Дочь моя одержима бесом и тяжко страдает!"
+      bel_boc: "І вось, жанчына Хананеянка, выйшаўшы з тых мясцін, закрычала Яму:\r
+
+        памілуй мяне, Госпадзе, Сыне Давідаў,\r
+
+        дачку маю цяжка мучыць дэман."
+      ukr2: "Коли це жінка ханаанянка вийшла з цих околиць і почала кричати: “Змилуйся
+        надо мною, Господи, Сину Давида! Біс мучить мою дочку страшенно.”"
+      ukr3: "Коли се жінка Канаанка прийшла з тих гряниць, і кричала до Него, кажучи:
+        Помилуй мене, Господи, сину Давидів; дочка моя тяжко біснуєть ся."
+      czech: "A hle, jedna kananejska zena z tech koncin vysla a volala: „Smiluj se
+        nade mnou, Pane, Synu Daviduv! Ma dcera je zle posedla.“"
+      st_text: "И вот, женщина Хананеянка, выйдя из тех мест, кричала Ему: помилуй
+        меня, Господи, сын Давидов, дочь моя жестоко беснуется."
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 25252
+    number: 23
+    bookId: 51
+    text: "Но Он не отвечал ей ни слова. И ученики Его, приступив, просили Его:
+      отпусти ее, потому что кричит за нами."
+    chapter: 15
+    chapterId: 1127
+    parallels: []
+    translates:
+      kassian: "Он же не ответил ей ни слова. И подойдя, ученики Его просили Его:
+        отпусти ее, потому что она кричит нам вслед."
+      podstr: Он же не ответил ей [ни] слова. И подошедшие ученики Его просили Его
+        говорящие, Отпусти её, потому что кричит сзади нас.
+      csya: "Он же не отвеща ей словесе. И приступльше ученицы его, моляху его,
+        глаголюще: отпусти ю, яко вопиет вслед нас."
+      averincev: 'Он же не ответил ей ни единого слова. И ученики Его, приблизясь,
+        стали просить Его: "Отпусти ее, а то она идет за нами и вопит".'
+      ungerov: ""
+      csya_old: "Џнъ же не tвэщA є4й словесе2. И# пристyпльше ўчн7цы2 є3гw2, молsху
+        є3го2, глаго1люще: tпусти2 ю5, ћкw вопіе1тъ в8слёдъ нaсъ."
+      sovr_rbo: ""
+      latin: "Qui non respondit ei verbum. Et accedentes discipuli ejus rogabant eum
+        dicentes: Dimitte eam: quia clamat post nos."
+      ukr: "А Він їй не казав ані слова. Тоді учні Його, підійшовши, благали Його та
+        казали: Відпусти її, бо кричить услід за нами!"
+      nkjv: But He answered her not a word. And His disciples came and urged Him,
+        saying, "Send her away, for she cries out after us."
+      desnitsky: ""
+      tex_rec: ὁ δὲ οὐκ ἀπεκρίθη αὐτῇ λόγον. καὶ προσελθόντες οἱ μαθηταὶ αὐτοῦ ἠρώτουν
+        αὐτὸν λέγοντες, ᾽Απόλυσον αὐτήν, ὅτι κράζει ὄπισθεν ἡμῶν.
+      deutsch: "Und er antwortete ihr kein Wort. Da traten zu ihm seine Jünger, baten
+        ihn und sprachen: Laß sie doch von dir, denn sie schreit uns nach."
+      spanish: "Pero El no le contestaba palabra. Los discípulos se le acercaron y le
+        rogaron, diciendo: Despídela, pues viene gritando detrás de nosotros."
+      peshitta: ܗܽܘ ܕ݁ܶܝܢ ܠܳܐ ܦ݁ܰܢܝܳܗ ܦ݁ܶܬ݂ܓ݂ܳܡܳܐ ܘܰܩܪܶܒ݂ܘ ܬ݁ܰܠܡܺܝܕ݂ܰܘܗ݈ܝ ܒ݁ܥܰܘ ܡܶܢܶܗ
+        ܘܳܐܡܪܺܝܢ ܫܪܺܝܗ ܕ݁ܩܳܥܝܳܐ ܒ݁ܳܬ݂ܪܰܢ܂
+      bel_syomukha: "Але Ён не адказаў ёй ні слова. І вучні Ягоныя, прыступіўшы,
+        прасілі Яго, кажучы: адпусьці яе, бо крычыць за намі."
+      nrt: "Иисус не отвечал ей ни слова. Тогда Его ученики стали просить: – Отошли
+        ее, а то она идет за нами и кричит."
+      romana: "El insa nu i-a raspuns nici un cuvant; si apropiindu-se, ucenicii Lui
+        Il rugau, zicand: Slobozeste-o, ca striga in urma noastra."
+      francais: "Il ne lui répondit pas un mot, et ses disciples s'approchèrent, et
+        lui dirent avec insistance: Renvoie-la, car elle crie derrière nous."
+      italian: 'Ma egli non le rivolse neppure una parola. Allora i discepoli gli si
+        accostarono implorando: "Esaudiscila, vedi come ci grida dietro".'
+      old_georgian: "ხოლო იესუ არა მიუგო მას სიტყუაჲ. და მოუჴდეს მოწაფენი იესუს და
+        ჰრქუეს მას: განუტევე ესე, რომელი ღაღადებს და შეგჳდგს ჩუენ."
+      portuguese: "Contudo ele não lhe respondeu palavra. Chegando-se, pois, a ele os
+        seus discípulos, rogavam-lhe, dizendo:\rDespede-a, porque vem clamando
+        atrás de nós."
+      polish: "Lecz On nie odezwał się do niej ani słowem. Na to podeszli Jego
+        uczniowie i\rprosili Go: ”Odpraw ją, bo krzyczy za nami!”"
+      pobedonostsev: "Он же не отвечал ей ни слова. И приступив ученики Его молили
+        Его: отпусти ее; так вопиет она вслед нам."
+      new_text: "Но Он ни словом ей не ответил. Ученики, подойдя к Нему, стали Его
+        просить: — Скажи ей, пусть уйдет! А то идет за нами и кричит."
+      serbian: "А он јој не одговори ни ријечи. И приступивши ученици његови мољаху га
+        говорећи: Отпусти је, јер виче за нама."
+      bulgarian: "Но Той не й отвърна ни дума. И учениците Му се приближиха до Него,
+        молеха Го и казваха: отпрати я, защото вика подире ни."
+      Lutkovsky: "Но Он не отвечал ей ни слова. \rТогда ученики Его подошли к Нему и
+        сказали: \rисполни просьбу ее, чтобы она не кричала нам вслед."
+      bel_boc: "Але Ён не адказаў ёй ні слова.\rІ вучні Яго, прыступіўшы, прасілі
+        Яго,\rкажучы: адпусці яе, бо крычыць за намі."
+      ukr2: "Він же не озвався до неї і словом. Тут приступили його учні й почали його
+        просити: “Відпусти її, бо вона кричить за нами.”"
+      ukr3: "Він же не відказав їй нї слова. І, приступивши ученики Його, благали
+        Його, кажучи: Відпусти її, бо кричить за нами."
+      czech: "Ale on ji neodpovedel ani slovo. Jeho ucednici pristoupili a zadali ho:
+        „Zbav se ji, vzdyt za nami krici!“"
+      st_text: "Но Он не отвечал ей ни слова. И ученики Его, приступив, просили Его:
+        отпусти ее, потому что кричит за нами."
+  - id: 25253
+    number: 24
+    bookId: 51
+    text: "Он же сказал в ответ: Я послан только к погибшим овцам дома Израилева."
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 20032
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 11
+        short: Ис:11:12
+      - verseId: 21011
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 58
+        short: Ис:58:6
+      - verseId: 16362
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 50
+        short: Иер:50:6
+      - verseId: 17362
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 34
+        short: Иез:34:5
+      - verseId: 17363
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 34
+        short: Иез:34:6
+      - verseId: 17373
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 34
+        short: Иез:34:16
+      - verseId: 36933
+        bookId: 45
+        bookCode: kniga-proroka-zaharii
+        chapter: 11
+        short: Зах:11:4
+      - verseId: 25019
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 10
+        short: Мф:10:6
+      - verseId: 17896
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 1
+        short: Ин:1:11
+    translates:
+      kassian: "Но Он ответил: Я послан только к погибшим овцам дома Израилева."
+      podstr: Он же ответивший сказал, Не послан если не к овцам пропавшим дома
+        Израильского.
+      csya: "Он же отвещав рече: несмь послан, токмо ко овцам погибшым дому
+        израилева."
+      averincev: 'А Он сказал им в ответ: "Я не послан ни к кому, кроме как к
+        потерянным овцам Дома Израилева".'
+      ungerov: ""
+      csya_old: "Џнъ же tвэщaвъ рече2: нёсмь по1сланъ, то1кмw ко nвцaмъ поги1бшымъ
+        до1му ї}лева."
+      sovr_rbo: ""
+      latin: "Ipse autem respondens ait: Non sum missus nisi ad oves, quae perierunt
+        domus Israel."
+      ukr: "А Він відповів і сказав: Я посланий тільки до овечок загинулих дому
+        Ізраїлевого..."
+      nkjv: But He answered and said, "I was not sent except to the lost sheep of the
+        house of Israel."
+      desnitsky: ""
+      tex_rec: ὁ δὲ ἀποκριθεὶς εἶπεν, Οὐκ ἀπεστάλην εἰ μὴ εἰς τὰ πρόβατα τὰ ἀπολωλότα
+        οἴκου ᾽Ισραήλ.
+      deutsch: "Er antwortete aber und sprach: Ich bin nicht gesandt denn nur zu den
+        verlorenen Schafen von dem Hause Israel."
+      spanish: "El respondió y dijo: No he sido enviado sino a las ovejas perdidas de
+        la casa de Israel."
+      peshitta: ܗܽܘ ܕ݁ܶܝܢ ܥܢܳܐ ܘܶܐܡܰܪ ܠܗܽܘܢ ܠܳܐ ܐܶܫܬ݁ܰܕ݁ܪܶܬ݂ ܐܶܠܳܐ ܠܘܳܬ݂ ܥܶܪܒ݁ܶܐ
+        ܕ݁ܰܛܥܰܘ ܡܶܢ ܒ݁ܶܝܬ݂ ܐܺܝܣܪܳܝܶܠ܂
+      bel_syomukha: "А Ён сказаў у адказ: Я пасланы толькі да пагіблых авечак дому
+        Ізраілевага."
+      nrt: "Иисус сказал женщине: – Я послан только к заблудшим овцам Израиля."
+      romana: "Iar El, raspunzand, a zis: Nu sunt trimis decat catre oile cele
+        pierdute ale casei lui Israel."
+      francais: "Il répondit: Je n'ai été envoyé qu'aux brebis perdues de la maison
+        d'Israël."
+      italian: 'Ma egli rispose: "Non sono stato inviato che alle pecore perdute della
+        casa di Israele".'
+      old_georgian: "ჰრქუა მათ იესუ: არა ვიდრე მოვლინებულ ვარ, გარნა ცხოვართა მათ
+        წარწყმედულთა სახლისა ისრაჱლისათა."
+      portuguese: "Respondeu-lhes ele: Não fui enviado senão às ovelhas perdidas da
+        casa de Israel."
+      polish: "Lecz On odpowiedział: ”Jestem posłany tylko do owiec, które poginęły z
+        domu Izraela”."
+      pobedonostsev: "Он же сказал в ответ: послан Я токмо к овцам погибшим дома Израилева."
+      new_text: — Я был послан только к потерянным овцам народа Израиля, — сказал Иисус.
+      serbian: "А он одговарајући рече: Ја сам послан само изгубљеним овцама дома
+        Израиљева."
+      bulgarian: "А Той отговори и рече: Аз съм пратен само при загубените овци от
+        дома Израилев."
+      Lutkovsky: "Он же сказал в ответ: \rЯ послан только к погибающим овцам рода
+        Израильского."
+      bel_boc: "А Ён сказаў у адказ:\rЯ пасланы толькі да пагіблых авечак дому
+        Ізраілевага."
+      ukr2: "А він у відповідь промовив: “Я посланий лише до загиблих овець дому
+        Ізраїля.”"
+      ukr3: "Він же, озвавшись, рече: Послано мене тільки до загублених овечок дому
+        Ізраїлевого."
+      czech: "On odpovedel: „Jsem poslan jen ke ztracenym ovcim z lidu izraelskeho.“"
+      st_text: "Он же сказал в ответ: Я послан только к погибшим овцам дома Израилева."
+  - id: 25254
+    number: 25
+    bookId: 51
+    text: "А она, подойдя, кланялась Ему и говорила: Господи! помоги мне."
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 26742
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 7
+        short: Мк:7:25
+      - verseId: 26743
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 7
+        short: Мк:7:26
+    translates:
+      kassian: "Она же, подойдя, кланялась Ему и говорила: Господи, помоги мне."
+      podstr: Она же пришедшая простиралась ниц [перед] ним говорящая, Господи, помоги
+        мне.
+      csya: "Она же пришедши поклонися ему, глаголющи: Господи, помози ми."
+      averincev: 'Но она, подойдя, кланялась Ему в ноги и говорила: "Господи! Помоги
+        мне".'
+      ungerov: ""
+      csya_old: "Nнa же прише1дши поклони1сz є3мY, глаго1лющи: гDи, помози1 ми."
+      sovr_rbo: ""
+      latin: "At illa venit, et adoravit eum, dicens: Domine, adjuva me."
+      ukr: "А вона, підійшовши, уклонилась Йому та й сказала: Господи, допоможи мені!"
+      nkjv: Then she came and worshiped Him, saying, "Lord, help me!"
+      desnitsky: ""
+      tex_rec: ἡ δὲ ἐλθοῦσα προσεκύνει αὐτῷ λέγουσα, Κύριε, βοήθει μοι.
+      deutsch: "Sie kam aber und fiel vor ihm nieder und sprach: Herr, hilf mir!"
+      spanish: "Mas ella, acercándose, se postró ante El, diciendo: ¡Señor, socórreme!"
+      peshitta: ܗܺܝ ܕ݁ܶܝܢ ܐܶܬ݂ܳܬ݂ ܣܶܓ݂ܕ݁ܰܬ݂ ܠܶܗ ܘܶܐܡܪܰܬ݂ ܡܳܪܝ ܥܰܕ݁ܰܪܰܝܢܝ܂
+      bel_syomukha: "А яна, падышоўшы, кланялася Яму, кажучы: Госпадзе! памажы мне."
+      nrt: "Женщина подошла и поклонилась Ему: – Господи, помоги мне!"
+      romana: "Iar ea, venind, s-a inchinat Lui, zicand: Doamne, ajuta-ma."
+      francais: "Mais elle vint se prosterner devant lui, disant: Seigneur, secoursmoi!"
+      italian: 'Ma quella venne e si prostrò dinanzi a lui dicendo: "Signore,
+        aiutami!".'
+      old_georgian: "ხოლო იგი მოუჴდა და თაყუანის-სცემდა მას და ეტყოდა: უფალო, შემიწყალე მე!"
+      portuguese: "Então veio ela e, adorando-o, disse: Senhor, socorre-me."
+      polish: "A ona przyszła, upadła przed Nim i prosiła: ”Panie, dopomóż mi!”"
+      pobedonostsev: "Она же, подошед, кланялась Ему и говорила: Господи! помоги мне."
+      new_text: "Но женщина, приблизившись, упала перед Ним ниц и сказала: — Господин
+        мой, помоги мне!"
+      serbian: "А она приступивши поклони му се говорећи: Господе, помози ми!"
+      bulgarian: "Но тя, като се приближи, кланяше Му се и думаше: Господи, помогни ми!"
+      Lutkovsky: "Тут она подошла \rи, поклонившись Ему, сказала: Господи, помоги мне."
+      bel_boc: "А яна, падышоўшы, кланялася Яму, кажучы:\rГоспадзе! памажы мне."
+      ukr2: "Та ж підійшла і, вклонившись йому в ноги, каже: “Господи, допоможи
+        мені!”"
+      ukr3: "Вона ж, приступивши, поклонилась Йому, кажучи: Господи, поможи менї."
+      czech: "Ale ona pristoupila, klanela se mu a rekla: „Pane, pomoz mi!“"
+      st_text: "А она, подойдя, кланялась Ему и говорила: Господи! помоги мне."
+  - id: 25255
+    number: 26
+    bookId: 51
+    text: "Он же сказал в ответ: нехорошо взять хлеб у детей и бросить псам."
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 26744
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 7
+        short: Мк:7:27
+    translates:
+      kassian: "А Он ответил: нехорошо взять хлеб у детей и бросить собакам."
+      podstr: Он же ответивший сказал, Не есть хорошо взять хлеб детей и бросить
+        щенкам.
+      csya: "Он же отвещав рече: несть добро отъяти хлеба чадом и поврещи псом."
+      averincev: 'Он же сказал в ответ: "Не хорошо отнять хлеб у детей и кинуть его
+        щенятам".'
+      ungerov: ""
+      csya_old: "Џнъ же tвэщaвъ рече2: нёсть добро2 tsти хлёба чaдwмъ и3 поврещи2 псHмъ."
+      sovr_rbo: ""
+      latin: "Qui respondens ait: Non est bonum sumere panem filiorum, et mittere
+        canibus."
+      ukr: "А Він відповів і сказав: Не годиться взяти хліб у дітей, і кинути
+        щенятам..."
+      nkjv: "But He answered and said, \"It is not good to take the children's bread
+        and throw it to the little dogs.\" "
+      desnitsky: ""
+      tex_rec: ὁ δὲ ἀποκριθεὶς εἶπεν, Οὐκ ἔστιν καλὸν λαβεῖν τὸν ἄρτον τῶν τέκνων καὶ
+        βαλεῖν τοῖς κυναρίοις.
+      deutsch: "Aber er antwortete und sprach: Es ist nicht fein, daß man den Kindern
+        ihr Brot nehme und werfe es vor die Hunde."
+      spanish: "Contestó El y dijo: No es bueno tomar el pan de los hijos y arrojarlo
+        a los perrillos."
+      peshitta: ܐܶܡܰܪ ܠܳܗ ܠܳܐ ܫܰܦ݁ܺܝܪ ܠܡܶܣܰܒ݂ ܠܰܚܡܳܐ ܕ݁ܰܒ݂ܢܰܝܳܐ ܘܰܠܡܰܪܡܳܝܽܘ ܠܟ݂ܰܠܒ݁ܶܐ܂
+      bel_syomukha: "А Ён сказаў у адказ: нядобра - узяць хлеб у дзяцей і кінуць шчанятам."
+      nrt: "Иисус ответил: – Нехорошо будет забрать хлеб у детей и бросить собачкам."
+      romana: "El insa, raspunzand, i-a zis: Nu este bine sa iei painea copiilor si
+        s-o arunci cainilor."
+      francais: "Il répondit: Il n'est pas bien de prendre le pain des enfants, et de
+        le jeter aux petits chiens."
+      italian: 'Ed egli rispose: "Non è bene prendere il pane dei figli per gettarlo
+        ai cagnolini".'
+      old_georgian: "ხოლო თავადმან მიუგო და ჰრქუა მას: არა კეთილ არს მოღებად პური
+        შვილთაგან და დაგებად ძაღლთა."
+      portuguese: "Ele, porém, respondeu: Não é bom tomar o pão dos filhos e lançá-lo
+        aos cachorrinhos."
+      polish: "On jednak odparł: ”Niedobrze jest zabrać chleb dzieciom a rzucić psom”."
+      pobedonostsev: "Он же сказал в ответ: не добро отнять хлеб у детей и повергнуть псам."
+      new_text: — Нехорошо отнять хлеб у детей и бросить собакам, — сказал Он.
+      serbian: "А он одговарајући рече: Није добро узети хљеб од дјеце и бацити псима."
+      bulgarian: "А Той отговори и рече: не е добре да се вземе хлябът от чедата и да
+        се хвърли на псетата."
+      Lutkovsky: "Он же сказал в ответ: \rнехорошо отнимать хлеб у детей и бросать псам."
+      bel_boc: "А Ён сказаў у адказ:\rнядобра - узяць хлеб ад дзяцей і кінуць шчанятам."
+      ukr2: "Він відповів їй: “Не личить брати хліб у дітей і кидати щенятам.”"
+      ukr3: "Він же, озвавшись, рече: Не годить ся взяти в дїтей хлїб, і кинути
+        собакам."
+      czech: "On ji odpovedel: „Neslusi se vzit chleb detem a hodit jej psum.“"
+      st_text: "Он же сказал в ответ: нехорошо взять хлеб у детей и бросить псам."
+  - id: 25256
+    number: 27
+    bookId: 51
+    text: "Она сказала: так, Господи! но и псы едят крохи, которые падают со стола
+      господ их."
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 26745
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 7
+        short: Мк:7:28
+    translates:
+      kassian: "Она же сказала: да, Господи, ведь и собаки едят от крошек, падающих со
+        стола господ их."
+      podstr: Она же сказал, Да, Господи, и ведь щенки едят от крошек падающих со
+        стола господ их.
+      csya: "Она же рече: ей, Господи: ибо и пси ядят от крупиц падающих от трапезы
+        господей своих."
+      averincev: 'А она сказала: "Да, Господи! Но ведь и щенята едят крохи, что падают
+        со стола хозяев их".'
+      ungerov: ""
+      csya_old: "Nнa же рече2: є4й, гDи: и4бо и3 пси2 kдsтъ t крупи1цъ пaдающихъ t
+        трапе1зы господе1й свои1хъ."
+      sovr_rbo: ""
+      latin: "At illa dixit: Etiam Domine: nam et catelli edunt de micis quae cadunt
+        de mensa dominorum suorum."
+      ukr: "Вона ж відказала: Так, Господи! Але ж і щенята їдять ті кришки, що
+        спадають зо столу їхніх панів."
+      nkjv: "And she said, \"Yes, Lord, yet even the little dogs eat the crumbs which
+        fall from their masters' table.\" "
+      desnitsky: ""
+      tex_rec: ἡ δὲ εἶπεν, Ναί, κύριε, καὶ γὰρ τὰ κυνάρια ἐσθίει ἀπὸ τῶν ψιχίων τῶν
+        πιπτόντων ἀπὸ τῆς τραπέζης τῶν κυρίων αὐτῶν.
+      deutsch: "Sie sprach: Ja, Herr; aber doch essen die Hündlein von den Brosamlein,
+        die von ihrer Herren Tisch fallen."
+      spanish: "Mas ella dijo: Cierto, Señor; pero también los perrillos comen de las
+        migajas que caen de la mesa de sus señores."
+      peshitta: ܗܺܝ ܕ݁ܶܝܢ ܐܶܡܪܰܬ݂ ܐܺܝܢ ܡܳܪܝ ܐܳܦ݂ ܟ݁ܰܠܒ݁ܶܐ ܐܳܟ݂ܠܺܝܢ ܡܶܢ ܦ݁ܰܪܬ݁ܽܘܬ݂ܶܐ
+        ܕ݁ܢܳܦ݂ܠܺܝܢ ܡܶܢ ܦ݁ܳܬ݂ܽܘܪܶܐ ܕ݁ܡܳܪܰܝܗܽܘܢ ܘܚܳܐܶܝܢ܂
+      bel_syomukha: "Яна ж сказала: так, Госпадзе! але і шчаняты ядуць крошкі, якія
+        падаюць са стала гаспадароў іхніх."
+      nrt: – Да, Господи, – ответила женщина, – но ведь и собачки едят крошки, которые
+        падают со стола хозяев.
+      romana: "Dar ea a zis: Da, Doamne, dar si cainii mananca din faramiturile care
+        cad de la masa stapanilor lor."
+      francais: Oui, Seigneur, dit-elle, mais les petits chiens mangent les miettes
+        qui tombent de la table de leurs maîtres.
+      italian: '"È vero, Signore, disse la donna, ma anche i cagnolini si cibano delle
+        briciole che cadono dalla tavola dei loro padroni".'
+      old_georgian: "ხოლო მან ჰრქუა: ჰე, უფალო, რამეთუ ძაღლნიცა ჭამედ ნაბიჭევისაგან,
+        რომელ გარდამოცჳვინ ტაბლისაგან უფალთა მათთაჲსა."
+      portuguese: "Ao que ela disse: Sim, Senhor, mas até os cachorrinhos comem das
+        migalhas que caem da mesa dos seus\rdonos."
+      polish: "A ona odrzekła: ”Tak, Panie, lecz i szczenięta jedzą z okruszyn, które
+        spadają\rze stołów ich panów”."
+      pobedonostsev: "Она же сказала: так, Господи! ведь и псы едят от крупиц,
+        падающих от трапезы господ своих."
+      new_text: — Да, Господин мой, но и собаки едят крошки, которые падают со стола
+        хозяев, — ответила она.
+      serbian: "А она рече: Да, Господе! Али и пси једу од мрва што падају са трпезе
+        господара њихових."
+      bulgarian: "Тя каза: да, Господи, ала и псетата ядат от трохите, що падат от
+        трапезата на господарите им."
+      Lutkovsky: "А она говорит: так, Господи; \rоднако и псы едят крохи, упавшие со
+        стола их хозяев."
+      bel_boc: "Яна ж сказала: так, Госпадзе!\rале і шчаняты ядуць крошкі,\rякія
+        падаюць са стала гаспадароў іх."
+      ukr2: "А вона каже: “Так, Господи! Але й щенята їдять кришки, що падають зо
+        столу в панів їхніх.”"
+      ukr3: "А вона каже: Так, Господи; тільки ж і собаки їдять кришки, що падають із
+        стола в господаря їх."
+      czech: "A ona rekla: „Ovsem, Pane, jenze i psi se zivi z drobtu, ktere spadnou
+        ze stolu jejich panu.“"
+      st_text: "Она сказала: так, Господи! но и псы едят крохи, которые падают со
+        стола господ их."
+  - id: 25257
+    number: 28
+    bookId: 51
+    text: "Тогда Иисус сказал ей в ответ: о, женщина! велика вера твоя; да будет
+      тебе по желанию твоему. И исцелилась дочь ее в тот час."
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 26746
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 7
+        short: Мк:7:29
+    translates:
+      kassian: "Тогда Иисус ответил ей: о женщина, велика твоя вера. Да будет тебе,
+        как ты хочешь. И была исцелена дочь ее в час тот."
+      podstr: Тогда ответивший Иисус сказал ей, О женщина, велика твоя вера; пусть
+        сбудется тебе как желаешь. И была исцелена дочь её от часа того.
+      csya: "Тогда отвещав Иисус рече ей: о, жено, велия вера твоя: буди тебе якоже
+        хощеши. И исцеле дщи ея от того часа."
+      averincev: Тогда сказал ей в ответ Иисус; "О женщина! Велика твоя вера. Да будет
+        тебе то, чего хочешь!" И здравой была дочь ее с того самого часа.
+      ungerov: ""
+      csya_old: "ТогдA tвэщaвъ ї}съ рече2 є4й: q, же1но, ве1ліz вёра твоS: бyди тебЁ
+        ћкоже хо1щеши. И# и3сцэлЁ дщи2 є3S t тогw2 часA."
+      sovr_rbo: ""
+      latin: "Tunc respondens Jesus, ait illi: O mulier, magna est fides tua: fiat
+        tibi sicut vis. Et sanata est filia ejus ex illa hora."
+      ukr: "Тоді відповів і сказав їй Ісус: О жінко, твоя віра велика, нехай буде
+        тобі, як ти хочеш! І тієї години дочка її видужала."
+      nkjv: Then Jesus answered and said to her, "O woman, great is your faith! Let it
+        be to you as you desire." And her daughter was healed from that very
+        hour.
+      desnitsky: ""
+      tex_rec: τότε ἀποκριθεὶς ὁ ᾽Ιησοῦς εἶπεν αὐτῇ, ὦ γύναι, μεγάλη σου ἡ πίστις·
+        γενηθήτω σοι ὡς θέλεις. καὶ ἰάθη ἡ θυγάτηρ αὐτῆς ἀπὸ τῆς ὥρας ἐκείνης.
+      deutsch: "Da antwortete Jesus und sprach zu ihr: O Weib, dein Glaube ist groß!
+        Dir geschehe, wie du willst. Und ihre Tochter ward gesund zu derselben
+        Stunde."
+      spanish: "Entonces Jesús le dijo: ¡Oh mujer, grande es tu fe! Hágase contigo
+        como tú quieres. Y desde aquella hora quedó curada su hija."
+      peshitta: ܗܳܝܕ݁ܶܝܢ ܐܶܡܰܪ ܠܳܗ ܝܶܫܽܘܥ ܐܳܘ ܐܰܢ݈ܬ݁ܬ݂ܳܐ ܪܰܒ݁ܳܐ ܗ݈ܝ ܗܰܝܡܳܢܽܘܬ݂ܶܟ݂ܝ
+        ܢܶܗܘܶܐ ܠܶܟ݂ܝ ܐܰܝܟ݂ ܕ݁ܨܳܒ݂ܝܳܐ ܐܰܢ݈ܬ݁ܝ ܘܶܐܬ݂ܰܐܣܝܰܬ݂ ܒ݁ܰܪܬ݂ܳܗ ܡܶܢ ܗܳܝ
+        ܫܳܥܬ݂ܳܐ܂
+      bel_syomukha: "Тады Ісус сказаў ёй у адказ: жанчына! вялікая вера твая, хай
+        станецца табе, як ты хочаш. І выздаравела яе дачка ў тую ж гадзіну."
+      nrt: "Тогда Иисус сказал ей: – Женщина, у тебя великая вера! Пусть будет так,
+        как ты хочешь. И в тот же час ее дочь исцелилась."
+      romana: "Atunci, raspunzand, Iisus i-a zis: O, femeie, mare este credinta ta;
+        fie tie dupa cum voiesti. Si s-a tamaduit fiica ei in ceasul acela."
+      francais: "Alors Jésus lui dit: Femme, ta foi est grande; qu'il te soit fait
+        comme tu veux. Et, à l'heure même, sa fille fut guérie."
+      italian: "Allora Gesù le replicò: \"Donna, davvero grande è la tua fede! Ti sia
+        fatto come desideri\". E da quell'istante sua figlia fu guarita."
+      old_georgian: "მაშინ მიუგო იესუ და ჰრქუა მას: ჵ დედაკაცო! დიდ არს სარწმუნოებაჲ
+        ეგე შენი; გეყავნ შენ, ვითარცა გნებავს. და განიკურნა ასული იგი მისი მიერ
+        ჟამითგან."
+      portuguese: "Então respondeu Jesus, e disse-lhe: ó mulher, grande é a tua fé!
+        seja-te feito como queres. E desde aquela hora\rsua filha ficou sã."
+      polish: "Wtedy Jezus jej odpowiedział: ”O niewiasto wielka jest twoja wiara;
+        niech ci\rsię stanie, jak chcesz!” Od tej chwili jej córka była zdrowa."
+      pobedonostsev: "Тогда в ответ сказал ей Иисус: о, жена! велия вера твоя; буди
+        тебе по хотению твоему. И исцелилась дочь ее в тот час."
+      new_text: — Велика твоя вера, женщина, — сказал ей тогда Иисус. — Пусть будет
+        тебе то, чего ты хочешь. И в тот же миг дочь ее выздоровела.
+      serbian: "Тада одговори Исус и рече јој: O жено, велика је вјера твоја; нека ти
+        буде како хоћеш! И оздрави кћи њена од онога часа."
+      bulgarian: "Тогава Иисус й отговори и рече: о, жено, голяма е твоята вяра; нека
+        ти бъде по желанието ти! И в оня час дъщеря й оздравя."
+      Lutkovsky: "И тогда Иисус сказал ей в ответ: о, женщина! \rВелика вера твоя!
+        \rДа будет же так, как ты хочешь! \rИ в тот же миг дочь ее стала
+        здоровой."
+      bel_boc: "Тады Іісус сказаў ёй у адказ:\rо жанчына! вялікая вера твая;\rняхай
+        станецца табе, як ты хочаш.\rІ выздаравела яе дачка ў тую ж гадзіну."
+      ukr2: "Тоді відповів їй Ісус: “О жінко, велика твоя віра! Хай тобі буде, як
+        бажаєш.” І видужала її дочка від тієї години."
+      ukr3: "Тодї озвавсь Ісус і рече до неї: Жінко, велика віра твоя: нехай станеть
+        ся тобі, як бажаєш. І одужала дочка її з того часу."
+      czech: "Tu ji Jezis rekl: „Zeno, tva vira je velika; stan se ti tak, jak chces.“
+        A od te hodiny byla jeji dcera zdrava."
+      st_text: "Тогда Иисус сказал ей в ответ: о, женщина! велика вера твоя; да будет
+        тебе по желанию твоему. И исцелилась дочь ее в тот час."
+  - id: 25258
+    number: 29
+    bookId: 51
+    text: Перейдя оттуда, пришел Иисус к морю Галилейскому и, взойдя на гору, сел
+      там.
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 26748
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 7
+        short: Мк:7:31
+    translates:
+      kassian: И выйдя оттуда, пришел Иисус к морю Галилейскому и, поднявшись на гору,
+        сидел там.
+      podstr: И перешедший оттуда Иисус пришёл к морю Галилеи, и взошедший на гору
+        сидел там.
+      csya: И прешед оттуду Иисус, прииде на море галилейское, и возшед на гору, седе
+        ту.
+      averincev: И уйдя оттуда, пришел Иисус к морю Галилейскому; и поднявшись на
+        гору, сидел там.
+      ungerov: ""
+      csya_old: И# преше1дъ tтyду ї}съ, пріи1де на мо1ре галіле1йское, и3 возше1дъ на
+        горY, сёде тY.
+      sovr_rbo: ""
+      latin: "Et cum transisset inde Jesus, venit secus mare Galilaeae: et ascendens
+        in montem, sedebat ibi."
+      ukr: І, відійшовши звідти, Ісус прибув до Галілейського моря, і, зійшовши на
+        гору, сів там.
+      nkjv: Jesus departed from there, skirted the Sea of Galilee, and went up on the
+        mountain and sat down there.
+      desnitsky: ""
+      tex_rec: Καὶ μεταβὰς ἐκεῖθεν ὁ ᾽Ιησοῦς ἦλθεν παρὰ τὴν θάλασσαν τῆς Γαλιλαίας,
+        καὶ ἀναβὰς εἰς τὸ ὄρος ἐκάθητο ἐκεῖ.
+      deutsch: Und Jesus ging von da weiter und kam an das Galiläische Meer und ging
+        auf einen Berg und setzte sich allda.
+      spanish: Partiendo de allí, vino Jesús cerca del mar de Galilea, y subiendo a
+        una montaña, se sentó allí.
+      peshitta: ܘܫܰܢܺܝ ܡܶܢ ܬ݁ܰܡܳܢ ܝܶܫܽܘܥ ܘܶܐܬ݂ܳܐ ܥܰܠ ܓ݁ܶܢ݈ܒ݂ ܝܰܡܳܐ ܕ݁ܰܓ݂ܠܺܝܠܳܐ ܘܰܣܠܶܩ
+        ܠܛܽܘܪܳܐ ܘܺܝܬ݂ܶܒ݂ ܬ݁ܰܡܳܢ܂
+      bel_syomukha: Перайшоўшы адтуль, прыйшоў Ісус да мора Галілейскага і, узышоўшы
+        на гару, сеў там.
+      nrt: Иисус ушел оттуда и пошел вдоль Галилейского озера. В одном месте Он
+        поднялся на склон горы и сел там.
+      romana: Si trecand Iisus de acolo, a venit langa Marea Galileii si, suindu-Se in
+        munte, a sezut acolo.
+      francais: Jésus quitta ces lieux, et vint près de la mer de Galilée. Étant monté
+        sur la montagne, il s'y assit.
+      italian: Allontanatosi di là, Gesù giunse presso il mare di Galilea e, salito
+        sul monte, si fermò là.
+      old_georgian: და წარვიდა მიერ იესუ და მოვიდა ზღჳს-კიდესა მას გალილეაჲსასა და
+        აღვიდა მთასა და დაჯდა მუნ.
+      portuguese: Partindo Jesus dali, chegou ao pé do mar da Galiléia; e, subindo ao
+        monte, sentou-se ali.
+      polish: "Stamtąd podążył Jezus dalej i przyszedł nad Jezioro Galilejskie. Wszedł
+        na\r
+
+        górę i tam siedział."
+      pobedonostsev: Прешед оттуда, пришел Иисус к морю Галилейскому и, взойдя на
+        гору, сел там.
+      new_text: Уйдя оттуда и продолжая Свой путь вдоль Галилейского моря, Иисус
+        поднялся на гору и сел.
+      serbian: И отишавши Исус оданде, дође мору Галилејском, и попевши се на гору,
+        сједе ондје.
+      bulgarian: Като замина оттам, Иисус дойде при Галилейско море, възлезе на
+        планината и седна там.
+      Lutkovsky: "Возвратясь оттуда к озеру Галилейскому, \r
+
+        Иисус поднялся на один из холмов и сел там."
+      bel_boc: "Перайшоўшы адтуль, прыйшоў Іісус да мора Галілейскага\r
+
+        і, узышоўшы на гару, сеў там."
+      ukr2: Звідти Ісус, знову перейшовши над Галилейське море, зійшов на гору й сів
+        там.
+      ukr3: І, перейшовши Ісус ізвідтіля, прийшов близько до моря Галилейського, й,
+        зійшовши на гору, сїв там.
+      czech: Odtud Jezis presel zase ke Galilejskemu mori; vystoupil na horu a posadil
+        se tam.
+      st_text: Перейдя оттуда, пришел Иисус к морю Галилейскому и, взойдя на гору, сел
+        там.
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 25259
+    number: 30
+    bookId: 51
+    text: И приступило к Нему множество народа, имея с собою хромых, слепых, немых,
+      увечных и иных многих, и повергли их к ногам Иисусовым; и Он исцелил их;
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 20369
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 29
+        short: Ис:29:18
+      - verseId: 20508
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 35
+        short: Ис:35:5
+      - verseId: 20509
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 35
+        short: Ис:35:6
+    translates:
+      kassian: И приступило к Нему множество народа с хромыми, слепыми, немыми,
+        увечными и многими другими. И повергли их к ногам Его, и Он исцелил их,
+      podstr: И подошли к Нему толпы многие имеющие с собой хромых, слепых, калек,
+        немых, и других многих, и бросили их у ног Его, и исцелял их;
+      csya: "И приступиша к нему народи мнози, имуще с собою хромыя, слепыя, немыя,
+        бедныя и ины многи, и привергоша их к ногама Иисусовыма: и исцели их:"
+      averincev: И приблизилось к Нему множество народа с хромыми, слепыми, увечными,
+        немыми и многими прочими больными; и клали их к ногам Его, и Он исцелял
+        их,
+      ungerov: ""
+      csya_old: "И# приступи1ша къ немY наро1ди мно1зи, и3мyще съ собо1ю хрwмы1z,
+        слэпы6z, нэмы6z, бBдныz и3 и4ны мнHги, и3 приверго1ша и5хъ къ ногaма
+        ї}совыма: и3 и3сцэли2 и5хъ:"
+      sovr_rbo: ""
+      latin: "Et accesserunt ad eum turbae multae, habentes secum mutos, caecos,
+        claudos, debiles, et alios multos: et projecerunt eos ad pedes ejus, et
+        curavit eos,"
+      ukr: І приступило до Нього багато народу, що мали з собою кривих, калік, сліпих,
+        німих і інших багато, і клали їх до Ісусових ніг. І Він уздоровлював їх.
+      nkjv: "Then great multitudes came to Him, having with them the lame, blind,
+        mute, maimed, and many others; and they laid them down at Jesus' feet,
+        and He healed them. "
+      desnitsky: ""
+      tex_rec: καὶ προσῆλθον αὐτῷ ὄχλοι πολλοὶ ἔχοντες μεθ᾽ ἑαυτῶν χωλούς, τυφλούς,
+        κυλλούς, κωφούς, καὶ ἑτέρους πολλούς, καὶ ἔρριψαν αὐτοὺς παρὰ τοὺς πόδας
+        αὐτοῦ, καὶ ἐθεράπευσεν αὐτούς·
+      deutsch: Und es kam zu ihm viel Volks, die hatten mit sich Lahme, Blinde,
+        Stumme, Krüppel und viele andere und warfen sie Jesu vor die Füße, und
+        er heilte sie,
+      spanish: Se le acercó una gran muchedumbre, en la que había cojos, mancos,
+        ciegos, mudos y muchos otros, que se echaron a sus pies, y los curó.
+      peshitta: ܘܰܩܪܶܒ݂ܘ ܠܘܳܬ݂ܶܗ ܟ݁ܶܢܫܶܐ ܣܰܓ݁ܺܝܶܐܐ ܕ݁ܺܐܝܬ݂ ܗ݈ܘܰܘ ܥܰܡܗܽܘܢ ܚܓ݂ܺܝܪܶܐ
+        ܘܰܣܡܰܝܳܐ ܘܚܰܪܫܶܐ ܘܰܦ݂ܫܺܝܓ݂ܶܐ ܘܰܐ݈ܚܪܳܢܶܐ ܣܰܓ݁ܺܝܶܐܐ ܘܰܐܪܡܺܝܘ ܐܶܢܽܘܢ ܠܘܳܬ݂
+        ܪܶܓ݂ܠܰܘܗ݈ܝ ܕ݁ܝܶܫܽܘܥ ܘܰܐܣܺܝ ܐܶܢܽܘܢ܂
+      bel_syomukha: І прыступіла да Яго мноства людзей, маючы з сабою кульгавых,
+        сьляпых, нямых, зьнявечаных і іншых многіх, і паклалі іх да ног
+        Ісусавых; і Ён ацаліў іх,
+      nrt: К Нему пришло множество людей, среди которых были хромые, слепые, калеки,
+        немые и многие другие больные. Этих несчастных клали к ногам Иисуса, и
+        Он исцелял их.
+      romana: Si multimi multe au venit la El, avand cu ei schiopi, orbi, muti,
+        ciungi, si multi altii si i-au pus la picioarele Lui, iar El i-a
+        vindecat.
+      francais: Alors s'approcha de lui une grande foule, ayant avec elle des boiteux,
+        des aveugles, des muets, des estropiés, et beaucoup d'autres malades. On
+        les mit à ses pieds, et il les guérit;
+      italian: Attorno a lui si radunò molta folla recando con sé zoppi, storpi,
+        ciechi, sordi e molti altri malati; li deposero ai suoi piedi, ed egli
+        li guarì.
+      old_georgian: და მოუჴდა მას ერი მრავალი, რომელთა ჰყვა მათ თანა მკელობლები,
+        ბრმები, ყრუნი, ქუეწარმძრომელნი და სხუანი მრავალნი თითო-სახეთაგან სენთა
+        შეპყრობილნი. და დასხნეს იგინი ფერჴთა თანა მისთა, და განკურნნა იგინი,
+      portuguese: "E vieram a ele grandes multidões, trazendo consigo coxos,
+        aleijados, cegos, mudos, e outros muitos, e lhos\rpuseram aos pés; e ele
+        os curou;"
+      polish: I przyszły do Niego wielkie tłumy, mając z sobą chromych, ułomnych,
+        niewidomych, niemych i wielu innych, i położyli ich u nóg Jego, a On ich
+        uzdrowił.
+      pobedonostsev: И приступили к Нему множество народа, имея с собою хромых,
+        слепых, немых, увечных и иных многих, и повергли их к ногам Иисусовым; и
+        исцелил их;
+      new_text: К Нему сошлись толпы народа с парализованными, слепыми, калеками,
+        немыми и множеством других больных. Они привели их к Его ногам, и Он
+        исцелил их.
+      serbian: И приступи му народ многи који имаше са собом хроме, слијепе, нијеме,
+        богаље и многе друге, и положише их пред ноге Исусове, и исцијели их.
+      bulgarian: И дойде при Него много народ, който имаше със себе си хроми, слепи,
+        неми, недъгави и много други, и ги сложиха пред нозете на Иисуса, и Той
+        ги изцери,
+      Lutkovsky: "И вот множество людей, \rприведших с собою множество разных калек,
+        хромых, слепых, немых, \rподошли к Нему и повергли их к ногам Его, \rи
+        Он исцелил их всех,"
+      bel_boc: "І прыступіла да Яго мноства людзей,\rмаючы з сабою кульгавых, сляпых,
+        нямых, знявечаных і іншых многіх,\rі паклалі іх да ног Іісусавых;\rі Ён
+        ацаліў іх;"
+      ukr2: Сила народу прийшла тоді до нього, що мали при собі кривих, калік, сліпих,
+        німих, чимало й інакших, та й клали їх до його ніг, а він зціляв їх.
+      ukr3: І поприходило до Него пребагато людей, маючи з собою кривих, слїпих,
+        нїмих, калїк і багацько инших, та й клали їх у ногах в Ісуса, й сцїлив
+        їх,
+      czech: Tu se k nemu sesly cele zastupy a mely s sebou chrome, mrzaky, slepe,
+        hluchoneme a mnohe jine. Kladly je k jeho noham a on je uzdravil,
+      st_text: И приступило к Нему множество народа, имея с собою хромых, слепых,
+        немых, увечных и иных многих, и повергли их к ногам Иисусовым; и Он
+        исцелил их;
+  - id: 25260
+    number: 31
+    bookId: 51
+    text: так что народ дивился, видя немых говорящими, увечных здоровыми, хромых
+      ходящими и слепых видящими; и прославлял Бога Израилева.
+    chapter: 15
+    chapterId: 1127
+    parallels: []
+    translates:
+      kassian: так что удивился народ, видя, что немые говорят, увечные здоровы,
+        хромые ходят, и слепые видят, и прославил Бога Израилева.
+      podstr: так что толпа удивилась видящие немых говорящих, калек здоровых, и
+        хромых ходящих и слепых видящих; и прославили Бога Израиля.
+      csya: "якоже народом дивитися, видящым немыя глаголюща, бедныя здравы, хромыя
+        ходящя и слепыя видящя: и славляху Бога израилева."
+      averincev: так что дивился народ, видя, что немые вещают, увечные здравствуют, и
+        хромые ходят, и слепые видят; и восславили они Бога Израилева.
+      ungerov: ""
+      csya_old: "ћкоже наро1дwмъ диви1тисz, ви1дzщымъ нэмы6z глаго1лющz, бBдныz
+        здр†вы, хрwмы1z ходsщz и3 слэпы6z ви1дzщz: и3 слaвлzху бг7а ї}лева."
+      sovr_rbo: ""
+      latin: "ita ut turbae mirarentur, videntes mutos loquentes, claudos ambulantes,
+        caecos videntes: et magnificabant Deum Israel."
+      ukr: А народ не виходив із дива, бо бачив, що говорять німі, каліки стають
+        здорові, криві ходять, і бачать сліпі, і славив він Бога Ізраїлевого!
+      nkjv: So the multitude marveled when they saw the mute speaking, the maimed made
+        whole, the lame walking, and the blind seeing; and they glorified the
+        God of Israel.
+      desnitsky: ""
+      tex_rec: ὥστε τὸν ὄχλον θαυμάσαι βλέποντας κωφοὺς λαλοῦντας, κυλλοὺς ὑγιεῖς, καὶ
+        χωλοὺς περιπατοῦντας καὶ τυφλοὺς βλέποντας· καὶ ἐδόξασαν τὸν θεὸν
+        ᾽Ισραήλ.
+      deutsch: daß sich das Volk verwunderte, da sie sahen, daß die Stummen redeten,
+        die Krüppel gesund waren, die Lahmen gingen, die Blinden sahen; und sie
+        priesen den Gott Israels.
+      spanish: La muchedumbre se maravillaba viendo que hablaban los mudos, los mancos
+        sanaban, los cojos andaban y veían los ciegos. Y glorificaban al Dios de
+        Israel.
+      peshitta: ܐܰܝܟ݂ ܕ݁ܢܶܬ݁ܕ݁ܰܡܪܽܘܢ ܟ݁ܶܢܫܶܐ ܗܳܢܽܘܢ ܕ݁ܚܳܙܶܝܢ ܚܰܪܫܶܐ ܕ݁ܰܡܡܰܠܠܺܝܢ
+        ܘܰܦ݂ܫܺܝܓ݂ܶܐ ܕ݁ܡܶܬ݂ܚܰܠܡܺܝܢ ܘܰܚܓ݂ܺܝܪܶܐ ܕ݁ܰܡܗܰܠܟ݂ܺܝܢ ܘܰܣܡܰܝܳܐ ܕ݁ܚܳܙܶܝܢ
+        ܘܫܰܒ݁ܰܚܘ ܠܰܐܠܳܗܳܐ ܕ݁ܺܝܣܪܳܝܶܠ܂
+      bel_syomukha: так што людзі зьдзіўляліся, бачачы, як нямыя гавораць, зьнявечаныя
+        здаравеюць, кульгавыя ходзяць і сьляпыя бачаць; і праслаўлялі Бога
+        Ізраілевага.
+      nrt: Люди удивлялись и славили Бога Израиля, когда видели немых говорящими,
+        калек здоровыми, хромых ходящими и слепых зрячими.
+      romana: Incat multimea se minuna vazand pe muti vorbind, pe ciungi sanatosi, pe
+        schiopi umbland si pe orbi vazand, si slaveau pe Dumnezeul lui Israel.
+      francais: en sorte que la foule était dans l'admiration de voir que les muets
+        parlaient, que les estropiés étaient guéris, que les boiteux marchaient,
+        que les aveugles voyaient; et elle glorifiait le Dieu d'Israël.
+      italian: E la folla era piena di stupore nel vedere i muti che parlavano, gli
+        storpi raddrizzati, gli zoppi che camminavano e i ciechi che vedevano. E
+        glorificava il Dio di Israele.
+      old_georgian: ვიდრე უკჳრდაცა ერსა მას, ხედვიდეს რაჲ, ვითარ-იგი ყრუნი იტყოდეს, და
+        მკელობელნი ვიდოდეს, და ღრეკილნი განიკურნებოდეს, და ბრმანი ხედვიდეს; და
+        ადიდებდეს ღმერთსა ისრაჱლისასა.
+      portuguese: "de modo que a multidão se admirou, vendo mudos a falar, aleijados a
+        ficar sãos, coxos a andar, cegos a ver; e\rglorificaram ao Deus de
+        Israel."
+      polish: Tłumy zdumiewały się widząc, że niemi mówią, ułomni są zdrowi, chromi
+        chodzą, niewidomi widzą. I wielbiły Boga Izraela.
+      pobedonostsev: так что дивился народ, видя немых говорящими, увечных здравыми,
+        хромых ходящими и слепых видящими; и прославлял Бога Израилева.
+      new_text: Весь народ дивился, видя, что немые говорят, калеки здоровы,
+        парализованные ходят и слепые видят. И они прославляли Бога Израиля.
+      serbian: Тако да се народ дивљаше, видећи глуве гдје чују, нијеме гдје говоре,
+        богаље исцијељене, хроме гдје иду, слијепе гдје гледају; и хвалише Бога
+        Израиљева.
+      bulgarian: тъй че народът се почуди, като гледаше неми да говорят, недъгави да
+        оздравяват, хроми да ходят и слепи да гледат, и прослави Бога Израилев.
+      Lutkovsky: "так что народ, видя немых говорящими, \rкалек - здоровыми, \rхромых
+        - ходящими, \rа слепых - зрячими, \rудивлялся и славил Бога
+        Израильского."
+      bel_boc: "так што людзі здзіўляліся,\rбачачы, як нямыя гавораць,\rзнявечаныя
+        здаравеюць,\rкульгавыя ходзяць і сляпыя бачаць;\rі праслаўлялі Бога
+        Ізраілевага."
+      ukr2: І дивувались люди, бачивши, що німі говорять, каліки знову одужують, криві
+        ходять і сліпі бачать, – і прославляли Бога Ізраїля.
+      ukr3: так що люде дивувались, бачивши, що нїмі говорять, калїки здорові, криві
+        ходять, а слїпі бачять; і прославляли Бога Ізраїлевого.
+      czech: takze se zastupy divily, kdyz videly, ze nemi mluvi, mrzaci jsou zdravi,
+        chromi chodi a slepi vidi; i velebily Boha izraelskeho.
+      st_text: так что народ дивился, видя немых говорящими, увечных здоровыми, хромых
+        ходящими и слепых видящими; и прославлял Бога Израилева.
+  - id: 25261
+    number: 32
+    bookId: 51
+    text: "Иисус же, призвав учеников Своих, сказал им: жаль Мне народа, что уже три
+      дня находятся при Мне, и нечего им есть; отпустить же их неевшими не хочу,
+      чтобы не ослабели в дороге."
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 26755
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 8
+        short: Мк:8:1
+    translates:
+      kassian: "Иисус же, призвав учеников Своих, сказал им: жаль Мне народа: уже три
+        дня остаются они со Мною, и нечего им есть; и отпустить их неевшими не
+        хочу, чтобы не обессилели в дороге."
+      podstr: Же Иисус подозвавший учеников Его сказал, Испытываю жалость к толпе,
+        потому что уже дня три остаются [при] Мне и не имеют что поесть; и
+        отпустить их голодных не хочу, чтобы не ослабели в пути.
+      csya: "Иисус же призвав ученики своя, рече (им): милосердую о народе (сем), яко
+        уже дни три приседят мне и не имут чесо ясти: и отпустити их не ядших не
+        хощу, да не како ослабеют на пути."
+      averincev: 'А Иисус, призвав учеников Его, сказал: "Жаль Мне народа; они со Мной
+        уже три дня, и есть им нечего. И не хочу отпустить их голодными, чтобы
+        не изнемогли они в дороге".'
+      ungerov: ""
+      csya_old: "І3}съ же призвaвъ ўчн7ки2 сво‰, рече2 (и5мъ): млcрдую њ наро1дэ
+        (се1мъ), ћкw ўже2 дни6 три2 присэдsтъ мнЁ и3 не и4мутъ чесw2 ћсти: и3
+        tпусти1ти и5хъ не ћдшихъ не хощY, да не кaкw њслабёютъ на пути2."
+      sovr_rbo: ""
+      latin: "Jesus autem, convocatis discipulis suis, dixit: Misereor turbae, quia
+        triduo jam perseverant mecum, et non habent quod manducent: et dimittere
+        eos jejunos nolo, ne deficiant in via."
+      ukr: "А Ісус Своїх учнів покликав і сказав: Жаль Мені цих людей, що вже три дні
+        зо Мною знаходяться, але їсти не мають чого; відпустити їх без їжі не
+        хочу, щоб вони не ослабли в дорозі."
+      nkjv: Now Jesus called His disciples to Himself and said, "I have compassion on
+        the multitude, because they have now continued with Me three days and
+        have nothing to eat. And I do not want to send them away hungry, lest
+        they faint on the way."
+      desnitsky: ""
+      tex_rec: ῾Ο δὲ ᾽Ιησοῦς προσκαλεσάμενος τοὺς μαθητὰς αὐτοῦ εἶπεν, Σπλαγχνίζομαι
+        ἐπὶ τὸν ὄχλον, ὅτι ἤδη ἡμέραι τρεῖς προσμένουσίν μοι καὶ οὐκ ἔχουσιν τί
+        φάγωσιν· καὶ ἀπολῦσαι αὐτοὺς νήστεις οὐ θέλω, μήποτε ἐκλυθῶσιν ἐν τῇ
+        ὁδῷ.
+      deutsch: "Und Jesus rief seine Jünger zu sich und sprach: Es jammert mich des
+        Volks; denn sie beharren nun wohl drei Tage bei mir und haben nichts zu
+        essen; und ich will sie nicht ungegessen von mir lassen, auf daß sie
+        nicht verschmachten auf dem Wege."
+      spanish: "Jesús llamó a sí a sus discípulos y dijo: Tengo compasión de la
+        muchedumbre, porque ha ya tres días que están conmigo y no tienen qué
+        comer; no quiero despedirlos ayunos, no sea que desfallezcan en el
+        camino."
+      peshitta: ܗܽܘ ܕ݁ܶܝܢ ܝܶܫܽܘܥ ܩܪܳܐ ܠܬ݂ܰܠܡܺܝܕ݂ܰܘܗ݈ܝ ܘܶܐܡܰܪ ܠܗܽܘܢ ܡܶܬ݂ܪܰܚܰܡ ܐ݈ܢܳܐ ܥܰܠ
+        ܟ݁ܶܢܫܳܐ ܗܳܢܳܐ ܕ݁ܗܳܐ ܬ݁ܠܳܬ݂ܳܐ ܝܰܘܡܺܝܢ ܩܰܘܺܝܘ ܠܘܳܬ݂ܝ ܘܠܰܝܬ݁ ܠܗܽܘܢ ܡܳܐ
+        ܕ݁ܢܶܐܟ݂ܠܽܘܢ ܘܕ݂ܶܐܫܪܶܐ ܐܶܢܽܘܢ ܟ݁ܰܕ݂ ܨܳܝܡܺܝܢ ܠܳܐ ܨܳܒ݂ܶܐ ܐ݈ܢܳܐ ܕ݁ܰܠܡܳܐ
+        ܢܥܽܘܦ݂ܽܘܢ ܒ݁ܽܐܘܪܚܳܐ܂
+      bel_syomukha: "А Ісус, паклікаўшы вучняў Сваіх, сказаў ім: шкада Мне людзей, бо
+        ўжо тры дні застаюцца пры Мне, і няма чаго ім есьці; і адпусьціць іх
+        няеўшых не хачу, каб не аслаблі ў дарозе."
+      nrt: "Иисус подозвал Своих учеников и сказал: – Мне жалко этих людей, они со
+        Мной вот уже три дня, и у них не осталось еды. Я не хочу отпускать их
+        голодными, ведь они могут ослабеть в дороге."
+      romana: "Iar Iisus, chemand la Sine pe ucenicii Sai, a zis: Mila imi este de
+        multime, ca iata sunt trei zile de cand asteapta langa Mine si n-au ce
+        sa manance; si sa-i slobozesc flamanzi nu voiesc, ca sa nu se istoveasca
+        pe drum."
+      francais: "Jésus, ayant appelé ses disciples, dit: Je suis ému de compassion
+        pour cette foule; car voilà trois jours qu'ils sont près de moi, et ils
+        n'ont  rien à manger. Je ne veux pas les renvoyer à jeun, de peur que
+        les forces ne leur manquent en chemin."
+      italian: 'Allora Gesù chiamò a sé i discepoli e disse: "Sento compassione di
+        questa folla: ormai da tre giorni mi vengono dietro e non hanno da
+        mangiare. Non voglio rimandarli digiuni, perché non svengano lungo la
+        strada".'
+      old_georgian: "ხოლო იესუ მოუწოდა მოწაფეთა თჳსთა და ჰრქუა მათ: მეწყალის ერი ესე,
+        რამეთუ აჰა ესერა სამი დღე არს, და მელიან მე და არარაჲ აქუს, რაჲმცა
+        ჭამეს; და განტევებაჲ მათი უზმთაჲ არა მნებავს, ნუუკუე დაცჳვენ გზასა
+        ზედა."
+      portuguese: "Jesus chamou os seus discípulos, e disse: Tenho compaixão da
+        multidão, porque já faz três dias que eles estão\rcomigo, e não têm o
+        que comer; e não quero despedi-los em jejum, para que não desfaleçam no
+        caminho."
+      polish: "Lecz Jezus przywołał swoich uczniów i rzekł: ”Żal Mi tego tłumu! Już
+        trzy\rdni trwają przy Mnie, a nie mają co jeść. Nie chcę ich puścić
+        zgłodniałych,\rżeby kto nie zasłabł w drodze”."
+      pobedonostsev: "Иисус же, призвав учеников Своих, сказал им: милосердую о народе
+        сем, что уже три дня при Мне остаются, и нечего им есть; отпустить же их
+        не евших не хочу, чтобы не ослабели на пути."
+      new_text: "Иисус, подозвав учеников, сказал им: — Жаль Мне людей: вот уже три
+        дня, как они при Мне, а есть им нечего. Я не хочу отпускать их голодными
+        — как бы они не ослабели в дороге."
+      serbian: "А Исус дозвавши ученике своје, рече: Жао ми је народа, јер већ три
+        дана стоје код мене и немају шта јести; а нисам рад отпустити их гладне
+        да не малакшу на путу."
+      bulgarian: "А Иисус, като повика учениците Си, рече: жалко Ми е за народа, че
+        три дни вече стоят при Мене и нямат какво да ядат; пък да ги разпусна
+        гладни, не искам, да не би да им премалее по пътя."
+      Lutkovsky: "Иисус же, подозвав учеников Своих, \rсказал нм: жаль Мне этих людей;
+        \rвот уже три дня как они со Мною, и нечего им поесть. \rОтпустить же их
+        голодными - не хочу, \rиначе они ослабеют в пути."
+      bel_boc: "А Іісус, паклікаўшы вучняў Сваіх,\rсказаў ім: шкада Мне людзей,\rбо
+        ўжо тры дні застаюцца пры Мне,\rі няма чаго ім есці;\rі адпусціць іх
+        няеўшых не хачу,\rкаб не аслаблі ў дарозе."
+      ukr2: "Тим часом Ісус покликав своїх учнів і сказав їм: “Жаль мені цих людей, бо
+        ось три дні вже, як вони перебувають зо мною, і не мають що їсти, а
+        відпустити їх голодними не хочу, щоб, бува, не охляли десь по дорозі.”"
+      ukr3: "Ісус же, покликавши учеників своїх, рече: Жаль менї людей, бо вже вони
+        три днї пробувають зо мною, й не мають що їсти; а не хочу відпустити їх
+        голодних, щоб не помлїли на дорозї."
+      czech: "Jezis si zavolal sve ucedniky a rekl: „Je mi lito zastupu, nebot jiz tri
+        dny jsou se mnou a nemaji co jist. Poslat je domu hladove nechci, aby
+        nezemdleli na ceste.“"
+      st_text: "Иисус же, призвав учеников Своих, сказал им: жаль Мне народа, что уже
+        три дня находятся при Мне, и нечего им есть; отпустить же их неевшими не
+        хочу, чтобы не ослабели в дороге."
+  - id: 25262
+    number: 33
+    bookId: 51
+    text: "И говорят Ему ученики Его: откуда нам взять в пустыне столько хлебов,
+      чтобы накормить столько народа?"
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 11303
+        bookId: 4
+        bookCode: cisla
+        chapter: 11
+        short: Чис:11:22
+    translates:
+      kassian: "И говорят Ему ученики: где нам взять столько хлебов в пустынном месте,
+        чтобы накормить весь этот народ?"
+      podstr: И говорят Ему ученики, Откуда [у] нас в пустыне хлебы столькие так чтобы
+        насытить толпу столькую?
+      csya: "И глаголаша ему ученицы его: откуду нам в пустыни хлеби толицы, яко да
+        насытится толик народ?"
+      averincev: 'И говорят Ему ученики: "Откуда нам взять в пустыне столько хлебов,
+        чтобы накормить весь этот народ?"'
+      ungerov: ""
+      csya_old: "И# глаго1лаша є3мY ўчн7цы2 є3гw2: tкyду нaмъ въ пусты1ни хлёби
+        толи1цы, ћкw да насы1титсz толи1къ наро1дъ;"
+      sovr_rbo: ""
+      latin: "Et dicunt ei discipuli: Unde ergo nobis in deserto panes tantos, ut
+        saturemus turbam tantam?"
+      ukr: "А учні Йому відказали: Де нам узяти стільки хліба в пустині, щоб
+        нагодувати стільки народу?"
+      nkjv: Then His disciples said to Him, "Where could we get enough bread in the
+        wilderness to fill such a great multitude?"
+      desnitsky: ""
+      tex_rec: καὶ λέγουσιν αὐτῷ οἱ μαθηταί, Πόθεν ἡμῖν ἐν ἐρημίᾳ ἄρτοι τοσοῦτοι ὥστε
+        χορτάσαι ὄχλον τοσοῦτον;
+      deutsch: "Da sprachen seine Jünger zu ihm: Woher mögen wir so viel Brot nehmen
+        in der Wüste, daß wir so viel Volks sättigen?"
+      spanish: "Los discípulos le contestaron: ¿De dónde vamos a sacar en el desierto
+        tantos panes para saciar a tanta muchedumbre?"
+      peshitta: ܐܳܡܪܺܝܢ ܠܶܗ ܬ݁ܰܠܡܺܝܕ݂ܰܘܗ݈ܝ ܐܰܝܡܶܟ݁ܳܐ ܠܰܢ ܒ݁ܚܽܘܪܒ݁ܳܐ ܠܰܚܡܳܐ ܕ݁ܰܢܣܰܒ݁ܰܥ
+        ܟ݁ܶܢܫܳܐ ܗܳܢܳܐ ܟ݁ܽܠܶܗ܂
+      bel_syomukha: "І кажуць Яму вучні Ягоныя: адкуль нам узяць у пустыні столькі
+        хлябоў, каб накарміць столькі людзей?"
+      nrt: "Ученики Его ответили: – Где же мы возьмем здесь, в этой пустыне, столько
+        хлеба, чтобы хватило на все это множество людей?"
+      romana: "Si ucenicii I-au zis: De unde sa avem noi, in pustie, atatea paini, cat
+        sa saturam atata multime?"
+      francais: "Les disciples lui dirent: Comment nous procurer dans ce lieu désert
+        assez de pains pour rassasier une si grande foule?"
+      italian: 'E i discepoli gli dissero: "Dove potremo noi trovare in un deserto
+        tanti pani da sfamare una folla così grande?".'
+      old_georgian: "ჰრქუეს მას მოწაფეთა მისთა: ვინაჲ არს ჩუენდა უდაბნოსა ზედა პური
+        ესოდენი, ვითარმცა განძღა ერი ესოდენი?"
+      portuguese: "Disseram-lhe os discípulos: Donde nos viriam num deserto tantos
+        pães, para fartar tamanha multidão?"
+      polish: "Na to rzekli Mu uczniowie: ”Skąd tu na pustkowiu weźmiemy tyle
+        chleba\rżeby nakarmić takie mnóstwo?”"
+      pobedonostsev: "И говорят Ему ученики Его: откуда нам взять в пустыне столько
+        хлебов, чтобы насытить столько народа?"
+      new_text: — Откуда нам здесь, в пустыне, взять столько хлеба, чтобы накормить
+        такую толпу? — говорят Ему ученики.
+      serbian: "И рекоше му ученици његови: Откуда нам у пустињи толико хљеба да се
+        насити толики народ?"
+      bulgarian: "И учениците Му казват: отде да вземем в пустинята толкова хляб, за
+        да нахраним толкова народ?"
+      Lutkovsky: "А ученики говорят Ему: \rоткуда же у нас здесь, в пустынном месте,
+        \rвозьмется столько хлеба, чтобы накормить столько народа?"
+      bel_boc: "І кажуць Яму вучні Яго:\rадкуль нам узяць у пустыні столькі
+        хлябоў,\rкаб накарміць столькі людзей?"
+      ukr2: "Кажуть до нього його учні: “Де нам узяти стільки хліба в пустині, щоб
+        нагодувати стільки люду?”"
+      ukr3: "І кажуть Йому ученики Його: Де ж нам узяти стільки хлїба в пустинї, щоб
+        нагодувати стільки народу?"
+      czech: "Ucednici mu namitli: „Kde vezmeme na pousti tolik chleba, abychom
+        nasytili takovy zastup?“"
+      st_text: "И говорят Ему ученики Его: откуда нам взять в пустыне столько хлебов,
+        чтобы накормить столько народа?"
+  - id: 25263
+    number: 34
+    bookId: 51
+    text: "Говорит им Иисус: сколько у вас хлебов? Они же сказали: семь, и немного
+      рыбок."
+    chapter: 15
+    chapterId: 1127
+    parallels: []
+    translates:
+      kassian: "И говорит им Иисус: сколько у вас хлебов ? Они же сказали: семь и
+        немного рыбок."
+      podstr: И говорит им Иисус, Сколько хлебов имеете? Они же сказали, Семь, и
+        немного рыбы.
+      csya: "И глагола им Иисус: колико хлебы имате? Они же реша: седмь, и мало
+        рыбиц."
+      averincev: 'И говорит им Иисус: "Сколько у вас хлебов?" А они сказали: "Семь
+        хлебов и немного рыбок".'
+      ungerov: ""
+      csya_old: "И# гlа и5мъ ї}съ: коли1кw хлёбы и4мате; Nни1 же рёша: се1дмь, и3 мaлw
+        ры1бицъ."
+      sovr_rbo: ""
+      latin: "Et ait illis Jesus: Quot habetis panes? At illi dixerunt: Septem, et
+        paucos pisciculos."
+      ukr: "А Ісус запитав їх: Скільки маєте хліба? Вони ж відказали: Семеро, та трохи
+        рибок."
+      nkjv: Jesus said to them, "How many loaves do you have?" And they said, "Seven,
+        and a few little fish."
+      desnitsky: ""
+      tex_rec: καὶ λέγει αὐτοῖς ὁ ᾽Ιησοῦς, Πόσους ἄρτους ἔχετε; οἱ δὲ εἶπαν, Ἑπτά, καὶ
+        ὀλίγα ἰχθύδια.
+      deutsch: "Und Jesus sprach zu ihnen: Wie viel Brote habt ihr? Sie sprachen:
+        Sieben und ein wenig Fischlein."
+      spanish: "Díjoles Jesús: ¿Cuántos panes tenéis? Ellos contestaron: Siete y
+        algunos pececillos."
+      peshitta: ܐܳܡܰܪ ܠܗܽܘܢ ܝܶܫܽܘܥ ܟ݁ܡܳܐ ܠܰܚܡܺܝܢ ܐܺܝܬ݂ ܠܟ݂ܽܘܢ ܐܳܡܪܺܝܢ ܠܶܗ ܫܰܒ݂ܥܳܐ
+        ܘܩܰܠܺܝܠ ܢܽܘܢܶܐ ܕ݁ܰܩܕ݁ܩܶܐ܂
+      bel_syomukha: "І кажа ім Ісус: колькі ў вас хлябоў? А яны адказалі: сем, і
+        трошкі рыбак."
+      nrt: – Сколько у вас есть хлебов? – спросил Иисус. – Семь хлебов и несколько
+        рыбок, – ответили они.
+      romana: "Si Iisus i-a intrebat: Cate paini aveti? Ei au raspuns: Sapte si putini
+        pestisori."
+      francais: "Jésus leur demanda: Combien avez-vous de pains? Sept,
+        répondirent-ils, et quelques petits poissons."
+      italian: 'Ma Gesù domandò: "Quanti pani avete?". Risposero: "Sette, e pochi
+        pesciolini".'
+      old_georgian: "ჰრქუა მათ იესუ: რაოდენი პური გაქუს? ხოლო მათ ჰრქუეს მას: შჳდი
+        პური და მცირედ თევზი."
+      portuguese: "Perguntou-lhes Jesus: Quantos pães tendes? E responderam: Sete, e
+        alguns peixinhos."
+      polish: "Jezus zapytał ich: ”Ile macie chlebów?” Odpowiedzieli: ”Siedem i parę
+        rybek”."
+      pobedonostsev: "Говорит им Иисус: сколько у вас хлебов? Сказали: семь, и немного рыбок."
+      new_text: — Сколько у вас хлеба? — спрашивает Он. — Семь хлебов и несколько
+        рыбок, — отвечают они.
+      serbian: "И рече им Исус: Колико хљебова имате? А они рекоше: Седам, и мало
+        рибица."
+      bulgarian: "Иисус ги попита: колко хляба имате? А те отговориха: седем и няколко
+        рибки."
+      Lutkovsky: "Тогда Иисус спрашивает у них: сколько у вас найдется хлебов? \rОни
+        отвечают: семь, да еще несколько рыбок."
+      bel_boc: "І кажа ім Іісус: колькі ў вас хлябоў?\rА яны адказалі: сем, і трошкі
+        рыбак."
+      ukr2: "Ісус спитав їх: “А скільки в вас хлібів?” “Сім”, – кажуть, – “і кілька
+        рибин.”"
+      ukr3: "І рече їм Ісус: Скільки хлїбів маєте ви? Вони ж кажуть: Сїм, та кілька
+        рибок."
+      czech: "Jezis jim rekl: „Kolik mate chlebu?“ Odpovedeli: „Sedm a nekolik
+        rybicek.“"
+      st_text: "Говорит им Иисус: сколько у вас хлебов? Они же сказали: семь, и
+        немного рыбок."
+  - id: 25264
+    number: 35
+    bookId: 51
+    text: Тогда велел народу возлечь на землю.
+    chapter: 15
+    chapterId: 1127
+    parallels: []
+    translates:
+      kassian: И повелев толпе возлечь на землю,
+      podstr: И приказавший толпе возлечь на землю
+      csya: И повеле народом возлещи на земли,
+      averincev: И Он, повелев толпе возлечь на земле,
+      ungerov: ""
+      csya_old: И# повелЁ наро1дwмъ возлещи2 на земли2,
+      sovr_rbo: ""
+      latin: Et praecepit turbae ut discumberent super terram.
+      ukr: І Він ізвелів на землі посідати народові.
+      nkjv: So He commanded the multitude to sit down on the ground.
+      desnitsky: ""
+      tex_rec: καὶ παραγγείλας τῷ ὄχλῳ ἀναπεσεῖν ἐπὶ τὴν γῆν
+      deutsch: Und er hieß das Volk sich lagern auf die Erde
+      spanish: Y mandando a la muchedumbre que se recostara en tierra,
+      peshitta: ܘܰܦ݂ܩܰܕ݂ ܠܟ݂ܶܢܫܶܐ ܕ݁ܢܶܣܬ݁ܰܡܟ݁ܽܘܢ ܥܰܠ ܐܰܪܥܳܐ܂
+      bel_syomukha: І загадаў людзям узьлегчы на зямлю.
+      nrt: Иисус велел людям возлечь на землю.
+      romana: Si poruncind multimii sa sada jos pe pamant,
+      francais: Alors il fit asseoir la foule par terre,
+      italian: Dopo aver ordinato alla folla di sedersi per terra,
+      old_georgian: და უბრძანა ერსა მას დასხდომაჲ ქუეყანასა ზედა.
+      portuguese: E tendo ele ordenado ao povo que se sentasse no chão,
+      polish: Polecił ludowi usiąść na ziemi;
+      pobedonostsev: Тогда велел народу возлечь на землю,
+      new_text: Иисус, велев народу сесть на землю,
+      serbian: И заповједи народу да посједају по земљи.
+      bulgarian: Тогава заповяда народу да насяда на земята.
+      Lutkovsky: И вот, повелев народу сесть на землю,
+      bel_boc: І загадаў людзям узлегчы на зямлю.
+      ukr2: Тоді він звелів людям сісти на землю,
+      ukr3: І звелїв народові посїдати на землї.
+      czech: I naridil zastupu usednout na zem;
+      st_text: Тогда велел народу возлечь на землю.
+  - id: 25265
+    number: 36
+    bookId: 51
+    text: И, взяв семь хлебов и рыбы, воздал благодарение, преломил и дал ученикам
+      Своим, а ученики народу.
+    chapter: 15
+    chapterId: 1127
+    parallels: []
+    translates:
+      kassian: взял эти семь хлебов и эти рыбы и, воздав благодарение, преломил и
+        давал ученикам, а ученики - народу.
+      podstr: Он взял семь хлебов и рыбу и поблагодаривший разломил и давал ученикам,
+        же ученики толпам.
+      csya: и приемь седмь хлебы и рыбы, хвалу воздав преломи и даде учеником своим,
+        ученицы же народом.
+      averincev: взял в руки семь хлебов и рыбы, произнес благодарение, преломил и дал
+        ученикам, а ученики - народу;
+      ungerov: ""
+      csya_old: и3 пріе1мь се1дмь хлёбы и3 ры6бы, хвалY воздaвъ преломи2 и3 даде2
+        ўчн7кHмъ свои6мъ, ўчн7цы1 же наро1дwмъ.
+      sovr_rbo: ""
+      latin: Et accipiens septem panes, et pisces, et gratias agens, fregit, et dedit
+        discipulis suis, et discipuli dederunt populo.
+      ukr: І, взявши сім хлібів і риби, віддавши Богу подяку, поламав і дав учням
+        Своїм, а учні народові.
+      nkjv: And He took the seven loaves and the fish and gave thanks, broke them and
+        gave them to His disciples; and the disciples gave to the multitude.
+      desnitsky: ""
+      tex_rec: ἔλαβεν τοὺς ἑπτὰ ἄρτους καὶ τοὺς ἰχθύας καὶ εὐχαριστήσας ἔκλασεν καὶ
+        ἐδίδου τοῖς μαθηταῖς, οἱ δὲ μαθηταὶ τοῖς ὄχλοις.
+      deutsch: und nahm die sieben Brote und die Fische, dankte, brach sie und gab sie
+        seinen Jüngern; und die Jünger gaben sie dem Volk.
+      spanish: tomó los siete panes y los peces, y dando gracias, los partió y se los
+        dio a los discípulos, y éstos a la muchedumbre.
+      peshitta: ܘܰܫܩܰܠ ܠܗܳܠܶܝܢ ܫܰܒ݂ܥܳܐ ܠܰܚܡܺܝܢ ܘܰܠܢܽܘܢܶܐ ܘܫܰܒ݁ܰܚ ܘܰܩܨܳܐ ܘܝܰܗ݈ܒ݂
+        ܠܬ݂ܰܠܡܺܝܕ݂ܰܘܗ݈ܝ ܘܬ݂ܰܠܡܺܝܕ݂ܶܐ ܝܰܗ݈ܒ݂ܘ ܠܟ݂ܶܢܫܶܐ܂
+      bel_syomukha: І, узяўшы сем хлябоў і рыбы, узьнёс падзяку, пераламаў і даў
+        вучням Сваім, а вучні - людзям.
+      nrt: Затем Он взял семь хлебов и рыбу, и, поблагодарив за них Бога, стал
+        разламывать на куски, передавая ученикам, а те, в свою очередь, –
+        народу.
+      romana: A luat cele sapte paini si pesti si, multumind, a frant si a dat
+        ucenicilor, iar ucenicii multimilor.
+      francais: prit les sept pains et les poissons, et, après avoir rendu grâces, il
+        les rompit et les donna à ses disciples, qui les distribuèrent à la
+        foule.
+      italian: Gesù prese i sette pani e i pesci, rese grazie, li spezzò, li dava ai
+        discepoli, e i discepoli li distribuivano alla folla.
+      old_georgian: და მოიღო შჳდი იგი პური და თევზნი, ჰმადლობდა, განტეხა და მისცემდა
+        მოწაფეთა, და მოწაფენი მისცემდეს ერსა მას.
+      portuguese: "tomou os sete pães e os peixes, e havendo dado graças, partiu-os, e
+        os entregava aos discípulos, e os\rdiscípulos á multidão."
+      polish: "wziął siedem chlebów i ryby, i odmówiwszy dziękczynienie, połamał,
+        dawał\ruczniom, uczniowie zaś tłumom."
+      pobedonostsev: и, прияв семь хлебов и рыбы, хвалу воздав, преломил и подал
+        ученикам Своим, ученики же народу.
+      new_text: взял семь хлебов и рыбу, произнес благодарственную молитву, разломил и
+        стал раздавать ученикам, а ученики — народу.
+      serbian: И узевши оних седам хљебова и рибе, и заблагодаривши, преломи и даде
+        ученицима својим, а ученици народу.
+      bulgarian: И като взе седемте хляба и рибите, възблагодари, разчупи и даде на
+        учениците Си, а учениците - на народа.
+      Lutkovsky: "Он взял эти семь хлебов и рыбу \rи, воздав благодарение Богу,
+        \rпреломил их и дал ученикам Своим, \rа ученики - людям."
+      bel_boc: "I, узяўшы сем хлябоў і рыбы,\rузнёс падзяку,\rпераламаў і даў вучням
+        Сваім,\rа вучні — людзям."
+      ukr2: взяв сім хлібів та рибу, воздав хвалу, поламав і заходився давати учням, а
+        ті людям.
+      ukr3: І, взявши сїм хлїбів та рибу, оддав хвалу, ламав і давав ученикам своїм, а
+        ученики народові.
+      czech: potom vzal tech sedm chlebu i ryby, vzdal diky, lamal a daval ucednikum a
+        ucednici zastupum.
+      st_text: И, взяв семь хлебов и рыбы, воздал благодарение, преломил и дал
+        ученикам Своим, а ученики народу.
+  - id: 25266
+    number: 37
+    bookId: 51
+    text: И ели все и насытились; и набрали оставшихся кусков семь корзин полных,
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 9251
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 4
+        short: 4 Цар:4:44
+    translates:
+      kassian: И ели все, и насытились; и остававшихся кусков собрали семь корзин
+        полных.
+      podstr: И они поели все и насытились, и остающихся кусков взяли, семь корзин
+        полных.
+      csya: "И ядоша вси и насытишася: и взяша избытки укрух, седмь кошниц исполнь:"
+      averincev: и все ели, и насытились, и набрали оставшихся кусков полные семь корзин.
+      ungerov: ""
+      csya_old: "И# kдо1ша вси2 и3 насы1тишасz: и3 взsша и3збы1тки ўкр{хъ, се1дмь
+        ко1шницъ и3спо1лнь:"
+      sovr_rbo: ""
+      latin: Et comederunt omnes, et saturati sunt. Et quod superfuit de fragmentis,
+        tulerunt septem sportas plenas.
+      ukr: І всі їли й наситилися, а з позосталих кусків назбирали сім кошиків
+        повних...
+      nkjv: So they all ate and were filled, and they took up seven large baskets full
+        of the fragments that were left.
+      desnitsky: ""
+      tex_rec: καὶ ἔφαγον πάντες καὶ ἐχορτάσθησαν, καὶ τὸ περισσεῦον τῶν κλασμάτων
+        ἦραν, ἑπτὰ σπυρίδας πλήρεις.
+      deutsch: Und sie aßen alle und wurden satt; und hoben auf, was übrig blieb von
+        Brocken, sieben Körbe voll.
+      spanish: Y comieron todos y se saciaron, y se recogieron de los pedazos que
+        quedaron siete espuertas llenas.
+      peshitta: ܘܶܐܟ݂ܰܠܘ ܟ݁ܽܠܗܽܘܢ ܘܰܣܒ݂ܰܥܘ ܘܰܫܩܰܠܘ ܬ݁ܰܘܬ݁ܳܪܶܐ ܕ݁ܰܩܨܳܝܶܐ ܡܠܶܐ ܫܰܒ݂ܥܳܐ
+        ܐܶܣܦ݁ܪܺܝܕ݂ܺܝܢ܂
+      bel_syomukha: І елі ўсе, і наеліся; і набралі рэшты кавалкаў сем кашоў поўных;
+      nrt: Все ели и насытились, и еще набралось семь полных корзин остатков.
+      romana: Si au mancat toti si s-au saturat si au luat sapte cosuri pline, cu
+        ramasite de faramituri.
+      francais: Tous mangèrent et furent rassasiés, et l'on emporta sept corbeilles
+        pleines des morceaux qui restaient.
+      italian: Tutti mangiarono e furono saziati. Dei pezzi avanzati portarono via
+        sette sporte piene.
+      old_georgian: ჭამეს ყოველთა და განძღეს; და აღიღეს ნეშტი იგი ნამუსრევი შჳდი
+        სფჳრიდი სავსე.
+      portuguese: Assim todos comeram, e se fartaram; e do que sobejou dos pedaços
+        levantaram sete alcofas cheias.
+      polish: Jedli wszyscy do sytości, a pozostałych ułomków zebrano jeszcze siedem
+        pełnych koszów.
+      pobedonostsev: И ели все и насытились; и набрали остальных кусков семь кошниц полных;
+      new_text: И все ели, насытились и еще набрали семь полных корзин оставшихся кусков.
+      serbian: И једоше сви и наситише се; и накупише комада што претече седам
+        котарица пуних.
+      bulgarian: И ядоха всички и се наситиха; и дигнаха останали къшеи седем пълни
+        кошници.
+      Lutkovsky: "И все ели, \rи насытились; \rоставшихся же кусков собрали полных
+        семь корзин,"
+      bel_boc: "І елі ўсе, і наеліся;\rі набралі рэшты кавалкаў сем кашоў поўных;"
+      ukr2: Усі їли до наситу й назбирали куснів, що зосталися, сім повних кошів.
+      ukr3: І їли всї, й понаїдались; і назбирали останків ламаного сїм повних кошів.
+      czech: I jedli vsichni a nasytili se; a zbylych nalamanych chlebu sebrali jeste
+        sedm plnych kosu.
+      st_text: И ели все и насытились; и набрали оставшихся кусков семь корзин полных,
+  - id: 25267
+    number: 38
+    bookId: 51
+    text: а евших было четыре тысячи человек, кроме женщин и детей.
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 23529
+        bookId: 3
+        bookCode: levit
+        chapter: 26
+        short: Лев:26:26
+    translates:
+      kassian: Евших же было четыре тысячи мужчин, кроме женщин и детей.
+      podstr: Же едящих было четыре тысячи мужей без женщин и детей.
+      csya: ядших же бяше четыре тысящы мужей, разве жен и детей.
+      averincev: А едоков было четыре тысячи, не считая женщин и детей.
+      ungerov: ""
+      csya_old: ћдшихъ же бsше четы1ре ты1сzщы муже1й, рaзвэ же1нъ и3 дэте1й.
+      sovr_rbo: ""
+      latin: Erant autem qui manducaverunt quatuor millia hominum, extra parvulos et
+        mulieres.
+      ukr: Їдців же було чотири тисячі мужа, окрім жінок та дітей.
+      nkjv: Now those who ate were four thousand men, besides women and children.
+      desnitsky: ""
+      tex_rec: οἱ δὲ ἐσθίοντες ἦσαν τετρακισχίλιοι ἄνδρες χωρὶς γυναικῶν καὶ παιδίων.
+      deutsch: Und die da gegessen hatten, derer waren viertausend Mann, ausgenommen
+        Weiber und Kinder.
+      spanish: Los que comieron eran cuatro mil hombres, sin contar las mujeres y los
+        niños.
+      peshitta: ܗܳܢܽܘܢ ܕ݁ܶܝܢ ܕ݁ܶܐܟ݂ܰܠܘ ܗܳܘܶܝܢ ܗ݈ܘܰܘ ܐܰܪܒ݁ܥܳܐ ܐܰܠܦ݂ܺܝܢ ܓ݁ܰܒ݂ܪܶܐ ܣܛܰܪ
+        ܡܶܢ ܢܶܫܶܐ ܘܰܛܠܳܝܶܐ܂
+      bel_syomukha: А тых, што елі, было чатыры тысячы чалавек, акрамя жанчын і дзяцей.
+      nrt: Всего ело четыре тысячи одних только мужчин, не считая женщин и детей.
+      romana: Iar cei ce au mancat erau ca la patru mii de barbati, afara de copii si
+        de femei.
+      francais: Ceux qui avaient mangé étaient quatre mille hommes, sans les femmes et
+        les enfants.
+      italian: Quelli che avevano mangiato erano quattromila uomini, senza contare le
+        donne e i bambini.
+      old_georgian: ხოლო რომელთა-იგი ჭამეს, იყვნეს ოთხ ათას მამანი ხოლო, თჳნიერ
+        ყრმებისა და დედებისა.
+      portuguese: Ora, os que tinham comido eram quatro mil homens além de mulheres e
+        crianças.
+      polish: Tych zaś, którzy jedli, było cztery tysiące mężczyzn, nie licząc kobiet
+        i dzieci.
+      pobedonostsev: евших же было четыре тысячи мужей, кроме жен и детей.
+      new_text: А едоков было четыре тысячи человек, не считая женщин и детей.
+      serbian: А оних што су јели бијаше четири хиљаде људи, осим жена и дјеце.
+      bulgarian: А ония, които ядоха, бяха четири хиляди души, освен жени и деца.
+      Lutkovsky: "а тех, кто ел, было около четырех тысяч человек, \rне считая женщин
+        и детей."
+      bel_boc: "А тых, што елі, было чатыры тысячы чалавек,\rакрамя жанчын і дзяцей."
+      ukr2: Тих же, що їли, було яких чотири тисячі чоловік, окрім жінок та дітей.
+      ukr3: А тих, що їли, було чотири тисячі чоловіка, опріч жінок та дїтей.
+      czech: Tech, kteri jedli, bylo ctyri tisice muzu krome zen a deti.
+      st_text: а евших было четыре тысячи человек, кроме женщин и детей.
+  - id: 25268
+    number: 39
+    bookId: 51
+    text: И, отпустив народ, Он вошел в лодку и прибыл в пределы Магдалинские.
+    chapter: 15
+    chapterId: 1127
+    parallels:
+      - verseId: 26764
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 8
+        short: Мк:8:10
+    translates:
+      kassian: И отпустив народ, Он вошел в лодку и прибыл в область Магаданскую.
+      podstr: И отпустивший толпы взошёл в лодку, и пришёл в пределы Магадан.
+      csya: И отпустив народы, влезе в корабль и прииде в пределы магдалински.
+      averincev: И отпустив народ, вошел он в лодку и отплыл к пределам Магадана.
+      ungerov: ""
+      csya_old: И# tпусти1въ наро1ды, влёзе въ корaбль и3 пріи1де въ предёлы
+        магдали6нски.
+      sovr_rbo: ""
+      latin: "Et, dimissa turba, ascendit in naviculam: et venit in fines Magedan."
+      ukr: І, відпустивши народ, усів Він до човна, і прибув до землі Магдалинської.
+      nkjv: And He sent away the multitude, got into the boat, and came to the region
+        of Magdala.
+      desnitsky: ""
+      tex_rec: Καὶ ἀπολύσας τοὺς ὄχλους ἐνέβη εἰς τὸ πλοῖον, καὶ ἦλθεν εἰς τὰ ὅρια
+        Μαγαδάν.
+      deutsch: Und da er das Volk hatte von sich gelassen, trat er in ein Schiff und
+        kam in das Gebiet Magdalas.
+      spanish: Y despidiendo a la muchedumbre, subió a la barca y vino a los confines
+        de Magadán.
+      peshitta: ܘܟ݂ܰܕ݂ ܫܪܳܐ ܠܟ݂ܶܢܫܶܐ ܣܠܶܩ ܠܶܐܠܦ݂ܳܐ ܘܶܐܬ݂ܳܐ ܠܰܬ݂ܚܽܘܡܳܐ ܕ݁ܡܰܓ݂ܕ݁ܽܘ܂
+      bel_syomukha: І адпусьціўшы народ, Ён увайшоў у лодку і прыбыў у межы Магдалінскія.
+      nrt: Отпустив народ, Иисус сел в лодку и отправился в окрестности Магадана.
+      romana: Dupa aceea a dat drumul multimilor, S-a suit in corabie si S-a dus in
+        tinutul Magdala.
+      francais: Ensuite, il renvoya la foule, monta dans la barque, et se rendit dans
+        la contrée de Magadan.
+      italian: Congedata la folla, Gesù salì sulla barca e andò nella regione di
+        Magadàn.
+      old_georgian: და განუტევა ერი იგი და აღვიდა იესუ ნავსა და მოვიდა საზღვართა
+        მაგდალოჲსათა.
+      portuguese: E havendo Jesus despedido a multidão, entrou no barco, e foi para os
+        confins de Magadã.
+      polish: Potem odprawił tłumy, wsiadł do łodzi i przybył w granice Magedan.
+      pobedonostsev: И отпустив народ, вошел в корабль и пришел в пределы Магдалинские.
+      new_text: Отпустив народ, Иисус сел в лодку и отправился в окрестности Магадана.
+      serbian: И отпустивши народ, уђе у лађу и дође у крајеве магдалске.
+      bulgarian: И като разпусна народа, влезе в кораба и пристигна в пределите
+        Магдалински.
+      Lutkovsky: "И, отпустив народ, \r
+
+        Он сел в лодку и отправился в пределы Магадала."
+      bel_boc: "І адпусціўшы народ, Ён увайшоў у лодку\r
+
+        і прыбыў у межы Магдалінскія."
+      ukr2: І відпустивши народ, Ісус сів до човна і прибув у сторони Магадану.
+      ukr3: І, відпустивши народ, увійшов у човен, та й прибув у границї Магдалські.
+      czech: Potom propustil zastupy, vstoupil na lod a priplul na uzemi Magadan.
+      st_text: И, отпустив народ, Он вошел в лодку и прибыл в пределы Магдалинские.
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""

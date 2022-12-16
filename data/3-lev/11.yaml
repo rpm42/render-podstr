@@ -1,0 +1,3478 @@
+id: 101
+number: 11
+bookId: 3
+verseCount: 47
+title: Глава 11
+verses:
+  - id: 22962
+    number: 1
+    bookId: 3
+    text: "И сказал Господь Моисею и Аарону, говоря им:"
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "И сказал Господь к Моисею и Аарону говоря:"
+      csya: "И рече Господь к моисею и аарону, глаголя:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 гDь къ мwmсе1ю и3 ґарHну, гlz:"
+      sovr_rbo: "Господь сказал Моисею и Аарону:"
+      latin: "Locutusque est Dominus ad Moysen et Aaron, dicens:"
+      ukr: "І Господь промовляв до Мойсея та до Аарона, говорячи їм:"
+      nkjv: Now the Lord spoke to Moses and Aaron, saying to them,
+      desnitsky: ""
+      mt: ‫   וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה וְאֶל־אַהֲרֹן לֵאמֹר אֲלֵהֶם׃ ‬
+      romana: "In vremea aceea a grait Domnul cu Moise si cu Aaron si a zis:"
+      francais: "L'Éternel parla à Moïse et à Aaron, et leur dit:"
+      italian: "Il Signore disse a Mosè e ad Aronne:"
+      old_georgian: "და ეტყოდა უფალი მოსეს და აჰრონს და ჰრქუა:"
+      portuguese: "Falou o Senhor a Moisés e a Arão, dizendo-lhes:"
+      polish: "Następnie Pan powiedział do Mojżesza i Aarona:"
+      turkish: "RAB Musa'yla Harun'a şöyle dedi:"
+      nrt: "Господь сказал Моисею и Аарону:"
+      Macarius: "И говорил Господь Моисею и Аарону, и сказал им:"
+      bulgarian: "Говори още Господ на Моисея и Аарона, като им каза:"
+      deutsch: "Und der Herr redete mit Mose und Aaron und sprach zu ihnen:"
+      ukr2: "І Господь сказав Мойсеєві та Аронові, кажучи їм:"
+      ukr3: "І рече Господь Мойсейові й Аронові:"
+      bel_syomukha: "І сказаў Гасподзь Майсею і Аарону, кажучы ім:"
+      spbda: "И сказал Господь Моисею и Аарону, говоря им:"
+      lev-khv: "И сказал Господь Моисею и Аарону, говоря им:"
+      czech: "Hospodin promluvil k Mojzisovi a Aronovi a rekl jim:"
+      spanish: "Yavé habló a Moisés y Arón, diciendo:"
+      greek-lxx: καὶ ἐλάλησεν Κύριος πρὸς Μωυσῆν καὶ Ααρων λέγων
+      st_text: "И сказал Господь Моисею и Аарону, говоря им:"
+  - id: 22963
+    number: 2
+    bookId: 3
+    text: "скажите сынам Израилевым: вот животные, которые можно вам есть из всего
+      скота на земле:"
+    chapter: 11
+    chapterId: 101
+    parallels:
+      - verseId: 36091
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 14
+        short: Втор:14:4
+      - verseId: 14844
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 9
+        short: Евр:9:10
+    translates:
+      kassian: ""
+      podstr: "Скажите сыновьям Израиля говорящие: Эти домашние животные, которые
+        будете есть из всего скота на земле;"
+      csya: "рцыте сыном израилевым, глаголюще: сии скоти, ихже имате ясти от всех
+        скотов, иже на земли:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "рцы1те сынHмъ ї}лєвымъ, глаго1люще: сjи ско1ти, и5хже и4мате ћсти t
+        всёхъ скотHвъ, и5же на земли2:"
+      sovr_rbo: "«Возвестите сынам Израилевым: вот животные, которых вы можете есть .
+        Из крупных животных, обитающих на земле,"
+      latin: "Dicite filiis Israel: Haec sunt animalia quae comedere debetis de
+        cunctis animantibus terrae:"
+      ukr: "Промовляйте до Ізраїлевих синів, кажучи: Оце та звірина, що будете їсти зо
+        всієї худоби, що на землі:"
+      nkjv: "\"Speak to the children of Israel, saying, 'These are the animals which
+        you may eat among all the animals that are on the earth: "
+      desnitsky: ""
+      mt: ‫   דַּבְּרוּ אֶל־בְּנֵי יִשְׂרָאֵל לֵאמֹר זֹאת הַחַיָּה אֲשֶׁר תֹּאכְלוּ
+        מִכָּל־הַבְּהֵמָה אֲשֶׁר עַל־הָאָרֶץ׃ ‬
+      romana: '"Graiti fiilor lui Israel si le ziceti: Iata animalele pe care le
+        puteti manca din toate dobitoacele de pe pamant:'
+      francais: "Parlez aux enfants d'Israël, et dites: Voici les animaux dont vous
+        mangerez parmi toutes les bêtes qui sont sur la terre."
+      italian: '"Riferite agli Israeliti: Questi sono gli animali che potrete mangiare
+        fra tutte le bestie che sono sulla terra.'
+      old_georgian: "ეტყოდეთ ძეთა ისრაჱლისათა და არქუ მათ: ესე არიან საცხოვარნი,
+        რომელსა ჰჭამდეთ ყოველთაგან საცხოვართა ქუეყანისათა:"
+      portuguese: "Dizei aos filhos de Israel: Estes são os animais que podereis comer
+        dentre todos os animais que há sobre a terra:"
+      polish: "”Tak mówcie do Izraelitów: Oto zwierzęta, które będziecie jeść spośród
+        wszystkich zwierząt, które są na ziemi:"
+      turkish: "«İsrail halkına deyin ki, `Karada yaşayan hayvanlardan şunların etini
+        yiyebilirsiniz:"
+      nrt: "– Скажите израильтянам: «Вот животные, живущие на земле, которых вы можете
+        есть."
+      Macarius: "Скажите сынам Израилевым: вот животные, которые можно вам есть из
+        всего скота на земле:"
+      bulgarian: "кажете на синовете Израилеви: ето кои животни бива да ядете измежду
+        всичкия добитък по земята:"
+      deutsch: "Redet mit den Kindern Israel und sprecht: Das sind die Tiere, die ihr
+        essen sollt unter allen Tieren auf Erden."
+      ukr2: "«Скажіть синам Ізраїля таке: Ось тварини, яких можна вам їсти з усіх
+        чотириногих, що на землі:"
+      ukr3: "Промовте до синів Ізрайлевих і скажіть їм: Оце така скотина, що можна вам
+        їсти з усьої скотини, що є на землї:"
+      bel_syomukha: "скажэце сынам Ізраілевым: вось жывёлы, якіх можна вам есьці з
+        усяго быдла на зямлі:"
+      spbda: "Скажите сынам Израилевым: вот животныя, которыя можно вам есть из всех
+        скотов на земле:"
+      lev-khv: "Скажите сынам Израилевым так: вот животныя, которыя можно вам есть из
+        всех скотов на земле:"
+      czech: "„Mluvte k Izraelcum: Ze vsech zvirat na zemi smite jist tyto zivocichy:"
+      spanish: "<<Hablad a los hijos de Israel y decidles: He aquí los animales que
+        comeréis entre las bestias de la tierra."
+      greek-lxx: λαλήσατε τοῖς υἱοῖς Ισραηλ λέγοντες ταῦτα τὰ κτήνη ἃ φάγεσθε ἀπὸ
+        πάντων τῶν κτηνῶν τῶν ἐπὶ τῆς γῆς
+      st_text: "скажите сынам Израилевым: вот животные, которые можно вам есть из
+        всего скота на земле:"
+  - id: 22964
+    number: 3
+    bookId: 3
+    text: всякий скот, у которого раздвоены копыта и на копытах глубокий разрез, и
+      который жует жвачку, ешьте;
+    chapter: 11
+    chapterId: 101
+    parallels:
+      - verseId: 9688
+        bookId: 1
+        bookCode: bytie
+        chapter: 1
+        short: Быт:1:30
+      - verseId: 32929
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 14
+        short: Рим:14:14
+    translates:
+      kassian: ""
+      podstr: всякое животное [с] раздвоенным копытом и разрезанными надвое двумя
+        копытами и отрыгивающие жвачку среди животных, этих будете есть.
+      csya: "всяк скот раздвояющь копыто и пазнокти имеющь на двое, и отрыгаяй жвание
+        в скотех, сия да ясте:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "всsкъ ско1тъ раздвоsющь копы1то и3 пaзнwкти и3мёющь на дво1е, и3
+        tрыгazй жвaніе въ скотёхъ, сі‰ да ћсте:"
+      sovr_rbo: вы можете есть всех копытных, у которых копыто раздвоено и которые
+        жуют жвачку.
+      latin: omne quod habet divisam ungulam, et ruminat in pecoribus, comedetis.
+      ukr: Кожну з худоби, що має розділені копита, і що має копита роздвоєні
+        розривом, що жує жуйку, її будете їсти.
+      nkjv: Among the animals, whatever divides the hoof, having cloven hooves and
+        chewing the cud-that you may eat.
+      desnitsky: ""
+      mt: ‫   כֹּל מַפְרֶסֶת פַּרְסָה וְשֹׁסַעַת שֶׁסַע פְּרָסֹת מַעֲלַת גֵּרָה
+        בַּבְּהֵמָה אֹתָהּ תֹּאכֵלוּ׃ ‬
+      romana: Orice animal cu copita despicata, care are copita despartita in doua si
+        isi rumega mancarea, il puteti manca.
+      francais: Vous mangerez de tout animal qui a la corne fendue, le pied fourchu,
+        et qui rumine.
+      italian: Potrete mangiare d'ogni quadrupede che ha l'unghia bipartita, divisa da
+        una fessura, e che rumina.
+      old_georgian: ყოველსა საცხოვარსა, რომელსა განყოფილ იყოს ჭლაკი და ფრჩხილითა
+        ფრცხენდეს და აღმოიცოხნიდეს საცოხნელსა საცხოვართა შორის ესე ჭამეთ.
+      portuguese: "dentre os animais, todo o que tem a unha fendida, de sorte que se
+        divide em duas, o que rumina, esse podereis\rcomer."
+      polish: "Będziecie jedli każde zwierzę czworonożne, które ma rozdzielone kopyta,
+        to\rjest racice, i które przeżuwa."
+      turkish: Çatal ve yarık tırnaklı, geviş getiren hayvanların tümü.
+      nrt: Вы можете есть всякое животное, у которого раздвоенное копыто имеет
+        глубокий разрез и которое жует жвачку.
+      Macarius: Всякой скот, у которого раздвоены копыта и на копытах глубокий разрез
+        и который жует жвачку, ешьте.
+      bulgarian: яжте всеки добитък, който има раздвоени копита и на копитата - дълбок
+        разрез, и който преживя.
+      deutsch: Alles, was die Klauen spaltet und wiederkäut unter den Tieren, das
+        sollt ihr essen.
+      ukr2: всяке чотириноге з розщепленим копитом та з розколиною між ратицями, й що
+        реми-ґас, - можна вам його їсти.
+      ukr3: Усяку скотину, що в неї ратицї розколені і між ратицями розколина глибока
+        і вона ремигає, таку можна вам їсти.
+      bel_syomukha: усякае быдла, у якога расшчэпленыя капыты і на капытах глыбокі
+        разрэз, і якое жуе жуйку, ежце;
+      spbda: Всякой скот, у котораго раздвоены копыта и на копытах глубокой разрез, и
+        который жует жвачку, ешьте.
+      lev-khv: Всякий скот, у котораго раздвоены копыта и на копытах глубокий разрез,
+        и <i>который</i> жует жвачку, ешьте.
+      czech: Vsechno, co ma rozdelena kopyta tak, ze jsou kopyta rozpolcena uplne,
+        prezvykavce mezi zviraty, ty smite jist.
+      spanish: Todo animal de casco partido y pezuña hendida y que rumie, lo comeréis;
+      greek-lxx: πᾶν κτῆνος διχηλοῦν ὁπλὴν καὶ ὀνυχιστῆρας ὀνυχίζον δύο χηλῶν καὶ
+        ἀνάγον μηρυκισμὸν ἐν τοῖς κτήνεσιν ταῦτα φάγεσθε
+      st_text: всякий скот, у которого раздвоены копыта и на копытах глубокий разрез,
+        и который жует жвачку, ешьте;
+  - id: 22965
+    number: 4
+    bookId: 3
+    text: "только сих не ешьте из жующих жвачку и имеющих раздвоенные копыта:
+      верблюда, потому что он жует жвачку, но копыта у него не раздвоены, нечист
+      он для вас;"
+    chapter: 11
+    chapterId: 101
+    parallels:
+      - verseId: 23705
+        bookId: 3
+        bookCode: levit
+        chapter: 7
+        short: Лев:7:21
+      - verseId: 12487
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 1
+        short: Дан:1:8
+    translates:
+      kassian: ""
+      podstr: Однако из этих не будете есть; из отрыгивающих жвачку и из [с]
+        раздвоенными копытами и разрезанными надвое; верблюда, потому что
+        отрыгивает жвачку этот, копыто же не раздвоенное, нечистый этот вам;
+      csya: "токмо от сих да не снесте от отрыгающих жвание и от раздвояющих копыта и
+        делящих пазнокти: вельблюда, яко сей износит жвание, но пазноктей не
+        делит на двое, нечист сей вам:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "то1кмw t си1хъ да не снёсте t tрыгaющихъ жвaніе и3 t раздвоsющихъ
+        кwпы1та и3 дэлsщихъ пaзнwкти: вельблю1да, ћкw се1й и3зно1ситъ жвaніе, но
+        пaзноктей не дэли1тъ на дво1е, нечи1стъ се1й вaмъ:"
+      sovr_rbo: Из животных, жующих жвачку или имеющих копыта, не ешьте верблюда (хотя
+        он и жует жвачку, но копыт у него нет, и он нечист для вас),
+      latin: Quidquid autem ruminat quidem, et habet ungulam, sed non dividit eam,
+        sicut camelus et cetera, non comedetis illud, et inter immunda
+        reputabitis.
+      ukr: "Тільки цього не будете їсти з тих, що жують жуйку, і з тих, що мають
+        розділені копита: верблюда, бо він жує жуйку, та розділених копит не
+        має, нечистий він для вас."
+      nkjv: "Nevertheless these you shall not eat among those that chew the cud or
+        those that have cloven hooves: the camel, because it chews the cud but
+        does not have cloven hooves, is unclean to you;"
+      desnitsky: ""
+      mt: ‫   אַךְ אֶת־זֶה לֹא תֹאכְלוּ מִמַּעֲלֵי הַגֵּרָה וּמִמַּפְרִיסֵי הַפַּרְסָה
+        אֶת־הַגָּמָל כִּי־מַעֲלֵה גֵרָה הוּא וּפַרְסָה אֵינֶנּוּ מַפְרִיס טָמֵא
+        הוּא לָכֶם׃ ‬
+      romana: "Dar si din cele ce-si rumega mancarea, sau isi au copita despicata sau
+        impartita in doua, nu veti manca pe acestea: camila, pentru ca
+        aceasta-si rumega mancarea, dar copita n-o are despicata; aceasta e
+        necurata pentru voi."
+      francais: "Mais vous ne mangerez pas de ceux qui ruminent seulement, ou qui ont
+        la corne fendue seulement. Ainsi, vous ne mangerez pas le chameau, qui
+        rumine, mais qui n'a pas la corne fendue: vous le regarderez comme
+        impur."
+      italian: "Ma fra i ruminanti e gli animali che hanno l'unghia divisa, non
+        mangerete i seguenti: il cammello, perché rumina, ma non ha l'unghia
+        divisa, lo considererete immondo;"
+      old_georgian: "ხოლო მათგანი არა ჰჭამოთ, რომელნი არა აღმოიცოხნიან, და რომელთაჲ
+        არა განყოფილ არს ჭლაკი და რომელნი ფრცხენენ ფრცხილითა: აქლემი, რამეთუ
+        აღმოიცოხნის და ჭლაკი მისი არა განპებულ არს, არაწმიდაჲ არს ესე თქუენდა;"
+      portuguese: "Os seguintes, contudo, não comereis, dentre os que ruminam e dentre
+        os que têm a unha fendida: o camelo,\rporque rumina mas não tem a unha
+        fendida, esse vos será imundo;"
+      polish: "Ale [następujących zwierząt], mających rozdzielone kopyto i
+        przeżuwających\rnie będziecie jedli: wielbłąd, ponieważ przeżuwa, ale
+        nie ma rozdzielonego\rkopyta - będzie dla was nieczysty;"
+      turkish: "Ancak geviş getiren ve çatal tırnaklı olan hayvanlardan etini
+        yememeniz gerekenler şunlardır: Deve geviş getirir, ama çatal tırnaklı
+        değildir. Sizin için kirli sayılır."
+      nrt: "Есть животные, которые либо жуют жвачку, либо имеют раздвоенное копыто. Не
+        ешьте из них: верблюда, потому что он жует жвачку, но у него копыто не
+        раздвоено – он нечист для вас;"
+      Macarius: "Только сих не ешьте из жующих жвачку и имеющих раздвоенные копыта:
+        верблюда, потому что он жует жвачку, но копыта у него не раздвоены:
+        нечист он для вас;"
+      bulgarian: "Не яжте само тия от преживните и с раздвоени копита: камилата,
+        защото тя преживя, но копитата й не са раздвоени; тя е нечиста за вас;"
+      deutsch: Was aber wiederkäut und hat Klauen und spaltet sie doch nicht, wie das
+        Kamel, das ist euch unrein, und ihr sollt's nicht essen.
+      ukr2: "Однак з-поміж тих, що ремиґають або мають розколене копито, не можна вам
+        їсти: верблюда, хоч він ремиґає, але ратиці в нього нерозколені;
+        нечистий він вам буде;"
+      ukr3: "Ось яких тільки неможна вам їсти з тих, що ремигають, а ратицї в них
+        роздїлені: верблюда, дарма що ремигає, та ратицї у його нероздїлені;
+        нечистий він вам буде."
+      bel_syomukha: "толькі гэтых ня ежце з тых, што жуюць жуйку і маюць расшчэпленыя
+        капыты: вярблюда, бо ён жуе жуйку, але капыты ў яго не расшчэпленыя,
+        нячысты ён вам;"
+      spbda: "Только сих не ешьте из жующих жвачку и имеющих раздвоеныя копыта:
+        верблюда, потому что он жует жвачку, но копыта у него не раздвоены; не
+        чист он для вас;"
+      lev-khv: "Только сих не ешьте из жующих жвачку и имеющих раздвоенныя копыта:
+        верблюда, потому что он жует жвачку, но копыта у него не раздвоены:
+        нечист он для вас;"
+      czech: Ale z prezvykavcu a z tech, kdo maji rozdelena kopyta, nesmite jist
+        velblouda, ktery sice prezvykuje, ale nema rozdelena kopyta; bude pro
+        vas necisty;
+      spanish: pero no comeréis los que sólo rumian o sólo tienen partida la pezuña.
+        El camello, que rumia, pero que no tiene partida la pezuña, será inmundo
+        para vosotros;
+      greek-lxx: πλὴν ἀπὸ τούτων οὐ φάγεσθε ἀπὸ τῶν ἀναγόντων μηρυκισμὸν καὶ ἀπὸ τῶν
+        διχηλούντων τὰς ὁπλὰς καὶ ὀνυχιζόντων ὀνυχιστῆρας τὸν κάμηλον ὅτι ἀνάγει
+        μηρυκισμὸν τοῦτο ὁπλὴν δὲ οὐ διχηλεῖ ἀκάθαρτον τοῦτο ὑμῖν
+      st_text: "только сих не ешьте из жующих жвачку и имеющих раздвоенные копыта:
+        верблюда, потому что он жует жвачку, но копыта у него не раздвоены,
+        нечист он для вас;"
+  - id: 22966
+    number: 5
+    bookId: 3
+    text: и тушканчика, потому что он жует жвачку, но копыта у него не раздвоены,
+      нечист он для вас,
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и зайца, потому что отрыгивает жвачку этот, а копыто не раздвоенное,
+        нечистый этот вам;
+      csya: "и хирогриля, яко износит жвание, а пазноктей не делит, нечист сей вам:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 хірогрv1лz, ћкw и3зно1ситъ жвaніе, ґ пaзноктей не дэли1тъ,
+        нечи1стъ се1й вaмъ:"
+      sovr_rbo: дамана (хотя он и жует жвачку, но копыт у него нет, и он нечист для вас),
+      latin: Choerogryllus qui ruminat, ungulamque non dividit, immundus est.
+      ukr: І тушканчика, бо він жує жуйку, та не має розділених копит, нечистий він
+        для вас.
+      nkjv: the rock hyrax, because it chews the cud but does not have cloven hooves,
+        is unclean to you;
+      desnitsky: ""
+      mt: ‫   וְאֶת־הַשָּׁפָן כִּי־מַעֲלֵה גֵרָה הוּא וּפַרְסָה לֹא יַפְרִיס טָמֵא
+        הוּא לָכֶם׃ ‬
+      romana: Iepurele de casa isi rumega mancarea, dar laba n-o are despicata; acesta
+        este necurat pentru voi.
+      francais: "Vous ne mangerez pas le daman, qui rumine, mais qui n'a pas la corne
+        fendue: vous le regarderez comme impur."
+      italian: l'ìrace, perché rumina, ma non ha l'unghia divisa, lo considererete
+        immondo;
+      old_georgian: და ყურგდელი, რამეთუ აღმოიცოხნის და ჭლაკი არა განპებულ არს,
+        არაწმიდაჲ არს ესე თქუენდა;
+      portuguese: o querogrilo, porque rumina mas não tem a unha fendida, esse vos
+        será imundo;
+      polish: "świstak, ponieważ przeżuwa, ale nie ma rozdzielonego kopyta - będzie
+        dla was\rnieczysty;"
+      turkish: Kaya tavşanı geviş getirir, ama çatal tırnaklı değildir. Sizin için
+        kirli sayılır.
+      nrt: дамана, который жует жвачку, но у него нет раздвоенного копыта – он нечист
+        для вас;
+      Macarius: "И тушканчика, потому что он жует жвачку, но копыта у него не
+        раздвоены: нечист он для вас;"
+      bulgarian: скокливата мишка, защото преживя, но копитата й не са раздвоени; тя е
+        нечиста за вас;
+      deutsch: Die Kaninchen wiederkäuen wohl, aber sie spalten die Klauen nicht;
+        darum sind sie unrein.
+      ukr2: борсука, що хоч і ремиґає, та не має розколених ратичок; нечистий він вам
+        буде;
+      ukr3: І крілика, що хоч і ремигає, та немає копит роздїлених; нечистий він вам
+        буде;
+      bel_syomukha: і тушканчыка, бо ён жуе жуйку, але капыты ў яго не расшчэпленыя,
+        нячысты ён вам;
+      spbda: "И тушканчика, потому что он жует жвачку, но копыта у него не раздвоены:
+        нечист он для вас;"
+      lev-khv: "И тушканчика, потому что он жует жвачку, но копыта у него не
+        раздвоены: не чист он для вас:"
+      czech: damana, ktery take prezvykuje, ale nema rozdelena kopyta; bude pro vas
+        necisty;
+      spanish: el conejo, que rumia y no parte la pezuña, es inmundo;
+      greek-lxx: καὶ τὸν δασύποδα ὅτι ἀνάγει μηρυκισμὸν τοῦτο καὶ ὁπλὴν οὐ διχηλεῖ
+        ἀκάθαρτον τοῦτο ὑμῖν
+      st_text: и тушканчика, потому что он жует жвачку, но копыта у него не раздвоены,
+        нечист он для вас,
+  - id: 22967
+    number: 6
+    bookId: 3
+    text: и зайца, потому что он жует жвачку, но копыта у него не раздвоены, нечист
+      он для вас;
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и тушканчика, потому что отрыгивает жвачку этот, а копыто не
+        раздвоенное, нечистый этот вам;
+      csya: "и заяца, иже отрыгает жвание, но пазноктей не делит на двое, нечист сей
+        вам:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 зazца, и4же tрыгaетъ жвaніе, но пaзноктей не дэли1тъ на дво1е,
+        нечи1стъ се1й вaмъ:"
+      sovr_rbo: зайца (хотя он и жует жвачку, но нет у него копыт, и он нечист для вас)
+      latin: "Lepus quoque: nam et ipse ruminat, sed ungulam non dividit."
+      ukr: І зайця, бо він жує жуйку, та не має розділених копит, нечистий він для
+        вас.
+      nkjv: the hare, because it chews the cud but does not have cloven hooves, is
+        unclean to you;
+      desnitsky: ""
+      mt: ‫   וְאֶת־הָאַרְנֶבֶת כִּי־מַעֲלַת גֵּרָה הִוא וּפַרְסָה לֹא הִפְרִיסָה
+        טְמֵאָה הִוא לָכֶם׃ ‬
+      romana: Iepurele de camp isi rumega mancarea, dar laba n-o are despicata; acesta
+        este necurat pentru voi.
+      francais: "Vous ne mangerez pas le lièvre, qui rumine, mais qui n'a pas la corne
+        fendue: vous le regarderez comme impur."
+      italian: la lepre, perché rumina, ma non ha l'unghia divisa, la considererete
+        immonda;
+      old_georgian: და მაჩჳ, რამეთუ აღმოიცოხნის ესე და ჭლაკი არა განპებულ არს. არა არს
+        წმიდაჲ ესე თქუენდა;
+      portuguese: a lebre, porque rumina mas não tem a unha fendida, essa vos será imunda;
+      polish: "zając, ponieważ przeżuwa, ale nie ma rozdzielonego kopyta - będzie dla
+        was\rnieczysty;"
+      turkish: Tavşan geviş getirir, ama çatal tırnaklı değildir. Sizin için kirli
+        sayılır.
+      nrt: кролика, который жует жвачку, но у него нет раздвоенного копыта – он нечист
+        для вас.
+      Macarius: "И зайца, потому что он жует жвачку, но копыта у него не раздвоены:
+        нечист он для вас;"
+      bulgarian: заека, защото преживя, но копитата му не са раздвоени; той е нечист
+        за вас;
+      deutsch: Der Hase wiederkäut auch, aber er spaltet die Klauen nicht; darum ist
+        er euch unrein.
+      ukr2: зайця, бо хоч і ремиґає, та не має ратичок розділених, нечистий він вам
+        буде;
+      ukr3: І зайця, що ремигає, та немає ратиць роздїлених; нечисий він вам буде.
+      bel_syomukha: і зайца, бо ён жуе жуйку, але капыты ў яго не расшчэпленыя,
+        нячысты ён вам;
+      spbda: "И зайца, потому что он жует жвачку, но копыта у него не раздвоены:
+        нечист он для вас;"
+      lev-khv: "И зайца, потому что он жует жвачку, но копыта у него не раздвоены:
+        нечист он для вас;"
+      czech: zajice, ktery take prezvykuje, ale nema rozdelena kopyta; bude pro vas
+        necisty;
+      spanish: la liebre, que rumia y no parte la pezuña, es inmunda;
+      greek-lxx: καὶ τὸν χοιρογρύλλιον ὅτι ἀνάγει μηρυκισμὸν τοῦτο καὶ ὁπλὴν οὐ
+        διχηλεῖ ἀκάθαρτον τοῦτο ὑμῖν
+      st_text: и зайца, потому что он жует жвачку, но копыта у него не раздвоены,
+        нечист он для вас;
+  - id: 22968
+    number: 7
+    bookId: 3
+    text: и свиньи, потому что копыта у нее раздвоены и на копытах разрез глубокий,
+      но она не жует жвачки, нечиста она для вас;
+    chapter: 11
+    chapterId: 101
+    parallels:
+      - verseId: 36095
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 14
+        short: Втор:14:8
+      - verseId: 5694
+        bookId: 48
+        bookCode: 2a-kniga-makkavejskaa
+        chapter: 6
+        short: 2 Мак:6:18
+    translates:
+      kassian: ""
+      podstr: и свинью, потому что раздвоенное копыто этой и разрезанное надвое
+        копыто, а эта не отрыгивает жвачку, нечистая эта вам;
+      csya: "и свинии, яко делит пазнокти на двое и копыто раздвояет, но не отрыгает
+        жвания, нечиста сия вам:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 свиніи2, ћкw дэли1тъ пaзнwкти на дво1е и3 копы1то раздвоsетъ, но
+        не tрыгaетъ жвaніz, нечистA сіS вaмъ:"
+      sovr_rbo: и свинью (хотя это копытное животное и копыта у нее раздвоенные, но
+        она не жует жвачку, и она нечиста для вас).
+      latin: "Et sus: qui cum ungulam dividat, non ruminat."
+      ukr: І свині, бо вона має розділені ратиці, і має ратиці роздвоєні розривом, та
+        жуйки не жує, нечиста вона для вас.
+      nkjv: and the swine, though it divides the hoof, having cloven hooves, yet does
+        not chew the cud, is unclean to you.
+      desnitsky: ""
+      mt: ‫   וְאֶת־הַחֲזִיר כִּי־מַפְרִיס פַּרְסָה הוּא וְשֹׁסַע שֶׁסַע פַּרְסָה
+        וְהוּא גֵּרָה לֹא־יִגָּר טָמֵא הוּא לָכֶם׃ ‬
+      romana: Porcul are copita despicata si despartita in doua, dar nu rumega; acesta
+        este necurat pentru voi.
+      francais: "Vous ne mangerez pas le porc, qui a la corne fendue et le pied
+        fourchu, mais qui ne rumine pas: vous le regarderez comme impur."
+      italian: il porco, perché ha l'unghia bi — partita da una fessura, ma non
+        rumina, lo considererete immondo.
+      old_georgian: და ღორი, რამეთუ განპებულ არს ჭლაკი მისი და ფრცხენს ფრცხილითა
+        ჭლაკისაჲთა და ესე არა აღმოიცოხნის, არაწმიდაჲ არს თქუენდა;
+      portuguese: e o porco, porque tem a unha fendida, de sorte que se divide em
+        duas, mas não rumina, esse vos será imundo.
+      polish: "wieprz, ponieważ ma rozdzielone kopyto, ale nie przeżuwa - będzie dla
+        was\rnieczysty."
+      turkish: Domuz çatal ve yarık tırnaklıdır, ama geviş getirmez. Sizin için kirli
+        sayılır.
+      nrt: А свинья, хотя у нее копыто и раздвоено, и имеет глубокий разрез, не жует
+        жвачку – она нечиста для вас.
+      Macarius: "И свиньи, потому что копыта у ней раздвоены и на копытах разрез
+        глубокой, но она не жует жвачки: нечиста она для вас."
+      bulgarian: свинята, защото копитата й са раздвоени, и на копитата си има дълбок
+        разрез, но не преживя; тя е нечиста за вас.
+      deutsch: Und ein Schwein spaltet wohl die Klauen, aber es wiederkäut nicht;
+        darum soll's euch unrein sein.
+      ukr2: ані свині, хоч у неї ратиці розділені, та навіть має розщеплену стопу, бо
+        вона не ремиґає, тож нечиста вам буде.
+      ukr3: І свиню, що хоч у неї ратицї розколені та й зовсїм розколені ратицї, але
+        вона не ремигає; нечиста вона вам буде.
+      bel_syomukha: і сьвіньні, бо капыты ў яе расшчэпленыя і на капытах разрэз
+        глыбокі, але яна ня жуе жуйкі, нячыстая яна вам;
+      spbda: "И свиньи, потому что копыта у ней раздвоены и на копытах разрез
+        глубокой, но она не жует жвачки: нечиста она для вас."
+      lev-khv: "И свиньи, потому что копыта у ней раздвоены и на копытах разрез
+        глубокий, но она не жует жвачки: нечиста она для вас."
+      czech: vepre, ktery sice ma rozdelena kopyta tak, ze jsou uplne rozpolcena, ale
+        neprezvykuje; bude pro vas necisty.
+      spanish: el cerdo, que divide la pezuña y no rumia, es inmundo para vosotros.
+      greek-lxx: καὶ τὸν ὗν ὅτι διχηλεῖ ὁπλὴν τοῦτο καὶ ὀνυχίζει ὄνυχας ὁπλῆς καὶ
+        τοῦτο οὐκ ἀνάγει μηρυκισμόν ἀκάθαρτον τοῦτο ὑμῖν
+      st_text: и свиньи, потому что копыта у нее раздвоены и на копытах разрез
+        глубокий, но она не жует жвачки, нечиста она для вас;
+  - id: 22969
+    number: 8
+    bookId: 3
+    text: мяса их не ешьте и к трупам их не прикасайтесь; нечисты они для вас.
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: от мяса их не будете есть и трупов их не касайтесь, нечистые эти вам.
+      csya: от мяс их да не ясте и мертвечине их да не прикасаетеся, нечиста сия вам.
+      averincev: ""
+      ungerov: ""
+      csya_old: t мsсъ и4хъ да не ћсте и3 мертвечи1нэ и4хъ да не прикасaетесz,
+        нечи6ста сі‰ вaмъ.
+      sovr_rbo: Мясо их не ешьте, к их трупам не прикасайтесь; они нечисты для вас.
+      latin: Horum carnibus non vescemini, nec cadavera contingetis, quia immunda sunt
+        vobis.
+      ukr: Їхнього м'яса не будете їсти, а до їхнього падла не будете доторкатися,
+        нечисте воно для вас.
+      nkjv: Their flesh you shall not eat, and their carcasses you shall not touch.
+        They are unclean to you.
+      desnitsky: ""
+      mt: ‫   מִבְּשָׂרָם לֹא תֹאכֵלוּ וּבְנִבְלָתָם לֹא תִגָּעוּ טְמֵאִים הֵם לָכֶם׃
+        ‬
+      romana: Din carnea acestora sa nu mancati si de starvurile lor sa nu va
+        atingeti, ca acestea sunt necurate pentru voi.
+      francais: "Vous ne mangerez pas de leur chair, et vous ne toucherez pas leurs
+        corps morts: vous les regarderez comme impurs."
+      italian: Non mangerete la loro carne e non toccherete i loro cadaveri; li
+        considererete immondi.
+      old_georgian: ჴორცი მათი არა ჰჭამოთ და მძორსა მათსა არა შეეხნეთ, რამეთუ არაწმიდა
+        არიან ესენი თქუენ შორის.
+      portuguese: Da sua carne não comereis, nem tocareis nos seus cadáveres; esses
+        vos serão imundos.
+      polish: Nie będziecie jedli ich mięsa ani dotykali ich padliny - są one dla was
+        nieczyste.
+      turkish: Bu hayvanların etini yemeyecek, leşine dokunmayacaksınız, sizin için
+        kirlidir.
+      nrt: "Не ешьте их мясо и не прикасайтесь к их трупам: они нечисты для вас."
+      Macarius: "Мяса их не ешьте и к трупам их не прикасайтесь: нечисты они для вас."
+      bulgarian: Месото им не яжте и до труповете им не се допирайте; те са нечисти за
+        вас.
+      deutsch: Von dieser Fleisch sollt ihr nicht essen noch ihr Aas anrühren; denn
+        sie sind euch unrein.
+      ukr2: "М'яса їх не їстимете й падлини їх не доторкайтесь: вони для вас нечисті."
+      ukr3: Мясива їх не їсти мете, падалї ж їх не торкати метесь; нечисті вони вам
+        будуть.
+      bel_syomukha: мяса іх ня ежце і да трупаў іх не дакранайцеся, нячыстыя яны вам.
+      spbda: "Мяса их не ешьте и к трупам их не прикасайтесь: нечисты оне для вас."
+      lev-khv: "Мяса их не ешьте и к трупам их не прикасайтесь: нечисты оне для вас."
+      czech: Jejich maso nesmite jist, jejich zdechliny se nedotknete; budou pro vas
+        necisti.
+      spanish: No comeréis su carne ni tocaréis sus cadáveres; serán inmundos para
+        vosotros>>.
+      greek-lxx: ἀπὸ τῶν κρεῶν αὐτῶν οὐ φάγεσθε καὶ τῶν θνησιμαίων αὐτῶν οὐχ ἅψεσθε
+        ἀκάθαρτα ταῦτα ὑμῖν
+      st_text: мяса их не ешьте и к трупам их не прикасайтесь; нечисты они для вас.
+  - id: 22970
+    number: 9
+    bookId: 3
+    text: "Из всех <i>животных</i>, которые в воде, ешьте сих: у которых есть перья
+      и чешуя в воде, в морях ли, или реках, тех ешьте;"
+    chapter: 11
+    chapterId: 101
+    parallels:
+      - verseId: 36096
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 14
+        short: Втор:14:9
+    translates:
+      kassian: ""
+      podstr: И эти, которых будете есть из всех в водах; всех, сколькие есть [у] них
+        перья и чешуйки в водах и в морях и в потоках, этих будете есть.
+      csya: "И сия да ясте от всех, яже в водах: вся, имже суть перия и чешуя в водах,
+        и в морях и в езерах, сия да ясте:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# сі‰ да ћсте t всёхъ, ±же въ водaхъ: вс‰, и5мже сyть пе1ріе и3
+        чешуS въ водaхъ, и3 въ морsхъ и3 въ є3зе1рахъ, сі‰ да ћсте:"
+      sovr_rbo: Из животных, живущих в воде, — из всех существ, что населяют воды
+        морей и рек, — ешьте тех, у кого есть плавники и чешуя.
+      latin: "Haec sunt quae gignuntur in aquis, et vesci licitum est: omne quod habet
+        pinnulas et squamas, tam in mari quam in fluminibus et stagnis,
+        comedetis."
+      ukr: "Оце будете їсти зо всього, що в воді: усе, що має плавці та луску в воді,
+        у морях та в річках, їх будете їсти."
+      nkjv: "'These you may eat of all that are in the water: whatever in the water
+        has fins and scales, whether in the seas or in the rivers-that you may
+        eat. "
+      desnitsky: ""
+      mt: ‫   אֶת־זֶה תֹּאכְלוּ מִכֹּל אֲשֶׁר בַּמָּיִם כֹּל אֲשֶׁר־לוֹ סְנַפִּיר
+        וְקַשְׂקֶשֶׂת בַּמַּיִם בַּיַּמִּים וּבַנְּחָלִים אֹתָם תֹּאכֵלוּ׃ ‬
+      romana: "Din toate vietuitoarele, care sunt in apa, veti manca pe acestea: toate
+        cate sunt in ape; in mari, in rauri si in balti, si au aripi si solzi,
+        pe acelea sa le mancati."
+      francais: Voici les animaux dont vous mangerez parmi tous ceux qui sont dans les
+        eaux. Vous mangerez de tous ceux qui ont des nageoires et des écailles,
+        et qui sont dans les eaux, soit dans les mers, soit dans les rivières.
+      italian: Questi sono gli animali che potrete mangiare fra tutti quelli
+        acquatici. Potrete mangiare quanti hanno pinne e squame, sia nei mari,
+        sia nei fiumi.
+      old_georgian: "და ამათ ჭამდით ყოველთაგან, რომელნი არიან წყალთა შინა:"
+      portuguese: "Estes são os que podereis comer de todos os que há nas águas: todo
+        o que tem barbatanas e escamas, nas\ráguas, nos mares e nos rios, esse
+        podereis comer."
+      polish: "Będziecie jedli następujące istoty wodne: wszystkie istoty wodne, w
+        morzach\ri rzekach, które mają płetwy i łuski, będziecie jedli."
+      turkish: "«`Suda yaşayan hayvanlardan şunların etini yiyebilirsiniz: Denizde,
+        akarsularda yaşayan pullu ve yüzgeçli canlıların etini yiyebilirsiniz."
+      nrt: Из существ, живущих в воде – в морях и реках, вы можете есть тех, у которых
+        есть плавники и чешуя.
+      Macarius: "Из всех животных, которые в воде, ешьте сих: у которых есть перья и
+        чешуя в воде, в морях ли или реках, тех ешьте."
+      bulgarian: От всички животни, които са във водата, яжте тия, които имат перки и
+        люспи във водата, в моретата, или в реките; тях да ядете.
+      deutsch: "Dies sollt ihr essen unter dem, was in Wassern ist: alles, was
+        Floßfedern und Schuppen hat in Wassern, im Meer und in Bächen, sollt ihr
+        essen."
+      ukr2: "З усього ж, що в водах, те можна вам їсти: все, що має поплавці й луску;
+        чи воно буде в водах, чи в морях, чи в річках, це й їжте."
+      ukr3: "З усього ж, що в водах, можна вам їсти: все, що має сплавки і луску, що в
+        водах, у морях і в ріках, можна вам їсти;"
+      bel_syomukha: "З усіх жывёлаў, якія ў вадзе, ежце гэтых: у якіх ёсьць перэе і
+        луска ў вадзе, ці ў морах, ці ў рэках, тых ежце;"
+      spbda: "Из всех животных, которыя в воде, ешьте сих: всех, у которых есть перья
+        и чешуя в воде, в морях ли или реках, ешьте."
+      lev-khv: "Сих ешьте из всех <i>животных</i>, которыя в воде: всех, у которых
+        есть перья и чешуя в воде, в морях ли или реках, ешьте."
+      czech: "Ze vseho, co je ve vode, smite jist toto: Vsechno ve vodach, v morich a
+        potocich, co ma ploutve a supiny, smite jist."
+      spanish: "He aquí los animales que entre los acuáticos comeréis: todo cuanto
+        tiene aletas y escamas, tanto en el mar como en los ríos, lo comeréis;"
+      greek-lxx: καὶ ταῦτα ἃ φάγεσθε ἀπὸ πάντων τῶν ἐν τοῖς ὕδασιν πάντα ὅσα ἐστὶν
+        αὐτοῖς πτερύγια καὶ λεπίδες ἐν τοῖς ὕδασιν καὶ ἐν ταῖς θαλάσσαις καὶ ἐν
+        τοῖς χειμάρροις ταῦτα φάγεσθε
+      st_text: "Из всех <i>животных</i>, которые в воде, ешьте сих: у которых есть
+        перья и чешуя в воде, в морях ли, или реках, тех ешьте;"
+  - id: 22971
+    number: 10
+    bookId: 3
+    text: а все те, у которых нет перьев и чешуи, в морях ли, или реках, из всех
+      плавающих в водах и из всего живущего в водах, скверны для вас;
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: А все, сколькие не есть [на] них перья и не чешуйки в воде или в морях и
+        в потоках, из всех, которых извергают воды, и из всякой души живущей в
+        воде мерзость это есть;
+      csya: "и всем, имже несть перие ни чешуи в водах, и в морях и в езерах, от всех,
+        яже износят воды, и всяка душа живущая в воде, скверна есть, и скверна
+        да будут вам:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 всBмъ, и5мже нёсть пе1ріz ни чешуи2 въ водaхъ, и3 въ морsхъ и3 въ
+        є3зе1рахъ, t всёхъ, ±же и3зно1сzтъ во1ды, и3 всsка душA живyщаz въ водЁ,
+        скве1рна є4сть, и3 сквє1рна да бyдутъ вaмъ:"
+      sovr_rbo: А те, у кого нет плавников и чешуи, — существа морские и речные,
+        мелкие твари, снующие в воде, прочая водяная живность — это мерзость для
+        вас.
+      latin: Quidquid autem pinnulas et squamas non habet, eorum quae in aquis
+        moventur et vivunt, abominabile vobis,
+      ukr: А все, що не має плавців та луски в морях і в річках, зо всього, що роїться
+        в воді, і зо всього, що пливає в воді, гидота вони для вас!
+      nkjv: But all in the seas or in the rivers that do not have fins and scales, all
+        that move in the water or any living thing which is in the water, they
+        are an abomination to you.
+      desnitsky: ""
+      mt: ‫   וְכֹל אֲשֶׁר אֵין־לוֹ סְנַפִּיר וְקַשְׂקֶשֶׂת בַּיַּמִּים וּבַנְּחָלִים
+        מִכֹּל שֶׁרֶץ הַמַּיִם וּמִכֹּל נֶפֶשׁ הַחַיָּה אֲשֶׁר בַּמָּיִם שֶׁקֶץ
+        הֵם לָכֶם׃ ‬
+      romana: Iar toate cate sunt in ape, in mari, in rauri, si in balti, toate cele
+        ce misuna in ape, dar n-au aripi si solzi, spurcaciune sunt pentru voi.
+      francais: Mais vous aurez en abomination tous ceux qui n'ont pas des nageoires
+        et des écailles, parmi tout ce qui se meut dans les eaux et tout ce qui
+        est vivant dans les eaux, soit dans les mers, soit dans les rivières.
+      italian: Ma di tutti gli animali, che si muovono o vivono nelle acque, nei mari
+        e nei fiumi, quanti non hanno né pinne né squame, li terrete in
+        abominio.
+      old_georgian: ყოველსა, რომელსა არს მათ თანა ფრთე და ქეცი წყალთა შიდა, და ზღუათა
+        შინა და მდინარეთა, მას ჭამდით.
+      portuguese: "Mas todo o que não tem barbatanas, nem escamas, nos mares e nos
+        rios, todo réptil das águas, e todos os\ranimais que vivem nas águas,
+        estes vos serão abomináveis,"
+      polish: "Ale każda istota wodna, która nie ma płetw albo łusek w morzach i
+        rzekach\rspośród wszystkiego, co się roi w wodzie, i spośród wszystkich
+        zwierząt wodnych, będzie dla was obrzydliwością."
+      turkish: Denizdeki ve akarsulardaki bütün pulsuz ve yüzgeçsiz canlılar -suda
+        toplu halde yaşayanlar ve ötekiler- sizin için iğrenç sayılır.
+      nrt: Но теми существами из морей и рек, у которых нет плавников и чешуи, и
+        пресмыкающимися, и другой водяной живностью гнушайтесь.
+      Macarius: А все те, у которых нет перьев и чешуи, в морях ли или реках, из всех
+        плавающих в водах, и из всего живущего в водах, гнусны для вас.
+      bulgarian: Всички пък плаващи във водата и живеещи в нея, било в морета, било в
+        реки, които нямат перки и люспи, мръсни са за вас;
+      deutsch: Alles aber, was nicht Floßfedern und Schuppen hat im Meer und in
+        Bächen, unter allem, was sich regt in Wassern, und allem, was lebt im
+        Wasser, soll euch eine Scheu sein,
+      ukr2: А все, що не має поплавців і луски, чи то в морях, чи в річках, і все, що
+        кишить у водах, та й усяка водна тварина, буде вам гидотою.
+      ukr3: А все, що немає сплавок і луски в морях і ріках, усе, що кишить у водах, і
+        всяка животина, що в морю, вони будуть вам гидотою.
+      bel_syomukha: а ўсе тыя, у якіх няма перэя і лускі, ці ў морах, ці ў рэках, з
+        усіх, што плаваюць у водах і з усяго, што жыве ў водах, паганыя вам;
+      spbda: А все те, у которых нет перьев и чешуи, в морях ли или реках, из всех,
+        которые кишат в водах, и из всего живущаго в водах — мерзость для вас.
+      lev-khv: А все те, у которых нет перьев и чешуи, в морях ли или в реках, из
+        всех, которые кишат в водах, и из всего живущаго в водах, мерзость для
+        вас.
+      czech: Z veskere vodni haveti v morich a potocich, ze vsech zivocichu, kteri
+        jsou ve vodach, bude pro vas hodne opovrzeni vsechno, co nema ploutve
+        ani supiny.
+      spanish: pero abominaréis de cuanto no tiene aletas y escamas en el mar y en los
+        ríos, de entre los animales que se mueven en el agua y de entre todos
+        los vivientes que en ella hay.
+      greek-lxx: καὶ πάντα ὅσα οὐκ ἔστιν αὐτοῖς πτερύγια οὐδὲ λεπίδες ἐν τῷ ὕδατι ἢ ἐν
+        ταῖς θαλάσσαις καὶ ἐν τοῖς χειμάρροις ἀπὸ πάντων ὧν ἐρεύγεται τὰ ὕδατα
+        καὶ ἀπὸ πάσης ψυχῆς ζώσης τῆς ἐν τῷ ὕδατι βδέλυγμά ἐστιν
+      st_text: а все те, у которых нет перьев и чешуи, в морях ли, или реках, из всех
+        плавающих в водах и из всего живущего в водах, скверны для вас;
+  - id: 22972
+    number: 11
+    bookId: 3
+    text: "они должны быть скверны для вас: мяса их не ешьте и трупов их гнушайтесь;"
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и отвратительное они будут [для] вас, от мяса их не будете есть и трупы
+        их будут гнусны [для вас];
+      csya: "от мяс их да не ядите и мертвечины их гнушайтеся:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "t мsсъ и4хъ да не kди1те и3 мертвечи1ны и4хъ гнушaйтесz:"
+      sovr_rbo: "Это мерзость для вас: мясо их не ешьте, издохшими тварями гнушайтесь."
+      latin: "execrandumque erit: carnes eorum non comedetis, et morticina vitabitis."
+      ukr: І вони будуть гидота для вас, їхнього м'яса не будете їсти, а їхнього падла
+        будете бридитися.
+      nkjv: They shall be an abomination to you; you shall not eat their flesh, but
+        you shall regard their carcasses as an abomination.
+      desnitsky: ""
+      mt: ‫   וְשֶׁקֶץ יִהְיוּ לָכֶם מִבְּשָׂרָם לֹא תֹאכֵלוּ וְאֶת־נִבְלָתָם
+        תְּשַׁקֵּצוּ׃ ‬
+      romana: De acestea sa va ingretosati, carnea lor sa n-o mancati si de starvurile
+        lor sa va ingretosati.
+      francais: Vous les aurez en abomination, vous ne mangerez pas de leur chair, et
+        vous aurez en abomination leurs corps morts.
+      italian: Essi saranno per voi in abominio; non mangerete la loro carne e terrete
+        in abominio i loro cadaveri.
+      old_georgian: და ყოველსა, რომელსა არა ესხას ფრთე და არცა ქეცი წყალთა შინა, გინა
+        თუ ზღუასა შინა, გინა მდინარეთა, რომელთა გამოსცემენ წყალნი, ყოვლისაგან
+        სულისა ცხოველისა, რომელნი არიან წყალთა შინა, საძაგელ არს და საძაგელ
+        იყვნენ თქუენდა
+      portuguese: tê-los-eis em abominação; da sua carne não comereis, e abominareis
+        os seus cadáveres.
+      polish: "Będą one dla was obrzydliwością, nie jedzcie ich mięsa i brzydźcie się
+        ich\rpadliną."
+      turkish: Bunlar sizin için iğrenç sayılacak. Etlerini yemeyecek, leşlerinden
+        tiksineceksiniz.
+      nrt: Гнушаясь ими, не ешьте их мясо. Гнушайтесь их трупами.
+      Macarius: Они должны быть гнусны для вас, мяса их не ешьте и трупов их гнушайтесь.
+      bulgarian: "те трябва да бъдат мръсни за вас: месото им не яжте и от труповете
+        им се гнусете;"
+      deutsch: daß ihr von ihrem Fleisch nicht eßt und vor ihrem Aas euch scheut.
+      ukr2: М'яса їх не їжте й падлиною їх бридьтеся, бо й це гидота для вас.
+      ukr3: "І гидкі вони мусять бути вам: мясива їх не їжте і падаль їх уважайте за
+        гидоту."
+      bel_syomukha: "яны павінны быць паганыя вам: мяса іх ня ежце і трупамі іх грэбуйце;"
+      spbda: И мерзостью оне должны быть для вас; мяса их не ешьте и трупов их
+        гнушайтесь.
+      lev-khv: И мерзостью они должны быть для вас; мяса их не ешьте и трупов их
+        гнушайтесь.
+      czech: Budou pro vas hodni opovrzeni. Nesmite jist jejich maso a jejich
+        zdechliny budete mit v opovrzeni.
+      spanish: Serán para vosotros abominación; no comeréis sus carnes y tendréis como
+        abominación sus cadáveres.
+      greek-lxx: καὶ βδελύγματα ἔσονται ὑμῖν ἀπὸ τῶν κρεῶν αὐτῶν οὐκ ἔδεσθε καὶ τὰ
+        θνησιμαῖα αὐτῶν βδελύξεσθε
+      st_text: "они должны быть скверны для вас: мяса их не ешьте и трупов их
+        гнушайтесь;"
+  - id: 22973
+    number: 12
+    bookId: 3
+    text: все <i>животные</i>, у которых нет перьев и чешуи в воде, скверны для вас.
+    chapter: 11
+    chapterId: 101
+    parallels:
+      - verseId: 23638
+        bookId: 3
+        bookCode: levit
+        chapter: 5
+        short: Лев:5:3
+    translates:
+      kassian: ""
+      podstr: и все, сколькие не есть [у] них перья и чешуйки, [из] которых в воде,
+        мерзость это есть вам.
+      csya: и вся, имже несть перия и чешуи, иже в водах, скверна сия суть вам.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 вс‰, и5мже нёсть пе1ріz и3 чешуи2, и5же въ водaхъ, сквє1рна сі‰
+        сyть вaмъ.
+      sovr_rbo: Все животные, живущие в воде, лишенные плавников и чешуи, — это для
+        вас мерзость.
+      latin: Cuncta quae non habent pinnulas et squamas in aquis, polluta erunt.
+      ukr: Усе, що не має плавців та луски в воді, гидота воно для вас.
+      nkjv: Whatever in the water does not have fins or scales-that shall be an
+        abomination to you.
+      desnitsky: ""
+      mt: ‫   כֹּל אֲשֶׁר אֵין־לוֹ סְנַפִּיר וְקַשְׂקֶשֶׂת בַּמָּיִם שֶׁקֶץ הוּא
+        לָכֶם׃ ‬
+      romana: Toate vietatile din ape, care n-au aripi si solzi, sunt spurcate pentru
+        voi.
+      francais: Vous aurez en abomination tous ceux qui, dans les eaux, n'ont pas des
+        nageoires et des écailles.
+      italian: Tutto ciò che non ha né pinne né squame nelle acque sarà per voi in
+        abominio.
+      old_georgian: ჴორცი მათი არა ჰჭამოთ და მძორი მათი გძაგდინ.
+      portuguese: Tudo o que não tem barbatanas nem escamas, nas águas, será para vós
+        abominável.
+      polish: Wszystkie istoty wodne, które nie mają płetw albo łusek, będą dla was
+        obrzydliwością.
+      turkish: Suda yaşayan bütün pulsuz ve yüzgeçsiz canlılar sizin için iğrenç
+        sayılacak.
+      nrt: Вся водная живность, которая не имеет плавников и чешуи, пусть будет для
+        вас мерзостью.
+      Macarius: Все животные, у которых нет перьев и чешуи в воде, гнусны для вас.
+      bulgarian: всички животни, които нямат перки и люспи във водата, са мръсни за вас.
+      deutsch: Denn alles, was nicht Floßfedern und Schuppen hat in Wassern, sollt ihr
+        scheuen.
+      ukr2: Усе, що в водах без поплавців і луски, буде вам гидотою.
+      ukr3: Усе, що без сплавок і луски в водї, буде гидотою вам.
+      bel_syomukha: усе жывёлы, у якіх няма перэя і лускі ў вадзе, паганыя вам.
+      spbda: Все животныя, у которых нет перьев, и чешуи в воде, — мерзость для вас.
+      lev-khv: Все <i>животныя</i>, у которых нет перьев и чешуи в воде, мерзость для
+        вас.
+      czech: Vsechno ve vode, co nema ploutve ani supiny, budete mit v opovrzeni.
+      spanish: Todo cuanto en las aguas no tiene aletas ni escamas, lo tendréis por
+        abominación.
+      greek-lxx: καὶ πάντα ὅσα οὐκ ἔστιν αὐτοῖς πτερύγια καὶ λεπίδες τῶν ἐν τῷ ὕδατι
+        βδέλυγμα τοῦτό ἐστιν ὑμῖν
+      st_text: все <i>животные</i>, у которых нет перьев и чешуи в воде, скверны для
+        вас.
+  - id: 22974
+    number: 13
+    bookId: 3
+    text: "Из птиц же гнушайтесь сих [не должно их есть, скверны они]: орла, грифа и
+      морского орла,"
+    chapter: 11
+    chapterId: 101
+    parallels:
+      - verseId: 36099
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 14
+        short: Втор:14:12
+      - verseId: 36100
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 14
+        short: Втор:14:13
+      - verseId: 36101
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 14
+        short: Втор:14:14
+      - verseId: 36102
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 14
+        short: Втор:14:15
+      - verseId: 36103
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 14
+        short: Втор:14:16
+      - verseId: 36104
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 14
+        short: Втор:14:17
+      - verseId: 36105
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 14
+        short: Втор:14:18
+      - verseId: 36106
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 14
+        short: Втор:14:19
+      - verseId: 36107
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 14
+        short: Втор:14:20
+    translates:
+      kassian: ""
+      podstr: И эти будут гнусны [для вас] из птиц, и не будут поглощены, мерзость они
+        есть; орла и грифа и скопа
+      csya: "И сих гнушайтеся от птиц, и да не ясте их, гнусни суть: орла и грифа и
+        морскаго орла,"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# си1хъ гнушaйтесz t пти1цъ, и3 да не ћсте и4хъ, гнyсни сyть: nрлA
+        и3 грv1фа и3 морскaгw nрлA,"
+      sovr_rbo: "Вот птицы , которыми вы должны гнушаться (их нельзя есть, это
+        мерзость): орел, гриф, ястреб,"
+      latin: "Haec sunt quae de avibus comedere non debetis, et vitanda sunt vobis:
+        aquilam, et gryphem, et haliaeetum,"
+      ukr: "А з птаства будете бридитися оцього, не будете їх їсти, гидота вони: орла,
+        грифа й морського орла,"
+      nkjv: "'And these you shall regard as an abomination among the birds; they shall
+        not be eaten, they are an abomination: the eagle, the vulture, the
+        buzzard, "
+      desnitsky: ""
+      mt: ‫   וְאֶת־אֵלֶּה תְּשַׁקְּצוּ מִן־הָעוֹף לֹא יֵאָכְלוּ שֶׁקֶץ הֵם
+        אֶת־הַנֶּשֶׁר וְאֶת־הַפֶּרֶס וְאֵת הָעָזְנִיָּה׃ ‬
+      romana: "Din pasari sa nu mancati si sa va ingretosati de acestea, ca sunt
+        spurcate: vulturul, zgriptorul si vulturul de mare;"
+      francais: "Voici, parmi les oiseaux, ceux que vous aurez en abomination, et dont
+        on ne mangera pas: l'aigle, l'orfraie et l'aigle de mer;"
+      italian: "Fra i volatili terrete in abominio questi, che non dovrete mangiare,
+        perché ripugnanti: l'aquila, l'ossìfraga e l'aquila di mare,"
+      old_georgian: და ყოველსა, რომელსა არა არს ფრთეებ და ქეც წყალთა შინა, საძაგელ არს
+        ესე თქუენდა.
+      portuguese: "Dentre as aves, a estas abominareis; não se comerão, serão
+        abomináveis: a águia, o quebrantosso, o xofrango,"
+      polish: "Spośród ptaków będziecie mieli w obrzydzeniu i nie będziecie ich jedli,
+        bo są\robrzydliwością, następujące: orzeł, sęp czarny, orzeł morski,"
+      turkish: "«`Tiksindirici kuşların etini yemeyecek, şunları iğrenç sayacaksınız:
+        Kartal, kuzu kartalı, kara akbaba,"
+      nrt: "Вот птицы, которыми вы должны гнушаться и которых не должны есть, потому
+        что это мерзость: орел, бородач, скопа,"
+      Macarius: "Из птиц же гнушайтесь сих: (не должно их есть; гнусны они,) орла,
+        грифа и морского орла,"
+      bulgarian: "А измежду птиците гнусете се от тия: (не бива да ги ядете, те са
+        мръсни,) от орел, гриф и морски орел,"
+      deutsch: "Und dies sollt ihr scheuen unter den Vögeln, daß ihr's nicht eßt: den
+        Adler, den Habicht, den Fischaar,"
+      ukr2: "А з птаства ось які вважатимете гидкими, що їх не слід їсти, бо це гидь:
+        орел, шуліка й морський орел,"
+      ukr3: "Оце ж ті, що вважати мете гидкими з птаства; неможна їх їсти, вони гидь:
+        орел, коршак, і морський орел,"
+      bel_syomukha: "А з птушак грэбуйце гэтымі: арлом, грыфам і марскім арлом,"
+      spbda: "Из птиц же гнушайтесь сих: — не должно есть их, мерзость оне: — орла,
+        грифа и морскаго орла,"
+      lev-khv: "А из птиц гнушайтесь сих: (не должно есть их; мерзость оне) орла, и
+        грифа, и морскаго орла,"
+      czech: "Z letajicich zivocichu budete mit v opovrzeni tyto, nesmeji se jist,
+        jsou hodni opovrzeni: orla, orlosupa a morskeho orla,"
+      spanish: He aquí entre las aves las que tendréis por abominación, y no las
+        comeréis por ser cosa abominable;
+      greek-lxx: καὶ ταῦτα βδελύξεσθε ἀπὸ τῶν πετεινῶν καὶ οὐ βρωθήσεται βδέλυγμά
+        ἐστιν τὸν ἀετὸν καὶ τὸν γρύπα καὶ τὸν ἁλιαίετον
+      st_text: "Из птиц же гнушайтесь сих [не должно их есть, скверны они]: орла,
+        грифа и морского орла,"
+  - id: 22975
+    number: 14
+    bookId: 3
+    text: коршуна и сокола с породою его,
+    chapter: 11
+    chapterId: 101
+    parallels:
+      - verseId: 36094
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 14
+        short: Втор:14:7
+    translates:
+      kassian: ""
+      podstr: и коршуна и кречета и подобных ему
+      csya: "и неясыти и иктина и подобных сим:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 неsсыти и3 їктjна и3 подо1бныхъ си6мъ:"
+      sovr_rbo: канюк и коршуны разных видов,
+      latin: et milvum ac vulturem juxta genus suum,
+      ukr: і коршака, і сокола за родом його,
+      nkjv: the kite, and the falcon after its kind;
+      desnitsky: ""
+      mt: ‫   וְאֶת־הַדָּאָה וְאֶת־הָאַיָּה לְמִינָהּ׃ ‬
+      romana: Corbul si soimul cu soiurile lor;
+      francais: le milan, l'autour et ce qui est de son espèce;
+      italian: il nibbio e ogni specie di falco,
+      old_georgian: "და ესე გძაგდინ მფრინველთაგან და არა ჰჭამოთ, რამეთუ საძაგელ არს:"
+      portuguese: o açor, o falcão segundo a sua espécie,
+      polish: wszelkie gatunki kani i sokołów,
+      turkish: çaylak, doğan türleri,
+      nrt: коршун, любой вид сокола,
+      Macarius: Коршуна, и сокола с породою его,
+      bulgarian: пиляк и сокол с породата му,
+      deutsch: den Geier, den Weih, und was seine Art ist,
+      ukr2: кібець і сокіл із породою його;
+      ukr3: І пугач, і сокіл з породою його,
+      bel_syomukha: шуляком і сокалам з пародаю ягонай,
+      spbda: И коршуна, и сокола с породою его,
+      lev-khv: И коршуна, и сокола с породою его,
+      czech: lunaka a ruzne druhy jestrabu,
+      spanish: el águila, el quebrantahuesos y el halieto; el milano y el buitre según
+        sus especies;
+      greek-lxx: καὶ τὸν γύπα καὶ ἰκτῖνα καὶ τὰ ὅμοια αὐτῷ
+      st_text: коршуна и сокола с породою его,
+  - id: 22976
+    number: 15
+    bookId: 3
+    text: всякого ворона с породою его,
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и ворона и подобных ему
+      csya: "и струфа и совы, и сухолапля и подобных им:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 стрyfа и3 совы2, и3 сухолaплz и3 подо1бныхъ и5мъ:"
+      sovr_rbo: вороны разных видов,
+      latin: et omne corvini generis in similitudinem suam,
+      ukr: усякого крука за родом його,
+      nkjv: every raven after its kind,
+      desnitsky: ""
+      mt: ‫   אֵת כָּל־עֹרֵב לְמִינוֹ׃ ‬
+      romana: Toata cioara cu soiurile ei;
+      francais: le corbeau et toutes ses espèces;
+      italian: ogni specie di corvo,
+      old_georgian: ორბი და ყანჩი, და ძერი, და ზარნასოვი, და ძერქორი და მსგავსი მათი,
+        და ყორანი და მსგავსი მისი, და სირი და ჭაჰრი და მსგავსი მისი, და ქორი და
+        მსგავსი მისი;
+      portuguese: todo corvo segundo a sua espécie,
+      polish: wszelkie gatunki kruków,
+      turkish: bütün karga türleri,
+      nrt: любой вид ворона,
+      Macarius: Всякого ворона с породою его,
+      bulgarian: всякакъв гарван с породата му,
+      deutsch: und alle Raben mit ihrer Art,
+      ukr2: і всякого роду ворони;
+      ukr3: І всякий ворон з породою його.
+      bel_syomukha: любым груганом з пародай ягонай,
+      spbda: Всякаго ворона с породою его,
+      lev-khv: Всякаго вóрона с породою его,
+      czech: vsechny druhy havranu,
+      spanish: toda clase de cuervos;
+      greek-lxx: καὶ κόρακα καὶ τὰ ὅμοια αὐτῷ
+      st_text: всякого ворона с породою его,
+  - id: 22977
+    number: 16
+    bookId: 3
+    text: страуса, совы, чайки и ястреба с породою его,
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и воробья и сову и чайку и подобных ей и ястреба и подобных ему
+      csya: "и всякаго врана и подобных ему: и ястреба и подобных ему:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 всsкагw врaна и3 подо1бныхъ є3мY: и3 ћстреба и3 подо1бныхъ є3мY:"
+      sovr_rbo: филин, сипуха, чайка и соколы разных видов,
+      latin: "struthionem, et noctuam, et larum, et accipitrem juxta genus suum:"
+      ukr: і струся, і сови, і яструба за родом його,
+      nkjv: the ostrich, the short-eared owl, the sea gull, and the hawk after its
+        kind;
+      desnitsky: ""
+      mt: ‫   וְאֵת בַּת הַיַּעֲנָה וְאֶת־הַתַּחְמָס וְאֶת־הַשָּׁחַף וְאֶת־הַנֵּץ
+        לְמִינֵהוּ׃ ‬
+      romana: Strutul, cucuveaua, randunica si uliul cu soiurile lui;
+      francais: l'autruche, le hibou, la mouette, l'épervier et ce qui est de son espèce;
+      italian: lo struzzo, la civetta, il gabbiano e ogni specie di sparviere,
+      old_georgian: ბუვი, და ღამის მჴმობარი და მინინოჲ
+      portuguese: o avestruz, o mocho, a gaivota, o gavião segundo a sua espécie,
+      polish: struś, sowa, mewa, wszelkie gatunki jastrzębi,
+      turkish: baykuş, puhu, martı, atmaca türleri,
+      nrt: сова, козодой, чайка, любой вид ястреба,
+      Macarius: Страуса, совы, чайки, и ястреба с породою его,
+      bulgarian: камилска птица, кукумявка, чайка и ястреб с породата му,
+      deutsch: den Strauß, die Nachteule, den Kuckuck, den Sperber mit seiner Art,
+      ukr2: струсь, пугач, морська чайка й ясттруб з породою його;
+      ukr3: І стровус, і чайка, і яструб з породою його.
+      bel_syomukha: страўсам, савою, чайкай і каршуном з пародаю ягонай,
+      spbda: И страуса, и совы, и чайки, и ястреба с породою его,
+      lev-khv: И страуса, и совы, и чайки, и ястреба с породою его,
+      czech: pstrosa, sovu, racka a ruzne druhy sokolu,
+      spanish: el avestruz, la lechuza, el loro, la gaviota y el gavilán de toda clase;
+      greek-lxx: καὶ στρουθὸν καὶ γλαῦκα καὶ λάρον καὶ τὰ ὅμοια αὐτῷ καὶ ἱέρακα καὶ τὰ
+        ὅμοια αὐτῷ
+      st_text: страуса, совы, чайки и ястреба с породою его,
+  - id: 22978
+    number: 17
+    bookId: 3
+    text: филина, рыболова и ибиса,
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и ночную цаплю и нырка и ибиса
+      csya: и врана нощнаго и лилика и ивина,
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 врaна нощнaгw и3 лили1ка и3 јвіна,
+      sovr_rbo: неясыть, баклан, совка,
+      latin: bubonem, et mergulum, et ibin,
+      ukr: і пугача, і рибалки, та ібіса,
+      nkjv: the little owl, the fisher owl, and the screech owl;
+      desnitsky: ""
+      mt: ‫   וְאֶת־הַכּוֹס וְאֶת־הַשָּׁלָךְ וְאֶת־הַיַּנְשׁוּף׃ ‬
+      romana: Huhurezul, pescarul si ibisul;
+      francais: le chat-huant, le plongeon et la chouette;
+      italian: il gufo, l'alcione, l'ibis,
+      old_georgian: და ძენძერუკი და დედამთრვალი
+      portuguese: o bufo, o corvo marinho, a coruja,
+      polish: puszczyk, kormoran, ibis,
+      turkish: kukumav, karabatak, büyük baykuş,
+      nrt: домовой сыч, большой баклан, филин,
+      Macarius: Филина, рыболова и ибиса,
+      bulgarian: бухал, рибар и ибис,
+      deutsch: das Käuzlein, den Schwan, den Uhu,
+      ukr2: сова, баклан і рибалка;
+      ukr3: І сова, і рибалка та ібис,
+      bel_syomukha: пугачом, рыбаловам і ібісам,
+      spbda: И филина, и рыболова, и ибиса,
+      lev-khv: И филина, и рыболова, и ибиса,
+      czech: kulicha, kormorana a vyra,
+      spanish: el búho, el mergo, el ibis;
+      greek-lxx: καὶ νυκτικόρακα καὶ καταρράκτην καὶ ἶβιν
+      st_text: филина, рыболова и ибиса,
+  - id: 22979
+    number: 18
+    bookId: 3
+    text: лебедя, пеликана и сипа,
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и лысуху красную и пеликана и лебедя
+      csya: и порфириона и пелекана и лебедя,
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 порфmріHна и3 пелекaна и3 ле1бедz,
+      sovr_rbo: сыч, сова, скопа,
+      latin: et cygnum, et onocrotalum, et porphyrionem,
+      ukr: і лебедя, і пелікана, і сича,
+      nkjv: the white owl, the jackdaw, and the carrion vulture;
+      desnitsky: ""
+      mt: ‫   וְאֶת־הַתִּנְשֶׁמֶת וְאֶת־הַקָּאָת וְאֶת־הָרָחָם׃ ‬
+      romana: Lebada, pelicanul si cocorul;
+      francais: le cygne, le pélican et le cormoran;
+      italian: il cigno, il pellicano, la fòlaga,
+      old_georgian: და ვარჴჳ, და მღრინავი, და ტივყუავი, და ბუკიოტი და მსგავსი მისი;
+      portuguese: o porfirião, o pelicano, o abutre,
+      polish: łabędź, pelikan, ścierwik,
+      turkish: peçeli baykuş, ishakkuşu, akbaba,
+      nrt: белая сова, пустынная сова, стервятник,
+      Macarius: Лебедя, пеликана и сипа,
+      bulgarian: лебед, пеликан и сип,
+      deutsch: die Fledermaus, die Rohrdommel,
+      ukr2: сич, пелікан та єгипетський стерв'як;
+      ukr3: І лебедь, і пеликан, і сич,
+      bel_syomukha: лебедзем, пеліканам і сычом,
+      spbda: И лебедя, и пеликана, и сипа,
+      lev-khv: И лебедя, и пеликана, и сипа,
+      czech: sovu palenou, pelikana a mrchozrouta,
+      spanish: el cisne, el pelícano, el calamón;
+      greek-lxx: καὶ πορφυρίωνα καὶ πελεκᾶνα καὶ κύκνον
+      st_text: лебедя, пеликана и сипа,
+  - id: 22980
+    number: 19
+    bookId: 3
+    text: цапли, зуя с породою его, удода и нетопыря.
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и сову и цаплю и зуйка и подобных ему и удода и летучую мышь.
+      csya: "и еродиа и харадриона и подобных ему: и вдода и нощнаго нетопыря."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 є3рwдjа и3 харадріо1на и3 подо1бныхъ є3мY: и3 вдо1да и3 нощнaгw
+        нетопырS."
+      sovr_rbo: аист, цапли разных видов, удод и летучая мышь.
+      latin: herodionem, et charadrion juxta genus suum, upupam quoque, et
+        vespertilionem.
+      ukr: і бусла, чаплі за родом її, і одуда, і нетопира.
+      nkjv: the stork, the heron after its kind, the hoopoe, and the bat.
+      desnitsky: ""
+      mt: ‫   וְאֵת הַחֲסִידָה הָאֲנָפָה לְמִינָהּ וְאֶת־הַדּוּכִיפַת
+        וְאֶת־הָעֲטַלֵּף׃ ‬
+      romana: Cocostarcul, batlanul cu soiurile lui; pupaza si liliacul.
+      francais: la cigogne, le héron et ce qui est de son espèce, la huppe et la
+        chauve-souris.
+      italian: la cicogna, ogni specie di airone, l'ùpupa e il pipistrello.
+      old_georgian: და ოფოფი და მღამიობი.
+      portuguese: a cegonha, a garça segundo a sua, espécie, a poupa e o morcego.
+      polish: bocian, wszelkie gatunki czapli, dudek i nietoperz.
+      turkish: leylek, balıkçıl türleri, ibibik, yarasa.
+      nrt: аист, любой вид цапли, удод и летучая мышь.
+      Macarius: Цапли, зуя с породою его, удода и нетопыря.
+      bulgarian: щъркел, гушавец с породата му, папуняк и прилеп.
+      deutsch: den Storch, den Reiher, den Häher mit seiner Art, den Wiedehopf und die
+        Schwalbe.
+      ukr2: чорногуз, чапля з породою її, і одуд і кажан.
+      ukr3: І бузьок і чапля з породою її, й вудвод, і нетопир.
+      bel_syomukha: чапляй, сойкай зь яе пародаю, удодам і кажаном;
+      spbda: И цапли, зуя с породою его, и удода, и нетопыря.
+      lev-khv: И цапли, зуя с породою его, и удода, и нетопыря.
+      czech: capa a ruzne druhy volavek, dudka a netopyra.
+      spanish: la garza, la cigüeña en todas sus especies; la abubilla y el murciélago.
+      greek-lxx: καὶ γλαῦκα καὶ ἐρωδιὸν καὶ χαραδριὸν καὶ τὰ ὅμοια αὐτῷ καὶ ἔποπα καὶ
+        νυκτερίδα
+      st_text: цапли, зуя с породою его, удода и нетопыря.
+  - id: 22981
+    number: 20
+    bookId: 3
+    text: Все <i>животные</i> пресмыкающиеся, крылатые, ходящие на четырех
+      <i>ногах</i>, скверны для нас;
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И всех пресмыкающихся [из] птиц, которые идут на четырёх, отвратительные
+        они есть вам.
+      csya: "И вся гады птичия, иже ходят на четырех, мерзость есть вам:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# вс‰ гaды пти6чіz, и5же хо1дzтъ на четы1рехъ, ме1рзость є4сть вaмъ:"
+      sovr_rbo: Все мелкие летающие твари с четырьмя лапками — мерзость для вас.
+      latin: Omne de volucribus quod graditur super quatuor pedes, abominabile erit
+        vobis.
+      ukr: Уся комашня, що ходить на чотирьох, гидота вона для вас.
+      nkjv: "'All flying insects that creep on all fours shall be an abomination to
+        you. "
+      desnitsky: ""
+      mt: ‫   כֹּל שֶׁרֶץ הָעוֹף הַהֹלֵךְ עַל־אַרְבַּע שֶׁקֶץ הוּא לָכֶם׃ ס ‬
+      romana: Toate insectele inaripate, care umbla pe patru picioare, sunt spurcate
+        pentru voi.
+      francais: Vous aurez en abomination tout reptile qui vole et qui marche sur
+        quatre pieds.
+      italian: Sarà per voi in abominio anche ogni insetto alato, che cammina su
+        quattro piedi.
+      old_georgian: და ყოველი ქუეწარმავალი ფრინველთა, რომელი ვალს ოთხითა, საძაგელ არს
+        თქუენდა.
+      portuguese: Todos os insetos alados que andam sobre quatro pés, serão para vós
+        uma abominação.
+      polish: Wszelkie latające czworonożne owady będą dla was obrzydliwością.
+      turkish: «`Dört ayaklı ve kanatlı böceklerin hepsi sizin için iğrençtir.
+      nrt: Все насекомые, которые могут и летать, и ползать, пусть будут для вас
+        мерзостью.
+      Macarius: Все животные пресмыкающиеся, крылатые, ходящие на четырех ногах,
+        гнусны для вас.
+      bulgarian: Всички крилати влечуги, ходещи на четири нозе, са мръсни за вас;
+      deutsch: Alles auch, was sich regt und Flügel hat und geht auf vier Füßen, das
+        soll euch eine Scheu sein.
+      ukr2: Усе комаство крилате, що рачкує на чотирьох, гидота вам буде.
+      ukr3: Усе крилате, і ходюче на чотирох, гидота вам буде.
+      bel_syomukha: усе жывёлы паўзуны, крылатыя, якія ходзяць на чатырох нагах, паганыя вам;
+      spbda: Все насекомыя, крылатыя, ходящия на четырех ногах, мерзость для вас.
+      lev-khv: Все насекомыя, крылатыя, ходящия на четырех <i>ногах</i>, мерзость для
+        вас.
+      czech: Vsechna letajici havet chodici po ctyrech bude pro vas hodna opovrzeni.
+      spanish: Todo volátil que anda sobre cuatro patas lo tendréis por abominación;
+      greek-lxx: καὶ πάντα τὰ ἑρπετὰ τῶν πετεινῶν ἃ πορεύεται ἐπὶ τέσσαρα βδελύγματά
+        ἐστιν ὑμῖν
+      st_text: Все <i>животные</i> пресмыкающиеся, крылатые, ходящие на четырех
+        <i>ногах</i>, скверны для нас;
+  - id: 22982
+    number: 21
+    bookId: 3
+    text: из всех пресмыкающихся, крылатых, ходящих на четырех <i>ногах</i>, тех
+      только ешьте, у которых есть голени выше ног, чтобы скакать ими по земле;
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Но этих будете есть из пресмыкающихся [из] птиц, которые идут на
+        четырёх; которые имеют голени выше ног его [чтобы] прыгать на них по
+        земле.
+      csya: "но сия да ясте от всех гад птичных, иже ходят четвероножны, иже имут
+        голени выше плесну своею, скакати ими по земли:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "но сі‰ да ћсте t всёхъ г†дъ пти1чныхъ, и5же хо1дzтъ четверонHжны,
+        и5же и4мутъ го1лєни вы1ше плесн{ своє1ю, скакaти и4ми по земли2:"
+      sovr_rbo: Но вы можете есть тех мелких летающих тварей с четырьмя лапками, у
+        кого кроме этих лапок есть еще сгибающиеся ножки, чтобы прыгать по
+        земле.
+      latin: Quidquid autem ambulat quidem super quatuor pedes, sed habet longiora
+        retro crura, per quae salit super terram,
+      ukr: Тільки те будете їсти зо всієї комашні, що ходить на чотирьох, що має
+        голінки вище своїх ніг, щоб ними скакати на землі.
+      nkjv: "Yet these you may eat of every flying insect that creeps on all fours:
+        those which have jointed legs above their feet with which to leap on the
+        earth."
+      desnitsky: ""
+      mt: ‫   אַךְ אֶת־זֶה תֹּאכְלוּ מִכֹּל שֶׁרֶץ הָעוֹף הַהֹלֵךְ עַל־אַרְבַּע
+        אֲשֶׁר־*לא **לוֹ כְרָעַיִם מִמַּעַל לְרַגְלָיו לְנַתֵּר בָּהֵן
+        עַל־הָאָרֶץ׃ ‬
+      romana: Dar din toate insectele inaripate, care umbla in patru picioare, sa
+        mancati numai pe acelea care au fluierele picioarelor de dinapoi mai
+        lungi, ca sa poata sari pe pamant.
+      francais: Mais, parmi tous les reptiles qui volent et qui marchent sur quatre
+        pieds, vous mangerez ceux qui ont des jambes au-dessus de leurs pieds,
+        pour sauter sur la terre.
+      italian: Però fra tutti gli insetti alati che camminano su quattro piedi,
+        potrete mangiare quelli che hanno due zampe sopra i piedi, per saltare
+        sulla terra.
+      old_georgian: ხოლო სჭამდეთ ფრინველთა, რომელი ვალს ოთხითა, რომელთა ასხენ წვივნი
+        უზეშთაეს ფერჴთა მისთა ხლდომად ქუეყანასა ზედა.
+      portuguese: "Contudo, estes há que podereis comer de todos os insetos alados que
+        andam sobre quatro pés: os que têm\rpernas sobre os seus pés, para
+        saltar com elas sobre a terra;"
+      polish: "Ale będziecie jeść spośród czworonożnych latających owadów tylko te,
+        których [tylne] kończyny wystają ponad nogami [przednimi], aby [mogły]
+        skakać\rna nich po ziemi."
+      turkish: Ama dört ayaklı ve kanatlı olup ayaklarını sıçramak için kullanan
+        bazılarının etini yiyebilirsiniz.
+      nrt: Из всех летающих и ползающих насекомых вы можете есть только тех, у которых
+        ноги приспособлены к прыжкам.
+      Macarius: Из всех пресмыкающихся, крылатых, ходящих на четырех ногах, тех только
+        ешьте, у которых есть голени выше ног, чтобы скакать на них по земле.
+      bulgarian: от всички крилати влечуги, ходещи на четири нозе, яжте само ония, -
+        които имат пищяли над нозете си, за да скачат с тях по земята;
+      deutsch: "Doch das sollt ihr essen von allem, was sich regt und Flügel hat und
+        geht auf vier Füßen: was noch zwei Beine hat, womit es auf Erden hüpft;"
+      ukr2: Тих тільки з усієї крилатої комашини, що рачкує на чотирьох, можна вам
+        їсти, що крім передніх ніг, має ще другу пару ніг, щоб скакати ними по
+        землі.
+      ukr3: "Тільки тих можна їсти зміж усьої крилатої животини, що ходить на чотирох
+        ногах: що має литки над ногами, щоб скакати по землї."
+      bel_syomukha: "з усіх паўзуноў, крылатых, якія ходзяць на чатырох нагах, тых
+        толькі ежце, у якіх ёсьць галені вышэй ног, каб скакаць імі па зямлі:"
+      spbda: Но из всех насекомых, крылатых, ходящих на четырех ногах, тех ешьте, у
+        которых есть голени выше ног, чтобы скакать ими по земле.
+      lev-khv: Но из всех насекомых, крылатых, ходящих на четырех <i>ногах</i>, тех
+        ешьте, у которых есть голени выше ног, чтобы скакать ими по земле.
+      czech: Jen to smite jist z veskere letajici haveti chodici po ctyrech, co ma
+        skakave nohy, jimiz skace po zemi.
+      spanish: pero, entre los insectos alados que marchan sobre cuatro patas,
+        comeréis aquellos que tienen más largas las de atrás para saltar sobre
+        la tierra.
+      greek-lxx: ἀλλὰ ταῦτα φάγεσθε ἀπὸ τῶν ἑρπετῶν τῶν πετεινῶν ἃ πορεύεται ἐπὶ
+        τέσσαρα ἃ ἔχει σκέλη ἀνώτερον τῶν ποδῶν αὐτοῦ πηδᾶν ἐν αὐτοῖς ἐπὶ τῆς
+        γῆς
+      st_text: из всех пресмыкающихся, крылатых, ходящих на четырех <i>ногах</i>, тех
+        только ешьте, у которых есть голени выше ног, чтобы скакать ими по
+        земле;
+  - id: 22983
+    number: 22
+    bookId: 3
+    text: "сих ешьте из них: саранчу с ее породою, солам с ее породою, харгол с ее
+      породою и хагаб с ее породою."
+    chapter: 11
+    chapterId: 101
+    parallels:
+      - verseId: 26170
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 1
+        short: Мк:1:6
+    translates:
+      kassian: ""
+      podstr: И этих будете есть из них; кузнечика и подобных ему и прыгающую саранчу
+        и подобных ей и саранчу и подобных ей и ползающую саранчу и подобных ей.
+      csya: "и сия да ясте от сих: вруха и подобная ему, и аттака и подобная ему,
+        офиомаха и еже подобно к нему, и акриду и подобная ей:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 сі‰ да ћсте [Въ Nстро1жской, и3 съ неS печaтанной пре1жде въ
+        москвЁ, пред8 си1мъ сло1вомъ ћсте, приложено2 не, но тогw2 во всёхъ
+        гре1ч. не и3мёетсz] t си1хъ: врyха и3 подHбнаz є3мY, и3 ґттaка и3
+        подHбнаz є3мY, nфіо1маха и3 є4же подо1бно къ немY, и3 ґкрjду и3 подHбнаz
+        є4й:"
+      sovr_rbo: Итак, вы можете есть саранчу разных видов, любую длинноголовую
+        саранчу, сверчков разного вида и всевозможных кузнечиков.
+      latin: comedere debetis, ut est bruchus in genere suo, et attacus atque
+        ophiomachus, ac locusta, singula juxta genus suum.
+      ukr: "Оці серед них будете їсти: сарану за родом її, і сол'ам за родом його, і
+        харґол за родом його, і хаґав за родом його."
+      nkjv: "These you may eat: the locust after its kind, the destroying locust after
+        its kind, the cricket after its kind, and the grasshopper after its
+        kind."
+      desnitsky: ""
+      mt: ‫   אֶת־אֵלֶּה מֵהֶם תֹּאכֵלוּ אֶת־הָאַרְבֶּה לְמִינוֹ וְאֶת־הַסָּלְעָם
+        לְמִינֵהוּ וְאֶת־הַחַרְגֹּל לְמִינֵהוּ וְאֶת־הֶחָגָב לְמִינֵהוּ׃ ‬
+      romana: "Din acestea sa mancati urmatoarele: lacusta si soiurile ei, solamul si
+        soiurile lui, hargolul si soiurile lui, si hagabul cu soiurile lui."
+      francais: "Voici ceux que vous mangerez: la sauterelle, le solam, le hargol et
+        le hagab, selon leurs espèces."
+      italian: "Perciò potrete mangiare i seguenti: ogni specie di cavalletta, ogni
+        specie di locusta, ogni specie di acrìdi e ogni specie di grillo."
+      old_georgian: "ესე არს, რომელსა სჭამდეთ მათგან: ბოცომკალი და ყოველი მსგავსი
+        მისი, მჭრინავი და ყოველი მსგავსი მისი, [გველისმბრძოლი] და ყოველი მსგავსი
+        მისი, მკალი და ყოველი მსგავსი მისი."
+      portuguese: "isto é, deles podereis comer os seguintes: o gafanhoto segundo a
+        sua espécie, o solham segundo a sua\respécie, o hargol segundo a sua
+        espécie e o hagabe segundo a sua espécie."
+      polish: "Następujące spośród nich możecie jeść: wszelkie gatunki szarańczy,
+        wszelkie\rgatunki soleam, wszelkie gatunki chargol i wszelkie gatunki
+        chagab."
+      turkish: "Şunları yiyeceksiniz: Bütün çekirge türleri, küçük çekirge,
+        cırcırböceği, ağustosböceği."
+      nrt: Из них вы можете есть любой вид саранчи, акрид, цикад и кузнечиков.
+      Macarius: "Сих ешьте из них: саранчу с ее породою, солам с ее породою, харгол с
+        ее породою, и хагаб с ее породою."
+      bulgarian: "от тях яжте тия: скакалец с породата му, солам с породата му, харгол
+        с породата му и хагаб с породата му."
+      deutsch: "von demselben mögt ihr essen die Heuschrecken, als da ist: Arbe mit
+        seiner Art und Solam mit seiner Art und Hargol mit seiner Art und Hagab
+        mit seiner Art."
+      ukr2: "Тож їстимете з-поміж них такі: всякого роду сарану, всяких цвіркунів,
+        стрибунців із породою їхньою та різних скакунів."
+      ukr3: "Ось яких ізміж їх можна вам їсти: сарану з породою її, коники всякі, і
+        скакуни всякі з породою їх, та хрущі всякі з породою їх."
+      bel_syomukha: "гэтых ежце зь іх: шаранчу зь яе пародаю, казельчыкаў зь іх
+        пародаю, хрушчоў з пародаю іхняю;"
+      spbda: "Сих ешьте из них: саранчу с породою ея, исолам с породою ея, харгол с
+        породою ея, и хагаб с породою ея."
+      lev-khv: "Сих ешьте из них: саранчу с породою ея, и солам с породою ея, и харгол
+        с породою ея, и хагаб с породою ея."
+      czech: "Smite z nich jist tyto: ruzne druhy kobylek, jako arbe, soleam, chargol
+        a chagab."
+      spanish: "He aquí de entre éstos los que comeréis: toda especie de langosta: el
+        solam, el jargol, el jagab, según las especies."
+      greek-lxx: καὶ ταῦτα φάγεσθε ἀπ᾿ αὐτῶν τὸν βροῦχον καὶ τὰ ὅμοια αὐτῷ καὶ τὸν
+        ἀττάκην καὶ τὰ ὅμοια αὐτῷ καὶ τὴν ἀκρίδα καὶ τὰ ὅμοια αὐτῇ καὶ τὸν
+        ὀφιομάχην καὶ τὰ ὅμοια αὐτῷ
+      st_text: "сих ешьте из них: саранчу с ее породою, солам с ее породою, харгол с
+        ее породою и хагаб с ее породою."
+  - id: 22984
+    number: 23
+    bookId: 3
+    text: Всякое <i>другое</i> пресмыкающееся, крылатое, у которого четыре ноги,
+      скверно для вас;
+    chapter: 11
+    chapterId: 101
+    parallels:
+      - verseId: 13047
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 10
+        short: Деян:10:12
+    translates:
+      kassian: ""
+      podstr: Всякое пресмыкающееся из птиц, [у] которых есть четыре ноги, мерзость
+        оно есть вам.
+      csya: "и всяк гад от птиц, имже суть четыри ноги, мерзость есть вам, и в сих да
+        не осквернитеся:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 всsкъ гaдъ t пти1цъ, и5мже сyть четы1ри но1ги, ме1рзость є4сть
+        вaмъ, и3 въ си1хъ да не њскверните1сz:"
+      sovr_rbo: А все прочие мелкие летающие твари с четырьмя ножками — мерзость для вас.
+      latin: "Quidquid autem ex volucribus quatuor tantum habet pedes, execrabile erit
+        vobis:"
+      ukr: А вся гадина летюча, що має чотири ноги, гидота вона для вас.
+      nkjv: But all other flying insects which have four feet shall be an abomination
+        to you.
+      desnitsky: ""
+      mt: ‫   וְכֹל שֶׁרֶץ הָעוֹף אֲשֶׁר־לוֹ אַרְבַּע רַגְלָיִם שֶׁקֶץ הוּא לָכֶם׃ ‬
+      romana: Orice alta insecta inaripata care are patru picioare e spurcata pentru
+        voi si va spurcati de ele.
+      francais: Vous aurez en abomination tous les autres reptiles qui volent et qui
+        ont quatre pieds.
+      italian: Ogni altro insetto alato che ha quattro piedi lo terrete in abominio!
+      old_georgian: მფრინველთაგან, რომელთა ასხენ ოთხ ფერჴ, საძაგელ არს თქუენდა და მით
+        არა შეიგინნეთ.
+      portuguese: Mas todos os outros insetos alados que têm quatro pés, serão para
+        vós uma abominação.
+      polish: "Wszystkie inne gatunki latających owadów czworonożnych będą dla
+        was\robrzydliwością."
+      turkish: Öbür dört ayaklı, kanatlı böceklerin hepsi sizin için iğrenç sayılır.
+      nrt: Но остальными насекомыми, которые могут и летать, и ползать, гнушайтесь
+      Macarius: Всякое другое пресмыкающееся, крылатое, у которого четыре ноги, гнусно
+        для вас.
+      bulgarian: Всяко друго крилато влечуго, с четири нозе, е мръсно за вас;
+      deutsch: Aber alles, was sonst Flügel und vier Füße hat, soll euch eine Scheu
+        sein,
+      ukr2: Усяке інше крилате комаство, що рачкує на чотирьох ногах, буде гидотою
+        вам.
+      ukr3: А всяка инша крилата животина, що на чотирох ногах, буде гидотою вам.
+      bel_syomukha: любыя іншыя паўзуны, крылатае, у якога чатыры нагі, паганае вам;
+      spbda: А всякое другое насекомое, крылатое, у котораго четыре ноги, мерзость для
+        вас.
+      lev-khv: А всякое <i>другое</i> насекомое, крылатое, у котораго четыре ноги,
+        мерзость для вас.
+      czech: Ale ostatni letajici ctyrnoha havet bude pro vas hodna opovrzeni.
+      spanish: Todo otro volátil de cuatro patas lo tendréis por inmundo, y
+        comiéndolos os haréis inmundos.
+      greek-lxx: πᾶν ἑρπετὸν ἀπὸ τῶν πετεινῶν οἷς ἐστιν τέσσαρες πόδες βδέλυγμά ἐστιν ὑμῖν
+      st_text: Всякое <i>другое</i> пресмыкающееся, крылатое, у которого четыре ноги,
+        скверно для вас;
+  - id: 22985
+    number: 24
+    bookId: 3
+    text: "от них вы будете нечисты: всякий, кто прикоснется к трупу их, нечист
+      будет до вечера;"
+    chapter: 11
+    chapterId: 101
+    parallels:
+      - verseId: 23637
+        bookId: 3
+        bookCode: levit
+        chapter: 5
+        short: Лев:5:2
+      - verseId: 23121
+        bookId: 3
+        bookCode: levit
+        chapter: 14
+        short: Лев:14:46
+      - verseId: 23136
+        bookId: 3
+        bookCode: levit
+        chapter: 15
+        short: Лев:15:5
+      - verseId: 23354
+        bookId: 3
+        bookCode: levit
+        chapter: 22
+        short: Лев:22:6
+      - verseId: 11553
+        bookId: 4
+        bookCode: cisla
+        chapter: 19
+        short: Чис:19:7
+      - verseId: 402
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 20
+        short: 1 Цар:20:26
+      - verseId: 9425
+        bookId: 44
+        bookCode: kniga-proroka-aggea
+        chapter: 2
+        short: Агг:2:13
+      - verseId: 9426
+        bookId: 44
+        bookCode: kniga-proroka-aggea
+        chapter: 2
+        short: Агг:2:14
+    translates:
+      kassian: ""
+      podstr: И в этих будет осквернён, всякий касающийся трупов их нечистый будет до
+        вечера,
+      csya: "всяк прикасаяйся мертвечине их нечист будет до вечера:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "всsкъ прикасazйсz мертвечи1нэ и4хъ нечи1стъ бyдетъ до ве1чера:"
+      sovr_rbo: Вот животные, из-за которых вы можете оказаться нечистыми — кто
+        прикоснется к трупу одного из них, будет нечист до вечера,
+      latin: "et quicumque morticina eorum tetigerit, polluetur, et erit immundus
+        usque ad vesperum:"
+      ukr: "І через них ви будете ставати нечисті: кожен, хто доторкнеться до їхнього
+        падла, буде нечистий аж до вечора."
+      nkjv: "'By these you shall become unclean; whoever touches the carcass of any of
+        them shall be unclean until evening; "
+      desnitsky: ""
+      mt: ‫   וּלְאֵלֶּה תִּטַּמָּאוּ כָּל־הַנֹּגֵעַ בְּנִבְלָתָם יִטְמָא עַד־הָעָרֶב׃
+        ‬
+      romana: Tot cel ce se va atinge de trupul lor necurat va fi pana seara;
+      francais: "Ils vous rendront impurs: quiconque touchera leurs corps morts sera
+        impur jusqu'au soir,"
+      italian: "Per i seguenti animali diventerete immondi: chiunque toccherà il loro
+        cadavere sarà immondo fino alla sera"
+      old_georgian: ყოველი რომელი შეეხოს მკუდარსა მათგანსა, არაწმიდაჲ იყოს იგი მწუხრადმდე.
+      portuguese: Também por eles vos tornareis imundos; qualquer que tocar nos seus
+        cadáveres, será imundo até a tarde,
+      polish: "Następujące zwierzęta czynią człowieka nieczystym. Każdy, kto dotknie
+        się\rich padliny, będzie nieczysty aż do wieczora."
+      turkish: "«`Sizi kirletecek şeyler şunlardır: Aşağıdaki hayvanların leşine
+        dokunan akşama kadar kirli sayılacaktır."
+      nrt: Вы осквернитесь ими. Любой, кто прикоснется к их трупам, будет нечист до
+        вечера.
+      Macarius: "От них вы будете нечисты: всяк, кто прикоснется к трупу их, нечист
+        будет до вечера."
+      bulgarian: "от тях ще се осквернявате: всеки, който се допре до трупа им, ще
+        бъде нечист до вечерта;"
+      deutsch: und sollt sie unrein achten. Wer solcher Aas anrührt, der wird unrein
+        sein bis auf den Abend.
+      ukr2: "А від таких ви ставатимете нечистими: хто доторкнеться їхнього падла,
+        стане нечистим до вечора;"
+      ukr3: "І від них нечистими робити метесь: хто торкнеться стерва їх, нечистим
+        стане до вечора."
+      bel_syomukha: "ад іх вы будзеце нячыстыя: кожны, хто дакранецца да трупа іхняга,
+        нячысты будзе да вечара;"
+      spbda: "От них вы будете нечисты: всяк, кто прикоснется к трупу их, нечист будет
+        до вечера."
+      lev-khv: "От них вы будете нечисты: всяк, кто прикоснется к трупу их, нечист
+        будет до вечера."
+      czech: Tou byste se poskvrnili. Kazdy, kdo se dotkne jejich zdechliny, bude
+        necisty az do vecera
+      spanish: Quien tocare uno de sus cadáveres se contaminará, y será inmundo hasta
+        la tarde;
+      greek-lxx: καὶ ἐν τούτοις μιανθήσεσθε πᾶς ὁ ἁπτόμενος τῶν θνησιμαίων αὐτῶν
+        ἀκάθαρτος ἔσται ἕως ἑσπέρας
+      st_text: "от них вы будете нечисты: всякий, кто прикоснется к трупу их, нечист
+        будет до вечера;"
+  - id: 22986
+    number: 25
+    bookId: 3
+    text: и всякий, кто возьмет труп их, должен омыть одежду свою и нечист будет до
+      вечера.
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и всякий берущий трупы их омоет одежды и нечистый будет до вечера;
+      csya: и всяк вземляй мертвечину их да измыет ризы своя и нечист будет до вечера.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 всsкъ взе1млzй мертвечи1ну и4хъ да и3змы1етъ ри6зы сво‰ и3 нечи1стъ
+        бyдетъ до ве1чера.
+      sovr_rbo: а кто поднимет такой труп, должен будет постирать свою одежду и
+        останется нечистым до вечера.
+      latin: et si necesse fuerit ut portet quippiam horum mortuum, lavabit vestimenta
+        sua, et immundus erit usque ad occasum solis.
+      ukr: А кожен, хто понесе що з їхнього падла, випере одежу свою, і буде нечистий
+        аж до вечора.
+      nkjv: "whoever carries part of the carcass of any of them shall wash his clothes
+        and be unclean until evening:"
+      desnitsky: ""
+      mt: ‫   וְכָל־הַנֹּשֵׂא מִנִּבְלָתָם יְכַבֵּס בְּגָדָיו וְטָמֵא עַד־הָעָרֶב׃ ‬
+      romana: Si tot cel ce va lua in maini trupul lor sa-si spele haina si necurat va
+        fi pana seara.
+      francais: et quiconque portera leurs corps morts lavera ses vêtements et sera
+        impur jusqu'au soir.
+      italian: e chiunque trasporterà i loro cadaveri si dovrà lavare le vesti e sarà
+        immondo fino alla sera.
+      old_georgian: და ყოველი რომელი შეეხოს მძორსა მას მათსა, განირცხენ სამოსელი მისი
+        და არაწმიდა იყოს იგი ვიდრე მწუხრადმდე.
+      portuguese: e quem levar qualquer parte dos seus cadáveres, lavará as suas
+        vestes, e será imundo até a tarde.
+      polish: "Każdy, kto będzie nosić ich padlinę, wypierze ubranie i pozostanie
+        nieczysty\raż do wieczora."
+      turkish: Kim aşağıdaki hayvanların leşini taşırsa giysilerini yıkayacak ve
+        akşama kadar kirli sayılacaktır.
+      nrt: Любой, кто подберет такой труп, должен выстирать одежду и будет нечист до
+        вечера.
+      Macarius: И всяк, кто возьмет труп их, должен омыть одежду свою, и нечист будет
+        до вечера.
+      bulgarian: и всеки, който понесе трупа им, да изпере дрехата си и да бъде нечист
+        до вечерта.
+      deutsch: Und wer dieser Aase eines tragen wird, soll seine Kleider waschen und
+        wird unrein sein bis auf den Abend.
+      ukr2: і хто нестиме стерво котрогось із них, мусить випрати свою одіж, і буде
+        нечистим до вечора.
+      ukr3: І хто нести ме частку трупа їх, мусить випрати одїж свою, і буде нечистим
+        до вечора.
+      bel_syomukha: і кожны, хто возьме труп іхні, павінен абмыць вопратку сваю і
+        нячысты будзе да вечара.
+      spbda: И всяк, кто понесет что-нибудь от трупа их, должен омыть одежду свою, и
+        не чист будет до вечера.
+      lev-khv: И всяк, кто понесет что нибудь от трупа их, должен омыть одежду свою, и
+        нечист будет до вечера.
+      czech: a kazdy, kdo by neco z jejich zdechliny nesl, vypere si saty a bude
+        necisty az do vecera.
+      spanish: y si tocare algo de esto muerto, lavará sus vestiduras, y será inmundo
+        hasta la puesta del sol.
+      greek-lxx: καὶ πᾶς ὁ αἴρων τῶν θνησιμαίων αὐτῶν πλυνεῖ τὰ ἱμάτια καὶ ἀκάθαρτος
+        ἔσται ἕως ἑσπέρας
+      st_text: и всякий, кто возьмет труп их, должен омыть одежду свою и нечист будет
+        до вечера.
+  - id: 22987
+    number: 26
+    bookId: 3
+    text: "Всякий скот, у которого копыта раздвоены, но нет глубокого разреза, и
+      который не жует жвачки, нечист для вас: всякий, кто прикоснется к нему,
+      будет нечист [до вечера]."
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: среди всех животных что есть [с] раздвоенным копытом и надвое
+        разрезанным и жвачку не отрыгивает, нечистые они будут вам; всякий
+        касающийся трупов их нечистый будет до вечера.
+      csya: "Во всех скотех, иже раздвояет копыто и пазнокти имеет, а жвания не
+        отрыгает, нечиста да будут вам: всяк прикасаяйся мертвечине их нечист
+        будет даже до вечера:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Во всёхъ скотёхъ, и4же раздвоsетъ копы1то и3 пaзнwкти и3мёетъ, ґ
+        жвaніz не tрыгaетъ, нечи6ста да бyдутъ вaмъ: всsкъ прикасazйсz
+        мертвечи1нэ и4хъ нечи1стъ бyдетъ дaже до ве1чера:"
+      sovr_rbo: Все копытные животные, у которых копыта не раздвоены или которые не
+        жуют жвачку для вас нечисты; кто прикоснется к их телу, будет нечист.
+      latin: "Omne animal quod habet quidem ungulam, sed non dividit eam, nec ruminat,
+        immundum erit: et qui tetigerit illud, contaminabitur."
+      ukr: Щодо всякої худоби, що має розділене копито, і що не має роздвоєного
+        розривом копита, і жуйки не жує, нечисті вони для вас. Кожен, хто
+        доторкнеться до них, буде нечистий.
+      nkjv: The carcass of any animal which divides the foot, but is not cloven-hoofed
+        or does not chew the cud, is unclean to you. Everyone who touches it
+        shall be unclean.
+      desnitsky: ""
+      mt: ‫   לְכָל־הַבְּהֵמָה אֲשֶׁר הִוא מַפְרֶסֶת פַּרְסָה וְשֶׁסַע אֵינֶנָּה
+        שֹׁסַעַת וְגֵרָה אֵינֶנָּה מַעֲלָה טְמֵאִים הֵם לָכֶם כָּל־הַנֹּגֵעַ
+        בָּהֶם יִטְמָא׃ ‬
+      romana: Tot dobitocul cu copita despicata, care n-are copita despartita adanc
+        sau nu-si rumega mancarea, este necurat pentru voi; tot cel ce se va
+        atinge de el necurat va fi pana seara.
+      francais: "Vous regarderez comme impur tout animal qui a la corne fendue, mais
+        qui n'a pas le pied fourchu et qui ne rumine pas: quiconque le touchera
+        sera impur."
+      italian: "Riterrete immondo ogni ani male che ha l'unghia, ma non divisa da
+        fessura, e non rumina: chiunque li toccherà sarà immondo."
+      old_georgian: ყოველთა შორის პირუტუთა, რომელთა ჭლაკი განყოფილ არს და ფრცხილითა
+        ფრცხენს და აღმოცოხნით არა აღმოიცოხნის, არაწმიდა იყოს თქუენდა. ყოველი
+        რომელი შეეხოს მძორსა მათგანსა, არაწმიდა იყოს იგი ვიდრე მწუხრადმდე.
+      portuguese: "Todo animal que tem unhas fendidas, mas cuja fenda não as divide em
+        duas, e que não rumina, será para vós\rimundo; qualquer que tocar neles
+        será imundo."
+      polish: "Każde zwierzę, które ma kopyta, ale nie rozdzielone, i nie przeżuwa,
+        będzie\rnieczyste dla was. Każdy, kto się go dotknie, będzie nieczysty."
+      turkish: Çatal tırnaklı ama tırnağı yarık olmayan ve geviş getirmeyen her hayvan
+        sizin için kirlidir. Bunlara dokunan da kirlenmiş sayılır.
+      nrt: Любое животное, у которого копыто раздвоено, но не имеет глубокого разреза,
+        или которое не жует жвачку, нечисто для вас. Всякий, кто прикоснется к
+        ним, станет нечист.
+      Macarius: "Всякий скот, у которого копыта раздвоены, но нет у них глубокого
+        разреза, и который не жует жвачки, нечист для вас: всяк, кто прикоснется
+        к нему, будет нечист [до вечера]."
+      bulgarian: "Всеки добитък, който има раздвоени копита, но без дълбок разрез, и
+        който не преживя, е нечист за вас: всеки, който се допре до него, да
+        бъде нечист (до вечерта)."
+      deutsch: Darum alles Getier, das Klauen hat und spaltet sie nicht und
+        wiederkäuet nicht, das soll euch unrein sein.
+      ukr2: Всяка скотина, що має ратиці, але нероз-колені, і не ремиґає, нечиста вам.
+        Хто б не доторкнувся її, буде нечистим.
+      ukr3: "Всяка скотина, що має ратицї та не зовсїм розколені ратицї і не ремигає:
+        гидота вам; хто торкнеться об неї, буде нечистим."
+      bel_syomukha: "Усякае быдла, у якога капыты расшчэпленыя, але няма глыбокага
+        разрэзу, і якое ня жуе жуйкі, нячыстае вам: кожны, хто дакранаецца да
+        яго, будзе нячысты:"
+      spbda: "Всякой скот, у котораго копыта раздвоены, но нет глубокаго разреза, и
+        который не жует жвачки, нечист для вас: всяк, кто прикоснется к нему,
+        будет нечист."
+      lev-khv: "Всякий скот, у котораго копыта раздвоены, но нет глубокаго разреза, и
+        который не жует жвачки, нечист для вас: всяк, кто прикоснется к нему,
+        будет нечист."
+      czech: Kazde zvire, ktere ma rozdelena kopyta, ale ne rozpolcena uplne, a ktere
+        neprezvykuje, bude pro vas neciste. Kazdy, kdo se ho dotkne, bude
+        necisty.
+      spanish: Todo animal que tenga pezuña, pero no partida, ni rumie, será para
+        vosotros inmundo, y quien tocare su cadáver será inmundo.
+      greek-lxx: ἐν πᾶσιν τοῖς κτήνεσιν ὅ ἐστιν διχηλοῦν ὁπλὴν καὶ ὀνυχιστῆρας
+        ὀνυχίζει καὶ μηρυκισμὸν οὐ μαρυκᾶται ἀκάθαρτα ἔσονται ὑμῖν πᾶς ὁ
+        ἁπτόμενος τῶν θνησιμαίων αὐτῶν ἀκάθαρτος ἔσται ἕως ἑσπέρας
+      st_text: "Всякий скот, у которого копыта раздвоены, но нет глубокого разреза, и
+        который не жует жвачки, нечист для вас: всякий, кто прикоснется к нему,
+        будет нечист [до вечера]."
+  - id: 22988
+    number: 27
+    bookId: 3
+    text: "Из всех зверей четвероногих те, которые ходят на лапах, нечисты для вас:
+      всякий, кто прикоснется к трупу их, нечист будет до вечера;"
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И всякий, который идёт на лапах среди всех зверей, которые идут на
+        четырёх, нечистые будут вам; всякий касающийся трупов их нечистый будет
+        до вечера;
+      csya: "и всяк иже ходит на лапах, во всех зверех, иже ходят на четырех, нечиста
+        будут вам: всяк прикасаяйся мертвечине их нечист будет до вечера:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 всsкъ и4же хо1дитъ на лaпахъ, во всёхъ ѕвэре1хъ, и5же хо1дzтъ на
+        четы1рехъ, нечи6ста бyдутъ вaмъ: всsкъ прикасazйсz мертвечи1нэ и4хъ
+        нечи1стъ бyдетъ до ве1чера:"
+      sovr_rbo: Все четвероногие животные, которые ходят на лапах, для вас нечисты.
+        Кто прикоснется к трупу одного из них, будет нечист до вечера,
+      latin: "Quod ambulat super manus ex cunctis animantibus, quae incedunt
+        quadrupedia, immundum erit: qui tetigerit morticina eorum, polluetur
+        usque ad vesperum."
+      ukr: А кожне серед усякої звірини, що ходить на лапах своїх, що ходить на
+        чотирьох, нечисті вони для вас. Кожен, хто доторкнеться до їхнього
+        падла, буде нечистий аж до вечора.
+      nkjv: And whatever goes on its paws, among all kinds of animals that go on all
+        fours, those are unclean to you. Whoever touches any such carcass shall
+        be unclean until evening.
+      desnitsky: ""
+      mt: ‫   וְכֹל הוֹלֵךְ עַל־כַּפָּיו בְּכָל־הַחַיָּה הַהֹלֶכֶת עַל־אַרְבַּע
+        טְמֵאִים הֵם לָכֶם כָּל־הַנֹּגֵעַ בְּנִבְלָתָם יִטְמָא עַד־הָעָרֶב׃ ‬
+      romana: Din toate fiarele cu patru picioare, cele care calca pe labe sunt
+        necurate pentru voi si tot cel ce se va atinge de starvul lor necurat va
+        fi pana seara.
+      francais: "Vous regarderez comme impurs tous ceux des animaux à quatre pieds qui
+        marchent sur leurs pattes: quiconque touchera leurs corps morts sera
+        impur jusqu'au soir,"
+      italian: Conside — rerete immondi tutti i quadrupedi che camminano sulla pianta
+        dei piedi; chiunque ne toccherà il cadavere sarà immondo fino alla sera.
+      old_georgian: და ყოველი რომელი ვალს ჴელითა, ყოველთა შორის მჴეცთა, რომელი ვალს
+        ოთხითა, არაწმიდა არს იგი თქუენდა. ყოველი რომელი შეეხოს მძორსა მათსა,
+        არაწმიდა იყოს იგი ვიდრე მწუხრადმდე.
+      portuguese: "Todos os plantígrados dentre os quadrúpedes, esses vos serão
+        imundos; qualquer que tocar nos seus\rcadáveres será imundo até a
+        tarde,"
+      polish: "Każde zwierzę czworonożne, które chodzi opierając się na stopach,
+        będzie\rnieczyste dla was. Każdy, kto dotknie się jego padliny, będzie
+        nieczysty aż\rdo wieczora."
+      turkish: Dört ayaklı hayvanlardan pençelerini yere basarak yürüyenler sizin için
+        kirlidir. Bunların leşine dokunanlar akşama kadar kirli sayılacaktır.
+      nrt: Те четвероногие животные, которые ходят на лапах, нечисты для вас. Любой,
+        кто прикоснется к их трупам, будет нечист до вечера.
+      Macarius: "Из всех зверей четвероногих, те, которые ходят на лапах, нечисты для
+        вас: всяк, кто прикоснется к трупу их, нечист будет до вечера."
+      bulgarian: Ония от всички четвероноги зверове, които ходят на лапи, са нечисти
+        за вас; всеки, който се докосне до трупа им, да бъде нечист до вечерта;
+      deutsch: Und alles, was auf Tatzen geht unter den Tieren, die auf vier Füßen
+        gehen, soll euch unrein sein; wer ihr Aas anrührt, wird unrein sein bis
+        auf den Abend.
+      ukr2: Всяке чотириноге, що ходить на лапах, буде вам нечисте. Хто доторкнеться
+        його стерва, стане нечистий до вечора.
+      ukr3: І все ходюче на лапах між усїм животним, що на чотирох ногах, нечисте вам
+        буде; хто торкнеться об трупа їх, буде нечистий до вечора.
+      bel_syomukha: "з усіх зьвяроў чатырногаў тыя, якія ходзяць на лапах, нячыстыя
+        вам: кожны, хто дакранецца да трупа іхняга, нячысты будзе да вечара;"
+      spbda: Из всех зверей четвероногих, те, которые ходят на лапах, нечисты для вас;
+        всяк, кто прикоснется трупу их, нечист будеть до вечера.
+      lev-khv: "Из всех зверей четвероногих, те, которые ходят на лапах, нечисты для
+        вас: всяк, кто прикоснется трупу их, нечист будет до вечера."
+      czech: Take vsechno ze ctyrnohych zivocichu, co chodi po tlapach, bude pro vas
+        neciste. Kazdy, kdo se dotkne jejich zdechliny, bude necisty az do
+        vecera.
+      spanish: Los que andan sobre la planta de los pies serán para vosotros inmundos,
+        y quien tocare su cadáver será inmundo hasta la tarde,
+      greek-lxx: καὶ πᾶς ὃς πορεύεται ἐπὶ χειρῶν ἐν πᾶσι τοῖς θηρίοις ἃ πορεύεται ἐπὶ
+        τέσσαρα ἀκάθαρτα ἔσται ὑμῖν πᾶς ὁ ἁπτόμενος τῶν θνησιμαίων αὐτῶν
+        ἀκάθαρτος ἔσται ἕως ἑσπέρας
+      st_text: "Из всех зверей четвероногих те, которые ходят на лапах, нечисты для
+        вас: всякий, кто прикоснется к трупу их, нечист будет до вечера;"
+  - id: 22989
+    number: 28
+    bookId: 3
+    text: "кто возьмет труп их, тот должен омыть одежды свои и нечист будет до
+      вечера: нечисты они для вас."
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и берущий трупы их омоет одежды и нечистый будет до вечера; нечистые эти
+        вам есть.
+      csya: "и вземляй мертвечину их да исперет ризы своя и нечист будет до вечера:
+        нечиста сия будут вам."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 взе1млzй мертвечи1ну и4хъ да и3спере1тъ ри6зы сво‰ и3 нечи1стъ
+        бyдетъ до ве1чера: нечи6ста сі‰ бyдутъ вaмъ."
+      sovr_rbo: а кто поднимет такой труп, должен будет постирать свою одежду и
+        останется нечистым до вечера. Они для вас нечисты.
+      latin: "Et qui portaverit hujuscemodi cadavera, lavabit vestimenta sua, et
+        immundus erit usque ad vesperum: quia omnia haec immunda sunt vobis."
+      ukr: А хто носить їхнє падло, випере одежу свою, і буде нечистий аж до вечора.
+        Нечисті вони для вас.
+      nkjv: Whoever carries any such carcass shall wash his clothes and be unclean
+        until evening. It is unclean to you.
+      desnitsky: ""
+      mt: ‫   וְהַנֹּשֵׂא אֶת־נִבְלָתָם יְכַבֵּס בְּגָדָיו וְטָמֵא עַד־הָעָרֶב
+        טְמֵאִים הֵמָּה לָכֶם׃ ס ‬
+      romana: Cel ce va umbla cu starvul lor sa-si spele haina si necurat va fi pana
+        seara, caci ele sunt necurate pentru voi.
+      francais: et quiconque portera leurs corps morts lavera ses vêtements et sera
+        impur jusqu'au soir. Vous les regarderez comme impurs.
+      italian: E chiunque trasporterà i loro cadaveri si dovrà lavare le vesti e sarà
+        immondo fino alla sera. Tali animali riterrete immondi.
+      old_georgian: და რომელმან აღიღოს ჴელითა მკუდარი მათგანი, განირცხეს სამოსელი
+        მისი, და იბანენ წყლითა და არაწმიდა იყოს იგი ვიდრე მწუხრადმდე.
+      portuguese: e o que levar os seus cadáveres lavará as suas vestes, e será imundo
+        até a tarde; eles serão para vós imundos.
+      polish: "Każdy, kto będzie nosić ich padlinę, wypierze ubranie i pozostanie
+        nieczysty\raż do wieczora. To są rzeczy nieczyste dla was!"
+      turkish: Bunların leşini taşıyanlar giysilerini yıkayacak ve akşama kadar kirli
+        sayılacaktır. Çünkü bu hayvanlar sizin için kirlidir.
+      nrt: Любой, кто подберет их труп, должен выстирать одежду и будет нечист до
+        вечера. Эти животные нечисты для вас.
+      Macarius: "Кто возьмет труп их, тот должен омыть одежды свои, и нечист будет до
+        вечера: нечисты они для вас."
+      bulgarian: "който понесе трупа им, да изпере дрехите си и да бъде нечист до
+        вечерта: те са нечисти за вас."
+      deutsch: Und wer ihr Aas trägt, soll seine Kleider waschen und unrein sein bis
+        auf den Abend; denn solche sind euch unrein.
+      ukr2: А хто б ніс цю падлину, мусить випрати одежу, й буде нечистий до вечора;
+        вони нечисті вам.
+      ukr3: А хто нїс їх трупа, мусить випрати одїж свою і буде нечистий аж до вечора;
+        нечисті вони вам.
+      bel_syomukha: "хто возьме труп іх, той павінен абмыць вопратку сваю і нячысты
+        будзе да вечара: нячыстыя яны вам."
+      spbda: "Кто понесет труп их, тот должен омыть одежды свои, и нечист будет до
+        вечера: нечисты они для вас."
+      lev-khv: "Кто понесет труп их, тот должен омыть одежды свои, и нечист будет до
+        вечера: нечисты они для вас."
+      czech: Kdo by nesl jejich zdechlinu, vypere si saty a bude necisty az do vecera.
+        To vsechno je pro vas neciste.
+      spanish: y quien transportare su cadáver lavará sus vestiduras y será inmundo
+        hasta la tarde.
+      greek-lxx: καὶ ὁ αἴρων τῶν θνησιμαίων αὐτῶν πλυνεῖ τὰ ἱμάτια καὶ ἀκάθαρτος ἔσται
+        ἕως ἑσπέρας ἀκάθαρτα ταῦτα ὑμῖν ἐστιν
+      st_text: "кто возьмет труп их, тот должен омыть одежды свои и нечист будет до
+        вечера: нечисты они для вас."
+  - id: 22990
+    number: 29
+    bookId: 3
+    text: "Вот что нечисто для вас из животных, пресмыкающихся по земле: крот, мышь,
+      ящерица с ее породою,"
+    chapter: 11
+    chapterId: 101
+    parallels:
+      - verseId: 23353
+        bookId: 3
+        bookCode: levit
+        chapter: 22
+        short: Лев:22:5
+    translates:
+      kassian: ""
+      podstr: И эти вам нечистые из пресмыкающихся ползающих на земле; ласка и мышь и
+        крокодил сухопутный,
+      csya: "И сия вам нечиста от гад плежущих по земли: ласица и мыш и крокодил
+        земный,"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# сі‰ вaмъ нечи6ста t г†дъ плёжущихъ по земли2: лaсица и3 мы1шъ и3
+        крокоди1лъ земны1й,"
+      sovr_rbo: Из мелких тварей, которые снуют по земле, для вас нечисты крот, мышь,
+        крупные ящерицы разных видов,
+      latin: Haec quoque inter polluta reputabuntur de his quae moventur in terra,
+        mustela et mus et crocodilus, singula juxta genus suum,
+      ukr: "А оце вам нечисте серед плазунів, що плазують по землі: кріт, і миша, і
+        ящірка за родом її,"
+      nkjv: "'These also shall be unclean to you among the creeping things that creep
+        on the earth: the mole, the mouse, and the large lizard after its kind;
+        "
+      desnitsky: ""
+      mt: ‫   וְזֶה לָכֶם הַטָּמֵא בַּשֶּׁרֶץ הַשֹּׁרֵץ עַל־הָאָרֶץ הַחֹלֶד
+        וְהָעַכְבָּר וְהַצָּב לְמִינֵהוּ׃ ‬
+      romana: "Din dobitoacele ce misuna pe pamant, iata care sunt necurate pentru
+        voi: cartita, soarecele si soparla, cu soiurile lor;"
+      francais: "Voici, parmi les animaux qui rampent sur la terre, ceux que vous
+        regarderez comme impurs: la taupe, la souris et le lézard, selon leurs
+        espèces;"
+      italian: "Fra gli animali che strisciano per terra riterrete immondi: la talpa,
+        il topo e ogni specie di sauri,"
+      old_georgian: "რამეთუ არაწმიდა არს ესე ყოველი თქუენდა. და ესეცა თქუენდა არაწმიდა
+        არს ქუეწარმავალთაგანი, რომელნი ძურებიან ქუეყანასა ზედა:"
+      portuguese: "Estes também vos serão por imundos entre os animais que se arrastam
+        sobre a terra: a doninha, o rato, o\rcrocodilo da terra segundo a sua
+        espécie,"
+      polish: "Spośród małych zwierząt, które poruszają się na ziemi, następujące są
+        nie\rczyste: kret, mysz i wszelkie gatunki jaszczurek,"
+      turkish: ""
+      nrt: "Из пресмыкающихся для вас нечисты: ласка, мышь, любой вид шипохвоста,"
+      Macarius: "Вот что нечисто для вас из животных, пресмыкающихся по земле: крот,
+        мышь, ящерица с ее породою,"
+      bulgarian: "От животните, които пълзят по земята, ето кои са нечисти за вас:
+        къртица, мишка, гущер с породата му;"
+      deutsch: "Diese sollen euch auch unrein sein unter den Tieren, die auf Erden
+        kriechen: das Wiesel, die Maus, die Kröte, ein jegliches mit seiner
+        Art,"
+      ukr2: "З дрібних же тварин, що повзають по землі, оці будуть вам нечисті:
+        ласиця, щур і різні роди ящірок;"
+      ukr3: "І сї нечисті вам з животини лазючої по землї: кріт, і миш, і ящірка з
+        породою своєю,"
+      bel_syomukha: "Вось, што нячыстае вам з жывёлаў, што поўзаюць па зямлі: крот,
+        мыш, яшчарка зь яе пародаю,"
+      spbda: "Вот что нечисто для вас из животных, пресмыкающихся по земле: крот, и
+        мышь, и ящерица с породою ея."
+      lev-khv: "И вот, чтó нечисто для вас из животных, пресмыкающихся по земле: крот,
+        и мышь, и ящерица с породою ея,"
+      czech: "Dale pro vas bude neciste z haveti hemzici se po zemi: krysa, mys, ruzne
+        druhy jesterek,"
+      spanish: "También estos animales serán para vosotros inmundos de entre los que
+        andan por la tierra: la comadreja, el ratón y la tortuga, en todas sus
+        especies;"
+      greek-lxx: καὶ ταῦτα ὑμῖν ἀκάθαρτα ἀπὸ τῶν ἑρπετῶν τῶν ἑρπόντων ἐπὶ τῆς γῆς ἡ
+        γαλῆ καὶ ὁ μῦς καὶ ὁ κροκόδειλος ὁ χερσαῖος
+      st_text: "Вот что нечисто для вас из животных, пресмыкающихся по земле: крот,
+        мышь, ящерица с ее породою,"
+  - id: 22991
+    number: 30
+    bookId: 3
+    text: анака, хамелеон, летаа, хомет и тиншемет, -
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: полевая мышь и хамелеон и тритон и ящерица и крот.
+      csya: "мигали и хамелеон, и халавотис и ящер и кроторыя:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "мmгaли и3 хамелеHнъ, и3 халавHтисъ и3 ћщеръ и3 кроторы1z:"
+      sovr_rbo: геккон, пятнистая ящерица, обычная ящерица, сцинк и хамелеон.
+      latin: mygale, et chamaeleon, et stellio, et lacerta, et talpa.
+      ukr: і ховрах, і щур, і слимак, і їжак, і тхір.
+      nkjv: the gecko, the monitor lizard, the sand reptile, the sand lizard, and the
+        chameleon.
+      desnitsky: ""
+      mt: ‫   וְהָאֲנָקָה וְהַכֹּחַ וְהַלְּטָאָה וְהַחֹמֶט וְהַתִּנְשָׁמֶת׃ ‬
+      romana: Ariciul, crocodilul, salamandra, melcul si cameleonul.
+      francais: le hérisson, la grenouille, la tortue, le limaçon et le caméléon.
+      italian: il toporagno, la lucertola, il geco, il ramarro, il camaleonte.
+      old_georgian: ქურცინი, და თაგჳ, და ხჳთქი, და თაგჳ ქურცინი, და მსუენ-ლომი, და
+        მხულივი და მსუენი და მთხუნველი. ესე ყოველი არაწმიდა არს თქუენდა
+        ყოველთაგან ქუეწარმავალთა, რომელნი ძურებიან ქუეყანასა ზედა. ყოველი რომელი
+        შეეხოს მათგანსა მძორსა, არაწმიდა იყოს იგი ვიდრე მწუხრადმდე.
+      portuguese: o musaranho, o crocodilo da água, a lagartixa, o lagarto e a toupeira.
+      polish: gekko, żółw, salamandra, skolopendra i kameleon.
+      turkish: "«`Küçük kara hayvanları içinde sizin için kirli sayılanlar şunlardır:
+        Gelincik, fare, bütün kertenkele türleri -geko, varan, duvar
+        kertenkelesi, düz keler- bukalemun."
+      nrt: геккон, варан, стенная ящерица, веретеница и хамелеон.
+      Macarius: Анака, хамелеон, летаа, хомет и тиншемет.
+      bulgarian: анака, хамелеон, летаа, хомет и тиншемет, -
+      deutsch: der Igel, der Molch, die Eidechse, die Blindschleiche und der Maulwurf;
+      ukr2: анака, коах, летаа, хомет і тіншамет.
+      ukr3: І анака, і коах, і летах, і хомет, і хамелон,
+      bel_syomukha: тхор, хамелеон, ласка, сьлімак і жаба, -
+      spbda: И анака, и хамелеон, и летаа, и хомет и тиншемет.
+      lev-khv: И анака, и коах, и летаа, и хомет, и тиншемет.
+      czech: gekoni, scinkove a chameleon.
+      spanish: el musgaño, el camaleón, la salamandra, el lagarto y el topo.
+      greek-lxx: μυγαλῆ καὶ χαμαιλέων καὶ καλαβώτης καὶ σαύρα καὶ ἀσπάλαξ
+      st_text: анака, хамелеон, летаа, хомет и тиншемет, -
+  - id: 22992
+    number: 31
+    bookId: 3
+    text: "сии нечисты для вас из всех пресмыкающихся: всякий, кто прикоснется к ним
+      мертвым, нечист будет до вечера."
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Эти нечистые вам из всех пресмыкающихся на земле; всякий касающийся их
+        умерших нечистый будет до вечера.
+      csya: "сии нечисти вам от всех гад плежущих по земли: всяк прикасаяйся
+        мертвечине их нечист будет до вечера."
+      averincev: ""
+      ungerov: ""
+      csya_old: "сjи нечи1сти вaмъ t всёхъ г†дъ плёжущихъ по земли2: всsкъ прикасazйсz
+        мертвечи1нэ и4хъ нечи1стъ бyдетъ до ве1чера."
+      sovr_rbo: Это нечистые мелкие твари. Кто прикоснется к такой твари, уже
+        издохшей, тот будет нечист до вечера.
+      latin: "Omnia haec immunda sunt. Qui tetigerit morticina eorum, immundus erit
+        usque ad vesperum:"
+      ukr: Оці нечисті для вас серед усього плазуючого. Кожен, хто доторкнеться до
+        них, коли вони мертві, буде нечистий аж до вечора.
+      nkjv: These are unclean to you among all that creep. Whoever touches them when
+        they are dead shall be unclean until evening.
+      desnitsky: ""
+      mt: ‫   אֵלֶּה הַטְּמֵאִים לָכֶם בְּכָל־הַשָּׁרֶץ כָּל־הַנֹּגֵעַ בָּהֶם בְּמֹתָם
+        יִטְמָא עַד־הָעָרֶב׃ ‬
+      romana: Acestea dintre toate cele ce misuna pe pamant sunt necurate pentru voi.
+        Tot cel ce se atinge de starvurile lor necurat va fi pana seara.
+      francais: "Vous les regarderez comme impurs parmi tous les reptiles: quiconque
+        les touchera morts sera impur jusqu'au soir."
+      italian: Questi animali, fra quanti strisciano, saranno immondi per voi;
+        chiunque li toccherà morti, sarà immondo fino alla sera.
+      old_georgian: და ყოველსა, რომელსა შთავარდეს მკუდარი ამათგანი, არაწმიდა იყოს.
+      portuguese: "Esses vos serão imundos dentre todos os animais rasteiros; qualquer
+        que os tocar, depois de mortos, será\rimundo até a tarde;"
+      polish: Te są nieczyste dla was spośród małych zwierząt, które poruszają się na
+        ziemi. Każdy, kto dotknie się ich padliny, będzie nieczysty aż do
+        wieczora.
+      turkish: Sizin için kirli sayılan küçük kara hayvanları bunlardır. Bunların
+        leşine dokunan akşama kadar kirli sayılacaktır.
+      nrt: Из пресмыкающихся все эти животные нечисты для вас. Любой, кто прикоснется
+        к их трупам, будет нечист до вечера.
+      Macarius: "Сии нечисты для вас из всех пресмыкающихся: всяк, кто прикоснется к
+        ним мертвым, нечист будет до вечера."
+      bulgarian: "от всички влечуги те са нечисти за вас: всеки, който се допре до
+        трупа им, да бъде нечист до вечерта."
+      deutsch: die sind euch unrein unter allem, was da kriecht; wer ihr Aas anrührt,
+        der wird unrein sein bis auf den Abend.
+      ukr2: Між усіма повзунами будуть вони для вас нечисті. Хто доторкнеться їх
+        падлини, буде нечистий до вечора.
+      ukr3: Сї нечисті вам зміж усїх повзючих; хто торкнеться об них здохлих, кожен
+        буде нечистий аж до вечора.
+      bel_syomukha: "гэтыя нячыстыя вам з усіх паўзуноў: кожны, хто дакранецца да іх
+        мёртвых, нячысты будзе да вечара."
+      spbda: "Сии не чисты для вас из всех пресмыкающихся: всяк, кто прикоснется к ним
+        мертвым, нечист будет до вечера."
+      lev-khv: "Сии нечисты для вас из всех пресмыкающихся: всяк, кто прикоснется к
+        ним мертвым, нечист будет до вечера."
+      czech: Ti jsou pro vas necisti z veskere haveti. Kazdy, kdo se jich dotkne, kdyz
+        pojdou, bude necisty az do vecera.
+      spanish: Estos son los para vosotros inmundos entre los reptiles; quien tocare
+        su cadáver será inmundo hasta la tarde.
+      greek-lxx: ταῦτα ἀκάθαρτα ὑμῖν ἀπὸ πάντων τῶν ἑρπετῶν τῶν ἐπὶ τῆς γῆς πᾶς ὁ
+        ἁπτόμενος αὐτῶν τεθνηκότων ἀκάθαρτος ἔσται ἕως ἑσπέρας
+      st_text: "сии нечисты для вас из всех пресмыкающихся: всякий, кто прикоснется к
+        ним мертвым, нечист будет до вечера."
+  - id: 22993
+    number: 32
+    bookId: 3
+    text: "И всё, на что упадет которое-нибудь из них мертвое, всякий деревянный
+      сосуд, или одежда, или кожа, или мешок, и всякая вещь, которая
+      употребляется на дело, будут нечисты: в воду должно положить их, и нечисты
+      будут до вечера, потом будут чисты;"
+    chapter: 11
+    chapterId: 101
+    parallels:
+      - verseId: 23143
+        bookId: 3
+        bookCode: levit
+        chapter: 15
+        short: Лев:15:12
+    translates:
+      kassian: ""
+      podstr: И всякое, на которое если павшее от них умерших их, нечистое будет от
+        всякой вещи древесной или накидки или шкуры или вретища; всякая вещь,
+        которая если выполнит дело в нём, в воде будет омыта и нечистая будет до
+        вечера и чистая будет.
+      csya: "И всяко, в неже аще впадет от них нечто от мертвечины их, нечист будет
+        всяк сосуд древян, или риза, или кожа, или вретище: всякий сосуд, в
+        немже творится дело, в воде погрузится и нечист будет до вечера, и по
+        сих чист будет:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# всsко, въ не1же ѓще впаде1тъ t ни1хъ нёчто t мертвечи1ны и4хъ,
+        нечи1стъ бyдетъ всsкъ сосyдъ древsнъ, и3ли2 ри1за, и3ли2 ко1жа, и3ли2
+        вре1тище: всsкій сосyдъ, въ не1мже твори1тсz дёло, въ водЁ погрузи1тсz
+        и3 нечи1стъ бyдетъ до ве1чера, и3 по си1хъ чи1стъ бyдетъ:"
+      sovr_rbo: На что такая тварь, издохнув, упадет, то станет нечистым, будь оно из
+        дерева, ткани, шкуры или мешковины. Если эта вещь необходима для дела,
+        ее следует погрузить в воду; она будет нечистой до вечера, а затем
+        станет чистой.
+      latin: "et super quod ceciderit quidquam de morticinis eorum, polluetur, tam vas
+        ligneum et vestimentum, quam pelles et cilicia: et in quocumque fit
+        opus, tingentur aqua, et polluta erunt usque ad vesperum, et sic postea
+        mundabuntur."
+      ukr: І все, що впаде на нього, коли вони мертві, буде нечисте, кожна річ, з
+        дерева, або з одежі, або зо шкури, або з грубої тканини, кожна річ, що
+        вживається до праці, в воду треба покласти їх, і будуть нечисті аж до
+        вечора, а потому стануть чистими.
+      nkjv: Anything on which any of them falls, when they are dead shall be unclean,
+        whether it is any item of wood or clothing or skin or sack, whatever
+        item it is, in which any work is done, it must be put in water. And it
+        shall be unclean until evening; then it shall be clean.
+      desnitsky: ""
+      mt: ‫   וְכֹל אֲשֶׁר־יִפֹּל־עָלָיו מֵהֶם בְּמֹתָם יִטְמָא מִכָּל־כְּלִי־עֵץ אוֹ
+        בֶגֶד אוֹ־עוֹר אוֹ שָׂק כָּל־כְּלִי אֲשֶׁר־יֵעָשֶׂה מְלָאכָה בָּהֶם
+        בַּמַּיִם יוּבָא וְטָמֵא עַד־הָעֶרֶב וְטָהֵר׃ ‬
+      romana: Tot lucrul, pe care va cadea vreuna din acestea, moarta, fie vas de
+        lemn, sau haina, sau piele, sau orice fel de lucru ce se intrebuinteaza
+        la ceva, lucrul acela necurat va fi; sa-l puneti in apa si va fi necurat
+        pana seara, iar apoi va fi curat.
+      francais: Tout objet sur lequel tombera quelque chose de leurs corps morts sera
+        souillé, ustensiles de bois, vêtement, peau, sac, tout objet dont on
+        fait usage; il sera mis dans l'eau, et restera souillé jusqu'au soir;
+        après quoi, il sera pur.
+      italian: "Ogni oggetto sul quale cadrà morto qualcuno di essi, sarà immondo: si
+        tratti di utensili di legno o di veste o pelle o sacco o qualunque altro
+        oggetto di cui si faccia uso; si immergerà nell'acqua e sarà immondo
+        fino alla sera; poi sarà mondo."
+      old_georgian: ყოველსავე ჭურჭელსა ძელისასა, გინა სამოსელსა, გინა ტყავსა, გინა ძაძასა.
+      portuguese: "e tudo aquilo sobre o que cair o cadáver de qualquer deles será
+        imundo; seja vaso de madeira, ou vestidura, ou\rpele, ou saco, seja
+        qualquer instrumento com que se faz alguma obra, será metido na água, e
+        será imundo até a\rtarde; então será limpo."
+      polish: "Jeżeli które z tych zwierząt nieżywe upadnie na coś, to ta rzecz będzie
+        nieczysta, niezależnie od tego, czy to będzie naczynie drewniane, czy
+        ubranie,\rczy skóra, czy worek, czy jakiekolwiek narzędzie pracy. Obmyją
+        je wodą i\rpozostanie nieczyste aż do wieczora, potem będzie czyste."
+      turkish: Bunlardan birinin leşi neyin üzerine düşerse onu da kirletir. İster
+        tahta kap, ister giysi, ister deri, ister çul olsun suya konmalıdır.
+        Akşama kadar kirli sayılacak ve akşam temizlenmiş olacaktır.
+      nrt: Если труп упадет на что-нибудь, та вещь, каким бы ни было ее назначение,
+        станет нечиста, будь она из дерева, ткани, шкуры или мешковины. Ее нужно
+        окунуть в воду. Она будет нечиста до вечера, а затем вновь станет
+        чистой.
+      Macarius: "И все, на что упадет которое-нибудь из них мертвое, всякий деревянный
+        сосуд, или одежда, или кожа, или мешок, и всякая вещь, которая
+        употребляется на дело, будут нечисты: в воду должно положить их, и
+        нечисты будут до вечера, потом будут чисты."
+      bulgarian: "И всичко, връх каквото падне някое мъртво от тях, всеки дървен съд,
+        или дреха, или кожа, или чувал, и всяка вещ, която се употребява в
+        работа, да бъдат нечисти: те трябва да се турят във вода, и ще бъдат
+        нечисти до вечерта, след това ще бъдат чисти;"
+      deutsch: Und alles, worauf ein solch totes Aas fällt, das wird unrein, es sei
+        allerlei hölzernes Gefäß oder Kleider oder Fell oder Sack; und alles
+        Gerät, womit man etwas schafft, soll man ins Wasser tun, und es ist
+        unrein bis auf den Abend; alsdann wird's rein.
+      ukr2: "І все, на що впаде з їхньої падлини, буде нечисте: чи то буде дерев'яний
+        посуд, чи одежа, чи шкура, чи мішок, чи що-небудь, що служить для якоїсь
+        потреби, все це треба вкинути в воду й воно буде нечисте до вечора; по
+        тому ж знову стане чистим."
+      ukr3: І все, на що одно з них впаде, коли воно здохле, буде нечисть; усяка
+        посудина деревяна, чи одїж, чи шкіра, чи торба, чи знаряддє яке, що ним
+        що робиться, треба класти в воду і будуть нечисті до вечора, а потім
+        чисті будуть.
+      bel_syomukha: "І ўсё, на што ўпадзе што-небудзь зь іх мёртвае, любы драўняны
+        посуд, альбо вопратка, альбо скура, альбо мяшок, і любая рэч, якая
+        ўжываецца ў карыстаньне, будуць нячыстыя: у ваду трэба пакласьці іх, і
+        нячыстыя будуць да вечара, потым будуць чыстыя;"
+      spbda: "И все, на чтó упадет которое-нибудь из них мертвое, всякой деревянный
+        сосуд, или одежда, или кожа, или мешок, и всякая вещь, которая
+        употребляется на дело, будут не чисты: в воду должно положить их, и
+        нечисты будут до вечера, а потом будут чисты."
+      lev-khv: "И все, на чтó упадет которое нибудь из них мертвое, всякий деревянный
+        сосуд, или одежда, или кожа, или мешок, и всякая вещь, которая
+        употребляется на дело, будут нечисты: в воду должно положить их, и
+        нечисты будут до вечера, а <i>потом</i> будут чисты."
+      czech: Take vsechno, nac padne neco z nich, kdyz pojdou, bude neciste, at to je
+        dreveny predmet nebo odev, kuze ci pytlovina, cokoli, ceho se uziva k
+        praci; bude to vlozeno do vody a bude to neciste az do vecera; pak to
+        bude ciste.
+      spanish: Todo objeto sobre el que cayere uno de estos cadáveres será manchado; y
+        los utensilios de madera, vestidos, pieles, sacos, todo objeto de uso
+        será puesto en agua y será inmundo hasta la tarde;
+      greek-lxx: καὶ πᾶν ἐφ᾿ ὃ ἂν ἐπιπέσῃ ἀπ᾿ αὐτῶν τεθνηκότων αὐτῶν ἀκάθαρτον ἔσται
+        ἀπὸ παντὸς σκεύους ξυλίνου ἢ ἱματίου ἢ δέρματος ἢ σάκκου πᾶν σκεῦος ὃ
+        ἐὰν ποιηθῇ ἔργον ἐν αὐτῷ εἰς ὕδωρ βαφήσεται καὶ ἀκάθαρτον ἔσται ἕως
+        ἑσπέρας καὶ καθαρὸν ἔσται
+      st_text: "И всё, на что упадет которое-нибудь из них мертвое, всякий деревянный
+        сосуд, или одежда, или кожа, или мешок, и всякая вещь, которая
+        употребляется на дело, будут нечисты: в воду должно положить их, и
+        нечисты будут до вечера, потом будут чисты;"
+  - id: 22994
+    number: 33
+    bookId: 3
+    text: если же которое-нибудь из них упадет в какой-нибудь глиняный сосуд, то
+      находящееся в нем будет нечисто, и самый [сосуд] разбейте.
+    chapter: 11
+    chapterId: 101
+    parallels:
+      - verseId: 23682
+        bookId: 3
+        bookCode: levit
+        chapter: 6
+        short: Лев:6:28
+    translates:
+      kassian: ""
+      podstr: И всякая вещь глиняная, в которую если упадёт от этих внутрь, сколькие
+        если внутри будут, нечистые будут, и сама будет разбита.
+      csya: и всяк сосуд глинян, в оньже аще впадет от сих внутрь, елика суть в нем,
+        нечиста будут, и сосуд да разбиется.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 всsкъ сосyдъ гли1нzнъ, во1ньже ѓще впаде1тъ t си1хъ внyтрь, є3ли6ка
+        сyть въ не1мъ, нечи6ста бyдутъ, и3 сосyдъ да разбіе1тсz.
+      sovr_rbo: Если одна из этих тварей попадет в глиняный сосуд, то его содержимое
+        станет нечистым, а сосуд должен быть разбит.
+      latin: Vas autem fictile, in quod horum quidquam intro cecidit, polluetur, et
+        idcirco frangendum est.
+      ukr: А всякий глиняний посуд, що з них упаде що до його середини, усе, що в
+        середині його, стане нечисте, а його розіб'єте.
+      nkjv: "Any earthen vessel into which any of them falls you shall break; and
+        whatever is in it shall be unclean:"
+      desnitsky: ""
+      mt: ‫   וְכָל־כְּלִי־חֶרֶשׂ אֲשֶׁר־יִפֹּל מֵהֶם אֶל־תּוֹכוֹ כֹּל אֲשֶׁר
+        בְּתוֹכוֹ יִטְמָא וְאֹתוֹ תִשְׁבֹּרוּ׃ ‬
+      romana: Tot vasul de lut, in care va cadea vreuna din ele, sa-l spargeti, iar
+        cele din el sunt necurate.
+      francais: Tout ce qui se trouvera dans un vase de terre où il en tombera quelque
+        chose, sera souillé, et vous briserez le vase.
+      italian: Se ne cade qualcuno in un vaso di terra, quanto vi si troverà dentro
+        sarà immondo e spezzerete il vaso.
+      old_georgian: ყოველივე ჭურჭელი, რომლითა იქმნების საქმე, წყლითა განირცხეს და
+        არაწმიდა იყოს ვიდრე მწუხრადმდე და არაწმიდა იყოს. და ყოველი ჭურჭერი
+        კეცისაჲ, რომელსა შთავარდეს მათგანი შიდა, რაოდენ-რაჲ იყოს მას შინა,
+        არაწმიდა არს და იგი შეიმუსრენ.
+      portuguese: "E quanto a todo vaso de barro dentro do qual cair algum deles, tudo
+        o que houver nele será imundo, e o vaso\rquebrareis."
+      polish: "Jeżeli któreś z tych zwierząt wpadnie do naczynia glinianego, to
+        wszystko, co\rjest wewnątrz naczynia, będzie nieczyste, a naczynie
+        rozbijecie."
+      turkish: Bunlardan biri toprak kabın içine düşerse, kabın içindekiler kirli
+        sayılacaktır. Toprak kap kırılmalıdır.
+      nrt: Если труп упадет в глиняный горшок, все в нем станет нечистым, и горшок
+        нужно разбить.
+      Macarius: Если же которое-нибудь из них упадет в какой-нибудь глиняный сосуд, то
+        находящееся в нем будет нечисто, и самый [сосуд] разбейте.
+      bulgarian: ако ли някое от тях падне в какъв да е глинен съд, то каквото има в
+        него, да бъде нечисто, и самия (съд) строшете.
+      deutsch: Allerlei irdenes Gefäß, wo solcher Aas hineinfällt, wird alles unrein,
+        was darin ist; und sollt's zerbrechen.
+      ukr2: Якби ж щось із них упало в якийсь глиняний посуд, то все, що в ньому,
+        стане нечистим, і посуд треба розбити.
+      ukr3: "І всяка посудина черепяна, що до неї впаде которе з t siих: усе, що є в
+        нїй, буде нечистим, а її треба розбити."
+      bel_syomukha: калі ж якое-небудзь зь іх упадзе ў які-небудзь гліняны посуд, дык
+        тое, што ў ім, будзе нячыстае, і сам посуд разьбеце.
+      spbda: Если же которое-нибудь из них упадет в какой-нибудь глиняный сосуд, то
+        находящееся в нем будет нечисто, а его разбейте.
+      lev-khv: Если же которое нибудь из них упадет в какой нибудь глиняной сосуд; то
+        находящееся в нем будет нечисто, а его разбейте.
+      czech: Kdyz neco z nich spadne do hlinene nadoby, bude neciste vsechno, co je
+        uvnitr, a nadobu rozbijete.
+      spanish: toda vasija de barro donde algo de esto caiga quedará manchada y la
+        romperéis;
+      greek-lxx: καὶ πᾶν σκεῦος ὀστράκινον εἰς ὃ ἐὰν πέσῃ ἀπὸ τούτων ἔνδον ὅσα ἐὰν
+        ἔνδον ᾖ ἀκάθαρτα ἔσται καὶ αὐτὸ συντριβήσεται
+      st_text: если же которое-нибудь из них упадет в какой-нибудь глиняный сосуд, то
+        находящееся в нем будет нечисто, и самый [сосуд] разбейте.
+  - id: 22995
+    number: 34
+    bookId: 3
+    text: Всякая пища, которую едят, на которой была вода <i>из такого сосуда</i>,
+      нечиста будет [для вас], и всякое питье, которое пьют, во всяком
+      <i>таком</i> сосуде нечисто будет.
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И всякая пища, которая поедается, на которую если зальётся на неё вода,
+        нечистая будет; и всякое питьё, которое пьётся во всяком сосуде,
+        нечистое будет.
+      csya: "И всяка снедь юже ясте, на нюже аще возлиется вода, нечиста будет вам: и
+        всякое питие, еже пиете во всяком сосуде, нечисто будет (вам):"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# всsка снёдь ю4же ћсте, на ню1же ѓще возліе1тсz водA, нечи1ста
+        бyдетъ вaмъ: и3 всsкое питіе2, є4же піе1те во всsкомъ сосyдэ, нечи1сто
+        бyдетъ (вaмъ):"
+      sovr_rbo: Пища, которую было разрешено есть, станет нечистой — если на нее
+        попадет вода из него; также и питье, которое было разрешено пить, станет
+        нечистым, в какой бы посуде оно ни находилось.
+      latin: "Omnis cibus, quem comedetis, si fusa fuerit super eum aqua, immundus
+        erit: et omne liquens quod bibitur de universo vase, immundum erit."
+      ukr: Кожна їжа, що їсться, на якій була вода з такого посуду, буде нечиста; а
+        кожен напій, що п'ється, у кожнім такім посуді стане нечистим.
+      nkjv: in such a vessel, any edible food upon which water falls becomes unclean,
+        and any drink that may be drunk from it becomes unclean.
+      desnitsky: ""
+      mt: ‫   מִכָּל־הָאֹכֶל אֲשֶׁר יֵאָכֵל אֲשֶׁר יָבוֹא עָלָיו מַיִם יִטְמָא
+        וְכָל־מַשְׁקֶה אֲשֶׁר יִשָּׁתֶה בְּכָל־כְּלִי יִטְמָא׃ ‬
+      romana: Orice lucru de mancare, peste care "a cadea apa din acel vas, necurat va
+        fi pentru voi si toata bautura de baut, din asemenea vas, necurata va
+        fi.
+      francais: Tout aliment qui sert à la nourriture, et sur lequel il sera tombé de
+        cette eau, sera souillé; et toute boisson dont on fait usage, quel que
+        soit le vase qui la contienne, sera souillée.
+      italian: Ogni cibo che serve di nutrimento, sul quale cada quell'acqua, sarà
+        immondo; ogni bevanda di cui si fa uso, qualunque sia il vaso che la
+        contiene, sarà immonda.
+      old_georgian: და ყოველი საჭმელი, რომელი იჭამების, რომელსა მივიდეს წყალი,
+        არაწმიდა იყოს, და ყოველი სასუმელი, რომელი ისუმების ყოვლითა ჭურჭრითა,
+        არაწმიდა არს იგი.
+      portuguese: "Todo alimento depositado nele, que se pode comer, sobre o qual vier
+        água, será imundo; e toda bebida que se\rpode beber, sendo depositada em
+        qualquer destes vasos será imunda."
+      polish: Każdy pokarm, który się spożywa, do którego się dostanie woda z tego
+        naczynia będzie nieczysty. Każdy napój, który bywa używany do picia w
+        jakimkolwiek naczyniu, będzie nieczysty.
+      turkish: Toprak kaptaki sulu yiyecek ve her içecek kirli sayılacaktır.
+      nrt: Пища, на которую попала вода из такого горшка, нечиста, и любое питье
+        станет в нем нечистым.
+      Macarius: Всякая пища, которую едят, в которую входит вода, нечиста будет [для
+        вас], и всякое питие, которое пьют, во всяком таком сосуде нечисто
+        будет.
+      bulgarian: Всяка храна, която е за ядене и на която се излее вода из такъв съд,
+        да бъде (за вас) нечиста; и всяко питие, що е за пиене, в такъв съд да
+        бъде нечисто.
+      deutsch: Alle Speise, die man ißt, so solch Wasser hineinkommt, ist unrein; und
+        aller Trank, den man trinkt in allerlei solchem Gefäß, ist unrein.
+      ukr2: Всяка їжа, навіть коли хлюпне на неї така вода, буде нечиста; і всякий
+        напій у якійнебудь такій нечистій посудині буде нечистим.
+      ukr3: "І всяка їда, що їдять, коли хлюпне на неї вода з такої посудини, буде
+        нечиста: і всякий напиток, що пють його, буде в такій посудинї
+        нечистим."
+      bel_syomukha: Усякая ежа, якую ядуць і на якой была вада з такога посуду,
+        нячыстая будзе, і ўсякае пітво, якое пэюць, у любым такім посудзе
+        нячыстае будзе.
+      spbda: Всякая пища, которую едят, на которой была вода, нечиста будет, и всякое
+        питие, которое пьют, во всяком таком сосуде не чисто будет.
+      lev-khv: Всякая пища, которую едят, на которой была вода, нечиста будет, и
+        всякое питие, которое пьют, во всяком <i>таком</i> сосуде нечисто будет.
+      czech: Kazdy pokrm urceny k jidlu, ktery prisel do styku s onou vodou, bude
+        necisty. Tez kazdy napoj, ktery se pije z takove nadoby, bude necisty.
+      spanish: todo alimento preparado con agua quedará manchado, y lo mismo toda
+        bebida, cualquiera que sea el vaso que la contenga;
+      greek-lxx: καὶ πᾶν βρῶμα ὃ ἔσθεται εἰς ὃ ἐὰν ἐπέλθῃ ἐπ᾿ αὐτὸ ὕδωρ ἀκάθαρτον
+        ἔσται καὶ πᾶν ποτόν ὃ πίνεται ἐν παντὶ ἀγγείῳ ἀκάθαρτον ἔσται
+      st_text: Всякая пища, которую едят, на которой была вода <i>из такого
+        сосуда</i>, нечиста будет [для вас], и всякое питье, которое пьют, во
+        всяком <i>таком</i> сосуде нечисто будет.
+  - id: 22996
+    number: 35
+    bookId: 3
+    text: "Всё, на что упадет что-нибудь от трупа их, нечисто будет: печь и очаг
+      должно разломать, они нечисты; и они должны быть нечисты для вас;"
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И всякий, который если упадёт от трупов их на него, нечистый будет; печи
+        и огнища [да] сокрушатся; нечистые эти есть и нечистые эти вам будут;
+      csya: "и все, еже аще впадет в не от мертвечины их, нечисто будет: пещи и огнища
+        да сокрушатся, нечиста сия суть и нечиста будут вам."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 все2, є4же ѓще впаде1тъ въ не2 t мертвечи1ны и4хъ, нечи1сто
+        бyдетъ: пє1щи и3 nгни6ща да сокрушaтсz, нечи6ста сі‰ сyть и3 нечи6ста
+        бyдутъ вaмъ."
+      sovr_rbo: На что эта тварь, издохнув, упадет, то станет нечистым; очаг или печку
+        следует разрушать — они нечисты; нечисты они будут для вас.
+      latin: "Et quidquid de morticinis hujuscemodi ceciderit super illud, immundum
+        erit: sive clibani, sive chytropodes, destruentur, et immundi erunt."
+      ukr: "І все, що на нього впаде з їхнього падла, стане нечисте: піч та огнище
+        буде розвалене, вони нечисті, і нечисті будуть для вас."
+      nkjv: And everything on which a part of any such carcass falls shall be unclean;
+        whether it is an oven or cooking stove, it shall be broken down; for
+        they are unclean, and shall be unclean to you.
+      desnitsky: ""
+      mt: ‫   וְכֹל אֲשֶׁר־יִפֹּל מִנִּבְלָתָם עָלָיו יִטְמָא תַּנּוּר וְכִירַיִם
+        יֻתָּץ טְמֵאִים הֵם וּטְמֵאִים יִהְיוּ לָכֶם׃ ‬
+      romana: Tot lucrul, peste care va cadea ceva din trupul mort al acestora, se va
+        spurca; soba si caminul sa le stricati, ca necurate sunt si necurate vor
+        fi pentru voi.
+      francais: "Tout objet sur lequel tombera quelque chose de leurs corps morts sera
+        souillé; le four et le foyer seront détruits: ils seront souillés, et
+        vous les regarderez comme souillés."
+      italian: "Ogni oggetto sul quale cadrà qualche parte del loro cadavere, sarà
+        immondo; il forno o il for — nello sarà spezzato: sono immondi e li
+        dovete ritenere tali."
+      old_georgian: "და ყოველსავე ზედა, რომელსა დავარდეს მკუდარი მათგანი, არაწმიდა
+        იყოს: თორნენი და ყუერბნი დაირღუედ, რამეთუ არაწმიდა არს და არაწმიდა იყოს
+        თქუენდა,"
+      portuguese: "E tudo aquilo sobre o que cair: alguma parte dos cadáveres deles
+        será imundo; seja forno, seja fogão, será\rquebrado; imundos são,
+        portanto para vós serão imundos."
+      polish: "Na cokolwiek upadnie takie zwierzę nieżywe, będzie nieczyste: piecyk
+        albo\rpiekarnik ma być zniszczony. One są nieczyste i będą nieczyste dla
+        was."
+      turkish: Bunlardan birinin leşi neyin üzerine düşerse onu da kirletir. Üzerine
+        düştüğü ister fırın olsun, ister ocak, parçalanmalıdır. Çünkü onlar
+        kirlidir ve sizin için kirli sayılacaktır.
+      nrt: Все, на что упадет труп, станет нечистым. Печь или горшок для стряпни нужно
+        разбить. Они нечисты, обходитесь с ними как с нечистыми.
+      Macarius: "Все, на что упадет труп их, нечисто будет: печь и очаг должно
+        разломать, они нечисты; они должны быть нечисты для вас."
+      bulgarian: "Всичко, връх което падне нещо от трупа им, да бъде нечисто: пещ и
+        огнище трябва да се разрушат, те са нечисти; и те трябва да бъдат
+        нечисти за вас;"
+      deutsch: Und alles, worauf solches Aas fällt, wird unrein, es sei ein Ofen oder
+        Kessel, so soll man's zerbrechen; denn es ist unrein und soll euch
+        unrein sein.
+      ukr2: Усе, на що впаде щось із їхньої здохлятини, стане нечистим; піч або грубу
+        треба знищити, бо вони нечисті, і нечисті вони вам будуть.
+      ukr3: І все, на що впаде частина трупу їх, нечистим стане; піч і припічок мусять
+        розібрати; нечисті вони, і нечисті мусять бути вам.
+      bel_syomukha: "Усё, на што ўпадзе што-небудзь ад трупа іхняга, нячыстае будзе:
+        печ і агмень трэба паламаць, яны нячыстыя; і яны павінны быць нячыстыя
+        вам;"
+      spbda: "Все, на что упадет что-нибудь от трупа их, нечисто будет: печь и очаг
+        должно разломать; нечисты они; и нечисты должны быть для вас,"
+      lev-khv: "И все, на чтó упадет что нибудь от трупа их, нечисто будет: печь и
+        очаг должно разломать; нечисты они, и нечисты должны быть для вас."
+      czech: Zkratka vsechno, nac padne neco z tech zdechlin, bude neciste. Pec i krb
+        budou neciste, musi se zborit; budou pro vas neciste.
+      spanish: todo aquello sobre lo cual caiga algo de estos cadáveres quedará
+        manchado y por manchado lo tendréis.
+      greek-lxx: καὶ πᾶν ὃ ἐὰν πέσῃ ἀπὸ τῶν θνησιμαίων αὐτῶν ἐπ᾿ αὐτό ἀκάθαρτον ἔσται
+        κλίβανοι καὶ κυθρόποδες καθαιρεθήσονται ἀκάθαρτα ταῦτά ἐστιν καὶ
+        ἀκάθαρτα ταῦτα ὑμῖν ἔσονται
+      st_text: "Всё, на что упадет что-нибудь от трупа их, нечисто будет: печь и очаг
+        должно разломать, они нечисты; и они должны быть нечисты для вас;"
+  - id: 22997
+    number: 36
+    bookId: 3
+    text: только источник и колодезь, вмещающий воду, остаются чистыми; а кто
+      прикоснется к трупу их, тот нечист.
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: однако источников вод и пруд и собрания воды, будут чистое; же
+        касающийся трупов их нечистый будет.
+      csya: "Кроме источник водных и поток, и собраний водных, будут чисти: а иже
+        прикасается мертвечинам их, нечист будет."
+      averincev: ""
+      ungerov: ""
+      csya_old: "КромЁ и3стHчникъ водны1хъ, и3 потHкъ, и3 собрaній водны1хъ, бyдутъ
+        чи1сти: ґ и4же прикасaетсz мертвечи1намъ и4хъ, нечи1стъ бyдетъ."
+      sovr_rbo: Источник же или яма с собранной в ней водой сохранит чистоту — но тот,
+        кто прикоснется к дохлой твари, плавающей в этой воде, будет нечист.
+      latin: Fontes vero et cisternae, et omnis aquarum congregatio munda erit. Qui
+        morticinum eorum tetigerit, polluetur.
+      ukr: Тільки джерело та яма, збір води, будуть чисті. А хто доторкнеться до
+        їхнього падла, буде нечистий.
+      nkjv: Nevertheless a spring or a cistern, in which there is plenty of water,
+        shall be clean, but whatever touches any such carcass becomes unclean.
+      desnitsky: ""
+      mt: ‫   אַךְ מַעְיָן וּבוֹר מִקְוֵה־מַיִם יִהְיֶה טָהוֹר וְנֹגֵעַ בְּנִבְלָתָם
+        יִטְמָא׃ ‬
+      romana: Numai izvorul, fantana si adunarile de apa vor ramane curate, iar cel ce
+        se va atinge de mortaciunile din ele, acela necurat va fi.
+      francais: Il n'y aura que les sources et les citernes, formant des amas d'eaux,
+        qui resteront pures; mais celui qui y touchera de leurs corps morts sera
+        impur.
+      italian: Però, una fonte o una cisterna, cioè una raccolta di acqua, sarà monda;
+        ma chi toccherà i loro cadaveri sarà immondo.
+      old_georgian: თჳნიერ წყაროთა წყალთასა და ჯურღმულისა და დასაკრებელისა წყალთასა,
+        ესე ხოლო წმიდა არს.
+      portuguese: "Contudo, uma fonte ou cisterna, em que há depósito de água, será
+        limpa; mas quem tocar no cadáver será\rimundo."
+      polish: "Tylko źródła i cysterny, to jest zbiorniki wody, pozostają czyste, ale
+        ten, kto\rdotknie się w nich padliny, będzie nieczysty."
+      turkish: Ancak kaynak ya da su sarnıcı temiz sayılacaktır; ama bunların leşine
+        dokunan kirli sayılacaktır.
+      nrt: Однако источник или хранилище для воды останутся чистыми, но все, что в них
+        прикоснется к трупу, станет нечистым.
+      Macarius: Только источник и колодезь, вмещающий воду, должны быть чисты. А кто
+        прикоснется к трупу их, тот нечист.
+      bulgarian: само извор и кладенец, дето има вода, си остават чисти; а който се
+        докосне до трупа им, той е нечист.
+      deutsch: Doch die Brunnen und Gruben und Teiche bleiben rein. Wer aber ihr Aas
+        anrührt, ist unrein.
+      ukr2: Тільки джерела та копанки, себто водозбірні, будуть чисті; а той, хто
+        доторкнеться до їхньої падлини, буде нечистий.
+      ukr3: Тільки криниця та колодязь, та всякий водозбір, чисті будуть; хто ж
+        торкнеться об їх трупа, буде нечистий.
+      bel_syomukha: толькі крыніца і калодзеж з вадою застаюцца чыстыя; а хто
+        дакранецца да трупа іхняга, той нячысты.
+      spbda: Только источник и колодец, вместилище воды, остаются чистыми. А кто
+        прикоснется к трупу их, тот нечист.
+      lev-khv: Только источник и колодец, вместилище воды, остаются чистыми. А кто
+        прикоснется к трупу их, тот нечист.
+      czech: Jen vodni pramen a jimka zadrzujici vodu budou ciste. Cokoli prijde do
+        styku s temi zdechlinami, bude neciste.
+      spanish: Las fuentes y las cisternas donde hay cantidad de agua quedarán puras,
+        mas quien tocare el cadáver será impuro.
+      greek-lxx: πλὴν πηγῶν ὑδάτων καὶ λάκκου καὶ συναγωγῆς ὕδατος ἔσται καθαρόν ὁ δὲ
+        ἁπτόμενος τῶν θνησιμαίων αὐτῶν ἀκάθαρτος ἔσται
+      st_text: только источник и колодезь, вмещающий воду, остаются чистыми; а кто
+        прикоснется к трупу их, тот нечист.
+  - id: 22998
+    number: 37
+    bookId: 3
+    text: И если что-нибудь от трупа их упадет на какое-либо семя, которое сеют, то
+      оно чисто;
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Если же упадёт [от] трупов их на всякое семя семянное, которое будет
+        посеяно, чистое будет;
+      csya: "Аще же впадет от мертвечины их на всяко семя семянное, еже сеется, чисто
+        будет:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Ѓще же впаде1тъ t мертвечи1ны и4хъ на всsко сёмz сёмzнное, є4же
+        сёетсz, чи1сто бyдетъ:"
+      sovr_rbo: Если дохлая тварь упадет на семена, которые должны быть посеяны, они
+        останутся чистыми.
+      latin: Si ceciderit super sementem, non polluet eam.
+      ukr: А коли що впаде з їхнього падла на всяке насіння сівби, що сіється, чисте
+        воно.
+      nkjv: And if a part of any such carcass falls on any planting seed which is to
+        be sown, it remains clean.
+      desnitsky: ""
+      mt: ‫   וְכִי יִפֹּל מִנִּבְלָתָם עַל־כָּל־זֶרַע זֵרוּעַ אֲשֶׁר יִזָּרֵעַ טָהוֹר
+        הוּא׃ ‬
+      romana: De va cadea ceva din trupul acestora pe samanta de semanat, aceasta
+        curata va fi.
+      francais: S'il tombe quelque chose de leurs corps morts sur une semence qui doit
+        être semée, elle restera pure;
+      italian: Se qualcosa dei loro cadaveri cade su qualche seme che deve essere
+        seminato, questo sarà mondo;
+      old_georgian: ხოლო რომელი შეეხოს მკუდარსა მათგანსა, არაწმიდა იყოს. უკუეთუ
+        დავარდეს მძორი იგი მათგანი ყიველსავე თესლსა სათესავსა, რომელი ითესვის,
+        არაწმიდა იყოს.
+      portuguese: E, se dos seus cadáveres cair alguma coisa sobre alguma semente que
+        se houver de semear, esta será limpa;
+      polish: Jeżeli taka padlina upadnie na ziarno przeznaczone do siewu, to ziarno
+        pozostanie czyste,
+      turkish: Eğer bu hayvanlardan birinin leşi ekin tohumunun üzerine düşerse, o
+        tohum temiz sayılacaktır.
+      nrt: Если труп упадет на семена, ждущие высадки, они останутся чистыми.
+      Macarius: Также, когда труп их упадет на какое-либо семя, которое сеют, то оно
+        чисто.
+      bulgarian: "И ако нещо от трупа им падне връх каквото и да е семе, което е за
+        сеене, то е чисто за вас:"
+      deutsch: Und ob solch ein Aas fiele auf Samen, den man sät, so ist er doch rein.
+      ukr2: Коли щось із їхнього падла впаде на посівне зерно, воно залишиться чистим.
+      ukr3: А коли впаде частка їх трупа на яке посїяне насїннє, що треба сїяти, чисте
+        буде воно.
+      bel_syomukha: І калі што-небудзь ад трупа іхняга ўпадзе на якое-небудзь
+        насеньне, якое сеюць, дык яно чыстае;
+      spbda: И если что нибудь от трупа их упадет на какое-либо семя посевное, которое
+        посеяно, то оно чисто,
+      lev-khv: И если что нибудь от трупа их упадет на какое либо семя посевное,
+        которое посеяно; то оно чисто.
+      czech: Kdyz vsak neco z tech zdechlin padne na semeno, urcene k seti, to zustane
+        ciste.
+      spanish: Si alguno de estos cuerpos muertos cayere sobre una simiente que ha de
+        sembrarse, la simiente quedará pura;
+      greek-lxx: ἐὰν δὲ ἐπιπέσῃ τῶν θνησιμαίων αὐτῶν ἐπὶ πᾶν σπέρμα σπόριμον ὃ
+        σπαρήσεται καθαρὸν ἔσται
+      st_text: И если что-нибудь от трупа их упадет на какое-либо семя, которое сеют,
+        то оно чисто;
+  - id: 22999
+    number: 38
+    bookId: 3
+    text: если же тогда, как вода налита на семя, упадет на него что-нибудь от трупа
+      их, то оно нечисто для вас.
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: если же зальётся водой на всякое семя и упадёт [от] трупов их на него,
+        нечистое оно есть вам.
+      csya: аще же возлиется вода на всяко семя, и впадет от мертвечины их на не,
+        нечисто будет вам.
+      averincev: ""
+      ungerov: ""
+      csya_old: ѓще же возліе1тсz водA на всsко сёмz, и3 впаде1тъ t мертвечи1ны и4хъ
+        на не2, нечи1сто бyдетъ вaмъ.
+      sovr_rbo: Но если она упадет на семена, залитые водой, они будут нечисты для вас.
+      latin: Si autem quispiam aqua sementem perfuderit, et postea morticinis tacta
+        fuerit, illico polluetur.
+      ukr: А коли буде налита вода на насіння, і впаде на нього з їхнього падла,
+        нечисте воно для вас.
+      nkjv: But if water is put on the seed, and if a part of any such carcass falls
+        on it, it becomes unclean to you.
+      desnitsky: ""
+      mt: ‫   וְכִי יֻתַּן־מַיִם עַל־זֶרַע וְנָפַל מִנִּבְלָתָם עָלָיו טָמֵא הוּא
+        לָכֶם׃ ס ‬
+      romana: Daca insa va cadea ceva din trupul lor peste samanta, dupa ce aceasta
+        s-a muiat cu apa, atunci samanta necurata sa fie pentru voi.
+      francais: mais si l'on a mis de l'eau sur la semence, et qu'il y tombe quelque
+        chose de leurs corps morts, vous la regarderez comme souillée.
+      italian: ma se è stata versata acqua sul seme e vi cade qualche cosa dei loro
+        cadaveri, lo riterrai immondo.
+      old_georgian: უკუეთუ დაესხას წყალი ყოველსა მას ზედა თესლსა და დავარდეს მათგანი
+        მძორი მას ზედა, არაწმიდა იყოს იგი თქუენდა.
+      portuguese: "mas se for deitada água sobre a semente, e se dos cadáveres cair
+        alguma coisa sobre ela, então ela será para\rvós imunda."
+      polish: "ale jeżeli ziarno jest mokre i taka padlina upadnie na nie, to jest ono
+        dla was\rnieczyste."
+      turkish: Ama suya konmuş tohumun içine düşerse, tohum sizin için kirlidir.
+      nrt: Но если семена, на которые упал труп, были залиты водой, они станут нечисты
+        для вас.
+      Macarius: Если же тогда, как вода влита на семя, упадет на него труп их, то оно
+        нечисто для вас.
+      bulgarian: ако в това време, когато семето е поляно с вода, падне връх него нещо
+        от трупа им, то е нечисто за вас.
+      deutsch: Wenn man aber Wasser über den Samen gösse, und fiele darnach ein solch
+        Aas darauf, so würde er euch unrein.
+      ukr2: А якщо б насіння було намочене в воді, й щось із падлини впаде на нього,
+        то це стане нечистим.
+      ukr3: А коли в водї намочено насїннє, та впаде частина трупа їх на його,
+        нечистим буде воно вам.
+      bel_syomukha: а калі тады, калі вада налітая на насеньне, упадзе на яго
+        што-небудзь ад трупа іхняга, дык яно нячыстае вам.
+      spbda: Если же будет налита вода на семя и упадет на него что-нибудь от трупа
+        их, то оно нечисто для вас.
+      lev-khv: Если же будет налита вода на семя, и упадет на него что нибудь от трупа
+        их; то оно нечисто для вас.
+      czech: Ale kdyz bude na semeno nalita voda a padne na ne neco z tech zdechlin,
+        bude pro vas neciste.
+      spanish: pero, si se le hubiere echado agua encima y cae alguno de estos cuerpos
+        muertos, la tendréis por manchada.
+      greek-lxx: ἐὰν δὲ ἐπιχυθῇ ὕδωρ ἐπὶ πᾶν σπέρμα καὶ ἐπιπέσῃ τῶν θνησιμαίων αὐτῶν
+        ἐπ᾿ αὐτό ἀκάθαρτόν ἐστιν ὑμῖν
+      st_text: если же тогда, как вода налита на семя, упадет на него что-нибудь от
+        трупа их, то оно нечисто для вас.
+  - id: 23000
+    number: 39
+    bookId: 3
+    text: И когда умрет какой-либо скот, который употребляется вами в пищу, то
+      прикоснувшийся к трупу его нечист будет до вечера;
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Если же умрёт скот который есть вам этот съесть, касающийся трупов их
+        нечистый будет до вечера;
+      csya: "Аще же умрет от скота, егоже вам ясти, прикасаяйся мертвечине его, нечист
+        будет до вечера:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Ѓще же ќмретъ t скотA, є3го1же вaмъ ћсти, прикасazйсz мертвечи1нэ
+        є3гw2, нечи1стъ бyдетъ до ве1чера:"
+      sovr_rbo: Если животное, разрешенное в пищу, издохнет, то всякий, кто
+        прикоснется к его трупу, будет нечист до вечера.
+      latin: "Si mortuum fuerit animal, quod licet vobis comedere, qui cadaver ejus
+        tetigerit, immundus erit usque ad vesperum:"
+      ukr: А коли помре що з худоби, що вона на їжу для вас, то хто доторкнеться падла
+        її, той буде нечистий аж до вечора.
+      nkjv: "'And if any animal which you may eat dies, he who touches its carcass
+        shall be unclean until evening. "
+      desnitsky: ""
+      mt: ‫   וְכִי יָמוּת מִן־הַבְּהֵמָה אֲשֶׁר־הִיא לָכֶם לְאָכְלָה הַנֹּגֵעַ
+        בְּנִבְלָתָהּ יִטְמָא עַד־הָעָרֶב׃ ‬
+      romana: Iar de va muri vreun dobitoc din cele ce se mananca si se va atinge
+        cineva de starvul lui, acela necurat va fi pana seara;
+      francais: S'il meurt un des animaux qui vous servent de nourriture, celui qui
+        touchera son corps mort sera impur jusqu'au soir;
+      italian: Se muore un animale, di cui vi potete cibare, colui che ne toccherà il
+        cadavere sarà immondo fino alla sera.
+      old_georgian: უკუეთუ მოკუდეს პირუტყუთაგანი, რომლისა არს ესე მისა საჭმელი, რომელი
+        შეეხოს მძორსა მას მათსა, არაწმიდა იყოს იგი ვიდრე მწუხრადმდე.
+      portuguese: E se morrer algum dos animais de que vos é lícito comer, quem tocar
+        no seu cadáver será imundo até a tarde;
+      polish: "Jeżeli zdechnie jedno ze zwierząt, które wam służą za pokarm, i ktoś
+        dotknie\rsię tej padliny, będzie nieczysty aż do wieczora."
+      turkish: «`Eti yenen hayvanlardan biri ölürse, leşine dokunan akşama kadar kirli
+        sayılacaktır.
+      nrt: Любой, кто прикоснулся к трупу животного, дозволенного вам в пищу, будет
+        нечист до вечера.
+      Macarius: И когда умрет какой-либо скот, который употребляется вами в пищу, то
+        прикоснувшийся к трупу его нечист будет до вечера.
+      bulgarian: И когато умре какъв да е добитък, който употребявате за храна, то
+        оня, който се е допрял до трупа му, да бъде нечист до вечерта;
+      deutsch: "Wenn ein Tier stirbt, das ihr essen mögt: wer das Aas anrührt, der ist
+        unrein bis an den Abend."
+      ukr2: Коли здохне якась скотина, що її можна вам їсти, той, хто доторкнеться її
+        падла, буде нечистий до вечора.
+      ukr3: А коли здохне яка скотина, що можна вам їсти, хто торкнеться падла її,
+        буде нечистий аж до вечора.
+      bel_syomukha: "І калі памрэ якое-небудзь быдла, якое ўжываецца вамі ў ежу, дык
+        той, хто дакрануўся да трупа яго, нячысты будзе да вечара:"
+      spbda: И когда умреть какой-либо скот, который употребляется вами в пищу, то
+        прикоснувшийся к трупу его нечист будет до вечера.
+      lev-khv: И когда умрет какой либо скот, который употребляется вами в пищу; то
+        прикоснувшийся к трупу его нечист будет до вечера.
+      czech: Kdyz pojde nektere ze zvirat, ktera mate dovoleno jist, ten, kdo se
+        dotkne jeho zdechliny, bude necisty az do vecera.
+      spanish: Si muere uno de los animales cuya carne podéis comer, quien tocare el
+        cadáver lavará sus vestidos y quedará impuro hasta la tarde.
+      greek-lxx: ἐὰν δὲ ἀποθάνῃ τῶν κτηνῶν ὅ ἐστιν ὑμῖν τοῦτο φαγεῖν ὁ ἁπτόμενος τῶν
+        θνησιμαίων αὐτῶν ἀκάθαρτος ἔσται ἕως ἑσπέρας
+      st_text: И когда умрет какой-либо скот, который употребляется вами в пищу, то
+        прикоснувшийся к трупу его нечист будет до вечера;
+  - id: 23001
+    number: 40
+    bookId: 3
+    text: и тот, кто будет есть мертвечину его, должен омыть одежды свои и нечист
+      будет до вечера; и тот, кто понесет труп его, должен омыть одежды свои и
+      нечист будет до вечера.
+    chapter: 11
+    chapterId: 101
+    parallels:
+      - verseId: 23213
+        bookId: 3
+        bookCode: levit
+        chapter: 17
+        short: Лев:17:15
+      - verseId: 36108
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 14
+        short: Втор:14:21
+    translates:
+      kassian: ""
+      podstr: и едящий от трупов этих [да] омоет одежды и нечистый будет до вечера; и
+        берущий от трупов их [да] омоет одежды и омоет водой и нечистый будет до
+        вечера.
+      csya: "и ядый от мертвечин сих да исперет ризы своя и нечист будет до вечера: и
+        вземляй мертвечину их да измыет ризы своя и измыется водою, и нечист
+        будет до вечера."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 kды1й t мертвечи1нъ си1хъ да и3спере1тъ ри6зы сво‰ и3 нечи1стъ
+        бyдетъ до ве1чера: и3 взе1млzй мертвечи1ну и4хъ да и3змы1етъ ри6зы сво‰
+        и3 и3змы1етсz водо1ю, и3 нечи1стъ бyдетъ до ве1чера."
+      sovr_rbo: Кто поест этого мяса, должен будет постирать свою одежду и останется
+        нечистым до вечера. Кто поднимет такой труп, должен будет постирать свою
+        одежду и останется нечистым до вечера.
+      latin: et qui comederit ex eo quippiam, sive portaverit, lavabit vestimenta sua,
+        et immundus erit usque ad vesperum.
+      ukr: А хто їсть із падла її, той випере одежу свою, і буде нечистий аж до
+        вечора. І хто носить падло її, той випере одежу свою, і буде нечистий аж
+        до вечора.
+      nkjv: He who eats of its carcass shall wash his clothes and be unclean until
+        evening. He also who carries its carcass shall wash his clothes and be
+        unclean until evening.
+      desnitsky: ""
+      mt: ‫   וְהָאֹכֵל מִנִּבְלָתָהּ יְכַבֵּס בְּגָדָיו וְטָמֵא עַד־הָעָרֶב
+        וְהַנֹּשֵׂא אֶת־נִבְלָתָהּ יְכַבֵּס בְּגָדָיו וְטָמֵא עַד־הָעָרֶב׃ ‬
+      romana: Iar cel ce va manca mortaciunea lui, sa-si spele hainele sale si necurat
+        va fi pana seara; cel ce va duce starvul lui sa-si spele hainele sale si
+        necurat va fi pana seara.
+      francais: celui qui mangera de son corps mort lavera ses vêtements et sera impur
+        jusqu'au soir, et celui qui portera son corps mort lavera ses vêtements
+        et sera impur jusqu'au soir.
+      italian: Colui che mangerà di quel cadavere si laverà le vesti e sarà immondo
+        fino alla sera; anche colui che trasporterà quel cadavere si laverà le
+        vesti e sarà immondo fino alla sera.
+      old_georgian: და რომელმან ჭამოს მკუდარი ამათგან, განირცხეს სამოსელი მისი და
+        არაწმიდა იყოს იგი ვიდრე მწუხრადმდე. და რომელმან აღიღოს მძორი
+        ამათგანისაჲ, განირცხეს სამოსელი მისი და არაწმიდა იყოს იგი მწუხრადმდე.
+      portuguese: "e quem comer do cadáver dele lavará as suas vestes, e será imundo
+        até a tarde; igualmente quem levar o\rcadáver dele lavará as suas
+        vestes, e será imundo até a tarde."
+      polish: "Jeżeli kto zje coś z takiej padliny, to wypierze ubranie i będzie
+        nieczysty aż\rdo wieczora. Także i ten, kto nosi taką padlinę, wypierze
+        ubranie i będzie\rnieczysty aż do wieczora."
+      turkish: Hayvanın leşinden yiyen giysilerini yıkayacak ve akşama kadar kirli
+        sayılacaktır. Leşi taşıyan da giysilerini yıkayacak ve akşama kadar
+        kirli sayılacaktır.
+      nrt: Любой, кто поест от трупа, должен выстирать одежду и будет нечист до
+        вечера. Любой, кто подберет труп, должен выстирать одежду и будет нечист
+        до вечера.
+      Macarius: И тот, кто будет есть мертвечину его, должен омыть одежды свои, и
+        нечист будет до вечера; и тот, кто возьмет труп его, должен омыть одежды
+        свои, и нечист будет до вечера.
+      bulgarian: и оня, който яде мършата му, трябва да изпере дрехите си и да бъде
+        нечист до вечерта; и оня, който понесе трупа му, трябва да изпере
+        дрехите си и да бъде нечист до вечерта.
+      deutsch: Wer von solchem Aas ißt, der soll sein Kleid waschen und wird unrein
+        sein bis an den Abend. Also wer auch trägt ein solch Aas, soll sein
+        Kleid waschen, und ist unrein bis an den Abend
+      ukr2: Хто їстиме її падло, мусить випрати свою одіж, і буде нечистим до вечора;
+        і хто нестиме її падло, мусить випрати свою одежу, й буде нечистим до
+        вечора.
+      ukr3: І хто нїс падло її, мусить випрати одїж свою, і буде нечистий аж до
+        вечора.
+      bel_syomukha: і той, хто будзе есьці падла яго, павінен абмыць вопратку сваю і
+        нячысты будзе да вечара; і той, хто панясе труп ягоны, павінен абмыць
+        вопратку сваю і нячысты будзе да вечара.
+      spbda: И тот, кто будет есть что-нибудь от трупа его, должен омыть одежды свои,
+        и не чист будет до вечера; и тот, кто понесет труп его, должен омыть
+        одежды свои, и нечист будет до вечера.
+      lev-khv: И тот, кто будет есть что нибудь от трупа его, должен омыть одежды
+        свои, и нечист будет до вечера; и тот, кто понесет труп его, должен
+        омыть одежды свои, и нечист будет до вечера.
+      czech: Kdo z te zdechliny neco sni, vypere si saty a bude necisty az do vecera.
+        Tez kdo by tu zdechlinu nesl, vypere si saty a bude necisty az do
+        vecera.
+      spanish: El que de estos cadáveres comiere, lavará sus vestidos y quedará
+        inmundo hasta la tarde; y el que los llevare, lavará sus vestidos y será
+        inmundo hasta la tarde.
+      greek-lxx: καὶ ὁ ἐσθίων ἀπὸ τῶν θνησιμαίων τούτων πλυνεῖ τὰ ἱμάτια καὶ ἀκάθαρτος
+        ἔσται ἕως ἑσπέρας καὶ ὁ αἴρων ἀπὸ θνησιμαίων αὐτῶν πλυνεῖ τὰ ἱμάτια καὶ
+        λούσεται ὕδατι καὶ ἀκάθαρτος ἔσται ἕως ἑσπέρας
+      st_text: и тот, кто будет есть мертвечину его, должен омыть одежды свои и нечист
+        будет до вечера; и тот, кто понесет труп его, должен омыть одежды свои и
+        нечист будет до вечера.
+  - id: 23002
+    number: 41
+    bookId: 3
+    text: Всякое животное, пресмыкающееся по земле, скверно для вас, не должно есть
+      <i>его</i>;
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И всякая змея, которая ползает по земле, мерзость эта будет вам, не [да]
+        будет съедена.
+      csya: И всяк гад плежущий по земли мерзость вам есть сие, да не снестся.
+      averincev: ""
+      ungerov: ""
+      csya_old: И# всsкъ гaдъ плёжущій по земли2 ме1рзость вaмъ є4сть сіе2, да не
+        снёстсz.
+      sovr_rbo: Все мелкие твари, снующие по земле, — это мерзость; их нельзя есть.
+      latin: Omne quod reptat super terram, abominabile erit, nec assumetur in cibum.
+      ukr: А все плазуюче, що плазує по землі, гидота воно, не буде їстися.
+      nkjv: "'And every creeping thing that creeps on the earth shall be an
+        abomination. It shall not be eaten. "
+      desnitsky: ""
+      mt: ‫   וְכָל־הַשֶּׁרֶץ הַשֹּׁרֵץ עַל־הָאָרֶץ שֶׁקֶץ הוּא לֹא יֵאָכֵל׃ ‬
+      romana: Toata vietatea ce se taraste pe pamant este spurcata pentru voi; sa n-o
+        mancati.
+      francais: "Vous aurez en abomination tout reptile qui rampe sur la terre: on
+        n'en mangera point."
+      italian: Ogni essere che striscia sulla terra è un abominio; non se ne mangerà.
+      old_georgian: და ყოველივე ქუეწარმავალი, რომელი ძურების პირსა ზედა ქუეყანისასა,
+        საძაგელ არს ესე თქუენდა, არა იჭამოს. ყოველი, რომელი ვალს მუცლითა
+      portuguese: Também todo animal rasteiro que se move sobre a terra será
+        abominação; não se comerá.
+      polish: Wszelkie małe zwierzęta, które pełzają po ziemi, są obrzydliwością - nie
+        wolno ich jeść!
+      turkish: «`Bütün küçük kara hayvanları iğrençtir. Yenmeyecektir.
+      nrt: Любое существо, которое пресмыкается по земле, мерзость. Его нельзя есть.
+      Macarius: Всякое животное, пресмыкающееся по земле, гнусно для вас, не должно
+        есть его.
+      bulgarian: Всяко животно, що пълзи по земята, е мръсно за вас; не бива да го ядете;
+      deutsch: Was auf Erden schleicht, das soll euch eine Scheu sein, und man soll's
+        nicht essen.
+      ukr2: Кожне дрібне створіння, що совається по землі, то - гидь, не їсти його.
+      ukr3: І кожне з гаду повзаючого по землї, се гидь; неможна його їсти.
+      bel_syomukha: Усякая жывёла, якая поўзае па зямлі, паганая вам, ня трэба есьці яе;
+      spbda: Всякое животное, пресмыкающееся по земле, мерзость для вас, не должно
+        есть его.
+      lev-khv: "Всякое животное, пресмыкающееся по земле, мерзость для вас: не должно
+        есть <i>его</i>."
+      czech: Vsechna havet hemzici se po zemi je hodna opovrzeni, nesmi se jist.
+      spanish: Será para vosotros abominación todo reptil que repta sobre la tierra.
+      greek-lxx: καὶ πᾶν ἑρπετόν ὃ ἕρπει ἐπὶ τῆς γῆς βδέλυγμα τοῦτο ἔσται ὑμῖν οὐ
+        βρωθήσεται
+      st_text: Всякое животное, пресмыкающееся по земле, скверно для вас, не должно
+        есть <i>его</i>;
+  - id: 23003
+    number: 42
+    bookId: 3
+    text: всего ползающего на чреве и всего ходящего на четырех ногах, и многоножных
+      из животных пресмыкающихся по земле, не ешьте, ибо они скверны;
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И всякое передвигающееся на утробе и всякое передвигающееся на четырёх
+        во всякое [время], которое многочисленными ногами среди всех
+        пресмыкающихся ползающими по земле, не будете есть его, потому что
+        мерзость вам это есть.
+      csya: "И всяко ходящее на чреве, и всяко ходящее на четырех всегда, и (всяко)
+        многоножное во всех гадех, иже плежут по земли, да не снесте е, яко
+        мерзость вам есть:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# всsко ходsщее на чре1вэ, и3 всsко ходsщее на четы1рехъ всегдA, и3
+        (всsко) многоно1жное во всёхъ гaдэхъ, и5же плёжутъ по земли2, да не
+        снёсте є5, ћкw ме1рзость вaмъ є4сть:"
+      sovr_rbo: "Не ешьте никаких мелких тварей, снующих по земле: ни тех, что ползают
+        на брюхе, ни тех, что ходят на четырех лапах или имеют множество ножек;
+        все это мерзость."
+      latin: Quidquid super pectus quadrupes graditur, et multos habet pedes, sive per
+        humum trahitur, non comedetis, quia abominabile est.
+      ukr: Усе, що повзає на животі, і все, що повзає на чотирьох, аж до всього, що
+        багатоножне, усе плазуюче, що плазує по землі, не будете їх їсти, бо
+        гидота вони.
+      nkjv: Whatever crawls on its belly, whatever goes on all fours, or whatever has
+        many feet among all creeping things that creep on the earth-these you
+        shall not eat, for they are an abomination.
+      desnitsky: ""
+      mt: ‫   כֹּל הוֹלֵךְ עַל־גָּחוֹ‪‬ן וְכֹל הוֹלֵךְ עַל־אַרְבַּע עַד כָּל־מַרְבֵּה
+        רַגְלַיִם לְכָל־הַשֶּׁרֶץ הַשֹּׁרֵץ עַל־הָאָרֶץ לֹא תֹאכְלוּם
+        כִּי־שֶׁקֶץ הֵם׃ ‬
+      romana: Tot ce se taraste pe pantece si tot ce umbla in patru picioare si cele
+        cu picioare multe dintre vietatile ce se tarasc pe pamant, sa nu le
+        mancati, ca sunt spurcate pentru voi.
+      francais: Vous ne mangerez point, parmi tous les reptiles qui rampent sur la
+        terre, de tous ceux qui se traînent sur le ventre, ni de tous ceux qui
+        marchent sur quatre pieds ou sur un grand nombre de pieds; car vous les
+        aurez en abomination.
+      italian: Di tutti gli animali che strisciano sulla terra non ne mangerete alcuno
+        che cammini sul ventre o cammini con quattro piedi o con molti piedi,
+        poiché sono un abominio.
+      old_georgian: და ყოველი, რომელი ვალს ოთხითა მარადის, რომელი მრავალფერჴ არს
+        ყოველთა შორის ქუეწარმავალთა, რომელნი არიან ქუეყანასა ზედა, არა ჰჭამოთ
+        იგი, რამეთუ საძაგელ არს.
+      portuguese: "Tudo o que anda sobre o ventre, tudo o que anda sobre quatro pés, e
+        tudo o que tem muitos pés, enfim todos os\ranimais rasteiros que se
+        movem sobre a terra, desses não comereis, porquanto são abomináveis."
+      polish: "Cokolwiek pełza na brzuchu, cokolwiek chodzi na czterech nogach i
+        cokolwiek\rma wiele nóg spośród małych zwierząt pełzających po ziemi,
+        nie będzie przez\rwas jedzone, bo to jest obrzydliwość."
+      turkish: İster karnı üzerinde sürünen, ister dört ayaklı ya da çok ayaklı
+        canlılar olsun, bunların hiçbirini yemeyeceksiniz. Çünkü bunlar
+        iğrençtir.
+      nrt: Не ешьте пресмыкающихся, все равно ползают ли они на брюхе, передвигаются
+        ли на четырех ногах или имеют много ног – это мерзость.
+      Macarius: "Из всех животных, пресмыкающихся по земле, всего ползающего на чреве
+        и всего ходящего на четырех ногах, или еще более четырех, не ешьте: ибо
+        они гнусны."
+      bulgarian: всичко, що пълзи по корем, и всичко, що ходи на четири нозе, и
+        многоногите измежду пълзящите по земята животни не яжте, защото са
+        мръсни.
+      deutsch: Alles, was auf dem Bauch kriecht, und alles, was auf vier oder mehr
+        Füßen geht, unter allem, was auf Erden schleicht, sollt ihr nicht essen;
+        denn es soll euch eine Scheu sein.
+      ukr2: Нічого з того, що повзає на череві, чи з того, що совається на чотирьох чи
+        багатьох ногах, тобто, ніякого дрібного створіння, що совається по
+        землі, не їстимете, бо це гидота.
+      ukr3: Все що повзає на череві, і все що ходить на чотирох, і все многоножне між
+        всякою животиною, що повзає по землї, не їсти мете, вони бо гидота.
+      bel_syomukha: усяго, што поўзае на чэраве, і ўсяго, што ходзіць на чатырох
+        нагах, і мнаганожак з жывёлаў, што поўзаюць па зямлі, ня ежце, бо яны
+        паганыя;
+      spbda: Всего ползающаго на чреве, и всего ходящаго на четырех ногах и
+        многоножных из животных, пресмыкающихся по земле, не ешьте; ибо оне —
+        мерзость.
+      lev-khv: Всего ползающаго на чреве, и всего ходящаго на четырех <i>ногах</i>, и
+        многоножных из животных, пресмыкающихся по земле, не ешьте; потому что
+        они мерзость.
+      czech: Nic z veskere haveti hemzici se po zemi, nic, co leze po brise nebo chodi
+        po ctyrech, ani co ma vice noh, nesmite jist, je to hodno opovrzeni.
+      spanish: No comeréis ningún animal que repta sobre la tierra, sea de los que se
+        arrastran sobre su vientre, sea de los que marchan sobre cuatro o sobre
+        muchas patas; los tendréis por abominación.
+      greek-lxx: καὶ πᾶς ὁ πορευόμενος ἐπὶ κοιλίας καὶ πᾶς ὁ πορευόμενος ἐπὶ τέσσαρα
+        διὰ παντός ὃ πολυπληθεῖ ποσὶν ἐν πᾶσιν τοῖς ἑρπετοῖς τοῖς ἕρπουσιν ἐπὶ
+        τῆς γῆς οὐ φάγεσθε αὐτό ὅτι βδέλυγμα ὑμῖν ἐστιν
+      st_text: всего ползающего на чреве и всего ходящего на четырех ногах, и
+        многоножных из животных пресмыкающихся по земле, не ешьте, ибо они
+        скверны;
+  - id: 23004
+    number: 43
+    bookId: 3
+    text: не оскверняйте душ ваших каким-либо животным пресмыкающимся и не делайте
+      себя чрез них нечистыми, чтоб быть чрез них нечистыми,
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И нет не будете гнушаться душ ваших во всех пресмыкающихся ползающих по
+        земле и не будете запятнаны в этих и не нечистые будете в них;
+      csya: и да не омерзите душ ваших во всех гадех плежущих по земли, и да не
+        осквернитеся ими, и да не будете нечисти в них,
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 да не њмерзите2 дyшъ вaшихъ во всёхъ гaдэхъ плёжущихъ по земли2, и3
+        да не њскверните1сz и4ми, и3 да не бyдете нечи1сти въ ни1хъ,
+      sovr_rbo: Не оскверняйте себя никакими мелкими тварями, не становитесь нечистыми
+        — не делайте себя нечистыми из-за них.
+      latin: Nolite contaminare animas vestras, nec tangatis quidquam eorum, ne
+        immundi sitis.
+      ukr: Не занечищуйте душ своїх усім плазуючим, що плазує, і не зробитеся нечисті
+        ними, і не станете нечисті ними.
+      nkjv: You shall not make yourselves abominable with any creeping thing that
+        creeps; nor shall you make yourselves unclean with them, lest you be
+        defiled by them.
+      desnitsky: ""
+      mt: ‫   אַל־תְּשַׁקְּצוּ אֶת־נַפְשֹׁתֵיכֶם בְּכָל־הַשֶּׁרֶץ הַשֹּׁרֵץ וְלֹא
+        תִטַּמְּאוּ בָּהֶם וְנִטְמֵתֶם בָּם׃ ‬
+      romana: Sa nu va spurcati sufletele voastre cu vreo vietate taratoare si sa nu
+        va pangariti cu ea, ca sa fiti din pricina ei necurati,
+      francais: Ne rendez point vos personnes abominables par tous ces reptiles qui
+        rampent; ne vous rendez point impurs par eux, ne vous souillez point
+        par  eux.
+      italian: Non rendete le vostre persone abominevoli con alcuno di questi animali
+        che strisciano; non vi rendete immondi per causa loro, in modo da
+        rimaner così contaminati.
+      old_georgian: და არა საძაგელ-იყვნეთ სულნი თქუენნი ყოველთა ამათგან ქუეწარმავალთა,
+        რომელნი ძურებიან ქუეყანასა ზედა, არა შეიგინნეთ ამით და არა არაწმიდა
+        იყუნეთ ამით.
+      portuguese: "Não vos tomareis abomináveis por nenhum animal rasteiro, nem neles
+        vos contaminareis, para não vos\rtornardes imundos por eles."
+      polish: Nie plugawcie siebie samych przez jedzenie wszelkich małych zwierząt
+        pełzających, nie zanieczyszczajcie się przez nie, przez to stalibyście
+        się nieczystymi.
+      turkish: Bunların hiçbiriyle kendinizi kirletmeyin, iğrenç duruma sokmayın,
+        kirli duruma düşmeyin.
+      nrt: Не оскверняйтесь ими, не делайтесь через них нечистыми.
+      Macarius: Не оскверняйте душ своих каким-либо животным пресмыкающимся, и не
+        делайте себя чрез них нечистыми, чтобы быть чрез них нечистыми.
+      bulgarian: Не осквернявайте душите си с каквото и да е от пълзящите животни и не
+        ставайте чрез тях нечисти; не се осквернявайте чрез тях,
+      deutsch: Macht eure Seelen nicht zum Scheusal und verunreinigt euch nicht an
+        ihnen, daß ihr euch besudelt.
+      ukr2: Не зогиджуйте себе нічим, що совається по землі, й не занечищуйте ним
+        себе, бо через них ви могли б стати нечистими.
+      ukr3: Не паскудьте себе жадною повзаючою животиною, і не робіть себе нечистими
+        через них, щоб не опоганитись вам ними.
+      bel_syomukha: не апаганьвайце душаў вашых якім-небудзь жывёльным паўзуном і не
+        рабеце сябе празь іх нячыстымі, каб быць празь іх нячыстымі,
+      spbda: Не оскверняйте душ ваших каким-либо животным пресмыкающимся, и не делайте
+        себя чрез них нечистыми, чтобы быть чрез них нечистыми.
+      lev-khv: Не оскверняйте душ ваших каким либо животным пресмыкающимся, и не
+        делайте себя чрез них нечистыми, чтобы быть чрез них нечистыми;
+      czech: Neuvadejte v opovrzeni sami sebe pro nejakou hemzici se havet; nesmite se
+        jimi poskvrnit, abyste se jimi neznecistili.
+      spanish: No os hagáis abominables por los reptiles que reptan ni os hagáis
+        impuros por ellos; seréis manchados por ellos.
+      greek-lxx: καὶ οὐ μὴ βδελύξητε τὰς ψυχὰς ὑμῶν ἐν πᾶσι τοῖς ἑρπετοῖς τοῖς
+        ἕρπουσιν ἐπὶ τῆς γῆς καὶ οὐ μιανθήσεσθε ἐν τούτοις καὶ οὐκ ἀκάθαρτοι
+        ἔσεσθε ἐν αὐτοῖς
+      st_text: не оскверняйте душ ваших каким-либо животным пресмыкающимся и не
+        делайте себя чрез них нечистыми, чтоб быть чрез них нечистыми,
+  - id: 23005
+    number: 44
+    bookId: 3
+    text: "ибо Я - Господь Бог ваш: освящайтесь и будьте святы, ибо Я [Господь, Бог
+      ваш] свят; и не оскверняйте душ ваших каким-либо животным, ползающим по
+      земле,"
+    chapter: 11
+    chapterId: 101
+    parallels:
+      - verseId: 23216
+        bookId: 3
+        bookCode: levit
+        chapter: 18
+        short: Лев:18:2
+      - verseId: 23246
+        bookId: 3
+        bookCode: levit
+        chapter: 19
+        short: Лев:19:2
+      - verseId: 23304
+        bookId: 3
+        bookCode: levit
+        chapter: 20
+        short: Лев:20:7
+      - verseId: 23332
+        bookId: 3
+        bookCode: levit
+        chapter: 21
+        short: Лев:21:8
+      - verseId: 17199
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 28
+        short: Иез:28:25
+      - verseId: 3603
+        bookId: 57
+        bookCode: 1oe-poslanie-ap-petra
+        chapter: 1
+        short: 1 Пет:1:15
+      - verseId: 3604
+        bookId: 57
+        bookCode: 1oe-poslanie-ap-petra
+        chapter: 1
+        short: 1 Пет:1:16
+    translates:
+      kassian: ""
+      podstr: потому что Я есть Господь Бог ваш, и будете освящены и святые будете,
+        потому что святой есть Я Господь Бог ваш, и не оскверните души ваши во
+        всех пресмыкающихся движущихся по земле;
+      csya: "яко аз есмь Господь Бог ваш: и да освятитеся и будете святи, яко свят
+        есмь аз Господь Бог ваш: и да не оскверните душ ваших во всех гадех
+        движущихся по земли,"
+      averincev: ""
+      ungerov: ""
+      csya_old: "ћкw ѓзъ є4смь гDь бг7ъ вaшъ: и3 да њсвzтите1сz и3 бyдете свsти, ћкw
+        с™ъ є4смь ѓзъ гDь бг7ъ вaшъ: и3 да не њскверни1те дyшъ вaшихъ во всёхъ
+        гaдэхъ дви1жущихсz по земли2,"
+      sovr_rbo: Ибо Я — Господь, Бог ваш. Будьте святы, храните свою святость, ибо Я
+        свят. Не становитесь нечистыми из-за мелких тварей, бегающих по земле.
+      latin: "Ego enim sum Dominus Deus vester: sancti estote, quia ego sanctus sum.
+        Ne polluatis animas vestras in omni reptili quod movetur super terram."
+      ukr: Бо Я Господь, Бог ваш, і ви освятитеся, і будьте святі, бо святий Я, і не
+        занечищуйте душ своїх усяким плазуючим, що плазує по землі.
+      nkjv: For I am the Lord your God. You shall therefore consecrate yourselves, and
+        you shall be holy; for I am holy. Neither shall you defile yourselves
+        with any creeping thing that creeps on the earth.
+      desnitsky: ""
+      mt: ‫   כִּי אֲנִי יְהוָה אֱלֹהֵיכֶם וְהִתְקַדִּשְׁתֶּם וִהְיִיתֶם קְדֹשִׁים
+        כִּי קָדוֹשׁ אָנִי וְלֹא תְטַמְּאוּ אֶת־נַפְשֹׁתֵיכֶם בְּכָל־הַשֶּׁרֶץ
+        הָרֹמֵשׂ עַל־הָאָרֶץ׃ ‬
+      romana: Ca Eu sunt Domnul Dumnezeul vostru. Sfintiti-va si veti fi sfinti, ca
+        Eu, Domnul Dumnezeul vostru, sfant sunt; sa nu va pangariti sufletele
+        voastre cu vreo vietate din cele ce se tarasc pe pamant,
+      francais: Car je suis l'Éternel, votre Dieu; vous vous sanctifierez, et vous
+        serez saints, car je suis saint; et vous ne vous rendrez point impurs
+        par tous ces reptiles qui rampent sur la terre.
+      italian: Poiché io sono il Signore, il Dio vostro. Santificatevi dunque e siate
+        santi, perché io sono santo; non contaminate le vostre persone con
+        alcuno di questi animali che strisciano per terra.
+      old_georgian: რამეთუ მე ვარ უფალი ღმერთი თქუენი, და განწმიდენით და იყვენით წმიდაჲ,
+      portuguese: "Porque eu sou o Senhor vosso Deus; portanto santificai-vos, e sede
+        santos, porque eu sou santo; e não vos\rcontaminareis com nenhum animal
+        rasteiro que se move sobre a terra;"
+      polish: "Ponieważ Ja jestem Pan, Bóg wasz - uświęćcie się! Bądźcie świętymi,
+        ponieważ Ja jestem święty! Nie będziecie się plugawić małymi
+        zwierzętami, które\rpełzają po ziemi."
+      turkish: Tanrınız RAB benim. Kendinizi kutsayın ve kutsal olun. Çünkü ben
+        kutsalım. Küçük kara hayvanlarının hiçbiriyle kendinizi kirletmeyin.
+      nrt: Я – Господь, ваш Бог; освящайтесь и будьте святы, потому что Я свят. Не
+        оскверняйтесь никакой живностью, которая пресмыкается по земле.
+      Macarius: "Ибо Я Иегова, Бог ваш: освящайтесь и будьте святы, ибо Я [Господь,
+        Бог ваш] свят, и не оскверняйте душ ваших каким-либо животным, ползающим
+        по земле."
+      bulgarian: защото Аз съм Господ, Бог ваш; осветявайте се и бъдете свети, защото
+        Аз (Господ, Бог ваш) съм свет; и не осквернявайте душите си с каквото и
+        да е пълзящо по земята животно,
+      deutsch: Denn ich bin der Herr, euer Gott. Darum sollt ihr euch heiligen, daß
+        ihr heilig seid, denn ich bin heilig, und sollt eure Seelen nicht
+        verunreinigen an irgend einem kriechenden Tier, das auf Erden schleicht.
+      ukr2: Я бо - Господь, Бог ваш; ви маєте ставати святими й бути святими, бо я -
+        святий. Не опоганюйте себе ніяким дрібним створінням, що совається по
+        землі.
+      ukr3: Я бо Господь, Бог ваш; тим то й осьвячуйте себе і будьте сьвятими, я бо
+        сьвятий. І не опоганюйте себе животиною, що повзає по землї.
+      bel_syomukha: бо Я - Гасподзь, Бог ваш; асьвячайцеся і будзьце сьвятыя, бо Я
+        сьвяты; і не апаганьвайце душаў вашых якой-небудзь жывёлай, што поўзае
+        па зямлі,
+      spbda: Ибо Я Господь, Бог ваш; освящайтесь и будьте святы; ибо Я свят; и не
+        оскверняйте душ ваших никаким животным, ползающим по земле.
+      lev-khv: "Потому что Я Господь Бог ваш: освящайтесь и будьте святы, ибо Я свят,
+        и не оскверняйте душ ваших никаким животным, ползающим по земле;"
+      czech: Ja jsem Hospodin, vas Buh. Posvette se a budte svati, nebot ja jsem
+        svaty. Neposkvrnujte sami sebe zadnou haveti plazici se po zemi.
+      spanish: Porque yo soy Yavé, vuestro Dios, vosotros os santificaréis y seréis
+        santos, porque yo soy santo, y no os mancharéis con ninguno de los
+        reptiles que reptan sobre la tierra.
+      greek-lxx: ὅτι ἐγώ εἰμι Κύριος ὁ Θεὸς ὑμῶν καὶ ἁγιασθήσεσθε καὶ ἅγιοι ἔσεσθε ὅτι
+        ἅγιός εἰμι ἐγὼ Κύριος ὁ Θεὸς ὑμῶν καὶ οὐ μιανεῖτε τὰς ψυχὰς ὑμῶν ἐν
+        πᾶσιν τοῖς ἑρπετοῖς τοῖς κινουμένοις ἐπὶ τῆς γῆς
+      st_text: "ибо Я - Господь Бог ваш: освящайтесь и будьте святы, ибо Я [Господь,
+        Бог ваш] свят; и не оскверняйте душ ваших каким-либо животным, ползающим
+        по земле,"
+  - id: 23006
+    number: 45
+    bookId: 3
+    text: ибо Я - Господь, выведший вас из земли Египетской, чтобы быть вашим Богом.
+      Итак будьте святы, потому что Я свят.
+    chapter: 11
+    chapterId: 101
+    parallels:
+      - verseId: 9859
+        bookId: 1
+        bookCode: bytie
+        chapter: 17
+        short: Быт:17:7
+      - verseId: 21527
+        bookId: 2
+        bookCode: ishod
+        chapter: 19
+        short: Исх:19:10
+      - verseId: 23304
+        bookId: 3
+        bookCode: levit
+        chapter: 20
+        short: Лев:20:7
+      - verseId: 23323
+        bookId: 3
+        bookCode: levit
+        chapter: 20
+        short: Лев:20:26
+      - verseId: 11451
+        bookId: 4
+        bookCode: cisla
+        chapter: 15
+        short: Чис:15:41
+    translates:
+      kassian: ""
+      podstr: потому что Я есть Господь выведший вас из земли Египта быть вас Богом, и
+        будете святые, потому что святой есть Я Господь.
+      csya: яко аз есмь Господь, изведый вас из земли египетския, да буду вам Бог, и
+        будете святи, яко свят есмь аз Господь.
+      averincev: ""
+      ungerov: ""
+      csya_old: ћкw ѓзъ є4смь гDь, и3зведы1й вaсъ и3з8 земли2 є3гv1петскіz, да бyду
+        вaмъ бг7ъ, и3 бyдете свsти, ћкw с™ъ є4смь ѓзъ гDь.
+      sovr_rbo: Ибо Я — Господь, выведший вас из Египта, чтобы быть вашим Богом.
+        Будьте святы, ибо Я свят».
+      latin: Ego enim sum Dominus, qui eduxi vos de terra Aegypti, ut essem vobis in
+        Deum. Sancti eritis, quia ego sanctus sum.
+      ukr: Бо Я Господь, що вивів вас із єгипетського краю, щоб бути для вас Богом. І
+        будьте святі, бо святий Я.
+      nkjv: For I am the Lord who brings you up out of the land of Egypt, to be your
+        God. You shall therefore be holy, for I am holy.
+      desnitsky: ""
+      mt: ‫   כִּי אֲנִי יְהוָה הַמַּעֲלֶה אֶתְכֶם מֵאֶרֶץ מִצְרַיִם לִהְיֹת לָכֶם
+        לֵאלֹהִים וִהְיִיתֶם קְדֹשִׁים כִּי קָדוֹשׁ אָנִי׃ ‬
+      romana: Ca Eu sunt Domnul, Cel ce v-am scos din pamantul Egiptului, ca sa va fiu
+        Dumnezeu. Deci fiti sfinti, ca Eu, Domnul, sunt sfant".
+      francais: Car je suis l'Éternel, qui vous ai fait monter du pays d'Égypte, pour
+        être votre Dieu, et pour que vous soyez saints; car je suis saint.
+      italian: Poiché io sono il Signore, che vi ho fatti uscire dal paese d'Egitto,
+        per essere il vostro Dio; siate dunque santi, perché io sono santo.
+      old_georgian: რამეთუ წმიდა ვარ მე, უფალი თქუენი და არა შეაგინნეთ სულნი თქუენნი
+        ყოველთა ამათგან ქუეწარმავალთა, რომელნი იძრვიან ქუეყანისა ზედა, რამეთუ მე
+        ვარ ღმერთი შენი, რომელმან გამოგიყვანენ თქუენ ქუეყანით ეგჳპტით, რათა ვიყო
+        მე თქუენდა ღმერთ და იყვენით წმიდაჲ, რამეთუ წმიდა ვარ მე უფალი.
+      portuguese: "porque eu sou o Senhor, que vos fiz subir da terra do Egito, para
+        ser o vosso Deus, sereis pois santos, porque\reu sou santo."
+      polish: "Bo Ja jestem Pan, który wyprowadził was z ziemi egipskiej, abym był
+        waszym\rBogiem. Bądźcie więc świętymi, bo Ja jestem święty!"
+      turkish: Tanrınız olmak için sizi Mısır'dan çıkaran RAB benim. Kutsal olun,
+        çünkü ben kutsalım.
+      nrt: Я – Господь, Который вывел вас из Египта, чтобы быть вашим Богом. Будьте
+        святы, потому что Я свят.
+      Macarius: Ибо Я Иегова вывел вас из земли Египетской, чтоб быть вашим Богом.
+        Итак будьте святы, потому что Я [Господь] свят.
+      bulgarian: защото Аз съм Господ, Който ви изведох от Египетската земя, за да
+        бъда ваш Бог. И тъй, бъдете свети, защото Аз съм свет.
+      deutsch: Denn ich bin der Herr, der euch aus Ägyptenland geführt hat, daß ich
+        euer Gott sei. Darum sollt ihr heilig sein, denn ich bin heilig.
+      ukr2: Я бо, Господь, що вивів вас із Єгипетської землі, щоб бути вашим Богом;
+        тож маєте бути святими, бо я святий.
+      ukr3: "Я бо, Господь, вивів із Египецької землї вас, щоб вашим Богом бути, і
+        мусите бути сьвятими: я бо сьвятий."
+      bel_syomukha: бо Я - Гасподзь, Які вывеў вас зь зямлі Егіпецкай, каб быць вашым
+        Богам; дык вось, будзьце сьвятыя, бо Я сьвяты.
+      spbda: Ибо Я — Господь, выведший вас из земли Египетской, чтоб быть вашим Богом.
+        И так будьте святы, потому что Я — свят.
+      lev-khv: Потому что Я Господь, выведший вас из земли Египетской, чтоб быть вашим
+        Богом. И <i>так</i> будьте святы, потому что Я свят.
+      czech: Ja jsem Hospodin, ktery jsem vas vyvedl z egyptske zeme, abych byl vasim
+        Bohem. Proto budte svati, nebot ja jsem svaty.“
+      spanish: Pues yo soy Yavé, que os ha sacado de la tierra de Egipto para ser
+        vuestro Dios. Santos seréis vosotros, porque santo soy yo.
+      greek-lxx: ὅτι ἐγώ εἰμι Κύριος ὁ ἀναγαγὼν ὑμᾶς ἐκ γῆς Αἰγύπτου εἶναι ὑμῶν Θεός
+        καὶ ἔσεσθε ἅγιοι ὅτι ἅγιός εἰμι ἐγὼ Κύριος
+      st_text: ибо Я - Господь, выведший вас из земли Египетской, чтобы быть вашим
+        Богом. Итак будьте святы, потому что Я свят.
+  - id: 23007
+    number: 46
+    bookId: 3
+    text: Вот закон о скоте, о птицах, о всех животных, живущих в водах, и о всех
+      животных, пресмыкающихся по земле,
+    chapter: 11
+    chapterId: 101
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Это закон относительно скота и птиц и всякой души движущейся в воде и
+        всякой души ползающей по земле
+      csya: Сей закон о скотех и о птицах, и всякой души движущейся в водах и всякой
+        души пресмыкающейся по земли,
+      averincev: ""
+      ungerov: ""
+      csya_old: Се1й зако1нъ њ скотёхъ и3 њ пти1цахъ, и3 всsкой души2 дви1жущейсz въ
+        водaхъ и3 всsкой души2 пресмыкaющейсz по земли2,
+      sovr_rbo: Это закон о крупных животных и о летающих тварях, о всякой живности,
+        снующей в воде, и о всех мелких тварях, снующих по земле, —
+      latin: Ista est lex animantium ac volucrum, et omnis animae viventis, quae
+        movetur in aqua, et reptat in terra,
+      ukr: Оце закон про худобу, і про птаство, і про всяку живу звірину, що рухається
+        в воді, і про всяку душу, що плазує по землі,
+      nkjv: "'This is the law of the animals and the birds and every living creature
+        that moves in the waters, and of every creature that creeps on the
+        earth, "
+      desnitsky: ""
+      mt: ‫   זֹאת תּוֹרַת הַבְּהֵמָה וְהָעוֹף וְכֹל נֶפֶשׁ הַחַיָּה הָרֹמֶשֶׂת
+        בַּמָּיִם וּלְכָל־נֶפֶשׁ הַשֹּׁרֶצֶת עַל־הָאָרֶץ׃ ‬
+      romana: Aceasta este legea cea pentru dobitoace, pentru pasari, pentru toate
+        vietatile ce misuna in apa si pentru toate vietatile ce traiesc pe
+        pamant,
+      francais: Telle est la loi touchant les animaux, les oiseaux, tous les êtres
+        vivants qui se meuvent dans les eaux, et tous les êtres qui rampent sur
+        la terre,
+      italian: Questa è la legge che riguarda i quadrupedi, gli uccelli, ogni essere
+        vivente che si muove nelle acque e ogni essere che striscia per terra,
+      old_georgian: ესე შჯული არს საცხოვართათჳს და მფრინველთათჳს და ყოვლისა სულისა
+        ქუეწარმავლისა ქუეყანასა ზედა
+      portuguese: "Esta é a lei sobre os animais e as aves, e sobre toda criatura
+        vivente que se move nas águas e toda criatura que\rse arrasta sobre a
+        terra;"
+      polish: "To jest prawo dotyczące zwierząt, ptaków i wszelkich istot żyjących,
+        które\rporuszają się w wodzie, i wszelkich stworzeń pełzających po
+        ziemi,"
+      turkish: ""
+      nrt: Таков закон о зверях, птицах и всякой живности, которая кишит в воде и
+        пресмыкается по земле.
+      Macarius: Вот закон о скоте, о птицах, о всех животных, плавающих в водах, и о
+        всех животных, пресмыкающихся по земле,
+      bulgarian: Това е законът за добитъка, за птиците, за всички животни, които
+        живеят във водите, и за всички животни, които пълзят по земята,
+      deutsch: Dies ist das Gesetz von den Tieren und Vögeln und allerlei Tieren, die
+        sich regen im Wasser, und allerlei Tieren, die auf Erden schleichen,
+      ukr2: Ось такий то закон про чотириногих і про птаство і про всяку живу тварину,
+        що кишить у воді, і про всяку тварину, що совається по землі,
+      ukr3: Се закон про скотину, і про птаство, і про всяку животину, пливаючу у водї
+        і про животину повзаючу по землї,
+      bel_syomukha: Вось закон пра быдла, пра птушак, пра ўсіх жывёлаў, што жывуць у
+        водах, і пра ўсіх жывёлаў, што поўзаюць па зямлі,
+      spbda: Вот закон о скоте, о птицах, о всех животных, ползающих в водах, и о всех
+        животных, пресмыкающихся по земле,
+      lev-khv: Вот закон о скоте, о птицах, о всех животных, ползающих в водах, и о
+        всех животных, пресмыкающих по земле,
+      czech: To je rad o zviratech, o ptacich a o vsech zivych tvorech pohybujicich se
+        ve vodach i o vsech, kteri se hemzi po zemi.
+      spanish: Esta es la ley referente a los cuadrúpedos, las aves, todos los seres
+        vivientes que se mueven en las aguas y todos los que reptan sobre la
+        tierra,
+      greek-lxx: οὗτος ὁ νόμος περὶ τῶν κτηνῶν καὶ τῶν πετεινῶν καὶ πάσης ψυχῆς τῆς
+        κινουμένης ἐν τῷ ὕδατι καὶ πάσης ψυχῆς ἑρπούσης ἐπὶ τῆς γῆς
+      st_text: Вот закон о скоте, о птицах, о всех животных, живущих в водах, и о всех
+        животных, пресмыкающихся по земле,
+  - id: 23008
+    number: 47
+    bookId: 3
+    text: чтобы отличать нечистое от чистого, и животных, которых можно есть, от
+      животных, которых есть не должно.
+    chapter: 11
+    chapterId: 101
+    parallels:
+      - verseId: 32053
+        bookId: 22
+        bookCode: psaltir
+        chapter: 63
+        short: Пс:63:9
+      - verseId: 25246
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 15
+        short: Мф:15:17
+      - verseId: 13048
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 10
+        short: Деян:10:13
+      - verseId: 13049
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 10
+        short: Деян:10:14
+      - verseId: 13050
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 10
+        short: Деян:10:15
+      - verseId: 13063
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 10
+        short: Деян:10:28
+    translates:
+      kassian: ""
+      podstr: разделить по середине [между] нечистыми и по середине [между] чистыми и
+        по середине [между] родящими съедобное и по середине [между] родящими не
+        съедобное.
+      csya: разлучити между нечистыми и между чистыми, и научити сыны израилевы между
+        оживляющими ядомая и между оживляющими не ядомая.
+      averincev: ""
+      ungerov: ""
+      csya_old: разлучи1ти междY нечи1стыми и3 междY чи1стыми, и3 научи1ти сы1ны
+        ї}лєвы междY њживлsющими kдHмаz и3 междY њживлsющими не kдHмаz.
+      sovr_rbo: "чтобы отличать нечистое от чистого: тех животных, которых можно есть,
+        от тех животных, которых есть нельзя."
+      latin: ut differentias noveritis mundi et immundi, et sciatis quid comedere et
+        quid respuere debeatis.
+      ukr: щоб відділювати між нечистим та між чистим, і між звіриною, що їсться, та
+        між звіриною, що не їсться.
+      nkjv: to distinguish between the unclean and the clean, and between the animal
+        that may be eaten and the animal that may not be eaten.' "
+      desnitsky: ""
+      mt: ‫   לְהַבְדִּיל בֵּין הַטָּמֵא וּבֵין הַטָּהֹר וּבֵין הַחַיָּה הַנֶּאֱכֶלֶת
+        וּבֵין הַחַיָּה אֲשֶׁר לֹא תֵאָכֵל׃ פ ‬
+      romana: Dupa care se pot deosebi cele necurate de cele curate si vietatile ce se
+        mananca de vietatile ce nu se mananca.
+      francais: afin que vous distinguiez ce qui est impur et ce qui est pur, l'animal
+        qui se mange et l'animal qui ne se mange pas.
+      italian: perché sappiate distingue re ciò che è immondo da ciò che è mondo,
+        l'animale che si può mangiare da quello che non si deve mangiare".
+      old_georgian: განშორებად შორის არაწმიდათა და შორის წმიდათა და სწავლად ძეთა
+        ისრაჱლისათა შორის მაცხოვნებელთა საჭმელთა და შორის არამაცხოვნებელთა
+        საჭმელთა.
+      portuguese: "para fazer separação entre o imundo e o limpo, e entre os animais
+        que se podem comer e os animais que não se\rpodem comer."
+      polish: "abyście rozróżniali między tym, co nieczyste, a tym, co czyste, między
+        zwie\rrzętami jadalnymi a tymi, których jeść nie wolno”."
+      turkish: «`Kirli olanı temizden, eti yeneni eti yenmeyenden ayırt edebilmeniz
+        için hayvanlar, kuşlar, suda toplu halde yaşayan bütün canlılar ve küçük
+        kara hayvanlarıyla ilgili yasa budur.'»
+      nrt: Отличайте нечистое от чистого, живность, которую можно есть, от той,
+        которую есть нельзя».
+      Macarius: Чтобы отличать нечистое от чистого, и животные, которые можно есть, от
+        животных, которых есть не должно.
+      bulgarian: за да различавате нечисто от чисто, и животните, които могат да се
+        ядат, от животните, които не бива да се ядат.
+      deutsch: daß ihr unterscheiden könnt, was unrein und rein ist, und welches Tier
+        man essen und welches man nicht essen soll.
+      ukr2: щоб розрізняти між нечистим і чистим, і між твариною, що можна її їсти, та
+        твариною, що не можна їсти.»
+      ukr3: Щоб робити ріжницю між нечистим і чистим,
+      bel_syomukha: каб адрозьніваць нячыстае ад чыстага, і жывёлаў, якіх можна есьці,
+        ад жывёлаў, якіх есьці ня трэба.
+      spbda: Чтобы отличать нечистое от чистаго, и животных, которыя можно есть, от
+        животных, которыхь есть не должно.
+      lev-khv: Чтобы отличать нечистое от чистаго, и животных, которыя можно есть, от
+        животных, которых есть не должно.
+      czech: Je nutno rozlisovat mezi necistym a cistym, mezi zivocichy, kteri se
+        smeji jist, a temi, kteri se jist nesmeji.
+      spanish: para que distingáis entre lo puro y lo impuro, entre lo que puede y no
+        puede comerse>>.
+      greek-lxx: διαστεῖλαι ἀνὰ μέσον τῶν ἀκαθάρτων καὶ ἀνὰ μέσον τῶν καθαρῶν καὶ ἀνὰ
+        μέσον τῶν ζωογονούντων τὰ ἐσθιόμενα καὶ ἀνὰ μέσον τῶν ζωογονούντων τὰ μὴ
+        ἐσθιόμενα
+      st_text: чтобы отличать нечистое от чистого, и животных, которых можно есть, от
+        животных, которых есть не должно.

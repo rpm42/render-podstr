@@ -1,0 +1,979 @@
+id: 523
+number: 5
+bookId: 22
+verseCount: 13
+title: Глава 5
+verses:
+  - id: 31845
+    number: 1
+    bookId: 22
+    text: Начальнику хора. На духовых <i>орудиях</i>. Псалом Давида.
+    chapter: 5
+    chapterId: 523
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: О наследствующем, псалом давиду.
+      averincev: ""
+      ungerov: О наследствующей. Псалом Давида.
+      csya_old: Њ наслёдствующемъ, pало1мъ дв7ду,
+      sovr_rbo: "[Начальнику хора: напев «Ханехилот…». Псалом Давида.]"
+      latin: In finem, pro ea quae haereditatem consequitur. Psalmus David.
+      ukr: Для дириґента хору. До флейти. Псалом Давидів.
+      nkjv: To the Chief Musician. With flutes. A Psalm of David. Give ear to my
+        words, O Lord, Consider my meditation.
+      desnitsky: ""
+      mt: ‫    לַמְנַצֵּחַ אֶל־הַנְּחִילוֹת מִזְמוֹר לְדָוִד׃ ‬
+      romana: Al lui David. Graiurile mele asculta-le, Doamne! Intelege strigarea mea!
+      italian: Al maestro del coro. Per flauti. Salmo. Di Davide.
+      old_georgian: დასასრულსა მკჳდრისათჳს, ფსალმუნი დავითის
+      portuguese: Dá ouvidos às minhas palavras, ó Senhor; atende aos meus gemidos.
+      polish: Kierownikowi chóru. Na flety. Psalm. Dawidowy.
+      nrt: Дирижеру хора. Для свирелей. Псалом Давида.
+      Macarius: Начальнику хора. На духовых музыкальных орудиях. Псалом Давидов.
+      bulgarian: Началнику на хора. На надуйни свирала. Псалом Давидов.
+      pavskiy: Начальнику хора. На духовых музыкальных орудиях. Псалом Давидов.
+      deutsch: Ein Psalm Davids, vorzusingen, für das Erbe. [2 Herr, höre meine Worte,
+        merke auf meine Rede!
+      ukr2: Провідникові хору. На флейтах. Псалом Давида.
+      ukr3: "Проводиреві хора: на трубних. Псальма Давидова. П очуй, Господи, слова
+        мої, зглянься на тугу мою."
+      bel_syomukha: Кіроўцу хору. На духавых. Псальма Давідава.
+      sergievsky: Начальнику духовых орудий; Псалом Давидов.
+      lev-khv: Начальнику хора. На духовых музыкальных орудиях. Псалом Давидов.
+      czech: Pro predniho zpevaka ke hre na fletnu. Daviduv.
+      spanish: Al maestro de coro. A la flauta. Salmo de David.
+      mandelshtam: Начальнику духовых орудий; Псалом Давидов.
+      zertis-kamenskiy: Начальнейшему певцу на Мусикийском духовном орудии песнь Давидова.
+      greek-lxx: εἰς τὸ τέλος ὑπὲρ τῆς κληρονομούσης ψαλμὸς τῷ Δαυιδ
+      st_text: Начальнику хора. На духовых <i>орудиях</i>. Псалом Давида.
+  - id: 31846
+    number: 2
+    bookId: 22
+    text: Услышь, Господи, слова мои, уразумей помышления мои.
+    chapter: 5
+    chapterId: 523
+    parallels:
+      - verseId: 31680
+        bookId: 22
+        bookCode: psaltir
+        chapter: 4
+        short: Пс:4:2
+      - verseId: 31207
+        bookId: 22
+        bookCode: psaltir
+        chapter: 16
+        short: Пс:16:1
+      - verseId: 31900
+        bookId: 22
+        bookCode: psaltir
+        chapter: 53
+        short: Пс:53:4
+      - verseId: 32012
+        bookId: 22
+        bookCode: psaltir
+        chapter: 60
+        short: Пс:60:2
+      - verseId: 30917
+        bookId: 22
+        bookCode: psaltir
+        chapter: 129
+        short: Пс:129:2
+      - verseId: 31082
+        bookId: 22
+        bookCode: psaltir
+        chapter: 142
+        short: Пс:142:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Глаголы моя внуши, Господи, разумей звание мое.
+      averincev: ""
+      ungerov: Господи! Словам моим внемли, уразумей воззвание мое.
+      csya_old: Глаго1лы мо‰ внуши2, гDи, разумёй звaніе мое2.
+      sovr_rbo: Услышь слова мои, о Господь! Мольбу прими!
+      latin: Verba mea auribus percipe, Domine; intellige clamorem meum.
+      ukr: Почуй, Господи, мову мою, стогнання моє зрозумій.
+      nkjv: Give ear to my words, O Lord, Consider my meditation.
+      desnitsky: ""
+      mt: ‫    אֲמָרַי הַאֲזִינָה יְהוָה בִּינָה הֲגִיגִי׃ ‬
+      romana: Ia aminte la glasul rugaciunii mele, Imparatul meu si Dumnezeul meu,
+        caci catre Tine, ma voi ruga, Doamne!
+      italian: "Porgi l'orecchio, Signore, alle mie parole: intendi il mio lamento."
+      old_georgian: სიტყუანი ჩემნი ყურად-იხუენ, უფალო, გულისხმა-ყავ ღაღადებაჲ ჩემი,
+      portuguese: Atende à voz do meu clamor, Rei meu e Deus meu, pois é a ti que oro.
+      polish: Usłysz, Panie, moje słowa, zwróć na mój jęk uwagę;
+      nrt: Услышь слова мои, Господи, пойми стенания мои!
+      Macarius: Услыши, Господи, слова мои, уразумей помышления мои;
+      bulgarian: Чуй, Господи, думите ми, разумей мислите ми.
+      pavskiy: Услыши, Господи, слова мои, уразумей помышления мои;
+      deutsch: "[3 Vernimm mein Schreien, mein König und mein Gott; denn ich will vor
+        dir beten."
+      ukr2: Вислухай, Господи, мої глаголи, зверни увагу на моє зідхання.
+      ukr3: Прислухайсь голосу кликання мого, мій царю і Боже, бо до тебе молюся.
+      bel_syomukha: Пачуй, Госпадзе, словы мае, зразумей мае помыслы.
+      sergievsky: Услышь, Господь, слова мои; вникни в тоску мою!
+      lev-khv: Слова мои услышь, Господи, вникни в помышления мои;
+      czech: Hospodine, prej sluchu mym slovum, mej porozumeni pro mou zneklidnenou
+        mysl.
+      spanish: Apresta el oído a mis palabras, ¡oh Yavé! atiende mis suspiros.
+      mandelshtam: Услышь, Господь, слова мои; вникни в тоску мою!
+      zertis-kamenskiy: Глаголы моя внуши Боже, разумей поучение мое.
+      pakazkiy: "Не всею яростью Твоею\rМеня Владыко! истязуй,\rНе буди гневным
+        Судиею,\rНо как родитель наказуй!"
+      greek-lxx: τὰ ῥήματά μου ἐνώτισαι Κύριε σύνες τῆς κραυγῆς μου
+      st_text: Услышь, Господи, слова мои, уразумей помышления мои.
+  - id: 31847
+    number: 3
+    bookId: 22
+    text: Внемли гласу вопля моего, Царь мой и Бог мой! ибо я к Тебе молюсь.
+    chapter: 5
+    chapterId: 523
+    parallels:
+      - verseId: 32497
+        bookId: 22
+        bookCode: psaltir
+        chapter: 83
+        short: Пс:83:4
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Вонми гласу моления моего, Царю мой и Боже мой: яко к тебе помолюся,
+        Господи."
+      averincev: ""
+      ungerov: Вонми голосу моления моего, Царю мой и Боже мой, ибо Тебе помолюсь,
+        Господи.
+      csya_old: "Вонми2 глaсу моле1ніz моегw2, цRю2 мо1й и3 б9е мо1й: ћкw къ тебЁ
+        помолю1сz, гDи."
+      sovr_rbo: Крик мой услышь, о мой Царь и мой Бог, я молю Тебя!
+      latin: Intende voci orationis meae, rex meus et Deus meus.
+      ukr: Прислухайсь до голосу зойку мого, о мій Царю та Боже Ти мій, як до Тебе
+        молитися буду!
+      nkjv: Give heed to the voice of my cry, My King and my God, For to You I will
+        pray.
+      desnitsky: ""
+      mt: ‫    הַקְשִׁיבָה לְקוֹל שַׁוְעִי מַלְכִּי וֵאלֹהָי כִּי־אֵלֶיךָ אֶתְפַּלָּל׃
+        ‬
+      romana: Dimineata vei auzi glasul meu; dimineata voi sta inaintea Ta si ma vei
+        vedea.
+      italian: Ascolta la voce del mio grido, o mio re e mio Dio, perché ti prego,
+        Signore.
+      old_georgian: მომხედენ ჴმასა ლოცვისა ჩემისასა, მეუფეო ჩემო და ღმერთო ჩემო;
+      portuguese: Pela manhã ouves a minha voz, ó Senhor; pela manhã te apresento a
+        minha oração, e vigio.
+      polish: "natęż słuch na głos mojej modlitwy, mój Królu i Boże! Albowiem
+        Ciebie\rbłagam,"
+      nrt: Внемли крику о помощи, мой Царь и мой Бог, ведь я молюсь Тебе.
+      Macarius: Внемли гласу вопля моего, Царь мой и Боже мой! Ибо Тебе, Господи, молюся.
+      bulgarian: Вслушай се в гласа на моите вопли, Царю мой и Боже мой! защото Тебе
+        се моля.
+      pavskiy: Вмемли гласу вопля моего, Царь мой и Боже мой! Ибо Тебе, Господи, молюся.
+      deutsch: "[4 Herr, frühe wollest du meine Stimme hören; frühe will ich mich zu
+        dir schicken und aufmerken."
+      ukr2: Прислухайся до голосу мого благання, царю мій і Боже мій! До тебе бо
+        молюся.
+      ukr3: Досьвіта почуєш, Господи, мій голос, досьвіта стану перед тобою, і
+        дожидати му.
+      bel_syomukha: Дай увагі енку скаргі маёй, Цару мой і мой Божа! Я малюся Табе.
+      sergievsky: Внемли голосу вопля моего, Царь мой и Бог мой! Ибо Тебе я молюсь.
+      lev-khv: Внемли гласу вопля моего, Царь мой и Боже мой! потому что Тебе,
+        Господи, я молюсь.
+      czech: Pozornost mi venuj, kdyz o pomoc volam, muj Krali, muj Boze, vzdyt se
+        modlim k tobe!
+      spanish: Atiende a las voces de mi súplica, Rey mío y Dios mío.
+      mandelshtam: Внемли голосу вопля моего, Царь мой и Бог мой! Ибо Тебе я молюсь.
+      zertis-kamenskiy: Внемли гласу вопля моего, Царю мой и Боже мой! яко к Тебе молюся.
+      pakazkiy: "Помилуй Господи! помилуй,\rНедуги утоли страстей,\rЦели как врачь, а
+        не насилуй Разстроенных моих костей."
+      greek-lxx: πρόσχες τῇ φωνῇ τῆς δεήσεώς μου ὁ βασιλεύς μου καὶ ὁ Θεός μου ὅτι
+        πρὸς σὲ προσεύξομαι Κύριε
+      st_text: Внемли гласу вопля моего, Царь мой и Бог мой! ибо я к Тебе молюсь.
+  - id: 31848
+    number: 4
+    bookId: 22
+    text: Господи! рано услышь голос мой, - рано предстану пред Тобою, и буду
+      ожидать,
+    chapter: 5
+    chapterId: 523
+    parallels:
+      - verseId: 30814
+        bookId: 22
+        bookCode: psaltir
+        chapter: 118
+        short: Пс:118:147
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Заутра услыши глас мой: заутра предстану ти, и узриши мя:"
+      averincev: ""
+      ungerov: Поутру услышь голос мой, поутру предстану пред Тобою, и Ты увидишь меня.
+      csya_old: "Заyтра ўслы1ши глaсъ мо1й: заyтра предстaну ти2, и3 ќзриши мS:"
+      sovr_rbo: О Господь! Что ни утро — Ты слышишь меня, что ни утро — с надеждою я
+        пред Тобой!
+      latin: Quoniam ad te orabo, Domine, mane exaudies vocem meam.
+      ukr: Ти слухаєш, Господи, ранком мій голос, ранком молитися буду до Тебе та буду
+        чекати,
+      nkjv: My voice You shall hear in the morning, O Lord; In the morning I will
+        direct it to You, And I will look up.
+      desnitsky: ""
+      mt: ‫    יְהוָה בֹּקֶר‪‬ תִּשְׁמַע קוֹלִי בֹּקֶר אֶעֱרָךְ־לְךָ וַאֲצַפֶּה׃ ‬
+      romana: Ca Tu esti Dumnezeu, Care nu voiesti faradelegea, nici nu va locui langa
+        Tine cel ce vicleneste.
+      italian: Al mattino ascolta la mia voce; fin dal mattino t'invoco e sto in attesa.
+      old_georgian: რამეთუ შენდამი ვილოცო, უფალო.
+      portuguese: Porque tu não és um Deus que tenha prazer na iniqüidade, nem contigo
+        habitará o mal.
+      polish: o Panie, słyszysz mój głos od rana, od rana przedstawiam Ci prośby i
+        czekam.
+      nrt: Утром, Господи, Ты услышишь мой голос, утром предстану с мольбой перед
+        Тобою и замру в ожидании.
+      Macarius: Господи! рано Ты слышишь глас мой, рано предстою Тебе, и ожидаю.
+      bulgarian: Господи, чуй рано гласа ми, - на ранина ще застана пред Тебе и ще чакам,
+      pavskiy: Господи! рано Ты слышишь глас мой, рано предстою Тебе, и ожидаю.
+      deutsch: "[5 Denn du bist nicht ein Gott, dem gottloses Wesen gefällt; wer böse
+        ist, bleibt nicht vor dir."
+      ukr2: О Господи, удосвіта ти голос мій почуєш, удосвіта буду молитися до тебе й
+        виглядати.
+      ukr3: Ти бо єси Бог, що не любить беззаконня; перед тобою нема місця для
+        лукавого.
+      bel_syomukha: Госпадзе! раніцай голас пачуй мой, - раніцай стану прад Табою і
+        буду чакаць.
+      sergievsky: "Господь! С утра услышь голос мой: с утра предстану я пред Тебя и
+        буду дожидаться!"
+      lev-khv: Господи! рано Ты слышишь глас мой, рано предстаю Тебе и надеюсь;
+      czech: Hospodine, ty muj hlas uslysis zrana, rano ti pripravim obet a budu
+        cekat.
+      spanish: Porque a ti suplico, ¡oh Yavé! De mañana tú escuchas mi voz; temprano
+        me pongo ante ti y espero.
+      mandelshtam: "Господь! С утра услышь голос мой: с утра предстану я пред Тебя и
+        буду дожидаться!"
+      zertis-kamenskiy: "Боже! заутра услыши глас мой: заутра предстану Ти, и ожидати
+        имею [помощи от Тебе]."
+      pakazkiy: "Как осужденница в неволе Мятется вся душа моя;\rИ Ты о Господи!
+        доколе?\rДоколе окаянен я?"
+      greek-lxx: τὸ πρωὶ εἰσακούσῃ τῆς φωνῆς μου τὸ πρωὶ παραστήσομαί σοι καὶ ἐπόψομαι
+      st_text: Господи! рано услышь голос мой, - рано предстану пред Тобою, и буду
+        ожидать,
+  - id: 31849
+    number: 5
+    bookId: 22
+    text: ибо Ты Бог, не любящий беззакония; у Тебя не водворится злой;
+    chapter: 5
+    chapterId: 523
+    parallels:
+      - verseId: 36625
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 32
+        short: Втор:32:4
+      - verseId: 30023
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 3
+        short: Притч:3:32
+      - verseId: 29019
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 14
+        short: Прем:14:9
+      - verseId: 33498
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 15
+        short: Сир:15:11
+      - verseId: 33507
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 15
+        short: Сир:15:20
+      - verseId: 25639
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 25
+        short: Мф:25:12
+      - verseId: 15117
+        bookId: 66
+        bookCode: k-galatam-poslanie-ap-pavla
+        chapter: 5
+        short: Гал:5:21
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "яко Бог не хотяй беззакония ты еси: не приселится к тебе лукавнуяй,"
+      averincev: ""
+      ungerov: Ибо Ты Бог, Коему неугодно беззаконие, не водворится у Тебя лукавый.
+      csya_old: "ћкw бг7ъ не хотsй беззако1ніz ты2 є3си2: не присели1тсz къ тебЁ
+        лукaвнуzй,"
+      sovr_rbo: Ты Бог, который не терпит зла, злому рядом с Тобой не место!
+      latin: Mane astabo tibi, et videbo quoniam non Deus volens iniquitatem tu es.
+      ukr: бо Бог Ти не той, що несправедливости хоче, зло не буде в Тобі пробувати!
+      nkjv: For You are not a God who takes pleasure in wickedness, Nor shall evil
+        dwell with You.
+      desnitsky: ""
+      mt: ‫    כִּי לֹא אֵל־חָפֵץ רֶשַׁע אָתָּה לֹא יְגֻרְךָ רָע׃ ‬
+      romana: Nu vor sta calcatorii de lege in preajma ochilor Tai. Urat-ai pe toti
+        cei ce lucreaza fara de lege.
+      italian: Tu non sei un Dio che si compiace del male; presso di te il malvagio
+        non trova dimora;
+      old_georgian: განთიად შეისმინე ჴმისა ჩემისა, განთიად წარვდგე შენდა და გეჩუენო
+        შენ. რამეთუ შენ ღმერთი არა ეგრე ხარ, ვითარმცა გინდა უსჯულოებაჲ;
+      portuguese: Os arrogantes não subsistirão diante dos teus olhos; detestas a
+        todos os que praticam a maldade.
+      polish: "Bo Ty nie jesteś Bogiem, któremu miła nieprawość, złego nie przyjmiesz
+        do\rsiebie w gościnę."
+      nrt: Ты не Бог, желающий беззакония, зло не сможет с Тобой обитать.
+      Macarius: Ибо Ты Бог, не любящий беззакония; у Тебя не водворится злой.
+      bulgarian: защото Ти си Бог, Който не обича беззаконие; злият няма да се настани
+        при Тебе;
+      pavskiy: Ибо Ты Бог, не любящий беззакония; у Тебя не водворится злый.
+      deutsch: "[6 Die Ruhmredigen bestehen nicht vor deinen Augen; du bist feind
+        allen Übeltätern."
+      ukr2: Бо ти не такий Бог, що любить беззаконня; лукавому немає місця в тебе,
+      ukr3: Не устоять бутні перед очима твоїми; ти ненавидиш усїх, що
+        беззаконствують.
+      bel_syomukha: Бо Ты, Божа, беззаконьняў ня любіш; ліхадзей пры Табе не аселіцца;
+      sergievsky: Ибо Ты — не бог, любящий беззаконие; у Тебя не водворится зло.
+      lev-khv: Потому что Ты Бог, не любящий беззакония; у Тебя не водворится злой;
+      czech: Ty nejsi buh, ktery ma zalibu ve svevoli, zly nemuze byt u tebe hostem,
+      spanish: Pues no eres tú Dios que se agrade del impío, ni será tu huésped el
+        perverso.
+      mandelshtam: Ибо Ты — не бог, любящий беззаконие; у Тебя не водворится зло.
+      zertis-kamenskiy: Яко Ты еси Бог не хотяй беззакония; не преселятся к Тебе злии.
+      pakazkiy: "Но обратись ко мне Владыко! Ослабу даждь душе моей,\rИ свергнув бремя
+        с ней толико,\rСпаси по милости Твоей!"
+      greek-lxx: ὅτι οὐχὶ Θεὸς θέλων ἀνομίαν σὺ εἶ οὐδὲ παροικήσει σοι πονηρευόμενος
+      st_text: ибо Ты Бог, не любящий беззакония; у Тебя не водворится злой;
+  - id: 31850
+    number: 6
+    bookId: 22
+    text: "нечестивые не пребудут пред очами Твоими: Ты ненавидишь всех, делающих
+      беззаконие."
+    chapter: 5
+    chapterId: 523
+    parallels:
+      - verseId: 29424
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 11
+        short: Притч:11:20
+      - verseId: 29457
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 12
+        short: Притч:12:22
+      - verseId: 29533
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 15
+        short: Притч:15:9
+      - verseId: 29019
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 14
+        short: Прем:14:9
+      - verseId: 15117
+        bookId: 66
+        bookCode: k-galatam-poslanie-ap-pavla
+        chapter: 5
+        short: Гал:5:21
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "ниже пребудут беззаконницы пред очима твоима: возненавидел еси вся
+        делающыя беззаконие,"
+      averincev: ""
+      ungerov: И не пребудут беззаконники пред очами Твоими, Ты возненавидел всех,
+        совершающих беззаконие.
+      csya_old: "ниже2 пребyдутъ беззакHнницы пред8 nчи1ма твои1ма: возненави1дэлъ
+        є3си2 вс‰ дёлающыz беззако1ніе,"
+      sovr_rbo: Дерзким не выдержать взора Твоего, негодяи ненавистны Тебе,
+      latin: Neque habitabit juxta te malignus, neque permanebunt injusti ante oculos
+        tuos.
+      ukr: Перед очима Твоїми не втримаються гультяї, всіх злочинців ненавидиш Ти.
+      nkjv: The boastful shall not stand in Your sight; You hate all workers of
+        iniquity.
+      desnitsky: ""
+      mt: ‫    לֹא־יִתְיַצְּבוּ הוֹלְלִים לְנֶגֶד עֵינֶיךָ שָׂנֵאתָ כָּל־פֹּעֲלֵי
+        אָוֶן׃ ‬
+      romana: Pierde-vei pe toti cei ce graiesc minciuna; pe ucigas si pe viclean il
+        uraste Domnul.
+      italian: gli stolti non sostengono il tuo sguardo. Tu detesti chi fa il male,
+      old_georgian: არა დაიმკჳდროს შენ თანა უკეთურმან, არცა დადგენ უსჯულონი წინაშე
+        თუალთა შენთა;
+      portuguese: Destróis aqueles que proferem a mentira; ao sanguinário e ao
+        fraudulento o Senhor abomina.
+      polish: Nieprawi nie ostoją się przed Tobą. Nienawidzisz wszystkich złoczyńców,
+      nrt: Надменные не устоят перед Тобой, всех делающих зло Ты ненавидишь.
+      Macarius: Безумцы не предстанут пред очи Твои; Ты ненавидишь всех, делающих
+        беззаконие.
+      bulgarian: "нечестивите няма да пребъдват пред Твоите очи: Ти ненавиждаш всички,
+        които вършат беззаконие."
+      pavskiy: Безумцы не предстанут пред очи Твои; Ты ненавидишь всех делающих
+        беззаконие.
+      deutsch: "[7 Du bringst die Lügner um; der Herr hat Greuel an den Blutgierigen
+        und Falschen."
+      ukr2: і нечестиві не встояться перед очима в тебе. Ти ненавидиш усіх лиходіїв,
+      ukr3: Ти погубиш людей льживих; кровожадним і лукавим мерзиться Господь.
+      bel_syomukha: "бязбожнікі прад вачыма Тваімі ня выстаяць: Ты ненавідзіш усіх
+        ліхадзеяў."
+      sergievsky: Нечестивым не устоять пред очами Твоими; Ты ненавидишь всех делающих
+        беззаконие.
+      lev-khv: Не предстанут безумцы пред очи Твои; Ты ненавидишь всех, делающих
+        беззаконие;
+      czech: tobe nesmeji na oci potrestenci, nenavidis vsechny, kdo pachaji
+        nicemnosti,
+      spanish: No pueden los insensatos estar ante tus ojos; odias a todos los
+        obradores de iniquidad.
+      mandelshtam: Нечестивым не устоять пред очами Твоими; Ты ненавидишь всех
+        делающих беззаконие.
+      zertis-kamenskiy: Не устоят буии пред очима Твоима; возненавидел еси вся
+        делающие беззаконие.
+      pakazkiy: "Умершии не ощущают Чудес и милостей Твоих;\rНиже до аде получают
+        Прощения грехов своих."
+      greek-lxx: οὐ διαμενοῦσιν παράνομοι κατέναντι τῶν ὀφθαλμῶν σου ἐμίσησας πάντας
+        τοὺς ἐργαζομένους τὴν ἀνομίαν
+      st_text: "нечестивые не пребудут пред очами Твоими: Ты ненавидишь всех, делающих
+        беззаконие."
+  - id: 31851
+    number: 7
+    bookId: 22
+    text: Ты погубишь говорящих ложь; кровожадного и коварного гнушается Господь.
+    chapter: 5
+    chapterId: 523
+    parallels:
+      - verseId: 4026
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 16
+        short: 2 Цар:16:7
+      - verseId: 31929
+        bookId: 22
+        bookCode: psaltir
+        chapter: 54
+        short: Пс:54:24
+      - verseId: 31040
+        bookId: 22
+        bookCode: psaltir
+        chapter: 138
+        short: Пс:138:19
+      - verseId: 19970
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 1
+        short: Ис:1:15
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "погубиши вся глаголющыя лжу: мужа кровей и льстива гнушается Господь."
+      averincev: ""
+      ungerov: Погубишь всех, говорящих ложь, кровожадного и льстивого гнушается
+        Господь.
+      csya_old: "погуби1ши вс‰ глаго1лющыz лжY: мyжа крове1й и3 льсти1ва гнушaетсz гDь."
+      sovr_rbo: клеветников уничтожишь Ты, мерзок для Господа убийца и лжец.
+      latin: Odisti omnes qui operantur iniquitatem; perdes omnes qui loquuntur
+        mendacium. Virum sanguinum et dolosum abominabitur Dominus.
+      ukr: Погубиш Ти неправдомовців, кровожерну й підступну людину обридить Господь.
+      nkjv: You shall destroy those who speak falsehood; The Lord abhors the
+        bloodthirsty and deceitful man.
+      desnitsky: ""
+      mt: ‫    תְּאַבֵּד דֹּבְרֵי כָזָב אִישׁ־דָּמִים וּמִרְמָה יְתָעֵב יְהוָה׃ ‬
+      romana: Iar eu, intru multimea milei Tale, voi intra in casa Ta, inchina-ma-voi
+        spre sfant locasul Tau, intru frica Ta.
+      italian: fai perire i bugiardi. Il Signore detesta sanguinari e ingannatori.
+      old_georgian: მოიძულენ შენ ყოველნი მოქმედნი უსჯულოებისანი. წარსწყმიდნე შენ
+        ყოველნი, რომელნი იტყჳან სიცრუესა; კაცი მოსისხლე და მზაკუარი სძაგს
+        უფალსა.
+      portuguese: "Mas eu, pela grandeza da tua benignidade, entrarei em tua casa; e
+        em teu temor me inclinarei para o teu santo\rtemplo."
+      polish: zsyłasz zgubę na wszystkich, co mówią kłamliwie. Mężem krwawym i
+        podstępnym brzydzi się Pan.
+      nrt: Ты погубишь говорящих ложь; кровожадных и коварных гнушается Господь.
+      Macarius: Погубляешь говорящих ложь; кровожадного и коварного гнушается Господь.
+      bulgarian: Ти ще погубиш ония, които говорят лъжа; от кръвожаден и коварен
+        Господ се гнуси.
+      pavskiy: Погубляешь говорящих ложь; кровожаднаго и коварнаго гнушается Господь.
+      deutsch: "[8 Ich aber will in dein Haus gehen auf deine große Güte und anbeten
+        gegen deinen heiligen Tempel in deiner Furcht."
+      ukr2: вигублюєш усіх тих, що неправду кажуть. Господеві осоружні кровожерні й
+        лукаві.
+      ukr3: Я ж по великій милостї твоїй увійду в дім твій і поклонюся в страху твоїм
+        у сьвятому храмі твоєму.
+      bel_syomukha: Ты загубіш усіх ашуканцаў; крыважэрцамі і падступнымі Гасподзь пагарджае.
+      sergievsky: Ты погубишь говорящих ложь; человека кровожаднаго и коварнаго
+        гнушается Господь.
+      lev-khv: Погубляешь говорящих ложь; кровожаднаго и коварнаго гнушается Господь.
+      czech: do zahuby vrhas ty, kdo lzive mluvi. Kdo proleva krev a jedna lstive,
+        toho ma Hospodin v ohavnosti.
+      spanish: Das a la perdición al mentiroso; al sanguinario, al fraudulento, los
+        abomina Dios.
+      mandelshtam: Ты погубишь говорящих ложь; человека кровожаднаго и коварнаго
+        гнушается Господь.
+      zertis-kamenskiy: "Погубиши глаголющия лжу: мужа кровей и льстива гнушается Бог."
+      pakazkiy: "От вздохов я истаеваю,\rОмыю ложе кажду ночь,\rПостель слезами
+        обливаю И сон от глаз отходит прочь."
+      greek-lxx: ἀπολεῖς πάντας τοὺς λαλοῦντας τὸ ψεῦδος ἄνδρα αἱμάτων καὶ δόλιον
+        βδελύσσεται Κύριος
+      st_text: Ты погубишь говорящих ложь; кровожадного и коварного гнушается Господь.
+  - id: 31852
+    number: 8
+    bookId: 22
+    text: А я, по множеству милости Твоей, войду в дом Твой, поклонюсь святому храму
+      Твоему в страхе Твоем.
+    chapter: 5
+    chapterId: 523
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Аз же множеством милости твоея вниду в дом твой, поклонюся ко храму
+        святому твоему, в страсе твоем.
+      averincev: ""
+      ungerov: А я, по множеству милости Твоей, войду в дом Твой, поклонюсь храму
+        святому Твоему в страхе Твоем.
+      csya_old: Ѓзъ же мно1жествомъ млcти твоеS вни1ду въ до1мъ тво1й, поклоню1сz ко
+        хрaму с™о1му твоемY, въ стрaсэ твое1мъ.
+      sovr_rbo: А я в Твой дом войду, по милости Твоей, и в Твоем Храме трепеща паду ниц.
+      latin: Ego autem in multitudine misericordiae tuae introibo in domum tuam;
+        adorabo ad templum sanctum tuum in timore tuo.
+      ukr: А я в ласці великій Твоїй до дому Твого ввійду, до Храму святого Твого
+        вклонюся в страху Твоїм.
+      nkjv: But as for me, I will come into Your house in the multitude of Your mercy;
+        In fear of You I will worship toward Your holy temple.
+      desnitsky: ""
+      mt: ‫    וַאֲנִי בְּרֹב חַסְדְּךָ אָבוֹא בֵיתֶךָ אֶשְׁתַּחֲוֶה
+        אֶל־הֵיכַל־קָדְשְׁךָ בְּיִרְאָתֶךָ׃ ‬
+      romana: Doamne, povatuieste-ma intru dreptatea Ta din pricina dusmanilor mei!
+        Indrepteaza inaintea mea calea Ta.
+      italian: Ma io per la tua grande misericordia entrerò nella tua casa; mi
+        prostrerò con timore nel tuo santo tempio.
+      old_georgian: ხოლო მე მრავლითა მოწყალებითა შენითა შევიდე სახლსა შენსა,
+        თაყუანის-ვსცე ტაძარსა წმიდასა შენსა შიშითა შენითა.
+      portuguese: Guia-me, Senhor, na tua justiça, por causa dos meus inimigos; aplana
+        diante de mim o teu caminho.
+      polish: Ja zaś dzięki obfitej Twej łasce, wejdę do Twojego domu, upadnę przed
+        świętym przybytkiem Twoim przejęty Twoją bojaźnią.
+      nrt: Но я, по великой милости Твоей, войду в дом Твой, поклонюсь в святом храме
+        Твоем в страхе перед Тобой.
+      Macarius: А я, по великой милости Твоей, вхожу в дом Твой, поклоняюсь во святом
+        храме Твоем с благоговением к Тебе.
+      bulgarian: Аз пък, по Твоята велика милост, ще вляза в Твоя дом и ще се поклоня
+        в светия Твой храм със страх пред Тебе.
+      pavskiy: А я, по великой милости Твоей, вхожу в дом Твой, покланяюсь во святом
+        храме Твоем с благоговениемь к Тебе.
+      deutsch: "[9 Herr, leite mich in deiner Gerechtigkeit um meiner Feinde willen;
+        richte deinen Weg vor mir her."
+      ukr2: Я ж, з превеликої ласки твоєї, увійду в дім твій і поклонюся до святого
+        храму твого в страсі перед тобою.
+      ukr3: Веди мене, Господи, правдою твоєю задля ворогів моїх; рівняй передо мною
+        дорогу твою.
+      bel_syomukha: А я, зь вялікай ласкі Тваёй, увайду ў харомы Твае, пакланюся храму
+        сьвятому твайму богабаязна.
+      sergievsky: А я, по великой милости Твоей, войду в дом Твой, поклонюсь во святом
+        храме Твоем, в страхе Твоем.
+      lev-khv: А я, по великой милости Твоей, вхожу в дом Твой, покланяюсь в святом
+        храме Твоем с благоговением к Тебе.
+      czech: Ja vsak pro tve hojne milosrdenstvi smim prichazet do tveho domu, smim se
+        klanet pred tvym svatym chramem ve tve bazni.
+      spanish: Mas yo, fiado en la muchedumbre de tu piedad, entro en tu morada y me
+        prosterno ante tu santo templo, en tu temor.
+      mandelshtam: А я, по великой милости Твоей, войду в дом Твой, поклонюсь во
+        святом храме Твоем, в страхе Твоем.
+      zertis-kamenskiy: "Аз же множеством милости Твоея вниду в дом твой: поклонюся во
+        храме святем Твоем, в страсе твоем."
+      pakazkiy: "Любезно око помрачилось\rОт непрестанных едких слез; От боев тело
+        удручилось,\rДух мужества во мне исчез."
+      greek-lxx: ἐγὼ δὲ ἐν τῷ πλήθει τοῦ ἐλέους σου εἰσελεύσομαι εἰς τὸν οἶκόν σου
+        προσκυνήσω πρὸς ναὸν ἅγιόν σου ἐν φόβῳ σου
+      st_text: А я, по множеству милости Твоей, войду в дом Твой, поклонюсь святому
+        храму Твоему в страхе Твоем.
+  - id: 31853
+    number: 9
+    bookId: 22
+    text: Господи! путеводи меня в правде Твоей, ради врагов моих; уровняй предо
+      мною путь Твой.
+    chapter: 5
+    chapterId: 523
+    parallels:
+      - verseId: 33043
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 3
+        short: Рим:3:13
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Господи, настави мя правдою твоею, враг моих ради исправи пред тобою путь
+        мой.
+      averincev: ""
+      ungerov: Господи! Наставь меня правдою Твоею, врагов моих ради исправь пред
+        Тобою путь мой.
+      csya_old: ГDи, настaви мS прaвдою твое1ю, вр†гъ мои1хъ рaди и3спрaви пред8
+        тобо1ю пyть мо1й.
+      sovr_rbo: Господи! Веди меня дорогой правды Твоей! Сделай путь мой прямым,
+        наперекор врагам.
+      latin: "Domine, deduc me in justitia tua: propter inimicos meos dirige in
+        conspectu tuo viam meam."
+      ukr: Провадь мене, Господи, в правді Своїй задля моїх ворогів, і вирівняй передо
+        мною дорогу Свою,
+      nkjv: Lead me, O Lord, in Your righteousness because of my enemies; Make Your
+        way straight before my face.
+      desnitsky: ""
+      mt: ‫    יְהוָה נְחֵנִי בְצִדְקָתֶךָ לְמַעַן שׁוֹרְרָי *הושר **הַיְשַׁר לְפָנַי
+        דַּרְכֶּךָ׃ ‬
+      romana: Ca nu este in gura lor adevar, inima lor este desarta; groapa deschisa
+        grumazul lor, cu limbile lor viclenesc.
+      italian: Signore, guidami con giustizia di fronte ai miei nemici; spianami
+        davanti il tuo cammino.
+      old_georgian: უფალო, მიძეღუ მე სიმართლითა შენითა და მტერთა ჩემთათჳს წარმართე შენ
+        წინაშე გზაჲ ჩემი.
+      portuguese: "Porque não há fidelidade na boca deles; as suas entranhas são
+        verdadeiras maldades, a sua garganta é um\rsepulcro aberto; lisonjeiam
+        com a sua língua."
+      polish: "O Panie, prowadź mnie w swej sprawiedliwości, na przekór mym
+        wrogom:\rwyrównaj przede mną Twoją drogę!"
+      nrt: Веди меня, Господи, в праведности Твоей из-за моих врагов; путь Твой передо
+        мной сделай прямым.
+      Macarius: Господи! руководствуй меня в правде Твоей; вопреки врагам моим,
+        уровняй предо мною путь Твой.
+      bulgarian: "Господи, упътвай ме в Твоята правда, заради моите врагове: изравняй
+        Твоя път пред мене."
+      pavskiy: Господи! руководствуй меня в правде Твоей; вопреки врагам моим, уровняй
+        предо мною путь Твой.
+      deutsch: "[10 Denn in ihrem Munde ist nichts Gewisses; ihr Inwendiges ist
+        Herzeleid. Ihr Rachen ist ein offenes Grab; denn mit ihren Zungen
+        heucheln sie."
+      ukr2: О Господи, веди мене твоєю правдою - з уваги на ворогів моїх; вирівняй
+        твою путь передо мною.
+      ukr3: Бо нема правди в устах їх; серце їх пропасть, пелька в них роззявлений
+        гріб; язики їх льстиві.
+      bel_syomukha: Госпадзе! вядзі мяне па дарозе ў праўдзе Тваёй, на супастатаў
+        маіх; спрастуй перада мною дарогу Тваю.
+      sergievsky: Господь! Руководи мною в правде Твоей, вопреки врагам моим; уравняй
+        предо мною путь Твой,
+      lev-khv: Господи! води меня в правде Твоей; вопреки врагам моим, уровняй предо
+        мною путь Твой;
+      czech: Hospodine, ve sve spravedlnosti me ved navzdory tem, kdo proti mne soci,
+        svou cestu prede mnou ucin primou.
+      spanish: Guíame, ¡oh Yavé! en tu justicia, a causa de mis enemigos, y allana tus
+        caminos ante mí.
+      mandelshtam: Господь! Руководи мною в правде Твоей, вопреки врагам моим; уравняй
+        предо мною путь Твой,
+      zertis-kamenskiy: "Боже настави мя правдою Твоею враг моих ради: управи предо
+        мною путь мой."
+      pakazkiy: "Прочь от меня все удалитесь Зловредные льстецы мои!\rЧто словом или
+        делом тщитесь Соблазны сообщать свои."
+      greek-lxx: Κύριε ὁδήγησόν με ἐν τῇ δικαιοσύνῃ σου ἕνεκα τῶν ἐχθρῶν μου
+        κατεύθυνον ἐνώπιόν μου τὴν ὁδόν σου
+      st_text: Господи! путеводи меня в правде Твоей, ради врагов моих; уровняй предо
+        мною путь Твой.
+  - id: 31854
+    number: 10
+    bookId: 22
+    text: "Ибо нет в устах их истины: сердце их - пагуба, гортань их - открытый
+      гроб, языком своим льстят."
+    chapter: 5
+    chapterId: 523
+    parallels:
+      - verseId: 31049
+        bookId: 22
+        bookCode: psaltir
+        chapter: 139
+        short: Пс:139:4
+      - verseId: 33043
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 3
+        short: Рим:3:13
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Яко несть во устех их истины, сердце их суетно, гроб отверст гортань их,
+        языки своими льщаху.
+      averincev: ""
+      ungerov: Ибо нет в устах их истины, сердце их суетно, гортань их - открытый
+        гроб, языком своим они льстили.
+      csya_old: Ћкw нёсть во ўстёхъ и4хъ и4стины, се1рдце и4хъ сyетно, гро1бъ tве1рстъ
+        гортaнь и4хъ, љзы6ки свои1ми льщaху.
+      sovr_rbo: В их словах правды нет, в их сердцах — смерть, рот — раскрытый склеп,
+        язык лжив.
+      latin: Quoniam non est in ore eorum veritas; cor eorum vanum est.
+      ukr: бо в їхніх устах нема правди, нутро їхнє приносить нещастя, гріб відкритий
+        їхнє горло, свій язик вони роблять гладеньким!
+      nkjv: For there is no faithfulness in their mouth; Their inward part is
+        destruction; Their throat is an open tomb; They flatter with their
+        tongue.
+      desnitsky: ""
+      mt: ‫    כִּי אֵין בְּפִיהוּ נְכוֹנָה קִרְבָּם הַוּוֹת קֶבֶר־פָּתוּחַ גְּרוֹנָם
+        לְשׁוֹנָם יַחֲלִיקוּן׃ ‬
+      romana: Judeca-i pe ei, Dumnezeule; sa cada din sfaturile lor; dupa multimea
+        nelegiuirilor lor, alunga-i pe ei, ca Te-au amarat, Doamne,
+      italian: Non c'è sincerità sulla loro bocca, è	pieno di perfidia il loro cuore;
+        la loro gola è un sepolcro aperto, la loro lingua è tutta adulazione.
+      old_georgian: რამეთუ არა არს პირსა მათსა ჭეშმარიტებაჲ, გული მათი ამაო,
+      portuguese: "Declara-os culpados, ó Deus; que caiam por seus próprios conselhos;
+        lança-os fora por causa da multidão de\rsuas transgressões, pois se
+        revoltaram contra ti."
+      polish: "Bo w ustach ich nie ma szczerości, ich serce knuje zasadzki, ich gardło
+        jest\rgrobem otwartym, a językiem mówią pochlebstwa."
+      nrt: Ведь ни слову из уст их верить нельзя, сердце их исполнено пагубы. Гортань
+        их – открытая могила, языком своим они льстят.
+      Macarius: Ибо нет в устах их истины; внутри их разврат; гортань их — открытый
+        гроб; на языке их — ласкательства.
+      bulgarian: Защото в устата им няма истина; сърцето им е пагуба, гърлото им -
+        отворен гроб, с езика си лъстят.
+      pavskiy: Ибо нет в устах их истины; внутри их разврат; гортань их открытый гроб;
+        на языке их ласкательство.
+      deutsch: "[11 Sprich sie schuldig, Gott, daß sie fallen von ihrem Vornehmen.
+        Stoße sie aus um ihrer großen Übertretungen willen; denn sie sind
+        widerspenstig."
+      ukr2: Бо в їхніх устах немає постійности, серце в них - пропасть; пелька їхня -
+        гріб відкритий, облесний - язик їхній.
+      ukr3: Суди їх, Боже; нехай вони пропадуть у зрадливих зад"&gt;10мах своїх;
+        відкинь їх задля множества переступів їх, бо вони встали проти тебе.
+      bel_syomukha: "Бо ў іх вуснах праўды няма: сэрца іхняе - згубнасьць, горла іхняе
+        - дамавіна адчыненая, лісьлівяць яны языком сваім."
+      sergievsky: Ибо нет в устах их истины; внутри их — пагуба; открытый гроб —
+        гортань тех, коих язык так лоскателен!
+      lev-khv: Потому что нет в устах их истины; внутри их разврат; открытый гроб
+        гортань их; языком своим они ласкательствуют.
+      czech: Vzdyt na jejich usta neni spolehnuti, jejich nitro je zdroj zhouby,
+        jejich hrdlo je hrob otevreny, na jazyku same ulisnosti.
+      spanish: Pues no hay en su boca sinceridad; su interior no es más que malicia;
+        un sepulcro abierto es su garganta, halagan con sus lenguas.
+      mandelshtam: Ибо нет в устах их истины; внутри их — пагуба; открытый гроб —
+        гортань тех, коих язык так лоскателен!
+      zertis-kamenskiy: "Яко несть во устех их твердости, утроба их суеты: гроб
+        отверст гортань их: языки своими льстят."
+      pakazkiy: "Господь, храняй завет предвечный, Глас плача моего внушил,\rГосподь
+        приял мой вопль сердечный, Господь мне совесть разрешил."
+      greek-lxx: ὅτι οὐκ ἔστιν ἐν τῷ στόματι αὐτῶν ἀλήθεια ἡ καρδία αὐτῶν ματαία τάφος
+        ἀνεῳγμένος ὁ λάρυγξ αὐτῶν ταῖς γλώσσαις αὐτῶν ἐδολιοῦσαν
+      st_text: "Ибо нет в устах их истины: сердце их - пагуба, гортань их - открытый
+        гроб, языком своим льстят."
+  - id: 31855
+    number: 11
+    bookId: 22
+    text: Осуди их, Боже, да падут они от замыслов своих; по множеству нечестия их,
+      отвергни их, ибо они возмутились против Тебя.
+    chapter: 5
+    chapterId: 523
+    parallels:
+      - verseId: 27771
+        bookId: 16
+        bookCode: kniga-neemii
+        chapter: 4
+        short: Неем:4:5
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Суди им, Боже, да отпадут от мыслей своих: по множеству нечестия их
+        изрини я, яко преогорчиша тя, Господи."
+      averincev: ""
+      ungerov: Суди их, Боже! Да отстанут от замыслов своих; за множество нечестия их
+        низринь их, ибо они огорчили Тебя, Господи.
+      csya_old: "Суди2 и5мъ, б9е, да tпадyтъ t мы1слей свои1хъ: по мно1жеству
+        нече1стіz и4хъ и3зри1ни |, ћкw преwгорчи1ша тS, гDи."
+      sovr_rbo: Покарай их, Боже! Пусть их козни погубят их. Прогони их, грешников!
+        Ведь они отвергли Тебя!
+      latin: Sepulchrum patens est guttur eorum; linguis suis dolose agebant, judica
+        illos, Deus. Decidant a cogitationibus suis; secundum multitudinem
+        impietatum eorum expelle eos, quoniam irritaverunt te, Domine.
+      ukr: Признай їх за винних, о Боже, через свої заміри хай упадуть, за їхні великі
+        злочинства відкинь їх від Себе, бо вони проти Тебе бунтують!
+      nkjv: Pronounce them guilty, O God! Let them fall by their own counsels; Cast
+        them out in the multitude of their transgressions, For they have
+        rebelled against You.
+      desnitsky: ""
+      mt: ‫    הַאֲשִׁימֵם אֱלֹהִים יִפְּלוּ מִמֹּעֲצוֹתֵיהֶם בְּרֹב פִּשְׁעֵיהֶם
+        הַדִּיחֵמוֹ כִּי־מָרוּ בָךְ׃ ‬
+      romana: si sa se veseleasca toti cei ce nadajduiesc intru Tine; in veac se vor
+        bucura si le vei fi lor salas si se vor lauda cu Tine toti cei ce iubesc
+        numele Tau.
+      italian: Condannali, o Dio, soccombano alle loro trame, per tanti loro delitti
+        disperdili, perché a te si sono ribellati.
+      old_georgian: სამარე ზეაღებულ არს ჴორჴი მათი, ენითა მათითა ზაკვიდეს. საჯენ
+        იგინი, ღმერთო; დაეცნედ იგინი ზრახვათა მათთაგან; სიმრავლისაებრ
+        უღმრთოებათა მათთასა განიშორენ იგინი, რამეთუ გაგამწარეს შენ, უფალო.
+      portuguese: "Mas alegrem-se todos os que confiam em ti; exultem eternamente,
+        porquanto tu os defendes; sim, gloriem-se em\rti os que amam o teu
+        nome."
+      polish: Ukarz ich, Boże, niech staną się ofiarą własnych knowań; wygnaj ich z
+        powodu licznych ich zbrodni, buntują się bowiem przeciwko Tobie.
+      nrt: Осуди их, Боже! Пусть падут из-за козней своих. Из-за многих грехов их
+        отвергни их, ведь они против Тебя восстали.
+      Macarius: Боже! не дай им успеха, да разрушатся их умыслы. За множество
+        преступлений их низложи их, ибо они возмутились против Тебя.
+      bulgarian: Осъди ги, Боже, да не сполучат в своите кроежи; отхвърли ги, поради
+        голямото им нечестие, защото се дигнаха против Тебе.
+      pavskiy: Боже! не дай им успеха, да разрушатся их умыслы. За множество
+        преступлений их низложи их, ибо они возмутились против Тебя.
+      deutsch: "[12 Laß sich freuen alle, die auf dich trauen; ewiglich laß sie
+        rühmen, denn du beschirmst sie; fröhlich laß sein in dir, die deinen
+        Namen lieben."
+      ukr2: "Скарай їх, Боже: нехай від власних замислів згинуть, за їхніх переступів
+        силу прожени їх, бо ворохоблять проти тебе."
+      ukr3: І звеселяться всї, що вповають на тебе; вічно будуть радуватись, і ти
+        будеш заступати їх; і будуть прославляти тебе люблячі імя твоє.
+      bel_syomukha: Асудзі іх, Божа! Няхай прападуць ад намыслаў сваіх; за
+        ліхадзействы вялікія адкінь іх, бо яны ўзбунтаваліся на Цябе.
+      sergievsky: Бог! Обличи их! Да падут они чрез собственные умыслы свои! За
+        множество преступлений их низвергни их, ибо против Тебя они возмутились!
+      lev-khv: Обличи их, Боже! падут они чрез умыслы свои. За множество преступлений
+        их низложи их, потому что они возмутились против Тебя.
+      czech: Odhal jejich vinu, Boze, at doplati na sve plany, zavrhni je pro tak
+        cetne jejich nevernosti, vzdyt vzdoruji tobe!
+      spanish: Condénalos, ¡oh Yavé! que fracasen en sus maquinaciones. Por sus muchos
+        crímenes recházalos, ya que se rebelan contra ti.
+      mandelshtam: Бог! Обличи их! Да падут они чрез собственные умыслы свои! За
+        множество преступлений их низвергни их, ибо против Тебя они возмутились!
+      zertis-kamenskiy: "Накажи их Боже, да отпадут от мыслей своих: по множеству
+        нечестия их разжения: яко сопротивишася Тебе."
+      pakazkiy: "Толико видя превращенье Враждебники души моей,\rДа придут в стыд и
+        возмущенье, Судя об участи своей;\rИ в теж места да возвратятся, Откуду
+        износили яд;\rЗлодейств своих да устыдятся Скорее, чем пожрет их ад."
+      greek-lxx: κρῖνον αὐτούς ὁ Θεός ἀποπεσάτωσαν ἀπὸ τῶν διαβουλίων αὐτῶν κατὰ τὸ
+        πλῆθος τῶν ἀσεβειῶν αὐτῶν ἔξωσον αὐτούς ὅτι παρεπίκρανάν σε Κύριε
+      st_text: Осуди их, Боже, да падут они от замыслов своих; по множеству нечестия
+        их, отвергни их, ибо они возмутились против Тебя.
+  - id: 31856
+    number: 12
+    bookId: 22
+    text: И возрадуются все уповающие на Тебя, вечно будут ликовать, и Ты будешь
+      покровительствовать им; и будут хвалиться Тобою любящие имя Твое.
+    chapter: 5
+    chapterId: 523
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И да возвеселятся вси уповающии на тя, во век возрадуются, и вселишися в
+        них: и похвалятся о тебе любящии имя твое."
+      averincev: ""
+      ungerov: И да возвеселятся все уповающие на Тебя, во век возрадуются, и
+        вселишься в них, и похвалятся Тобою любящие имя Твое.
+      csya_old: "И# да возвеселsтсz вси2 ўповaющіи на тS, во вёкъ возрaдуютсz, и3
+        всели1шисz въ ни1хъ: и3 похвaлzтсz њ тебЁ лю1бzщіи и4мz твое2."
+      sovr_rbo: Пусть ликуют все, кому Ты защита, пусть вечно радуются, что Ты —
+        заступник их! Ты — веселье для любящих имя Твое.
+      latin: Et laetentur omnes qui sperant in te; in aeternum exsultabunt, et
+        habitabis in eis. Et gloriabuntur in te omnes qui diligunt nomen tuum,
+      ukr: А всі, хто надію на Тебе складають, хай тішаться, будуть вічно співати
+        вони, і Ти їх охорониш, і будуть радіти Тобою, хто любить Ім'я Твоє!
+      nkjv: But let all those rejoice who put their trust in You; Let them ever shout
+        for joy, because You defend them; Let those also who love Your name Be
+        joyful in You.
+      desnitsky: ""
+      mt: ‫    וְיִשְׂמְחוּ כָל־חוֹסֵי בָךְ לְעוֹלָם יְרַנֵּנוּ וְתָסֵךְ עָלֵימוֹ
+        וְיַעְלְצוּ בְךָ אֹהֲבֵי שְׁמֶךָ׃ ‬
+      romana: Ca Tu vei binecuvanta pe cel drept, Doamne, caci cu arma bunei voiri
+        ne-ai incununat pe noi.
+      italian: Gioiscano quanti in te si rifugiano, esultino senza fine. Tu li
+        proteggi e in te si allieteranno quanti amano il tuo nome.
+      old_georgian: და იშუებდენ ყოველნი, რომელნი გესვენ შენ, უკუნისამდე იხარებდენ და
+        დაიმკჳდრო მათ შორის. და იქადოდიან შენდამი, რომელთა უყუარს სახელი შენი.
+      portuguese: Pois tu, Senhor, abençoas o justo; tu o circundas do teu favor como
+        de um escudo.
+      polish: "A wszyscy, którzy się do Ciebie uciekają, niech się cieszą, niech się
+        weselą na\rzawsze! Osłaniaj ich, niech cieszą się Tobą, ci, którzy imię
+        Twe miłują."
+      nrt: Но пусть возрадуются все, кто в Тебе ищет прибежища; пусть вечно поют от
+        радости. Окажи им Свое покровительство, чтобы возрадовались в Тебе
+        любящие Твое Имя.
+      Macarius: И возрадуются все, уповающие на Тебя, вечно будут ликовать
+        покровительствуемые Тобою, торжествовать будут любящие имя Твое.
+      bulgarian: И ще се възрадват всички, които се на Тебе уповават, ще ликуват
+        вечно, и Ти ще ги закриляш; и ще се хвалят с Тебе ония, които обичат
+        Твоето име.
+      pavskiy: И возрадуются все уповающие на Тебя, вечно будут ликовать
+        покровительствуемые Тобою, торжествовать будут любящие имя Твое.
+      deutsch: "[13 Denn du, Herr, segnest die Gerechten; du krönest sie mit Gnade wie
+        mit einem Schild."
+      ukr2: І всі ті, що до тебе прибігають, будуть радіти; вони повіки весело
+        гукатимуть. Захисти їх, і нехай тобою веселяться тії, що люблять твоє
+        ім'я.
+      ukr3: Бо ти благословляєш праведника, Господи, і благоволеннєм, як щитом,
+        покриваєш його.
+      bel_syomukha: А ўсе, хто на Цябе спадзяецца, будуць радавацца вечна; і Ты будзеш
+        іх асланяць; і будуць хваліцца Табою тыя, хто любіць імя Тваё.
+      sergievsky: А все уповающие на Тебя да возрадуются, — вечно да ликуют!
+        Покровительствуй им, и да восторжествуют Тобою любящие имя Твое!
+      lev-khv: И возрадуются все уповающие на Тебя; они вечно будут ликовать, а Ты
+        будешь покровительствовать им; и будут торжествовать любящие имя Твое;
+      czech: At se zaraduji vsichni, kdo se k tobe utikaji; vecne budou plesat, kdyz
+        je budes chranit, jasotem te budou oslavovat ti, kdo miluji tve jmeno.
+      spanish: Y se alegrarán cuantos en ti confían, exultarán por siempre. Tú los
+        protegerás y en ti jubilarán los que aman tu nombre.
+      mandelshtam: А все уповающие на Тебя да возрадуются, — вечно да ликуют!
+        Покровительствуй им, и да восторжествуют Тобою любящие имя Твое!
+      zertis-kamenskiy: И да возвеселятся вси уповающие на Тя, в век да возрадуются,
+        [егда] покрыеши их; да возыграются о Тебе любящии имя Твое.
+      pakazkiy: "Да правии возвеселятся,\rЧто уповают на Тебя;\rКак в радость вечную
+        вселятся, Печали кратки истребя,\rКак сам имеет в них вселиться И будет
+        всяческая им,\rКак будут все они хвалиться Священным именем Твоим:"
+      greek-lxx: καὶ εὐφρανθήτωσαν πάντες οἱ ἐλπίζοντες ἐπὶ σέ εἰς αἰῶνα ἀγαλλιάσονται
+        καὶ κατασκηνώσεις ἐν αὐτοῖς καὶ καυχήσονται ἐν σοὶ πάντες οἱ ἀγαπῶντες
+        τὸ ὄνομά σου
+      st_text: И возрадуются все уповающие на Тебя, вечно будут ликовать, и Ты будешь
+        покровительствовать им; и будут хвалиться Тобою любящие имя Твое.
+  - id: 31857
+    number: 13
+    bookId: 22
+    text: Ибо Ты благословляешь праведника, Господи; благоволением, как щитом,
+      венчаешь его.
+    chapter: 5
+    chapterId: 523
+    parallels:
+      - verseId: 30313
+        bookId: 22
+        bookCode: psaltir
+        chapter: 102
+        short: Пс:102:5
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Яко ты благословиши праведника, Господи, яко оружием благоволения венчал
+        еси нас.
+      averincev: ""
+      ungerov: "Ибо Ты благословишь праведника, Господи: как оружием, благоволением
+        оградил Ты нас."
+      csya_old: Ћкw ты2 блгcви1ши првdника, гDи, ћкw nрyжіемъ бlговоле1ніz вэнчaлъ
+        є3си2 нaсъ.
+      sovr_rbo: Праведника Ты благословишь, Господь, оградишь его милостью Своей как
+        щитом.
+      latin: quoniam tu benedices justo. Domine, ut scuto bonae voluntatis tuae
+        coronasti nos.
+      ukr: Бо Ти, Господи, благословлятимеш праведного, милістю вкриєш його, як щитом!
+      nkjv: For You, O Lord, will bless the righteous; With favor You will surround
+        him as with a shield.
+      desnitsky: ""
+      mt: ‫    כִּי־אַתָּה תְּבָרֵךְ צַדִּיק יְהוָה כַּצִּנָּה רָצוֹן תַּעְטְרֶנּוּ׃ ‬
+      italian: "Signore, tu benedici il giusto: come scudo lo copre la tua benevolenza."
+      old_georgian: რამეთუ შენ აკურთხო მართალი, უფალო, ვითარცა ჭურითა სათნოებისათა
+        გჳრგჳნოსან-მყვენ ჩუენ.
+      polish: "Bo Ty, Panie, będziesz błogosławił sprawiedliwemu: otoczysz go łaską
+        jak\rtarczą."
+      nrt: Ведь Ты благословляешь праведника, Господи, как щитом, окружаешь его
+        благосклонностью.
+      Macarius: Ибо Ты, Господи, благословляешь праведника, Ты, как щитом, ограждаешь
+        его благоволением Твоим.
+      bulgarian: Защото Ти, Господи, благославяш праведника и с благоволение, като с
+        щит, го закриляш.
+      pavskiy: Ибо Ты, Господи, благословляешь праведника, Ты, как щитом, ограждаешь
+        его благоволением Твоим.
+      ukr2: Ти бо, о Господи, благословиш праведника і ласкою його оточуєш, немов
+        щитом.
+      bel_syomukha: Дабраслаўляеш Ты, Госпадзе, праведніка; упадабаньнем, нібы шчытом,
+        ахінаеш яго.
+      lev-khv: Потому что Ты, Господи, благословляешь праведника; Ты, как щитом,
+        ограждаешь его благоволением <i>Твоим</i>.
+      czech: Spravedlivemu, Hospodine, zehnas, jako pavezou ho obklopujes prizni.
+      spanish: Pues al justo, ¡oh Yavé! tú le bendices y le rodeas de tu benevolencia
+        como un escudo.
+      zertis-kamenskiy: "Яко Ты благословиши праведника Боже: яко оружием благоволения
+        увенчаеши его."
+      pakazkiy: "Что тако правых отличает, Благословляя жребий их;\rНас благости щитом
+        венчает В чертогах. Господи, Твоих. \rПсалом 6"
+      greek-lxx: ὅτι σὺ εὐλογήσεις δίκαιον Κύριε ὡς ὅπλῳ εὐδοκίας ἐστεφάνωσας ἡμᾶς
+      st_text: Ибо Ты благословляешь праведника, Господи; благоволением, как щитом,
+        венчаешь его.

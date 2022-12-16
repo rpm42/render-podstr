@@ -1,0 +1,524 @@
+id: 615
+number: 97
+bookId: 22
+verseCount: 9
+title: Глава 97
+verses:
+  - id: 32769
+    number: 1
+    bookId: 22
+    text: Псалом [Давида]. Воспойте Господу новую песнь, ибо Он сотворил чудеса. Его
+      десница и святая мышца Его доставили Ему победу.
+    chapter: 97
+    chapterId: 615
+    parallels:
+      - verseId: 21103
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 63
+        short: Ис:63:5
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Псалом Давиду. Воспойте Господеви песнь нову, яко дивна сотвори Господь:
+        спасе его десница его и мышца святая его."
+      averincev: ""
+      ungerov: "Псалом Давида. Воспойте Господу новую песнь, ибо дивное сотворил
+        Господь: спасла его десница Его и святая мышца Его."
+      csya_old: "Pало1мъ дв7ду, Воспо1йте гDеви пёснь но1ву, ћкw ди6вна сотвори2 гDь:
+        сп7се2 є3го2 десни1ца є3гw2 и3 мы1шца с™az є3гw2."
+      sovr_rbo: Псалом Воспойте Господу новую песнь, ибо Он сотворил чудеса. Его
+        десница и святая мышца Его доставили Ему победу.
+      latin: Psalmus ipsi David. Cantate Domino canticum novum, quia mirabilia fecit.
+        Salvavit sibi dextera ejus, et brachium sanctum ejus.
+      ukr: Співайте для Господа пісню нову, бо Він чуда вчинив! Йому помогла правиця
+        Його та святе рамено Його.
+      nkjv: A Psalm. Oh, sing to the Lord a new song! For He has done marvelous
+        things; His right hand and His holy arm have gained Him the victory.
+      desnitsky: ""
+      mt: ‫   מִזְמוֹר שִׁירוּ לַיהוָה שִׁיר חָדָשׁ כִּי־נִפְלָאוֹת עָשָׂה
+        הוֹשִׁיעָה־לּוֹ יְמִינוֹ וּזְרוֹעַ קָדְשׁוֹ׃ ‬
+      romana: Al lui David. Cantati Domnului cantare noua, ca lucruri minunate a facut
+        Domnul.
+      italian: Salmo. Cantate al Signore un canto nuovo, perché ha compiuto prodigi.
+        Gli ha dato vittoria la sua destra e il suo braccio santo.
+      old_georgian: უგალობდით უფალსა გალობითა ახლითა, რამეთუ საკჳრველ-ქმნა უფალმან;
+        აცხოვნა იგი მარჯუენემან მისმან და მკლავმან წმიდამან მისმან.
+      portuguese: "Cantai ao Senhor um cântico novo, porque ele tem feito maravilhas;
+        a sua destra e o seu braço santo lhe\ralcançaram a vitória."
+      polish: "Psalm. Śpiewajcie Panu pieśń nową, albowiem cuda uczynił.
+        Zwycięstwo\rzgotowała Mu Jego prawica i święte ramię Jego."
+      nrt: Псалом. Воспойте Господу новую песню, так как Он сотворил чудеса; Его
+        правая рука, Его святая рука, принесла Ему победу.
+      Macarius: Псалом [Давидов]. Пойте Господу новую песнь; ибо чудеса сотворил Он.
+        Спасла Его десница Его и святая мышца Его.
+      bulgarian: Псалом (Давидов). Възпейте Господу песен нова, защото Той чудеса
+        извърши. Неговата десница и Неговата света мишца Му доставиха победа.
+      deutsch: Ein Psalm. Singet dem Herrn ein neues Lied; denn er tut Wunder. Er
+        siegt mit seiner Rechten und mit seinem heiligen Arm.
+      ukr2: Псалом. Співайте Господеві нову пісню, бо він учинив чуда. Його правиця і
+        його святе рамено дали йому перемогу.
+      ukr3: З асьпівайте Господеві пісню нову! Він бо сотворив чудеса; правиця його і
+        сьвяте рамя його дали побіду йому.
+      bel_syomukha: Псальма Давідава. Засьпявайце Госпаду новую песьню; бо Ён дзівосы
+        стварыў. Ягоная правіца і сьвятая мышца Ягоная прынесьлі Яму перамогу.
+      gorsky-platonov: Пойте Иегове песнь новую; ибо чудеса сотворил Он. Спасла Его
+        десница Его и святая мышца Его.
+      czech: Zalm. Zpivejte Hospodinu pisen novou, nebot ucinil podivuhodne veci,
+        zvitezil svou pravici, svou svatou pazi!
+      spanish: Salmo. Cantad a Yavé un cántico nuevo, porque Él ha hecho maravillas;
+        han vencido su diestra y su santo brazo.
+      zertis-kamenskiy: "Воспойте Богу песнь нову, яко дивна сотвори: спасе Его
+        десница Его и мышца святая Его."
+      pakazkiy: "Воспойте Господу песнь нову. Творящему в нас чудеса,\rКотораго
+        послушны слову Стихии все и небеса!\rКоторой силою десницы Надменны выи
+        сокрушил;\rИ крепостью святыя мышцы\rСпасенье наше совершил;"
+      greek-lxx: ψαλμὸς τῷ Δαυιδ ᾄσατε τῷ Κυρίῳ ᾆσμα καινόν ὅτι θαυμαστὰ ἐποίησεν
+        Κύριος ἔσωσεν αὐτῷ ἡ δεξιὰ αὐτοῦ καὶ ὁ βραχίων ὁ ἅγιος αὐτοῦ
+      st_text: Псалом [Давида]. Воспойте Господу новую песнь, ибо Он сотворил чудеса.
+        Его десница и святая мышца Его доставили Ему победу.
+  - id: 32770
+    number: 2
+    bookId: 22
+    text: Явил Господь спасение Свое, открыл пред очами народов правду Свою.
+    chapter: 97
+    chapterId: 615
+    parallels:
+      - verseId: 20925
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 52
+        short: Ис:52:10
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Сказа Господь спасение свое, пред языки откры правду свою.
+      averincev: ""
+      ungerov: Явил Господь спасение Свое, пред народами открыл правду Свою.
+      csya_old: СказA гDь спcніе свое2, пред8 kзы6ки tкры2 прaвду свою2.
+      sovr_rbo: Явил Господь спасение Свое, открыл пред очами народов правду Свою.
+      latin: Notum fecit Dominus salutare suum; in conspectu gentium revelavit
+        justitiam suam.
+      ukr: Спасіння Своє Господь виявив, перед очима народів відкрив Свою правду.
+      nkjv: The Lord has made known His salvation; His righteousness He has revealed
+        in the sight of the nations.
+      desnitsky: ""
+      mt: ‫   הוֹדִיעַ יְהוָה יְשׁוּעָתוֹ לְעֵינֵי הַגּוֹיִם גִּלָּה צִדְקָתוֹ׃ ‬
+      romana: Mantuitu-l-a pe el dreapta Lui si bratul cel sfant al Lui.
+      italian: Il Signore ha manifestato la sua salvezza, agli occhi dei popoli ha
+        rivelato la sua giustizia.
+      old_georgian: აჩუენა უფალმან მაცხოვარებაჲ თჳსი, წინაშე თესლთა განაცხადა სიმართლე მისი.
+      portuguese: O Senhor fez notória a sua salvação, manifestou a sua justiça
+        perante os olhos das nações.
+      polish: "Pan okazał swoje zbawienie: na oczach narodów objawił swą
+        sprawiedliwość."
+      nrt: Господь явил Свое спасение, Свою праведность показал народам.
+      Macarius: Явил Господь спасение Свое, пред очами народов открыл правду Свою.
+      bulgarian: Господ яви Своето спасение, пред очите на народите откри Своята правда.
+      deutsch: Der Herr läßt sein Heil verkündigen; vor den Völkern läßt er seine
+        Gerechtigkeit offenbaren.
+      ukr2: Господь явив своє спасіння, перед очима в народів явив він свою
+        справедливість.
+      ukr3: Господь обявив спасеннє своє, перед очима народів відкрив справедливість
+        свою.
+      bel_syomukha: Паказаў Гасподзь выратаваньне Сваё, адкрыў перад вачыма народаў
+        праўду Сваю.
+      gorsky-platonov: Явил Иегова спасение Свое, пред очами народов открыл правду Свою.
+      czech: Hospodin dal poznat svoji spasu, zjevil pred ocima pronarodu svoji
+        spravedlnost,
+      spanish: Ha manifestado Yavé su salvación y ha revelado su justicia a los ojos
+        de las gentes.
+      zertis-kamenskiy: "Яко Бог спасение: пред очима язык откры правду Свою."
+      pakazkiy: "Открылась правда пред языки; Увидели концы земли,\rСколь милости Его
+        велики.\rСему спасению внемли."
+      greek-lxx: ἐγνώρισεν Κύριος τὸ σωτήριον αὐτοῦ ἐναντίον τῶν ἐθνῶν ἀπεκάλυψεν τὴν
+        δικαιοσύνην αὐτοῦ
+      st_text: Явил Господь спасение Свое, открыл пред очами народов правду Свою.
+  - id: 32771
+    number: 3
+    bookId: 22
+    text: Вспомнил Он милость Свою и верность Свою к дому Израилеву. Все концы земли
+      увидели спасение Бога нашего.
+    chapter: 97
+    chapterId: 615
+    parallels:
+      - verseId: 20925
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 52
+        short: Ис:52:10
+      - verseId: 23836
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 1
+        short: Лк:1:54
+      - verseId: 24308
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 2
+        short: Лк:2:30
+      - verseId: 24601
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 3
+        short: Лк:3:6
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Помяну милость свою иакову и истину свою дому израилеву: видеша вси концы
+        земли спасение Бога нашего."
+      averincev: ""
+      ungerov: "Вспомнил Он милость Свою Иакову и истину Свою дому Израилеву: увидели
+        все концы земли спасение Бога нашего."
+      csya_old: "ПомzнY млcть свою2 їaкwву и3 и4стину свою2 до1му ї}леву: ви1дэша вси2
+        концы6 земли2 спcніе бг7а нaшегw."
+      sovr_rbo: Вспомнил Он милость Свою и верность Свою к дому Израилеву. Все концы
+        земли увидели спасение Бога нашего.
+      latin: Recordatus est misericordiae suae, et veritatis suae domui Israel.
+        Viderunt omnes termini terrae salutare Dei nostri.
+      ukr: Пам'ятає Він Якову милість Свою, й Свою вірність для дому Ізраїля. Бачать
+        всі кінці землі те спасіння, що чинить наш Бог.
+      nkjv: He has remembered His mercy and His faithfulness to the house of Israel;
+        All the ends of the earth have seen the salvation of our God.
+      desnitsky: ""
+      mt: ‫   זָכַר חַסְדּוֹ וֶאֱמוּנָתוֹ לְבֵית יִשְׂרָאֵל רָאוּ כָל־אַפְסֵי־אָרֶץ
+        אֵת יְשׁוּעַת אֱלֹהֵינוּ׃ ‬
+      romana: Cunoscuta a facut Domnul mantuirea Sa; inaintea neamurilor a descoperit
+        dreptatea Sa.
+      italian: Egli si è ricordato del suo amore, della sua fedeltà alla casa di
+        Israele. Tutti i confini della terra hanno veduto la salvezza del nostro
+        Dio.
+      old_georgian: მოიჴსენა მოწყალებაჲ მისი იაკობის თანა და ჭეშმარიტებაჲ მისი _
+        სახლსა ზედა ისრაჱლისასა; იხილეს ყოველთა კიდეთა ქუეყანისათა მაცხოვარებაჲ
+        ღმრთისა ჩუენისა.
+      portuguese: "Lembrou-se da sua misericórdia e da sua fidelidade para com a casa
+        de Israel; todas as extremidades da terra\rviram a salvação do nosso
+        Deus."
+      polish: "Wspomniał na dobroć i na wierność swoją wobec domu Izraela.
+        Ujrzały\rwszystkie krańce ziemi zbawienie Boga naszego."
+      nrt: Он вспомнил милость и верность Свою к дому Израиля. Все края земли увидели
+        спасение нашего Бога.
+      Macarius: Вспомнил Он милость Свою [к сынам Иакова], и верность Свою к дому
+        Израилеву. Все пределы земли увидели спасение Бога нашего.
+      bulgarian: Спомни си Той Своята милост (към Иакова) и верността Си към
+        Израилевия дом. Всички краища земни видяха спасението от нашия Бог.
+      deutsch: Er gedenkt an seine Gnade und Wahrheit dem Hause Israel; aller Welt
+        Enden sehen das Heil unsers Gottes.
+      ukr2: Згадав про свою милість і свою вірність супроти дому Ізраїля. Усі кінці
+        землі побачили, як наш Бог спасає.
+      ukr3: Згадав про милість свою і про свою вірність для дому Ізраїля; всї кінцї
+        землї побачили спасеннє Бога нашого.
+      bel_syomukha: Успомніў Ён міласьць Сваю да Якава і вернасьць Сваю да дома
+        Ізраілевага. Усе канцы зямлі ўбачылі ратунак Бога нашага.
+      gorsky-platonov: Вспомнил Он милость Свою (к сынам Иакова), и верность Свою к
+        дому Израилеву. Все пределы земли увидели спасение Бога нашего.
+      czech: na sve milosrdenstvi se rozpomenul, na svou vernost domu Izraele.
+        Spatrily vsechny dalavy zeme spasu naseho Boha.
+      spanish: Se ha acordado de su benignidad y de su fidelidad a la casa de Israel;
+        todos los confines de la tierra vieron la victoria de nuestro Dios.
+      zertis-kamenskiy: Помяну милость Свою и истинну Свою дому Израилеву; видеша вси
+        концы земли спасение Бога нашего.
+      pakazkiy: "Который милости в завете Иакову воспомянул;\rИ истиной, при целом
+        свете,\rНа дом Израилев блеснул."
+      greek-lxx: ἐμνήσθη τοῦ ἐλέους αὐτοῦ τῷ Ιακωβ καὶ τῆς ἀληθείας αὐτοῦ τῷ οἴκῳ
+        Ισραηλ εἴδοσαν πάντα τὰ πέρατα τῆς γῆς τὸ σωτήριον τοῦ Θεοῦ ἡμῶν
+      st_text: Вспомнил Он милость Свою и верность Свою к дому Израилеву. Все концы
+        земли увидели спасение Бога нашего.
+  - id: 32772
+    number: 4
+    bookId: 22
+    text: Восклицайте Господу, вся земля; торжествуйте, веселитесь и пойте;
+    chapter: 97
+    chapterId: 615
+    parallels:
+      - verseId: 32787
+        bookId: 22
+        bookCode: psaltir
+        chapter: 99
+        short: Пс:99:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Воскликните Богови, вся земля, воспойте и радуйтеся и пойте.
+      averincev: ""
+      ungerov: Воскликните Богу, вся земля, воспойте, и радуйтесь, и пойте!
+      csya_old: Воскли1кните бг7ови, всS землS, воспо1йте и3 рaдуйтесz и3 по1йте.
+      sovr_rbo: Восклицайте Господу, вся земля; торжествуйте, веселитесь и пойте;
+      latin: Jubilate Deo, omnis terra; cantate et exsultate, et psallite.
+      ukr: Уся земле, викликуйте Господу, покликуйте радісно, і співайте та грайте!
+      nkjv: Shout joyfully to the Lord, all the earth; Break forth in song, rejoice,
+        and sing praises.
+      desnitsky: ""
+      mt: ‫   הָרִיעוּ לַיהוָה כָּל־הָאָרֶץ פִּצְחוּ וְרַנְּנוּ וְזַמֵּרוּ׃ ‬
+      romana: Pomenit-a mila Sa lui Iacob si adevarul Sau casei lui Israel;
+      italian: Acclami al Signore tutta la terra, gridate, esultate con canti di gioia.
+      old_georgian: ღაღადებდით ღმრთისა ყოველი ქუეყანა, უგალობდით და იხარებდით და აქებდით.
+      portuguese: "Celebrai com júbilo ao Senhor, todos os habitantes da terra; dai
+        brados de alegria, regozijai-vos, e cantai\rlouvores."
+      polish: "Radośnie wykrzykuj na cześć Pana, cała ziemio, cieszcie się i weselcie,
+        i\rgrajcie!"
+      nrt: Восклицай Господу, вся земля; восклицайте громко, веселитесь и пойте!
+      Macarius: Торжествуй Господу, вся земля; пойте, восклицайте и бряцайте!
+      bulgarian: Възклицавайте Господу, цяла земьо; тържествувайте, веселете се и пейте;
+      deutsch: Jauchzet dem Herrn, alle Welt; singet, rühmet und lobet!
+      ukr2: Ликуйте перед Господом, уся земле, радійте й веселіться, і псалми
+        співайте!
+      ukr3: В радостї сьпівайте Господеві, вся земля! У захватї піснї похвальні
+        засьпівайте!
+      bel_syomukha: Усклікайце Госпаду, уся зямля; радуйцеся, весялецеся і сьпявайце;
+      gorsky-platonov: Ликуйте Иегове, вся земля; торжествуйте, восклицайте и пойте!
+      czech: Hlahol Hospodinu, cela zeme, dejte se do plesu, pejte zalmy,
+      spanish: Saltad de júbilo ante Yavé toda la tierra, haced resonar los gritos,
+        las ovaciones y los salmos.
+      zertis-kamenskiy: Взыграйте пред Богом вся земля, воскликните и радуйтеся и пойте.
+      pakazkiy: Воскликни Богу в целом мире, Воспой, и пой Ему, земля!
+      greek-lxx: ἀλαλάξατε τῷ Θεῷ πᾶσα ἡ γῆ ᾄσατε καὶ ἀγαλλιᾶσθε καὶ ψάλατε
+      st_text: Восклицайте Господу, вся земля; торжествуйте, веселитесь и пойте;
+  - id: 32773
+    number: 5
+    bookId: 22
+    text: пойте Господу с гуслями, с гуслями и с гласом псалмопения;
+    chapter: 97
+    chapterId: 615
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Пойте Господеви в гуслех, в гуслех и гласе псаломсте,
+      averincev: ""
+      ungerov: Пойте Господу на гуслях, на гуслях и гласом псалма!
+      csya_old: По1йте гDеви въ гyслехъ, въ гyслехъ и3 глaсэ pало1мстэ,
+      sovr_rbo: пойте Господу с гуслями, с гуслями и с гласом псалмопения;
+      latin: Psallite Domino in cithara; in cithara et voce psalmi;
+      ukr: Грайте Господеві на гуслах, на гуслах і піснопінням,
+      nkjv: Sing to the Lord with the harp, With the harp and the sound of a psalm,
+      desnitsky: ""
+      mt: ‫   זַמְּרוּ לַיהוָה בְּכִנּוֹר בְּכִנּוֹר וְקוֹל זִמְרָה׃ ‬
+      romana: Vazut-au toate marginile pamantului mantuirea Dumnezeului nostru.
+      italian: Cantate inni al Signore con l'arpa, con l'arpa e con suono melodioso;
+      old_georgian: უგალობდით უფალსა ებნითა, ებნითა და ჴმითა ფსალმუნისათა;
+      portuguese: Louvai ao Senhor com a harpa; com a harpa e a voz de canto.
+      polish: Śpiewajcie Panu przy wtórze cytry, przy wtórze cytry i przy dźwięku
+        harfy,
+      nrt: Прославляйте Господа на арфах, на арфах со звуками песнопений!
+      Macarius: Бряцайте Господу на гуслях, на гуслях и со гласом псалмопения.
+      bulgarian: пейте Господу с гусли, с гусли и с глас псаломски;
+      deutsch: Lobet den Herrn mit Harfen, mit Harfen und Psalmen!
+      ukr2: Псалми співайте Господеві на гуслах, на гуслах і голосом співу!
+      ukr3: Принесїть похвальні піснї Господеві при гуслях, присьпівуючи при гуслях
+        голосами.
+      bel_syomukha: сьпявайце Госпаду з арфаю, з арфаю і з псальмамі;
+      gorsky-platonov: Пойте Иегове с гуслями, с гуслями и с гласом псалмопения.
+      czech: pejte Hospodinu zalmy pri citere, pri citere necht zazvuci zalmy;
+      spanish: Cantad a Yavé con la cítara, con el arpa y con voces de cantos.
+      zertis-kamenskiy: Пойте Богу с гусльми, с гусльми и гласом пения.
+      pakazkiy: "Воспой на гуслях и псалтыре,\rИ радуйтеся день от дня!"
+      greek-lxx: ψάλατε τῷ Κυρίῳ ἐν κιθάρᾳ ἐν κιθάρᾳ καὶ φωνῇ ψαλμοῦ
+      st_text: пойте Господу с гуслями, с гуслями и с гласом псалмопения;
+  - id: 32774
+    number: 6
+    bookId: 22
+    text: при звуке труб и рога торжествуйте пред Царем Господом.
+    chapter: 97
+    chapterId: 615
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "в трубах кованых и гласом трубы рожаны: вострубите пред Царем Господем."
+      averincev: ""
+      ungerov: Трубами коваными и звуком трубы роговой вострубите пред Царем - Господом!
+      csya_old: "въ трубaхъ ко1ваныхъ и3 глaсомъ трубы2 ро1жаны: воструби1те пред8
+        цRе1мъ гDемъ."
+      sovr_rbo: при звуке труб и рога торжествуйте пред Царем Господом.
+      latin: in tubis ductilibus, et voce tubae corneae. Jubilate in conspectu regis
+        Domini;
+      ukr: на сурмах і голосом рогу викликуйте перед обличчям Царя Цього й Господа!
+      nkjv: With trumpets and the sound of a horn; Shout joyfully before the Lord, the
+        King.
+      desnitsky: ""
+      mt: ‫   בַּחֲצֹצְרוֹת וְקוֹל שׁוֹפָר הָרִיעוּ לִפְנֵי הַמֶּלֶךְ יְהוָה׃ ‬
+      romana: Strigati lui Dumnezeu tot pamantul; cantati si va bucurati si cantati.
+      italian: con la tromba e al suono del corno acclamate davanti al re, il Signore.
+      old_georgian: ნესტჳთა ჭედილითა და ჴმითა ნესტჳსა რქისათა ღაღადებდით წინაშე
+        მეუფისა უფლისა.
+      portuguese: Com trombetas, e ao som de buzinas, exultai diante do Rei, o Senhor.
+      polish: "przy trąbach i dźwięku rogu: radujcie się wobec Pana, Króla!"
+      nrt: Под звуки труб и рогов радостно восклицайте перед Царем, Господом!
+      Macarius: При звуке труб и рога торжествуйте пред Царем Господом.
+      bulgarian: при звука на тръби и рог тържествувайте пред Царя Господа.
+      deutsch: Mit Drommeten und Posaunen jauchzet vor dem Herrn, dem König!
+      ukr2: Сурмами й під звуки рогу, ликуйте перед царем Господом!
+      ukr3: Трубами кованими і голосом рога засурміть перед царем Господом!
+      bel_syomukha: з гукамі труб і рога радуйцеся прад Валадаром Госпадам.
+      gorsky-platonov: С звуком труб и рога ликуйте пред Царем Иеговою.
+      czech: s doprovodem trub a polnic hlaholte pred Hospodinem Kralem!
+      spanish: Con las trompetas y sones de bocina, saltad de júbilo ante el rey Yavé.
+      zertis-kamenskiy: В трубы кованы и гласом [трубы] рожаны [рагавей] вострубите
+        пред Царем Богом.
+      pakazkiy: "И гласом труб златокованных, И гласом рожаной трубы,\rВ сословии
+        мужей избранных Прославьте Вышняго судьбы.\rПред Господем, Царем
+        трубите, Да гласом пения сего"
+      greek-lxx: ἐν σάλπιγξιν ἐλαταῖς καὶ φωνῇ σάλπιγγος κερατίνης ἀλαλάξατε ἐνώπιον
+        τοῦ βασιλέως Κυρίου
+      st_text: при звуке труб и рога торжествуйте пред Царем Господом.
+  - id: 32775
+    number: 7
+    bookId: 22
+    text: Да шумит море и что наполняет его, вселенная и живущие в ней;
+    chapter: 97
+    chapterId: 615
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Да подвижится море и исполнение его, вселенная и вси живущии на ней.
+      averincev: ""
+      ungerov: Да придет в движение море и что наполняет его, вселенная и все живущие
+        в ней!
+      csya_old: Да подви1житсz мо1ре и3 и3сполне1ніе є3гw2, вселе1ннаz и3 вси2 живyщіи
+        на не1й.
+      sovr_rbo: Да шумит море и что наполняет его, вселенная и живущие в ней;
+      latin: moveatur mare, et plenitudo ejus; orbis terrarum, et qui habitant in eo.
+      ukr: Нехай шумить море й усе, що у ньому, вселенна й мешканці її,
+      nkjv: Let the sea roar, and all its fullness, The world and those who dwell in
+        it;
+      desnitsky: ""
+      mt: ‫   יִרְעַם הַיָּם וּמְלֹאוֹ תֵּבֵל וְיֹשְׁבֵי בָהּ׃ ‬
+      romana: Cantati Domnului cu alauta, cu alauta si in sunet de psaltire;
+      italian: Frema il mare e quanto racchiude, il mondo e i suoi abitanti.
+      old_georgian: აღიძარნ ზღუაჲ და სავსებაჲ მისი, სოფელი და ყოველნი დამკჳდრებულნი მას შინა.
+      portuguese: Brame o mar e a sua plenitude, o mundo e os que nele habitam;
+      polish: Niech szumi morze i to, co je napełnia, świat i jego mieszkańcy!
+      nrt: Пусть шумит море и все, что наполняет его, вселенная и живущие в ней.
+      Macarius: Да плещет море, и что наполняет его; вселенная, и живущие в ней;
+      bulgarian: Да шуми морето и онова, що го изпълня, вселената и които живеят в нея;
+      deutsch: Das Meer brause und was darinnen ist, der Erdboden und die darauf wohnen.
+      ukr2: Нехай заграє море та його повнота, світ і його мешканці.
+      ukr3: Нехай заграє море і повня його, круг землї і що живе на нїй!
+      bel_syomukha: Хай шуміць мора і ўсё, што ў ім, сусьвет і ўсё, што жыве ў ім;
+      gorsky-platonov: Да плещет море, и что наполняет его; вселенная и живущие в ней;
+      czech: At se more s tim, co je v nem, rozburaci, svet i ti, kdo na nem sidli,
+      spanish: Resuene el mar y cuanto él contiene, el mundo y todos sus habitantes.
+      zertis-kamenskiy: "Да возшумит море и еже в нем есть: вселенная и живущии на ней."
+      pakazkiy: "К восторгам море возбудите,\rИ исполнение Его.\rВселенна вся, и
+        человеки,\rДа празднуют спасенья день;"
+      greek-lxx: σαλευθήτω ἡ θάλασσα καὶ τὸ πλήρωμα αὐτῆς ἡ οἰκουμένη καὶ οἱ
+        κατοικοῦντες ἐν αὐτῇ
+      st_text: Да шумит море и что наполняет его, вселенная и живущие в ней;
+  - id: 32776
+    number: 8
+    bookId: 22
+    text: да рукоплещут реки, да ликуют вместе горы
+    chapter: 97
+    chapterId: 615
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Реки восплещут рукою вкупе, горы возрадуются
+      averincev: ""
+      ungerov: Да рукоплещут вместе и реки, горы да радуются
+      csya_old: Рёки воспле1щутъ руко1ю вкyпэ, го1ры возрaдуютсz
+      sovr_rbo: да рукоплещут реки, да ликуют вместе горы
+      latin: Flumina plaudent manu, simul montes exsultabunt
+      ukr: ріки хай плещуть в долоні, разом радіють хай гори
+      nkjv: Let the rivers clap their hands; Let the hills be joyful together before
+        the Lord,
+      desnitsky: ""
+      mt: ‫   נְהָרוֹת יִמְחֲאוּ־כָף יַחַד הָרִים יְרַנֵּנוּ׃ ‬
+      romana: Cu trambite si in sunet de corn, strigati inaintea Imparatului si
+        Domnului.
+      italian: I fiumi battano le mani, esultino insieme le montagne
+      old_georgian: მდინარეთა აღიტყუელონ ჴელნი თანად;
+      portuguese: batam palmas os rios; à uma regozijem-se os montes
+      polish: Niech rzeki klaszczą w dłonie, niech góry razem wołają radośnie
+      nrt: Пусть рукоплещут реки, пусть веселятся вместе горы
+      Macarius: Да рукоплещут реки; купно горы да ликуют,
+      bulgarian: да ръкопляскат реките, да ликуват с тях планините
+      deutsch: Die Wasserströme frohlocken, und alle Berge seien fröhlich
+      ukr2: Ріки нехай у долоні плещуть і разом нехай ликують гори -
+      ukr3: Нехай ріки в долонї плещуть, гори разом торжествують перед Господом!
+      bel_syomukha: хай у далоні пляскаюць рэкі; хай радуюцца разам горы
+      gorsky-platonov: Реки да плещут рукою; вместе горы да ликуют,
+      czech: dlanemi necht zatleskaji reky, s nimi at plesaji hory
+      spanish: Batan palmas los ríos, regocíjense a su vez los montes
+      zertis-kamenskiy: "Реки да восплещут рукою: вкупе  горы возрадуются пред лицем
+        Бога, яко грядет судити земли."
+      pakazkiy: "Руками да восплещут реки,\rДа скачут горы как елень,"
+      greek-lxx: ποταμοὶ κροτήσουσιν χειρὶ ἐπὶ τὸ αὐτό τὰ ὄρη ἀγαλλιάσονται
+      st_text: да рукоплещут реки, да ликуют вместе горы
+  - id: 32777
+    number: 9
+    bookId: 22
+    text: пред лицем Господа, ибо Он идет судить землю. Он будет судить вселенную
+      праведно и народы - верно.
+    chapter: 97
+    chapterId: 615
+    parallels:
+      - verseId: 32756
+        bookId: 22
+        bookCode: psaltir
+        chapter: 95
+        short: Пс:95:13
+      - verseId: 20388
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 3
+        short: Ис:3:13
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "от лица Господня, яко грядет, яко идет судити земли: судити вселенней в
+        правду, и людем правостию."
+      averincev: ""
+      ungerov: От лица Господа, ибо Он идет, ибо идет судить землю, судить вселенную
+        по правде и народы по правоте.
+      csya_old: "t лицA гDнz, ћкw грzде1тъ, ћкw и4детъ суди1ти земли2: суди1ти
+        вселе1ннэй въ прaвду, и3 лю1демъ прaвостію."
+      sovr_rbo: пред лицем Господа, ибо Он идет судить землю. Он будет судить
+        вселенную праведно и народы - верно.
+      latin: a conspectu Domini, quoniam venit judicare terram. Judicabit orbem
+        terrarum in justitia, et populos in aequitate.
+      ukr: "перед обличчям Господнім, бо Він землю судити гряде: Він за справедливістю
+        буде судити вселенну, і народи по правді!"
+      nkjv: For He is coming to judge the earth. With righteousness He shall judge the
+        world, And the peoples with equity.
+      desnitsky: ""
+      mt: ‫   לִפְנֵי־יְהוָה כִּי בָא לִשְׁפֹּט הָאָרֶץ יִשְׁפֹּט־תֵּבֵל בְּצֶדֶק
+        וְעַמִּים בְּמֵישָׁרִים׃ ‬
+      romana: Sa se zguduie marea si plinirea ei, lumea si cei ce locuiesc in ea.
+      italian: davanti al Signore che viene, che viene a giudicare la terra.
+        Giudicherà il mondo con giustizia e i popoli con rettitudine.
+      old_georgian: მთანი იხარებდენ პირისაგან უფლისა, რამეთუ მოვალს, რამეთუ მოვიდეს
+        განკითხვად ქუეყანისა; განიკითხოს სოფელი სიმართლით და ერნი - სიწრფოებით.
+      portuguese: diante do Senhor, porque vem julgar a terra; com justiça julgará o
+        mundo, e os povos com eqüidade.
+      polish: "przed obliczem Pana, bo nadchodzi, ”bo nadchodzi” sądzić ziemię. On
+        będzie\rsądził świat sprawiedliwie i według słuszności - ludy."
+      nrt: перед Господом, потому что Он идет судить землю. Он будет судить вселенную
+        справедливо и народы – верно.
+      Macarius: Пред лицем Господа; ибо идет, [ибо идет] судить землю. Будет судить
+        вселенную праведно, и народы — верно.
+      bulgarian: пред лицето на Господа, защото Той иде да съди земята. Той ще съди
+        вселената праведно, и народите - вярно.
+      deutsch: vor dem Herrn; denn er kommt das Erdreich zu richten. Er wird den
+        Erdboden richten mit Gerechtigkeit und die Völker mit Recht.
+      ukr2: перед Господом, бо він іде судити землю; судитиме по справедливості
+        всесвіт, по правоті - народи.
+      ukr3: Він судити ме землю по справедливостї, і по правотї - народи.
+      bel_syomukha: прад абліччам Госпада; бо Ён ідзе судзіць зямлю. Ён будзе судзіць
+        сусьвет справядліва і народы - па праўдзе.
+      gorsky-platonov: Пред лицем Иеговы; ибо идет Он судить землю. Будет судить
+        вселенную праведно, и народы право.
+      czech: vstric Hospodinu, ze prichazi, aby soudil zemi. On bude soudit svet
+        spravedlive a narody podle prava.
+      spanish: delante de Yavé, que viene a juzgar la tierra, y juzgará el mundo con
+        justicia y a los pueblos con equidad.
+      zertis-kamenskiy: Судити будет вселенной в правду, и людем в правостех.
+      pakazkiy: "От созерцания той славы,\rС какою Царь царей грядет Воздать вселенной
+        суд свой правый,\rИ людем низлияти свет!"
+      greek-lxx: ὅτι ἥκει κρῖναι τὴν γῆν κρινεῖ τὴν οἰκουμένην ἐν δικαιοσύνῃ καὶ λαοὺς
+        ἐν εὐθύτητι
+      st_text: пред лицем Господа, ибо Он идет судить землю. Он будет судить вселенную
+        праведно и народы - верно.

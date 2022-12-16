@@ -1,0 +1,1312 @@
+id: 480
+number: 4
+bookId: 21
+verseCount: 21
+title: Глава 4
+verses:
+  - id: 19730
+    number: 1
+    bookId: 21
+    text: "И отвечал Елифаз Феманитянин и сказал:"
+    chapter: 4
+    chapterId: 480
+    parallels:
+      - verseId: 19025
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 15
+        short: Иов:15:1
+      - verseId: 19224
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 22
+        short: Иов:22:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Отвеща же елифаз феманитин, глаголя:"
+      averincev: "И ответствовал Элифаз из Темана, и сказал:"
+      ungerov: "И отвечал Елифаз Феманитянин и сказалъ:"
+      csya_old: "Tвэщa же є3ліфaзъ fеманjтинъ, глаго1лz:"
+      sovr_rbo: "Так отвечал Элифаз из Темана:"
+      latin: "Respondens autem Eliphaz Themanites, dixit:"
+      ukr: "І відповів теманянин Еліфаз та й сказав:"
+      nkjv: "Then Eliphaz the Temanite answered and said:"
+      desnitsky: "ТАК ОТВЕЧАЛ ЭЛИФАЗ ИЗ ТЕЙМАНА:"
+      mt: ‫    וַיַּעַן אֱלִיפַז הַתֵּימָנִי וַיֹּאמַר׃ ‬
+      romana: "Atunci Elifaz din Teman a deschis gura si a zis:"
+      francais: "Éliphaz de Théman prit la parole et dit:"
+      italian: "Elifaz il Temanita prese la parola e disse:"
+      old_georgian: "მიუგო ელიფას თემანელმან და ჰრქუა:"
+      portuguese: "Então respondeu Elifaz, o temanita, e disse:"
+      polish: "Teraz zabrał głos Elifaz z Temanu i tak rzekł:"
+      turkish: "Temanlı Elifaz şöyle yanıtladı:"
+      nrt: "Тогда ответил Элифаз из Темана:"
+      Macarius: "И начал Елифаз Феманитянин, и сказал:"
+      serbian: "Тада одговори Елифас Теманац и рече:"
+      bulgarian: "И отговори Елифаз Теманец и рече:"
+      deutsch: "Da antwortete Eliphas von Theman und sprach:"
+      ukr2: "Заговорив Еліфаз із Теману й мовив:"
+      ukr3: "І відказав Елифаз із Теману й промовив:"
+      bel_syomukha: "І адказваў Эліфаз Фэманіцянін і сказаў:"
+      spbda: "И начал Элифаз, ѳеманитянин, и сказал:"
+      lev-khv: "И отвечал Елифаз, Феманитянин, и сказал:"
+      czech: "Na to navazal Elifaz Temansky slovy:"
+      spanish: "Tomó la palabra Elifaz, de Temán, y dijo:"
+      greek-lxx: ὑπολαβὼν δὲ Ελιφας ὁ Θαιμανίτης λέγει
+      st_text: "И отвечал Елифаз Феманитянин и сказал:"
+  - id: 19731
+    number: 2
+    bookId: 21
+    text: <i>если</i> попытаемся мы <i>сказать</i> к тебе слово, - не тяжело ли
+      будет тебе? Впрочем кто может возбранить слову!
+    chapter: 4
+    chapterId: 480
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: еда множицею глаголано ти бысть в труде? тяжести же глагол твоих кто
+        стерпит?
+      averincev: '"Попытаешь слово - тебе досадишь; но в чьих силах сдержать речь?'
+      ungerov: Не многократно-ли ты говорил в бедствии? силу же слов твоих кто снесет?
+      csya_old: є3дA мно1жицею глаго1лано ти2 бы1сть въ трудЁ; тsжести же глагHлъ
+        твои1хъ кто2 стерпи1тъ;
+      sovr_rbo: «Может быть, мои слова тебя ранят, но как тут смолчать?
+      latin: Si coeperimus loqui tibi, forsitan moleste accipies; sed conceptum
+        sermonem tenere quis poterit?
+      ukr: Коли спробувать слово до тебе, чи мука не буде ще більша? Та хто стримати
+        зможе слова?
+      nkjv: '"If one attempts a word with you, will you become weary? But who can
+        withhold himself from speaking?'
+      desnitsky: – Может быть, мои слова тебя ранят, но как тут смолчать?
+      mt: ‫    הֲנִסָּה דָבָר אֵלֶיךָ תִּלְאֶה וַעְצֹר בְּמִלִּין מִי יוּכָל׃ ‬
+      romana: '"Sa-ti vorbim ori sa nu-ti vorbim? Necazul tau e crancen! Dar cine ar
+        putea sa-si inabuse cuvintele?'
+      francais: Si nous osons ouvrir la bouche, en seras-tu peiné? Mais qui pourrait
+        garder le silence?
+      italian: Se si tenta di parlarti, ti sarà forse gravoso? Ma chi può trattenere
+        il discorso?
+      old_georgian: ნუუკუე მრავალგზის თქმულ არიან შენდამი? შრომით ძალსა მაგას სიტყუათა
+        შენთასა ვინ დაუთმოს?
+      portuguese: Se alguém intentar falar-te, enfadarte-ás? Mas quem poderá conter as
+        palavras?
+      polish: "”Wolno pomówić? Przykro ci? Lecz któż się wstrzyma od słów
+        stwierdzonych\rdoświadczeniem?"
+      turkish: "«Biri sana bir şey söylemeye çalışsa gücenir misin?\rKim konuşmadan
+        durabilir?"
+      nrt: – Если кто-нибудь решится сказать тебе слово, не досадит ли тебе? Впрочем,
+        кто в силах удержать речь?
+      Macarius: Можем ли попытаться сказать нечто тебе, изнеможенному? и удержать
+        слова кто бы мог?
+      serbian: Ако ти проговоримо, да ти неће бити досадно? Али ко би се могао
+        уздржати да не говори?
+      bulgarian: ако се опитаме да ти кажем една дума, не ще ли ти стане мъчно? Но кой
+        може да се сдържи да не говори!
+      deutsch: Du hast's vielleicht nicht gern, so man versucht, mit dir zu reden;
+        aber wer kann sich's enthalten?
+      ukr2: «І словом нам звернутися до тебе? | Тебе пригнобить, та стримати слова хто
+        зможе?
+      ukr3: Як ми стребуємо заговорити до тебе, - чи не буде се тобі прикро? Да хто
+        слово може зупинити?
+      bel_syomukha: калі паспрабуем мы сказаць табе слова, - ці ня цяжка будзе табе?
+        Урэшце, хто можа забараніць слова!
+      spbda: "Если попытаться сказать к тебе слово, — не тяжело ли будет
+        тебе?\r\rвпрочем, удержаться от слов кто может!"
+      lev-khv: Если попытаться <i><i>сказать к</i></i> тебе слово, не тяжело ли будет
+        тебе? но удержаться от слов кто может?
+      czech: '"Neponeses tezce, zkusi-li to nekdo s tebou mluvit? Kdo se vsak dokaze
+        zdrzet domluv?'
+      spanish: << ¿Te molestará que te dirijamos la palabra? pero ¿quién es capaz de
+        guardar silencio?
+      greek-lxx: μὴ πολλάκις σοι λελάληται ἐν κόπῳ ἰσχὺν δὲ ῥημάτων σου τίς ὑποίσει
+      st_text: <i>если</i> попытаемся мы <i>сказать</i> к тебе слово, - не тяжело ли
+        будет тебе? Впрочем кто может возбранить слову!
+  - id: 19732
+    number: 3
+    bookId: 21
+    text: Вот, ты наставлял многих и опустившиеся руки поддерживал,
+    chapter: 4
+    chapterId: 480
+    parallels:
+      - verseId: 14664
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 12
+        short: Евр:12:12
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: аще бо ты научил еси многи и руце немощных утешил еси,
+      averincev: Бывало, многих ты вразумлял, возвращал ослабевшей длани мощь,
+      ungerov: Ибо вот ты многих научал, и руки немощных укреплял,
+      csya_old: ѓще бо ты2 научи1лъ є3си2 мнHги и3 рyцэ немощны1хъ ўтёшилъ є3си2,
+      sovr_rbo: Бывало, сам ты вразумлял многих и возвращал силу рукам ослабевшим,
+      latin: Ecce docuisti multos, et manus lassas roborasti;
+      ukr: Таж ти багатьох був навчав, а руки ослаблі зміцняв,
+      nkjv: Surely you have instructed many, And you have strengthened weak hands.
+      desnitsky: Бывало, сам ты вразумлял многих и возвращал силу рукам ослабевшим,
+      mt: ‫    הִנֵּה יִסַּרְתָּ רַבִּים וְיָדַיִם רָפוֹת תְּחַזֵּק׃ ‬
+      romana: Iata, tu dadeai invatatura multora si intareai multe maini slabite.
+      francais: Voici, tu as souvent enseigné les autres, Tu as fortifié les mains
+        languissantes,
+      italian: Ecco, tu hai istruito molti e a mani fiacche hai ridato vigore;
+      old_georgian: დაღათუ შენ განსწავლენ მრავალნი და ჴელსა უძლურთასა ნუგეშინის-გეცა.
+      portuguese: Eis que tens ensinado a muitos, e tens fortalecido as mãos fracas.
+      polish: Tyś przecież wielu pouczał, wzmacniałeś omdlałe ręce,
+      turkish: Evet, pek çoklarına sen ders verdin, Zayıf elleri güçlendirdin,
+      nrt: Вспомни о том, как ты наставлял многих и укреплял ослабевшие руки.
+      Macarius: Вот ты учил многих, и руки расслабленные укреплял;
+      serbian: Гле, учио си многе, и руке изнемогле кријепио си;
+      bulgarian: Ето, ти си мнозина съветвал и си подкрепял изнемощели ръце,
+      deutsch: Siehe, du hast viele unterwiesen und lässige Hände gestärkt;
+      ukr2: Оце навчав ти багатьох, | і скріпляв знеможені руки.
+      ukr3: Отсе ти не одного навчав, і знемагаючі руки піддержував;
+      bel_syomukha: Вось, ты настаўляў многіх і кволыя рукі падтрымліваў,
+      spbda: "Вот ты наставлял многих,\r\rи руки ослабевшия укреплял;"
+      lev-khv: Вот, ты наставлял многих, и руки ослабевшия укреплял,
+      czech: Hle, tys napominal mnohe, ruce ochable jsi posiloval,
+      spanish: He aquí que enseñaste a muchos, confortaste muchas manos débiles.
+      greek-lxx: εἰ γὰρ σὺ ἐνουθέτησας πολλοὺς καὶ χεῖρας ἀσθενοῦς παρεκάλεσας
+      st_text: Вот, ты наставлял многих и опустившиеся руки поддерживал,
+  - id: 19733
+    number: 4
+    bookId: 21
+    text: падающего восставляли слова твои, и гнущиеся колени ты укреплял.
+    chapter: 4
+    chapterId: 480
+    parallels:
+      - verseId: 20506
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 35
+        short: Ис:35:3
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: немощныя же воздвигл еси словесы, коленом же немощным силу обложил еси.
+      averincev: поднимало падшего слово твое, и колено дрожащее ты укреплял.
+      ungerov: Безсильных поднимал словами, а слабым коленам придавал силу.
+      csya_old: немwщны1z же воздви1глъ є3си2 словесы2, колёнwмъ же немwщны1мъ си1лу
+        њбложи1лъ є3си2.
+      sovr_rbo: немощного твои слова подкрепляли, и споткнувшегося ты поддерживал.
+      latin: vacilantes confirmaverunt sermones tui, et genua trementia confortasti.
+      ukr: того, хто спотикавсь, підіймали слова твої, а коліна тремткі ти зміцняв!
+      nkjv: Your words have upheld him who was stumbling, And you have strengthened
+        the feeble knees;
+      desnitsky: немощного твои слова подкрепляли и споткнувшегося ты поддерживал.
+      mt: ‫    כּוֹשֵׁל‪‬ יְקִימוּן מִלֶּיךָ וּבִרְכַּיִם כֹּרְעוֹת תְּאַמֵּץ׃ ‬
+      romana: Cuvintele tale au tinut in sus pe cei ce erau sa cada si tu ai intarit
+        genunchii care se clatinau.
+      francais: Tes paroles ont relevé ceux qui chancelaient, Tu as affermi les genoux
+        qui pliaient.
+      italian: le tue parole hanno sorretto chi vacillava e le ginocchia che si
+        piegavano hai rafforzato.
+      old_georgian: და სნეულნი აღგედგინნეს და მუჴლთა უძლურთასა კადნიერებაჲ გეცა.
+      portuguese: As tuas palavras têm sustentado aos que cambaleavam, e os joelhos
+        desfalecentes tens fortalecido.
+      polish: twe słowa krzepiły słabych, wspierałeś kolana zachwiane.
+      turkish: Tökezleyeni senin sözlerin ayakta tuttu, Titreyen dizleri sen
+        pekiştirdin.
+      nrt: Слова твои были падающим опорой, и дрожащие колени ты укреплял.
+      Macarius: Падающего восставляли слова твои; и колена гнувшиеся ты утверждал.
+      serbian: Ријечи су твоје подизале онога који падаше, и утврђивао си кољена која
+        клецаху.
+      bulgarian: твоите думи са изправяли падащия, и си укрепял отмалели колене.
+      deutsch: deine Rede hat die Gefallenen aufgerichtet, und die bebenden Kniee hast
+        du gekräftigt.
+      ukr2: Хто спотикався, словами ти підводив, | хистким колінам давав сили.
+      ukr3: Хто спотикавсь, того підкріпляли слова твої, і хистким колїнам ти додавав
+        сили.
+      bel_syomukha: таго, хто падаў, падымалі словы твае, і аслаблыя калені ты мацаваў.
+      spbda: "падающаго возставляли слова твои,\r\rи колена гнущияся ты утверждал."
+      lev-khv: Падающаго возставляли слов&#225; твои, и колена гнущияся ты укреплял.
+      czech: tve domluvy pozvedaly klopytajiciho, podlomena kolena jsi utvrzoval.
+      spanish: Con tu palabra sostuviste a los vacilantes y fortaleciste a rodillas
+        que se doblaban.
+      greek-lxx: ἀσθενοῦντάς τε ἐξανέστησας ῥήμασιν γόνασίν τε ἀδυνατοῦσιν θάρσος
+        περιέθηκας
+      st_text: падающего восставляли слова твои, и гнущиеся колени ты укреплял.
+  - id: 19734
+    number: 5
+    bookId: 21
+    text: А теперь дошло до тебя, и ты изнемог; коснулось тебя, и ты упал духом.
+    chapter: 4
+    chapterId: 480
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Ныне же прииде на тя болезнь и коснуся тебе, ты же возмутился еси.
+      averincev: А дошло до тебя - и ты без сил, коснулось тебя - и ты смущен?
+      ungerov: А ныне постигла тебя болезнь и коснулась тебя, и ты возмутился.
+      csya_old: Нн7э же пріи1де на тS болёзнь и3 коснyсz тебє2, ты1 же возмути1лсz є3си2.
+      sovr_rbo: Теперь случилась с тобой беда — и ты поник, коснулась тебя — ты в
+        смятении.
+      latin: Nunc autem venit super te plaga, et defecisti; tetigit te, et conturbatus
+        es.
+      ukr: А тепер, як нещастя на тебе найшло, то ти змучився, тебе досягло воно і ти
+        налякався...
+      nkjv: But now it comes upon you, and you are weary; It touches you, and you are
+        troubled.
+      desnitsky: Теперь случилась с тобой беда – и ты поник, коснулась тебя – ты в
+        смятении.
+      mt: ‫    כִּי עַתָּה תָּבוֹא אֵלֶיךָ וַתֵּלֶא תִּגַּע עָדֶיךָ וַתִּבָּהֵל׃ ‬
+      romana: Acum cand ti-a venit si tie randul, esti la stramtorare si ti-ai pierdut
+        firea; acum cand lovitura te-a ajuns, te-ai spaimantat!
+      francais: Et maintenant qu'il s'agit de toi, tu faiblis! Maintenant que tu es
+        atteint, tu te troubles!
+      italian: Ma ora questo accade a te e ti abbatti; capita a te e ne sei sconvolto.
+      old_georgian: აწმცა მოწევნულ არს შენ ზედა სალმობაჲ. და შეგეხო შენ, ხოლო შენ ისწრაფე!
+      portuguese: Mas agora que se trata de ti, te enfadas; e, tocando-te a ti, te
+        desanimas.
+      polish: Gdy teraz przyszło na ciebie, tyś słaby, strwożony, gdy ciebie dotknęło.
+      turkish: Ama şimdi senin başına gelince gücüne gidiyor, Sana dokununca
+        yılgınlığa düşüyorsun.
+      nrt: А теперь тебя постигли беды, и ты изнемог, тебя коснулось несчастье, и ты
+        устрашен.
+      Macarius: А ныне, когда дошло до тебя, ты изнемог; коснулось тебя, и ты в смятении.
+      serbian: А сада кад дође на тебе, клонуо си; кад се тебе дотаче, смео си се.
+      bulgarian: А сега нещастието дойде до тебе, и ти изнемощя; допря до тебе, и ти
+        падна духом.
+      deutsch: Nun aber es an dich kommt, wirst du weich; und nun es dich trifft,
+        erschrickst du.
+      ukr2: Тепер же, як найшло на тебе лихо, ти прибитий! | Торкнулося до тебе, і ти
+        збентеживсь!
+      ukr3: Тепер же дійшло до тебе, а ти знемочнїв; дотикнуло тебе, та вже й упав
+        духом.
+      bel_syomukha: А цяпер дайшло да цябе, і зьнямогся ты; дайшло да цябе, і ты
+        падупаў духам.
+      spbda: "А ныне, когда дошло до тебя, ты изнемог;\r\rкоснулось тебя, и ты
+        смутился."
+      lev-khv: А ныне, когда дошло до тебя, ты изнемог; коснулось тебя и ты смутился.
+      czech: Ted doslo na tebe a tezce to neses, sotva te to zasahlo, hned naplnen jsi
+        hruzou.
+      spanish: Pero ahora, que ha venido sobre ti, ¿decaes? Cuando te ha tocado, ¿te
+        turbas?
+      greek-lxx: νῦν δὲ ἥκει ἐπὶ σὲ πόνος καὶ ἥψατό σου σὺ δὲ ἐσπούδασας
+      st_text: А теперь дошло до тебя, и ты изнемог; коснулось тебя, и ты упал духом.
+  - id: 19735
+    number: 6
+    bookId: 21
+    text: Богобоязненность твоя не должна ли быть твоею надеждою, и непорочность
+      путей твоих - упованием твоим?
+    chapter: 4
+    chapterId: 480
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Еда страх твой есть не в безумии, и надежда твоя и злоба пути твоего?
+      averincev: Не страх ли Божий - надежда твоя, не праведность ли твоя - упованье твое?
+      ungerov: Ужели твой страх (пред Богом), и надежда твоя, при несчастии пути
+        твоего, оказались в безумии?
+      csya_old: є3дA стрaхъ тво1й є4сть не въ безyміи, и3 наде1жда твоS и3 ѕло1ба
+        пути2 твоегw2;
+      sovr_rbo: Не страх ли Божий дает тебе уверенность, и непорочность твоих путей —
+        надежду?
+      latin: Ubi est timor tuus, fortitudo tua? patientia tua et perfectio viarum
+        tuarum?
+      ukr: Хіба не була богобійність твоя за надію твою, за твоє сподівання невинність
+        доріг твоїх?
+      nkjv: Is not your reverence your confidence? And the integrity of your ways your
+        hope?
+      desnitsky: Не страх ли Божий дает тебе уверенность, и непорочность твоих путей –
+        надежду?
+      mt: ‫    הֲלֹא יִרְאָתְךָ כִּסְלָתֶךָ תִּקְוָתְךָ וְתֹם דְּרָכֶיךָ׃ ‬
+      romana: Frica ta de Dumnezeu nu-ti da incredere si desavarsirea cailor tale
+        nu-ti da nadejde?
+      francais: Ta crainte de Dieu n'est-elle pas ton soutien? Ton espérance, n'est-ce
+        pas ton intégrité?
+      italian: La tua pietà non era forse la tua fiducia e la tua condotta integra, la
+        tua speranza?
+      old_georgian: ანუ არა აწ შიში ეგე შენი არს უგუნურებით და სასოებაჲ შენი და
+        უკეთურებაჲ გზათა შენთა?
+      portuguese: Porventura não está a tua confiança no teu temor de Deus, e a tua
+        esperança na integridade dos teus caminhos?
+      polish: "Czy bogobojność już nie jest twą ufnością, a nadzieją - doskonałość
+        dróg\rtwoich?"
+      turkish: Senin güvendiğin Tanrı'dan korkun değil mi, Umudun kusursuz yaşamında
+        değil mi?
+      nrt: Не в страхе ли перед Богом твоя уверенность, а надежда – в непорочности
+        твоих путей?
+      Macarius: Благочестие твое не есть ли надежда твоя? и чистота путей твоих не
+        есть ли упование твое?
+      serbian: Није ли побожност твоја била уздање твоје, и доброта путова твојих
+        надање твоје?
+      bulgarian: Твоята богобоязливост не трябва ли да бъде твоя надежда, и
+        непорочността на твоите пътища - твое упование?
+      deutsch: Ist nicht deine Gottesfurcht dein Trost, deine Hoffnung die
+        Unsträflichkeit deiner Wege?
+      ukr2: Твоя побожність, чи не вона ж твоя надія? | Чи ж не твоє вповання - путів
+        твоїх невинність?
+      ukr3: Чи ж богобоязність твоя не повинна бути твоєю надїєю, а невинність доріг
+        твоїх - упованнєм твоїм?
+      bel_syomukha: Богабаязнасьць твая ці ж не павінна быць тваёю надзеяй, і
+        беспахібнасьць шляхоў тваіх - спадзяваньнем тваім?
+      spbda: "Не благочестие ли твое — надежда твоя?\r\rупование твое — не
+        непорочность ли путей твоих?"
+      lev-khv: Не в благочестии ли твоем надежда твоя? упование твое не на
+        непорочность ли путей твоих?
+      czech: Neduverujes uz ve svou bohabojnost? Nedava ti nadeji tvuj bezuhonny
+        zivot?
+      spanish: ¿No es ya tu piedad tu confianza? ¿No es la rectitud de los caminos la
+        esperanza tuya?
+      greek-lxx: πότερον οὐχ ὁ φόβος σού ἐστιν ἐν ἀφροσύνῃ καὶ ἡ ἐλπίς σου καὶ ἡ
+        ἀκακία τῆς ὁδοῦ σου
+      st_text: Богобоязненность твоя не должна ли быть твоею надеждою, и непорочность
+        путей твоих - упованием твоим?
+  - id: 19736
+    number: 7
+    bookId: 21
+    text: Вспомни же, погибал ли кто невинный, и где праведные бывали искореняемы?
+    chapter: 4
+    chapterId: 480
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Помяни убо, кто чист сый погибе? или когда истиннии вси из корене
+        погибоша?
+      averincev: "Припомни: когда чистый погиб и где справедливый был стерт?"
+      ungerov: Вспомни же, кто, будучи чистым, погиб? или когда праведные всецело
+        искоренялись и погибали?
+      csya_old: Помzни2 ў2бо, кто2 чи1стъ сы1й поги1бе; и3ли2 когдA и4стинніи вси2
+        и3з8 ко1рене погибо1ша;
+      sovr_rbo: "Вспомни: погибал ли кто безвинно? Где честные люди пропадали?"
+      latin: Recordare, obsecro te, quis umquam innocens periit; aut quando recti
+        deleti sunt?
+      ukr: Пригадай но, чи гинув невинний, і де праведні вигублені?
+      nkjv: '"Remember now, who ever perished being innocent? Or where were the
+        upright ever cut off?'
+      desnitsky: "Вспомни: погибал ли кто безвинно? Где честные люди пропадали?"
+      mt: ‫    זְכָר־נָא מִי הוּא נָקִי אָבָד וְאֵיפֹה יְשָׁרִים נִכְחָדוּ׃ ‬
+      romana: Ia adu-ti aminte, care nevinovat s-a prapadit si unde le-a pierit urma
+        celor drepti in fala lui Dumnezeu?
+      francais: "Cherche dans ton souvenir: quel est l'innocent qui a péri? Quels sont
+        les justes qui ont été exterminés?"
+      italian: "Ricordalo: quale innocente è mai perito e quando mai furon distrutti
+        gli uomini retti?"
+      old_georgian: "აწ მოიჴსენე: ვინმე წმიდა იყო და წარწყმდა, ანუ ოდეს სადა
+        ჭეშმარიტნი ძირითურთ აღიფხურნეს,"
+      portuguese: "Lembra-te agora disto: qual o inocente que jamais pereceu? E onde
+        foram os retos destruídos?"
+      polish: Przypomnij, czy zginął kto prawy? Gdzie sprawiedliwych zgładzono?
+      turkish: "«Düşün biraz: Hangi suçsuz yok oldu, Nerede doğrular yıkıma uğradı?"
+      nrt: Подумай, случалось ли гибнуть праведнику? Были ли справедливые уничтожены?
+      Macarius: Вспомни же, кто тот невинный, который погиб, и где были искоренены
+        праведные?
+      serbian: Опомени се ко је прав погинуо, и гдје су праведни истријебљени?
+      bulgarian: Спомни си, погивал ли е някой невинен, и де праведните са бивали
+        изкоренявани?
+      deutsch: Gedenke doch, wo ist ein Unschuldiger umgekommen? oder wo sind die
+        Gerechten je vertilgt?
+      ukr2: Згадай лишень, хто гинув, бувши безвинний, | і де праведні бували знищені?
+      ukr3: Згадай же сам, хто погибав безвинний, і праведних коли викоренювано?
+      bel_syomukha: Згадай жа, ці гінуў хто невінаваты, і дзе праведных выкарчоўвалі б?
+      spbda: "Вспомни же, погиб ли кто невинный\r\rи где праведные бывали
+        искореняемыми?"
+      lev-khv: Вспомни же, погиб ли кто невинный, и где праведные были искореняемы?
+      czech: Jen se rozpomen, kdo z nevinnych kdy zhynul? Kde upadli primi do zahuby?
+      spanish: "Recuerda bien: ¿Qué inocente pereció? ¿Qué justos fueron exterminados?"
+      greek-lxx: μνήσθητι οὖν τίς καθαρὸς ὢν ἀπώλετο ἢ πότε ἀληθινοὶ ὁλόρριζοι ἀπώλοντο
+      st_text: Вспомни же, погибал ли кто невинный, и где праведные бывали искореняемы?
+  - id: 19737
+    number: 8
+    bookId: 21
+    text: Как я видал, то оравшие нечестие и сеявшие зло пожинают его;
+    chapter: 4
+    chapterId: 480
+    parallels:
+      - verseId: 19059
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 15
+        short: Иов:15:35
+      - verseId: 32191
+        bookId: 22
+        bookCode: psaltir
+        chapter: 7
+        short: Пс:7:15
+      - verseId: 30910
+        bookId: 22
+        bookCode: psaltir
+        chapter: 128
+        short: Пс:128:3
+      - verseId: 29763
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 22
+        short: Притч:22:8
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Якоже видех орющих неподобная, сеющии же я болезни пожнут себе,
+      averincev: Насколько я видел, пахарь беды и сеятель зол пожнут посев.
+      ungerov: "Как я видел замышлявших нечестие: сеявшие его пожинали себе болезни."
+      csya_old: Ћкоже ви1дэхъ њрю1щихъ неподHбнаz, сёющіи же | бwлёзни по1жнутъ себЁ,
+      sovr_rbo: "Видел я: кто в борозды греха сеет горе, сам его плоды пожинает;"
+      latin: Quin potius vidi eos qui operantur iniquitatem, et seminant dolores, et
+        metunt eos,
+      ukr: "Як я бачив таких, що орали були беззаконня, та сіяли кривду, то й жали
+        її:"
+      nkjv: Even as I have seen, Those who plow iniquity And sow trouble reap the
+        same.
+      desnitsky: "Видел я: кто в борозды греха сеет горе, сам его плоды пожинает;"
+      mt: ‫    כַּאֲשֶׁר רָאִיתִי חֹרְשֵׁי אָוֶן וְזֹרְעֵי עָמָל יִקְצְרֻהוּ׃ ‬
+      romana: Dupa cum am vazut eu, numai cei ce ara nelegiuirea si seamana rautatea
+        au parte de asemenea roade.
+      francais: Pour moi, je l'ai vu, ceux qui labourent l'iniquité Et qui sèment
+        l'injustice en moissonnent les fruits;
+      italian: Per quanto io ho visto, chi coltiva iniquità, chi semina affanni, li
+        raccoglie.
+      old_georgian: ვითარცასახედ ვიხილენ, რომელნი-იგი უჯეროსა ჴნვიდეს, ხოლო რომელნი
+        სთესვენ მას, სალმობაჲ მოიმკონ.
+      portuguese: Conforme tenho visto, os que lavram iniquidade e semeiam o mal segam
+        o mesmo.
+      polish: O ile wiadomo, złoczyńca, który sieje nieprawość, zbiera z niej plon.
+      turkish: Benim gördüğüm kadarıyla, fesat sürenler, Kötülük tohumu ekenler
+        ektiklerini biçiyor.
+      nrt: Я видел, что те, кто вспахивает неправду и сеет беду, их и пожинают.
+      Macarius: "Как я видал, оравшие беду и сеявшие скорбь пожинают ее:"
+      serbian: Како сам ја видио, који ору муку и сију невољу, то и жању.
+      bulgarian: Както съм виждал, които са орали нечестие и сели зло, него пожънват;
+      deutsch: "Wie ich wohl gesehen habe: die da Mühe pflügen und Unglück säten,
+        ernteten es auch ein;"
+      ukr2: "Оскільки сам я бачив: хто орав лихо | й сіяв загибель, той пожинав їх."
+      ukr3: Я сам бачив, що хто в безбожностї орав і сїяв лихо, той сам його й
+        пожинав.
+      bel_syomukha: Як я бачыў, дык тыя, што аралі бязбожнае і сеялі ліхое, жнуць яго;
+      spbda: "Как я видал, оравшие нечестие\r\rи сеявшие зло пожинают его,"
+      lev-khv: Как я видал, оравшие нечестие и сеявшие зло пожинают его,
+      czech: Pokud jsem ja videl, jen ti, kdo se obiraji nicemnostmi, ti, kdo
+        rozsivaji trapeni, je take sklidi.
+      spanish: Por lo que siempre vi, los que aran la iniquidad y siembran la
+        desventura, la cosechan.
+      greek-lxx: καθ᾿ ὃν τρόπον εἶδον τοὺς ἀροτριῶντας τὰ ἄτοπα οἱ δὲ σπείροντες αὐτὰ
+        ὀδύνας θεριοῦσιν ἑαυτοῖς
+      st_text: Как я видал, то оравшие нечестие и сеявшие зло пожинают его;
+  - id: 19738
+    number: 9
+    bookId: 21
+    text: от дуновения Божия погибают и от духа гнева Его исчезают.
+    chapter: 4
+    chapterId: 480
+    parallels:
+      - verseId: 4243
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 22
+        short: 2 Цар:22:16
+      - verseId: 19054
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 15
+        short: Иов:15:30
+      - verseId: 20024
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 11
+        short: Ис:11:4
+      - verseId: 4963
+        bookId: 71
+        bookCode: 2oe-poslanie-k-fessalonikijcam-ap-pavla
+        chapter: 2
+        short: 2 Фес:2:8
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: от повеления Господня погибнут, от духа же гнева его изчезнут.
+      averincev: От дуновенья Божья сгинут они, истают от дыханья гнева Его.
+      ungerov: По повелению Божию, они погибнут, от гневнаго дуновения Его исчезнут.
+      csya_old: t повелёніz гDнz поги1бнутъ, t д¦а же гнёва є3гw2 и3сче1знутъ.
+      sovr_rbo: гибнет он от Божьего дыхания, исчезает от дуновения Его гнева.
+      latin: flante Deo perisse, et spiritu irae ejus esse consumptos.
+      ukr: вони гинуть від подиху Божого, і від духу гнівного Його погибають!
+      nkjv: By the blast of God they perish, And by the breath of His anger they are
+        consumed.
+      desnitsky: гибнет он от Божьего дыхания, исчезает от дуновения Его гнева.
+      mt: ‫    מִנִּשְׁמַת אֱלוֹהַ יֹאבֵדוּ וּמֵרוּחַ אַפּוֹ יִכְלוּ׃ ‬
+      romana: La porunca Domnului, ei vor pieri, de suflarea maniei Lui se vor stinge.
+      francais: Ils périssent par le souffle de Dieu, Ils sont consumés par le vent de
+        sa colère,
+      italian: A un soffio di Dio periscono e dallo sfogo della sua ira sono annientati.
+      old_georgian: ბრძანებითა ღმრთისაჲთა წარწყმდენ და სულითა რისხვისა მისისათა განირყუნეს.
+      portuguese: Pelo sopro de Deus perecem, e pela rajada da sua ira são consumidos.
+      polish: "Od gniewu Boga on ginie, upada od gniewu Jego oburzenia:"
+      turkish: Tanrı'nın soluğuyla yok oluyor, Öfkesinin rüzgarıyla tükeniyorlar.
+      nrt: От дуновения Божьего исчезают они и от дыхания Его гнева погибают.
+      Macarius: От дуновения Божия погибают, и от духа гнева Его исчезают.
+      serbian: Од дихања Божијега гину, и од даха ноздара његовијех нестаје их.
+      bulgarian: от духването Божие погиват, и от духа на гнева Му изчезват.
+      deutsch: durch den Odem Gottes sind sie umgekommen und vom Geist seines Zorns
+        vertilgt.
+      ukr2: Від Божого подуву вони гинуть,| від подиху гніву його зникають.
+      ukr3: Такі від подуву Божого погибають, а від духа гнїву його зникають.
+      bel_syomukha: ад павеву Божага гінуць і ад духу гневу Ягонага чэзнуць.
+      spbda: "от дуновения Божия погибают,\r\rи от духа гнева Его исчезают."
+      lev-khv: От дуновения Божия погибают и от духа гнева Его исчезают.
+      czech: Hynou Bozim dechem, kdyz zavane jeho hnev, je s nimi konec.
+      spanish: Bajo el aliento de Dios perecen, desaparecen al soplo de su nariz.
+      greek-lxx: ἀπὸ προστάγματος Κυρίου ἀπολοῦνται ἀπὸ δὲ πνεύματος ὀργῆς αὐτοῦ
+        ἀφανισθήσονται
+      st_text: от дуновения Божия погибают и от духа гнева Его исчезают.
+  - id: 19739
+    number: 10
+    bookId: 21
+    text: Рев льва и голос рыкающего <i>умолкает</i>, и зубы скимнов сокрушаются;
+    chapter: 4
+    chapterId: 480
+    parallels:
+      - verseId: 31962
+        bookId: 22
+        bookCode: psaltir
+        chapter: 57
+        short: Пс:57:7
+      - verseId: 20880
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 5
+        short: Ис:5:29
+      - verseId: 26869
+        bookId: 41
+        bookCode: kniga-proroka-nauma
+        chapter: 2
+        short: Наум:2:12
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Сила львова, глас же львицы, веселие же змиев угасе:"
+      averincev: Глас льва, и рычащего зык, и зубы львят исчезнут;
+      ungerov: Сила льва, рев львицы и шипение змей прекратились.
+      csya_old: "Си1ла льво1ва, глaсъ же льви1цы, весе1ліе же ѕміє1въ ўгасе2:"
+      sovr_rbo: Львы рычат в полный голос, но вырваны у львят зубы;
+      latin: Rugitus leonis, et vox leaenae, et dentes catulorum leonum contriti sunt.
+      ukr: Левине ричання й рик лютого лева минає, і левчукам вилущаються зуби.
+      nkjv: The roaring of the lion, The voice of the fierce lion, And the teeth of
+        the young lions are broken.
+      desnitsky: Львы рычат в полный голос, но вырваны у львят зубы;
+      mt: ‫    שַׁאֲגַת אַרְיֵה וְקוֹל שָׁחַל וְשִׁנֵּי כְפִירִים נִתָּעוּ׃ ‬
+      romana: Racnetul leului si glasul leopardului, precum si dintii puilor de lei se
+        sfarama.
+      francais: Le rugissement des lions prend fin, Les dents des lionceaux sont brisées;
+      italian: Il ruggito del leone e l'urlo del leopardo e i denti dei leoncelli sono
+        frantumati.
+      old_georgian: ძალი ლომისაჲ და ჴმაჲ ლომისა ძუვისაჲ, ზახებაჲ ვეშაპთაჲ დაშრტა.
+      portuguese: Cessa o rugido do leão, e a voz do leão feroz; os dentes dos
+        leõezinhos se quebram.
+      polish: ryk lwa, wrzask lwicy, łamią się i zęby lwiątek;
+      turkish: Aslanın kükremesi, homurtusu kesildi, Dişleri kırıldı genç aslanların.
+      nrt: Пусть львы рычат и ревут – сломаны будут зубы у свирепых львов.
+      Macarius: Рев льва и голос рыкающего!.. и зубы скимнов сокрушены!
+      serbian: Рика лаву, и глас љутом лаву и зуби лавићима сатиру се.
+      bulgarian: Ревът на лъва и гласът на рикащия замлъква, и зъбите на лъвчетата се
+        изкъртват;
+      deutsch: Das Brüllen der Löwen und die Stimme der großen Löwen und die Zähne der
+        jungen Löwen sind zerbrochen.
+      ukr2: Ревіння лева й голос леопарда вмовкає, | і зуби левенят кришаться.
+      ukr3: Рев лева й голос рикаючого вмовкає, і зуби в левчуків кришаться;
+      bel_syomukha: Рык ільва і голас таго, хто рыкае, моўкне, і зубы львянят крышацца;
+      spbda: "Рев льва и голос рыкающаго умолкает,\r\rи зубы скимнов сокрушаются;"
+      lev-khv: Рев льва и голос рыкающаго <i><i>умолк</i></i>, и зубы скимнов сокрушены;
+      czech: Lev rve, knuci mlady lvicek, lvicatum jsou zuby vyrazeny.
+      spanish: Los rugidos del león, los bramidos de la fiera, los dientes de los
+        cachorros de león, son quebrantados.
+      greek-lxx: σθένος λέοντος φωνὴ δὲ λεαίνης γαυρίαμα δὲ δρακόντων ἐσβέσθη
+      st_text: Рев льва и голос рыкающего <i>умолкает</i>, и зубы скимнов сокрушаются;
+  - id: 19740
+    number: 11
+    bookId: 21
+    text: могучий лев погибает без добычи, и дети львицы рассеиваются.
+    chapter: 4
+    chapterId: 480
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: мраволев погибе, занеже не имеяше брашна, скимни же львовы оставиша друг
+        другу.
+      averincev: и погиб без добычи ярый лев, и рассеяны отродья львицы.
+      ungerov: Могучий лев погиб, не имея пищи, а львята покинули друг друга.
+      csya_old: мраволе1въ поги1бе, зане1же не и3мёzше брaшна, скv1мни же львHвы
+        њстaвиша дрyгъ дрyгу.
+      sovr_rbo: погибает лев без добычи, и разбегаются детеныши львицы.
+      latin: Tigris periit, eo quod non haberet praedam, et catuli leonis dissipati
+        sunt.
+      ukr: Гине лев, як немає здобичі, і левенята левиці втікають.
+      nkjv: The old lion perishes for lack of prey, And the cubs of the lioness are
+        scattered.
+      desnitsky: погибает лев без добычи, и разбегаются детеныши львицы.
+      mt: ‫    לַיִשׁ אֹבֵד מִבְּלִי־טָרֶף וּבְנֵי לָבִיא יִתְפָּרָדוּ׃ ‬
+      romana: Leul batran moare ca nu mai are ce manca si puii leoaicei se risipesc.
+      francais: Le lion périt faute de proie, Et les petits de la lionne se dispersent.
+      italian: Il leone è perito per mancanza di preda e i figli della leonessa sono
+        stati dispersi.
+      old_georgian: ჯინჭველლომი მოისპო, რამეთუ არა იყო მისა საზრდელ. ლეკუთა ლომისათა
+        დაუტევეს ერთმანერთი.
+      portuguese: Perece o leão velho por falta de presa, e os filhotes da leoa andam
+        dispersos.
+      polish: lew ginie z braku łupu, a małe lwicy idą w rozsypkę.
+      turkish: Aslan av bulamadığı için yok oluyor, Dişi aslanın yavruları dağılıyor.
+      nrt: Гибнет лев без добычи, и разбежались детеныши львицы.
+      Macarius: Могучий лев погибает без корму, и дети львицы рассеиваются.
+      serbian: Лав гине немајући лова, и лавићи расипају се.
+      bulgarian: силният лъв загива по липса на плячка, и децата на лъвицата се
+        разпръсват.
+      deutsch: Der Löwe ist umgekommen, daß er nicht mehr raubt, und die Jungen der
+        Löwin sind zerstreut.
+      ukr2: Лев гине без здобичі | й левенята йдуть урозтіч.
+      ukr3: Могутний лев гине без добичі, й щенята левицї розбігаються.
+      bel_syomukha: магутны леў гіне без здабычы, і дзеці ільвіцы расьсейваюцца.
+      spbda: "могучий лев погибает без корму,\r\rи дети львицы разсеяваются."
+      lev-khv: Могучий лев погиб без корму, и дети львицы разсеяны.
+      czech: Bez ulovku hyne lev a lvi mladata se rozebehnou.
+      spanish: Perece el león falto de presa, y se dispersan los cachorros de la leona.
+      greek-lxx: μυρμηκολέων ὤλετο παρὰ τὸ μὴ ἔχειν βοράν σκύμνοι δὲ λεόντων ἔλιπον
+        ἀλλήλους
+      st_text: могучий лев погибает без добычи, и дети львицы рассеиваются.
+  - id: 19741
+    number: 12
+    bookId: 21
+    text: И вот, ко мне тайно принеслось слово, и ухо мое приняло нечто от него.
+    chapter: 4
+    chapterId: 480
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Аще же глагол кий истинен бе во словесех твоих, ни коеже бы от сих тя
+        сретило зло. не приимет ли ухо мое предивных от него?
+      averincev: И прокралось слово ко мне - лишь отзвук до уха дошел -
+      ungerov: Если бы истина была в словах твоих, то никакое из сих бедствий не
+        постигло бы тебя. Не восприимает ли ухо мое дивных (откровений) от Него?
+      csya_old: Ѓще же глаго1лъ кjй и4стиненъ бЁ во словесёхъ твои1хъ, нико1еже бы2 t
+        си1хъ тS срётило ѕло2. не пріи1метъ ли ќхо мое2 преди1вныхъ t негw2;
+      sovr_rbo: Известно мне стало тайное слово, ухо мое уловило шепот —
+      latin: Porro ad me dictum est verbum absconditum, et quasi furtive suscepit
+        auris mea venas susurri ejus.
+      ukr: І закрадається слово до мене, і моє ухо почуло ось дещо від нього.
+      nkjv: '"Now a word was secretly brought to me, And my ear received a whisper of
+        it.'
+      desnitsky: Известно мне стало тайное слово, ухо мое уловило шепот –
+      mt: ‫    וְאֵלַי דָּבָר יְגֻנָּב וַתִּקַּח אָזְנִי שֵׁמֶץ מֶנְהוּ׃ ‬
+      romana: O soapta a razbit pana la mine si urechea mea a prins ceva din ea.
+      francais: Une parole est arrivée furtivement jusqu'à moi, Et mon oreille en a
+        recueilli les sons légers.
+      italian: A me fu recata, furtiva, una parola e il mio orecchio ne percepì il
+        lieve sussurro.
+      old_georgian: უკუეთუმცა სიტყუაჲ რაჲმე ჭეშმარიტი ყოფილ იყო თქმულთა შინა შენთა,
+        არამცა რაჲ ბოროტი შემთხუეულ იყო შენდა. აწ არა ნუ უფალი არს, რომელმან
+        ასწავის გულისჴმის-ყოფაჲ და მეცნიერებაჲ.
+      portuguese: Ora, uma palavra se me disse em segredo, e os meus ouvidos
+        perceberam um sussurro dela.
+      polish: Doszło mnie tajemne słowo, jakiś szmer przyjęło me ucho
+      turkish: "«Bir söz gizlice erişti bana,\rFısıltısı kulağıma ulaştı."
+      nrt: Ко мне прокралось слово, но я внял лишь отзвук его.
+      Macarius: И ко мне прокралось слово, и приняло ухо мое шепот его.
+      serbian: Још дође тајно до мене ријеч, и ухо моје дочује мало.
+      bulgarian: И ето, към мене скришом долетя дума, и ухото ми долови нещо от нея.
+      deutsch: Und zu mir ist gekommen ein heimlich Wort, und mein Ohr hat ein
+        Wörtlein davon empfangen.
+      ukr2: І надійшло до мене стиха слово, | і я почув ледь-неледь щось із нього,
+      ukr3: І надійшло до мене зтиха слово (Боже), й я почув його ледь-неледь ухом.
+      bel_syomukha: І вось да мяне таемна данеслася слова, і вуха маё прыняло нешта ад яго.
+      spbda: "И ко мне-же тайно принеслось слово,\r\rи приняло ухо мое нечто от него."
+      lev-khv: И ко мне же тайно принеслось слово, и приняло ухо мое нечто от него.
+      czech: Cosi se ke mne prikradlo, me ucho zachytilo selest;
+      spanish: Llegóme calladamente un hablar; mis orejas percibieron sólo un murmullo,
+      greek-lxx: εἰ δέ τι ῥῆμα ἀληθινὸν ἐγεγόνει ἐν λόγοις σου οὐθὲν ἄν σοι τούτων
+        κακὸν ἀπήντησεν πότερον οὐ δέξεταί μου τὸ οὖς ἐξαίσια παρ᾿ αὐτοῦ
+      st_text: И вот, ко мне тайно принеслось слово, и ухо мое приняло нечто от него.
+  - id: 19742
+    number: 13
+    bookId: 21
+    text: Среди размышлений о ночных видениях, когда сон находит на людей,
+    chapter: 4
+    chapterId: 480
+    parallels:
+      - verseId: 19525
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 33
+        short: Иов:33:15
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Страхом же и гласом нощным, нападающь страх на человеки,
+      averincev: при раздумьях от видений, в ночи, когда сон людей бывает глубок;
+      ungerov: Когда испытывается страх и слышится звук ночной, нападает ужас на людей,
+      csya_old: Стрaхомъ же и3 глaсомъ нощны1мъ, напaдающь стрaхъ на человёки,
+      sovr_rbo: среди тревожных ночных видений, когда крепким сном спали люди.
+      latin: In horrore visionis nocturnae, quando solet sopor occupare homines,
+      ukr: у роздумуваннях над нічними видіннями, коли міцний сон обіймає людей,
+      nkjv: In disquieting thoughts from the visions of the night, When deep sleep
+        falls on men,
+      desnitsky: среди тревожных ночных видений, когда крепким сном спали люди.
+      mt: ‫    בִּשְׂעִפִּים מֵחֶזְיֹנוֹת לָיְלָה בִּנְפֹל תַּרְדֵּמָה עַל־אֲנָשִׁים׃
+        ‬
+      romana: In spaimele care vin din nalucirile noptii, atunci cand somn adanc se
+        lasa peste oameni,
+      francais: Au moment où les visions de la nuit agitent la pensée, Quand les
+        hommes sont livrés à un profond sommeil,
+      italian: Nei fantasmi, tra visioni notturne, quando grava sugli uomini il sonno,
+      old_georgian: შიშითა და ოხრითა ღამისათა დაეცის შიში კაცთა ზედა.
+      portuguese: Entre pensamentos nascidos de visões noturnas, quando cai sobre os
+        homens o sono profundo,
+      polish: w zgłębianiu nocnych rozmyślań, gdy sen człowiekiem owładnął.
+      turkish: Gece rüyaların doğurduğu düşünceler içinde, İnsanları ağır uyku bastığı
+        zaman,
+      nrt: Среди беспокойных ночных видений, когда людьми владеет глубокий сон,
+      Macarius: Во время дум, прежде видений ночных, когда находит глубокий сон на
+        человеков,
+      serbian: У мислима о ноћнијем утварама, кад тврд сан пада на људе,
+      bulgarian: Сред размишления за нощни видения, когато сън наляга човеците,
+      deutsch: Da ich Gesichte betrachtete in der Nacht, wenn der Schlaf auf die Leute
+        fällt,
+      ukr2: серед примар, нічних привидів, | як на людей находить сон глибокий.
+      ukr3: Серед розгадування над ночними привидами, коли сон на людей находить,
+      bel_syomukha: Сярод разважаньняў пра начныя відзежы, калі сон ахінае людзей,
+      spbda: "При размышлениях, прежде видений ночных,\r\rкогда нападает глубокий сон
+        на человеков,"
+      lev-khv: При размышлениях от видений ночных, когда нападает глубокий сон на
+        человеков,
+      czech: pri premitani o nocnich videnich, kdyz na lidi se snasi mrakota,
+      spanish: al tiempo en que agitan el alma las visiones nocturnas, cuando duermen
+        los hombres profundo sueño.
+      greek-lxx: φόβοι δὲ καὶ ἠχὼ νυκτερινή ἐπιπίπτων φόβος ἐπ᾿ ἀνθρώπους
+      st_text: Среди размышлений о ночных видениях, когда сон находит на людей,
+  - id: 19743
+    number: 14
+    bookId: 21
+    text: объял меня ужас и трепет и потряс все кости мои.
+    chapter: 4
+    chapterId: 480
+    parallels:
+      - verseId: 12508
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 10
+        short: Дан:10:8
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "ужас же мя срете и трепет, и зело кости моя стрясе:"
+      averincev: схватил меня страх, и дрожь кости мои сотрясла,
+      ungerov: (Тогда) ужас объял меня и трепет, и сильно потряс кости мои,
+      csya_old: "ќжасъ же мS срёте и3 тре1петъ, и3 ѕэлw2 кHсти мо‰ стрzсе2:"
+      sovr_rbo: Охватили меня дрожь и ужас, до костей пробрали,
+      latin: pavor tenuit me, et tremor, et omnia ossa mea perterrita sunt;
+      ukr: спіткав мене жах та тремтіння, і багато костей моїх він струсонув,
+      nkjv: Fear came upon me, and trembling, Which made all my bones shake.
+      desnitsky: Охватили меня дрожь и ужас, до костей пробрали,
+      mt: ‫    פַּחַד קְרָאַנִי וּרְעָדָה וְרֹב עַצְמוֹתַי הִפְחִיד׃ ‬
+      romana: Cutremur m-a apucat si fiori mi-au scuturat toate oasele.
+      francais: Je fus saisi de frayeur et d'épouvante, Et tous mes os tremblèrent.
+      italian: terrore mi prese e spavento e tutte le ossa mi fece tremare;
+      old_georgian: ზარი შემემთხჳა მე და შიში და დიდად ძუალნი ჩემნი შეაძრწუნნეს
+      portuguese: sobrevieram-me o espanto e o tremor, que fizeram estremecer todos os
+        meus ossos.
+      polish: Strach mnie ogarnął i drżenie, że wszystkie się kości zatrzęsły,
+      turkish: "Beni dehşet ve titreme aldı,\rBütün kemiklerimi sarstı."
+      nrt: меня объяли страх и трепет, я задрожал всем телом.
+      Macarius: Ужас объял меня и трепет, и все кости мои потряс.
+      serbian: Страх подузе ме и дрхат, од којега устрепташе све кости моје,
+      bulgarian: мене обхвана ужас и трепет и разтресе всичките ми кости.
+      deutsch: da kam mich Furcht und Zittern an, und alle meine Gebeine erschraken.
+      ukr2: Я задрижав і затремтів у страсі, | всі кості мої стряслися,
+      ukr3: Я задрожав і затремтїв у страсї, і всї кістки в мене затрусились;
+      bel_syomukha: агарнуў мяне жах і дрыгат і скалануў усе косьці мае.
+      spbda: "ужас объял меня и трепет,\r\rи все кости мои потряс."
+      lev-khv: объял меня и трепет, и все кости мои потряс.
+      czech: prepadl me strach a trasl jsem se, vsechny kosti se mi strachem chvely,
+      spanish: Apoderóse de mí el terror y el espanto, temblaron todos mis huesos;
+      greek-lxx: φρίκη δέ μοι συνήντησεν καὶ τρόμος καὶ μεγάλως μου τὰ ὀστᾶ συνέσεισεν
+      st_text: объял меня ужас и трепет и потряс все кости мои.
+  - id: 19744
+    number: 15
+    bookId: 21
+    text: И дух прошел надо мною; дыбом стали волосы на мне.
+    chapter: 4
+    chapterId: 480
+    parallels:
+      - verseId: 33885
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 27
+        short: Сир:27:14
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и дух на лице ми найде: устрашишася же ми власи и плоти,"
+      averincev: и овеял лицо моё дух, и дыбом поднялись власы.
+      ungerov: И дух на лице мое повеял, поднялись волоса мои и (задрожало) тело.
+      csya_old: "и3 дyхъ на лице1 ми нaйде: ўстраши1шасz же ми2 власи2 и3 плHти,"
+      sovr_rbo: дух мне в лицо повеял, и волосы встали дыбом.
+      latin: et cum spiritus, me praesente, transiret, inhorruerunt pili carnis meae.
+      ukr: і дух перейшов по обличчі моїм, стало дуба волосся на тілі моїм...
+      nkjv: Then a spirit passed before my face; The hair on my body stood up.
+      desnitsky: дух мне в лицо повеял и волосы встали дыбом.
+      mt: ‫    וְרוּחַ עַל־פָּנַי יַחֲלֹף תְּסַמֵּר שַׂעֲרַת בְּשָׂרִי׃ ‬
+      romana: Atunci un duh a trecut prin fata mea; tot parul mi s-a zbarlit de groaza.
+      francais: Un esprit passa près de moi... Tous mes cheveux se hérissèrent...
+      italian: un vento mi passò sulla faccia, e il pelo si drizzò sulla mia carne...
+      old_georgian: და სული პირად ჩემდა მოიწია. შეძრწუნდეს თმანი ჩემნი და ჴორცნი.
+      portuguese: Então um espírito passou por diante de mim; arrepiaram-se os cabelos
+        do meu corpo.
+      polish: tchnienie mi twarz owionęło, włosy się na mnie zjeżyły.
+      turkish: "Önümden bir ruh geçti,\rTüylerim ürperdi."
+      nrt: Дух овеял мое лицо, и волосы мои встали дыбом.
+      Macarius: И дух предо мною пронесся; стали дыбом волоса на теле моем.
+      serbian: И дух прође испред мене, и длаке на тијелу мојем накостријешише се.
+      bulgarian: И дух премина над мене; космите ми настръхнаха.
+      deutsch: Und da der Geist an mir vorüberging standen mir die Haare zu Berge an
+        meinem Leibe.
+      ukr2: і над моїм обличчям промайнув вітер, | волосся в мене стало дуба.
+      ukr3: І перейшов дух понад мене, й волоссє стало в мене диба.
+      bel_syomukha: І дух прайшоў над мною; дыбарам сталі валасы на мне.
+      spbda: "И дух предо мною пронесся;\r\rстали дыбом волоса на теле моем."
+      lev-khv: И дух предо мною пронесся; стали дыбом волоса на теле моем.
+      czech: kdyz jakysi duch me mijel, chlupy se mi zjezily po tele.
+      spanish: un viento azotó mi rostro, erizó el pelo de mi carne.
+      greek-lxx: καὶ πνεῦμα ἐπὶ πρόσωπόν μου ἐπῆλθεν ἔφριξαν δέ μου τρίχες καὶ σάρκες
+      st_text: И дух прошел надо мною; дыбом стали волосы на мне.
+  - id: 19745
+    number: 16
+    bookId: 21
+    text: "Он стал, - но я не распознал вида его, - только облик был пред глазами
+      моими; тихое веяние, - и я слышу голос:"
+    chapter: 4
+    chapterId: 480
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "востах и не разумех, видех, и не бе обличия пред очима моима, но токмо
+        дух тих и глас слышах:"
+      averincev: "И стал пред очами зрак, - не распознать вида его, - лишь повеяло, и
+        слышу слова:"
+      ungerov: "Я встал и не уразумел, видел, и не было облика пред глазами моими, но
+        только слышал тихое веяние и голосъ:"
+      csya_old: "востaхъ и3 не разумёхъ, ви1дэхъ, и3 не бЁ њбли1чіz пред8 nчи1ма
+        мои1ма, но то1кмw дyхъ ти1хъ и3 глaсъ слы1шахъ:"
+      sovr_rbo: "Он был здесь, но не различил я облика — передо мной только смутный
+        образ. Тишина. И услышал я голос:"
+      latin: Stetit quidam, cujus non agnoscebam vultum, imago coram oculis meis, et
+        vocem quasi aurae lenis audivi.
+      ukr: "Він стояв, але я не пізнав його вигляду, образ навпроти очей моїх був, і
+        тихий голос почув я:"
+      nkjv: "It stood still, But I could not discern its appearance. A form was before
+        my eyes; There was silence; Then I heard a voice saying:"
+      desnitsky: "Он был здесь, но не различил я облика – передо мной только смутный
+        образ. Тишина. И услышал я голос:"
+      mt: ‫    יַעֲמֹד וְלֹא־אַכִּיר מַרְאֵהוּ תְּמוּנָה לְנֶגֶד עֵינָי דְּמָמָה
+        וָקוֹל אֶשְׁמָע׃ ‬
+      romana: "A stat drept in picioare, dar n-am stiut cine este; o umbra este
+        inaintea ochilor mei, si aud o voce usoara care zice:"
+      francais: "Une figure d'un aspect inconnu était devant mes yeux, Et j'entendis
+        une voix qui murmurait doucement:"
+      italian: "Stava là ritto uno, di cui non riconobbi l'aspetto, un fantasma stava
+        davanti ai miei occhi... Un sussurro..., e una voce mi si fece sentire:"
+      old_georgian: და აღვდეგ და არა ვიცან თავი ჩემი. ვიხილე და არა იყო ხატი წინაშე
+        თუალთა ჩემთა, არამედ ნიავი და ჴმაჲ ხოლო მესმოდა.
+      portuguese: "Parou ele, mas não pude discernir a sua aparência; um vulto estava
+        diante dos meus olhos; houve silêncio,\rentão ouvi uma voz que dizia:"
+      polish: "Stał. Nie poznałem twarzy. Jakaś postać przed mymi oczami. Szelest. I
+        głos\rdosłyszałem:"
+      turkish: "Durdu, ama ne olduğunu seçemedim. Bir suret duruyordu gözümün önünde,
+        Çıt çıkmazken bir ses duydum:"
+      nrt: "Он возник, но я не мог понять, кто это. Некий облик явился моим глазам, и
+        услышал я тихий голос:"
+      Macarius: "Стоял, — но я не мог распознать вида его, облик пред глазами моими…
+        тихое веяние… и голос слышу:"
+      serbian: "Стаде, али му не познах лица; прилика бијаше пред очима мојима, и
+        мучећи чух глас:"
+      bulgarian: "Той застана, - но аз не разпознах образа му, - само облик беше пред
+        очите ми; тихо веене, - и аз чувам глас:"
+      deutsch: "Da stand ein Bild vor meinen Augen, und ich kannte seine Gestalt
+        nicht; es war still, und ich hörte eine Stimme:"
+      ukr2: "Став хтось, | виду його я не міг розпізнати, | привид, постать перед
+        очима у мене | і чую тихий голос:"
+      ukr3: "І став хтось - не бачив я лиця його, - тільки тїнь перед очима в мене;
+        тихий повів - і я чую голос:"
+      bel_syomukha: "Ён стаў, - але я не пазнаў твару ягонага, - толькі аблічча было
+        перад вачыма маімі; ціхі павеў, - і я чую голас:"
+      spbda: "Стоял, — но я не мог распознать вида его, —\r\rоблик пред глазами
+        моими;\r\rтихое веяние, и голос слышу:"
+      lev-khv: "Стоял (но я не мог распознать вида его) облик пред глазами моими;
+        тихое веяние, и голос слышу:"
+      czech: "Stanul – ale jeho zjev jsem nerozeznal, jen podoba jakasi stanula pred
+        mym zrakem a v tichu jsem slysel hlas:"
+      spanish: "Se paró (ante mí), pero no reconocí su semblante; estaba ante mis ojos
+        un fantasma, y oí una voz que tenuemente murmuraba:"
+      greek-lxx: ἀνέστην καὶ οὐκ ἐπέγνων εἶδον καὶ οὐκ ἦν μορφὴ πρὸ ὀφθαλμῶν μου ἀλλ᾿
+        ἢ αὔραν καὶ φωνὴν ἤκουον
+      st_text: "Он стал, - но я не распознал вида его, - только облик был пред глазами
+        моими; тихое веяние, - и я слышу голос:"
+  - id: 19746
+    number: 17
+    bookId: 21
+    text: человек праведнее ли Бога? и муж чище ли Творца своего?
+    chapter: 4
+    chapterId: 480
+    parallels:
+      - verseId: 19922
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 9
+        short: Иов:9:2
+      - verseId: 19038
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 15
+        short: Иов:15:14
+      - verseId: 19299
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 25
+        short: Иов:25:4
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: что бо? еда чист будет человек пред Богом? или в делех своих без порока
+        муж?
+      averincev: '"Человек ли пред Богом прав, пред Творцом своим чист ли муж?'
+      ungerov: '"Что же? ужели чист будет человек пред Богом? Или в делах своих (может
+        быть) безпорочным муж"?'
+      csya_old: что1 бо; є3дA чи1стъ бyдетъ человёкъ пред8 бг7омъ; и3ли2 въ дёлэхъ
+        свои1хъ без8 поро1ка мyжъ;
+      sovr_rbo: „Бывает ли человек прав пред Богом? Кто чист пред Создателем?
+      latin: Numquid homo, Dei comparatione, justificabitur? aut factore suo purior
+        erit vir?
+      ukr: Хіба праведніша людина за Бога, хіба чоловік за свойого Творця є чистіший?
+      nkjv: "'Can a mortal be more righteous than God? Can a man be more pure than his
+        Maker? "
+      desnitsky: «Бывает ли человек прав пред Богом? Кто –чист пред Создателем?
+      mt: ‫    הַאֱנוֹשׁ מֵאֱלוֹהַ יִצְדָּק אִם מֵעֹשֵׂהוּ יִטְהַר־גָּבֶר׃ ‬
+      romana: '"Un om poate sa fie drept in fata lui Dumnezeu? O faptura omeneasca
+        este ea curata inaintea Celui ce a zidit-o?'
+      francais: L'homme serait-il juste devant Dieu? Serait-il pur devant celui qui
+        l'a  fait?
+      italian: "\"Può il mortale essere giusto davanti a Dio o innocente l'uomo
+        davanti al suo creatore?"
+      old_georgian: აწ რაჲ? ნუუკუე წმიდა სადამე იყოს კაცი წინაშე უფლისა, ანუ საქმეთა
+        თჳსთაგან უბიწო იყოს კაცი?
+      portuguese: Pode o homem mortal ser justo diante de Deus? Pode o varão ser puro
+        diante do seu Criador?
+      polish: ”Czyż u Boga człowiek jest niewinny, czy u Stwórcy śmiertelnik jest
+        czysty?”
+      turkish: "`Tanrı karşısında insan doğru olabilir mi?\rKendisini yaratanın
+        karşısında temiz çıkabilir mi?"
+      nrt: «Может ли смертный быть пред Богом праведен, а человек – пред Создателем
+        чист?
+      Macarius: «Смертный пред Богом праведен ли? чист ли человек пред Создавшим его?
+      serbian: Еда ли је човјек праведнији од Бога? Еда ли је човјек чистији од Творца
+        својега?
+      bulgarian: човек по-праведен ли е от Бога? И мъж по-чист ли е от своя Творец?
+      deutsch: Wie kann ein Mensch gerecht sein vor Gott? oder ein Mann rein sein vor
+        dem, der ihn gemacht hat?
+      ukr2: Чи ж може бути чоловік праведний перед Богом? | Чи може смертний перед
+        своїм Творцем бути чистим?
+      ukr3: Чи ж чоловік праведнїйший від Бога? й людина чистійша за Творця свого?
+      bel_syomukha: ці ж чалавек справядлівейшы за Бога? і мужчына ці ж чысьцейшы за
+        Творцу свайго?
+      spbda: "Человек — праведнее ли он Бога?\r\rчище ли муж Творца своего?"
+      lev-khv: Человек, — праведнее ли он Бога? чище ли муж Творца своего?
+      czech: ‚Coz je clovek spravedlivejsi nez Buh, cistsi muz nez jeho Ucinitel?'
+      spanish: ¿Podrá el hombre presentarse como justo ante Dios? ¿Será puro el varón
+        ante su Hacedor?
+      greek-lxx: τί γάρ μὴ καθαρὸς ἔσται βροτὸς ἐναντίον Κυρίου ἢ ἀπὸ τῶν ἔργων αὐτοῦ
+        ἄμεμπτος ἀνήρ
+      st_text: человек праведнее ли Бога? и муж чище ли Творца своего?
+  - id: 19747
+    number: 18
+    bookId: 21
+    text: "Вот, Он и слугам Своим не доверяет и в Ангелах Своих усматривает
+      недостатки:"
+    chapter: 4
+    chapterId: 480
+    parallels:
+      - verseId: 19039
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 15
+        short: Иов:15:15
+      - verseId: 6673
+        bookId: 58
+        bookCode: 2oe-poslanie-ap-petra
+        chapter: 2
+        short: 2 Пет:2:4
+      - verseId: 22470
+        bookId: 62
+        bookCode: poslanie-ap-iudy
+        chapter: 1
+        short: Иуд:1:6
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: аще рабом своим не верует, и во ангелех своих стропотно что усмотре,
+      averincev: Вот, не верит Он и Слугам Своим, и в Ангелах обличает порок.
+      ungerov: Если Он и слугам Своим не доверяет и в Ангелах Своих усматривает
+        некоторые недостатки,
+      csya_old: ѓще рабHмъ свои6мъ не вёруетъ, и3 во ѓгг7лэхъ свои1хъ стро1потно что2
+        ўсмотрЁ,
+      sovr_rbo: Даже слугам Своим Он не доверяет, даже в ангелах находит изъяны,
+      latin: Ecce qui serviunt ei, non sunt stabiles, et in angelis suis reperit
+        pravitatem;
+      ukr: Таж рабам Своїм Він не йме віри, і накладає вину й на Своїх Анголів!
+      nkjv: If He puts no trust in His servants, If He charges His angels with error,
+      desnitsky: Даже слугам Своим Он не доверяет, даже в ангелах находит изъяны,
+      mt: ‫    הֵן בַּעֲבָדָיו לֹא יַאֲמִין וּבְמַלְאָכָיו יָשִׂים תָּהֳלָה׃ ‬
+      romana: Daca El nu se increde in slujitorii Sai si daca gaseste vina chiar
+        ingerilor Sai,
+      francais: Si Dieu n'a pas confiance en ses serviteurs, S'il trouve de la folie
+        chez ses anges,
+      italian: Ecco, dei suoi servi egli non si fida e ai suoi angeli imputa difetti;
+      old_georgian: ანუ მონათა თჳსთა არამე არწმუნოს და ანგელოზთათჳს დრკუდ რამე განიზრახა?
+      portuguese: Eis que Deus não confia nos seus servos, e até a seus anjos atribui
+        loucura;
+      polish: "Wszak On sługom swoim nie ufa: i w aniołach braki dostrzega."
+      turkish: Bakın, Tanrı kullarına güvenmez, Meleklerinde hata bulur da,
+      nrt: Если Бог не доверяет даже Своим слугам, если даже в ангелах находит
+        недостатки,
+      Macarius: Се! слугам Своим Он не доверяет; и в Ангелах Своих усматривает
+        недостатки.
+      serbian: Гле, слугама својим не вјерује, и у анђела својих налази недостатака;
+      bulgarian: "Ето, Той и на слугите Си не доверява и у Ангелите Си съглежда
+        недостатъци:"
+      deutsch: "Siehe, unter seinen Knechten ist keiner ohne Tadel, und seine Boten
+        zeiht er der Torheit:"
+      ukr2: Коли і власним слугам він не йме віри | і в ангелів своїх знаходить
+        недоліки,
+      ukr3: Та ж ось він і слугам своїм не йме віри, і в ангелів своїх знаходить хиби;
+      bel_syomukha: "Вось, Ён і слугам Сваім не давярае і ў анёлах Сваіх бачыць заганы:"
+      spbda: "Вот, слугам Своим Он не доверяет;\r\rи в ангелах Своих усматривает
+        недостатки:"
+      lev-khv: Вот, слугам Своим Он не доверяет, и в ангелах Своих усматривает
+        недостатки;
+      czech: Nemuze-li verit vlastnim sluzebnikum, shledava-li omylnost i na andelech,
+      spanish: "Mira: aun a sus ministros no se confía, aun en sus ángeles halla tacha."
+      greek-lxx: εἰ κατὰ παίδων αὐτοῦ οὐ πιστεύει κατὰ δὲ ἀγγέλων αὐτοῦ σκολιόν τι
+        ἐπενόησεν
+      st_text: "Вот, Он и слугам Своим не доверяет и в Ангелах Своих усматривает
+        недостатки:"
+  - id: 19748
+    number: 19
+    bookId: 21
+    text: тем более - в обитающих в храминах из брения, которых основание прах,
+      которые истребляются скорее моли.
+    chapter: 4
+    chapterId: 480
+    parallels:
+      - verseId: 19002
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 13
+        short: Иов:13:28
+      - verseId: 19301
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 25
+        short: Иов:25:6
+      - verseId: 5165
+        bookId: 65
+        bookCode: 2oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 5
+        short: 2 Кор:5:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: живущих же в бренных храминах, от нихже и мы сами от тогожде брения есмы,
+        порази, якоже молие,
+      averincev: Что сказать о тех, чей дом из глины и стоит на пыли? Их раздавят как
+        моль,
+      ungerov: 'То тем более живущих в храминах из брения, — как и мы сами из тогоже
+        брения (созданные)" — Он поражает, как моль:'
+      csya_old: живyщихъ же въ бре1нныхъ хрaминахъ, t ни1хже и3 мы2 сaми t тогHжде
+        бре1ніz є3смы2, порази2, ћкоже мо1ліе,
+      sovr_rbo: а тем более — в тех, кто обитает в домах из глины, стоящих на песке, и
+        кого прихлопнуть — легче моли.
+      latin: quanto magis hi qui habitant domos luteas, qui terrenum habent
+        fundamentum, consumentur velut a tinea!
+      ukr: Що ж тоді мешканці глиняних хат, що в поросі їхня основа? Як міль, вони
+        будуть розчавлені!
+      nkjv: How much more those who dwell in houses of clay, Whose foundation is in
+        the dust, Who are crushed before a moth?
+      desnitsky: а тем более – в тех, кто обитает в домах из глины, стоящих на песке,
+        и кого прихлопнуть – легче моли.
+      mt: ‫    אַף שֹׁכְנֵי בָתֵּי־חֹמֶר אֲשֶׁר־בֶּעָפָר יְסוֹדָם יְדַכְּאוּם
+        לִפְנֵי־עָשׁ׃ ‬
+      romana: Cu cat mai vartos celor ce locuiesc in locuinte de lut, a caror obarsie
+        este in tarana si pe care ii striveste ca pe o molie.
+      francais: Combien plus chez ceux qui habitent des maisons d'argile, Qui tirent
+        leur origine de la poussière, Et qui peuvent être écrasés comme un
+        vermisseau!
+      italian: quanto più a chi abita case di fango, che nella polvere hanno il loro
+        fondamento! Come tarlo sono schiacciati,
+      old_georgian: ხოლო დამკჳდრებულნი იგი სახლსა შინა თიჴისასა, რომელნი-ესე მისვე
+        თიჴისაგანნი ვართ, რავდენ დასცნა იგინი მღილისსახედ.
+      portuguese: quanto mais aos que habitam em casas de lodo, cujo fundamento está
+        no pó, e que são esmagados pela traça!
+      polish: "A cóż mieszkańcy glinianych lepianek, których podstawy na piasku? -
+        Łatwiej\rich zgnieść niż mola."
+      turkish: "Çamur evlerde oturanlara,\rMayası toprak olanlara,\rGüveden kolay
+        ezilenlere mi güvenir?"
+      nrt: то что говорить о живущих в домах из глины, чье основание – прах, кого
+        раздавить легче моли!
+      Macarius: Что же обитающие в домах из брения, которых основание в прахе?.. они
+        были бы истреблены прежде моли,
+      serbian: А камоли у онијех који стоје у кућама земљанијем, којима је темељ на
+        праху и сатиру се брже него мољац.
+      bulgarian: толкова повече у онези, които обитават жилища от кал, чиито основи са
+        прах и които се изтребват по-скоро и от молец.
+      deutsch: wie viel mehr die in Lehmhäusern wohnen und auf Erde gegründet sind und
+        werden von Würmern gefressen!
+      ukr2: оскільки ж їх більше в тих, що мешкають у глиняних хатинах, | підвалини
+        яких у поросі; у тих, що їх, неначе міль, давлять.
+      ukr3: А скільки ж більш у тих, що живуть у глиняних хатинах, що основи їх у
+        поросї, й вони борше, як міль, зникають.
+      bel_syomukha: тым болей - у тых, што жывуць у харомінах з гліны, аснова якіх
+        пыл, якія нішчацца хутчэй за моль.
+      spbda: "тем-более обитающие в домах из брения,\r\rкоторых основание в
+        прахе!\r\rони истребляются скорее моли."
+      lev-khv: "Тем более обитающие в домах бренных, которых основание в прахе: их
+        истребляют скорее моли."
+      czech: tim spis na tech, kteri prebyvaji ve hlinenych domech a svym zakladem
+        tkvi v prachu; ty rozmackne snadneji nez mola.
+      spanish: ¡Cuánto más los que habitan moradas de barro y del polvo traen su
+        origen! Que son aplastados como polilla,
+      greek-lxx: τοὺς δὲ κατοικοῦντας οἰκίας πηλίνας ἐξ ὧν καὶ αὐτοὶ ἐκ τοῦ αὐτοῦ
+        πηλοῦ ἐσμεν ἔπαισεν αὐτοὺς σητὸς τρόπον
+      st_text: тем более - в обитающих в храминах из брения, которых основание прах,
+        которые истребляются скорее моли.
+  - id: 19749
+    number: 20
+    bookId: 21
+    text: Между утром и вечером они распадаются; не увидишь, как они вовсе исчезнут.
+    chapter: 4
+    chapterId: 480
+    parallels:
+      - verseId: 31585
+        bookId: 22
+        bookCode: psaltir
+        chapter: 36
+        short: Пс:36:2
+      - verseId: 31619
+        bookId: 22
+        bookCode: psaltir
+        chapter: 36
+        short: Пс:36:36
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и от утра даже до вечера ктому не суть: занеже не могоша себе помощи,
+        погибоша:"
+      averincev: к вечеру их рассекут, они сгинут - не приметит никто.
+      ungerov: От утра только и до вечера, и их уже нет, так как они не могут себе
+        помочь, то погибают.
+      csya_old: "и3 t ќтра дaже до ве1чера ктомY не сyть: зане1же не мого1ша себЁ
+        помощи2, погибо1ша:"
+      sovr_rbo: Утром были, а к вечеру пропали — не заметишь, как сгинут навеки;
+      latin: De mane usque ad vesperam succidentur; et quia nullus intelligit, in
+        aeternum peribunt.
+      ukr: Вони товчені зранку до вечора, і без помочі гинуть назавжди...
+      nkjv: They are broken in pieces from morning till evening; They perish forever,
+        with no one regarding.
+      desnitsky: Утром были, а к вечеру пропали – не заметишь, как сгинут навеки;
+      mt: ‫    מִבֹּקֶר לָעֶרֶב יֻכַּתּוּ מִבְּלִי מֵשִׂים לָנֶצַח יֹאבֵדוּ׃ ‬
+      romana: De dimineata pana seara sunt zdrobiti, pier pe vecie fara sa-i scape
+        nimeni.
+      francais: Du matin au soir ils sont brisés, Ils périssent pour toujours, et nul
+        n'y prend garde;
+      italian: "annientati fra il mattino e la sera: senza che nessuno ci badi,
+        periscono per sempre."
+      old_georgian: და განთიადითგან მწუხრადმდე არღარა არიან,
+      portuguese: Entre a manhã e a tarde são destruídos; perecem para sempre sem que
+        disso se faça caso.
+      polish: Od rana do zmroku wyginą, bez sławy przepadną na wieki.
+      turkish: "Ömürleri sabahtan akşama varmaz,\rKimse farkına varmadan sonsuza dek
+        yok olurlar."
+      nrt: Гибнут они между зарей и сумерками; не заметишь, как они исчезнут.
+      Macarius: Между утром и вечером сокрушились бы, навеки погибли бы без призрения.
+      serbian: Од јутра до вечера сатру се, и нестане их навијек да нико и не опази.
+      bulgarian: Между заран и вечер те се разсипват; няма да забележиш, как ще
+        изчезнат съвсем.
+      deutsch: Es währt vom Morgen bis an den Abend, so werden sie zerschlagen; und
+        ehe sie es gewahr werden, sind sie gar dahin,
+      ukr2: Між ранком та смерком на порох їх стерто, | і не помітиш, як загинули
+        навіки.
+      ukr3: Між ранком і вечером вони розпадаються, й не доглянеш, як без слїду
+        зникнуть.
+      bel_syomukha: З раніцы да вечара яны распадаюцца; ня згледзіш, як яны зьнікнуць зусім.
+      spbda: "От утра и до вечера они распадаюся,\r\rна веки гибнут, и никто не
+        обращает внимания."
+      lev-khv: От утра до вечера они распадаются, на веки гибнут, и никто не обращает
+        внимания.
+      czech: Nez se setka rano s vecerem, uz budou rozdrceni, nezli si to uvedomi,
+        navzdy zhynou.
+      spanish: de la mañana a la tarde son pulverizados, desaparecen para siempre por
+        falta de salvador.
+      greek-lxx: καὶ ἀπὸ πρωίθεν ἕως ἑσπέρας οὐκέτι εἰσίν παρὰ τὸ μὴ δύνασθαι αὐτοὺς
+        ἑαυτοῖς βοηθῆσαι ἀπώλοντο
+      st_text: Между утром и вечером они распадаются; не увидишь, как они вовсе
+        исчезнут.
+  - id: 19750
+    number: 21
+    bookId: 21
+    text: Не погибают ли с ними и достоинства их? Они умирают, не достигнув мудрости.
+    chapter: 4
+    chapterId: 480
+    parallels:
+      - verseId: 20586
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 38
+        short: Ис:38:13
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: дхну бо на ня, и изсхоша, и понеже не имеяху премудрости, погибоша.
+      averincev: 'Исторгается у шатра их вервь, и не в мудрости умирают они".      '
+      ungerov: Ибо Он дохнул на них, и они высохли, и так как не имели мудрости, то
+        погибли.
+      csya_old: дхнy бо на нS, и3 и3зсхо1ша, и3 поне1же не и3мёzху премyдрости,
+        погибо1ша.
+      sovr_rbo: стоит выдернуть из них жилу — умрут, непричастные мудрости”.
+      latin: Qui autem reliqui fuerint, auferentur ex eis; morientur, et non in
+        sapientia.
+      ukr: Слава їхня минається з ними, вони помирають не в мудрості!...
+      nkjv: "Does not their own excellence go away? They die, even without wisdom.' "
+      desnitsky: стоит выдернуть из них жилу – умрут, непричастные мудрости».
+      mt: ‫    הֲלֹא־נִסַּע יִתְרָם בָּם יָמוּתוּ וְלֹא בְחָכְמָה׃ ‬
+      romana: Mor, dar nu mor de prea multa intelepciune".
+      francais: Le fil de leur vie est coupé, Ils meurent, et ils n'ont pas acquis la
+        sagesse.
+      italian: La funicella della loro tenda non viene forse strappata? Muoiono senza
+        saggezza!".
+      old_georgian: რამეთუ ვერ ეძლო მათ თავთა თჳსთა შეწევნად და წარწყმდეს.
+      portuguese: Se dentro deles é arrancada a corda da sua tenda, porventura não
+        morrem, e isso sem atingir a sabedoria?
+      polish: Czy ich mieszkanie nie runie? Umrą, lecz nie w mądrości.
+      turkish: "İçlerindeki çadır ipleri çekilince,\rBilgelikten yoksun olarak ölüp
+        giderler.'"
+      nrt: Веревки их шатров порваны, и умрут они, не познав мудрости».
+      Macarius: Не исторглась ли бы тетива их у них? умерли бы, но не достигнув
+        мудрости».
+      serbian: Слава њихова не пролази ли с њима? Умиру, али не у мудрости.
+      bulgarian: Не погиват ли с тях и достойнствата им? Те умират, без да са станали
+        мъдри.
+      deutsch: und ihre Nachgelassenen vergehen und sterben auch unversehens.
+      ukr2: Мотуз від їхнього намету відривають, | і вони вмирають, бо немудрі.»
+      ukr3: А чи ж із ними, не пропадають і почестї їх? Вони вмирають, не дійшовши до
+        мудростї.
+      bel_syomukha: Ці ня гінуць разам зь імі і вартасьці іхнія? Яны паміраюць, не
+        дасягнуўшы мудрасьці.
+      spbda: "Вот, исторгается вервь их у них,\r\rи они умирают, притом не в
+        мудрости."
+      lev-khv: Вот, исторгается вервь их у них, и они умирают, притом не в мудрости.
+      czech: Byva s nimi vytrzeno i jejich stanove lano; umiraji, ale ne v moudrosti.
+      spanish: ¿No es arrancada la cuerda (de su tienda)? Mueren faltos de sabiduría.
+      greek-lxx: ἐνεφύσησεν γὰρ αὐτοῖς καὶ ἐξηράνθησαν ἀπώλοντο παρὰ τὸ μὴ ἔχειν
+        αὐτοὺς σοφίαν
+      st_text: Не погибают ли с ними и достоинства их? Они умирают, не достигнув
+        мудрости.

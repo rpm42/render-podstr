@@ -1,0 +1,880 @@
+id: 721
+number: 1
+bookId: 26
+verseCount: 16
+title: Глава 1
+verses:
+  - id: 28900
+    number: 1
+    bookId: 26
+    text: Любите справедливость, судьи земли, право мыслите о Господе, и в простоте
+      сердца ищите Его,
+    chapter: 1
+    chapterId: 721
+    parallels:
+      - verseId: 20973
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 56
+        short: Ис:56:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Возлюбите правду, судящии землю: мудрствуйте о Господе в благостыни и в
+        простоте сердца взыщите его:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Возлюби1те прaвду, судsщіи зе1млю: мyдрствуйте њ гDэ въ благосты1ни
+        и3 въ простотЁ се1рдца взыщи1те є3го2:"
+      sovr_rbo: ""
+      latin: Diligite justitiam, qui judicatis terram. Sentite de Domino in bonitate,
+        et in simplicitate cordis quaerite illum;
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Iubiti dreptatea, judecatori ai pamantului; cugetati drept despre Domnul
+        si cautati-L cu inima smerita,
+      italian: Amate la giustizia, voi che governate sulla terra, rettamente pensate
+        del Signore, cercatelo con cuore semplice.
+      old_georgian: შეიყუარეთ სიმართლე მსაჯულთა მაგათ ქუეყანისათა, ზრახევდით უფლისათჳს
+        სახიერითა და განმარტებულითა გულითა ეძიებდით მას.
+      polish: Umiłujcie sprawiedliwość, sędziowie ziemscy! Myślcie o Panu właściwie i
+        szukajcie Go w prostocie serca!
+      serbian: Заволите праведност, судије земаљске, размишљајте о Господу, у доброти
+        и простоти срца тражите Га.
+      bulgarian: Обичайте правдата, съдии земни, мислете право за Господа, и със
+        сърдечна простота Го търсете,
+      ukr2: Полюбіте справедливість, ви, що правите землею! | Роздумуйте про Господа в
+        правоті | й у простоті серця шукайте його!
+      sergievsky: Судии земли, любите справедливость, с благоговением помышляйте о
+        Господе и с простотою сердца ищите Его.
+      czech: Milujte spravedlnost, vy soudcove zeme, smyslejte o Hospodinu v dobrote a
+        hledejte ho uprimnym srdcem.
+      spanish: Amad la justicia los que gobernáis la tierra; pensad rectamente del
+        Señor y buscadle con sencillez de corazón.
+      greek-lxx: Ἀγαπήσατε δικαιοσύνην οἱ κρίνοντες τὴν γῆν φρονήσατε περὶ τοῦ Κυρίου
+        ἐν ἀγαθότητι καὶ ἐν ἁπλότητι καρδίας ζητήσατε αὐτόν
+      st_text: Любите справедливость, судьи земли, право мыслите о Господе, и в
+        простоте сердца ищите Его,
+  - id: 28901
+    number: 2
+    bookId: 26
+    text: ибо Он обретается неискушающими Его и является не неверующим Ему.
+    chapter: 1
+    chapterId: 721
+    parallels:
+      - verseId: 36743
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 4
+        short: Втор:4:29
+      - verseId: 5930
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 15
+        short: 2 Пар:15:4
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: яко обретается не искушающым его, является же не неверующым ему.
+      averincev: ""
+      ungerov: ""
+      csya_old: ћкw њбрэтaетсz не и3скушaющымъ є3го2, kвлsетсz же не невёрующымъ є3мY.
+      sovr_rbo: ""
+      latin: quoniam invenitur ab his qui non tentant illum, apparet autem eis qui
+        fidem habent in illum.
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Caci El Se lasa gasit celor care nu-L ispitesc si Se arata celor care au
+        credinta in El.
+      italian: Egli infatti si lascia trovare da quanti non lo tentano, si mostra a
+        coloro che non ricusano di credere in lui.
+      old_georgian: რამეთუ გამოუჩნდების მათ, რომელნი არა ურწმუნო არიან მისა მიმართ,
+      polish: "Daje się bowiem znaleźć tym, co Go nie wystawiają na próbę, objawia
+        się\rtakim, którym nie brak wiary w Niego."
+      serbian: Јер Њега налазе они који Га не кушају, и објављује се онима који му
+        нису невјерни.
+      bulgarian: защото Него намират ония, които Го не изкушават, и се не явява на
+        ония, които не вярват в Него.
+      ukr2: Його знаходять ті, що його не спокушають, | і він являється тим, що йому
+        не спроневіряються.
+      sergievsky: Он постигается не теми, кто искушает Его, и является не тем, кто не
+        верует Ему.
+      czech: Dava se nalezat tem, kdo ho nepokouseji, ukazuje se tem, kdo mu nejsou
+        neverni.
+      spanish: Porque se deja hallar de los que no le tientan, se manifiesta a los que
+        no le son incrédulos.
+      greek-lxx: ὅτι εὑρίσκεται τοῖς μὴ πειράζουσιν αὐτόν ἐμφανίζεται δὲ τοῖς μὴ
+        ἀπιστοῦσιν αὐτῷ
+      st_text: ибо Он обретается неискушающими Его и является не неверующим Ему.
+  - id: 28902
+    number: 3
+    bookId: 26
+    text: Ибо неправые умствования отдаляют от Бога, и испытание силы Его обличит
+      безумных.
+    chapter: 1
+    chapterId: 721
+    parallels:
+      - verseId: 21021
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 59
+        short: Ис:59:2
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Строптивая бо помышления отлучают от Бога: искушаемая сила обличает
+        безумных."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Стропти6ваz бо помышлє1ніz tлучaютъ t бг7а: и3скушaемаz си1ла
+        њбличaетъ безyмныхъ."
+      sovr_rbo: ""
+      latin: Perversae enim cogitationes separant a Deo; probata autem virtus corripit
+        insipientes.
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Intr-adevar, cugetele viclene departeaza de Dumnezeu, si puterea Lui,
+        cand Il ispitesti, mustra pe cei fara de minte.
+      italian: I ragionamenti tortuosi allontanano da Dio; l'onnipotenza, messa alla
+        prova, caccia gli stolti.
+      old_georgian: რამეთუ დრკუთა გულისსიტყუათა განაშორნიან უფლისაგან, გამო-რა-იცდებინ
+        ძალი, ამხილებნ უგუნურთა.
+      polish: "Bo przewrotne myśli oddzielają od Boga, a Moc, gdy ją wystawiają na
+        próbę,\rkarci niemądrych."
+      serbian: Јер испразно умовање удаљује од Бога, а провјерена сила изобличава
+        безумнике.
+      bulgarian: Защото неправи умувания отдалечават от Бога, и изпитването на силата
+        Му ще изобличи безумните.
+      ukr2: Думки ж лукаві від Бога віддаляють, | і всемогутність, коли її спокушати,
+        присоромлює безумних.
+      sergievsky: Ибо лукавые помыслы удаляют от Бога, и испытуемая сила обличает безумных.
+      czech: Zvracene myslenky totiz odvadeji od Boha, ale jeho moc zahanbuje
+        nemoudre, kdyz ji pokouseji.
+      spanish: Los pensamientos tortuosos apartan de Dios, y el poder, puesto a prueba
+        reprende a los necios.
+      greek-lxx: σκολιοὶ γὰρ λογισμοὶ χωρίζουσιν ἀπὸ Θεοῦ δοκιμαζομένη τε ἡ δύναμις
+        ἐλέγχει τοὺς ἄφρονας
+      st_text: Ибо неправые умствования отдаляют от Бога, и испытание силы Его обличит
+        безумных.
+  - id: 28903
+    number: 4
+    bookId: 26
+    text: В лукавую душу не войдет премудрость и не будет обитать в теле,
+      порабощенном греху,
+    chapter: 1
+    chapterId: 721
+    parallels:
+      - verseId: 14258
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 2
+        short: Еккл:2:26
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Яко в злохудожну душу не внидет премудрость, ниже обитает в телеси
+        повиннем греху:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Ћкw въ ѕлохудо1жну дyшу не вни1детъ премyдрость, ниже2 њбитaетъ въ
+        тэлеси2 пови1ннэмъ грэхY:"
+      sovr_rbo: ""
+      latin: Quoniam in malevolam animam non introibit sapientia, nec habitabit in
+        corpore subdito peccatis.
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Intelepciunea nu patrunde in sufletul viclean si nu salasluieste in
+        trupul supus pacatului.
+      italian: La sapienza non entra in un'anima che opera il male né abita in un
+        corpo schiavo del peccato.
+      old_georgian: რამეთუ ბოროტისმოქმედსა სულსა არა შევიდეს სიბრძნე, არცა დაიმკჳდრონ
+        ჴორცთა შინა განკაფულთა ცოდვათა.
+      polish: "Mądrość nie wejdzie w duszę przewrotną, nie zamieszka w ciele
+        zaprzedanym\rgrzechowi."
+      serbian: У злорадну душу неће ући Премудрост, нити ће се настанити у тијело
+        оптерећено гријехом.
+      bulgarian: В лукава душа няма да влезе премъдрост и няма да обитава в тяло,
+        което робува на греха;
+      ukr2: Бо в душу, яка лихе мислить, мудрість не ввійде, | ані не оселиться в
+        тілі, запроданім гріхові.
+      sergievsky: В лукавую душу не войдет премудрость, и не будет обитать в теле,
+        порабощенном греху.
+      czech: Moudrost nevejde do zlovolne duse, nebude prebyvat v tele podrobenem
+        hrichu.
+      spanish: Porque en alma maliciosa no entrará la sabiduría, ni morará en cuerpo
+        esclavo del pecado;
+      greek-lxx: ὅτι εἰς κακότεχνον ψυχὴν οὐκ εἰσελεύσεται σοφία οὐδὲ κατοικήσει ἐν
+        σώματι κατάχρεῳ ἁμαρτίας
+      st_text: В лукавую душу не войдет премудрость и не будет обитать в теле,
+        порабощенном греху,
+  - id: 28904
+    number: 5
+    bookId: 26
+    text: ибо святый Дух премудрости удалится от лукавства и уклонится от неразумных
+      умствований, и устыдится приближающейся неправды.
+    chapter: 1
+    chapterId: 721
+    parallels:
+      - verseId: 16158
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 43
+        short: Иер:43:2
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: святый бо дух наказания отбежит льстива и отъимется от помышлений
+        неразумных и обличится от находящия неправды.
+      averincev: ""
+      ungerov: ""
+      csya_old: с™ы1й бо д¦ъ наказaніz tбэжи1тъ льсти1ва и3 tи1метсz t помышле1ній
+        неразyмныхъ и3 њбличи1тсz t находsщіz непрaвды.
+      sovr_rbo: ""
+      latin: Spiritus enim sanctus disciplinae effugiet fictum; et auferet se a
+        cogitationibus quae sunt sine intellectu, et corripietur a superveniente
+        iniquitate.
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Duhul cel Sfant, povatuitorul oamenilor, fuge de viclesug, Se departeaza
+        de mintile fara de pricepere si Se da in laturi cand se apropie
+        faradelegea;
+      italian: Il santo spirito che ammaestra rifugge dalla finzione, se ne sta
+        lontano dai discorsi insensati, è cacciato al sopraggiungere
+        dell'ingiustizia.
+      old_georgian: რამეთუ წმიდა სული სწავლისა ევლტინ ზაკუასა და განეშორის ზრახვათაგან
+        უგულისჴმოთა, ემხილის, მო-რა-იწიის მის ზედა სიცრუჱ,
+      polish: "Święty Duch karności ujdzie przed obłudą, usunie się do niemądrych
+        myśli,\rwypłoszy Go nadejście nieprawości."
+      serbian: Јер Свети Дух поуке избјећи ће превару, и уклониће се од помисли
+        неразумника.
+      bulgarian: защото Светият Дух на премъдростта ще се отдалечи от лукавство, ще се
+        отвърне от неразумни умувания и ще се засрами от приближаващата се
+        неправда.
+      ukr2: Святий бо Дух-виховник від лукавства тікає, | відступає від гадок
+        безглуздих | і віддаляється, коли виринає кривда.
+      sergievsky: Ибо святый Дух учения удалится от лукавства, и уклонится от
+        неразумных помыслов, и обличит приближающуюся неправду.
+      czech: Svaty duch kazne prcha pred lsti, vzdaluje se od nerozumnych myslenek, v
+        studu se odvraci od nepravosti.
+      spanish: Porque el Espíritu Santo de la disciplina huye del engaño, y se aleja
+        de los pensamientos insensatos, y al sobrevenir la iniquidad queda
+        confundido.
+      greek-lxx: ἅγιον γὰρ πνεῦμα παιδείας φεύξεται δόλον καὶ ἀπαναστήσεται ἀπὸ
+        λογισμῶν ἀσυνέτων καὶ ἐλεγχθήσεται ἐπελθούσης ἀδικίας
+      st_text: ибо святый Дух премудрости удалится от лукавства и уклонится от
+        неразумных умствований, и устыдится приближающейся неправды.
+  - id: 28905
+    number: 6
+    bookId: 26
+    text: Человеколюбивый дух - премудрость, но не оставит безнаказанным
+      богохульствующего устами, потому что Бог есть свидетель внутренних чувств
+      его и истинный зритель сердца его, и слышатель языка его.
+    chapter: 1
+    chapterId: 721
+    parallels:
+      - verseId: 32186
+        bookId: 22
+        bookCode: psaltir
+        chapter: 7
+        short: Пс:7:10
+      - verseId: 15537
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 20
+        short: Иер:20:12
+      - verseId: 35541
+        bookId: 74
+        bookCode: k-titu-poslanie-ap-pavla
+        chapter: 3
+        short: Тит:3:4
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Человеколюбив бо дух премудрости и не обезвинит хульника от устен его:
+        яко внутренних его свидетель есть Бог и сердца его испытатель истинен и
+        языка слышатель:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Человэколюби1въ бо дyхъ премyдрости и3 не њбезвини1тъ хyльника t
+        ўсте1нъ є3гw2: ћкw внyтреннихъ є3гw2 свидётель є4сть бг7ъ и3 се1рдца
+        є3гw2 и3спытaтель и4стиненъ и3 љзы1ка слы1шатель:"
+      sovr_rbo: ""
+      latin: Benignus est enim spiritus sapientiae, et non liberabit maledicum a
+        labiis suis; quoniam renum illius testis est Deus, et cordis illius
+        scrutator est verus et linguae ejus auditor.
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Intelepciunea este duh iubitor de oameni si nu lasa nepedepsit pe cel
+        care huleste prin vorbele sale, caci Dumnezeu este martor gandurilor
+        celor mai ascunse si patrunde fara gres inimile si aude toate cuvintele.
+      italian: La sapienza è uno spirito amico degli uomini; ma non lascerà impunito
+        chi insulta con le labbra, perché Dio è testimone dei suoi sentimenti e
+        osservatore verace del suo cuore e ascolta le parole della sua bocca.
+      old_georgian: რამეთუ კაცთმოყუარე არს სული სიბრძნისა, არა უბრალო უვის მგმობარი
+        იგი ბაგეთაგან მისთა, რამეთუ თირკუმელთაგან მისთა მოწამე არს ღმერთი და
+        გული მსახურ ჭეშმარიტ, და ენა მსმენელ.
+      polish: "Mądrość bowiem jest duchem miłującym ludzi, ale bluźniercy z powodu
+        jego\rwarg nie zostawi bez kary: ponieważ Bóg świadkiem jego nerek,
+        prawdziwym\rstróżem jego serca, Tym, który słyszy mowę jego języka."
+      serbian: Јер човјекољубив је дух Премудрост, али неће опростити богохулнику
+        ријечи његових; зато што је бубрега његових свједок сам Бог и срца
+        његова надзорник истински и језика слушатељ.
+      bulgarian: Човеколюбивият дух е премъдрост и няма да остави ненаказан оногова,
+        който богохулствува с уста, защото Бог е свидетел на вътрешните му
+        чувства, истинен зрител на сърцето му и слушател на езика му.
+      ukr2: Мудрість же - дух, що людей любить, | однак, не лишає уст хулителя
+        безкарними; | бо Бог - свідок його нутра, | вірний дослідник його серця,
+        | і чує, що його язик говорить.
+      sergievsky: "Хотя премудрость — дух человеколюбивый, но не оставит безнаказанным
+        богохульнаго устами, потому что Бог есть свидетель внутренних чувств
+        его, и истинный зритель сердца его, и слышатель языка его:"
+      czech: Moudrost je duch lidumilny, ale nepromine trest rouhacovi za slova jeho
+        rtu; Buh je zajiste svedkem jeho ledvi, dobre vidi do skrytu jeho srdce
+        a slysi vsechno, co clovek mluvi.
+      spanish: Porque la sabiduría es un espíritu amador del hombre, y no dejará
+        impune al de blasfemos labios; que Dios es testigo de sus intimidades, y
+        veraz observador de su corazón, y oidor de su lengua.
+      greek-lxx: φιλάνθρωπον γὰρ πνεῦμα σοφία καὶ οὐκ ἀθῳώσει βλάσφημον ἀπὸ χειλέων
+        αὐτοῦ ὅτι τῶν νεφρῶν αὐτοῦ μάρτυς ὁ Θεὸς καὶ τῆς καρδίας αὐτοῦ ἐπίσκοπος
+        ἀληθὴς καὶ τῆς γλώσσης ἀκουστής
+      st_text: Человеколюбивый дух - премудрость, но не оставит безнаказанным
+        богохульствующего устами, потому что Бог есть свидетель внутренних
+        чувств его и истинный зритель сердца его, и слышатель языка его.
+  - id: 28906
+    number: 7
+    bookId: 26
+    text: Дух Господа наполняет вселенную и, как все объемлющий, знает <i>всякое</i>
+      слово.
+    chapter: 1
+    chapterId: 721
+    parallels:
+      - verseId: 31028
+        bookId: 22
+        bookCode: psaltir
+        chapter: 138
+        short: Пс:138:7
+      - verseId: 28964
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 12
+        short: Прем:12:1
+      - verseId: 33782
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 24
+        short: Сир:24:4
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: яко дух Господень исполни вселенную, и содержай вся разум имать гласа.
+      averincev: ""
+      ungerov: ""
+      csya_old: ћкw д¦ъ гDень и3спо1лни вселе1нную, и3 содержaй вс‰ рaзумъ и4мать глaса.
+      sovr_rbo: ""
+      latin: Quoniam spiritus Domini replevit orbem terrarum; et hoc quod continet
+        omnia, scientiam habet vocis.
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Duhul lui Dumnezeu umple lumea, El cuprinde toate si stie orice soapta.
+      italian: Difatti lo spirito del Signore riempie l'universo e, abbracciando ogni
+        cosa, conosce ogni voce.
+      old_georgian: რამეთუ სულმან უფლისამან აღავსო სოფელი და რომელსა უპყრიეს ყოველი
+        სული და ცნობა იცის ჴმისა.
+      polish: "Albowiem Duch Pański wypełnia ziemię, Ten, który ogarnia wszystko,
+        ma\rznajomość mowy."
+      serbian: Јер Дух Господњи испунио је васељену, и Он који обујима све, има знање
+        ријечи.
+      bulgarian: Духът на Господа изпълня вселената и, понеже всичко обема, знае всяка
+        дума.
+      ukr2: Дух бо Господній наповнює всесвіт | і - як Вседержитель - знає кожне
+        слово.
+      sergievsky: Дух Господа наполняет вселенную, и как все собою объемлющий знает
+        всякое слово.
+      czech: Duch Hospodinuv naplnuje zemi, on, jenz vsemu dava rad, zna kazdou
+        myslenku.
+      spanish: Porque el Espíritu del Señor llena el universo, y el que todo lo
+        abarca, tiene conocimiento de cuando se dice.
+      greek-lxx: ὅτι πνεῦμα Κυρίου πεπλήρωκεν τὴν οἰκουμένην καὶ τὸ συνέχον τὰ πάντα
+        γνῶσιν ἔχει φωνῆς
+      st_text: Дух Господа наполняет вселенную и, как все объемлющий, знает
+        <i>всякое</i> слово.
+  - id: 28907
+    number: 8
+    bookId: 26
+    text: Посему никто, говорящий неправду, не утаится, и не минет его обличающий
+      суд.
+    chapter: 1
+    chapterId: 721
+    parallels:
+      - verseId: 16087
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 4
+        short: Иер:4:18
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Сего ради вещаяй неправедная никтоже утаится, и не мимо идет его обличающь
+        суд.
+      averincev: ""
+      ungerov: ""
+      csya_old: Сегw2 рaди вэщazй непрaвєднаz никто1же ўтаи1тсz, и3 не мимои1детъ
+        є3гw2 њбличaющь сyдъ.
+      sovr_rbo: ""
+      latin: Propter hoc qui loquitur iniqua non potest latere, nec praeteriet illum
+        corripiens judicium.
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Pentru aceea, cel care graieste lucruri nedrepte nu poate sa se ascunda
+        si dreptatea razbunatoare nu-l uita.
+      italian: Per questo non gli sfuggirà chi proferisce cose ingiuste, la giustizia
+        vendicatrice non lo risparmierà.
+      old_georgian: ამისთჳსცა, რომელი იტყოდის სიცრუესა, არა ვინ დავიწყდეს, არცა
+        თანაწარჰჴდეს მამხილებელი სჯულისა მიერ.
+      polish: Zatem się nie ukryje, kto mówi niegodziwie, i nie ominie go karząca
+        sprawiedliwość.
+      serbian: Зато нико ко говори неправду неће се сакрити, нити ће га мимоићи
+        изобличујућа правда.
+      bulgarian: Затова, никой, който говори неправда, не ще се укрие, и не ще го
+        отмине изобличителният съд.
+      ukr2: Тому ніхто не може таїтись, хто говорить несправедливе, | і не мине його
+        караюча справедливість.
+      sergievsky: Посему никто говоря неправду не утаится, и не минет его обличающий суд.
+      czech: Pred nim se neskryje nikdo, kdo je na strane bezpravi, trestajici
+        spravedlnost ho nemine.
+      spanish: Por eso nadie que hable impiedades quedará oculto, ni pasará de largo
+        ante él la justicia vengadora.
+      greek-lxx: διὰ τοῦτο φθεγγόμενος ἄδικα οὐδεὶς μὴ λάθῃ οὐδὲ μὴ παροδεύσῃ αὐτὸν
+        ἐλέγχουσα ἡ δίκη
+      st_text: Посему никто, говорящий неправду, не утаится, и не минет его обличающий
+        суд.
+  - id: 28908
+    number: 9
+    bookId: 26
+    text: Ибо будет испытание помыслов нечестивого, и слова его взойдут к Господу в
+      обличение беззаконий его;
+    chapter: 1
+    chapterId: 721
+    parallels:
+      - verseId: 14275
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 3
+        short: Еккл:3:17
+      - verseId: 25121
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 12
+        short: Мф:12:36
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "В советех бо нечестиваго истязание будет, словес же его слышание ко
+        Господу приидет во обличение беззаконий его:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Въ совётэхъ бо нечести1вагw и3стzзaніе бyдетъ, слове1съ же є3гw2
+        слы1шаніе ко гDу пріи1детъ во њбличе1ніе беззако1ній є3гw2:"
+      sovr_rbo: ""
+      latin: In cogitationibus enim impii interrogatio erit; sermonum autem illius
+        auditio ad Deum veniet, ad correptionem iniquitatum illius.
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Caci chibzuintele nelegiuitului vor fi cercetate si zvonul vorbelor sale
+        va ajunge pana la Domnul spre pedeapsa strambatatilor sale.
+      italian: Si indagherà infatti sui propositi dell'empio, il suono delle sue
+        parole giungerà fino al Signore a condanna delle sue iniquità;
+      old_georgian: რამეთუ ზრახვათათჳს უღმრთოთა განკითხვა იყოს, რამეთუ სიტყუანი მისნი
+        არა ნებსით უფლისა მივიდენ მამხილებელად უსჯულოებათა მისთა,
+      polish: "Zamysły bezbożnego zostaną zbadane i dojdzie do Pana wieść o jego
+        słowach,\rdla potępienia jego złych czynów."
+      serbian: Јер ће намисли безбожника бити испитане, а чување ријечи његових доћи
+        ће Господу на изобличење безакоња његових.
+      bulgarian: Защото по'мислите на нечестивеца ще бъдат изпитвани, и думите му ще
+        възлязат при Господа да изобличат беззаконията му,
+      ukr2: Безбожного задуми підуть під розслід, | слів його гомін до Господа долине,
+        | щоб покарати його беззаконня;
+      sergievsky: Ибо будет испытание и в помыслах нечестиваго, и слух слов его
+        взойдет ко Господу в обличение беззаконий его,
+      czech: Spady svevolnika vyjdou najevo, o jeho piklech uslysi Hospodin a ztresta
+        jeho zvracenost.
+      spanish: Porque los designios del impío serán examinados, y hasta el Señor
+        llegará el sonido de sus palabras, para castigo de sus iniquidades;
+      greek-lxx: ἐν γὰρ διαβουλίοις ἀσεβοῦς ἐξέτασις ἔσται λόγων δὲ αὐτοῦ ἀκοὴ πρὸς
+        Κύριον ἥξει εἰς ἔλεγχον ἀνομημάτων αὐτοῦ
+      st_text: Ибо будет испытание помыслов нечестивого, и слова его взойдут к Господу
+        в обличение беззаконий его;
+  - id: 28909
+    number: 10
+    bookId: 26
+    text: потому что ухо ревности слышит все, и ропот не скроется.
+    chapter: 1
+    chapterId: 721
+    parallels:
+      - verseId: 21572
+        bookId: 2
+        bookCode: ishod
+        chapter: 20
+        short: Исх:20:5
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: яко ухо рвения слышит вся, и молва роптаний не крыется.
+      averincev: ""
+      ungerov: ""
+      csya_old: ћкw ќхо рве1ніz слы1шитъ вс‰, и3 молвA роптaній не кры1етсz.
+      sovr_rbo: ""
+      latin: Quoniam auris zeli audit omnia, et tumultus murmurationum non
+        abscondetur.
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: O ureche geloasa aude totul si sunetul soaptelor nu-i scapa.
+      italian: poiché un orecchio geloso ascolta ogni cosa, perfino il sussurro delle
+        mormorazioni non gli resta segreto.
+      old_georgian: რამეთუ ყური მოშურნეობისა მისისა ისმენს ყოველსა და იდუმალი დრტჳნვა
+        არა დაეფარვის,
+      polish: Czujne bowiem ucho nasłuchuje wszystkiego i pomruk szemrania nie
+        pozostanie w ukryciu.
+      serbian: Зато што ухо ревности чује све, и дашак гунђања неће се сакрити.
+      bulgarian: понеже ухото на ревността чува всичко, и ропотът няма да се скрие.
+      ukr2: бо ревниве вухо все чує, | і навіть шепіт нарікань від нього не затаїться.
+      sergievsky: потому что ревнивое ухо слышит все, и шум ропота не скроется от него.
+      czech: Vzdyt ucho zarlive milujiciho slysi vsechno, ani reptani septem mu
+        neujde.
+      spanish: Que su celoso oído lo oye todo y el rumor de las murmuraciones no
+        quedará oculto.
+      greek-lxx: ὅτι οὖς ζηλώσεως ἀκροᾶται τὰ πάντα καὶ θροῦς γογγυσμῶν οὐκ ἀποκρύπτεται
+      st_text: потому что ухо ревности слышит все, и ропот не скроется.
+  - id: 28910
+    number: 11
+    bookId: 26
+    text: Итак, хранитесь от бесполезного ропота и берегитесь от злоречия языка, ибо
+      и тайное слово не пройдет даром, а клевещущие уста убивают душу.
+    chapter: 1
+    chapterId: 721
+    parallels:
+      - verseId: 1326
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 10
+        short: 1 Кор:10:10
+      - verseId: 5097
+        bookId: 65
+        bookCode: 2oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 12
+        short: 2 Кор:12:20
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Хранитеся убо от роптания неполезна и от оболгания щадите язык: яко
+        вещание тайное тще не прейдет, уста же лжущая убивают душу."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Храни1тесz ў2бо t роптaніz неполе1зна и3 t њболгaніz щади1те љзы1къ:
+        ћкw вэщaніе тaйное тще2 не пре1йдетъ, ўстa же лж{щаz ўбивaютъ дyшу."
+      sovr_rbo: ""
+      latin: "Custodite ergo vos a murmuratione quae nihil prodest, et a detractione
+        parcite linguae: quoniam sermo obscurus in vacuum non ibit, os autem
+        quod mentitur occidit animam."
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Paziti-va deci de vorbele cartitoare si desarte si feriti limba voastra
+        de clevetire, fiindca vorba cea mai tainica nu va trece fara pedeapsa si
+        gura mincinoasa aduce sufletului moarte.
+      italian: Guardatevi pertanto da un vano mormorare, preservate la lingua dalla
+        maldicenza, perché neppure una parola segreta sarà senza effetto, una
+        bocca menzognera uccide l'anima.
+      old_georgian: ეკრძალენით უკუე დრტჳნვასა ურგებსა და ძჳრისსიტყუასა ერიდენით ენითა,
+        რამეთუ თქმული იდუმალი არა ცუდად წარვიდის, და პირი, რომელი იტყოდის ძჳრსა,
+        მოკლის სული თჳსი.
+      polish: "Strzeżcie się więc próżnego szemrania, powściągajcie język od złej
+        mowy: bo\ri skryte słowo nie jest bez następstwa, a usta kłamliwe
+        zabijają duszę."
+      serbian: Стога се чувајте од гунђања некорисног и од оговарања поштедите језик,
+        јер ни скривена ријеч неће отићи празна, уста пак лажљива убијају душу.
+      bulgarian: Затова пазете се от безполезен ропот и вардете се от злодумство на
+        езика, защото дори тайна дума не ще мине току-тъй, а клеветни уста
+        убиват душата.
+      ukr2: Тож бережіться пустого нарікання | і здержуйте язик від обмови, | бо і
+        потаємне слово не перейде гладко» | і брехливі уста погублять душу.
+      sergievsky: "Итак хранитесь от безполезнаго ропота и берегитесь от злоречия
+        языка: тайное слово не пройдет даром, но клевещущия уста убивают душу."
+      czech: Chrante se neprospesneho reptani, zdrzte jazyk od pomluv, vzdyt ani hovor
+        vskrytu neprojde bez povsimnuti a prolhana usta zabijeji dusi.
+      spanish: Guardaos, pues, de murmuraciones inútiles, preservaos de la lengua mal
+        hablada; porque la palabra más secreta no quedará impune, y la boca
+        embustera da muerte al alma.
+      greek-lxx: φυλάξασθε τοίνυν γογγυσμὸν ἀνωφελῆ καὶ ἀπὸ καταλαλιᾶς φείσασθε
+        γλώσσης ὅτι φθέγμα λαθραῖον κενὸν οὐ πορεύσεται στόμα δὲ καταψευδόμενον
+        ἀναιρεῖ ψυχήν
+      st_text: Итак, хранитесь от бесполезного ропота и берегитесь от злоречия языка,
+        ибо и тайное слово не пройдет даром, а клевещущие уста убивают душу.
+  - id: 28911
+    number: 12
+    bookId: 26
+    text: Не ускоряйте смерти заблуждениями вашей жизни и не привлекайте к себе
+      погибели делами рук ваших.
+    chapter: 1
+    chapterId: 721
+    parallels:
+      - verseId: 36737
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 4
+        short: Втор:4:23
+      - verseId: 30532
+        bookId: 22
+        bookCode: psaltir
+        chapter: 108
+        short: Пс:108:17
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Не вожделейте смерти в заблуждении живота вашего, ниже привлекайте
+        погибели делами рук ваших:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Не вожделёйте сме1рти въ заблужде1ніи животA вaшегw, ниже2
+        привлекaйте поги1бели дэлaми рyкъ вaшихъ:"
+      sovr_rbo: ""
+      latin: Nolite zelare mortem in errore vitae vestrae, neque acquiratis
+        perditionem in operibus manuum vestrarum.
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Nu va grabiti moartea prin ratacirile vietii voastre si nu va atrageti
+        pieirea prin fapta mainilor voastre.
+      italian: Non provocate la morte con gli errori della vostra vita, non attiratevi
+        la rovina con le opere delle vostre mani,
+      old_georgian: ნუ ნატრობ სიკუდილსა ცხორებასა შენსა საცთურსა თქუენსა, ნუცა
+        მოიტაცებთ მოსრვასა საქმესა ჴელთა თქუენსა,
+      polish: "Nie dążcie do śmierci przez swe błędne życie, nie gotujcie sobie zguby
+        wła1083\rKsięga 27 - Księga Mądrości Rozdział 2\rsnymi rękami!"
+      serbian: Не тражите смрт у заблуди живота вашега, и не навлачите погибао дјелима
+        руку ваших.
+      bulgarian: Не ускорявайте смъртта със заблужденията на живота си и не
+        привличайте си гибел с делата на ръцете си.
+      ukr2: Не шукайте собі смерти вашим життям безпутнім | і не накликайте погибелі
+        на себе ділами рук ваших.
+      sergievsky: "Не ускоряйте смерти заблуждениями вашей жизни и не привлекайте на
+        себя погибели делами рук ваших:"
+      czech: Neprivolavejte si smrt pobloudilosti sveho zivota, nevystavujte se zahube
+        pro ciny svych rukou.
+      spanish: No provoquéis la muerte con los extravíos de vuestra vida, ni os
+        atraigáis la ruina con las obras de vuestras manos.
+      greek-lxx: μὴ ζηλοῦτε θάνατον ἐν πλάνῃ ζωῆς ὑμῶν μηδὲ ἐπισπᾶσθε ὄλεθρον ἐν
+        ἔργοις χειρῶν ὑμῶν
+      st_text: Не ускоряйте смерти заблуждениями вашей жизни и не привлекайте к себе
+        погибели делами рук ваших.
+  - id: 28912
+    number: 13
+    bookId: 26
+    text: Бог не сотворил смерти и не радуется погибели живущих,
+    chapter: 1
+    chapterId: 721
+    parallels:
+      - verseId: 16888
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 18
+        short: Иез:18:32
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: яко Бог смерти не сотвори, ни веселится о погибели живых.
+      averincev: ""
+      ungerov: ""
+      csya_old: ћкw бг7ъ сме1рти не сотвори2, ни весели1тсz њ поги1бели живы1хъ.
+      sovr_rbo: ""
+      latin: Quoniam Deus mortem non fecit. Nec laetatur in perditione vivorum.
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Caci Dumnezeu n-a facut moartea si nu se bucura de pieirea celor vii.
+      italian: perché Dio non ha creato la morte e non gode per la rovina dei viventi.
+      old_georgian: რამეთუ ღმერთმან სიკუდილი არ დაჰბადა, არცა ჰნებავს წარწყმედა ცხოველთა,
+      polish: Bo śmierci Bóg nie uczynił i nie cieszy się ze zguby żyjących.
+      serbian: Он тврди да има знање о Богу и назива себе слугом Господњим;
+      bulgarian: Бог не е създал смъртта и не се радва, кога гинат живите,
+      ukr2: Бо Бог не створив смерть, | ані не радіє з погибелі живучих.
+      sergievsky: "Бог не сотворил смерти; и не увеселяется погибелию живущих:"
+      czech: Vzdyt Buh smrt neucinil, ani se netesi ze zahynuti zivych;
+      spanish: Que Dios no hizo la muerte ni se goza en la pérdida de los vivientes.
+      greek-lxx: ὅτι ὁ Θεὸς θάνατον οὐκ ἐποίησεν οὐδὲ τέρπεται ἐπ᾿ ἀπωλείᾳ ζώντων
+      st_text: Бог не сотворил смерти и не радуется погибели живущих,
+  - id: 28913
+    number: 14
+    bookId: 26
+    text: ибо Он создал все для бытия, и все в мире спасительно, и нет пагубного
+      яда, нет и царства ада на земле.
+    chapter: 1
+    chapterId: 721
+    parallels:
+      - verseId: 9689
+        bookId: 1
+        bookCode: bytie
+        chapter: 1
+        short: Быт:1:31
+      - verseId: 34290
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 39
+        short: Сир:39:21
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Созда бо во еже быти всем, и спасительны бытия мира, ни бо есть в них
+        врачевания губительнаго, ниже аду царствия на земли.
+      averincev: ""
+      ungerov: ""
+      csya_old: Создa бо во є4же бы1ти всBмъ, и3 спаси1тєльны быті‰ мjра, ни бо2 є4сть
+        въ ни1хъ врачевaніz губи1тельнагw, ниже2 ѓду цaрствіz на земли2.
+      sovr_rbo: ""
+      latin: Creavit enim ut essent omnia; et sanabiles fecit nationes orbis terrarum,
+        et non est in illis medicamentum exterminii, nec inferorum regnum in
+        terra.
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: El a zidit toate lucrurile spre viata si fapturile lumii sunt
+        izbavitoare; intru ele nu este samanta de pieire si moartea n-are putere
+        asupra pamantului.
+      italian: Egli infatti ha creato tutto per l'esistenza; le creature del mondo
+        sono sane, in esse non c'è veleno di morte, né gli inferi regnano sulla
+        terra,
+      old_georgian: რამეთუ დაჰბადა საყოფლად ყოველი და ცხოვრება შესაქმე სოფლისა. და არა
+        არს მას შინა წამალი მომსრველი, არცა ჯოჯოხეთისა სუფევა ქუეყანასა ზედა,
+      polish: "Stworzył bowiem wszystko po to, aby było, i byty tego świata niosą
+        zdrowie:\rnie ma w nich śmiercionośnego jadu ani władania Otchłani na
+        tej ziemi."
+      serbian: Јер је извео све у битије, и спасоносни су постанци свијета, и нема у
+        њима отрова пропасти, нити на земљи пакленог царства.
+      bulgarian: "защото Той е създал всичко за битие, и всичко в света е спасително:
+        няма пагубна отрова, няма и адово царство на земята."
+      ukr2: Він бо створив усе на те, щоб існувало, | і творіння світу - спасенні; |
+        нема в них жадної погубної їді | і царства смерти на землі немає,
+      sergievsky: ибо Он создал все для бытия, и существа мира животворны, и нет в них
+        пагубнаго яда, нет и царства ада на земле.
+      czech: stvoril totiz vsechno, aby to bylo, cemu dal na svete vzniknout, urcil k
+        spase, neni v tom smrtici jed; podsveti nebude kralovat nad zemi.
+      spanish: Pues Él creó todas las cosas para la existencia e hizo saludables a
+        todas las criaturas, saludable es todo lo que engendra el cosmos, y no
+        hay en ello veneno mortal, ni el reino del hades impera sobre la tierra.
+      greek-lxx: ἔκτισεν γὰρ εἰς τὸ εἶναι τὰ πάντα καὶ σωτήριοι αἱ γενέσεις τοῦ κόσμου
+        καὶ οὐκ ἔστιν ἐν αὐταῖς φάρμακον ὀλέθρου οὔτε ᾅδου βασίλειον ἐπὶ γῆς
+      st_text: ибо Он создал все для бытия, и все в мире спасительно, и нет пагубного
+        яда, нет и царства ада на земле.
+  - id: 28914
+    number: 15
+    bookId: 26
+    text: "Праведность бессмертна, а неправда причиняет смерть:"
+    chapter: 1
+    chapterId: 721
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Правда бо безсмертна есть: (неправда же смерти снабдение:)"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Прaвда бо безсме1ртна є4сть: (непрaвда же сме1рти снабдёніе:)"
+      sovr_rbo: ""
+      latin: Justitia enim perpetua est, et immortalis.
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Dreptatea este nemuritoare, iar nedreptatea aduce moarte.
+      italian: perché la giustizia è immortale.
+      old_georgian: რამეთუ სიმართლე მარადის უკუდავ არს.
+      polish: Bo sprawiedliwość nie podlega śmierci.
+      serbian: Јер праведност је бесмртна (а неправедност – узрочник смрти).[1]
+      bulgarian: Праведността е безсмъртна, а неправдата причинява смърт;
+      ukr2: бо справедливість - безсмертна.
+      sergievsky: "Посему праведность безсмертна:"
+      czech: Vzdyt spravedlnost je nesmrtelna.
+      spanish: Porque la justicia no está sometida a la muerte.
+      greek-lxx: δικαιοσύνη γὰρ ἀθάνατός ἐστιν
+      st_text: "Праведность бессмертна, а неправда причиняет смерть:"
+  - id: 28915
+    number: 16
+    bookId: 26
+    text: нечестивые привлекли ее и руками и словами, сочли ее другом и исчахли, и
+      заключили союз с нею, ибо они достойны быть ее жребием
+    chapter: 1
+    chapterId: 721
+    parallels:
+      - verseId: 29047
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 15
+        short: Прем:15:6
+      - verseId: 29113
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 18
+        short: Прем:18:4
+      - verseId: 20337
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 28
+        short: Ис:28:15
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: нечестивии же рукама и словесы призваша ю, другиню вмениша ю и истаяша, и
+        завет положиша с нею, яко достойни суть оноя части быти.
+      averincev: ""
+      ungerov: ""
+      csya_old: нечести1віи же рукaма и3 словесы2 призвaша ю5, други1ню вмэни1ша ю5 и3
+        и3стazша, и3 завётъ положи1ша съ не1ю, ћкw досто1йни сyть џноz чaсти
+        бы1ти.
+      sovr_rbo: ""
+      latin: Impii autem manibus et verbis accersierunt illam, et aestimantes illam
+        amicam, defluxerunt; et sponsiones posuerunt ad illam, quoniam digni
+        sunt qui sint ex parte illius.
+      ukr: ""
+      nkjv: ""
+      desnitsky: ""
+      romana: Dar cei necredinciosi isi atrag moartea cu mainile si cu glasul, se uita
+        la ea ca la o prietena, sunt patimasi dupa ea si au facut legatura cu ea
+        si cu adevarat vrednici sunt sa fie ai ei.
+      italian: Gli empi invocano su di sé la morte con gesti e con parole, ritenendola
+        amica si consumano per essa e con essa concludono alleanza, perché son
+        degni di appartenerle.
+      old_georgian: უღმრთოთა ჴელითა და სიტყჳთა მოჰჴადეს სიკუდილსა და მეგობრად
+        შეჰრაცხეს იგი და დღეს ნაძლევი დაიდვეს მის თანა, რამეთუ ღირს არიან
+        ნაწილად მისა ყოფად.
+      polish: "Bezbożni zaś ściągają ją na siebie słowem i czynem, usychają, uważając
+        ją za\rprzyjaciółkę, i zawierają z nią przymierze, zasługują bowiem na
+        to, aby być\rjej działem."
+      serbian: Безбожници су је призвали и (дјелима) руку и ријечима; сматрајући је
+        пријатељем, ишчиљеше и склопише савез са њом, пошто су достојни да буду
+        њеног удјела.
+      bulgarian: нечестивите я привлякоха с ръце и думи, счетоха я за приятел и
+        изнемогнаха, и сключиха съюз с нея, защото са достойни да бъдат неин
+        дял.
+      ukr2: А безбожні ділами й словами смерть на себе накликають | і, взявши собі її
+        за приятельку, гинуть за неї; | союз із нею заключають, | тому вони
+        варті, щоб належати до неї.
+      czech: Ale svevolnici privolali smrt rukama i slovy, meli ji za pritelkyni,
+        proto zchradli; uzavreli s ni smlouvu, a tak si zasluhuji, aby byla
+        jejich udelem.
+      spanish: Pero los impíos la llaman con sus manos y palabras; mirándola como
+        amiga, por ella se consumen; con ella hacen pacto, pues son dignos de
+        pertenecerle.
+      greek-lxx: ἀσεβεῖς δὲ ταῖς χερσὶν καὶ τοῖς λόγοις προσεκαλέσαντο αὐτόν φίλον
+        ἡγησάμενοι αὐτὸν ἐτάκησαν καὶ συνθήκην ἔθεντο πρὸς αὐτόν ὅτι ἄξιοί εἰσιν
+        τῆς ἐκείνου μερίδος εἶναι
+      st_text: нечестивые привлекли ее и руками и словами, сочли ее другом и исчахли,
+        и заключили союз с нею, ибо они достойны быть ее жребием

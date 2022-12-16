@@ -1,0 +1,2580 @@
+id: 1113
+number: 1
+bookId: 51
+verseCount: 25
+title: Глава 1
+verses:
+  - id: 24989
+    number: 1
+    bookId: 51
+    text: Родословие Иисуса Христа, Сына Давидова, Сына Авраамова.
+    chapter: 1
+    chapterId: 1113
+    parallels:
+      - verseId: 2915
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 17
+        short: 1 Пар:17:11
+      - verseId: 24618
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 3
+        short: Лк:3:23
+      - verseId: 32794
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 1
+        short: Рим:1:3
+      - verseId: 33199
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 9
+        short: Рим:9:5
+    translates:
+      kassian: Книга о рождении Иисуса Христа, сына Давидова, сына Авраамова.
+      podstr: Книга происхождения Иисуса Христа Сына Давида Сына Авраама.
+      csya: Книга родства Иисуса Христа, сына давидова, сына авраамля.
+      averincev: Книга происхождения Иисуса Христа, Сына Давидова, Сына Авраамова.
+      ungerov: ""
+      csya_old: Кни1га родствA ї}са хrтA, сн7а дв7дова, сн7а ґвраaмлz.
+      sovr_rbo: ""
+      latin: Liber generationis Jesu Christi filii David, filii Abraham.
+      ukr: "Книга родоводу Ісуса Христа, Сина Давидового, Сина Авраамового:"
+      nkjv: "The book of the genealogy of Jesus Christ, the Son of David, the Son of
+        Abraham:"
+      desnitsky: ""
+      tex_rec: Βίβλος γενέσεως ᾽Ιησοῦ Χριστοῦ υἱοῦ Δαυὶδ υἱοῦ ᾽Αβραάμ.
+      deutsch: Dies ist das Buch von der Geburt Jesu Christi, der da ist ein Sohn
+        Davids, des Sohnes Abrahams.
+      bel_syomukha: Кніга роду Ісуса Хрыста, сына Давідавага, сына Абрагамавага.
+      nrt: "Родословие Иисуса Христа, сына Давида, сына Авраама:"
+      spanish: "Genealogía de Jesucristo, hijo de David, hijo de Abraham:"
+      peshitta: ܟ݁ܬ݂ܳܒ݂ܳܐ ܕ݁ܺܝܠܺܝܕ݂ܽܘܬ݂ܶܗ ܕ݁ܝܶܫܽܘܥ ܡܫܺܝܚܳܐ ܒ݁ܪܶܗ ܕ݁ܕ݂ܰܘܺܝܕ݂ ܒ݁ܪܶܗ
+        ܕ݁ܰܐܒ݂ܪܳܗܳܡ܂
+      romana: Cartea neamului lui Iisus Hristos, fiul lui David, fiul lui Avraam.
+      francais: Généalogie de Jésus Christ, fils de David, fils d'Abraham.
+      italian: Genealogia di Gesù Cristo figlio di Davide, figlio di Abramo.
+      old_georgian: წიგნი შობისა იესუ ქრისტესი, ძისა დავითისი, ძისა აბრაჰამისი.
+      portuguese: Livro da genealogia de Jesus Cristo, filho de Davi, filho de Abraão.
+      polish: Rodowód Jezusa Chrystusa, syna Dawida, syna Abrahama.
+      pobedonostsev: Книга родства Иисуса Христа, сына Давидова, сына Авраамова.
+      new_text: Родословная Иисуса Христа, потомка Давида и Авраама.
+      serbian: Родослов Исуса Христа, сина Давидова,  Авраамова сина.
+      bulgarian: Книга за живота на Иисуса Христа, Син Давидов, Син Авраамов.
+      Lutkovsky: "Родословие Иисуса Христа, \r
+
+        Сына Давида, \r
+
+        Сына Авраама."
+      bel_boc: "Кніга роду Іісуса Хрыста,\r
+
+        Сына Давідавага,\r
+
+        Сына Аўраамавага."
+      ukr2: Родовід Ісуса Христа, сина Давида, сина Авраама.
+      ukr3: Книга родоводу Ісуса Христа, сина Давидового, сина Авраамового.
+      zhukovsky: Книга родства Иисуса Христа, сына Давидова, сына Авраамова.
+      czech: Listina rodu Jezise Krista, syna Davidova, syna Abrahamova.
+      st_text: Родословие Иисуса Христа, Сына Давидова, Сына Авраамова.
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 24990
+    number: 2
+    bookId: 51
+    text: Авраам родил Исаака; Исаак родил Иакова; Иаков родил Иуду и братьев его;
+    chapter: 1
+    chapterId: 1113
+    parallels:
+      - verseId: 9996
+        bookId: 1
+        bookCode: bytie
+        chapter: 21
+        short: Быт:21:3
+      - verseId: 10157
+        bookId: 1
+        bookCode: bytie
+        chapter: 25
+        short: Быт:25:19
+      - verseId: 10310
+        bookId: 1
+        bookCode: bytie
+        chapter: 29
+        short: Быт:29:35
+    translates:
+      kassian: Авраам родил Исаака; Исаак родил Иакова; Иаков родил Иуду и братьев его;
+      podstr: Авраам родил Исаака, Исаак же родил Иакова, Иаков же родил Иуду и
+        братьев его,
+      csya: Авраам роди исаака. Исаак же роди иакова. Иаков же роди иуду и братию его.
+      averincev: Авраам породил Исаака; Исаак породил Иакова; Иаков породил Иуду и
+        братьев его;
+      ungerov: ""
+      csya_old: Ґвраaмъ роди2 їсаaка. І3саaкъ же роди2 їaкwва. І3aкwвъ же роди2 їyду
+        и3 брaтію є3гw2.
+      sovr_rbo: ""
+      latin: Abraham genuit Isaac. Isaac autem genuit Jacob. Jacob autem genuit Judam,
+        et fratres ejus.
+      ukr: Авраам породив Ісака, а Ісак породив Якова, а Яків породив Юду й братів
+        його.
+      nkjv: Abraham begot Isaac, Isaac begot Jacob, and Jacob begot Judah and his
+        brothers.
+      desnitsky: ""
+      tex_rec: ᾽Αβραὰμ ἐγέννησεν τὸν ᾽Ισαάκ, ᾽Ισαὰκ δὲ ἐγέννησεν τὸν ᾽Ιακώβ, ᾽Ιακὼβ δὲ
+        ἐγέννησεν τὸν ᾽Ιούδαν καὶ τοὺς ἀδελφοὺς αὐτοῦ,
+      deutsch: Abraham zeugte Isaak. Isaak zeugte Jakob. Jakob zeugte Juda und seine
+        Brüder.
+      bel_syomukha: Абрагам спарадзіў Ісака, Ісак спарадзіў Якава, Якаў спарадзіў Юду
+        і братоў ягоных;
+      nrt: "Авраам был отцом Исаака, \r
+
+        Исаак – отцом Иакова, \r
+
+        Иаков – отцом Иуды и его братьев,"
+      spanish: Abraham engendro a Isaac, Isaac a Jacob, Jacob a Judá y a sus hermanos;
+      peshitta: ܐܰܒ݂ܪܳܗܳܡ ܐܰܘܠܶܕ݂ ܠܺܐܝܣܚܳܩ ܐܺܝܣܚܳܩ ܐܰܘܠܶܕ݂ ܠܝܰܥܩܽܘܒ݂ ܝܰܥܩܽܘܒ݂ ܐܰܘܠܶܕ݂
+        ܠܺܝܗܽܘܕ݂ܳܐ ܘܠܰܐܚܰܘܗ݈ܝ܂
+      romana: Avraam a nascut pe Isaac; Isaac a nascut pe Iacov; Iacov a nascut pe
+        Iuda si fratii lui;
+      francais: Abraham engendra Isaac; Isaac engendra Jacob; Jacob engendra Juda et
+        ses frères;
+      italian: Abramo generò Isacco, Isacco generò Giacobbe, Giacobbe generò Giuda e i
+        suoi fratelli,
+      old_georgian: აბრაჰამ შვა ისაკ; ისაკ შვა იაკობ; იაკობ შვა იუდა და ძმანი მისნი;
+      portuguese: A Abraão nasceu Isaque; a Isaque nasceu Jacó; a Jacó nasceram Judá e
+        seus irmãos;
+      polish: "Abraham był ojcem Izaaka; Izaak ojcem Jakuba; Jakub ojcem Judy i jego\r
+
+        braci;"
+      pobedonostsev: Авраам родил Исаака; Исаак же родил Иакова; Иаков же родил Иуду и
+        братьев его;
+      new_text: "Вот Его предки: От Авраама до царя Давида: Авраам, Исаак, Иаков, Иуда
+        и его братья,"
+      serbian: Авраам роди Исака. А  Исак роди Јакова. А Јаков роди Јуду и браћу његову.
+      bulgarian: Авраам роди Исаака; Исаак роди Иакова; Иаков роди Иуда и братята му;
+      Lutkovsky: "У Авраама родился Исаак; \r
+
+        у Исаака родился Иаков; \r
+
+        у Иакова родились Иуда и братья его;"
+      bel_boc: "Аўраам нарадзіў Ісаака;\r
+
+        Ісаак нарадзіў Іакава;\r
+
+        Іакаў нарадзіў Іуду і братоў ягоных;"
+      ukr2: Авраам був батьком Ісаака, Ісаак – Якова, Яків – Юди і братів його.
+      ukr3: Авраам породив Ісаака; а Ісаак породив Якова; а Яков породив Юду та братів
+        його;
+      zhukovsky: Авраам родил Исаака. Исаак родил Иакова. Иаков родил Иуду и братий его.
+      czech: Abraham mel syna Izaka, Izak Jakoba, Jakob Judu a jeho bratry,
+      st_text: Авраам родил Исаака; Исаак родил Иакова; Иаков родил Иуду и братьев его;
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 24991
+    number: 3
+    bookId: 51
+    text: Иуда родил Фареса и Зару от Фамари; Фарес родил Есрома; Есром родил Арама;
+    chapter: 1
+    chapterId: 1113
+    parallels:
+      - verseId: 10650
+        bookId: 1
+        bookCode: bytie
+        chapter: 38
+        short: Быт:38:27
+      - verseId: 10653
+        bookId: 1
+        bookCode: bytie
+        chapter: 38
+        short: Быт:38:30
+      - verseId: 10928
+        bookId: 1
+        bookCode: bytie
+        chapter: 46
+        short: Быт:46:12
+      - verseId: 33308
+        bookId: 8
+        bookCode: kniga-ruf
+        chapter: 4
+        short: Руф:4:18
+      - verseId: 2971
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 2
+        short: 1 Пар:2:4
+      - verseId: 2972
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 2
+        short: 1 Пар:2:5
+    translates:
+      kassian: Иуда родил Фареса и Зару от Фамари; Фарес родил Есрома; Есром родил
+        Арама;
+      podstr: Иуда же родил Фареса и Зару от Фамарь, Фарес же родил Есрома, Есром же
+        родил Арама,
+      csya: Иуда же роди фареса и зару от фамары. Фарес же роди есрома. Есром же роди
+        арама.
+      averincev: Иуда породил Фареса и Зару от Фамари; Фарес породил Эсрома; Эсром
+        породил Арама;
+      ungerov: ""
+      csya_old: І3yда же роди2 фаре1са и3 зaру t fамaры. Фаре1съ же роди2 є3сро1ма.
+        є3сро1мъ же роди2 ґрaма.
+      sovr_rbo: ""
+      latin: Judas autem genuit Phares, et Zaram de Thamar. Phares autem genuit Esron.
+        Esron autem genuit Aram.
+      ukr: Юда ж породив Фареса та Зару від Тамари. Фарес же породив Есрома, а Есром
+        породив Арама.
+      nkjv: Judah begot Perez and Zerah by Tamar, Perez begot Hezron, and Hezron begot
+        Ram.
+      desnitsky: ""
+      tex_rec: ᾽Ιούδας δὲ ἐγέννησεν τὸν Φάρες καὶ τὸν Ζάρα ἐκ τῆς Θαμάρ, Φάρες δὲ
+        ἐγέννησεν τὸν Ἑσρώμ, Ἑσρὼμ δὲ ἐγέννησεν τὸν ᾽Αράμ,
+      deutsch: Juda zeugte Perez und Serah von Thamar. Perez zeugte Hezron. Hezron
+        zeugte Ram.
+      bel_syomukha: Юда спарадзіў Фарэса і Зару ад Тамары; Фарэс спарадзіў Эсрома;
+        Эсром спарадзіў Арама;
+      nrt: "Иуда – отцом Пареца и Зераха, а матерью их была Фамарь, \r
+
+        Парец был отцом Хецрона, \r
+
+        Хецрон – отцом Рама,"
+      spanish: Judá engendró a Fares y a Zara en Tamar; Fares engendró a Esrom, Esrom
+        a Aram,
+      peshitta: ܝܺܗܽܘܕ݂ܳܐ ܐܰܘܠܶܕ݂ ܠܦ݂ܰܪܨ ܘܰܠܙܰܪܚ ܡܶܢ ܬ݁ܳܡܳܪ ܦ݁ܰܪܨ ܐܰܘܠܶܕ݂ ܠܚܶܨܪܳܘܢ
+        ܚܶܨܪܽܘܢ ܐܰܘܠܶܕ݂ ܠܳܐܪܳܡ܂
+      romana: Iuda a nascut pe Fares si pe Zara, din Tamar; Fares a nascut pe Esrom;
+        Esrom a nascut pe Aram;
+      francais: Juda engendra de Thamar Pharès et Zara; Pharès engendra Esrom; Esrom
+        engendra Aram;
+      italian: Giuda generò Fares e Zara da Tamar, Fares generò Esròm, Esròm generò
+        Aram,
+      old_georgian: ხოლო იუდა შვა ფარეზ და ზარა თამარისგან; და ფარეზ შვა ესრომ; ესრომ
+        შვა არამ;
+      portuguese: a Judá nasceram, de Tamar, Farés e Zará; a Farés nasceu Esrom; a
+        Esrom nasceu Arão;
+      polish: "Juda zaś był ojcem Faresa i Zary, których matką była Tamar. Fares był
+        ojcem\r
+
+        Ezrona; Ezron ojcem Arama;"
+      pobedonostsev: Иуда же родил Фареса и Зару от Фамари; Фарес же родил Есрома;
+        Есром же родил Арама;
+      new_text: Перец и Зерах (их матерью была Тамар), Хецрон, Рам,
+      serbian: А Јуда роди Фареса и Зару с Тамаром. А Фарес роди Есрома. А Есром роди
+        Арама.
+      bulgarian: Иуда роди Фареса и Зара от Тамар; Фарес роди Есрома; Есром роди Арама;
+      Lutkovsky: "У Иуды от Фамари родились Фарес и Зара; \r
+
+        у Фареса родился Есром; \r
+
+        у Есрома родился Арам;"
+      bel_boc: "Іуда нарадзіў Фарэса і Зару ад Фамары;\r
+
+        Фарэс нарадзіў Эсрома;\r
+
+        Эсром нарадзіў Арама;"
+      ukr2: Юда був батьком Фареса та Зари від Тамари. Фарес був батьком Есрома, Есром
+        – Арама,
+      ukr3: а Юда породив Фареса та Зару від Тамари; а Фарес породив Єсрома; а Єсром
+        породив Арама;
+      zhukovsky: Иуда родил Фареса и Зару от Фамары. Фарес родил Эсрома. Эсром родил
+        Арама.
+      czech: Juda Farese a Zaru z Tamary, Fares mel syna Chesroma, Chesrom Arama.
+      st_text: Иуда родил Фареса и Зару от Фамари; Фарес родил Есрома; Есром родил
+        Арама;
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 24992
+    number: 4
+    bookId: 51
+    text: Арам родил Аминадава; Аминадав родил Наассона; Наассон родил Салмона;
+    chapter: 1
+    chapterId: 1113
+    parallels: []
+    translates:
+      kassian: Арам родил Аминадава; Аминадав родил Наасона; Наасон родил Салмона;
+      podstr: Арам же родил Аминадава, Аминадав же родил Наасона, Наасон же родил
+        Салмона,
+      csya: Арам же роди аминадава. Аминадав же роди наассона. Наассон же роди
+        салмона.
+      averincev: Арам породил Аминадава; Аминадав породил Наасона; Наасон породил Салмона;
+      ungerov: ""
+      csya_old: Ґрaмъ же роди2 ґмінадaва. Ґмінадaвъ же роди2 наассHна. НаассHнъ же
+        роди2 салмHна.
+      sovr_rbo: ""
+      latin: Aram autem genuit Aminadab. Aminadab autem genuit Naasson. Naasson autem
+        genuit Salmon.
+      ukr: А Арам породив Амінадава, Амінадав же породив Наассона, а Наассон породив
+        Салмона.
+      nkjv: Ram begot Amminadab, Amminadab begot Nahshon, and Nahshon begot Salmon.
+      desnitsky: ""
+      tex_rec: ᾽Αρὰμ δὲ ἐγέννησεν τὸν ᾽Αμιναδάβ, ᾽Αμιναδὰβ δὲ ἐγέννησεν τὸν Ναασσών,
+        Ναασσὼν δὲ ἐγέννησεν τὸν Σαλμών,
+      deutsch: Ram zeugte Amminadab. Amminadab zeugte Nahesson. Nahesson zeugte Salma.
+      bel_syomukha: Арам спарадзіў Амінадава; Амінадаў спарадзіў Наасона; Наасон
+        спарадзіў Салмона;
+      nrt: "Рам был отцом Аминадава, \r
+
+        Аминадав – отцом Нахшона, \r
+
+        Нахшон – отцом Салмона,"
+      spanish: Aram a Aminadab, Aminadab a Naasón, Naasón a Salmón,
+      peshitta: ܐܳܪܳܡ ܐܰܘܠܶܕ݂ ܠܥܰܡܺܝܢܳܕ݂ܳܒ݂ ܥܰܡܺܝܢܳܕ݂ܳܒ݂ ܐܰܘܠܶܕ݂ ܠܢܰܚܫܳܘܢ ܢܰܚܫܽܘܢ
+        ܐܰܘܠܶܕ݂ ܠܣܰܠܡܳܘܢ܂
+      romana: Aram a nascut pe Aminadav; Aminadav a nascut pe Naason; Naason a nascut
+        pe Salmon;
+      francais: Aram engendra Aminadab; Aminadab engendra Naasson; Naasson engendra
+        Salmon;
+      italian: Aram generò Aminadàb, Aminadàb generò Naassòn, Naassòn generò Salmòn,
+      old_georgian: არამ შვა ამინადაბ; ამინადაბ შვა ნაასონ; ნაასონ შვა სალმონ;
+      portuguese: a Arão nasceu Aminadabe; a Aminadabe nasceu Nasom; a Nasom nasceu Salmom;
+      polish: Aram ojcem Aminadaba; Aminadab ojcem Naassona; Naasson ojcem Salmona;
+      pobedonostsev: Арам же родил Аминадава; Аминадав же родил Наассона; Наассон же
+        родил Салмона;
+      new_text: Амминадав, Нахшон, Сальмон,
+      serbian: А Арам роди Аминадава. А Аминадав роди Наасона. А Наасон роди Салмона.
+      bulgarian: Арам роди Аминадава; Аминадав роди Наасона; Наасон роди Салмона;
+      Lutkovsky: "у Арама родился Аминадав; \r
+
+        у Аминадава родился Наассон; \r
+
+        у Наассона родился Салмон;"
+      bel_boc: "Арам нарадзіў Амінадава;\r
+
+        Амінадаў нарадзіў Наасона;\r
+
+        Наасон нарадзіў Салмона;"
+      ukr2: Арам – Амінадава, Амінадав – Наасона, Наасон – Салмона,
+      ukr3: а Арам породив Аминадава; а Аминадав породив Насона; а Насон породив
+        Салмона;
+      zhukovsky: Арам родил Аминадава, Аминадав родил Наасона. Наасон родил Салмона.
+      czech: Aram mel syna Aminadaba, Aminadab Naasona, Naason Salmona,
+      st_text: Арам родил Аминадава; Аминадав родил Наассона; Наассон родил Салмона;
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 24993
+    number: 5
+    bookId: 51
+    text: Салмон родил Вооза от Рахавы; Вооз родил Овида от Руфи; Овид родил Иессея;
+    chapter: 1
+    chapterId: 1113
+    parallels:
+      - verseId: 27460
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 6
+        short: Нав:6:24
+      - verseId: 33252
+        bookId: 8
+        bookCode: kniga-ruf
+        chapter: 2
+        short: Руф:2:3
+      - verseId: 33307
+        bookId: 8
+        bookCode: kniga-ruf
+        chapter: 4
+        short: Руф:4:17
+      - verseId: 33311
+        bookId: 8
+        bookCode: kniga-ruf
+        chapter: 4
+        short: Руф:4:21
+      - verseId: 2978
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 2
+        short: 1 Пар:2:11
+    translates:
+      kassian: Салмон родил Вооза от Рахавы; Вооз родил Овида от Руфи; Овид родил
+        Иессея;
+      podstr: Салмон же родил Воэса от Рахав, Воэс же родил Иовида от Руфи, Иовид же
+        родил Иессея,
+      csya: Салмон же роди вооза от рахавы. Вооз же роди овида от руфы. Овид же роди
+        иессеа.
+      averincev: Салмон породил Вооза от Раав; Вооз породил Овида от Руфи; Овид
+        породил Иессея;
+      ungerov: ""
+      csya_old: СалмHнъ же роди2 воо1за t рахaвы. Воо1зъ же роди2 њви1да t рyfы.
+        Њви1дъ же роди2 їессе1а.
+      sovr_rbo: ""
+      latin: Salmon autem genuit Booz de Rahab. Booz autem genuit Obed ex Ruth. Obed
+        autem genuit Jesse. Jesse autem genuit David regem.
+      ukr: Салмон же породив Вооза від Рахави, а Вооз породив Йовіда від Рути, Йовід
+        же породив Єссея.
+      nkjv: Salmon begot Boaz by Rahab, Boaz begot Obed by Ruth, Obed begot Jesse,
+      desnitsky: ""
+      tex_rec: Σαλμὼν δὲ ἐγέννησεν τὸν Βοὸζ ἐκ τῆς ῾Ραχάβ, Βοὸζ δὲ ἐγέννησεν τὸν
+        ᾽Ιωβὴδ ἐκ τῆς ῾Ρούθ, ᾽Ιωβὴδ δὲ ἐγέννησεν τὸν ᾽Ιεσσαί,
+      deutsch: Salma zeugte Boas von der Rahab. Boas zeugte Obed von der Ruth. Obed
+        zeugte Jesse.
+      bel_syomukha: Салмон спарадзіў Ваоза ад Рахавы; Ваоз спарадзіў Авіда ад Руты;
+        Авід спарадзіў Ясея;
+      nrt: "Салмон – отцом Боаза, матерью Боаза была Раав, \r
+
+        Боаз был отцом \r
+
+        Овида, матерью Овида была Руфь, \r
+
+        Овид был отцом Иессея,"
+      spanish: Salmón a Booz en Rahab; Booz engendró a Obed en Rut. Obed engendró a
+        Jesé,
+      peshitta: ܣܰܠܡܳܘܢ ܐܰܘܠܶܕ݂ ܠܒ݂ܳܥܳܙ ܡܶܢ ܪܳܚܳܒ݂ ܒ݁ܳܥܳܙ ܐܰܘܠܶܕ݂ ܠܥܽܘܒ݂ܺܝܕ݂ ܡܶܢ
+        ܪܳܥܽܘܬ݂ ܥܽܘܒ݂ܺܝܕ݂ ܐܰܘܠܶܕ݂ ܠܺܐܝܫܰܝ܂
+      romana: Salmon a nascut pe Booz, din Rahav; Booz a nascut pe Iobed, din Rut;
+        Iobed a nascut pe Iesei;
+      francais: Salmon engendra Boaz de Rahab; Boaz engendra Obed de Ruth;
+      italian: Salmòn generò Booz da Racab, Booz generò Obed da Rut, Obed generò Iesse,
+      old_georgian: სალმონ შვა ბოოს რექაბისგან; ბოოს შვა იობედ რუთისგან; იობედ შვა იესე;
+      portuguese: a Salmom nasceu, de Raabe, Booz; a Booz nasceu, de Rute, Obede; a
+        Obede nasceu Jessé;
+      polish: "Salmon ojcem Booza, a matką była Rachab. Booz był ojcem Obeda, a
+        matką\r
+
+        była Rut. Obed był ojcem Jessego,"
+      pobedonostsev: Салмон же родил Вооза от Рахавы; Вооз же родил Овида от Руфи;
+        Овид же родил Иессея;
+      new_text: Боаз (его матерью была Рахав), Овед (его матерью была Рут),
+      serbian: А Салмон роди Вооза с Рахавом. А Вооз роди Овида с Рутом. А Овид роди
+        Јесеја.
+      bulgarian: Салмон роди Вооза от Раав; Вооз роди Овида от Рут; Овид роди Иесея;
+      Lutkovsky: "у Салмона от Рахави родился Воез; \r
+
+        у Воеза от Руфи родился Иовид; \r
+
+        у Иовида родился Иессей;"
+      bel_boc: "Салмон нарадзіў Ваоза ад Рахавы;\r
+
+        Ваоз нарадзіў Авіда ад Руфі;\r
+
+        Авід нарадзіў Іесея;"
+      ukr2: Салмон – Вооза від Рахави, Вооз – Йоведа від Рути, Йовед – Єссея,
+      ukr3: а Салмон породив Вооза від Рахави; а Вооз породив Овида від Рути; а Овид
+        породив Єссея;
+      zhukovsky: Салмон родил Вооза от Рахавы. Вооз родил Овида от Руфи. Овид родил
+        Иессея.
+      czech: Salmon mel syna Boaza z Rachaby, Boaz Obeda z Rut, Obed Isaje
+      st_text: Салмон родил Вооза от Рахавы; Вооз родил Овида от Руфи; Овид родил
+        Иессея;
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 24994
+    number: 6
+    bookId: 51
+    text: Иессей родил Давида царя; Давид царь родил Соломона от бывшей за Уриею;
+    chapter: 1
+    chapterId: 1113
+    parallels:
+      - verseId: 9858
+        bookId: 1
+        bookCode: bytie
+        chapter: 17
+        short: Быт:17:6
+      - verseId: 9868
+        bookId: 1
+        bookCode: bytie
+        chapter: 17
+        short: Быт:17:16
+      - verseId: 33307
+        bookId: 8
+        bookCode: kniga-ruf
+        chapter: 4
+        short: Руф:4:17
+      - verseId: 240
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 17
+        short: 1 Цар:17:12
+      - verseId: 3903
+        bookId: 10
+        bookCode: 2a-kniga-carstv
+        chapter: 12
+        short: 2 Цар:12:24
+      - verseId: 2982
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 2
+        short: 1 Пар:2:15
+    translates:
+      kassian: Иессей родил Давида царя; Давид родил Соломона от бывшей за Урией;
+      podstr: Иессей же родил Давида царя. Давид же родил Соломона от Урии,
+      csya: Иессей же роди давида царя. Давид же царь роди соломона от уриины.
+      averincev: Иессей породил царя Давида; Давид породил Соломона от той, что была
+        замужем за Урией;
+      ungerov: ""
+      csya_old: І3ессе1й же роди2 дв7да царS. Дв7дъ же цaрь роди2 соломHна t ўрjины.
+      sovr_rbo: ""
+      latin: David autem rex genuit Salomonem ex ea quae fuit Uriae.
+      ukr: А Єссей породив царя Давида, Давид же породив Соломона від Урієвої.
+      nkjv: and Jesse begot David the king. David the king begot Solomon by her who
+        had been the wife of Uriah.
+      desnitsky: ""
+      tex_rec: ᾽Ιεσσαὶ δὲ ἐγέννησεν τὸν Δαυὶδ τὸν βασιλέα. Δαυὶδ δὲ ἐγέννησεν τὸν
+        Σολομῶνα ἐκ τῆς τοῦ Οὐρίου,
+      deutsch: Jesse zeugte den König David. Der König David zeugte Salomo von dem
+        Weib des Uria.
+      bel_syomukha: Ясей спарадзіў Давіда цара; Давід цар спарадзіў Саламона ад былой
+        жонкі Урыевай;
+      nrt: "а Иессей – отцом царя Давида. \r
+
+        Давид был отцом Соломона, \r
+
+        матерью Соломона была бывшая жена Урии,"
+      spanish: "Jesé engendró al rey David, David a Salomó en la mujer de Urías:"
+      peshitta: ܐܺܝܫܰܝ ܐܰܘܠܶܕ݂ ܠܕ݂ܰܘܺܝܕ݂ ܡܰܠܟ݁ܳܐ ܕ݁ܰܘܺܝܕ݂ ܐܰܘܠܶܕ݂ ܠܰܫܠܶܝܡܳܘܢ ܡܶܢ
+        ܐܰܢ݈ܬ݁ܬ݂ܶܗ ܕ݁ܽܐܘܪܺܝܳܐ܂
+      romana: Iesei a nascut pe David regele; David a nascut pe Solomon din femeia lui
+        Urie;
+      francais: Obed engendra Isaï; Isaï engendra David. Le roi David engendra Salomon
+        de la femme d'Urie;
+      italian: Iesse generò il re Davide. Davide generò Salomone da quella che era
+        stata la mo glie di Urìa,
+      old_georgian: იესე შვა დავით მეფე; დავით მეფემან შვა სოლომონ ურიაჲს ცოლისაგან;
+      portuguese: e a Jessé nasceu o rei Davi. A Davi nasceu Salomão da que fora
+        mulher de Urias;
+      polish: a Jesse ojcem króla Dawida. Dawid był ojcem Salomona, a matką była
+        [dawna] żona Uriasza.
+      pobedonostsev: Иессей же родил Давида царя; Давид же царь родил Соломона от
+        бывшей за Уриею;
+      new_text: "Ишай, царь Давид. От Давида до выселения в Вавилон:"
+      serbian: А Јесеј роди Давида цара. А Давид цар роди Соломона са Уријиницом.
+      bulgarian: Иесей роди цар Давида; цар Давид роди Соломона от Уриевата жена;
+      Lutkovsky: "у Иессея родился царь Давид. \r
+
+        У Давида царя от вдовы Урии родился Соломон;"
+      bel_boc: "Іесей нарадзіў Давіда цара;\r
+
+        Давід цар нарадзіў Саламона ад былой жонкі Урыевай;"
+      ukr2: Єссей був батьком царя Давида, Давид – Соломона від жінки Урії.
+      ukr3: а Єссей породив Давида царя; а Давид цар породив Соломона від Урієвої;
+      zhukovsky: Иессей родил Давида. Давид царь родил Саломона от жены Урииной.
+      czech: a Isaj Davida krale. David mel syna Salomouna z zeny Uriasovy,
+      st_text: Иессей родил Давида царя; Давид царь родил Соломона от бывшей за Уриею;
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 24995
+    number: 7
+    bookId: 51
+    text: Соломон родил Ровоама; Ровоам родил Авию; Авия родил Асу;
+    chapter: 1
+    chapterId: 1113
+    parallels:
+      - verseId: 6917
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 11
+        short: 3 Цар:11:43
+      - verseId: 3300
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 3
+        short: 1 Пар:3:10
+    translates:
+      kassian: Соломон родил Ровоама; Ровоам родил Авию; Авия родил Асу;
+      podstr: Соломон же родил Ровоама, Ровоам же родил Авию, Авия же родил Асафа,
+      csya: Соломон же роди ровоама. Ровоам же роди авию. Авиа же роди асу.
+      averincev: Соломон породил Ровоама; Ровоам породил Авию; Авия породил Асу;
+      ungerov: ""
+      csya_old: СоломHнъ же роди2 ровоaма. Ровоaмъ же роди2 ґвjю. Ґвjа же роди2 ѓсу.
+      sovr_rbo: ""
+      latin: Salomon autem genuit Roboam. Roboam autem genuit Abiam. Abias autem
+        genuit Asa.
+      ukr: Соломон же породив Ровоама, а Ровоам породив Авію, а Авія породив Асафа.
+      nkjv: Solomon begot Rehoboam, Rehoboam begot Abijah, and Abijah begot Asa.
+      desnitsky: ""
+      tex_rec: Σολομὼν δὲ ἐγέννησεν τὸν ῾Ροβοάμ, ῾Ροβοὰμ δὲ ἐγέννησεν τὸν ᾽Αβιά, ᾽Αβιὰ
+        δὲ ἐγέννησεν τὸν ᾽Ασάφ,
+      deutsch: Salomo zeugte Rehabeam. Rehabeam zeugte Abia. Abia zeugte Asa.
+      bel_syomukha: Саламон спарадзіў Раваама; Раваам спарадзіў Авію; Авія спарадзіў Асу;
+      nrt: "Соломон был отцом Ровоама, \r
+
+        Ровоам – отцом Авии, \r
+
+        Авия – отцом Асы,"
+      spanish: Salomón engendró a Roboam, Roboam a Abías, Abías a Asa,
+      peshitta: ܫܠܶܝܡܽܘܢ ܐܰܘܠܶܕ݂ ܠܰܪܚܰܒ݂ܥܰܡ ܪܚܰܒ݂ܥܰܡ ܐܰܘܠܶܕ݂ ܠܰܐܒ݂ܺܝܳܐ ܐܰܒ݂ܺܝܳܐ
+        ܐܰܘܠܶܕ݂ ܠܳܐܣܳܐ܂
+      romana: Solomon a nascut pe Roboam; Roboam a nascut pe Abia; Abia a nascut pe
+        Asa;
+      francais: Salomon engendra Roboam; Roboam engendra Abia; Abia engendra Asa;
+      italian: Salomone generò Roboamo, Roboamo generò Abìa, Abìa generò Asàf,
+      old_georgian: სოლომონ შვა რობოამ; რობოამ შვა აბია; აბია შვა ასა;
+      portuguese: a Salomão nasceu Roboão; a Roboão nasceu Abias; a nasceu Abias
+        nasceu Asafe;
+      polish: Salomon był ojcem Roboama; Roboam ojcem Abiasza; Abiasz ojcem Asy;
+      pobedonostsev: Соломон же родил Ровоама; Ровоам же родил Авию; Авия же родил Асу;
+      new_text: Давид, Соломон (его матерью была бывшая жена Урии), Рехавьям, Авия,
+      serbian: А Соломон роди Ровоама. А Ровоам роди Авију. А Авија роди Асу.
+      bulgarian: Соломон роди Ровоама; Ровоам роди Авия; Авия роди Аса;
+      Lutkovsky: "у Соломона родился Ровоам; \r
+
+        у Ровоама родился Авия; \r
+
+        у Авии родился Асаф;"
+      bel_boc: "Саламон нарадзіў Раваама;\r
+
+        Раваам нарадзіў Авію;\r
+
+        Авія нарадзіў Асу;"
+      ukr2: Соломон же був батьком Ровоама, Ровоам – Авії, Авія – Асафа,
+      ukr3: а Соломон породив Ровоама; а Ровоам породив Авію; а Авія породив Асу;
+      zhukovsky: Саломон родил Ровоама. Ровоам родил Авию. Авия родил Асу.
+      czech: Salomoun Roboama, Roboam Abiu, Abia Asafa,
+      st_text: Соломон родил Ровоама; Ровоам родил Авию; Авия родил Асу;
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 24996
+    number: 8
+    bookId: 51
+    text: Аса родил Иосафата; Иосафат родил Иорама; Иорам родил Озию;
+    chapter: 1
+    chapterId: 1113
+    parallels: []
+    translates:
+      kassian: Аса родил Иосафата; Иосафат родил Иорама; Иорам родил Озию;
+      podstr: Асаф же родил Иосафата, Иосафат же родил Иорама, Иорам же родил Озию,
+      csya: Аса же роди иосафата. Иосафат же роди иорама. Иорам же роди озию.
+      averincev: Аса породил Иосафата; Иосафат породил Иорама; Иорам породил Озию;
+      ungerov: ""
+      csya_old: Ѓса же роди2 їwсафaта. І3wсафaтъ же роди2 їwрaма. І3wрaмъ же роди2 nзjю.
+      sovr_rbo: ""
+      latin: Asa autem genuit Josophat. Josophat autem genuit Joram. Joram autem
+        genuit Oziam.
+      ukr: Асаф же породив Йосафата, а Йосафат породив Йорама, Йорам же породив Озію.
+      nkjv: Asa begot Jehoshaphat, Jehoshaphat begot Joram, and Joram begot Uzziah.
+      desnitsky: ""
+      tex_rec: ᾽Ασὰφ δὲ ἐγέννησεν τὸν ᾽Ιωσαφάτ, ᾽Ιωσαφὰτ δὲ ἐγέννησεν τὸν ᾽Ιωράμ,
+        ᾽Ιωρὰμ δὲ ἐγέννησεν τὸν ᾽Οζίαν,
+      deutsch: Asa zeugte Josaphat. Josaphat zeugte Joram. Joram zeugte Usia.
+      bel_syomukha: Аса спарадзіў Ёсафата; Ёсафат спарадзіў Ярама; Ярам спарадзіў Азію;
+      nrt: "Аса – отцом Иосафата, \r
+
+        Иосафат – отцом Иорама, \r
+
+        Иорам – отцом Уззии,"
+      spanish: Asa a Josafat, Josafat a Joram, Joram a Ozías,
+      peshitta: ܐܳܣܳܐ ܐܰܘܠܶܕ݂ ܠܝܳܗܽܘܫܳܦ݂ܳܛ ܝܳܗܽܘܫܳܦ݂ܳܛ ܐܰܘܠܶܕ݂ ܠܝܽܘܪܳܡ ܝܽܘܪܳܡ ܐܰܘܠܶܕ݂
+        ܠܥܽܘܙܺܝܳܐ܂
+      romana: Asa a nascut pe Iosafat; Iosafat a nascut pe Ioram; Ioram a nascut pe
+        Ozia;
+      francais: Asa engendra Josaphat; Josaphat engendra Joram; Joram engendra Ozias;
+      italian: Asàf generò Giòsafat, Giòsafat generò Ioram, Ioram generò Ozia,
+      old_georgian: ასა შვა იოსაფატ; იოსაფატ შვა იორამ; იორამ შვა ოზია; ოზია შვა იოათამ;
+      portuguese: a Asafe nasceu Josafá; a Josafá nasceu Jorão; a Jorão Ozias;
+      polish: Asa ojcem Jozafata; Jozafat ojcem Jorama; Joram ojcem Ozjasza;
+      pobedonostsev: Аса же родил Иосафата; Иосафат же родил Иорама; Иорам же родил Озию;
+      new_text: Асаф, Иегошафат, Иегорам,
+      serbian: А Аса роди Јосафата. А Јосафат роди Јорама. А Јорам роди Озију.
+      bulgarian: Аса роди Иосафата; Иосафат роди Иорама; Иорам роди Озия;
+      Lutkovsky: "у Асафа родился Иосафат; \r
+
+        у Иосафата родился Иорам; \r
+
+        у Иорама родился Озия;"
+      bel_boc: "Аса нарадзіў Іасафата;\r
+
+        Іасафат нарадзіў Іарама;\r
+
+        Іарам нарадзіў Азію;"
+      ukr2: Асаф – Йосафата, Йосафат – Йорама, Йорам – Озії,
+      ukr3: а Аса породив Йосафата; а Йосафат породив Йорама; а Йорам породив Озію;
+      zhukovsky: Аса родил Иосафата. Иосафат родил Иорама. Иорам родил Озию.
+      czech: Asaf Josafata, Josafat Jorama, Joram Uziase.
+      st_text: Аса родил Иосафата; Иосафат родил Иорама; Иорам родил Озию;
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 24997
+    number: 9
+    bookId: 51
+    text: Озия родил Иоафама; Иоафам родил Ахаза; Ахаз родил Езекию;
+    chapter: 1
+    chapterId: 1113
+    parallels: []
+    translates:
+      kassian: Озия родил Иоафама; Иоафам родил Ахаза; Ахаз родил Езекию;
+      podstr: Озия же родил Иоафама, Иоафам же родил Ахаза, Ахаз же родил Езекию,
+      csya: Озиа же роди иоафама. Иоафам же роди ахаза. Ахаз же роди езекию.
+      averincev: Озия породил Иоафама; Иоафам породил Ахаза; Ахаз породил Езекию;
+      ungerov: ""
+      csya_old: Nзjа же роди2 їwаfaма. І3wаfaмъ же роди2 ґхaза. Ґхaзъ же роди2 є3зекjю.
+      sovr_rbo: ""
+      latin: Ozias autem genuit Joatham. Joatham autem genuit Achaz. Achaz autem
+        genuit Ezechiam.
+      ukr: Озія ж породив Йоатама, а Йоатам породив Ахаза, Ахаз же породив Єзекію.
+      nkjv: Uzziah begot Jotham, Jotham begot Ahaz, and Ahaz begot Hezekiah.
+      desnitsky: ""
+      tex_rec: ᾽Οζίας δὲ ἐγέννησεν τὸν ᾽Ιωαθάμ, ᾽Ιωαθὰμ δὲ ἐγέννησεν τὸν ᾽Αχάζ, ᾽Αχὰζ
+        δὲ ἐγέννησεν τὸν Ἑζεκίαν,
+      deutsch: Usia zeugte Jotham. Jotham zeugte Ahas. Ahas zeugte Hiskia.
+      bel_syomukha: Азія спарадзіў Ёатама; Ёатам спарадзіў Ёзэкію;
+      nrt: "Уззия – отцом Иотама, \r
+
+        Иотам – отцом Ахаза, \r
+
+        Ахаз – отцом Езекии,"
+      spanish: Ozías a Joatam, Joatam a Acaz, Acaz a Ezequías,
+      peshitta: ܥܽܘܙܺܝܳܐ ܐܰܘܠܶܕ݂ ܠܝܽܘܬ݂ܳܡ ܝܽܘܬ݂ܳܡ ܐܰܘܠܶܕ݂ ܠܳܐܚܳܙ ܐܳܚܳܙ ܐܰܘܠܶܕ݂ ܠܚܶܙܰܩܝܳܐ܂
+      romana: Ozia a nascut pe Ioatam; Ioatam a nascut pe Ahaz; Ahaz a nascut pe
+        Iezechia;
+      francais: Ozias engendra Joatham; Joatham engendra Achaz; Achaz engendra Ézéchias;
+      italian: Ozia generò Ioatam, Ioatam generò Acaz, Acaz generò Ezechia,
+      old_georgian: იოათამ შვა აქაზ; აქაზ შვა ეზეკია;
+      portuguese: a Ozias nasceu Joatão; a Joatão nasceu Acaz; a Acaz nasceu Ezequias;
+      polish: Ozjasz ojcem Joatama; Joatam ojcem Achaza; Achaz ojcem Ezechiasza;
+      pobedonostsev: Озия же родил Иоафама; Иоафам же родил Ахаза; Ахаз же родил Езекию;
+      new_text: Узия, Иотам, Ахаз,
+      serbian: А Озија роди Јоатама. А Јоатам роди Ахаза. А Ахаз роди Језекију.
+      bulgarian: Озия роди Иоатама; Иоатам роди Ахаза; Ахаз роди Езекия;
+      Lutkovsky: "у Озии родился Иоафам; \r
+
+        у Иоафама родился Ахаз; \r
+
+        у Ахаза родился Езекия;"
+      bel_boc: "Азія нарадзіў Іаафама;\r
+
+        Іаафам нарадзіў Ахаза;\r
+
+        Ахаз нарадзіў Езекію;"
+      ukr2: Озія – Йоатама, Йоатам – Ахаза, Ахаз – Єзекії,
+      ukr3: а Озія породив Йоатама; а Йоатам породив Ахаза; а Ахаз породив Єзекію;
+      zhukovsky: Озия родил Иоафама. Иоафам родил Ахаза. Ахаз родил Езекию.
+      czech: Uzias mel syna Jotama, Jotam Achaza, Achaz Ezechiase,
+      st_text: Озия родил Иоафама; Иоафам родил Ахаза; Ахаз родил Езекию;
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 24998
+    number: 10
+    bookId: 51
+    text: Езекия родил Манассию; Манассия родил Амона; Амон родил Иосию;
+    chapter: 1
+    chapterId: 1113
+    parallels: []
+    translates:
+      kassian: Езекия родил Манассию; Манассия родил Амона; Амон родил Иосию;
+      podstr: Езекия же родил Манассию, Манассия же родил Амоса, Амос же родил Иосию,
+      csya: Езекиа же роди манассию. Манассиа же роди амона. Амон же роди иосию.
+      averincev: Езекия породил Манассию; Манассия породил Амона; Амон породил Иосию;
+      ungerov: ""
+      csya_old: є3зекjа же роди2 манассjю. Манассjа же роди2 ґмHна. ҐмHнъ же роди2 їwсjю.
+      sovr_rbo: ""
+      latin: Ezechias autem genuit Manassen. Manasses autem genuit Amon. Amon autem
+        genuit Josiam.
+      ukr: А Єзекія породив Манасію, Манасія ж породив Амоса, а Амос породив Йосію.
+      nkjv: Hezekiah begot Manasseh, Manasseh begot Amon, and Amon begot Josiah.
+      desnitsky: ""
+      tex_rec: Ἑζεκίας δὲ ἐγέννησεν τὸν Μανασσῆ, Μανασσῆς δὲ ἐγέννησεν τὸν ᾽Αμώς,
+        ᾽Αμὼς δὲ ἐγέννησεν τὸν ᾽Ιωσίαν,
+      deutsch: Hiskia zeugte Manasse. Manasse zeugte Amon. Amon zeugte Josia.
+      bel_syomukha: Ёзэкія спарадзіў Манасію; Манасія спарадзіў Амона; Амон спарадзіў Ёсію;
+      nrt: "Езекия – отцом Манассии, \r
+
+        Манассия – отцом Амона, \r
+
+        Амон – отцом Иосии,"
+      spanish: Ezequías a Manasés, Manasés a Amón, Amón a Josías,
+      peshitta: ܚܶܙܰܩܝܳܐ ܐܰܘܠܶܕ݂ ܠܰܡܢܰܫܶܐ ܡܢܰܫܶܐ ܐܰܘܠܶܕ݂ ܠܰܐܡܽܘܢ ܐܰܡܽܘܢ ܐܰܘܠܶܕ݂
+        ܠܝܽܘܫܺܝܳܐ܂
+      romana: Iezechia a nascut pe Manase; Manase a nascut pe Amon; Amon a nascut pe
+        Iosia;
+      francais: Ézéchias engendra Manassé; Manassé engendra Amon; Amon engendra Josias;
+      italian: Ezechia generò Manasse, Manasse generò Amos, Amos generò Giosia,
+      old_georgian: ეზეკია შვა მანასე; მანასე შვა ამონ; ამონ შვა იოსია;
+      portuguese: a Ezequias nasceu Manassés; a Manassés nasceu Amom; a Amom nasceu Josias;
+      polish: Ezechiasz ojcem Manassesa; Manasses ojcem Amosa; Amos ojcem Jozjasza;
+      pobedonostsev: Езекия же родил Манассию; Манассия же родил Амона; Амон же родил Иосию;
+      new_text: Хизекия, Менаше, Амос,
+      serbian: А Језекија роди Манасију. А Манасија роди Амона. А Амон роди Јосију.
+      bulgarian: Езекия роди Манасия; Манасия роди Амона; Амон роди Иосия;
+      Lutkovsky: "у Езекии родился Манассия; \r
+
+        у Маннассии родился Амос; \r
+
+        у Амоса родился Иосия;"
+      bel_boc: "Езекія нарадзіў Манасію;\r
+
+        Манасія нарадзіў Амона;\r
+
+        Амон нарадзіў Іасію;"
+      ukr2: Єзекія – Манасії, Манасія – Амоса, Амос – Йосії,
+      ukr3: а Єзекія породив Манассію; а Манассія породив Амона; а Амон породив Йосію;
+      zhukovsky: Езекия родил Манасию. Манасия родил Амона. Амон родил Иосию.
+      czech: Ezechias Manase, Manase mel syna Amose, Amos Joziase,
+      st_text: Езекия родил Манассию; Манассия родил Амона; Амон родил Иосию;
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 24999
+    number: 11
+    bookId: 51
+    text: Иосия родил Иоакима; Иоаким родил Иехонию и братьев его, перед
+      переселением в Вавилон.
+    chapter: 1
+    chapterId: 1113
+    parallels:
+      - verseId: 9127
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 23
+        short: 4 Цар:23:34
+      - verseId: 3306
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 3
+        short: 1 Пар:3:16
+      - verseId: 6468
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 36
+        short: 2 Пар:36:4
+      - verseId: 9136
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 24
+        short: 4 Цар:24:6
+    translates:
+      kassian: Иосия родил Иехонию и братьев его, во время переселения в Вавилон.
+      podstr: Иосия же родил Иехонию и братьев его до переселения Вавилонского.
+      csya: "Иосиа же роди иехонию и братию его, в преселение вавилонское [в некиих
+        греч.: иосиа же роди иоакима и братию его. Иоаким же роди иехонию в
+        преселение вавилонское]."
+      averincev: Иосия породил Иехонию и братьев его, во время выселения в Вавилон;
+      ungerov: ""
+      csya_old: "І3wсjа же роди2 їехо1нію и3 брaтію є3гw2, въ преселе1ніе вавmлHнское
+        [въ нёкіихъ гре1ч.: їwсjа же роди2 їwакjма и3 брaтію є3гw2. І3wакjмъ же
+        роди2 їехо1нію въ преселе1ніе вавmлHнское]."
+      sovr_rbo: ""
+      latin: Josias autem genuit Jechoniam, et fratres ejus in transmigratione
+        Babylonis.
+      ukr: Йосія ж породив Йоякима, Йояким породив Єхонію й братів його за
+        вавилонського переселення.
+      nkjv: Josiah begot Jeconiah and his brothers about the time they were carried
+        away to Babylon.
+      desnitsky: ""
+      tex_rec: ᾽Ιωσίας δὲ ἐγέννησεν τὸν ᾽Ιεχονίαν καὶ τοὺς ἀδελφοὺς αὐτοῦ ἐπὶ τῆς
+        μετοικεσίας Βαβυλῶνος.
+      deutsch: Josia zeugte Jechonja und seine Brüder um die Zeit der babylonischen
+        Gefangenschaft.
+      bel_syomukha: Ёсія спарадзіў Ёакіма; Ёакім спарадзіў Еханію і братоў яго, пад
+        час высяленьня вавілонскага.
+      nrt: "Иосия – отцом Иоакима, \r
+
+        Иоаким – отцом Иехонии и его братьев. \r
+
+        В это время народ был переселен в Вавилон."
+      spanish: Josías a Jeconías y a sus hermanos en la época de la cautividad de
+        Babilonia.
+      peshitta: ܝܽܘܫܺܝܳܐ ܐܰܘܠܶܕ݂ ܠܝܽܘܟ݂ܰܢܝܳܐ ܘܠܰܐܚܰܘܗ݈ܝ ܒ݁ܓ݂ܳܠܽܘܬ݂ܳܐ ܕ݁ܒ݂ܳܒ݂ܶܠ܂
+      romana: Iosia a nascut pe Iehonia si pe fratii lui, la stramutarea in Babilon;
+      francais: Josias engendra Jéchonias et ses frères, au temps de la déportation à
+        Babylone.
+      italian: Giosia generò Ieconia e i suoi fratelli, al tempo della deportazione in
+        Babilonia.
+      old_georgian: იოსია შვა იექონია და ძმანი მისნი ტყუეობასა მას ბაბილოვნელთასა.
+      portuguese: a Josias nasceram Jeconias e seus irmãos, no tempo da deportação
+        para Babilônia.
+      polish: Jozjasz ojcem Jechoniasza i jego braci w czasie przesiedlenia
+        babilońskiego.
+      pobedonostsev: Иосия же родил Иоакима; Иоаким же родил Иехонию и братьев его, в
+        переселение Вавилонское.
+      new_text: Иошия, Иехония и его братья.
+      serbian: А Јосија роди Јехонију и браћу његову, у сеоби вавилонској.
+      bulgarian: Иосия роди Иоакима; Иоаким роди Иехония и братята му - през време на
+        преселението Вавилонско.
+      Lutkovsky: у Иосии перед пленением Вавилонским родились Иехония и братья его.
+      bel_boc: "Іасія нарадзіў Іаакіма;\r
+
+        Іаакім нарадзіў Іеханію і братоў яго,\r
+
+        падчас перасялення вавілонскага."
+      ukr2: Йосія – Єхонії і братів його за вавилонського переселення.
+      ukr3: а Йосія породив Єхонїю та братів його, під час переселення у Вавилон;
+      zhukovsky: Иосия родил (Иоакима. Иоаким родил) Иехонию (Иехония родил) и братий
+        его в преселение Вавилонское.
+      czech: Jozias Jechoniase a jeho bratry za babylonskeho zajeti.
+      st_text: Иосия родил Иоакима; Иоаким родил Иехонию и братьев его, перед
+        переселением в Вавилон.
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 25000
+    number: 12
+    bookId: 51
+    text: По переселении же в Вавилон, Иехония родил Салафииля; Салафииль родил
+      Зоровавеля;
+    chapter: 1
+    chapterId: 1113
+    parallels:
+      - verseId: 9136
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 24
+        short: 4 Цар:24:6
+      - verseId: 3307
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 3
+        short: 1 Пар:3:17
+      - verseId: 6472
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 36
+        short: 2 Пар:36:8
+      - verseId: 938
+        bookId: 15
+        bookCode: 1a-kniga-ezdry
+        chapter: 3
+        short: 1 Езд:3:2
+      - verseId: 975
+        bookId: 15
+        bookCode: 1a-kniga-ezdry
+        chapter: 5
+        short: 1 Езд:5:2
+      - verseId: 24622
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 3
+        short: Лк:3:27
+    translates:
+      kassian: По переселении же в Вавилон Иехония родил Салафиила; Салафиил родил
+        Зоровавеля;
+      podstr: После же переселения Вавилонского Иехония родил Салафиила, Салафиил же
+        родил Зоровавеля,
+      csya: По преселении же вавилонстем, иехониа роди салафииля. Салафииль же роди
+        зоровавеля.
+      averincev: после же выселения в Вавилон Иехония породил Салафиила; Салафиил
+        породил Зоровавеля;
+      ungerov: ""
+      csya_old: По преселе1ніи же вавmлHнстэмъ, їехо1ніа роди2 салаfjилz. Салаfjиль же
+        роди2 зоровaвелz.
+      sovr_rbo: ""
+      latin: "Et post transmigrationem Babylonis: Jechonias genuit Salathiel.
+        Salathiel autem genuit Zorobabel."
+      ukr: А по вавилонськім переселенні Єхонія породив Салатіїля, а Салатіїль породив
+        Зоровавеля.
+      nkjv: And after they were brought to Babylon, Jeconiah begot Shealtiel, and
+        Shealtiel begot Zerubbabel.
+      desnitsky: ""
+      tex_rec: Μετὰ δὲ τὴν μετοικεσίαν Βαβυλῶνος ᾽Ιεχονίας ἐγέννησεν τὸν Σαλαθιήλ,
+        Σαλαθιὴλ δὲ ἐγέννησεν τὸν Ζοροβαβέλ,
+      deutsch: Nach der babylonischen Gefangenschaft zeugte Jechonja Sealthiel.
+        Sealthiel zeugte Serubabel.
+      bel_syomukha: Пасьля ж высяленьня вавілонскага Еханія спарадзіў Салатыіля;
+        Салатыіль спарадзіў Зарававеля;
+      nrt: "После переселения в Вавилон Иехония стал отцом Шеалтиила, \r
+
+        Шеалтиил был отцом Зоровавеля,"
+      spanish: Después de la cautividad de Babilonia, Jeconías engendró a Salatiel,
+        Salatiel a Zorobabel,
+      peshitta: ܡܶܢ ܒ݁ܳܬ݂ܰܪ ܓ݁ܳܠܽܘܬ݂ܳܐ ܕ݁ܶܝܢ ܕ݁ܒ݂ܳܒ݂ܶܠ ܝܽܘܟ݂ܰܢܝܳܐ ܐܰܘܠܶܕ݂ ܠܫܶܠܰܬ݂ܺܐܝܠ
+        ܫܶܠܰܬ݂ܺܐܝܠ ܐܰܘܠܶܕ݂ ܠܙܽܘܪܒ݁ܳܒ݂ܶܠ܂
+      romana: Dupa stramutarea in Babilon, Iehonia a nascut pe Salatiel; Salatiel a
+        nascut pe Zorobabel;
+      francais: Après la déportation à Babylone, Jéchonias engendra Salathiel;
+        Salathiel engendra Zorobabel;
+      italian: Dopo la deportazione in Babilonia, Ieconia generò Salatiel, Salatiel
+        generò Zorobabèle,
+      old_georgian: შემდგომად ტყუეობისა მის ბაბილოვნისა იექონია შვა სალათიელ; სალათიელ
+        შვა ზორობაბელ; ზორობაბელ შვა აბიუდ;
+      portuguese: Depois da deportação para Babilônia nasceu a Jeconias, Salatiel; a
+        Salatiel nasceu Zorobabel;
+      polish: "Po przesiedleniu babilońskim Jechoniasz był ojcem Salatiela; Salatiel
+        ojcem\r
+
+        Zorobabela;"
+      pobedonostsev: По переселении же Вавилонском, Иехония родил Салафиила; Салафиил
+        же родил Зоровавеля;
+      new_text: "После выселения в Вавилон и до рождения Иисуса: Иехония, Шеальтиэль,"
+      serbian: А по сеоби вавилонској, Јехонија роди Салатила. А Салатил
+        роди  Зоровавеља.
+      bulgarian: А след преселението Вавилонско Иехония роди Салатииля; Салатиил роди
+        Зоровавеля;
+      Lutkovsky: "После пленения Вавилонского у Иехонии родился Салафиил; \r
+
+        у Салафиила родился Зоровавель;"
+      bel_boc: "Пасля ж перасялення вавілонскага Іеханія нарадзіў Салафііля;\r
+
+        Салафііль нарадзіў Зарававеля;"
+      ukr2: А після вавилонського переселення в Єхонії народився Салатіїл, у Салатіїла
+        – Зоровавел,
+      ukr3: а після того, як переселено їх у Вавилон, Єхонїя породив Салатиїла, а
+        Салатиїл породив Зоровавеля;
+      zhukovsky: По преселении Вавилонском Иехония родил Салафиила. Салафиил родил
+        Зоровавеля.
+      czech: Po babylonskem zajeti Jechonias mel syna Salatiela, Salatiel Zorobabela,
+      st_text: По переселении же в Вавилон, Иехония родил Салафииля; Салафииль родил
+        Зоровавеля;
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 25001
+    number: 13
+    bookId: 51
+    text: Зоровавель родил Авиуда; Авиуд родил Елиакима; Елиаким родил Азора;
+    chapter: 1
+    chapterId: 1113
+    parallels:
+      - verseId: 6468
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 36
+        short: 2 Пар:36:4
+    translates:
+      kassian: Зоровавель родил Авиуда; Авиуд родил Елиакима; Елиаким родил Азора;
+      podstr: Зоровавель же родил Авиуда, Авиуд же родил Елиакима, Елиаким же родил
+        Азора,
+      csya: Зоровавель же роди авиуда. Авиуд же роди елиакима. Елиаким же роди азора.
+      averincev: Зоровавель породил Авиуда; Авиуд породил Элиакима; Элиаким породил Азора;
+      ungerov: ""
+      csya_old: Зоровaвель же роди2 ґвіyда. Ґвіyдъ же роди2 є3ліакjма. є3ліакjмъ же
+        роди2 ґзHра.
+      sovr_rbo: ""
+      latin: Zorobabel autem genuit Abiud. Abiud autem genuit Eliacim. Eliacim autem
+        genuit Azor.
+      ukr: Зоровавель же породив Авіюда, а Авіюд породив Еліякима, а Еліяким породив
+        Азора.
+      nkjv: Zerubbabel begot Abiud, Abiud begot Eliakim, and Eliakim begot Azor.
+      desnitsky: ""
+      tex_rec: Ζοροβαβὲλ δὲ ἐγέννησεν τὸν ᾽Αβιούδ, ᾽Αβιοὺδ δὲ ἐγέννησεν τὸν ᾽Ελιακίμ,
+        ᾽Ελιακὶμ δὲ ἐγέννησεν τὸν ᾽Αζώρ,
+      deutsch: Serubabel zeugte Abiud. Abiud zeugte Eliakim. Eliakim zeugte Asor.
+      bel_syomukha: Зарававель спарадзіў Авіуда; Авіуд спарадзіў Эліякіма; Эліякім
+        спарадзіў Азора;
+      nrt: "Зоровавель – отцом Авиуда, \r
+
+        Авиуд – отцом Элиакима, \r
+
+        Элиаким – отцом Азора,"
+      spanish: Zorobabel a Abiud, Abiud a Eliacim, Eliacim a Azor,
+      peshitta: ܙܽܘܪܒ݁ܳܒ݂ܶܠ ܐܰܘܠܶܕ݂ ܠܰܐܒ݂ܺܝܽܘܕ݂ ܐܰܒ݂ܺܝܽܘܕ݂ ܐܰܘܠܶܕ݂ ܠܶܐܠܝܳܩܺܝܡ
+        ܐܶܠܝܳܩܺܝܡ ܐܰܘܠܶܕ݂ ܠܥܳܙܽܘܪ܂
+      romana: Zorobabel a nascut pe Abiud; Abiud a nascut pe Eliachim; Eliachim a
+        nascut pe Azor;
+      francais: Zorobabel engendra Abiud; Abiud engendra Éliakim; Éliakim engendra Azor;
+      italian: Zorobabèle generò Abiùd, Abiùd generò Elìacim, Elìacim generò Azor,
+      old_georgian: აბიუდ შვა ელიაკიმ; ალიაკიმ შვა აზორ;
+      portuguese: a Zorobabel nasceu Abiúde; a Abiúde nasceu Eliaquim; a Eliaquim
+        nasceu Azor;
+      polish: Zorobabel ojcem Abiuda; Abiud ojcem Eliakima; Eliakim ojcem Azora;
+      pobedonostsev: Зоровавель же родил Авиуда; Авиуд же родил Елиакима; Елиаким же
+        родил Азора;
+      new_text: Зерубавель, Авиуд, Эльяким,
+      serbian: А Зоровавељ роди Авиуда. А Авиуд роди Елиакима. А Елиаким роди Азора.
+      bulgarian: Зоровавел роди Авиуда; Авиуд роди Елиакима; Елиаким роди Азора;
+      Lutkovsky: "у Зоровавеля родился Авиуд; \r
+
+        у Авиуда родился Елиаким; \r
+
+        у Елиакима родился Азор;"
+      bel_boc: "Зарававель нарадзіў Авіуда;\r
+
+        Авіуд нарадзіў Еліакіма;\r
+
+        Еліакім нарадзіў Азора;"
+      ukr2: у Зоровавела – Авіюд, в Авіюда – Еліяким, в Еліякима – Азор,
+      ukr3: а Зоровавель породив Авіюда; а Авіюд породив Єліякима; а Єліяким породив
+        Азора;
+      zhukovsky: Зоровавель родил Авиуда. Авиуд родил Элиакима. Элиаким родил Азора.
+      czech: Zorobabel Abiuda, Abiud Eliakima, Eliakim Azora,
+      st_text: Зоровавель родил Авиуда; Авиуд родил Елиакима; Елиаким родил Азора;
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 25002
+    number: 14
+    bookId: 51
+    text: Азор родил Садока; Садок родил Ахима; Ахим родил Елиуда;
+    chapter: 1
+    chapterId: 1113
+    parallels: []
+    translates:
+      kassian: Азор родил Садока; Садок родил Ахима; Ахим родил Елиуда;
+      podstr: Азор же родил Садока, Садок же родил Ахима, Ахим же родил Елиуда,
+      csya: Азор же роди садока. Садок же роди ахима. Ахим же роди елиуда.
+      averincev: Азор породил Садока; Садок породил Ахима; Ахим породил Элиуда;
+      ungerov: ""
+      csya_old: ҐзHръ же роди2 садHка. СадHкъ же роди2 ґхjма. Ґхjмъ же роди2 є3ліyда.
+      sovr_rbo: ""
+      latin: Azor autem genuit Sadoc. Sadoc autem genuit Achim. Achim autem genuit
+        Eliud.
+      ukr: Азор же породив Садока, а Садок породив Ахіма, а Ахім породив Еліюда.
+      nkjv: Azor begot Zadok, Zadok begot Achim, and Achim begot Eliud.
+      desnitsky: ""
+      tex_rec: ᾽Αζὼρ δὲ ἐγέννησεν τὸν Σαδώκ, Σαδὼκ δὲ ἐγέννησεν τὸν ᾽Αχίμ, ᾽Αχὶμ δὲ
+        ἐγέννησεν τὸν ᾽Ελιούδ,
+      deutsch: Asor zeugte Zadok. Zadok zeugte Achim. Achim zeugte Eliud.
+      bel_syomukha: Азор спарадзіў Садока; Садок спарадзіў Ахіма; Ахім спарадзіў Эліуда;
+      nrt: "Азор – отцом Садока, \r
+
+        Садок – отцом Ахима, \r
+
+        Ахим – отцом Елиуда,"
+      spanish: Azor a Sadoc, Sadoc a Aquim, Aquim a Eliud,
+      peshitta: ܥܳܙܽܘܪ ܐܰܘܠܶܕ݂ ܠܙܳܕ݂ܽܘܩ ܙܳܕ݂ܽܘܩ ܐܰܘܠܶܕ݂ ܠܰܐܟ݂ܺܝܢ ܐܰܟ݂ܺܝܢ ܐܰܘܠܶܕ݂
+        ܠܶܐܠܺܝܽܘܕ݂܂
+      romana: Azor a nascut pe Sadoc; Sadoc a nascut pe Achim; Achim a nascut pe Eliud;
+      francais: Azor engendra Sadok; Sadok engendra Achim; Achim engendra Éliud;
+      italian: Azor generò Sadoc, Sadoc generò Achim, Achim generò Eliùd,
+      old_georgian: აზორ შვა სადუკ; სადუკ შვა აქიმ; აქიმ შვა ალიუდ;
+      portuguese: a Azor nasceu Sadoque; a Sadoque nasceu Aquim; a Aquim nasceu Eliúde;
+      polish: Azor ojcem Sadoka; Sadok ojcem Achima; Achim ojcem Eliuda;
+      pobedonostsev: Азор же родил Садока; Садок же родил Ахима; Ахим же родил Елиуда;
+      new_text: Азур, Цадок, Яхин,
+      serbian: А Азор роди Садока. А Садок роди Ахима. А Ахим роди Елиуда.
+      bulgarian: Азор роди Садока; Садок роди Ахима; Ахим роди Елиуда;
+      Lutkovsky: "у Азора родился Садок; \r
+
+        у Садока родился Ахим; \r
+
+        у Ахима родился Елиуд;"
+      bel_boc: "Азор нарадзіў Садока;\r
+
+        Садок нарадзіў Ахіма;\r
+
+        Ахім нарадзіў Еліуда;"
+      ukr2: в Азора – Садок, у Садока – Ахим, в Ахима – Еліюд,
+      ukr3: а Азор породив Садока; а Садок породив Ахима; а Ахим породив Єліюда;
+      zhukovsky: Азор родил Садока. Садок родил Ахима. Ахим родил Элиуда.
+      czech: Azor Sadoka, Sadok Achima. Achim mel syna Eliuda,
+      st_text: Азор родил Садока; Садок родил Ахима; Ахим родил Елиуда;
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 25003
+    number: 15
+    bookId: 51
+    text: Елиуд родил Елеазара; Елеазар родил Матфана; Матфан родил Иакова;
+    chapter: 1
+    chapterId: 1113
+    parallels:
+      - verseId: 28174
+        bookId: 77
+        bookCode: otkrovenie-ap-ioanna-bogoslova
+        chapter: 10
+        short: Откр:10:1
+    translates:
+      kassian: Елиуд родил Елеазара; Елеазар родил Матфана; Матфан родил Иакова;
+      podstr: Елиуд же родил Елеазара, Елеазар же родил Матфана, Матфан же родил
+        Иакова,
+      csya: Елиуд же роди елеазара. Елеазар же роди матфана. Матфан же роди иакова.
+      averincev: Элиуд породил Элеазара; Элеазар породил Матфана; Матфан породил Иакова;
+      ungerov: ""
+      csya_old: є3ліyдъ же роди2 є3леазaра. є3леазaръ же роди2 матfaна. Матfaнъ же
+        роди2 їaкwва.
+      sovr_rbo: ""
+      latin: Eliud autem genuit Eleazar. Eleazar autem genuit Mathan. Mathan autem
+        genuit Jacob.
+      ukr: Еліюд же породив Елеазара, а Елеазар породив Маттана, а Маттан породив
+        Якова.
+      nkjv: Eliud begot Eleazar, Eleazar begot Matthan, and Matthan begot Jacob.
+      desnitsky: ""
+      tex_rec: ᾽Ελιοὺδ δὲ ἐγέννησεν τὸν ᾽Ελεάζαρ, ᾽Ελεάζαρ δὲ ἐγέννησεν τὸν Ματθάν,
+        Ματθὰν δὲ ἐγέννησεν τὸν ᾽Ιακώβ,
+      deutsch: Eliud zeugte Eleasar. Eleasar zeugte Matthan. Matthan zeugte Jakob.
+      bel_syomukha: Эліуд спарадзіў Элеазара; Элеазар спарадзіў Матана; Матан
+        спарадзіў Якава;
+      nrt: "Елиуд – отцом Елеазара, \r
+
+        Елеазар – отцом Матфана, \r
+
+        Матфан – отцом Иакова,"
+      spanish: Eliud a Eleazar, Eleazar a Matán, Matán a Jacob
+      peshitta: ܐܶܠܺܝܽܘܕ ܐܰܘܠܶܕ݂ ܠܶܐܠܺܝܥܳܙܳܪ ܐܶܠܺܝܥܳܙܳܪ ܐܰܘܠܶܕ݂ ܠܡܳܬ݂ܳܢ ܡܳܬ݂ܳܢ ܐܰܘܠܶܕ݂
+        ܠܝܰܥܩܽܘܒ݂܂
+      romana: Eliud a nascut pe Eleazar; Eleazar a nascut pe Matan; Matan a nascut pe
+        Iacov;
+      francais: Éliud engendra Éléazar; Éléazar engendra Matthan; Matthan engendra Jacob;
+      italian: Eliùd generò Eleàzar, Eleàzar generò Mattan, Mattan generò Giacobbe,
+      old_georgian: ელიუდ შვა ელეაზარ; ელეაზარ შვა მატთან; მატთან შვა იაკობ;
+      portuguese: a Eliúde nasceu Eleazar; a Eleazar nasceu Matã; a Matã nasceu Jacó;
+      polish: Eliud ojcem Eleazara; Eleazar ojcem Mattana; Mattan ojcem Jakuba;
+      pobedonostsev: Елиуд же родил Елеазара; Елеазар же родил Матфана; Матфан же
+        родил Иакова;
+      new_text: Элиуд, Элазар, Маттан,
+      serbian: А Елиуд роди Елеазара. А Елеазар роди Матана. А Матан роди Јакова.
+      bulgarian: Елиуд роди Елеазара; Елеазар роди Матана; Матан роди Иакова;
+      Lutkovsky: "у Елиуда родился Елеазар; \r
+
+        у Елеазара родился Матфан; \r
+
+        у Матфана родился Иаков;"
+      bel_boc: "Еліуд нарадзіў Елеазара;\r
+
+        Елеазар нарадзіў Матфана;\r
+
+        Матфан нарадзіў Іакава;"
+      ukr2: в Еліюда – Єлеазар, в Єлеазара – Маттан, у Маттана – Яків,
+      ukr3: а Єліюд породив Єліазара; а Єліазар породив Маттана; а Маттан породив
+        Якова;
+      zhukovsky: Элиуд родил Элеазара. Элеазар родил Матфана. Матфан родил Иакова.
+      czech: Eliud Eleazara, Eleazar Mattana, Mattan Jakoba,
+      st_text: Елиуд родил Елеазара; Елеазар родил Матфана; Матфан родил Иакова;
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 25004
+    number: 16
+    bookId: 51
+    text: Иаков родил Иосифа, мужа Марии, от Которой родился Иисус, называемый
+      Христос.
+    chapter: 1
+    chapterId: 1113
+    parallels:
+      - verseId: 17899
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 1
+        short: Ин:1:14
+    translates:
+      kassian: Иаков родил Иосифа, мужа Марии, от Которой родился Иисус, называемый
+        Христос.
+      podstr: Иаков же родил Иосифа мужа Марии, из которой был рождён Иисус называемый
+        Христос.
+      csya: Иаков же роди иосифа, мужа Мариина, из неяже родися Иисус, глаголемый
+        Христос.
+      averincev: Иаков породил Иосифа, супруга Марии, от которой родился Иисус, что
+        именуется Христос.
+      ungerov: ""
+      csya_old: І3aкwвъ же роди2 їHсифа, мyжа мRjина, и3з8 неsже роди1сz ї}съ,
+        глаго1лемый хrто1съ.
+      sovr_rbo: ""
+      latin: Jacob autem genuit Joseph virum Mariae, de qua natus est Jesus, qui
+        vocatur Christus.
+      ukr: А Яків породив Йосипа, мужа Марії, що з неї родився Ісус, званий Христос.
+      nkjv: And Jacob begot Joseph the husband of Mary, of whom was born Jesus who is
+        called Christ.
+      desnitsky: ""
+      tex_rec: ᾽Ιακὼβ δὲ ἐγέννησεν τὸν ᾽Ιωσὴφ τὸν ἄνδρα Μαρίας, ἐξ ἣς ἐγεννήθη ᾽Ιησοῦς
+        ὁ λεγόμενος Χριστός.
+      deutsch: Jakob zeugte Joseph, den Mann Marias, von welcher ist geboren Jesus,
+        der da heißt Christus.
+      bel_syomukha: Якаў спарадзіў Язэпа, мужа Марыі, ад Якой нарадзіўся Ісус, Якога
+        называюць Хрыстос.
+      nrt: "Иаков – отцом Иосифа, мужа Марии, \r
+
+        которая и родила Иисуса, \r
+
+        называемого Христом."
+      spanish: y Jacob engendró a José, el esposo de María, de la cual nació Jesús,
+        llamado Cristo.
+      peshitta: ܝܰܥܩܽܘܒ݂ ܐܰܘܠܶܕ݂ ܠܝܰܘܣܶܦ݂ ܓ݁ܰܒ݂ܪܳܗ ܕ݁ܡܰܪܝܰܡ ܕ݁ܡܶܢܳܗ ܐܶܬ݂ܺܝܠܶܕ݂ ܝܶܫܽܘܥ
+        ܕ݁ܡܶܬ݂ܩܪܶܐ ܡܫܺܝܚܳܐ܂
+      romana: Iacov a nascut pe Iosif, logodnicul Mariei, din care S-a nascut Iisus,
+        Care se cheama Hristos.
+      francais: Jacob engendra Joseph, l'époux de Marie, de laquelle est né Jésus, qui
+        est appelé Christ.
+      italian: Giacobbe generò Giuseppe, lo sposo di Maria, dalla quale è nato Gesù
+        chiamato Cristo.
+      old_georgian: იაკობ შვა იოსებ, ქმარი მარიამისი, რომლისაგან იშვა იესუ, რომელსა
+        ჰრქჳან ქრისტე.
+      portuguese: e a Jacó nasceu José, marido de Maria, da qual nasceu JESUS, que se
+        chama Cristo.
+      polish: Jakub ojcem Józefa, męża Maryi, z której narodził się Jezus, zwany
+        Chrystusem.
+      pobedonostsev: Иаков же родил Иосифа, мужа Марии, из Неяже родился Иисус,
+        глаголемый Христос.
+      new_text: Иаков, Иосиф, муж Марии, матери Иисуса, называемого Христом, то есть
+        Помазанником.
+      serbian: А Јаков роди Јосифа, мужа Марије, од које се роди Исус звани Христос.
+      bulgarian: Иаков роди Иосифа, мъжа на Мария, от която се роди Иисус, наричан
+        Христос.
+      Lutkovsky: "у Иакова родился Иосиф, муж Марии, \r
+
+        от которой родился Иисус, почитаемый как Христос."
+      bel_boc: "Іакаў нарадзіў Іосіфа, мужа Марыі,\r
+
+        ад Якой нарадзіўся Іісус, Якога называюць Хрыстос."
+      ukr2: у Якова – Йосиф, чоловік Марії, з якої народився Ісус, що зветься Христос.
+      ukr3: а Яков породив Йосифа, чоловіка Мариїного, що від неї родивсь Ісус, на
+        прізвище Христос.
+      zhukovsky: Иаков же родил Иосифа мужа Мариина, от Нея же родился Иисус,
+        глаголемый Христос.
+      czech: Jakob pak mel syna Josefa, muze Marie, z niz se narodil Jezis, receny
+        Kristus.
+      st_text: Иаков родил Иосифа, мужа Марии, от Которой родился Иисус, называемый
+        Христос.
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 25005
+    number: 17
+    bookId: 51
+    text: Итак всех родов от Авраама до Давида четырнадцать родов; и от Давида до
+      переселения в Вавилон четырнадцать родов; и от переселения в Вавилон до
+      Христа четырнадцать родов.
+    chapter: 1
+    chapterId: 1113
+    parallels: []
+    translates:
+      kassian: Итак, всех родов от Авраама до Давида четырнадцать родов; и от Давида
+        до переселения в Вавилон четырнадцать родов; и от переселения в Вавилон
+        до Христа четырнадцать родов.
+      podstr: Все итак поколений от Авраама до Давида поколений четырнадцать, и от
+        Давида до переселения Вавилонского поколений четырнадцать, и от
+        переселения Вавилонского до Христа поколений четырнадцать.
+      csya: "Всех же родов от авраама до давида родове четыренадесяте: и от давида до
+        преселения вавилонскаго родове четыренадесяте: и от преселения
+        вавилонскаго до Христа родове четыренадесяте."
+      averincev: "Итого всех поколений: от Авраама до Давида - четырнадцать поколений;
+        и от Давида до выселения в Вавилон - четырнадцать поколений; и от
+        выселения в Вавилон до Христа - четырнадцать поколений."
+      ungerov: ""
+      csya_old: "Всёхъ же родHвъ t ґвраaма до дв7да ро1дове четыренaдесzте: и3 t дв7да
+        до преселе1ніz вавmлHнскагw ро1дове четыренaдесzте: и3 t преселе1ніz
+        вавmлHнскагw до хrтA ро1дове четыренaдесzте."
+      sovr_rbo: ""
+      latin: "Omnes itaque generationes ab Abraham usque ad David, generationes
+        quatuordecim: et a David usque ad transmigrationem Babylonis,
+        generationes quatuordecim: et a transmigratione Babylonis usque ad
+        Christum, generationes quatuordecim."
+      ukr: А всіх поколінь від Авраама аж до Давида чотирнадцять поколінь, і від
+        Давида аж до вавилонського переселення чотирнадцять поколінь, і від
+        вавилонського переселення до Христа поколінь чотирнадцять.
+      nkjv: So all the generations from Abraham to David are fourteen generations,
+        from David until the captivity in Babylon are fourteen generations, and
+        from the captivity in Babylon until the Christ are fourteen generations.
+      desnitsky: ""
+      tex_rec: Πᾶσαι οὖν αἱ γενεαὶ ἀπὸ ᾽Αβραὰμ ἕως Δαυὶδ γενεαὶ δεκατέσσαρες, καὶ ἀπὸ
+        Δαυὶδ ἕως τῆς μετοικεσίας Βαβυλῶνος γενεαὶ δεκατέσσαρες, καὶ ἀπὸ τῆς
+        μετοικεσίας Βαβυλῶνος ἕως τοῦ Χριστοῦ γενεαὶ δεκατέσσαρες.
+      deutsch: Alle Glieder von Abraham bis auf David sind vierzehn Glieder. Von David
+        bis auf die Gefangenschaft sind vierzehn Glieder. Von der babylonischen
+        Gefangenschaft bis auf Christus sind vierzehn Glieder.
+      bel_syomukha: І вось усіх пакаленьняў ад Абрагама да Давіда чатырнаццаць
+        пакаленьняў; і ад Давіда да высяленьня вавілонскага чатырнаццаць
+        пакаленьняў; і ад высяленьня вавілонскага да Хрыста чатырнаццаць
+        пакаленьняў.
+      nrt: Всего от Авраама до Давида было четырнадцать поколений, от Давида до
+        переселения в Вавилон – тоже четырнадцать и четырнадцать поколений от
+        переселения в Вавилон до Христа.
+      spanish: Son, pues, catorce las generaciones desde Abraham hasta David, catorce
+        desde David hasta la cautividad de Babilonia y catorce desde la
+        cautividad de Babilonia hasta Cristo.
+      peshitta: ܟ݁ܽܠܗܶܝܢ ܗܳܟ݂ܺܝܠ ܫܰܪܒ݁ܳܬ݂ܳܐ ܡܶܢ ܐܰܒ݂ܪܳܗܳܡ ܥܕ݂ܰܡܳܐ ܠܕ݂ܰܘܺܝܕ݂ ܫܰܪܒ݁ܳܬ݂ܳܐ
+        ܐܰܪܒ݁ܰܥܶܣܪܶܐ ܘܡܶܢ ܕ݁ܰܘܺܝܕ݂ ܥܕ݂ܰܡܳܐ ܠܓ݂ܳܠܽܘܬ݂ܳܐ ܕ݁ܒ݂ܳܒ݂ܶܠ ܫܰܪܒ݁ܳܬ݂ܳܐ
+        ܐܰܪܒ݁ܰܥܶܣܪܶܐ ܘܡܶܢ ܓ݁ܳܠܽܘܬ݂ܳܐ ܕ݁ܒ݂ܳܒ݂ܶܠ ܥܕ݂ܰܡܳܐ ܠܰܡܫܺܝܚܳܐ ܫܰܪܒ݁ܳܬ݂ܳܐ
+        ܐܰܪܒ݁ܰܥܶܣܪܶܐ܂
+      romana: Asadar, toate neamurile de la Avraam pana la David sunt paisprezece; si
+        de la David pana la stramutarea in Babilon sunt paisprezece; si de la
+        stramutarea in Babilon pana la Hristos sunt paisprezece neamuri.
+      francais: Il y a donc en tout quatorze générations depuis Abraham jusqu'à David,
+        quatorze générations depuis David jusqu'à la déportation à Babylone, et
+        quatorze générations depuis la déportation à Babylone jusqu'au Christ.
+      italian: La somma di tutte le generazioni, da Abramo a Davide, è così di
+        quattordici; da Davide fino alla deportazione in Babilonia è ancora di
+        quattordici; dalla deportazione in Babilonia a Cristo è, infine, di
+        quattordici.
+      old_georgian: ყოველი ნათესავი აბრაჰამისითგან ვიდრე დავითისამდე ნათესავი
+        ათოთხმეტ; და დავითისითგან ვიდრე ტყუენვადმდე ბაბილოვნისა ნათესავი
+        ათოთხმეტ; და ტყუენვითგან ბაბილოვნისაჲთ ვიდრე ქრისტესამდე ნათესავი
+        ათოთხმეტ.
+      portuguese: "De sorte que todas as gerações, desde Abraão até Davi, são catorze
+        gerações; e desde Davi até a deportação\r
+
+        para Babilônia, catorze gerações; e desde a deportação para
+        Babilônia até o Cristo, catorze gerações."
+      polish: "Tak więc w całości od Abrahama do Dawida jest czternaście pokoleń; od\r
+
+        Dawida do przesiedlenia babilońskiego czternaście pokoleń; od
+        przesiedlenia\r
+
+        babilońskiego do Chrystusa czternaście pokoleń."
+      pobedonostsev: Всех же родов от Авраама до Давида четырнадцать родов; и от
+        Давида до переселения Вавилонского четырнадцать родов; и от переселения
+        Вавилонского до Христа четырнадцать родов.
+      new_text: Всех поколений от Авраама до Давида было четырнадцать, от Давида до
+        выселения в Вавилон — четырнадцать и от выселения в Вавилон до рождения
+        Помазанника — четырнадцать.
+      serbian: Свега, дакле, кољена од Авраама до Давида, кољена четрнаест, а од
+        Давида до сеобе вавилонске кољена четрнаест, и од сеобе вавилонске до
+        Христа, кољена четрнаест.
+      bulgarian: И тъй, всички родове от Авраама до Давида са четиринайсет рода; и от
+        Давида до Вавилонското преселение - четиринайсет рода; и от Вавилонското
+        преселение до Христа - четиринайсет рода.
+      Lutkovsky: "Итак, \r
+
+        всех поколений от Авраама до Давида - четырнадцать поколений; \r
+
+        и от Давида до пленения Вавилонского - четырнадцать поколений;
+        \r
+
+        и от пленения Вавилонского до Христа - четырнадцать поколений."
+      bel_boc: "І вось усіх пакаленняў ад Аўраама да Давіда чатырнаццаць пакаленняў;\r
+
+        і ад Давіда да перасялення вавілонскага чатырнаццаць
+        пакаленняў;\r
+
+        і ад перасялення вавілонскага да Хрыста чатырнаццаць
+        пакаленняў."
+      ukr2: "Поколінь же всіх було: від Авраама до Давида чотирнадцять, від Давида до
+        вавилонського переселення чотирнадцять і від вавилонського переселення
+        до Христа – поколінь чотирнадцять."
+      ukr3: То всїх родів од Авраама до Давида чотирнайцять родів; а від Давида до
+        переселення у Вавилон чотирнайцять родів; і від переселення у Вавилон до
+        Христа чотирнайцять родів.
+      zhukovsky: "Всех же родов: от Авраама до Давида родов четыренадесять; от Давида
+        до преселения Вавилонскаго родов четыренадесять; и от преселения
+        Вавилонскаго до Христа родов четыренадесять."
+      czech: Vsech pokoleni od Abrahama do Davida bylo tedy ctrnact, od Davida po
+        babylonske zajeti ctrnact a od babylonskeho zajeti az po Krista ctrnact.
+      st_text: Итак всех родов от Авраама до Давида четырнадцать родов; и от Давида до
+        переселения в Вавилон четырнадцать родов; и от переселения в Вавилон до
+        Христа четырнадцать родов.
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+  - id: 25006
+    number: 18
+    bookId: 51
+    text: "Рождество Иисуса Христа было так: по обручении Матери Его Марии с
+      Иосифом, прежде нежели сочетались они, оказалось, что Она имеет во чреве
+      от Духа Святаго."
+    chapter: 1
+    chapterId: 1113
+    parallels:
+      - verseId: 23809
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 1
+        short: Лк:1:27
+    translates:
+      kassian: "Рождение же Иисуса Христа было так: по обручении Матери Его Марии с
+        Иосифом, прежде чем сочетались они, оказалось, что Она имеет во чреве от
+        Духа Святого."
+      podstr: Же Иисуса Христа рождение так было. Обручённой матери Его Марии Иосиф,
+        прежде сойтись их найдена в утробе имеющая от Духа Святого.
+      csya: "Иисус Христово Рождество сице бе: обрученней бо бывши Матери его Марии
+        иосифови, прежде даже не снитися има, обретеся имущи во чреве от Духа
+        свята."
+      averincev: "Что до Иисуса Христа, происхождение Его совершилось так: матерь Его
+        Мария была обручена Иосифу; однако прежде, чем стали они жить совместно,
+        обнаружилось, что она ожидает дитя от Духа Святого."
+      ungerov: ""
+      csya_old: "І3}съ хrто1во ржcтво2 си1це бЁ: њбруче1ннэй бо бы1вши м™ри є3гw2 мRjи
+        їHсифови, пре1жде дaже не сни1тисz и4ма, њбрётесz и3мyщи во чре1вэ t д¦а
+        с™а."
+      sovr_rbo: ""
+      latin: "Christi autem generatio sic erat: cum esset desponsata mater ejus Maria
+        Joseph, antequam convenirent inventa est in utero habens de Spiritu
+        Sancto."
+      ukr: Народження ж Ісуса Христа сталося так. Коли Його матір Марію заручено з
+        Йосипом, то перш, ніж зійшлися вони, виявилося, що вона має в утробі від
+        Духа Святого.
+      nkjv: "Now the birth of Jesus Christ was as follows: After His mother Mary was
+        betrothed to Joseph, before they came together, she was found with child
+        of the Holy Spirit."
+      desnitsky: ""
+      tex_rec: Τοῦ δὲ ᾽Ιησοῦ Χριστοῦ ἡ γένεσις οὕτως ἦν. μνηστευθείσης τῆς μητρὸς
+        αὐτοῦ Μαρίας τῷ ᾽Ιωσήφ, πρὶν ἢ συνελθεῖν αὐτοὺς εὑρέθη ἐν γαστρὶ ἔχουσα
+        ἐκ πνεύματος ἁγίου.
+      deutsch: Die Geburt Christi war aber also getan. Als Maria, seine Mutter, dem
+        Joseph vertraut war, fand sich's ehe er sie heimholte, daß sie schwanger
+        war von dem heiligen Geist.
+      bel_syomukha: "Нараджэньне Ісуса Хрыста было так: па заручынах Маці Яго Марыі зь
+        Язэпам, перш чым сышліся яны, выявілася, што Яна мае ва ўлоньні ад Духа
+        Сьвятога."
+      nrt: История рождения Иисуса такова. Мать Иисуса, Мария, была обручена с
+        Иосифом, но прежде чем они поженились, оказалось, что она беременна.
+        Младенец, которого ей предстояло родить, был от Святого Духа.
+      spanish: "La concepción de Jesucristo fue así: Estando desposada María, su
+        madre, con José, antes de que conviviesen, se halló haber concebido
+        María del Espíritu Santo."
+      peshitta: ܝܰܠܕ݁ܶܗ ܕ݁ܶܝܢ ܕ݁ܝܶܫܽܘܥ ܡܫܺܝܚܳܐ ܗܳܟ݂ܰܢܳܐ ܗܘܳܐ ܟ݁ܰܕ݂ ܡܟ݂ܺܝܪܳܐ ܗ݈ܘܳܬ݂
+        ܡܰܪܝܰܡ ܐܶܡܶܗ ܠܝܰܘܣܶܦ݂ ܥܰܕ݂ܠܳܐ ܢܶܫܬ݁ܰܘܬ݁ܦ݂ܽܘܢ ܐܶܫܬ݁ܰܟ݂ܚܰܬ݂ ܒ݁ܰܛܢܳܐ ܡܶܢ
+        ܪܽܘܚܳܐ ܕ݁ܩܽܘܕ݂ܫܳܐ܂
+      romana: "Iar nasterea lui Iisus Hristos asa a fost: Maria, mama Lui, fiind
+        logodita cu Iosif, fara sa fi fost ei inainte impreuna, s-a aflat avand
+        in pantece de la Duhul Sfant."
+      francais: Voici de quelle manière arriva la naissance de Jésus Christ. Marie, sa
+        mère, ayant été fiancée à Joseph, se trouva enceinte, par la vertu du
+        Saint Esprit, avant qu'ils eussent habité ensemble.
+      italian: "Ecco come avvenne la nascita di Gesù Cristo: sua ma — dre Maria,
+        essendo promessa sposa di Giuseppe, prima che andassero a vivere insieme
+        si trovò incinta per opera dello Spirito Santo."
+      old_georgian: "ხოლო იესუ ქრისტეს შობაჲ ესრეთ იყო, რამეთუ: თხოვილ იყო დედაჲ მისი
+        მარიამ იოსებისა და ვიდრე შერთვადმდე მათა იპოვა იგი მიდგომილ სულისაგან
+        წმიდისა."
+      portuguese: "Ora, o nascimento de Jesus Cristo foi assim: Estando Maria, sua
+        mãe, desposada com José, antes de se\rajuntarem, ela se achou ter
+        concebido do Espírito Santo."
+      polish: "Z narodzeniem Jezusa Chrystusa było tak. Po zaślubinach Matki Jego,
+        Maryi,\rz Józefem, wpierw nim zamieszkali razem, znalazła się brzemienną
+        za sprawą\rDucha Świętego."
+      pobedonostsev: "Иисус Христово рождество так было: обручена была Матерь Его
+        Мария Иосифу, и прежде нежели сойтись им, открылось, что имеет Она во
+        чреве от Духа Святого."
+      new_text: Вот как родился Иисус Христос. Его мать Мария была обручена с Иосифом,
+        но прежде чем они вступили в брак, обнаружилось, что Мария ждет ребенка
+        от Духа Святого.
+      serbian: "А рођење Исуса Христа овако би: Кад је мати његова Марија била
+        обручена Јосифу, а прије него што се бјеху састали, нађе се да је
+        затруднила од Духа Светога."
+      bulgarian: "А рождението на Иисуса Христа стана тъй: след сгодяване на майка Му
+        Мария за Иосифа, преди още да бяха се те събрали, оказа се, че тя е
+        непразна от Духа Светаго."
+      Lutkovsky: "Рождению же Иисуса Христа предшествовало следующее: \rоказалось, что
+        мать Его, Мария, обрученная с Иосифом, \rзачала во чреве от Духа Святого
+        прежде, чем поженились они."
+      bel_boc: "Нараджэнне Іісуса Хрыста было так:\rпа заручынах Маці Яго Марыі з
+        Іосіфам,\rперш чым сышліся яны, выявілася,\rшто Яна мае ва ўлонні ад
+        Духа Святога."
+      ukr2: "Народження Ісуса Христа відбулося так: Марія, його мати, була заручена з
+        Йосифом; але, перед тим, як вони зійшлися, виявилося, що вона була
+        вагітна від Святого Духа."
+      ukr3: Різд во ж Ісуса Христа стало ся так. Скоро Його матїр Марию заручено
+        Йосифові, перш нїж вони зійшли ся, постережено, що вона мала в утробі
+        від сьвятого Духа.
+      zhukovsky: Иисус Христово рождение так было. По обручении Матери Его Марии
+        Иосифу, прежде их сожития, открылось, что имела Она во чреве от Духа
+        Святаго.
+      czech: "Narozeni Jezise Krista se udalo takto: Jeho matka Maria byla zasnoubena
+        Josefovi, ale drive nez se sesli, shledalo se, ze pocala z Ducha
+        svateho."
+      st_text: "Рождество Иисуса Христа было так: по обручении Матери Его Марии с
+        Иосифом, прежде нежели сочетались они, оказалось, что Она имеет во чреве
+        от Духа Святаго."
+  - id: 25007
+    number: 19
+    bookId: 51
+    text: Иосиф же муж Ее, будучи праведен и не желая огласить Ее, хотел тайно
+      отпустить Ее.
+    chapter: 1
+    chapterId: 1113
+    parallels: []
+    translates:
+      kassian: Иосиф же, муж Ее, будучи праведен и не желая Ее обесславить, решил
+        тайно отпустить Ее.
+      podstr: Иосиф же муж её, праведный который и не желающий её выставить напоказ,
+        решился тайно отпустить её.
+      csya: Иосиф же муж ея, праведен сый и не хотя ея обличити, восхоте тай пустити
+        ю.
+      averincev: Меж тем Иосиф, муж ее, был человек праведный и не хотел ее ославить,
+        а потому вознамерился расторгнуть помолвку тайно.
+      ungerov: ""
+      csya_old: І3Hсифъ же мyжъ є3S, првdнъ сы1й и3 не хотS є3S њбличи1ти, восхотЁ тaй
+        пусти1ти ю5.
+      sovr_rbo: ""
+      latin: Joseph autem vir ejus cum esset justus, et nollet eam traducere, voluit
+        occulte dimittere eam.
+      ukr: А Йосип, муж її, бувши праведний, і не бажавши ославити її, хотів тайкома
+        відпустити її.
+      nkjv: Then Joseph her husband, being a just man, and not wanting to make her a
+        public example, was minded to put her away secretly.
+      desnitsky: ""
+      tex_rec: ᾽Ιωσὴφ δὲ ὁ ἀνὴρ αὐτῆς, δίκαιος ὢν καὶ μὴ θέλων αὐτὴν δειγματίσαι,
+        ἐβουλήθη λάθρᾳ ἀπολῦσαι αὐτήν.
+      deutsch: Joseph aber, ihr Mann, war fromm und wollte sie nicht in Schande
+        bringen, gedachte aber, sie heimlich zu verlassen.
+      bel_syomukha: А Язэп, муж Яе, будучы праведны, не жадаючы зьняславіць Яе, хацеў
+        употай адпусьціць Яе.
+      nrt: Жених Марии, Иосиф, был человеком праведным и, узнав об этом, хотел тайно
+        отпустить Марию, не предавая дело огласке, чтобы не опозорить ее.
+      spanish: José, su esposo, siendo justo, no quiso denunciarla y resolvió
+        repudiarla en secreto.
+      peshitta: ܝܰܘܣܶܦ݂ ܕ݁ܶܝܢ ܒ݁ܰܥܠܳܗ ܟ݁ܺܐܢܳܐ ܗ݈ܘܳܐ ܘܠܳܐ ܨܒ݂ܳܐ ܕ݁ܰܢܦ݂ܰܪܣܶܝܗ ܘܶܐܬ݂ܪܰܥܺܝ
+        ܗ݈ܘܳܐ ܕ݁ܡܰܛܫܝܳܐܝܺܬ݂ ܢܶܫܪܶܝܗ܂
+      romana: Iosif, logodnicul ei, drept fiind si nevrand s-o vadeasca, a voit s-o
+        lase in ascuns.
+      francais: Joseph, son époux, qui était un homme de bien et qui ne voulait pas la
+        diffamer, se proposa de rompre secrètement avec elle.
+      italian: Giuseppe suo sposo, che era giusto e non voleva ripudiarla, decise di
+        licenziarla in segreto.
+      old_georgian: ხოლო იოსებ, ქმარი ამისი, მართალი იყო და არა უნდა განმხილებაჲ მისი,
+        იზრახა ფარულად განტევებაჲ მისი.
+      portuguese: E como José, seu esposo, era justo, e não a queria infamar, intentou
+        deixá-la secretamente.
+      polish: "Mąż Jej, Józef, który był człowiekiem sprawiedliwym i nie chciał
+        narazić Jej\rna zniesławienie, zamierzał oddalić Ją potajemnie."
+      pobedonostsev: Иосиф же муж Ее, праведен быв и не хотя обличить Ее, восхотел
+        тайно отпустить Ее.
+      new_text: Иосиф, ее нареченный, как человек благочестивый, решил разорвать
+        помолвку, но тайно, чтобы не выставлять ее на позор.
+      serbian: А Јосиф муж њезин, будући праведан и не хотећи је јавно изобличити,
+        намисли је тајно отпустити.
+      bulgarian: А Иосиф, мъж й, понеже беше праведен и не желаеше да я осрами, поиска
+        тайно да я напусне.
+      Lutkovsky: "Иосиф же, жених ее, будучи честным человеком \rи не желая опозорить
+        ее, \rрешил тайно расторгнуть помолвку с нею."
+      bel_boc: "А Іосіф, муж Яе,\rбудучы праведны і не жадаючы зняславіць Яе,\rхацеў
+        употай адпусціць Яе."
+      ukr2: Йосиф, її чоловік, бувши праведний і не бажавши її ославити, хотів тайкома
+        її відпустити.
+      ukr3: Йосиф же, чоловік її, будучи праведний, і не хотячи ославити її, хотїв був
+        потай відпустити її.
+      zhukovsky: Иосиф же муж Ея праведен был и не хотя Ея обличить, вознамерился
+        тайно отпустить Ее.
+      czech: Jeji muz Josef byl spravedlivy a nechtel ji vystavit hanbe; proto se
+        rozhodl propustit ji potaji.
+      st_text: Иосиф же муж Ее, будучи праведен и не желая огласить Ее, хотел тайно
+        отпустить Ее.
+  - id: 25008
+    number: 20
+    bookId: 51
+    text: "Но когда он помыслил это, - се, Ангел Господень явился ему во сне и
+      сказал: Иосиф, сын Давидов! не бойся принять Марию, жену твою, ибо
+      родившееся в Ней есть от Духа Святаго;"
+    chapter: 1
+    chapterId: 1113
+    parallels: []
+    translates:
+      kassian: "Но когда он помыслил это, - вот, ангел Господень явился ему в
+        сновидении и сказал: Иосиф, сын Давидов, не бойся принять Мариам, жену
+        твою, ибо рожденное в Ней - от Духа Святого."
+      podstr: Это же его замыслившего вот ангел Господа во сне был явлен ему
+        говорящий, Иосиф сын Давида, не сделайся устрашён забрать Мариам жену
+        твою, ведь в ней рождённое от Духа есть Святого;
+      csya: "Сия же ему помыслившу, се, ангел Господень во сне явися ему, глаголя:
+        иосифе, сыне давидов, не убойся прияти Мариам жены твоея: рождшеебося в
+        ней, от Духа есть свята:"
+      averincev: 'Когда, однако, он был в таких мыслях, - вот, Ангел Господень явился
+        ему в сновидении, говоря: "Иосиф, сын Давидов! Не страшись принять
+        Мариам, жену твою; ибо то, что зачалось внутри Нее, от Духа Святого.'
+      ungerov: ""
+      csya_old: "Сі‰ же є3мY помы1слившу, се2, ѓгг7лъ гDень во снЁ kви1сz є3мY,
+        глаго1лz: їHсифе, сы1не дв7довъ, не ўбо1йсz пріsти мRіaмъ жены2 твоеS:
+        ро1ждшеебосz въ не1й, t д¦а є4сть с™а:"
+      sovr_rbo: ""
+      latin: "Haec autem eo cogitante, ecce angelus Domini apparuit in somnis ei,
+        dicens: Joseph, fili David, noli timere accipere Mariam conjugem tuam:
+        quod enim in ea natum est, de Spiritu Sancto est."
+      ukr: "Коли ж він те подумав, ось з'явивсь йому Ангол Господній у сні,
+        промовляючи: Йосипе, сину Давидів, не бійся прийняти Марію, дружину
+        свою, бо зачате в ній то від Духа Святого."
+      nkjv: But while he thought about these things, behold, an angel of the Lord
+        appeared to him in a dream, saying, "Joseph, son of David, do not be
+        afraid to take to you Mary your wife, for that which is conceived in her
+        is of the Holy Spirit.
+      desnitsky: ""
+      tex_rec: ταῦτα δὲ αὐτοῦ ἐνθυμηθέντος ἰδοὺ ἄγγελος κυρίου κατ᾽ ὄναρ ἐφάνη αὐτῷ
+        λέγων, ᾽Ιωσὴφ υἱὸς Δαυίδ, μὴ φοβηθῇς παραλαβεῖν Μαριὰμ τὴν γυναῖκά σου,
+        τὸ γὰρ ἐν αὐτῇ γεννηθὲν ἐκ πνεύματός ἐστιν ἁγίου·
+      deutsch: "Indem er aber also gedachte, siehe, da erschien ihm ein Engel des
+        Herrn im Traum und sprach: Joseph, du Sohn Davids, fürchte dich nicht,
+        Maria, dein Gemahl, zu dir zu nehmen; denn das in ihr geboren ist, das
+        ist von dem heiligen Geist."
+      bel_syomukha: "Калі ж надумаў ён гэта, - вось, анёл Гасподні ў сьне явіўся яму і
+        сказаў: Язэпе, сыне Давідаў! ня бойся прыняць Марыю, жонку тваю; бо
+        зачатае ў Ёй ёсьць ад Духа Сьвятога;"
+      nrt: "Но когда он принял такое решение, ему во сне явился ангел Господень и
+        сказал: \r– Иосиф, сын Давидов! Не бойся взять Марию в жены, потому что
+        Младенец, что в ней, – от Святого Духа."
+      spanish: "Mientras reflexionaba sobre esto, he aquí que se le apareció en sueños
+        un ángel del Señor y le dijo: José, hijo de David, no temas recibir en
+        tu casa a María, tu esposa, pues lo concebido en ella es obra del
+        Espíritu Santo."
+      peshitta: ܟ݁ܰܕ݂ ܗܳܠܶܝܢ ܕ݁ܶܝܢ ܐܶܬ݂ܪܰܥܺܝ ܐܶܬ݂ܚܙܺܝ ܠܶܗ ܡܰܠܰܐܟ݂ܳܐ ܕ݁ܡܳܪܝܳܐ ܒ݁ܚܶܠܡܳܐ
+        ܘܶܐܡܰܪ ܠܶܗ ܝܰܘܣܶܦ݂ ܒ݁ܪܶܗ ܕ݁ܕ݂ܰܘܺܝܕ݂ ܠܳܐ ܬ݁ܶܕ݂ܚܰܠ ܠܡܶܣܰܒ݂ ܠܡܰܪܝܰܡ
+        ܐܰܢ݈ܬ݁ܬ݂ܳܟ݂ ܗܰܘ ܓ݁ܶܝܪ ܕ݁ܶܐܬ݂ܺܝܠܶܕ݂ ܒ݁ܳܗ ܡܶܢ ܪܽܘܚܳܐ ܗܽܘ ܕ݁ܩܽܘܕ݂ܫܳܐ܂
+      romana: "Si cugetand el acestea, iata ingerul Domnului i s-a aratat in vis,
+        graind: Iosife, fiul lui David, nu te teme a lua pe Maria, logodnica ta,
+        ca ce s-a zamislit intr-insa este de la Duhul Sfant."
+      francais: "Comme il y pensait, voici, un ange du Seigneur lui apparut en songe,
+        et dit: Joseph, fils de David, ne crains pas de prendre avec toi Marie,
+        ta femme, car l'enfant qu'elle a conçu vient du Saint Esprit;"
+      italian: 'Mentre però stava pensando a queste cose, ecco che gli apparve in
+        sogno un angelo del Signore e gli dis — se: "Giuseppe, figlio di Davide,
+        non temere di prendere con te Maria, tua sposa, perché quel che è
+        generato in lei viene dallo Spirito Santo.'
+      old_georgian: "და ვითარ იგი ამას განიზრახვიდა ოდენ, აჰა ანგელოზი უფლისაჲ
+        ჩუენებით გამოუჩნდა მას და ჰრქუა: იოსებ, ძეო დავითისო, ნუ გეშინინ
+        მიყვანებად მარიამისა, ცოლისა შენისა, რამეთუ რომელი-იგი მისგან იშვეს,
+        სულისაგან წმიდისა არს."
+      portuguese: "E, projetando ele isso, eis que em sonho lhe apareceu um anjo do
+        Senhor, dizendo: José, filho de Davi, não\rtemas receber a Maria, tua
+        mulher, pois o que nela se gerou é do Espírito Santo;"
+      polish: "Gdy powziął tę myśl, oto anioł Pański ukazał mu się we śnie i rzekł:
+        ”Józefie,\rsynu Dawida, nie bój się wziąć do siebie Maryi, twej
+        Małżonki; albowiem z\rDucha Świętego jest to, co się w Niej poczęło."
+      pobedonostsev: "Но лишь он сие помыслил; се, Ангел Господень во сне явился ему и
+        сказал: Иосиф, сын Давидов! не убойся приять Мариам, жену твою;
+        родившееся в Ней от Духа есть Святого;"
+      new_text: Когда же он это задумал, явился ему во сне ангел от Господа. «Иосиф,
+        сын Давида, не бойся взять Марию в жены, — сказал он. — Ребенок,
+        которого она носит, зачат от Духа Святого.
+      serbian: "Но кад он тако помисли, гле, јави му се у сну анђео Господњи говорећи:
+        Јосифе, сине Давидов, не бој се узети Марију жену своју; јер оно што се
+        у њој зачело од Духа је Светога."
+      bulgarian: "Но когато намисли това, ето, Ангел Господен му се яви насъне и каза:
+        Иосифе, син Давидов, не бой се да приемеш Мария, жена си; защото
+        заченалото се в нея е от Духа Светаго;"
+      Lutkovsky: "Но когда он задумал это, \rему во сне явился ангел Господень и
+        сказал: \rИосиф из рода Давида, не смущайся брать Марию в жены себе,
+        \rпотому что Тот, Кого зачала она, - от Духа Святого;"
+      bel_boc: "Калі ж надумаў ён гэта, —\rвось, Ангел Гасподні ў сне явіўся яму і
+        сказаў:\rІосіфе, сыне Давідаў!\rне бойся прыняць Марыю, жонку тваю;\rбо
+        зачатае ў Ёй ёсць ад Духа Святога;"
+      ukr2: "І от, коли він це задумав, ангел Господній з'явився йому уві сні й мовив:
+        “Йосифе, сину Давида, не бійсь узяти Марію, твою жінку, бо те, що в ній
+        зачалось, походить від Святого Духа."
+      ukr3: "Та як він про се думав, аж ось явивсь йому вві снї ангел Господень,
+        глаголючи: Йосифе, сину Давидів, не бій ся взяти до себе Марию, жінку
+        твою; бо що в нїй зачалось, те від сьвятого Духа."
+      zhukovsky: "Но когда он то помыслил, Ангел Господень явился ему во сне, говоря:
+        Иосиф, сын Давидов, не убойся приять Марию жену твою; зачавшееся в Ней
+        от Духа есть Святаго."
+      czech: "Ale kdyz pojal ten umysl, hle, andel Pane se mu zjevil ve snu a rekl:
+        „Josefe, synu Daviduv, neboj se prijmout Marii, svou manzelku; nebot co
+        v ni bylo pocato, je z Ducha svateho."
+      st_text: "Но когда он помыслил это, - се, Ангел Господень явился ему во сне и
+        сказал: Иосиф, сын Давидов! не бойся принять Марию, жену твою, ибо
+        родившееся в Ней есть от Духа Святаго;"
+  - id: 25009
+    number: 21
+    bookId: 51
+    text: родит же Сына, и наречешь Ему имя Иисус, ибо Он спасет людей Своих от
+      грехов их.
+    chapter: 1
+    chapterId: 1113
+    parallels:
+      - verseId: 20826
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 49
+        short: Ис:49:1
+      - verseId: 23813
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 1
+        short: Лк:1:31
+      - verseId: 23850
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 1
+        short: Лк:1:68
+      - verseId: 24299
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 2
+        short: Лк:2:21
+      - verseId: 13790
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 4
+        short: Деян:4:12
+      - verseId: 1192
+        bookId: 59
+        bookCode: 1oe-poslanie-ap-ioanna
+        chapter: 2
+        short: 1 Ин:2:2
+      - verseId: 33054
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 3
+        short: Рим:3:24
+    translates:
+      kassian: "И родит Она Сына, и наречёшь имя Ему: Иисус, ибо Он спасет народ Свой
+        от грехов их."
+      podstr: родит же Сына и назовёшь имя Ему Иисус, Он ведь спасёт народ Его от
+        грехов его.
+      csya: "родит же сына, и наречеши имя ему Иисус: той бо спасет люди своя от грех
+        их."
+      averincev: Сына родит Она, и ты наречешь Ему имя - Иисус; ибо Он спасет народ
+        Свой от грехов их".
+      ungerov: ""
+      csya_old: "роди1тъ же сн7а, и3 нарече1ши и4мz є3мY ї}съ: то1й бо сп7се1тъ лю1ди
+        сво‰ t грBхъ и4хъ."
+      sovr_rbo: ""
+      latin: "Pariet autem filium: et vocabis nomen ejus Jesum: ipse enim salvum
+        faciet populum suum a peccatis eorum."
+      ukr: І вона вродить Сина, ти ж даси Йому йменна Ісус, бо спасе Він людей Своїх
+        від їхніх гріхів.
+      nkjv: And she will bring forth a Son, and you shall call His name Jesus, for He
+        will save His people from their sins."
+      desnitsky: ""
+      tex_rec: τέξεται δὲ υἱὸν καὶ καλέσεις τὸ ὄνομα αὐτοῦ ᾽Ιησοῦν, αὐτὸς γὰρ σώσει
+        τὸν λαὸν αὐτοῦ ἀπὸ τῶν ἁμαρτιῶν αὐτῶν.
+      deutsch: Und sie wird einen Sohn gebären, des Namen sollst du Jesus heißen; denn
+        er wird sein Volk selig machen von ihren Sünden.
+      bel_syomukha: "і народзіць Сына, і дасі Яму імя: Ісус, бо Ён уратуе людзей Сваіх
+        ад грахоў іхніх."
+      nrt: Она родит Сына, и ты назовешь Его Иисус, потому что Он спасет Свой народ от
+        грехов их!
+      spanish: Dará a luz un hijo, a quien pondrás por nombre Jesús, porque salvará a
+        su pueblo de sus pecados.
+      peshitta: ܬ݁ܺܐܠܰܕ݂ ܕ݁ܶܝܢ ܒ݁ܪܳܐ ܘܬ݂ܶܩܪܶܐ ܫܡܶܗ ܝܶܫܽܘܥ ܗܽܘ ܓ݁ܶܝܪ ܢܰܚܶܝܘܗ݈ܝ ܠܥܰܡܶܗ
+        ܡܶܢ ܚܛܳܗܰܝܗܽܘܢ܂
+      romana: "Ea va naste Fiu si vei chema numele Lui: Iisus, caci El va mantui
+        poporul Sau de pacatele lor."
+      francais: elle enfantera un fils, et tu lui donneras le nom de Jésus; c'est lui
+        qui sauvera son peuple de ses péchés.
+      italian: 'Essa partorirà un figlio e tu lo chiamerai Gesù: egli infatti salverà
+        il suo popolo dai suoi peccati".'
+      old_georgian: შვეს ძე, და უწოდიან სახელი მისი იესუ, რამეთუ მან იჴსნეს ერი თჳსი
+        ცოდვათა მათთაგან.
+      portuguese: ela dará à luz um filho, a quem chamarás JESUS; porque ele salvará o
+        seu povo dos seus pecados.
+      polish: "Porodzi Syna, któremu nadasz imię Jezus, On bowiem zbawi swój lud od
+        jego\rgrzechów”."
+      pobedonostsev: "родит же Сына, и наречешь имя Ему: Иисус; ибо Он спасет людей
+        Своих от грехов их."
+      new_text: Она родит сына, и ты назовешь Его Иисусом, потому что Он спасет Свой
+        народ от грехов».
+      serbian: Па ће родити сина, и надјени му име Исус;  јер ће он спасти народ свој
+        од гријеха њихових.
+      bulgarian: тя ще роди Син, и ще Му наречеш името Иисус; защото Той ще спаси
+        народа Си от греховете му.
+      Lutkovsky: "она родит тебе Сына, \rи ты назовешь Его именем Иисус, \rибо Он
+        избавит народ Свой от грехов его."
+      bel_boc: "і народзіць Сына, і дасі Яму імя: Іісус;\rбо Ён збавіць людзей Сваіх
+        ад грахоў іх."
+      ukr2: Вона породить сина, і ти даси йому ім'я Ісус, бо він спасе народ свій від
+        гріхів їхніх.”
+      ukr3: І вродить вона сина, і даси йому імя Ісус; бо він спасе людей своїх од
+        гріхів їх.
+      zhukovsky: "Родит же сына и наречешь имя Ему Иисус: понеже спасет Он людей Своих
+        от грехов их."
+      czech: Porodi syna a das mu jmeno Jezis; nebot on vysvobodi svuj lid z jeho
+        hrichu.“
+      st_text: родит же Сына, и наречешь Ему имя Иисус, ибо Он спасет людей Своих от
+        грехов их.
+  - id: 25010
+    number: 22
+    bookId: 51
+    text: "А все сие произошло, да сбудется реченное Господом через пророка, который
+      говорит:"
+    chapter: 1
+    chapterId: 1113
+    parallels: []
+    translates:
+      kassian: "А это всё произошло, чтобы исполнилось сказанное Господом чрез пророка:"
+      podstr: Это же всё сделалось чтобы было исполнено сказанное от Господа через
+        пророка говорящего,
+      csya: "Сие же все бысть, да сбудется реченное от Господа пророком, глаголющим:"
+      averincev: "Было же все это во исполнение предреченного от Господа через
+        пророка, сказавшего:"
+      ungerov: ""
+      csya_old: "Сіе1 же все2 бы1сть, да сбyдетсz рече1нное t гDа прbро1комъ,
+        глаго1лющимъ:"
+      sovr_rbo: ""
+      latin: "Hoc autem totum factum est, ut adimpleretur quod dictum est a Domino per
+        prophetam dicentem:"
+      ukr: "А все оце сталось, щоб збулося сказане пророком від Господа, який
+        провіщає:"
+      nkjv: "So all this was done that it might be fulfilled which was spoken by the
+        Lord through the prophet, saying:"
+      desnitsky: ""
+      tex_rec: Τοῦτο δὲ ὅλον γέγονεν ἵνα πληρωθῇ τὸ ῥηθὲν ὑπὸ κυρίου διὰ τοῦ προφήτου
+        λέγοντος,
+      deutsch: "Das ist aber alles geschehen, auf daß erfüllt würde, was der Herr
+        durch den Propheten gesagt hat, der da spricht:"
+      bel_syomukha: "А ўсё гэта сталася, каб збылося сказанае Госпадам праз прарока,
+        які кажа:"
+      nrt: "Все, что произошло, было исполнением того, что Господь сказал через
+        пророка:"
+      spanish: "Todo esto sucedió para que se cumpliese lo que el Señor había
+        anunciado por el profeta, que dice:"
+      peshitta: ܗܳܕ݂ܶܐ ܕ݁ܶܝܢ ܟ݁ܽܠܳܗ ܕ݁ܰܗܘܳܬ݂ ܕ݁ܢܶܬ݂ܡܰܠܶܐ ܡܶܕ݁ܶܡ ܕ݁ܶܐܬ݂ܶܐܡܰܪ ܡܶܢ ܡܳܪܝܳܐ
+        ܒ݁ܝܰܕ݂ ܢܒ݂ܺܝܳܐ܂
+      romana: "Acestea toate s-au facut ca sa se implineasca ceea ce s-a zis de Domnul
+        prin proorocul care zice:"
+      francais: "Tout cela arriva afin que s'accomplît ce que le Seigneur avait
+        annoncé par le prophète:"
+      italian: "Tutto questo avvenne perché si adempisse ciò che era stato detto dal
+        Signore per mezzo del profeta:"
+      old_georgian: "ესე ყოველი იქმნა, რაჲთა აღესრულოს სიტყუაჲ იგი უფლისაჲ პირითა
+        წინასწარმეტყუელისაჲთა თქუმული:"
+      portuguese: "Ora, tudo isso aconteceu para que se cumprisse o que fora dito da
+        parte do Senhor pelo profeta:"
+      polish: "A stało się to wszystko, aby się wypełniło słowo Pańskie powiedziane
+        przez\rProroka:"
+      pobedonostsev: "Все же сие произошло, да сбудется реченное от Господа такое
+        слово пророческое:"
+      new_text: "Все это произошло, чтобы исполнилось то, что сказал Господь устами
+        пророка:"
+      serbian: "А све се ово догодило да се испуни што је Господ казао преко пророка
+        који говори:"
+      bulgarian: "А всичко това стана, за да се сбъдне реченото от Господа чрез
+        пророка, който каза:"
+      Lutkovsky: "А свершилось все это \rво исполнение прореченного Господом чрез
+        пророка Исайю:"
+      bel_boc: "А ўсё гэта сталася,\rкаб збылося сказанае Госпадам праз прарока, які
+        кажа:"
+      ukr2: "А сталося все це, щоб здійснилось Господнє слово, сказане пророком:"
+      ukr3: "Усе ж се стало ся, щоб справдилось, що промовив Господь через пророка,
+        глаголючи:"
+      zhukovsky: "Сие же все совершилось, да сбудется реченное Господом через пророка,
+        он же говорит:"
+      czech: "To vsechno se stalo, aby se splnilo, co rekl Hospodin usty proroka:"
+      st_text: "А все сие произошло, да сбудется реченное Господом через пророка,
+        который говорит:"
+  - id: 25011
+    number: 23
+    bookId: 51
+    text: "се, Дева во чреве приимет и родит Сына, и нарекут имя Ему Еммануил, что
+      значит: с нами Бог."
+    chapter: 1
+    chapterId: 1113
+    parallels:
+      - verseId: 21192
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 7
+        short: Ис:7:14
+    translates:
+      kassian: "Вот, Дева зачнет во чреве и родит Сына, и нарекут имя Ему: Еммануил,
+        что в переводе значит: с нами Бог."
+      podstr: "Вот дева в утробе будет иметь и родит Сына, и нарекут имя Ему Эммануил,
+        что есть переводимое: С нами Бог."
+      csya: "се, Дева во чреве приимет и родит сына, и нарекут имя ему еммануил, еже
+        есть сказаемо: с нами Бог."
+      averincev: '"Се, Дева зачнет во чреве, и родит Сына, и нарекут имя Ему -
+        Эммануил", что в переводе означает: "С нами Бог".'
+      ungerov: ""
+      csya_old: "се2, дв7а во чре1вэ пріи1метъ и3 роди1тъ сн7а, и3 нарекyтъ и4мz є3мY
+        є3мманyилъ, є4же є4сть сказaемо: съ нaми бг7ъ."
+      sovr_rbo: ""
+      latin: "Ecce virgo in utero habebit, et pariet filium: et vocabunt nomen ejus
+        Emmanuel, quod est interpretatum Nobiscum Deus."
+      ukr: "Ось діва в утробі зачне, і Сина породить, і назвуть Йому Ймення Еммануїл,
+        що в перекладі є: З нами Бог."
+      nkjv: '"Behold, the virgin shall be with child, and bear a Son, and they shall
+        call His name Immanuel," which is translated, "God with us."'
+      desnitsky: ""
+      tex_rec: ᾽Ιδοὺ ἡ παρθένος ἐν γαστρὶ ἕξει καὶ τέξεται υἱόν, καὶ καλέσουσιν τὸ
+        ὄνομα αὐτοῦ ᾽Εμμανουήλ, ὅ ἐστιν μεθερμηνευόμενον Μεθ᾽ ἡμῶν ὁ θεός.
+      deutsch: '"Siehe, eine Jungfrau wird schwanger sein und einen Sohn gebären, und
+        sie werden seinen Namen Immanuel heißen", das ist verdolmetscht: Gott
+        mit uns.'
+      bel_syomukha: '"Вось, Дзева ва ўлоньні зачне; народзіць Сына, і дадуць Яму імя:
+        Эмануіл, што азначае: з намі Бог".'
+      nrt: "«Вот, дева забеременеет и родит Сына, \r
+
+        и назовут Его Еммануил»,\r
+
+        что значит: «С нами Бог»."
+      spanish: «He aquí que una virgen concebirá y parirá un hijo. Y le pondrá por
+        nombre Emmanuel», Que quiere decir «Dios con nosotros».
+      peshitta: ܕ݁ܗܳܐ ܒ݁ܬ݂ܽܘܠܬ݁ܳܐ ܬ݁ܶܒ݂ܛܰܢ ܘܬ݂ܺܐܠܰܕ݂ ܒ݁ܪܳܐ ܘܢܶܩܪܽܘܢ ܫܡܶܗ ܥܰܡܰܢܽܘܐܝܺܠ
+        ܕ݁ܡܶܬ݁ܬ݁ܰܪܓ݁ܰܡ ܥܰܡܰܢ ܐܰܠܳܗܰܢ܂
+      romana: '"Iata, Fecioara va avea in pantece si va naste Fiu si vor chema numele
+        Lui Emanuel, care se talcuieste: Cu noi este Dumnezeu".'
+      francais: Voici, la vierge sera enceinte, elle enfantera un fils, et on lui
+        donnera le nom d'Emmanuel, ce qui signifie Dieu avec nous.
+      italian: Ecco, la vergine concepirà e partorirà un figlio che sarà chiamato
+        Emmanuele, che significa Dio con noi.
+      old_georgian: "აჰა ქალწული მოუდგეს და შვეს ძე, და უწოდიან სახელი მისი ემმანუელ,
+        რომელ არს თარგმანებით: ჩუენ თანა ღმერთი."
+      portuguese: "Eis que a virgem conceberá e dará à luz um filho, o qual será
+        chamado EMANUEL, que traduzido é: Deus\r
+
+        conosco."
+      polish: "Oto Dziewica pocznie i porodzi Syna, któremu nadadzą imię Emmanuel,
+        to\r
+
+        znaczy: ”Bóg z nami”."
+      pobedonostsev: "се, Дева во чреве приимет и родит Сына, и нарекут имя Ему:
+        Еммануил, что означает: с нами Бог (Ис.7:14)."
+      new_text: «И вот дева зачнет и родит сына, Его назовут Иммануэль», что значит «С
+        нами Бог».
+      serbian: "Ето, дјевојка ће зачети, и родиће сина, и надјенуће му име Емануил,
+        што ће рећи: С нама Бог."
+      bulgarian: '"ето, девицата ще зачене в утробата си и ще роди Син, и ще Му
+        нарекат името Емануил",* което ще рече: с нас е Бог. //* Това място е по
+        превода на 70-те, по който новозаветните свещени писатели току-речи
+        изключително привеждат в съчиненията си места от Ветхия Завет.'
+      Lutkovsky: "вот, дева зачнет во чреве и родит Сына, \r
+
+        и назовут Его именем Еммануил, \r
+
+        что значит: с нами Бог. \r
+
+        (Ис 7.14; Ис 8.8)"
+      bel_boc: "\"Вось, Дзева ва ўлонні зачне і народзіць Сына,\r
+
+        і дадуць Яму імя: Эмануіл,\r
+
+        што азначае: з намі Бог\"."
+      ukr2: "“Ось, діва матиме в утробі й породить сина, і дадуть йому ім'я Еммануїл,
+        що значить: З нами Бог.”"
+      ukr3: "Ось дїва мати ме в утробі, і вродить сина, і дадуть йому імя Емануіл, що
+        перекладом є: З нами Бог."
+      zhukovsky: "Дева приимет во чреве и родит сына, и нарекут имя Ему Эммануил, что
+        знаменует: с нами Бог (Ис. VII, 14)."
+      czech: ‚Hle, panna pocne a porodi syna a daji mu jmeno Immanuel,‘ to jest
+        prelozeno ‚Buh s nami‘.
+      st_text: "се, Дева во чреве приимет и родит Сына, и нарекут имя Ему Еммануил,
+        что значит: с нами Бог."
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 25012
+    number: 24
+    bookId: 51
+    text: Встав от сна, Иосиф поступил, как повелел ему Ангел Господень, и принял
+      жену свою,
+    chapter: 1
+    chapterId: 1113
+    parallels: []
+    translates:
+      kassian: Пробудившись от сна, Иосиф поступил, как повелел ему ангел Господень, и
+        принял жену свою.
+      podstr: Поднявшийся же Иосиф от сна сделал как приказал ему ангел Господа и
+        принял жену его;
+      csya: Востав же иосиф от сна, сотвори якоже повеле ему ангел Господень, и прият
+        жену свою,
+      averincev: Иосиф, пробудившись от сна, сделал, как велел ему ангел Господень, и
+        принял жену свою;
+      ungerov: ""
+      csya_old: Востaвъ же їHсифъ t снA, сотвори2 ћкоже повелЁ є3мY ѓгг7лъ гDень, и3
+        пріsтъ женY свою2,
+      sovr_rbo: ""
+      latin: Exsurgens autem Joseph a somno, fecit sicut praecepit ei angelus Domini,
+        et accepit conjugem suam.
+      ukr: Як прокинувся ж Йосип зо сну, то зробив, як звелів йому Ангол Господній, і
+        прийняв він дружину свою.
+      nkjv: Then Joseph, being aroused from sleep, did as the angel of the Lord
+        commanded him and took to him his wife,
+      desnitsky: ""
+      tex_rec: ἐγερθεὶς δὲ [ὁ] ᾽Ιωσὴφ ἀπὸ τοῦ ὕπνου ἐποίησεν ὡς προσέταξεν αὐτῷ ὁ
+        ἄγγελος κυρίου καὶ παρέλαβεν τὴν γυναῖκα αὐτοῦ·
+      deutsch: Da nun Joseph vom Schlaf erwachte, tat er, wie ihm des Herrn Engel
+        befohlen hatte, und nahm sein Gemahl zu sich.
+      bel_syomukha: Устаўшы ад сну, Язэп зрабіў, як загадаў яму анёл Гасподні, і
+        прыняў жонку сваю
+      nrt: Пробудившись от сна, Иосиф сделал так, как велел ему ангел Господень, и
+        Мария стала женой Иосифа,
+      spanish: Al despertar José de su sueño hizo como el ángel del Señor le había
+        mandado, recibiendo en su casa a su esposa.
+      peshitta: ܟ݁ܰܕ݂ ܩܳܡ ܕ݁ܶܝܢ ܝܰܘܣܶܦ݂ ܡܶܢ ܫܶܢܬ݂ܶܗ ܥܒ݂ܰܕ݂ ܐܰܝܟ݁ܰܢܳܐ ܕ݁ܰܦ݂ܩܰܕ݂ ܠܶܗ
+        ܡܰܠܰܐܟ݂ܶܗ ܕ݁ܡܳܪܝܳܐ ܘܕ݂ܰܒ݂ܪܳܗ ܠܰܐܢ݈ܬ݁ܬ݂ܶܗ܂
+      romana: Si desteptandu-se din somn, Iosif a facut asa precum i-a poruncit
+        ingerul Domnului si a luat la el pe logodnica sa.
+      francais: Joseph s'étant réveillé fit ce que l'ange du Seigneur lui avait
+        ordonné, et il prit sa femme avec lui.
+      italian: Destatosi dal sonno, Giuseppe fece come gli aveva ordinato l'angelo del
+        Signore e prese con sé la sua sposa,
+      old_georgian: განიღჳძა იოსებ ძილისა მისგან და ყო ეგრე, ვითარცა უბრძანა მას
+        ანგელოზმან უფლისამან, და წარიყვანა ცოლი თჳსი.
+      portuguese: E José, tendo despertado do sono, fez como o anjo do Senhor lhe
+        ordenara, e recebeu sua mulher;
+      polish: "Zbudziwszy się ze snu, Józef uczynił tak, jak mu polecił anioł Pański:
+        wziął\rswoją Małżonkę do siebie,"
+      pobedonostsev: Востав же Иосиф от сна, сотворил, как повелел ему Ангел
+        Господень, и приял жену свою,
+      new_text: "Иосиф, пробудившись ото сна, поступил так, как велел ему ангел
+        Господень: взял Марию как жену к себе в дом."
+      serbian: Уставши Јосиф од сна, учини како му заповједи анђео Господњи и узе жену
+        своју.
+      bulgarian: Като стана от сън, Иосиф направи, както му бе заповядал Ангелът
+        Господен, и прие жена си.
+      Lutkovsky: "Проснувшись, Иосиф поступил так, как повелел ему ангел Господень,
+        \rи взял Марию в жены себе,"
+      bel_boc: "Устаўшы ад сну,\rІосіф зрабіў, як загадаў яму Ангел Гасподні,\rі
+        прыняў жонку сваю,"
+      ukr2: "Прокинувшись від сну, Йосиф зробив, як звелів йому ангел Господній:
+        прийняв свою жінку;"
+      ukr3: Прокинувшись тодї Йосиф од сна, зробив так, як ангел Господень повелїв
+        йому, й узяв до себе жінку свою;
+      zhukovsky: Иосиф же, возстав от сна, сотворил, как повелел ему Ангед Господень,
+        и приял жену свою.
+      czech: Kdyz se Josef probudil ze spanku, ucinil, jak mu prikazal andel
+        Hospodinuv, a prijal svou manzelku k sobe.
+      st_text: Встав от сна, Иосиф поступил, как повелел ему Ангел Господень, и принял
+        жену свою,
+  - id: 25013
+    number: 25
+    bookId: 51
+    text: "и не знал Ее. [Как] наконец Она родила Сына Своего первенца, и он нарек
+      Ему имя: Иисус."
+    chapter: 1
+    chapterId: 1113
+    parallels:
+      - verseId: 24299
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 2
+        short: Лк:2:21
+      - verseId: 24285
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 2
+        short: Лк:2:7
+    translates:
+      kassian: "И не знал Ее, доколе не родила Она Сына, и он нарек имя Ему: Иисус."
+      podstr: и не знал её пока не родила Сына; и назвал имя Ему Иисус.
+      csya: и не знаяше ея, дондеже роди сына своего первенца, и нарече имя ему Иисус.
+      averincev: и не познал ее, и вот она родила Сына, и он нарек Ему имя - Иисус.
+      ungerov: ""
+      csya_old: и3 не знazше є3S, до1ндеже роди2 сн7а своего2 пе1рвенца, и3 нарече2
+        и4мz є3мY ї}съ.
+      sovr_rbo: ""
+      latin: "Et non cognoscebat eam donec peperit filium suum primogenitum: et
+        vocavit nomen ejus Jesum."
+      ukr: І не знав він її, аж Сина свого первородженого вона породила, а він дав
+        Йому ймення Ісус.
+      nkjv: and did not know her till she had brought forth her firstborn Son. And he
+        called His name Jesus.
+      desnitsky: ""
+      tex_rec: καὶ οὐκ ἐγίνωσκεν αὐτὴν ἕως οὗ ἔτεκεν υἱόν· καὶ ἐκάλεσεν τὸ ὄνομα αὐτοῦ
+        ᾽Ιησοῦν.
+      deutsch: Und er erkannte sie nicht, bis sie ihren ersten Sohn gebar; und hieß
+        seinen Namen Jesus.
+      bel_syomukha: "і ня знаў Яе, пакуль нарадзіла Сына Свайго першароднага, і Ён даў
+        Яму імя: Ісус."
+      nrt: но супружеской близости между ними не было до тех пор, пока она не родила
+        Сына. Он назвал Его Иисусом.
+      spanish: No la conoció hasta que dio a luz un hijo, y la puso por nombre Jesús.
+      peshitta: ܘܠܳܐ ܚܰܟ݂ܡܳܗ ܥܕ݂ܰܡܳܐ ܕ݁ܺܝܠܶܕ݂ܬ݂ܶܗ ܠܰܒ݂ܪܳܗ ܒ݁ܽܘܟ݂ܪܳܐ ܘܰܩܪܳܬ݂ ܫܡܶܗ ܝܶܫܽܘܥ܂
+      romana: Si fara sa fi cunoscut-o pe ea Iosif, Maria a nascut pe Fiul sau Cel
+        Unul-Nascut, Caruia I-a pus numele Iisus.
+      francais: Mais il ne la connut point jusqu'à ce qu'elle eût enfanté un fils,
+        auquel il donna le nom de Jésus.
+      italian: la quale, senza che egli la conoscesse, partorì un figlio, che egli
+        chiamò Gesù.
+      old_georgian: და არა იცოდა იგი, ვიდრემდე შვა ძე იგი მისი პირმშოჲ და უწოდა სახელი
+        მისი იესუ.
+      portuguese: e não a conheceu enquanto ela não deu à luz um filho; e pôs-lhe o
+        nome de JESUS.
+      polish: lecz nie zbliżał się do Niej, aż porodziła Syna, któremu nadał imię
+        Jezus.
+      pobedonostsev: "и не познал Ее, как Она родила Сына Своего первенца; и нарек имя
+        Ему: Иисус."
+      new_text: Но он не прикасался к ней до тех пор, пока она не родила Сына. Он
+        назвал Его Иисусом.
+      serbian: И не знадијаше за њу док не роди сина својега првенца, и надјену му име
+        Исус.
+      bulgarian: И не познаваше я, докле тя роди своя първороден Син; и той Му нарече
+        името Иисус.
+      Lutkovsky: "и не обладал ею, доколе не родила она Сына своего Первенца,
+        \rКоторого он назвал именем Иисус."
+      bel_boc: "і не знаў Яе, пакуль нарадзіла Сына Свайго першароднага,\rі ён даў Яму
+        імя: Іісус."
+      ukr2: та не спізнав її, аж поки породила сина, і він дав йому ім'я Ісус.
+      ukr3: і не знав її, аж поки вона вродила сина свого перворідня, і дав йому імя
+        Ісус.
+      zhukovsky: И не знал ее, доколе не родила сына своего первенца; и нарек имя Ему
+        Иисус.
+      czech: Ale nezili spolu, dokud neporodila syna; a dal mu jmeno Jezis.
+      st_text: "и не знал Ее. [Как] наконец Она родила Сына Своего первенца, и он
+        нарек Ему имя: Иисус."

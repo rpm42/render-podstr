@@ -1,0 +1,1207 @@
+id: 1327
+number: 3
+bookId: 72
+verseCount: 16
+title: Глава 3
+verses:
+  - id: 3729
+    number: 1
+    bookId: 72
+    text: "Верно слово: если кто епископства желает, доброго дела желает."
+    chapter: 3
+    chapterId: 1327
+    parallels:
+      - verseId: 21048
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 6
+        short: Ис:6:8
+      - verseId: 13476
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 20
+        short: Деян:20:28
+    translates:
+      kassian: "Верно слово: если кто к епископству стремится, доброго дела желает."
+      podstr: Верно слово; если кто [к] епископству стремится, хорошего дела желает.
+      csya: "Верно слово: аще кто епископства хощет, добра дела желает."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Вёрно сло1во: ѓще кто2 є3пjскопства хо1щетъ, добрA дёла желaетъ."
+      sovr_rbo: ""
+      latin: "Fidelis sermo: si quis episcopatum desiderat, bonum opus desiderat."
+      ukr: "Вірне це слово: коли хто єпископства хоче, доброго діла він прагне."
+      nkjv: "This is a faithful saying: If a man desires the position of a bishop, he
+        desires a good work."
+      desnitsky: верно сказано! Кто стремится стать епископом, желает доброго дела.
+      tex_rec: Πιστὸς ὁ λόγος· εἴ τις ἐπισκοπῆς ὀρέγεται, καλοῦ ἔργου ἐπιθυμεῖ.
+      deutsch: "Das ist gewißlich wahr: So jemand ein Bischofsamt begehrt, der begehrt
+        ein köstlich Werk."
+      spanish: "Palabra de verdad: Si alguno desea el episcopado, buena obra desea;"
+      peshitta: ܡܗܰܝܡܢܳܐ ܗ݈ܝ ܡܶܠܬ݂ܳܐ ܕ݁ܶܐܢ ܐ݈ܢܳܫ ܪܳܐܶܓ݂ ܩܰܫܺܝܫܽܘܬ݂ܳܐ ܥܒ݂ܳܕ݂ܶܐ ܛܳܒ݂ܶܐ
+        ܪܳܐܶܓ݂܂
+      bel_syomukha: "Слушнае слова: калі хто япіскапства жадае, добрае справы жадае."
+      nrt: "Правильно говорится: похвально, когда человек стремится быть
+        руководителем."
+      romana: "Vrednic de crezare, este cuvantul: de pofteste cineva episcopie, bun
+        lucru doreste."
+      francais: "Cette parole est certaine: Si quelqu'un aspire à la charge d'évêque,
+        il désire une oeuvre excellente."
+      italian: "È degno di fede quanto vi dico: se uno aspira all'episcopato, desidera
+        un nobile lavoro."
+      old_georgian: "სარწმუნო არს სიტყუაჲ: უკუეთუ ვისმე ეპისკოპოსობის უნდეს, კეთილისა
+        საქმესა გული ეტყჳს."
+      portuguese: "Fiel é esta palavra: Se alguém aspira ao episcopado, excelente obra
+        deseja."
+      polish: "Nauka ta zasługuje na wiarę. Jeśli ktoś dąży do biskupstwa, pożąda
+        dobrego\r
+
+        zadania."
+      new_text: "Верно говорится: если кто стремится к руководству, то желание его
+        похвально."
+      serbian: "Истинита је ријеч: ако ко епископство жели, добро дјело жели."
+      bulgarian: "Верни са тия думи: желае ли някой епископство, добро нещо желае."
+      pobedonostsev: "Верно слово: кто епископства желает, добраго дела желает."
+      ukr2: "Вірне слово: Коли хтось прагне єпископства, - бажає доброї справи."
+      ukr3: "Вірне слово: коли хто епископства хоче, доброго дїла бажає."
+      czech: "Verohodne je to slovo: Kdo chce byt biskupem, touzi po krasnem ukolu."
+      st_text: "Верно слово: если кто епископства желает, доброго дела желает."
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 3730
+    number: 2
+    bookId: 72
+    text: Но епископ должен быть непорочен, одной жены муж, трезв, целомудрен,
+      благочинен, честен, страннолюбив, учителен,
+    chapter: 3
+    chapterId: 1327
+    parallels:
+      - verseId: 23341
+        bookId: 3
+        bookCode: levit
+        chapter: 21
+        short: Лев:21:17
+      - verseId: 35513
+        bookId: 74
+        bookCode: k-titu-poslanie-ap-pavla
+        chapter: 1
+        short: Тит:1:7
+    translates:
+      kassian: Епископ же должен быть безупречен, одной жены муж, трезв, целомудрен,
+        благочинен, страннолюбив, учителен,
+      podstr: Надлежит итак блюстителю безупречному быть, одной жены мужу, трезвому,
+        благоразумному, порядочному, гостеприимному, способному учить,
+      csya: Подобает убо епископу быти непорочну, единыя жены мужу, трезвену,
+        целомудру, (благоговейну,) честну, страннолюбиву, учительну,
+      averincev: ""
+      ungerov: ""
+      csya_old: Подобaетъ ў2бо є3пjскопу бы1ти непоро1чну, є3ди1ныz жены2 мyжу,
+        тре1звену, цэломyдру, (благоговёйну,) че1стну, страннолюби1ву,
+        ўчи1тельну,
+      sovr_rbo: ""
+      latin: Oportet ergo episcopum irreprehensibilem esse, unius uxoris virum,
+        sobrium, prudentem, ornatum, pudicum, hospitalem, doctorem,
+      ukr: А єпископ має бути бездоганний, муж однієї дружини, тверезий, невинний,
+        чесний, гостинний до приходнів, здібний навчати,
+      nkjv: A bishop then must be blameless, the husband of one wife, temperate,
+        sober-minded, of good behavior, hospitable, able to teach;
+      desnitsky: Но епископ должен быть безупречным, женатым на единственной женщине,
+        мыслить трезво и здраво, быть порядочным, гостеприимным, способным
+        наставлять.
+      tex_rec: δεῖ οὖν τὸν ἐπίσκοπον ἀνεπίληπτον εἶναι, μιᾶς γυναικὸς ἄνδρα, νηφάλιον,
+        σώφρονα, κόσμιον, φιλόξενον, διδακτικόν,
+      deutsch: Es soll aber ein Bischof unsträflich sein, eines Weibes Mann, nüchtern,
+        mäßig, sittig, gastfrei, lehrhaft,
+      spanish: pero es preciso que el obispo sea irreprensible, marido de una sola
+        mujer, sobrio, prudente, morigerado, hospitalario, capaz de enseñar;
+      peshitta: ܘܳܠܶܐ ܕ݁ܶܝܢ ܕ݁ܢܶܗܘܶܐ ܩܰܫܺܝܫܳܐ ܐܰܝܢܳܐ ܕ݁ܡܽܘܡܳܐ ܠܳܐ ܡܶܫܬ݁ܟ݂ܰܚ ܒ݁ܶܗ
+        ܘܰܗܘܳܐ ܒ݁ܰܥܠܳܐ ܕ݁ܰܚܕ݂ܳܐ ܐܰܢ݈ܬ݁ܬ݂ܳܐ ܐܰܝܢܳܐ ܕ݁ܥܺܝܪ ܪܶܥܝܳܢܶܗ ܘܰܢܟ݂ܶܦ݂
+        ܘܰܡܛܰܟ݁ܰܣ ܘܪܳܚܶܡ ܐܰܟ݂ܣܢܳܝܶܐ ܘܡܰܠܦ݂ܳܢ܂
+      bel_syomukha: А япіскап павінен быць беззаганны, адной жонкі муж, цьвярозы,
+        цнатлівы, богабаязны, сумленны, гасьцінны да вандроўнікаў, здатны
+        вучыць,
+      nrt: "Но руководителем должен быть человек, которого не за что осудить: муж
+        одной жены, воздержанный, благоразумный, порядочный, гостеприимный,
+        хороший учитель,"
+      romana: Se cuvine, dar, ca episcopul sa fie fara de prihana, barbat al unei
+        singure femei, veghetor, intelept, cuviincios, iubitor de straini,
+        destoinic sa invete pe altii,
+      francais: Il faut donc que l'évêque soit irréprochable, mari d'une seul femme,
+        sobre, modéré, réglé dans sa conduite, hospitalier, propre à
+        l'enseignement.
+      italian: Ma bisogna che il vescovo sia irreprensibile, non sposato che una sola
+        volta, sobrio, prudente, dignitoso, ospitale, capace di insegnare,
+      old_georgian: ჯერ-არს ეპისკოპოსისაჲ, რაჲთა უბრალო იყოს, ერთის ცოლის ქმარ,
+        ფრთხილ, წმიდა, შემკულ, სტუმართ მოყუარე, სწავლულ,
+      portuguese: "É necessário, pois, que o bispo seja irrepreensível, marido de uma
+        só mulher, temperante, sóbrio, ordeiro,\rhospitaleiro, apto para
+        ensinar;"
+      polish: "Biskup więc powinien być nienaganny, mąż jednej żony, trzeźwy,
+        rozsądny,\rprzyzwoity, gościnny, sposobny do nauczania"
+      new_text: Итак, руководителем церкви должен стоять человек безупречной жизни,
+        женатый не больше одного раза, трезвомыслящий, рассудительный,
+        серьезный, гостеприимный, способный учить;
+      serbian: Али епископ треба да је без мане, једне жене муж, трезвен, мудар,
+        поштен, гостољубив, кадар да поучава;
+      bulgarian: Но епископът трябва да е непорочен, мъж на една жена, трезвен,
+        целомъдър, скромен, почтен, страннолюбив, поучлив;
+      pobedonostsev: "Но епископ должен быть непорочен, единой жены муж *, трезвен,
+        целомудрен, благочинен, страннолюбив, учителен; //* Может также значить:
+        состоящий в честном браке, имея одну жену."
+      ukr2: Треба, отже, щоб єпископ був бездоганним, однієї лише жінки чоловіком,
+        тверезим, розважливим, чесним, гостинним, здібним навчати,
+      ukr3: Треба ж епископу бути непорочним, однієї жінки чоловіком, тверезим,
+        цїломудрим, чесним, гостинним, навчаючим,
+      czech: Nuze, biskup ma byt bezuhonny, jen jednou zenaty, stridmy, rozvazny,
+        radny, pohostinny, schopny ucit,
+      st_text: Но епископ должен быть непорочен, одной жены муж, трезв, целомудрен,
+        благочинен, честен, страннолюбив, учителен,
+  - id: 3731
+    number: 3
+    bookId: 72
+    text: не пьяница, не бийца, не сварлив, не корыстолюбив, но тих, миролюбив, не
+      сребролюбив,
+    chapter: 3
+    chapterId: 1327
+    parallels:
+      - verseId: 22950
+        bookId: 3
+        bookCode: levit
+        chapter: 10
+        short: Лев:10:9
+      - verseId: 3681
+        bookId: 57
+        bookCode: 1oe-poslanie-ap-petra
+        chapter: 5
+        short: 1 Пет:5:2
+      - verseId: 35513
+        bookId: 74
+        bookCode: k-titu-poslanie-ap-pavla
+        chapter: 1
+        short: Тит:1:7
+    translates:
+      kassian: не склонен к вину, не задорен, но снисходителен, миролюбив,
+        несребролюбив,
+      podstr: не приверженному вину, не драчуну, но доброжелательному, несварливому,
+        несребролюбивому,
+      csya: не пиянице, не бийце, не сварливу, не мшелоимцу, но кротку, (не
+        завистливу,) не сребролюбцу,
+      averincev: ""
+      ungerov: ""
+      csya_old: не піsницэ, не бjйцэ, не сварли1ву, не мшелои1мцу, но кро1тку, (не
+        зави1стливу,) не сребролю1бцу,
+      sovr_rbo: ""
+      latin: "non vinolentum, non percussorem, sed modestum: non litigiosum, non
+        cupidum, sed"
+      ukr: не п'яниця, не заводіяка, але тихий, несварливий, не сріблолюбець,
+      nkjv: not given to wine, not violent, not greedy for money, but gentle, not
+        quarrelsome, not covetous;
+      desnitsky: Им не может быть пьяница или драчун (пусть владеет собой!), любитель
+        ссор или денег.
+      tex_rec: μὴ πάροινον, μὴ πλήκτην, μὴ αἰσχροκερδῆ, ἀλλ᾿ ἐπιεικῆ, ἄμαχον,
+        ἀφιλάργυρον,
+      deutsch: nicht ein Weinsäufer, nicht raufen, nicht unehrliche Hantierung
+        treiben, sondern gelinde, nicht zänkisch, nicht geizig,
+      spanish: dado al vino ni pendenciero, sino	ecuánime, pacífico, no codicioso;
+      peshitta: ܘܠܳܐ ܥܳܒ݂ܰܪ ܥܰܠ ܚܰܡܪܳܐ ܘܠܳܐ ܪܳܗܛܳܐ ܐܺܝܕ݂ܶܗ ܠܡܶܡܚܳܐ ܐܶܠܳܐ ܢܶܗܘܶܐ
+        ܡܰܟ݁ܺܝܟ݂ ܘܠܳܐ ܢܰܨܳܝ ܘܠܳܐ ܪܳܚܶܡ ܟ݁ܶܣܦ݁ܳܐ܂
+      bel_syomukha: ня п'яніца, не звадыяш, не сварлівец, не карысьлівец, а ціхі,
+        згодалюбны, не срэбралюбец,
+      nrt: не склонный к пьянству, не драчун, но мягкий в обращении с людьми, не
+        задиристый и не имеющий любви к деньгам.
+      romana: Nebetiv, nedeprins sa bata, neagonisitor de castig urat, ci bland,
+        pasnic, neiubitor de argint,
+      francais: Il faut qu'il ne soit ni adonné au vin, ni violent, mais indulgent,
+        pacifique, désintéressé.
+      italian: non dedito al vino, non violento ma benevolo, non litigioso, non
+        attaccato al denaro.
+      old_georgian: არა მეღჳნე, არა ანგაჰრ, არა საძაგელის შემძინელ, არამედ მყუდრო,
+        ულალველ, ვერცხლის უყუარულ,
+      portuguese: não dado ao vinho, não espancador, mas moderado, inimigo de
+        contendas, não ganancioso;
+      polish: "nie przebierający miary w piciu wina, nieskłonny do bicia, ale
+        opanowany,\rniekłótliwy, niechciwy na grosz,"
+      new_text: не пьяница, не драчун, умеющий владеть собой, мягкий, не задиристый,
+        не падкий до денег;
+      serbian: Не пијаница, не убојица, не лихвар, него кротак, мирољубив, не
+        среброљубив;
+      bulgarian: не пияница, не побойник, не свадлив, не алчен за гнусна печалба, а
+        кротък, миролюбив и не сребролюбив;
+      pobedonostsev: не пьяница, не бийца (не сварлив), не корыстен, но кроток,
+        миролюбив, не сребролюбец;
+      ukr2: не п'яницею, не розбишакою, а сумирним, не сварливим, не грошолюбом;
+      ukr3: не пяницею, не до бійки, не до здирства, а тихим, несварливим, не
+        сріблолюбцем,
+      czech: ne pijan, ne rvac, nybrz vlidny, smirlivy, nezistny.
+      st_text: не пьяница, не бийца, не сварлив, не корыстолюбив, но тих, миролюбив,
+        не сребролюбив,
+  - id: 3732
+    number: 4
+    bookId: 72
+    text: хорошо управляющий домом своим, детей содержащий в послушании со всякою
+      честностью;
+    chapter: 3
+    chapterId: 1327
+    parallels:
+      - verseId: 35512
+        bookId: 74
+        bookCode: k-titu-poslanie-ap-pavla
+        chapter: 1
+        short: Тит:1:6
+    translates:
+      kassian: хорошо управляющий собственным домом, детей содержащий в подчинении со
+        всяким достоинством,
+      podstr: собственный дом хорошо возглавляющему, детей содержащему в подчинении со
+        всякой почтенностью;
+      csya: "свой дом добре правящу, чада имущу в послушании со всякою чистотою
+        [честностию]:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "сво1й до1мъ до1брэ прaвzщу, ч†да и3мyщу въ послушaніи со всsкою
+        чистото1ю [че1стностію]:"
+      sovr_rbo: ""
+      latin: "suae domui bene praepositum: filios habentem subditos cum omni
+        castitate."
+      ukr: щоб добре рядив власним домом, що має дітей у слухняності з повною
+        чесністю,
+      nkjv: one who rules his own house well, having his children in submission with
+        all reverence
+      desnitsky: Пусть он хорошо справляется с собственным домом, чтобы дети слушались
+        его с полным уважением –
+      tex_rec: τοῦ ἰδίου οἴκου καλῶς προῑστάμενον, τέκνα ἔχοντα ἐν ὑποταγῇ μετὰ πάσης
+        σεμνότητος·
+      deutsch: der seinem eigenen Hause wohl vorstehe, der gehorsame Kinder habe mit
+        aller Ehrbarkeit,
+      spanish: que sepa gobernar bien su propia casa, que tenga los hijos en sujeción,
+        con toda honestidad;
+      peshitta: ܘܰܡܕ݂ܰܒ݁ܰܪ ܒ݁ܰܝܬ݁ܶܗ ܫܰܦ݁ܺܝܪ ܘܰܐܚܺܝܕ݂ ܒ݁ܢܰܘܗ݈ܝ ܒ݁ܫܽܘܥܒ݁ܳܕ݂ܳܐ ܒ݁ܟ݂ܽܠܳܗ
+        ܕ݁ܰܟ݂ܝܽܘܬ݂ܳܐ܂
+      bel_syomukha: павінен добра кіраваць домам сваім, дзяцей трымаць у паслушэнстве
+        з усёй сумленнасьцю;
+      nrt: Он должен хорошо управлять своей семьей, иметь послушных и уважающих его
+        детей.
+      romana: Bine chivernisind casa lui, avand copii ascultatori, cu toata
+        buna-cuviinta;
+      francais: Il faut qu'il dirige bien sa propre maison, et qu'il tienne ses
+        enfants dans la soumission et dans une parfaite honnêteté;
+      italian: Sappia dirigere bene la propria famiglia e abbia figli sottomessi con
+        ogni dignità,
+      old_georgian: თჳსისა სახლისა კეთილად განმგებელ, შვილნიმცა უსხენ დამორჩილებულნი
+        ყოვლითა ღირსებითა.
+      portuguese: que governe bem a sua própria casa, tendo seus filhos em sujeição,
+        com todo o respeito
+      polish: dobrze rządzący własnym domem, trzymający dzieci w uległości, z całą
+        godnością.
+      new_text: человек, способный хорошо управлять своим домом, отец послушных и
+        достойных детей.
+      serbian: Који својим домом добро управља, има послушну дјецу са сваком скромношћу;
+      bulgarian: да управлява добре къщата си и да има деца послушни със съвършена
+        почтителност;
+      pobedonostsev: хорошо правящий домом своим, детей содержащий в послушании, со
+        всякою честностью.
+      ukr2: щоб власним домом добре правив та щоб дітей тримав у послусі з усякою
+        повагою, -
+      ukr3: своїм домом щоб добре правив, дїтей держав у слухняностї з усякою повагою;
+      czech: Ma dobre vest svou rodinu a mit deti poslusne a pocestne;
+      st_text: хорошо управляющий домом своим, детей содержащий в послушании со всякою
+        честностью;
+  - id: 3733
+    number: 5
+    bookId: 72
+    text: ибо, кто не умеет управлять собственным домом, тот будет ли пещись о
+      Церкви Божией?
+    chapter: 3
+    chapterId: 1327
+    parallels: []
+    translates:
+      kassian: (если же кто не знает, как управить собственный дом, как будет он
+        заботиться о Церкви Божией?)
+      podstr: если же кто собственный дом возглавить не знает, как [о] Церкви Бога
+        будет заботиться?
+      csya: аще же кто своего дому не умеет правити, како о Церкви Божией прилежати
+        возможет?
+      averincev: ""
+      ungerov: ""
+      csya_old: ѓще же кто2 своегw2 до1му не ўмёетъ прaвити, кaкw њ цRкви б9іей
+        прилэжaти возмо1жетъ;
+      sovr_rbo: ""
+      latin: Si quis autem domui suae praeesse nescit, quomodo ecclesiae Dei
+        diligentiam habebit?
+      ukr: бо хто власним домом рядити не вміє, як він зможе пильнувати про Божу
+        Церкву?
+      nkjv: (for if a man does not know how to rule his own house, how will he take
+        care of the church of God?);
+      desnitsky: как же будет заботиться о церкви Божьей тот, кто не смог стать главой
+        своей семьи?
+      tex_rec: "- εἰ δέ τις τοῦ ἰδίου οἴκου προστῆναι οὐκ οἶδε, πῶς ἐκκλησίας Θεοῦ
+        ἐπιμελήσεται; -"
+      deutsch: (so aber jemand seinem eigenen Hause nicht weiß vorzustehen, wie wird
+        er die Gemeinde Gottes versorgen?);
+      spanish: pues quien no sabe gobernar su casa, ¿cómo gobernará la Iglesia de Dios?
+      peshitta: ܐܶܢ ܓ݁ܶܝܪ ܒ݁ܰܝܬ݁ܳܐ ܕ݁ܢܰܦ݂ܫܶܗ ܠܳܐ ܝܳܕ݂ܰܥ ܕ݁ܰܢܕ݂ܰܒ݁ܰܪ ܫܰܦ݁ܺܝܪ ܐܰܝܟ݁ܰܢܳܐ
+        ܡܶܫܟ݁ܰܚ ܥܺܕ݈݁ܬ݁ܶܗ ܕ݁ܰܐܠܳܗܳܐ ܕ݁ܰܢܕ݂ܰܒ݁ܰܪ܂
+      bel_syomukha: бо хто ня ўмее кіраваць сваім домам, той ці ж будзе рупіцца пра
+        Царкву Божую?
+      nrt: Ведь если кто-либо не может справиться со своей семьей, то как он сможет
+        заботиться о церкви Божьей?
+      romana: Caci daca nu stie cineva sa-si randuiasca propria lui casa, cum va purta
+        grija de Biserica lui Dumnezeu?
+      francais: car si quelqu'un ne sait pas diriger sa propre maison, comment
+        prendrat-il soin de l'Église de Dieu?
+      italian: perché se uno non sa dirigere la propria famiglia, come potrà aver cura
+        della Chiesa di Dio?
+      old_georgian: ხოლო უკუეთუ ვინმე თჳსისა სახლისა განგებაჲ არა იცის, ვითარ-მე
+        ეკლესიათა ღმრთისათა მოღუაწებაჲ აგოს?
+      portuguese: (pois, se alguém não sabe governar a sua própria casa, como cuidará
+        da igreja de Deus?);
+      polish: "Jeśli ktoś bowiem nie umie stanąć na czele własnego domu, jakżeż będzie
+        się\rtroszczył o Kościół Boży?"
+      new_text: Ведь если кто не может управиться с собственными домочадцами, сумеет
+        ли он позаботиться о Церкви Бога?
+      serbian: А ако неко не умије својим домом управљати, како ће се моћи старати за
+        Цркву Божију?
+      bulgarian: защото, който не умее да управлява собствената си къща, как ще се
+        грижи за църквата Божия?
+      pobedonostsev: А кто не умеет управить своим домом, тот может ли пещись о церкви Божией?
+      ukr2: бо хто не знає рядити власним домом, то як він буде дбати про Церкву Божу?
+        -
+      ukr3: (Коли бо хто своїм домом не вміє правити, то як йому про церкву Божу
+        дбати?)
+      czech: nedovede-li nekdo vest svou rodinu, jak se bude starat o Bozi cirkev?
+      st_text: ибо, кто не умеет управлять собственным домом, тот будет ли пещись о
+        Церкви Божией?
+  - id: 3734
+    number: 6
+    bookId: 72
+    text: Не <i>должен быть</i> из новообращенных, чтобы не возгордился и не подпал
+      осуждению с диаволом.
+    chapter: 3
+    chapterId: 1327
+    parallels: []
+    translates:
+      kassian: не новообращённый, чтобы, возгордившись, не подпал он под суд диавола.
+      podstr: Не новообращённым, чтобы не надутый в осуждение он подпал [от] дьявола.
+      csya: не новокрещенну, да не разгордевся в суд впадет диаволь.
+      averincev: ""
+      ungerov: ""
+      csya_old: не новокреще1нну, да не разгордёвсz въ сyдъ впаде1тъ діaволь.
+      sovr_rbo: ""
+      latin: "Non neophytum: ne in superbiam elatus, in judicium incidat diaboli."
+      ukr: не новонавернений, щоб він не запишався, і не впав у ворожий осуд.
+      nkjv: not a novice, lest being puffed up with pride he fall into the same
+        condemnation as the devil.
+      desnitsky: Пусть он не будет из недавно принявших веру, не то может надуться от
+        спеси и попасть под то же осуждение, что и дьявол.
+      tex_rec: μὴ νεόφυτον, ἵνα μὴ τυφωθεὶς εἰς κρῖμα ἐμπέσῃ τοῦ διαβόλου.
+      deutsch: Nicht ein Neuling, auf daß er sich nicht aufblase und ins Urteil des
+        Lästerers falle.
+      spanish: No neófito, no sea que, hinchado, venga a incurrir en el juicio del
+        diablo.
+      peshitta: ܘܠܳܐ ܢܶܗܘܶܐ ܛܠܶܐ ܬ݁ܽܘܠܡܳܕ݂ܶܗ ܕ݁ܠܳܐ ܢܶܬ݁ܪܺܝܡ ܘܢܶܦ݁ܶܠ ܒ݁ܕ݂ܺܝܢܶܗ ܕ݁ܣܳܛܳܢܳܐ܂
+      bel_syomukha: не павінен быць з нованавернутых, каб не заганарыўся і не падупаў
+        асудзе разам з д'яблам.
+      nrt: "Руководителя не следует выбирать из новообращенных: такой человек может
+        возгордиться, и тогда он будет осужден так же, как был осужден и
+        дьявол."
+      romana: Episcopul sa nu fie de curand botezat, ca nu cumva, trufindu-se, sa cada
+        in osanda diavolului.
+      francais: Il ne faut pas qu'il soit un nouveau converti, de peur qu'enflé
+        d'orgueil il ne tombe sous le jugement du diable.
+      italian: Inoltre non sia un neofita, perché non gli accada di montare in
+        superbia e di cadere nella stessa condanna del diavolo.
+      old_georgian: ნუ ახალნერგ, რაჲთა არა განლაღნეს და საშჯელსა შევარდეს ეშმაკისასა.
+      portuguese: não neófito, para que não se ensoberbeça e venha a cair na
+        condenação do Diabo.
+      polish: "Nie [może być] świeżo ochrzczony, ażeby wbiwszy się w pychę nie wpadł
+        w\rdiabelskie potępienie."
+      new_text: Он не должен быть из новообращенных, не то раздуется от важности и
+        навлечет на себя ту же кару, что и дьявол.
+      serbian: Не новокрштен, да се не би погордио и упао у осуду ђавољу.
+      bulgarian: Да не е новопокръстен, за да се не възгордее и падне в еднакво
+        осъждане с дявола.
+      pobedonostsev: Не должен быть из новообращенных, чтоб не возгордился и не подпал
+        осуждению с диаволом.
+      ukr2: не новонавернений, щоб, розгордівши, не потрапив під дияволів осуд.
+      ukr3: не новохрищеним, щоб розгордившись не впав у суд дияволський.
+      czech: Nema byt nove pokrteny, aby nezpysnel a nepropadl odsouzeni dablovu.
+      st_text: Не <i>должен быть</i> из новообращенных, чтобы не возгордился и не
+        подпал осуждению с диаволом.
+  - id: 3735
+    number: 7
+    bookId: 72
+    text: Надлежит ему также иметь доброе свидетельство от внешних, чтобы не впасть
+      в нарекание и сеть диавольскую.
+    chapter: 3
+    chapterId: 1327
+    parallels: []
+    translates:
+      kassian: Но нужно ему иметь и доброе свидетельство от внешних, чтобы не впасть в
+        нарекание и сеть диавола.
+      podstr: Надлежит же и свидетельство хорошее иметь от [которых] извне, чтобы не в
+        поношение он подпал и западню дьявола.
+      csya: Подобает же ему и свидетельство добро имети от внешних, да не в поношение
+        впадет и в сеть неприязнену.
+      averincev: ""
+      ungerov: ""
+      csya_old: Подобaетъ же є3мY и3 свидётельство добро2 и3мёти t внёшнихъ, да не въ
+        поноше1ніе впаде1тъ и3 въ сёть непріsзнену.
+      sovr_rbo: ""
+      latin: Oportet autem illum et testimonium habere bonum ab iis qui foris sunt, ut
+        non in opprobrium incidat, et in laqueum diaboli.
+      ukr: Треба, щоб мав він і добре засвідчення від чужинців, щоб не впасти в догану
+        та в сітку диявольську.
+      nkjv: Moreover he must have a good testimony among those who are outside, lest
+        he fall into reproach and the snare of the devil.
+      desnitsky: И среди людей, не принадлежащих к церкви, он должен быть известен с
+        хорошей стороны, не то станет легкой мишенью для их ругани и
+        клеветнических измышлений.
+      tex_rec: δεῖ δὲ αὐτὸν καὶ μαρτυρίαν καλὴν ἔχειν ἀπὸ τῶν ἔξωθεν, ἵνα μὴ εἰς
+        ὀνειδισμὸν ἐμπέσῃ καὶ παγίδα τοῦ διαβόλου.
+      deutsch: Er muß aber auch ein gutes Zeugnis haben von denen, die draußen sind,
+        auf daß er nicht falle dem Lästerer in Schmach und Strick.
+      spanish: Conviene asimismo que tenga buena fama ante los de fuera, por que no
+        caiga en infamia y en las redes del diablo.
+      peshitta: ܘܳܠܶܐ ܕ݁ܶܝܢ ܕ݁ܳܐܦ݂ ܣܳܗܕ݁ܽܘܬ݂ܳܐ ܫܰܦ݁ܺܝܪܬ݁ܳܐ ܐܺܝܬ݂ ܠܶܗ ܡܶܢ ܒ݁ܰܪܳܝܶܐ
+        ܕ݁ܠܳܐ ܢܶܦ݁ܶܠ ܒ݁ܚܶܣܕ݁ܳܐ ܘܰܒ݂ܦ݂ܰܚܶܐ ܕ݁ܣܳܛܳܢܳܐ܂
+      bel_syomukha: Трэба яму таксама мець добрае сьведчаньне ад чужых, каб унікнуць
+        нараканьняў і цянётаў д'ябальскіх.
+      nrt: О нем должны хорошо отзываться неверующие, чтобы ему не вызвать упреков и
+        не попасть в ловушку дьявола.
+      romana: Dar el trebuie sa aiba si marturie buna de la cei din afara, ca sa nu
+        cada in ocara si in cursa diavolului.
+      francais: Il faut aussi qu'il reçoive un bon témoignage de ceux du dehors, afin
+        de ne pas tomber dans l'opprobre et dans les pièges du diable.
+      italian: È necessario che egli goda buona reputazione presso quelli di fuori,
+        per non cadere in discredito e in qualche laccio del diavolo.
+      old_georgian: არამედ ჯერ-არს მისა, რაჲთა წამებაჲცა კეთილი აქუნდეს გარეშეთგან,
+        რაჲთა არა ყუედრებასა შევარდეს და საფრჴესა ეშმაკისასა.
+      portuguese: "Também é necessário que tenha bom testemunho dos que estão de fora,
+        para que não caia em opróbrio, e no laço\rdo Diabo."
+      polish: "Powinien też mieć dobre świadectwo ze strony tych, którzy są z
+        zewnątrz,\rżeby się nie naraził na wzgardę i sidła diabelskie."
+      new_text: Нужно, чтобы и вне церкви у него была добрая слава, не то пойдут
+        пересуды и он угодит дьяволу в сети.
+      serbian: А треба да има и добро свједочанство од оних који су напољу, да не би
+        упао у срамоту и замку ђавољу.
+      bulgarian: Трябва още той да има и добро свидетелство от външните, за да не бъде
+        укоряван и да не падне в примката на дявола.
+      pobedonostsev: Надлежит ему иметь и доброе свидетельство от внешних, чтобы не
+        впасть в нарекание и в сеть диавольскую.
+      ukr2: Треба також, щоб він мав гарне свідчення і від тих, що зовні, щоб не
+        опинився у ганьбі та у диявольських тенетах.
+      ukr3: Треба ж йому і сьвідкуваннє добре мати від остороннїх, щоб не впав у
+        ганьбу та в тенета дияволські.
+      czech: Musi mit take dobrou povest u tech, kdo jsou mimo cirkev, aby neupadl do
+        pomluv a dablovych nastrah.
+      st_text: Надлежит ему также иметь доброе свидетельство от внешних, чтобы не
+        впасть в нарекание и сеть диавольскую.
+  - id: 3736
+    number: 8
+    bookId: 72
+    text: Диаконы также <i>должны быть</i> честны, не двоязычны, не пристрастны к
+      вину, не корыстолюбивы,
+    chapter: 3
+    chapterId: 1327
+    parallels: []
+    translates:
+      kassian: Нужно, чтобы диаконы были также с достоинством, не двоязычны, не
+        пристрастны к вину, не искали постыдной наживы,
+      podstr: Служители так же [чтобы были] почтенны, не двуречивы, не вина многого
+        держащиеся, не постыдно корыстны,
+      csya: Диаконом такожде чистым, не двоязычным, не вину многу внимающым, не
+        скверностяжательным,
+      averincev: ""
+      ungerov: ""
+      csya_old: Діaконwмъ тaкожде чи6стымъ чє1стнымъ, не двоzзы6чнымъ, не вінY мно1гу
+        внимaющымъ, не скверностzжaтєльнымъ,
+      sovr_rbo: ""
+      latin: "Diaconos similiter pudicos, non bilingues, non multo vino deditos, non
+        turpe lucrum sectantes:"
+      ukr: Так само диякони мають бути поважні, не двомовці, не багато віддані вину,
+        не соромнозахланні,
+      nkjv: Likewise deacons must be reverent, not double-tongued, not given to much
+        wine, not greedy for money,
+      desnitsky: "То же и с дьяконами: это должны быть люди почтенные, не двуличные,
+        которые не злоупотребляют вином и не ищут наживы,"
+      tex_rec: Διακόνους ὡσαύτως σεμνούς, μὴ διλόγους, μὴ οἴνῳ πολλῷ προσέχοντας, μὴ
+        αἰσχροκερδεῖς,
+      deutsch: Desgleichen die Diener sollen ehrbar sein, nicht zweizüngig, nicht
+        Weinsäufer, nicht unehrliche Hantierungen treiben;
+      spanish: Conviene que los diáconos sean asimismo honorables, exentos de doblez,
+        no dados al vino ni a torpes ganancias;
+      peshitta: ܘܳܐܦ݂ ܡܫܰܡܫܳܢܶܐ ܗܳܟ݂ܰܢܳܐ ܢܶܗܘܽܘܢ ܕ݁ܟ݂ܶܝܢ ܘܠܳܐ ܢܡܰܠܠܽܘܢ ܬ݁ܰܪܬ݁ܶܝܢ ܘܠܳܐ
+        ܢܶܗܘܽܘܢ ܨܠܶܝܢ ܠܚܰܡܪܳܐ ܣܰܓ݁ܺܝܳܐܐ ܘܠܳܐ ܢܶܪܚܡܽܘܢ ܝܽܘܬ݂ܪܳܢܶܐ ܛܰܢܦ݁ܶܐ܂
+      bel_syomukha: Дыяканы таксама павінны быць сумленныя, ня двухязыкія,
+        непацяглівыя да віна, не карысьлівыя,
+      nrt: То же самое касается и диаконов. Они должны быть уважаемыми людьми,
+        искренними, не пристрастными к вину и бескорыстными.
+      romana: Diaconii, de asemenea, trebuie sa fie cucernici, nu vorbind in doua
+        feluri, nu dedati la vin mult, neagonisitori de castig urat,
+      francais: Les diacres aussi doivent être honnêtes, éloignés de la duplicité, des
+        excès du vin, d'un gain sordide,
+      italian: Allo stesso modo i diaconi siano dignitosi, non doppi nel parlare, non
+        dediti al molto vino né avidi di guadagno disonesto,
+      old_georgian: დიაკონნი ეგრეთვე წმიდა, ნუ ორისმეტყუელ, ნუ ღჳნოსა ფრიადსა მორჩილ,
+        ნუ საძაგელის შემძინელ,
+      portuguese: "Da mesma forma os diáconos sejam sérios, não de língua dobre, não
+        dados a muito vinho, não cobiçosos de\r
+
+        torpe ganância,"
+      polish: Diakonami tak samo winni być ludzie godni, w mowie nieobłudni,
+        nienadużywający wina, niechciwi brudnego zysku,
+      new_text: Его помощники тоже должны быть люди достойные, не двуличные, не
+        слишком пристрастные к вину, не падкие до наживы;
+      serbian: Тако и ђакони треба да буду честити, не дволични, не који много вина
+        пију, не лакоми,
+      bulgarian: Дяконите също трябва да бъдат почтени, недвуезични, да не са
+        пристрастени към вино, нито алчни за гнусна печалба,
+      pobedonostsev: Диаконы должны быть также честные, не двоязычные люди, не
+        пристрастны к вину, не корыстолюбивы;
+      ukr2: Диякони - так само треба, щоб були поважні, не двоязичні, вина багато щоб
+        не вживали, не були віддані брудному зискові;
+      ukr3: Дияконам так само (треба бути) чесним, не двоязичним, щоб не вживали
+        багато вина, не здирствовали,
+      czech: Rovnez jahnove maji byt cestni, ne dvojaci v reci, ne oddani vinu, ne
+        ziskuchtivi.
+      st_text: Диаконы также <i>должны быть</i> честны, не двоязычны, не пристрастны к
+        вину, не корыстолюбивы,
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 3737
+    number: 9
+    bookId: 72
+    text: хранящие таинство веры в чистой совести.
+    chapter: 3
+    chapterId: 1327
+    parallels:
+      - verseId: 3712
+        bookId: 72
+        bookCode: 1oe-poslanie-k-timofeu-ap-pavla
+        chapter: 1
+        short: 1 Тим:1:19
+    translates:
+      kassian: чтобы они содержали тайну веры в чистой совести.
+      podstr: имеющие тайну веры в чистой совести.
+      csya: имущым таинство веры в чистей совести.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3мyщымъ тaинство вёры въ чи1стэй со1вэсти.
+      sovr_rbo: ""
+      latin: habentes mysterium fidei in conscientia pura.
+      ukr: такі, що мають таємницю віри при чистім сумлінні.
+      nkjv: holding the mystery of the faith with a pure conscience.
+      desnitsky: но хранят таинство веры с чистой совестью.
+      tex_rec: ἔχοντας τὸ μυστήριον τῆς πίστεως ἐν καθαρᾷ συνειδήσει.
+      deutsch: die das Geheimnis des Glaubens in reinem Gewissen haben.
+      spanish: que guarden el misterio de la fe en una conciencia pura.
+      peshitta: ܐܶܠܳܐ ܢܶܐܚܕ݂ܽܘܢ ܐ݈ܪܳܙܳܐ ܕ݁ܗܰܝܡܳܢܽܘܬ݂ܳܐ ܒ݁ܬ݂ܺܐܪܬ݁ܳܐ ܕ݁ܟ݂ܺܝܬ݂ܳܐ܂
+      bel_syomukha: павінны захоўваць таемнасьць веры ў чыстым сумленьні,
+      nrt: Они должны с чистой совестью придерживаться открытых ныне тайн веры.
+      romana: Pastrand taina credintei in cuget curat.
+      francais: conservant le mystère de la foi dans une conscience pure.
+      italian: e conservino il mistero della fede in una coscienza pura.
+      old_georgian: აქუსმცა საიდუმლოჲ იგი სარწმუნოებისაჲ წმიდითა გონებითა.
+      portuguese: guardando o mistério da fé numa consciência pura.
+      polish: "[lecz] utrzymujący tajemnicę wiary w czystym sumieniu."
+      new_text: они должны иметь чистую совесть и быть привержены к сокровенным
+        истинам веры.
+      serbian: Који имају тајну вјере у чистој савјести.
+      bulgarian: да пазят тайнството на вярата с чиста съвест.
+      pobedonostsev: люди хранящие таинство веры в чистой совести.
+      ukr2: щоб тайну віри берегли в чистім сумлінні.
+      ukr3: мали тайну віри в чистій совістї.
+      czech: Maji uchovavat tajemstvi viry v cistem svedomi.
+      st_text: хранящие таинство веры в чистой совести.
+  - id: 3738
+    number: 10
+    bookId: 72
+    text: И таких надобно прежде испытывать, потом, если беспорочны,
+      <i>допускать</i> до служения.
+    chapter: 3
+    chapterId: 1327
+    parallels: []
+    translates:
+      kassian: Но и они пусть подвергаются предварительному испытанию, потом пусть
+        служат, если они безупречны.
+      podstr: И эти же пусть будут испытываемы сначала, затем пусть служат безупречные
+        сущие.
+      csya: И сии убо да искушаются прежде, потом же да служат, непорочни суще.
+      averincev: ""
+      ungerov: ""
+      csya_old: И# сjи ќбw да и3скушaютсz пре1жде, пото1мъ же да слyжатъ, непоро1чни
+        сyще.
+      sovr_rbo: ""
+      latin: "Et hi autem probentur primum: et sic ministrent, nullum crimen
+        habentes."
+      ukr: Отже, і вони нехай перш випробовуються, а потому хай служать, якщо будуть
+        бездоганні.
+      nkjv: But let these also first be tested; then let them serve as deacons, being
+        found blameless.
+      desnitsky: Сначала их следует подвергнуть испытанию, и если полностью его
+        выдержат, пусть служат дьяконами.
+      tex_rec: καὶ οὗτοι δὲ δοκιμαζέσθωσαν πρῶτον, εἶτα διακονείτωσαν ἀνέγκλητοι ὄντες.
+      deutsch: Und diese lasse man zuvor versuchen; darnach lasse man sie dienen, wenn
+        sie unsträflich sind.
+      spanish: Sean probados primero y luego ejerzan su ministerio si fueren
+        irreprensibles.
+      peshitta: ܘܗܶܢܽܘܢ ܗܳܠܶܝܢ ܢܶܬ݂ܒ݁ܩܽܘܢ ܠܽܘܩܕ݂ܰܡ ܘܗܳܝܕ݁ܶܝܢ ܢܫܰܡܫܽܘܢ ܟ݁ܰܕ݂
+        ܐܺܝܬ݂ܰܝܗܽܘܢ ܕ݁ܠܳܐ ܪܶܫܝܳܢ܂
+      bel_syomukha: і такіх трэба загадзя выпрабоўваць, потым, калі беззаганныя,
+        дапускаць да служэньня.
+      nrt: Вначале этих людей следует проверить, и, если против них не будет найдено
+        ничего порочащего, они могут выполнять служение диаконов.
+      romana: Dar si acestia sa fie mai intai pusi la incercare, apoi, daca se
+        dovedesc fara prihana, sa fie diaconiti.
+      francais: Qu'on les éprouve d'abord, et qu'ils exercent ensuite leur ministère,
+        s'ils sont sans reproche.
+      italian: Perciò siano prima sottoposti a una prova e poi, se trovati
+        irreprensibili, siano ammessi al loro servizio.
+      old_georgian: და ესენი გამო-ღა-იცადნენ პირველად, და მაშინღა დიაკონებდედ,
+        უბრალომცა არიან.
+      portuguese: E também estes sejam primeiro provados, depois exercitem o
+        diaconato, se forem irrepreensíveis.
+      polish: "I oni niech będą najpierw poddawani próbie, i dopiero wtedy niech
+        spełniają\rposługę, jeśli są bez zarzutu."
+      new_text: Их тоже надо предварительно испытать, и, если ничего за ними не
+        обнаружится, пусть служат.
+      serbian: А и ови да се прво провјере, па онда да служе, пошто су без мане.
+      bulgarian: И те трябва първом да бъдат изпитвани, та после, ако са безпорочни,
+        да стават дякони.
+      pobedonostsev: И надлежит их прежде испытывать, потом, если безпорочны,
+        допускать к служению.
+      ukr2: Але й таких спочатку слід поставити на пробу, а потім нехай служать, якщо
+        будуть бездоганні.
+      ukr3: І про таких же (треба) перше впевнитись, а потім нехай служять, бувши
+        непорочними.
+      czech: At jsou nejdrive vyzkouseni, a teprve potom, kdyz jim nelze nic vytknout,
+        at konaji svou sluzbu.
+      st_text: И таких надобно прежде испытывать, потом, если беспорочны,
+        <i>допускать</i> до служения.
+  - id: 3739
+    number: 11
+    bookId: 72
+    text: Равно и жены <i>их должны быть</i> честны, не клеветницы, трезвы, верны во
+      всем.
+    chapter: 3
+    chapterId: 1327
+    parallels: []
+    translates:
+      kassian: Нужно также, чтобы жены были с достоинством, не клеветницы, трезвы,
+        верны во всём.
+      podstr: Жёны так же [чтобы были] почтенны, не клеветницы, трезвы, верны во всём.
+      csya: Женам такожде чистым, не клеветивым, (не навадницам,) трезвенным, верным
+        во всем.
+      averincev: ""
+      ungerov: ""
+      csya_old: Женaмъ тaкожде чи6стымъ чє1стнымъ, не клевети6вымъ, (не навaдницамъ,)
+        тре1звєннымъ, вBрнымъ во все1мъ.
+      sovr_rbo: ""
+      latin: Mulieres similiter pudicas, non detrahentes, sobrias, fideles in omnibus.
+      ukr: Так само жінки нехай будуть поважні, не обмовливі, тверезі та вірні в
+        усьому.
+      nkjv: Likewise their wives must be reverent, not slanderers, temperate, faithful
+        in all things.
+      desnitsky: "Такими пусть будут и дьякониссы: почтенные, не сплетницы, мыслящие
+        трезво и верные во всех отношениях."
+      tex_rec: γυναῖκας ὡσαύτως σεμνάς, μὴ διαβόλους, νηφαλίους, πιστὰς ἐν πᾶσι.
+      deutsch: Desgleichen ihre Weiber sollen ehrbar sein, nicht Lästerinnen,
+        nüchtern, treu in allen Dingen.
+      spanish: También las mujeres deben ser honorables, no chismosas, sobrias y en
+        todo fieles.
+      peshitta: ܗܳܟ݂ܰܢܳܐ ܐܳܦ݂ ܢܶܫܶܐ ܢܶܗܘܝܳܢ ܢܰܟ݂ܦ݁ܳܢ ܘܢܶܗܘܶܐ ܥܺܝܪ ܪܶܥܝܳܢܗܶܝܢ ܘܢܶܗܘܝܳܢ
+        ܡܗܰܝܡܢܳܢ ܒ݁ܟ݂ܽܠ ܡܶܕ݁ܶܡ ܘܠܳܐ ܢܶܗܘܝܳܢ ܐܳܟ݂ܠܳܢ ܩܰܪܨܶܐ܂
+      bel_syomukha: Гэтак сама і жонкі іхнія павінны быць сумленныя, не паклёпніцы,
+        цьвярозыя, верныя ва ўсім.
+      nrt: Их жены тоже должны быть достойными уважения, не заниматься сплетнями, быть
+        воздержанными и пользоваться во всем доверием.
+      romana: Femeile (lor) de asemenea sa fie cuviincioase, neclevetitoare,
+        cumpatate, credincioase intru toate.
+      francais: Les femmes, de même, doivent être honnêtes, non médisantes, sobres,
+        fidèles en toutes choses.
+      italian: Allo stesso modo le donne siano dignitose, non pettegole, sobrie,
+        fedeli in tutto.
+      old_georgian: ცოლნი მათნი ეგრეთვე ღირსმცა არიან, ნუ მასმენელ, ფრთხილ, მორწმუნე
+        ყოველსა შინა.
+      portuguese: Da mesma sorte as mulheres sejam sérias, não maldizentes,
+        temperantes, e fiéis em tudo.
+      polish: "Kobiety również - czyste, nieskłonne do oczerniania, trzeźwe, wierne
+        we\rwszystkim."
+      new_text: Женщины тоже должны быть достойные, не сплетницы, не пьяницы, во всем
+        заслуживать доверия.
+      serbian: Тако и жене треба да су скромне, да не клеветају, трезвене, вјерне у
+        свему.
+      bulgarian: Също и жените им трябва да бъдат почтени, не клеветници, трезвени и
+        верни във всичко.
+      pobedonostsev: Также и жены их должны быть честны, не клеветницы, трезвенны,
+        верны во всем.
+      ukr2: Жінки також нехай поважні будуть, не обмовливі, тверезі, вірні в усьому.
+      ukr3: Жінкам (їх) так само (треба бути) чесним, не до осуди, тверезим, вірним у
+        всьому.
+      czech: Prave tak zeny v teto sluzbe maji byt cestne, ne pomlouvacne, stridme, ve
+        vsem verne.
+      st_text: Равно и жены <i>их должны быть</i> честны, не клеветницы, трезвы, верны
+        во всем.
+  - id: 3740
+    number: 12
+    bookId: 72
+    text: Диакон должен быть муж одной жены, хорошо управляющий детьми и домом своим.
+    chapter: 3
+    chapterId: 1327
+    parallels: []
+    translates:
+      kassian: Диаконы пусть будут мужьями одной жены, хорошо управляющими детьми и
+        собственными домами.
+      podstr: Служители пусть будут одной жены мужи, детей хорошо возглавляющие и
+        собственные дома;
+      csya: "Диакони да бывают единыя жены мужие, чада добре правяще и своя домы:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Діaкони да бывaютъ є3ди1ныz жены2 мyжіе, ч†да до1брэ прaвzще и3 сво‰
+        до1мы:"
+      sovr_rbo: ""
+      latin: Diaconi sint unius uxoris viri, qui filiis suis bene praesint, et suis
+        domibus.
+      ukr: Диякони мусять бути мужі однієї дружини, що добре рядять дітьми й своїми
+        домами.
+      nkjv: Let deacons be the husbands of one wife, ruling their children and their
+        own houses well.
+      desnitsky: Каждый дьякон должен быть мужем одной жены и хорошо справляться с
+        собственными детьми и домом.
+      tex_rec: διάκονοι ἔστωσαν μιᾶς γυναικὸς ἄνδρες, τέκνων καλῶς προῑστάμενοι καὶ
+        τῶν ἰδίων οἴκων.
+      deutsch: Die Diener laß einen jeglichen sein eines Weibes Mann, die ihren
+        Kindern wohl vorstehen und ihren eigenen Häusern.
+      spanish: Los diáconos sean maridos de una sola mujer, que sepan gobernar a sus
+        hijos y a su propia casa.
+      peshitta: ܡܫܰܡܫܳܢܶܐ ܢܶܗܘܽܘܢ ܐܰܝܢܳܐ ܕ݁ܰܚܕ݂ܳܐ ܐܰܢ݈ܬ݁ܬ݂ܳܐ ܗܘܳܬ݂ ܠܶܗ ܘܕ݂ܰܒ݁ܰܪ
+        ܒ݁ܢܰܘܗ݈ܝ ܘܒ݂ܰܝܬ݁ܶܗ ܫܰܦ݁ܺܝܪ܂
+      bel_syomukha: Дыякан павінен быць адной жонкі мужам, добра кіраваць дзецьмі і
+        домам сваім;
+      nrt: Диакон должен быть мужем одной жены, хорошо управлять своими детьми и
+        домочадцами.
+      romana: Diaconii sa fie barbati ai unei singure femei, sa-si chiverniseasca bine
+        casele si pe copiii lor.
+      francais: Les diacres doivent être maris d'une seule femme, et diriger bien
+        leurs enfants et leurs propres maisons;
+      italian: I diaconi non siano sposati che una sola volta, sappiano dirigere bene
+        i propri figli e le proprie famiglie.
+      old_georgian: დიაკონნიმცა არიან ერთის ცოლის ქმარ, შვილთა კეთილად ზედამდგომელ და
+        თჳსისა სახლისა.
+      portuguese: Os diáconos sejam maridos de uma só mulher, e governem bem a seus
+        filhos e suas próprias casas.
+      polish: "Diakoni niech będą mężami jednej żony, rządzący dobrze dziećmi i
+        własnymi\rdomami."
+      new_text: И служители должны быть женаты не больше одного раза и уметь
+        управляться с детьми и домочадцами.
+      serbian: Ђакони да буду мужеви једне жене, који добро управљају дјецом и својим
+        домовима.
+      bulgarian: Всеки от дяконите трябва да бъде мъж на една жена, добре да управлява
+        децата си и къщата си.
+      pobedonostsev: Диакон должен быть муж единой жены, хорошо править детьми и домом своим.
+      ukr2: Диякони нехай будуть кожен лиш однієї жінки чоловіком, добре правлять
+        дітьми і власним домом,
+      ukr3: Диякони щоб бували однієї жінки чоловіками, дїтьми добре правлячи і своїми
+        домами.
+      czech: Jahni at jsou jen jednou zenati, at dobre vedou sve deti a celou rodinu.
+      st_text: Диакон должен быть муж одной жены, хорошо управляющий детьми и домом
+        своим.
+  - id: 3741
+    number: 13
+    bookId: 72
+    text: Ибо хорошо служившие приготовляют себе высшую степень и великое
+      дерзновение в вере во Христа Иисуса.
+    chapter: 3
+    chapterId: 1327
+    parallels: []
+    translates:
+      kassian: Ибо хорошо послужившие достигают доброго положения и великого
+        дерзновения в вере во Христе Иисусе.
+      podstr: ведь хорошо послужившие ступень сами себе хорошую приобретают и многое
+        право в вере в Христа Иисуса.
+      csya: ибо служившии добре степень себе добр снискают и многое дерзновение в
+        вере, яже о Христе Иисусе.
+      averincev: ""
+      ungerov: ""
+      csya_old: и4бо служи1вшіи до1брэ степе1нь себЁ до1бръ снискaютъ и3 мно1гое
+        дерзнове1ніе въ вёрэ, ћже њ хrтЁ ї}сэ.
+      sovr_rbo: ""
+      latin: Qui enim bene ministraverint, gradum bonum sibi acquirent, et multam
+        fiduciam in fide, quae est in Christo Jesu.
+      ukr: Бо хто добре виконує службу, той добрий ступінь набуває собі та велику
+        відвагу в вірі через Христа Ісуса.
+      nkjv: For those who have served well as deacons obtain for themselves a good
+        standing and great boldness in the faith which is in Christ Jesus.
+      desnitsky: За свое доброе служение они получат высокое положение, а вера во
+        Христа Иисуса придаст им великую смелость.
+      tex_rec: οἱ γὰρ καλῶς διακονήσαντες βαθμὸν ἑαυτοῖς καλὸν περιποιοῦνται καὶ
+        πολλὴν παρρησίαν ἐν πίστει τῇ ἐν Χριστῷ ᾿Ιησοῦ.
+      deutsch: Welche aber wohl dienen, die erwerben sich selbst eine gute Stufe und
+        eine große Freudigkeit im Glauben an Christum Jesum.
+      spanish: Pues los que desempeñaren bien su ministerio alcanzarán honra y gran
+        autoridad en la fe que tenemos en Cristo Jesús.
+      peshitta: ܐܰܝܠܶܝܢ ܓ݁ܶܝܪ ܕ݁ܫܰܡܶܫܘ ܫܰܦ݁ܺܝܪ ܕ݁ܰܪܓ݂ܳܐ ܛܳܒ݂ܳܐ ܩܳܢܶܝܢ ܠܢܰܦ݂ܫܗܽܘܢ
+        ܘܡܰܓ݂ܠܶܐ ܐܰܦ݁ܶܐ ܣܰܓ݁ܺܝܳܐܐ ܒ݁ܗܰܝܡܳܢܽܘܬ݂ܳܐ ܕ݁ܝܶܫܽܘܥ ܡܫܺܝܚܳܐ܂
+      bel_syomukha: бо тыя, што служылі добра, рыхтуюць сабе найвышэйшую ступень і
+        вялікую адвагу ў веры ў Хрыста Ісуса.
+      nrt: Потому что те, кто хорошо выполняет свое служение, приобретают себе
+        достойное положение и могут с большой уверенностью говорить о своей вере
+        в Иисуса Христа.
+      romana: Caci cei ce slujesc bine, rang bun dobandesc si mult curaj in credinta
+        cea intru Hristos Iisus.
+      francais: car ceux qui remplissent convenablement leur ministère s'acquièrent un
+        rang honorable, et une grande assurance dans la foi en Jésus Christ.
+      italian: Coloro infatti che avranno ben servito, si acquisteranno un grado
+        onorifico e una grande sicurezza nella fede in Cristo Gesù.
+      old_georgian: რამეთუ რომელნი კეთილად დიაკონობდენ, პატივი თავთა თჳსთა კეთილი
+        მოუგონ და მრავალი განცხადებულებაჲ სარწმუნოებითა ქრისტე იესუჲსითა.
+      portuguese: "Porque os que servirem bem como diáconos, adquirirão para si um
+        lugar honroso e muita confiança na fé que\rhá em Cristo Jesus."
+      polish: Ci bowiem, skoro dobrze spełnili czynności diakońskie, zdobywają sobie
+        zaszczytny stopień i ufną śmiałość w wierze, która jest w Chrystusie
+        Jezusie.
+      new_text: Ведь те, которые хорошо служили, достигают достойного положения и
+        высокого дерзания веры в Христа Иисуса.
+      serbian: Јер који су добро служили, стичу себи добар степен и велику смјелост у
+        вјери у Христу Исусу.
+      bulgarian: Защото, които са служили добре, придобиват добър чин и голямо
+        дръзновение във вярата, що имат в Христа Иисуса.
+      pobedonostsev: А добре служившие заслужат себе высшую степень и снищут великое
+        дерзновение в вере, о Христе Иисусе.
+      ukr2: бо ті, що виконують гаразд свої обов'язки, здобувають собі почесний
+        ступінь і велику сміливість у вірі в Христа Ісуса.
+      ukr3: Бо хто добре дияконував, степень собі добрий здобуває і велику одвагу у
+        вірі, що в Христї Ісусї.
+      czech: Konaji-li dobre svou sluzbu, ziskavaji si dustojne postaveni a velkou
+        jistotu ve vire v Krista Jezise.
+      st_text: Ибо хорошо служившие приготовляют себе высшую степень и великое
+        дерзновение в вере во Христа Иисуса.
+  - id: 3742
+    number: 14
+    bookId: 72
+    text: Сие пишу тебе, надеясь вскоре придти к тебе,
+    chapter: 3
+    chapterId: 1327
+    parallels: []
+    translates:
+      kassian: Это я тебе пишу, надеясь придти к тебе вскоре.
+      podstr: Это тебе пишу, надеющийся прийти к тебя в скоре;
+      csya: "Сия пишу тебе, уповая приити к тебе скоро:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Сі‰ пишY тебЁ, ўповaz пріити2 къ тебЁ ско1рw:"
+      sovr_rbo: ""
+      latin: "Haec tibi scribo, sperans me ad te venire cito:"
+      ukr: Це пишу я тобі, і сподіваюсь до тебе прийти незабаром.
+      nkjv: These things I write to you, though I hope to come to you shortly;
+      desnitsky: Всё это я пишу в надежде вскоре прийти к тебе,
+      tex_rec: Ταῦτά σοι γράφω ἐλπίζων ἐλθεῖν πρός σε τάχιον·
+      deutsch: Solches schreibe ich dir und hoffe, bald zu dir zu kommen;
+      spanish: Esto te escribo con la esperanza de ir a verte pronto,
+      peshitta: ܗܳܠܶܝܢ ܟ݁ܳܬ݂ܶܒ݂ ܐ݈ܢܳܐ ܠܳܟ݂ ܟ݁ܰܕ݂ ܡܣܰܒ݁ܰܪ ܐ݈ܢܳܐ ܕ݁ܒ݂ܰܥܓ݂ܰܠ ܐܳܬ݂ܶܐ ܐ݈ܢܳܐ
+        ܠܘܳܬ݂ܳܟ݂܂
+      bel_syomukha: Гэта табе пішу, спадзяючыся неўзабаве прыйсьці да цябе,
+      nrt: Я надеюсь скоро прийти к тебе, но пишу тебе это для того,
+      romana: Iti scriu aceasta nadajduind ca voi veni la tine fara intarziere;
+      francais: Je t'écris ces choses, avec l'espérance d'aller bientôt vers toi,
+      italian: Ti scrivo tutto questo, nella speranza di venire presto da te;
+      old_georgian: ამას მივსწერ შენდა და ვესავ ადრე მოსლვასა ჩემსა;
+      portuguese: Escrevo-te estas coisas, embora esperando ir ver-te em breve,
+      polish: Piszę ci to wszystko spodziewając się przybyć do ciebie możliwie szybko.
+      new_text: Хотя я и надеюсь скоро прийти к тебе, я пишу на тот случай,
+      serbian: Ово ти пишем надајући се да ћу ускоро доћи к теби;
+      bulgarian: Надявам се скоро да дойда при тебе; а това ти пиша за
+      pobedonostsev: Пишу тебе о сем, надеясь придти к тебе вскоре.
+      ukr2: Пишу тобі це, надіючися, що незабаром прийду до тебе.
+      ukr3: Се пишу тобі, уповаючи прийти до тебе скоро;
+      czech: Doufam, ze k tobe brzo prijdu. Ale pisi ti to
+      st_text: Сие пишу тебе, надеясь вскоре придти к тебе,
+  - id: 3743
+    number: 15
+    bookId: 72
+    text: чтобы, если замедлю, ты знал, как должно поступать в доме Божием, который
+      есть Церковь Бога живаго, столп и утверждение истины.
+    chapter: 3
+    chapterId: 1327
+    parallels:
+      - verseId: 2918
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 17
+        short: 1 Пар:17:14
+      - verseId: 30241
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 9
+        short: Притч:9:1
+      - verseId: 14730
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 3
+        short: Евр:3:6
+      - verseId: 14594
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 10
+        short: Евр:10:21
+    translates:
+      kassian: Если же замедлю, нужно тебе знать, как поступать в доме Божием, который
+        есть Церковь Бога Живого, столп и утверждение истины.
+      podstr: если же буду медлить, чтобы ты знал как надлежит в доме Бога вести себя,
+        та, которая есть Церковь Бога живущего, столп и опора истины.
+      csya: аще же замедлю, да увеси, како подобает в дому Божии жити, яже есть
+        Церковь Бога жива, столп и утверждение истины.
+      averincev: ""
+      ungerov: ""
+      csya_old: ѓще же заме1длю, да ўвёси, кaкw подобaетъ въ домY б9іи жи1ти, ћже
+        є4сть цRковь бг7а жи1ва, сто1лпъ и3 ўтвержде1ніе и4стины.
+      sovr_rbo: ""
+      latin: si autem tardavero, ut scias quomodo oporteat te in domo Dei conversari,
+        quae est ecclesia Dei vivi, columna et firmamentum veritatis.
+      ukr: А коли я спізнюся, то щоб знав ти, як треба поводитися в Божому домі, що
+        ним є Церква Бога Живого, стовп і підвалина правди.
+      nkjv: but if I am delayed, I write so that you may know how you ought to conduct
+        yourself in the house of God, which is the church of the living God, the
+        pillar and ground of the truth.
+      desnitsky: но если и задержусь, ты будешь знать, как следует поступать в доме
+        Божьем – то есть в церкви Бога Живого. Она – оплот и основание истины.
+      tex_rec: ἐὰν δὲ βραδύνω, ἵνα εἰδῇς πῶς δεῖ ἐν οἴκῳ Θεοῦ ἀναστρέφεσθαι, ἥτις
+        ἐστὶν ἐκκλησία Θεοῦ ζῶντος, στῦλος καὶ ἑδραίωμα τῆς ἀληθείας.
+      deutsch: so ich aber verzöge, daß du wissest, wie du wandeln sollst in dem Hause
+        Gottes, welches ist die Gemeinde des lebendigen Gottes, ein Pfeiler und
+        eine Grundfeste der Wahrheit.
+      spanish: para que, si tardo, veas por aquí cómo te conviene conducirte en la
+        casa de Dios, que es la Iglesia de Dios vivo, columna y fundamento de la
+        verdad.
+      peshitta: ܘܶܐܢ ܗܽܘ ܕ݁ܶܝܢ ܕ݁ܡܰܘܚܰܪ ܐ݈ܢܳܐ ܕ݁ܬ݂ܶܕ݁ܰܥ ܐܰܝܟ݁ܰܢܳܐ ܘܳܠܶܐ ܠܡܶܬ݂ܗܰܦ݁ܳܟ݂ܽܘ
+        ܒ݁ܒ݂ܰܝܬ݁ܶܗ ܕ݁ܰܐܠܳܗܳܐ ܕ݁ܺܐܝܬ݂ܶܝܗ ܥܺܕ݈݁ܬ݁ܳܐ ܕ݁ܰܐܠܳܗܳܐ ܚܰܝܳܐ ܥܰܡܽܘܕ݂ܳܐ
+        ܘܫܶܬ݂ܶܐܣܬ݂ܳܐ ܕ݁ܰܫܪܳܪܳܐ܂
+      bel_syomukha: каб, калі запазьнюся, ты ведаў, як трэба паводзіцца ў доме Божым,
+        які ёсьць Царква Бога жывога, стоўп і аснова ісьціны.
+      nrt: чтобы, если я и задержусь, ты бы знал, как следует вести себя в доме
+        Божьем, который есть Церковь живого Бога, опора и утверждение истины.
+      romana: Ca sa stii, daca zabovesc, cum trebuie sa petreci in casa lui Dumnezeu,
+        care este Biserica Dumnezeului celui viu, stalp si temelie a adevarului.
+      francais: mais afin que tu saches, si je tarde, comment il faut se conduire dans
+        la maison de Dieu, qui est l'Église du Dieu vivant, la colonne et
+        l'appui de la vérité.
+      italian: ma se dovessi tardare, voglio che tu sappia come comportarti nella casa
+        di Dio, che è la Chiesa del Dio vivente, colonna e sostegno della
+        verità.
+      old_georgian: ხოლო უკუეთუ ვყოვნო, რაჲთა უწყოდი, ვითარ-იგი ჯერ-არს სახლსა შინა
+        ღმრთისასა სლვაჲ, რომელ არს ეკლესიაჲ ღმრთისა ცხოველისაჲ, სუეტი და
+        სიმტკიცე ჭეშმარიტებისაჲ.
+      portuguese: "para que, no caso de eu tardar, saibas como se deve proceder na
+        casa de Deus, a qual é a igreja do Deus vivo,\rcoluna e esteio da
+        verdade."
+      polish: "Gdybym zaś się opóźniał, [piszę], byś wiedział, jak należy postępować w
+        domu\rBożym, który jest Kościołem Boga żywego, filarem i podporą
+        prawdy."
+      new_text: если задержусь, чтобы ты знал, как вести себя в Божьем владении, то
+        есть в Церкви Живого Бога, а это опора и оплот истины.
+      serbian: Ако ли се задржим, да знаш како се треба владати у дому Божијему, који
+        је Црква Бога живога, стуб и тврђава истине.
+      bulgarian: в случай, че се позабавя, да знаеш, как трябва да постъпваш в Божия
+        дом, който е църква на живия Бог, стълб и крепило на истината.
+      pobedonostsev: "Если же замедлю, — чтобы знал ты, как должно поступать в доме
+        Божием: он есть церковь Бога живаго, столп и утверждение истины."
+      ukr2: Коли ж загаюся, то щоб ти знав, як слід поводитися в домі Божім, яким є
+        Церква Бога живого, стовп та основа правди.
+      ukr3: коли ж загаюсь, щоб ти знав, як треба в дому Божому жити, котрий єсть
+        церква Бога живого, стовп і утвердженнє правди.
+      czech: pro pripad, ze bych se opozdil, abys vedel, jak je treba si pocinat v
+        Bozim dome, jimz je cirkev ziveho Boha, sloup a opora pravdy.
+      st_text: чтобы, если замедлю, ты знал, как должно поступать в доме Божием,
+        который есть Церковь Бога живаго, столп и утверждение истины.
+  - id: 3744
+    number: 16
+    bookId: 72
+    text: "И беспрекословно - великая благочестия тайна: Бог явился во плоти,
+      оправдал Себя в Духе, показал Себя Ангелам, проповедан в народах, принят
+      верою в мире, вознесся во славе."
+    chapter: 3
+    chapterId: 1327
+    parallels:
+      - verseId: 36542
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 29
+        short: Втор:29:29
+      - verseId: 17899
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 1
+        short: Ин:1:14
+      - verseId: 3600
+        bookId: 57
+        bookCode: 1oe-poslanie-ap-petra
+        chapter: 1
+        short: 1 Пет:1:12
+      - verseId: 32795
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 1
+        short: Рим:1:4
+      - verseId: 32841
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 10
+        short: Рим:10:18
+      - verseId: 14070
+        bookId: 67
+        bookCode: k-efesanam-poslanie-ap-pavla
+        chapter: 3
+        short: Еф:3:10
+      - verseId: 35507
+        bookId: 74
+        bookCode: k-titu-poslanie-ap-pavla
+        chapter: 1
+        short: Тит:1:1
+    translates:
+      kassian: "И признано всеми: велика - тайна благочестия: Он, Кто явлен был во
+        плоти, оправдан был в Духе, виден был ангелами, проповедан был в
+        народах, принят был верою в мире, вознесён был во славе."
+      podstr: И общепризнанно великая есть благочестия тайна; Который* был явлен в
+        плоти, был признан правым в Духе, был сделан видим ангелам, был возвещён
+        в народах, был облечён верой в мире, был вознесён в славе (*<i>так у
+        Нестле-Аланда; в принятом тексте стоит "Бог"</i>).
+      csya: "И исповедуемо велия есть благочестия тайна: Бог явися во Плоти, оправдася
+        в Дусе, показася ангелом, проповедан бысть во языцех, веровася в мире,
+        вознесеся во славе."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# и3сповёдуемw ве1ліz є4сть бlгоче1стіz тaйна: бг7ъ kви1сz во пlти,
+        њправдaсz въ д©э, показaсz ѓгг7лwмъ, проповёданъ бы1сть во kзы1цэхъ,
+        вёровасz въ мjрэ, вознесе1сz во слaвэ."
+      sovr_rbo: ""
+      latin: Et manifeste magnum est pietatis sacramentum, quod manifestatum est in
+        carne, justificatum est in spiritu, apparuit angelis, praedicatum est
+        gentibus, creditum est in mundo, assumptum est in gloria.
+      ukr: "Безсумнівно, велика це таємниця благочестя: Хто в тілі з'явився, Той
+        оправданий Духом, Анголам показався, проповіданий був між народами,
+        увірувано в Нього в світі, Він у славі вознісся!"
+      nkjv: "And without controversy great is the mystery of godliness: God was
+        manifested in the flesh, Justified in the Spirit, Seen by angels,
+        Preached among the Gentiles, Believed on in the world, Received up in
+        glory."
+      desnitsky: "Велика, без сомнения, эта тайна благочестия: Он был нам явлен во
+        плоти, праведность Его открыта в Духе, ангелами был Он увиден,
+        проповедан народам, в мире принимали Его верой, и вознесен Он во славе."
+      tex_rec: καὶ ὁμολογουμένως μέγα ἐστὶ τὸ τῆς εὐσεβείας μυστήριον· Θεὸς ἐφανερώθη
+        ἐν σαρκί, ἐδικαιώθη ἐν Πνεύματι, ὤφθη ἀγγέλοις, ἐκηρύχθη ἐν ἔθνεσιν,
+        ἐπιστεύθη ἐν κόσμῳ, ἀνελήφθη ἐν δόξῃ.
+      deutsch: "Und kündlich groß ist das gottselige Geheimnis: Gott ist offenbart im
+        Fleisch, gerechtfertigt im Geist, erschienen den Engeln, gepredigt den
+        Heiden, geglaubt von der Welt, aufgenommen in die Herrlichkeit."
+      spanish: "Y sin duda que es grande el misterio de la piedad: «Que se ha
+        manifestado en la carne, ha sido justificado por Espíritu, ha sido
+        mostrado a los ángeles, predicado a las naciones, creído en el mundo,
+        ensalzado en la gloria»."
+      peshitta: ܘܫܰܪܺܝܪܳܐܝܺܬ݂ ܪܰܒ݂ ܗܽܘ ܐ݈ܪܳܙܳܐ ܗܳܢܳܐ ܕ݁ܟ݂ܺܐܢܽܘܬ݂ܳܐ ܕ݁ܶܐܬ݂ܓ݁ܠܺܝ
+        ܒ݁ܰܒ݂ܣܰܪ ܘܶܐܙܕ݁ܰܕ݁ܰܩ ܒ݁ܪܽܘܚ ܘܶܐܬ݂ܚܙܺܝ ܠܡܰܠܰܐܟ݂ܶܐ ܘܶܐܬ݂ܟ݁ܪܶܙ ܒ݁ܶܝܬ݂
+        ܥܰܡ݈ܡܶܐ ܘܶܐܬ݂ܗܰܝܡܰܢ ܒ݁ܥܳܠܡܳܐ ܘܶܐܣܬ݁ܰܠܰܩ ܒ݁ܫܽܘܒ݂ܚܳܐ܂
+      bel_syomukha: "І, прызнана ўсімі - вялікая ёсьць пабожнасьці таямніца: Бог
+        зьявіўся ў плоці, апраўдаў Сябе ў Духу, паказаў Сябе анёлам, прапаведаны
+        ў народах, прыняты вераю ў сьвеце, узьнёсься ў славе."
+      nrt: "Тайна нашей веры несомненно велика: Бог был явлен в теле, был оправдан
+        Духом, Его видели ангелы, о Нем было возвещено среди народов, Его
+        приняли верой в мире, Он был вознесен в славе."
+      romana: "Si cu adevarat, mare este taina dreptei credinte: Dumnezeu S-a aratat
+        in trup, S-a indreptat in Duhul, a fost vazut de ingeri, S-a propovaduit
+        intre neamuri, a fost crezut in lume, S-a inaltat intru slava."
+      francais: "Et, sans contredit, le mystère de la piété est grand: celui qui a
+        été  manifesté en chair, justifié par l'Esprit, vu des anges, prêché aux
+        Gentils, cru dans le monde, élevé dans la gloire."
+      italian: "Dobbiamo confessare che grande è il mistero della pietà: Egli si
+        manifestò nella carne, fu giustificato nello Spirito, apparve agli
+        angeli, fu annunziato ai pagani, fu creduto nel mondo, fu assunto nella
+        gloria."
+      old_georgian: და, აღსარებულად, დიდ არს ღმრთის მსახურებისა საიდუმლოჲ; ღმერთი
+        გამოჩნდა ჴორცითა და განმართლდა სულითა, ეჩუენა ანგელოზთა, იქადაგა
+        წარმართთა შორის, ჰრწმენა სოფელსა და ამაღლდა დიდებითა.
+      portuguese: "E, sem dúvida alguma, grande é o mistério da piedade: Aquele que se
+        manifestou em carne, foi justificado em\respírito, visto dos anjos,
+        pregado entre os gentios, crido no mundo, e recebido acima na glória."
+      polish: "A bez wątpienia wielka jest tajemnica pobożności. Ten, który objawił
+        się w\rciele, usprawiedliwiony został w Duchu, ukazał się aniołom,
+        ogłoszony został\rpoganom, znalazł wiarę w świecie, wzięty został w
+        chwale."
+      new_text: "Да, бесспорно, велика тайна нашего богопочитания: Тот, кого Бог явил
+        в человеческом теле, кого Дух оправдал, кого видели ангелы, о ком
+        возвестили народам, в кого поверили в мире и кто вознесен был во славе."
+      serbian: "И заиста велика је тајна побожности: Бог се јави у тијелу,  оправда се
+        у Духу, показа се анђелима, проповједи се незнабошцима, вјерова се у
+        свијету, вазнесе се у слави."
+      bulgarian: "И наистина, велика е тайната на благочестието: Бог се яви в плът,
+        засвидетелствуван бе от Духа, показа се на Ангели, проповядван биде на
+        народи, приет с вяра в света, възнесе се в слава."
+      pobedonostsev: "В ней, пред всеми исповедуем мы великую благочестия тайну: Бог
+        явился во плоти, оправдался в Духе, явил Себя Ангелам, проповедан во
+        языках, принят верою в мире, вознесся во славе."
+      ukr2: "А то річ певна, що тайна побожности - велика: Христос явився у тілі,
+        засвідчений у Дусі, показався ангелам, проповідуваний поганам,
+        увіруваний у світі, вознісся у славі."
+      ukr3: "І справдї велика се тайна благочестя: Бог явив ся в тїлї, оправдивсь у
+        Дусї, показав ся ангелам, проповідано Його між поганами, увірували в
+        Його по сьвіту, вознїс ся в славі."
+      czech: "Vpravde velike je tajemstvi zboznosti: Byl zjeven v tele, ospravedlnen
+        Duchem, viden od andelu, hlasan narodum, dosel viry ve svete, byl prijat
+        do slavy."
+      st_text: "И беспрекословно - великая благочестия тайна: Бог явился во плоти,
+        оправдал Себя в Духе, показал Себя Ангелам, проповедан в народах, принят
+        верою в мире, вознесся во славе."

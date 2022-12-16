@@ -1,0 +1,2222 @@
+id: 677
+number: 8
+bookId: 23
+verseCount: 36
+title: Глава 8
+verses:
+  - id: 30205
+    number: 1
+    bookId: 23
+    text: Не премудрость ли взывает? и не разум ли возвышает голос свой?
+    chapter: 8
+    chapterId: 677
+    parallels:
+      - verseId: 29359
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 1
+        short: Притч:1:20
+      - verseId: 25074
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 11
+        short: Мф:11:19
+      - verseId: 1309
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 1
+        short: 1 Кор:1:24
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Темже ты премудрость проповеждь, да разум послушает тебе.
+      averincev: ""
+      ungerov: Посему ты проповедуй Премудрость, чтобы разум повиновался тебе,
+      csya_old: Тёмже ты2 премyдрость проповёждь, да рaзумъ послyшаетъ тебе2.
+      sovr_rbo: Не Премудрость ли это зовет, не ее ли разумный голос слышен?
+      latin: Numquid non sapientia clamitat, et prudentia dat vocem suam?
+      ukr: Чи ж мудрість не кличе, і не подає свого голосу розум?
+      nkjv: Does not wisdom cry out, And understanding lift up her voice?
+      desnitsky: ""
+      mt: ‫    הֲלֹא־חָכְמָה תִקְרָא וּתְבוּנָה תִּתֵּן קוֹלָהּ׃ ‬
+      romana: Oare intelepciunea nu striga ea si priceperea nu-si ridica glasul sau?
+      francais: La sagesse ne crie-t-elle pas? L'intelligence n'élève-t-elle pas sa voix?
+      italian: La Sapienza forse non chiama e la prudenza non fa udir la voce?
+      old_georgian: ამისთჳს შენ სიბრძნესა ქადაგებდ, რათა გონიერებაჲ გერჩდეს შენ.
+      portuguese: Não clama porventura a sabedoria, e não faz o entendimento soar a
+        sua voz?
+      polish: Czyż Mądrość nie nawołuje? nie wysila głosu Roztropność?
+      turkish: "Bilgelik çağırıyor,\rAkıl sesini yükseltiyor."
+      nrt: Разве это не мудрость зовет? Разве это не разум возвышает голос?
+      Macarius: Не проповедует ли Премудрость; и разум не возвышает ли своего голоса?
+      serbian: Не виче ли мудрост? И разум не пушта ли глас свој?
+      bulgarian: Нали премъдростта вика? И нали разумът издига гласа си?
+      pavskiy: "Не проповедует ли премудрость,\rИ разум не возвышает ли своего голоса?"
+      deutsch: Ruft nicht die Weisheit, und die Klugheit läßt sich hören?
+      ukr2: Хіба мудрість не кличе, | розум не здійма свій голос?
+      ukr3: Чи ж премудрість не покликує, чи розум не знїмає свій голос?
+      bel_syomukha: Ці мудрасьць не заклікае? і ці розум ня ўзносіць свой голас?
+      Porfiriy: Ты ли будешь проповедывать премудрость, чтобы разум подчинился тебе?
+      lev-khv: Не зовет ли премудрость, и разум не подает ли своего голоса?
+      czech: Cozpak moudrost nevola, nevydava rozumnost svuj hlas?
+      spanish: ¿No está ahí clamando la sabiduría y dando voces la inteligencia?
+      greek-lxx: σὺ τὴν σοφίαν κηρύξεις ἵνα φρόνησίς σοι ὑπακούσῃ
+      st_text: Не премудрость ли взывает? и не разум ли возвышает голос свой?
+  - id: 30206
+    number: 2
+    bookId: 23
+    text: Она становится на возвышенных местах, при дороге, на распутиях;
+    chapter: 8
+    chapterId: 677
+    parallels:
+      - verseId: 29359
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 1
+        short: Притч:1:20
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "На высоких бо краех есть, посреде же стезь стоит:"
+      averincev: ""
+      ungerov: Ибо она находится на самых возвышенных местах и останавливается на
+        распутиях;
+      csya_old: "На высо1кихъ бо крае1хъ є4сть, посредё же сте1зь стои1тъ:"
+      sovr_rbo: На вершине холма над дорогой, на перепутье она стоит;
+      latin: In summis excelsisque verticibus supra viam, in mediis semitis stans,
+      ukr: На верхів'ях холмів, при дорозі та на перехрестях стоїть он вона!
+      nkjv: She takes her stand on the top of the high hill, Beside the way, where the
+        paths meet.
+      desnitsky: ""
+      mt: ‫    בְּרֹאשׁ־מְרוֹמִים עֲלֵי־דָרֶךְ בֵּית נְתִיבוֹת נִצָּבָה׃ ‬
+      romana: Pe varfurile cele mai inalte, pe cale, la raspantiile drumurilor sta,
+      francais: C'est au sommet des hauteurs près de la route, C'est à la croisée des
+        chemins qu'elle se place;
+      italian: In cima alle alture, lungo la via, nei crocicchi delle strade essa si è
+        posta,
+      old_georgian: რამეთუ მაღალთა ზედა მწუერვალთა დგას და შორის ალაგთა იპოების.
+      portuguese: No cume das alturas, junto ao caminho, nas encruzilhadas das veredas
+        ela se coloca.
+      polish: Na najwyższym szczycie, przy drodze, na rozstaju zasiada,
+      turkish: Yol kenarındaki tepelerin başında, Yolların birleştiği yerde duruyor o.
+      nrt: На возвышенностях при дороге, на распутьях она встает;
+      Macarius: На вершине возвышенных мест, при дороге, на перекрестке стезей
+        останавливается,
+      serbian: Наврх висина, на путу, на распутицама стоји,
+      bulgarian: Премъдростта застава по високи места, край пътя, по кръстопътища;
+      pavskiy: "На вершине возвышенных мест при дороге,\rПодле тропин останавливается,"
+      deutsch: Öffentlich am Wege und an der Straße steht sie.
+      ukr2: На верху горбів при дорозі, | стає вона й на розпуттях.
+      ukr3: Вона стає на високих місцях, при дорозї, та на роздорожжях;
+      bel_syomukha: Яна стаіць на ўзвышаных месцах, пры дарозе, на ростанях;
+      Porfiriy: Сама она на высоких вершинах находится, а среди стезей останавливается;
+      lev-khv: Она стоит на вершине возвышенных мест, при дороге, на распутиях;
+      czech: Na nejvyssim miste, nad cestou, na krizovatce stoji.
+      spanish: En los altos cabezos, junto a los caminos, en los cruces de las veredas
+        se para;
+      greek-lxx: ἐπὶ γὰρ τῶν ὑψηλῶν ἄκρων ἐστίν ἀνὰ μέσον δὲ τῶν τρίβων ἕστηκεν
+      st_text: Она становится на возвышенных местах, при дороге, на распутиях;
+  - id: 30207
+    number: 3
+    bookId: 23
+    text: "она взывает у ворот при входе в город, при входе в двери:"
+    chapter: 8
+    chapterId: 677
+    parallels:
+      - verseId: 29360
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 1
+        short: Притч:1:21
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: при вратех бо сильных приседит, во входех же поется.
+      averincev: ""
+      ungerov: У ворот властелинов возседает, во вратах воспевается.
+      csya_old: при вратёхъ бо си1льныхъ присэди1тъ, во вхо1дэхъ же пое1тсz.
+      sovr_rbo: "у ворот городских взывает, при входе в город восклицает:"
+      latin: "juxta portas civitatis, in ipsis foribus loquitur, dicens:"
+      ukr: "При брамах, при вході до міста, де входиться в двері, там голосно кличе
+        вона:"
+      nkjv: "She cries out by the gates, at the entry of the city, At the entrance of
+        the doors:"
+      desnitsky: ""
+      mt: ‫    לְיַד־שְׁעָרִים לְפִי־קָרֶת מְבוֹא פְתָחִים תָּרֹנָּה׃ ‬
+      romana: "Pe langa porti, in imprejurimile cetatii, la intrarea portilor, striga
+        tare:"
+      francais: "A côté des portes, à l'entrée de la ville, A l'intérieur des portes,
+        elle fait entendre ses cris:"
+      italian: "presso le porte, all'ingresso della città, sulle soglie degli usci
+        essa esclama:"
+      old_georgian: ბჭეთა თანა ძლიერთასა დადგრომილ არს და შესავალთა გზათასა იქების.
+      portuguese: "Junto às portas, à entrada da cidade, e à entrada das portas está
+        clamando:"
+      polish: "przy bramach, u wejścia do miasta, w przejściach głos swój podnosi:"
+      turkish: "Kentin girişinde, kapıların yanında,\rSesini yükseltiyor:"
+      nrt: "у ворот, что ведут в город, и у входов она кричит:"
+      Macarius: "У ворот перед городом, при входе в двери восклицает:"
+      serbian: "Код врата, на уласку у град, гдје се отвoрају врата, виче:"
+      bulgarian: "тя вика пред портите при входа на града, при входа на вратата:"
+      pavskiy: "У ворот перед городом,\rПри входе в двери восклицает:"
+      deutsch: "An den Toren bei der Stadt, da man zur Tür eingeht, schreit sie:"
+      ukr2: "Коло воріт, при вході в місто, | при вході в двері вона голосно гукає:"
+      ukr3: "Вона кличе коло воріт при ввіходї в місто, коло ввіходу в самі двері:"
+      bel_syomukha: "яна кліча каля гарадское брамы, дзе ўваходзяць у дзьверы:"
+      Porfiriy: "У ворот властителей сидит, и на перекрестках поет:"
+      lev-khv: "Она поет близ ворот, при входе в город, при входе в двери:"
+      czech: "Pri branach, kudy se chodi do mesta, u vchodu pronikave vola:"
+      spanish: "en las puertas, en las entradas de la ciudad, en los umbrales de las
+        casas da voces:"
+      greek-lxx: παρὰ γὰρ πύλαις δυναστῶν παρεδρεύει ἐν δὲ εἰσόδοις ὑμνεῖται
+      st_text: "она взывает у ворот при входе в город, при входе в двери:"
+  - id: 30208
+    number: 4
+    bookId: 23
+    text: '"к вам, люди, взываю я, и к сынам человеческим голос мой!'
+    chapter: 8
+    chapterId: 677
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Вас, о, человецы, молю, и вдаю мой глас сыном человеческим.
+      averincev: ""
+      ungerov: '"К вам, о люди, взываю, к сынам человеческим издаю мой голос.'
+      csya_old: Вaсъ, q, человёцы, молю2, и3 вдаю2 мо1й глaсъ сынHмъ человёчєскимъ.
+      sovr_rbo: «Вас, люди, зову я, мой призыв — к сынам человеческим!
+      latin: O viri, ad vos clamito, et vox mea ad filios hominum.
+      ukr: "До вас, мужі, я кличу, а мій голос до людських синів:"
+      nkjv: '"To you, O men, I call, And my voice is to the sons of men.'
+      desnitsky: ""
+      mt: ‫    אֲלֵיכֶם אִישִׁים אֶקְרָא וְקוֹלִי אֶל־בְּנֵי אָדָם׃ ‬
+      romana: '"Catre voi, oamenilor, se indreapta strigatul meu si glasul meu catre
+        voi, fii ai oamenilor.'
+      francais: Hommes, c'est à vous que je crie, Et ma voix s'adresse aux fils de
+        l'homme.
+      italian: "\"A voi, uomini, io mi rivolgo, ai figli dell'uomo è diretta la mia
+        voce."
+      old_georgian: თქუენ გლოცავ, ჵ, შვილნო, და წინაგიყოფ ჴმასა ჩემსა ძეთა კაცთა.
+      portuguese: A vós, ó homens, clamo; e a minha voz se dirige aos filhos dos homens.
+      polish: ”Odzywam się do was, mężowie, wzywam was, synowie ludzcy,
+      turkish: «Ey insanlar, size sesleniyorum, Çağrım insan soyunadır!
+      nrt: «К вам, о люди, взываю я, крик мой – к роду людскому!
+      Macarius: К вам, люди, взываю, и глас Мой — к сынам человеческим.
+      serbian: Вас вичем, о људи, и глас свој обраћам к синовима људским.
+      bulgarian: '"към вас, люде, викам, и към синовете човешки е моят глас!'
+      pavskiy: "«К вам, люди, взываю,\r«И голос мой обращаю к сынам человеческим:"
+      deutsch: O ihr Männer, ich schreie zu euch und rufe den Leuten.
+      ukr2: “Це вас я кличу, люди; | до синів людських мій голос.
+      ukr3: Люде, се до вас я покликую, до синів чоловічих мій голос!
+      bel_syomukha: '"Да вас, людзі, даклікаюся я, і да сыноў чалавечых мой голас!'
+      Porfiriy: Вас, о люди, призываю, и голос мой издаю сынам человеческим.
+      lev-khv: "&laquo;К вам, люди, взываю, и голос мой к сынам человеческим."
+      czech: '"Na vas, muzi, volam, muj hlas je urcen synum lidskym.'
+      spanish: A vosotros, mortales, clamo, y me dirijo a todos los hombres.
+      greek-lxx: ὑμᾶς ὦ ἄνθρωποι παρακαλῶ καὶ προΐεμαι ἐμὴν φωνὴν υἱοῖς ἀνθρώπων
+      st_text: '"к вам, люди, взываю я, и к сынам человеческим голос мой!'
+  - id: 30209
+    number: 5
+    bookId: 23
+    text: Научитесь, неразумные, благоразумию, и глупые - разуму.
+    chapter: 8
+    chapterId: 677
+    parallels:
+      - verseId: 32694
+        bookId: 22
+        bookCode: psaltir
+        chapter: 91
+        short: Пс:91:6
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Уразумейте, незлобивии, коварство, ненаказаннии же, приложите сердце.
+      averincev: ""
+      ungerov: Уразумейте, неопытные, проницательность и ненаученные приложите сердце.
+      csya_old: Ўразумёйте, неѕло1бивіи, ковaрство, ненакaзанніи же, приложи1те се1рдце.
+      sovr_rbo: Простаки, научитесь проницательности, глупцы, наберитесь ума!
+      latin: Intelligite, parvuli, astutiam, et insipientes, animadvertite.
+      ukr: Зрозумійте но, неуки, мудрість, зрозумійте ви розум, безглузді!
+      nkjv: O you simple ones, understand prudence, And you fools, be of an
+        understanding heart.
+      desnitsky: ""
+      mt: ‫    הָבִינוּ פְתָאיִם עָרְמָה וּכְסִילִים הָבִינוּ לֵב׃ ‬
+      romana: Voi, cei simpli, invatati cumintenia si voi, cei nebuni, inteleptiti-va!
+      francais: Stupides, apprenez le discernement; Insensés, apprenez l'intelligence.
+      italian: Imparate, inesperti, la prudenza e voi, stolti, fatevi assennati.
+      old_georgian: სცანთ უმანკოთა მეცნიერებაჲ და უსწავლელთა დაიდევით გულსა თქუენსა.
+      portuguese: Aprendei, ó simples, a prudência; entendei, ó loucos, a sabedoria.
+      polish: prostacy - mądrości się uczcie, nierozumni - nabierzcie rozsądku!
+      turkish: Ey bön kişiler, ihtiyatlı olmayı öğrenin; Sağduyulu olmayı öğrenin, ey
+        akılsızlar!
+      nrt: Простаки, научитесь предусмотрительности; глупые, научитесь разуму.
+      Macarius: Научайтесь, неопытные, прозорливости; и глупые, будьте разумны сердцем.
+      serbian: Научите се, луди, мудрости, и, безумни, уразумите се.
+      bulgarian: Научете се, неразумни, на благоразумие, и глупци, - на разум.
+      pavskiy: "«Научайтесь, неопытные, быть осторожными,\r«И глупые познакомьтесь с
+        умом."
+      deutsch: Merkt, ihr Unverständigen, auf Klugheit und, ihr Toren, nehmt es zu
+        Herzen!
+      ukr2: О простодушні, обачности навчайтесь, | і ви, безглузді, ума набирайтесь!
+      ukr3: Навчайтесь, нерозумні, мудростї, і ви, глупі - розуму!
+      bel_syomukha: Навучэцеся, невукі, добрай разумнасьці, зразумейце вы розум, бязглуздыя.
+      Porfiriy: Учитесь простодушные сметливости, и неучи поумнейте сердцем.
+      lev-khv: Поймите, неразумные, благоразумие, и поймите, безумные, разсудительность.
+      czech: Prostodusi, pochopte, v cem je chytrost, hlupaci, pochopte, v cem je
+        rozum!
+      spanish: Entended, ¡oh simples! la cordura, y vosotros, necios, entrad en la
+        discreción.
+      greek-lxx: νοήσατε ἄκακοι πανουργίαν οἱ δὲ ἀπαίδευτοι ἔνθεσθε καρδίαν
+      st_text: Научитесь, неразумные, благоразумию, и глупые - разуму.
+  - id: 30210
+    number: 6
+    bookId: 23
+    text: Слушайте, потому что я буду говорить важное, и изречение уст моих - правда;
+    chapter: 8
+    chapterId: 677
+    parallels:
+      - verseId: 25987
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 7
+        short: Мф:7:29
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Послушайте мене: честная бо реку и изнесу от устен правая."
+      averincev: ""
+      ungerov: Послушайте меня, потому что я буду говорить достойное почитания и
+        изнесу из уст правое.
+      csya_old: "Послyшайте мене2: честн†z бо рекY и3 и3знесY t ўсте1нъ пр†ваz."
+      sovr_rbo: Слушайте мою возвышенную речь, ибо правда у меня на устах,
+      latin: Audite, quoniam de rebus magnis locutura sum, et aperientur labia mea ut
+        recta praedicent.
+      ukr: Послухайте, я бо шляхетне кажу, і відкриття моїх губ то простота.
+      nkjv: Listen, for I will speak of excellent things, And from the opening of my
+        lips will come right things;
+      desnitsky: ""
+      mt: ‫    שִׁמְעוּ כִּי־נְגִידִים אֲדַבֵּר וּמִפְתַּח שְׂפָתַי מֵישָׁרִים׃ ‬
+      romana: Ascultati, caci voi spune lucruri marete si buzele mele se deschid
+        pentru a inalta ceea ce este drept;
+      francais: Écoutez, car j'ai de grandes choses à dire, Et mes lèvres s'ouvrent
+        pour enseigner ce qui est droit.
+      italian: Ascoltate, perché dirò cose elevate, dalle mie labbra usciranno
+        sentenze giuste,
+      old_georgian: ისმინეთ ჩემი, რამეთუ კეთილსა გეტყჳ და აღვაღებ ბაგეთა ჩემთა მართლ,
+      portuguese: Ouvi vós, porque profiro coisas excelentes; os meus lábios se abrem
+        para a eqüidade.
+      polish: Słuchajcie, mówię rzeczy wzniosłe, z warg moich wychodzi prawość,
+      turkish: Söylediğim yetkin sözleri dinleyin, Ağzımı doğruları söylemek için
+        açarım.
+      nrt: Слушайте, так как я говорю о важном, открываю уста, чтобы возвестить
+        правду.
+      Macarius: Послушайте, ибо Я буду говорить превосходное, и открытие уст Моих —
+        верность.
+      serbian: Слушајте, јер ћу говорити велике ствари, и усне моје отворајући се
+        казиваће што је право.
+      bulgarian: Слушайте, понеже ще говоря нещо важно, и устата ми ще изрекат правда;
+      pavskiy: "«Послушайте, ибо я буду говорить ясное.\r«И уста мои откроют верное."
+      deutsch: Höret, denn ich will reden, was fürstlich ist, und lehren, was recht ist.
+      ukr2: Слухайте, бо я про важливе говоритиму, | і з уст моїх вийдуть слова
+        правдиві.
+      ukr3: Слухайте, бо я про важне говорити буду, й сама се правда, що уста мої
+        виповідають.
+      bel_syomukha: Бо ісьціну вымавіць язык мой, а бязбожнасьць - гідота для вуснаў маіх;
+      Porfiriy: Выслушайте меня. Ибо я изреку важное, и устами произнесу верное.
+      lev-khv: "Слушайте: я скажу вам важное, и правда будет моим изречением;"
+      czech: Slyste! Vyhlasuji, co je smerodatne, oteviram rty a plyne z nich primost.
+      spanish: Escuchad, que voy a deciros nobles palabras, y abriré mi boca a
+        sentencias de rectitud.
+      greek-lxx: εἰσακούσατέ μου σεμνὰ γὰρ ἐρῶ καὶ ἀνοίσω ἀπὸ χειλέων ὀρθά
+      st_text: Слушайте, потому что я буду говорить важное, и изречение уст моих -
+        правда;
+  - id: 30211
+    number: 7
+    bookId: 23
+    text: ибо истину произнесет язык мой, и нечестие - мерзость для уст моих;
+    chapter: 8
+    chapterId: 677
+    parallels:
+      - verseId: 18710
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 8
+        short: Ин:8:46
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Яко истине поучится гортань мой, мерзки же предо мною устны лживыя.
+      averincev: ""
+      ungerov: Ведь истину возвещает гортань моя, а уста лживыя для меня мерзость.
+      csya_old: Ћкw и4стинэ поучи1тсz гортaнь мо1й, мє1рзки же предо мно1ю ўстны2
+        лжи6выz.
+      sovr_rbo: истину вещает мой язык, и мерзко устам моим зло.
+      latin: Veritatem meditabitur guttur meum, et labia mea detestabuntur impium.
+      ukr: Бо правду говорять уста мої, а лукавство гидота для губ моїх.
+      nkjv: For my mouth will speak truth; Wickedness is an abomination to my lips.
+      desnitsky: ""
+      mt: ‫    כִּי־אֱמֶת יֶהְגֶּה חִכִּי וְתוֹעֲבַת שְׂפָתַי רֶשַׁע׃ ‬
+      romana: Caci gura mea graieste adevarul si buzele mele se dezgusta de faradelege.
+      francais: Car ma bouche proclame la vérité, Et mes lèvres ont en horreur le
+        mensonge;
+      italian: perché la mia bocca proclama la verità e abominio per le mie labbra è
+        l'empietà.
+      old_georgian: რამეთუ ჭეშმარიტსა იწურთის პირი ჩემი; საძაგელ არიან წინაშე ჩემსა
+        ბაგენი მტყუარნი.
+      portuguese: Porque a minha boca profere a verdade, os meus lábios abominam a
+        impiedade.
+      polish: podniebienie me prawdę podaje, wstrętna mym wargom nieprawość.
+      turkish: "Ağzım gerçeği duyurur,\rÇünkü dudaklarım kötülükten iğrenir."
+      nrt: Мой язык изречет истину, ведь нечестие мерзко моим устам.
+      Macarius: Ибо истину изрекает язык Мой, и неправда отвратительна для уст Моих.
+      serbian: Јер уста моја говоре истину, и мрска је уснама мојим безбожност.
+      bulgarian: защото езикът ми ще изговори истина, а нечестието е гнусота за устата ми;
+      pavskiy: "«Истину изречет язык мой,\r«А неправда отвратительна для уст моих."
+      deutsch: Denn mein Mund soll die Wahrheit reden, und meine Lippen sollen hassen,
+        was gottlos ist.
+      ukr2: Уста мої виповідають правду, | і зло моїм устам огидне.
+      ukr3: Бо саму правду говорить язик мій, а все, що безбожне, - гидота устам моїм.
+      Porfiriy: Ибо истину поведает гортань моя; и мне омерзительны уста лживыя.
+      lev-khv: Потому что язык мой произнесет истину, и нечестие мерзость пред устами
+        моими;
+      czech: O pravde hovori muj jazyk, mym rtum se svevole hnusi.
+      spanish: Sí; mi boca dice la verdad, pues aborrezco los labios inicuos.
+      greek-lxx: ὅτι ἀλήθειαν μελετήσει ὁ φάρυγξ μου ἐβδελυγμένα δὲ ἐναντίον ἐμοῦ
+        χείλη ψευδῆ
+      st_text: ибо истину произнесет язык мой, и нечестие - мерзость для уст моих;
+  - id: 30212
+    number: 8
+    bookId: 23
+    text: все слова уст моих справедливы; нет в них коварства и лукавства;
+    chapter: 8
+    chapterId: 677
+    parallels:
+      - verseId: 30559
+        bookId: 22
+        bookCode: psaltir
+        chapter: 11
+        short: Пс:11:6
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: С правдою вси глаголы уст моих, ничтоже в них стропотно, ниже развращенно.
+      averincev: ""
+      ungerov: Справедливы все изречения уст моих; нет в них ничего коварнаго и
+        лукаваго.
+      csya_old: Съ прaвдою вси2 глаго1лы ќстъ мои1хъ, ничто1же въ ни1хъ стро1потно,
+        ниже2 развраще1нно.
+      sovr_rbo: Праведны все мои речи, ни лукавства в них, ни обмана;
+      latin: "Justi sunt omnes sermones mei: non est in eis pravum quid, neque
+        perversum;"
+      ukr: Всі слова моїх уст справедливі, нема в них крутійства й лукавства.
+      nkjv: All the words of my mouth are with righteousness; Nothing crooked or
+        perverse is in them.
+      desnitsky: ""
+      mt: ‫    בְּצֶדֶק כָּל־אִמְרֵי־פִי אֵין בָּהֶם נִפְתָּל וְעִקֵּשׁ׃ ‬
+      romana: Toate graiurile gurii mele sunt intru dreptate, in ele nu este nimic
+        sucit si fara rost;
+      francais: Toutes les paroles de ma bouche sont justes, Elles n'ont rien de faux
+        ni de détourné;
+      italian: Tutte le parole della mia bocca sono giuste; niente vi è in esse di
+        fallace o perverso;
+      old_georgian: სიმართლით არიან ყოველნი სიტყუანი პირისა ჩემისანი და არა არს მათ
+        შინა გულარძნილ, არცა დრკუ.
+      portuguese: Justas são todas as palavras da minha boca; não há nelas nenhuma
+        coisa tortuosa nem perversa.
+      polish: Moje wszystkie mowy są słuszne - obcy mi fałsz i krętactwo -
+      turkish: "Ağzımdan çıkan her söz doğrudur,\rYoktur eğri ya da sapık olanı."
+      nrt: Все слова моих уст праведны – ни заблуждения нет в них, ни лжи.
+      Macarius: В праведности все изречения уст Моих; нет в них ничего
+        хитросплетенного и лукавого.
+      serbian: Праве су све ријечи уста мојих, ништа нема у њима криво ни изопачено.
+      bulgarian: всички думи на устата ми са справедливи; в тях няма коварство и
+        лукавство;
+      pavskiy: "«Во всех словах уст моих прямизна,\r«Нет в них ничего хитросплетеннаго
+        и лукаваго."
+      deutsch: Alle Reden meines Mundes sind gerecht; es ist nichts Verkehrtes noch
+        falsches darin.
+      ukr2: Всі слова уст моїх правдиві, | нема нічого в них нещирого, кривого.
+      ukr3: Всї слова уст моїх справедливі; нема в них облew Rду анї омани.
+      bel_syomukha: усе словы вуснаў маіх слушныя; няма ў іх хітрыны і ашуканства;
+      Porfiriy: Справедливость — во всех глаголах уст моих. Нет в них ничего
+        сучковатаго и узловатаго.
+      lev-khv: Справедливы все изречения уст моих; нет в них коварства и лукавства;
+      czech: Vsechny vyroky mych ust jsou spravedlive, neni v nich nic potmesileho ci
+        falesneho.
+      spanish: Todos mis dichos son conformes a la justicia; nada hay en ellos de
+        tortuoso y perverso.
+      greek-lxx: μετὰ δικαιοσύνης πάντα τὰ ῥήματα τοῦ στόματός μου οὐδὲν ἐν αὐτοῖς
+        σκολιὸν οὐδὲ στραγγαλῶδες
+      st_text: все слова уст моих справедливы; нет в них коварства и лукавства;
+  - id: 30213
+    number: 9
+    bookId: 23
+    text: все они ясны для разумного и справедливы для приобретших знание.
+    chapter: 8
+    chapterId: 677
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Вся права разумевающым, и права обретающым разум.
+      averincev: ""
+      ungerov: Все они ясны для разумных и справедливы для ищущих знания.
+      csya_old: Вс‰ пр†ва разумэвaющымъ, и3 пр†ва њбрэтaющымъ рaзумъ.
+      sovr_rbo: все они для разумного открыты, доступны для ищущих знания.
+      latin: recti sunt intelligentibus, et aequi invenientibus scientiam.
+      ukr: Усі вони прості, хто їх розуміє, і щирі для тих, хто знаходить знання.
+      nkjv: They are all plain to him who understands, And right to those who find
+        knowledge.
+      desnitsky: ""
+      mt: ‫    כֻּלָּם נְכֹחִים לַמֵּבִין וִישָׁרִים לְמֹצְאֵי דָעַת׃ ‬
+      romana: Toate sunt lamurite pentru cel priceput si drepte pentru cei ce au aflat
+        stiinta.
+      francais: Toutes sont claires pour celui qui est intelligent, Et droites pour
+        ceux qui ont trouvé la science.
+      italian: tutte sono leali per chi le comprende e rette per chi possiede la
+        scienza.
+      old_georgian: ყოვლადვე წრფელ არს იგი, რომელთა უცნობიეს და მართალ, რომელთა
+        უპოვნიეს მეცნიერებაჲ.
+      portuguese: Todas elas são retas para o que bem as entende, e justas para os que
+        acham o conhecimento.
+      polish: dla rozumnych one wszystkie są jasne, prawe dla tych - co mądrość
+        posiedli.
+      turkish: "Apaçıktır hepsi anlayana,\rBilgiye erişen, doğruluğunu bilir onların."
+      nrt: Все они верны для разумных и справедливы для тех, кто обрел знание.
+      Macarius: Все они для разумного ясны, и для тех, кои приобрели знание, верны.
+      serbian: Све су обичне разумному, и праве су онима који налазе знање.
+      bulgarian: те всички са ясни за разумния и справедливи за ония, които са
+        придобили знание.
+      pavskiy: "«Все оне для разумнаго ясны,\r«И для постигших мою науку верны."
+      deutsch: Sie sind alle gerade denen, die sie verstehen, und richtig denen, die
+        es annehmen wollen.
+      ukr2: Всі вони ясні тому, хто їх розуміє, | і слушні тому, хто придбав знання.
+      ukr3: Всї вони ясні тому, хто має розум, і справедливі для тих, що знання
+        набули.
+      bel_syomukha: усе яны простыя разумнаму і справядлівыя тым, хто здабыў веды.
+      Porfiriy: Все они ясны для разумных и верны для ищущих знания.
+      lev-khv: Все они верны для разумнаго и справедливы для приобретших знание.
+      czech: Vsechny jsou spravne pro toho, kdo porozumi, prime tem, kdo naleznou
+        poznani.
+      spanish: Todos son rectos para la persona inteligente, y razonables para el que
+        tiene la sabiduría.
+      greek-lxx: πάντα ἐνώπια τοῖς συνιοῦσιν καὶ ὀρθὰ τοῖς εὑρίσκουσι γνῶσιν
+      st_text: все они ясны для разумного и справедливы для приобретших знание.
+  - id: 30214
+    number: 10
+    bookId: 23
+    text: Примите учение мое, а не серебро; лучше знание, нежели отборное золото;
+    chapter: 8
+    chapterId: 677
+    parallels:
+      - verseId: 19353
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 28
+        short: Иов:28:15
+      - verseId: 30005
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 3
+        short: Притч:3:14
+      - verseId: 29278
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 7
+        short: Прем:7:9
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Приимите наказание, а не сребро, и разум паче злата искушена: избирайте
+        же ведение паче злата чиста."
+      averincev: ""
+      ungerov: Примите наставление, а не серебро, и разум, который лучше очищеннаго
+        золота, — предпочтите знание чистому золоту;
+      csya_old: "Пріими1те наказaніе, ґ не сребро2, и3 рaзумъ пaче злaта и3скуше1на:
+        и3збирaйте же вёдэніе пaче злaта чи1ста."
+      sovr_rbo: Цените мое наставление выше серебра, знание — выше червонного золота.
+      latin: "Accipite disciplinam meam, et non pecuniam; doctrinam magis quam aurum
+        eligite:"
+      ukr: "Візьміть ви картання моє, а не срібло, і знання, добірніше від щирого
+        золота:"
+      nkjv: Receive my instruction, and not silver, And knowledge rather than choice
+        gold;
+      desnitsky: ""
+      mt: ‫    קְחוּ־מוּסָרִי וְאַל־כָּסֶף וְדַעַת מֵחָרוּץ נִבְחָר׃ ‬
+      romana: Luati invatatura mea mai degraba decat argintul si stiinta mai mult
+        decat aurul cel mai curat,
+      francais: Préférez mes instructions à l'argent, Et la science à l'or le plus
+        précieux;
+      italian: Accettate la mia istruzione e non l'argento, la scienza anziché l'oro
+        fino,
+      old_georgian: მიიღეთ სწავლაჲ და ნუ ვეცხლი და მეცნიერებაჲ უფროჲს ოქროჲსა რჩეულისა,
+      portuguese: Aceitai antes a minha correção, e não a prata; e o conhecimento,
+        antes do que o ouro escolhido.
+      polish: Nabądźcie moją naukę - nie srebro, raczej wiedzę - niż złoto najczystsze;
+      turkish: "Gümüş yerine terbiyeyi,\rSaf altın yerine bilgiyi edinin."
+      nrt: Предпочтите наставление мое серебру, знание – наилучшему золоту,
+      Macarius: Примите правила Мои, а не сребро; и предпочтите знание чистому золоту.
+      serbian: Примите наставу моју а не сребро, и знање радије него најбоље злато.
+      bulgarian: Приемете учението ми, а не сребро; по-добре знание, нежели отбор злато;
+      pavskiy: "«Возмитесь за мои правила, а не за серебро,\r«За науку лучше, нежели
+        за отборное золото;"
+      deutsch: Nehmet an meine Zucht lieber denn Silber, und die Lehre achtet höher
+        denn köstliches Gold.
+      ukr2: Прийміть мою науку, а не срібло, | і радше знання, ніж золото добірне,
+      ukr3: Прийміть мою науку над срібло раднїще, знаннє моє ви цїнуйте над золото
+        щире;
+      bel_syomukha: Прымеце навуку маю, а ня срэбра; лепей веды, чым чыстае золата;
+      Porfiriy: Примите научение, а не серебро, и знание паче очищеннаго золота.
+        (Предпочтите Чувство золоту и серебру).
+      lev-khv: Приобретайте мое учение, а не серебро, и знание больше, чем отборное
+        золото;
+      czech: Prijmete me napomenuti, nikoli stribro, spise poznani, nez prevyborne
+        ryzi zlato.
+      spanish: Recibid mi enseñanza mejor que la plata, y la ciencia mejor que el oro
+        fino,
+      greek-lxx: λάβετε παιδείαν καὶ μὴ ἀργύριον καὶ γνῶσιν ὑπὲρ χρυσίον
+        δεδοκιμασμένον ἀνθαιρεῖσθε δὲ αἴσθησιν χρυσίου καθαροῦ
+      st_text: Примите учение мое, а не серебро; лучше знание, нежели отборное золото;
+  - id: 30215
+    number: 11
+    bookId: 23
+    text: потому что мудрость лучше жемчуга, и ничто из желаемого не сравнится с нею.
+    chapter: 8
+    chapterId: 677
+    parallels:
+      - verseId: 19354
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 28
+        short: Иов:28:16
+      - verseId: 30005
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 3
+        short: Притч:3:14
+      - verseId: 29313
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 8
+        short: Прем:8:14
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Лучши бо премудрость камений многоценных, всякое же честное недостойно ея
+        есть.
+      averincev: ""
+      ungerov: Потому что мудрость лучше драгоценных камней и все ценное не стоит ея.
+      csya_old: Лyчши бо премyдрость кaменій многоцённыхъ, всsкое же честно1е
+        недосто1йно є3S є4сть.
+      sovr_rbo: Ибо мудрость — прекрасней самоцветов, ничто желанное с ней не сравнится.
+      latin: melior est enim sapientia cunctis pretiosissimis, et omne desiderabile ei
+        non potest comparari.
+      ukr: ліпша бо мудрість за перли, і не рівняються їй всі клейноди!
+      nkjv: For wisdom is better than rubies, And all the things one may desire cannot
+        be compared with her.
+      desnitsky: ""
+      mt: ‫    כִּי־טוֹבָה חָכְמָה מִפְּנִינִים וְכָל־חֲפָצִים לֹא יִשְׁווּ־בָהּ׃ ‬
+      romana: Caci intelepciunea este mai buna decat pietrele pretioase si nici
+        lucrurile cele mai pretioase nu au valoarea ei.
+      francais: Car la sagesse vaut mieux que les perles, Elle a plus de valeur que
+        tous les objets de prix.
+      italian: perché la scienza vale più delle perle e nessuna cosa preziosa
+        l'uguaglia".
+      old_georgian: უმჯობეს არს სიბრძნე უფროჲს ანთრაკთა პატიოსანთა; ყოველივე პატიოსანი
+        ვერ არს ღირს მისა.
+      portuguese: Porque melhor é a sabedoria do que as jóias; e de tudo o que se
+        deseja nada se pode comparar com ela.
+      polish: bo mądrość cenniejsza od pereł i żaden klejnot nie jest jej równy”.
+      turkish: Çünkü bilgelik mücevherden değerlidir, Dilediğin hiçbir şey onunla
+        kıyaslanamaz.
+      nrt: потому что мудрость дороже драгоценных камней, и ничто из желаемого тобой с
+        ней не сравнится.
+      Macarius: Ибо мудрость лучше жемчуга, и все драгоценности не сравняются с нею.
+      serbian: Јер је боља мудрост од драгога камења, и што је год најмилијих ствари
+        не могу се изједначити с њом.
+      bulgarian: защото мъдростта е по-добра от бисер, и нищо от онова, що е
+        въжделено, не ще се сравни с нея.
+      pavskiy: "«Ибо мудрость лучше жемчуга,\r«И все драгоценности не сравняются с нею."
+      deutsch: Denn Weisheit ist besser als Perlen; und alles, was man wünschen mag,
+        kann ihr nicht gleichen.
+      ukr2: бо мудрість ліпша понад перли; | ніщо дорогоцінне не зрівняється з нею.
+      ukr3: Мудрість бо над перли дорожша, й нїчо, що можна бажати, з нею не
+        зрівняєсь.
+      bel_syomukha: бо мудрасьць лепшая за перлы, і ўсё, чаго пажадаеш, не дараўнаецца зь ёю.
+      Porfiriy: Ибо премудрость лучше камней дорогих, и все ценное не стоит ея.
+      lev-khv: Потому что мудрость лучше драгоценных камней, и ничто, достойное
+        желания, не сравнится с нею.
+      czech: Moudrost je lepsi nez perly, nevyrovnaji se ji zadne skvosty.
+      spanish: pues la sabiduría vale más que las perlas, y cuanto hay de codiciable
+        no puede comparársele.
+      greek-lxx: κρείσσων γὰρ σοφία λίθων πολυτελῶν πᾶν δὲ τίμιον οὐκ ἄξιον αὐτῆς ἐστιν
+      st_text: потому что мудрость лучше жемчуга, и ничто из желаемого не сравнится с
+        нею.
+  - id: 30216
+    number: 12
+    bookId: 23
+    text: Я, премудрость, обитаю с разумом и ищу рассудительного знания.
+    chapter: 8
+    chapterId: 677
+    parallels:
+      - verseId: 23953
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 11
+        short: Лк:11:49
+      - verseId: 29292
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 7
+        short: Прем:7:23
+      - verseId: 34327
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 4
+        short: Сир:4:16
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Аз премудрость вселих совет, и разум и смысл аз призвах.
+      averincev: ""
+      ungerov: Я, Премудрость, вселила совет и разум, и смысл я призвала.
+      csya_old: Ѓзъ премyдрость всели1хъ совётъ, и3 рaзумъ и3 смы1слъ ѓзъ призвaхъ.
+      sovr_rbo: Я — Премудрость, и со мною проницательность, знание и прозорливость я
+        обрела.
+      latin: Ego sapientia, habito in consilio, et eruditis intersum cogitationibus.
+      ukr: Я, мудрість, живу разом з розумом, і знаходжу пізнання розважне.
+      nkjv: '"I, wisdom, dwell with prudence, And find out knowledge and discretion.'
+      desnitsky: ""
+      mt: ‫    אֲנִי־חָכְמָה שָׁכַנְתִּי עָרְמָה וְדַעַת מְזִמּוֹת אֶמְצָא׃ ‬
+      romana: Eu, intelepciunea, locuiesc impreuna cu prevederea si stapanesc stiinta
+        si buna-chibzuiala.
+      francais: Moi, la sagesse, j'ai pour demeure le discernement, Et je possède la
+        science de la réflexion.
+      italian: Io, la Sapienza, possiedo la prudenza e ho la scienza e la riflessione.
+      old_georgian: მე, სიბრძნემან, დავიმკჳდრე მეცნიერებაჲ ზრახვისაჲ და გონიერებისაჲ
+        და ცნობისა მოვხადე.
+      portuguese: Eu, a sabedoria, habito com a prudência, e possuo o conhecimento e a
+        discrição.
+      polish: Jam Mądrość - Roztropność mi bliska, posiadam wiedzę głęboką.
+      turkish: "Ben bilgelik olarak ihtiyatı kendime konut edindim.\rBilgi ve sağgörü
+        bendedir."
+      nrt: Я, мудрость, обитаю с благоразумием, обладаю знанием и рассудительностью.
+      Macarius: Я, Премудрость, обитаю в прозорливости; и Я изобретаю искусство
+        здравомыслия.
+      serbian: Ја мудрост боравим с разборитошћу, и разумно знање налазим.
+      bulgarian: Аз, премъдростта, живея с разума и диря разсъдъчно знание.
+      pavskiy: "«Я — мудрость поселяюсь там, где есть смысл,\r«И ума разсудительнаго я
+        ищу."
+      deutsch: Ich, Weisheit, wohne bei der Klugheit und weiß guten Rat zu geben.
+      ukr2: Я мудрість, з обачністю я перебуваю; | я посідаю знання розважливе.
+      ukr3: Я, премудрість, пробуваю з розумом і шукаю розважливого знання.
+      bel_syomukha: Я, мудрасьць, жыву з розумам, і шукаю спазнаньня ў разважлівага.
+      Porfiriy: Я, премудрость, поселила совет, и я накликала знание и вразумление.
+      lev-khv: Я, премудрость, обитаю с разумом и стремлюсь к разсудительному знанию.
+      czech: Ja, Moudrost, bydlim s chytrosti, nalezam obezretne poznani.
+      spanish: Yo, la sabiduría, habito con la astucia y he hallado la ciencia de la
+        meditación.
+      greek-lxx: ἐγὼ ἡ σοφία κατεσκήνωσα βουλήν καὶ γνῶσιν καὶ ἔννοιαν ἐγὼ ἐπεκαλεσάμην
+      st_text: Я, премудрость, обитаю с разумом и ищу рассудительного знания.
+  - id: 30217
+    number: 13
+    bookId: 23
+    text: Страх Господень - ненавидеть зло; гордость и высокомерие и злой путь и
+      коварные уста я ненавижу.
+    chapter: 8
+    chapterId: 677
+    parallels:
+      - verseId: 29562
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 16
+        short: Притч:16:5
+      - verseId: 29563
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 16
+        short: Притч:16:6
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Страх Господень ненавидит неправды, досаждения же и гордыни, и пути
+        лукавых: возненавидех же аз развращенныя пути злых."
+      averincev: ""
+      ungerov: Страх Господень ненавидит неправду, гордость, высокомерие и пути
+        лукавых; возненавидела и я развращенные пути злых.
+      csya_old: "Стрaхъ гDень ненави1дитъ непрaвды, досажде1ніz же и3 горды1ни, и3
+        пути6 лукaвыхъ: возненави1дэхъ же ѓзъ развращє1нныz пути6 ѕлы1хъ."
+      sovr_rbo: Страх Господень — это ненависть ко злу Гордость и заносчивость, путь
+        зла и лживые уста я ненавижу.
+      latin: Timor Domini odit malum, arrogantiam et superbiam, et viam pravam, et os
+        bilingue detestor.
+      ukr: "Страх Господній лихе все ненавидіти: я ненавиджу пиху та гордість, і
+        дорогу лиху та лукаві уста!"
+      nkjv: The fear of the Lord is to hate evil; Pride and arrogance and the evil way
+        And the perverse mouth I hate.
+      desnitsky: ""
+      mt: ‫    יִרְאַת יְהוָה שְׂנֹאת רָע גֵּאָה וְגָאוֹן וְדֶרֶךְ רָע וּפִי
+        תַהְפֻּכוֹת שָׂנֵאתִי׃ ‬
+      romana: Frica de Dumnezeu este urgisirea raului. Mandria si obraznicia, calea
+        rautatii si gura cea apriga le urasc eu.
+      francais: La crainte de l'Éternel, c'est la haine du mal; L'arrogance et
+        l'orgueil, la voie du mal, Et la bouche perverse, voilà ce que je hais.
+      italian: "Temere il Signore è odiare il male: io detesto la superbia,
+        l'arroganza, la cattiva condotta e la bocca perversa."
+      old_georgian: შიშსა უფლისასა სძულს უკეთურებაჲ, გინებაჲ და ამპარტავნებაჲ; და გზაჲ
+        უკეთურთა და გულარძნილთანი და პირი ურწმუნოჲ მე მოვიძულენ.
+      portuguese: O temor do Senhor é odiar o mal; a soberba, e a arrogância, e o mau
+        caminho, e a boca perversa, eu os odeio.
+      polish: "Bojaźnią Pańską - zła nienawidzić. Nie znoszę dumy, złych dróg,
+        wyniosłości\rust przewrotnych."
+      turkish: "RAB'den korkmak kötülükten nefret etmek demektir. Kibirden,
+        küstahlıktan,\rKötü yoldan, sapık ağızdan nefret ederim."
+      nrt: Страх перед Господом заключается в том, чтобы ненавидеть зло. Ненавижу
+        гордость и высокомерие, порочный путь и лживую речь.
+      Macarius: Страх Иеговы во вражде со злом; гордости, и величавости, и пути зла, и
+        лживых уст Я не люблю.
+      serbian: Страх је Господњи мржња на зло; ја мрзим на поноситост и на охолост и
+        на зли пут и на уста опака.
+      bulgarian: Страх Господен ще рече да мразиш злото; гордост и високомерие, лош
+        път и коварни уста мразя.
+      pavskiy: "«Благоговение пред Иеговою не терпит зла;\r«Гордости, величавости и
+        порочнаго поведения, и губительных уст я не люблю."
+      deutsch: Die Furcht des Herrn haßt das Arge, die Hoffart, den Hochmut und bösen
+        Weg; und ich bin feind dem verkehrten Mund.
+      ukr2: Страх Господній то ненависть до зла. | Пиху та гордість, лиху поведінку |
+        й уста нещирі я ненавиджу
+      ukr3: Страх Господень - значить ненавидїти зло; гордощі, високомірність, зла
+        путь і двоязичні уста менї ненависні.
+      bel_syomukha: Страх Гасподні - ненавідзець зло; гонар і пыху і ліхія шляхі і
+        падступныя вусны я ненавіджу.
+      Porfiriy: "Страх Господень ненавидит неправду, и обиду и гордость, и пути
+        лукавнующих: возненавидела и я кривые пути худых."
+      lev-khv: "Бояться Господа ненавидеть зло: я ненавижу гордость, высокомерие, злой
+        образ действий и коварныя уста!"
+      czech: Bazen pred Hospodinem znamena nenavidet zlo; nenavidim povysenost, pychu,
+        cestu zlou, proradna usta.
+      spanish: Temer a Dios es aborrecer el mal. La soberbia, la arrogancia, el mal
+        camino, la boca perversa, la detesto.
+      greek-lxx: φόβος Κυρίου μισεῖ ἀδικίαν ὕβριν τε καὶ ὑπερηφανίαν καὶ ὁδοὺς πονηρῶν
+        μεμίσηκα δὲ ἐγὼ διεστραμμένας ὁδοὺς κακῶν
+      st_text: Страх Господень - ненавидеть зло; гордость и высокомерие и злой путь и
+        коварные уста я ненавижу.
+  - id: 30218
+    number: 14
+    bookId: 23
+    text: У меня совет и правда; я разум, у меня сила.
+    chapter: 8
+    chapterId: 677
+    parallels:
+      - verseId: 12706
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 2
+        short: Дан:2:21
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Мой совет и утверждение, мой разум, моя же крепость.
+      averincev: ""
+      ungerov: У меня совет и крепость, у меня разум, у меня и сила.
+      csya_old: Мо1й совётъ и3 ўтвержде1ніе, мо1й рaзумъ, моs же крёпость.
+      sovr_rbo: У меня — совет, у меня — успех, я — разум, и со мною сила.
+      latin: Meum est consilium et aequitas; mea est prudentia, mea est fortitudo.
+      ukr: В мене рада й оглядність, я розум, і сила у мене.
+      nkjv: Counsel is mine, and sound wisdom; I am understanding, I have strength.
+      desnitsky: ""
+      mt: ‫    לִי־עֵצָה וְתוּשִׁיָּה אֲנִי בִינָה לִי גְבוּרָה׃ ‬
+      romana: Al meu este sfatul si buna-chibzuiala, eu sunt priceperea, a mea este
+        puterea.
+      francais: Le conseil et le succès m'appartiennent; Je suis l'intelligence, la
+        force est à moi.
+      italian: A me appartiene il consiglio e il buon senso, io sono l'intelligenza, a
+        me appartiene la potenza.
+      old_georgian: ჩემი არს ზრახვაჲ, ჩემი არს კრძალულებაჲ, ჩემი არს გონიერებაჲ, ჩემი
+        არს ძალი.
+      portuguese: Meu é o conselho, e a verdadeira sabedoria; eu sou o entendimento;
+        minha é a fortaleza.
+      polish: Moja jest rada i stałość, moja - rozwaga, potęga.
+      turkish: "Öğüt ve sağlam karar bana özgüdür.\rAkıl ve güç kaynağı benim."
+      nrt: Добрый совет и жизненная мудрость – мои; у меня и разум, и сила.
+      Macarius: У Меня совет и основательность; Я ум; у Меня сила.
+      serbian: Мој је савјет и што год јест; ја сам разум и моја је сила.
+      bulgarian: Мои са решение и правда; аз съм разум, у мене е силата.
+      pavskiy: "«От меня благоразумные советы и верность суждения,\r«От меня разума
+        мужество."
+      deutsch: Mein ist beides, Rat und Tat; ich habe Verstand und Macht.
+      ukr2: У мене рада й помисл; | я - розум, у мене сила.
+      ukr3: В мене рада й правда, я - розум, у мене сила.
+      bel_syomukha: "У мяне рада і праўда: я розум, у мяне сіла."
+      Porfiriy: У меня — совет и безопасность; у меня ум, у меня же и сила.
+      lev-khv: От меня совет и благотстройство; я разум; от меня сила;
+      czech: U mne je rada i pohotova pomoc, jsem rozumnost, u mne je bohatyrska sila.
+      spanish: Mío es el consejo y la habilidad; mía la inteligencia, mía la fuerza.
+      greek-lxx: ἐμὴ βουλὴ καὶ ἀσφάλεια ἐμὴ φρόνησις ἐμὴ δὲ ἰσχύς
+      st_text: У меня совет и правда; я разум, у меня сила.
+  - id: 30219
+    number: 15
+    bookId: 23
+    text: Мною цари царствуют и повелители узаконяют правду;
+    chapter: 8
+    chapterId: 677
+    parallels:
+      - verseId: 11013
+        bookId: 1
+        bookCode: bytie
+        chapter: 49
+        short: Быт:49:10
+      - verseId: 12706
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 2
+        short: Дан:2:21
+      - verseId: 32902
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 13
+        short: Рим:13:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Мною царие царствуют, и сильнии пишут правду:"
+      averincev: ""
+      ungerov: Мною цари царствуют и владыки пишут правду.
+      csya_old: "Мно1ю цaріе цaрствуютъ, и3 си1льніи пи1шутъ прaвду:"
+      sovr_rbo: Мною царствуют цари и властители устанавливают справедливость,
+      latin: Per me reges regnant, et legum conditores justa decernunt;
+      ukr: Мною царюють царі, а законодавці права справедливі встановлюють.
+      nkjv: By me kings reign, And rulers decree justice.
+      desnitsky: ""
+      mt: ‫    בִּי מְלָכִים יִמְלֹכוּ וְרוֹזְנִים יְחֹקְקוּ צֶדֶק׃ ‬
+      romana: Prin mine imparatesc imparatii si principii randuiesc dreptatea.
+      francais: Par moi les rois règnent, Et les princes ordonnent ce qui est juste;
+      italian: Per mezzo mio regnano i re e i magistrati emettono giusti decreti;
+      old_georgian: ჩემ მიერ მეფენი მეფობენ და ძლიერნი წერენ სიმართლესა.
+      portuguese: Por mim reinam os reis, e os príncipes decretam o que justo.
+      polish: Dzięki mnie królowie panują, słusznie wyrokują urzędnicy.
+      turkish: Krallar sayemde egemenlik sürer, Hükümdarlar adil kurallar koyar.
+      nrt: Мною правят цари, и правители пишут справедливые законы;
+      Macarius: Мною цари царствуют; и государи начертывают правду.
+      serbian: Мном цареви царују, и владаоци постављају правду.
+      bulgarian: Чрез мене царе царуват, и заповедници правда узаконяват;
+      pavskiy: "«Мною царствуют цари,\r«И государи начертывают закон."
+      deutsch: Durch mich regieren die Könige und setzen die Ratsherren das Recht.
+      ukr2: Мною царі царюють | і князі встановляють право.
+      ukr3: Мною й царі царюють і праводавцї встановляють справедливість;
+      bel_syomukha: Мною цары валадараць, і праўнікі ўзаконьваюць праўду.
+      Porfiriy: Мною цари царствуют, и властители начертывают правду.
+      lev-khv: Мною царствуют цари, и повелители издают законы правды;
+      czech: Skrze mne kraluji kralove a vydavaji spravedliva narizeni vladci,
+      spanish: Por mí reinan los reyes y los príncipes decretan lo justo.
+      greek-lxx: δι᾿ ἐμοῦ βασιλεῖς βασιλεύουσιν καὶ οἱ δυνάσται γράφουσιν δικαιοσύνην
+      st_text: Мною цари царствуют и повелители узаконяют правду;
+  - id: 30220
+    number: 16
+    bookId: 23
+    text: мною начальствуют начальники и вельможи и все судьи земли.
+    chapter: 8
+    chapterId: 677
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: мною вельможи величаются, и властитилие мною держат землю.
+      averincev: ""
+      ungerov: Мною вельможи величаются и мною властелины управляют землею.
+      csya_old: мно1ю вельмHжи величaютсz, и3 власти1теліе мно1ю держaтъ зе1млю.
+      sovr_rbo: мною вершат правление вожди, князья и все судьи земли.
+      latin: per me principes imperant, et potentes decernunt justitiam.
+      ukr: Мною правлять владики й вельможні, всі праведні судді.
+      nkjv: By me princes rule, and nobles, All the judges of the earth.
+      desnitsky: ""
+      mt: ‫    בִּי שָׂרִים יָשֹׂרוּ וּנְדִיבִים כָּל־שֹׁפְטֵי צֶדֶק׃ ‬
+      romana: Prin mine carmuiesc dregatorii si mai-marii sunt judecatorii pamantului.
+      francais: Par moi gouvernent les chefs, Les grands, tous les juges de la terre.
+      italian: per mezzo mio i capi comandano e i grandi governano con giustizia.
+      old_georgian: ჩემ მიერ დიდ-დიდნი განდიდნებიან და მძლავრნი ჩემ მიერ იპყრობენ ქუეყანასა.
+      portuguese: Por mim governam os príncipes e os nobres, sim, todos os juízes da terra.
+      polish: Dzięki mnie rządzą władcy i wielmoże - rządcy prawowierni.
+      turkish: Önderler, adaletle yöneten soylular Sayemde yönetirler.
+      nrt: мною управляют князья, и вельможи, и все справедливые судьи.
+      Macarius: Мною князи княжат и благородные, все судии земли.
+      serbian: Мном владају кнезови и поглавари и све судије земаљске.
+      bulgarian: чрез мене началствуват началници и велможи, и всички съдии земни.
+      pavskiy: "«Мною княжат князья,\r«И властвуют все владыки земли."
+      deutsch: Durch mich herrschen die Fürsten und alle Regenten auf Erden.
+      ukr2: Мною старшини правлять, | вельможі судять усю землю.
+      ukr3: Мною правлять князї й вельможні, та всї суддї землї.
+      bel_syomukha: Мною кіруюць уладыкі і вяльможы, і ўсе судзьдзі праведныя.
+      Porfiriy: Мною вельможи — велики, и властители владеют землею.
+      lev-khv: Мною начальствуют правители, и вельможи, и все судьи земли.
+      czech: skrze mne veli velitele a vsichni urozeni soudi spravedlive.
+      spanish: Por mí mandan los jefes y los nobles juzgan la tierra.
+      greek-lxx: δι᾿ ἐμοῦ μεγιστᾶνες μεγαλύνονται καὶ τύραννοι δι᾿ ἐμοῦ κρατοῦσι γῆς
+      st_text: мною начальствуют начальники и вельможи и все судьи земли.
+  - id: 30221
+    number: 17
+    bookId: 23
+    text: Любящих меня я люблю, и ищущие меня найдут меня;
+    chapter: 8
+    chapterId: 677
+    parallels:
+      - verseId: 29254
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 6
+        short: Прем:6:12
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Аз любящыя мя люблю, ищущии же мене обрящут благодать.
+      averincev: ""
+      ungerov: Любящих меня я люблю и ищущие меня найдут благодать.
+      csya_old: Ѓзъ лю1бzщыz мS люблю2, и4щущіи же мене2 њбрsщутъ блгdть.
+      sovr_rbo: Кто любит меня, того и я люблю, и кто ищет меня — найдет.
+      latin: Ego diligentes me diligo, et qui mane vigilant ad me, invenient me.
+      ukr: Я кохаю всіх тих, хто кохає мене, хто ж шукає мене мене знайде!
+      nkjv: I love those who love me, And those who seek me diligently will find me.
+      desnitsky: ""
+      mt: ‫    אֲנִי *אהביה **אֹהֲבַי אֵהָב וּמְשַׁחֲרַי יִמְצָאֻנְנִי׃ ‬
+      romana: Eu iubesc pe cei ce ma iubesc si cei ce ma cauta ma gasesc.
+      francais: J'aime ceux qui m'aiment, Et ceux qui me cherchent me trouvent.
+      italian: Io amo coloro che mi amano e quelli che mi cercano mi troveranno.
+      old_georgian: და მე მოყუარენი ჩემნი მიყუარან და, რომელნი მეძიებენ, მე მპოონ.
+      portuguese: Eu amo aos que me amam, e os que diligentemente me buscam me acharão.
+      polish: Tych kocham, którzy mnie kochają, znajdzie mnie ten, kto mnie szuka.
+      turkish: Beni sevenleri ben de severim, Gayretle arayan beni bulur.
+      nrt: Тех, кто любит меня, я люблю; те, кто ищет меня, меня найдут.
+      Macarius: Любящих Меня Я люблю; и усердно ищущие Меня найдут меня.
+      serbian: Ја љубим оне који мене љубе, и који ме добро траже налазе ме.
+      bulgarian: Обичам, които мене обичат, и които ме търсят, ще ме намерят;
+      pavskiy: "«Любящих меня я люблю,\r«И ищущие меня найдут меня."
+      deutsch: Ich liebe, die mich lieben; und die mich frühe suchen, finden mich.
+      ukr2: Я люблю тих, які мене люблять; | хто шукає мене пильно, той знаходить.
+      ukr3: Люблю я тих, що мене люблять, і хто мене шукає, той знайде мене.
+      bel_syomukha: Хто любіць мяне, тых я люблю, і хто шукае мяне, знойдуць мяне;
+      Porfiriy: "Я любящих меня люблю: и ищущие меня найдут меня."
+      lev-khv: Я люблю любящих меня, и кто ищет меня, тот найдет меня.
+      czech: Ja miluji ty, kdo miluji mne, a kdo me za usvitu hledaji, naleznou mne.
+      spanish: Amo a los que me aman, y el que me busca me hallará.
+      greek-lxx: ἐγὼ τοὺς ἐμὲ φιλοῦντας ἀγαπῶ οἱ δὲ ἐμὲ ζητοῦντες εὑρήσουσιν
+      st_text: Любящих меня я люблю, и ищущие меня найдут меня;
+  - id: 30222
+    number: 18
+    bookId: 23
+    text: богатство и слава у меня, сокровище непогибающее и правда;
+    chapter: 8
+    chapterId: 677
+    parallels:
+      - verseId: 30007
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 3
+        short: Притч:3:16
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Богатство и слава моя есть, и стяжание многих и правда.
+      averincev: ""
+      ungerov: Мне принадлежит богатство и слава, великое имущество и правда;
+      csya_old: Богaтство и3 слaва моS є4сть, и3 стzжaніе мно1гихъ и3 прaвда.
+      sovr_rbo: Богатство и слава — со мною, нескончаемое процветание и правда.
+      latin: Mecum sunt divitiae et gloria, opes superbae et justitia.
+      ukr: "Зо мною багатство та слава, тривалий маєток та правда:"
+      nkjv: Riches and honor are with me, Enduring riches and righteousness.
+      desnitsky: ""
+      mt: ‫    עֹשֶׁר־וְכָבוֹד אִתִּי הוֹן עָתֵק וּצְדָקָה׃ ‬
+      romana: Cu mine este bogatia si marirea, averea vrednica de cinste si dreptatea.
+      francais: Avec moi sont la richesse et la gloire, Les biens durables et la justice.
+      italian: Presso di me c'è ricchezza e onore, sicuro benessere ed equità.
+      old_georgian: სიმდიდრე და დიდებაჲ ჩემი არს. და მონაგები მრავალი შეწირვად ჩემდა.
+      portuguese: Riquezas e honra estão comigo; sim, riquezas duráveis e justiça.
+      polish: Bogactwo jest ze mną i sława, wspaniałe dobra i prawość;
+      turkish: "Zenginlik ve onur,\rKalıcı değerler ve bolluk bendedir."
+      nrt: У меня богатство и слава, крепкий достаток и благоденствие.
+      Macarius: У Меня богатство и слава, имение древнее и праведное.
+      serbian: У мене је богатство и слава, постојано добро и правда.
+      bulgarian: у мене са богатство и слава, непогибно съкровище и правда;
+      pavskiy: "«У меня богатство и слава,\r«Имение прочное и верное."
+      deutsch: Reichtum und Ehre ist bei mir, währendes Gut und Gerechtigkeit.
+      ukr2: Багатство й слава в мене, | постійні блага й справедливість.
+      ukr3: І богацтво й слава в мене, всї блага неминущі й справедливість;
+      bel_syomukha: багацьце і слава са мною - скарб нятленны, і праўда;
+      Porfiriy: У меня существует богатство и слава, и стяжание древних родов и
+        справедливость.
+      lev-khv: Богатство и слава со мною, имение, постоянно пребывающее, и правда;
+      czech: Bohatstvi a cest jsou u mne, ustavicny dostatek i spravedlnost.
+      spanish: Conmigo están la riqueza y la gloria, sólida fortuna y justicia.
+      greek-lxx: πλοῦτος καὶ δόξα ἐμοὶ ὑπάρχει καὶ κτῆσις πολλῶν καὶ δικαιοσύνη
+      st_text: богатство и слава у меня, сокровище непогибающее и правда;
+  - id: 30223
+    number: 19
+    bookId: 23
+    text: плоды мои лучше золота, и золота самого чистого, и пользы от меня больше,
+      нежели от отборного серебра.
+    chapter: 8
+    chapterId: 677
+    parallels:
+      - verseId: 19355
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 28
+        short: Иов:28:17
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Лучше есть плодити мене, паче злата и камения драга: мои же плоды лучше
+        сребра избранна."
+      averincev: ""
+      ungerov: Пользоваться моими плодами — лучше золота и драгоценнаго камня, мои
+        плоды лучше очищеннаго серебра.
+      csya_old: "Лyчше є4сть плоди1ти мене2, пaче злaта и3 кaменіz дрaга: мои1 же
+        плоды2 лyчше сребрA и3збрaнна."
+      sovr_rbo: Лучше золота червонного мои плоды, я ценнее чистого серебра.
+      latin: Melior est enim fructus meus auro et lapide pretioso, et genimina me
+        argento electo.
+      ukr: ліпший плід мій від щирого золота й золота чистого, а прибуток мій ліпший
+        за срібло добірне!
+      nkjv: My fruit is better than gold, yes, than fine gold, And my revenue than
+        choice silver.
+      desnitsky: ""
+      mt: ‫    טוֹב פִּרְיִי מֵחָרוּץ וּמִפָּז וּתְבוּאָתִי מִכֶּסֶף נִבְחָר׃ ‬
+      romana: Rodul meu e mai bun decat aurul si decat aurul cel mai curat, si ceea ce
+        vine de la mine este mai de pret decat argintul lamurit.
+      francais: Mon fruit est meilleur que l'or, que l'or pur, Et mon produit est
+        préférable à l'argent.
+      italian: Il mio frutto val più dell'oro, dell'oro fino, il mio provento più
+        dell'argento scelto.
+      old_georgian: უმჯობეს არს უფროს ოქროსა და ანთრაკისა პატიოსნისა მრავლისა, ხოლო
+        სიტყუანი ჩემნი უფროს ოქროჲსა რჩეულისა.
+      portuguese: "Melhor é o meu fruto do que o ouro, sim, do que o ouro refinado; e
+        a minha renda melhor do que a prata\rescolhida."
+      polish: mój owoc cenniejszy niż złoto, a plony niż srebro najczystsze.
+      turkish: "Meyvem altından, saf altından,\rÜrünüm seçme gümüşten daha iyidir."
+      nrt: Мой плод лучше чистого, наилучшего золота, и даю я больше, чем отборное
+        серебро.
+      Macarius: Плод Мой лучше золота, и золота чистейшего, и выгоды от Меня более,
+        нежели от наилучшего серебра.
+      serbian: Плод је мој бољи од злата и од најбољега злата, и добитак је мој бољи
+        од најбољега сребра.
+      bulgarian: плодовете ми са по-добри от злато, и от най-чисто злато, и ползата от
+        мене е повече, нежели от отбор сребро.
+      pavskiy: "«Плод мой лучше золота, и золота чистейшаго,\r«И выгоды от меня более,
+        нежели от наилучшаго серебра."
+      deutsch: Meine Frucht ist besser denn Gold und feines Gold und mein Ertrag
+        besser denn auserlesenes Silber.
+      ukr2: Плоди мої ліпші від золота, від щирого золота; | прибуток мій - над срібло
+        добірне.
+      ukr3: Плоди мої лучші золота - золота найчистїйшого, а хісна з мене більше, як
+        із найдобірнїйшого срібла.
+      bel_syomukha: плады мае лепшыя за золата, і золата самага чыстага, і карысьці ад
+        мяне болей, чым ад чыстага срэбра.
+      Porfiriy: Лучше приобретать меня, нежели золото и драгоценный камень, и плоды
+        мои превосходнее отборнаго серебра.
+      lev-khv: Плоды мои лучше золота и золота самаго чистаго, и пользы от меня
+        больше, чем от отборнаго серебра.
+      czech: Me ovoce je lepsi nez ryzi a ciste zlato, ma uroda je nad vyborne
+        stribro.
+      spanish: Mi fruto es mejor que el oro puro; mi ganancia, mejor que la plata
+        acrisolada.
+      greek-lxx: βέλτιον ἐμὲ καρπίζεσθαι ὑπὲρ χρυσίον καὶ λίθον τίμιον τὰ δὲ ἐμὰ
+        γενήματα κρείσσω ἀργυρίου ἐκλεκτοῦ
+      st_text: плоды мои лучше золота, и золота самого чистого, и пользы от меня
+        больше, нежели от отборного серебра.
+  - id: 30224
+    number: 20
+    bookId: 23
+    text: Я хожу по пути правды, по стезям правосудия,
+    chapter: 8
+    chapterId: 677
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: В путех правды хожду и посреде стезь оправдания живу,
+      averincev: ""
+      ungerov: Я хожу по пути правды и среди путей правосудия пребываю,
+      csya_old: Въ путе1хъ прaвды хождY и3 посредЁ сте1зь њправдaніz живY,
+      sovr_rbo: Я ступаю по пути праведности, по стезям справедливости,
+      latin: In viis justitiae ambulo, in medio semitarum judicii,
+      ukr: Путтю праведною я ходжу, поміж правних стежок,
+      nkjv: I traverse the way of righteousness, In the midst of the paths of justice,
+      desnitsky: ""
+      mt: ‫    בְּאֹרַח־צְדָקָה אֲהַלֵּך‪‬ בְּתוֹךְ נְתִיבוֹת מִשְׁפָּט׃ ‬
+      romana: Merg pe calea dreptatii, in mijlocul cailor judecatii drepte,
+      francais: Je marche dans le chemin de la justice, Au milieu des sentiers de la
+        droiture,
+      italian: Io cammino sulla via della giustizia e per i sentieri dell'equità,
+      old_georgian: გზათა სიმართლისათა ვალ და შორის ალაგთა სიმართლისათა ვიქცევი,
+      portuguese: Ando pelo caminho da retidão, no meio das veredas da justiça,
+      polish: Drogą prawości ja kroczę, ścieżkami sprawiedliwości,
+      turkish: "Doğruluk yolunda,\rAdaletin izinden yürürüm."
+      nrt: Я хожу по стезе праведности, по тропам правосудия,
+      Macarius: Я хожу путем праведности, посреди стезей закона.
+      serbian: Путем праведнијем ходим, посред стаза правице,
+      bulgarian: Аз ходя по пътя на правдата, по пътеките на правосъдието,
+      pavskiy: "«Я хожу путем прямым,\r«Дорогами законными,"
+      deutsch: Ich wandle auf dem rechten Wege, auf der Straße des Rechts,
+      ukr2: Я ходжу путями правди, | стежками права,
+      ukr3: Я ходжу шляхами правди, правосуду стежками,
+      bel_syomukha: Я хаджу дарогаю праўды, сьцежкамі правасудзьдзя,
+      Porfiriy: "Я хожу по путям справедливости, и среди стезей закона обращаюсь:"
+      lev-khv: Я иду по пути правды, по стезям правосудия,
+      czech: Chodim stezkou spravedlnosti a pesinami prava,
+      spanish: Voy por las sendas de la justicia, por los senderos de la equidad.
+      greek-lxx: ἐν ὁδοῖς δικαιοσύνης περιπατῶ καὶ ἀνὰ μέσον τρίβων δικαιώματος
+        ἀναστρέφομαι
+      st_text: Я хожу по пути правды, по стезям правосудия,
+  - id: 30225
+    number: 21
+    bookId: 23
+    text: чтобы доставить любящим меня существенное благо, и сокровищницы их я
+      наполняю.
+    chapter: 8
+    chapterId: 677
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: да разделю любящым мя имение, и сокровища их исполню благих. Аще возвещу
+        вам бывающая на всяк день, помяну, яже от века, изчести.
+      averincev: ""
+      ungerov: Чтобы разделить любящим меня имущество и сокровищницы их наполнить
+        добром. Если я возвещаю вам бывающее ежедневно, не забуду исчислить и
+        того, что от века.
+      csya_old: да раздэлю2 лю1бzщымъ мS и3мёніе, и3 сокрHвища и4хъ и3спо1лню
+        благи1хъ. Ѓще возвэщY вaмъ быв†ющаz на всsкъ де1нь, помzнY, ±же t вёка,
+        и3счести2.
+      sovr_rbo: чтобы любящих меня наградить достойно и сокровищницы их наполнить.
+      latin: ut ditem diligentes me, et thesauros eorum repleam.
+      ukr: щоб дати багатство в спадщину для тих, хто кохає мене, і я понаповнюю їхні
+        скарбниці!
+      nkjv: That I may cause those who love me to inherit wealth, That I may fill
+        their treasuries.
+      desnitsky: ""
+      mt: ‫    לְהַנְחִיל אֹהֲבַי יֵשׁ וְאֹצְרֹתֵיהֶם אֲמַלֵּא׃ פ ‬
+      romana: Ca sa dau celor ce ma iubesc bogatii si sa le umplu camarile lor.
+      francais: Pour donner des biens à ceux qui m'aiment, Et pour remplir leurs trésors.
+      italian: per dotare di beni quanti mi amano e riempire i loro forzieri.
+      old_georgian: რათა განუყო მოყუარეთა ჩემთა ნაყოფი და საუნჯენი მათნი აღვავსნე კეთილითა.
+      portuguese: dotando de bens permanentes os que me amam, e enchendo os seus tesouros.
+      polish: by przyjaciół obsypać bogactwem i napełnić ich skarbce.
+      turkish: Böylelikle, beni sevenleri servet sahibi yapar, Hazinelerini doldururum.
+      nrt: одаряя достатком тех, кто любит меня, наполняя их сокровищницы.
+      Macarius: Есть чем наделить любящих Меня; и сокровищницы их наполню.
+      serbian: Да онима који ме љубе дам оно што јест, и ризнице њихове да напуним.
+      bulgarian: за да доставя на ония, които ме обичат, истинско добро, и техните
+        съкровищници аз пълня. (Кога възвестя онова, що става всекидневно, няма
+        да забравя да изброя онова, що е отвека.)
+      pavskiy: "«Доставляя любящим меня имущество\r«И паполняя кладовыя их."
+      deutsch: daß ich wohl versorge, die mich lieben, und ihre Schätze vollmache.
+      ukr2: щоб дати блага тим, які мене люблять, | щоб наповнились їхні скарбниці.
+      ukr3: Щоб подати тим, хто мене любить, справдешнє добро, й скарбівнї їх я
+        наповнюю.
+      bel_syomukha: каб даць тым, хто мяне любіць, спадчыну дабра, і скарбніцы іхнія я
+        напаўняю.
+      Porfiriy: Да имением наделю любящих меня, и сокровищницы их наполню благами.
+        Если возвещаю вам, что бывает ежедневно, то съумею исчислить вечное.
+      lev-khv: Чтобы любящим меня дать в наследство существенное благо, и наполню их
+        сокровищницы.
+      czech: abych dala dedictvi tem, kdo me miluji. Ja naplnim jejich pokladnice.
+      spanish: Para heredar ricamente a los que me aman y henchir sus tesoros.
+      greek-lxx: ἵνα μερίσω τοῖς ἐμὲ ἀγαπῶσιν ὕπαρξιν καὶ τοὺς θησαυροὺς αὐτῶν ἐμπλήσω
+        ἀγαθῶν [1] ἐὰν ἀναγγείλω ὑμῖν τὰ καθ᾿ ἡμέραν γινόμενα μνημονεύσω τὰ ἐξ
+        αἰῶνος ἀριθμῆσαι
+      st_text: чтобы доставить любящим меня существенное благо, и сокровищницы их я
+        наполняю.
+  - id: 30226
+    number: 22
+    bookId: 23
+    text: Господь имел меня началом пути Своего, прежде созданий Своих, искони;
+    chapter: 8
+    chapterId: 677
+    parallels:
+      - verseId: 29329
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 9
+        short: Прем:9:9
+      - verseId: 33316
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 1
+        short: Сир:1:4
+      - verseId: 33788
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 24
+        short: Сир:24:10
+      - verseId: 17886
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 1
+        short: Ин:1:1
+      - verseId: 22844
+        bookId: 69
+        bookCode: k-kolossanam-poslanie-ap-pavla
+        chapter: 1
+        short: Кол:1:15
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Господь созда мя (Евр.: стяжа мя) начало путий своих в дела своя,"
+      averincev: ""
+      ungerov: Господь соделал меня началом путей Своих для дел Своих.
+      csya_old: "ГDь создa мz [є3вр.: стzжa мz] начaло путjй свои1хъ въ дэлA сво‰,"
+      sovr_rbo: Господь сделал меня началом пути Своего, прежде всех Своих деяний,
+        издревле.
+      latin: Dominus possedit me in initio viarum suarum antequam quidquam faceret a
+        principio.
+      ukr: Господь мене мав на початку Своєї дороги, перше чинів Своїх, спервовіку,
+      nkjv: '"The Lord possessed me at the beginning of His way, Before His works of
+        old.'
+      desnitsky: ""
+      mt: ‫    יְהוָה קָנָנִי רֵאשִׁית דַּרְכּוֹ קֶדֶם מִפְעָלָיו מֵאָז׃ ‬
+      romana: Domnul m-a zidit la inceputul lucrarilor Lui; inainte de lucrarile Lui
+        cele mai de demult.
+      francais: L'Éternel m'a créée la première de ses oeuvres, Avant ses oeuvres les
+        plus anciennes.
+      italian: Il Signore mi ha creato all'inizio della sua attività, prima di ogni
+        sua opera, fin d'allora.
+      old_georgian: უფალმან დამამტკიცა მე დასაბამად გზათა მისთა. საქმეთა შინა მისთა
+        უწინარეს დასაბამისა დამამტკიცა მე,
+      portuguese: O Senhor me criou como a primeira das suas obras, o princípio dos
+        seus feitos mais antigos.
+      polish: Pan mnie stworzył, swe arcydzieło, jako początek swej mocy, od dawna,
+      turkish: RAB yaratma işine başladığında İlk beni yarattı,
+      nrt: Господь создал меня в начале Своих дел, прежде древнейших Своих деяний;
+      Macarius: Иегова имел Меня в начале пути Своего, прежде творений Своих, искони.
+      serbian: Господ ме је имао у почетку пута својега, прије дјела својих, прије
+        свакога времена.
+      bulgarian: Господ ме имаше за начало на Своя път, преди Своите създания, открай
+        време;
+      pavskiy: "«Иегова имел меня при начале Своего пути,\r«Прежде творений Своих,
+        искони."
+      deutsch: Der Herr hat mich gehabt im Anfang seiner Wege; ehe er etwas schuf, war
+        ich da.
+      ukr2: Господь створив мене почином путі своєї, | першою з його чинів
+        споконвічних.
+      ukr3: Господь мав мене перед розпочатком путей своїх, перш нїж що сотворив, з
+        правіків;
+      bel_syomukha: "Гасподзь меў мяне ад пачатку дарогі Сваёй, раней дзеяў Сваіх,
+        спрадвеку:"
+      Porfiriy: Господь поставил меня началом путей своих в делах своих.
+      lev-khv: Господь имел меня в начале пути Своего, прежде созданий Своих, издавна;
+      czech: Hospodin me vlastnil jako pocatek sve cesty, drive nez co konal odedavna.
+      spanish: Yavé me poseyó al principio de sus caminos, antes de sus obras, desde
+        antiguo.
+      greek-lxx: Κύριος ἔκτισέν με ἀρχὴν ὁδῶν αὐτοῦ εἰς ἔργα αὐτοῦ
+      st_text: Господь имел меня началом пути Своего, прежде созданий Своих, искони;
+  - id: 30227
+    number: 23
+    bookId: 23
+    text: от века я помазана, от начала, прежде бытия земли.
+    chapter: 8
+    chapterId: 677
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: прежде век основа мя, в начале, прежде неже землю сотворити,
+      averincev: ""
+      ungerov: "Прежде век Он основал меня: в начале, прежде нежели сотворил землю,"
+      csya_old: пре1жде вBкъ њсновa мz, въ начaлэ, пре1жде не1же зе1млю сотвори1ти,
+      sovr_rbo: Я возникла от начала времен, издревле, при основании мира.
+      latin: Ab aeterno ordinata sum, et ex antiquis antequam terra fieret.
+      ukr: відвіку була я встановлена, від початку, від правіку землі.
+      nkjv: I have been established from everlasting, From the beginning, before there
+        was ever an earth.
+      desnitsky: ""
+      mt: ‫    מֵעוֹלָם נִסַּכְתִּי מֵרֹאשׁ מִקַּדְמֵי־אָרֶץ׃ ‬
+      romana: Eu am fost din veac intemeiata de la inceput, inainte de a se fi facut
+        pamantul.
+      francais: J'ai été établie depuis l'éternité, Dès le commencement, avant
+        l'origine de la terre.
+      italian: Dall'eternità sono stata costituita, fin dal principio, dagli inizi
+        della terra.
+      old_georgian: დასაბამსა უწინარეს ქუეყანისა შესაქმისა,
+      portuguese: Desde a eternidade fui constituída, desde o princípio, antes de
+        existir a terra.
+      polish: od wieków jestem stworzona, od początku, nim ziemia powstała.
+      turkish: "Dünya var olmadan önce,\rTa başlangıçta, öncesizlikte yerimi aldım."
+      nrt: я от века была назначена, изначально, прежде начала мира.
+      Macarius: Прежде веков Я помазана, в начале, прежде зачатия земли.
+      serbian: Прије вијекова постављена сам, прије почетка, прије постања земље.
+      bulgarian: отвека съм помазана, отначало, преди да бъде създадена земята.
+      pavskiy: "До бытия мира я помазана,\r«В начале, прежде земли."
+      deutsch: Ich bin eingesetzt von Ewigkeit, von Anfang, vor der Erde.
+      ukr2: Я настановлена була від віку, | від початку, раніше, ніж; земля постала;
+      ukr3: Од вічностї мене він помазав, від почину, перед настаннєм землї.
+      bel_syomukha: адвеку была я памазаная, ад пачатку, ад правеку зямлі.
+      Porfiriy: Предвечно основал меня, в начале, прежде сотворения земли,
+      lev-khv: От века помазал меня, от начала, прежде бытия земли.
+      czech: Od veku jsem ustanovena, od pocatku, od praveku zeme.
+      spanish: Desde la eternidad fui yo establecida; desde los orígenes, antes que la
+        tierra fuese.
+      greek-lxx: πρὸ τοῦ αἰῶνος ἐθεμελίωσέν με ἐν ἀρχῇ
+      st_text: от века я помазана, от начала, прежде бытия земли.
+  - id: 30228
+    number: 24
+    bookId: 23
+    text: Я родилась, когда еще не существовали бездны, когда еще не было
+      источников, обильных водою.
+    chapter: 8
+    chapterId: 677
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и прежде неже бездны соделати, прежде неже произыти источником вод,
+      averincev: ""
+      ungerov: Прежде нежели сотворил бездны и прежде нежели произошли источники вод,
+      csya_old: и3 пре1жде не1же бє1здны содёлати, пре1жде не1же произы1ти
+        и3сто1чникwмъ во1дъ,
+      sovr_rbo: Прежде первозданной бездны и источников вод я появилась;
+      latin: Nondum erant abyssi, et ego jam concepta eram, necdum fontes aquarum
+        eruperant;
+      ukr: Народжена я, як безодень іще не було, коли не було ще джерел, водою
+        обтяжених.
+      nkjv: When there were no depths I was brought forth, When there were no
+        fountains abounding with water.
+      desnitsky: ""
+      mt: ‫    בְּאֵין־תְּהֹמוֹת חוֹלָלְתִּי בְּאֵין מַעְיָנוֹת נִכְבַּדֵּי־מָיִם׃ ‬
+      romana: Nu era adancul atunci cand am fost nascuta, nici chiar izvoare incarcate
+        cu apa.
+      francais: Je fus enfantée quand il n'y avait point d'abîmes, Point de sources
+        chargées d'eaux;
+      italian: Quando non esistevano gli abissi, io fui generata; quando ancora non vi
+        erano le sorgenti cariche d'acqua;
+      old_georgian: და უწინარეს უფსკრულთა ყოფისა, ვიდრე გამოსლვადმდე წყაროჲსა წყალთასა,
+      portuguese: Antes de haver abismos, fui gerada, e antes ainda de haver fontes
+        cheias d'água.
+      polish: Przed oceanem istnieć zaczęłam, przed źródłami pełnymi wody;
+      turkish: "Enginler yokken,\rSuları bol pınarlar yokken doğdum ben."
+      nrt: Я была рождена до существования океанов, до появления источников,
+        изобилующих водой;
+      Macarius: Я родилась, когда еще не было бездн, когда еще не было источников,
+        обильных водою.
+      serbian: Кад још не бијаше бездана, родила сам се, кад још не бијаше извора
+        обилатијех водом.
+      bulgarian: Аз съм се родила, когато още нямаше бездни, когато още нямаше извори,
+        изобилни с вода.
+      pavskiy: "«Я родилась, когда еще не было бездн,\r«Когда еще не было источников,
+        обильных водою."
+      deutsch: Da die Tiefen noch nicht waren, da war ich schon geboren, da die
+        Brunnen noch nicht mit Wasser quollen.
+      ukr2: коли не було ще безодень, я народилась, | коли не було ще джерел
+        багатоводних.
+      ukr3: Я родилась, як ще не було безодень, як ще нїде джерела водою не дзюрчали.
+      bel_syomukha: Я нарадзілася, калі ня было яшчэ бездані, калі яшчэ ня было
+        крыніц, багатых вадою.
+      Porfiriy: И до произведения бездн, до происхождения источников водных,
+      lev-khv: Я родилась, когда не существовали бездны, когда не было источников,
+        изобилующих водою;
+      czech: Jeste nebyly propastne tune, kdyz jsem se zrodila, jeste nebyly prameny
+        vodami obtezkany.
+      spanish: Antes que los abismos fui engendrada yo; antes que fuesen las fuentes
+        de abundantes aguas.
+      greek-lxx: πρὸ τοῦ τὴν γῆν ποιῆσαι καὶ πρὸ τοῦ τὰς ἀβύσσους ποιῆσαι πρὸ τοῦ
+        προελθεῖν τὰς πηγὰς τῶν ὑδάτων
+      st_text: Я родилась, когда еще не существовали бездны, когда еще не было
+        источников, обильных водою.
+  - id: 30229
+    number: 25
+    bookId: 23
+    text: Я родилась прежде, нежели водружены были горы, прежде холмов,
+    chapter: 8
+    chapterId: 677
+    parallels:
+      - verseId: 19031
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 15
+        short: Иов:15:7
+      - verseId: 32619
+        bookId: 22
+        bookCode: psaltir
+        chapter: 89
+        short: Пс:89:3
+      - verseId: 30549
+        bookId: 22
+        bookCode: psaltir
+        chapter: 109
+        short: Пс:109:3
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: прежде неже горам водрузитися, прежде же всех холмов раждает мя.
+      averincev: ""
+      ungerov: Прежде нежели были водружены горы, прежде всех холмов Он рождает меня.
+      csya_old: пре1жде не1же горaмъ водрузи1тисz, пре1жде же всёхъ холмHвъ раждaетъ мS.
+      sovr_rbo: еще не были воздвигнуты горы и холмы, когда я возникла,
+      latin: "necdum montes gravi mole constiterant: ante colles ego parturiebar."
+      ukr: Народжена я, поки гори поставлені ще не були, давніше за пагірки,
+      nkjv: Before the mountains were settled, Before the hills, I was brought forth;
+      desnitsky: ""
+      mt: ‫    בְּטֶרֶם הָרִים הָטְבָּעוּ לִפְנֵי גְבָעוֹת חוֹלָלְתִּי׃ ‬
+      romana: Inainte de a fi fost intemeiati muntii si inaintea vailor eu am luat
+        fiinta.
+      francais: Avant que les montagnes soient affermies, Avant que les collines
+        existent, je fus enfantée;
+      italian: prima che fossero fissate le basi dei monti, prima delle colline, io
+        sono stata generata.
+      old_georgian: ვიდრე მთათა დაფუძნებადმდე, უწინარეს ყოველთა ბორცუთა მშვა მე.
+      portuguese: Antes que os montes fossem firmados, antes dos outeiros eu nasci,
+      polish: zanim góry zostały założone, przed pagórkami zaczęłam istnieć;
+      turkish: ""
+      nrt: прежде чем горы были возведены, прежде холмов я была рождена,
+      Macarius: Прежде, нежели горы водружены, до холмов Я родилась,
+      serbian: Прије него се горе основаше, прије хумова ја сам се родила;
+      bulgarian: Аз съм се родила преди планините да са били поставени, преди хълмовете,
+      pavskiy: "«Прежде нежели водружены горы,\r«До холмов, я родилась,"
+      deutsch: Ehe denn die Berge eingesenkt waren, vor den Hügeln war ich geboren,
+      ukr2: Перед тим, як були засновані гори, | раніше від пагорбів я народилась;
+      ukr3: Родилась, як ще з землї не воздвиглись гори, перше нїж горби постали;
+      bel_syomukha: Я нарадзілася перш, чым былі пастаўлены горы, раней за пагоркі,
+      Porfiriy: До водружения гор, и прежде всех холмов раждает Он меня.
+      lev-khv: Я родилась прежде, нежели водружены были горы, прежде холмов,
+      czech: Kdyz jeste byly hory ponoreny, pred pahorky jsem se narodila.
+      spanish: Antes que los montes fuesen cimentados, antes que los collados fui yo
+        concebida.
+      greek-lxx: πρὸ τοῦ ὄρη ἑδρασθῆναι πρὸ δὲ πάντων βουνῶν γεννᾷ με
+      st_text: Я родилась прежде, нежели водружены были горы, прежде холмов,
+  - id: 30230
+    number: 26
+    bookId: 23
+    text: когда еще Он не сотворил ни земли, ни полей, ни начальных пылинок
+      вселенной.
+    chapter: 8
+    chapterId: 677
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Господь сотвори страны и ненаселенныя, и концы населенныя поднебесныя.
+      averincev: ""
+      ungerov: Господь сотворил страны и необитаемыя места и пределы обитаемые в
+        поднебесной.
+      csya_old: ГDь сотвори2 страны6 и3 ненаселє1нныz, и3 концы6 населє1нныz
+        поднебе1сныz.
+      sovr_rbo: еще не создал Он тогда земных просторов и первой горсти земного праха!
+      latin: Adhuc terram non fecerat, et flumina, et cardines orbis terrae.
+      ukr: коли ще землі не вчинив Він, ні піль, ні початкового пороху всесвіту.
+      nkjv: While as yet He had not made the earth or the fields, Or the primeval dust
+        of the world.
+      desnitsky: ""
+      mt: ‫    עַד־לֹא עָשָׂה אֶרֶץ וְחוּצוֹת וְרֹאשׁ עָפְרוֹת‪‬ תֵּבֵל׃ ‬
+      romana: Cand inca nu era facut pamantul, nici campiile, nici cel dintai fir de
+        praf din lume,
+      francais: Il n'avait encore fait ni la terre, ni les campagnes, Ni le premier
+        atome de la poussière du monde.
+      italian: Quando ancora non aveva fatto la terra e i campi, né le prime zolle del
+        mondo;
+      old_georgian: უფალმან შექმნა სოფელი და უბენი და კიდენი სოფლისანი და რომელნი
+        არიან ცასა ქუეშე,
+      portuguese: quando ele ainda não tinha feito a terra com seus campos, nem sequer
+        o princípio do pó do mundo.
+      polish: nim ziemię i pola uczynił - początek pyłu na ziemi.
+      turkish: "Dağlar daha oluşmadan,\rTepeler belirmeden,\rRAB dünyayı, kırları\rVe
+        dünyadaki toprağın zerresini yaratmadan doğdum."
+      nrt: когда Он не создал еще ни земли, ни полей, ни первых пылинок мира.
+      Macarius: Когда еще Он не творил земли и полей, и первых песчинок вселенной.
+      serbian: Још не бјеше начинио земље ни поља ни почетка праху васeљенском;
+      bulgarian: когато Господ още не беше сътворил ни земя, ни поля, нито първите
+        прашинки на вселената.
+      pavskiy: "«Когда еще Он не творил земли и полей,\r«И первых песчинок вселенной."
+      deutsch: da er die Erde noch nicht gemacht hatte und was darauf ist, noch die
+        Berge des Erdbodens.
+      ukr2: тоді, як він не створив був ще ні землі, ні степу, | ні первнів пилу
+        світового.
+      ukr3: Як іще він не сотворив нї землї, нї степу, нї грудок тих, що з них
+        злїпивсь круг земний.
+      bel_syomukha: калі яшчэ Ён не стварыў ні зямлі, ні палёў, ні пачатковых пылінак
+        сусьвету.
+      Porfiriy: Господь сотворил ненаселенныя страны, и обитаемыя окраины всей
+        поднебесной.
+      lev-khv: Когда еще не была сотворена земля, ни равнины, ни начальныя пылинки
+        земли.
+      czech: Jeste nez ucinil zemi a vsechno kolem a prvni hroudy pevniny,
+      spanish: Antes que hiciese la tierra, ni los campos, ni el polvo primero de la
+        tierra.
+      greek-lxx: Κύριος ἐποίησεν χώρας καὶ ἀοικήτους καὶ ἄκρα οἰκούμενα τῆς ὑπ᾿ οὐρανόν
+      st_text: когда еще Он не сотворил ни земли, ни полей, ни начальных пылинок
+        вселенной.
+  - id: 30231
+    number: 27
+    bookId: 23
+    text: Когда Он уготовлял небеса, [<i>я была</i>] там. Когда Он проводил круговую
+      черту по лицу бездны,
+    chapter: 8
+    chapterId: 677
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Егда готовяше небо, с ним бех, и егда отлучаше престол свой на ветрех,
+      averincev: ""
+      ungerov: Когда Он уготовлял небо, я была с Ним, и когда помещал престол Свой на
+        ветрах,
+      csya_old: є3гдA гото1вzше не1бо, съ ни1мъ бёхъ, и3 є3гдA tлучaше пrто1лъ сво1й
+        на вётрэхъ,
+      sovr_rbo: Когда Он утверждал небеса — я там была, когда чертил круг на
+        поверхности бездны,
+      latin: Quando praeparabat caelos, aderam; quando certa lege et gyro vallabat
+        abyssos;
+      ukr: Коли приправляв небеса я була там, коли круга вставляв на поверхні безодні,
+      nkjv: When He prepared the heavens, I was there, When He drew a circle on the
+        face of the deep,
+      desnitsky: ""
+      mt: ‫    בַּהֲכִינוֹ שָׁמַיִם שָׁם אָנִי בְּחוּקוֹ חוּג עַל־פְּנֵי תְהוֹם׃ ‬
+      romana: Cand El a intemeiat cerurile eu eram acolo; cand El a tras bolta cerului
+        peste fata adancului,
+      francais: Lorsqu'il disposa les cieux, j'étais là; Lorsqu'il traça un cercle à
+        la surface de l'abîme,
+      italian: quando egli fissava i cieli, io ero là; quando tracciava un cerchio
+        sull'abisso;
+      old_georgian: რაჟამს განჰმზადებდა ცათა, მე მის თანა ვიყავ, და ოდეს განაჩინებდა
+        საყდართა თჳსთა ქართა ზედა.
+      portuguese: Quando ele preparava os céus, aí estava eu; quando traçava um
+        círculo sobre a face do abismo,
+      polish: "Gdy niebo umacniał, z Nim byłam, gdy kreślił sklepienie nad
+        bezmiarem\rwód,"
+      turkish: "RAB gökleri yerine koyduğunda oradaydım,\rEngin denizleri ufukla
+        çevirdiğinde,"
+      nrt: Я была там, когда небеса воздвигал Он, когда начертал горизонт над
+        поверхностью бездны,
+      Macarius: Когда Он ставил небо, там Я; когда Он по лицу бездны провел круговую
+        черту;
+      serbian: Кад је уређивао небеса, ондје бијах; кад је размјеравао круг над
+        безданом.
+      bulgarian: Когато Той приготвяше небесата, аз бях там. Когато прокарваше
+        кръговата черта по лицето на бездната,
+      pavskiy: "«Когда Он ставил небо, тогда я была;\r«Когда Он на лице бездны провел
+        круговую черту,"
+      deutsch: Da er die Himmel bereitete, war ich daselbst, da er die Tiefe mit
+        seinem Ziel faßte.
+      ukr2: Як він укріпляв небо, я там була; | як він рисував круг поверх безодні,
+      ukr3: Як розпростирав він небо, була я там. Як він закруглював кружало безоднї,
+      bel_syomukha: Ён рыхтаваў нябёсы, я была там. Калі ён крэсьліў скляпеньне над
+        паверхняю бездані,
+      Porfiriy: Когда Он приготовлял небо, тогда я была с Ним, и когда обособлял
+        престол свой на ветрах,
+      lev-khv: Когда Он утверждал небеса, я <i>была</i> там. Когда Он очертывал
+        границы на поверхности бездны;
+      czech: kdyz upevnoval nebesa, byla jsem pri tom, kdyz vymezoval obzor nad
+        propastnou tuni,
+      spanish: Cuando afirmó los cielos, allí estaba yo; cuando trazó un círculo sobre
+        la faz del abismo.
+      greek-lxx: ἡνίκα ἡτοίμαζεν τὸν οὐρανόν συμπαρήμην αὐτῷ καὶ ὅτε ἀφώριζεν τὸν
+        ἑαυτοῦ θρόνον ἐπ᾿ ἀνέμων
+      st_text: Когда Он уготовлял небеса, [<i>я была</i>] там. Когда Он проводил
+        круговую черту по лицу бездны,
+  - id: 30232
+    number: 28
+    bookId: 23
+    text: когда утверждал вверху облака, когда укреплял источники бездны,
+    chapter: 8
+    chapterId: 677
+    parallels:
+      - verseId: 19309
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 26
+        short: Иов:26:8
+      - verseId: 19625
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 36
+        short: Иов:36:29
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и егда крепки творяше вышния облаки, и егда тверды полагаше источники
+        поднебесныя,
+      averincev: ""
+      ungerov: И когда вверху устроял мощныя облака, и когда укреплял источники в
+        поднебесной,
+      csya_old: и3 є3гдA крBпки творsше вы6шніz њ1блаки, и3 є3гдA твє1рды полагaше
+        и3сто1чники поднебе1сныz,
+      sovr_rbo: когда Он водружал облака наверху, когда укреплял источники бездны,
+      latin: quando aethera firmabat sursum, et librabat fontes aquarum;
+      ukr: коли хмари уміцнював Він нагорі, як джерела безодні зміцняв,
+      nkjv: When He established the clouds above, When He strengthened the fountains
+        of the deep,
+      desnitsky: ""
+      mt: ‫    בְּאַמְּצוֹ שְׁחָקִים מִמָּעַל בַּעֲזוֹז עִינוֹת תְּהוֹם׃‪‬ ‬
+      romana: Cand a intarit norii sus si izvoarele adancului curgeau din belsug,
+      francais: Lorsqu'il fixa les nuages en haut, Et que les sources de l'abîme
+        jaillirent avec force,
+      italian: quando condensava le nubi in alto, quando fissava le sorgenti
+        dell'abisso;
+      old_georgian: და ოდეს განაძლიერებდა ზესკნელთა ღრუბელთა ზედა, ვითარ-იგი კრძალულად
+        დასდებდა წყაროთა ცასა ქუეშე,
+      portuguese: quando estabelecia o firmamento em cima, quando se firmavam as
+        fontes do abismo,
+      polish: gdy w górze utwierdzał obłoki, gdy źródła wielkiej otchłani umacniał,
+      turkish: "Bulutları oluşturduğunda,\rDenizin kaynaklarını güçlendirdiğinde,"
+      nrt: когда наверху утвердил облака и когда укреплял источники бездны;
+      Macarius: Когда Он утверждал облака вверху, когда укреплял источники бездны;
+      serbian: Кад је утврђивао облаке горе и кријепио изворе бездану;
+      bulgarian: когато утвърдяваше облаците горе, когато укрепяваше изворите на бездната,
+      pavskiy: "«Когда Он утверждал вверху облака,\r«Когда укреплял источники бездны,"
+      deutsch: Da er die Wolken droben festete, da er festigte die Brunnen der Tiefe,
+      ukr2: як він згущав угорі хмари, | як установляв бездонні джерела,
+      ukr3: Як хмари в горі згущав, як замикав джерела безоднї (надземної),
+      bel_syomukha: калі сталяваў наверсе аблокі, калі мацаваў крыніцы бездані,
+      Porfiriy: Когда укреплял вверху облака, и утверждал вóды под небом,
+      lev-khv: Когда Он утверждал облака на высоте; когда укреплял источники бездны;
+      czech: kdyz seshora zavesoval mracna, kdyz silily prameny propastne tune,
+      spanish: Cuando condensó las nubes en lo alto, cuando daba fuerza a las fuentes
+        del abismo.
+      greek-lxx: ἡνίκα ἰσχυρὰ ἐποίει τὰ ἄνω νέφη καὶ ὡς ἀσφαλεῖς ἐτίθει πηγὰς τῆς ὑπ᾿
+        οὐρανὸν
+      st_text: когда утверждал вверху облака, когда укреплял источники бездны,
+  - id: 30233
+    number: 29
+    bookId: 23
+    text: "когда давал морю устав, чтобы воды не переступали пределов его, когда
+      полагал основания земли:"
+    chapter: 8
+    chapterId: 677
+    parallels:
+      - verseId: 11127
+        bookId: 1
+        bookCode: bytie
+        chapter: 7
+        short: Быт:7:11
+      - verseId: 19311
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 26
+        short: Иов:26:10
+      - verseId: 19663
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 38
+        short: Иов:38:10
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и егда полагаше морю предел его, да воды не мимо идут уст его, и крепка
+        творяше основания земли, бех при нем устрояющи.
+      averincev: ""
+      ungerov: И когда назначил морю пределы его, чтобы воды не проходили мимо уст
+        его, и когда созидал твердыя основания земли, Я была при Нем
+        устроительницею;
+      csya_old: и3 є3гдA полагaше мо1рю предёлъ є3гw2, да во1ды не мимои1дутъ ќстъ
+        є3гw2, и3 крBпка творsше њснов†ніz земли2, бёхъ при не1мъ ўстроsющи.
+      sovr_rbo: когда Он полагал морю предел, которого не преступят воды, когда
+        устанавливал основания земли —
+      latin: "quando circumdabat mari terminum suum, et legem ponebat aquis, ne
+        transirent fines suos: quando appendebat fundamenta terrae;"
+      ukr: коли клав Він для моря устава його, щоб його берегів вода не переходила,
+        коли ставив основи землі,
+      nkjv: When He assigned to the sea its limit, So that the waters would not
+        transgress His command, When He marked out the foundations of the earth,
+      desnitsky: ""
+      mt: ‫    בְּשׂוּמוֹ לַיָּם חֻקּוֹ וּמַיִם לֹא יַעַבְרוּ־פִיו בְּחוּקוֹ מוֹסְדֵי
+        אָרֶץ׃ ‬
+      romana: Cand El a pus hotar marii, ca apele sa nu mai treaca peste tarmuri si
+        cand El a asezat temeliile pamantului,
+      francais: Lorsqu'il donna une limite à la mer, Pour que les eaux n'en
+        franchissent pas les bords, Lorsqu'il posa les fondements de la terre,
+      italian: quando stabiliva al mare i suoi limiti, sicché le acque non ne
+        oltrepassassero la spiaggia; quando disponeva le fondamenta della terra,
+      old_georgian: ოდეს-იგი დაუდვა ზღუასა წესი მისი, რათა არა გარდაჴდენ წყალნი ზედა
+        პირსა მისსა. და ოდეს დაამტკიცებდა საფუძველთა ქუეყანისათა,
+      portuguese: "quando ele fixava ao mar o seu termo, para que as águas não
+        traspassassem o seu mando, quando traçava os\rfundamentos da terra,"
+      polish: gdy morzu stawiał granice, by wody z brzegów nie wyszły, gdy kreślił
+        fundamenty pod ziemię.
+      turkish: "Sular buyruğundan öte geçmesinler diye Denize sınır
+        çizdiğinde,\rDünyanın temellerini pekiştirdiğinde,"
+      nrt: когда ставил Он морю рубеж, чтобы воды не преступали Его веления, и когда
+        размечал основания земли.
+      Macarius: "Когда Он полагал морю предел его, чтобы воды не преступали веления
+        Его; когда Он ставил основания земли:"
+      serbian: Кад је постављао мору међу и водама да не преступају заповијести
+        његове, кад је постављао темеље земљи.
+      bulgarian: когато даваше закон на морето, за да не преминават водите неговите
+        граници, когато полагаше основите на земята, -
+      pavskiy: "«Когда Он морю означал предел его,\r«И воды не стали преступать
+        веления Его,\r«Когда Он полагал основания земли:"
+      deutsch: "da er dem Meer das Ziel setzte und den Wassern, daß sie nicht
+        überschreiten seinen Befehl, da er den Grund der Erde legte:"
+      ukr2: як призначав край морю, | щоб води з його берегів не виступали, | як
+        закладав підвалини землі, -
+      ukr3: Як давав морю приказ, щоб води не переступали гряниць його, як він
+        підвалини землї закладав, -
+      bel_syomukha: "калі даваў мору статут, каб воды не заступалі межаў яго, калі
+        закладваў асновы зямлі:"
+      Porfiriy: Когда полагал морю предел его, так что вóды не перейдут за черту уст
+        его, и творил крепкия основы земли;
+      lev-khv: "Когда полагал для моря Свой закон, чтобы воды не переступали его
+        берегов; когда утверждал основания земли:"
+      czech: kdyz kladl mori jeho meze, aby vody nevystupovaly z brehu, kdyz vymezoval
+        zaklady zeme,
+      spanish: Cuando fijó sus términos al mar para que las aguas no traspasasen sus
+        linderos. Cuando echó los cimientos de la tierra.
+      greek-lxx: καὶ ἰσχυρὰ ἐποίει τὰ θεμέλια τῆς γῆς
+      st_text: "когда давал морю устав, чтобы воды не переступали пределов его, когда
+        полагал основания земли:"
+  - id: 30234
+    number: 30
+    bookId: 23
+    text: тогда я была при Нем художницею, и была радостью всякий день, веселясь
+      пред лицем Его во все время,
+    chapter: 8
+    chapterId: 677
+    parallels:
+      - verseId: 18513
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 5
+        short: Ин:5:20
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Аз бех, о нейже радовашеся, на всяк же день веселяхся пред лицем его на
+        всяко время,
+      averincev: ""
+      ungerov: Я была для Него радостию, ежедневно и во все время веселилась пред
+        лицем Его,
+      csya_old: Ѓзъ бёхъ, њ не1йже рaдовашесz, на всsкъ же де1нь веселsхсz пред8
+        лице1мъ є3гw2 на всsко вре1мz,
+      sovr_rbo: я была при Нем строительницей, была ежедневным ликованием, веселилась
+        пред Ним непрестанно —
+      latin: cum eo eram, cuncta componens. Et delectabar per singulos dies, ludens
+        coram eo omni tempore,
+      ukr: то я майстром у Нього була, і була я веселощами день-у-день, радіючи перед
+        обличчям Його кожночасно,
+      nkjv: Then I was beside Him as a master craftsman; And I was daily His delight,
+        Rejoicing always before Him,
+      desnitsky: ""
+      mt: ‫    וָאֶהְיֶה אֶצְלוֹ אָמוֹן וָאֶהְיֶה שַׁעֲשֻׁעִים יוֹם יוֹם מְשַׂחֶקֶת
+        לְפָנָיו בְּכָל־עֵת׃ ‬
+      romana: Atunci eu eram ca un copil mic alaturi de El, veselindu-ma in fiecare zi
+        si desfatandu-ma fara incetare in fata Lui;
+      francais: J'étais à l'oeuvre auprès de lui, Et je faisais tous les jours ses
+        délices, Jouant sans cesse en sa présence,
+      italian: allora io ero con lui come architetto ed ero la sua delizia ogni
+        giorno, dilettandomi davanti a lui in ogni istante;
+      old_georgian: ვიყავ მის თანა მომზავებელ, მე ვიყავ, რომლისა თანა უხაროდა უფალსა
+        და დღითი დღედ ვიხარებდი წინაშე პირსა მისსა ყოველსა ჟამსა.
+      portuguese: "então eu estava ao seu lado como arquiteto; e era cada dia as suas
+        delícias, alegrando-me perante ele em todo o\rtempo;"
+      polish: "Ja byłam przy Nim mistrzynią, rozkoszą Jego dzień po dniu, cały czas
+        igrając\rprzed Nim,"
+      turkish: "Baş mimar olarak O'nun yanındaydım.\rGün be gün sevinçle dolup
+        taştım,\rHuzurunda hep coştum."
+      nrt: Тогда я была при Нем как ремесленник; я была Его ежедневной радостью и
+        всегда ликовала пред Ним,
+      Macarius: Тогда Я была у Него помощницею, и утехою всякий день была, играя пред
+        лицом Его во все время,
+      serbian: Тада бијах код њега храњеница, бијах му милина сваки дан, и весељах се
+        пред њим свагда;
+      bulgarian: аз бях при Него художница, и бях радост всеки ден, веселейки се пред
+        лицето Му през всичкото време,
+      pavskiy: "«Тогда я была при Нем художницею,\r«И была всякий день радостию для
+        Него,\r«Веселилась пред лицем Его во все время."
+      deutsch: da war ich der Werkmeister bei ihm und hatte meine Lust täglich und
+        spielte vor ihm allezeit
+      ukr2: я була при ньому, при роботі, | я була його втіхою щоденно, | усміхалась
+        перед ним повсякчасно,
+      ukr3: Тодї була я при йому строїтелькою, й була його радістю день за днем,
+        веселячись перед ним увесь час,
+      bel_syomukha: тады я была пры Ім за майстра, і была кожны дзень радасьцю,
+        весялосьцю была перад абліччам Ягоным заўсёды,
+      Porfiriy: Тогда я была у Него, как лад. Была как утеха Его, и сама ежедневно
+        веселилась пред лицем Его во всякое время,
+      lev-khv: Тогда я была при Нем строительницею; я была каждый день веселием,
+        непрестанно радуясь пред лицем Его,
+      czech: byla jsem mu verne po boku, byla jsem jeho potesenim den ze dne a
+        radostne si pred nim hrala v kazdy cas.
+      spanish: Estaba yo con Él como arquitecto, siendo siempre su delicia,
+        solazándome ante Él en todo tiempo;
+      greek-lxx: ἤμην παρ᾿ αὐτῷ ἁρμόζουσα ἐγὼ ἤμην ᾗ προσέχαιρεν καθ᾿ ἡμέραν δὲ
+        εὐφραινόμην ἐν προσώπῳ αὐτοῦ ἐν παντὶ καιρῷ
+      st_text: тогда я была при Нем художницею, и была радостью всякий день, веселясь
+        пред лицем Его во все время,
+  - id: 30235
+    number: 31
+    bookId: 23
+    text: веселясь на земном кругу Его, и радость моя [<i>была</i>] с сынами
+      человеческими.
+    chapter: 8
+    chapterId: 677
+    parallels:
+      - verseId: 17895
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 1
+        short: Ин:1:10
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: егда веселяшеся вселенную совершив, и веселяшеся о сынех человеческих.
+      averincev: ""
+      ungerov: Как и Он веселился, окончив творение вселенной, и веселился о сынах
+        человеческих.
+      csya_old: є3гдA веселsшесz вселе1нную соверши1въ, и3 веселsшесz њ сынёхъ
+        человёческихъ.
+      sovr_rbo: веселилась о мире земном и ликовала о сынах человеческих.
+      latin: ludens in orbe terrarum; et deliciae meae esse cum filiis hominum.
+      ukr: радіючи на земнім крузі Його, а забава моя із синами людськими!
+      nkjv: Rejoicing in His inhabited world, And my delight was with the sons of men.
+      desnitsky: ""
+      mt: ‫    מְשַׂחֶקֶת בְּתֵבֵל אַרְצוֹ וְשַׁעֲשֻׁעַי אֶת־בְּנֵי אָדָם׃ פ ‬
+      romana: Dezmierdandu-ma pe rotundul pamantului Lui si gasindu-mi placerea
+        printre fiii oamenilor.
+      francais: Jouant sur le globe de sa terre, Et trouvant mon bonheur parmi les
+        fils de l'homme.
+      italian: dilettandomi sul globo terrestre, ponendo le mie delizie tra i figli
+        dell'uomo.
+      old_georgian: ოდეს იშვებდა ქუეყანისა განსრულებასა ზედა, შვებულ იქმნა ძე კაცისაცა.
+      portuguese: folgando no seu mundo habitável, e achando as minhas delícias com os
+        filhos dos homens.
+      polish: igrając na okręgu ziemi, znajdując radość przy synach ludzkich.
+      turkish: "O'nun dünyası mutluluğum,\rİnsanları sevincimdi."
+      nrt: ликовала в Его обитаемом мире и радовалась о роде людском.
+      Macarius: Играя по кругу земли Его, и веселие Мое с сынами человеческими.
+      serbian: Весељах се на васељени његовој, и милина ми је са синовима људским.
+      bulgarian: веселейки се на земния Негов кръг, и радостта ми беше със синовете
+        човешки.
+      pavskiy: "«Веселилась на населенной Им земле,\r«И радовалась с сынами
+        человеческими."
+      deutsch: und spielte auf seinem Erdboden, und meine Lust ist bei den
+        Menschenkindern.
+      ukr2: "гралась на його земному крузі, | моя бо втіха: бути; з людськими синами."
+      ukr3: Веселячись на земному крузї його, радість же моя була - дїти людські.
+      bel_syomukha: радуючыся на зямным коле Яго, і радасьць мая была з сынамі чалавечымі.
+      Porfiriy: Когда Он блаженствовал, окончив вселенную, и любовался сынами
+        человеческими.
+      lev-khv: Радуясь на обитаемой земле Его, и радость моя с сынами человеческими.
+      czech: Hraji si na jeho pevne zemi; mym potesenim je byt s lidskymi syny.
+      spanish: recreándome en el orbe de la tierra, siendo mis delicias los hijos de
+        los hombres.
+      greek-lxx: ὅτε εὐφραίνετο τὴν οἰκουμένην συντελέσας καὶ ἐνευφραίνετο ἐν υἱοῖς
+        ἀνθρώπων
+      st_text: веселясь на земном кругу Его, и радость моя [<i>была</i>] с сынами
+        человеческими.
+  - id: 30236
+    number: 32
+    bookId: 23
+    text: Итак, дети, послушайте меня; и блаженны те, которые хранят пути мои!
+    chapter: 8
+    chapterId: 677
+    parallels:
+      - verseId: 30668
+        bookId: 22
+        bookCode: psaltir
+        chapter: 118
+        short: Пс:118:1
+      - verseId: 30669
+        bookId: 22
+        bookCode: psaltir
+        chapter: 118
+        short: Пс:118:2
+      - verseId: 23932
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 11
+        short: Лк:11:28
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Ныне убо, сыне, послушай мене: и блажени, иже пути моя сохранят."
+      averincev: ""
+      ungerov: Итак ныне, сын мой, слушай меня; и блаженны те, которые сохранят пути
+        мои.
+      csya_old: "Нн7э ў2бо, сы1не, послyшай мене2: и3 блаже1ни, и5же пути6 мо‰
+        сохранsтъ."
+      sovr_rbo: "А теперь послушайте меня, дети: блажен, кто держится моих путей!"
+      latin: "Nunc ergo, filii, audite me: beati qui custodiunt vias meas."
+      ukr: Тепер же, послухайте, діти, мене, і блаженні, хто буде дороги мої стерегти!
+      nkjv: '"Now therefore, listen to me, my children, For blessed are those who keep
+        my ways.'
+      desnitsky: ""
+      mt: ‫    וְעַתָּה בָנִים שִׁמְעוּ־לִי וְאַשְׁרֵי דְּרָכַי יִשְׁמֹרוּ׃ ‬
+      romana: Si acum, fiilor, ascultati-ma! Fericiti sunt cei ce pazesc caile mele!
+      francais: Et maintenant, mes fils, écoutez-moi, Et heureux ceux qui observent
+        mes voies!
+      italian: "Ora, figli, ascoltatemi: beati quelli che seguono le mie vie!"
+      old_georgian: შვილო, ისმინე ჩემი და ნეტარ იყვნენ, რომელთა გზანი ჩემნი დაიცვნენ.
+      portuguese: Agora, pois, filhos, ouvi-me; porque felizes são os que guardam os
+        meus caminhos.
+      polish: Więc teraz, synowie, słuchajcie mnie, szczęśliwi, co dróg moich strzegą.
+      turkish: "Çocuklarım, şimdi beni dinleyin:\rYolumu izleyenlere ne mutlu!"
+      nrt: Итак, сыновья, послушайте меня; блаженны те, кто хранит мои пути.
+      Macarius: Итак, дети, послушайте Меня, и блаженны держащиеся путей Моих.
+      serbian: Тако дакле синови, послушајте ме, јер благо онима који се држе путова
+        мојих.
+      bulgarian: "И тъй, деца, послушайте ме: блажени са, които пазят моите пътища!"
+      pavskiy: "«И так, дети, послушайте меня,\r«И блажен, кто будет держаться путей
+        моих!"
+      deutsch: So gehorchet mir nun, meine Kinder. Wohl denen, die meine Wege halten!
+      ukr2: "Отож, тепер, діти мої, слухайте мене: | щасливі тії, що дороги мої
+        пильнують!"
+      ukr3: Проте ж, дїти, слухайте мене; й благословенні ті, хто стежок моїх пильнує.
+      bel_syomukha: Цяпер, дзеці, паслухайце мяне; і шчасныя тыя, што будуць ахоўваць
+        шляхі мае!
+      Porfiriy: Итак ныне послушай меня, сыне. И блаженны те, которые будут держаться
+        путей моих.
+      lev-khv: Теперь послушайте меня, дети, и блаженны хранящие пути мои;
+      czech: "Nyni tedy, synove, slyste me: Blaze tem, kdo dbaji na me cesty."
+      spanish: Oídme, pues, hijos míos; bienaventurado el que sigue mis caminos.
+      greek-lxx: νῦν οὖν υἱέ ἄκουέ μου
+      st_text: Итак, дети, послушайте меня; и блаженны те, которые хранят пути мои!
+  - id: 30237
+    number: 33
+    bookId: 23
+    text: Послушайте наставления и будьте мудры, и не отступайте [<i>от</i>]
+      [<i>него</i>].
+    chapter: 8
+    chapterId: 677
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Услышите премудрость, и умудритеся, и не отмещите.
+      averincev: ""
+      ungerov: Выслушайте премудрость и будьте мудры и не отступайте.
+      csya_old: Ўслы1шите премyдрость, и3 ўмудри1тесz, и3 не tмещи1те.
+      sovr_rbo: Слушайте наставление — и будете мудры, не отвергайте его.
+      latin: Audite disciplinam, et estote sapientes, et nolite abjicere eam.
+      ukr: Навчання послухайте й мудрими станьте, і не відступайте від нього!
+      nkjv: Hear instruction and be wise, And do not disdain it.
+      desnitsky: ""
+      mt: ‫    שִׁמְעוּ מוּסָר וַחֲכָמוּ וְאַל־תִּפְרָעוּ׃ ‬
+      romana: Ascultati invatatura, ca sa ajungeti intelepti, si nu o lepadati.
+      francais: Écoutez l'instruction, pour devenir sages, Ne la rejetez pas.
+      italian: Ascoltate l'esortazione e siate saggi, non trascuratela!
+      old_georgian: ისმინეთ სწავლა, რათა ბრძენ იყვნეთ, და ნუ დაიყოფთ სასმენელთა.
+      portuguese: Ouvi a correção, e sede sábios; e não a rejeiteis.
+      polish: Przyjmijcie naukę i stańcie się mądrzy, pouczeń mych nie odrzucajcie!
+      turkish: Uyarılarımı dinleyin ve bilge kişiler olun, Görmezlikten gelmeyin onları.
+      nrt: Послушайте моего наставления и будьте мудры; не оставляйте его.
+      Macarius: Слушайте наставление, и будьте мудры, и не отступайте.
+      serbian: Слушајте наставу, и будите мудри, и немојте је одбацити.
+      bulgarian: Послушайте поуката, бъдете мъдри и не отстъпвайте от нея.
+      pavskiy: "«Слушайте наставление, и будьте умны,\r«И не преступайте его."
+      deutsch: Höret die Zucht und werdet weise und lasset sie nicht fahren.
+      ukr2: Слухайте науки й будьте мудрі, | не гордуйте нею.
+      ukr3: Слухайте науки, й будьте мудрі, та й не одступайте від неї.
+      bel_syomukha: Паслухайце настаўленьня, і мудрымі станьце, і не адступайцеся ад яго.
+      Porfiriy: Слушайте наставление, и умудряйтесь, и не отклоняйтесь.
+      lev-khv: "Послушайте наставления, и сделаетесь мудрыми, и не отступайте:"
+      czech: Slyste napomenuti a budte moudri; nevyhybejte se tomu!
+      spanish: Escuchad la instrucción y sed sabios y no lo menospreciéis.
+      greek-lxx: ""
+      st_text: Послушайте наставления и будьте мудры, и не отступайте [<i>от</i>]
+        [<i>него</i>].
+  - id: 30238
+    number: 34
+    bookId: 23
+    text: Блажен человек, который слушает меня, бодрствуя каждый день у ворот моих и
+      стоя на страже у дверей моих!
+    chapter: 8
+    chapterId: 677
+    parallels:
+      - verseId: 33484
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 14
+        short: Сир:14:24
+      - verseId: 26562
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 3
+        short: Мк:3:20
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Блажен муж, иже послушает мене, и человек, иже пути моя сохранит, бдяй
+        при моих дверех присно, соблюдаяй праги моих входов:"
+      averincev: ""
+      ungerov: Блажен муж, который выслушает меня, и человек, который пути мои
+        сохранит, бодрствуя каждый день при моих дверях и охраняя пороги входов
+        моих.
+      csya_old: "Блаже1нъ мyжъ, и4же послyшаетъ мене2, и3 человёкъ, и4же пути6 мо‰
+        сохрани1тъ, бдsй при мои1хъ две1рехъ пrнw, соблюдazй прaги мои1хъ
+        вхо1дwвъ:"
+      sovr_rbo: Блажен, кто слушает меня, у порога моего днюет и ночует, с двери моей
+        глаз не сводит.
+      latin: Beatus homo qui audit me, et qui vigilat ad fores meas quotidie, et
+        observat ad postes ostii mei.
+      ukr: Блаженна людина, яка мене слухає, щоб пильнувати при дверях моїх
+        день-у-день, щоб одвірки мої берегти!
+      nkjv: Blessed is the man who listens to me, Watching daily at my gates, Waiting
+        at the posts of my doors.
+      desnitsky: ""
+      mt: ‫    אַשְׁרֵי אָדָם שֹׁמֵעַ לִי לִשְׁקֹד עַל־דַּלְתֹתַי יוֹם יוֹם לִשְׁמֹר
+        מְזוּזֹת פְּתָחָי׃ ‬
+      romana: Fericit este omul care asculta de mine si vegheaza in fiecare zi la
+        portile mele si cel ce strajuieste langa pragul casei mele!
+      francais: Heureux l'homme qui m'écoute, Qui veille chaque jour à mes portes, Et
+        qui en garde les poteaux!
+      italian: Beato l'uomo che mi ascolta, vegliando ogni giorno alle mie porte, per
+        custodire attentamente la soglia.
+      old_georgian: ნეტარ არს კაცი, რომელმან ისმინოს ჩემი, და კაცი, რომელმან გზანი
+        ჩემნი დაიმარხნეს და იღჳძებდეს კართა ჩემთა ზედა მარადის, და სცვიდეს
+        შესავალთა ზღურბლთა ჩემთასა,
+      portuguese: "Feliz é o homem que me dá ouvidos, velando cada dia às minhas
+        entradas, esperando junto às ombreiras da\rminha porta."
+      polish: "Błogosławiony ten, kto mnie słucha, kto co dzień u drzwi moich czeka,
+        by\rczuwać u progu mej bramy,"
+      turkish: "Beni dinleyen,\rHer gün kapımı gözleyen,\rKapımın eşiğinden ayrılmayan
+        kişiye ne mutlu!"
+      nrt: Блажен тот, кто слушает меня, ежедневно бодрствует у моих ворот, у дверей
+        моих ждет.
+      Macarius: Блажен тот человек, который слушает Меня, бодрствуя у врат Моих всякий
+        день, и стоя на страже у прагов дверей Моих.
+      serbian: Благо човјеку који ме слуша стражећи на вратима мојим сваки дан и
+        чувајући прагове врата мојих.
+      bulgarian: Блажен оня човек, който ме слуша, като бодърствува всеки ден при
+        портите ми и стои на стража при вратата ми!
+      pavskiy: "«Блажен тот человек, который слушает меня,\r«Бодрствуя у ворот моих
+        всякий день,\r«И стоя на страже у порогов дверей моих!"
+      deutsch: Wohl dem Menschen, der mir gehorcht, daß er wache an meiner Tür
+        täglich, daß er warte an den Pfosten meiner Tür.
+      ukr2: Щасливий чоловік, що мене слухає, | що день-у-день біля дверей моїх чуває,
+        | біля моїх одвірків стоїть на сторожі!
+      ukr3: Блажен, хто слухає мене, й невсипущо перебуває день-у-день у воріт моїх,
+        та стоїть на сторожі під дверима в мене!
+      bel_syomukha: Шчасны той чалавек, які слухае мяне, чуваючы дзень у дзень каля
+        варотаў маіх і вартуючы дзьверы мае!
+      Porfiriy: Блажен муж, который послушает меня, и человек, который будет держаться
+        путей моих, бодрствуя у ворот моих ежедневно, и стоя на страже у порогов
+        моих входов.
+      lev-khv: Блажен человек, слушающий меня, бодрствующий каждый день при дверях
+        моих, стоящий на страже при столбах ворот моих;
+      czech: Blaze cloveku, ktery me posloucha, bdi u mych dveri den ze dne a strezi
+        vereje meho vchodu.
+      spanish: Bienaventurado quien me escucha, y vela a mi puerta cada día, guardando
+        las jambas de mis puertas.
+      greek-lxx: μακάριος ἀνήρ ὃς εἰσακούσεταί μου καὶ ἄνθρωπος ὃς τὰς ἐμὰς ὁδοὺς
+        φυλάξει ἀγρυπνῶν ἐπ᾿ ἐμαῖς θύραις καθ᾿ ἡμέραν τηρῶν σταθμοὺς ἐμῶν
+        εἰσόδων
+      st_text: Блажен человек, который слушает меня, бодрствуя каждый день у ворот
+        моих и стоя на страже у дверей моих!
+  - id: 30239
+    number: 35
+    bookId: 23
+    text: потому что, кто нашел меня, тот нашел жизнь, и получит благодать от
+      Господа;
+    chapter: 8
+    chapterId: 677
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "исходи бо мои исходи живота, и уготовляется хотение от Господа:"
+      averincev: ""
+      ungerov: Потому что исходы мои — исходы жизни и желание (мое) уготовляется от
+        Господа.
+      csya_old: "и3схо1ди бо мои2 и3схо1ди животA, и3 ўготовлsетсz хотёніе t гDа:"
+      sovr_rbo: Кто обрел меня — обрел жизнь и снискал благоволение у Господа.
+      latin: Qui me invenerit, inveniet vitam, et hauriet salutem a Domino.
+      ukr: Хто бо знаходить мене, той знаходить життя, і одержує милість від Господа.
+      nkjv: For whoever finds me finds life, And obtains favor from the Lord;
+      desnitsky: ""
+      mt: ‫    כִּי מֹצְאִי *מצאי **מָצָא‪‬ חַיִּים וַיָּפֶק רָצוֹן מֵיְהוָה׃ ‬
+      romana: Cel ce ma afla, a aflat viata si dobandeste har de la Domnul;
+      francais: Car celui qui me trouve a trouvé la vie, Et il obtient la faveur de
+        l'Éternel.
+      italian: Infatti, chi trova me trova la vita, e ottiene favore dal Signore;
+      old_georgian: რამეთუ გამოსავალნი ჩემნი გამოსავალ ცხორებისა, და განემზადების
+        ნებაჲ უფლისა მიერ.
+      portuguese: Porque o que me achar achará a vida, e alcançará o favor do Senhor.
+      polish: bo kto mnie znajdzie, ten znajdzie życie i uzyska łaskę u Pana;
+      turkish: "Çünkü beni bulan yaşam bulur\rVe RAB'bin beğenisini kazanır."
+      nrt: Ведь тот, кто найдет меня, найдет жизнь, и Господь будет милостив к нему.
+      Macarius: Ибо нашедший Меня нашел жизнь, и приемлет благодать от Иеговы.
+      serbian: Јер ко мене налази, налази живот и добија љубав од Господа.
+      bulgarian: Защото, който ме е намерил, намерил е живот; и ще получи благодат от
+        Господа;
+      pavskiy: "«Ибо нашедший меня нашел жизнь,\r«И получил благодать от Иеговы,"
+      deutsch: Wer mich findet, der findet das Leben und wird Wohlgefallen vom Herrn
+        erlangen.
+      ukr2: Бо хто мене знаходить, той життя знаходить | й осягає від Господа ласку.
+      ukr3: Бо хто знайшов мене, знайшов життє, й одержить ласку від Господа;
+      bel_syomukha: Бо, хто знайшоў мяне, той знайшоў жыцьцё, і атрымае мілату ад Госпада;
+      Porfiriy: Ибо выходы мои суть выходы жизни, так что готова для всякаго воля
+        Господня.
+      lev-khv: Потому что нашедший меня нашел жизнь и получит благоволение от Господа;
+      czech: Vzdyt ten, kdo me naleza, nalezl zivot a dosel u Hospodina zalibeni.
+      spanish: Porque el que me halla a mí, halla la vida y alcanzará el favor de Yavé.
+      greek-lxx: αἱ γὰρ ἔξοδοί μου ἔξοδοι ζωῆς καὶ ἑτοιμάζεται θέλησις παρὰ Κυρίου
+      st_text: потому что, кто нашел меня, тот нашел жизнь, и получит благодать от
+        Господа;
+  - id: 30240
+    number: 36
+    bookId: 23
+    text: 'а согрешающий против меня наносит вред душе своей: все ненавидящие меня
+      любят смерть".'
+    chapter: 8
+    chapterId: 677
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: согрешающии же в мя нечествуют на своя души, и ненавидящии мя любят
+        смерть.
+      averincev: ""
+      ungerov: А согрешающие против меня совершают беззаконие против своей души, и
+        ненавидящие меня любят смерть".
+      csya_old: согрэшaющіи же въ мS нече1ствуютъ на сво‰ дyши, и3 ненави1дzщіи мS
+        лю1бzтъ сме1рть.
+      sovr_rbo: "А кто против меня, сам себя губит: ненавидеть меня — значит любить
+        смерть»."
+      latin: Qui autem in me peccaverit, laedet animam suam; omnes qui me oderunt
+        diligunt mortem.
+      ukr: А хто проти мене грішить, ограбовує душу свою; всі, хто мене ненавидить, ті
+        смерть покохали!
+      nkjv: But he who sins against me wrongs his own soul; All those who hate me love
+        death."
+      desnitsky: ""
+      mt: ‫    וְחֹטְאִי חֹמֵס נַפְשׁוֹ כָּל־מְשַׂנְאַי אָהֲבוּ מָוֶת׃ פ ‬
+      romana: Iar cel ce pacatuieste impotriva mea isi pagubeste viata lui. Toti cei
+        ce ma urasc pe mine iubesc moartea".
+      francais: Mais celui qui pèche contre moi nuit à son âme; Tous ceux qui me
+        haïssent aiment la mort.
+      italian: ma chi pecca contro di me, danneggia se stesso; quanti mi odiano amano
+        la morte".
+      old_georgian: ხოლო რომელნი ცოდვენ ჩემდამო, უღმრთოებენ თავისა თჳსისა სულთა და
+        რომელნი მე მძულობენ, უყუარს მათ სიკუდილი.
+      portuguese: Mas o que pecar contra mim fará mal à sua própria alma; todos os que
+        me odeiam amam a morte.
+      polish: "kto mnie nie znajdzie, duszę swą rani, śmierć kocha każdy, kto mnie
+        się\rwyrzeka."
+      turkish: Beni gözardı edense kendine zarar verir, Benden nefret eden, ölümü
+        seviyor demektir.»
+      nrt: Но тот, кто упустит меня, повредит себе; все ненавидящие меня любят
+        смерть».
+      Macarius: А уклоняющийся от Меня зло делает душе своей; все, ненавидящие Меня,
+        любят смерть.
+      serbian: А ко о мене гријеши, чини криво души својој; сви који мрзе на ме, љубе
+        смрт.
+      bulgarian: 'а който съгрешава против мене, нанася вреда на душата си: всички,
+        които мене мразят, смърт обичат."'
+      pavskiy: "«А уклоняющийся от меня зло делает душе своей,\r«Все, не любящие меня,
+        любят смерть."
+      deutsch: Wer aber an mir sündigt, der verletzt seine Seele. Alle, die mich
+        hassen, lieben den Tod.
+      ukr2: Кому ж мене бракує, той свою душу кривдить; | всі мої ненависники - смерть
+        полюбляють.”
+      ukr3: "Хто ж грішить проти мене, душі своїй той шкодить: всї, що цураються мене,
+        люблять смерть."
+      bel_syomukha: 'а хто грэшыць супроць мяне, учыняе шкоду душы маёй: усе тыя, што
+        ненавідзяць мяне, любяць сьмерць".'
+      Porfiriy: А согрешающие против меня вносят нечестие в свои души, и ненавидящие
+        меня любят смерть.
+      lev-khv: "Но согрешающий против меня наносит вред душе своей: все, ненавидящие
+        меня, любят смерть&raquo;."
+      czech: Kdo hresi proti mne, cini nasili sve dusi; vsichni, kdo me nenavidi,
+        miluji smrt."
+      spanish: Y al contrario, el que me ofende, a sí mismo se daña, y el que me odia,
+        ama la muerte.
+      greek-lxx: οἱ δὲ εἰς ἐμὲ ἁμαρτάνοντες ἀσεβοῦσιν τὰς ἑαυτῶν ψυχάς καὶ οἱ
+        μισοῦντές με ἀγαπῶσιν θάνατον
+      st_text: 'а согрешающий против меня наносит вред душе своей: все ненавидящие
+        меня любят смерть".'

@@ -1,0 +1,1380 @@
+id: 714
+number: 2
+bookId: 25
+verseCount: 17
+title: Глава 2
+verses:
+  - id: 28574
+    number: 1
+    bookId: 25
+    text: Я нарцисс Саронский, лилия долин!
+    chapter: 2
+    chapterId: 714
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Я цветок равнины, лилия долин.
+      csya: Аз цвет польный и крин удольный.
+      averincev: ""
+      ungerov: Я — цвет полевой, лилия долин.
+      csya_old: Ѓзъ цвётъ по1льный и3 крjнъ ўдо1льный.
+      sovr_rbo: "[Она:] «Я — лотос Сарона , лилия долин!» [Он:]"
+      latin: Ego flos campi, et lilium convallium.
+      ukr: Я саронська троянда, я долинна лілея!
+      nkjv: I am the rose of Sharon, And the lily of the valleys.
+      desnitsky: ""
+      mt: ‫    אֲנִי חֲבַצֶּלֶת הַשָּׁרוֹן שׁוֹשַׁנַּת הָעֲמָקִים׃ ‬
+      romana: Eu sunt narcisul din campie, sunt crinul de prin valcele.
+      francais: Je suis un narcisse de Saron, Un lis des vallées. -
+      italian: Io sono un narciso di Saron, un giglio delle valli.
+      old_georgian: "სიძე ეტყჳს სძალსა სულისა თჳსისათჳს: მე - ყუავილი ველისაჲ და
+        შროშანი ღელეთაჲ."
+      portuguese: Eu sou a rosa de Sarom, o lírio dos vales.
+      polish: Jam narcyz Saronu, lilia dolin.
+      turkish: "Ben Şaron  çiğdemiyim,\rVadilerin zambağıyım."
+      nrt: – Я нарцисс Шаронский, лилия долин.
+      Macarius: Я Саронский нарцисс, полевая лилия. -
+      serbian: Ја сам ружа Саронска, љиљан у долу.
+      bulgarian: Възлюбената. Аз съм саронски нарцис, долински крин!
+      pavskiy: Девица. Я — Саронский нарцис, полевая лилия.
+      deutsch: Ich bin eine Blume zu Saron und eine Rose im Tal.
+      ukr3: Я нарциз, Соронська квітка, я лилїя долиняна!
+      bel_syomukha: Я - раўнінны нарцыс Саронскі, я - лілея з даліны!
+      spbda: Я — нарцис Саронский, лилия долин!
+      anonym1858: Я роза Шаронская, лилия долинная.
+      sergievsky: Я — лилия Саронская, роза долин.
+      Porfiriy: Я цветок полевый, лилия долин.
+      lev-khv: Я — нарцис Саронский, лилия долин!
+      czech: Jsem kvitek saronsky, lilie v dolinach.
+      spanish: Yo soy narciso de Sarón, un lirio de los valles.
+      bloshtein: Я — лилия Саронская, роза долин.
+      greek-lxx: ἐγὼ ἄνθος τοῦ πεδίου κρίνον τῶν κοιλάδων
+      st_text: Я нарцисс Саронский, лилия долин!
+  - id: 28575
+    number: 2
+    bookId: 25
+    text: Что лилия между тернами, то возлюбленная моя между девицами.
+    chapter: 2
+    chapterId: 714
+    parallels:
+      - verseId: 28565
+        bookId: 25
+        bookCode: pesn-pesnej-solomona
+        chapter: 1
+        short: Песн:1:8
+      - verseId: 20932
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 53
+        short: Ис:53:2
+      - verseId: 15918
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 33
+        short: Иер:33:15
+    translates:
+      kassian: ""
+      podstr: Как лилия в середине колючих растений, так ближний мой по середине
+        [между] дочерей [людей].
+      csya: Якоже крин в тернии, тако искренняя моя посреде дщерей.
+      averincev: ""
+      ungerov: Что лилия среди тернов, то ближняя моя среди девиц.
+      csya_old: Ћкоже крjнъ въ те1рніи, тaкw и4скреннzz моS посредЁ дще1рей.
+      sovr_rbo: «Как лилия средь колючек — родная моя среди девушек». [Она:]
+      latin: SPONSUS. Sicut lilium inter spinas, sic amica mea inter filias.
+      ukr: Як лілея між тереном, так подруга моя поміж дівами!
+      nkjv: The Beloved Like a lily among thorns, So is my love among the daughters.
+      desnitsky: ""
+      mt: ‫    כְּשׁוֹשַׁנָּה בֵּין הַחוֹחִים כֵּן רַעְיָתִי בֵּין הַבָּנוֹת׃ ‬
+      romana: Cum este crinul intre spini, asa este draga mea intre fete.
+      francais: Comme un lis au milieu des épines, Telle est mon amie parmi les jeunes
+        filles. -
+      italian: Come un giglio fra i cardi, così la mia amata tra le fanciulle.
+      old_georgian: და ვითარცა შროშანი შორის ეკალთა, ესრეთ არს მახლობელი ჩემი შორის ასულთა;
+      portuguese: Qual o lírio entre os espinhos, tal é a minha amada entre as filhas.
+      polish: Jak lilia pośród cierni, tak przyjaciółka ma pośród dziewcząt.
+      turkish: Dikenlerin arasında bir zambağa benzer Kızların arasında aşkım.
+      nrt: – Как лилия между тернами, так милая моя среди девушек.
+      Macarius: «Что лилия между тернами, то подруга Моя между девицами». -
+      serbian: Што је љиљан међу трњем, то је драга моја међу дјевојкама.
+      bulgarian: Възлюбеният. Каквото е крин между тръне, това е моята възлюбена между
+        момите.
+      pavskiy: Юноша. Чтó лилия между тернами, тó подруга моя между девицами.
+      deutsch: Wie eine Rose unter den Dornen, so ist meine Freundin unter den Töchtern.
+      ukr2: "Що та лілея між будяками, то моя люба між дочками. Молода:"
+      ukr3: Що лилїя між тернами - те мила моя між дївами.
+      bel_syomukha: Як лілея сярод бадзякоў - каханая сярод сябровак!
+      spbda: Чтó лилия между тернами, то подруга моя между девицами!
+      anonym1858: Чтó лилия меж терниями, тó моя возлюбленная — меж девами.
+      sergievsky: Что роза между тернием, то подруга моя между девицами.
+      Porfiriy: Что лилия между тернами, то ближняя моя между дщерями.
+      lev-khv: Чтó лилия между тернами, то подруга моя между девицами!
+      czech: Jako lilie mezi trnim, tak ma pritelkyne mezi dcerami.
+      spanish: Como lirio entre los cardos es mi amada entre las doncellas.
+      bloshtein: Что роза между тернием, то подруга моя между девицами.
+      greek-lxx: ὡς κρίνον ἐν μέσῳ ἀκανθῶν οὕτως ἡ πλησίον μου ἀνὰ μέσον τῶν θυγατέρων
+      st_text: Что лилия между тернами, то возлюбленная моя между девицами.
+  - id: 28576
+    number: 3
+    bookId: 25
+    text: Что яблоня между лесными деревьями, то возлюбленный мой между юношами. В
+      тени ее люблю я сидеть, и плоды ее сладки для гортани моей.
+    chapter: 2
+    chapterId: 714
+    parallels:
+      - verseId: 32673
+        bookId: 22
+        bookCode: psaltir
+        chapter: 90
+        short: Пс:90:1
+      - verseId: 28357
+        bookId: 77
+        bookCode: otkrovenie-ap-ioanna-bogoslova
+        chapter: 2
+        short: Откр:2:7
+      - verseId: 28423
+        bookId: 77
+        bookCode: otkrovenie-ap-ioanna-bogoslova
+        chapter: 22
+        short: Откр:22:2
+    translates:
+      kassian: ""
+      podstr: Как яблоня среди деревьев леса, так брат мой по середине [между] сынов
+        [людей]; в тени его я пожелала и села, и плод его сладкий в гортани
+        моей.
+      csya: "Яко яблонь посреде древес лесных, тако брат мой посреде сынов: под сень
+        его восхотех и седох, и плод его сладок в гортани моем."
+      averincev: ""
+      ungerov: "Что яблонь среди лесных дерев, то брат мой — среди сынов
+        (человеческих): в тени его я люблю сидеть и плод его сладок в гортани
+        моей."
+      csya_old: "Ћкw ћблонь посредЁ древе1съ лэсны1хъ, тaкw брaтъ мо1й посредЁ сынHвъ:
+        под8 сёнь є3гw2 восхотёхъ и3 сэдо1хъ, и3 пло1дъ є3гw2 слaдокъ въ гортaни
+        мое1мъ."
+      sovr_rbo: «Как дерево яблоня средь лесных деревьев — милый мой среди юношей; в
+        его тени мне приятно сидеть, и сладок на вкус его плод». [Она:]
+      latin: SPONSA. Sicut malus inter ligna silvarum, sic dilectus meus inter filios.
+        Sub umbra illius quem desideraveram sedi, et fructus ejus dulcis gutturi
+        meo.
+      ukr: Як та яблуня між лісовими деревами, так мій коханий поміж юнаками, його
+        тіні жадала й сиділа я в ній, і його плід для мого піднебіння солодкий!
+      nkjv: The Shulamite Like an apple tree among the trees of the woods, So is my
+        beloved among the sons. I sat down in his shade with great delight, And
+        his fruit was sweet to my taste.
+      desnitsky: ""
+      mt: ‫    כְּתַפּוּחַ בַּעֲצֵי הַיַּעַר כֵּן דּוֹדִי בֵּין הַבָּנִים בְּצִלּוֹ
+        חִמַּדְתִּי וְיָשַׁבְתִּי וּפִרְיוֹ מָתוֹק לְחִכִּי׃ ‬
+      romana: Cum este marul intre copaci, asa este dragul meu printre flacai. Sa stau
+        la umbra marului imi place, dulce este rodul lui in gura mea!
+      francais: Comme un pommier au milieu des arbres de la forêt, Tel est mon
+        bienaimé parmi les jeunes hommes. J'ai désiré m'asseoir à son ombre, Et
+        son fruit est doux à mon palais.
+      italian: Come un melo tra gli alberi del bosco, il mio diletto fra i giovani.
+        Alla sua ombra, cui anelavo, mi siedo e dolce è il suo frutto al mio
+        palato.
+      old_georgian: "სძალი რტყჳს სიძესა: ვითარცა ვაშლი შორის ხეთა მაღნარისათა, ესრეთ
+        არს ძმისწული ჩემი შორის ძეთა. საგრილსა ქუეშე მისსა გულმან მითქუა და
+        დავჯედ; და ნაყოფი მისი ტკბილ არს სასასა ჩემსა."
+      portuguese: "Qual a macieira entre as árvores do bosque, tal é o meu amado entre
+        os filhos; com grande gozo sentei-me à sua\rsombra; e o seu fruto era
+        doce ao meu paladar."
+      polish: "Jak jabłoń wśród drzew leśnych, tak ukochany mój wśród młodzieńców.
+        W\rupragnionym jego cieniu usiadłam, a owoc jego słodki memu
+        podniebieniu."
+      turkish: "Orman ağaçları arasında bir elma ağacına benzer Delikanlıların
+        arasında sevgilim.\rOnun gölgesinde oturmaktan zevk alırım, Tadı
+        damağımda kalır meyvesinin."
+      nrt: – Как яблоня среди лесных деревьев, так возлюбленный мой среди юношей.
+        Сидеть в его тени мне наслаждение, и плод его сладок для меня.
+      Macarius: Что яблонь между лесными деревами, то Возлюбленный мой между юношами.
+        Люблю сидеть под тенью ее, и сладки для вкуса моего плоды ее!
+      serbian: Што је јабука међу дрветима шумским, то је драги мој међу момцима;
+        жељех хлада њезина, и сједох, и род је њезин сладак грлу мојему.
+      bulgarian: Възлюбената. Каквото е ябълка между горски дървета, това е моят
+        възлюбен между момците. Под сянката й обичам да седя, и плодовете й са
+        сладки за гърлото ми.
+      pavskiy: Девица. Чтó яблонь между лесными деревами, тó друг мой между юношами.
+        Как бы желала я сидеть под тению ея, и плоды ея были бы сладки для вкуса
+        моего!
+      deutsch: Wie ein Apfelbaum unter den wilden Bäumen, so ist mein Freund unter den
+        Söhnen. Ich sitze unter dem Schatten, des ich begehre, und seine Frucht
+        ist meiner Kehle süß.
+      ukr2: Що яблуня між лісовими деревами, то любий мій між синами! У його холодку,
+        що так бажала, я сіла і плід його був солодкий моєму піднебінню.
+      ukr3: Яблоня між деревами лїсними - се мій милий між молодиками. В холодку під
+        нею любо седїти менї, овощі її солодкі піднебінню мойму.
+      bel_syomukha: Як яблыня сярод лясных дрэў - каханы мой сярод хлопцаў. У шатах яе
+        люблю я сядзець, і плады зь яе рот мне салодзяць.
+      spbda: Чтó яблонь между лесными деревьями, то друг мой между юношами! В тени ея
+        любила я сидеть, и плоды ея были сладки для вкуса моего!
+      anonym1858: Чтó яблонь среди лесных дерев, тó мой возлюбленный среди молодых
+        людей. Я желала тени его, я села под ней, и плод его был сладок для
+        гортани моей.
+      sergievsky: Что яблонь между деревьями лесными, то друг мой между юношами. В
+        тени ея я охотно сидела, и плоды ея сладки для нёба моего.
+      Porfiriy: Что яблонь между лесными деревами, то брат мой между сынами. Под тень
+        ея захотела я и села, и плод ея сладок гортани моей.
+      lev-khv: Чтó яблонь между лесными деревьями, то друг мой между юношами! В тени
+        ея любила я сидеть, и плоды ея были сладки для вкуса моего!
+      czech: Jako jablon mezi lesnimi stromy, tak muj mily mezi syny. Usedla jsem
+        zadostive v jeho stinu, jeho ovoce mi sladne na rtech.
+      spanish: Como manzano entre los árboles silvestres es mi amado entre los
+        mancebos. A su sombra anhelo sentarme, y su fruto es dulce a mi paladar.
+      bloshtein: Что яблонь между деревьями лесными, то друг мой между юношами. В тени
+        ея я охотно сидела, и плоды ея сладки для нёба моего.
+      greek-lxx: ὡς μῆλον ἐν τοῖς ξύλοις τοῦ δρυμοῦ οὕτως ἀδελφιδός μου ἀνὰ μέσον τῶν
+        υἱῶν ἐν τῇ σκιᾷ αὐτοῦ ἐπεθύμησα καὶ ἐκάθισα καὶ καρπὸς αὐτοῦ γλυκὺς ἐν
+        λάρυγγί μου
+      st_text: Что яблоня между лесными деревьями, то возлюбленный мой между юношами.
+        В тени ее люблю я сидеть, и плоды ее сладки для гортани моей.
+  - id: 28577
+    number: 4
+    bookId: 25
+    text: Он ввел меня в дом пира, и знамя его надо мною - любовь.
+    chapter: 2
+    chapterId: 714
+    parallels:
+      - verseId: 31579
+        bookId: 22
+        bookCode: psaltir
+        chapter: 35
+        short: Пс:35:9
+    translates:
+      kassian: ""
+      podstr: Введите меня в дом вина, обратите на меня любовь.
+      csya: "Введите мя в дом вина, вчините ко мне любовь:"
+      averincev: ""
+      ungerov: Введите меня в дом пира, окажите мне любовь.
+      csya_old: "Введи1те мS въ до1мъ вінA, вчини1те ко мнЁ любо1вь:"
+      sovr_rbo: «Он привел меня к себе, угощает вином, поднял знамя любви надо мной.
+      latin: Introduxit me in cellam vinariam; ordinavit in me caritatem.
+      ukr: Він впровадив мене до винярні, а прапор його надо мною кохання!
+      nkjv: The Shulamite to the Daughters of Jerusalem He brought me to the
+        banqueting house, And his banner over me was love.
+      desnitsky: ""
+      mt: ‫    הֱבִיאַנִי אֶל־בֵּית הַיָּיִן וְדִגְלוֹ עָלַי אַהֲבָה׃ ‬
+      romana: El m-a dus in casa de ospat si sus drept steag era iubirea.
+      francais: Il m'a fait entrer dans la maison du vin; Et la bannière qu'il déploie
+        sur moi, c'est l'amour.
+      italian: Mi ha introdotto nella cella del vino e il suo vessillo su di me è amore.
+      old_georgian: "ქალწულთა ეტყჳს სძალი: შემიყვანეთ მე სახლსა ღჳნისასა, განაწესეთ
+        ჩემ ზედა სიყუარული,"
+      portuguese: Levou-me à sala do banquete, e o seu estandarte sobre mim era o amor.
+      polish: Wprowadził mnie do domu wina, i sztandarem jego nade mną jest miłość.
+      turkish: "Ziyafet evine götürdü beni,\rÜzerimdeki sancağı aşktı."
+      nrt: Он привел меня в дом пира, и его знамя надо мной – любовь.
+      Macarius: "Он ввел меня в дом вина; и развевается надо мною знамя Его: любовь!"
+      serbian: Уведе ме у кућу гдје је гозба, а застава му је љубав к мени.
+      bulgarian: Той ме въведе в къщата за пируване, и знамето му над мене беше любов.
+      pavskiy: "Он повел бы меня в дом богатый вином, и надо мною развевалось бы его
+        знамя: Любовь."
+      deutsch: Er führt mich in den Weinkeller, und die Liebe ist sein Panier über mir.
+      ukr2: Він увів мене в бенкетний покій, і любов - стяг його надо мною.
+      ukr3: Він увів мене в дім веселої гостини, а стяг його надо мною - любов.
+      bel_syomukha: Увёў ён мяне ў дом піру, нада мной яго сьцяг - каханьне!
+      spbda: Он водил меня в виноградник, и знамя его надо мною — любовь.
+      anonym1858: Введите меня в   д о м    в и н а,   и ласкайте меня.
+      sergievsky: Он водил меня в дом пиршества, вознося надо мною свое знамя — любовь.
+      Porfiriy: "Введите меня в дом вина. Означьте надо мною: Любовь."
+      lev-khv: Он водил меня в виноградник, и знамя его надо мною — любовь!
+      czech: On me uvedl do domu vina, jeho prapor nade mnou je laska.
+      spanish: Me ha introducido en la sala del festín, y la bandera que contra mí
+        alzó es (bandera de) amor.
+      bloshtein: Он водил меня в дом пиршества, вознося надо мною свое знамя — любовь.
+      greek-lxx: εἰσαγάγετέ με εἰς οἶκον τοῦ οἴνου τάξατε ἐπ᾿ ἐμὲ ἀγάπην
+      st_text: Он ввел меня в дом пира, и знамя его надо мною - любовь.
+  - id: 28578
+    number: 5
+    bookId: 25
+    text: Подкрепите меня вином, освежите меня яблоками, ибо я изнемогаю от любви.
+    chapter: 2
+    chapterId: 714
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: Укрепите меня среди лишённых доли, навалите меня среди яблок, потому что
+        ранена любовью я.
+      csya: "утвердите мя в мирех, положите мя во яблоцех: яко уязвлена (есмь) любовию
+        аз."
+      averincev: ""
+      ungerov: Подкрепите меня м&#1141;ром, накормите меня яблоками, ибо я — уязвлена
+        (есмь) любовию.
+      csya_old: "ўтверди1те мS въ мv1рэхъ, положи1те мS во ћблоцэхъ: ћкw ўsзвлена
+        (є4смь) любо1вію ѓзъ."
+      sovr_rbo: "Подкрепите меня сластями, яблоками освежите: я больна от любви!"
+      latin: Fulcite in me floribus, stipate me malis, quia amore langueo.
+      ukr: Підкріпіте мене виноградовим печивом, освіжіть мене яблуками, бо я хвора з
+        кохання!
+      nkjv: Sustain me with cakes of raisins, Refresh me with apples, For I am
+        lovesick.
+      desnitsky: ""
+      mt: ‫    סַמְּכוּנִי בָּאֲשִׁישׁוֹת רַפְּדוּנִי בַּתַּפּוּחִים כִּי־חוֹלַת
+        אַהֲבָה אָנִי׃ ‬
+      romana: Intariti-ma cu vin, cu mere racoriti-ma, ca sunt bolnava de iubire.
+      francais: Soutenez-moi avec des gâteaux de raisins, Fortifiez-moi avec des
+        pommes; Car je suis malade d'amour.
+      italian: Sostenetemi con focacce d'uva passa, rinfrancatemi con pomi, perché io
+        sono malata d'amore.
+      old_georgian: დამამტკიცეთ მე ნელსაცხებელთა მიერ, გარემომასხთ მე ვაშლი, რამეთუ
+        დაწყლულ ვარ მე სიყუარულითა.
+      portuguese: Sustentai-me com passas, confortai-me com maçãs, porque desfaleço de
+        amor.
+      polish: Posilcie mnie plackami z rodzynek, wzmocnijcie mnie jabłkami, bo chora
+        jestem z miłości.
+      turkish: "Güçlendirin beni üzüm pestiliyle, Canlandırın elmayla,\rÇünkü aşk
+        hastasıyım ben."
+      nrt: Подкрепи меня изюмом, освежи меня яблоками, ведь я изнемогаю от любви.
+      Macarius: Подкрепите меня пастилою; освежите меня яблоками; ибо я изнемогаю от
+        любви.
+      serbian: Поткријепите ме жбановима, придржите ме јабукама, јер сам болна од
+        љубави.
+      bulgarian: Подкрепете ме с вино, освежете ме с ябълки, защото изнемогвам от любов.
+      pavskiy: Подкрепите меня постилою, освежите меня яблоками; ибо я больна от любви.
+      deutsch: Er erquickt mich mit Blumen und labt mich mit Äpfeln; denn ich bin
+        krank vor Liebe.
+      ukr2: Підсильте мене тістечками виноградними, яблуками мене одушевляйте, бо я з
+        любови знемагаю.
+      ukr3: "Покріпіть мене вином, осьвіжіть мене яблоками: від любови знемогаю."
+      bel_syomukha: Падмацуйце мяне віном, яблыкамі асьвяжэце мяне, бо я зьнемагла ад
+        каханьня.
+      spbda: "Подкрепите меня постилою, освежите меня яблоками: потому что я изнемогаю
+        от любви."
+      anonym1858: "Одушевите меня миррами, подкрепите яблоками: я изнемогаю от любви."
+      sergievsky: Подкрепите меня чашами вина, освежите меня яблоками; ибо я изнемогаю
+        от любви.
+      Porfiriy: Подкрепите меня пряниками, освежите меня яблоками. Ибо я уязвлена
+        любовию.
+      lev-khv: "Подкрепите меня постилою, освежите меня яблоками: потому что я
+        изнемогаю от любви."
+      czech: Obcerstvete me kolaci hrozinkovymi, osvezte me jablky, nebot jsem nemocna
+        laskou.
+      spanish: Confortadme con pasas, reanimadme con manzanas, que desfallezco de amor.
+      bloshtein: Подкрепите меня чашами вина, освежите меня яблоками; ибо я изнемогаю
+        от любви.
+      greek-lxx: στηρίσατέ με ἐν ἀμόραις στοιβάσατέ με ἐν μήλοις ὅτι τετρωμένη ἀγάπης ἐγώ
+      st_text: Подкрепите меня вином, освежите меня яблоками, ибо я изнемогаю от любви.
+  - id: 28579
+    number: 6
+    bookId: 25
+    text: Левая рука его у меня под головою, а правая обнимает меня.
+    chapter: 2
+    chapterId: 714
+    parallels:
+      - verseId: 28662
+        bookId: 25
+        bookCode: pesn-pesnej-solomona
+        chapter: 8
+        short: Песн:8:3
+    translates:
+      kassian: ""
+      podstr: Левая [рука] его под головой моей, и правая [рука] его обнимает меня.
+      csya: Шуйца его под главою моею, и десница его обымет мя.
+      averincev: ""
+      ungerov: Левая рука его — под головою моею, а десница его обнимает меня.
+      csya_old: Шyйца є3гw2 под8 главо1ю мое1ю, и3 десни1ца є3гw2 њб8и1метъ мS.
+      sovr_rbo: Его левую руку — под голову мне, а правой пускай обнимет!
+      latin: Laeva ejus sub capite meo, et dextera illius amplexabitur me.
+      ukr: Ліва рука його під головою моєю, правиця ж його пригортає мене!...
+      nkjv: His left hand is under my head, And his right hand embraces me.
+      desnitsky: ""
+      mt: ‫    שְׂמֹאלוֹ תַּחַת לְרֹאשִׁי וִימִינוֹ תְּחַבְּקֵנִי׃ ‬
+      romana: Stanga sa este sub cap la mine si cu dreapta lui ma cuprinde.
+      francais: Que sa main gauche soit sous ma tête, Et que sa droite m'embrasse! -
+      italian: La sua sinistra è sotto il mio capo e la sua destra mi abbraccia.
+      old_georgian: მარცხენე მისი თავსა ჩემსა და მარჯუენემან მისმან შემიწყნაროს მე.
+      portuguese: A sua mão esquerda esteja debaixo da minha cabeça, e a sua mão
+        direita me abrace.
+      polish: Lewa jego ręka pod głową moją, a prawica jego obejmuje mnie.
+      turkish: "Sol eli başımın altında,\rSağ eli sarsın beni."
+      nrt: Его левая рука под моей головой, а правая обнимает меня.
+      Macarius: Левая рука Его у меня под головою; а десница Его обнимает меня. -
+      serbian: Лијева је рука његова мени под главом, а десном ме грли.
+      bulgarian: Лявата му ръка ми е под главата, а дясната ме прегръща.
+      pavskiy: Левая рука его будет у меня под головою, а правая обнимет меня.
+      deutsch: Seine Linke liegt unter meinem Haupte, und seine Rechte herzt mich.
+      ukr2: "Ліва рука його під головою в мене, а правою він мене обіймає. Молодий:"
+      ukr3: Лїва рука його під головою в мене, правою мене він обнімає.
+      bel_syomukha: Яго левая - пад маёй галавою, а правай рукою мяне абдымае.
+      spbda: Левая рука его у меня под головою, а правая обнимает меня.
+      anonym1858: Я склонюсь головой на левую руку его, а правой он обнимет меня.
+      sergievsky: Левая рука его под головою моею, а правою он обнимает меня.
+      Porfiriy: Левая рука его — под голову мою, а его правая обнимет меня.
+      lev-khv: Левая рука его у меня под головою, а правая обнимает меня.
+      czech: Jeho levice je pod mou hlavou, jeho pravice me objima.
+      spanish: Está su izquierda bajo mi cabeza y su diestra me abraza.
+      bloshtein: Левая рука его под головою моею, а правою он обнимает меня.
+      greek-lxx: εὐώνυμος αὐτοῦ ὑπὸ τὴν κεφαλήν μου καὶ ἡ δεξιὰ αὐτοῦ περιλήμψεταί με
+      st_text: Левая рука его у меня под головою, а правая обнимает меня.
+  - id: 28580
+    number: 7
+    bookId: 25
+    text: "Заклинаю вас, дщери Иерусалимские, сернами или полевыми ланями: не будите
+      и не тревожьте возлюбленной, доколе ей угодно."
+    chapter: 2
+    chapterId: 714
+    parallels:
+      - verseId: 28595
+        bookId: 25
+        bookCode: pesn-pesnej-solomona
+        chapter: 3
+        short: Песн:3:5
+      - verseId: 28625
+        bookId: 25
+        bookCode: pesn-pesnej-solomona
+        chapter: 5
+        short: Песн:5:8
+      - verseId: 28663
+        bookId: 25
+        bookCode: pesn-pesnej-solomona
+        chapter: 8
+        short: Песн:8:4
+    translates:
+      kassian: ""
+      podstr: Заклинаю вас, дочери Иерусалима, силами и могуществами поля, если
+        поднимите и пробудите любовь, до которого [времени] пожелает.
+      csya: "Заклях вас, дщери Иерусалимли, в силах и крепостех села: аще возставите и
+        возбудите любовь, дондеже восхощет."
+      averincev: ""
+      ungerov: "Заклинаю вас, дщери Иерусалима, силами и крепостями полевыми: не
+        поднимайте и не будите любовь, доколе ей угодно будет."
+      csya_old: "Заклsхъ вaсъ, дщє1ри їеrли6мли, въ си1лахъ и3 крёпостехъ селA: ѓще
+        возстaвите и3 возбyдите любо1вь, до1ндеже восхо1щетъ."
+      sovr_rbo: "Заклинаю вас, девушки Иерусалима, газелями и дикими ланями: не будите
+        любовь, не будите, пока не захочет проснуться!» [Она:]"
+      latin: SPONSUS. Adjuro vos, filiae Jerusalem, per capreas cervosque camporum, ne
+        suscitetis, neque evigilare faciatis dilectam, quoadusque ipsa velit.
+      ukr: Заклинаю я вас, дочки єрусалимські, газелями чи польовими оленями, щоб ви
+        не сполохали, й щоб не збудили кохання, аж доки йому до вподоби!...
+      nkjv: I charge you, O daughters of Jerusalem, By the gazelles or by the does of
+        the field, Do not stir up nor awaken love Until it pleases.
+      desnitsky: ""
+      mt: ‫    הִשְׁבַּעְתִּי אֶתְכֶם בְּנוֹת יְרוּשָׁלִַם בִּצְבָאוֹת אוֹ בְּאַיְלוֹת
+        הַשָּׂדֶה אִם־תָּעִירוּ וְאִם־תְּעוֹרְרוּ אֶת־הָאַהֲבָה עַד
+        שֶׁתֶּחְפָּץ׃ ס ‬
+      romana: Va jur, fete din Ierusalim, pe cerboaice, pe gazelele din camp, nu
+        treziti pe draga mea; pana nu-i va fi ei voia!
+      francais: Je vous en conjure, filles de Jérusalem, Par les gazelles et les
+        biches des champs, Ne réveillez pas, ne réveillez pas l'amour, Avant
+        qu'elle le veuille. -
+      italian: "Io vi scongiuro, figlie di Gerusalemme, per le gazzelle o per le cerve
+        dei campi: non destate, non scuotete dal sonno l'amata, finché essa non
+        lo voglia."
+      old_georgian: "სძალი ეტყჳს ქალწულთა: გაფუცებ თქუენ, ასულნო იერუსალიმისანო, ძალთა
+        და სიმტკიცეთა აგარაკისათა, უკუეთუ აღსდგეთ და განაღჳძოთ სიყუარული,
+        ვიდრემდიცა ინებოს."
+      portuguese: "Conjuro-vos, ó filhas de Jerusalém, pelas gazelas e cervas do
+        campo, que não acordeis nem desperteis o amor,\raté que ele o queira."
+      polish: "Zaklinam was, córki jerozolimskie, na gazele, na łanie pól: Nie budźcie
+        ze\rsnu, nie rozbudzajcie ukochanej, póki nie zechce sama."
+      turkish: "Dişi ceylanlar,\rYabanıl dişi geyikler üstüne\rAnt içiriyorum size, ey
+        Yeruşalim kızları!\rAşkımı ayıltmayasınız, uyandırmayasınız diye,\rGönlü
+        hoş olana dek."
+      nrt: "Дочери Иерусалима, заклинаю вас газелями и полевыми ланями: не будите и не
+        возбуждайте любви, пока она сама не пожелает."
+      Macarius: "«Заклинаю вас, дщери Иерусалима, сернами и полевыми ланями: не будите
+        и не тревожьте возлюбленную, доколе восхочет». -"
+      serbian: Заклињем вас, кћери Јерусалимске, срнама и кошутама пољским, не будите
+        љубави моје, не будите је, док јој не буде воља.
+      bulgarian: "Възлюбеният. Заклевам ви, дъщери иерусалимски, в сърните и в
+        полските кошути: недейте буди и тревожи възлюбената, докле й е воля."
+      pavskiy: "Юноша. Заклинаю вас, девицы Иерусалимския, сернами и полевыми ланями:
+        не буди́те и не тревожьте мою возлюбленную, пусть почивает, доколе ей
+        угодно."
+      deutsch: Ich beschwöre euch, ihr Töchter Jerusalems, bei den Rehen oder bei den
+        Hinden auf dem Felde, daß ihr meine Freundin nicht aufweckt noch regt,
+        bis es ihr selbst gefällt.
+      ukr2: "Я заклинаю вас, дочки єрусалимські, сарнами й ланями пільними, щоб не
+        будили, не розбуджували любої моєї, покіль вона того не схоче. Молода:"
+      ukr3: Заклинаю ж вас, дочки Ерусалимські, на серни й оленицї польні, не будїть,
+        не розрухуйте милої моєї, аж доки їй вгодно!
+      bel_syomukha: "Заклінаю вас, Ерусалімскія дочкі, сарнамі ці палявымі ланямі: ня
+        будзеце і ня турбуйце каханай, пакуль не прачнецца сама!"
+      spbda: "Заклинаю вас, девицы Иерусалимския, сернами или полевыми ланями: не
+        будите и не возбуждайте любовь, пока она не придет."
+      anonym1858: Заклинаю вас, дочери Иерусалима, во имя коз и ланей, не будите моего
+        милаго, пока он сам не проснется.
+      sergievsky: "Заклинаю вас, девицы иерусалимския, газелями или ланями полевыми:
+        не тревожьте и не возбуждайте любви, пока сама не пожелает."
+      Porfiriy: "Заклинаю вас, дочери Иерусалима, силами и крепостями полевыми: не
+        будите и не тревожьте Любовь, пока захочет встать."
+      lev-khv: "Заклинаю вас, девицы Иерусалимския, сернами или полевыми ланями: не
+        будите и не возбуждайте любовь, пока она не придет."
+      czech: "Zaprisaham vas, jeruzalemske dcery, pri gazelach a pri polnich lanich:
+        nebudte a nezburcujte lasku, dokud nebude chtit sama."
+      spanish: Os conjuro, hijas de Jerusalén, por las gacelas y ciervos del campo,
+        que no despertéis ni inquietéis a la amada hasta que ella quiera.
+      bloshtein: "Заклинаю вас, девицы иерусалимския, газелями или ланями полевыми: не
+        тревожьте и не возбуждайте любви, пока сама не пожелает."
+      greek-lxx: ὥρκισα ὑμᾶς θυγατέρες Ιερουσαλημ ἐν ταῖς δυνάμεσιν καὶ ἐν ταῖς
+        ἰσχύσεσιν τοῦ ἀγροῦ ἐὰν ἐγείρητε καὶ ἐξεγείρητε τὴν ἀγάπην ἕως οὗ θελήσῃ
+      st_text: "Заклинаю вас, дщери Иерусалимские, сернами или полевыми ланями: не
+        будите и не тревожьте возлюбленной, доколе ей угодно."
+  - id: 28581
+    number: 8
+    bookId: 25
+    text: Голос возлюбленного моего! вот, он идет, скачет по горам, прыгает по
+      холмам.
+    chapter: 2
+    chapterId: 714
+    parallels:
+      - verseId: 17955
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 10
+        short: Ин:10:19
+    translates:
+      kassian: ""
+      podstr: Голос брата моего; вот этот пришёл прыгающий по горам скачущий по холмам.
+      csya: "Глас брата моего: се, той идет, скача на горы и прескача на холмы."
+      averincev: ""
+      ungerov: "Голос брата моего! вот он идет, поднимаясь на горы, перепрыгивая чрез
+        холмы:"
+      csya_old: "Глaсъ брaта моегw2: се2, то1й и4детъ, скачA на го1ры и3 прескачA на
+        хо1лмы."
+      sovr_rbo: "«Это милый! Слышу: он близко, прыгает по горам, скачет по холмам."
+      latin: SPONSA. Vox dilecti mei; ecce iste venit, saliens in montibus,
+        transiliens colles.
+      ukr: Голос мого коханого!... Ось він іде, ось він скаче горами, по пагірках
+        вистрибує...
+      nkjv: The Shulamite The voice of my beloved! Behold, he comes Leaping upon the
+        mountains, Skipping upon the hills.
+      desnitsky: ""
+      mt: ‫    קוֹל דּוֹדִי הִנֵּה־זֶה בָּא מְדַלֵּג עַל־הֶהָרִים מְקַפֵּץ
+        עַל־הַגְּבָעוֹת׃ ‬
+      romana: Auzi glasul celui drag! Iata-l vine, saltand peste coline, trecand din
+        munte-n munte.
+      francais: C'est la voix de mon bien-aimé! Le voici, il vient, Sautant sur les
+        montagnes, Bondissant sur les collines.
+      italian: Una voce! Il mio diletto! Eccolo, viene saltando per i monti, balzando
+        per le colline.
+      old_georgian: "ესმა ჴმაჲ სიძისა და იტყჳს: ჴმაჲ ძმისწულისა ჩემისა: აჰა, ესერა,
+        ესე მოვალს ვლდომით მთათა ზედა და მორბის ბორცუთა."
+      portuguese: A voz do meu amado! eis que vem aí, saltando sobre os montes,
+        pulando sobre os outeiros.
+      polish: "Cicho! Ukochany mój! Oto on! Oto nadchodzi! Biegnie przez góry, skacze
+        po\rpagórkach."
+      turkish: "İşte! Sevgilimin sesi!\rDağların üzerinden sekerek,\rTepelerin
+        üzerinden sıçrayarak geliyor."
+      nrt: Голос возлюбленного моего! Вот, идет он, перескакивая через горы,
+        перепрыгивая через холмы.
+      Macarius: Голос Возлюбленного моего! вот Он идет, скачет по горам, прыгает по
+        холмам.
+      serbian: Глас драгога мојега; ево га, иде скачући преко гора, поскакујући преко
+        хумова.
+      bulgarian: Възлюбената. Гласът на моя възлюбен! ето, иде, припка по планините,
+        скача по могилите.
+      pavskiy: Девица (во сне видит друга своего, и слышит его ласковую речь). Чу!
+        голос моего друга! вот он идет, скачет по горам, прыгает по холмам.
+      deutsch: Da ist die Stimme meines Freundes! Siehe, er kommt und hüpft auf den
+        Bergen und springt auf den Hügeln.
+      ukr2: Уважно! Мій любий! Ось він іде, він стрибає по горах, по горбках скаче.
+      ukr3: Се голос любого мого! ось, він ійде, скаче через гори; перескакує узгірря!
+      bel_syomukha: Голас каханага майго! вось, ён ідзе, скача па горах, перабягае па
+        ўзгорках, -
+      spbda: Голос друга моего! вот он идет, скачет по горам, прыгает по холмам.
+      anonym1858: Я слышу голос друга моего! Он идет, прыгая по горам, и скача по холмам.
+      sergievsky: Голос моего друга! вот, он идет, прыгая по горам, скача по холмам.
+      Porfiriy: Голос брата моего! Вот он идет, скакая по горам, прыгая по холмам.
+      lev-khv: Голос друга моего!... вот он идет, скачет по горам, прыгает по холмам.
+      czech: Hlas meho mileho! Hle, prave prichazi, hory preskakuje, prenasi se pres
+        pahorky.
+      spanish: ¡La voz de mi amado! Vedle que llega saltando por los montes, triscando
+        por los collados.
+      bloshtein: Голос моего друга! вот, он идет, прыгая по горам, скача по холмам.
+      greek-lxx: φωνὴ ἀδελφιδοῦ μου ἰδοὺ οὗτος ἥκει πηδῶν ἐπὶ τὰ ὄρη διαλλόμενος ἐπὶ
+        τοὺς βουνούς
+      st_text: Голос возлюбленного моего! вот, он идет, скачет по горам, прыгает по
+        холмам.
+  - id: 28582
+    number: 9
+    bookId: 25
+    text: Друг мой похож на серну или на молодого оленя. Вот, он стоит у нас за
+      стеною, заглядывает в окно, мелькает сквозь решетку.
+    chapter: 2
+    chapterId: 714
+    parallels:
+      - verseId: 28673
+        bookId: 25
+        bookCode: pesn-pesnej-solomona
+        chapter: 8
+        short: Песн:8:14
+    translates:
+      kassian: ""
+      podstr: Подобен есть брат мой антилопе или оленёнку оленей на горах Вефиля. Вот
+        этот стоит позади стены нашей склонившийся через окна выглядывающий
+        через сети.
+      csya: Подобен есть брат мой серне или младу еленю на горах вефильских. Се, сей
+        стоит за стеною нашею, проглядаяй оконцами, приницаяй сквозе мрежи.
+      averincev: ""
+      ungerov: Подобен брат мой серне или молодому оленю на горах Вефильских. Вот он
+        стоит за стеною нашею, заглядывает чрез окна, высматривает сквозь сетки.
+      csya_old: Подо1бенъ є4сть брaтъ мо1й се1рнэ и3ли2 млaду є3ле1ню на горaхъ
+        веfи1льскихъ. Се2, се1й стои1тъ за стэно1ю нaшею, проглsдаzй nко1нцами,
+        приницazй сквозЁ мрє1жи.
+      sovr_rbo: Мой милый — как юный олень или детеныш газели. Вот он стоит за стеной,
+        в окна к нам смотрит, сквозь ставни глядит.
+      latin: Similis est dilectus meus capreae, hinnuloque cervorum. En ipse stat post
+        parietem nostrum, respiciens per fenestras, prospiciens per cancellos.
+      ukr: Мій коханий подібний до сарни чи до молодого оленя. Он стоїть він у нас за
+        стіною, зазирає у вікна, заглядає у ґрати...
+      nkjv: My beloved is like a gazelle or a young stag. Behold, he stands behind our
+        wall; He is looking through the windows, Gazing through the lattice.
+      desnitsky: ""
+      mt: ‫    דּוֹמֶה דוֹדִי לִצְבִי אוֹ לְעֹפֶר הָאַיָּלִים הִנֵּה־זֶה עוֹמֵד אַחַר
+        כָּתְלֵנוּ מַשְׁגִּיחַ מִן־הַחֲלֹּנוֹת מֵצִיץ מִן־הַחֲרַכִּים׃ ‬
+      romana: Ca o gazela e iubitul meu sau e ca un pui de cerb; iata-l la noi pe
+        prispa, iata-l priveste pe fereastra, printre gratii iata-l se uita.
+      francais: Mon bien-aimé est semblable à la gazelle Ou au faon des biches. Le
+        voici, il est derrière notre mur, Il regarde par la fenêtre, Il regarde
+        par le treillis.
+      italian: Somiglia il mio diletto a un capriolo o ad un cerbiatto. Eccolo, egli
+        sta dietro il nostro muro; guarda dalla finestra, spia attraverso le
+        inferriate.
+      old_georgian: "მსგავს არს ძმისწული ჩემი ქურციკსა, ანუ ნუკრსა ირმისასა მთათა ზედა
+        ბეთელისათა. სძალმან მოსცა სასწაული სიძისა მიერ ქალწულთა და თქუა: აჰა,
+        ესერა, ესე დგას უკუანა ზღუდესა ჩუენსა, და იხედავს სარკუმლით გამო და
+        გარდმოხედავს არდაბაგთაჲთ."
+      portuguese: "O meu amado é semelhante ao gamo, ou ao filho do veado; eis que
+        está detrás da nossa parede, olhando pelas\rjanelas, lançando os olhos
+        pelas grades."
+      polish: "Umiłowany mój podobny do gazeli, do młodego jelenia. Oto stoi za
+        naszym\rmurem, patrzy przez okno, zagląda przez kraty."
+      turkish: "Sevgilim ceylana benzer, sanki bir geyik yavrusu. Bakın, duvarımızın
+        ardında duruyor, Pencerelerden bakıyor,\rKafeslerden seyrediyor."
+      nrt: Возлюбленный мой – как газель или молодой олень. Вот, стоит он за нашей
+        стеной, смотрит в окно, заглядывает через решетку.
+      Macarius: Возлюбленный мой похож на серну или на молодого оленя. Вот Он стоит за
+        стеною нашею, выглядывает из-за окон, мелькает сквозь решетки.
+      serbian: Драги је мој као срна или као јеленче; ево га, стоји иза нашега зида,
+        гледа кроз прозор, вири кроз решетку.
+      bulgarian: Моят възлюбен прилича на сърна, или на млад елен. Ето, стои зад
+        стената ни, поглежда през прозореца, наднича през решетката.
+      pavskiy: Друг мой похож на серну и на молодаго оленя. Вот он у нас за стеною,
+        заглядывает в окна, мелькает сквозь решетки.
+      deutsch: Mein Freund ist gleich einem Reh oder jungen Hirsch. Siehe, er steht
+        hinter unsrer Wand, sieht durchs Fenster und schaut durchs Gitter.
+      ukr2: Мій любий - немов олениця або оленятко. Он він стоїть за нашою стіною,
+        крізь вікна заглядає, крізь ґрати зазирає.
+      ukr3: Бо ж мій милий - мов той сугак, мов той олень молоденький! Глянь, стоїть
+        він за стїною в нас, у віконце зазирає, і кріз крати поглядає.
+      bel_syomukha: мілы падобны да сарны, да маладога аленя. Вось, ён стаіць у нас за
+        сьцяною, заглядваючы ў акно, мільгаціць за рашоткай.
+      spbda: Друг мой похож на серну и на молодого оленя. Вот он стоит у нас за
+        стеною, заглядывает в окно, посматривает сквозь решетки!
+      anonym1858: "Возлюбленный мой подобен серне или молодому оленю в горах
+        Вефильских: но вот он стоит за стеной, выглядываеть из окна, показываясь
+        сквозь решетки."
+      sergievsky: Друг мой подобен оленю или молодой серне. Вот, он стоит у нас за
+        стеною, глядит в окна, посматривает через решетки.
+      Porfiriy: Брат мой подобен серне, или молодому оленю на горах вефильских.
+      lev-khv: Друг мой похож на серну и на молодаго оленя. Вот он стоит у нас за
+        стеною, заглядываеть в окна, посматривает сквозь решотки!
+      czech: Gazele se podoba muj mily nebo kolouskovi. Hle, prave stoji za nasi
+        zidkou, nahlizi do oken, diva se mrizovim.
+      spanish: Es mi amado como la gacela o el cervatillo. Vedle que está ya detrás de
+        nuestros muros, atisbando por las ventanas, espiando por entre las
+        celosías.
+      bloshtein: Друг мой подобен оленю или молодой серне. Вот, он стоит у нас за
+        стеною, глядит в окна, посматривает через решетки.
+      greek-lxx: ὅμοιός ἐστιν ἀδελφιδός μου τῇ δορκάδι ἢ νεβρῷ ἐλάφων ἐπὶ τὰ ὄρη
+        Βαιθηλ ἰδοὺ οὗτος ἕστηκεν ὀπίσω τοῦ τοίχου ἡμῶν παρακύπτων διὰ τῶν
+        θυρίδων ἐκκύπτων διὰ τῶν δικτύων
+      st_text: Друг мой похож на серну или на молодого оленя. Вот, он стоит у нас за
+        стеною, заглядывает в окно, мелькает сквозь решетку.
+  - id: 28583
+    number: 10
+    bookId: 25
+    text: "Возлюбленный мой начал говорить мне: встань, возлюбленная моя, прекрасная
+      моя, выйди!"
+    chapter: 2
+    chapterId: 714
+    parallels:
+      - verseId: 28619
+        bookId: 25
+        bookCode: pesn-pesnej-solomona
+        chapter: 5
+        short: Песн:5:2
+    translates:
+      kassian: ""
+      podstr: "Отвечает брат мой и говорит мне: Встань приди, ближняя моя, хорошая
+        моя, голубка моя,"
+      csya: "Отвещает брат мой и глаголет мне: востани, прииди, ближняя моя, добрая
+        моя, голубице моя."
+      averincev: ""
+      ungerov: "В ответ брат мой говорит мне: встань, иди, ближняя моя, добрая моя,
+        голубица моя!"
+      csya_old: "Tвэщaетъ брaтъ мо1й и3 глаго1летъ мнЁ: востaни, пріиди2, бли1жнzz
+        моS, до1браz моS, голуби1це моS."
+      sovr_rbo: "И милый мне сказал: „Вставай, родная моя, красавица моя, выходи!"
+      latin: "En dilectus meus loquitur mihi. SPONSUS. Surge, propera, amica mea,
+        columba mea, formosa mea, et veni:"
+      ukr: "Мій коханий озвався й промовив до мене: Уставай же, подруго моя, моя
+        красна, й до мене ходи!"
+      nkjv: 'My beloved spoke, and said to me: "Rise up, my love, my fair one, And
+        come away.'
+      desnitsky: ""
+      mt: ‫    עָנָה דוֹדִי וְאָמַר לִי קוּמִי לָךְ רַעְיָתִי יָפָתִי וּלְכִי־לָךְ׃ ‬
+      romana: "Si incepe sa-mi vorbeasca: Scoala, draga mea, si vino!"
+      francais: "Mon bien-aimé parle et me dit: Lève-toi, mon amie, ma belle, et viens!"
+      italian: 'Ora parla il mio diletto e mi dice: "Alzati, amica mia, mia bella, e
+        vieni!'
+      old_georgian: "მომიგებს ძმისწული ჩემი და მეტყჳს: აღდეგ, მოვედ, მახლობელო ჩემო,
+        შუენიერო ჩემო, ტრედო ჩემო."
+      portuguese: "Fala o meu amado e me diz: Levanta-te, amada minha, formosa minha,
+        e vem."
+      polish: "Miły mój odzywa się i mówi do mnie: ”Powstań, przyjaciółko ma, piękna
+        ma,\ri pójdź!"
+      turkish: "Sevgilim şöyle dedi:\r«Kalk, gel aşkım, güzelim."
+      nrt: "Возлюбленный мой сказал мне: «Вставай, любимая моя, прекрасная моя, пойдем
+        со мной!"
+      Macarius: 'Возлюбленный мой подает голос, и говорит мне: "Встань, подруга Моя,
+        прекрасная Моя, и прииди.'
+      serbian: "Проговори драги мој и рече ми: Устани, драга моја, љепотице моја, и
+        ходи."
+      bulgarian: 'Моят възлюбен ми заговори: "стани, моя мила, моя хубавице, излез!'
+      pavskiy: "Друг мой подает голос и говорит мне: «встань, подруга моя, прекрасная
+        моя, выйди."
+      deutsch: "Mein Freund antwortet und spricht zu mir: Stehe auf, meine Freundin,
+        meine Schöne, und komm her!"
+      ukr2: "Заговорив мій любий і сказав до мене: «Устань, моя люба! Ходи, моя
+        прекрасна!"
+      ukr3: "Ось мій любий говорить до мене: Встань, моя ти мила, вийди, прекрасна
+        моя!"
+      bel_syomukha: "Каханы мой загаварыў да мяне: устань, мая любасная, мая гожая, выйдзі!"
+      spbda: "Друг мой начал говорить мне: «встань, подруга моя, красавица моя, иди
+        сюда;"
+      anonym1858: Возлюбленный мой повел речь, и сказал мне; встань, иди ко мне, моя
+        милая, моя прекрасная голубушка.
+      sergievsky: "Мой друг начал и сказал: Встань, подруга моя, красавица моя, и поди
+        ко мне!"
+      Porfiriy: "Отвечает брат мой и говорит мне: «встань, приди ближняя моя,
+        прекрасная моя, голубица моя."
+      lev-khv: "Друг мой начал говорить мне: встань, подруга моя, красавица моя, иди
+        сюда:"
+      czech: 'Muj mily se ozval, rekl mi: "Vstan, ma pritelkyne, krasko ma, a pojd!'
+      spanish: "Mi amado ha tomado la palabra y dice:\r\r\r¡Levántate ya, amada mía,
+        hermosa mía, y ven!"
+      bloshtein: "Мой друг начал и сказал: Встань, подруга моя, красавица моя, и поди
+        ко мне!"
+      greek-lxx: ἀποκρίνεται ἀδελφιδός μου καὶ λέγει μοι ἀνάστα ἐλθέ ἡ πλησίον μου
+        καλή μου περιστερά μου
+      st_text: "Возлюбленный мой начал говорить мне: встань, возлюбленная моя,
+        прекрасная моя, выйди!"
+  - id: 28584
+    number: 11
+    bookId: 25
+    text: Вот, зима уже прошла; дождь миновал, перестал;
+    chapter: 2
+    chapterId: 714
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: потому что вот ненастье прошло, дождь ушёл, пошёл себе сам,
+      csya: "Яко се, зима прейде, дождь отъиде, отъиде себе:"
+      averincev: ""
+      ungerov: Ибо вот, зима прошла, дождь миновал, пронесся,
+      csya_old: "Ћкw се2, зимA пре1йде, до1ждь tи1де, tи1де себЁ:"
+      sovr_rbo: Видишь? Зима прошла, дожди кончились, миновали.
+      latin: jam enim hiems transiit; imber abiit, et recessit.
+      ukr: Бо оце проминула пора дощова, дощ ущух, перейшов собі він.
+      nkjv: For lo, the winter is past, The rain is over and gone.
+      desnitsky: ""
+      mt: ‫    כִּי־הִנֵּה *הסתו **הַסְּתָיו עָבָר הַגֶּשֶׁם חָלַף הָלַךְ לוֹ׃ ‬
+      romana: Iarna a trecut, ploaia a incetat.
+      francais: Car voici, l'hiver est passé; La pluie a cessé, elle s'en est allée.
+      italian: Perché, ecco, l'inverno è passato, è cessata la pioggia, se n'è andata;
+      old_georgian: რამეთუ, აჰა, ესერა, ზამთარი წარჴდა და წჳმა დასცხრა და წარვიდა
+        გზასა თჳსსა.
+      portuguese: Pois eis que já passou o inverno; a chuva cessou, e se foi;
+      polish: Bo oto minęła już zima, deszcz ustał i przeszedł.
+      turkish: "Bak, kış geçti,\rYağmurların ardı kesildi,"
+      nrt: Смотри, зима уже прошла; перестали лить дожди;
+      Macarius: '"Ибо, вот, зима прошла, дождь миновал, прошел.'
+      serbian: Јер гле, зима прође, минуше дажди, отидоше.
+      bulgarian: Ето, зимата се вече мина, дъждът преваля, престана;
+      pavskiy: Ибо зима уже прошла, дождь миновал, прошел.
+      deutsch: Denn siehe, der Winter ist vergangen, der Regen ist weg und dahin;
+      ukr2: "Глянь бо: зима минула, дощі прогули, прошуміли."
+      ukr3: Вже зима минула, дощі перестали;
+      bel_syomukha: Вось, і зіма адышла; дождж перастаў, мінуўся;
+      spbda: Потому что зима уже прошла; дождь миновал, прошел;
+      anonym1858: Посмотри, зима уж кончилась, дожди прошли, — прошли — себе.
+      sergievsky: Ведь зима же прошла; дождь сменен и прошел;
+      Porfiriy: Ибо, вот зима прошла, дождь миновал, пронесся.
+      lev-khv: Потому что зима уже прошла; дождь миновал, прошел;
+      czech: Hle, zima pominula, lijavce presly, jsou tytam.
+      spanish: Que ya se ha pasado el invierno y han cesado las lluvias.
+      bloshtein: Ведь зима же прошла; дождь сменен и прошел;
+      greek-lxx: ὅτι ἰδοὺ ὁ χειμὼν παρῆλθεν ὁ ὑετὸς ἀπῆλθεν ἐπορεύθη ἑαυτῷ
+      st_text: Вот, зима уже прошла; дождь миновал, перестал;
+  - id: 28585
+    number: 12
+    bookId: 25
+    text: цветы показались на земле; время пения настало, и голос горлицы слышен в
+      стране нашей;
+    chapter: 2
+    chapterId: 714
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: цветы были сделаны видимы на земле, время обрезки настало, звук горлиц
+        был услышан на земле нашей,
+      csya: "цвети явишася на земли, время обрезания приспе, глас горлицы слышан в
+        земли нашей:"
+      averincev: ""
+      ungerov: На земле появились цветы, настало время обрезывания (виноградника),
+        голос горлицы слышен в нашей земле.
+      csya_old: "цвёти kви1шасz на земли2, вре1мz њбрёзаніz приспЁ, глaсъ го1рлицы
+        слы1шанъ въ земли2 нaшей:"
+      sovr_rbo: Показались всюду цветы, время песен настало, голос горлинки раздается.
+      latin: "Flores apparuerunt in terra nostra; tempus putationis advenit: vox
+        turturis audita est in terra nostra;"
+      ukr: Показались квітки на землі, пора соловейка настала, і голос горлиці в
+        нашому краї лунає!
+      nkjv: The flowers appear on the earth; The time of singing has come, And the
+        voice of the turtledove Is heard in our land.
+      desnitsky: ""
+      mt: ‫    הַנִּצָּנִים נִרְאוּ בָאָרֶץ עֵת הַזָּמִיר הִגִּיעַ וְקוֹל הַתּוֹר
+        נִשְׁמַע בְּאַרְצֵנוּ׃ ‬
+      romana: Flori pe camp s-au aratat si a sosit vremea cantarii, in tarina glas de
+        turturea se aude.
+      francais: Les fleurs paraissent sur la terre, Le temps de chanter est arrivé, Et
+        la voix de la tourterelle se fait entendre dans nos campagnes.
+      italian: i fiori sono apparsi nei campi, il tempo del canto è tornato e la voce
+        della tortora ancora si fa sentire nella nostra campagna.
+      old_georgian: და ყუავილი გამოჩნდა ქუეყანასა ჩუენსა, ჟამი სხლვისაჲ მოიწია, ჴმაჲ
+        გურიტისაჲ ისმა ქუეყანასა ჩვენსა.
+      portuguese: aparecem as flores na terra; já chegou o tempo de cantarem as aves,
+        e a voz da rola ouve-se em nossa terra.
+      polish: Na ziemi widać już kwiaty, nadszedł czas przycinania winnic, i głos
+        synogarlicy już słychać w naszej krainie.
+      turkish: "Çiçekler açtı,\rŞarkı mevsimi geldi,\rKumrular ötüşmeye başladı
+        beldemizde."
+      nrt: появились цветы на земле; настало время пения, и раздается голос горлицы в
+        земле нашей;
+      Macarius: '"На земле показались цветы; время пения наступило, и голос горлицы
+        слышен в нашей земле.'
+      serbian: Цвијеће се види по земљи, дође вријеме пјевању, и глас грличин чује се
+        у нашој земљи.
+      bulgarian: цветя се показаха по земята; настана време за песни, и гласът на
+        гургулицата се чува в страната ни;
+      pavskiy: На земле показались цветы, наступило время песней, и голос горлицы
+        слышим уже в земле нашей.
+      deutsch: die Blumen sind hervorgekommen im Lande, der Lenz ist herbeigekommen,
+        und die Turteltaube läßt sich hören in unserm Lande;
+      ukr2: Вже квіти на землі з'явились, пора пісень настала, і голос горлиці вже
+        чути в краю нашім.
+      ukr3: Квітки вбірають землю; час пісень настиг; в лугах наших голос горлицї
+        чути;
+      bel_syomukha: кветкамі зацьвітае зямля, час песьняў птушыных настаў, і горлінка
+        ў нашым краі засьпявала,
+      spbda: Цветы показались на земле; время песней наступило, и голос горлицы слышен
+        уже в земле нашей;
+      anonym1858: Цветы зацвели на земле, время птичьих песней наступило, и голос
+        горлицы снова слышится в нашей стороне.
+      sergievsky: Цветы уже показались на земле; время пенья уже настало, и голос
+        горлицы раздается в земле нашей;
+      Porfiriy: На земле явились цветы; время пасынкования виноградника наступило;
+        голос горлицы слышен на земле нашей.
+      lev-khv: Цветы показались на земле, время песней наступило, и голос горлицы
+        слышен <i>уже</i> в земле нашей;
+      czech: Po zemi se objevuji kvety, nadesel cas prorezavat revu, hlas hrdlicky je
+        slyset v nasi zemi.
+      spanish: Ya se muestran en la tierra los brotes floridos, y ha llegado el tiempo
+        de la poda y se deja oír en nuestra tierra el arrullo de la tórtola.
+      bloshtein: Цветы уже показались на земле; время пенья уже настало, и голос
+        горлицы раздается в земле нашей;
+      greek-lxx: τὰ ἄνθη ὤφθη ἐν τῇ γῇ καιρὸς τῆς τομῆς ἔφθακεν φωνὴ τοῦ τρυγόνος
+        ἠκούσθη ἐν τῇ γῇ ἡμῶν
+      st_text: цветы показались на земле; время пения настало, и голос горлицы слышен
+        в стране нашей;
+  - id: 28586
+    number: 13
+    bookId: 25
+    text: смоковницы распустили свои почки, и виноградные лозы, расцветая, издают
+      благовоние. Встань, возлюбленная моя, прекрасная моя, выйди!
+    chapter: 2
+    chapterId: 714
+    parallels:
+      - verseId: 24407
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 21
+        short: Лк:21:30
+    translates:
+      kassian: ""
+      podstr: смоковница произвела незрелые плоды её, виноградные лозы расцвели, дали
+        запах. Встань приди, ближняя моя, хорошая моя, голубка моя,
+      csya: смоквь изнесе цвет свой, виногради зреюще даша воню. Востани, прииди,
+        ближняя моя, добрая моя, голубице моя, и прииди.
+      averincev: ""
+      ungerov: Смоковница принесла ранния ягоды свои, виноградныя лозы цветут, издают
+        благоухание. Встань, иди, ближняя моя, прекрасная моя, голубица моя,
+        гряди!
+      csya_old: смо1квь и3знесе2 цвётъ сво1й, віногрaди зрёюще дaша воню2. Востaни,
+        пріиди2, бли1жнzz моS, до1браz моS, голуби1це моS, и3 пріиди2.
+      sovr_rbo: Уже поспевает инжир, слышен запах цветущей лозы . Вставай, родная моя,
+        красавица моя, выходи!
+      latin: "ficus protulit grossos suos; vineae florentes dederunt odorem suum.
+        Surge, amica mea, speciosa mea, et veni:"
+      ukr: Фіґа випустила свої ранні плоди, і розцвілі виноградини пахощі видали.
+        Уставай же, подруго моя, моя красна, й до мене ходи!
+      nkjv: The fig tree puts forth her green figs, And the vines with the tender
+        grapes Give a good smell. Rise up, my love, my fair one, And come away!
+      desnitsky: ""
+      mt: ‫    הַתְּאֵנָה חָנְטָה פַגֶּיהָ וְהַגְּפָנִים סְמָדַר נָתְנוּ רֵיחַ קוּמִי
+        *לכי **לָךְ רַעְיָתִי יָפָתִי וּלְכִי־לָךְ׃ ס ‬
+      romana: Smochinii isi dezvelesc mugurii si florile de vie vazduhul parfumeaza.
+        Scoala, draga mea, si vino!
+      francais: Le figuier embaume ses fruits, Et les vignes en fleur exhalent leur
+        parfum. Lève-toi, mon amie, ma belle, et viens!
+      italian: Il fico ha messo fuori i primi frutti e le viti fiorite spandono
+        fragranza. Alzati, amica mia, mia bella, e vieni!
+      old_georgian: ლეღუმან გამოუტევა გაგაჲ თჳსი, ვენაჴნი ყუავიან, მოსცეს სულნელებაჲ
+        თჳსი. აღდეგ, მოვედ, მახლობელო ჩემო, შუენიერო ჩემო, ტრედო ჩემო,
+      portuguese: "A figueira começa a dar os seus primeiros figos; as vides estão em
+        flor e exalam o seu aroma. Levanta-te, amada\rminha, formosa minha, e
+        vem."
+      polish: "Drzewo figowe wydało zawiązki owoców i winne krzewy kwitnące już
+        pachną.\rPowstań, przyjaciółko ma, piękna ma, i pójdź!"
+      turkish: "İncir ağacı ilk meyvesini verdi,\rYeşeren asmalar mis gibi kokular
+        saçmakta.\rKalk, gel aşkım, güzelim.»"
+      nrt: на инжире созревают плоды, и цветущие виноградные лозы источают свой
+        аромат. Вставай, любимая моя, прекрасная моя, пойдем со мной!»
+      Macarius: '"Смоковница наполнила соком свои ягоды; и виноградные лозы,
+        расцветая, издают благовоние. Встань, подруга Моя, прекрасная Моя, и
+        прииди.'
+      serbian: Смоква је пустила заметке своје, и лоза винова уцвала мирише. Устани,
+        драга моја, љепотице моја, и ходи.
+      bulgarian: смоковниците разтвориха пъпките си, и цъфналите лози в лозята издават
+        благоухание. Стани, моя мила, хубавице моя, излез!
+      pavskiy: "Смоковница наливает ягоды свои и лозы от цвета своего издают
+        благовоние [вариант: Смоковница наполнила соком свои ягоды и виноградныя
+        лозы в цвете издают благовоние.]. Встань, возлюбленная моя [вар.: Встань
+        подруга моя], прекрасная моя, и иди [вар.: Прекрасная моя, выйди.]."
+      deutsch: der Feigenbaum hat Knoten gewonnen, die Weinstöcke haben Blüten
+        gewonnen und geben ihren Geruch. Stehe auf, meine Freundin, und komm,
+        meine Schöne, komm her!
+      ukr2: Смоковниця бруньки вже виганяє, і виноград, у цвіту пахощі розливає.
+        Устань, іди, моя люба! Ходи, моя прегарна!
+      ukr3: Завязки фіґ показались на фіґовинї; виноград зацвив і дише любим своїм
+        цьвітом. Уставай, моя ти люба, вийди, пишна вродо!
+      bel_syomukha: налівае смакоўніца пупышкі, вінаградныя лозы пахнуць у квецені.
+        Устань, мая любасная, мая гожая выйдзі!
+      spbda: Ягоды смоковницы созрели, и виноградныя лозы, разцветая, издают
+        благовоние. Встань, подруга моя, красавица моя, иди сюда!
+      anonym1858: "Смоковница пустила свои зеленые фиги, и зрелые виноградники
+        заблагоухали своими гроздами: встань, приди ко мне, моя милая, моя
+        прекрасная голубка."
+      sergievsky: Смоковница уже произвела спелыя ягоды, и виноградныя лозы уже
+        расцветают и издают хороший запах. Встань, подруга моя, красавица моя, и
+        поди ко мне.
+      Porfiriy: Смоковница распустила почки свои; виноградники цветут, издают
+        благоухание. Встань, приди ближняя моя, прекрасная моя, голубица моя.
+      lev-khv: Ягоды смоковницы созрели, и виноградныя лозы разцветая, издают
+        благовоние. Встань, подруга моя, красавица моя, иди сюда!
+      czech: Fikovnik nasadil prvni plody, voni kvitky vinne revy. Vstan, ma
+        pritelkyne, krasko ma, a pojd!"
+      spanish: Ya ha echado la higuera sus brotes, ya las viñas en flor esparcen su
+        aroma. ¡Levántate, amada mía, hermosa mía, y ven!
+      bloshtein: Смоковница уже произвела спелыя ягоды, и виноградныя лозы уже
+        расцветают и издают хороший запах. Встань, подруга моя, красавица моя, и
+        поди ко мне.
+      greek-lxx: ἡ συκῆ ἐξήνεγκεν ὀλύνθους αὐτῆς αἱ ἄμπελοι κυπρίζουσιν ἔδωκαν ὀσμήν
+        ἀνάστα ἐλθέ ἡ πλησίον μου καλή μου περιστερά μου
+      st_text: смоковницы распустили свои почки, и виноградные лозы, расцветая, издают
+        благовоние. Встань, возлюбленная моя, прекрасная моя, выйди!
+  - id: 28587
+    number: 14
+    bookId: 25
+    text: Голубица моя в ущелье скалы под кровом утеса! покажи мне лице твое, дай
+      мне услышать голос твой, потому что голос твой сладок и лице твое приятно.
+    chapter: 2
+    chapterId: 714
+    parallels:
+      - verseId: 28571
+        bookId: 25
+        bookCode: pesn-pesnej-solomona
+        chapter: 1
+        short: Песн:1:14
+      - verseId: 28642
+        bookId: 25
+        bookCode: pesn-pesnej-solomona
+        chapter: 6
+        short: Песн:6:9
+      - verseId: 28672
+        bookId: 25
+        bookCode: pesn-pesnej-solomona
+        chapter: 8
+        short: Песн:8:13
+      - verseId: 25029
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 10
+        short: Мф:10:16
+    translates:
+      kassian: ""
+      podstr: и приди ты, голубка моя в тень скалы держащейся окрестности, покажи мне
+        внешний вид твой и дай услышать мне голос твой, потому что голос твой
+        сладкий, и внешний вид твой прекрасен.
+      csya: "Ты, голубице моя, в покрове каменне, близ предстения: яви ми зрак твой, и
+        услышан сотвори ми глас твой: яко глас твой сладок, и образ твой
+        красен."
+      averincev: ""
+      ungerov: Ты, голубица моя, (находишься) под сенью скалы, близ передней стены.
+        Покажи мне лице твое и дай мне услышать голос твой, ибо голос твой
+        приятен и лик твой прекрасен.
+      csya_old: "Ты2, голуби1це моS, въ покро1вэ кaменнэ, бли1з8 предстёніz: kви1 ми
+        зрaкъ тво1й, и3 ўслы1шанъ сотвори1 ми глaсъ тво1й: ћкw глaсъ тво1й
+        слaдокъ, и3 њ1бразъ тво1й красе1нъ."
+      sovr_rbo: "Голубка моя, что укрылась среди скал, за горным уступом! Дай мне тебя
+        увидеть, дай услышать твой голос: голос твой нежен, прекрасен твой
+        вид”."
+      latin: "columba mea, in foraminibus petrae, in caverna maceriae, ostende mihi
+        faciem tuam, sonet vox tua in auribus meis: vox enim tua dulcis, et
+        facies tua decora."
+      ukr: Голубко моя у розщілинах скельних, у бескіднім сховку, дай побачити мені
+        твоє личко, дай почути мені голосок твій, бо голос твій милий, а личко
+        твоє уродливе!
+      nkjv: '"O my dove, in the clefts of the rock, In the secret places of the cliff,
+        Let me see your face, Let me hear your voice; For your voice is sweet,
+        And your face is lovely."'
+      desnitsky: ""
+      mt: ‫    יוֹנָתִי בְּחַגְוֵי הַסֶּלַע בְּסֵתֶר הַמַּדְרֵגָה הַרְאִינִי
+        אֶתּ־מַרְאַיִךְ‪‬‪‬‪‬ הַשְׁמִיעִינִי אֶת־קוֹלֵךְ כִּי־קוֹלֵךְ עָרֵב
+        וּמַרְאֵיךְ נָאוֶה׃ ס ‬
+      romana: Porumbita mea, ce-n crapaturi de stanca, la loc prapastios te-ascunzi,
+        arata-ti fata ta! Lasa-ma sa-ti aud glasul! Ca glasul tau e dulce si
+        fata ta placuta.
+      francais: Ma colombe, qui te tiens dans les fentes du rocher, Qui te caches dans
+        les parois escarpées, Fais-moi voir ta figure, Fais-moi entendre ta
+        voix; Car ta voix est douce, et ta figure est agréable.
+      italian: O mia colomba, che stai nelle fenditure della roccia, nei nascondigli
+        dei dirupi, mostrami il tuo viso, fammi sentire la tua voce, perché la
+        tua voce è soave, il tuo viso è leggiadro".
+      old_georgian: მოვედ თავით შენით, ტრედო ჩემო, საგრილსა ქუეშე კლდისასა, მახლობელად
+        ზღუდისა, მაჩუენე მე პირი შენი და მასმინე მე ჴმაჲ შენი, რამეთუ ტკბილ არს
+        ჴმაჲ შენი სმენად და პირი შენი შუენიერ.
+      portuguese: "Pomba minha, que andas pelas fendas das penhas, no oculto das
+        ladeiras, mostra-me o teu semblante faze-me\rouvir a tua voz; porque a
+        tua voz é doce, e o teu semblante formoso."
+      polish: "Gołąbko ma, [ukryta] w zagłębieniach skały, w szczelinach przepaści,
+        ukaż mi\rswą twarz, daj mi usłyszeć swój głos! Bo słodki jest głos twój
+        i twarz pełna\rwdzięku”."
+      turkish: "Kaya kovuklarında,\rUçurum kenarlarında gizlenen güvercinim!\rBoyunu
+        bosunu göster bana,\rSesini duyur;\rÇünkü sesin tatlı, boyun bosun
+        güzeldir."
+      nrt: – Голубка моя далеко в ущелье скалы, недосягаема, в пещере на склоне горы.
+        Позволь мне увидеть тебя и услышать голос твой, потому что сладок голос
+        твой, и прекрасно лицо твое.
+      Macarius: '"Голубица Моя, сидящая в ущелиях скалы, под кровом утеса! Дай Мне
+        увидеть лицо твое, дай Мне услышать голос твой, ибо голос твой приятен,
+        и лицо твое прекрасно.'
+      serbian: Голубице моја у расјелинама каменијем, у заклону врлетном! Дај да видим
+        лице твоје, дај да чујем глас твој; јер је глас твој сладак и лице твоје
+        красно.
+      bulgarian: Гълъбице моя в скални проломи, под каменни заклони! покажи ми лицето
+        си, дай ми да чуя гласа ти, защото гласът ти е сладък, и лицето ти
+        приятно.
+      pavskiy: "Голубка моя в ущелиях скалы, под защитою утеса, покажи мне зрак твой
+        [вар.: Дай мне увидеть лице твое.], дай усышать мне голос твой, ибо
+        голос твой приятен, и зрак твой прелестен [вар.: И лице твое
+        прекрасно.]."
+      deutsch: Meine Taube in den Felsklüften, in den Steinritzen, zeige mir deine
+        Gestalt, laß mich hören deine Stimme; denn die Stimme ist süß, und deine
+        Gestalt ist lieblich.
+      ukr2: Моя голубко, у щілинах скелястих, у сховку стрімкої кручі! Дай глянути на
+        твоє личко, дай голос твій почути! Бо голос твій солодкий, і личко твоє
+        принадне.»
+      ukr3: Голубко моя в росколинах скелї, схована в дупловинї! покажи менї лице
+        твоє, дай голос твій почути; голос твій такий солодкий, образ твій такий
+        принадний!
+      bel_syomukha: Горлінка ў горнай цясьніне, пад паветкаю скалаў! Пакажы мне свой
+        тварык, дай мне пачуць твой галасок; бо твой голас - салодкі, бо мне
+        тварык твой вабны!
+      spbda: "Голубка моя, сидящая в ущелии скалы под кровом утеса! покажи мне лице
+        твое, дай мне услышать голос твой: потому что голос твой приятен и лице
+        твое мило!»"
+      anonym1858: Голубка моя, живущая в разселинах скал, и в глуби утесов, покажи мне
+        взор, открой мне голос свой; голос твой пленительный, взгляд твой
+        очаровательный.
+      sergievsky: Голубка моя — в разселине скалы, в таинственной ступени; покажи мне
+        лице твое, дай мне услышать глас твой; ибо глас твой сладкозвучен, и
+        лице твое миловидно.
+      Porfiriy: Приди же ты, голубица моя, под кров скалы, что близ передоваго
+        укрепления. Покажи мне лице твое, и дай мне услышать голос твой. Ибо
+        голос твой приятен, и лице твое прекрасно».
+      lev-khv: "Голубка моя, <i>сидящая</i> в ущелии скалы, под кровом утеса! покажи
+        мне лице твое, дай мне услышать голос твой: потому что голос твой
+        приятен, и лице твое мило!"
+      czech: Holubicko moje v rozsedlinach skaly, v ukrytu nad strzi, doprej mi
+        zahlednout tvou tvar, dovol mi hlas tvuj slyset. Jak lahodny je tvuj
+        hlas! Jak puvabnou mas tvar!
+      spanish: Paloma mía, (que anidas) en las hendiduras de las rocas, en las grietas
+        de las peñas escarpadas, dame a ver tu rostro, hazme oír tu voz. Que tu
+        voz es dulce y encantador tu rostro.
+      bloshtein: Голубка моя — в разселине скалы, в таинственной ступени; покажи мне
+        лице твое, дай мне услышать глас твой; ибо глас твой сладкозвучен, и
+        лице твое миловидно.
+      greek-lxx: καὶ ἐλθὲ σύ περιστερά μου ἐν σκέπῃ τῆς πέτρας ἐχόμενα τοῦ
+        προτειχίσματος δεῖξόν μοι τὴν ὄψιν σου καὶ ἀκούτισόν με τὴν φωνήν σου
+        ὅτι ἡ φωνή σου ἡδεῖα καὶ ἡ ὄψις σου ὡραία
+      st_text: Голубица моя в ущелье скалы под кровом утеса! покажи мне лице твое, дай
+        мне услышать голос твой, потому что голос твой сладок и лице твое
+        приятно.
+  - id: 28588
+    number: 15
+    bookId: 25
+    text: Ловите нам лисиц, лисенят, которые портят виноградники, а виноградники
+      наши в цвете.
+    chapter: 2
+    chapterId: 714
+    parallels:
+      - verseId: 16719
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 13
+        short: Иез:13:4
+      - verseId: 24049
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 13
+        short: Лк:13:32
+    translates:
+      kassian: ""
+      podstr: Ловите нам лисиц малых истребляющих виноградники, и виноградные лозы
+        наши цветут.
+      csya: "Имите нам лисы малыя, губящыя винограды: и виногради наши созревают."
+      averincev: ""
+      ungerov: Переловите нам малых лисиц, портящих виноградники, а наши виноградники
+        цветут.
+      csya_old: "И#ми1те нaмъ ли6сы м†лыz, губsщыz віногрaды: и3 віногрaди нaши
+        созрэвaютъ."
+      sovr_rbo: Лисят ловите, маленьких лисят! Портят они виноградники — а наш
+        виноградник в цвету!
+      latin: "SPONSA. Capite nobis vulpes parvulas quae demoliuntur vineas: nam vinea
+        nostra floruit."
+      ukr: Ловіть нам лисиці, лисинята маленькі, що ушкоджують нам виноградники,
+        виноградники ж наші у цвіті!
+      nkjv: Her Brothers Catch us the foxes, The little foxes that spoil the vines,
+        For our vines have tender grapes.
+      desnitsky: ""
+      mt: ‫    אֶחֱזוּ־לָנוּ שׁוּעָלִים שׁוּעָלִים קְטַנִּים מְחַבְּלִים כְּרָמִים
+        וּכְרָמֵינוּ סְמָדַר׃ ‬
+      romana: Prindeti vulpile, prindeti puii lor, ele ne strica viile, ca via noastra
+        e acum in floare.
+      francais: Prenez-nous les renards, Les petits renards qui ravagent les
+        vignes;  Car nos vignes sont en fleur.
+      italian: Prendeteci le volpi, le volpi piccoline che guastano le vigne, perché
+        le nostre vigne sono in fiore.
+      old_georgian: "ქალწულნი ეტყჳან სიძესა: მიპყრენით ჩუენ მელნი მცირნი, განმრყუნელნი
+        ვენაჴთანი და ვენაჴნი ჩუენნი ყუავიან."
+      portuguese: Apanhai-nos as raposas, as raposinhas, que fazem mal às vinhas; pois
+        as nossas vinhas estão em flor.
+      polish: ”Schwytajcie nam lisy, małe lisy, co pustoszą winnice, bo w kwieciu są
+        winnice nasze”.
+      turkish: "Yakalayın tilkileri bizim için,\rBağları bozan küçük tilkileri;\rÇünkü
+        bağlarımız yeşerdi."
+      nrt: Поймайте нам лисиц, лисят, которые портят виноградники, а виноградники наши
+        цветут.
+      Macarius: «Ловите нам лисиц, небольших лисенят, которые портят виноградники; а
+        виноградники наши в цвете».
+      serbian: Похватајте нам лисице, мале лисице, што кваре винограде, јер наши
+        виногради цвату.
+      bulgarian: Ловете ни лисиците, лисичетата, които повреждат лозята, а лозята ни
+        са цъфнали."
+      pavskiy: "Ловите лисиц, молодых лисенков, которые повреждают [вар.: Портят.]
+        виноградники; виноградники наши в цвете»."
+      deutsch: Fanget uns die Füchse, die kleinen Füchse, die die Weinberge verderben;
+        denn unsere Weinberge haben Blüten gewonnen.
+      ukr2: Спіймайте нам лисиць, лисиць маленьких, що виноградники нівечать, наші
+        виноградники у цвіту.
+      ukr3: Ловіть нам лисицї, молодії лисинята, що псують наш виноградник, -
+        виноградник у цьвіту наш!
+      bel_syomukha: Лавіце нам лісянятак і лісак лавіце, што мне вінаграднік марнуюць;
+        а вінаграднікі ж нашыя ў цьвеце!
+      spbda: Ловите нам лисиц, лисенят, которыя портят виноградники; а виноградники
+        наши в цвете.
+      anonym1858: Отгоните от нас молодых лисиц, губящих виноградники, как только
+        виноград созревает.
+      sergievsky: Ловите нам лисиц, лисенят, которыя портят виноградники; с тех пор,
+        как виноградники наши в полном цвету.
+      Porfiriy: "Переловите нам маленьких лисиц, губящих виноградники: а виноградники
+        наши цветут."
+      lev-khv: Ловите нам лисиц, лисенят, которыя портят виноградники; а виноградники
+        наши в цвете.
+      czech: '"Lisky nam schytejte, listicky male, plenici vinice, vinice nase, kdyz
+        kvetou!"'
+      spanish: ¡Cazadnos las raposas, las raposillas que destrozan las viñas, nuestras
+        viñas en flor!
+      bloshtein: Ловите нам лисиц, лисенят, которыя портят виноградники; с тех пор,
+        как виноградники наши в полном цвету.
+      greek-lxx: πιάσατε ἡμῖν ἀλώπεκας μικροὺς ἀφανίζοντας ἀμπελῶνας καὶ αἱ ἄμπελοι
+        ἡμῶν κυπρίζουσιν
+      st_text: Ловите нам лисиц, лисенят, которые портят виноградники, а виноградники
+        наши в цвете.
+  - id: 28589
+    number: 16
+    bookId: 25
+    text: Возлюбленный мой принадлежит мне, а я ему; он пасет между лилиями.
+    chapter: 2
+    chapterId: 714
+    parallels:
+      - verseId: 28635
+        bookId: 25
+        bookCode: pesn-pesnej-solomona
+        chapter: 6
+        short: Песн:6:2
+      - verseId: 28636
+        bookId: 25
+        bookCode: pesn-pesnej-solomona
+        chapter: 6
+        short: Песн:6:3
+      - verseId: 28656
+        bookId: 25
+        bookCode: pesn-pesnej-solomona
+        chapter: 7
+        short: Песн:7:11
+    translates:
+      kassian: ""
+      podstr: Брат мой мне, и я ему, пасущий в лилиях,
+      csya: Брат мой мне, и аз ему, пасый в кринах,
+      averincev: ""
+      ungerov: Брат мой (принадлежит) мне, а я — ему. Он пасет среди лилий.
+      csya_old: Брaтъ мо1й мнЁ, и3 ѓзъ є3мY, пасы1й въ крjнахъ,
+      sovr_rbo: Милый — мой, а я — его; он среди лилий пасется.
+      latin: Dilectus meus mihi, et ego illi, qui pascitur inter lilia,
+      ukr: Мій коханий він мій, я ж його, він пасе між лілеями!
+      nkjv: The Shulamite My beloved is mine, and I am his. He feeds his flock among
+        the lilies.
+      desnitsky: ""
+      mt: ‫    דּוֹדִי לִי וַאֲנִי לוֹ הָרֹעֶה בַּשּׁוֹשַׁנִּים׃ ‬
+      romana: Iubitul meu este al meu si eu sunt a lui. El printre crini isi paste
+        mieii.
+      francais: Mon bien-aimé est à moi, et je suis à lui; Il fait paître son troupeau
+        parmi les lis.
+      italian: Il mio diletto è per me e io per lui. Egli pascola il gregge fra i figli.
+      old_georgian: "სძალი ეტყჳს: ძმისწული ჩემი ჩემდა და მე - მისა, რომელი ჰმწყსი
+        შროშანთა შორის."
+      portuguese: O meu amado é meu, e eu sou dele; ele apascenta o seu rebanho entre
+        os lírios.
+      polish: Mój miły jest mój, a ja jestem jego, on stada swe pasie wśród lilii.
+      turkish: Sevgilim benimdir, ben de onun, Zambaklar arasında gezinir durur.
+      nrt: – Возлюбленный мой принадлежит мне, а я ему. Среди лилий пасется он.
+      Macarius: Возлюбленный мой мне принадлежит, и я Ему, пасущему между лилиями.
+      serbian: Мој је драги мој, и ја сам његова, он пасе међу љиљанима.
+      bulgarian: Моят възлюбен принадлежи на мене, аз пък - нему; той пасе между кринове.
+      pavskiy: "Мой друг есть мой, и я его, он пасется среди лилий [вар.: Друг мой
+        есть мой, и я принадлежу ему, пасущемуся между лилиями.]."
+      deutsch: Mein Freund ist mein, und ich bin sein, der unter Rosen weidet.
+      ukr2: Мій любий - мій, а я його, -його, що пасе між лілеями.
+      ukr3: Мій любий менї належить, а я йому; він пасе серед лилїй.
+      bel_syomukha: Каханы аддадзены мне, я - яму; ён пасьвіць сярод лілеяў.
+      spbda: Друг мой принадлежит мне, а я ему, пасущему между лилиями.
+      anonym1858: "Возлюбленный мой принадлежить мне, а я ему: он пасет свое стадо в
+        долине цветов."
+      sergievsky: Друг мой у меня, а я у него, пастуха, между розами.
+      Porfiriy: Мой брат — мой, а я его! Он пасет среди лилий.
+      lev-khv: Друг мой принадлежит мне, а я ему, пасущему между лилиями.
+      czech: Muj mily je muj a ja jsem jeho, on pase v liliich.
+      spanish: Mi amado es para mí, y yo para él. Pastorea entre azucenas.
+      bloshtein: Друг мой у меня, а я у него, пастуха, между розами.
+      greek-lxx: ἀδελφιδός μου ἐμοί κἀγὼ αὐτῷ ὁ ποιμαίνων ἐν τοῖς κρίνοις
+      st_text: Возлюбленный мой принадлежит мне, а я ему; он пасет между лилиями.
+  - id: 28590
+    number: 17
+    bookId: 25
+    text: Доколе день дышит [<i>прохладою</i>], и убегают тени, возвратись, будь
+      подобен серне или молодому оленю на расселинах гор.
+    chapter: 2
+    chapterId: 714
+    parallels:
+      - verseId: 28607
+        bookId: 25
+        bookCode: pesn-pesnej-solomona
+        chapter: 4
+        short: Песн:4:6
+      - verseId: 28673
+        bookId: 25
+        bookCode: pesn-pesnej-solomona
+        chapter: 8
+        short: Песн:8:14
+    translates:
+      kassian: ""
+      podstr: до которого [времени] развеется день и зашевелятся тени. Возвратись
+        подобный ты, брат мой, зайцу или оленёнку оленей на горах впадин.
+      csya: дондеже дхнет день, и двигнутся сени. Обратися, уподобися ты, брате мой,
+        серне или младу еленю на горах юдолий.
+      averincev: ""
+      ungerov: Пока идет день и передвигаются тени, ты возвратись, брат мой, подобно
+        серне или молодому оленю, по разселинам гор.
+      csya_old: до1ндеже дхне1тъ де1нь, и3 дви1гнутсz сBни. Њбрати1сz, ўподо1бисz ты2,
+        брaте мо1й, се1рнэ и3ли2 млaду є3ле1ню на горaхъ ю3до1лій.
+      sovr_rbo: Пока не повеял день, пока не рассеялись тени , беги обратно, милый,
+        как юный олень или детеныш газели по горам и долам!»
+      latin: donec aspiret dies, et inclinentur umbrae. Revertere; similis esto,
+        dilecte mi, capreae, hinnuloque cervorum super montes Bether.
+      ukr: Поки день прохолоду навіє, а тіні втечуть, вернись, мій коханий, стань
+        подібний до сарни чи до молодого оленя в пахучих горах!
+      nkjv: (To Her Beloved) Until the day breaks And the shadows flee away, Turn, my
+        beloved, And be like a gazelle Or a young stag Upon the mountains of
+        Bether.
+      desnitsky: ""
+      mt: ‫    עַד שֶׁיָּפוּחַ הַיּוֹם וְנָסוּ הַצְּלָלִים סֹב דְּמֵה־לְךָ‪‬‪‬ דוֹדִי
+        לִצְבִי אוֹ לְעֹפֶר הָאַיָּלִים עַל־הָרֵי בָתֶר׃ ס ‬
+      romana: Pana nu se racoreste ziua, pana nu se-ntinde umbra serii, vino, dragul
+        meu, saltand ca o caprioara, ca un pui de cerb, peste muntii ce ne
+        despart.
+      francais: Avant que le jour se rafraîchisse, Et que les ombres fuient,
+        Reviens!... sois semblable, mon bien-aimé, A la gazelle ou au faon des
+        biches, Sur les montagnes qui nous séparent.
+      italian: Prima che spiri la brezza del giorno e si allunghino le ombre, ritorna,
+        o mio diletto, somigliante alla gazzella o al cerbiatto, sopra i monti
+        degli aromi.
+      old_georgian: ვიდრემდის წარჴდეს დღე და მოადგენ აჩრდილნი, მოიქეც და ემსგავსე შენ,
+        ძმისწულო ჩემო, ქურციკსა, ანუ ნუკრსა ირმისასა მთათა ზედა ღელოვანთა.
+      portuguese: "Antes que refresque o dia, e fujam as sombras, volta, amado meu, e
+        faze-te semelhante ao gamo ou ao filho dos\rveados sobre os montes de
+        Beter."
+      polish: "Nim wiatr wieczorny powieje i znikną cienie, wróć, bądź podobny, mój
+        miły,\rdo gazeli, do młodego jelenia na górach Beter!"
+      turkish: "Ey sevgilim, gün serinleyip gölgeler uzayana dek, Engebeli dağlar
+        üzerinde bir ceylan gibi,\rGeyik yavrusu gibi ol!"
+      nrt: Пока не наступил день и не скрылись тени, возвратись, возлюбленный мой,
+        скачи, словно газель или молодой олень на расселинах гор.
+      Macarius: Пока еще день дышет прохладою, и ложатся длинные тени, возвратись,
+        Возлюбленный мой, подобно серне, или молодому оленю, по горам
+        разделения.
+      serbian: Док захлади дан и сјенке отиду, врати се, буди као срна, драги мој, или
+        као јеленче по горама раздијељенијем.
+      bulgarian: Докле денят лъха прохлада, и бягат сенките, върни се, мой мили, и
+        бъди като сърна или като млад елен, по планински скали.
+      pavskiy: "Пока дышет прохладою день, и стелются долгия тени [вар.: И убегают
+        тени.], возвратись, друг мой, будь подобен серне [вар.: Беги ко мне
+        снова, друг мой, подобно серне.], или молодому оленю, чтó на горах
+        отдаленных [вар.: По разлучающим нас горам.]."
+      deutsch: Bis der Tag kühl wird und die Schatten weichen, kehre um; werde wie ein
+        Reh, mein Freund, oder wie ein junger Hirsch auf den Scheidebergen.
+      ukr2: Покіль день дише холодочком і тіні утікають, вернись, мій любий! Будь, як
+        газеля або як оленятко на горах Бетер!
+      ukr3: Покіль день холодом дише, тїнь не простяглася, ти знов вернися; будь
+        скорий, як серна, як молодий олень на розпадених горах.
+      bel_syomukha: Пакуль не астыў яшчэ дзень, не паслаліся цені, пасьпяшайся назад,
+        як сарна, мой мілы, ці як алень малады на вышынях Бэтэр.
+      sergievsky: Пока день извеется, и исчезнутъ тени, тогда обернись, мой друг, и
+        уподобись оленю или молодой серне на разсевшихся горах.
+      Porfiriy: Пока день дышет и лягут тени, возвратись, брат мой, подобно серне, или
+        молодому оленю, по извилистым горам.
+      lev-khv: Пока день дышет прохладою и ложатся тени, обратись <i>ко мне</i>,
+        сделайся, друг мой, подобен серне или молодому оленю на разсевшихся
+        горах.
+      czech: Nez zavane den a stiny daji se v beh, pribehni, mily muj, podoben gazele
+        ci kolouskovi na Beterskych horach.
+      spanish: Antes de que refresque el día y huyan las sombras, vuelve, amado mío,
+        semejante a la gacela o al cervatillo por los montes de Beter.
+      bloshtein: Пока день извеется, и исчезнутъ тени, тогда обернись, мой друг, и
+        уподобись оленю или молодой серне на разсевшихся горах.
+      greek-lxx: ἕως οὗ διαπνεύσῃ ἡ ἡμέρα καὶ κινηθῶσιν αἱ σκιαί ἀπόστρεψον ὁμοιώθητι
+        σύ ἀδελφιδέ μου τῷ δόρκωνι ἢ νεβρῷ ἐλάφων ἐπὶ ὄρη κοιλωμάτων
+      st_text: Доколе день дышит [<i>прохладою</i>], и убегают тени, возвратись, будь
+        подобен серне или молодому оленю на расселинах гор.

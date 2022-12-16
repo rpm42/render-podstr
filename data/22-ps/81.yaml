@@ -1,0 +1,508 @@
+id: 599
+number: 81
+bookId: 22
+verseCount: 8
+title: Глава 81
+verses:
+  - id: 32467
+    number: 1
+    bookId: 22
+    text: "Псалом Асафа. Бог стал в сонме богов; среди богов произнес суд:"
+    chapter: 81
+    chapterId: 599
+    parallels:
+      - verseId: 21637
+        bookId: 2
+        bookCode: ishod
+        chapter: 22
+        short: Исх:22:8
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Псалом Асафу. Бог ста в сонме богов, посреде же боги разсудит.
+      averincev: ""
+      ungerov: "Псалом Асафа. Бог стал в сонме богов, дабы среди богов произвести суд:"
+      csya_old: Pало1мъ ґсaфу, Бг7ъ стA въ со1нмэ богHвъ, посредё же бо1ги разсyдитъ.
+      sovr_rbo: "Псалом Асафа. Бог стал в сонме богов; среди богов произнес суд:"
+      latin: Psalmus Asaph. Deus stetit in synagoga deorum; in medio autem deos
+        dijudicat.
+      ukr: "Бог на Божім зібранні стоїть, серед богів Він судить:"
+      nkjv: A Psalm of Asaph. God stands in the congregation of the mighty; He judges
+        among the gods.
+      desnitsky: ""
+      mt: ‫   מִזְמוֹר לְאָסָף אֱלֹהִים נִצָּב בַּעֲדַת־אֵל בְּקֶרֶב אֱלֹהִים
+        יִשְׁפֹּט׃ ‬
+      romana: Al lui Asaf. Dumnezeu a stat in dumnezeiasca adunare si in mijlocul
+        dumnezeilor va judeca.
+      italian: Salmo. Di Asaf. Dio si alza nell'assemblea divina, giudica in mezzo
+        agli dèi.
+      old_georgian: ღმერთი დადგა შესაკრებელსა ღმერთთასა, ხოლო შორის ღმერთნი განიკითხნეს.
+      portuguese: "Deus está na assembléia divina; julga no meio dos deuses:"
+      polish: "Psalm. Asafowy. Bóg powstaje w zgromadzeniu bogów, pośrodku bogów
+        sąd\rodbywa:"
+      nrt: "Псалом Асафа. Бог возглавляет великое собрание, среди богов произносит
+        суд:"
+      Macarius: "Псалом Асафов. Бог стал в сонме Божием, среди богов произнес суд:"
+      bulgarian: "Бог застана в събранието на боговете; всред боговете произнесе съд:"
+      deutsch: Ein Psalm Asaphs. Gott steht in der Gemeinde Gottes und ist Richter
+        unter den Göttern.
+      ukr2: "Псалом. Асафа. Бог стоїть серед Божої громади, серед богів він судить:"
+      ukr3: "Псальма Асафова. Б ог стоїть серед громади Божої, серед суддїв судить
+        він:"
+      bel_syomukha: "Псальма Асафава. Бог стаяў у гурце багоў; сярод багоў правіў суд:"
+      gorsky-platonov: Бог стоит в сонме Божием, среди богов дает суд.
+      czech: "pro Asafa. V shromazdeni bohu postavil se Buh, vykona soud mezi bohy:"
+      spanish: "Salmo de Asaf. Está Dios en el consejo divino, en medio de los dioses
+        juzga:"
+      zertis-kamenskiy: Псалом Асафов. Бог предстоит в сонме божии посреде богов судит [глаголя].
+      pakazkiy: "Востал Бог в сонмище с богами Судить решения их дел;\rИ тако гневными
+        устами На них взирая загремел:"
+      greek-lxx: ψαλμὸς τῷ Ασαφ ὁ Θεὸς ἔστη ἐν συναγωγῇ θεῶν ἐν μέσῳ δὲ θεοὺς διακρίνει
+      st_text: "Псалом Асафа. Бог стал в сонме богов; среди богов произнес суд:"
+  - id: 32468
+    number: 2
+    bookId: 22
+    text: доколе будете вы судить неправедно и оказывать лицеприятие нечестивым?
+    chapter: 81
+    chapterId: 599
+    parallels:
+      - verseId: 35954
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 1
+        short: Втор:1:17
+      - verseId: 6018
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 19
+        short: 2 Пар:19:6
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Доколе судите неправду, и лица грешников приемлете?
+      averincev: ""
+      ungerov: Доколе будете судить неправедно и лицеприятствовать грешникам?
+      csya_old: Доко1лэ сyдите непрaвду, и3 ли1ца грёшникwвъ пріе1млете;
+      sovr_rbo: доколе будете вы судить неправедно и оказывать лицеприятие нечестивым?
+      latin: Usquequo judicatis iniquitatem, et facies peccatorum sumitis?
+      ukr: Аж доки ви будете несправедливо судити, і доки будете ви підіймати обличчя
+        безбожних? Села.
+      nkjv: How long will you judge unjustly, And show partiality to the wicked? Selah
+      desnitsky: ""
+      mt: ‫   עַד־מָתַי תִּשְׁפְּטוּ־עָוֶל וּפְנֵי רְשָׁעִים תִּשְׂאוּ־סֶלָה׃ ‬
+      romana: Pana cand veti judeca cu nedreptate si la fetele pacatosilor veti cauta?
+      italian: '"Fino a quando giudicherete iniquamente e sosterrete la parte degli
+        empi?'
+      old_georgian: ვიდრემდის შჯიდეთ სიცრუესა და თუალთა აღებდეთ ცოდვილთა?
+      portuguese: Até quando julgareis injustamente, e tereis respeito às pessoas dos
+        ímpios?
+      polish: ”Dokądże będziecie sądzić niegodziwie i trzymać stronę występnych?
+      nrt: «Как долго еще вы будете судить несправедливо и оказывать предпочтение
+        нечестивым? Пауза
+      Macarius: «Доколе вам судить неправедно, и оказывать лицеприятие нечестивым?
+        (Села.)
+      bulgarian: докога ще съдите несправедливо и ще показвате пристрастие към
+        нечестивците?
+      deutsch: Wie lange wollt ihr unrecht richten und die Person der Gottlosen
+        vorziehen? (Sela.)
+      ukr2: «Докіль судитимете не по правді й потуратимете безбожникам?
+      ukr3: Доки будете судити не по правдї, будете дивитись на лице беззаконних?
+      bel_syomukha: дакуль будзеце вы судзіць несправядліва і патураць бязбожным?
+      gorsky-platonov: «Доколе вам судить неправедно, и оказывать лицеприятие
+        нечестивым? (Села.)
+      czech: '"Dlouho jeste chcete soudit proti pravu, stranit svevolnikum?'
+      spanish: << ¿Hasta cuándo juzgaréis falsamente, haciendo con los impíos acepción
+        de personas?>> Selah.
+      zertis-kamenskiy: "Доколе судити будете неправедно: и лица грешников приимите. Селаг."
+      pakazkiy: "\"Доколе судите неправду,\rНа внешний вид смотря в суде: Виновникам
+        творя пощаду, Невинных продая на мзде?"
+      greek-lxx: ἕως πότε κρίνετε ἀδικίαν καὶ πρόσωπα ἁμαρτωλῶν λαμβάνετε διάψαλμα
+      st_text: доколе будете вы судить неправедно и оказывать лицеприятие нечестивым?
+  - id: 32469
+    number: 3
+    bookId: 22
+    text: Давайте суд бедному и сироте; угнетенному и нищему оказывайте
+      справедливость;
+    chapter: 81
+    chapterId: 599
+    parallels:
+      - verseId: 36157
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 16
+        short: Втор:16:18
+      - verseId: 36376
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 24
+        short: Втор:24:17
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Судите сиру и убогу, смирена и нища оправдайте:"
+      averincev: ""
+      ungerov: Давайте (правый) суд сироте и убогому, смиренного и нищего оправдайте.
+      csya_old: "Суди1те си1ру и3 ўбо1гу, смире1на и3 ни1ща њправдaйте:"
+      sovr_rbo: Давайте суд бедному и сироте; угнетенному и нищему оказывайте
+        справедливость;
+      latin: Judicate egeno et pupillo; humilem et pauperem justificate.
+      ukr: Розсудіте нужденного та сироту, оправдайте убогого та бідаря,
+      nkjv: Defend the poor and fatherless; Do justice to the afflicted and needy.
+      desnitsky: ""
+      mt: ‫   שִׁפְטוּ־דַל וְיָתוֹם עָנִי וָרָשׁ הַצְדִּיקוּ׃ ‬
+      romana: Judecati drept pe orfan si pe sarac si faceti dreptate celui smerit,
+        celui sarman.
+      italian: Difendete il debole e l'orfano, al misero e al povero fate giustizia.
+      old_georgian: უსაჯეთ ობოლსა და გლახაკსა, და მდაბალი და დავრდომილი განამართლეთ;
+      portuguese: Fazei justiça ao pobre e ao órfão; procedei retamente com o aflito e
+        o desamparado.
+      polish: Ujmijcie się za sierotą i uciśnionym, wymierzcie sprawiedliwość
+        nieszczęśliwemu i ubogiemu!
+      nrt: Защищайте дело слабого и сироты, угнетенному и бедному явите
+        справедливость.
+      Macarius: Судите бедного и сироту, гонимому и нищему воздавайте справедливость.
+      bulgarian: Давайте правосъдие на сиромах и на сирак; бъдете справедливи към
+        потиснат и беден;
+      deutsch: Schaffet Recht dem Armen und dem Waisen und helfet dem Elenden und
+        Dürftigen zum Recht.
+      ukr2: Судіть по правді бідного й сиротину, визнайте правду вбогому й бідоласі
+      ukr3: Признайте правду бідному і сиротинї; оправдайте нужденного і вбогого.
+      bel_syomukha: Чынеце суд беднаму і сіраце; прыгнечанаму і гаротнаму
+        справядлівасьць рабеце;
+      gorsky-platonov: Давайте суд бедному и сироте, гонимому и нищему воздавайте
+        справедливость.
+      czech: Dopomozte nuznemu a sirotkovi k pravu, ponizenemu a chudemu zjednejte
+        spravedlnost,
+      spanish: Haced justicia al débil y al huérfano; tratad justamente al desvalido y
+        al menesteroso;
+      zertis-kamenskiy: "Судите у Бога сиру: нища и скуднаго оправдайте."
+      pakazkiy: "Потщитесь нищу и убогу Вы руку помощи подать,\rСпасти смиренных от
+        налогу,\rИ дело правое взыскать,"
+      greek-lxx: κρίνατε ὀρφανὸν καὶ πτωχόν ταπεινὸν καὶ πένητα δικαιώσατε
+      st_text: Давайте суд бедному и сироте; угнетенному и нищему оказывайте
+        справедливость;
+  - id: 32470
+    number: 4
+    bookId: 22
+    text: избавляйте бедного и нищего; исторгайте [<i>его</i>] из руки нечестивых.
+    chapter: 81
+    chapterId: 599
+    parallels:
+      - verseId: 29830
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 24
+        short: Притч:24:11
+      - verseId: 19972
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 1
+        short: Ис:1:17
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: измите нища и убога, из руки грешничи избавите его.
+      averincev: ""
+      ungerov: Отнимите бедного и убогого из руки грешника и избавьте его.
+      csya_old: и3зми1те ни1ща и3 ўбо1га, и3з8 руки2 грёшничи и3збaвите є3го2.
+      sovr_rbo: избавляйте бедного и нищего; исторгайте [его] из руки нечестивых.
+      latin: Eripite pauperem, et egenum de manu peccatoris liberate.
+      ukr: порятуйте нужденного та бідака, збережіть з руки несправедливих!
+      nkjv: Deliver the poor and needy; Free them from the hand of the wicked.
+      desnitsky: ""
+      mt: ‫   פַּלְּטוּ־דַל וְאֶבְיוֹן מִיַּד רְשָׁעִים הַצִּילוּ׃ ‬
+      romana: Mantuiti pe cel sarman si pe cel sarac; din mina pacatosului, izbaviti-i.
+      italian: Salvate il debole e l'indigente, liberatelo dalla mano degli empi".
+      old_georgian: განარინეთ გლახაკი და დავრდომილი და ჴელთაგან ცოდვილისათა იჴსენით იგი.
+      portuguese: Livrai o pobre e o necessitado, livrai-os das mãos dos ímpios.
+      polish: Uwolnijcie uciśnionego i nędzarza, wyrwijcie go z ręki występnych!
+      nrt: Избавляйте слабого и нищего, спасайте их от нечестивых.
+      Macarius: Избавляйте бедного и нищего, из руки нечестивых исторгайте.
+      bulgarian: отървайте сиромаха и бедния, изтръгвайте го из ръката на нечестивците.
+      deutsch: Errettet den Geringen und Armen und erlöset ihn aus der Gottlosen Gewalt.
+      ukr2: Визвольте бідного й сіромаху, з руки грішників порятуйте!»
+      ukr3: Визволяйте бідолашного і нужденного, спасайте його з руки беззаконних!
+      bel_syomukha: вызваляйце беднага і ўбогага; вырывайце яго з рук бязбожнікаў.
+      gorsky-platonov: Избавляйте беднаго и нищаго, из руки нечистивых исторгайте.
+      czech: pomozte vyvaznout nuznemu ubozaku, svevolnym ho vytrhnete z rukou!"
+      spanish: librad al débil y al pobre, sacadlo de las garras del impío.
+      zertis-kamenskiy: Измите убогаго и нищаго из руки грешничи избавите.
+      pakazkiy: "Исторгнуть бедных и безсильных Из рук насилующих им,\rИли богатством
+        изобильных, \rИль гербом блещущих своим\"."
+      greek-lxx: ἐξέλεσθε πένητα καὶ πτωχόν ἐκ χειρὸς ἁμαρτωλοῦ ῥύσασθε
+      st_text: избавляйте бедного и нищего; исторгайте [<i>его</i>] из руки нечестивых.
+  - id: 32471
+    number: 5
+    bookId: 22
+    text: Не знают, не разумеют, во тьме ходят; все основания земли колеблются.
+    chapter: 81
+    chapterId: 599
+    parallels:
+      - verseId: 29216
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 4
+        short: Прем:4:18
+      - verseId: 1186
+        bookId: 59
+        bookCode: 1oe-poslanie-ap-ioanna
+        chapter: 1
+        short: 1 Ин:1:6
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Не познаша, ниже уразумеша, во тме ходят: да подвижатся вся основания
+        земли."
+      averincev: ""
+      ungerov: Не познали. Не уразумели. Во тьме ходят. Да поколеблются все основания
+        земли!
+      csya_old: "Не познaша, ниже2 ўразумёша, во тмЁ хо1дzтъ: да подви1жатсz вс‰
+        њснов†ніz земли2."
+      sovr_rbo: Не знают, не разумеют, во тьме ходят; все основания земли колеблются.
+      latin: Nescierunt, neque intellexerunt; in tenebris ambulant; movebuntur omnia
+        fundamenta terrae.
+      ukr: Не пізнали та не зрозуміли, у темряві ходять вони... Всі основи землі
+        захитались...
+      nkjv: They do not know, nor do they understand; They walk about in darkness; All
+        the foundations of the earth are unstable.
+      desnitsky: ""
+      mt: ‫   לֹא יָדְעוּ וְלֹא יָבִינוּ בַּחֲשֵׁכָה יִתְהַלָּכוּ יִמּוֹטוּ
+        כָּל־מוֹסְדֵי אָרֶץ׃ ‬
+      romana: Dar ei n-au cunoscut, nici n-au priceput, ci in intuneric umbla;
+        stricase-vor toate randuielile pamantului.
+      italian: Non capiscono, non vogliono intendere, avanzano nelle tenebre;
+        vacillano tutte le fondamenta della terra.
+      old_georgian: არა ცნეს, არცა გულისჴმა-ყვეს და ბნელსა შინა ვლენან; შეიძრნედ
+        ყოველნი საფუძველნი ქუეყანისანი.
+      portuguese: Eles nada sabem, nem entendem; andam vagueando às escuras; abalam-se
+        todos os fundamentos da terra.
+      polish: "Lecz oni nie pojmują i nie rozumieją, błąkają się w ciemnościach: cała
+        ziemia\r
+
+        chwieje się w posadach."
+      nrt: Их знание – ничто, их понимание бессмысленно. Они ходят во тьме.
+        Содрогаются все основания земли.
+      Macarius: Не познали, не уразумели, во тьме ходят; поколебались все основания
+        земли.
+      bulgarian: Не знаят, не разбират, в тъма ходят; всички земни основи се клатят.
+      deutsch: Aber sie lassen sich nicht sagen und achten's nicht; sie gehen immer
+        hin im Finstern; darum müssen alle Grundfesten des Landes wanken.
+      ukr2: Вони не знають, вони не розуміють, у темряві блукають; хитаються усі землі
+        основи.
+      ukr3: "Не знають нїчого, не розуміють нїчого; у тьмі блукають вони: всї основи
+        землї хитаються."
+      bel_syomukha: Ня ведаюць, не разумеюць, у цемрадзі ходзяць; усе асновы зямлі хістаюцца.
+      gorsky-platonov: Не знают, не разумеют, во тьме ходят; колеблются все основания земли.
+      czech: Nic nevedi, nic nechapou, chodi v tmach, a cela zeme v zakladech se
+        hrouti.
+      spanish: Pero no saben ni entienden, andan en tinieblas; vacilan todos los
+        cimientos de la tierra.
+      zertis-kamenskiy: "[Обаче] не знают, ниже разумеют: во тме ходят: колеблются вся
+        основания земли."
+      pakazkiy: "Они, не зная прав законных,\r
+
+        Не разумеют сих словес;\r
+
+        Но спят во дни, по свойству сонных, Не отверзаючи очес;\r
+
+        Земны колеблют основанья,\r
+
+        И отверзают бездны зол;\r
+
+        Вражды мятежной волнованья Престолы низвергают в дол."
+      st_text: Не знают, не разумеют, во тьме ходят; все основания земли колеблются.
+      new_text: ""
+      tex_rec: ""
+      peshitta: ""
+      francais: ""
+      turkish: ""
+      pobedonostsev: ""
+      serbian: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      rozhdestvensky: ""
+      greek-lxx: οὐκ ἔγνωσαν οὐδὲ συνῆκαν ἐν σκότει διαπορεύονται σαλευθήσονται πάντα
+        τὰ θεμέλια τῆς γῆς
+  - id: 32472
+    number: 6
+    bookId: 22
+    text: "Я сказал: вы - боги, и сыны Всевышнего - все вы;"
+    chapter: 81
+    chapterId: 599
+    parallels:
+      - verseId: 21637
+        bookId: 2
+        bookCode: ishod
+        chapter: 22
+        short: Исх:22:8
+      - verseId: 17970
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 10
+        short: Ин:10:34
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Аз рех: бози есте, и сынове вышняго вси:"
+      averincev: ""
+      ungerov: "Я сказал: вы - боги и все - сыны Вышнего."
+      csya_old: "Ѓзъ рёхъ: бо1зи є3сте2, и3 сы1нове вы1шнzгw вси2:"
+      sovr_rbo: "Я сказал: вы - боги, и сыны Всевышнего - все вы;"
+      latin: "Ego dixi: Dii estis, et filii Excelsi omnes."
+      ukr: "Я сказав був: Ви боги, і сини ви Всевишнього всі,"
+      nkjv: I said, "You are gods, And all of you are children of the Most High.
+      desnitsky: ""
+      mt: ‫   אֲנִי־אָמַרְתִּי אֱלֹהִים אַתֶּם וּבְנֵי עֶלְיוֹן כֻּלְּכֶם׃ ‬
+      romana: 'Eu am zis: "Dumnezei sunteti si toti fii ai Celui Preainalt".'
+      italian: "Io ho detto: \"Voi siete dèi, siete tutti figli dell'Altissimo\"."
+      old_georgian: "მე ვთქუ: ღმერთნი სამე ხართ და შვილნი მაღლისანი თქუენ ყოველნი;"
+      portuguese: "Eu disse: Vós sois deuses, e filhos do Altíssimo, todos vós."
+      polish: "Ja rzekłem: Jesteście bogami i wszyscy - synami Najwyższego."
+      nrt: "Я сказал: “Вы – боги, все вы – сыны Всевышнего”"
+      Macarius: "Я сказал было: вы — боги, и сыны Всевышнего все вы."
+      bulgarian: "Аз рекох: вие сте богове, вие сте всички синове на Всевишния;"
+      deutsch: 'Ich habe wohl gesagt: "Ihr seid Götter und allzumal Kinder des
+        Höchsten";'
+      ukr2: "Я мовив: «Ви - боги й сини Всевишнього усі ви."
+      ukr3: "Сказав я: Ви божі, і всї ви сини Всевишнього!"
+      bel_syomukha: "Я сказаў: вы - багі, і сыны Ўсявышняга - усе вы;"
+      gorsky-platonov: "Я сказал: вы боги, и сыны Всевышняго все вы;"
+      czech: "\"Ac jsem rekl: ‚Jste bohove, vsichni jste synove Nejvyssiho,'"
+      spanish: "Yo dije: <<Sois dioses, todos vosotros sois hijos del Altísimo;"
+      zertis-kamenskiy: "Аз рех: бози есте и сынове Вышняго вси вы."
+      pakazkiy: "\"Я вас именовал богами И право власти дал моей;\rИ Вышняго нарек
+        сынами Земных царей, князей, судей."
+      greek-lxx: ἐγὼ εἶπα θεοί ἐστε καὶ υἱοὶ ὑψίστου πάντες
+      st_text: "Я сказал: вы - боги, и сыны Всевышнего - все вы;"
+  - id: 32473
+    number: 7
+    bookId: 22
+    text: но вы умрете, как человеки, и падете, как всякий из князей.
+    chapter: 81
+    chapterId: 599
+    parallels:
+      - verseId: 34349
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 40
+        short: Сир:40:3
+      - verseId: 17288
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 31
+        short: Иез:31:14
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: вы же яко человецы умираете, и яко един от князей падаете.
+      averincev: ""
+      ungerov: Однако вы, как люди, умираете и, как всякий из начальников, падаете.
+      csya_old: вы1 же ћкw человёцы ўмирaете, и3 ћкw є3ди1нъ t кнzзе1й пaдаете.
+      sovr_rbo: но вы умрете, как человеки, и падете, как всякий из князей.
+      latin: Vos autem sicut homines moriemini, et sicut unus de principibus cadetis.
+      ukr: та однак повмираєте ви, як людина, і попадаєте, як кожен із вельмож.
+      nkjv: But you shall die like men, And fall like one of the princes."
+      desnitsky: ""
+      mt: ‫   אָכֵן כְּאָדָם תְּמוּתוּן וּכְאַחַד הַשָּׂרִים תִּפֹּלוּ׃ ‬
+      romana: Dar voi ca niste oameni muriti si ca unul din capetenii cadeti.
+      italian: Eppure morirete come ogni uomo, cadrete come tutti i potenti.
+      old_georgian: ხოლო თქუენ, ვითარცა კაცნი, მოსწყდებით და, ვითარცა ერთი
+        მთავართაგანი, დაეცემით.
+      portuguese: Todavia, como homens, haveis de morrer e, como qualquer dos
+        príncipes, haveis de cair.
+      polish: Lecz wy pomrzecie jak ludzie, jak jeden mąż, książęta, poupadacie”.
+      nrt: но вы умрете, как все люди, и вы падете, как любой из властителей».
+      Macarius: Напротив того, вы умрете, как человеки, и, падете, как всякий из
+        вельмож».
+      bulgarian: но вие ще умрете като човеци, и ще паднете като всички князе.
+      deutsch: aber ihr werdet sterben wie Menschen und wie ein Tyrann zugrunde gehen.
+      ukr2: Однак, помрете, як усі люди, і впадете, як кожний князь.»
+      ukr3: Тілько ж, як той чоловік, помрете ви, як кожний князь, упадете.
+      bel_syomukha: але вы памраце, як людзі, і ўпадзяце, як кожны з князёў.
+      gorsky-platonov: Но вы умрете, как человеки, и падете, как всякий из вельмож.
+      czech: zemrete tez jako jini lide, padnete tak jako kazdy vladar."
+      spanish: pero moriréis como hombres, caeréis como cualquiera de los príncipes>>.
+      zertis-kamenskiy: Обаче, яко человецы умираете, и яко един от князей падаете.
+      pakazkiy: "Но как во зло употребляли; И имя вы Мое и власть,\rИ всех судимых
+        озлобляли, Безстудную питая страсть;\rКак человеки, вы умрете;\rИ как
+        едины от князей, Стремглав низверженны падете В пучины пропасти
+        своей.\""
+      greek-lxx: ὑμεῖς δὲ ὡς ἄνθρωποι ἀποθνῄσκετε καὶ ὡς εἷς τῶν ἀρχόντων πίπτετε
+      st_text: но вы умрете, как человеки, и падете, как всякий из князей.
+  - id: 32474
+    number: 8
+    bookId: 22
+    text: Восстань, Боже, суди землю, ибо Ты наследуешь все народы.
+    chapter: 81
+    chapterId: 599
+    parallels:
+      - verseId: 31305
+        bookId: 22
+        bookCode: psaltir
+        chapter: 2
+        short: Пс:2:8
+      - verseId: 14561
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 1
+        short: Евр:1:2
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "воскресни, Боже, суди земли: яко ты наследиши во всех языцех."
+      averincev: ""
+      ungerov: Восстань, Боже, суди землю, ибо Ты будешь иметь наследие во всех народах.
+      csya_old: "Воскrни2, б9е, суди2 земли2: ћкw ты2 наслёдиши во всёхъ kзы1цэхъ."
+      sovr_rbo: Восстань, Боже, суди землю, ибо Ты наследуешь все народы.
+      latin: Surge, Deus, judica terram, quoniam tu haereditabis in omnibus gentibus.
+      ukr: Устань же, о Боже, та землю суди, бо у владі Твоїй всі народи!
+      nkjv: Arise, O God, judge the earth; For You shall inherit all nations.
+      desnitsky: ""
+      mt: ‫   קוּמָה אֱלֹהִים שָׁפְטָה הָאָרֶץ כִּי־אַתָּה תִנְחַל בְּכָל־הַגּוֹיִם׃ ‬
+      romana: Scoala-Te, Dumnezeule, judeca pamantul, ca toate neamurile sunt ale Tale.
+      italian: Sorgi, Dio, a giudicare la terra, perché a te appartengono tutte le
+        genti.
+      old_georgian: აღდეგ, ღმერთო, განსაჯე ქუეყანა, რამეთუ შენ დაიმკჳდრო ყოველთა შორის
+        წარმართთა.
+      portuguese: Levanta-te, ó Deus, julga a terra; pois a ti pertencem todas as nações.
+      polish: "O Boże, powstań, odbądź sąd nad ziemią, bo wszelkie narody są
+        Twoją\rwłasnością."
+      nrt: Восстань, Боже, и суди землю, потому что Ты наследуешь все народы!
+      Macarius: "Восстань, Боже, суди землю: ибо Ты наследуешь все народы."
+      bulgarian: Дигни се, Боже, съди земята, защото Ти ще наследиш всички народи.
+      deutsch: Gott, mache dich auf und richte den Erdboden; denn du bist Erbherr über
+        alle Heiden!
+      ukr2: Устань, Боже, судити землю, бо ти народами усіма володієш.
+      ukr3: Встань, Боже! Суди землю, ти бо маєш право судити всї народи.
+      bel_syomukha: Паўстань, Божа, судзі зямлю, бо Ты спадкуеш усе народы.
+      gorsky-platonov: "Возстани, Боже, суди землю: ибо Ты наследуешь все народы»."
+      czech: Boze, povstan, rozsud zemi, dedicne ti patri vsechny pronarody!
+      spanish: Levántate, ¡oh Dios! juzga la tierra, pues dominas sobre todas las
+        gentes.
+      zertis-kamenskiy: "Воскресни Боже, суди земли: яко ты наследиши во всех языцех."
+      pakazkiy: "Востани, Господи! во славе,\rИ буди всем нам судия!\rВселенна вся в
+        Твоей державе\rИ Ты наследный Царь ея."
+      greek-lxx: ἀνάστα ὁ Θεός κρῖνον τὴν γῆν ὅτι σὺ κατακληρονομήσεις ἐν πᾶσιν τοῖς
+        ἔθνεσιν
+      st_text: Восстань, Боже, суди землю, ибо Ты наследуешь все народы.

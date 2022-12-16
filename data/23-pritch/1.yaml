@@ -1,0 +1,2171 @@
+id: 670
+number: 1
+bookId: 23
+verseCount: 33
+title: Глава 1
+verses:
+  - id: 29340
+    number: 1
+    bookId: 23
+    text: Притчи Соломона, сына Давидова, царя Израильского,
+    chapter: 1
+    chapterId: 670
+    parallels:
+      - verseId: 7405
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 4
+        short: 3 Цар:4:32
+      - verseId: 14171
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 1
+        short: Еккл:1:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Притчи соломона сына давидова, иже царствова во израили,
+      averincev: ""
+      ungerov: Притчи Соломона, сына Давидова, который царствовал во Израиле.
+      csya_old: При6тчи соломHна сы1на давjдова, и4же цaрствова во ї}ли,
+      sovr_rbo: Притчи Соломона, сына Давидова, царя Израиля —
+      latin: Parabolae Salomonis, filii David, regis Israel,
+      ukr: Приповісті Соломона, сина Давидового, царя Ізраїлевого,
+      nkjv: "The proverbs of Solomon the son of David, king of Israel:"
+      desnitsky: ""
+      mt: ‫    מִשְׁלֵי שְׁלֹמֹה בֶן־דָּוִד מֶלֶךְ יִשְׂרָאֵל׃ ‬
+      romana: Pildele lui Solomon, fiul lui David,
+      francais: Proverbes de Salomon, fils de David, roi d'Israël,
+      italian: Proverbi di Salomone, figlio di Davide, re d'Israele,
+      old_georgian: იგავნი სოლომონისნი, ძისა დავითისა, რომელი მეფობდა ისრაჱლსა ზედა,
+      portuguese: "Provérbios de Salomão, filho de Davi, rei de Israel:"
+      polish: Przysłowia Salomona, syna Dawida, króla izraelskiego, [podane po to],
+      turkish: "Davut oğlu İsrail Kralı Süleyman'ın özdeyişleri:"
+      nrt: "Притчи Соломона, сына Давидова, царя Израиля:"
+      Macarius: "Притчи Соломона, сына Давидова, Царя Израилева:"
+      serbian: Приче Соломона, сина Давидова, цара Израиљева,
+      bulgarian: Притчи на Соломона, син Давидов, цар израилски,
+      pavskiy: "Притчи Соломона, сына Давидова, царя Израильскаго:"
+      deutsch: Dies sind die Sprüche Salomos, des Königs in Israel, des Sohnes Davids,
+      ukr2: Приповідки Соломона, сина Давида, | царя Ізраїля,
+      ukr3: Приповістї Соломона Давиденка, царя Ізраїлського,
+      bel_syomukha: Выслоўі Саламона, сына Давідавага, цара Ізраільскага.
+      Porfiriy: Притчи Соломона, сына Давидова, который царствовал в Израиле, написаны
+      lev-khv: Притчи Соломона, сына Давидова, царя Израильскаго,
+      czech: Prislovi Salomouna, syna Davidova, krale Izraele,
+      spanish: Proverbios de Salomón, hijo de David, rey de Israel.
+      greek-lxx: παροιμίαι Σαλωμῶντος υἱοῦ Δαυιδ ὃς ἐβασίλευσεν ἐν Ισραηλ
+      st_text: Притчи Соломона, сына Давидова, царя Израильского,
+  - id: 29341
+    number: 2
+    bookId: 23
+    text: чтобы познать мудрость и наставление, понять изречения разума;
+    chapter: 1
+    chapterId: 670
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: познати премудрость и наказание и уразумети словеса мудрости,
+      averincev: ""
+      ungerov: Чтобы познать мудрость и наставление и понять слова мудрости,
+      csya_old: познaти премyдрость и3 наказaніе и3 ўразумёти словесA мyдрости,
+      sovr_rbo: тем, кто хочет постичь мудрость и наставление, и понять суть разумных
+        изречений,
+      latin: ad sciendam sapientiam et disciplinam;
+      ukr: щоб пізнати премудрість і карність, щоб зрозуміти розсудні слова,
+      nkjv: To know wisdom and instruction, To perceive the words of understanding,
+      desnitsky: ""
+      mt: ‫    לָדַעַת חָכְמָה וּמוּסָר לְהָבִין אִמְרֵי בִינָה׃ ‬
+      romana: Folositoare pentru cunoasterea intelepciunii si a stapanirii de sine,
+      francais: Pour connaître la sagesse et l'instruction, Pour comprendre les
+        paroles de l'intelligence;
+      italian: per conoscere la sapienza e la disciplina, per capire i detti profondi,
+      old_georgian: ცნობად სიბრძნისა და სწავლულებისა, ცნობად სიტყუათა გონიერებისათა,
+      portuguese: Para se conhecer a sabedoria e a instrução; para se entenderem as
+        palavras de inteligência;
+      polish: by mądrość osiągnąć i karność, pojąć słowa rozumne,
+      turkish: Bu özdeyişler, bilgeliğe ve terbiyeye ulaşmak, Akıllıca sözleri anlamak,
+      nrt: да принесут они мудрость и наставление и да помогут осмыслить разумные
+        высказывания;
+      Macarius: Чтобы познать премудрость и образованность, чтобы изучить изречения
+        разума,
+      serbian: Да се познаје мудрост и настава, да се разумију ријечи разумне,
+      bulgarian: за да се познае мъдрост и поука, за да се разберат изреченията на разума;
+      pavskiy: "Чтобы узнать мудрость и образованность,\rИзучить изречения разума,"
+      deutsch: zu lernen Weisheit und Zucht, Verstand
+      ukr2: щоб пізнати мудрість і навчання, | щоб зрозуміти слова розсудні,
+      ukr3: Щоб познати премудрість і науку та зрозуміти слова розсудні;
+      bel_syomukha: Каб спазнаць мудрасьць і настаўленьне, зразумець разумныя выслоўі;
+      Porfiriy: Для познания мудрости и усовершенствования, и для понимания речей
+        разумных, и для усвоения оборотливости в речах,
+      lev-khv: Чтобы узнать мудрость и учение, чтобы понять изречения благоразумия,
+      czech: jak poznat moudrost a kazen, jak pochopit vyroky rozumnosti,
+      spanish: Para conocer la sabiduría y la disciplina, para entender sensatos dichos,
+      greek-lxx: γνῶναι σοφίαν καὶ παιδείαν νοῆσαί τε λόγους φρονήσεως
+      st_text: чтобы познать мудрость и наставление, понять изречения разума;
+  - id: 29342
+    number: 3
+    bookId: 23
+    text: усвоить правила благоразумия, правосудия, суда и правоты;
+    chapter: 1
+    chapterId: 670
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "прияти же извития словес и разрешения гаданий, уразумети же правду
+        истинную и суд исправляти:"
+      averincev: ""
+      ungerov: Усвоить обороты слов, уразуметь разрешение загадок, истинную правду и
+        производить правильный суд,
+      csya_old: "пріsти же и3зви6тіz слове1съ и3 разрэшє1ніz гадaній, ўразумёти же
+        прaвду и4стинную и3 сyдъ и3справлsти:"
+      sovr_rbo: усвоить правила благоразумия, праведности, справедливости и честности;
+      latin: "ad intelligenda verba prudentiae, et suscipiendam erudtionem doctrinae,
+        justitiam, et judicium, et aequitatem:"
+      ukr: щоб прийняти напоумлення мудрости, праведности, і права й простоти,
+      nkjv: To receive the instruction of wisdom, Justice, judgment, and equity;
+      desnitsky: ""
+      mt: ‫    לָקַחַת מוּסַר הַשְׂכֵּל צֶדֶק וּמִשְׁפָּט וּמֵישָׁרִים׃ ‬
+      romana: Pentru intelegerea cuvintelor adanci, pentru dobandirea unei indrumari
+        bune, pentru dreptate, pentru dreapta judecata si nepartinire,
+      francais: Pour recevoir des leçons de bon sens, De justice, d'équité et de
+        droiture;
+      italian: per acquistare un'istruzione illuminata, equità, giustizia e rettitudine,
+      old_georgian: შეწყნარებად ქცევითა სიტყუათა, ცნობად სიმართლისა ჭეშმარიტებით და
+        სასჯელისა წარმართებად,
+      portuguese: para se instruir em sábio procedimento, em retidão, justiça e eqüidade;
+      polish: "zdobyć staranne wychowanie: prawość, rzetelność, uczciwość;"
+      turkish: Başarıya götüren terbiyeyi edinip Doğru, haklı ve adil olanı yapmak,
+      nrt: да научат они правилам благоразумной жизни, праведности, справедливости и
+        честности
+      Macarius: Принять правило здравого смысла, верности, и правосудия, и благонравия,
+      serbian: Да се прима настава у разуму, у правди, у суду и у свему што је право,
+      bulgarian: за да се усвоят правилата на благоразумие, правосъдие, съд и правота;
+      pavskiy: "Принять наставления здраваго смысла,\rИстины, правосудия и прямодушия;"
+      deutsch: Klugheit, Gerechtigkeit, Recht und Schlecht;
+      ukr2: щоб засвоїти (собі) освічену науку, | - справедливість, правосуддя та
+        правоту, -
+      ukr3: Щоб присвоїти собі вправу в розважуваннї, правосудї, в судї та правостї;
+      bel_syomukha: засвоіць правілы добрай разважлівасьці, справядлівасьці, права і
+        слушнасьці;
+      Porfiriy: "И для узнания истинной правды и для правильнаго суда:"
+      lev-khv: Чтобы принять наставления разума, правды, правосудия и честности,
+      czech: jak si prozirave osvojit kazen, spravedlnost, pravo a primost,
+      spanish: alcanzar la disciplina y discreción, justicia, equidad y rectitud;
+      greek-lxx: δέξασθαί τε στροφὰς λόγων νοῆσαί τε δικαιοσύνην ἀληθῆ καὶ κρίμα
+        κατευθύνειν
+      st_text: усвоить правила благоразумия, правосудия, суда и правоты;
+  - id: 29343
+    number: 4
+    bookId: 23
+    text: простым дать смышленость, юноше - знание и рассудительность;
+    chapter: 1
+    chapterId: 670
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: да даст незлобивым коварство, отрочати же юну чувство же и смысл.
+      averincev: ""
+      ungerov: Чтобы незлобивым дать прозорливость, а юному отроку познание и
+        разсудительность.
+      csya_old: да дaстъ неѕлHбивымъ ковaрство, nтрочaти же ю4ну чyвство же и3 смы1слъ.
+      sovr_rbo: простодушным — чтобы добавить им соображения, и юношам — ради знания и
+        прозорливости;
+      latin: ut detur parvulis astutia, adolescenti scientia et intellectus.
+      ukr: щоб мудрости дати простодушним, юнакові пізнання й розважність.
+      nkjv: To give prudence to the simple, To the young man knowledge and discretion
+        -
+      desnitsky: ""
+      mt: ‫    לָתֵת לִפְתָאיִם עָרְמָה לְנַעַר דַּעַת וּמְזִמָּה׃ ‬
+      romana: Pentru a prilejui celor fara gand rau o judecata isteata, omului tanar
+        cunostinta si buna cugetare.
+      francais: Pour donner aux simples du discernement, Au jeune homme de la
+        connaissance et de la réflexion.
+      italian: per dare agli inesperti l'accortezza, ai giovani conoscenza e
+        riflessione.
+      old_georgian: რათა მისცეს უმანკოთა მეცნიერებაჲ და ყრმათა ჩჩჳლთა ცნობაჲ და
+        გულისჴმის-ყოფაჲ.
+      portuguese: para se dar aos simples prudência, e aos jovens conhecimento e bom siso.
+      polish: prostaczkom udzielić rozwagi, a młodym - rozsądku i wiedzy.
+      turkish: "Saf kişiyi ihtiyatlı,\rGenç adamı bilgili ve sağgörülü kılmak içindir."
+      nrt: и дадут простакам проницательность, и юным – знание и рассудительность;
+      Macarius: Чтобы неопытным дать прозорливость, юноше — знание и рассудительность,
+      serbian: Да се даје лудима разборитост, младићима знање и помњивост.
+      bulgarian: да се даде на прости разумност, на юноша - знание и разсъдливост.
+      pavskiy: "Чтобы необразованным дать смышленость,\rЮноше — познание о вещах и
+        разсудительность,"
+      deutsch: daß die Unverständigen klug und die Jünglinge vernünftig und vorsichtig
+        werden.
+      ukr2: щоб дати простодушним розсудність, | юнакові знання та обачність,
+      ukr3: Щоб подати простакам понятливість, а молодикові знаннє й обачність;
+      bel_syomukha: прастадушным даць кемнасьць, юнаку - веды і разважлівасьць;
+      Porfiriy: Да придам простодушным сметливость, а чаду юному Чувство и
+        разсудительность.
+      lev-khv: Чтобы глупым дать сообразительность, юноше — знание и разсудительность;
+      czech: aby prostodusi byli obdareni chytrosti, mladik poznanim a duvtipem.
+      spanish: Para procurar astucia a los simples, perspicacia y circunspección a los
+        jóvenes.
+      greek-lxx: ἵνα δῷ ἀκάκοις πανουργίαν παιδὶ δὲ νέῳ αἴσθησίν τε καὶ ἔννοιαν
+      st_text: простым дать смышленость, юноше - знание и рассудительность;
+  - id: 29344
+    number: 5
+    bookId: 23
+    text: послушает мудрый - и умножит познания, и разумный найдет мудрые советы;
+    chapter: 1
+    chapterId: 670
+    parallels:
+      - verseId: 33597
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 18
+        short: Сир:18:28
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Сих бо послушав, мудрый премудрее будет, а разумный строительство
+        стяжет:"
+      averincev: ""
+      ungerov: Ибо мудрый, послушав их, будет мудрее, а разумный приобретет (для себя)
+        руководство,
+      csya_old: "Си1хъ бо послyшавъ, мyдрый премyдрэе бyдетъ, ґ разyмный
+        строи1тельство стsжетъ:"
+      sovr_rbo: да и мудрый, услышав, приумножит знания, и разумный человек найдет
+        подсказку,
+      latin: Audiens sapiens, sapientior erit, et intelligens gubernacula possidebit.
+      ukr: Хай послухає мудрий і примножить науку, а розумний здобуде хай мудрих
+        думок,
+      nkjv: A wise man will hear and increase learning, And a man of understanding
+        will attain wise counsel,
+      desnitsky: ""
+      mt: ‫    יִשְׁמַע חָכָם וְיוֹסֶף לֶקַח וְנָבוֹן תַּחְבֻּלוֹת יִקְנֶה׃ ‬
+      romana: Sa ia aminte cel intelept si isi va spori stiinta, iar cel priceput va
+        dobandi iscusinta de a se purta,
+      francais: Que le sage écoute, et il augmentera son savoir, Et celui qui est
+        intelligent acquerra de l'habileté,
+      italian: Ascolti il saggio e aumenterà il sapere, e l'uomo accorto acquisterà il
+        dono del consiglio,
+      old_georgian: რომელთა ესმეს ბრძენსა და უბრძნეს იყოს; მენავეთმოძღურობაჲ მოიპოოს,
+        ხოლო მეცნიერმან მოღუაწებაჲ მოიპოოს,
+      portuguese: Ouça também, o sábio e cresça em ciência, e o entendido adquira
+        habilidade,
+      polish: "Mądry, słuchając, pomnaża swą wiedzę, rozumny nabywa biegłości:"
+      turkish: ""
+      nrt: пусть послушают мудрые и умножат познания, и пусть разумные получат советы;
+      Macarius: Послушает мудрый, и умножит сведения, — и разумный приобретет советы;
+      serbian: Мудар ће слушати и више ће знати, и разуман ће стећи мудрост,
+      bulgarian: Ако мъдър слуша, ще умножи познанията си, и разумен ще намери мъдри
+        съвети,
+      pavskiy: "(И умный послушает и умножит сведения,\rИ разумный получит советы);"
+      deutsch: Wer weise ist der hört zu und bessert sich; wer verständig ist, der
+        läßt sich raten,
+      ukr2: щоб мудрий слухав і зростав у знанні, | розумний придбав здорові засади,
+      ukr3: Щоб мудрий вислухав і став іще мудрійшим, а розумний щоб знайшов мудрі
+        ради;
+      bel_syomukha: паслухае мудры і памножыць веды, і разумны знойдзе мудрыя парады;
+      Porfiriy: Ибо выслушав их (притчи), мудрый будет мудрее, а разумный приобретет
+        стройность,
+      lev-khv: Мудрый пусть послушает и умножит познания, и разумный приобретет
+        искусство управлять,
+      czech: Bude-li naslouchat moudry, pribude mu znalosti, a rozumny ziska schopnost
+      spanish: Oyéndolos el sabio crecerá en doctrina y el entendido adquirirá destreza.
+      greek-lxx: τῶνδε γὰρ ἀκούσας σοφὸς σοφώτερος ἔσται ὁ δὲ νοήμων κυβέρνησιν κτήσεται
+      st_text: послушает мудрый - и умножит познания, и разумный найдет мудрые советы;
+  - id: 29345
+    number: 6
+    bookId: 23
+    text: чтобы разуметь притчу и замысловатую речь, слова мудрецов и загадки их.
+    chapter: 1
+    chapterId: 670
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: уразумеет же притчу и темное слово, речения же премудрых и гадания.
+      averincev: ""
+      ungerov: И будет он понимать притчу, прикровенное слово, изречения мудрых и
+        загадки.
+      csya_old: ўразумёетъ же при1тчу и3 те1мное сло1во, речє1ніz же премyдрыхъ и3
+        гад†ніz.
+      sovr_rbo: как понимать иносказания и притчи, изречения мудрецов и их загадки.
+      latin: Animadvertet parabolam et interpretationem, verba sapientum et aenigmata
+        eorum.
+      ukr: щоб пізнати ту приповість та загадкове говорення, слова мудреців та їхні
+        загадки.
+      nkjv: To understand a proverb and an enigma, The words of the wise and their
+        riddles.
+      desnitsky: ""
+      mt: ‫    לְהָבִין מָשָׁל וּמְלִיצָה דִּבְרֵי חֲכָמִים וְחִידֹתָם׃ ‬
+      romana: Patrunzand cu mintea pildele si intelesurile adanci, graiurile celor
+        intelepti si talcuirea lor nepatrunsa.
+      francais: Pour saisir le sens d'un proverbe ou d'une énigme, Des paroles des
+        sages et de leurs sentences.
+      italian: per comprendere proverbi e allegorie, le massime dei saggi e i loro
+        enigmi.
+      old_georgian: ცნას იგავი და დაფარული სიტყუაჲ, თქმული ბრძენთაჲ, და უწყებანი მათნი.
+      portuguese: para entender provérbios e parábolas, as palavras dos sábios, e seus
+        enigmas.
+      polish: jak pojąć przysłowie i zdanie, słowa i zagadki mędrców.
+      turkish: "Özdeyişlerle benzetmeleri,\rBilgelerin sözleriyle bilmecelerini
+        anlamak için\rBilge kişi dinlesin ve kavrayışını artırsın,\rAkıllı kişi
+        yaşam hüneri kazansın."
+      nrt: да уразумеют они пословицы и притчи, слова мудрецов и загадки их.
+      Macarius: Чтобы разуметь притчу, и слово замысловатое, беседы мудрых и
+        загадочные изречения их.
+      serbian: Да разумије приче и значење, ријечи мудријех људи и загонетке њихове.
+      bulgarian: за да разбира притча и дълбока реч, думите на мъдреците и техните
+        загадки.
+      pavskiy: "Чтобы разуметь приточную и витиеватую речь,\rБеседы мудрых и
+        остроумныя изречения их."
+      deutsch: daß er verstehe die Sprüche und ihre Deutung, die Lehre der Weisen und
+        ihre Beispiele.
+      ukr2: щоб зрозумів приповідки та приховане значення, | слова мудрих та їхні
+        загадки.
+      ukr3: "Щоб нам второпати всяку приповість і замотану мову, слова мудрих та
+        загадки їх:"
+      bel_syomukha: каб разумець выслоўе і загадкавую мову, словы мудрацоў і загадкі іхнія.
+      Porfiriy: И поймет притчу и темное слово, беседы мудрых и загадки.
+      lev-khv: Чтобы понять иносказательную и замысловатую речь, слова мудрецов и их
+        притчи.
+      czech: porozumet prislovi a jinotaji, slovum mudrcu i jejich hadankam.
+      spanish: Para entender los proverbios y los dichos agudos, las palabras de los
+        sabios y sus enigmas.
+      greek-lxx: νοήσει τε παραβολὴν καὶ σκοτεινὸν λόγον ῥήσεις τε σοφῶν καὶ αἰνίγματα
+      st_text: чтобы разуметь притчу и замысловатую речь, слова мудрецов и загадки их.
+  - id: 29346
+    number: 7
+    bookId: 23
+    text: Начало мудрости - страх Господень; глупцы только презирают мудрость и
+      наставление.
+    chapter: 1
+    chapterId: 670
+    parallels:
+      - verseId: 19366
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 28
+        short: Иов:28:28
+      - verseId: 30572
+        bookId: 22
+        bookCode: psaltir
+        chapter: 110
+        short: Пс:110:10
+      - verseId: 30250
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 9
+        short: Притч:9:10
+      - verseId: 14231
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 12
+        short: Еккл:12:13
+      - verseId: 33327
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 1
+        short: Сир:1:15
+      - verseId: 33330
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 1
+        short: Сир:1:18
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Начало премудрости страх Господень, разум же благ всем творящым его:
+        благочестие же в Бога начало чувства, премудрость же и наказание
+        нечестивии уничижат."
+      averincev: ""
+      ungerov: Начало мудрости — страх Господень (доброе разумение у всех, водящихся
+        им), благочестие же пред Богом — начало познания; а нечестивые презирают
+        мудрость и наставление.
+      csya_old: "Начaло премyдрости стрaхъ гDень, рaзумъ же блaгъ всBмъ творsщымъ
+        є3го2: бlгоче1стіе же въ бг7а начaло чyвства, премyдрость же и3
+        наказaніе нечести1віи ўничижaтъ."
+      sovr_rbo: Господа бояться — вот в чем начало познания! Кто презирает мудрость и
+        наставление — глупец.
+      latin: Timor Domini principium sapientiae; sapientiam atque doctrinam stulti
+        despiciunt.
+      ukr: Страх Господній початок премудрости, нерозумні погорджують мудрістю та
+        напучуванням.
+      nkjv: The fear of the Lord is the beginning of knowledge, But fools despise
+        wisdom and instruction.
+      desnitsky: ""
+      mt: ‫    יִרְאַת יְהוָה רֵאשִׁית דָּעַת חָכְמָה וּמוּסָר אֱוִילִים בָּזוּ׃ פ ‬
+      romana: Frica de Dumnezeu este inceputul intelepciunii; cei fara minte
+        dispretuiesc intelepciunea si stapanirea de sine.
+      francais: La crainte de l'Éternel est le commencement de la science; Les
+        insensés méprisent la sagesse et l'instruction.
+      italian: Il timore del Signore è il principio della scienza; gli stolti
+        disprezzano la sapienza e l'istruzione.
+      old_georgian: და დასაბამი სიბრძნისა არს შიში უფლისა. გულისჴმა კეთილ ყოველთა,
+        რომელთა ყონ იგი, ხოლო კუალად მსახურებაჲ ღმრთისამიმართი, დასაბამ ცნობისა
+        - სიბრძნე და სწავლულებაჲ უღმრთოთა შეურაცხ-ყვიან.
+      portuguese: O temor do Senhor é o princípio do conhecimento; mas os insensatos
+        desprezam a sabedoria e a instrução.
+      polish: Podstawą wiedzy jest bojaźń Pańska, lecz głupcy odrzucają mądrość i
+        karność.
+      turkish: "RAB korkusudur bilginin temeli.\rAhmaklarsa bilgeliği ve terbiyeyi
+        küçümser."
+      nrt: Страх перед Господом – начало мудрости, только глупцы презирают мудрость и
+        наставление.
+      Macarius: Страх Иеговы есть начало знания; премудрость и образованность глупые
+        презирают.
+      serbian: Почетак је мудрости страх Господњи; луди презиру мудрост и наставу.
+      bulgarian: Начало на мъдростта е страхът Господен; (добре разумяват всички,
+        които се водят от него; а благоговението към Бога е начало на
+        разбиране;) само глупци презират мъдрост и поука.
+      pavskiy: "Благоговение пред Иеговою есть начало ведения,\rГлупцы только
+        презирают мудрость и образованность."
+      deutsch: Des Herrn Furcht ist Anfang der Erkenntnis. Die Ruchlosen verachten
+        Weisheit und Zucht.
+      ukr2: Острах Господній - початок мудрости; | безумні мудрістю й навчанням
+        нехтують.
+      ukr3: Почин премудростї - Господень страх; безумні нехтують і розум і науку.
+      bel_syomukha: Пачатак мудрасьці - страх Гасподні; толькі дурні пагарджаюць
+        мудрасьцю і настаўленьнем.
+      Porfiriy: Начало премудрости страх Господень. [Благоразумие же полезно всем,
+        приобретающим его, А почитание Бога — начало Чувства]. Нечестивые же
+        уничижат премудрость и усовершенствование.
+      lev-khv: Страх пред Господом начало познания. Безумные презирают мудрость и
+        учение.
+      czech: Pocatek poznani je bazen pred Hospodinem, moudrosti a kazni pohrdaji
+        posetilci.
+      spanish: El principio de la sabiduría es el temor de Yavé; son necios quienes
+        desprecian la sabiduría y la disciplina.
+      greek-lxx: ἀρχὴ σοφίας φόβος Θεοῦ σύνεσις δὲ ἀγαθὴ πᾶσι τοῖς ποιοῦσιν αὐτήν
+        εὐσέβεια δὲ εἰς Θεὸν ἀρχὴ αἰσθήσεως σοφίαν δὲ καὶ παιδείαν ἀσεβεῖς
+        ἐξουθενήσουσιν
+      st_text: Начало мудрости - страх Господень; глупцы только презирают мудрость и
+        наставление.
+  - id: 29347
+    number: 8
+    bookId: 23
+    text: Слушай, сын мой, наставление отца твоего и не отвергай завета матери твоей,
+    chapter: 1
+    chapterId: 670
+    parallels:
+      - verseId: 30162
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 6
+        short: Притч:6:20
+      - verseId: 29806
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 23
+        short: Притч:23:22
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Слыши, сыне, наказание отца твоего и не отрини заветов матере твоея:"
+      averincev: ""
+      ungerov: Слушай, сын, наставление отца твоего и не отвергай заветов матери твоей,
+      csya_old: "Слы1ши, сы1не, наказaніе nтцA твоегw2 и3 не tри1ни завётwвъ мaтере
+        твоеS:"
+      sovr_rbo: Выслушай, сын, наставление отца и не отвергни материнского наказа;
+      latin: "Audi, fili mi, disciplinam patris tui, et ne dimittas legem matris
+        tuae:"
+      ukr: Послухай, мій сину, напучення батька свого, і не відкидай науки матері
+        своєї,
+      nkjv: My son, hear the instruction of your father, And do not forsake the law of
+        your mother;
+      desnitsky: ""
+      mt: ‫    שְׁמַע בְּנִי מוּסַר אָבִיךָ וְאַל־תִּטֹּשׁ תּוֹרַת אִמֶּךָ׃ ‬
+      romana: Asculta, fiul meu, invatatura tatalui tau si nu lepada indrumarile
+        maicii tale.
+      francais: Écoute, mon fils, l'instruction de ton père, Et ne rejette pas
+        l'enseignement de ta mère;
+      italian: Ascolta, figlio mio, l'istruzione di tuo padre e non disprezzare
+        l'insegnamento di tua madre,
+      old_georgian: ისმინე, შვილო, სწავლაჲ მამისა შენისაჲ, და ნუ განეშორები შჯულსა
+        დედისა შენისასა,
+      portuguese: Filho meu, ouve a instrução de teu pai, e não deixes o ensino de tua mãe.
+      polish: Synu mój, słuchaj napomnień ojca i nie odrzucaj nauk swej matki,
+      turkish: Oğlum, babanın uyarılarına kulak ver, Annenin öğrettiklerinden ayrılma.
+      nrt: Сын мой, послушай наставление своего отца и не отвергай поучения своей
+        матери.
+      Macarius: Слушай, сын мой, наставление отца твоего; и не отвергай учение матери
+        твоей.
+      serbian: Слушај, сине, наставу оца својега, и не остављај науке матере своје.
+      bulgarian: Слушай, синко, поуката на баща си и не отхвърляй завета на майка си,
+      pavskiy: "Слушай, сын мой, наставление отца своего,\rИ не отвергай учения матери
+        своей;"
+      deutsch: Mein Kind, gehorche der Zucht deines Vaters und verlaß nicht das Gebot
+        deiner Mutter.
+      ukr2: Слухай, мій сину, настанови батька твого; | не відкидай поучування матері
+        твоєї,
+      ukr3: Слухай, мій сину, науки батька твого, й не відкидай материного заповіту;
+      bel_syomukha: "Слухай, сыне мой, настаўленьне бацькі твайго, і не адкідай
+        запавету маці тваёй:"
+      Porfiriy: Слушай, сыне, наставление отца твоего, и не отвергай уставов матери
+        твоей.
+      lev-khv: Слушай, сын мой, наставление отца твоего, и не отвергай учения матери
+        твоей;
+      czech: Muj synu, poslouchej otcovo karani a matcinym poucovanim neopovrhuj.
+      spanish: Escucha, hijo mío, las instrucción de tu padre y no desdeñes las
+        enseñanzas de tu madre,
+      greek-lxx: ἄκουε υἱέ παιδείαν πατρός σου καὶ μὴ ἀπώσῃ θεσμοὺς μητρός σου
+      st_text: Слушай, сын мой, наставление отца твоего и не отвергай завета матери
+        твоей,
+  - id: 29348
+    number: 9
+    bookId: 23
+    text: потому что это - прекрасный венок для головы твоей и украшение для шеи
+      твоей.
+    chapter: 1
+    chapterId: 670
+    parallels:
+      - verseId: 30099
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 4
+        short: Притч:4:9
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: венец бо благодатей приимеши на твоем версе и гривну злату о твоей выи.
+      averincev: ""
+      ungerov: Потому что чрез это приобретешь прекрасный венок для головы твоей и
+        золотую цепь для шеи твоей.
+      csya_old: вэне1цъ бо благодaтей пріи1меши на твое1мъ версЁ и3 гри1вну злaту њ
+        твое1й вы1и.
+      sovr_rbo: это — великолепный венец на главу твою, ожерелье тебе на шею.
+      latin: ut addatur gratia capiti tuo, et torques collo tuo.
+      ukr: вони бо хороший вінок для твоєї голови, і прикраса на шию твою.
+      nkjv: For they will be a graceful ornament on your head, And chains about your
+        neck.
+      desnitsky: ""
+      mt: ‫    כִּי לִוְיַת חֵן הֵם לְרֹאשֶׁךָ וַעֲנָקִים לְגַרְגְּרֹתֶיךָ׃ ‬
+      romana: Caci ele sunt ca o cununa pe capul tau Si ca o salba imprejurul gatului
+        tau.
+      francais: Car c'est une couronne de grâce pour ta tête, Et une parure pour ton cou.
+      italian: perché saranno una corona graziosa sul tuo capo e monili per il tuo
+        collo.
+      old_georgian: რამეთუ გჳრგჳნი მადლისა დაიდგა თავსა შენსა, და მანიაკი ოქროჲსაჲ
+        ყელსა შენსა.
+      portuguese: Porque eles serão uma grinalda de graça para a tua cabeça, e colares
+        para o teu pescoço.
+      polish: gdyż one ci są wieńcem powabnym dla głowy i naszyjnikiem cennym dla szyi.
+      turkish: Çünkü bunlar başın için sevimli bir çelenk, Boynun için gerdanlık
+        olacaktır.
+      nrt: Они будут прекрасным венком на твоей голове и ожерельем на твоей шее.
+      Macarius: Ибо это венец благодати для головы твоей, и ожерелье для шеи твоей.
+      serbian: Јер ће бити вијенац од милина око главе твоје, и гривна на грлу твом.
+      bulgarian: защото това е красен венец за главата ти и украшение за шията ти.
+      pavskiy: "Ибо это прекрасный венок для головы твоей,\rИ ожерелье для шеи твоей."
+      deutsch: Denn solches ist ein schöner Schmuck deinem Haupt und eine Kette an
+        deinem Hals.
+      ukr2: бо це гарний вінець тобі на голову, | намисто тобі на шию.
+      ukr3: Бо гарний се вінок на голову твою й прикраса на шию тобі.
+      bel_syomukha: бо гэта - прыгожы вянок на галаву тваю і акраса на шыю тваю.
+      Porfiriy: Ибо венец благодатей будешь иметь на голове твоей, и золотую цепочку
+        на шее твоей.
+      lev-khv: Потому что это красивый венок для твоей головы и украшение для твоей шеи.
+      czech: Budou ti puvabnym vencem na hlave a nahrdelnikem na tvem hrdle.
+      spanish: Porque serán corona de gloria en tu cabeza y collar en tu cuello.
+      greek-lxx: στέφανον γὰρ χαρίτων δέξῃ σῇ κορυφῇ καὶ κλοιὸν χρύσεον περὶ σῷ τραχήλῳ
+      st_text: потому что это - прекрасный венок для головы твоей и украшение для шеи
+        твоей.
+  - id: 29349
+    number: 10
+    bookId: 23
+    text: Сын мой! если будут склонять тебя грешники, не соглашайся;
+    chapter: 1
+    chapterId: 670
+    parallels:
+      - verseId: 31068
+        bookId: 22
+        bookCode: psaltir
+        chapter: 140
+        short: Пс:140:4
+      - verseId: 30104
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 4
+        short: Притч:4:14
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Сыне, да не прельстят тебе мужие нечестивии, ниже да восхощеши,
+      averincev: ""
+      ungerov: Сын мой! да не соблазняют тебя нечестивые люди и сам не соглашайся,
+      csya_old: Сы1не, да не прельстsтъ тебе2 мyжіе нечести1віи, ниже2 да восхо1щеши,
+      sovr_rbo: Сын мой, если поманят тебя грешники, не ходи.
+      latin: Fili mi, si te lactaverint peccatores, ne acquiescas eis.
+      ukr: Мій сину, як грішники будуть тебе намовляти, то з ними не згоджуйся ти!
+      nkjv: My son, if sinners entice you, Do not consent.
+      desnitsky: ""
+      mt: ‫    בְּנִי אִם־יְפַתּוּךָ חַטָּאִים אַל־תֹּבֵא׃ ‬
+      romana: Fiul meu, de voiesc pacatosii sa te ademeneasca, nu te invoi,
+      francais: Mon fils, si des pécheurs veulent te séduire, Ne te laisse pas gagner.
+      italian: Figlio mio, se i peccatori ti vogliono traviare, non acconsentire!
+      old_georgian: შვილო, ნუსადა გაცთუნებენ შენ კაცნი უღმრთონი, ნუცა ინებებ სლვად
+        გზათა მათთა.
+      portuguese: Filho meu, se os pecadores te quiserem seduzir, não consintas.
+      polish: Kiedy cię, synu, wabią grzesznicy, nie waż się iść,
+      turkish: Oğlum, seni ayartmaya çalışan günahkârlara teslim olma.
+      nrt: Сын мой, если грешники соблазняют тебя, не поддавайся им.
+      Macarius: Сын мой, если будут уговаривать тебя законопреступники, то не соизволяй.
+      serbian: Сине мој, ако би те мамили грјешници, не пристај;
+      bulgarian: Синко, ако те прелъстяват грешници, не скланяй;
+      pavskiy: "Сын мой, если будут уговаривать тебя законопреступники,\rНе соглашайся
+        с ними;"
+      deutsch: Mein Kind, wenn dich die bösen Buben locken, so folge nicht.
+      ukr2: Мій сину! коли тебе будуть зводити грішні, | не піддавайся!
+      ukr3: Сину мій! як будуть надити тебе ледачі люде, не слухай їх;
+      bel_syomukha: Сыне мой! калі цябе будуць намаўляць грэшнікі, не згаджайся.
+      Porfiriy: "Сыне, да не прельстят тебя мужи нечестивые, и не соглашайся, когда
+        пригласят тебя, говоря:"
+      lev-khv: Сын мой! если грешники будут обольщать тебя, не соглашайся.
+      czech: Muj synu, kdyby te lakali hrisnici, neprivoluj!
+      spanish: "Hijo mío, si los malos pretenden seducirte, no consientas; si te dicen:"
+      greek-lxx: υἱέ μή σε πλανήσωσιν ἄνδρες ἀσεβεῖς μηδὲ βουληθῇς ἐὰν παρακαλέσωσί σε
+        λέγοντες
+      st_text: Сын мой! если будут склонять тебя грешники, не соглашайся;
+  - id: 29350
+    number: 11
+    bookId: 23
+    text: 'если будут говорить: "иди с нами, сделаем засаду для убийства,
+      подстережем непорочного без вины,'
+    chapter: 1
+    chapterId: 670
+    parallels:
+      - verseId: 29441
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 12
+        short: Притч:12:6
+      - verseId: 29834
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 24
+        short: Притч:24:15
+      - verseId: 16351
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 5
+        short: Иер:5:26
+      - verseId: 26146
+        bookId: 40
+        bookCode: kniga-proroka-mihea
+        chapter: 7
+        short: Мих:7:2
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "аще помолят тя, глаголюще: иди с нами, приобщися крове, скрыем же в землю
+        мужа праведна неправедно:"
+      averincev: ""
+      ungerov: 'Если будут звать тебя, говоря: "иди с нами, будь сообщником убийства,
+        беззаконно скроем в землю мужа праведнаго,'
+      csya_old: "ѓще помо1лzтъ тS, глаго1люще: и3ди2 съ нaми, приwбщи1сz кро1ве,
+        скры1емъ же въ зе1млю мyжа првdна непрaведнw:"
+      sovr_rbo: "Они скажут: «Пойдем с нами, устроим засаду, убийство, подстережем
+        невиновных!"
+      latin: "Si dixerint: Veni nobiscum, insidiemur sanguini; abscondamus tendiculas
+        contra insontem frustra;"
+      ukr: "Якщо скажуть вони: Ходи з нами, чатуймо на кров, безпричинно засядьмо на
+        неповинного,"
+      nkjv: If they say, "Come with us, Let us lie in wait to shed blood; Let us lurk
+        secretly for the innocent without cause;
+      desnitsky: ""
+      mt: ‫    אִם־יֹאמְרוּ לְכָה אִתָּנוּ נֶאֶרְבָה לְדָם נִצְפְּנָה לְנָקִי חִנָּם׃
+        ‬
+      romana: 'Daca-ti spun: "Vino cu noi, sa ne punem la panda, ca sa varsam sange,
+        sa intindem curse fara cuvant celui neprihanit,'
+      francais: "S'ils disent: Viens avec nous! dressons des embûches, versons du
+        sang, Tendons des pièges à celui qui se repose en vain sur son
+        innocence,"
+      italian: "Se ti dicono: \"Vieni con noi, complottiamo per spargere sangue,
+        insidiamo impunemente l'innocente,"
+      old_georgian: "გილოცვიდენ ღათუ და გეტყოდიან: მოედ ჩუენ თანა და მეზიარე სისხლსა
+        დავარწყოთ ქუეყანად კაცი მართალი სიცრუვით,"
+      portuguese: "Se disserem: Vem conosco; embosquemo-nos para derramar sangue;
+        espreitemos sem razão o inocente;"
+      polish: "choćby rzekli: ”Pójdź z nami! Zasadźmy się na cichych! Bez powodu
+        czyhajmy\rna czystych!"
+      turkish: "Şöyle diyebilirler:\r«Bizimle gel,\rAdam öldürmek için pusuya
+        yatalım,\rZevk uğruna masum kişileri tuzağa düşürelim."
+      nrt: "Если скажут они: «Идем с нами, устроим засаду для пролития крови, без
+        причины подстережем невинного,"
+      Macarius: 'Если скажут: "иди с нами, будем строить ковы, ради кровопролития;
+        будем скрытно уловлять безмездно-невинного;'
+      serbian: "Ако би рекли: Ходи с нама да вребамо крв, да засједамо правоме ни за
+        што;"
+      bulgarian: 'ако кажат: "дойди с нас, да направим засада за убийство, да
+        причакаме непорочния без вина,'
+      pavskiy: "Если скажут: «поди с нами,\r«Будем ставить сети, чтоб проливать
+        кровь,\r«Будем скрытно уловлять невиннаго без вины,"
+      deutsch: 'Wenn sie sagen: "Gehe mit uns! wir wollen auf Blut lauern und den
+        Unschuldigen ohne Ursache nachstellen;'
+      ukr2: "Як скажуть: “Ходи з нами, засядьмо на кров невинну, | причаймося на
+        безвинного - без усякої причини,"
+      ukr3: "Як скажуть: Ось ходїм, засядемо, щоб убити, заляжемо на чесного -
+        безвинного,"
+      bel_syomukha: 'Калі будуць казаць: "ідзі з намі, зробім засаду на кроў,
+        падпільнуем бязгрэшнага і бязьвіннага,'
+      Porfiriy: "«Иди с нами, участвуй в кровопролитии: зароем в землю мужа праведнаго
+        понапрасну."
+      lev-khv: "Если сжажут: иди с нами, сделаем засаду для убийства, без вины
+        подстережем непорочнаго;"
+      czech: 'Kdyby te premlouvali: "Pojd s nami, vrazedne uklady nastrojime, pocihame
+        si na nevinneho bez duvodu,'
+      spanish: <<Ven con nosotros, pongamos asechanzas para (derramar) sangre,
+        tendamos sin razón lazos contra el puro.
+      greek-lxx: ἐλθὲ μεθ᾿ ἡμῶν κοινώνησον αἵματος κρύψωμεν δὲ εἰς γῆν ἄνδρα δίκαιον
+        ἀδίκως
+      st_text: 'если будут говорить: "иди с нами, сделаем засаду для убийства,
+        подстережем непорочного без вины,'
+  - id: 29351
+    number: 12
+    bookId: 23
+    text: живых проглотим их, как преисподняя, и - целых, как нисходящих в могилу;
+    chapter: 1
+    chapterId: 670
+    parallels:
+      - verseId: 30880
+        bookId: 22
+        bookCode: psaltir
+        chapter: 123
+        short: Пс:123:3
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: пожрем же его якоже ад жива, и возмем память его от земли,
+      averincev: ""
+      ungerov: Поглотим, как ад, его живаго и удалим память о нем с земли,
+      csya_old: пожре1мъ же є3го2 ћкоже ѓдъ жи1ва, и3 во1змемъ пaмzть є3гw2 t земли2,
+      sovr_rbo: Мы, как Шеол, их живьем поглотим, целиком — как покойников могила.
+      latin: "deglutiamus eum sicut infernus viventem, et integrum quasi descendentem
+        in lacum:"
+      ukr: живих поковтаймо ми їх, як шеол, та здорових, як тих, які сходять до гробу!
+      nkjv: Let us swallow them alive like Sheol, And whole, like those who go down to
+        the Pit;
+      desnitsky: ""
+      mt: ‫    נִבְלָעֵם כִּשְׁאוֹל חַיִּים וּתְמִימִים כְּיוֹרְדֵי בוֹר׃ ‬
+      romana: Sa-i inghitim de vii ca locuinta mortilor, si intregi, ca pe cei ce se
+        coboara in mormant.
+      francais: Engloutissons-les tout vifs, comme le séjour des morts, Et tout
+        entiers, comme ceux qui descendent dans la fosse;
+      italian: inghiottiamoli vivi come gli inferi, interi, come coloro che scendon
+        nella fossa;
+      old_georgian: და შთავნთქათ იგი, ვითარცა ჯოჯოხეთმან ცხოველი, და აღვიღოთ ქუეყანით
+        საჴსენებელი მისი.
+      portuguese: traguemo-los vivos, como o Seol, e inteiros como os que descem à cova;
+      polish: Jak Szeol wchłoniemy ich żywych i zdrowych tak jak schodzących do grobu.
+      turkish: "Onları ölüler diyarı gibi diri diri,\rÖlüm çukuruna inenler
+        gibi\rBütünüyle yutalım."
+      nrt: живьем их проглотим, как мир мертвых, целиком – как тех, кто нисходит в
+        пропасть;
+      Macarius: '"Будем глотать их живыми, как преисподняя, и целыми, как отходят в
+        могилу;'
+      serbian: Прождријећемо их као гроб живе, и свеколике као оне који слазе у јаму;
+      bulgarian: жив да го погълнем, както поглъща преизподнята, и цял като слизащия в
+        гроб;
+      pavskiy: "«Будем глотать их живыми, как преисподняя,\r«И цельными, как отходят в
+        могилу;"
+      deutsch: wir wollen sie lebendig verschlingen wie die Hölle und die Frommen wie
+        die, so hinunter in die Grube fahren;
+      ukr2: поглиньмо їх, мов Шеол, живих, | цілком, мов би вони провалилися в
+        пропасть!
+      ukr3: Проковтнемо його живого, мов безодня, - цїлого, мов би провалився в
+        пропасть;
+      bel_syomukha: жывых праглынем іх, як апраметная, і - цэлых, як тых, што ў магілу
+        сыходзяць;
+      Porfiriy: Проглотим его живаго, как ад поглощает, и изгладим память его с земли.
+      lev-khv: Подобно аду, проглотим их живых и — непорочных, как отходящих в могилу;
+      czech: pohltime je, jako podsveti pohlcuje zive, bezuhonni budou jako ti, kdo
+        sestupuji do jamy,
+      spanish: Traguémoslos vivos, como el seol; enteros, como los que bajan al
+        sepulcro.
+      greek-lxx: καταπίωμεν δὲ αὐτὸν ὥσπερ ᾅδης ζῶντα καὶ ἄρωμεν αὐτοῦ τὴν μνήμην ἐκ γῆς
+      st_text: живых проглотим их, как преисподняя, и - целых, как нисходящих в могилу;
+  - id: 29352
+    number: 13
+    bookId: 23
+    text: наберем всякого драгоценного имущества, наполним домы наши добычею;
+    chapter: 1
+    chapterId: 670
+    parallels:
+      - verseId: 30107
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 4
+        short: Притч:4:17
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "стяжание его многоценное приимем, исполним же домы нашя корыстей:"
+      averincev: ""
+      ungerov: Овладеем драгоценным его имуществом и наполним дома наши добычею,
+      csya_old: "стzжaніе є3гw2 многоцённое пріи1мемъ, и3спо1лнимъ же до1мы нaшz
+        коры1стей:"
+      sovr_rbo: Всякого богатства награбим, наполним свои дома добычей;
+      latin: omnem pretiosam substantiam reperiemus; implebimus domos nostras spoliis;
+      ukr: Ми знайдемо всіляке багатство цінне, переповнимо здобиччю наші хати.
+      nkjv: We shall find all kinds of precious possessions, We shall fill our houses
+        with spoil;
+      desnitsky: ""
+      mt: ‫    כָּל־הוֹן יָקָר נִמְצָא נְמַלֵּא בָתֵּינוּ שָׁלָל׃ ‬
+      romana: Sa punem stapanire pe tot felul de lucruri scumpe, sa ne umplem de prada
+        casele noastre,
+      francais: Nous trouverons toute sorte de biens précieux, Nous remplirons de
+        butin nos maisons;
+      italian: troveremo ogni specie di beni preziosi, riempiremo di bottino le nostre
+        case;
+      old_georgian: და მონაგები მისი მრავალსასყიდლისაჲ დავიპყრათ და აღვავსნეთ სახლნი
+        ჩუენნი ნატყუენავითა.
+      portuguese: acharemos toda sorte de bens preciosos; encheremos as nossas casas
+        de despojos;
+      polish: Znajdziemy wszelkie kosztowności i napełnimy domy swe łupem.
+      turkish: Bir sürü değerli mal ele geçirir, Evlerimizi ganimetle doldururuz.
+      nrt: награбим всевозможных дорогих вещей и наполним дома свои добычей.
+      Macarius: '"Наберем всякого драгоценного имущества; наполним домы свои добычею.'
+      serbian: Свакојакога блага добићемо, напунићемо куће своје плијена;
+      bulgarian: да си натрупаме всякакъв драгоценен имот, да напълним къщите си с плячка;
+      pavskiy: "«Наберем всякаго драгоценнаго имущества,\r«Наполним домы свои добычею,"
+      deutsch: wir wollen großes Gut finden; wir wollen unsre Häuser mit Raub füllen;
+      ukr2: Ми знайдемо всяких благ дорогоцінних, | сповнимо наші доми здобиччю.
+      ukr3: Награбимо добра ми всякого в його, сповнимо доми свої хижим лупом;
+      bel_syomukha: набяром усякага каштоўнага дабра, напоўнім дамы нашыя здабычаю;
+      Porfiriy: Имущество его многоценное возмем, и наполним домы свои добычами.
+      lev-khv: Найдем всякое драгоценное имущество, наполним наши домы добычею;
+      czech: prijdeme si na rozlicny drahocenny majetek a domy koristi si naplnime,
+      spanish: Hallaremos toda suerte de riquezas, henchiremos nuestras casas de
+        despojos;
+      greek-lxx: τὴν κτῆσιν αὐτοῦ τὴν πολυτελῆ καταλαβώμεθα πλήσωμεν δὲ οἴκους
+        ἡμετέρους σκύλων
+      st_text: наберем всякого драгоценного имущества, наполним домы наши добычею;
+  - id: 29353
+    number: 14
+    bookId: 23
+    text: жребий твой ты будешь бросать вместе с нами, склад один будет у всех нас",
+      -
+    chapter: 1
+    chapterId: 670
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "жребий же твой положи с нами: обще же влагалище стяжем вси, и мешец един
+        да будет всем нам."
+      averincev: ""
+      ungerov: Жребий свой бросай с нами, склад у всех будет общий и кошелек у всех
+        нас будет один".
+      csya_old: "жре1бій же тво1й положи2 съ нaми: џбще же влагaлище стsжемъ вси2, и3
+        мэше1цъ є3ди1нъ да бyдетъ всBмъ нaмъ."
+      sovr_rbo: вместе с нами бросать будешь жребий, поровну разделим добычу!»
+      latin: "sortem mitte nobiscum, marsupium unum sit omnium nostrum:"
+      ukr: Жеребок свій ти кинеш із нами, буде саква одна для всіх нас,
+      nkjv: Cast in your lot among us, Let us all have one purse" -
+      desnitsky: ""
+      mt: ‫    גּוֹרָלְךָ תַּפִּיל בְּתוֹכֵנוּ כִּיס אֶחָד יִהְיֶה לְכֻלָּנוּ׃ ‬
+      romana: Fii partas la obstea noastra, o singura punga fi-va pentru toti!"
+      francais: Tu auras ta part avec nous, Il n'y aura qu'une bourse pour nous tous!
+      italian: tu getterai la sorte insieme con noi, una sola borsa avremo in comune",
+      old_georgian: ნაწილი შენ შემოჰრთე ჩუენ თანა და ზოგად პავასიკი მოვიგოთ ყოველთა და
+        ვაშკარანი ერთი იყავნ ჩუენ ყოველთაჲ.
+      portuguese: lançarás a tua sorte entre nós; teremos todos uma só bolsa;
+      polish: Przyłącz swój los do naszej wspólnoty, jedna sakwa niech łączy nas
+        wszystkich!”
+      turkish: "Gel, sen de bize katıl,\rTek bir kesemiz olacak.»"
+      nrt: Бросай с нами жребий, общий будет у нас кошелек», –
+      Macarius: «Жребий свой будешь бросать посреди нас; у всех нас будет один кошелек».
+      serbian: Бацаћеш ждријеб свој с нама; један ће нам тоболац бити свјема;
+      bulgarian: ти ще хвърляш жребия си заедно с нас, един клет ще има за всички ни", -
+      pavskiy: "«Жеребей свой будешь бросать вместе с нами,\r«У всех нас будет одна
+        касса:» —"
+      deutsch: 'wage es mit uns! es soll unser aller ein Beutel sein":'
+      ukr2: Кинь жереб твій разом із нами, | гаман нехай один буде в усіх нас!”
+      ukr3: Жереб на твою пайку кидати меш разом із нами, спільний склад буде в нас
+        усїх, -
+      bel_syomukha: 'далучы сваю долю да нашай, складка адна будзе на ўсіх нас":'
+      Porfiriy: "Жребий же свой брось с нами: общую мошну будем иметь мы все, и один у
+        нас будет кошелек»."
+      lev-khv: "Брось жеребий твой вместе с нами, один кошелек будет для всех нас:"
+      czech: spoj svuj udel s nami, budeme mit vsichni jeden mesec" –
+      spanish: Caerá tu suerte entre nosotros, no habrá más que una bolsa para todos>>.
+      greek-lxx: τὸν δὲ σὸν κλῆρον βάλε ἐν ἡμῖν κοινὸν δὲ βαλλάντιον κτησώμεθα πάντες
+        καὶ μαρσίππιον ἓν γενηθήτω ἡμῖν
+      st_text: жребий твой ты будешь бросать вместе с нами, склад один будет у всех
+        нас", -
+  - id: 29354
+    number: 15
+    bookId: 23
+    text: сын мой! не ходи в путь с ними, удержи ногу твою от стези их,
+    chapter: 1
+    chapterId: 670
+    parallels:
+      - verseId: 30259
+        bookId: 22
+        bookCode: psaltir
+        chapter: 1
+        short: Пс:1:1
+      - verseId: 31068
+        bookId: 22
+        bookCode: psaltir
+        chapter: 140
+        short: Пс:140:4
+      - verseId: 25905
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 5
+        short: Мф:5:29
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Не иди в путь с ними: уклони же ногу твою от стезь их:"
+      averincev: ""
+      ungerov: Не ходи в путь с ними, удали ногу твою от тропы их,
+      csya_old: "Не и3ди2 въ пyть съ ни1ми: ўклони1 же но1гу твою2 t сте1зь и4хъ:"
+      sovr_rbo: Сын мой, с ними не ходи по дороге, на их путь ступить остерегайся,
+      latin: "fili mi, ne ambules cum eis; prohibe pedem tuum a semitis eorum:"
+      ukr: сину мій, не ходи ти дорогою з ними, спини ногу свою від їхньої стежки,
+      nkjv: My son, do not walk in the way with them, Keep your foot from their path;
+      desnitsky: ""
+      mt: ‫    בְּנִי אַל־תֵּלֵךְ בְּדֶרֶךְ אִתָּם מְנַע רַגְלְךָ מִנְּתִיבָתָם׃ ‬
+      romana: Fiul meu, nu te intovarasi cu ei pe cale; abate piciorul tau din cararea
+        lor,
+      francais: Mon fils, ne te mets pas en chemin avec eux, Détourne ton pied de leur
+        sentier;
+      italian: figlio mio, non andare per la loro strada, tieni lontano il piede dai
+        loro sentieri!
+      old_georgian: შვილო, ნუ ხვალ გზასა მათ თანა. მოაქციენ ფერჴნი შენნი ალაგთაგან მათთა,
+      portuguese: filho meu, não andes no caminho com eles; guarda da sua vereda o teu pé,
+      polish: Synu mój, nie chodź ich drogą, przed ścieżką ich strzeż swojej stopy,
+      turkish: "Oğlum, böyleleriyle gitme,\rOnların tuttuğu yoldan uzak dur."
+      nrt: то не ходи с ними, сын мой, не вставай на путь их.
+      Macarius: Сын мой, не ходи по одной с ними дороге; удержи ногу свою от стези их.
+      serbian: Сине мој, не иди на пут с њима, чувај ногу своју од стазе њихове,
+      bulgarian: синко, не ходи на път с тях, задръж ногата си от пътеките им,
+      pavskiy: "Сын мой, не ходи с ними по одной дороге,\rУдержи ногу свою от тропы их."
+      deutsch: mein Kind, wandle den Weg nicht mit ihnen; wehre deinem Fuß vor ihrem
+        Pfad.
+      ukr2: Мій сину! не ходи по їхній дорозі з ними, | зверни ногу твою з їхньої
+        стежки,
+      ukr3: Мій сину! не ходи по одній з ними дорозї, зупини ногу твою на їх стежцї,
+      bel_syomukha: Сыне мой! не хадзі адною дарогаю зь імі, утрымай нагу тваю ад
+        сьцежкі іхняй,
+      Porfiriy: "Не ходи по одной дороге с ними: уклони же ногу твою со стезей их;"
+      lev-khv: Сын мой! не ходи в путь с ними, удержи ногу твою от стези их;
+      czech: muj synu, nechod s nimi jejich cestou, zdrzuj svou nohu od jejich stezky,
+      spanish: No te vayas con ellos, hijo mío; ten tus pies muy lejos de sus sendas;
+      greek-lxx: μὴ πορευθῇς ἐν ὁδῷ μετ᾿ αὐτῶν ἔκκλινον δὲ τὸν πόδα σου ἐκ τῶν τρίβων
+        αὐτῶν
+      st_text: сын мой! не ходи в путь с ними, удержи ногу твою от стези их,
+  - id: 29355
+    number: 16
+    bookId: 23
+    text: потому что ноги их бегут ко злу и спешат на пролитие крови.
+    chapter: 1
+    chapterId: 670
+    parallels:
+      - verseId: 21026
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 59
+        short: Ис:59:7
+      - verseId: 33045
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 3
+        short: Рим:3:15
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: нозе бо их на зло текут, и скори суть излияти кровь.
+      averincev: ""
+      ungerov: Потому что ноги их стремятся на зло и спешат на пролитие крови.
+      csya_old: но1зэ бо и4хъ на ѕло2 текyтъ, и3 ско1ри сyть и3зліsти кро1вь.
+      sovr_rbo: потому что бегут они ко злу и спешат к кровопролитию.
+      latin: pedes enim illorum ad malum currunt, et festinant ut effundant sanguinem.
+      ukr: бо біжать їхні ноги на зло, і поспішають, щоб кров проливати!
+      nkjv: For their feet run to evil, And they make haste to shed blood.
+      desnitsky: ""
+      mt: ‫    כִּי רַגְלֵיהֶם לָרַע יָרוּצוּ וִימַהֲרוּ לִשְׁפָּךְ־דָּם׃ ‬
+      romana: Caci picioarele lor alearga numai la rau, iar ei zoresc sa verse sange.
+      francais: Car leurs pieds courent au mal, Et ils ont hâte de répandre le sang.
+      italian: I loro passi infatti corrono verso il male e si affrettano a spargere
+        il sangue.
+      old_georgian: რამეთუ ფერჴნი მათნი ბოროტისა მიმართ რბიან და მოსწრაფე არიან
+        დათხევად სისხლისა,
+      portuguese: porque os seus pés correm para o mal, e eles se apressam a derramar
+        sangue.
+      polish: "gdyż nogi ich pędzą do zbrodni, śpieszno im: krew chcą wytoczyć."
+      turkish: Çünkü ayakları kötülüğe koşar, Çekinmeden kan dökerler.
+      nrt: Ведь их ноги бегут к злу, спешат они на пролитие крови.
+      Macarius: Ибо ноги их к злу бегут, когда спешат, чтобы проливать кровь.
+      serbian: Јер ногама својим трче на зло и хите да прољевају крв,
+      bulgarian: "защото нозете им тичат към зло и бързат кръв да проливат:"
+      pavskiy: "Ибо ноги их к беде бегут,\rИ спешат на кровопролитие."
+      deutsch: Denn ihr Füße laufen zum Bösen und eilen, Blut zu vergießen.
+      ukr2: бо ноги їх біжать до злого, | поспішають, щоб кров пролити.
+      ukr3: Бо ноги їх біжять до злого, і кваплять на пролив крові.
+      bel_syomukha: бо іхнія ногі бягуць да ліхога і сьпяшаюцца кроў праліваць.
+      Porfiriy: Ибо ноги их к злодеянию бегут, и поспешны они на пролитие крови.
+      lev-khv: Потому что ноги их бегут ко злу и спешат проливать кровь.
+      czech: nebot jejich nohy bezi za zlem, pospichaji prolevat krev.
+      spanish: Porque corren sus pies al mal y se apresuran a derramar sangre.
+      greek-lxx: οἱ γὰρ πόδες αὐτῶν εἰς κακίαν τρέχουσιν καὶ ταχινοὶ τοῦ ἐκχέαι αἷμα
+      st_text: потому что ноги их бегут ко злу и спешат на пролитие крови.
+  - id: 29356
+    number: 17
+    bookId: 23
+    text: В глазах всех птиц напрасно расставляется сеть,
+    chapter: 1
+    chapterId: 670
+    parallels:
+      - verseId: 30200
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 7
+        short: Притч:7:23
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Не без правды бо простираются мрежи пернатым:"
+      averincev: ""
+      ungerov: "Ибо не напрасно разставляются сети на птиц:"
+      csya_old: "Не без8 прaвды бо простирaютсz мрє1жи перн†тымъ:"
+      sovr_rbo: Смысла нет раскидывать сеть на виду у порхающих птиц;
+      latin: Frustra autem jacitur rete ante oculos pennatorum.
+      ukr: "Бож надармо поставлена сітка на очах усього крилатого:"
+      nkjv: Surely, in vain the net is spread In the sight of any bird;
+      desnitsky: ""
+      mt: ‫    כִּי־חִנָּם מְזֹרָה הָרָשֶׁת בְּעֵינֵי כָל־בַּעַל‪‬ כָּנָף׃ ‬
+      romana: Zadarnic se intind curse in vazul pasarilor!
+      francais: Mais en vain jette-t-on le filet Devant les yeux de tout ce qui a
+        des  ailes;
+      italian: Invano si tende la rete sotto gli occhi degli uccelli.
+      old_georgian: რამეთუ არა ცუდად დაურწყიან მახე მფრინველსა,
+      portuguese: Pois debalde se estende a rede à vista de qualquer ave.
+      polish: Lecz próżno ich sieć zarzucona, na oczach wszelkiego ptactwa.
+      turkish: Kuşların gözü önünde ağ sermek boşunadır.
+      nrt: Как бессмысленно ставить сеть на глазах у всех птиц,
+      Macarius: Ибо та сеть без пользы расстилается, которую расстилают в глазах всех,
+        имеющих крылья;
+      serbian: Јер се узалуд разапиње мрежа на очи свакој птици;
+      bulgarian: не напразно се разпъва мрежа пред птици.
+      pavskiy: "Без пользы разстилают сеть\rВ глазах всех, имеющих крылья."
+      deutsch: Denn es ist vergeblich, das Netz auswerfen vor den Augen der Vögel.
+      ukr2: Таж даремно розставляють сіть | в очах усілякої пернатої породи.
+      ukr3: Шкода ж бо ставити в очах всїх птиць сїла;
+      bel_syomukha: На вачах ва ўсіх птушак дарма раскідаецца сетка;
+      Porfiriy: Но напрасно ставятся сети пернатым.
+      lev-khv: "Напрасно разставляется сеть в глазах всякой птицы:"
+      czech: Je zbytecne sypat pod sit, kdyz to kazdy okridlenec vidi.
+      spanish: Pues en vano se tiende la red a los ojos de las aves aladas.
+      greek-lxx: οὐ γὰρ ἀδίκως ἐκτείνεται δίκτυα πτερωτοῖς
+      st_text: В глазах всех птиц напрасно расставляется сеть,
+  - id: 29357
+    number: 18
+    bookId: 23
+    text: а делают засаду для их крови и подстерегают их души.
+    chapter: 1
+    chapterId: 670
+    parallels:
+      - verseId: 25689
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 26
+        short: Мф:26:16
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "тии бо убийству приобщающеся, сокровищствуют себе злая: разрушение же
+        мужей законопреступных зло."
+      averincev: ""
+      ungerov: "Они, делаясь сообщниками убийства, собирают самим себе гнусное
+        сокровище: конец беззаконных людей — бедственный."
+      csya_old: "тjи бо ўбjйству приwбщaющесz, сокро1вищствуютъ себЁ ѕл†z: разруше1ніе
+        же муже1й законопрестyпныхъ ѕло2."
+      sovr_rbo: так и они, подстерегая в засаде, погубят сами себя.
+      latin: Ipsi quoque contra sanguinem suum insidiantur, et moliuntur fraudes
+        contra animas suas.
+      ukr: то вони на кров власну чатують, засідають на душу свою!
+      nkjv: But they lie in wait for their own blood, They lurk secretly for their own
+        lives.
+      desnitsky: ""
+      mt: ‫    וְהֵם לְדָמָם יֶאֱרֹבוּ יִצְפְּנוּ לְנַפְשֹׁתָם׃ ‬
+      romana: Caci ei intind curse tocmai impotriva sangelui lor, si sufletului lor
+        isi intind ei laturi.
+      francais: Et eux, c'est contre leur propre sang qu'ils dressent des embûches,
+        C'est à leur âme qu'ils tendent des pièges.
+      italian: Ma costoro complottano contro il proprio sangue, pongono agguati contro
+        se stessi.
+      old_georgian: რამეთუ იგინი, რომელნი კაცის-კლვასა თანამდებ არიან, იუნჯებენ თავისა
+        თჳსისა ძჳრსა, ხოლო დაქცევაჲ კაცთა უშჯულოთაჲ ბოროტ არს.
+      portuguese: Mas estes se põem em emboscadas contra o seu próprio sangue, e as
+        suas próprias vidas espreitam.
+      polish: Na własną krew raczej czyhają, czatują na swoje życie,
+      turkish: "Başkasına pusu kuran kendi kurduğu pusuya düşer.\rYalnız kendi canıdır
+        tuzağa düşürdüğü."
+      nrt: но эти люди устраивают засаду для пролития своей же крови, подстерегают
+        самих же себя!
+      Macarius: И они на свою гибель коварствуют, скрытно ставят сети душам своим.
+      serbian: А они вребају своју крв и засједају својој души.
+      bulgarian: Но те правят засада против кръвта си, дебнат против душите си.
+      pavskiy: "А они на свою погибель ставят сети,\rИ себе самим строят ковы."
+      deutsch: Sie aber lauern auf ihr eigen Blut und stellen sich selbst nach dem
+        Leben.
+      ukr2: Вони ж на власну кров чигають, | на самих себе засідають.
+      ukr3: Вони ж чигають на власну кров, і складають зраду проти своїм душам.
+      bel_syomukha: а яны кроў сваю сочаць, засады ладзяць на душы свае.
+      Porfiriy: Так и они, участвуя в убийстве, приобретают себе гибель. [А
+        ниспровержение мужей беззаконных — тяжко].
+      lev-khv: И они делают засаду для самоубийства и подстерегают свои души.
+      czech: Oni vsak stroji ty vrazedne uklady proti sobe, cihaji na vlastni dusi.
+      spanish: Con ello acechan para (derramar) sangre y traman contra ellos mismos.
+      greek-lxx: αὐτοὶ γὰρ οἱ φόνου μετέχοντες θησαυρίζουσιν ἑαυτοῖς κακά ἡ δὲ
+        καταστροφὴ ἀνδρῶν παρανόμων κακή
+      st_text: а делают засаду для их крови и подстерегают их души.
+  - id: 29358
+    number: 19
+    bookId: 23
+    text: "Таковы пути всякого, кто алчет чужого добра: оно отнимает жизнь у
+      завладевшего им."
+    chapter: 1
+    chapterId: 670
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Сии путие суть всех творящих беззаконная: нечестием бо свою душу
+        отъемлют."
+      averincev: ""
+      ungerov: Таковы пути всех, совершающих беззаконие, ибо нечестием они губят свою
+        душу.
+      csya_old: "Сjи путіе2 сyть всёхъ творsщихъ беззакHннаz: нече1стіемъ бо свою2
+        дyшу tе1млютъ."
+      sovr_rbo: "Таков конец головореза: собственную голову он сложит."
+      latin: "Sic semitae omnis avari: animas possidentium rapiunt."
+      ukr: "Такі то дороги усіх, хто заздрий чужого добра: воно бере душу свого
+        власника!"
+      nkjv: So are the ways of everyone who is greedy for gain; It takes away the life
+        of its owners.
+      desnitsky: ""
+      mt: ‫    כֵּן אָרְחוֹת כָּל־בֹּצֵעַ בָּצַע אֶת־נֶפֶשׁ בְּעָלָיו יִקָּח׃ פ ‬
+      romana: Aceasta este soarta celor lacomi de castig; lacomia le aduce pierderea
+        vietii.
+      francais: Ainsi arrive-t-il à tout homme avide de gain; La cupidité cause la
+        perte de ceux qui s'y livrent.
+      italian: Tale è la fine di chi si dà alla rapina; la cupidigia toglie di mezzo
+        colui che ne è dominato.
+      old_georgian: ესე გზანი არიან ყოველთანი, რომელნი იქმან უშჯულოებასა, რამეთუ
+        უღმრთოებითა სულნი მათნი წარიწყმიდნიან.
+      portuguese: Tais são as veredas de todo aquele que se entrega à cobiça; ela tira
+        a vida dos que a possuem.
+      polish: "bo taki jest los chciwych zysku: zabiera on własne ich życie."
+      turkish: "Haksız kazanca düşkün olanların sonu böyledir.\rBu düşkünlük onları
+        canlarından eder."
+      nrt: Таковы пути всех, кто жаждет преступной добычи; она отнимает жизнь у
+        завладевших ею.
+      Macarius: Таковы пути всякого, алчущего корысти; она лишает жизни того, кто
+        предан ей.
+      serbian: Такви су путови свијех лакомијех на добитак, који узима душу својим
+        господарима.
+      bulgarian: "Такива са пътищата на всекиго, който е алчен за чуждо добро: то
+        отнема живота на оногова, който го е заграбил."
+      pavskiy: "Таковы пути всякаго искателя корысти,\rОна лишает жизни того, кто ей
+        предан!"
+      deutsch: Also geht es allen, die nach Gewinn geizen, daß ihr Geiz ihnen das
+        Leben nimmt.
+      ukr2: Такий кінець усіх тих, що на здирство ласі; | воно вбиває того, хто його в
+        собі має.
+      ukr3: "Ось такі дороги всїх тих, що ласі на чуже добро: воно відбирає життє тим,
+        що його загарбали."
+      bel_syomukha: "Такія дарогі ва ўсіх, хто прагне чужога дабра: яно забірае жыцьцё
+        ў свайго ўласьніка."
+      Porfiriy: "Таковы пути всех делающих беззаконное: нечестием они губят свою душу."
+      lev-khv: "Таковы пути всякаго, любящаго чужое добро: оно отнимает жизнь у своего
+        владельца."
+      czech: Takove jsou stezky vsech, kdo za ziskem se honi; ten stoji sve pany
+        zivot.
+      spanish: Así acaba todo el que codicia la rapiña; quita la vida a los que tienen
+        tal vicio.
+      greek-lxx: αὗται αἱ ὁδοί εἰσιν πάντων τῶν συντελούντων τὰ ἄνομα τῇ γὰρ ἀσεβείᾳ
+        τὴν ἑαυτῶν ψυχὴν ἀφαιροῦνται
+      st_text: "Таковы пути всякого, кто алчет чужого добра: оно отнимает жизнь у
+        завладевшего им."
+  - id: 29359
+    number: 20
+    bookId: 23
+    text: Премудрость возглашает на улице, на площадях возвышает голос свой,
+    chapter: 1
+    chapterId: 670
+    parallels:
+      - verseId: 30205
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 8
+        short: Притч:8:1
+      - verseId: 30206
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 8
+        short: Притч:8:2
+      - verseId: 29256
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 6
+        short: Прем:6:14
+      - verseId: 23953
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 11
+        short: Лк:11:49
+      - verseId: 22861
+        bookId: 69
+        bookCode: k-kolossanam-poslanie-ap-pavla
+        chapter: 2
+        short: Кол:2:3
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Премудрость во исходех поется, в стогнах же дерзновение водит,
+      averincev: ""
+      ungerov: Мудрость воспевается на распутиях, на площадях ведет она смелую речь.
+      csya_old: Премyдрость во и3схо1дэхъ пое1тсz, въ сто1гнахъ же дерзнове1ніе во1дитъ,
+      sovr_rbo: Премудрость на улице восклицает, на площадях возвышает голос;
+      latin: "Sapientia foris praedicat; in plateis dat vocem suam:"
+      ukr: Кличе мудрість на вулиці, на площах свій голос дає,
+      nkjv: Wisdom calls aloud outside; She raises her voice in the open squares.
+      desnitsky: ""
+      mt: ‫    חָכְמוֹת בַּחוּץ תָּרֹנָּה בָּרְחֹבוֹת תִּתֵּן קוֹלָהּ׃ ‬
+      romana: Intelepciunea striga pe ulita si in piele isi ridica glasul sau.
+      francais: "La sagesse crie dans les rues, Elle élève sa voix dans les places:"
+      italian: La Sapienza grida per le strade nelle piazze fa udire la voce;
+      old_georgian: სიბრძნე გამოსავალთა იქებინ და უბანთა ზედა განცხადებულად იქცევის,
+      portuguese: A suprema sabedoria altissonantemente clama nas ruas; nas praças
+        levanta a sua voz.
+      polish: Mądrość woła na ulicach, na placach głos swój podnosi;
+      turkish: Bilgelik dışarıda yüksek sesle haykırıyor, Meydanlarda sesleniyor.
+      nrt: Мудрость восклицает на улицах, возвышает свой голос на площадях;
+      Macarius: Премудрость восклицает на улице, на площадях возвышает голос свой;
+      serbian: Премудрост виче на пољу, на улицама пушта глас свој;
+      bulgarian: Премъдростта говори високо на улицата, издига гласа си по стъгдите;
+      pavskiy: "Премудрость восклицает на улице,\rНа площадях возвышает голос свой,"
+      deutsch: Die Weisheit klagt draußen und läßt sich hören auf den Gassen;
+      ukr2: Мудрість по вулицях голосить, | свій голос по майданах піднімає,
+      ukr3: Премудрість говорить по улицях, піднімає свій голос по майданах;
+      bel_syomukha: Мудрасьць кліча на вуліцах, на плошчах узносіць свой голас,
+      Porfiriy: Премудрость на улицах воспевается, и на площадях торжествует,
+      lev-khv: Мудрость поет на улице, на площадях подает свой голос,
+      czech: Moudrost pronikave vola na ulici, na namestich vydava svuj hlas.
+      spanish: La sabiduría está clamando fuera, alza su voz en las plazas.
+      greek-lxx: σοφία ἐν ἐξόδοις ὑμνεῖται ἐν δὲ πλατείαις παρρησίαν ἄγει
+      st_text: Премудрость возглашает на улице, на площадях возвышает голос свой,
+  - id: 29360
+    number: 21
+    bookId: 23
+    text: "в главных местах собраний проповедует, при входах в городские ворота
+      говорит речь свою:"
+    chapter: 1
+    chapterId: 670
+    parallels:
+      - verseId: 30207
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 8
+        short: Притч:8:3
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "на краех же стен проповедуется, у врат же сильных приседит, во вратех же
+        града дерзающи глаголет:"
+      averincev: ""
+      ungerov: "На краях стен проповедуется, возседает при вратах правителей, во
+        вратах же города дерзновенно говорит:"
+      csya_old: "на крaехъ же стёнъ проповёдуетсz, ў врaтъ же си1льныхъ присэди1тъ, во
+        вратёхъ же грaда дерзaющи глаго1летъ:"
+      sovr_rbo: "в шумной толпе взывает, у городских ворот держит речь:"
+      latin: "in capite turbarum clamitat; in foribus portarum urbis profert verba
+        sua, dicens:"
+      ukr: "на шумливих місцях проповідує, у місті при входах до брам вона каже слова
+        свої:"
+      nkjv: "She cries out in the chief concourses, At the openings of the gates in
+        the city She speaks her words:"
+      desnitsky: ""
+      mt: ‫    בְּרֹאשׁ הֹמִיּוֹת תִּקְרָא בְּפִתְחֵי שְׁעָרִים בָּעִיר אֲמָרֶיהָ
+        תֹאמֵר׃ ‬
+      romana: "Ea propovaduieste la raspantiile zgomotoase; inaintea portilor cetatii
+        isi spune cuvantul:"
+      francais: "Elle crie à l'entrée des lieux bruyants; Aux portes, dans la ville,
+        elle fait entendre ses paroles:"
+      italian: "dall'alto delle mura essa chiama, pronunzia i suoi detti alle porte
+        della città:"
+      old_georgian: ზედა წუერთა ზღუდეთასაჲ იქადაგების, ბჭეთა ზედა ძლიერთასა
+        დაადგრების, ბჭეთა ზედა ქალაქისათა კადნიერად იტყჳნ.
+      portuguese: "Do alto dos muros clama; às entradas das portas e na cidade profere
+        as suas palavras:"
+      polish: "nawołuje na drogach zgiełkliwych, w bramach miejskich przemawia:"
+      turkish: "Kalabalık sokak başlarında bağırıyor,\rKentin giriş kapılarında
+        sözlerini duyuruyor:"
+      nrt: "на углах шумных улиц кричит она и при входе в городские ворота держит
+        речь:"
+      Macarius: "При начале многолюдных проповедует; у входа в ворота, в городе
+        говорит речь свою:"
+      serbian: "У највећој вреви виче, на вратима, у граду говори своје бесједе:"
+      bulgarian: "проповядва в главните места на съборите, при входовете на градските
+        порти говори своята реч:"
+      pavskiy: "При начале многолюдных проповедует,\rИ у входа в ворота\rВ городе
+        говорит речь свою:"
+      deutsch: "sie ruft in dem Eingang des Tores, vorn unter dem Volk; sie redet ihre
+        Worte in der Stadt:"
+      ukr2: "на роздоріжжях гомінливих кличе, | при входах у браму в місті виголошує:"
+      ukr3: "Вона проповідає по головних зборищах, у ввіходах до міських воріт
+        промовляє, говорючи:"
+      bel_syomukha: "на шумных сходах прапаведуе, каля гарадское брамы прамаўляе слова сваё:"
+      Porfiriy: "С вершин стен проповедуется [у ворот властителей сидит], и у ворот
+        городских смело говорит:"
+      lev-khv: "Проповедует в главных местах собраний, при входах в ворота в городе;
+        реч ея гласит:"
+      czech: "Vola na narozi plnem hluku, pronasi sve vyroky u vchodu do mestskych
+        bran:"
+      spanish: "Clama encima de los muros, en las entradas de las puertas de la
+        ciudad, y va diciendo:"
+      greek-lxx: ἐπ᾿ ἄκρων δὲ τειχέων κηρύσσεται ἐπὶ δὲ πύλαις δυναστῶν παρεδρεύει ἐπὶ
+        δὲ πύλαις πόλεως θαρροῦσα λέγει
+      st_text: "в главных местах собраний проповедует, при входах в городские ворота
+        говорит речь свою:"
+  - id: 29361
+    number: 22
+    bookId: 23
+    text: '"доколе, невежды, будете любить невежество? [<i>доколе</i>] буйные будут
+      услаждаться буйством? доколе глупцы будут ненавидеть знание?'
+    chapter: 1
+    chapterId: 670
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "елико убо время незлобивии держатся правды, не постыдятся: безумнии же
+        досады суще желателие, нечестивии бывше, возненавидеша чувство"
+      averincev: ""
+      ungerov: '"Доколе невинные соблюдают правду, — не постыдятся; безумцы же, жадные
+        до насилия, и нечестивые ненавидят знание и поэтому заслуживают
+        обвинения.'
+      csya_old: "є3ли1ко ќбw вре1мz неѕло1бивіи держaтсz прaвды, не постыдsтсz:
+        безyмніи же досaды сyще желaтеліе, нечести1віи бы1вше, возненави1дэша
+        чyвство"
+      sovr_rbo: «Сколько можно простакам коснеть в простоте, наглым — наглостью
+        тешиться, глупцам — ненавидеть знание?
+      latin: Usquequo, parvuli, diligitis infantiam, et stulti ea quae sibi sunt noxia
+        cupient, et imprudentes odibunt scientiam?
+      ukr: Доки ви, нерозумні, глупоту любитимете? Аж доки насмішники будуть кохатись
+        собі в глузуванні, а безглузді ненавидіти будуть знання?
+      nkjv: '"How long, you simple ones, will you love simplicity? For scorners
+        delight in their scorning, And fools hate knowledge.'
+      desnitsky: ""
+      mt: ‫    עַד־מָתַי פְּתָיִם תְּאֵהֲבוּ פֶתִי וְלֵצִים לָצוֹן חָמְדוּ לָהֶם
+        וּכְסִילִים יִשְׂנְאוּ־דָעַת׃ ‬
+      romana: '"Pana cand, prostilor, veti iubi prostia? Pana cand, nebunilor, veti
+        iubi nebunia? Si voi, nestiutorilor, pana cand veti uri stiinta?'
+      francais: Jusqu'à quand, stupides, aimerez-vous la stupidité? Jusqu'à quand les
+        moqueurs se plairont-ils à la moquerie, Et les insensés haïront-ils la
+        science?
+      italian: "\"Fino a quando, o inesperti, amerete l'inesperienza e i beffardi si
+        compiaceranno delle loro beffe e gli sciocchi avranno in odio la
+        scienza?"
+      old_georgian: "რაოდენ ჟამ უმანკონი იყვნენ, სიმართლესა შინა არა ჰრცხუენოდის, ხოლო
+        უგუნურნი იგი გინებისა არიან გულისმთქუმელ: უღმრთო იქმნეს და მოიძულეს
+        მეცნიერებაჲ,"
+      portuguese: "Até quando, ó estúpidos, amareis a estupidez? e até quando se
+        deleitarão no escárnio os escarnecedores, e\rodiarão os insensatos o
+        conhecimento?"
+      polish: ”Dokądże głupcy mają kochać głupotę, szydercy miłować szyderstwo, a
+        nierozumni pogardzać nauką?
+      turkish: "«Ey budalalar, budalalığı ne zamana dek seveceksiniz?\rAlaycılar ne
+        zamana dek alay etmekten zevk alacak?\rAkılsızlar ne zamana dek bilgiden
+        nefret edecek?"
+      nrt: «До каких же пор вы, простаки, будете любить свою простоту? Сколько же еще
+        глумливые будут наслаждаться насмешками, а глупцы – ненавидеть знание?
+      Macarius: '"Невежды, доколе будете любить невежество? И развратные, долго ли
+        разврат будет нравиться им? И глупые, долго ли будут ненавидеть
+        ведение?'
+      serbian: Луди, докле ћете љубити лудост? И подсмјевачима докле ће бити мио
+        подсмијех? И безумном докле ће мрзити на знање?
+      bulgarian: '"докога, невежи, ще обичате невежеството? Докога буйните ще се
+        наслаждават с буйство? Докога глупците ще мразят знанието?'
+      pavskiy: "«Невежды! долго ли вы будете любить невежество?\r«Долго ли развратным
+        будет нравиться разврат? —\r«И глупцы долго ли будут ненавидеть разум?"
+      deutsch: Wie lange wollt ihr Unverständigen unverständig sein und die Spötter
+        Lust zu Spötterei und die Ruchlosen die Lehre hassen?
+      ukr2: “Докіль, придуркуваті, дурноту любитимете? | Докіль насмішники
+        кохатимуться в насмішках, | безумні ненавидітимуть науку?
+      ukr3: Доки ж вам, ви невіжі, люба буде темнота? доки, ви дурні, кохати метесь в
+        дурнотї? доки нетямущим буде знаннє противне?
+      bel_syomukha: '"Дакуль, немысьлі, любіцьмеце невуцтва? дакуль пакепнікі будуць
+        кепствам цешыцца? дакуль бязглуздыя будуць ненавідзець навуку?'
+      Porfiriy: "Простодушные доколе держатся правды, не постыдятся: а безумные, эти
+        охотники до поругания, быв нечестивы, возненавидели Чувство, и за то
+        заслужили обличения."
+      lev-khv: "&laquo;Доколе, глупые, будете любить глупость, и кощуны будут
+        услаждаться кощунством своим, и безумные будут ненавидеть знание?"
+      czech: '"Dokdy budete, vy prostodusi, milovat prostoduchost, dokdy posmevaci
+        budou mit zalibu v posmivani, hlupaci poznani nenavidet?'
+      spanish: ¿Hasta cuándo, simples, amaréis la simpleza, y, petulantes, os
+        complaceréis en la petulancia, y aborreceréis, necios, la ciencia?
+      greek-lxx: ὅσον ἂν χρόνον ἄκακοι ἔχωνται τῆς δικαιοσύνης οὐκ αἰσχυνθήσονται οἱ
+        δὲ ἄφρονες τῆς ὕβρεως ὄντες ἐπιθυμηταί ἀσεβεῖς γενόμενοι ἐμίσησαν
+        αἴσθησιν
+      st_text: '"доколе, невежды, будете любить невежество? [<i>доколе</i>] буйные
+        будут услаждаться буйством? доколе глупцы будут ненавидеть знание?'
+  - id: 29362
+    number: 23
+    bookId: 23
+    text: "Обратитесь к моему обличению: вот, я изолью на вас дух мой, возвещу вам
+      слова мои."
+    chapter: 1
+    chapterId: 670
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и повинни быша обличением. Се, предложу вам моего дыхания речение, научу
+        же вас моему словеси.
+      averincev: ""
+      ungerov: Вот я предложу вам моего дыхания речь, преподам вам мое слово,
+      csya_old: и3 пови1нни бы1ша њбличе1ніємъ. Се2, предложY вaмъ моегw2 дыхaніz
+        рече1ніе, научy же вaсъ моемY словеси2.
+      sovr_rbo: Обернитесь на мой упрек — изолью на вас мой дух и поведаю вам мое слово.
+      latin: convertimini ad correptionem meam. En proferam vobis spiritum meum, et
+        ostendam vobis verba mea.
+      ukr: Зверніться но ви до картання мого, ось я виллю вам духа свого, сповіщу вам
+        слова свої!
+      nkjv: Turn at my rebuke; Surely I will pour out my spirit on you; I will make my
+        words known to you.
+      desnitsky: ""
+      mt: ‫    תָּשׁוּבוּ לְתוֹכַחְתִּי הִנֵּה אַבִּיעָה לָכֶם רוּחִי אוֹדִיעָה
+        דְבָרַי אֶתְכֶם׃ ‬
+      romana: Intoarceti-va iarasi la mustrarea mea si iata eu voi turna peste voi
+        duhul meu si va voi vesti cuvintele mele.
+      francais: Tournez-vous pour écouter mes réprimandes! Voici, je répandrai sur
+        vous mon esprit, Je vous ferez connaître mes paroles...
+      italian: "Volgetevi alle mie esortazioni: ecco, io effonderò il mio spirito su
+        di voi e vi manifesterò le mie parole."
+      old_georgian: და თანამდებ იქმნეს მხილებისა; აჰა, ესერა, მე წინაგიყოფ თქუენ
+        სულისა ჩემისა თქუმულთა და გასწავლნე თქუენ სიტყუანი ჩემნი.
+      portuguese: "Convertei-vos pela minha repreensão; eis que derramarei sobre vós o
+        meu; espírito e vos farei saber as minhas\rpalavras."
+      polish: "Powróćcie do moich upomnień, udzielę wam ducha mojego, nauczę was
+        moich\rzaleceń."
+      turkish: Uyardığımda yola gelin, o zaman size yüreğimi açar, Sözlerimi
+        anlamanıza yardım ederim.
+      nrt: Если бы вы ответили на мой укор, я излила бы на вас мой дух и открыла бы
+        вам свои мысли.
+      Macarius: '"Обратитесь к Моему учению; Се! рекою проливаю вам Дух Мой, возвещаю
+        вам слова Мои.'
+      serbian: Обратите се на карање моје; ево, изасућу вам дух свој, казаћу вам
+        ријечи своје.
+      bulgarian: Обърнете се към моите изобличения; ето, аз ще излея духа си върху
+        вас, ще ви явя думите си.
+      pavskiy: "«Обратитесь к моему учению,\r«Вот я рекою пролью вам дух
+        мой,\r«Предложу вам беседы мои."
+      deutsch: Kehret euch zu meiner Strafe. Siehe, ich will euch heraussagen meinen
+        Geist und euch meine Worte kundtun.
+      ukr2: Верніться на мою дорогу; | ось ізіллю на вас мій дух, | слова мої звіщу
+        вам.
+      ukr3: "Приникнїть ід мойму картанню: Ось я пролию на вас мого духа, звіщу вам
+        слова мої."
+      bel_syomukha: "паслухайце маёй засьцярогі: вось, я вылью на вас Духа майго,
+        абвяшчу вам словы мае."
+      Porfiriy: "Вот я предложу вам речь моего духа: и скажу вам слово мое."
+      lev-khv: Обратитесь к моим обличениям; вот, я пролью дух мой на вас, возвещу вам
+        слова мои;
+      czech: "Obratte se, kdyz vam domlouvam. Hle, necham na vas proudit sveho ducha,
+        uvedu vam ve znamost sva slova:"
+      spanish: "Volveos a mis requerimientos: Yo derramaré sobre vosotros mi espíritu
+        y os daré a saber mis palabras:"
+      greek-lxx: καὶ ὑπεύθυνοι ἐγένοντο ἐλέγχοις ἰδοὺ προήσομαι ὑμῖν ἐμῆς πνοῆς ῥῆσιν
+        διδάξω δὲ ὑμᾶς τὸν ἐμὸν λόγον
+      st_text: "Обратитесь к моему обличению: вот, я изолью на вас дух мой, возвещу
+        вам слова мои."
+  - id: 29363
+    number: 24
+    bookId: 23
+    text: Я звала, и вы не послушались; простирала руку мою, и не было внимающего;
+    chapter: 1
+    chapterId: 670
+    parallels:
+      - verseId: 21131
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 65
+        short: Ис:65:2
+      - verseId: 21141
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 65
+        short: Ис:65:12
+      - verseId: 21158
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 66
+        short: Ис:66:4
+      - verseId: 29368
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 1
+        short: Притч:1:29
+      - verseId: 29476
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 13
+        short: Притч:13:13
+      - verseId: 16543
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 7
+        short: Иер:7:13
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Понеже звах, и не послушасте, и простирах словеса, и не внимасте,
+      averincev: ""
+      ungerov: Так как я звала, и вы не послушали; умножала слова, и вы не внимали,
+      csya_old: Поне1же звaхъ, и3 не послyшасте, и3 простирaхъ словесA, и3 не внимaсте,
+      sovr_rbo: Я позвала — а вы отвернулись; протянула руку — но никто не замечает.
+      latin: "Quia vocavi, et renuistis; extendi manum meam, et non fuit qui
+        aspiceret:"
+      ukr: Бо кликала я, та відмовились ви, простягла була руку свою, та ніхто не
+        прислухувався!
+      nkjv: Because I have called and you refused, I have stretched out my hand and no
+        one regarded,
+      desnitsky: ""
+      mt: ‫    יַעַן קָרָאתִי וַתְּמָאֵנוּ נָטִיתִי יָדִי וְאֵין מַקְשִׁיב׃ ‬
+      romana: Chematu-v-am, dar voi n-ati luat aminte! Intinsu-mi-am mana si n-a fost
+        cine sa ia seama!
+      francais: Puisque j'appelle et que vous résistez, Puisque j'étends ma main et
+        que personne n'y prend garde,
+      italian: Poiché vi ho chiamato e avete rifiutato, ho steso la mano e nessuno ci
+        ha fatto attenzione;
+      old_georgian: რამეთუ გიწოდე თქუენ და არა ისმინეთ ჩემი. და განვაგრძვენ სიტყუანი
+        ჩემნი და არა მერჩდით მე.
+      portuguese: Mas, porque clamei, e vós recusastes; porque estendi a minha mão, e
+        não houve quem desse atenção;
+      polish: Ponieważ prosiłam, lecz wyście nie dbali, rękę podałam, a nikt nie
+        zważał,
+      turkish: "Ama sizi çağırdığım zaman beni reddettiniz.\rElimi uzattım, umursayan
+        olmadı."
+      nrt: Но раз вы отвергли меня, когда я призывала, и никто не внимал, когда я
+        протягивала вам руку;
+      Macarius: Поелику взываю, и отрицаетесь; простираю руку Мою, и нет внимающего;
+      serbian: Што звах, али не хтјесте; пружах руку своју, али нико не мари,
+      bulgarian: Аз виках, а вие не послушахте; простирах ръка, но нямаше кой да внимава;
+      pavskiy: "«Если же, когда я взываю, вы не послушаетесь,\r«Когда простираю руку
+        мою, и никто не будет внимать,"
+      deutsch: Weil ich denn rufe, und ihr weigert euch, ich recke meine Hand aus, und
+        niemand achtet darauf,
+      ukr2: За те, що кликала я, та ви зреклися, | як простягала руку, ніхто не хотів
+        зважати,
+      ukr3: Я звала вас, а ви не слухали, я руку простягала, та не було, хто б уважав;
+      bel_syomukha: Я клікала, а вы не паслухаліся; я падавала руку маю, і ніхто не зважаў;
+      Porfiriy: Так как я звала вас, и не слушали вы, и распространяла речи, и не
+        внимали вы,
+      lev-khv: Потому что я звала, и вы отказались, поднимала руку мою, и никто ке
+        обратил внимания;
+      czech: Protoze jsem volala, a vy jste odmitali, ruce jsem vztahovala, a nikdo na
+        to nedbal,
+      spanish: Pues os he llamado, y no habéis rehusado; tendí mis brazos, y nadie se
+        dio por entendido;
+      greek-lxx: ἐπειδὴ ἐκάλουν καὶ οὐχ ὑπηκούσατε καὶ ἐξέτεινον λόγους καὶ οὐ προσείχετε
+      st_text: Я звала, и вы не послушались; простирала руку мою, и не было внимающего;
+  - id: 29364
+    number: 25
+    bookId: 23
+    text: и вы отвергли все мои советы, и обличений моих не приняли.
+    chapter: 1
+    chapterId: 670
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "но отметасте моя советы и моим обличением не внимасте:"
+      averincev: ""
+      ungerov: "Но отвергли мои советы, обличениям моим не вняли:"
+      csya_old: "но tметaсте мо‰ совёты и3 мои6мъ њбличе1ніємъ не внимaсте:"
+      sovr_rbo: Вы отвергли все мои советы и не приняли моих упреков.
+      latin: despexistis omne consilium meum, et increpationes meas neglexistis.
+      ukr: І всю раду мою ви відкинули, картання ж мого не схотіли!
+      nkjv: Because you disdained all my counsel, And would have none of my rebuke,
+      desnitsky: ""
+      mt: ‫    וַתִּפְרְעוּ כָל־עֲצָתִי וְתוֹכַחְתִּי לֹא אֲבִיתֶם׃ ‬
+      romana: Ci ati lepadat toate sfaturile mele si mustrarile mele nu le-ati primit.
+      francais: Puisque vous rejetez tous mes conseils, Et que vous n'aimez pas mes
+        réprimandes,
+      italian: avete trascurato ogni mio consiglio e la mia esortazione non avete
+        accolto;
+      old_georgian: არამედ შეურაცხ-ჰყვენით ზრახვანი ჩემნი და მხილებათა ჩემთა არა მომხედეთ.
+      portuguese: antes desprezastes todo o meu conselho, e não fizestes caso da minha
+        repreensão;
+      polish: "gardziliście każdą mą radą, nie chcieliście moich upomnień:"
+      turkish: Duymazlıktan geldiniz bütün öğütlerimi, Uyarılarımı duymak istemediniz.
+      nrt: раз вы пренебрегли всеми моими советами и не приняли моего укора,
+      Macarius: '"И презираете всякий совет Мой, и учения Моего не желаете:'
+      serbian: Него одбацисте сваки савјет мој, и карања мојега не хтјесте примити;
+      bulgarian: и вие отхвърлихте всички мои съвети, и изобличенията ми не приехте.
+      pavskiy: "«И презрите все увещание мое,\r«И учения моего не примете:"
+      deutsch: "und laßt fahren allen meinen Rat und wollt meine Strafe nicht:"
+      ukr2: за те, що гордували всякою порадою моєю, | моїх докорів не сприймали, -
+      ukr3: Моєю радою ви гордували й докорів моїх не приняли.
+      bel_syomukha: "і вы адкінулі ўсе мае рады, і перасьцярогаў маіх не прынялі:"
+      Porfiriy: "Напротив отвергали мои советы, и не внимали моим обличениям:"
+      lev-khv: И презрели все мои советы, и не желали обличений моих;
+      czech: kazde me rade jste se vyhybali, nedali jste na me domlouvani,
+      spanish: Antes desechasteis todos mis consejos y no accedisteis a mis
+        requerimientos.
+      greek-lxx: ἀλλὰ ἀκύρους ἐποιεῖτε ἐμὰς βουλάς τοῖς δὲ ἐμοῖς ἐλέγχοις ἠπειθήσατε
+      st_text: и вы отвергли все мои советы, и обличений моих не приняли.
+  - id: 29365
+    number: 26
+    bookId: 23
+    text: За то и я посмеюсь вашей погибели; порадуюсь, когда придет на вас ужас;
+    chapter: 1
+    chapterId: 670
+    parallels:
+      - verseId: 36508
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 28
+        short: Втор:28:63
+      - verseId: 31301
+        bookId: 22
+        bookCode: psaltir
+        chapter: 2
+        short: Пс:2:4
+      - verseId: 15467
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 18
+        short: Иер:18:17
+      - verseId: 16978
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 21
+        short: Иез:21:17
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: убо и аз вашей погибели посмеюся, порадуюся же, егда приидет вам пагуба,
+      averincev: ""
+      ungerov: Посему и я посмеюсь вашей погибели, порадуюсь, когда придет на вас
+        пагуба.
+      csya_old: ў2бо и3 ѓзъ вaшей поги1бели посмэю1сz, порaдуюсz же, є3гдA пріи1детъ
+        вaмъ пaгуба,
+      sovr_rbo: Что ж, и я над вашей бедой посмеюсь, поиздеваюсь, когда настигнет вас
+        ужас!
+      latin: Ego quoque in interitu vestro ridebo, et subsannabo cum vobis id quod
+        timebatis advenerit.
+      ukr: Тож у вашім нещасті сміятися буду і я, насміхатися буду, як прийде ваш
+        страх.
+      nkjv: I also will laugh at your calamity; I will mock when your terror comes,
+      desnitsky: ""
+      mt: ‫    גַּם־אֲנִי בְּאֵידְכֶם אֶשְׂחָק אֶלְעַג בְּבֹא פַחְדְּכֶם׃ ‬
+      romana: De aceea si eu voi rade de pieirea voastra si ma voi bucura cand va veni
+        groaza peste voi,
+      francais: Moi aussi, je rirai quand vous serez dans le malheur, Je me moquerai
+        quand la terreur vous saisira,
+      italian: anch'io riderò delle vostre sventure, mi farò beffe quando su di voi
+        verrà la paura,
+      old_georgian: აწ უკვე წარწყმედასა თქუენსა მეცა გეცინოდი და მომცხრებოდის.
+      portuguese: também eu me rirei no dia da vossa calamidade; zombarei, quando
+        sobrevier o vosso terror,
+      polish: więc i ja waszą klęskę wyszydzę, zadrwię sobie z waszej bojaźni,
+      turkish: ""
+      nrt: то и я в свой черед посмеюсь над вашей бедой, поиздеваюсь, когда поразит
+        вас ужас, –
+      Macarius: '"То и Я посмеюсь вашей беде; поругаюсь, когда придет ужас ваш,'
+      serbian: Зато ћу се и ја смијати вашој невољи, ругаћу се кад дође чега се бојите;
+      bulgarian: Затова и аз ще се насмея на вашата гибел; ще се порадвам, кога ви
+        ужас нападне,
+      pavskiy: "«То и я посмеюсь вашей беде,\r«Поругаюсь, когда придет на вас ужас."
+      deutsch: so will ich auch lachen in eurem Unglück und eurer spotten, wenn da
+        kommt, was ihr fürchtet,
+      ukr2: то я буду сміятися з вашого нещастя, | я буду кпити, як на вас страх
+        надійде;
+      ukr3: За те ж і я насьміюся з вашої погибелї, і радїти му, як найде страх на
+        вас;
+      bel_syomukha: за тое і я пасьмяюся з вашай пагібелі; парадуюся, калі прыйдзе ваш страх;
+      Porfiriy: То и я посмеюсь вашей погибели, и порадуюсь, когда придет ваша погибель.
+      lev-khv: И я буду смеяться над вашим несчастием, и буду радоваться, когда найдет
+        на вас страх.
+      czech: i ja se budu smat, az budete v bide, budu se vysmivat, az na vas prijde
+        strach,
+      spanish: También yo me reiré de vuestra ruina y me burlaré cuando venga sobre
+        vosotros el terror.
+      greek-lxx: τοιγαροῦν κἀγὼ τῇ ὑμετέρᾳ ἀπωλείᾳ ἐπιγελάσομαι καταχαροῦμαι δέ ἡνίκα
+        ἂν ἔρχηται ὑμῖν ὄλεθρος
+      st_text: За то и я посмеюсь вашей погибели; порадуюсь, когда придет на вас ужас;
+  - id: 29366
+    number: 27
+    bookId: 23
+    text: когда придет на вас ужас, как буря, и беда, как вихрь, принесется на вас;
+      когда постигнет вас скорбь и теснота.
+    chapter: 1
+    chapterId: 670
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и егда приидет на вы внезапу мятеж, низвращение же подобно бури приидет,
+        или егда приидет вам печаль и градоразорение, или егда найдет на вы
+        пагуба.
+      averincev: ""
+      ungerov: И когда внезапно постигнет вас мятеж, настанет страшное бедствие,
+        подобно бури, когда придет на вас скорбь, теснота и постигнет вас
+        пагуба;
+      csya_old: и3 є3гдA пріи1детъ на вы2 внезaпу мzте1жъ, низвраще1ніе же подо1бно
+        бyри пріи1детъ, и3ли2 є3гдA пріи1детъ вaмъ печaль и3 градоразоре1ніе,
+        и3ли2 є3гдA нaйдетъ на вы2 пaгуба.
+      sovr_rbo: Как буря, придет к вам ужас, и беда, как ураган, нагрянет; придавят
+        вас гнет и бремя.
+      latin: Cum irruerit repentina calamitas, et interitus quasi tempestas ingruerit;
+        quando venerit super vos tribulatio et angustia;
+      ukr: Коли прийде ваш страх, немов вихор, і привалиться ваше нещастя, мов буря,
+        як прийде недоля та утиск на вас,
+      nkjv: When your terror comes like a storm, And your destruction comes like a
+        whirlwind, When distress and anguish come upon you.
+      desnitsky: ""
+      mt: ‫    בְּבֹא *כשאוה **כְשׁוֹאָה פַּחְדְּכֶם וְאֵידְכֶם כְּסוּפָה יֶאֱתֶה
+        בְּבֹא עֲלֵיכֶם צָרָה וְצוּקָה׃ ‬
+      romana: Cand va veni peste voi necazul ca furtuna si cand nenorocirea ca vijelia
+        va va cuprinde.
+      francais: Quand la terreur vous saisira comme une tempête, Et que le malheur
+        vous enveloppera comme un tourbillon, Quand la détresse et l'angoisse
+        fondront sur vous.
+      italian: quando come una tempesta vi piomberà addosso il terrore, quando la
+        disgrazia vi raggiungerà come un uragano, quando vi colpirà l'angoscia e
+        la tribolazione.
+      old_georgian: რაჟამს მოიწიოს თქუენ ზედა ჭირი მომსრველი და ოდეს იგლოვდეს თქუენ
+        ზედა მეყსეულად შფოთი, ხოლო დაქცევაჲ მსგავსად ნიავქარისა მოვიდეს, ანუ
+        რაჟამს მოგიჴდეს თქუენ ჭირი და გარემოდგმაჲ.
+      portuguese: "quando o terror vos sobrevier como tempestade, e a vossa calamidade
+        passar como redemoinho, e quando vos\rsobrevierem aperto e angústia."
+      polish: "gdy bojaźń nadciągnie jak burza, a wasza zagłada jak wicher, gdy spotka
+        was\rucisk i boleść."
+      turkish: "Bu yüzden ben de felaketinize sevineceğim.\rBelaya
+        uğradığınızda,\rBela üzerinize bir fırtına gibi geldiğinde,\rBir kasırga
+        gibi geldiğinde felaketiniz,\rSıkıntıya, kaygıya düştüğünüzde,\rSizinle
+        alay edeceğim."
+      nrt: когда поразит вас ужас, как буря, и беда пронесется над вами, как вихрь,
+        когда горе и скорбь вас подавят.
+      Macarius: '"Когда придет как буря ужас ваш, и гибель ваша как вихрь принесется,
+        когда придет на вас скорбь и горе.'
+      serbian: Кад као пустош дође чега се бојите, и погибао ваша као олуја кад дође,
+        кад навали на вас невоља и мука.
+      bulgarian: кога ви нападне ужас като буря, и беда като вихър мине над вас, кога
+        ви постигне скръб и утеснение.
+      pavskiy: "«Когда придет на вас ужас, как буря,\r«И беда принесется на вас, как
+        вихрь;\r«Когда постигнет вас скорбь и горе:"
+      deutsch: wenn über euch kommt wie ein Sturm, was ihr fürchtet, und euer Unglück
+        als ein Wetter, wenn über euch Angst und Not kommt.
+      ukr2: як страх на вас надійде, немов буря; | злетить на вас нещастя, немов
+        вихор, | коли на вас наляже гніт і смуток.
+      ukr3: Як прийде на вас переляк, мов та буря, й біда, мов хуртовина, пронесеться
+        над вами; коли обгорне вас смуток і тїснота.
+      bel_syomukha: калі прыйдзе ваш страх, як бура, і няшчасьце, як віхура, наляціць
+        на вас; калі спадобіць вас нядоля і ўціск.
+      Porfiriy: "И когда внезапно постигнет вас смятение, а ниспровержение явится, как
+        буря, или когда придет к вам скорбь и градоразорение [Или когда придет к
+        вам пагуба]:"
+      lev-khv: Когда найдет на вас страх, как ураган, и принесется на вас несчастие,
+        как вихрь, когда скорбь и несчастие придут к вам;
+      czech: az na vas prijde strach jako niciva boure a vase bida se prizene jako
+        vichrice, az na vas prijde souzeni a tisen.
+      spanish: Cuando sobrevenga como huracán el espanto, y como torbellino os
+        sorprenda la ruina; cuando sobrevenga la adversidad y la angustia;
+      greek-lxx: καὶ ὡς ἂν ἀφίκηται ὑμῖν ἄφνω θόρυβος ἡ δὲ καταστροφὴ ὁμοίως καταιγίδι
+        παρῇ καὶ ὅταν ἔρχηται ὑμῖν θλῖψις καὶ πολιορκία ἢ ὅταν ἔρχηται ὑμῖν
+        ὄλεθρος
+      st_text: когда придет на вас ужас, как буря, и беда, как вихрь, принесется на
+        вас; когда постигнет вас скорбь и теснота.
+  - id: 29367
+    number: 28
+    bookId: 23
+    text: Тогда будут звать меня, и я не услышу; с утра будут искать меня, и не
+      найдут меня.
+    chapter: 1
+    chapterId: 670
+    parallels:
+      - verseId: 15467
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 18
+        short: Иер:18:17
+      - verseId: 19970
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 1
+        short: Ис:1:15
+      - verseId: 15303
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 11
+        short: Иер:11:11
+      - verseId: 15371
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 14
+        short: Иер:14:12
+      - verseId: 37066
+        bookId: 45
+        bookCode: kniga-proroka-zaharii
+        chapter: 7
+        short: Зах:7:13
+      - verseId: 15214
+        bookId: 56
+        bookCode: poslanie-ap-iakova
+        chapter: 4
+        short: Иак:4:3
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Будет бо егда призовете мя, аз же не послушаю вас: взыщут мене злии и не
+        обрящут."
+      averincev: ""
+      ungerov: Тогда будете звать меня, и я не услышу вас; будут искать меня злые, и
+        не найдут.
+      csya_old: "Бyдетъ бо є3гдA призове1те мS, ѓзъ же не послyшаю вaсъ: взы1щутъ
+        мене2 ѕлjи и3 не њбрsщутъ."
+      sovr_rbo: Тогда позовут меня — и не отвечу, разыскивать будут — и не найдут.
+      latin: "tunc invocabunt me, et non exaudiam; mane consurgent, et non invenient
+        me:"
+      ukr: тоді кликати будуть мене, але не відповім, будуть шукати мене, та не
+        знайдуть мене,
+      nkjv: '"Then they will call on me, but I will not answer; They will seek me
+        diligently, but they will not find me.'
+      desnitsky: ""
+      mt: ‫    אָז יִקְרָאֻנְנִי וְלֹא אֶעֱנֶה יְשַׁחֲרֻנְנִי וְלֹא יִמְצָאֻנְנִי׃ ‬
+      romana: Atunci ma vor chema, dar eu nu voi raspunde; din zori ma vor cauta si nu
+        ma vor afla,
+      francais: Alors ils m'appelleront, et je ne répondrai pas; Ils me chercheront,
+        et ils ne me trouveront pas.
+      italian: Allora mi invocheranno, ma io non risponderò, mi cercheranno, ma non mi
+        troveranno.
+      old_georgian: რამეთუ იყოს, ოდეს მხადოდით მე, ხოლო მე არა ვისმინო თქუენი;
+        მეძიებდენ მე უკეთურნი და არა მპოონ,
+      portuguese: Então a mim clamarão, mas eu não responderei; diligentemente me
+        buscarão, mas não me acharão.
+      polish: "Wtedy będą mnie prosić - lecz ja nie odpowiem, i szukać - lecz mnie
+        nie\rznajdą,"
+      turkish: "O zaman beni çağıracaksınız,\rAma yanıtlamayacağım.\rVar gücünüzle
+        arayacaksınız beni,\rAma bulamayacaksınız."
+      nrt: Тогда будут звать меня, но я не отвечу; будут искать меня, но не найдут.
+      Macarius: '"Тогда будут звать Меня, и не отвечу; с утра будут искать Меня, и не
+        найдут Меня,'
+      serbian: Тада ће ме звати, али се нећу одазвати; рано ће тражити, али ме неће
+        наћи.
+      bulgarian: Тогава ще ме викат, и аз не ще чуя; от сутрин ще ме дирят, и не ще ме
+        намерят.
+      pavskiy: "«Тогда они будут звать меня, и я не откликнусь,\r«Будут искать меня, и
+        не найдут меня."
+      deutsch: Dann werden sie nach mir rufen, aber ich werde nicht antworten; sie
+        werden mich suchen, und nicht finden.
+      ukr2: Тоді будуть до мене кликати, та я не обізвуся, | будуть шукати мене
+        пильно, але не знайдуть.
+      ukr3: Тодї кликати муть мене, - та не озовуся; з досьвітку шукати будуть, - та
+        не знайдуть мене.
+      bel_syomukha: Тады будуць клікаць мяне, і я не пачую.
+      Porfiriy: Тогда хоть бы вы и позвали меня, я не послушаю вас. Худые поищут меня,
+        и не найдут.
+      lev-khv: Тогда будут звать меня, но я не буду отвечать, ревностно будут искать
+        меня, но не найдут меня,
+      czech: Tehdy me budou volat, a neodpovim, budou me hledat za usvitu, a
+        nenaleznou,
+      spanish: Entonces me llamarán, y yo no responderé; me buscarán, pero no me
+        hallarán.
+      greek-lxx: ἔσται γὰρ ὅταν ἐπικαλέσησθέ με ἐγὼ δὲ οὐκ εἰσακούσομαι ὑμῶν
+        ζητήσουσίν με κακοὶ καὶ οὐχ εὑρήσουσιν
+      st_text: Тогда будут звать меня, и я не услышу; с утра будут искать меня, и не
+        найдут меня.
+  - id: 29368
+    number: 29
+    bookId: 23
+    text: За то, что они возненавидели знание и не избрали [<i>для себя</i>] страха
+      Господня,
+    chapter: 1
+    chapterId: 670
+    parallels:
+      - verseId: 29363
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 1
+        short: Притч:1:24
+      - verseId: 13178
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 13
+        short: Деян:13:40
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Возненавидеша бо премудрость, словесе же Господня не прияша:"
+      averincev: ""
+      ungerov: Так как они возненавидели мудрость и слова Господня не приняли,
+      csya_old: "Возненави1дэша бо премyдрость, словесе1 же гDнz не пріsша:"
+      sovr_rbo: За то, что они возненавидели знание и отвергли страх Господень,
+      latin: eo quod exosam habuerint disciplinam, et timorem Domini non susceperint,
+      ukr: за те, що науку зненавиділи, і не вибрали страху Господнього,
+      nkjv: Because they hated knowledge And did not choose the fear of the Lord,
+      desnitsky: ""
+      mt: ‫    תַּחַת כִּי־שָׂנְאוּ דָעַת וְיִרְאַת יְהֹוָה לֹא בָחָרוּ׃ ‬
+      romana: Pentru ca ei au urat stiinta si frica de Dumnezeu n-au ales-o,
+      francais: Parce qu'ils ont haï la science, Et qu'ils n'ont pas choisi la crainte
+        de l'Éternel,
+      italian: Poiché hanno odiato la sapienza e non hanno amato il timore del Signore;
+      old_georgian: რამეთუ მოიძულეს სიბრძნე და შიში ღმრთისაჲ არა გამოიძიეს,
+      portuguese: Porquanto aborreceram o conhecimento, e não preferiram o temor do Senhor;
+      polish: gdyż wiedzy nienawidzili, gardzili bojaźnią Pańską,
+      turkish: "Çünkü bilgiden nefret ettiniz.\rRAB'den korkmayı reddettiniz."
+      nrt: Раз они знание возненавидели и страх перед Господом не избрали,
+      Macarius: '"За то, что они возненавидели ведение, и не избрали страха Иеговы;'
+      serbian: Јер мрзише на знање, и страха Господњега не изабраше;
+      bulgarian: Задето намразиха знанието и не избраха за себе си страха Господен;
+      pavskiy: "«За то, что они возненавидели разум,\r«И не любили благоговеть пред
+        Иеговою,"
+      deutsch: Darum, daß sie haßten die Lehre und wollten des Herrn Furcht nicht haben,
+      ukr2: За те, що вони зненавиділи науку, | страху Господнього не прийняли,
+      ukr3: За те, що знаннє ви зненавидїли й страху Божого не прийняли,
+      bel_syomukha: За тое, што зьненавідзелі веды і ня выбралі страху Гасподняга,
+      Porfiriy: Ибо они возненавидели премудрость, и страха Господня не предпочли,
+      lev-khv: За то, что ненавидели знание и не предпочитали страха Господняго,
+      czech: protoze meli poznani v nenavisti a bazen pred Hospodinem si nezvolili,
+      spanish: Por haber aborrecido el saber y no haber elegido el temor de Dios.
+      greek-lxx: ἐμίσησαν γὰρ σοφίαν τὸν δὲ φόβον τοῦ Κυρίου οὐ προείλαντο
+      st_text: За то, что они возненавидели знание и не избрали [<i>для себя</i>]
+        страха Господня,
+  - id: 29369
+    number: 30
+    bookId: 23
+    text: не приняли совета моего, презрели все обличения мои;
+    chapter: 1
+    chapterId: 670
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: ниже хотеша внимати моим советом, ругахуся же моим обличением.
+      averincev: ""
+      ungerov: Не хотели внимать советам моим, а обличения мои осмеяли;
+      csya_old: ниже2 хотёша внимaти мои6мъ совётwмъ, ругaхусz же мои6мъ њбличе1ніємъ.
+      sovr_rbo: не приняли мой совет, презрели все мои наставления, —
+      latin: nec acquieverint consilio meo, et detraxerint universae correptioni meae.
+      ukr: не хотіли поради моєї, погорджували всіма моїми докорами!
+      nkjv: They would have none of my counsel And despised my every rebuke.
+      desnitsky: ""
+      mt: ‫    לֹא־אָבוּ לַעֲצָתִי נָאֲצוּ כָּל־תּוֹכַחְתִּי׃ ‬
+      romana: Fiindca n-au luat aminte la sfaturile mele si cercetarea mea au
+        dispretuit-o.
+      francais: Parce qu'ils n'ont point aimé mes conseils, Et qu'ils ont dédaigné
+        toutes mes réprimandes,
+      italian: non hanno accettato il mio consiglio e hanno disprezzato tutte le mie
+        esortazioni;
+      old_georgian: და არცა ინებეს ჩემთა ზრახვათა კრძალვაჲ და შეურაცხ-ყვნეს მხილებანი ჩემნი.
+      portuguese: não quiseram o meu conselho e desprezaram toda a minha repreensão;
+      polish: nie poszli za mymi radami, zlekceważyli moje napomnienie;
+      turkish: Öğütlerimi istemediniz, Uyarılarımın tümünü küçümsediniz.
+      nrt: раз мой совет не приняли и укор мой с презрением отвергли –
+      Macarius: '"Не возжелали совета Моего; презирали всякое учение Мое.'
+      serbian: Не присташе на мој свјет, и презираше сва карања моја.
+      bulgarian: задето не приеха моя съвет и презряха всичките ми изобличения,
+      pavskiy: "«Не приняли увещания моего,\r«Презрели всякое учение мое:"
+      deutsch: "wollten meinen Rat nicht und lästerten alle meine Strafe:"
+      ukr2: поради моєї не бажали, | знехтували всі мої докори, -
+      ukr3: Що не схотїли слухати моєї ради, погордували докорами моїми;
+      bel_syomukha: не схацелі парады маёй, пагардзілі ўсімі перасьцярогамі маімі;
+      Porfiriy: Не хотели внимать советам моим, и осмеяли обличения мои.
+      lev-khv: Не желали моих советов, презрели все мои обличения.
+      czech: nedali na mou radu, kazdou mou domluvu znevazili.
+      spanish: Y no haberse agradado de mis consejos y haber menospreciado mis
+        requerimientos.
+      greek-lxx: οὐδὲ ἤθελον ἐμαῖς προσέχειν βουλαῖς ἐμυκτήριζον δὲ ἐμοὺς ἐλέγχους
+      st_text: не приняли совета моего, презрели все обличения мои;
+  - id: 29370
+    number: 31
+    bookId: 23
+    text: за то и будут они вкушать от плодов путей своих и насыщаться от помыслов
+      их.
+    chapter: 1
+    chapterId: 670
+    parallels:
+      - verseId: 20385
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 3
+        short: Ис:3:10
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Темже снедят своих путий плоды и своего нечестия насытятся:"
+      averincev: ""
+      ungerov: Посему они будут вкушать от плодов путей своих и насыщаться от нечестия
+        своего.
+      csya_old: "Тёмже снэдsтъ свои1хъ путjй плоды2 и3 своегw2 нече1стіz насы1тzтсz:"
+      sovr_rbo: вкусят они плоды своих дел, замыслами своими насытятся.
+      latin: Comedent igitur fructus viae suae, suisque consiliis saturabuntur.
+      ukr: І тому хай їдять вони з плоду дороги своєї, а з порад своїх хай
+        насищаються,
+      nkjv: Therefore they shall eat the fruit of their own way, And be filled to the
+        full with their own fancies.
+      desnitsky: ""
+      mt: ‫    וְיֹאכְלוּ מִפְּרִי דַרְכָּם וּמִמֹּעֲצֹתֵיהֶם יִשְׂבָּעוּ׃ ‬
+      romana: Manca-vor din rodul caii lor si de sfaturile lor satura-se-vor,
+      francais: Ils se nourriront du fruit de leur voie, Et ils se rassasieront de
+        leurs propres conseils,
+      italian: mangeranno il frutto della loro condotta e si sazieranno dei risultati
+        delle loro decisioni.
+      old_georgian: აწ უკუე ამიერითგან ჭამდენ თავისა თჳსისა გზისა ნაყოფსა და
+        გულისთქუმითა თჳსითა განძღენ.
+      portuguese: portanto comerão do fruto do seu caminho e se fartarão dos seus
+        próprios conselhos.
+      polish: spożyją owoce swej drogi, nasycą się swymi radami;
+      turkish: Bu nedenle tuttuğunuz yolun meyvesini yiyeceksiniz, Kendi
+        düzenbazlığınıza doyacaksınız.
+      nrt: то они будут есть плоды своего пути и получат сполна от своих замыслов.
+      Macarius: '"И будут есть плоды пути своего, и насыщаться своими вымыслами.'
+      serbian: 3ато ће јести плод од путова својих, и наситиће се савјета својих.
+      bulgarian: затова те и ще ядат от плодовете на своите пътища и ще се насищат от
+        своите замисли.
+      pavskiy: "«Пусть вкушают плоды повеления своего,\r«И питаются своими выдумками."
+      deutsch: so sollen sie essen von den Früchten ihres Wesens und ihres Rats satt
+        werden.
+      ukr2: тому плоди своїх учинків їстимуть, | наситяться задумами своїми.
+      ukr3: За се їсти муть плоди вчинків своїх та переситяться химерами своїми.
+      bel_syomukha: за тое няхай ядуць яны з плоду дарог сваіх і насычаюцца з парадаў сваіх.
+      Porfiriy: Посему вкусят плоды своего пути, и насытятся своим нечестием.
+      lev-khv: И вкусят от плодов своего образа действий, и насытятся от помышлений
+        своих;
+      czech: Budou jist plody sve cesty, presyti se svymi plany.
+      spanish: Comerán el fruto de su proceder y se hartarán de sus consejos;
+      greek-lxx: τοιγαροῦν ἔδονται τῆς ἑαυτῶν ὁδοῦ τοὺς καρποὺς καὶ τῆς ἑαυτῶν
+        ἀσεβείας πλησθήσονται
+      st_text: за то и будут они вкушать от плодов путей своих и насыщаться от
+        помыслов их.
+  - id: 29371
+    number: 32
+    bookId: 23
+    text: Потому что упорство невежд убьет их, и беспечность глупцов погубит их,
+    chapter: 1
+    chapterId: 670
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: ибо, зане обидеша младенцев, убиени будут, и истязание нечестивыя погубит.
+      averincev: ""
+      ungerov: Так как они обижали невинных, то и будут убиты и бедствие погубит
+        нечестивых.
+      csya_old: и4бо, зане2 њби1дэша младе1нцєвъ, ўбіе1ни бyдутъ, и3 и3стzзaніе
+        нечести6выz погуби1тъ.
+      sovr_rbo: Потому что простаков погубит своенравие, глупцов подведет их беспечность.
+      latin: Aversio parvulorum interficiet eos, et prosperitas stultorum perdet
+        illos.
+      ukr: бо відступство безумних заб'є їх, і безпечність безтямних їх вигубить!
+      nkjv: For the turning away of the simple will slay them, And the complacency of
+        fools will destroy them;
+      desnitsky: ""
+      mt: ‫    כִּי מְשׁוּבַת פְּתָיִם תַּהַרְגֵם וְשַׁלְוַת כְּסִילִים תְּאַבְּדֵם׃ ‬
+      romana: Caci indaratnicia omoara pe cei prosti si nepasarea pierde pe cei fara
+        minte;
+      francais: Car la résistance des stupides les tue, Et la sécurité des insensés
+        les perd;
+      italian: Sì, lo sbandamento degli inesperti li ucciderà e la spensieratezza
+        degli sciocchi li farà perire; ma chi ascolta me vivrà tranquillo e
+        sicuro dal timore del male".
+      old_georgian: ამისთჳს, რამეთუ ავნებდეს ჩჩჳლთა და მოსწყუედდეს, და განკითხვამან
+        უღმრთონი მოსრნეს,
+      portuguese: Porque o desvio dos néscios os matará, e a prosperidade dos loucos
+        os destruirá.
+      polish: odstępstwo prostaków uśmierci ich, bezmyślność niemądrych ich zgubi.
+      turkish: "Bön adamlar dönekliklerinin kurbanı olacak.\rAkılsızlar
+        kaygısızlıklarının içinde yok olup gidecek."
+      nrt: Ведь своенравие убьет простаков, и беспечность погубит глупцов,
+      Macarius: '"Так! непокорность невежд убьет их, и беспечность глупых погубит их.'
+      serbian: Јер ће луде убити мир њихов, и безумне ће погубити срећа њихова.
+      bulgarian: Защото невежите ще ги убие тяхното упорство, а глупците ще ги погуби
+        тяхната безгрижност;
+      pavskiy: "«Ибо непокорность невежд убьет их,\r«И безпечность глупцов погубит их."
+      deutsch: Was die Unverständigen gelüstet, tötet sie, und der Ruchlosen Glück
+        bringt sie um.
+      ukr2: Бо відступництво невігласів їх убиває, | і безтурботність дурнів губить
+        їх.
+      ukr3: Так, упрямість невіжів убє їх і байдужність дурних погубить їх;
+      bel_syomukha: Бо адступніцтва неразумных заб'е іх, і бястурботнасьць немысьляў
+        загубіць іх.
+      Porfiriy: А за то, что обижали слабых, будут умерщвлены; и взыскание Божие
+        потребит нечестивых.
+      lev-khv: Потому что упорство глупых умертвит их, и безпечность безумных погубит
+        их.
+      czech: Prostoduche zavrazdi jejich odmitavost, hlupaky zahubi jejich netecnost.
+      spanish: Porque ese desvío llevará a los simples a la muerte, y la tranquilidad
+        de los necios los perderá.
+      greek-lxx: ἀνθ᾿ ὧν γὰρ ἠδίκουν νηπίους φονευθήσονται καὶ ἐξετασμὸς ἀσεβεῖς ὀλεῖ
+      st_text: Потому что упорство невежд убьет их, и беспечность глупцов погубит их,
+  - id: 29372
+    number: 33
+    bookId: 23
+    text: а слушающий меня будет жить безопасно и спокойно, не страшась зла".
+    chapter: 1
+    chapterId: 670
+    parallels:
+      - verseId: 30579
+        bookId: 22
+        bookCode: psaltir
+        chapter: 111
+        short: Пс:111:7
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Мене же слушаяй вселится на уповании и почиет без страха от всякаго зла.
+      averincev: ""
+      ungerov: Слушающий же меня будет жить в надежде и почиет без страха от всякаго
+        зла".
+      csya_old: Мене1 же слyшаzй всели1тсz на ўповaніи и3 почjетъ без8 стрaха t
+        всsкагw ѕлA.
+      sovr_rbo: А кто слушает меня, будет жить спокойно, не страшась никакой беды».
+      latin: Qui autem me audierit absque terrore requiescet, et abundantia
+        perfruetur, timore malorum sublato.
+      ukr: А хто мене слухає, той буде жити безпечно, і буде спокійний від страху
+        перед злом!
+      nkjv: But whoever listens to me will dwell safely, And will be secure, without
+        fear of evil."
+      desnitsky: ""
+      mt: ‫    וְשֹׁמֵעַ לִי יִשְׁכָּן־בֶּטַח וְשַׁאֲנַן מִפַּחַד רָעָה׃ פ ‬
+      romana: Iar cel ce ma asculta va trai in pace si liniste si de rele nu se va
+        teme".
+      francais: Mais celui qui m'écoute reposera avec assurance, Il vivra tranquille
+        et sans craindre aucun mal.
+      old_georgian: ხოლო რომელმან ისმინოს ჩემი, და დაემკჳდროს სასოებით, და დაადგრეს
+        უშიშად ყოვლისაგან ბოროტისა.
+      portuguese: Mas o que me der ouvidos habitará em segurança, e estará tranqüilo,
+        sem receio do mal.
+      polish: Kto słucha mnie - osiągnie spokój, wytchnienie - bez obawy nieszczęścia”.
+      turkish: Ama beni dinleyen güvenlik içinde yaşayacak, Kötülükten korkmayacak,
+        huzur bulacak.»
+      nrt: но слушающий меня будет жить безопасно и спокойно, не страшась беды».
+      Macarius: «А слушающий Меня живет безопасно и мирно, не страшась зла».
+      serbian: Али ко ме слуша, боравиће безбрижно, и биће на миру не бојећи се зла.
+      bulgarian: но който слуша мене, ще живее безопасно и спокойно, без да се
+        страхува от зло."
+      pavskiy: "«А слушающий меня живет безопасно\r«И спокойно, не страшась зла»."
+      deutsch: Wer aber mir gehorcht, wird sicher bleiben und genug haben und kein
+        Unglück fürchten.
+      ukr2: Хто ж слухає мене, той житиме безпечно, | і буде спокійний, не боявшися
+        лиха”.
+      ukr3: Хто ж послухає мене, той буде жити безпечно й спокійно, не лякаючись лиха.
+      bel_syomukha: А хто мяне слухае, будзе жыць у бясьпецы і спакойна, не баючыся ліха".
+      Porfiriy: Слушающий же меня будет жить надежно, и будет спокоен, не страшась
+        никакого зла.
+      lev-khv: Но внимающий мне будет жить в безопасности и будет спокоен, не опасаясь
+        зла&raquo;.
+      czech: Ale kdo me posloucha, v bezpeci bude bydlet a zit klidne, beze strachu z
+        neceho zleho."
+      spanish: Pero quien me escuche vivirá tranquilo, seguro y sin temor de mal.
+      greek-lxx: ὁ δὲ ἐμοῦ ἀκούων κατασκηνώσει ἐπ᾿ ἐλπίδι καὶ ἡσυχάσει ἀφόβως ἀπὸ
+        παντὸς κακοῦ
+      st_text: а слушающий меня будет жить безопасно и спокойно, не страшась зла".

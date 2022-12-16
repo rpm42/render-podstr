@@ -1,0 +1,3287 @@
+id: 1
+number: 1
+bookId: 1
+verseCount: 31
+title: Глава 1
+verses:
+  - id: 9659
+    number: 1
+    bookId: 1
+    text: В начале сотворил Бог небо и землю.
+    chapter: 1
+    chapterId: 1
+    parallels:
+      - verseId: 19657
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 38
+        short: Иов:38:4
+      - verseId: 32575
+        bookId: 22
+        bookCode: psaltir
+        chapter: 88
+        short: Пс:88:12
+      - verseId: 32576
+        bookId: 22
+        bookCode: psaltir
+        chapter: 88
+        short: Пс:88:13
+      - verseId: 30983
+        bookId: 22
+        bookCode: psaltir
+        chapter: 135
+        short: Пс:135:5
+      - verseId: 31135
+        bookId: 22
+        bookCode: psaltir
+        chapter: 145
+        short: Пс:145:6
+      - verseId: 33533
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 16
+        short: Сир:16:26
+      - verseId: 33570
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 18
+        short: Сир:18:1
+      - verseId: 17888
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 1
+        short: Ин:1:3
+      - verseId: 13205
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 14
+        short: Деян:14:15
+      - verseId: 13323
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 17
+        short: Деян:17:24
+      - verseId: 6696
+        bookId: 58
+        bookCode: 2oe-poslanie-ap-petra
+        chapter: 3
+        short: 2 Пет:3:5
+      - verseId: 14615
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 11
+        short: Евр:11:3
+      - verseId: 28245
+        bookId: 77
+        bookCode: otkrovenie-ap-ioanna-bogoslova
+        chapter: 14
+        short: Откр:14:7
+    translates:
+      kassian: ""
+      podstr: В начале сотворил Бог небо и землю.
+      csya: В начале сотвори Бог небо и землю.
+      averincev: ""
+      ungerov: В начале сотворил Бог небо и землю.
+      csya_old: Въ начaлэ сотвори2 бг7ъ не1бо и3 зе1млю.
+      sovr_rbo: В начале сотворил Бог небо и землю.
+      latin: In principio creavit Deus caelum et terram.
+      ukr: На початку Бог створив Небо та землю.
+      nkjv: In the beginning God created the heavens and the earth.
+      desnitsky: ""
+      mt: ‫    בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ׃ ‬
+      bel_syomukha: На пачатку стварыў Бог неба і зямлю.
+      romana: La inceput a facut Dumnezeu cerul si pamantul.
+      francais: Au commencement, Dieu créa les cieux et la terre.
+      italian: In principio Dio creò il cielo e la terra.
+      old_georgian: დასაბამად ქმნნა ღმერთმან ცაჲ და ქუეყანაჲ.
+      portuguese: Assim foram acabados os céus e a terra, com todo o seu exército.
+      polish: Na początku Bóg stworzył niebo i ziemię.
+      turkish: Başlangıçta Tanrı göğü ve yeri yarattı.
+      nrt: В начале сотворил Бог небо и землю.
+      Macarius: В начале Бог сотворил небеса и землю.
+      serbian: У почетку створи  Бог небо и земљу.
+      bulgarian: В начало Бог сътвори небето и земята.
+      Filaret: В начале Бог сотворил небеса и землю.
+      deutsch: Am Anfang schuf Gott Himmel und Erde.
+      ukr2: На початку сотворив Бог небо й землю.
+      ukr3: У початку сотворив Бог небо та землю.
+      old_rbo: В начале Бог сотворил небо и землю.
+      spbda: В начале сотворил Бог небо и землю.
+      gorsky-platonov: "Вот имена сынов Израиля, вошедших в Египет, с Иаковом отцем
+        своим каждый и дом его вошли:"
+      sergievsky: С началом Бог создал небо это и землю эту.
+      Porfiriy: В начале сотворил Бог небо и землю.
+      lev-khv: В начале сотворил Бог небо и землю.
+      czech: Na pocatku stvoril Buh nebe a zemi.
+      spanish: Al principio creó Dios los cielos y la tierra.
+      vadim: С н а ч а л а  сотворил Бог небеса и землю;
+      mandelshtam: С началом Бог создал небо это и землю эту.
+      greek-lxx: ἐν ἀρχῇ ἐποίησεν ὁ Θεὸς τὸν οὐρανὸν καὶ τὴν γῆν
+      st_text: В начале сотворил Бог небо и землю.
+  - id: 9660
+    number: 2
+    bookId: 1
+    text: Земля же была безвидна и пуста, и тьма над бездною, и Дух Божий носился
+      над водою.
+    chapter: 1
+    chapterId: 1
+    parallels:
+      - verseId: 19514
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 33
+        short: Иов:33:4
+    translates:
+      kassian: ""
+      podstr: Же земля была невидима и неустроенна, и тьма над бездной, и Дух Бога
+        носился над водой.
+      csya: Земля же бе невидима и неустроена, и тма верху бездны, и Дух Божий
+        ношашеся верху воды.
+      averincev: ""
+      ungerov: Земля же была невидима и неустроена, и тьма поверх бездны, и Дух Божий
+        носился поверх воды.
+      csya_old: Землs же бЁ неви1дима и3 неустро1ена, и3 тмA верхY бе1здны, и3 д¦ъ
+        б9ій ношaшесz верхY воды2.
+      sovr_rbo: Земля была пуста и пустынна, тьма была над пучиной, и дух Божий веял
+        над водами.
+      latin: "Terra autem erat inanis et vacua, et tenebrae erant super faciem abyssi:
+        et spiritus Dei ferebatur super aquas."
+      ukr: А земля була пуста та порожня, і темрява була над безоднею, і Дух Божий
+        ширяв над поверхнею води.
+      nkjv: The earth was without form, and void; and darkness was on the face of the
+        deep. And the Spirit of God was hovering over the face of the waters.
+      desnitsky: ""
+      mt: ‫    וְהָאָרֶץ הָיְתָה תֹהוּ וָבֹהוּ וְחֹשֶׁךְ עַל־פְּנֵי תְהוֹם וְרוּחַ
+        אֱלֹהִים מְרַחֶפֶת עַל־פְּנֵי הַמָּיִם׃ ‬
+      bel_syomukha: А зямля была нябачная і пустая і цемра над безданьню, і Дух Божы
+        лунаў над вадою.
+      romana: Si pamantul era netocmit si gol. Intuneric era deasupra adancului si
+        Duhul lui Dumnezeu Se purta pe deasupra apelor.
+      francais: "La terre était informe et vide: il y avait des ténèbres à la surface
+        de l'abîme, et l'esprit de Dieu se mouvait au-dessus des eaux."
+      italian: Ora la terra era informe e deserta e le tenebre ricoprivano l'abisso e
+        lo spirito di Dio aleggiava sulle acque.
+      old_georgian: ხოლო ქუეყანაჲ იყო უხილავ და განუმზადებელ და ბნელი ზედა უფსკრულთა.
+        და სული ღმრთისაჲ იქცეოდა ზედა წყალთა.
+      portuguese: "Ora, havendo Deus completado no dia sétimo a obra que tinha feito,
+        descansou nesse dia de toda a obra que\r
+
+        fizera."
+      polish: "Ziemia zaś była bezładem i pustkowiem: ciemność była nad powierzchnią\r
+
+        bezmiaru wód, a Duch Boży unosił się nad wodami."
+      turkish: Yer boştu, yeryüzü şekilleri yoktu; engin karanlıklarla kaplıydı.
+        Tanrı'nın Ruhu suların üzerinde dalgalanıyordu.
+      nrt: Земля была пуста и безлика, тьма была над бездной, и Дух Божий парил над
+        водами.
+      Macarius: Но земля была необразована и пуста, и тьма над бездною; и Дух Божий
+        носился над водами.
+      serbian: А земља бјеше без обличја и пуста, и бјеше тама над безданом; и дух
+        Божји дизаше се над водом.
+      bulgarian: А земята беше безвидна и пуста; тъмнина се разстилаше над бездната, и
+        Дух Божий се носеше над водата.
+      Filaret: Но земля была необразована и пуста, и тьма над бездною, и Дух Божий
+        носился над водами.
+      deutsch: Und die Erde war wüst und leer, und es war finster auf der Tiefe; und
+        der Geist Gottes schwebte auf dem Wasser.
+      ukr2: Земля ж була пуста й порожня та й темрява була над безоднею, а дух Божий
+        ширяв над водами.
+      ukr3: Земля ж була пуста і пустошня, і темрява лежала над безоднею; і дух Божий
+        ширяв понад водами.
+      old_rbo: Земля же была необразована и пуста, и тьма над бездною; и Дух Божий
+        носился над водами.
+      spbda: Земля же была безвидна и пуста, и тьма над бездною; и Дух Божий носился
+        над водою.
+      gorsky-platonov: ""
+      sergievsky: Земля же представляла переворот и расторжение; над поверхностью
+        бездны был мрак, и Божий Дух носился над водами.
+      Porfiriy: Земля же была невзрачна и неустроена, и тьма над бездною; и Дух Божий
+        носился над водою.
+      lev-khv: Земля же была безвидна и пуста, и тьма над поверхностью бездны; и Дух
+        Божий носился над поверхностью воды.
+      czech: Zeme byla pusta a prazdna a nad propastnou tuni byla tma. Ale nad vodami
+        vznasel se duch Bozi.
+      spanish: La tierra estaba confusa y vacía, y las tinieblas cubrían la haz del
+        abismo, pero el espíritu de Dios se cernía sobre la superficie de las
+        aguas.
+      vadim: но земля была пустой и пустынной, и мрак был над поверхностью пучины и
+        дух Божий парил над водами.
+      mandelshtam: Земля же представляла переворот и расторжение; над поверхностью
+        бездны был мрак, и Божий Дух носился над водами.
+      st_text: Земля же была безвидна и пуста, и тьма над бездною, и Дух Божий носился
+        над водою.
+      new_text: ""
+      tex_rec: ""
+      peshitta: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      Agafangel: ""
+      zhukovsky: ""
+      khomyakov: ""
+      yungerov_mt: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+      greek-lxx: ἡ δὲ γῆ ἦν ἀόρατος καὶ ἀκατασκεύαστος καὶ σκότος ἐπάνω τῆς ἀβύσσου
+        καὶ πνεῦμα Θεοῦ ἐπεφέρετο ἐπάνω τοῦ ὕδατος
+  - id: 9661
+    number: 3
+    bookId: 1
+    text: "И сказал Бог: да будет свет. И стал свет."
+    chapter: 1
+    chapterId: 1
+    parallels:
+      - verseId: 31506
+        bookId: 22
+        bookCode: psaltir
+        chapter: 32
+        short: Пс:32:9
+      - verseId: 30332
+        bookId: 22
+        bookCode: psaltir
+        chapter: 103
+        short: Пс:103:2
+      - verseId: 20757
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 45
+        short: Ис:45:7
+      - verseId: 17888
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 1
+        short: Ин:1:3
+      - verseId: 5152
+        bookId: 65
+        bookCode: 2oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 4
+        short: 2 Кор:4:6
+    translates:
+      kassian: ""
+      podstr: "И сказал Бог: Пусть будет сделан свет. И сделался свет."
+      csya: "И рече Бог: да будет свет. И бысть свет."
+      averincev: ""
+      ungerov: "И сказал Бог: да будет свет. И был свет."
+      csya_old: "И# рече2 бг7ъ: да бyдетъ свётъ. И# бы1сть свётъ."
+      sovr_rbo: "И сказал Бог: «Да будет свет». И появился свет."
+      latin: "Dixitque Deus: Fiat lux. Et facta est lux."
+      ukr: "І сказав Бог: Хай станеться світло! І сталося світло."
+      nkjv: Then God said, "Let there be light"; and there was light.
+      desnitsky: ""
+      mt: ‫    וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי־אוֹר׃ ‬
+      bel_syomukha: "І сказаў Бог: хай будзе сьвятло. І сталася сьвятло."
+      romana: 'Si a zis Dumnezeu: "Sa fie lumina! Si a fost lumina.'
+      francais: "Dieu dit: Que la lumière soit! Et la lumière fut."
+      italian: 'Dio disse: "Sia la luce!". E la luce fu.'
+      old_georgian: "და თქუა ღმერთმან: იქმენინ ნათელი და იქმნა ნათელი."
+      portuguese: Abençoou Deus o sétimo dia, e o santificou; porque nele descansou de
+        toda a sua obra que criara e fizera.
+      polish: "Wtedy Bóg rzekł: ”Niechaj się stanie światłość!” I stała się światłość."
+      turkish: Tanrı, «Işık olsun» diye buyurdu ve ışık oldu.
+      nrt: "Бог сказал: «Да будет свет», – и появился свет."
+      Macarius: "И сказал Бог: да будет свет; и стал свет."
+      serbian: "И рече Бог: Нека буде  свјетлост. И би свјетлост."
+      bulgarian: "Рече Бог: да бъде светлина. И биде светлина."
+      Filaret: "И сказал Бог: да будет свет; и стал свет."
+      deutsch: "Und Gott sprach: Es werde Licht! und es ward Licht."
+      ukr2: "І сказав Бог: Нехай буде світло! І настало світло."
+      ukr3: "І рече Бог: Настань, сьвіте! І настав сьвіт."
+      old_rbo: "И сказал Бог: да будет свет; и стал свет."
+      spbda: "И сказал Бог: да будет свет; и стал свет."
+      gorsky-platonov: Иссахар, Завулон и Вениамин,
+      sergievsky: "И Бог сказал: «Да будет свет!» — И стал свет."
+      Porfiriy: "И сказал Бог: будь свет, и был свет."
+      lev-khv: "И сказал Бог: да будет свет; и стал свет."
+      czech: "I rekl Buh: „Bud svetlo!“ A bylo svetlo."
+      spanish: "Dijo Dios: <<Haya luz>>, y hubo luz."
+      vadim: "И сказал Бог: «Будь свет». И стал свет."
+      mandelshtam: "И Бог сказал: «Да будет свет!» — И стал свет."
+      greek-lxx: καὶ εἶπεν ὁ Θεός γενηθήτω φῶς καὶ ἐγένετο φῶς
+      st_text: "И сказал Бог: да будет свет. И стал свет."
+  - id: 9662
+    number: 4
+    bookId: 1
+    text: И увидел Бог свет, что он хорош, и отделил Бог свет от тьмы.
+    chapter: 1
+    chapterId: 1
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И увидел Бог свет что хороший. И разделил Бог по середине света и по
+        середине тьмы.
+      csya: И виде Бог свет, яко добро, и разлучи Бог между светом и между тмою.
+      averincev: ""
+      ungerov: И увидел Бог свет, что (это) хорошо, и отделил Бог свет от тьмы.
+      csya_old: И# ви1дэ бг7ъ свётъ, ћкw добро2, и3 разлучи2 бг7ъ междY свётомъ и3
+        междY тмо1ю.
+      sovr_rbo: Бог увидел, как хорош свет, и отделил его от тьмы,
+      latin: "Et vidit Deus lucem quod esset bona: et divisit lucem a tenebris."
+      ukr: І побачив Бог світло, що добре воно, і Бог відділив світло від темряви.
+      nkjv: And God saw the light, that it was good; and God divided the light from
+        the darkness.
+      desnitsky: ""
+      mt: ‫    וַיַּרְא אֱלֹהִים אֶת־הָאוֹר כִּי־טוֹב וַיַּבְדֵּל אֱלֹהִים בֵּין
+        הָאוֹר וּבֵין הַחֹשֶׁךְ׃ ‬
+      bel_syomukha: І ўбачыў Бог сьвятло, што яно добра, і аддзяліў Бог сьвятло ад цемры.
+      romana: Si a vazut Dumnezeu ca este buna lumina, si a despartit Dumnezeu lumina
+        de intuneric.
+      francais: Dieu vit que la lumière était bonne; et Dieu sépara la lumière d'avec
+        les ténèbres.
+      italian: Dio vide che la luce era cosa buona e separò la luce dalle tenebre
+      old_georgian: და იხილა ღმერთმან ნათელი, რამეთუ კეთილ. და განწვალა ღმერთმან შორის
+        ნათლისა და შორის ბნელისა.
+      portuguese: Eis as origens dos céus e da terra, quando foram criados. No dia em
+        que o Senhor Deus fez a terra e os céus
+      polish: Bóg widząc, że światłość jest dobra, oddzielił ją od ciemności.
+      turkish: Tanrı ışığın iyi olduğunu gördü ve onu karanlıktan ayırdı.
+      nrt: Бог увидел, что свет хорош, и отделил его от тьмы.
+      Macarius: Бог увидел, что свет хорош; и отделил Бог свет от тьмы.
+      serbian: И видје Бог свјетлост да је добра; и растави Бог свјетлост од таме.
+      bulgarian: Видя Бог, че светлината е добро нещо, и отдели Бог светлината от
+        тъмнината.
+      Filaret: Бог увидел, что свет хорош; и отделил Бог свет от тьмы.
+      deutsch: Und Gott sah, daß das Licht gut war. Da schied Gott das Licht von der
+        Finsternis
+      ukr2: І побачив Бог світло, що воно добре та й відділив Бог світло від темряви.
+      ukr3: І бачив Бог сьвіт, що воно добре; та й розлучив сьвіт із темрявою.
+      old_rbo: Бог увидел, что свет хорош; и отделил Бог свет от тьмы.
+      spbda: И увидел Бог свет, что он хорош; и отделил Бог свет от тьмы.
+      gorsky-platonov: Дан и Неффалим, Гад и Асир.
+      sergievsky: И увидел Бог, что свет хорош; и Бог положил раздел между светом и мраком.
+      Porfiriy: И видел Бог свет, как хорош, и разграничил Бог свет и тьму.
+      lev-khv: И увидел Бог свет, что <i>он</i> хорош; и отделил Бог свет от тьмы.
+      czech: Videl, ze svetlo je dobre, a oddelil svetlo od tmy.
+      spanish: y vio Dios ser buena la luz, y la separó de las tinieblas;
+      vadim: И увидел Бог что свет хорош, и сделал Бог разделенье между светом и
+        мраком,
+      mandelshtam: И увидел Бог, что свет хорош; и Бог положил раздел между светом и мраком.
+      st_text: И увидел Бог свет, что он хорош, и отделил Бог свет от тьмы.
+      new_text: ""
+      tex_rec: ""
+      peshitta: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      Agafangel: ""
+      zhukovsky: ""
+      khomyakov: ""
+      yungerov_mt: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+      greek-lxx: καὶ εἶδεν ὁ Θεὸς τὸ φῶς ὅτι καλόν καὶ διεχώρισεν ὁ Θεὸς ἀνὰ μέσον τοῦ
+        φωτὸς καὶ ἀνὰ μέσον τοῦ σκότους
+  - id: 9663
+    number: 5
+    bookId: 1
+    text: "И назвал Бог свет днем, а тьму ночью. И был вечер, и было утро: день
+      один."
+    chapter: 1
+    chapterId: 1
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И назвал Бог свет день и тьму назвал ночь. И сделался вечер и сделалось
+        утро, день один.
+      csya: И нарече Бог свет день, а тму нарече нощь. И бысть вечер, и бысть утро,
+        день един.
+      averincev: ""
+      ungerov: "И назвал Бог свет днем, а тьму назвал ночью. И был вечер и было утро:
+        день один."
+      csya_old: И# нарече2 бг7ъ свётъ де1нь, ґ тмY нарече2 но1щь. И# бы1сть ве1черъ,
+        и3 бы1сть ќтро, де1нь є3ди1нъ.
+      sovr_rbo: дал свету имя «день», а тьме — имя «ночь». Настал вечер, настало утро
+        — первый день.
+      latin: "Appellavitque lucem Diem, et tenebras Noctem: factumque est vespere et
+        mane, dies unus."
+      ukr: "І Бог назвав світло: День, а темряву назвав: Ніч. І був вечір, і був
+        ранок, день перший."
+      nkjv: God called the light Day, and the darkness He called Night. So the evening
+        and the morning were the first day.
+      desnitsky: ""
+      mt: ‫    וַיִּקְרָא אֱלֹהִים לָאוֹר יוֹם וְלַחֹשֶׁךְ קָרָא לָיְלָה וַיְהִי־עֶרֶב
+        וַיְהִי־בֹקֶר יוֹם אֶחָד׃ פ ‬
+      bel_syomukha: "І назваў Бог сьвятло днём, а цемру ноччу. І быў вечар, і была
+        раніца: дзень адзін."
+      romana: "Lumina a numit-o Dumnezeu ziua, iar intunericul l-a numit noapte. Si a
+        fost seara si a fost dimineata: ziua intai."
+      francais: "Dieu appela la lumière jour, et il appela les ténèbres nuit. Ainsi,
+        il y eut un soir, et il y eut un matin: ce fut le premier jour."
+      italian: "e chiamò la luce giorno e le tenebre notte. E fu sera e fu mattina:
+        primo giorno."
+      old_georgian: და უწოდა ღმერთმან ნათელსა დღე და ბნელსა უწოდა ღამე. და იქმნა
+        მწუხრი და იქმნა განთიად დღე ერთი.
+      portuguese: "não havia ainda nenhuma planta do campo na terra, pois nenhuma erva
+        do campo tinha ainda brotado; porque o\r
+
+        Senhor Deus não tinha feito chover sobre a terra, nem havia
+        homem para lavrar a terra."
+      polish: "I nazwał Bóg światłość dniem, a ciemność nazwał nocą. I tak upłynął
+        wieczór\r
+
+        i poranek - dzień pierwszy."
+      turkish: Işığa «Gündüz», karanlığa «Gece» adını verdi. Akşam oldu, sabah oldu ve
+        ilk gün oluştu.
+      nrt: Бог назвал свет днем, а тьму – ночью. Был вечер, и было утро – день первый.
+      Macarius: "И назвал Бог свет днем, а тьму назвал ночью. И был вечер, и было
+        утро: день первый."
+      serbian: И свјетлост назва Бог дан, а таму назва ноћ. И би вече и би јутро, дан
+        први.
+      bulgarian: Светлината Бог нарече ден, а тъмнината - нощ. Биде вечер, биде утро -
+        ден един.
+      Filaret: "И назвал Бог свет днем, а тьму назвал ночью. И был вечер, и было утро:
+        день один."
+      deutsch: und nannte das Licht Tag und die Finsternis Nacht. Da ward aus Abend
+        und Morgen der erste Tag.
+      ukr2: Назвав же Бог світло - день, а темряву назвав ніч. І був вечір і був ранок
+        - день перший.
+      ukr3: І назве Бог сьвіт день, а темряву назве ніч. І був вечір, і був ранок;
+        день первий.
+      old_rbo: "И назвал Бог свет, днем; а тьму назвал, ночью. И был вечер, и было
+        утро: день первый."
+      spbda: "И назвал Бог свет днем, а тьму назвал ночью. И был вечер, и было утро:
+        день один."
+      gorsky-platonov: "Тогда всех душь, вышедших из чресл Иакова было семьдесять душ;
+        а Иосиф был в Египте:"
+      sergievsky: И назвал Бог свет днем, а мрак назвал ночью; и стал вечер и стало
+        утро, — день один.
+      Porfiriy: И назвал Бог свет днем, а тьму назвал ночью. И был вечер, и было утро,
+        день первый.
+      lev-khv: "И назвал Бог свет днем, а тьму назвал ночью. И был вечер, и было утро:
+        день один."
+      czech: Svetlo nazval Buh dnem a tmu nazval noci. Byl vecer a bylo jitro, den
+        prvni.
+      spanish: y a la luz llamó día y a las tinieblas noche, y hubo tarde y mañana,
+        día primero.
+      vadim: и назвал Бог свет днем, а мрак назвал ночью. И был вечер и было утро, —
+        день первый.
+      mandelshtam: И назвал Бог свет днем, а мрак назвал ночью; и стал вечер и стало
+        утро, — день один.
+      st_text: "И назвал Бог свет днем, а тьму ночью. И был вечер, и было утро: день
+        один."
+      new_text: ""
+      tex_rec: ""
+      peshitta: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      Agafangel: ""
+      zhukovsky: ""
+      khomyakov: ""
+      yungerov_mt: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+      greek-lxx: καὶ ἐκάλεσεν ὁ Θεὸς τὸ φῶς ἡμέραν καὶ τὸ σκότος ἐκάλεσεν νύκτα καὶ
+        ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί ἡμέρα μία
+  - id: 9664
+    number: 6
+    bookId: 1
+    text: "И сказал Бог: да будет твердь посреди воды, и да отделяет она воду от
+      воды. [И стало так.]"
+    chapter: 1
+    chapterId: 1
+    parallels:
+      - verseId: 31503
+        bookId: 22
+        bookCode: psaltir
+        chapter: 32
+        short: Пс:32:6
+      - verseId: 30332
+        bookId: 22
+        bookCode: psaltir
+        chapter: 103
+        short: Пс:103:2
+      - verseId: 30983
+        bookId: 22
+        bookCode: psaltir
+        chapter: 135
+        short: Пс:135:5
+      - verseId: 31163
+        bookId: 22
+        bookCode: psaltir
+        chapter: 148
+        short: Пс:148:4
+      - verseId: 31164
+        bookId: 22
+        bookCode: psaltir
+        chapter: 148
+        short: Пс:148:5
+      - verseId: 15279
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 10
+        short: Иер:10:12
+      - verseId: 16417
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 51
+        short: Иер:51:15
+    translates:
+      kassian: ""
+      podstr: "И сказал Бог: Пусть будет сделана твёрдость среди воды и пусть будет
+        разделяющая по середине воды и воды. И сделалось так."
+      csya: "И рече Бог: да будет твердь посреде воды, и да будет разлучающи посреде
+        воды и воды. И бысть тако."
+      averincev: ""
+      ungerov: "И сказал Бог: да будет твердь посреди воды и да отделяет воду от воды.
+        И было так."
+      csya_old: "И# рече2 бг7ъ: да бyдетъ тве1рдь посредЁ воды2, и3 да бyдетъ
+        разлучaющи посредЁ воды2 и3 воды2. И# бы1сть тaкw."
+      sovr_rbo: "И сказал Бог: «Пусть средь воды будет свод, разделяющий воды надвое».
+        И стало так."
+      latin: "Dixit quoque Deus: Fiat firmamentum in medio aquarum: et dividat aquas
+        ab aquis."
+      ukr: "І сказав Бог: Нехай станеться твердь посеред води, і нехай відділяє вона
+        між водою й водою."
+      nkjv: Then God said, "Let there be a firmament in the midst of the waters, and
+        let it divide the waters from the waters."
+      desnitsky: ""
+      mt: ‫    וַיֹּאמֶר אֱלֹהִים יְהִי רָקִיעַ בְּתוֹךְ הַמָּיִם וִיהִי מַבְדִּיל
+        בֵּין מַיִם לָמָיִם׃ ‬
+      bel_syomukha: "І сказаў Бог: хай будзе цьвердзь пасярод вады, і хай аддзяляе яна
+        ваду ад вады."
+      romana: 'Si a zis Dumnezeu: "Sa fie o tarie prin mijlocul apelor si sa desparta
+        ape de ape!" Si a fost asa.'
+      francais: "Dieu dit: Qu'il y ait une étendue entre les eaux, et qu'elle sépare
+        les eaux d'avec les eaux."
+      italian: 'Dio disse: "Sia il firmamento in mezzo alle acque per separare le
+        acque dalle acque".'
+      old_georgian: "და თქუა ღმერთმან: იქმენინ სამყარო შორის წყლისა და იყავნ განმყოფელ
+        შორის წყლისა და წყლისა. და იქმნა ეგრეთ."
+      portuguese: Um vapor, porém, subia da terra, e regava toda a face da terra.
+      polish: "A potem Bóg rzekł: ”Niechaj powstanie sklepienie w środku wód i
+        niechaj\rono oddzieli jedne wody od drugich!”"
+      turkish: Tanrı, «Suların ortasında bir kubbe olsun, suları birbirinden ayırsın»
+        diye buyurdu.
+      nrt: "И сказал Бог: «Да будет свод между водами, чтобы отделить воду от воды»."
+      Macarius: "Потом Бог сказал: да будет твердь посреди вод; и да отделяет она воды
+        от вод."
+      serbian: "Потом рече Бог: Нека буде свод посред воде, да раставља воду од воде."
+      bulgarian: "И рече Бог: да има твърд посред водата, и тя да дели вода от вода.
+        (Тъй и стана.)"
+      Filaret: "Потом Бог сказал: да будет твердь посреди вод; и да отделяет она воды
+        от вод."
+      deutsch: "Und Gott sprach: Es werde eine Feste zwischen den Wassern, und die sei
+        ein Unterschied zwischen den Wassern."
+      ukr2: "Тоді сказав Бог: Нехай посеред вод буде твердь і нехай вона відділяє води
+        від вод!"
+      ukr3: "І рече Бог: Нехай проміж водами постане твердь, і розлучає води з водами!
+        І сталось тако."
+      old_rbo: "Потом Бог сказал: да будет твердь посреди вод; и да отделяет она воды
+        от вод: [и стало так]."
+      spbda: "И сказал Бог: да будет твердь посреди воды, и да отделяет она воду от
+        воды."
+      gorsky-platonov: И умер Иосиф и все братья его и весь род тот;
+      sergievsky: "И Бог сказал: «Да будет пространство посреди воды, и пусть будет
+        оно разделом между водою и водою!»"
+      Porfiriy: "И сказал Бог: будь твердь посреди воды, и стань границею между водою
+        и водою. И было так."
+      lev-khv: "И сказал Бог: да будет твердь посреди воды, и да отделяет она воду от
+        воды."
+      czech: "I rekl Buh: „Bud klenba uprostred vod a oddeluj vody od vod!“"
+      spanish: "Dijo luego Dios: <<Haya firmamento en medio de las aguas, que separe
+        unas de otras>>; y así fue."
+      vadim: "И сказал Бог: «Будь твердь посреди вод, и служи она разделеньем между
+        водами и водами»."
+      mandelshtam: "И Бог сказал: «Да будет пространство посреди воды, и пусть будет
+        оно разделом между водою и водою!»"
+      greek-lxx: καὶ εἶπεν ὁ Θεός γενηθήτω στερέωμα ἐν μέσῳ τοῦ ὕδατος καὶ ἔστω
+        διαχωρίζον ἀνὰ μέσον ὕδατος καὶ ὕδατος καὶ ἐγένετο οὕτως
+      st_text: "И сказал Бог: да будет твердь посреди воды, и да отделяет она воду от
+        воды. [И стало так.]"
+  - id: 9665
+    number: 7
+    bookId: 1
+    text: И создал Бог твердь, и отделил воду, которая под твердью, от воды, которая
+      над твердью. И стало так.
+    chapter: 1
+    chapterId: 1
+    parallels:
+      - verseId: 31503
+        bookId: 22
+        bookCode: psaltir
+        chapter: 32
+        short: Пс:32:6
+      - verseId: 30333
+        bookId: 22
+        bookCode: psaltir
+        chapter: 103
+        short: Пс:103:3
+      - verseId: 30983
+        bookId: 22
+        bookCode: psaltir
+        chapter: 135
+        short: Пс:135:5
+      - verseId: 31163
+        bookId: 22
+        bookCode: psaltir
+        chapter: 148
+        short: Пс:148:4
+      - verseId: 31164
+        bookId: 22
+        bookCode: psaltir
+        chapter: 148
+        short: Пс:148:5
+    translates:
+      kassian: ""
+      podstr: И сделал Бог твёрдость, и разделил Бог по середине воды, которая была
+        под твёрдостью, и по середине воды над твёрдостью.
+      csya: И сотвори Бог твердь, и разлучи Бог между водою, яже бе под твердию, и
+        между водою, яже бе над твердию.
+      averincev: ""
+      ungerov: И сотворил Бог твердь и отделил Бог воду, которая была под твердию, от
+        воды, которая была над твердию.
+      csya_old: И# сотвори2 бг7ъ тве1рдь, и3 разлучи2 бг7ъ междY водо1ю, ћже бЁ под8
+        тве1рдію, и3 междY водо1ю, ћже бЁ над8 тве1рдію.
+      sovr_rbo: Бог создал свод, и отделил воды под сводом от вод над сводом,
+      latin: Et fecit Deus firmamentum, divisitque aquas, quae erant sub firmamento,
+        ab his, quae erant super firmamentum. Et factum est ita.
+      ukr: І Бог твердь учинив, і відділив воду, що під твердю вона, і воду, що над
+        твердю вона. І сталося так.
+      nkjv: Thus God made the firmament, and divided the waters which were under the
+        firmament from the waters which were above the firmament; and it was so.
+      desnitsky: ""
+      mt: ‫    וַיַּעַשׂ אֱלֹהִים אֶת־הָרָקִיעַ וַיַּבְדֵּל בֵּין הַמַּיִם אֲשֶׁר
+        מִתַּחַת לָרָקִיעַ וּבֵין הַמַּיִם אֲשֶׁר מֵעַל לָרָקִיעַ וַיְהִי־כֵן׃ ‬
+      bel_syomukha: І стварыў Бог цьвердзь, і аддзяліў ваду, якая пад цьвердзю, ад
+        вады, якая над цьвердзю. І сталася так.
+      romana: A facut Dumnezeu taria si a despartit Dumnezeu apele cele de sub tarie
+        de apele cele de deasupra tariei.
+      francais: Et Dieu fit l'étendue, et il sépara les eaux qui sont au-dessous de
+        l'étendue d'avec les eaux qui sont au-dessus de l'étendue. Et cela fut
+        ainsi.
+      italian: Dio fece il firmamento e separò le acque, che sono sotto il firmamento,
+        dalle acque, che son sopra il firmamento. E così avvenne.
+      old_georgian: და განყო ღმერთმან შორის წყლისა, რომელი იყო ქუეშე კერძო სამყაროჲსა
+        და შორის წყლისა ზედა კერძო სამყაროჲსა.
+      portuguese: E formou o Senhor Deus o homem do pó da terra, e soprou-lhe nas
+        narinas o fôlego da vida; e o homem tornouse alma vivente.
+      polish: "Uczyniwszy to sklepienie, Bóg oddzielił wody pod sklepieniem od wód
+        ponad\rsklepieniem; a gdy tak się stało,"
+      turkish: Ve öyle oldu. Tanrı gökkubbeyi yarattı. Kubbenin altındaki suları
+        üstündeki sulardan ayırdı.
+      nrt: Бог создал свод и отделил воду под сводом от воды над ним, и стало так.
+      Macarius: И создал Бог твердь; и отделил воды, которые под твердью, от вод,
+        которые над твердью; и стало так.
+      serbian: И створи Бог свод, и растави воду под сводом од воде над сводом; и би
+        тако.
+      bulgarian: И създаде Бог твърдта, и отдели водата, що беше под твърдта, от
+        водата над твърдта. Тъй и стана.
+      Filaret: "И создал Бог твердь; и отделил воды, которыя под твердию, от вод,
+        которыя над твердию: и стало так."
+      deutsch: Da machte Gott die Feste und schied das Wasser unter der Feste von dem
+        Wasser über der Feste. Und es geschah also.
+      ukr2: І зробив Бог твердь і відділив води, що під твердю, від вод, що над
+        твердю. Тож сталося так.
+      ukr3: І сотворив Бог твердь; і розлучив Бог воду, що була під твердею, із водою,
+        що була понад твердею.
+      old_rbo: "И создал Бог твердь; и отделил воды, которыя под твердью, от вод,
+        которыя над твердью: и стало так."
+      spbda: "И создал Бог твердь; и отделил воду, которая под твердию, от воды,
+        которая над твердию: и стало так."
+      gorsky-platonov: а сыны Израиля плодились, и множились и возрастали, и усилились
+        весьма, весьма, и наполнилась ими земля та.
+      sergievsky: И соделал Бог пространство, и положил раздел между водою, чтó под
+        пространством, и водою, чтó над пространством; и стало так.
+      Porfiriy: И сотворил Бог твердь, и разграничил Бог ту воду, что была под
+        твердию, и ту воду, что над твердию. И было так.
+      lev-khv: "И создал Бог твердь; и отделил воду, которая под твердию, от воды,
+        которая над твердию: и стало так."
+      czech: Ucinil klenbu a oddelil vody pod klenbou od vod nad klenbou. A stalo se
+        tak.
+      spanish: E hizo Dios el firmamento, separando aguas de aguas, las que estaban
+        debajo del firmamento de las que estaban sobre el firmamento. Y vio Dios
+        ser bueno.
+      vadim: И сделал Бог твердь и отделил воды под твердью, от вод над твердью; и
+        стало так.
+      mandelshtam: И соделал Бог пространство, и положил раздел между водою, чтó под
+        пространством, и водою, чтó над пространством; и стало так.
+      greek-lxx: καὶ ἐποίησεν ὁ Θεὸς τὸ στερέωμα καὶ διεχώρισεν ὁ Θεὸς ἀνὰ μέσον τοῦ
+        ὕδατος ὃ ἦν ὑποκάτω τοῦ στερεώματος καὶ ἀνὰ μέσον τοῦ ὕδατος τοῦ ἐπάνω
+        τοῦ στερεώματος
+      st_text: И создал Бог твердь, и отделил воду, которая под твердью, от воды,
+        которая над твердью. И стало так.
+  - id: 9666
+    number: 8
+    bookId: 1
+    text: "И назвал Бог твердь небом. [И увидел Бог, что это хорошо.] И был вечер, и
+      было утро: день второй."
+    chapter: 1
+    chapterId: 1
+    parallels:
+      - verseId: 31503
+        bookId: 22
+        bookCode: psaltir
+        chapter: 32
+        short: Пс:32:6
+      - verseId: 30332
+        bookId: 22
+        bookCode: psaltir
+        chapter: 103
+        short: Пс:103:2
+    translates:
+      kassian: ""
+      podstr: И назвал Бог твёрдость небо. И увидел Бог что хорошо. И сделался вечер и
+        сделалось утро, день второй.
+      csya: И нарече Бог твердь небо. И виде Бог, яко добро. И бысть вечер, и бысть
+        утро, день вторый.
+      averincev: ""
+      ungerov: "И назвал Бог твердь небом. И увидел Бог, что хорошо. И был вечер и
+        было утро: день вторый."
+      csya_old: И# нарече2 бг7ъ тве1рдь не1бо. И# ви1дэ бг7ъ, ћкw добро2. И# бы1сть
+        ве1черъ, и3 бы1сть ќтро, де1нь вторы1й.
+      sovr_rbo: и дал своду имя «небо». Настал вечер, настало утро — второй день.
+      latin: "Vocavitque Deus firmamentum, Caelum: et factum est vespere et mane, dies
+        secundus."
+      ukr: І назвав Бог твердь Небо. І був вечір, і був ранок день другий.
+      nkjv: And God called the firmament Heaven. So the evening and the morning were
+        the second day.
+      desnitsky: ""
+      mt: ‫    וַיִּקְרָא אֱלֹהִים לָרָקִיעַ שָׁמָיִם וַיְהִי־עֶרֶב וַיְהִי־בֹקֶר יוֹם
+        שֵׁנִי׃ פ ‬
+      bel_syomukha: "І назваў Бог цьвердзь небам. І быў вечар, і была раніца: дзень другі."
+      romana: "Taria a numit-o Dumnezeu cer. Si a vazut Dumnezeu ca este bine. Si a
+        fost seara si a fost dimineata: ziua a doua."
+      francais: "Dieu appela l'étendue ciel. Ainsi, il y eut un soir, et il y eut un
+        matin: ce fut le second jour."
+      italian: "Dio chiamò il firmamento cielo. E fu sera e fu mattina: secondo giorno."
+      old_georgian: და უწოდა ღმერთმან სამყაროსა ცაჲ და იხილა ღმერთმან, რამეთუ კეთილ.
+        და იქმნა მწუხრი და იქმნა განთიად დღე მეორე.
+      portuguese: Então plantou o Senhor Deus um jardim, da banda do oriente, no Éden;
+        e pôs ali o homem que tinha formado.
+      polish: "Bóg nazwał to sklepienie niebem. I tak upłynął wieczór i poranek -
+        dzień\rdrugi."
+      turkish: Kubbeye «Gök» adını verdi. Akşam oldu, sabah oldu ve ikinci gün oluştu.
+      nrt: Бог назвал свод небом. Был вечер, и было утро – день второй.
+      Macarius: "И назвал Бог твердь небом. И был вечер, и было утро: день вторый."
+      serbian: А свод назва Бог небо. И би вече и би јутро, дан други.
+      bulgarian: Твърдта Бог нарече небе. (И видя Бог, че това е добро.) Биде вечер,
+        биде утро - ден втори.
+      Filaret: "И назвал Бог твердь небом; (и увидел Бог, что это хорошо). И был вечер
+        и было утро: день вторый."
+      deutsch: Und Gott nannte die Feste Himmel. Da ward aus Abend und Morgen der
+        andere Tag.
+      ukr2: І назвав Бог твердь - небо. І був вечір і був ранок - день другий.
+      ukr3: І назве Бог твердь небо. І був вечір, і був ранок; день другий.
+      old_rbo: "И назвал Бог твердь небом; [и увидел Бог, что это хорошо]. И был
+        вечер, и было утро: день вторый."
+      spbda: "И назвал Бог твердь небом. И был вечер, и было утро: день вторый."
+      gorsky-platonov: И возстал над Египтом новый царь, который не знал Иосифа.
+      sergievsky: И назвал Бог пространство небом; и стал вечер и стало утро, — день
+        второй.
+      Porfiriy: И назвал Бог твердь небом. И видел Бог, как хороша (она). И был вечер,
+        и было утро, день вторый.
+      lev-khv: И назвал Бог твердь небом. И был вечер, и было утро день второй.
+      czech: Klenbu nazval Buh nebem. Byl vecer a bylo jitro, den druhy.
+      spanish: Llamó Dios al firmamento cielo, y hubo tarde y mañana, segundo día.
+      vadim: И назвал Бог твердь небом. И был вечер и было утро, — день вторый.
+      mandelshtam: И назвал Бог пространство небом; и стал вечер и стало утро, — день
+        второй.
+      greek-lxx: καὶ ἐκάλεσεν ὁ Θεὸς τὸ στερέωμα οὐρανόν καὶ εἶδεν ὁ Θεὸς ὅτι καλόν
+        καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί ἡμέρα δευτέρα
+      st_text: "И назвал Бог твердь небом. [И увидел Бог, что это хорошо.] И был
+        вечер, и было утро: день второй."
+  - id: 9667
+    number: 9
+    bookId: 1
+    text: "И сказал Бог: да соберется вода, которая под небом, в одно место, и да
+      явится суша. И стало так. [И собралась вода под небом в свои места, и
+      явилась суша.]"
+    chapter: 1
+    chapterId: 1
+    parallels:
+      - verseId: 31503
+        bookId: 22
+        bookCode: psaltir
+        chapter: 32
+        short: Пс:32:6
+      - verseId: 31504
+        bookId: 22
+        bookCode: psaltir
+        chapter: 32
+        short: Пс:32:7
+      - verseId: 30984
+        bookId: 22
+        bookCode: psaltir
+        chapter: 135
+        short: Пс:135:6
+      - verseId: 18846
+        bookId: 39
+        bookCode: kniga-proroka-iony
+        chapter: 1
+        short: Ион:1:9
+    translates:
+      kassian: ""
+      podstr: "И сказал Бог: [Да] соберётся вода под небом в собрание одно, и будет
+        сделана видима суша. И сделалось так. И была собрана вода под небом в
+        собрания их, и была сделана видима суша."
+      csya: "И рече Бог: да соберется вода, яже под небесем, в собрание едино, и да
+        явится суша. И бысть тако. И собрася вода, яже под небесем, в собрания
+        своя, и явися суша."
+      averincev: ""
+      ungerov: "И сказал Бог: да соберется вода, которая под небом, в одно собрание и
+        да явится суша. И было так: и собралась вода, которая под небом, в свои
+        собрания и явилась суша."
+      csya_old: "И# рече2 бг7ъ: да собере1тсz водA, ћже под8 небесе1мъ, въ собрaніе
+        є3ди1но, и3 да kви1тсz сyша. И# бы1сть тaкw. И# собрaсz водA, ћже под8
+        небесе1мъ, въ собр†ніz сво‰, и3 kви1сz сyша."
+      sovr_rbo: "И сказал Бог: «Пусть воды, что под небом, соберутся вместе и
+        покажется суша». И стало так. Воды, что под небом, собрались вместе — и
+        показалась суша."
+      latin: "Dixit vero Deus: Congregentur aquae, quae sub caelo sunt, in locum unum:
+        et appareat arida. Et factum est ita."
+      ukr: "І сказав Бог: Нехай збереться вода з-попід неба до місця одного, і нехай
+        суходіл стане видний. І сталося так."
+      nkjv: Then God said, "Let the waters under the heavens be gathered together into
+        one place, and let the dry land appear"; and it was so.
+      desnitsky: ""
+      mt: ‫    וַיֹּאמֶר אֱלֹהִים יִקָּווּ הַמַּיִם מִתַּחַת הַשָּׁמַיִם אֶל־מָקוֹם
+        אֶחָד וְתֵרָאֶה הַיַּבָּשָׁה וַיְהִי־כֵן׃ ‬
+      bel_syomukha: "І сказаў Бог: хай зьбярэцца вада, якая пад небам, у адно месца, і
+        хай явіцца суша. І сталася так."
+      romana: 'Si a zis Dumnezeu: "Sa se adune apele cele de sub cer la un loc si sa
+        se arate uscatul!" Si a fost asa. si s-au adunat apele cele de sub cer
+        la locurile lor si s-a aratat uscatul.'
+      francais: "Dieu dit: Que les eaux qui sont au-dessous du ciel se rassemblent en
+        un seul lieu, et que le sec paraisse. Et cela fut ainsi."
+      italian: "Dio disse: \"Le acque che sono sotto il cielo, si raccolgano in un
+        solo luogo e appaia l'asciutto\". E così avvenne."
+      old_georgian: და თქუა ღმერთმა შეკერბინ წყალი ქუეშე კერძო ცისა შესაკრებელსა
+        ერთსა, და გამოჩნდინ ჴმელი. და იქმნა ეგრეთ. და შეკრბა წყალი ქუეშე კერძო
+        ცისა შესაკრებელთა მათთა. და გამოჩნდა ჴმელი.
+      portuguese: "E o Senhor Deus fez brotar da terra toda qualidade de árvores
+        agradáveis à vista e boas para comida, bem como a\rárvore da vida no
+        meio do jardim, e a árvore do conhecimento do bem e do mal."
+      polish: "A potem Bóg rzekł: ”Niechaj zbiorą się wody spod nieba w jedno miejsce
+        i\rniech się ukaże powierzchnia sucha!” A gdy tak się stało,"
+      turkish: Tanrı, «Göğün altındaki sular bir yere toplansın, kuru toprak görünsün»
+        diye buyurdu ve öyle oldu.
+      nrt: "И сказал Бог: «Да соберутся вместе воды под небом, и да появится суша», и
+        стало так."
+      Macarius: "Потом Бог сказал: да соберутся воды под небесами в одно место, и да
+        явится суша; и стало так."
+      serbian: "Потом рече Бог: Нека се сабере вода што је под небом на једно мјесто,
+        и нека се покаже сухо. И би тако."
+      bulgarian: "И рече Бог: да се събере водата, що е под небето, на едно място, и
+        да се яви суша. Тъй и стана. (Водата под небето се събра на местата си,
+        и се яви суша.)"
+      Filaret: "Потом Бог сказал: да соберутся воды под небесами в одно место; и да
+        явится суша: и стало так; (и собрались воды под небесами в свои места, и
+        явилась суша.)"
+      deutsch: "Und Gott sprach: Es sammle sich das Wasser unter dem Himmel an
+        besondere Örter, daß man das Trockene sehe. Und es geschah also."
+      ukr2: "Тоді сказав Бог: Нехай зберуться води, що під небом, в одне місце і нехай
+        з'явиться суша. І так сталося."
+      ukr3: "І рече Бог: Зберись, водо, що попід небом, ув одно місце, і появися
+        суходоле. І сталось тако."
+      old_rbo: "Потом Бог сказал: да соберутся воды под небесами в одно место; и да
+        явится суша: и стало так. [И собрались воды под небесами в свои места, и
+        явилась суша.]"
+      spbda: "И сказал Бог: да соберется вода, которая под небом, в одно место; и да
+        явится суша: и стало так."
+      gorsky-platonov: "И сказал народу своему: вот народ сынов Израилевых больше и
+        сильнее нас."
+      sergievsky: "И Бог сказал: «Да соберется вода, чтó под небом, в одно место, и
+        пусть явится суша!» И стало так."
+      Porfiriy: "И сказал Бог: соберись вода, что под небом, в вместилище одно, и
+        явись суша. И было так. И собралась вода, что под небом, в вместилища
+        свои, и явилась суша."
+      lev-khv: "И сказал Бог: да соберется вода, <i>которая</i> под небом, в одно
+        место; и да явится суша: и стало так."
+      czech: "I rekl Buh: „Nahromadte se vody pod nebem na jedno misto a ukaz se
+        sous!“ A stalo se tak."
+      spanish: "Dijo luego: <<Júntense en un lugar las aguas de debajo de los cielos y
+        aparezca lo seco>>. Así se hizo,"
+      vadim: "И сказал Бог: «Соберитесь воды под небесами в одно место и покажись
+        суша». И стало так."
+      mandelshtam: "И Бог сказал: «Да соберется вода, чтó под небом, в одно место, и
+        пусть явится суша!» И стало так."
+      greek-lxx: καὶ εἶπεν ὁ Θεός συναχθήτω τὸ ὕδωρ τὸ ὑποκάτω τοῦ οὐρανοῦ εἰς
+        συναγωγὴν μίαν καὶ ὀφθήτω ἡ ξηρά καὶ ἐγένετο οὕτως καὶ συνήχθη τὸ ὕδωρ
+        τὸ ὑποκάτω τοῦ οὐρανοῦ εἰς τὰς συναγωγὰς αὐτῶν καὶ ὤφθη ἡ ξηρά
+      st_text: "И сказал Бог: да соберется вода, которая под небом, в одно место, и да
+        явится суша. И стало так. [И собралась вода под небом в свои места, и
+        явилась суша.]"
+  - id: 9668
+    number: 10
+    bookId: 1
+    text: И назвал Бог сушу землею, а собрание вод назвал морями. И увидел Бог, что
+      <i>это</i> хорошо.
+    chapter: 1
+    chapterId: 1
+    parallels:
+      - verseId: 30984
+        bookId: 22
+        bookCode: psaltir
+        chapter: 135
+        short: Пс:135:6
+    translates:
+      kassian: ""
+      podstr: И назвал Бог сушу земля и образования вод назвал моря. И увидел Бог что
+        хорошо.
+      csya: И нарече Бог сушу землю, и собрания вод нарече моря. И виде Бог, яко
+        добро.
+      averincev: ""
+      ungerov: И назвал Бог сушу землею, а собрания вод назвал морями. И увидел Бог,
+        что хорошо.
+      csya_old: И# нарече2 бг7ъ сyшу зе1млю, и3 собр†ніz во1дъ нарече2 морS. И# ви1дэ
+        бг7ъ, ћкw добро2.
+      sovr_rbo: Бог дал суше имя «земля», а собравшимся водам — имя «моря». И увидел
+        Бог, как это хорошо.
+      latin: Et vocavit Deus aridam Terram, congregationesque aquarum appellavit
+        Maria. Et vidit Deus quod esset bonum.
+      ukr: "І назвав Бог суходіл: Земля, а місце зібрання води назвав: Море. І Бог
+        побачив, що добре воно."
+      nkjv: And God called the dry land Earth, and the gathering together of the
+        waters He called Seas. And God saw that it was good.
+      desnitsky: ""
+      mt: ‫    וַיִּקְרָא אֱלֹהִים לַיַּבָּשָׁה אֶרֶץ וּלְמִקְוֵה הַמַּיִם קָרָא
+        יַמִּים וַיַּרְא אֱלֹהִים כִּי־טוֹב׃ ‬
+      bel_syomukha: І назваў Бог сушу зямлёю, а збор вады назваў морамі. І ўбачыў Бог,
+        што гэта добра.
+      romana: Uscatul l-a numit Dumnezeu pamant, iar adunarea apelor a numit-o mari.
+        Si a vazut Dumnezeu ca este bine.
+      francais: Dieu appela le sec terre, et il appela l'amas des eaux mers. Dieu vit
+        que cela était bon.
+      italian: Dio chiamò l'asciutto terra e la massa delle acque mare. E Dio vide che
+        era cosa buona.
+      old_georgian: და უწოდა ღმერთმან ჴმელსა ქუეყანაჲ და შესაკრებელსა წყალთასა უწოდა
+        ზღუებ. და იხილა ღმერთმან, რამეთუ კეთილ.
+      portuguese: E saía um rio do Éden para regar o jardim; e dali se dividia e se
+        tornava em quatro braços.
+      polish: "Bóg nazwał tę suchą powierzchnię ziemią, a zbiorowisko wód nazwał
+        morzem.\rBóg widząc, że były dobre,"
+      turkish: Kuru alana «Kara», toplanan sulara «Deniz» adını verdi. Tanrı bunun iyi
+        olduğunu gördü.
+      nrt: Бог назвал сушу землей, а собранные воды назвал морями и Бог увидел, что
+        это хорошо.
+      Macarius: И назвал Бог сушу землею, а собрание вод назвал морем; и увидел Бог,
+        что это хорошо.
+      serbian: И сухо назва Бог земља, а зборишта водена назва мора; и видје Бог да је
+        добро.
+      bulgarian: Сушата Бог нарече земя, а събраните води - морета. И видя Бог, че
+        това е добро.
+      Filaret: "Бог назвал сушу землею, а собрание вод назвал морем: и увидел Бог, что
+        это хорошо."
+      deutsch: Und Gott nannte das Trockene Erde, und die Sammlung der Wasser nannte
+        er Meer. Und Gott sah, daß es gut war.
+      ukr2: І назвав Бог сушу - земля, а збір вод назвав морями. І побачив Бог, що
+        воно добре.
+      ukr3: І назве Бог суходіл земля, а згромадженє вод назве море. І бачив Бог, що
+        добре.
+      old_rbo: "И назвал Бог сушу землею, а собрание вод назвал морем: и увидел Бог,
+        что это хорошо."
+      spbda: "И назвал Бог сушу землею, а собрание вод назвал морями: и увидел Бог,
+        что хорошо."
+      gorsky-platonov: Давайте, ухитримся против него, чтобы не размножался он;
+        случится война, и он присоединится к врагам нашим, будет воевать против
+        нас и выйдет из земли.
+      sergievsky: И назвал Бог сушу землею, а собрание вод назвал морями. И увидел
+        Бог, что хорошо.
+      Porfiriy: И назвал Бог сушу землею, а объемы вод назвал морями. И видел Бог, как
+        хорошо (это).
+      lev-khv: И назвал Бог сушу землею, а собрание вод назвал морями. И увидел Бог,
+        что хорошо.
+      czech: Sous nazval Buh zemi a nahromadene vody nazval mori. Videl, ze to je
+        dobre.
+      spanish: y se juntaron las aguas de debajo de los cielos en sus lugares y
+        apareció lo seco; y a lo seco llamó Dios tierra, y a la reunión de las
+        aguas, mares. Y vio Dios ser bueno.
+      vadim: И назвал Бог сушу землею, а собранье вод назвал он морями. И увидел Бог,
+        что хорошо,
+      mandelshtam: И назвал Бог сушу землею, а собрание вод назвал морями. И увидел
+        Бог, что хорошо.
+      greek-lxx: καὶ ἐκάλεσεν ὁ Θεὸς τὴν ξηρὰν γῆν καὶ τὰ συστήματα τῶν ὑδάτων
+        ἐκάλεσεν θαλάσσας καὶ εἶδεν ὁ Θεὸς ὅτι καλόν
+      st_text: И назвал Бог сушу землею, а собрание вод назвал морями. И увидел Бог,
+        что <i>это</i> хорошо.
+  - id: 9669
+    number: 11
+    bookId: 1
+    text: "И сказал Бог: да произрастит земля зелень, траву, сеющую семя [по роду и
+      по подобию <i>ее</i>, и] дерево плодовитое, приносящее по роду своему
+      плод, в котором семя его на земле. И стало так."
+    chapter: 1
+    chapterId: 1
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "И сказал Бог: [Да] произрастит земля растение травы, сеющее семя
+        согласно роду и по подобию, и дерево плодоносное творящее плод, которого
+        семя его в нём согласно роду на земле. И сделалось так."
+      csya: "И рече Бог: да прорастит земля былие травное, сеющее семя по роду и по
+        подобию, и древо плодовитое творящее плод, емуже семя его в нем, по роду
+        на земли. И бысть тако."
+      averincev: ""
+      ungerov: "И сказал Бог: да произрастит земля траву кормовую, сеющую семя, по
+        роду и по подобию, и плодовитое древо, приносящее плод, котораго семя в
+        нем, по роду на земле. И было так."
+      csya_old: "И# рече2 бг7ъ: да прорасти1тъ землS бы1ліе травно1е, сёющее сёмz по
+        ро1ду и3 по подо1бію, и3 дре1во плодови1тое творsщее пло1дъ, є3мyже сёмz
+        є3гw2 въ не1мъ, по ро1ду на земли2. И# бы1сть тaкw."
+      sovr_rbo: "И сказал Бог: «Пусть земля порастет растениями: травами, которые
+        будут давать семена, и деревьями разных видов, которые будут давать
+        плоды с семенами». И стало так."
+      latin: "Et ait: Germinet terra herbam virentem, et facientem semen, et lignum
+        pomiferum faciens fructum juxta genus suum, cujus semen in semetipso sit
+        super terram. Et factum est ita."
+      ukr: "І сказав Бог: Нехай земля вродить траву, ярину, що насіння вона розсіває,
+        дерево овочеве, що за родом своїм плід приносить, що в ньому насіння
+        його на землі. І сталося так."
+      nkjv: Then God said, "Let the earth bring forth grass, the herb that yields
+        seed, and the fruit tree that yields fruit according to its kind, whose
+        seed is in itself, on the earth"; and it was so.
+      desnitsky: ""
+      mt: ‫    וַיֹּאמֶר אֱלֹהִים תַּדְשֵׁא הָאָרֶץ דֶּשֶׁא עֵשֶׂב מַזְרִיעַ זֶרַע עֵץ
+        פְּרִי עֹשֶׂה פְּרִי לְמִינוֹ אֲשֶׁר זַרְעוֹ־בוֹ עַל־הָאָרֶץ
+        וַיְהִי־כֵן׃ ‬
+      bel_syomukha: "І сказаў Бог: хай уродзіць зямля зеляніну, траву, каб сеяла
+        насеньне, дрэва плоднае, каб радзіла паводле роду свайго плод, у якім
+        насеньне яго на зямлі. І сталася так."
+      romana: 'Apoi a zis Dumnezeu: "Sa dea pamantul din sine verdeata: iarba, cu
+        samanta intr-insa, dupa felul si asemanarea ei, si pomi roditori, care
+        sa dea rod cu samanta in sine, dupa fel, pe pamant!" Si a fost asa.'
+      francais: "Puis Dieu dit: Que la terre produise de la verdure, de l'herbe
+        portant de la semence, des arbres fruitiers donnant du fruit selon leur
+        espèce et ayant en eux leur semence sur la terre. Et cela fut ainsi."
+      italian: 'E Dio disse: "La terra produca germogli, erbe che producono seme e
+        alberi da frutto, che facciano sulla terra frutto con il seme, ciascuno
+        secondo la sua specie". E così avvenne:'
+      old_georgian: "და თქუა ღმერთმან: აღმოამორჩენ ქუეყანამან მწუანვილი თივისაჲ.
+        მთესველი თესლისაჲ, ნათესავობისაებრ და მსგავსებისა და ხე ნაყოფიერი
+        მყოფელი ნაყოფისა, რომლისა თესლი მისი მის თანა მსგავსებისაებრ ქუეყანასა
+        ზედა. და იქმნა ეგრეთ."
+      portuguese: "O nome do primeiro é Pisom: este é o que rodeia toda a terra de
+        Havilá, onde há ouro;"
+      polish: "rzekł: ”Niechaj ziemia wyda rośliny zielone: trawy dające nasiona,
+        drzewa\rowocowe rodzące na ziemi według swego gatunku owoce, w których
+        są nasiona”. I stało się tak."
+      turkish: Tanrı, «Yeryüzü bitkiler, tohum veren otlar, türüne göre tohumu
+        meyvesinde bulunan meyve ağaçları üretsin» diye buyurdu ve öyle oldu.
+      nrt: "«Да произведет земля растительность: растения с их семенами и различные
+        виды деревьев на земле, которые приносят плод с семенем внутри», –
+        сказал Бог, и стало так."
+      Macarius: "И сказал Бог: да произрастит земля зелень, траву, сеющую семя, дерева
+        плодовитые, приносящие по роду своему плод, в котором семя их на земле;
+        и стало так."
+      serbian: "Опет рече Бог: Нека пусти земља из себе траву, биље, што носи сјеме, и
+        дрво родно, које рађа род по својим врстама, у којем ће бити сјеме
+        његово на земљи. И би тако."
+      bulgarian: "И рече Бог: да произведе земята злак, трева, що дава семе (по свой
+        род и подобие), и плодно дърво, що дава според рода си на земята плод,
+        чието семе си е в него. Тъй и стана."
+      Filaret: "И сказал Бог, да произрастит земля зелень, траву сеющую семя, и дерева
+        плодовитыя, приносящия по роду своему плод, в котором семя их на земли:
+        и стало так."
+      deutsch: "Und Gott sprach: Es lasse die Erde aufgehen Gras und Kraut, das sich
+        besame, und fruchtbare Bäume, da ein jeglicher nach seiner Art Frucht
+        trage und habe seinen eigenen Samen bei sich selbst auf Erden. Und es
+        geschah also."
+      ukr2: "Бог сказав: Нехай земля зростить рослини: траву, що розсіває насіння, і
+        плодові дерева, що родять плоди з насінням, за їхнім родом на землі. І
+        так сталося."
+      ukr3: "І рече Бог: Нехай проростить земля биллє травне, зело з насїннями і
+        дерево плодовите, плодюще по свойму родові, щоб його насїннє було в
+        йому. І сталось тако."
+      old_rbo: "И сказал Бог: да произрастит земля зелень, траву сеющую семя, [по роду
+        и по подобию ея, и] дерева плодовитыя, приносящия по роду своему плод, в
+        котором семя их на земле: и стало так."
+      spbda: "И сказал Бог: да произрастит земля зелень, траву сеющую семя, дерево
+        плодовитое, приносящее по роду своему плод, котораго семя его в нем на
+        земле: и стало так."
+      gorsky-platonov: "И поставили над ним урочных начальников, чтобы давить его
+        тяжкими работами, и построил он Фараону города для запасов: Пифом и
+        Раамсес."
+      sergievsky: "И Бог сказал: «Да произрастит земля растения, траву, сеющую семя,
+        древо плодоносное, производящее плод по роду своему, в коем и семя его,
+        на земле!» И стало так."
+      Porfiriy: "И сказал Бог: произрасти земля зелие травное, сеющее семя по роду и
+        по виду, и дерево плодовитое, творящее плод, котораго семя в нем самом,
+        по роду и виду, на земле. И было так."
+      lev-khv: "И сказал Бог: да произрастит земля зелень, траву, сеющую семя, дерево
+        плодовитое, приносящее по роду своему плод, котораго семя его в нем на
+        земле: и стало так."
+      czech: "Buh take rekl: „Zazelenej se zeme zeleni: bylinami, ktere se rozmnozuji
+        semeny, a ovocnym stromovim rozmaniteho druhu, ktere na zemi ponese
+        plody se semeny!“ A stalo se tak."
+      spanish: "Dijo luego: <<Haga brotar la tierra hierba verde, hierba con semilla y
+        árboles frutales, cada uno con su fruto según su especie y con su
+        simiente, sobre la tierra>>. Y así fue."
+      vadim: "и сказал Бог: «Выведи земля траву, злак приносящий семя, и плодоносное
+        дерево делающее плод по роду своему, в котором семя его, на землю». И
+        стало так."
+      mandelshtam: "И Бог сказал: «Да произрастит земля растения, траву, сеющую семя,
+        древо плодоносное, производящее плод по роду своему, в коем и семя его,
+        на земле!» И стало так."
+      greek-lxx: καὶ εἶπεν ὁ Θεός βλαστησάτω ἡ γῆ βοτάνην χόρτου σπεῖρον σπέρμα κατὰ
+        γένος καὶ καθ᾿ ὁμοιότητα καὶ ξύλον κάρπιμον ποιοῦν καρπόν οὗ τὸ σπέρμα
+        αὐτοῦ ἐν αὐτῷ κατὰ γένος ἐπὶ τῆς γῆς καὶ ἐγένετο οὕτως
+      st_text: "И сказал Бог: да произрастит земля зелень, траву, сеющую семя [по роду
+        и по подобию <i>ее</i>, и] дерево плодовитое, приносящее по роду своему
+        плод, в котором семя его на земле. И стало так."
+  - id: 9670
+    number: 12
+    bookId: 1
+    text: И произвела земля зелень, траву, сеющую семя по роду [и по подобию] ее, и
+      дерево [плодовитое], приносящее плод, в котором семя его по роду его [на
+      земле]. И увидел Бог, что это хорошо.
+    chapter: 1
+    chapterId: 1
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И произвела земля растение травы, сеющее семя согласно роду и по
+        подобию, и дерево плодоносное творящее плод, которого семя его в нём
+        согласно роду на земле. И увидел Бог что хорошо.
+      csya: И изнесе земля былие травное, сеющее семя по роду и по подобию, и древо
+        плодовитое творящее плод, емуже семя его в нем, по роду на земли. И виде
+        Бог, яко добро.
+      averincev: ""
+      ungerov: И произвела земля траву кормовую, сеющую семя, по роду и по подобию, и
+        плодовитое древо, приносящее плод, коего семя в нем, по роду на земле. И
+        увидел Бог, что хорошо.
+      csya_old: И# и3знесе2 землS бы1ліе травно1е, сёющее сёмz по ро1ду и3 по
+        подо1бію, и3 дре1во плодови1тое творsщее пло1дъ, є3мyже сёмz є3гw2 въ
+        не1мъ, по ро1ду на земли2. И# ви1дэ бг7ъ, ћкw добро2.
+      sovr_rbo: "Земля породила растения: травы разных видов, дающие семена, и деревья
+        разных видов, приносящие плоды с семенами. И увидел Бог, как это
+        хорошо."
+      latin: Et protulit terra herbam virentem, et facientem semen juxta genus suum,
+        lignumque faciens fructum, et habens unumquodque sementem secundum
+        speciem suam. Et vidit Deus quod esset bonum.
+      ukr: І земля траву видала, ярину, що насіння розсіває за родом її, і дерево, що
+        приносить плід, що насіння його в нім за родом його. І Бог побачив, що
+        добре воно.
+      nkjv: And the earth brought forth grass, the herb that yields seed according to
+        its kind, and the tree that yields fruit, whose seed is in itself
+        according to its kind. And God saw that it was good.
+      desnitsky: ""
+      mt: ‫    וַתּוֹצֵא הָאָרֶץ דֶּשֶׁא עֵשֶׂב מַזְרִיעַ זֶרַע לְמִינֵהוּ וְעֵץ
+        עֹשֶׂה־פְּרִי‪‬‪‬ אֲשֶׁר זַרְעוֹ־בוֹ לְמִינֵהוּ וַיַּרְא אֱלֹהִים
+        כִּי־טוֹב׃ ‬
+      bel_syomukha: І ўтварыла зямля зеляніну, траву, што сеяла насеньне паводле роду
+        яе, і дрэва, што радзіла плод, у якім насеньне паводле роду ягонага. І
+        ўбачыў Бог, што гэта добра.
+      romana: "Pamantul a dat din sine verdeata: iarba, care face samanta, dupa felul
+        si dupa asemanarea ei, si pomi roditori, cu samanta, dupa fel, pe
+        pamant. Si a vazut Dumnezeu ca este bine."
+      francais: La terre produisit de la verdure, de l'herbe portant de la semence
+        selon son espèce, et des arbres donnant du fruit et ayant en eux leur
+        semence selon leur espèce. Dieu vit que cela était bon.
+      italian: la terra produsse germogli, erbe che producono seme, ciascuna secondo
+        la propria specie e alberi che fanno ciascuno frutto con il seme,
+        secondo la propria specie. Dio vide che era cosa buona.
+      old_georgian: და გამოიღო ქუეყანამან მწუანვილი თივისაჲ, მთესველი თესლსა
+        ნათესავობისაებრ და მსგავსებისაებრ და ხე ნაყოფიერი, მყოფი ნაყოფისაჲ,
+        რომლისა თესლი მისი მის თანა ნათესავობისაებრ ქუეყანასა ზედა. და იხილა
+        ღმერთმან, რამეთუ კეთილ.
+      portuguese: "e o ouro dessa terra é bom: ali há o bdélio, e a pedra de berilo."
+      polish: "Ziemia wydała rośliny zielone: trawę dającą nasienie według swego
+        gatunku i\rdrzewa rodzące owoce, w których było nasienie według ich
+        gatunków. A Bóg\rwidział, że były dobre."
+      turkish: Yeryüzü bitkiler, türüne göre tohum veren otlar, tohumu meyvesinde
+        bulunan meyve ağaçları yetiştirdi. Tanrı bunun iyi olduğunu gördü.
+      nrt: "Земля произвела растительность: разные виды растений, приносящих семя, и
+        все виды деревьев, приносящих плод с семенем внутри. И Бог увидел, что
+        это хорошо."
+      Macarius: И произвела земля зелень, сеющую семя по роду ее, и дерева, приносящие
+        плод, в котором семя их по роду их. И Бог увидел, что это хорошо.
+      serbian: И пусти земља из себе траву, биље, што носи сјеме по својим врстама, и
+        дрво, које рађа род, у којем је сјеме његово по њиховијем врстама. И
+        видје Бог да је добро.
+      bulgarian: И произведе земята злак, трева, що дава семе по свой род (и подобие),
+        и (плодно) дърво, що дава (на земята) плод, чието семе си е в него
+        според рода му. И видя Бог, че това е добро.
+      Filaret: "И произвела земля зелень, траву сеющую семя по роду ея, и дерева,
+        приносящия плод, в котором семя их по роду их: и Бог увидел, что это
+        хорошо."
+      deutsch: Und die Erde ließ aufgehen Gras und Kraut, das sich besamte, ein
+        jegliches nach seiner Art, und Bäume, die da Frucht trugen und ihren
+        eigenen Samen bei sich selbst hatten, ein jeglicher nach seiner Art. Und
+        Gott sah, daß es gut war.
+      ukr2: "І вивела земля з себе рослини: траву, що розсіває насіння за своїм родом,
+        і дерева, що родять плоди з насінням у них, за їхнім родом. І побачив
+        Бог, що воно добре."
+      ukr3: І вивела земля биллє травне, зело з насїннями і дерево плодовите, плодюще
+        по свойму родові, що його насїння було в йому по свойму родові. І бачив
+        Бог, що добре.
+      old_rbo: И произвела земля зелень, траву сеющую семя по роду [и по подобию] ея,
+        и дерева [плодовитыя] приносящия плод, в котором семя их по роду их [на
+        земле]. И увидел Бог, что это хорошо.
+      spbda: И произвела земля зелень, траву, сеющую семя по роду ея, и дерево,
+        приносящее плод, котораго семя его в нем по роду его. И увидел Бог, что
+        хорошо.
+      gorsky-platonov: "Но сколько давили его: столько же он возрастал и столько же
+        распространялся; и стало им страшно от сынов Израиля."
+      sergievsky: И произвела земля растения — траву, сеющую семя по роду своему, и
+        древо, производящее плод, в коем и семя его, по роду своему. И Бог
+        увидел, что хорошо.
+      Porfiriy: И произвела земля зелие травное по роду и по виду, и дерево
+        плодовитое, творящее плод, котораго семя в нем самом, по роду, на земле.
+      lev-khv: И произвела земля зелень, траву, сеющую семя по роду ея, и дерево,
+        приносящее плод, котораго семя его в нем по роду его. И увидел Бог, что
+        хорошо.
+      czech: "Zeme vydala zelen: rozmanite druhy bylin, ktere se rozmnozuji semeny, a
+        rozmanite druhy stromovi, ktere nese plody se semeny. Buh videl, ze to
+        je dobre."
+      spanish: Y produjo la tierra hierba verde, hierba con semilla, y árboles de
+        fruto, con semilla cada uno. Vio Dios ser bueno;
+      vadim: И вывела земля траву, злак приносящий семя и плодоносное дерево, делающее
+        плод, в котором семя его, по роду своему. И увидел Бог что хорошо.
+      mandelshtam: И произвела земля растения — траву, сеющую семя по роду своему, и
+        древо, производящее плод, в коем и семя его, по роду своему. И Бог
+        увидел, что хорошо.
+      greek-lxx: καὶ ἐξήνεγκεν ἡ γῆ βοτάνην χόρτου σπεῖρον σπέρμα κατὰ γένος καὶ καθ᾿
+        ὁμοιότητα καὶ ξύλον κάρπιμον ποιοῦν καρπόν οὗ τὸ σπέρμα αὐτοῦ ἐν αὐτῷ
+        κατὰ γένος ἐπὶ τῆς γῆς καὶ εἶδεν ὁ Θεὸς ὅτι καλόν
+      st_text: И произвела земля зелень, траву, сеющую семя по роду [и по подобию] ее,
+        и дерево [плодовитое], приносящее плод, в котором семя его по роду его
+        [на земле]. И увидел Бог, что это хорошо.
+  - id: 9671
+    number: 13
+    bookId: 1
+    text: "И был вечер, и было утро: день третий."
+    chapter: 1
+    chapterId: 1
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И сделался вечер и сделалось утро, день третий.
+      csya: И бысть вечер, и бысть утро, день третий.
+      averincev: ""
+      ungerov: "И был вечер, и было утро: день третий."
+      csya_old: И# бы1сть ве1черъ, и3 бы1сть ќтро, де1нь тре1тій.
+      sovr_rbo: Настал вечер, настало утро — третий день.
+      latin: Et factum est vespere et mane, dies tertius.
+      ukr: І був вечір, і був ранок, день третій.
+      nkjv: So the evening and the morning were the third day.
+      desnitsky: ""
+      mt: ‫    וַיְהִי־עֶרֶב וַיְהִי־בֹקֶר יוֹם שְׁלִישִׁי׃ פ ‬
+      bel_syomukha: "І быў вечар, і была раніца: дзень трэці."
+      romana: "Si a fost seara si a fost dimineata: ziua a treia."
+      francais: "Ainsi, il y eut un soir, et il y eut un matin: ce fut le troisième
+        jour."
+      italian: "E fu sera e fu mattina: terzo giorno."
+      old_georgian: და იქმნა მწუხრი და იქმნა განთიად დღე მესამე.
+      portuguese: "O nome do segundo rio é Giom: este é o que rodeia toda a terra de
+        Cuche."
+      polish: I tak upłynął wieczór i poranek - dzień trzeci.
+      turkish: Akşam oldu, sabah oldu ve üçüncü gün oluştu.
+      nrt: Был вечер, и было утро – день третий.
+      Macarius: "И был вечер, и было утро: день третий."
+      serbian: И би вече и би јутро, дан трећи.
+      bulgarian: Биде вечер, биде утро - ден трети.
+      Filaret: "И был вечер, и было утро: день третий."
+      deutsch: Da ward aus Abend und Morgen der dritte Tag.
+      ukr2: І був вечір і був ранок - день третій.
+      ukr3: І був вечір, і був ранок; день трейтїй.
+      old_rbo: "И был вечер, и было утро: день третий."
+      spbda: "И был вечер, и было утро: день третий."
+      gorsky-platonov: И египтяне с жестокостию принуждали сынов Израиля работат,
+      sergievsky: И стал вечер, и стало утро, — день третий.
+      Porfiriy: И видел Бог, как хорошо (это). И был вечер, и было утро, день третий.
+      lev-khv: "И был вечер, и было утро: день третий."
+      czech: Byl vecer a bylo jitro, den treti.
+      spanish: y hubo tarde y mañana, día tercero.
+      vadim: И был вечер и было утро, — день третий.
+      mandelshtam: И стал вечер, и стало утро, — день третий.
+      greek-lxx: καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί ἡμέρα τρίτη
+      st_text: "И был вечер, и было утро: день третий."
+  - id: 9672
+    number: 14
+    bookId: 1
+    text: "И сказал Бог: да будут светила на тверди небесной [для освещения земли и]
+      для отделения дня от ночи, и для знамений, и времен, и дней, и годов;"
+    chapter: 1
+    chapterId: 1
+    parallels:
+      - verseId: 30985
+        bookId: 22
+        bookCode: psaltir
+        chapter: 135
+        short: Пс:135:7
+      - verseId: 30986
+        bookId: 22
+        bookCode: psaltir
+        chapter: 135
+        short: Пс:135:8
+      - verseId: 30987
+        bookId: 22
+        bookCode: psaltir
+        chapter: 135
+        short: Пс:135:9
+    translates:
+      kassian: ""
+      podstr: "И сказал Бог: [Да] будут светила в твёрдости неба для освещения земли
+        [чтобы] разделять по середине день и по середине ночь и пусть будут в
+        знамения и в сроки и в дни и в годы"
+      csya: "И рече Бог: да будут светила на тверди небесней, освещати землю и
+        разлучати между днем и между нощию: и да будут в знамения и во времена,
+        и во дни и в лета,"
+      averincev: ""
+      ungerov: "И сказал Бог: да будут светила на тверди небесной, чтобы освещать
+        землю и разделять день от ночи, и да будут в знамения и в (определения)
+        времен, и дней, и лет."
+      csya_old: "И# рече2 бг7ъ: да бyдутъ свэти6ла на тве1рди небе1снэй, њсвэщaти
+        зе1млю и3 разлучaти междY дне1мъ и3 междY но1щію: и3 да бyдутъ въ
+        знaмєніz и3 во временA, и3 во дни6 и3 въ лBта,"
+      sovr_rbo: "И сказал Бог: «Пусть будут светила на своде небесном, чтобы отделять
+        день от ночи, указывать сроки, отмерять дни и года."
+      latin: "Dixit autem Deus: Fiant luminaria in firmamento caeli, et dividant diem
+        ac noctem, et sint in signa et tempora, et dies et annos:"
+      ukr: "І сказав Бог: Нехай будуть світила на тверді небесній для відділення дня
+        від ночі, і нехай вони стануть знаками, і часами умовленими, і днями, і
+        роками."
+      nkjv: Then God said, "Let there be lights in the firmament of the heavens to
+        divide the day from the night; and let them be for signs and seasons,
+        and for days and years;
+      desnitsky: ""
+      mt: ‫    וַיֹּאמֶר אֱלֹהִים יְהִי מְאֹרֹת בִּרְקִיעַ הַשָּׁמַיִם לְהַבְדִּיל
+        בֵּין הַיּוֹם וּבֵין הַלָּיְלָה וְהָיוּ לְאֹתֹת וּלְמוֹעֲדִים וּלְיָמִים
+        וְשָׁנִים׃ ‬
+      bel_syomukha: "І сказаў Бог: хай будуць сьвяцілы на цьвердзі нябеснай дзеля
+        аддзяленьня дня ад ночы, і на азнакі і поры, і дні і гады;"
+      romana: 'Si a zis Dumnezeu: "Sa fie luminatori pe taria cerului, ca sa lumineze
+        pe pamant, sa desparta ziua de noapte si sa fie semne ca sa deosebeasca
+        anotimpurile, zilele si anii,'
+      francais: "Dieu dit: Qu'il y ait des luminaires dans l'étendue du ciel, pour
+        séparer le jour d'avec la nuit; que ce soient des signes pour marquer
+        les époques, les jours et les années;"
+      italian: 'Dio disse: "Ci siano luci nel firmamento del cielo, per distinguere il
+        giorno dalla notte; servano da segni per le stagioni, per i giorni e per
+        gli anni'
+      old_georgian: და თქუა ღმერთმან იქმენინ მნათობნი სამყაროსა შინა ცისასა მნათობად
+        ქუეყანისა განსაყოფელად შორის დღისა და შორის ღამისა. და იყუნედ
+        სასწაულებად დღეებად და ჟამებად და წელიწადებად.
+      portuguese: "O nome do terceiro rio é Tigre: este é o que corre pelo oriente da
+        Assíria. E o quarto rio é o Eufrates."
+      polish: "A potem Bóg rzekł: ”Niechaj powstaną ciała niebieskie, świecące na
+        sklepieniu nieba, aby oddzielały dzień od nocy, aby wyznaczały pory
+        roku, dni i\rlata;"
+      turkish: ""
+      nrt: "И Бог сказал: «Да будут светила на небесном своде, чтобы отделять день от
+        ночи, и пусть они служат знаками, чтобы различать времена, дни, и годы,"
+      Macarius: "Потом Бог сказал: да будут светила на тверди небесной, для отделения
+        дня от ночи, и для знамений, и времен, и дней, и годов;"
+      serbian: "Потом рече Бог: Нека буду видјела на своду небеском, да дијеле дан и
+        ноћ, да буду знаци временима и данима и годинама;"
+      bulgarian: "И рече Бог: да бъдат светила на небесната твърд, (за да осветляват
+        земята и) да отделят ден от нощ и да бъдат знакове и за времена, и за
+        дни, и за години;"
+      Filaret: "Потом Бог сказал: да будут светила на тверди небесной, для отделения
+        дня от ночи, и знамений, и времен, и дней, и годов;"
+      deutsch: "Und Gott sprach: Es werden Lichter an der Feste des Himmels, die da
+        scheiden Tag und Nacht und geben Zeichen, Zeiten, Tage und Jahre"
+      ukr2: "Тоді сказав Бог: Нехай будуть світила на тверді небесній, щоб відділяти
+        день від ночі й нехай вони будуть знаками для пір (року), для днів і
+        років;"
+      ukr3: "І рече Бог: Постаньте сьвітила, на твердї небесній розлучати день із
+        ніччю, і бувайте знаменнями на ознаку впливочасу і днїв і років."
+      old_rbo: "Потом Бог сказал: да будут светила на тверди небесной, [для освещения
+        земли, и] для отделения дня от ночи, и для знамений, и времен, и дней, и
+        годов;"
+      spbda: "И сказал Бог: да будут светила на тверди небесной, для отделения дня от
+        ночи, и да будут они для знамений, и времен, и дней и годов."
+      gorsky-platonov: и делали жизнь их горькою от тяжкой работы над глиною и
+        кирпичами и от всей работы на поле, от всякой работы, которую работали
+        на них с жестокостию.
+      sergievsky: "И Бог сказал: «Да будут светила на пространстве небесном, дабы
+        стать разделом между днем и ночью; и пусть будут они знаками времен,
+        дней и лет;"
+      Porfiriy: "И сказал Бог: будьте светила на тверди неба для освещения земли и
+        разграничения между днем и между ночью, и будьте для знамений, и для
+        времен, и для дней, и для годов."
+      lev-khv: "И сказал Бог: да будут светила на тверди небесной, для отделения дня
+        от ночи, и да будут они для знамений, и времен, и дней, и годов;"
+      czech: "I rekl Buh: „Budte svetla na nebeske klenbe, aby oddelovala den od noci!
+        Budou na znameni casu, dnu a let."
+      spanish: "Dijo luego Dios: <<Haya en el firmamento de los cielos lumbreras para
+        separar el día de la noche y servir de señales a estaciones, días y
+        años;"
+      vadim: "И сказал Бог: «Будьте светила на тверди небес разделеньем между днем и
+        между ночью, и будьте знаменьями и временами и днями, и годами;"
+      mandelshtam: "И Бог сказал: «Да будут светила на пространстве небесном, дабы
+        стать разделом между днем и ночью; и пусть будут они знаками времен,
+        дней и лет;"
+      greek-lxx: καὶ εἶπεν ὁ Θεός γενηθήτωσαν φωστῆρες ἐν τῷ στερεώματι τοῦ οὐρανοῦ
+        εἰς φαῦσιν τῆς γῆς τοῦ διαχωρίζειν ἀνὰ μέσον τῆς ἡμέρας καὶ ἀνὰ μέσον
+        τῆς νυκτὸς καὶ ἔστωσαν εἰς σημεῖα καὶ εἰς καιροὺς καὶ εἰς ἡμέρας καὶ εἰς
+        ἐνιαυτοὺς
+      st_text: "И сказал Бог: да будут светила на тверди небесной [для освещения земли
+        и] для отделения дня от ночи, и для знамений, и времен, и дней, и
+        годов;"
+  - id: 9673
+    number: 15
+    bookId: 1
+    text: и да будут они светильниками на тверди небесной, чтобы светить на землю. И
+      стало так.
+    chapter: 1
+    chapterId: 1
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и пусть будут для освещения в твёрдости неба чтобы светить на землю. И
+        сделалось так.
+      csya: и да будут в просвещение на тверди небесней, яко светити по земли. И бысть
+        тако.
+      averincev: ""
+      ungerov: И да будут светом на тверди небесной, чтобы светить на землю. И было так.
+      csya_old: и3 да бyдутъ въ просвэще1ніе на тве1рди небе1снэй, ћкw свэти1ти по
+        земли2. И# бы1сть тaкw.
+      sovr_rbo: Пусть светят они с небесного свода и освещают землю». И стало так.
+      latin: ut luceant in firmamento caeli, et illuminent terram. Et factum est ita.
+      ukr: І нехай вони стануть на тверді небесній світилами, щоб світити над землею.
+        І сталося так.
+      nkjv: and let them be for lights in the firmament of the heavens to give light
+        on the earth"; and it was so.
+      desnitsky: ""
+      mt: ‫    וְהָיוּ לִמְאוֹרֹת בִּרְקִיעַ הַשָּׁמַיִם לְהָאִיר עַל־הָאָרֶץ
+        וַיְהִי־כֵן׃ ‬
+      bel_syomukha: і хай будуць яны сьвяцільнямі на цьвердзі нябеснай, каб сьвяціць
+        на зямлю. І сталася так.
+      romana: Si sa slujeasca drept luminatori pe taria cerului, ca sa lumineze
+        pamantul. Si a fost asa.
+      francais: et qu'ils servent de luminaires dans l'étendue du ciel, pour éclairer
+        la terre. Et cela fut ainsi.
+      italian: 'e servano da luci nel firmamento del cielo per illuminare la terra". E
+        così avvenne:'
+      old_georgian: და იყუნედ განმანათლებელად სამყაროსა ცისა, რათა ჩნდეს ქუეყანასა
+        ზედა. და იქმნა ეგრეთ.
+      portuguese: Tomou, pois, o Senhor Deus o homem, e o pôs no jardim do Éden para o
+        lavrar e guardar.
+      polish: "aby były ciałami jaśniejącymi na sklepieniu nieba i aby świeciły nad
+        ziemią”.\rI stało się tak."
+      turkish: "Tanrı şöyle buyurdu: «Gökkubbede gündüzü geceden ayıracak, yeryüzünü
+        aydınlatacak ışıklar olsun. Belirtileri, mevsimleri, günleri, yılları
+        göstersin.» Ve öyle oldu."
+      nrt: и пусть они будут светильниками на небесном своде, чтобы светить на землю».
+        И стало так.
+      Macarius: И да будут они светильниками на тверди небесной, чтобы светить на
+        землю; и стало так.
+      serbian: И нека свијетле на своду небеском, да обасјавају земљу. И би тако.
+      bulgarian: да бъдат те светила на небесната твърд, за да светят на земята. Тъй и
+        стана.
+      Filaret: "и да будут оне светильниками на тверди небесной, чтобы светить на
+        землю: и стало так."
+      deutsch: und seien Lichter an der Feste des Himmels, daß sie scheinen auf Erden.
+        Und es geschah also.
+      ukr2: нехай будуть світила на тверді небесній, щоб освітлювати землю. І так
+        сталося.
+      ukr3: І бувши сьвітилами на твердї небесній, сьвітїте по землї. І сталось тако.
+      old_rbo: "И да будут оне светильниками на тверди небесной, чтобы светить на
+        землю: и стало так."
+      spbda: "И да будут они светильниками на тверди небесной, чтобы светить на землю:
+        и стало так."
+      gorsky-platonov: И сказал царь египетский повивальным бабкам еврейским, из
+        которых одной имя Шифрá, а другой имя Пуá,
+      sergievsky: И пусть будут светилами в пространстве небесном, для освещения
+        земли!» И стало так.
+      Porfiriy: И будьте для сияния на тверди неба, чтобы светить на землю. И было так.
+      lev-khv: "И да будут они светильниками на тверди небесной, чтобы светить на
+        землю: и стало так."
+      czech: Ta svetla at jsou na nebeske klenbe, aby svitila nad zemi.“ A stalo se
+        tak.
+      spanish: y luzcan en el firmamento de los cielos, para alumbrar la tierra>>. Y
+        así fue.
+      vadim: и будьте светилами на тверди небесной и светите на землю». И стало так.
+      mandelshtam: И пусть будут светилами в пространстве небесном, для освещения
+        земли!» И стало так.
+      greek-lxx: καὶ ἔστωσαν εἰς φαῦσιν ἐν τῷ στερεώματι τοῦ οὐρανοῦ ὥστε φαίνειν ἐπὶ
+        τῆς γῆς καὶ ἐγένετο οὕτως
+      st_text: и да будут они светильниками на тверди небесной, чтобы светить на
+        землю. И стало так.
+  - id: 9674
+    number: 16
+    bookId: 1
+    text: "И создал Бог два светила великие: светило большее, для управления днем, и
+      светило меньшее, для управления ночью, и звезды;"
+    chapter: 1
+    chapterId: 1
+    parallels:
+      - verseId: 36733
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 4
+        short: Втор:4:19
+      - verseId: 30350
+        bookId: 22
+        bookCode: psaltir
+        chapter: 103
+        short: Пс:103:20
+      - verseId: 15854
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 31
+        short: Иер:31:35
+      - verseId: 15855
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 31
+        short: Иер:31:36
+    translates:
+      kassian: ""
+      podstr: И сделал Бог два светила большие, светило большее для начальства дня и
+        светило меньшее для начальства ночи, и звёзды.
+      csya: "И сотвори Бог два светила великая: светило великое в начала дне, и
+        светило меншее в начала нощи, и звезды:"
+      averincev: ""
+      ungerov: "И сотворил Бог два великия светила: светило большее для управления
+        днем, и светило меньшее для управления ночью, и звезды."
+      csya_old: "И# сотвори2 бг7ъ двA свэти6ла вели6каz: свэти1ло вели1кое въ нач†ла
+        дне2, и3 свэти1ло ме1ншее въ нач†ла но1щи, и3 ѕвёзды:"
+      sovr_rbo: Бог создал два больших светила (большее — чтобы оно управляло днями,
+        меньшее — чтобы оно управляло ночами) и звезды.
+      latin: "Fecitque Deus duo luminaria magna: luminare majus, ut praeesset diei: et
+        luminare minus, ut praeesset nocti: et stellas."
+      ukr: І вчинив Бог обидва світила великі, світило велике, щоб воно керувало днем,
+        і світило мале, щоб керувало ніччю, також зорі.
+      nkjv: "Then God made two great lights: the greater light to rule the day, and
+        the lesser light to rule the night. He made the stars also."
+      desnitsky: ""
+      mt: ‫    וַיַּעַשׂ אֱלֹהִים אֶת־שְׁנֵי הַמְּאֹרֹת הַגְּדֹלִים אֶת־הַמָּאוֹר
+        הַגָּדֹל לְמֶמְשֶׁלֶת הַיּוֹם וְאֶת־הַמָּאוֹר הַקָּטֹן לְמֶמְשֶׁלֶת
+        הַלַּיְלָה וְאֵת הַכּוֹכָבִים׃ ‬
+      bel_syomukha: "І стварыў Бог два сьвяцілы вялікія: сьвяціла большае, каб
+        кіраваць днём, і сьвяціла меншае, каб кіраваць ноччу, і зоркі;"
+      romana: "A facut Dumnezeu cei doi luminatori mari: luminatorul cel mai mare
+        pentru carmuirea zilei si luminatorul cel mai mic pentru carmuirea
+        noptii, si stelele."
+      francais: Dieu fit les deux grands luminaires, le plus grand luminaire pour
+        présider au jour, et le plus petit luminaire pour présider à la nuit; il
+        fit aussi les étoiles.
+      italian: Dio fece le due luci grandi, la luce maggiore per regolare il giorno e
+        la luce minore per regolare la notte, e le stelle.
+      old_georgian: "და შექმნა ღმერთმან ორნი მნათობნი დიდნი: მნათობი დიდი მთავრობად
+        დღისა. და მნათობი უმრწემესი - მთავრობად ღამისა. და ვარსკულავნი."
+      portuguese: "Ordenou o Senhor Deus ao homem, dizendo: De toda árvore do jardim
+        podes comer livremente;"
+      polish: "Bóg uczynił dwa duże ciała jaśniejące: większe, aby rządziło dniem, i
+        mniejsze, aby rządziło nocą, oraz gwiazdy."
+      turkish: Tanrı büyüğü gündüze, küçüğü geceye egemen olacak iki büyük ışığı ve
+        yıldızları yarattı.
+      nrt: Бог создал два великих светила – большое светило, чтобы управлять днем, и
+        малое светило, чтобы управлять ночью, а также Он создал звезды.
+      Macarius: "И создал Бог два светила великие: светило большее, для управления
+        днем, и светило меньшее, для управления ночью, и звезды;"
+      serbian: "И створи Бог два видјела велика: видјело веће да управља даном, и
+        видјело мање да управља ноћу, и звијезде."
+      bulgarian: И създаде Бог двете големи светила; по-голямото светило да управлява
+        деня, а по-малкото светило да управлява нощта, създаде и звездите;
+      Filaret: И создал Бог два светила великия; светило бóльшее для управления днем,
+        и светило меньшее для управления ночью, и звезды;
+      deutsch: "Und Gott machte zwei große Lichter: ein großes Licht, das den Tag
+        regiere, und ein kleines Licht, das die Nacht regiere, dazu auch
+        Sterne."
+      ukr2: "І зробив Бог два великі світила: світило більше - правити днем, а світило
+        менше - правити ніччю, і зорі."
+      ukr3: "І сотворив Бог два сьвітила великі: сьвітило велике правити днем, і
+        сьвітило менше правити ніччю, і зорі."
+      old_rbo: И создал Бог два светила великия; светило бóльшее, для управления днем,
+        и светило меньшее, для управления ночью, и звезды;
+      spbda: "И создал Бог два светила великия: светило большое, для управления днем,
+        и светило меньшее, для управления ночью, и звезды;"
+      gorsky-platonov: "сказал: когда повиваете у евреек, смотрите на утробу
+        раждающую; если это сын, умерщвляйте его; а если это дочь, пусть будет
+        жива."
+      sergievsky: "И Бог соделал два большия светила: бóльшее светило для управления
+        днем, а меньшее светило для управления ночью; да и — звезды."
+      Porfiriy: И сотворил Бог два светила великия, светило большое для направлений
+        дня, и светило меньшее для направлений ночи, и звезды.
+      lev-khv: И создал Бог два светила великия; светило большое, для управления днем,
+        и светило меньшее, для управления ночью, и звезды;
+      czech: "Ucinil tedy Buh dve velika svetla: vetsi svetlo, aby vladlo ve dne, a
+        mensi svetlo, aby vladlo v noci; ucinil i hvezdy."
+      spanish: Hizo Dios los dos grandes luminares, el mayor para presidir el día, y
+        el menor para presidir la noche, y las estrellas;
+      vadim: И сделал Бог два светила больших; светило большое для управления днем, и
+        светило малое для управления ночью, и звезды;
+      mandelshtam: "И Бог соделал два большия светила: бóльшее светило для управления
+        днем, а меньшее светило для управления ночью; да и — звезды."
+      greek-lxx: καὶ ἐποίησεν ὁ Θεὸς τοὺς δύο φωστῆρας τοὺς μεγάλους τὸν φωστῆρα τὸν
+        μέγαν εἰς ἀρχὰς τῆς ἡμέρας καὶ τὸν φωστῆρα τὸν ἐλάσσω εἰς ἀρχὰς τῆς
+        νυκτός καὶ τοὺς ἀστέρας
+      st_text: "И создал Бог два светила великие: светило большее, для управления
+        днем, и светило меньшее, для управления ночью, и звезды;"
+  - id: 9675
+    number: 17
+    bookId: 1
+    text: и поставил их Бог на тверди небесной, чтобы светить на землю,
+    chapter: 1
+    chapterId: 1
+    parallels:
+      - verseId: 34300
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 39
+        short: Сир:39:31
+    translates:
+      kassian: ""
+      podstr: И поместил их Бог в твёрдости неба чтобы светить на землю
+      csya: и положи я Бог на тверди небесней, яко светити на землю,
+      averincev: ""
+      ungerov: И поставил их Бог на тверди небесной, чтобы светить на землю,
+      csya_old: и3 положи2 | бг7ъ на тве1рди небе1снэй, ћкw свэти1ти на зе1млю,
+      sovr_rbo: Бог поместил их на своде небесном, чтобы они освещали землю,
+      latin: Et posuit eas in firmamento caeli, ut lucerent super terram,
+      ukr: І Бог умістив їх на тверді небесній, щоб світили вони над землею,
+      nkjv: God set them in the firmament of the heavens to give light on the earth,
+      desnitsky: ""
+      mt: ‫    וַיִּתֵּן אֹתָם אֱלֹהִים בִּרְקִיעַ הַשָּׁמָיִם לְהָאִיר עַל־הָאָרֶץ׃ ‬
+      bel_syomukha: і паставіў іх Бог на цьвердзі нябеснай, каб сьвяціць на зямлю,
+      romana: Si le-a pus Dumnezeu pe taria cerului, ca sa lumineze pamantul,
+      francais: Dieu les plaça dans l'étendue du ciel, pour éclairer la terre,
+      italian: Dio le pose nel firmamento del cielo per illuminare la terra
+      old_georgian: და დასხნა იგინი ღმერთმან სამყაროსა ცისასა, რათა ჩნდენ ქუეყანასა ზედა.
+      portuguese: "mas da árvore do conhecimento do bem e do mal, dessa não comerás;
+        porque no dia em que dela comeres,\rcertamente morrerás."
+      polish: I umieścił je Bóg na sklepieniu nieba, aby świeciły nad ziemią;
+      turkish: ""
+      nrt: Бог поместил их на небесном своде, чтобы они светили на землю,
+      Macarius: И поставил их Бог на тверди небесной, чтобы светили на землю,
+      serbian: И постави их Бог на своду небеском да обасјавају земљу.
+      bulgarian: и ги постави Бог на небесната твърд, за да светят на земята,
+      Filaret: и поставил их Бог на тверди небесной, чтобы светили на землю;
+      deutsch: Und Gott setzte sie an die Feste des Himmels, daß sie schienen auf die
+        Erde
+      ukr2: І примістив їх Бог на тверді небесній, щоб освітлювати землю,
+      ukr3: І поставив їх Бог на твердї небесній сьвітити на землю.
+      old_rbo: И поставил их Бог на тверди небесной, чтобы светили на землю,
+      spbda: И поставил их Бог на тверди небесной, чтобы светить на землю,
+      gorsky-platonov: Но повивальныя бабки боялись Бога, и не делали так, как говорил
+        им царь египетский и оставляли детей в живых.
+      sergievsky: И Бог поместил их так в пространстве небесном, чтобы освещали землю,
+      Porfiriy: И поставил их Бог на тверди неба светить на землю и направлять день и
+        ночь и разграничивать свет и тьму.
+      lev-khv: И поставил их Бог на тверди небесной, чтобы светить на землю,
+      czech: Buh je umistil na nebeskou klenbu, aby svitila nad zemi,
+      spanish: y los puso en el firmamento de los cielos para alumbrar la tierra,
+      vadim: и поставил их Бог на тверди небес светить на землю,
+      mandelshtam: И Бог поместил их так в пространстве небесном, чтобы освещали землю,
+      greek-lxx: καὶ ἔθετο αὐτοὺς ὁ Θεὸς ἐν τῷ στερεώματι τοῦ οὐρανοῦ ὥστε φαίνειν ἐπὶ
+        τῆς γῆς
+      st_text: и поставил их Бог на тверди небесной, чтобы светить на землю,
+  - id: 9676
+    number: 18
+    bookId: 1
+    text: и управлять днем и ночью, и отделять свет от тьмы. И увидел Бог, что
+      <i>это</i> хорошо.
+    chapter: 1
+    chapterId: 1
+    parallels:
+      - verseId: 30349
+        bookId: 22
+        bookCode: psaltir
+        chapter: 103
+        short: Пс:103:19
+      - verseId: 30350
+        bookId: 22
+        bookCode: psaltir
+        chapter: 103
+        short: Пс:103:20
+    translates:
+      kassian: ""
+      podstr: и управлять днём и ночью и разделять по середине [между] светом и по
+        середине [между] тьмой. И увидел Бог что хорошо.
+      csya: и владети днем и нощию, и разлучати между светом и между тмою. И виде Бог,
+        яко добро.
+      averincev: ""
+      ungerov: И управлять днем и ночью, и отделять свет от тьмы. И увидел Бог, что
+        хорошо.
+      csya_old: и3 владёти дне1мъ и3 но1щію, и3 разлучaти междY свётомъ и3 междY
+        тмо1ю. И# ви1дэ бг7ъ, ћкw добро2.
+      sovr_rbo: управляли днями и ночами и отделяли свет от тьмы. И увидел Бог, как
+        это хорошо.
+      latin: et praeessent diei ac nocti, et dividerent lucem ac tenebras. Et vidit
+        Deus quod esset bonum.
+      ukr: і щоб керували днем та ніччю, і щоб відділювали світло від темряви. І Бог
+        побачив, що це добре.
+      nkjv: and to rule over the day and over the night, and to divide the light from
+        the darkness. And God saw that it was good.
+      desnitsky: ""
+      mt: ‫    וְלִמְשֹׁל בַּיּוֹם וּבַלַּיְלָה וּלֲהַבְדִּיל בֵּין הָאוֹר וּבֵין
+        הַחֹשֶׁךְ וַיַּרְא אֱלֹהִים כִּי־טוֹב׃ ‬
+      bel_syomukha: і кіраваць днём і ноччу, і аддзяляць сьвятло ад цемры. І ўбачыў
+        Бог, што гэта добра.
+      romana: Sa carmuiasca ziua si noaptea si sa desparta lumina de intuneric. Si a
+        vazut Dumnezeu ca este bine.
+      francais: pour présider au jour et à la nuit, et pour séparer la lumière d'avec
+        les ténèbres. Dieu vit que cela était bon.
+      italian: e per regolare giorno e notte e per separare la luce dalle tenebre. E
+        Dio vide che era cosa buona.
+      old_georgian: და მთავრობდენ დღესა და ღამესა და განწვალებდენ შორის ნათლისა და
+        შორის ბნელისა. და იხილა ღმერთმან ნათელი, რამეთუ კეთილ.
+      portuguese: "Disse mais o Senhor Deus: Não é bom que o homem esteja só;
+        far-lhe-ei uma ajudadora que lhe seja idônea."
+      polish: "aby rządziły dniem i nocą i oddzielały światłość od ciemności. A
+        widział Bóg,\r
+
+        że były dobre."
+      turkish: "Yeryüzünü aydınlatmak, gündüze ve geceye egemen olmak, ışığı
+        karanlıktan ayırmak için onları\r
+
+        gökkubbeye yerleştirdi. Tanrı bunun iyi olduğunu gördü."
+      nrt: управляли днем и ночью и отделяли свет от тьмы. Бог увидел, что это хорошо.
+      Macarius: И чтобы управляли днем и ночью, и чтобы отделяли свет от тьмы. И Бог
+        увидел, что это хорошо.
+      serbian: И да управљају даном и ноћу, и да дијеле свјетлост од таме. И видје Бог
+        да је добро.
+      bulgarian: да управляват деня и нощта и да отделят светлина от тъмнина. И видя
+        Бог, че това е добро.
+      Filaret: "и чтобы управляли днем и ночью, и чтобы отделяли свет от тьмы: и Бог
+        увидел, что это хорошо."
+      deutsch: und den Tag und die Nacht regierten und schieden Licht und Finsternis.
+        Und Gott sah, daß es gut war.
+      ukr2: та правити днем і ніччю і відділяти світло від темряви. І побачив Бог, що
+        воно добре.
+      ukr3: І правити днем і ніччю, і розлучати сьвіт із темрявою. І бачив Бог, що
+        добре.
+      old_rbo: И чтобы управляли днем и ночью, и чтобы отделяли свет от тьмы. И увидел
+        Бог, что это хорошо.
+      spbda: И управлять днем и ночью, и отделять свет от тьмы. И увидел Бог, что
+        хорошо.
+      gorsky-platonov: "И призвал царь египетский повивальных бабок и сказал им: зачем
+        делаете такое дело, — оставляете детей в живых?"
+      sergievsky: И чтобы управляли днем и ночью, и служили разделом между светом и
+        мраком. И Бог увидел, что хорошо.
+      Porfiriy: И видел Бог, как это хорошо.
+      lev-khv: И управлять днем и ночью, и отделять свет от тьмы. И увидел Бог, что
+        хорошо.
+      czech: aby vladla ve dne a v noci a oddelovala svetlo od tmy. Videl, ze to je
+        dobre.
+      spanish: y presidir al día y a la noche, y separar la luz de las tinieblas. Y
+        vio Dios ser bueno,
+      vadim: и управлять днем и ночью, и делить между светом и мраком. И увидел Бог,
+        что хорошо.
+      mandelshtam: И чтобы управляли днем и ночью, и служили разделом между светом и
+        мраком. И Бог увидел, что хорошо.
+      st_text: и управлять днем и ночью, и отделять свет от тьмы. И увидел Бог, что
+        <i>это</i> хорошо.
+      new_text: ""
+      tex_rec: ""
+      peshitta: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      Agafangel: ""
+      zhukovsky: ""
+      khomyakov: ""
+      yungerov_mt: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+      greek-lxx: καὶ ἄρχειν τῆς ἡμέρας καὶ τῆς νυκτὸς καὶ διαχωρίζειν ἀνὰ μέσον τοῦ
+        φωτὸς καὶ ἀνὰ μέσον τοῦ σκότους καὶ εἶδεν ὁ Θεὸς ὅτι καλόν
+  - id: 9677
+    number: 19
+    bookId: 1
+    text: "И был вечер, и было утро: день четвёртый."
+    chapter: 1
+    chapterId: 1
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И сделался вечер и сделалось утро, день четвёртый.
+      csya: И бысть вечер, и бысть утро, день четвертый.
+      averincev: ""
+      ungerov: "И был вечер, и было утро: день четвертый,"
+      csya_old: И# бы1сть ве1черъ, и3 бы1сть ќтро, де1нь четве1ртый.
+      sovr_rbo: Настал вечер, настало утро — четвертый день.
+      latin: Et factum est vespere et mane, dies quartus.
+      ukr: І був вечір, і був ранок, день четвертий.
+      nkjv: So the evening and the morning were the fourth day.
+      desnitsky: ""
+      mt: ‫    וַיְהִי־עֶרֶב וַיְהִי־בֹקֶר יוֹם רְבִיעִי׃ פ ‬
+      bel_syomukha: "І быў вечар, і была раніца: дзень чацьвёрты."
+      romana: "Si a fost seara si a fost dimineata: ziua a patra."
+      francais: "Ainsi, il y eut un soir, et il y eut un matin: ce fut le quatrième
+        jour."
+      italian: "E fu sera e fu mattina: quarto giorno."
+      old_georgian: და იქმნა მწუხრი და იქმნა განთიად დღე იგი მეოთხე.
+      portuguese: "Da terra formou, pois, o Senhor Deus todos os animais o campo e
+        todas as aves do céu, e os trouxe ao homem,\rpara ver como lhes
+        chamaria; e tudo o que o homem chamou a todo ser vivente, isso foi o seu
+        nome."
+      polish: I tak upłynął wieczór i poranek - dzień czwarty.
+      turkish: Akşam oldu, sabah oldu ve dördüncü gün oluştu.
+      nrt: Был вечер, и было утро – день четвертый.
+      Macarius: "И был вечер, и было утро: день четвертый."
+      serbian: И би вече и би јутро, дан четврти.
+      bulgarian: Биде вечер, биде утро - ден четвърти.
+      Filaret: "И был вечер, и было утро: день четвертый."
+      deutsch: Da ward aus Abend und Morgen der vierte Tag.
+      ukr2: І був вечір і був ранок - день четвертий.
+      ukr3: І був вечір, і був ранок; день четвертий.
+      old_rbo: "И был вечер, и было утро: день четвертый."
+      spbda: "И был вечер, и было утро: день четвертый."
+      gorsky-platonov: "И сказали повивальныя бабки Фараону: еврейския женщины не то,
+        что егитетския; оне здоровы; родят прежде чем придет к ним бабка."
+      sergievsky: И стал вечер, и стало утро, — день четвертый.
+      Porfiriy: И был вечер, и было утро, день четвертый.
+      lev-khv: "И был вечер, и было утро: день четвертый."
+      czech: Byl vecer a bylo jitro, den ctvrty.
+      spanish: y hubo tarde y mañana, día cuarto.
+      vadim: И был вечер и было утро, — день четвертый.
+      mandelshtam: И стал вечер, и стало утро, — день четвертый.
+      greek-lxx: καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί ἡμέρα τετάρτη
+      st_text: "И был вечер, и было утро: день четвёртый."
+  - id: 9678
+    number: 20
+    bookId: 1
+    text: "И сказал Бог: да произведет вода пресмыкающихся, душу живую; и птицы да
+      полетят над землею, по тверди небесной. [И стало так.]"
+    chapter: 1
+    chapterId: 1
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "И сказал Бог: [Да] произведут воды пресмыкающихся души живущие и птиц
+        летающих над землёй по тверди неба. И сделалось так."
+      csya: "И рече Бог: да изведут воды гады душ живых, и птицы летающыя по земли, по
+        тверди небесней. И бысть тако."
+      averincev: ""
+      ungerov: "И сказал Бог: да изведут воды гадов с душами живыми и птиц, летающих
+        на земле, по тверди небесной. И было так."
+      csya_old: "И# рече2 бг7ъ: да и3зведyтъ во1ды гaды дyшъ живы1хъ, и3 пти6цы
+        летaющыz по земли2, по тве1рди небе1снэй. И# бы1сть тaкw."
+      sovr_rbo: "И сказал Бог: «Пусть вода кишит живыми существами. А над землей, по
+        своду небесному, пусть летают птицы»."
+      latin: "Dixit etiam Deus: Producant aquae reptile animae viventis, et volatile
+        super terram sub firmamento caeli."
+      ukr: "І сказав Бог: Нехай вода вироїть дрібні істоти, душу живу, і птаство, що
+        літає над землею під небесною твердю."
+      nkjv: Then God said, "Let the waters abound with an abundance of living
+        creatures, and let birds fly above the earth across the face of the
+        firmament of the heavens."
+      desnitsky: ""
+      mt: ‫    וַיֹּאמֶר אֱלֹהִים יִשְׁרְצוּ הַמַּיִם שֶׁרֶץ נֶפֶשׁ חַיָּה וְעוֹף
+        יְעוֹפֵף עַל־הָאָרֶץ עַל־פְּנֵי רְקִיעַ הַשָּׁמָיִם׃ ‬
+      bel_syomukha: "І сказаў Бог: хай утворыць вада паўзуноў, душу жывую; і птушкі
+        хай паляцяць над зямлёю, па цьвердзі нябеснай."
+      romana: 'Apoi a zis Dumnezeu: "Sa misune apele de vietati, fiinte cu viata in
+        ele si pasari sa zboare pe pamant, pe intinsul tariei cerului!" Si a
+        fost asa.'
+      francais: "Dieu dit: Que les eaux produisent en abondance des animaux vivants,
+        et que des oiseaux volent sur la terre vers l'étendue du ciel."
+      italian: 'Dio disse: "Le acque brulichino di esseri viventi e uc celli volino
+        sopra la terra, davanti al firmamento del cielo".'
+      old_georgian: "და თქვა ღმერთმან: გამოიღედ წყალთა ქუეწარმავალები სამშჳნველთა
+        ცხოველთაჲ და მფრინველნი ფრინვალენი ქუეყანასა ზედა ჩემისაებრ ცისა. და
+        იქმნა ეგრეთ."
+      portuguese: "Assim o homem deu nomes a todos os animais domésticos, às aves do
+        céu e a todos os animais do campo; mas\rpara o homem não se achava
+        ajudadora idônea."
+      polish: "Potem Bóg rzekł: ”Niechaj się zaroją wody od roju istot żywych, a
+        ptactwo\rniechaj lata nad ziemią, pod sklepieniem nieba!”"
+      turkish: Tanrı, «Sular canlı yaratıklarla dolup taşsın, yeryüzünün üzerinde,
+        gökte kuşlar uçuşsun» diye buyurdu.
+      nrt: "Бог сказал: «Да наполнится вода живностью, и да полетят над землей по
+        небосводу птицы»."
+      Macarius: "Потом Бог сказал: да породят воды пресмыкающихся, души живые; и птицы
+        да полетят над землею по тверди небесной."
+      serbian: "Потом рече Бог: Нека врве по води живе душе, и птице нека лете изнад
+        земље под свод небески."
+      bulgarian: "И рече Бог: да произведе водата влечуги, живи души; и птици да
+        полетят над земята по небесната твърд. (Тъй и стана.)"
+      Filaret: "Потом Бог сказал: да породят воды пресмыкающихся, души живыя; и птицы
+        да полетят по земле, под твердию небесною."
+      deutsch: "Und Gott sprach: Es errege sich das Wasser mit webenden und lebendigen
+        Tieren, und Gevögel fliege auf Erden unter der Feste des Himmels."
+      ukr2: "Тоді сказав Бог: Нехай закишать води живими створіннями й нехай птаство
+        літає над землею попід твердю небесною."
+      ukr3: "І рече Бог: Заграйте, води, душами живими, і полинь, птаство, над землею
+        попід небесною твердю."
+      old_rbo: "Потом Бог сказал: да породят воды пресмыкающияся животныя; и птицы да
+        полетят над землею, по тверди небесной: [и стало так]."
+      spbda: "И сказал Бог: да произведет вода пресмыкающихся — душу живую; и птицы да
+        полетят над землею пред лицем тверди небесной."
+      gorsky-platonov: И делал Бог добро повивальным бабкам; а народ возрастал и
+        весьма усиливался.
+      sergievsky: "И Бог сказал: «Да разведут воды расплод души живой, и птицу,
+        парящую над землею, по пространству небесному!»"
+      Porfiriy: "И сказал Бог: изведите воды пресмыкающихся, души живыя, и птиц
+        летающих на земле у тверди неба. И было так."
+      lev-khv: "И сказал Бог: да произведет вода пресмыкающихся, душу живую; и птицы
+        да полетят над землею, пред лицем тверди небесной."
+      czech: "I rekl Buh: „Hemzete se vody zivocisnou haveti a letavci letejte nad
+        zemi pod nebeskou klenbou!“"
+      spanish: "Dijo luego Dios: <<Hiervan de animales las aguas y vuelen sobre la
+        tierra aves bajo el firmamento de los cielos>>. Y así fue."
+      vadim: "И сказал Бог: «Разведите воды разводящуюся душу живую, и летучее полети
+        над землей перед твердью небес»."
+      mandelshtam: "И Бог сказал: «Да разведут воды расплод души живой, и птицу,
+        парящую над землею, по пространству небесному!»"
+      greek-lxx: καὶ εἶπεν ὁ Θεός ἐξαγαγέτω τὰ ὕδατα ἑρπετὰ ψυχῶν ζωσῶν καὶ πετεινὰ
+        πετόμενα ἐπὶ τῆς γῆς κατὰ τὸ στερέωμα τοῦ οὐρανοῦ καὶ ἐγένετο οὕτως
+      st_text: "И сказал Бог: да произведет вода пресмыкающихся, душу живую; и птицы
+        да полетят над землею, по тверди небесной. [И стало так.]"
+  - id: 9679
+    number: 21
+    bookId: 1
+    text: И сотворил Бог рыб больших и всякую душу животных пресмыкающихся, которых
+      произвела вода, по роду их, и всякую птицу пернатую по роду ее. И увидел
+      Бог, что это хорошо.
+    chapter: 1
+    chapterId: 1
+    parallels:
+      - verseId: 19770
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 40
+        short: Иов:40:20
+      - verseId: 30355
+        bookId: 22
+        bookCode: psaltir
+        chapter: 103
+        short: Пс:103:25
+    translates:
+      kassian: ""
+      podstr: И сделал Бог китов великих и всякую душу животных пресмыкающихся,
+        которых произвели воды согласно родам их, и всякую птицу пернатую
+        согласно роду. И увидел Бог что хорошие.
+      csya: И сотвори Бог киты великия, и всяку душу животных гадов, яже изведоша воды
+        по родом их, и всяку птицу пернату по роду. И виде Бог, яко добра.
+      averincev: ""
+      ungerov: И сотворил Бог великих китов и всякую душу живых гадов, которых извели
+        воды, по родам их, и всякую птицу пернатую по роду. И увидел Бог, что
+        хорошо.
+      csya_old: И# сотвори2 бг7ъ ки1ты вели6кіz, и3 всsку дyшу живо1тныхъ гадHвъ, ±же
+        и3зведо1ша во1ды по родHмъ и4хъ, и3 всsку пти1цу пернaту по ро1ду. И#
+        ви1дэ бг7ъ, ћкw дwбрA.
+      sovr_rbo: И Бог сотворил огромных чудищ морских, и разные виды живых существ,
+        которые снуют и кишат в воде, и разные виды крылатых птиц. И увидел Бог,
+        как это хорошо,
+      latin: Creavitque Deus cete grandia, et omnem animam viventem atque motabilem,
+        quam produxerant aquae in species suas, et omne volatile secundum genus
+        suum. Et vidit Deus quod esset bonum.
+      ukr: І створив Бог риби великі, і всяку душу живу плазуючу, що її вода вироїла
+        за їх родом, і всяку пташину крилату за родом її. І Бог побачив, що
+        добре воно.
+      nkjv: So God created great sea creatures and every living thing that moves, with
+        which the waters abounded, according to their kind, and every winged
+        bird according to its kind. And God saw that it was good.
+      desnitsky: ""
+      mt: ‫    וַיִּבְרָא אֱלֹהִים אֶת־הַתַּנִּינִם הַגְּדֹלִים וְאֵת כָּל־נֶפֶשׁ
+        הַחַיָּה הָרֹמֶשֶׂת אֲשֶׁר שָׁרְצוּ הַמַּיִם לְמִינֵהֶם וְאֵת כָּל־עוֹף
+        כָּנָף לְמִינֵהוּ וַיַּרְא אֱלֹהִים כִּי־טוֹב׃ ‬
+      bel_syomukha: І стварыў Бог рыб вялікіх і ўсякую душу жывёл паўзуноў, якіх
+        утварыла вада, паводле роду іх, і ўсякую птушку крылатую паводле роду
+        яе. І ўбачыў Бог, што гэта добра.
+      romana: A facut Dumnezeu animalele cele mari din ape si toate fiintele vii, care
+        misuna in ape, unde ele se prasesc dupa felul lor, si toate pasarile
+        inaripate dupa felul lor. Si a vazut Dumnezeu ca este bine.
+      francais: Dieu créa les grands poissons et tous les animaux vivants qui se
+        meuvent, et que les eaux produisirent en abondance selon leur espèce; il
+        créa aussi tout oiseau ailé selon son espèce. Dieu vit que cela était
+        bon.
+      italian: Dio creò i grandi mostri marini e tutti gli esseri viventi che guizzano
+        e brulicano nelle acque, secondo la loro specie, e tutti gli uccelli
+        alati secondo la loro specie. E Dio vide che era cosa buona.
+      old_georgian: და შექმნნა ღმერთმან ვეშაპნი დიდნი და ყოველი სული ცხოველთა
+        ქუეწარმავალთაჲ, გამოიღეს წყალთა ნათესაობისაებრ მათისა ყოველი მფრინველი
+        მფრინვალენი ნათესაობისაებრ. და იხილა ღმერთმან, რამეთუ კეთილ.
+      portuguese: "Então o Senhor Deus fez cair um sono pesado sobre o homem, e este
+        adormeceu; tomou-lhe, então, uma das\rcostelas, e fechou a carne em seu
+        lugar;"
+      polish: "Tak stworzył Bóg wielkie potwory morskie i wszelkiego rodzaju
+        pływające\ristoty żywe, którymi zaroiły się wody, oraz wszelkie ptactwo
+        skrzydlate różnego rodzaju. Bóg widząc, że były dobre,"
+      turkish: Tanrı büyük deniz canavarlarını, sularda kaynaşan canlıları ve uçan
+        çeşitli varlıkları yarattı. Bunun iyi olduğunu gördü.
+      nrt: Бог создал огромных морских чудищ, разные виды движущейся живности, кишащей
+        в воде, и разные виды крылатых птиц. И увидел Бог, что это хорошо.
+      Macarius: "И сотворил Бог большие морские чудовища и всякие животные, живые
+        пресмыкающиеся, которые породили воды, по роду их, и всех птиц пернатых,
+        по роду их: и Бог увидел, что это хорошо."
+      serbian: И створи Бог китове велике и све живе душе што се мичу, што проврвјеше
+        по води по врстама својим, и све птице крилате по врстама њиховијем. И
+        видје Бог да је добро;
+      bulgarian: И сътвори Бог големи риби и всякакъв вид животни-влечуги, които
+        произведе водата, според рода им, и всякакви пернати птици според рода
+        им. И видя Бог, че това е добро.
+      Filaret: "И сотворил Бог рыб великих, и все животныя живыя пресмыкающияся,
+        которыя породили воды по роду их, и всех птиц пернатых по роду их: и Бог
+        увидел, что это хорошо."
+      deutsch: Und Gott schuf große Walfische und allerlei Getier, daß da lebt und
+        webt, davon das Wasser sich erregte, ein jegliches nach seiner Art, und
+        allerlei gefiedertes Gevögel, ein jegliches nach seiner Art. Und Gott
+        sah, daß es gut war.
+      ukr2: І сотворив Бог великих морських потвор і всілякі живі створіння, що
+        повзають та кишать у воді, за їхнім родом, і всіляке птаство крилате за
+        його родом. І побачив Бог, що воно добре;
+      ukr3: І сотворив Бог чудища великі і усяку душу живу повзючу, що заграла ними
+        вода, по родові їх, і всяке птаство пернате. І бачив Бог, що добре.
+      old_rbo: "И сотворил Бог большия морския чудовища и все животныя пресмыкающияся,
+        которыя породили воды, по роду их, и всех птиц пернатых по роду их: и
+        увидел Бог, что это хорошо."
+      spbda: "И сотворил Бог рыбы большия и всякую душу животных пресмыкающихся,
+        которыя произвела вода, по роду их, и всякую птицу пернатую по роду ея:
+        и увидел Бог, что хорошо."
+      gorsky-platonov: За то, что бабки боялис Бога, Он устроил им домы.
+      sergievsky: И сотворил Бог змеев больших и всякую душу живую, движущуюся, чтó
+        воды развели по родам их, и всякую птицу крылатую, по роду ея. И Бог
+        увидел, что хорошо.
+      Porfiriy: И сотворил Бог чудовища великия и всякую душу животных,
+        пресмыкающихся, которых извели воды, по родам их, и всякую птицу
+        пернатую, по роду. И видел Бог, как хорошо (это).
+      lev-khv: И сотворил Бог рыб больших, и всякую душу живую пресмыкающихся, которых
+        произвела вода, по роду их, и всякую птицу пернатую по роду ея. И увидел
+        Бог, что хорошо.
+      czech: I stvoril Buh velike netvory a rozmanite druhy vselijakych hbitych
+        zivocichu, jimiz se zahemzily vody, stvoril i rozmanite druhy
+        vselijakych okridlenych letavcu. Videl, ze to je dobre.
+      spanish: Y creó Dios los grandes monstruos del agua y todos los animales que
+        bullen en ella, según su especie, y todas las aves aladas, según su
+        especie. Y vio Dios ser bueno,
+      vadim: И сотворил Бог чудовищ больших и всякую душу живую ползучую, которую
+        распложают воды, по роду их и всякую летучую птицу. И увидел Бог, что
+        хорошо,
+      mandelshtam: И сотворил Бог змеев больших и всякую душу живую, движущуюся, чтó
+        воды развели по родам их, и всякую птицу крылатую, по роду ея. И Бог
+        увидел, что хорошо.
+      greek-lxx: καὶ ἐποίησεν ὁ Θεὸς τὰ κήτη τὰ μεγάλα καὶ πᾶσαν ψυχὴν ζῴων ἑρπετῶν ἃ
+        ἐξήγαγεν τὰ ὕδατα κατὰ γένη αὐτῶν καὶ πᾶν πετεινὸν πτερωτὸν κατὰ γένος
+        καὶ εἶδεν ὁ Θεὸς ὅτι καλά
+      st_text: И сотворил Бог рыб больших и всякую душу животных пресмыкающихся,
+        которых произвела вода, по роду их, и всякую птицу пернатую по роду ее.
+        И увидел Бог, что это хорошо.
+  - id: 9680
+    number: 22
+    bookId: 1
+    text: "И благословил их Бог, говоря: плодитесь и размножайтесь, и наполняйте
+      воды в морях, и птицы да размножаются на земле."
+    chapter: 1
+    chapterId: 1
+    parallels:
+      - verseId: 11157
+        bookId: 1
+        bookCode: bytie
+        chapter: 8
+        short: Быт:8:17
+    translates:
+      kassian: ""
+      podstr: "И благословил их Бог говорящий: Плодитесь и размножайтесь и наполните
+        воды в морях, и птицы [да] умножатся на земле."
+      csya: "И благослови я Бог, глаголя: раститеся и множитеся, и наполните воды, яже
+        в морях, и птицы да умножатся на земли."
+      averincev: ""
+      ungerov: "И благословил их Бог, говоря: возрастайте и размножайтесь, и
+        наполняйте воды, что в морях, и птицы да размножатся на земле."
+      csya_old: "И# блгcви2 | бг7ъ, гlz: расти1тесz и3 мно1житесz, и3 напо1лните
+        во1ды, ±же въ морsхъ, и3 пти6цы да ўмно1жатсz на земли2."
+      sovr_rbo: "и благословил их: «Будьте плодовиты и многочисленны, заселяйте воды
+        морей. А на земле пусть будет много птиц»."
+      latin: "Benedixitque eis, dicens: Crescite, et multiplicamini, et replete aquas
+        maris: avesque multiplicentur super terram."
+      ukr: "І поблагословив їх Бог, кажучи: Плодіться й розмножуйтеся, і наповнюйте
+        воду в морях, а птаство нехай розмножується на землі!"
+      nkjv: And God blessed them, saying, "Be fruitful and multiply, and fill the
+        waters in the seas, and let birds multiply on the earth."
+      desnitsky: ""
+      mt: ‫    וַיְבָרֶךְ אֹתָם אֱלֹהִים לֵאמֹר פְּרוּ וּרְבוּ וּמִלְאוּ אֶת־הַמַּיִם
+        בַּיַּמִּים וְהָעוֹף יִרֶב בָּאָרֶץ׃ ‬
+      bel_syomukha: "І дабраславіў іх Бог, кажучы: пладзецеся і множцеся, і напаўняйце
+        воды ў морах, і птушкі хай множацца на зямлі."
+      romana: 'Si le-a binecuvantat Dumnezeu si a zis: "Prasiti-va si va inmultiti si
+        umpleti apele marilor si pasarile sa se inmulteasca pe pamant!'
+      francais: "Dieu les bénit, en disant: Soyez féconds, multipliez, et remplissez
+        les eaux des mers; et que les oiseaux multiplient sur la terre."
+      italian: 'Dio li benedisse: "Siate fecondi e moltiplicatevi e riempite le acque
+        dei mari; gli uccelli si moltiplichino sulla terra".'
+      old_georgian: "და აკურთხნა იგინი ღმერთმან მეტყუელმან: აღორძნდით და განმრავლდით.
+        და აღავსენით წყალნი ზღჳსანი. და მფრინველნი განმრავლდედ ქუეყანასა ზედა."
+      portuguese: e da costela que o senhor Deus lhe tomara, formou a mulher e a
+        trouxe ao homem.
+      polish: "pobłogosławił je tymi słowami: ”Bądźcie płodne i mnóżcie się, abyście
+        zapełniały wody morskie, a ptactwo niechaj się rozmnaża na ziemi”."
+      turkish: Tanrı, «Verimli olun, çoğalın, denizleri doldurun, yeryüzünde kuşlar
+        çoğalsın» diyerek onları kutsadı.
+      nrt: "Бог благословил их и сказал: «Плодитесь и размножайтесь, наполняйте воды в
+        морях, и пусть птицы множатся на земле»."
+      Macarius: "И благословил их Бог, говоря: плодитесь и размножайтесь, и наполняйте
+        воды в морях, и птицы да размножаются на земле."
+      serbian: "И благослови их Бог говорећи: Рађајте се и множите се, и напуните воду
+        по морима, и птице нека се множе на земљи."
+      bulgarian: "След това Бог ги благослови и рече: плодете се и множете се и
+        пълнете водите в моретата, и птиците да се множат на земята."
+      Filaret: "И благословил их Бог, говоря: плодитесь и размножайтесь и наполняйте
+        воды в морях, и птицы да размножаются на земле."
+      deutsch: "Und Gott segnete sie und sprach: Seid fruchtbar und mehrt euch und
+        erfüllt das Wasser im Meer; und das Gefieder mehre sich auf Erden."
+      ukr2: "і благословив їх Бог, кажучи: Будьте плідні і множтеся та наповняйте воду
+        в морях, і птаство нехай множиться на землі."
+      ukr3: "І благословив їх Бог, і глаголе: Плодїтеся і множтеся і сповняйте воду в
+        морях, і птаство нехай множиться на землї."
+      old_rbo: "И благословил их Бог, говоря: плодитесь и размножайтесь и наполняйте
+        воды в морях, и птицы да размножаются на земле."
+      spbda: "И благословил их Бог, говоря: плодитесь и размножайтесь и наполняйте
+        воды в морях, и птицы да размножаются на земле."
+      gorsky-platonov: "И повелел Фараон всему народу своему, говоря: всякаго сына
+        новорожденнаго в реку бросайте; а всякую дочь оставляйте в живых."
+      sergievsky: "И Бог благословил их, сказав: «Плодитесь, и размножайтесь, и
+        наполняйте воду в морях; а птица пусть умножается на земле!»"
+      Porfiriy: "И благословил их Бог, говоря: плодитесь и размножайтесь, и наполняйте
+        воды в морях, а птицы размножайтесь на земле."
+      lev-khv: "И благословил их Бог, говоря: плодитесь и размножайтесь и наполняйте
+        воды в морях, и птицы да размножаются на земле."
+      czech: "A Buh jim pozehnal: „Plodte a mnozte se a naplnte vody v morich. Letavci
+        necht se rozmnozi na zemi.“"
+      spanish: "y los bendijo diciendo: <<Procread y multiplicaos, y henchid las aguas
+        del mar, y multiplíquense sobre la tierra las aves>>."
+      vadim: "и благословил их Бог, говоря: «Плодитесь и множьтесь, и наполняйте воды
+        в морях, и летучия пусть размножаются на земле."
+      mandelshtam: "И Бог благословил их, сказав: «Плодитесь, и размножайтесь, и
+        наполняйте воду в морях; а птица пусть умножается на земле!»"
+      greek-lxx: καὶ ηὐλόγησεν αὐτὰ ὁ Θεὸς λέγων αὐξάνεσθε καὶ πληθύνεσθε καὶ
+        πληρώσατε τὰ ὕδατα ἐν ταῖς θαλάσσαις καὶ τὰ πετεινὰ πληθυνέσθωσαν ἐπὶ
+        τῆς γῆς
+      st_text: "И благословил их Бог, говоря: плодитесь и размножайтесь, и наполняйте
+        воды в морях, и птицы да размножаются на земле."
+  - id: 9681
+    number: 23
+    bookId: 1
+    text: "И был вечер, и было утро: день пятый."
+    chapter: 1
+    chapterId: 1
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И сделался вечер и сделалось утро, день пятый.
+      csya: И бысть вечер, и бысть утро, день пятый.
+      averincev: ""
+      ungerov: "И был вечер, и было утро: день пятый."
+      csya_old: И# бы1сть ве1черъ, и3 бы1сть ќтро, де1нь пsтый.
+      sovr_rbo: Настал вечер, настало утро — пятый день.
+      latin: Et factum est vespere et mane, dies quintus.
+      ukr: І був вечір, і був ранок, день п'ятий.
+      nkjv: So the evening and the morning were the fifth day.
+      desnitsky: ""
+      mt: ‫    וַיְהִי־עֶרֶב וַיְהִי־בֹקֶר יוֹם חֲמִישִׁי׃ פ ‬
+      bel_syomukha: "І быў вечар, і была раніца: дзень пяты."
+      romana: "Si a fost seara si a fost dimineata: ziua a cincea."
+      francais: "Ainsi, il y eut un soir, et il y eut un matin: ce fut le cinquième
+        jour."
+      italian: "E fu sera e fu mattina: quinto giorno."
+      old_georgian: და იქმნა მწუხრი და იქმნა განთიად დღე მეხუთე.
+      portuguese: "Então disse o homem: Esta é agora osso dos meus ossos, e carne da
+        minha carne; ela será chamada varoa,\rporquanto do varão foi tomada."
+      polish: I tak upłynął wieczór i poranek - dzień piąty.
+      turkish: Akşam oldu, sabah oldu ve beşinci gün oluştu.
+      nrt: Был вечер, и было утро – день пятый.
+      Macarius: "И был вечер, и было утро: день пятый."
+      serbian: И би вече и би јутро, дан пети.
+      bulgarian: Биде вечер, биде утро - ден пети.
+      Filaret: "И был вечер, и было утро: день пятый."
+      deutsch: Da ward aus Abend und Morgen der fünfte Tag.
+      ukr2: І був вечір і був ранок - день п'ятий.
+      ukr3: І був вечір, і був ранок; день пятий.
+      old_rbo: "И был вечер, и было утро: день пятый."
+      spbda: "И был вечер, и было утро: день пятый."
+      sergievsky: И стал вечер, и стало утро, — день пятый.
+      Porfiriy: И был вечер, и было утро, день пятый.
+      lev-khv: "И был вечер, и было утро: день пятый."
+      czech: Byl vecer a bylo jitro, den paty.
+      spanish: Y hubo tarde y mañana, día quinto.
+      vadim: И был вечер и было утро, — день пятый.
+      mandelshtam: И стал вечер, и стало утро, — день пятый.
+      greek-lxx: καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί ἡμέρα πέμπτη
+      st_text: "И был вечер, и было утро: день пятый."
+  - id: 9682
+    number: 24
+    bookId: 1
+    text: "И сказал Бог: да произведет земля душу живую по роду ее, скотов, и гадов,
+      и зверей земных по роду их. И стало так."
+    chapter: 1
+    chapterId: 1
+    parallels:
+      - verseId: 18966
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 12
+        short: Иов:12:17
+      - verseId: 35885
+        bookId: 32
+        bookCode: kniga-proroka-varuha
+        chapter: 3
+        short: Вар:3:32
+    translates:
+      kassian: ""
+      podstr: "И сказал Бог: [Да] произведёт земля душу живущую согласно роду [их],
+        четвероногих и пресмыкающихся и зверей земли согласно роду [их]. И
+        сделалось так."
+      csya: "И рече Бог: да изведет земля душу живу по роду, четвероногая и гады, и
+        звери земли по роду. И бысть тако."
+      averincev: ""
+      ungerov: "И сказал Бог: да изведет земля душу живую по роду: четвероногих и
+        пресмыкающихся, и зверей земли по роду. И было так."
+      csya_old: "И# рече2 бг7ъ: да и3зведе1тъ землS дyшу жи1ву по ро1ду, четверонHгаz
+        и3 гaды, и3 ѕвBри земли2 по ро1ду. И# бы1сть тaкw."
+      sovr_rbo: "И сказал Бог: «Пусть земля породит разные виды живых существ: скот,
+        мелкую живность и разные виды зверей». И стало так."
+      latin: "Dixit quoque Deus: Producat terra animam viventem in genere suo,
+        jumenta, et reptilia, et bestias terrae secundum species suas. Factumque
+        est ita."
+      ukr: "І сказав Бог: Нехай видасть земля живу душу за родом її, худобу й
+        плазуюче, і земну звірину за родом її. І сталося так."
+      nkjv: 'Then God said, "Let the earth bring forth the living creature according
+        to its kind: cattle and creeping thing and beast of the earth, each
+        according to its kind"; and it was so.'
+      desnitsky: ""
+      mt: ‫    וַיֹּאמֶר אֱלֹהִים תּוֹצֵא הָאָרֶץ נֶפֶשׁ חַיָּה לְמִינָהּ בְּהֵמָה
+        וָרֶמֶשׂ וְחַיְתוֹ־אֶרֶץ לְמִינָהּ וַיְהִי־כֵן׃ ‬
+      bel_syomukha: "І сказаў Бог: хай утворыць зямля душу жывую паводле роду яе,
+        быдла, і гадаў, і зьвяроў зямных паводле роду іх. І сталася так."
+      romana: 'Apoi a zis Dumnezeu: "Sa scoata pamantul fiinte vii, dupa felul lor:
+        animale, taratoare si fiare salbatice dupa felul lor". Si a fost asa.'
+      francais: "Dieu dit: Que la terre produise des animaux vivants selon leur
+        espèce, du bétail, des reptiles et des animaux terrestres, selon leur
+        espèce. Et cela fut ainsi."
+      italian: 'Dio disse: "La terra produca esseri viventi secondo la loro specie:
+        bestiame, rettili e bestie selvatiche secondo la loro specie". E così
+        avvenne:'
+      old_georgian: "და თქვა ღმერთმან: გამოიღედ ქუეყანამან სამშჳნველი ცხოველი
+        ნათესაობისაებრ ოთხფერჴთა და ქუეწარმავალთა და მჴეცთა ქუეყანისათა
+        ნათესაობითი. და იქმნა ეგრე."
+      portuguese: Portanto deixará o homem a seu pai e a sua mãe, e unir-se-á à sua
+        mulher, e serão uma só carne.
+      polish: "Potem Bóg rzekł: ”Niechaj ziemia wyda istoty żywe różnego rodzaju:
+        bydło,\rzwierzęta pełzające i dzikie zwierzęta według ich rodzajów!” I
+        stało się tak."
+      turkish: Tanrı, «Yeryüzü çeşit çeşit canlı yaratık, evcil ve yabanıl hayvan,
+        sürüngen türetsin» diye buyurdu. Ve öyle oldu.
+      nrt: "И сказал Бог: «Да произведет земля разные виды живности: скот,
+        пресмыкающихся и диких зверей», и стало так."
+      Macarius: "Потом Бог сказал: да произведет земля животные живые по роду их,
+        скот, и гадов, и зверей земных по роду их; и стало так."
+      serbian: "Потом рече Бог: Нека земља пусти из себе душе живе по врстама
+        њиховијем, стоку и ситне животиње и звијери земаљске по врстама
+        њиховијем. И би тако."
+      bulgarian: "И рече Бог: да произведе земята живи души според рода им, добитък и
+        гадини, и земни зверове според рода им. Тъй и стана."
+      Filaret: "Потом Бог сказал: да произведет земля животныя живыя по роду их, скот,
+        и гадов, и зверей земных по роду их: и стало так."
+      deutsch: "Und Gott sprach: Die Erde bringe hervor lebendige Tiere, ein jegliches
+        nach seiner Art: Vieh, Gewürm und Tiere auf Erden, ein jegliches nach
+        seiner Art. Und es geschah also."
+      ukr2: "Тоді сказав Бог: Нехай земля виведе з себе живі створіння за їхнім родом:
+        скотину, плазунів і диких звірів за їхнім родом. І сталося так."
+      ukr3: "І рече Бог: Виведи, земле, душу живу по роду їх, четверонога і повзюче і
+        дикого зьвіра, по родові їх. І сталось так."
+      old_rbo: "Потом Бог сказал: да произведет земля животныя по роду их, скот, и
+        гадов, и зверей земных по роду их: и стало так."
+      spbda: "И сказал Бог: да произведет земля душу живую по роду ея, скотов, и
+        гадов, и зверей земных по роду их: и стало так."
+      sergievsky: "И Бог сказал: «Да производит земля душу живую, по роду ея, скот, и
+        пресмыкающееся, и зверей земли, по роду их!» И стало так."
+      Porfiriy: "И сказал Бог: изведи земля душу живую, по роду, четвероногих, и
+        пресмыкающихся, и зверей земных, по роду. И было так."
+      lev-khv: "И сказал Бог: да произведет земля душу живую по роду ея, скотов, и
+        гадов, и зверей земных по роду их: и стало так."
+      czech: "I rekl Buh: „Vydej zeme rozmanite druhy zivocichu, dobytek, plazy a
+        rozmanite druhy zemske zvere!“ A stalo se tak."
+      spanish: "Dijo luego Dios: <<Brote la tierra seres animados según su especie,
+        ganados, reptiles, bestias de la tierra según su especie>>. Y así fue."
+      vadim: "И сказал Бог: «Произведи земля душу живую, по роду их: скот и ползучее,
+        и животное земное, по роду их». И стало так."
+      mandelshtam: "И Бог сказал: «Да производит земля душу живую, по роду ея, скот, и
+        пресмыкающееся, и зверей земли, по роду их!» И стало так."
+      greek-lxx: καὶ εἶπεν ὁ Θεός ἐξαγαγέτω ἡ γῆ ψυχὴν ζῶσαν κατὰ γένος τετράποδα καὶ
+        ἑρπετὰ καὶ θηρία τῆς γῆς κατὰ γένος καὶ ἐγένετο οὕτως
+      st_text: "И сказал Бог: да произведет земля душу живую по роду ее, скотов, и
+        гадов, и зверей земных по роду их. И стало так."
+  - id: 9683
+    number: 25
+    bookId: 1
+    text: И создал Бог зверей земных по роду их, и скот по роду его, и всех гадов
+      земных по роду их. И увидел Бог, что <i>это</i> хорошо.
+    chapter: 1
+    chapterId: 1
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И сделал Бог зверей земли согласно роду [их] и скот согласно роду [их] и
+        всех пресмыкающихся земли согласно роду их. И увидел Бог что хорошие.
+      csya: И сотвори Бог звери земли по роду, и скоты по роду их, и вся гады земли по
+        роду их. И виде Бог, яко добра.
+      averincev: ""
+      ungerov: И сотворил Бог зверей земли по роду и скотов по роду их и всех
+        пресмыкающихся земли, по роду их. И увидел Бог, что хорошо.
+      csya_old: И# сотвори2 бг7ъ ѕвBри земли2 по ро1ду, и3 скоты2 по ро1ду и4хъ, и3
+        вс‰ гaды земли2 по ро1ду и4хъ. И# ви1дэ бг7ъ, ћкw дwбрA.
+      sovr_rbo: Бог создал разные виды зверей, скота и всякой живности, которая снует
+        по земле. И увидел Бог, как это хорошо.
+      latin: Et fecit Deus bestias terrae juxta species suas, et jumenta, et omne
+        reptile terrae in genere suo. Et vidit Deus quod esset bonum,
+      ukr: І вчинив Бог земну звірину за родом її, і худобу за родом її, і все земне
+        плазуюче за родом його. І бачив Бог, що добре воно.
+      nkjv: And God made the beast of the earth according to its kind, cattle
+        according to its kind, and everything that creeps on the earth according
+        to its kind. And God saw that it was good.
+      desnitsky: ""
+      mt: ‫    וַיַּעַשׂ אֱלֹהִים אֶת־חַיַּת הָאָרֶץ לְמִינָהּ וְאֶת־הַבְּהֵמָה
+        לְמִינָהּ וְאֵת כָּל־רֶמֶשׂ הָאֲדָמָה לְמִינֵהוּ וַיַּרְא אֱלֹהִים
+        כִּי־טוֹב׃ ‬
+      bel_syomukha: І стварыў Бог жывёлу зямных паводле роду іх, і быдла паводле роду
+        яго, і ўсіх гадаў зямных паводле роду іх. І ўбачыў Бог, што гэта добра.
+      romana: A facut Dumnezeu fiarele salbatice dupa felul lor, si animalele
+        domestice dupa felul lor, si toate taratoarele pamantului dupa felul
+        lor. Si a vazut Dumnezeu ca este bine.
+      francais: Dieu fit les animaux de la terre selon leur espèce, le bétail selon
+        son espèce, et tous les reptiles de la terre selon leur espèce. Dieu vit
+        que cela était bon.
+      italian: Dio fece le bestie sel — vatiche secondo la loro specie e il bestiame
+        secondo la propria specie e tutti i rettili del suolo secondo la loro
+        specie. E Dio vide che era cosa buona.
+      old_georgian: და შექმნა ღმერთმან მჴეცნი ნათესაობითნი და საცხოვარნი
+        ნათესაობისაებრ მათისა და ყოველი ქუეწარმავალი ქუეყანისა ნათესაობისაებრ
+        მათისა და იხილა ღმერთმან, რამეთუ კეთილ.
+      portuguese: E ambos estavam nus, o homem e sua mulher; e não se envergonhavam.
+      polish: Bóg uczynił różne rodzaje dzikich zwierząt, bydła i wszelkich zwierząt
+        pełzających po ziemi. I widział Bóg, że były dobre.
+      turkish: Tanrı çeşit çeşit yabanıl hayvan, evcil hayvan, sürüngen yarattı. Bunun
+        iyi olduğunu gördü.
+      nrt: Бог создал разные виды диких зверей, и скота, и все виды пресмыкающихся. И
+        увидел Он, что это хорошо.
+      Macarius: "И создал Бог зверей земных по роду их, и скот по роду его, и всех
+        гадов земных по роду их: и увидел Бог, что это хорошо."
+      serbian: И створи Бог звијери земаљске по врстама њиховијем, и стоку по врстама
+        њезинијем, и све ситне животиње на земљи по врстама њиховијем. И видје
+        Бог да је добро.
+      bulgarian: И създаде Бог земните зверове според рода им, и добитъка според рода
+        му, и всички земни гадове според рода им. И видя Бог, че това е добро.
+      Filaret: "И создал Бог зверей земных по роду их, и скот по роду его, и всех
+        гадов земных по роду их: и увидел Бог, что это хорошо."
+      deutsch: Und Gott machte die Tiere auf Erden, ein jegliches nach seiner Art, und
+        das Vieh nach seiner Art, und allerlei Gewürm auf Erden nach seiner Art.
+        Und Gott sah, daß es gut war.
+      ukr2: І сотворив Бог диких звірів за їхнім родом, скотину за родом її, і всіх
+        земних плазунів за їхнім родом. І побачив Бог, що воно добре.
+      ukr3: І сотворив Бог зьвірє земне по родові їх, і скотину по родові й усе
+        повзюче по родові їх. І бачив Бог, що добре.
+      old_rbo: "И создал Бог зверей земных по роду их, и скот по роду его, и всех
+        гадов земных по роду их: и увидел Бог, что это хорошо."
+      spbda: "И создал Бог зверей земных по роду их и скот по роду его, и всех гадов
+        земных по роду их: и увидел Бог, что хорошо."
+      sergievsky: И соделал Бог зверей земных, по роду их, скот, по роду его, и все
+        пресмыкающееся земли, по его роду. И Бог увидел, что хорошо.
+      Porfiriy: И сотворил Бог зверей земных по роду, и скотов по роду, и всяких
+        пресмыкающихся земных, по роду их. И видел Бог, как хорошо (это).
+      lev-khv: И создал Бог зверей земных по роду их, и скот по роду его, и всех гадов
+        земных по роду их. И увидел Бог, что хорошо.
+      czech: Buh ucinil rozmanite druhy zemske zvere i rozmanite druhy dobytka a
+        rozmanite druhy vselijakych zemeplazu. Videl, ze to je dobre.
+      spanish: Hizo Dios todas las bestias de la tierra según su especie, los ganados
+        según su especie y todos los reptiles de la tierra según su especie. Y
+        vio Dios ser bueno.
+      vadim: И сделал Бог животное земное, по роду их, и скот, по роду их, и всякое
+        ползучее по земле, по роду их. И увидел Бог что хорошо.
+      mandelshtam: И соделал Бог зверей земных, по роду их, скот, по роду его, и все
+        пресмыкающееся земли, по его роду. И Бог увидел, что хорошо.
+      greek-lxx: καὶ ἐποίησεν ὁ Θεὸς τὰ θηρία τῆς γῆς κατὰ γένος καὶ τὰ κτήνη κατὰ
+        γένος καὶ πάντα τὰ ἑρπετὰ τῆς γῆς κατὰ γένος αὐτῶν καὶ εἶδεν ὁ Θεὸς ὅτι
+        καλά
+      st_text: И создал Бог зверей земных по роду их, и скот по роду его, и всех гадов
+        земных по роду их. И увидел Бог, что <i>это</i> хорошо.
+  - id: 9684
+    number: 26
+    bookId: 1
+    text: "И сказал Бог: сотворим человека по образу Нашему [и] по подобию Нашему, и
+      да владычествуют они над рыбами морскими, и над птицами небесными, [и над
+      зверями,] и над скотом, и над всею землею, и над всеми гадами,
+      пресмыкающимися по земле."
+    chapter: 1
+    chapterId: 1
+    parallels:
+      - verseId: 11037
+        bookId: 1
+        bookCode: bytie
+        chapter: 5
+        short: Быт:5:1
+      - verseId: 11038
+        bookId: 1
+        bookCode: bytie
+        chapter: 5
+        short: Быт:5:2
+      - verseId: 29322
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 9
+        short: Прем:9:2
+      - verseId: 28916
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 10
+        short: Прем:10:1
+      - verseId: 1356
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 11
+        short: 1 Кор:11:7
+    translates:
+      kassian: ""
+      podstr: "И сказал Бог: Давайте сделаем человека по образу нашему и по подобию, и
+        [да] управляет рыбами моря и птицами неба и скотом и всем земли и всеми
+        пресмыкающимися ползающими на земле."
+      csya: "И рече Бог: сотворим человека по образу нашему и по подобию, и да
+        обладает рыбами морскими, и птицами небесными, (и зверми) и скотами, и
+        всею землею, и всеми гады пресмыкающимися по земли."
+      averincev: ""
+      ungerov: "И сказал Бог: сотворим человека по образу Нашему и по подобию, и да
+        обладает он рыбами морскими и птицами небесными (и зверями) и скотом и
+        всею землею, и всеми гадами, пресмыкающимися по земле."
+      csya_old: "И# рече2 бг7ъ: сотвори1мъ человёка по њ1бразу нaшему и3 по подо1бію,
+        и3 да њбладaетъ ры1бами морски1ми, и3 пти1цами небе1сными, (и3 ѕвэрьми2)
+        и3 скотaми, и3 все1ю земле1ю, и3 всёми г†ды пресмыкaющимисz по земли2."
+      sovr_rbo: "И сказал Бог: «Создадим человека — Наш образ и Наше подобие — чтобы
+        он господствовал над рыбами морскими, и над птицами небесными, и над
+        скотом, и над всею землею, и над всею живностью, которая снует по
+        земле»."
+      latin: "et ait: Faciamus hominem ad imaginem et similitudinem nostram: et
+        praesit piscibus maris, et volatilibus caeli, et bestiis, universaeque
+        terrae, omnique reptili, quod movetur in terra."
+      ukr: "І сказав Бог: Створімо людину за образом Нашим, за подобою Нашою, і хай
+        панують над морською рибою, і над птаством небесним, і над худобою, і
+        над усею землею, і над усім плазуючим, що плазує по землі."
+      nkjv: Then God said, "Let Us make man in Our image, according to Our likeness;
+        let them have dominion over the fish of the sea, over the birds of the
+        air, and over the cattle, over all the earth and over every creeping
+        thing that creeps on the earth."
+      desnitsky: ""
+      mt: ‫    וַיֹּאמֶר אֱלֹהִים נַעֲשֶׂה אָדָם בְּצַלְמֵנוּ כִּדְמוּתֵנוּ וְיִרְדּוּ
+        בִדְגַת הַיָּם וּבְעוֹף הַשָּׁמַיִם וּבַבְּהֵמָה וּבְכָל־הָאָרֶץ
+        וּבְכָל־הָרֶמֶשׂ הָרֹמֵשׂ עַל־הָאָרֶץ׃ ‬
+      bel_syomukha: "І сказаў Бог: створым чалавека паводле вобразу Нашага, паводле
+        падабенства Нашага; і хай валадараць яны над рыбамі марскімі, і над
+        птушкамі нябеснымі, і над быдлам, і над усёю зямлёю, і над усімі гадамі,
+        што поўзаюць па зямлі."
+      romana: 'Si a zis Dumnezeu: "Sa facem om dupa chipul si dupa asemanarea Noastra,
+        ca sa stapaneasca pestii marii, pasarile cerului, animalele domestice,
+        toate vietatile ce se tarasc pe pamant si tot pamantul!"'
+      francais: "Puis Dieu dit: Faisons l'homme à notre image, selon notre
+        ressemblance, et qu'il domine sur les poissons de la mer, sur les
+        oiseaux du ciel, sur le bétail, sur toute la terre, et sur tous les
+        reptiles qui rampent sur la terre."
+      italian: "E Dio disse: \"Facciamo l'uomo a nostra immagine, a nostra
+        somiglianza, e domini sui pesci del mare e sugli uccelli del cielo, sul
+        bestiame, su tutte le bestie selvatiche e su tutti i rettili che
+        strisciano sulla terra\"."
+      old_georgian: "და თქვა ღმერთმან: ვქმნეთ კაცი ხატებისაებრ ჩვენისა და
+        მსგავსებისაებრ. და მთავრობდეს თევზთა ზღჳსასა და მფრინველთა ცისათა და
+        პირუტყუთა და მჴეცთა ყოვლისა ქუეყანისა ყოველთა ქუეწარმავალთა მავალთა
+        ქუეყანასა ზედა."
+      portuguese: "E disse Deus: Façamos o homem à nossa imagem, conforme a nossa
+        semelhança; domine ele sobre os peixes\rdo mar, sobre as aves do céu,
+        sobre os animais domésticos, e sobre toda a terra, e sobre todo réptil
+        que se arrasta\rsobre a terra."
+      polish: "A wreszcie rzekł Bóg: ”Uczyńmy człowieka na Nasz obraz, podobnego
+        Nam.\rNiech panuje nad rybami morskimi, nad ptactwem powietrznym, nad
+        bydłem, nad ziemią i nad wszystkimi zwierzętami pełzającymi po ziemi!”"
+      turkish: Tanrı, «İnsanı kendi suretimizde, kendimize benzer yaratalım» dedi,
+        «Denizdeki balıklara, gökteki kuşlara, evcil hayvanlara, sürüngenlere,
+        yeryüzünün tümüne egemen olsun.»
+      nrt: "Потом Бог сказал: «Создадим человека – Наш образ и Наше подобие, – пусть
+        он царствует над рыбами морскими и птицами небесными, над скотом, над
+        всей землей и над всеми пресмыкающимися»."
+      Macarius: "И сказал Бог: сотворим человека по образу Нашему, по подобию Нашему;
+        и да владычествуют они над рыбами морскими, и над птицами небесными, и
+        над скотом, и над всею землею, и над всеми гадами, пресмыкающимися по
+        земле."
+      serbian: "Потом рече Бог: Да начинимо човјека по својему обличју, као што смо
+        ми, који ће бити  господар од риба морских и од птица небеских и од
+        стоке и од цијеле земље и од свијех животиња што се мичу по земљи."
+      bulgarian: "След това рече Бог: да сътворим човек по Наш образ, (и) по Наше
+        подобие; и да господарува над морските риби, и над небесните птици, (и
+        над зверовете) и над добитъка, и над цялата земя, и над всички гадини,
+        които пълзят по земята."
+      Filaret: "И сказал Бог: сотворим человека по образу нашему и по подобию нашему;
+        и да владычествует он над рыбами морскими, и над птицами небесными, и
+        над скотом, и над всею землею, и над всеми гадами пресмыкающимися по
+        земле."
+      deutsch: "Und Gott sprach: Laßt uns Menschen machen, ein Bild, das uns gleich
+        sei, die da herrschen über die Fische im Meer und über die Vögel unter
+        dem Himmel und über das Vieh und über die ganze Erde und über alles
+        Gewürm, das auf Erden kriecht."
+      ukr2: "Тож сказав Бог: Сотворімо людину на наш образ і на нашу подобу, і нехай
+        вона панує над рибою морською, над птаством небесним, над скотиною, над
+        усіма дикими звірями й над усіма плазунами, що повзають на землі."
+      ukr3: "І рече Бог: Сотворимо чоловіка в наш образ і в подобу, і нехай панує над
+        рибою морською, і над птаством небесним, і над скотиною, і над усяким
+        диким зьвірєм, і над усяким гадом, що лазить по землї."
+      old_rbo: "И сказал Бог: сотворим человека по образу Нашему, [и] по подобию
+        Нашему; и да владычествуют они над рыбами морскими, и над птицами
+        небесными, [и над зверями], и над скотом, и над всею землею, и над всеми
+        гадами, пресмыкающимися по земле."
+      spbda: "И сказал Бог: создадим человека по образу Нашему (и) по подобию Нашему;
+        и да владычествуют они над рыбами морскими, и над птицами небесными, и
+        над скотом, и над всею землею, и над всеми гадами, пресмыкающимися по
+        земле."
+      sergievsky: "И Бог сказал: «Сотворим человека в образе Нашем и по подобию
+        Нашему: и да владеет рыбою морскою, птицею небесною, и скотом, и всею
+        землею, и всяким пресмыкающимся, ползающим по земле!»"
+      Porfiriy: "И сказал Бог: сотворим человека по образу нашему и по подобию, и да
+        владеют рыбами морскими, и птицами небесными, и скотами, и всею землею,
+        и всеми ползецами, пресмыкающимися по земле."
+      lev-khv: "И сказал Бог: создадим человека по образу Нашему, по подобию Нашему; и
+        да владычествуют они над рыбами морскими, и над птицами небесными, и над
+        скотами, и над всею землею, и над всеми гадами, пресмыкающимися по
+        земле."
+      czech: "I rekl Buh: „Ucinme cloveka, aby byl nasim obrazem podle nasi podoby. At
+        lide panuji nad morskymi rybami a nad nebeskym ptactvem, nad zviraty a
+        nad celou zemi i nad kazdym plazem plazicim se po zemi.“"
+      spanish: "Díjose entonces Dios: <<Hagamos al hombre a nuestra imagen y a nuestra
+        semejanza, para que domine sobre los peces del mar, sobre las aves del
+        cielo, sobre los ganados y sobre las bestias de la tierra, y sobre
+        cuantos animales se mueven sobre ella>>."
+      vadim: "И сказал Бог: «Сделаем человека в образе нашем по подобию нашему, и
+        будут они владеть рыбами моря, и птицами небес, и скотами, и всей землей
+        и всеми ползучими, ползающими по земле»."
+      mandelshtam: "И Бог сказал: «Сотворим человека в образе Нашем и по подобию
+        Нашему: и да владеет рыбою морскою, птицею небесною, и скотом, и всею
+        землею, и всяким пресмыкающимся, ползающим по земле!»"
+      greek-lxx: καὶ εἶπεν ὁ Θεός ποιήσωμεν ἄνθρωπον κατ᾿ εἰκόνα ἡμετέραν καὶ καθ᾿
+        ὁμοίωσιν καὶ ἀρχέτωσαν τῶν ἰχθύων τῆς θαλάσσης καὶ τῶν πετεινῶν τοῦ
+        οὐρανοῦ καὶ τῶν κτηνῶν καὶ πάσης τῆς γῆς καὶ πάντων τῶν ἑρπετῶν τῶν
+        ἑρπόντων ἐπὶ τῆς γῆς
+      st_text: "И сказал Бог: сотворим человека по образу Нашему [и] по подобию
+        Нашему, и да владычествуют они над рыбами морскими, и над птицами
+        небесными, [и над зверями,] и над скотом, и над всею землею, и над всеми
+        гадами, пресмыкающимися по земле."
+  - id: 9685
+    number: 27
+    bookId: 1
+    text: И сотворил Бог человека по образу Своему, по образу Божию сотворил его;
+      мужчину и женщину сотворил их.
+    chapter: 1
+    chapterId: 1
+    parallels:
+      - verseId: 10332
+        bookId: 1
+        bookCode: bytie
+        chapter: 3
+        short: Быт:3:22
+      - verseId: 11037
+        bookId: 1
+        bookCode: bytie
+        chapter: 5
+        short: Быт:5:1
+      - verseId: 11168
+        bookId: 1
+        bookCode: bytie
+        chapter: 9
+        short: Быт:9:6
+      - verseId: 14357
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 7
+        short: Еккл:7:29
+      - verseId: 29178
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 2
+        short: Прем:2:23
+      - verseId: 33501
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 15
+        short: Сир:15:14
+      - verseId: 33541
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 17
+        short: Сир:17:3
+      - verseId: 8105
+        bookId: 50
+        bookCode: 3a-kniga-ezdry
+        chapter: 3
+        short: 3 Езд:3:5
+      - verseId: 25362
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 19
+        short: Мф:19:4
+      - verseId: 26215
+        bookId: 52
+        bookCode: evangelie-ot-marka
+        chapter: 10
+        short: Мк:10:6
+      - verseId: 15202
+        bookId: 56
+        bookCode: poslanie-ap-iakova
+        chapter: 3
+        short: Иак:3:9
+      - verseId: 1356
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 11
+        short: 1 Кор:11:7
+      - verseId: 22891
+        bookId: 69
+        bookCode: k-kolossanam-poslanie-ap-pavla
+        chapter: 3
+        short: Кол:3:10
+      - verseId: 3726
+        bookId: 72
+        bookCode: 1oe-poslanie-k-timofeu-ap-pavla
+        chapter: 2
+        short: 1 Тим:2:13
+    translates:
+      kassian: ""
+      podstr: И сделал Бог человека, по образу Бога сделал его, мужчину и женщину
+        сделал их.
+      csya: "И сотвори Бог человека, по образу Божию сотвори его: мужа и жену сотвори
+        их."
+      averincev: ""
+      ungerov: "И сотворил Бог человека, по образу Божию сотворил его: мужчину и
+        женщину сотворил их."
+      csya_old: "И# сотвори2 бг7ъ человёка, по њ1бразу б9ію сотвори2 є3го2: мyжа и3
+        женY сотвори2 и5хъ."
+      sovr_rbo: Бог сотворил человека, образ Свой, Божий образ Он сотворил, мужчину и
+        женщину сотворил.
+      latin: "Et creavit Deus hominem ad imaginem suam: ad imaginem Dei creavit illum,
+        masculum et feminam creavit eos."
+      ukr: І Бог на Свій образ людину створив, на образ Божий її Він створив, як
+        чоловіка та жінку створив їх.
+      nkjv: So God created man in His own image; in the image of God He created him;
+        male and female He created them.
+      desnitsky: ""
+      mt: ‫    וַיִּבְרָא אֱלֹהִים אֶת־הָאָדָם בְּצַלְמוֹ בְּצֶלֶם אֱלֹהִים בָּרָא
+        אֹתוֹ זָכָר וּנְקֵבָה בָּרָא אֹתָם׃ ‬
+      bel_syomukha: І стварыў Бог чалавека паводле вобразу Свайго, паводле вобразу
+        Божага стварыў яго; мужчыну і жанчыну стварыў іх.
+      romana: Si a facut Dumnezeu pe om dupa chipul Sau; dupa chipul lui Dumnezeu l-a
+        facut; a facut barbat si femeie.
+      francais: Dieu créa l'homme à son image, il le créa à l'image de Dieu, il créa
+        l'homme et la femme.
+      italian: Dio creò l'uomo a sua immagine; a immagine di Dio lo creò; maschio e
+        femmina li creò.
+      old_georgian: და შექმნა ღმერთმან კაცი სახედ თჳსად და ხატად ღმრთისა შექმნა იგი,
+        მამაკაცად და დედაკაცად ქმნა იგინი.
+      portuguese: Criou, pois, Deus o homem à sua imagem; à imagem de Deus o criou;
+        homem e mulher os criou.
+      polish: "Stworzył więc Bóg człowieka na swój obraz, na obraz Boży go stworzył:
+        stworzył mężczyznę i niewiastę."
+      turkish: Tanrı insanı kendi suretinde yarattı. Böylece insan Tanrı suretinde
+        yaratılmış oldu. İnsanları erkek ve dişi olarak yarattı.
+      nrt: Так Бог сотворил человека по образу Своему, по образу Божьему Он сотворил
+        его; мужчину и женщину Он сотворил их.
+      Macarius: И сотворил Бог человека по образу Своему, по образу Божию сотворил
+        его, мужчину и женщину сотворил их.
+      serbian: И створи Бог човјека по обличју својему, по обличју Божијему створи га;
+        мушко и женско створи их.
+      bulgarian: И сътвори Бог човека по Свой образ, по Божий образ го сътвори; мъж и
+        жена ги сътвори.
+      Filaret: И сотворил Бог человека по образу своему, по образу Божию сотворил его;
+        мужеский и женский пол сотворил их.
+      deutsch: Und Gott schuf den Menschen ihm zum Bilde, zum Bilde Gottes schuf er
+        ihn; und schuf sie einen Mann und ein Weib.
+      ukr2: І сотворив Бог людину на свій образ; на Божий образ сотворив її; чоловіком
+        і жінкою сотворив їх.
+      ukr3: м з сотворив Бог чоловіка в свій образ, ув образ Божий сотворив його, як
+        чоловіка і жінку сотворив їх.
+      old_rbo: И сотворил Бог человека по образу Своему, по образу Божию сотворил его;
+        мужчину и женщину сотворил их.
+      spbda: И сотворил Бог человека по образу Своему, по образу Божию сотворил его;
+        мужчину и женщину сотворил их.
+      sergievsky: И сотворил Бог человека, в образе Своем, в образе Божием сотворил Он
+        его; мужчиною и женщиною сотворил Он их.
+      Porfiriy: "И сотворил Бог человека, по образу Божию сотворил его: мужеский и
+        женский пол сотворил их."
+      lev-khv: И сотворил Бог человека по образу Своему, по образу Божию сотворил его;
+        мужчиною и женщиною сотворил их.
+      czech: Buh stvoril cloveka, aby byl jeho obrazem, stvoril ho, aby byl obrazem
+        Bozim, jako muze a zenu je stvoril.
+      spanish: Y creó Dios al hombre a imagen suya, a imagen de Dios lo creó, y los
+        creó macho y hembra;
+      vadim: И сотворил Бог человека по образу своему; по образу Бога сотворил он его,
+        мужский и женский пол сотворил он их.
+      mandelshtam: И сотворил Бог человека, в образе Своем, в образе Божием сотворил
+        Он его; мужчиною и женщиною сотворил Он их.
+      greek-lxx: καὶ ἐποίησεν ὁ Θεὸς τὸν ἄνθρωπον κατ᾿ εἰκόνα Θεοῦ ἐποίησεν αὐτόν
+        ἄρσεν καὶ θῆλυ ἐποίησεν αὐτούς
+      st_text: И сотворил Бог человека по образу Своему, по образу Божию сотворил его;
+        мужчину и женщину сотворил их.
+  - id: 9686
+    number: 28
+    bookId: 1
+    text: "И благословил их Бог, и сказал им Бог: плодитесь и размножайтесь, и
+      наполняйте землю, и обладайте ею, и владычествуйте над рыбами морскими [и
+      над зверями,] и над птицами небесными, [и над всяким скотом, и над всею
+      землею,] и над всяким животным, пресмыкающимся по земле."
+    chapter: 1
+    chapterId: 1
+    parallels:
+      - verseId: 11157
+        bookId: 1
+        bookCode: bytie
+        chapter: 8
+        short: Быт:8:17
+      - verseId: 11163
+        bookId: 1
+        bookCode: bytie
+        chapter: 9
+        short: Быт:9:1
+      - verseId: 11164
+        bookId: 1
+        bookCode: bytie
+        chapter: 9
+        short: Быт:9:2
+      - verseId: 11169
+        bookId: 1
+        bookCode: bytie
+        chapter: 9
+        short: Быт:9:7
+      - verseId: 10526
+        bookId: 1
+        bookCode: bytie
+        chapter: 35
+        short: Быт:35:11
+      - verseId: 32446
+        bookId: 22
+        bookCode: psaltir
+        chapter: 8
+        short: Пс:8:7
+      - verseId: 28917
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 10
+        short: Прем:10:2
+      - verseId: 33542
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 17
+        short: Сир:17:4
+    translates:
+      kassian: ""
+      podstr: "И благословил их Бог говорящий: Плодитесь и размножайтесь и наполните
+        землю и владейте ею и управляйте рыбами моря и птицами неба и всем
+        скотом и всем земли и всеми пресмыкающимися ползающими на земле."
+      csya: "И благослови их Бог, глаголя: раститеся и множитеся, и наполните землю, и
+        господствуйте ею, и обладайте рыбами морскими, (и зверми) и птицами
+        небесными, и всеми скотами, и всею землею, и всеми гадами
+        пресмыкающимися по земли."
+      averincev: ""
+      ungerov: "И благословил их Бог и сказал: возрастайте и размножайтесь, и
+        наполняйте землю и владычествуйте над нею, и обладайте рыбами морскими
+        (и зверями) и птицами небесными, и всем скотом, и всею землею, и всеми
+        гадами, пресмыкающимися по земле."
+      csya_old: "И# блгcви2 и5хъ бг7ъ, гlz: расти1тесz и3 мно1житесz, и3 напо1лните
+        зе1млю, и3 госпо1дствуйте є4ю, и3 њбладaйте ры1бами морски1ми, (и3
+        ѕвэрьми2) и3 пти1цами небе1сными, и3 всёми скотaми, и3 все1ю земле1ю, и3
+        всёми гaдами пресмыкaющимисz по земли2."
+      sovr_rbo: "И благословил их Бог такими словами: «Будьте плодовиты и
+        многочисленны, заселяйте землю и покоряйте ее. Господствуйте над рыбами
+        морскими, и над птицами небесными, и над всеми животными земли»."
+      latin: "Benedixitque illis Deus, et ait: Crescite et multiplicamini, et replete
+        terram, et subjicite eam, et dominamini piscibus maris, et volatilibus
+        caeli, et universis animantibus, quae moventur super terram."
+      ukr: "І поблагословив їх Бог, і сказав Бог до них: Плодіться й розмножуйтеся, і
+        наповнюйте землю, оволодійте нею, і пануйте над морськими рибами, і над
+        птаством небесним, і над кожним плазуючим живим на землі!"
+      nkjv: Then God blessed them, and God said to them, "Be fruitful and multiply;
+        fill the earth and subdue it; have dominion over the fish of the sea,
+        over the birds of the air, and over every living thing that moves on the
+        earth."
+      desnitsky: ""
+      mt: ‫    וַיְבָרֶךְ אֹתָם אֱלֹהִים וַיֹּאמֶר לָהֶם אֱלֹהִים פְּרוּ וּרְבוּ
+        וּמִלְאוּ אֶת־הָאָרֶץ וְכִבְשֻׁהָ וּרְדוּ בִּדְגַת הַיָּם וּבְעוֹף
+        הַשָּׁמַיִם וּבְכָל־חַיָּה הָרֹמֶשֶׂת עַל־הָאָרֶץ׃ ‬
+      bel_syomukha: "І дабраславіў іх Бог, і сказаў ім Бог: пладзецеся і множцеся, і
+        напаўняйце зямлю і валодайце ёю, і валадарце над рыбамі марскімі, і над
+        птушкамі нябеснымі, і над усякай жывёлаю, што поўзае па зямлі."
+      romana: 'Si Dumnezeu i-a binecuvantat, zicand: "Cresteti si va inmultiti si
+        umpleti pamantul si-l supuneti; si stapaniri peste pestii marii, peste
+        pasarile cerului, peste toate animalele, peste toate vietatile ce se
+        misca pe pamant si peste tot pamantul!"'
+      francais: "Dieu les bénit, et Dieu leur dit: Soyez féconds, multipliez,
+        remplissez la terre, et l'assujettissez; et dominez sur les poissons de
+        la mer, sur les oiseaux du ciel, et sur tout animal qui se meut sur la
+        terre."
+      italian: 'Dio li benedisse e disse loro: "Siate fecondi e moltiplicatevi,
+        riempite la terra; soggiogatela e dominate sui pesci del mare e sugli
+        uccelli del cielo e su ogni essere vivente, che striscia sulla terra".'
+      old_georgian: "და აკურთხნა იგინი ღმერთმან მეტყუელმან: აღორძნდით და განმრავლდით.
+        და აღავსეთ ქუეყანაჲ და ეუფლენით მას. და მთავრობდით თევზთა ზღჳსათა, და
+        მფრინველთა ცისათა, და ყოველთა პირუტყუთა, და ყოველსა ქვეყანასა და ყოველთა
+        ქუეწარმავალთა, მავალთა ქვეყანასა ზედა."
+      portuguese: "Então Deus os abençoou e lhes disse: Frutificai e multiplicai-vos;
+        enchei a terra e sujeitai-a; dominai sobre os\rpeixes do mar, sobre as
+        aves do céu e sobre todos os animais que se arrastam sobre a terra."
+      polish: "Po czym Bóg im błogosławił, mówiąc do nich: ”Bądźcie płodni i
+        rozmnażajcie\rsię, abyście zaludnili ziemię i uczynili ją sobie poddaną;
+        abyście panowali nad\rrybami morskimi, nad ptactwem powietrznym i nad
+        wszystkimi zwierzętami\rpełzającymi po ziemi”."
+      turkish: Onları kutsayarak, «Verimli olun, çoğalın» dedi, «Yeryüzünü doldurun ve
+        denetiminize alın; denizdeki balıklara, gökteki kuşlara, yeryüzünde
+        yaşayan bütün canlılara egemen olun.
+      nrt: "Бог благословил их и сказал: «Плодитесь и размножайтесь; наполняйте землю
+        и владейте ею. Царствуйте над рыбами морскими, и птицами небесными, и
+        над всеми пресмыкающимися»."
+      Macarius: "И Бог благословил их, и сказал им Бог: плодитесь и размножайтесь, и
+        наполняйте землю, и обладайте ею, и владычествуйте над рыбами морскими,
+        и над птицами небесными, и над всяким животным, пресмыкающимся по
+        земле."
+      serbian: "И благослови их Бог, и рече им Бог: Рађајте се и множите се, и
+        напуните земљу, и владајте њом, и будите господари од риба морских и од
+        птица небеских и од свега звериња што се миче по земљи."
+      bulgarian: "И благослови ги Бог, като им рече: плодете се и множете се, пълнете
+        земята и обладайте я и господарувайте над морските риби (и над
+        зверовете), над небесните птици (и над всякакъв добитък, над цялата
+        земя) и над всякакви животни, които пълзят по земята."
+      Filaret: "И Бог благословил их, и сказал им Бог: плодитесь, и размножайтесь, и
+        наполняйте землю, и обладайте ею, и владычествуйте над рыбами морскими,
+        и над птицами небесными, и над всяким животным пресмыкающимся по земле."
+      deutsch: "Und Gott segnete sie und sprach zu ihnen: Seid fruchtbar und mehrt
+        euch und füllt die Erde und macht sie euch untertan und herrscht über
+        die Fische im Meer und über die Vögel unter dem Himmel und über alles
+        Getier, das auf Erden kriecht."
+      ukr2: "І благословив їх Бог і сказав їм: Будьте плідні й множтеся і наповняйте
+        землю та підпорядковуйте її собі; пануйте над рибою морською, над
+        птаством небесним і над усяким звірем, що рухається по землі."
+      ukr3: "І благословив їх Бог, і рече до них Бог: Плодїтеся і намножуйтесь, і
+        сповнюйте землю і підневолюйте її, і пануйте над рибою морською і над
+        птаством небесним і над усїм зьвірєм, що гасає по землї."
+      old_rbo: "И Бог благословил их, и сказал им Бог: плодитесь, и размножайтесь, и
+        наполняйте землю, и обладайте ею, и владычествуйте над рыбами морскими,
+        [и над зверями], и над птицами небесными, [и над всяким скотом, и над
+        всею землею], и над всяким животным, движущимся по земле."
+      spbda: "И благословил их Бог, и сказал им Бог: плодитесь, и размножайтесь, и
+        наполняйте землю, и обладайте ею, и владычествуйте над рыбами морскими,
+        и над птицами небесными, и над всяким животным, пресмыкающимся по
+        земле."
+      sergievsky: "И Бог благословил их, и сказал им Бог: «Плодитесь, и размножайтесь,
+        и наполняйте землю, и покоряйте ее; и владейте рыбою морскою, и птицею
+        небесною, и всяким животным, ползающим по земле!»"
+      Porfiriy: "И благословил их Бог, говоря: плодитесь и размножайтесь и наполняйте
+        землю, и овладевайте ею, и владейте рыбами морскими, и птицами
+        небесными, и всеми скотами, и всею землею, и всеми ползецами,
+        пресмыкающимися по земле."
+      lev-khv: "И благословил их Бог, и сказал им Бог: плодитесь, и размножайтесь, и
+        наполняйте землю, и обладайте ею, и владычествуйте над рыбами морскими,
+        и над птицами небесными, и над всяким животным, пресмыкающимся по
+        земле."
+      czech: "A Buh jim pozehnal a rekl jim: „Plodte a mnozte se a naplnte zemi.
+        Podmante ji a panujte nad morskymi rybami, nad nebeskym ptactvem, nade
+        vsim zivym, co se na zemi hybe.“"
+      spanish: "y los bendijo Dios, diciéndoles: <<Procread y multiplicaos, y henchid
+        la tierra; sometedla y dominad sobre los peces del mar, sobre las aves
+        del cielo y sobre los ganados, y sobre todo cuanto vive y se mueve sobre
+        la tierra>>."
+      vadim: "И благословил их Бог и сказал им: «Плодитесь и множьтесь, и наполняйте
+        землю и подчиняйте ее, и владейте рыбами моря и летучими небес, и всяким
+        жавотным, что ползает по земле»."
+      mandelshtam: "И Бог благословил их, и сказал им Бог: «Плодитесь, и
+        размножайтесь, и наполняйте землю, и покоряйте ее; и владейте рыбою
+        морскою, и птицею небесною, и всяким животным, ползающим по земле!»"
+      greek-lxx: καὶ ηὐλόγησεν αὐτοὺς ὁ Θεὸς λέγων αὐξάνεσθε καὶ πληθύνεσθε καὶ
+        πληρώσατε τὴν γῆν καὶ κατακυριεύσατε αὐτῆς καὶ ἄρχετε τῶν ἰχθύων τῆς
+        θαλάσσης καὶ τῶν πετεινῶν τοῦ οὐρανοῦ καὶ πάντων τῶν κτηνῶν καὶ πάσης
+        τῆς γῆς καὶ πάντων τῶν ἑρπετῶν τῶν ἑρπόντων ἐπὶ τῆς γῆς
+      st_text: "И благословил их Бог, и сказал им Бог: плодитесь и размножайтесь, и
+        наполняйте землю, и обладайте ею, и владычествуйте над рыбами морскими
+        [и над зверями,] и над птицами небесными, [и над всяким скотом, и над
+        всею землею,] и над всяким животным, пресмыкающимся по земле."
+  - id: 9687
+    number: 29
+    bookId: 1
+    text: "И сказал Бог: вот, Я дал вам всякую траву, сеющую семя, какая есть на
+      всей земле, и всякое дерево, у которого плод древесный, сеющий семя; – вам
+      <i>сие</i> будет в пищу;"
+    chapter: 1
+    chapterId: 1
+    parallels:
+      - verseId: 11165
+        bookId: 1
+        bookCode: bytie
+        chapter: 9
+        short: Быт:9:3
+    translates:
+      kassian: ""
+      podstr: "И сказал Бог: Вот Я дал вам всякую траву семянную сеющую семя, которая
+        есть над всей землёй, и всякое дерево, которое имеет в себе плод семени
+        семянной вам [это] будет в пищу"
+      csya: "И рече Бог: се, дах вам всякую траву семенную сеющую семя, еже есть верху
+        земли всея: и всякое древо, еже имать в себе плод семене семеннаго, вам
+        будет в снедь:"
+      averincev: ""
+      ungerov: "И сказал Бог: вот, Я дал вам всякую траву семенную, сеющую семя, какая
+        находится на поверхности всей земли, и всякое дерево, у котораго плод,
+        имеющий семя семенное; — вам (это) будет в пищу."
+      csya_old: "И# рече2 бг7ъ: се2, дaхъ вaмъ всsкую травY сёменную сёющую сёмz, є4же
+        є4сть верхY земли2 всеS: и3 всsкое дре1во, є4же и4мать въ себЁ пло1дъ
+        сёмене сёменнагw, вaмъ бyдетъ въ снёдь:"
+      sovr_rbo: "И сказал Бог: «Я отдаю вам в пищу все травы с семенами, какие есть на
+        земле, и все деревья, приносящие плоды с семенами."
+      latin: "Dixitque Deus: Ecce dedi vobis omnem herbam afferentem semen super
+        terram, et universa ligna quae habent in semetipsis sementem generis
+        sui, ut sint vobis in escam:"
+      ukr: "І сказав Бог: Оце дав Я вам усю ярину, що розсіває насіння, що на всій
+        землі, і кожне дерево, що на ньому плід деревний, що воно розсіває
+        насіння, нехай буде на їжу це вам!"
+      nkjv: And God said, "See, I have given you every herb that yields seed which is
+        on the face of all the earth, and every tree whose fruit yields seed; to
+        you it shall be for food.
+      desnitsky: ""
+      mt: ‫    וַיֹּאמֶר אֱלֹהִים הִנֵּה נָתַתִּי לָכֶם אֶת־כָּל־עֵשֶׂב זֹרֵעַ זֶרַע
+        אֲשֶׁר עַל־פְּנֵי כָל־הָאָרֶץ וְאֶת־כָּל־הָעֵץ אֲשֶׁר־בּוֹ פְרִי־עֵץ
+        זֹרֵעַ זָרַע לָכֶם יִהְיֶה לְאָכְלָה׃ ‬
+      st_text: "И сказал Бог: вот, Я дал вам всякую траву, сеющую семя, какая есть на
+        всей земле, и всякое дерево, у которого плод древесный, сеющий семя; –
+        вам <i>сие</i> будет в пищу;"
+      new_text: ""
+      tex_rec: ""
+      bel_syomukha: "І сказаў Бог: вось, Я даў вам усякую траву, што сее насеньне,
+        якая ёсьць на ўсёй зямлі, і ўсякае дрэва, у якога плод дрэўны, што сее
+        насеньне, - вам гэта будзе ежаю:"
+      romana: 'Apoi a zis Dumnezeu: "Iata, va dau toata iarba ce face samanta de pe
+        toata fata pamantului si tot pomul ce are rod cu samanta in el. Acestea
+        vor fi hrana voastra.'
+      francais: "Et Dieu dit: Voici, je vous donne toute herbe portant de la semence
+        et qui est à la surface de toute la terre, et tout arbre ayant en lui du
+        fruit d'arbre et portant de la semence: ce sera votre nourriture."
+      italian: 'Poi Dio disse: "Ecco, io vi do ogni erba che produce seme e che è su
+        tutta la terra e ogni albero in cui è il frutto, che produce seme:
+        saranno il vostro cibo.'
+      old_georgian: "და თქვა ღმერთმან: აჰა, მიგცე თქვენყოველი თივა სათესავი მთესველი
+        თესლისაჲ, რომელ არს ზედა ყოვლისა ქვეყანისა. და ყოველი ხე, რომელსა აქუს
+        თავსა შორის თჳსსა ნაყოფი თესლისაჲ სათესავი, თქუენდა იყოს საჭმელად."
+      portuguese: "Disse-lhes mais: Eis que vos tenho dado todas as ervas que produzem
+        semente, as quais se acham sobre a face\rde toda a terra, bem como todas
+        as árvores em que há fruto que dê semente; ser-vos-ão para mantimento."
+      polish: "I rzekł Bóg: ”Oto wam daję wszelką roślinę przynoszącą ziarno po całej
+        ziemi i wszelkie drzewo, którego owoc ma w sobie nasienie: dla was będą
+        one\rpokarmem."
+      turkish: İşte yeryüzünde tohum veren her otu, tohumu meyvesinde bulunan her
+        meyve ağacını size veriyorum. Bunlar size yiyecek olacak.
+      nrt: "Затем Бог сказал: «Я даю вам все растения с семенами по всей земле и все
+        деревья, дающие плод с семенем внутри; они будут вам в пропитание."
+      Macarius: "И сказал Бог: се Я даю вам всякую траву, сеющую семя, какая есть на
+        всей земле, и всякое дерево, от которого есть плод древесный, сеющий
+        семя; вам сие да будет в пищу."
+      serbian: "И још рече Бог: Ево, дао сам вам све биље што носи сјеме по свој
+        земљи, и сва дрвета родна која носе сјеме; то ће вам бити за храну."
+      bulgarian: "И рече Бог: ето, давам ви всякаква трева, що дава семе, каквато има
+        по цялата земя, и всякакво дърво, чийто плод е дървесен и дава семе -
+        това ще ви бъде за храна;"
+      Filaret: "Еще сказал Бог: се, Я даю вам всякую траву сеюшую семя, какая есть на
+        всей земле, и всякое дерево, от котораго есть плод древесный сеющий
+        семя; вам сие да будет в пищу."
+      deutsch: "Und Gott sprach: Seht da, ich habe euch gegeben allerlei Kraut, das
+        sich besamt, auf der ganzen Erde und allerlei fruchtbare Bäume, die sich
+        besamen, zu eurer Speise,"
+      ukr2: "По тому сказав Бог: Ось я даю вам усяку траву, що розсіває насіння по
+        всій землі, та всяке дерево, що приносить плоди з насінням: вони будуть
+        вам на поживу."
+      ukr3: "І рече Бог: Оце ж дав я вам усяке зело з насїннями, яке нї росте на
+        землї, та й усяке дерево, що має в собі плід родющий насїннє; се нехай
+        вам на харч."
+      old_rbo: "И сказал Бог: се, Я даю вам всякую траву сеющую семя, какая есть на
+        всей земле, и всякое дерево, от котораго есть плод древесный, сеющий
+        семя; вам сие да будет в пищу."
+      spbda: "И сказал Бог: вот Я дал вам всякую траву сеющую семя, которая на всей
+        земле, и всякое дерево, у котораго плод древесный, сеющий семя; вам сие
+        будет в пищу."
+      sergievsky: "И сказал Бог: «Вот, Я отдал вам всякую траву, сеющую семя, чтó на
+        лице всей земли, и всякое дерево, на коем плод древесный, сеющее семя:
+        да будет вам в пищу."
+      Porfiriy: "И сказал Бог: вот Я дал вам всякий злак семенный, сеющий семя, какой
+        есть на всей земле; и всякое дерево, которое в себе имеет плод сеющий
+        семя, будет вам в снедь."
+      lev-khv: "И сказал Бог: вот, Я дал вам всякую траву, сеющую семя, которая на
+        поверхности всей земли, и всякое дерево, у котораго плод древесный,
+        сеющий семя; вам <i>это</i> будет в пищу."
+      czech: "Buh take rekl: „Hle, dal jsem vam na cele zemi kazdou bylinu nesouci
+        semena i kazdy strom, na nemz rostou plody se semeny. To budete mit za
+        pokrm."
+      spanish: "Dijo también Dios: <<Ahí os doy cuantas hierbas de semilla hay sobre
+        la haz dé la tierra toda, y cuantos árboles producen fruto de simiente,
+        para que todos os sirvan de alimento."
+      vadim: "И сказал Бог: «Вот, дал я вам всякий злак, приносящий семя, какой на
+        лице всей земли и всякое дерево, в котором плод дерева, приносящаго
+        семя; вам это будет пищей."
+      mandelshtam: "И сказал Бог: «Вот, Я отдал вам всякую траву, сеющую семя, чтó на
+        лице всей земли, и всякое дерево, на коем плод древесный, сеющее семя:
+        да будет вам в пищу."
+      greek-lxx: καὶ εἶπεν ὁ Θεός ἰδοὺ δέδωκα ὑμῖν πᾶν χόρτον σπόριμον σπεῖρον σπέρμα
+        ὅ ἐστιν ἐπάνω πάσης τῆς γῆς καὶ πᾶν ξύλον ὃ ἔχει ἐν ἑαυτῷ καρπὸν
+        σπέρματος σπορίμου ὑμῖν ἔσται εἰς βρῶσιν
+  - id: 9688
+    number: 30
+    bookId: 1
+    text: а всем зверям земным, и всем птицам небесным, и всякому [гаду,]
+      пресмыкающемуся по земле, в котором душа живая, <i>дал</i> Я всю зелень
+      травную в пищу. И стало так.
+    chapter: 1
+    chapterId: 1
+    parallels:
+      - verseId: 22964
+        bookId: 3
+        bookCode: levit
+        chapter: 11
+        short: Лев:11:3
+    translates:
+      kassian: ""
+      podstr: и всем зверям земли и всем птицам неба и всякому пресмыкающемуся
+        ползающему на земле, которое имеет в себе душу жизни, всю траву зелени в
+        пищу. И сделалось так.
+      csya: и всем зверем земным, и всем птицам небесным, и всякому гаду
+        пресмыкающемуся по земли, иже имать в себе душу живота, и всяку траву
+        зелену в снедь. И бысть тако.
+      averincev: ""
+      ungerov: А всем зверям земным, и всем птицам небесным, и всякому гаду,
+        пресмыкающемуся по земле, который имеет в себе душу живую, всякую траву
+        зеленую (дал) в пищу. И было так.
+      csya_old: и3 всBмъ ѕвэрє1мъ зємны1мъ, и3 всBмъ пти1цамъ небє1снымъ, и3 всsкому
+        гaду пресмыкaющемусz по земли2, и4же и4мать въ себЁ дyшу животA, и3
+        всsку травY зеле1ну въ снёдь. И# бы1сть тaкw.
+      sovr_rbo: А зверям земным, и птицам небесным, и живности земной — всем, в ком
+        дышит жизнь, — Я отдаю в пищу зелень растений». И стало так.
+      latin: et cunctis animantibus terrae, omnique volucri caeli, et universis quae
+        moventur in terra, et in quibus est anima vivens, ut habeant ad
+        vescendum. Et factum est ita.
+      ukr: І земній усій звірині і всьому птаству небесному, і кожному, що плазує по
+        землі, що душа в ньому жива, уся зелень яринна на їжу для них. І сталося
+        так.
+      nkjv: Also, to every beast of the earth, to every bird of the air, and to
+        everything that creeps on the earth, in which there is life, I have
+        given every green herb for food"; and it was so.
+      desnitsky: ""
+      mt: ‫    וּלְכָל־חַיַּת הָאָרֶץ וּלְכָל־עוֹף הַשָּׁמַיִם וּלְכֹל רוֹמֵשׂ
+        עַל־הָאָרֶץ אֲשֶׁר־בּוֹ נֶפֶשׁ חַיָּה אֶת־כָּל־יֶרֶק עֵשֶׂב לְאָכְלָה
+        וַיְהִי־כֵן׃ ‬
+      bel_syomukha: а ўсім зьвярам зямным, і ўсім птушкам нябесным, і ўсякаму, што
+        поўзае па зямлі, у якім душа жывая, даў Я ўсю зеляніну травяную на ежу.
+        І сталася так.
+      romana: Iar tuturor fiarelor pamantului si tuturor pasarilor cerului si tuturor
+        vietatilor ce se misca pe pamant, care au in ele suflare de viata, le
+        dau toata iarba verde spre hrana. Si a fost asa.
+      francais: Et à tout animal de la terre, à tout oiseau du ciel, et à tout ce qui
+        se meut sur la terre, ayant en soi un souffle de vie, je donne toute
+        herbe verte pour nourriture. Et cela fut ainsi.
+      italian: A tutte le bestie selvatiche, a tutti gli uccelli del cielo e a tutti
+        gli esseri che strisciano sulla terra e nei quali è alito di vita, io do
+        in cibo ogni erba verde". E così avvenne.
+      old_georgian: და ყოველთა მჴეცთა ქვეყანისათა და ყოველთა მფრინველთა ცისათა. და
+        ყოვლისა ქუეწარმავალისა, რომელი ვალს ქვეყანასა ზედა, რომელსა აქუს თავსა
+        შორის თვისსა სული სიცოცხლისა, და ყოველი თივა მწვანვილისა საჭამადად და
+        იქმნა ეგრეთ.
+      portuguese: "E a todos os animais da terra, a todas as aves do céu e a todo ser
+        vivente que se arrasta sobre a terra, tenho\rdado todas as ervas verdes
+        como mantimento. E assim foi."
+      polish: "A dla wszelkiego zwierzęcia polnego i dla wszelkiego ptactwa w
+        powietrzu,\ri dla wszystkiego, co się porusza po ziemi i ma w sobie
+        pierwiastek życia,\rbędzie pokarmem wszelka trawa zielona”. I stało się
+        tak."
+      turkish: Yabanıl hayvanlara, gökteki kuşlara, sürüngenlere -soluk alıp veren
+        bütün hayvanlara- yiyecek olarak yeşil otları veriyorum.» Ve öyle oldu.
+      nrt: И всем зверям земным, и всем птицам небесным, и всем пресмыкающимся – всем,
+        в ком дышит жизнь – Я даю в пищу всякую зелень». И стало так.
+      Macarius: И всем зверям земным, и всем птицам небесным, и всякому
+        пресмыкающемуся по земле, в котором есть душа живая, даю Я всю
+        зеленеющую траву в пищу; и стало так.
+      serbian: А свјему звјерињу земаљском и свјема птицама небеским и свјему што се
+        миче на земљи и у чем има душа жива, дао сам сву траву да једу. И би
+        тако.
+      bulgarian: а на всички земни зверове, на всички небесни птици и на всяка
+        (гадина), която пълзи по земята и има жива душа, дадох за храна всичкия
+        злак тревист. Тъй и стана.
+      Filaret: "А всем зверям земным, и всем птицам небесным, и всякому
+        пресмыкающемуся по земле, в котором есть душа живая, даю Я всю зелень
+        травную в пищу: и стало так."
+      deutsch: und allem Getier auf Erden und allen Vögeln unter dem Himmel und allem
+        Gewürm, das da lebt auf Erden, daß sie allerlei grünes Kraut essen. Und
+        es geschah also.
+      ukr2: Всякому ж дикому звіреві, всякому небесному птаству, всьому, що повзає по
+        землі й має в собі живу душу, я даю на поживу всяку зелень трав. І так
+        сталося.
+      ukr3: І всякому зьвірові земному, і всякому птаству небесному, і всьому
+        повзючому по землї, усякій душі живій, призначив я всяку траву й зело на
+        харч. І сталось тако.
+      old_rbo: "И всем зверям земным, и всем птицам небесным, и всякому [гаду]
+        пресмыкающемуся по земле, в котором есть душа живая, даю Я всю
+        зеленеющую траву в пищу: и стало так."
+      spbda: А всем зверям земным, и всем птицам небесным и всякому пресмыкающемуся по
+        земле, в котором душа живая, дал Я всю зелень травную в пищу. И стало
+        так.
+      sergievsky: А всякому животному земли, и всякой птице небесной, и всякому
+        пресмыкающемуся по земле, в коем душа живая, — всякую зелень травы — в
+        пищу!» И стало так.
+      Porfiriy: И всем зверям земным, и всем птицам небесным, и всякому ползецу,
+        пресмыкающемуся по земле, который в себе имеет душу живую, (дал) всякую
+        траву зеленую в пищу. И было так.
+      lev-khv: "А всем зверям земным, и всем птицам небесным, и всякому
+        пресмыкающемуся по земле, в котором душа живая, <i>дал Я</i> всю зелень
+        травную в пищу: и стало так."
+      czech: Veskere zemske zveri i vsemu nebeskemu ptactvu a vsemu, co se plazi po
+        zemi, v cem je ziva duse, dal jsem za pokrm veskerou zelenou bylinu.“ A
+        stalo se tak.
+      spanish: También a todos los animales de la tierra, y a todas las aves del
+        cielo, y a todos los vivientes que sobre la tierra están y se mueven,
+        les doy por comida cuanto de verde hierba la tierra produce>>. Y así
+        fue.
+      vadim: А всякому животному земли и всякому летучему небес, и всякому ползучему
+        по земле, в ком душа жизни, всякую зелень злака в пищу». И стало так.
+      mandelshtam: А всякому животному земли, и всякой птице небесной, и всякому
+        пресмыкающемуся по земле, в коем душа живая, — всякую зелень травы — в
+        пищу!» И стало так.
+      greek-lxx: καὶ πᾶσι τοῖς θηρίοις τῆς γῆς καὶ πᾶσι τοῖς πετεινοῖς τοῦ οὐρανοῦ καὶ
+        παντὶ ἑρπετῷ τῷ ἕρποντι ἐπὶ τῆς γῆς ὃ ἔχει ἐν ἑαυτῷ ψυχὴν ζωῆς πάντα
+        χόρτον χλωρὸν εἰς βρῶσιν καὶ ἐγένετο οὕτως
+      st_text: а всем зверям земным, и всем птицам небесным, и всякому [гаду,]
+        пресмыкающемуся по земле, в котором душа живая, <i>дал</i> Я всю зелень
+        травную в пищу. И стало так.
+  - id: 9689
+    number: 31
+    bookId: 1
+    text: "И увидел Бог все, что Он создал, и вот, хорошо весьма. И был вечер, и
+      было утро: день шестой."
+    chapter: 1
+    chapterId: 1
+    parallels:
+      - verseId: 21975
+        bookId: 2
+        bookCode: ishod
+        chapter: 31
+        short: Исх:31:17
+      - verseId: 30565
+        bookId: 22
+        bookCode: psaltir
+        chapter: 110
+        short: Пс:110:3
+      - verseId: 28913
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 1
+        short: Прем:1:14
+      - verseId: 33533
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 16
+        short: Сир:16:26
+      - verseId: 33570
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 18
+        short: Сир:18:1
+      - verseId: 34290
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 39
+        short: Сир:39:21
+      - verseId: 34309
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 39
+        short: Сир:39:40
+    translates:
+      kassian: ""
+      podstr: И увидел Бог все [творения], сколькие Он сделал, и вот хорошие очень. И
+        сделался вечер и сделалось утро, день шестой.
+      csya: "И виде Бог вся, елика сотвори: и се добра зело. И бысть вечер, и бысть
+        утро, день шестый."
+      averincev: ""
+      ungerov: "И увидел Бог все, что Он сотворил: и вот, весьма хорошо. И был вечер и
+        было утро: день шестый."
+      csya_old: "И# ви1дэ бг7ъ вс‰, є3ли6ка сотвори2: и3 се2 дwбрA ѕэлw2. И# бы1сть
+        ве1черъ, и3 бы1сть ќтро, де1нь шесты1й."
+      sovr_rbo: Бог оглядел Свое творение — все оно было очень хорошо. Настал вечер,
+        настало утро — шестой день.
+      latin: Viditque Deus cuncta quae fecerat, et erant valde bona. Et factum est
+        vespere et mane, dies sextus.
+      ukr: І побачив Бог усе, що вчинив. І ото, вельми добре воно! І був вечір, і був
+        ранок, день шостий.
+      nkjv: Then God saw everything that He had made, and indeed it was very good. So
+        the evening and the morning were the sixth day.
+      desnitsky: ""
+      mt: ‫    וַיַּרְא אֱלֹהִים אֶת־כָּל־אֲשֶׁר עָשָׂה וְהִנֵּה־טוֹב מְאֹד
+        וַיְהִי־עֶרֶב וַיְהִי־בֹקֶר יוֹם הַשִּׁשִּׁי׃ פ ‬
+      bel_syomukha: "І ўбачыў Бог усё, што Ён стварыў, і вось, добра вельмі. І быў
+        вечар, і была раніца: дзень шосты."
+      romana: "Si a privit Dumnezeu toate cate a facut si iata erau bune foarte. Si a
+        fost seara si a fost dimineata: ziua a sasea."
+      francais: "Dieu vit tout ce qu'il avait fait et voici, cela était très bon.
+        Ainsi, il y eut un soir, et il y eut un matin: ce fut le sixième jour."
+      italian: "Dio vide quanto aveva fatto, ed ecco, era cosa molto buona. E fu sera
+        e fu mattina: sesto giorno."
+      old_georgian: და იხილნა ღმერთმან ყოველნი, რაოდენნი ქმნნა, და აჰა კეთილ. ფრიად,და
+        იყო მწუხრი ღა იქმნა განთიად დღე მეექუსე.
+      portuguese: "E viu Deus tudo quanto fizera, e eis que era muito bom. E foi a
+        tarde e a manhã, o dia sexto.\r Gênesis 2"
+      polish: "A Bóg widział, że wszystko, co uczynił, było bardzo dobre. I tak
+        upłynął\rwieczór i poranek - dzień szósty."
+      turkish: Tanrı yarattıklarına baktı ve her şeyin çok iyi olduğunu gördü. Akşam
+        oldu, sabah oldu ve altıncı gün oluştu.
+      nrt: Бог посмотрел на все, что Он создал, и все было очень хорошо. Был вечер, и
+        было утро – день шестой.
+      Macarius: "И увидел Бог все, что ни создал, и вот, весьма хорошо. И был вечер, и
+        было утро: день шестый."
+      serbian: Тада погледа Бог све што је створио, и гле, добро бјеше веома. И би
+        вече и би јутро, дан шести.
+      bulgarian: И видя Бог всичко, що създаде, и ето, беше твърде добро. Биде вечер,
+        биде утро - ден шести.
+      Filaret: "И воззрел Бог на все, что ни создал; и вот, все хорошо весьма. И был
+        вечер, и было утро: день шестый."
+      deutsch: Und Gott sah alles an, was er gemacht hatte; und siehe da, es war sehr
+        gut. Da ward aus Abend und Morgen der sechste Tag.
+      ukr2: "І побачив Бог усе, що створив: і воно було дуже добре. І був вечір і був
+        ранок - день шостий."
+      ukr3: І бачив Бог, що все, що сотворив, було вельми добре. І був вечір, і був
+        ранок; день шестий.
+      old_rbo: "И увидел Бог все, что Он ни создал, и вот весьма хорошо. И был вечер,
+        и было утро: день шестой."
+      spbda: "И увидел Бог все, что Он создал, и вот — хорошо весьма. И был вечер, и
+        было утро: день шестый."
+      sergievsky: "И Бог осмотрел все, что соделал, и вот: оно весьма хорошо. И стал
+        вечер, и стало утро, — день шестой."
+      Porfiriy: И видел Бог все, что сотворил, и вот вельми хорошо. И был вечер, и
+        было утро, день шестый.
+      lev-khv: "И увидел Бог все, что Он создал, и вот, хорошо весьма. И был вечер, и
+        было утро: день шестой."
+      czech: Buh videl, ze vsechno, co ucinil, je velmi dobre. Byl vecer a bylo jitro,
+        den sesty.
+      spanish: Y vio Dios ser muy bueno cuanto había hecho, y hubo tarde y mañana, día
+        sexto.
+      vadim: И увидел Бог, что все сделаное им, очень хорошо. И быль вечер и было утро
+        — день шестой.
+      mandelshtam: "И Бог осмотрел все, что соделал, и вот: оно весьма хорошо. И стал
+        вечер, и стало утро, — день шестой."
+      greek-lxx: καὶ εἶδεν ὁ Θεὸς τὰ πάντα ὅσα ἐποίησεν καὶ ἰδοὺ καλὰ λίαν καὶ ἐγένετο
+        ἑσπέρα καὶ ἐγένετο πρωί ἡμέρα ἕκτη
+      st_text: "И увидел Бог все, что Он создал, и вот, хорошо весьма. И был вечер, и
+        было утро: день шестой."

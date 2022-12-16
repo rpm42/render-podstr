@@ -1,0 +1,566 @@
+id: 519
+number: 1
+bookId: 22
+verseCount: 6
+title: Глава 1
+verses:
+  - id: 30259
+    number: 1
+    bookId: 22
+    text: <i>Псалом Давида.</i> Блажен муж, который не ходит на совет нечестивых и
+      не стоит на пути грешных и не сидит в собрании развратителей,
+    chapter: 1
+    chapterId: 519
+    parallels:
+      - verseId: 31397
+        bookId: 22
+        bookCode: psaltir
+        chapter: 25
+        short: Пс:25:4
+      - verseId: 30573
+        bookId: 22
+        bookCode: psaltir
+        chapter: 111
+        short: Пс:111:1
+      - verseId: 29354
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 1
+        short: Притч:1:15
+      - verseId: 30104
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 4
+        short: Притч:4:14
+      - verseId: 29402
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 10
+        short: Притч:10:30
+      - verseId: 15398
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 15
+        short: Иер:15:17
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Псалом Давиду, Блажен муж, иже не иде на совет нечестивых, и на пути
+        грешных не ста, и на седалищи губителей не седе:"
+      averincev: О, благо тому, кто совета с лукавыми не устроял, на стезю грешных не
+        вступал, меж кощунниками не сидел;
+      ungerov: Псалом Давида. Блажен муж, который не ходил на собрание нечестивых, и
+        на пути грешных не стоял, и в обществе губителей не сидел,
+      csya_old: "Pало1мъ дв7ду, Бlже1нъ мyжъ, и4же не и4де на совётъ нечести1выхъ, и3
+        на пути2 грёшныхъ не стA, и3 на сэдaлищи губи1телей не сёде:"
+      sovr_rbo: Блажен, кто советам нечестивых не последовал, и на путь грешников не
+        вступил, и среди хулителей не сидит,
+      latin: Beatus vir qui non abiit in consilio impiorum, et in via peccatorum non
+        stetit, et in cathedra pestilentiae non sedit;
+      ukr: Блажен муж, що за радою несправедливих не ходить, і не стоїть на дорозі
+        грішних, і не сидить на сидінні злоріків,
+      nkjv: Blessed is the man Who walks not in the counsel of the ungodly, Nor stands
+        in the path of sinners, Nor sits in the seat of the scornful;
+      desnitsky: ""
+      mt: ‫    אַשְׁרֵי־הָאִישׁ‪‬ אֲשֶׁר לֹא הָלַךְ בַּעֲצַת רְשָׁעִים וּבְדֶרֶךְ
+        חַטָּאִים לֹא עָמָד וּבְמוֹשַׁב לֵצִים לֹא יָשָׁב׃ ‬
+      romana: Al lui David. Fericit barbatul, care n-a umblat in sfatul
+        necredinciosilor si in calea pacatosilor nu a stat si pe scaunul
+        hulitorilor n-a sezut;
+      italian: Beato l'uomo che non segue il consiglio degli empi, non indugia nella
+        via dei peccatori e non siede in compagnia degli stolti;
+      old_georgian: ნეტარ არს კაცი, რომელი არა მივიდა ზრახვასა უღმრთოთასა და გზასა
+        ცოდვილთასა არა დადგა
+      portuguese: "Bem-aventurado o homem que não anda segundo o conselho dos ímpios,
+        nem se detém no caminho dos\rpecadores, nem se assenta na roda dos
+        escarnecedores;"
+      polish: "Szczęśliwy mąż, który nie idzie za radą występnych, nie wchodzi na
+        drogę\rgrzeszników i nie siada w kole szyderców,"
+      nrt: Блажен человек, который не следует совету нечестивых, не стоит на пути
+        грешников, и не сидит в собрании насмехающихся,
+      Macarius: "[Псалом Давидов.] Блажен муж, который не ходит на совет нечестивых, и
+        не стоит на пути грешных, и не сидит в собрании развратных."
+      bulgarian: Псалом Давидов. Блажен е оня човек, който не отива в събранието на
+        нечестивци, в пътя на грешници не стои и в сборището на развратители не
+        седи,
+      pavskiy: "[Псалом Давидов]. Блажен муж, который не ходит на совет нечестивых, и
+        не стоит на пути грешных, и не сидит в собрании развратных,"
+      deutsch: Wohl dem, der nicht wandelt im Rat der Gottlosen noch tritt auf den Weg
+        Sünder noch sitzt, da die Spötter sitzen,
+      ukr2: Блажен чоловік, що за порадою безбожників не ходить і на путь грішників не
+        ступає, і на засіданні блюзнірів не сідає,
+      ukr3: Б лаженний чоловік, що не ходить на раду безбожних і не ступає слїдом за
+        грішниками, анї засїдає на зборах злоріків,
+      bel_syomukha: Псальма Давідава. Дабрашчасны той муж, што ня ходзіць на раду
+        бязбожных, і не стаіць на дарозе грэшных, і не сядзіць на зборні
+        распустаў;
+      sergievsky: Слава человеку, который по совету преступных не ходил, на пути
+        грешных не стоял и в собрании развратных не сидел;
+      lev-khv: Блажен муж, который не ходил на совет нечестивых, и на пути грешных не
+        стоял, и в заседании кощунствующих не сидел;
+      czech: Blaze muzi, ktery se neridi radami svevolniku, ktery nestoji na ceste
+        hrisnych, ktery nesedava s posmevaci,
+      spanish: Bienaventurado el varón que no anda en consejo de impíos, ni en las
+        sendas de los pecadores se detiene, ni se sienta en tertulia de
+        mofadores.
+      mandelshtam: Слава человеку, который по совету преступных не ходил, на пути
+        грешных не стоял и в собрании развратных не сидел;
+      zertis-kamenskiy: "Блажен муж иже не идет на совет нечестивыхи на путь грешных
+        не ста, и на седалище губителей не седе:"
+      pakazkiy: "Блажен, кто мыслей нечестивых \rНе уклоняется во след,\rНе ходит по
+        пути строптивых,\rНе любит пагубных бесед;"
+      greek-lxx: μακάριος ἀνήρ ὃς οὐκ ἐπορεύθη ἐν βουλῇ ἀσεβῶν καὶ ἐν ὁδῷ ἁμαρτωλῶν
+        οὐκ ἔστη καὶ ἐπὶ καθέδραν λοιμῶν οὐκ ἐκάθισεν
+      st_text: <i>Псалом Давида.</i> Блажен муж, который не ходит на совет нечестивых
+        и не стоит на пути грешных и не сидит в собрании развратителей,
+  - id: 30260
+    number: 2
+    bookId: 22
+    text: но в законе Господа воля его, и о законе Его размышляет он день и ночь!
+    chapter: 1
+    chapterId: 519
+    parallels:
+      - verseId: 26897
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 1
+        short: Нав:1:8
+      - verseId: 33481
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 14
+        short: Сир:14:21
+      - verseId: 33152
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 7
+        short: Рим:7:22
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: но в законе Господни воля его, и в законе его поучится день и нощь.
+      averincev: но в законе Господнем — радость его, слова закона в уме его день и ночь.
+      ungerov: Но в законе Господнем - воля его и закону Его он будет поучаться день и
+        ночь.
+      csya_old: но въ зако1нэ гDни во1лz є3гw2, и3 въ зако1нэ є3гw2 поучи1тсz де1нь и3
+        но1щь.
+      sovr_rbo: кто Закону Господа верен, кто твердит его день и ночь.
+      latin: sed in lege Domini voluntas ejus, et in lege ejus meditabitur die ac
+        nocte.
+      ukr: та в Законі Господнім його насолода, і про Закон Його вдень та вночі він
+        роздумує!
+      nkjv: But his delight is in the law of the Lord, And in His law he meditates day
+        and night.
+      desnitsky: ""
+      mt: ‫    כִּי אִם בְּתוֹרַת יְהוָה חֶפְצוֹ וּבְתוֹרָתוֹ יֶהְגֶּה יוֹמָם
+        וָלָיְלָה׃ ‬
+      romana: Ci in legea Domnului e voia lui si la legea Lui va cugeta ziua si
+        noaptea.
+      italian: ma si compiace della legge del Signore, la sua legge medita giorno e
+        notte.
+      old_georgian: და საჯდომელსა უსჯულოთასა არა დაჯდა, არამედ შჯულსა უფლისასა არს
+        ნება მისი და შჯულსა მისსა ზრახავნ იგი დღე და ღამე.
+      portuguese: antes tem seu prazer na lei do Senhor, e na sua lei medita de dia e
+        noite.
+      polish: "lecz ma upodobanie w Prawie Pana, nad Jego Prawem rozmyśla dniem
+        i\rnocą."
+      nrt: но в Господнем Законе находит радость, и о Законе Его размышляет день и
+        ночь.
+      Macarius: Но прилепляется к закону Господа, и о законе Его помышляет день и ночь!
+      bulgarian: а в закона на Господа е волята му, и върху Неговия закон той
+        размишлява денем и нощем!
+      pavskiy: Но прилепляется к закону Господа, и о законе Его помышляет день и ночь!
+      deutsch: sondern hat Lust zum Gesetz des Herrn und redet von seinem Gesetz Tag
+        und Nacht!
+      ukr2: але в Господа законі замилування має і над його законом день і ніч
+        розважає.
+      ukr3: Но в законї Господа любується й розмишляє о законї його день і ніч!
+      bel_syomukha: а ў законе Гасподнім воля ягоная, і пра закон Ягоны ўдзень і ўначы
+        разважае!
+      sergievsky: А только к закону Господа — его влечение, и о законе Его размышляет
+        он день и ночь!
+      lev-khv: Но к закону Господа влечение его, и о законе Его помышляет день и ночь.
+      czech: nybrz si oblibil Hospodinuv zakon, nad jeho zakonem rozjima ve dne i v
+        noci.
+      spanish: Antes bien, tiene en la Ley de Yavé su complacencia y en ella medita
+        día y noche.
+      mandelshtam: А только к закону Господа — его влечение, и о законе Его размышляет
+        он день и ночь!
+      zertis-kamenskiy: Но в законе Божием воля его, и в законе его поучится день и нощь.
+      pakazkiy: "Но ум и волю покаряет\rЗакону Господа его,\rИ днем и ночью
+        повторяет\rУрок Владыки своего."
+      greek-lxx: ἀλλ᾿ ἢ ἐν τῷ νόμῳ Κυρίου τὸ θέλημα αὐτοῦ καὶ ἐν τῷ νόμῳ αὐτοῦ
+        μελετήσει ἡμέρας καὶ νυκτός
+      st_text: но в законе Господа воля его, и о законе Его размышляет он день и ночь!
+  - id: 30261
+    number: 3
+    bookId: 22
+    text: И будет он как дерево, посаженное при потоках вод, которое приносит плод
+      свой во время свое, и лист которого не вянет; и во всем, что он ни делает,
+      успеет.
+    chapter: 1
+    chapterId: 519
+    parallels:
+      - verseId: 10656
+        bookId: 1
+        bookCode: bytie
+        chapter: 39
+        short: Быт:39:3
+      - verseId: 10676
+        bookId: 1
+        bookCode: bytie
+        chapter: 39
+        short: Быт:39:23
+      - verseId: 11743
+        bookId: 4
+        bookCode: cisla
+        chapter: 24
+        short: Чис:24:6
+      - verseId: 32701
+        bookId: 22
+        bookCode: psaltir
+        chapter: 91
+        short: Пс:91:13
+      - verseId: 34325
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 4
+        short: Сир:4:14
+      - verseId: 19985
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 1
+        short: Ис:1:30
+      - verseId: 20726
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 44
+        short: Ис:44:4
+      - verseId: 21151
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 65
+        short: Ис:65:22
+      - verseId: 15431
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 17
+        short: Иер:17:8
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И будет яко древо насажденое при исходищих вод, еже плод свой даст во
+        время свое, и лист его не отпадет: и вся, елика аще творит, успеет."
+      averincev: Он, как дерево, что насаждено у самого течения вод, что в должное
+        время принесет плоды и не увянут листы его. Устроится всякое дело его.
+      ungerov: И будет он, как древо, посаженное при истоках вод, которое плод свой
+        даст во время свое, и лист его не отпадет. И все, что он ни делает,
+        будет благоуспешно.
+      csya_old: "И# бyдетъ ћкw дре1во насажде1ное при и3схо1дищихъ во1дъ, є4же пло1дъ
+        сво1й дaстъ во вре1мz свое2, и3 ли1стъ є3гw2 не tпаде1тъ: и3 вс‰,
+        є3ли6ка ѓще твори1тъ, ўспёетъ."
+      sovr_rbo: Он — как дерево, посаженное у воды, чьи плоды созревают в срок и чьи
+        листья не увядают. За что ни взялся — все идет на лад!
+      latin: "Et erit tamquam lignum quod plantatum est secus decursus aquarum, quod
+        fructum suum dabit in tempore suo: et folium ejus non defluet; et omnia
+        quaecumque faciet prosperabuntur."
+      ukr: І він буде, як дерево, над водним потоком посаджене, що родить свій плід
+        своєдчасно, і що листя не в'яне його, і все, що він чинить, щаститься
+        йому!
+      nkjv: He shall be like a tree Planted by the rivers of water, That brings forth
+        its fruit in its season, Whose leaf also shall not wither; And whatever
+        he does shall prosper.
+      desnitsky: ""
+      mt: ‫    וְהָיָה כְּעֵץ שָׁתוּל עַל־פַּלְגֵי מָיִם אֲשֶׁר פִּרְיוֹ יִתֵּן
+        בְּעִתּוֹ וְעָלֵהוּ לֹא־יִבּוֹל וְכֹל אֲשֶׁר־יַעֲשֶׂה יַצְלִיחַ׃ ‬
+      romana: "Si va fi ca un pom rasadit langa izvoarele apelor, care rodul sau va da
+        la vremea sa si frunza lui nu va cadea si toate cate va face vor spori:"
+      italian: Sarà come albero piantato lungo corsi d'acqua, che darà frutto a suo
+        tempo e le sue foglie non cadranno mai; riusciranno tutte le sue opere.
+      old_georgian: და იყოს იგი ვითარცა ხე, დანერგული თანაწარსადინელსა წყალთასა,
+        რომელმან გამოსცის ნაყოფი მისი ჟამსა თჳსსა და ფურცელნი მისნი არა
+        დასცჳვენ, და ყოველივე, რაცა ყოს, წარემართოს მას.
+      portuguese: "Pois será como a árvore plantada junto às correntes de águas, a
+        qual dá o seu fruto na estação própria, e cuja\rfolha não cai; e tudo
+        quanto fizer prosperará."
+      polish: "Jest on jak drzewo zasadzone nad płynącą wodą, które wydaje owoc w
+        swoim\rczasie, a liście jego nie więdną: co uczyni, pomyślnie wypada."
+      nrt: Он как дерево, посаженное у потоков вод, которое приносит плод в свое
+        время, и чей лист не вянет. Что бы он ни сделал, во всем преуспеет.
+      Macarius: "Он как древо, посаженное при потоках вод, которое плод свой приносит
+        в свое время, и которого лист не вянет: во всем, что он ни делает,
+        успевает."
+      bulgarian: И ще бъде той като дърво, посадено край водни потоци, което дава
+        плода си в свое време, и чийто лист не вехне; и във всичко, що върши, ще
+        успее.
+      pavskiy: "Он как древо, посаженное при потоках вод, которое плод свой приносит в
+        свое время, и котораго лист не вянет: во всем, что он ни делает,
+        успевает."
+      deutsch: Der ist wie ein Baum, gepflanzt an den Wasserbächen, der seine Frucht
+        bringt zu seiner Zeit, und seine Blätter verwelken nicht; und was er
+        macht, das gerät wohl.
+      ukr2: Він - мов те дерево, посаджене понад потоками водними, що плід свій дає у
+        свою пору й що лист його не в'яне, і все, що чинить він, йому вдається.
+      ukr3: І буде він як дерево посаджене над водистими потоками, що приносить овочі
+        свої у пору свою, і котрого лист не вяне; і що він творить, все удається
+        йому.
+      bel_syomukha: І будзе ён, быццам дрэва, над плынямі водаў пасаджанае, што
+        родзіць свой плод у свой час, і ліст у якога ня жухне; і ва ўсім, што ён
+        учыняе, пашчасьціць яму.
+      sergievsky: "Он будет как дерево, посаженное при истоках вод, которое вó-время
+        приносит плод свой, и котораго листва не вянет: так, во всем, чтó ни
+        станет он делать, успеет."
+      lev-khv: И будет он, как дерево, посаженное при потоках вод, которое плод свой
+        дает во время свое, и котораго лист не вянет; и во всем, чтó он ни
+        делает, успевает.
+      czech: Je jako strom zasazeny u tekouci vody, ktery dava sve ovoce v pravy cas,
+        jemuz listi neuvada. Vse, co podnikne, se zdari.
+      spanish: Será como árbol plantado a la vera del arroyo, que a su tiempo da su
+        fruto, cuyas hojas no se marchitan. Cuanto emprenda tendrá buen suceso.
+      mandelshtam: "Он будет как дерево, посаженное при истоках вод, которое вó-время
+        приносит плод свой, и котораго листва не вянет: так, во всем, чтó ни
+        станет он делать, успеет."
+      zertis-kamenskiy: "И будет, яко древо насажденное при потоках вод, еже плод свой
+        даст во время свое, и лист его не отпадет: и вся, еже сотворит, успеет."
+      pakazkiy: "Он древом тучным сотворится  \rЧто при потоках вод растет,\rНа коем
+        плод во время зрится, \rИ лист его не отпадет;\t\rИ все, что он творить
+        имеет,\rВоздаст ему желанный плод."
+      greek-lxx: καὶ ἔσται ὡς τὸ ξύλον τὸ πεφυτευμένον παρὰ τὰς διεξόδους τῶν ὑδάτων ὃ
+        τὸν καρπὸν αὐτοῦ δώσει ἐν καιρῷ αὐτοῦ καὶ τὸ φύλλον αὐτοῦ οὐκ
+        ἀπορρυήσεται καὶ πάντα ὅσα ἂν ποιῇ κατευοδωθήσεται
+      st_text: И будет он как дерево, посаженное при потоках вод, которое приносит
+        плод свой во время свое, и лист которого не вянет; и во всем, что он ни
+        делает, успеет.
+  - id: 30262
+    number: 4
+    bookId: 22
+    text: "Не так - нечестивые, [не так]: но они - как прах, возметаемый ветром [с
+      лица земли]."
+    chapter: 1
+    chapterId: 519
+    parallels:
+      - verseId: 19207
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 21
+        short: Иов:21:18
+      - verseId: 31547
+        bookId: 22
+        bookCode: psaltir
+        chapter: 34
+        short: Пс:34:5
+      - verseId: 32488
+        bookId: 22
+        bookCode: psaltir
+        chapter: 82
+        short: Пс:82:14
+      - verseId: 29198
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 3
+        short: Прем:3:19
+      - verseId: 29232
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 5
+        short: Прем:5:14
+      - verseId: 29241
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 5
+        short: Прем:5:23
+      - verseId: 20132
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 17
+        short: Ис:17:13
+      - verseId: 20356
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 29
+        short: Ис:29:5
+      - verseId: 28011
+        bookId: 35
+        bookCode: kniga-proroka-osii
+        chapter: 13
+        short: Ос:13:3
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Не тако нечестивии, не тако: но яко прах, егоже возметает ветр от лица
+        земли."
+      averincev: Грешные не таковы, они — как развеваемый ветром прах.
+      ungerov: "Не так нечестивые, не так: но как прах, который сметает ветер с лица
+        земли!"
+      csya_old: "Не тaкw нечести1віи, не тaкw: но ћкw прaхъ, є3го1же возметaетъ вётръ
+        t лицA земли2."
+      sovr_rbo: "Не таков удел нечестивых: они — мякина, гонимая ветром,"
+      latin: Non sic impii, non sic; sed tamquam pulvis quem projicit ventus a facie
+        terrae.
+      ukr: Не так ті безбожні, вони як полова, що вітер її розвіває!
+      nkjv: The ungodly are not so, But are like the chaff which the wind drives away.
+      desnitsky: ""
+      mt: ‫    לֹא־כֵן הָרְשָׁעִים כִּי אִם־כַּמֹּץ אֲשֶׁר־תִּדְּפֶנּוּ רוּחַ׃ ‬
+      romana: Nu sunt asa necredinciosii, nu sunt asa! Ci ca praful ce-l spulbera
+        vantul de pe fata pamantului.
+      italian: "Non così, non così gli empi: ma come pula che il vento disperde;"
+      old_georgian: არა ესე უღმრთონი, არა ესრე, არამედ ვითარცა მტუერი, რომელ აგავის
+        ქარმან პირისაგან ქუეყანისა.
+      portuguese: Não são assim os ímpios, mas são semelhantes à moinha que o vento
+        espalha.
+      polish: "Nie tak występni, nie tak: są oni jak plewa, którą wiatr rozmiata."
+      nrt: Не таковы нечестивые! Они как мякина, которую гонит ветер.
+      Macarius: "Не так с нечестивыми: они как прах, развеваемый ветром."
+      bulgarian: Не тъй са нечестивците, (не тъй;) но те са като прах, що вятърът
+        измита (от земното лице).
+      pavskiy: "Не так с нечестивыми: они как прах, развеваемый ветром."
+      deutsch: Aber so sind die Gottlosen nicht, sondern wie Spreu, die der Wind
+        verstreut.
+      ukr2: Не так безбожники. Вони - немов полова, що вітер розвіває.
+      ukr3: "Не так безбожні: вони, як полова, що вітер розносить."
+      bel_syomukha: Ня так у бязбожнікаў; яны - быццам пыл, ветрам падняты.
+      sergievsky: Не так преступные! Они как мякина, развеваемая ветром.
+      lev-khv: "Не так нечестивые: <i>они</i>, как мякина, которую развевает ветер."
+      czech: "Se svevolniky je tomu jinak: jsou jak plevy hnane vetrem."
+      spanish: No así los impíos, sino que son como paja que arrebata el viento.
+      mandelshtam: Не так преступные! Они как мякина, развеваемая ветром.
+      zertis-kamenskiy: "Не тако нечестивии: но яко плевы их же возметает ветр."
+      pakazkiy: "Не так, не так растет и спеет Поносный нечестивых род;\r\r \rНо яко
+        прах, что силой ветра Подъемлем от лица земли, Лишенный собственнаго
+        недра, Разсеян падает вдали."
+      greek-lxx: οὐχ οὕτως οἱ ἀσεβεῖς οὐχ οὕτως ἀλλ᾿ ἢ ὡς ὁ χνοῦς ὃν ἐκριπτεῖ ὁ ἄνεμος
+        ἀπὸ προσώπου τῆς γῆς
+      st_text: "Не так - нечестивые, [не так]: но они - как прах, возметаемый ветром
+        [с лица земли]."
+  - id: 30263
+    number: 5
+    bookId: 22
+    text: Потому не устоят нечестивые на суде, и грешники - в собрании праведных.
+    chapter: 1
+    chapterId: 519
+    parallels:
+      - verseId: 25659
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 25
+        short: Мф:25:32
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Сего ради не воскреснут нечестивии на суд, ниже грешницы в совет
+        праведных.
+      averincev: Грешные на суде не устоят, лукавым меж праведных места нет;
+      ungerov: Посему не восстанут нечестивые на суд и грешники в собрание праведных.
+      csya_old: Сегw2 рaди не воскре1снутъ нечести1віи на сyдъ, ниже2 грBшницы въ
+        совётъ првdныхъ.
+      sovr_rbo: нечестивым не устоять на суде, грешным — в собрании праведных!
+      latin: Ideo non resurgent impii in judicio, neque peccatores in concilio
+        justorum,
+      ukr: Ось тому то не встоять безбожні на суді, ані грішники у зборі праведних,
+      nkjv: Therefore the ungodly shall not stand in the judgment, Nor sinners in the
+        congregation of the righteous.
+      desnitsky: ""
+      mt: ‫    עַל־כֵּן לֹא־יָקֻמוּ רְשָׁעִים בַּמִּשְׁפָּט וְחַטָּאִים בַּעֲדַת
+        צַדִּיקִים׃ ‬
+      romana: Atunci va grai catre ei intru urgia Lui si intru mania Lui ii va tulbura
+        pe ei;
+      italian: perciò non reggeranno gli empi nel giudizio, né i peccatori
+        nell'assemblea dei giusti.
+      old_georgian: ამისთჳს არა აღდგენ უღმრთონი სასჯელსა, არცა ცოდვილნი ზრახვასა მართალთასა;
+      portuguese: Pelo que os ímpios não subsistirão no juízo, nem os pecadores na
+        congregação dos justos;
+      polish: "Toteż występni nie ostoją się na sądzie ani grzesznicy - w
+        zgromadzeniu\rsprawiedliwych,"
+      nrt: Поэтому не устоят на суде нечестивые и грешники в собрании праведных.
+      Macarius: И так не устоят нечестивые на суде, и грешники в собрании праведных.
+      bulgarian: Затова нечестивците не ще устоят на съда, и грешниците - в събранието
+        на праведните.
+      pavskiy: И так не устоят нечестивые на суде, и грешники в собрании праведных.
+      deutsch: Darum bleiben die Gottlosen nicht im Gericht noch die Sünder in der
+        Gemeinde der Gerechten.
+      ukr2: Тому безбожники на суді не остояться, ні грішники на праведників зборах.
+      ukr3: Тому не встоять безбожні на судї, анї грішні у зборі праведних;
+      bel_syomukha: Таму ня ўстояць бязбожнікі на Божым судзе, а грэшнікі - на сходзе
+        праведных.
+      sergievsky: Преступные по-делóм не устоят на суде, ни грешные — в соборе праведных.
+      lev-khv: Поэтому не устоят нечестивые на суде и грешники в собрании праведных;
+      czech: Na soudu svevolni neobstoji, ani hrisni v shromazdeni spravedlivych.
+      spanish: Por eso no prevalecerán los impíos en el juicio, ni los pecadores en la
+        congregación de los justos.
+      mandelshtam: Преступные по-делóм не устоят на суде, ни грешные — в соборе праведных.
+      zertis-kamenskiy: "Сего ради не устоят нечестивии на суде: ниже грешницы в сонме
+        праведных."
+      pakazkiy: "Так не воскреснут нечестивы На суд с благими на ровне,\rНиже
+        поставятся строптивы В одной с избранными стране."
+      greek-lxx: διὰ τοῦτο οὐκ ἀναστήσονται ἀσεβεῖς ἐν κρίσει οὐδὲ ἁμαρτωλοὶ ἐν βουλῇ
+        δικαίων
+      st_text: Потому не устоят нечестивые на суде, и грешники - в собрании праведных.
+  - id: 30264
+    number: 6
+    bookId: 22
+    text: Ибо знает Господь путь праведных, а путь нечестивых погибнет.
+    chapter: 1
+    chapterId: 519
+    parallels:
+      - verseId: 19983
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 1
+        short: Ис:1:28
+      - verseId: 26849
+        bookId: 41
+        bookCode: kniga-proroka-nauma
+        chapter: 1
+        short: Наум:1:7
+      - verseId: 17950
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 10
+        short: Ин:10:14
+      - verseId: 6746
+        bookId: 73
+        bookCode: 2oe-poslanie-k-timofeu-ap-pavla
+        chapter: 2
+        short: 2 Тим:2:19
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Яко весть Господь путь праведных, и путь нечестивых погибнет.
+      averincev: путь праведных ведает Господь, но потерян лукавых путь.
+      ungerov: Ибо знает Господь путь праведных, а путь нечестивых погибнет.
+      csya_old: Ћкw вёсть гDь пyть првdныхъ, и3 пyть нечести1выхъ поги1бнетъ.
+      sovr_rbo: За путем праведных смотрит Господь, а путь нечестивых — гибель.
+      latin: quoniam novit Dominus viam justorum; et iter impiorum peribit.
+      ukr: дорогу бо праведних знає Господь, а дорога безбожних загине!
+      nkjv: For the Lord knows the way of the righteous, But the way of the ungodly
+        shall perish.
+      desnitsky: ""
+      mt: ‫    כִּי־יוֹדֵעַ יְהוָה דֶּרֶךְ צַדִּיקִים וְדֶרֶךְ רְשָׁעִים תֹּאבֵד׃ ‬
+      romana: Iar Eu sunt pus imparat de El peste Sion, muntele cel sfant al Lui,
+        vestind porunca Domnului.
+      italian: Il Signore veglia sul cammino dei giusti, ma la via degli empi andrà in
+        rovina.
+      old_georgian: რამეთუ უწყის უფალმან გზაჲ მართალთა და გზაჲ უღმრთოთა წარწყმდეს.
+      portuguese: porque o Senhor conhece o caminho dos justos, mas o caminho dos
+        ímpios conduz à ruína.
+      polish: bo Pan uznaje drogę sprawiedliwych, a droga występnych zaginie.
+      nrt: Ведь Господь охраняет путь праведных, а путь нечестивых погибнет.
+      Macarius: Ибо знает Господь путь праведных; путь нечестивых погибнет.
+      bulgarian: Защото Господ знае пътя на праведните, а пътят на нечестивците ще погине.
+      pavskiy: Ибо знает Господь путь праведных; а путь нечестивых погибнет.
+      deutsch: Denn der Herr kennt den Weg der Gerechten; aber der Gottlosen Weg
+        vergeht.
+      ukr2: Бо про путь праведників Господь дбає, а путь безбожників пропаде.
+      ukr3: Знає бо Господь про дорогу праведних, а дорога безбожних щезне.
+      bel_syomukha: Бо дарогу праведных ведае Гасподзь, а дарога бязбожнікаў прападзе!
+      sergievsky: Ибо знает Господь путь праведных, а путь преступных пропадает.
+      lev-khv: Потому что охраняет Господь путь праведных; а путь нечестивых погибнет.
+      czech: Hospodin zna cestu spravedlivych, ale cesta svevolniku vede do zahuby.
+      spanish: Pues conoce Yavé el camino de los justos, pero la senda de los
+        pecadores acaba mal.
+      mandelshtam: Ибо знает Господь путь праведных, а путь преступных пропадает.
+      zertis-kamenskiy: "Яко весть Бог путь праведных: а путь нечестивых погибнет."
+      pakazkiy: От века праведно ходящих Господь предвидит и блюдет А род в нечестии
+        блудящих Путем сим в пагубу идет.
+      greek-lxx: ὅτι γινώσκει Κύριος ὁδὸν δικαίων καὶ ὁδὸς ἀσεβῶν ἀπολεῖται
+      st_text: Ибо знает Господь путь праведных, а путь нечестивых погибнет.

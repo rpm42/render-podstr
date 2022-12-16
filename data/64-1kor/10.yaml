@@ -1,0 +1,2444 @@
+id: 1277
+number: 10
+bookId: 64
+verseCount: 33
+title: Глава 10
+verses:
+  - id: 1317
+    number: 1
+    bookId: 64
+    text: Не хочу оставить вас, братия, в неведении, что отцы наши все были под
+      облаком, и все прошли сквозь море;
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 21379
+        bookId: 2
+        bookCode: ishod
+        chapter: 13
+        short: Исх:13:21
+      - verseId: 21402
+        bookId: 2
+        bookCode: ishod
+        chapter: 14
+        short: Исх:14:22
+      - verseId: 22319
+        bookId: 2
+        bookCode: ishod
+        chapter: 40
+        short: Исх:40:38
+      - verseId: 12474
+        bookId: 4
+        bookCode: cisla
+        chapter: 9
+        short: Чис:9:18
+      - verseId: 12475
+        bookId: 4
+        bookCode: cisla
+        chapter: 9
+        short: Чис:9:19
+      - verseId: 12110
+        bookId: 4
+        bookCode: cisla
+        chapter: 33
+        short: Чис:33:8
+      - verseId: 20608
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 4
+        short: Ис:4:5
+    translates:
+      kassian: Я не хочу, чтобы вы были в неведении, братья, что отцы наши все были
+        под облаком и все прошли сквозь море,
+      podstr: Не хочу ведь вас не знать, братья, что отцы наши все под облаком были и
+        все через море прошли,
+      csya: "Не хощу же вас не ведети, братие, яко отцы наши вси под облаком быша, и
+        вси сквозе море проидоша:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Не хощy же вaсъ не вёдэти, брaтіе, ћкw nтцы2 нaши вси2 под8 њ1блакомъ
+        бы1ша, и3 вси2 сквозЁ мо1ре проидо1ша:"
+      sovr_rbo: ""
+      latin: Nolo enim vos ignorare fratres, quoniam patres nostri omnes sub nube
+        fuerunt, et omnes mare transierunt,
+      ukr: Не хочу я, браття, щоб ви не знали, що під хмарою всі отці наші були, і всі
+        перейшли через море,
+      nkjv: Moreover, brethren, I do not want you to be unaware that all our fathers
+        were under the cloud, all passed through the sea,
+      desnitsky: "Не хочу оставлять вас в неведении, братья: при Исходе наши праотцы
+        все были под тенью облака и все прошли через море –"
+      tex_rec: Οὐ θέλω γὰρ ὑμᾶς ἀγνοεῖν, ἀδελφοί, ὅτι οἱ πατέρες ἡμῶν πάντες ὑπὸ τὴν
+        νεφέλην ἦσαν καὶ πάντες διὰ τῆς θαλάσσης διῆλθον,
+      deutsch: Ich will euch aber, liebe Brüder, nicht verhalten, daß unsre Väter sind
+        alle unter der Wolke gewesen und sind alle durchs Meer gegangen
+      spanish: No quiero, hermanos, que ignoréis que nuestros padres estuvieron todos
+        bajo la nube, que todos atravesaron el mar
+      peshitta: ܨܳܒ݂ܶܐ ܐ݈ܢܳܐ ܕ݁ܶܝܢ ܕ݁ܬ݂ܶܕ݁ܥܽܘܢ ܐܰܚܰܝ ܕ݁ܰܐܒ݂ܳܗܰܝܢ ܟ݁ܽܠܗܽܘܢ ܬ݁ܚܶܝܬ݂
+        ܥܢܳܢܳܐ ܗܘܰܘ ܘܟ݂ܽܠܗܽܘܢ ܒ݁ܝܰܡܳܐ ܥܒ݂ܰܪܘ܂
+      bel_syomukha: Не хачу пакінуць вас, браты, і каб вы ня ведалі, што бацькі нашыя
+        ўсе былі пад хмараю, і ўсе прайшлі праз мора;
+      nrt: Братья, я хочу, чтобы вы знали о том, что все наши праотцы находились под
+        облаком и что все они прошли сквозь море.
+      romana: Caci nu voiesc, fratilor, ca voi sa nu stiti ca parintii nostri au fost
+        toti sub nor si ca toti au trecut prin mare.
+      francais: Frères, je ne veux pas que vous ignoriez que nos pères ont tous été
+        sous la nuée, qu'ils ont tous passé au travers de la mer,
+      italian: Non voglio infatti che ignoriate, o fratelli, che i nostri padri furono
+        tutti sotto la nuvola, tutti attraversarono il mare,
+      old_georgian: არა მნებავს უმეცრებაჲ თქუენი, ძმანო, რამეთუ მამანი ჩუენნი ყოველნი
+        ღრუბელსა ქუეშე იყვნეს და ყოველნი ზღუასა განჴდეს.
+      portuguese: "Pois não quero, irmãos, que ignoreis que nossos pais estiveram
+        todos debaixo da nuvem, e todos passaram pelo\rmar;"
+      polish: "Nie chciałbym, bracia, żebyście wiedzieli, że nasi ojcowie wszyscy, co
+        prawda\rzostawali pod obłokiem, wszyscy przeszli przez morze"
+      new_text: Ведь я хочу, чтобы вы знали, братья, что предки наши все были под
+        облаком, и все прошли через море,
+      serbian: А нећу да не знате, браћо, да оци наши сви под облаком бијаху, и
+        сви  кроз море прођоше,
+      bulgarian: Не искам, братя, да не знаете, че бащите ни всички под облака бяха и
+        всички през морето минаха;
+      ukr2: Не хочу бо, брати, щоб ви не знали, що всі наші батьки були під хмарою, що
+        всі перейшли через море,
+      ukr3: Не хочу ж, браттє, щоб ви не знали, що отцї наші всї під хмарою були, і
+        всї через море переходили;
+      czech: Chtel bych vam pripomenout, bratri, ze nasi praotcove byli vsichni pod
+        oblakovym sloupem, vsichni prosli morem,
+      st_text: Не хочу оставить вас, братия, в неведении, что отцы наши все были под
+        облаком, и все прошли сквозь море;
+  - id: 1318
+    number: 2
+    bookId: 64
+    text: и все крестились в Моисея в облаке и в море;
+    chapter: 10
+    chapterId: 1277
+    parallels: []
+    translates:
+      kassian: и все в Моисея были крещены, в облаке и в море,
+      podstr: и все в Моисея были погружены в облаке и в море,
+      csya: "и вси в моисеа крестишася во облаце и в мори:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 вси2 въ мwmсе1а крести1шасz во њ1блацэ и3 въ мо1ри:"
+      sovr_rbo: ""
+      latin: "et omnes in Moyse baptizati sunt in nube, et in mari:"
+      ukr: і всі охристилися в хмарі та в морі в Мойсея,
+      nkjv: all were baptized into Moses in the cloud and in the sea,
+      desnitsky: в облаке и море все они приняли крещение во имя Моисея.
+      tex_rec: καὶ πάντες εἰς τὸν Μωϋσῆν ἐβαπτίσαντο ἐν τῇ νεφέλῃ καὶ ἐν τῇ θαλάσσῃ,
+      deutsch: und sind alle auf Mose getauft mit der Wolke und dem Meer
+      spanish: y todos siguieron a Moisés bajo la nube y por el mar;
+      peshitta: ܘܟ݂ܽܠܗܽܘܢ ܒ݁ܝܰܕ݂ ܡܽܘܫܶܐ ܥܡܰܕ݂ܘ ܒ݁ܰܥܢܳܢܳܐ ܘܰܒ݂ܝܰܡܳܐ܂
+      bel_syomukha: і ўсе хрысьціліся ў Майсея ў хмары і ў моры;
+      nrt: Они все были крещены в Моисея, в облако и в море.
+      romana: Si toti, intru Moise, au fost botezati in nor si in mare.
+      francais: qu'ils ont tous été baptisés en Moïse dans la nuée et dans la mer,
+      italian: tutti furono battezzati in rapporto a Mosè nella nuvola e nel mare,
+      old_georgian: და ყოველთა მოსეს მიერ ნათელ-იღეს ღრუბლითა მით და ზღჳთა;
+      portuguese: e, na nuvem e no mar, todos foram batizados em Moisés,
+      polish: i wszyscy byli ochrzczeni w [imię] Mojżesza, w obłoku i w morzu;
+      new_text: и все были омыты во имя Моисея в облаке и море.
+      serbian: И сви се у Мојсеја крстише у облаку и мору;
+      bulgarian: и всички в Моисея се кръстиха в облака и в морето;
+      ukr2: що всі христились у Мойсея, у хмарі та в морі,
+      ukr3: Хвалю ж вас, браттє, що все моє памятаєте і, яко ж я передав вам, перекази
+        держите.
+      czech: vsichni byli krtem v oblaku a mori spojeni s Mojzisem,
+      st_text: и все крестились в Моисея в облаке и в море;
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 1319
+    number: 3
+    bookId: 64
+    text: и все ели одну и ту же духовную пищу;
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 21452
+        bookId: 2
+        bookCode: ishod
+        chapter: 16
+        short: Исх:16:14
+      - verseId: 21453
+        bookId: 2
+        bookCode: ishod
+        chapter: 16
+        short: Исх:16:15
+      - verseId: 11288
+        bookId: 4
+        bookCode: cisla
+        chapter: 11
+        short: Чис:11:7
+      - verseId: 36863
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 8
+        short: Втор:8:16
+      - verseId: 32358
+        bookId: 22
+        bookCode: psaltir
+        chapter: 77
+        short: Пс:77:24
+      - verseId: 18571
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 6
+        short: Ин:6:31
+    translates:
+      kassian: и все вкусили одну и ту же духовную пищу,
+      podstr: и все туже духовную пищу съели,
+      csya: "и вси тожде брашно духовное ядоша:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 вси2 то1жде брaшно духо1вное kдо1ша:"
+      sovr_rbo: ""
+      latin: et omnes eamdem escam spiritalem manducaverunt,
+      ukr: і всі їли ту саму поживу духовну,
+      nkjv: all ate the same spiritual food,
+      desnitsky: Все они ели одну и ту же пищу, дарованную Духом,
+      tex_rec: καὶ πάντες τὸ αὐτὸ πνευματικὸν βρῶμα ἔφαγον,
+      deutsch: und haben alle einerlei geistliche Speise gegessen
+      spanish: que todos comieron el mismo pan espiritual y todos bebieron la misma
+        bebida espiritual,
+      peshitta: ܘܟ݂ܽܠܗܽܘܢ ܚܕ݂ܳܐ ܡܶܐܟ݂ܽܘܠܬ݁ܳܐ ܕ݁ܪܽܘܚܳܐ ܐܶܟ݂ܰܠܘ܂
+      bel_syomukha: і ўсе елі адну і тую самую духоўную страву;
+      nrt: Они все ели одну и ту же духовную пищу
+      romana: Si toti au mancat aceeasi mancare duhovniceasca;
+      francais: qu'ils ont tous mangé le même aliment spirituel,
+      italian: tutti mangiarono lo stesso cibo spirituale,
+      old_georgian: და ყოველთა იგივე საზრდელი სულიერი ჭამეს;
+      portuguese: e todos comeram do mesmo alimento espiritual;
+      polish: wszyscy też spożywali ten sam pokarm duchowy
+      new_text: Все они ели одну и ту же духовную пищу
+      serbian: И сви исто јело духовно једоше;
+      bulgarian: и всички ядоха една и съща духовна храна;
+      ukr2: що всі їли ту саму духовну страву,
+      ukr3: Хочу ж, щоб ви знали, що всякому чоловікові голова Христос, голова жінцї
+        чоловік, голова ж Христу - Бог.
+      czech: vsichni jedli tyz duchovni pokrm
+      st_text: и все ели одну и ту же духовную пищу;
+  - id: 1320
+    number: 4
+    bookId: 64
+    text: "и все пили одно и то же духовное питие: ибо пили из духовного
+      последующего камня; камень же был Христос."
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 21480
+        bookId: 2
+        bookCode: ishod
+        chapter: 17
+        short: Исх:17:6
+      - verseId: 11612
+        bookId: 4
+        bookCode: cisla
+        chapter: 20
+        short: Чис:20:10
+      - verseId: 28940
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 11
+        short: Прем:11:4
+      - verseId: 20824
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 48
+        short: Ис:48:21
+      - verseId: 37105
+        bookId: 45
+        bookCode: kniga-proroka-zaharii
+        chapter: 9
+        short: Зах:9:15
+    translates:
+      kassian: и все пили одно и то же духовное питиё; ибо пили из духовной скалы,
+        следовавшей за ними. А скала - это был Христос.
+      podstr: и все тоже духовное выпили питьё; они пили ведь из духовной
+        сопровождающей скалы; скала же была Христос.
+      csya: "и вси тожде пиво духовное пиша, пияху бо от духовнаго последующаго
+        камене: камень же бе Христос."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 вси2 то1жде пи1во духо1вное пи1ша, піsху бо t духо1внагw
+        послёдующагw кaмене: кaмень же бЁ хrто1съ."
+      sovr_rbo: ""
+      latin: "et omnes eumdem potum spiritalem biberunt (bibebant autem de spiritali,
+        consequente eos, petra: petra autem erat Christus):"
+      ukr: і пили всі той самий духовний напій, бо пили від духовної скелі, що йшла
+        вслід за ними, а та скеля був Христос!
+      nkjv: and all drank the same spiritual drink. For they drank of that spiritual
+        Rock that followed them, and that Rock was Christ.
+      desnitsky: и все пили воду, дарованную Духом. Они пили из скалы, которая
+        сопровождала их, а эта скала есть Христос.
+      tex_rec: καὶ πάντες τὸ αὐτὸ πνευματικὸν ἔπιον πόμα· ἔπινον γὰρ ἐκ πνευματικῆς
+        ἀκολουθούσης πέτρας· ἡ πέτρα δὲ ἦν ὁ Χριστός.
+      deutsch: und haben alle einerlei geistlichen Trank getrunken; sie tranken aber
+        vom geistlichen Fels, der mitfolgte, welcher war Christus.
+      spanish: pues bebían de la roca espiritual que los seguía, y la roca era Cristo;
+      peshitta: ܘܟ݂ܽܠܗܽܘܢ ܚܰܕ݂ ܡܰܫܬ݁ܝܳܐ ܕ݁ܪܽܘܚܳܐ ܐܶܫܬ݁ܺܝܘ ܫܳܬ݂ܶܝܢ ܗ݈ܘܰܘ ܓ݁ܶܝܪ ܡܶܢ
+        ܟ݁ܺܐܦ݂ܳܐ ܕ݁ܪܽܘܚܳܐ ܕ݁ܳܐܬ݂ܝܳܐ ܗ݈ܘܳܬ݂ ܥܰܡܗܽܘܢ ܟ݁ܺܐܦ݂ܳܐ ܕ݁ܶܝܢ ܗܳܝ ܗܽܘ ܗܘܳܐ
+        ܡܫܺܝܚܳܐ܂
+      bel_syomukha: і ўсе пілі адно і тое самае духоўнае пітво, бо пілі з духоўнай
+        скалы, якая ішла сьледам за імі; а скала тая была Ісус Хрыстос.
+      nrt: и пили одно и то же духовное питье. Они пили из духовной скалы, которая
+        сопровождала их, и скалой этой был Христос.
+      romana: Si toti, aceeasi bautura duhovniceasca au baut, pentru ca beau din
+        piatra duhovniceasca ce ii urma. Iar piatra era Hristos.
+      francais: et qu'ils ont tous bu le même breuvage spirituel, car ils buvaient à
+        un rocher spirituel qui les suivait, et ce rocher était Christ.
+      italian: "tutti bevvero la stessa bevanda spirituale: bevevano infatti da una
+        roccia spirituale che li accompagnava, e quella roccia era il Cristo."
+      old_georgian: და ყოველთა იგივე სასუმელი სულიერი სუეს; რამეთუ სუმიდეს იგინი
+        სულიერისა მისგან კლდისა, რომელიცა შეუდგა; ხოლო კლდე იგი იყო ქრისტე.
+      portuguese: "e beberam todos da mesma bebida espiritual, porque bebiam da pedra
+        espiritual que os acompanhava; e a pedra\rera Cristo."
+      polish: "i pili ten sam duchowy napój. Pili zaś z towarzyszącej im duchowej
+        skały, a\rta skała - to był Chrystus."
+      new_text: и одно и то же духовное пили питье. Ведь они пили из духовной скалы,
+        шедшей с ними, а скала эта была Христос.
+      serbian: И сви исто пиће духовно пише; јер пијаху од духовне стијене која их је
+        слиједила, а стијена бјеше Христос.
+      bulgarian: и всички пиха едно и също духовно питие; защото пиеха от духовния
+        камък, който идеше подире им; а камъкът беше Христос.
+      ukr2: що всі пили те саме духовне питво, бо пили з духовної, що йшла за ними,
+        скелі - скеля ж був Христос.
+      ukr3: Усякий чоловік, що молить ся або пророкує, покривши голову, осоромлює
+        голову свою.
+      czech: a pili tyz duchovni napoj; pili totiz z duchovni skaly, ktera je
+        doprovazela, a tou skalou byl Kristus.
+      st_text: "и все пили одно и то же духовное питие: ибо пили из духовного
+        последующего камня; камень же был Христос."
+  - id: 1321
+    number: 5
+    bookId: 64
+    text: Но не о многих из них благоволил Бог, ибо они поражены были в пустыне.
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 11388
+        bookId: 4
+        bookCode: cisla
+        chapter: 14
+        short: Чис:14:23
+      - verseId: 11845
+        bookId: 4
+        bookCode: cisla
+        chapter: 26
+        short: Чис:26:65
+      - verseId: 36901
+        bookId: 45
+        bookCode: kniga-proroka-zaharii
+        chapter: 1
+        short: Зах:1:5
+    translates:
+      kassian: Но не о многих из них благоволил Бог; ибо они были поражены в пустыне.
+      podstr: Но не в очень многих их обрёл удовольствие Бог, они были низвержены ведь
+        в пустыне.
+      csya: Но не во множайших их благоволи Бог, поражени бо быша в пустыни.
+      averincev: ""
+      ungerov: ""
+      csya_old: Но не во мно1жайшихъ и4хъ бlговоли2 бг7ъ, пораже1ни бо бы1ша въ пусты1ни.
+      sovr_rbo: ""
+      latin: "sed non in pluribus eorum beneplacitum est Deo: nam prostrati sunt in
+        deserto."
+      ukr: Але їх багатьох не вподобав був Бог, бо понищив Він їх у пустині.
+      nkjv: But with most of them God was not well pleased, for their bodies were
+        scattered in the wilderness.
+      desnitsky: Но для многих из них воля Божья не была благой, и они остались лежать
+        в пустыне.
+      tex_rec: ἀλλ᾽ οὐκ ἐν τοῖς πλείοσιν αὐτῶν εὐδόκησεν ὁ θεός, κατεστρώθησαν γὰρ ἐν
+        τῇ ἐρήμῳ.
+      deutsch: Aber an ihrer vielen hatte Gott kein Wohlgefallen; denn sie wurden
+        niedergeschlagen in der Wüste.
+      spanish: pero Dios no se agradó de la mayor parte de ellos, pues fueron
+        postrados en el desierto.
+      peshitta: ܐܶܠܳܐ ܠܳܐ ܗ݈ܘܳܐ ܒ݁ܣܽܘܓ݂ܐܗܽܘܢ ܐܶܨܛܒ݂ܺܝ ܐܰܠܳܗܳܐ ܢܦ݂ܰܠܘ ܓ݁ܶܝܪ ܒ݁ܡܰܕ݂ܒ݁ܪܳܐ܂
+      bel_syomukha: Але ня шмат каго ўпадабаў Бог; бо яны панішчаны былі ў пустыні.
+      nrt: Но ко многим из них Бог не был благосклонен и в конце концов их тела усеяли
+        пустыню.
+      romana: Dar cei mai multi dintre ei nu au placut lui Dumnezeu, caci au cazut in
+        pustie.
+      francais: Mais la plupart d'entre eux ne furent point agréables à Dieu,
+        puisqu'ils périrent dans le désert.
+      italian: Ma della maggior parte di loro Dio non si compiacque e perciò furono
+        abbattuti nel deserto.
+      old_georgian: არამედ არა მრავალნი მათგანნი სათნო-იყვნა ღმერთმან, რამეთუ დაეცნეს
+        იგინი უდაბნოსა ზედა.
+      portuguese: Mas Deus não se agradou da maior parte deles; pelo que foram
+        prostrados no deserto.
+      polish: Lecz w większości z nich nie upodobał sobie Bóg; polegli bowiem na
+        pustyni.
+      new_text: И все же большинство их не обрели милости у Бога и своими телами
+        устлали пустыню.
+      serbian: Али већина од њих не бјеше по Божијој вољи, јер бише побијени у пустињи.
+      bulgarian: Но към повечето от тях Бог не благоизволи, защото бидоха изповалени в
+        пустинята.
+      ukr2: Одначе, багато з них були не боговгодні, тому вони й полягли в пустині.
+      ukr3: Усяка ж жінка, що молить ся або пророкує, не покривши голови, осоромлює
+        голову свою; одно ж бо воно й те саме, якби була й обголена.
+      czech: A prece se vetsina z nich Bohu nelibila; vzdyt ‚poust byla poseta jejich
+        tely‘.
+      st_text: Но не о многих из них благоволил Бог, ибо они поражены были в пустыне.
+  - id: 1322
+    number: 6
+    bookId: 64
+    text: А это были образы для нас, чтобы мы не были похотливы на злое, как они
+      были похотливы.
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 11285
+        bookId: 4
+        bookCode: cisla
+        chapter: 11
+        short: Чис:11:4
+    translates:
+      kassian: А это стало образом для нас, чтобы мы не вожделели зла, как вожделели
+        они.
+      podstr: Это же образцы наши были осуществлены, для не быть нам охотникам зла,
+        как и те пожелали.
+      csya: Сия же образи нам быша, яко не быти нам похотником злых, якоже и они
+        похотеша.
+      averincev: ""
+      ungerov: ""
+      csya_old: Сі‰ же њ1брази нaмъ бы1ша, ћкw не бы1ти нaмъ похотникHмъ ѕлы1хъ, ћкоже
+        и3 nни2 похотёша.
+      sovr_rbo: ""
+      latin: Haec autem in figura facta sunt nostri, ut non simus concupiscentes
+        malorum, sicut et illi concupierunt.
+      ukr: А це були приклади нам, щоб ми пожадливі на зле не були, як були пожадливі
+        й вони.
+      nkjv: Now these things became our examples, to the intent that we should not
+        lust after evil things as they also lusted.
+      desnitsky: Всё это и для нас стало прообразом, чтобы мы не жаждали зла, как это
+        было с ними.
+      tex_rec: ταῦτα δὲ τύποι ἡμῶν ἐγενήθησαν, εἰς τὸ μὴ εἶναι ἡμᾶς ἐπιθυμητὰς κακῶν,
+        καθὼς κἀκεῖνοι ἐπεθύμησαν.
+      deutsch: Das ist aber uns zum Vorbilde geschehen, daß wir nicht uns gelüsten
+        lassen des Bösen, gleichwie jene gelüstet hat.
+      spanish: Esto fue en figura nuestra, para que no codiciemos lo malo, como lo
+        codiciaron ellos,
+      peshitta: ܗܳܠܶܝܢ ܕ݁ܶܝܢ ܛܽܘܦ݂ܣܳܐ ܠܰܢ ܗ݈ܽܘ ܗܘܰܘ ܕ݁ܠܳܐ ܗܘܰܝܢ ܪܳܓ݁ܺܝܢ ܒ݁ܺܝܫܳܬ݂ܳܐ
+        ܐܰܝܟ݁ܰܢܳܐ ܕ݁ܗܶܢܽܘܢ ܪܰܓ݂ܘ܂
+      bel_syomukha: А гэта былі прыклады нам, каб мы не самахоціліся на ліхое, а
+        самахоціліся яны.
+      nrt: "Все это служит нам примером: мы не должны желать зла, как желали они."
+      romana: Si acestea s-au facut pilde pentru noi, ca sa nu poftim la cele rele,
+        cum au poftit aceia;
+      francais: Or, ces choses sont arrivées pour nous servir d'exemples, afin que
+        nous n'ayons pas de mauvais désirs, comme ils en ont eu.
+      italian: Ora ciò avvenne come esempio per noi, perché non desiderassimo cose
+        cattive, come essi le desiderarono.
+      old_georgian: და ესენი სახე ჩუენდა იქმნეს, რაჲთა არა ვიყვნეთ ჩუენ გულის მთქუმელ
+        ბოროტისა, ვითარცა-იგი მათ გული უთქუმიდა.
+      portuguese: "Ora, estas coisas nos foram feitas para exemplo, a fim de que não
+        cobicemos as coisas más, como eles\rcobiçaram."
+      polish: "Stało się zaś to wszystko, by mogło posłużyć za przykład dla nas,
+        abyśmy\rnie pożądali złego, tak jak oni pożądali."
+      new_text: Все это случилось как предостережение для нас, чтобы мы не пожелали
+        дурного, как пожелали те.
+      serbian: А ово бише примјери нама, да не желимо зла као што они жељеше.
+      bulgarian: А това бидоха образи за нас, за да не бъдем похотливи на зло, както и
+        те бяха похотливи.
+      ukr2: А сталося це, щоб нам бути прикладом, щоб ми лихого не пожадали, як вони
+        пожадали.
+      ukr3: Коли бо не покриваєть ся жінка, нехай і стрижеть ся; коли ж сором жінцї
+        стригти ся чи голити ся, нехай покриваєть ся.
+      czech: To vse se stalo nam na vystrahu, abychom nezatouzili po zlem jako oni.
+      st_text: А это были образы для нас, чтобы мы не были похотливы на злое, как они
+        были похотливы.
+  - id: 1323
+    number: 7
+    bookId: 64
+    text: "Не будьте также идолопоклонниками, как некоторые из них, о которых
+      написано: народ сел есть и пить, и встал играть."
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 21982
+        bookId: 2
+        bookCode: ishod
+        chapter: 32
+        short: Исх:32:6
+      - verseId: 30429
+        bookId: 22
+        bookCode: psaltir
+        chapter: 105
+        short: Пс:105:19
+    translates:
+      kassian: "Не будьте и идолопоклонниками, как некоторые из них, согласно тому,
+        как написано: народ сел есть и пить, и встали они играть."
+      podstr: И не идолопоклонники делайтесь, как некоторые [из] них; как написано,
+        Сел народ съесть и попить, и они встали играть.
+      csya: "Ни идолослужителе бывайте, якоже нецыи от них, якоже есть писано: седоша
+        людие ясти и пити, и восташа играти."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Ни їдwлослужи1телє бывaйте, ћкоже нёцыи t ни1хъ, ћкоже є4сть пи1сано:
+        сэдо1ша лю1діе ћсти и3 пи1ти, и3 востaша и3грaти."
+      sovr_rbo: ""
+      latin: "Neque idololatrae efficiamini, sicut quidam ex ipsis: quemadmodum
+        scriptum est: Sedit populus manducare, et bibere, et surrexerunt
+        ludere."
+      ukr: "Не будьте також ідолянами, як деякі з них, як написано: Люди сіли, щоб
+        їсти та пити, і встали, щоб грати."
+      nkjv: And do not become idolaters as were some of them. As it is written, "The
+        people sat down to eat and drink, and rose up to play."
+      desnitsky: "Не становитесь идолопоклонниками, подобно некоторым из них, как
+        написано о золотом тельце: «народ сел есть и пить, а потом начал
+        веселиться»."
+      tex_rec: μηδὲ εἰδωλολάτραι γίνεσθε, καθώς τινες αὐτῶν· ὥσπερ γέγραπται,
+        ᾽Εκάθισεν ὁ λαὸς φαγεῖν καὶ πεῖν, καὶ ἀνέστησαν παίζειν.
+      deutsch: 'Werdet auch nicht Abgöttische, gleichwie jener etliche wurden, wie
+        geschrieben steht: "Das Volk setzte sich nieder, zu essen und zu
+        trinken, und stand auf, zu spielen."'
+      spanish: "ni idolatréis como algunos de ellos, según está escrito: «Se sentó el
+        pueblo a comer y beber y se levantaron para danzar."
+      peshitta: ܘܳܐܦ݂ܠܳܐ ܢܶܗܘܶܐ ܦ݁ܳܠܚܰܝ ܦ݁ܬ݂ܰܟ݂ܪܶܐ ܐܰܝܟ݁ܰܢܳܐ ܕ݁ܳܐܦ݂ ܡܶܢܗܽܘܢ ܦ݁ܠܰܚܘ
+        ܐܰܝܟ݂ ܕ݁ܰܟ݂ܬ݂ܺܝܒ݂ ܕ݁ܺܝܬ݂ܶܒ݂ ܥܰܡܳܐ ܠܡܶܐܟ݂ܰܠ ܘܰܠܡܶܫܬ݁ܳܐ ܘܩܳܡܘ ܠܡܶܫܬ݁ܥܳܝܽܘ܂
+      bel_syomukha: 'Ня будзьце таксама ідалапаклонцамі, як некаторыя зь іх, пра якіх
+        напісана: "людзі селі есьці і піць, і ўсталі бавіцца".'
+      nrt: "Не поклоняйтесь идолам, как это делали некоторые из них. Ведь написано:
+        «Народ сел есть и пить, а потом встал веселиться»."
+      romana: 'Nici inchinatori la idoli sa nu va faceti, ca unii dintre ei, precum
+        este scris: "A sezut poporul sa manance si sa bea si s-au sculat la
+        joc";'
+      francais: "Ne devenez point idolâtres, comme quelques-uns d'eux, selon qu'il est
+        écrit: Le peuple s'assit pour manger et pour boire; puis ils se levèrent
+        pour se divertir."
+      italian: "Non diventate idolàtri come alcuni di loro, secondo quanto sta
+        scritto: Il popolo sedette a mangiare e a bere e poi si alzò per
+        divertirsi."
+      old_georgian: "ნუცა კერპთმსახურ იქნებით, ვითარცა-იგი მათგანნი ვინმე, ვითარცა
+        წერილ არს: დასხდა ერი იგი ჭამად და სუმად და აღდგეს სიმღერად."
+      portuguese: "Não vos torneis, pois, idólatras, como alguns deles, conforme está
+        escrito: O povo assentou-se a comer e a\rbeber, e levantou-se para
+        folgar."
+      polish: "Nie bądźcie też bałwochwalcami jak niektórzy z nich, według tego, co
+        jest\rnapisane: Zasiadł lud, by jeść i pić, i powstali, by się oddawać
+        rozkoszom."
+      new_text: "Не становитесь идолопоклонниками, как некоторые из них. Ведь в
+        Писании сказано: «Народ, усевшись, стал есть и пить, а потом устроил в
+        честь идола пляски»."
+      serbian: "Нити бивајте идолопоклоници, као неки од њих, као што је написано:
+        Сједе народ да једе и пије, и устаде да игра."
+      bulgarian: 'Не бивайте нито идолослужители, както някои от тях, за които е
+        писано: "народът седна да яде и да пие, па стана да играе".'
+      ukr2: "Та й ідолопоклонниками не ставайте, як деякі з них, як написано: «Народ
+        сів їсти й пити, а потім устали забавлятись.»"
+      ukr3: Чоловік бо не має покривати голови, образом і славою Божою бувши, жінка ж
+        славою чоловічою.
+      czech: "A take nebudte modlari jako nekteri z nich, jak je psano: ‚Usadil se
+        lid, aby jedl a pil, a potom povstali k tancum.‘"
+      st_text: "Не будьте также идолопоклонниками, как некоторые из них, о которых
+        написано: народ сел есть и пить, и встал играть."
+  - id: 1324
+    number: 8
+    bookId: 64
+    text: Не станем блудодействовать, как некоторые из них блудодействовали, и в
+      один день погибло их двадцать три тысячи.
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 21538
+        bookId: 2
+        bookCode: ishod
+        chapter: 19
+        short: Исх:19:21
+      - verseId: 11763
+        bookId: 4
+        bookCode: cisla
+        chapter: 25
+        short: Чис:25:1
+      - verseId: 11771
+        bookId: 4
+        bookCode: cisla
+        chapter: 25
+        short: Чис:25:9
+    translates:
+      kassian: Не будем и блудить, как некоторые из них предались блуду, и пало в один
+        день двадцать три тысячи.
+      podstr: И не давайте будем развратничать, как некоторые [из] них предались
+        разврату, и пали [в] один день двадцать три тысячи.
+      csya: Ниже соблудим, якоже нецыи от них соблудиша, и падоша во един день
+        двадесять три тысящы.
+      averincev: ""
+      ungerov: ""
+      csya_old: Ниже2 соблyдимъ, ћкоже нёцыи t ни1хъ соблуди1ша, и3 падо1ша во є3ди1нъ
+        де1нь двaдесzть три2 ты1сzщы.
+      sovr_rbo: ""
+      latin: Neque fornicemur, sicut quidam ex ipsis fornicati sunt, et ceciderunt una
+        die viginti tria millia.
+      ukr: Не станьмо чинити блуду, як деякі з них блудодіяли, і полягло їх одного дня
+        двадцять три тисячі.
+      nkjv: Nor let us commit sexual immorality, as some of them did, and in one day
+        twenty-three thousand fell;
+      desnitsky: И блудить не станем, как те из них, что впали в блуд, и так в один
+        день погибли двадцать три тысячи.
+      tex_rec: μηδὲ πορνεύωμεν, καθώς τινες αὐτῶν ἐπόρνευσαν, καὶ ἔπεσαν μιᾷ ἡμέρᾳ
+        εἴκοσι τρεῖς χιλιάδες.
+      deutsch: Auch lasset uns nicht Hurerei treiben, wie etliche unter jenen Hurerei
+        trieben, und fielen auf einen Tag dreiundzwanzigtausend.
+      spanish: Ni forniquemos, como algunos de ellos fornicaron, cayendo veintitrés
+        mil en un día.
+      peshitta: ܘܳܐܦ݂ܠܳܐ ܢܙܰܢܶܐ ܐܰܝܟ݁ܰܢܳܐ ܕ݁ܡܶܢܗܽܘܢ ܙܰܢܺܝܘ ܘܰܢܦ݂ܰܠܘ ܒ݁ܚܰܕ݂ ܝܰܘܡܳܐ
+        ܥܶܣܪܺܝܢ ܘܰܬ݂ܠܳܬ݂ܳܐ ܐܰܠܦ݂ܺܝܢ܂
+      bel_syomukha: Ня будзем блудадзейнічаць, як некаторыя зь іх блудадзейнічалі, і ў
+        адзін дзень загінула іх дваццаць тры тысячы.
+      nrt: Среди нас не должно быть распутства, которому предавались некоторые из них,
+        что и привело к гибели двадцати трех тысяч человек в один день.
+      romana: Nici sa ne desfranam cum s-au desfranat unii dintre ei, si au cazut,
+        intr-o zi, douazeci si trei de mii;
+      francais: Ne nous livrons point à l'impudicité, comme quelques-uns d'eux s'y
+        livrèrent, de sorte qu'il en tomba vingt-trois mille en un seul jour.
+      italian: Non abbandoniamoci alla fornicazione, come vi si abbandonarono alcuni
+        di essi e ne caddero in un solo giorno ventitremila.
+      old_georgian: ნუცა ვისიძავთ, ვითარცა-იგი ვიეთმე მათგანთა ისიძვეს და დაეცნეს
+        ერთსა შინა დღესა ოც და სამი ათასი.
+      portuguese: Nem nos prostituamos, como alguns deles fizeram; e caíram num só dia
+        vinte e três mil.
+      polish: "Nie oddawajmy się też rozpuście, jak to czynili niektórzy spośród nich,
+        i padło\rich jednego dnia dwadzieścia trzy tysiące."
+      new_text: Не будем развратничать, как некоторые из них. Они стали развратничать
+        — и в один день погибло двадцать три тысячи.
+      serbian: Нити да блудничимо, као што неки од њих блудничише, и паде их у један
+        дан двадесет и три хиљаде.
+      bulgarian: Нито да блудствуваме, както някои от тях блудствуваха, и в един ден
+        погинаха двайсет и три хиляди.
+      ukr2: Ані не чинім розпусти, як деякі з них чинили, і полягло їх за один день
+        двадцять три тисячі.
+      ukr3: Бо не чоловік од жінки, а жінка від чоловіка.
+      czech: Ani se neoddavejme smilstvu jako nekteri z nich, a padlo jich za jeden
+        den triadvacet tisic.
+      st_text: Не станем блудодействовать, как некоторые из них блудодействовали, и в
+        один день погибло их двадцать три тысячи.
+  - id: 1325
+    number: 9
+    bookId: 64
+    text: Не станем искушать Христа, как некоторые из них искушали и погибли от змей.
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 11637
+        bookId: 4
+        bookCode: cisla
+        chapter: 21
+        short: Чис:21:6
+      - verseId: 30424
+        bookId: 22
+        bookCode: psaltir
+        chapter: 105
+        short: Пс:105:14
+      - verseId: 29065
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 16
+        short: Прем:16:5
+    translates:
+      kassian: Не будем и искушать Господа, как некоторые из них искусили, и гибли от
+        змей.
+      podstr: И не давайте будем искушать Христа, как некоторые [из] них подвергли
+        искушению, и от змей погибали.
+      csya: Ни да искушаим Христа, якоже нецыи от них искусиша и от змий погибоша.
+      averincev: ""
+      ungerov: ""
+      csya_old: Ни да и3скушaимъ хrтA, ћкоже нёцыи t ни1хъ и3скуси1ша и3 t ѕмjй
+        погибо1ша.
+      sovr_rbo: ""
+      latin: Neque tentemus Christum, sicut quidam eorum tentaverunt, et a serpentibus
+        perierunt.
+      ukr: Ані не випробовуймо Христа, як деякі з них випробовували, та й від зміїв
+        загинули.
+      nkjv: nor let us tempt Christ, as some of them also tempted, and were destroyed
+        by serpents;
+      desnitsky: Не станем искушать Христа, как некоторые из них искушали Бога и
+        погибли от змеиных укусов.
+      tex_rec: μηδὲ ἐκπειράζωμεν τὸν κύριον, καθώς τινες αὐτῶν ἐξεπείρασαν, καὶ ὑπὸ
+        τῶν ὄφεων ἀπώλλυντο.
+      deutsch: Lasset uns aber auch Christum nicht versuchen, wie etliche von jenen
+        ihn versuchten und wurden von Schlangen umgebracht.
+      spanish: Ni tentemos al Señor, como algunos de ellos le tentaron, y perecieron
+        por las serpientes.
+      peshitta: ܘܠܳܐ ܢܢܰܣܶܐ ܠܰܡܫܺܝܚܳܐ ܐܰܝܟ݁ܰܢܳܐ ܕ݁ܡܶܢܗܽܘܢ ܢܰܣܺܝܘ ܘܰܐܘܒ݁ܶܕ݂ܘ ܐܶܢܽܘܢ
+        ܚܘܰܘܳܬ݂ܳܐ܂
+      bel_syomukha: Ня будзем спакушаць Хрыста, як некаторыя зь іх спакушалі і
+        загінулі ад зьмеяў.
+      nrt: Нам нельзя испытывать Христа, как делали некоторые из них и потом погибли
+        от укусов змей.
+      romana: Nici sa ispitim pe Domnul, precum L-au ispitit unii dintre ei si au
+        pierit de serpi;
+      francais: Ne tentons point le Seigneur, comme le tentèrent quelques-uns d'eux,
+        qui périrent par les serpents.
+      italian: Non mettiamo alla prova il Signore, come fecero alcuni di essi, e
+        caddero vittime dei serpenti.
+      old_georgian: ნუცა განვსცდით უფალსა, ვითარცა-იგი მათგანთა ვიეთმე გამოცადეს და
+        გუელთა მიერ წარწყმდეს.
+      portuguese: E não tentemos o Senhor, como alguns deles o tentaram, e pereceram
+        pelas serpentes.
+      polish: I nie wystawiajmy Pana na próbę, jak wystawiali Go niektórzy z nich i
+        poginęli od wężów.
+      new_text: И не будем испытывать Христа, как испытывали некоторые из них. Они
+        погибли от укусов змей.
+      serbian: Нити да кушамо Христа, као што неки од њих кушаше, и од змија изгибоше.
+      bulgarian: Нито да изкушаваме Христа, както някои от тях изкусиха, и погинаха от
+        змии.
+      ukr2: Ані не спокушаймо Господа, як деякі з них спокушали, то й від гадюк
+        загинули.
+      ukr3: І не сотворено чоловіка ради жінки, а жінку ради чоловіка.
+      czech: A take nechtejme zkouset Pana, jako to delali nekteri z nich, a hynuli od
+        hadiho ustknuti,
+      st_text: Не станем искушать Христа, как некоторые из них искушали и погибли от
+        змей.
+  - id: 1326
+    number: 10
+    bookId: 64
+    text: Не ропщите, как некоторые из них роптали и погибли от истребителя.
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 21440
+        bookId: 2
+        bookCode: ishod
+        chapter: 16
+        short: Исх:16:2
+      - verseId: 21445
+        bookId: 2
+        bookCode: ishod
+        chapter: 16
+        short: Исх:16:7
+      - verseId: 11401
+        bookId: 4
+        bookCode: cisla
+        chapter: 14
+        short: Чис:14:36
+      - verseId: 11402
+        bookId: 4
+        bookCode: cisla
+        chapter: 14
+        short: Чис:14:37
+      - verseId: 28910
+        bookId: 26
+        bookCode: kniga-premudrosti-solomona
+        chapter: 1
+        short: Прем:1:11
+    translates:
+      kassian: И не ропщите, как некоторые из них возроптали, и гибли от Истребителя.
+      podstr: И не ропщите, подобно тому как некоторые [из] них возроптали, и погибли
+        от губителя.
+      csya: Ни ропщите, якоже нецыи от них ропташа и погибоша от всегубителя.
+      averincev: ""
+      ungerov: ""
+      csya_old: Ни ропщи1те, ћкоже нёцыи t ни1хъ роптaша и3 погибо1ша t всегуби1телz.
+      sovr_rbo: ""
+      latin: Neque murmuraveritis, sicut quidam eorum murmuraverunt, et perierunt ab
+        exterminatore.
+      ukr: Ані не нарікайте, як деякі з них нарікали, і загинули від погубителя.
+      nkjv: nor complain, as some of them also complained, and were destroyed by the
+        destroyer.
+      desnitsky: И не ропщите, как некоторые из них стали роптать и пали жертвами
+        ангела-губителя.
+      tex_rec: μηδὲ γογγύζετε, καθάπερ τινὲς αὐτῶν ἐγόγγυσαν, καὶ ἀπώλοντο ὑπὸ τοῦ
+        ὀλοθρευτοῦ.
+      deutsch: Murrt auch nicht, gleichwie jener etliche murrten und wurden umgebracht
+        durch den Verderber.
+      spanish: Ni murmuréis, como algunos de ellos murmuraron, acabando a manos de
+        exterminador.
+      peshitta: ܘܳܐܦ݂ܠܳܐ ܬ݁ܶܪܛܢܽܘܢ ܐܰܝܟ݁ܰܢܳܐ ܕ݁ܡܶܢܗܽܘܢ ܪܛܶܢܘ ܘܶܐܒ݂ܰܕ݂ܘ ܒ݁ܺܐܝܕ݂ܰܝ
+        ܡܚܰܒ݁ܠܳܢܳܐ܂
+      bel_syomukha: Не наракайце, як некаторыя зь іх наракалі і загінулі ад зьнішчальніка.
+      nrt: Не ропщите, как это делали некоторые из них, за что и были умерщвлены
+        губителем.
+      romana: Nici sa cartiti, precum au cartit unii dintre ei si au fost nimiciti de
+        catre pierzatorul.
+      francais: Ne murmurez point, comme murmurèrent quelques-uns d'eux, qui périrent
+        par l'exterminateur.
+      italian: Non mormorate, come mormorarono alcuni di essi, e caddero vittime dello
+        sterminatore.
+      old_georgian: ნუცა ვდრტჳნავთ, ვითარცა-იგი მათგანნი ვინმე დრტჳნვიდეს და წარწყმდეს
+        მომსრველისა მისგან.
+      portuguese: E não murmureis, como alguns deles murmuraram, e pereceram pelo
+        destruidor.
+      polish: Nie szemrajcie, jak niektórzy z nich szemrali i zostali wytraceni przez
+        dokonującego zagłady.
+      new_text: И не ропщите, как роптали некоторые из них. Их умертвил Ангел-Губитель.
+      serbian: Нити ропћите као што неки од њих ропташе, и изгибоше од истребитеља.
+      bulgarian: Нито роптайте, както роптаеха някои от тях, и погинаха от изтребителя.
+      ukr2: Ані не нарікайте, як деякі з них нарікали, то й від губителя загинули.
+      ukr3: Тим і мусить жінка знак властї мати на голові ради ангелів.
+      czech: ani nereptejte jako nekteri z nich, a byli zahubeni Zhoubcem.
+      st_text: Не ропщите, как некоторые из них роптали и погибли от истребителя.
+  - id: 1327
+    number: 11
+    bookId: 64
+    text: Все это происходило с ними, <i>как</i> образы; а описано в наставление
+      нам, достигшим последних веков.
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 32945
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 15
+        short: Рим:15:4
+    translates:
+      kassian: И всё это происходило с ними, как прообраз, написано же было для
+        вразумления нас, которых достиг конец веков.
+      podstr: Это же образно происходило тем, было написано же к вразумлению нас, в
+        которых концы веков сошлись навстречу.
+      csya: "Сия же вся образи прилучахуся онем: писана же быша в научение наше, в
+        нихже концы век достигоша."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Сі‰ же вс‰ њ1брази прилучaхусz њ1нэмъ: пи6сана же бы1ша въ науче1ніе
+        нaше, въ ни1хже концы6 вBкъ достиго1ша."
+      sovr_rbo: ""
+      latin: "Haec autem omnia in figura contingebant illis: scripta sunt autem ad
+        correptionem nostram, in quos fines saeculorum devenerunt."
+      ukr: Усе це трапилось з ними, як приклади, а написане нам на науку, бо за нашого
+        часу кінець віку прийшов.
+      nkjv: Now all these things happened to them as examples, and they were written
+        for our admonition, upon whom the ends of the ages have come.
+      desnitsky: Всё, произошедшее с ними, стало прообразом и было записано нам в
+        назидание – а при нас череда веков подходит к завершению.
+      tex_rec: ταῦτα δὲ τυπικῶς συνέβαινεν ἐκείνοις, ἐγράφη δὲ πρὸς νουθεσίαν ἡμῶν,
+        εἰς οὓς τὰ τέλη τῶν αἰώνων κατήντηκεν.
+      deutsch: Solches alles widerfuhr jenen zum Vorbilde; es ist aber geschrieben uns
+        zur Warnung, auf welche das Ende der Welt gekommen ist.
+      spanish: Todas estas cosas les sucedieron a ellos en figura y fueron escritas
+        para amonestarnos a nosotros, para quienes ha llegado la plenitud de los
+        tiempos.
+      peshitta: ܗܳܠܶܝܢ ܕ݁ܶܝܢ ܟ݁ܽܠܗܶܝܢ ܕ݁ܰܓ݂ܕ݂ܰܫ ܠܗܽܘܢ ܠܛܽܘܦ݂ܣܰܢ ܗܘܰܝ ܘܶܐܬ݂ܟ݁ܬ݂ܶܒ݂
+        ܡܶܛܽܠ ܡܰܪܕ݁ܽܘܬ݂ܳܐ ܕ݁ܺܝܠܰܢ ܕ݁ܚܰܪܬ݂ܗܽܘܢ ܕ݁ܥܳܠܡܶܐ ܥܠܰܝܢ ܡܰܛܝܰܬ݂܂
+      bel_syomukha: Усё гэта адбывалася зь імі, як вобразы; а апісана ў настаўленьне
+        нам, што дасягнулі канца вякоў.
+      nrt: Все это случилось с ними как прообраз, а записано это для назидания нам.
+        Ведь мы живем в последнее время.
+      romana: Si toate acestea li s-au intamplat acelora, ca preinchipuiri ale
+        viitorului, si au fost scrise spre povatuirea noastra, la care au ajuns
+        sfarsiturile veacurilor.
+      francais: Ces choses leur sont arrivées pour servir d'exemples, et elles ont été
+        écrites pour notre instruction, à nous qui sommes parvenus à la fin des
+        siècles.
+      italian: Tutte queste cose però accaddero a loro come esempio, e sono state
+        scritte per ammonimento nostro, di noi per i quali è arrivata la fine
+        dei tempi.
+      old_georgian: ესე ყოველნი სახენი შეემთხუეოდეს მათ; ხოლო დაიწერა სამოძღურებელად
+        ჩუენდა, რომელთა ზედა აღსასრული ჟამთაჲ მოიწია.
+      portuguese: "Ora, tudo isto lhes acontecia como exemplo, e foi escrito para
+        aviso nosso, para quem já são chegados os fins\rdos séculos."
+      polish: "A wszystko to przydarzyło się im jako zapowiedź rzeczy przyszłych,
+        spisane\rzaś zostało ku pouczeniu nas, których dosięga kres czasów."
+      new_text: Все это случилось с ними, чтобы послужить уроком нам; это написано,
+        чтобы предостеречь нас, живущих при близящемся конце мира.
+      serbian: А све ово њима се догађаше за примјер, а написа се за поуку нама, на
+        које дође свршетак вијекова.
+      bulgarian: Всички тия неща им се случваха, за да служат за образи, а бяха
+        написани за поука нам, до които стигнаха краищата на вековете.
+      ukr2: Та все це сталося з ними як приклад; написано ж на науку нам, що дійшли до
+        повноти віків.
+      ukr3: Однако ж нї чоловік без жінки, нї жінка без чоловіка, в Господї.
+      czech: To, co se jim stalo, je vystrazny obraz a bylo to napsano k napomenuti
+        nam, ktere zastihl prelom veku.
+      st_text: Все это происходило с ними, <i>как</i> образы; а описано в наставление
+        нам, достигшим последних веков.
+  - id: 1328
+    number: 12
+    bookId: 64
+    text: Посему, кто думает, что он стоит, берегись, чтобы не упасть.
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 17305
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 32
+        short: Иез:32:13
+      - verseId: 17337
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 33
+        short: Иез:33:13
+      - verseId: 32864
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 11
+        short: Рим:11:20
+      - verseId: 15123
+        bookId: 66
+        bookCode: k-galatam-poslanie-ap-pavla
+        chapter: 6
+        short: Гал:6:1
+    translates:
+      kassian: Поэтому кто думает, что он стоит, пусть смотрит, чтобы не упасть.
+      podstr: Так что считающий стоять пусть смотрит не [чтобы] он упал.
+      csya: Темже мняйся стояти да блюдется, да не падет.
+      averincev: ""
+      ungerov: ""
+      csya_old: Тёмже мнsйсz стоsти да блюде1тсz, да не паде1тъ.
+      sovr_rbo: ""
+      latin: Itaque qui se existimat stare, videat ne cadat.
+      ukr: Тому то, хто думає, ніби стоїть він, нехай стережеться, щоб не впасти!
+      nkjv: Therefore let him who thinks he stands take heed lest he fall.
+      desnitsky: И кто уверен, что твердо стоит на ногах, пусть остерегается, как бы
+        ему не пасть.
+      tex_rec: ὥστε ὁ δοκῶν ἑστάναι βλεπέτω μὴ πέσῃ.
+      deutsch: Darum, wer sich läßt dünken, er stehe, mag wohl zusehen, daß er nicht
+        falle.
+      spanish: Así, pues, el que cree estar en pie, mire no caiga;
+      peshitta: ܡܶܟ݁ܺܝܠ ܡܰܢ ܕ݁ܣܳܒ݂ܰܪ ܕ݁ܩܳܡ ܢܶܙܕ݁ܗܰܪ ܕ݁ܠܳܐ ܢܶܦ݁ܶܠ܂
+      bel_syomukha: А таму, хто думае, што ён стаіць, глядзі, каб ня ўпасьці.
+      nrt: Так что если кому-то кажется, что он уверенно стоит, то пусть остерегается,
+        как бы ему не упасть!
+      romana: De aceea, cel caruia i se pare ca sta neclintit sa ia seama sa nu cada.
+      francais: Ainsi donc, que celui qui croit être debout prenne garde de tomber!
+      italian: Quindi, chi crede di stare in piedi, guardi di non cadere.
+      old_georgian: ამიერითგან, რომელი ჰგონებდეს დგომასა, ეკრძალენ, ნუუკუე დაეცეს.
+      portuguese: Aquele, pois, que pensa estar em pé, olhe não caia.
+      polish: Niech przeto ten, komu się zdaje, że stoi, baczy, aby nie upadł.
+      new_text: Так пусть каждый, кто думает, что твердо стоит на ногах, смотрит, как
+        бы ему не упасть.
+      serbian: Зато који мисли да стоји, нека пази да не падне.
+      bulgarian: Затова, който мисли, че стои, нека гледа да не падне.
+      ukr2: Тож, коли комусь здається, що він стоїть, нехай уважає, щоб не впав.
+      ukr3: Бо як жінка від чоловіка, так і чоловік через жінку, все ж від Бога.
+      czech: A proto ten, kdo si mysli, ze stoji, at si da pozor, aby nepadl.
+      st_text: Посему, кто думает, что он стоит, берегись, чтобы не упасть.
+  - id: 1329
+    number: 13
+    bookId: 64
+    text: Вас постигло искушение не иное, как человеческое; и верен Бог, Который не
+      попустит вам быть искушаемыми сверх сил, но при искушении даст и
+      облегчение, так чтобы вы могли перенести.
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 21375
+        bookId: 2
+        bookCode: ishod
+        chapter: 13
+        short: Исх:13:17
+      - verseId: 19859
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 6
+        short: Иов:6:12
+      - verseId: 23908
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 11
+        short: Лк:11:4
+      - verseId: 15142
+        bookId: 56
+        bookCode: poslanie-ap-iakova
+        chapter: 1
+        short: Иак:1:2
+      - verseId: 6678
+        bookId: 58
+        bookCode: 2oe-poslanie-ap-petra
+        chapter: 2
+        short: 2 Пет:2:9
+      - verseId: 14656
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 12
+        short: Евр:12:4
+      - verseId: 28452
+        bookId: 77
+        bookCode: otkrovenie-ap-ioanna-bogoslova
+        chapter: 3
+        short: Откр:3:10
+    translates:
+      kassian: "Искушение вас постигло не иное, как человеческое: и верен Бог, Который
+        не попустит, чтобы вы были искушены сверх сил, но в самом искушении даст
+        и выход так, чтобы вы могли вынести."
+      podstr: Искушение вас не взяло если не человеческое; верный же Бог, Который не
+        позволит вам быть искушёнными сверх которого можете, но сделает с
+        искушением и выход [чтобы] мочь перенести.
+      csya: "Искушение вас не достиже, точию человеческое: верен же Бог, иже не
+        оставит вас искуситися паче, еже можете, но сотворит со искушением и
+        избытие, яко возмощи вам понести."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И#скуше1ніе вaсъ не дости1же, то1чію человёческое: вёренъ же бг7ъ,
+        и4же не њстaвитъ вaсъ и3скуси1тисz пaче, є4же мо1жете, но сотвори1тъ со
+        и3скуше1ніемъ и3 и3збы1тіе, ћкw возмощи2 вaмъ понести2."
+      sovr_rbo: ""
+      latin: "Tentatio vos non apprehendat nisi humana: fidelis autem Deus est, qui
+        non patietur vos tentari supra id quod potestis, sed faciet etiam cum
+        tentatione proventum ut possitis sustinere."
+      ukr: Досягла вас спроба не інша, тільки людська; але вірний Бог, Який не
+        попустить, щоб ви випробовувалися більше, ніж можете, але при спробі й
+        полегшення дасть, щоб знести могли ви її.
+      nkjv: No temptation has overtaken you except such as is common to man; but God
+        is faithful, who will not allow you to be tempted beyond what you are
+        able, but with the temptation will also make the way of escape, that you
+        may be able to bear it.
+      desnitsky: Искушения, постигшие вас, обычны для людей. Бог верен Своим обещаниям
+        и не позволит вам пережить искушение свыше ваших сил; при всяком
+        искушении он даст и выход, чтобы его было можно перенести.
+      tex_rec: πειρασμὸς ὑμᾶς οὐκ εἴληφεν εἰ μὴ ἀνθρώπινος· πιστὸς δὲ ὁ θεός, ὃς οὐκ
+        ἐάσει ὑμᾶς πειρασθῆναι ὑπὲρ ὃ δύνασθε, ἀλλὰ ποιήσει σὺν τῷ πειρασμῷ καὶ
+        τὴν ἔκβασιν τοῦ δύνασθαι ὑπενεγκεῖν.
+      deutsch: Es hat euch noch keine denn menschliche Versuchung betreten; aber Gott
+        ist getreu, der euch nicht läßt versuchen über euer Vermögen, sondern
+        macht, daß die Versuchung so ein Ende gewinne, daß ihr's könnet
+        ertragen.
+      spanish: no os ha sobrevenido tentación que no fuera humana, y fiel es Dios, que
+        no permitirá que seáis tentados sobre vuestras fuerzas; antes dispondrá
+        con la tentación el éxito para que podáis resistirla.
+      peshitta: ܢܶܣܝܽܘܢܳܐ ܠܳܐ ܡܰܛܺܝܟ݂ܽܘܢ ܐܶܠܳܐ ܕ݁ܰܒ݂ܢܰܝܢܳܫܳܐ ܡܗܰܝܡܰܢ ܗ݈ܽܘ ܕ݁ܶܝܢ
+        ܐܰܠܳܗܳܐ ܕ݁ܠܳܐ ܢܰܪܦ݁ܶܝܟ݂ܽܘܢ ܕ݁ܬ݂ܶܬ݂ܢܰܣܽܘܢ ܝܰܬ݁ܺܝܪ ܡܰܢ ܡܶܕ݁ܶܡ ܕ݁ܰܡܨܶܝܢ
+        ܐܢ݈ܬ݁ܽܘܢ ܐܶܠܳܐ ܢܶܥܒ݁ܶܕ݂ ܠܢܶܣܝܽܘܢܟ݂ܽܘܢ ܡܰܦ݁ܩܳܢܳܐ ܐܰܝܟ݁ܰܢܳܐ ܕ݁ܬ݂ܶܫܟ݁ܚܽܘܢ
+        ܠܰܡܣܰܝܒ݁ܳܪܽܘ܂
+      bel_syomukha: Вас апанавала спакуса не якая, а чалавечая; і верны Бог, Які не
+        дапусьціць, каб вас спакушалі звыш сілы, але пры спакушэньні дасьць і
+        палёгку, каб вы маглі ператрываць.
+      nrt: Все испытания, с которыми до сих пор вам приходилось сталкиваться, были
+        ничем иным, как обычными человеческими испытаниями. Бог никогда не
+        допустит, чтобы вы были испытываемы сверх сил, и Он верен Своим
+        обещаниям. Когда вас постигает испытание, Он дает вам и выход, так чтобы
+        вы смогли его перенести.
+      romana: Nu v-a cuprins ispita care sa fi fost peste puterea omeneasca. Dar
+        credincios este Dumnezeu; El nu va ingadui ca sa fiti ispititi mai mult
+        decat puteti, ci odata cu ispita va aduce si scaparea din ea, ca sa
+        puteti rabda.
+      francais: Aucune tentation ne vous est survenue qui n'ait été humaine, et Dieu,
+        qui est fidèle, ne permettra pas que vous soyez tentés au delà de vos
+        forces; mais avec la tentation il préparera aussi le moyen d'en sortir,
+        afin que vous puissiez la supporter.
+      italian: Nessuna tentazione vi ha finora sorpresi se non umana; infatti Dio è
+        fedele e non permetterà che siate tentati oltre le vostre forze, ma con
+        la tentazione vi darà anche la via d'uscita e la forza per sopportarla.
+      old_georgian: განსაცდელი თქუენ არა შეგემთხჳა, გარნა კაცობრივ; ხოლო სარწმუნო არს
+        ღმერთი, რომელმან არა გიტევნეს თქუენ განცდად უფროჲს ძალისა თქუენისა,
+        არამედ ყოს განსაცდელისა თანა გამოყვანებაჲცა, რაჲთა შეუძლოდ დათმენად.
+      portuguese: "Não vos sobreveio nenhuma tentação, senão humana; mas fiel é Deus,
+        o qual não deixará que sejais tentados\racima do que podeis resistir,
+        antes com a tentação dará também o meio de saída, para que a possais
+        suportar."
+      polish: "Pokusa nie nawiedziła was większa od tej, która zwykła nawiedzać
+        ludzi.\rWierny jest Bóg i nie dozwoli was kusić ponad to, co potraficie
+        znieść, lecz\rzsyłając pokusę, równocześnie wskaże sposób jej pokonania
+        abyście mogli\rprzetrwać."
+      new_text: Испытания, которые вам придется перенести, это обычные человеческие
+        испытания. Бог верен! Он не допустит испытаний, которые были бы вам не
+        по силам, и к тому же во всяком испытании Он даст и выход из него, и
+        силы для его преодоления.
+      serbian: Друго вас искушење није снашло осим човјечијега; вјеран је Бог који вас
+        неће пустити да се искушате већма него што можете, него ће учинити са
+        искушењем и крај, да можете поднијети.
+      bulgarian: Друго изкушение вас не е постигнало, освен човешко; верен е обаче
+        Бог, Който не ще остави да бъдете изкушени повече от силата ви, а заедно
+        с изкушението ще даде и изход, за да можете да търпите.
+      ukr2: "Вас не спостигла ще спокуса понад людську силу. Бог вірний: він не
+        допустить, щоб вас спокушувано над вашу спроможність, але разом із
+        спокусою дасть вам змогу її перенести."
+      ukr3: "Самі між собою судїть: чи личить жінцї непокритій молитись Богу?"
+      czech: "Nepotkala vas zkouska nad lidske sily. Buh je verny: nedopusti, abyste
+        byli podrobeni zkousce, kterou byste nemohli vydrzet, nybrz se zkouskou
+        vam pripravi i vychodisko a da vam silu, abyste mohli obstat."
+      st_text: Вас постигло искушение не иное, как человеческое; и верен Бог, Который
+        не попустит вам быть искушаемыми сверх сил, но при искушении даст и
+        облегчение, так чтобы вы могли перенести.
+  - id: 1330
+    number: 14
+    bookId: 64
+    text: Итак, возлюбленные мои, убегайте идолослужения.
+    chapter: 10
+    chapterId: 1277
+    parallels: []
+    translates:
+      kassian: Потому, возлюбленные мои, бегайте идолослужения.
+      podstr: Потому-то, любимые мои, бегите от идолопоклонства.
+      csya: Темже, братие моя возлюбленная, бегайте от идолослужения.
+      averincev: ""
+      ungerov: ""
+      csya_old: Тёмже, брaтіе мо‰ возлю1блєннаz, бёгайте t їдwлослуже1ніz.
+      sovr_rbo: ""
+      latin: "Propter quod, carissimi mihi, fugite ab idolorum cultura:"
+      ukr: Тому, мої любі, утікайте від служіння ідолам.
+      nkjv: Therefore, my beloved, flee from idolatry.
+      desnitsky: А потому, возлюбленные мои, избегайте идолослужения.
+      tex_rec: Διόπερ, ἀγαπητοί μου, φεύγετε ἀπὸ τῆς εἰδωλολατρίας.
+      deutsch: Darum, meine Liebsten, fliehet von dem Götzendienst!
+      spanish: Por lo cual, amados míos, huid la idolatría.
+      peshitta: ܡܶܛܽܠ ܗܳܢܳܐ ܚܰܒ݁ܺܝܒ݂ܰܝ ܥܪܽܘܩܘ ܡܶܢ ܦ݁ܽܘܠܚܳܢܳܐ ܕ݁ܰܦ݂ܬ݂ܰܟ݂ܪܶܐ܂
+      bel_syomukha: Таму, любасныя мае, унікайце служэньня ідалам.
+      nrt: Поэтому, дорогие мои, избегайте идолопоклонства.
+      romana: De aceea, iubitii mei, fugiti de inchinarea la idoli.
+      francais: C'est pourquoi, mes bien-aimés, fuyez l'idolâtrie.
+      italian: Perciò, o miei cari, fuggite l'idolatria.
+      old_georgian: აწ უკუე, საყუარელნო ჩემნო, ივლტოდეთ კერპთ-მსახურებისაგან.
+      portuguese: Portanto, meus amados, fugi da idolatria.
+      polish: Dlatego też, najmilsi moi, strzeżcie się bałwochwalstwa!
+      new_text: Вот почему, любимые мои, бегите от идолопоклонства!
+      serbian: Зато, љубљени моји, бјежите од идолопоклонства.
+      bulgarian: Затова, мои възлюбени, отбягвайте идолослужението.
+      ukr2: Тому, мої улюблені, втікайте від ідолопоклонства.
+      ukr3: Або чи не сама ж природа навчає вас, що коли чоловік має довге волоссє, то
+        сором йому?
+      czech: A proto, moji milovani, utikejte pred modlarstvim.
+      st_text: Итак, возлюбленные мои, убегайте идолослужения.
+  - id: 1331
+    number: 15
+    bookId: 64
+    text: Я говорю <i>вам</i> как рассудительным; сами рассудите о том, что говорю.
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 1290
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 1
+        short: 1 Кор:1:5
+    translates:
+      kassian: "Говорю, как разумным: рассудите сами, что говорю."
+      podstr: Как разумным говорю; рассудите вы которое говорю.
+      csya: "Яко мудрым глаголю: судите вы, еже глаголю:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Ћкw м{дрымъ глаго1лю: суди1те вы2, є4же глаго1лю:"
+      sovr_rbo: ""
+      latin: ut prudentibus loquor, vos ipsi judicate quod dico.
+      ukr: Кажу, як розумним; судіть самі, що кажу я.
+      nkjv: I speak as to wise men; judge for yourselves what I say.
+      desnitsky: "Обращаюсь к тем, кто понимает: сами рассудите, что я говорю."
+      tex_rec: ὡς φρονίμοις λέγω· κρίνατε ὑμεῖς ὅ φημι.
+      deutsch: Als mit den Klugen rede ich; richtet ihr, was ich sage.
+      spanish: "Os hablo como a discretos. Sed vosotros jueces de lo que os digo:"
+      peshitta: ܐܰܝܟ݂ ܕ݁ܰܠܚܰܟ݁ܺܝܡܶܐ ܐܳܡܰܪ ܐ݈ܢܳܐ ܕ݁ܽܘܢܘ ܐܰܢ݈ܬ݁ܽܘܢ ܡܶܕ݁ܶܡ ܕ݁ܳܐܡܰܪ ܐ݈ܢܳܐ܂
+      bel_syomukha: "Я кажу вам як разважлівым; самі памяркуйце, пра што я кажу:"
+      nrt: Я говорю вам как разумным людям, рассудите сами.
+      romana: Ca unor intelepti va vorbesc. Judecati voi ce va spun.
+      francais: Je parle comme à des hommes intelligents; jugez vous-mêmes de ce que
+        je dis.
+      italian: "Parlo come a persone intelligenti; giudicate voi stessi quello che
+        dico:"
+      old_georgian: "ვითარცა ბრძენთა გეტყჳ თქუენ:"
+      portuguese: Falo como a entendidos; julgai vós mesmos o que digo.
+      polish: "Mówię jak do ludzi rozsądnych. Zresztą osądźcie sami to, co mówię:"
+      new_text: Я говорю с вами, как с разумными людьми. Подумайте сами над тем, что я
+        говорю.
+      serbian: Као мудрима говорим; судите ви шта кажем.
+      bulgarian: Говоря като на разумни; разсъдете сами за това, що казвам.
+      ukr2: "Я вам говорю як розумним: судіть ви самі, що кажу."
+      ukr3: Жінка ж, коли має довге волоссє, се слава їй; бо волоссє замість покриття
+        їй дано.
+      czech: "Mluvim k vam jako k rozumnym lidem; posudte sami, co rikam:"
+      st_text: Я говорю <i>вам</i> как рассудительным; сами рассудите о том, что говорю.
+  - id: 1332
+    number: 16
+    bookId: 64
+    text: Чаша благословения, которую благословляем, не есть ли приобщение Крови
+      Христовой? Хлеб, который преломляем, не есть ли приобщение Тела Христова?
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 25699
+        bookId: 51
+        bookCode: evangelie-ot-matfea
+        chapter: 26
+        short: Мф:26:26
+      - verseId: 13443
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 2
+        short: Деян:2:42
+      - verseId: 13447
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 2
+        short: Деян:2:46
+      - verseId: 13455
+        bookId: 55
+        bookCode: deania-apostolov
+        chapter: 20
+        short: Деян:20:7
+      - verseId: 1372
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 11
+        short: 1 Кор:11:23
+    translates:
+      kassian: Чаша благословения, которую мы благословляем, не есть ли приобщение
+        крови Христовой; хлеб, который преломляем, не есть ли приобщение тела
+        Христова?
+      podstr: Чаша благословения которую благословляем, [разве] не общность есть крови
+        Христа? Хлеб который ломаем, [разве] не общность тела Христа есть?
+      csya: чаша благословения, юже благословляем, не общение ли крове Христовы есть?
+        хлеб, егоже ломим, не общение ли тела Христова есть?
+      averincev: ""
+      ungerov: ""
+      csya_old: чaша блгcве1ніz, ю4же благословлsемъ, не nбще1ніе ли кро1ве хrто1вы
+        є4сть; хлёбъ, є3го1же ло1мимъ, не nбще1ніе ли тёла хrто1ва є4сть;
+      sovr_rbo: ""
+      latin: Calix benedictionis, cui benedicimus, nonne communicatio sanguinis
+        Christi est? et panis quem frangimus, nonne participatio corporis Domini
+        est?
+      ukr: Чаша благословення, яку благословляємо, чи не спільнота то крови Христової?
+        Хліб, який ломимо, чи не спільнота він тіла Христового?
+      nkjv: The cup of blessing which we bless, is it not the communion of the blood
+        of Christ? The bread which we break, is it not the communion of the body
+        of Christ?
+      desnitsky: Чаша благословения – та, над которой мы произносим благословение, –
+        разве не приобщает она нас крови Христовой? И хлеб, который мы
+        преломляем, разве не приобщает нас телу Христову?
+      tex_rec: τὸ ποτήριον τῆς εὐλογίας ὃ εὐλογοῦμεν, οὐχὶ κοινωνία ἐστὶν τοῦ αἵματος
+        τοῦ Χριστοῦ; τὸν ἄρτον ὃν κλῶμεν, οὐχὶ κοινωνία τοῦ σώματος τοῦ Χριστοῦ
+        ἐστιν;
+      deutsch: Der gesegnete Kelch, welchen wir segnen, ist der nicht die Gemeinschaft
+        des Blutes Christi? Das Brot, das wir brechen, ist das nicht die
+        Gemeinschaft des Leibes Christi?
+      spanish: El cáliz de bendición que bendecimos, ¿no es la comunión de la sangre
+        de Cristo? Y el pan que partimos, ¿no es la comunión del cuerpo de
+        Cristo?
+      peshitta: ܟ݁ܳܣܳܐ ܗܰܘ ܕ݁ܬ݂ܰܘܕ݁ܺܝܬ݂ܳܐ ܕ݁ܰܡܒ݂ܰܪܟ݂ܺܝܢܰܢ ܠܳܐ ܗ݈ܘܳܐ ܫܰܘܬ݁ܳܦ݂ܽܘܬ݂ܳܐ
+        ܐܺܝܬ݂ܰܘܗ݈ܝ ܕ݁ܰܕ݂ܡܶܗ ܕ݁ܰܡܫܺܝܚܳܐ ܘܠܰܚܡܳܐ ܗܰܘ ܕ݁ܩܳܨܶܝܢܰܢ ܠܳܐ ܗ݈ܘܳܐ
+        ܫܰܘܬ݁ܳܦ݂ܽܘܬ݂ܳܐ ܐܺܝܬ݂ܰܘܗ݈ܝ ܕ݁ܦ݂ܰܓ݂ܪܶܗ ܕ݁ܰܡܫܺܝܚܳܐ܂
+      bel_syomukha: Чара дабраславеньня, якую дабраслаўляем, ці ня ёсьць далучэньне
+        Крыві Хрыстовай? хлеб, які ламаем, ці ня ёсьць далучэньне Цела
+        Хрыстовага?
+      nrt: Разве чаша благословения, которую мы благословляем, не приобщает нас к
+        крови Христа? И разве хлеб, который мы преломляем, не приобщает нас к
+        телу Христа?
+      romana: Paharul binecuvantarii, pe care-l binecuvantam, nu este, oare,
+        impartasirea cu sangele lui Hristos? Painea pe care o frangem nu este,
+        oare, impartasirea cu trupul lui Hristos?
+      francais: La coupe de bénédiction que nous bénissons, n'est-elle pas la
+        communion au sang de Christ? Le pain que nous rompons, n'est-il pas la
+        communion au corps de Christ?
+      italian: il calice della benedizione che noi benediciamo, non è forse comunione
+        con il sangue di Cristo? E il pane che noi spezziamo, non è forse
+        comunione con il corpo di Cristo?
+      old_georgian: სასუმელი ესე კურთხევისაჲ, რომელსა ვაკურთხევთ, არა-მე ზიარებაჲ
+        სისხლთა ქრისტესთაჲ არსა? პურსა ამას რომელსა განვსტეხთ, არა-მე ზიარებაჲ
+        ჴორცთა ქრისტესთაჲ არსა?
+      portuguese: "Porventura o cálice de bênção que abençoamos, não é a comunhão do
+        sangue de Cristo? O pão que partimos,\rnão é porventura a comunhão do
+        corpo de Cristo?"
+      polish: "Kielich błogosławieństwa, który błogosławimy, czy nie jest udziałem we
+        Krwi\rChrystusa? Chleb, który łamiemy, czyż nie jest udziałem w Ciele
+        Chrystusa?"
+      new_text: Разве чаша благодарения, за которую мы благодарим Бога, не приобщает
+        нас к крови Христа? И хлеб, который мы ломаем, разве не приобщает нас к
+        телу Христа?
+      serbian: Чаша благослова коју благосиљамо, није ли заједница крви
+        Христове?  Хљеб који ломимо, није ли заједница тијела Христова?
+      bulgarian: Чашата на благословението, която благославяме, не е ли общение с
+        кръвта Христова? Хлябът, който ломим, не е ли общение с тялото Христово?
+      ukr2: Чаша благословення, що ми благословляємо, хіба не є причастям Христової
+        крови? Хліб, що ламаємо, не є причастям Христового тіла?
+      ukr3: Коли ж хто єсть сварливим, то ми такого звичаю не маємо, нї церкви Божі.
+      czech: Neni kalich pozehnani, za nejz dekujeme, ucasti na krvi Kristove? A neni
+        chleb, ktery lameme, ucasti na tele Kristove?
+      st_text: Чаша благословения, которую благословляем, не есть ли приобщение Крови
+        Христовой? Хлеб, который преломляем, не есть ли приобщение Тела
+        Христова?
+  - id: 1333
+    number: 17
+    bookId: 64
+    text: Один хлеб, и мы многие одно тело; ибо все причащаемся от одного хлеба.
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 18573
+        bookId: 54
+        bookCode: evangelie-ot-ioanna
+        chapter: 6
+        short: Ин:6:33
+    translates:
+      kassian: Так как хлеб - один, то мы многие - одно тело; ибо все причащаемся от
+        одного хлеба.
+      podstr: Потому что один хлеб, одно тело многие мы есть, ведь все из одного хлеба
+        имеем часть.
+      csya: "Яко един хлеб, едино тело есмы мнози: вси бо от единаго хлеба
+        причащаемся."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Ћкw є3ди1нъ хлёбъ, є3ди1но тёло є3смы2 мно1зи: вси1 бо t є3ди1нагw
+        хлёба причащaемсz."
+      sovr_rbo: ""
+      latin: Quoniam unus panis, unum corpus multi sumus, omnes qui de uno pane
+        participamus.
+      ukr: Тому що один хліб, тіло одне нас багато, бо ми всі спільники хліба одного.
+      nkjv: For we, though many, are one bread and one body; for we all partake of
+        that one bread.
+      desnitsky: Хлеб един, и все мы – единое тело, сколько бы нас ни причащалось от
+        единого хлеба.
+      tex_rec: ὅτι εἷς ἄρτος, ἓν σῶμα οἱ πολλοί ἐσμεν, οἱ γὰρ πάντες ἐκ τοῦ ἑνὸς ἄρτου
+        μετέχομεν.
+      deutsch: Denn ein Brot ist's, so sind wir viele ein Leib, dieweil wir alle eines
+        Brotes teilhaftig sind.
+      spanish: Porque el pan es uno, somos muchos un solo cuerpo, pues todos
+        participamos de ese único pan.
+      peshitta: ܐܰܝܟ݁ܰܢܳܐ ܕ݁ܚܰܕ݂ ܗ݈ܽܘ ܠܰܚܡܳܐ ܗܰܘ ܗܳܟ݂ܰܢܳܐ ܟ݁ܽܠܰܢ ܚܰܕ݂ ܚܢܰܢ ܦ݁ܓ݂ܰܪ
+        ܟ݁ܽܠܰܢ ܓ݁ܶܝܪ ܡܶܢ ܗܰܘ ܗ݈ܽܘ ܚܰܕ݂ ܠܰܚܡܳܐ ܢܳܣܒ݁ܺܝܢܰܢ܂
+      bel_syomukha: Адзін хлеб, і мы многія - адно цела; бо ўсе прычашчаемся адным хлебам.
+      nrt: Хлеб один, и мы, как бы много нас ни было, составляем одно тело, потому что
+        имеем часть в одном хлебе.
+      romana: Ca o paine, un trup, suntem cei multi; caci toti ne impartasim dintr-o
+        paine.
+      francais: Puisqu'il y a un seul pain, nous qui sommes plusieurs, nous formons un
+        seul corps; car nous participons tous à un même pain.
+      italian: "Poiché c'è un solo pane, noi, pur essendo molti, siamo un corpo solo:
+        tutti infatti partecipiamo dell'unico pane."
+      old_georgian: რამეთუ ერთ პურ და ერთ ჴორც ჩუენ მრავალნი ესე ვართ, რამეთუ ყოველთა
+        ერთისა მისგან პურისა მოგუაქუს.
+      portuguese: Pois nós, embora muitos, somos um só pão, um só corpo; porque todos
+        participamos de um mesmo pão.
+      polish: "Ponieważ jeden jest chleb, przeto my, liczni, tworzymy jedno Ciało.
+        Wszyscy\rbowiem bierzemy z tego samego chleba."
+      new_text: Поскольку хлеб этот один, то все мы, хотя нас и много, становимся
+        одним телом, потому что делим на всех один и тот же хлеб.
+      serbian: Јер један је хљеб, једно смо тијело многи, пошто се сви од једнога
+        хљеба причешћујемо.
+      bulgarian: Защото един хляб, едно тяло сме ние многото, понеже всички се
+        причестяваме от един хляб.
+      ukr2: Тому, що один хліб, - нас багато становить одне тіло, бо всі ми беремо
+        участь у одному хлібі.
+      ukr3: Се ж завіщаючи, не хвалю, що не на лучче, а на гірше збираєтесь.
+      czech: Protoze je jeden chleb, jsme my mnozi jedno telo, nebot vsichni mame
+        podil na jednom chlebu.
+      st_text: Один хлеб, и мы многие одно тело; ибо все причащаемся от одного хлеба.
+  - id: 1334
+    number: 18
+    bookId: 64
+    text: "Посмотрите на Израиля по плоти: те, которые едят жертвы, не участники ли
+      жертвенника?"
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 23699
+        bookId: 3
+        bookCode: levit
+        chapter: 7
+        short: Лев:7:15
+    translates:
+      kassian: "Смотрите на Израиля по плоти: те, которые едят жертвы, не общники ли
+        они жертвенника?"
+      podstr: Смотрите [на] Израиль по плоти; [разве] не едящие жертвы сообщники
+        жертвенника есть?
+      csya: "Видите израиля по плоти: не ядущии ли жертвы общницы олтареви суть?"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Ви1дите ї}лz по пло1ти: не kдyщіи ли жє1ртвы њ1бщницы nлтаре1ви сyть;"
+      sovr_rbo: ""
+      latin: "Videte Israel secundum carnem: nonne qui edunt hostias, participes sunt
+        altaris?"
+      ukr: "Погляньте на Ізраїля за тілом: чи ж ті, що жертви їдять, не спільники
+        вівтаря?"
+      nkjv: "Observe Israel after the flesh: Are not those who eat of the sacrifices
+        partakers of the altar?"
+      desnitsky: "Посмотрите на тех, кто по рождению принадлежит к израильскому
+        народу: все, кто вкушают жертвенное мясо – священники, служащие у
+        жертвенника."
+      tex_rec: βλέπετε τὸν ᾽Ισραὴλ κατὰ σάρκα· οὐχ οἱ ἐσθίοντες τὰς θυσίας κοινωνοὶ
+        τοῦ θυσιαστηρίου εἰσίν;
+      deutsch: Sehet an das Israel nach dem Fleisch! Welche die Opfer essen, sind die
+        nicht in der Gemeinschaft des Altars?
+      peshitta: ܚܙܰܘ ܠܺܐܝܣܪܳܝܶܠ ܕ݁ܒ݂ܰܒ݂ܣܰܪ ܠܳܐ ܗ݈ܘܳܐ ܐܰܝܠܶܝܢ ܕ݁ܳܐܟ݂ܠܺܝܢ ܕ݁ܶܒ݂ܚܶܐ
+        ܗܳܘܶܝܢ ܫܰܘܬ݁ܳܦ݂ܶܐ ܠܡܰܕ݂ܒ݁ܚܳܐ܂
+      bel_syomukha: "Паглядзеце на Ізраіля па плоці: тыя, што ядуць ахвярнае, ці ня
+        супольнікі яны ахвярніка?"
+      nrt: "Посмотрите на израильский народ: разве все, кто ест принесенное в жертву,
+        не являются участниками одного жертвенника?"
+      romana: "Priviti pe Israel dupa trup: Cei care mananca jertfele nu sunt ei,
+        oare, partasi altarului?"
+      francais: "Voyez les Israélites selon la chair: ceux qui mangent les victimes ne
+        sont-ils pas en communion avec l'autel?"
+      italian: "Guardate Israele secondo la carne: quelli che mangiano le vittime
+        sacrificali non sono forse in comunione con l'altare?"
+      old_georgian: "იხილეთ-ღა ისრაჱლი ჴორციელად: ანუ არა რომელნი-იგი ჭამენ
+        შესაწირავთა მათ, ზიარ საკურთხეველისა მის არიანა?"
+      portuguese: Vede a Israel segundo a carne; os que comem dos sacrifícios não são
+        porventura participantes do altar?
+      polish: "Przypatrzcie się Izraelowi według ciała! Czyż nie są w jedności z
+        ołtarzem ci,\rktórzy spożywają z ofiar na ołtarzu złożonych?"
+      new_text: Посмотрите на земной Израиль. Разве те, кто ест принесенное в жертву,
+        не приобщаются тем самым к жертвеннику, на который оно приносится?
+      serbian: "Гледајте Израиља по тијелу: који једу жртве нису ли заједничари
+        жртвеника?"
+      bulgarian: "Гледайте Израиля по плът: ония, които ядат жертвите, не са ли
+        съобщници на жертвеника?"
+      ukr2: "Погляньте на Ізраїля за тілом: чи ж ті, що їдять жертви, не спільники з
+        жертовником?"
+      ukr3: Бо найперш, як сходитесь ви в церкву, чую, що буває роздїленнє між вами, й
+        почасти вірю.
+      czech: "Pohledte na Izraelsky lid: Nespojuje ty, kteri jedi obeti, spolecenstvi
+        oltare?"
+      st_text: "Посмотрите на Израиля по плоти: те, которые едят жертвы, не участники
+        ли жертвенника?"
+  - id: 1335
+    number: 19
+    bookId: 64
+    text: Что же я говорю? То ли, что идол есть что-нибудь, или идоложертвенное
+      значит что-нибудь?
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 1686
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 8
+        short: 1 Кор:8:4
+      - verseId: 28370
+        bookId: 77
+        bookCode: otkrovenie-ap-ioanna-bogoslova
+        chapter: 2
+        short: Откр:2:20
+    translates:
+      kassian: Что же я говорю? то ли, что идоложертвенное есть нечто, или что идол
+        есть нечто?
+      podstr: Что итак говорю? Что жертва идолу что-нибудь есть? Или что идол
+        что-нибудь есть?
+      csya: Что убо глаголю? яко идол что есть? или идоложертвенное что есть?
+      averincev: ""
+      ungerov: ""
+      csya_old: Что2 ў2бо глаго1лю; ћкw јдwлъ что2 є4сть; и3ли2 їдwложе1ртвенное что2
+        є4сть;
+      sovr_rbo: ""
+      latin: Quid ergo? dico quod idolis immolatum sit aliquid? aut quod idolum, sit
+        aliquid?
+      ukr: Тож що я кажу? Що ідольська жертва є щось? Чи що ідол є щось?
+      nkjv: What am I saying then? That an idol is anything, or what is offered to
+        idols is anything?
+      desnitsky: К чему я это говорю? Не к тому, что принесенное в жертву идолу или же
+        сам идол что-то значат.
+      tex_rec: τί οὖν φημι; ὅτι εἰδωλόθυτόν τί ἐστιν; ἢ ὅτι εἴδωλόν τί ἐστιν;
+      deutsch: Was soll ich denn nun sagen? Soll ich sagen, daß der Götze etwas sei
+        oder daß das Götzenopfer etwas sei?
+      spanish: ¿Qué digo, pues? ¿Que las carnes sacrificadas a los ídolos son algo o
+        que los ídolos son algo?
+      peshitta: ܡܳܢܳܐ ܗܳܟ݂ܺܝܠ ܐܳܡܰܪ ܐ݈ܢܳܐ ܕ݁ܰܦ݂ܬ݂ܰܟ݂ܪܳܐ ܡܶܕ݁ܶܡ ܐܺܝܬ݂ܰܘܗ݈ܝ ܐܰܘ ܕ݁ܶܒ݂ܚܳܐ
+        ܕ݁ܰܦ݂ܬ݂ܰܟ݂ܪܳܐ ܡܶܕ݁ܶܡ ܗ݈ܽܘ ܠܳܐ܂
+      bel_syomukha: Што я кажу? ці тое, што ідал ёсьць нешта? альбо ідалаахвярнае
+        значыць што-небудзь?
+      nrt: Конечно, я не говорю, что идол или же принесенное ему в жертву имеет
+        какое-либо значение.
+      romana: Deci ce spun eu? Ca ce s-a jertfit pentru idol e ceva? Sau idolul este
+        ceva?
+      francais: Que dis-je donc? Que la viande sacrifiée aux idoles est quelque chose,
+        ou qu'une idole est quelque chose? Nullement.
+      italian: Che cosa dunque intendo dire? Che la carne immolata agli idoli è
+        qualche cosa? O che un idolo è qualche cosa?
+      old_georgian: რასა უკუე ვიტყჳ ამას, ვითარმედ კერპი იგი რაჲ არს, ანუ ნაგები იგი რაჲ არს?
+      portuguese: Mas que digo? Que o sacrificado ao ídolo é alguma coisa? Ou que o
+        ídolo é alguma coisa?
+      polish: "Lecz po cóż to mówię? Czy może jest czymś ofiara złożona bożkom?
+        Albo\rczy sam bożek jest czymś?"
+      new_text: Так что я имею в виду? Что принесенное в жертву идолу что-то значит
+        или что сам идол что-то значит?
+      serbian: Шта, дакле, кажем? Да је идол нешто? Или да је идолска жртва нешто?
+      bulgarian: Какво, прочее, казвам? Това ли, че идолът е нещо, или че идолските
+        жертви са нещо?
+      ukr2: Що хочу цим сказати? Невже ідольська жертва є чимось? Або ідол є чимсь?
+      ukr3: Треба бо й єресям між вами бути, щоб вірні між вами явились.
+      czech: Co tim chci rici? Ze pokrm obetovany modlam neco znamena? Nebo ze modla
+        neco znamena?
+      st_text: Что же я говорю? То ли, что идол есть что-нибудь, или идоложертвенное
+        значит что-нибудь?
+  - id: 1336
+    number: 20
+    bookId: 64
+    text: <i>Нет</i>, но что язычники, принося жертвы, приносят бесам, а не Богу. Но
+      я не хочу, чтобы вы были в общении с бесами.
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 36638
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 32
+        short: Втор:32:17
+    translates:
+      kassian: Нет, но что они приносимое ими в жертву приносят бесам, а не Богу. Но я
+        не хочу, чтобы вы становились общниками бесов.
+      podstr: Но что которое закалывают как жертву, демонам и не Богу закалывают как
+        жертву, не хочу же вас сообщников демонов делаться.
+      csya: "Но зане, яже жрут языцы, бесом жрут, а не Богови: не хощу же вас общников
+        быти бесом."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Но зане2, ±же жрyтъ kзы1цы, бэсHмъ жрyтъ, ґ не бг7ови: не хощy же
+        вaсъ џбщникwвъ бы1ти бэсHмъ."
+      sovr_rbo: ""
+      latin: "Sed quae immolant gentes, daemoniis immolant, et non Deo. Nolo autem vos
+        socios fieri daemoniorum:"
+      ukr: Ні, але те, що в жертву приносять, демонам, а не Богові в жертву приносять.
+        Я ж не хочу, щоб ви спільниками для демонів стали.
+      nkjv: Rather, that the things which the Gentiles sacrifice they sacrifice to
+        demons and not to God, and I do not want you to have fellowship with
+        demons.
+      desnitsky: Но те, кто приносят такие жертвы, приносят их бесам, а не Богу, и я
+        не хочу, чтобы у вас было с бесами хоть что-то общее.
+      tex_rec: ἀλλ᾽ ὅτι ἃ θύουσιν [τὰ ἔθνη], δαιμονίοις καὶ οὐ θεῷ θύουσιν, οὐ θέλω δὲ
+        ὑμᾶς κοινωνοὺς τῶν δαιμονίων γίνεσθαι.
+      deutsch: "Aber ich sage: Was die Heiden opfern, das opfern sie den Teufeln, und
+        nicht Gott. Nun will ich nicht, daß ihr in der Teufel Gemeinschaft sein
+        sollt."
+      spanish: Antes bien, digo que lo que sacrifican los gentiles, a los demonios y
+        no a Dios lo sacrifican. Y no quiero yo que vosotros tengáis parte con
+        los demonios.
+      peshitta: ܐܶܠܳܐ ܗܰܘ ܡܶܕ݁ܶܡ ܕ݁ܕ݂ܳܒ݂ܚܺܝܢ ܚܰܢܦ݂ܶܐ ܠܫܺܐܕ݂ܶܐ ܗ݈ܘ ܕ݁ܳܒ݂ܚܺܝܢ ܘܠܳܐ
+        ܠܰܐܠܳܗܳܐ ܠܳܐ ܕ݁ܶܝܢ ܨܳܒ݂ܶܐ ܐ݈ܢܳܐ ܕ݁ܬ݂ܶܗܘܽܘܢ ܫܰܘܬ݁ܳܦ݂ܶܐ ܠܫܺܐܕ݂ܶܐ܂
+      bel_syomukha: Не; але што язычнікі, калі прыносяць ахвяры, дык прыносяць
+        дэманам, а ня Богу; але я не хачу, каб вы былі ў супольнасьці з
+        дэманамі.
+      nrt: Нет, но дело в том, что язычники, принося свои жертвы, приносят их демонам,
+        а не Богу, а я не хочу, чтобы вы становились сообщниками демонов.
+      romana: Ci (zic) ca cele ce jertfesc neamurile, jertfesc demonilor si nu lui
+        Dumnezeu. Si nu voiesc ca voi sa fiti partasi ai demonilor.
+      francais: Je dis que ce qu'on sacrifie, on le sacrifie à des démons, et non à
+        Dieu; or, je ne veux pas que vous soyez en communion avec les démons.
+      italian: No, ma dico che i sacrifici dei pagani sono fatti a demòni e non a Dio.
+        Ora, io non voglio che voi entriate in comunione con i demòni;
+      old_georgian: არამედ, ვითარმედ რომელსა-იგი უგებენ წარმართნი, ეშმაკთა უგებენ და
+        არა ღმერთსა; ხოლო მე არა მნებავს თქუენი ეშმაკთა ზიარებჲ.
+      portuguese: "Antes digo que as coisas que eles sacrificam, sacrificam-nas a
+        demônios, e não a Deus. E não quero que sejais\rparticipantes com os
+        demônios."
+      polish: "Ależ właśnie to, co ofiarują poganie, demonom składają w ofierze, a nie
+        Bogu.\rNie chciałbym, byście mieli coś wspólnego z demonami."
+      new_text: Нет, конечно! Но когда язычники приносят жертву, они приносят ее
+        бесам, а не Богу. А я не хочу, чтобы вы были причастны к бесам!
+      serbian: Не, него да оно што незнабошци жртвују, демонима жртвују, а не Богу; а
+        ја нећу да сте ви заједничари са демонима.
+      bulgarian: Не, но каквото принасят в жертва езичниците, принасят го на бесове, а
+        не Богу; пък аз не искам да бъдете съобщници на бесовете.
+      ukr2: Ні! А лиш те, що погани, коли щось жертвують, то жертвують бісам, не
+        Богові. Я ж не хочу, щоб ви були спільниками бісів.
+      ukr3: Як же сходитесь до купи, то не на те, щоб Господню вечерю їсти.
+      czech: Nikoli, nybrz ze to, co pohane obetuji, obetuji demonum, a ne Bohu.
+        Nechci, abyste vesli ve spolecenstvi s demony.
+      st_text: <i>Нет</i>, но что язычники, принося жертвы, приносят бесам, а не Богу.
+        Но я не хочу, чтобы вы были в общении с бесами.
+  - id: 1337
+    number: 21
+    bookId: 64
+    text: Не можете пить чашу Господню и чашу бесовскую; не можете быть участниками
+      в трапезе Господней и в трапезе бесовской.
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 8919
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 17
+        short: 4 Цар:17:33
+      - verseId: 952
+        bookId: 15
+        bookCode: 1a-kniga-ezdry
+        chapter: 4
+        short: 1 Езд:4:3
+      - verseId: 5200
+        bookId: 65
+        bookCode: 2oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 6
+        short: 2 Кор:6:15
+    translates:
+      kassian: Не можете чашу Господню пить и чашу бесовскую, не можете в трапезе
+        Господней участвовать и в трапезе бесовской.
+      podstr: Не можете чашу Господа пить и чашу демонов; не можете стола Господа
+        иметь часть и стола демонов.
+      csya: "Не можете чашу Господню пити и чашу бесовскую: не можете трапезе
+        Господней причащатися и трапезе бесовстей."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Не мо1жете чaшу гDню пи1ти и3 чaшу бэсо1вскую: не мо1жете трапе1зэ
+        гDней причащaтисz и3 трапе1зэ бэсо1встэй."
+      sovr_rbo: ""
+      latin: non potestis calicem Domini bibere, et calicem daemoniorum; non potestis
+        mensae Domini participes esse, et mensae daemoniorum.
+      ukr: Бо не можете пити чаші Господньої та чаші демонської; не можете бути
+        спільниками Господнього столу й столу демонського.
+      nkjv: "You cannot drink the cup of the Lord and the cup of demons; you cannot
+        partake of the Lord's table and of the table of demons. "
+      desnitsky: Не можете вы пить и от чаши Господней, и от бесовской чаши, не можете
+        участвовать и в трапезе Господней, и в бесовской трапезе.
+      tex_rec: οὐ δύνασθε ποτήριον κυρίου πίνειν καὶ ποτήριον δαιμονίων· οὐ δύνασθε
+        τραπέζης κυρίου μετέχειν καὶ τραπέζης δαιμονίων.
+      deutsch: Ihr könnt nicht zugleich trinken des Herrn Kelch und der Teufel Kelch;
+        ihr könnt nicht zugleich teilhaftig sein des Tisches des Herrn und des
+        Tisches der Teufel.
+      spanish: No podéis beber el cáliz del Señor y el cáliz de los demonios. No
+        podéis tener parte en la mesa del Señor y en la mesa de los demonios.
+      peshitta: ܠܳܐ ܡܶܫܟ݁ܚܺܝܢ ܐܢ݈ܬ݁ܽܘܢ ܕ݁ܬ݂ܶܫܬ݁ܽܘܢ ܟ݁ܳܣܳܐ ܕ݁ܡܳܪܰܢ ܘܟ݂ܳܣܳܐ ܕ݁ܫܺܐܕ݂ܶܐ
+        ܘܠܳܐ ܡܶܫܟ݁ܚܺܝܢ ܐܢ݈ܬ݁ܽܘܢ ܕ݁ܬ݂ܶܫܬ݁ܰܘܬ݁ܦ݂ܽܘܢ ܒ݁ܦ݂ܳܬ݂ܽܘܪܳܐ ܕ݁ܡܳܪܰܢ
+        ܘܰܒ݂ܦ݂ܳܬ݂ܽܘܪܳܐ ܕ݁ܫܺܐܕ݂ܶܐ܂
+      bel_syomukha: Ня можаце піць чару Гасподнюю і чару дэманскую; ня можаце быць
+        супольнікамі ў гасьціне Гасподняй і ў гасьціне дэманскай.
+      nrt: Ведь не можете же вы пить одновременно из чаши Господней и из чаши демонов,
+        нельзя в одно и то же время участвовать в трапезе Господа и в трапезе
+        демонов.
+      romana: Nu puteti sa beti paharul Domnului si paharul demonilor; nu puteti sa va
+        impartasiti din masa Domnului si din masa demonilor.
+      francais: Vous ne pouvez boire la coupe du Seigneur, et la coupe des démons;
+        vous ne pouvez participer à la table du Seigneur, et à la table des
+        démons.
+      italian: non potete bere il calice del Signore e il calice dei demòni; non
+        potete partecipare alla mensa del Signore e alla mensa dei demòni.
+      old_georgian: ვერ ჴელ-გეწიფების სასუმელი უფლისაჲ სუმად და სასუმელი ეშმაკთაჲ; ვერ
+        ჴელ-გეწიფების ტაბლასა უფლისასა ზიარებაჲ და ტაბლასა ეშმაკთასა.
+      portuguese: "Não podeis beber do cálice do Senhor e do cálice de demônios; não
+        podeis participar da mesa do Senhor e da\rmesa de demônios."
+      polish: "Nie możecie pić z kielicha Pana i z kielicha demonów; nie możecie
+        zasiadać\rprzy stole Pana i przy stole demonów."
+      new_text: Вы не можете пить и из чаши Господа, и из чаши бесов! Вы не можете
+        разделять и Трапезу Господа, и трапезу бесов!
+      serbian: Не можете пити чашу Господњу и чашу демонску; не можете учествовати у
+        трпези Господњој и у трпези демонској.
+      bulgarian: Не можете да пиете Господня чаша и бесовска чаша; не можете да
+        участвувате на Господня трапеза и на бесовска трапеза.
+      ukr2: Не можете пити чаші Господньої і чаші бісівської; не можете бути
+        учасниками столу Господнього і столу бісівського.
+      ukr3: Кожен бо свою вечерю попереду поїсть, і один голодує, другий же впиваєть
+        ся.
+      czech: Nemuzete pit kalich Pane i kalich demonu. Nemuzete mit ucast na stolu
+        Pane i na stolu demonu.
+      st_text: Не можете пить чашу Господню и чашу бесовскую; не можете быть
+        участниками в трапезе Господней и в трапезе бесовской.
+  - id: 1338
+    number: 22
+    bookId: 64
+    text: Неужели мы <i>решимся</i> раздражать Господа? Разве мы сильнее Его?
+    chapter: 10
+    chapterId: 1277
+    parallels: []
+    translates:
+      kassian: Или мы возбуждаем ревность Господа? Разве мы сильнее Его?
+      podstr: Или вызываем на ревность Господа? Не сильнейшие Его мы есть?
+      csya: Или раздражаем Господа? Еда крепчайши его есмы?
+      averincev: ""
+      ungerov: ""
+      csya_old: И#ли2 раздражaемъ гDа; є3дA крэпчaйши є3гw2 є3смы2;
+      sovr_rbo: ""
+      latin: An aemulamur Dominum? numquid fortiores illo sumus? Omnia mihi licent,
+        sed non omnia expediunt.
+      ukr: Чи ми дратуватимем Господа? Хіба ми потужніші за Нього?
+      nkjv: Or do we provoke the Lord to jealousy? Are we stronger than He?
+      desnitsky: Зачем нам дразнить Господа? Разве мы сильнее Его?
+      tex_rec: ἢ παραζηλοῦμεν τὸν κύριον; μὴ ἰσχυρότεροι αὐτοῦ ἐσμεν;
+      deutsch: Oder wollen wir dem Herrn trotzen? Sind wir stärker denn er?
+      spanish: ¿O querernos provocar la ira del Señor? Somos acaso más fuertes que El?
+      peshitta: ܐܰܘ ܕ݁ܰܠܡܳܐ ܡܰܛܳܢܽܘ ܡܰܛܢܺܝܢܰܢ ܠܡܳܪܰܢ ܕ݁ܰܠܡܳܐ ܚܰܣܺܝܢܺܝܢܰܢ ܡܶܢܶܗ܂
+      bel_syomukha: Няўжо мы адважымся дражніць Госпада? Хіба мы мацнейшыя за Яго?
+      nrt: Или мы думаем, что можем раздражать Господа? Разве мы сильнее Его?
+      romana: Oare vrem sa maniem pe Domnul? Nu cumva suntem mai tari decat El?
+      francais: Voulons-nous provoquer la jalousie du Seigneur? Sommes-nous plus forts
+        que lui?
+      italian: O vogliamo provocare la gelosia del Signore? Siamo forse più forti di
+        lui?
+      old_georgian: ანუ ვაშურებთ-მეა უფალსა? ნუუკუე უძლიერეს მისსა ვართ?
+      portuguese: Ou provocaremos a zelos o Senhor? Somos, porventura, mais fortes do
+        que ele?
+      polish: "Czyż będziemy pobudzali Pana do zazdrości? Czyż jesteśmy mocniejsi
+        od\rNiego?"
+      new_text: Или мы хотим вызвать у Господа ревность? Но неужели мы Его сильнее?
+      serbian: Зар да разљутимо Господа? Јесмо ли јачи од њега?
+      bulgarian: Или ще възбудим ревнуване у Господа? Та по-силни ли сме от Него?
+      ukr2: Чи будемо ж ми гнівити Господа? Чи ми - міцніші від нього?
+      ukr3: Хиба бо домів не маєте, щоб їсти й пити? чи церквою Божою гордуєте і
+        осоромлюєте неимущих? Що ж вам сказати? чи похвалити вас у сьому? Не
+        похвалю.
+      czech: Chceme snad popudit Pana k zarlivosti? Jsme snad silnejsi nez on?
+      st_text: Неужели мы <i>решимся</i> раздражать Господа? Разве мы сильнее Его?
+  - id: 1339
+    number: 23
+    bookId: 64
+    text: Все мне позволительно, но не все полезно; все мне позволительно, но не все
+      назидает.
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 34227
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 37
+        short: Сир:37:31
+      - verseId: 1634
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 6
+        short: 1 Кор:6:12
+    translates:
+      kassian: Всё позволено, но не всё на пользу; всё позволено, но не всё назидает.
+      podstr: Всё позволяется, но не всё приносит пользу. Всё позволяется, но не всё
+        строит.
+      csya: "Вся ми леть суть, но не вся на пользу: вся ми леть суть, но не вся
+        назидают."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Вс‰ ми2 лёть сyть, но не вс‰ на по1льзу: вс‰ ми2 лёть сyть, но не вс‰
+        назидaютъ."
+      sovr_rbo: ""
+      latin: Omnia mihi licent, sed non omnia aedificat.
+      ukr: Усе мені можна, та не все на пожиток. Усе мені можна, та будує не все!
+      nkjv: All things are lawful for me, but not all things are helpful; all things
+        are lawful for me, but not all things edify.
+      desnitsky: Всё позволительно, но не всё полезно; всё позволительно, но не всё
+        поучительно.
+      tex_rec: Πάντα ἔξεστιν, ἀλλ᾽ οὐ πάντα συμφέρει. πάντα ἔξεστιν, ἀλλ᾽ οὐ πάντα
+        οἰκοδομεῖ.
+      deutsch: Ich habe zwar alles Macht; aber es frommt nicht alles. Ich habe es
+        alles Macht; aber es bessert nicht alles.
+      spanish: «Todo es lícito», pero no todo conviene; «todo e lícito», pero no todo
+        edifica.
+      peshitta: ܟ݁ܽܠ ܡܶܕ݁ܶܡ ܫܰܠܺܝܛ ܠܺܝ ܐܶܠܳܐ ܠܳܐ ܟ݁ܽܠ ܡܶܕ݁ܶܡ ܦ݁ܰܩܳܚ ܟ݁ܽܠ ܡܶܕ݁ܶܡ ܫܰܠܺܝܛ
+        ܠܺܝ ܐܶܠܳܐ ܠܳܐ ܟ݁ܽܠ ܡܶܕ݁ܶܡ ܡܒ݂ܰܢܶܐ܂
+      bel_syomukha: Усё мне можна, ды ня ўсё на карысьць; усё мне можна, ды ня ўсё навучае.
+      nrt: Вы говорите:«Все позволено». Но не все полезно. «Все позволено», но не все
+        служит к созиданию.
+      romana: Toate imi sunt ingaduite, dar nu toate imi folosesc. Toate imi sunt
+        ingaduite, dar nu toate zidesc.
+      francais: Tout est permis, mais tout n'est pas utile; tout est permis, mais tout
+        n'édifie pas.
+      italian: '"Tutto è lecito!". Ma non tutto è utile! "Tutto è lecito!". Ma non
+        tutto edifica.'
+      old_georgian: ყოველივე ჯერ-არს ჩემდა, არამედ არა ყოველი უმჯობეს არს; ყოველივე
+        ჯერ-არს ჩემდა, არამედ არა ყოველი აღმაშენებელ არს.
+      portuguese: "Todas as coisas são lícitas, mas nem todas as coisas convêm; todas
+        as coisas são lícitas, mas nem todas as\rcoisas edificam."
+      polish: "Wszystko wolno, ale nie wszystko przynosi korzyść. Wszystko wolno, ale
+        nie\rwszystko buduje."
+      new_text: «Все позволено!» Но не все на пользу. «Все позволено!» Но не все
+        способствует созиданию.
+      serbian: Све ми је слободно, али све не користи; све ми је слободно, али све не
+        изграђује.
+      bulgarian: Всичко ми е позволено, но не всичко е полезно; всичко ми е позволено,
+        ала не всичко е за поука.
+      ukr2: Усе дозволене, але не все корисне; усе дозволене, але не все будує.
+      ukr3: Я бо прийняв од Господа, що й передав вам, що Господь Ісус тієї ночи,
+        котрої був виданий, прийняв хлїб,
+      czech: ‚Vsecko je dovoleno‘ – ano, ale ne vsecko prospiva. ‚Vsecko je dovoleno‘
+        – ano, ale ne vsecko prispiva ke spolecnemu rustu.
+      st_text: Все мне позволительно, но не все полезно; все мне позволительно, но не
+        все назидает.
+  - id: 1340
+    number: 24
+    bookId: 64
+    text: Никто не ищи своего, но каждый <i>пользы</i> другого.
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 32943
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 15
+        short: Рим:15:2
+      - verseId: 14921
+        bookId: 68
+        bookCode: k-filippijcam-poslanie-ap-pavla
+        chapter: 2
+        short: Флп:2:4
+      - verseId: 14938
+        bookId: 68
+        bookCode: k-filippijcam-poslanie-ap-pavla
+        chapter: 2
+        short: Флп:2:21
+    translates:
+      kassian: Никто да не ищет своей пользы, но пользы другого.
+      podstr: Никто которое себя самого пусть ищет но которое другого.
+      csya: Никтоже своего си да ищет, но еже ближняго кийждо.
+      averincev: ""
+      ungerov: ""
+      csya_old: Никто1же своегH си да и4щетъ, но є4же бли1жнzгw кjйждо.
+      sovr_rbo: ""
+      latin: Nemo quod suum est quaerat, sed quod alterius.
+      ukr: Нехай не шукає ніхто свого власного, але кожен для ближнього!
+      nkjv: "Let no one seek his own, but each one the other's well-being. "
+      desnitsky: И пусть каждый ищет пользы не для себя, а для другого.
+      tex_rec: μηδεὶς τὸ ἑαυτοῦ ζητείτω ἀλλὰ τὸ τοῦ ἑτέρου.
+      deutsch: Niemand suche das Seine, sondern ein jeglicher, was des andern ist.
+      spanish: Nadie busque su provecho, sino el de los otros.
+      peshitta: ܠܳܐ ܐ݈ܢܳܫ ܕ݁ܢܰܦ݂ܫܶܗ ܢܶܗܘܶܐ ܒ݁ܳܥܶܐ ܐܶܠܳܐ ܟ݁ܽܠܢܳܫ ܐܳܦ݂ ܕ݁ܚܰܒ݂ܪܶܗ܂
+      bel_syomukha: Хай ніхто ня шукае карысьці сабе, а кожны - другому.
+      nrt: Пусть никто не старается угодить себе, но заботится о том, что несет благо
+        другим.
+      romana: Nimeni sa nu caute pe ale sale, ci fiecare pe ale aproapelui.
+      francais: Que personne ne cherche son propre intérêt, mais que chacun cherche
+        celui d'autrui.
+      italian: Nessuno cerchi l'utile proprio, ma quello altrui.
+      old_georgian: ნუვინ თავისასა ხოლო ეძიებნ, არამედ მოყუსისასაცა თითოეული.
+      portuguese: Ninguém busque o proveito próprio, antes cada um o de outrem.
+      polish: Niech nikt nie szuka własnego dobra, lecz dobra bliźniego!
+      new_text: Пусть каждый не своего добивается, а того, что идет на пользу другого.
+      serbian: Нико нека не тражи што је његово, него сваки оно што је другога.
+      bulgarian: Никой да не търси своята полза, а всякой - ползата на другиго.
+      ukr2: Ніхто хай не шукає для себе користи, лише - для другого.
+      ukr3: "і, хвалу віддавши, переломив, і рече: Прийміть, їжте, се єсть тїло моє,
+        що за вас ламлене; се робіть на мій спомин."
+      czech: Nikdo at nemysli sam na sebe, nybrz at ma ohled na druheho!
+      st_text: Никто не ищи своего, но каждый <i>пользы</i> другого.
+  - id: 1341
+    number: 25
+    bookId: 64
+    text: Все, что продается на торгу, ешьте без всякого исследования, для
+      <i>спокойствия</i> совести;
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 32917
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 14
+        short: Рим:14:2
+    translates:
+      kassian: "Всё, что продается на рынке, ешьте без всякого исследования ради
+        совести:"
+      podstr: Всё на рынке продаваемое ешьте ничто обсуждающие из-за совести,
+      csya: "Все, еже на торжищи продаемое, ядите, ничтоже сумнящеся, за совесть:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Все2, є4же на то1ржищи продае1мое, kди1те, ничто1же сумнsщесz, за
+        со1вэсть:"
+      sovr_rbo: ""
+      latin: Omne quod in macello venit, manducate, nihil interrogantes propter
+        conscientiam.
+      ukr: Їжте все, що на ятках м'ясних продається, за сумління зовсім не турбуючись,
+      nkjv: "Eat whatever is sold in the meat market, asking no questions for
+        conscience' sake; "
+      desnitsky: Всё, что продается на рынке, ешьте без расспросов и со спокойной
+        совестью,
+      tex_rec: Πᾶν τὸ ἐν μακέλλῳ πωλούμενον ἐσθίετε μηδὲν ἀνακρίνοντες διὰ τὴν
+        συνείδησιν,
+      deutsch: Alles, was feil ist auf dem Fleischmarkt, das esset, und forschet
+        nicht, auf daß ihr das Gewissen verschonet.
+      spanish: Todo cuanto se vende en el mercado, comedlo sin inquirir su origen y
+        motivo de conciencia,
+      peshitta: ܟ݁ܽܠܡܶܕ݁ܶܡ ܕ݁ܡܶܙܕ݁ܰܒ݁ܰܢ ܒ݁ܡܰܩܶܠܳܘܢ ܗܘܰܝܬ݁ܽܘܢ ܐܳܟ݂ܠܺܝܢ ܕ݁ܠܳܐ ܥܽܘܩܳܒ݂ܳܐ
+        ܡܶܛܽܠ ܬ݁ܺܐܪܬ݁ܳܐ܂
+      bel_syomukha: Усё, што прадаецца на торжышчы, ежце не перабіраючы, дзеля спакою
+        сумленьня;
+      nrt: Ешьте все, что продается на базаре, со спокойной совестью,
+      romana: Mancati tot ce se vinde in macelarie, fara sa intrebati nimic pentru
+        cugetul vostru.
+      francais: Mangez de tout ce qui se vend au marché, sans vous enquérir de rien
+        par motif de conscience;
+      italian: Tutto ciò che è in vendita sul mercato, mangiatelo pure senza indagare
+        per motivo di coscienza,
+      old_georgian: ყოველი, რომელი სამზარეულოს ისყიდებოდის, ჭამეთ და ნურარას
+        განიკითხავთ იჭჳსათჳს.
+      portuguese: Comei de tudo quanto se vende no mercado, nada perguntando por causa
+        da consciência.
+      polish: "Tak więc wszystko, cokolwiek w jatce sprzedają, spożywajcie, niczego
+        nie\rdociekając - dla spokoju sumienia."
+      new_text: Все, что покупаете у мясников, ешьте, не допытываясь, со спокойной
+        совестью.
+      serbian: Све што се продаје на тржишту једите, ништа не испитујући савјести ради;
+      bulgarian: Всичко, що се продава на месарницата, яжте без никакво издирване за
+        спокойна съвест;
+      ukr2: Їжте все, що на торговиці продається, нічого не розпитуючися заради
+        сумління;
+      ukr3: "Так само й чашу по вечері глаголючи: Ся чаша єсть новий завіт у крові
+        моїй; се робіть, скільки раз пєте, на мій спомин."
+      czech: Jezte vsechno, co se prodava v masnych kramech, a pro sve svedomi se
+        nepotrebujete na nic ptat.
+      st_text: Все, что продается на торгу, ешьте без всякого исследования, для
+        <i>спокойствия</i> совести;
+  - id: 1342
+    number: 26
+    bookId: 64
+    text: ибо Господня земля, и что наполняет ее.
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 35997
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 10
+        short: Втор:10:14
+      - verseId: 31362
+        bookId: 22
+        bookCode: psaltir
+        chapter: 23
+        short: Пс:23:1
+    translates:
+      kassian: ибо Господня - земля и то, что наполняет её.
+      podstr: Господа ведь земля и полнота её.
+      csya: Господня бо земля и исполнение ея.
+      averincev: ""
+      ungerov: ""
+      csya_old: гDнz бо землS и3 и3сполне1ніе є3S.
+      sovr_rbo: ""
+      latin: Domini est terra, et plenitudo ejus.
+      ukr: Бо Господня земля, і все, що на ній!
+      nkjv: "for \"the earth is the Lord's, and all its fullness.\" "
+      desnitsky: «ибо Господня земля и всё, что наполняет ее».
+      tex_rec: τοῦ κυρίου γὰρ ἡ γῆ καὶ τὸ πλήρωμα αὐτῆς.
+      deutsch: Denn "die Erde ist des Herrn und was darinnen ist."
+      spanish: porque del Señor es la tierra y cuanto la llena.
+      peshitta: ܕ݁ܡܳܪܝܳܐ ܗ݈ܝ ܓ݁ܶܝܪ ܐܰܪܥܳܐ ܒ݁ܰܡܠܳܐܳܗ܂
+      bel_syomukha: бо Гасподняя зямля і ўсё, што на ёй.
+      nrt: потому что «Господня земля и все, что наполняет ее».
+      romana: Caci "al Domnului este pamantul si plinirea lui".
+      francais: car la terre est au Seigneur, et tout ce qu'elle renferme.
+      italian: perché del Signore è la terra e tutto ciò che essa contiene.
+      old_georgian: რამეთუ უფლისაჲ არს ქუეყანაჲ და სავსებაჲ მისი.
+      portuguese: Pois do Senhor é a terra e a sua plenitude.
+      polish: Pańska bowiem jest ziemia i wszystko, co ją napełnia.
+      new_text: Ведь «земля и все, что есть на ней, Господни».
+      serbian: Јер је Господња земља и све што је на њој.
+      bulgarian: защото "Господня е земята и онова, що я изпълня".
+      ukr2: Господня бо земля та її повнота.
+      ukr3: Скільки бо раз їсте хлїб сей і чашу сю пєте, смерть Господню звіщаєте,
+        доки (Він) прийде.
+      czech: ‚Hospodinova je zeme i jeji plnost.‘
+      st_text: ибо Господня земля, и что наполняет ее.
+  - id: 1343
+    number: 27
+    bookId: 64
+    text: Если кто из неверных позовет вас, и вы захотите пойти, то все,
+      предлагаемое вам, ешьте без всякого исследования, для <i>спокойствия</i>
+      совести.
+    chapter: 10
+    chapterId: 1277
+    parallels: []
+    translates:
+      kassian: Если кто из неверных вас зовёт, и вы хотите идти, - всё предлагаемое
+        ешьте без всякого исследования ради совести.
+      podstr: Если кто-либо завёт вас [из] неверных и желаете идти, всё предлагаемое
+        вам ешьте ничто обсуждающие из-за совести.
+      csya: Аще ли кто от неверных призывает вы, и хощете ити, все предлагаемое вам
+        ядите, ничтоже сумнящеся, за совесть.
+      averincev: ""
+      ungerov: ""
+      csya_old: Ѓще ли кто2 t невёрныхъ призывaетъ вы2, и3 хо1щете и3ти2, все2
+        предлагaемое вaмъ kди1те, ничто1же сумнsщесz, за со1вэсть.
+      sovr_rbo: ""
+      latin: "Si quis vocat vos infidelium, et vultis ire: omne quod vobis apponitur,
+        manducate, nihil interrogantes propter conscientiam."
+      ukr: Як покличе вас хтось із невіруючих, і ви захочете піти, їжте все, що дадуть
+        вам, за сумління зовсім не турбуючись.
+      nkjv: "If any of those who do not believe invites you to dinner, and you desire
+        to go, eat whatever is set before you, asking no question for
+        conscience' sake. "
+      desnitsky: Если позовет вас к себе кто из неверующих и вы примете приглашение,
+        ешьте всё, что предложат, без расспросов и со спокойной совестью.
+      tex_rec: εἴ τις καλεῖ ὑμᾶς τῶν ἀπίστων καὶ θέλετε πορεύεσθαι, πᾶν τὸ
+        παρατιθέμενον ὑμῖν ἐσθίετε μηδὲν ἀνακρίνοντες διὰ τὴν συνείδησιν.
+      deutsch: So aber jemand von den Ungläubigen euch ladet und ihr wollt hingehen,
+        so esset alles, was euch vorgetragen wird, und forschet nicht, auf daß
+        ihr das Gewissen verschonet.
+      spanish: Si alguno de los infieles os invita y vais, comed de todo lo que os
+        sirvan sin preguntar nada por motivo de conciencia.
+      peshitta: ܐܶܢ ܐ݈ܢܳܫ ܕ݁ܶܝܢ ܡܶܢ ܚܰܢܦ݂ܶܐ ܩܳܪܶܐ ܠܟ݂ܽܘܢ ܘܨܳܒ݂ܶܝܢ ܐܢ݈ܬ݁ܽܘܢ ܠܡܺܐܙܰܠ
+        ܟ݁ܽܠܡܶܕ݁ܶܡ ܕ݁ܡܶܬ݁ܣܺܝܡ ܩܕ݂ܳܡܰܝܟ݁ܽܘܢ ܐܰܟ݂ܽܘܠܘ ܕ݁ܠܳܐ ܥܽܘܩܳܒ݂ܳܐ ܡܶܛܽܠ
+        ܬ݁ܺܐܪܬ݁ܳܐ܂
+      bel_syomukha: Калі хто зь няверных пакліча вас, і вы захочаце пайсьці, - дык
+        усё, што вам прапануецца, ежце не перабіраючы дзеля спакою сумленьня.
+      nrt: Если неверующий человек пригласит вас на обед, то ешьте все, что вам
+        предложат, не задавая вопросов, со спокойной совестью.
+      romana: Daca cineva dintre necredinciosi va cheama pe voi la masa si voiti sa va
+        duceti, mancati orice va este pus inainte, fara sa intrebati nimic
+        pentru constiinta.
+      francais: Si un non-croyant vous invite et que vous vouliez aller, mangez de
+        tout ce qu'on vous présentera, sans vous enquérir de rien par motif de
+        conscience.
+      italian: Se qualcuno non credente vi invita e volete andare, mangiate tutto
+        quello che vi viene posto davanti, senza fare questioni per motivo di
+        coscienza.
+      old_georgian: ხოლო უკუეთუ ვინმე გხადის თქუენ ურწმუნოთაგანი, და გნებავს მისლვაჲ,
+        ყოველივე წინა-დაგებული თქუენი ჭამეთ და ნურარას განიკითხავთ იჭჳსათჳს.
+      portuguese: "Se, portanto, algum dos incrédulos vos convidar, e quiserdes ir,
+        comei de tudo o que se puser diante de vós,\rnada perguntando por causa
+        da consciência."
+      polish: "Jeżeli zaprosi was ktoś z niewierzących a wy zgodzicie się przyjść,
+        jedzcie\rwszystko, co wam podadzą, nie pytając o nic - dla spokoju
+        sumienia."
+      new_text: И если кто из неверующих пригласит вас и вы захотите пойти, ешьте все,
+        что перед вами поставят, не допытываясь, со спокойной совестью.
+      serbian: Ако ли вас неко од невјерника зове, и хоћете ићи, једите све што вам се
+        принесе, ништа не испитујући савјести ради.
+      bulgarian: Ако някой от неверните ви покани, и вие поискате да отидете, яжте
+        всичко, що ви сложат, без никакво издирване за спокойна съвест.
+      ukr2: "Як хтось із невіруючих вас запросить і ви згодилися піти, їжте все, що
+        покладуть перед вами, нічого не розпитуючися заради сумління. 28. Але як
+        хтось вам скаже: «Це було жертвоване ідолам!» - не їжте з-за того, хто
+        попередив вас і сумління; 29 сумління ж, кажу, не свого, а іншого. Чому
+        бо моя свобода мала б судитись іншого сумлінням?"
+      ukr3: Тим же, хто їсти ме хлїб сей і пити ме чашу Господню недостойно, винен
+        буде тїла і крови Господньої.
+      czech: Pozve-li vas nekdo z nevericich a chcete tam jit, jezte vsechno, co vam
+        predlozi, a pro sve svedomi se na nic neptejte.
+      st_text: Если кто из неверных позовет вас, и вы захотите пойти, то все,
+        предлагаемое вам, ешьте без всякого исследования, для <i>спокойствия</i>
+        совести.
+  - id: 1344
+    number: 28
+    bookId: 64
+    text: "Но если кто скажет вам: это идоложертвенное, - то не ешьте ради того, кто
+      объявил вам, и ради совести. Ибо Господня земля, и что наполняет ее."
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 31362
+        bookId: 22
+        bookCode: psaltir
+        chapter: 23
+        short: Пс:23:1
+    translates:
+      kassian: "Если же кто скажет вам: это жертвенное мясо, то не ешьте, ради того,
+        кто объявил, и ради совести."
+      podstr: Если же кто-либо вам скажет, Это жертва святилищу есть, не ешьте из-за
+        того сообщившего и совести;
+      csya: "Аще ли же кто вам речет: сие идоложертвенно есть: не ядите за оного
+        поведавшаго, и совесть: Господня бо земля и исполнение ея."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Ѓще ли же кто2 вaмъ рече1тъ: сіе2 їдwложе1ртвенно є4сть: не kди1те за
+        џного повёдавшаго, и3 со1вэсть: гDнz бо землS и3 и3сполне1ніе є3S."
+      sovr_rbo: ""
+      latin: "Si quis autem dixerit: Hoc immolatum est idolis: nolite manducare
+        propter illum qui indicavit, et propter conscientiam:"
+      ukr: "Коли ж скаже вам хтось: Це ідольська жертва, не їжте тоді через того, хто
+        сказав, та через сумління!"
+      nkjv: "But if anyone says to you, \"This was offered to idols,\" do not eat it
+        for the sake of the one who told you, and for conscience' sake; for
+        \"the earth is the Lord's, and all its fullness.\" "
+      desnitsky: "Но если кто скажет вам: «эта пища была принесена в жертву идолу», –
+        не ешьте ради того, кто объявил, и ради спокойной совести."
+      tex_rec: ἐὰν δέ τις ὑμῖν εἴπῃ, Τοῦτο ἱερόθυτόν ἐστιν, μὴ ἐσθίετε δι᾽ ἐκεῖνον τὸν
+        μηνύσαντα καὶ τὴν συνείδησιν-
+      deutsch: 'Wo aber jemand würde zu euch sagen: "Das ist Götzenopfer", so esset
+        nicht, um des willen, der es anzeigte, auf daß ihr das Gewissen
+        verschonet.'
+      spanish: "Pero si alguno os dijere: Esto es inmolado, no comáis, por el que lo
+        indicó y por la conciencia."
+      peshitta: ܐܶܢ ܐ݈ܢܳܫ ܕ݁ܶܝܢ ܢܺܐܡܰܪ ܠܟ݂ܽܘܢ ܕ݁ܗܳܢܳܐ ܕ݁ܰܕ݂ܒ݂ܺܝܚܳܐ ܗܽܘ ܠܳܐ ܬ݁ܶܐܟ݂ܠܽܘܢ
+        ܡܶܛܽܠ ܗܰܘ ܕ݁ܳܐܡܰܪ ܠܟ݂ܽܘܢ ܘܡܶܛܽܠ ܬ݁ܺܐܪܬ݁ܳܐ܂
+      bel_syomukha: "Але калі хто скажа вам: гэта ідалаахвярнае, - дык ня ежце дзеля
+        таго, хто падказаў вам, і дзеля сумленьня; бо Гасподняя зямля, і ўсё,
+        што на ёй."
+      nrt: "Но если вам кто-либо при этом скажет: «Это жертвенное мясо», то не ешьте
+        ради человека, который вам это сказал, и ради совести –"
+      romana: "Dar de va va spune cineva: Aceasta este din jertfa idolilor, sa nu
+        mancati pentru cel care v-a spus si pentru constiinta."
+      francais: "Mais si quelqu'un vous dit: Ceci a été offert en sacrifice! n'en
+        mangez pas, à cause de celui qui a donné l'avertissement, et à cause de
+        la conscience."
+      italian: 'Ma se qualcuno vi dicesse: "È carne immolata in sacrificio",
+        astenetevi dal mangiarne, per riguardo a colui che vi ha avvertito e per
+        motivo di coscienza;'
+      old_georgian: "ხოლო უკუეთუ ვინმე გითხრას თქუენ, ვითარმედ: ესე ნაკერპავი არს, -
+        ნუ შჭამთ მის მაუწყებელისათჳს და იჭჳსა, რამეთუ უფლისაჲ არს ქუეყანაჲ და
+        სავსებაჲ მისი."
+      portuguese: "Mas, se alguém vos disser: Isto foi oferecido em sacrifício; não
+        comais por causa daquele que vos advertiu e por\rcausa da consciência;"
+      polish: "A gdyby ktoś powiedział: ”To było złożone na ofiarę” - nie jedzcie
+        przez\rwzgląd na tego, który was ostrzegł, i z uwagi na sumienie."
+      new_text: "Но если вам скажут: «Это из принесенного в жертву», тогда не ешьте,
+        ради того, кто сказал, и ради спокойствия совести."
+      serbian: "Ако ли вам неко рече: Ово је идолска жртва, не једите ради онога који
+        вас извијести и ради савјести; јер је Господња земља и све што је на
+        њој."
+      bulgarian: "Но, ако някой ви каже: това е идолска жертва, не яжте - заради
+        оногова, който ви е обадил, и заради съвестта; защото Господня е земята
+        и онова, що я изпълня."
+      ukr3: Нехай же розгледить чоловік себе і так нехай хлїб їсть і чашу пє.
+      czech: "Kdyby vam vsak nekdo rekl: „Toto bylo obetovano bozstvum,“ nejezte kvuli
+        tomu, kdo vas na to upozornil, a pro svedomi –"
+      st_text: "Но если кто скажет вам: это идоложертвенное, - то не ешьте ради того,
+        кто объявил вам, и ради совести. Ибо Господня земля, и что наполняет
+        ее."
+  - id: 1345
+    number: 29
+    bookId: 64
+    text: "Совесть же разумею не свою, а другого: ибо для чего моей свободе быть
+      судимой чужою совестью?"
+    chapter: 10
+    chapterId: 1277
+    parallels: []
+    translates:
+      kassian: Совесть же я разумею не свою, а другого. Ибо моя свобода не подлежит
+        суду чужой совести.
+      podstr: "[о] совести же говорю не [о] которой себя самого но [о] которой
+        другого. Зачем ведь свобода моя судится другой совестью?"
+      csya: "Совесть же глаголю не свою, но другаго: вскую бо свобода моя судится от
+        иныя совести?"
+      averincev: ""
+      ungerov: ""
+      csya_old: "Со1вэсть же глаго1лю не свою2, но другaгw: вскyю бо свобо1да моS
+        сyдитсz t и3ны1z со1вэсти;"
+      sovr_rbo: ""
+      latin: conscientiam autem dico non tuam, sed alterius. Ut quid enim libertas mea
+        judicatur ab aliena conscientia?
+      ukr: Говорю ж не про власне сумління, але іншого, чого б моя воля судилась
+        сумлінням чужим?
+      nkjv: "\"Conscience,\" I say, not your own, but that of the other. For why is my
+        liberty judged by another man's conscience? "
+      desnitsky: Я имею в виду не вашу собственную совесть, а совесть того, кто это
+        увидит. Зачем мою свободу предавать суду совести другого человека?
+      tex_rec: συνείδησιν δὲ λέγω οὐχὶ τὴν ἑαυτοῦ ἀλλὰ τὴν τοῦ ἑτέρου. ἱνατί γὰρ ἡ
+        ἐλευθερία μου κρίνεται ὑπὸ ἄλλης συνειδήσεως;
+      deutsch: Ich sage aber vom Gewissen, nicht deiner selbst, sondern des andern.
+        Denn warum sollte ich meine Freiheit lassen richten von eines andern
+        Gewissen?
+      spanish: No digo por la tuya, sino por la del otro. Pero ¿por qué ha de
+        coartarse mi libertad por la conciencia ajena?
+      peshitta: ܬ݁ܺܐܪܬ݁ܳܐ ܕ݁ܶܝܢ ܐܳܡܰܪ ܐ݈ܢܳܐ ܠܳܐ ܗ݈ܘܳܐ ܕ݁ܺܝܠܟ݂ܽܘܢ ܐܶܠܳܐ ܕ݁ܗܰܘ ܕ݁ܳܐܡܰܪ
+        ܠܡܳܢܳܐ ܓ݁ܶܝܪ ܚܺܐܪܽܘܬ݂ܝ ܡܶܬ݁ܕ݂ܺܝܢܳܐ ܡܶܢ ܬ݁ܺܐܪܬ݁ܳܐ ܕ݁ܰܐ݈ܚܪܳܢܶܐ܂
+      bel_syomukha: Сумленьне ж разумею не сваё, а іншага; бо дзеля чаго маёй свабодзе
+        быць суджанай чужым сумленьнем?
+      nrt: я имею в виду совесть другого человека, а не вашу собственную. Так для чего
+        же моя свобода может быть судима чужой совестью?
+      romana: Iar constiinta, zic, nu a ta insuti, ci a altuia. Caci de ce libertatea
+        mea sa fie judecata de o alta constiinta?
+      francais: Je parle ici, non de votre conscience, mais de celle de l'autre.
+        Pourquoi, en effet, ma liberté serait-elle jugée par une conscience
+        étrangère?
+      italian: della coscienza, dico, non tua, ma dell'altro. Per qual motivo,
+        infatti, questa mia libertà dovrebbe esser sottoposta al giudizio della
+        coscienza altrui?
+      old_georgian: იჭუსა მას ვიტჳ არა თავისა თჳსისასა, არამედ მოყუსისასა. რამეთუ
+        რაჲსათჳს აზნაურებაჲ ჩემი განიკითხვის სხჳსა იჭჳსაგან?
+      portuguese: "consciência, digo, não a tua, mas a do outro. Pois, por que há de
+        ser julgada a minha liberdade pela consciência\rde outrem?"
+      polish: Mam na myśli sumienie nie twoje, lecz bliźniego. Bo dlaczego by czyjeś
+        sumienie miało wyrokować o mojej wolności?
+      new_text: Я имею в виду не вашу совесть, а совесть другого человека. «А почему
+        это моя свобода должна быть ограничена чужой совестью?»
+      serbian: Али не говорим за савјест твоју, него другога. Јер зашто да моју
+        слободу суди савјест другога?
+      bulgarian: Съвест разбирам не своята, а на другия; защото бива ли моята свобода
+        да бъде съдена от чужда съвест?
+      ukr3: Хто бо їсть і пє недостойно, суд собі їсть і пє, нерозсуджаючи про тїло
+        Господнє.
+      czech: nemyslim vase svedomi, nybrz svedomi toho druheho. Proc by moje svoboda
+        mela byt souzena cizim svedomim?
+      st_text: "Совесть же разумею не свою, а другого: ибо для чего моей свободе быть
+        судимой чужою совестью?"
+  - id: 1346
+    number: 30
+    bookId: 64
+    text: Если я с благодарением принимаю <i>пищу</i>, то для чего порицать меня за
+      то, за что я благодарю?
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 32921
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 14
+        short: Рим:14:6
+    translates:
+      kassian: Если я с благодарностью ем, почему порочить меня за то, за что я
+        благодарю?
+      podstr: Если я [в] благодати имею часть, что подвергаюсь хуле за которое я
+        благодарю?
+      csya: Аще аз благодатию причащаюся, почто хулу приемлю, о немже аз благодарю?
+      averincev: ""
+      ungerov: ""
+      csya_old: Ѓще ѓзъ благодaтію причащaюсz, почто2 хулY пріе1млю, њ не1мже ѓзъ
+        благодарю2;
+      sovr_rbo: ""
+      latin: Si ego cum gratia participo, quid blasphemor pro eo quod gratias ago?
+      ukr: Коли я стаю спільником їжі з подякою, чому мене зневажають за те, за що
+        дякую я?
+      nkjv: But if I partake with thanks, why am I evil spoken of for the food over
+        which I give thanks?
+      desnitsky: Я с благодарностью принимаю пищу – а так меня станут бранить ровно за
+        то, за что я сам благодарю!
+      tex_rec: εἰ ἐγὼ χάριτι μετέχω, τί βλασφημοῦμαι ὑπὲρ οὗ ἐγὼ εὐχαριστῶ;
+      deutsch: So ich's mit Danksagung genieße, was sollte ich denn verlästert werden
+        über dem, dafür ich danke?
+      spanish: Si yo con agradecimiento participo, ¿por qué he de ser reprendido por
+        aquello mismo de que doy gracias?
+      peshitta: ܐܶܢ ܐܶܢܳܐ ܒ݁ܛܰܝܒ݁ܽܘܬ݂ܳܐ ܡܶܬ݂ܚܰܫܰܚ ܐ݈ܢܳܐ ܡܳܢܳܐ ܡܶܬ݂ܓ݁ܰܕ݁ܰܦ݂ ܐ݈ܢܳܐ ܥܰܠ
+        ܡܶܕ݁ܶܡ ܕ݁ܶܐܢܳܐ ܡܰܘܕ݁ܶܐܢܳܐ܂
+      bel_syomukha: Калі я з удзячнасьцю ем, дык навошта мяне дакараць за тое, за што
+        я дзякую?
+      nrt: Если я ем с благодарностью, то почему я должен быть осуждаем за ту пищу, за
+        которую я благодарю Бога?
+      romana: Daca eu sunt partas harului, de ce sa fiu hulit pentru ceea ce aduc
+        multumire?
+      francais: Si je mange avec actions de grâces, pourquoi serais-je blâmé au
+        sujet  d'une chose dont je rends grâces?
+      italian: Se io con rendimento di grazie partecipo alla mensa, perché dovrei
+        essere biasimato per quello di cui rendo grazie?
+      old_georgian: უკუეთუ მე მადლობით ვჭამ, რაჲსათჳს ვიგმობვი, რომლისათჳს-იგი მე ვჰმადლობ?
+      portuguese: E, se eu com gratidão participo, por que sou vilipendiado por causa
+        daquilo por que dou graças?
+      polish: Jeśli ja coś spożywam dzięki czyniąc, to czemu mam być spotwarzany z
+        powodu tego, za co dzięki czynię?
+      new_text: Если я благодарю Бога за пищу, как может кто-то меня порицать за пищу,
+        за которую я благодарю?
+      serbian: Ако ја с благодарношћу једем, зашто да ме руже за оно за што ја
+        благодарим?
+      bulgarian: Ако пък участвувам в яденето с благодарност, защо да бъда хулен
+        поради онова, за което благодаря?
+      ukr2: Як я щось споживаю з подякою, чому б мене ганити за те, за що я дякую?
+      ukr3: Того-то многі між вами недужі та слабі, й заснуло доволї.
+      czech: Jestlize neco prijimam s vdecnosti, proc mam byt odsuzovan za to, zac
+        vzdavam diky?
+      st_text: Если я с благодарением принимаю <i>пищу</i>, то для чего порицать меня
+        за то, за что я благодарю?
+  - id: 1347
+    number: 31
+    bookId: 64
+    text: Итак, едите ли, пьете ли, или иное что делаете, все делайте в славу Божию.
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 14372
+        bookId: 24
+        bookCode: kniga-ekkleciasta
+        chapter: 8
+        short: Еккл:8:15
+      - verseId: 32921
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 14
+        short: Рим:14:6
+      - verseId: 22898
+        bookId: 69
+        bookCode: k-kolossanam-poslanie-ap-pavla
+        chapter: 3
+        short: Кол:3:17
+    translates:
+      kassian: Итак, едите ли вы, или пьёте, или что делаете, - всё во славу Божию
+        делайте,
+      podstr: И если итак едите и если пьёте и если что-нибудь делаете, всё во славу
+        Бога делайте.
+      csya: Аще убо ясте, аще ли пиете, аще ли ино что творите, вся во славу Божию
+        творите.
+      averincev: ""
+      ungerov: ""
+      csya_old: Ѓще ў2бо ћсте, ѓще ли піете2, ѓще ли и4но что2 творите2, вс‰ во слaву
+        б9ію твори1те.
+      sovr_rbo: ""
+      latin: "Sive ergo manducatis, sive bibitis, sive aliud quid facitis: omnia in
+        gloriam Dei facite."
+      ukr: Тож, коли ви їсте, чи коли ви п'єте, або коли інше що робите, усе на Божу
+        славу робіть!
+      nkjv: Therefore, whether you eat or drink, or whatever you do, do all to the
+        glory of God.
+      desnitsky: Итак, едите ли вы, пьете ли, делаете ли что иное, делайте всё во
+        славу Божию.
+      tex_rec: εἴτε οὖν ἐσθίετε εἴτε πίνετε εἴτε τι ποιεῖτε, πάντα εἰς δόξαν θεοῦ
+        ποιεῖτε.
+      deutsch: Ihr esset nun oder trinket oder was ihr tut, so tut es alles zu Gottes
+        Ehre.
+      spanish: Ya comáis, ya bebáis o ya hagáis alguna cosa, hacedlo todo para gloria
+        de Dios,
+      peshitta: ܐܶܢ ܐܳܟ݂ܠܺܝܢ ܐܢ݈ܬ݁ܽܘܢ ܗܳܟ݂ܺܝܠ ܘܶܐܢ ܫܳܬ݂ܶܝܢ ܐܢ݈ܬ݁ܽܘܢ ܘܶܐܢ ܡܶܕ݁ܶܡ
+        ܥܳܒ݂ܕ݁ܺܝܢ ܐܢ݈ܬ݁ܽܘܢ ܟ݁ܽܠܡܶܕ݁ܶܡ ܠܬ݂ܶܫܒ݁ܽܘܚܬ݁ܳܐ ܕ݁ܰܐܠܳܗܳܐ ܗܘܰܝܬ݁ܽܘܢ
+        ܥܳܒ݂ܕ݁ܺܝܢ܂
+      bel_syomukha: Дык жа, ці ясьце, ці п'яце, ці (іншае) што робіце, усё рабеце на
+        славу Божую.
+      nrt: Стало быть, что бы вы ни делали, едите вы или пьете, делайте так, чтобы был
+        прославляем Бог.
+      romana: De aceea, ori de mancati, ori de beti, ori altceva de faceti, toate spre
+        slava lui Dumnezeu sa le faceti.
+      francais: Soit donc que vous mangiez, soit que vous buviez, soit que vous
+        fassiez quelque autre chose, faites tout pour la gloire de Dieu.
+      italian: Sia dunque che mangiate sia che beviate sia che facciate qualsiasi
+        altra cosa, fate tutto per la gloria di Dio.
+      old_georgian: გინა თუ შჭამდეთ, გინა თუ ჰსუმიდეთ, გინა თუ რასაცა იქმოდით,
+        ყოვესავე სადიდებლად ღმრთისა იქმოდეთ.
+      portuguese: Portanto, quer comais quer bebais, ou façais, qualquer outra coisa,
+        fazei tudo para glória de Deus.
+      polish: Przeto czy jecie, czy pijecie, czy cokolwiek innego czynicie, wszystko
+        na chwałę Bożą czyńcie
+      new_text: Так вот, едите ли, пьете ли — что бы вы ни делали, все делайте ради
+        славы Божьей.
+      serbian: Ако, дакле, једете, ако ли пијете, ако ли што друго чините, све на
+        славу Божију чините.
+      bulgarian: И тъй, ядете ли, пиете ли, или нещо друго вършите, всичко за слава
+        Божия вършете.
+      ukr2: Чи ви, отже, їсте, чи п'єте, чи щонебудь робите, усе робіть на славу Божу!
+      ukr3: Бо коли б ми самі себе розсуджували, то не були б осуджені.
+      czech: At tedy jite ci pijete ci cokoli jineho delate, vsecko cinte k slave
+        Bozi.
+      st_text: Итак, едите ли, пьете ли, или иное что делаете, все делайте в славу
+        Божию.
+  - id: 1348
+    number: 32
+    bookId: 64
+    text: Не подавайте соблазна ни Иудеям, ни Еллинам, ни церкви Божией,
+    chapter: 10
+    chapterId: 1277
+    parallels: []
+    translates:
+      kassian: Не подавайте повода к осуждению ни Иудеям, ни Еллинам, ни Церкви Божией,
+      podstr: Непорочными и Иудеям делайтесь и Эллинам и церкви Бога,
+      csya: Безпреткновени бывайте иудеем и еллином и Церкви Божией,
+      averincev: ""
+      ungerov: ""
+      csya_old: Безпреткнове1ни бывaйте їуде1ємъ и3 є4ллинwмъ и3 цRкви б9іей,
+      sovr_rbo: ""
+      latin: "Sine offensione estote Judaeis, et gentibus, et ecclesiae Dei:"
+      ukr: Не робіть спокуси юдеям та гелленам, та Церкві Божій,
+      nkjv: Give no offense, either to the Jews or to the Greeks or to the church of
+        God,
+      desnitsky: Пусть не будет от вас огорчений ни иудеям, ни эллинам, ни церкви Божьей.
+      tex_rec: ἀπρόσκοποι καὶ ᾽Ιουδαίοις γίνεσθε καὶ Ἕλλησιν καὶ τῇ ἐκκλησίᾳ τοῦ θεοῦ,
+      deutsch: Gebet kein Ärgernis weder den Juden noch den Griechen noch der Gemeinde
+        Gottes;
+      spanish: y no seáis objeto de escándalo ni para judíos, ni para griegos, ni para
+        la Iglesia de Dios,
+      peshitta: ܕ݁ܠܳܐ ܬ݁ܽܘܩܠܳܐ ܗܘܰܘ ܠܺܝܗܽܘܕ݂ܳܝܶܐ ܘܠܰܐܪܡܳܝܶܐ ܘܰܠܥܺܕ݈݁ܬ݁ܶܗ ܕ݁ܰܐܠܳܗܳܐ܂
+      bel_syomukha: Не давайце панады ні Юдэям, ні Элінам, ні царкве Божай,
+      nrt: Не будьте ни для кого камнем преткновения, ни для иудеев, ни для язычников,
+        ни для церкви Божьей.
+      romana: Nu fiti piatra de poticnire nici iudeilor, nici elinilor, nici Bisericii
+        lui Dumnezeu,
+      francais: Ne soyez en scandale ni aux Grecs, ni aux Juifs, ni à l'Église de Dieu,
+      italian: Non date motivo di scandalo né ai Giudei, né ai Greci, né alla Chiesa
+        di Dio;
+      old_georgian: დაუბრკოლებელ იყვენით ჰურიათა მიმართ და წარმართთა და ეკლესიათა ღმრთისათა,
+      portuguese: Não vos torneis causa de tropeço nem a judeus, nem a gregos, nem a
+        igreja de Deus;
+      polish: "Nie bądźcie zgorszeniem ani dla Żydów, ani dla Greków, ani dla
+        Kościoła\r
+
+        Bożego,"
+      new_text: Живите так, чтобы не вводить в грех ни евреев, ни греков, ни Церковь
+        Бога.
+      serbian: Не будите на спотицање ни Јудејцима, ни Јелинима, ни Цркви Божијој.
+      bulgarian: Не ставайте съблазън ни за иудеи, ни за елини, нито за църквата Божия,
+      ukr2: Не будьте причиною спокуси ні для юдеїв, ні для поган, ні для Божої
+        Церкви.
+      ukr3: Бувши ж осудженими, від Бога караємось, щоб з сьвітом не осудились.
+      czech: Nebudte kamenem urazu ani Zidum, ani Rekum, ani cirkvi Bozi,
+      st_text: Не подавайте соблазна ни Иудеям, ни Еллинам, ни церкви Божией,
+      mt: ""
+      turkish: ""
+      Macarius: ""
+      pobedonostsev: ""
+      pavskiy: ""
+      Filaret: ""
+      Olesn: ""
+      Lutkovsky: ""
+      bel_boc: ""
+      old_rbo: ""
+      spbda: ""
+      maksimovich: ""
+      gulyaev: ""
+      anonym1858: ""
+      gorsky-platonov: ""
+      sergievsky: ""
+      Agafangel: ""
+      Porfiriy: ""
+      zhukovsky: ""
+      khomyakov: ""
+      lev-khv: ""
+      vadim: ""
+      yungerov_mt: ""
+      mandelshtam: ""
+      bloshtein: ""
+      ivliev: ""
+      alekseev: ""
+      ovsyannikov: ""
+      zertis-kamenskiy: ""
+      pakazkiy: ""
+      rozhdestvensky: ""
+  - id: 1349
+    number: 33
+    bookId: 64
+    text: так, как и я угождаю всем во всем, ища не своей пользы, но <i>пользы</i>
+      многих, чтобы они спаслись.
+    chapter: 10
+    chapterId: 1277
+    parallels:
+      - verseId: 32943
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 15
+        short: Рим:15:2
+      - verseId: 1714
+        bookId: 64
+        bookCode: 1oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 9
+        short: 1 Кор:9:19
+      - verseId: 5096
+        bookId: 65
+        bookCode: 2oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 12
+        short: 2 Кор:12:19
+    translates:
+      kassian: как и я всем во всём угождаю, не ища своей пользы, но пользы многих,
+        чтобы они были спасены.
+      podstr: как и я [во] всём всем угождаю, не ищущий которую меня самого пользу но
+        многих, чтобы они были спасены.
+      csya: якоже и аз во всем всем угождаю, не иский своея пользы, но многих, да
+        спасутся.
+      averincev: ""
+      ungerov: ""
+      csya_old: ћкоже и3 ѓзъ во все1мъ всBмъ ўгождaю, не и3скjй своеS по1льзы, но
+        мно1гихъ, да спасyтсz.
+      sovr_rbo: ""
+      latin: "sicut et ego per omnia omnibus placeo, non quaerens quod mihi utile est,
+        sed quod multis: ut salvi fiant."
+      ukr: як догоджую й я всім у всьому, не шукаючи в тому пожитку свого, але пожитку
+        для багатьох, щоб спаслися вони.
+      nkjv: just as I also please all men in all things, not seeking my own profit,
+        but the profit of many, that they may be saved.
+      desnitsky: Так и я угождаю всем, стремясь не к собственной пользе, но к тому,
+        чтобы спаслось как можно больше людей.
+      tex_rec: καθὼς κἀγὼ πάντα πᾶσιν ἀρέσκω, μὴ ζητῶν τὸ ἐμαυτοῦ σύμφορον ἀλλὰ τὸ τῶν
+        πολλῶν, ἵνα σωθῶσιν
+      deutsch: gleichwie ich auch jedermann in allerlei mich gefällig mache und suche
+        nicht, was mir, sondern was vielen frommt, daß sie selig werden.
+      spanish: como procuro yo agradar a todos en todo, no buscando mi conveniencia,
+        sino la de todos para que se salven.
+      peshitta: ܐܰܝܟ݂ ܕ݁ܳܐܦ݂ ܐܶܢܳܐ ܒ݁ܟ݂ܽܠ ܡܶܕ݁ܶܡ ܠܟ݂ܽܠܢܳܫ ܫܳܦ݂ܰܪ ܐ݈ܢܳܐ ܘܠܳܐ ܒ݁ܳܥܶܐ
+        ܐ݈ܢܳܐ ܡܶܕ݁ܶܡ ܕ݁ܠܺܝ ܦ݁ܰܩܳܚ ܐܶܠܳܐ ܡܶܕ݁ܶܡ ܕ݁ܰܠܣܰܓ݁ܺܝܶܐܐ ܦ݁ܰܩܳܚ ܕ݁ܢܺܚܽܘܢ܂
+      bel_syomukha: так, як і я дагаджаю ўсім ва ўсім, шукаючы не сабе карысьці, а
+        многім, каб яны ўратаваліся.
+      nrt: Старайтесь, как и я, угождать всем во всем. Я ищу блага не для самого себя,
+        а для многих других, чтобы они были спасены.
+      romana: Precum si eu plac tuturor in toate, necautand folosul meu, ci pe al
+        celor multi, ca sa se mantuiasca.
+      francais: de la même manière que moi aussi je m'efforce en toutes choses de
+        complaire à tous, cherchant, non mon avantage, mais celui du plus grand
+        nombre, afin qu'ils soient sauvés.
+      italian: così come io mi sforzo di piacere a tutti in tutto, senza cercare
+        l'utile mio ma quello di molti, perché giungano alla salvezza.
+      old_georgian: ვითარცა მე ყოვლითავე ყოველთა სათნო-ვეყოფვი, რამეთუ არა ვეძიებ
+        თავისა ჩემისა უმჯობჱსსა, არამედ მრავალთასა, რაჲთა ცხონდენ.
+      portuguese: "assim como também eu em tudo procuro agradar a todos, não buscando
+        o meu próprio proveito, mas o de\rmuitos, para que sejam salvos."
+      polish: "podobnie jak ja, który się staram przypodobać wszystkim pod każdym
+        wzglę\rdem nie szukając własnej korzyści, lecz dobra wielu, aby byli
+        zbawieni."
+      new_text: Как я, который старается угодить всем, ища не собственной пользы, а
+        пользы многих, чтобы они были спасены.
+      serbian: Као што и ја у свему свима угађам, не тражећи корист своју него многих,
+        да се спасу.
+      bulgarian: както и аз угаждам във всичко на всички и не търся своята полза, а
+        ползата на многото, за да се спасят.
+      ukr2: Отак і я сам намагаюся догодити всім у всьому, не шукаючи для себе
+        користи, лише для багатьох, щоб спаслися.
+      ukr3: Тим же, браттє моє, зійшовшись їсти, один одного дожидайте.
+      czech: ja se take snazim vsem vyjit vstric. Nehledam svuj vlastni prospech,
+        nybrz prospech mnohych, aby byli spaseni.
+      st_text: так, как и я угождаю всем во всем, ища не своей пользы, но
+        <i>пользы</i> многих, чтобы они спаслись.

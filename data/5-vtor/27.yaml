@@ -1,0 +1,2015 @@
+id: 180
+number: 27
+bookId: 5
+verseCount: 26
+title: Глава 27
+verses:
+  - id: 36420
+    number: 1
+    bookId: 5
+    text: "И заповедал Моисей и старейшины [сынов] Израилевых народу, говоря:
+      исполняйте все заповеди, которые заповедую вам ныне."
+    chapter: 27
+    chapterId: 180
+    parallels:
+      - verseId: 21673
+        bookId: 2
+        bookCode: ishod
+        chapter: 23
+        short: Исх:23:13
+    translates:
+      kassian: ""
+      podstr: "И приказал Моисей и старейшинство Израиля говоря: Сохраните все
+        заповеди эти, сколькие я указываю вам сегодня."
+      csya: "И заповеда моисей и старейшины сынов израилевых, глаголя: сохраните вся
+        заповеди сия, елики аз заповедаю вам днесь."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# заповёда мwmсе1й и3 старBйшины сынHвъ ї}левыхъ, глаго1лz:
+        сохрани1те вс‰ зaпwвэди сі‰, є3ли6ки ѓзъ заповёдаю вaмъ дне1сь."
+      sovr_rbo: "Моисей, вместе со старейшинами Израиля, велел народу: «Исполняйте все
+        повеления, которые я возвещаю вам ныне."
+      latin: "Praecepit autem Moyses et seniores Israel populo, dicentes: Custodite
+        omne mandatum quod praecipio vobis hodie."
+      ukr: "І наказав Мойсей та Ізраїлеві старші народові, говорячи: Додержуйте всіх
+        заповідей, що я сьогодні наказую вам!"
+      nkjv: 'Now Moses, with the elders of Israel, commanded the people, saying: "Keep
+        all the commandments which I command you today.'
+      desnitsky: ""
+      mt: ‫   וַיְצַו מֹשֶׁה וְזִקְנֵי יִשְׂרָאֵל אֶת־הָעָם לֵאמֹר שָׁמֹר
+        אֶת־כָּל־הַמִּצְוָה אֲשֶׁר אָנֹכִי מְצַוֶּה אֶתְכֶם הַיּוֹם׃ ‬
+      romana: 'Moise, impreuna cu batranii fiilor lui Israel, a poruncit poporului si
+        a zis: "Toate poruncile pe care vi le poruncesc eu astazi sa le
+        impliniti.'
+      francais: "Moïse et les anciens d'Israël donnèrent cet ordre au peuple: Observez
+        tous les commandements que je vous prescris aujourd'hui."
+      italian: "Mosè e gli anziani d'Israele diedero quest'ordine al popolo:
+        \"Osservate tutti i comandi che oggi vi dò."
+      old_georgian: "და უბრძანა მოსე და ყოველმან მან კრებულმან მოხუცებულთა ერსა მას
+        ისრაჱლისასა და ჰრქუეს: დაიმარხენით ყოველნი ესე მცნებანი, რომელსა-ესე მე
+        გამცნებ დღესდღე."
+      portuguese: "Moisés, com os anciãos de Israel, deu ordem ao povo, dizendo:
+        Guardai todos estes mandamentos que eu hoje\rvos ordeno."
+      polish: "Mojżesz razem ze starszymi Izraela wydał taki nakaz: Zachowajcie całe
+        to\rPrawo, które ja wam dziś ogłaszam."
+      turkish: "Musa ile İsrail ileri gelenleri halka şöyle dediler: «Bugün size
+        ilettiğim bütün buyruklara uyun."
+      nrt: "Моисей и старейшины Израиля повелели народу: – Исполняйте все повеления,
+        которые я даю вам сегодня."
+      Macarius: "И заповедал Моисей и старейшины [сынов] Израилевых народу, говоря:
+        исполняйте все заповеди, которые я заповедаю вам сегодня."
+      serbian: "И заповједи Мојсије са старјешинама Израиљевијем народу говорећи:
+        Држите све ове заповијести које вам ја данас заповиједам."
+      bulgarian: "Тогава Моисей със старейшините на Израилевите (синове) заповяда на
+        народа, като каза: изпълнявайте всички заповеди, които ви заповядвам
+        днес."
+      deutsch: "Und Mose gebot samt den Ältesten Israels dem Volk und sprach: Haltet
+        alle Gebote, die ich euch heute gebiete."
+      ukr2: "І заповідали Мойсей та старші Ізраїля народові словами: «Додержуйтеся
+        всякої заповіді, що я заповідаю вам сьогодні."
+      ukr3: "І заповідали Мойсей і громадські мужі Ізраїля людові словами: Додержуйте
+        заповідї, що я заповідаю вам сьогоднї!"
+      bel_syomukha: "І наказаў Майсей і старэйшыны сыноў Ізраілевых народу, кажучы:
+        выконвайце ўсе запаведзі, якія наказваю вам сёньня."
+      lev-khv: "И заповедал Моисей и старейшины Израилевы народу, говоря: исполняйте
+        все заповеди, которыя я заповедаю вам сегодня."
+      czech: "I prikazal Mojzis a izraelsti starsi lidu: Dbejte na kazdy prikaz, ktery
+        vam dnes udilim."
+      spanish: "Moisés con todos los ancianos de Israel dio al pueblo esta orden:
+        <<Guardad todo mandamiento que yo os prescribo hoy."
+      greek-lxx: καὶ προσέταξεν Μωυσῆς καὶ ἡ γερουσία Ισραηλ λέγων φυλάσσεσθε πάσας
+        τὰς ἐντολὰς ταύτας ὅσας ἐγὼ ἐντέλλομαι ὑμῖν σήμερον
+      st_text: "И заповедал Моисей и старейшины [сынов] Израилевых народу, говоря:
+        исполняйте все заповеди, которые заповедую вам ныне."
+  - id: 36421
+    number: 2
+    bookId: 5
+    text: И когда перейдете за Иордан, в землю, которую Господь Бог твой дает тебе,
+      тогда поставь себе большие камни и обмажь их известью;
+    chapter: 27
+    chapterId: 180
+    parallels:
+      - verseId: 27396
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 3
+        short: Нав:3:17
+    translates:
+      kassian: ""
+      podstr: И будет [в] который день перейдёте Иордан в землю, которую Господь Бог
+        твой даёт тебе, и поставишь себе камни большие и побелишь их мелом
+      csya: И будет в оньже день прейдете иордан на землю, юже Господь Бог твой дает
+        тебе во жребий, и поставиши себе камение велико и обелиши я мелом,
+      averincev: ""
+      ungerov: ""
+      csya_old: И# бyдетъ во1ньже де1нь пре1йдете їoрдaнъ на зе1млю, ю4же гDь бг7ъ
+        тво1й дае1тъ тебЁ во жре1бій, и3 постaвиши себЁ кaменіе вели1ко и3
+        њбэли1ши | мёломъ,
+      sovr_rbo: Когда вы перейдете Иордан и вступите в страну, которую отдает вам
+        Господь, ваш Бог, воздвигните там большие камни, побелите их известью
+      latin: Cumque transieritis Jordanem in terram, quam Dominus Deus tuus dabit
+        tibi, eriges ingentes lapides, et calce laevigabis eos,
+      ukr: І станеться того дня, коли ви перейдете Йордан до того Краю, що дає тобі
+        Господь, Бог твій, то поставиш собі велике каміння, і повапниш їх
+        вапном.
+      nkjv: And it shall be, on the day when you cross over the Jordan to the land
+        which the Lord your God is giving you, that you shall set up for
+        yourselves large stones, and whitewash them with lime.
+      desnitsky: ""
+      mt: ‫   וְהָיָה בַּיּוֹם אֲשֶׁר תַּעַבְרוּ אֶת־הַיַּרְדֵּן אֶל־הָאָרֶץ
+        אֲשֶׁר־יְהוָה אֱלֹהֶיךָ נֹתֵן לָךְ וַהֲקֵמֹתָ לְךָ אֲבָנִים גְּדֹלוֹת
+        וְשַׂדְתָּ אֹתָם בַּשִּׂיד׃ ‬
+      romana: Cand vei trece peste Iordan in pamantul pe care Domnul Dumnezeul tau
+        ti-l da, sa-ti asezi pietre mari si sa le varuiesti cu var;
+      francais: Lorsque vous aurez passé le Jourdain, pour entrer dans le pays que
+        l'Éternel, ton Dieu, te donne, tu dresseras de grandes pierres, et tu
+        les enduiras de chaux.
+      italian: Quando avrete passato il Giordano per entrare nel paese che il Signore
+        vostro Dio sta per darvi, erigerai grandi pietre e le intonacherai di
+        calce.
+      old_georgian: და იყოს, რაჟამს წიაღხვიდოდი შენ იორდანესა, ქუეყანასა მას,
+        რომელი-იგი უფალმან ღმერთმან მოგცეს შენ, აღჰმართნე შენ თავისა შენისა
+        ქვანი დიდ-დიდნი და აღმოჰკოდნე იგინი.
+      portuguese: "E no dia em que passares o Jordão para a terra que o Senhor teu
+        Deus te dá, levantarás umas pedras grandes e\ras caiarás."
+      polish: "A po przejściu Jordanu do ziemi, którą daje ci Pan, Bóg twój,
+        postawisz\rwielkie kamienie i pobielisz je wapnem."
+      turkish: "Şeria Irmağı'ndan Tanrınız RAB'bin size vereceği ülkeye geçince, büyük
+        taşlar dikip kireçleyeceksiniz.\rAtalarınızın Tanrısı RAB'bin size
+        verdiği söz uyarınca O'nun size vereceği ülkeye, süt ve bal akan ülkeye
+        girince, bu yasanın bütün sözlerini taşlara yazacaksınız."
+      nrt: Когда вы перейдете через Иордан в землю, которую Господь, ваш Бог, дает
+        вам, поставьте большие камни и покройте их известью.
+      Macarius: "И когда перейдете за Иордан, в землю, которую Иегова, Бог твой, дает
+        тебе [в удел]: тогда поставь у себя большие камни и обмажь их известью;"
+      serbian: И кад пријеђеш преко Јордана у земљу коју ти даје Господ Бог твој,
+        подигни себи камење велико и намажи га кречом.
+      bulgarian: И кога преминеш отвъд Иордан в земята, която Господ, Бог твой, ти
+        дава, постави си големи камъни и ги измажи с вар;
+      deutsch: Und zu der Zeit, wenn ihr über den Jordan geht in das Land, das dir der
+        Herr, dein Gott, geben wird, sollst du große Steine aufrichten und sie
+        mit Kalk tünchen
+      ukr2: Як перейдете через Йордан у землю, що її Господь, Бог твій, хоче тобі
+        дати, поставиш собі великі камені, побілиш їх вапном,
+      ukr3: Того дня, як перейдете через Йордань у землю, що її Господь, Бог твій,
+        тобі дає, мусиш собі поставити величезні каменї, та й побілити їх
+        вапном;
+      bel_syomukha: І калі пяройдзеце за Ярдан у зямлю, якую Гасподзь, Бог твой, дае
+        табе, тады пастаў сабе вялікія камяні і абмаж іх вапнаю;
+      lev-khv: "И будет, когда перейдете чрез Иордан, в землю, которую Господь, Бог
+        твой, даст тебе: тогда поставь у себя большия камни и обмажь их
+        известью;"
+      czech: V den, kdy prejdete Jordan do zeme, kterou ti dava Hospodin, tvuj Buh,
+        postavis si velike kameny a obilis je vapnem.
+      spanish: Cuando hayáis pasado el Jordán a la tierra que Yavé, tu Dios, te dará,
+        levantarás grandes piedras, que revocarás de cal,
+      greek-lxx: καὶ ἔσται ᾗ ἂν ἡμέρᾳ διαβῆτε τὸν Ιορδάνην εἰς τὴν γῆν ἣν Κύριος ὁ
+        Θεός σου δίδωσίν σοι καὶ στήσεις σεαυτῷ λίθους μεγάλους καὶ κονιάσεις
+        αὐτοὺς κονίᾳ
+      st_text: И когда перейдете за Иордан, в землю, которую Господь Бог твой дает
+        тебе, тогда поставь себе большие камни и обмажь их известью;
+  - id: 36422
+    number: 3
+    bookId: 5
+    text: и напиши на [камнях] сих все слова закона сего, когда перейдешь [Иордан],
+      чтобы вступить в землю, которую Господь Бог твой дает тебе, в землю, где
+      течет молоко и мед, как говорил тебе Господь Бог отцов твоих.
+    chapter: 27
+    chapterId: 180
+    parallels:
+      - verseId: 27520
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 8
+        short: Нав:8:32
+      - verseId: 21906
+        bookId: 2
+        bookCode: ishod
+        chapter: 3
+        short: Исх:3:8
+      - verseId: 36409
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 26
+        short: Втор:26:9
+    translates:
+      kassian: ""
+      podstr: и напишешь на камнях все слова закона этого, как перейдёте Иордан, когда
+        если войдёте в землю, которую Господь Бог отцов твоих даёт тебе, землю
+        текущую молоком и мёдом, каким образом сказал Господь Бог отцов твоих
+        тебе;
+      csya: и напишеши на каменех тех вся словеса закона сего, егда прейдете иордан,
+        егда внидете в землю, юже Господь Бог твой дает тебе, землю кипящую
+        медом и млеком, якоже рече Господь Бог отец твоих тебе.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 напи1шеши на кaменехъ тёхъ вс‰ словесA зако1на сегw2, є3гдA
+        пре1йдете їoрдaнъ, є3гдA вни1дете въ зе1млю, ю4же гDь бг7ъ тво1й дае1тъ
+        тебЁ, зе1млю кипsщую ме1домъ и3 млеко1мъ, ћкоже рече2 гDь бг7ъ nтє1цъ
+        твои1хъ тебЁ.
+      sovr_rbo: и запишите на них этот Закон. Сделайте это, когда перейдете на ту
+        сторону, чтобы вступить в землю, которую отдает вам Господь, ваш Бог, в
+        землю, источающую молоко и мед, как и обещал вам Господь, Бог отцов
+        ваших.
+      latin: "ut possis in eis scribere omnia verba legis hujus, Jordane transmisso:
+        ut introeas terram, quam Dominus Deus tuus dabit tibi, terram lacte et
+        melle manantem, sicut juravit patribus tuis."
+      ukr: І понаписуєш на них усі слова цього Закону, коли перейдеш, щоб увійшов ти
+        до того Краю, що Господь, Бог твій, дає тобі, Край, що тече молоком та
+        медом, як промовляв був Господь, Бог батьків твоїх, до тебе.
+      nkjv: "You shall write on them all the words of this law, when you have crossed
+        over, that you may enter the land which the Lord your God is giving you,
+        'a land flowing with milk and honey,' just as the Lord God of your
+        fathers promised you. "
+      desnitsky: ""
+      mt: ‫   וְכָתַבְתָּ עֲלֵיהֶן אֶת־כָּל־דִּבְרֵי הַתּוֹרָה הַזֹּאת בְּעָבְרֶךָ
+        לְמַעַן אֲשֶׁר תָּבֹא אֶל־הָאָרֶץ אֲשֶׁר־יְהוָה אֱלֹהֶיךָ נֹתֵן לְךָ
+        אֶרֶץ זָבַת חָלָב וּדְבַשׁ כַּאֲשֶׁר דִּבֶּר יְהוָה אֱלֹהֵי־אֲבֹתֶיךָ
+        לָךְ׃ ‬
+      romana: Si pe pietrele acelea sa scrii toate cuvintele acestei legi cand vei
+        trece Iordanul, ca sa intri in pamantul pe care Domnul Dumnezeul tau
+        ti-l da, in pamantul unde curge lapte si miere, dupa cum ti-a grait
+        Domnul Dumnezeul parintilor tai.
+      francais: Tu écriras sur ces pierres toutes les paroles de cette loi, lorsque tu
+        auras passé le Jourdain, pour entrer dans le pays que l'Éternel, ton
+        Dieu, te donne, pays où coulent le lait et le miel, comme te l'a dit
+        l'Éternel, le Dieu de tes pères.
+      italian: Scriverai su di esse tutte le parole di questa legge, quando avrai
+        passato il Giordano per entrare nel paese che il Signore tuo Dio sta per
+        darti, paese dove scorre latte e miele, come il Signore, Dio dei tuoi
+        padri, ti ha detto.
+      old_georgian: და დასწერნე მას ზედა ყოველნი ესე სიტყუანი შჯულისანი, რაჟამს
+        წიაღჰხდე შენ იორდანესა ქუეყანასა მას, რომელი-იგი უფალმან ღმერთმან შენმან
+        მოგცეს შენ, ქუეყანასა მას, რომელსა გამოსდის სძე და თაფლი, ვითარ-იგი
+        ეტყოდა უფალი ღმერთი მამათა მათ თქუენთა მოცემად თქუენდა.
+      portuguese: "E escreverás nelas todas as palavras desta lei, quando tiveres
+        passado para entrar na terra que o Senhor teu\rDeus te dá, terra que
+        mana leite e mel, como o Senhor, o Deus de teus pais, te prometeu."
+      polish: "Wypiszesz wszystkie słowa tego Prawa po przejściu, aby wkroczyć do
+        ziemi,\rktórą wam daje Pan, Bóg twój - ziemi opływającej w mleko i miód
+        - jak wam\rprzyrzekł Pan, Bóg ojców waszych."
+      nrt: Напишите на них все слова этого Закона, когда переправитесь, чтобы войти в
+        землю, которую Господь, ваш Бог, дает вам, землю где течет молоко и мед,
+        как Господь, Бог ваших отцов, и обещал вам.
+      Macarius: И напиши на [камнях] сих все слова закона сего, когда перейдешь
+        [Иордан], чтобы вступить в землю, которую Иегова, Бог твой, дает тебе, в
+        землю, где течет молоко и мед, как говорил тебе Иегова, Бог отцев твоих.
+      serbian: И напиши на њему све ријечи овога закона, кад пријеђеш да уђеш у земљу
+        коју ти даје Господ Бог твој, у земљу гдје тече млијеко и мед, као што
+        ти је казао Господ Бог отаца твојих.
+      bulgarian: и напиши на тия (камъни) всички думи на тоя закон, кога преминеш
+        (Иордан), за да влезеш в земята, която Господ, Бог твой, ти дава, в
+        земята, дето тече мед и мляко, както ти бе говорил Господ, Бог на твоите
+        отци.
+      deutsch: und darauf schreiben alle Worte dieses Gesetzes, wenn du hinüberkommst,
+        auf daß du kommst in das Land, das der Herr, dein Gott, dir geben wird,
+        ein Land darin Milch und Honig fließt, wie der Herr, deiner Väter Gott,
+        dir verheißen hat.
+      ukr2: і напишеш на них усі слова закону, коли перейдеш, щоб простувати в землю,
+        яка тече молоком та медом, як обіцяв тобі Господь, Бог твоїх батьків.
+      ukr3: І як прийдеш там, напишеш на їх усї слова закону сього, щоб тобі можна
+        було ввійти в землю, що надїляє тобі її Господь, Бог твій, в землю
+        текучу молоком і медом, як обіцяв тобі Господь, Бог батьків твоїх.
+      bel_syomukha: і напішы на камянях гэтых усе словы закона гэтага, калі пяройдзеш
+        Ярдан, каб уступіць у зямлю, якую Гасподзь, Бог твой, дае табе, у зямлю,
+        дзе цячэ малако і мёд, як казаў табе Гасподзь, Бог бацькоў тваіх.
+      lev-khv: И напиши на них все слов&#225; этого закона, когда перейдешь
+        <i>Иордан</i>, чтобы вступить в землю, которую Господь, Бог твой, дает
+        тебе, в землю, текущую молоком и медом, как говорил тебе Господь, Бог
+        отцев твоих.
+      czech: Napises na ne vsechna slova tohoto zakona, az prejdes Jordan a vejdes do
+        zeme, kterou ti dava Hospodin, tvuj Buh, do zeme oplyvajici mlekem a
+        medem, jak k tobe mluvil Hospodin, Buh tvych otcu.
+      spanish: y escribirás en ellas todas las palabras de esta Ley apenas hayas
+        pasado para llegar a la tierra que Yavé, tu Dios, te dará; tierra que
+        mana leche y miel, como Yavé, tu Dios, se lo prometió a tus padres.
+      greek-lxx: καὶ γράψεις ἐπὶ τῶν λίθων πάντας τοὺς λόγους τοῦ νόμου τούτου ὡς ἂν
+        διαβῆτε τὸν Ιορδάνην ἡνίκα ἐὰν εἰσέλθητε εἰς τὴν γῆν ἣν Κύριος ὁ Θεὸς
+        τῶν πατέρων σου δίδωσίν σοι γῆν ῥέουσαν γάλα καὶ μέλι ὃν τρόπον εἶπεν
+        Κύριος ὁ Θεὸς τῶν πατέρων σού σοι
+      st_text: и напиши на [камнях] сих все слова закона сего, когда перейдешь
+        [Иордан], чтобы вступить в землю, которую Господь Бог твой дает тебе, в
+        землю, где течет молоко и мед, как говорил тебе Господь Бог отцов твоих.
+  - id: 36423
+    number: 4
+    bookId: 5
+    text: Когда перейдете Иордан, поставьте камни те, как я повелеваю вам сегодня,
+      на горе Гевал, и обмажьте их известью;
+    chapter: 27
+    chapterId: 180
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и будет как перейдёте Иордан, поставишь камни эти, которые я указываю
+        тебе сегодня, на горе Гевал и побелишь их мелом.
+      csya: "И будет егда прейдете иордан, да поставите камение сие, яже аз повелеваю
+        вам днесь, в горе гевал, и побелиши их мелом:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# бyдетъ є3гдA пре1йдете їoрдaнъ, да постaвите кaменіе сіе2, ±же ѓзъ
+        повелэвaю вaмъ дне1сь, въ горЁ гевaлъ, и3 побэли1ши и5хъ мёломъ:"
+      sovr_rbo: Перейдя Иордан, воздвигните на горе Гевал камни, о которых я говорю
+        вам ныне, и побелите их известью.
+      latin: "Quando ergo transieritis Jordanem, erigite lapides, quos ego hodie
+        praecipio vobis in monte Hebal, et laevigabis eos calce:"
+      ukr: І станеться, коли ви перейдете Йордан, поставите те каміння, що я наказую
+        вам сьогодні, на горі Евал, і повапните їх вапном.
+      nkjv: Therefore it shall be, when you have crossed over the Jordan, that on
+        Mount Ebal you shall set up these stones, which I command you today, and
+        you shall whitewash them with lime.
+      desnitsky: ""
+      mt: ‫   וְהָיָה בְּעָבְרְכֶם אֶת־הַיַּרְדֵּן תָּקִימוּ אֶת־הָאֲבָנִים הָאֵלֶּה
+        אֲשֶׁר אָנֹכִי מְצַוֶּה אֶתְכֶם הַיּוֹם בְּהַר עֵיבָל וְשַׂדְתָּ אוֹתָם
+        בַּשִּׂיד׃ ‬
+      romana: Dupa ce veti fi trecut Iordanul, sa puneti pietrele acelea, precum va
+        poruncesc eu astazi, pe muntele Ebal si sa le varuiti cu var.
+      francais: Lorsque vous aurez passé le Jourdain, vous dresserez sur le mont Ébal
+        ces pierres que je vous ordonne aujourd'hui de dresser, et tu les
+        enduiras de chaux.
+      italian: Quando dunque avrete passato il Giordano, erigerete sul monte Ebal
+        queste pietre, che oggi vi comando, e le intonacherete di calce.
+      old_georgian: და იყოს, რაჟამს წიაღჰჴდეთ თქუენ იორდანესა მდინარესა, აღჰმართნე შენ
+        ქვანი იგი, რომლისა-იგი მე გამცნებ თქუენ დღეს მთასა მას ზედა გებალსა და
+        აღჰმოკოდნე იგინი.
+      portuguese: "Quando, pois, houverdes passado o Jordão, levantareis no monte Ebal
+        estas pedras, como eu hoje vos ordeno, e\ras caiareis."
+      polish: "Gdy przejdziecie Jordan, postawicie te kamienie, jak ja wam dziś
+        nakazuję,\rna górze Ebal i wapnem je pobielicie."
+      turkish: Şeria Irmağı'ndan geçince, bugün size buyurduğum gibi, bu taşları Eval
+        Dağı'na dikip kireçleyeceksiniz.
+      nrt: А когда вы перейдете через Иордан и установите эти камни на горе Гевал, как
+        я повелеваю вам сегодня, покройте их известью.
+      Macarius: Когда перейдете за Иордан, поставьте камни те, как Я повелеваю вам
+        сегодня, на горе Гевал, и обмажьте их известью.
+      serbian: Када, дакле, пријеђеш преко Јордана, подигни то камење, за које ти
+        заповиједам данас, на гори Евалу, и намажи га кречом.
+      bulgarian: Кога преминете Иордан, поставете ония камъни, както ви заповядвам
+        днес, на планина Гевал и ги измажете с вар;
+      deutsch: Wenn ihr nun über den Jordan geht, so sollt ihr solche Steine
+        aufrichten (davon ich euch heute gebiete) auf dem Berge Ebal und mit
+        Kalk tünchen.
+      ukr2: Тож як перейдете Йордан, то ці камені, про які я нині заповідаю вам,
+        поставите на горі Евал (Герізім); і побілиш їх вапном.
+      ukr3: Оце ж, як перейдете Йордань, сї каменї, що про них сьогоднї заповідаю вам,
+        ви поставте на горі Ебаль; і побілиш їх вапном.
+      bel_syomukha: Калі пяройдзеце Ярдан, пастаўце камяні тыя, як я загадваю вам
+        сёньня, на гары Гевал і абмажце іх вапнаю;
+      lev-khv: И будет, когда перейдете Иордан; тогда поставьте камни те, как я
+        повелеваю вам сегодня, на горе Гевал, и обмажь их известью.
+      czech: Az tedy prejdete Jordan, postavite na hore Ebalu ony kameny, jak vam dnes
+        prikazuji, a obilis je vapnem.
+      spanish: Cuando paséis el Jordán alzaréis esas piedras, como yo te lo mando hoy,
+        sobre el monte Ebal y las revocarás con cal.
+      greek-lxx: καὶ ἔσται ὡς ἂν διαβῆτε τὸν Ιορδάνην στήσετε τοὺς λίθους τούτους οὓς
+        ἐγὼ ἐντέλλομαί σοι σήμερον ἐν ὄρει Γαιβαλ καὶ κονιάσεις αὐτοὺς κονίᾳ
+      st_text: Когда перейдете Иордан, поставьте камни те, как я повелеваю вам
+        сегодня, на горе Гевал, и обмажьте их известью;
+  - id: 36424
+    number: 5
+    bookId: 5
+    text: и устрой там жертвенник Господу Богу твоему, жертвенник из камней, не
+      поднимая на них железа;
+    chapter: 27
+    chapterId: 180
+    parallels:
+      - verseId: 21592
+        bookId: 2
+        bookCode: ishod
+        chapter: 20
+        short: Исх:20:25
+      - verseId: 27519
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 8
+        short: Нав:8:31
+    translates:
+      kassian: ""
+      podstr: И устроишь там жертвенник Господу Богу твоему, жертвенник из камней, не
+        возложишь на них железное орудие;
+      csya: "и да созиждеши тамо олтарь Господеви Богу твоему, олтарь от камения: да
+        не возложиши на них железа:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 да сози1ждеши тaмw nлтaрь гDеви бг7у твоемY, nлтaрь t кaменіz: да
+        не возложи1ши на ни1хъ желёза:"
+      sovr_rbo: Воздвигните там жертвенник Господу, вашему Богу, жертвенник из камней,
+        которых не касалось железное орудие.
+      latin: et aedificabis ibi altare Domino Deo tuo de lapidibus, quos ferrum non
+        tetigit,
+      ukr: І збудуєш там жертівника для Господа, Бога свого, жертівника з каміння, не
+        піднесеш над ними заліза.
+      nkjv: And there you shall build an altar to the Lord your God, an altar of
+        stones; you shall not use an iron tool on them.
+      desnitsky: ""
+      mt: ‫   וּבָנִיתָ שָּׁם מִזְבֵּחַ לַיהוָה אֱלֹהֶיךָ מִזְבַּח אֲבָנִים לֹא־תָנִיף
+        עֲלֵיהֶם בַּרְזֶל׃ ‬
+      romana: Sa zidesti acolo jertfelnic Domnului Dumnezeului tau, jertfelnic facut
+        din pietre, fara sa pui asupra lor fierul.
+      francais: Là, tu bâtiras un autel à l'Éternel, ton Dieu, un autel de pierres,
+        sur lesquelles tu ne porteras point le fer;
+      italian: Là co — struirai anche un altare al Signore tuo Dio, un altare di
+        pietre non toccate da strumento di ferro.
+      old_georgian: და უშენო მუნ საკურთხეველი უფალსა ღმერთსა შენსა, საკურთხეველი
+        გამოუკუერველთაგან ქვათა, რომელსა არა შეხებულ იყოს რკინაჲ.
+      portuguese: Também ali edificarás um altar ao Senhor teu Deus, um altar de
+        pedras; não alçarás ferramenta sobre elas.
+      polish: "I wystawicie tam ołtarz ku czci Pana, Boga swego, ołtarz z kamieni,
+        których\rnie obrabiało żelazo."
+      turkish: Orada Tanrınız RAB'be taşlardan bir sunak yapacaksınız. Bu taşlara
+        demir alet uygulamayacaksınız.
+      nrt: Построй там жертвенник Господу, твоему Богу, жертвенник из камней. Не
+        обрабатывай эти камни железным орудием.
+      Macarius: И сооруди там жертвенник Иегове, Богу твоему, жертвенник из камней, не
+        поднимай на них железа.
+      serbian: И начини ондје олтар Господу Богу својему, олтар од камења, али га
+        немој гвожђем тесати.
+      bulgarian: и съгради там жертвеник на Господа, твоя Бог, жертвеник от камъни,
+        без да допреш до тях желязо;
+      deutsch: Und sollst daselbst dem Herrn, deinem Gott, einen steinernen Altar
+        bauen, darüber kein Eisen fährt.
+      ukr2: Там поставиш ти жертовник Господеві, Богу твоєму, жертовник із каменів, і
+        не вдарятимеш у них долотом;
+      ukr3: "І поставиш там жертівника Господеві, Богу твому, камяного жертівника; не
+        замахнеш над ним зелїзом:"
+      bel_syomukha: і зладзь там ахвярнік Госпаду, Богу твайму, ахвярнік з камянёў, не
+        падымаючы на іх жалеза;
+      lev-khv: И устрой там жертвенник Господу, Богу твоему, жертвенник из камней; не
+        поднимай на них железа.
+      czech: Vybudujes tam oltar Hospodinu, svemu Bohu, oltar z kamenu, ale nebudes je
+        opracovavat zelezem.
+      spanish: Alzarás allí un altar a Yavé; un altar de piedras a las que no haya
+        tocado el hierro;
+      greek-lxx: καὶ οἰκοδομήσεις ἐκεῖ θυσιαστήριον Κυρίῳ τῷ Θεῷ σου θυσιαστήριον ἐκ
+        λίθων οὐκ ἐπιβαλεῖς ἐπ᾿ αὐτοὺς σίδηρον
+      st_text: и устрой там жертвенник Господу Богу твоему, жертвенник из камней, не
+        поднимая на них железа;
+  - id: 36425
+    number: 6
+    bookId: 5
+    text: из камней цельных устрой жертвенник Господа Бога твоего, и возноси на нем
+      всесожжения Господу Богу твоему,
+    chapter: 27
+    chapterId: 180
+    parallels:
+      - verseId: 762
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 7
+        short: 1 Цар:7:17
+    translates:
+      kassian: ""
+      podstr: камни целые устроишь жертвенник Господу Богу твоему и вознесёшь на нём
+        всесожжения Господу Богу твоему
+      csya: камением всецелым да созиждеши олтарь Господеви Богу твоему и вознесеши на
+        нем всесожжения Господеви Богу твоему,
+      averincev: ""
+      ungerov: ""
+      csya_old: кaменіемъ всецёлымъ да сози1ждеши nлтaрь гDеви бг7у твоемY и3
+        вознесе1ши на не1мъ всесожжє1ніz гDеви бг7у твоемY,
+      sovr_rbo: Воздвигните жертвенник Господу, вашему Богу, из необработанных камней
+        — и совершайте на нем всесожжения Господу, вашему Богу,
+      latin: "et de saxis informibus et impolitis: et offeres super eo holocausta
+        Domino Deo tuo,"
+      ukr: З нетесаного каміння збудуєш жертівника Господа, Бога свого, і принесеш на
+        ньому цілопалення Господеві, Богові своєму.
+      nkjv: You shall build with whole stones the altar of the Lord your God, and
+        offer burnt offerings on it to the Lord your God.
+      desnitsky: ""
+      mt: ‫   אֲבָנִים שְׁלֵמוֹת תִּבְנֶה אֶת־מִזְבַּח יְהוָה אֱלֹהֶיךָ וְהַעֲלִיתָ
+        עָלָיו עוֹלֹת לַיהוָה אֱלֹהֶיךָ׃ ‬
+      romana: Jertfelnicul Domnului Dumnezeului tau insa sa-l faci din pietre intregi
+        si sa aduci pe el Domnului Dumnezeului tau ardere de tot.
+      francais: tu bâtiras en pierres brutes l'autel de l'Éternel, ton Dieu. Tu
+        offriras sur cet autel des holocaustes à l'Éternel, ton Dieu;
+      italian: Costruirai l'altare del Signore tuo Dio con pietre intatte e sopra vi
+        offrirai olocausti al Signore tuo Dio,
+      old_georgian: მრგუალთაგან ქვათა უშენო შენ საკურთხეველი უფალსა ღმერთსა შენსა.
+      portuguese: De pedras brutas edificarás o altar do Senhor teu Deus, e sobre ele
+        oferecerás holocaustos ao Senhor teu Deus.
+      polish: "Z kamieni nieciosanych zbudujecie ten ołtarz dla Pana, Boga swego, i
+        złożycie\rna nim ofiary całopalne ku czci Pana, Boga swego."
+      turkish: Tanrınız RAB'bin sunağını yontulmamış taşlardan yapacak, üzerinde
+        Tanrınız RAB'be yakmalık sunular sunacaksınız.
+      nrt: Построй жертвенник Господу, твоему Богу, из нетесаных камней и приноси на
+        нем всесожжения Господу, твоему Богу.
+      Macarius: Из камней цельных сооруди жертвенник Иегове, Богу твоему, и возноси на
+        нем всесожжения Иегове, Богу твоему,
+      serbian: Од цијела камења начини олтар Господу Богу својему, и на њему принеси
+        Господу Богу својему жртве паљенице.
+      bulgarian: жертвеника на Господа, твоя Бог, съгради от цели камъни, и възнасяй
+        върху него всесъжение на Господа, твоя Бог,
+      deutsch: Von ganzen Steinen sollst du diesen Altar dem Herrn, deinem Gott, bauen
+        und Brandopfer darauf opfern dem Herrn, deinem Gott.
+      ukr2: із цілого каменя спорудиш жертовник Господеві, твоєму Богові, та вознесеш
+        на ньому всепалення Господеві, твоєму Богові.
+      ukr3: Із цїлого, нетесаного каміння поставиш жертівника Господеві, Богу твому.
+      bel_syomukha: з камянёў цэлых зладзь ахвярнік Госпада, Бога твайго, і ўчыняй на
+        ім цэласпаленьні Госпаду, Богу твайму,
+      lev-khv: Из камней цельных устрой жертвенник Господа, Бога твоего, и возноси на
+        нем всесожжения Господу, Богу твоему.
+      czech: Z neopracovanych kamenu vybudujes oltar Hospodinu, svemu Bohu, a budes na
+        nem obetovat zapalne obeti Hospodinu, svemu Bohu.
+      spanish: alzarás con piedras brutas el altar a Yavé, tu Dios, y ofrecerás sobre
+        él holocaustos a Yavé, tu Dios;
+      greek-lxx: λίθους ὁλοκλήρους οἰκοδομήσεις θυσιαστήριον Κυρίῳ τῷ Θεῷ σου καὶ
+        ἀνοίσεις ἐπ᾿ αὐτὸ ὁλοκαυτώματα Κυρίῳ τῷ Θεῷ σου
+      st_text: из камней цельных устрой жертвенник Господа Бога твоего, и возноси на
+        нем всесожжения Господу Богу твоему,
+  - id: 36426
+    number: 7
+    bookId: 5
+    text: и приноси жертвы мирные, и ешь [и насыщайся] там, и веселись пред Господом
+      Богом твоим;
+    chapter: 27
+    chapterId: 180
+    parallels:
+      - verseId: 36113
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 14
+        short: Втор:14:26
+    translates:
+      kassian: ""
+      podstr: и заколешь там жертву спасения Господу Богу твоему и съешь и насытишься
+        и будешь веселиться перед Господом Богом твоим.
+      csya: "и пожреши жертву спасения: и яси, и насытишися тамо, и возвеселишися пред
+        Господем Богом твоим,"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 пожре1ши же1ртву спасе1ніz: и3 ћси, и3 насы1тишисz тaмw, и3
+        возвесели1шисz пред8 гDемъ бг7омъ твои1мъ,"
+      sovr_rbo: приносите на нем пиршественные жертвы, и ешьте, и веселитесь пред
+        Господом, вашим Богом!
+      latin: et immolabis hostias pacificas, comedesque ibi, et epulaberis coram
+        Domino Deo tuo.
+      ukr: І принесеш на жертву мирні жертви, і будеш там їсти, і будеш тішитися перед
+        лицем Господа, Бога свого.
+      nkjv: You shall offer peace offerings, and shall eat there, and rejoice before
+        the Lord your God.
+      desnitsky: ""
+      mt: ‫   וְזָבַחְתָּ שְׁלָמִים וְאָכַלְתָּ שָּׁם וְשָׂמַחְתָּ לִפְנֵי יְהוָה
+        אֱלֹהֶיךָ׃ ‬
+      romana: Sa mai aduci jertfe de pace; sa mananci si sa te saturi acolo si sa te
+        veselesti inaintea Domnului Dumnezeului tau.
+      francais: tu offriras des sacrifices d'actions de grâces, et tu mangeras là et
+        te réjouiras devant l'Éternel, ton Dieu.
+      italian: offrirai sacrifici di comunione e là mangerai e ti gioirai davanti al
+        Signore tuo Dio.
+      old_georgian: და შესწირო შენ მას ზედა მსხუერპლი შესაწირავი მაცხოარებისაჲ უფალსა
+        ღმერთსა შენსა და დაუკლნე მუნ საკლველნი ლხინებისანი, შჭამდე და განსძღე და
+        იხარებდე წინაშე უფლისა ღმრთისა შენისა.
+      portuguese: Também sacrificarás ofertas pacíficas, e ali comerás, e te alegrarás
+        perante o Senhor teu Deus.
+      polish: "Jemu złożycie też ofiary biesiadne, spożyjecie je na miejscu i
+        będziecie się\rcieszyć wobec Pana, Boga swego."
+      turkish: Esenlik sunularını orada kesip yiyecek ve Tanrınız RAB'bin önünde
+        sevineceksiniz.
+      nrt: Приноси там жертвы примирения, ешь их и веселись в присутствии Господа,
+        твоего Бога.
+      Macarius: И приноси жертвы благодарственные, и ешь [и насыщайся] там, и веселись
+        пред Иеговою, Богом твоим.
+      serbian: Принеси и захвалне жртве, и једи их ондје, и весели се пред Господом
+        Богом својим.
+      bulgarian: и принасяй мирни жертви, и яж (и се насищай) там, и весели се пред
+        Господа, твоя Бог;
+      deutsch: Und sollst Dankopfer opfern und daselbst essen und fröhlich sein vor
+        dem Herrn, deinem Gott.
+      ukr2: Тоді принесеш мирні жертви й їстимеш там та й веселитимешся перед
+        Господом, Богом твоїм.
+      ukr3: І вознесеш на йому всепаленнє Господеві, Богу твому.
+      bel_syomukha: і прынось ахвяры мірныя, і еж там, і радуйся прад Госпадам, Богам тваім;
+      lev-khv: И приноси мирныя жертвы, и ешь там, и веселись пред Господом, Богом
+        твоим.
+      czech: Budes tam take obetovat a jist pokojne obeti a radovat se pred
+        Hospodinem, svym Bohem.
+      spanish: le ofrecerás sacrificios pacíficos y allí comerás y te regocijarás ante
+        Yavé, tu Dios;
+      greek-lxx: καὶ θύσεις ἐκεῖ θυσίαν σωτηρίου Κυρίῳ τῷ Θεῷ σου καὶ φάγῃ καὶ
+        ἐμπλησθήσῃ καὶ εὐφρανθήσῃ ἐναντίον Κυρίου τοῦ Θεοῦ σου
+      st_text: и приноси жертвы мирные, и ешь [и насыщайся] там, и веселись пред
+        Господом Богом твоим;
+  - id: 36427
+    number: 8
+    bookId: 5
+    text: и напиши на камнях [сих] все слова закона сего очень явственно.
+    chapter: 27
+    chapterId: 180
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И напишешь на камнях весь Закон этот начертай ясно очень.
+      csya: и напишеши на камениих сих весь закон сей яве зело.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 напи1шеши на кaменіихъ си1хъ ве1сь зако1нъ се1й ћвэ ѕэлw2.
+      sovr_rbo: Запишите на камнях этот Закон, отчетливо и ясно».
+      latin: Et scribes super lapides omnia verba legis hujus plane et lucide.
+      ukr: І напишеш на тих каміннях усі слова цього Закону дуже виразно.
+      nkjv: And you shall write very plainly on the stones all the words of this law."
+      desnitsky: ""
+      mt: ‫   וְכָתַבְתָּ עַל־הָאֲבָנִים אֶת־כָּל־דִּבְרֵי הַתּוֹרָה הַזֹּאת בַּאֵר
+        הֵיטֵב׃ ס ‬
+      romana: Dar sa scrii pe pietrele acelea cuvintele legii acesteia foarte lamurit".
+      francais: Tu écriras sur ces pierres toutes les paroles de cette loi, en les
+        gravant bien nettement.
+      italian: Scriverai su quelle pietre tutte le parole di questa legge con
+        scrittura ben chiara".
+      old_georgian: და დასწერო ლოდთა მათ ზედა ყოველი ესე შჯული ჭეშმარიტებისაჲ განცხადებულად.
+      portuguese: Naquelas pedras escreverás todas as palavras desta lei, gravando-as
+        bem nitidamente.
+      polish: Na kamieniach wypiszecie wszystkie słowa tego Prawa. Wyryjcie je dobrze!
+      turkish: Taşlara bu yasanın bütün sözlerini okunaklı bir biçimde yazacaksınız.»
+      nrt: Напиши четко и ясно все слова этого Закона на камнях, которые ты
+        установишь.
+      Macarius: И напиши на камнях [сих] все слова закона сего очень явственно.
+      serbian: И напиши на том камењу све ријечи овога закона добро и разговијетно.
+      bulgarian: и върху тия камъни напиши твърде ясно всички думи на тоя закон.
+      deutsch: Und sollst auf die Steine alle Worte dieses Gesetzes schreiben, klar
+        und deutlich.
+      ukr2: А на каменях напишеш усі слова цього закону, виковуючи їх виразно.»
+      ukr3: І заколеш мирні жертви та й їсти меш там, і веселити мешся перед Господом,
+        Богом твоїм. І напишеш на каменях всї слова закону сього, виразно
+        виріжеш їх.
+      bel_syomukha: і напішы на камянях усе словы закона гэтага вельмі выразна.
+      lev-khv: И напиши на камнях все слова этого закона очень явственно.
+      czech: A na kameny napises co nejzretelneji vsechna slova tohoto zakona.
+      spanish: escribirás sobre esas piedras todas las palabras de esta Ley con
+        caracteres bien claros>>.
+      greek-lxx: καὶ γράψεις ἐπὶ τῶν λίθων πάντα τὸν νόμον τοῦτον σαφῶς σφόδρα
+      st_text: и напиши на камнях [сих] все слова закона сего очень явственно.
+  - id: 36428
+    number: 9
+    bookId: 5
+    text: "И сказал Моисей и священники левиты всему Израилю, говоря: внимай и
+      слушай, Израиль: в день сей ты сделался народом Господа Бога твоего;"
+    chapter: 27
+    chapterId: 180
+    parallels:
+      - verseId: 36418
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 26
+        short: Втор:26:18
+    translates:
+      kassian: ""
+      podstr: "И сказал Моисей и священники левиты всему Израилю говорящие: Молчи и
+        слушай, Израиль; в день этот ты сделался в народ Господу Богу твоему;"
+      csya: "И глагола моисей и жерцы левити всему израилю, глаголюще: молчи и слыши,
+        израилю, в день сей стался еси в люди Господеви Богу твоему:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# глаго1ла мwmсе1й и3 жерцы2 леvjти всемY ї}лю, глаго1люще: молчи2
+        и3 слы1ши, ї}лю, въ де1нь се1й стaлсz є3си2 въ лю1ди гDеви бг7у твоемY:"
+      sovr_rbo: "Моисей, вместе со священниками-левитами, сказал всему Израилю: «Молчи
+        и внимай, Израиль! Сегодня вы стали народом Господа, вашего Бога."
+      latin: "Dixeruntque Moyses et sacerdotes Levitici generis ad omnem Israelem:
+        Attende, et audi, Israel: hodie factus es populus Domini Dei tui:"
+      ukr: "І промовляв Мойсей та всі священики-Левити, до всього Ізраїля, говорячи:
+        Уважай та слухай, Ізраїлю, ти цього дня став народом Господа, Бога
+        свого."
+      nkjv: 'Then Moses and the priests, the Levites, spoke to all Israel, saying,
+        "Take heed and listen, O Israel: This day you have become the people of
+        the Lord your God.'
+      desnitsky: ""
+      mt: ‫   וַיְדַבֵּר מֹשֶׁה וְהַכֹּהֲנִים הַלְוִיִּם אֶל כָּל־יִשְׂרָאֵל לֵאמֹר
+        הַסְכֵּת וּשְׁמַע יִשְׂרָאֵל הַיּוֹם הַזֶּה נִהְיֵיתָ לְעָם לַיהוָה
+        אֱלֹהֶיךָ׃ ‬
+      romana: 'Moise cu preotii cei din leviti a grait la tot Israelul si a zis: "Ia
+        aminte si asculta, Israele: Astazi te-ai facut poporul Domnului
+        Dumnezeului tau.'
+      francais: "Moïse et les sacrificateurs, les Lévites, parlèrent à tout Israël, et
+        dirent: Israël, sois attentif et écoute! Aujourd'hui, tu es devenu le
+        peuple de l'Éternel, ton Dieu."
+      italian: "Mosè e i sacerdoti leviti dissero a tutto Israele: \"Fa' silenzio e
+        ascolta, Israele! Oggi sei divenuto il popolo del Signore tuo Dio."
+      old_georgian: "სიტყუად იწყო მოსე და მღდელთა მათ ლევიტელთა ყოვლსა მის ერისა და
+        ჰრქუეს: დუმენ და ისმინე, ისრაჱლ, რამეთუ დღესდღე შეიქმენ შენ ერად უფლისა
+        ღმრთისა."
+      portuguese: "Falou mais Moisés, e os levitas sacerdotes, a todo o Israel,
+        dizendo: Guarda silêncio, e ouve, ó Israel! hoje vieste\ra ser o povo do
+        Senhor teu Deus."
+      polish: "Potem Mojżesz i kapłani-lewici rzekli do całego Izraela te słowa:
+        Zamilknij,\rIzraelu, i słuchaj, w dniu dzisiejszym stałeś się narodem
+        Pana, Boga swego."
+      turkish: Sonra Musa ile Levili kâhinler bütün İsrailliler'e, «Ey İsrail, sus ve
+        kulak ver!» diye seslendiler, «Bugün Tanrınız RAB'bin halkı oldunuz.
+      nrt: "Затем Моисей и священники из левитов сказали всему Израилю: – Молчи и
+        слушай, Израиль! Теперь ты стал народом Господа, твоего Бога."
+      Macarius: "И говорил Моисей и священники, Левиты, всему Израилю и сказали:
+        внимай и слушай, Израиль: в день сей ты соделался народом Иеговы, Бога
+        твоего."
+      serbian: "И рече Мојсије и свештеници Левити свему Израиљу говорећи: Пази и чуј
+        Израиљу! Данас си постао народ Господа Бога својега."
+      bulgarian: "Тогава Моисей със свещениците левити рече към целия Израил, думайки:
+        внимавай и слушай, Израилю: ти днес стана народ на Господа, твоя Бог."
+      deutsch: "Und Mose und die Priester, die Leviten, redeten mit ganz Israel und
+        sprachen: Merke und höre zu, Israel! Heute, dieses Tages, bist du ein
+        Volk des Herrn, deines Gottes, geworden,"
+      ukr2: "Мойсей і священики-левіти промовили до всього Ізраїля так: «Мовчи,
+        Ізраїлю, і слухай: сьогодні ти став народом Господа, Бога твого;"
+      ukr3: "І промовили Мойсей і сьвященники Левити до всього Ізраїля словами:
+        Утихомирись і слухай Ізраїлю! Дня сього став єси народом Господа, Бога
+        твого."
+      bel_syomukha: "І сказаў Майсей і сьвятары лявіты ўсяму Ізраілю, кажучы: уважай і
+        слухай, Ізраіле; у дзень гэты ты зрабіўся народам Госпада, Бога твайго;"
+      lev-khv: "И сказал Моисей и священники Левиты всему Израилю, говоря: внимай и
+        слушай, Израиль: в этот день ты сделался народом Господу, Богу твоему."
+      czech: "I promluvil Mojzis a levijsti knezi k celemu Izraeli: Ztis se a slys,
+        Izraeli, stal ses dnesniho dne lidem Hospodina, sveho Boha."
+      spanish: "Moisés y los sacerdotes levitas hablaron a todo Israel, diciendo:
+        <<Guarda silencio, Israel, y escucha: Hoy eres el pueblo de Yavé, tu
+        Dios."
+      greek-lxx: καὶ ἐλάλησεν Μωυσῆς καὶ οἱ ἱερεῖς οἱ Λευῖται παντὶ Ισραηλ λέγοντες
+        σιώπα καὶ ἄκουε Ισραηλ ἐν τῇ ἡμέρᾳ ταύτῃ γέγονας εἰς λαὸν Κυρίῳ τῷ Θεῷ
+        σου
+      st_text: "И сказал Моисей и священники левиты всему Израилю, говоря: внимай и
+        слушай, Израиль: в день сей ты сделался народом Господа Бога твоего;"
+  - id: 36429
+    number: 10
+    bookId: 5
+    text: итак слушай гласа Господа Бога твоего и исполняй [все] заповеди Его и
+      постановления Его, которые заповедую тебе сегодня.
+    chapter: 27
+    chapterId: 180
+    parallels:
+      - verseId: 36417
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 26
+        short: Втор:26:17
+      - verseId: 36446
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 28
+        short: Втор:28:1
+    translates:
+      kassian: ""
+      podstr: и услышишь голос Господа Бога твоего и сделаешь все заповеди Его и
+        требования Его, сколькие я указываю тебе сегодня.
+      csya: и да послушаеши гласа Господа Бога твоего, и да сотвориши вся заповеди его
+        и оправдания его, яже аз заповедаю тебе днесь.
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 да послyшаеши глaса гDа бг7а твоегw2, и3 да сотвори1ши вс‰ зaпwвэди
+        є3гw2 и3 њправд†ніz є3гw2, ±же ѓзъ заповёдаю тебЁ дне1сь.
+      sovr_rbo: Слушайтесь же Господа, вашего Бога, исполняйте Его повеления и
+        предписания, которые я возвещаю вам ныне».
+      latin: audies vocem ejus, et facies mandata atque justitias, quas ego praecipio
+        tibi.
+      ukr: І будеш ти слухатися Господа, Бога свого, і будеш виконувати заповіді Його
+        та постанови Його, що я наказую тобі сьогодні.
+      nkjv: Therefore you shall obey the voice of the Lord your God, and observe His
+        commandments and His statutes which I command you today."
+      desnitsky: ""
+      mt: ‫   וְשָׁמַעְתָּ בְּקוֹל יְהוָה אֱלֹהֶיךָ וְעָשִׂיתָ אֶת־מִצְוֺתָו‪‬‪‬
+        וְאֶת־חֻקָּיו אֲשֶׁר אָנֹכִי מְצַוְּךָ הַיּוֹם׃ ס ‬
+      romana: Asculta dar glasul Domnului Dumnezeului tau si plineste toate poruncile
+        Lui si hotararile Lui pe care ti le spun eu astazi".
+      francais: Tu obéiras à la voix de l'Éternel, ton Dieu, et tu mettras en pratique
+        ses commandements et ses lois que je le prescris aujourd'hui.
+      italian: Obbedirai quindi alla voce del Signore tuo Dio e metterai in pratica i
+        suoi comandi e le sue leggi che oggi ti do".
+      old_georgian: ისმინო თუ ჴმაჲ უფლისაჲ ღმრთისა შენისაჲ და ჰყვნე ყოველნი ესე
+        მცნებანი და სამართალნი მისნი, რომელ-ესე მე გამცნებ შენ დღესდღე.
+      portuguese: "Portanto obedecerás à voz do Senhor teu Deus, e cumprirás os seus
+        mandamentos e os seus estatutos, que eu\rhoje te ordeno."
+      polish: "Będziesz słuchał głosu Pana, Boga swego, i wypełniał Jego polecenia i
+        prawa,\rktóre ja ci dzisiaj daję."
+      turkish: Tanrınız RAB'bin sözüne kulak verin, bugün size ilettiğim buyruklarına,
+        kurallarına uyun.»
+      nrt: Слушайся Господа, твоего Бога, и исполняй все Его повеления и установления,
+        которые я даю тебе сегодня.
+      Macarius: Слушай гласа Иеговы, Бога твоего, и исполняй [все] заповеди Его и
+        постановления Его, которые я заповедаю тебе сегодня.
+      serbian: Зато слушај глас Господа Бога својега, и твори заповијести његове и
+        уредбе његове, које ти ја данас заповиједам.
+      bulgarian: И тъй, слушай гласа на Господа, твоя Бог, и изпълнявай (всички)
+        Негови заповеди и наредби, които ти заповядвам днес.
+      deutsch: daß du der Stimme des Herrn, deines Gottes, gehorsam seist und tust
+        nach seinen Geboten und Rechten, die ich dir heute gebiete.
+      ukr2: слухай же голос Господа, твого Бога, й виконуй його заповіді й установи,
+        що це нині заповідаю тобі »
+      ukr3: Слухай же голосу Господа, Бога твого, і сповняй заповідї його і встанови
+        його, що їх сьогоднї заповідаю тобі.
+      bel_syomukha: дык вось, слухайся голасу Госпада, Бога твайго, і выконвай
+        запаведзі Ягоныя і пастановы Ягоныя, якія наказваю табе сёньня.
+      lev-khv: И так слушай голоса Господа, Бога твоего, и исполняй заповеди Его и
+        уставы Его, которыя я заповедаю тебе сегодня.
+      czech: Budes poslouchat Hospodina, sveho Boha, a plnit jeho prikazy a jeho
+        narizeni, ktera ti dnes prikazuji.
+      spanish: Obedece, pues, a la voz de Yavé, tu Dios, y pon por obra sus
+        mandamientos y sus leyes que yo hoy te prescribo.
+      greek-lxx: καὶ εἰσακούσῃ τῆς φωνῆς Κυρίου τοῦ Θεοῦ σου καὶ ποιήσεις πάσας τὰς
+        ἐντολὰς αὐτοῦ καὶ τὰ δικαιώματα αὐτοῦ ὅσα ἐγὼ ἐντέλλομαί σοι σήμερον
+      st_text: итак слушай гласа Господа Бога твоего и исполняй [все] заповеди Его и
+        постановления Его, которые заповедую тебе сегодня.
+  - id: 36430
+    number: 11
+    bookId: 5
+    text: "И заповедал Моисей народу в день тот, говоря:"
+    chapter: 27
+    chapterId: 180
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "И приказал Моисей народу в день тот говорящий:"
+      csya: "И заповеда моисей людем в той день, глаголя:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# заповёда мwmсе1й лю1демъ въ то1й де1нь, глаго1лz:"
+      sovr_rbo: "В тот день Моисей дал народу такое повеление:"
+      latin: "Praecepitque Moyses populo in die illo, dicens:"
+      ukr: "І наказав Мойсей того дня народові, говорячи:"
+      nkjv: And Moses commanded the people on the same day, saying,
+      desnitsky: ""
+      mt: ‫   וַיְצַו מֹשֶׁה אֶת־הָעָם בַּיּוֹם הַהוּא לֵאמֹר׃ ‬
+      romana: "In ziua aceea a mai poruncit Moise poporului si a zis:"
+      francais: "Le même jour, Moïse donna cet ordre au peuple:"
+      italian: "In quello stesso giorno Mosè diede quest'ordine al popolo:"
+      old_georgian: "და ამცნო მოსე ყოველსა მას ერსა და ჰრქუა:"
+      portuguese: "Nesse mesmo dia Moisés deu ordem ao povo, dizendo:"
+      polish: "Tego samego dnia wydał Mojżesz ludowi takie polecenie:"
+      turkish: "O gün Musa halka şöyle dedi:"
+      nrt: "В тот же день Моисей повелел народу:"
+      Macarius: "И заповедал Моисей народу в день тот, и сказал:"
+      serbian: "И заповједи Мојсије у онај дан народу говорећи:"
+      bulgarian: "В същия ден заповяда Моисей на народа, като каза:"
+      deutsch: "Und Mose gebot dem Volk desselben Tages und sprach:"
+      ukr2: "Цього дня заповідав Мойсей народові словами:"
+      ukr3: "І заповідав Мойсей того дня людові такими словами:"
+      bel_syomukha: "І наказаў Майсей народу ў той дзень, кажучы:"
+      lev-khv: "И заповедал Моисей народу в день тот, говоря:"
+      czech: "Onoho dne Mojzis lidu dale prikazal:"
+      spanish: "El mismo día dio Moisés al pueblo esta orden:"
+      greek-lxx: καὶ ἐνετείλατο Μωυσῆς τῷ λαῷ ἐν τῇ ἡμέρᾳ ἐκείνῃ λέγων
+      st_text: "И заповедал Моисей народу в день тот, говоря:"
+  - id: 36431
+    number: 12
+    bookId: 5
+    text: "сии должны стать на горе Гаризим, чтобы благословлять народ, когда
+      перейдете Иордан: Симеон, Левий, Иуда, Иссахар, Иосиф и Вениамин;"
+    chapter: 27
+    chapterId: 180
+    parallels:
+      - verseId: 36034
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 11
+        short: Втор:11:29
+      - verseId: 27521
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 8
+        short: Нав:8:33
+    translates:
+      kassian: ""
+      podstr: Эти станут благословлять народ на горе Гаризин перешедшие Иордан;
+        Симеон, Левий, Иуда, Иссахар, Иосиф и Вениамин.
+      csya: "сии да станут благословляти люди на горе гаризин, прешедше иордан:
+        симеон, левий, иуда, иссахар, иосиф и вениамин:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "сjи да стaнутъ благословлsти лю1ди на горЁ гарізjнъ, преше1дше
+        їoрдaнъ: сmмеHнъ, леvjй, їyда, їссахaръ, їHсифъ и3 веніамjнъ:"
+      sovr_rbo: «Когда вы перейдете Иордан, пусть племена Симеона, Левия, Иуды,
+        Иссахара, Иосифа и Вениамина встанут на горе Гаризим и благословят
+        народ.
+      latin: "Hi stabunt ad benedicendum populo super montem Garizim, Jordane
+        transmisso: Simeon, Levi, Judas, Issachar, Joseph, et Benjamin."
+      ukr: "Оці стануть на горі Ґарізім, щоб благословляти народ, коли ви перейдете
+        Йордан: Симеон, і Левій, і Юда, і Іссахар, і Йосип, і Веніямин."
+      nkjv: '"These shall stand on Mount Gerizim to bless the people, when you have
+        crossed over the Jordan: Simeon, Levi, Judah, Issachar, Joseph, and
+        Benjamin;'
+      desnitsky: ""
+      mt: ‫   אֵלֶּה יַעַמְדוּ לְבָרֵךְ אֶת־הָעָם עַל־הַר גְּרִזִים בְּעָבְרְכֶם
+        אֶת־הַיַּרְדֵּן שִׁמְעוֹן וְלֵוִי וִיהוּדָה וְיִשָּׂשכָר וְיוֹסֵף
+        וּבִנְיָמִן׃ ‬
+      romana: '"Dupa ce veti trece Iordanul, semintiile: Simeon, Levi, Iuda, Isahar,
+        Iosif si Veniamin sa stea pe muntele Garizim si sa binecuvanteze
+        poporul;'
+      francais: Lorsque vous aurez passé le Jourdain, Siméon, Lévi, Juda, Issacar,
+        Joseph et Benjamin, se tiendront sur le mont Garizim, pour bénir le
+        peuple;
+      italian: '"Quando avrete passato il Giordano, ecco quelli che staranno sul monte
+        Garizim per benedire il popolo: Simeone, Levi, Giuda, Ìssacar, Giuseppe
+        e Beniamino;'
+      old_georgian: "ესენი დადგეს მაკურთხევლად ყოვლისა მაგის ერისა მთასა მას ზედა
+        გარიზინსა, რაჟამს წიაღჰჴდე თქუენ იორდანესა მდინარესა: სჳმეონ, ლევი,
+        იუდა, იზაქარ, იოსებ და ბენიამენ."
+      portuguese: "Quando houverdes passado o Jordão, estes estarão sobre o monte
+        Gerizim, para abençoarem o povo: Simeão,\rLevi, Judá, Issacar, José e
+        Benjamim;"
+      polish: "Gdy przekroczycie Jordan, staną na górze Garizim, by błogosławić lud:
+        Symeon, Lewi, Juda, Issachar, Józef i Beniamin."
+      turkish: "«Şeria Irmağı'ndan geçince, halkı kutsamak için Gerizim Dağı'nda
+        duracak oymaklar şunlardır: Şimon, Levi, Yahuda, İssakar, Yusuf,
+        Benyamin."
+      nrt: "– Когда вы перейдете через Иордан, вот какие роды встанут на горе Гаризим,
+        чтобы благословить народ: рода Симеон, Левий, Иуда, Иссахар, Иосиф и
+        Вениамин."
+      Macarius: "Сии должны стать на горе Гаризим, чтобы благословлять народ, когда
+        перейдете за Иордан: Симеон, Левий, Иуда, Иссахар, Иосиф и Вениамин."
+      serbian: "Ови нека стану да благосиљају народ на гори Гаризину кад пријеђете
+        преко Јордана: Симеон, Левије, Јуда, Исахар, Јосиф и Венијамин."
+      bulgarian: "кога преминете Иордан, тия трябва да застанат на планина Гаризим, за
+        да благословят народа: Симеон, Левий, Иуда, Исахар, Иосиф и Вениамин;"
+      deutsch: Diese sollen stehen auf dem Berge Garizim, zu segnen das Volk, wenn ihr
+        über den Jordan gegangen seid; Simeon, Levi, Juda, Isaschar, Joseph und
+        Benjamin.
+      ukr2: "«Як перейдете Йордан, то оці стануть на Герізім-горі, щоб благословити
+        народ: Симеон, Леві, Юда, Іссахар, Йосиф і Веніямин."
+      ukr3: "Як перейдете Йордань, стануть сї на Геризим горі, щоб людей благословити:
+        Симеон і Левій і Юда і Іссахар і Йосиф і Бенямин;"
+      bel_syomukha: "гэтыя павінны стаць на гары Гарызім, каб дабраслаўляць народ,
+        калі пяройдзеце Ярдан: Сымон, Лявій, Юда, Ісахар, Язэп і Веньямін;"
+      lev-khv: "Эти должны стать на горе Гаризим, чтобы благословлять народ, когда
+        перейдете Иордан: Синеон и Левий, и Иуда, и Иссахар, и Иосиф, и
+        Вениамин."
+      czech: "Az prejdete Jordan, postavi se na hore Gerizimu, aby zehnali lidu:
+        Simeon, Levi, Juda, Isachar, Josef a Benjamin."
+      spanish: <<Cuando hayáis pasado el Jordán, Simeón, Leví, Judá, Isacar, José y
+        Benjamín se estarán sobre el monte Garizim, para la bendición del
+        pueblo;
+      greek-lxx: οὗτοι στήσονται εὐλογεῖν τὸν λαὸν ἐν ὄρει Γαριζιν διαβάντες τὸν
+        Ιορδάνην Συμεων Λευι Ιουδας Ισσαχαρ Ιωσηφ καὶ Βενιαμιν
+      st_text: "сии должны стать на горе Гаризим, чтобы благословлять народ, когда
+        перейдете Иордан: Симеон, Левий, Иуда, Иссахар, Иосиф и Вениамин;"
+  - id: 36432
+    number: 13
+    bookId: 5
+    text: "а сии должны стать на горе Гевал, чтобы <i>произносить</i> проклятие:
+      Рувим, Гад, Асир, Завулон, Дан и Неффалим."
+    chapter: 27
+    chapterId: 180
+    parallels:
+      - verseId: 27521
+        bookId: 6
+        bookCode: kniga-iisusa-navina
+        chapter: 8
+        short: Нав:8:33
+    translates:
+      kassian: ""
+      podstr: "И эти станут на проклятия на горе Гевал: Рувин, Гад и Асир, Завулон,
+        Дан и Неффалим."
+      csya: "и сии да станут на клятву на горе гевал: рувим, гад и асир, завулон, дан
+        и неффалим."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 сjи да стaнутъ на клsтву на горЁ гевaлъ: руви1мъ, гaдъ и3 ґси1ръ,
+        завулHнъ, дaнъ и3 нефfалjмъ."
+      sovr_rbo: А племена Рувима, Гада, Асира, Завулона, Дана и Неффалима пусть
+        встанут на горе Гевал и провозгласят проклятия.
+      latin: "Et e regione isti stabunt ad maledicendum in monte Hebal: Ruben, Gad, et
+        Aser, et Zabulon, Dan, et Nephthali."
+      ukr: "А оці стануть для клятви на горі Евал: Рувим, Ґад, і Асир, і Завулон, Дан
+        і Нефталим."
+      nkjv: "and these shall stand on Mount Ebal to curse: Reuben, Gad, Asher,
+        Zebulun, Dan, and Naphtali."
+      desnitsky: ""
+      mt: ‫   וְאֵלֶּה יַעַמְדוּ עַל־הַקְּלָלָה בְּהַר עֵיבָל רְאוּבֵן גָּד וְאָשֵׁר
+        וּזְבוּלֻן דָּן וְנַפְתָּלִי׃ ‬
+      romana: "Iar semintiile: Ruben, Gad, Aser, Zabulon, Dan si Neftali sa stea pe
+        muntele Ebal, ca sa rosteasca blestemul."
+      francais: et Ruben, Gad, Aser, Zabulon, Dan et Nephthali, se tiendront sur le
+        mont Ébal, pour prononcer la malédiction.
+      italian: "ecco quelli che staranno sul monte Ebal, per pronunciare la
+        maledizione: Ruben, Gad, Aser, Zàbulon, Dan e Nèftali."
+      old_georgian: "და ესენი დადგენ წყევად მათსა მას ზედა გებალსა: რუბენ, გად, ასერ,
+        ზაბულონ, დან და ლეფთალიმ."
+      portuguese: "e estes estarão sobre o monte Ebal para pronunciarem a maldição:
+        Rúben, Gade, Aser, Zebulom, Dã e Naftali."
+      polish: "A na górze Ebal staną, by przeklinać: Ruben, Gad, Aser, Zabulon, Dan
+        i\rNeftali."
+      turkish: "Lanetlemek için Eval Dağı'nda şu oymaklar duracak: Ruben, Gad, Aşer,
+        Zevulun, Dan, Naftali."
+      nrt: "Эти роды встанут на горе Гевал, чтобы произносить проклятия: Рувим, Гад,
+        Асир, Завулон, Дан и Неффалим."
+      Macarius: "А сии должны стать на горе Гевал, чтобы произносить проклятие: Рувим,
+        Гад, Асир, Завулон, Дан и Неффалим."
+      serbian: "А ови нека стану да проклињу на гори Евалу: Рувим, Гад, Асир, Завулон,
+        Дан и Нефталим."
+      bulgarian: "а тия трябва да застанат на планина Гевал, за да изрекат проклятие:
+        Рувим, Гад, Асир, Завулон, Дан и Нефталим."
+      deutsch: Und diese sollen stehen auf dem Berge Ebal, zu fluchen Ruben, Gad,
+        Asser, Sebulon, Dan und Naphthali.
+      ukr2: "А оці стануть на Евал-горі, щоб проклинати: Рувим, Гад, Ашер, Завулон,
+        Дан і Нафталі."
+      ukr3: "А сї стануть на Ебаль горі, щоб проклинати: Рубен, Гад і Ассер і Зебулон,
+        Дан і Нафталїй."
+      bel_syomukha: "а гэтыя павінны стаць на гары Гевал, каб праклінаць: Рувім, Гад,
+        Асір, Завулон, Дан і Нэфталім."
+      lev-khv: "А эти должны стать на горе Гевал для проклинания: Рувим, Гад, и Асир,
+        и Завулон, Дан и Неффалим."
+      czech: "A tito se postavi na hore Ebalu, aby zlorecili: Ruben, Gad, Aser,
+        Zabulon, Dan a Neftali."
+      spanish: los otros, Rubén, Gad, Aser, Zabulón, Dan y Neftalí, sobre el monte
+        Ebal, para la maldición.
+      greek-lxx: καὶ οὗτοι στήσονται ἐπὶ τῆς κατάρας ἐν ὄρει Γαιβαλ Ρουβην Γαδ καὶ
+        Ασηρ Ζαβουλων καὶ Νεφθαλι
+      st_text: "а сии должны стать на горе Гевал, чтобы <i>произносить</i> проклятие:
+        Рувим, Гад, Асир, Завулон, Дан и Неффалим."
+  - id: 36433
+    number: 14
+    bookId: 5
+    text: "Левиты возгласят и скажут всем Израильтянам громким голосом:"
+    chapter: 27
+    chapterId: 180
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "И ответившие левиты скажут всему Израилю голосом громким:"
+      csya: "И отвещавше рекут левити всему израилю гласом великим:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# tвэщaвше рекyтъ леvjти всемY ї}лю глaсомъ вели1кимъ:"
+      sovr_rbo: "Пусть левиты громко скажут всем сынам Израилевым:"
+      latin: "Et pronuntiabunt Levitae, dicentque ad omnes viros Israel excelsa voce:"
+      ukr: "І відповідять Левити, і скажуть до всіх Ізраїлевих мужів сильним голосом:"
+      nkjv: '"And the Levites shall speak with a loud voice and say to all the men of
+        Israel:'
+      desnitsky: ""
+      mt: ‫   וְעָנוּ הַלְוִיִּם וְאָמְרוּ אֶל־כָּל־אִישׁ יִשְׂרָאֵל קוֹל רָם׃ ס ‬
+      romana: "Atunci levitii sa strige si sa zica cu glas tare tuturor Israelitilor:"
+      francais: "Et les lévites prendront la parole, et diront d'une voix haute à tout
+        Israël:"
+      italian: "I leviti prenderanno la parola e diranno ad alta voce a tutti gli
+        Israeliti:"
+      old_georgian: "და ეტყოდიან ლევიტელნი იგი ყოველსა მას ერსა ისრაჱლისასა ჴმითა
+        დიდითა და ჰრქუან:"
+      portuguese: "E os levitas dirão em alta voz a todos os homens de Israel:"
+      polish: "Lewici zabiorą głos i zawołają do całego Izraela:"
+      turkish: "Levililer bütün İsrail halkına yüksek sesle şöyle diyecekler:"
+      nrt: "Левиты будут возвещать всему народу Израиля громким голосом:"
+      Macarius: "Левиты возгласят и скажут всем Израильтянам возвышенным голосом:"
+      serbian: "И нека проговоре Левити гласовито и реку свјема у Израиљу:"
+      bulgarian: "Левитите да възвестят и кажат на всички израилтяни с висок глас:"
+      deutsch: "Und die Leviten sollen anheben und sagen zu jedermann von Israel mit
+        lauter Stimme:"
+      ukr2: "І заходяться левіти промовляти, кажучи грімким голосом до всіх
+        Ізраїльтян:"
+      ukr3: "І зачнуть Левити промовляти і казати муть грімким голосом до всїх
+        Ізрайлитян:"
+      bel_syomukha: "Лявіты абвесьцяць і скажуць усім Ізраільцянам гучным голасам:"
+      lev-khv: "И возгласят Левиты и скажут всем Израильтянам возвышенным голосом:"
+      czech: "Levijci stridave se vsemi izraelskymi muzi budou pronaset zvysenym
+        hlasem:"
+      spanish: "Los levitas alzarán la voz y en voz alta dirán a todos los hombres de
+        Israel:"
+      greek-lxx: καὶ ἀποκριθέντες οἱ Λευῖται ἐροῦσιν παντὶ Ισραηλ φωνῇ μεγάλῃ
+      st_text: "Левиты возгласят и скажут всем Израильтянам громким голосом:"
+  - id: 36434
+    number: 15
+    bookId: 5
+    text: "проклят, кто сделает изваянный или литый кумир, мерзость пред Господом,
+      произведение рук художника, и поставит его в тайном месте! Весь народ
+      возгласит и скажет: аминь."
+    chapter: 27
+    chapterId: 180
+    parallels:
+      - verseId: 12305
+        bookId: 4
+        bookCode: cisla
+        chapter: 5
+        short: Чис:5:22
+      - verseId: 36033
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 11
+        short: Втор:11:28
+      - verseId: 2897
+        bookId: 13
+        bookCode: 1a-kniga-paralipomenon
+        chapter: 16
+        short: 1 Пар:16:36
+      - verseId: 17866
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 8
+        short: Иез:8:10
+      - verseId: 12993
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 9
+        short: Дан:9:11
+    translates:
+      kassian: ""
+      podstr: "Проклят человек, который сделает истукан и литое [изображение],
+        мерзость Господу, дело рук ремесленника, и положит его в сокровенное; и
+        ответивший весь народ скажет: Пусть осуществится."
+      csya: "проклят человек, иже сотворит изваяние и слияние, мерзость Господеви,
+        дело рук художника, и положит е в сокровении. И отвещавше вси людие
+        рекут: буди."
+      averincev: ""
+      ungerov: ""
+      csya_old: "про1клzтъ человёкъ, и4же сотвори1тъ и3зваsніе и3 сліsніе, ме1рзость
+        гDеви, дёло рyкъ худо1жника, и3 положи1тъ є5 въ сокрове1ніи. И# tвэщaвше
+        вси2 лю1діе рекyтъ: бyди."
+      sovr_rbo: "„Кто сделает изваяние, литую статую, — мерзость для Господа, творение
+        ремесленника, — и тайно установит, да будет проклят!”И пусть весь народ
+        скажет: „Да будет так!”"
+      latin: "Maledictus homo qui facit sculptile et conflatile, abominationem Domini,
+        opus manuum artificum, ponetque illud in abscondito: et respondebit
+        omnis populus, et dicet: Amen."
+      ukr: "Проклята людина, що зробить боввана різаного або литого, гидоту для
+        Господа, чин різьбарських рук, і поставить таємно! І відповість увесь
+        народ, та й скаже: амінь!"
+      nkjv: "'Cursed is the one who makes a carved or molded image, an abomination to
+        the Lord, the work of the hands of the craftsman, and sets it up in
+        secret.' And all the people shall answer and say, 'Amen!' "
+      desnitsky: ""
+      mt: ‫   אָרוּר הָאִישׁ אֲשֶׁר יַעֲשֶׂה פֶסֶל וּמַסֵּכָה תּוֹעֲבַת יְהוָה
+        מַעֲשֵׂה יְדֵי חָרָשׁ וְשָׂם בַּסָּתֶר וְעָנוּ כָל־הָעָם וְאָמְרוּ
+        אָמֵן׃ ס ‬
+      romana: "Blestemat sa fie cel ce va face idol cioplit sau turnat, lucru de mana
+        de mester si uraciune inaintea Domnului si-l va pune la loc tainic! La
+        aceasta tot poporul sa raspunda si sa zica: Amin!"
+      francais: "Maudit soit l'homme qui fait une image taillée ou une image en fonte,
+        abomination de l'Éternel, oeuvre des mains d'un artisan, et qui la place
+        dans un lieu secret! Et tout le peuple répondra, et dira: Amen!"
+      italian: "Maledetto l'uomo che fa un'immagine scolpita o di metallo fuso,
+        abominio per il Signore, lavoro di mano d'artefice, e la pone in luogo
+        occulto! Tutto il popolo risponderà e dirà: Amen."
+      old_georgian: "წყეულ იყავნ იგი კაცი, რომელმან იქმნნეს თავისა თჳსისა კერპნი
+        გამოქანდაკებულნი და გამოჭედილნი ქმნილნი ჴელთა ჴელოვნისათა და დადგნეს
+        იგინი დაფარულად, რამეთუ ბილწ არს უფლისა ღმრთისა. და ჰრქუან ყოველმან
+        ერმან: იყავნ!"
+      portuguese: "Maldito o homem que fizer imagem esculpida, ou fundida, abominação
+        ao Senhor, obra da mão do artífice, e a\rpuser em um lugar escondido. E
+        todo o povo, respondendo, dirá: Amém."
+      polish: "”Przeklęty każdy, kto wykona posąg rzeźbiony lub z lanego metalu -
+        rzecz\robrzydliwą dla Pana, robotę rąk rzemieślnika - i postawi w
+        miejscu ukrytym”.\rA w odpowiedzi cały lud powie: ”Amen”."
+      turkish: "«`RAB'bin tiksindiği el işi oyma ya da dökme put yapana ve onu gizlice
+        dikene lanet olsun!'\r«Bütün halk, `Amin!' diye karşılık verecek."
+      nrt: "«Проклят человек, который сделает изваянного или литого идола – вещь,
+        отвратительную Господу, работу рук ремесленника, и поставит его в
+        тайнике. И весь народ пусть скажет: “Аминь!”"
+      Macarius: "Проклят, кто сделает изваянный или литой кумир, мерзость пред
+        Иеговою, произведение рук художника, и ставит оный скрытно! Весь народ
+        будет отвечать и скажет: аминь."
+      serbian: "Проклет да је човјек који би начинио лик резан или ливен, ствар гадну
+        пред Господом, дјело руку умјетничких, ако би и на скривену мјесту
+        метнуо. А сав народ одговарајући нека рече: Амин."
+      bulgarian: "проклет да е, който направи издялан или излят кумир, гнусота пред
+        Господа, работа на художнически ръце, и го тури в тайно място! Целият
+        народ да се обади и каже: амин."
+      deutsch: "Verflucht sei, wer einen Götzen oder ein gegossenes Bild macht, einen
+        Greuel des Herrn, ein Werk von den Händen der Werkmeister, und stellt es
+        verborgen auf! Und alles Volk soll antworten und sagen: Amen."
+      ukr2: "Проклят чоловік, що робить якусь подобу, чи тесану, чи литу, гидоту перед
+        Господом, діло рук майстра, і ставить її у скритому місці! І ввесь народ
+        у відповідь скаже: Амінь!"
+      ukr3: "Проклят чоловік такий, що робить витїсувані чи литі постатї, гидоту перед
+        Господом, твориво майстерської руки, і ставляє потай! І ввесь нарід
+        нехай скаже: Амінь!"
+      bel_syomukha: "пракляты, хто зробіць разьбёнага альбо вылітага балвана, мярзоту
+        прад Госпадам, твор рук мастака, і паставіць яго ў патайнай мясьціне!
+        Увесь народ абвесьціць і скажа: амін."
+      lev-khv: "Проклят <i>человек</i>, который сделает изваянный или литой кумир,
+        мерзость пред Господом, произведение рук художника, и поставит скрытно.
+        И возгласит весь народ и скажет: аминь."
+      czech: '"Bud proklet muz, ktery zhotovi tesanou nebo litou sochu, ohavnost pred
+        Hospodinem, vyrobek rukou remeslnika, a ulozi ji v ukrytu." A vsechen
+        lid odpovi a rekne: "Amen."'
+      spanish: "Maldito quien haga escultura o imagen fundida, abominación a Yavé,
+        obra de artífice, y la ponga en lugar oculto. Y todo el pueblo
+        responderá: Amén."
+      greek-lxx: ἐπικατάρατος ἄνθρωπος ὅστις ποιήσει γλυπτὸν καὶ χωνευτόν βδέλυγμα
+        Κυρίῳ ἔργον χειρῶν τεχνίτου καὶ θήσει αὐτὸ ἐν ἀποκρύφῳ καὶ ἀποκριθεὶς
+        πᾶς ὁ λαὸς ἐροῦσιν γένοιτο
+      st_text: "проклят, кто сделает изваянный или литый кумир, мерзость пред
+        Господом, произведение рук художника, и поставит его в тайном месте!
+        Весь народ возгласит и скажет: аминь."
+  - id: 36435
+    number: 16
+    bookId: 5
+    text: "Проклят злословящий отца своего или матерь свою! И весь народ скажет:
+      аминь."
+    chapter: 27
+    chapterId: 180
+    parallels:
+      - verseId: 21610
+        bookId: 2
+        bookCode: ishod
+        chapter: 21
+        short: Исх:21:17
+      - verseId: 23306
+        bookId: 3
+        bookCode: levit
+        chapter: 20
+        short: Лев:20:9
+      - verseId: 29714
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 20
+        short: Притч:20:20
+    translates:
+      kassian: ""
+      podstr: "Проклят бесчестящий отца его или мать его; и скажет весь народ: Пусть
+        осуществится."
+      csya: "Проклят безчестяй отца своего или матерь свою. И рекут вси людие: буди."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Про1клzтъ безче1стzй nтцA своего2 и3ли2 мaтерь свою2. И# рекyтъ вси2
+        лю1діе: бyди."
+      sovr_rbo: "„Кто оскорбит отца или мать, да будет проклят!”И пусть весь народ
+        скажет: „Да будет так!”"
+      latin: "Maledictus qui non honorat patrem suum, et matrem: et dicet omnis
+        populus: Amen."
+      ukr: "Проклятий той, хто легковажить свого батька та свою матір! А ввесь народ
+        скаже: амінь!"
+      nkjv: "'Cursed is the one who treats his father or his mother with contempt.'
+        And all the people shall say, 'Amen!' "
+      desnitsky: ""
+      mt: ‫   אָרוּר מַקְלֶה אָבִיו וְאִמּוֹ וְאָמַר כָּל־הָעָם אָמֵן׃ ס ‬
+      romana: "Blestemat sa fie cel ce va grai de rau pe tatal sau sau pe mama sa! Si
+        tot poporul sa zica: Amin!"
+      francais: "Maudit soit celui qui méprise son père et sa mère! -Et tout le peuple
+        dira: Amen!"
+      italian: "Maledetto chi maltratta il padre e la madre! Tutto il popolo dirà:
+        Amen."
+      old_georgian: "წყეულ იყავნ, რომელმან შეურაცხყოს მამა თჳსი, გინა თუ დედაჲ. და
+        თქუას ყოველმან ერმან: იყავნ!"
+      portuguese: "Maldito aquele que desprezar a seu pai ou a sua mãe. E todo o povo
+        dirá: Amém."
+      polish: "”Przeklęty, kto gardzi swoim ojcem lub matką”. A cały lud powie:
+        ”Amen”."
+      turkish: "«`Annesine, babasına saygısızca davranana lanet olsun!'\r«Bütün halk,
+        `Amin!' diyecek."
+      nrt: "Проклят человек, который осрамит отца или мать. И весь народ пусть скажет:
+        “Аминь!”"
+      Macarius: "Проклят порицающий отца своего или матерь свою! И весь народ скажет:
+        аминь."
+      serbian: "Проклет да је који би ружио оца својега или матер своју. А сав народ
+        нека рече: Амин."
+      bulgarian: "Проклет да е, който хули баща си или майка си! И целият народ да
+        каже: амин."
+      deutsch: "Verflucht sei, wer seinen Vater oder seine Mutter unehrt! Und alles
+        Volk soll sagen: Amen."
+      ukr2: "Проклят, хто зневажає свого батька й свою матір! І ввесь народ скаже:
+        Амінь!"
+      ukr3: "Проклят чоловік такий, що безчестить батька свого і матїр свою! І ввесь
+        нарід скаже: Амінь!"
+      bel_syomukha: "Пракляты той, хто ліхасловіць бацьку свайго і маці сваю! І ўвесь
+        народ скажа: амін."
+      lev-khv: "Проклят не почитающий отца своего или матерь свою. И скажет весь
+        народ: аминь."
+      czech: '"Bud proklet, kdo zlehcuje sveho otce a svou matku." A vsechen lid
+        rekne: "Amen."'
+      spanish: "Maldito quien deshonre a su padre o a su madre; y todo el pueblo
+        responderá: Amén."
+      greek-lxx: ἐπικατάρατος ὁ ἀτιμάζων πατέρα αὐτοῦ ἢ μητέρα αὐτοῦ καὶ ἐροῦσιν πᾶς ὁ
+        λαός γένοιτο
+      st_text: "Проклят злословящий отца своего или матерь свою! И весь народ скажет:
+        аминь."
+  - id: 36436
+    number: 17
+    bookId: 5
+    text: "Проклят нарушающий межи ближнего своего! И весь народ скажет: аминь."
+    chapter: 27
+    chapterId: 180
+    parallels:
+      - verseId: 36217
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 19
+        short: Втор:19:14
+      - verseId: 28090
+        bookId: 35
+        bookCode: kniga-proroka-osii
+        chapter: 5
+        short: Ос:5:10
+    translates:
+      kassian: ""
+      podstr: "Проклят переставляющий пределы ближнего; и скажет весь народ: Пусть
+        осуществится."
+      csya: Проклят прелагаяй пределы ближняго своего. И рекут вси людие буди.
+      averincev: ""
+      ungerov: ""
+      csya_old: "Про1клzтъ прелагazй предёлы бли1жнzгw своегw2. И# рекyтъ вси2 лю1діе:
+        бyди."
+      sovr_rbo: "„Кто сдвинет межу ближнего, да будет проклят!”И пусть весь народ
+        скажет: „Да будет так!”"
+      latin: "Maledictus qui transfert terminos proximi sui: et dicet omnis populus:
+        Amen."
+      ukr: Проклятий, хто пересуває межу свого ближнього!
+      nkjv: "'Cursed is the one who moves his neighbor's landmark.' And all the people
+        shall say, 'Amen!' "
+      desnitsky: ""
+      mt: ‫   אָרוּר מַסִּיג גְּבוּל רֵעֵהוּ וְאָמַר כָּל־הָעָם אָמֵן׃ ס ‬
+      romana: "Blestemat sa fie cel ce va muta hotarul aproapelui sau! Si tot poporul
+        sa zica: Amin!"
+      francais: "Maudit soit celui qui déplace les bornes de son prochain! -Et tout le
+        peuple dira: Amen!"
+      italian: "Maledetto chi sposta i confini del suo prossimo! Tutto il popolo dirà:
+        Amen."
+      old_georgian: "წყეულ იყავნ, რომელმან დრიკოს სასჯელი მწირისაჲ, ობლისა და
+        ქურივისა, და თქუას ყოველმან ერმან: იყავნ!"
+      portuguese: "Maldito aquele que remover os marcos do seu próximo. E todo o povo
+        dirá: Amém."
+      polish: "”Przeklęty, kto przesuwa miedzę swego bliźniego”. A cały lud powie:
+        ”Amen”."
+      turkish: "«`Komşusunun sınırını değiştirene lanet olsun!'\r«Bütün halk, `Amin!'
+        diyecek."
+      nrt: "Проклят человек, который передвинет межевой камень ближнего своего. И весь
+        народ пусть скажет: “Аминь!”"
+      Macarius: "Проклят передвигающий межу ближнего своего! И весь народ скажет: аминь."
+      serbian: "Проклет да је који би помакао међу ближњега својега. А сав народ нека
+        рече: Амин."
+      bulgarian: "Проклет да е, който отместя междата на ближния си! И целият народ да
+        каже: амин."
+      deutsch: "Verflucht sei wer seines Nächsten Grenze verengert! Und alles Volk
+        soll sagen: Amen."
+      ukr2: "Проклят, хто пересуває межі (посілости) свого ближнього! І ввесь народ
+        скаже: Амінь!"
+      ukr3: "Проклят, хто пересовує межові знаки ближнього свого! І ввесь нарід скаже:
+        Амінь!"
+      bel_syomukha: "Пракляты той, хто парушае мяжу блізкага свайго! І ўвесь народ
+        скажа: амін."
+      lev-khv: "Проклят передвигающий межу ближняго своего. И скажет весь народ: аминь."
+      czech: '"Bud proklet, kdo posouva meznik sveho blizniho." A vsechen lid rekne:
+        "Amen."'
+      spanish: "Maldito quien reduzca los términos de su prójimo; y todo el pueblo
+        responderá: Amén"
+      greek-lxx: ἐπικατάρατος ὁ μετατιθεὶς ὅρια τοῦ πλησίον καὶ ἐροῦσιν πᾶς ὁ λαός γένοιτο
+      st_text: "Проклят нарушающий межи ближнего своего! И весь народ скажет: аминь."
+  - id: 36437
+    number: 18
+    bookId: 5
+    text: "Проклят, кто слепого сбивает с пути! И весь народ скажет: аминь."
+    chapter: 27
+    chapterId: 180
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "Проклят обманывающий слепого в пути; и скажет весь народ: Пусть
+        осуществится."
+      csya: "Проклят прельщаяй слепаго в пути. И рекут вси людие: буди."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Про1клzтъ прельщazй слэпaго въ пути2. И# рекyтъ вси2 лю1діе: бyди."
+      sovr_rbo: "„Кто поведет слепого по неверной дороге, да будет проклят!”И пусть
+        весь народ скажет: „Да будет так!”"
+      latin: "Maledictus qui errare facit caecum in itinere: et dicet omnis populus:
+        Amen."
+      ukr: "Проклятий, хто робить блудячим сліпого в дорозі! А ввесь народ скаже:
+        амінь!"
+      nkjv: "'Cursed is the one who makes the blind to wander off the road.' And all
+        the people shall say, 'Amen!' "
+      desnitsky: ""
+      mt: ‫   אָרוּר מַשְׁגֶּה עִוֵּר בַּדָּרֶךְ וְאָמַר כָּל־הָעָם אָמֵן׃ ס ‬
+      romana: "Blestemat sa fie cel ce va abate pe orb din drum! Si tot poporul sa
+        zica: Amin!"
+      francais: "Maudit soit celui qui fait égarer un aveugle dans le chemin! Et tout
+        le peuple dira: Amen!"
+      italian: "Maledetto chi fa smarrire il cammino al cieco! Tutto il popolo dirà:
+        Amen."
+      old_georgian: "წყეულ იყავნ, რომელმან ცვალნეს საზღვარნი მოყუსისა თჳსისანი. და
+        თქუას ყოველმან ერმან: იყავნ!"
+      portuguese: "Maldito aquele que fizer que o cego erre do caminho. E todo o povo
+        dirá: Amém."
+      polish: "”Przeklęty, kto sprawia, że niewidomy błądzi na drodze”. A cały lud
+        powie:\r”Amen”."
+      turkish: "«`Kör olanı yoldan saptırana lanet olsun!'\r«Bütün halk, `Amin!'
+        diyecek."
+      nrt: "Проклят человек, который собьет слепого с пути. И весь народ пусть скажет:
+        “Аминь!”"
+      Macarius: "Проклят, кто слепого сбивает с пути! И весь народ скажет: аминь."
+      serbian: "Проклет да је који би завео слијепца с пута. А сав народ нека рече:
+        Амин."
+      bulgarian: "Проклет да е, който отбива слепия от пътя! И целият народ да каже:
+        амин."
+      deutsch: "Verflucht sei, wer einen Blinden irren macht auf dem Wege! Und alles
+        Volk soll sagen: Amen."
+      ukr2: "Проклят, хто зводить сліпого з дороги! І ввесь народ скаже: Амінь!"
+      ukr3: "Проклят, хто зведе сьлїпого з дороги! І ввесь нарід скаже: Амінь."
+      bel_syomukha: "Пракляты, хто сьляпога зьбівае з дарогі! І ўвесь народ скажа: амін."
+      lev-khv: "Проклят, кто слепаго сбивает с пути. И скажет весь народ: аминь."
+      czech: '"Bud proklet, kdo svadi slepce z cesty." A vsechen lid rekne: "Amen."'
+      spanish: "Maldito quien lleve al ciego fuera de su camino; y todo el pueblo
+        responderá: Amén."
+      greek-lxx: ἐπικατάρατος ὁ πλανῶν τυφλὸν ἐν ὁδῷ καὶ ἐροῦσιν πᾶς ὁ λαός γένοιτο
+      st_text: "Проклят, кто слепого сбивает с пути! И весь народ скажет: аминь."
+  - id: 36438
+    number: 19
+    bookId: 5
+    text: "Проклят, кто превратно судит пришельца, сироту и вдову! И весь народ
+      скажет: аминь."
+    chapter: 27
+    chapterId: 180
+    parallels:
+      - verseId: 21650
+        bookId: 2
+        bookCode: ishod
+        chapter: 22
+        short: Исх:22:21
+      - verseId: 23277
+        bookId: 3
+        bookCode: levit
+        chapter: 19
+        short: Лев:19:33
+      - verseId: 23278
+        bookId: 3
+        bookCode: levit
+        chapter: 19
+        short: Лев:19:34
+      - verseId: 34159
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 35
+        short: Сир:35:15
+      - verseId: 16353
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 5
+        short: Иер:5:28
+      - verseId: 9456
+        bookId: 37
+        bookCode: kniga-proroka-amosa
+        chapter: 2
+        short: Ам:2:6
+    translates:
+      kassian: ""
+      podstr: "Проклят который уклоняет суд пришельца и сироты и вдовы; и скажет весь
+        народ: Пусть осуществится."
+      csya: "Проклят, иже уклонит суд пришельцу и сироте и вдове. И рекут вси людие:
+        буди."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Про1клzтъ, и4же ўклони1тъ сyдъ прише1льцу и3 сиротЁ и3 вдовЁ. И#
+        рекyтъ вси2 лю1діе: бyди."
+      sovr_rbo: "„Кто попирает права переселенца, сироты и вдовы, да будет проклят!”И
+        пусть весь народ скажет: „Да будет так!”"
+      latin: "Maledictus qui pervertit judicium advenae, pupilli et viduae: et dicet
+        omnis populus: Amen."
+      ukr: "Проклятий, хто перекручує право приходька, сироти та вдови! А ввесь народ
+        скаже: амінь!"
+      nkjv: "'Cursed is the one who perverts the justice due the stranger, the
+        fatherless, and widow.' And all the people shall say, 'Amen!' "
+      desnitsky: ""
+      mt: ‫   אָרוּר מַטֶּה מִשְׁפַּט גֵּר־יָתוֹם וְאַלְמָנָה וְאָמַר כָּל־הָעָם
+        אָמֵן׃ ס ‬
+      romana: "Blestemat sa fie cel ce va judeca stramb pe strain, pe orfan si pe
+        vaduva! Si tot poporul sa zica: Amin!"
+      francais: "Maudit soit celui qui porte atteinte au droit de l'étranger, de
+        l'orphelin et de la veuve! -Et tout le peuple dira: Amen!"
+      italian: "Maledetto chi lede il diritto del forestiero, dell'orfano e della
+        vedova! Tutto il popolo dirà: Amen."
+      old_georgian: "წყეულ იყავნ რომელმან აცთუნოს ბრმაჲ გზასა. და ჰრქუას ყოველმან
+        ერმან: იყავნ!"
+      portuguese: "Maldito aquele que perverter o direito do estrangeiro, do órfão e
+        da viúva. E todo o povo dirá: Amém,"
+      polish: "”Przeklęty, kto łamie prawo obcokrajowca, sieroty i wdowy”. A cały lud
+        powie: ”Amen”."
+      turkish: «`Yabancıya, öksüze, dul kadına haksızlık edene lanet olsun!' «Bütün
+        halk, `Amin!' diyecek.
+      nrt: "Проклят человек, который откажет в правосудии чужеземцу, сироте или вдове.
+        И весь народ пусть скажет: “Аминь!”"
+      Macarius: "Проклят, кто превратно судит пришельца, сироту и вдову! И весь народ
+        скажет: аминь."
+      serbian: "Проклет да је који би изврнуо правицу дошљаку, сироти или удовици. А
+        сав народ нека рече: Амин."
+      bulgarian: "Проклет да е, който криво съди пришълец, сираче и вдовица! И целият
+        народ да каже: амин."
+      deutsch: "Verflucht sei, wer das Recht des Fremdlings, des Waisen und der Witwe
+        beugt! Und alles Volk soll sagen: Amen."
+      ukr2: "Проклят, хто кривосудить приходня, сироту й вдову! І ввесь народ скаже:
+        Амінь!"
+      ukr3: "Проклят, хто перекручує суд приходневі, сиротї і вдові! І ввесь нарід
+        скаже: Амінь!"
+      bel_syomukha: "Пракляты, хто крыва судзіць прыхадня, сірату і ўдаву! І ўвесь
+        народ скажа: амін."
+      lev-khv: "Проклят, кто превратно судит пришельца, сироту и вдову. И скажет весь
+        народ: аминь."
+      czech: '"Bud proklet, kdo prevraci pravo bezdomovce, sirotka a vdovy." A vsechen
+        lid rekne: "Amen."'
+      spanish: "Maldito quien haga entuerto al extranjero, al huérfano y a la viuda; y
+        todo el pueblo responderá: Amén."
+      greek-lxx: ἐπικατάρατος ὃς ἂν ἐκκλίνῃ κρίσιν προσηλύτου καὶ ὀρφανοῦ καὶ χήρας
+        καὶ ἐροῦσιν πᾶς ὁ λαός γένοιτο
+      st_text: "Проклят, кто превратно судит пришельца, сироту и вдову! И весь народ
+        скажет: аминь."
+  - id: 36439
+    number: 20
+    bookId: 5
+    text: "Проклят, кто ляжет с женою отца своего, ибо он открыл край <i>одежды</i>
+      отца своего! И весь народ скажет: аминь."
+    chapter: 27
+    chapterId: 180
+    parallels:
+      - verseId: 23222
+        bookId: 3
+        bookCode: levit
+        chapter: 18
+        short: Лев:18:8
+      - verseId: 23308
+        bookId: 3
+        bookCode: levit
+        chapter: 20
+        short: Лев:20:11
+      - verseId: 17003
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 22
+        short: Иез:22:10
+    translates:
+      kassian: ""
+      podstr: "Проклят спящий с женой отца его, потому что открыл край одежды отца
+        его; и скажет весь народ: Пусть осуществится."
+      csya: "Проклят лежай с женою отца своего, яко открыл есть покровение отца
+        своего. И рекут вси людие: буди."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Про1клzтъ лежaй съ жено1ю nтцA своегw2, ћкw tкры1лъ є4сть покрове1ніе
+        nтцA своегw2. И# рекyтъ вси2 лю1діе: бyди."
+      sovr_rbo: "„Кто ляжет с женой отца — поднимет край одежды отца — да будет
+        проклят!”И пусть весь народ скажет: „Да будет так!”"
+      latin: "Maledictus qui dormit cum uxore patris sui, et revelat operimentum
+        lectuli ejus: et dicet omnis populus: Amen."
+      ukr: "Проклятий, хто лягає з жінкою батька свого, бо відкрив він подолка одежі
+        свого батька! А ввесь народ скаже: амінь!"
+      nkjv: "'Cursed is the one who lies with his father's wife, because he has
+        uncovered his father's bed.' And all the people shall say, 'Amen!' "
+      desnitsky: ""
+      mt: ‫   אָרוּר שֹׁכֵב עִם־אֵשֶׁת אָבִיו כִּי גִלָּה כְּנַף אָבִיו וְאָמַר
+        כָּל־הָעָם אָמֵן׃ ס ‬
+      romana: "Blestemat sa fie cel ce se va culca cu femeia tatalui sau, ca a ridicat
+        poala hainei tatalui sau! Si tot poporul sa zica: Amin!"
+      francais: "Maudit soit celui qui couche avec la femme de son père, car il
+        soulève la couverture de son père! -Et tout le peuple dira: Amen!"
+      italian: "Maledetto chi si unisce con la moglie del padre, perché solleva il
+        lembo del mantello del padre! Tutto il popolo dirà: Amen."
+      old_georgian: "წყეულ იყავნ, რომელი დაწვეს მამის ცოლისა თანა, რამეთუ განაცხადა
+        საიდუმლოჲ იგი მამისა თჳსისა. და თქუას ყოველმან ერმან: იყავნ!"
+      portuguese: "Maldito aquele que se deitar com a mulher de seu pai, porquanto
+        levantou a cobertura de seu pai. E todo o povo\rdirá: Amém."
+      polish: "”Przeklęty, kto obcuje cieleśnie z żoną swego ojca, gdyż odkrywa brzeg
+        płaszcza swojego ojca”. A cały lud powie: ”Amen”."
+      turkish: "«`Babasının karısıyla yatana lanet olsun! Çünkü o babasının evlilik
+        yatağına leke sürmüştür.'\r«Bütün halk, `Amin!' diyecek."
+      nrt: "Проклят человек, который переспит с женой своего отца, потому что он
+        позорит постель своего отца. И весь народ пусть скажет: “Аминь!”"
+      Macarius: "Проклят, кто лежит с женою отца своего, поелику он открыл край одежды
+        отца своего! И весь народ скажет: аминь."
+      serbian: "Проклет да је који би облежао жену оца својега, те открио скут оца
+        својега. А сав народ нека рече: Амин."
+      bulgarian: "Проклет да е, който легне с жената на баща си, защото той е открил
+        края на бащината си завивка! И целият народ да каже: амин."
+      deutsch: "Verflucht sei, wer bei seines Vaters Weibe liegt, daß er aufdecke die
+        Decke seines Vaters! und alles Volk soll sagen: Amen."
+      ukr2: "Проклят, хто згрішить із жінкою свого батька, відкриє полу батькового
+        плаща! І ввесь народ скаже: Амінь!"
+      ukr3: "Проклят, хто зляжеться з жінкою батька свого, бо відхилив він батькове
+        одїяло! І ввесь нарід скаже: Амінь!"
+      bel_syomukha: "Пракляты, хто ляжа з жонкаю бацькі свайго, бо ён адкрыў край
+        вопраткі бацькі свайго! І ўвесь народ скажа: амін."
+      lev-khv: "Проклят, кто ляжет с женою отца своего, потому что он открыл край
+        <i>одежды</i> отца своего. И скажет весь народ: аминь."
+      czech: '"Bud proklet, kdo obcuje se zenou sveho otce, nebot odkryl cip plaste
+        sveho otce." A vsechen lid rekne: "Amen."'
+      spanish: "Maldito quien yace con la mujer de su padre, para alzar la cubierta
+        del lecho de su padre; y todo el pueblo responderá: Amén."
+      greek-lxx: ἐπικατάρατος ὁ κοιμώμενος μετὰ γυναικὸς τοῦ πατρὸς αὐτοῦ ὅτι
+        ἀπεκάλυψεν συγκάλυμμα τοῦ πατρὸς αὐτοῦ καὶ ἐροῦσιν πᾶς ὁ λαός γένοιτο
+      st_text: "Проклят, кто ляжет с женою отца своего, ибо он открыл край
+        <i>одежды</i> отца своего! И весь народ скажет: аминь."
+  - id: 36440
+    number: 21
+    bookId: 5
+    text: "Проклят, кто ляжет с каким-либо скотом! И весь народ скажет: аминь."
+    chapter: 27
+    chapterId: 180
+    parallels:
+      - verseId: 21648
+        bookId: 2
+        bookCode: ishod
+        chapter: 22
+        short: Исх:22:19
+      - verseId: 23237
+        bookId: 3
+        bookCode: levit
+        chapter: 18
+        short: Лев:18:23
+    translates:
+      kassian: ""
+      podstr: "Проклят спящий со всяким скотом; и скажет весь народ: Пусть
+        осуществится."
+      csya: "Проклят лежай со всяким скотом. И рекут вси людие: буди."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Про1клzтъ лежaй со всsкимъ ското1мъ. И# рекyтъ вси2 лю1діе: бyди."
+      sovr_rbo: "„Кто ляжет с каким-либо животным, да будет проклят!”И пусть весь
+        народ скажет: „Да будет так!”"
+      latin: "Maledictus qui dormit cum omni jumento: et dicet omnis populus: Amen."
+      ukr: "Проклятий, хто лягає з усяким скотом! А ввесь народ скаже: амінь!"
+      nkjv: "'Cursed is the one who lies with any kind of animal.' And all the people
+        shall say, 'Amen!' "
+      desnitsky: ""
+      mt: ‫   אָרוּר שֹׁכֵב עִם־כָּל־בְּהֵמָה וְאָמַר כָּל־הָעָם אָמֵן׃ ס ‬
+      romana: "Blestemat sa fie cel ce se va culca cu vreun dobitoc! Si tot poporul sa
+        zica: Amin!"
+      francais: "Maudit soit celui qui couche avec une bête quelconque! -Et tout le
+        peuple dira: Amen!"
+      italian: "Maledetto chi si unisce con qualsiasi bestia! Tutto il popolo dirà:
+        Amen."
+      old_georgian: "წყეულ იყავნ, რომელი შეიბილწოს ყოვლისა საცხოვრისა თანა. და თქუას
+        ყოველმან ერმან: იყაჱნ!"
+      portuguese: "Maldito aquele que se deitar com algum animal. E todo o povo dirá:
+        Amem."
+      polish: "”Przeklęty, kto obcuje cieleśnie z jakimkolwiek zwierzęciem”. A cały
+        lud powie: ”Amen”."
+      turkish: «`Herhangi bir hayvanla cinsel ilişki kurana lanet olsun!' «Bütün halk,
+        `Amin!' diyecek.
+      nrt: "Проклят человек, который совокупится с животным. И весь народ пусть
+        скажет: “Аминь!”"
+      Macarius: "Проклят, кто ляжет с каким-либо скотом! И весь народ скажет: аминь."
+      serbian: "Проклет да је који би облежао какво год живинче. А сав народ нека
+        рече: Амин."
+      bulgarian: "Проклет да е, който легне с какъв и да било добитък! И целият народ
+        да каже: амин."
+      deutsch: "Verflucht sei wer irgend bei einem Vieh liegt! Und alles Volk soll
+        sagen: Amen."
+      ukr2: "Проклят, хто зійдеться з якою скотиною! І ввесь народ скаже: Амінь!"
+      ukr3: "Проклят, хто зляжеться з якою скотиною! І ввесь нарід скаже: Амінь!"
+      bel_syomukha: "Пракляты, хто ляжа зь якім-небудзь быдлам! І ўвесь народ скажа: амін."
+      lev-khv: "Проклят, кто ляжет с каким либо скотом. И скажет весь народ: аминь."
+      czech: '"Bud proklet, kdo obcuje s nejakym zviretem." A vsechen lid rekne:
+        "Amen."'
+      spanish: "Maldito quien tuviere parte con una bestia cualquiera; y todo el
+        pueblo responderá: Amén."
+      greek-lxx: ἐπικατάρατος ὁ κοιμώμενος μετὰ παντὸς κτήνους καὶ ἐροῦσιν πᾶς ὁ λαός
+        γένοιτο
+      st_text: "Проклят, кто ляжет с каким-либо скотом! И весь народ скажет: аминь."
+  - id: 36441
+    number: 22
+    bookId: 5
+    text: "Проклят, кто ляжет с сестрою своею, с дочерью отца своего, или дочерью
+      матери своей! И весь народ скажет: аминь."
+    chapter: 27
+    chapterId: 180
+    parallels:
+      - verseId: 23223
+        bookId: 3
+        bookCode: levit
+        chapter: 18
+        short: Лев:18:9
+    translates:
+      kassian: ""
+      podstr: "Проклят спящий с сестрой со стороны отца или со стороны матери его; и
+        скажет весь народ: Пусть осуществится."
+      csya: "Проклят лежай с сестрою своею, дщерию отца своего или дщерию матере своея
+        и рекут вси людие: буди."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Про1клzтъ лежaй съ сестро1ю свое1ю, дще1рію nтцA своегw2 и3ли2
+        дще1рію мaтере своеS. И# рекyтъ вси2 лю1діе: бyди."
+      sovr_rbo: "„Кто ляжет с сестрой, дочерью своего отца или своей матери, да будет
+        проклят!”И пусть весь народ скажет: „Да будет так!”"
+      latin: "Maledictus qui dormit cum sorore sua, filia patris sui, vel matris suae:
+        et dicet omnis populus: Amen."
+      ukr: "Проклятий, хто лягає з сестрою своєю, дочкою свого батька або з дочкою
+        своєї матері! А ввесь народ скаже: амінь!"
+      nkjv: "'Cursed is the one who lies with his sister, the daughter of his father
+        or the daughter of his mother.' And all the people shall say, 'Amen!' "
+      desnitsky: ""
+      mt: ‫   אָרוּר שֹׁכֵב עִם־אֲחֹתוֹ בַּת־אָבִיו אוֹ בַת־אִמּוֹ וְאָמַר כָּל־הָעָם
+        אָמֵן׃ ס ‬
+      romana: "Blestemat sa fie cel ce se va culca cu sora sa, fiica tatalui sau, sau
+        fiica mamei sale! Si tot poporul sa zica: Amin!"
+      francais: "Maudit soit celui qui couche avec sa soeur, fille de son père ou
+        fille de sa mère! -Et tout le peuple dira: Amen!"
+      italian: "Maledetto chi si unisce con la propria sorella, figlia di suo padre o
+        figlia di sua madre! Tutto il popolo dirà: Amen."
+      old_georgian: "წყეულ იყავნ, რომელი დაწვეს დისა თანა მამითისა, გინა თუ დედითისა.
+        და თქუას ყოველმან ერმან: იყავნ!"
+      portuguese: "Maldito aquele que se deitar com sua irmã, filha de seu pai, ou
+        filha de sua mãe. E todo o povo dirá: Amém."
+      polish: "”Przeklęty, kto obcuje cieleśnie ze swoją siostrą, córką ojca swego
+        albo córką\rswojej matki”. A cały lud powie: ”Amen”."
+      turkish: "«`Annesinden ya da babasından olan kızkardeşiyle yatana lanet
+        olsun!'\r«Bütün halk, `Amin!' diyecek."
+      nrt: "Проклят человек, который ляжет со своей сестрой, дочерью своего отца или
+        своей матери. И весь народ пусть скажет: “Аминь!”"
+      Macarius: "Проклят, кто ляжет с сестрою своею, с дочерью отца своего, или
+        дочерью матери своей! И весь народ скажет: аминь."
+      serbian: "Проклет да је који би облежао сестру своју, кћер оца својега или кћер
+        матере своје. А сав народ нека рече: Амин."
+      bulgarian: "Проклет да е, който легне със сестра си, с бащина си дъщеря, или с
+        майчина си дъщеря! И целият народ да каже: амин."
+      deutsch: "Verflucht sei, wer bei seiner Schwester liegt, die seines Vaters oder
+        seiner Mutter Tochter ist! Und alles Volk soll sagen: Amen."
+      ukr2: "Проклят, хто згрішить із сестрою, з дочкою свого батька або з дочкою
+        своєї матері! І ввесь народ скаже: Амінь!"
+      ukr3: "Проклят, хто зляжеться з сестрою, з дочкою батька свого, або з дочкою
+        матері своєї! І ввесь нарід скаже: Амінь!"
+      bel_syomukha: "Пракляты, хто ляжа зь сястрою сваёю, з дачкою бацькі свайго,
+        альбо з дачкою маці сваёй! І ўвесь народ скажа: амін."
+      lev-khv: "Проклят, кто ляжет с сестрою своею, с дочерью отца своего, или дочерью
+        матери своей. И скажет весь народ: аминь."
+      czech: '"Bud proklet, kdo obcuje se svou sestrou, dcerou sveho otce nebo dcerou
+        sve matky." A vsechen lid rekne: "Amen."'
+      spanish: "Maldito quien yace con su hermana, hija de su padre o de su madre; y
+        todo el pueblo responderá: Amén."
+      greek-lxx: ἐπικατάρατος ὁ κοιμώμενος μετὰ ἀδελφῆς ἐκ πατρὸς ἢ ἐκ μητρὸς αὐτοῦ
+        καὶ ἐροῦσιν πᾶς ὁ λαός γένοιτο
+      st_text: "Проклят, кто ляжет с сестрою своею, с дочерью отца своего, или дочерью
+        матери своей! И весь народ скажет: аминь."
+  - id: 36442
+    number: 23
+    bookId: 5
+    text: "Проклят, кто ляжет с тещею своею! И весь народ скажет: аминь. [Проклят,
+      кто ляжет с сестрою жены своей! И весь народ скажет: аминь.]"
+    chapter: 27
+    chapterId: 180
+    parallels:
+      - verseId: 10641
+        bookId: 1
+        bookCode: bytie
+        chapter: 38
+        short: Быт:38:18
+      - verseId: 23229
+        bookId: 3
+        bookCode: levit
+        chapter: 18
+        short: Лев:18:15
+    translates:
+      kassian: ""
+      podstr: "Проклят спящий со тёщей его; и скажет весь народ: Пусть осуществится.
+        Проклят спящий с сестрой жены его; и скажет весь народ: Пусть
+        осуществится."
+      csya: "Проклят лежай с тещею своею. И рекут вси людие: буди. Проклят лежай с
+        сестрою жены своея. И рекут вси людие: буди."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Про1клzтъ лежaй съ те1щею свое1ю. И# рекyтъ вси2 лю1діе: бyди.
+        Про1клzтъ лежaй съ сестро1ю жены2 своеS. И# рекyтъ вси2 лю1діе: бyди."
+      sovr_rbo: "„Кто ляжет с тещей, да будет проклят!”И пусть весь народ скажет: „Да
+        будет так!”"
+      latin: "Maledictus qui dormit cum socru sua: et dicet omnis populus: Amen."
+      ukr: "Проклятий, хто лягає з тещею своєю! А ввесь народ скаже: амінь!"
+      nkjv: "'Cursed is the one who lies with his mother-in-law.' And all the people
+        shall say, 'Amen!' "
+      desnitsky: ""
+      mt: ‫   אָרוּר שֹׁכֵב עִם־חֹתַנְתּוֹ וְאָמַר כָּל־הָעָם אָמֵן׃ ס ‬
+      romana: "Blestemat sa fie cel ce se va culca cu soacra sa! Si tot poporul sa
+        zica: Amin! Blestemat sa fie cel ce se va culca cu sora femeii sale! si
+        tot poporul sa zica: Amin!"
+      francais: "Maudit soit celui qui couche avec sa belle-mère! -Et tout le peuple
+        dira: Amen!"
+      italian: "Maledetto chi si unisce con la suocera! Tutto il popolo dirà: Amen."
+      old_georgian: "წყეულ იყავნ, რომელი დაწვეს სიდედრისა თანა. და თქუას ყოველმან
+        ერმან: იყავნ! წყეულ იყავნ, რომელი დაწვეს მამისა დისა თანა, გინა თუ დედის
+        დისა თანა. და თქუას ყოველმან ერმან: იყავნ!"
+      portuguese: "Maldito aquele que se deitar com sua sogra. E todo o povo dirá: Amém."
+      polish: "”Przeklęty, kto obcuje tak ze swoją teściową”. A cały lud powie:
+        ”Amen”."
+      turkish: «`Kaynanasıyla yatana lanet olsun!' «Bütün halk, `Amin!' diyecek.
+      nrt: "Проклят человек, который переспит со своей тещей. И весь народ пусть
+        скажет: “Аминь!”"
+      Macarius: "Проклят, кто ляжет с тещею своею! И весь народ скажет: аминь.
+        [Проклят, кто ляжет с сестрою жены своей! И весь народ скажет: аминь.]"
+      serbian: "Проклет да је који би облежао ташту своју. А сав народ нека рече: Амин."
+      bulgarian: "Проклет да е, който легне с тъща си! И целият народ да каже: амин.
+        (Проклет да е, който легне със сестрата на жена си! И целият народ да
+        каже: амин.)"
+      deutsch: "Verflucht sei, wer bei seiner Schwiegermutter liegt! Und alles Volk
+        soll sagen: Amen."
+      ukr2: "Проклят, хто згрішить із своєю тещею! І ввесь народ скаже: Амінь!"
+      ukr3: "Проклят, хто зляжеться з тещею своєю! І ввесь нарід скаже: Амінь!"
+      bel_syomukha: "Пракляты, хто ляжа зь цешчаю сваёю! І ўвесь народ скажа: амін."
+      lev-khv: "Проклят, кто ляжет с тещею своею. И скажет весь народ: аминь."
+      czech: '"Bud proklet, kdo obcuje se svou tchyni." A vsechen lid rekne: "Amen."'
+      spanish: "Maldito quien yace con su suegra; y todo el pueblo responderá: Amén."
+      greek-lxx: ἐπικατάρατος ὁ κοιμώμενος μετὰ πενθερᾶς αὐτοῦ καὶ ἐροῦσιν πᾶς ὁ λαός
+        γένοιτο ἐπικατάρατος ὁ κοιμώμενος μετὰ ἀδελφῆς γυναικὸς αὐτοῦ καὶ
+        ἐροῦσιν πᾶς ὁ λαός γένοιτο
+      st_text: "Проклят, кто ляжет с тещею своею! И весь народ скажет: аминь.
+        [Проклят, кто ляжет с сестрою жены своей! И весь народ скажет: аминь.]"
+  - id: 36443
+    number: 24
+    bookId: 5
+    text: "Проклят, кто тайно убивает ближнего своего! И весь народ скажет: аминь."
+    chapter: 27
+    chapterId: 180
+    parallels:
+      - verseId: 11168
+        bookId: 1
+        bookCode: bytie
+        chapter: 9
+        short: Быт:9:6
+      - verseId: 21605
+        bookId: 2
+        bookCode: ishod
+        chapter: 21
+        short: Исх:21:12
+      - verseId: 23442
+        bookId: 3
+        bookCode: levit
+        chapter: 24
+        short: Лев:24:17
+    translates:
+      kassian: ""
+      podstr: "Проклят ранящий ближнего его хитростью; и скажет весь народ: Пусть
+        осуществится."
+      csya: "Проклят бияй ближняго с лестию. И рекут вси людие: буди."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Про1клzтъ біsй бли1жнzго съ ле1стію. И# рекyтъ вси2 лю1діе: бyди."
+      sovr_rbo: "„Кто тайно убьет ближнего, да будет проклят!”И пусть весь народ
+        скажет: „Да будет так!”"
+      latin: "Maledictus qui clam percusserit proximum suum: et dicet omnis populus:
+        Amen."
+      ukr: "Проклятий, хто вбиває свого ближнього потаємно! А ввесь народ скаже:
+        амінь!"
+      nkjv: "'Cursed is the one who attacks his neighbor secretly.' And all the people
+        shall say, 'Amen!' "
+      desnitsky: ""
+      mt: ‫   אָרוּר מַכֵּה רֵעֵהוּ בַּסָּתֶר וְאָמַר כָּל־הָעָם אָמֵן׃ ס ‬
+      romana: "Blestemat sa fie cel ce va ucide in ascuns pe aproapele sau! Si tot
+        poporul sa zica: Amin!"
+      francais: "Maudit soit celui qui frappe son prochain en secret! -Et tout le
+        peuple dira: Amen!"
+      italian: "Maledetto chi uccide il suo prossimo in segreto! Tutto il popolo dirà:
+        Amen."
+      old_georgian: "წყეულ იყავნ, რომელმან გუემოს მოყუასი თჳსი ზაკვით. და თქუას
+        ყოველმან ერმან: იყავნ!"
+      portuguese: "Maldito aquele que ferir ao seu próximo em oculto. E todo o povo
+        dirá: Amém."
+      polish: "”Przeklęty, kto w ukryciu wymierzy cios [śmiertelny] bliźniemu”. A cały
+        lud\rpowie: ”Amen”."
+      turkish: «`Komşusunu gizlice öldürene lanet olsun!' «Bütün halk, `Amin!' diyecek.
+      nrt: "Проклят человек, который тайно убьет другого. И весь народ пусть скажет:
+        “Аминь!”"
+      Macarius: "Проклят, кто тайно убивает ближнего своего! И весь народ скажет: аминь."
+      serbian: "Проклет да је који би убио ближњега својега из потаје. А сав народ
+        нека рече: Амин."
+      bulgarian: "Проклет да е, който убива тайно ближния си! И целият народ да каже:
+        амин."
+      deutsch: "Verflucht sei, wer seinen Nächsten heimlich erschlägt! Und alles Volk
+        soll sagen: Amen."
+      ukr2: "Проклят, хто тайкома вб'є свого ближнього! І ввесь народ скаже: Амінь!"
+      ukr3: "Проклят, хто тайкома вбє свого ближнього! І ввесь нарід скаже: Амінь!"
+      bel_syomukha: "Пракляты, хто таемна забівае блізкага свайго! І ўвесь народ
+        скажа: амін."
+      lev-khv: "Проклят, кто тайно убивает ближняго своего. И скажет весь народ: аминь."
+      czech: '"Bud proklet, kdo tajne ubije sveho blizniho." A vsechen lid rekne:
+        "Amen."'
+      spanish: "Maldito quien ocultamente hiere a su prójimo; y todo el pueblo
+        responderá: Amén."
+      greek-lxx: ἐπικατάρατος ὁ τύπτων τὸν πλησίον αὐτοῦ δόλῳ καὶ ἐροῦσιν πᾶς ὁ λαός
+        γένοιτο
+      st_text: "Проклят, кто тайно убивает ближнего своего! И весь народ скажет: аминь."
+  - id: 36444
+    number: 25
+    bookId: 5
+    text: "Проклят, кто берет подкуп, чтоб убить душу <i>и пролить</i> кровь
+      невинную! И весь народ скажет: аминь."
+    chapter: 27
+    chapterId: 180
+    parallels:
+      - verseId: 21668
+        bookId: 2
+        bookCode: ishod
+        chapter: 23
+        short: Исх:23:8
+    translates:
+      kassian: ""
+      podstr: "Проклят который взял дары поразить душу [в] крови невинную; и скажет
+        весь народ: Пусть осуществится."
+      csya: "Проклят, иже возмет дары поразити душу крове неповинныя. И рекут вси
+        людие: буди."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Про1клzтъ, и4же во1зметъ дaры порази1ти дyшу кро1ве непови1нныz. И#
+        рекyтъ вси2 лю1діе: бyди."
+      sovr_rbo: "„Кто возьмет мзду за убийство, за пролитие невинной крови, да будет
+        проклят!”И пусть весь народ скажет: „Да будет так!”"
+      latin: "Maledictus qui accipit munera, ut percutiat animam sanguinis innocentis:
+        et dicet omnis populus: Amen."
+      ukr: "Проклятий, хто бере підкупа, щоб забити кого, пролляти кров неповинну! А
+        ввесь народ скаже: амінь!"
+      nkjv: "'Cursed is the one who takes a bribe to slay an innocent person.' And all
+        the people shall say, 'Amen!' "
+      desnitsky: ""
+      mt: ‫   אָרוּר לֹקֵחַ שֹׁחַד לְהַכּוֹת נֶפֶשׁ דָּם נָקִי וְאָמַר כָּל־הָעָם
+        אָמֵן׃ ס ‬
+      romana: "Blestemat sa fie cel ce va lua mita, ca sa ucida suflet si sa verse
+        sange nevinovat! Si tot poporul sa zica: Amin!"
+      francais: "Maudit soit celui qui reçoit un présent pour répandre le sang de
+        l'innocent! -Et tout le peuple dira: Amen!"
+      italian: "Maledetto chi accetta un regalo per condannare a morte un innocente!
+        Tutto il popolo dirà: Amen."
+      old_georgian: "წყვულ იყავნ, რომელმან მოიღოს ქრთამი მოკლვად სულისა მართლისა და
+        თქუას ყოველმან ერმან: იყავნ!"
+      portuguese: "Maldito aquele que receber peita para matar uma pessoa inocente. E
+        todo o povo dirá: Amém."
+      polish: "”Przeklęty, kto bierze podarunek, by rozlać krew niewinnego”. A cały
+        lud\rpowie: ”Amen”."
+      turkish: «`Suçsuz birini öldürmek için rüşvet alana lanet olsun!' «Bütün halk,
+        `Amin!' diyecek.
+      nrt: "Проклят человек, который берет взятку, чтобы убить невиновного. И весь
+        народ пусть скажет: “Аминь!”"
+      Macarius: "Проклят, кто берет дары с тем, чтобы убить душу, и пролить кровь
+        невинную! И весь народ скажет: аминь."
+      serbian: "Проклет да је који би примио какав поклон да убије човјека права. А
+        сав народ нека рече: Амин."
+      bulgarian: "Проклет да е, който взема подкуп, за да погуби душа и да пролее кръв
+        невинна! И целият народ да каже: амин."
+      deutsch: "Verflucht sei, wer Geschenke nimmt, daß er unschuldiges Blut vergießt!
+        Und alles Volk soll sagen: Amen."
+      ukr2: "Проклят, хто бере дарунок (підкуп), щоб погубити душу безвинну! І ввесь
+        народ скаже: Амінь!"
+      ukr3: "Пpanоклят, хто бере підкуп, щоб вбити кого, щоб безвинну кров пролити! І
+        ввесь нарід скаже: Амінь!"
+      bel_syomukha: "Пракляты, хто бярэ хабар, каб забіць душу і праліць кроў
+        нявінную! І ўвесь народ скажа: амін."
+      lev-khv: "Проклят, кто берет подкуп, чтобы убить душу, <i>пролить</i> кровь
+        невинную. И скажет весь народ: аминь."
+      czech: '"Bud proklet, kdo vezme uplatek, aby ubil cloveka a prolil nevinnou
+        krev." A vsechen lid rekne: "Amen."'
+      spanish: "Maldito quien reciba dones para herir de muerte una vida, sangre
+        inocente; y todo el pueblo responderá: Amén."
+      greek-lxx: ἐπικατάρατος ὃς ἂν λάβῃ δῶρα πατάξαι ψυχὴν αἵματος ἀθῴου καὶ ἐροῦσιν
+        πᾶς ὁ λαός γένοιτο
+      st_text: "Проклят, кто берет подкуп, чтоб убить душу <i>и пролить</i> кровь
+        невинную! И весь народ скажет: аминь."
+  - id: 36445
+    number: 26
+    bookId: 5
+    text: "Проклят [всякий человек], кто не исполнит [всех] слов закона сего и не
+      будет поступать по ним! И весь народ скажет: аминь."
+    chapter: 27
+    chapterId: 180
+    parallels:
+      - verseId: 15295
+        bookId: 29
+        bookCode: kniga-proroka-ieremii
+        chapter: 11
+        short: Иер:11:3
+      - verseId: 15046
+        bookId: 66
+        bookCode: k-galatam-poslanie-ap-pavla
+        chapter: 3
+        short: Гал:3:10
+    translates:
+      kassian: ""
+      podstr: "Проклят всякий человек, который не остаётся во всех словах закона этого
+        [чтобы] сделать их; и скажет весь народ: Пусть осуществится."
+      csya: "Проклят всяк человек, иже не пребудет во всех словесех закона сего, еже
+        творити я. И рекут вси людие: буди."
+      averincev: ""
+      ungerov: ""
+      csya_old: "Про1клzтъ всsкъ человёкъ, и4же не пребyдетъ во всёхъ словесёхъ
+        зако1на сегw2, є4же твори1ти |. И# рекyтъ вси2 лю1діе: бyди."
+      sovr_rbo: "„Кто не станет следовать этому Закону и исполнять его, да будет
+        проклят!”И пусть весь народ скажет: „Да будет так!”"
+      latin: "Maledictus qui non permanet in sermonibus legis hujus, nec eos opere
+        perficit: et dicet omnis populus: Amen."
+      ukr: "Проклятий, хто не дотримає слів цього Закону, щоб виконувати їх! А ввесь
+        народ скаже: амінь!"
+      nkjv: "'Cursed is the one who does not confirm all the words of this law.' And
+        all the people shall say, 'Amen!' "
+      desnitsky: ""
+      mt: ‫   אָרוּר אֲשֶׁר לֹא־יָקִים אֶת־דִּבְרֵי הַתּוֹרָה־הַזֹּאת לַעֲשׂוֹת אוֹתָם
+        וְאָמַר כָּל־הָעָם אָמֵן׃ פ ‬
+      romana: 'Blestemat sa fie tot omul care nu va plini toate cuvintele legii
+        acesteia si nu va urma dupa ea! Si tot poporul sa zica: Amin!"'
+      francais: "Maudit soit celui qui n'accomplit point les paroles de cette loi, et
+        qui ne les met point en pratique! -Et tout le peuple dira: Amen!"
+      italian: "Maledetto chi non mantiene in vigore le parole di questa legge, per
+        metterla in pratica! Tutto il popolo dirà: Amen."
+      old_georgian: "წყეულ იყავნ ყოველი კაცი რომელი არა დაადგრეს ყოველთა ამათ სიტყუათა
+        შჯულისათა ყოფად მისა. და თქუას ყოველმან ერმან: იყავნ!"
+      portuguese: "Maldito aquele que não confirmar as palavras desta lei, para as
+        cumprir. E todo o povo dirá: Amém."
+      polish: "”Przeklęty, kto nie trzyma się nakazów tego Prawa i nie wypełnia ich”.
+        A\rcały lud powie: ”Amen”."
+      turkish: "«`Bu yasanın sözlerine uymayan ve onları onaylamayana lanet
+        olsun!'\r«Bütün halk, `Amin!' diyecek.»"
+      nrt: "Проклят человек, который не утверждает слов этого Закона их исполнением. И
+        весь народ пусть скажет: “Аминь!”"
+      Macarius: "Проклят [всякий человек], кто не исполнит [всех] слов закона сего и
+        не будет поступать по ним. И весь народ скажет: аминь."
+      serbian: "Проклет да је који не би остао на ријечима овога закона, и творио их.
+        А сав народ нека рече: Амин."
+      bulgarian: "Проклет да е (всеки), който не изпълни (всички) думи на тоя закон и
+        не постъпи според тях! И целият народ да каже: амин."
+      deutsch: "Verflucht sei, wer nicht alle Worte dieses Gesetzes erfüllt, daß er
+        darnach tue! Und alles Volk soll sagen: Amen."
+      ukr2: "Проклят, хто не додержує слів цього закону, не виконує їх! І ввесь народ
+        скаже: Амінь!»"
+      ukr3: "Проклят, хто не піддержить слів сього закону, щоб сповнити їх! І ввесь
+        нарід скаже: Амінь!"
+      bel_syomukha: "Пракляты, хто ня выконвае слоў закона гэтага і ня будзе рабіць
+        паводле яго! І ўвесь народ скажа: амін."
+      lev-khv: "Проклят, кто не устоит в словах этого закона, чтобы исполнять их. И
+        скажет весь народ: аминь."
+      czech: '"Bud proklet, kdo nebude plnit slova tohoto zakona a dodrzovat je." A
+        vsechen lid rekne: "Amen."'
+      spanish: "Maldito quien no mantenga las palabras de esta Ley, cumpliéndolas; y
+        todo el pueblo responderá: Amén."
+      greek-lxx: ἐπικατάρατος πᾶς ἄνθρωπος ὃς οὐκ ἐμμενεῖ ἐν πᾶσιν τοῖς λόγοις τοῦ
+        νόμου τούτου τοῦ ποιῆσαι αὐτούς καὶ ἐροῦσιν πᾶς ὁ λαός γένοιτο
+      st_text: "Проклят [всякий человек], кто не исполнит [всех] слов закона сего и не
+        будет поступать по ним! И весь народ скажет: аминь."

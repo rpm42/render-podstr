@@ -1,0 +1,880 @@
+id: 609
+number: 91
+bookId: 22
+verseCount: 16
+title: Глава 91
+verses:
+  - id: 32689
+    number: 1
+    bookId: 22
+    text: <i>Псалом. Песнь на день субботний.</i>
+    chapter: 91
+    chapterId: 609
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Псалом песни, в день субботный.
+      averincev: Псалом. Песнь на день субботний.
+      ungerov: Псалом песнь. В день субботний.
+      csya_old: Pало1мъ пёсни, въ де1нь суббHтный,
+      sovr_rbo: Псалом. Песнь на день субботний.
+      latin: Psalmus cantici, in die sabbati.
+      ukr: Псалом. Пісня на день суботній.
+      nkjv: A Psalm. A Song for the Sabbath day.
+      desnitsky: ""
+      mt: ‫   מִזְמוֹר שִׁיר לְיוֹם הַשַּׁבָּת׃ ‬
+      romana: Alcatuit pe vremea lui Iezechia. Bine este a lauda pe Domnul si a canta
+        numele Tau, Preainalte,
+      italian: Salmo. Canto. Per il giorno del sabato.
+      portuguese: Bom é render graças ao Senhor, e cantar louvores ao teu nome, ó
+        Altíssimo,
+      polish: Psalm. Pieśń. Na dzień szabatu.
+      nrt: Псалом. Песнь на празднование субботы.
+      Macarius: Псалом. Песнь на день субботний.
+      bulgarian: Псалом. Песен за съботния ден.
+      deutsch: Ein Psalmlied auf den Sabbattag. [2 Das ist ein köstlich Ding, dem
+        Herrn danken, und lobsingen deinem Namen, du Höchster,
+      ukr2: Псалом. Пісня. На день суботній.
+      ukr3: Псальма, пісня; на день суботнїй. Б лаго є, прославляти Господа, і
+        сьпівати псальми імені твому, Всевишнїй!
+      bel_syomukha: Псальма. Песьня на дзень суботні.
+      gorsky-platonov: Псалом. Песнь на день субботный.
+      czech: Zpivany zalm. Pisen ke dni odpocinku.
+      spanish: Salmo. Cántico. Para el día del sábado.
+      zertis-kamenskiy: Псалом песни в день субботный.
+      greek-lxx: ψαλμὸς ᾠδῆς εἰς τὴν ἡμέραν τοῦ σαββάτου
+      st_text: <i>Псалом. Песнь на день субботний.</i>
+  - id: 32690
+    number: 2
+    bookId: 22
+    text: Благо есть славить Господа и петь имени Твоему, Всевышний,
+    chapter: 91
+    chapterId: 609
+    parallels:
+      - verseId: 31140
+        bookId: 22
+        bookCode: psaltir
+        chapter: 146
+        short: Пс:146:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Благо есть исповедатися Господеви и пети имени твоему, вышний:"
+      averincev: Сладко Господа благодарить, Имени Твоему, о Вышний! бряцать,
+      ungerov: Благо - исповедать Господа и петь имени Твоему, Вышний,
+      csya_old: "Бlго є4сть и3сповёдатисz гDеви и3 пёти и4мени твоемY, вы1шній:"
+      sovr_rbo: Благо есть славить Господа и петь имени Твоему, Всевышний,
+      latin: Bonum est confiteri Domino, et psallere nomini tuo, Altissime.
+      ukr: То добре, щоб дякувати Господеві й виспівувати Ймення Твоє, о Всевишній,
+      nkjv: It is good to give thanks to the Lord, And to sing praises to Your name, O
+        Most High;
+      desnitsky: ""
+      mt: ‫   טוֹב לְהֹדוֹת לַיהוָה וּלְזַמֵּר לְשִׁמְךָ עֶלְיוֹן׃ ‬
+      romana: A vesti dimineata mila Ta si adevarul Tau in toata noaptea,
+      italian: È bello dar lode al Signore e cantare al tuo nome, o Altissimo,
+      portuguese: anunciar de manhã a tua benignidade, e à noite a tua fidelidade,
+      polish: "Dobrze jest dziękować Panu i śpiewać imieniu Twemu, o Najwyższy:"
+      nrt: Хорошо славить Господа и воспевать Имя Твое, Всевышний,
+      Macarius: Хорошо славить Господа, и петь имени Твоему, Всевышний,
+      bulgarian: Добро е да славим Господа и да възпяваме Твоето име, Всевишний,
+      deutsch: "[3 des Morgens deine Gnade und des Nachts deine Wahrheit verkündigen"
+      ukr2: Добре воно - Господа прославляти в псалмах співати твоєму імені,
+        Всевишній;
+      ukr3: Вранцї звіщати милість твою, і вірність твою поночах,
+      bel_syomukha: Дабро ёсьць - славіць Госпада і сьпяваць імю Твайму, Усявышні,
+      gorsky-platonov: Хорошо славить Иегову, и петь имени Твоему, Всевышний,
+      czech: Jak dobre je vzdavat Hospodinu chvalu, tvemu jmenu, Nejvyssi, pet zalmy,
+      spanish: Bueno es alabar a Yavé y cantar a tu nombre, ¡oh Altísimo!;
+      zertis-kamenskiy: Благо есть прославляти Бога и пети имени Твоему Вышний.
+      pakazkiy: "Коль благо сердцем и устами Тебя, о Боже! восхвалять,\rИ имя с
+        горними чинами,\rТвое, Всевышний прославят;"
+      greek-lxx: ἀγαθὸν τὸ ἐξομολογεῖσθαι τῷ Κυρίῳ καὶ ψάλλειν τῷ ὀνόματί σου ὕψιστε
+      st_text: Благо есть славить Господа и петь имени Твоему, Всевышний,
+  - id: 32691
+    number: 3
+    bookId: 22
+    text: возвещать утром милость Твою и истину Твою в ночи,
+    chapter: 91
+    chapterId: 609
+    parallels:
+      - verseId: 32565
+        bookId: 22
+        bookCode: psaltir
+        chapter: 88
+        short: Пс:88:2
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: возвещати заутра милость твою и истину твою на всяку нощь,
+      averincev: возвещать поутру милость Твою, и верность Твою — в ночи,
+      ungerov: Возвещать утром милость Твою и истину Твою во всякую ночь,
+      csya_old: возвэщaти заyтра млcть твою2 и3 и4стину твою2 на всsку но1щь,
+      sovr_rbo: возвещать утром милость Твою и истину Твою в ночи,
+      latin: Ad annuntiandum mane misericordiam tuam, et veritatem tuam per noctem;
+      ukr: вранці розповідати про милість Твою, а ночами про правду Твою
+      nkjv: To declare Your lovingkindness in the morning, And Your faithfulness every
+        night,
+      desnitsky: ""
+      mt: ‫   לְהַגִּיד בַּבֹּקֶר חַסְדֶּךָ וֶאֱמוּנָתְךָ בַּלֵּילוֹת׃ ‬
+      romana: In psaltire cu zece strune, cu cantece din alauta.
+      italian: annunziare al mattino il tuo amore, la tua fedeltà lungo la notte,
+      portuguese: sobre um instrumento de dez cordas, e sobre o saltério, ao som
+        solene da harpa.
+      polish: głosić z rana Twoją łaskawość, a wierność Twoją nocami,
+      nrt: возглашать милость Твою утром и верность Твою вечером,
+      Macarius: Возвещать утром милость Твою, и истину Твою в ночи,
+      bulgarian: да разгласяме сутрин Твоята милост, и Твоята истина - нощем,
+      deutsch: "[4 auf den zehn Saiten und Psalter, mit Spielen auf der Harfe."
+      ukr2: звіщати вранці твою милість, ночами - твою вірність, -
+      ukr3: При десятиструнній і при псалтирі, при гуслях з піснями.
+      bel_syomukha: абвяшчаць раніцай ласку Тваю і праўду Тваю ўначы,
+      gorsky-platonov: Возвещать утром милость Твою, и истину Твою по ночам,
+      czech: hlasat zrana tvoje milosrdenstvi a v noci tvou vernost
+      spanish: publicar de mañana tu piedad y de noche tu fidelidad,
+      zertis-kamenskiy: "Возвещати утро милость Твою: и истинну Твою в нощех."
+      pakazkiy: "Заутра милость возвещати,\rВ нощи же истинну Твою"
+      greek-lxx: τοῦ ἀναγγέλλειν τὸ πρωὶ τὸ ἔλεός σου καὶ τὴν ἀλήθειάν σου κατὰ νύκτα
+      st_text: возвещать утром милость Твою и истину Твою в ночи,
+  - id: 32692
+    number: 4
+    bookId: 22
+    text: на десятиструнном и псалтири, с песнью на гуслях.
+    chapter: 91
+    chapterId: 609
+    parallels:
+      - verseId: 31499
+        bookId: 22
+        bookCode: psaltir
+        chapter: 32
+        short: Пс:32:2
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: в десятоструннем псалтири с песнию в гуслех.
+      averincev: на цитре и на десяти струнах, с песнею под звоны арф.
+      ungerov: На десятиструнной псалтири, с пением, на гуслях.
+      csya_old: въ десzтострyннэмъ pалти1ри съ пёснію въ гyслехъ.
+      sovr_rbo: на десятиструнном и псалтири, с песнью на гуслях.
+      latin: in decachordo, psalterio, cum cantico, in cithara.
+      ukr: на десятиструнній й на арфі, на лютні та гуслах,
+      nkjv: On an instrument of ten strings, On the lute, And on the harp, With
+        harmonious sound.
+      desnitsky: ""
+      mt: ‫   עֲלֵי־עָשׂוֹר וַעֲלֵי־נָבֶל עֲלֵי הִגָּיוֹן בְּכִנּוֹר׃ ‬
+      romana: Ca m-ai veselit, Doamne, intru fapturile Tale si intru lucrurile
+        mainilor Tale ma voi bucura.
+      italian: sull'arpa a dieci corde e sulla lira, con canti sulla cetra.
+      portuguese: Pois me alegraste, Senhor, pelos teus feitos; exultarei nas obras
+        das tuas mãos.
+      polish: na harfie dziesięciostrunnej i lirze i pieśnią przy dźwiękach cytry.
+      nrt: играть на десятиструнной лире и на мелодичной арфе.
+      Macarius: На десятиструнной арфе, и на псалтири, и на звучных гуслях!
+      bulgarian: на десетострунно свирало и на псалтир, с песен на гусла.
+      deutsch: "[5 Denn, Herr, du lässest mich fröhlich singen von deinen Werken, und
+        ich rühme die Geschäfte deiner Hände."
+      ukr2: на десятиструнній гарфі й на цитрі. і піснями на гуслах.
+      ukr3: Ти бо звеселив мене, Господи, творивом твоїм; дїлами рук твоїх я
+        возрадуюся.
+      bel_syomukha: на дзесяціструнным і на псалтыры, зь песьняю на арфе.
+      gorsky-platonov: На десятострунной арфе, и на псалтири, и на звучных гуслях!
+      czech: pri nastroji o deseti strunach, s harfou, pri hre na citeru.
+      spanish: al salterio decacordio y a la lira, con las melodías del arpa.
+      zertis-kamenskiy: В десятострунии и псалтири с песнию в гуслех.
+      pakazkiy: "В десятоструннем возвещати\rПсалтири, с гусльми песнь свою!"
+      greek-lxx: ἐν δεκαχόρδῳ ψαλτηρίῳ μετ᾿ ᾠδῆς ἐν κιθάρᾳ
+      st_text: на десятиструнном и псалтири, с песнью на гуслях.
+  - id: 32693
+    number: 5
+    bookId: 22
+    text: "Ибо Ты возвеселил меня, Господи, творением Твоим: я восхищаюсь делами рук
+      Твоих."
+    chapter: 91
+    chapterId: 609
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Яко возвеселил мя еси, Господи, в творении твоем, и в делех руку твоею
+        возрадуюся.
+      averincev: Радость мне, Господи, дела Твои, я ликую о творениях рук Твоих.
+      ungerov: Ибо Ты, Господи, возвеселил меня творением Твоим, и делами рук Твоих я
+        буду восхищаться.
+      csya_old: Ћкw возвесели1лъ мS є3си2, гDи, въ творе1ніи твое1мъ, и3 въ дёлэхъ
+        рукY твоє1ю возрaдуюсz.
+      sovr_rbo: "Ибо Ты возвеселил меня, Господи, творением Твоим: я восхищаюсь делами
+        рук Твоих."
+      latin: Quia delectasti me, Domine, in factura tua; et in operibus manuum tuarum
+        exsultabo.
+      ukr: бо потішив мене Ти, о Господи, вчинком Своїм, про діла Твоїх рук я співаю!
+      nkjv: For You, Lord, have made me glad through Your work; I will triumph in the
+        works of Your hands.
+      desnitsky: ""
+      mt: ‫   כִּי שִׂמַּחְתַּנִי יְהוָה בְּפָעֳלֶךָ בְּמַעֲשֵׂי יָדֶיךָ אֲרַנֵּן׃ ‬
+      romana: Cat s-au marit lucrurile Tale, Doamne, adanci cu totul sunt gandurile
+        Tale!
+      italian: Poiché mi rallegri, Signore, con le tue meraviglie, esulto per l'opera
+        delle tue mani.
+      portuguese: Quão grandes são, ó Senhor, as tuas obras! quão profundos são os
+        teus pensamentos!
+      polish: Bo rozradowałeś mnie, Panie, Twoimi czynami, cieszę się dziełami rąk
+        Twoich.
+      nrt: Ведь Ты, Господи, обрадовал меня Своими деяниями; я ликую о делах Твоих
+        рук.
+      Macarius: Ибо Ты возвеселил меня, Господи, творением Твоим, делами рук Твоих я
+        восхищаюсь.
+      bulgarian: "Защото Ти ме развесели, Господи, с Твоите творения: възхищавам се от
+        делата на Твоите ръце."
+      deutsch: "[6 Herr, wie sind deine Werke so groß! Deine Gedanken sind so sehr
+        tief."
+      ukr2: Бо веселиш мене, о Господи, учинками твоїми, і я ділами рук твоїх радію.
+      ukr3: Як великі творива твої, Господи! Глибокі вельми задуми твої.
+      bel_syomukha: Бо Ты ўсьцешыў мяне, Госпадзе, тварэньнем Тваім; я захапляюся
+        дзеямі рук Тваіх.
+      gorsky-platonov: Ибо Ты возвеселил меня, Иегова, творением Твоим, делами рук
+        Твоих я восхищаюсь.
+      czech: "Hospodine, svymi skutky pusobis mi radost, plesam nad ciny tvych rukou:"
+      spanish: Pues me has alegrado, ¡oh Yavé! con tus hechos, y me gozo en las obras
+        de tus manos.
+      zertis-kamenskiy: "Яко возвеселил мя еси Боже в творении Твоем: и в делех рук
+        Твоих возрадуюся."
+      pakazkiy: "Ты лепотой Своих творений Меня так, Боже! восхитил,\rЧто в гласе я
+        воскликновений Всю душу в радости излил."
+      greek-lxx: ὅτι εὔφρανάς με Κύριε ἐν τῷ ποιήματί σου καὶ ἐν τοῖς ἔργοις τῶν
+        χειρῶν σου ἀγαλλιάσομαι
+      st_text: "Ибо Ты возвеселил меня, Господи, творением Твоим: я восхищаюсь делами
+        рук Твоих."
+  - id: 32694
+    number: 6
+    bookId: 22
+    text: Как велики дела Твои, Господи! дивно глубоки помышления Твои!
+    chapter: 91
+    chapterId: 609
+    parallels:
+      - verseId: 30354
+        bookId: 22
+        bookCode: psaltir
+        chapter: 103
+        short: Пс:103:24
+      - verseId: 30209
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 8
+        short: Притч:8:5
+      - verseId: 17745
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 47
+        short: Иез:47:5
+      - verseId: 32877
+        bookId: 63
+        bookCode: k-rimlanam-poslanie-ap-pavla
+        chapter: 11
+        short: Рим:11:33
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Яко возвеличишася дела твоя, Господи: зело углубишася помышления твоя."
+      averincev: Как дивны, Господи, творения Твои! Весьма глубоки мысли Твои.
+      ungerov: Как величественны дела Твои, Господи! Дивно глубоки помышления Твои!
+      csya_old: "Ћкw возвели1чишасz дэлA тво‰, гDи: ѕэлw2 ўглуби1шасz помышлє1ніz тво‰."
+      sovr_rbo: Как велики дела Твои, Господи! дивно глубоки помышления Твои!
+      latin: Quam magnificata sunt opera tua, Domine! nimis profundae factae sunt
+        cogitationes tuae.
+      ukr: Які то величні діла Твої, Господи, дуже глибокі думки Твої,
+      nkjv: O Lord, how great are Your works! Your thoughts are very deep.
+      desnitsky: ""
+      mt: ‫   מַה־גָּדְלוּ מַעֲשֶׂיךָ יְהוָה מְאֹד עָמְקוּ מַחְשְׁבֹתֶיךָ׃ ‬
+      romana: Barbatul nepriceput nu va cunoaste si cel neintelegator nu va intelege
+        acestea,
+      italian: Come sono grandi le tue opere, Signore, quanto profondi i tuoi pensieri!
+      portuguese: "O homem néscio não sabe, nem o insensato entende isto:"
+      polish: Jakże wielkie są dzieła Twe, Panie, bardzo głębokie Twe myśli!
+      nrt: Господи, как велики Твои дела, и как глубоки Твои помышления!
+      Macarius: Коль велики дела Твои, Господи! Весьма глубоки помышления Твои.
+      bulgarian: Колко са велики делата Ти, Господи! дивно дълбоки са Твоите помисли!
+      deutsch: "[7 Ein Törichter glaubt das nicht, und ein Narr achtet solches nicht."
+      ukr2: Які великі твої діла, Господи! Думки твої вельми глибокі.
+      ukr3: Безумний чоловік не збагне того, а дурень не зрозуміє.
+      bel_syomukha: "Якія вялікія дзеі Твае, Госпадзе! дзівосна глыбокія помыслы Твае:"
+      gorsky-platonov: Как велики дела Твои, Иегова! Весьма глубоки помышления Твои.
+      czech: Tvoje ciny, Hospodine, jsou tak velkolepe, tvoje zamery jsou prehluboke!
+      spanish: ¡Qué magníficas son tus obras, oh Yavé! ¡Cuán profundos son tus
+        pensamientos!
+      zertis-kamenskiy: Коль возвеличишася дела Твоя, Боже? Зело углубишася помышления Твоя.
+      pakazkiy: "О коль суть чудны и велики Дела Твоих, о Боже! рук,\rДа вознесут Тебе
+        языки С кадилом овний в жертву тук!"
+      greek-lxx: ὡς ἐμεγαλύνθη τὰ ἔργα σου Κύριε σφόδρα ἐβαθύνθησαν οἱ διαλογισμοί σου
+      st_text: Как велики дела Твои, Господи! дивно глубоки помышления Твои!
+  - id: 32695
+    number: 7
+    bookId: 22
+    text: Человек несмысленный не знает, и невежда не разумеет того.
+    chapter: 91
+    chapterId: 609
+    parallels:
+      - verseId: 20298
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 26
+        short: Ис:26:10
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Муж безумен не познает, и неразумив не разумеет сих.
+      averincev: Малоумный не постигнет их, и несмысленный не поймет.
+      ungerov: Муж безумный не познает и неразумный не уразумеет сего.
+      csya_old: Мyжъ безyменъ не познaетъ, и3 неразуми1въ не разумёетъ си1хъ.
+      sovr_rbo: Человек несмысленный не знает, и невежда не разумеет того.
+      latin: Vir insipiens non cognoscet, et stultus non intelliget haec.
+      ukr: нерозумна людина не знає, а недоумок не зрозуміє того!
+      nkjv: A senseless man does not know, Nor does a fool understand this.
+      desnitsky: ""
+      mt: ‫   אִישׁ־בַּעַר לֹא יֵדָע וּכְסִיל לֹא־יָבִין אֶת־זֹאת׃ ‬
+      romana: Cand rasar pacatosii ca iarba si se ivesc toti cei ce fac faradelegea,
+      italian: "L'uomo insensato non intende e lo stolto non capisce:"
+      portuguese: "quando os ímpios brotam como a erva, e florescem todos os que
+        praticam a iniqüidade, é para serem destruídos\rpara sempre."
+      polish: Człowiek nierozumny ich nie zna, a głupiec ich nie pojmuje.
+      nrt: Глупый человек не знает и невежда не понимает их.
+      Macarius: Человек несмысленный не знает, и невежда не разумеет сего.
+      bulgarian: Несмислен човек не знае, и невежа няма да разбере това.
+      deutsch: "[8 Die Gottlosen grünen wie das Gras, und die Übeltäter blühen alle,
+        bis sie vertilgt werden immer und ewiglich."
+      ukr2: Безумний не знає, дурень того не розуміє.
+      ukr3: Коли беззаконники, як билина, буйно ростуть і всї процвитають, що безчестє
+        творять, то се на те, щоб знищені були на віки.
+      bel_syomukha: Чалавек няцямны ня ведае, і недавумак не разумее таго.
+      gorsky-platonov: Человек несмысленный не знает, и невежда не разумеет сего.
+      czech: Tupec o tom nevi, hlupak tomu nerozumi.
+      spanish: No conoce esto el hombre necio, no entiende esto el insipiente.
+      zertis-kamenskiy: "Муж безумен не познает: и не разумев не разумеет сего."
+      pakazkiy: Безумный муж того не знает,
+      greek-lxx: ἀνὴρ ἄφρων οὐ γνώσεται καὶ ἀσύνετος οὐ συνήσει ταῦτα
+      st_text: Человек несмысленный не знает, и невежда не разумеет того.
+  - id: 32696
+    number: 8
+    bookId: 22
+    text: Тогда как нечестивые возникают, как трава, и делающие беззаконие цветут,
+      чтобы исчезнуть на веки, -
+    chapter: 91
+    chapterId: 609
+    parallels:
+      - verseId: 31585
+        bookId: 22
+        bookCode: psaltir
+        chapter: 36
+        short: Пс:36:2
+      - verseId: 30913
+        bookId: 22
+        bookCode: psaltir
+        chapter: 128
+        short: Пс:128:6
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Внегда прозябоша грешницы яко трава, и проникоша вси делающии беззаконие,
+        яко да потребятся в век века:"
+      averincev: Пусть разрастаются, как трава, пусть процветают творящие зло, — это к
+        погибели навсегда;
+      ungerov: Тогда как грешники выросли, как трава, и все делающие беззаконие
+        появились, чтобы исчезнуть в век века,
+      csya_old: "ВнегдA прозzбо1ша грBшницы ћкw травA, и3 пронико1ша вси2 дёлающіи
+        беззако1ніе, ћкw да потребsтсz въ вёкъ вёка:"
+      sovr_rbo: Тогда как нечестивые возникают, как трава, и делающие беззаконие
+        цветут, чтобы исчезнуть на веки, -
+      latin: Cum exorti fuerint peccatores sicut foenum, et apparuerint omnes qui
+        operantur iniquitatem, ut intereant in saeculum saeculi;
+      ukr: Коли несправедливі ростуть, як трава, і цвітуть всі злочинці, то на те, щоб
+        навіки були вони знищені,
+      nkjv: When the wicked spring up like grass, And when all the workers of iniquity
+        flourish, It is that they may be destroyed forever.
+      desnitsky: ""
+      mt: ‫   בִּפְרֹחַ רְשָׁעִים כְּמוֹ עֵשֶׂב וַיָּצִיצוּ כָּל־פֹּעֲלֵי אָוֶן
+        לְהִשָּׁמְדָם עֲדֵי־עַד׃ ‬
+      romana: Ca sa piara in veacul veacului. Iar Tu, Preainalt esti in veac, Doamne.
+      italian: "se i peccatori germogliano come l'erba e fioriscono tutti i
+        malfattori, li attende una rovina eterna:"
+      portuguese: Mas tu, Senhor, estás nas alturas para sempre.
+      polish: "Chociaż występni plenią się jak zielsko i złoczyńcy jaśnieją
+        przepychem, i tak\r[idą] na wieczną zagładę."
+      nrt: Хотя нечестивые возникают, как трава, и злодеи процветают, они исчезнут
+        навеки.
+      Macarius: Когда нечестивые возникают, как трава, и цветут все, делающие
+        беззаконие, то для того, чтобы исчезнуть на веки.
+      bulgarian: Докато нечестивците никнат като трева, и които вършат беззаконие,
+        цъфтят, за да изчезнат завинаги, -
+      deutsch: "[9 Aber du, Herr, bist der Höchste und bleibst ewiglich."
+      ukr2: Хоч грішники, немов трава, буяють і процвітають усі лиходії, та все одно
+        згинуть навіки.
+      ukr3: А ти, Господи, величнїй по віки!
+      bel_syomukha: Тым часам як бязбожныя растуць, бы трава, і ліхадзеі квітнеюць,
+        каб зьнікнуць навечна, -
+      gorsky-platonov: Когда нечестивые возникают, как трава, и цветут все делающие
+        беззаконие, то для того, чтоб изчезнуть им на веки.
+      czech: Svevolnici buji jako plevel, vsichni pachatele nicemnosti rozkvetaji, aby
+        byli navzdy vyhlazeni.
+      spanish: Si germinan los impíos como la hierba y florecen todos los obradores de
+        iniquidad, es para ser destruidos por siempre jamás.
+      zertis-kamenskiy: Егда прозябают грешницы, яко трава и процветают вси делающии
+        беззаконие [процветают глаголя], да потребятся в век века.
+      pakazkiy: "Что грешник спеет, как трава;\rИ для того цветет, блистает,\rЧто
+        вскоре сгибнет, как плева."
+      greek-lxx: ἐν τῷ ἀνατεῖλαι τοὺς ἁμαρτωλοὺς ὡς χόρτον καὶ διέκυψαν πάντες οἱ
+        ἐργαζόμενοι τὴν ἀνομίαν ὅπως ἂν ἐξολεθρευθῶσιν εἰς τὸν αἰῶνα τοῦ αἰῶνος
+      st_text: Тогда как нечестивые возникают, как трава, и делающие беззаконие
+        цветут, чтобы исчезнуть на веки, -
+  - id: 32697
+    number: 9
+    bookId: 22
+    text: Ты, Господи, высок во веки!
+    chapter: 91
+    chapterId: 609
+    parallels:
+      - verseId: 19622
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 36
+        short: Иов:36:26
+      - verseId: 30307
+        bookId: 22
+        bookCode: psaltir
+        chapter: 101
+        short: Пс:101:28
+      - verseId: 35856
+        bookId: 32
+        bookCode: kniga-proroka-varuha
+        chapter: 3
+        short: Вар:3:3
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: ты же вышний во век, Господи.
+      averincev: Ты же, Господи, возвышен вовек.
+      ungerov: Ты же Вышний во век, Господи!
+      csya_old: ты1 же вы1шній во вёкъ, гDи.
+      sovr_rbo: Ты, Господи, высок во веки!
+      latin: tu autem Altissimus in aeternum, Domine.
+      ukr: а Ти, Господи, на висоті повік-віку!
+      nkjv: But You, Lord, are on high forevermore.
+      desnitsky: ""
+      mt: ‫   וְאַתָּה מָרוֹם לְעֹלָם יְהוָה׃ ‬
+      romana: Ca iata vrajmasii Tai, Doamne, vor pieri si se vor risipi toti cei ce
+        lucreaza faradelegea.
+      italian: ma tu sei l'eccelso per sempre, o Signore.
+      portuguese: "Pois eis que os teus inimigos, Senhor, eis que os teus inimigos
+        perecerão; serão dispersos todos os que\rpraticam a iniqüidade."
+      polish: Ty zaś, o Panie, na wieki jesteś wywyższony.
+      nrt: Ты же, Господи, навеки превознесен!
+      Macarius: А Ты, Господи, высок вечно.
+      bulgarian: Ти, Господи, си висок навеки!
+      deutsch: "[10 Denn siehe, deine Feinde, Herr, deine Feinde werden umkommen; und
+        alle Übeltäter müssen zerstreut werden."
+      ukr2: Ти ж, Господи, повіки на висотах!
+      ukr3: Глянь бо, вороги твої, Господи, глянь бо, твої вороги погибнуть; підуть у
+        розсип всї, що творять беззаконнє.
+      bel_syomukha: Ты, Госпадзе, высокі векавечна!
+      gorsky-platonov: А Ты, Иегова, высок вечно.
+      czech: Ty vsak, Hospodine, jsi naveky vyvyseny.
+      spanish: Pero tú eres excelso por la eternidad, ¡oh Yavé!
+      zertis-kamenskiy: Ты же Вышний во век Боже.
+      pakazkiy: Ты ж Господи! живешь во веки;
+      greek-lxx: σὺ δὲ ὕψιστος εἰς τὸν αἰῶνα Κύριε
+      st_text: Ты, Господи, высок во веки!
+  - id: 32698
+    number: 10
+    bookId: 22
+    text: Ибо вот, враги Твои, Господи, - вот, враги Твои гибнут, и рассыпаются все
+      делающие беззаконие;
+    chapter: 91
+    chapterId: 609
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Яко се, врази твои, Господи, яко се, врази твои погибнут, и разыдутся вси
+        делающии беззаконие.
+      averincev: Ибо вот, Господи, враги Твои, ибо вот, сгинут враги Твои, расточатся
+        все творящие зло.
+      ungerov: Ибо вот, враги Твои, Господи, ибо вот, враги Твои погибнут и рассеются
+        все делающие беззаконие,
+      csya_old: Ћкw се2, врази2 твои2, гDи, ћкw се2, врази2 твои2 поги1бнутъ, и3
+        разы1дутсz вси2 дёлающіи беззако1ніе.
+      sovr_rbo: Ибо вот, враги Твои, Господи, - вот, враги Твои гибнут, и рассыпаются
+        все делающие беззаконие;
+      latin: Quoniam ecce inimici tui, Domine, quoniam ecce inimici tui peribunt; et
+        dispergentur omnes qui operantur iniquitatem.
+      ukr: Бо ось вороги Твої, Господи, бо ось вороги Твої згинуть, розпорошаться всі
+        беззаконники!
+      nkjv: For behold, Your enemies, O Lord, For behold, Your enemies shall perish;
+        All the workers of iniquity shall be scattered.
+      desnitsky: ""
+      mt: ‫   כִּי הִנֵּה אֹיְבֶיךָ יְהוָה כִּי־הִנֵּה אֹיְבֶיךָ יֹאבֵדוּ יִתְפָּרְדוּ
+        כָּל־פֹּעֲלֵי אָוֶן׃ ‬
+      romana: si se va inalta puterea mea ca a inorogului si batranetile mele unse din
+        belsug.
+      italian: Ecco, i tuoi nemici, o Signore, ecco, i tuoi nemici periranno, saranno
+        dispersi tutti i malfattori.
+      portuguese: Mas tens exaltado o meu poder, como o do boi selvagem; fui ungido
+        com óleo fresco.
+      polish: "Bo oto wrogowie Twoi, Panie, bo oto wrogowie Twoi poginą, rozproszą
+        się\rwszyscy złoczyńcy."
+      nrt: Подлинно враги Твои, Господи, подлинно враги Твои погибнут; все злодеи
+        будут рассеяны.
+      Macarius: "Ибо се, враги Твои, Господи, ибо се враги Твои гибнут, и рассыпаются
+        все, делающие беззаконие:"
+      bulgarian: Защото, ето, Твоите врагове, Господи, - ето, Твоите врагове загиват,
+        и се пръсват всички, които вършат беззаконие;
+      deutsch: "[11 Aber mein Horn wird erhöht werden wie eines Einhorns, und ich
+        werde gesalbt mit frischem Öl."
+      ukr2: Ось бо вороги твої, Господи, ось бо вороги твої загинуть, розсипляться
+        усі, що творять беззаконня.
+      ukr3: А рога мого піднесеш як в однорожця; сьвіжим єлеєм намастиш мене.
+      bel_syomukha: Бо вось, ворагі Твае, Госпадзе, - вось, ворагі Твае гінуць, і
+        рассыпаюцца ўсе ліхадзеі;
+      gorsky-platonov: "Ибо се враги Твои, Иегова, ибо се враги Твои гибнут, и
+        разсыпаются все делающие беззаконие:"
+      czech: Ano, tvoji nepratele, Hospodine, ano, tvoji nepratele zhynou, vsichni
+        pachatele nicemnosti budou rozpraseni.
+      spanish: Pues he aquí que tus enemigos, ¡oh Yavé! perecerán, y serán dispersados
+        todos los que obran el mal.
+      zertis-kamenskiy: "Яко се врази Твои, Боже: яко се врази Твои погибнут:
+        расточени будут вси делающии беззаконие."
+      pakazkiy: "Твой гнев на нас не премолчит; Погубит грешны человеки\rИ враг Твоих
+        он расточит."
+      greek-lxx: ὅτι ἰδοὺ οἱ ἐχθροί σου ἀπολοῦνται καὶ διασκορπισθήσονται πάντες οἱ
+        ἐργαζόμενοι τὴν ἀνομίαν
+      st_text: Ибо вот, враги Твои, Господи, - вот, враги Твои гибнут, и рассыпаются
+        все делающие беззаконие;
+  - id: 32699
+    number: 11
+    bookId: 22
+    text: а мой рог Ты возносишь, как рог единорога, и я умащен свежим елеем;
+    chapter: 91
+    chapterId: 609
+    parallels:
+      - verseId: 11729
+        bookId: 4
+        bookCode: cisla
+        chapter: 23
+        short: Чис:23:22
+      - verseId: 341
+        bookId: 9
+        bookCode: 1a-kniga-carstv
+        chapter: 2
+        short: 1 Цар:2:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И вознесется яко единорога рог мой, и старость моя в елеи мастите:"
+      averincev: "&#913; мой рог возносишь Ты, как единорога рог, елеем свежим я умащен;"
+      ungerov: И вознесется, как у единорога, рог мой, и старость моя будет умащена
+        тучным елеем.
+      csya_old: "И# вознесе1тсz ћкw є3диноро1га ро1гъ мо1й, и3 стaрость моS въ є3ле1и
+        масти1тэ:"
+      sovr_rbo: а мой рог Ты возносишь, как рог единорога, и я умащен свежим елеем;
+      latin: Et exaltabitur sicut unicornis cornu meum, et senectus mea in
+        misericordia uberi.
+      ukr: І Ти рога мого підніс немов в однорожця, мене намастив Ти оливою свіжою.
+      nkjv: But my horn You have exalted like a wild ox; I have been anointed with
+        fresh oil.
+      desnitsky: ""
+      mt: ‫   וַתָּרֶם כִּרְאֵים קַרְנִי בַּלֹּתִי בְּשֶׁמֶן רַעֲנָן׃ ‬
+      romana: Si a privit ochiul meu catre vrajmasii mei si pe cei vicleni, ce se
+        ridica impotriva mea, ii va auzi urechea mea.
+      italian: Tu mi doni la forza di un bùfalo, mi cospargi di olio splendente.
+      portuguese: "Os meus olhos já viram o que é feito dos que me espreitam, e os
+        meus ouvidos já ouviram o que sucedeu aos\rmalfeitores que se levantam
+        contra mim."
+      polish: Wywyższyłeś mój róg jak u bawołu, skropiłeś mnie świeżym olejkiem.
+      nrt: А мой рог Ты вознесешь, подобно быку, и умастишь меня свежим маслом.
+      Macarius: А мой рог Ты возносишь, как рог единорога, я умащен свежим елеем.
+      bulgarian: а моя рог Ти възнасяш като рог на еднорога, и аз съм намазан с пресен
+        елей;
+      deutsch: "[12 Und mein Auge wird seine Lust sehen an meinen Feinden; und mein
+        Ohr wird seine Lust hören an den Boshaften, die sich wider mich setzen."
+      ukr2: Ти підніс рога мого, мов буйволового рога, мене намащено єлеєм
+        найчистішим.
+      ukr3: І очі мої бачити муть втїху над ворогами моїми, слухи мої почують втїху
+        свою над злочинниками, що проти мене встали.
+      bel_syomukha: а мой рог Ты падымаеш, як рог аднарога, і я ўмашчаны сьвежым алеем;
+      gorsky-platonov: А мой рог ты возносишь, как рог единорога, я умащен свежим елеем.
+      czech: Muj roh jsi vsak vyvysil jako roh jednorozce, olej nejcistsi jsi na mne
+        vylil.
+      spanish: Pero exaltarás mi cuerno como el del búfalo y me ungirás de fresco óleo,
+      zertis-kamenskiy: Вознесеши яко единорога рог мой, буду помазан елеем благовонным.
+      pakazkiy: "А рог мой паки вознесется,\rКак рог единорога вверх;\rЕлей маститый
+        разлиется В моих При старости костех"
+      greek-lxx: καὶ ὑψωθήσεται ὡς μονοκέρωτος τὸ κέρας μου καὶ τὸ γῆράς μου ἐν ἐλαίῳ
+        πίονι
+      st_text: а мой рог Ты возносишь, как рог единорога, и я умащен свежим елеем;
+  - id: 32700
+    number: 12
+    bookId: 22
+    text: и око мое смотрит на врагов моих, и уши мои слышат о восстающих на меня
+      злодеях.
+    chapter: 91
+    chapterId: 609
+    parallels:
+      - verseId: 32680
+        bookId: 22
+        bookCode: psaltir
+        chapter: 90
+        short: Пс:90:8
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: и воззре око мое на враги моя, и востающыя на мя лукавнующыя услышит ухо
+        мое.
+      averincev: смотрит око мое на врагов моих, и о злых, что ополчаются на меня,
+        слушают весть уши мои.
+      ungerov: И посмотрит око мое на врагов моих, и о восстающих на меня лукавых
+        услышит ухо мое.
+      csya_old: и3 воззрЁ џко мое2 на враги2 мо‰, и3 востаю1щыz на мS лукaвнующыz
+        ўслы1шитъ ќхо мое2.
+      sovr_rbo: и око мое смотрит на врагов моих, и уши мои слышат о восстающих на
+        меня злодеях.
+      latin: Et despexit oculus meus inimicos meos, et in insurgentibus in me
+        malignantibus audiet auris mea.
+      ukr: І дивилося око моє на занепад моїх ворогів, тих злочинців, що на мене
+        встають, почують про це мої уші!
+      nkjv: My eye also has seen my desire on my enemies; My ears hear my desire on
+        the wicked Who rise up against me.
+      desnitsky: ""
+      mt: ‫   וַתַּבֵּט עֵינִי בְּשׁוּרָי בַּקָּמִים עָלַי מְרֵעִים תִּשְׁמַעְנָה
+        אָזְנָי׃ ‬
+      romana: Dreptul ca finicul va inflori si ca cedrul cel din Liban se va inmulti.
+      italian: I miei occhi disprezzeranno i miei nemici, e contro gli iniqui che mi
+        assalgono i miei orecchi udranno cose infauste.
+      portuguese: Os justos florescerão como a palmeira, crescerão como o cedro no Líbano.
+      polish: "Oko moje patrzy na nieprzyjaciół, ”tych, co powstają na mnie”.
+        Słuchają\rmoje uszy moich przeciwników."
+      nrt: Глаза мои видели поражение врагов моих, и уши мои слышали падение злодеев,
+        восстающих на меня.
+      Macarius: И око мое видит врагов моих, и о восстающих на меня беззаконниках
+        слышат уши мои.
+      bulgarian: и окото ми гледа на моите врагове, и ушите ми чуват за въставащите
+        против мене злодейци.
+      deutsch: "[13 Der Gerechte wird grünen wie ein Palmbaum; er wird wachsen wie
+        eine Zeder auf dem Libanon."
+      ukr2: І око моє погордувало моїми ворогами; а про злих, що повстали проти мене,
+        вуха мої біду почули.
+      ukr3: Праведний, як паоїьмове дерево, розпустить гіллє своє, як кедр Ливанський
+        рости ме вгору.
+      bel_syomukha: і вока маё глядзіць на ворагаў маіх, і вушы мае чуюць пра
+        паўсталых на мяне злыдняў.
+      gorsky-platonov: И око мое видит врагов моих, и о возстающих на меня
+        беззаконниках слышат уши мои.
+      czech: Moje oko shlizi na ty, kdo proti mne soci, moje usi slysi o zlovolnych
+        utocnicich.
+      spanish: y mis ojos contemplarán a mis enemigos, y mis oídos oirán a los
+        malvados que se alzan contra mí.
+      zertis-kamenskiy: "И узрит око мое желаемая на вразех моих: [и] востающих на мя
+        [и] злотворящих услышат [приятная] уши мои."
+      pakazkiy: "Узрю моими я очами\rЗлодеев при моих ногах,\rУслышу бодрыми ушами
+        Лукавство все в моих врагах."
+      greek-lxx: καὶ ἐπεῖδεν ὁ ὀφθαλμός μου ἐν τοῖς ἐχθροῖς μου καὶ ἐν τοῖς
+        ἐπανιστανομένοις ἐπ᾿ ἐμὲ πονηρευομένοις ἀκούσεται τὸ οὖς μου
+      st_text: и око мое смотрит на врагов моих, и уши мои слышат о восстающих на меня
+        злодеях.
+  - id: 32701
+    number: 13
+    bookId: 22
+    text: Праведник цветет, как пальма, возвышается подобно кедру на Ливане.
+    chapter: 91
+    chapterId: 609
+    parallels:
+      - verseId: 30261
+        bookId: 22
+        bookCode: psaltir
+        chapter: 1
+        short: Пс:1:3
+      - verseId: 31888
+        bookId: 22
+        bookCode: psaltir
+        chapter: 51
+        short: Пс:51:10
+      - verseId: 28653
+        bookId: 25
+        bookCode: pesn-pesnej-solomona
+        chapter: 7
+        short: Песн:7:8
+      - verseId: 33332
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 1
+        short: Сир:1:20
+      - verseId: 21151
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 65
+        short: Ис:65:22
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Праведник яко финикс процветет: яко кедр, иже в ливане, умножится."
+      averincev: Как пальма, праведный процветет, возвысится, как ливанский кедр, —
+      ungerov: Праведник, как финик, процветет и, как кедр на Ливане, умножится.
+      csya_old: "Првdникъ ћкw фjніxъ процвэте1тъ: ћкw ке1дръ, и4же въ лівaнэ,
+        ўмно1житсz."
+      sovr_rbo: Праведник цветет, как пальма, возвышается подобно кедру на Ливане.
+      latin: Justus ut palma florebit; sicut cedrus Libani multiplicabitur.
+      ukr: Зацвіте справедливий, як пальма, і виженеться, немов кедр на Ливані,
+      nkjv: The righteous shall flourish like a palm tree, He shall grow like a cedar
+        in Lebanon.
+      desnitsky: ""
+      mt: ‫   צַדִּיק כַּתָּמָר יִפְרָח כְּאֶרֶז בַּלְּבָנוֹן יִשְׂגֶּה׃ ‬
+      romana: Rasaditi fiind in casa Domnului, in curtile Dumnezeului nostru vor
+        inflori.
+      italian: Il giusto fiorirà come palma, crescerà come cedro del Libano;
+      portuguese: Estão plantados na casa do Senhor, florescerão nos átrios do nosso Deus.
+      polish: Sprawiedliwy zakwitnie jak palma, rozrośnie się jak cedr na Libanie.
+      nrt: А праведник цветет, словно пальма, возвышается, как кедр на Ливане.
+      Macarius: Праведник зеленеет, как финик, как кедр на Ливане возвышается.
+      bulgarian: Праведният цъфти като палма, издига се като кедър ливански.
+      deutsch: "[14 Die gepflanzt sind in dem Hause des Herrn, werden in den Vorhöfen
+        unsers Gottes grünen."
+      ukr2: Праведник квітнутиме, немов пальма; він виженеться вгору, мов кедр
+        ливанський
+      ukr3: Посаджені в Господньому домі процвитати муть у дворах Бога нашого.
+      bel_syomukha: Праведнік цьвіце, як пальма, узвышаецца, быццам кедр на Ліване.
+      gorsky-platonov: Праведник зеленеет, как финик, как кедр на Ливане возвышается.
+      czech: Spravedlivy roste jako palma, rozrusta se jako libanonsky cedr.
+      spanish: Florecerá el justo como la palmera, crecerá como el cedro del Líbano.
+      zertis-kamenskiy: Праведник, яко финикс процветет, яко кедр в Ливане умножится.
+      pakazkiy: "Муж прав, как Финикс процветает; И умножается как кедр,\rЧто на
+        Ливане возрастает,\rДо облачных подъемлясь недр."
+      greek-lxx: δίκαιος ὡς φοῖνιξ ἀνθήσει ὡσεὶ κέδρος ἡ ἐν τῷ Λιβάνῳ πληθυνθήσεται
+      st_text: Праведник цветет, как пальма, возвышается подобно кедру на Ливане.
+  - id: 32702
+    number: 14
+    bookId: 22
+    text: Насажденные в доме Господнем, они цветут во дворах Бога нашего;
+    chapter: 91
+    chapterId: 609
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Насаждени в дому Господни во дворех Бога нашего процветут:"
+      averincev: насажденные в Господнем дому, во дворах Бога нашего процветут;
+      ungerov: Насажденные в доме Господнем, они процветут во дворах Бога нашего,
+      csya_old: "Насажде1ни въ домY гDни во дво1рэхъ бг7а нaшегw процвэтyтъ:"
+      sovr_rbo: Насажденные в доме Господнем, они цветут во дворах Бога нашего;
+      latin: Plantati in domo Domini, in atriis domus Dei nostri florebunt.
+      ukr: посаджені в домі Господнім цвітуть на подвір'ях нашого Бога,
+      nkjv: Those who are planted in the house of the Lord Shall flourish in the
+        courts of our God.
+      desnitsky: ""
+      mt: ‫   שְׁתוּלִים בְּבֵית יְהוָה בְּחַצְרוֹת אֱלֹהֵינוּ יַפְרִיחוּ׃ ‬
+      romana: "Inca intru batranete unse se vor inmulti si bine vietuind vor fi, ca sa
+        vesteasca:"
+      italian: piantati nella casa del Signore, fioriranno negli atri del nostro Dio.
+      portuguese: Na velhice ainda darão frutos, serão viçosos e florescentes,
+      polish: Zasadzeni w domu Pańskim rozkwitną na dziedzińcach naszego Boga.
+      nrt: Посаженные в доме Господнем, они зацветут во дворах храма нашего Бога.
+      Macarius: Насаждены в доме Господнем, заленеют во дворах Бога нашего;
+      bulgarian: Насадени в дома Господен, те цъфтят в дворите на Бога нашего;
+      deutsch: "[15 Und wenn sie gleich alt werden, werden sie dennoch blühen,
+        fruchtbar und frisch sein,"
+      ukr2: Посаджені в Господнім домі, вони на дворах Бога нашого квітнутимуть.
+      ukr3: Ще в пізній старостї будуть плодовиті, ядерні й зелені,
+      bel_syomukha: Пасаджаныя ў доме Гасподнім, яны цьвітуць на падворках Бога нашага;
+      gorsky-platonov: Насаждены в доме Иеговы, зеленеют во дворах Бога нашего;
+      czech: Ti, kdo v dome Hospodinove jsou zasazeni, kdo rostou v nadvorich naseho
+        Boha,
+      spanish: Plantado en la casa de Yavé, florecerá en los atrios de nuestro Dios.
+      zertis-kamenskiy: Насаждени в дому Бога во дворех Бога нашего процветут.
+      pakazkiy: "Что в Божием дому растет!\rОно, в благопотребно время, \rВ небесных
+        дворех процветет,"
+      greek-lxx: πεφυτευμένοι ἐν τῷ οἴκῳ Κυρίου ἐν ταῖς αὐλαῖς τοῦ Θεοῦ ἡμῶν ἐξανθήσουσιν
+      st_text: Насажденные в доме Господнем, они цветут во дворах Бога нашего;
+  - id: 32703
+    number: 15
+    bookId: 22
+    text: они и в старости плодовиты, сочны и свежи,
+    chapter: 91
+    chapterId: 609
+    parallels:
+      - verseId: 24314
+        bookId: 53
+        bookCode: evangelie-ot-luki
+        chapter: 2
+        short: Лк:2:36
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: еще умножатся в старости мастите, и благоприемлюще будут.
+      averincev: и в старости будут плодоносить, не иссякнет в них сок —
+      ungerov: Умножатся еще в старости честной и будут блаженны.
+      csya_old: є3ще2 ўмно1жатсz въ стaрости масти1тэ, и3 благопріе1млюще бyдутъ.
+      sovr_rbo: они и в старости плодовиты, сочны и свежи,
+      latin: "Adhuc multiplicabuntur in senecta uberi, et bene patientes erunt:"
+      ukr: іще в сивині вони будуть цвісти, будуть ситі та свіжі,
+      nkjv: They shall still bear fruit in old age; They shall be fresh and
+        flourishing,
+      desnitsky: ""
+      mt: ‫   עוֹד יְנוּבוּן בְּשֵׂיבָה דְּשֵׁנִים וְרַעֲנַנִּים יִהְיוּ׃ ‬
+      romana: Drept este Domnul Dumnezeul nostru si nu este nedreptate intru Dansul.
+      italian: Nella vecchiaia daranno ancora frutti, saranno vegeti e rigogliosi,
+      portuguese: para proclamarem que o Senhor é reto. Ele é a minha rocha, e nele
+        não há injustiça.
+      polish: Wydadzą owoc nawet i w starości, pełni soków i zawsze żywotni,
+      nrt: Они и в старости будут плодовиты, сочны и свежи,
+      Macarius: Плодовиты и в старости, тучны и зелены,
+      bulgarian: те и на старост са плодовити, сочни и свежи,
+      deutsch: "[16 daß sie verkündigen, daß der Herr so fromm ist, mein Hort, und ist
+        kein Unrecht an ihm."
+      ukr2: Вони й на старість плодовиті будуть, будуть ядерні й соковиті,
+      ukr3: Щоб звістити, що Господь правий. Він скеля моя, і нема неправди в нему.
+      bel_syomukha: яны і ў старасьці пладаносныя, сакавітыя і сьвежыя,
+      gorsky-platonov: Плодовиты и в старости, сочны и зелены,
+      czech: jeste v sedinach ponesou plody, zustanou statni a svezi,
+      spanish: Fructificarán aun en la senectud, y estarán llenos de savia y verdor.
+      zertis-kamenskiy: "Еще плод принесут в старости мастите: и благоцветущии будут."
+      pakazkiy: "Оно плодами богатеет В маститой старости своей;\rИ крепость вящшую
+        имеет,\rЧем с возрастных, юнейших дней.\rСе тако плод благочестивых
+        Господь умножит во сто крат;"
+      greek-lxx: ἔτι πληθυνθήσονται ἐν γήρει πίονι καὶ εὐπαθοῦντες ἔσονται
+      st_text: они и в старости плодовиты, сочны и свежи,
+  - id: 32704
+    number: 16
+    bookId: 22
+    text: чтобы возвещать, что праведен Господь, твердыня моя, и нет неправды в Нем.
+    chapter: 91
+    chapterId: 609
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Да возвестят, яко прав Господь Бог наш, и несть неправды в нем.
+      averincev: во свидетельство, что прав Господь, скала моя, и что неправды нет у Него.
+      ungerov: Да возвестят они, что праведен Господь Бог наш и нет неправды в Нем.
+      csya_old: Да возвэстsтъ, ћкw прaвъ гDь бг7ъ нaшъ, и3 нёсть непрaвды въ не1мъ.
+      sovr_rbo: чтобы возвещать, что праведен Господь, твердыня моя, и нет неправды в
+        Нем.
+      latin: ut annuntient quoniam rectus Dominus Deus noster, et non est iniquitas in
+        eo.
+      ukr: щоб розповідати, що щирий Господь, моя скеля, і в Ньому неправди нема!
+      nkjv: To declare that the Lord is upright; He is my rock, and there is no
+        unrighteousness in Him.
+      desnitsky: ""
+      mt: ‫   לְהַגִּיד כִּי־יָשָׁר יְהוָה צוּרִי וְלֹא־*עלתה **עַוְלָתָה בּוֹ׃ ‬
+      italian: "per annunziare quanto è retto il Signore: mia roccia, in lui non c'è
+        ingiustizia."
+      polish: aby świadczyć, że Pan jest sprawiedliwy, moja Skała, nie ma w Nim
+        nieprawości.
+      nrt: чтобы возвещать, что праведен Господь, скала моя, и нет в Нем неправды.
+      Macarius: Возвещая, что праведен Господь, защитник мой, и нет в Нем неправды.
+      bulgarian: за да разгласят, че е праведен Господ, моята скала, и няма неправда в
+        Него.
+      ukr2: щоб возвістити, що Господь правий, - моя скеля, - і що нема неправди в
+        ньому.
+      bel_syomukha: каб абвяшчаць, што Гасподзь справядлівы, цьвярдыня мая, і няма ў
+        Ім няпраўды
+      czech: aby hlasali, ze Hospodin je primy, skala ma, a podlosti v nem neni!
+      spanish: Para anunciar cuan recto es Yavé, mi Roca, en el que no hay iniquidad.
+      zertis-kamenskiy: Еже возвещати яко прав [есть] Бог крепость моя и несть неправды в Нем.
+      greek-lxx: τοῦ ἀναγγεῖλαι ὅτι εὐθὴς Κύριος ὁ Θεός μου καὶ οὐκ ἔστιν ἀδικία ἐν αὐτῷ
+      st_text: чтобы возвещать, что праведен Господь, твердыня моя, и нет неправды в
+        Нем.

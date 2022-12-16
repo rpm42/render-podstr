@@ -1,0 +1,1103 @@
+id: 414
+number: 1
+bookId: 16
+verseCount: 11
+title: Глава 1
+verses:
+  - id: 27551
+    number: 1
+    bookId: 16
+    text: Слова Неемии, сына Ахалиина. В месяце Кислеве, в двадцатом году, я
+      находился в Сузах, престольном городе.
+    chapter: 1
+    chapterId: 414
+    parallels:
+      - verseId: 868
+        bookId: 15
+        bookCode: 1a-kniga-ezdry
+        chapter: 2
+        short: 1 Езд:2:2
+      - verseId: 27715
+        bookId: 16
+        bookCode: kniga-neemii
+        chapter: 2
+        short: Неем:2:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Словеса неемии сына ахалиина. И бысть в месяце хаселев, двадесятаго лета,
+        и аз бех в сусан-авире.
+      averincev: ""
+      ungerov: ""
+      csya_old: СловесA неемjи сы1на ґхалjина. И# бы1сть въ мцcэ хаселе1vъ ное1мврій,
+        двадесsтагw лёта, и3 ѓзъ бёхъ въ сусaнъ-ґвірЁ.
+      sovr_rbo: Слова Неемии, сына Хакалии. В месяце кислеве, на двадцатый год , когда
+        я был в твердыне города Сузы,
+      latin: Verba Nehemiae filii Helchiae. Et factum est in mense Casleu, anno
+        vigesimo, et ego eram in Susis castro.
+      ukr: "Слова Неемії, Гахаліїного сина: І сталося в місяці кіслеві двадцятого
+        року, і був я в замку Шушан."
+      nkjv: The words of Nehemiah the son of Hachaliah. It came to pass in the month
+        of Chislev, in the twentieth year, as I was in Shushan the citadel,
+      desnitsky: Слова Неемии, сына Хахальи. В двадцатом году, в месяце Кислеве, я
+        находился в укрепленном городе Сузы.
+      mt: ‫    דִּבְרֵי נְחֶמְיָה בֶּן־חֲכַלְיָה וַיְהִי בְחֹדֶשׁ־*כסלו **כִּסְלֵיו
+        שְׁנַת עֶשְׂרִים וַאֲנִי הָיִיתִי בְּשׁוּשַׁן הַבִּירָה׃ ‬
+      romana: Cuvintele lui Neemia, fiul lui Hacalia. "In luna Chislev, in anul al
+        douazecilea al regelui Artaxerxe, mi s-a intamplat sa fiu in capitala
+        Suza.
+      francais: Paroles de Néhémie, fils de Hacalia. Au mois de Kisleu, la vingtième
+        année, comme j'étais à Suse, dans la capitale,
+      italian: Parole di Neemia figlio di Akalià. Nel mese di Casleu dell'anno
+        ventesimo, mentre ero nella cittadella di Susa,
+      old_georgian: და იყო თვესა მას ქასლევსა, წელსა მას მეოცესა არტაშეს მეფისასა, მე
+        ვიყავ შუშ დედაქალაქთა მათ აბირაასთა.
+      portuguese: "Palavras de Neemias, filho de Hacalias. Ora, sucedeu no mês de
+        quisleu, no ano vigésimo, estando eu em Susã, a\rcapital,"
+      polish: "Słowa Nehemiasza, syna Chakaliasza: Oto gdy w miesiącu Kislew roku
+        dwudziestego byłem w twierdzy Suza,"
+      turkish: "Hakalya oğlu Nehemya'nın anlattıkları:\rPers Kralı Artahşasta'nın
+        krallığının yirminci yılı, Kislev ayında Sus Kalesi'ndeydim."
+      nrt: "Слова Неемии, сына Ахалии: В месяце кислеве, в двадцатом году правления
+        царя Артаксеркса, когда я находился в крепости города Сузы,"
+      Macarius: Слова Неемии, сына Гахалиина. В месяце кислеве, в двадцатом году я был
+        в престольном граде Сусане.
+      serbian: "Прве године Кира, цара Персијскога, да би се испунила ријеч Господња
+        коју рече на уста Јеремијина, подиже Господ дух Кира, цара Персијскога,
+        те огласи по свему царству својему и расписа говорећи:"
+      bulgarian: Думи на Неемия, сина Ахалиев. През месец кислев, в двайсетата година,
+        аз бях в престолния град Суза.
+      deutsch: Dies sind die Geschichten Nehemias, des Sohnes Hachaljas. Es geschah im
+        Monat Chislev des zwanzigsten Jahres, da ich war zu Susan auf dem
+        Schloß,
+      ukr2: "Слова Неємії, сина Хахалії: Так сталося, що в місяці Кіслеві, двадцятого
+        року, коли я був у Сузі-замку,"
+      ukr3: "Се оповіданнє Неємії, сина Ахалї- їного: В місяцї Кислеві, двайцятого
+        року*, був я в Сузах, столичному містї."
+      bel_syomukha: Слова, сына Ахаліінага. У месяцы Кісьлеве, у дваццатым годзе, я
+        быў у Сузах, сталічным горадзе.
+      spbda: Слова Неемии, сына Хакалиина. В месяце Кислеве, в двадцатом году, я
+        находился в Сузах, городе престольном.
+      lev-khv: Слово Неемии, сына Ахалиина. В месяце Кислеве, в двадцатом году, я
+        находился в Сузах, городе престольном.
+      czech: Pribehy Nehemjase, syna Chakaljasova. V mesici kislevu dvacateho roku,
+        kdyz jsem byl na hrade v Susanu,
+      spanish: "Palabras de Nehemías, hijo de Helcías:\r En el mes de Casleu del año
+        veinte, estando yo en Susa, en la capital,"
+      greek-lxx: λόγοι Νεεμια υἱοῦ Αχαλια καὶ ἐγένετο ἐν μηνὶ Χασεηλου ἔτους εἰκοστοῦ
+        καὶ ἐγὼ ἤμην ἐν Σουσαν αβιρα
+      st_text: Слова Неемии, сына Ахалиина. В месяце Кислеве, в двадцатом году, я
+        находился в Сузах, престольном городе.
+  - id: 27552
+    number: 2
+    bookId: 16
+    text: И пришел Ханани, один из братьев моих, он и <i>несколько</i> человек из
+      Иудеи. И спросил я их об уцелевших Иудеях, которые остались от плена, и об
+      Иерусалиме.
+    chapter: 1
+    chapterId: 414
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И прииде (ко мне) ананиа един от братий моих с мужи иудовы, и вопросих их
+        о спасшихся, иже осташася от пленения, и о Иерусалиме.
+      averincev: ""
+      ungerov: ""
+      csya_old: И# пріи1де (ко мнЁ) ґнанjа є3ди1нъ t брaтій мои1хъ съ м{жи їyдwвы, и3
+        вопроси1хъ и5хъ њ спaсшихсz, и5же њстaшасz t плэне1ніz, и3 њ їеrли1мэ.
+      sovr_rbo: пришел ко мне один из братьев моих, Ханани, вместе с людьми из Иудеи.
+        Я стал расспрашивать их об иудеях, которые уцелели и вернулись из плена,
+        а также об Иерусалиме.
+      latin: "Et venit Hanani unus de fratribus meis, ipse et viri ex Juda: et
+        interrogavi eos de Judaeis, qui remanserant, et supererant de
+        captivitate, et Jerusalem."
+      ukr: І прийшов Ханані, один із братів моїх, він та люди з Юдеї. І запитався я їх
+        про юдеїв, що врятувалися, що позостали від полону, та про Єрусалим.
+      nkjv: that Hanani one of my brethren came with men from Judah; and I asked them
+        concerning the Jews who had escaped, who had survived the captivity, and
+        concerning Jerusalem.
+      desnitsky: Ко мне пришел один из братьев моих, Ханани, а с ним – люди из Иудеи.
+        Я расспросил их об иудеях, уцелевших после изгнания, и об Иерусалиме.
+      mt: ‫    וַיָּבֹא חֲנָנִי אֶחָד מֵאַחַי הוּא וַאֲנָשִׁים מִיהוּדָה וָאֶשְׁאָלֵם
+        עַל־הַיְּהוּדִים הַפְּלֵיטָה אֲשֶׁר־נִשְׁאֲרוּ מִן־הַשֶּׁבִי
+        וְעַל־יְרוּשָׁלִָם׃ ‬
+      romana: Atunci a venit din Iuda Hanani, unul din fratii mei si alti cativa
+        oameni; si i-am intrebat despre cei ee scapasera din robie si ramasesera
+        in Iuda si despre Ierusalim.
+      francais: Hanani, l'un de mes frères, et quelques hommes arrivèrent de Juda. Je
+        les questionnai au sujet des Juifs réchappés qui étaient restés de la
+        captivité, et au sujet de Jérusalem.
+      italian: Canàni, uno dei miei fratelli, e alcuni altri uomini arrivarono dalla
+        Giudea. Li interrogai riguardo ai Giudei che erano rimpatriati,
+        superstiti della deportazione, e riguardo a Gerusalemme.
+      old_georgian: და მოვიდა ერთი ძმათა ჩემთაგანი ჩემდა, იგი და კაცნი იუდასნი, და
+        ვკითხე მათ ჴსნილთა მათთჳს, განრინებულთა ტყვეობისა მისგან
+        იერუსალემისათჳს.
+      portuguese: "que veio Hanâni, um de meus irmãos, com alguns de Judá; e
+        perguntei-lhes pelos judeus que tinham escapado e\rque restaram do
+        cativeiro, e acerca de Jerusalém."
+      polish: "przyszedł z Judy Chanani, jeden z braci moich, wraz z innymi. I
+        spytałem\rich o tych Żydów ocalałych, którzy uniknęli uprowadzenia, i o
+        Jerozolimie."
+      turkish: Kardeşlerimden Hanani ve bazı Yahudalılar yanıma geldi. Onlara
+        sürgünden kurtulup sağ kalan Yahudiler'i ve Yeruşalim'in durumunu
+        sordum.
+      nrt: Хананий – один из моих братьев, пришел из Иудеи с некоторыми другими
+        людьми, и я расспросил их об уцелевших жителях Иудеи, которые вернулись
+        из плена, и об Иерусалиме.
+      Macarius: И пришел Хананий, один из братьев моих, он и несколько человек из
+        Иудеи. И спросил я их об оставшихся Иудеях, которые остались от плена, и
+        об Иерусалиме.
+      serbian: "Овако вели Кир, цар Персијски: Сва царства земаљска дао ми је Господ
+        Бог небески, и он ми је заповједио да му сазидам дом у Јерусалиму у
+        Јудеји."
+      bulgarian: Тогава дойде Ханани, един от моите братя, - той и няколко души от
+        Иудея. И аз ги попитах за оцелелите иудеи, които не отидоха в плен, и за
+        Иерусалим.
+      deutsch: da kam Hanani, einer meiner Brüder, mit etlichen Männern aus Juda. Und
+        ich fragte sie, wie es den Juden ginge, die errettet und übrig waren von
+        der Gefangenschaft, und wie es zu Jerusalem ginge.
+      ukr2: прийшов Ханані, один із моїх братів, він і кілька чоловік із Юдеї. Я
+        спитав їх про юдеїв, що врятувались, що перетривали полон, та про
+        Єрусалим.
+      ukr3: І прийшов Ханані, один з братів моїх, він і кілька чоловіків з Юдеї. І
+        спитав я їх, як проживають Юдеї, що спаслись від полону і зістались, та
+        що дїєсь у Ерусалимі.
+      bel_syomukha: І прыйшоў Ханані, адзін з братоў маіх, ён і некалькі чалавек зь
+        Юдэі. І спытаўся я ў іх пра ацалелых Юдэяў, якія засталіся ад палону, і
+        пра Ерусалім.
+      spbda: И пришел Ханани, один из братьев моих, он и несколько человек из Иудеи. И
+        спросил я их об иудеях — об уцелевших; которые остались от плена, и об
+        Иерусалиме.
+      lev-khv: И пришел Ханани, один из братьев моих, он и <i>несколько</i> человек из
+        Иудеи. И спросил я их об Иудеях, об уцелевших, которые остались от
+        плена, и об Иерусалиме.
+      czech: prisel Chanani, jeden z mych bratru, s muzi z Judska. Zeptal jsem se jich
+        na Judejce, na ty zbyle, kteri usli zajeti, a na Jeruzalem.
+      spanish: llegaron de Judá Jananí y uno de mis hermanos con algunos otros. Yo les
+        pregunté por los judíos que habían sido libertados, los restos de la
+        cautividad y por Jerusalén.
+      greek-lxx: καὶ ἦλθεν Ανανι εἷς ἀπὸ ἀδελφῶν μου αὐτὸς καὶ ἄνδρες Ιουδα καὶ
+        ἠρώτησα αὐτοὺς περὶ τῶν σωθέντων οἳ κατελείφθησαν ἀπὸ τῆς αἰχμαλωσίας
+        καὶ περὶ Ιερουσαλημ
+      st_text: И пришел Ханани, один из братьев моих, он и <i>несколько</i> человек из
+        Иудеи. И спросил я их об уцелевших Иудеях, которые остались от плена, и
+        об Иерусалиме.
+  - id: 27553
+    number: 3
+    bookId: 16
+    text: "И сказали они мне: оставшиеся, которые остались от плена,
+      <i>находятся</i> там, в стране <i>своей</i>, в великом бедствии и в
+      уничижении; и стена Иерусалима разрушена, и ворота его сожжены огнем."
+    chapter: 1
+    chapterId: 414
+    parallels:
+      - verseId: 9160
+        bookId: 12
+        bookCode: 4a-kniga-carstv
+        chapter: 25
+        short: 4 Цар:25:10
+      - verseId: 6483
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 36
+        short: 2 Пар:36:19
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "И рекоша ми: оставшиися от пленения тамо во стране, во озлоблении велице
+        и в поношении, и стены Иерусалимския разорены, и врата его сожжена
+        огнем."
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# реко1ша ми2: њстaвшіисz t плэне1ніz тaмw во странЁ, во њѕлобле1ніи
+        вели1цэ и3 въ поноше1ніи, и3 стёны їеrли6мскіz разорє1ны, и3 вратA є3гw2
+        сожжє1на nгне1мъ."
+      sovr_rbo: "Они ответили мне: «Те, кто уцелели и вернулись из плена, там в нашей
+        области, терпят великие беды и унижения. Стены Иерусалима разрушены, а
+        ворота сожжены»."
+      latin: "Et dixerunt mihi: Qui remanserunt, et relicti sunt de captivitate ibi in
+        provincia, in afflictione magna sunt, et in opprobrio: et murus
+        Jerusalem dissipatus est, et portae ejus combustae sunt igni."
+      ukr: "А вони сказали мені: Позосталі, що лишилися з полону, там в окрузі, живуть
+        у великій біді та в ганьбі, а мур Єрусалиму поруйнований, а брами його
+        попалені огнем..."
+      nkjv: And they said to me, "The survivors who are left from the captivity in the
+        province are there in great distress and reproach. The wall of Jerusalem
+        is also broken down, and its gates are burned with fire."
+      desnitsky: "Он рассказали мне: «Те, кто пережил изгнание и находится теперь в
+        области Иудея, они в великой беде и унижении. Стены Иерусалима
+        разрушены, а врата – сожжены дотла»."
+      mt: ‫    וַיֹּאמְרוּ לִי הַנִּשְׁאָרִים אֲשֶׁר־נִשְׁאֲרוּ מִן־הַשְּׁבִי שָׁם
+        בַּמְּדִינָה בְּרָעָה גְדֹלָה וּבְחֶרְפָּה וְחוֹמַת יְרוּשָׁלִַם
+        מְפֹרָצֶת וּשְׁעָרֶיהָ נִצְּתוּ בָאֵשׁ׃ ‬
+      romana: '"Cei ce au scapat din robie si au ramas - imi spusera ei - sunt acolo,
+        in tara lor, in mare necaz si injosire; iar zidurile Ierusalimului sunt
+        daramate si portile lui arse".'
+      francais: "Ils me répondirent: Ceux qui sont restés de la captivité sont là dans
+        la province, au comble du malheur et de l'opprobre; les murailles de
+        Jérusalem sont en ruines, et ses portes sont consumées par le feu."
+      italian: 'Essi mi dissero: "I superstiti della deportazione sono là, nella
+        provincia, in grande miseria e abbattimento; le mura di Gerusalemme
+        restano piene di brecce e le sue porte consumate dal fuoco".'
+      old_georgian: "და მრქვა მე: განრინებულნი იგი ტყვეობისაგან მათისა მუნ არიან
+        სოფელსა თჳსსა დიდსა ჭირსა და ყვედრებასა, და ზღუდენი იერუსალემისანი
+        დგანან ეგრევე დაჴსნილნი და დარღვეულნი, და ბჭენი მისნი მომწვარ არიან
+        ცეცხლითა."
+      portuguese: "Eles me responderam: Os restantes que ficaram do cativeiro, lá na
+        província estão em grande aflição e opróbrio;\rtambém está derribado o
+        muro de Jerusalém, e as suas portas queimadas a fogo."
+      polish: "I powiedzieli mi: ”Ci pozostali, którzy w tamtejszym okręgu uniknęli
+        uprowadzenia, znajdują się w wielkiej biedzie i pohańbieniu; mur
+        Jerozolimy jest\rzburzony, a bramy jej są ogniem spalone”."
+      turkish: «Sürgünden kurtulup Yahuda İli'ne dönenler büyük sıkıntı ve utanç
+        içinde» diye karşılık verdiler, «Üstelik Yeruşalim surları yıkılmış,
+        kapıları yakılmış.»
+      nrt: "Они сказали мне: – Те, кто прошел через плен и вернулся в провинцию,
+        сейчас в большой беде и бесчестии. Стена Иерусалима разрушена, а его
+        ворота сожжены."
+      Macarius: "И сказали они мне: оставшиеся, которые остались от плена там на
+        земле, находятся в великом бедствии и презрении; и стена Иерусалима
+        разрушена и ворота его сожжены огнем."
+      serbian: Ко је између вас од свега народа његова? Бог небески нека буде с њим,
+        па нек иде у Јерусалим у Јудеји, и нека зида дом Господа Бога Израиљева,
+        Бога који је у Јерусалиму.
+      bulgarian: "И те ми казаха: останалите, които не отидоха в плен, се намират там,
+        в земята си, в голяма неволя и унижение; а стените на Иерусалим -
+        срутени, и портите му - с огън изгорени."
+      deutsch: "Und sie sprachen zu mir: Die übrigen von der Gefangenschaft sind
+        daselbst im Lande in großem Unglück und Schmach; die Mauern Jerusalems
+        sind zerbrochen und seine Tore mit Feuer verbrannt."
+      ukr2: "Вони ж мені відповіли: «Ті, що перетривали полон там, у краї, перебувають
+        у великих злиднях і приниженні; та й мур єрусалимський розвалений, і
+        брами його спалені вогнем.»"
+      ukr3: "І сказали вони менї: Ті, що зістались від полону, пробувають там, в своїх
+        сторонах, в великій бідї й в приниженнї; та й мур Ерусалимський
+        розвалений, й ворота його попалені огнем."
+      bel_syomukha: "І сказалі яны мне: пазасталыя, якія засталіся ад палону, там, у
+        краіне сваёй, у вялікім бедстве і ў прыніжэньні; і сьцяна Ерусаліма
+        разбурана і брамы яго спалены агнём."
+      spbda: "И сказали они мне: оставшиеся, которые остались от плена — там в области
+        своей, находятся в бедствии великом и в уничижении; и стена Иерусалима
+        разрушена и ворота его сожжены огнем."
+      lev-khv: "И сказали они мне: оставшиеся, которые остались от плена, там в
+        области, <i>находятся</i> в бедствии великом и в уничижении; и стена
+        Иерусалима разрушена, и ворота его сожжены огнем."
+      czech: 'Rekli mi: "Ti zbyli, kteri zustali tam v te krajine a nebyli zajati,
+        jsou vystaveni velike zlobe a potupe. Jeruzalemske hradby jsou poboreny
+        a brany zniceny ohnem."'
+      spanish: "Ellos me respondieron: <<Los restos de la cautividad están en la
+        provincia en gran miseria y afrenta. Las murallas de Jerusalén están
+        todavía en ruinas, y sus puertas quemadas por el fuego>>."
+      greek-lxx: καὶ εἴποσαν πρός με οἱ καταλειπόμενοι οἱ καταλειφθέντες ἀπὸ τῆς
+        αἰχμαλωσίας ἐκεῖ ἐν τῇ χώρᾳ ἐν πονηρίᾳ μεγάλῃ καὶ ἐν ὀνειδισμῷ καὶ τείχη
+        Ιερουσαλημ καθῃρημένα καὶ αἱ πύλαι αὐτῆς ἐνεπρήσθησαν ἐν πυρί
+      st_text: "И сказали они мне: оставшиеся, которые остались от плена,
+        <i>находятся</i> там, в стране <i>своей</i>, в великом бедствии и в
+        уничижении; и стена Иерусалима разрушена, и ворота его сожжены огнем."
+  - id: 27554
+    number: 4
+    bookId: 16
+    text: Услышав эти слова, я сел и заплакал, и печален был несколько дней, и
+      постился и молился пред Богом небесным
+    chapter: 1
+    chapterId: 414
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: И бысть егда услышах словеса сия, седох и плаках и рыдах дни (многи), и
+        бех постяся и моляся пред лицем Бога небеснаго,
+      averincev: ""
+      ungerov: ""
+      csya_old: И# бы1сть є3гдA ўслы1шахъ словесA сі‰, сэдо1хъ и3 плaкахъ и3 рыдaхъ
+        дни6 (мнHги), и3 бёхъ постsсz и3 молsсz пред8 лице1мъ бг7а нбcнагw,
+      sovr_rbo: Услышав это, я сел и заплакал. Несколько дней я был в скорби, постился
+        и молился Богу Небесному.
+      latin: "Cumque audissem verba hujuscemodi, sedi, et flevi, et luxi diebus
+        multis: jejunabam, et orabam ante faciem Dei caeli:"
+      ukr: І сталося, як почув я ці слова, сів я та й плакав, і був у жалобі кілька
+        днів, і постив, і молився перед лицем Небесного Бога.
+      nkjv: So it was, when I heard these words, that I sat down and wept, and mourned
+        for many days; I was fasting and praying before the God of heaven.
+      desnitsky: Когда я это услышал, то сел и зарыдал. Я несколько дней скорбел,
+        постился и молится Богу небесному
+      mt: ‫    וַיְהִי כְּשָׁמְעִי אֶת־הַדְּבָרִים הָאֵלֶּה יָשַׁבְתִּי וָאֶבְכֶּה
+        וָאֶתְאַבְּלָה יָמִים וָאֱהִי צָם וּמִתְפַּלֵּל לִפְנֵי אֱלֹהֵי
+        הַשָּׁמָיִם׃ ‬
+      romana: "Auzind eu cuvintele acestea, am inceput sa plang si am fost intristat
+        cateva zile, am postit si m-am rugat inaintea Dumnezeului ceresc,
+        zicand:"
+      francais: Lorsque j'entendis ces choses, je m'assis, je pleurai, et je fus
+        plusieurs jours dans la désolation. Je jeûnai et je priai devant le Dieu
+        des cieux,
+      italian: Udite queste parole, mi sedetti e piansi; feci lutto per parecchi
+        giorni, digiunando e pregando davanti al Dio del cielo.
+      old_georgian: და იყო, რაჟამს მესმეს მე სიტყუანი ესე, დავჯედ და ვსტიროდე და
+        ვიგლოვდი მრავალ დღე, ვიმარხევდი და თაყუანის-ვსცემდი წინაშე უფლისა
+        ღმრთისა ჩემისა ზეცათასა.
+      portuguese: "Tendo eu ouvido estas palavras, sentei-me e chorei, e lamentei por
+        alguns dias; e continuei a jejuar e orar perante\ro Deus do céu,"
+      polish: "I oto, gdy to usłyszałem, usiadłem, płakałem i trapiłem się całymi
+        dniami,\rpościłem i modliłem się w obecności Boga niebios."
+      turkish: "Bunları duyunca oturup ağladım, günlerce yas tuttum. Oruç tutup
+        Göklerin Tanrısı'na dua ettim:"
+      nrt: Услышав это, я сел и заплакал. Несколько дней я скорбел, постился и молился
+        пред Богом небесным.
+      Macarius: Услышав сии слова, я сел, и заплакал, и печален был несколько дней,
+        постился и молился пред Богом небес,
+      serbian: А ко би остао у којем год мјесту гдје се бави, нека га људи онога
+        мјеста потпомогну сребром и златом и имањем и стоком, осим драговољнога
+        прилога на дом Божји у Јерусалиму.
+      bulgarian: Като чух тия думи, седнах и заплаках, и бях печален няколко дена,
+        постих и молих се пред Бога небесни,
+      deutsch: Da ich aber solche Worte hörte, saß ich und weinte und trug Leid
+        etliche Tage und fastete und betete vor dem Gott des Himmels
+      ukr2: Отож, почувши ці слова, сів я й заплакав, і був смутний кілька днів.
+        Постив я також і молився до Бога неба,
+      ukr3: Почувши сї слова, сїв я й заплакав, і був смутний кілька день, і постив та
+        молився перед Богом небесним,
+      bel_syomukha: Пачуўшы гэтыя словы, я сеў і заплакаў, і засмучаны быў некалькі
+        дзён, і пасьціўся і маліўся прад Богам нябесным
+      spbda: Услышав слова сии, я сел, и заплакал, и печален был несколько дней, и
+        постился и молился пред Богом небесным,
+      lev-khv: И было, когда я услышал эти слов&#225;, сел я, и заплакал, и печалился
+        несколько дней, и постился, и молился пред Богом небесным,
+      czech: Kdyz jsem slysel ta slova, usedl jsem a plakal. Truchlil jsem nekolik
+        dni, postil jsem se pred Bohem nebes a modlil se k nemu.
+      spanish: Cuando oí esto, sentéme y lloré, y estuve por muchos días desolado.
+        Ayuné y oré ante el Dios de los cielos,
+      greek-lxx: καὶ ἐγένετο ἐν τῷ ἀκοῦσαί με τοὺς λόγους τούτους ἐκάθισα καὶ ἔκλαυσα
+        καὶ ἐπένθησα ἡμέρας καὶ ἤμην νηστεύων καὶ προσευχόμενος ἐνώπιον Θεοῦ τοῦ
+        οὐρανοῦ
+      st_text: Услышав эти слова, я сел и заплакал, и печален был несколько дней, и
+        постился и молился пред Богом небесным
+  - id: 27555
+    number: 5
+    bookId: 16
+    text: "и говорил: Господи Боже небес, Боже великий и страшный, хранящий завет и
+      милость к любящим Тебя и соблюдающим заповеди Твои!"
+    chapter: 1
+    chapterId: 414
+    parallels:
+      - verseId: 27950
+        bookId: 16
+        bookCode: kniga-neemii
+        chapter: 9
+        short: Неем:9:32
+      - verseId: 12986
+        bookId: 34
+        bookCode: kniga-proroka-daniila
+        chapter: 9
+        short: Дан:9:4
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и рекох: молю тя, Господи Боже небесный, крепкий, великий и страшный,
+        храняй завет и милосердие любящым тя и хранящым заповеди твоя:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 реко1хъ: молю2 тS, гDи б9е нбcный, крёпкій, вели1кій и3 стрaшный,
+        хранsй завётъ и3 млcрдіе лю1бzщымъ тS и3 хранsщымъ зaпwвэди тво‰:"
+      sovr_rbo: "Я говорил: «О Господь, Бог Небесный, Бог великий и страшный! Ты
+        соблюдаешь Свой договор с теми, кто любит Тебя и исполняет твои
+        повеления, Ты хранишь им верность!"
+      latin: "et dixi: Quaeso, Domine Deus caeli fortis, magne atque terribilis, qui
+        custodis pactum et misericordiam cum his qui te diligunt, et custodiunt
+        mandata tua:"
+      ukr: "І сказав я: Молю Тебе, Господи, Боже Небесний, Боже великий та грізний, що
+        дотримуєш заповіта та милість для тих, хто любить Тебе та дотримуєш
+        заповіді Свої,"
+      nkjv: 'And I said: "I pray, Lord God of heaven, O great and awesome God, You who
+        keep Your covenant and mercy with those who love You and observe Your
+        commandments,'
+      desnitsky: "такими словами: «Молю Тебя, ГОСПОДИ, Боже небесный, Боже великий и
+        страшный! Ты верно хранишь завет с теми, кто любит Тебя и соблюдает Твои
+        заповеди."
+      mt: ‫    וָאֹמַר אָנָּא יְהוָה אֱלֹהֵי הַשָּׁמַיִם הָאֵל הַגָּדוֹל וְהַנּוֹרָא
+        שֹׁמֵר הַבְּרִית וָחֶסֶד לְאֹהֲבָיו וּלְשֹׁמְרֵי מִצְוֺתָיו׃ ‬
+      romana: '"Doamne, Dumnezeule al cerurilor, Dumnezeul cel mare si infricosator,
+        Care pazesti legamantul Tau si esti milostiv cu cei ce Te iubesc si
+        pazesc poruncile Tale,'
+      francais: "et je dis: O Éternel, Dieu des cieux, Dieu grand et redoutable, toi
+        qui gardes ton alliance et qui fais miséricorde à ceux qui t'aiment et
+        qui observent tes commandements!"
+      italian: "E dissi: \"Signore, Dio del cielo, Dio grande e tremendo, che mantieni
+        l'alleanza e la misericordia con quelli che ti amano e osservano i tuoi
+        comandi,"
+      old_georgian: "და ვთქუ: უფალო ღმერთო ცისა და ქვეყანისაო, რომელი-ეგე ძლიერ ხარ,
+        დიდ და საშინელ, დაუმარხე აღთქმა შენი და წყალობაჲ მოყუარეთა შენთა და
+        რომელთა დაიცვეს სჯული შენი."
+      portuguese: "e disse: Ó Senhor, Deus do céu, Deus grande e temível, que guardas
+        o pacto e usas de misericórdia para com\raqueles que te amam e guardam
+        os teus mandamentos:"
+      polish: "I powiedziałem: ”Ach, Panie, Boże niebios, Boże wielki i straszny,
+        dotrzymujący przymierza i otaczający opieką tych, którzy Cię miłują i
+        zachowują\rTwoje przykazania."
+      turkish: «Ey Göklerin Tanrısı RAB! Yüce ve görkemli Tanrı! Seni sevenlerle,
+        buyruklarına uyanlarla yaptığın antlaşmaya bağlı kalırsın.
+      nrt: "Я говорил: – Господи, Боже небес, Бог великий и грозный, хранящий завет и
+        милость к тем, кто любит Его и слушается Его повелений,"
+      Macarius: "И говорил: О! Иегова, Боже небес, Бог великий и страшный, хранящий
+        завет и милость любящим Его и соблюдающим заповеди Его!"
+      serbian: Тада усташе главари породица отачких од Јуде и Венијамина, и свештеници
+        и Левити и сви којима Бог подиже дух да иду да зидају дом Господњи у
+        Јерусалиму.
+      bulgarian: "и думах: Господи, Боже небесний, Боже великий и страшний, Който
+        пазиш завет и милост към ония, които Те обичат и пазят Твоите заповеди!"
+      deutsch: "und sprach: Ach Herr, Gott des Himmels, großer und schrecklicher Gott,
+        der da hält den Bund und die Barmherzigkeit denen, die ihn lieben und
+        seine Gebote halten,"
+      ukr2: "і говорив: О Господи, Боже неба, Боже великий і страшний, що додержуєш
+        союз і милость тим, які тебе люблять і бережуть твої заповіді!"
+      ukr3: "І говорив: Господи, Боже небес, Боже великий і страшний, додержуючий
+        завіт і ласку тим, що люблять тебе й перестерігають заповідї твої!"
+      bel_syomukha: "і казаў: Госпадзе Божа нябёсаў, Божа вялікі і страшны, Які
+        захоўвае запавет і міласьць да тых, што любяць Цябе і захоўваюць наказы
+        Твае!"
+      spbda: "И говорил: «о, Господи, Боже небес, Бог великий и страшный, хранящий
+        завет и милость к любящим Его и к хранящим заповеди Его!"
+      lev-khv: "И говорил: о, Господи, Боже небес, Боже великий и страшный, хранящий
+        завет и милость к любящим Его и к соблюдающим заповеди Его!"
+      czech: 'Rikal jsem: "Ach, Hospodine, Boze nebes, Boze veliky a hrozny, ktery
+        zachovavas smlouvu a jsi milosrdny k tem, kdo te miluji a zachovavaji
+        tva prikazani.'
+      spanish: "diciendo: <<Ruégote, Yavé, Dios de los cielos, Dios grande y terrible,
+        que guardas tu alianza y haces misericordia con los que te aman y
+        guardan tus mandatos,"
+      greek-lxx: καὶ εἶπα μὴ δή Κύριε ὁ Θεὸς τοῦ οὐρανοῦ ὁ ἰσχυρὸς ὁ μέγας καὶ ὁ
+        φοβερός φυλάσσων τὴν διαθήκην καὶ τὸ ἔλεος τοῖς ἀγαπῶσιν αὐτὸν καὶ τοῖς
+        φυλάσσουσιν τὰς ἐντολὰς αὐτοῦ
+      st_text: "и говорил: Господи Боже небес, Боже великий и страшный, хранящий завет
+        и милость к любящим Тебя и соблюдающим заповеди Твои!"
+  - id: 27556
+    number: 6
+    bookId: 16
+    text: Да будут уши Твои внимательны и очи Твои отверсты, чтобы услышать молитву
+      раба Твоего, которою я теперь день и ночь молюсь пред Тобою о сынах
+      Израилевых, рабах Твоих, и исповедуюсь во грехах сынов Израилевых,
+      которыми согрешили мы пред Тобою, согрешили - и я и дом отца моего.
+    chapter: 1
+    chapterId: 414
+    parallels:
+      - verseId: 7543
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 8
+        short: 3 Цар:8:29
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "да будут уши твои внемлюще и очи твои отверсте, еже слышати молитву раба
+        твоего, еюже аз молюся пред тобою днесь, день и нощь, о сынех израилевых
+        рабех твоих: и исповедаюся о гресех сынов израилевых, имиже согрешихом
+        пред тобою, и аз и дом отца моего согрешихом:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "да бyдутъ ќши твои2 вне1млющэ и3 џчи твои2 tве1рстэ, є4же слы1шати
+        моли1тву рабA твоегw2, є4юже ѓзъ молю1сz пред8 тобо1ю дне1сь, де1нь и3
+        но1щь, њ сынёхъ ї}левыхъ рабёхъ твои1хъ: и3 и3сповёдаюсz њ грэсёхъ
+        сынHвъ ї}левыхъ, и4миже согрэши1хомъ пред8 тобо1ю, и3 ѓзъ и3 до1мъ nтцA
+        моегw2 согрэши1хомъ:"
+      sovr_rbo: Прислушайся, открой очи Свои, выслушай молитву раба Твоего! Ныне я
+        молю Тебя, денно и нощно, о сынах Израилевых, рабах Твоих, и исповедуюсь
+        в грехах Израиля. Мы грешны пред Тобою; грешен и я, и весь род мой.
+      latin: "fiant aures tuae auscultantes, et oculi tui aperti, ut audias orationem
+        servi tui, quam ego oro coram te hodie nocte et die pro filiis Israel
+        servis tuis: et confiteor pro peccatis filiorum Israel, quibus
+        peccaverunt tibi: ego et domus patris mei peccavimus,"
+      ukr: нехай же буде ухо Твоє чутке, а очі Твої відкриті, щоб прислухуватися до
+        молитви раба Твого, якою я молюся сьогодні перед Твоїм лицем день та ніч
+        за Ізраїлевих синів, Твоїх рабів, і сповідаюся в гріхах Ізраїлевих
+        синів, якими грішили ми проти Тебе, і я і дім батька мого грішили!
+      nkjv: "please let Your ear be attentive and Your eyes open, that You may hear
+        the prayer of Your servant which I pray before You now, day and night,
+        for the children of Israel Your servants, and confess the sins of the
+        children of Israel which we have sinned against You. Both my father's
+        house and I have sinned. "
+      desnitsky: Прислушайся со вниманием, вглядись пристально, услышь молитву о
+        служащем Тебе народе Израиля, которую я, Твой раб, обращаю к Тебе денно
+        и нощно! Я каюсь в грехах, которыми согрешили перед Тобой сыны Израилевы
+        – грешил и я, и дом отца моего.
+      mt: ‫    תְּהִי נָא אָזְנְךָ־קַשֶּׁבֶת וְעֵינֶיךָ פְתֻוּחוֹת‪‬ לִשְׁמֹעַ
+        אֶל־תְּפִלַּת עַבְדְּךָ אֲשֶׁר אָנֹכִי מִתְפַּלֵּל לְפָנֶיךָ הַיּוֹם
+        יוֹמָם וָלַיְלָה עַל־בְּנֵי יִשְׂרָאֵל עֲבָדֶיךָ וּמִתְוַדֶּה
+        עַל־חַטֹּאות בְּנֵי־יִשְׂרָאֵל אֲשֶׁר חָטָאנוּ לָךְ וַאֲנִי וּבֵית־אָבִי
+        חָטָאנוּ׃ ‬
+      romana: Sa fie urechile Tale cu luare-aminte si ochii Tai deschisi, ca sa auzi
+        rugaciunea robului Tau, cu care ma rog eu acum ziua si noaptea inaintea
+        Ta, pentru fiii lui Israel, robii Tai, marturisind pacatele fiilor lui
+        Israel, cu care am pacatuit inaintea Ta si eu si casa tatalui meu.
+      francais: "Que ton oreille soit attentive et que tes yeux soient ouverts: écoute
+        la prière que ton serviteur t'adresse en ce moment, jour et nuit, pour
+        tes serviteurs les enfants d'Israël, en confessant les péchés des
+        enfants d'Israël, nos péchés contre toi; car moi et la maison de mon
+        père, nous avons péché."
+      italian: siano i tuoi orecchi attenti, i tuoi occhi aperti per ascoltare la
+        preghiera del tuo servo; io prego ora davanti a te giorno e notte per
+        gli Israeliti, tuoi servi, confessando i peccati, che noi Israeliti
+        abbiamo commesso contro di te; anch'io e la casa di mio padre abbiamo
+        peccato.
+      old_georgian: იყვნედ ყურნი შენნი სმენად და თვალნი შენნი ხედვად, და აწ ისმინე და
+        იხილე ლოცვა მონისა შენისა, რომელთა მე დღეს შევსწირავ შენ წინაშე დღე და
+        ღამე ძეთა მათთჳს ისრაელისათა მონათა შენთა, რომელნი მიეცნეს ჭირსა ცოდვათა
+        ჩუენთათჳს, რომელი-იგი შეგცოდეთ მე და სახლმან მამისა ჩემისამან
+      portuguese: "Estejam atentos os teus ouvidos e abertos os teus olhos, para
+        ouvires a oração do teu servo, que eu hoje faço\rperante ti, dia e
+        noite, pelos filhos de Israel, teus servos, confessando eu os pecados
+        dos filhos de Israel, que\rtemos cometido contra ti; sim, eu e a casa de
+        meu pai pecamos;"
+      polish: "Niechże będzie ucho Twoje uważne i oczy Twoje niech będą otwarte,
+        abyś\rwysłuchał modlitwę sługi Twego, którą ja teraz dniem i nocą
+        zanoszę do\rCiebie za sługi Twoje, Izraelitów, składając wyznanie w
+        sprawie przestępstw\rIzraelitów, któreśmy wobec Ciebie popełnili;
+        również ja i mój ród zgrzeszyliśmy."
+      turkish: Ya RAB, halimi gör, gece gündüz kulların İsrail halkı için ettiğim
+        duaya kulak ver. İtiraf ediyorum, İsrail halkı günah işledi, ben ve
+        atalarım günah işledik.
+      nrt: да будут уши Твои внимательны и глаза Твои открыты, чтобы услышать молитву
+        Твоего слуги, которой я молюсь перед Тобой день и ночь за Твоих слуг,
+        народ Израиля. Я открыто признаюсь в грехах, которыми мы, израильтяне,
+        включая меня и дом моего отца, согрешили против Тебя.
+      Macarius: Да будет ухо Твое внимательно, и очи Твои открыты, чтобы слышать
+        молитву раба Твоего, которой ныне день и ночь молюсь пред Тобою о рабах
+        Твоих, сынах Израилевых, и исповедую грехи сынов Израилевых, которыми
+        грешили мы пред Тобою, грешили я и дом отца моего.
+      serbian: И потпомогоше их сви који бијаху око њих судовима сребрнијем и
+        златнијем, имањем и стоком и стварима скупоцјенијем, осим свега што
+        драговољно приложише.
+      bulgarian: Ушите Ти да бъдат внимателни и очите Ти отворени, за да чуят
+        молитвата на Твоя раб, с която сега се моля денем и нощем пред Тебе за
+        синовете Израилеви, Твои раби, и се изповядвам за греховете на синовете
+        Израилеви, с които съгрешихме пред Тебе, съгрешихме - и аз и домът на
+        отца ми.
+      deutsch: laß doch deine Ohren aufmerken und deine Augen offen sein, daß du hörst
+        das Gebet deines Knechtes, das ich nun vor dir bete Tag und Nacht für
+        die Kinder Israel, deine Knechte, und bekenne die Sünden der Kinder
+        Israel, die wir an dir getan haben; und ich und meines Vaters Haus haben
+        auch gesündigt.
+      ukr2: Нехай вухо твое буде уважне й очі твої відкриті, щоб вислухати молитву
+        слуги твого, якою я тепер день і ніч молюся до тебе за синів Ізраїля,
+        слуг твоїх, і сповідаюся у гріхах синів Ізраїля, якими ми перед тобою
+        Згрішили; я й дім батька мого згрішили.
+      ukr3: Нехай будуть уші твої вважливі й очі твої отворені, щоб вислухати молитву
+        слуги твого, якою я тепер день і ніч благаю тебе за синів Ізрайлевих,
+        слуг твоїх, і сповідаюсь в гріхах синів Ізрайлевих, якими согрішили ми
+        перед тобою, согрішили - й я і дім отця мого.
+      bel_syomukha: Хай будуць вушы Твае ўважлівыя і вочы Твае адкрытыя, каб пачуць
+        малітву раба Твайго, якою я цяпер дзень і ноч малюся прад Табою за сыноў
+        Ізраілевых, рабоў Тваіх, і спавядаюся ў грахах сыноў Ізраілевых, якімі
+        зграшылі мы прад Табою, зграшылі - і я і дом бацькі майго.
+      spbda: Да будет ухо Твое внимательно и очи Твои отверзты, чтобы слышать молитву
+        раба Твоего, какою я молюсь пред Тобою теперь день и ночь о сынах
+        израилевых, рабах Твоих, и исповедаюсь во грехах сынов израилевых,
+        которыми согрешили мы пред Тобою, — и я и дом отца моего согрешили.
+      lev-khv: Да будет ухо Твое внимательно и очи Твои отверзты, чтобы слышать
+        молитву раба Твоего, какою я молюсь пред Тобою теперь день и ночь о
+        сынах Израилевых, рабах Твоих, и исповедаюсь в грехах сынов Израилевых,
+        которыми согрешили мы пред Тобою, и я, и дом отца моего согрешили.
+      czech: Kez je tve ucho ochotne slyset a oci tve pohotove videt, abys vyslysel
+        modlitbu sveho sluzebnika, kterou se pred tebou modlim ustavicne dnem i
+        noci za syny Izraele, tvoje sluzebniky. Vyznavam hrichy synu
+        izraelskych, kterych jsme se proti tobe dopustili; hresili jsme i ja a
+        dum meho otce.
+      spanish: que esté atento tu oído y abiertos tus ojos para escuchar la oración
+        que tu siervo te dirige ahora, día y noche, por tus siervos los hijos de
+        Israel, confesando los pecados de Israel, nuestros pecados contra ti,
+        porque yo y la casa de mi padre hemos pecado,
+      greek-lxx: ἔστω δὴ τὸ οὖς σου προσέχον καὶ οἱ ὀφθαλμοί σου ἀνεῳγμένοι τοῦ
+        ἀκοῦσαι προσευχὴν δούλου σου ἣν ἐγὼ προσεύχομαι ἐνώπιόν σου σήμερον
+        ἡμέραν καὶ νύκτα περὶ υἱῶν Ισραηλ δούλων σου καὶ ἐξαγορεύω ἐπὶ ἁμαρτίαις
+        υἱῶν Ισραηλ ἃς ἡμάρτομέν σοι καὶ ἐγὼ καὶ ὁ οἶκος πατρός μου ἡμάρτομεν
+      st_text: Да будут уши Твои внимательны и очи Твои отверсты, чтобы услышать
+        молитву раба Твоего, которою я теперь день и ночь молюсь пред Тобою о
+        сынах Израилевых, рабах Твоих, и исповедуюсь во грехах сынов Израилевых,
+        которыми согрешили мы пред Тобою, согрешили - и я и дом отца моего.
+  - id: 27557
+    number: 7
+    bookId: 16
+    text: Мы стали преступны пред Тобою и не сохранили заповедей и уставов и
+      определений, которые Ты заповедал Моисею, рабу Твоему.
+    chapter: 1
+    chapterId: 414
+    parallels:
+      - verseId: 1090
+        bookId: 15
+        bookCode: 1a-kniga-ezdry
+        chapter: 9
+        short: 1 Езд:9:14
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "преступлением преступихом тебе и не сохранихом заповедий (твоих) и
+        повелений и судеб, яже повелел еси моисею рабу твоему:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "преступле1ніемъ преступи1хомъ тебЁ и3 не сохрани1хомъ зaповэдій
+        (твои1хъ) и3 повелёній и3 суде1бъ, ±же повелёлъ є3си2 мwmсе1ю рабY
+        твоемY:"
+      sovr_rbo: Тяжко провинились мы пред Тобою, не соблюдали мы повелений,
+        установлений и законов, которые Ты дал рабу Твоему Моисею.
+      latin: vanitate seducti sumus, et non custodivimus mandatum tuum, et
+        caeremonias, et judicia quae praecepisti Moysi famulo tuo.
+      ukr: Ми сильно провинилися перед Тобою, і не дотримували заповідей, і уставів, і
+        прав, які наказав Ти Мойсеєві, рабові Своєму.
+      nkjv: We have acted very corruptly against You, and have not kept the
+        commandments, the statutes, nor the ordinances which You commanded Your
+        servant Moses.
+      desnitsky: Преступники мы пред Тобой, что не соблюдали заповедей Твоих и
+        справедливых установлений, которые Ты заповедал служителю Своему Моисею.
+      mt: ‫    חֲבֹל חָבַלְנוּ לָךְ וְלֹא־שָׁמַרְנוּ אֶת־הַמִּצְוֺת וְאֶת־הַחֻקִּים
+        וְאֶת־הַמִּשְׁפָּטִים אֲשֶׁר צִוִּיתָ אֶת־מֹשֶׁה עַבְדֶּךָ׃ ‬
+      romana: Noi Te-am maniat si n-am pazit poruncile, legile si oranduielile pe care
+        le-ai dat Tu lui Moise, robul Tau.
+      francais: Nous t'avons offensé, et nous n'avons point observé les commandements,
+        les lois et les ordonnances que tu prescrivis à Moïse, ton serviteur.
+      italian: Ci siamo comportati male con te e non abbiamo osservato i comandi, le
+        leggi e le decisioni che tu hai dato a Mosè tuo servo.
+      old_georgian: ვცოდეთ და გარდასლვით გარდავჴედით და არა დავიმარხეთ სჯული შენი და
+        ბრძანებანი და განკითხვანი შენნი, რომელნი-იგი მამცენ ჩუენ ჴელითა მონისა
+        შენისა მოსესითა.
+      portuguese: "na verdade temos procedido perversamente contra ti, e não temos
+        guardado os mandamentos, nem os estatutos,\rnem os juízos, que ordenaste
+        a teu servo Moisés."
+      polish: "Bardzo źle postąpiliśmy wobec Ciebie: nie zachowaliśmy przykazań ani
+        praw,\rani przepisów, które wydałeś słudze Twemu Mojżeszowi."
+      turkish: Sana çok kötülük yaptık. Kulun Musa'ya verdiğin buyruklara, kurallara,
+        ilkelere uymadık.
+      nrt: Мы поступали перед Тобой нечестиво. Мы не слушались повелений, уставов и
+        законов, которые Ты дал Своему слуге Моисею.
+      Macarius: Мы были виновны пред Тобою, и не хранили заповедей, предписаний и
+        постановлений, которые Ты завещал рабу Твоему Моисею.
+      serbian: И цар Кир издаде судове дома Господњега које бијаше однио из Јерусалима
+        цар Навуходоносор и метнуо у дом својих богова;
+      bulgarian: Ние станахме престъпници пред Тебе и не спазихме ония заповеди,
+        устави и наредби, които бе дал на Моисея, Твоя раб.
+      deutsch: Wir haben an dir mißgehandelt, daß wir nicht gehalten haben die Gebote,
+        Befehle und Rechte, die du geboten hast deinem Knecht Mose.
+      ukr2: Тяжко образили ми тебе, не додержали ми заповідей, ні постанов, ні
+        законів, що ти заповідав єси Мойсеєві, слузі твоему.
+      ukr3: Ми проступились перед тобою й не додержали заповідей і постанов, і
+        законів, що дав єси Мойсейові, слузї твойму.
+      bel_syomukha: Мы сталі злачынныя прад Табою і не захавалі запаведзяў і
+        пастановаў і вызначэньняў, якія Ты наказаў Майсею, рабу Твайму.
+      spbda: Мы стали преступны пред Тобою и не сохранили заповедей, и уставов, и
+        определений, которыя Ты заповедал Моисею, рабу Твоему.
+      lev-khv: Мы стали преступны пред Тобою и не соблюдали заповедей, и уставов, и
+        определений, которыя Ты заповедал Моисею, рабу Твоему.
+      czech: Pocinali jsme si vuci tobe hanebne, nezachovavali jsme prikazani, rady a
+        prava, ktere jsi vydal svemu sluzebniku Mojzisovi.
+      spanish: te hemos ofendido y no hemos guardado los mandamientos, las leyes y los
+        preceptos que tú prescribiste a Moisés, tu siervo.
+      greek-lxx: διαλύσει διελύσαμεν πρὸς σὲ καὶ οὐκ ἐφυλάξαμεν τὰς ἐντολὰς καὶ τὰ
+        προστάγματα καὶ τὰ κρίματα ἃ ἐνετείλω τῷ Μωυσῇ παιδί σου
+      st_text: Мы стали преступны пред Тобою и не сохранили заповедей и уставов и
+        определений, которые Ты заповедал Моисею, рабу Твоему.
+  - id: 27558
+    number: 8
+    bookId: 16
+    text: "Но помяни слово, которое Ты заповедал Моисею, рабу Твоему, говоря:
+      <i>если</i> вы сделаетесь преступниками, то Я рассею вас по народам;"
+    chapter: 1
+    chapterId: 414
+    parallels:
+      - verseId: 36509
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 28
+        short: Втор:28:64
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "помяни убо слово, еже заповедал еси моисею рабу твоему глаголя: аще
+        преступите вы, аз расточу вы в люди,"
+      averincev: ""
+      ungerov: ""
+      csya_old: "помzни2 ў2бо сло1во, є4же заповёдалъ є3си2 мwmсе1ю рабY твоемY гlz:
+        ѓще престyпите вы2, ѓзъ расточY вы2 въ лю1ди,"
+      sovr_rbo: "Но вспомни, что Ты говорил рабу Твоему Моисею: „Если вы измените Мне,
+        Я рассею вас средь народов."
+      latin: "Memento verbi, quod mandasti Moysi servo tuo, dicens: Cum transgressi
+        fueritis, ego dispergam vos in populos:"
+      ukr: "Пам'ятай же те слово, що Ти наказав був Мойсеєві, Своєму рабові, говорячи:
+        як ви спроневіритеся, Я розпорошу вас поміж народами!"
+      nkjv: "Remember, I pray, the word that You commanded Your servant Moses, saying,
+        'If you are unfaithful, I will scatter you among the nations; "
+      desnitsky: "Но вспомни слово, которое Ты заповедал служителю Своему Моисею: “За
+        измену рассею вас среди народов,"
+      mt: ‫    זְכָר־נָא אֶת־הַדָּבָר אֲשֶׁר צִוִּיתָ אֶת־מֹשֶׁה עַבְדְּךָ לֵאמֹר
+        אַתֶּם תִּמְעָלוּ אֲנִי אָפִיץ אֶתְכֶם בָּעַמִּים׃ ‬
+      romana: 'Adu-Ti aminte insa de cuvantul pe care l-ai spus robului Tau Moise,
+        cand ai zis: "De veti pacatui, va voi imprastia printre popoare;'
+      francais: Souviens-toi de cette parole que tu donnas ordre à Moïse, ton
+        serviteur, de prononcer. Lorsque vous pécherez, je vous disperserai
+        parmi les peuples;
+      italian: "Ricordati della parola che hai affidato a Mosè tuo servo: Se sarete
+        infedeli, io vi disperderò fra i popoli;"
+      old_georgian: "მოიჴსენე, უფალო, სიტყუანი, რომელ ამცენ მოსეს, მონასა შენსა, სთქუ:
+        უკეთუ არა დაიმარხოთ სჯული ჩემი, და მე განგაბნინე თქუენ წარმართთა შორის."
+      portuguese: "Lembra-te, pois, da palavra que ordenaste a teu servo Moisés,
+        dizendo: Se vós transgredirdes, eu vos espalharei\rpor entre os povos;"
+      polish: "Wspomnijże na zapowiedź, którąś ogłosił słudze twemu Mojżeszowi:
+        ”Jeśli\rwy się sprzeniewierzycie, to Ja rozproszę was między narody."
+      turkish: «Kulun Musa'ya söylediklerini anımsa. Dedin ki, `Eğer bana ihanet
+        ederseniz, sizi ulusların arasına dağıtacağım.
+      nrt: "Вспомни повеление, которое Ты дал Своему слуге Моисею, сказав: «Если вы
+        нарушите верность, Я рассею вас среди народов,"
+      Macarius: "Вспомни слово, которое Ты изрек рабу Твоему Моисею, говоря: если вы
+        сделаетесь преступниками, то Я рассею вас по народам."
+      serbian: А издаде их Кир, цар Персијски, преко Митридата, ризничара, који их
+        изброји Сасавасару, кнезу Јудејском.
+      bulgarian: "Но спомни си думата, която бе дал на Моисея, Твоя раб, като каза:
+        ако станете престъпници, ще ви разпилея между народите,"
+      deutsch: "Gedenke aber doch des Wortes, das du deinem Knecht Mose gebotest und
+        sprachst: Wenn ihr euch versündigt, so will ich euch unter die Völker
+        streuen."
+      ukr2: "Згадай но про слово, що ти заповідав Мойсеєві, слузі твоему, казавши:
+        «Якщо провинитесь, я розсію вас між народами,"
+      ukr3: "Але спогадай на слово, яким заповів єси Мойсейові, слузї твойму,
+        глаголючи: Коли провинитесь, то розсїю вас поміж народами,"
+      bel_syomukha: "Але спамяні слова, якое Ты наказаў Майсею, рабу Твайму, кажучы:
+        калі вы зробіцеся злачынцамі, дык Я расьсею вас па народах,"
+      spbda: "Но помяни слово, которое Ты заповедал Моисею, рабу Твоему, говоря: если
+        вы сделаетесь преступниками, то Я разсею вас по народам;"
+      lev-khv: "Но помяни слово, которое Ты заповедал Моисею, рабу Твоему, говоря:
+        если вы сделаетесь преступниками, то Я разсею вас по народам;"
+      czech: "Rozpomen se prosim na slovo, ktere jsi prikazal svemu sluzebniku
+        Mojzisovi: ‚Zproneverite-li se, ja sam vas rozptylim mezi narody."
+      spanish: "Acuérdate de estas palabras que tú mandaste decir a Moisés, tu siervo:
+        Si pecareis, yo os dispersaré entre los pueblos;"
+      greek-lxx: μνήσθητι δὴ τὸν λόγον ὃν ἐνετείλω τῷ Μωυσῇ παιδί σου λέγων ὑμεῖς ἐὰν
+        ἀσυνθετήσητε ἐγὼ διασκορπιῶ ὑμᾶς ἐν τοῖς λαοῖς
+      st_text: "Но помяни слово, которое Ты заповедал Моисею, рабу Твоему, говоря:
+        <i>если</i> вы сделаетесь преступниками, то Я рассею вас по народам;"
+  - id: 27559
+    number: 9
+    bookId: 16
+    text: <i>когда</i> же обратитесь ко Мне и будете хранить заповеди Мои и
+      исполнять их, то хотя бы вы изгнаны были на край неба, и оттуда соберу вас
+      и приведу вас на место, которое избрал Я, чтобы водворить там имя Мое.
+    chapter: 1
+    chapterId: 414
+    parallels:
+      - verseId: 36048
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 12
+        short: Втор:12:11
+      - verseId: 36575
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 30
+        short: Втор:30:4
+      - verseId: 5287
+        bookId: 48
+        bookCode: 2a-kniga-makkavejskaa
+        chapter: 1
+        short: 2 Мак:1:29
+      - verseId: 5544
+        bookId: 48
+        bookCode: 2a-kniga-makkavejskaa
+        chapter: 2
+        short: 2 Мак:2:18
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и аще обратитеся ко мне и сохраните заповеди моя и сотворите я, аще будет
+        разсеяние ваше до конца небесе, оттуду соберу вы и введу вы в место, еже
+        избрах вселитися имени моему тамо:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 ѓще њбратите1сz ко мнЁ и3 сохраните2 зaпwвэди мо‰ и3 сотворите2 |,
+        ѓще бyдетъ разсёzніе вaше до концA небесе2, tтyду соберY вы2 и3 введY
+        вы2 въ мёсто, є4же и3збрaхъ всели1тисz и4мени моемY тaмw:"
+      sovr_rbo: Но если после этого вы обратитесь ко Мне, станете строго соблюдать и
+        исполнять Мои повеления, то Я соберу вас — будь вы заброшены хоть на
+        край неба — и приведу на то место, которое Я избрал, чтобы там обитало
+        имя Мое”.
+      latin: "et si revertamini ad me, et custodiatis praecepta mea, et faciatis ea:
+        etiamsi abducti fueritis ad extrema caeli, inde congregabo vos, et
+        reducam in locum, quem elegi ut habitaret nomen meum ibi."
+      ukr: Та коли навернетеся до Мене, і будете дотримувати заповіді Мої й виконувати
+        їх, то якщо будуть ваші вигнанці на краю небес, то й звідти позбираю їх,
+        і приведу до того місця, яке Я вибрав, щоб там перебувало Ім'я Моє!
+      nkjv: "but if you return to Me, and keep My commandments and do them, though
+        some of you were cast out to the farthest part of the heavens, yet I
+        will gather them from there, and bring them to the place which I have
+        chosen as a dwelling for My name.' "
+      desnitsky: но если вернетесь ко Мне, станете соблюдать Мои заповеди и поступать
+        по ним, то, будь вы даже изгнаны до самого края небес, соберу и приведу
+        на то место, которое Я избрал, чтобы наречь над ним Мое имя”.
+      mt: ‫    וְשַׁבְתֶּם אֵלַי וּשְׁמַרְתֶּם מִצְוֺתַי וַעֲשִׂיתֶם אֹתָם אִם־יִהְיֶה
+        נִדַּחֲכֶם בִּקְצֵה הַשָּׁמַיִם מִשָּׁם אֲקַבְּצֵם *והבואתים
+        **וַהֲבִיאוֹתִים אֶל־הַמָּקוֹם אֲשֶׁר בָּחַרְתִּי לְשַׁכֵּן אֶת־שְׁמִי
+        שָׁם׃ ‬
+      romana: Iar cand va veti intoarce la Mine si veti pazi poruncile Mele si le veti
+        implini, atunci, de ati fi izgoniti chiar si la marginea cerului, si de
+        acolo va voi aduna si va voi aduce la locul pe care l-am ales, ca sa-Mi
+        pun numele Meu acolo".
+      francais: mais si vous revenez à moi, et si vous observez mes commandements et
+        les mettez en pratique, alors, quand vous seriez exilés à l'extrémité du
+        ciel, de là je vous rassemblerai et je vous ramènerai dans le lieu que
+        j'ai choisi pour y faire résider mon nom.
+      italian: ma se tornerete a me e osserverete i miei comandi e li eseguirete,
+        anche se i vostri esiliati si trovassero all'estremi — tà
+        dell'orizzonte, io di là li raccoglierò e li ricondurrò al luogo che ho
+        scelto per farvi dimorare il mio nome.
+      old_georgian: უკუეთუ მოიქცეთ და დაიმარხოთ სჯული ჩემი, და ჰყვნეთ იგინი, და თუ
+        იყვნეთ განბნეულ ვიდრე კიდედმდე ქუეყანისა და მიერცა, შეგიკრიბნე თქუენ და
+        მოგიყვანნე თქუენ ადგილსა მას, რომელი-იგი გამოვირჩიე და სადა დამკჳდრებულ
+        არს სახელი ჩემი მას ზედა.
+      portuguese: "mas se vos converterdes a mim, e guardardes os meus mandamentos e
+        os cumprirdes, ainda que os vossos\rrejeitados estejam na extremidade do
+        céu, de lá os ajuntarei e os trarei para o lugar que tenho escolhido
+        para ali\rfazer habitar o meu nome."
+      polish: "Lecz jeśli się do Mnie nawrócicie i zważać będziecie na moje
+        przykazania, i\rbędziecie je wykonywali, to choćby rozproszeni wasi
+        znajdowali się na krańcu niebios, stamtąd zgromadzę ich i zaprowadzę na
+        miejsce, które wybrałem,\raby tam uczynić przybytek dla mego Imienia”."
+      turkish: Ama bana döner, buyruklarımı özenle yerine getirirseniz, dünyanın öbür
+        ucuna sürülmüş olsanız bile sizleri toplayıp seçtiğim yere, bulunacağım
+        yere getireceğim.'
+      nrt: но если вы вернетесь ко Мне и станете слушаться Моих повелений, то даже
+        если ваши изгнанники будут находиться на краю земли, Я соберу их оттуда
+        и приведу на место, которое Я избрал обителью для Моего Имени».
+      Macarius: Если же обратитесь ко Мне, и будете хранить Мои заповеди и исполнять
+        их, то, хотя бы вы были изгнаны на край неба, и оттуда возьму их, и
+        приведу их на место, которое я избрал, чтоб водворить там имя Мое.
+      serbian: "А ово им је број: здјела златнијех тридесет, здјела сребрнијех тисућа,
+        ножева двадесет и девет,"
+      bulgarian: а кога се обърнете към Мене и пазите Моите заповеди и ги изпълнявате,
+        то да сте изгонени и на край-небе, и оттам ще ви прибера и ще ви заведа
+        на мястото, що съм избрал, за да въдворя там името Си.
+      deutsch: Wo ihr euch aber bekehrt zu mir und haltet meine Gebote und tut sie,
+        und ob ihr verstoßen wäret bis an der Himmel Ende, so will ich euch doch
+        von da versammeln und will euch bringen an den Ort, den ich erwählt
+        habe, daß mein Name daselbst wohne.
+      ukr2: а навернетесь до мене й додержуватимете моїх заповідей і виконуватимете
+        їх, то хоч би ваші вигнанці були на краю неба, я звідтіль зберу їх і
+        приведу їх на місце, що вибрав собі, щоб мое ім'я там перебувало.»
+      ukr3: Коли ж обернетесь до мене й держати метесь заповідей моїх, і виконувати
+        їх, то хоч би ви були вигнані на край неба, я звідтїль зберу вас, і
+        приведу вас на місце, що вибрав собі, щоб імя моє там пробувало.
+      bel_syomukha: а калі зьвернецеся да Мяне і будзеце захоўваць запаведзі Мае і
+        выконваць іх, дык хоць бы вы былі выгнаныя на край зямлі, і адтуль
+        зьбяру вас і прывяду вас на месца, якое выбраў Я, каб уцьвердзіць там
+        імя Маё.
+      spbda: Если же обратитесь ко Мне и будете хранить заповеди Мои и исполнять их,
+        то, хотя бы изгнанные ваши были на краю неба, — и оттуда соберу их, и
+        приведу их на место, которое избрал Я, чтобы водворить имя Мое там.
+      lev-khv: Если же обратитесь ко Мне и будете хранить заповеди Мои и исполнять их,
+        то, хотя бы изгнанные ваши были на краю неба, и оттуда соберу их, и
+        приведу их на место, которое избрал Я, чтобы водворить имя Мое там.
+      czech: Kdyz se vsak obratite ke mne a budete ma prikazani zachovavat a podle
+        nich jednat, pak i kdyby nekteri z vas byli zahnani az na okraj sveta, i
+        odtamtud je shromazdim a privedu na misto, ktere jsem vyvolil, aby tam
+        prebyvalo me jmeno.'
+      spanish: pero si os volvéis a mí y guardáis mis mandamientos y los ponéis por
+        obra, aunque hubiereis sido desterrados a los confines de la tierra, de
+        allí os reuniré yo y os volveré al lugar que he elegido para hacer
+        residir en él mi nombre.
+      greek-lxx: καὶ ἐὰν ἐπιστρέψητε πρός με καὶ φυλάξητε τὰς ἐντολάς μου καὶ ποιήσητε
+        αὐτάς ἐὰν ᾖ ἡ διασπορὰ ὑμῶν ἀπ᾿ ἄκρου τοῦ οὐρανοῦ ἐκεῖθεν συνάξω αὐτοὺς
+        καὶ εἰσάξω αὐτοὺς εἰς τὸν τόπον ὃν ἐξελεξάμην κατασκηνῶσαι τὸ ὄνομά μου
+        ἐκεῖ
+      st_text: <i>когда</i> же обратитесь ко Мне и будете хранить заповеди Мои и
+        исполнять их, то хотя бы вы изгнаны были на край неба, и оттуда соберу
+        вас и приведу вас на место, которое избрал Я, чтобы водворить там имя
+        Мое.
+  - id: 27560
+    number: 10
+    bookId: 16
+    text: Они же рабы Твои и народ Твой, который Ты искупил силою Твоею великою и
+      рукою Твоею могущественною.
+    chapter: 1
+    chapterId: 414
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "и тии раби твои и людие твои, ихже искупил еси силою твоей великою и
+        рукою твоею крепкою:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 тjи раби2 твои2 и3 лю1діе твои2, и5хже и3скупи1лъ є3си2 си1лою
+        твое1й вели1кою и3 руко1ю твое1ю крёпкою:"
+      sovr_rbo: Ведь они — Твои рабы, Твой народ, Ты вызволил их Своей великой силой,
+        могучей рукой и сделал Своим народом!
+      latin: "Et ipsi servi tui, et populus tuus: quos redemisti in fortitudine tua
+        magna, et in manu tua valida."
+      ukr: А вони раби Твої та народ Твій, якого Ти викупив Своєю великою силою та
+        міцною Своєю рукою.
+      nkjv: Now these are Your servants and Your people, whom You have redeemed by
+        Your great power, and by Your strong hand.
+      desnitsky: Они рабы Твои, они Твой народ, которых Ты избавил своей великой
+        мощью, рукой могучей.
+      mt: ‫    וְהֵם עֲבָדֶיךָ וְעַמֶּךָ אֲשֶׁר פָּדִיתָ בְּכֹחֲךָ הַגָּדוֹל
+        וּבְיָדְךָ הַחֲזָקָה׃ ‬
+      romana: Acestia insa sunt robii Tai si poporul Tau, pe care Tu l-ai rascumparat
+        cu puterea Ta si cu mana Ta cea puternica.
+      francais: Ils sont tes serviteurs et ton peuple, que tu as rachetés par ta
+        grande puissance et par ta main forte.
+      italian: Ora questi sono tuoi servi e tuo popolo; tu li hai redenti con grande
+        potenza e con mano forte.
+      old_georgian: და აწ, ესერა, მონანი შენნი და ერი შენი, რომელი იჴსენ ძლიერებითა
+        შენითა და დიდითა ძალითა შენითა და მაღლითა მკლავითა
+      portuguese: Eles são os teus servos e o teu povo, que resgataste com o teu
+        grande poder e com a tua mão poderosa.
+      polish: "Albowiem oni są sługami Twoimi i ludem Twoim, który odkupiłeś
+        Twoją\rwielką mocą i potężną ręką."
+      turkish: «Onlar senin kulların, kendi halkındır. Yüce kudretin ve güçlü elinle
+        onları kurtardın.
+      nrt: Они – Твои слуги и Твой народ, который Ты искупил Своей великой силой и
+        могучей рукой.
+      Macarius: Притом они рабы Твои и Твой народ, который Ты искупил великою Твоею
+        силою и могущественною Твоею рукою.
+      serbian: Чаша златнијех тридесет, других чаша сребрнијех четири стотине и десет,
+        других судова тисућа;
+      bulgarian: А те са Твои раби и Твой народ, що си изкупил с великата Си сила и с
+        мощната Си ръка.
+      deutsch: Sie sind ja doch deine Knechte und dein Volk, die du erlöst hast durch
+        deine große Kraft und mächtige Hand.
+      ukr2: Таж вони твої слуги й народ твій, що ти його визволив твоею силою великою
+        й твоєю рукою могутньою.
+      ukr3: Та ж вони слуги твої й народ твій, що ти визволив силою твоєю великою і
+        рукою твоєю могучою.
+      bel_syomukha: А яны - рабы Твае і народ Твой, які Ты акупіў сілаю Тваёю вялікаю
+        і рукою Тваёю магутнаю.
+      spbda: Ведь они рабы Твои и народ Твой, который Ты искупил силою Твоею великою и
+        рукою Твоею могущественною!
+      lev-khv: Ведь они рабы Твои и народ Твой, который Ты искупил силою Твоею великою
+        и рукою Твоею могущественною.
+      czech: Vzdyt to jsou tvoji sluzebnici, tvuj lid, ktery jsi vykoupil svou velikou
+        moci a silnou rukou.
+      spanish: Son tus siervos, son tu pueblo, que redimiste tú con tu gran poder y tu
+        fuerte mano.
+      greek-lxx: καὶ αὐτοὶ παῖδές σου καὶ λαός σου οὓς ἐλυτρώσω ἐν δυνάμει σου τῇ
+        μεγάλῃ καὶ ἐν τῇ χειρί σου τῇ κραταιᾷ
+      st_text: Они же рабы Твои и народ Твой, который Ты искупил силою Твоею великою и
+        рукою Твоею могущественною.
+  - id: 27561
+    number: 11
+    bookId: 16
+    text: Молю Тебя, Господи! Да будет ухо Твое внимательно к молитве раба Твоего и
+      к молитве рабов Твоих, любящих благоговеть пред именем Твоим. И
+      благопоспеши рабу Твоему теперь, и введи его в милость у человека сего. Я
+      был виночерпием у царя.
+    chapter: 1
+    chapterId: 414
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "молю, Господи, да будет ухо твое внемлющее на молитву раба твоего и на
+        молитву рабов твоих хотящих боятися имене твоего: и благопоспеши убо
+        рабу твоему днесь, и даждь его в щедроты пред мужем сим. И аз бых
+        виночерпчий царев."
+      averincev: ""
+      ungerov: ""
+      csya_old: "молю2, гDи, да бyдетъ ќхо твое2 вне1млющее на моли1тву рабA твоегw2
+        и3 на моли1тву рабHвъ твои1хъ хотsщихъ боsтисz и4мене твоегw2: и3
+        бlгопоспэши2 ў2бо рабY твоемY дне1сь, и3 дaждь є3го2 въ щедрHты пред8
+        мyжемъ си1мъ. И# ѓзъ бы1хъ віноче1рпчій царе1въ."
+      sovr_rbo: "Прислушайся, Владыка, выслушай мольбу Твоего раба, мольбу рабов
+        Твоих, которые жаждут благоговеть пред именем Твоим. Сделай ныне так,
+        чтобы мне, рабу Твоему, все удалось: яви мне милость Твою, когда я
+        предстану перед этим человеком!» (Я был тогда виночерпием у царя.)"
+      latin: "Obsecro, Domine, sit auris tua attendens ad orationem servi tui, et ad
+        orationem servorum tuorum, qui volunt timere nomen tuum: et dirige
+        servum tuum hodie, et da ei misericordiam ante virum hunc: ego enim eram
+        pincerna regis."
+      ukr: Молю Тебе, Господи, нехай же буде ухо Твоє чутке до молитви Твойого раба та
+        до молитви Твоїх рабів, що прагнуть боятися Ймення Твого! І дай же
+        сьогодні успіху Своєму рабові, і дай знайти милосердя перед оцим мужем!
+        А я був чашником царевим.
+      nkjv: "O Lord, I pray, please let Your ear be attentive to the prayer of Your
+        servant, and to the prayer of Your servants who desire to fear Your
+        name; and let Your servant prosper this day, I pray, and grant him mercy
+        in the sight of this man.\" For I was the king's cupbearer. "
+      desnitsky: Молю тебя, ГОСПОДИ, преклони слух Твой к молитве Твоего раба и всех
+        Твоих рабов, кому отрадно благоговеть перед именем Твоим. Даруй ныне
+        успех рабу Твоему, и да отнесется милостив ко мне этот человек!» Я тогда
+        был виночерпием у царя.
+      mt: ‫    אָנָּא אֲדֹנָי תְּהִי נָא אָזְנְךָ־קַשֶּׁבֶת אֶל־תְּפִלַּת עַבְדְּךָ
+        וְאֶל־תְּפִלַּת עֲבָדֶיךָ הַחֲפֵצִים לְיִרְאָה אֶת־שְׁמֶךָ
+        וְהַצְלִיחָה־נָּא לְעַבְדְּךָ הַיּוֹם וּתְנֵהוּ לְרַחֲמִים לִפְנֵי
+        הָאִישׁ הַזֶּה וַאֲנִי הָיִיתִי מַשְׁקֶה לַמֶּלֶךְ׃ פ ‬
+      romana: Rogu-Te dar, o, Doamne, sa fie urechile Tale cu luare-aminte la
+        rugaciunea robului Tau si la rugaciunea robilor Tai, carora le place sa
+        se teama de numele Tau, si ajuta robului Tau acum si-i da sa dobandeasca
+        mila la omul acesta. Caci eu eram paharnicul regelui".
+      francais: Ah! Seigneur, que ton oreille soit attentive à la prière de ton
+        serviteur, et à la prière de tes serviteurs qui veulent craindre ton
+        nom!  Donne aujourd'hui du succès à ton serviteur, et fais-lui trouver
+        grâce devant cet homme! J'étais alors échanson du roi.
+      italian: Signore, siano i tuoi orecchi attenti alla preghiera del tuo servo e
+        alla preghiera dei tuoi servi, che desiderano temere il tuo nome;
+        concedi oggi buon successo al tuo servo e fagli trovare benevolenza
+        davanti a questo uomo". Io allora ero coppiere del re.
+      old_georgian: ნუ დაგუთხევ ჩუენ ჴელთაგან შენთასა, არამედ იყვნედ ყურნი შენნი
+        მოხედვად ლოცვასა მონათა შენთასა და ისმინე ვედრება მათი, რომელთა ეშინის,
+        უფალო, და წარმართე თხოვა ესე მონათა შენთა დღეს შენ წიაღ და მეც მე პოვნად
+        წყალობისა წინაშე ამის კაცისა, და ვიყავ მე ღვინისმნე მეფისა მის
+      portuguese: "Ó Senhor, que estejam atentos os teus ouvidos à oração do teu
+        servo, e à oração dos teus servos que se\rdeleitam em temer o teu nome;
+        e faze prosperar hoje o teu servo, e dá-lhe graça perante este homem.
+        (Era eu então\rcopeiro do rei.)"
+      polish: "Ach, Panie, niechże będzie ucho Twoje uważne na modlitwę Twojego
+        sługi\ri na modlitwę sług Twoich, pragnących czcić Twoje Imię!
+        Poszczęśćże teraz\rsłudze Twemu! Daj, abym pozyskał względy tego
+        człowieka”. Byłem bowiem\rpodczaszym królewskim."
+      turkish: "Ya Rab, bu kulunun, adını yüceltmekten sevinç duyan öbür kullarının
+        dualarına kulak ver. Beni bugün başarılı kıl ve kralın önerimi kabul
+        etmesini sağla.»\rO günlerde kralın sakisiydim."
+      nrt: Владыка, да будут уши Твои внимательны к молитве Твоего слуги и к молитве
+        Твоих слуг, которые любят чтить Твое Имя. Дай сегодня Твоему слуге
+        успех, даровав ему расположение этого человека. Я был виночерпием царя.
+      Macarius: О, Господи! да будет ухо Твое внимательно к молитве раба Твоего и к
+        молитве рабов Твоих, которые любят благоговеть пред именем Твоим. И дай
+        рабу Твоему ныне успех, и введи его в милость у человека сего. Я был
+        виночерпием у царя.
+      serbian: Свега судова златнијех и сребрнијех пет тисућа и четири стотине; све то
+        понесе Сасавасар кад се врати из Вавилона у Јерусалим.
+      bulgarian: Моля Ти се, Господи, да бъде ухото Ти внимателно към молитвата на
+        Твоя раб и към молитвата на Твоите раби, които охотно благоговеят пред
+        името Ти. Помогни сега на Твоя раб и го въведи в милост пред тоя човек.
+        - Аз бях виночерпец при царя.
+      deutsch: Ach Herr, laß deine Ohren aufmerken auf das Gebet deines Knechtes und
+        auf das Gebet deiner Knechte, die da begehren deinen Namen zu fürchten;
+        und laß es deinem Knecht heute gelingen und gib ihm Barmherzigkeit vor
+        diesem Manne! Denn ich war des Königs Schenke.
+      ukr2: О Господи! Нехай вухо твое буде уважливим на молитву слуги твого й на
+        молитву слуг твоїх, що хочуть шанувати твое ім'я. Зволь же допомогти
+        сьогодні слузі твоєму й дай йому запобігти ласки в цього чоловіка. - Я
+        бо був чашником у царя.
+      ukr3: Прошу ж тебе, Господи! нехай буде ухо твоє вважливе на молитву слуги твого
+        й на молитву слуг твоїх, що хотять шанувати імення твоє. І доп боможи
+        слузї твойму на сей час, та дай йому запобігти ласки в чоловіка сього, -
+        бо я був чашником у царя.
+      bel_syomukha: Малю Цябе, Госпадзе! хай будзе вуха Тваё ўважлівае да малітвы раба
+        Твайго і да малітвы рабоў Тваіх, якія любяць схіляцца перад імем Тваім.
+        І пасьпяшайся з дабром да раба Твайго цяпер, і ўвядзі яго ў міласьць у
+        чалавека гэтага. Я быў чашнікам у цара.
+      lev-khv: О, Господи! да будет же ухо Твое внимательно к молитве раба Твоего и к
+        молитве рабов Твоих, любящих благоговеть пред именем Твоим. И
+        благопоспеши рабу Твоему теперь, и введи его в милость у человека сего.
+        (Я же был виночерпием у царя.)
+      czech: Ach, Panovniku, kez je tve ucho ochotne vyslyset modlitbu tveho
+        sluzebnika i modlitbu tvych sluzebniku, kteri usiluji zit v bazni tveho
+        jmena. A doprej dnes zdaru svemu sluzebniku a dej mu najit u onoho muze
+        slitovani." Byl jsem totiz kralovskym cisnikem.
+      spanish: ¡Oh Señor! que esté atento tu oído a la plegaria de tu siervo y a la de
+        los siervos tuyos que desean temer tu nombre. Concede ahora próspero
+        suceso a tu siervo y haz que halle yo gracia a los ojos de este
+        hombre>>; pues servía yo entonces de copero al rey.
+      greek-lxx: μὴ δή Κύριε ἀλλ᾿ ἔστω τὸ οὖς σου προσέχον εἰς τὴν προσευχὴν τοῦ
+        δούλου σου καὶ εἰς τὴν προσευχὴν παίδων σου τῶν θελόντων φοβεῖσθαι τὸ
+        ὄνομά σου καὶ εὐόδωσον δὴ τῷ παιδί σου σήμερον καὶ δὸς αὐτὸν εἰς
+        οἰκτιρμοὺς ἐνώπιον τοῦ ἀνδρὸς τούτου καὶ ἐγὼ ἤμην οἰνοχόος τῷ βασιλεῖ
+      st_text: Молю Тебя, Господи! Да будет ухо Твое внимательно к молитве раба Твоего
+        и к молитве рабов Твоих, любящих благоговеть пред именем Твоим. И
+        благопоспеши рабу Твоему теперь, и введи его в милость у человека сего.
+        Я был виночерпием у царя.

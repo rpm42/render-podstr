@@ -1,0 +1,1567 @@
+id: 682
+number: 13
+bookId: 23
+verseCount: 26
+title: Глава 13
+verses:
+  - id: 29464
+    number: 1
+    bookId: 23
+    text: Мудрый сын [<i>слушает</i>] наставление отца, а буйный не слушает
+      обличения.
+    chapter: 13
+    chapterId: 682
+    parallels:
+      - verseId: 29526
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 15
+        short: Притч:15:2
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Сын благоразумный послушлив отцу, сын же непокорливый в погибель.
+      averincev: ""
+      ungerov: Благоразумный сын послушен отцу, а непокорный сын погибнет.
+      csya_old: Сы1нъ бlгоразyмный послушли1въ nтцY, сы1нъ же непокорли1вый въ поги1бель.
+      sovr_rbo: Мудрость сына — от отцовских наставлений, а наглец упреков не слышит.
+      latin: Filius sapiens doctrina patris, qui autem illusor est non audit cum
+        arguitur.
+      ukr: Син мудрий приймає картання від батька, а насмішник докору не слухає.
+      nkjv: "A wise son heeds his father's instruction, But a scoffer does not listen
+        to rebuke. "
+      desnitsky: ""
+      mt: ‫   בֵּן חָכָם מוּסַר אָב וְלֵץ לֹא־שָׁמַע גְּעָרָה׃ ‬
+      romana: Fiul intelept asculta de invatatura tatalui sau, iar cel batjocoritor
+        nici de mustrare.
+      francais: Un fils sage écoute l'instruction de son père, Mais le moqueur
+        n'écoute pas la réprimande.
+      italian: Il figlio saggio ama la disciplina, lo spavaldo non ascolta il
+        rimprovero.
+      old_georgian: შვილი გონიერი რჩეული არს მამისა, ხოლო ურჩი წარსაწყმედელსა მიეცეს.
+      portuguese: O filho sábio ouve a instrução do pai; mas o escarnecedor não escuta
+        a repreensão.
+      polish: Syn mądry miłuje karcenie, naśmiewca nie słucha nagany.
+      turkish: Bilge kişi terbiye edilmeyi sever, Alaycı kişi azarlansa da aldırmaz.
+      nrt: Мудрый сын принимает наставление своего отца, а глумливый упреков не
+        слушает.
+      Macarius: Мудрый сын был учен отцем; а распутный, верно, не слушался грозы.
+      serbian: Мудар син слуша наставу оца својега; а подсмјевач не слуша укора.
+      bulgarian: Мъдър син слуша бащина поука, а буен изобличение не слуша.
+      deutsch: Ein weiser Sohn läßt sich vom Vater züchtigen; aber ein Spötter
+        gehorcht der Strafe nicht.
+      ukr2: Мудрий син любить науку, | насмішник не слухає напоумлення.
+      ukr3: Син мудрий слухає батькової науки, а безпутний не слухає докору.
+      bel_syomukha: Мудры сын слухае бацькавых настаўленьняў; а насьмешнік ня слухае
+        засьцярогаў.
+      lev-khv: Мудрый сын учился у отца, а кощун не слушал обличения.
+      czech: Syn otcovskym karanim zmoudri, kdezto posmevac pohruzky neposloucha.
+      spanish: El hijo sabio ama la corrección, pero el petulante no escucha la
+        reprensión.
+      greek-lxx: υἱὸς πανοῦργος ὑπήκοος πατρί υἱὸς δὲ ἀνήκοος ἐν ἀπωλείᾳ
+      st_text: Мудрый сын [<i>слушает</i>] наставление отца, а буйный не слушает
+        обличения.
+  - id: 29465
+    number: 2
+    bookId: 23
+    text: От плода уст [<i>своих</i>] человек вкусит добро, душа же
+      законопреступников - зло.
+    chapter: 13
+    chapterId: 682
+    parallels:
+      - verseId: 29449
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 12
+        short: Притч:12:14
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "От плодов правды снесть благий: душы же беззаконных погибают
+        безвременно."
+      averincev: ""
+      ungerov: Добрый вкушает от плодов правды, души же беззаконных безвременно
+        погибают.
+      csya_old: "T плодHвъ прaвды снёсть бlгjй: дyшы же беззако1нныхъ погибaютъ
+        безвре1меннw."
+      sovr_rbo: Человек вкусит добрый плод своих речей, а коварные живут насилием.
+      latin: De fructu oris sui homo satiabitur bonis, anima autem praevaricatorum
+        iniqua.
+      ukr: З плоду уст чоловік споживає добро, а жадоба зрадливих насильство.
+      nkjv: A man shall eat well by the fruit of his mouth, But the soul of the
+        unfaithful feeds on violence.
+      desnitsky: ""
+      mt: ‫   מִפְּרִי פִי־אִישׁ יֹאכַל טוֹב וְנֶפֶשׁ בֹּגְדִים חָמָס׃ ‬
+      romana: Din rodul gurii sale omul mananca binele; pofta celor vicleni este
+        silnicia.
+      francais: Par le fruit de la bouche on jouit du bien; Mais ce que désirent les
+        perfides, c'est la violence.
+      italian: Del frutto della sua bocca l'uomo mangia ciò che è buono; l'appetito
+        dei perfidi si soddisfa con i soprusi.
+      old_georgian: ნაყოფისაგან სიმართლისა ჭამდეს შვილი სახიერი, ხოლო სულნი უშჯულოთანი
+        მოისრნენ უჟამოსა.
+      portuguese: Do fruto da boca o homem come o bem; mas o apetite dos
+        prevaricadores alimenta-se da violência.
+      polish: Z owocu swych ust spożywa się dobro, a gwałtem się sycą przewrotni.
+      turkish: İyi insan ağzından çıkan sözler için ödüllendirilir, Ama hainlerin
+        soluduğu zorbalıktır.
+      nrt: От плода своих уст человек вкушает благо, а лживые тяготеют к жестокости.
+      Macarius: От плода уст своих человек вкушает благо; а обида — душа
+        законопреступников.
+      serbian: Од плода уста својих сваки ће јести добро, а душа неваљалијех људи
+        насиље.
+      bulgarian: От плода на устата си човек ще вкуси добро, а душата на
+        законопрестъпниците - зло.
+      deutsch: Die Frucht des Mundes genießt man; aber die Verächter denken nur zu
+        freveln.
+      ukr2: Із плоду уст своїх людина добро їстиме; | жадання зрадників - насильство.
+      ukr3: Із плодів уст своїх насичуєсь чоловік добром, душа же проступників - зло.
+      bel_syomukha: Ад плоду вуснаў сваіх чалавек спажывае дабро, а душа здраднікаў
+        закона - зло.
+      lev-khv: От плодов уст человек вкусит блага, душа же беззаконников зло.
+      czech: Ovoce svych ust se kazdy dobre naji, duse verolomnych okusi nasili.
+      spanish: Del fruto de su boca comerá el hombre de bien; mas el deseo de los
+        pérfidos es la violencia.
+      greek-lxx: ἀπὸ καρπῶν δικαιοσύνης φάγεται ἀγαθός ψυχαὶ δὲ παρανόμων ὀλοῦνται ἄωροι
+      st_text: От плода уст [<i>своих</i>] человек вкусит добро, душа же
+        законопреступников - зло.
+  - id: 29466
+    number: 3
+    bookId: 23
+    text: Кто хранит уста свои, тот бережет душу свою; а кто широко раскрывает свой
+      рот, тому беда.
+    chapter: 13
+    chapterId: 682
+    parallels:
+      - verseId: 29639
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 18
+        short: Притч:18:21
+      - verseId: 29640
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 18
+        short: Притч:18:22
+      - verseId: 29747
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 21
+        short: Притч:21:23
+      - verseId: 3648
+        bookId: 57
+        bookCode: 1oe-poslanie-ap-petra
+        chapter: 3
+        short: 1 Пет:3:10
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Иже хранит своя уста, соблюдает свою душу: продерзивый же устнама
+        устрашит себе."
+      averincev: ""
+      ungerov: Кто хранит уста свои, тот бережет свою душу, смелый же на язык устрашит
+        самого себя.
+      csya_old: "И$же храни1тъ сво‰ ўстA, соблюдaетъ свою2 дyшу: проде1рзивый же
+        ўстнaма ўстраши1тъ себе2."
+      sovr_rbo: Кто свои уста стережет — жизнь сбережет, а кто несдержан на язык —
+        себя погубит.
+      latin: Qui custodit os suum custodit animam suam; qui autem inconsideratus est
+        ad loquendum, sentiet mala.
+      ukr: Хто уста свої стереже, той душу свою береже, а хто губи свої розпускає, на
+        того погибіль.
+      nkjv: He who guards his mouth preserves his life, But he who opens wide his lips
+        shall have destruction.
+      desnitsky: ""
+      mt: ‫   נֹצֵר פִּיו שֹׁמֵר נַפְשׁוֹ פֹּשֵׂק שְׂפָתָיו מְחִתָּה־לוֹ׃ ‬
+      romana: Cine isi pazeste gura isi pazeste sufletul sau; cel ce deschide prea
+        tare buzele o face spre pieirea lui.
+      francais: Celui qui veille sur sa bouche garde son âme; Celui qui ouvre de
+        grandes lèvres court à sa perte.
+      italian: Chi sorveglia la sua bocca conserva la vita, chi apre troppo le labbra
+        incontra la rovina.
+      old_georgian: რომელი ეკრძალებოდის პირსა თჳსსა, დაიცვას სული თჳსი; ხოლო
+        წარმდებმან ბაგითა შეაძრწუნოს თავი თჳსი.
+      portuguese: O que guarda a sua boca preserva a sua vida; mas o que muito abre os
+        seus lábios traz sobre si a ruína.
+      polish: Kto ust swych strzeże - ten strzeże życia, kto usta rozwiera - zgubi sam
+        siebie.
+      turkish: "Dilini tutan canını korur,\rAma boşboğazın sonu yıkımdır."
+      nrt: Стерегущий уста хранит свою жизнь, а говорящий опрометчиво себя погубит.
+      Macarius: Кто стережет уста свои, тот бережет душу свою; а кто широко растворяет
+        рот, тому беда.
+      serbian: Ко чува уста своја, чува своју душу; ко разваљује усне, пропада.
+      bulgarian: Който пази устата си, той варди душата си; а който широко разтваря
+        устата си, горко нему.
+      deutsch: Wer seinen Mund bewahrt, der bewahrt sein Leben; wer aber mit seinem
+        Maul herausfährt, der kommt in Schrecken.
+      ukr2: Хто стереже свої уста, той зберігає свою душу; | хто ж свого рота
+        невгамовно роззявляє, тому погибель
+      ukr3: "Хто стереже уста, той душу вберігає: хто ж рот свій широко отвирає, тому
+        біда."
+      bel_syomukha: Хто захоўвае вусны свае, той захоўвае душу сваю, а хто шырока свой
+        рот разьзяўляе, таму бяда.
+      lev-khv: Охраняющий уста свои оберегает жизнь свою, а необдуманно раскрывающему
+        уста свои погибель.
+      czech: Kdo hlida sva usta, strezi svuj zivot, kdo se posklebuje, toho stihne
+        zkaza.
+      spanish: El que guarda su boca guarda su vida; el que mucho abre sus labios
+        busca su ruina.
+      greek-lxx: ὃς φυλάσσει τὸ ἑαυτοῦ στόμα τηρεῖ τὴν ἑαυτοῦ ψυχήν ὁ δὲ προπετὴς
+        χείλεσιν πτοήσει ἑαυτόν
+      st_text: Кто хранит уста свои, тот бережет душу свою; а кто широко раскрывает
+        свой рот, тому беда.
+  - id: 29467
+    number: 4
+    bookId: 23
+    text: Душа ленивого желает, но тщетно; а душа прилежных насытится.
+    chapter: 13
+    chapterId: 682
+    parallels:
+      - verseId: 29749
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 21
+        short: Притч:21:25
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "В похотех есть всяк праздный: руки же мужественных в прилежании."
+      averincev: ""
+      ungerov: Всякий празднолюбец живет страстями, руки же мужественных — в работе.
+      csya_old: "Въ по1хотехъ є4сть всsкъ прaздный: рyки же мyжественныхъ въ прилэжaніи."
+      sovr_rbo: Лентяй все ждет, да не дождется, зато прилежный насытится.
+      latin: Vult et non vult piger; anima autem operantium impinguabitur.
+      ukr: Пожадає душа лінюха, та даремно, душа ж роботящих насититься.
+      nkjv: The soul of a lazy man desires, and has nothing; But the soul of the
+        diligent shall be made rich.
+      desnitsky: ""
+      mt: ‫   מִתְאַוָּה וָאַיִן נַפְשׁוֹ עָצֵל וְנֶפֶשׁ חָרֻצִים תְּדֻשָּׁן׃ ‬
+      romana: Sufletul celui lenes pofteste, insa in zadar. Numai sufletul celor
+        silitori este indestulat.
+      francais: L'âme du paresseux a des désirs qu'il ne peut satisfaire; Mais l'âme
+        des hommes diligents sera rassasiée.
+      italian: Il pigro brama, ma non c'è nulla per il suo appetito; l'appetito dei
+        diligenti sarà soddisfatto.
+      old_georgian: გულისთქუმათა შინა არს ყოველი უქმი, ხოლო ჴელნი მჴნეთანი მოღუაწებათა შინა.
+      portuguese: O preguiçoso deseja, e coisa nenhuma alcança; mas o desejo do
+        diligente será satisfeito.
+      polish: Serce leniwego czeka bez skutku, a pilnych zamiary stale się spełniają.
+      turkish: Tembel canının çektiğini elde edemez, Çalışkanın istekleriyse tümüyle
+        yerine gelir.
+      nrt: Лентяй желает и ничего не получает, а желания усердного исполняются до
+        конца.
+      Macarius: Душа ленивого желает, и нет ничего; а душа рачительных будет утучнена.
+      serbian: Жељна је душа љенивчева, али нема ништа; а душа вриједнијех људи
+        обогатиће се.
+      bulgarian: Душата на ленивеца желае, но напразно; а душата на прилежните ще се
+        насити.
+      deutsch: Der Faule begehrt und kriegt's doch nicht; aber die Fleißigen kriegen
+        genug.
+      ukr2: Душа лінивого жадає, та нічогісінько не має; | душа ж трудящих насититься.
+      ukr3: Душа в лїнивого жадає, та дармо, а душа трудящих засититься.
+      bel_syomukha: "Душа гультая жадае, але марна: а душа руплівых насыціцца."
+      lev-khv: Душа лениваго желает, но тщетно, душа же прилежных насытится.
+      czech: Lenoch jen touzi a niceho nedosahne, kdezto pilni se nasyti tukem.
+      spanish: Desea el haragán, pero nada logra, mas el alma del diligente se saciará.
+      greek-lxx: ἐν ἐπιθυμίαις ἐστὶν πᾶς ἀεργός χεῖρες δὲ ἀνδρείων ἐν ἐπιμελείᾳ
+      st_text: Душа ленивого желает, но тщетно; а душа прилежных насытится.
+  - id: 29468
+    number: 5
+    bookId: 23
+    text: Праведник ненавидит ложное слово, а нечестивый срамит и бесчестит
+      [<i>себя</i>].
+    chapter: 13
+    chapterId: 682
+    parallels:
+      - verseId: 30830
+        bookId: 22
+        bookCode: psaltir
+        chapter: 118
+        short: Пс:118:163
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Словесе неправедна ненавидит праведник: нечестивый же стыдится и не
+        возимет дерзновения."
+      averincev: ""
+      ungerov: Праведный ненавидит ложное слово, а нечестивый пристыдится и не
+        возъимеет смелости.
+      csya_old: "Словесе2 непрaведна ненави1дитъ првdникъ: нечести1вый же стыди1тсz и3
+        не воз8имётъ дерзнове1ніz."
+      sovr_rbo: Ненавидит праведник любую ложь, а нечестивец осрамится, опозорится.
+      latin: Verbum mendax justus detestabitur; impius autem confundit, et
+        confundetur.
+      ukr: Ненавидить праведний слово брехливе, безбожний же чинить лихе, і себе
+        засоромлює.
+      nkjv: A righteous man hates lying, But a wicked man is loathsome and comes to
+        shame.
+      desnitsky: ""
+      mt: ‫   דְּבַר־שֶׁקֶר יִשְׂנָא צַדִּיק וְרָשָׁע יַבְאִישׁ וְיַחְפִּיר׃ ‬
+      romana: Dreptul uraste cuvintele mincinoase; ticalosul aduce numai rusine si
+        ocara.
+      francais: Le juste hait les paroles mensongères; Le méchant se rend odieux et se
+        couvre de honte.
+      italian: Il giusto odia la parola falsa, l'empio calunnia e disonora.
+      old_georgian: სიტყუაჲ ცილისა სძულს მართალსა, ხოლო უღმრთოსა ჰრცხუენეს და არა ეცეს
+        კადნიერებაჲ.
+      portuguese: O justo odeia a palavra mentirosa, mas o ímpio se faz odioso e se
+        cobre de vergonha.
+      polish: Prawy się brzydzi słowem przewrotnym, źle i haniebnie czyni występny.
+      turkish: Doğru kişi yalandan nefret eder, Kötünün sözleriyse iğrençtir,
+        yüzkarasıdır.
+      nrt: Праведник ненавидит ложь, а неправедные приносят срам и бесчестие.
+      Macarius: Слова лжи ненавидит праведник; а беззаконник стыдит и срамит себя.
+      serbian: На лажну ријеч мрзи праведник, а безбожник се мрази и срамоти.
+      bulgarian: Праведник мрази лъжлива дума, а нечестивец срами и безчести себе си.
+      deutsch: Der Gerechte ist der Lüge feind; aber der Gottlose schändet und schmäht
+        sich selbst.
+      ukr2: Праведник слова брехливі ненавидить, | а злий поводиться безсоромно й
+        ганебно.
+      ukr3: Праведний ненавидить ложне слово, а безбожник соромить і безчестить.
+      bel_syomukha: Праведнік ненавідзіць ілжывае слова, а бязбожны сарамаціць і
+        ганьбіць сябе.
+      lev-khv: Праведный ненавидит ложное слово, нечестивый же срамит и безчестит.
+      czech: Spravedlivy nenavidi jakykoli klam, kdezto svevolnik vzbuzuje nelibost a
+        hnus.
+      spanish: Odia el justo toda palabra mentirosa, pero el impío se deshonra y cubre
+        de vergüenza.
+      greek-lxx: λόγον ἄδικον μισεῖ δίκαιος ἀσεβὴς δὲ αἰσχύνεται καὶ οὐχ ἕξει παρρησίαν
+      st_text: Праведник ненавидит ложное слово, а нечестивый срамит и бесчестит
+        [<i>себя</i>].
+  - id: 29469
+    number: 6
+    bookId: 23
+    text: Правда хранит непорочного в пути, а нечестие губит грешника.
+    chapter: 13
+    chapterId: 682
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Правда хранит незлобивыя: нечестивыя же злы творит грех."
+      averincev: ""
+      ungerov: Правда хранит незлобивых (в пути), грех же делает нечестивых злыми.
+      csya_old: "Прaвда храни1тъ неѕлHбивыz: нечести6выz же ѕлы6 твори1тъ грёхъ."
+      sovr_rbo: Праведность выведет на прямую дорогу, а нечестие грешника с пути собьет.
+      latin: Justitia custodit innocentis viam, impietas autem peccatorem supplantat.
+      ukr: Праведність оберігає невинного на дорозі його, а безбожність погублює
+        грішника.
+      nkjv: Righteousness guards him whose way is blameless, But wickedness overthrows
+        the sinner.
+      desnitsky: ""
+      mt: ‫   צְדָקָה תִּצֹּר תָּם־דָּרֶךְ וְרִשְׁעָה תְּסַלֵּף חַטָּאת׃ ‬
+      romana: Dreptatea pazeste calea omului fara prihana, iar faradelegea e pricina
+        ruinii celui pacatos.
+      francais: La justice garde celui dont la voie est intègre, Mais la méchanceté
+        cause la ruine du pécheur.
+      italian: La giustizia custodisce chi ha una condotta integra, il peccato manda
+        in rovina l'empio.
+      old_georgian: სიმართლემან დაიცვნის უმანკონი სლვასა შინა, ხოლო უღმრთონი
+        განაქიქნის ცოდვამან.
+      portuguese: A justiça guarda ao que é reto no seu caminho; mas a perversidade
+        transtorna o pecador.
+      polish: Prawość strzeże dróg niewinnego - a grzeszników powala nieprawość.
+      turkish: Doğruluk dürüst yaşayanı korur, Kötülük günahkârı yıkar.
+      nrt: Праведность хранит тех, чей путь прям, а нечестие губит грешника.
+      Macarius: Праведность охраняет того, которого путь чист, а нечестие низвергает
+        грешника.
+      serbian: Правда чува онога који ходи безазлено, а безбожност обара грјешника.
+      bulgarian: Правдата пази оногова, който ходи непорочно, а нечестието погубва
+        грешника.
+      deutsch: Die Gerechtigkeit behütet den Unschuldigen; aber das gottlose Wesen
+        bringt zu Fall den Sünder.
+      ukr2: Безвинного в путях пильнує правда; | грішника губить злоба.
+      ukr3: Безвинного в путях пильнує правда, а грішника губить безбожество.
+      bel_syomukha: Праўда ахоўвае беззаганнага ў дарозе, а бязбожнасьць губіць грэшнікаў.
+      lev-khv: Правда хранит идущаго непорочным путем, нечестие же губит грешника.
+      czech: Spravedlnost chrani toho, kdo zije bezuhonne, kdezto svevole vyvraci
+        hrisnika.
+      spanish: La justicia conserva íntegro al hombre; el pecado subvierte al pecador.
+      greek-lxx: δικαιοσύνη φυλάσσει ἀκάκους τοὺς δὲ ἀσεβεῖς φαύλους ποιεῖ ἁμαρτία
+      st_text: Правда хранит непорочного в пути, а нечестие губит грешника.
+  - id: 29470
+    number: 7
+    bookId: 23
+    text: Иной выдает себя за богатого, а у него ничего нет; другой выдает себя за
+      бедного, а у него богатства много.
+    chapter: 13
+    chapterId: 682
+    parallels:
+      - verseId: 29444
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 12
+        short: Притч:12:9
+      - verseId: 5195
+        bookId: 65
+        bookCode: 2oe-poslanie-k-korinfanam-ap-pavla
+        chapter: 6
+        short: 2 Кор:6:10
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Суть богатяще себе, ничесоже имуще: и суть смиряющеся во мнозе
+        богатстве."
+      averincev: ""
+      ungerov: Иные выдают себя за богатых, ничего не имея, а другие смиряют себя при
+        большом богатстве.
+      csya_old: "Сyть богатsще себе2, ничесHже и3мyще: и3 сyть смирsющесz во мно1зэ
+        богaтствэ."
+      sovr_rbo: Один, ничего не имея, притворится богачом, а другой, при богатстве
+        немалом, — бедняком.
+      latin: Est quasi dives, cum nihil habeat, et est quasi pauper, cum in multis
+        divitiis sit.
+      ukr: Дехто вдає багача, хоч нічого не має, а дехто вдає бідака, хоч маєток
+        великий у нього.
+      nkjv: There is one who makes himself rich, yet has nothing; And one who makes
+        himself poor, yet has great riches.
+      desnitsky: ""
+      mt: ‫   יֵשׁ מִתְעַשֵּׁר וְאֵין כֹּל מִתְרוֹשֵׁשׁ וְהוֹן רָב׃ ‬
+      romana: Unii se dau drept bogati si n-au nimic, altii trec drept saraci, cu
+        toate ca au multe averi.
+      francais: Tel fait le riche et n'a rien du tout, Tel fait le pauvre et a de
+        grands biens.
+      italian: C'è chi fa il ricco e non ha nulla; c'è chi fa il povero e ha molti beni.
+      old_georgian: არიან, რომელნი მდიდრად გამოაჩინებენ თავთა თჳსთა და არა რაჲ აქუნ,
+        და არიან, რომელთა დაიმდაბლიან თავნი თჳსნი მრავალსა შინა სიმდიდრესა.
+      portuguese: Há quem se faça rico, não tendo coisa alguma; e quem se faça pobre,
+        tendo grande riqueza.
+      polish: "Jeden udaje bogacza - nie mając niczego, [inny] udaje nędzarza - a
+        opływa\rw dobra."
+      turkish: Kimi hiçbir şeyi yokken kendini zengin gösterir, Kimi serveti çokken
+        kendini yoksul gösterir.
+      nrt: Один притворяется богатым, но ничего не имеет; другой притворяется бедным,
+        будучи очень богат.
+      Macarius: Иной представляет себя богатым, а совсем нет ничего; другой
+        представляется бедным, а имения много.
+      serbian: Има ко се гради богат а нема ништа, и ко се гради сиромах а има велико
+        благо.
+      bulgarian: Един се показва за богат, а няма нищо; друг се показва за беден, а
+        има много богатства.
+      deutsch: Mancher ist arm bei großem Gut, und mancher ist reich bei seiner Armut.
+      ukr2: Той вдає багатого, хоч нічогісінько не має, | а той бідного вдає, хоч він
+        і пребагатий.
+      ukr3: Той за багатого себе скрізь виставляє, а справдї він нїчого немає; инший
+        видає себе за бідного, а він пребагатий.
+      bel_syomukha: Сёй-той выдае сябе за багатага, а ў яго нічога няма; другі сябе за
+        беднага, а ў яго багацьця многа.
+      lev-khv: Иной выдает себя богатым, ничего не имея, а другой выдает себя бедным
+        при многом богатстве.
+      czech: Leckdo se vydava za bohateho, ackoli nic nema, nekdo se vydava za
+        chudeho, a ma velke jmeni.
+      spanish: Hay quien se las da de rico y no tiene nada, y quien, teniendo mucho,
+        se hace el pobre.
+      greek-lxx: εἰσὶν οἱ πλουτίζοντες ἑαυτοὺς μηδὲν ἔχοντες καὶ εἰσὶν οἱ ταπεινοῦντες
+        ἑαυτοὺς ἐν πολλῷ πλούτῳ
+      st_text: Иной выдает себя за богатого, а у него ничего нет; другой выдает себя
+        за бедного, а у него богатства много.
+  - id: 29471
+    number: 8
+    bookId: 23
+    text: Богатством своим человек выкупает жизнь [<i>свою</i>], а бедный и угрозы
+      не слышит.
+    chapter: 13
+    chapterId: 682
+    parallels:
+      - verseId: 29387
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 10
+        short: Притч:10:15
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Избавление мужа души свое ему богатство: нищий же не терпит прещения."
+      averincev: ""
+      ungerov: Выкупом за жизнь человека служит собственное (его) богатство, а бедный
+        и угрозы не претерпевает.
+      csya_old: "И#збавле1ніе мyжа души2 свое2 є3мY богaтство: ни1щій же не терпи1тъ
+        преще1ніz."
+      sovr_rbo: Богатство сохранит человеку жизнь, зато бедный упрека не услышит.
+      latin: Redemptio animae viri divitiae suae; qui autem pauper est, increpationem
+        non sustinet.
+      ukr: Викуп за душу людини багатство її, а вбогий й докору не чує.
+      nkjv: "The ransom of a man's life is his riches, But the poor does not hear
+        rebuke. "
+      desnitsky: ""
+      mt: ‫   כֹּפֶר נֶפֶשׁ־אִישׁ עָשְׁרוֹ וְרָשׁ לֹא־שָׁמַע גְּעָרָה׃ ‬
+      romana: Bogatia cuiva slujeste la rascumpararea lui; cel sarac nu se teme nici
+        chiar de amenintare.
+      francais: La richesse d'un homme sert de rançon pour sa vie, Mais le pauvre
+        n'écoute pas la réprimande.
+      italian: Riscatto della vita d'un uomo è la sua ricchezza, ma il povero non si
+        accorge della minaccia.
+      old_georgian: საჴსარ სულისა კაცისა თჳსი სიმდიდრე; ხოლო გლახაკმან ვერ დაუთმოს რისხვასა.
+      portuguese: O resgate da vida do homem são as suas riquezas; mas o pobre não tem
+        meio de se resgatar.
+      polish: Bogactwo okupem za życie człowieka, lecz tyran pogróżek nie słucha.
+      turkish: Kişinin serveti gün gelir canına fidye olur, Oysa yoksul kişi tehdide
+        aldırmaz.
+      nrt: Богатством можно выкупить жизнь человека, а бедняку и не угрожает никто.
+      Macarius: Человек выкупает жизнь богатством своим; а бедный не слышит грозы.
+      serbian: Откуп је за живот човјеку богатство његово, а сиромах не слуша пријетње.
+      bulgarian: С богатството си човек изкупва живота си, а бедният и заплаха не слуша.
+      deutsch: Mit Reichtum kann einer sein Leben erretten; aber ein Armer hört kein
+        Schelten.
+      ukr2: Викуп життя людини - її багатство; | бідний же загроженим не почувається.
+      ukr3: Багацтвом викуплює чоловік життє своє, а вбогий й грізьби не чує.
+      bel_syomukha: Багацьцем сваім чалавек адкупляе жыцьцё сваё, а бедны і пагрозы ня чуе.
+      lev-khv: Богатством человек спасает свою жизнь, а неслушавший обличения беден.
+      czech: Bohatstvim se clovek muze vyplatit, kdezto chudy vyhrozovani neslycha.
+      spanish: El rico con sus riquezas puede rescatar la vida, pero el pobre no
+        escucha la amonestación.
+      greek-lxx: λύτρον ἀνδρὸς ψυχῆς ὁ ἴδιος πλοῦτος πτωχὸς δὲ οὐχ ὑφίσταται ἀπειλήν
+      st_text: Богатством своим человек выкупает жизнь [<i>свою</i>], а бедный и
+        угрозы не слышит.
+  - id: 29472
+    number: 9
+    bookId: 23
+    text: Свет праведных весело горит, светильник же нечестивых угасает.
+    chapter: 13
+    chapterId: 682
+    parallels:
+      - verseId: 19103
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 18
+        short: Иов:18:6
+      - verseId: 29839
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 24
+        short: Притч:24:20
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Свет праведным всегда, свет же нечестивых угасает: души льстивыя
+        заблуждают во гресех, праведнии же щедрят и милуют."
+      averincev: ""
+      ungerov: Праведным всегда свет, светильник же нечестивых угасает. Души коварных
+        блуждают во грехах, а праведные сострадают и милуют.
+      csya_old: "Свётъ првdнымъ всегдA, свётъ же нечести1выхъ ўгасaетъ: дyши льсти6выz
+        заблуждaютъ во грэсёхъ, првdніи же ще1дрzтъ и3 ми1луютъ."
+      sovr_rbo: Свет праведных радостно горит, а светильник нечестивых гаснет.
+      latin: Lux justorum laetificat, lucerna autem impiorum extinguetur.
+      ukr: Світло праведних весело світить, а світильник безбожних погасне.
+      nkjv: The light of the righteous rejoices, But the lamp of the wicked will be
+        put out.
+      desnitsky: ""
+      mt: ‫   אוֹר־צַדִּיקִים יִשְׂמָח וְנֵר רְשָׁעִים יִדְעָךְ׃ ‬
+      romana: Lumina celor drepti lumineaza, pe cand sfesnicul celor fara de lege se
+        stinge.
+      francais: La lumière des justes est joyeuse, Mais la lampe des méchants s'éteint.
+      italian: La luce dei giusti allieta, la lucerna degli empi si spegne.
+      old_georgian: ნათელი მრავალთა მარადის, ხოლო ნათელი უღმრთოთა დაშრტეს; სულნი
+        მზაკვარნი შესცთენ ცოდვასა შინა, ხოლო მართალთა ეწყალინ და სწყალობნ.
+      portuguese: A luz dos justos alegra; porem a lâmpada dos ímpios se apagará.
+      polish: Wesoło błyszczy światło sprawiedliwych, a lampa niewiernych przygasa.
+      turkish: "Doğruların ışığı parlak yanar,\rKötülerin çırası söner."
+      nrt: Свет праведных светит весело, а светильник нечестивых гаснет.
+      Macarius: Весел свет праведных, а светильник беззаконных гаснет.
+      serbian: Видјело праведничко свијетли се, а жижак безбожнички угасиће се.
+      bulgarian: Светлината на праведниците свети весело, а светилото на нечестивите
+        угасва. (Коварните души се лутат в грехове, а праведниците се смиляват и
+        милуват.)
+      deutsch: Das Licht der Gerechten brennt fröhlich; aber die Leuchte der Gottlosen
+        wird auslöschen.
+      ukr2: Світло праведних звеселить, | а свічка злих погасне.
+      ukr3: Сьвітло праведних весело горить, у безбожних же сьвічник потухає.
+      bel_syomukha: Сьвятло праведных весела гарыць; а сьветач бязбожных тухне.
+      lev-khv: Свет праведных блистателен, светильник же нечестивых погаснет.
+      czech: Svetlo spravedlivych radostne zari, kdezto svevolnikum svitilna hasne.
+      spanish: La luz del justo alegra; pero la lámpara del impío se extinguirá.
+      greek-lxx: φῶς δικαίοις διὰ παντός φῶς δὲ ἀσεβῶν σβέννυται [1] ψυχαὶ δόλιαι
+        πλανῶνται ἐν ἁμαρτίαις δίκαιοι δὲ οἰκτίρουσιν καὶ ἐλεῶσιν
+      st_text: Свет праведных весело горит, светильник же нечестивых угасает.
+  - id: 29473
+    number: 10
+    bookId: 23
+    text: От высокомерия происходит раздор, а у советующихся - мудрость.
+    chapter: 13
+    chapterId: 682
+    parallels:
+      - verseId: 29961
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 28
+        short: Притч:28:25
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Злый с досаждением творит злая: себе же знающии премудри (суть)."
+      averincev: ""
+      ungerov: Злой от высокомерия делает зло, а знающие себя самих — мудры.
+      csya_old: "Ѕлы1й съ досажде1ніемъ твори1тъ ѕл†z: себе1 же знaющіи премyдри (сyть)."
+      sovr_rbo: От надменности — только ссоры, а где совет, там и мудрость.
+      latin: Inter superbos semper jurgia sunt; qui autem agunt omnia cum consilio,
+        reguntur sapientia.
+      ukr: Тільки сварка пихою зчиняється, а мудрість із тими, хто радиться.
+      nkjv: By pride comes nothing but strife, But with the well-advised is wisdom.
+      desnitsky: ""
+      mt: ‫   רַק־בְּזָדוֹן יִתֵּן מַצָּה וְאֶת־נוֹעָצִים חָכְמָה׃ ‬
+      romana: Mandria nu da prilej decat la cearta, intelepciunea se afla numai la cei
+        ce primesc sfaturi.
+      francais: C'est seulement par orgueil qu'on excite des querelles, Mais la
+        sagesse est avec ceux qui écoutent les conseils.
+      italian: L'insolenza provoca soltanto contese, la sapienza si trova presso
+        coloro che prendono consiglio.
+      old_georgian: უგუნური იქმს მტერობით ბოროტსა, ხოლო სიმართლისა მზრახველი თავით
+        თვისით ბრძენ არნ.
+      portuguese: Da soberba só provém a contenda; mas com os que se aconselham se
+        acha a sabedoria.
+      polish: Skutkiem pychy stale są kłótnie, u szukających rady jest mądrość.
+      turkish: "Kibirden ancak kavga çıkar,\rÖğüt dinleyense bilgedir."
+      nrt: Высокомерие только рождает ссоры, а мудрость у тех, кто внимает советам.
+      Macarius: Только чрез гордость ссора заводится, а у доступных для совета —
+        премудрость.
+      serbian: Од охолости бива само свађа, а који примају савјет, у њих је мудрост.
+      bulgarian: От високомерие произлиза раздор, а мъдростта е с ония, които се съветват.
+      deutsch: Unter den Stolzen ist immer Hader; aber Weisheit ist bei denen, die
+        sich raten lassen.
+      ukr2: Гордість доводить до сварки, | а мудрість із тими, хто слухає пораду.
+      ukr3: Між гордими - одні тільки сварки, а хто чинить усе за порадою - у тих
+        мудрість.
+      bel_syomukha: Ад пыхі паходзіць разлад, а ў тых, што раяцца, - мудрасьць.
+      lev-khv: Только от высокомерия происходит раздор, мудрость же — с принимающими
+        совет.
+      czech: Ze zpupnosti vznika jen hadka, kdezto u tech, kdo si daji poradit, je
+        moudrost.
+      spanish: La soberbia sólo contiendas ocasiona, pero es sabio quien toma consejo.
+      greek-lxx: κακὸς μεθ᾿ ὕβρεως πράσσει κακά οἱ δὲ ἑαυτῶν ἐπιγνώμονες σοφοί
+      st_text: От высокомерия происходит раздор, а у советующихся - мудрость.
+  - id: 29474
+    number: 11
+    bookId: 23
+    text: Богатство от суетности истощается, а собирающий трудами умножает его.
+    chapter: 13
+    chapterId: 682
+    parallels:
+      - verseId: 29944
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 28
+        short: Притч:28:8
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Имение поспешаемо со беззаконием умалено бывает, собираяй же себе со
+        благочестием изобильствовати будет: праведный щедрит и дает."
+      averincev: ""
+      ungerov: Имение с беззаконием и спешно накопляемое умалится, а с благочестием
+        себе собирающий умножит (его). Праведный сострадает и одолжает.
+      csya_old: "И#мёніе поспэшaемо со беззако1ніемъ ўмaлено бывaетъ, собирazй же себЁ
+        со бlгоче1стіемъ и3з8wби1льствовати бyдетъ: првdный ще1дритъ и3 дае1тъ."
+      sovr_rbo: Шальное богатство рассеется, а по крупице собранное — приумножится.
+      latin: Substantia festinata minuetur; quae autem paulatim colligitur manu,
+        multiplicabitur.
+      ukr: Багатство, заскоро здобуте, поменшується, хто ж збирає помалу примножує.
+      nkjv: Wealth gained by dishonesty will be diminished, But he who gathers by
+        labor will increase.
+      desnitsky: ""
+      mt: ‫   הוֹן מֵהֶבֶל יִמְעָט וְקֹבֵץ עַל־יָד יַרְבֶּה׃ ‬
+      romana: Bogatia adunata in graba se imputineaza, numai cel ce-o aduna pe incetul
+        o inmulteste.
+      francais: La richesse mal acquise diminue, Mais celui qui amasse peu à peu
+        l'augmente.
+      italian: Le ricchezze accumulate in fretta diminuiscono, chi le raduna a poco a
+        poco le accresce.
+      old_georgian: სიმდიდრე უშჯულოებით შეკრებული მოაკლდეს, ხოლო სარწმუნოებით
+        შემყარებულნი განუმრავლებენ თავთა თვისთა; მართალი დგეს სასოებით, ეწყალინ
+        და ავასხის.
+      portuguese: A riqueza adquirida às pressas diminuíra; mas quem a ajunta pouco a
+        pouco terá aumento.
+      polish: "Przepadnie bogactwo podstępnie zagarnięte, a krok za krokiem zdobywane
+        -\rrośnie."
+      turkish: Havadan kazanılan para yok olur, Azar azar biriktirenin serveti çok olur.
+      nrt: Тает богатство, что быстро нажито, а копящий мало-помалу накопит много.
+      Macarius: Имение умаляется от суетности; а собирающий на руку умножит его.
+      serbian: Благо које се таштином тече, умањава се, а ко сабира руком, умножава.
+      bulgarian: Богатство, спечелено с беззаконие, намалява, а който събира с труд,
+        го увеличава.
+      deutsch: Reichtum wird wenig, wo man's vergeudet; was man aber zusammenhält, das
+        wird groß.
+      ukr2: Майно, швидко нажите, пропадає; | а хто збирає поволі, той багатіє.
+      ukr3: Богацтво легко нажите пропадає, хто ж трудом доробляєсь, намножує його.
+      bel_syomukha: Багацьце ад марнасьці памяншаецца, а хто зьбірае працаю, памнажае яго.
+      lev-khv: Пустые расходы уменьшают богатство, а собирающий мало по малу умножает.
+      czech: Jmeni snadno nabyte se zmensuje, kdezto kdo shromazduje vlastni praci,
+        tomu pribyva.
+      spanish: Riqueza hecha de prisa, se va; el que poco a poco allega, crece.
+      greek-lxx: ὕπαρξις ἐπισπουδαζομένη μετὰ ἀνομίας ἐλάσσων γίνεται ὁ δὲ συνάγων
+        ἑαυτῷ μετ᾿ εὐσεβείας πληθυνθήσεται δίκαιος οἰκτίρει καὶ κιχρᾷ
+      st_text: Богатство от суетности истощается, а собирающий трудами умножает его.
+  - id: 29475
+    number: 12
+    bookId: 23
+    text: Надежда, долго не сбывающаяся, томит сердце, а исполнившееся желание -
+      [<i>как</i>] древо жизни.
+    chapter: 13
+    chapterId: 682
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Лучше начинаяй помогати сердцем обещающаго и в надежду ведущаго: древо бо
+        жизни желание доброе."
+      averincev: ""
+      ungerov: Лучше начинающий от сердца помогать, чем обещающий и подающий надежду,
+        ибо древо жизни — доброе желание.
+      csya_old: "Лyчше начинazй помогaти се1рдцемъ њбэщaющагw и3 въ наде1жду ведyщагw:
+        дре1во бо жи1зни желaніе до1брое."
+      sovr_rbo: Несбывшаяся надежда — боль сердца, а исполненное желание — древо жизни.
+      latin: Spes quae differtur affligit animam; lignum vitae desiderium veniens.
+      ukr: Задовга надія недуга для серця, а бажання, що сповнюється, це дерево життя.
+      nkjv: Hope deferred makes the heart sick, But when the desire comes, it is a
+        tree of life.
+      desnitsky: ""
+      mt: ‫   תּוֹחֶלֶת מְמֻשָּׁכָה מַחֲלָה־לֵב וְעֵץ חַיִּים תַּאֲוָה בָאָה׃ ‬
+      romana: Asteptarea prea indelungata imbolnaveste inima, iar dorinta implinita
+        este pom al vietii.
+      francais: Un espoir différé rend le coeur malade, Mais un désir accompli est un
+        arbre de vie.
+      italian: Un'attesa troppo prolungata fa male al cuore, un desiderio soddisfatto
+        è albero di vita.
+      old_georgian: რომელი შეეწიოს გლახაკსა, გულკეთილ-ჰყოფს და სასოდ აღადგენს.
+      portuguese: A esperança adiada entristece o coração; mas o desejo cumprido é
+        árvore devida.
+      polish: "Przewlekłe czekanie jest raną dla duszy, ziszczone pragnienie jest
+        drzewem\rżycia."
+      turkish: Ertelenen umut hayal kırıklığına uğratır, Yerine gelen dilekse yaşam
+        verir.
+      nrt: Не сбывающаяся надежда томит сердце, а сбывшееся желание – дерево жизни.
+      Macarius: Долгое ожидание томит сердце, а исполнившееся желание есть древо жизни.
+      serbian: Дуго надање мори срце, и жеља је испуњена дрво животно.
+      bulgarian: Надежда, дълго несбъдвана, изнурява сърцето, а изпълнено желание е
+        като дърво за живот.
+      deutsch: Die Hoffnung, die sich verzieht, ängstet das Herz; wenn's aber kommt,
+        was man begehrt, das ist wie ein Baum des Lebens.
+      ukr2: Відсунута надія - мука серця; | а здійснене бажання - дерево життя.
+      ukr3: Надїя, коли довго тріває, мучить серце, а справджене бажаннє - се дерево
+        жизнї.
+      bel_syomukha: Надзея, якая доўга ня праўдзіцца, стамляе сэрца, а жаданьне, якое
+        споўнілася, - як дрэва жыцьця.
+      lev-khv: Надежда при долгом ожидании заставляет болеть сердце, а исполнившееся
+        желание дерево жизни.
+      czech: Dlouhym cekanim zemdliva srdce, kdezto splnena touha je stromem zivota.
+      spanish: Esperanza que se dilata aflige el corazón; deseo satisfecho es árbol de
+        vida.
+      greek-lxx: κρείσσων ἐναρχόμενος βοηθῶν καρδίᾳ τοῦ ἐπαγγελλομένου καὶ εἰς ἐλπίδα
+        ἄγοντος δένδρον γὰρ ζωῆς ἐπιθυμία ἀγαθή
+      st_text: Надежда, долго не сбывающаяся, томит сердце, а исполнившееся желание -
+        [<i>как</i>] древо жизни.
+  - id: 29476
+    number: 13
+    bookId: 23
+    text: Кто пренебрегает словом, тот причиняет вред себе; а кто боится заповеди,
+      тому воздается.
+    chapter: 13
+    chapterId: 682
+    parallels:
+      - verseId: 29363
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 1
+        short: Притч:1:24
+      - verseId: 33686
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 21
+        short: Сир:21:7
+      - verseId: 28067
+        bookId: 35
+        bookCode: kniga-proroka-osii
+        chapter: 4
+        short: Ос:4:6
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Иже презирает вещь, презрен будет от нея: а бояйся заповеди, сей
+        здравствует."
+      averincev: ""
+      ungerov: Кто презирает дело, тот будет в презрении из-за него, а кто боится
+        заповеди, тот будет силен.
+      csya_old: "И$же презирaетъ ве1щь, презрёнъ бyдетъ t неS: ґ боsйсz зaповэди, се1й
+        здрaвствуетъ."
+      sovr_rbo: Кто сказанным пренебрежет — себя погубит, а кто почитает заповедь —
+        получит награду.
+      latin: Qui detrahit alicui rei ipse se in futurum obligat, qui autem timet
+        praeceptum in pace versabitur. Animae dolosae errant in peccatis, justi
+        autem misericordes sunt, et miserantur.
+      ukr: Хто погорджує словом Господнім, той шкодить собі, хто ж страх має до
+        заповіді, тому надолужиться.
+      nkjv: He who despises the word will be destroyed, But he who fears the
+        commandment will be rewarded.
+      desnitsky: ""
+      mt: ‫   בָּז לְדָבָר יֵחָבֶל לוֹ וִירֵא מִצְוָה הוּא יְשֻׁלָּם׃ ‬
+      romana: Cel ce nu ia in seama cuvantul (lui Dumnezeu) este dat pierzarii, iar
+        cel ce se teme de porunca Lui este rasplatit.
+      francais: Celui qui méprise la parole se perd, Mais celui qui craint le précepte
+        est récompensé.
+      italian: Chi disprezza la parola si rovinerà, chi rispetta un comando ne avrà
+        premio.
+      old_georgian: შეურაცხის-მყოფელნი შეურაცხ იქმნენ, და რომელთა ეშინის მცნებისა
+        ღმრთისა, ლხინებულ იყოს; ძესა მზაკვარსა ნუ რამე კეთილი იყოს, ხოლო მონასა
+        ბრძენსა განემარჯოს საქმენი და წარემართნეს გზანი მისნი.
+      portuguese: O que despreza a palavra traz sobre si a destruição; mas o que teme
+        o mandamento será galardoado.
+      polish: Kto gardzi nakazem, ten szkodę ponosi, nagrodę otrzyma, kto rozkaz
+        szanuje.
+      turkish: Uyarılara kulak asmayan bedelini öder, Buyruklara saygılı olansa
+        ödülünü alır.
+      nrt: Презирающий наставление сам себя губит, а чтущий заповедь будет
+        вознагражден.
+      Macarius: Кто презирает слово, тот постраждет… от себя самого; а кто благоговеет
+        пред заповедью, тот будет вознагражден.
+      serbian: Ко презире ријеч, сам себи уди; а ко се боји заповијести, платиће му се.
+      bulgarian: Който нехае към словото, той си вреди; а който се бои от заповед,
+        нему ще се въздаде.
+      deutsch: Wer das Wort verachtet, der verderbt sich selbst; wer aber das Gebot
+        fürchtet, dem wird's vergolten.
+      ukr2: Хто словом нехтує, сам собі шкодить; | хто ж заповідь шанує, той матиме
+        заплату.
+      ukr3: Хто словом нехтує, той шкодить собі, а хто боїться заповідї, той має
+        заплату.
+      bel_syomukha: Хто пагарджае словам, той робіць шкоду сабе; а хто баіцца
+        запаведзі, будзе ўзнагароджаны.
+      lev-khv: Кто не слушает слова, тот причиняет вред себе, а почитающий заповедь
+        будет награжден.
+      czech: Kdo pohrda slovem, privadi se do zahuby, kdezto kdo se boji prikazani,
+        dochazi odplaty.
+      spanish: El que menosprecia el mandato perecerá por ello; el que lo respeta
+        tendrá su recompensa.
+      greek-lxx: ὃς καταφρονεῖ πράγματος καταφρονηθήσεται ὑπ᾿ αὐτοῦ ὁ δὲ φοβούμενος
+        ἐντολήν οὗτος ὑγιαίνει
+      st_text: Кто пренебрегает словом, тот причиняет вред себе; а кто боится
+        заповеди, тому воздается.
+  - id: 29477
+    number: 14
+    bookId: 23
+    text: "[У сына лукавого ничего нет доброго, а у разумного раба дела
+      благоуспешны, и путь его прямой.]"
+    chapter: 13
+    chapterId: 682
+    parallels:
+      - verseId: 29383
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 10
+        short: Притч:10:11
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Сыну лукавому ничтоже есть благо: рабу же мудру благопоспешна будут дела,
+        и исправится путь его."
+      averincev: ""
+      ungerov: У лукаваго сына нет ничего добраго, а у мудраго раба дела будут
+        благоуспешны и путь его будет прямой.
+      csya_old: "Сы1ну лукaвому ничто1же є4сть блaго: рабy же мyдру благопоспBшна
+        бyдутъ дэлA, и3 и3спрaвитсz пyть є3гw2."
+      sovr_rbo: ""
+      latin: "-"
+      ukr: "-"
+      nkjv: "-"
+      desnitsky: ""
+      mt: ‫   תּוֹרַת חָכָם מְקוֹר חַיִּים לָסוּר מִמֹּקְשֵׁי מָוֶת׃ ‬
+      romana: Invatatura celui intelept este izvor de viata, ca sa putem scapa de
+        cursele mortii.
+      francais: L'enseignement du sage est une source de vie, Pour détourner des
+        pièges de la mort.
+      italian: L'insegnamento del saggio è fonte di vita per evitare i lacci della
+        morte.
+      old_georgian: შჯული ბრძნისა წყარო არს ცხოვრებისა, ხოლო უმეცარი საბრჴითა მოკვდეს.
+      portuguese: O ensino do sábio é uma fonte devida para desviar dos laços da morte.
+      polish: Nauka mądrego jest źródłem życia, by sideł śmierci uniknąć.
+      turkish: Bilgelerin öğrettikleri yaşam kaynağıdır, İnsanı ölüm tuzaklarından
+        uzaklaştırır.
+      nrt: Учение мудрых – источник жизни, отводящий от сетей смерти.
+      Macarius: Учение мудрого есть источник жизни, помогает уклониться от сетей смерти.
+      serbian: Наука је мудрога извор животни да се сачува пругала смртнијех.
+      bulgarian: (У лукав син няма нищо добро, а на разумен раб делата успяват и пътят
+        му е прав.)
+      deutsch: Die Lehre des Weisen ist eine Quelle des Lebens, zu meiden die Stricke
+        des Todes.
+      ukr2: Наука мудрого - джерело життя, | щоб спастися від сітей смерти.
+      ukr3: Наука мудрого - се жизняна криниця; вона відвертає від сїтей смертї.
+      bel_syomukha: Навука ў мудрага - крыніца жыцьця, якая аддаляе ад сьмерці.
+      lev-khv: Закон мудраго источник жизни, избавляющий от сетей смерти.
+      czech: Uceni moudreho je zdrojem zivota, pomuze uniknout leckam smrti.
+      spanish: La enseñanza del sabio es fuente de vida para huir los lazos de la
+        muerte.
+      greek-lxx: υἱῷ δολίῳ οὐδὲν ἔσται ἀγαθόν οἰκέτῃ δὲ σοφῷ εὔοδοι ἔσονται πράξεις
+        καὶ κατευθυνθήσεται ἡ ὁδὸς αὐτοῦ
+      st_text: "[У сына лукавого ничего нет доброго, а у разумного раба дела
+        благоуспешны, и путь его прямой.]"
+  - id: 29478
+    number: 15
+    bookId: 23
+    text: Учение мудрого - источник жизни, удаляющий от сетей смерти.
+    chapter: 13
+    chapterId: 682
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Закон мудрому источник жизни: безумный же от сети умрет."
+      averincev: ""
+      ungerov: Закон для мудраго — источник жизни, а безумный умрет от сети.
+      csya_old: "Зако1нъ мyдрому и3сто1чникъ жи1зни: безyмный же t сёти ќмретъ."
+      sovr_rbo: Учение мудреца — источник жизни, оно сберегает от сетей смерти .
+      latin: Lex sapientis fons vitae, ut declinet a ruina mortis.
+      ukr: Наука премудрого криниця життя, щоб віддалитися від пасток смерти.
+      nkjv: The law of the wise is a fountain of life, To turn one away from the
+        snares of death.
+      desnitsky: ""
+      mt: ‫   שֵׂכֶל־טוֹב יִתֶּן־חֵן וְדֶרֶךְ בֹּגְדִים אֵיתָן׃ ‬
+      romana: Buna intelegere rodeste har; calea celor vicleni este spre pieirea lor.
+      francais: Une raison saine a pour fruit la grâce, Mais la voie des perfides est
+        rude.
+      italian: Un aspetto buono procura favore, ma il contegno dei perfidi è rude.
+      old_georgian: სიბრძნემან კეთილმან მოსცის მადლი, და მეცნიერებამან შჯულისამან -
+        გონება კეთილი, ხოლო გზა შეურაცხის-მყოფელთა წარწყმდეს.
+      portuguese: "O bom senso alcança favor; mas o caminho dos prevaricadores é áspero:"
+      polish: Prawdziwy rozum zjednywa życzliwość, droga wiarołomnych niestała.
+      turkish: Sağduyulu davranış saygınlık kazandırır, Hainlerin yoluysa yıkıma
+        götürür.
+      nrt: Здравый разум вызывает расположение, а путь вероломных ведет к погибели.
+      Macarius: Благонравие принесет благодать, а дорога законопреступных утесиста.
+      serbian: Добар разум даје љубав, а пут је безаконички храпав.
+      bulgarian: Учението на мъдрия е животен извор, който отдалечава от мрежите на
+        смъртта.
+      deutsch: Feine Klugheit schafft Gunst; aber der Verächter Weg bringt Wehe.
+      ukr2: Добрий розум приносить ласку, | дорога ж віроломних шорстка.
+      ukr3: Добрий розум приносить приємність, дорога ж беззаконних пагубна.
+      bel_syomukha: Добры розум дае зычлівасьць; а дарога бязбожных цьвёрдая.
+      lev-khv: Доброе поведение доставляет приятность, путь же беззаконных жесток.
+      czech: Proziravost zjednava prizen, kdezto verolomni vytrvavaji na sve ceste.
+      spanish: La cortesía concilia la gracia; los modos de los soberbios son ásperos.
+      greek-lxx: νόμος σοφοῦ πηγὴ ζωῆς ὁ δὲ ἄνους ὑπὸ παγίδος θανεῖται
+      st_text: Учение мудрого - источник жизни, удаляющий от сетей смерти.
+  - id: 29479
+    number: 16
+    bookId: 23
+    text: Добрый разум доставляет приятность, путь же беззаконных жесток.
+    chapter: 13
+    chapterId: 682
+    parallels:
+      - verseId: 29458
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 12
+        short: Притч:12:23
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Разум благ дает благодать: разумети же закон, мысли есть благия: путие же
+        презирающих в погибели."
+      averincev: ""
+      ungerov: Добрый разум дает благодать, а разумение закона есть дело добраго
+        образа мыслей; пути же презрителей (закона) гибельны.
+      csya_old: "Рaзумъ бlгъ дае1тъ блгdть: разумёти же зако1нъ, мы1сли є4сть благjz:
+        путіе1 же презирaющихъ въ поги1бели."
+      sovr_rbo: Здравый разум одаряет милостью, а путь коварства ведет к погибели.
+      latin: Doctrina bona dabit gratiam; in itinere contemptorum vorago.
+      ukr: Добрий розум приносить приємність, а дорога зрадливих погуба для них.
+      nkjv: Good understanding gains favor, But the way of the unfaithful is hard.
+      desnitsky: ""
+      mt: ‫   כָּל־עָרוּם יַעֲשֶׂה בְדָעַת וּכְסִיל יִפְרֹשׂ אִוֶּלֶת׃ ‬
+      romana: Orice om intelept lucreaza cu chibzuinta, numai cel nebun isi desfasoara
+        nebunia.
+      francais: Tout homme prudent agit avec connaissance, Mais l'insensé fait étalage
+        de folie.
+      italian: L'accorto agisce sempre con riflessione, lo stolto mette in mostra la
+        stoltezza.
+      old_georgian: ყოველნი მოჰაზრენი იქმენ სიბრძნითა, ხოლო უმეცართა განახვნეს
+        სიბოროტენი თვისნი.
+      portuguese: Em tudo o homem prudente procede com conhecimento; mas o tolo
+        espraia a sua insensatez.
+      polish: Roztropny czyni wszystko z rozwagą, a dureń ujawnia głupotę.
+      turkish: İhtiyatlı kişi işini bilerek yapar, Akılsız kişiyse ahmaklığını sergiler.
+      nrt: Всякий разумный поступает со знанием, а глупец выказывает свою дурость.
+      Macarius: Всякий осмотрительный действует с умом, а глупый выставляет напоказ
+        глупость.
+      serbian: Сваки паметан човјек ради с разумом, а безуман разноси безумље.
+      bulgarian: Добрият разум доставя приятност, а пътят на беззаконните е жесток.
+      deutsch: Ein Kluger tut alles mit Vernunft; ein Narr aber breitet Narrheit aus.
+      ukr2: Кожен розумний чинить розважно, | а дурний виставляє дурноту напоказ.
+      ukr3: Розумний з розглядом дїло робить, а дурний виносить на показ дурноту.
+      bel_syomukha: Кожны разумны дзее зь веданьнем, а немысель выстаўляе на паказ дурасьць.
+      lev-khv: Всякий благоразумный действует умно, безумный же обнаруживает глупость.
+      czech: Kdo je chytry, pocina si podle poznani, kdezto hlupak roztrusuje
+        posetilost.
+      spanish: El cuerdo todo lo hace con conocimiento; el necio va derramando su
+        necedad.
+      greek-lxx: σύνεσις ἀγαθὴ δίδωσιν χάριν τὸ δὲ γνῶναι νόμον διανοίας ἐστὶν ἀγαθῆς
+        ὁδοὶ δὲ καταφρονούντων ἐν ἀπωλείᾳ
+      st_text: Добрый разум доставляет приятность, путь же беззаконных жесток.
+  - id: 29480
+    number: 17
+    bookId: 23
+    text: Всякий благоразумный действует с знанием, а глупый выставляет напоказ
+      глупость.
+    chapter: 13
+    chapterId: 682
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Всяк хитрый творит с разумом, безумный же прострет свою злобу.
+      averincev: ""
+      ungerov: Всякий осмотрительный действует с разумом, а глупый обнаруживает свою
+        злобу.
+      csya_old: Всsкъ хи1трый твори1тъ съ рaзумомъ, безyмный же простре1тъ свою2 ѕло1бу.
+      sovr_rbo: Проницательный действует с умом, а глупец свою дурь выказывает.
+      latin: Astutus omnia agit cum consilio, qui autem fatuus est aperit stultitiam.
+      ukr: Кожен розумний за мудрістю робить, а безумний глупоту показує.
+      nkjv: Every prudent man acts with knowledge, But a fool lays open his folly.
+      desnitsky: ""
+      mt: ‫   מַלְאָךְ רָשָׁע יִפֹּל בְּרָע וְצִיר אֱמוּנִים מַרְפֵּא׃ ‬
+      romana: Un sol ticalos cade in nenorocire, iar unul credincios aduce alinare.
+      francais: Un envoyé méchant tombe dans le malheur, Mais un messager fidèle
+        apporte la guérison.
+      italian: Un cattivo messaggero causa sciagure, un inviato fedele apporta salute.
+      old_georgian: მეფე ამპარტავანი შთავარდების მახესა, ხოლო ანგელოზმან ბრძენმან
+        გამოიჴსნას იგი.
+      portuguese: O mensageiro perverso faz cair no mal; mas o embaixador fiel traz saúde.
+      polish: Poseł nikczemny wtrąca w niedolę, wierny posłaniec - lekarstwem.
+      turkish: "Kötü ulak belaya düşer,\rGüvenilir elçiyse şifa getirir."
+      nrt: Жди от плохого посла беды, а от верного вестника – исцеления.
+      Macarius: Худой посол попадет в беду, а верный посланник — отрада.
+      serbian: Гласник безбожан пада у зло, а вјеран је посланик лијек.
+      bulgarian: Всеки благоразумен работи със знание, а глупавият изтъква глупост.
+      deutsch: Ein gottloser Bote bringt Unglück; aber ein treuer Bote ist heilsam.
+      ukr2: Злий посланець у біду кидає, | а вірний вістун лікує.
+      ukr3: Безбожний посланець у біду попадає, а вірний посланець - ратунок.
+      bel_syomukha: Неразумны пасол трапляе ў бяду, а верны пасланец - ратунак.
+      lev-khv: Злой вестник впадет в бедствие, а верный посол успокоение.
+      czech: Svevolny posel propadne zkaze, kdezto verny vyslanec prinasi zdravi.
+      spanish: Un mal consejero precipita en la desgracia; el mensajero fiel es
+        remedio saludable.
+      greek-lxx: πᾶς πανοῦργος πράσσει μετὰ γνώσεως ὁ δὲ ἄφρων ἐξεπέτασεν ἑαυτοῦ κακίαν
+      st_text: Всякий благоразумный действует с знанием, а глупый выставляет напоказ
+        глупость.
+  - id: 29481
+    number: 18
+    bookId: 23
+    text: Худой посол попадает в беду, а верный посланник - спасение.
+    chapter: 13
+    chapterId: 682
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Царь дерзостен впадет во злая, вестник же мудр избавит его.
+      averincev: ""
+      ungerov: Самонадеянный царь впадет в беду, а мудрый посланник спасет его.
+      csya_old: Цaрь де1рзостенъ впаде1тъ во ѕл†z, вёстникъ же мyдръ и3збaвитъ є3го2.
+      sovr_rbo: Дурному вестнику несдобровать, а верный гонец несет исцеление.
+      latin: Nuntius impii cade in malum; legatus autem fidelis, sanitas.
+      ukr: Безбожний посол у нещастя впаде, а вірний посол немов лік.
+      nkjv: A wicked messenger falls into trouble, But a faithful ambassador brings
+        health.
+      desnitsky: ""
+      mt: ‫   רֵישׁ וְקָלוֹן פּוֹרֵעַ מוּסָר וְשׁוֹמֵר תּוֹכַחַת יְכֻבָּד׃ ‬
+      romana: De saracie si de rusine are parte cel ce nesocoteste certarea, iar cel
+        ce primeste mustrarea va fi cinstit.
+      francais: La pauvreté et la honte sont le partage de celui qui rejette la
+        correction, Mais celui qui a égard à la réprimande est honoré.
+      italian: Povertà e ignominia a chi rifiuta l'istruzione, chi tien conto del
+        rimprovero sarà onorato.
+      old_georgian: სიგლახაკე და შეურაცხება წარდევნოს წვრთილებამან, ხოლო რომელმან
+        დაიმარხოს მხილება, დიდებულ იქმნეს.
+      portuguese: Pobreza e afronta virão ao que rejeita a correção; mas o que guarda
+        a repreensão será honrado.
+      polish: W biedzie jest i hańbie, kto gardzi karnością, we czci zaś - kto strzeże
+        upomnień.
+      turkish: "Terbiye edilmeye yanaşmayanı Yokluk ve utanç bekliyor,\rAma azara
+        kulak veren onurlandırılır."
+      nrt: Бедность и стыд пренебрегающему наставлением, а внимающего упреку почтят.
+      Macarius: Нищета и бесславие отвергающему учение, а соблюдающий наставление
+        будет в чести.
+      serbian: Сиромаштво и срамота доћи ће на онога који одбацује наставу; а ко чува
+        карање, прославиће се.
+      bulgarian: Лош пратеник изпада в беда, а верен посланик е спасение.
+      deutsch: Wer Zucht läßt fahren, der hat Armut und Schande; wer sich gerne
+        strafen läßt, wird zu ehren kommen.
+      ukr2: Злидні та сором, хто науку відкидає; | а хто приймає напоумлення, той у
+        пошані.
+      ukr3: Злиднї й стид тому, хто нехтує науку, хто ж підклоняється під докір, той
+        буде в шанобі.
+      bel_syomukha: Галеча і ганьба таму, хто пагарджае навукай; а хто трымаецца
+        настаўленьня, пашанаваны будзе.
+      lev-khv: Отвергающие учение будут нищими и посрамленными, а хранящий наставление
+        будет почтен.
+      czech: Chudoba a hanba stihnou toho, kdo se vyhyba trestu, kdezto kdo dba na
+        domluvu, bude vazeny.
+      spanish: Miseria y vergüenza para el que desdeña la corrección, mas el que la
+        guarda será honrado.
+      greek-lxx: βασιλεὺς θρασὺς ἐμπεσεῖται εἰς κακά ἄγγελος δὲ πιστὸς ῥύσεται αὐτόν
+      st_text: Худой посол попадает в беду, а верный посланник - спасение.
+  - id: 29482
+    number: 19
+    bookId: 23
+    text: Нищета и посрамление отвергающему учение; а кто соблюдает наставление,
+      будет в чести.
+    chapter: 13
+    chapterId: 682
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Нищету и безчестие отъемлет наказание: храняй же обличения прославится."
+      averincev: ""
+      ungerov: Учение избавляет от нищеты и безчестия, а кто соблюдает обличения, тот
+        прославится.
+      csya_old: "НищетY и3 безче1стіе tе1млетъ наказaніе: хранsй же њбличє1ніz
+        прослaвитсz."
+      sovr_rbo: Нищета и бесчестье тому, кто отверг назидание, а тому, кто принял
+        наставление, почет.
+      latin: Egestas et ignominia ei qui deserit disciplinam, qui autem acquiescit
+        arguenti glorificabitur.
+      ukr: Хто ламає поуку убозтво та ганьба тому, а хто береже осторогу шанований
+        він.
+      nkjv: Poverty and shame will come to him who disdains correction, But he who
+        regards a rebuke will be honored.
+      desnitsky: ""
+      mt: ‫   תַּאֲוָה נִהְיָה תֶּעֱרַב לְנָפֶשׁ וְתוֹעֲבַת כְּסִילִים סוּר מֵרָע׃ ‬
+      romana: Dorinta implinita multumeste sufletul, iar departarea de rau este
+        uraciune pentru cei nebuni.
+      francais: Un désir accompli est doux à l'âme, Mais s'éloigner du mal fait
+        horreur aux insensés.
+      italian: Desiderio soddisfatto è una dolcezza al cuore, ma è abominio per gli
+        stolti staccarsi dal male.
+      old_georgian: გულისთქუმანი ღმრთისმსახურთანი დაატკბობენ სულსა, ხოლო საქმენი
+        უღმრთოთანი შორს არიან მეცნიერებისაგან.
+      portuguese: O desejo que se cumpre deleita a alma; mas apartar-se do ma e
+        abominação para os tolos.
+      polish: Spełnione pragnienie ukoi duszę, wstrętne głupiemu - od zła się odwrócić.
+      turkish: "Yerine getirilen dilek mutluluk verir.\rAkılsız kötülükten uzak
+        kalamaz."
+      nrt: Сладко душе сбывшееся желание, а глупцам противно от зла отвернуться.
+      Macarius: Исполнение желания приятно душе; но для глупых несносно удаляться зла.
+      serbian: Испуњена жеља је сласт души, а безумнима је мрско одступити ода зла.
+      bulgarian: Немотия и срам за оногова, който отхвърля учение; а оня, който пази
+        поука, ще бъде почитан.
+      deutsch: Wenn's kommt, was man begehrt, das tut dem Herzen wohl; aber das Böse
+        meiden ist den Toren ein Greuel.
+      ukr2: Як здійсниться бажання, душа радіє; | від зла відвертатись - то для дурних
+        осоружно.
+      ukr3: Як спевниться бажаннє, то любо се душі; та дурним не любо відхилятись від
+        злого.
+      bel_syomukha: Жаданьне, якое споўнілася, - прыемнае душы; агідна неразумнаму
+        ўхіляцца ад зла.
+      lev-khv: Исполнившееся желание приятно для души, безумным же неприятно
+        уклоняться от зла.
+      czech: Kdyz se naplni touha, je sladko v dusi, kdezto hlupakum se hnusi odvratit
+        se od zleho.
+      spanish: El deseo cumplido es deleite del alma, pero apartarse del mal es
+        abominación para el necio.
+      greek-lxx: πενίαν καὶ ἀτιμίαν ἀφαιρεῖται παιδεία ὁ δὲ φυλάσσων ἐλέγχους δοξασθήσεται
+      st_text: Нищета и посрамление отвергающему учение; а кто соблюдает наставление,
+        будет в чести.
+  - id: 29483
+    number: 20
+    bookId: 23
+    text: Желание исполнившееся - приятно для души; но несносно для глупых
+      уклоняться от зла.
+    chapter: 13
+    chapterId: 682
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Желания благочестивых наслаждают душу, дела же нечестивых далече от
+        разума.
+      averincev: ""
+      ungerov: Желания благочестивых услаждают душу, дела же нечестивых далеки от
+        разума.
+      csya_old: Жел†ніz бlгочести1выхъ наслаждaютъ дyшу, дэлa же нечести1выхъ дале1че
+        t рaзума.
+      sovr_rbo: Исполнение желаний услаждает душу; хуже нет для глупца, чем расстаться
+        со злом.
+      latin: Desiderium si compleatur delectat animam; detestantur stulti eos qui
+        fugiunt mala.
+      ukr: Виконане побажання приємне душі, а вступитись від зла то огида безумним.
+      nkjv: A desire accomplished is sweet to the soul, But it is an abomination to
+        fools to depart from evil.
+      desnitsky: ""
+      mt: ‫   *הלוך **הוֹלֵךְ‪‬‪‬ אֶת־חֲכָמִים *וחכם **יֶחְכָּם וְרֹעֶה כְסִילִים
+        יֵרוֹעַ׃ ‬
+      romana: Cel ce se insoteste cu cei intelepti ajunge intelept, iar cel ce se
+        intovaraseste cu cei nebuni se face rau.
+      francais: Celui qui fréquente les sages devient sage, Mais celui qui se plaît
+        avec les insensés s'en trouve mal.
+      italian: Va' con i saggi e saggio diventerai, chi pratica gli stolti ne subirà
+        danno.
+      old_georgian: რომელი თანაუვიდოდის ბრძენთა, ბრძენ იყოს, ხოლო რომელი თანაგურიობდეს
+        უგუნურთა - საცნაურ იყოს.
+      portuguese: Quem anda com os sábios será sábio; mas o companheiro dos tolos
+        sofre aflição.
+      polish: "Kto z mądrym przestaje - nabywa mądrości, towarzysz głupców
+        poniesie\rszkodę."
+      turkish: Bilgelerle oturup kalkan bilge olur, Akılsızlarla dost olansa zarar
+        görür.
+      nrt: Кто общается с мудрыми, сам станет мудр, а спутник глупцов попадет в беду.
+      Macarius: Кто обращается с мудрыми, тот будет мудр; а кто любит дружиться с
+        глупым, тот сокрушится.
+      serbian: Ко ходи с мудрима постаје мудар, а ко се држи с безумницима постаје гори.
+      bulgarian: Изпълнено желание е приятно за душата; но за глупавите е тежко да
+        отбягват злото.
+      deutsch: Wer mit den Weisen umgeht, der wird weise; wer aber der Narren Geselle
+        ist, der wird Unglück haben.
+      ukr2: Хто ходить з мудрими, сам стає мудрим; | а хто приятелює з дурним, - той
+        зледачіє.
+      ukr3: Хто братаєсь із мудрими, буде й сам мудрий, хто ж заходить у дружбу з
+        дурними, - зледачіє.
+      bel_syomukha: Хто сябруе з мудрым, будзе мудры; а хто сябруе зь неразумнымі,
+        разбэсьціцца.
+      lev-khv: Обращающийся с мудрыми будет мудр, но товарищ безумных сделается
+        безумным.
+      czech: Kdo chodiva s moudrymi, stane se moudrym, kdezto tomu, kdo se prateli s
+        hlupaky, se povede zle.
+      spanish: Ve con los sabios y te harás sabio; al que a necios se allega le
+        alcanzará la desdicha.
+      greek-lxx: ἐπιθυμίαι εὐσεβῶν ἡδύνουσιν ψυχήν ἔργα δὲ ἀσεβῶν μακρὰν ἀπὸ γνώσεως
+      st_text: Желание исполнившееся - приятно для души; но несносно для глупых
+        уклоняться от зла.
+  - id: 29484
+    number: 21
+    bookId: 23
+    text: Общающийся с мудрыми будет мудр, а кто дружит с глупыми, развратится.
+    chapter: 13
+    chapterId: 682
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Ходяй с премудрыми премудр будет, ходяй же с безумными познан будет.
+      averincev: ""
+      ungerov: Обращающийся с мудрыми будет мудр, а обращающийся с глупыми узнан будет.
+      csya_old: Ходsй съ премyдрыми премyдръ бyдетъ, ходsй же съ безyмными познaнъ
+        бyдетъ.
+      sovr_rbo: С мудрецами общаясь, станешь мудрее, а повелся с глупцами — не минуешь
+        беды.
+      latin: Qui cum sapientibus graditur sapiens erit; amicus stultorum similis
+        efficietur.
+      ukr: Хто з мудрими ходить, той мудрим стає, а хто товаришує з безумним, той лиха
+        набуде.
+      nkjv: He who walks with wise men will be wise, But the companion of fools will
+        be destroyed.
+      desnitsky: ""
+      mt: ‫   חַטָּאִים תְּרַדֵּף רָעָה וְאֶת־צַדִּיקִים יְשַׁלֶּם־טוֹב׃ ‬
+      romana: Nenorocirea urmareste pe cei pacatosi, iar fericirea rasplateste pe cei
+        drepti.
+      francais: Le malheur poursuit ceux qui pèchent, Mais le bonheur récompense les
+        justes.
+      italian: La sventura perseguita i peccatori, il benessere ripagherà i giusti.
+      old_georgian: რომელნი ცოდვიდენ, უკუანა სდევდეს ბოროტი, ხოლო მართალთა ეწიოს კეთილი.
+      portuguese: O mal persegue os pecadores; mas os justos são galardoados com o bem.
+      polish: Nieszczęście pędzi za grzesznikami, a szczęście nagrodą dla prawych.
+      turkish: Günahkârın peşini felaket bırakmaz, Doğruların ödülüyse gönençtir.
+      nrt: Несчастье преследует грешника, а благополучие – награда для праведных.
+      Macarius: Грешников преследует зло; а праведников вознаграждает благо.
+      serbian: Грјешнике гони зло, а праведницима се враћа добро.
+      bulgarian: Който се събира с мъдри, мъдър ще бъде; а който другарува с глупави,
+        ще се разврати.
+      deutsch: Unglück verfolgt die Sünder; aber den Gerechten wird Gutes vergolten.
+      ukr2: Грішних переслідує нещастя, | а добро - нагорода праведним.
+      ukr3: За грішниками гонить нещастє, а праведним добро в нагороду.
+      bel_syomukha: Грэшнікаў даганяе зло, а праведнікам дасца дабро.
+      lev-khv: Несчастие идет в след грешников, но благо будет наградою для праведных.
+      czech: Hrisniky stiha zlo, kdezto spravedlivym je odplatou dobro.
+      spanish: Al pecador le persigue la desventura, pero el justo será bien retribuido.
+      greek-lxx: ὁ συμπορευόμενος σοφοῖς σοφὸς ἔσται ὁ δὲ συμπορευόμενος ἄφροσι
+        γνωσθήσεται
+      st_text: Общающийся с мудрыми будет мудр, а кто дружит с глупыми, развратится.
+  - id: 29485
+    number: 22
+    bookId: 23
+    text: Грешников преследует зло, а праведникам воздается добром.
+    chapter: 13
+    chapterId: 682
+    parallels:
+      - verseId: 19332
+        bookId: 21
+        bookCode: kniga-iova
+        chapter: 27
+        short: Иов:27:17
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Согрешающих постигнут злая, праведных же постигнут благая.
+      averincev: ""
+      ungerov: Грешников постигнет зло, праведников же постигнет добро.
+      csya_old: Согрэшaющихъ пости1гнутъ ѕл†z, првdныхъ же пости1гнутъ бlг†z.
+      sovr_rbo: За грешником ходит беда, а праведнику воздается добром.
+      latin: Peccatores persequitur malum, et justis retribuentur bona.
+      ukr: Грішників зло доганяє, а праведним Бог надолужить добром.
+      nkjv: Evil pursues sinners, But to the righteous, good shall be repaid.
+      desnitsky: ""
+      mt: ‫   טוֹב יַנְחִיל בְּנֵי־בָנִים וְצָפוּן לַצַּדִּיק חֵיל חוֹטֵא׃ ‬
+      romana: Omul bun lasa mostenirea sa nepotilor sai, iar averea celui pacatos este
+        sortita pentru cei drepti.
+      francais: L'homme de bien a pour héritiers les enfants de ses enfants, Mais les
+        richesses du pécheur sont réservées pour le juste.
+      italian: L'uomo dabbene lascia eredi i nipoti, la proprietà del peccatore è
+        riservata al giusto.
+      old_georgian: სახიერმან კაცმან დაიმკჳდრნის შვილისშვილნი, ხოლო დაეუნჯოს მართალთა
+        სიმდიდრე უღმრთოთა;
+      portuguese: "O homem de bem deixa uma herança aos filhos de seus filhos; a
+        riqueza do pecador, porém, é reservada para o\rjusto."
+      polish: Mąż dobry zostawi dziedzictwo wnukom, dobrym przypadnie majątek
+        grzeszników.
+      turkish: İyi kişi torunlarına miras bırakır, Günahkârın servetiyse doğru kişiye
+        kalır.
+      nrt: Добрый человек оставит наследство детям своих детей, а богатство грешных
+        копится для праведных.
+      Macarius: Добродетельный оставит наследство детям детей; а имение грешника для
+        праведника сберегается.
+      serbian: Добар човјек оставља нашљедство синовима синова својих, а грјешниково
+        имање чува се праведнику.
+      bulgarian: Грешниците зло ги преследва, а на праведниците добро ще се въздаде.
+      deutsch: Der Gute wird vererben auf Kindeskind; aber des Sünders Gut wird für
+        den Gerechten gespart.
+      ukr2: Добрий свою спадщину онукам залишає, | а майно грішника для праведника
+        бережеться.
+      ukr3: Добрий і внукам зоставляє достатки, а багацтва грішника передержуються для
+        праведного.
+      bel_syomukha: Добры пакідае спадчыну і ўнукам, а багацьце грэшніка зьберагаецца
+        праведнаму.
+      lev-khv: Добрый оставляет наследство внукам, а богатство грешника хранится для
+        праведника.
+      czech: Dobry zanecha dedictvi vnukum, kdezto jmeni hrisnika byva uchovano pro
+        spravedliveho.
+      spanish: El hombre de bien será heredado por los hijos de sus hijos; la hacienda
+        del pecador está reservada para el justo.
+      greek-lxx: ἁμαρτάνοντας καταδιώξεται κακά τοὺς δὲ δικαίους καταλήμψεται ἀγαθά
+      st_text: Грешников преследует зло, а праведникам воздается добром.
+  - id: 29486
+    number: 23
+    bookId: 23
+    text: Добрый оставляет наследство [<i>и</i>] внукам, а богатство грешника
+      сберегается для праведного.
+    chapter: 13
+    chapterId: 682
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Благ муж наследит сыны сынов: сокровищствуется же праведным богатство
+        нечестивых."
+      averincev: ""
+      ungerov: Добрый человек будет иметь наследниками сынов (своих) сыновей, а
+        богатство нечестивых сберегается для праведных.
+      csya_old: "Бlгъ мyжъ наслёдитъ сы1ны сынHвъ: сокро1вищствуетсz же првdнымъ
+        богaтство нечести1выхъ."
+      sovr_rbo: Богатство достойного пойдет детям и внукам, а что нажил грешник —
+        праведнику достанется.
+      latin: Bonus reliquit haeredes filios et nepotes, et custoditur justo substantia
+        peccatoris.
+      ukr: Добрий лишає спадок і онукам, маєток же грішника схований буде для
+        праведного.
+      nkjv: A good man leaves an inheritance to his children's children, But the
+        wealth of the sinner is stored up for the righteous.
+      desnitsky: ""
+      mt: ‫   רָב־אֹכֶל נִיר רָאשִׁים וְיֵשׁ נִסְפֶּה בְּלֹא מִשְׁפָּט׃ ‬
+      romana: Aratura in telina, facuta de cei saraci, da hrana din belsug, insa
+        averea se pierde din pricina nedreptatii.
+      francais: Le champ que défriche le pauvre donne une nourriture abondante, Mais
+        tel périt par défaut de justice.
+      italian: Il potente distrugge il podere dei poveri e c'è chi è eliminato senza
+        processo.
+      old_georgian: მართალთა დაყუნენ სიმდიდრესა შინა წელნი მრავალნი, ხოლო ცრუნი იგი
+        მსწრაფლ წარწყმდენ.
+      portuguese: Abundância de mantimento há, na lavoura do pobre; mas se perde por
+        falta de juízo.
+      polish: Świeża uprawa ubogich da wiele żywności, majątek niszczeje bezprawiem.
+      turkish: Yoksulun tarlası bol ürün verebilir, Ama haksızlık bunu alıp götürür.
+      nrt: Много хлеба может дать и поле бедняка, но несправедливость отнимает у него
+        урожай.
+      Macarius: Множество хлеба приносит нива нищих; а другой истощается в
+        несправедливости.
+      serbian: Изобила хране има на њиви сиромашкој, а има ко пропада са зле управе.
+      bulgarian: Добрият оставя наследство и на внуци, а богатството на грешника се
+        пази за праведния.
+      deutsch: Es ist viel Speise in den Furchen der Armen; aber die Unrecht tun,
+        verderben.
+      ukr2: Цілина бідних родить багато збіжжя; | за браком правосуддя не один гине.
+      ukr3: Много хлїба родиться й на загонах убогих, та з них не один погибає через
+        непорядок.
+      bel_syomukha: Шмат хлеба бывае і на палетку ў бедных; але маёмасьць гіне ад бяспраўя.
+      lev-khv: И на поле бедных нет недостатка в пище, а гибнут некоторые от
+        недостатка правосудия.
+      czech: Uhor dava chudym mnoho pokrmu, ale byva nicen bezpravim.
+      spanish: Lo que rotura el pobre da pan en abundancia, pero por falta de equidad
+        sobreviene la ruina.
+      greek-lxx: ἀγαθὸς ἀνὴρ κληρονομήσει υἱοὺς υἱῶν θησαυρίζεται δὲ δικαίοις πλοῦτος
+        ἀσεβὼν
+      st_text: Добрый оставляет наследство [<i>и</i>] внукам, а богатство грешника
+        сберегается для праведного.
+  - id: 29487
+    number: 24
+    bookId: 23
+    text: Много хлеба [<i>бывает</i>] и на ниве бедных; но некоторые гибнут от
+      беспорядка.
+    chapter: 13
+    chapterId: 682
+    parallels:
+      - verseId: 29797
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 23
+        short: Притч:23:13
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Праведнии насладятся в богатстве лета многа: неправеднии же погибнут
+        вскоре."
+      averincev: ""
+      ungerov: Праведные будут проводить в богатстве многие годы, неправедные же
+        вскоре погибнут.
+      csya_old: "Првdніи насладsтсz въ богaтствэ лBта мнHга: непрaведніи же поги1бнутъ
+        вско1рэ."
+      sovr_rbo: Пусть и обилен урожай бедняка, беззаконие его похитит.
+      latin: Multi cibi in novalibus patrum, et aliis congregantur absque judicio.
+      ukr: Убогому буде багато поживи і з поля невправного, та деякі гинуть з
+        безправ'я.
+      nkjv: Much food is in the fallow ground of the poor, And for lack of justice
+        there is waste.
+      desnitsky: ""
+      mt: ‫   חוֹשֵׂךְ שִׁבְטוֹ שׂוֹנֵא בְנוֹ וְאֹהֲבוֹ שִׁחֲרוֹ מוּסָר׃ ‬
+      romana: Cine cruta toiagul sau isi uraste copilul, iar cel care il iubeste il
+        cearta la vreme.
+      francais: Celui qui ménage sa verge hait son fils, Mais celui qui l'aime cherche
+        à le corriger.
+      italian: Chi risparmia il bastone odia suo figlio, chi lo ama è pronto a
+        correggerlo.
+      old_georgian: რომელი ერიდებოდის კუერთხითა ძესა თჳსსა, სძულს იგი, ხოლო რომელსა
+        უყვარდეს, გულსმოდგინედ სწავლინ.
+      portuguese: Aquele que poupa a vara aborrece a seu filho; mas quem o ama, a seu
+        tempo o castiga.
+      polish: Nie kocha syna, kto rózgi żałuje, kto kocha go - w porę go karci.
+      turkish: "Oğlundan değneği esirgeyen, onu sevmiyor demektir.\rSeven baba
+        özenle  terbiye eder."
+      nrt: Жалеющий розгу не любит своего сына, а кто любит, прилежно его наказывает.
+      Macarius: Кто жалеет розги своей, тот не любит сына своего; а кто любит его, тот
+        тщательно образует его.
+      serbian: Ко жали прут, мрзи на сина својега; а ко га љуби, кара га за времена.
+      bulgarian: Много храна бива и на нивата на бедните; но някои от тях гинат от
+        безредица.
+      deutsch: Wer seine Rute schont, der haßt seinen Sohn; wer ihn aber liebhat, der
+        züchtigt ihn bald.
+      ukr2: Хто щадить різки, ненавидить сина; | хто ж його любить, той завчасу карає.
+      ukr3: Хто жалує лозинки, ненавидить він сина, а хто любить сина, той з малку
+        наказує його.
+      bel_syomukha: Хто шкадуе дубца свайго, той ненавідзіць сына; а хто любіць, той
+        змалку карае яго.
+      lev-khv: Кто жалеет розги своей, тот ненавидит своего сына; но кто любит его,
+        тот не медлит наказывать его.
+      czech: Kdo setri hul, nenavidi sveho syna, kdezto kdo jej miluje, tresta ho
+        vcas.
+      spanish: El que ahorra la vara odia a su hijo; mas el que le ama se apresura a
+        corregirle.
+      greek-lxx: δίκαιοι ποιήσουσιν ἐν πλούτῳ ἔτη πολλά ἄδικοι δὲ ἀπολοῦνται συντόμως
+      st_text: Много хлеба [<i>бывает</i>] и на ниве бедных; но некоторые гибнут от
+        беспорядка.
+  - id: 29488
+    number: 25
+    bookId: 23
+    text: Кто жалеет розги своей, тот ненавидит сына; а кто любит, тот с детства
+      наказывает его.
+    chapter: 13
+    chapterId: 682
+    parallels:
+      - verseId: 29661
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 19
+        short: Притч:19:18
+      - verseId: 29797
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 23
+        short: Притч:23:13
+      - verseId: 33997
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 30
+        short: Сир:30:1
+      - verseId: 21142
+        bookId: 28
+        bookCode: kniga-proroka-isaii
+        chapter: 65
+        short: Ис:65:13
+      - verseId: 14150
+        bookId: 67
+        bookCode: k-efesanam-poslanie-ap-pavla
+        chapter: 6
+        short: Еф:6:4
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Иже щадит жезл (свой), ненавидит сына своего: любяй же наказует
+        прилежно."
+      averincev: ""
+      ungerov: Кто жалеет свой посох, тот ненавидит своего сына, а любящий заботливо
+        наставляет.
+      csya_old: "И$же щади1тъ же1злъ (сво1й), ненави1дитъ сы1на своего2: любsй же
+        наказyетъ прилёжнw."
+      sovr_rbo: Кому жалко розгу, не жалко сына, а кто сына любит, не забудет вразумить.
+      latin: Qui parcit virgae odit filium suum; qui autem diligit illum instanter
+        erudit.
+      ukr: Хто стримує різку свою, той ненавидить сина свого, хто ж кохає його, той
+        шукає для нього картання.
+      nkjv: He who spares his rod hates his son, But he who loves him disciplines him
+        promptly.
+      desnitsky: ""
+      mt: ‫   צַדִּיק אֹכֵל לְשֹׂבַע נַפְשׁוֹ וּבֶטֶן רְשָׁעִים תֶּחְסָר׃ פ ‬
+      romana: Dreptul mananca si isi indestuleaza sufletul sau, iar pantecele celor
+        fara de lege duce lipsa.
+      francais: Le juste mange et satisfait son appétit, Mais le ventre des méchants
+        éprouve la disette.
+      italian: Il giusto mangia a sazietà, ma il ventre degli empi soffre la fame.
+      portuguese: O justo come e fica satisfeito; mas o apetite dos ímpios nunca se
+        satisfaz.
+      polish: Mąż prawy ma w bród pożywienia, żołądek niewiernych głód cierpi.
+      turkish: Doğru kişinin yeterince yiyeceği vardır, Kötünün karnıysa aç kalır.
+      nrt: Праведник досыта будет есть, а нечестивый – ходить голодным.
+      Macarius: Праведник ест, пока душа его будет сыта, а чрево беззаконных будет пусто.
+      serbian: Праведник једе, и сита му је душа; а трбух безбожницима нема доста.
+      bulgarian: Който жали пръчката си, мрази сина си; а който го обича, наказва го
+        от детинство.
+      deutsch: Der Gerechte ißt, daß sein Seele satt wird; der Gottlosen Bauch aber
+        hat nimmer genug.
+      ukr2: Праведний їсть собі досхочу, | а живіт злих терпітиме нестачу.
+      ukr3: Праведний їсть до схочу, а черево безбожних терпить недостачу.
+      bel_syomukha: Праведнік есьць да сытасьці, а жывот бязбожных церпіць нястачы.
+      lev-khv: Праведный вкушает в насыщение себя, а чрево беззаконных терпит лишение.
+      czech: Spravedlivy se naji dosyta, kdezto bricho svevolniku trpi nedostatkem.
+      spanish: El justo come hasta saciarse, pero el vientre del impío sufrirá escasez.
+      greek-lxx: ὃς φείδεται τῆς βακτηρίας μισεῖ τὸν υἱὸν αὐτοῦ ὁ δὲ ἀγαπῶν ἐπιμελῶς
+        παιδεύει
+      st_text: Кто жалеет розги своей, тот ненавидит сына; а кто любит, тот с детства
+        наказывает его.
+  - id: 29489
+    number: 26
+    bookId: 23
+    text: Праведник ест до сытости, а чрево беззаконных терпит лишение.
+    chapter: 13
+    chapterId: 682
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Праведный ядый насыщает душу свою: душы же нечестивых скудны."
+      averincev: ""
+      ungerov: Праведный, питаясь, насыщает свою душу, души же нечестивых голодны.
+      csya_old: "Првdный kды1й насыщaетъ дyшу свою2: дyшы же нечести1выхъ ск{дны."
+      sovr_rbo: Праведник ест досыта, а в животе у нечестивых пусто.
+      latin: Justus comedit et replet animam suam; venter autem impiorum
+        insaturabilis.
+      ukr: Праведний їсть, скільки схоче душа, живіт же безбожників завсіди брак
+        відчуває.
+      nkjv: The righteous eats to the satisfying of his soul, But the stomach of the
+        wicked shall be in want.
+      desnitsky: ""
+      bulgarian: Праведникът яде до насита, а коремът на беззаконните търпи лишение.
+      greek-lxx: δίκαιος ἔσθων ἐμπιπλᾷ τὴν ψυχὴν αὐτοῦ ψυχαὶ δὲ ἀσεβῶν ἐνδεεῖς
+      st_text: Праведник ест до сытости, а чрево беззаконных терпит лишение.

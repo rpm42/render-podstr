@@ -1,0 +1,1364 @@
+id: 81
+number: 31
+bookId: 2
+verseCount: 18
+title: Глава 31
+verses:
+  - id: 21959
+    number: 1
+    bookId: 2
+    text: "И сказал Господь Моисею, говоря:"
+    chapter: 31
+    chapterId: 81
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "И сказал Господь к Моисею говорящий:"
+      csya: "И рече Господь к моисею, глаголя:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 гDь къ мwmсе1ю, гlz:"
+      sovr_rbo: "Господь сказал Моисею:"
+      latin: "Locutusque est Dominus ad Moysen, dicens:"
+      ukr: "І промовив Господь до Мойсея, говорячи:"
+      nkjv: "Then the Lord spoke to Moses, saying:"
+      desnitsky: ""
+      mt: ‫   וַיְדַבֵּר יְהוָה אֶל־מֹשֶׁה לֵּאמֹר׃ ‬
+      romana: "Dupa aceea a grait Domnul cu Moise si a zis:"
+      francais: "L'Éternel parla à Moïse, et dit:"
+      italian: "Il Signore parlò a Mosè e gli disse:"
+      old_georgian: "ეტყოდა უფალი მოსეს და ჰრქუა:"
+      portuguese: "Depois disse o Senhor a Moisés:"
+      polish: "I rzekł Pan do Mojżesza:"
+      turkish: "RAB Musa'ya şöyle dedi:"
+      nrt: "Господь сказал Моисею:"
+      Macarius: "И говорил Иегова Моисею, и сказал:"
+      serbian: "И рече Господ Мојсију говорећи:"
+      bulgarian: "Говори още Господ на Моисея, думайки:"
+      deutsch: "Und der Herr redete mit Mose und sprach:"
+      ukr2: "Господь сказав Мойсеєві:"
+      ukr3: "І рече Господь Мойсейові:"
+      bel_syomukha: "І наказаў Гасподзь Майсею сказаць:"
+      lev-khv: "И сказал Господь Моисею, говоря:"
+      czech: "Hospodin promluvil k Mojzisovi:"
+      spanish: "Yavé habló a Moisés, diciendo:"
+      st_text: "И сказал Господь Моисею, говоря:"
+  - id: 21960
+    number: 2
+    bookId: 2
+    text: смотри, Я назначаю именно Веселеила, сына Уриева, сына Орова, из колена
+      Иудина;
+    chapter: 31
+    chapterId: 81
+    parallels:
+      - verseId: 21484
+        bookId: 2
+        bookCode: ishod
+        chapter: 17
+        short: Исх:17:10
+      - verseId: 21707
+        bookId: 2
+        bookCode: ishod
+        chapter: 24
+        short: Исх:24:14
+      - verseId: 22099
+        bookId: 2
+        bookCode: ishod
+        chapter: 35
+        short: Исх:35:30
+      - verseId: 5819
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 1
+        short: 2 Пар:1:5
+    translates:
+      kassian: ""
+      podstr: Вот [Я] призвал по имени Веселеила [который сын] Урии [который сын] Ора
+        племени Иуды
+      csya: се, нарекох именем веселеила сына урии, сына орова, от племене иудина,
+      averincev: ""
+      ungerov: ""
+      csya_old: се2, нареко1хъ и4менемъ веселеи1ла сы1на ўрjи, сы1на њ1рова, t
+        пле1мене їyдина,
+      sovr_rbo: "«Знай: Я избрал Бецалела, сына Ури, сына Хура, из племени Иуды,"
+      latin: Ecce, vocavi ex nomine Beseleel filium Uri filii Hur de tribu Juda,
+      ukr: Дивися, Я покликав на ім'я Бецал'їла, сина Урієвого, сина Хура, Юдиного
+        племени,
+      nkjv: '"See, I have called by name Bezalel the son of Uri, the son of Hur, of
+        the tribe of Judah.'
+      desnitsky: ""
+      mt: ‫   רְאֵה קָרָאתִי בְשֵׁם בְּצַלְאֵל בֶּן־אוּרִי בֶן־חוּר לְמַטֵּה יְהוּדָה׃
+        ‬
+      romana: '"Iata, Eu am randuit anume pe Betaleel, fiul lui Uri, fiul lui Or, din
+        semintia lui Iuda,'
+      francais: Sache que j'ai choisi Betsaleel, fils d'Uri, fils de Hur, de la tribu
+        de Juda.
+      italian: '"Vedi, ho chiamato per nome Bezaleel, figlio di Uri, figlio di Cur,
+        della tribù di Giuda.'
+      old_georgian: აჰა ეგერა, მიწოდებიეს სახელით ბესელიელ, ძე ურისი, რომელი-იგი არს
+        ოვრაი ტომისაგან იუდასი.
+      portuguese: Eis que eu tenho chamado por nome a Bezalel, filho de Uri, filho de
+        Hur, da tribo de Judá,
+      polish: ”Oto wybrałem Besaleela, syna Uriego, syna Chura z pokolenia Judy.
+      turkish: «Bak, Yahuda oymağından özellikle Hur oğlu Uri oğlu Besalel'i seçtim.
+      nrt: – Я избрал Веселеила, сына Ури, внука Хура, из рода Иуды,
+      Macarius: Смотри, Я назначаю именно Веселиила, сына Уриева, сына Орова, из
+        колена Иудина.
+      serbian: Гле, позвах по имену Веселеила, сина Урије сина Орова, од племена Јудина.
+      bulgarian: ето, Аз определих по име Веселиила, син на Урия, Оров син, от Иудино
+        коляно;
+      deutsch: Siehe, ich habe mit Namen berufen Bezaleel, den Sohn Uris, des Sohnes
+        Hur, vom Stamme Juda,
+      ukr2: «Ось я покликав пойменно Бецалела, сина Урі, сина Хура, з коліна Юди;
+      ukr3: Дивись, покликав я Базалеїла, сина Урії Гурієнка, з колїна Юдиного,
+      bel_syomukha: глядзі, Я прызначаю менавіта Вэсэлііла, сына Урыевага, сына
+        Оравага, з племя Юдавага;
+      lev-khv: Смотри, Я назначаю именно Веселиила, сына Урии, сына Ора, из колена
+        Иудина.
+      czech: '"Hled, povolal jsem jmenem Besaleela, syna Uriho, vnuka Churova, z
+        pokoleni Judova.'
+      spanish: <<Sabrás que yo llamo por su nombre a Besalel, hijo de Uri, hijo de
+        Jur, de la tribu de Judá.
+      st_text: смотри, Я назначаю именно Веселеила, сына Уриева, сына Орова, из колена
+        Иудина;
+  - id: 21961
+    number: 3
+    bookId: 2
+    text: и Я исполнил его Духом Божиим, мудростью, разумением, ведением и всяким
+      искусством,
+    chapter: 31
+    chapterId: 81
+    parallels:
+      - verseId: 21812
+        bookId: 2
+        bookCode: ishod
+        chapter: 28
+        short: Исх:28:3
+      - verseId: 7477
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 7
+        short: 3 Цар:7:14
+    translates:
+      kassian: ""
+      podstr: и наполнил его духом божественной мудрости и понимания и знания во
+        всяком деле
+      csya: и наполних его Духом Божиим премудрости и смышления и ведения, во всяком
+        деле разумети
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 напо1лнихъ є3го2 д¦омъ б9іимъ премdрости и3 смышле1ніz и3 вёдэніz,
+        во всsкомъ дёлэ разумёти
+      sovr_rbo: и исполнил его духом Божьим — дал ему мудрость и разумение, знание и
+        мастерство во всяком деле,
+      latin: et implevi spiritu Dei, sapientia, et intelligentia et scientia in omni
+        opere,
+      ukr: і наповнив його Духом Божим, мудрістю, і розумуванням, і знанням, і
+        здібністю до всякої роботи,
+      nkjv: And I have filled him with the Spirit of God, in wisdom, in understanding,
+        in knowledge, and in all manner of workmanship,
+      desnitsky: ""
+      mt: ‫   וָאֲמַלֵּא אֹתוֹ רוּחַ אֱלֹהִים בְּחָכְמָה וּבִתְבוּנָה וּבְדַעַת
+        וּבְכָל־מְלָאכָה׃ ‬
+      romana: Si l-am umplut de duh dumnezeiesc, de intelepciune, de pricepere, de
+        stiinta si de iscusinta la tot lucrul,
+      francais: Je l'ai rempli de l'Esprit de Dieu, de sagesse, d'intelligence, et de
+        savoir pour toutes sortes d'ouvrages,
+      italian: L'ho riempito dello spirito di Dio, perché abbia saggezza, intelligenza
+        e scienza in ogni genere di lavoro,
+      old_georgian: და აღვავსო იგი სულითა საღმრთოჲთა, სიბრძნითა და მეცნიერებითა,
+        ყოვლითა საქმითა.
+      portuguese: e o enchi do espírito de Deus, no tocante à sabedoria, ao
+        entendimento, à ciência e a todo ofício,
+      polish: I napełniłem go duchem Bożym, mądrością i rozumem, i umiejętnością
+        wykonywania wszelkiego rodzaju prac,
+      turkish: Beceri, anlayış, bilgi ve her türlü ustalık vermek için onu ruhumla
+        doldurdum.
+      nrt: и исполнил его Духом Божьим, мудростью, разумением, знанием и всяким
+        мастерством,
+      Macarius: И Я исполнил его Духом Божиим, мудростию, и разумением, и ведением для
+        всякого дела,
+      serbian: И напуних га духа светога, мудрости и разума и знања и сваке вјештине,
+      bulgarian: и го изпълних с Дух Божий, с мъдрост и разум, със знание и с всяко
+        изкуство,
+      deutsch: und habe ihn erfüllt mit dem Geist Gottes, mit Weisheit und Verstand
+        und Erkenntnis und mit allerlei Geschicklichkeit,
+      ukr2: і сповнив його духом Божим, мудрістю й розумом та хистом у всякім ділі;
+      ukr3: І сповнив я його духом Божим, мудростю й розуміннєм і знаттєм у всякому
+        реместві;
+      bel_syomukha: і Я напоўніў яго Духам Божым, мудрасьцю, розумам, ведамі і
+        ўсялякім умельствам
+      lev-khv: И исполнил Я его Духом Божиим, мудростию, и разумом, и ведением, и
+        всяким искусством,
+      czech: Naplnil jsem ho Bozim duchem, totiz moudrosti, duvtipem a znalosti
+        kazdeho dila,
+      spanish: Le he llenado del espíritu de Dios, de sabiduría, de entendimiento y de
+        saber para toda clase de obras, para toda suerte de manufacturas,
+      st_text: и Я исполнил его Духом Божиим, мудростью, разумением, ведением и всяким
+        искусством,
+  - id: 21962
+    number: 4
+    bookId: 2
+    text: работать из золота, серебра и меди, [из голубой, пурпуровой и червленой
+      <i>шерсти</i> и из крученого виссона],
+    chapter: 31
+    chapterId: 81
+    parallels:
+      - verseId: 6037
+        bookId: 14
+        bookCode: 2a-kniga-paralipomenon
+        chapter: 2
+        short: 2 Пар:2:14
+    translates:
+      kassian: ""
+      podstr: размышлять и распоряжаться обрабатывать золото и серебро и медь и
+        гиацинт и порфиру и багряницу витую и виссон крученный
+      csya: и архитектонствовати, делати злато и сребро и медь, и синету и багряницу,
+        и червленицу прядену и виссон сканый,
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 ґрхіте1ктонствовати, дёлати злaто и3 сребро2 и3 мёдь, и3 синетY и3
+        багрzни1цу, и3 червлени1цу прsдену и3 вmссо1нъ скaный,
+      sovr_rbo: так что он владеет искусством работы по золоту, серебру и меди,
+      latin: ad excogitandum quidquid fabrefieri potest ex auro, et argento, et aere,
+      ukr: на обмислення мистецьке, на роботу в золоті, і в сріблі, і в міді,
+      nkjv: to design artistic works, to work in gold, in silver, in bronze,
+      desnitsky: ""
+      mt: ‫   לַחְשֹׁב מַחֲשָׁבֹת לַעֲשׂוֹת בַּזָּהָב וּבַכֶּסֶף וּבַנְּחֹשֶׁת׃ ‬
+      romana: Ca sa faca lucruri de aur, de argint si de arama, de matase violeta,
+        stacojie si visinie, si de in rasucit,
+      francais: je l'ai rendu capable de faire des inventions, de travailler l'or,
+        l'argent et l'airain,
+      italian: per concepire progetti e realizzarli in oro, argento e rame,
+      old_georgian: განზრახვად და ხუროთმოძღვრებად საქმედ ოქროჲსა მის და ვეცხლისა და რვალისა.
+      portuguese: para inventar obras artísticas, e trabalhar em ouro, em prata e em
+        bronze,
+      polish: pomysłowością w pracach w złocie, w srebrze, w brązie
+      turkish: Öyle ki, altın, gümüş, tunç işleyerek ustaca yapıtlar üretsin;
+      nrt: чтобы работать по золоту, серебру и бронзе,
+      Macarius: Искусством изобретать, работать из золота, серебра и меди,
+      serbian: Да вјешто измишља како се што може начинити од злата и од сребра и од
+        мједи,
+      bulgarian: да работи със злато, сребро и мед (със синя, пурпурена и червена
+        вълна и с препреден висон),
+      deutsch: kunstreich zu arbeiten an Gold, Silber, Erz,
+      ukr2: щоб продумував мистецькі задуми виконавши у золоті, сріблі й міді;
+      ukr3: Щоб видумував майстерне, як вироблювати із золота й срібла і мідї,
+      bel_syomukha: рабіць з золата, срэбра і медзі,
+      lev-khv: Составлять искусныя ткани, работать из золота, серебра и меди,
+      czech: aby umel dovedne pracovat se zlatem, stribrem a medi,
+      spanish: para proyectar, para labrar el oro, la plata y el bronce,
+      st_text: работать из золота, серебра и меди, [из голубой, пурпуровой и червленой
+        <i>шерсти</i> и из крученого виссона],
+  - id: 21963
+    number: 5
+    bookId: 2
+    text: резать камни для вставливания и резать дерево для всякого дела;
+    chapter: 31
+    chapterId: 81
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и каменные [дела] и на дела плотничные деревья обрабатывать согласно
+        всем делам.
+      csya: "и каменное дело, и различная древодельства делати во всех делех:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 кaменное дёло, и3 разли6чнаz древодBльства дёлати во всёхъ дёлэхъ:"
+      sovr_rbo: умеет резать камни для вставки в оправу, а также резать по дереву —
+        владеет всяким ремеслом.
+      latin: marmore, et gemmis, et diversitate lignorum.
+      ukr: і в обробленні каменя, щоб всаджувати, і в обробленні дерева, щоб робити в
+        усякій роботі.
+      nkjv: in cutting jewels for setting, in carving wood, and to work in all manner
+        of workmanship.
+      desnitsky: ""
+      mt: ‫   וּבַחֲרֹשֶׁת אֶבֶן לְמַלֹּאת וּבַחֲרֹשֶׁת עֵץ לַעֲשׂוֹת בְּכָל־מְלָאכָה׃
+        ‬
+      romana: Sa slefuiasca pietre scumpe pentru podoabe si sa sape in lemn tot felul
+        de lucruri.
+      francais: de graver les pierres à enchâsser, de travailler le bois, et
+        d'exécuter toutes sortes d'ouvrages.
+      italian: per intagliare le pietre da incastonare, per scolpire il legno e
+        compiere ogni sorta di lavoro.
+      old_georgian: და იაკინთისა და ძოწეულისა, და მეწამულისა მის სთულისა და ზეზისა მის
+        ძახილისა სამსახურებელისა მის, და საქმისა მისა ძელით ხუროობისა საქმედ,
+        ყოვლისავე საქმისაებრ.
+      portuguese: e em lavramento de pedras para engastar, e em entalhadura de
+        madeira, enfim para trabalhar em todo ofício.
+      polish: "i w rzeźbieniu kamieni do oprawy, i w rzeźbieniu drzewa oraz
+        wykonaniu\rróżnych dzieł."
+      turkish: taş kesme ve kakmada, ağaç oymacılığında, her türlü sanat dalında
+        çalışsın.
+      nrt: гранить и оправлять камни, резать по дереву и заниматься всяким ремеслом.
+      Macarius: И резать камни для вставливания, и резать дерево для всякого дела.
+      serbian: Да умије резати камење и укивати, да умије тесати дрво, и сваки посао
+        радити.
+      bulgarian: да реже камъни за обковка и да изрязва дърво за всякаква работа;
+      deutsch: kunstreich Steine zu schneiden und einzusetzen, und kunstreich zu
+        zimmern am Holz, zu machen allerlei Werk.
+      ukr2: і щоб обточував дорогоцінне каміння для вправи у гнізда, а й у різьбі
+        дерева, щоб викінчити всяке діло.
+      ukr3: І вирізувати на дорогому каменї і вирізувати з дерева, і робити у всякому
+        реместві.
+      bel_syomukha: рэзаць камяні, каб устаноўліваць іх, і рэзаць дрэва дзеля ўсякай патрэбы;
+      lev-khv: И резать камни для вставливания, и резать дерево, <i>и</i> делать
+        всякое дело.
+      czech: opracovavat kameny pro vsazovani a obrabet drevo ke zhotoveni jakehokoli
+        dila.
+      spanish: para tallar piedras y engastarlas, para tallar la madera y ejecutar
+        trabajos de toda suerte.
+      st_text: резать камни для вставливания и резать дерево для всякого дела;
+  - id: 21964
+    number: 6
+    bookId: 2
+    text: "и вот, Я даю ему помощником Аголиава, сына Ахисамахова, из колена Данова,
+      и в сердце всякого мудрого вложу мудрость, дабы они сделали всё, что Я
+      повелел тебе:"
+    chapter: 31
+    chapterId: 81
+    parallels:
+      - verseId: 22103
+        bookId: 2
+        bookCode: ishod
+        chapter: 35
+        short: Исх:35:34
+    translates:
+      kassian: ""
+      podstr: И Я дал его и Елиава [который сын] Ахисамаха из племени Дана и всякому
+        разумному сердцем [Я] дал понимание, и сделают всё, сколькое тебе
+        приказал,
+      csya: "и аз дах его и елиава сына ахисамахова от племене данова, и всякому
+        смысленному сердцем дах смысл, и потрудятся, и сотворят вся, елика
+        заповедах тебе:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 ѓзъ дaхъ є3го2 и3 є3ліaва сы1на ґхісамaхова t пле1мене дaнова, и3
+        всsкому смы1сленному се1рдцемъ дaхъ смы1слъ, и3 потрудsтсz, и3 сотворsтъ
+        вс‰, є3ли6ка заповёдахъ тебЁ:"
+      sovr_rbo: "Я дал ему в помощники Оголиава, сына Ахисамаха, из племени Дана, и
+        всех умельцев наделил мастерством. Пусть они сделают все, что Я тебе
+        повелел сделать:"
+      latin: "Dedique ei socium Ooliab filium Achisamech de tribu Dan. Et in corde
+        omnis eruditi posui sapientiam: ut faciant cuncta quae praecepi tibi,"
+      ukr: "І Я ото дав із ним Оголіява, Ахісамахового сина, Данового племени. А в
+        серце кожного мудросердого Я дав мудрість, і зроблять вони все, що Я
+        наказав був тобі:"
+      nkjv: "And I, indeed I, have appointed with him Aholiab the son of Ahisamach, of
+        the tribe of Dan; and I have put wisdom in the hearts of all who are
+        gifted artisans, that they may make all that I have commanded you:"
+      desnitsky: ""
+      mt: ‫   וַאֲנִי הִנֵּה נָתַתִּי אִתּוֹ אֵת אָהֳלִיאָב בֶּן־אֲחִיסָמָךְ
+        לְמַטֵּה־דָן וּבְלֵב כָּל־חֲכַם־לֵב נָתַתִּי חָכְמָה וְעָשׂוּ אֵת
+        כָּל־אֲשֶׁר צִוִּיתִךָ׃ ‬
+      romana: "Si iata, i-am dat ca ajutor pe Oholiab, fiul lui Ahisamac, din semintia
+        lui Dan, si am pus intelepciune in mintea oricarui om iscusit, ca sa
+        faca toate cate ti-am poruncit:"
+      francais: "Et voici, je lui ai donné pour aide Oholiab, fils d'Ahisamac, de la
+        tribu de Dan. J'ai mis de l'intelligence dans l'esprit de tous ceux qui
+        sont habiles, pour qu'ils fassent tout ce que je t'ai ordonné:"
+      italian: "Ed ecco gli ho dato per compagno Ooliab, figlio di Achisamach, della
+        tribù di Dan. Inoltre nel cuore di ogni artista ho infuso saggezza,
+        perché possano eseguire quanto ti ho comandato:"
+      old_georgian: და მე მივსცე მას ელიაბ, ძე აქისამაქისი, ტომისაგან დაანისა და
+        ყოველსა გულისხმის-მყოფელსა გულითა მივეც მეცნიერებაჲ, და ქმნენ ყოველი,
+        რომელი გიბრძანე შენ.
+      portuguese: "E eis que eu tenho designado com ele a Aoliabe, filho de Aisamaque,
+        da tribo de Dã, e tenho dado sabedoria ao\rcoração de todos os homens
+        hábeis, para fazerem tudo o que te hei ordenado,"
+      polish: "A dodam mu Oholiaba, syna Achisamaka z pokolenia Dana.
+        Napełniłem\rumysł wszystkich rękodzielników mądrością, aby mogli wykonać
+        to, co ci\rrozkazałem:"
+      turkish: Ayrıca Dan oymağından Ahisamak oğlu Oholiav'ı onunla çalışması için
+        görevlendirdim. Sana buyurduğum işlerin hepsini yapabilsinler diye öteki
+        becerikli adamlara üstün yetenek verdim.
+      nrt: "Еще Я дал Оголиава, сына Ахисамаха, из рода Дана, ему в помощники. Я
+        наделил мастерством всех ремесленников, чтобы они сделали все, что Я
+        повелел тебе:"
+      Macarius: "И вот, Я присовокупляю к нему Аголиава, сына Ахисамахова, из колена
+        Данова, и в сердце всякого мудрого сердцем влагаю мудрость, дабы они
+        сделали все, что Я повелел тебе:"
+      serbian: И ево, удружих с њим Елијава, сина Ахисамахова од племена Данова, и
+        свакому вјештом човјеку у срце дадох вјештину да израде све што сам ти
+        заповједио.
+      bulgarian: "и ето, давам му за помощник Ахисамаховия син Ахолиав, от Даново
+        коляно, и в сърцето на всеки мъдър ще вложа мъдрост, за да направят
+        всичко, що ти заповядах:"
+      deutsch: "Und siehe, ich habe ihm zugegeben Oholiab, den Sohn Ahisamachs, vom
+        Stamme Dan; und habe allerlei Weisen die Weisheit ins Herz gegeben, daß
+        sie machen sollen alles, was ich dir geboten habe:"
+      ukr2: "І дав я йому помічника Оголіява, сина Ахісамаха, з коліна Дана, і вклав
+        хист у серце кожному умільцеві, щоб зробити все, що я заповідав тобі:"
+      ukr3: "І се прилучив я сам до його за помічника Оголїаба Ахісамашенка, з коліна
+        Данового, і вложив я мудрість в серце кожного, в кого мудре серце, щоб
+        уміли вони все зробити, що заповідав я тобі:"
+      bel_syomukha: "і вось, я даю яму памочнікам Агаліява, сына Ахісамахавага, з
+        племя Данавага, і ў сэрца кожнаму мудраму ўкладу мудрасьць, каб яны
+        зрабілі ўсё, што Я загадаў табе:"
+      lev-khv: "И вот, Я даю ему помощников Аголиава, сына Ахисамахова, из колена
+        Данова, и в сердце всякаго мудраго вложил мудрость, чтобы они сделали
+        все, чтó Я повелел тебе:"
+      czech: "Dal jsem mu take k ruce Oholiaba, syna Achisamakova z pokoleni Danova. A
+        do srdce kazdeho dovedneho remeslnika jsem vlozil moudrost, aby
+        zhotovili vsecko, co jsem ti prikazal:"
+      spanish: "Le asocio Odolías, hijo de Ajisamec, de la tribu de Dan. He puesto la
+        sabiduría en el corazón de todos los hombres hábiles para que ejecuten
+        todo lo que te he mandado hacer:"
+      st_text: "и вот, Я даю ему помощником Аголиава, сына Ахисамахова, из колена
+        Данова, и в сердце всякого мудрого вложу мудрость, дабы они сделали всё,
+        что Я повелел тебе:"
+  - id: 21965
+    number: 7
+    bookId: 2
+    text: скинию собрания и ковчег откровения и крышку на него, и все принадлежности
+      скинии,
+    chapter: 31
+    chapterId: 81
+    parallels:
+      - verseId: 22080
+        bookId: 2
+        bookCode: ishod
+        chapter: 35
+        short: Исх:35:11
+    translates:
+      kassian: ""
+      podstr: скинию свидетельства и ковчег завета и золотую крышку которая на нём и
+        убранство скинии
+      csya: скинию свидения и кивот завета, и очистилище еже верху его, и утварь
+        скинии,
+      averincev: ""
+      ungerov: ""
+      csya_old: ски1нію свидёніz и3 ківHтъ завёта, и3 њчисти1лище є4же верхY є3гw2, и3
+        ќтварь ски1ніи,
+      sovr_rbo: Шатер Встречи, ковчег Завета, навершие ковчега и все принадлежности
+        Шатра,
+      latin: tabernaculum foederis, et arcam testimonii, et propitiatorium, quod super
+        eam est, et cuncta vasa tabernaculi,
+      ukr: скинію заповіту, і ковчега для свідоцтва, і віко, що на ньому, і всі
+        скинійні речі,
+      nkjv: the tabernacle of meeting, the ark of the Testimony and the mercy seat
+        that is on it, and all the furniture of the tabernacle -
+      desnitsky: ""
+      mt: ‫   אֵת אֹהֶל מוֹעֵד וְאֶת־הָאָרֹן לָעֵדֻת וְאֶת־הַכַּפֹּרֶת אֲשֶׁר עָלָיו
+        וְאֵת כָּל־כְּלֵי הָאֹהֶל׃ ‬
+      romana: Cortul adunarii, chivotul legii, capacul cel de deasupra lui si toate
+        lucrurile cortului;
+      francais: la tente d'assignation, l'arche du témoignage, le propitiatoire qui
+        sera dessus, et tous les ustensiles de la tente;
+      italian: la tenda del convegno, l'arca della Testi monianza, il coperchio sopra
+        di essa e tutti gli accessori della tenda;
+      old_georgian: კარავი იგი საწამებელისაჲ და კიდობანი იგი შჯულისა და სალხინებელი
+        მას ზედა და შესამზადებელი იგი კარვისაჲ.
+      portuguese: "a saber: a tenda da revelação, a arca do testemunho, o
+        propiciatório que estará sobre ela, e todos os móveis da\rtenda;"
+      polish: "Namiot Spotkania, Arkę Świadectwa, przebłagalnię, która jest na niej,
+        i\rwszystkie sprzęty przybytku,"
+      turkish: Buluşma Çadırı'nı, Levha Sandığı'nı, sandığın üzerindeki Bağışlanma
+        Kapağı'nı, çadırın bütün takımlarını,
+      nrt: шатер собрания, ковчег свидетельства с его крышкой и прочую утварь шатра
+      Macarius: Скинию собрания и ковчег откровения, и очистилище, которое должно быть
+        на нем, и все принадлежности скинии,
+      serbian: Шатор од састанка, и ковчег за свједочанство и заклопац на њ, и све
+        справе у шатору,
+      bulgarian: скинията на събранието и ковчега на откровението и очистилището над
+        него, и всички принадлежности на скинията;
+      deutsch: die Hütte des Stifts, die Lade des Zeugnisses, den Gnadenstuhl darauf
+        und alle Geräte der Hütte,
+      ukr2: намет зборів, кивот Свідоцтва, віко, що на ньому, і всю утвар у шатрі;
+      ukr3: Громадський намет і скриню сьвідчення і віко, що на їй, і всю посудину в
+        наметї;
+      bel_syomukha: скінію сходу і каўчэг адкрыцьця і века на яго, і ўсе прылады скініі,
+      lev-khv: Скинию собрания, и ковчег свидетельства, и крышку на него, и все
+        принадлежности скинии,
+      czech: stan setkavani a schranu svedectvi, tez prikrov na ni a vsecko nacini
+        stanu,
+      spanish: el tabernáculo de la reunión, el arca del testimonio, el propiciatorio
+        de encima y todos los muebles del tabernáculo,
+      st_text: скинию собрания и ковчег откровения и крышку на него, и все
+        принадлежности скинии,
+  - id: 21966
+    number: 8
+    bookId: 2
+    text: и стол и [все] принадлежности его, и светильник из чистого золота и все
+      принадлежности его, и жертвенник курения,
+    chapter: 31
+    chapterId: 81
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и жертвенники и стол и все вещи его и светильник чистый и все вещи его
+      csya: и жертвенники, и трапезу и вся сосуды ея, и светильник чистый и вся сосуды
+        его,
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 же1ртвенники, и3 трапе1зу и3 вс‰ сосyды є3S, и3 свэти1льникъ
+        чи1стый и3 вс‰ сосyды є3гw2,
+      sovr_rbo: стол и его сосуды, светильник из чистого золота и все его
+        принадлежности, жертвенник для воскурений,
+      latin: mensamque et vasa ejus, candelabrum purissimum cum vasis suis, et altaris
+        thymiamatis,
+      ukr: і стола та речі його, і чистого свічника та всі речі його, і жертівника
+        кадила,
+      nkjv: the table and its utensils, the pure gold lampstand with all its utensils,
+        the altar of incense,
+      desnitsky: ""
+      mt: ‫   וְאֶת־הַשֻּׁלְחָן וְאֶת־כֵּלָיו וְאֶת־הַמְּנֹרָה הַטְּהֹרָה
+        וְאֶת־כָּל־כֵּלֶיהָ וְאֵת מִזְבַּח הַקְּטֹרֶת׃ ‬
+      romana: Masa si toate vasele ei; sfesnicul cel de aur curat cu toate obiectele
+        lui si jertfelnicul tamaierii;
+      francais: la table et ses ustensiles, le chandelier d'or pur et tous ses
+        ustensiles,
+      italian: la tavola con i suoi accessori, il candelabro puro con i suoi
+        accessori, l'altare dei profumi
+      old_georgian: საკურთხეველები და ტაბლა და ყოველი ჭურჭელი მისი, და სასანთლენი
+        წმიდაჲ და ყოველნი ჭურჭელნი მისნი და საკურთხეველი საკუმეველთა.
+      portuguese: a mesa com os seus utensílios, o candelabro de ouro puro com todos
+        os seus utensílios, o altar do incenso,
+      polish: i stół oraz wszystkie jego naczynia, świecznik z najczystszego złota i
+        wszystkie przyrządy należące do niego, ołtarz kadzenia,
+      turkish: masayla takımlarını, saf altın kandillikle takımlarını, buhur sunağını,
+      nrt: стол с его утварью и светильник из чистого золота со всей его утварью,
+        жертвенник для сожжения благовоний,
+      Macarius: И стол и принадлежности его, светильник чистый и все принадлежности
+        его, и жертвенник курения,
+      serbian: И сто и справе његове, и свијетњак чисти са свијем справама његовијем,
+        и олтар кадиони,
+      bulgarian: трапезата и (всички) нейни принадлежности; светилника от чисто злато
+        и всичките му принадлежности, и кадилния жертвеник;
+      deutsch: den Tisch und sein Gerät, den feinen Leuchter und all sein Gerät, den
+        Räucheraltar,
+      ukr2: стіл і посуд його, і світильник чистий і все його приладдя, і кадильний
+        жертовник,
+      ukr3: І стіл і всю посудину його, і сьвітильника чистого, і всю посудину його, і
+        кадильного жертівника,
+      bel_syomukha: і стол і прылады яго, і сьвяцільню з чыстага золата і ўсе прылады
+        яго, і ахвярнік дымленьня,
+      lev-khv: И стол и принадлежности его, и светильник чистый и все принадлежности
+        его, и жертвенник курения,
+      czech: stul s nacinim, svicen z cisteho zlata s veskerym nacinim a kadidlovy
+        oltar;
+      spanish: la mesa con sus utensilios; el candelabro de oro con sus utensilios; el
+        altar de los perfumes;
+      st_text: и стол и [все] принадлежности его, и светильник из чистого золота и все
+        принадлежности его, и жертвенник курения,
+  - id: 21967
+    number: 9
+    bookId: 2
+    text: и жертвенник всесожжения и все принадлежности его, и умывальник и подножие
+      его,
+    chapter: 31
+    chapterId: 81
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и умывальник и основание его
+      csya: и умывальницу и стояло ея,
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 ўмывaльницу и3 стоsло є3S,
+      sovr_rbo: жертвенник для всесожжении и его утварь, чан с подставкой,
+      latin: et holocausti, et omnia vasa eorum, labrum cum basi sua,
+      ukr: і жертівника цілопалення та всі речі його, і вмивальницю та підставу її,
+      nkjv: the altar of burnt offering with all its utensils, and the laver and its
+        base -
+      desnitsky: ""
+      mt: ‫   וְאֶת־מִזְבַּח הָעֹלָה וְאֶת־כָּל־כֵּלָיו וְאֶת־הַכִּיּוֹר
+        וְאֶת־כַּנּוֹ׃ ‬
+      romana: Jertfelnicul pentru arderile de tot cu toate obiectele lui; baia si
+        postamentul ei;
+      francais: l'autel des parfums; l'autel des holocaustes et tous ses ustensiles,
+        la cuve avec sa base;
+      italian: e l'altare degli olocausti con tutti i suoi accessori, la conca con il
+        suo piedestallo,
+      old_georgian: და საკურთხეველი შესაწირავთა და ყოველი ჭურჭელი მისი და საბანელი და
+        ხარისხი მისი.
+      portuguese: o altar do holocausto com todos os seus utensílios, e a pia com a
+        sua base;
+      polish: ołtarz całopalenia i wszystkie przyrządy należące do niego, kadź i jego
+        podstawę,
+      turkish: yakmalık sunu sunağıyla takımlarını, kazanla kazan ayaklığını,
+      nrt: жертвенник для всесожжений со всей его утварью, умывальник с его
+        основанием,
+      Macarius: И жертвенник всесожжения, и все принадлежности его, умывальницу и
+        основание ее.
+      serbian: И олтар за жртву паљеницу са свијем справама његовијем, и умиваоницу и
+        подножје њезино,
+      bulgarian: жертвеника за всесъжение и всичките му принадлежности, умивалника и
+        подножката му;
+      deutsch: den Brandopferaltar mit allem seinem Geräte, das Handfaß mit seinem Fuß,
+      ukr2: і жертовник для всепалень та все знаряддя його, і вмивальницю і підставку
+        її;
+      ukr3: І жертівника всепалення і всю посудину його.
+      bel_syomukha: і ахвярнік цэласпаленьня і ўсе прылады яго, і ўмывальнік і падножжа яго,
+      lev-khv: И жертвенник всесожжения и все принадлежности его, и умывальник и
+        подножие его,
+      czech: i oltar pro zapalne obeti s veskerym nacinim a nadrz s podstavcem;
+      spanish: el altar de los holocaustos con sus utensilios, la pila con su base;
+      st_text: и жертвенник всесожжения и все принадлежности его, и умывальник и
+        подножие его,
+  - id: 21968
+    number: 10
+    bookId: 2
+    text: и одежды служебные и одежды священные Аарону священнику, и одежды сынам
+      его, для священнослужения,
+    chapter: 31
+    chapterId: 81
+    parallels:
+      - verseId: 21811
+        bookId: 2
+        bookCode: ishod
+        chapter: 28
+        short: Исх:28:2
+    translates:
+      kassian: ""
+      podstr: и одеяния служебные Аарона и одеяния сыновей его священнодействовать Мне
+      csya: и ризы служебныя аароновы и ризы сынов его, еже священнодействовати мне,
+      averincev: ""
+      ungerov: ""
+      csya_old: и3 ри6зы служє1бныz ґарHнwвы и3 ри6зы сынHвъ є3гw2, є4же
+        свzщеннодёйствовати мнЁ,
+      sovr_rbo: одежду для служения — священные одежды Аарона-священника и
+        священнические одежды его сыновей,
+      latin: "vestes sanctas in ministerio Aaron sacerdoti, et filiis ejus, ut
+        fungantur officio suo in sacris:"
+      ukr: і шати служебні, і шати священні для священика Аарона, і шати синів його на
+        священнослуження,
+      nkjv: the garments of ministry, the holy garments for Aaron the priest and the
+        garments of his sons, to minister as priests,
+      desnitsky: ""
+      mt: ‫   וְאֵת בִּגְדֵי הַשְּׂרָד וְאֶת־בִּגְדֵי הַקֹּדֶשׁ לְאַהֲרֹן הַכֹּהֵן
+        וְאֶת־בִּגְדֵי בָנָיו לְכַהֵן׃ ‬
+      romana: tesaturile pentru invelis, vesmintele sfintite pentru Aaron preotul si
+        vesmintele de slujba pentru fiii lui;
+      francais: les vêtements d'office, les vêtements sacrés pour le sacrificateur
+        Aaron, les vêtements de ses fils pour les fonctions du sacerdoce;
+      italian: le vesti ornamentali, le vesti sacre del sacerdote Aronne e le vesti
+        dei suoi figli per esercitare il sacerdozio;
+      old_georgian: და შესამოსელი ქვესამსახურებელი სიწმიდისანი და სამოსელნი იგი,
+        სამსახურებელნი აჰრონისი და სამოსელნი იგი ძეთა მისთანი სამღდელოდ ჩემდა.
+      portuguese: "as vestes finamente tecidas, as vestes sagradas de Arão, o
+        sacerdote, e as de seus filhos, para administrarem o\rsacerdócio;"
+      polish: "święte szaty z drogocennej tkaniny dla Aarona kapłana i szaty dla jego
+        synów,\rdo sprawowania czynności kapłańskich,"
+      turkish: dokunmuş giysileri -Kâhin Harun'un kutsal giysileriyle oğullarının
+        kâhin giysilerini-
+      nrt: тканые одеяния – священные одеяния для священника Аарона и его сыновей,
+        чтобы они служили в них как священники,
+      Macarius: И одежды служебные, и одежды священные Аарону священнику; и одежды
+        сынам его, для священнослужения,
+      serbian: И хаљине службене и свете хаљине Арону свештенику и хаљине синовима
+        његовијем, да врше службу свештеничку,
+      bulgarian: служебните одежди и свещените одежди на свещеник Аарона и одеждите на
+        синовете му за свещена служба;
+      deutsch: die Amtskleider und die heiligen Kleider des Priesters Aaron und die
+        Kleider seiner Söhne, priesterlich zu dienen,
+      ukr2: і одіж службову, і святі ризи для Арона священика, і ризи для синів його,
+        щоб служили у священнодії;
+      ukr3: І вмивальницю, і підставку її, і шати службові, і шати сьвяті для Арона
+        сьвященника, і шати для синів його, щоб служили службу сьвяту.
+      bel_syomukha: і вопратку службовую і вопратку сьвяшчэнную Аарону сьвятару і
+        вопратку сынам ягоным для набажэнства,
+      lev-khv: И одежды служебныя, и одежды священныя Аарону священнику, и одежды
+        сынам его для священнослужения,
+      czech: take jemne tkana roucha, totiz svata roucha pro kneze Arona a roucha jeho
+        synu ke knezske sluzbe;
+      spanish: las vestiduras sagradas para Arón y sus hijos, para ejercer los
+        ministerios sacerdotales;
+      st_text: и одежды служебные и одежды священные Аарону священнику, и одежды сынам
+        его, для священнослужения,
+  - id: 21969
+    number: 11
+    bookId: 2
+    text: "и елей помазания и курение благовонное для святилища: всё так, как Я
+      повелел тебе, они сделают."
+    chapter: 31
+    chapterId: 81
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: и масло помазания и фимиам приготовления святой; согласно всему,
+        сколькое Я приказал тебе, сделают.
+      csya: "и елей помазания, и фимиам сложения святаго: по всем, елика заповедах
+        тебе, сотворят."
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 є3ле1й помaзаніz, и3 fmміaмъ сложе1ніz с™aгw: по всBмъ, є3ли6ка
+        заповёдахъ тебЁ, сотворsтъ."
+      sovr_rbo: а также масло для помазания и благовония для воскурений в святилище.
+        Они должны сделать все так, как Я тебе повелел».
+      latin: oleum unctionis, et thymiama aromatum in sanctuario, omnia quae praecepi
+        tibi, facient.
+      ukr: і оливу помазання, і запашне кадило для святині, як усе, що Я наказав був
+        тобі, вони зроблять.
+      nkjv: and the anointing oil and sweet incense for the holy place. According to
+        all that I have commanded you they shall do."
+      desnitsky: ""
+      mt: ‫   וְאֵת שֶׁמֶן הַמִּשְׁחָה וְאֶת־קְטֹרֶת הַסַּמִּים לַקֹּדֶשׁ כְּכֹל
+        אֲשֶׁר־צִוִּיתִךָ יַעֲשׂוּ׃ פ ‬
+      romana: Mirul pentru ungere si aromatele mirositoare pentru locasul cel sfant;
+        toate le vor face ei asa, cum ti-am poruncit Eu tie".
+      francais: l'huile d'onction, et le parfum odoriférant pour le sanctuaire. Ils se
+        conformeront à tous les ordres que j'ai donnés.
+      italian: l'olio dell'unzione e il profumo degli aromi per il santuario. Essi
+        eseguiranno ogni cosa secondo quanto ti ho ordinato".
+      old_georgian: და ზეთი იგი ცხებულებისა და საკუმეველი იგი შეზავებული სიწმიდისა
+        მსგავსად ყოვლისა, რომელი გიბრძანე შენ, ქმნენ ყოველთაებრ, რომელთა მე
+        გამცნებდ შენ ქმნად.
+      portuguese: o óleo da unção, e o incenso aromático para o lugar santo; eles
+        farão conforme tudo o que te hei mandado.
+      polish: "i olej do namaszczenia, i kadzidło wonne do przybytku. Wszystko to
+        winni\ruczynić według rozkazu, jaki otrzymałeś ode Mnie”."
+      turkish: mesh yağını, kutsal yer için güzel kokulu buhuru tam sana buyurduğum
+        gibi yapsınlar.»
+      nrt: масло для помазания и благовония для святилища. Пусть они сделают их в
+        точности так, как Я повелел тебе.
+      Macarius: "И елей помазания и курение благовонное для святилища: все так, как Я
+        повелел тебе, они сделают."
+      serbian: И уље помазања, и кад мирисни за светињу. Све нека начине онако како
+        сам ти заповједио.
+      bulgarian: помазния елей и благовонното кадиво за светилището - всичко тъй да
+        направят, както Аз ти заповядах.
+      deutsch: das Salböl und das Räuchwerk von Spezerei zum Heiligtum. Alles, was ich
+        dir geboten habe, werden sie machen.
+      ukr2: "і миро для помазання, і благовонні пахощі для святині: усе мають зробити
+        достеменно, як заповідав я тобі.»"
+      ukr3: "І миро і запашні пахощі для сьвятинї: Усе, як заповідав я тобі, мають
+        зробити вони."
+      bel_syomukha: "і алей памазаньня і дымленьне пахучае для сьвятыні: усё так, як Я
+        загадаў табе, яны зробяць."
+      lev-khv: "И елей помазания, и курение благовонное для святилища: все так, как Я
+        повелел тебе, они сделают."
+      czech: i olej k pomazani a kadidlo z vonnych latek pro svatyni. At ucini
+        vsechno, jak jsem ti prikazal."
+      spanish: el óleo de unción y el timiama aromático para el santuario. Cuanto yo
+        te he mandado hacer, ellos lo harán>>.
+      st_text: "и елей помазания и курение благовонное для святилища: всё так, как Я
+        повелел тебе, они сделают."
+  - id: 21970
+    number: 12
+    bookId: 2
+    text: "И сказал Господь Моисею, говоря:"
+    chapter: 31
+    chapterId: 81
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: "И сказал Господь к Моисею говорящий:"
+      csya: "И рече Господь к моисею, глаголя:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "И# рече2 гDь къ мwmсе1ю, гlz:"
+      sovr_rbo: "Господь велел Моисею:"
+      latin: "Et locutus est Dominus ad Moysen, dicens:"
+      ukr: "І промовив Господь до Мойсея, говорячи:"
+      nkjv: And the Lord spoke to Moses, saying,
+      desnitsky: ""
+      mt: ‫   וַיֹּאמֶר יְהוָה אֶל־מֹשֶׁה לֵּאמֹר׃ ‬
+      romana: "Si a mai vorbit Domnul cu Moise si a zis:"
+      francais: "L'Éternel parla à Moïse, et dit:"
+      italian: "Il Signore disse a Mosè:"
+      old_georgian: "და იტყოდა უფალი მოსეს მიმართ მეტყველი:"
+      portuguese: "Disse mais o Senhor a Moisés:"
+      polish: "Potem tak rzekł Pan do Mojżesza:"
+      turkish: "RAB Musa'ya şöyle buyurdu:"
+      nrt: "Господь сказал Моисею:"
+      Macarius: "И сказал Иегова Моисею сими словами:"
+      serbian: "И рече Господ Мојсију говорећи:"
+      bulgarian: "Говори още Господ на Моисея и каза:"
+      deutsch: "Und der Herr redete mit Mose und sprach:"
+      ukr2: "Господь сказав Мойсеєві:"
+      ukr3: "І рече Господь Мойсейові:"
+      bel_syomukha: "І наказаў Гасподзь Майсею сказаць:"
+      lev-khv: "И сказал Господь Моисею, говоря:"
+      czech: "Hospodin rekl Mojzisovi:"
+      spanish: "Yavé habló a Moisés, diciendo:"
+      st_text: "И сказал Господь Моисею, говоря:"
+  - id: 21971
+    number: 13
+    bookId: 2
+    text: "скажи сынам Израилевым так: субботы Мои соблюдайте, ибо это - знамение
+      между Мною и вами в роды ваши, дабы вы знали, что Я Господь, освящающий
+      вас;"
+    chapter: 31
+    chapterId: 81
+    parallels:
+      - verseId: 21575
+        bookId: 2
+        bookCode: ishod
+        chapter: 20
+        short: Исх:20:8
+      - verseId: 16924
+        bookId: 33
+        bookCode: kniga-proroka-iezekiila
+        chapter: 20
+        short: Иез:20:12
+    translates:
+      kassian: ""
+      podstr: "И ты прикажешь сыновьям Израиля говорящий: Смотрите и субботы Мои
+        сохраните; знамение это есть у Меня и среди вас в поколения ваши, чтобы
+        вы узнали что Я Господь освящающий вас."
+      csya: "и ты заповеждь сыном израилевым, глаголя: смотрите и субботы моя
+        сохраните: есть бо знамение между мною и вами в роды вашя, да увесте,
+        яко аз Господь освящаяй вас:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 ты2 заповёждь сынHмъ ї}лєвымъ, глаго1лz: смотри1те и3 суббw6ты мо‰
+        сохрани1те: є4сть бо знaменіе междY мно1ю и3 вaми въ ро1ды вaшz, да
+        ўвёсте, ћкw ѓзъ гDь њсщ7azй вaсъ:"
+      sovr_rbo: «Скажи сынам Израилевым, чтобы они соблюдали Мои субботы. Из рода в
+        род суббота будет знаком, установленным между Мною и вами, чтобы вы
+        помнили, что Я, Господь, освятил вас.
+      latin: "Loquere filiis Israel, et dices ad eos: Videte ut sabbatum meum
+        custodiatis: quia signum est inter me et vos in generationibus vestris:
+        ut sciatis quia ego Dominus, qui sanctifico vos."
+      ukr: "А ти промовляй Ізраїлевим синам, говорячи: Тільки суботи Мої будете
+        пильнувати, бо це знак поміж Мною та поміж вами для ваших поколінь, щоб
+        ви познали, що Я Господь, що освячує вас!"
+      nkjv: "\"Speak also to the children of Israel, saying: 'Surely My Sabbaths you
+        shall keep, for it is a sign between Me and you throughout your
+        generations, that you may know that I am the Lord who sanctifies you. "
+      desnitsky: ""
+      mt: ‫   וְאַתָּה דַּבֵּר אֶל־בְּנֵי יִשְׂרָאֵל לֵאמֹר אַךְ אֶת־שַׁבְּתֹתַי
+        תִּשְׁמֹרוּ כִּי אוֹת הִוא בֵּינִי וּבֵינֵיכֶם לְדֹרֹתֵיכֶם לָדַעַת כִּי
+        אֲנִי יְהוָה מְקַדִּשְׁכֶם׃ ‬
+      romana: '"Spune fiilor lui Israel asa: Bagati de seama sa paziti zilele Mele de
+        odihna, caci acestea sunt semn intre Mine si voi din neam in neam, ca sa
+        stiti ca Eu sunt Domnul, Cel ce va sfinteste.'
+      francais: "Parle aux enfants d'Israël, et dis-leur: Vous ne manquerez pas
+        d'observer mes sabbats, car ce sera entre moi et vous, et parmi vos
+        descendants, un signe auquel on connaîtra que je suis l'Éternel qui vous
+        sanctifie."
+      italian: '"Quanto a te, parla agli Israeliti e riferisci loro: In tutto dovrete
+        osservare i miei sabati, perché il sabato è un segno tra me e voi, per
+        le vostre generazioni, perché si sappia che io sono il Signore che vi
+        santifica.'
+      old_georgian: "შენ ეტყოდე ძეთა ისრაჱლისათა და არქუ: ეკრძალენით და შაბათი ჩემი
+        დაიმარხენით, რამეთუ იგი სასწაული ჩემდამო და თქუენ შორის და ნათესავთა
+        თქვენთა, რათა სცნათ, რამეთუ მე ვარ უფალი, რომელმან განგწმიდენ თქუენ."
+      portuguese: "Falarás também aos filhos de Israel, dizendo: Certamente guardareis
+        os meus sábados; porquanto isso é um\rsinal entre mim e vós pelas vossas
+        gerações; para que saibais que eu sou o Senhor, que vos santifica."
+      polish: "”Powiedz Izraelitom: Przestrzegajcie pilnie moich szabatów, gdyż to
+        jest znak\rmiędzy Mną a wami dla wszystkich waszych pokoleń, by po tym
+        można było\rpoznać, że Ja jestem Pan, który was uświęcam."
+      turkish: «İsrailliler'e de ki, `Şabat günlerimi kesinlikle tutmalısınız. Çünkü o
+        sizinle benim aramda kuşaklar boyu sürecek bir belirtidir. Böylece
+        anlayacaksınız ki, sizi kutsal kılan RAB benim.
+      nrt: "– Скажи израильтянам: «Соблюдайте Мои субботы. Это будет знаком между Мной
+        и вами в грядущих поколениях, чтобы вы знали, что Я – Господь, Который
+        освящает вас."
+      Macarius: "Ты же скажи сынам Израилевым так: впрочем, субботы Мои соблюдайте;
+        ибо это — знамение между Мною и вами в роды ваши; дабы вы знали, что Я
+        Иегова, освящающий вас."
+      serbian: "А ти кажи синовима Израиљевијем и реци: Али суботе моје чувајте, јер
+        је знак између мене и вас од кољена до кољена, да знате да сам ја Господ
+        који вас посвећујем."
+      bulgarian: "кажи тъй на Израилевите синове: съботите Ми пазете, защото това е
+        знак между Мене и вас в родовете ви, за да знаете, че Аз съм Господ,
+        Който ви освещавам."
+      deutsch: "Sage den Kindern Israel und sprich: Haltet meinen Sabbat; denn
+        derselbe ist ein Zeichen zwischen mir und euch auf eure Nachkommen, daß
+        ihr wisset, daß ich der Herr bin, der euch heiligt."
+      ukr2: "«Ти ж промов до синів Ізраїля: Глядіть, пильнуйте мені суботи; бо вона -
+        знак між мною та вами для ваших поколінь, щоб знали, що я -Господь, який
+        освячує вас."
+      ukr3: "Ти ж промов до синів Ізрайлевих і кажи: Суботу ж мою мусите держати; бо
+        се знамя між мникою й вами в роди ваші, щоб ви знали, що я, Господь,
+        осьвячую вас."
+      bel_syomukha: "скажы сынам Ізраілевым так: суботы Мае шануйце, бо гэта - азнака
+        паміж Мною і вамі ў роды вашыя, каб вы ведалі, што Я Гасподзь, Які
+        асьвячае вас;"
+      lev-khv: "И скажи ты сынам Израилевым так: субботы же Мои соблюдайте; потому что
+        это знамение между Мною и вами в роды ваши, чтобы познали, что Я
+        Господь, освящающий вас."
+      czech: '"Promluv k Izraelcum: Dbejte na me dny odpocinku; to je znameni mezi
+        mnou a vami pro vsechna vase pokoleni, abyste vedeli, ze ja Hospodin vas
+        posvecuji.'
+      spanish: "<<Habla a los hijos de Israel y diles: No dejéis de guardar mis
+        sábados, porque el sábado es entre mí y vosotros una señal para vuestras
+        generaciones, y para que sepáis que soy yo, Yavé, el que os santifico."
+      st_text: "скажи сынам Израилевым так: субботы Мои соблюдайте, ибо это - знамение
+        между Мною и вами в роды ваши, дабы вы знали, что Я Господь, освящающий
+        вас;"
+  - id: 21972
+    number: 14
+    bookId: 2
+    text: "и соблюдайте субботу, ибо она свята для вас: кто осквернит ее, тот да
+      будет предан смерти; кто станет в оную делать дело, та душа должна быть
+      истреблена из среды народа своего;"
+    chapter: 31
+    chapterId: 81
+    parallels:
+      - verseId: 9866
+        bookId: 1
+        bookCode: bytie
+        chapter: 17
+        short: Быт:17:14
+      - verseId: 22071
+        bookId: 2
+        bookCode: ishod
+        chapter: 35
+        short: Исх:35:2
+      - verseId: 11445
+        bookId: 4
+        bookCode: cisla
+        chapter: 15
+        short: Чис:15:35
+      - verseId: 36775
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 5
+        short: Втор:5:12
+    translates:
+      kassian: ""
+      podstr: И сохраните субботы, потому что святое это есть Господа вам;
+        оскверняющий её смертью умрёт; всякий, который сделает в ней дело, будет
+        сгублена душа та из среды народа его.
+      csya: "и сохраните субботу, яко свята сия есть Господу и вам: осквернивый ю
+        смертию умрет: всяк, иже сотворит в ню дело, потребится душа та от среды
+        людий своих:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 сохрани1те суббHту, ћкw с™A сіS є4сть гDу и3 вaмъ: њскверни1вый ю5
+        сме1ртію ќмретъ: всsкъ, и4же сотвори1тъ въ ню2 дёло, потреби1тсz душA тA
+        t среды2 людjй свои1хъ:"
+      sovr_rbo: "Соблюдайте субботу: она для вас — святыня. Кто осквернит субботу, тот
+        должен быть предан смерти; всякий, кто работает в субботу, будет
+        отторгнут от своего рода."
+      latin: "Custodite sabbatum meum, sanctum est enim vobis: qui polluerit illud,
+        morte morietur; qui fecerit in eo opus, peribit anima illius de medio
+        populi sui."
+      ukr: І будете пильнувати суботу, бо вона святість для вас. Хто опоганить її, той
+        конче буде забитий, бо кожен, хто робить у ній роботу, то буде стята
+        душа та з-посеред народів її!
+      nkjv: You shall keep the Sabbath, therefore, for it is holy to you. Everyone who
+        profanes it shall surely be put to death; for whoever does any work on
+        it, that person shall be cut off from among his people.
+      desnitsky: ""
+      mt: ‫   וּשְׁמַרְתֶּם אֶת־הַשַּׁבָּת כִּי קֹדֶשׁ הִוא לָכֶם מְחַלְלֶיהָ מוֹת
+        יוּמָת כִּי כָּל־הָעֹשֶׂה בָהּ מְלָאכָה וְנִכְרְתָה הַנֶּפֶשׁ הַהִוא
+        מִקֶּרֶב עַמֶּיהָ׃ ‬
+      romana: Paziti deci ziua de odihna, caci ea este sfanta pentru voi. Cel ce o va
+        intina, acela va fi omorat; tot cel ce va face intr-insa vreo lucrare,
+        sufletul acela va fi starpit din poporul Meu;
+      francais: Vous observerez le sabbat, car il sera pour vous une chose sainte.
+        Celui qui le profanera, sera puni de mort; celui qui fera quelque
+        ouvrage ce jour-là, sera retranché du milieu de son peuple.
+      italian: Osserverete dunque il sabato, perché lo dovete ritenere santo. Chi lo
+        profanerà sarà messo a morte; chiunque in quel giorno farà qualche
+        lavoro, sarà eliminato dal suo popolo.
+      old_georgian: დაიმარხეთ შაბათი ჩემი, რამეთუ წმიდაჲ არს უფლისა მიერ თქუენ შორის,
+        რომელმან შეაგინოს იგი, სიკუდილითა მოკუდეს და ყოველმან, რომელმან ქმნეს
+        საქმე მას შინა, მოისპოს სული იგი შორის ერისა მის.
+      portuguese: "Portanto guardareis o sábado, porque santo é para vós; aquele que o
+        profanar certamente será morto; porque\rqualquer que nele fizer algum
+        trabalho, aquela alma será exterminada do meio do seu povo."
+      polish: "Przeto zachowujcie szabat, który winien być dla was świętością. I
+        ktokolwiek\rby go znieważył, będzie ukarany śmiercią, i każdy, kto by
+        wykonywał pracę\rw tym dniu, będzie wykluczony ze swojego ludu."
+      turkish: «`Şabat Günü'nü tutmalısınız, çünkü sizin için kutsaldır. Kim onun
+        kutsallığını bozarsa, kesinlikle öldürülmeli. O gün çalışan herkes
+        halkının arasından atılmalı.
+      nrt: "Соблюдайте субботу: она свята для вас. Всякий, кто осквернит ее, будет
+        предан смерти. Всякий, кто станет в этот день заниматься делами, будет
+        исторгнут из своего народа."
+      Macarius: "И соблюдите субботу; ибо она свята для вас: осквернивший ее да будет
+        предан смерти. Кто станет в оную делать дело, та душа истребится из
+        среды народа своего."
+      serbian: Чувајте дакле суботу, јер вам је света; ко би је оскврнио, да се
+        погуби; јер ко би год радио какав посао у њу, истријебиће се она душа из
+        народа својега.
+      bulgarian: "Пазете съботата, защото тя е света за вас: който я оскверни, да бъде
+        предаден на смърт; който в тоя ден върши работа, тая душа трябва да бъде
+        изтребена измежду народа си."
+      deutsch: Darum so haltet meinen Sabbat; denn er soll euch heilig sein. Wer ihn
+        entheiligt, der soll des Todes sterben. Denn wer eine Arbeit da tut, des
+        Seele soll ausgerottet werden von seinem Volk.
+      ukr2: "Пильнуйте, отже, суботи: вона бо має бути свята для вас; хто осквернить
+        її, нехай буде скараний смертю. І кожен, хто в ній робитиме якубудь
+        роботу, той буде викорінений з-поміж свого народу."
+      ukr3: "І допильновуйте суботи; вона бо вам сьвята: Хто опоганить її, того
+        скарати смертю; бо кожна душа, що робити ме яку роботу в день суботнїй,
+        буде вбита."
+      bel_syomukha: "і шануйце суботу, бо яна сьвятая для вас: хто апаганіць яе, той
+        хай будзе аддадзены сьмерці; хто будзе ў суботу рабіць працу, тая душа
+        павінна быць зьнішчана з асяродзьдзя народу свайго;"
+      lev-khv: "И соблюдайте субботу; потому что она свята для вас: кто осквернит ее,
+        тот да будет предан смерти; потому что, кто станет в оную делать дело,
+        та душа должна быть истреблена из среди народа своего."
+      czech: Budete dbat na den odpocinku; ma byt pro vas svaty. Kdo jej znesveti,
+        musi zemrit. Kazdy, kdo by v nem delal nejakou praci, bude vyobcovan ze
+        spolecenstvi sveho lidu.
+      spanish: Guardaréis el sábado, porque es cosa santa para vosotros. El que lo
+        profane será castigado con la muerte; el que en él trabaje será borrado
+        de en medio de su pueblo.
+      st_text: "и соблюдайте субботу, ибо она свята для вас: кто осквернит ее, тот да
+        будет предан смерти; кто станет в оную делать дело, та душа должна быть
+        истреблена из среды народа своего;"
+  - id: 21973
+    number: 15
+    bookId: 2
+    text: "шесть дней пусть делают дела, а в седьмой - суббота покоя, посвященная
+      Господу: всякий, кто делает дело в день субботний, да будет предан
+      смерти;"
+    chapter: 31
+    chapterId: 81
+    parallels:
+      - verseId: 21576
+        bookId: 2
+        bookCode: ishod
+        chapter: 20
+        short: Исх:20:9
+    translates:
+      kassian: ""
+      podstr: Шесть дней сделаешь дела, же день седьмой суббота, отдых святой Господу;
+        всякий, который сделает дело [в] день седьмой, смертью умрёт.
+      csya: "шесть дний да сотвориши дела, в день же седмый суббота, покой свят
+        Господу: всяк, иже сотворит дело в седмый день, смертию умрет:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "ше1сть днjй да сотвори1ши дэлA, въ де1нь же седмы1й суббHта, поко1й
+        с™ъ гDу: всsкъ, и4же сотвори1тъ дёло въ седмы1й де1нь, сме1ртію ќмретъ:"
+      sovr_rbo: Шесть дней пусть работают, а седьмой день — суббота, день покоя,
+        святыня Господня. Каждый, кто работает в субботу, должен быть предан
+        смерти.
+      latin: "Sex diebus facietis opus: in die septimo sabbatum est, requies sancta
+        Domino; omnis qui fecerit opus in hac die, morietur."
+      ukr: Шість день буде робитися праця, а дня сьомого субота відпочинку від праці,
+        святість для Господа. Кожен, хто робить роботу за суботнього дня, той
+        конче буде забитий!
+      nkjv: Work shall be done for six days, but the seventh is the Sabbath of rest,
+        holy to the Lord. Whoever does any work on the Sabbath day, he shall
+        surely be put to death.
+      desnitsky: ""
+      mt: ‫   שֵׁשֶׁת יָמִים יֵעָשֶׂה מְלָאכָה וּבַיּוֹם הַשְּׁבִיעִי שַׁבַּת
+        שַׁבָּתוֹן קֹדֶשׁ לַיהוָה כָּל־הָעֹשֶׂה מְלָאכָה בְּיוֹם הַשַּׁבָּת מוֹת
+        יוּמָת׃ ‬
+      romana: Sase zile sa lucreze, iar ziua a saptea este zi de odihna, inchinata
+        Domnului; tot cel ce va munci in ziua odihnei va fi omorat.
+      francais: On travaillera six jours; mais le septième jour est le sabbat, le
+        jour  du repos, consacré à l'Éternel. Celui qui fera quelque ouvrage le
+        jour du sabbat, sera puni de mort.
+      italian: Durante sei giorni si lavori, ma il settimo giorno vi sarà riposo
+        assoluto, sacro al Signore. Chiunque farà un lavoro di sabato sarà messo
+        a morte.
+      old_georgian: ექუს დღე იქმოდე საქმესა შენსა, ხოლო დღე იგი მეშჳდე განსუენება არს,
+        წმიდაჲ უფლისაჲ. ყოველმან, რომელმან ქმნეს საქმე მას დღესა, სიკუდილითა
+        მოკუედინ.
+      portuguese: "Seis dias se trabalhará, mas o sétimo dia será o sábado de descanso
+        solene, santo ao Senhor; qualquer que no\rdia do sábado fizer algum
+        trabalho, certamente será morto."
+      polish: "Przez sześć dni będzie się wykonywać pracę, ale dzień siódmy będzie
+        szabatem odpoczynku, poświęconym Panu, i dlatego ktokolwiek by
+        wykonywał\rpracę w dniu szabatu, winien być ukarany śmiercią."
+      turkish: Altı gün çalışılacak; ama yedinci gün RAB'be adanmış Şabat'tır,
+        dinlenme günüdür. Şabat Günü çalışan herkes kesinlikle öldürülmelidir.
+      nrt: Заниматься делами следует шесть дней, а седьмой день – это суббота покоя,
+        святыня Господа. Всякий, кто станет в субботу заниматься делами, будет
+        предан смерти.
+      Macarius: "Шесть дней пусть делают дело; а в день седьмый суббота покоя,
+        посвященная Иегове: всякий, делающий дело в день субботний, предан будет
+        смерти."
+      serbian: Шест дана нека се ради; а седми је дан субота, одмор, свет Господу; ко
+        би год радио посао у дан суботни, да се погуби.
+      bulgarian: "Шест дни да вършат работа, а в седмия е събота, почивка, посветена
+        Господу: всеки, който върши работа в съботен ден, да бъде предаден на
+        смърт."
+      deutsch: Sechs Tage soll man arbeiten; aber am siebenten Tag ist Sabbat, die
+        heilige Ruhe des Herrn. Wer eine Arbeit tut am Sabbattag, der soll des
+        Todes sterben.
+      ukr2: Шість днів для роботи, але сьомий день на цілковитий спочинок, присвячений
+        Господеві; кожен, хто робитиме якусь роботу в день суботній, буде
+        скараний смертю.
+      ukr3: Шість день для роботи, але семий день субота на спочинок, сьвятий день
+        Господеві; кожного, хто робити ме дїло в субітнїй день, скарати смертю.
+      bel_syomukha: "шэсьць дзён хай робіць працу, а ў сёмы субота спакою,
+        прысьвечаная Госпаду: кожны, хто робіць працу ў дзень суботні, хай будзе
+        аддадзены сьмерці;"
+      lev-khv: "Шесть дней пусть делают дело; а в день седьмой суббота покоя,
+        посвященная Господу: всякий, кто делает дело в день субботный, да будет
+        предан смерти."
+      czech: Sest dni se bude pracovat, ale sedmeho dne bude slavnost odpocinuti,
+        Hospodinuv svaty den odpocinku. Kazdy, kdo by delal nejakou praci v den
+        odpocinku, musi zemrit.
+      spanish: Se trabajará seis días, pero el día séptimo será día de descanso
+        completo, dedicado a Yavé. El que trabaje en sábado será castigado con
+        la muerte.
+      st_text: "шесть дней пусть делают дела, а в седьмой - суббота покоя, посвященная
+        Господу: всякий, кто делает дело в день субботний, да будет предан
+        смерти;"
+  - id: 21974
+    number: 16
+    bookId: 2
+    text: и пусть хранят сыны Израилевы субботу, празднуя субботу в роды свои, как
+      завет вечный;
+    chapter: 31
+    chapterId: 81
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: И сохранят сыновья Израиля субботы [чтобы] исполнять их в поколения их;
+        завет вечный.
+      csya: "и да сохранят сынове израилевы субботы держати я в роды их:"
+      averincev: ""
+      ungerov: ""
+      csya_old: "и3 да сохранsтъ сы1нове ї}лєвы суббw6ты держaти | въ ро1ды и4хъ:"
+      sovr_rbo: Пусть сыны Израилевы соблюдают субботу из рода в род — это вечный
+        договор.
+      latin: Custodiant filii Israel sabbatum, et celebrent illud in generationibus
+        suis. Pactum est sempiternum
+      ukr: І будуть Ізраїлеві сини додержувати суботу, щоб зробити суботу вічним
+        заповітом для своїх поколінь.
+      nkjv: Therefore the children of Israel shall keep the Sabbath, to observe the
+        Sabbath throughout their generations as a perpetual covenant.
+      desnitsky: ""
+      mt: ‫   וְשָׁמְרוּ בְנֵי־יִשְׂרָאֵל אֶת־הַשַּׁבָּת לַעֲשׂוֹת אֶת־הַשַּׁבָּת
+        לְדֹרֹתָם בְּרִית עוֹלָם׃ ‬
+      romana: Sa pazeasca deci fiii lui Israel ziua odihnei, praznuind ziua odihnei
+        din neam in neam, ca un legamant vesnic.
+      francais: Les enfants d'Israël observeront le sabbat, en le célébrant, eux et
+        leurs descendants, comme une alliance perpétuelle.
+      italian: Gli Israeliti osserveranno il sabato, festeggiando il sabato nelle loro
+        generazioni come un'alleanza perenne.
+      old_georgian: და დაიმარხედ ძეთა ისრაჱლისათა შაბათისა მის. ყოფად მისა ნათესავთა
+        მათ შორის სჯულად საუკუნოდ.
+      portuguese: Guardarão, pois, o sábado os filhos de Israel, celebrando-o nas suas
+        gerações como pacto perpétuo.,
+      polish: Izraelici winni pilnie przestrzegać szabatu jako obowiązku i przymierza
+        wiecznego poprzez pokolenia.
+      turkish: İsrailliler, sonsuza dek sürecek bir antlaşma gereği olarak, Şabat
+        Günü'nü kuşaklar boyu kutlamaya özen gösterecekler.
+      nrt: Израильтяне должны соблюдать субботу, празднуя ее в грядущих поколениях –
+        это вечный завет.
+      Macarius: Итак сыны Израилевы должны хранить субботу, празднуя субботу в роды
+        свои, по завету вечному.
+      serbian: Зато ће чувати синови Израиљеви суботу празнујући суботу од кољена до
+        кољена завјетом вјечним.
+      bulgarian: Нека Израилевите синове пазят съботата, празнувайки съботата в
+        родовете си като вечен завет;
+      deutsch: Darum sollen die Kinder Israel den Sabbat halten, daß sie ihn auch bei
+        ihren Nachkommen halten zum ewigen Bund.
+      ukr2: Тож нехай сини Ізраїля пильнують суботи, та святкують її з роду в рід, як
+        союз віковічний.
+      ukr3: "І допильновувати мусять синове Ізрайлеві суботи, щоб сьвяткувати суботу в
+        родах їх: Заповідь на віки."
+      bel_syomukha: і хай шануюць сыны Ізраілевыя суботу, сьвяткуючы суботу ў роды
+        свае, як наказ вечны;
+      lev-khv: И пусть соблюдают сыны Израилевы субботу, празднуя субботу в роды свои,
+        как завет вечный.
+      czech: At tedy Izraelci dbaji na den odpocinku a dodrzuji jej po vsechna sva
+        pokoleni jako vecnou smlouvu.
+      spanish: Los hijos de Israel guardarán el sábado y lo celebrarán por sus
+        generaciones y sus descendientes, como alianza perpetua;
+      st_text: и пусть хранят сыны Израилевы субботу, празднуя субботу в роды свои,
+        как завет вечный;
+  - id: 21975
+    number: 17
+    bookId: 2
+    text: это - знамение между Мною и сынами Израилевыми на веки, потому что в шесть
+      дней сотворил Господь небо и землю, а в день седьмой почил и покоился.
+    chapter: 31
+    chapterId: 81
+    parallels:
+      - verseId: 9689
+        bookId: 1
+        bookCode: bytie
+        chapter: 1
+        short: Быт:1:31
+      - verseId: 9951
+        bookId: 1
+        bookCode: bytie
+        chapter: 2
+        short: Быт:2:1
+      - verseId: 9952
+        bookId: 1
+        bookCode: bytie
+        chapter: 2
+        short: Быт:2:2
+      - verseId: 21578
+        bookId: 2
+        bookCode: ishod
+        chapter: 20
+        short: Исх:20:11
+      - verseId: 14747
+        bookId: 76
+        bookCode: k-evream-poslanie-ap-pavla
+        chapter: 4
+        short: Евр:4:4
+    translates:
+      kassian: ""
+      podstr: У Меня и сыновьям Израиля знамение есть вечное, потому что в шесть дней
+        сделал Господь небо и землю и [в] день седьмой Он прекратил и предался
+        покою.
+      csya: "завет вечен во мне и в сынех израилевых, знамение есть во мне вечное: яко
+        в шести днех сотвори Господь небо и землю, в седмый же день преста, и
+        почи."
+      averincev: ""
+      ungerov: ""
+      csya_old: "завётъ вёченъ во мнЁ и3 въ сынёхъ ї}левыхъ, знaменіе є4сть во мнЁ
+        вёчное: ћкw въ шести2 дне1хъ сотвори2 гDь не1бо и3 зе1млю, въ седмы1й же
+        де1нь престA, и3 почи2."
+      sovr_rbo: Таков знак, установленный навеки между Мною и сынами Израилевыми. Ибо
+        за шесть дней Господь создал небо и землю, а на седьмой день пребывал в
+        покое и отдыхал».
+      latin: inter me et filios Israel, signumque perpetuum; sex enim diebus fecit
+        Dominus caelum et terram, et in septimo ab opere cessavit.
+      ukr: Це знак навіки поміж Мною та поміж Ізраїлевими синами, бо шість день творив
+        Господь небо та землю, а дня сьомого перервав працю та спочив.
+      nkjv: "It is a sign between Me and the children of Israel forever; for in six
+        days the Lord made the heavens and the earth, and on the seventh day He
+        rested and was refreshed.' \" "
+      desnitsky: ""
+      mt: ‫   בֵּינִי וּבֵין בְּנֵי יִשְׂרָאֵל אוֹת הִוא לְעֹלָם כִּי־שֵׁשֶׁת יָמִים
+        עָשָׂה יְהוָה אֶת־הַשָּׁמַיִם וְאֶת־הָאָרֶץ וּבַיּוֹם הַשְּׁבִיעִי
+        שָׁבַת וַיִּנָּפַשׁ׃ ס ‬
+      romana: Acesta este semn vesnic intre Mine si fiii lui Israel, pentru ca in sase
+        zile a facut Domnul cerul si pamantul, iar in ziua a saptea a incetat si
+        S-a odihnit".
+      francais: Ce sera entre moi et les enfants d'Israël un signe qui devra durer à
+        perpétuité; car en six jours l'Éternel a fait les cieux et la terre, et
+        le septième jour il a cessé son oeuvre et il s'est reposé.
+      italian: Esso è un segno perenne fra me e gli Israeliti, perché il Signore in
+        sei giorni ha fatto il cielo e la terra, ma nel settimo ha cessato e si
+        è riposato".
+      old_georgian: შორის ჩემსა და შორის ძეთა ისრაჱლისათა სასწაული არს ჩემ წინაშე
+        საუკუნო, რამეთუ ექუსთა დღეთა ქმნა უფალმან ცა და ქუეყანაჲ და დღესა
+        მეშჳდესა დააცადა.
+      portuguese: "Entre mim e os filhos de Israel será ele um sinal para sempre;
+        porque em seis dias fez o Senhor o céu e a terra, e\rao sétimo dia
+        descansou, e achou refrigério."
+      polish: "To będzie znak wiekuisty między Mną a Izraelitami, bo w sześciu dniach
+        Pan\rstworzył niebo i ziemię, a w siódmym dniu odpoczął i wytchnął”."
+      turkish: Bu, İsrailliler'le benim aramda sürekli bir belirti olacaktır. Çünkü
+        ben, RAB yeri göğü altı günde yarattım, yedinci gün işe son verip
+        dinlendim.'»
+      nrt: Это останется знаком между Мной и израильтянами навеки. Ведь за шесть дней
+        Господь создал небеса и землю, а на седьмой день отошел от трудов и дал
+        Себе отдых».
+      Macarius: Это — знамение между Мною и сынами Израилевыми на веки; потому что в
+        шесть дней Иегова сотворил небо и землю, а в день седьмый покоился и
+        отдыхал.
+      serbian: То је знак између мене и синова Израиљевих довијека; јер је за шест
+        дана створио Господ небо и земљу, а у седми дан почину и одмори се.
+      bulgarian: това е знак между Мене и Израилевите синове навеки, защото в шест дни
+        Господ сътвори небето и земята, а в седмия ден си почина и отдъхна.
+      deutsch: Er ist ein ewiges Zeichen zwischen mir und den Kindern Israel. Denn in
+        sechs Tagen machte der Herr Himmel und Erde; aber am siebenten Tage
+        ruhte er und erquickte sich.
+      ukr2: Вона - знак віковічний між мною та синами Ізраїля; бо шість днів творив
+        Господь небо й землю, а сьомого дня спочив і відітхнув.»
+      ukr3: Між мною і синами Ізрайлевими знамя се віковічне. Бо шість день творив
+        Господь небеса і землю, а семого дня спочив.
+      bel_syomukha: гэта - азнака паміж Мною і сынамі Ізраілевымі навечна, бо за
+        шэсьць дзён стварыў Гасподзь неба і зямлю, а ў дзень сёмы спачыў і
+        ўпакоіўся.
+      lev-khv: Это знамение между Мною и сынами Израилевыми на веки; потому что в
+        шесть дней сотворил Господь небо и землю, а в день седьмой почил и
+        покоился.
+      czech: To je provzdy platne znameni mezi mnou a syny Izraele. V sesti dnech
+        totiz ucinil Hospodin nebe a zemi, ale sedmeho dne odpocinul a oddechl
+        si."
+      spanish: será entre mi y ellos una señal perpetua, pues en seis días hizo Yavé
+        los cielos y la tierra, y el séptimo día cesó en su obra y descansó>>.
+      st_text: это - знамение между Мною и сынами Израилевыми на веки, потому что в
+        шесть дней сотворил Господь небо и землю, а в день седьмой почил и
+        покоился.
+  - id: 21976
+    number: 18
+    bookId: 2
+    text: И когда [Бог] перестал говорить с Моисеем на горе Синае, дал ему две
+      скрижали откровения, скрижали каменные, на которых написано было перстом
+      Божиим.
+    chapter: 31
+    chapterId: 81
+    parallels:
+      - verseId: 21992
+        bookId: 2
+        bookCode: ishod
+        chapter: 32
+        short: Исх:32:16
+      - verseId: 22063
+        bookId: 2
+        bookCode: ishod
+        chapter: 34
+        short: Исх:34:29
+      - verseId: 36877
+        bookId: 5
+        bookCode: vtorozakonie
+        chapter: 9
+        short: Втор:9:10
+      - verseId: 34502
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 45
+        short: Сир:45:6
+    translates:
+      kassian: ""
+      podstr: И дал Моисею, когда перестал говорящий ему на горе Синая, две плиты
+        свидетельства, плиты каменные написанные перстом Бога.
+      csya: И даде (Бог) моисею, егда преста глаголя ему на горе синайстей, две
+        скрижали свидения, скрижали каменны написаны перстом Божиим.
+      averincev: ""
+      ungerov: ""
+      csya_old: И# даде2 (бг7ъ) мwmсе1ю, є3гдA престA гlz є3мY на горЁ сінaйстэй, двЁ
+        скриж†ли свидёніz, скриж†ли кaмєнны напи6саны пе1рстомъ б9іимъ.
+      sovr_rbo: Там, на Синае, кончив говорить с Моисеем, Господь дал ему две таблички
+        Завета — две каменные таблички, исписанные перстом Божьим.
+      latin: Deditque Dominus Moysi, completis hujuscemodi sermonibus in monte Sinai,
+        duas tabulas testimonii lapideas, scriptas digito Dei.
+      ukr: І дав Він Мойсеєві, коли закінчив говорити з ним на Сінайській горі, дві
+        таблиці свідоцтва, таблиці кам'яні, писані Божим перстом.
+      nkjv: And when He had made an end of speaking with him on Mount Sinai, He gave
+        Moses two tablets of the Testimony, tablets of stone, written with the
+        finger of God.
+      desnitsky: ""
+      mt: ‫   וַיִּתֵּן אֶל־מֹשֶׁה כְּכַלֹּתוֹ לְדַבֵּר אִתּוֹ בְּהַר סִינַי שְׁנֵי
+        לֻחֹת הָעֵדֻת לֻחֹת אֶבֶן כְּתֻבִים בְּאֶצְבַּע אֱלֹהִים׃ ‬
+      romana: Dupa ce a incetat Dumnezeu de a grai cu Moise, pe Muntele Sinai, i-a dat
+        cele doua table ale legii, table de piatra, scrise cu degetul lui
+        Dumnezeu.
+      francais: Lorsque l'Éternel eut achevé de parler à Moïse sur la montagne de
+        Sinaï, il lui donna les deux tables du témoignage, tables de pierre,
+        écrites du doigt de Dieu.
+      italian: Quando il Signore ebbe finito di parlare con Mosè sul monte Sinai, gli
+        diede le due tavole della Testimonianza, tavole di pietra, scritte dal
+        dito di Dio.
+      old_georgian: და მოსცა უფალმან მოსეს, რაჟამს დასცხრა სიტყუად მისა მთასა მას ზედა
+        სინასა, ორნი იგი ფიცარნი ქვისანი დაწერილნი თითითა ღმრთისაჲთა.
+      portuguese: "E deu a Moisés, quando acabou de falar com ele no monte Sinai, as
+        duas tábuas do testemunho, tábuas de\rpedra, escritas pelo dedo de
+        Deus."
+      polish: "Gdy skończył rozmawiać z Mojżeszem na górze Synaj, dał mu dwie
+        tablice\rŚwiadectwa, tablice kamienne, napisane palcem Bożym."
+      turkish: Tanrı Sina Dağı'nda Musa'yla konuşmasını bitirince, üzerine eliyle
+        antlaşma koşullarını yazdığı iki taş levhayı ona verdi.
+      nrt: Когда Господь закончил говорить с Моисеем на горе Синай, Он дал ему две
+        каменные плитки свидетельства, на которых было написано перстом Божьим.
+      Macarius: Когда же Он перестал говорить с Моисеем на горе Синае, тогда дал ему
+        две скрижали откровения, скрижали каменные, на которых было написано
+        перстом Божиим.
+      serbian: И изговоривши ово Мојсију на гори Синајској, даде му двије плоче
+        свједочанства, плоче камене писане прстом Божијим.
+      bulgarian: И когато (Бог) престана да говори с Моисея на планина Синай, даде му
+        две плочи на откровението, каменни плочи, написани с Божи пръст.
+      deutsch: Und da der Herr ausgeredet hatte mit Mose auf dem Berge Sinai, gab er
+        ihm zwei Tafeln des Zeugnisses; die waren beschrieben mit dem Finger
+        Gottes.
+      ukr2: І як перестав Господь розмовляти з Мойсеєм на Синай-горі, дав йому дві
+        таблиці свідоцтва, таблиці кам'яні, записані пальцем-перстом Божим.
+      ukr3: І дав Мойсейові, переставши розмовляти з ним на Синай горі, дві таблицї
+        сьвідчення, таблицї камяні, на котрих писав палець Божий.
+      bel_syomukha: І калі перастаў гаварыць з Майсеем на гары Сінаі, даў яму дзьве
+        скрыжалі адкрыцьця, скрыжалі каменныя, на якіх напісана было пальцам
+        Божым.
+      lev-khv: И дал <i>Бог</i> Моисею, перестав говорить с ним на горе Синае, две
+        скрижали свидетельства, скрижали каменныя, <i>на которых</i> было
+        написано перстом Божиим.
+      czech: Kdyz prestal k Mojzisovi na hore Sinaji mluvit, dal mu dve desky
+        svedectvi; byly to kamenne desky psane Bozim prstem.
+      spanish: Cuando hubo acabado Yavé de hablar a Moisés en la montaña del Sinaí, le
+        dio las dos tablas del testimonio, tablas de piedra, escritas por el
+        dedo de Dios.
+      st_text: И когда [Бог] перестал говорить с Моисеем на горе Синае, дал ему две
+        скрижали откровения, скрижали каменные, на которых написано было перстом
+        Божиим.

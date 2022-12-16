@@ -1,0 +1,712 @@
+id: 658
+number: 140
+bookId: 22
+verseCount: 10
+title: Глава 140
+verses:
+  - id: 31065
+    number: 1
+    bookId: 22
+    text: "Псалом Давида. Господи! к тебе взываю: поспеши ко мне, внемли голосу
+      моления моего, когда взываю к Тебе."
+    chapter: 140
+    chapterId: 658
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Псалом Давиду. Господи, воззвах к тебе, услыши мя: вонми гласу моления
+        моего, внегда воззвати ми к тебе."
+      averincev: ""
+      ungerov: Псалом Давида. Господи, я воззвал к Тебе, услышь меня, вонми гласу
+        моления моего, когда я взываю к Тебе.
+      csya_old: "Pало1мъ дв7ду, ГDи, воззвaхъ къ тебЁ, ўслы1ши мS: вонми2 глaсу
+        моле1ніz моегw2, внегдA воззвaти ми2 къ тебЁ."
+      sovr_rbo: "[Псалом Давида.] Господи, я Тебя зову, поспеши мне на помощь! Услышь
+        мой голос, зовущий Тебя!"
+      latin: Psalmus David. Domine, clamavi ad te, exaudi me; intende voci meae, cum
+        clamavero ad te.
+      ukr: Господи, кличу до Тебе, поспішися до мене, почуй же мій голос, як кличу до
+        Тебе!
+      nkjv: A Psalm of David. Lord, I cry out to You; Make haste to me! Give ear to my
+        voice when I cry out to You.
+      desnitsky: ""
+      mt: ‫  מִזְמוֹר לְדָוִד יְהוָה קְרָאתִיךָ חוּשָׁה לִּי הַאֲזִינָה קוֹלִי
+        בְּקָרְאִי־לָךְ׃ ‬
+      romana: Al lui David. Doamne, strigat-am catre Tine, auzi-ma; ia aminte la
+        glasul rugaciunii mele, cand strig catre Tine.
+      italian: Salmo. Di Davide. Signore, a te grido, accorri in mio aiuto; ascolta la
+        mia voce quando t'invoco.
+      old_georgian: უფალო, ღაღად-ვყავ შენდამი; ისმინე ჩემი, მომხედენ ჴმასა ლოცვისა
+        ჩემისასა, ღაღადებასა ჩემსა შენდამი.
+      portuguese: Ó Senhor, a ti clamo; dá-te pressa em me acudir! Dá ouvidos à minha
+        voz, quando a ti clamo!
+      polish: "Psalm. Dawidowy. Do Ciebie wołam, Panie, prędko mi dopomóż; usłysz
+        głos\rmój, gdy wołam do Ciebie."
+      nrt: "Псалом Давида. Господи, я взываю к Тебе: поспеши ко мне! Услышь мое
+        моление, когда я взываю к Тебе."
+      Macarius: Псалом Давидов. Господи, взываю к Тебе, поспеши ко мне, внемли гласу
+        [моления] моего, когда я взываю к Тебе.
+      bulgarian: "Псалом Давидов. Господи, към Тебе викам: побързай към мене, чуй
+        гласа на молбата ми, когато викам към Тебе!"
+      deutsch: Ein Psalm Davids. Herr, ich rufe zu dir; eile zu mir; vernimm meine
+        Stimme, wenn ich dich anrufe.
+      ukr2: "Псалом. Давида. О Господи! - до тебе я взиваю: Поспішисьдо мене, почуй
+        мій голос, коли до тебе взиваю!"
+      ukr3: Псальма Давидова. Г осподи! До тебе кликав я, поспіши до мене! Почуй голос
+        мій, коли до тебе взиваю!
+      bel_syomukha: Госпадзе! да Цябе заклікаю; пасьпяшайся да мяне, уваж голасу
+        маленьня майго, калі клічу Цябе.
+      czech: Daviduv. Hospodine, k tobe volam, pospes ke mne, doprej sluchu memu
+        hlasu, kdyz te volam!
+      spanish: Salmo de David. ¡Oh Yavé! a ti clamo, apresúrate a socorrerme, oye la
+        voz del que te invoca.
+      zertis-kamenskiy: "Песнь Давидова. Боже! воззвах к Тебе, ускори ко мне: вонми
+        гласу моему, внегда воззову к Тебе."
+      pakazkiy: "К Тебе, о Господи! взываю:\rУслыши мя в тот день и час,\rКогда я руки
+        воздеваю,\rВзнося моих молений глас"
+      greek-lxx: ψαλμὸς τῷ Δαυιδ Κύριε ἐκέκραξα πρὸς σέ εἰσάκουσόν μου πρόσχες τῇ φωνῇ
+        τῆς δεήσεώς μου ἐν τῷ κεκραγέναι με πρὸς σέ
+      st_text: "Псалом Давида. Господи! к тебе взываю: поспеши ко мне, внемли голосу
+        моления моего, когда взываю к Тебе."
+  - id: 31066
+    number: 2
+    bookId: 22
+    text: Да направится молитва моя, как фимиам, пред лице Твое, воздеяние рук моих
+      - как жертва вечерняя.
+    chapter: 140
+    chapterId: 658
+    parallels:
+      - verseId: 21891
+        bookId: 2
+        bookCode: ishod
+        chapter: 29
+        short: Исх:29:39
+      - verseId: 21927
+        bookId: 2
+        bookCode: ishod
+        chapter: 30
+        short: Исх:30:7
+      - verseId: 21928
+        bookId: 2
+        bookCode: ishod
+        chapter: 30
+        short: Исх:30:8
+      - verseId: 28527
+        bookId: 77
+        bookCode: otkrovenie-ap-ioanna-bogoslova
+        chapter: 8
+        short: Откр:8:4
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Да исправится молитва моя яко кадило пред тобою: воздеяние руку моею,
+        жертва вечерняя."
+      averincev: ""
+      ungerov: Да возносится молитва моя, как фимиам, пред Тобою, поднятие рук моих -
+        да будет (как) жертва вечерняя.
+      csya_old: "Да и3спрaвитсz моли1тва моS ћкw кади1ло пред8 тобо1ю: воздэsніе рукY
+        моє1ю, же1ртва вече1рнzz."
+      sovr_rbo: Да взойдет молитва моя к Тебе, как дым благовоний; мои руки, к Тебе
+        воздетые, — это жертва вечерняя.
+      latin: Dirigatur oratio mea sicut incensum in conspectu tuo; elevatio manuum
+        mearum sacrificium vespertinum.
+      ukr: Нехай стане молитва моя як кадило перед лицем Твоїм, підношення рук моїх як
+        жертва вечірня!
+      nkjv: Let my prayer be set before You as incense, The lifting up of my hands as
+        the evening sacrifice.
+      desnitsky: ""
+      mt: ‫  תִּכּוֹן תְּפִלָּתִי קְטֹרֶת לְפָנֶיךָ מַשְׂאַת כַּפַּי מִנְחַת־עָרֶב׃ ‬
+      romana: Sa se indrepteze rugaciunea mea ca tamaia inaintea Ta; ridicarea
+        mainilor mele, jertfa de seara.
+      italian: Come incenso salga a te la mia preghiera, le mie mani alzate come
+        sacrificio della sera.
+      old_georgian: წარემართენ ლოცვა ჩემი, ვითარცა საკუმეველი, შენ წინაშე, აღპყრობაჲ
+        ჴელთა ჩემთა მსხურეპლ სამწუხროდ.
+      portuguese: Suba a minha oração, como incenso, diante de ti, e seja o levantar
+        das minhas mãos como o sacrifício da tarde!
+      polish: "Niech moja modlitwa będzie stale przed Tobą jak kadzidło; wzniesienie
+        rąk\rmoich - jak ofiara wieczorna!"
+      nrt: Да будет молитва моя как возжигание благовоний перед Тобой и возношение
+        моих рук – как вечернее жертвоприношение.
+      Macarius: Да приидет молитва моя, [как] фимиам пред лице Твое, возношение рук
+        моих, как вечернее приношение.
+      bulgarian: Да възлезе молитвата ми като тамян пред Твоето лице, въздигането на
+        ръцете ми - като вечерна жертва.
+      deutsch: Mein Gebet müsse vor dir Taugen wie ein Räuchopfer, mein Händeaufheben
+        wie ein Abendopfer.
+      ukr2: Нехай моя молитва стане перед тобою, мов кадило; здіймання рук моїх -
+        немов вечірня жертва
+      ukr3: Буде ж молитва моя, як кадило, перед тобою, простираннє рук моїх, як
+        жертва вечірня!
+      bel_syomukha: Хай пойдзе малітва мая, як фіміям, да аблічча Твайго, уздыманьне
+        рук маіх - як ахвяра вячэрняя.
+      czech: Jako kadidlo at miri ma modlitba k tobe, pozdvizeni mych rukou jak
+        vecerni obet.
+      spanish: Séate mi oración como incienso en tu presencia, y el alzar a ti mis
+        manos como oblación vespertina.
+      zertis-kamenskiy: "Да исправится молитва моя, яко кадило пред Тобою: воздеяние
+        рук моих, яко жертва вечерняя."
+      pakazkiy: "Да тако вопль мой, вопль умильный, К Твоим стремится утесам,\rКак
+        фимиам курясь кадильный Восходит прямо к небесам!\rА воздеяние
+        смиренных\rПеред Тобою рук моих,\rДа будет вместо жертв вечерних Во
+        дворех, Господи, Твоих!"
+      greek-lxx: κατευθυνθήτω ἡ προσευχή μου ὡς θυμίαμα ἐνώπιόν σου ἔπαρσις τῶν χειρῶν
+        μου θυσία ἑσπερινή
+      st_text: Да направится молитва моя, как фимиам, пред лице Твое, воздеяние рук
+        моих - как жертва вечерняя.
+  - id: 31067
+    number: 3
+    bookId: 22
+    text: Положи, Господи, охрану устам моим, и огради двери уст моих;
+    chapter: 140
+    chapterId: 658
+    parallels:
+      - verseId: 31648
+        bookId: 22
+        bookCode: psaltir
+        chapter: 38
+        short: Пс:38:2
+      - verseId: 33741
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 22
+        short: Сир:22:31
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Положи, Господи, хранение устом моим и дверь ограждения о устнах моих.
+      averincev: ""
+      ungerov: Положи, Господи, хранение устам моим и дверь в ограждение уст моих.
+      csya_old: Положи2, гDи, хране1ніе ўстHмъ мои6мъ и3 две1рь њгражде1ніz њ ўстнaхъ
+        мои1хъ.
+      sovr_rbo: Приставь, Господи, стражу к моим устам, охраняй двери уст моих.
+      latin: Pone, Domine, custodiam ori meo, et ostium circumstantiae labiis meis.
+      ukr: Поклади, Господи, сторожу на уста мої, стережи двері губ моїх!
+      nkjv: Set a guard, O Lord, over my mouth; Keep watch over the door of my lips.
+      desnitsky: ""
+      mt: ‫  שִׁיתָה יְהוָה שָׁמְרָה לְפִי נִצְּרָה עַל־דַּל שְׂפָתָי׃ ‬
+      romana: Pune Doamne, straja gurii mele si usa de ingradire, imprejurul buzelor
+        mele.
+      italian: Poni, Signore, una custodia alla mia bocca, sorveglia la porta delle
+        mie labbra.
+      old_georgian: დასდევ, უფალო, საცო პირსა ჩემსა და კარი - ძნელი ბაგეთა ჩემთა.
+      portuguese: Põe, ó Senhor, uma guarda à minha boca; vigia a porta dos meus lábios!
+      polish: Postaw, Panie, straż moim ustom i wartę przy bramie warg moich!
+      nrt: Поставь, Господи, стражу у моего рта, стереги двери моих уст.
+      Macarius: Поставь, Господи, стражу при языке моем, охраняй двери уст моих.
+      bulgarian: Постави, Господи, стража на устата ми и огради вратата на устните ми;
+      deutsch: Herr, behüte meinen Mund und bewahre meine Lippen.
+      ukr2: Постав, о Господи, моїм устам сторожу; до дверей губ моїх - варту!
+      ukr3: Постав, Господи, сторожу губам моїм! Пильнуй дверей уст моїх!
+      bel_syomukha: Пакладзі, Госпадзе, ахову на вусны мае, і аслані дзьверы вуснаў маіх;
+      czech: Hospodine, postav straz k mym ustum, prede dvere mych rtu hlidku,
+      spanish: Pon, Yavé, guardia a mi boca, centinelas a la puerta de mis labios;
+      zertis-kamenskiy: Положи Боже стражу устом моим, огради дверь устен моих.
+      pakazkiy: "Страх над бренными устами, На место стража положи;\t.\rИ оградив их,
+        как вратами,\rОт многословий удержи."
+      greek-lxx: θοῦ Κύριε φυλακὴν τῷ στόματί μου καὶ θύραν περιοχῆς περὶ τὰ χείλη μου
+      st_text: Положи, Господи, охрану устам моим, и огради двери уст моих;
+  - id: 31068
+    number: 4
+    bookId: 22
+    text: не дай уклониться сердцу моему к словам лукавым для извинения дел
+      греховных вместе с людьми, делающими беззаконие, и да не вкушу я от
+      сластей их.
+    chapter: 140
+    chapterId: 658
+    parallels:
+      - verseId: 7572
+        bookId: 11
+        bookCode: 3a-kniga-carstv
+        chapter: 8
+        short: 3 Цар:8:58
+      - verseId: 29349
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 1
+        short: Притч:1:10
+      - verseId: 29354
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 1
+        short: Притч:1:15
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Не уклони сердце мое в словеса лукавствия, непщевати вины о гресех с
+        человеки делающими беззаконие: и не сочтуся со избранными их."
+      averincev: ""
+      ungerov: Не уклони сердце мое к словам лукавым, для измышления извинения во
+        грехах вместе с людьми, совершающими беззаконие, и да не соединюсь с
+        избранниками их.
+      csya_old: "Не ўклони2 се1рдце мое2 въ словесA лукaвствіz, непщевaти вины2 њ
+        грэсёхъ съ челwвёки дёлающими беззако1ніе: и3 не сочтyсz со и3збрaнными
+        и4хъ."
+      sovr_rbo: Не дай сердцу склониться к дурным делам, делать зло с нечестивцами,
+        есть за их столом.
+      latin: Non declines cor meum in verba malitiae, ad excusandas excusationes in
+        peccatis; cum hominibus operantibus iniquitatem; et non communicabo cum
+        electis eorum.
+      ukr: Не дай нахилятися серцю моєму до речі лихої, щоб учинки робити безбожністю,
+        із людьми, що чинять переступ, і щоб не ласувався я їхніми присмаками!
+      nkjv: Do not incline my heart to any evil thing, To practice wicked works With
+        men who work iniquity; And do not let me eat of their delicacies.
+      desnitsky: ""
+      mt: ‫  אַל־תַּט־לִבִּי לְדָבָר רָע לְהִתְעוֹלֵל עֲלִלוֹת בְּרֶשַׁע אֶת־אִישִׁים
+        פֹּעֲלֵי־אָוֶן וּבַל־אֶלְחַם בְּמַנְעַמֵּיהֶם׃ ‬
+      romana: Sa nu abati inima mea spre cuvinte de viclesug, ca sa-mi dezvinovatesc
+        pacatele mele; iar cu oamenii cei care fac faradelege nu ma voi insoti
+        cu alesii lor.
+      italian: "Non lasciare che il mio cuore si pieghi al male e compia azioni inique
+        con i peccatori: che io non gusti i loro cibi deliziosi."
+      old_georgian: ნუ მისდრეკ გულსა ჩემსა სიტყუათა მიმართ უკეთურებისათა მიზეზებად
+        მიზეზთა ცოდვისათა კაცთა თანა, რომელნი იქმან უსჯულოებასა, და ნუმცა ზიარ
+        ვარ მე რჩეულთა მათთა თანა.
+      portuguese: "Não inclines o meu coração para o mal, nem para se ocupar de coisas
+        más, com aqueles que praticam a\riniqüidade; e não coma eu das suas
+        gulodices!"
+      polish: Mojego serca nie skłaniaj do złego słowa, do popełniania czynów
+        niegodziwych, bym nigdy z ludźmi, co czynią nieprawość, nie jadł ich
+        potraw wybornych.
+      nrt: Не дай моему сердцу склониться к злу, не дай участвовать в беззаконии
+        нечестивых, и не дай вкусить от их сластей.
+      Macarius: Да не уклонится сердце мое к помышлению злому, к деланию дел
+        беззаконных с людьми, поступающими неправедно; и да не вкушу сладостей
+        их.
+      bulgarian: не давай да се отклони сърцето ми към думи лукави за извиняване
+        грешни дела, заедно с людете, които вършат беззаконие, и да не вкуся от
+        техните сласти.
+      deutsch: Neige mein Herz nicht auf etwas Böses, ein gottloses Wesen zu führen
+        mit den Übeltätern, daß ich nicht esse von dem, was ihnen geliebt.
+      ukr2: Не дай схилитися серцеві моєму до чогось злого, ані чинити лихі вчинки з
+        людьми, що творять беззаконня, - їхніх ласощів не хочу їсти.
+      ukr3: Не дай серцю мому до злого прихилятись, в неправотї з людьми накладати, що
+        беззаконнє творять; та й щоб не бути менї учасником ласощів їх.
+      bel_syomukha: ня дай нахіліцца сэрцу майму да словаў падступных, і на
+        перапросіны дзеяў грахоўных і людзей, што беззаконьне ўчыняюць, і хай не
+        скаштую я іхніх прысмакаў.
+      czech: nedej, aby se me srdce priklonilo ke zlu, at se nedopustim svevolnosti s
+        muzi, kteri pasou nicemnosti; jejich vlidnosti okouset nechci.
+      spanish: no dejes que se incline al mal mi corazón, a hacer impías maldades; con
+        los hombres que cometen iniquidad no tenga yo parte en sus suntuosos
+        banquetes.
+      zertis-kamenskiy: Не уклони сердца моего к вещи злой, еже содеяти дела в
+        беззаконии с человеки делающими неправду, и да не ям от сластолюбия их.
+      pakazkiy: "Да мыслями не покушуся Себя в пороках извинять;\rИ к чадам тьмы не
+        приобщуся,\rЧто могут роскошью пленять."
+      greek-lxx: μὴ ἐκκλίνῃς τὴν καρδίαν μου εἰς λόγους πονηρίας τοῦ προφασίζεσθαι
+        προφάσεις ἐν ἁμαρτίαις σὺν ἀνθρώποις ἐργαζομένοις ἀνομίαν καὶ οὐ μὴ
+        συνδυάσω μετὰ τῶν ἐκλεκτῶν αὐτῶν
+      st_text: не дай уклониться сердцу моему к словам лукавым для извинения дел
+        греховных вместе с людьми, делающими беззаконие, и да не вкушу я от
+        сластей их.
+  - id: 31069
+    number: 5
+    bookId: 22
+    text: "Пусть наказывает меня праведник: это милость; пусть обличает меня: это
+      лучший елей, который не повредит голове моей; но мольбы мои - против
+      злодейств их."
+    chapter: 140
+    chapterId: 658
+    parallels:
+      - verseId: 29380
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 10
+        short: Притч:10:8
+      - verseId: 29436
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 12
+        short: Притч:12:1
+      - verseId: 29536
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 15
+        short: Притч:15:12
+      - verseId: 29865
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 25
+        short: Притч:25:12
+      - verseId: 29915
+        bookId: 23
+        bookCode: pritci-solomona
+        chapter: 27
+        short: Притч:27:6
+      - verseId: 33649
+        bookId: 27
+        bookCode: kniga-premudrosti-iisusa-syna-sirahova
+        chapter: 20
+        short: Сир:20:1
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Накажет мя праведник милостию и обличит мя, елей же грешнаго да не
+        намастит главы моея: яко еще и молитва моя во благоволениих их."
+      averincev: ""
+      ungerov: Наставит меня праведник милостиво и обличит меня, елей же грешника да
+        не помажет главы моей, но и молитва моя (да не будет) в благоволении у
+        них.
+      csya_old: "Накaжетъ мS првdникъ ми1лостію и3 њбличи1тъ мS, є3ле1й же грёшнагw да
+        не намaститъ главы2 моеS: ћкw є3ще2 и3 моли1тва моS во благоволе1ніихъ
+        и4хъ."
+      sovr_rbo: «Пусть праведник бьет и обличает меня, а елей грешника да не умастит
+        моей головы». Пока я молился против их злодейств,
+      latin: "Corripiet me justus in misericordia, et increpabit me: oleum autem
+        peccatoris non impinguet caput meum, quoniam adhuc et oratio mea in
+        beneplacitis eorum."
+      ukr: Як праведний вразить мене, то це милість, а докорить мені, це олива на
+        голову, її не відкине моя голова, бо ще і молитва моя проти їхнього зла.
+      nkjv: Let the righteous strike me; It shall be a kindness. And let him rebuke
+        me; It shall be as excellent oil; Let my head not refuse it. For still
+        my prayer is against the deeds of the wicked.
+      desnitsky: ""
+      mt: ‫  יֶהֶלְמֵנִי־צַדִּיק חֶסֶד וְיוֹכִיחֵנִי שֶׁמֶן רֹאשׁ אַל־יָנִי רֹאשִׁי
+        כִּי־עוֹד וּתְפִלָּתִי בְּרָעוֹתֵיהֶם׃ ‬
+      romana: Certa-ma-va dreptul cu mila si ma va mustra, iar untdelemnul pacatosilor
+        sa nu unga capul meu; ca inca si rugaciunea mea este impotriva vrerilor
+        lor.
+      italian: Mi percuota il giusto e il fedele mi rimproveri, ma l'olio dell'empio
+        non profumi il mio capo; tra le loro malvagità continui la mia
+        preghiera.
+      old_georgian: მსწავლოს მე მართალმან წყალობითა და მამხილოს მე; ზეთი ცოდვილისა ნუ
+        განაპოხებნ თავსა ჩემსა და მერმე ნუცაღა ლოცვა ჩუენი ნებასა მათსა.
+      portuguese: "Fira-me o justo, será isso uma benignidade; e repreenda-me, isso
+        será como óleo sobre a minha cabeça; não o\rrecuse a minha cabeça; mas
+        continuarei a orar contra os feitos dos ímpios."
+      polish: "Niech sprawiedliwy mię bije: to czyn miłości; olejek występnego niech
+        nigdy\rnie ozdabia mojej głowy! Nieustannie przeciwstawiam swą modlitwę
+        ich złości."
+      nrt: "Пусть накажет меня праведник – это милость; пусть обличает меня – это
+        лучшее помазание, которое не отринет моя голова. Но моя молитва против
+        злодеев:"
+      Macarius: Пусть поражает меня праведник, это милость; пусть наказывает меня, это
+        масть для головы моей; голова моя не отринет, если и более; но молитва
+        моя против злодеяний их.
+      bulgarian: "Нека праведникът ме наказва: това е милост; нека ме изобличава: това
+        е най-добър елей, който няма да повреди главата ми; но моите молби са
+        против злодействата на беззаконниците."
+      deutsch: Der Gerechte schlage mich freundlich und strafe mich; das wird mir so
+        wohl tun wie Balsam auf meinem Haupt; denn ich bete stets, daß sie mir
+        nicht Schaden tun.
+      ukr2: Хай праведник по-доброму б'є мене й виправляє; а олія грішного хай не
+        намастить моєї голови; я все таки молитимусь, не зважаючи на їхні злі
+        вчинки.
+      ukr3: Нехай покарає мене праведний, - се доброта; нехай докоряє мене, - се олива
+        на голову; не одвернеться голова моя, бо навіть за лихі їх вчинки буде
+        моя молитва за них.
+      bel_syomukha: "Хай карае мяне праведнік: гэта - міласьць; хай выкрывае мяне:
+        гэта - найлепшы алей, які не пашкодзіць галаве маёй; а малітвы мае -
+        супраць зладзействаў іхніх."
+      czech: Spravedlivy at me treba bije, pokladam to za milosrdenstvi, at me tresta,
+        je to pro mou hlavu olej, ma hlava to neodmitne, v jejich nestesti se za
+        ne jeste budu modlit.
+      spanish: Que me castigue el justo es un favor; que me reprenda es óleo sobre mi
+        cabeza, que mi cabeza no rechaza. Incesantemente oraré por sus
+        calamidades.
+      zertis-kamenskiy: "Да накажет мя праведник [и будет мне] милость: да обличит мя
+        [еже будет] елей избраннейший, [иже] не повредит главы моея; яко еще и
+        молитва моя [будет] противу злобе их [а не оружие]."
+      pakazkiy: "Пусть праведный меня накажет, Изобличая мя за грех;\rИ тем главу мою
+        помажет Приятней благовоний всех.\rЕлей же изо уст лукавых Да не
+        намастит мне главу,\rКогда на злобу я не правых Так жалуясь к тебе
+        зову!"
+      greek-lxx: παιδεύσει με δίκαιος ἐν ἐλέει καὶ ἐλέγξει με ἔλαιον δὲ ἁμαρτωλοῦ μὴ
+        λιπανάτω τὴν κεφαλήν μου ὅτι ἔτι καὶ ἡ προσευχή μου ἐν ταῖς εὐδοκίαις
+        αὐτῶν
+      st_text: "Пусть наказывает меня праведник: это милость; пусть обличает меня: это
+        лучший елей, который не повредит голове моей; но мольбы мои - против
+        злодейств их."
+  - id: 31070
+    number: 6
+    bookId: 22
+    text: Вожди их рассыпались по утесам и слышат слова мои, что они кротки.
+    chapter: 140
+    chapterId: 658
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Пожерты быша при камени судии их: услышатся глаголи мои, яко возмогоша."
+      averincev: ""
+      ungerov: Пожраны были близ камня судии их, услышаны были слова мои, ибо они
+        могущественны.
+      csya_old: "Пожє1рты бы1ша при кaмени судіи6 и4хъ: ўслы1шатсz глагHли мои2, ћкw
+        возмого1ша ўслади1шасz."
+      sovr_rbo: "их низвергла рука Скалы, их Судьи ! Слушайте слова мои: сладки они!"
+      latin: Absorpti sunt juncti petrae judices eorum; audient verba mea, quoniam
+        potuerunt.
+      ukr: °хні судді по скелі розкидані, та слова мої вчують, бо приємні вони...
+      nkjv: Their judges are overthrown by the sides of the cliff, And they hear my
+        words, for they are sweet.
+      desnitsky: ""
+      mt: ‫  נִשְׁמְטוּ בִידֵי־סֶלַע שֹׁפְטֵיהֶם וְשָׁמְעוּ אֲמָרַי כִּי נָעֵמוּ׃ ‬
+      romana: Prabuseasca-se de pe stanca judecatorii lor. Auzi-se-vor graiurile mele
+        ca s-au indulcit,
+      italian: Dalla rupe furono gettati i loro capi, che da me avevano udito dolci
+        parole.
+      old_georgian: დაინთქნეს მახლობელად კლდისა მსაჯულნი მათნი, ისმინენ სიტყუანი
+        ჩემნი, რამეთუ ტკბილ არიან;
+      portuguese: "Quando os seus juízes forem arremessados duma penha abaixo, saberão
+        que as palavras do Senhor são\rverdadeiras."
+      polish: Popadli w moc Skały ich sędziowie i usłyszeli, jak łagodne były moje
+        słowa.
+      nrt: да будут судьи их сброшены с утесов. Тогда люди узнают, что мои слова были
+        правдивы.
+      Macarius: Рассыпались по каменным утесам судии их, и слышали слова мои, как они
+        кротки.
+      bulgarian: Техните водачи са се пръснали по стръмни скали и слушат думите ми,
+        защото са приятни.
+      deutsch: Ihre Führer müssen gestürzt werden über einen Fels; so wird man dann
+        meine Rede hören, daß sie lieblich sei.
+      ukr2: Якщо суддів їхніх скинуть в ущелини скелі, то почують, що слова мої любі.
+      ukr3: Як скинуть суддїв їх стрімголов із скелї, тодї буде чути слова мої, які
+        вони милі.
+      bel_syomukha: іхнія правадыры рассыпаліся па скалах, і чуюць, што словы мае лагодныя.
+      czech: At jsou jejich soudci svrzeni na uboci skaly, ale spravedlivi at slysi,
+        ze vlidna jsou ma slova.
+      spanish: Fueron precipitados sus jueces desde el borde de la roca, y oyeron mis
+        palabras, que eran blandas.
+      zertis-kamenskiy: "Повержены да будут на камение судии их: и услышат глаголы
+        моя, яко сладки суть."
+      pakazkiy: Когда предвижу умным оком, Что сих наветников совет На море бурном и
+        широком Волна при камнях вдруг пожрет; Что вси тогда уразумеют Глаголы
+        верных уст моих,
+      greek-lxx: κατεπόθησαν ἐχόμενα πέτρας οἱ κριταὶ αὐτῶν ἀκούσονται τὰ ῥήματά μου
+        ὅτι ἡδύνθησαν
+      st_text: Вожди их рассыпались по утесам и слышат слова мои, что они кротки.
+  - id: 31071
+    number: 7
+    bookId: 22
+    text: Как будто землю рассекают и дробят нас; сыплются кости наши в челюсти
+      преисподней.
+    chapter: 140
+    chapterId: 658
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: Яко толща земли проседеся на земли, расточишася кости их при аде.
+      averincev: ""
+      ungerov: Как глыба земли распадается на земле, так кости их рассыпались при аде.
+      csya_old: Ћкw то1лща земли2 просёдесz на земли2, расточи1шасz кHсти и4хъ при ѓдэ.
+      sovr_rbo: — Раздроблены, разбиты, по земле раскиданы кости наши — в челюстях Шеола.
+      latin: Sicut crassitudo terrae erupta est super terram; dissipata sunt ossa
+        nostra secus infernum.
+      ukr: Як дрова рубають й розколюють їх на землі, так розкидані наші кістки над
+        отвором шеолу.
+      nkjv: Our bones are scattered at the mouth of the grave, As when one plows and
+        breaks up the earth.
+      desnitsky: ""
+      mt: ‫  כְּמוֹ פֹלֵחַ וּבֹקֵעַ בָּאָרֶץ נִפְזְרוּ עֲצָמֵינוּ לְפִי שְׁאוֹל׃ ‬
+      romana: Ca o brazda de pamant s-au rupt pe pamant, risipitu-s-au oasele lor
+        langa iad.
+      italian: Come si fende e si apre la terra, le loro ossa furono disperse alla
+        bocca degli inferi.
+      old_georgian: ვითარცა სისქე მიწისა განიპო ქუეყანასა ზედა, განიბნინეს ძუალნი
+        მათნი ჯოჯოხეთს შინა.
+      portuguese: Como quando alguém lavra e sulca a terra, são os nossos ossos
+        espalhados à boca do Seol.
+      polish: "Jak kamień młyński rozbija się o ziemię, tak rozrzucono ich kości nad
+        czelu\rścią Szeolu."
+      nrt: Как земля, которую рассекают и дробят, так рассыпаны наши кости у пасти
+        мира мертвых.
+      Macarius: Как будто от секущего и рубящего, рассеяны кости наши у челюстей
+        преисподней.
+      bulgarian: Сякаш земята разкъртват и ни дробят; сипят се нашите кости в челюстта
+        на преизподнята.
+      deutsch: Unsere Gebeine sind zerstreut bis zur Hölle, wie wenn einer das Land
+        pflügt und zerwühlt.
+      ukr2: Немов би хтось розбив і розрив землю, розкидано їхні кості біля пельки
+        Шеолу.
+      ukr3: Як земля з'орана і ровизбита, так костї наші розсиплються в челюстях
+        пропастї підземної.
+      bel_syomukha: Быццам зямлю расьсякаюць і трушчаць нас; сыплюцца косткі нашыя ў
+        шчэлепы апраметнай.
+      czech: Jako kdyz se v zemi vsechno seka a polti, k jicnu podsveti se sypou nase
+        kosti.
+      spanish: Como se hiende y ara la tierra, están esparcidos nuestros huesos a la
+        boca del seol.
+      zertis-kamenskiy: Яко секущии и щеляющии дрова на земли; [тако] разметаются
+        кости наша при устии гроба.
+      pakazkiy: "Когда разсыпатся имеют Во гробе темном кости их;\rКак грубый кряж
+        земли дробится Упорной рала остротой,\rКак пахарь ревностной трудится
+        Устроить сеятву на той."
+      greek-lxx: ὡσεὶ πάχος γῆς διερράγη ἐπὶ τῆς γῆς διεσκορπίσθη τὰ ὀστᾶ ἡμῶν παρὰ
+        τὸν ᾅδην
+      st_text: Как будто землю рассекают и дробят нас; сыплются кости наши в челюсти
+        преисподней.
+  - id: 31072
+    number: 8
+    bookId: 22
+    text: Но к Тебе, Господи, Господи, очи мои; на Тебя уповаю, не отринь души моей!
+    chapter: 140
+    chapterId: 658
+    parallels: []
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Яко к тебе, Господи, Господи, очи мои: на тя уповах, не отъими душу мою:"
+      averincev: ""
+      ungerov: "Но к Тебе, Господи, Господи, очи мои (обращены), на Тебя я уповал: не
+        отними душу мою."
+      csya_old: "Ћкw къ тебЁ, гDи, гDи, џчи мои2: на тS ўповaхъ, не tими2 дyшу мою2:"
+      sovr_rbo: "— На Тебя Господи, Господи, устремлен мой взгляд, на Тебя я надеюсь:
+        не погуби мою жизнь!"
+      latin: Quia ad te, Domine, Domine, oculi mei; in te speravi, non auferas animam
+        meam.
+      ukr: Бо до Тебе, о Господи, Владико, мої очі, на Тебе надіюсь не зруйновуй мого
+        життя!
+      nkjv: But my eyes are upon You, O God the Lord; In You I take refuge; Do not
+        leave my soul destitute.
+      desnitsky: ""
+      mt: ‫  כִּי אֵלֶיךָ יְהֹוִה אֲדֹנָי עֵינָי בְּכָה חָסִיתִי אַל־תְּעַר נַפְשִׁי׃
+        ‬
+      romana: Caci catre Tine, Doamne, Doamne, ochii mei, spre Tine am nadajduit, sa
+        nu iei sufletul meu.
+      italian: A te, Signore mio Dio, sono rivolti i miei occhi; in te mi rifugio,
+        proteggi la mia vita.
+      old_georgian: რამეთუ შენდამი, უფალო, უფალო, თუალნი ჩემნი; შენდამი ვესავ, ნუ
+        მიიღებ სულსა ჩემსა.
+      portuguese: "Mas os meus olhos te contemplam, ó Senhor, meu Senhor; em ti tenho
+        buscado refúgio; não me deixes sem\rdefesa!"
+      polish: "Do Ciebie bowiem, Panie mój, Panie, [zwracam] moje oczy; do Ciebie
+        się\ruciekam: Ty nie gub mej duszy."
+      nrt: Но глаза мои устремлены на Тебя, Господи, Владыка; у Тебя я нашел
+        прибежище, не отдай мою душу смерти.
+      Macarius: Но к Тебе, Иегова Господи, очи мои, на Тебя уповаю, не отринь души моей.
+      bulgarian: Но към Тебе, Господи, Господи, са очите ми; на Тебе се уповавам, не
+        отритвай душата ми!
+      deutsch: Denn auf dich, Herr, sehen meine Augen; ich traue auf dich, verstoße
+        meine Seele nicht.
+      ukr2: До тебе бо, о Господи, мій Боже, мої очі; до тебе прибігаю, не губи душі
+        моєї!
+      ukr3: Та на тебе, Господи, Владико мій, очі мої поглядають, на тебе вповаю; не
+        відкинь душі моєї!
+      bel_syomukha: Але да Цябе, Госпадзе, Госпадзе, вочы мае; на Цябе спадзяюся, не
+        адкінь душы маёй!
+      czech: K tobe, Panovniku Hospodine, pozvedam sve oci, utikam se k tobe, nevydej
+        me smrti,
+      spanish: Pero mis ojos (se vuelven) a ti, Yavé; a ti me acojo, no me rechaces.
+      zertis-kamenskiy: Яко к Тебе, Боже Господи! Очи мои; на Тя уповаю, не отщети душу мою.
+      pakazkiy: "К Тебе, о Боже! простираю Умильный взор моих очей,\rК Тебе с надеждою
+        взираю,\rНе отъими души моей!"
+      greek-lxx: ὅτι πρὸς σέ Κύριε Κύριε οἱ ὀφθαλμοί μου ἐπὶ σὲ ἤλπισα μὴ ἀντανέλῃς
+        τὴν ψυχήν μου
+      st_text: Но к Тебе, Господи, Господи, очи мои; на Тебя уповаю, не отринь души
+        моей!
+  - id: 31073
+    number: 9
+    bookId: 22
+    text: Сохрани меня от силков, поставленных для меня, от тенет беззаконников.
+    chapter: 140
+    chapterId: 658
+    parallels:
+      - verseId: 31051
+        bookId: 22
+        bookCode: psaltir
+        chapter: 139
+        short: Пс:139:6
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: сохрани мя от сети, юже составиша ми, и от соблазн делающих беззаконие.
+      averincev: ""
+      ungerov: Сохрани меня от сети, которую расставили для меня, и от соблазнов (со
+        стороны) делающих беззаконие.
+      csya_old: сохрани1 мz t сёти, ю4же состaвиша ми2, и3 t собл†знъ дёлающихъ
+        беззако1ніе.
+      sovr_rbo: Сохрани меня от подстроенной мне западни, от злодейских сетей.
+      latin: Custodi me a laqueo quem statuerunt mihi, et a scandalis operantium
+        iniquitatem.
+      ukr: Бережи Ти від пастки мене, що на мене поставили, та від тенет
+        переступників!
+      nkjv: Keep me from the snares they have laid for me, And from the traps of the
+        workers of iniquity.
+      desnitsky: ""
+      mt: ‫  שָׁמְרֵנִי מִידֵי פַח יָקְשׁוּ לִי וּמֹקְשׁוֹת פֹּעֲלֵי אָוֶן׃ ‬
+      romana: Pazeste-ma de cursa care mi-au pus mie si de smintelile celor ce fac
+        faradelege.
+      italian: Preservami dal laccio che mi tendono, dagli agguati dei malfattori.
+      old_georgian: მიცევ მე მახისაგან, რომელ დამირწყეს მე და საცთურისაგან, რომელნი
+        იქმან უსჯულოებასა.
+      portuguese: Guarda-me do laço que me armaram, e das armadilhas dos que praticam
+        a iniqüidade.
+      polish: Strzeż mnie od sidła, które zastawili ma mnie, i od pułapek złoczyńców.
+      nrt: Сохрани меня от сетей, которые раcкинули для меня, и от западни злодеев.
+      Macarius: Сохрани меня от сети, которую поставили мне, от ухищрений делающих
+        беззаконие.
+      bulgarian: Запази ме от подставените за мене примки, от клопките на беззаконниците.
+      deutsch: Bewahre mich vor dem Stricke, den sie mir gelegt haben, und von der
+        Falle der Übeltäter.
+      ukr2: Збережи мене від петлі, що її наставили на мене, й від сильця тих, що
+        творять беззаконня.
+      ukr3: Сохрани мене від сїл, що вони заставили на мене, і від западнї тих, що
+        творять дїла беззаконні!
+      bel_syomukha: Ахавай мяне ад пастак, пастаўленых на мяне, ад цянётаў беззаконцаў.
+      czech: ochranuj me pred osidlem na me policenym, pred leckami pachatelu
+        nicemnosti!
+      spanish: Guárdame del lazo que me tienden, de los armadijos de los malhechores.
+      zertis-kamenskiy: "[Но] сохрани мя от сети, юже составиша ми: и от ловительства
+        делающих беззаконие."
+      pakazkiy: "Предохрани меня от тайных Непроницаемых сетей И от соблазнов мира
+        явных,\rСреди развратнейших людей —"
+      greek-lxx: φύλαξόν με ἀπὸ παγίδος ἧς συνεστήσαντό μοι καὶ ἀπὸ σκανδάλων τῶν
+        ἐργαζομένων τὴν ἀνομίαν
+      st_text: Сохрани меня от силков, поставленных для меня, от тенет беззаконников.
+  - id: 31074
+    number: 10
+    bookId: 22
+    text: Падут нечестивые в сети свои, а я перейду.
+    chapter: 140
+    chapterId: 658
+    parallels:
+      - verseId: 32192
+        bookId: 22
+        bookCode: psaltir
+        chapter: 7
+        short: Пс:7:16
+      - verseId: 32649
+        bookId: 22
+        bookCode: psaltir
+        chapter: 9
+        short: Пс:9:16
+    translates:
+      kassian: ""
+      podstr: ""
+      csya: "Падут во мрежу свою грешницы: един есмь аз, дондеже прейду."
+      averincev: ""
+      ungerov: Падут в сеть свою грешники, а я один останусь, пока не перейду (ее).
+      csya_old: "Падyтъ во мре1жу свою2 грBшницы: є3ди1нъ є4смь ѓзъ, до1ндеже прейдY."
+      sovr_rbo: Попадутся нечестивые в ловушки свои, а я пройду и избегну их.
+      latin: "Cadent in retiaculo ejus peccatores: singulariter sum ego, donec
+        transeam."
+      ukr: Хай безбожні попадають разом до сітки своєї, а я промину!
+      nkjv: Let the wicked fall into their own nets, While I escape safely.
+      desnitsky: ""
+      mt: ‫  יִפְּלוּ בְמַכְמֹרָיו רְשָׁעִים יַחַד אָנֹכִי עַד־אֶעֱבוֹר׃ ‬
+      romana: Cadea-vor in mreaja lor pacatosii, ferit sunt eu pana ce voi trece.
+      italian: Gli empi cadono insieme nelle loro reti, ma io passerò oltre incolume.
+      old_georgian: შეითხინენ სათხეველთა მათთა ცოდვილნი; მხოლო ვარი მე, ვიდრემდის
+        თანაწარვჰჴდე?
+      portuguese: Caiam os ímpios nas suas próprias redes, até que eu tenha escapado
+        inteiramente.
+      polish: Niechaj występni wpadną w swoje sieci, podczas gdy ja ujdę cało.
+      nrt: Пусть нечестивые падут в свои же сети, а я их избегу.
+      Macarius: Падут нечестивые во мрежи свои, между тем как я один пройду невредим.
+      bulgarian: Нечестивците ще паднат в своите мрежи, аз пък ще премина.
+      deutsch: Die Gottlosen müssen in ihr eigen Netz fallen miteinander, ich aber
+        immer vorübergehen.
+      ukr2: Хай грішники впадуть у власні сіті всі разом, а я пройду безпечно.
+      ukr3: Дай беззаконним попасти в їх власні сїти, а менї перейти мимо.
+      bel_syomukha: Хай трапяць бязбожнікі ў сеткі свае, а я перайду.
+      czech: Svevolnici at se chyti do svych tenat, kdezto ja at projdu!
+      spanish: Caerán los impíos en sus mismas redes, mientras que yo paso (incólume).
+      zertis-kamenskiy: "Да впадут во мрежи своя грешницы вкупе: дондеже аз прейду."
+      pakazkiy: "Где сами падают собою Во мрежу грешнии свою;\rДа буду жив един
+        Тобою,\rДоколь прейду страну сию."
+      greek-lxx: πεσοῦνται ἐν ἀμφιβλήστρῳ αὐτοῦ ἁμαρτωλοί κατὰ μόνας εἰμὶ ἐγὼ ἕως οὗ
+        ἂν παρέλθω
+      st_text: Падут нечестивые в сети свои, а я перейду.
