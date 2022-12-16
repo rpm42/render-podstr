@@ -2,20 +2,57 @@ import * as React from 'react'
 import styled from 'styled-components'
 import './style.css'
 import books from './books-2.json'
+import chap from './data/51-mf/5.json'
 
-console.log(books)
-
-const targetBook = books[50]
-
-const test = async () => {
-  const i = 1
-  const fn = `./data/${targetBook.id}-${targetBook.shortCode}/${i}.json`
-  console.log(fn)
-  const chap = await import(fn)
-  console.log(chap)
+interface Book {
+  id: number
+  testament: 'ot' | 'nt'
+  title: string
+  shortTitle: string
+  chaptersCount: number
+  code: string
+  shortCode: string
+  menu: string
 }
 
-test()
+interface Chapter {
+  id: number
+  number: number
+  bookId: number
+  verseCount: number
+  title: string
+  verses: Verse[]
+}
+
+interface Parallel {
+  verseId: number
+  bookId: number
+  bookCode: string
+  chapter: number
+  short: string
+}
+
+interface Verse {
+  id: number
+  number: number
+  bookId: number
+  text: string
+  chapter: number
+  chapterId: number
+  parallels: Parallel[]
+  translates: { [code: string]: string }
+}
+
+// console.log(books)
+
+// const targetBook = books[50]
+
+// const test = async () => {
+//   const chap = await import(`./data/51-mf/1.json`)
+//   console.log(chap)
+// }
+
+// test()
 
 const W = styled.div`
   width: 100%;
@@ -35,56 +72,41 @@ const R = styled.div`
   justify-items: center;
   margin: auto;
   text-align: center;
-  border: 1px solid gold;
   box-sizing: border-box;
 `
 
 const T = styled.div`
   position: relative;
   font-size: 12px;
-  line-height: 2.5em;
-  padding-left: 2em;
+  line-height: 2.5;
+  padding-left: 2.2em;
   padding-bottom: 1.1em;
 `
 
 const D = styled.div`
   font-size: 12px;
-  color: blue;
+  color: grey;
   position: absolute;
-  top: 1.2em;
-  left: 2em;
+  top: 1.5em;
+  left: 2.2em;
   bottom: 0;
   right: 0;
   z-index: -1;
-  line-height: 2.5em;
+  line-height: 2.5;
 `
 
 export default function App() {
   return (
     <W>
-      <T>
-        <R>1</R>
-        Βίβλος γενέσεως ᾽Ιησοῦ Χριστοῦ υἱοῦ Δαυὶδ υἱοῦ ᾽Αβραάμ.
-        <D>Книга происхождения Иисуса Христа Сына Давида Сына Авраама.</D>
-      </T>
-      <T>
-        <R>2</R>
-        ᾽Αβραὰμ ἐγέννησεν τὸν ᾽Ισαάκ, ᾽Ισαὰκ δὲ ἐγέννησεν τὸν ᾽Ιακώβ, ᾽Ιακὼβ δὲ ἐγέννησεν τὸν
-        ᾽Ιούδαν καὶ τοὺς ἀδελφοὺς αὐτοῦ,
-        <D>Авраам родил Исаака, Исаак же родил Иакова, Иаков же родил Иуду и братьев его,</D>
-      </T>
-
-      <T>
-        <R>3</R>
-        Πᾶσαι οὖν αἱ γενεαὶ ἀπὸ ᾽Αβραὰμ ἕως Δαυὶδ γενεαὶ δεκατέσσαρες, καὶ ἀπὸ Δαυὶδ ἕως τῆς
-        μετοικεσίας Βαβυλῶνος γενεαὶ δεκατέσσαρες, καὶ ἀπὸ τῆς μετοικεσίας Βαβυλῶνος ἕως τοῦ
-        Χριστοῦ γενεαὶ δεκατέσσαρες.
-        <D>
-          Все итак поколений от Авраама до Давида поколений четырнадцать, и от Давида до
-          переселения Вавилонского поколений четырнадцать, и от переселения Вавилонского до
-          Христа поколений четырнадцать.
-        </D>
-      </T>
+      {chap.verses.map((v: Verse) => {
+        return (
+          <T>
+            <R>{v.number}</R>
+            {v.translates['tex_rec']}
+            <D>{v.translates['podstr']}</D>
+          </T>
+        )
+      })}
     </W>
   )
 }
