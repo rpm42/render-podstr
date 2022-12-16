@@ -1,6 +1,22 @@
 import * as React from 'react'
 import styled from 'styled-components'
 import './style.css'
+import books from './books-2.json'
+
+console.log(books)
+
+const targetBook = books[50]
+
+const test = async () => {
+  for (let i = 1; i <= targetBook.chaptersCount; i++) {
+    const fn = `./data/${targetBook.id}-${targetBook.shortCode}/${i}.json`
+    console.log(fn)
+    const chap = await import(fn)
+    console.log(chap)
+  }
+}
+
+test()
 
 const W = styled.div`
   width: 100%;
