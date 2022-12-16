@@ -8,12 +8,11 @@ console.log(books)
 const targetBook = books[50]
 
 const test = async () => {
-  for (let i = 1; i <= targetBook.chaptersCount; i++) {
-    const fn = `./data/${targetBook.id}-${targetBook.shortCode}/${i}.json`
-    console.log(fn)
-    const chap = await import(fn)
-    console.log(chap)
-  }
+  const i = 1
+  const fn = `./data/${targetBook.id}-${targetBook.shortCode}/${i}.json`
+  console.log(fn)
+  const chap = await import(fn)
+  console.log(chap)
 }
 
 test()
