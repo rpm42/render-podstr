@@ -1,0 +1,772 @@
+[
+  {
+    "id": 1,
+    "testament": "nt",
+    "title": "Бытие",
+    "shortTitle": "Быт",
+    "chaptersCount": 50,
+    "code": "bytie",
+    "shortCode": "byt",
+    "menu": "Бытие"
+  },
+  {
+    "id": 2,
+    "testament": "nt",
+    "title": "Исход",
+    "shortTitle": "Исх",
+    "chaptersCount": 40,
+    "code": "ishod",
+    "shortCode": "ish",
+    "menu": "Исход"
+  },
+  {
+    "id": 3,
+    "testament": "nt",
+    "title": "Левит",
+    "shortTitle": "Лев",
+    "chaptersCount": 27,
+    "code": "levit",
+    "shortCode": "lev",
+    "menu": "Левит"
+  },
+  {
+    "id": 4,
+    "testament": "nt",
+    "title": "Числа",
+    "shortTitle": "Чис",
+    "chaptersCount": 36,
+    "code": "cisla",
+    "shortCode": "chis",
+    "menu": "Числа"
+  },
+  {
+    "id": 5,
+    "testament": "nt",
+    "title": "Второзаконие",
+    "shortTitle": "Втор",
+    "chaptersCount": 34,
+    "code": "vtorozakonie",
+    "shortCode": "vtor",
+    "menu": "Второзаконие"
+  },
+  {
+    "id": 6,
+    "testament": "nt",
+    "title": "Книга Иисуса Навина",
+    "shortTitle": "Нав",
+    "chaptersCount": 24,
+    "code": "kniga-iisusa-navina",
+    "shortCode": "nav",
+    "menu": "Иисуса Навина"
+  },
+  {
+    "id": 7,
+    "testament": "nt",
+    "title": "Книга Судей Израилевых",
+    "shortTitle": "Суд",
+    "chaptersCount": 21,
+    "code": "kniga-sudej-izrailevyh",
+    "shortCode": "sud",
+    "menu": "Судей"
+  },
+  {
+    "id": 8,
+    "testament": "nt",
+    "title": "Книга Руфь",
+    "shortTitle": "Руф",
+    "chaptersCount": 4,
+    "code": "kniga-ruf",
+    "shortCode": "ruf",
+    "menu": "Руфь"
+  },
+  {
+    "id": 9,
+    "testament": "nt",
+    "title": "1-я книга Царств",
+    "shortTitle": "1 Цар",
+    "chaptersCount": 31,
+    "code": "1a-kniga-carstv",
+    "shortCode": "1car",
+    "menu": "1 Царств"
+  },
+  {
+    "id": 10,
+    "testament": "nt",
+    "title": "2-я книга Царств",
+    "shortTitle": "2 Цар",
+    "chaptersCount": 24,
+    "code": "2a-kniga-carstv",
+    "shortCode": "2car",
+    "menu": "2 Царств"
+  },
+  {
+    "id": 11,
+    "testament": "nt",
+    "title": "3-я книга Царств",
+    "shortTitle": "3 Цар",
+    "chaptersCount": 22,
+    "code": "3a-kniga-carstv",
+    "shortCode": "3car",
+    "menu": "3 Царств"
+  },
+  {
+    "id": 12,
+    "testament": "nt",
+    "title": "4-я книга Царств",
+    "shortTitle": "4 Цар",
+    "chaptersCount": 25,
+    "code": "4a-kniga-carstv",
+    "shortCode": "4car",
+    "menu": "4 Царств"
+  },
+  {
+    "id": 13,
+    "testament": "nt",
+    "title": "1-я книга Паралипоменон",
+    "shortTitle": "1 Пар",
+    "chaptersCount": 29,
+    "code": "1a-kniga-paralipomenon",
+    "shortCode": "1par",
+    "menu": "1 Паралипоменон"
+  },
+  {
+    "id": 14,
+    "testament": "nt",
+    "title": "2-я книга Паралипоменон",
+    "shortTitle": "2 Пар",
+    "chaptersCount": 36,
+    "code": "2a-kniga-paralipomenon",
+    "shortCode": "2par",
+    "menu": "2 Паралипоменон"
+  },
+  {
+    "id": 15,
+    "testament": "nt",
+    "title": "1-я книга Ездры",
+    "shortTitle": "1 Езд",
+    "chaptersCount": 10,
+    "code": "1a-kniga-ezdry",
+    "shortCode": "1ezd",
+    "menu": "1 Ездры"
+  },
+  {
+    "id": 16,
+    "testament": "nt",
+    "title": "Книга Неемии",
+    "shortTitle": "Неем",
+    "chaptersCount": 13,
+    "code": "kniga-neemii",
+    "shortCode": "neem",
+    "menu": "Неемия"
+  },
+  {
+    "id": 17,
+    "testament": "nt",
+    "title": "2-я книга Ездры",
+    "shortTitle": "2 Езд",
+    "chaptersCount": 9,
+    "code": "2a-kniga-ezdry",
+    "shortCode": "2ezd",
+    "menu": "2 Ездры *"
+  },
+  {
+    "id": 18,
+    "testament": "nt",
+    "title": "Книга Товита",
+    "shortTitle": "Тов",
+    "chaptersCount": 14,
+    "code": "kniga-tovita",
+    "shortCode": "tov",
+    "menu": "Товит *"
+  },
+  {
+    "id": 19,
+    "testament": "nt",
+    "title": "Книга Иудифь",
+    "shortTitle": "Иудиф",
+    "chaptersCount": 16,
+    "code": "kniga-iudif",
+    "shortCode": "iudif",
+    "menu": "Иудифь *"
+  },
+  {
+    "id": 20,
+    "testament": "nt",
+    "title": "Книга Есфири",
+    "shortTitle": "Есф",
+    "chaptersCount": 10,
+    "code": "kniga-esfiri",
+    "shortCode": "esf",
+    "menu": "Есфирь"
+  },
+  {
+    "id": 21,
+    "testament": "nt",
+    "title": "Книга Иова",
+    "shortTitle": "Иов",
+    "chaptersCount": 42,
+    "code": "kniga-iova",
+    "shortCode": "iov",
+    "menu": "Иов"
+  },
+  {
+    "id": 22,
+    "testament": "nt",
+    "title": "Псалтирь",
+    "shortTitle": "Пс",
+    "chaptersCount": 151,
+    "code": "psaltir",
+    "shortCode": "ps",
+    "menu": "Псалтирь"
+  },
+  {
+    "id": 23,
+    "testament": "nt",
+    "title": "Притчи Соломона",
+    "shortTitle": "Притч",
+    "chaptersCount": 31,
+    "code": "pritci-solomona",
+    "shortCode": "pritch",
+    "menu": "Притчи"
+  },
+  {
+    "id": 24,
+    "testament": "nt",
+    "title": "Книга Екклеcиаста",
+    "shortTitle": "Еккл",
+    "chaptersCount": 12,
+    "code": "kniga-ekkleciasta",
+    "shortCode": "ekkl",
+    "menu": "Екклесиаст"
+  },
+  {
+    "id": 25,
+    "testament": "nt",
+    "title": "Песнь песней Соломона",
+    "shortTitle": "Песн",
+    "chaptersCount": 8,
+    "code": "pesn-pesnej-solomona",
+    "shortCode": "pesn",
+    "menu": "Песнь Песней"
+  },
+  {
+    "id": 26,
+    "testament": "nt",
+    "title": "Книга Премудрости Соломона",
+    "shortTitle": "Прем",
+    "chaptersCount": 19,
+    "code": "kniga-premudrosti-solomona",
+    "shortCode": "prem",
+    "menu": "Прем. Соломона *"
+  },
+  {
+    "id": 27,
+    "testament": "nt",
+    "title": "Екклезиастик (Книга Премудрости Иисуса, сына Сирахова)",
+    "shortTitle": "Сир",
+    "chaptersCount": 51,
+    "code": "kniga-premudrosti-iisusa-syna-sirahova",
+    "shortCode": "sir",
+    "menu": "Сирах *"
+  },
+  {
+    "id": 28,
+    "testament": "nt",
+    "title": "Книга пророка Исаии",
+    "shortTitle": "Ис",
+    "chaptersCount": 66,
+    "code": "kniga-proroka-isaii",
+    "shortCode": "is",
+    "menu": "Исаия"
+  },
+  {
+    "id": 29,
+    "testament": "nt",
+    "title": "Книга пророка Иеремии",
+    "shortTitle": "Иер",
+    "chaptersCount": 52,
+    "code": "kniga-proroka-ieremii",
+    "shortCode": "ier",
+    "menu": "Иеремия"
+  },
+  {
+    "id": 30,
+    "testament": "nt",
+    "title": "Плач Иеремии",
+    "shortTitle": "Плач",
+    "chaptersCount": 5,
+    "code": "plac-ieremii",
+    "shortCode": "plach",
+    "menu": "Плач Иеремии"
+  },
+  {
+    "id": 31,
+    "testament": "nt",
+    "title": "Послание Иеремии",
+    "shortTitle": "Посл",
+    "chaptersCount": 1,
+    "code": "poslanie-ieremii",
+    "shortCode": "posl",
+    "menu": "Посл. Иеремии *"
+  },
+  {
+    "id": 32,
+    "testament": "nt",
+    "title": "Книга пророка Варуха",
+    "shortTitle": "Вар",
+    "chaptersCount": 5,
+    "code": "kniga-proroka-varuha",
+    "shortCode": "var",
+    "menu": "Варух *"
+  },
+  {
+    "id": 33,
+    "testament": "nt",
+    "title": "Книга пророка Иезекииля",
+    "shortTitle": "Иез",
+    "chaptersCount": 48,
+    "code": "kniga-proroka-iezekiila",
+    "shortCode": "iez",
+    "menu": "Иезекииль"
+  },
+  {
+    "id": 34,
+    "testament": "nt",
+    "title": "Книга пророка Даниила",
+    "shortTitle": "Дан",
+    "chaptersCount": 14,
+    "code": "kniga-proroka-daniila",
+    "shortCode": "dan",
+    "menu": "Даниил"
+  },
+  {
+    "id": 35,
+    "testament": "nt",
+    "title": "Книга пророка Осии",
+    "shortTitle": "Ос",
+    "chaptersCount": 14,
+    "code": "kniga-proroka-osii",
+    "shortCode": "os",
+    "menu": "Осия"
+  },
+  {
+    "id": 36,
+    "testament": "nt",
+    "title": "Книга пророка Иоиля",
+    "shortTitle": "Иоил",
+    "chaptersCount": 3,
+    "code": "kniga-proroka-ioila",
+    "shortCode": "ioil",
+    "menu": "Иоиль"
+  },
+  {
+    "id": 37,
+    "testament": "nt",
+    "title": "Книга пророка Амоса",
+    "shortTitle": "Ам",
+    "chaptersCount": 9,
+    "code": "kniga-proroka-amosa",
+    "shortCode": "am",
+    "menu": "Амос"
+  },
+  {
+    "id": 38,
+    "testament": "nt",
+    "title": "Книга пророка Авдия",
+    "shortTitle": "Авд",
+    "chaptersCount": 1,
+    "code": "kniga-proroka-avdia",
+    "shortCode": "avd",
+    "menu": "Авдий"
+  },
+  {
+    "id": 39,
+    "testament": "nt",
+    "title": "Книга пророка Ионы",
+    "shortTitle": "Ион",
+    "chaptersCount": 4,
+    "code": "kniga-proroka-iony",
+    "shortCode": "ion",
+    "menu": "Иона"
+  },
+  {
+    "id": 40,
+    "testament": "nt",
+    "title": "Книга пророка Михея",
+    "shortTitle": "Мих",
+    "chaptersCount": 7,
+    "code": "kniga-proroka-mihea",
+    "shortCode": "mih",
+    "menu": "Михей"
+  },
+  {
+    "id": 41,
+    "testament": "nt",
+    "title": "Книга пророка Наума",
+    "shortTitle": "Наум",
+    "chaptersCount": 3,
+    "code": "kniga-proroka-nauma",
+    "shortCode": "naum",
+    "menu": "Наум"
+  },
+  {
+    "id": 42,
+    "testament": "nt",
+    "title": "Книга пророка Аввакума",
+    "shortTitle": "Авв",
+    "chaptersCount": 3,
+    "code": "kniga-proroka-avvakuma",
+    "shortCode": "avv",
+    "menu": "Аввакум"
+  },
+  {
+    "id": 43,
+    "testament": "nt",
+    "title": "Книга пророка Софонии",
+    "shortTitle": "Соф",
+    "chaptersCount": 3,
+    "code": "kniga-proroka-sofonii",
+    "shortCode": "sof",
+    "menu": "Софония"
+  },
+  {
+    "id": 44,
+    "testament": "nt",
+    "title": "Книга пророка Аггея",
+    "shortTitle": "Агг",
+    "chaptersCount": 2,
+    "code": "kniga-proroka-aggea",
+    "shortCode": "agg",
+    "menu": "Аггей"
+  },
+  {
+    "id": 45,
+    "testament": "nt",
+    "title": "Книга пророка Захарии",
+    "shortTitle": "Зах",
+    "chaptersCount": 14,
+    "code": "kniga-proroka-zaharii",
+    "shortCode": "zah",
+    "menu": "Захария"
+  },
+  {
+    "id": 46,
+    "testament": "nt",
+    "title": "Книга пророка Малахии",
+    "shortTitle": "Мал",
+    "chaptersCount": 4,
+    "code": "kniga-proroka-malahii",
+    "shortCode": "mal",
+    "menu": "Малахия"
+  },
+  {
+    "id": 47,
+    "testament": "nt",
+    "title": "1-я книга Маккавейская",
+    "shortTitle": "1 Мак",
+    "chaptersCount": 16,
+    "code": "1a-kniga-makkavejskaa",
+    "shortCode": "1mak",
+    "menu": "1 Маккавейская *"
+  },
+  {
+    "id": 48,
+    "testament": "nt",
+    "title": "2-я книга Маккавейская",
+    "shortTitle": "2 Мак",
+    "chaptersCount": 15,
+    "code": "2a-kniga-makkavejskaa",
+    "shortCode": "2mak",
+    "menu": "2 Маккавейская *"
+  },
+  {
+    "id": 49,
+    "testament": "nt",
+    "title": "3-я книга Маккавейская",
+    "shortTitle": "3 Мак",
+    "chaptersCount": 7,
+    "code": "3a-kniga-makkavejskaa",
+    "shortCode": "3mak",
+    "menu": "3 Маккавейская *"
+  },
+  {
+    "id": 50,
+    "testament": "nt",
+    "title": "3-я книга Ездры",
+    "shortTitle": "3 Езд",
+    "chaptersCount": 16,
+    "code": "3a-kniga-ezdry",
+    "shortCode": "3ezd",
+    "menu": "3 Ездры *"
+  },
+  {
+    "id": 51,
+    "testament": "nt",
+    "title": "Евангелие от Матфея",
+    "shortTitle": "Мф",
+    "chaptersCount": 28,
+    "code": "evangelie-ot-matfea",
+    "shortCode": "mf",
+    "menu": "От Матфея"
+  },
+  {
+    "id": 52,
+    "testament": "nt",
+    "title": "Евангелие от Марка",
+    "shortTitle": "Мк",
+    "chaptersCount": 16,
+    "code": "evangelie-ot-marka",
+    "shortCode": "mk",
+    "menu": "От Марка"
+  },
+  {
+    "id": 53,
+    "testament": "nt",
+    "title": "Евангелие от Луки",
+    "shortTitle": "Лк",
+    "chaptersCount": 24,
+    "code": "evangelie-ot-luki",
+    "shortCode": "lk",
+    "menu": "От Луки"
+  },
+  {
+    "id": 54,
+    "testament": "nt",
+    "title": "Евангелие от Иоанна",
+    "shortTitle": "Ин",
+    "chaptersCount": 21,
+    "code": "evangelie-ot-ioanna",
+    "shortCode": "in",
+    "menu": "От Иоанна"
+  },
+  {
+    "id": 55,
+    "testament": "nt",
+    "title": "Деяния апостолов",
+    "shortTitle": "Деян",
+    "chaptersCount": 28,
+    "code": "deania-apostolov",
+    "shortCode": "deyan",
+    "menu": "Деяния"
+  },
+  {
+    "id": 56,
+    "testament": "nt",
+    "title": "Послание ап. Иакова",
+    "shortTitle": "Иак",
+    "chaptersCount": 5,
+    "code": "poslanie-ap-iakova",
+    "shortCode": "iak",
+    "menu": "Иакова"
+  },
+  {
+    "id": 57,
+    "testament": "nt",
+    "title": "1-ое послание ап. Петра",
+    "shortTitle": "1 Пет",
+    "chaptersCount": 5,
+    "code": "1oe-poslanie-ap-petra",
+    "shortCode": "1pet",
+    "menu": "1 Петра"
+  },
+  {
+    "id": 58,
+    "testament": "nt",
+    "title": "2-ое послание ап. Петра",
+    "shortTitle": "2 Пет",
+    "chaptersCount": 3,
+    "code": "2oe-poslanie-ap-petra",
+    "shortCode": "2pet",
+    "menu": "2 Петра"
+  },
+  {
+    "id": 59,
+    "testament": "nt",
+    "title": "1-ое послание ап. Иоанна",
+    "shortTitle": "1 Ин",
+    "chaptersCount": 5,
+    "code": "1oe-poslanie-ap-ioanna",
+    "shortCode": "1in",
+    "menu": "1 Иоанна"
+  },
+  {
+    "id": 60,
+    "testament": "nt",
+    "title": "2-ое послание ап. Иоанна",
+    "shortTitle": "2 Ин",
+    "chaptersCount": 1,
+    "code": "2oe-poslanie-ap-ioanna",
+    "shortCode": "2in",
+    "menu": "2 Иоанна"
+  },
+  {
+    "id": 61,
+    "testament": "nt",
+    "title": "3-ое послание ап. Иоанна",
+    "shortTitle": "3 Ин",
+    "chaptersCount": 1,
+    "code": "3oe-poslanie-ap-ioanna",
+    "shortCode": "3in",
+    "menu": "3 Иоанна"
+  },
+  {
+    "id": 62,
+    "testament": "nt",
+    "title": "Послание ап. Иуды",
+    "shortTitle": "Иуд",
+    "chaptersCount": 1,
+    "code": "poslanie-ap-iudy",
+    "shortCode": "iud",
+    "menu": "Иуды"
+  },
+  {
+    "id": 63,
+    "testament": "nt",
+    "title": "К Римлянам послание ап. Павла",
+    "shortTitle": "Рим",
+    "chaptersCount": 16,
+    "code": "k-rimlanam-poslanie-ap-pavla",
+    "shortCode": "rim",
+    "menu": "Римлянам"
+  },
+  {
+    "id": 64,
+    "testament": "nt",
+    "title": "1-ое послание к Коринфянам ап. Павла",
+    "shortTitle": "1 Кор",
+    "chaptersCount": 16,
+    "code": "1oe-poslanie-k-korinfanam-ap-pavla",
+    "shortCode": "1kor",
+    "menu": "1 Коринфянам"
+  },
+  {
+    "id": 65,
+    "testament": "nt",
+    "title": "2-ое послание к Коринфянам ап. Павла",
+    "shortTitle": "2 Кор",
+    "chaptersCount": 13,
+    "code": "2oe-poslanie-k-korinfanam-ap-pavla",
+    "shortCode": "2kor",
+    "menu": "2 Коринфянам"
+  },
+  {
+    "id": 66,
+    "testament": "nt",
+    "title": "К Галатам послание ап. Павла",
+    "shortTitle": "Гал",
+    "chaptersCount": 6,
+    "code": "k-galatam-poslanie-ap-pavla",
+    "shortCode": "gal",
+    "menu": "Галатам"
+  },
+  {
+    "id": 67,
+    "testament": "nt",
+    "title": "К Ефесянам послание ап. Павла",
+    "shortTitle": "Еф",
+    "chaptersCount": 6,
+    "code": "k-efesanam-poslanie-ap-pavla",
+    "shortCode": "ef",
+    "menu": "Ефесянам"
+  },
+  {
+    "id": 68,
+    "testament": "nt",
+    "title": "К Филиппийцам послание ап. Павла",
+    "shortTitle": "Флп",
+    "chaptersCount": 4,
+    "code": "k-filippijcam-poslanie-ap-pavla",
+    "shortCode": "flp",
+    "menu": "Филиппийцам"
+  },
+  {
+    "id": 69,
+    "testament": "nt",
+    "title": "К Колоссянам послание ап. Павла",
+    "shortTitle": "Кол",
+    "chaptersCount": 4,
+    "code": "k-kolossanam-poslanie-ap-pavla",
+    "shortCode": "kol",
+    "menu": "Колоссянам"
+  },
+  {
+    "id": 70,
+    "testament": "nt",
+    "title": "1-ое послание к Фессалоникийцам ап. Павла",
+    "shortTitle": "1 Фес",
+    "chaptersCount": 5,
+    "code": "1oe-poslanie-k-fessalonikijcam-ap-pavla",
+    "shortCode": "1fes",
+    "menu": "1 Фессалоникийцам"
+  },
+  {
+    "id": 71,
+    "testament": "nt",
+    "title": "2-ое послание к Фессалоникийцам ап. Павла",
+    "shortTitle": "2 Фес",
+    "chaptersCount": 3,
+    "code": "2oe-poslanie-k-fessalonikijcam-ap-pavla",
+    "shortCode": "2fes",
+    "menu": "2 Фессалоникийцам"
+  },
+  {
+    "id": 72,
+    "testament": "nt",
+    "title": "1-ое послание к Тимофею ап. Павла",
+    "shortTitle": "1 Тим",
+    "chaptersCount": 6,
+    "code": "1oe-poslanie-k-timofeu-ap-pavla",
+    "shortCode": "1tim",
+    "menu": "1 Тимофею"
+  },
+  {
+    "id": 73,
+    "testament": "nt",
+    "title": "2-ое послание к Тимофею ап. Павла",
+    "shortTitle": "2 Тим",
+    "chaptersCount": 4,
+    "code": "2oe-poslanie-k-timofeu-ap-pavla",
+    "shortCode": "2tim",
+    "menu": "2 Тимофею"
+  },
+  {
+    "id": 74,
+    "testament": "nt",
+    "title": "К Титу послание ап. Павла",
+    "shortTitle": "Тит",
+    "chaptersCount": 3,
+    "code": "k-titu-poslanie-ap-pavla",
+    "shortCode": "tit",
+    "menu": "Титу"
+  },
+  {
+    "id": 75,
+    "testament": "nt",
+    "title": "К Филимону послание ап. Павла",
+    "shortTitle": "Флм",
+    "chaptersCount": 1,
+    "code": "k-filimonu-poslanie-ap-pavla",
+    "shortCode": "flm",
+    "menu": "Филимону"
+  },
+  {
+    "id": 76,
+    "testament": "nt",
+    "title": "К Евреям послание ап. Павла",
+    "shortTitle": "Евр",
+    "chaptersCount": 13,
+    "code": "k-evream-poslanie-ap-pavla",
+    "shortCode": "evr",
+    "menu": "Евреям"
+  },
+  {
+    "id": 77,
+    "testament": "nt",
+    "title": "Откровение ап. Иоанна Богослова",
+    "shortTitle": "Откр",
+    "chaptersCount": 22,
+    "code": "otkrovenie-ap-ioanna-bogoslova",
+    "shortCode": "otkr",
+    "menu": "Апокалипсис"
+  }
+]
